@@ -871,3 +871,12 @@
 - edward-caird: 7 vols (Comte 1885, Religion 1893, Greek theology 1904, Kant 1909)
 - bertrand-russell +Introduction to Mathematical Philosophy (1920); augustus-de-morgan +Formal Logic (1847)
 - Held: Boole's Mathematical Analysis of Logic (only a 1948 facsimile found)
+
+## 2026-10-17 18:09 CDT — Round q: German and French philosophy in translation (IA)
+- theodor-gomperz: Greek Thinkers (4 vols, 1901-1914)
+- harald-hoffding: Outlines of Psychology, History of Modern Philosophy (2 vols), Philosophy of Religion
+- friedrich-paulsen: Introduction to Philosophy (1924 printing), Immanuel Kant (1902)
+- christoph-sigwart: Logic (1895, 2 vols)
+- wilhelm-wundt: Ethics (1897-1901, 3 vols)
+- henri-bergson: Matter and Memory, Introduction to Metaphysics, Mind-Energy, Meaning of the War
+- Held: Paulsen's System of Ethics (copyright line unreadable)

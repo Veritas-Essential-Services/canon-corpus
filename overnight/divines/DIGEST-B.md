@@ -206,3 +206,4 @@
 - 17:52 round n: 7 new shelves, 14 IA volumes (Lange, Hartmann, Windelband, Ueberweg, Erdmann, Beccaria, Lessing); nothing needs Adam.
 - 18:00 round o: 9 modern British shelves (Russell 15, Moore, Whitehead, Whewell, Kames, Clifford, Guyau, De Morgan, Jevons). For Adam: Russell's Mysticism and Logic (25447) and Problem of China (13940) held as post-1930 printings; Boole, the Tractatus and Principia have no plain-text PG file, so they wait for a scan.
 - 18:05 round p: 7 new shelves (Boole, Wittgenstein, McTaggart, Ferrier, Vaihinger, Cassirer, Edward Caird) + Russell and De Morgan additions. For Adam: Boole's Mathematical Analysis of Logic held (the only scans are a 1948 facsimile, post-1930 printing class).
+- 18:09 round q: 6 new shelves (Gomperz, Høffding, Paulsen, Sigwart, Wundt, Bergson), 19 volumes.

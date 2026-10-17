@@ -1308,6 +1308,14 @@
    "started": "2026-10-17T18:00:38-05:00",
    "finished": "2026-10-17T18:05:56-05:00",
    "notes": "7 new shelves + 2 additions, 17 IA volumes. Held Boole's Mathematical Analysis of Logic (1948 facsimile) and a 1968 McTaggart reprint."
+  },
+  {
+   "id": "round-2026-10-17q",
+   "status": "done",
+   "scope": "IA scans: Gomperz, Høffding, Paulsen, Sigwart, Wundt's Ethics, Bergson",
+   "started": "2026-10-17T18:05:56-05:00",
+   "finished": "2026-10-17T18:09:34-05:00",
+   "notes": "6 new shelves, 18 IA volumes + 1 PG text. Held Paulsen's System of Ethics (year unreadable)."
   }
  ]
 }
