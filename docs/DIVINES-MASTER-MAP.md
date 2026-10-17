@@ -5457,6 +5457,36 @@ Slugs `lull-*`. Translators: Peers (four books, 1923-1927) and Caxton. Blanquern
 | Peers's biography (1929) | excluded | |
 | Printings from 1945 on | excluded | |
 | Latin, Catalan and Spanish editions | excluded | |
+
+## Jacob Boehme (round 25, my pick, 2026-10-17)
+
+Slugs `boehme-*`. Translator claimed: Earle; Sparrow's name is not legible on his title pages, so not claimed. The Law Works name no translator; IA dates all four volumes 1764, but vols III-IV read 1772 and 1781.
+
+| Work | Status | Where |
+|---|---|---|
+| Dialogues on the Supersensual Life, ed. Bernard Holland (London: Methuen, 1901) | have-clean | CCEL boehme/supersensual |
+| The Works of Jacob Behmen, the Teutonic Theosopher, with figures left by William Law, vol. I (London: M. Richardson, MDCCLXIV) | have-ocr | IA `worksofjacobbehm01beohuoft` |
+| The Works of Jacob Behmen, vol. II (London: M. Richardson, MDCCLXIV) | have-ocr | IA `worksofjacobbehm02beohuoft` |
+| The Works of Jacob Behmen, vol. III (London: G. Robinson, MDCCLXXII) | have-ocr | IA `worksofjacobbehm03beohuoft` |
+| The Works of Jacob Behmen, vol. IV (London: G. Robinson, MDCCLXXXI) | have-ocr | IA `worksofjacobbehm04beohuoft` |
+| The High and Deepe Searching out of the Threefold Life of Man (London: M. S. for H. Blunden; catalogued 1650) | have-ocr | IA `bim_early-english-books-1641-1700_the-third-booke-of-the-a_bohme-jacob_1650` |
+| XL. Questions concerning the Soule, propounded by Dr. Balthasar Walter and answered by Jacob Behmen (London: M. S. for H. Blunden, 1647) | have-ocr | IA `bim_early-english-books-1641-1700_xl-questions-concerning_bhme-jacob_1647` |
+| Forty Questions of the Soul (London; catalogued 1665) | have-ocr | IA `fortyquestionsof00bohm` |
+| Signatura Rerum, or the Signature of all Things (London: John Macock for Giles Calvert; catalogued 1651) | have-ocr | IA `signaturarerumor00bhme` |
+| Aurora, that is, the Day-Spring (London: John Streater for Giles Calvert, 1656) | have-ocr | IA `aurorathatisdays00bhme` |
+| Concerning the Election of Grace (London; catalogued 1655) | have-ocr | IA `conelecti00bhme` |
+| Mysterium Magnum, or an Exposition of the First Book of Moses called Genesis (London; catalogued 1654) | have-ocr | IA `bim_early-english-books-1641-1700_mysterium-magnum_bohme-jacob_1654` |
+| The Way to Christ Discovered (London; catalogued 1654) | have-ocr | IA `bim_early-english-books-1641-1700_the-way-to-christ-discov_bhme-jacob_1654` |
+| The Way to Christ Described (Canterbury, 1894) | have-ocr | IA `waytochristdesc00begoog` |
+| The Epistles of Jacob Behmen, reprinted from the edition of 1649 (Glasgow, 1886) | have-ocr | IA `cu31924029351719` |
+| Six Theosophic Points and Other Writings, tr. John Rolleston Earle (London: Constable, 1919) | have-ocr | IA `sixtheosophicpoi00bhme_0` |
+| PG 33742: the same Holland 1901 Dialogues as CCEL | alternate | not shelved |
+| The Getty copy of the Law Works and the ECCO set (catalogued 1781 throughout) | alternate | not shelved |
+| Watkins reissues of Sparrow (1909-1924) | alternate | not shelved |
+| The Three Principles description (1648) and other seventeenth-century items | alternate | not shelved |
+| The Epistles of Jacob Behmen (London, catalogued 1649): no title page legible in the OCR; the 1886 Glasgow reprint of this edition is on the shelf | alternate | not shelved |
+| CCEL boehme/waytochrist: no print source stated | excluded | |
+| Whyte's appreciation (PG 16306) and other works about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1162,3 +1162,6 @@
 
 ## 2026-10-17 18:11 CDT — ramon-lull done
 - `pipeline/ramon-lull_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — jacob-boehme done
+- `pipeline/jacob-boehme_shelf.json`: 1 CCEL, 0 PG, 15 IA. Title pages read for boehme-signatura-rerum (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
