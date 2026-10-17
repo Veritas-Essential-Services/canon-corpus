@@ -5264,6 +5264,17 @@ Slugs `genoa-*`. No translator named on either title page. The CCEL Life and Doc
 | Treatise on Purgatory, second edition (1880) and undated fourth edition | alternate | not shelved |
 | von Hügel's Mystical Element of Religion: about her | excluded | |
 | Undated modern retypesets | excluded | |
+
+## Angela of Foligno (round 25, my pick, 2026-10-17)
+
+Slugs `angela-*`. Translator: Steegmann.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Divine Consolation of the Blessed Angela of Foligno, tr. Mary G. Steegmann (London: Chatto and Windus, 1909) | have-ocr | IA `divineconsolatio00angeuoft` |
+| Another copy of the 1909 Steegmann edition | alternate | not shelved |
+| Thorold's Essay in Aid of the Better Appreciation of Catholic Mysticism (1900): an essay about her with excerpts | alternate | not shelved |
+| Modern retypesets; French and Italian editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
