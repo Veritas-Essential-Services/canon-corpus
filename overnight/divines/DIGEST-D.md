@@ -94,7 +94,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `mitford` | 1 Gutenberg | 0 | 1,630 | Tales of Old Japan (1871), tr. Mitford |
 | `steel` | 2 Gutenberg | 0 | 3,888 | Tales of the Punjab (1894), English Fairy Tales (1918) |
 | `crane` | 1 Gutenberg | 0 | 1,963 | Italian Popular Tales (1885), tr. Crane, by chapter and tale |
-| `grinnell` | 4 Gutenberg | 0 | 3,491 | Pawnee Hero Stories, Blackfoot Lodge Tales, The Punishment of the Stingy, Blackfeet Indian Stories |
+| `grinnell` | 11 Gutenberg | 0 | 12,120 | Plains Indian tales and the Jack books for boys. Completed 2026-10-17: 7 more books added, every English text by George Bird Grinnell at Gutenberg that no other shelf holds. |
 | `harris-remus` | 4 Gutenberg | 0 | 5,087 | the Uncle Remus books 1880-1907. **Your call:** real folk tales inside a racist frame and dialect; keep, keep with a reader's note, or drop |
 | `burnett` | 42 Gutenberg | 0 | 47,126 | Children's books, novels and stories. Completed 2026-10-17: 35 more books added, every English text by Frances Hodgson Burnett at Gutenberg that no other shelf holds. |
 | `alcott` | 41 Gutenberg | 0 | 47,940 | Novels and stories for girls and adults. Completed 2026-10-17: 32 more books added, every English text by Louisa May Alcott at Gutenberg that no other shelf holds. |

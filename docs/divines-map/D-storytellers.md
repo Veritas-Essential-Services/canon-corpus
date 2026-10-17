@@ -1001,9 +1001,9 @@ Shelf: `pipeline/crane_shelf.json` (2026-10-02; added at the coordinator's relay
 |---|---|---|
 | Italian Popular Tales, tr. Thomas Frederick Crane (1885) | have | PG 23634, `crane-italian-popular-tales` (1963 units) |
 
-## George Bird Grinnell (Plains Indian tales)
+## George Bird Grinnell
 
-Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Pawnee and Blackfoot stories as told to Grinnell and set down by him in English; three books cut by their own Contents. His hunting, history and boys' books are not taken. Not in the manifest; no uids minted.
+Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Plains Indian tales and the Jack books for boys. All 11 of George Bird Grinnell's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1011,7 +1011,15 @@ Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's re
 | Blackfoot Lodge Tales: The Story of a Prairie People (1892) | have | PG 11547, `grinnell-blackfoot-lodge-tales` (1208 units) |
 | The Punishment of the Stingy, and Other Indian Stories (1901) | have | PG 66596, `grinnell-punishment-of-the-stingy` (468 units) |
 | Blackfeet Indian Stories (1913) | have | PG 13833, `grinnell-blackfeet-indian-stories` (704 units) |
+| Jack in the Rockies: A Boy's Adventures with a Pack Train | have | PG 44671, `grinnell-jack-in-the-rockies` (925 units) |
+| Jack the Young Explorer: A Boy's Experiances in the Unknown Northwest | have | PG 45443, `grinnell-jack-the-young-explorer` (1543 units) |
+| Jack the Young Trapper: An Eastern Boy's Fur Hunting in the Rocky Mountains | have | PG 45690, `grinnell-jack-the-young-trapper` (1489 units) |
+| Jack, the Young Ranchman: A Boy's Adventures in the Rockies | have | PG 45720, `grinnell-jack-the-young-ranchman` (1034 units) |
+| Jack Among the Indians; Or, A Boy's Summer on the Buffalo Plains | have | PG 46205, `grinnell-jack-among-the-indians` (1188 units) |
+| Jack the Young Canoeman: An Eastern Boy's Voyage in a Chinook Canoe | have | PG 46289, `grinnell-jack-the-young-canoeman` (1101 units) |
+| Jack the Young Cowboy: An Eastern Boy's Experiance on a Western Round-up | have | PG 47399, `grinnell-jack-the-young-cowboy` (1349 units) |
 | grinnell-other | excluded | When Buffalo Ran (PG 15189), Trails of the Pathfinders (53897), Beyond the Old Frontier (54125), the Jack books and Boone and Crockett volumes: history, fiction and hunting, outside a folk-tale batch |
+| grinnell-musk-ox-bison-sheep-and-goat | excluded | PG 48694, Musk-Ox, Bison, Sheep and Goat, is a three-author natural history |
 
 ## Joel Chandler Harris (Uncle Remus)
 
