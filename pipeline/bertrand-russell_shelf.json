@@ -1,5 +1,5 @@
 {
- "_about": "Bertrand Russell (1872-1970), from Project Gutenberg: An Essay on the Foundations of Geometry (Cambridge, 1897), The Problems of Philosophy (1912), Our Knowledge of the External World (1914; the etext is a 1922 reissue), Why Men Fight (Century, 1920; copyright 1916), Political Ideals (1917) and Proposed Roads to Freedom (1918) (both etexts name no printing), The Practice and Theory of Bolshevism (1920; reprinted February 1921), The Analysis of Mind (1921), Free Thought and Official Propaganda (1922), Icarus, or the Future of Science (1924), What I Believe (Dutton, 1925), The A B C of Relativity (Harper, 1925), Education and the Good Life (Boni and Liveright, 1926), Philosophy (Norton, 1927) and The Conquest of Happiness (Allen and Unwin, 1930). All published 1930 or earlier, so US public domain (the 1930 book since January 2026). Held: Mysticism and Logic (PG 25447; the etext is an impression printed after 1956) and The Problem of China (PG 13940; a 1966 impression), both post-1930 printings (Adam's open class). Not taken: Introduction to Mathematical Philosophy, The Analysis of Matter, The A B C of Atoms and Principia Mathematica (PG gives no plain-text file for them, only formats with mathematical notation). No uids minted.",
+ "_about": "Bertrand Russell (1872-1970), from Project Gutenberg: An Essay on the Foundations of Geometry (Cambridge, 1897), The Problems of Philosophy (1912), Our Knowledge of the External World (1914; the etext is a 1922 reissue), Why Men Fight (Century, 1920; copyright 1916), Political Ideals (1917) and Proposed Roads to Freedom (1918) (both etexts name no printing), The Practice and Theory of Bolshevism (1920; reprinted February 1921), The Analysis of Mind (1921), Free Thought and Official Propaganda (1922), Icarus, or the Future of Science (1924), What I Believe (Dutton, 1925), The A B C of Relativity (Harper, 1925), Education and the Good Life (Boni and Liveright, 1926), Philosophy (Norton, 1927) and The Conquest of Happiness (Allen and Unwin, 1930). All published 1930 or earlier, so US public domain (the 1930 book since January 2026). Held: Mysticism and Logic (PG 25447; the etext is an impression printed after 1956) and The Problem of China (PG 13940; a 1966 impression), both post-1930 printings (Adam's open class). Also, from a raw IA scan: Introduction to Mathematical Philosophy, second edition (Allen and Unwin, 1920). Not taken: The Analysis of Matter, The A B C of Atoms and Principia Mathematica (PG gives no plain-text file for them, only formats with mathematical notation). No uids minted.",
  "_author": "Bertrand Russell",
  "_name_words": [
   "bertrand",
@@ -76,7 +76,12 @@
    "The Conquest of Happiness (London: Allen and Unwin, 1930)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "russell-introduction-to-mathematical-philosophy-1920": [
+   "introductiontoma00russuoft",
+   "Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "russell-foundations-of-geometry-1897": {
@@ -213,6 +218,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "russell-introduction-to-mathematical-philosophy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
