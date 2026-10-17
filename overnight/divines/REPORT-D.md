@@ -1161,3 +1161,6 @@
 
 ## 2026-10-17 18:20 CDT — weyman: done
 - weyman: new shelf, 26 Gutenberg books, 52,133 units, 185 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — zane-grey: done
+- zane-grey: new shelf, 27 Gutenberg books, 56,438 units, 90 ~2 ids; verify 0 mismatches, 0 rights flags.

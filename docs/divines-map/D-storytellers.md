@@ -5592,6 +5592,40 @@ Shelf: `pipeline/weyman_shelf.json` (2026-10-17; added at the coordinator's rela
 | The red cockade | have | PG 39297, `weyman-red-cockade` (2388 units) |
 | weyman-index | excluded | PG 59008 is David Widger's index, not a text |
 
+## Zane Grey
+
+Shelf: `pipeline/zane-grey_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Western novels and stories; many describe Native Americans and Mexicans in the terms of their time. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Redheaded Outfield, and Other Baseball Stories | have | PG 385, `zgrey-redheaded-outfield-and-other-baseball-stories` (1190 units) |
+| Desert Gold | have | PG 502, `zgrey-desert-gold` (2067 units) |
+| The Lone Star Ranger: A Romance of the Border | have | PG 1027, `zgrey-lone-star-ranger` (2275 units) |
+| The Light of the Western Stars | have | PG 1095, `zgrey-light-of-the-western-stars` (2398 units) |
+| The Spirit of the Border: A Romance of the Early Settlers in the Ohio Valley | have | PG 1239, `zgrey-spirit-of-the-border` (2232 units) |
+| Betty Zane | have | PG 1261, `zgrey-betty-zane` (1995 units) |
+| The Heritage of the Desert: A Novel | have | PG 1262, `zgrey-heritage-of-the-desert` (1834 units) |
+| Riders of the Purple Sage | have | PG 1300, `zgrey-riders-of-the-purple-sage` (2291 units) |
+| The Last of the Plainsmen | have | PG 2057, `zgrey-last-of-the-plainsmen` (1174 units) |
+| Wildfire | have | PG 2066, `zgrey-wildfire` (2601 units) |
+| To the Last Man | have | PG 2070, `zgrey-to-the-last-man` (1951 units) |
+| The Man of the Forest | have | PG 3457, `zgrey-man-of-the-forest` (3686 units) |
+| The Border Legion | have | PG 4552, `zgrey-border-legion` (2353 units) |
+| The U. P. Trail | have | PG 4684, `zgrey-u-p-trail` (3722 units) |
+| The Rainbow Trail | have | PG 5067, `zgrey-rainbow-trail` (2206 units) |
+| The Last Trail | have | PG 9932, `zgrey-last-trail` (2048 units) |
+| The Desert of Wheat | have | PG 10201, `zgrey-desert-of-wheat` (2954 units) |
+| Tales of lonely trails | have | PG 12225, `zgrey-tales-of-lonely-trails` (1960 units) |
+| The Mysterious Rider | have | PG 13937, `zgrey-mysterious-rider` (2804 units) |
+| The Rustlers of Pecos County | have | PG 15580, `zgrey-rustlers-of-pecos-county` (2131 units) |
+| The Day of the Beast | have | PG 15673, `zgrey-day-of-the-beast` (2511 units) |
+| The Young Pitcher | have | PG 19246, `zgrey-young-pitcher` (1291 units) |
+| Tales of fishes | have | PG 29346, `zgrey-tales-of-fishes` (1177 units) |
+| Ken Ward in the Jungle | have | PG 45974, `zgrey-ken-ward-in-the-jungle` (1532 units) |
+| Tappan's Burro, and Other Stories | have | PG 59548, `zgrey-tappans-burro-and-other-stories` (1215 units) |
+| Wanderer of the Wasteland | have | PG 60102, `zgrey-wanderer-of-the-wasteland` (2580 units) |
+| From Missouri | have | PG 67370, `zgrey-from-missouri` (260 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
