@@ -1,0 +1,878 @@
+{
+ "_about": "L. T. Meade's school stories for girls and other fiction: every English text under her name at Gutenberg (catalogue: Meade 1854-1914). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "L. T. Meade",
+ "_name_words": [
+  "meade"
+ ],
+ "_surname": [
+  "l. t. meade",
+  "mrs. l. t. meade"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ltmeade-a-sweet-girl-graduate": [
+   4989,
+   "A Sweet Girl Graduate"
+  ],
+  "ltmeade-a-girl-of-the-people": [
+   6142,
+   "A Girl of the People"
+  ],
+  "ltmeade-childrens-pilgrimage": [
+   6899,
+   "The Children's Pilgrimage"
+  ],
+  "ltmeade-light-o-the-morning": [
+   7231,
+   "Light O' the Morning: The Story of an Irish Girl"
+  ],
+  "ltmeade-wild-kitty": [
+   9986,
+   "Wild Kitty"
+  ],
+  "ltmeade-palace-beautiful": [
+   15149,
+   "The Palace Beautiful: A Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-honorable-miss": [
+   15778,
+   "The Honorable Miss: A Story of an Old-Fashioned Town"
+  ],
+  "ltmeade-rebel-of-the-school": [
+   15839,
+   "The Rebel of the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-little-mother-to-the-others": [
+   17506,
+   "A Little Mother to the Others"
+  ],
+  "ltmeade-polly": [
+   18666,
+   "Polly: A New-Fashioned Girl"
+  ],
+  "ltmeade-a-girl-in-ten-thousand": [
+   19761,
+   "A Girl in Ten Thousand"
+  ],
+  "ltmeade-sue-a-little-heroine": [
+   20071,
+   "Sue, A Little Heroine",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-dickory-dock": [
+   21942,
+   "Dickory Dock"
+  ],
+  "ltmeade-a-modern-tomboy": [
+   22164,
+   "A Modern Tomboy: A Story for Girls"
+  ],
+  "ltmeade-a-master-of-mysteries": [
+   22278,
+   "A Master of Mysteries (with Robert Eustace)"
+  ],
+  "ltmeade-red-rose-and-tiger-lily": [
+   23022,
+   "Red Rose and Tiger Lily; Or, In a Wider World",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-how-it-all-came-round": [
+   23653,
+   "How It All Came Round"
+  ],
+  "ltmeade-a-young-mutineer": [
+   24599,
+   "A Young Mutineer",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-betty-vivian": [
+   25510,
+   "Betty Vivian: A Story of Haddo Court School",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-world-of-girls": [
+   25870,
+   "A World of Girls: The Story of a School",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-girls-of-the-forest": [
+   25872,
+   "Girls of the Forest"
+  ],
+  "ltmeade-children-of-wilton-chase": [
+   26409,
+   "The Children of Wilton Chase",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-bunch-of-cherries": [
+   28564,
+   "A Bunch of Cherries: A Story of Cherry Court School",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-good-luck": [
+   28565,
+   "Good Luck"
+  ],
+  "ltmeade-hollyhock": [
+   28566,
+   "Hollyhock: A Spirit of Mischief",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-frances-kanes-fortune": [
+   28589,
+   "Frances Kane's Fortune"
+  ],
+  "ltmeade-school-queens": [
+   28819,
+   "The School Queens"
+  ],
+  "ltmeade-time-of-roses": [
+   28862,
+   "The Time of Roses",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-daddys-girl": [
+   30333,
+   "Daddy's Girl"
+  ],
+  "ltmeade-dr-rumseys-patient": [
+   34545,
+   "Dr. Rumsey's patient (with Clifford Halifax)"
+  ],
+  "ltmeade-a-very-naughty-girl": [
+   36853,
+   "A Very Naughty Girl"
+  ],
+  "ltmeade-a-life-for-a-love": [
+   37107,
+   "A Life For a Love: A Novel"
+  ],
+  "ltmeade-little-princess-of-tower-hill": [
+   38771,
+   "The Little Princess of Tower Hill"
+  ],
+  "ltmeade-lady-of-the-forest": [
+   39705,
+   "The Lady of the Forest: A Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-plucky-girl": [
+   41136,
+   "A Plucky Girl"
+  ],
+  "ltmeade-girls-of-st-wodes": [
+   41326,
+   "The Girls of St. Wode's"
+  ],
+  "ltmeade-wild-heather": [
+   41826,
+   "Wild Heather"
+  ],
+  "ltmeade-girls-of-the-true-blue": [
+   42556,
+   "Girls of the True Blue",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-bevy-of-girls": [
+   43118,
+   "A Bevy of Girls"
+  ],
+  "ltmeade-davids-little-lad": [
+   43119,
+   "David's Little Lad"
+  ],
+  "ltmeade-dumps-a-plain-girl": [
+   43120,
+   "Dumps - A Plain Girl"
+  ],
+  "ltmeade-mou-sets": [
+   43136,
+   "Mou-Setsé: A Negro Hero; The Orphans' Pilgimage: A Story of Trust in God"
+  ],
+  "ltmeade-girl-and-her-fortune": [
+   43137,
+   "The Girl and Her Fortune"
+  ],
+  "ltmeade-three-girls-from-school": [
+   43138,
+   "Three Girls from School"
+  ],
+  "ltmeade-little-school-mothers": [
+   43140,
+   "The Little School-Mothers"
+  ],
+  "ltmeade-jill": [
+   43141,
+   "Jill: A Flower Girl"
+  ],
+  "ltmeade-a-london-baby": [
+   43142,
+   "A London Baby: The Story of King Roy"
+  ],
+  "ltmeade-a-ring-of-rubies": [
+   43143,
+   "A Ring of Rubies"
+  ],
+  "ltmeade-scamp-and-i": [
+   43144,
+   "Scamp and I: A Story of City By-Ways"
+  ],
+  "ltmeade-squires-little-girl": [
+   43145,
+   "The Squire's Little Girl"
+  ],
+  "ltmeade-turquoise-and-ruby": [
+   43146,
+   "Turquoise and Ruby"
+  ],
+  "ltmeade-girls-new-and-old": [
+   45659,
+   "Girls New and Old",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-sister-of-the-red-cross": [
+   47705,
+   "A Sister of the Red Cross: A Tale of the South African War",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-peggy-from-kerry": [
+   61829,
+   "Peggy from Kerry",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-bashful-fifteen": [
+   61857,
+   "Bashful Fifteen",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-manor-school": [
+   61878,
+   "The Manor School"
+  ],
+  "ltmeade-a-girl-of-high-adventure": [
+   61995,
+   "A Girl of High Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-daughter-of-a-soldier": [
+   62734,
+   "The Daughter of a Soldier: A Colleen of South Ireland",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-on-the-brink-of-a-chasm": [
+   64534,
+   "On the Brink of a Chasm: A record of plot and passion",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-a-son-of-ishmael": [
+   66110,
+   "A Son of Ishmael: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "ltmeade-outcast-robin": [
+   75665,
+   "Outcast Robin"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "lt-meade-repeat-43139": "PG 43139, A Sweet Girl Graduate: a second transcription of a title already on this shelf",
+  "lt-meade-repeat-43147": "PG 43147, A World of Girls: The Story of a School: a second transcription of a title already on this shelf",
+  "ltmeade-a-big-temptation": "PG 25467, A Big Temptation, and Other Stories, is shared with M. B. Manwell and Maggie Browne"
+ },
+ "_checks": {
+  "ltmeade-a-sweet-girl-graduate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-girl-of-the-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-childrens-pilgrimage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-light-o-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-wild-kitty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-palace-beautiful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-honorable-miss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-rebel-of-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-little-mother-to-the-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-polly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-girl-in-ten-thousand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-sue-a-little-heroine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-dickory-dock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-modern-tomboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-master-of-mysteries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-red-rose-and-tiger-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-how-it-all-came-round": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-young-mutineer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-betty-vivian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-world-of-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-girls-of-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-children-of-wilton-chase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-bunch-of-cherries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-good-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-hollyhock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-frances-kanes-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-school-queens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-time-of-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-daddys-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-dr-rumseys-patient": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-very-naughty-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-life-for-a-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-little-princess-of-tower-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-lady-of-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-plucky-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-girls-of-st-wodes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-wild-heather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-girls-of-the-true-blue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-bevy-of-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-davids-little-lad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-dumps-a-plain-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-mou-sets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-girl-and-her-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-three-girls-from-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-little-school-mothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-jill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-london-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-ring-of-rubies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-scamp-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-squires-little-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-turquoise-and-ruby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-girls-new-and-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-sister-of-the-red-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-peggy-from-kerry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-bashful-fifteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-manor-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-girl-of-high-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-daughter-of-a-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-on-the-brink-of-a-chasm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-a-son-of-ishmael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltmeade-outcast-robin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. t. meade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -5333,6 +5333,77 @@ Shelf: `pipeline/everett-green_shelf.json` (2026-10-17; added at the coordinator
 | Torwood's Trust, Volume 2 (of 3) | have | PG 70306, `egreen-torwoods-trust-2` (1446 units) |
 | Torwood's Trust, Volume 3 (of 3) | have | PG 70307, `egreen-torwoods-trust-3` (1886 units) |
 
+## L. T. Meade
+
+Shelf: `pipeline/lt-meade_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). School stories for girls and other fiction. Every English text under the name at Gutenberg that no other shelf holds (61 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sweet Girl Graduate | have | PG 4989, `ltmeade-a-sweet-girl-graduate` (2066 units) |
+| A Girl of the People | have | PG 6142, `ltmeade-a-girl-of-the-people` (1099 units) |
+| The Children's Pilgrimage | have | PG 6899, `ltmeade-childrens-pilgrimage` (1687 units) |
+| Light O' the Morning: The Story of an Irish Girl | have | PG 7231, `ltmeade-light-o-the-morning` (2436 units) |
+| Wild Kitty | have | PG 9986, `ltmeade-wild-kitty` (2435 units) |
+| The Palace Beautiful: A Story for Girls | have | PG 15149, `ltmeade-palace-beautiful` (1852 units) |
+| The Honorable Miss: A Story of an Old-Fashioned Town | have | PG 15778, `ltmeade-honorable-miss` (2380 units) |
+| The Rebel of the School | have | PG 15839, `ltmeade-rebel-of-the-school` (2704 units) |
+| A Little Mother to the Others | have | PG 17506, `ltmeade-a-little-mother-to-the-others` (2114 units) |
+| Polly: A New-Fashioned Girl | have | PG 18666, `ltmeade-polly` (1841 units) |
+| A Girl in Ten Thousand | have | PG 19761, `ltmeade-a-girl-in-ten-thousand` (1650 units) |
+| Sue, A Little Heroine | have | PG 20071, `ltmeade-sue-a-little-heroine` (2290 units) |
+| Dickory Dock | have | PG 21942, `ltmeade-dickory-dock` (188 units) |
+| A Modern Tomboy: A Story for Girls | have | PG 22164, `ltmeade-a-modern-tomboy` (2363 units) |
+| A Master of Mysteries (with Robert Eustace) | have | PG 22278, `ltmeade-a-master-of-mysteries` (1191 units) |
+| Red Rose and Tiger Lily; Or, In a Wider World | have | PG 23022, `ltmeade-red-rose-and-tiger-lily` (2160 units) |
+| How It All Came Round | have | PG 23653, `ltmeade-how-it-all-came-round` (1994 units) |
+| A Young Mutineer | have | PG 24599, `ltmeade-a-young-mutineer` (1468 units) |
+| Betty Vivian: A Story of Haddo Court School | have | PG 25510, `ltmeade-betty-vivian` (2471 units) |
+| A World of Girls: The Story of a School | have | PG 25870, `ltmeade-a-world-of-girls` (1738 units) |
+| Girls of the Forest | have | PG 25872, `ltmeade-girls-of-the-forest` (2609 units) |
+| The Children of Wilton Chase | have | PG 26409, `ltmeade-children-of-wilton-chase` (1896 units) |
+| A Bunch of Cherries: A Story of Cherry Court School | have | PG 28564, `ltmeade-a-bunch-of-cherries` (1444 units) |
+| Good Luck | have | PG 28565, `ltmeade-good-luck` (1132 units) |
+| Hollyhock: A Spirit of Mischief | have | PG 28566, `ltmeade-hollyhock` (1675 units) |
+| Frances Kane's Fortune | have | PG 28589, `ltmeade-frances-kanes-fortune` (1261 units) |
+| The School Queens | have | PG 28819, `ltmeade-school-queens` (2614 units) |
+| The Time of Roses | have | PG 28862, `ltmeade-time-of-roses` (2524 units) |
+| Daddy's Girl | have | PG 30333, `ltmeade-daddys-girl` (2365 units) |
+| Dr. Rumsey's patient (with Clifford Halifax) | have | PG 34545, `ltmeade-dr-rumseys-patient` (1978 units) |
+| A Very Naughty Girl | have | PG 36853, `ltmeade-a-very-naughty-girl` (2697 units) |
+| A Life For a Love: A Novel | have | PG 37107, `ltmeade-a-life-for-a-love` (2687 units) |
+| The Little Princess of Tower Hill | have | PG 38771, `ltmeade-little-princess-of-tower-hill` (1075 units) |
+| The Lady of the Forest: A Story for Girls | have | PG 39705, `ltmeade-lady-of-the-forest` (1400 units) |
+| A Plucky Girl | have | PG 41136, `ltmeade-a-plucky-girl` (2115 units) |
+| The Girls of St. Wode's | have | PG 41326, `ltmeade-girls-of-st-wodes` (2429 units) |
+| Wild Heather | have | PG 41826, `ltmeade-wild-heather` (1898 units) |
+| Girls of the True Blue | have | PG 42556, `ltmeade-girls-of-the-true-blue` (2821 units) |
+| A Bevy of Girls | have | PG 43118, `ltmeade-a-bevy-of-girls` (2466 units) |
+| David's Little Lad | have | PG 43119, `ltmeade-davids-little-lad` (1042 units) |
+| Dumps - A Plain Girl | have | PG 43120, `ltmeade-dumps-a-plain-girl` (2784 units) |
+| Mou-Setsé: A Negro Hero; The Orphans' Pilgimage: A Story of Trust in God | have | PG 43136, `ltmeade-mou-sets` (219 units) |
+| The Girl and Her Fortune | have | PG 43137, `ltmeade-girl-and-her-fortune` (1262 units) |
+| Three Girls from School | have | PG 43138, `ltmeade-three-girls-from-school` (2175 units) |
+| The Little School-Mothers | have | PG 43140, `ltmeade-little-school-mothers` (2178 units) |
+| Jill: A Flower Girl | have | PG 43141, `ltmeade-jill` (1268 units) |
+| A London Baby: The Story of King Roy | have | PG 43142, `ltmeade-a-london-baby` (344 units) |
+| A Ring of Rubies | have | PG 43143, `ltmeade-a-ring-of-rubies` (1641 units) |
+| Scamp and I: A Story of City By-Ways | have | PG 43144, `ltmeade-scamp-and-i` (1322 units) |
+| The Squire's Little Girl | have | PG 43145, `ltmeade-squires-little-girl` (491 units) |
+| Turquoise and Ruby | have | PG 43146, `ltmeade-turquoise-and-ruby` (2115 units) |
+| Girls New and Old | have | PG 45659, `ltmeade-girls-new-and-old` (2196 units) |
+| A Sister of the Red Cross: A Tale of the South African War | have | PG 47705, `ltmeade-a-sister-of-the-red-cross` (2474 units) |
+| Peggy from Kerry | have | PG 61829, `ltmeade-peggy-from-kerry` (2301 units) |
+| Bashful Fifteen | have | PG 61857, `ltmeade-bashful-fifteen` (2224 units) |
+| The Manor School | have | PG 61878, `ltmeade-manor-school` (2843 units) |
+| A Girl of High Adventure | have | PG 61995, `ltmeade-a-girl-of-high-adventure` (2186 units) |
+| The Daughter of a Soldier: A Colleen of South Ireland | have | PG 62734, `ltmeade-daughter-of-a-soldier` (1989 units) |
+| On the Brink of a Chasm: A record of plot and passion | have | PG 64534, `ltmeade-on-the-brink-of-a-chasm` (2856 units) |
+| A Son of Ishmael: A Novel | have | PG 66110, `ltmeade-a-son-of-ishmael` (2640 units) |
+| Outcast Robin | have | PG 75665, `ltmeade-outcast-robin` (684 units) |
+| lt-meade-repeat-43139 | excluded | PG 43139, A Sweet Girl Graduate: a second transcription of a title already on this shelf |
+| lt-meade-repeat-43147 | excluded | PG 43147, A World of Girls: The Story of a School: a second transcription of a title already on this shelf |
+| ltmeade-a-big-temptation | excluded | PG 25467, A Big Temptation, and Other Stories, is shared with M. B. Manwell and Maggie Browne |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
