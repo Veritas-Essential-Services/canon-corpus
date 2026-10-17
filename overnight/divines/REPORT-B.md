@@ -953,3 +953,6 @@
 ## 2026-10-17 18:42 CDT — Round aa: American philosophy, second pass
 - New shelves: c-i-lewis (1), william-ernest-hocking (1), mary-whiton-calkins (1), hugo-munsterberg (1), edwin-b-holt (2, incl. The New Realism 1912), george-sylvester-morris (1)
 - Hocking: a 1928 printing of a 1912 book (published before 1931, so cleared)
+
+## 2026-10-17 18:43 CDT — Round ab: wishlist fill
+- Added: Morris x2, Perry, Hocking, Calkins, Münsterberg, Holt, J. M. Baldwin, Venn, Pearson (one each unless noted)

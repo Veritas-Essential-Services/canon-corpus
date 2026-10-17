@@ -217,3 +217,4 @@
 - 18:37 round y: Charron (1707), Burlamaqui (1763), Cumberland (1727, year inferred from the dedication).
 - 18:40 round z: Perry, Felix Adler, Carus, J. M. Baldwin (10 Gutenberg texts).
 - 18:42 round aa: C. I. Lewis, Hocking, Calkins, Münsterberg, Holt (with The New Realism), G. S. Morris.
+- 18:43 round ab: 10 volumes added to this evening's shelves (Morris, Perry, Hocking, Calkins, Münsterberg, Holt, Baldwin, Venn, Pearson).
