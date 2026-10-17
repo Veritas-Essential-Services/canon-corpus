@@ -1,0 +1,33 @@
+{
+ "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy. US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
+ "_author": "Herbert Spencer",
+ "_name_words": [
+  "herbert",
+  "spencer"
+ ],
+ "_surname": [
+  "spencer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spencer-first-principles-1900": [
+   "cu31924029047608",
+   "First Principles, 6th ed. (New York: D. Appleton, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "spencer-first-principles-1900": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

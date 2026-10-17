@@ -3739,6 +3739,7 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles, final revised ed
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| First Principles, 6th ed. (New York: D. Appleton, 1900) |  | `spencer-first-principles-1900` | have-raw (IA `cu31924029047608`) |
 
 Pending (wishlist): The Principles of Biology, Psychology, Sociology and Ethics; the Essays.
 
