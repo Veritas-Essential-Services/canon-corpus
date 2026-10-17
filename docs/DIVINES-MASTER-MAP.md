@@ -5767,6 +5767,24 @@ Slugs `vincent-*`. Translator: E. K. Sanders.
 | R. F. Wilson's Life of S. Vincent de Paul with some of his letters (Rivingtons, 1873): a life by another hand | alternate | not shelved |
 | Leonard's Conferences (1952) and modern editions | excluded | |
 | Maynard and Ansart: works about him | excluded | |
+
+## Alphonsus Rodriguez (round 26, my pick, 2026-10-17)
+
+Slugs `rodriguez-*`. Translator claimed: Rickaby (1929); the Duffy 1861 and 1697 versions are from the French of Regnier des Marais, translator not named. This is the Jesuit spiritual writer, not the lay brother.
+
+| Work | Status | Where |
+|---|---|---|
+| The Practice of Christian and Religious Perfection, vol. I (Dublin: James Duffy, 1861) | have-ocr | IA `PracticeOfChristianAndReligiousPerfectionV1` |
+| The Practice of Christian and Religious Perfection, vol. II (Dublin: James Duffy, 1861) | have-ocr | IA `PracticeOfChristianAndReligiousPerfectionV2` |
+| The Practice of Christian and Religious Perfection, vol. III (Dublin: James Duffy, 1861) | have-ocr | IA `PracticeOfChristianAndReligiousPerfectionV3` |
+| The Practice of Christian Perfection, the first part, translated out of the French copy of Regnier des Marais (London: Thomas Hales; catalogued 1697) | have-ocr | IA `bim_early-english-books-1641-1700_the-practice-of-christia_rodriguez-alonso_1697` |
+| Practice of Perfection and Christian Virtues, newly translated from the Spanish by Joseph Rickaby, vol. I (Chicago: Loyola University Press, 1929) | have-ocr | IA `practiceofperfec0001alph` |
+| Practice of Perfection and Christian Virtues, tr. Joseph Rickaby, vol. II (Chicago: Loyola University Press, 1929) | have-ocr | IA `practiceofperfec0002alph` |
+| Practice of Perfection and Christian Virtues, tr. Joseph Rickaby, vol. III (Chicago: Loyola University Press, 1929) | have-ocr | IA `practiceofperfec0003alph` |
+| The undated Kenedy set and Kenedy 1899 vol. II; the Manresa Press Rickaby (1929, 2 vols) | alternate | not shelved |
+| Saint-Omer partial translations, 1627-1632 (Mental Prayer, Humility, Modesty and Silence, and others), and The Virtue of Humility (1673) | alternate | not shelved |
+| Damphoux's compilation 'from Rodriguez and other Catholic authors' (1834, 1836) | excluded | |
+| A 1977 facsimile | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

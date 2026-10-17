@@ -1,0 +1,158 @@
+{
+ "_about": "Public-domain Alphonsus (Alonso) Rodriguez (1526-1616, Spanish Jesuit; not the lay brother St Alphonsus Rodriguez) in English for the Word Hoard: The Practice of Christian and Religious Perfection, translated from the French of Regnier des Marais (3 vols, Dublin: James Duffy, 1861), its first part in the London translation of 1697, and Joseph Rickaby's new translation from the Spanish (3 vols, Chicago: Loyola University Press, 1929), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rodriguez"
+ ],
+ "_surname": [
+  "alphonsus rodriguez",
+  "alonso rodriguez",
+  "alphonso rodriguez",
+  "father rodriguez",
+  "rodriguez"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rodriguez-practice-perfection-1": [
+   "PracticeOfChristianAndReligiousPerfectionV1",
+   "The Practice of Christian and Religious Perfection, vol. I (Dublin: James Duffy, 1861)"
+  ],
+  "rodriguez-practice-perfection-2": [
+   "PracticeOfChristianAndReligiousPerfectionV2",
+   "The Practice of Christian and Religious Perfection, vol. II (Dublin: James Duffy, 1861)"
+  ],
+  "rodriguez-practice-perfection-3": [
+   "PracticeOfChristianAndReligiousPerfectionV3",
+   "The Practice of Christian and Religious Perfection, vol. III (Dublin: James Duffy, 1861)"
+  ],
+  "rodriguez-practice-1697": [
+   "bim_early-english-books-1641-1700_the-practice-of-christia_rodriguez-alonso_1697",
+   "The Practice of Christian Perfection, the first part, translated out of the French copy of Regnier des Marais (London: Thomas Hales; catalogued 1697)"
+  ],
+  "rodriguez-practice-rickaby-1": [
+   "practiceofperfec0001alph",
+   "Practice of Perfection and Christian Virtues, newly translated from the Spanish by Joseph Rickaby, vol. I (Chicago: Loyola University Press, 1929)"
+  ],
+  "rodriguez-practice-rickaby-2": [
+   "practiceofperfec0002alph",
+   "Practice of Perfection and Christian Virtues, tr. Joseph Rickaby, vol. II (Chicago: Loyola University Press, 1929)"
+  ],
+  "rodriguez-practice-rickaby-3": [
+   "practiceofperfec0003alph",
+   "Practice of Perfection and Christian Virtues, tr. Joseph Rickaby, vol. III (Chicago: Loyola University Press, 1929)"
+  ]
+ },
+ "_alternates": {
+  "rodriguez-copies": "The undated Kenedy set and Kenedy 1899 vol. II; the Manresa Press Rickaby (1929, 2 vols)",
+  "rodriguez-early-treatises": "Saint-Omer partial translations, 1627-1632 (Mental Prayer, Humility, Modesty and Silence, and others), and The Virtue of Humility (1673)"
+ },
+ "_excluded": {
+  "rodriguez-damphoux": "Damphoux's compilation 'from Rodriguez and other Catholic authors' (1834, 1836)",
+  "rodriguez-late": "A 1977 facsimile"
+ },
+ "_rights_checked": {
+  "rodriguez-practice-1697": "title page read: London, Thomas Hales; year OCR'd 'M DCXC OV'; catalogued 1697",
+  "rodriguez-practice-rickaby-1": "title page read: Loyola University Press, Chicago, 1929, copyright 1929: US public domain since 2025; Rickaby died 1932, so not public domain in the UK",
+  "rodriguez-practice-rickaby-2": "as vol. I",
+  "rodriguez-practice-rickaby-3": "as vol. I"
+ },
+ "_pending": {
+  "rodriguez-1697-parts": "Parts 2 and 3 of the 1697-1699 London translation: not found"
+ },
+ "_translators": {
+  "rodriguez-practice-rickaby-1": "rickaby",
+  "rodriguez-practice-rickaby-2": "rickaby",
+  "rodriguez-practice-rickaby-3": "rickaby"
+ },
+ "_checks": {
+  "rodriguez-practice-perfection-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rodriguez-practice-perfection-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rodriguez-practice-perfection-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rodriguez-practice-1697": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1697",
+   "ia_date": "1697",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, Thomas Hales; year OCR'd 'M DCXC OV'; catalogued 1697"
+  },
+  "rodriguez-practice-rickaby-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "translator_claimed": "rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Loyola University Press, Chicago, 1929, copyright 1929: US public domain since 2025; Rickaby died 1932, so not public domain in the UK"
+  },
+  "rodriguez-practice-rickaby-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "translator_claimed": "rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "as vol. I"
+  },
+  "rodriguez-practice-rickaby-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alphonsus rodriguez",
+   "translator_claimed": "rickaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "as vol. I"
+  }
+ }
+}
