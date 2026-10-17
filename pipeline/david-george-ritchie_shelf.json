@@ -1,0 +1,66 @@
+{
+ "_about": "David George Ritchie (1853-1903), raw IA OCR: Darwinism and Politics, second edition with two additional essays on human evolution (London: Swan Sonnenschein, 1891; the OCR misreads the year as '1801'), Darwin and Hegel, with other philosophical studies (Swan Sonnenschein, 1893) and Studies in Political and Social Ethics (Swan Sonnenschein, 1902). US public domain. No uids minted.",
+ "_author": "David George Ritchie",
+ "_name_words": [
+  "david",
+  "george",
+  "g",
+  "ritchie"
+ ],
+ "_surname": [
+  "ritchie",
+  "david g ritchie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ritchie-darwinism-and-politics-1891": [
+   "darwinismpolitic00ritcuoft",
+   "Darwinism and Politics, second edition (London: Swan Sonnenschein, 1891)"
+  ],
+  "ritchie-darwin-and-hegel-1893": [
+   "darwinhegelwitho00ritcrich",
+   "Darwin and Hegel, with other philosophical studies (London: Swan Sonnenschein, 1893)"
+  ],
+  "ritchie-studies-political-social-ethics-1902": [
+   "studiesinpoliti00ritcuoft",
+   "Studies in Political and Social Ethics (London: Swan Sonnenschein, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ritchie-darwinism-and-politics-1891": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ritchie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ritchie-darwin-and-hegel-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ritchie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ritchie-studies-political-social-ethics-1902": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ritchie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
