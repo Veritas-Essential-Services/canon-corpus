@@ -1,0 +1,120 @@
+{
+ "_about": "John Fiske (1842-1901) as a philosopher of evolution: Outlines of Cosmic Philosophy (raw IA OCR; vol. I Boston: Osgood, 1875; vol. II London: Macmillan, 1874, the first edition's two issues), and from Project Gutenberg The Unseen World and other essays (1876), The Idea of God as Affected by Modern Knowledge (Houghton Mifflin, 1886), A Century of Science and other essays (1899), Through Nature to God (1900; copyright 1899) and Life Everlasting (1901). US public domain. His histories are left for other shelves. No uids minted.",
+ "_author": "John Fiske",
+ "_name_words": [
+  "john",
+  "fiske"
+ ],
+ "_surname": [
+  "fiske",
+  "john fiske"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fiske-unseen-world": [
+   1486,
+   "The Unseen World, and other essays (1876; the etext names no printing)"
+  ],
+  "fiske-idea-of-god-1886": [
+   46476,
+   "The Idea of God as Affected by Modern Knowledge (Boston: Houghton, Mifflin, 1886)"
+  ],
+  "fiske-century-of-science-1899": [
+   40590,
+   "A Century of Science, and other essays (Boston: Houghton, Mifflin, 1899)"
+  ],
+  "fiske-through-nature-to-god-1900": [
+   34716,
+   "Through Nature to God (Boston: Houghton, Mifflin, 1900)"
+  ],
+  "fiske-life-everlasting-1901": [
+   34569,
+   "Life Everlasting (Boston: Houghton Mifflin, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "fiske-outlines-of-cosmic-philosophy-1875-v1": [
+   "outlinesofcosmic01fisk_1",
+   "Outlines of Cosmic Philosophy, vol. I (Boston: James R. Osgood, 1875)"
+  ],
+  "fiske-outlines-of-cosmic-philosophy-1874-v2": [
+   "outlinescosmicp02unkngoog",
+   "Outlines of Cosmic Philosophy, vol. II (London: Macmillan, 1874)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fiske-unseen-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-idea-of-god-1886": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-century-of-science-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-through-nature-to-god-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-life-everlasting-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-outlines-of-cosmic-philosophy-1875-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiske-outlines-of-cosmic-philosophy-1874-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "fiske-outlines-of-cosmic-philosophy-1874-v2": {
+   "author": "title page OCR reads 'BY JOHN FI8KE, M.A., LL.B., ASSISTANT LIBRARIAN ... AT HARVARD UNIVERSITY' (John Fiske); Outlines of Cosmic Philosophy, vol. II, Macmillan 1874"
+  }
+ }
+}
