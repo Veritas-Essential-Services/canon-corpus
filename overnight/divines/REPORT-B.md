@@ -968,3 +968,9 @@
 - Bowne: Personalism (1908); Boutroux: Pascal, tr. Creak (1902)
 - Bolingbroke: Patriot King letters (1752) and Study and Use of History (Paris, 1808); Lotze: Outlines of Metaphysic, tr. Ladd (1884)
 - Still wanted: Spencer's Principles of Sociology in a matched printing
+
+## 2026-10-17 18:51 CDT — Round ae: wishlist fill, third batch
+- Spencer: Principles of Sociology (3 vols); Bosanquet: Logic, 2nd ed. (2 vols)
+- Lotze: Outlines of Aesthetics; Paulsen: A System of Ethics (1899, replaces an undated hold); Fiske: Destiny of Man
+- Dewey: The Child and the Curriculum (1930 impression); Mill: Principles of Political Economy (1900)
+- Held: Hale White's Tractatus de Intellectus Emendatione (no year)
