@@ -23985,6 +23985,42 @@ Shelf: `pipeline/frank-webster_shelf.json` (2026-10-17; added at the coordinator
 | Tom Taylor at West Point | have | PG 71034, `fwebster-tom-taylor-at-west-point` (1550 units) |
 | The high school rivals | have | PG 71306, `fwebster-high-school-rivals` (1729 units) |
 
+## Emerson Hough
+
+Shelf: `pipeline/emerson-hough_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frontier novels and outdoor books. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Passing of the Frontier: A Chronicle of the Old West | have | PG 3033, `ehough-passing-of-the-frontier` (326 units) |
+| The Law of the Land Of Miss Lady, Whom It Involved in Mystery, and of John Eddring, Gentleman of the South, Who Read Its Deeper Meaning: A Novel | have | PG 6431, `ehough-law-of-the-land-of-miss-lady-whom-it-involved-in-myst` (1513 units) |
+| The Purchase Price; Or, The Cause of Compromise | have | PG 11593, `ehough-purchase-price` (1973 units) |
+| The Covered Wagon | have | PG 13384, `ehough-covered-wagon` (2261 units) |
+| The Mississippi Bubble How the Star of Good Fortune Rose and Set and Rose Again, by a Woman's Grace, for One John Law of Lauriston | have | PG 14001, `ehough-mississippi-bubble-how-the-star-of-good-fortune-rose` (1892 units) |
+| 54-40 or Fight | have | PG 14355, `ehough-54-40-or-fight` (2093 units) |
+| The Way of a Man | have | PG 14362, `ehough-way-of-a-man` (2077 units) |
+| The Girl at the Halfway House A Story of the Plains | have | PG 14948, `ehough-girl-at-the-halfway-house-a-story-of-the-plains` (1270 units) |
+| Heart's Desire The Story of a Contented Town, Certain Peculiar Citizens, and Two Fortunate Lovers A Novel | have | PG 15159, `ehough-hearts-desire-the-story-of-a-contented-town-certain-p` (1825 units) |
+| The Sagebrusher: A Story of the West | have | PG 19388, `ehough-sagebrusher` (2179 units) |
+| The Singing Mouse Stories | have | PG 21004, `ehough-singing-mouse-stories` (319 units) |
+| The Man Next Door | have | PG 23606, `ehough-man-next-door` (1996 units) |
+| Maw's Vacation: The Story of a Human Being in the Yellowstone | have | PG 24126, `ehough-maws-vacation` (147 units) |
+| The Story of the Outlaw: A Study of the Western Desperado | have | PG 24342, `ehough-story-of-the-outlaw` (665 units) |
+| The Lady and the Pirate Being the Plain Tale of a Diligent Pirate and a Fair Captive | have | PG 24907, `ehough-lady-and-the-pirate-being-the-plain-tale-of-a-diligen` (2301 units) |
+| The Young Alaskans | have | PG 25494, `ehough-young-alaskans` (1210 units) |
+| The Young Alaskans on the Missouri | have | PG 26367, `ehough-young-alaskans-on-the-missouri` (1637 units) |
+| The Young Alaskans in the Rockies | have | PG 27850, `ehough-young-alaskans-in-the-rockies` (1311 units) |
+| Young Alaskans in the Far North | have | PG 28694, `ehough-young-alaskans-in-the-far-north` (827 units) |
+| The Young Alaskans on the Trail | have | PG 28741, `ehough-young-alaskans-on-the-trail` (1480 units) |
+| The Magnificent Adventure Being the Story of the World's Greatest Exploration and the Romance of a Very Gallant Gentleman | have | PG 30298, `ehough-magnificent-adventure-being-the-story-of-the-worlds-g` (2202 units) |
+| The Broken Gate: A Novel | have | PG 33475, `ehough-broken-gate` (1877 units) |
+| The King of Gee-Whiz (verses by Wilbur D. Nesbit) | have | PG 41361, `ehough-king-of-gee-whiz` (934 units) |
+| The Way to the West, and the Lives of Three Early Americans: Boone—Crockett—Carson | have | PG 45143, `ehough-way-to-the-west-and-the-lives-of-three-early-american` (1672 units) |
+| The Way Out | have | PG 49096, `ehough-way-out` (1584 units) |
+| North of 36 | have | PG 59201, `ehough-north-of-36` (2822 units) |
+| John Rawn, Prominent Citizen | have | PG 60001, `ehough-john-rawn-prominent-citizen` (2216 units) |
+| The Web | have | PG 74188, `ehough-web` (2052 units) |
+| pg-39957 | excluded | PG 39957 Prairie Gold: a many-author anthology of the Iowa Press and Authors' Club. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
