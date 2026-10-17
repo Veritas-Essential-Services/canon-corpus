@@ -3713,6 +3713,9 @@ Shelf: `pipeline/comte_shelf.json`. Auguste Comte (1798-1857) in English, raw IA
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Positive Philosophy of Auguste Comte, freely translated and condensed, vol. I (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v1` | have-raw (IA `positivephilosop01comt`) |
+| The Positive Philosophy of Auguste Comte, vol. II (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v2` | have-raw (IA `positivephilosop02comt`) |
+| The Positive Philosophy of Auguste Comte, vol. III (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v3` | have-raw (IA `positivephilosop03comt`) |
 
 ## Perseus census (overflow)
 

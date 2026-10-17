@@ -1,0 +1,77 @@
+{
+ "_about": "Auguste Comte (1798-1857) in English, raw IA OCR: The Positive Philosophy, freely translated and condensed by Harriet Martineau, introduction by Frederic Harrison (Bohn's Philosophical Library, 1896, 3 vols.); System of Positive Polity (Longmans, 1875-1877, 4 vols.; vol. I tr. J. H. Bridges, vol. II Frederic Harrison, vol. III E. S. Beesly with Samuel Lobb, Fanny Hertz, Bridges and Vernon and Godfrey Lushington, vol. IV Richard Congreve); and Congreve's Catechism of Positive Religion (London: John Chapman, 1858). US public domain. Bridges's General View of Positivism (PG 53799) is on singles-ideas-2, and Gillespie's Philosophy of Mathematics (PG 39702) on singles-science-craft; neither is taken again. No uids minted.",
+ "_author": "Auguste Comte",
+ "_name_words": [
+  "auguste",
+  "comte"
+ ],
+ "_surname": [
+  "comte"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "comte-martineau-positive-philosophy-1896-v1": [
+   "positivephilosop01comt",
+   "The Positive Philosophy of Auguste Comte, freely translated and condensed, vol. I (Bohn; London: George Bell, 1896)",
+   "tr. Harriet Martineau"
+  ],
+  "comte-martineau-positive-philosophy-1896-v2": [
+   "positivephilosop02comt",
+   "The Positive Philosophy of Auguste Comte, vol. II (Bohn; London: George Bell, 1896)",
+   "tr. Harriet Martineau"
+  ],
+  "comte-martineau-positive-philosophy-1896-v3": [
+   "positivephilosop03comt",
+   "The Positive Philosophy of Auguste Comte, vol. III (Bohn; London: George Bell, 1896)",
+   "tr. Harriet Martineau"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "comte-martineau-positive-philosophy-1896-v1": "Martineau",
+  "comte-martineau-positive-philosophy-1896-v2": "Martineau",
+  "comte-martineau-positive-philosophy-1896-v3": "Martineau"
+ },
+ "_checks": {
+  "comte-martineau-positive-philosophy-1896-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "comte",
+   "translator_claimed": "Martineau",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "comte-martineau-positive-philosophy-1896-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "comte",
+   "translator_claimed": "Martineau",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "comte-martineau-positive-philosophy-1896-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "comte",
+   "translator_claimed": "Martineau",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
