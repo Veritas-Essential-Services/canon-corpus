@@ -956,3 +956,8 @@
 
 ## 2026-10-17 18:43 CDT — Round ab: wishlist fill
 - Added: Morris x2, Perry, Hocking, Calkins, Münsterberg, Holt, J. M. Baldwin, Venn, Pearson (one each unless noted)
+
+## 2026-10-17 18:46 CDT — Round ac: older wishlist fill
+- Added: Bosanquet x2, McTaggart, Ferrier vol. I, Seth/Pringle-Pattison x2, Ritchie, Bentham, Mill
+- Held: Collins, A Philosophical Inquiry concerning Human Liberty (OCR 0.774)
+- Left for Lane C: Boutroux, Natural Law in Science and Philosophy, tr. Fred Rothwell (1914), not held anywhere yet
