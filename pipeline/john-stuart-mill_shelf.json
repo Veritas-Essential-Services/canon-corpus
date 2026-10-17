@@ -1,5 +1,5 @@
 {
- "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
+ "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition; and from Project Gutenberg the System of Logic (8th ed., Harper, 1882), Considerations on Representative Government, the Autobiography, Essays on Some Unsettled Questions of Political Economy (1844), The Subjection of Women (1869) and the posthumous Socialism (Chicago, 1879). Two PG etexts (Representative Government, Autobiography) do not name the printing they follow; both works were first printed in Mill's lifetime or the year of his death and the etexts are US public domain. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
  "_author": "John Stuart Mill",
  "_name_words": [
   "john",
@@ -10,7 +10,32 @@
   "mill"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "mill-system-of-logic-1882": [
+   27942,
+   "A System of Logic, Ratiocinative and Inductive, 8th ed. (New York: Harper, 1882)"
+  ],
+  "mill-representative-government": [
+   5669,
+   "Considerations on Representative Government (the etext does not name its printing)"
+  ],
+  "mill-autobiography": [
+   10378,
+   "Autobiography (the etext does not name its printing; bracketed passages not in all editions)"
+  ],
+  "mill-unsettled-questions-1844": [
+   12004,
+   "Essays on Some Unsettled Questions of Political Economy (1844)"
+  ],
+  "mill-subjection-of-women-1869": [
+   27083,
+   "The Subjection of Women (London: Longmans, Green, Reader, and Dyer, 1869)"
+  ],
+  "mill-socialism-1879": [
+   38138,
+   "Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879)"
+  ]
+ },
  "internet_archive": {
   "mill-examination-of-hamilton-1865-v1": [
    "anexaminationofs01millrich",
@@ -23,6 +48,60 @@
  },
  "_excluded": {},
  "_checks": {
+  "mill-system-of-logic-1882": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-representative-government": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-autobiography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-unsettled-questions-1844": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-subjection-of-women-1869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-socialism-1879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "mill-examination-of-hamilton-1865-v1": {
    "kind": "ia",
    "checked": "2026-10-17",
