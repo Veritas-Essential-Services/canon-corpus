@@ -234,3 +234,4 @@
 - 19:27 round ap: Bacon's Spedding Works complete (15 vols., 1864); the vols. with Latin originals are Bacon's own Latin, not facing text, flagged in case the facing-text ruling should cover them.
 - 19:29 round aq: 14 volumes (Bacon Letters and Life, Malthus 1826, Bentham Rationale); Hobbes 8-11 dropped as duplicates.
 - 19:36 round ar: 5 new shelves (Bayle, Schelling, Glanvill, Toland, Chubb) and Arber's Utopia; inferred years noted on Bayle I/III and Toland.
+- 19:40 round as: Roger Bacon, John of Salisbury and Donoso Cortes shelved; Wolff's Logic held (OCR).

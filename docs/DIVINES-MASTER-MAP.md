@@ -11679,8 +11679,7 @@ Shelf: `pipeline/joseph-glanvill_shelf.json`. Essays (1676) and Scepsis Scientif
 |---|---|---|---|
 | Essays on Several Important Subjects in Philosophy and Religion (London: John Baker and Henry Mortlock, 1676) |  | `glanvill-essays-1676` | have-raw (IA `essaysonseverali00glan`) |
 | Scepsis Scientifica, ed. John Owen (London: Kegan Paul, Trench, 1885) |  | `glanvill-owen-scepsis-scientifica-1885` | have-raw (IA `scepsisscientifi00glan`) |
-
-Pending (wishlist): Saducismus Triumphatus in a scan over the OCR gate
+| Saducismus Triumphatus, or full and plain evidence concerning witches and apparitions, third edition with additions, with Henry More's account and Anthony Horneck's Swedish relations (London: printed for A. L., sold by Roger Tuckyr, 1700) |  | `glanvill-saducismus-triumphatus-1700` | have-raw (IA `saducismustriump00glan`) |
 
 ## John Toland
 
@@ -11700,6 +11699,31 @@ Shelf: `pipeline/thomas-chubb_shelf.json`. A Collection of Tracts, second editio
 |---|---|---|---|
 | A Collection of Tracts on Various Subjects, second edition, vol. I (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v1` | have-raw (IA `acollectiontrac01chubgoog`) |
 | A Collection of Tracts on Various Subjects, second edition, vol. II (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v2` | have-raw (IA `collectionoftrac02chub`) |
+
+## Juan Donoso Cortes
+
+Shelf: `pipeline/donoso-cortes_shelf.json`. Essay on Catholicism, Liberalism and Socialism (Goddard, 1862).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essay on Catholicism, Liberalism and Socialism (Philadelphia: J. B. Lippincott, 1862) | Madeleine Vinton Goddard | `donoso-cortes-goddard-essay-1862` | have-raw (IA `essayoncatholici00dono`) |
+
+## Roger Bacon
+
+Shelf: `pipeline/roger-bacon_shelf.json`. The Opus Majus, tr. Burke (1928, 2 vols.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Opus Majus, vol. I (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v1` | have-raw (IA `opusmajustransla01baco`) |
+| The Opus Majus, vol. II (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v2` | have-raw (IA `opusmajusofroger0002robe_l9a1`) |
+
+## John of Salisbury
+
+Shelf: `pipeline/john-of-salisbury_shelf.json`. The Statesman's Book, from the Policraticus (Dickinson, 1927).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Statesman's Book, from the Policraticus (New York: Alfred A. Knopf, 1927) | John Dickinson | `salisbury-dickinson-statesmans-book-1927` | have-raw (IA `statesmansbookof0000unse`) |
 
 ## Perseus census (overflow)
 

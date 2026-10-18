@@ -1061,3 +1061,11 @@
 - Chubb: Collection of Tracts (1754, 2 vols.), new shelf
 - Held under the OCR gate: Toland's Christianity not Mysterious and Letters to Serena; Gassendi's Three Discourses (1699)
 - Checked and left: Condillac, Dilthey, Maine de Biran, Renouvier, Jacobi, Vico and Brentano have no PD English text found; Fouillee's English version is Greenstreet's (Lane C)
+
+## 2026-10-17 19:40 CDT — Round as: medieval and political gaps
+- Roger Bacon: Opus Majus, tr. Burke (1928, 2 vols.), new shelf
+- John of Salisbury: The Statesman's Book, tr. Dickinson (1927), new shelf
+- Donoso Cortes: Essay on Catholicism, Liberalism and Socialism, tr. Goddard (1862), new shelf
+- Glanvill: Saducismus Triumphatus, 3rd ed. (1700)
+- Held: Christian Wolff, Logic (1770), OCR 0.743
+- Checked and left: Erigena, Pomponazzi, Hugh of St Victor, Hamann, Beneke, Trendelenburg have no PD English text found
