@@ -8570,6 +8570,21 @@ Slugs `mosheim-*`. Built from title pages read for round 35.
 | Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. I (London: T. Cadell and W. Davies, 1813) | have-ocr | IA `commentariesonaf01mosh` |
 | Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. II (London: T. Cadell and W. Davies, 1813) | have-ocr | IA `commentariesonaf02mosh` |
 | Maclaine's new edition (Cadell, 1790, vols II-VI); Murdock's later editions (Harper 1839-1842, Soames's London edition 1841, New York 1854); Vidal's third volume (1835); Murdock's Historical Commentaries (New York: Converse, copyright 1851) | alternate | not shelved |
+
+## Mandell Creighton (round 35, my pick, 2026-10-18)
+
+Slugs `creighton-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Papacy during the Period of the Reformation, vol. I, The Great Schism, the Council of Constance, 1378-1418 (London: Longmans, Green, 1882) | have-ocr | IA `ahistoryofthepap01creiuoft` |
+| A History of the Papacy during the Period of the Reformation, vol. II, The Council of Basel, the Papal Restoration, 1418-1464 (London: Longmans, Green, 1882) | have-ocr | IA `ahistoryofthepap02creiuoft` |
+| A History of the Papacy during the Period of the Reformation, vol. III, The Italian Princes, 1464-1518 (London: Longmans, Green, 1887) | have-ocr | IA `ahistoryofthepap03creguoft` |
+| A History of the Papacy during the Period of the Reformation, vol. IV (London: Longmans, Green, 1887) | have-ocr | IA `ahistoryofthepap04creiuoft` |
+| A History of the Papacy during the Period of the Reformation, vol. V, The German Revolt, 1517-1527 (London: Longmans, Green, 1894) | have-ocr | IA `ahistoryofthepap05creiuoft` |
+| Persecution and Tolerance, being the Hulsean Lectures preached before the University of Cambridge in 1893-4 (London: Longmans, Green, 1895) | have-ocr | IA `persecutiontoler00crei` |
+| The Church and the Nation: Charges and Addresses, ed. Louise Creighton (London: Longmans, Green, 1901) | have-ocr | IA `churchandnation00creiuoft` |
+| The six-volume new edition, A History of the Papacy from the Great Schism to the Sack of Rome (1897-1900); Cardinal Wolsey (PG 53526, a 1912 reprint of a political life) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

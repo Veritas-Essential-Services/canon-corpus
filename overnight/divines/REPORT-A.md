@@ -1780,3 +1780,6 @@
 
 ## 2026-10-17 22:31 CDT — johann-lorenz-von-mosheim done
 - `pipeline/johann-lorenz-von-mosheim_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — mandell-creighton done
+- `pipeline/mandell-creighton_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for creighton-papacy-1, creighton-papacy-2, creighton-papacy-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
