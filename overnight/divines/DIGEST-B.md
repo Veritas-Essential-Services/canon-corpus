@@ -255,3 +255,4 @@
 - 20:58 round bk: Lloyd Morgan, Laird, R. B. Haldane, Urban (12 items). Held: Johnston and Struthers' Hegel Science of Logic (1929), no dated first-impression copy found.
 - 21:06 round bl: 13 wishlists filled (24 vols). Held: Hobson Imperialism, Cairnes Leading Principles.
 - 21:13 round bm: 6 new shelves (Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond). Two lane B duplicates of lane C's singles shelves removed (Soloviev, Gentile). Weber held: no pre-1931 printing found.
+- 21:17 round bn: 6 new shelves (Whately, Hinton, Schurman, James Seth, Tappan, Marsh). Oswald held on OCR quality; Whately's theology left for lane A.

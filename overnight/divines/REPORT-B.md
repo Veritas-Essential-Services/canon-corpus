@@ -1222,3 +1222,10 @@
 - Külpe: Outlines of Psychology, Introduction to Philosophy, Philosophy of the Present in Germany; Ormond: 4 books
 - Removed duplicates: Soloviev Justification of the Good, Gentile Reform of Education (lane C holds both)
 - Held: Weber (no pre-1931 printing on IA)
+
+## 2026-10-17 21:17 CDT — Round bn: Whately, Hinton, Schurman, Seth, Tappan, Marsh
+- Whately: Historic Doubts, Elements of Logic, Elements of Rhetoric, Lectures on Political Economy, Easy Lessons on Reasoning
+- Hinton: Mystery of Pain 1866, Man and his Dwelling Place, Chapters on the Art of Thinking, The Law-Breaker
+- Schurman: Kantian Ethics 1881, Ethical Import of Darwinism 1888; James Seth: 3 books
+- Tappan: Review of Edwards, Doctrine of the Will, Elements of Logic; Marsh: Remains 1843
+- Held: Oswald's Appeal to Common Sense (OCR too poor)
