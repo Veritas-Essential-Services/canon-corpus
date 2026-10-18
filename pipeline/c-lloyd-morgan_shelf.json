@@ -1,5 +1,5 @@
 {
- "_about": "C. Lloyd Morgan (1852-1936), comparative psychologist and philosopher of emergence. Raw IA OCR: An Introduction to Comparative Psychology (London: Walter Scott; New York: Scribner's, 1894), clean 0.95; Emergent Evolution, the Gifford Lectures of 1922 (first 1923; this copy New York: Holt; London: Williams and Norgate, 1928), clean 0.91. Held: Animal Life and Intelligence (1890), whose Google scan shows no legible title page. He edited Romanes's Darwin and After Darwin vol. II (george-romanes shelf). US public domain. No uids minted.",
+ "_about": "C. Lloyd Morgan (1852-1936), comparative psychologist and philosopher of emergence. Raw IA OCR: An Introduction to Comparative Psychology (London: Walter Scott; New York: Scribner's, 1894), clean 0.95; Emergent Evolution, the Gifford Lectures of 1922 (first 1923; this copy New York: Holt; London: Williams and Norgate, 1928), clean 0.91. Held: Animal Life and Intelligence (1890), whose Google scan shows no legible title page. He edited Romanes's Darwin and After Darwin vol. II (george-romanes shelf). US public domain. Added in round 2026-10-17bs: Life, Mind, and Spirit, the second course of the Gifford Lectures of 1923 (New York: Holt, 1925), clean 0.91. No uids minted.",
  "_author": "C. Lloyd Morgan",
  "_name_words": [
   "conwy",
@@ -20,6 +20,10 @@
   "lloyd-morgan-emergent-evolution-1923": [
    "emergentevolutio0000morg",
    "Emergent Evolution (1923; Holt printing 1928)"
+  ],
+  "lloyd-morgan-life-mind-spirit-1925": [
+   "20191004lifemindandspirit",
+   "Life, Mind, and Spirit (Holt, 1925)"
   ]
  },
  "_excluded": {},
@@ -43,6 +47,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1928",
    "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lloyd-morgan-life-mind-spirit-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
