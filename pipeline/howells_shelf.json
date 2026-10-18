@@ -1,0 +1,1228 @@
+{
+ "_about": "William Dean Howells's novels, farces, travels and criticism; books he only edited or introduced are not taken: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William Dean Howells",
+ "_name_words": [
+  "howells"
+ ],
+ "_surname": [
+  "william dean howells"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "howells-rise-of-silas-lapham": [
+   154,
+   "The Rise of Silas Lapham"
+  ],
+  "howells-man-of-letters-as-a-man-of-business": [
+   724,
+   "The Man of Letters as a Man of Business"
+  ],
+  "howells-a-psychological-counter-current-in-recent-fiction": [
+   726,
+   "A Psychological Counter-Current in Recent Fiction"
+  ],
+  "howells-emile-zola": [
+   728,
+   "Emile Zola"
+  ],
+  "howells-sleeping-car": [
+   2506,
+   "The Sleeping-Car: A Farce"
+  ],
+  "howells-an-open-eyed-conspiracy": [
+   3051,
+   "An Open-Eyed Conspiracy; An Idyl of Saratoga"
+  ],
+  "howells-garotters": [
+   3237,
+   "The Garotters"
+  ],
+  "howells-kentons": [
+   3362,
+   "The Kentons"
+  ],
+  "howells-fennel-and-rue": [
+   3363,
+   "Fennel and Rue"
+  ],
+  "howells-dr-breens-practice": [
+   3364,
+   "Dr. Breen's Practice"
+  ],
+  "howells-their-wedding-journey": [
+   3365,
+   "Their Wedding Journey"
+  ],
+  "howells-entire-march-family-trilogy": [
+   3374,
+   "The Entire March Family Trilogy"
+  ],
+  "howells-criticism-and-fiction": [
+   3377,
+   "Criticism and Fiction"
+  ],
+  "howells-my-literary-passions": [
+   3378,
+   "My Literary Passions"
+  ],
+  "howells-short-stories-and-essays-from-literature-and-life": [
+   3379,
+   "Short Stories and Essays (from Literature and Life)"
+  ],
+  "howells-staccato-notes-of-a-vanished-summer-from-literature": [
+   3380,
+   "Staccato Notes of a Vanished Summer (from Literature and Life)"
+  ],
+  "howells-standard-household-effect-company-from-literature-an": [
+   3381,
+   "The Standard Household-Effect Company (from Literature and Life)"
+  ],
+  "howells-american-literary-centers-from-literature-and-life": [
+   3382,
+   "American Literary Centers (from Literature and Life)"
+  ],
+  "howells-spanish-prisoners-of-war-from-literature-and-life": [
+   3383,
+   "Spanish Prisoners of War (from Literature and Life)"
+  ],
+  "howells-some-anomalies-of-the-short-story-from-literature-an": [
+   3384,
+   "Some Anomalies of the Short Story (from Literature and Life)"
+  ],
+  "howells-last-days-in-a-dutch-hotel-from-literature-and-life": [
+   3385,
+   "Last Days in a Dutch Hotel (from Literature and Life)"
+  ],
+  "howells-editors-relations-with-the-young-contributor-from-li": [
+   3386,
+   "The Editor's Relations with the Young Contributor (from Literature and Life)"
+  ],
+  "howells-confessions-of-a-summer-colonist-from-literature-and": [
+   3387,
+   "Confessions of a Summer Colonist (from Literature and Life)"
+  ],
+  "howells-literature-and-life-complete": [
+   3389,
+   "Literature and Life (Complete)"
+  ],
+  "howells-my-mark-twain-from-literary-friends-and-acquaintance": [
+   3390,
+   "My Mark Twain (from Literary Friends and Acquaintance)"
+  ],
+  "howells-a-belated-guest-from-literary-friends-and-acquaintan": [
+   3391,
+   "A Belated Guest (from Literary Friends and Acquaintance)"
+  ],
+  "howells-cambridge-neighbors-from-literary-friends-and-acquai": [
+   3392,
+   "Cambridge Neighbors (from Literary Friends and Acquaintance)"
+  ],
+  "howells-studies-of-lowell-from-literary-friends-and-acquaint": [
+   3393,
+   "Studies of Lowell (from Literary Friends and Acquaintance)"
+  ],
+  "howells-white-mr-longfellow-from-literary-friends-and-acquai": [
+   3394,
+   "The White Mr. Longfellow (from Literary Friends and Acquaintance)"
+  ],
+  "howells-oliver-wendell-holmes-from-literary-friends-and-acqu": [
+   3395,
+   "Oliver Wendell Holmes (from Literary Friends and Acquaintance)"
+  ],
+  "howells-literary-boston-as-i-knew-it-from-literary-friends-a": [
+   3396,
+   "Literary Boston as I Knew It (from Literary Friends and Acquaintance)"
+  ],
+  "howells-roundabout-to-boston-from-literary-friends-and-acqua": [
+   3397,
+   "Roundabout to Boston (from Literary Friends and Acquaintance)"
+  ],
+  "howells-my-first-visit-to-new-england-and-others-from-litera": [
+   3398,
+   "My First Visit to New England, and Others (from Literary Friends and Acquaintance)"
+  ],
+  "howells-elevator": [
+   3401,
+   "The Elevator"
+  ],
+  "howells-parlor-car": [
+   3402,
+   "The Parlor Car"
+  ],
+  "howells-register": [
+   3403,
+   "The Register"
+  ],
+  "howells-april-hopes": [
+   3404,
+   "April Hopes"
+  ],
+  "howells-literary-friends-and-acquaintance": [
+   4201,
+   "Literary Friends and Acquaintance; a Personal Retrospect of American Authorship"
+  ],
+  "howells-ragged-lady-complete": [
+   4270,
+   "Ragged Lady — Complete"
+  ],
+  "howells-a-hazard-of-new-fortunes-complete": [
+   4600,
+   "A Hazard of New Fortunes — Complete"
+  ],
+  "howells-landlord-at-lions-head-complete": [
+   4645,
+   "The Landlord at Lion's Head — Complete"
+  ],
+  "howells-their-silver-wedding-journey-complete": [
+   4646,
+   "Their Silver Wedding Journey — Complete"
+  ],
+  "howells-venetian-life": [
+   7083,
+   "Venetian Life"
+  ],
+  "howells-london-films": [
+   7130,
+   "London Films"
+  ],
+  "howells-suburban-sketches": [
+   7141,
+   "Suburban Sketches"
+  ],
+  "howells-seven-english-cities": [
+   7187,
+   "Seven English Cities",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-leatherwood-god": [
+   7311,
+   "The Leatherwood God"
+  ],
+  "howells-indian-summer": [
+   7359,
+   "Indian Summer"
+  ],
+  "howells-albany-depot": [
+   7364,
+   "The Albany Depot : a Farce"
+  ],
+  "howells-ministers-charge": [
+   7410,
+   "The Minister's Charge; Or, The Apprenticeship of Lemuel Barker"
+  ],
+  "howells-roman-holidays-and-others": [
+   7422,
+   "Roman Holidays, and Others"
+  ],
+  "howells-familiar-spanish-travels": [
+   7430,
+   "Familiar Spanish Travels",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-annie-kilburn": [
+   7502,
+   "Annie Kilburn : a Novel"
+  ],
+  "howells-lady-of-the-aroostook": [
+   7797,
+   "The Lady of the Aroostook"
+  ],
+  "howells-a-foregone-conclusion": [
+   7839,
+   "A Foregone Conclusion"
+  ],
+  "howells-modern-italian-poets": [
+   8171,
+   "Modern Italian Poets; Essays and Versions"
+  ],
+  "howells-a-modern-instance": [
+   8203,
+   "A Modern Instance"
+  ],
+  "howells-through-the-eye-of-the-needle": [
+   8295,
+   "Through the Eye of the Needle: A Romance"
+  ],
+  "howells-a-traveler-from-altruria": [
+   8449,
+   "A Traveler from Altruria: Romance"
+  ],
+  "howells-questionable-shapes": [
+   9458,
+   "Questionable Shapes",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-between-the-dark-and-the-daylight": [
+   12100,
+   "Between the Dark and the Daylight",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-italian-journeys": [
+   14276,
+   "Italian Journeys",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-a-chance-acquaintance": [
+   18555,
+   "A Chance Acquaintance"
+  ],
+  "howells-a-little-swiss-sojourn": [
+   18565,
+   "A Little Swiss Sojourn"
+  ],
+  "howells-a-pair-of-patient-lovers": [
+   18605,
+   "A Pair of Patient Lovers",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-story-of-a-play-a-novel": [
+   20225,
+   "The Story of a Play A Novel"
+  ],
+  "howells-a-fearful-responsibility-and-other-stories": [
+   20403,
+   "A Fearful Responsibility and Other Stories"
+  ],
+  "howells-stories-of-ohio": [
+   21381,
+   "Stories Of Ohio",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-flight-of-pony-baker-a-boys-town-story": [
+   22219,
+   "The Flight of Pony Baker A Boy's Town Story"
+  ],
+  "howells-coast-of-bohemia": [
+   22297,
+   "The Coast of Bohemia",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-christmas-every-day-and-other-stories": [
+   22519,
+   "Christmas Every Day and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-buying-a-horse": [
+   23030,
+   "Buying a Horse"
+  ],
+  "howells-five-oclock-tea": [
+   27709,
+   "Five O'Clock Tea: Farce"
+  ],
+  "howells-evening-dress-farce": [
+   27880,
+   "Evening Dress Farce"
+  ],
+  "howells-a-likely-story": [
+   28305,
+   "A Likely Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-a-boys-town": [
+   28727,
+   "A Boy's Town",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-imaginary-interviews": [
+   28763,
+   "Imaginary Interviews"
+  ],
+  "howells-poems": [
+   29993,
+   "Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-daughter-of-the-storage-and-other-things-in-prose-an": [
+   30023,
+   "The Daughter of the Storage And Other Things in Prose and Verse",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-quality-of-mercy": [
+   30108,
+   "The Quality of Mercy"
+  ],
+  "howells-bride-roses": [
+   33608,
+   "Bride Roses"
+  ],
+  "howells-a-counterfeit-presentment": [
+   43469,
+   "A Counterfeit Presentment; and, The Parlour Car",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-years-of-my-youth": [
+   47060,
+   "Years of My Youth"
+  ],
+  "howells-a-confession-of-st-augustine": [
+   52708,
+   "A Confession of St. Augustine"
+  ],
+  "howells-mrs-farrell": [
+   56970,
+   "Mrs. Farrell"
+  ],
+  "howells-my-year-in-a-log-cabin": [
+   57341,
+   "My Year in a Log Cabin"
+  ],
+  "howells-certain-delightful-english-towns-with-glimpses-of-th": [
+   58540,
+   "Certain delightful English towns, with glimpses of the pleasant country between",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-impressions-and-experiences": [
+   66257,
+   "Impressions and experiences",
+   {
+    "contents_only": true
+   }
+  ],
+  "howells-world-of-chance": [
+   66584,
+   "The World of Chance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 3366, 3367, 3368, 3369, 3370, 3371, 3372, 3373, 3375, 3376, 3405, 3406: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 3388: second Gutenberg editions of titles already on the shelf.",
+  "pg-3483": "PG 3483, 7546: David Widger's quotation and image selections from Howells, not books by him.",
+  "pg-25383": "PG 25383 Boy Life: stories selected by Percival Chubb from books already on the shelf.",
+  "pg-3400": "PG 3399, 3400: Gutenberg omnibus files that join the separate books already on the shelf."
+ },
+ "_checks": {
+  "howells-rise-of-silas-lapham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-man-of-letters-as-a-man-of-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-psychological-counter-current-in-recent-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-emile-zola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-sleeping-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-an-open-eyed-conspiracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-garotters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-kentons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-fennel-and-rue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-dr-breens-practice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-their-wedding-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-entire-march-family-trilogy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-criticism-and-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-my-literary-passions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-short-stories-and-essays-from-literature-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-staccato-notes-of-a-vanished-summer-from-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-standard-household-effect-company-from-literature-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-american-literary-centers-from-literature-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-spanish-prisoners-of-war-from-literature-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-some-anomalies-of-the-short-story-from-literature-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-last-days-in-a-dutch-hotel-from-literature-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-editors-relations-with-the-young-contributor-from-li": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-confessions-of-a-summer-colonist-from-literature-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-literature-and-life-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-my-mark-twain-from-literary-friends-and-acquaintance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-belated-guest-from-literary-friends-and-acquaintan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-cambridge-neighbors-from-literary-friends-and-acquai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-studies-of-lowell-from-literary-friends-and-acquaint": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-white-mr-longfellow-from-literary-friends-and-acquai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-oliver-wendell-holmes-from-literary-friends-and-acqu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-literary-boston-as-i-knew-it-from-literary-friends-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-roundabout-to-boston-from-literary-friends-and-acqua": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-my-first-visit-to-new-england-and-others-from-litera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-elevator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-parlor-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-register": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-april-hopes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-literary-friends-and-acquaintance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-ragged-lady-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-hazard-of-new-fortunes-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-landlord-at-lions-head-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-their-silver-wedding-journey-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-venetian-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-london-films": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-suburban-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-seven-english-cities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-leatherwood-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-indian-summer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-albany-depot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-ministers-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-roman-holidays-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-familiar-spanish-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-annie-kilburn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-lady-of-the-aroostook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-foregone-conclusion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-modern-italian-poets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-modern-instance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-through-the-eye-of-the-needle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-traveler-from-altruria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-questionable-shapes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-between-the-dark-and-the-daylight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-italian-journeys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-chance-acquaintance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-little-swiss-sojourn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-pair-of-patient-lovers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-story-of-a-play-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-fearful-responsibility-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-stories-of-ohio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-flight-of-pony-baker-a-boys-town-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-coast-of-bohemia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-christmas-every-day-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-buying-a-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-five-oclock-tea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-evening-dress-farce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-likely-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-boys-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-imaginary-interviews": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-daughter-of-the-storage-and-other-things-in-prose-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-quality-of-mercy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-bride-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-counterfeit-presentment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-years-of-my-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-a-confession-of-st-augustine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-mrs-farrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-my-year-in-a-log-cabin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-certain-delightful-english-towns-with-glimpses-of-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-impressions-and-experiences": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-world-of-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

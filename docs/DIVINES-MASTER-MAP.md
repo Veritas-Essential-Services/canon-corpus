@@ -26083,6 +26083,107 @@ Shelf: `pipeline/henry-james_shelf.json` (2026-10-17; added at the coordinator's
 | split-parts | excluded | Gutenberg's split-part files PG 4262, 4263: the complete edition of each is on the shelf instead. |
 | repeat-editions | excluded | PG 21770, 28004: second Gutenberg editions of titles already on the shelf. |
 
+## William Dean Howells
+
+Shelf: `pipeline/howells_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (89 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rise of Silas Lapham | have | PG 154, `howells-rise-of-silas-lapham` (3013 units) |
+| The Man of Letters as a Man of Business | have | PG 724, `howells-man-of-letters-as-a-man-of-business` (58 units) |
+| A Psychological Counter-Current in Recent Fiction | have | PG 726, `howells-a-psychological-counter-current-in-recent-fiction` (38 units) |
+| Emile Zola | have | PG 728, `howells-emile-zola` (26 units) |
+| The Sleeping-Car: A Farce | have | PG 2506, `howells-sleeping-car` (311 units) |
+| An Open-Eyed Conspiracy; An Idyl of Saratoga | have | PG 3051, `howells-an-open-eyed-conspiracy` (725 units) |
+| The Garotters | have | PG 3237, `howells-garotters` (392 units) |
+| The Kentons | have | PG 3362, `howells-kentons` (1640 units) |
+| Fennel and Rue | have | PG 3363, `howells-fennel-and-rue` (902 units) |
+| Dr. Breen's Practice | have | PG 3364, `howells-dr-breens-practice` (1442 units) |
+| Their Wedding Journey | have | PG 3365, `howells-their-wedding-journey` (702 units) |
+| The Entire March Family Trilogy | have | PG 3374, `howells-entire-march-family-trilogy` (6098 units) |
+| Criticism and Fiction | have | PG 3377, `howells-criticism-and-fiction` (134 units) |
+| My Literary Passions | have | PG 3378, `howells-my-literary-passions` (281 units) |
+| Short Stories and Essays (from Literature and Life) | have | PG 3379, `howells-short-stories-and-essays-from-literature-and-life` (408 units) |
+| Staccato Notes of a Vanished Summer (from Literature and Life) | have | PG 3380, `howells-staccato-notes-of-a-vanished-summer-from-literature` (29 units) |
+| The Standard Household-Effect Company (from Literature and Life) | have | PG 3381, `howells-standard-household-effect-company-from-literature-an` (58 units) |
+| American Literary Centers (from Literature and Life) | have | PG 3382, `howells-american-literary-centers-from-literature-and-life` (35 units) |
+| Spanish Prisoners of War (from Literature and Life) | have | PG 3383, `howells-spanish-prisoners-of-war-from-literature-and-life` (24 units) |
+| Some Anomalies of the Short Story (from Literature and Life) | have | PG 3384, `howells-some-anomalies-of-the-short-story-from-literature-an` (32 units) |
+| Last Days in a Dutch Hotel (from Literature and Life) | have | PG 3385, `howells-last-days-in-a-dutch-hotel-from-literature-and-life` (39 units) |
+| The Editor's Relations with the Young Contributor (from Literature and Life) | have | PG 3386, `howells-editors-relations-with-the-young-contributor-from-li` (72 units) |
+| Confessions of a Summer Colonist (from Literature and Life) | have | PG 3387, `howells-confessions-of-a-summer-colonist-from-literature-and` (43 units) |
+| Literature and Life (Complete) | have | PG 3389, `howells-literature-and-life-complete` (1170 units) |
+| My Mark Twain (from Literary Friends and Acquaintance) | have | PG 3390, `howells-my-mark-twain-from-literary-friends-and-acquaintance` (113 units) |
+| A Belated Guest (from Literary Friends and Acquaintance) | have | PG 3391, `howells-a-belated-guest-from-literary-friends-and-acquaintan` (39 units) |
+| Cambridge Neighbors (from Literary Friends and Acquaintance) | have | PG 3392, `howells-cambridge-neighbors-from-literary-friends-and-acquai` (76 units) |
+| Studies of Lowell (from Literary Friends and Acquaintance) | have | PG 3393, `howells-studies-of-lowell-from-literary-friends-and-acquaint` (90 units) |
+| The White Mr. Longfellow (from Literary Friends and Acquaintance) | have | PG 3394, `howells-white-mr-longfellow-from-literary-friends-and-acquai` (70 units) |
+| Oliver Wendell Holmes (from Literary Friends and Acquaintance) | have | PG 3395, `howells-oliver-wendell-holmes-from-literary-friends-and-acqu` (52 units) |
+| Literary Boston as I Knew It (from Literary Friends and Acquaintance) | have | PG 3396, `howells-literary-boston-as-i-knew-it-from-literary-friends-a` (55 units) |
+| Roundabout to Boston (from Literary Friends and Acquaintance) | have | PG 3397, `howells-roundabout-to-boston-from-literary-friends-and-acqua` (46 units) |
+| My First Visit to New England, and Others (from Literary Friends and Acquaintance) | have | PG 3398, `howells-my-first-visit-to-new-england-and-others-from-litera` (166 units) |
+| The Elevator | have | PG 3401, `howells-elevator` (482 units) |
+| The Parlor Car | have | PG 3402, `howells-parlor-car` (208 units) |
+| The Register | have | PG 3403, `howells-register` (441 units) |
+| April Hopes | have | PG 3404, `howells-april-hopes` (2917 units) |
+| Literary Friends and Acquaintance; a Personal Retrospect of American Authorship | have | PG 4201, `howells-literary-friends-and-acquaintance` (673 units) |
+| Ragged Lady — Complete | have | PG 4270, `howells-ragged-lady-complete` (1912 units) |
+| A Hazard of New Fortunes — Complete | have | PG 4600, `howells-a-hazard-of-new-fortunes-complete` (3039 units) |
+| The Landlord at Lion's Head — Complete | have | PG 4645, `howells-landlord-at-lions-head-complete` (2519 units) |
+| Their Silver Wedding Journey — Complete | have | PG 4646, `howells-their-silver-wedding-journey-complete` (2360 units) |
+| Venetian Life | have | PG 7083, `howells-venetian-life` (639 units) |
+| London Films | have | PG 7130, `howells-london-films` (348 units) |
+| Suburban Sketches | have | PG 7141, `howells-suburban-sketches` (436 units) |
+| Seven English Cities | have | PG 7187, `howells-seven-english-cities` (395 units) |
+| The Leatherwood God | have | PG 7311, `howells-leatherwood-god` (1180 units) |
+| Indian Summer | have | PG 7359, `howells-indian-summer` (2509 units) |
+| The Albany Depot : a Farce | have | PG 7364, `howells-albany-depot` (227 units) |
+| The Minister's Charge; Or, The Apprenticeship of Lemuel Barker | have | PG 7410, `howells-ministers-charge` (2396 units) |
+| Roman Holidays, and Others | have | PG 7422, `howells-roman-holidays-and-others` (431 units) |
+| Familiar Spanish Travels | have | PG 7430, `howells-familiar-spanish-travels` (533 units) |
+| Annie Kilburn : a Novel | have | PG 7502, `howells-annie-kilburn` (1747 units) |
+| The Lady of the Aroostook | have | PG 7797, `howells-lady-of-the-aroostook` (1679 units) |
+| A Foregone Conclusion | have | PG 7839, `howells-a-foregone-conclusion` (1227 units) |
+| Modern Italian Poets; Essays and Versions | have | PG 8171, `howells-modern-italian-poets` (1039 units) |
+| A Modern Instance | have | PG 8203, `howells-a-modern-instance` (3078 units) |
+| Through the Eye of the Needle: A Romance | have | PG 8295, `howells-through-the-eye-of-the-needle` (725 units) |
+| A Traveler from Altruria: Romance | have | PG 8449, `howells-a-traveler-from-altruria` (1148 units) |
+| Questionable Shapes | have | PG 9458, `howells-questionable-shapes` (754 units) |
+| Between the Dark and the Daylight | have | PG 12100, `howells-between-the-dark-and-the-daylight` (983 units) |
+| Italian Journeys | have | PG 14276, `howells-italian-journeys` (729 units) |
+| A Chance Acquaintance | have | PG 18555, `howells-a-chance-acquaintance` (824 units) |
+| A Little Swiss Sojourn | have | PG 18565, `howells-a-little-swiss-sojourn` (140 units) |
+| A Pair of Patient Lovers | have | PG 18605, `howells-a-pair-of-patient-lovers` (1318 units) |
+| The Story of a Play A Novel | have | PG 20225, `howells-story-of-a-play-a-novel` (1258 units) |
+| A Fearful Responsibility and Other Stories | have | PG 20403, `howells-a-fearful-responsibility-and-other-stories` (942 units) |
+| Stories Of Ohio | have | PG 21381, `howells-stories-of-ohio` (486 units) |
+| The Flight of Pony Baker A Boy's Town Story | have | PG 22219, `howells-flight-of-pony-baker-a-boys-town-story` (676 units) |
+| The Coast of Bohemia | have | PG 22297, `howells-coast-of-bohemia` (1422 units) |
+| Christmas Every Day and Other Stories | have | PG 22519, `howells-christmas-every-day-and-other-stories` (451 units) |
+| Buying a Horse | have | PG 23030, `howells-buying-a-horse` (78 units) |
+| Five O'Clock Tea: Farce | have | PG 27709, `howells-five-oclock-tea` (412 units) |
+| Evening Dress Farce | have | PG 27880, `howells-evening-dress-farce` (239 units) |
+| A Likely Story | have | PG 28305, `howells-a-likely-story` (459 units) |
+| A Boy's Town | have | PG 28727, `howells-a-boys-town` (412 units) |
+| Imaginary Interviews | have | PG 28763, `howells-imaginary-interviews` (1127 units) |
+| Poems | have | PG 29993, `howells-poems` (715 units) |
+| The Daughter of the Storage And Other Things in Prose and Verse | have | PG 30023, `howells-daughter-of-the-storage-and-other-things-in-prose-an` (1370 units) |
+| The Quality of Mercy | have | PG 30108, `howells-quality-of-mercy` (2238 units) |
+| Bride Roses | have | PG 33608, `howells-bride-roses` (181 units) |
+| A Counterfeit Presentment; and, The Parlour Car | have | PG 43469, `howells-a-counterfeit-presentment` (1117 units) |
+| Years of My Youth | have | PG 47060, `howells-years-of-my-youth` (428 units) |
+| A Confession of St. Augustine | have | PG 52708, `howells-a-confession-of-st-augustine` (49 units) |
+| Mrs. Farrell | have | PG 56970, `howells-mrs-farrell` (1421 units) |
+| My Year in a Log Cabin | have | PG 57341, `howells-my-year-in-a-log-cabin` (142 units) |
+| Certain delightful English towns, with glimpses of the pleasant country between | have | PG 58540, `howells-certain-delightful-english-towns-with-glimpses-of-th` (560 units) |
+| Impressions and experiences | have | PG 66257, `howells-impressions-and-experiences` (581 units) |
+| The World of Chance | have | PG 66584, `howells-world-of-chance` (1672 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 3366, 3367, 3368, 3369, 3370, 3371, 3372, 3373, 3375, 3376, 3405, 3406: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 3388: second Gutenberg editions of titles already on the shelf. |
+| pg-3483 | excluded | PG 3483, 7546: David Widger's quotation and image selections from Howells, not books by him. |
+| pg-25383 | excluded | PG 25383 Boy Life: stories selected by Percival Chubb from books already on the shelf. |
+| pg-3400 | excluded | PG 3399, 3400: Gutenberg omnibus files that join the separate books already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

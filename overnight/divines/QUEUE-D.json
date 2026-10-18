@@ -2773,6 +2773,14 @@
       "started": "2026-10-17T19:21:33-05:00",
       "finished": "2026-10-17T19:21:34-05:00",
       "notes": "henry-james: new shelf, 88 Gutenberg books, 75,620 units, 5590 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "howells",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — William Dean Howells; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:21:35-05:00",
+      "finished": "2026-10-17T19:21:35-05:00",
+      "notes": "howells: new shelf, 89 Gutenberg books, 75,851 units, 5581 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
