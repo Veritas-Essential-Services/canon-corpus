@@ -6116,3 +6116,16 @@ Slugs `brownson-*`. American Catholic convert and philosopher: the twenty-volume
 | The Toronto Works set (vols 1-2 are an 1898 reissue); other copies of each first edition | alternate | not shelved |
 | H. F. Brownson's Life (1898) and Watchwords (1910, extracts) | excluded | |
 | AMS Press 1966 and later reprints | excluded | |
+
+## Isaac Hecker (round 28, my pick, 2026-10-18)
+
+Slugs `hecker-*`. Founder of the Paulists; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Questions of the Soul (New York: D. Appleton; entered 1855, the year line is garbled in the OCR) | have-ocr | IA `questionssoul00heckgoog` |
+| Aspirations of Nature (New York: James B. Kirker, M.DCCC.LVII) | have-ocr | IA `a587173700heckuoft` |
+| The Church and the Age (New York: Office of the Catholic World, 1887) | have-ocr | IA `cu31924029381013` |
+| Aspirations third edition (1859); Church and the Age (1896); other Questions copies | alternate | not shelved |
+| Elliott's Life of Father Hecker (PG 18283) | excluded | |
+| Arno 1978 and Paulist 1988 | excluded | |
