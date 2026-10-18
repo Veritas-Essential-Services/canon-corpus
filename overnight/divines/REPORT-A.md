@@ -1573,3 +1573,6 @@
 
 ## 2026-10-17 21:18 CDT — john-tulloch done
 - `pipeline/john-tulloch_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — j-hudson-taylor done
+- `pipeline/j-hudson-taylor_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -7592,6 +7592,15 @@ Slugs `tulloch-*`. Built from title pages read for round 32.
 | Movements of Religious Thought in Britain during the Nineteenth Century (London: Longmans, Green, 1885) | have-ocr | IA `a611321900tulluoft` |
 | CCEL tulloch/luther (1883), theism, sin, somefacts and religion; PG 26726 (Pascal, 1882 reprint) and PG 26035 (Religion and Theology) | alternate | not shelved |
 | The 1874 second edition of Rational Theology vol. II; Harper's 1886 Movements | alternate | not shelved |
+
+## J. Hudson Taylor (round 32, my pick, 2026-10-18)
+
+Slugs `hudson-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| China: its Spiritual Need and Claims, third edition (London: James Nisbet; W. Partridge, 1868) | have-ocr | IA `b29353518` |
+| China's Spiritual Need and Claims, seventh edition (London: Morgan & Scott, 1887) | have-ocr | IA `cu31924023067972` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
