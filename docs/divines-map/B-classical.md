@@ -5897,6 +5897,7 @@ Shelf: `pipeline/karl-krause_shelf.json`. Hastie's 1900 English version. Not min
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Ideal of Humanity and Universal Federation, ed. W. Hastie (T. and T. Clark, 1900) | Hastie | `krause-ideal-of-humanity-hastie-1900` | have-raw (IA `idealofhumanityu00krau`) |
 
 ## William Ellery Channing (Unitarian thought)
 

@@ -1,0 +1,41 @@
+{
+ "_about": "Karl Christian Friedrich Krause (1781-1832), German idealist of 'panentheism': The Ideal of Humanity and Universal Federation, a contribution to social philosophy, edited in English by W. Hastie (Edinburgh: T. and T. Clark, 1900), raw IA OCR, clean 0.95. US public domain. No uids minted.",
+ "_author": "Karl Christian Friedrich Krause",
+ "_name_words": [
+  "karl",
+  "christian",
+  "friedrich",
+  "krause"
+ ],
+ "_surname": [
+  "krause"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "krause-ideal-of-humanity-hastie-1900": [
+   "idealofhumanityu00krau",
+   "The Ideal of Humanity and Universal Federation, ed. W. Hastie (T. and T. Clark, 1900)",
+   "W. Hastie"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "krause-ideal-of-humanity-hastie-1900": "Hastie"
+ },
+ "_checks": {
+  "krause-ideal-of-humanity-hastie-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "krause",
+   "translator_claimed": "Hastie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
