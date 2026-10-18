@@ -9510,3 +9510,14 @@ Slugs `backus-*`. Built from title pages read for round 39.
 | An Abridgment of the Church History of New-England, from 1602 to 1804 (Boston: E. Lincoln for the author, 1804) | have-ocr | IA `abridgmentofchur00back_0` |
 | An Appeal to the Public for Religious Liberty (Boston: John Boyle, MDCCLXXIII) | have-ocr | IA `anappealtopubli00backgoog` |
 | historyofnewengl01back (1777); EEBO copies; about 25 single tracts 1754-1796 (not read) | alternate | not shelved |
+
+## Richard Furman (round 39, my pick, 2026-10-18)
+
+Slugs `rfurman-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Rewards of Grace Conferred on Christ's Faithful People: A Sermon occasioned by the Decease of the Rev. Oliver Hart (Charleston: J. M'Iver, MDCCXCVI) | have-ocr | IA `bim_eighteenth-century_rewards-of-grace-conferr_furman-richard_1796` |
+| Humble Submission to Divine Sovereignty the Duty of a Bereaved Nation, on the death of General George Washington (Charleston: W. P. Young, M.DCCC) | have-ocr | IA `bim_eighteenth-century_humble-submission-to-div_furman-richard_1800` |
+| Death's Dominion over Man Considered, on the death of Alexander Hamilton (Charleston: W. P. Young; sermon dated 1804) | have-ocr | IA `deathsdominionov00furm` |
+| His son Richard Furman's books (1843, 1859) | excluded | |

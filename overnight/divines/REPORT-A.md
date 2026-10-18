@@ -2005,3 +2005,6 @@
 
 ## 2026-10-17 23:45 CDT — isaac-backus done
 - `pipeline/isaac-backus_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — richard-furman done
+- `pipeline/richard-furman_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

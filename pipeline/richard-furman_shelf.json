@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Richard Furman (1755-1825), Baptist pastor at Charleston, for the Word Hoard: Rewards of Grace Conferred on Christ's Faithful People, on the death of Oliver Hart (1796), Humble Submission to Divine Sovereignty, on the death of Washington (1800), and Death's Dominion over Man Considered, on the death of Alexander Hamilton (1804), from Internet Archive scans. Not his son Richard Furman (1816-1886). Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "furman"
+ ],
+ "_surname": [
+  "richard furman",
+  "furman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rfurman-rewards-grace-1796": [
+   "bim_eighteenth-century_rewards-of-grace-conferr_furman-richard_1796",
+   "Rewards of Grace Conferred on Christ's Faithful People: A Sermon occasioned by the Decease of the Rev. Oliver Hart (Charleston: J. M'Iver, MDCCXCVI)"
+  ],
+  "rfurman-humble-submission-1800": [
+   "bim_eighteenth-century_humble-submission-to-div_furman-richard_1800",
+   "Humble Submission to Divine Sovereignty the Duty of a Bereaved Nation, on the death of General George Washington (Charleston: W. P. Young, M.DCCC)"
+  ],
+  "rfurman-deaths-dominion-1804": [
+   "deathsdominionov00furm",
+   "Death's Dominion over Man Considered, on the death of Alexander Hamilton (Charleston: W. P. Young; sermon dated 1804)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rfurman-other": "His son Richard Furman's books (1843, 1859)"
+ },
+ "_rights_checked": {
+  "rfurman-rewards-grace-1796": "title page read: MDCCXCVI (garbled)",
+  "rfurman-deaths-dominion-1804": "title page read: no year on the title page; the sermon is dated 15 August 1804"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rfurman-rewards-grace-1796": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard furman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCXCVI (garbled)"
+  },
+  "rfurman-humble-submission-1800": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard furman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rfurman-deaths-dominion-1804": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard furman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: no year on the title page; the sermon is dated 15 August 1804"
+  }
+ }
+}
