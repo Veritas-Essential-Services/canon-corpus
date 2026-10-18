@@ -4719,6 +4719,10 @@ Shelf: `pipeline/john-fiske-philosophy_shelf.json`. Outlines of Cosmic Philosoph
 | Outlines of Cosmic Philosophy, vol. I (Boston: James R. Osgood, 1875) |  | `fiske-outlines-of-cosmic-philosophy-1875-v1` | have-raw (IA `outlinesofcosmic01fisk_1`) |
 | Outlines of Cosmic Philosophy, vol. II (London: Macmillan, 1874) |  | `fiske-outlines-of-cosmic-philosophy-1874-v2` | have-raw (IA `outlinescosmicp02unkngoog`) |
 | The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890) |  | `fiske-destiny-of-man-1890` | have-raw (IA `thedestinyofmanv00fiskuoft`) |
+| Myths and Myth-Makers (1872) |  | `fiske-myths-and-myth-makers` | have (PG 1061) |
+| American Political Ideas (1885) |  | `fiske-american-political-ideas` | have (PG 10112) |
+| Civil Government in the United States (1890) |  | `fiske-civil-government` | have (PG 11276) |
+| The Meaning of Infancy (Riverside Educational Monographs; essays of 1883 and later) |  | `fiske-meaning-of-infancy` | have (PG 12359) |
 
 ## Noah Porter
 
