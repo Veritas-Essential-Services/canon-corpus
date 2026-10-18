@@ -5462,6 +5462,7 @@ Shelf: `pipeline/john-fortescue_shelf.json`. The Governance of England, ed. Plum
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| The Governance of England, ed. Charles Plummer (Oxford: Clarendon Press, 1885) |  | `fortescue-plummer-governance-1885` | have-raw (IA `cu31924030433191`) |
 
 Pending (wishlist): De Laudibus Legum Angliae in English (Gregor's translation, 1874 or earlier)
 

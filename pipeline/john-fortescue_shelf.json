@@ -1,0 +1,33 @@
+{
+ "_about": "Sir John Fortescue (c. 1394-c. 1479), Chief Justice: The Governance of England, otherwise called The Difference between an Absolute and a Limited Monarchy, a revised text edited with introduction, notes and appendices by Charles Plummer (Oxford: Clarendon Press, MDCCCLXXXV), raw IA OCR, clean 0.85. The text is Fortescue's fifteenth-century English. Not the Fortescue historians of the army. US public domain. No uids minted.",
+ "_author": "Sir John Fortescue",
+ "_name_words": [
+  "john",
+  "fortescue"
+ ],
+ "_surname": [
+  "fortescue"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fortescue-plummer-governance-1885": [
+   "cu31924030433191",
+   "The Governance of England, ed. Charles Plummer (Oxford: Clarendon Press, 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fortescue-plummer-governance-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
