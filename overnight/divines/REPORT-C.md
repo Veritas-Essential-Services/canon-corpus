@@ -227,3 +227,5 @@
 - 2026-10-17T19:03-05:00: round 75: legge +8 (17). --verify --record 0 mismatched. Legge's Chinese Classics, first edition 1861-72.
 
 - 2026-10-17T19:06-05:00: round 76: japanese-classics (6). --verify --record 0 mismatched.
+
+- 2026-10-17T19:13-05:00: round 77: bidpai (4). --verify --record 0 mismatched. bid-anwar-i-suhaili-wollaston identity override (OCR 'WOLLASTUN').

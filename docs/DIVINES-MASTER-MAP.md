@@ -17809,6 +17809,20 @@ Round 76 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | held-elsewhere: The Diaries of Court Ladies of Old Japan (PG 47151) is on singles-plays-poetry-2; Waley's Tale of Genji and Pillow-Book are on the waley shelf; Mitford's Tales of Old Japan on mitford; the Chushingura on singles-plays-poetry-2. | — | — | excluded | — |
 | — | — | dickins-romanised-texts: The romanised-text volume of Dickins's Primitive & Mediaeval Japanese Texts (primitivemediaev00dickiala) is not a translation. | — | — | excluded | — |
 
+## Shelf: the Fables of Bidpai in English before 1931: Keith-Falconer's Syriac Kalilah and Dimnah, North's Morall Philosophie of Doni (1570), Eastwick's and Wollaston's Anvar-i Suhaili
+
+Shelf: `pipeline/bidpai_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bidpai` · titles `python3 pipeline/split_shelf_titles.py bidpai`.
+Round 77 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bidpai-kalilah-and-dimnah-syriac` | The Old Syriac Kalilah and Dimnah (the Bidpai fables) | Kalilah and Dimnah, or the Fables of Bidpai, being an Account of their Literary History, with an English Translation of the later Syriac Version | I. G. N. Keith-Falconer | 1885 | have-raw | IA `kalilahdimnahorf00bdpkuoft` |
+| `bidpai-morall-philosophie-of-doni` | Doni's Italian Bidpai (La moral filosophia, 1552) | The Earliest English Version of the Fables of Bidpai: The Morall Philosophie of Doni | Sir Thomas North, edited by Joseph Jacobs | 1570 | have-raw | IA `earliestenglishv00doniuoft` |
+| `bidpai-anvar-i-suhaili-eastwick` | Husain Vaiz Kashifi, the Anvar-i Suhaili (Persian Bidpai) | The Anvar-i Suhaili, or the Lights of Canopus | Edward B. Eastwick | 1854 | have-raw | IA `india.history.resource.70987` |
+| `bidpai-anwar-i-suhaili-wollaston` | Husain Vaiz Kashifi, the Anvar-i Suhaili (Persian Bidpai) | The Anwar-i-Suhaili, or Lights of Canopus, commonly known as Kalilah and Damnah | Arthur N. Wollaston | 1877 | have-raw | IA `anwarisuhailiorl00woll` |
+| — | — | wright-syriac-text: William Wright's Book of Kalilah and Dimnah (Clarendon, 1884) is the Syriac text, not a translation. | — | — | excluded | — |
+| — | — | children's-retellings: Maude Barrows Dutton's The Tortoise and the Geese (1908) and similar retellings for children are not translations. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
