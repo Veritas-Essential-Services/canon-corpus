@@ -233,3 +233,5 @@
 - 2026-10-17T19:15-05:00: round 78: edwin-arnold +4 (5). --verify --record 0 mismatched. Indian Poetry is an undated impression (flagged).
 
 - 2026-10-17T19:25-05:00: round 79: griffith +6 (8), whinfield +3 (4), nicholson +3 (5). --verify --record 0 mismatched.
+
+- 2026-10-17T19:30-05:00: round 80: persian-poets (9). --verify --record 0 mismatched. pers-bustan-clarke identity override (OCR 'WILBERTORCE').

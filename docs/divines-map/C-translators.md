@@ -6576,6 +6576,27 @@ Round 77 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | wright-syriac-text: William Wright's Book of Kalilah and Dimnah (Clarendon, 1884) is the Syriac text, not a translation. | — | — | excluded | — |
 | — | — | children's-retellings: Maude Barrows Dutton's The Tortoise and the Geese (1908) and similar retellings for children are not translations. | — | — | excluded | — |
 
+## Shelf: Persian poetry and Sufi prose in English before 1931: Wilberforce Clarke's Hafiz, Bustan, Sikandar Nama and Awarif, Atkinson's Laili and Majnun, C. E. Wilson's Haft Paikar and Masnavi Book II, Le Gallienne's free Hafiz
+
+Shelf: `pipeline/persian-poets_shelf.json` · fetch `python3 pipeline/fetch_shelf.py persian-poets` · titles `python3 pipeline/split_shelf_titles.py persian-poets`.
+Round 80 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `persian-poets-sikandar-nama` | Nizami Ganjavi | The Sikandar Nama, e Bara, or Book of Alexander the Great | H. Wilberforce Clarke | 1881 | have-raw | IA `sikandarnmaebara00nimg` |
+| `persian-poets-hafiz-divan-1` | Hafiz | The Divan, written in the fourteenth century by Khwaja Shamsu-d-Din Muhammad-i-Hafiz-i-Shirazi, vol. I | H. Wilberforce Clarke | 1891 | have-raw | IA `thedivan01hafiuoft` |
+| `persian-poets-hafiz-divan-2` | Hafiz | The Divan of Hafiz, vol. II | H. Wilberforce Clarke | 1891 | have-raw | IA `thedivan02hafiuoft` |
+| `persian-poets-bustan-clarke` | Sa'di | The Bustan | H. Wilberforce Clarke | 1879 | have-raw | IA `bstnbyshaikh00sadiuoft` |
+| `persian-poets-awarif-ul-maarif` | Shihab al-Din Umar al-Suhrawardi | The 'Awarifu-l-Ma'arif | H. Wilberforce Clarke | 1891 | have-raw | IA `awarifulmaarif00suhr` |
+| `persian-poets-laili-and-majnun` | Nizami Ganjavi | Laili and Majnun: a Poem from the Original Persian of Nazami | James Atkinson | 1836 | have-raw | IA `lailandmajnnapo00atkigoog` |
+| `persian-poets-haft-paikar` | Nizami Ganjavi | The Haft Paikar (The Seven Beauties), vol. I: translation | C. E. Wilson | 1924 | have-raw | IA `in.ernet.dli.2015.81011` |
+| `persian-poets-masnavi-book-2` | Rumi | The Masnavi, Book II, vol. I: translation | C. E. Wilson | 1910 | have-raw | IA `in.ernet.dli.2015.93748` |
+| `persian-poets-hafiz-odes-le-gallienne` | Hafiz | Odes from the Divan of Hafiz, freely rendered from literal translations | Richard Le Gallienne | 1905 | have-raw | IA `odesfromdivanofh00hafiuoft` |
+| — | — | laili-1968-reprint: lailimajnunpoem0000jame is a 1968 reprint of Atkinson's Laili and Majnun; the 1836 Valpy scan is used. | — | — | excluded | — |
+| — | — | awarif-1979: bwb_S0-AVT-190 is a 1979 Lahore printing of Clarke's Awarif; the 1891 Calcutta scan is used. | — | — | excluded | — |
+| — | — | haft-paikar-commentary: Vol. II of Wilson's Haft Paikar (1924) is his commentary, not the translation. | — | — | excluded | — |
+| — | — | masnavi-commentary: Vol. II of Wilson's Masnavi Book II (1910) is his commentary, not the translation. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

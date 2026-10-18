@@ -3520,6 +3520,14 @@
       "finished": "2026-10-17T19:25-05:00",
       "scope": "TRANSLATOR SHELF (round 79, lane C's choice; Adam may veto) -- griffith +6, whinfield +3, nicholson +3; PD printings before 1931 only; no minting",
       "notes": "12 titles added (griffith 8, whinfield 4, nicholson 5 on the shelves); ids checked across all branches. See DIGEST-C round 79. No uids minted."
+    },
+    {
+      "id": "shelf-persian-poets",
+      "status": "done",
+      "started": "2026-10-17T19:30-05:00",
+      "finished": "2026-10-17T19:30-05:00",
+      "scope": "TRANSLATOR SHELF (round 80, lane C's choice; Adam may veto) -- persian-poets; PD printings before 1931 only; no minting",
+      "notes": "9 titles; ids checked across all branches. See DIGEST-C round 80. No uids minted."
     }
   ]
 }
