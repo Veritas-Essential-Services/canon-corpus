@@ -305,6 +305,10 @@
   "dickens-a-house-to-let": [
    2324,
    "A House to Let (with Wilkie Collins, Elizabeth Gaskell and Adelaide Anne Procter)"
+  ],
+  "dickens-reprinted-pieces": [
+   872,
+   "Reprinted Pieces"
   ]
  },
  "internet_archive": {},
@@ -858,6 +862,15 @@
    "pg_translator": null
   },
   "dickens-a-house-to-let": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-reprinted-pieces": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
