@@ -6753,6 +6753,7 @@ Shelf: `pipeline/arthur-collier_shelf.json`. Clavis Universalis in Parr's collec
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Metaphysical Tracts by English Philosophers of the Eighteenth Century, ed. Samuel Parr (Lumley, 1837) |  | `collier-parr-metaphysical-tracts-1837` | have-raw (IA `metaphysicaltra00collgoog`) |
 
 ## Peter Browne (critic of Locke)
 
