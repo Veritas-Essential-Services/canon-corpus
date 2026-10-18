@@ -1336,3 +1336,8 @@
 - Added: lester-frank-ward +1 (Outlines of Sociology 1898), alfred-russel-wallace +3 (My Life 2 vols 1905; Wonderful Century 1899), charles-darwin +1 (Orchids, 2nd ed. 1886)
 - Dropped: Filmer's Patriarcha 1680 (EEBO OCR 0.77 < 0.78)
 - Held: Joad, Introduction to Modern Philosophy (reprints of 1934 and later only)
+
+## 2026-10-17 22:55 CDT — Round cg: Philo, Babrius, Helmholtz
+- New: philo-judaeus (Yonge, Bohn 1854-55, 4 vols), babrius (Davies 1860), hermann-von-helmholtz (Sensations of Tone, Ellis 1885)
+- Dropped for OCR: Lipsius 1595 (0.66), Du Vair 1598 (0.76), Wolff Logic 1770 (0.74)
+- Greek-facing Loebs (Menander 1921, Callimachus 1921) stay held back under the existing ruling

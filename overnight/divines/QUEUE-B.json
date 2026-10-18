@@ -1852,6 +1852,14 @@
    "started": "2026-10-17T22:46:05-05:00",
    "finished": "2026-10-17T22:50:28-05:00",
    "notes": "5 new shelves (20 works) + 5 additions. Dropped Filmer's Patriarcha (EEBO OCR clean 0.77, below the gate). Held Joad's Introduction to Modern Philosophy (only 1934+ reprints)."
+  },
+  {
+   "id": "2026-10-18cg",
+   "status": "done",
+   "scope": "Classical and Renaissance gaps: Philo, Babrius, Helmholtz",
+   "started": "2026-10-17T22:50:28-05:00",
+   "finished": "2026-10-17T22:55:44-05:00",
+   "notes": "3 new shelves (6 vols). Dropped for OCR below 0.78: Lipsius Two Bookes of Constancie 1595 (0.66), Du Vair Moral Philosophie of the Stoicks 1598 (0.76), Wolff Logic 1770 (0.74). Already held elsewhere: Stanhope's Epictetus with Simplicius (epictetus), Guicciardini's Counsels (italian-classics), Columella (roman-farming). Held back by the standing Greek-facing Loeb ruling: Menander (Allinson 1921), Mair's Callimachus (1921)."
   }
  ]
 }
