@@ -5941,6 +5941,19 @@ Slugs `cosin-*`. Caroline Bishop of Durham: the Oxford Works (5 vols, 1843-1855)
 | Later seventeenth-century printings of the Devotions, the Scholastical History (1672, 1684) and Popish Transubstantiation (1676, 1679) | alternate | not shelved |
 | worksjohncosin03cosiuoft: catalogued as Cosin, actually George Hickes | excluded | |
 | Stanwood's 1967 Devotions | excluded | |
+
+## Richard Hurrell Froude (round 27, my pick, 2026-10-17)
+
+Slugs `froude-remains-*`. Tractarian; three of the four volumes of his Remains (1838-1839). Part II vol. I is pending: its title page names no one.
+
+| Work | Status | Where |
+|---|---|---|
+| Remains of the late Reverend Richard Hurrell Froude, part I, vol. I (London: J. G. & F. Rivington, 1838) | have-ocr | IA `remainsoflaterev01frou` |
+| Remains of the late Reverend Richard Hurrell Froude, part I, vol. II (London: J. G. & F. Rivington, 1838) | have-ocr | IA `remainsoflaterev02frou` |
+| Remains of the late Reverend Richard Hurrell Froude, part the second, vol. II (Derby: Henry Mozley; London: Rivington, 1839) | have-ocr | IA `remainsoflaterev04frou` |
+| Other copies of all four volumes | alternate | not shelved |
+| Lyra Apostolica and the Tracts for the Times: several authors | excluded | |
+| Guiney's Hurrell Froude (PG 58007) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

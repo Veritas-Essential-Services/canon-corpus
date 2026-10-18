@@ -1243,3 +1243,6 @@
 
 ## 2026-10-17 19:14 CDT — john-cosin done
 - `pipeline/john-cosin_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for cosin-scholastical-history-1657 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — hurrell-froude done
+- `pipeline/hurrell-froude_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
