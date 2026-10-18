@@ -8927,6 +8927,22 @@ Slugs `jhmoulton-*`. Built from title pages read for round 36.
 | The Treasure of the Magi (London: Humphrey Milford, 1917) | have-ocr | IA `treasureofmagist00moul` |
 | The second edition of the Prolegomena (1906); the complete Vocabulary printed 1929; Two Lectures on the Science of Language (1903); the 1926 Early Zoroastrianism reprint | alternate | not shelved |
 | Grammar vol. II (completed after his death by an editor not named in the OCR); the memoir of his father W. F. Moulton | excluded | |
+
+## Russell H. Conwell (round 36, my pick, 2026-10-18)
+
+Slugs `rhconwell-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Gleams of Grace: Eight Sermons, to which is added the Chautauqua report of his lecture Acres of Diamonds (Philadelphia: Business Men's Association of Grace Baptist Church; J. B. Lippincott, 1887) | have-ocr | IA `gleamsofgraceeig00conw` |
+| Little Bo: A Study in the Ninth of John (Philadelphia: American Baptist Publication Society; entered 1892) | have-ocr | IA `littlebostudyinn00conw` |
+| Acres of Diamonds: A Lecture (Philadelphia: John D. Morris; copyright 1901) | have-ocr | IA `acresofdiamondsl00conw` |
+| How to Live the Christ Life (New York: Fleming H. Revell; copyright 1912) | have-ocr | IA `howtolivechristl00conw` |
+| Effective Prayer (New York and London: Harper & Brothers, 1921) | have-ocr | IA `effectiveprayer0000conw` |
+| Sermons for the Great Days of the Year (New York: George H. Doran; copyright 1922) | have-ocr | IA `sermonsforgreatd00conw` |
+| Unused Powers (New York: Fleming H. Revell; copyright 1922) | have-ocr | IA `unusedpowers00conwiala` |
+| Harper's Acres of Diamonds with Shackleton's life (1915) and PG 368; the National Extension University reprints on Gutenberg (undated); Borrowed Axes (1923); Fields of Glory (year not read) | alternate | not shelved |
+| His campaign and other biographies (Hayes, Garfield, Blaine, Bayard Taylor, Spurgeon); fire histories; hymnals and compilations; Burr's biography of him; Why Lincoln Laughed; post-1929 printings | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

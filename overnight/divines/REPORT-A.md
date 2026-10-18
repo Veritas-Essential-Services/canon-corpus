@@ -1852,3 +1852,6 @@
 
 ## 2026-10-17 22:47 CDT — james-hope-moulton done
 - `pipeline/james-hope-moulton_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — russell-h-conwell done
+- `pipeline/russell-h-conwell_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for rhconwell-christ-life, rhconwell-little-bo (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
