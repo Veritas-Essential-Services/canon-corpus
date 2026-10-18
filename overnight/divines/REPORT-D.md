@@ -1485,3 +1485,6 @@
 
 ## 2026-10-17 21:06 CDT — peter-kyne: done
 - peter-kyne: new shelf, 11 Gutenberg books, 19,596 units, 121 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:06 CDT — fergus-hume: done
+- fergus-hume: new shelf, 65 Gutenberg books, 146,359 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.

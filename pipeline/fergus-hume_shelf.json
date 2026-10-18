@@ -1,0 +1,967 @@
+{
+ "_about": "Fergus Hume's detective novels (The Mystery of a Hansom Cab and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Fergus Hume",
+ "_name_words": [
+  "hume"
+ ],
+ "_surname": [
+  "fergus hume"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fhume-green-mummy": [
+   2868,
+   "The Green Mummy",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-mystery-of-a-hansom-cab": [
+   4223,
+   "The Mystery of a Hansom Cab",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-secret-passage": [
+   4531,
+   "The Secret Passage"
+  ],
+  "fhume-madame-midas": [
+   4946,
+   "Madame Midas"
+  ],
+  "fhume-red-money": [
+   15356,
+   "Red Money",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-silent-house": [
+   19069,
+   "The Silent House"
+  ],
+  "fhume-bishops-secret": [
+   23474,
+   "The Bishop's Secret"
+  ],
+  "fhume-opal-serpent": [
+   24769,
+   "The Opal Serpent",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-a-coin-of-edward-vii": [
+   26063,
+   "A Coin of Edward VII: A Detective Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-pagans-cup": [
+   34835,
+   "The Pagan's Cup",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-solitary-farm": [
+   35146,
+   "The Solitary Farm",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-a-womans-burden": [
+   35240,
+   "A Woman's Burden: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-mandarins-fan": [
+   36346,
+   "The Mandarin's Fan",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-a-son-of-perdition": [
+   41071,
+   "A Son of Perdition: An Occult Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-red-window": [
+   42056,
+   "The Red Window",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-harlequin-opal": [
+   43187,
+   "The Harlequin Opal: A Romance. Vol. 1 (of 3)"
+  ],
+  "fhume-harlequin-opal-43188": [
+   43188,
+   "The Harlequin Opal: A Romance. Vol. 2 (of 3)"
+  ],
+  "fhume-harlequin-opal-43189": [
+   43189,
+   "The Harlequin Opal: A Romance. Vol. 3 (of 3)"
+  ],
+  "fhume-third-volume": [
+   43288,
+   "The Third Volume",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-yellow-holly": [
+   54979,
+   "The Yellow Holly",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-white-room": [
+   55101,
+   "The White Room",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-wooden-hand": [
+   55102,
+   "The Wooden Hand: A Detective Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-mystery-queen": [
+   55137,
+   "The Mystery Queen",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-black-patch": [
+   55305,
+   "The Black Patch"
+  ],
+  "fhume-crimson-cryptogram": [
+   55309,
+   "The Crimson Cryptogram: A Detective Story"
+  ],
+  "fhume-lone-inn": [
+   55310,
+   "The Lone Inn: A Mystery"
+  ],
+  "fhume-girl-from-malta": [
+   55311,
+   "The Girl from Malta",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-rainbow-feather": [
+   55312,
+   "The Rainbow Feather",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-vanishing-of-tera": [
+   55313,
+   "The Vanishing of Tera",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-red-headed-man": [
+   55348,
+   "The Red-headed Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-piccadilly-puzzle": [
+   55376,
+   "The Piccadilly Puzzle: A Mysterious Story"
+  ],
+  "fhume-miss-mephistopheles": [
+   55378,
+   "Miss Mephistopheles: A Novel (Sequel to Madame Midas.)"
+  ],
+  "fhume-man-with-a-secret": [
+   55404,
+   "The Man with a Secret: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-gentleman-who-vanished": [
+   55417,
+   "The Gentleman Who Vanished: A Psychological Phantasy"
+  ],
+  "fhume-for-the-defence": [
+   55420,
+   "For the Defence"
+  ],
+  "fhume-a-creature-of-the-night": [
+   55457,
+   "A Creature of the Night: An Italian Enigma",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-lady-jim-of-curzon-street": [
+   55510,
+   "Lady Jim of Curzon Street: A Novel"
+  ],
+  "fhume-silver-bullet": [
+   55511,
+   "The Silver Bullet"
+  ],
+  "fhume-whom-god-hath-joined": [
+   55571,
+   "Whom God Hath Joined: A Question of Marriage",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-monsieur-judas": [
+   55617,
+   "Monsieur Judas: A Paradox",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-sacred-herb": [
+   55642,
+   "The Sacred Herb"
+  ],
+  "fhume-clock-struck-one": [
+   55689,
+   "The Clock Struck One",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-red-bicycle": [
+   55748,
+   "The Red Bicycle"
+  ],
+  "fhume-turnpike-house": [
+   55782,
+   "The Turnpike House"
+  ],
+  "fhume-tracked-by-a-tattoo": [
+   55783,
+   "Tracked by a Tattoo: A Mystery"
+  ],
+  "fhume-sealed-message": [
+   55795,
+   "The Sealed Message"
+  ],
+  "fhume-spider": [
+   55831,
+   "The Spider"
+  ],
+  "fhume-lost-parchment": [
+   55956,
+   "The Lost Parchment: A Detective Story"
+  ],
+  "fhume-lady-from-nowhere": [
+   55960,
+   "The Lady from Nowhere: A Detective Story"
+  ],
+  "fhume-millionaire-mystery": [
+   55961,
+   "The Millionaire Mystery"
+  ],
+  "fhume-fever-of-life": [
+   56080,
+   "The Fever of Life"
+  ],
+  "fhume-a-traitor-in-london": [
+   56081,
+   "A Traitor in London"
+  ],
+  "fhume-in-queer-street": [
+   56087,
+   "In Queer Street"
+  ],
+  "fhume-island-of-fantasy": [
+   56177,
+   "The Island of Fantasy: A Romance"
+  ],
+  "fhume-amethyst-cross": [
+   56230,
+   "The Amethyst Cross",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-purple-fern": [
+   56233,
+   "The Purple Fern",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-pink-shop": [
+   56237,
+   "The Pink Shop"
+  ],
+  "fhume-indian-bangle": [
+   56241,
+   "The Indian Bangle",
+   {
+    "levels": [
+     {
+      "re": "(PART|CHAPTER) [IVXLC]+\\.$"
+     }
+    ],
+    "start": "PART I\\.$",
+    "front": true
+   }
+  ],
+  "fhume-gates-of-dawn": [
+   56242,
+   "The Gates of Dawn"
+  ],
+  "fhume-mikado-jewel": [
+   56243,
+   "The Mikado Jewel"
+  ],
+  "fhume-scarlet-bat": [
+   56356,
+   "The Scarlet Bat: A Detective Story"
+  ],
+  "fhume-jonahs-luck": [
+   56385,
+   "Jonah's Luck",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-peacock-of-jewels": [
+   56432,
+   "The Peacock of Jewels",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-disappearing-eye": [
+   56841,
+   "The Disappearing Eye",
+   {
+    "contents_only": true
+   }
+  ],
+  "fhume-chronicles-of-fairy-land": [
+   71700,
+   "The chronicles of Fairy land",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59359": "PG 59359: Gutenberg's index of Hume's works, not a book.",
+  "pg-55606": "PG 55606 The Mandarin's Fan: a second Gutenberg edition of a title already on the shelf."
+ },
+ "_checks": {
+  "fhume-green-mummy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-mystery-of-a-hansom-cab": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-secret-passage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-madame-midas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-red-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-silent-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-bishops-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-opal-serpent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-a-coin-of-edward-vii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-pagans-cup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-solitary-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-a-womans-burden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-mandarins-fan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-a-son-of-perdition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-red-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-harlequin-opal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-harlequin-opal-43188": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-harlequin-opal-43189": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-third-volume": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-yellow-holly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-white-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-wooden-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-mystery-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-black-patch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-crimson-cryptogram": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-lone-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-girl-from-malta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-rainbow-feather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-vanishing-of-tera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-red-headed-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-piccadilly-puzzle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-miss-mephistopheles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-man-with-a-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-gentleman-who-vanished": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-for-the-defence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-a-creature-of-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-lady-jim-of-curzon-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-silver-bullet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-whom-god-hath-joined": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-monsieur-judas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-sacred-herb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-clock-struck-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-red-bicycle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-turnpike-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-tracked-by-a-tattoo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-sealed-message": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-lost-parchment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-lady-from-nowhere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-millionaire-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-fever-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-a-traitor-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-in-queer-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-island-of-fantasy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-amethyst-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-purple-fern": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-pink-shop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-indian-bangle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-gates-of-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-mikado-jewel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-scarlet-bat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-jonahs-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-peacock-of-jewels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-disappearing-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhume-chronicles-of-fairy-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fergus hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -10229,6 +10229,80 @@ Shelf: `pipeline/peter-kyne_shelf.json` (2026-10-17; added at the coordinator's 
 | Webster—Man's Man | have | PG 51987, `pkyne-webster-mans-man` (2001 units) |
 | Never the twain shall meet | have | PG 69547, `pkyne-never-the-twain-shall-meet` (2200 units) |
 
+## Fergus Hume
+
+Shelf: `pipeline/fergus-hume_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Detective novels. Every English text under the name at Gutenberg that no other shelf holds (65 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Green Mummy | have | PG 2868, `fhume-green-mummy` (2472 units) |
+| The Mystery of a Hansom Cab | have | PG 4223, `fhume-mystery-of-a-hansom-cab` (2442 units) |
+| The Secret Passage | have | PG 4531, `fhume-secret-passage` (2709 units) |
+| Madame Midas | have | PG 4946, `fhume-madame-midas` (2386 units) |
+| Red Money | have | PG 15356, `fhume-red-money` (2327 units) |
+| The Silent House | have | PG 19069, `fhume-silent-house` (2095 units) |
+| The Bishop's Secret | have | PG 23474, `fhume-bishops-secret` (2737 units) |
+| The Opal Serpent | have | PG 24769, `fhume-opal-serpent` (2391 units) |
+| A Coin of Edward VII: A Detective Story | have | PG 26063, `fhume-a-coin-of-edward-vii` (2345 units) |
+| The Pagan's Cup | have | PG 34835, `fhume-pagans-cup` (1895 units) |
+| The Solitary Farm | have | PG 35146, `fhume-solitary-farm` (2353 units) |
+| A Woman's Burden: A Novel | have | PG 35240, `fhume-a-womans-burden` (2522 units) |
+| The Mandarin's Fan | have | PG 36346, `fhume-mandarins-fan` (2386 units) |
+| A Son of Perdition: An Occult Romance | have | PG 41071, `fhume-a-son-of-perdition` (2533 units) |
+| The Red Window | have | PG 42056, `fhume-red-window` (2671 units) |
+| The Harlequin Opal: A Romance. Vol. 1 (of 3) | have | PG 43187, `fhume-harlequin-opal` (1512 units) |
+| The Harlequin Opal: A Romance. Vol. 2 (of 3) | have | PG 43188, `fhume-harlequin-opal-43188` (1258 units) |
+| The Harlequin Opal: A Romance. Vol. 3 (of 3) | have | PG 43189, `fhume-harlequin-opal-43189` (950 units) |
+| The Third Volume | have | PG 43288, `fhume-third-volume` (2523 units) |
+| The Yellow Holly | have | PG 54979, `fhume-yellow-holly` (3111 units) |
+| The White Room | have | PG 55101, `fhume-white-room` (2500 units) |
+| The Wooden Hand: A Detective Story | have | PG 55102, `fhume-wooden-hand` (2440 units) |
+| The Mystery Queen | have | PG 55137, `fhume-mystery-queen` (2130 units) |
+| The Black Patch | have | PG 55305, `fhume-black-patch` (2311 units) |
+| The Crimson Cryptogram: A Detective Story | have | PG 55309, `fhume-crimson-cryptogram` (1747 units) |
+| The Lone Inn: A Mystery | have | PG 55310, `fhume-lone-inn` (1256 units) |
+| The Girl from Malta | have | PG 55311, `fhume-girl-from-malta` (2241 units) |
+| The Rainbow Feather | have | PG 55312, `fhume-rainbow-feather` (1849 units) |
+| The Vanishing of Tera | have | PG 55313, `fhume-vanishing-of-tera` (1907 units) |
+| The Red-headed Man | have | PG 55348, `fhume-red-headed-man` (1748 units) |
+| The Piccadilly Puzzle: A Mysterious Story | have | PG 55376, `fhume-piccadilly-puzzle` (1499 units) |
+| Miss Mephistopheles: A Novel (Sequel to Madame Midas.) | have | PG 55378, `fhume-miss-mephistopheles` (2423 units) |
+| The Man with a Secret: A Novel | have | PG 55404, `fhume-man-with-a-secret` (2560 units) |
+| The Gentleman Who Vanished: A Psychological Phantasy | have | PG 55417, `fhume-gentleman-who-vanished` (708 units) |
+| For the Defence | have | PG 55420, `fhume-for-the-defence` (1776 units) |
+| A Creature of the Night: An Italian Enigma | have | PG 55457, `fhume-a-creature-of-the-night` (1166 units) |
+| Lady Jim of Curzon Street: A Novel | have | PG 55510, `fhume-lady-jim-of-curzon-street` (4287 units) |
+| The Silver Bullet | have | PG 55511, `fhume-silver-bullet` (2836 units) |
+| Whom God Hath Joined: A Question of Marriage | have | PG 55571, `fhume-whom-god-hath-joined` (3480 units) |
+| Monsieur Judas: A Paradox | have | PG 55617, `fhume-monsieur-judas` (2132 units) |
+| The Sacred Herb | have | PG 55642, `fhume-sacred-herb` (2204 units) |
+| The Clock Struck One | have | PG 55689, `fhume-clock-struck-one` (1660 units) |
+| The Red Bicycle | have | PG 55748, `fhume-red-bicycle` (1750 units) |
+| The Turnpike House | have | PG 55782, `fhume-turnpike-house` (2133 units) |
+| Tracked by a Tattoo: A Mystery | have | PG 55783, `fhume-tracked-by-a-tattoo` (2328 units) |
+| The Sealed Message | have | PG 55795, `fhume-sealed-message` (2168 units) |
+| The Spider | have | PG 55831, `fhume-spider` (2404 units) |
+| The Lost Parchment: A Detective Story | have | PG 55956, `fhume-lost-parchment` (2294 units) |
+| The Lady from Nowhere: A Detective Story | have | PG 55960, `fhume-lady-from-nowhere` (1639 units) |
+| The Millionaire Mystery | have | PG 55961, `fhume-millionaire-mystery` (2086 units) |
+| The Fever of Life | have | PG 56080, `fhume-fever-of-life` (2918 units) |
+| A Traitor in London | have | PG 56081, `fhume-a-traitor-in-london` (2301 units) |
+| In Queer Street | have | PG 56087, `fhume-in-queer-street` (2278 units) |
+| The Island of Fantasy: A Romance | have | PG 56177, `fhume-island-of-fantasy` (4455 units) |
+| The Amethyst Cross | have | PG 56230, `fhume-amethyst-cross` (2300 units) |
+| The Purple Fern | have | PG 56233, `fhume-purple-fern` (2535 units) |
+| The Pink Shop | have | PG 56237, `fhume-pink-shop` (1918 units) |
+| The Indian Bangle | have | PG 56241, `fhume-indian-bangle` (2935 units) |
+| The Gates of Dawn | have | PG 56242, `fhume-gates-of-dawn` (1553 units) |
+| The Mikado Jewel | have | PG 56243, `fhume-mikado-jewel` (1912 units) |
+| The Scarlet Bat: A Detective Story | have | PG 56356, `fhume-scarlet-bat` (2453 units) |
+| Jonah's Luck | have | PG 56385, `fhume-jonahs-luck` (3071 units) |
+| The Peacock of Jewels | have | PG 56432, `fhume-peacock-of-jewels` (2656 units) |
+| The Disappearing Eye | have | PG 56841, `fhume-disappearing-eye` (2514 units) |
+| The chronicles of Fairy land | have | PG 71700, `fhume-chronicles-of-fairy-land` (1280 units) |
+| pg-59359 | excluded | PG 59359: Gutenberg's index of Hume's works, not a book. |
+| pg-55606 | excluded | PG 55606 The Mandarin's Fan: a second Gutenberg edition of a title already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
