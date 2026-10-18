@@ -14440,6 +14440,104 @@ Shelf: `pipeline/ernest-barker_shelf.json`. His two books on Greek political the
 
 Pending (wishlist): Political Thought in England from Herbert Spencer to the Present Day (1915) in a dated pre-1931 printing
 
+## G. Stanley Hall (genetic psychology)
+
+Shelf: `pipeline/g-stanley-hall_shelf.json`. Eight volumes, 1904-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Youth: Its Education, Regimen, and Hygiene |  | `hall-youth` | have (PG 9173) |
+| Senescence, the Last Half of Life |  | `hall-senescence` | have (PG 66534) |
+| Adolescence, vol. I (Appleton, 1904) |  | `hall-adolescence-1904-v1` | have-raw (IA `b21523241_0001`) |
+| Adolescence, vol. II (Appleton, 1904) |  | `hall-adolescence-1904-v2` | have-raw (IA `b21523241_0002`) |
+| Founders of Modern Psychology (Appleton, 1912) |  | `hall-founders-of-modern-psychology-1912` | have-raw (IA `foundersofmodern00halluoft`) |
+| Jesus, the Christ, in the Light of Psychology, vol. I (1917) |  | `hall-jesus-the-christ-psychology-1917-v1` | have-raw (IA `cu31924092360217`) |
+| Jesus, the Christ, in the Light of Psychology, vol. II (1917) |  | `hall-jesus-the-christ-psychology-1917-v2` | have-raw (IA `jesuschristinli02hall`) |
+| Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing) |  | `hall-life-and-confessions-1923` | have-raw (IA `lifeconfessionso0000gsta`) |
+
+Pending (wishlist): Educational Problems (1911, 2 vols.)
+
+## E. B. Titchener (structural psychology)
+
+Shelf: `pipeline/e-b-titchener_shelf.json`. Seven books, 1896-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Beginner's Psychology |  | `titchener-beginners-psychology` | have (PG 51442) |
+| An Outline of Psychology (Macmillan, 1896) |  | `titchener-outline-of-psychology-1896` | have-raw (IA `anoutlinepsycho04titcgoog`) |
+| A Primer of Psychology, rev. ed. (Macmillan; 1906 printing) |  | `titchener-primer-of-psychology-1898` | have-raw (IA `primerpsycholog05titcgoog`) |
+| Lectures on the Elementary Psychology of Feeling and Attention (Macmillan, 1908) |  | `titchener-feeling-and-attention-1908` | have-raw (IA `in.ernet.dli.2015.84700`) |
+| Lectures on the Experimental Psychology of the Thought-Processes (Macmillan, 1909) |  | `titchener-thought-processes-1909` | have-raw (IA `lecturesonexper00goog`) |
+| A Text-Book of Psychology (Macmillan, 1910; 1916 printing) |  | `titchener-text-book-of-psychology-1910` | have-raw (IA `textbookofpsycho00titc`) |
+| Systematic Psychology: Prolegomena (Macmillan, 1929) |  | `titchener-systematic-psychology-1929` | have-raw (IA `in.ernet.dli.2015.248073`) |
+
+Pending (wishlist): Experimental Psychology: A Manual of Laboratory Practice (1901-05, 4 vols.)
+
+## Paul Elmer More (the Greek tradition)
+
+Shelf: `pipeline/paul-elmer-more_shelf.json`. The Greek Tradition series and one Shelburne volume.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Shelburne Essays, Third Series |  | `more-shelburne-essays-third-series` | have (PG 39447) |
+| Platonism (Princeton, 1917) |  | `more-platonism-1917` | have-raw (IA `platonism00moreuoft`) |
+| The Religion of Plato (Princeton, 1921) |  | `more-religion-of-plato-1921` | have-raw (IA `thereligionofpla00moreuoft`) |
+| Hellenistic Philosophies (Princeton, 1923) |  | `more-hellenistic-philosophies-1923` | have-raw (IA `hellenisticphilo017066mbp`) |
+| The Christ of the New Testament (Princeton, 1924) |  | `more-christ-of-the-new-testament-1924` | have-raw (IA `christofnewtesta0000more`) |
+| Christ the Word (Princeton, 1927) |  | `more-christ-the-word-1927` | have-raw (IA `christword00more`) |
+| The Demon of the Absolute (Princeton, 1928) |  | `more-demon-of-the-absolute-1928` | have-raw (IA `demonofabsolute00more`) |
+
+Pending (wishlist): Shelburne Essays, other series (1904-21)
+
+## W. T. Harris (St. Louis Hegelianism)
+
+Shelf: `pipeline/w-t-harris_shelf.json`. His philosophy readings, his education book and the Journal's first volume.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Journal of Speculative Philosophy, Vol. I (1867) |  | `harris-journal-speculative-philosophy-v1` | have (PG 65097) |
+| Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing) |  | `harris-introduction-study-of-philosophy-1889` | have-raw (IA `introductiontoth00harruoft`) |
+| Psychologic Foundations of Education (Appleton, 1898) |  | `harris-psychologic-foundations-1898` | have-raw (IA `psychologicfound00harr`) |
+
+Pending (wishlist): Hegel's Logic: A Book on the Genesis of the Categories of the Mind (1890)
+
+## James Bissett Pratt (philosophy of religion)
+
+Shelf: `pipeline/james-bissett-pratt_shelf.json`. Six books, 1907-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Psychology of Religious Belief (Macmillan, 1907) |  | `pratt-psychology-religious-belief-1907` | have-raw (IA `psychologyofreli00pratuoft`) |
+| What is Pragmatism? (Macmillan, 1909) |  | `pratt-what-is-pragmatism-1909` | have-raw (IA `cu31924029019417`) |
+| India and its Faiths (Houghton Mifflin, 1915) |  | `pratt-india-and-its-faiths-1915` | have-raw (IA `indiaitsfaithstr00prat`) |
+| The Religious Consciousness (Macmillan, 1920) |  | `pratt-religious-consciousness-1920` | have-raw (IA `religiousconsciou00prat`) |
+| Matter and Spirit (Macmillan, 1922) |  | `pratt-matter-and-spirit-1922` | have-raw (IA `matterspiritstud00prat`) |
+| The Pilgrimage of Buddhism (Macmillan, 1928) |  | `pratt-pilgrimage-of-buddhism-1928` | have-raw (IA `pilgrimageofbudd0000jame`) |
+
+## Durant Drake (critical realism)
+
+Shelf: `pipeline/durant-drake_shelf.json`. Five books, 1914-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems of Conduct |  | `drake-problems-of-conduct` | have (PG 5775) |
+| Problems of Religion (Houghton Mifflin, 1916) |  | `drake-problems-of-religion-1916` | have-raw (IA `problemsofreli00drak`) |
+| Shall We Stand by the Church? (Macmillan, 1920) |  | `drake-shall-we-stand-by-the-church-1920` | have-raw (IA `shallwestandbych00drak`) |
+| Mind and its Place in Nature (Macmillan, 1925) |  | `drake-mind-and-its-place-in-nature-1925` | have-raw (IA `minditsplaceinna0000dura`) |
+| The New Morality (Macmillan, 1928) |  | `drake-new-morality-1928` | have-raw (IA `newmorality00drak`) |
+
+## Thomas Davidson (education and philosophy)
+
+Shelf: `pipeline/thomas-davidson-philosopher_shelf.json`. Five books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Aristotle and Ancient Educational Ideals |  | `davidson-aristotle-ancient-educational-ideals` | have (PG 40552) |
+| The Education of the Greek People (Appleton, 1894) |  | `davidson-education-of-the-greek-people-1894` | have-raw (IA `educationofgreek0028thom`) |
+| Rousseau and Education According to Nature (Scribner's, 1898; 1900 printing) |  | `davidson-rousseau-and-education-1898` | have-raw (IA `rousseauandeduca00daviuoft`) |
+| A History of Education (Scribner's, 1900) |  | `davidson-history-of-education-1900` | have-raw (IA `historyofeducti0davi`) |
+| The Philosophy of Goethe's Faust (Ginn, 1906) |  | `davidson-philosophy-of-goethes-faust-1906` | have-raw (IA `philosophyofgoet0000thom`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

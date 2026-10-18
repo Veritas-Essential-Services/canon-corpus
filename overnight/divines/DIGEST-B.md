@@ -259,3 +259,4 @@
 - 21:21 round bo: 8 new shelves (Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt).
 - 21:25 round bp: 6 new shelves (Whichcote, John Smith, Culverwel, Digby, Collier, Peter Browne). Filmer held on OCR quality.
 - 21:29 round bq: 5 new shelves (Frederic Harrison, Congreve, Balfour, Figgis, Barker).
+- 21:33 round br: 7 new shelves (Stanley Hall, Titchener, P. E. More, W. T. Harris, Pratt, Drake, Thomas Davidson), 41 titles.

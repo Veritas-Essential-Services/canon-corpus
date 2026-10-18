@@ -1248,3 +1248,10 @@
 - Congreve: Essays (3 vols), Roman Empire of the West
 - Balfour: Defence of Philosophic Doubt, Foundations of Belief, Theism and Humanism, Theism and Thought, Decadence
 - Figgis: Divine Right of Kings, Gerson to Grotius, Civilisation at the Cross Roads, Will to Freedom; Barker: Plato and Aristotle 1906, Greek Political Theory 1918
+
+## 2026-10-17 21:33 CDT — Round br: Hall, Titchener, More, Harris, Pratt, Drake, Davidson
+- Hall: Youth, Senescence, Adolescence (2 vols), Founders of Modern Psychology, Jesus the Christ (2 vols), Life and Confessions
+- Titchener: Beginner's Psychology, Outline, Primer, Feeling and Attention, Thought-Processes, Text-Book, Systematic Psychology
+- More: Platonism, Religion of Plato, Hellenistic Philosophies, Christ of the NT, Christ the Word, Demon of the Absolute, Shelburne III
+- Harris: Journal of Speculative Philosophy I, Introduction to the Study of Philosophy, Psychologic Foundations
+- Pratt: 6 books; Drake: 5 books; Davidson: 5 books
