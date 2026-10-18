@@ -6235,6 +6235,7 @@ Shelf: `pipeline/j-r-seeley_shelf.json`. Sir John Robert Seeley (1834-1895). The
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Expansion of England (Macmillan, 1883; this copy 1899) |  | `seeley-expansion-of-england-1883` | have-raw (IA `expansionenglan02seelgoog`) |
 
 Pending (wishlist): Introduction to Political Science (1896)
 
