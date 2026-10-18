@@ -29969,6 +29969,32 @@ Shelf: `pipeline/samuel-richardson_shelf.json` (2026-10-17; added at the coordin
 | Samuel Richardson's Introduction to Pamela | have | PG 24860, `srichardson-samuel-richardsons-introduction-to-pamela` (276 units) |
 | Clarissa | have | PG 29964, `srichardson-clarissa` (389 units) |
 
+## Fanny Burney
+
+Shelf: `pipeline/fanny-burney_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Diary and Letters of Madame D'Arblay — Volume 1 | have | PG 5826, `fburney-diary-and-letters-of-madame-darblay-volume-1` (3690 units) |
+| The Diary and Letters of Madame D'Arblay — Volume 2 | have | PG 6042, `fburney-diary-and-letters-of-madame-darblay-volume-2` (4184 units) |
+| Evelina, Or, the History of a Young Lady's Entrance into the World | have | PG 6053, `fburney-evelina` (3600 units) |
+| Cecilia; Or, Memoirs of an Heiress — Volume 1 | have | PG 6346, `fburney-cecilia` (2352 units) |
+| The Diary and Letters of Madame D'Arblay — Volume 3 | have | PG 6457, `fburney-diary-and-letters-of-madame-darblay-volume-3` (2696 units) |
+| Cecilia; Or, Memoirs of an Heiress — Volume 2 | have | PG 7146, `fburney-cecilia-7146` (2252 units) |
+| Cecilia; Or, Memoirs of an Heiress — Volume 3 | have | PG 7152, `fburney-cecilia-7152` (2269 units) |
+| Brief Reflections relative to the Emigrant French Clergy | have | PG 29125, `fburney-brief-reflections-relative-to-the-emigrant-french-cl` (64 units) |
+| The Wanderer; or, Female Difficulties (Volume 1 of 5) | have | PG 37437, `fburney-wanderer` (1399 units) |
+| The Wanderer; or, Female Difficulties (Volume 2 of 5) | have | PG 37438, `fburney-wanderer-37438` (1167 units) |
+| The Wanderer; or, Female Difficulties (Volume 3 of 5) | have | PG 37439, `fburney-wanderer-37439` (1024 units) |
+| The Wanderer; or, Female Difficulties (Volume 4 of 5) | have | PG 37440, `fburney-wanderer-37440` (946 units) |
+| The Wanderer; or, Female Difficulties (Volume 5 of 5) | have | PG 37441, `fburney-wanderer-37441` (973 units) |
+| Camilla; or, A Picture of Youth | have | PG 40619, `fburney-camilla` (6830 units) |
+| Memoirs of Doctor Burney (Vol. 1 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay | have | PG 61468, `fburney-memoirs-of-doctor-burney-vol-1-of-3-arranged-from-hi` (1237 units) |
+| Memoirs of Doctor Burney (Vol. 2 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay | have | PG 61926, `fburney-memoirs-of-doctor-burney-vol-2-of-3-arranged-from-hi` (1386 units) |
+| Memoirs of Doctor Burney (Vol. 3 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay | have | PG 62046, `fburney-memoirs-of-doctor-burney-vol-3-of-3-arranged-from-hi` (1551 units) |
+| pg-58079 | excluded | PG 58079: Gutenberg's index of the author's works, not a book. |
+| pg-57472 | excluded | PG 57472 Fanny Burney and Her Friends: passages from her diary selected by L. B. Seeley; the diary itself is on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
