@@ -6331,6 +6331,7 @@ Shelf: `pipeline/e-f-carritt_shelf.json`. E. F. Carritt (1876-1964). The Theory 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Theory of Beauty (Methuen, 1914) |  | `carritt-theory-of-beauty-1914` | have-raw (IA `cu31924031230356`) |
 
 ## Perseus census (overflow)
 
