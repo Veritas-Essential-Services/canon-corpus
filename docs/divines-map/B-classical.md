@@ -7350,6 +7350,11 @@ Shelf: `pipeline/charlotte-perkins-gilman_shelf.json`. Five books, 1898-1911.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Women and Economics (1898) |  | `gilman-women-and-economics` | have (PG 57913) |
+| Concerning Children (1900) |  | `gilman-concerning-children` | have (PG 40481) |
+| The Home, its Work and Influence (1903) |  | `gilman-the-home` | have (PG 44481) |
+| Human Work (1904) |  | `gilman-human-work` | have (PG 64098) |
+| The Man-Made World, or Our Androcentric Culture (1911) |  | `gilman-man-made-world` | have (PG 3015) |
 
 ## Emma Goldman (anarchism)
 
