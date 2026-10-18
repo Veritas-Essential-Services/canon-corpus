@@ -9283,6 +9283,16 @@ Slugs `ephrem-*`. Built from title pages read for round 38.
 | S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912) | have-ocr | IA `proserefutations01ephruoft` |
 | Other 1847 copies of Morris (selectedworksofs00ephrrich and four more; one catalogued 1839, the title page reads MDCCCXLVII); other 1853 Burgess copies | alternate | not shelved |
 | The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill | excluded | |
+
+## Narsai (round 38, my pick, 2026-10-18)
+
+Slugs `narsai-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909) | have-ocr | IA `liturgicalhomili00narsuoft` |
+| liturgicalhomili00narsuoft_202509 (another scan) | alternate | not shelved |
+| Mingana's Syriac edition (1905) and later Syriac printings | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

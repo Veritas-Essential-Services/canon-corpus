@@ -1942,3 +1942,6 @@
 
 ## 2026-10-17 23:06 CDT — ephrem-the-syrian done
 - `pipeline/ephrem-the-syrian_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:06 CDT — narsai done
+- `pipeline/narsai_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -898,6 +898,7 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | Ephrem the Syrian | ephrem-the-syrian_shelf.json | none | 4 (Rhythms of Saint Ephrem the Syrian: Select Works of S. Ephrem the Syrian, tr. J. B. Morris, Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII); Select Metrical Hymns and Homilies of Ephraem Syrus, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); The Repentance of Nineveh, a metrical homily on the mission of Jonah, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912)) | none | The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill |
+| Narsai | narsai_shelf.json | none | 1 (The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909)) | none | Mingana's Syriac edition (1905) and later Syriac printings |
 
 ## Paused 2026-10-10 15:12 CDT
 
