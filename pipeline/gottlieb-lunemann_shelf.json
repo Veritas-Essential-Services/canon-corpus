@@ -1,0 +1,63 @@
+{
+ "_about": "Public-domain Gottlieb Lünemann (1819-1894, Göttingen) in English for the Word Hoard: his two volumes in Meyer's Critical and Exegetical Commentary, Thessalonians, tr. Paton J. Gloag (1880), and Hebrews, tr. Maurice J. Evans (1882), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lunemann",
+  "lünemann"
+ ],
+ "_surname": [
+  "lunemann",
+  "lünemann",
+  "gottlieb lunemann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lunemann-thessalonians": [
+   "criticalexegetic00ln",
+   "Critical and Exegetical Handbook to the Epistles of St. Paul to the Thessalonians, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXX)"
+  ],
+  "lunemann-hebrews": [
+   "criticalexegeticheb00ln",
+   "Critical and Exegetical Handbook to the Epistle to the Hebrews, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXXII)"
+  ]
+ },
+ "_alternates": {
+  "lunemann-copies": "Another Hebrews copy (1882)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "lunemann-thessalonians": "gloag",
+  "lunemann-hebrews": "evans"
+ },
+ "_checks": {
+  "lunemann-thessalonians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lunemann",
+   "translator_claimed": "gloag",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lunemann-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lunemann",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -6861,6 +6861,16 @@ Slugs `meyer-*`. Critical and Exegetical Commentary on the New Testament, the vo
 | Thessalonians and Hebrews (Lünemann), Timothy-Titus, Peter-Jude, James-John (Huther), Revelation (Düsterdieck): their own shelves | excluded | |
 | Alpha reprints (1979-1980) | excluded | |
 | F. B. Meyer, a different man | excluded | |
+
+## Gottlieb Lünemann (round 30, my pick, 2026-10-18)
+
+Slugs `lunemann-*`. His volumes in Meyer's commentary: Thessalonians and Hebrews.
+
+| Work | Status | Where |
+|---|---|---|
+| Critical and Exegetical Handbook to the Epistles of St. Paul to the Thessalonians, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexegetic00ln` |
+| Critical and Exegetical Handbook to the Epistle to the Hebrews, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXXII) | have-ocr | IA `criticalexegeticheb00ln` |
+| Another Hebrews copy (1882) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
