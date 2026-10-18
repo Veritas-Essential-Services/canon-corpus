@@ -11214,6 +11214,40 @@ Shelf: `pipeline/mary-wilkins-freeman_shelf.json` (2026-10-17; added at the coor
 | Once Upon a Time, and Other Child-Verses | have | PG 45300, `mewfreeman-once-upon-a-time-and-other-child-verses` (2467 units) |
 | Silence, and other stories | have | PG 76948, `mewfreeman-silence-and-other-stories` (1283 units) |
 
+## Oscar Wilde
+
+Shelf: `pipeline/wilde-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelves. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ballad of Reading Gaol | have | PG 301, `owilde-ballad-of-reading-gaol` (227 units) |
+| Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories | have | PG 773, `owilde-lord-arthur-saviles-crime` (578 units) |
+| Essays and Lectures | have | PG 774, `owilde-essays-and-lectures` (531 units) |
+| A Woman of No Importance | have | PG 854, `owilde-a-woman-of-no-importance` (960 units) |
+| The Duchess of Padua | have | PG 875, `owilde-duchess-of-padua` (1078 units) |
+| Intentions | have | PG 887, `owilde-intentions` (378 units) |
+| De Profundis | have | PG 921, `owilde-de-profundis` (119 units) |
+| The Soul of Man under Socialism | have | PG 1017, `owilde-soul-of-man-under-socialism` (62 units) |
+| Charmides, and Other Poems | have | PG 1031, `owilde-charmides-and-other-poems` (298 units) |
+| Poems, with The Ballad of Reading Gaol | have | PG 1057, `owilde-poems-with-the-ballad-of-reading-gaol` (936 units) |
+| A Florentine Tragedy; La Sainte Courtisane | have | PG 1308, `owilde-a-florentine-tragedy` (325 units) |
+| Shorter Prose Pieces | have | PG 2061, `owilde-shorter-prose-pieces` (90 units) |
+| The Picture of Dorian Gray | have | PG 4078, `owilde-picture-of-dorian-gray` (881 units) |
+| Miscellanies | have | PG 14062, `owilde-miscellanies` (1186 units) |
+| Reviews | have | PG 14240, `owilde-reviews` (2014 units) |
+| The Canterville Ghost | have | PG 14522, `owilde-canterville-ghost` (129 units) |
+| For Love of the King: A Burmese Masque | have | PG 23229, `owilde-for-love-of-the-king` (139 units) |
+| Vera; Or, The Nihilists | have | PG 26494, `owilde-vera` (787 units) |
+| Miscellaneous Aphorisms; The Soul of Man | have | PG 33979, `owilde-miscellaneous-aphorisms` (652 units) |
+| Impressions of America | have | PG 41806, `owilde-impressions-of-america` (96 units) |
+| Children in Prison and Other Cruelties of Prison Life | have | PG 42104, `owilde-children-in-prison-and-other-cruelties-of-prison-life` (31 units) |
+| Wilde v Whistler Being an Acrimonious Correspondence on Art Between Oscar Wilde and James A McNeill Whistler (with James McNeill Whistler) | have | PG 69674, `owilde-wilde-v-whistler-being-an-acrimonious-correspondence` (78 units) |
+| Lady Windermere's Fan | have | PG 790, `owilde-lady-windermeres-fan` (837 units) |
+| pg-58329 | excluded | PG 58329: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 26740: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 174, 844, 885: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-1141 | excluded | PG 1141 Selected Poems, 1338 Selected Prose and 30191 A Critic in Pall Mall: selections of work held whole elsewhere. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
