@@ -16791,6 +16791,76 @@ Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
 | The Psychology of High-School Subjects (Ginn, 1916) |  | `judd-psychology-of-high-school-subjects-1916` | have-raw (IA `in.ernet.dli.2015.21801`) |
 | Introduction to the Scientific Study of Education (Ginn, 1918) |  | `judd-introduction-to-scientific-study-of-education-1918` | have-raw (IA `introductiontosc00juddiala`) |
 
+## Charles Darwin (natural history and evolution)
+
+Shelf: `pipeline/charles-darwin_shelf.json`. Twenty works beyond the Origin and Descent already on the adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Voyage of the Beagle (Journal of Researches, 2nd ed., 1845) |  | `darwin-voyage-of-the-beagle-1845` | have (PG 944) |
+| The Structure and Distribution of Coral Reefs |  | `darwin-coral-reefs` | have (PG 2690) |
+| Geological Observations on the Volcanic Islands |  | `darwin-volcanic-islands` | have (PG 3054) |
+| Geological Observations on South America |  | `darwin-geological-observations-south-america` | have (PG 3620) |
+| A Monograph on the Sub-class Cirripedia, vol. 1: The Lepadidae (Ray Society, 1851) |  | `darwin-cirripedia-v1-1851` | have (PG 31558) |
+| A Monograph on the Sub-class Cirripedia, vol. 2: The Balanidae (Ray Society, 1854) |  | `darwin-cirripedia-v2-1854` | have (PG 46408) |
+| The Variation of Animals and Plants under Domestication |  | `darwin-variation-under-domestication` | have (PG 3332) |
+| The Expression of the Emotions in Man and Animals |  | `darwin-expression-of-the-emotions` | have (PG 1227) |
+| The Movements and Habits of Climbing Plants |  | `darwin-climbing-plants` | have (PG 2485) |
+| Insectivorous Plants |  | `darwin-insectivorous-plants` | have (PG 5765) |
+| The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom |  | `darwin-cross-and-self-fertilisation` | have (PG 4346) |
+| The Different Forms of Flowers on Plants of the Same Species |  | `darwin-different-forms-of-flowers` | have (PG 3807) |
+| The Power of Movement in Plants |  | `darwin-power-of-movement-in-plants` | have (PG 5605) |
+| The Formation of Vegetable Mould through the Action of Worms |  | `darwin-vegetable-mould-and-worms` | have (PG 2355) |
+| The Autobiography of Charles Darwin |  | `darwin-autobiography` | have (PG 2010) |
+| Life and Letters of Charles Darwin, vol. 1, ed. Francis Darwin |  | `darwin-life-and-letters-v1` | have (PG 2087) |
+| Life and Letters of Charles Darwin, vol. 2, ed. Francis Darwin |  | `darwin-life-and-letters-v2` | have (PG 2088) |
+| More Letters of Charles Darwin, vol. 1, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v1` | have (PG 2739) |
+| More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v2` | have (PG 2740) |
+| The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909) |  | `darwin-foundations-of-the-origin-1909` | have (PG 22728) |
+
+Pending (wishlist): Fertilisation of Orchids (1862), not on Project Gutenberg in English.
+
+## Alfred Russel Wallace (natural selection and biogeography)
+
+Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Narrative of Travels on the Amazon and Rio Negro (Reeve, 1853) |  | `wallace-travels-on-the-amazon-1853` | have (PG 71436) |
+| Palm Trees of the Amazon and their Uses |  | `wallace-palm-trees-of-the-amazon` | have (PG 70075) |
+| On the Phenomena of Variation and Geographical Distribution as illustrated by the Papilionidae of the Malayan Region |  | `wallace-papilionidae-variation` | have (PG 74871) |
+| The Malay Archipelago, vol. 1 |  | `wallace-malay-archipelago-v1` | have (PG 2530) |
+| The Malay Archipelago, vol. 2 |  | `wallace-malay-archipelago-v2` | have (PG 2539) |
+| Contributions to the Theory of Natural Selection |  | `wallace-contributions-to-natural-selection` | have (PG 22428) |
+| A Defence of Modern Spiritualism |  | `wallace-defence-of-modern-spiritualism` | have (PG 69454) |
+| The Geographical Distribution of Animals, vol. 1 |  | `wallace-geographical-distribution-v1` | have (PG 56506) |
+| The Geographical Distribution of Animals, vol. 2 |  | `wallace-geographical-distribution-v2` | have (PG 56507) |
+| Tropical Nature, and other essays |  | `wallace-tropical-nature` | have (PG 73563) |
+| Island Life |  | `wallace-island-life` | have (PG 32021) |
+| Darwinism (1889) |  | `wallace-darwinism-1889` | have (PG 14558) |
+| Vaccination a Delusion |  | `wallace-vaccination-a-delusion` | have (PG 58918) |
+| Man's Place in the Universe |  | `wallace-mans-place-in-the-universe` | have (PG 39928) |
+| Is Mars Habitable? |  | `wallace-is-mars-habitable` | have (PG 10855) |
+| Social Environment and Moral Progress |  | `wallace-social-environment-and-moral-progress` | have (PG 50289) |
+| The Remedy for Unemployment |  | `wallace-remedy-for-unemployment` | have (PG 50690) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
+
+Pending (wishlist): My Life (1905) and The Wonderful Century (1898).
+
+## Charles Lyell (uniformitarian geology)
+
+Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principles of Geology, 9th edition |  | `lyell-principles-of-geology-9th-ed` | have (PG 33224) |
+| A Manual of Elementary Geology |  | `lyell-manual-of-elementary-geology` | have (PG 34350) |
+| The Antiquity of Man |  | `lyell-antiquity-of-man` | have (PG 6335) |
+| The Student's Elements of Geology |  | `lyell-students-elements-of-geology` | have (PG 3772) |
+
+Pending (wishlist): Principles of Geology, 1st edition (1830-33).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

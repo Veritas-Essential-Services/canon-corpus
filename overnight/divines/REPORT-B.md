@@ -1325,3 +1325,8 @@
 - c-i-lewis +1: Mind and the World-Order (1929); corrected the shelf's 'all later books after 1930' note
 - Identity checks: Tufts 'UFTS', Otto (name lost on title page; confirmed from preface)
 - Garbled years noted: Bode's Conflicting Psychologies (copyright read as 1920; 1930 library stamp), Woodworth's Psychology (preface Aug 1921)
+
+## 2026-10-17 22:46 CDT — Round ce: Darwin, Wallace, Lyell
+- charles-darwin (20), alfred-russel-wallace (19), charles-lyell (4); all fetched, no PG copyright or translator flags
+- Gap found by auditing ~200 canonical names against every branch's shelves: no shelf held Darwin beyond adler's two books, nor Wallace or Lyell at all
+- Noted for lane C, not taken: unheld PG translations of Nietzsche (Antichrist tr. Mencken 19322; Human, All Too Human tr. Harvey 38145), Haeckel (9199, 25711, 44541), Poincare (Science and Hypothesis 37157), Voltaire (Letters on England 2445; Philosophical Dictionary 18569), Montaigne Cotton volumes 3581-3599 (3600 complete is on adler)
