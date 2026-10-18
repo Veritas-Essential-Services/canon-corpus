@@ -1678,3 +1678,6 @@
 
 ## 2026-10-17 22:08 CDT — stephen-grellet done
 - `pipeline/stephen-grellet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — rufus-m-jones done
+- `pipeline/rufus-m-jones_shelf.json`: 0 CCEL, 3 PG, 6 IA. Title pages read for rmjones-mystical-religion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

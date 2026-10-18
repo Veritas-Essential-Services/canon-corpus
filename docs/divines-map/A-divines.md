@@ -8076,3 +8076,21 @@ Slugs `grellet-*`. Built from title pages read for round 34.
 | Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, second edition, vol. II (London: A. W. Bennett, 1861) | have-ocr | IA `memoirsoflifegos02grel_0` |
 | Other 1861 and 1862 London copies; the abridged one-volume Philadelphia edition (its '1848' is impossible) | alternate | not shelved |
 | William Guest's Stephen Grellet and Van Rensselaer's The Fight, Faith, and Crown: books about him | excluded | |
+
+## Rufus M. Jones (round 34, my pick, 2026-10-18)
+
+Slugs `rmjones-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual Reformers in the 16th & 17th Centuries (London: Macmillan, 1914) | have-clean | Gutenberg 24934 |
+| The Inner Life (New York: Macmillan, 1917; first published 1916) | have-clean | Gutenberg 61078 |
+| The Double Search: Studies in Atonement and Prayer (Philadelphia: John C. Winston, 1906) | have-clean | Gutenberg 61771 |
+| Social Law in the Spiritual World: Studies in Human and Divine Inter-Relationship (Philadelphia: John C. Winston; title page undated, copyright 1904) | have-ocr | IA `sociallawinspiri01jone` |
+| Studies in Mystical Religion (London: Macmillan, 1909) | have-ocr | IA `cu31924029351271` |
+| The Quakers in the American Colonies, assisted by Isaac Sharpless and Amelia M. Gummere (London: Macmillan, 1911) | have-ocr | IA `cu31924032753919` |
+| The Later Periods of Quakerism, vol. I (London: Macmillan, 1921) | have-ocr | IA `laterperiodsofqu01jone` |
+| The Later Periods of Quakerism, vol. II (London: Macmillan, 1921) | have-ocr | IA `laterperiodsofqu02jone` |
+| The World Within (New York: Macmillan, 1918) | have-ocr | IA `worldwithin00jonerich` |
+| Spiritual Energies in Daily Life (PG 61004, 1922); St. Paul the Hero (PG 52694, 1917); Eli and Sibyl Jones (PG 42164, 1889); Practical Christianity (1899); The Story of George Fox (1919, title page not read) | alternate | not shelved |
+| Books where he wrote only the introduction (PG 16088, PG 60308); anthologies; George Fox: An Autobiography, which he edited and which sits on the george-fox shelf | excluded | |
