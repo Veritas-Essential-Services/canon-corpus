@@ -9345,6 +9345,18 @@ Slugs `barhebraeus-*`. Built from title pages read for round 38.
 | Commentary on the Gospels from the Horreum Mysteriorum, tr. Wilmot Eardley W. Carr (London: SPCK; New York and Toronto: Macmillan, 1925) | have-ocr | IA `commentaryongosp0000barh` |
 | barhebraeussbook00barh_0 (1919); gregoryabulfaraj0000barh (Carr 1925); Phillips's Letter by Mar Jacob with Bar Hebraeus on Syriac Accents (1869, shared with Jacob of Edessa) | alternate | not shelved |
 | The Laughable Stories (Budge shelf); the Chronography (1932) and Scholia (1931), too late | excluded | |
+
+## John of Ephesus (round 38, my pick, 2026-10-18)
+
+Slugs `johneph-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Third Part of the Ecclesiastical History of John Bishop of Ephesus, tr. R. Payne Smith (Oxford: University Press, 1860) | have-ocr | IA `ecclesiasticalhi00johnuoft` |
+| John of Ephesus, Lives of the Eastern Saints, I, Syriac text edited and translated by E. W. Brooks, Patrologia Orientalis XVII.1 (Paris: Firmin-Didot, 1923) | have-ocr | IA `patrologiaorient17pariuoft` |
+| John of Ephesus, Lives of the Eastern Saints, III, edited and translated by E. W. Brooks, Patrologia Orientalis XIX (Paris: Firmin-Didot, 1926) | have-ocr | IA `patrologiaorient19pariuoft` |
+| Patrologia Orientalis XVIII (Lives II; year garbled in the OCR); thirdparteccles00smitgoog (Payne Smith 1860) | alternate | not shelved |
+| Margoliouth's Syriac extracts (1909); Cureton's Syriac (1853) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
