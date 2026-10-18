@@ -178,7 +178,7 @@
   ],
   "braddon-an-open-verdict": [
    67237,
-   "An open verdict"
+   "An open verdict a novel, volume 1 (of 3)"
   ],
   "braddon-day-will-come": [
    70938,
@@ -319,12 +319,18 @@
   "braddon-dead-mens-shoes-vol-3-of-3": [
    78774,
    "Dead men's shoes, vol. 3 (of 3)"
+  ],
+  "braddon-open-verdict-a-novel-volume-2-of-3": [
+   72236,
+   "An open verdict a novel, volume 2 (of 3)"
+  ],
+  "braddon-open-verdict-a-novel-volume-3-of-3": [
+   68040,
+   "An open verdict a novel, volume 3 (of 3)"
   ]
  },
  "internet_archive": {},
- "_excluded": {
-  "repeat-editions": "PG 68040, 72236: second Gutenberg editions of titles already on the shelf."
- },
+ "_excluded": {},
  "_checks": {
   "braddon-lady-audleys-secret": {
    "kind": "gutenberg",
@@ -903,6 +909,24 @@
    "pg_translator": null
   },
   "braddon-dead-mens-shoes-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-open-verdict-a-novel-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-open-verdict-a-novel-volume-3-of-3": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
