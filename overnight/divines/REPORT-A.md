@@ -1429,3 +1429,6 @@
 
 ## 2026-10-17 20:26 CDT — gottlieb-lunemann done
 - `pipeline/gottlieb-lunemann_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johann-eduard-huther done
+- `pipeline/johann-eduard-huther_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

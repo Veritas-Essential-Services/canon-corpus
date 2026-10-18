@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Johann Eduard Huther (1807-1880, pastor at Wittenförden) in English for the Word Hoard: his three volumes in Meyer's Critical and Exegetical Commentary, Timothy and Titus (1881), Peter and Jude (1881) and James and John (1882), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "huther"
+ ],
+ "_surname": [
+  "huther",
+  "joh. ed. huther",
+  "johann eduard huther"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "huther-timothy-titus": [
+   "criticalexeget1881huth",
+   "Critical and Exegetical Handbook to the Epistles to Timothy and Titus, tr. David Hunter (Edinburgh: T. & T. Clark, MDCCCLXXXI)"
+  ],
+  "huther-peter-jude": [
+   "criticalexegetic21huth",
+   "Critical and Exegetical Handbook to the General Epistles of Peter and Jude, tr. D. B. Croom and Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXXI)"
+  ],
+  "huther-james-john": [
+   "criticalexegetic00huth",
+   "Critical and Exegetical Handbook to the General Epistles of James and John, tr. Paton J. Gloag and Clarke H. Irwin (Edinburgh: T. & T. Clark, MDCCCLXXXII)"
+  ]
+ },
+ "_alternates": {
+  "huther-copies": "Other 1881-1882 copies; the Funk & Wagnalls issues"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "huther-james-john": "title page read: name OCR'd 'HUELRER'; 1882"
+ },
+ "_pending": {},
+ "_translators": {
+  "huther-timothy-titus": "hunter",
+  "huther-peter-jude": "croom",
+  "huther-james-john": "gloag"
+ },
+ "_checks": {
+  "huther-timothy-titus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huther",
+   "translator_claimed": "hunter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "huther-peter-jude": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huther",
+   "translator_claimed": "croom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huther-james-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huther",
+   "translator_claimed": "gloag",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'HUELRER'; 1882"
+  }
+ }
+}

@@ -6865,3 +6865,14 @@ Slugs `lunemann-*`. His volumes in Meyer's commentary: Thessalonians and Hebrews
 | Critical and Exegetical Handbook to the Epistles of St. Paul to the Thessalonians, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexegetic00ln` |
 | Critical and Exegetical Handbook to the Epistle to the Hebrews, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXXII) | have-ocr | IA `criticalexegeticheb00ln` |
 | Another Hebrews copy (1882) | alternate | not shelved |
+
+## Johann Eduard Huther (round 30, my pick, 2026-10-18)
+
+Slugs `huther-*`. His volumes in Meyer's commentary: Timothy and Titus, Peter and Jude, James and John.
+
+| Work | Status | Where |
+|---|---|---|
+| Critical and Exegetical Handbook to the Epistles to Timothy and Titus, tr. David Hunter (Edinburgh: T. & T. Clark, MDCCCLXXXI) | have-ocr | IA `criticalexeget1881huth` |
+| Critical and Exegetical Handbook to the General Epistles of Peter and Jude, tr. D. B. Croom and Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXXI) | have-ocr | IA `criticalexegetic21huth` |
+| Critical and Exegetical Handbook to the General Epistles of James and John, tr. Paton J. Gloag and Clarke H. Irwin (Edinburgh: T. & T. Clark, MDCCCLXXXII) | have-ocr | IA `criticalexegetic00huth` |
+| Other 1881-1882 copies; the Funk & Wagnalls issues | alternate | not shelved |
