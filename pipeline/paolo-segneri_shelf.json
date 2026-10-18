@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain Paolo Segneri (1624-1694, Jesuit preacher) in English for the Word Hoard: 10 volumes from Internet Archive scans: The Penitent Instructed (1703), James Ford's three series of sermons from the Quaresimale (1857-1860), The Devout Client of Mary (1857), the Lenten Sermons (vol. II), Sentimenti, or Lights in Prayer (1876), the Panegyrics, tr. William Humphrey (1877), and The Manna of the Soul (2 vols, 1892). Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "segneri",
+  "segnery"
+ ],
+ "_surname": [
+  "segneri",
+  "segnery",
+  "paul segneri",
+  "paolo segneri"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "segneri-quaresimale-1": [
+   "12sermonsFromTheQuaresimale",
+   "Twelve Sermons from the Quaresimale, tr. James Ford (London: Joseph Masters, MDCCCLVII)"
+  ],
+  "segneri-quaresimale-2": [
+   "twelvethirteens00segngoog",
+   "Twelve Sermons from the Quaresimale, second series, tr. James Ford (London: Joseph Masters, MDCCCLIX)"
+  ],
+  "segneri-quaresimale-3": [
+   "twelvethirteens01segngoog",
+   "Thirteen Sermons from the Quaresimale, third and concluding series, tr. James Ford (London: Joseph Masters, MDCCCLX)"
+  ],
+  "segneri-devout-client-of-mary": [
+   "TheDevoutClientOfMary1857",
+   "The Devout Client of Mary, translated from the Orvieto edition of 1851 (London: Burns & Lambert, MDCCCLVII)"
+  ],
+  "segneri-lenten-sermons-2": [
+   "LentenSermonsV2",
+   "Lenten Sermons, vol. II (New York: Christian Press Association; entered 1874)"
+  ],
+  "segneri-sentimenti": [
+   "FatherSegnerisSentimenti",
+   "Father Segneri's Sentimenti; or, Lights in Prayer, preface by P. Gallwey (London: Burns and Oates, 1876)"
+  ],
+  "segneri-panegyrics": [
+   "ThePanegyricsOfFatherSegneri",
+   "The Panegyrics of Father Segneri, tr. William Humphrey (London: R. Washbourne, 1877)"
+  ],
+  "segneri-manna-of-the-soul-1": [
+   "TheMannaOfTheSoulV1",
+   "The Manna of the Soul, second edition, vol. I (New York: Benziger, 1892)"
+  ],
+  "segneri-manna-of-the-soul-2": [
+   "TheMannaOfTheSoul",
+   "The Manna of the Soul, second edition, vol. II (New York: Benziger, 1892)"
+  ]
+ },
+ "_alternates": {
+  "segneri-18th": "True Wisdom (1722 or 1728), The Knowledge of One's Self (from the French, year not legible) and The Devout Client of Mary (c.1724): imprint years not legible",
+  "segneri-copies": "Later Masters editions of the Quaresimale (1861-1869); other Manna, Panegyrics and Sentimenti copies"
+ },
+ "_excluded": {
+  "segneri-mixed": "Baxter's Sermons from the Latins and Roberti's Little Treatise: many hands",
+  "segneri-about": "The 1851 Lives with Faber's essay",
+  "segneri-italian": "Italian editions"
+ },
+ "_identity_checked": {
+  "segneri-manna-of-the-soul-1": {
+   "author": "title page read: no author on the title page (Benziger, 1892); the preface is headed 'Prefixed to the Original Work by Father Segneri' (OCR \"S'egnerL\")"
+  }
+ },
+ "_rights_checked": {
+  "segneri-penitent-instructed-1703": "title page read: 'Written in Italian by the R. F. Paul' (OCR); 'Done into English', translator not named; London, 1703",
+  "segneri-lenten-sermons-2": "title page read: no year; entered 1874 by the Catholic Publication Society; translator not named",
+  "segneri-sentimenti": "title page read: 'Translated from the Italian by R.G.' (initials uncertain in the OCR); preface signed P. Gallwey, 1875"
+ },
+ "_pending": {
+  "segneri-lenten-1": "Lenten Sermons vol. I: not found",
+  "segneri-cristiano": "The Christian Instructed in English: not found",
+  "segneri-penitent-instructed-1703": "The Penitent Instructed (London, 1703): the title page's author line is garbled past reading ('R. F. 7. Paul . .'), so it is not shelved under his name"
+ },
+ "_translators": {
+  "segneri-quaresimale-1": "ford",
+  "segneri-quaresimale-2": "ford",
+  "segneri-quaresimale-3": "ford",
+  "segneri-panegyrics": "humphrey"
+ },
+ "_checks": {
+  "segneri-quaresimale-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "translator_claimed": "ford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "segneri-quaresimale-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "translator_claimed": "ford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "segneri-quaresimale-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "translator_claimed": "ford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "segneri-devout-client-of-mary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "segneri-lenten-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year; entered 1874 by the Catholic Publication Society; translator not named"
+  },
+  "segneri-sentimenti": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the Italian by R.G.' (initials uncertain in the OCR); preface signed P. Gallwey, 1875"
+  },
+  "segneri-panegyrics": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "translator_claimed": "humphrey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "segneri-manna-of-the-soul-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "segneri-manna-of-the-soul-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "segneri",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -6748,3 +6748,24 @@ Slugs `didon-*`. Dominican: Jesus Christ and other works in English.
 | Other Appleton copies; the one-volume sixth edition (undated) | alternate | not shelved |
 | French editions, including PG 13284 | excluded | |
 | French lives of him | excluded | |
+
+## Paolo Segneri (round 30, my pick, 2026-10-18)
+
+Slugs `segneri-*`. Jesuit preacher: the Quaresimale, Manna of the Soul and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve Sermons from the Quaresimale, tr. James Ford (London: Joseph Masters, MDCCCLVII) | have-ocr | IA `12sermonsFromTheQuaresimale` |
+| Twelve Sermons from the Quaresimale, second series, tr. James Ford (London: Joseph Masters, MDCCCLIX) | have-ocr | IA `twelvethirteens00segngoog` |
+| Thirteen Sermons from the Quaresimale, third and concluding series, tr. James Ford (London: Joseph Masters, MDCCCLX) | have-ocr | IA `twelvethirteens01segngoog` |
+| The Devout Client of Mary, translated from the Orvieto edition of 1851 (London: Burns & Lambert, MDCCCLVII) | have-ocr | IA `TheDevoutClientOfMary1857` |
+| Lenten Sermons, vol. II (New York: Christian Press Association; entered 1874) | have-ocr | IA `LentenSermonsV2` |
+| Father Segneri's Sentimenti; or, Lights in Prayer, preface by P. Gallwey (London: Burns and Oates, 1876) | have-ocr | IA `FatherSegnerisSentimenti` |
+| The Panegyrics of Father Segneri, tr. William Humphrey (London: R. Washbourne, 1877) | have-ocr | IA `ThePanegyricsOfFatherSegneri` |
+| The Manna of the Soul, second edition, vol. I (New York: Benziger, 1892) | have-ocr | IA `TheMannaOfTheSoulV1` |
+| The Manna of the Soul, second edition, vol. II (New York: Benziger, 1892) | have-ocr | IA `TheMannaOfTheSoul` |
+| True Wisdom (1722 or 1728), The Knowledge of One's Self (from the French, year not legible) and The Devout Client of Mary (c.1724): imprint years not legible | alternate | not shelved |
+| Later Masters editions of the Quaresimale (1861-1869); other Manna, Panegyrics and Sentimenti copies | alternate | not shelved |
+| Baxter's Sermons from the Latins and Roberti's Little Treatise: many hands | excluded | |
+| The 1851 Lives with Faber's essay | excluded | |
+| Italian editions | excluded | |

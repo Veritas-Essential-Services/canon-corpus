@@ -1408,3 +1408,6 @@
 
 ## 2026-10-17 20:26 CDT — henri-didon done
 - `pipeline/henri-didon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — paolo-segneri done
+- `pipeline/paolo-segneri_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for segneri-manna-of-the-soul-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
