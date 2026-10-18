@@ -29279,6 +29279,38 @@ Shelf: `pipeline/charles-reade_shelf.json` (2026-10-17; added at the coordinator
 | Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts (with Tom Taylor) | have | PG 51385, `creade-masks-and-faces` (971 units) |
 | Griffith Gaunt; or, Jealousy Volumes 1 to 3 (of 3) | have | PG 57685, `creade-griffith-gaunt` (4151 units) |
 
+## R. D. Blackmore
+
+Shelf: `pipeline/blackmore_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lorna Doone: A Romance of Exmoor | have | PG 840, `blackmore-lorna-doone` (3324 units) |
+| Mary Anerley: A Yorkshire Tale | have | PG 6824, `blackmore-mary-anerley` (2576 units) |
+| Erema; Or, My Father's Sin | have | PG 7112, `blackmore-erema` (2129 units) |
+| Springhaven: A Tale of the Great War | have | PG 7435, `blackmore-springhaven` (2178 units) |
+| Slain By The Doones | have | PG 22315, `blackmore-slain-by-the-doones` (123 units) |
+| Frida; or, the lover's leap: a legend of the West Country From "Slain by the Doones" by R. D. Blackmore | have | PG 22316, `blackmore-frida` (142 units) |
+| George Bowring - A Tale Of Cader Idris From "Slain By The Doones" By R. D. Blackmore | have | PG 22317, `blackmore-george-bowring-a-tale-of-cader-idris-from-slain-by` (131 units) |
+| Crocker's Hole From "Slain By The Doones" By R. D. Blackmore | have | PG 22318, `blackmore-crockers-hole-from-slain-by-the-doones-by-r-d-blac` (86 units) |
+| Fringilla: Some Tales In Verse | have | PG 22474, `blackmore-fringilla` (744 units) |
+| Clara Vaughan, Volume 1 (of 3) | have | PG 41020, `blackmore-clara-vaughan-volume-1-of-3` (960 units) |
+| Clara Vaughan, Volume 2 (of 3) | have | PG 41021, `blackmore-clara-vaughan-volume-2-of-3` (1049 units) |
+| Clara Vaughan, Volume 3 (of 3) | have | PG 41022, `blackmore-clara-vaughan-volume-3-of-3` (822 units) |
+| Dariel: A Romance of Surrey | have | PG 42529, `blackmore-dariel` (2217 units) |
+| Cripps, the Carrier: A Woodland Tale | have | PG 43281, `blackmore-cripps-the-carrier` (1989 units) |
+| Perlycross: A Tale of the Western Hills | have | PG 45038, `blackmore-perlycross` (2778 units) |
+| The Maid of Sker | have | PG 46156, `blackmore-maid-of-sker` (2309 units) |
+| The Remarkable History of Sir Thomas Upmore, bart., M.P., formerly known as "Tommy Upmore" | have | PG 46467, `blackmore-remarkable-history-of-sir-thomas-upmore-bart-m-p-f` (1493 units) |
+| Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3) | have | PG 47084, `blackmore-cradock-nowell` (1193 units) |
+| Cradock Nowell: A Tale of the New Forest. Vol. 2 (of 3) | have | PG 47085, `blackmore-cradock-nowell-47085` (1247 units) |
+| Cradock Nowell: A Tale of the New Forest. Vol. 3 (of 3) | have | PG 47086, `blackmore-cradock-nowell-47086` (1307 units) |
+| Alice Lorraine: A Tale of the South Downs | have | PG 49075, `blackmore-alice-lorraine` (3061 units) |
+| Kit and Kitty: A Story of West Middlesex | have | PG 49520, `blackmore-kit-and-kitty` (2499 units) |
+| Tales from the Telling-House | have | PG 51497, `blackmore-tales-from-the-telling-house` (533 units) |
+| pg-58162 | excluded | PG 58162: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 17460: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
