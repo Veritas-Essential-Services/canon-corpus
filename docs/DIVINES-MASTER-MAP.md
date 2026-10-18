@@ -7628,6 +7628,16 @@ Slugs `livingstone-*`. Built from title pages read for round 33.
 | Other 1857 and 1865 copies; Harper's New York issues | alternate | not shelved |
 | The Popular Account (1861, 1875) and PG 2519: abridgements | excluded | |
 | Lives by Blaikie, Stanley and others | excluded | |
+
+## Robert Moffat (round 33, my pick, 2026-10-18)
+
+Slugs `moffat-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Missionary Labours and Scenes in Southern Africa, seventh thousand (London: John Snow, 1842) | have-ocr | IA `b29294009` |
+| The 1843-1844 Carter New York editions and later Snow thousands | alternate | not shelved |
+| Juvenile adaptations; lives of him; his Sechuana works, which are not in English | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

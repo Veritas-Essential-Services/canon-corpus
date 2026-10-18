@@ -1585,3 +1585,6 @@
 
 ## 2026-10-17 21:36 CDT — david-livingstone done
 - `pipeline/david-livingstone_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — robert-moffat done
+- `pipeline/robert-moffat_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
