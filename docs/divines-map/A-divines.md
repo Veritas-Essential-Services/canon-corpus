@@ -8197,3 +8197,31 @@ Slugs `ehhopkins-*`. Built from title pages read for round 34.
 | The Walk that Pleases God, sixth edition (London: Marshall Brothers, 1895) | have-ocr | IA `walkthatpleasesg00hopk` |
 | Thoughts on Life and Godliness second edition (1883); Hidden, Yet Possessed (Keswick Library, which he edited, undated) | alternate | not shelved |
 | PG 7786 (Louisa Clayton's book, his foreword only); 1942 and 1991 reprints; Smellie's memoir of him | excluded | |
+
+## Emanuel Swedenborg (round 34, my pick, 2026-10-18)
+
+Slugs `swedenborg-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Heaven and its Wonders, the World of Spirits, and Hell: from Things Heard and Seen, tr. Samuel Noble (New York: American Swedenborg Printing and Publishing Society, 1872) | have-ocr | IA `heavenitswonders01swed` |
+| Concerning Heaven and its Wonders, and concerning Hell (London: William Newbery; J. Trimen, 1843) | have-ocr | IA `b29289014` |
+| The True Christian Religion, containing the Universal Theology of the New Church, a new translation (Boston: John Allen, 1833) | have-ocr | IA `truechristianrel00swed_0` |
+| Angelic Wisdom concerning the Divine Love and concerning the Divine Wisdom (London: Swedenborg Society, 1883) | have-ocr | IA `angelicwisdom00sweduoft` |
+| Angelic Wisdom concerning the Divine Providence, second American edition, a new translation (Boston: Otis Clapp, 1840) | have-ocr | IA `angelicwisdomco00swediala` |
+| Angelic Wisdom concerning the Divine Providence, from the last London edition (New York: American Swedenborg Printing and Publishing Society, 1851) | have-ocr | IA `angelicwisdomcon00swed_5` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. I (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah01sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. II (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah02sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. III (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah03sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. IV (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah04sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. V (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah05sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. VI (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestia06swed` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. VII (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestia07swed` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. VIII (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah08sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. IX (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah09sweduoft` |
+| Arcana Caelestia: the Heavenly Arcana contained in the Holy Scriptures or Word of the Lord unfolded, vol. X (New York: American Swedenborg Printing and Publishing Society, 1882) | have-ocr | IA `arcanacaelestiah10sweduoft` |
+| The Apocalypse Revealed, a new edition revised and corrected, vol. I (London: J. S. Hodson, 1832) | have-ocr | IA `apocalypsereveal01swediala` |
+| The Apocalypse Revealed, a new edition revised and corrected, vol. II (London: J. S. Hodson, 1832) | have-ocr | IA `apocalypsereveal02swediala` |
+| Conjugial Love and its Chaste Delights; also, Adulterous Love and its Sinful Pleasures (New York: American Swedenborg Printing and Publishing Society, 1871) | have-ocr | IA `conjugialloveits00swed` |
+| Heaven and Hell (London: James Phillips, 1778, the first English) and New York 1900; the Standard Edition True Christian Religion (1915, Ager's note) and 1879, 1886 printings; Divine Love and Wisdom New York 1872; Divine Providence 1886 and 1892; Arcana Boston 1837 (vols I-II) and New York 1873; Apocalypse Revealed Boston 1836 (three volumes); Delights of Wisdom 1892 and PG 11248 | alternate | not shelved |
+| PG 16627 (1988 printing) and PG 18507 (1975 printing, Wunsch); PG 17368 (no source stated); 1938 and later Swedenborg Foundation printings; an extract from the Apocalypse Explained | excluded | |
