@@ -1,5 +1,5 @@
 {
- "_about": "Vladimir Sergeyevich Solovyov (1853-1900), Russian philosopher: War and Christianity from the Russian Point of View: Three Conversations, with an introduction by Stephen Graham (London: Constable, first published July 1915; this copy the October 1915 reprint), raw IA OCR, clean 0.93. Graham's preface credits Edward Cazalet with Conversation II and W. J. Barnes and H. H. Haynes with Conversation III; it names no translator for Conversation I. US public domain. Added in round 2026-10-17bg: The Justification of the Good, an essay on moral philosophy, tr. Nathalie A. Duddington (London: Constable, 1918), raw IA OCR, clean 0.95. No uids minted.",
+ "_about": "Vladimir Sergeyevich Solovyov (1853-1900), Russian philosopher: War and Christianity from the Russian Point of View: Three Conversations, with an introduction by Stephen Graham (London: Constable, first published July 1915; this copy the October 1915 reprint), raw IA OCR, clean 0.93. Graham's preface credits Edward Cazalet with Conversation II and W. J. Barnes and H. H. Haynes with Conversation III; it names no translator for Conversation I. US public domain. The Justification of the Good (Duddington, 1918) is not taken here: lane C's singles-ideas-3 shelf already holds that translation (PG 79715); a copy added in round bg was removed in round bm. No uids minted.",
  "_author": "Vladimir Soloviev",
  "_name_words": [
   "vladimir",
@@ -18,17 +18,13 @@
    "warchristianityf0000solo",
    "War and Christianity: Three Conversations (Constable, 1915)",
    "tr. Edward Cazalet, W. J. Barnes and H. H. Haynes"
-  ],
-  "soloviev-justification-of-the-good-1918": [
-   "thejustification00solouoft",
-   "The Justification of the Good, tr. Nathalie A. Duddington (Constable, 1918)",
-   "tr. Nathalie A. Duddington"
   ]
  },
- "_excluded": {},
+ "_excluded": {
+  "soloviev-justification-of-the-good-1918": "duplicate: singles-ideas-3 (lane C) already holds the same Duddington translation as PG 79715"
+ },
  "_translators": {
-  "soloviev-war-and-christianity-1915": "Cazalet",
-  "soloviev-justification-of-the-good-1918": "Duddington"
+  "soloviev-war-and-christianity-1915": "Cazalet"
  },
  "_checks": {
   "soloviev-war-and-christianity-1915": {
@@ -42,19 +38,6 @@
    "ia_rights": "ok: published 1915",
    "ia_date": "1915",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "soloviev-justification-of-the-good-1918": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "solovyof",
-   "translator_claimed": "Duddington",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1918",
-   "ia_date": "1918",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
