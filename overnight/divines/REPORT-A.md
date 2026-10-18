@@ -1753,3 +1753,6 @@
 
 ## 2026-10-17 22:27 CDT — john-lingard done
 - `pipeline/john-lingard_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for lingard-collection-tracts (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — a-n-mouravieff done
+- `pipeline/a-n-mouravieff_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

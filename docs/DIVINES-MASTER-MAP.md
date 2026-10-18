@@ -8436,6 +8436,16 @@ Slugs `-*`. Built from title pages read for round 35.
 | The History of England, first edition (London: J. Mawman, then Baldwin and Cradock, 1819-1830, eight volumes; vols IV-VIII catalogued 1819 in error), later sets of 1825 and 1837, and the 1912 Belloc edition (PG 10700) | alternate | not shelved |
 | Other Antiquities copies (1810 BSB, Philadelphia 1841, Baltimore 1851-54) and the 1858 History and Antiquities | alternate | not shelved |
 | A New Version of the Four Gospels (1836, 'by a Catholic') and two controversial pamphlets: their title pages name no one; Ward's Errata; the timber treatise by another John Lingard | excluded | |
+
+## A. N. Mouravieff (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Church of Russia, tr. R. W. Blackmore (Oxford: John Henry Parker; London: Rivingtons, 1842) | have-ocr | IA `historyofchurcho00mouriala` |
+| The London issue (Joseph Masters, 1842) and another Oxford copy; Neale's Voices from the East (1859), whose first six essays are Mouravieff's, though the title page does not name him | alternate | not shelved |
+| The 1971 AMS reprint; French editions; Boris Mouravieff, a different author | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
