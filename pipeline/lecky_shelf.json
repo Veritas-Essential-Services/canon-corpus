@@ -1,0 +1,59 @@
+{
+ "_about": "W. E. H. Lecky (1838-1903): History of European Morals from Augustus to Charlemagne, 9th ed. (London: Longmans, Green, 1890, 2 vols.) and The Map of Life, conduct and character (Longmans; cabinet edition, reprint of December 1902), clean Gutenberg texts. His History of Rationalism waits for a matched pair of volumes. US public domain. No uids minted.",
+ "_author": "W. E. H. Lecky",
+ "_name_words": [
+  "william",
+  "edward",
+  "hartpole",
+  "lecky"
+ ],
+ "_surname": [
+  "lecky"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lecky-european-morals-1890-v1": [
+   39273,
+   "History of European Morals from Augustus to Charlemagne, 9th ed., vol. I (London: Longmans, Green, 1890)"
+  ],
+  "lecky-european-morals-1890-v2": [
+   39535,
+   "History of European Morals from Augustus to Charlemagne, 9th ed., vol. II (London: Longmans, Green, 1890)"
+  ],
+  "lecky-map-of-life-1902": [
+   26334,
+   "The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lecky-european-morals-1890-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lecky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lecky-european-morals-1890-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lecky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lecky-map-of-life-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lecky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
