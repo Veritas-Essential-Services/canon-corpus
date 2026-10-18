@@ -10240,8 +10240,7 @@ Shelf: `pipeline/james-frederick-ferrier_shelf.json`. Institutes of Metaphysic (
 |---|---|---|---|
 | Institutes of Metaphysic: the theory of knowing and being (Edinburgh: Blackwood, 1854) |  | `ferrier-institutes-of-metaphysic-1854` | have-raw (IA `institutesofmeta00ferruoft`) |
 | Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866) |  | `ferrier-lectures-on-greek-philosophy-1866-v1` | have-raw (IA `lecturesongreekp01ferruoft`) |
-
-Pending (wishlist): Lectures on Greek Philosophy vol. II (1866; IA unavailable this round)
+| Lectures on Greek Philosophy and other Philosophical Remains, vol. II (Edinburgh: Blackwood, 1866) |  | `ferrier-lectures-on-greek-philosophy-1866-v2` | have-raw (IA `lecturesongreek01ferrgoog`) |
 
 ## Hans Vaihinger in English
 
@@ -11008,8 +11007,8 @@ Shelf: `pipeline/lecky_shelf.json`. History of morals and of rationalism.
 | History of European Morals from Augustus to Charlemagne, 9th ed., vol. I (London: Longmans, Green, 1890) |  | `lecky-european-morals-1890-v1` | have (PG 39273) |
 | History of European Morals from Augustus to Charlemagne, 9th ed., vol. II (London: Longmans, Green, 1890) |  | `lecky-european-morals-1890-v2` | have (PG 39535) |
 | The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902) |  | `lecky-map-of-life-1902` | have (PG 26334) |
-
-Pending (wishlist): History of the Rise and Influence of the Spirit of Rationalism in Europe (2 vols) in a matched pair
+| History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR) |  | `lecky-spirit-of-rationalism-1873-v1` | have-raw (IA `riseinfluenceofs01leckiala`) |
+| History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873) |  | `lecky-spirit-of-rationalism-1873-v2` | have-raw (IA `riseinfluenceofs02leckiala`) |
 
 ## Sir Henry Sumner Maine
 
@@ -11106,6 +11105,16 @@ Shelf: `pipeline/alexander-campbell-fraser_shelf.json`. Theism and Scottish phil
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | Philosophy of Theism, 2nd ed. amended (Edinburgh: Blackwood, 1899) |  | `fraser-philosophy-of-theism-1899` | have-raw (IA `philosophytheis09frasgoog`) |
+
+## Nicholas of Cusa
+
+Shelf: `pipeline/nicholas-of-cusa_shelf.json`. Renaissance Platonist mysticism.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Vision of God (London: J. M. Dent, 1928) | Emma Gurney Salter | `cusa-salter-vision-of-god-1928` | have-raw (IA `visionofgod00nich`) |
+
+Pending (wishlist): Of Learned Ignorance in a pre-1931 English version
 
 ## Perseus census (overflow)
 

@@ -225,3 +225,4 @@
 - 18:56 round ag: Schleiermacher (Oman), Büchner, Wilhelm von Humboldt, Mendelssohn's Jerusalem.
 - 19:01 round ah: Leslie Stephen, Lecky, Maine, Bagehot, Huxley (21 volumes).
 - 19:04 round ai: Samuel Alexander (incl. Space, Time and Deity), Stirling's Secret of Hegel, Collingwood, Martineau, John Grote, Campbell Fraser.
+- 19:07 round aj: Cusa's Vision of God; Lecky's Rationalism and Ferrier vol. II complete their sets. Ibn Gabirol (Arabic facing) waits on the facing-text ruling with the Greek ones.

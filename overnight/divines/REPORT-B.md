@@ -992,3 +992,8 @@
 ## 2026-10-17 19:04 CDT — Round ai: British idealists and moralists
 - New shelves: samuel-alexander (3), james-hutchison-stirling (2), r-g-collingwood (1), james-martineau (2), john-grote (2), alexander-campbell-fraser (1)
 - Collingwood: title-page year garbled; 1916 from the dated preface
+
+## 2026-10-17 19:07 CDT — Round aj: medieval and Renaissance survey
+- New shelf: nicholas-of-cusa (1)
+- Added: Lecky's Rationalism (1873, 2 vols), Ferrier's Lectures vol. II
+- Held: Ibn Gabirol 1902 (Arabic facing; facing-text ruling), Bruno Spaccio 1713 (OCR 0.733), Lipsius 1595 (OCR 0.658)
