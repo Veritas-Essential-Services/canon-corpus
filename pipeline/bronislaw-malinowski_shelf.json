@@ -1,0 +1,76 @@
+{
+ "_about": "Bronislaw Malinowski (1884-1942), founder of fieldwork anthropology. Project Gutenberg: The Family among the Australian Aborigines (1913); Argonauts of the Western Pacific (1922), with Frazer's preface. Raw IA OCR: Crime and Custom in Savage Society (Harcourt, Brace; Kegan Paul, 1926); Myth in Primitive Psychology (New Science Series, copyright 1926; the verso year is the only one printed). Held: Sex and Repression in Savage Society (1927) and The Sexual Life of Savages (1929); the scans found are a 1937 impression and a later Harvest paperback. US public domain. No uids minted.",
+ "_author": "Bronislaw Malinowski",
+ "_name_words": [
+  "bronislaw",
+  "kasper",
+  "malinowski"
+ ],
+ "_surname": [
+  "malinowski"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "malinowski-family-among-australian-aborigines-1913": [
+   48865,
+   "The Family among the Australian Aborigines (1913)"
+  ],
+  "malinowski-argonauts-of-the-western-pacific-1922": [
+   55822,
+   "Argonauts of the Western Pacific (1922)"
+  ]
+ },
+ "internet_archive": {
+  "malinowski-crime-and-custom-1926": [
+   "crimecustominsav00mali",
+   "Crime and Custom in Savage Society (Harcourt, Brace, 1926)"
+  ],
+  "malinowski-myth-in-primitive-psychology-1926": [
+   "mythinprimitivep0000bron",
+   "Myth in Primitive Psychology (1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "malinowski-family-among-australian-aborigines-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "malinowski",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malinowski-argonauts-of-the-western-pacific-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "malinowski",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malinowski-crime-and-custom-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "malinowski",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "malinowski-myth-in-primitive-psychology-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "malinowski",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

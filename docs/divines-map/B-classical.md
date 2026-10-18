@@ -8134,6 +8134,10 @@ Shelf: `pipeline/bronislaw-malinowski_shelf.json`. Four books, 1913-1926.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Family among the Australian Aborigines (1913) |  | `malinowski-family-among-australian-aborigines-1913` | have (PG 48865) |
+| Argonauts of the Western Pacific (1922) |  | `malinowski-argonauts-of-the-western-pacific-1922` | have (PG 55822) |
+| Crime and Custom in Savage Society (Harcourt, Brace, 1926) |  | `malinowski-crime-and-custom-1926` | have-raw (IA `crimecustominsav00mali`) |
+| Myth in Primitive Psychology (1926) |  | `malinowski-myth-in-primitive-psychology-1926` | have-raw (IA `mythinprimitivep0000bron`) |
 
 Pending (wishlist): Sex and Repression in Savage Society (1927) and The Sexual Life of Savages (1929), first printings.
 
