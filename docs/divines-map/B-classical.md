@@ -5601,6 +5601,8 @@ Shelf: `pipeline/nassau-senior_shelf.json`. Two Gutenberg texts. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Four Introductory Lectures on Political Economy (London, 1852) |  | `senior-four-introductory-lectures-1852` | have (PG 47266) |
+| Statement of the Provision for the Poor (London, 1835) |  | `senior-provision-for-the-poor-1835` | have (PG 53316) |
 
 Pending (wishlist): An Outline of the Science of Political Economy (1836) in a pre-1931 printing
 
