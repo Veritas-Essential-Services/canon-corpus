@@ -1,0 +1,59 @@
+{
+ "_about": "Charles-Louis de Secondat, baron de Montesquieu (1689-1755): Considerations on the Causes of the Grandeur and Decadence of the Romans, a new translation with introduction and notes by Jehu Baker (New York: D. Appleton, 1882), raw IA OCR, clean 0.89; Persian Letters, translated by John Davidson (his introduction dated 1891), in a volume that also holds Goldsmith's Chinese Letters (The Citizen of the World), Persian and Chinese Letters (Washington and London: M. Walter Dunne, copyright 1901), raw IA OCR, clean 0.92. The Spirit of Laws (tr. Nugent) stays on the adler shelf. The French Lettres persanes on Gutenberg (PG 30268, 33856) are not taken here. US public domain. No uids minted.",
+ "_author": "Montesquieu",
+ "_name_words": [
+  "charles",
+  "secondat",
+  "montesquieu"
+ ],
+ "_surname": [
+  "montesquieu"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "montesquieu-grandeur-decadence-romans-baker-1882": [
+   "cu31924028288722",
+   "Considerations on the Causes of the Grandeur and Decadence of the Romans, tr. Jehu Baker (Appleton, 1882)",
+   "tr. Jehu Baker"
+  ],
+  "montesquieu-persian-letters-davidson-1901": [
+   "persianandchine00goldgoog",
+   "Persian Letters, tr. John Davidson, with Goldsmith's Chinese Letters (M. Walter Dunne, 1901)",
+   "tr. John Davidson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "montesquieu-grandeur-decadence-romans-baker-1882": "Baker",
+  "montesquieu-persian-letters-davidson-1901": "Davidson"
+ },
+ "_checks": {
+  "montesquieu-grandeur-decadence-romans-baker-1882": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montesquieu",
+   "translator_claimed": "Baker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "montesquieu-persian-letters-davidson-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montesquieu",
+   "translator_claimed": "Davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
