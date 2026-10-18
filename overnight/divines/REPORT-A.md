@@ -1651,3 +1651,6 @@
 
 ## 2026-10-17 21:40 CDT — round 33 closed
 - 22 shelves, 117 items (2 PG, 115 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:08 CDT — george-fox done
+- `pipeline/george-fox_shelf.json`: 0 CCEL, 3 PG, 11 IA. Title pages read for gfox-works-6, gfox-works-7 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

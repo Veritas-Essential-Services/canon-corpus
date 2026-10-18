@@ -4,7 +4,7 @@
     {
       "id": "flavel",
       "status": "done",
-      "scope": "John Flavel — complete public-domain works; shelf + fetch + map section",
+      "scope": "John Flavel \u2014 complete public-domain works; shelf + fetch + map section",
       "started": "2026-10-02T15:11:12-05:00",
       "finished": "2026-10-02T15:16:54-05:00",
       "notes": "11/11 fetched, 0 failed. CCEL: grace, pneum, saintindeed, lovely, life (fountain already held). IA: 1820 Whole Works 6 vols, raw OCR, 12.1 MB, 1.83M words. CCEL converted with convert_thml via new pipeline/convert_shelf.py: 4,622 units, 3,942 scripture links. No Gutenberg Flavel exists. Awaiting uid minting: all 11 slugs."
@@ -12,7 +12,7 @@
     {
       "id": "bunyan",
       "status": "done",
-      "scope": "John Bunyan — complete public-domain works (collected Works); shelf + fetch + map section",
+      "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section",
       "started": "2026-10-02T15:17:03-05:00",
       "finished": "2026-10-02T15:18:51-05:00",
       "notes": "11/11 fetched, 0 failed. Offor's Works (1854) 3 vols as Gutenberg clean text (PG 6046-6048, 12.3 MB, 2.2M words) + 5 single PG titles + 3 CCEL (badman, grace, miscellaneous). pilgrim/holy_war already held. CCEL converted: 1,400 units, 501 scripture links. Offor not structured (needs a treatise splitter). Defects: CCEL miscellaneous vs PG 3613 likely duplicate; Exhortation to Peace and Unity is of doubted authorship. Awaiting uid minting: all 11 slugs."
@@ -20,7 +20,7 @@
     {
       "id": "ryle",
       "status": "done",
-      "scope": "J.C. Ryle — all public-domain works; shelf + fetch + map section",
+      "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section",
       "started": "2026-10-02T15:19:04-05:00",
       "finished": "2026-10-02T15:37:39-05:00",
       "notes": "42 fetched, 0 failed: 3 CCEL (holiness, matthew, upper_room), 3 Gutenberg, 36 IA (Expository Thoughts Mark/Luke/John 6 vols + 30 books and tracts). 22.3 MB. CCEL converted: 4,157 units, 1,604 scripture links. 2 tracts held back as _pending (text never names Ryle). Home Truths series numbers unconfirmed. Awaiting uid minting: all 42."
@@ -28,7 +28,7 @@
     {
       "id": "horatius-bonar",
       "status": "done",
-      "scope": "Horatius Bonar — prose works; hymns listed only as 'see hymn manifest'",
+      "scope": "Horatius Bonar \u2014 prose works; hymns listed only as 'see hymn manifest'",
       "started": "2026-10-02T15:38:36-05:00",
       "finished": "2026-10-02T15:43:32-05:00",
       "notes": "24 fetched (2 CCEL, 22 IA), 12.4 MB. 4 scans refused by the new identity check (OCR never names Bonar): God's Way of Holiness, Kelso Tracts, Redeem the Time, Light and Truth OT, held as _pending. CCEL followlamb/goto/soulwinners XML not served. CCEL converted: 574 units, 135 links. Hymns: see hymn manifest. Awaiting uid minting: all 24."
@@ -36,7 +36,7 @@
     {
       "id": "andrew-bonar",
       "status": "done",
-      "scope": "Andrew A. Bonar — all public-domain works incl. Memoir of M'Cheyne",
+      "scope": "Andrew A. Bonar \u2014 all public-domain works incl. Memoir of M'Cheyne",
       "started": "2026-10-02T15:43:58-05:00",
       "finished": "2026-10-02T15:45:36-05:00",
       "notes": "17/17 fetched, 13.3 MB: Gutenberg M'Cheyne Memoir and Rutherford Letters (ed. Bonar); 15 IA (Leviticus, Psalms, Mission to the Jews, M'Cheyne 1844 and 1878, Sandeman, diary, etc.). No CCEL Andrew Bonar exists. Andrew Redman Bonar excluded (different man). Awaiting uid minting: all 17."
@@ -44,14 +44,14 @@
     {
       "id": "saphir",
       "status": "done",
-      "scope": "Adolph Saphir — all public-domain works",
+      "scope": "Adolph Saphir \u2014 all public-domain works",
       "finished": "2026-10-02T15:46:35-05:00",
       "notes": "11/11 fetched, 7.1 MB, all IA raw (no CCEL or Gutenberg Saphir). Hebrews lectures 2 series, Christ Crucified, Christ and the Church, Lord's Prayer, Hidden Life, Our Life-Day, Divine Unity, Christ and Israel, Auberlen tr. Saphir, Carlyle's memoir. Pending: Christ and the Scriptures, Jesus and the Sinner (authorship). Awaiting uid minting: all 11."
     },
     {
       "id": "edwards-gaps",
       "status": "done",
-      "scope": "Jonathan Edwards — gap audit against edwards_shelf.json; add verified gaps only; map section",
+      "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section",
       "started": "2026-10-02T15:46:35-05:00",
       "finished": "2026-10-02T15:48:24-05:00",
       "notes": "6 verified gaps added to edwards_shelf.json and fetched (4.8 MB): Affections 1746, Brainerd 1749, Freedom of Will 1762, Erskine's 1793 and 1796 selections, Hopkins's Life. 2 more (Distinguishing Marks 1741, Humble Attempt 1747) pending: ECCO OCR never yields the name. Shelf now sets _name_words. Gutenberg has nothing more. Awaiting uid minting: the 6 new slugs."
@@ -59,7 +59,7 @@
     {
       "id": "overflow-summa",
       "status": "done",
-      "scope": "Aquinas, Summa Theologiae — census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids",
+      "scope": "Aquinas, Summa Theologiae \u2014 census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids",
       "started": "2026-10-02T15:48:39-05:00",
       "finished": "2026-10-02T15:49:58-05:00",
       "notes": "Census only, nothing to add: Gutenberg I (119 Q), I-II (114), II-II (189), III (90) plus CCEL Supplement (99) and Appendix via ingest_summa_supplement.py = the whole Summa in the PD Dominican translation. Defects: 3 questions in the PG files lack the QUESTION heading line; the Supplement is not a row in adler_shelf.json."
@@ -1400,7 +1400,7 @@
     {
       "id": "george-muller",
       "status": "done",
-      "scope": "George Müller: A Narrative of Some of the Lord's Dealings (d. 1898)",
+      "scope": "George M\u00fcller: A Narrative of Some of the Lord's Dealings (d. 1898)",
       "added": "2026-10-03T02:54:08-05:00",
       "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
       "finished": "2026-10-03T05:58:07-05:00",
@@ -1922,7 +1922,7 @@
     {
       "id": "frederic-godet",
       "status": "done",
-      "scope": "Frédéric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
+      "scope": "Fr\u00e9d\u00e9ric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
       "added": "2026-10-10T09:49:31-05:00",
       "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
       "finished": "2026-10-10T10:28:41-05:00",
@@ -1940,7 +1940,7 @@
     {
       "id": "julius-muller",
       "status": "done",
-      "scope": "Julius Müller in English: The Christian Doctrine of Sin (d. 1878)",
+      "scope": "Julius M\u00fcller in English: The Christian Doctrine of Sin (d. 1878)",
       "added": "2026-10-10T09:49:31-05:00",
       "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
       "finished": "2026-10-10T10:28:51-05:00",
@@ -3497,7 +3497,7 @@
     {
       "id": "adolf-harnack",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:24-05:00",
@@ -3506,7 +3506,7 @@
     {
       "id": "albrecht-ritschl",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:26-05:00",
@@ -3515,7 +3515,7 @@
     {
       "id": "wilhelm-herrmann",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:29-05:00",
@@ -3524,7 +3524,7 @@
     {
       "id": "auguste-sabatier",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:31-05:00",
@@ -3533,7 +3533,7 @@
     {
       "id": "karl-joseph-von-hefele",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:33-05:00",
@@ -3542,7 +3542,7 @@
     {
       "id": "johann-alzog",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:36-05:00",
@@ -3551,7 +3551,7 @@
     {
       "id": "franz-hettinger",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:38-05:00",
@@ -3560,7 +3560,7 @@
     {
       "id": "constant-fouard",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:40-05:00",
@@ -3569,7 +3569,7 @@
     {
       "id": "jean-jacques-olier",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:42-05:00",
@@ -3578,7 +3578,7 @@
     {
       "id": "john-vianney",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:45-05:00",
@@ -3587,7 +3587,7 @@
     {
       "id": "auguste-gratry",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:47-05:00",
@@ -3596,7 +3596,7 @@
     {
       "id": "felix-dupanloup",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:50-05:00",
@@ -3605,7 +3605,7 @@
     {
       "id": "gustave-de-ravignan",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:52-05:00",
@@ -3614,7 +3614,7 @@
     {
       "id": "francois-rene-de-chateaubriand",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:54-05:00",
@@ -3623,7 +3623,7 @@
     {
       "id": "felicite-de-lamennais",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:57-05:00",
@@ -3632,7 +3632,7 @@
     {
       "id": "juan-donoso-cortes",
       "status": "skipped",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:55:55-05:00",
@@ -3641,7 +3641,7 @@
     {
       "id": "louis-gaston-de-segur",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:56:59-05:00",
@@ -3650,7 +3650,7 @@
     {
       "id": "hans-lassen-martensen",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:57:02-05:00",
@@ -3659,7 +3659,7 @@
     {
       "id": "carl-ullmann",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:57:04-05:00",
@@ -3668,7 +3668,7 @@
     {
       "id": "richard-rothe",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:57:06-05:00",
@@ -3677,7 +3677,7 @@
     {
       "id": "gerhard-uhlhorn",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:57:09-05:00",
@@ -3686,7 +3686,7 @@
     {
       "id": "bernhard-weiss",
       "status": "done",
-      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, Ségur) with Donoso Cortés",
+      "scope": "round 29: German Protestant theologians and historians in English (Harnack, Ritschl, Herrmann, Martensen, Ullmann, Rothe, Uhlhorn, B. Weiss), Sabatier, and French and German Catholic writers in English (Hefele, Alzog, Hettinger, Fouard, Olier, Vianney, Gratry, Dupanloup, Ravignan, Chateaubriand, Lamennais, S\u00e9gur) with Donoso Cort\u00e9s",
       "added": "2026-10-18T01:30Z",
       "added_by": "lane A",
       "finished": "2026-10-17T19:57:11-05:00",
@@ -3695,7 +3695,7 @@
     {
       "id": "ludwig-von-pastor",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:42-05:00",
@@ -3704,7 +3704,7 @@
     {
       "id": "johannes-janssen",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:49-05:00",
@@ -3713,7 +3713,7 @@
     {
       "id": "john-of-avila",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:51-05:00",
@@ -3722,7 +3722,7 @@
     {
       "id": "peter-of-alcantara",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:54-05:00",
@@ -3731,7 +3731,7 @@
     {
       "id": "luis-de-leon",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:56-05:00",
@@ -3740,7 +3740,7 @@
     {
       "id": "jacques-monsabre",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:25:59-05:00",
@@ -3749,7 +3749,7 @@
     {
       "id": "emile-bougaud",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:01-05:00",
@@ -3758,7 +3758,7 @@
     {
       "id": "therese-of-lisieux",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:04-05:00",
@@ -3767,7 +3767,7 @@
     {
       "id": "anne-catherine-emmerich",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:07-05:00",
@@ -3776,7 +3776,7 @@
     {
       "id": "henri-didon",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:09-05:00",
@@ -3785,7 +3785,7 @@
     {
       "id": "paolo-segneri",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:11-05:00",
@@ -3794,7 +3794,7 @@
     {
       "id": "giovanni-battista-scaramelli",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:14-05:00",
@@ -3803,7 +3803,7 @@
     {
       "id": "louis-lallemant",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:16-05:00",
@@ -3812,7 +3812,7 @@
     {
       "id": "jean-baptiste-saint-jure",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:19-05:00",
@@ -3821,7 +3821,7 @@
     {
       "id": "hermann-olshausen",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:21-05:00",
@@ -3830,7 +3830,7 @@
     {
       "id": "h-a-w-meyer",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:24-05:00",
@@ -3839,7 +3839,7 @@
     {
       "id": "gottlieb-lunemann",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:26-05:00",
@@ -3848,7 +3848,7 @@
     {
       "id": "johann-eduard-huther",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:28-05:00",
@@ -3857,7 +3857,7 @@
     {
       "id": "august-ebrard",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:31-05:00",
@@ -3866,7 +3866,7 @@
     {
       "id": "august-wiesinger",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:33-05:00",
@@ -3875,7 +3875,7 @@
     {
       "id": "johann-peter-lange",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:36-05:00",
@@ -3884,7 +3884,7 @@
     {
       "id": "karl-rudolf-hagenbach",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:38-05:00",
@@ -3893,7 +3893,7 @@
     {
       "id": "johann-karl-ludwig-gieseler",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:40-05:00",
@@ -3902,7 +3902,7 @@
     {
       "id": "gustav-friedrich-oehler",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:43-05:00",
@@ -3911,7 +3911,7 @@
     {
       "id": "emil-schurer",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:45-05:00",
@@ -3920,7 +3920,7 @@
     {
       "id": "johannes-jacobus-van-oosterzee",
       "status": "done",
-      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of Ávila, Peter of Alcántara, Luis de León, Monsabré, Bougaud, Thérèse of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Schürer, van Oosterzee)",
+      "scope": "round 30: Catholic history and spirituality in English (Pastor, Janssen, John of \u00c1vila, Peter of Alc\u00e1ntara, Luis de Le\u00f3n, Monsabr\u00e9, Bougaud, Th\u00e9r\u00e8se of Lisieux, Emmerich, Didon, Segneri, Scaramelli, Lallemant, Saint-Jure) and German and Dutch Protestant exegetes and historians in English (Olshausen, Meyer and his continuators, Lange, Hagenbach, Gieseler, Oehler, Sch\u00fcrer, van Oosterzee)",
       "added": "2026-10-18T00:58Z",
       "added_by": "lane A",
       "finished": "2026-10-17T20:26:48-05:00",
@@ -4477,10 +4477,12 @@
     },
     {
       "id": "george-fox",
-      "status": "queued",
+      "status": "done",
       "scope": "round 34: Quakers (George Fox, Robert Barclay, William Penn, Isaac Penington, Thomas Ellwood, John Woolman, Elias Hicks, Job Scott, Stephen Grellet, Rufus M. Jones), Emanuel Swedenborg, English divines and moralists (Chillingworth, Warburton, Sir Thomas Browne, Hannah More, Charles Wesley's prose), early Methodists (Bramwell, Carvosso, Hester Ann Rogers, John Nelson) and Brethren and Keswick teachers (Pember, E. W. Bullinger, Sir Robert Anderson, Evan H. Hopkins). The Cambridge Platonists are left to lane B, which is shelving them.",
       "added": "2026-10-18T02:30Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T22:08:30-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "robert-barclay",
@@ -4646,161 +4648,161 @@
     {
       "id": "john-ireland",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "john-j-keane",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "herbert-vaughan",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "geremia-bonomelli",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "louis-veuillot",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "peter-canisius",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "francis-procter",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "john-henry-blunt",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "g-f-maclear",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "charles-de-montalembert",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "john-lingard",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "a-n-mouravieff",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "william-palmer-of-worcester",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "william-palmer-of-magdalen",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "pasquier-quesnel",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "angelus-silesius",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "johann-lorenz-von-mosheim",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "claude-fleury",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "henry-hart-milman",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "mandell-creighton",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "walter-farquhar-hook",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "james-craigie-robertson",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     },
     {
       "id": "george-park-fisher",
       "status": "queued",
-      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). Döllinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
+      "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
       "added_by": "lane A"
     }

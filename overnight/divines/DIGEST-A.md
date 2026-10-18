@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 21:37 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:08 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -762,6 +762,14 @@ Twenty-two authors queued in QUEUE-A.json, each built from title pages read for 
 | Amy Carmichael | amy-carmichael_shelf.json | none | 6 (Things as They Are: Mission Work in Southern India (London: Morgan and Scott, 1903); Overweights of Joy (London: Morgan and Scott, 1906); Lotus Buds (London: Morgan and Scott, MCMX); Walker of Tinnevelly (London: Morgan and Scott, MCMXVI); Mimosa, Who Was Charmed, second edition (Madras: S.P.C.K. Depot, 1925); Raj, Brigand Chief (London: Seeley, Service, 1927)) | none | 1930 printings of Raj and Mimosa; all post-1930 titles |
 
 Round 33 closed 2026-10-17 21:40 CDT: 22 shelves, 117 items (2 Gutenberg, 115 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. Six title pages were read by hand because the OCR garbled the name (Plumptre's Life of Ken, two of Phoebe Palmer's books, three of William Arthur's).
+
+## Round 34: the Quakers, Swedenborg, English divines and moralists, early Methodists, and Brethren and Keswick teachers, before 1930 (my picks)
+
+Twenty-four authors queued in QUEUE-A.json, each built from title pages read for this round. Swedenborg wrote in Latin and Barclay's Apology was first written in Latin; the rest wrote in English. Lane B is shelving the Cambridge Platonists, so lane A left them alone. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| George Fox | george-fox_shelf.json | 3 (George Fox: An Autobiography, edited with an introduction and notes by Rufus M. Jones (Philadelphia: Ferris & Leach, 1909; copyright 1903); The Journal of George Fox, vol. I, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901); The Journal of George Fox, vol. II, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901)) | 11 (The Works of George Fox, vol. I: A Journal, corrected by the first edition (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. II: A Journal (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. III: The Great Mistery of the Great Whore Unfolded (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. IV: Gospel Truth Demonstrated, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831; 'Printed in the year 1706, reprinted 1831'); The Works of George Fox, vol. V: Gospel Truth Demonstrated, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. VI: Gospel Truth Demonstrated, vol. III (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. VII: A Collection of Epistles, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Works of George Fox, vol. VIII: A Collection of Epistles, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831); The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. I (Cambridge: at the University Press, 1911); The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. II (Cambridge: at the University Press, 1911); A Collection of Many Select and Christian Epistles, Letters and Testimonies (London: T. Sowle, 1698), the first edition) | none | Richardson's Gleanings (a selection by another hand); the Octagon, 1924 Dent, 1948, 1952 and 1975 editions; the undated Friends' Book-Store Journal catalogued 1677, an impossible date |
 
 ## Paused 2026-10-10 15:12 CDT
 

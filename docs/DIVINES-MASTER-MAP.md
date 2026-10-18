@@ -7938,6 +7938,29 @@ Slugs `carmichael-*`. Built from title pages read for round 33.
 | PG 29426 (Things as They Are, 1905) and PG 29427 (Lotus Buds, 1912) | alternate | not shelved |
 | Later reprints; Ragland (1922), Ponnammal (1918) and other titles not read | alternate | not shelved |
 | 1930 printings of Raj and Mimosa; all post-1930 titles | excluded | |
+
+## George Fox (round 34, my pick, 2026-10-18)
+
+Slugs `gfox-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| George Fox: An Autobiography, edited with an introduction and notes by Rufus M. Jones (Philadelphia: Ferris & Leach, 1909; copyright 1903) | have-clean | Gutenberg 43031 |
+| The Journal of George Fox, vol. I, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901) | have-clean | Gutenberg 75559 |
+| The Journal of George Fox, vol. II, eighth (bi-centenary) edition (London: Friends' Tract Association; Headley Brothers, 1901) | have-clean | Gutenberg 75590 |
+| The Works of George Fox, vol. I: A Journal, corrected by the first edition (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox10foxgoog` |
+| The Works of George Fox, vol. II: A Journal (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox05foxgoog` |
+| The Works of George Fox, vol. III: The Great Mistery of the Great Whore Unfolded (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox01foxgoog` |
+| The Works of George Fox, vol. IV: Gospel Truth Demonstrated, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831; 'Printed in the year 1706, reprinted 1831') | have-ocr | IA `worksgeorgefox06foxgoog` |
+| The Works of George Fox, vol. V: Gospel Truth Demonstrated, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox00foxgoog` |
+| The Works of George Fox, vol. VI: Gospel Truth Demonstrated, vol. III (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox02foxgoog` |
+| The Works of George Fox, vol. VII: A Collection of Epistles, vol. I (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox03foxgoog` |
+| The Works of George Fox, vol. VIII: A Collection of Epistles, vol. II (Philadelphia: Marcus T. C. Gould; New York: Isaac T. Hopper, 1831) | have-ocr | IA `worksgeorgefox04foxgoog` |
+| The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. I (Cambridge: at the University Press, 1911) | have-ocr | IA `journalgeorgefox01foxuoft` |
+| The Journal of George Fox, edited from the MSS. by Norman Penney, with an introduction by T. Edmund Harvey, vol. II (Cambridge: at the University Press, 1911) | have-ocr | IA `journalofgeorgef0000norm_l2u7` |
+| A Collection of Many Select and Christian Epistles, Letters and Testimonies (London: T. Sowle, 1698), the first edition | have-ocr | IA `bim_early-english-books-1641-1700_a-collection-of-many-sel_fox-george-elder_1698` |
+| Works vols III, VII, VIII duplicate scans (worksgeorgefox09/11/07/08foxgoog); 1901 Journal scans; further 1911 copies; Leeds 1836 sixth edition (two scans, one catalogued as Ellwood in error); the second edition of 1709; Tuke's Selections from the Epistles | alternate | not shelved |
+| Richardson's Gleanings (a selection by another hand); the Octagon, 1924 Dent, 1948, 1952 and 1975 editions; the undated Friends' Book-Store Journal catalogued 1677, an impossible date | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
