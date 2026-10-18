@@ -1738,3 +1738,6 @@
 
 ## 2026-10-17 22:27 CDT — geremia-bonomelli done
 - `pipeline/geremia-bonomelli_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — louis-veuillot done
+- `pipeline/louis-veuillot_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -4729,10 +4729,12 @@
     },
     {
       "id": "louis-veuillot",
-      "status": "queued",
+      "status": "done",
       "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T22:27:32-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "peter-canisius",

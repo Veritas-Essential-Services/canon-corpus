@@ -8355,3 +8355,13 @@ Slugs `-*`. Built from title pages read for round 35.
 | On Religious Worship and Some Defects in Popular Devotions (London: Burns and Oates, 1907; first impression 1906) | have-ocr | IA `onreligiousworsh00bonouoft` |
 | Homilies vols V (1912) and VI; further copies of both sets | alternate | not shelved |
 | A Doctrine of Hope, adapted from a pastoral letter by others (catalogued 1921) | excluded | |
+
+## Louis Veuillot (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Our Lord Jesus Christ, from the seventh French edition, tr. Anthony Farley (New York: Peter F. Collier, 1878) | have-ocr | IA `lifeofourlordjes00veui` |
+| Stephanie, tr. Josephine Black (Dublin: M. H. Gill and Son, 1883) | have-ocr | IA `stephanietrbyjb00veuigoog` |
+| The Liberal Illusion, tr. George Barry O'Toole (post-1929); French editions | excluded | |
