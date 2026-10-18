@@ -6200,3 +6200,18 @@ Slugs `rmbenson-*`. Founder of the Cowley Fathers; written in English.
 | Google copies of The Final Passover | alternate | not shelved |
 | 1932, 1934 and 1958 items | excluded | |
 | Louis F. Benson on CCEL; an 1828 Manual of Intercessory Prayer | excluded | |
+
+## Samuel Wilberforce (round 28, my pick, 2026-10-18)
+
+Slugs `swilberforce-*`. Bishop of Oxford and of Winchester; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rocky Island, and other Similitudes, tenth edition (London: F. & J. Rivington, 1849) | have-clean | Gutenberg 20541 |
+| Agathos, and other Sunday Stories, fourth edition (London: Seeley and Burnside, MDCCCXLI) | have-ocr | IA `agathosothersund00wilb` |
+| A History of the Protestant Episcopal Church in America (London: James Burns, 1844) | have-ocr | IA `ahistoryprotest00magoog` |
+| Sermons, fifth edition (London: F. & J. Rivington, 1849) | have-ocr | IA `sermonswil00wilbuoft` |
+| Heroes of Hebrew History, fifth edition (London: W. Isbister, 1874) | have-ocr | IA `heroesofhebrewhi01wilbuoft` |
+| Agathos 5th and 7th editions; Heroes (1883); Sermons 6th ed. (1858); Four Sermons (1842); Six Sermons (1848); The Rocky Island (New York, 1841) | alternate | not shelved |
+| Ashwell's Life | excluded | |
+| Henry Martyn's Journal and Evelyn's Life of Mrs. Godolphin, which he only edited | excluded | |
