@@ -7833,6 +7833,8 @@ Shelf: `pipeline/addison-webster-moore_shelf.json`. Two books, 1902-1910.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Functional versus the Representational Theories of Knowledge in Locke's Essay (Chicago, 1902) |  | `moore-functional-versus-representational-1902` | have-raw (IA `functionalversus00moorrich`) |
+| Pragmatism and its Critics (University of Chicago Press, 1910) |  | `moore-pragmatism-and-its-critics-1910` | have-raw (IA `cu31924100500903`) |
 
 Pending (wishlist): Existence, Meaning, and Reality (1903 offprint; no dated scan).
 
