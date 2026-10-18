@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). Their Volsunga Saga is on Lane D's poetic-edda shelf (cross-referenced here). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). Their Volsunga Saga is on Lane D's poetic-edda shelf (cross-referenced here). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted. Round 118 (2026-10-17, vetoable): Magnússon's two Runeberg translations without Morris, Lyrical Songs, Idylls and Epigrams (with E. H. Palmer, 1878) and King Fialar (1912).",
  "_name_words": [
   "magnússon",
   "magnusson",
@@ -56,6 +56,14 @@
   "mm-three-northern": [
    "threenorthernlo00morrgoog",
    "Three Northern Love Stories"
+  ],
+  "mm-runeberg-lyrical-songs": [
+   "lyricalsongsidyl00runerich",
+   "Lyrical Songs, Idylls and Epigrams (1878)"
+  ],
+  "mm-runeberg-king-fialar": [
+   "kingfialarpoemin00runerich",
+   "King Fialar: a Poem in Five Songs (1912)"
   ]
  },
  "titles": {
@@ -152,6 +160,24 @@
     "gutenberg_id": 1152
    },
    "note": "Cross-reference only: Lane D has held this text since 2026-10-03; lane C fetched it again in round 12 by mistake, and the duplicate was removed 2026-10-10."
+  },
+  "mm-runeberg-lyrical-songs": {
+   "source": "mm-runeberg-lyrical-songs",
+   "of": "Johan Ludvig Runeberg",
+   "work": "Lyrical Songs, Idylls and Epigrams",
+   "translated": 1878,
+   "translator": "Eiríkr Magnússon and E. H. Palmer",
+   "scan_edition": "C. Kegan Paul & Co., London 1878; archive.org scan",
+   "note": "Translated by Magnússon without Morris."
+  },
+  "mm-runeberg-king-fialar": {
+   "source": "mm-runeberg-king-fialar",
+   "of": "Johan Ludvig Runeberg",
+   "work": "King Fialar: a Poem in Five Songs",
+   "translated": 1912,
+   "translator": "Eiríkr Magnússon",
+   "scan_edition": "J. M. Dent & Sons, London 1912; archive.org scan",
+   "note": "Translated by Magnússon without Morris."
   }
  },
  "_pending": {},
@@ -267,6 +293,28 @@
    "ia_date": "1875",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "mm-runeberg-lyrical-songs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-runeberg-king-fialar": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -338,6 +386,32 @@
    "years_in_front_15k": [
     1839,
     1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-runeberg-lyrical-songs": {
+   "ia": "lyricalsongsidyl00runerich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1834,
+    1836,
+    1837,
+    1841,
+    1843,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-runeberg-king-fialar": {
+   "ia": "kingfialarpoemin00runerich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1846,
+    1878,
+    1879,
+    1903,
+    1912
    ],
    "post_1930_years_in_front_15k": []
   }

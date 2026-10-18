@@ -3904,6 +3904,14 @@
       "finished": "2026-10-17T23:25-05:00",
       "scope": "GAP-FILL (round 117, lane C's choice; Adam may veto) -- singles-fiction-3 +4, cw-stork +1; PD printings before 1931 only; no minting",
       "notes": "5 titles; ids checked across all branches. See DIGEST-C round 117. No uids minted."
+    },
+    {
+      "id": "gapfill-r118-runeberg-garborg",
+      "status": "done",
+      "started": "2026-10-17T23:29-05:00",
+      "finished": "2026-10-17T23:30-05:00",
+      "scope": "GAP-FILL (round 118, lane C's choice; Adam may veto) -- morris-magnusson +2, scandinavian-classics +1; PD printings before 1931 only; no minting",
+      "notes": "3 titles; ids checked across all branches. See DIGEST-C round 118. No uids minted."
     }
   ]
 }

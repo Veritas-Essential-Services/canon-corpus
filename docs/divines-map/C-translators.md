@@ -864,10 +864,10 @@ Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not conv
 | — | — | sharp-everyman: R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json. | — | — | excluded | — |
 | — | — | marx-aveling-wild-duck: PG 73631: Eleanor Marx Aveling's translation; another translator. | — | — | excluded | — |
 
-## Magnússon and Morris (Icelandic sagas)
+## Magnússon and Morris (Icelandic sagas; Magnússon's Runeberg)
 
 Shelf: `pipeline/morris-magnusson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py morris-magnusson` · titles `python3 pipeline/split_shelf_titles.py morris-magnusson`.
-Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not converted to unit-id JSON; **no uids minted**.
+Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Round 118 (2026-10-17) added Magnússon's Runeberg, Lyrical Songs (with Palmer, 1878) and King Fialar (1912). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -882,6 +882,8 @@ Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not c
 | `mm-saga-library-vol-6` | Snorri Sturluson | The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes) | Eiríkr Magnússon | 1905 | have-raw | IA `sagalibrarydonei06snor` |
 | `mm-three-northern-love-stories` | anonymous (Old Norse) | Three Northern Love Stories and Other Tales | Eiríkr Magnússon and William Morris | 1875 | have-raw | IA `threenorthernlo00morrgoog` |
 | `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | held elsewhere (cross-ref) | `pipeline/poetic-edda_shelf.json` → `edda-volsunga-morris` (PG 1152) |
+| `mm-runeberg-lyrical-songs` | Johan Ludvig Runeberg | Lyrical Songs, Idylls and Epigrams | Eiríkr Magnússon and E. H. Palmer | 1878 | have-raw | IA `lyricalsongsidyl00runerich` |
+| `mm-runeberg-king-fialar` | Johan Ludvig Runeberg | King Fialar: a Poem in Five Songs | Eiríkr Magnússon | 1912 | have-raw | IA `kingfialarpoemin00runerich` |
 | — | — | pg-347: Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris. | — | — | excluded | — |
 | — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
 | — | — | sagalibrary01snoruoft: Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3. | — | — | excluded | — |
@@ -6819,10 +6821,10 @@ Round 88 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | corpus-poeticum-1965: corpuspoeticumbo0000unse is a 1965 Russell & Russell reprint; the 1883 Clarendon scan is used. | — | — | excluded | — |
 | — | — | leighton-kormak-1861: William Leighton's Kormak (Boston, 1861) is his own poem on the saga, not a translation. | — | — | excluded | — |
 
-## Shelf: the American-Scandinavian Foundation's Scandinavian Classics before 1931: Brodeur's Prose Edda, Palmer's Bjørnson Poems and Songs, Payne's Arnljot Gelline, Benson's Almqvist Sara Videbeck, Fielden's Hallström stories, Blackley and Longfellow's Tegnér, Damon and Hillyer's Book of Danish Verse, Hustvedt's Munch Norse Mythology
+## Shelf: the American-Scandinavian Foundation's Scandinavian Classics before 1931: Brodeur's Prose Edda, Palmer's Bjørnson Poems and Songs, Payne's Arnljot Gelline, Benson's Almqvist Sara Videbeck, Fielden's Hallström stories, Blackley and Longfellow's Tegnér, Damon and Hillyer's Book of Danish Verse, Hustvedt's Munch Norse Mythology, Carleton's Garborg Peace
 
 Shelf: `pipeline/scandinavian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scandinavian-classics` · titles `python3 pipeline/split_shelf_titles.py scandinavian-classics`.
-Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted to unit-id JSON; **no uids minted**.
+Round 89 (2026-10-17), vetoable. Three titles added in round 91; Garborg's Peace (1929) in round 118. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6834,6 +6836,7 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted t
 | `scandinavian-classics-danish-verse` | Danish poets, selected and annotated by Oluf Friis | A Book of Danish Verse | S. Foster Damon and Robert Silliman Hillyer | 1922 | have-raw | IA `bookofdanishvers00friiiala` |
 | `scandinavian-classics-munch-norse-mythology` | Peter Andreas Munch, revised by Magnus Olsen | Norse Mythology: Legends of Gods and Heroes | Sigurd Bernhard Hustvedt | 1926 | have-raw | IA `norsemythologyle00munc_0` |
 | `scandinavian-classics-tegner-poems` | Esaias Tegnér | Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga | W. Lewery Blackley (Frithiof's Saga) and Henry Wadsworth Longfellow (The Children of the Lord's Supper) | 1914 | have-raw | IA `poemsbytegnerchi0000esai` |
+| `scandinavian-classics-garborg-peace` | Arne Garborg | Peace | Phillips Dean Carleton | 1929 | have-raw | IA `bwb_S0-BVP-457` |
 | `schlauch-saga-of-the-volsungs` | — | Margaret Schlauch's The Saga of the Volsungs (American-Scandinavian Foundation, 'Copyright, 1930'; archive.org sagaofvolsungs0000marg). Waits on the 1930 ruling: the gate still treats 1930 as in copyright. | — | — | pending | — |
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
 | — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |

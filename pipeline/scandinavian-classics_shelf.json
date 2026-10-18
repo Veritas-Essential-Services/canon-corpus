@@ -1,5 +1,5 @@
 {
- "_about": "SERIES SHELF: the American-Scandinavian Foundation's Scandinavian Classics (New York, 1914 onward), translations of Old Norse, Danish, Norwegian and Swedish books, for the volumes no other shelf holds: Brodeur's Prose Edda (1916), two Bjørnson volumes, Almqvist's Sara Videbeck and Hallström's stories; added in round 91, Tegnér's Poems (1914), A Book of Danish Verse (1922) and Munch's Norse Mythology (1926). Bellows's Poetic Edda, Holberg, Strindberg's Master Olof, Jacobsen, Lie, Sigurjónsson and the translators with their own shelves (Stork, Hollander, Björkman, Hanna Larsen) are shelved elsewhere. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 89); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF: the American-Scandinavian Foundation's Scandinavian Classics (New York, 1914 onward), translations of Old Norse, Danish, Norwegian and Swedish books, for the volumes no other shelf holds: Brodeur's Prose Edda (1916), two Bjørnson volumes, Almqvist's Sara Videbeck and Hallström's stories; added in round 91, Tegnér's Poems (1914), A Book of Danish Verse (1922) and Munch's Norse Mythology (1926). Bellows's Poetic Edda, Holberg, Strindberg's Master Olof, Jacobsen, Lie, Sigurjónsson and the translators with their own shelves (Stork, Hollander, Björkman, Hanna Larsen) are shelved elsewhere. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 89); Adam may veto. No uids minted. Round 118 (2026-10-17, vetoable) added Garborg's Peace (Carleton, 1929).",
  "_name_words": [
   "adolph b. benson",
   "adolph burnett benson",
@@ -18,7 +18,8 @@
   "sigurd bernhard hustvedt",
   "w. l. blackley",
   "w. lewery blackley",
-  "william morton payne"
+  "william morton payne",
+  "phillips dean carleton"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'payne' and 'palmer' are left out: other shelves (John Payne's among them) claim them.",
  "_surname": [
@@ -39,7 +40,8 @@
   "sigurd bernhard hustvedt",
   "w. l. blackley",
   "w. lewery blackley",
-  "william morton payne"
+  "william morton payne",
+  "phillips dean carleton"
  ],
  "_surname_by_slug": {
   "asf-prose-edda": [
@@ -75,6 +77,9 @@
    "w. l. blackley",
    "blackley",
    "longfellow"
+  ],
+  "asf-garborg-peace": [
+   "phillips dean carleton"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -120,6 +125,10 @@
    "poemsbytegnerchi0000esai",
    "Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga (1914)",
    "poemsbytegnerchi0000esai_djvu.txt"
+  ],
+  "asf-garborg-peace": [
+   "bwb_S0-BVP-457",
+   "Peace (1929)"
   ]
  },
  "titles": {
@@ -189,6 +198,14 @@
    "translator": "W. Lewery Blackley (Frithiof's Saga) and Henry Wadsworth Longfellow (The Children of the Lord's Supper)",
    "scan_edition": "Scandinavian Classics II, American-Scandinavian Foundation, New York 1914; archive.org scan",
    "note": "The Frithiof's Saga is Blackley's translation (Dublin, 1857), reprinted; the Children of the Lord's Supper is Longfellow's, per the introduction."
+  },
+  "scandinavian-classics-garborg-peace": {
+   "source": "asf-garborg-peace",
+   "of": "Arne Garborg",
+   "work": "Peace",
+   "translated": 1929,
+   "translator": "Phillips Dean Carleton",
+   "scan_edition": "The American-Scandinavian Foundation and W. W. Norton, New York, copyright 1929, Scandinavian Classics vol. XXXIII; archive.org scan"
   }
  },
  "_pending": {
@@ -284,6 +301,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1914",
    "ia_date": "1914-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asf-garborg-peace": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "phillips dean carleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -386,6 +414,17 @@
     1914
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "asf-garborg-peace": {
+   "ia": "bwb_S0-BVP-457",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "Examined in round 118: 2025 is the Internet Archive's digitising line ('Digitized by the Internet Archive in 2025'); the title page reads copyright 1929 by the American-Scandinavian Foundation."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
