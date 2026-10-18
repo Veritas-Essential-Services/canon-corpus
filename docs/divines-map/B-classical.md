@@ -7313,6 +7313,8 @@ Shelf: `pipeline/james-madison_shelf.json`. Two volumes.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 1 |  | `madison-debates-federal-convention-1` | have (PG 40861) |
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 2 |  | `madison-debates-federal-convention-2` | have (PG 41095) |
 
 ## John Adams (constitutional theory)
 
