@@ -1,5 +1,5 @@
 {
- "_about": "Shadworth Hollway Hodgson (1832-1912), English metaphysician and first president of the Aristotelian Society. Raw IA OCR: Time and Space, a metaphysical essay (London: Longman, 1865), clean 0.93; The Theory of Practice, an ethical enquiry (London: Longmans, 1870), 2 vols., clean 0.92 each; The Philosophy of Reflection (London: Longmans, 1878), 2 vols., clean 0.89 and 0.91; The Metaphysic of Experience (London: Longmans, 1898), 4 vols., clean 0.94, 0.94, 0.95, 0.86; The Relation of Philosophy to Science, presidential address to the Aristotelian Society (London: Williams and Norgate, 1884), clean 0.94. Not to be confused with Geraldine Hodgson or the Juvenal translator Hodgson. US public domain. No uids minted.",
+ "_about": "Shadworth Hollway Hodgson (1832-1912), English metaphysician and first president of the Aristotelian Society. Raw IA OCR: Time and Space, a metaphysical essay (London: Longman, 1865), clean 0.93; The Theory of Practice, an ethical enquiry (London: Longmans, 1870), 2 vols., clean 0.92 each; The Philosophy of Reflection (London: Longmans, 1878), 2 vols., clean 0.89 and 0.91; The Metaphysic of Experience (London: Longmans, 1898), 4 vols., clean 0.94, 0.94, 0.95, 0.86; The Relation of Philosophy to Science, presidential address to the Aristotelian Society (London: Williams and Norgate, 1884), clean 0.94. Not to be confused with Geraldine Hodgson or the Juvenal translator Hodgson. US public domain. Added in round 2026-10-17bs: Outcast Essays and Verse Translations (London: Longmans, 1881), clean 0.91. No uids minted.",
  "_author": "Shadworth H. Hodgson",
  "_name_words": [
   "shadworth",
@@ -53,6 +53,10 @@
   "hodgson-relation-of-philosophy-to-science-1884": [
    "relationphiloso00hodggoog",
    "The Relation of Philosophy to Science (Williams and Norgate, 1884)"
+  ],
+  "hodgson-outcast-essays-1881": [
+   "outcastessaysver00hodguoft",
+   "Outcast Essays and Verse Translations (Longmans, 1881)"
   ]
  },
  "_excluded": {},
@@ -164,6 +168,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-outcast-essays-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

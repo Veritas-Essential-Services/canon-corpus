@@ -6525,6 +6525,7 @@ Shelf: `pipeline/shadworth-hodgson_shelf.json`. The four major treatises, first 
 | The Metaphysic of Experience, vol. III (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v3` | have-raw (IA `metaphysicofexp03hodguoft`) |
 | The Metaphysic of Experience, vol. IV (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v4` | have-raw (IA `metaphysicofexpe04hodgiala`) |
 | The Relation of Philosophy to Science (Williams and Norgate, 1884) |  | `hodgson-relation-of-philosophy-to-science-1884` | have-raw (IA `relationphiloso00hodggoog`) |
+| Outcast Essays and Verse Translations (Longmans, 1881) |  | `hodgson-outcast-essays-1881` | have-raw (IA `outcastessaysver00hodguoft`) |
 
 ## Oswald Külpe (Würzburg school)
 
