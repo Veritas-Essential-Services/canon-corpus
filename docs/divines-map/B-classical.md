@@ -7875,6 +7875,7 @@ Shelf: `pipeline/christine-ladd-franklin_shelf.json`. One book, 1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Colour and Colour Theories (Kegan Paul, 1929) |  | `ladd-franklin-colour-and-colour-theories-1929` | have-raw (IA `in.ernet.dli.2015.218434`) |
 
 ## James Hayden Tufts (social ethics)
 

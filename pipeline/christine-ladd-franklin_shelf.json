@@ -1,0 +1,34 @@
+{
+ "_about": "Christine Ladd-Franklin (1847-1930), American logician (Peirce's student; her antilogism is in his Studies in Logic) and theorist of colour vision. Raw IA OCR: Colour and Colour Theories (London: Kegan Paul; New York: Harcourt, Brace, 1929). US public domain. No uids minted.",
+ "_author": "Christine Ladd-Franklin",
+ "_name_words": [
+  "christine",
+  "ladd",
+  "franklin"
+ ],
+ "_surname": [
+  "ladd-franklin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ladd-franklin-colour-and-colour-theories-1929": [
+   "in.ernet.dli.2015.218434",
+   "Colour and Colour Theories (Kegan Paul, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ladd-franklin-colour-and-colour-theories-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd-franklin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
