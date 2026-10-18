@@ -1,0 +1,33 @@
+{
+ "_about": "Benjamin Kidd (1858-1916), sociologist: Social Evolution (London and New York: Macmillan, copyright 1894; this copy the July 1894 reprint), raw IA OCR, clean 0.94. US public domain. No uids minted.",
+ "_author": "Benjamin Kidd",
+ "_name_words": [
+  "benjamin",
+  "kidd"
+ ],
+ "_surname": [
+  "kidd"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kidd-social-evolution-1894": [
+   "socialevolution00kiddiala",
+   "Social Evolution (Macmillan, 1894)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "kidd-social-evolution-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kidd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

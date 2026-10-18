@@ -6225,6 +6225,7 @@ Shelf: `pipeline/benjamin-kidd_shelf.json`. Benjamin Kidd (1858-1916). Social Ev
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Social Evolution (Macmillan, 1894) |  | `kidd-social-evolution-1894` | have-raw (IA `socialevolution00kiddiala`) |
 
 Pending (wishlist): Principles of Western Civilisation (1902)
 
