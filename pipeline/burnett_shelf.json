@@ -240,6 +240,13 @@
    {
     "contents_only": true
    }
+  ],
+  "burnett-shuttle": [
+   506,
+   "The Shuttle",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
@@ -252,7 +259,7 @@
  "_checks": {
   "burnett-secret-garden": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -261,7 +268,7 @@
   },
   "burnett-little-princess": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -270,7 +277,7 @@
   },
   "burnett-sara-crewe": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -279,7 +286,7 @@
   },
   "burnett-little-lord-fauntleroy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -288,7 +295,7 @@
   },
   "burnett-lost-prince": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -297,7 +304,7 @@
   },
   "burnett-racketty-packetty-house": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -306,7 +313,7 @@
   },
   "burnett-little-saint-elizabeth": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -315,7 +322,7 @@
   },
   "burnett-white-people": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -324,7 +331,7 @@
   },
   "burnett-dawn-of-a-to-morrow": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -333,7 +340,7 @@
   },
   "burnett-a-lady-of-quality-being-a-most-curious-hitherto-unkn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -342,7 +349,7 @@
   },
   "burnett-t-tembarom": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -351,7 +358,7 @@
   },
   "burnett-land-of-the-blue-flower": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -360,7 +367,7 @@
   },
   "burnett-little-hunchback-zia": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -369,7 +376,7 @@
   },
   "burnett-my-robin": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -378,7 +385,7 @@
   },
   "burnett-in-the-closed-room": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -387,7 +394,7 @@
   },
   "burnett-head-of-the-house-of-coombe": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -396,7 +403,7 @@
   },
   "burnett-a-fair-barbarian": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -405,7 +412,7 @@
   },
   "burnett-his-grace-of-osmonde-being-the-portions-of-that-nobl": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -414,7 +421,7 @@
   },
   "burnett-emily-fox-seton": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -423,7 +430,7 @@
   },
   "burnett-robin": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -432,7 +439,7 @@
   },
   "burnett-surly-tim": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -441,7 +448,7 @@
   },
   "burnett-seth": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -450,7 +457,7 @@
   },
   "burnett-m-re-girauds-little-daughter": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -459,7 +466,7 @@
   },
   "burnett-lodusky": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -468,7 +475,7 @@
   },
   "burnett-esmeralda": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -477,7 +484,7 @@
   },
   "burnett-le-monsieur-de-la-petite-dame": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -486,7 +493,7 @@
   },
   "burnett-one-day-at-arle": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -495,7 +502,7 @@
   },
   "burnett-that-lass-o-lowries-1877": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -504,7 +511,7 @@
   },
   "burnett-pretty-sister-of-jos-1889": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -513,7 +520,7 @@
   },
   "burnett-vagabondia-1884": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -522,7 +529,7 @@
   },
   "burnett-in-connection-with-the-de-willoughby-claim": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -531,7 +538,7 @@
   },
   "burnett-theo": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -540,7 +547,7 @@
   },
   "burnett-louisiana": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -549,7 +556,7 @@
   },
   "burnett-barty-crusoe-and-his-man-saturday": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -558,7 +565,7 @@
   },
   "burnett-cozy-lion": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -567,7 +574,7 @@
   },
   "burnett-good-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -576,7 +583,7 @@
   },
   "burnett-two-little-pilgrims-progress": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -585,7 +592,7 @@
   },
   "burnett-edithas-burglar": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -594,7 +601,7 @@
   },
   "burnett-miss-crespigny": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -603,7 +610,7 @@
   },
   "burnett-haworths": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -612,7 +619,7 @@
   },
   "burnett-through-one-administration": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
@@ -621,7 +628,16 @@
   },
   "burnett-piccino-and-other-child-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frances hodgson burnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burnett-shuttle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frances hodgson burnett",
    "identity": "ok",
