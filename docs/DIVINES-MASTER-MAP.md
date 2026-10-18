@@ -7975,6 +7975,27 @@ Slugs `rbarclay-*`. Built from title pages read for round 34.
 | Truth Triumphant, vol. I, from the octavo edition of 1718 collated with the folio of 1692 (Philadelphia: Benjamin C. Stanton, 1831) | have-ocr | IA `truthtriumphantt01inbarc` |
 | A Catechism and Confession of Faith (Philadelphia: Joseph James, 1788) | have-ocr | IA `catechismconfess01barc` |
 | CCEL barclay/quakers (New York: Samuel Wood, 1827, from the eighth London edition); Truth Triumphant 1831 (truthtriumphant00keitgoog, probably vol. II); the thirteenth-edition Catechism (William Phillips, no year) | alternate | not shelved |
+
+## William Penn (round 34, my pick, 2026-10-18)
+
+Slugs `wpenn-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| A Brief Account of the Rise and Progress of the People called Quakers, twelfth edition (Manchester: Harrison and Crosfield, 1834) | have-clean | Gutenberg 19377 |
+| No Cross, No Crown, a new edition, revised (London: Harvey & Darton, 1842) | have-clean | Gutenberg 44895 |
+| A Sermon preached at the Quakers' Meeting House in Gracechurch Street, 1694 (London: R. H. Moore, 1836) | have-clean | Gutenberg 20534 |
+| A Collection of the Works of William Penn, vol. I, with a Journal of his Life (London: Assigns of J. Sowle, 1726) | have-ocr | IA `collectionofwork01penn` |
+| A Collection of the Works of William Penn, vol. II (London: Assigns of J. Sowle, 1726) | have-ocr | IA `collectionofwork02penn` |
+| The Select Works of William Penn, third edition, vol. I (London: James Phillips, 1782) | have-ocr | IA `selectworkswill06penngoog` |
+| The Select Works of William Penn, third edition, vol. II (London: James Phillips, 1782) | have-ocr | IA `selectworkswill05penngoog` |
+| The Select Works of William Penn, third edition, vol. III (London: James Phillips, 1782) | have-ocr | IA `selectworkswill08penngoog` |
+| The Select Works of William Penn, third edition, vol. IV (London: James Phillips, 1782) | have-ocr | IA `selectworkswill01penngoog` |
+| The Select Works of William Penn, third edition, vol. V (London: James Phillips, 1782) | have-ocr | IA `selectworkswill00penngoog` |
+| No Cross, No Crown, the eighth edition, corrected (Leeds: James Lister, 1743) | have-ocr | IA `nocrossnocrown00penn` |
+| Fruits of Solitude, in Reflections and Maxims relating to the Conduct of Human Life (London: A. W. Bennett, 1863) | have-ocr | IA `fruitssolitudei01penngoog` |
+| Select Works duplicate scans (04/07/02/09/03penngoog); Select Works fourth edition vol. III (1825); No Cross, No Crown eleventh edition (Mary Hinde, 177?); Fruits of Solitude 1877, 1901 and Gosse's 1901; CCEL penn/quakers and penn/primitivechristianity (1857) | alternate | not shelved |
+| Harvard Classics vol. 1 (Franklin, Woolman, Penn): a many-author volume | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

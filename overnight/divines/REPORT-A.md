@@ -1657,3 +1657,6 @@
 
 ## 2026-10-17 22:08 CDT — robert-barclay done
 - `pipeline/robert-barclay_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — william-penn done
+- `pipeline/william-penn_shelf.json`: 0 CCEL, 3 PG, 9 IA. Title pages read for wpenn-no-cross-1743 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
