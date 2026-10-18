@@ -16669,7 +16669,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## John Durand (Taine's Origins of Contemporary France; Philosophy of Art)
 
 Shelf: `pipeline/durand_shelf.json` · fetch `python3 pipeline/fetch_shelf.py durand` · titles `python3 pipeline/split_shelf_titles.py durand`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Taine's Italy: Rome and Naples and Art in the Netherlands and in Greece added round 101. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -16680,7 +16680,13 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `durand-taine-the-modern-regime-volume-1` | Hippolyte Taine | The Modern Regime, Volume 1 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2581 |
 | `durand-taine-the-modern-regime-volume-2` | Hippolyte Taine | The Modern Regime, Volume 2 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2582 |
 | `durand-taine-the-philosophy-of-art` | Hippolyte Taine | The Philosophy of Art | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 52980 |
+| `durand-taine-italy-rome-and-naples` | Hippolyte Taine | Italy: Rome and Naples | John Durand | 1868 | have-raw | IA `italyromenaples01tain` |
+| `durand-taine-art-in-the-netherlands` | Hippolyte Taine | The Philosophy of Art: Art in the Netherlands | John Durand | 1871 | have-raw | IA `artinnetherlands00tainrich` |
+| `durand-taine-art-in-greece` | Hippolyte Taine | The Philosophy of Art: Art in Greece | John Durand | 1871 | have-raw | IA `artingreece00tainiala` |
 | — | — | pg-23524: Gutenberg's combined table of contents for the Origins, not a text. | — | — | excluded | — |
+| — | — | dur-italy-florence-and-venice: Italy: Florence and Venice (Leypoldt & Holt, 1869; Holt, 1872 and 1880): Durand's name is not legible in the OCR of any scan checked, so the identity check cannot pass. | — | — | excluded | — |
+| — | — | dur-ideal-in-art: The Ideal in Art (Holt; idealinart00taingoog): Durand's name is not legible in the OCR, so the identity check cannot pass. | — | — | excluded | — |
+| — | — | dur-lectures-on-art: Lectures on Art (Holt, 1875, 2 series) reprints The Philosophy of Art, The Ideal in Art, Art in the Netherlands and Art in Greece, so it would hold them twice. | — | — | excluded | — |
 
 ## Charles Timothy Brooks (Goethe's Faust; Jean Paul)
 
@@ -21749,7 +21755,7 @@ Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes)
 
 Shelf: `pipeline/french-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py french-classics` · titles `python3 pipeline/split_shelf_titles.py french-classics`.
-Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100. Not converted to unit-id JSON; **no uids minted**.
+Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100; Taine's On Intelligence round 101. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21773,6 +21779,7 @@ Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 
 | `french-classics-senancour-obermann-waite` | Étienne Pivert de Senancour | Obermann | Arthur Edward Waite | 1903 | have-raw | IA `obermann00sena` |
 | `french-classics-senancour-obermann-barnes-vol-1` | Étienne Pivert de Senancour | Obermann, vol. I | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann01sena` |
 | `french-classics-senancour-obermann-barnes-vol-2` | Étienne Pivert de Senancour | Obermann, vol. II | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann02sena` |
+| `french-classics-taine-on-intelligence` | Hippolyte Taine | On Intelligence, revised with additions by the author | T. D. Haye | 1872 | have-raw | IA `onintelligence00tain` |
 | — | — | froissart-johnes: Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here. | — | — | excluded | — |
 | — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
 | — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |

@@ -1,9 +1,11 @@
 {
- "_about": "TRANSLATOR SHELF: John Durand (1822-1908): Hippolyte Taine's The Origins of Contemporary France (Holt, 1876-94; 6 vols) and The Philosophy of Art. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: John Durand (1822-1908): Hippolyte Taine's The Origins of Contemporary France (Holt, 1876-94; 6 vols) and The Philosophy of Art, and (added round 101) his Taine from period archive.org scans: Italy: Rome and Naples, Art in the Netherlands and Art in Greece. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
  "_name_words": [
+  "j. durand",
   "john durand"
  ],
  "_surname": [
+  "j. durand",
   "john durand"
  ],
  "_surname_note": "Full name only.",
@@ -38,7 +40,20 @@
    "The Philosophy of Art"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dur-italy-rome-and-naples": [
+   "italyromenaples01tain",
+   "Italy: Rome and Naples (1868)"
+  ],
+  "dur-art-in-the-netherlands": [
+   "artinnetherlands00tainrich",
+   "The Philosophy of Art: Art in the Netherlands (1871)"
+  ],
+  "dur-art-in-greece": [
+   "artingreece00tainiala",
+   "The Philosophy of Art: Art in Greece (1871)"
+  ]
+ },
  "titles": {
   "durand-taine-the-ancient-regime": {
    "source": "dur-2577",
@@ -102,11 +117,38 @@
    "translator": "John Durand",
    "scan_edition": "Project Gutenberg 52980 (clean text)",
    "note": "Gutenberg's text carries a short modern preface and notes by its volunteer annotator, Svend Rom; the translation itself is Durand's (Holt, 1876-94)."
+  },
+  "durand-taine-italy-rome-and-naples": {
+   "source": "dur-italy-rome-and-naples",
+   "of": "Hippolyte Taine",
+   "work": "Italy: Rome and Naples",
+   "translated": "1868",
+   "translator": "John Durand",
+   "scan_edition": "Leypoldt & Holt, New York, 1869 (second edition, with corrections and an index); archive.org scan"
+  },
+  "durand-taine-art-in-the-netherlands": {
+   "source": "dur-art-in-the-netherlands",
+   "of": "Hippolyte Taine",
+   "work": "The Philosophy of Art: Art in the Netherlands",
+   "translated": "1871",
+   "translator": "John Durand",
+   "scan_edition": "Henry Holt and Company, New York, 1874; archive.org scan"
+  },
+  "durand-taine-art-in-greece": {
+   "source": "dur-art-in-greece",
+   "of": "Hippolyte Taine",
+   "work": "The Philosophy of Art: Art in Greece",
+   "translated": "1871",
+   "translator": "John Durand",
+   "scan_edition": "Holt & Williams, New York, 1871; archive.org scan"
   }
  },
  "_pending": {},
  "_excluded": {
-  "pg-23524": "Gutenberg's combined table of contents for the Origins, not a text."
+  "pg-23524": "Gutenberg's combined table of contents for the Origins, not a text.",
+  "dur-italy-florence-and-venice": "Italy: Florence and Venice (Leypoldt & Holt, 1869; Holt, 1872 and 1880): Durand's name is not legible in the OCR of any scan checked, so the identity check cannot pass.",
+  "dur-ideal-in-art": "The Ideal in Art (Holt; idealinart00taingoog): Durand's name is not legible in the OCR, so the identity check cannot pass.",
+  "dur-lectures-on-art": "Lectures on Art (Holt, 1875, 2 series) reprints The Philosophy of Art, The Ideal in Art, Art in the Netherlands and Art in Greece, so it would hold them twice."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -172,6 +214,39 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "John Durand"
+  },
+  "dur-italy-rome-and-naples": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. durand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dur-art-in-the-netherlands": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. durand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dur-art-in-greece": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john durand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -209,6 +284,32 @@
    "pg": 52980,
    "pg_copyrighted_marker": false,
    "pg_translator": "John Durand"
+  },
+  "dur-italy-rome-and-naples": {
+   "ia": "italyromenaples01tain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1864,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "dur-art-in-the-netherlands": {
+   "ia": "artinnetherlands00tainrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1874
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "dur-art-in-greece": {
+   "ia": "artingreece00tainiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1871
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

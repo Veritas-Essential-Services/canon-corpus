@@ -3752,6 +3752,22 @@
       "finished": "2026-10-17T21:43-05:00",
       "scope": "GAP-FILL (round 100, lane C's choice; Adam may veto) -- french-classics; PD printings before 1931 only; no minting",
       "notes": "+7 titles, now 20; ids checked across all branches. See DIGEST-C round 100. No uids minted."
+    },
+    {
+      "id": "shelf-durand-round101",
+      "status": "done",
+      "started": "2026-10-17T21:47-05:00",
+      "finished": "2026-10-17T21:47-05:00",
+      "scope": "GAP-FILL (round 101, lane C's choice; Adam may veto) -- durand; PD printings before 1931 only; no minting",
+      "notes": "+3 titles, now 10; ids checked across all branches. See DIGEST-C round 101. No uids minted."
+    },
+    {
+      "id": "shelf-french-classics-round101",
+      "status": "done",
+      "started": "2026-10-17T21:47-05:00",
+      "finished": "2026-10-17T21:47-05:00",
+      "scope": "GAP-FILL (round 101, lane C's choice; Adam may veto) -- french-classics; PD printings before 1931 only; no minting",
+      "notes": "+1 titles, now 21; ids checked across all branches. See DIGEST-C round 101. No uids minted."
     }
   ]
 }

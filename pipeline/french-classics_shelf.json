@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal and Senancour's Obermann twice. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
  "_name_words": [
   "a. e. waite",
   "a. r. scoble",
@@ -19,6 +19,8 @@
   "lord berners",
   "robert bruce boswell",
   "scoble",
+  "t . d . h a y e",
+  "t. d. haye",
   "thornton fisher",
   "william hazlitt",
   "william mathews"
@@ -43,6 +45,8 @@
   "lord berners",
   "robert bruce boswell",
   "scoble",
+  "t . d . h a y e",
+  "t. d. haye",
   "thornton fisher",
   "william hazlitt",
   "william mathews"
@@ -132,6 +136,10 @@
   "frc-senancour-obermann-barnes-vol-2": [
    "anthony barnes",
    "j. anthony barnes"
+  ],
+  "frc-taine-on-intelligence": [
+   "t. d. haye",
+   "t . d . h a y e"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -218,6 +226,10 @@
   "frc-senancour-obermann-barnes-vol-2": [
    "obermann02sena",
    "Obermann, vol. II (1910)"
+  ],
+  "frc-taine-on-intelligence": [
+   "onintelligence00tain",
+   "On Intelligence (1872)"
   ]
  },
  "titles": {
@@ -382,6 +394,14 @@
    "translated": "by 1910 (catalogue date)",
    "translator": "J. Anthony Barnes",
    "scan_edition": "Walter Scott Publishing Co., London and Felling-on-Tyne, and New York (undated on the title page; 1910 per the catalogue record); archive.org scan"
+  },
+  "french-classics-taine-on-intelligence": {
+   "source": "frc-taine-on-intelligence",
+   "of": "Hippolyte Taine",
+   "work": "On Intelligence, revised with additions by the author",
+   "translated": "1872",
+   "translator": "T. D. Haye",
+   "scan_edition": "Holt & Williams, New York, 1872; archive.org scan"
   }
  },
  "_pending": {},
@@ -609,6 +629,17 @@
    "ia_date": "1910",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "frc-taine-on-intelligence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t . d . h a y e",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -616,7 +647,7 @@
    "pg": 3875,
    "pg_copyrighted_marker": false,
    "pg_translator": null,
-   "translator_named_in_first_15k_of_body": false
+   "translator_named_in_first_15k_of_body": true
   },
   "frc-racine-dramatic-works-vol-1": {
    "ia": "dramaticworksmet01raciuoft",
@@ -819,6 +850,20 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
+  },
+  "frc-taine-on-intelligence": {
+   "ia": "onintelligence00tain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1864,
+    1869,
+    1872
+   ],
+   "post_1930_years_in_front_15k": [
+    1951,
+    1973
+   ],
+   "post_1930_examined": "Examined in round 101: 1951 and 1973 are among the date-due stamps on a University of Illinois Library return slip, not imprints; the title page reads New York, Holt & Williams, 1872."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

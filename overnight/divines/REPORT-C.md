@@ -276,3 +276,5 @@
 - 2026-10-17T21:37-05:00: round 99: michelet-in-english (11). --verify --record 0 mismatched. mic-history-of-france-vol-1/2 identity overrides (OCR 'G, II SMITH', 'G, H, SMITH').
 
 - 2026-10-17T21:43-05:00: round 100: french-classics +7 (20). --verify --record 0 mismatched; only new _checks recorded. Butler's Select Essays dropped (undated).
+
+- 2026-10-17T21:47-05:00: round 101: durand +3 (10), french-classics +1 (21). --verify --record 0 mismatched; only new _checks recorded.
