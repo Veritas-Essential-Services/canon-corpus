@@ -6702,6 +6702,11 @@ Shelf: `pipeline/henry-sturt_shelf.json`. Five books, including the 1902 Persona
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Personal Idealism, ed. Henry Sturt (Macmillan, 1902) |  | `sturt-personal-idealism-1902` | have-raw (IA `personalidealism00sturiala`) |
+| Idola Theatri (Macmillan, 1906) |  | `sturt-idola-theatri-1906` | have-raw (IA `cu31924029046213`) |
+| The Principles of Understanding (Cambridge, 1915) |  | `sturt-principles-of-understanding-1915` | have-raw (IA `principlesofunde0000henr`) |
+| Socialism and Character (Dutton, 1922) |  | `sturt-socialism-and-character-1922` | have-raw (IA `socialismcharact00stur_0`) |
+| Moral Experience (1928) |  | `sturt-moral-experience-1928` | have-raw (IA `moralexperience032449mbp`) |
 
 Pending (wishlist): Art and Personality (no dated copy yet); The Idea of a Free Church (1909)
 
