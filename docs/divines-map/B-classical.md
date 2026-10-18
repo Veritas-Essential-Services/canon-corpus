@@ -5873,6 +5873,8 @@ Shelf: `pipeline/james-beattie_shelf.json`. The 1776 Essays. Not minted.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Essays on Truth, Poetry and Music, Laughter, and Classical Learning (Edinburgh: Creech, 1776) |  | `beattie-essays-truth-1776` | have-raw (IA `essaysontruth00beatuoft`) |
+| Elements of Moral Science, 2nd ed., vol. I (Creech, 1807) |  | `beattie-elements-moral-science-1807-v1` | have-raw (IA `elementsmoralsci01beatiala`) |
+| Elements of Moral Science, 2nd ed., vol. II (Creech, 1807) |  | `beattie-elements-moral-science-1807-v2` | have-raw (IA `elementsofmorals02beatiala`) |
 
 ## George Campbell (rhetoric and miracles)
 
