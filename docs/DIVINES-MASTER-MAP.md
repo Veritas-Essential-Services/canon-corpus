@@ -31273,6 +31273,39 @@ Shelf: `pipeline/wodehouse-works_shelf.json` (2026-10-17; added at the coordinat
 | pg-58508 | excluded | PG 58508: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 75435: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Booth Tarkington
+
+Shelf: `pipeline/tarkington-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, Penrod books and plays; every text checked as a pre-1931 US publication. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Flirt | have | PG 297, `btarkington-flirt` (1800 units) |
+| The Conquest of Canaan | have | PG 483, `btarkington-conquest-of-canaan` (1834 units) |
+| Alice Adams | have | PG 980, `btarkington-alice-adams` (2351 units) |
+| The Turmoil: A Novel | have | PG 1098, `btarkington-turmoil` (1990 units) |
+| Penrod and Sam | have | PG 1158, `btarkington-penrod-and-sam` (1821 units) |
+| Seventeen A Tale of Youth and Summer Time and the Baxter Family, Especially William | have | PG 1611, `btarkington-seventeen-a-tale-of-youth-and-summer-time-and-th` (1640 units) |
+| His Own People | have | PG 2326, `btarkington-his-own-people` (437 units) |
+| Ramsey Milholland | have | PG 2595, `btarkington-ramsey-milholland` (859 units) |
+| The Two Vanrevels | have | PG 3428, `btarkington-two-vanrevels` (1056 units) |
+| The Guest of Quesnay | have | PG 5756, `btarkington-guest-of-quesnay` (1570 units) |
+| The Beautiful Lady | have | PG 5798, `btarkington-beautiful-lady` (298 units) |
+| Beasley's Christmas Party | have | PG 5949, `btarkington-beasleys-christmas-party` (416 units) |
+| Harlequin and Columbine | have | PG 6401, `btarkington-harlequin-and-columbine` (585 units) |
+| In the Arena: Stories of Political Life | have | PG 8740, `btarkington-in-the-arena` (945 units) |
+| The Magnificent Ambersons | have | PG 8867, `btarkington-magnificent-ambersons` (2324 units) |
+| The Gentleman from Indiana | have | PG 9659, `btarkington-gentleman-from-indiana` (1806 units) |
+| The Gibson Upright (with Harry Leon Wilson) | have | PG 13275, `btarkington-gibson-upright` (1011 units) |
+| The Man from Home (with Harry Leon Wilson) | have | PG 15855, `btarkington-man-from-home` (1566 units) |
+| Gentle Julia | have | PG 18259, `btarkington-gentle-julia` (1861 units) |
+| The Midlander | have | PG 58870, `btarkington-midlander` (2170 units) |
+| The Trysting Place: A Farce in One Act | have | PG 59778, `btarkington-trysting-place` (656 units) |
+| The Fascinating Stranger, and Other Stories | have | PG 60529, `btarkington-fascinating-stranger-and-other-stories` (2548 units) |
+| Women | have | PG 65207, `btarkington-women` (1846 units) |
+| Bimbo, the pirate: A comedy | have | PG 69265, `btarkington-bimbo-the-pirate` (579 units) |
+| The collector's whatnot (with Hugh MacNair Kahler and Kenneth L. Roberts) | have | PG 70597, `btarkington-collectors-whatnot` (548 units) |
+| pg-57721 | excluded | PG 57721: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

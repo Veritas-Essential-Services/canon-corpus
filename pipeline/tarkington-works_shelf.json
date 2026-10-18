@@ -1,0 +1,391 @@
+{
+ "_about": "Booth Tarkington's novels, Penrod books and plays not already on another shelf; pre-1931 US publications only: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Booth Tarkington",
+ "_name_words": [
+  "tarkington"
+ ],
+ "_surname": [
+  "booth tarkington"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "btarkington-flirt": [
+   297,
+   "The Flirt"
+  ],
+  "btarkington-conquest-of-canaan": [
+   483,
+   "The Conquest of Canaan",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-alice-adams": [
+   980,
+   "Alice Adams"
+  ],
+  "btarkington-turmoil": [
+   1098,
+   "The Turmoil: A Novel"
+  ],
+  "btarkington-penrod-and-sam": [
+   1158,
+   "Penrod and Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-seventeen-a-tale-of-youth-and-summer-time-and-th": [
+   1611,
+   "Seventeen A Tale of Youth and Summer Time and the Baxter Family, Especially William"
+  ],
+  "btarkington-his-own-people": [
+   2326,
+   "His Own People",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\..*"
+     }
+    ],
+    "start": "I\\.\\ A\\ Change\\ of\\ Lodging$",
+    "front": true
+   }
+  ],
+  "btarkington-ramsey-milholland": [
+   2595,
+   "Ramsey Milholland",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "btarkington-two-vanrevels": [
+   3428,
+   "The Two Vanrevels",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-guest-of-quesnay": [
+   5756,
+   "The Guest of Quesnay"
+  ],
+  "btarkington-beautiful-lady": [
+   5798,
+   "The Beautiful Lady",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Z]?[a-z]+)*\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter One\\.?$",
+    "front": true
+   }
+  ],
+  "btarkington-beasleys-christmas-party": [
+   5949,
+   "Beasley's Christmas Party"
+  ],
+  "btarkington-harlequin-and-columbine": [
+   6401,
+   "Harlequin and Columbine"
+  ],
+  "btarkington-in-the-arena": [
+   8740,
+   "In the Arena: Stories of Political Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-magnificent-ambersons": [
+   8867,
+   "The Magnificent Ambersons"
+  ],
+  "btarkington-gentleman-from-indiana": [
+   9659,
+   "The Gentleman from Indiana",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-gibson-upright": [
+   13275,
+   "The Gibson Upright (with Harry Leon Wilson)"
+  ],
+  "btarkington-man-from-home": [
+   15855,
+   "The Man from Home (with Harry Leon Wilson)"
+  ],
+  "btarkington-gentle-julia": [
+   18259,
+   "Gentle Julia"
+  ],
+  "btarkington-midlander": [
+   58870,
+   "The Midlander"
+  ],
+  "btarkington-trysting-place": [
+   59778,
+   "The Trysting Place: A Farce in One Act"
+  ],
+  "btarkington-fascinating-stranger-and-other-stories": [
+   60529,
+   "The Fascinating Stranger, and Other Stories"
+  ],
+  "btarkington-women": [
+   65207,
+   "Women",
+   {
+    "contents_only": true
+   }
+  ],
+  "btarkington-bimbo-the-pirate": [
+   69265,
+   "Bimbo, the pirate: A comedy"
+  ],
+  "btarkington-collectors-whatnot": [
+   70597,
+   "The collector's whatnot (with Hugh MacNair Kahler and Kenneth L. Roberts)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57721": "PG 57721: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "btarkington-flirt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-conquest-of-canaan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-alice-adams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-turmoil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-penrod-and-sam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-seventeen-a-tale-of-youth-and-summer-time-and-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-his-own-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-ramsey-milholland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-two-vanrevels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-guest-of-quesnay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-beautiful-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-beasleys-christmas-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-harlequin-and-columbine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-in-the-arena": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-magnificent-ambersons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-gentleman-from-indiana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-gibson-upright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-man-from-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-gentle-julia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-midlander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-trysting-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-fascinating-stranger-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-bimbo-the-pirate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-collectors-whatnot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
