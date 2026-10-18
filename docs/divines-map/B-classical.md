@@ -6881,6 +6881,9 @@ Shelf: `pipeline/w-t-harris_shelf.json`. His philosophy readings, his education 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Journal of Speculative Philosophy, Vol. I (1867) |  | `harris-journal-speculative-philosophy-v1` | have (PG 65097) |
+| Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing) |  | `harris-introduction-study-of-philosophy-1889` | have-raw (IA `introductiontoth00harruoft`) |
+| Psychologic Foundations of Education (Appleton, 1898) |  | `harris-psychologic-foundations-1898` | have-raw (IA `psychologicfound00harr`) |
 
 Pending (wishlist): Hegel's Logic: A Book on the Genesis of the Categories of the Mind (1890)
 

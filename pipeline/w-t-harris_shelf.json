@@ -1,0 +1,64 @@
+{
+ "_about": "William Torrey Harris (1835-1909), St. Louis Hegelian, US Commissioner of Education and founder of The Journal of Speculative Philosophy. Gutenberg: The Journal of Speculative Philosophy, vol. I (1867), which he edited. Raw IA OCR: Introduction to the Study of Philosophy, comprising passages from his writings, edited by Marietta Kies (copyright 1889; this copy New York: Appleton, 1890), clean 0.92; Psychologic Foundations of Education (New York: Appleton, 1898), clean 0.91. US public domain. No uids minted.",
+ "_author": "William Torrey Harris",
+ "_name_words": [
+  "william",
+  "torrey",
+  "harris"
+ ],
+ "_surname": [
+  "harris",
+  "w. t. harris"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "harris-journal-speculative-philosophy-v1": [
+   65097,
+   "The Journal of Speculative Philosophy, Vol. I (1867)"
+  ]
+ },
+ "internet_archive": {
+  "harris-introduction-study-of-philosophy-1889": [
+   "introductiontoth00harruoft",
+   "Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing)"
+  ],
+  "harris-psychologic-foundations-1898": [
+   "psychologicfound00harr",
+   "Psychologic Foundations of Education (Appleton, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "harris-journal-speculative-philosophy-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "harris-introduction-study-of-philosophy-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "harris-psychologic-foundations-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
