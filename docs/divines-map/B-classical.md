@@ -5746,6 +5746,7 @@ Shelf: `pipeline/george-savile-halifax_shelf.json`. One Gutenberg text (1750). N
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Character of King Charles the Second, and Political, Moral and Miscellaneous Thoughts (Tonson and Draper, 1750) |  | `halifax-character-of-charles-ii-1750` | have (PG 35708) |
 
 Pending (wishlist): The Character of a Trimmer (in Raleigh's Complete Works of George Savile, Oxford 1912)
 
