@@ -7234,6 +7234,11 @@ Shelf: `pipeline/irving-babbitt_shelf.json`. Five books, 1908-1924.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Rousseau and Romanticism (1919) |  | `babbitt-rousseau-and-romanticism` | have (PG 50235) |
+| Democracy and Leadership (1924) |  | `babbitt-democracy-and-leadership` | have (PG 79644) |
+| Literature and the American College (Houghton Mifflin, 1908) |  | `babbitt-literature-and-the-american-college-1908` | have-raw (IA `literatureameric00babbuoft`) |
+| The New Laokoon (Houghton Mifflin, 1910; impression of 1926) |  | `babbitt-new-laokoon-1926` | have-raw (IA `thenewlaokoonane00babbuoft`) |
+| The Masters of Modern French Criticism (Houghton Mifflin, 1912) |  | `babbitt-masters-modern-french-criticism-1912` | have-raw (IA `mastersofmodernf00babb`) |
 
 ## A. Lawrence Lowell (government and public opinion)
 
