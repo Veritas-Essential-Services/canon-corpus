@@ -1,0 +1,744 @@
+{
+ "_about": "John Galsworthy's novels (The Forsyte Saga books), plays and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "John Galsworthy",
+ "_name_words": [
+  "galsworthy"
+ ],
+ "_surname": [
+  "john galsworthy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "galsworthy-dark-flower": [
+   2192,
+   "The Dark Flower",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-freelands": [
+   2309,
+   "The Freelands",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-beyond": [
+   2453,
+   "Beyond",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-villa-rubein-and-other-stories": [
+   2639,
+   "Villa Rubein, and Other Stories"
+  ],
+  "galsworthy-saints-progress": [
+   2683,
+   "Saint's Progress"
+  ],
+  "galsworthy-five-tales": [
+   2684,
+   "Five Tales"
+  ],
+  "galsworthy-island-pharisees": [
+   2771,
+   "The Island Pharisees"
+  ],
+  "galsworthy-country-house": [
+   2772,
+   "The Country House"
+  ],
+  "galsworthy-fraternity": [
+   2773,
+   "Fraternity"
+  ],
+  "galsworthy-patrician": [
+   2774,
+   "The Patrician"
+  ],
+  "galsworthy-studies-and-essays": [
+   2901,
+   "Studies and Essays: Censorship and Art"
+  ],
+  "galsworthy-studies-and-essays-2902": [
+   2902,
+   "Studies and Essays: Concerning Letters"
+  ],
+  "galsworthy-studies-and-essays-2903": [
+   2903,
+   "Studies and Essays: The Inn of Tranquility, and Others"
+  ],
+  "galsworthy-studies-and-essays-2904": [
+   2904,
+   "Studies and Essays: Quality, and Others"
+  ],
+  "galsworthy-burning-spear": [
+   2905,
+   "The Burning Spear: Being the Experiences of Mr. John Lavender in the Time of War"
+  ],
+  "galsworthy-silver-box": [
+   2906,
+   "The Silver Box: A Comedy in Three Acts"
+  ],
+  "galsworthy-joy": [
+   2907,
+   "Joy: A Play on the Letter \"I\""
+  ],
+  "galsworthy-strife": [
+   2908,
+   "Strife: A Drama in Three Acts"
+  ],
+  "galsworthy-eldest-son": [
+   2909,
+   "The Eldest Son"
+  ],
+  "galsworthy-little-dream": [
+   2910,
+   "The Little Dream: An Allegory in Six Scenes"
+  ],
+  "galsworthy-justice": [
+   2911,
+   "Justice"
+  ],
+  "galsworthy-fugitive": [
+   2912,
+   "The Fugitive: A Play in Four Acts"
+  ],
+  "galsworthy-pigeon": [
+   2913,
+   "The Pigeon: A Fantasy in Three Acts"
+  ],
+  "galsworthy-mob": [
+   2914,
+   "The Mob: A Play in Four Acts"
+  ],
+  "galsworthy-a-bit-o-love": [
+   2915,
+   "A Bit O' Love"
+  ],
+  "galsworthy-foundations-an-extravagant-play": [
+   2916,
+   "The Foundations (An Extravagant Play)"
+  ],
+  "galsworthy-skin-game-a-tragi-comedy": [
+   2917,
+   "The Skin Game (A Tragi-Comedy)"
+  ],
+  "galsworthy-first-and-the-last": [
+   2918,
+   "The First and the Last: A Drama in Three Scenes"
+  ],
+  "galsworthy-little-man": [
+   2919,
+   "The Little Man: A Farcical Morality in Three Scenes"
+  ],
+  "galsworthy-four-short-plays": [
+   2920,
+   "Four Short Plays"
+  ],
+  "galsworthy-to-let": [
+   3817,
+   "To Let",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-complete-essays-of-john-galsworthy": [
+   4261,
+   "The Complete Essays of John Galsworthy"
+  ],
+  "galsworthy-complete-plays-of-john-galsworthy": [
+   4269,
+   "Complete Plays of John Galsworthy"
+  ],
+  "galsworthy-forsyte-saga-complete": [
+   4397,
+   "The Forsyte saga - Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-a-family-man": [
+   4764,
+   "A Family Man : in three acts"
+  ],
+  "galsworthy-loyalties": [
+   4765,
+   "Loyalties"
+  ],
+  "galsworthy-windows": [
+   4766,
+   "Windows"
+  ],
+  "galsworthy-plays": [
+   5055,
+   "Plays : First Series"
+  ],
+  "galsworthy-plays-5056": [
+   5056,
+   "Plays : Second Series"
+  ],
+  "galsworthy-plays-5057": [
+   5057,
+   "Plays : Third Series"
+  ],
+  "galsworthy-plays-5058": [
+   5058,
+   "Plays : Fourth Series"
+  ],
+  "galsworthy-plays-5059": [
+   5059,
+   "Plays : Fifth Series"
+  ],
+  "galsworthy-six-short-plays": [
+   5060,
+   "Six Short Plays"
+  ],
+  "galsworthy-tatterdemalion": [
+   28089,
+   "Tatterdemalion",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-another-sheaf": [
+   29711,
+   "Another Sheaf"
+  ],
+  "galsworthy-a-sheaf": [
+   57778,
+   "A Sheaf",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-captures": [
+   65252,
+   "Captures",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-international-thought": [
+   66973,
+   "International Thought"
+  ],
+  "galsworthy-a-commentary": [
+   68242,
+   "A Commentary"
+  ],
+  "galsworthy-addresses-in-america-1919": [
+   69296,
+   "Addresses in America, 1919",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-jocelyn": [
+   73672,
+   "Jocelyn"
+  ],
+  "galsworthy-abracadabra-other-satires": [
+   75431,
+   "Abracadabra & other satires",
+   {
+    "contents_only": true
+   }
+  ],
+  "galsworthy-from-the-four-winds": [
+   75539,
+   "From the four winds",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28760": "PG 28760: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 2559, 2594, 2596: the complete edition of each is on the shelf instead.",
+  "pg-3459": "PG 3459, 7544: David Widger's quotation and image selections, not books by Galsworthy.",
+  "pg-3254": "PG 3254: a Gutenberg omnibus file that joins the separate books already on the shelf."
+ },
+ "_checks": {
+  "galsworthy-dark-flower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-freelands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-beyond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-villa-rubein-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-saints-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-five-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-island-pharisees": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-country-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-fraternity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-patrician": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-studies-and-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-studies-and-essays-2902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-studies-and-essays-2903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-studies-and-essays-2904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-burning-spear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-silver-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-joy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-strife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-eldest-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-little-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-justice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-fugitive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-pigeon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-mob": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-a-bit-o-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-foundations-an-extravagant-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-skin-game-a-tragi-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-first-and-the-last": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-little-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-four-short-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-to-let": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-complete-essays-of-john-galsworthy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-complete-plays-of-john-galsworthy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-forsyte-saga-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-a-family-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-loyalties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-windows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-plays-5056": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-plays-5057": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-plays-5058": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-plays-5059": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-six-short-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-tatterdemalion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-another-sheaf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-a-sheaf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-captures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-international-thought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-a-commentary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-addresses-in-america-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-jocelyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-abracadabra-other-satires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galsworthy-from-the-four-winds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john galsworthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

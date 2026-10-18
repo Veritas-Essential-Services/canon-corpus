@@ -8249,6 +8249,70 @@ Shelf: `pipeline/arnold-bennett_shelf.json` (2026-10-17; added at the coordinato
 | repeat-editions | excluded | PG 13852: second Gutenberg editions of titles already on the shelf. |
 | pg-64933 | excluded | PG 64933 The Arnold Bennett Calendar: extracts compiled by Frank C. Bennett. |
 
+## John Galsworthy
+
+Shelf: `pipeline/galsworthy_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (53 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dark Flower | have | PG 2192, `galsworthy-dark-flower` (1515 units) |
+| The Freelands | have | PG 2309, `galsworthy-freelands` (2225 units) |
+| Beyond | have | PG 2453, `galsworthy-beyond` (2640 units) |
+| Villa Rubein, and Other Stories | have | PG 2639, `galsworthy-villa-rubein-and-other-stories` (2422 units) |
+| Saint's Progress | have | PG 2683, `galsworthy-saints-progress` (2108 units) |
+| Five Tales | have | PG 2684, `galsworthy-five-tales` (2402 units) |
+| The Island Pharisees | have | PG 2771, `galsworthy-island-pharisees` (1972 units) |
+| The Country House | have | PG 2772, `galsworthy-country-house` (2220 units) |
+| Fraternity | have | PG 2773, `galsworthy-fraternity` (2809 units) |
+| The Patrician | have | PG 2774, `galsworthy-patrician` (2167 units) |
+| Studies and Essays: Censorship and Art | have | PG 2901, `galsworthy-studies-and-essays` (53 units) |
+| Studies and Essays: Concerning Letters | have | PG 2902, `galsworthy-studies-and-essays-2902` (172 units) |
+| Studies and Essays: The Inn of Tranquility, and Others | have | PG 2903, `galsworthy-studies-and-essays-2903` (267 units) |
+| Studies and Essays: Quality, and Others | have | PG 2904, `galsworthy-studies-and-essays-2904` (194 units) |
+| The Burning Spear: Being the Experiences of Mr. John Lavender in the Time of War | have | PG 2905, `galsworthy-burning-spear` (1288 units) |
+| The Silver Box: A Comedy in Three Acts | have | PG 2906, `galsworthy-silver-box` (929 units) |
+| Joy: A Play on the Letter "I" | have | PG 2907, `galsworthy-joy` (1263 units) |
+| Strife: A Drama in Three Acts | have | PG 2908, `galsworthy-strife` (1225 units) |
+| The Eldest Son | have | PG 2909, `galsworthy-eldest-son` (975 units) |
+| The Little Dream: An Allegory in Six Scenes | have | PG 2910, `galsworthy-little-dream` (359 units) |
+| Justice | have | PG 2911, `galsworthy-justice` (1185 units) |
+| The Fugitive: A Play in Four Acts | have | PG 2912, `galsworthy-fugitive` (1068 units) |
+| The Pigeon: A Fantasy in Three Acts | have | PG 2913, `galsworthy-pigeon` (991 units) |
+| The Mob: A Play in Four Acts | have | PG 2914, `galsworthy-mob` (888 units) |
+| A Bit O' Love | have | PG 2915, `galsworthy-a-bit-o-love` (899 units) |
+| The Foundations (An Extravagant Play) | have | PG 2916, `galsworthy-foundations-an-extravagant-play` (1170 units) |
+| The Skin Game (A Tragi-Comedy) | have | PG 2917, `galsworthy-skin-game-a-tragi-comedy` (1401 units) |
+| The First and the Last: A Drama in Three Scenes | have | PG 2918, `galsworthy-first-and-the-last` (470 units) |
+| The Little Man: A Farcical Morality in Three Scenes | have | PG 2919, `galsworthy-little-man` (341 units) |
+| Four Short Plays | have | PG 2920, `galsworthy-four-short-plays` (751 units) |
+| To Let | have | PG 3817, `galsworthy-to-let` (2348 units) |
+| The Complete Essays of John Galsworthy | have | PG 4261, `galsworthy-complete-essays-of-john-galsworthy` (693 units) |
+| Complete Plays of John Galsworthy | have | PG 4269, `galsworthy-complete-plays-of-john-galsworthy` (17672 units) |
+| The Forsyte saga - Complete | have | PG 4397, `galsworthy-forsyte-saga-complete` (7964 units) |
+| A Family Man : in three acts | have | PG 4764, `galsworthy-a-family-man` (1329 units) |
+| Loyalties | have | PG 4765, `galsworthy-loyalties` (1283 units) |
+| Windows | have | PG 4766, `galsworthy-windows` (1175 units) |
+| Plays : First Series | have | PG 5055, `galsworthy-plays` (3412 units) |
+| Plays : Second Series | have | PG 5056, `galsworthy-plays-5056` (2517 units) |
+| Plays : Third Series | have | PG 5057, `galsworthy-plays-5057` (2942 units) |
+| Plays : Fourth Series | have | PG 5058, `galsworthy-plays-5058` (3466 units) |
+| Plays : Fifth Series | have | PG 5059, `galsworthy-plays-5059` (3789 units) |
+| Six Short Plays | have | PG 5060, `galsworthy-six-short-plays` (1554 units) |
+| Tatterdemalion | have | PG 28089, `galsworthy-tatterdemalion` (991 units) |
+| Another Sheaf | have | PG 29711, `galsworthy-another-sheaf` (826 units) |
+| A Sheaf | have | PG 57778, `galsworthy-a-sheaf` (1189 units) |
+| Captures | have | PG 65252, `galsworthy-captures` (1671 units) |
+| International Thought | have | PG 66973, `galsworthy-international-thought` (20 units) |
+| A Commentary | have | PG 68242, `galsworthy-a-commentary` (652 units) |
+| Addresses in America, 1919 | have | PG 69296, `galsworthy-addresses-in-america-1919` (182 units) |
+| Jocelyn | have | PG 73672, `galsworthy-jocelyn` (1103 units) |
+| Abracadabra & other satires | have | PG 75431, `galsworthy-abracadabra-other-satires` (1133 units) |
+| From the four winds | have | PG 75539, `galsworthy-from-the-four-winds` (918 units) |
+| pg-28760 | excluded | PG 28760: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 2559, 2594, 2596: the complete edition of each is on the shelf instead. |
+| pg-3459 | excluded | PG 3459, 7544: David Widger's quotation and image selections, not books by Galsworthy. |
+| pg-3254 | excluded | PG 3254: a Gutenberg omnibus file that joins the separate books already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

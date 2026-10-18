@@ -2853,6 +2853,14 @@
       "started": "2026-10-17T19:32:36-05:00",
       "finished": "2026-10-17T19:32:36-05:00",
       "notes": "arnold-bennett: new shelf, 50 Gutenberg books, 75,549 units, 6091 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "galsworthy",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — John Galsworthy; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:32:37-05:00",
+      "finished": "2026-10-17T19:32:38-05:00",
+      "notes": "galsworthy: new shelf, 53 Gutenberg books, 97,198 units, 23247 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
