@@ -1011,3 +1011,17 @@
 - Tarde: Social Laws, tr. Howard C. Warren (1899)
 - Hocking: Man and the State (Yale, 1926)
 - Held: Dewey's Public and its Problems (Swallow reprints only); Speculum Mentis (1946 reprint only)
+
+## 2026-10-17 19:17 CDT — Round am: wishlist fill, sixth batch
+- McTaggart: Commentary on Hegel's Logic (1910)
+- Schiller: Riddles of the Sphinx (1891, anonymous; identity check recorded)
+- Bain: Senses and the Intellect (1879); Mental and Moral Science (1872)
+- Lewes: Problems of Life and Mind I-II (1874, 1876); Comte's Philosophy of the Sciences (1853)
+- Baldwin: Thought and Things I-III (1906-11)
+- Levy-Bruhl: Philosophy of Comte (1903)
+- Ribot: Heredity (1875), English Psychology (1874), Diseases of Personality (1887)
+- Mendelssohn: Phaedon, tr. Cullen (1789)
+- Malthus: Principles of Political Economy (Boston, 1821)
+- Descartes: Haldane and Ross vol. II (1912)
+- Carus: Fundamental Problems (1889)
+- Held: Boole 1847 (1948 facsimile only); Schleiermacher Soliloquies (download failed)

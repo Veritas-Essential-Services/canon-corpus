@@ -228,3 +228,4 @@
 - 19:07 round aj: Cusa's Vision of God; Lecky's Rationalism and Ferrier vol. II complete their sets. Ibn Gabirol (Arabic facing) waits on the facing-text ruling with the Greek ones.
 - 19:09 round ak: 10 volumes completing tonight's Victorian shelves (Martineau, Maine, John Grote, Stirling, Huxley).
 - 19:12 round al: 5 wishlist volumes added; Dewey Public and its Problems and Speculum Mentis still held as post-1930 printings.
+- 19:17 round am: 18 wishlist volumes on 11 shelves; Boole's 1847 Analysis held (facsimile only).
