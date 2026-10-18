@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:13 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:14 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -906,6 +906,7 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | Bar Hebraeus | bar-hebraeus_shelf.json | none | 2 (Bar Hebraeus's Book of the Dove, together with some chapters from his Ethikon, tr. A. J. Wensinck (Leyden: E. J. Brill, 1919); Commentary on the Gospels from the Horreum Mysteriorum, tr. Wilmot Eardley W. Carr (London: SPCK; New York and Toronto: Macmillan, 1925)) | none | The Laughable Stories (Budge shelf); the Chronography (1932) and Scholia (1931), too late |
 | John of Ephesus | john-of-ephesus_shelf.json | none | 3 (The Third Part of the Ecclesiastical History of John Bishop of Ephesus, tr. R. Payne Smith (Oxford: University Press, 1860); John of Ephesus, Lives of the Eastern Saints, I, Syriac text edited and translated by E. W. Brooks, Patrologia Orientalis XVII.1 (Paris: Firmin-Didot, 1923); John of Ephesus, Lives of the Eastern Saints, III, edited and translated by E. W. Brooks, Patrologia Orientalis XIX (Paris: Firmin-Didot, 1926)) | none | Margoliouth's Syriac extracts (1909); Cureton's Syriac (1853) |
 | Joshua the Stylite | joshua-the-stylite_shelf.json | none | 1 (The Chronicle of Joshua the Stylite, composed in Syriac A.D. 507, with a translation into English and notes by W. Wright (Cambridge: University Press, 1882)) | none | The 1968 Amsterdam reprint |
+| Macarius the Egyptian | macarius-of-egypt_shelf.json | none | 2 (Fifty Spiritual Homilies of St. Macarius the Egyptian, by A. J. Mason, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921); Primitive Morality: or, The Spiritual Homilies of St. Macarius the Egyptian, done out of Greek into English by a Presbyter of the Church of England (London: W. Taylor; W. and J. Innys; J. Osborn, MDCCXXI)) | none | Marriott's Macarii Anecdota (1918, Greek text); Macarius Magnes and Macarius of Antioch (different men) |
 
 ## Paused 2026-10-10 15:12 CDT
 

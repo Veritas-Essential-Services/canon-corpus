@@ -9361,3 +9361,14 @@ Slugs `joshua-*`. Built from title pages read for round 38.
 | The Chronicle of Joshua the Stylite, composed in Syriac A.D. 507, with a translation into English and notes by W. Wright (Cambridge: University Press, 1882) | have-ocr | IA `chronicleofjoshu00josh` |
 | chronicleofjoshu00josh_0 and joshua-stylite-1882 (1882) | alternate | not shelved |
 | The 1968 Amsterdam reprint | excluded | |
+
+## Macarius the Egyptian (round 38, my pick, 2026-10-18)
+
+Slugs `macarius-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| Fifty Spiritual Homilies of St. Macarius the Egyptian, by A. J. Mason, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921) | have-ocr | IA `fiftyspiritualho00pseuuoft` |
+| Primitive Morality: or, The Spiritual Homilies of St. Macarius the Egyptian, done out of Greek into English by a Presbyter of the Church of England (London: W. Taylor; W. and J. Innys; J. Osborn, MDCCXXI) | have-ocr | IA `primitivemoralit00maca` |
+| Four other scans of Mason 1921; the ECCO microfilm of Primitive Morality (1721) | alternate | not shelved |
+| Marriott's Macarii Anecdota (1918, Greek text); Macarius Magnes and Macarius of Antioch (different men) | excluded | |

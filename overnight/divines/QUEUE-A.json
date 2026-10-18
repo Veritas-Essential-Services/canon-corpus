@@ -5393,10 +5393,12 @@
     },
     {
       "id": "macarius-of-egypt",
-      "status": "queued",
+      "status": "done",
       "scope": "round 38: Syriac, Greek and Russian Christian writers in English, before 1930",
       "added": "2026-10-18T03:58Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T23:14:01-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "peter-mogila",
