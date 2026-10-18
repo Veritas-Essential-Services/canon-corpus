@@ -1,5 +1,5 @@
 {
- "_about": "William Thomas Thornton (1813-1880), economist of labour and the India Office: Old-Fashioned Ethics and Common-Sense Metaphysics, with some of their applications (London: Macmillan, 1873), clean Gutenberg text. Wanted: On Labour (1869). Not Thornton Wilder. US public domain. No uids minted.",
+ "_about": "William Thomas Thornton (1813-1880), economist of labour and the India Office: Old-Fashioned Ethics and Common-Sense Metaphysics, with some of their applications (London: Macmillan, 1873), clean Gutenberg text. Not Thornton Wilder. US public domain. Added in round 2026-10-17bl: On Labour, its wrongful claims and rightful dues, second edition (London: Macmillan, 1870), raw IA OCR, clean 0.93. No uids minted.",
  "_author": "William Thomas Thornton",
  "_name_words": [
   "william",
@@ -16,7 +16,12 @@
    "Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "thornton-on-labour-1870": [
+   "onlabouritswrong00thoruoft",
+   "On Labour, second edition (Macmillan, 1870)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "thornton-old-fashioned-ethics-1873": {
@@ -27,6 +32,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "thornton-on-labour-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thornton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

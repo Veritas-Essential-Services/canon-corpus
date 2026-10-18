@@ -5687,6 +5687,7 @@ Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not mi
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873) |  | `thornton-old-fashioned-ethics-1873` | have (PG 29917) |
+| On Labour, second edition (Macmillan, 1870) |  | `thornton-on-labour-1870` | have-raw (IA `onlabouritswrong00thoruoft`) |
 
 ## William Graham Sumner (sociology and political economy)
 
