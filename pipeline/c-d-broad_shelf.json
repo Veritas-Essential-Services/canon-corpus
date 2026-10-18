@@ -1,0 +1,79 @@
+{
+ "_about": "C. D. Broad (1887-1971), Cambridge philosopher: Perception, Physics, and Reality (Cambridge: University Press, 1914); Scientific Thought (London: Kegan Paul; New York: Harcourt, Brace, 1923; the OCR reads the year 'I923'); The Mind and its Place in Nature, the Tarner Lectures (Kegan Paul and Harcourt, Brace, 1925); Five Types of Ethical Theory (Kegan Paul and Harcourt, Brace, 1930). Raw IA OCR, clean 0.93-0.95. Not taken: a copy of Five Types whose title page records a 1934 impression. US public domain (all published by 1930). No uids minted.",
+ "_author": "C. D. Broad",
+ "_name_words": [
+  "charlie",
+  "dunbar",
+  "broad"
+ ],
+ "_surname": [
+  "broad"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "broad-perception-physics-reality-1914": [
+   "perceptionphysic00broa",
+   "Perception, Physics, and Reality (Cambridge, 1914)"
+  ],
+  "broad-scientific-thought-1923": [
+   "scientificthough00broauoft",
+   "Scientific Thought (Kegan Paul, 1923)"
+  ],
+  "broad-mind-and-its-place-1925": [
+   "minditsplaceinna00broa",
+   "The Mind and its Place in Nature, Tarner Lectures (Kegan Paul, 1925)"
+  ],
+  "broad-five-types-ethical-theory-1930": [
+   "fivetypesofethic00broa_0",
+   "Five Types of Ethical Theory (Kegan Paul, 1930)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "broad-perception-physics-reality-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "broad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "broad-scientific-thought-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "broad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "broad-mind-and-its-place-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "broad",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "broad-five-types-ethical-theory-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "broad",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
