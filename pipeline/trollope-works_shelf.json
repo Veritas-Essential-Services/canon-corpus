@@ -404,6 +404,17 @@
   "atrollope-south-australia-and-western-australia": [
    70385,
    "South Australia and Western Australia"
+  ],
+  "atrollope-north-america-volume-1": [
+   1865,
+   "North America — Volume 1",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-north-america-volume-2": [
+   1866,
+   "North America — Volume 2"
   ]
  },
  "internet_archive": {},
@@ -1134,6 +1145,24 @@
    "pg_translator": null
   },
   "atrollope-south-australia-and-western-australia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-north-america-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-north-america-volume-2": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
