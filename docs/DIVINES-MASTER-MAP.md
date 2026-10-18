@@ -8175,6 +8175,23 @@ Slugs `ewbullinger-*`. Built from title pages read for round 34.
 | How to Enjoy the Bible, or the 'Word' and 'the Words', how to study them (London: Eyre and Spottiswoode, 1907) | have-ocr | IA `howtoenjoybible0000unse_y7m7` |
 | Number in Scripture second edition (1895); Witness of the Stars fourth edition (1921); a second 1898 Figures of Speech; How to Enjoy the Bible 1910 and 1916; Ten Sermons on the Second Advent, fifth edition (1905); the Critical Lexicon fifth edition (1908) | alternate | not shelved |
 | CCEL bullinger/apocalypse (states Revell 1909 but carries a 1984 Kregel call number); the 1935 Apocalypse; Things to Come (a periodical); the Companion Bible; Kregel, Baker and Zondervan reprints | excluded | |
+
+## Sir Robert Anderson (round 34, my pick, 2026-10-18)
+
+Slugs `randerson-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Coming Prince, the Last Great Monarch of Christendom, second edition, revised (London: Hodder and Stoughton; year OCR'd '«i 882') | have-ocr | IA `comingprince0000robe_e8r5` |
+| The Coming Prince, or the Seventy Weeks of Daniel, with an Answer to the Higher Criticism, sixth edition (London: Hodder and Stoughton, 1898) | have-ocr | IA `bwb_KT-266-804` |
+| Human Destiny (London: Hodder and Stoughton, 1886) | have-ocr | IA `bwb_C0-CDH-527` |
+| The Gospel and its Ministry, fifth edition (London: James Nisbet, 1890) | have-ocr | IA `gospelitsministr0000robe` |
+| Daniel in the Critics' Den: a reply to Dean Farrar's 'Book of Daniel' (Edinburgh and London: William Blackwood and Sons, 1895) | have-ocr | IA `danielincriticsd1895ande` |
+| The Silence of God (New York: Dodd, Mead, 1897) | have-ocr | IA `silenceofgod00anderich` |
+| The Buddha of Christendom (London: Hodder and Stoughton, 1899) | have-ocr | IA `buddhaofchristen00anderich` |
+| The Bible and Modern Criticism, with a preface by Handley C. G. Moule, fifth edition (London: Hodder and Stoughton, 1905) | have-ocr | IA `biblemoderncrit00andeuoft` |
+| Human Destiny (Toronto: Willard Tract Depository, 1886); Gospel and its Ministry sixth edition; Silence of God seventh edition (1905) and other 1897 copies; Pseudo-Criticism (Revell, copyright 1904); the undated seventh-edition Bible and Modern Criticism | alternate | not shelved |
+| The undated eleventh-edition Coming Prince (Pickering & Inglis, E.C.4, 1917 or later, possibly after 1929); the 1954 and Kregel reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1699,3 +1699,6 @@
 
 ## 2026-10-17 22:09 CDT — e-w-bullinger done
 - `pipeline/e-w-bullinger_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for ewbullinger-enjoy-bible, ewbullinger-book-of-job (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — sir-robert-anderson done
+- `pipeline/sir-robert-anderson_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for randerson-coming-prince-6 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

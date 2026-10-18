@@ -1,0 +1,153 @@
+{
+ "_about": "Public-domain Sir Robert Anderson (1841-1918), Assistant Commissioner of the Metropolitan Police and Brethren lay theologian, for the Word Hoard: The Coming Prince (second edition about 1882, and the sixth, 1898), Human Destiny (1886), The Gospel and its Ministry (fifth edition, 1890), Daniel in the Critics' Den (1895), The Silence of God (1897), The Buddha of Christendom (1899) and The Bible and Modern Criticism (fifth edition, 1905), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "anderson"
+ ],
+ "_surname": [
+  "robert anderson",
+  "sir robert anderson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "randerson-coming-prince-2": [
+   "comingprince0000robe_e8r5",
+   "The Coming Prince, the Last Great Monarch of Christendom, second edition, revised (London: Hodder and Stoughton; year OCR'd '«i 882')"
+  ],
+  "randerson-coming-prince-6": [
+   "bwb_KT-266-804",
+   "The Coming Prince, or the Seventy Weeks of Daniel, with an Answer to the Higher Criticism, sixth edition (London: Hodder and Stoughton, 1898)"
+  ],
+  "randerson-human-destiny": [
+   "bwb_C0-CDH-527",
+   "Human Destiny (London: Hodder and Stoughton, 1886)"
+  ],
+  "randerson-gospel-ministry": [
+   "gospelitsministr0000robe",
+   "The Gospel and its Ministry, fifth edition (London: James Nisbet, 1890)"
+  ],
+  "randerson-daniel-critics-den": [
+   "danielincriticsd1895ande",
+   "Daniel in the Critics' Den: a reply to Dean Farrar's 'Book of Daniel' (Edinburgh and London: William Blackwood and Sons, 1895)"
+  ],
+  "randerson-silence-of-god": [
+   "silenceofgod00anderich",
+   "The Silence of God (New York: Dodd, Mead, 1897)"
+  ],
+  "randerson-buddha-christendom": [
+   "buddhaofchristen00anderich",
+   "The Buddha of Christendom (London: Hodder and Stoughton, 1899)"
+  ],
+  "randerson-bible-modern-criticism": [
+   "biblemoderncrit00andeuoft",
+   "The Bible and Modern Criticism, with a preface by Handley C. G. Moule, fifth edition (London: Hodder and Stoughton, 1905)"
+  ]
+ },
+ "_alternates": {
+  "randerson-copies": "Human Destiny (Toronto: Willard Tract Depository, 1886); Gospel and its Ministry sixth edition; Silence of God seventh edition (1905) and other 1897 copies; Pseudo-Criticism (Revell, copyright 1904); the undated seventh-edition Bible and Modern Criticism"
+ },
+ "_excluded": {
+  "randerson-later": "The undated eleventh-edition Coming Prince (Pickering & Inglis, E.C.4, 1917 or later, possibly after 1929); the 1954 and Kregel reprints"
+ },
+ "_identity_checked": {
+  "randerson-coming-prince-6": {
+   "author": "title page read: 'ROBERT ANDERSON, C.B., LL.D.' (OCR 'AN DIERSON')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "randerson-unread": "Human Destiny (Pickering & Inglis, catalogued 1913): title page not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "randerson-coming-prince-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "randerson-coming-prince-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "randerson-human-destiny": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "randerson-gospel-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "randerson-daniel-critics-den": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "randerson-silence-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "randerson-buddha-christendom": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "randerson-bible-modern-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert anderson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
