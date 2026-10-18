@@ -1876,3 +1876,6 @@
 
 ## 2026-10-17 22:51 CDT — boniface-of-mainz done
 - `pipeline/boniface-of-mainz_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:55 CDT — patrick-of-ireland done
+- `pipeline/patrick-of-ireland_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

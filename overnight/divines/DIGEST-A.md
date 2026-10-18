@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:51 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:55 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -868,6 +868,7 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | Gregory the Great | gregory-the-great_shelf.json | none | 5 (Morals on the Book of Job, vol. I, parts I and II, Library of Fathers of the Holy Catholic Church (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, MDCCCXLIV); Morals on the Book of Job, vol. II, parts III and IV, Library of the Fathers (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, 1845); Morals on the Book of Job, vol. III, first part (part V and books XXVIII-XXIX), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII); Morals on the Book of Job, vol. III, second part (books XXX-XXXV), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCL); The Dialogues of St. Gregory the Great: an Old English Version, edited by Henry James Coleridge, S.J., Quarterly Series vol. 9 (London: Burns and Oates, 1874)) | none | Pastoral Rule and Epistles (Hedley shelf; Schaff NPNF in PR #11); the Gardner 1911 Dialogues (medieval-lives shelf); Zimmerman 1959 |
 | Adam of St Victor | adam-of-saint-victor_shelf.json | none | 3 (The Liturgical Poetry of Adam of St. Victor, vol. I, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI); The Liturgical Poetry of Adam of St. Victor, vol. II, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI); The Liturgical Poetry of Adam of St. Victor, vol. III, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI)) | none |  |
 | Boniface | boniface-of-mainz_shelf.json | none | 1 (The English Correspondence of Saint Boniface, tr. Edward Kylie, The King's Classics (London: Chatto & Windus, 1911)) | none | Emerton, The Letters of Saint Boniface (1940); Lives of him by other hands |
+| Patrick | patrick-of-ireland_shelf.json | none | 4 (The Writings of St. Patrick, the Apostle of Ireland: a revised translation, by George Thomas Stokes and Charles H. H. Wright (London: James Nisbet; Dublin: Hodges, Figgis, 1887); A Translation of the Latin Writings of St. Patrick, by Newport J. D. White, Texts for Students No. 9 (London: SPCK, 1918); The Confession of Saint Patrick, translated from the original Latin by Archdeacon Hamilton (Dublin: John Charles O'Reilly, 1859); The Epistles and Hymn of Saint Patrick, with the Poem of Secundinus, translated by Thomas Olden (Dublin: Hodges, Foster, & Co., 1876)) | none | CCEL's Confession (a modern web translation with no print source); the Latin texts (Libri Sancti Patricii); O'Leary's Most Ancient Lives (PG 18482, a mixed volume, translator not named); Lives by Bury, Healy and Stokes |
 
 ## Paused 2026-10-10 15:12 CDT
 

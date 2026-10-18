@@ -9025,6 +9025,19 @@ Slugs `boniface-*`. Built from title pages read for round 37.
 | The English Correspondence of Saint Boniface, tr. Edward Kylie, The King's Classics (London: Chatto & Windus, 1911) | have-ocr | IA `englishcorrespon00boniuoft` |
 | cihm_84747 (microfiche of the same 1911 edition) | alternate | not shelved |
 | Emerton, The Letters of Saint Boniface (1940); Lives of him by other hands | excluded | |
+
+## Patrick (round 37, my pick, 2026-10-18)
+
+Slugs `patrick-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Writings of St. Patrick, the Apostle of Ireland: a revised translation, by George Thomas Stokes and Charles H. H. Wright (London: James Nisbet; Dublin: Hodges, Figgis, 1887) | have-ocr | IA `writingsofstpatr0000patr` |
+| A Translation of the Latin Writings of St. Patrick, by Newport J. D. White, Texts for Students No. 9 (London: SPCK, 1918) | have-ocr | IA `translationoflat00patrrich` |
+| The Confession of Saint Patrick, translated from the original Latin by Archdeacon Hamilton (Dublin: John Charles O'Reilly, 1859) | have-ocr | IA `confessionofsain00patr` |
+| The Epistles and Hymn of Saint Patrick, with the Poem of Secundinus, translated by Thomas Olden (Dublin: Hodges, Foster, & Co., 1876) | have-ocr | IA `epistlesandhymn00patrgoog` |
+| White's St. Patrick, his Writings and Life (SPCK, 1920; also holds Muirchu's Life); Wright's RTS editions (undated title pages); Olden's Confession (Dublin: M'Glashan, title page year not read); TheConfessionOfStPatrick and TheEpistlesAndHymnOfStPatrick (other copies) | alternate | not shelved |
+| CCEL's Confession (a modern web translation with no print source); the Latin texts (Libri Sancti Patricii); O'Leary's Most Ancient Lives (PG 18482, a mixed volume, translator not named); Lives by Bury, Healy and Stokes | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
