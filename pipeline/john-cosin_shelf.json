@@ -1,0 +1,163 @@
+{
+ "_about": "Public-domain John Cosin (1594-1672, Bishop of Durham) for the Word Hoard: his Works in the Library of Anglo-Catholic Theology (5 vols, Oxford, 1843-1855: sermons, the Private Devotions, the Scholastical History of the Canon, and his Notes on the Book of Common Prayer), the first edition of the Scholastical History (1657), The History of Popish Transubstantiation (1840) and Frederick Meyrick's translation of his Religion, Discipline and Rites of the Church of England (1882), from Internet Archive scans. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cosin"
+ ],
+ "_surname": [
+  "john cosin",
+  "cosin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cosin-works-1": [
+   "worksofrightreve01cosi",
+   "The Works of John Cosin, Lord Bishop of Durham, vol. I: Sermons (Oxford: John Henry Parker, MDCCCXLIII)"
+  ],
+  "cosin-works-2": [
+   "worksofrightreve02cosi",
+   "The Works of John Cosin, vol. II: Miscellaneous Works, including A Collection of Private Devotions (Oxford: J. H. Parker, MDCCCXLV)"
+  ],
+  "cosin-works-3": [
+   "worksofrightreve03cosi",
+   "The Works of John Cosin, vol. III: A Scholastical History of the Canon of the Holy Scripture (Oxford: J. H. Parker, MDCCCXLIX)"
+  ],
+  "cosin-works-4": [
+   "worksofrightreve04cosi",
+   "The Works of John Cosin, vol. IV: Miscellaneous Works (Oxford: J. H. Parker, MDCCCLI)"
+  ],
+  "cosin-works-5": [
+   "workscos05cosiuoft",
+   "The Works of John Cosin, vol. V: Notes and Collections on the Book of Common Prayer (Oxford, MDCCCLV)"
+  ],
+  "cosin-scholastical-history-1657": [
+   "scholasticalhist00cosiuoft",
+   "A Scholastical History of the Canon of the Holy Scripture (London: R. Norton for Timothy Garthwait, MDCLVII)"
+  ],
+  "cosin-popish-transubstantiation": [
+   "thehistoryofthep00cosiuoft",
+   "The History of Popish Transubstantiation, a new edition with a memoir by J. S. Brewer (London: J. Leslie, M.DCCC.XL)"
+  ],
+  "cosin-religion-discipline-rites": [
+   "religiondiscipl00cosigoog",
+   "The Religion, Discipline and Rites of the Church of England, now first published in English by Frederick Meyrick, second edition (London: Rivingtons, MDCCCLXXXII)"
+  ]
+ },
+ "_alternates": {
+  "cosin-works-copies": "Other copies of each Works volume and the 1874-1876 reissues",
+  "cosin-devotions-1627": "A Collection of Private Devotions (London: R. Young, 1627): anonymous on the title page; its text is in Works vol. II",
+  "cosin-early-other": "Later seventeenth-century printings of the Devotions, the Scholastical History (1672, 1684) and Popish Transubstantiation (1676, 1679)"
+ },
+ "_excluded": {
+  "cosin-misidentified": "worksjohncosin03cosiuoft: catalogued as Cosin, actually George Hickes",
+  "cosin-late": "Stanwood's 1967 Devotions"
+ },
+ "_identity_checked": {
+  "cosin-scholastical-history-1657": {
+   "author": "title page read: 'COMPILED By D. Cosin' (OCR 'BvD'Cosin'), dedication signed 'IOH. COSIN' (OCR 'COSI^')",
+   "title": "title page read: 'A SCHOLASTICAL HISTORY OF THE CANON OF THE HOLY SCRIPTURE' (OCR 'C A T^HOL ASTRAL HISTO'^'), London, R. Norton for Timothy Garthwait, MDCLVII"
+  }
+ },
+ "_rights_checked": {
+  "cosin-scholastical-history-1657": "title page read: 'Compiled by J. Cosin D.D.' (name garbled in the OCR), London, R. Norton for Timothy Garthwait, MDCLVII"
+ },
+ "_pending": {},
+ "_translators": {
+  "cosin-religion-discipline-rites": "meyrick"
+ },
+ "_checks": {
+  "cosin-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cosin-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cosin-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cosin-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cosin-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1843-1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cosin-scholastical-history-1657": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Compiled by J. Cosin D.D.' (name garbled in the OCR), London, R. Norton for Timothy Garthwait, MDCLVII"
+  },
+  "cosin-popish-transubstantiation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cosin-religion-discipline-rites": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john cosin",
+   "translator_claimed": "meyrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

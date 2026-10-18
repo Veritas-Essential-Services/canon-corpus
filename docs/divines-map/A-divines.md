@@ -5915,3 +5915,23 @@ Slugs `love-*`. Carthusian prior; his Mirror of the Blessed Life of Jesus Christ
 | Four other copies of the 1908 edition | alternate | not shelved |
 | Wynkyn de Worde's 1530 print (vitachristi00bona): woodcut title page, Love not named in what was read | alternate | not shelved |
 | 2005 and 2010 editions; manuscripts | excluded | |
+
+## John Cosin (round 27, my pick, 2026-10-17)
+
+Slugs `cosin-*`. Caroline Bishop of Durham: the Oxford Works (5 vols, 1843-1855), the 1657 Scholastical History, Popish Transubstantiation and Meyrick's translation of his Religion, Discipline and Rites.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of John Cosin, Lord Bishop of Durham, vol. I: Sermons (Oxford: John Henry Parker, MDCCCXLIII) | have-ocr | IA `worksofrightreve01cosi` |
+| The Works of John Cosin, vol. II: Miscellaneous Works, including A Collection of Private Devotions (Oxford: J. H. Parker, MDCCCXLV) | have-ocr | IA `worksofrightreve02cosi` |
+| The Works of John Cosin, vol. III: A Scholastical History of the Canon of the Holy Scripture (Oxford: J. H. Parker, MDCCCXLIX) | have-ocr | IA `worksofrightreve03cosi` |
+| The Works of John Cosin, vol. IV: Miscellaneous Works (Oxford: J. H. Parker, MDCCCLI) | have-ocr | IA `worksofrightreve04cosi` |
+| The Works of John Cosin, vol. V: Notes and Collections on the Book of Common Prayer (Oxford, MDCCCLV) | have-ocr | IA `workscos05cosiuoft` |
+| A Scholastical History of the Canon of the Holy Scripture (London: R. Norton for Timothy Garthwait, MDCLVII) | have-ocr | IA `scholasticalhist00cosiuoft` |
+| The History of Popish Transubstantiation, a new edition with a memoir by J. S. Brewer (London: J. Leslie, M.DCCC.XL) | have-ocr | IA `thehistoryofthep00cosiuoft` |
+| The Religion, Discipline and Rites of the Church of England, now first published in English by Frederick Meyrick, second edition (London: Rivingtons, MDCCCLXXXII) | have-ocr | IA `religiondiscipl00cosigoog` |
+| Other copies of each Works volume and the 1874-1876 reissues | alternate | not shelved |
+| A Collection of Private Devotions (London: R. Young, 1627): anonymous on the title page; its text is in Works vol. II | alternate | not shelved |
+| Later seventeenth-century printings of the Devotions, the Scholastical History (1672, 1684) and Popish Transubstantiation (1676, 1679) | alternate | not shelved |
+| worksjohncosin03cosiuoft: catalogued as Cosin, actually George Hickes | excluded | |
+| Stanwood's 1967 Devotions | excluded | |
