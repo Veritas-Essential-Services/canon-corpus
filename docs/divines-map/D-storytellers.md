@@ -11182,6 +11182,38 @@ Shelf: `pipeline/wj-locke_shelf.json` (2026-10-17; added at the coordinator's re
 | The golden journey of Mr. Paradyne | have | PG 78127, `wjlocke-golden-journey-of-mr-paradyne` (226 units) |
 | pg-59541 | excluded | PG 59541: Gutenberg's index of the author's works, not a book. |
 
+## Mary E. Wilkins Freeman
+
+Shelf: `pipeline/mary-wilkins-freeman_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Yates Pride: A Romance | have | PG 978, `mewfreeman-yates-pride` (236 units) |
+| The Wind in the Rose-Bush, and Other Stories of the Supernatural | have | PG 1617, `mewfreeman-wind-in-the-rose-bush-and-other-stories-of-the-su` (1181 units) |
+| The Copy-Cat, and Other Stories | have | PG 1716, `mewfreeman-copy-cat-and-other-stories` (1962 units) |
+| The Heart's Highway: A Romance of Virginia in the Seventeenth Century | have | PG 4528, `mewfreeman-hearts-highway` (878 units) |
+| 'Doc.' Gordon | have | PG 15695, `mewfreeman-doc-gordon` (1413 units) |
+| The Pot of Gold, and Other Stories | have | PG 16468, `mewfreeman-pot-of-gold-and-other-stories` (1275 units) |
+| Pembroke: A Novel | have | PG 17428, `mewfreeman-pembroke` (2140 units) |
+| The Adventures of Ann: Stories of Colonial Times | have | PG 17560, `mewfreeman-adventures-of-ann` (279 units) |
+| By the Light of the Soul: A Novel | have | PG 17564, `mewfreeman-by-the-light-of-the-soul` (3507 units) |
+| The Shoulders of Atlas: A Novel | have | PG 17566, `mewfreeman-shoulders-of-atlas` (1991 units) |
+| Jane Field: A Novel | have | PG 17790, `mewfreeman-jane-field` (1471 units) |
+| The Jamesons | have | PG 17792, `mewfreeman-jamesons` (384 units) |
+| The Debtor: A Novel | have | PG 17793, `mewfreeman-debtor` (3908 units) |
+| Madelon: A Novel | have | PG 17885, `mewfreeman-madelon` (1940 units) |
+| Jerome, A Poor Man: A Novel | have | PG 17886, `mewfreeman-jerome-a-poor-man` (2991 units) |
+| The Green Door | have | PG 17887, `mewfreeman-green-door` (245 units) |
+| Comfort Pease and her Gold Ring | have | PG 17888, `mewfreeman-comfort-pease-and-her-gold-ring` (327 units) |
+| Evelina's Garden | have | PG 17891, `mewfreeman-evelinas-garden` (239 units) |
+| Giles Corey, Yeoman: A Play | have | PG 17960, `mewfreeman-giles-corey-yeoman` (758 units) |
+| The Portion of Labor | have | PG 18011, `mewfreeman-portion-of-labor` (3673 units) |
+| An Alabaster Box (with Florence Morse Kingsley) | have | PG 18140, `mewfreeman-an-alabaster-box` (2330 units) |
+| The Butterfly House | have | PG 18158, `mewfreeman-butterfly-house` (1007 units) |
+| Young Lucretia and Other Stories | have | PG 19766, `mewfreeman-young-lucretia-and-other-stories` (1421 units) |
+| Once Upon a Time, and Other Child-Verses | have | PG 45300, `mewfreeman-once-upon-a-time-and-other-child-verses` (2467 units) |
+| Silence, and other stories | have | PG 76948, `mewfreeman-silence-and-other-stories` (1283 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
