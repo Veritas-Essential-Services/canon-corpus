@@ -5726,6 +5726,8 @@ Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Principles of Economics, eighth edition (Macmillan, 1920) |  | `marshall-principles-of-economics-8th-1920` | have-raw (IA `bmshri.principlesofecon0000alfr_f4w9edition-8`) |
+| Industry and Trade, third edition (Macmillan, 1920) |  | `marshall-industry-and-trade-1919` | have-raw (IA `cu31924014549301`) |
+| Money, Credit & Commerce (Macmillan, 1923; reprint 1924) |  | `marshall-money-credit-commerce-1923` | have-raw (IA `dli.ernet.7805`) |
 
 ## J. E. Cairnes (political economy)
 

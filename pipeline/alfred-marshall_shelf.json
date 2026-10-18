@@ -1,5 +1,5 @@
 {
- "_about": "Alfred Marshall (1842-1924), Cambridge economist: Principles of Economics, an introductory volume, eighth edition (London: Macmillan, 1920), the definitive text, raw IA OCR, clean 0.94. Not taken: the earlier editions (1890 onward) on IA, which the eighth revises. US public domain. Not Beatrice Marshall or Marshall Saunders. No uids minted.",
+ "_about": "Alfred Marshall (1842-1924), Cambridge economist: Principles of Economics, an introductory volume, eighth edition (London: Macmillan, 1920), the definitive text, raw IA OCR, clean 0.94. Not taken: the earlier editions (1890 onward) on IA, which the eighth revises. US public domain. Not Beatrice Marshall or Marshall Saunders. Added in round 2026-10-17bl, raw IA OCR: Industry and Trade (London: Macmillan; first edition August 1919; this copy the third edition, August 1920), clean 0.93; Money, Credit & Commerce (London: Macmillan; first edition 1923; this copy the 1924 reprint), clean 0.93. Not taken: a 1932 reprint of Industry and Trade. No uids minted.",
  "_author": "Alfred Marshall",
  "_name_words": [
   "alfred",
@@ -14,6 +14,14 @@
   "marshall-principles-of-economics-8th-1920": [
    "bmshri.principlesofecon0000alfr_f4w9edition-8",
    "Principles of Economics, eighth edition (Macmillan, 1920)"
+  ],
+  "marshall-industry-and-trade-1919": [
+   "cu31924014549301",
+   "Industry and Trade, third edition (Macmillan, 1920)"
+  ],
+  "marshall-money-credit-commerce-1923": [
+   "dli.ernet.7805",
+   "Money, Credit & Commerce (Macmillan, 1923; reprint 1924)"
   ]
  },
  "_excluded": {},
@@ -26,6 +34,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marshall-industry-and-trade-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "marshall-money-credit-commerce-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
