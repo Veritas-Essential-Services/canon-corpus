@@ -19275,10 +19275,10 @@ Round 88 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | corpus-poeticum-1965: corpuspoeticumbo0000unse is a 1965 Russell & Russell reprint; the 1883 Clarendon scan is used. | — | — | excluded | — |
 | — | — | leighton-kormak-1861: William Leighton's Kormak (Boston, 1861) is his own poem on the saga, not a translation. | — | — | excluded | — |
 
-## Shelf: the American-Scandinavian Foundation's Scandinavian Classics before 1931: Brodeur's Prose Edda, Palmer's Bjørnson Poems and Songs, Payne's Arnljot Gelline, Benson's Almqvist Sara Videbeck, Fielden's Hallström stories
+## Shelf: the American-Scandinavian Foundation's Scandinavian Classics before 1931: Brodeur's Prose Edda, Palmer's Bjørnson Poems and Songs, Payne's Arnljot Gelline, Benson's Almqvist Sara Videbeck, Fielden's Hallström stories, Blackley and Longfellow's Tegnér, Damon and Hillyer's Book of Danish Verse, Hustvedt's Munch Norse Mythology
 
 Shelf: `pipeline/scandinavian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scandinavian-classics` · titles `python3 pipeline/split_shelf_titles.py scandinavian-classics`.
-Round 89 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19287,7 +19287,11 @@ Round 89 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `scandinavian-classics-arnljot-gelline` | Bjørnstjerne Bjørnson | Arnljot Gelline | William Morton Payne | 1917 | have-raw | IA `arnljotgelline00bjgoog` |
 | `scandinavian-classics-sara-videbeck` | C. J. L. Almqvist | Sara Videbeck (Det går an) and The Chapel | Adolph Burnett Benson | 1919 | have-raw | IA `cu31924026327563` |
 | `scandinavian-classics-hallstrom-stories` | Per Hallström | Selected Short Stories | F. J. Fielden | 1922 | have-raw | IA `perhallstrmsel00hall` |
+| `scandinavian-classics-danish-verse` | Danish poets, selected and annotated by Oluf Friis | A Book of Danish Verse | S. Foster Damon and Robert Silliman Hillyer | 1922 | have-raw | IA `bookofdanishvers00friiiala` |
+| `scandinavian-classics-munch-norse-mythology` | Peter Andreas Munch, revised by Magnus Olsen | Norse Mythology: Legends of Gods and Heroes | Sigurd Bernhard Hustvedt | 1926 | have-raw | IA `norsemythologyle00munc_0` |
+| `scandinavian-classics-tegner-poems` | Esaias Tegnér | Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga | W. Lewery Blackley (Frithiof's Saga) and Henry Wadsworth Longfellow (The Children of the Lord's Supper) | 1914 | have-raw | IA `poemsbytegnerchi0000esai` |
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
+| — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

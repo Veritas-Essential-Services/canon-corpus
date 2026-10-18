@@ -3624,6 +3624,14 @@
       "finished": "2026-10-17T20:11-05:00",
       "scope": "GAP-FILL (round 90, lane C) -- edwin-bjorkman; PD printings before 1931 only; no minting",
       "notes": "+1 titles, now 2; ids checked across all branches. See DIGEST-C round 90. No uids minted."
+    },
+    {
+      "id": "shelf-scandinavian-classics-round91",
+      "status": "done",
+      "started": "2026-10-17T20:15-05:00",
+      "finished": "2026-10-17T20:15-05:00",
+      "scope": "GAP-FILL (round 91, lane C) -- scandinavian-classics; PD printings before 1931 only; no minting",
+      "notes": "+3 titles, now 8; ids checked across all branches. See DIGEST-C round 91. No uids minted."
     }
   ]
 }

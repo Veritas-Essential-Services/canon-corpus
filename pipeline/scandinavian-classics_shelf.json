@@ -1,14 +1,23 @@
 {
- "_about": "SERIES SHELF: the American-Scandinavian Foundation's Scandinavian Classics (New York, 1914 onward), translations of Old Norse, Danish, Norwegian and Swedish books, for the volumes no other shelf holds: Brodeur's Prose Edda (1916), two Bjørnson volumes, Almqvist's Sara Videbeck and Hallström's stories. Bellows's Poetic Edda, Holberg, Strindberg's Master Olof, Jacobsen, Lie, Sigurjónsson and the translators with their own shelves (Stork, Hollander, Björkman, Hanna Larsen) are shelved elsewhere. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 89); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF: the American-Scandinavian Foundation's Scandinavian Classics (New York, 1914 onward), translations of Old Norse, Danish, Norwegian and Swedish books, for the volumes no other shelf holds: Brodeur's Prose Edda (1916), two Bjørnson volumes, Almqvist's Sara Videbeck and Hallström's stories; added in round 91, Tegnér's Poems (1914), A Book of Danish Verse (1922) and Munch's Norse Mythology (1926). Bellows's Poetic Edda, Holberg, Strindberg's Master Olof, Jacobsen, Lie, Sigurjónsson and the translators with their own shelves (Stork, Hollander, Björkman, Hanna Larsen) are shelved elsewhere. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 89); Adam may veto. No uids minted.",
  "_name_words": [
   "adolph b. benson",
   "adolph burnett benson",
   "arthur gilchrist brodeur",
   "arthur hubbell palmer",
   "benson",
+  "blackley",
   "brodeur",
   "f. j. fielden",
   "fielden",
+  "hillyer",
+  "hustvedt",
+  "longfellow",
+  "robert silliman hillyer",
+  "s. foster damon",
+  "sigurd bernhard hustvedt",
+  "w. l. blackley",
+  "w. lewery blackley",
   "william morton payne"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'payne' and 'palmer' are left out: other shelves (John Payne's among them) claim them.",
@@ -18,9 +27,18 @@
   "arthur gilchrist brodeur",
   "arthur hubbell palmer",
   "benson",
+  "blackley",
   "brodeur",
   "f. j. fielden",
   "fielden",
+  "hillyer",
+  "hustvedt",
+  "longfellow",
+  "robert silliman hillyer",
+  "s. foster damon",
+  "sigurd bernhard hustvedt",
+  "w. l. blackley",
+  "w. lewery blackley",
   "william morton payne"
  ],
  "_surname_by_slug": {
@@ -42,6 +60,21 @@
   "asf-hallstrom-stories": [
    "fielden",
    "f. j. fielden"
+  ],
+  "asf-danish-verse": [
+   "s. foster damon",
+   "robert silliman hillyer",
+   "hillyer"
+  ],
+  "asf-munch-norse-mythology": [
+   "sigurd bernhard hustvedt",
+   "hustvedt"
+  ],
+  "asf-tegner-poems": [
+   "w. lewery blackley",
+   "w. l. blackley",
+   "blackley",
+   "longfellow"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -72,6 +105,21 @@
    "perhallstrmsel00hall",
    "Selected Short Stories (1922)",
    "perhallstrmsel00hall_djvu.txt"
+  ],
+  "asf-danish-verse": [
+   "bookofdanishvers00friiiala",
+   "A Book of Danish Verse (1922)",
+   "bookofdanishvers00friiiala_djvu.txt"
+  ],
+  "asf-munch-norse-mythology": [
+   "norsemythologyle00munc_0",
+   "Norse Mythology: Legends of Gods and Heroes (1926)",
+   "norsemythologyle00munc_0_djvu.txt"
+  ],
+  "asf-tegner-poems": [
+   "poemsbytegnerchi0000esai",
+   "Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga (1914)",
+   "poemsbytegnerchi0000esai_djvu.txt"
   ]
  },
  "titles": {
@@ -114,11 +162,41 @@
    "translated": 1922,
    "translator": "F. J. Fielden",
    "scan_edition": "American-Scandinavian Foundation, New York 1922; archive.org scan"
+  },
+  "scandinavian-classics-danish-verse": {
+   "source": "asf-danish-verse",
+   "of": "Danish poets, selected and annotated by Oluf Friis",
+   "work": "A Book of Danish Verse",
+   "translated": 1922,
+   "translator": "S. Foster Damon and Robert Silliman Hillyer",
+   "scan_edition": "Scandinavian Classics XIX, American-Scandinavian Foundation, New York 1922; archive.org scan",
+   "note": "Translated in the original metres, per the title page."
+  },
+  "scandinavian-classics-munch-norse-mythology": {
+   "source": "asf-munch-norse-mythology",
+   "of": "Peter Andreas Munch, revised by Magnus Olsen",
+   "work": "Norse Mythology: Legends of Gods and Heroes",
+   "translated": 1926,
+   "translator": "Sigurd Bernhard Hustvedt",
+   "scan_edition": "Scandinavian Classics XXVII, American-Scandinavian Foundation, New York 1926 (copyright 1927); archive.org scan",
+   "note": "Translated from the third Norwegian edition (1922), per the translator's preface."
+  },
+  "scandinavian-classics-tegner-poems": {
+   "source": "asf-tegner-poems",
+   "of": "Esaias Tegnér",
+   "work": "Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga",
+   "translated": 1914,
+   "translator": "W. Lewery Blackley (Frithiof's Saga) and Henry Wadsworth Longfellow (The Children of the Lord's Supper)",
+   "scan_edition": "Scandinavian Classics II, American-Scandinavian Foundation, New York 1914; archive.org scan",
+   "note": "The Frithiof's Saga is Blackley's translation (Dublin, 1857), reprinted; the Children of the Lord's Supper is Longfellow's, per the introduction."
   }
  },
- "_pending": {},
+ "_pending": {
+  "schlauch-saga-of-the-volsungs": "Margaret Schlauch's The Saga of the Volsungs (American-Scandinavian Foundation, 'Copyright, 1930'; archive.org sagaofvolsungs0000marg). Waits on the 1930 ruling: the gate still treats 1930 as in copyright."
+ },
  "_excluded": {
-  "america-of-the-fifties": "America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt."
+  "america-of-the-fifties": "America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt.",
+  "gosta-berlings-saga": "Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch."
  },
  "_checks": {
   "asf-prose-edda": {
@@ -174,6 +252,39 @@
    "ia_rights": "ok: published 1922",
    "ia_date": "1922",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asf-danish-verse": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "s. foster damon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asf-munch-norse-mythology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sigurd bernhard hustvedt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asf-tegner-poems": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. lewery blackley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914-01-01",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -238,6 +349,41 @@
     1916,
     1921,
     1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-danish-verse": {
+   "ia": "bookofdanishvers00friiiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1779,
+    1850,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-munch-norse-mythology": {
+   "ia": "norsemythologyle00munc_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1851,
+    1922,
+    1926,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-tegner-poems": {
+   "ia": "poemsbytegnerchi0000esai",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1846,
+    1847,
+    1857,
+    1862,
+    1867,
+    1914
    ],
    "post_1930_years_in_front_15k": []
   }
