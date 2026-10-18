@@ -1302,3 +1302,6 @@
 
 ## 2026-10-17 19:11 CDT — robert-w-chambers: done
 - robert-w-chambers: new shelf, 46 Gutenberg books, 148,165 units, 2387 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:11 CDT — george-barr-mccutcheon: done
+- george-barr-mccutcheon: new shelf, 35 Gutenberg books, 63,270 units, 872 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -7565,6 +7565,49 @@ Shelf: `pipeline/robert-w-chambers_shelf.json` (2026-10-17; added at the coordin
 | The haunts of men | have | PG 77948, `rwchambers-haunts-of-men` (2235 units) |
 | pg-26651 | excluded | PG 26651 The Flaming Jewel: a second Gutenberg edition of a title already on the shelf. |
 
+## George Barr McCutcheon
+
+Shelf: `pipeline/george-barr-mccutcheon_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Graustark romances and other novels. Every English text under the name at Gutenberg that no other shelf holds (35 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Brewster's Millions | have | PG 4709, `gbmccutcheon-brewsters-millions` (1381 units) |
+| Graustark | have | PG 5142, `gbmccutcheon-graustark` (2090 units) |
+| Castle Craneycrow | have | PG 5349, `gbmccutcheon-castle-craneycrow` (1813 units) |
+| The Day of the Dog | have | PG 5759, `gbmccutcheon-day-of-the-dog` (517 units) |
+| The Flyers | have | PG 5848, `gbmccutcheon-flyers` (681 units) |
+| Yollop | have | PG 5866, `gbmccutcheon-yollop` (698 units) |
+| Green Fancy | have | PG 5871, `gbmccutcheon-green-fancy` (1989 units) |
+| Her Weight in Gold | have | PG 5896, `gbmccutcheon-her-weight-in-gold` (1760 units) |
+| Mr. Bingle | have | PG 5963, `gbmccutcheon-mr-bingle` (1777 units) |
+| Jane Cable | have | PG 5971, `gbmccutcheon-jane-cable` (2039 units) |
+| Viola Gwyn | have | PG 6013, `gbmccutcheon-viola-gwyn` (2278 units) |
+| West Wind Drift | have | PG 6014, `gbmccutcheon-west-wind-drift` (2117 units) |
+| Quill's Window | have | PG 6044, `gbmccutcheon-quills-window` (2041 units) |
+| The Hollow of Her Hand | have | PG 6045, `gbmccutcheon-hollow-of-her-hand` (3477 units) |
+| The Rose in the Ring | have | PG 6118, `gbmccutcheon-rose-in-the-ring` (2998 units) |
+| A Fool and His Money | have | PG 6325, `gbmccutcheon-a-fool-and-his-money` (2817 units) |
+| The Prince of Graustark | have | PG 6353, `gbmccutcheon-prince-of-graustark` (2451 units) |
+| The Purple Parasol | have | PG 6575, `gbmccutcheon-purple-parasol` (285 units) |
+| Beverly of Graustark | have | PG 6801, `gbmccutcheon-beverly-of-graustark` (2001 units) |
+| The Man from Brodney's | have | PG 11572, `gbmccutcheon-man-from-brodneys` (2285 units) |
+| Nedra | have | PG 13967, `gbmccutcheon-nedra` (1994 units) |
+| Truxton King: A Story of Graustark | have | PG 14284, `gbmccutcheon-truxton-king` (2438 units) |
+| The Daughter of Anderson Crow | have | PG 14818, `gbmccutcheon-daughter-of-anderson-crow` (1910 units) |
+| The Husbands of Edith | have | PG 16719, `gbmccutcheon-husbands-of-edith` (790 units) |
+| From the Housetops | have | PG 18612, `gbmccutcheon-from-the-housetops` (2495 units) |
+| Anderson Crow, Detective | have | PG 28229, `gbmccutcheon-anderson-crow-detective` (2279 units) |
+| What's-His-Name | have | PG 28512, `gbmccutcheon-whats-his-name` (1454 units) |
+| The Sherrods | have | PG 35335, `gbmccutcheon-sherrods` (1671 units) |
+| The City of Masks | have | PG 40146, `gbmccutcheon-city-of-masks` (2385 units) |
+| The Alternative | have | PG 43071, `gbmccutcheon-alternative` (1009 units) |
+| Black is White | have | PG 54097, `gbmccutcheon-black-is-white` (2836 units) |
+| The Light that Lies | have | PG 54098, `gbmccutcheon-light-that-lies` (573 units) |
+| Shot With Crimson | have | PG 54099, `gbmccutcheon-shot-with-crimson` (719 units) |
+| Cowardice Court | have | PG 54101, `gbmccutcheon-cowardice-court` (717 units) |
+| Oliver October | have | PG 69545, `gbmccutcheon-oliver-october` (2505 units) |
+| pg-59542 | excluded | PG 59542: Gutenberg's index of McCutcheon's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

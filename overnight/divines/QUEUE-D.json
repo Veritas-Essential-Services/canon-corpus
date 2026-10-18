@@ -2733,6 +2733,14 @@
       "started": "2026-10-17T19:11:00-05:00",
       "finished": "2026-10-17T19:11:00-05:00",
       "notes": "robert-w-chambers: new shelf, 46 Gutenberg books, 148,165 units, 2387 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-barr-mccutcheon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Barr McCutcheon; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:11:01-05:00",
+      "finished": "2026-10-17T19:11:01-05:00",
+      "notes": "george-barr-mccutcheon: new shelf, 35 Gutenberg books, 63,270 units, 872 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
