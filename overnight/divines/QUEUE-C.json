@@ -3744,6 +3744,14 @@
       "finished": "2026-10-17T21:37-05:00",
       "scope": "TRANSLATOR SHELF (round 99, lane C's choice; Adam may veto) -- michelet-in-english; PD printings before 1931 only; no minting",
       "notes": "11 titles; ids checked across all branches. See DIGEST-C round 99. No uids minted."
+    },
+    {
+      "id": "shelf-french-classics-round100",
+      "status": "done",
+      "started": "2026-10-17T21:43-05:00",
+      "finished": "2026-10-17T21:43-05:00",
+      "scope": "GAP-FILL (round 100, lane C's choice; Adam may veto) -- french-classics; PD printings before 1931 only; no minting",
+      "notes": "+7 titles, now 20; ids checked across all branches. See DIGEST-C round 100. No uids minted."
     }
   ]
 }

@@ -6869,10 +6869,10 @@ Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | lcc-sappho-1855: Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check. | — | — | excluded | — |
 | — | — | oberon-1805: The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used. | — | — | excluded | — |
 
-## Shelf: French classics in English before 1931: Racine (Boswell), Froissart in Lord Berners's Tudor translation (6 vols), Commines (Scoble), Thierry's Norman Conquest (Hazlitt), Saint-Simon (Bayle St. John)
+## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes)
 
 Shelf: `pipeline/french-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py french-classics` · titles `python3 pipeline/split_shelf_titles.py french-classics`.
-Round 96 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6889,9 +6889,17 @@ Round 96 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `french-classics-thierry-norman-conquest-vol-1` | Augustin Thierry | History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition) | William Hazlitt | 1847 | have-raw | IA `historyofconques01thieuoft` |
 | `french-classics-thierry-norman-conquest-vol-2` | Augustin Thierry | History of the Conquest of England by the Normans, vol. II | William Hazlitt | 1847 | have-raw | IA `historyofconques02thieuoft` |
 | `french-classics-saint-simon-memoirs` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of Louis XIV and His Court and of the Regency (complete, abridged edition) | Bayle St. John | 1857 | have | PG 3875 |
+| `french-classics-sainte-beuve-portraits-of-women` | Charles-Augustin Sainte-Beuve | Portraits of Women | Helen Stott | 1891 | have-raw | IA `portraitsofwomen00sainiala` |
+| `french-classics-sainte-beuve-portraits-of-men` | Charles-Augustin Sainte-Beuve | Portraits of Men | Forsyth Edeveain | 1891 | have-raw | IA `portraitsofmen00sainrich` |
+| `french-classics-sainte-beuve-monday-chats` | Charles-Augustin Sainte-Beuve | Monday-Chats, from the Causeries du Lundi | William Mathews | 1877 | have-raw | IA `mondaychats00mathgoog` |
+| `french-classics-maurice-de-guerin-journal` | Maurice de Guérin | The Journal of Maurice de Guérin, with an essay by Matthew Arnold | Edward Thornton Fisher | 1867 | have-raw | IA `journalofmaurice00guuoft` |
+| `french-classics-senancour-obermann-waite` | Étienne Pivert de Senancour | Obermann | Arthur Edward Waite | 1903 | have-raw | IA `obermann00sena` |
+| `french-classics-senancour-obermann-barnes-vol-1` | Étienne Pivert de Senancour | Obermann, vol. I | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann01sena` |
+| `french-classics-senancour-obermann-barnes-vol-2` | Étienne Pivert de Senancour | Obermann, vol. II | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann02sena` |
 | — | — | froissart-johnes: Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here. | — | — | excluded | — |
 | — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
 | — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |
+| — | — | sainte-beuve-select-essays-butler: A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931. | — | — | excluded | — |
 
 ## Shelf: Jules Michelet in English before 1931: G. H. Smith's History of France, Cocks's French Revolution, The People and Priests, Women, and Families, Hazlitt's Life of Luther, Palmer's Woman, Davenport Adams's Insect and Sea, Calfa's Bible of Humanity, Simpson's Summary of Modern History
 

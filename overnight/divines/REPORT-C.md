@@ -274,3 +274,5 @@
 - 2026-10-17T21:29-05:00: round 98: wormeley +11 (72), incl. PG 43283 moved out of _excluded after reading its title page. --verify --record 0 mismatched; only new _checks recorded.
 
 - 2026-10-17T21:37-05:00: round 99: michelet-in-english (11). --verify --record 0 mismatched. mic-history-of-france-vol-1/2 identity overrides (OCR 'G, II SMITH', 'G, H, SMITH').
+
+- 2026-10-17T21:43-05:00: round 100: french-classics +7 (20). --verify --record 0 mismatched; only new _checks recorded. Butler's Select Essays dropped (undated).

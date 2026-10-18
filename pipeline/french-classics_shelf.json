@@ -1,31 +1,51 @@
 {
- "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847) and Saint-Simon's Memoirs (Bayle St. John, Gutenberg). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal and Senancour's Obermann twice. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
  "_name_words": [
+  "a. e. waite",
   "a. r. scoble",
   "andrew r. scoble",
+  "anthony barnes",
+  "arthur edward waite",
   "bayle st. john",
   "berners",
   "boswell",
+  "edeveain",
+  "edward thornton fisher",
+  "forsyth edeveain",
   "hazlitt",
+  "helen stott",
+  "j. anthony barnes",
   "john bourchier",
   "lord berners",
   "robert bruce boswell",
   "scoble",
-  "william hazlitt"
+  "thornton fisher",
+  "william hazlitt",
+  "william mathews"
  ],
- "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'waite' alone is left out as a surname shared with other people.",
  "_surname": [
+  "a. e. waite",
   "a. r. scoble",
   "andrew r. scoble",
+  "anthony barnes",
+  "arthur edward waite",
   "bayle st. john",
   "berners",
   "boswell",
+  "edeveain",
+  "edward thornton fisher",
+  "forsyth edeveain",
   "hazlitt",
+  "helen stott",
+  "j. anthony barnes",
   "john bourchier",
   "lord berners",
   "robert bruce boswell",
   "scoble",
-  "william hazlitt"
+  "thornton fisher",
+  "william hazlitt",
+  "william mathews"
  ],
  "_surname_by_slug": {
   "frc-racine-dramatic-works-vol-1": [
@@ -86,6 +106,32 @@
   ],
   "frc-saint-simon-memoirs": [
    "bayle st. john"
+  ],
+  "frc-sainte-beuve-portraits-of-women": [
+   "helen stott"
+  ],
+  "frc-sainte-beuve-portraits-of-men": [
+   "edeveain",
+   "forsyth edeveain"
+  ],
+  "frc-sainte-beuve-monday-chats": [
+   "william mathews"
+  ],
+  "frc-maurice-de-guerin-journal": [
+   "thornton fisher",
+   "edward thornton fisher"
+  ],
+  "frc-senancour-obermann-waite": [
+   "a. e. waite",
+   "arthur edward waite"
+  ],
+  "frc-senancour-obermann-barnes-vol-1": [
+   "anthony barnes",
+   "j. anthony barnes"
+  ],
+  "frc-senancour-obermann-barnes-vol-2": [
+   "anthony barnes",
+   "j. anthony barnes"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -144,6 +190,34 @@
   "frc-thierry-norman-conquest-vol-2": [
    "historyofconques02thieuoft",
    "History of the Conquest of England by the Normans, vol. II (1847)"
+  ],
+  "frc-sainte-beuve-portraits-of-women": [
+   "portraitsofwomen00sainiala",
+   "Portraits of Women (1891)"
+  ],
+  "frc-sainte-beuve-portraits-of-men": [
+   "portraitsofmen00sainrich",
+   "Portraits of Men (1891)"
+  ],
+  "frc-sainte-beuve-monday-chats": [
+   "mondaychats00mathgoog",
+   "Monday-Chats, from the Causeries du Lundi (1877)"
+  ],
+  "frc-maurice-de-guerin-journal": [
+   "journalofmaurice00guuoft",
+   "The Journal of Maurice de Guérin, with an essay by Matthew Arnold (1867)"
+  ],
+  "frc-senancour-obermann-waite": [
+   "obermann00sena",
+   "Obermann (1903)"
+  ],
+  "frc-senancour-obermann-barnes-vol-1": [
+   "obermann01sena",
+   "Obermann, vol. I (1910)"
+  ],
+  "frc-senancour-obermann-barnes-vol-2": [
+   "obermann02sena",
+   "Obermann, vol. II (1910)"
   ]
  },
  "titles": {
@@ -252,13 +326,70 @@
    "translator": "Bayle St. John",
    "scan_edition": "Project Gutenberg 3875 (clean text)",
    "note": "The Gutenberg edition's introduction names Bayle St. John's translation as the one presented. It is an abridgement of the Memoirs, not the whole."
+  },
+  "french-classics-sainte-beuve-portraits-of-women": {
+   "source": "frc-sainte-beuve-portraits-of-women",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of Women",
+   "translated": "1891",
+   "translator": "Helen Stott",
+   "scan_edition": "A. C. McClurg & Co., Chicago, 1891; archive.org scan"
+  },
+  "french-classics-sainte-beuve-portraits-of-men": {
+   "source": "frc-sainte-beuve-portraits-of-men",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of Men",
+   "translated": "1891",
+   "translator": "Forsyth Edeveain",
+   "scan_edition": "David Stott, London, 1891; archive.org scan"
+  },
+  "french-classics-sainte-beuve-monday-chats": {
+   "source": "frc-sainte-beuve-monday-chats",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Monday-Chats, from the Causeries du Lundi",
+   "translated": "1877",
+   "translator": "William Mathews",
+   "scan_edition": "S. C. Griggs and Company, Chicago, 1877; Google scan"
+  },
+  "french-classics-maurice-de-guerin-journal": {
+   "source": "frc-maurice-de-guerin-journal",
+   "of": "Maurice de Guérin",
+   "work": "The Journal of Maurice de Guérin, with an essay by Matthew Arnold",
+   "translated": "1867",
+   "translator": "Edward Thornton Fisher",
+   "scan_edition": "Leypoldt & Holt, New York, 1867; University of Toronto scan"
+  },
+  "french-classics-senancour-obermann-waite": {
+   "source": "frc-senancour-obermann-waite",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann",
+   "translated": "1903",
+   "translator": "Arthur Edward Waite",
+   "scan_edition": "Philip Wellby, London, 1903; archive.org scan"
+  },
+  "french-classics-senancour-obermann-barnes-vol-1": {
+   "source": "frc-senancour-obermann-barnes-vol-1",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann, vol. I",
+   "translated": "by 1910 (catalogue date)",
+   "translator": "J. Anthony Barnes",
+   "scan_edition": "Walter Scott Publishing Co., London and Felling-on-Tyne, and New York (undated on the title page; 1910 per the catalogue record); archive.org scan"
+  },
+  "french-classics-senancour-obermann-barnes-vol-2": {
+   "source": "frc-senancour-obermann-barnes-vol-2",
+   "of": "Étienne Pivert de Senancour",
+   "work": "Obermann, vol. II",
+   "translated": "by 1910 (catalogue date)",
+   "translator": "J. Anthony Barnes",
+   "scan_edition": "Walter Scott Publishing Co., London and Felling-on-Tyne, and New York (undated on the title page; 1910 per the catalogue record); archive.org scan"
   }
  },
  "_pending": {},
  "_excluded": {
   "froissart-johnes": "Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here.",
   "boys-froissart": "Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations.",
-  "thierry-merovingian-1841": "Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer."
+  "thierry-merovingian-1841": "Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer.",
+  "sainte-beuve-select-essays-butler": "A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931."
  },
  "_checks": {
   "frc-saint-simon-memoirs": {
@@ -401,6 +532,83 @@
    "ia_date": "1847",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "frc-sainte-beuve-portraits-of-women": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "helen stott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-sainte-beuve-portraits-of-men": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edeveain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-sainte-beuve-monday-chats": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william mathews",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-maurice-de-guerin-journal": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thornton fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-waite": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. waite",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-barnes-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-senancour-obermann-barnes-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony barnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -531,6 +739,85 @@
     1814,
     1848
    ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-sainte-beuve-portraits-of-women": {
+   "ia": "portraitsofwomen00sainiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1835,
+    1836,
+    1850,
+    1851,
+    1891
+   ],
+   "post_1930_years_in_front_15k": [
+    1996
+   ],
+   "post_1930_examined": "Examined in round 100: 'DEC 1 9 1996' is a UC San Diego library date-due slip, not an imprint; the title page reads Chicago, A. C. M'Clurg & Co., 1891."
+  },
+  "frc-sainte-beuve-portraits-of-men": {
+   "ia": "portraitsofmen00sainrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835,
+    1836,
+    1850,
+    1851,
+    1857,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-sainte-beuve-monday-chats": {
+   "ia": "mondaychats00mathgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1869,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-maurice-de-guerin-journal": {
+   "ia": "journalofmaurice00guuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806,
+    1839,
+    1840,
+    1860,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-waite": {
+   "ia": "obermann00sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1770,
+    1789,
+    1790,
+    1796,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-barnes-vol-1": {
+   "ia": "obermann01sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1830,
+    1849
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-senancour-obermann-barnes-vol-2": {
+   "ia": "obermann02sena",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
   }
  },
