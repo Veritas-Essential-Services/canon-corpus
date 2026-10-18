@@ -1461,3 +1461,6 @@
 
 ## 2026-10-17 20:30 CDT — burroughs-works: done
 - burroughs-works: new shelf, 30 Gutenberg books, 38,011 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:30 CDT — wodehouse-works: done
+- wodehouse-works: new shelf, 51 Gutenberg books, 109,358 units, 958 ~2 ids; verify 0 mismatches, 0 rights flags.

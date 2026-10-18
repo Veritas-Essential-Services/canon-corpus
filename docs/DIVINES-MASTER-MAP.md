@@ -31213,6 +31213,66 @@ Shelf: `pipeline/burroughs-works_shelf.json` (2026-10-17; added at the coordinat
 | repeat-editions | excluded | PG 545, 29405, 69338: second Gutenberg editions of titles already on the shelf. |
 | held-elsewhere | excluded | PG 78: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## P. G. Wodehouse
+
+Shelf: `pipeline/wodehouse-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf; pre-1931 US publications only, one 1934 book held. Every English text under the name at Gutenberg that no other shelf holds (51 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Piccadilly Jim | have | PG 2005, `pgwodehouse-piccadilly-jim` (2717 units) |
+| Something New | have | PG 2042, `pgwodehouse-something-new` (2259 units) |
+| A Damsel in Distress | have | PG 2233, `pgwodehouse-a-damsel-in-distress` (2423 units) |
+| Psmith, Journalist | have | PG 2607, `pgwodehouse-psmith-journalist` (1785 units) |
+| Indiscretions of Archie | have | PG 3756, `pgwodehouse-indiscretions-of-archie` (2602 units) |
+| Love Among the Chickens | have | PG 3829, `pgwodehouse-love-among-the-chickens` (1617 units) |
+| The Intrusion of Jimmy | have | PG 4075, `pgwodehouse-intrusion-of-jimmy` (2522 units) |
+| The Little Nugget | have | PG 6683, `pgwodehouse-little-nugget` (2545 units) |
+| Uneasy Money | have | PG 6684, `pgwodehouse-uneasy-money` (2012 units) |
+| Psmith in the City | have | PG 6753, `pgwodehouse-psmith-in-the-city` (1321 units) |
+| The Man Upstairs and Other Stories | have | PG 6768, `pgwodehouse-man-upstairs-and-other-stories` (3398 units) |
+| Three Men and a Maid | have | PG 6836, `pgwodehouse-three-men-and-a-maid` (2021 units) |
+| The Little Warrior | have | PG 6837, `pgwodehouse-little-warrior` (3713 units) |
+| The Head of Kay's | have | PG 6877, `pgwodehouse-head-of-kays` (1079 units) |
+| The Gold Bat | have | PG 6879, `pgwodehouse-gold-bat` (1380 units) |
+| The Coming of Bill | have | PG 6880, `pgwodehouse-coming-of-bill` (2941 units) |
+| The White Feather | have | PG 6927, `pgwodehouse-white-feather` (1485 units) |
+| The Prince and Betty | have | PG 6955, `pgwodehouse-prince-and-betty` (2192 units) |
+| Tales of St. Austin's | have | PG 6980, `pgwodehouse-tales-of-st-austins` (1351 units) |
+| The Pothunters | have | PG 6984, `pgwodehouse-pothunters` (1300 units) |
+| A Prefect's Uncle | have | PG 6985, `pgwodehouse-a-prefects-uncle` (1168 units) |
+| The Clicking of Cuthbert | have | PG 7028, `pgwodehouse-clicking-of-cuthbert` (1903 units) |
+| The Swoop! or, How Clarence Saved England: A Tale of the Great Invasion | have | PG 7050, `pgwodehouse-swoop` (638 units) |
+| Not George Washington — an Autobiographical Novel (with H. W. Westbrook) | have | PG 7230, `pgwodehouse-not-george-washington-an-autobiographical-novel` (1539 units) |
+| William Tell Told Again | have | PG 7298, `pgwodehouse-william-tell-told-again` (535 units) |
+| Mike | have | PG 7423, `pgwodehouse-mike` (3971 units) |
+| The Adventures of Sally | have | PG 7464, `pgwodehouse-adventures-of-sally` (2381 units) |
+| The Man with Two Left Feet, and Other Stories | have | PG 7471, `pgwodehouse-man-with-two-left-feet-and-other-stories` (2178 units) |
+| My man Jeeves | have | PG 8164, `pgwodehouse-my-man-jeeves` (1942 units) |
+| Death at the Excelsior, and other stories | have | PG 8176, `pgwodehouse-death-at-the-excelsior-and-other-stories` (1308 units) |
+| The Politeness of Princes, and Other School Stories | have | PG 8178, `pgwodehouse-politeness-of-princes-and-other-school-stories` (956 units) |
+| A Wodehouse Miscellany: Articles & Stories | have | PG 8190, `pgwodehouse-a-wodehouse-miscellany` (975 units) |
+| A Man of Means | have | PG 8713, `pgwodehouse-a-man-of-means` (813 units) |
+| The Gem Collector | have | PG 8931, `pgwodehouse-gem-collector` (1208 units) |
+| Mike and Psmith | have | PG 10586, `pgwodehouse-mike-and-psmith` (2042 units) |
+| Love Among the Chickens A Story of the Haps and Mishaps on an English Chicken Farm | have | PG 20532, `pgwodehouse-love-among-the-chickens-a-story-of-the-haps-and` (1744 units) |
+| Jill the Reckless | have | PG 20533, `pgwodehouse-jill-the-reckless` (3724 units) |
+| The Girl on the Boat | have | PG 20717, `pgwodehouse-girl-on-the-boat` (2462 units) |
+| The Inimitable Jeeves | have | PG 59254, `pgwodehouse-inimitable-jeeves` (2672 units) |
+| Leave it to Psmith | have | PG 60067, `pgwodehouse-leave-it-to-psmith` (2878 units) |
+| Ukridge | have | PG 61507, `pgwodehouse-ukridge` (2331 units) |
+| A Gentleman of Leisure | have | PG 65172, `pgwodehouse-a-gentleman-of-leisure` (2579 units) |
+| Carry On, Jeeves | have | PG 65974, `pgwodehouse-carry-on-jeeves` (3024 units) |
+| Sam in the Suburbs | have | PG 67368, `pgwodehouse-sam-in-the-suburbs` (3454 units) |
+| The small bachelor | have | PG 70041, `pgwodehouse-small-bachelor` (3500 units) |
+| Meet Mr Mulliner | have | PG 70222, `pgwodehouse-meet-mr-mulliner` (2068 units) |
+| Divots | have | PG 72227, `pgwodehouse-divots` (2444 units) |
+| Money for nothing | have | PG 72972, `pgwodehouse-money-for-nothing` (2996 units) |
+| The play's the thing (Ferenc Molnar's play, adapted by P. G. Wodehouse) | have | PG 75451, `pgwodehouse-plays-the-thing` (1333 units) |
+| Very good, Jeeves | have | PG 77923, `pgwodehouse-very-good-jeeves` (3630 units) |
+| Mr. Mulliner speaking | have | PG 79636, `pgwodehouse-mr-mulliner-speaking` (2299 units) |
+| pg-58508 | excluded | PG 58508: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 75435: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
