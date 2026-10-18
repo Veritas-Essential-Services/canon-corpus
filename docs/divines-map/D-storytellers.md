@@ -11813,6 +11813,56 @@ Shelf: `pipeline/john-henry-goldfrap_shelf.json` (2026-10-17; added at the coord
 | The Boy Scouts' badge of courage | have | PG 68508, `jhgoldfrap-boy-scouts-badge-of-courage` (1222 units) |
 | The ocean wireless boys of the iceberg patrol | have | PG 69517, `jhgoldfrap-ocean-wireless-boys-of-the-iceberg-patrol` (1454 units) |
 
+## Madeline Leslie
+
+Shelf: `pipeline/madeline-leslie_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young children. Every English text under the name at Gutenberg that no other shelf holds (43 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bertie's Home; or, the Way to be Happy | have | PG 23683, `mleslie-berties-home` (406 units) |
+| The Lost Kitty | have | PG 25201, `mleslie-lost-kitty` (257 units) |
+| Bertie and the Gardeners; or, The Way to be Happy | have | PG 26497, `mleslie-bertie-and-the-gardeners` (434 units) |
+| Minnie's Pet Dog | have | PG 26616, `mleslie-minnies-pet-dog` (264 units) |
+| Minnie's Pet Parrot | have | PG 26617, `mleslie-minnies-pet-parrot` (268 units) |
+| Minnie's Pet Monkey | have | PG 26618, `mleslie-minnies-pet-monkey` (267 units) |
+| Minnie's Pet Lamb | have | PG 26619, `mleslie-minnies-pet-lamb` (275 units) |
+| Minnie's Pet Horse | have | PG 26620, `mleslie-minnies-pet-horse` (229 units) |
+| Minnie's Pet Cat | have | PG 28682, `mleslie-minnies-pet-cat` (239 units) |
+| Little Frankie on a Journey | have | PG 33517, `mleslie-little-frankie-on-a-journey` (228 units) |
+| Little Frankie at His Plays | have | PG 33521, `mleslie-little-frankie-at-his-plays` (224 units) |
+| Little Frankie and His Cousin | have | PG 33522, `mleslie-little-frankie-and-his-cousin` (261 units) |
+| Little Frankie at School | have | PG 33523, `mleslie-little-frankie-at-school` (235 units) |
+| Little Robins Learning to Fly | have | PG 33775, `mleslie-little-robins-learning-to-fly` (190 units) |
+| The Pearl of Love; or, Josey's Gift | have | PG 33811, `mleslie-pearl-of-love` (255 units) |
+| Little Frankie and his Mother | have | PG 34830, `mleslie-little-frankie-and-his-mother` (141 units) |
+| Little Robins' Love One to Another | have | PG 35047, `mleslie-little-robins-love-one-to-another` (201 units) |
+| Cora and The Doctor; or, Revelations of A Physician's Wife | have | PG 35526, `mleslie-cora-and-the-doctor` (2556 units) |
+| The Pearl of Peace; or, The Little Peacemaker | have | PG 35746, `mleslie-pearl-of-peace` (306 units) |
+| The Factory Boy | have | PG 43390, `mleslie-factory-boy` (253 units) |
+| Ingleside; | have | PG 69973, `mleslie-ingleside` (1805 units) |
+| Up the ladder; | have | PG 70168, `mleslie-up-the-ladder` (782 units) |
+| Good for evil | have | PG 70977, `mleslie-good-for-evil` (1049 units) |
+| The rag pickers | have | PG 71080, `mleslie-rag-pickers` (468 units) |
+| The new buggy | have | PG 71245, `mleslie-new-buggy` (370 units) |
+| Diligent Dick | have | PG 71493, `mleslie-diligent-dick` (358 units) |
+| The pearl of charity | have | PG 71822, `mleslie-pearl-of-charity` (233 units) |
+| Frankie's dog Tony | have | PG 72019, `mleslie-frankies-dog-tony` (233 units) |
+| The golden pennies, and other stories | have | PG 72154, `mleslie-golden-pennies-and-other-stories` (104 units) |
+| Gem of neatness | have | PG 72280, `mleslie-gem-of-neatness` (301 units) |
+| The pearl of patience | have | PG 72640, `mleslie-pearl-of-patience` (233 units) |
+| Ida's new shoes | have | PG 73213, `mleslie-idas-new-shoes` (231 units) |
+| White and black lies | have | PG 73637, `mleslie-white-and-black-lies` (1135 units) |
+| Lily's birthday | have | PG 73659, `mleslie-lilys-birthday` (222 units) |
+| The chest of tools | have | PG 74051, `mleslie-chest-of-tools` (232 units) |
+| Theology in romance (with A. R. Baker) | have | PG 74275, `mleslie-theology-in-romance` (780 units) |
+| The golden rule | have | PG 74545, `mleslie-golden-rule` (223 units) |
+| The breach of trust | have | PG 76354, `mleslie-breach-of-trust` (1188 units) |
+| Stopping the leak | have | PG 77089, `mleslie-stopping-the-leak` (933 units) |
+| Bessie and the squirrels | have | PG 77532, `mleslie-bessie-and-the-squirrels` (458 units) |
+| The load of chips | have | PG 78578, `mleslie-load-of-chips` (518 units) |
+| Out of the depths | have | PG 78705, `mleslie-out-of-the-depths` (1265 units) |
+| Lazy Robert; or, The Colonel's servant | have | PG 78964, `mleslie-lazy-robert` (377 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
