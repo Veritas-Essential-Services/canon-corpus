@@ -1,0 +1,171 @@
+{
+ "_about": "Public-domain William Warburton (1698-1779), Bishop of Gloucester and controversialist, for the Word Hoard: The Divine Legation of Moses Demonstrated in its first printing (vol. I, 1738; vol. II part 1, 1741) and his Works in Hurd's seven-volume quarto edition (1788), from Internet Archive scans. His editions of Pope and Shakespeare are other men's works and are not shelved. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "warburton"
+ ],
+ "_surname": [
+  "william warburton",
+  "warburton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "warburton-divine-legation-1738": [
+   "warburtondivinelegation01",
+   "The Divine Legation of Moses Demonstrated, on the Principles of a Religious Deist, vol. I (London: Fletcher Gyles, 1738)"
+  ],
+  "warburton-divine-legation-1741": [
+   "warburtondivinelegation021",
+   "The Divine Legation of Moses Demonstrated, the second volume, in two parts (London: Fletcher Gyles, 1741)"
+  ],
+  "warburton-works-1788-1": [
+   "worksofrightreve01warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 1 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-2": [
+   "worksofrightreve02warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 2 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-3": [
+   "worksofrightreve03warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 3 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-4": [
+   "worksofrightreve04warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 4 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-5": [
+   "worksofrightreve05warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 5 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-6": [
+   "worksofrightreve06warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 6 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ],
+  "warburton-works-1788-7": [
+   "worksofrightreve07warb",
+   "The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 7 of 7 (London: John Nichols, sold by T. Cadell, 1788)"
+  ]
+ },
+ "_alternates": {
+  "warburton-copies": "The twelve-volume Works with Hurd's discourse (London: Luke Hansard for Cadell and Davies, 1811); the tenth-edition Divine Legation (Tegg, 1846, three volumes); 1755 and 1765 Divine Legations (not read)"
+ },
+ "_excluded": {
+  "warburton-other": "worksofrightreve13warb, catalogued as Works vol. 13 but really Letters from a Late Eminent Prelate (Hurd's letters)"
+ },
+ "_identity_checked": {
+  "warburton-divine-legation-1738": {
+   "author": "title page read: 'WILLIAM WARBURTON, A.M., Author of The Alliance between Church and State' (OCR garbled)"
+  }
+ },
+ "_rights_checked": {
+  "warburton-works-1788-1": "title page read: Hurd's edition, Hurd not named on the title page"
+ },
+ "_pending": {
+  "warburton-legation-2-2": "Divine Legation vol. II part 2 (1741): no title page in the OCR"
+ },
+ "_translators": {},
+ "_checks": {
+  "warburton-divine-legation-1738": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1738",
+   "ia_date": "1738",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warburton-divine-legation-1741": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warburton-works-1788-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Hurd's edition, Hurd not named on the title page"
+  },
+  "warburton-works-1788-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warburton-works-1788-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warburton-works-1788-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warburton-works-1788-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warburton-works-1788-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warburton-works-1788-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william warburton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

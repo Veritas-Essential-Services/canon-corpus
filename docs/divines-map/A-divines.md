@@ -8238,3 +8238,21 @@ Slugs `chillingworth-*`. Built from title pages read for round 34.
 | The Works of William Chillingworth, vol. III (Oxford: at the University Press, 1838) | have-ocr | IA `worksofw03chiluoft` |
 | The Religion of Protestants a Safe Way to Salvation, a new and complete edition (London: Henry G. Bohn, 1846) | have-ocr | IA `religionofprotes00chil` |
 | Works, three volumes (London: Richard Priestley, 1820); the one-volume Works with Birch's life (Philadelphia, 1841); Bell & Daldy 1870; eighteenth-century Works (1704-1752, title pages not read) | alternate | not shelved |
+
+## William Warburton (round 34, my pick, 2026-10-18)
+
+Slugs `warburton-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divine Legation of Moses Demonstrated, on the Principles of a Religious Deist, vol. I (London: Fletcher Gyles, 1738) | have-ocr | IA `warburtondivinelegation01` |
+| The Divine Legation of Moses Demonstrated, the second volume, in two parts (London: Fletcher Gyles, 1741) | have-ocr | IA `warburtondivinelegation021` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 1 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve01warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 2 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve02warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 3 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve03warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 4 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve04warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 5 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve05warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 6 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve06warb` |
+| The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 7 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve07warb` |
+| The twelve-volume Works with Hurd's discourse (London: Luke Hansard for Cadell and Davies, 1811); the tenth-edition Divine Legation (Tegg, 1846, three volumes); 1755 and 1765 Divine Legations (not read) | alternate | not shelved |
+| worksofrightreve13warb, catalogued as Works vol. 13 but really Letters from a Late Eminent Prelate (Hurd's letters) | excluded | |
