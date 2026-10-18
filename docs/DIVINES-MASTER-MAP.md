@@ -8343,6 +8343,24 @@ Slugs `-*`. Built from title pages read for round 35.
 | The Young Priest: Conferences on the Apostolic Life, edited by his brother John S. Vaughan (London: Burns & Oates; year OCR'd '{704', 1904) | have-ocr | IA `youngpriestconfe0000herb` |
 | Other Young Priest copies (one undated, one catalogued 1910); his introduction to Rivington's The Primitive Church and the See of Peter (1894) | alternate | not shelved |
 | The Year of Preparation for the Vatican Council (1869, no author on the title page); the Westminster bishops' collective Vindication of Apostolicae Curae; Humility of Heart (1944 printing, catalogued 1903 in error); the Mivart correspondence | excluded | |
+
+## Geremia Bonomelli (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| New Series of Homilies for the Whole Year, vol. I, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909) | have-ocr | IA `newseriesofhomil01bonouoft` |
+| New Series of Homilies for the Whole Year, vol. II, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909) | have-ocr | IA `christianmysteri02bonouoft` |
+| New Series of Homilies for the Whole Year, vol. III, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909) | have-ocr | IA `newseriesofhomil03bonouoft` |
+| New Series of Homilies for the Whole Year, vol. IV, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers; copyright 1909) | have-ocr | IA `newseriesofhomil04bonouoft` |
+| Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. I, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910) | have-ocr | IA `christianmysteri01bonouoft` |
+| Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. II, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910) | have-ocr | IA `newseriesofhomil02bonouoft` |
+| Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. III, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910) | have-ocr | IA `christianmysteri03bonouoft` |
+| Christian Mysteries, or Discourses for All the Great Feasts of the Year except those of the Blessed Virgin, vol. IV, tr. Thomas Sebastian Byrne, Bishop of Nashville (New York, Cincinnati, Chicago: Benziger Brothers, 1910) | have-ocr | IA `christianmysteri04unknuoft` |
+| On Religious Worship and Some Defects in Popular Devotions (London: Burns and Oates, 1907; first impression 1906) | have-ocr | IA `onreligiousworsh00bonouoft` |
+| Homilies vols V (1912) and VI; further copies of both sets | alternate | not shelved |
+| A Doctrine of Hope, adapted from a pastoral letter by others (catalogued 1921) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
