@@ -1,5 +1,5 @@
 {
- "_about": "John Grote (1813-1866), Knightbridge professor at Cambridge: Exploratio Philosophica, rough notes on modern intellectual science, part I (Cambridge: Deighton, Bell, 1865) and part II, ed. Joseph Bickersteth Mayor (Cambridge: University Press, 1900), raw IA OCR. Not his brother George (grote shelf). US public domain. No uids minted.",
+ "_about": "John Grote (1813-1866), Knightbridge professor at Cambridge: Exploratio Philosophica, rough notes on modern intellectual science, part I (Cambridge: Deighton, Bell, 1865) and part II, ed. Joseph Bickersteth Mayor (Cambridge: University Press, 1900), raw IA OCR. Not his brother George (grote shelf). Added in round ak: An Examination of the Utilitarian Philosophy, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1870); A Treatise on the Moral Ideals, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1876). US public domain. No uids minted.",
  "_author": "John Grote",
  "_name_words": [
   "john",
@@ -19,6 +19,14 @@
   "john-grote-exploratio-philosophica-1900-pt2": [
    "exploratiophilos02grot",
    "Exploratio Philosophica, part II, ed. J. B. Mayor (Cambridge: University Press, 1900)"
+  ],
+  "john-grote-examination-utilitarian-philosophy-1870": [
+   "examinationofuti00grotrich",
+   "An Examination of the Utilitarian Philosophy, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1870)"
+  ],
+  "john-grote-moral-ideals-1876": [
+   "atreatiseonmora00grotuoft",
+   "A Treatise on the Moral Ideals, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1876)"
   ]
  },
  "_excluded": {},
@@ -43,6 +51,28 @@
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-grote-examination-utilitarian-philosophy-1870": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "john-grote-moral-ideals-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
