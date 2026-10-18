@@ -1482,3 +1482,6 @@
 
 ## 2026-10-17 21:06 CDT — clarence-mulford: done
 - clarence-mulford: new shelf, 11 Gutenberg books, 19,181 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:06 CDT — peter-kyne: done
+- peter-kyne: new shelf, 11 Gutenberg books, 19,596 units, 121 ~2 ids; verify 0 mismatches, 0 rights flags.

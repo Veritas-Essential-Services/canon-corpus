@@ -10211,6 +10211,24 @@ Shelf: `pipeline/clarence-mulford_shelf.json` (2026-10-17; added at the coordina
 | Johnny Nelson How a one-time pupil of Hopalong Cassidy of the famous Bar-20 ranch in the Pecos Valley performed an act of knight-errantry and what came of it | have | PG 56626, `cmulford-johnny-nelson-how-a-one-time-pupil-of-hopalong-cass` (1970 units) |
 | The Bar-20 Three | have | PG 58155, `cmulford-bar-20-three` (2248 units) |
 
+## Peter B. Kyne
+
+Shelf: `pipeline/peter-kyne_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels of the West and the sea. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Valley of the Giants | have | PG 5735, `pkyne-valley-of-the-giants` (2167 units) |
+| Cappy Ricks; Or, the Subjugation of Matt Peasley | have | PG 5738, `pkyne-cappy-ricks` (2159 units) |
+| Cappy Ricks Retires: But That Doesn't Keep Him from Coming Back Stronger Than Ever | have | PG 6020, `pkyne-cappy-ricks-retires` (2333 units) |
+| The Long Chance | have | PG 6115, `pkyne-long-chance` (1861 units) |
+| The Go-Getter: A Story That Tells You How to be One | have | PG 12257, `pkyne-go-getter` (305 units) |
+| Kindred of the Dust | have | PG 13532, `pkyne-kindred-of-the-dust` (2210 units) |
+| The Pride of Palomar | have | PG 16674, `pkyne-pride-of-palomar` (2407 units) |
+| Captain Scraggs; Or, The Green-Pea Pirates | have | PG 18469, `pkyne-captain-scraggs` (1640 units) |
+| The Three Godfathers | have | PG 51942, `pkyne-three-godfathers` (313 units) |
+| Webster—Man's Man | have | PG 51987, `pkyne-webster-mans-man` (2001 units) |
+| Never the twain shall meet | have | PG 69547, `pkyne-never-the-twain-shall-meet` (2200 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
