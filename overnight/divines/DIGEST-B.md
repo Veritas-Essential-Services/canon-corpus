@@ -254,3 +254,4 @@
 - 20:54 round bj: Gentile, Hulme, Wildon Carr, Kemp Smith, and Kemp Smith's 1929 Critique of Pure Reason on the kant shelf (10 items).
 - 20:58 round bk: Lloyd Morgan, Laird, R. B. Haldane, Urban (12 items). Held: Johnston and Struthers' Hegel Science of Logic (1929), no dated first-impression copy found.
 - 21:06 round bl: 13 wishlists filled (24 vols). Held: Hobson Imperialism, Cairnes Leading Principles.
+- 21:13 round bm: 6 new shelves (Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond). Two lane B duplicates of lane C's singles shelves removed (Soloviev, Gentile). Weber held: no pre-1931 printing found.

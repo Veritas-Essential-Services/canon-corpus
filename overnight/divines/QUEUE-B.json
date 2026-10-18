@@ -1692,6 +1692,14 @@
    "started": "2026-10-17T20:58:47-05:00",
    "finished": "2026-10-17T21:06:44-05:00",
    "notes": "All verified; Veblen and Hobson OCR names recorded under _identity_checked; Santayana Realm of Matter 1930 rights-checked. Held: Hobson Imperialism (later Allen & Unwin printings only), Cairnes Leading Principles (no dated copy)."
+  },
+  {
+   "id": "2026-10-17bm",
+   "status": "done",
+   "scope": "Social theory and late-Victorian metaphysics: Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond (6 new shelves, 22 vols); duplicate cleanup",
+   "started": "2026-10-17T21:06:44-05:00",
+   "finished": "2026-10-17T21:13:16-05:00",
+   "notes": "All verified. Removed two duplicates of lane C's singles shelves found by a new title-level cross-check: Soloviev's Justification of the Good (si3-79715) and Gentile's Reform of Education (si2-36762), now under _excluded. Held: Weber's Protestant Ethic (Parsons 1930; only a 1950 impression on IA) and General Economic History (1927; only the 1950 Free Press reprint)."
   }
  ]
 }

@@ -13525,7 +13525,8 @@ Shelf: `pipeline/vladimir-soloviev_shelf.json`. Vladimir Solovyov (1853-1900). W
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | War and Christianity: Three Conversations (Constable, 1915) | Edward Cazalet, W. J. Barnes and H. H. Haynes | `soloviev-war-and-christianity-1915` | have-raw (IA `warchristianityf0000solo`) |
-| The Justification of the Good, tr. Nathalie A. Duddington (Constable, 1918) | Nathalie A. Duddington | `soloviev-justification-of-the-good-1918` | have-raw (IA `thejustification00solouoft`) |
+
+Excluded: soloviev-justification-of-the-good-1918 (duplicate: singles-ideas-3 (lane C) already holds the same Duddington translation as PG 79715)
 
 ## Joseph Joubert (Pensées)
 
@@ -13689,7 +13690,8 @@ Shelf: `pipeline/giovanni-gentile_shelf.json`. Giovanni Gentile (1875-1944). The
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Theory of Mind as Pure Act, tr. H. Wildon Carr (Macmillan, 1922) | H. Wildon Carr | `gentile-theory-of-mind-pure-act-1922` | have-raw (IA `thetheoryofminda00gentuoft`) |
-| The Reform of Education, tr. Dino Bigongiari (1922; Benn issue 1923) | Dino Bigongiari | `gentile-reform-of-education-1922` | have-raw (IA `reformofeducatio00gent`) |
+
+Excluded: gentile-reform-of-education-1922 (duplicate: singles-ideas-2 (lane C) already holds the same Bigongiari translation as PG 36762)
 
 ## T. E. Hulme (Speculations)
 
@@ -13764,6 +13766,72 @@ Shelf: `pipeline/wilbur-marshall-urban_shelf.json`. W. M. Urban (1873-1952). Val
 | Valuation, its Nature and Laws (Sonnenschein, 1909) |  | `urban-valuation-1909` | have-raw (IA `valuationitsnatu00urbauoft`) |
 | The Intelligible World (Allen & Unwin, 1929) |  | `urban-intelligible-world-1929` | have-raw (IA `intelligibleworl032337mbp`) |
 | Fundamentals of Ethics (Holt, 1930) |  | `urban-fundamentals-of-ethics-1930` | have-raw (IA `in.ernet.dli.2015.2762`) |
+
+## Werner Sombart (economic history)
+
+Shelf: `pipeline/werner-sombart_shelf.json`. Sombart's two Epstein translations on the history of capitalism.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Jews and Modern Capitalism (Dutton, 1913) | M. Epstein | `sombart-jews-and-modern-capitalism-1913` | have-raw (IA `jewsandmoderncap027918mbp`) |
+| The Quintessence of Capitalism (Dutton, 1915) | M. Epstein | `sombart-quintessence-of-capitalism-1915` | have-raw (IA `quintessenceofca0000wern`) |
+
+## Robert Michels (political sociology)
+
+Shelf: `pipeline/robert-michels_shelf.json`. The iron law of oligarchy.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Political Parties (Hearst's International Library, 1915) | Eden and Cedar Paul | `michels-political-parties-1915` | have-raw (IA `politicalparties00michuoft`) |
+
+## M. Ostrogorski (political parties)
+
+Shelf: `pipeline/moisei-ostrogorski_shelf.json`. The first comparative study of party machines, with Bryce's preface.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Democracy and the Organization of Political Parties, vol. I (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v1` | have-raw (IA `democracyorganiz01ostruoft`) |
+| Democracy and the Organization of Political Parties, vol. II (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v2` | have-raw (IA `democracyorganiz02ostruoft`) |
+
+## Shadworth H. Hodgson (metaphysics of experience)
+
+Shelf: `pipeline/shadworth-hodgson_shelf.json`. The four major treatises, first editions, plus one address.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Time and Space (Longman, 1865) |  | `hodgson-time-and-space-1865` | have-raw (IA `bub_gb_86mJQVpgGakC`) |
+| The Theory of Practice, vol. I (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v1` | have-raw (IA `theoryofpractic01hodg`) |
+| The Theory of Practice, vol. II (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v2` | have-raw (IA `theoryofpractic02hodg`) |
+| The Philosophy of Reflection, vol. I (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v1` | have-raw (IA `philosophyofrefl01hodg`) |
+| The Philosophy of Reflection, vol. II (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v2` | have-raw (IA `dli.bengal.10689.17007`) |
+| The Metaphysic of Experience, vol. I (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v1` | have-raw (IA `metaphysicofexp01hodguoft`) |
+| The Metaphysic of Experience, vol. II (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v2` | have-raw (IA `metaphysicofexp02hodguoft`) |
+| The Metaphysic of Experience, vol. III (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v3` | have-raw (IA `metaphysicofexp03hodguoft`) |
+| The Metaphysic of Experience, vol. IV (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v4` | have-raw (IA `metaphysicofexpe04hodgiala`) |
+| The Relation of Philosophy to Science (Williams and Norgate, 1884) |  | `hodgson-relation-of-philosophy-to-science-1884` | have-raw (IA `relationphiloso00hodggoog`) |
+
+Pending (wishlist): Outcast Essays and Verse Translations (1881)
+
+## Oswald Külpe (Würzburg school)
+
+Shelf: `pipeline/oswald-kulpe_shelf.json`. Three translations, two by Titchener.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of Psychology (Swan Sonnenschein, 1895; 1901 printing) | Edward Bradford Titchener | `kulpe-outlines-of-psychology-1895` | have-raw (IA `outlinesofpsycho00kluoft`) |
+| Introduction to Philosophy (Swan Sonnenschein, 1897) | W. B. Pillsbury and E. B. Titchener | `kulpe-introduction-to-philosophy-1897` | have-raw (IA `introtophilosoph00kulpuoft`) |
+| The Philosophy of the Present in Germany (1913) | Maud Lyall Patrick and G. T. W. Patrick | `kulpe-philosophy-of-the-present-in-germany-1913` | have-raw (IA `philosophyofthep00kulpuoft`) |
+
+## Alexander T. Ormond (Princeton idealism)
+
+Shelf: `pipeline/alexander-ormond_shelf.json`. All four of his books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Basal Concepts in Philosophy (Scribner's, 1894) |  | `ormond-basal-concepts-1894` | have-raw (IA `cu31924031229127`) |
+| Foundations of Knowledge (Macmillan, 1900) |  | `ormond-foundations-of-knowledge-1900` | have-raw (IA `foundationsokn00ormouoft`) |
+| Concepts of Philosophy (Macmillan, 1906) |  | `ormond-concepts-of-philosophy-1906` | have-raw (IA `conceptsofphilos00ormo`) |
+| The Philosophy of Religion (Princeton, 1922) |  | `ormond-philosophy-of-religion-1922` | have-raw (IA `cu31924029207458`) |
 
 ## Perseus census (overflow)
 

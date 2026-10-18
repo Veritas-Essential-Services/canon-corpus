@@ -1214,3 +1214,11 @@
 - Santayana: Realm of Essence, Platonism and the Spiritual Life, Realm of Matter
 - Pollock and Maitland 1895 (2 vols); Stephen's Criminal Law 1883 (3 vols); Lieber's Political Ethics (2 vols); Mach's Analysis of Sensations 1914
 - Held: Hobson's Imperialism, Cairnes's Leading Principles
+
+## 2026-10-17 21:13 CDT — Round bm: social theory, Hodgson, Külpe, Ormond
+- Sombart: Jews and Modern Capitalism 1913, Quintessence of Capitalism 1915 (Epstein)
+- Michels: Political Parties 1915 (Paul); Ostrogorski: Democracy and the Organization of Political Parties 1902 (2 vols)
+- Hodgson: Time and Space, Theory of Practice, Philosophy of Reflection, Metaphysic of Experience (9 vols) and an address
+- Külpe: Outlines of Psychology, Introduction to Philosophy, Philosophy of the Present in Germany; Ormond: 4 books
+- Removed duplicates: Soloviev Justification of the Good, Gentile Reform of Education (lane C holds both)
+- Held: Weber (no pre-1931 printing on IA)
