@@ -6379,6 +6379,20 @@ Slugs `alzog-*`. Manual of Universal Church History in English.
 | Manual of Universal Church History, vol. III, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1878) | have-ocr | IA `manualofuniversa03alzo` |
 | The 1902 and 1903 Cincinnati impressions; the Dublin four-volume edition (Gill, 1890-1902); Benziger's History of the Church | alternate | not shelved |
 | German, French, Italian and Spanish editions | excluded | |
+
+## Franz Hettinger (round 29, my pick, 2026-10-18)
+
+Slugs `hettinger-*`. Würzburg apologist, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Natural Religion, from the Apologie des Christenthums, ed. Henry Sebastian Bowden (London: Burns and Oates, 1890) | have-ocr | IA `naturalreligion00hettgoog` |
+| Revealed Religion, from the Apologie des Christenthums, ed. Henry Sebastian Bowden (London: Burns & Oates, 1895) | have-ocr | IA `revealedreligio00bowdgoog` |
+| Dante's Divina Commedia: its scope and value, ed. Henry Sebastian Bowden (London: Burns & Oates, 1887) | have-ocr | IA `dantesdivinacomm00hettrich` |
+| Timothy, or Letters to a Young Theologian, tr. Victor Stepka (St. Louis: B. Herder, 1902) | have-ocr | IA `timothyorletter00hettuoft` |
+| The Supremacy of the Apostolic See in the Church, tr. George Porter (London: Burns & Oates; no year on the title page) | have-ocr | IA `a587442000hettuoft` |
+| Natural Religion third edition (1898); Revealed Religion (Pustet, 1895); other Dante copies | alternate | not shelved |
+| French and German editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
