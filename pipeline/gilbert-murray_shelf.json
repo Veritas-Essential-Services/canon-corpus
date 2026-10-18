@@ -1,0 +1,105 @@
+{
+ "_about": "Gilbert Murray (1866-1957), Regius Professor of Greek at Oxford. His verse translations of the Greek plays are on the euripides, aeschylus and sophocles shelves and his Poetics on aristotle; this shelf holds his own scholarship. He died in 1957, but every book here was published before 1930. Project Gutenberg: Five Stages of Greek Religion; Euripides and His Age. Raw IA OCR: A History of Ancient Greek Literature (Heinemann; first impression 1897, this the impression of 1911); The Rise of the Greek Epic (Oxford, 1907); The Interpretation of Ancient Greek Literature, inaugural lecture (Oxford, 1909); Tradition and Progress (Houghton Mifflin, 1922). Held: The Classical Tradition in Poetry (1927); one scan is a 1957 Vintage reprint and the other's imprint year is cut off after 'MCMXXX'. His surname is common, so only the full name is used. US public domain. No uids minted.",
+ "_author": "Gilbert Murray",
+ "_name_words": [
+  "gilbert",
+  "murray"
+ ],
+ "_surname": [
+  "gilbert murray"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "murray-five-stages-of-greek-religion": [
+   30250,
+   "Five Stages of Greek Religion"
+  ],
+  "murray-euripides-and-his-age": [
+   35472,
+   "Euripides and His Age"
+  ]
+ },
+ "internet_archive": {
+  "murray-history-of-ancient-greek-literature-1897": [
+   "historyofancient00murruoft",
+   "A History of Ancient Greek Literature (Heinemann, 1897; impression of 1911)"
+  ],
+  "murray-rise-of-the-greek-epic-1907": [
+   "riseofgreekepic00murruoft",
+   "The Rise of the Greek Epic (Oxford, 1907)"
+  ],
+  "murray-interpretation-of-ancient-greek-literature-1909": [
+   "interpretationof00murr_0",
+   "The Interpretation of Ancient Greek Literature (Oxford, 1909)"
+  ],
+  "murray-tradition-and-progress-1922": [
+   "traditionprogres00murruoft",
+   "Tradition and Progress (Houghton Mifflin, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "murray-five-stages-of-greek-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "murray-euripides-and-his-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "murray-history-of-ancient-greek-literature-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "murray-rise-of-the-greek-epic-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "murray-interpretation-of-ancient-greek-literature-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "murray-tradition-and-progress-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

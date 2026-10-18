@@ -8119,6 +8119,12 @@ Shelf: `pipeline/gilbert-murray_shelf.json`. Six books, 1897-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Five Stages of Greek Religion |  | `murray-five-stages-of-greek-religion` | have (PG 30250) |
+| Euripides and His Age |  | `murray-euripides-and-his-age` | have (PG 35472) |
+| A History of Ancient Greek Literature (Heinemann, 1897; impression of 1911) |  | `murray-history-of-ancient-greek-literature-1897` | have-raw (IA `historyofancient00murruoft`) |
+| The Rise of the Greek Epic (Oxford, 1907) |  | `murray-rise-of-the-greek-epic-1907` | have-raw (IA `riseofgreekepic00murruoft`) |
+| The Interpretation of Ancient Greek Literature (Oxford, 1909) |  | `murray-interpretation-of-ancient-greek-literature-1909` | have-raw (IA `interpretationof00murr_0`) |
+| Tradition and Progress (Houghton Mifflin, 1922) |  | `murray-tradition-and-progress-1922` | have-raw (IA `traditionprogres00murruoft`) |
 
 Pending (wishlist): The Classical Tradition in Poetry (1927; no dated pre-1931 scan found).
 
