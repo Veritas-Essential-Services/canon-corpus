@@ -567,6 +567,14 @@
    {
     "contents_only": true
    }
+  ],
+  "alger-paul-the-peddler": [
+   659,
+   "Paul the Peddler; Or, The Fortunes of a Young Street Merchant"
+  ],
+  "alger-grandther-baldwins-thanksgiving-with-other-ballads-and": [
+   1919,
+   "Grand'ther Baldwin's Thanksgiving, with Other Ballads and Poems"
   ]
  },
  "internet_archive": {},
@@ -579,7 +587,7 @@
  "_checks": {
   "alger-ragged-dick": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger jr.",
    "identity": "ok",
@@ -588,7 +596,7 @@
   },
   "alger-tattered-tom": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -597,7 +605,7 @@
   },
   "alger-paul-prescotts-charge": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -606,7 +614,7 @@
   },
   "alger-cash-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -615,7 +623,7 @@
   },
   "alger-cast-upon-the-breakers": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -624,7 +632,7 @@
   },
   "alger-errand-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -633,7 +641,7 @@
   },
   "alger-joe-the-hotel-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -642,7 +650,7 @@
   },
   "alger-driven-from-home": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -651,7 +659,7 @@
   },
   "alger-phil-the-fiddler": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -660,7 +668,7 @@
   },
   "alger-franks-campaign": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -669,7 +677,7 @@
   },
   "alger-timothy-crumps-ward": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
    "identity": "ok",
@@ -678,7 +686,7 @@
   },
   "alger-struggling-upward-or-luke-larkins-luck": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -687,7 +695,7 @@
   },
   "alger-young-explorer": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -696,7 +704,7 @@
   },
   "alger-young-musician": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
    "identity": "ok",
@@ -705,7 +713,7 @@
   },
   "alger-hectors-inheritance": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -714,7 +722,7 @@
   },
   "alger-do-and-dare-a-brave-boys-fight-for-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -723,7 +731,7 @@
   },
   "alger-try-and-trust": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -732,7 +740,7 @@
   },
   "alger-helping-himself": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -741,7 +749,7 @@
   },
   "alger-bound-to-rise": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -750,7 +758,7 @@
   },
   "alger-walter-sherwoods-probation": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -759,7 +767,7 @@
   },
   "alger-herbert-carters-legacy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -768,7 +776,7 @@
   },
   "alger-facing-the-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -777,7 +785,7 @@
   },
   "alger-brave-and-bold": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger jr.",
    "identity": "ok",
@@ -786,7 +794,7 @@
   },
   "alger-store-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
    "identity": "ok",
@@ -795,7 +803,7 @@
   },
   "alger-jacks-ward": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -804,7 +812,7 @@
   },
   "alger-only-an-irish-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -813,7 +821,7 @@
   },
   "alger-risen-from-the-ranks": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -822,7 +830,7 @@
   },
   "alger-joes-luck": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -831,7 +839,7 @@
   },
   "alger-making-his-way": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -840,7 +848,7 @@
   },
   "alger-andy-grants-pluck": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -849,7 +857,7 @@
   },
   "alger-from-canal-boy-to-president": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -858,7 +866,7 @@
   },
   "alger-adrift-in-new-york": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -867,7 +875,7 @@
   },
   "alger-frank-and-fearless": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -876,7 +884,7 @@
   },
   "alger-young-captain-jack": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -885,7 +893,7 @@
   },
   "alger-five-hundred-dollars": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -894,7 +902,7 @@
   },
   "alger-randy-of-the-river": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -903,7 +911,7 @@
   },
   "alger-fame-and-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -912,7 +920,7 @@
   },
   "alger-young-acrobat-of-the-great-north-american-circus": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -921,7 +929,7 @@
   },
   "alger-from-farm-to-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -930,7 +938,7 @@
   },
   "alger-young-miner": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -939,7 +947,7 @@
   },
   "alger-chester-rand": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -948,7 +956,7 @@
   },
   "alger-telegraph-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -957,7 +965,7 @@
   },
   "alger-young-bank-messenger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -966,7 +974,7 @@
   },
   "alger-slow-and-sure": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -975,7 +983,7 @@
   },
   "alger-bens-nugget": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -984,7 +992,7 @@
   },
   "alger-rufus-and-rose": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -993,7 +1001,7 @@
   },
   "alger-young-outlaw": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1002,7 +1010,7 @@
   },
   "alger-sams-chance-and-how-he-improved-it": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1011,7 +1019,7 @@
   },
   "alger-erie-train-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1020,7 +1028,7 @@
   },
   "alger-luke-walton": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1029,7 +1037,7 @@
   },
   "alger-in-a-new-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1038,7 +1046,7 @@
   },
   "alger-tom-the-bootblack": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1047,7 +1055,7 @@
   },
   "alger-a-cousins-conspiracy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1056,7 +1064,7 @@
   },
   "alger-tin-box-and-what-it-contained": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1065,7 +1073,7 @@
   },
   "alger-young-adventurer": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1074,7 +1082,7 @@
   },
   "alger-ben-the-luggage-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1083,7 +1091,7 @@
   },
   "alger-robert-coverdales-struggle": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1092,7 +1100,7 @@
   },
   "alger-mark-masons-victory": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1101,7 +1109,7 @@
   },
   "alger-wait-and-hope": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1110,7 +1118,7 @@
   },
   "alger-bernard-brooks-adventures": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1119,7 +1127,7 @@
   },
   "alger-a-debt-of-honor": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1128,7 +1136,7 @@
   },
   "alger-a-boys-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1137,7 +1145,7 @@
   },
   "alger-backwoods-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1146,7 +1154,7 @@
   },
   "alger-andy-gordon": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1155,7 +1163,7 @@
   },
   "alger-bob-burton": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1164,7 +1172,7 @@
   },
   "alger-adventures-of-a-telegraph-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1173,7 +1181,7 @@
   },
   "alger-mark-the-match-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1182,7 +1190,7 @@
   },
   "alger-digging-for-gold": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1191,7 +1199,7 @@
   },
   "alger-dan-the-newsboy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1200,7 +1208,7 @@
   },
   "alger-from-farm-boy-to-senator-being-the-history-of-the-boyh": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1209,7 +1217,7 @@
   },
   "alger-julius-the-street-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1218,7 +1226,7 @@
   },
   "alger-helen-ford": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1227,7 +1235,7 @@
   },
   "alger-nothing-to-do": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
    "identity": "ok",
@@ -1236,7 +1244,7 @@
   },
   "alger-in-search-of-treasure": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1245,7 +1253,7 @@
   },
   "alger-grit": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1254,7 +1262,7 @@
   },
   "alger-luck-and-pluck": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1263,7 +1271,7 @@
   },
   "alger-charlie-codmans-cruise": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1272,7 +1280,7 @@
   },
   "alger-jed-the-poorhouse-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1281,7 +1289,7 @@
   },
   "alger-nelson-the-newsboy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1290,7 +1298,7 @@
   },
   "alger-ralph-raymonds-heir": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1299,7 +1307,7 @@
   },
   "alger-ruperts-ambition": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1308,7 +1316,7 @@
   },
   "alger-disagreeable-woman": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
    "identity": "ok",
@@ -1317,7 +1325,7 @@
   },
   "alger-out-for-business": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1326,7 +1334,7 @@
   },
   "alger-mark-mannings-mission": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1335,7 +1343,7 @@
   },
   "alger-strong-and-steady": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1344,7 +1352,7 @@
   },
   "alger-rough-and-ready": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1353,7 +1361,7 @@
   },
   "alger-making-his-mark": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1362,7 +1370,7 @@
   },
   "alger-shifting-for-himself": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1371,7 +1379,7 @@
   },
   "alger-train-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1380,7 +1388,7 @@
   },
   "alger-dean-dunham": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1389,7 +1397,7 @@
   },
   "alger-strive-and-succeed": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1398,7 +1406,7 @@
   },
   "alger-berthas-christmas-vision": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1407,7 +1415,7 @@
   },
   "alger-frank-hunters-peril": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1416,7 +1424,7 @@
   },
   "alger-tom-temples-career": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1425,7 +1433,7 @@
   },
   "alger-tony-the-tramp": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1434,7 +1442,7 @@
   },
   "alger-young-book-agent": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1443,7 +1451,7 @@
   },
   "alger-young-salesman": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1452,7 +1460,7 @@
   },
   "alger-tom-thatchers-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1461,7 +1469,7 @@
   },
   "alger-adrift-in-the-city": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1470,7 +1478,7 @@
   },
   "alger-falling-in-with-fortune": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1479,7 +1487,7 @@
   },
   "alger-sink-or-swim": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1488,7 +1496,7 @@
   },
   "alger-tony-the-hero": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1497,7 +1505,7 @@
   },
   "alger-ben-bruce": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1506,7 +1514,7 @@
   },
   "alger-seeking-his-fortune-and-other-dialogues": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
    "identity": "ok",
@@ -1515,9 +1523,27 @@
   },
   "alger-nugget-finders": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-paul-the-peddler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-grandther-baldwins-thanksgiving-with-other-ballads-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
