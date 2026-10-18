@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe); Guicciardini's History of Italy in Goddard's ten volumes (1753-56), his maxims twice (Thomson's Counsels and Reflections, 1890, and Emma Martin's Maxims, 1845); and d'Azeglio's Recollections (Count Maffei, 1868) and Ettore Fieramosca twice (Lester 1845, Lady Louisa Magenis 1880). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92), widened in round 105; Adam may veto. No uids minted.",
+ "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe); Guicciardini's History of Italy in Goddard's ten volumes (1753-56), his maxims twice (Thomson's Counsels and Reflections, 1890, and Emma Martin's Maxims, 1845); and d'Azeglio's Recollections (Count Maffei, 1868) and Ettore Fieramosca twice (Lester 1845, Lady Louisa Magenis 1880); and Niccolini's Arnold of Brescia (Theodosia Garrow, 1846). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92), widened in round 105; Adam may veto. No uids minted.",
  "_name_words": [
   "austin parke goddard",
   "bickersteth",
@@ -25,7 +25,9 @@
   "maud holland",
   "parke goddard",
   "sewall",
-  "van steenderen"
+  "van steenderen",
+  "theodosia garrow",
+  "garrow"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common-word surnames (black, lloyd, fraser, holland, arms, tribe, gilbert, bax) are never listed bare.",
  "_surname": [
@@ -53,7 +55,9 @@
   "maud holland",
   "parke goddard",
   "sewall",
-  "van steenderen"
+  "van steenderen",
+  "theodosia garrow",
+  "garrow"
  ],
  "_surname_by_slug": {
   "itc-goldoni-memoirs-1": [
@@ -171,6 +175,10 @@
   "itc-azeglio-challenge-of-barletta-magenis-2": [
    "louisa magenis",
    "magenis"
+  ],
+  "itc-niccolini-arnold-of-brescia": [
+   "theodosia garrow",
+   "garrow"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -307,6 +315,10 @@
   "itc-azeglio-challenge-of-barletta-magenis-2": [
    "challengebarlet00azegoog",
    "The Challenge of Barletta (Ettore Fieramosca), vol. II (1880)"
+  ],
+  "itc-niccolini-arnold-of-brescia": [
+   "arnoldbresciaat00niccgoog",
+   "Arnold of Brescia: a Tragedy (1846)"
   ]
  },
  "titles": {
@@ -572,6 +584,14 @@
    "translated": 1880,
    "translator": "Lady Louisa Magenis",
    "scan_edition": "W. H. Allen & Co., London 1880; Google scan"
+  },
+  "italian-classics-niccolini-arnold-of-brescia": {
+   "source": "itc-niccolini-arnold-of-brescia",
+   "of": "Giovanni Battista Niccolini",
+   "work": "Arnold of Brescia: a Tragedy",
+   "translated": 1846,
+   "translator": "Theodosia Garrow",
+   "scan_edition": "Longman, Brown, Green, and Longman, London 1846; Google scan"
   }
  },
  "_pending": {},
@@ -951,6 +971,17 @@
    "ia_date": "1880",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "itc-niccolini-arnold-of-brescia": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodosia garrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1265,6 +1296,17 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [
     1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-niccolini-arnold-of-brescia": {
+   "ia": "arnoldbresciaat00niccgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1790,
+    1804,
+    1830,
+    1846
    ],
    "post_1930_years_in_front_15k": []
   }

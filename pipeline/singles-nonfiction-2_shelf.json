@@ -124,7 +124,8 @@
   "william henry smyth",
   "william jesse",
   "william stewart wallace",
-  "william sweetland dallas"
+  "william sweetland dallas",
+  "ryde"
  ],
  "_surname": [
   "aimée l. mckenzie",
@@ -250,7 +251,8 @@
   "william henry smyth",
   "william jesse",
   "william stewart wallace",
-  "william sweetland dallas"
+  "william sweetland dallas",
+  "ryde"
  ],
  "_surname_by_slug": {
   "snf-1320": [
@@ -637,6 +639,16 @@
   "snf-31799": [
    "baker",
    "theodore baker"
+  ],
+  "snf-lamartine-history-of-the-girondists-vol-2": [
+   "h. t. ryde",
+   "henry t. ryde",
+   "ryde"
+  ],
+  "snf-lamartine-history-of-the-girondists-vol-3": [
+   "h. t. ryde",
+   "henry t. ryde",
+   "ryde"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -979,7 +991,16 @@
    "Sketch of a New Esthetic of Music"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "snf-lamartine-history-of-the-girondists-vol-2": [
+   "historyofgirondi0002lama_z7v9",
+   "History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II (1849)"
+  ],
+  "snf-lamartine-history-of-the-girondists-vol-3": [
+   "historygirondist03lama",
+   "History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III (1848)"
+  ]
+ },
  "titles": {
   "singles-nonfiction-2-achenwall-achenwall-s-observations-on-north-americ": {
    "source": "snf-24752",
@@ -1657,6 +1678,23 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Lily Kendall Beers Berthelot de la Boileverie",
    "scan_edition": "Project Gutenberg 13072 (clean text)"
+  },
+  "singles-nonfiction-2-lamartine-history-of-the-girondists-vol-2": {
+   "source": "snf-lamartine-history-of-the-girondists-vol-2",
+   "of": "Alphonse de Lamartine",
+   "work": "History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II",
+   "translated": 1849,
+   "translator": "H. T. Ryde",
+   "scan_edition": "Henry G. Bohn, London 1849; archive.org scan",
+   "note": "Volume I is on this shelf from Gutenberg."
+  },
+  "singles-nonfiction-2-lamartine-history-of-the-girondists-vol-3": {
+   "source": "snf-lamartine-history-of-the-girondists-vol-3",
+   "of": "Alphonse de Lamartine",
+   "work": "History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III",
+   "translated": 1848,
+   "translator": "H. T. Ryde",
+   "scan_edition": "Henry G. Bohn, London 1848 (the OCR reads '134S'); archive.org scan"
   }
  },
  "_pending": {},
@@ -2421,6 +2459,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Theodore Baker"
+  },
+  "snf-lamartine-history-of-the-girondists-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snf-lamartine-history-of-the-girondists-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2848,7 +2908,36 @@
    "pg": 31799,
    "pg_copyrighted_marker": false,
    "pg_translator": "Theodore Baker"
+  },
+  "snf-lamartine-history-of-the-girondists-vol-2": {
+   "ia": "historyofgirondi0002lama_z7v9",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "snf-lamartine-history-of-the-girondists-vol-3": {
+   "ia": "historygirondist03lama",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1821,
+    1823,
+    1824,
+    1829,
+    1830,
+    1832
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "snf-lamartine-history-of-the-girondists-vol-2": {
+   "author": "The title page OCR reads 'TRANSLATED BT H. T. RTDE.' for H. T. Ryde, under 'London: Henry G. Bohn, York Street, Covent Garden'. Checked by eye 2026-10-17."
+  },
+  "snf-lamartine-history-of-the-girondists-vol-3": {
+   "author": "The title page OCR reads 'IN THREE VOLUME? vol. m. TRANSLATED BT H. T. BTDE. WiTH A BIOCRAOHICAL SKETCH OF THE AJTHO*.' for H. T. Ryde, under 'London: Henry G. Bohn, York Street, Covent Garden. 134S.' Checked by eye 2026-10-17."
+  }
+ }
 }

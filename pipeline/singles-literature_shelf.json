@@ -50,7 +50,9 @@
   "william blaydes",
   "william hume blake",
   "william taylor",
-  "yasotaro mori"
+  "yasotaro mori",
+  "frances wilson huard",
+  "huard"
  ],
  "_surname": [
   "a. r. waller",
@@ -102,7 +104,9 @@
   "william blaydes",
   "william hume blake",
   "william taylor",
-  "yasotaro mori"
+  "yasotaro mori",
+  "frances wilson huard",
+  "huard"
  ],
  "_surname_by_slug": {
   "sli-913": [
@@ -277,6 +281,10 @@
   "sli-2992": [
    "jones",
    "philip dwight jones"
+  ],
+  "sli-vigny-military-servitude-and-grandeur": [
+   "frances wilson huard",
+   "huard"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -443,7 +451,12 @@
    "The Middle-Class Gentleman"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sli-vigny-military-servitude-and-grandeur": [
+   "militaryservitu00huargoog",
+   "Military Servitude and Grandeur (1919)"
+  ]
+ },
  "titles": {
   "singles-literature-azuela-the-underdogs": {
    "source": "sli-549",
@@ -765,6 +778,14 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Henninge Margrethe Krohn Schanche",
    "scan_edition": "Project Gutenberg 21937 (clean text)"
+  },
+  "singles-literature-vigny-military-servitude-and-grandeur": {
+   "source": "sli-vigny-military-servitude-and-grandeur",
+   "of": "Alfred de Vigny",
+   "work": "Military Servitude and Grandeur",
+   "translated": 1919,
+   "translator": "Frances Wilson Huard",
+   "scan_edition": "George H. Doran Company, New York 1919; Google scan"
   }
  },
  "_pending": {},
@@ -1133,6 +1154,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Philip Dwight Jones"
+  },
+  "sli-vigny-military-servitude-and-grandeur": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frances wilson huard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1335,6 +1367,16 @@
    "pg": 2992,
    "pg_copyrighted_marker": false,
    "pg_translator": "Philip Dwight Jones"
+  },
+  "sli-vigny-military-servitude-and-grandeur": {
+   "ia": "militaryservitu00huargoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835,
+    1885,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

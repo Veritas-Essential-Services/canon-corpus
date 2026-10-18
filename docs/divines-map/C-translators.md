@@ -5194,7 +5194,7 @@ Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: novels, plays and poems (Lermontov, Pushkin, Mickiewicz, Botchan, Maria Chapdelaine, Huysmans, the Noh plays, Cervantes's Exemplary Novels)
 
 Shelf: `pipeline/singles-literature_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-literature` · titles `python3 pipeline/split_shelf_titles.py singles-literature`.
-Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 40 (2026-10-10), vetoable. Round 107 (2026-10-17) added Huard's Vigny, Military Servitude and Grandeur (1919), from an archive.org scan. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5238,6 +5238,7 @@ Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-literature-sand-mauprat` | George Sand | Mauprat | Stanley Young | (see the Gutenberg header) | have | PG 2194 |
 | `singles-literature-schiller-mary-stuart` | Friedrich Schiller | Mary Stuart: A Tragedy | Joseph Charles Mellish | (see the Gutenberg header) | have | PG 6791 |
 | `singles-literature-sigurjonsson-modern-icelandic-plays-eyvind-of-the-hil` | Jóhann Sigurjónsson | Modern Icelandic Plays Eyvind of the Hills; The Hraun Farm | Henninge Margrethe Krohn Schanche | (see the Gutenberg header) | have | PG 21937 |
+| `singles-literature-vigny-military-servitude-and-grandeur` | Alfred de Vigny | Military Servitude and Grandeur | Frances Wilson Huard | 1919 | have-raw | IA `militaryservitu00huargoog` |
 | — | — | pg-30442: Daudet's Letters from My Windmill in the Keith Adams and Mireille Harmelin translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
 | — | — | pg-17445: Pumpurs's Bearslayer in Arthur Cropley's translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
 
@@ -6101,7 +6102,7 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: history, travel, ideas and music from the first stretch of the list (De Orbe Novo, Morga's Philippines, Lobo's Abyssinia by Samuel Johnson, the Tudor Machiavelli, Lamartine's Girondists, Arago, Wagner On Conducting)
 
 Shelf: `pipeline/singles-nonfiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-nonfiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-nonfiction-2`.
-Round 49 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6189,6 +6190,8 @@ Round 49 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-nonfiction-2-wagner-the-simple-life` | Charles Wagner | The Simple Life | Mary Louise Hendee | (see the Gutenberg header) | have | PG 23092 |
 | `singles-nonfiction-2-yajnavalkya-hindu-law-and-judicature-from-the-dharma` | Yajñavalkya | Hindu Law and Judicature from the Dharma-Sástra of Yájnavalkya | W. A. Montriou and Edward Röer | (see the Gutenberg header) | have | PG 21918 |
 | `singles-nonfiction-2-yoritomo-tashi-common-sense-how-to-exercise-it` | Yoritomo-Tashi | Common sense, how to exercise it | Lily Kendall Beers Berthelot de la Boileverie | (see the Gutenberg header) | have | PG 13072 |
+| `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-2` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II | H. T. Ryde | 1849 | have-raw | IA `historyofgirondi0002lama_z7v9` |
+| `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-3` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III | H. T. Ryde | 1848 | have-raw | IA `historygirondist03lama` |
 | — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
 | — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
 
@@ -6796,10 +6799,10 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted t
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
 | — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |
 
-## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, and Ettore Fieramosca by Lester and by Lady Louisa Magenis
+## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, Ettore Fieramosca by Lester and by Lady Louisa Magenis, and Garrow's Niccolini
 
 Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
-Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
+Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6835,6 +6838,7 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 | `italian-classics-azeglio-challenge-of-barletta-lester` | Massimo d'Azeglio | Ettore Fieramosca, or the Challenge of Barletta: an Historical Romance of the Times of the Medici | C. Edwards Lester | 1845 | have-raw | IA `ettorefieramosca00azeg_0` |
 | `italian-classics-azeglio-challenge-of-barletta-magenis-1` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. I | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet01azegoog` |
 | `italian-classics-azeglio-challenge-of-barletta-magenis-2` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. II | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet00azegoog` |
+| `italian-classics-niccolini-arnold-of-brescia` | Giovanni Battista Niccolini | Arnold of Brescia: a Tragedy | Theodosia Garrow | 1846 | have-raw | IA `arnoldbresciaat00niccgoog` |
 | — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
 | — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
