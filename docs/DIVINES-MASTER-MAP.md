@@ -7097,6 +7097,21 @@ Slugs `deissmann-*`. Bible Studies, Light from the Ancient East, St. Paul and ot
 | Bible Studies second edition (1909); New Light 1908 reprint; undated first-edition Light copies; the Doran 1926 issues | alternate | not shelved |
 | 1965, 1979 and 1995 reprints | excluded | |
 | Meecham's Light from Ancient Letters; a 1903 New Light by another author; German originals | excluded | |
+
+## Theodor Zahn (round 31, my pick, 2026-10-18)
+
+Slugs `zahn-*`. Introduction to the New Testament and two smaller books in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Introduction to the New Testament, vol. I, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909) | have-ocr | IA `introductiontone01zahnuoft` |
+| Introduction to the New Testament, vol. II, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909) | have-ocr | IA `introductiontone02zahnuoft` |
+| Introduction to the New Testament, vol. III, tr. John Moore Trout and others under Melancthon Williams Jacobus (Edinburgh: T. & T. Clark, 1909) | have-ocr | IA `introductiontone03zahnuoft` |
+| The Apostles' Creed: a Sketch of its History and an Examination of its Contents, tr. C. S. Burn and A. E. Burn (London: Hodder and Stoughton, 1899) | have-ocr | IA `apostlescreedas00zahngoog` |
+| Bread and Salt from the Word of God, in Sixteen Sermons, tr. C. S. Burn and A. E. Burn (Edinburgh: T. & T. Clark, 1905) | have-ocr | IA `breadandsaltfro00zahngoog` |
+| Scribner's three-in-one second edition (1917); other 1899 and 1905 copies | alternate | not shelved |
+| Kregel 1953 reprints | excluded | |
+| German works; novels by other Zahns | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1474,3 +1474,6 @@
 
 ## 2026-10-17 20:41 CDT — adolf-deissmann done
 - `pipeline/adolf-deissmann_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — theodor-zahn done
+- `pipeline/theodor-zahn_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
