@@ -1,5 +1,5 @@
 {
- "_about": "Henry Sidgwick (1838-1900), from Project Gutenberg: The Methods of Ethics, 7th ed. (London: Macmillan, 1907; first edition 1874), the last edition, prepared from his revisions. US public domain. No uids minted.",
+ "_about": "Henry Sidgwick (1838-1900), from Project Gutenberg: The Methods of Ethics, 7th ed. (London: Macmillan, 1907; first edition 1874), the last edition, prepared from his revisions. US public domain. Added in round cl from Internet Archive scans, each dated on its title page: Outlines of the History of Ethics (1902), Principles of Political Economy (1883), Elements of Politics (1897), Practical Ethics (1897), and the posthumous volumes edited from his papers by others (James Ward, Eleanor Sidgwick, Arthur Sidgwick): Philosophy its Scope and Relations (1902), Lectures on the Ethics of Green, Spencer and Martineau (1902), Development of European Polity (1903), Miscellaneous Essays and Addresses (1904), Lectures on the Philosophy of Kant (1905). All US public domain. No uids minted.",
  "_author": "Henry Sidgwick",
  "_name_words": [
   "henry",
@@ -15,17 +15,153 @@
    "The Methods of Ethics, 7th ed. (London: Macmillan, 1907)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sidgwick-outlines-history-of-ethics-1902": [
+   "outlinesofhistor0000sidg_u0l5",
+   "Outlines of the History of Ethics for English Readers (5th ed., 1902)"
+  ],
+  "sidgwick-principles-political-economy-1883": [
+   "principlesofpoli0000sidg",
+   "The Principles of Political Economy (1883)"
+  ],
+  "sidgwick-elements-of-politics-1897": [
+   "theelementsofpol00sidguoft",
+   "The Elements of Politics (2nd ed., 1897)"
+  ],
+  "sidgwick-practical-ethics-1897": [
+   "practicalethics00sidguoft",
+   "Practical Ethics: A Collection of Addresses and Essays (1897)"
+  ],
+  "sidgwick-philosophy-scope-relations-1902": [
+   "philosophyitssc00wardgoog",
+   "Philosophy, its Scope and Relations (1902, ed. James Ward)"
+  ],
+  "sidgwick-lectures-ethics-green-spencer-martineau-1902": [
+   "lecturesonethics00sidg",
+   "Lectures on the Ethics of T. H. Green, Mr. Herbert Spencer, and J. Martineau (1902)"
+  ],
+  "sidgwick-development-european-polity-1903": [
+   "thedevelopmentof00sidguoft",
+   "The Development of European Polity (1903)"
+  ],
+  "sidgwick-miscellaneous-essays-1904": [
+   "miscellaneouses00sidggoog",
+   "Miscellaneous Essays and Addresses (1904)"
+  ],
+  "sidgwick-lectures-philosophy-kant-1905": [
+   "lecturesonphilo00sidguoft",
+   "Lectures on the Philosophy of Kant and Other Philosophical Lectures and Essays (1905, ed. James Ward)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "sidgwick-methods-of-ethics-1907": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "sidgwick",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "sidgwick-outlines-history-of-ethics-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-principles-political-economy-1883": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-elements-of-politics-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-practical-ethics-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-philosophy-scope-relations-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-lectures-ethics-green-spencer-martineau-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-development-european-polity-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-miscellaneous-essays-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sidgwick-lectures-philosophy-kant-1905": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
