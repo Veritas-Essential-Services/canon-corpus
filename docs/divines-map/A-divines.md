@@ -6941,3 +6941,17 @@ Slugs `hagenbach-*`. History of Doctrines, the Reformation, German Rationalism a
 | The 1850 second edition of the Compendium; later Plumptre and Reformation issues; the American German Rationalism | alternate | not shelved |
 | Crooks and Hurst's Theological Encyclopaedia 'on the basis of Hagenbach': a work by other hands | excluded | |
 | Church Music and Song: one article in a periodical | excluded | |
+
+## Johann Karl Ludwig Gieseler (round 30, my pick, 2026-10-18)
+
+Slugs `gieseler-*`. The Text-Book of Church History, Harper's five volumes.
+
+| Work | Status | Where |
+|---|---|---|
+| A Text-Book of Church History, vol. I, A.D. 1-726, tr. Samuel Davidson, ed. Henry B. Smith (New York: Harper & Brothers, 1857) | have-ocr | IA `textbookofchurcht01gies` |
+| A Text-Book of Church History, vol. II, A.D. 726-1305, tr. Samuel Davidson and John Winstanley Hull, ed. Henry B. Smith (New York: Harper & Brothers, 1857) | have-ocr | IA `textbookofchurchh02gies` |
+| A Text-Book of Church History, vol. III, A.D. 1305-1517, tr. John W. Hull, ed. Henry B. Smith (New York: Harper & Brothers, 1858) | have-ocr | IA `textbookofchurchh03gies` |
+| A Text-Book of Church History, vol. IV, A.D. 1517-1648, tr. and ed. Henry B. Smith (New York: Harper & Brothers, 1862) | have-ocr | IA `textbookofchurchh04gies` |
+| A Text-Book of Church History, vol. V, A.D. 1517-1854, tr. Henry B. Smith, completed by Mary A. Robinson (New York: Harper & Brothers, 1880) | have-ocr | IA `textbookofchurch05gies` |
+| Clark's Edinburgh Compendium of Ecclesiastical History (1846-1856) | alternate | not shelved |
+| Francis Cunningham's earlier translation (Philadelphia: Carey, Lea, and Blanchard, 1836) | alternate | not shelved |
