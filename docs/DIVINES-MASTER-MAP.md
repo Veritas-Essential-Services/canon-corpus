@@ -35110,6 +35110,53 @@ Shelf: `pipeline/winston-churchill-novels_shelf.json` (2026-10-17; added at the 
 | pg-28822 | excluded | PG 28822: Gutenberg's index of the author's works, not a book. |
 | split-parts | excluded | Gutenberg's split-part files PG 3646, 3647, 3648, 3681, 3682, 3683, 3736, 3737, 3738, 3762, 3763, 3764, 3765, 5356, 5357, 5358, 5359, 5360, 5361, 5362, 5363, 5365, 5366, 5367, 5368, 5369, 5370, 5371, 5372, 5374, 5375, 5376, 5377, 5378, 5379, 5380, 5381, 5383, 5384, 5385, 5386, 5388, 5389, 5390, 5391, 5392, 5393, 5394, 5395: the complete edition of each is on the shelf instead. |
 
+## Gilbert Parker
+
+Shelf: `pipeline/gilbert-parker_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (37 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Judgment House | have | PG 3746, `gparker-judgment-house` (3147 units) |
+| Pierre and His People: Tales of the Far North. Complete | have | PG 6179, `gparker-pierre-and-his-people-6179` (1614 units) |
+| A Romany of the Snows, Complete Being a Continuation of the Personal Histories of "Pierre and His People" and the Last Existing Records of Pretty Pierre | have | PG 6185, `gparker-a-romany-of-the-snows-complete-being-a-continuation` (1818 units) |
+| Northern Lights, Complete | have | PG 6191, `gparker-northern-lights-complete` (1961 units) |
+| Mrs. Falchion, Complete | have | PG 6194, `gparker-mrs-falchion-complete` (1648 units) |
+| Cumner's Son and Other South Sea Folk — Complete | have | PG 6201, `gparker-cumners-son-and-other-south-sea-folk-complete` (1551 units) |
+| When Valmond Came to Pontiac: The Story of a Lost Napoleon. Complete | have | PG 6205, `gparker-when-valmond-came-to-pontiac-6205` (1171 units) |
+| The Trail of the Sword, Complete | have | PG 6210, `gparker-trail-of-the-sword-complete` (1052 units) |
+| The Translation of a Savage, Complete | have | PG 6214, `gparker-translation-of-a-savage-complete` (732 units) |
+| The Pomp of the Lavilettes, Complete | have | PG 6217, `gparker-pomp-of-the-lavilettes-complete` (764 units) |
+| At the Sign of the Eagle | have | PG 6218, `gparker-at-the-sign-of-the-eagle` (260 units) |
+| The Trespasser, Complete | have | PG 6222, `gparker-trespasser-complete` (1717 units) |
+| The March of the White Guard | have | PG 6223, `gparker-march-of-the-white-guard` (232 units) |
+| The Seats of the Mighty, Complete | have | PG 6229, `gparker-seats-of-the-mighty-complete` (1942 units) |
+| The Battle of the Strong: A Romance of Two Kingdoms — Complete | have | PG 6236, `gparker-battle-of-the-strong-6236` (2280 units) |
+| The Lane That Had No Turning, Complete | have | PG 6241, `gparker-lane-that-had-no-turning-complete` (1520 units) |
+| Parables of a Province | have | PG 6242, `gparker-parables-of-a-province` (389 units) |
+| The Right of Way — Complete | have | PG 6249, `gparker-right-of-way-complete` (2557 units) |
+| Michel and Angele [A Ladder of Swords] — Complete | have | PG 6253, `gparker-michel-and-angele-a-ladder-of-swords-complete` (863 units) |
+| John Enderby | have | PG 6254, `gparker-john-enderby` (303 units) |
+| There Is Sorrow on the Sea | have | PG 6255, `gparker-there-is-sorrow-on-the-sea` (52 units) |
+| Donovan Pasha, and Some People of Egypt — Complete | have | PG 6260, `gparker-donovan-pasha-and-some-people-of-egypt-complete` (1683 units) |
+| The Weavers: a tale of England and Egypt of fifty years ago - Complete | have | PG 6267, `gparker-weavers-6267` (2932 units) |
+| Embers, Complete | have | PG 6271, `gparker-embers-complete` (490 units) |
+| A Lover's Diary, Complete | have | PG 6274, `gparker-a-lovers-diary-complete` (366 units) |
+| The Money Master, Complete | have | PG 6280, `gparker-money-master-complete` (1425 units) |
+| The World for Sale, Complete | have | PG 6284, `gparker-world-for-sale-complete` (1938 units) |
+| You Never Know Your Luck; being the story of a matrimonial deserter. Complete | have | PG 6288, `gparker-you-never-know-your-luck-6288` (1257 units) |
+| Wild Youth, Complete | have | PG 6291, `gparker-wild-youth-complete` (813 units) |
+| No Defense, Complete | have | PG 6295, `gparker-no-defense-complete` (1607 units) |
+| Carnac's Folly, Complete | have | PG 6299, `gparker-carnacs-folly-complete` (1594 units) |
+| The Project Gutenberg Complete Works of Gilbert Parker | have | PG 6300, `gparker-project-gutenberg-complete-works-of-gilbert-parker` (41707 units) |
+| An Unpardonable Liar | have | PG 15793, `gparker-an-unpardonable-liar` (484 units) |
+| The Going of the White Swan | have | PG 16716, `gparker-going-of-the-white-swan` (196 units) |
+| Northern Lights | have | PG 26905, `gparker-northern-lights` (2090 units) |
+| Old Quebec: The Fortress of New France (with Claude G. Bryan) | have | PG 30367, `gparker-old-quebec` (1698 units) |
+| A Ladder of Swords: A Tale of Love, Laughter and Tears | have | PG 41303, `gparker-a-ladder-of-swords` (942 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 6174, 6175, 6176, 6177, 6178, 6180, 6181, 6182, 6183, 6184, 6186, 6187, 6188, 6189, 6190, 6192, 6193, 6195, 6196, 6197, 6198, 6199, 6202, 6203, 6204, 6206, 6207, 6208, 6209, 6211, 6212, 6213, 6215, 6216, 6219, 6220, 6221, 6224, 6225, 6226, 6227, 6228, 6230, 6231, 6232, 6233, 6234, 6235, 6237, 6238, 6239, 6240, 6243, 6244, 6245, 6246, 6247, 6248, 6250, 6251, 6252, 6256, 6257, 6258, 6259, 6261, 6262, 6264, 6265, 6266, 6268, 6269, 6270, 6272, 6273, 6275, 6276, 6277, 6278, 6279, 6281, 6282, 6283, 6285, 6286, 6287, 6289, 6290, 6292, 6293, 6294, 6296, 6297, 6298: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 6263: second Gutenberg editions of titles already on the shelf. |
+| pg-6590 | excluded | PG 6590, 7553: David Widger's quotation and image selections. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

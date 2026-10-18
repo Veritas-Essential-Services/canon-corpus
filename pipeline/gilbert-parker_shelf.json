@@ -1,0 +1,523 @@
+{
+ "_about": "Sir Gilbert Parker's novels and stories of French Canada and the North: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Gilbert Parker",
+ "_name_words": [
+  "parker"
+ ],
+ "_surname": [
+  "gilbert parker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gparker-judgment-house": [
+   3746,
+   "The Judgment House",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-pierre-and-his-people-6179": [
+   6179,
+   "Pierre and His People: Tales of the Far North. Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-a-romany-of-the-snows-complete-being-a-continuation": [
+   6185,
+   "A Romany of the Snows, Complete Being a Continuation of the Personal Histories of \"Pierre and His People\" and the Last Existing Records of Pretty Pierre",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-northern-lights-complete": [
+   6191,
+   "Northern Lights, Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-mrs-falchion-complete": [
+   6194,
+   "Mrs. Falchion, Complete"
+  ],
+  "gparker-cumners-son-and-other-south-sea-folk-complete": [
+   6201,
+   "Cumner's Son and Other South Sea Folk — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-when-valmond-came-to-pontiac-6205": [
+   6205,
+   "When Valmond Came to Pontiac: The Story of a Lost Napoleon. Complete"
+  ],
+  "gparker-trail-of-the-sword-complete": [
+   6210,
+   "The Trail of the Sword, Complete"
+  ],
+  "gparker-translation-of-a-savage-complete": [
+   6214,
+   "The Translation of a Savage, Complete"
+  ],
+  "gparker-pomp-of-the-lavilettes-complete": [
+   6217,
+   "The Pomp of the Lavilettes, Complete"
+  ],
+  "gparker-at-the-sign-of-the-eagle": [
+   6218,
+   "At the Sign of the Eagle"
+  ],
+  "gparker-trespasser-complete": [
+   6222,
+   "The Trespasser, Complete"
+  ],
+  "gparker-march-of-the-white-guard": [
+   6223,
+   "The March of the White Guard"
+  ],
+  "gparker-seats-of-the-mighty-complete": [
+   6229,
+   "The Seats of the Mighty, Complete"
+  ],
+  "gparker-battle-of-the-strong-6236": [
+   6236,
+   "The Battle of the Strong: A Romance of Two Kingdoms — Complete"
+  ],
+  "gparker-lane-that-had-no-turning-complete": [
+   6241,
+   "The Lane That Had No Turning, Complete"
+  ],
+  "gparker-parables-of-a-province": [
+   6242,
+   "Parables of a Province"
+  ],
+  "gparker-right-of-way-complete": [
+   6249,
+   "The Right of Way — Complete"
+  ],
+  "gparker-michel-and-angele-a-ladder-of-swords-complete": [
+   6253,
+   "Michel and Angele [A Ladder of Swords] — Complete"
+  ],
+  "gparker-john-enderby": [
+   6254,
+   "John Enderby"
+  ],
+  "gparker-there-is-sorrow-on-the-sea": [
+   6255,
+   "There Is Sorrow on the Sea"
+  ],
+  "gparker-donovan-pasha-and-some-people-of-egypt-complete": [
+   6260,
+   "Donovan Pasha, and Some People of Egypt — Complete"
+  ],
+  "gparker-weavers-6267": [
+   6267,
+   "The Weavers: a tale of England and Egypt of fifty years ago - Complete"
+  ],
+  "gparker-embers-complete": [
+   6271,
+   "Embers, Complete"
+  ],
+  "gparker-a-lovers-diary-complete": [
+   6274,
+   "A Lover's Diary, Complete"
+  ],
+  "gparker-money-master-complete": [
+   6280,
+   "The Money Master, Complete"
+  ],
+  "gparker-world-for-sale-complete": [
+   6284,
+   "The World for Sale, Complete"
+  ],
+  "gparker-you-never-know-your-luck-6288": [
+   6288,
+   "You Never Know Your Luck; being the story of a matrimonial deserter. Complete"
+  ],
+  "gparker-wild-youth-complete": [
+   6291,
+   "Wild Youth, Complete"
+  ],
+  "gparker-no-defense-complete": [
+   6295,
+   "No Defense, Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-carnacs-folly-complete": [
+   6299,
+   "Carnac's Folly, Complete"
+  ],
+  "gparker-project-gutenberg-complete-works-of-gilbert-parker": [
+   6300,
+   "The Project Gutenberg Complete Works of Gilbert Parker"
+  ],
+  "gparker-an-unpardonable-liar": [
+   15793,
+   "An Unpardonable Liar"
+  ],
+  "gparker-going-of-the-white-swan": [
+   16716,
+   "The Going of the White Swan"
+  ],
+  "gparker-northern-lights": [
+   26905,
+   "Northern Lights",
+   {
+    "contents_only": true
+   }
+  ],
+  "gparker-old-quebec": [
+   30367,
+   "Old Quebec: The Fortress of New France (with Claude G. Bryan)"
+  ],
+  "gparker-a-ladder-of-swords": [
+   41303,
+   "A Ladder of Swords: A Tale of Love, Laughter and Tears"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 6174, 6175, 6176, 6177, 6178, 6180, 6181, 6182, 6183, 6184, 6186, 6187, 6188, 6189, 6190, 6192, 6193, 6195, 6196, 6197, 6198, 6199, 6202, 6203, 6204, 6206, 6207, 6208, 6209, 6211, 6212, 6213, 6215, 6216, 6219, 6220, 6221, 6224, 6225, 6226, 6227, 6228, 6230, 6231, 6232, 6233, 6234, 6235, 6237, 6238, 6239, 6240, 6243, 6244, 6245, 6246, 6247, 6248, 6250, 6251, 6252, 6256, 6257, 6258, 6259, 6261, 6262, 6264, 6265, 6266, 6268, 6269, 6270, 6272, 6273, 6275, 6276, 6277, 6278, 6279, 6281, 6282, 6283, 6285, 6286, 6287, 6289, 6290, 6292, 6293, 6294, 6296, 6297, 6298: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 6263: second Gutenberg editions of titles already on the shelf.",
+  "pg-6590": "PG 6590, 7553: David Widger's quotation and image selections."
+ },
+ "_checks": {
+  "gparker-judgment-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-pierre-and-his-people-6179": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-a-romany-of-the-snows-complete-being-a-continuation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-northern-lights-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-mrs-falchion-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-cumners-son-and-other-south-sea-folk-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-when-valmond-came-to-pontiac-6205": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-trail-of-the-sword-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-translation-of-a-savage-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-pomp-of-the-lavilettes-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-at-the-sign-of-the-eagle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-trespasser-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-march-of-the-white-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-seats-of-the-mighty-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-battle-of-the-strong-6236": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-lane-that-had-no-turning-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-parables-of-a-province": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-right-of-way-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-michel-and-angele-a-ladder-of-swords-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-john-enderby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-there-is-sorrow-on-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-donovan-pasha-and-some-people-of-egypt-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-weavers-6267": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-embers-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-a-lovers-diary-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-money-master-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-world-for-sale-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-you-never-know-your-luck-6288": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-wild-youth-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-no-defense-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-carnacs-folly-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-project-gutenberg-complete-works-of-gilbert-parker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-an-unpardonable-liar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-going-of-the-white-swan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-northern-lights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-old-quebec": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gparker-a-ladder-of-swords": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gilbert parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

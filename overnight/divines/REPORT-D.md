@@ -1587,3 +1587,6 @@
 
 ## 2026-10-17 22:17 CDT — winston-churchill-novels: done
 - winston-churchill-novels: new shelf, 15 Gutenberg books, 75,752 units, 7972 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:17 CDT — gilbert-parker: done
+- gilbert-parker: new shelf, 37 Gutenberg books, 88,795 units, 4235 ~2 ids; verify 0 mismatches, 0 rights flags.
