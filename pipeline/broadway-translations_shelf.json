@@ -1,5 +1,5 @@
 {
- "_about": "SERIES SHELF of one-off translators: Routledge's Broadway Translations and Broadway Medieval Library (1920s). Lunacharsky's Three Plays (Magnus and Walter, 1923), Lucy Allen Paton's Sir Lancelot of the Lake (1929), Mabbe's Celestina (1631, reprinted 1923) the English Faust Book (1592, modernized by William Rose, 1925) and Swinton Bland's Autobiography of Guibert of Nogent (1925; round 58). The series' classical volumes (Petronius, Alciphron, Lucretius) are left for Lane B. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 57); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF of one-off translators: Routledge's Broadway Translations and Broadway Medieval Library (1920s). Lunacharsky's Three Plays (Magnus and Walter, 1923), Lucy Allen Paton's Sir Lancelot of the Lake (1929), Mabbe's Celestina (1631, reprinted 1923) the English Faust Book (1592, modernized by William Rose, 1925) and Swinton Bland's Autobiography of Guibert of Nogent (1925; round 58). The series' classical volumes (Petronius, Alciphron, Lucretius) are left for Lane B. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 57); Adam may veto. No uids minted. Round 115 (2026-10-17, vetoable) added Goodrick's Simplicissimus (1912; Broadway reissue with Rose's introduction of May 1924).",
  "_name_words": [
   "c. c. swinton bland",
   "james mabbe",
@@ -11,7 +11,9 @@
   "p. f.",
   "paton",
   "swinton bland",
-  "walter"
+  "walter",
+  "goodrick",
+  "a. t. s. goodrick"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
  "_surname": [
@@ -25,7 +27,9 @@
   "p. f.",
   "paton",
   "swinton bland",
-  "walter"
+  "walter",
+  "goodrick",
+  "a. t. s. goodrick"
  ],
  "_surname_by_slug": {
   "btn-lunacharski": [
@@ -48,6 +52,10 @@
   "btn-guibert": [
    "c. c. swinton bland",
    "swinton bland"
+  ],
+  "btn-simplicissimus": [
+   "goodrick",
+   "a. t. s. goodrick"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -73,6 +81,10 @@
   "btn-guibert": [
    "autobiographyofg00guib",
    "The Autobiography of Guibert, Abbot of Nogent-sous-Coucy (Routledge, 1925)"
+  ],
+  "btn-simplicissimus": [
+   "simplicissimusva00grim",
+   "Simplicissimus the Vagabond (1924 printing)"
   ]
  },
  "titles": {
@@ -120,6 +132,15 @@
    "translator": "C. C. Swinton Bland",
    "scan_edition": "George Routledge & Sons, London, and E. P. Dutton, New York, 1925 (introduction dated June 1925), in the Broadway Translations",
    "note": "Raw OCR. A medieval memoir by an abbot; Lane A may want a cross-reference."
+  },
+  "broadway-translations-grimmelshausen-simplicissimus": {
+   "of": "Hans Jakob Christoffel von Grimmelshausen",
+   "work": "Simplicissimus the Vagabond",
+   "translated": 1912,
+   "translator": "A. T. S. Goodrick",
+   "scan_edition": "George Routledge & Sons, London, Broadway Translations, with William Rose's introduction dated May 1924 ('This Translation was First Printed in 1912'); archive.org scan",
+   "note": "Heinemann's 1912 first edition (adventuroussimpl00grimrich) prints no translator's name, so this Broadway reissue, which names Goodrick on its title page, is used.",
+   "source": "btn-simplicissimus"
   }
  },
  "_pending": {
@@ -185,6 +206,17 @@
    "ia_date": "1925",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "btn-simplicissimus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goodrick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -242,6 +274,12 @@
     1905,
     1925
    ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btn-simplicissimus": {
+   "ia": "simplicissimusva00grim",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
   }
  },

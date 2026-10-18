@@ -23320,7 +23320,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23397,6 +23397,7 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-zeromski-ashes-vol-1` | Stefan Żeromski | Ashes, vol. I | Helen Stankiewicz Zand | 1928 | have-raw | IA `ashes0001stef` |
 | `singles-fiction-3-zeromski-ashes-vol-2` | Stefan Żeromski | Ashes, vol. II | Helen Stankiewicz Zand | 1928 | have-raw | IA `bwb_S0-DFX-920` |
 | `singles-fiction-3-capek-makropoulos-secret` | Karel Čapek | The Makropoulos Secret | Randal C. Burrell (adapted) | 1925 | have-raw | IA `makropoulossecre0000kare` |
+| `singles-fiction-3-kleist-michael-kohlhaas-prince-of-homburg` | Heinrich von Kleist | Prussia's Representative Man: Michael Kohlhaas and Prince Frederick of Homburg, translated, with a study of Kleist | Francis Lloyd and William Newton | 1875 | have-raw | IA `prussiasreprese00newtgoog` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -23959,10 +23960,10 @@ Round 56 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | huc-gabet: Huc and Gabet's Travels in Tartary (1928 reissue) is Hazlitt's 1852 translation, already on the hazlitt-huc shelf. | — | — | excluded | — |
 | — | — | ia-travelsinasiaafr0000muha: A later reprint of Gibb's Ibn Battuta (front matter lists years to 1969). | — | — | excluded | — |
 
-## Series shelf: Routledge's Broadway Translations and Broadway Medieval Library (1920s): Lunacharsky's Three Plays, Paton's Sir Lancelot of the Lake, Mabbe's Celestina, the English Faust Book
+## Series shelf: Routledge's Broadway Translations and Broadway Medieval Library (1920s): Lunacharsky's Three Plays, Paton's Sir Lancelot of the Lake, Mabbe's Celestina, the English Faust Book, Goodrick's Simplicissimus
 
 Shelf: `pipeline/broadway-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py broadway-translations` · titles `python3 pipeline/split_shelf_titles.py broadway-translations`.
-Round 57 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 57 (2026-10-17), vetoable. Round 115 added Goodrick's Simplicissimus (1912; Broadway reissue, 1924). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23971,6 +23972,7 @@ Round 57 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `broadway-translations-celestina-mabbe` | Fernando de Rojas | Celestina, or The Tragi-Comedy of Calisto and Melibea | James Mabbe | 1631 | have-raw | IA `celestinaortragi00roja` |
 | `broadway-translations-english-faust-book` | anonymous (the German Faustbuch, 1587) | The History of the Damnable Life and Deserved Death of Doctor John Faustus (1592), with The Second Report of Faustus (1594) | P. F., Gent. (the English Faust Book; the Second Report is anonymous) | 1592 | have-raw | IA `historyofdamnabl0000unse_o0d7` |
 | `broadway-translations-guibert-autobiography` | Guibert of Nogent | The Autobiography of Guibert, Abbot of Nogent-sous-Coucy (De vita sua) | C. C. Swinton Bland | 1925 | have-raw | IA `autobiographyofg00guib` |
+| `broadway-translations-grimmelshausen-simplicissimus` | Hans Jakob Christoffel von Grimmelshausen | Simplicissimus the Vagabond | A. T. S. Goodrick | 1912 | have-raw | IA `simplicissimusva00grim` |
 | `broadway-translations-1930` | — | Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling. | — | — | pending | — |
 | `broadway-medieval-lane-a` | — | Left for Lane A as devotional collections: Caesarius of Heisterbach's Dialogue on Miracles (H. von E. Scott and C. C. Swinton Bland, 1929, 2 vols; caesariusthedialogueonmiraclesvol.1/.2) and Johannes Herolt's Miracles of the Blessed Virgin Mary (Bland, 1928; miraclesoftheblessedvirginherolt), both Broadway Medieval Library. | — | — | pending | — |
 | — | — | esquemeling: Esquemeling's Buccaneers of America (1684 translation, Broadway 1926): the same text is already held inside pyle's Buccaneers and Marooners of America (PG 73564). | — | — | excluded | — |

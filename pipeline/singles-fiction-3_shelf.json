@@ -99,7 +99,9 @@
   "helen stankiewicz zand",
   "stankiewicz zand",
   "randal c. burrell",
-  "randal burrell"
+  "randal burrell",
+  "francis lloyd",
+  "william newton"
  ],
  "_surname": [
   "a. e. chamot",
@@ -200,7 +202,9 @@
   "helen stankiewicz zand",
   "stankiewicz zand",
   "randal c. burrell",
-  "randal burrell"
+  "randal burrell",
+  "francis lloyd",
+  "william newton"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -524,6 +528,10 @@
   "sf3-capek-makropoulos-secret": [
    "randal c. burrell",
    "randal burrell"
+  ],
+  "sf3-kleist-kohlhaas-homburg": [
+   "francis lloyd",
+   "william newton"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -822,6 +830,10 @@
   "sf3-capek-makropoulos-secret": [
    "makropoulossecre0000kare",
    "The Makropoulos Secret (1925)"
+  ],
+  "sf3-kleist-kohlhaas-homburg": [
+   "prussiasreprese00newtgoog",
+   "Prussia's Representative Man (1875)"
   ]
  },
  "titles": {
@@ -1414,6 +1426,14 @@
    "translated": 1925,
    "translator": "Randal C. Burrell (adapted)",
    "scan_edition": "John W. Luce & Company, Boston; first published January 1925; archive.org scan"
+  },
+  "singles-fiction-3-kleist-michael-kohlhaas-prince-of-homburg": {
+   "of": "Heinrich von Kleist",
+   "work": "Prussia's Representative Man: Michael Kohlhaas and Prince Frederick of Homburg, translated, with a study of Kleist",
+   "translated": 1875,
+   "translator": "Francis Lloyd and William Newton",
+   "scan_edition": "Trübner & Co., London 1875; Google scan via archive.org",
+   "source": "sf3-kleist-kohlhaas-homburg"
   }
  },
  "_pending": {
@@ -2090,6 +2110,17 @@
    "ia_date": "1925",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sf3-kleist-kohlhaas-homburg": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2492,6 +2523,15 @@
     1922,
     1924,
     1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-kleist-kohlhaas-homburg": {
+   "ia": "prussiasreprese00newtgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1875
    ],
    "post_1930_years_in_front_15k": []
   }
