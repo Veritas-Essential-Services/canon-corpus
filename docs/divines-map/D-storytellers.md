@@ -9439,6 +9439,31 @@ Shelf: `pipeline/cather-works_shelf.json` (2026-10-17; added at the coordinator'
 | held-elsewhere | excluded | PG 24, 242, 69730: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-19810 | excluded | PG 19810 My Antonia: a second edition; the reading-list cather shelf holds the novel. |
 
+## Edgar Allan Poe
+
+Shelf: `pipeline/poe-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fall of the House of Usher | have | PG 932, `poe-fall-of-the-house-of-usher` (57 units) |
+| First Project Gutenberg Collection of Edgar Allan Poe | have | PG 1062, `poe-first-project-gutenberg-collection-of-edgar-allan-poe` (134 units) |
+| The Cask of Amontillado | have | PG 1063, `poe-cask-of-amontillado` (92 units) |
+| The Masque of the Red Death | have | PG 1064, `poe-masque-of-the-red-death` (16 units) |
+| The Raven | have | PG 1065, `poe-raven` (21 units) |
+| The Complete Poetical Works of Edgar Allan Poe Including Essays on Poetry | have | PG 10031, `poe-complete-poetical-works-of-edgar-allan-poe-including-ess` (1202 units) |
+| The Works of Edgar Allan Poe, The Raven Edition Table Of Contents And Index Of The Five Volumes | have | PG 25525, `poe-works-of-edgar-allan-poe-the-raven-edition-table-of-cont` (4191 units) |
+| Eureka: A Prose Poem | have | PG 32037, `poe-eureka` (560 units) |
+| The Raven Illustrated | have | PG 45484, `poe-raven-illustrated` (235 units) |
+| The Bells, and Other Poems | have | PG 50852, `poe-bells-and-other-poems` (269 units) |
+| The Narrative of Arthur Gordon Pym of Nantucket Comprising the details of a mutiny and atrocious butchery on board the American brig Grampus, on her way to the South Seas, in the month of June, 1827. | have | PG 51060, `poe-narrative-of-arthur-gordon-pym-of-nantucket-comprising-t` (347 units) |
+| The Raven, and The Philosophy of Composition | have | PG 55749, `poe-raven-and-the-philosophy-of-composition` (115 units) |
+| The Conchologist's First Book A System of Testaceous Malacology, Arranged Expressly for the Use of Schools, in Which the Animals, According to Cuvier, Are Given With the Shells, a Great Number of New Species Added, and the Whole Brought Up, as Accurately as Possible, to the Present Condition of the Science. (with Thomas Brown) | have | PG 65171, `poe-conchologists-first-book-a-system-of-testaceous-malacolo` (1958 units) |
+| The poems of Edgar Allan Poe | have | PG 76996, `poe-poems-of-edgar-allan-poe` (839 units) |
+| The poetical works of Edgar Allan Poe | have | PG 79019, `poe-poetical-works-of-edgar-allan-poe` (714 units) |
+| repeat-editions | excluded | PG 17192: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 2147, 2148, 2149, 2150, 2151: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-8893 | excluded | PG 8893 Selections from Poe: a school selection (ed. Gambrill) of pieces held in full elsewhere. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
