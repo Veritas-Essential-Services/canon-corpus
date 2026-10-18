@@ -1,0 +1,34 @@
+{
+ "_about": "James Marsh (1794-1842), president of the University of Vermont, who introduced Coleridge to American readers. Raw IA OCR: The Remains of the Rev. James Marsh, with a memoir of his life by Joseph Torrey (Boston: Crocker and Brewster, 1843), clean 0.94. His translation of Herder's Spirit of Hebrew Poetry is on the herder shelf. US public domain. No uids minted.",
+ "_author": "James Marsh",
+ "_name_words": [
+  "james",
+  "marsh"
+ ],
+ "_surname": [
+  "marsh",
+  "james marsh"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marsh-remains-1843": [
+   "remainsofrevjame00mars",
+   "The Remains of the Rev. James Marsh (Crocker and Brewster, 1843)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "marsh-remains-1843": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marsh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

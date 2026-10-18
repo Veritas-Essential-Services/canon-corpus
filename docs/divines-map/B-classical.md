@@ -6624,6 +6624,7 @@ Shelf: `pipeline/james-marsh_shelf.json`. His collected remains.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Remains of the Rev. James Marsh (Crocker and Brewster, 1843) |  | `marsh-remains-1843` | have-raw (IA `remainsofrevjame00mars`) |
 
 ## Perseus census (overflow)
 
