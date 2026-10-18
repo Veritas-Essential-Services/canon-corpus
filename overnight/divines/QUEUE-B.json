@@ -1636,6 +1636,14 @@
    "started": "2026-10-17T20:33:37-05:00",
    "finished": "2026-10-17T20:37:08-05:00",
    "notes": "5 new shelves; 20 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bf",
+   "status": "done",
+   "scope": "Guizot, Volney, Fitzjames Stephen, Kidd, Seeley, Soloviev, Joubert",
+   "started": "2026-10-17T20:37:08-05:00",
+   "finished": "2026-10-17T20:40:24-05:00",
+   "notes": "7 new shelves; 8 items, all verified, 0 rights flags. Not minted."
   }
  ]
 }

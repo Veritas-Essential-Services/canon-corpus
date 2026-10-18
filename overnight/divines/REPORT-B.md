@@ -1153,3 +1153,13 @@
 - john-tyndall: Fragments of Science, Imagination in Science, Belfast Address
 - erasmus-darwin: Zoonomia (2 vols.), Temple of Nature
 - Wanted: Morley's Diderot vol. I (PG 15098) and Romanes's Candid Examination (PG 19003), both 404 on download
+
+## 2026-10-17 20:40 CDT — Round 2026-10-17bf: philosophers of history and society
+- francois-guizot: Civilisation in Europe (1848), Democracy in France (1849)
+- volney: The Ruins (1802 translation, 1890 reprint)
+- james-fitzjames-stephen: Liberty, Equality, Fraternity (1873)
+- benjamin-kidd: Social Evolution (1894)
+- j-r-seeley: The Expansion of England (1899 printing)
+- vladimir-soloviev: Three Conversations (Constable, 1915)
+- joseph-joubert: Attwell's Pensees (1896)
+- For lane C: Joubert's Pensees and Letters (Broadway Library, 1928; IA bwb_S0-EKA-341) fits its broadway-library shelf
