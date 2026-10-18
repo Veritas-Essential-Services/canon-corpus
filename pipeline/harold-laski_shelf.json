@@ -1,5 +1,5 @@
 {
- "_about": "Harold J. Laski (1893-1950), political theorist of pluralism: Authority in the Modern State (New Haven: Yale University Press, 1919; this copy the third printing, August 1927) and The Problem of Administrative Areas, an essay in reconstruction (Smith College Studies in History, Northampton, Mass., 1918). Raw IA OCR, clean 0.91 and 0.93. Held: Political Thought in England from Locke to Bentham (Home University Library), because no year is printed in the scan. His introduction to the Vindiciae contra Tyrannos (1924) is on the vindiciae shelf. US public domain (published before 1931). Added in round 2026-10-17bl: Studies in the Problem of Sovereignty (New Haven: Yale University Press, first published March 1917), raw IA OCR, clean 0.90. No uids minted.",
+ "_about": "Harold J. Laski (1893-1950), political theorist of pluralism: Authority in the Modern State (New Haven: Yale University Press, 1919; this copy the third printing, August 1927) and The Problem of Administrative Areas, an essay in reconstruction (Smith College Studies in History, Northampton, Mass., 1918). Raw IA OCR, clean 0.91 and 0.93. His introduction to the Vindiciae contra Tyrannos (1924) is on the vindiciae shelf. US public domain (published before 1931). Added in round 2026-10-17bl: Studies in the Problem of Sovereignty (New Haven: Yale University Press, first published March 1917), raw IA OCR, clean 0.90. Added in round 2026-10-18cb from Gutenberg: Political Thought in England from Locke to Bentham, whose Gutenberg text carries the 1920 date the IA scan lacked, and Liberty in the Modern State (New York: Harper, 1930; rights checked). No uids minted.",
  "_author": "Harold J. Laski",
  "_name_words": [
   "harold",
@@ -10,7 +10,16 @@
   "laski"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "laski-political-thought-locke-to-bentham": [
+   14735,
+   "Political Thought in England from Locke to Bentham (Home University Library, 1920)"
+  ],
+  "laski-liberty-in-the-modern-state": [
+   78171,
+   "Liberty in the Modern State (Harper, 1930)"
+  ]
+ },
  "internet_archive": {
   "laski-authority-modern-state-1919": [
    "authorityinmoder00lask_0",
@@ -27,6 +36,24 @@
  },
  "_excluded": {},
  "_checks": {
+  "laski-political-thought-locke-to-bentham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laski",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laski-liberty-in-the-modern-state": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laski",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "laski-authority-modern-state-1919": {
    "kind": "ia",
    "checked": "2026-10-18",
@@ -60,5 +87,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_rights_checked": {
+  "laski-liberty-in-the-modern-state": "Gutenberg header read 2026-10-18: 'Original publication: New York: Harper & Brothers, 1930', title page 1930, 'Copyright, 1930', first edition. Published 1930, so US public domain from 1 January 2026."
  }
 }

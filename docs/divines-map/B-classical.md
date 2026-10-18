@@ -6041,8 +6041,10 @@ Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thoug
 | Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
 | The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
 | Studies in the Problem of Sovereignty (Yale, 1917) |  | `laski-problem-of-sovereignty-1917` | have-raw (IA `studiesinproblem00laskuoft`) |
+| Political Thought in England from Locke to Bentham (Home University Library, 1920) |  | `laski-political-thought-locke-to-bentham` | have (PG 14735) |
+| Liberty in the Modern State (Harper, 1930) |  | `laski-liberty-in-the-modern-state` | have (PG 78171) |
 
-Pending (wishlist): A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
+Pending (wishlist): A Grammar of Politics (1925)
 
 ## Arthur O. Lovejoy (history of ideas)
 
@@ -6502,7 +6504,6 @@ Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Compar
 | Emergent Evolution (1923; Holt printing 1928) |  | `lloyd-morgan-emergent-evolution-1923` | have-raw (IA `emergentevolutio0000morg`) |
 | Life, Mind, and Spirit (Holt, 1925) |  | `lloyd-morgan-life-mind-spirit-1925` | have-raw (IA `20191004lifemindandspirit`) |
 
-Pending (wishlist): Animal Life and Intelligence (1890) with a legible title page
 
 ## John Laird (realism)
 
