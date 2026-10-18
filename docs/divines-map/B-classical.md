@@ -8183,6 +8183,8 @@ Shelf: `pipeline/alfred-zimmern_shelf.json`. Two books, 1911-1919.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Greek Commonwealth (Clarendon Press, 1911) |  | `zimmern-greek-commonwealth-1911` | have-raw (IA `greekcommonwealt00zimm`) |
+| Nationality and Government (Chatto and Windus, 1919) |  | `zimmern-nationality-and-government-1919` | have-raw (IA `nationalitygover00zimmuoft`) |
 
 ## R. W. Livingstone (the Greek genius)
 
