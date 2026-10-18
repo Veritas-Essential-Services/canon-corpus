@@ -1837,3 +1837,6 @@
 
 ## 2026-10-17 22:46 CDT — theodore-l-cuyler done
 - `pipeline/theodore-l-cuyler_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — t-de-witt-talmage done
+- `pipeline/t-de-witt-talmage_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

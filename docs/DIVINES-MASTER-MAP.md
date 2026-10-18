@@ -8847,6 +8847,22 @@ Slugs `tlcuyler-*`. Built from title pages read for round 36.
 | Recollections of a Long Life: An Autobiography (New York: Baker & Taylor, 1902) | have-ocr | IA `alonglifeautobio00cuyluoft` |
 | God's Light (1883 and Hodder); Heart-Life (Hodder, year garbled); PG 12549 (Recollections, no publisher stated) | alternate | not shelved |
 | Anthologies with his pieces (PG 37501, PG 44450) and a many-preacher Lincoln memorial volume | excluded | |
+
+## T. De Witt Talmage (round 36, my pick, 2026-10-18)
+
+Slugs `tdtalmage-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Crumbs Swept Up (Philadelphia: Evans, Stoddart, 1870) | have-ocr | IA `crumbssweptup00talm` |
+| The Abominations of Modern Society (New York: Adams, Victor, 1872) | have-ocr | IA `abominationsofmo00talm` |
+| Sermons delivered in the Brooklyn Tabernacle (New York: Harper & Brothers, 1872) | have-ocr | IA `sermons00talm` |
+| Around the Tea-Table (Philadelphia: Cowperthwait, 1874) | have-ocr | IA `aroundteatable01talm` |
+| Every-Day Religion: Sermons Delivered in the Brooklyn Tabernacle, revised from phonographic reports (New York: Harper & Brothers, 1875) | have-ocr | IA `everydayreligion1875talm` |
+| New Tabernacle Sermons, publication authorized (New York: E. B. Treat, 1886) | have-ocr | IA `newtabernacleser00talm` |
+| From Manger to Throne, embracing a new Life of Jesus the Christ and a History of Palestine (Philadelphia: Historical Publishing Company, 1893) | have-ocr | IA `frommangertothr00talm` |
+| PG 13104 (Abominations, no publisher); PG 14139 (Munro's New Tabernacle Sermons, 1886); PG 14662 (a later Tea-Table); PG 22343 (The Wedding Ring, 1896); Old Wells Dug Out (London 1875; Funk & Wagnalls 1886) | alternate | not shelved |
+| T. De Witt Talmage as I Knew Him (1912, finished by Mrs. Talmage); anthologies; extract books compiled by others; books by James E. Talmage | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
