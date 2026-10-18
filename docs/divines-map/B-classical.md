@@ -5981,6 +5981,8 @@ Shelf: `pipeline/a-v-dicey_shelf.json`. Law of the Constitution (4th ed., 1893) 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Introduction to the Study of the Law of the Constitution, fourth edition (Macmillan, 1893) |  | `dicey-law-of-the-constitution-4th-1893` | have-raw (IA `introductiontos00dicegoog`) |
+| Lectures on the Relation between Law and Public Opinion in England (Macmillan, 1905) |  | `dicey-law-and-public-opinion-1905` | have-raw (IA `lecturesonrelat01dicegoog`) |
 
 ## Harold J. Laski (pluralist political theory)
 
