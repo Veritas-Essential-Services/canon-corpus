@@ -5656,6 +5656,7 @@ Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not mi
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873) |  | `thornton-old-fashioned-ethics-1873` | have (PG 29917) |
 
 Pending (wishlist): On Labour (1869)
 

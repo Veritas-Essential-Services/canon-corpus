@@ -1,0 +1,32 @@
+{
+ "_about": "William Thomas Thornton (1813-1880), economist of labour and the India Office: Old-Fashioned Ethics and Common-Sense Metaphysics, with some of their applications (London: Macmillan, 1873), clean Gutenberg text. Wanted: On Labour (1869). Not Thornton Wilder. US public domain. No uids minted.",
+ "_author": "William Thomas Thornton",
+ "_name_words": [
+  "william",
+  "thomas",
+  "thornton"
+ ],
+ "_surname": [
+  "thornton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thornton-old-fashioned-ethics-1873": [
+   29917,
+   "Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "thornton-old-fashioned-ethics-1873": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thornton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
