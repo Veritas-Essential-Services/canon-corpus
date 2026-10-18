@@ -7231,3 +7231,13 @@ Slugs `tersteegen-*`. Spiritual Crumbs and the Life and Character, tr. Samuel Ja
 | Life and Character of Gerhard Tersteegen, with Extracts from his Letters and Writings, tr. Samuel Jackson (London: Black, Young, and Young, 1832) | have-ocr | IA `lifeandcharacter00jackuoft` |
 | Other copies of both | alternate | not shelved |
 | Bevan's multi-author hymn anthology; Lady Durand's Imitations of Spitta and Tersteegen; lives by Govan, Oliphant and Bailey | excluded | |
+
+## Paul Gerhardt (round 31, my pick, 2026-10-18)
+
+Slugs `gerhardt-*`. Spiritual Songs, tr. John Kelly (1867).
+
+| Work | Status | Where |
+|---|---|---|
+| Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867) | have-clean | Gutenberg 30362 |
+| CCEL kelly/gerhardtsong; IA copies of the 1867 edition | alternate | not shelved |
+| Hewitt's study, Wildenhahn's novel and other books about him | excluded | |

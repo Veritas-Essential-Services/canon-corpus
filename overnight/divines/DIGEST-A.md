@@ -697,6 +697,7 @@ Nineteen authors queued in QUEUE-A.json, each built from title pages read for th
 | Johann Arndt | johann-arndt_shelf.json | 1 (True Christianity, tr. A. W. Boehm, revised and ed. Charles F. Schaeffer (Philadelphia: Lutheran Book Store; Smith, English & Co., 1868)) | 1 (The Garden of Paradise: or, Holy Prayers and Exercises (London: J. Downing, 1716)) | none | the 1979 Paulist translation |
 | Johann Gerhard | johann-gerhard_shelf.json | none | 1 (Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society; title page undated, copyright 1896)) | none | none |
 | Gerhard Tersteegen | gerhard-tersteegen_shelf.json | none | 2 (Spiritual Crumbs from the Master's Table, tr. Samuel Jackson (London: John F. Shaw, MDCCCXXXVII); Life and Character of Gerhard Tersteegen, with Extracts from his Letters and Writings, tr. Samuel Jackson (London: Black, Young, and Young, 1832)) | none | anthologies; lives by others |
+| Paul Gerhardt | paul-gerhardt_shelf.json | 1 (Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867)) | none | none | books about him |
 
 ## Paused 2026-10-10 15:12 CDT
 
