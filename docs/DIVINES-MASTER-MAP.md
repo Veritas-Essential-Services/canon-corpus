@@ -7449,6 +7449,23 @@ Slugs `jstrong-*`. Built from title pages read for round 32.
 | Later thousands of Our Country and the post-1890 revised edition; another New Era | alternate | not shelved |
 | Expansion under New World-Conditions (1900) and Our World (1913): title-page year not read | alternate | not shelved |
 | Greene's Armenian Crisis; A Martyr of To-day (about Robert Ross); the Social Progress yearbooks; a Spanish translation | excluded | |
+
+## William Newton Clarke (round 32, my pick, 2026-10-18)
+
+Slugs `wnclarke-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| An Outline of Christian Theology (New York: Charles Scribner's Sons, 1898) | have-ocr | IA `outlineofchristi00clar_0` |
+| Can I Believe in God the Father? (New York: Charles Scribner's Sons, 1899) | have-ocr | IA `canibelieveingod00clar` |
+| What Shall We Think of Christianity? third edition (New York: Charles Scribner's Sons, 1899) | have-ocr | IA `whatshallwethink00clar` |
+| A Study of Christian Missions (New York: Charles Scribner's Sons, 1900) | have-ocr | IA `studyofchristian0000clar` |
+| The Use of the Scriptures in Theology (New York: Charles Scribner's Sons; copyright 1905) | have-ocr | IA `usescripturesin00clargoog` |
+| The Christian Doctrine of God (New York: Charles Scribner's Sons, 1909) | have-ocr | IA `christiandoctrin00clar_1` |
+| Sixty Years with the Bible (New York: Charles Scribner's Sons, 1909) | have-ocr | IA `sixtyyearswithbi00clar` |
+| The Ideal of Jesus (New York: Charles Scribner's Sons, 1911) | have-ocr | IA `idealofjesus00clar` |
+| The Edinburgh Christian Doctrine of God (1909); later editions of the Outline; the 1906 Use of the Scriptures | alternate | not shelved |
+| studyofchristian1900clar: a 1914 printing catalogued 1900 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
