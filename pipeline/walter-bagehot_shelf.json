@@ -1,0 +1,44 @@
+{
+ "_about": "Walter Bagehot (1826-1877) as political thinker, clean Gutenberg texts: Physics and Politics, or thoughts on the application of the principles of natural selection and inheritance to political society (the new and cheaper edition; year not printed in the etext) and The English Constitution, 2nd ed. (printing not named). Lombard Street and the literary studies are not taken here. US public domain. No uids minted.",
+ "_author": "Walter Bagehot",
+ "_name_words": [
+  "walter",
+  "bagehot"
+ ],
+ "_surname": [
+  "bagehot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bagehot-physics-and-politics": [
+   4350,
+   "Physics and Politics, new and cheaper edition (year not printed)"
+  ],
+  "bagehot-english-constitution-2nd-ed": [
+   4351,
+   "The English Constitution, 2nd ed. (printing not named)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bagehot-physics-and-politics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bagehot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bagehot-english-constitution-2nd-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bagehot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
