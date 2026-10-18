@@ -6323,6 +6323,7 @@ Shelf: `pipeline/h-a-prichard_shelf.json`. H. A. Prichard (1871-1947). Kant's Th
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Kant's Theory of Knowledge (Clarendon, 1909) |  | `prichard-kants-theory-of-knowledge-1909` | have-raw (IA `kantknowledge00pricuoft`) |
 
 ## E. F. Carritt (aesthetics)
 
