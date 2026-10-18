@@ -10889,6 +10889,46 @@ Shelf: `pipeline/walter-besant_shelf.json` (2026-10-17; added at the coordinator
 | The art of fiction | have | PG 76460, `wbesant-art-of-fiction` (58 units) |
 | repeat-editions | excluded | PG 58672: second Gutenberg editions of titles already on the shelf. |
 
+## E. D. E. N. Southworth
+
+Shelf: `pipeline/southworth_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (33 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Capitola the madcap | have | PG 3792, `edensouthworth-capitola-the-madcap` (2730 units) |
+| Self-Raised; Or, From the Depths | have | PG 6376, `edensouthworth-self-raised` (5979 units) |
+| The Missing Bride | have | PG 14382, `edensouthworth-missing-bride` (2492 units) |
+| Ishmael; Or, In the Depths | have | PG 15774, `edensouthworth-ishmael` (6346 units) |
+| The Lost Lady of Lone | have | PG 16039, `edensouthworth-lost-lady-of-lone` (4947 units) |
+| For Woman's Love | have | PG 16094, `edensouthworth-for-womans-love` (4245 units) |
+| Cruel as the grave | have | PG 23789, `edensouthworth-cruel-as-the-grave` (3266 units) |
+| Capitola's peril | have | PG 24337, `edensouthworth-capitolas-peril` (2805 units) |
+| Her mother's secret | have | PG 26259, `edensouthworth-her-mothers-secret` (3026 units) |
+| Victor's Triumph Sequel to A Beautiful Fiend | have | PG 29729, `edensouthworth-victors-triumph-sequel-to-a-beautiful-fiend` (3606 units) |
+| Hidden hand | have | PG 29866, `edensouthworth-hidden-hand` (2648 units) |
+| Tried for Her Life A Sequel to "Cruel As the Grave" | have | PG 32757, `edensouthworth-tried-for-her-life-a-sequel-to-cruel-as-the-g` (3441 units) |
+| The Haunted Homestead: A Novel | have | PG 36713, `edensouthworth-haunted-homestead` (1763 units) |
+| Love's bitterest cup | have | PG 68273, `edensouthworth-loves-bitterest-cup` (3101 units) |
+| Love's labor won | have | PG 68610, `edensouthworth-loves-labor-won` (2576 units) |
+| Allworth Abbey | have | PG 69675, `edensouthworth-allworth-abbey` (3477 units) |
+| The discarded daughter; or, The children of the isle | have | PG 69714, `edensouthworth-discarded-daughter` (2531 units) |
+| For whose sake? A sequel to "Why did he wed her?" | have | PG 69809, `edensouthworth-for-whose-sake-a-sequel-to-why-did-he-wed-her` (4813 units) |
+| The bride's fate The sequel to "The changed brides" | have | PG 69828, `edensouthworth-brides-fate-the-sequel-to-the-changed-brides` (4994 units) |
+| The changed brides | have | PG 69972, `edensouthworth-changed-brides` (5045 units) |
+| How he won her | have | PG 70131, `edensouthworth-how-he-won-her` (5070 units) |
+| India | have | PG 70476, `edensouthworth-india` (2211 units) |
+| The curse of Clifton | have | PG 70776, `edensouthworth-curse-of-clifton` (3625 units) |
+| Gloria | have | PG 70811, `edensouthworth-gloria` (2971 units) |
+| Lilith | have | PG 70855, `edensouthworth-lilith` (2912 units) |
+| Dorothy Harcourt's secret | have | PG 71098, `edensouthworth-dorothy-harcourts-secret` (4064 units) |
+| Fair play | have | PG 75006, `edensouthworth-fair-play` (3467 units) |
+| When shadows die | have | PG 75317, `edensouthworth-when-shadows-die` (2845 units) |
+| The Lady of the Isle | have | PG 75497, `edensouthworth-lady-of-the-isle` (5013 units) |
+| The deserted wife | have | PG 76591, `edensouthworth-deserted-wife` (3617 units) |
+| Em's husband | have | PG 76916, `edensouthworth-ems-husband` (3602 units) |
+| Brandon Coyle's wife | have | PG 77295, `edensouthworth-brandon-coyles-wife` (3957 units) |
+| The fatal marriage | have | PG 79290, `edensouthworth-fatal-marriage` (4826 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

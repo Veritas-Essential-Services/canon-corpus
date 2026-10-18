@@ -1524,3 +1524,6 @@
 
 ## 2026-10-17 21:41 CDT — walter-besant: done
 - walter-besant: new shelf, 33 Gutenberg books, 68,471 units, 769 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:41 CDT — southworth: done
+- southworth: new shelf, 33 Gutenberg books, 122,011 units, 456 ~2 ids; verify 0 mismatches, 0 rights flags.
