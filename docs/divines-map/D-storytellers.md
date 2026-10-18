@@ -7511,6 +7511,60 @@ Shelf: `pipeline/robert-barr_shelf.json` (2026-10-17; added at the coordinator's
 | Young Lord Stranleigh: A Novel | have | PG 55329, `rbarr-young-lord-stranleigh` (1569 units) |
 | pg-57686 | excluded | PG 57686: Gutenberg's index of Barr's works, not a book. |
 
+## Robert W. Chambers
+
+Shelf: `pipeline/robert-w-chambers_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances and weird tales. Every English text under the name at Gutenberg that no other shelf holds (46 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hidden Children | have | PG 4984, `rwchambers-hidden-children` (4929 units) |
+| In Secret | have | PG 5748, `rwchambers-in-secret` (3036 units) |
+| In the Quarter | have | PG 6893, `rwchambers-in-the-quarter` (2103 units) |
+| The Fighting Chance | have | PG 7492, `rwchambers-fighting-chance` (4097 units) |
+| Between Friends | have | PG 8441, `rwchambers-between-friends` (669 units) |
+| The King in Yellow | have | PG 8492, `rwchambers-king-in-yellow` (1930 units) |
+| The Green Mouse | have | PG 10441, `rwchambers-green-mouse` (2074 units) |
+| Ailsa Paige: A Novel | have | PG 11904, `rwchambers-ailsa-paige` (3892 units) |
+| The Maid-At-Arms: A Novel | have | PG 12279, `rwchambers-maid-at-arms` (3034 units) |
+| The Tracer of Lost Persons | have | PG 13180, `rwchambers-tracer-of-lost-persons` (2041 units) |
+| The Common Law | have | PG 13813, `rwchambers-common-law` (5007 units) |
+| The Younger Set | have | PG 14852, `rwchambers-younger-set` (4373 units) |
+| The Firing Line | have | PG 15654, `rwchambers-firing-line` (4826 units) |
+| The Danger Mark | have | PG 18185, `rwchambers-danger-mark` (4565 units) |
+| Police!!! | have | PG 18515, `rwchambers-police` (1824 units) |
+| In Search of the Unknown | have | PG 18668, `rwchambers-in-search-of-the-unknown` (2536 units) |
+| Special Messenger | have | PG 24071, `rwchambers-special-messenger` (1778 units) |
+| Lorraine: A Romance | have | PG 24181, `rwchambers-lorraine` (2582 units) |
+| The Flaming Jewel | have | PG 24306, `rwchambers-flaming-jewel` (2931 units) |
+| Blue-Bird Weather | have | PG 24389, `rwchambers-blue-bird-weather` (532 units) |
+| Iole | have | PG 24426, `rwchambers-iole` (937 units) |
+| The Reckoning | have | PG 25441, `rwchambers-reckoning` (2609 units) |
+| Barbarians | have | PG 25623, `rwchambers-barbarians` (2218 units) |
+| Athalie | have | PG 27342, `rwchambers-athalie` (3728 units) |
+| A Young Man in a Hurry, and Other Short Stories | have | PG 27374, `rwchambers-a-young-man-in-a-hurry-and-other-short-stories` (2603 units) |
+| The Gay Rebellion | have | PG 28244, `rwchambers-gay-rebellion` (2167 units) |
+| The Maids of Paradise | have | PG 28295, `rwchambers-maids-of-paradise` (3807 units) |
+| The Dark Star | have | PG 28440, `rwchambers-dark-star` (4446 units) |
+| The Crimson Tide: A Novel | have | PG 29880, `rwchambers-crimson-tide` (4554 units) |
+| The Moonlit Way: A Novel | have | PG 33557, `rwchambers-moonlit-way` (4278 units) |
+| The Streets of Ascalon: Episodes in the Unfinished Career of Richard Quarren, Esqre. | have | PG 35233, `rwchambers-streets-of-ascalon` (4752 units) |
+| The Slayer of Souls | have | PG 36281, `rwchambers-slayer-of-souls` (2621 units) |
+| The Little Red Foot | have | PG 37333, `rwchambers-little-red-foot` (4621 units) |
+| Quick Action | have | PG 37528, `rwchambers-quick-action` (2410 units) |
+| Cardigan | have | PG 38958, `rwchambers-cardigan` (5437 units) |
+| Who Goes There! | have | PG 40696, `rwchambers-who-goes-there` (3335 units) |
+| The Adventures of a Modest Man | have | PG 43702, `rwchambers-adventures-of-a-modest-man` (2586 units) |
+| The Business of Life | have | PG 43703, `rwchambers-business-of-life` (4874 units) |
+| The Mystery of Choice | have | PG 46581, `rwchambers-mystery-of-choice` (2117 units) |
+| The Girl Philippa | have | PG 52404, `rwchambers-girl-philippa` (5099 units) |
+| Japonette | have | PG 52842, `rwchambers-japonette` (2826 units) |
+| The Laughing Girl | have | PG 53249, `rwchambers-laughing-girl` (3364 units) |
+| The Restless Sex | have | PG 53289, `rwchambers-restless-sex` (4107 units) |
+| Eris | have | PG 67856, `rwchambers-eris` (4013 units) |
+| The talkers | have | PG 77500, `rwchambers-talkers` (3662 units) |
+| The haunts of men | have | PG 77948, `rwchambers-haunts-of-men` (2235 units) |
+| pg-26651 | excluded | PG 26651 The Flaming Jewel: a second Gutenberg edition of a title already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
