@@ -3624,8 +3624,6 @@ Shelf: `pipeline/descartes_shelf.json`. René Descartes (1596-1650) in English, 
 | A Discourse of a Method for the Well Guiding of Reason, and the Discovery of Truth in the Sciences (London: Thomas Newcombe, MDCXLIX) | unnamed (1649) | `descartes-discourse-1649` | have (PG 25830) |
 | The Philosophical Works of Descartes, rendered into English, vol. I (Cambridge University Press, 1911) | Elizabeth S. Haldane and G. R. T. Ross | `descartes-haldane-ross-works-1911-v1` | have-raw (IA `philosophicalwor01desc`) |
 
-Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 printing.
-
 ## Rousseau in English
 
 Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted. Added 2026-10-17: the Discourse on Inequality in the anonymous translation of PG 11136, a different translation from the Adler shelf's Social Contract and Discourses (PG 46333).
@@ -4161,7 +4159,7 @@ Shelf: `pipeline/malthus_shelf.json`. Six works, 1798-1827.
 | The Measure of Value Stated and Illustrated (London, 1823) |  | `malthus-measure-of-value-1823` | have (PG 62407) |
 | Definitions in Political Economy (London: John Murray, 1827) |  | `malthus-definitions-1827` | have (PG 61483) |
 
-Pending (wishlist): The enlarged Essay on Population; Principles of Political Economy (1820).
+Pending (wishlist): The enlarged Essay on Population (2nd-6th eds.)
 
 ## David Ricardo
 
@@ -4420,7 +4418,7 @@ Shelf: `pipeline/george-boole_shelf.json`. The Laws of Thought (1854). The Mathe
 |---|---|---|---|
 | An Investigation of the Laws of Thought (London: Walton and Maberly, 1854) |  | `boole-laws-of-thought-1854` | have-raw (IA `bub_gb_SWgLVT0otY8C`) |
 
-Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing
+Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile)
 
 ## Wittgenstein in English
 
@@ -4441,8 +4439,7 @@ Shelf: `pipeline/mctaggart_shelf.json`. Some Dogmas of Religion (1906), Studies 
 | The Nature of Existence, vol. I (Cambridge, 1921) |  | `mctaggart-nature-of-existence-1921-v1` | have-raw (IA `natureofexistenc01mctauoft`) |
 | The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927) |  | `mctaggart-nature-of-existence-1927-v2` | have-raw (IA `natureofexistenc02mctauoft`) |
 | Studies in Hegelian Cosmology (Cambridge: University Press, 1901) |  | `mctaggart-studies-hegelian-cosmology-1901` | have-raw (IA `cu31924029069354`) |
-
-Pending (wishlist): A Commentary on Hegel's Logic (1910)
+| A Commentary on Hegel's Logic (Cambridge: University Press, 1910) |  | `mctaggart-commentary-hegels-logic-1910` | have-raw (IA `commentaryonhege00mctauoft`) |
 
 ## James Frederick Ferrier
 
@@ -4742,8 +4739,6 @@ Shelf: `pipeline/fcs-schiller_shelf.json`. Humanism (1903), Studies in Humanism 
 | Studies in Humanism, second edition (London: Macmillan, 1912) |  | `fcs-schiller-studies-in-humanism-1912` | have-raw (IA `studiesinhumanis00schi`) |
 | Formal Logic: a scientific and social problem (London: Macmillan, 1912) |  | `fcs-schiller-formal-logic-1912` | have-raw (IA `formallogicscie00schi`) |
 
-Pending (wishlist): Riddles of the Sphinx (1891), in a dated scan
-
 ## H. L. Mansel
 
 Shelf: `pipeline/henry-mansel_shelf.json`. The Limits of Religious Thought (Bampton Lectures, 1858).
@@ -4899,8 +4894,6 @@ Shelf: `pipeline/alexander-bain_shelf.json`. Associationist psychology and ethic
 | Practical Essays (1884) |  | `bain-practical-essays-1884` | have (PG 17522) |
 | The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875) |  | `bain-emotions-and-the-will-1875` | have-raw (IA `bub_gb_BjYCAAAAQAAJ`) |
 
-Pending (wishlist): The Senses and the Intellect (a printing with a legible year); Mental and Moral Science
-
 ## George Henry Lewes
 
 Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the physiology of mind. The two History volumes are mismatched editions (3rd ed. vol. I, 4th ed. vol. II).
@@ -4911,7 +4904,7 @@ Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the p
 | The History of Philosophy from Thales to Comte, 3rd ed., vol. I (London: Longmans, Green, 1867) |  | `lewes-history-of-philosophy-3rd-ed-v1` | have-raw (IA `thehistoryofphil01leweuoft`) |
 | The History of Philosophy from Thales to Comte, 4th ed., vol. II (London: Longmans, Green, 1871) |  | `lewes-history-of-philosophy-4th-ed-v2` | have-raw (IA `historyofphiloso02lewe`) |
 
-Pending (wishlist): a matched pair of the History; Problems of Life and Mind; Comte's Philosophy of the Sciences
+Pending (wishlist): a matched pair of the History
 
 ## John Herschel
 
@@ -5041,7 +5034,7 @@ Shelf: `pipeline/paul-carus_shelf.json`. Open Court monism.
 |---|---|---|---|
 | Nietzsche and Other Exponents of Individualism (Chicago: Open Court, 1914) |  | `carus-nietzsche-and-individualism-1914` | have (PG 48495) |
 
-Pending (wishlist): The Foundations of Mathematics (1908) from a scan; Fundamental Problems (1889)
+Pending (wishlist): The Foundations of Mathematics (1908) from a scan
 
 ## James Mark Baldwin
 
@@ -5051,8 +5044,6 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 |---|---|---|---|
 | The Story of the Mind (New York: Appleton, 1905) |  | `baldwin-story-of-the-mind-1905` | have (PG 20522) |
 | Mental Development in the Child and the Race (New York and London: Macmillan, 1895) |  | `baldwin-mental-development-1895` | have-raw (IA `mentaldevelopme00bald`) |
-
-Pending (wishlist): Thought and Things (1906-11)
 
 ## C. I. Lewis
 
@@ -5119,8 +5110,6 @@ Shelf: `pipeline/lucien-levy-bruhl_shelf.json`. French philosophy surveyed.
 |---|---|---|---|
 | History of Modern Philosophy in France (Chicago: Open Court, 1899) | G. Coblence | `levy-bruhl-coblence-modern-philosophy-in-france-1899` | have-raw (IA `historyofmodernp00laevuoft`) |
 
-Pending (wishlist): The Philosophy of Auguste Comte (1903)
-
 ## Gabriel Tarde
 
 Shelf: `pipeline/gabriel-tarde_shelf.json`. Social philosophy of imitation.
@@ -5152,8 +5141,6 @@ Shelf: `pipeline/theodule-ribot_shelf.json`. Positive psychology in the French s
 | Diseases of Memory, an essay in the positive psychology (New York: Appleton, 1887) | William Huntington Smith | `ribot-smith-diseases-of-memory-1887` | have-raw (IA `diseasesofmemory00ribouoft`) |
 | The Psychology of Attention, 5th revised ed. (Chicago: Open Court, 1903) |  | `ribot-psychology-of-attention-1903` | have-raw (IA `psychologyofatte00ribo`) |
 | The Diseases of the Will, 4th enlarged English ed. (Chicago: Open Court, 1915) | Merwin-Marie Snell | `ribot-snell-diseases-of-the-will-1915` | have-raw (IA `diseasesofwillau00ribo`) |
-
-Pending (wishlist): Heredity (1875); English Psychology (1873); The Diseases of Personality
 
 ## Friedrich Schleiermacher
 
@@ -5189,8 +5176,6 @@ Shelf: `pipeline/moses-mendelssohn_shelf.json`. Enlightenment philosophy of reli
 |---|---|---|---|
 | Jerusalem, vol. I (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v1` | have-raw (IA `jerusalemtreatis01mend`) |
 | Jerusalem, vol. II (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v2` | have-raw (IA `jerusalemtreatis02mend`) |
-
-Pending (wishlist): Phaedon, tr. Charles Cullen (1789)
 
 ## Leslie Stephen
 
