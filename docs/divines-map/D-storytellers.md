@@ -10821,6 +10821,33 @@ Shelf: `pipeline/stowe-works_shelf.json` (2026-10-17; added at the coordinator's
 | pg-42318 | excluded | PG 42318: Samuel R. Wells's compilation on spiritualism, with one piece by Stowe. |
 | pg-72864 | excluded | PG 72864 Flowers and Fruit: passages compiled by Abbie H. Fairfield. |
 
+## Oliver Wendell Holmes
+
+Shelf: `pipeline/oliver-wendell-holmes_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Autocrat of the Breakfast-Table | have | PG 751, `owholmes-autocrat-of-the-breakfast-table` (1023 units) |
+| The Professor at the Breakfast-Table | have | PG 2665, `owholmes-professor-at-the-breakfast-table` (1104 units) |
+| The Poet at the Breakfast-Table | have | PG 2666, `owholmes-poet-at-the-breakfast-table` (1084 units) |
+| Over the Teacups | have | PG 2689, `owholmes-over-the-teacups` (924 units) |
+| Elsie Venner | have | PG 2696, `owholmes-elsie-venner` (1566 units) |
+| The Guardian Angel | have | PG 2697, `owholmes-guardian-angel` (1554 units) |
+| A Mortal Antipathy | have | PG 2698, `owholmes-a-mortal-antipathy` (925 units) |
+| Pages from an Old Volume of Life; A Collection of Essays, 1857-1881 | have | PG 2699, `owholmes-pages-from-an-old-volume-of-life` (357 units) |
+| Medical Essays, 1842-1882 | have | PG 2700, `owholmes-medical-essays-1842-1882` (1198 units) |
+| Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works | have | PG 3252, `owholmes-complete-project-gutenberg-oliver-wendell-holmes-sr` (12776 units) |
+| John Lothrop Motley, A Memoir — Complete | have | PG 4728, `owholmes-john-lothrop-motley-a-memoir-complete` (563 units) |
+| Our Hundred Days in Europe | have | PG 7322, `owholmes-our-hundred-days-in-europe` (513 units) |
+| The Poetical Works of Oliver Wendell Holmes — Complete | have | PG 7400, `owholmes-poetical-works-of-oliver-wendell-holmes-complete` (3414 units) |
+| Ralph Waldo Emerson | have | PG 12700, `owholmes-ralph-waldo-emerson` (2014 units) |
+| Grandmother's Story of Bunker Hill Battle, as She Saw it from the Belfry | have | PG 21941, `owholmes-grandmothers-story-of-bunker-hill-battle-as-she-saw` (88 units) |
+| The One Hoss Shay With its Companion Poems How the Old Horse Won the Bet & The Broomstick Train | have | PG 30279, `owholmes-one-hoss-shay-with-its-companion-poems-how-the-old` (172 units) |
+| The Wonderful "One-Hoss-Shay", and Other Poems | have | PG 45280, `owholmes-wonderful-one-hoss-shay-and-other-poems` (302 units) |
+| pg-28747 | excluded | PG 28747: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 4725, 4726, 4727, 7388, 7389, 7390, 7391, 7392, 7393, 7394, 7395, 7396, 7397, 7398, 7399: the complete edition of each is on the shelf instead. |
+| pg-3493 | excluded | PG 3493, 7545: David Widger's quotation and image selections. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

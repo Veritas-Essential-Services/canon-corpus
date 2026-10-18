@@ -1518,3 +1518,6 @@
 
 ## 2026-10-17 21:25 CDT — stowe-works: done
 - stowe-works: new shelf, 33 Gutenberg books, 47,017 units, 1435 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:25 CDT — oliver-wendell-holmes: done
+- oliver-wendell-holmes: new shelf, 17 Gutenberg books, 29,577 units, 1675 ~2 ids; verify 0 mismatches, 0 rights flags.
