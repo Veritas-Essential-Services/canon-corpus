@@ -5563,6 +5563,7 @@ Shelf: `pipeline/cournot_shelf.json`. Bacon's 1897 translation of the Researches
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Researches into the Mathematical Principles of the Theory of Wealth, tr. Nathaniel T. Bacon (Macmillan, 1897) | Bacon | `cournot-bacon-researches-1897` | have-raw (IA `bub_gb_AGoGpyJY_SAC`) |
 
 ## Sir William Petty (political arithmetic)
 
