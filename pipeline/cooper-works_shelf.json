@@ -261,16 +261,35 @@
   ],
   "jfcooper-gleanings-in-europe": [
    74936,
-   "Gleanings in Europe"
+   "Gleanings in Europe England, vol. 1 of 2"
   ],
   "jfcooper-ways-of-the-hour": [
    75036,
    "The ways of the hour"
+  ],
+  "jfcooper-gleanings-in-europe-england-vol-2-of-2": [
+   74937,
+   "Gleanings in Europe England, vol. 2 of 2"
+  ],
+  "jfcooper-gleanings-in-europe-italy-vol-1-of-2": [
+   76712,
+   "Gleanings in Europe Italy, vol. 1 of 2"
+  ],
+  "jfcooper-gleanings-in-europe-italy-vol-2-of-2": [
+   77046,
+   "Gleanings in Europe Italy, vol. 2 of 2"
+  ],
+  "jfcooper-gleanings-in-europe-france-vol-1-of-2": [
+   77304,
+   "Gleanings in Europe France, vol. 1 of 2"
+  ],
+  "jfcooper-gleanings-in-europe-france-vol-2-of-2": [
+   77305,
+   "Gleanings in Europe France, vol. 2 of 2"
   ]
  },
  "internet_archive": {},
  "_excluded": {
-  "repeat-editions": "PG 74937, 76712, 77046, 77304, 77305: second Gutenberg editions of titles already on the shelf.",
   "held-elsewhere": "PG 940: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
   "pg-27681": "PG 27681 The Last of the Mohicans: a second edition; the reading-list novels-rl-9 shelf holds the novel."
  },
@@ -609,6 +628,51 @@
    "pg_translator": null
   },
   "jfcooper-ways-of-the-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe-england-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe-italy-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe-italy-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe-france-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe-france-vol-2-of-2": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
