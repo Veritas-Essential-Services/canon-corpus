@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain Francis Aidan Gasquet (1846-1929, Benedictine historian, later cardinal) for the Word Hoard: Henry VIII and the English Monasteries (2 vols, 1888-1889), Edward VI and the Book of Common Prayer with Edmund Bishop (1890), The Great Pestilence (1893), The Old English Bible (1897), The Eve of the Reformation (1900), English Monastic Life (1904) and Parish Life in Mediaeval England (1906), from Internet Archive scans and Project Gutenberg. Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gasquet"
+ ],
+ "_surname": [
+  "gasquet",
+  "francis aidan gasquet",
+  "abbot gasquet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gasquet-eve-of-reformation": [
+   50328,
+   "The Eve of the Reformation (London: John C. Nimmo, MDCCCC)"
+  ],
+  "gasquet-great-pestilence": [
+   45815,
+   "The Great Pestilence (A.D. 1348-9) (London: Simpkin Marshall, 1893)"
+  ],
+  "gasquet-english-monastic-life": [
+   42614,
+   "English Monastic Life, the Antiquary's Books (London: Methuen, 1904)"
+  ]
+ },
+ "internet_archive": {
+  "gasquet-henry-viii-monasteries-1": [
+   "henryviiienglish01gasq_0",
+   "Henry VIII and the English Monasteries, vol. I (London: John Hodges, 1888)"
+  ],
+  "gasquet-henry-viii-monasteries-2": [
+   "henryviiienglish0002gasq",
+   "Henry VIII and the English Monasteries, vol. II (London: John Hodges, 1889)"
+  ],
+  "gasquet-edward-vi-prayer-book": [
+   "cu31924029446212",
+   "Edward VI and the Book of Common Prayer, with Edmund Bishop (London: John Hodges, 1890)"
+  ],
+  "gasquet-old-english-bible": [
+   "oldenglishbible00gasq",
+   "The Old English Bible and other essays (London: John C. Nimmo, MDCCCXCVII)"
+  ],
+  "gasquet-parish-life": [
+   "parishlifeinmedi00gasquoft",
+   "Parish Life in Mediaeval England (London: Methuen, 1906)"
+  ]
+ },
+ "_alternates": {
+  "gasquet-pg-parish": "PG 73543: Parish Life, second edition (1907)",
+  "gasquet-copies": "Henry VIII second editions (1888-1889); IA copies of the PG texts"
+ },
+ "_excluded": {
+  "gasquet-1914": "Breaking with the Past (PG 34923, US copyright 1914): not a work asked for",
+  "gasquet-other": "Roswitha (PG 59770, not his); 1920s reprints of Henry VIII"
+ },
+ "_rights_checked": {
+  "gasquet-edward-vi-prayer-book": "title page read: by Francis Aidan Gasquet and Edmund Bishop, joint authors"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gasquet-eve-of-reformation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasquet-great-pestilence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasquet-english-monastic-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasquet-henry-viii-monasteries-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "Publication of images from Elms College Archives and Special Collections is subject to approval and may be under copyright. Publication includes the following media: print, electronic/digital, sound recording, video recording, or microfilm. Written permission must be obtained in advance of publication by contacting the Archives or Special Collections Departments at Alumnae Library, Elms College: goldsmithm@elms.edu or fonsecaa@elms.edu. Fees may be assessed and charged by the departments for reproduction and use.",
+   "ia_lending": null
+  },
+  "gasquet-henry-viii-monasteries-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gasquet-edward-vi-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: by Francis Aidan Gasquet and Edmund Bishop, joint authors"
+  },
+  "gasquet-old-english-bible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gasquet-parish-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gasquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

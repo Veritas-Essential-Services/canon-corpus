@@ -6258,3 +6258,22 @@ Slugs `ajmason-*`. Cambridge divinity professor; written in English.
 | The Ministry of Conversion, Handbooks for the Clergy (London: Longmans, Green, 1902) | have-ocr | IA `bwb_T5-ARI-981` |
 | Faith of the Gospel (Rivingtons and Dutton, 1888); Confirmation second edition (1893); other 1896 and 1901 copies; Ministry of Conversion second impression | alternate | not shelved |
 | Eugene Mason, the translator, on his own shelf | excluded | |
+
+## Francis Aidan Gasquet (round 28, my pick, 2026-10-18)
+
+Slugs `gasquet-*`. Benedictine historian, later cardinal; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Eve of the Reformation (London: John C. Nimmo, MDCCCC) | have-clean | Gutenberg 50328 |
+| The Great Pestilence (A.D. 1348-9) (London: Simpkin Marshall, 1893) | have-clean | Gutenberg 45815 |
+| English Monastic Life, the Antiquary's Books (London: Methuen, 1904) | have-clean | Gutenberg 42614 |
+| Henry VIII and the English Monasteries, vol. I (London: John Hodges, 1888) | have-ocr | IA `henryviiienglish01gasq_0` |
+| Henry VIII and the English Monasteries, vol. II (London: John Hodges, 1889) | have-ocr | IA `henryviiienglish0002gasq` |
+| Edward VI and the Book of Common Prayer, with Edmund Bishop (London: John Hodges, 1890) | have-ocr | IA `cu31924029446212` |
+| The Old English Bible and other essays (London: John C. Nimmo, MDCCCXCVII) | have-ocr | IA `oldenglishbible00gasq` |
+| Parish Life in Mediaeval England (London: Methuen, 1906) | have-ocr | IA `parishlifeinmedi00gasquoft` |
+| PG 73543: Parish Life, second edition (1907) | alternate | not shelved |
+| Henry VIII second editions (1888-1889); IA copies of the PG texts | alternate | not shelved |
+| Breaking with the Past (PG 34923, US copyright 1914): not a work asked for | excluded | |
+| Roswitha (PG 59770, not his); 1920s reprints of Henry VIII | excluded | |
