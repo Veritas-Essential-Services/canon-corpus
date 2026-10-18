@@ -7220,3 +7220,14 @@ Slugs `jgerhard-*`. Sacred Meditations, tr. Heisler (1896).
 |---|---|---|
 | Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society; title page undated, copyright 1896) | have-ocr | IA `sacredmeditation0000revh` |
 | Ralph Winterton's Meditations (Cambridge, from 1627) and its many reprints; A Christian Mans Weekes Worke (1611); Thomas Rowell's Christian's Support (1709, 1715); Holy Meditations (1724): early-printed scans whose dates or translators are garbled | alternate | not shelved |
+
+## Gerhard Tersteegen (round 31, my pick, 2026-10-18)
+
+Slugs `tersteegen-*`. Spiritual Crumbs and the Life and Character, tr. Samuel Jackson.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual Crumbs from the Master's Table, tr. Samuel Jackson (London: John F. Shaw, MDCCCXXXVII) | have-ocr | IA `spiritualcrumbs00tersgoog` |
+| Life and Character of Gerhard Tersteegen, with Extracts from his Letters and Writings, tr. Samuel Jackson (London: Black, Young, and Young, 1832) | have-ocr | IA `lifeandcharacter00jackuoft` |
+| Other copies of both | alternate | not shelved |
+| Bevan's multi-author hymn anthology; Lady Durand's Imitations of Spitta and Tersteegen; lives by Govan, Oliphant and Bailey | excluded | |

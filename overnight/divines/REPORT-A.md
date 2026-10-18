@@ -1504,3 +1504,6 @@
 
 ## 2026-10-17 20:42 CDT — johann-gerhard done
 - `pipeline/johann-gerhard_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — gerhard-tersteegen done
+- `pipeline/gerhard-tersteegen_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

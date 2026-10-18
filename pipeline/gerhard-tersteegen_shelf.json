@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Gerhard Tersteegen (1697-1769, Mülheim, Reformed mystic and hymn writer) in English for the Word Hoard: Spiritual Crumbs from the Master's Table (1837) and the Life and Character of Gerhard Tersteegen, with extracts from his letters and writings (1832), both tr. Samuel Jackson, from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "tersteegen"
+ ],
+ "_surname": [
+  "tersteegen",
+  "gerhard tersteegen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tersteegen-spiritual-crumbs": [
+   "spiritualcrumbs00tersgoog",
+   "Spiritual Crumbs from the Master's Table, tr. Samuel Jackson (London: John F. Shaw, MDCCCXXXVII)"
+  ],
+  "tersteegen-life-and-character": [
+   "lifeandcharacter00jackuoft",
+   "Life and Character of Gerhard Tersteegen, with Extracts from his Letters and Writings, tr. Samuel Jackson (London: Black, Young, and Young, 1832)"
+  ]
+ },
+ "_alternates": {
+  "tersteegen-copies": "Other copies of both"
+ },
+ "_excluded": {
+  "tersteegen-others": "Bevan's multi-author hymn anthology; Lady Durand's Imitations of Spitta and Tersteegen; lives by Govan, Oliphant and Bailey"
+ },
+ "_rights_checked": {
+  "tersteegen-life-and-character": "title page read: about half the book is a life of him, the rest his letters, sermons, tracts and hymns"
+ },
+ "_pending": {},
+ "_translators": {
+  "tersteegen-spiritual-crumbs": "jackson",
+  "tersteegen-life-and-character": "jackson"
+ },
+ "_checks": {
+  "tersteegen-spiritual-crumbs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tersteegen",
+   "translator_claimed": "jackson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tersteegen-life-and-character": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tersteegen",
+   "translator_claimed": "jackson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: about half the book is a life of him, the rest his letters, sermons, tracts and hymns"
+  }
+ }
+}
