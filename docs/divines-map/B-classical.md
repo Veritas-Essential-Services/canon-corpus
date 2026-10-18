@@ -6439,6 +6439,8 @@ Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). S
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
+| A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
 
 Pending (wishlist): Prolegomena to an Idealist Theory of Knowledge (1924)
 

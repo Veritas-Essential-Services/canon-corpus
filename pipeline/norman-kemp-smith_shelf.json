@@ -1,0 +1,51 @@
+{
+ "_about": "Norman Kemp Smith (1872-1958), Kant and Hume scholar. Raw IA OCR: Studies in the Cartesian Philosophy (London and New York: Macmillan, 1902; title page 'Norman Smith', before he added Kemp), clean 0.90; A Commentary to Kant's 'Critique of Pure Reason' (London: Macmillan, 1918), clean 0.92. His translation of the Critique of Pure Reason (1929) stands on the kant shelf. US public domain. No uids minted.",
+ "_author": "Norman Kemp Smith",
+ "_name_words": [
+  "norman",
+  "kemp",
+  "smith"
+ ],
+ "_surname": [
+  "smith",
+  "kemp smith",
+  "norman smith"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kemp-smith-cartesian-philosophy-1902": [
+   "studiesincartes00smitgoog",
+   "Studies in the Cartesian Philosophy (Macmillan, 1902)"
+  ],
+  "kemp-smith-commentary-kant-1918": [
+   "commentarytokant00smituoft",
+   "A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "kemp-smith-cartesian-philosophy-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "norman smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kemp-smith-commentary-kant-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kemp smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
