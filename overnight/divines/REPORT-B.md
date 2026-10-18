@@ -1045,3 +1045,9 @@
 - Vols. I-VII: philosophical works as written (Latin works in Latin, English prefaces); VIII-X: the editors' translations; XI-XIV literary; XV professional
 - Overlaps the Gutenberg Essays, New Atlantis, Valerius Terminus and the Adler Advancement and Novum Organum; taken whole as the collected edition
 - Still wanted: the Letters and Life (1861-74)
+
+## 2026-10-17 19:29 CDT — Round aq: Bacon's Letters and Life, Malthus, Bentham
+- Bacon: Letters and Life, ed. Spedding, 7 vols. (Longmans, 1861-74)
+- Malthus: Essay on Population, 6th ed. (Murray, 1826, 2 vols.)
+- Bentham: Rationale of Judicial Evidence (Hunt and Clarke, 1827, 5 vols.), ed. J. S. Mill
+- Hobbes: Molesworth vols. 8-11 not wanted (Thucydides and Homer translations held elsewhere)

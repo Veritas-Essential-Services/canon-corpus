@@ -232,3 +232,4 @@
 - 19:20 round an: Locke's 1823 Works (10 vols.) and Schleiermacher's Soliloquies added; Locke wishlist cleared.
 - 19:24 round ao: 15 volumes; Stewart's Collected Works now complete; Christian Faith held (later impressions only).
 - 19:27 round ap: Bacon's Spedding Works complete (15 vols., 1864); the vols. with Latin originals are Bacon's own Latin, not facing text, flagged in case the facing-text ruling should cover them.
+- 19:29 round aq: 14 volumes (Bacon Letters and Life, Malthus 1826, Bentham Rationale); Hobbes 8-11 dropped as duplicates.
