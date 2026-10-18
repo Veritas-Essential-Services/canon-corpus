@@ -6066,8 +6066,6 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 | The American Commonwealth, vol. II (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v2` | have-raw (IA `americancommonwe02bryc_0`) |
 | The American Commonwealth, vol. III (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v3` | have-raw (IA `americancommonwe03bryc`) |
 
-Pending (wishlist): The American Commonwealth (1888, 3 vols.)
-
 ## Montesquieu (Romans, Persian Letters)
 
 Shelf: `pipeline/montesquieu_shelf.json`. Charles de Secondat, baron de Montesquieu (1689-1755). Raw IA OCR: Jehu Baker's Considerations on the Romans (Appleton, 1882) and John Davidson's Persian Letters (Dunne, 1901, bound with Goldsmith's Chinese Letters). The Spirit of Laws (Nugent) stays on the Adler shelf.
