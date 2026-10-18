@@ -1747,3 +1747,6 @@
 
 ## 2026-10-17 22:27 CDT — john-henry-blunt done
 - `pipeline/john-henry-blunt_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for jhblunt-directorium-pastorale (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — g-f-maclear done
+- `pipeline/g-f-maclear_shelf.json`: 0 CCEL, 2 PG, 6 IA. Title pages read for maclear-class-book-ot, maclear-class-book-nt, maclear-introduction-creeds (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

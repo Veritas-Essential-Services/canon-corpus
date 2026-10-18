@@ -8402,6 +8402,23 @@ Slugs `-*`. Built from title pages read for round 35.
 | Household Theology: a handbook of religious information, third edition (London: Rivingtons, 1868) | have-ocr | IA `householdtheolog00blunuoft` |
 | Dictionary of Doctrinal second edition (1872); another 1874 Dictionary of Sects; a 1882 Reformation vol. I (catalogued as vol. II in error); the 1866 Annotated BCP Part I issue | alternate | not shelved |
 | A Key to the Knowledge of Church History (PG 22017, 1877; IA 1871): Blunt only edited it, and the preface is signed 'M. F. B. P.' | excluded | |
+
+## G. F. Maclear (round 15, my pick, 2026-10-18)
+
+Slugs `maclear-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A Class-Book of Old Testament History (London and New York: Macmillan, 1894) | have-clean | Gutenberg 63528 |
+| A Class-Book of New Testament History (London and New York: Macmillan, 1890) | have-clean | Gutenberg 65247 |
+| A Class-Book of Old Testament History, fourth edition (London and Cambridge: Macmillan, 1868) | have-ocr | IA `aclassbookoldte00maclgoog` |
+| A Class-Book of New Testament History, second edition (London: Macmillan, 1867) | have-ocr | IA `aclassbooknewte02maclgoog` |
+| An Introduction to the Creeds (London and New York: Macmillan, 1889) | have-ocr | IA `introductiontocr00macl` |
+| An Introduction to the Articles of the Church of England, by G. F. Maclear and W. W. Williams (London and New York: Macmillan, 1895) | have-ocr | IA `introductiontoar00macl` |
+| Apostles of Mediaeval Europe (London: Macmillan; title page undated, preface dated 1869) | have-ocr | IA `cu31924029262065` |
+| A History of Christian Missions during the Middle Ages (Cambridge and London: Macmillan, 1863) | have-ocr | IA `historyofchristi00macl` |
+| Class-Book new editions (1881, 1885); Creeds 1904; Articles 1896; the undated Apostles; the Elementary Introduction with Procter (on the francis-procter shelf) | alternate | not shelved |
+| 1920 and 1922 reprints of the New Testament Class-Book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
