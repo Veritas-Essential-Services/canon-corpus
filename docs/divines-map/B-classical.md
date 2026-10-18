@@ -6994,6 +6994,7 @@ Shelf: `pipeline/irwin-edman_shelf.json`. One book, 1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Human Traits and their Social Significance |  | `edman-human-traits` | have (PG 22306) |
 
 ## Will Durant (popular philosophy)
 
