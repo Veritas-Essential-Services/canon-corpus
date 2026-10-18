@@ -8768,3 +8768,17 @@ Slugs `mbottome-*`. Built from title pages read for round 36.
 |---|---|---|
 | A Sunshine Trip: Glimpses of the Orient, extracts from letters written by Margaret Bottome (New York: Edward Arnold, 1897) | have-ocr | IA `sunshinetripglim00bott` |
 | Heart to Heart Letters, being extracts from the letters of Margaret Bottome to a son (New York: Hodder and Stoughton; copyright 1909) | have-ocr | IA `hearttoheartlett00bott` |
+
+## Mother Mary Loyola (round 36, my pick, 2026-10-18)
+
+Slugs `mmloyola-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Before the Most Holy (Coram Sanctissimo), edited by Father Thurston, S.J. (St. Louis: B. Herder; London: Sands, 1904) | have-clean | Gutenberg 76888 |
+| Questions on First Communion, with an introductory note by the Cardinal Archbishop of Westminster (London: Burns and Oates, 1903) | have-ocr | IA `questionsonfirst00loyouoft` |
+| Jesus of Nazareth: The Story of His Life Written for Children, edited by Father Thurston, S.J. (New York: Benziger Brothers, 1906) | have-ocr | IA `jesusofnazareth00mary` |
+| Heavenwards, edited by Father Thurston, S.J. (New York and Philadelphia: P. J. Kenedy, 1910) | have-ocr | IA `heavenwards00mary` |
+| Hail! Full of Grace: Simple Thoughts on the Rosary, eighth edition, edited by Father Thurston, S.J. (St. Louis: B. Herder; London: Sands, 1914) | have-ocr | IA `simplethoughtson0000moth` |
+| The IA Before the Most Holy (1904) and later editions (eleventh 1908, seventeenth undated); Hail! Full of Grace fourth edition (undated); Welcome! Holy Communion (undated) | alternate | not shelved |
+| Trust (1932) and modern reprints; Thurston's Stations of the Cross (PG 79316) | excluded | |

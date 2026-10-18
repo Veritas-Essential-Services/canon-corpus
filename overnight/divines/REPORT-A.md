@@ -1822,3 +1822,6 @@
 
 ## 2026-10-17 22:45 CDT — margaret-bottome done
 - `pipeline/margaret-bottome_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — mother-mary-loyola done
+- `pipeline/mother-mary-loyola_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
