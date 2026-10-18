@@ -1358,3 +1358,7 @@
 - josiah-royce +10 (1897-1920)
 - alfred-north-whitehead +1 (Function of Reason 1929)
 - Held: Russell's Prospects of Industrial Civilization and Sceptical Essays; Whitehead's Aims of Education and Universal Algebra
+
+## 2026-10-17 23:10 CDT — Round ck: Dewey gaps; 1930 rights-check audit
+- john-dewey +9: Psychology (1894), Psychology of Number with McLellan (1895), Educational Situation (1902), Interest and Effort (1913), Letters from China and Japan (1920), Characters and Events I-II (1929), Impressions of Soviet Russia (1929), Sources of a Science of Education (1929)
+- Audit: every shelf's 1930 IA items checked for a _rights_checked entry; three lane B items lacked one (Dewey, Lovejoy, Broad) and now have them
