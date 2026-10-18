@@ -1078,3 +1078,10 @@
 - Millar: Distinction of Ranks, 2nd ed. (1773)
 - Monboddo: Antient Metaphysics, 6 vols. (1779-99); vol. VI year from catalogue
 - Held under the OCR gate: Filmer's Patriarcha (1680), Oswald's Appeal (1766), the 1799 Buchanan Dialogue
+
+## 2026-10-17 19:51 CDT — Round au: political economy classics
+- New shelves: thomas-mun (England's Treasure, 1895 reprint), turgot (Reflections, 1898/1911), jean-baptiste-say (Prinsep tr., 1857), friedrich-list (Lloyd tr., 1904), robert-owen (3 works 1817-1840), sismondi (1847 selection), cournot (Bacon tr., 1897), william-petty (Hull ed. 1899 x2 + PG 61588)
+- Held: The Life of Robert Owen (Bohn's Popular Library reprint): no printed year in the scan
+- Not taken: List tr. Matile (1856), a second translation; Petty, Essays on Mankind, ed. Morley (PG 5619), contained in Hull
+- Wicksteed's Alphabet of Economic Science (PG 32497) not taken: the wicksteed shelf belongs to lane C; flagged in DIGEST
+- Ids checked against heldidx and all branches: no collisions

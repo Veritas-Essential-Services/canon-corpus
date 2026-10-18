@@ -236,3 +236,4 @@
 - 19:36 round ar: 5 new shelves (Bayle, Schelling, Glanvill, Toland, Chubb) and Arber's Utopia; inferred years noted on Bayle I/III and Toland.
 - 19:40 round as: Roger Bacon, John of Salisbury and Donoso Cortes shelved; Wolff's Logic held (OCR).
 - 19:45 round at: 6 new shelves (Hotman, Selden, Fortescue, Buchanan, Millar, Monboddo); Filmer and Oswald held under the OCR gate.
+- 19:51 round au: 8 political-economy shelves (Mun, Turgot, Say, List, Owen, Sismondi, Cournot, Petty). For Adam/lane C: Wicksteed's own economics (Alphabet of Economic Science, PG 32497; Common Sense of Political Economy 1910) could join lane C's wicksteed shelf, which today holds only his Dante. Lane B left it alone.
