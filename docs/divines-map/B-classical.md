@@ -4822,6 +4822,7 @@ Shelf: `pipeline/l-t-hobhouse_shelf.json`. Morals in Evolution (1906, 2 parts). 
 |---|---|---|---|
 | Morals in Evolution, part I (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v1` | have-raw (IA `moralsinevolutio01hobh`) |
 | Morals in Evolution, part II (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v2` | have-raw (IA `moralsinevolutio02hobhuoft`) |
+| Liberalism, Home University Library (London: Williams and Norgate; first printed May 1911, this copy the reprint of May 1919; raw IA OCR, clean 0.94; the Gutenberg etext, PG 28278, follows a 1944 impression and is not taken) |  | `hobhouse-liberalism-1911` | have-raw (IA `liberalism00hobh`) |
 
 ## Henry More
 
