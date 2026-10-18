@@ -6186,6 +6186,9 @@ Shelf: `pipeline/erasmus-darwin_shelf.json`. Erasmus Darwin (1731-1802). Zoonomi
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Zoonomia, vol. I, second edition (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v1-1796` | have (PG 15707) |
+| Zoonomia, vol. II (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v2-1796` | have (PG 27600) |
+| The Temple of Nature (J. Johnson, 1803) |  | `erasmus-darwin-temple-of-nature-1803` | have (PG 26861) |
 
 ## Perseus census (overflow)
 
