@@ -6147,6 +6147,11 @@ Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On Compromise (Macmillan, 1886; printing 1908) |  | `morley-on-compromise-1886` | have (PG 11557) |
+| Voltaire (Macmillan, 1886) |  | `morley-voltaire-1886` | have (PG 40846) |
+| Rousseau, vols. I and II (Macmillan, 1886; reprint 1905) |  | `morley-rousseau-1886` | have (PG 14052) |
+| Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
+| Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
 
 Pending (wishlist): Diderot and the Encyclopaedists vol. I (PG 15098 would not download)
 
