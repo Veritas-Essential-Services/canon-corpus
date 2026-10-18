@@ -3794,6 +3794,12 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 | The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-sociology-v1` | have-raw (IA `principlessocio30spengoog`) |
 | The Principles of Sociology, vol. II (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v2` | have-raw (IA `principlesofsoci02spen_0`) |
 | The Principles of Sociology, vol. III (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v3` | have-raw (IA `prinsocial03spenuoft`) |
+| First Principles, first edition (Williams and Norgate, 1863) |  | `spencer-first-principles-pg` | have (PG 55046) |
+| The Philosophy of Style |  | `spencer-philosophy-of-style` | have (PG 5849) |
+| Essays on Education and Kindred Subjects (Everyman, introduction by C. W. Eliot) |  | `spencer-essays-on-education` | have (PG 16510) |
+| The Right to Ignore the State |  | `spencer-right-to-ignore-the-state` | have (PG 34649) |
+| Illustrations of Universal Progress (1864) |  | `spencer-illustrations-universal-progress` | have (PG 39977) |
+| The Factors of Organic Evolution (1887) |  | `spencer-factors-of-organic-evolution` | have (PG 52801) |
 
 ## William Godwin
 
