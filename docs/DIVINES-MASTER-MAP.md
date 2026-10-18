@@ -30288,6 +30288,60 @@ Shelf: `pipeline/hardy-works_shelf.json` (2026-10-17; added at the coordinator's
 | held-elsewhere | excluded | PG 107, 110: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-27 | excluded | PG 27 Far from the Madding Crowd: a second edition; the reading-list hardy shelf holds the novel. |
 
+## Walter Scott
+
+Shelf: `pipeline/walter-scott-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (41 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bride of Lammermoor | have | PG 471, `wscott-bride-of-lammermoor` (1792 units) |
+| The Black Dwarf | have | PG 1460, `wscott-black-dwarf` (919 units) |
+| A Legend of Montrose | have | PG 1461, `wscott-a-legend-of-montrose` (1173 units) |
+| Kenilworth | have | PG 1606, `wscott-kenilworth` (3034 units) |
+| My Aunt Margaret's Mirror | have | PG 1667, `wscott-my-aunt-margarets-mirror` (179 units) |
+| The Tapestried Chamber, and Death of the Laird's Jock | have | PG 1668, `wscott-tapestried-chamber-and-death-of-the-lairds-jock` (89 units) |
+| Waverley; or, 'Tis sixty years since | have | PG 2034, `wscott-waverley` (2350 units) |
+| Redgauntlet: A Tale of the Eighteenth Century | have | PG 2516, `wscott-redgauntlet` (2567 units) |
+| Guy Mannering | have | PG 2590, `wscott-guy-mannering` (2383 units) |
+| The Lady of the Lake | have | PG 3011, `wscott-lady-of-the-lake` (1569 units) |
+| Marmion: A Tale Of Flodden Field | have | PG 4010, `wscott-marmion` (334 units) |
+| Waverley; or, 'Tis sixty years since — Complete | have | PG 4966, `wscott-waverley-4966` (2764 units) |
+| Guy Mannering, Or, the Astrologer — Complete | have | PG 5355, `wscott-guy-mannering-5355` (2454 units) |
+| The Fortunes of Nigel | have | PG 5950, `wscott-fortunes-of-nigel` (2935 units) |
+| Peveril of the Peak | have | PG 5959, `wscott-peveril-of-the-peak` (3247 units) |
+| Some Poems | have | PG 6061, `wscott-some-poems` (210 units) |
+| The Monastery | have | PG 6406, `wscott-monastery` (2420 units) |
+| The Abbot | have | PG 6407, `wscott-abbot` (2759 units) |
+| The Surgeon's Daughter | have | PG 6428, `wscott-surgeons-daughter` (927 units) |
+| The Betrothed | have | PG 6490, `wscott-betrothed` (1823 units) |
+| Waverley Novels — Volume 12 | have | PG 6661, `wscott-waverley-novels-volume-12` (2964 units) |
+| Old Mortality, Complete | have | PG 6941, `wscott-old-mortality-complete` (2518 units) |
+| The Heart of Mid-Lothian, Complete | have | PG 6944, `wscott-heart-of-mid-lothian-complete` (3239 units) |
+| The Antiquary — Complete | have | PG 7005, `wscott-antiquary-complete` (2769 units) |
+| Rob Roy — Complete | have | PG 7025, `wscott-rob-roy-complete` (2452 units) |
+| Quentin Durward | have | PG 7853, `wscott-quentin-durward` (2658 units) |
+| The Fair Maid of Perth; Or, St. Valentine's Day | have | PG 7987, `wscott-fair-maid-of-perth` (2925 units) |
+| Woodstock; or, the Cavalier | have | PG 9785, `wscott-woodstock` (2915 units) |
+| Minstrelsy of the Scottish border, Volume 1 | have | PG 12742, `wscott-minstrelsy-of-the-scottish-border-volume-1` (1468 units) |
+| Minstrelsy of the Scottish Border, Volume 2 (of 3) Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition | have | PG 12882, `wscott-minstrelsy-of-the-scottish-border-volume-2-of-3-consi` (1344 units) |
+| Letters on Demonology and Witchcraft | have | PG 14461, `wscott-letters-on-demonology-and-witchcraft` (622 units) |
+| The Journal of Sir Walter Scott From the Original Manuscript at Abbotsford | have | PG 14860, `wscott-journal-of-sir-walter-scott-from-the-original-manuscr` (4205 units) |
+| St. Ronan's Well | have | PG 20749, `wscott-st-ronans-well` (3105 units) |
+| Trial of Duncan Terig, alias Clerk, and Alexander Bane Macdonald for the Murder of Arthur Davis, Sergeant in General Guise's Regiment of Foot | have | PG 26133, `wscott-trial-of-duncan-terig-alias-clerk-and-alexander-bane` (112 units) |
+| Minstrelsy of the Scottish Border, Volume 3 (of 3) Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition | have | PG 45778, `wscott-minstrelsy-of-the-scottish-border-volume-3-of-3-consi` (1952 units) |
+| Scott's Lady of the Lake | have | PG 45888, `wscott-scotts-lady-of-the-lake` (861 units) |
+| Life of Napoleon Bonaparte, Volume I. | have | PG 48837, `wscott-life-of-napoleon-bonaparte-volume-i` (1783 units) |
+| Life of Napoleon Bonaparte, Volume II. | have | PG 48838, `wscott-life-of-napoleon-bonaparte-volume-ii` (2243 units) |
+| Life of Napoleon Bonaparte, Volume III. | have | PG 48839, `wscott-life-of-napoleon-bonaparte-volume-iii` (1773 units) |
+| Life of Napoleon Bonaparte, Volume IV. | have | PG 48840, `wscott-life-of-napoleon-bonaparte-volume-iv` (1685 units) |
+| Life of Napoleon Bonaparte, Volume V. | have | PG 48841, `wscott-life-of-napoleon-bonaparte-volume-v` (1800 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 4964, 4965, 5353, 5354, 6939, 6940, 6942, 6943, 7003, 7004, 7023, 7024: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 5999, 28287: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 82, 1377: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-5077 | excluded | PG 5077 Marmion (school edition, ed. Bayne): a second edition of PG 4010. |
+| pg-10778 | excluded | PG 10778 The Prose Marmion: a retelling by Sara D. Jenkins. |
+| pg-11623 | excluded | PG 11623: Dryden's plays, which Scott edited; not Scott's own work. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

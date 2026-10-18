@@ -1,0 +1,570 @@
+{
+ "_about": "Sir Walter Scott's Waverley novels, poems, histories and essays not already on another shelf (the reading-list walter-scott shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Walter Scott",
+ "_name_words": [
+  "scott"
+ ],
+ "_surname": [
+  "walter scott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wscott-bride-of-lammermoor": [
+   471,
+   "The Bride of Lammermoor",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "wscott-black-dwarf": [
+   1460,
+   "The Black Dwarf"
+  ],
+  "wscott-a-legend-of-montrose": [
+   1461,
+   "A Legend of Montrose"
+  ],
+  "wscott-kenilworth": [
+   1606,
+   "Kenilworth"
+  ],
+  "wscott-my-aunt-margarets-mirror": [
+   1667,
+   "My Aunt Margaret's Mirror"
+  ],
+  "wscott-tapestried-chamber-and-death-of-the-lairds-jock": [
+   1668,
+   "The Tapestried Chamber, and Death of the Laird's Jock"
+  ],
+  "wscott-waverley": [
+   2034,
+   "Waverley; or, 'Tis sixty years since"
+  ],
+  "wscott-redgauntlet": [
+   2516,
+   "Redgauntlet: A Tale of the Eighteenth Century"
+  ],
+  "wscott-guy-mannering": [
+   2590,
+   "Guy Mannering"
+  ],
+  "wscott-lady-of-the-lake": [
+   3011,
+   "The Lady of the Lake"
+  ],
+  "wscott-marmion": [
+   4010,
+   "Marmion: A Tale Of Flodden Field"
+  ],
+  "wscott-waverley-4966": [
+   4966,
+   "Waverley; or, 'Tis sixty years since — Complete"
+  ],
+  "wscott-guy-mannering-5355": [
+   5355,
+   "Guy Mannering, Or, the Astrologer — Complete"
+  ],
+  "wscott-fortunes-of-nigel": [
+   5950,
+   "The Fortunes of Nigel"
+  ],
+  "wscott-peveril-of-the-peak": [
+   5959,
+   "Peveril of the Peak"
+  ],
+  "wscott-some-poems": [
+   6061,
+   "Some Poems"
+  ],
+  "wscott-monastery": [
+   6406,
+   "The Monastery"
+  ],
+  "wscott-abbot": [
+   6407,
+   "The Abbot"
+  ],
+  "wscott-surgeons-daughter": [
+   6428,
+   "The Surgeon's Daughter"
+  ],
+  "wscott-betrothed": [
+   6490,
+   "The Betrothed"
+  ],
+  "wscott-waverley-novels-volume-12": [
+   6661,
+   "Waverley Novels — Volume 12"
+  ],
+  "wscott-old-mortality-complete": [
+   6941,
+   "Old Mortality, Complete"
+  ],
+  "wscott-heart-of-mid-lothian-complete": [
+   6944,
+   "The Heart of Mid-Lothian, Complete"
+  ],
+  "wscott-antiquary-complete": [
+   7005,
+   "The Antiquary — Complete"
+  ],
+  "wscott-rob-roy-complete": [
+   7025,
+   "Rob Roy — Complete"
+  ],
+  "wscott-quentin-durward": [
+   7853,
+   "Quentin Durward"
+  ],
+  "wscott-fair-maid-of-perth": [
+   7987,
+   "The Fair Maid of Perth; Or, St. Valentine's Day"
+  ],
+  "wscott-woodstock": [
+   9785,
+   "Woodstock; or, the Cavalier",
+   {
+    "contents_only": true
+   }
+  ],
+  "wscott-minstrelsy-of-the-scottish-border-volume-1": [
+   12742,
+   "Minstrelsy of the Scottish border, Volume 1"
+  ],
+  "wscott-minstrelsy-of-the-scottish-border-volume-2-of-3-consi": [
+   12882,
+   "Minstrelsy of the Scottish Border, Volume 2 (of 3) Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition"
+  ],
+  "wscott-letters-on-demonology-and-witchcraft": [
+   14461,
+   "Letters on Demonology and Witchcraft"
+  ],
+  "wscott-journal-of-sir-walter-scott-from-the-original-manuscr": [
+   14860,
+   "The Journal of Sir Walter Scott From the Original Manuscript at Abbotsford"
+  ],
+  "wscott-st-ronans-well": [
+   20749,
+   "St. Ronan's Well"
+  ],
+  "wscott-trial-of-duncan-terig-alias-clerk-and-alexander-bane": [
+   26133,
+   "Trial of Duncan Terig, alias Clerk, and Alexander Bane Macdonald for the Murder of Arthur Davis, Sergeant in General Guise's Regiment of Foot"
+  ],
+  "wscott-minstrelsy-of-the-scottish-border-volume-3-of-3-consi": [
+   45778,
+   "Minstrelsy of the Scottish Border, Volume 3 (of 3) Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition"
+  ],
+  "wscott-scotts-lady-of-the-lake": [
+   45888,
+   "Scott's Lady of the Lake"
+  ],
+  "wscott-life-of-napoleon-bonaparte-volume-i": [
+   48837,
+   "Life of Napoleon Bonaparte, Volume I."
+  ],
+  "wscott-life-of-napoleon-bonaparte-volume-ii": [
+   48838,
+   "Life of Napoleon Bonaparte, Volume II."
+  ],
+  "wscott-life-of-napoleon-bonaparte-volume-iii": [
+   48839,
+   "Life of Napoleon Bonaparte, Volume III."
+  ],
+  "wscott-life-of-napoleon-bonaparte-volume-iv": [
+   48840,
+   "Life of Napoleon Bonaparte, Volume IV."
+  ],
+  "wscott-life-of-napoleon-bonaparte-volume-v": [
+   48841,
+   "Life of Napoleon Bonaparte, Volume V."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 4964, 4965, 5353, 5354, 6939, 6940, 6942, 6943, 7003, 7004, 7023, 7024: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 5999, 28287: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 82, 1377: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-5077": "PG 5077 Marmion (school edition, ed. Bayne): a second edition of PG 4010.",
+  "pg-10778": "PG 10778 The Prose Marmion: a retelling by Sara D. Jenkins.",
+  "pg-11623": "PG 11623: Dryden's plays, which Scott edited; not Scott's own work."
+ },
+ "_checks": {
+  "wscott-bride-of-lammermoor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-black-dwarf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-a-legend-of-montrose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-kenilworth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-my-aunt-margarets-mirror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-tapestried-chamber-and-death-of-the-lairds-jock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-waverley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-redgauntlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-guy-mannering": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-lady-of-the-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-marmion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-waverley-4966": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-guy-mannering-5355": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-fortunes-of-nigel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-peveril-of-the-peak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-some-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-monastery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-abbot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-surgeons-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-betrothed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-waverley-novels-volume-12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-old-mortality-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-heart-of-mid-lothian-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-antiquary-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-rob-roy-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-quentin-durward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-fair-maid-of-perth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-woodstock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-minstrelsy-of-the-scottish-border-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-minstrelsy-of-the-scottish-border-volume-2-of-3-consi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-letters-on-demonology-and-witchcraft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-journal-of-sir-walter-scott-from-the-original-manuscr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-st-ronans-well": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-trial-of-duncan-terig-alias-clerk-and-alexander-bane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-minstrelsy-of-the-scottish-border-volume-3-of-3-consi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-scotts-lady-of-the-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-life-of-napoleon-bonaparte-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-life-of-napoleon-bonaparte-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-life-of-napoleon-bonaparte-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-life-of-napoleon-bonaparte-volume-iv": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-life-of-napoleon-bonaparte-volume-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

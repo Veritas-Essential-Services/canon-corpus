@@ -3005,6 +3005,14 @@
       "started": "2026-10-17T20:06:43-05:00",
       "finished": "2026-10-17T20:06:43-05:00",
       "notes": "hardy-works: new shelf, 24 Gutenberg books, 49,645 units, 7539 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "walter-scott-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Walter Scott; no minting",
+      "status": "done",
+      "started": "2026-10-17T20:06:44-05:00",
+      "finished": "2026-10-17T20:06:45-05:00",
+      "notes": "walter-scott-works: new shelf, 41 Gutenberg books, 81,321 units, 13470 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

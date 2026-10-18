@@ -1404,3 +1404,6 @@
 
 ## 2026-10-17 20:06 CDT — hardy-works: done
 - hardy-works: new shelf, 24 Gutenberg books, 49,645 units, 7539 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:06 CDT — walter-scott-works: done
+- walter-scott-works: new shelf, 41 Gutenberg books, 81,321 units, 13470 ~2 ids; verify 0 mismatches, 0 rights flags.
