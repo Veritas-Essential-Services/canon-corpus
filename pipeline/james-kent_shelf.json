@@ -1,0 +1,63 @@
+{
+ "_about": "James Kent (1763-1847), Chancellor of New York: Commentaries on American Law (New York: O. Halsted), raw IA OCR. Vol. I (the OCR reads the title-page year as 1828; the copyright entry is dated November in the fifty-first year of independence, that is 1826, so this is probably the first edition, an inference from the entry), clean 0.89; vol. II in the second edition (1832), clean 0.88, because no first-edition vol. II was found on IA; vol. III (1828), clean 0.88. Held: vol. IV (commentariesona07kentgoog, clean 0.82), whose title-page year and copyright entry are not legible in the OCR. Wanted: vol. IV with a legible year. US public domain. No uids minted.",
+ "_author": "James Kent",
+ "_name_words": [
+  "james",
+  "kent"
+ ],
+ "_surname": [
+  "kent"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kent-commentaries-american-law-v1": [
+   "commentariesona13kentgoog",
+   "Commentaries on American Law, vol. I (Halsted; title page read 1828, copyright entry 1826)"
+  ],
+  "kent-commentaries-american-law-v2-1832": [
+   "commentariesona15kentgoog",
+   "Commentaries on American Law, vol. II, second edition (Halsted, 1832)"
+  ],
+  "kent-commentaries-american-law-v3-1828": [
+   "commentariesona04kentgoog",
+   "Commentaries on American Law, vol. III (Halsted, 1828)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "kent-commentaries-american-law-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kent-commentaries-american-law-v2-1832": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kent-commentaries-american-law-v3-1828": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kent",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -6120,6 +6120,9 @@ Shelf: `pipeline/james-kent_shelf.json`. James Kent (1763-1847). Commentaries on
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Commentaries on American Law, vol. I (Halsted; title page read 1828, copyright entry 1826) |  | `kent-commentaries-american-law-v1` | have-raw (IA `commentariesona13kentgoog`) |
+| Commentaries on American Law, vol. II, second edition (Halsted, 1832) |  | `kent-commentaries-american-law-v2-1832` | have-raw (IA `commentariesona15kentgoog`) |
+| Commentaries on American Law, vol. III (Halsted, 1828) |  | `kent-commentaries-american-law-v3-1828` | have-raw (IA `commentariesona04kentgoog`) |
 
 Pending (wishlist): Commentaries vol. IV (1830) with a legible title page
 
