@@ -1516,3 +1516,6 @@
 
 ## 2026-10-17 20:42 CDT — nicolaus-ludwig-von-zinzendorf done
 - `pipeline/nicolaus-ludwig-von-zinzendorf_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for zinzendorf-sixteen-discourses, zinzendorf-seven-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:43 CDT — round 31 closed
+- 19 shelves, 83 items (2 PG, 81 IA), all verified; 0 uids minted. Round 32 being researched.
