@@ -8478,3 +8478,19 @@ Slugs `-*`. Built from title pages read for round 35.
 | Angelus Silesius: A Selection from the Rhymes of a German Mystic, translated in the original metre by Paul Carus (Chicago: Open Court, 1909) | have-ocr | IA `AngelusSilesius` |
 | Another 1909 copy; Kroeger's Rhymed Sayings in the Journal of Speculative Philosophy (1870, a journal article) | alternate | not shelved |
 | Flitch (1932) and later selections; a German PG text; anthologies with his hymns | excluded | |
+
+## Claude Fleury (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ecclesiastical History of M. l'Abbé Fleury, from the Second Ecumenical Council to the End of the Fourth Century, translated with notes and an Essay on the Miracles of the Period, vol. I (Oxford: John Henry Parker; London: Rivingtons, 1842) | have-ocr | IA `ecclesiasticalh01fleu` |
+| The Ecclesiastical History of M. l'Abbé Fleury, A.D. 400 to A.D. 429, vol. II (Oxford: John Henry Parker; London: Rivington, 1843) | have-ocr | IA `ecclesiasticalhi02fleu` |
+| The Ecclesiastical History of M. l'Abbé Fleury, A.D. 429 to A.D. 456, vol. III (Oxford: John Henry Parker; London: Rivington, 1844) | have-ocr | IA `ecclesiasticalhi03fleu` |
+| The Ecclesiastical History of M. l'Abbé Fleury, with the Chronology of M. Tillemont, vol. I, containing the three first centuries (London: T. Wood for James Crokatt; year not legible, catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_1` |
+| The Ecclesiastical History of M. l'Abbé Fleury, vol. II (London: T. Wood for James Crokatt; year not legible, catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_2` |
+| The Ecclesiastical History of M. l'Abbé Fleury, vol. IV, containing the sixth and seventh centuries (London: W. Innys; year not legible, catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_4` |
+| The Manners of the Israelites, translated from the French of the Abbé Fleury by Charles Cordell (Newcastle: S. Hodgson; sold by P. Keay, London, 1786) | have-ocr | IA `bim_eighteenth-century_the-manners-of-the-israe_fleury-claude_1786` |
+| Other copies of the Oxford set; Farneworth's Short History of the Israelites (1756, Fleury's name illegible); Adam Clarke's enlarged Manners of the Ancient Israelites (New York, 1825); The Manners of the Christians (Newcastle, translator and year illegible) | alternate | not shelved |
+| A Latin lexicon catalogued as Fleury (1727, no volume suffix); Wesley's abridged Manners of the Antient Christians (1749), which does not name Fleury | excluded | |

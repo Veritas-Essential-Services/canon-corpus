@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Claude Fleury (1640-1723), the Abbé Fleury, historian of the Church, in English translation for the Word Hoard: the Oxford translation of his Ecclesiastical History, A.D. 381-456, with Newman's essay on the miracles of the period (1842-1844, three volumes), the eighteenth-century English Ecclesiastical History with Tillemont's chronology (catalogued 1727; vols 1, 2 and 4), and The Manners of the Israelites, tr. Charles Cordell (Newcastle, 1786), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fleury"
+ ],
+ "_surname": [
+  "fleury",
+  "abbe fleury",
+  "abbé fleury",
+  "claude fleury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fleury-oxford-1": [
+   "ecclesiasticalh01fleu",
+   "The Ecclesiastical History of M. l'Abbé Fleury, from the Second Ecumenical Council to the End of the Fourth Century, translated with notes and an Essay on the Miracles of the Period, vol. I (Oxford: John Henry Parker; London: Rivingtons, 1842)"
+  ],
+  "fleury-oxford-2": [
+   "ecclesiasticalhi02fleu",
+   "The Ecclesiastical History of M. l'Abbé Fleury, A.D. 400 to A.D. 429, vol. II (Oxford: John Henry Parker; London: Rivington, 1843)"
+  ],
+  "fleury-oxford-3": [
+   "ecclesiasticalhi03fleu",
+   "The Ecclesiastical History of M. l'Abbé Fleury, A.D. 429 to A.D. 456, vol. III (Oxford: John Henry Parker; London: Rivington, 1844)"
+  ],
+  "fleury-1727-1": [
+   "bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_1",
+   "The Ecclesiastical History of M. l'Abbé Fleury, with the Chronology of M. Tillemont, vol. I, containing the three first centuries (London: T. Wood for James Crokatt; year not legible, catalogued 1727)"
+  ],
+  "fleury-1727-2": [
+   "bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_2",
+   "The Ecclesiastical History of M. l'Abbé Fleury, vol. II (London: T. Wood for James Crokatt; year not legible, catalogued 1727)"
+  ],
+  "fleury-1727-4": [
+   "bim_eighteenth-century_the-ecclesiastical-histo_fleury-claude_1727_4",
+   "The Ecclesiastical History of M. l'Abbé Fleury, vol. IV, containing the sixth and seventh centuries (London: W. Innys; year not legible, catalogued 1727)"
+  ],
+  "fleury-manners-israelites": [
+   "bim_eighteenth-century_the-manners-of-the-israe_fleury-claude_1786",
+   "The Manners of the Israelites, translated from the French of the Abbé Fleury by Charles Cordell (Newcastle: S. Hodgson; sold by P. Keay, London, 1786)"
+  ]
+ },
+ "_alternates": {
+  "fleury-copies": "Other copies of the Oxford set; Farneworth's Short History of the Israelites (1756, Fleury's name illegible); Adam Clarke's enlarged Manners of the Ancient Israelites (New York, 1825); The Manners of the Christians (Newcastle, translator and year illegible)"
+ },
+ "_excluded": {
+  "fleury-other": "A Latin lexicon catalogued as Fleury (1727, no volume suffix); Wesley's abridged Manners of the Antient Christians (1749), which does not name Fleury"
+ },
+ "_rights_checked": {
+  "fleury-oxford-1": "title page read: translator not named on any volume (the essay on miracles is Newman's, unnamed on the title page); vols II-III catalogued 1842 in error",
+  "fleury-1727-1": "title page read: translator not named; the vol. IV dedication is signed 'G. Adams'; vol. III's title page is illegible, so it is left out"
+ },
+ "_pending": {},
+ "_translators": {
+  "fleury-manners-israelites": "cordell"
+ },
+ "_checks": {
+  "fleury-oxford-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named on any volume (the essay on miracles is Newman's, unnamed on the title page); vols II-III catalogued 1842 in error"
+  },
+  "fleury-oxford-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fleury-oxford-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fleury-1727-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the vol. IV dedication is signed 'G. Adams'; vol. III's title page is illegible, so it is left out"
+  },
+  "fleury-1727-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fleury-1727-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fleury-manners-israelites": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fleury",
+   "translator_claimed": "cordell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1786",
+   "ia_date": "1786",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
