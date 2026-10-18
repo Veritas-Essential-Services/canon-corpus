@@ -1456,3 +1456,6 @@
 
 ## 2026-10-17 20:26 CDT — johannes-jacobus-van-oosterzee done
 - `pipeline/johannes-jacobus-van-oosterzee_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:27 CDT — round 30 closed
+- 26 shelves, 159 IA items, all verified; 0 uids minted. Segneri's 1703 Penitent Instructed pending (garbled author line). Round 31 queued (19 shelves, 83 items) and building.
