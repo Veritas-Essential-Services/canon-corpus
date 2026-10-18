@@ -8974,6 +8974,22 @@ Slugs `cmsheldon-*`. Built from title pages read for round 36.
 | Charles M. Sheldon: His Life Story (New York: George H. Doran; copyright 1925) | have-ocr | IA `charlesmsheldonh00shel` |
 | CCEL sheldon/ihsteps and PG 4540 (no print source stated); his other novels on Gutenberg (PG 20983, 18171, 26309, 48616); Lend a Hand (1899); Modern Pagans (1917); 'Jesus is Here!' (1914); His Mother's Prayers (1903) | alternate | not shelved |
 | The Everyday Bible (1924), an abridged Bible text he edited; modern reprints; books illustrated by the artist Charles Mills Sheldon | excluded | |
+
+## H. Clay Trumbull (round 36, my pick, 2026-10-18)
+
+Slugs `hctrumbull-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Kadesh-Barnea: Its Importance and Probable Site, with the Story of a Hunt for It (New York: Charles Scribner's Sons, 1884) | have-ocr | IA `kadeshbarneaitsi00trum_0` |
+| The Blood Covenant: A Primitive Rite and Its Bearings on Scripture (New York: Charles Scribner's Sons, 1885) | have-ocr | IA `bloodcovenantpri00trum` |
+| Friendship the Master-Passion (Philadelphia: John D. Wattles, 1892) | have-ocr | IA `friendshipmaster00trum` |
+| Studies in Oriental Social Life and Gleams from the East on the Sacred Page (Philadelphia: John D. Wattles, 1894) | have-ocr | IA `studiesinorienta00trum` |
+| The Threshold Covenant, or The Beginning of Religious Rites (New York: Charles Scribner's Sons, 1896) | have-ocr | IA `thresholdcovenanb00trum` |
+| Prayer: Its Nature and Scope (New York, Chicago, Toronto: Fleming H. Revell; copyright 1896) | have-ocr | IA `prayeritsnatures00trum` |
+| The Covenant of Salt, as Based on the Significance and Symbolism of Salt in Primitive Thought (New York: Charles Scribner's Sons, 1899) | have-ocr | IA `covenantofsaltas00trum` |
+| PG 48236, 49216 and 46212 (Blood Covenant, Threshold Covenant, Covenant of Salt, same Scribner's imprints); other Kadesh-Barnea copies (one the London Hodder edition, catalogued as Scribner); A Lie Never Justifiable (PG 10591) and Hints on Child-Training (PG 57569), title pages not read | alternate | not shelved |
+| His biographies of other men (The Knightly Soldier, The Captured Scout, A Model Superintendent); The Story of Jonah, by James Shields Boyd | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

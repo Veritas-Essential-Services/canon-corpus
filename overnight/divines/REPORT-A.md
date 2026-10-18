@@ -1861,3 +1861,6 @@
 
 ## 2026-10-17 22:49 CDT — charles-m-sheldon done
 - `pipeline/charles-m-sheldon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — h-clay-trumbull done
+- `pipeline/h-clay-trumbull_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
