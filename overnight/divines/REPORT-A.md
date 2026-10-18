@@ -1264,3 +1264,6 @@
 
 ## 2026-10-17 19:30 CDT — nicholas-wiseman done
 - `pipeline/nicholas-wiseman_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:30 CDT — william-ullathorne done
+- `pipeline/william-ullathorne_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

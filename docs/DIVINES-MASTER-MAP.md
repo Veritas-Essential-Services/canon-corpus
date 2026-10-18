@@ -6026,6 +6026,21 @@ Slugs `wiseman-*`. First Archbishop of Westminster; written in English.
 | Other Booker 1836 and Dolman 1853 copies; Recollections (recollectionspop00wiseuoft) | alternate | not shelved |
 | Fabiola (1854), his novel: left out like the other novels on lane A's shelves; Sadlier 1856 (fabiolaorchurch01wisegoog) and PG 62254 (Benziger 1886) are there if wanted | excluded | |
 | The Hodson 1836 reporter's edition of the Moorfields lectures; the O'Shea Works with an impossible catalogue date; Characteristics (1898), an anthology by another hand | excluded | |
+
+## William Bernard Ullathorne (round 28, my pick, 2026-10-18)
+
+Slugs `ullathorne-*`. Benedictine Bishop of Birmingham; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Endowments of Man considered in their relations with his final end (London: Burns & Oates, 1880) | have-ocr | IA `theendowmentsofm00ullauoft` |
+| The Groundwork of the Christian Virtues (London: Burns and Oates, 1882) | have-ocr | IA `bwb_G5-AKF-216` |
+| Christian Patience, the Strength and Discipline of the Soul (London: Burns and Oates, 1886) | have-ocr | IA `ChristianPatience` |
+| The Autobiography of Archbishop Ullathorne, with selections from his letters (London: Burns & Oates; no year on the title page, preface dated 1891) | have-ocr | IA `a611465300ullauoft` |
+| Letters of Archbishop Ullathorne (London: Burns & Oates; New York: Catholic Publication Society; no year on the title page, preface dated 1892) | have-ocr | IA `lettersofarchbis00ullauoft` |
+| Groundwork 4th ed. (1890), Endowments (TheEndowmentsOfMan, 1880), later undated editions | alternate | not shelved |
+| From Cabin-Boy to Archbishop (1941) | excluded | |
+| Characteristics from the Writings of Ullathorne (1889), by another hand | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
