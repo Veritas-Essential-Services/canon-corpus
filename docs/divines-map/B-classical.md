@@ -6171,6 +6171,8 @@ Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise
 | Rousseau, vols. I and II (Macmillan, 1886; reprint 1905) |  | `morley-rousseau-1886` | have (PG 14052) |
 | Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
 | Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
+| Diderot and the Encyclopaedists, vol. I |  | `morley-diderot-encyclopaedists-v1` | have (PG 15098) |
+| Studies in Literature (1891) |  | `morley-studies-in-literature` | have (PG 12001) |
 
 Pending (wishlist): Critical Miscellanies (3 vols) in whole-volume scans
 

@@ -1,5 +1,5 @@
 {
- "_about": "John Morley, Viscount Morley of Blackburn (1838-1923), liberal man of letters, historian of the French Enlightenment: On Compromise (Macmillan; this edition first printed 1886, the etext from the 1908 printing); Voltaire (Macmillan, 1886); Rousseau, 2 vols. in one (Macmillan; first printed in this form 1886, the etext from the 1905 reprint); Diderot and the Encyclopaedists, vol. II (Macmillan; new edition 1886, the etext from the 1905 reprint); Burke, the English Men of Letters life (Macmillan; first printed 1888, the etext from the 1907 reprint). Clean Gutenberg texts. Wanted: Diderot and the Encyclopaedists vol. I (PG 15098 would not download). The Critical Miscellanies, split essay by essay on Gutenberg, are not taken. US public domain. No uids minted.",
+ "_about": "John Morley, Viscount Morley of Blackburn (1838-1923), liberal man of letters, historian of the French Enlightenment: On Compromise (Macmillan; this edition first printed 1886, the etext from the 1908 printing); Voltaire (Macmillan, 1886); Rousseau, 2 vols. in one (Macmillan; first printed in this form 1886, the etext from the 1905 reprint); Diderot and the Encyclopaedists, vol. II (Macmillan; new edition 1886, the etext from the 1905 reprint); Burke, the English Men of Letters life (Macmillan; first printed 1888, the etext from the 1907 reprint). Clean Gutenberg texts. The Critical Miscellanies, split essay by essay on Gutenberg, are not taken. US public domain. Added in round 2026-10-18bx: Diderot and the Encyclopaedists vol. I (completing the pair) and Studies in Literature. The Critical Miscellanies are on Gutenberg only as single essays and are left as a wish for a whole-volume scan. No uids minted.",
  "_author": "John Morley",
  "_name_words": [
   "john",
@@ -30,6 +30,14 @@
   "morley-burke-1888": [
    12922,
    "Burke (Macmillan, 1888; reprint 1907)"
+  ],
+  "morley-diderot-encyclopaedists-v1": [
+   15098,
+   "Diderot and the Encyclopaedists, vol. I"
+  ],
+  "morley-studies-in-literature": [
+   12001,
+   "Studies in Literature (1891)"
   ]
  },
  "internet_archive": {},
@@ -72,6 +80,25 @@
    "pg_translator": null
   },
   "morley-burke-1888": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "morley-diderot-encyclopaedists-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morley",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "morley-studies-in-literature": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
