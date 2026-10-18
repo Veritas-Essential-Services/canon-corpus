@@ -148,6 +148,20 @@
   "blytton-ismael": [
    65357,
    "Ismael; an oriental tale. With other poems"
+  ],
+  "blytton-coming-race": [
+   1951,
+   "The Coming Race",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
@@ -455,6 +469,15 @@
    "pg_translator": null
   },
   "blytton-ismael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-coming-race": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
