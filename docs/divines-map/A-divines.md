@@ -6717,3 +6717,17 @@ Slugs `therese-*`. The Story of a Soul and related books in English before 1930.
 | CCEL therese/poems (Emery) | alternate | not shelved |
 | Post-1929 editions and Novissima Verba | excluded | |
 | Studies about her | excluded | |
+
+## Anne Catherine Emmerich (round 30, my pick, 2026-10-18)
+
+Slugs `emmerich-*`. Her visions as written down by Clemens Brentano, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dolorous Passion of Our Lord Jesus Christ, from the Meditations of Anne Catherine Emmerich, preface by the Abbé de Cazalès (London: Burns & Lambert; no year on the title page) | have-ocr | IA `TheDolorousPassionOfOurLord` |
+| The Nativity of Our Lord Jesus Christ, from the Meditations of Anne Catherine Emmerich, tr. George Richardson (London: Burns & Oates; New York: Benziger, 1899) | have-ocr | IA `nativitychrist00emmeuoft` |
+| The Passion of Our Lord Jesus Christ according to the Revelations of Anna Catherine Emmerich, translated by a Priest of the Order of Saint Benedict (Clyde, Mo.: Benedictine Convent of Perpetual Adoration; copyright 1914) | have-ocr | IA `passionofourlord00emme` |
+| The Lowly Life and Bitter Passion of Our Lord Jesus Christ, vol. III, as recorded in the journal of Clement Brentano, ed. C. E. Schmöger (Lille, Paris, Bruges: Desclée, De Brouwer; imprimatur 1914) | have-ocr | IA `thelowlylifeandb03emmeuoft` |
+| PG 10866 (Benziger 20th edition, 1904) and CCEL emmerich/passion (Burns and Lambert; sacred-texts notice says non-commercial) | alternate | not shelved |
+| Palairet's Life of the Blessed Virgin (1954) and TAN reprints | excluded | |
+| Ram's and Schmöger's Lives of her | excluded | |

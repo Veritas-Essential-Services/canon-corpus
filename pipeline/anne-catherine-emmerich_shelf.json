@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Anne Catherine Emmerich (1774-1824, Augustinian nun of Dülmen) in English for the Word Hoard: The Dolorous Passion of Our Lord (London: Burns & Lambert, no year), The Nativity of Our Lord, tr. George Richardson (1899), The Passion according to her Revelations (Clyde, Mo., 1914) and The Lowly Life and Bitter Passion, vol. III (1914), from Internet Archive scans. Her visions were written down by Clemens Brentano; only the Lowly Life's title page names him. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "emmerich"
+ ],
+ "_surname": [
+  "emmerich",
+  "anne catherine emmerich",
+  "anna catherine emmerich"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "emmerich-dolorous-passion": [
+   "TheDolorousPassionOfOurLord",
+   "The Dolorous Passion of Our Lord Jesus Christ, from the Meditations of Anne Catherine Emmerich, preface by the Abbé de Cazalès (London: Burns & Lambert; no year on the title page)"
+  ],
+  "emmerich-nativity": [
+   "nativitychrist00emmeuoft",
+   "The Nativity of Our Lord Jesus Christ, from the Meditations of Anne Catherine Emmerich, tr. George Richardson (London: Burns & Oates; New York: Benziger, 1899)"
+  ],
+  "emmerich-passion-clyde": [
+   "passionofourlord00emme",
+   "The Passion of Our Lord Jesus Christ according to the Revelations of Anna Catherine Emmerich, translated by a Priest of the Order of Saint Benedict (Clyde, Mo.: Benedictine Convent of Perpetual Adoration; copyright 1914)"
+  ],
+  "emmerich-lowly-life-3": [
+   "thelowlylifeandb03emmeuoft",
+   "The Lowly Life and Bitter Passion of Our Lord Jesus Christ, vol. III, as recorded in the journal of Clement Brentano, ed. C. E. Schmöger (Lille, Paris, Bruges: Desclée, De Brouwer; imprimatur 1914)"
+  ]
+ },
+ "_alternates": {
+  "emmerich-pg": "PG 10866 (Benziger 20th edition, 1904) and CCEL emmerich/passion (Burns and Lambert; sacred-texts notice says non-commercial)"
+ },
+ "_excluded": {
+  "emmerich-late": "Palairet's Life of the Blessed Virgin (1954) and TAN reprints",
+  "emmerich-about": "Ram's and Schmöger's Lives of her"
+ },
+ "_rights_checked": {
+  "emmerich-dolorous-passion": "title page read: no year and no translator; Burns & Lambert, 17 Portman Street, the imprint of the 1850s-1860s (IA: 1862)",
+  "emmerich-lowly-life-3": "title page read: 'by the Translator of the Life of Anne Catherine Emmerich', no personal name; Bruges imprimatur 27 March 1914"
+ },
+ "_pending": {
+  "emmerich-lowly-life": "Lowly Life vols I, II and IV and any pre-1930 Life of the Blessed Virgin: not found"
+ },
+ "_translators": {
+  "emmerich-nativity": "richardson"
+ },
+ "_checks": {
+  "emmerich-dolorous-passion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmerich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year and no translator; Burns & Lambert, 17 Portman Street, the imprint of the 1850s-1860s (IA: 1862)"
+  },
+  "emmerich-nativity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmerich",
+   "translator_claimed": "richardson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "emmerich-passion-clyde": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmerich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "emmerich-lowly-life-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmerich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'by the Translator of the Life of Anne Catherine Emmerich', no personal name; Bruges imprimatur 27 March 1914"
+  }
+ }
+}
