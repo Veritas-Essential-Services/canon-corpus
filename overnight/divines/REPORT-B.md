@@ -1263,3 +1263,8 @@
 - Harris: Hegel's Doctrine of Reflection, Hegel's Logic; Hinton: Life in Nature; Hodgson: Outcast Essays
 - Beattie: Elements of Moral Science (2 vols); Gerard: Essay on Genius; Turgot (Stephens); Say: Catechism (Richter); Sumner: What Social Classes Owe; Stephen: Horae Sabbaticae I and III
 - Still held: Dewey, Collingwood, Laski, Whitehead, Blair, Senior (no clean pre-1931 printing found)
+
+## 2026-10-17 21:47 CDT — Round bt: ten new shelves
+- Galton (10), Sully (8), Jacks (3), Palmer (5), Fullerton (6), Edman (1), Durant (3), Marett (4), Westermarck (2), Tylor (5)
+- Durant's Story of Philosophy held: no pre-1931 printing found on IA
+- Title-level duplicate check run against all branches; collisions were only generic titles by other authors

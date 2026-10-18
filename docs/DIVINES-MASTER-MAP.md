@@ -14861,6 +14861,125 @@ Shelf: `pipeline/thomas-davidson-philosopher_shelf.json`. Five books.
 | A History of Education (Scribner's, 1900) |  | `davidson-history-of-education-1900` | have-raw (IA `historyofeducti0davi`) |
 | The Philosophy of Goethe's Faust (Ginn, 1906) |  | `davidson-philosophy-of-goethes-faust-1906` | have-raw (IA `philosophyofgoet0000thom`) |
 
+## Francis Galton (heredity and mental measurement)
+
+Shelf: `pipeline/francis-galton_shelf.json`. Ten books, 1853-1909.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Inquiries into Human Faculty and its Development |  | `galton-inquiries-human-faculty` | have (PG 11562) |
+| Noteworthy Families (Modern Science) |  | `galton-noteworthy-families` | have (PG 17128) |
+| Finger Prints |  | `galton-finger-prints` | have (PG 36979) |
+| Essays in Eugenics |  | `galton-essays-in-eugenics` | have (PG 73802) |
+| Memories of my Life |  | `galton-memories-of-my-life` | have (PG 78669) |
+| The Art of Travel |  | `galton-art-of-travel` | have (PG 14681) |
+| The Narrative of an Explorer in Tropical South Africa |  | `galton-narrative-explorer-tropical-south-africa` | have (PG 76940) |
+| Hereditary Genius (Macmillan, 1869) |  | `galton-hereditary-genius-1869` | have-raw (IA `hereditarygenius1869galt`) |
+| English Men of Science (Macmillan, 1874) |  | `galton-english-men-of-science-1874` | have-raw (IA `englishmenscien04galtgoog`) |
+| Natural Inheritance (Macmillan, 1889) |  | `galton-natural-inheritance-1889` | have-raw (IA `in.ernet.dli.2015.221860`) |
+
+## James Sully (psychology and aesthetics)
+
+Shelf: `pipeline/james-sully_shelf.json`. Eight volumes, 1877-1902.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Illusions: A Psychological Study |  | `sully-illusions` | have (PG 17815) |
+| Studies of Childhood |  | `sully-studies-of-childhood` | have (PG 62175) |
+| Children's Ways |  | `sully-childrens-ways` | have (PG 37020) |
+| An Essay on Laughter |  | `sully-essay-on-laughter` | have (PG 58606) |
+| Pessimism: A History and a Criticism (King, 1877) |  | `sully-pessimism-1877` | have-raw (IA `pessimismhistory00sull`) |
+| Outlines of Psychology (Appleton, 1888) |  | `sully-outlines-of-psychology-1888` | have-raw (IA `outlinespsychol01sullgoog`) |
+| The Human Mind, vol. I (Longmans, 1892) |  | `sully-human-mind-1892-v1` | have-raw (IA `humanmindtextboo01sulluoft`) |
+| The Human Mind, vol. II (Longmans, 1892) |  | `sully-human-mind-1892-v2` | have-raw (IA `humanmindtextboo02sulluoft`) |
+
+## L. P. Jacks (essays in philosophy and religion)
+
+Shelf: `pipeline/l-p-jacks_shelf.json`. Three books, 1910-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Mad Shepherds, and Other Human Studies |  | `jacks-mad-shepherds` | have (PG 31386) |
+| All Men are Ghosts |  | `jacks-all-men-are-ghosts` | have (PG 36518) |
+| Religious Perplexities |  | `jacks-religious-perplexities` | have (PG 32578) |
+
+## George Herbert Palmer (Harvard ethics)
+
+Shelf: `pipeline/george-herbert-palmer_shelf.json`. Five books, 1901-1919.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Nature of Goodness |  | `palmer-nature-of-goodness` | have (PG 6101) |
+| Altruism: Its Nature and Varieties |  | `palmer-altruism` | have (PG 57749) |
+| The Teacher: Essays and Addresses on Education |  | `palmer-the-teacher` | have (PG 36774) |
+| The Field of Ethics (Houghton Mifflin, 1901) |  | `palmer-field-of-ethics-1901` | have-raw (IA `thefieldofethics00palmuoft`) |
+| The Problem of Freedom (Houghton Mifflin, 1911) |  | `palmer-problem-of-freedom-1911` | have-raw (IA `in.ernet.dli.2015.202828`) |
+
+## George Stuart Fullerton (Pennsylvania realism)
+
+Shelf: `pipeline/george-stuart-fullerton_shelf.json`. Six books, 1890-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Handbook of Ethical Theory |  | `fullerton-handbook-ethical-theory` | have (PG 6463) |
+| An Introduction to Philosophy |  | `fullerton-introduction-to-philosophy` | have (PG 16406) |
+| On Sameness and Identity |  | `fullerton-sameness-and-identity` | have (PG 57998) |
+| On Spinozistic Immortality (Pennsylvania, 1899) |  | `fullerton-spinozistic-immortality-1899` | have-raw (IA `onspinozisticimm00full`) |
+| A System of Metaphysics (Macmillan, 1904) |  | `fullerton-system-of-metaphysics-1904` | have-raw (IA `systemofmetaphys00full`) |
+| The World We Live In (Macmillan, 1912) |  | `fullerton-world-we-live-in-1912` | have-raw (IA `worldweliveinor01fullgoog`) |
+
+## Irwin Edman (naturalism)
+
+Shelf: `pipeline/irwin-edman_shelf.json`. One book, 1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Human Traits and their Social Significance |  | `edman-human-traits` | have (PG 22306) |
+
+## Will Durant (popular philosophy)
+
+Shelf: `pipeline/will-durant_shelf.json`. Three books, 1917-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Philosophy and the Social Problem |  | `durant-philosophy-and-the-social-problem` | have (PG 42880) |
+| Transition (Simon and Schuster, 1927) |  | `durant-transition-1927` | have-raw (IA `transitionsentim0000will`) |
+| The Mansions of Philosophy (1929) |  | `durant-mansions-of-philosophy-1929` | have-raw (IA `mansionsofphilos0000will_n3v4`) |
+
+Pending (wishlist): The Story of Philosophy (1926) in a pre-1931 printing
+
+## R. R. Marett (anthropology of religion)
+
+Shelf: `pipeline/r-r-marett_shelf.json`. Four books, 1908-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Anthropology |  | `marett-anthropology` | have (PG 17280) |
+| Anthropology and the Classics |  | `marett-anthropology-and-the-classics` | have (PG 53646) |
+| The Threshold of Religion (Methuen, 1909) |  | `marett-threshold-of-religion-1909` | have-raw (IA `cu31924014376150`) |
+| Psychology and Folk-Lore (Methuen, 1920) |  | `marett-psychology-and-folk-lore-1920` | have-raw (IA `psychologyfolklo00mareuoft`) |
+
+## Edward Westermarck (comparative ethics)
+
+Shelf: `pipeline/edward-westermarck_shelf.json`. Two works, 1891-1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Human Marriage |  | `westermarck-history-of-human-marriage` | have (PG 59386) |
+| The Origin and Development of the Moral Ideas |  | `westermarck-origin-development-moral-ideas` | have (PG 52106) |
+
+## Edward Burnett Tylor (cultural anthropology)
+
+Shelf: `pipeline/edward-burnett-tylor_shelf.json`. Five volumes, 1861-1881.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Primitive Culture, vol. 1 |  | `tylor-primitive-culture-v1` | have (PG 70458) |
+| Primitive Culture, vol. 2 |  | `tylor-primitive-culture-v2` | have (PG 70484) |
+| Anthropology |  | `tylor-anthropology` | have (PG 71233) |
+| Anahuac: or, Mexico and the Mexicans |  | `tylor-anahuac` | have (PG 13115) |
+| Researches into the Early History of Mankind (Murray, 1865) |  | `tylor-researches-early-history-mankind-1865` | have-raw (IA `researchesintoea00tylorich`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
