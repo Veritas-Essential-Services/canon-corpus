@@ -8157,6 +8157,7 @@ Shelf: `pipeline/r-d-hicks_shelf.json`. One book, 1910.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Stoic and Epicurean (Scribner, 1910) |  | `hicks-stoic-and-epicurean-1910` | have-raw (IA `stoicepicurean00hick`) |
 
 ## E. Vernon Arnold (Roman Stoicism)
 
