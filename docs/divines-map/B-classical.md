@@ -5736,6 +5736,7 @@ Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not m
 | The Slave Power, third edition (New York: Follett, Foster, 1863) |  | `cairnes-slave-power-1863` | have-raw (IA `slavepoweritscha1863cair`) |
 | Essays in Political Economy, Theoretical and Applied (Macmillan, 1873) |  | `cairnes-essays-political-economy-1873` | have-raw (IA `bub_gb_x5182yt4_0UC`) |
 | Political Essays (Macmillan, 1873) |  | `cairnes-political-essays-1873` | have-raw (IA `politicalessays00cairuoft`) |
+| The Character and Logical Method of Political Economy (Harper, 1875) |  | `cairnes-character-logical-method-1875` | have-raw (IA `characterlogical00cair`) |
 
 Pending (wishlist): Some Leading Principles of Political Economy (1874) in a dated copy
 
