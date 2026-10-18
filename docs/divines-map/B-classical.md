@@ -8075,6 +8075,7 @@ Shelf: `pipeline/babrius_shelf.json`. Davies's verse translation, 1860.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Fables of Babrius, in two parts (Lockwood, 1860) | James Davies | `babrius-davies-fables-1860` | have-raw (IA `fablesofbabriusi00babr_0`) |
 
 ## Hermann von Helmholtz (physiology of perception)
 
