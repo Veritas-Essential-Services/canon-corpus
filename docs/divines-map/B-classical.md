@@ -6438,6 +6438,7 @@ Shelf: `pipeline/lester-frank-ward_shelf.json`. Lester Frank Ward (1841-1913). P
 | Applied Sociology (Ginn, 1906) |  | `ward-applied-sociology-1906` | have-raw (IA `appliedsociology00ward`) |
 | Dynamic Sociology, vol. I (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v1` | have-raw (IA `cu31924032492963`) |
 | Dynamic Sociology, vol. II (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v2` | have-raw (IA `dynamicsociology02warduoft`) |
+| Outlines of Sociology (Macmillan, 1898) |  | `ward-outlines-of-sociology-1898` | have-raw (IA `outlinesofsociol00warduoft`) |
 
 ## Franklin Henry Giddings (sociology)
 

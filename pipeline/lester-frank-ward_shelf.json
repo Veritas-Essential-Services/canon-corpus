@@ -1,5 +1,5 @@
 {
- "_about": "Lester Frank Ward (1841-1913), founder of American sociology. Raw IA OCR: The Psychic Factors of Civilization (Boston: Ginn, 1893), clean 0.92; Pure Sociology (New York: Macmillan, first published 1903; this copy the second edition, 1919), clean 0.92; Applied Sociology (Boston: Ginn, copyright 1906), clean 0.89. US public domain. Added in round 2026-10-17bs: Dynamic Sociology, or Applied Social Science (New York: Appleton, 1883), 2 vols., first edition, clean 0.94 and 0.91. Not taken: later printings of vol. II (1926 Appleton; 1968 Greenwood). No uids minted.",
+ "_about": "Lester Frank Ward (1841-1913), founder of American sociology. Raw IA OCR: The Psychic Factors of Civilization (Boston: Ginn, 1893), clean 0.92; Pure Sociology (New York: Macmillan, first published 1903; this copy the second edition, 1919), clean 0.92; Applied Sociology (Boston: Ginn, copyright 1906), clean 0.89. US public domain. Added in round 2026-10-17bs: Dynamic Sociology, or Applied Social Science (New York: Appleton, 1883), 2 vols., first edition, clean 0.94 and 0.91. Not taken: later printings of vol. II (1926 Appleton; 1968 Greenwood). Added in round 2026-10-18cf: Outlines of Sociology (New York: Macmillan, 1898; copyright 1897), raw IA OCR, clean 0.93. No uids minted.",
  "_author": "Lester Frank Ward",
  "_name_words": [
   "lester",
@@ -33,6 +33,10 @@
   "ward-dynamic-sociology-1883-v2": [
    "dynamicsociology02warduoft",
    "Dynamic Sociology, vol. II (Appleton, 1883)"
+  ],
+  "ward-outlines-of-sociology-1898": [
+   "outlinesofsociol00warduoft",
+   "Outlines of Sociology (Macmillan, 1898)"
   ]
  },
  "_excluded": {},
@@ -89,6 +93,17 @@
    "identity": "identity_override",
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ward-outlines-of-sociology-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester f. ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
