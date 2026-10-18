@@ -1341,3 +1341,9 @@
 - New: philo-judaeus (Yonge, Bohn 1854-55, 4 vols), babrius (Davies 1860), hermann-von-helmholtz (Sensations of Tone, Ellis 1885)
 - Dropped for OCR: Lipsius 1595 (0.66), Du Vair 1598 (0.76), Wolff Logic 1770 (0.74)
 - Greek-facing Loebs (Menander 1921, Callimachus 1921) stay held back under the existing ruling
+
+## 2026-10-17 22:59 CDT — Round ch: Frazer, Gilbert Murray, Malinowski
+- james-george-frazer (17: Golden Bough 3rd ed. 12 vols, 1st ed. 2 vols, Belief in Immortality I-II, Psyche's Task)
+- gilbert-murray (6: own scholarship; translations stay on the play shelves)
+- bronislaw-malinowski (4: Family among the Australian Aborigines, Argonauts, Crime and Custom, Myth in Primitive Psychology)
+- Held, post-1930 printings only: Murray's Classical Tradition in Poetry; Malinowski's Sex and Repression and Sexual Life of Savages

@@ -275,3 +275,4 @@
 - 22:46 round ce: Darwin (20), Wallace (19), Lyell (4) from PG. For lane C: unheld PG translations of Nietzsche, Haeckel, Poincare, Voltaire listed in REPORT-B.
 - 22:50 round cf: Small, Patten, Mark Hopkins, Salter, Joad (20 works) + Ward/Wallace/Darwin extras. Filmer dropped for OCR.
 - 22:55 round cg: Philo (4 vols), Babrius, Helmholtz. Early-print Lipsius, Du Vair, Wolff fail the OCR gate.
+- 22:59 round ch: Golden Bough complete (3rd ed. 12 vols + 1890 ed.), Gilbert Murray (6), Malinowski (4).
