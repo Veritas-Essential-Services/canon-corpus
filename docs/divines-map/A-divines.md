@@ -8998,3 +8998,14 @@ Slugs `gregory-*`. Built from title pages read for round 37.
 | The Dialogues of St. Gregory the Great: an Old English Version, edited by Henry James Coleridge, S.J., Quarterly Series vol. 9 (London: Burns and Oates, 1874) | have-ocr | IA `dialoguesofstgre0000henr` |
 | Other 1844-1850 copies of the Morals (moralsonbookofj01-04greg, the uoft set); the 1608 Paris printing of the Dialogues (OCR almost unusable); CCEL's Book II with the Rule of St Benedict (1895/1898); The Little Flowers of Saint Benet (selections) | alternate | not shelved |
 | Pastoral Rule and Epistles (Hedley shelf; Schaff NPNF in PR #11); the Gardner 1911 Dialogues (medieval-lives shelf); Zimmerman 1959 | excluded | |
+
+## Adam of St Victor (round 37, my pick, 2026-10-18)
+
+Slugs `adamsv-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Liturgical Poetry of Adam of St. Victor, vol. I, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI) | have-ocr | IA `liturgicalpoetry01adamuoft` |
+| The Liturgical Poetry of Adam of St. Victor, vol. II, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI) | have-ocr | IA `liturgicalpoetry02adamuoft` |
+| The Liturgical Poetry of Adam of St. Victor, vol. III, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI) | have-ocr | IA `liturgicalpoetry03adamuoft` |
+| liturgicalpoetr01-03adam, the iala and Google copies | alternate | not shelved |

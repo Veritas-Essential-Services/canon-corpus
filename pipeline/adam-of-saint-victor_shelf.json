@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Adam of St Victor (d. c.1146), the Parisian canon whose sequences shaped medieval Latin hymnody, for the Word Hoard: The Liturgical Poetry of Adam of St. Victor, from the text of Gautier, Latin facing English in the original metres, translated by Digby S. Wrangham (1881, three volumes), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "adam"
+ ],
+ "_surname": [
+  "adam of st. victor",
+  "adam of saint victor",
+  "adam of s. victor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "adamsv-liturgical-poetry-1": [
+   "liturgicalpoetry01adamuoft",
+   "The Liturgical Poetry of Adam of St. Victor, vol. I, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI)"
+  ],
+  "adamsv-liturgical-poetry-2": [
+   "liturgicalpoetry02adamuoft",
+   "The Liturgical Poetry of Adam of St. Victor, vol. II, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI)"
+  ],
+  "adamsv-liturgical-poetry-3": [
+   "liturgicalpoetry03adamuoft",
+   "The Liturgical Poetry of Adam of St. Victor, vol. III, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI)"
+  ]
+ },
+ "_alternates": {
+  "adamsv-copies": "liturgicalpoetr01-03adam, the iala and Google copies"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "adamsv-liturgical-poetry-3": "title page read: MDCCCLXXXI; the catalogue's 1858 is the date of Gautier's French edition"
+ },
+ "_pending": {},
+ "_translators": {
+  "adamsv-liturgical-poetry-1": "wrangham",
+  "adamsv-liturgical-poetry-2": "wrangham",
+  "adamsv-liturgical-poetry-3": "wrangham"
+ },
+ "_checks": {
+  "adamsv-liturgical-poetry-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adam of st. victor",
+   "translator_claimed": "wrangham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamsv-liturgical-poetry-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adam of st. victor",
+   "translator_claimed": "wrangham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamsv-liturgical-poetry-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adam of st. victor",
+   "translator_claimed": "wrangham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: MDCCCLXXXI; the catalogue's 1858 is the date of Gautier's French edition"
+  }
+ }
+}
