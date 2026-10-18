@@ -1,5 +1,5 @@
 {
- "_about": "William Godwin (1756-1836), raw IA OCR: An Enquiry Concerning Political Justice, and its influence on general virtue and happiness, first edition (London: G. G. J. and J. Robinson, 1793, 2 vols.), and from Project Gutenberg Thoughts on Man (Effingham Wilson, 1831). US public domain. No uids minted. Not to be confused with Parke Godwin, a translator on the singles shelves.",
+ "_about": "William Godwin (1756-1836), raw IA OCR: An Enquiry Concerning Political Justice, and its influence on general virtue and happiness, first edition (London: G. G. J. and J. Robinson, 1793, 2 vols.), and from Project Gutenberg Thoughts on Man (Effingham Wilson, 1831). US public domain. Added in round 2026-10-18ca: Four Early Pamphlets, the Memoirs of Mary Wollstonecraft (1798) and Lives of the Necromancers (1834), clean Gutenberg. His novels are left to the storytellers. No uids minted. Not to be confused with Parke Godwin, a translator on the singles shelves.",
  "_author": "William Godwin",
  "_name_words": [
   "william",
@@ -13,6 +13,18 @@
   "godwin-thoughts-on-man-1831": [
    743,
    "Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831)"
+  ],
+  "godwin-four-early-pamphlets": [
+   10597,
+   "Four Early Pamphlets (1783-1784)"
+  ],
+  "godwin-memoirs-of-wollstonecraft": [
+   16199,
+   "Memoirs of the Author of A Vindication of the Rights of Woman (1798)"
+  ],
+  "godwin-lives-of-the-necromancers": [
+   7082,
+   "Lives of the Necromancers (1834)"
   ]
  },
  "internet_archive": {
@@ -29,7 +41,34 @@
  "_checks": {
   "godwin-thoughts-on-man-1831": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "godwin-four-early-pamphlets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "godwin-memoirs-of-wollstonecraft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "godwin-lives-of-the-necromancers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "godwin",
    "identity": "ok",
@@ -38,7 +77,7 @@
   },
   "godwin-political-justice-1793-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "godwin",
    "identity": "ok",
@@ -49,7 +88,7 @@
   },
   "godwin-political-justice-1793-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "godwin",
    "identity": "ok",

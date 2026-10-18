@@ -3821,6 +3821,9 @@ Shelf: `pipeline/william-godwin_shelf.json`. Political Justice (1793) and Though
 | Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831) |  | `godwin-thoughts-on-man-1831` | have (PG 743) |
 | An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
 | An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
+| Four Early Pamphlets (1783-1784) |  | `godwin-four-early-pamphlets` | have (PG 10597) |
+| Memoirs of the Author of A Vindication of the Rights of Woman (1798) |  | `godwin-memoirs-of-wollstonecraft` | have (PG 16199) |
+| Lives of the Necromancers (1834) |  | `godwin-lives-of-the-necromancers` | have (PG 7082) |
 
 ## Malebranche in English
 
