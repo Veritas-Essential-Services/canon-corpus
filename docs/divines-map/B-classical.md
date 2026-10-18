@@ -5553,6 +5553,7 @@ Shelf: `pipeline/sismondi_shelf.json`. The 1847 English selection of his economi
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Political Economy and the Philosophy of Government (London: John Chapman, 1847) |  | `sismondi-political-economy-1847` | have-raw (IA `politicaleconomy00sismuoft`) |
 
 Pending (wishlist): New Principles of Political Economy (no English before 1931 found yet)
 
