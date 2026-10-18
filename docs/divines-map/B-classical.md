@@ -4013,8 +4013,6 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 | Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
 | Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94) |  | `santayana-dialogues-in-limbo-1925` | have-raw (IA `dialoguesinlimbo014715mbp`) |
 
-Pending (wishlist): The Realm of Essence (1927) and The Realm of Matter (1930); Platonism and the Spiritual Life (1927)
-
 ## Josiah Royce
 
 Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
@@ -5648,7 +5646,7 @@ Shelf: `pipeline/j-a-hobson_shelf.json`. Three Gutenberg texts, 1902-1920. Not m
 | The Evolution of Modern Capitalism (1902 edition) |  | `hobson-evolution-of-modern-capitalism-1902` | have (PG 28284) |
 | The Morals of Economic Internationalism (Houghton Mifflin, 1920) |  | `hobson-morals-economic-internationalism-1920` | have (PG 29881) |
 
-Pending (wishlist): Imperialism: A Study (1902); The Physiology of Industry (with Mummery, 1889)
+Pending (wishlist): Imperialism: A Study (1902) in a dated pre-1931 printing
 
 ## John Bates Clark (political economy)
 
@@ -5660,8 +5658,6 @@ Shelf: `pipeline/john-bates-clark_shelf.json`. The Distribution of Wealth (1899)
 | Social Justice without Socialism (Houghton Mifflin, 1914) |  | `clark-social-justice-without-socialism-1914` | have (PG 29393) |
 | The Distribution of Wealth (Macmillan, 1899) |  | `clark-distribution-of-wealth-1899` | have-raw (IA `cu31924002609927`) |
 
-Pending (wishlist): The Philosophy of Wealth (1886)
-
 ## Thorstein Veblen (political economy)
 
 Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisure Class stays on the Adler shelf. Not minted.
@@ -5671,8 +5667,6 @@ Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisur
 | The Instinct of Workmanship (Macmillan, 1914) |  | `veblen-instinct-of-workmanship-1914` | have (PG 69888) |
 | An Inquiry into the Nature of Peace (Macmillan, 1917) |  | `veblen-nature-of-peace-1917` | have (PG 20694) |
 | The Place of Science in Modern Civilisation (1919) |  | `veblen-place-of-science-1919` | have (PG 39949) |
-
-Pending (wishlist): The Theory of Business Enterprise (1904); The Higher Learning in America (1918)
 
 ## Richard T. Ely (political economy)
 
@@ -5689,8 +5683,6 @@ Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not mi
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873) |  | `thornton-old-fashioned-ethics-1873` | have (PG 29917) |
-
-Pending (wishlist): On Labour (1869)
 
 ## William Graham Sumner (sociology and political economy)
 
@@ -5730,8 +5722,6 @@ Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920).
 |---|---|---|---|
 | Principles of Economics, eighth edition (Macmillan, 1920) |  | `marshall-principles-of-economics-8th-1920` | have-raw (IA `bmshri.principlesofecon0000alfr_f4w9edition-8`) |
 
-Pending (wishlist): Industry and Trade (1919); Money, Credit and Commerce (1923)
-
 ## J. E. Cairnes (political economy)
 
 Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not minted.
@@ -5742,7 +5732,7 @@ Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not m
 | Essays in Political Economy, Theoretical and Applied (Macmillan, 1873) |  | `cairnes-essays-political-economy-1873` | have-raw (IA `bub_gb_x5182yt4_0UC`) |
 | Political Essays (Macmillan, 1873) |  | `cairnes-political-essays-1873` | have-raw (IA `politicalessays00cairuoft`) |
 
-Pending (wishlist): The Character and Logical Method of Political Economy; Some Leading Principles of Political Economy (1874)
+Pending (wishlist): Some Leading Principles of Political Economy (1874) in a dated copy
 
 ## Harriet Martineau (political economy and society)
 
@@ -5819,8 +5809,6 @@ Shelf: `pipeline/francis-lieber_shelf.json`. Woolsey's third edition of Civil Li
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874) |  | `lieber-civil-liberty-woolsey-1874` | have-raw (IA `3edoncivillibert00liebuoft`) |
-
-Pending (wishlist): Manual of Political Ethics (1838-39)
 
 ## John C. Calhoun (American political theory)
 
@@ -5948,8 +5936,6 @@ Shelf: `pipeline/ernst-mach_shelf.json`. Williams' and Jourdain's translations; 
 | Contributions to the Analysis of the Sensations, tr. C. M. Williams (Open Court, 1897) | Williams | `mach-analysis-of-sensations-williams-1897` | have-raw (IA `contributionstoa00mach`) |
 | History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911) | Jourdain | `mach-conservation-of-energy-jourdain-1911` | have-raw (IA `historyrootofpri00mach`) |
 
-Pending (wishlist): The Analysis of Sensations, enlarged English edition (tr. Williams and Waterlow, 1914)
-
 ## Hans Driesch (vitalism)
 
 Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and two 1914 books. Not minted.
@@ -5980,9 +5966,10 @@ Shelf: `pipeline/graham-wallas_shelf.json`. Our Social Heritage (1921); Human Na
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Human Nature in Politics, third edition (1920) |  | `wallas-human-nature-in-politics-1908` | have (PG 11634) |
 | Our Social Heritage (Allen and Unwin, 1921) |  | `wallas-our-social-heritage-1921` | have-raw (IA `oursocialheritag00walluoft`) |
-
-Pending (wishlist): Human Nature in Politics (1908), The Great Society (1914), The Art of Thought (1926), in pre-1931 printings
+| The Great Society (Macmillan, 1914) |  | `wallas-great-society-1914` | have-raw (IA `b31352492`) |
+| The Art of Thought (Jonathan Cape, 1926) |  | `wallas-art-of-thought-1926` | have-raw (IA `theartofthought`) |
 
 ## A. V. Dicey (constitutional law)
 
@@ -6002,7 +5989,7 @@ Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thoug
 | Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
 | The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
 
-Pending (wishlist): Studies in the Problem of Sovereignty (1917); A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
+Pending (wishlist): A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
 
 ## Arthur O. Lovejoy (history of ideas)
 
@@ -6042,8 +6029,6 @@ Shelf: `pipeline/f-w-maitland_shelf.json`. Three works, 1897-1908. Not minted.
 | Domesday Book and Beyond (Cambridge, 1897) |  | `maitland-domesday-book-and-beyond-1897` | have (PG 43255) |
 | English Law and the Renaissance, Rede Lecture (Cambridge, 1901) |  | `maitland-english-law-renaissance-1901` | have (PG 54251) |
 | The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909) |  | `maitland-constitutional-history-1908` | have-raw (IA `constitutionalh00mait`) |
-
-Pending (wishlist): The History of English Law before the Time of Edward I, with Pollock (1895, 2 vols.)
 
 ## Otto von Gierke (medieval political theory)
 
@@ -6220,7 +6205,7 @@ Shelf: `pipeline/james-fitzjames-stephen_shelf.json`. Sir James Fitzjames Stephe
 |---|---|---|---|
 | Liberty, Equality, Fraternity (Holt & Williams, 1873) |  | `fitzjames-stephen-liberty-equality-fraternity-1873` | have-raw (IA `libertyequalityf0000jame`) |
 
-Pending (wishlist): A History of the Criminal Law of England (1883); Horae Sabbaticae
+Pending (wishlist): Horae Sabbaticae
 
 ## Benjamin Kidd (Social Evolution)
 

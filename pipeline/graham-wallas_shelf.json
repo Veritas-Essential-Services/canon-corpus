@@ -1,5 +1,5 @@
 {
- "_about": "Graham Wallas (1858-1932), political psychologist and a founder of the LSE: Our Social Heritage (London: George Allen and Unwin, first published 1921), raw IA OCR, clean 0.91. Held: Human Nature in Politics (1908), because the IA copy is the post-war edition with A. L. Rowse's foreword. Wanted: The Great Society (1914) and The Art of Thought (1926) in pre-1931 printings. US public domain. No uids minted.",
+ "_about": "Graham Wallas (1858-1932), political psychologist and a founder of the LSE: Our Social Heritage (London: George Allen and Unwin, first published 1921), raw IA OCR, clean 0.91. US public domain. Added in round 2026-10-17bl: Human Nature in Politics, clean Gutenberg text carrying the preface to the third edition (1920) and no later matter (an IA copy with A. L. Rowse's post-war foreword is not taken); The Great Society, a psychological analysis (London: Macmillan; the title-page year is garbled in the OCR, the preface recalls a Harvard course of 1910, and the book was first published in 1914), raw IA OCR, clean 0.91; The Art of Thought (London: Jonathan Cape, first published 1926; no later impression named), raw IA OCR, clean 0.90. Not taken: two Digital Library of India copies of The Art of Thought that are the 1945 abridged Thinker's Library edition. No uids minted.",
  "_author": "Graham Wallas",
  "_name_words": [
   "graham",
@@ -9,15 +9,37 @@
   "wallas"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "wallas-human-nature-in-politics-1908": [
+   11634,
+   "Human Nature in Politics, third edition (1920)"
+  ]
+ },
  "internet_archive": {
   "wallas-our-social-heritage-1921": [
    "oursocialheritag00walluoft",
    "Our Social Heritage (Allen and Unwin, 1921)"
+  ],
+  "wallas-great-society-1914": [
+   "b31352492",
+   "The Great Society (Macmillan, 1914)"
+  ],
+  "wallas-art-of-thought-1926": [
+   "theartofthought",
+   "The Art of Thought (Jonathan Cape, 1926)"
   ]
  },
  "_excluded": {},
  "_checks": {
+  "wallas-human-nature-in-politics-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wallas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "wallas-our-social-heritage-1921": {
    "kind": "ia",
    "checked": "2026-10-18",
@@ -27,6 +49,28 @@
    "ia_rights": "ok: published 1921",
    "ia_date": "1921",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wallas-great-society-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wallas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wallas-art-of-thought-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wallas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
