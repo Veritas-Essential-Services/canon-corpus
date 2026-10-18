@@ -7322,6 +7322,8 @@ Shelf: `pipeline/john-adams_shelf.json`. Two books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Novanglus, and Massachusettensis (1774-75; with Daniel Leonard) |  | `adams-novanglus` | have (PG 45205) |
+| Familiar Letters of John Adams and his Wife Abigail Adams (1876) |  | `adams-familiar-letters` | have (PG 34123) |
 
 ## Robert G. Ingersoll (freethought)
 
