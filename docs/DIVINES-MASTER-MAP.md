@@ -9456,6 +9456,16 @@ Slugs `wheelock-*`. Built from title pages read for round 39.
 | A Continuation of the Narrative of the Indian Charity-School, from the Year 1768 to the Incorporation of it with Dartmouth-College (printed in the year 1771) | have-ocr | IA `continuationofna00inwhee` |
 | Other 1763 copies (and PG 46378); the 1773 Continuation (title page unreadable); the Rochester Reprints facsimiles | alternate | not shelved |
 | The London 1767 and 1769 Narratives, which name him as founder, not author (credited to Nathaniel Whitaker) | excluded | |
+
+## Samson Occom (round 39, my pick, 2026-10-18)
+
+Slugs `occom-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sermon at the Execution of Moses Paul, an Indian, preached at New Haven (New Haven printed; London reprinted for Buckland, Dilly and others, 1788), with Jonathan Edwards the younger's Observations on the Muhhekaneew language | have-ocr | IA `sermonatexecutio01occo` |
+| sermonatexecutio02occo (same edition); the 1789 EEBO copy | alternate | not shelved |
+| Divine Hymns by Joshua Smith and Samuel Sleeper (1803, a compilation by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
