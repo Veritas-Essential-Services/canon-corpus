@@ -1792,3 +1792,6 @@
 
 ## 2026-10-17 22:31 CDT — george-park-fisher done
 - `pipeline/george-park-fisher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gpfisher-reformation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:40 CDT — round 35 closed
+- 22 shelves, 138 items (4 PG, 134 IA), 0 mismatched, 0 uids minted. Peter Canisius dropped (unreadable title page). Veto points in DIGEST-A.
