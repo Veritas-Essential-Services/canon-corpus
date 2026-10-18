@@ -1229,3 +1229,10 @@
 - Schurman: Kantian Ethics 1881, Ethical Import of Darwinism 1888; James Seth: 3 books
 - Tappan: Review of Edwards, Doctrine of the Will, Elements of Logic; Marsh: Remains 1843
 - Held: Oswald's Appeal to Common Sense (OCR too poor)
+
+## 2026-10-17 21:21 CDT — Round bo: Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt
+- Hibben: Inductive Logic, Problems of Philosophy, Hegel's Logic, Philosophy of the Enlightenment, Defence of Prejudice
+- Creighton: Introductory Logic, Studies in Speculative Philosophy; Thilly: Introduction to Ethics, History of Philosophy 1914
+- McDougall: Group Mind, Physiological Psychology, Social Psychology, Body and Mind, Psychology the Study of Behaviour
+- Montague: Ways of Knowing; Spaulding: New Rationalism; Sheldon: Strife of Systems
+- Sturt: Personal Idealism (ed.), Idola Theatri, Principles of Understanding, Socialism and Character, Moral Experience

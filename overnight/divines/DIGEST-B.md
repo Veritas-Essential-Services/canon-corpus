@@ -256,3 +256,4 @@
 - 21:06 round bl: 13 wishlists filled (24 vols). Held: Hobson Imperialism, Cairnes Leading Principles.
 - 21:13 round bm: 6 new shelves (Sombart, Michels, Ostrogorski, Hodgson, Külpe, Ormond). Two lane B duplicates of lane C's singles shelves removed (Soloviev, Gentile). Weber held: no pre-1931 printing found.
 - 21:17 round bn: 6 new shelves (Whately, Hinton, Schurman, James Seth, Tappan, Marsh). Oswald held on OCR quality; Whately's theology left for lane A.
+- 21:21 round bo: 8 new shelves (Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt).
