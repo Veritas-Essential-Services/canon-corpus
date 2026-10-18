@@ -6646,6 +6646,8 @@ Shelf: `pipeline/james-edwin-creighton_shelf.json`. His logic and his collected 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Introductory Logic, new ed. (Macmillan, 1900) |  | `creighton-introductory-logic-1900` | have-raw (IA `anintroductoryl03creigoog`) |
+| Studies in Speculative Philosophy (Macmillan, 1925) |  | `creighton-studies-speculative-philosophy-1925` | have-raw (IA `studiesinspecula0000jame`) |
 
 ## Frank Thilly (history of philosophy)
 
