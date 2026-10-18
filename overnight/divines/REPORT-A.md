@@ -1975,3 +1975,6 @@
 
 ## 2026-10-17 23:14 CDT — platon-levshin done
 - `pipeline/platon-levshin_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:15 CDT — round 38 closed
+- 12 shelves, 21 items (all IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
