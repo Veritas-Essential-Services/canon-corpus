@@ -1255,3 +1255,11 @@
 - More: Platonism, Religion of Plato, Hellenistic Philosophies, Christ of the NT, Christ the Word, Demon of the Absolute, Shelburne III
 - Harris: Journal of Speculative Philosophy I, Introduction to the Study of Philosophy, Psychologic Foundations
 - Pratt: 6 books; Drake: 5 books; Davidson: 5 books
+
+## 2026-10-17 21:40 CDT — Round bs: wishlist sweep
+- Watson: Interpretation of Religious Experience (2 vols); Ward: Dynamic Sociology 1883 (2 vols)
+- Sellars: Critical Realism; Kemp Smith: Prolegomena; Lloyd Morgan: Life, Mind, and Spirit
+- Schurman: Belief in God, Agnosticism and Religion; McDougall: National Welfare, Outline of Psychology; Hall: Educational Problems (2 vols)
+- Harris: Hegel's Doctrine of Reflection, Hegel's Logic; Hinton: Life in Nature; Hodgson: Outcast Essays
+- Beattie: Elements of Moral Science (2 vols); Gerard: Essay on Genius; Turgot (Stephens); Say: Catechism (Richter); Sumner: What Social Classes Owe; Stephen: Horae Sabbaticae I and III
+- Still held: Dewey, Collingwood, Laski, Whitehead, Blair, Senior (no clean pre-1931 printing found)
