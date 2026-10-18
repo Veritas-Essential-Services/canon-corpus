@@ -5231,10 +5231,12 @@
     },
     {
       "id": "jean-pierre-camus",
-      "status": "queued",
+      "status": "done",
       "scope": "round 37: medieval Latin and Counter-Reformation spiritual writers in English, before 1930",
       "added": "2026-10-18T03:41Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T23:05:35-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "jean-joseph-surin",

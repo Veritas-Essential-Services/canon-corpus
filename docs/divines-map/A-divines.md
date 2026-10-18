@@ -9211,3 +9211,18 @@ Slugs `gmore-*`. Built from title pages read for round 37.
 | The Writings of Dame Gertrude More, revised and edited by Dom Benedict Weld-Blundell (London: R. & T. Washbourne; title page undated, imprimatur 20 December 1910) | have-ocr | IA `thewritingsofdam00moreuoft` |
 | The Spiritual Exercises (catalogued 1658; title page unreadable) | alternate | not shelved |
 | The Inner Life of Dame Gertrude More, vol. I (Augustine Baker's Life of her, a work by another hand); The Holy Practises of a Devine Lover (1657: the title page names no author); Collins's Life (1877) | excluded | |
+
+## Jean-Pierre Camus (round 37, my pick, 2026-10-18)
+
+Slugs `camus-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discours hapned betwene an Hermite called Nicephorus and a yong Lady called Mistresse Petronilla, tr. P. S. P. (printed with permission, 1630) | have-ocr | IA `bim_early-english-books-1475-1640_a-discours-hapned-betwen_camus-jean-pierre_1630` |
+| A Spirituall Combat: a tryall of a faithfull soule, tr. M. C. P. of the English College of Douai (Douai: the widow of Mark Wyon; catalogued 1632) | have-ocr | IA `bim_early-english-books-1475-1640_a-spirituall-combat_camus-jean-pierre-bp_1632` |
+| A Draught of Eternitie, tr. Miles Carre, priest of the English College of Douai (Douai: the widow of Marke Wyon; catalogued 1632) | have-ocr | IA `bim_early-english-books-1475-1640_a-draught-of-eternitie_camus-jean-pierre-bp_1632` |
+| The Spirituall Director Disinteressed, according to the spirit of B. Francis of Sales (Rouen, M.DC.XXXIII) | have-ocr | IA `bim_early-english-books-1475-1640_the-spirituall-director-_camus-jean-pierre-_1633` |
+| Admirable Events: selected out of foure bookes, tr. S. Du Verger (London: Thomas Harper for William Brooks, 1639) | have-ocr | IA `bim_early-english-books-1475-1640_admirable-events-select_camus-jean-pierre-bp_1639` |
+| The Loving Enemy, a famous true history, tr. Major Wright (catalogued 1667) | have-ocr | IA `bim_early-english-books-1475-1640_the-loving-enemy-_camus-jean-pierre-bp_1667` |
+| Admirable Events (1639, the Abel Roper issue, and admirableeuentss00camu); Diotrephe (1641), Nature's Paradox (1652), Elise (1655), A True Tragical History (1677) and Forced Marriage (1678): title pages unreadable | alternate | not shelved |
+| The Spirit of St Francis de Sales (PG 9184, all copies) and The Beauties of St Francis de Sales (1829), selections from the same work; they belong with the Francis de Sales shelf | excluded | |

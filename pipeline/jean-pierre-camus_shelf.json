@@ -1,0 +1,145 @@
+{
+ "_about": "Public-domain Jean-Pierre Camus (1584-1652), bishop of Belley and disciple of Francis de Sales, for the Word Hoard: the seventeenth-century English translations of his devotional and moral works: A Discours between an Hermite called Nicephorus (1630), A Spirituall Combat and A Draught of Eternitie (Douai), The Spirituall Director Disinteressed (Rouen, 1633), Admirable Events translated by S. Du Verger (1639) and The Loving Enemy (1667), from Internet Archive scans. The Spirit of St Francis de Sales stays on the Francis de Sales shelf. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "camus",
+  "camvs"
+ ],
+ "_surname": [
+  "camus",
+  "iohn peter camus",
+  "john peter camus",
+  "i. p. camus",
+  "j. p. camus",
+  "camvs",
+  "iohn peter camvs",
+  "i. p. camvs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "camus-discours-hermite-1630": [
+   "bim_early-english-books-1475-1640_a-discours-hapned-betwen_camus-jean-pierre_1630",
+   "A Discours hapned betwene an Hermite called Nicephorus and a yong Lady called Mistresse Petronilla, tr. P. S. P. (printed with permission, 1630)"
+  ],
+  "camus-spirituall-combat": [
+   "bim_early-english-books-1475-1640_a-spirituall-combat_camus-jean-pierre-bp_1632",
+   "A Spirituall Combat: a tryall of a faithfull soule, tr. M. C. P. of the English College of Douai (Douai: the widow of Mark Wyon; catalogued 1632)"
+  ],
+  "camus-draught-eternitie": [
+   "bim_early-english-books-1475-1640_a-draught-of-eternitie_camus-jean-pierre-bp_1632",
+   "A Draught of Eternitie, tr. Miles Carre, priest of the English College of Douai (Douai: the widow of Marke Wyon; catalogued 1632)"
+  ],
+  "camus-spirituall-director-1633": [
+   "bim_early-english-books-1475-1640_the-spirituall-director-_camus-jean-pierre-_1633",
+   "The Spirituall Director Disinteressed, according to the spirit of B. Francis of Sales (Rouen, M.DC.XXXIII)"
+  ],
+  "camus-admirable-events-1639": [
+   "bim_early-english-books-1475-1640_admirable-events-select_camus-jean-pierre-bp_1639",
+   "Admirable Events: selected out of foure bookes, tr. S. Du Verger (London: Thomas Harper for William Brooks, 1639)"
+  ],
+  "camus-loving-enemy-1667": [
+   "bim_early-english-books-1475-1640_the-loving-enemy-_camus-jean-pierre-bp_1667",
+   "The Loving Enemy, a famous true history, tr. Major Wright (catalogued 1667)"
+  ]
+ },
+ "_alternates": {
+  "camus-copies": "Admirable Events (1639, the Abel Roper issue, and admirableeuentss00camu); Diotrephe (1641), Nature's Paradox (1652), Elise (1655), A True Tragical History (1677) and Forced Marriage (1678): title pages unreadable"
+ },
+ "_excluded": {
+  "camus-other": "The Spirit of St Francis de Sales (PG 9184, all copies) and The Beauties of St Francis de Sales (1829), selections from the same work; they belong with the Francis de Sales shelf"
+ },
+ "_identity_checked": {
+  "camus-discours-hermite-1630": {
+   "author": "title page read: composed in French by the Right Reverend Father in God IoHn PETER CAMYS [Camus] (OCR garble) Bishop of Belley, translated into English by P.S.P., printed with permission, 1630"
+  },
+  "camus-admirable-events-1639": {
+   "author": "title page read: by Iohn Peter Camus, Bishop of Belley (the OCR garbles the name on the title page); the translator's epistle names \"my Lord Bishop of Belley\"; London: Thomas Harper for William Brooks, 1639"
+  }
+ },
+ "_rights_checked": {
+  "camus-discours-hermite-1630": "title page read: tr. P. S. P.",
+  "camus-spirituall-combat": "title page read: tr. M. C. P. of the English College of Douai; the year is garbled in the OCR (M.DC.XXX...), catalogued 1632",
+  "camus-draught-eternitie": "title page read: tr. Miles Carre (surname broken in the OCR); year garbled, catalogued 1632",
+  "camus-spirituall-director-1633": "title page read: the translator's name is cut off in the OCR",
+  "camus-admirable-events-1639": "title page read: tr. S. Du Verger",
+  "camus-loving-enemy-1667": "title page read: tr. Major Wright \"as his recreation during his imprisonment\"; imprint not legible, catalogued 1667"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "camus-discours-hermite-1630": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1630",
+   "ia_date": "1630",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. P. S. P."
+  },
+  "camus-spirituall-combat": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "camvs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1632",
+   "ia_date": "1632",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. M. C. P. of the English College of Douai; the year is garbled in the OCR (M.DC.XXX...), catalogued 1632"
+  },
+  "camus-draught-eternitie": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "camvs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1632",
+   "ia_date": "1632",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. Miles Carre (surname broken in the OCR); year garbled, catalogued 1632"
+  },
+  "camus-spirituall-director-1633": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "camus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1633",
+   "ia_date": "1633",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the translator's name is cut off in the OCR"
+  },
+  "camus-admirable-events-1639": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1639",
+   "ia_date": "1639",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. S. Du Verger"
+  },
+  "camus-loving-enemy-1667": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "camus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1667",
+   "ia_date": "1667",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. Major Wright \"as his recreation during his imprisonment\"; imprint not legible, catalogued 1667"
+  }
+ }
+}

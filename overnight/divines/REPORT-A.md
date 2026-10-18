@@ -1924,3 +1924,6 @@
 
 ## 2026-10-17 23:05 CDT — gertrude-more done
 - `pipeline/gertrude-more_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — jean-pierre-camus done
+- `pipeline/jean-pierre-camus_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for camus-discours-hermite-1630, camus-admirable-events-1639 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
