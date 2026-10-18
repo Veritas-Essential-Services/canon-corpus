@@ -7023,6 +7023,21 @@ Slugs `wellhausen-*`. Prolegomena, Sketch of Israel and Judah, Psalms and The Ar
 | bwb_C0-AVN-740 (1885); other 1891 Sketch copies | alternate | not shelved |
 | 1957-2004 reprints of the Prolegomena; the 1973 Arab Kingdom | excluded | |
 | The 1895 critical Hebrew Psalms: not an English translation | excluded | |
+
+## Theodor Keim (round 31, my pick, 2026-10-18)
+
+Slugs `keim-*`. The History of Jesus of Nazara, six volumes (1876-1883).
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Jesus of Nazara, vol. I, second edition, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1876) | have-ocr | IA `historyofjesusof01keimuoft` |
+| The History of Jesus of Nazara, vol. II, tr. E. M. Geldart (London and Edinburgh: Williams and Norgate, 1876) | have-ocr | IA `historyofjesusof02keimuoft` |
+| The History of Jesus of Nazara, vol. III, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1877) | have-ocr | IA `historyofjesusof03keimuoft` |
+| The History of Jesus of Nazara, vol. IV, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1879) | have-ocr | IA `historyofjesusof04keimuoft` |
+| The History of Jesus of Nazara, vol. V, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1881) | have-ocr | IA `historyofjesusof05keimuoft` |
+| The History of Jesus of Nazara, vol. VI, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1883) | have-ocr | IA `historyofjesusof06keimuoft` |
+| historyofjesusof01keim: vol. I, first English edition (1873), translator not named; superseded by Ransom's 1876 re-translation | alternate | not shelved |
+| Other copies of each volume | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -682,6 +682,7 @@ Nineteen authors queued in QUEUE-A.json, each built from title pages read for th
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | Julius Wellhausen | julius-wellhausen_shelf.json | none | 4 (Prolegomena to the History of Israel, tr. J. Sutherland Black and Allan Menzies (Edinburgh: Adam & Charles Black, MDCCCLXXXV); Sketch of the History of Israel and Judah, third edition (London and Edinburgh: Adam & Charles Black, 1891); The Book of Psalms, a new English translation, the Psalms tr. Horace Howard Furness, notes tr. John Taylor (London: James Clarke; New York: Dodd, Mead, 1898); The Arab Kingdom and its Fall, tr. Margaret Graham Weir (University of Calcutta, 1927)) | none | post-1929 reprints; the Hebrew Psalms |
+| Theodor Keim | theodor-keim_shelf.json | none | 6 (The History of Jesus of Nazara, vol. I, second edition, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1876); The History of Jesus of Nazara, vol. II, tr. E. M. Geldart (London and Edinburgh: Williams and Norgate, 1876); The History of Jesus of Nazara, vol. III, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1877); The History of Jesus of Nazara, vol. IV, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1879); The History of Jesus of Nazara, vol. V, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1881); The History of Jesus of Nazara, vol. VI, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1883)) | none | none |
 
 ## Paused 2026-10-10 15:12 CDT
 
