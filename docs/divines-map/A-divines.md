@@ -9328,3 +9328,14 @@ Slugs `palladius-*`. Built from title pages read for round 38.
 | The Dialogue of Palladius concerning the Life of Chrysostom, by Herbert Moore, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921) | have-ocr | IA `dialogueofpallad0000unse` |
 | Other copies of Clarke 1918 and Moore 1921 | alternate | not shelved |
 | Budge's Paradise or Garden of the Holy Fathers (1907) and Book of Paradise (1904): their title pages credit Athanasius, Palladius, Jerome and others, so they are many-author compilations, held for Adam's ruling | excluded | |
+
+## Bar Hebraeus (round 38, my pick, 2026-10-18)
+
+Slugs `barhebraeus-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| Bar Hebraeus's Book of the Dove, together with some chapters from his Ethikon, tr. A. J. Wensinck (Leyden: E. J. Brill, 1919) | have-ocr | IA `barhebraeussbook00barh` |
+| Commentary on the Gospels from the Horreum Mysteriorum, tr. Wilmot Eardley W. Carr (London: SPCK; New York and Toronto: Macmillan, 1925) | have-ocr | IA `commentaryongosp0000barh` |
+| barhebraeussbook00barh_0 (1919); gregoryabulfaraj0000barh (Carr 1925); Phillips's Letter by Mar Jacob with Bar Hebraeus on Syriac Accents (1869, shared with Jacob of Edessa) | alternate | not shelved |
+| The Laughable Stories (Budge shelf); the Chronography (1932) and Scholia (1931), too late | excluded | |
