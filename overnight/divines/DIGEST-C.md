@@ -1556,3 +1556,7 @@ Three titles added to `hispanic-classics` (now 22), from period archive.org scan
 - **Left out:** the archive.org *Martin Rivas* (1926) is G. W. Umphrey's Spanish-text school edition, not a translation, so Blest Gana stays off for now.
 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: in the Góngora, '1906-1946' is on a library gift plate and 2013 is the Internet Archive's digitising line.
+
+## Paused (2026-10-17T23:34-05:00)
+
+Adam asked to pause the project. Lane C stopped after round 119; everything is committed and pushed, and no item is half-done. Totals: 439 shelves, 3,175 titles (392 new shelves and 2,996 titles since Adam's 2026-10-10 message). Resume point: round 120, gap-fill. Leads not yet worked: Wergeland (the 1919 Blackwell scan would not load), Blest Gana's Martin Rivas in English (only a Spanish school edition found), Leoni's Alberti (the 1755 scan's OCR is unreadable), and Remizov, Pisemsky and Griboyedov (no English printing before 1931 found on archive.org).
