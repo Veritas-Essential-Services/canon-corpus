@@ -7587,6 +7587,8 @@ Shelf: `pipeline/st-george-stock_shelf.json`. Two books, 1888-1908.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Deductive Logic (1888) |  | `stock-deductive-logic` | have (PG 6560) |
+| A Guide to Stoicism (1908) |  | `stock-guide-to-stoicism` | have (PG 7514) |
 
 ## Perseus census (overflow)
 
