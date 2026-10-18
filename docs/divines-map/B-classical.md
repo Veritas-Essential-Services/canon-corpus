@@ -6785,6 +6785,10 @@ Shelf: `pipeline/richard-congreve_shelf.json`. The three volumes of Essays and t
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Essays Political, Social, and Religious, vol. I (Longmans, 1874) |  | `congreve-essays-1874-v1` | have-raw (IA `essayspolitical02conggoog`) |
+| Essays Political, Social, and Religious, vol. II (1892) |  | `congreve-essays-1892-v2` | have-raw (IA `essayspolitical01conggoog`) |
+| Essays Political, Social, and Religious, vol. III (1900) |  | `congreve-essays-1900-v3` | have-raw (IA `essayspolitical00conggoog`) |
+| The Roman Empire of the West (1855) |  | `congreve-roman-empire-of-the-west-1855` | have-raw (IA `romanempireofwes00conguoft`) |
 
 ## Arthur James Balfour (philosophy of belief)
 
