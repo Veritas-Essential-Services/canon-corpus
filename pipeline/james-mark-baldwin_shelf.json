@@ -1,5 +1,5 @@
 {
- "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. Added in round ab: Mental Development in the Child and the Race (New York and London: Macmillan, 1895). Added in round am: Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906). Added in round am: Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908). Added in round am: Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911). US public domain. No uids minted.",
+ "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. Added in round ab: Mental Development in the Child and the Race (New York and London: Macmillan, 1895). Added in round am: Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906). Added in round am: Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908). Added in round am: Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911). US public domain. Added in round cm: the Handbook of Psychology (Senses and Intellect, revised edition, dated by its verso copyright of 1889; Feeling and Will, 1891), Social and Ethical Interpretations (4th ed., 1906), Development and Evolution (1902) and The Individual and Society (1911). Held: History of Psychology (1913) and Elements of Psychology (1893), because no scan found shows a printed year on its title page or verso. No uids minted.",
  "_author": "James Mark Baldwin",
  "_name_words": [
   "james",
@@ -33,6 +33,26 @@
   "baldwin-thought-and-things-1911-v3": [
    "thoughtandthings03balduoft",
    "Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911)"
+  ],
+  "baldwin-handbook-psychology-senses-intellect-1890": [
+   "handbookofpsycho00balduoft",
+   "Handbook of Psychology: Senses and Intellect, 2nd ed., revised (New York: Holt; copyright 1889)"
+  ],
+  "baldwin-handbook-psychology-feeling-will-1891": [
+   "handbookofpsycho02balduoft",
+   "Handbook of Psychology: Feeling and Will (New York: Holt, 1891)"
+  ],
+  "baldwin-social-ethical-interpretations-1906": [
+   "socialethicalint00bald",
+   "Social and Ethical Interpretations in Mental Development, 4th ed. (New York: Macmillan, 1906)"
+  ],
+  "baldwin-development-and-evolution-1902": [
+   "developmentevolu00bald",
+   "Development and Evolution, including psychophysical evolution, evolution by orthoplasy, and the theory of genetic modes (New York: Macmillan, 1902)"
+  ],
+  "baldwin-individual-and-society-1911": [
+   "cu31924031447760",
+   "The Individual and Society, or Psychology and Sociology (Boston: Badger, 1911)"
   ]
  },
  "_excluded": {},
@@ -88,6 +108,61 @@
    "ia_rights": "ok: published 1906",
    "ia_date": "1906-11",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-handbook-psychology-senses-intellect-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-handbook-psychology-feeling-will-1891": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889-91",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-social-ethical-interpretations-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-development-and-evolution-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baldwin-individual-and-society-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

@@ -5195,6 +5195,11 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 | Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906) |  | `baldwin-thought-and-things-1906-v1` | have-raw (IA `thoughtthingsstu01bald`) |
 | Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908) |  | `baldwin-thought-and-things-1908-v2` | have-raw (IA `thoughtandthings02balduoft`) |
 | Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911) |  | `baldwin-thought-and-things-1911-v3` | have-raw (IA `thoughtandthings03balduoft`) |
+| Handbook of Psychology: Senses and Intellect, 2nd ed., revised (New York: Holt; copyright 1889) |  | `baldwin-handbook-psychology-senses-intellect-1890` | have-raw (IA `handbookofpsycho00balduoft`) |
+| Handbook of Psychology: Feeling and Will (New York: Holt, 1891) |  | `baldwin-handbook-psychology-feeling-will-1891` | have-raw (IA `handbookofpsycho02balduoft`) |
+| Social and Ethical Interpretations in Mental Development, 4th ed. (New York: Macmillan, 1906) |  | `baldwin-social-ethical-interpretations-1906` | have-raw (IA `socialethicalint00bald`) |
+| Development and Evolution, including psychophysical evolution, evolution by orthoplasy, and the theory of genetic modes (New York: Macmillan, 1902) |  | `baldwin-development-and-evolution-1902` | have-raw (IA `developmentevolu00bald`) |
+| The Individual and Society, or Psychology and Sociology (Boston: Badger, 1911) |  | `baldwin-individual-and-society-1911` | have-raw (IA `cu31924031447760`) |
 
 ## C. I. Lewis
 
