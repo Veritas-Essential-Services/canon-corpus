@@ -1492,3 +1492,6 @@
 
 ## 2026-10-17 20:42 CDT — thomas-erskine-of-linlathen done
 - `pipeline/thomas-erskine-of-linlathen_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for terskine-internal-evidence (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — john-colet done
+- `pipeline/john-colet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

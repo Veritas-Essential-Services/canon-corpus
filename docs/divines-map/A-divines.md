@@ -7169,3 +7169,18 @@ Slugs `terskine-*`. Scottish lay theologian, in English.
 | Letters of Thomas Erskine of Linlathen, 1840-1870, ed. William Hanna (Edinburgh: David Douglas, 1877) | have-ocr | IA `lettersthomaser02erskgoog` |
 | Later editions of Remarks (1821-1878), the 1829 Edinburgh Unconditional Freeness and 1870-1879 issues, the 1879 Brazen Serpent, the 1878 Election, the 1876 Spiritual Order, the 1878 and 1884 Letters | alternate | not shelved |
 | Ralph and Ebenezer Erskine (erskines shelf), Lord Erskine, Erskine May, The Beauties of Erskine | excluded | |
+
+## John Colet (round 31, my pick, 2026-10-18)
+
+Slugs `colet-*`. Lupton's editions with translation (1869-1876).
+
+| Work | Status | Where |
+|---|---|---|
+| Two Treatises on the Hierarchies of Dionysius, with a translation by J. H. Lupton (London: Bell and Daldy, 1869) | have-ocr | IA `twotreatisesonhi00cole` |
+| An Exposition of St. Paul's Epistle to the Romans, with a translation by J. H. Lupton (London: Bell and Daldy, 1873) | have-ocr | IA `anexpositionstp00luptgoog` |
+| An Exposition of St. Paul's First Epistle to the Corinthians, with a translation by J. H. Lupton (London: George Bell and Sons, 1874) | have-ocr | IA `bwb_C0-CFV-196` |
+| Letters to Radulphus on the Mosaic Account of the Creation, with Other Treatises, with a translation by J. H. Lupton (London: George Bell and Sons, 1876) | have-ocr | IA `letterstoradulp00colegoog` |
+| Other copies of the Dionysius and Radulphus volumes | alternate | not shelved |
+| Lupton's 1867 Treatise on the Sacraments: Latin text only, no translation | excluded | |
+| Lupton's and Knight's Lives of Colet; Seebohm's Oxford Reformers | excluded | |
+| 1965-1966 Gregg reprints | excluded | |
