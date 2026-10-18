@@ -7856,6 +7856,9 @@ Shelf: `pipeline/hartley-burr-alexander_shelf.json`. Three books, 1919-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Letters to Teachers (Open Court, 1919) |  | `alexander-letters-to-teachers-1919` | have-raw (IA `letterstoteacher00alexuoft`) |
+| Nature and Human Nature (Open Court, 1923) |  | `alexander-nature-and-human-nature-1923` | have-raw (IA `naturehumannatur0000hart_v5q6`) |
+| Truth and the Faith (Holt, 1929) |  | `alexander-truth-and-the-faith-1929` | have-raw (IA `truthfaithinterp00alex`) |
 
 ## Max Otto (pragmatic humanism)
 
