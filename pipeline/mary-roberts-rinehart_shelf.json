@@ -163,6 +163,32 @@
   "mrrinehart-temperamental-people": [
    79161,
    "Temperamental people"
+  ],
+  "mrrinehart-a-poor-wise-man": [
+   1970,
+   "A Poor Wise Man"
+  ],
+  "mrrinehart-man-in-lower-ten": [
+   1869,
+   "The Man in Lower Ten"
+  ],
+  "mrrinehart-sight-unseen": [
+   1960,
+   "Sight Unseen"
+  ],
+  "mrrinehart-confession": [
+   1963,
+   "The Confession",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
@@ -423,6 +449,42 @@
    "pg_translator": null
   },
   "mrrinehart-temperamental-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-a-poor-wise-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-man-in-lower-ten": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-sight-unseen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-confession": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
