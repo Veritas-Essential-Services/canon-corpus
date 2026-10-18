@@ -279,3 +279,4 @@
 - 23:03 round ci: 8 classical-scholarship shelves (13 works): Roman Stoicism, Stoic and Epicurean, Greek Commonwealth, Cornford x3, etc.
 - 23:08 round cj: Russell +8, Royce +10, Whitehead +1 from dated IA scans.
 - 23:10 round ck: Dewey +9; 1930 rights-check audit fixed 3 lane B entries.
+- 23:13 cl: Henry Sidgwick +9

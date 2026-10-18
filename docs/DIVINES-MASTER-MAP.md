@@ -13193,11 +13193,20 @@ Shelf: `pipeline/mandeville_shelf.json`. The Fable of the Bees (1806).
 
 ## Henry Sidgwick
 
-Shelf: `pipeline/henry-sidgwick_shelf.json`. The Methods of Ethics, 7th ed. (1907).
+Shelf: `pipeline/henry-sidgwick_shelf.json`. The Methods of Ethics, 7th ed. (1907), with the History of Ethics, the political economy and politics, the addresses, and the posthumous lecture volumes (1883-1905).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Methods of Ethics, 7th ed. (London: Macmillan, 1907) |  | `sidgwick-methods-of-ethics-1907` | have (PG 46743) |
+| Outlines of the History of Ethics for English Readers (5th ed., 1902) |  | `sidgwick-outlines-history-of-ethics-1902` | have-raw (IA `outlinesofhistor0000sidg_u0l5`) |
+| The Principles of Political Economy (1883) |  | `sidgwick-principles-political-economy-1883` | have-raw (IA `principlesofpoli0000sidg`) |
+| The Elements of Politics (2nd ed., 1897) |  | `sidgwick-elements-of-politics-1897` | have-raw (IA `theelementsofpol00sidguoft`) |
+| Practical Ethics: A Collection of Addresses and Essays (1897) |  | `sidgwick-practical-ethics-1897` | have-raw (IA `practicalethics00sidguoft`) |
+| Philosophy, its Scope and Relations (1902, ed. James Ward) |  | `sidgwick-philosophy-scope-relations-1902` | have-raw (IA `philosophyitssc00wardgoog`) |
+| Lectures on the Ethics of T. H. Green, Mr. Herbert Spencer, and J. Martineau (1902) |  | `sidgwick-lectures-ethics-green-spencer-martineau-1902` | have-raw (IA `lecturesonethics00sidg`) |
+| The Development of European Polity (1903) |  | `sidgwick-development-european-polity-1903` | have-raw (IA `thedevelopmentof00sidguoft`) |
+| Miscellaneous Essays and Addresses (1904) |  | `sidgwick-miscellaneous-essays-1904` | have-raw (IA `miscellaneouses00sidggoog`) |
+| Lectures on the Philosophy of Kant and Other Philosophical Lectures and Essays (1905, ed. James Ward) |  | `sidgwick-lectures-philosophy-kant-1905` | have-raw (IA `lecturesonphilo00sidguoft`) |
 
 ## Jeremy Bentham
 
