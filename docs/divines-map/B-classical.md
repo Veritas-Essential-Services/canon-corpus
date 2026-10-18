@@ -4126,8 +4126,7 @@ Shelf: `pipeline/thomas-more_shelf.json`. Utopia, Burnet's translation, ed. Morl
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Utopia, tr. Gilbert Burnet, ed. Henry Morley (the etext names no printing) | Gilbert Burnet | `more-burnet-utopia` | have (PG 2130) |
-
-Pending (wishlist): Robinson's 1551 Utopia in a dated printing.
+| Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869) |  | `more-robinson-utopia-arber-1869` | have-raw (IA `utopia00more`) |
 
 ## Campanella
 
@@ -5364,6 +5363,47 @@ Shelf: `pipeline/nicholas-of-cusa_shelf.json`. Renaissance Platonist mysticism.
 | The Vision of God (London: J. M. Dent, 1928) | Emma Gurney Salter | `cusa-salter-vision-of-god-1928` | have-raw (IA `visionofgod00nich`) |
 
 Pending (wishlist): Of Learned Ignorance in a pre-1931 English version
+
+## Schelling in English
+
+Shelf: `pipeline/schelling_shelf.json`. The Philosophy of Art (Johnson, 1845).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Of University Studies, tr. E. S. Morgan (1877)
+
+## Pierre Bayle
+
+Shelf: `pipeline/pierre-bayle_shelf.json`. The Dictionary Historical and Critical, second edition (1734-38, 5 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+
+## Joseph Glanvill
+
+Shelf: `pipeline/joseph-glanvill_shelf.json`. Essays (1676) and Scepsis Scientifica (Owen, 1885).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Saducismus Triumphatus in a scan over the OCR gate
+
+## John Toland
+
+Shelf: `pipeline/john-toland_shelf.json`. Pantheisticon (1751, first English).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Christianity not Mysterious (1696) and Letters to Serena (1704) in scans over the OCR gate
+
+## Thomas Chubb
+
+Shelf: `pipeline/thomas-chubb_shelf.json`. A Collection of Tracts, second edition (1754, 2 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 

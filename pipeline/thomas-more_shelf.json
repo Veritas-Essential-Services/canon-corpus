@@ -1,5 +1,5 @@
 {
- "_about": "Sir Thomas More (1478-1535): Utopia in Gilbert Burnet's translation of 1684, edited with an introduction by Henry Morley, from Project Gutenberg (the etext names no printing). US public domain. Wanted: Ralph Robinson's 1551 translation in a dated printing. No uids minted.",
+ "_about": "Sir Thomas More (1478-1535): Utopia in Gilbert Burnet's translation of 1684, edited with an introduction by Henry Morley, from Project Gutenberg (the etext names no printing). Added in round ar: Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869). US public domain. No uids minted.",
  "_author": "Sir Thomas More",
  "_name_words": [
   "thomas",
@@ -18,7 +18,12 @@
    "tr. Gilbert Burnet"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "more-robinson-utopia-arber-1869": [
+   "utopia00more",
+   "Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869)"
+  ]
+ },
  "_excluded": {},
  "_translators": {
   "more-burnet-utopia": "Burnet"
@@ -26,7 +31,7 @@
  "_checks": {
   "more-burnet-utopia": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas more",
    "translator_claimed": "Burnet",
@@ -34,6 +39,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "more-robinson-utopia-arber-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
