@@ -1,19 +1,16 @@
 {
- "_about": "SHELF of ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols, Chicago, 1906-07), Petrie's Egyptian Tales (2 series, 1895), Griffith's Stories of the High Priests of Memphis (1900), Maspero's Popular Stories of Ancient Egypt in Mrs. Johns's translation (1915) and Erman's Literature of the Ancient Egyptians in Blackman's translation (1927). Renouf's Book of the Dead is on a singles shelf and Budge's Egyptian translations on the budge shelf. Each title gates on its own translator. Printings before 1931 only; the Blom 1971 and Zeller 1985 reprints are not used. US public domain. Added 2026-10-17 by lane C (round 74); Adam may veto. No uids minted.",
+ "_about": "SHELF of ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols, Chicago, 1906-07), Petrie's Egyptian Tales (2 series, 1895), Griffith's Stories of the High Priests of Memphis (1900), Maspero's Popular Stories of Ancient Egypt in Mrs. Johns's translation (1915; in _pending since round 103, the only scan being a 2001 library photocopy) and Erman's Literature of the Ancient Egyptians in Blackman's translation (1927). Renouf's Book of the Dead is on a singles shelf and Budge's Egyptian translations on the budge shelf. Each title gates on its own translator. Printings before 1931 only; the Blom 1971 and Zeller 1985 reprints are not used. US public domain. Added 2026-10-17 by lane C (round 74); Adam may veto. No uids minted.",
  "_name_words": [
   "aylward blackman",
   "aylward m. blackman",
   "blackman",
   "breasted",
-  "c. h. w. johns",
   "f. ll. griffith",
   "flinders petrie",
   "francis llewellyn griffith",
   "griffith",
   "j. h. breasted",
   "james henry breasted",
-  "johns",
-  "mrs. c. h. w. johns",
   "petrie",
   "w. m. flinders petrie"
  ],
@@ -23,15 +20,12 @@
   "aylward m. blackman",
   "blackman",
   "breasted",
-  "c. h. w. johns",
   "f. ll. griffith",
   "flinders petrie",
   "francis llewellyn griffith",
   "griffith",
   "j. h. breasted",
   "james henry breasted",
-  "johns",
-  "mrs. c. h. w. johns",
   "petrie",
   "w. m. flinders petrie"
  ],
@@ -76,11 +70,6 @@
    "f. ll. griffith",
    "francis llewellyn griffith"
   ],
-  "egt-popular-stories": [
-   "johns",
-   "c. h. w. johns",
-   "mrs. c. h. w. johns"
-  ],
   "egt-literature-of-the-ancient-egyptians": [
    "blackman",
    "aylward m. blackman",
@@ -124,10 +113,6 @@
   "egt-high-priests-of-memphis": [
    "storiesofhighpri00grifuoft",
    "Stories of the High Priests of Memphis: the Sethon of Herodotus and the Demotic Tales of Khamuas (1900)"
-  ],
-  "egt-popular-stories": [
-   "cu31924091207393",
-   "Popular Stories of Ancient Egypt (1915)"
   ],
   "egt-literature-of-the-ancient-egyptians": [
    "literatureofanci0000unse_q0r2",
@@ -200,14 +185,6 @@
    "translator": "F. Ll. Griffith",
    "scan_edition": "Clarendon Press, Oxford 1900; University of Toronto scan"
   },
-  "egyptian-texts-popular-stories": {
-   "source": "egt-popular-stories",
-   "of": "Ancient Egyptian popular tales (from Maspero's Contes populaires, 4th ed.)",
-   "work": "Popular Stories of Ancient Egypt",
-   "translated": 1915,
-   "translator": "Mrs. C. H. W. Johns, from the French of Gaston Maspero",
-   "scan_edition": "G. P. Putnam's Sons, New York and London 1915; Cornell scan"
-  },
   "egyptian-texts-literature-of-the-ancient-egyptians": {
    "source": "egt-literature-of-the-ancient-egyptians",
    "of": "Egyptian poems, narratives and instructions (from Erman's Die Literatur der Aegypter, 1923)",
@@ -217,7 +194,9 @@
    "scan_edition": "Methuen & Co., London, first published 1927"
   }
  },
- "_pending": {},
+ "_pending": {
+  "egyptian-texts-popular-stories": "Maspero's Popular Stories of Ancient Egypt, Mrs. Johns's translation (1915; IA scan): the only scan found (IA cu31924091207393) is a Cornell University Library replacement volume (2001), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
  "_excluded": {
   "breasted-vol-4-wrong-scan": "ancientrecordsof04brea is mislabelled: its text is Caroline Pichler's Sämmtliche Werke, so vol. IV comes from the Digital Library of India.",
   "egyptian-literature-1901": "The Colonial Press anthology Egyptian Literature (1901) reprints other translators' work and is not added.",
@@ -308,17 +287,6 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "egt-popular-stories": {
-   "kind": "ia",
-   "checked": "2026-10-17",
-   "name_check": "surname",
-   "author_seen": "johns",
-   "identity": "ok",
-   "ia_rights": "ok: published 1915",
-   "ia_date": "1915",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
   "egt-literature-of-the-ancient-egyptians": {
    "kind": "ia",
    "checked": "2026-10-17",
@@ -400,22 +368,6 @@
     1900
    ],
    "post_1930_years_in_front_15k": []
-  },
-  "egt-popular-stories": {
-   "ia": "cu31924091207393",
-   "translator_named_in_first_30k": true,
-   "years_in_front_15k": [
-    1877,
-    1881,
-    1890,
-    1891,
-    1894,
-    1915
-   ],
-   "post_1930_years_in_front_15k": [
-    1992,
-    2001
-   ]
   },
   "egt-literature-of-the-ancient-egyptians": {
    "ia": "literatureofanci0000unse_q0r2",

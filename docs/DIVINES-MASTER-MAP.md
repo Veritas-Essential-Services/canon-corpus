@@ -15267,18 +15267,18 @@ Added at the coordinator's relay, vetoable. Not converted to unit-id JSON; **no 
 ## Burton (Arabian Nights, Camoens)
 
 Shelf: `pipeline/burton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burton` · titles `python3 pipeline/split_shelf_titles.py burton`.
-Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Not converted to unit-id JSON; **no uids minted**.
+Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `burton-arabian-nights` | The Thousand and One Nights (Arabic) | The Book of the Thousand Nights and a Night, 10 vols | Richard Francis Burton | 1885 | have | PG 51252 … PG 58360 (10 vols) |
 | `burton-supplemental-nights` | The Thousand and One Nights (Arabic) | Supplemental Nights, 6 vols (vol. 3 in two PG parts) | Richard Francis Burton | 1886-88 | have | PG 59156 … PG 64384 (7 vols) |
 | `burton-lusiads` | Camoens | Os Lusiadas | Richard Francis Burton | 1880 | have | PG 77660 + PG 77661 |
-| `burton-camoens-lyricks` | Camoens | The Lyricks: sonnets, canzons, odes and sextines | Richard Francis Burton | 1884 | have-raw | IA `cu31924102142985` |
 | `burton-catullus` | — | The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights. | — | — | pending | — |
 | `burton-kama-sutra` | — | Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content. | — | — | pending | — |
 | `burton-pentamerone` | — | Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call. | — | — | pending | — |
 | `burton-vikram` | — | Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator. | — | — | pending | — |
+| `burton-camoens-lyricks` | — | Burton's Lyricks of Camoens (1884; IA scan): the only scan found (IA cu31924102142985) is a Cornell University Library replacement volume (2005), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | pg-3435..3450: Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used. | — | — | excluded | — |
 | — | — | pg-6036: The Kasidah: Burton's own poem presented as a translation (a literary mask). | — | — | excluded | — |
 | — | — | travel-books: Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them). | — | — | excluded | — |
@@ -15625,15 +15625,15 @@ Round 6, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 ## Sir Edwin Arnold (Bhagavad Gita; since round 78 also the Hitopadesa, the Gita Govinda, Indian Idylls and the Katha Upanishad)
 
 Shelf: `pipeline/edwin-arnold_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-arnold` · titles `python3 pipeline/split_shelf_titles.py edwin-arnold`.
-Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `edwin-arnold-bhagavad-gita` | Bhagavad Gita | The Song Celestial (Bhagavad Gita) | Sir Edwin Arnold | 1885 | have | PG 2388 |
-| `edwin-arnold-book-of-good-counsels` | The Hitopadesa | The Book of Good Counsels | Sir Edwin Arnold | 1861 | have-raw | IA `cu31924074412994` |
 | `edwin-arnold-indian-poetry` | Jayadeva's Gita Govinda, two books of the Mahabharata, proverbs from the Hitopadesa, and other poems | Indian Poetry, containing 'The Indian Song of Songs' from the Sanskrit of the Gita Govinda of Jayadeva | Sir Edwin Arnold | (undated eighth impression; see the note) | have | PG 25965 |
 | `edwin-arnold-indian-idylls` | Episodes of the Mahabharata (Nala and Damayanti, Savitri and others) | Indian Idylls, from the Sanskrit of the Mahabharata | Sir Edwin Arnold | 1883 | have-raw | IA `indianidyllsfrom00arnouoft` |
 | `edwin-arnold-secret-of-death` | The Katha Upanishad | The Secret of Death, from the Sanskrit, with some Collected Poems | Sir Edwin Arnold | 1885 | have-raw | IA `secretofdeathfro00arnouoft` |
+| `edwin-arnold-book-of-good-counsels` | — | Arnold's Book of Good Counsels (1861; cu31924074412994): the only scan found (IA cu31924074412994) is a Cornell University Library replacement volume (1994), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | light-of-asia: The Light of Asia (1879): Arnold's own poem. | — | — | excluded | — |
 
 ## R. T. H. Griffith (Ramayana, Rigveda; since round 79 also the Atharva-Veda, Samaveda, White Yajurveda, Idylls from the Sanskrit and Jami's Yusuf and Zulaikha)
@@ -18628,17 +18628,17 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rose-strunsky-gorky-the-confession-a-novel` | Maksim Gorky | The Confession: A Novel | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 55828 |
 | `rose-strunsky-tolstoy-the-journal-of-leo-tolstoi-first-volume1` | Leo Tolstoy | The Journal of Leo Tolstoi (First Volume—1895-1899) | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 46272 |
 
-## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Anthology of Swedish Lyrics, 1917; Heidenstam's Charles Men I, 1920)
+## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cw-stork-soderberg-martin-birck-s-youth` | Hjalmar Söderberg | Martin Birck's youth | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 78363 |
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
-| `cw-stork-anthology-of-swedish-lyrics` | Swedish lyric poets, 1750-1915 | Anthology of Swedish Lyrics from 1750 to 1915 | Charles Wharton Stork | 1917 | have-raw | IA `anthologyswedis00storgoog` |
 | `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
+| `cw-stork-anthology-of-swedish-lyrics` | — | Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
 
@@ -21640,7 +21640,7 @@ Round 71 (2026-10-17), vetoable. Round 85 (2026-10-17), vetoable: three titles a
 ## Translator shelf: E. A. Wallis Budge's Egyptian, Ethiopic and Syriac translations before 1931: the Book of the Dead, the Egyptian Heaven and Hell, the Liturgy of Funerary Offerings, Amen-em-apt, the Kebra Nagast, the Alexander romances, Bar Hebraeus's Laughable Stories, the Monks of Kublai Khan, the Book of Medicines
 
 Shelf: `pipeline/budge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py budge` · titles `python3 pipeline/split_shelf_titles.py budge`.
-Round 72 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 72 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21650,12 +21650,12 @@ Round 72 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `budge-liturgy-of-funerary-offerings` | The Egyptian Liturgy of Funerary Offerings | The Liturgy of Funerary Offerings: the Egyptian Texts with English Translations | E. A. Wallis Budge | 1909 | have-raw | IA `liturgyoffunerar00budg` |
 | `budge-teaching-of-amen-em-apt` | The Instruction of Amenemope | The Teaching of Amen-em-apt, Son of Kanekht | E. A. Wallis Budge | 1924 | have-raw | IA `teachingofamenem0000eawa` |
 | `budge-queen-of-sheba` | The Kebra Nagast (Ethiopian national epic) | The Queen of Sheba and her only Son Menyelek (the Kebra Nagast) | E. A. Wallis Budge | 1922 | have-raw | IA `queenofshebahero00budgrich` |
-| `budge-alexander-ethiopic` | The Ethiopic histories of Alexander (Pseudo-Callisthenes and others) | The Life and Exploits of Alexander the Great, being a Series of Translations of the Ethiopic Histories of Alexander | E. A. Wallis Budge | 1896 | have-raw | IA `cu31924091208573` |
 | `budge-alexander-syriac` | The Syriac Pseudo-Callisthenes | The History of Alexander the Great, being the Syriac Version of the Pseudo-Callisthenes | E. A. Wallis Budge | 1889 | have-raw | IA `BudgeSyriacAlexander` |
 | `budge-laughable-stories` | Bar Hebraeus, the Laughable Stories | The Laughable Stories collected by Mar Gregory John Bar-Hebraeus | E. A. Wallis Budge | 1897 | have-raw | IA `laughablestories00barhrich` |
 | `budge-monks-of-kublai-khan` | The history of Rabban Sawma and Mar Yahballaha III (Syriac) | The Monks of Kublai Khan, Emperor of China | E. A. Wallis Budge | 1928 | have-raw | IA `monksofkublaikha0000unse` |
 | `budge-book-of-medicines` | The Syriac Book of Medicines | Syrian Anatomy, Pathology and Therapeutics, or 'The Book of Medicines', vol. II: English translation | E. A. Wallis Budge | 1913 | have-raw | IA `syriananatomypat02budgiala` |
 | `amulets-and-superstitions` | — | Amulets and Superstitions (Oxford, 1930): waits on the 1930 ruling. | — | — | pending | — |
+| `budge-alexander-ethiopic` | — | Budge's Life and Exploits of Alexander the Great (Ethiopic; Cambridge, 1896; cu31924091208573): the only scan found (IA cu31924091208573) is a Cornell University Library replacement volume (2002), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | christian-texts: Budge's Christian translations are left for lane A: The Contendings of the Apostles (1899-1901), The Paradise or Garden of the Holy Fathers (1907), Saint Michael the Archangel (1894), the Life of Takla Haymanot (1906), the Book of the Saints of the Ethiopian Church (1928) and the Book of the Cave of Treasures (1927). | — | — | excluded | — |
 | — | — | book-of-the-dead-reissues: The 1901 three-volume Books on Egypt and Chaldaea reissue of the Book of the Dead translation and the 1913 Papyrus of Ani are not added alongside the 1898 translation. | — | — | excluded | — |
 | — | — | book-of-the-dead-other-volumes: The Egyptian text and vocabulary volumes of the 1898 Book of the Dead (e.g. bookdeadanengli00budggoog, the vocabulary) are not shelved. | — | — | excluded | — |
@@ -21683,10 +21683,10 @@ Round 73 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | held-on-reading-lists: King's Seven Tablets of Creation (1902) and Johns's Code of Hammurabi (1903) are on the reading-lists branch. | — | — | excluded | — |
 | — | — | late-reprints: The AMS Press 1976 reprint of the Devils and Evil Spirits and the 2002-07 reprints of Harper's Hammurabi: not used. | — | — | excluded | — |
 
-## Shelf: ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols), Petrie's Egyptian Tales (2 series), Griffith's High Priests of Memphis, Maspero's Popular Stories (Mrs. Johns), Erman's Literature of the Ancient Egyptians (Blackman)
+## Shelf: ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols), Petrie's Egyptian Tales (2 series), Griffith's High Priests of Memphis, Erman's Literature of the Ancient Egyptians (Blackman)
 
 Shelf: `pipeline/egyptian-texts_shelf.json` · fetch `python3 pipeline/fetch_shelf.py egyptian-texts` · titles `python3 pipeline/split_shelf_titles.py egyptian-texts`.
-Round 74 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 74 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21698,8 +21698,8 @@ Round 74 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `egyptian-texts-egyptian-tales-1` | Egyptian tales from the papyri, 4th to 12th dynasty | Egyptian Tales, Translated from the Papyri: First Series | W. M. Flinders Petrie | 1895 | have | PG 7386 |
 | `egyptian-texts-egyptian-tales-2` | Egyptian tales from the papyri, 18th to 19th dynasty | Egyptian Tales, Translated from the Papyri: Second Series | W. M. Flinders Petrie | 1895 | have | PG 7413 |
 | `egyptian-texts-high-priests-of-memphis` | The demotic Setne Khamwas tales | Stories of the High Priests of Memphis: the Sethon of Herodotus and the Demotic Tales of Khamuas | F. Ll. Griffith | 1900 | have-raw | IA `storiesofhighpri00grifuoft` |
-| `egyptian-texts-popular-stories` | Ancient Egyptian popular tales (from Maspero's Contes populaires, 4th ed.) | Popular Stories of Ancient Egypt | Mrs. C. H. W. Johns, from the French of Gaston Maspero | 1915 | have-raw | IA `cu31924091207393` |
 | `egyptian-texts-literature-of-the-ancient-egyptians` | Egyptian poems, narratives and instructions (from Erman's Die Literatur der Aegypter, 1923) | The Literature of the Ancient Egyptians | Aylward M. Blackman, from the German of Adolf Erman | 1927 | have-raw | IA `literatureofanci0000unse_q0r2` |
+| `egyptian-texts-popular-stories` | — | Maspero's Popular Stories of Ancient Egypt, Mrs. Johns's translation (1915; IA scan): the only scan found (IA cu31924091207393) is a Cornell University Library replacement volume (2001), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | breasted-vol-4-wrong-scan: ancientrecordsof04brea is mislabelled: its text is Caroline Pichler's Sämmtliche Werke, so vol. IV comes from the Digital Library of India. | — | — | excluded | — |
 | — | — | egyptian-literature-1901: The Colonial Press anthology Egyptian Literature (1901) reprints other translators' work and is not added. | — | — | excluded | — |
 | — | — | late-reprints: Blom (1971) reprints of Petrie and the Zeller (1985) reprint of Griffith: not used. | — | — | excluded | — |
@@ -21899,7 +21899,7 @@ Round 92 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
 
 Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
-Round 93 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21913,6 +21913,11 @@ Round 93 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `hispanic-classics-sarmiento-facundo` | Domingo Faustino Sarmiento | Life in the Argentine Republic in the Days of the Tyrants; or, Civilization and Barbarism (Facundo) | Mrs. Horace Mann (Mary Tyler Peabody Mann) | 1868 | have-raw | IA `lifeinargentiner00sarmrich` |
 | `hispanic-classics-alencar-iracema` | José de Alencar | Iraçéma, the Honey-Lips: a Legend of Brazil | Isabel Burton | 1886 | have-raw | IA `iracmahoneylip00alenuoft` |
 | `hispanic-classics-dario-eleven-poems` | Rubén Darío | Eleven Poems | Thomas Walsh and Salomón de la Selva | 1916 | have-raw | IA `elevenpoems00daruoft` |
+| `hispanic-classics-poem-of-the-cid-ormsby` | The Poem of the Cid (Cantar de mio Cid) | The Poem of the Cid, a translation from the Spanish, with introduction and notes | John Ormsby | 1879 | have-raw | IA `cu31924026395719` |
+| `hispanic-classics-poem-of-the-cid-huntington` | The Poem of the Cid (Cantar de mio Cid) | Poem of the Cid, vol. II: Translation | Archer M. Huntington | 1901 | have-raw | IA `poemofcid02huntuoft` |
+| `hispanic-classics-herculano-inquisition-branner` | Alexandre Herculano | History of the Origin and Establishment of the Inquisition in Portugal | John C. Branner | 1926 | have-raw | IA `historyoftheorig012210mbp` |
+| `hispanic-classics-gil-vicente-lyrics-bell` | Gil Vicente | Lyrics of Gil Vicente | Aubrey F. G. Bell | 1921 (second edition) | have-raw | IA `cu31924027725542` |
+| `hispanic-classics-mendes-pinto-voyages-cogan` | — | Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
 | — | — | dona-luz-1975: donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano). | — | — | excluded | — |

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir E. A. Wallis Budge (1857-1934), Keeper of Egyptian and Assyrian Antiquities at the British Museum: his translations from Egyptian, Ethiopic and Syriac printed before 1931. The Book of the Dead (1898), the Egyptian Heaven and Hell (1905), the Liturgy of Funerary Offerings (1909), the Teaching of Amen-em-apt (1924), the Kebra Nagast (1922), the Ethiopic and Syriac Alexander romances (1896, 1889), Bar Hebraeus's Laughable Stories (1897), the Monks of Kublai Khan (1928) and the Syriac Book of Medicines (1913). His Christian translations (the Contendings of the Apostles, the Paradise of the Holy Fathers, the Ethiopic saints' lives, the Cave of Treasures) are left for lane A. US public domain. Added 2026-10-17 by lane C (round 72); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Sir E. A. Wallis Budge (1857-1934), Keeper of Egyptian and Assyrian Antiquities at the British Museum: his translations from Egyptian, Ethiopic and Syriac printed before 1931. The Book of the Dead (1898), the Egyptian Heaven and Hell (1905), the Liturgy of Funerary Offerings (1909), the Teaching of Amen-em-apt (1924), the Kebra Nagast (1922), the Syriac Alexander romance (1889; the Ethiopic one of 1896 waits in _pending, its only scan being a 2002 library photocopy), Bar Hebraeus's Laughable Stories (1897), the Monks of Kublai Khan (1928) and the Syriac Book of Medicines (1913). His Christian translations (the Contendings of the Apostles, the Paradise of the Holy Fathers, the Ethiopic saints' lives, the Cave of Treasures) are left for lane A. US public domain. Added 2026-10-17 by lane C (round 72); Adam may veto. No uids minted.",
  "_name_words": [
   "budge",
   "e. a. wallis budge",
@@ -43,10 +43,6 @@
   "bdg-queen-of-sheba": [
    "queenofshebahero00budgrich",
    "The Queen of Sheba and her only Son Menyelek (the Kebra Nagast) (1922)"
-  ],
-  "bdg-alexander-ethiopic": [
-   "cu31924091208573",
-   "The Life and Exploits of Alexander the Great, being a Series of Translations of the Ethiopic Histories of Alexander (1896)"
   ],
   "bdg-alexander-syriac": [
    "BudgeSyriacAlexander",
@@ -116,14 +112,6 @@
    "translator": "E. A. Wallis Budge",
    "scan_edition": "The Medici Society, London 1922 (first edition February, reprinted April 1922)"
   },
-  "budge-alexander-ethiopic": {
-   "source": "bdg-alexander-ethiopic",
-   "of": "The Ethiopic histories of Alexander (Pseudo-Callisthenes and others)",
-   "work": "The Life and Exploits of Alexander the Great, being a Series of Translations of the Ethiopic Histories of Alexander",
-   "translated": 1896,
-   "translator": "E. A. Wallis Budge",
-   "scan_edition": "C. J. Clay and Sons, Cambridge University Press warehouse, London 1896; Cornell scan"
-  },
   "budge-alexander-syriac": {
    "source": "bdg-alexander-syriac",
    "of": "The Syriac Pseudo-Callisthenes",
@@ -159,7 +147,8 @@
   }
  },
  "_pending": {
-  "amulets-and-superstitions": "Amulets and Superstitions (Oxford, 1930): waits on the 1930 ruling."
+  "amulets-and-superstitions": "Amulets and Superstitions (Oxford, 1930): waits on the 1930 ruling.",
+  "budge-alexander-ethiopic": "Budge's Life and Exploits of Alexander the Great (Ethiopic; Cambridge, 1896; cu31924091208573): the only scan found (IA cu31924091208573) is a Cornell University Library replacement volume (2002), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
  },
  "_excluded": {
   "christian-texts": "Budge's Christian translations are left for lane A: The Contendings of the Apostles (1899-1901), The Paradise or Garden of the Holy Fathers (1907), Saint Michael the Archangel (1894), the Life of Takla Haymanot (1906), the Book of the Saints of the Ethiopian Church (1928) and the Book of the Cave of Treasures (1927).",
@@ -235,17 +224,6 @@
    "ia_rights": "ok: published 1922",
    "ia_date": "1922",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "bdg-alexander-ethiopic": {
-   "kind": "ia",
-   "checked": "2026-10-17",
-   "name_check": "surname",
-   "author_seen": "budge",
-   "identity": "ok",
-   "ia_rights": "ok: published 1896",
-   "ia_date": "1896",
-   "ia_possible_copyright_status": null,
    "ia_lending": null
   },
   "bdg-alexander-syriac": {
@@ -356,22 +334,6 @@
     1922
    ],
    "post_1930_years_in_front_15k": []
-  },
-  "bdg-alexander-ethiopic": {
-   "ia": "cu31924091208573",
-   "translator_named_in_first_30k": true,
-   "years_in_front_15k": [
-    1889,
-    1890,
-    1891,
-    1894,
-    1895,
-    1896
-   ],
-   "post_1930_years_in_front_15k": [
-    1992,
-    2002
-   ]
   },
   "bdg-alexander-syriac": {
    "ia": "BudgeSyriacAlexander",

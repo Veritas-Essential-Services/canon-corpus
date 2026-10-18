@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir Richard Francis Burton (1821-1890) as translator. The Book of the Thousand Nights and a Night (1885, 10 vols) and Supplemental Nights (1886-88, 6 vols) from the Distributed Proofreaders PG editions; Camoens' Lusiads (1880) and Lyricks (1884). PD. Burton's annotations are famously explicit; they are part of the text as published. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Sir Richard Francis Burton (1821-1890) as translator. The Book of the Thousand Nights and a Night (1885, 10 vols) and Supplemental Nights (1886-88, 6 vols) from the Distributed Proofreaders PG editions; Camoens' Lusiads (1880); the Lyricks (1884) wait in _pending, the only scan being a 2005 library photocopy. PD. Burton's annotations are famously explicit; they are part of the text as published. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "burton"
  ],
@@ -82,12 +82,7 @@
    "Camoens, Os Lusiadas, tr. Burton, vol. 2"
   ]
  },
- "internet_archive": {
-  "burton-camoens-lyricks": [
-   "cu31924102142985",
-   "Camoens, The Lyricks (1884), tr. Burton"
-  ]
- },
+ "internet_archive": {},
  "titles": {
   "burton-arabian-nights": {
    "source": [
@@ -131,21 +126,14 @@
    "work": "Os Lusiadas",
    "translated": 1880,
    "translator": "Richard Francis Burton"
-  },
-  "burton-camoens-lyricks": {
-   "source": "burton-camoens-lyricks",
-   "of": "Camoens",
-   "work": "The Lyricks: sonnets, canzons, odes and sextines",
-   "translated": 1884,
-   "scan_edition": "1884 (Cornell copy), raw OCR",
-   "translator": "Richard Francis Burton"
   }
  },
  "_pending": {
   "burton-catullus": "The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights.",
   "burton-kama-sutra": "Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content.",
   "burton-pentamerone": "Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call.",
-  "burton-vikram": "Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator."
+  "burton-vikram": "Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator.",
+  "burton-camoens-lyricks": "Burton's Lyricks of Camoens (1884; IA scan): the only scan found (IA cu31924102142985) is a Cornell University Library replacement volume (2005), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
  },
  "_excluded": {
   "pg-3435..3450": "Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used.",
@@ -249,19 +237,6 @@
    "pg": 77661,
    "pg_copyrighted_marker": false,
    "pg_translator": "Sir Richard Francis Burton"
-  },
-  "burton-camoens-lyricks": {
-   "ia": "cu31924102142985",
-   "translator_named_in_first_30k": true,
-   "years_in_front_15k": [
-    1884,
-    1891
-   ],
-   "post_1930_years_in_front_15k": [
-    1992,
-    2005
-   ],
-   "post_1930_examined": "Examined: Cornell's note that its replacement volume meets ANSI Z39.48-1992, stamped 2005. Library preservation stamp, not an imprint."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
@@ -441,17 +416,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
-  },
-  "burton-camoens-lyricks": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "f. burton",
-   "identity": "ok",
-   "ia_rights": "ok: published 1884",
-   "ia_date": "1884",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
   }
  },
  "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."

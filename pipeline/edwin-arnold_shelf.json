@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir Edwin Arnold (1832-1904). The Bhagavad Gita as 'The Song Celestial' (1885). Since round 78 also the Book of Good Counsels (the Hitopadesa, 1861), Indian Poetry with the Gita Govinda (an undated impression), Indian Idylls from the Mahabharata (1883) and The Secret of Death (the Katha Upanishad, 1885). PD. His own Light of Asia is an original poem, not a translation. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Sir Edwin Arnold (1832-1904). The Bhagavad Gita as 'The Song Celestial' (1885). Since round 78 also the Book of Good Counsels (the Hitopadesa, 1861; in _pending since round 103, the only scan being a 1994 library photocopy), Indian Poetry with the Gita Govinda (an undated impression), Indian Idylls from the Mahabharata (1883) and The Secret of Death (the Katha Upanishad, 1885). PD. His own Light of Asia is an original poem, not a translation. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "arnold"
  ],
@@ -18,10 +18,6 @@
   ]
  },
  "internet_archive": {
-  "arnold-book-of-good-counsels": [
-   "cu31924074412994",
-   "The Book of Good Counsels, from the Sanskrit of the Hitopadesa (1861)"
-  ],
   "arnold-indian-idylls": [
    "indianidyllsfrom00arnouoft",
    "Indian Idylls, from the Sanskrit of the Mahabharata (1883)"
@@ -39,14 +35,6 @@
    "translated": 1885,
    "translator": "Sir Edwin Arnold",
    "scan_edition": "Project Gutenberg 2388 (clean text)"
-  },
-  "edwin-arnold-book-of-good-counsels": {
-   "source": "arnold-book-of-good-counsels",
-   "of": "The Hitopadesa",
-   "work": "The Book of Good Counsels",
-   "translated": 1861,
-   "translator": "Sir Edwin Arnold",
-   "scan_edition": "Smith, Elder & Co., London 1861 (preface dated Framfield, Sussex, March 1861); Cornell scan"
   },
   "edwin-arnold-indian-poetry": {
    "source": "arnold-indian-poetry",
@@ -75,7 +63,9 @@
    "note": "The Katha Upanishad in verse, followed by Arnold's own collected poems in the same volume."
   }
  },
- "_pending": {},
+ "_pending": {
+  "edwin-arnold-book-of-good-counsels": "Arnold's Book of Good Counsels (1861; cu31924074412994): the only scan found (IA cu31924074412994) is a Cornell University Library replacement volume (1994), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
  "_excluded": {
   "light-of-asia": "The Light of Asia (1879): Arnold's own poem."
  },
@@ -98,17 +88,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
-  },
-  "arnold-book-of-good-counsels": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "edwin arnold",
-   "identity": "ok",
-   "ia_rights": "ok: published 1861",
-   "ia_date": "1861",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
   },
   "arnold-indian-idylls": {
    "kind": "ia",
@@ -144,18 +123,6 @@
    "pg_copyrighted_marker": false,
    "pg_translator": null,
    "translator_named_in_first_15k_of_body": true
-  },
-  "arnold-book-of-good-counsels": {
-   "ia": "cu31924074412994",
-   "translator_named_in_first_30k": true,
-   "years_in_front_15k": [
-    1860,
-    1861
-   ],
-   "post_1930_years_in_front_15k": [
-    1984,
-    1994
-   ]
   },
   "arnold-indian-idylls": {
    "ia": "indianidyllsfrom00arnouoft",

@@ -3776,6 +3776,22 @@
       "finished": "2026-10-17T21:51-05:00",
       "scope": "TRANSLATOR SHELF (round 102, lane C's choice; Adam may veto) -- lusiads-in-english; PD printings before 1931 only; no minting",
       "notes": "8 titles; ids checked across all branches. See DIGEST-C round 102. No uids minted."
+    },
+    {
+      "id": "shelf-hispanic-classics-round103",
+      "status": "done",
+      "started": "2026-10-17T21:58-05:00",
+      "finished": "2026-10-17T21:58-05:00",
+      "scope": "GAP-FILL (round 103, lane C's choice; Adam may veto) -- hispanic-classics; PD printings before 1931 only; no minting",
+      "notes": "+4 titles, now 14 (Cogan's Pinto fetched but moved to _pending); ids checked across all branches. See DIGEST-C round 103. No uids minted."
+    },
+    {
+      "id": "audit-preservation-photocopies-round103",
+      "status": "done",
+      "started": "2026-10-17T21:58-05:00",
+      "finished": "2026-10-17T21:58-05:00",
+      "scope": "AUDIT (round 103) -- library preservation photocopies among lane C's scans",
+      "notes": "Five earlier titles moved from titles to _pending (budge, burton, edwin-arnold, egyptian-texts, cw-stork): their only scans are 1990s-2000s library photocopies. See DIGEST-C round 103."
     }
   ]
 }

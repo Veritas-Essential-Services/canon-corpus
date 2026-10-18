@@ -1,13 +1,21 @@
 {
  "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted.",
  "_name_words": [
+  "archer m. huntington",
+  "aubrey bell",
+  "aubrey f. g. bell",
+  "branner",
   "garrett underhill",
   "granville-barker",
   "helen and harley granville-barker",
+  "huntington",
   "isabel burton",
+  "john c. branner",
   "john garrett underhill",
+  "john ormsby",
   "mary mann",
   "mrs. horace mann",
+  "ormsby",
   "rollo ogden",
   "salomon de la selva",
   "salomón de la selva",
@@ -15,13 +23,21 @@
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
  "_surname": [
+  "archer m. huntington",
+  "aubrey bell",
+  "aubrey f. g. bell",
+  "branner",
   "garrett underhill",
   "granville-barker",
   "helen and harley granville-barker",
+  "huntington",
   "isabel burton",
+  "john c. branner",
   "john garrett underhill",
+  "john ormsby",
   "mary mann",
   "mrs. horace mann",
+  "ormsby",
   "rollo ogden",
   "salomon de la selva",
   "salomón de la selva",
@@ -66,6 +82,22 @@
    "thomas walsh",
    "salomon de la selva",
    "salomón de la selva"
+  ],
+  "hsp-poem-of-the-cid-ormsby": [
+   "ormsby",
+   "john ormsby"
+  ],
+  "hsp-poem-of-the-cid-huntington": [
+   "huntington",
+   "archer m. huntington"
+  ],
+  "hsp-herculano-inquisition-branner": [
+   "branner",
+   "john c. branner"
+  ],
+  "hsp-gil-vicente-lyrics-bell": [
+   "aubrey f. g. bell",
+   "aubrey bell"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -111,6 +143,22 @@
   "hsp-dario-eleven-poems": [
    "elevenpoems00daruoft",
    "Eleven Poems of Rubén Darío (1916)"
+  ],
+  "hsp-poem-of-the-cid-ormsby": [
+   "cu31924026395719",
+   "The Poem of the Cid, a translation from the Spanish, with introduction and notes (1879)"
+  ],
+  "hsp-poem-of-the-cid-huntington": [
+   "poemofcid02huntuoft",
+   "Poem of the Cid, vol. II: Translation (1901)"
+  ],
+  "hsp-herculano-inquisition-branner": [
+   "historyoftheorig012210mbp",
+   "History of the Origin and Establishment of the Inquisition in Portugal (1926)"
+  ],
+  "hsp-gil-vicente-lyrics-bell": [
+   "cu31924027725542",
+   "Lyrics of Gil Vicente (1914)"
   ]
  },
  "titles": {
@@ -194,9 +242,45 @@
    "translated": 1916,
    "translator": "Thomas Walsh and Salomón de la Selva",
    "scan_edition": "G. P. Putnam's Sons, New York 1916; University of Toronto scan"
+  },
+  "hispanic-classics-poem-of-the-cid-ormsby": {
+   "source": "hsp-poem-of-the-cid-ormsby",
+   "of": "The Poem of the Cid (Cantar de mio Cid)",
+   "work": "The Poem of the Cid, a translation from the Spanish, with introduction and notes",
+   "translated": "1879",
+   "translator": "John Ormsby",
+   "scan_edition": "Longmans, Green, London, 1879; Cornell University Library scan"
+  },
+  "hispanic-classics-poem-of-the-cid-huntington": {
+   "source": "hsp-poem-of-the-cid-huntington",
+   "of": "The Poem of the Cid (Cantar de mio Cid)",
+   "work": "Poem of the Cid, vol. II: Translation",
+   "translated": "1901",
+   "translator": "Archer M. Huntington",
+   "scan_edition": "Hispanic Society of America, New York, 1908 printing (copyright 1901, 1908); University of Toronto scan",
+   "note": "Vol. I is the Spanish text and vol. III the notes; only the translation volume is shelved."
+  },
+  "hispanic-classics-herculano-inquisition-branner": {
+   "source": "hsp-herculano-inquisition-branner",
+   "of": "Alexandre Herculano",
+   "work": "History of the Origin and Establishment of the Inquisition in Portugal",
+   "translated": "1926",
+   "translator": "John C. Branner",
+   "scan_edition": "Stanford University, California, 1926; archive.org scan"
+  },
+  "hispanic-classics-gil-vicente-lyrics-bell": {
+   "source": "hsp-gil-vicente-lyrics-bell",
+   "of": "Gil Vicente",
+   "work": "Lyrics of Gil Vicente",
+   "translated": "1921 (second edition)",
+   "translator": "Aubrey F. G. Bell",
+   "scan_edition": "Basil Blackwell, Oxford, 1921 (second edition); Cornell University Library scan",
+   "note": "The Portuguese and Spanish lyrics first, then Bell's English versions."
   }
  },
- "_pending": {},
+ "_pending": {
+  "hispanic-classics-mendes-pinto-voyages-cogan": "Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
  "_excluded": {
   "cradle-song-1931-printing": "The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead.",
   "heinemann-pepita-jimenez-1891": "Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page.",
@@ -311,6 +395,50 @@
    "ia_rights": "ok: published 1916",
    "ia_date": "1916",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-poem-of-the-cid-ormsby": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ormsby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-poem-of-the-cid-huntington": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907-8]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-herculano-inquisition-branner": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "branner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -428,7 +556,62 @@
     1916
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "hsp-poem-of-the-cid-ormsby": {
+   "ia": "cu31924026395719",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1844,
+    1872,
+    1879,
+    1891,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-poem-of-the-cid-huntington": {
+   "ia": "poemofcid02huntuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-herculano-inquisition-branner": {
+   "ia": "historyoftheorig012210mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1857,
+    1867,
+    1877,
+    1907,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "ia": "cu31924027725542",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1527,
+    1577,
+    1891,
+    1893,
+    1915,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "hsp-poem-of-the-cid-huntington": {
+   "author": "The blackletter title page OCR reads 'Translation ... Hrcber fl\\ Ibuntíngton' and 'Copsrígbt, 1901, 1008, b« Brcber Ob. Uuntíngton' for Archer M. Huntington, copyright 1901, 1908. Checked by eye 2026-10-17."
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "author": "The title page OCR reads 'Lyrics of Qil Vicente By AVBRET F. G. 'BELL Second Edition OXFORD : BASIL BLACKWELL, BROAD STREET MCMXXI' for Aubrey F. G. Bell. Checked by eye 2026-10-17."
+  }
+ }
 }

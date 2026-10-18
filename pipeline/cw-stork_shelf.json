@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); the Anthology of Swedish Lyrics (1917) and Heidenstam's The Charles Men, Part I (1920), both American-Scandinavian Foundation, added in round 90. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "charles wharton stork",
   "c. w. stork"
@@ -21,11 +21,6 @@
   ]
  },
  "internet_archive": {
-  "cws-anthology-swedish-lyrics": [
-   "anthologyswedis00storgoog",
-   "Anthology of Swedish Lyrics from 1750 to 1915 (1917)",
-   "anthologyswedis00storgoog_djvu.txt"
-  ],
   "cws-charles-men-1": [
    "charlesmen01heid",
    "Charles Men, Part I (1920)",
@@ -50,15 +45,6 @@
    "translator": "Charles Wharton Stork",
    "scan_edition": "Project Gutenberg 64808 (clean text)"
   },
-  "cw-stork-anthology-of-swedish-lyrics": {
-   "source": "cws-anthology-swedish-lyrics",
-   "of": "Swedish lyric poets, 1750-1915",
-   "work": "Anthology of Swedish Lyrics from 1750 to 1915",
-   "translated": 1917,
-   "translator": "Charles Wharton Stork",
-   "scan_edition": "Scandinavian Classics IX, American-Scandinavian Foundation, New York 1917; Google scan",
-   "note": "Translated in the original metres, per the title page."
-  },
   "cw-stork-heidenstam-charles-men-1": {
    "source": "cws-charles-men-1",
    "of": "Verner von Heidenstam",
@@ -69,7 +55,9 @@
    "note": "Part II (Scandinavian Classics XVI) was not found as a scan."
   }
  },
- "_pending": {},
+ "_pending": {
+  "cw-stork-anthology-of-swedish-lyrics": "Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'stork' alone is left out as a common word.",
  "_checks": {
@@ -90,17 +78,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Wharton Stork"
-  },
-  "cws-anthology-swedish-lyrics": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "charles wharton stork",
-   "identity": "ok",
-   "ia_rights": "ok: published 1917",
-   "ia_date": "1917",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
   },
   "cws-charles-men-1": {
    "kind": "ia",
@@ -124,19 +101,6 @@
    "pg": 78363,
    "pg_copyrighted_marker": false,
    "pg_translator": "Charles Wharton Stork"
-  },
-  "cws-anthology-swedish-lyrics": {
-   "ia": "anthologyswedis00storgoog",
-   "translator_named_in_first_30k": true,
-   "years_in_front_15k": [
-    1750,
-    1753,
-    1771,
-    1809,
-    1870,
-    1915
-   ],
-   "post_1930_years_in_front_15k": []
   },
   "cws-charles-men-1": {
    "ia": "charlesmen01heid",

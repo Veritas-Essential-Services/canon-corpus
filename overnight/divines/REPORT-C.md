@@ -280,3 +280,5 @@
 - 2026-10-17T21:47-05:00: round 101: durand +3 (10), french-classics +1 (21). --verify --record 0 mismatched; only new _checks recorded.
 
 - 2026-10-17T21:51-05:00: round 102: lusiads-in-english (8). --verify --record 0 mismatched.
+
+- 2026-10-17T21:58-05:00: round 103: hispanic-classics +4 (14). Pinto (cu31924077183410) to _pending: Cornell 1996 replacement photocopy. Audit: budge, burton, edwin-arnold, egyptian-texts, cw-stork each moved one title to _pending for the same reason. --verify --record 0 mismatched.
