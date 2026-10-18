@@ -4071,8 +4071,14 @@ Shelf: `pipeline/dugald-stewart_shelf.json`. Elements of the Philosophy of the H
 | The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. II: Elements of the Philosophy of the Human Mind, vol. I (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v2` | have-raw (IA `collectedworksof02unse_0`) |
 | The Collected Works of Dugald Stewart, vol. III: Elements, vol. II (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v3` | have-raw (IA `collectedworksof03stew`) |
 | The Collected Works of Dugald Stewart, vol. IV: Elements, vol. III (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v4` | have-raw (IA `collectedworksof04stewiala`) |
-
-Pending (wishlist): The other volumes of the Collected Works.
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. I: Dissertation on the Progress of Metaphysical, Ethical and Political Philosophy (Edinburgh: Thomas Constable, 1854) |  | `stewart-hamilton-works-1854-v1` | have-raw (IA `collectedworksof01stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. V: Philosophical Essays (Edinburgh: Thomas Constable; year garbled in the OCR, 1855 inferred) |  | `stewart-hamilton-works-1855-v5` | have-raw (IA `collectedworksof05stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VI: The Philosophy of the Active and Moral Powers, books I-II (Edinburgh: Thomas Constable, 1855) |  | `stewart-hamilton-works-1855-v6` | have-raw (IA `collectedworksof06stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VII: The Philosophy of the Active and Moral Powers, books III-IV (Edinburgh: Thomas Constable; Boston: Little, Brown, 1855) |  | `stewart-hamilton-works-1855-v7` | have-raw (IA `collectedworksof07unse_0`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VIII: Lectures on Political Economy, vol. I (Edinburgh: Thomas Constable, 1855) |  | `stewart-hamilton-works-1855-v8` | have-raw (IA `collectedworksof08stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. IX: Lectures on Political Economy, vol. II (Edinburgh: Thomas Constable, 1856) |  | `stewart-hamilton-works-1856-v9` | have-raw (IA `collectedworksof09stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. X: Biographical Memoirs of Adam Smith, William Robertson and Thomas Reid, with John Veitch's Memoir of Stewart (Edinburgh: Thomas Constable, 1858) |  | `stewart-hamilton-works-1858-v10` | have-raw (IA `collectedworksof10stewiala`) |
+| The Collected Works of Dugald Stewart, ed. Sir William Hamilton, supplementary volume: translations of the passages in foreign languages, and general index (Edinburgh: Thomas Constable, 1860) |  | `stewart-hamilton-works-1860-v11` | have-raw (IA `collectedworksof11stewiala`) |
 
 ## Thomas Brown
 
@@ -4227,8 +4233,6 @@ Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and
 | The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v2` | have-raw (IA `originofideas02rosmuoft`) |
 | The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v3` | have-raw (IA `originofideas03rosmuoft`) |
 
-Pending (wishlist): Psychology (1884-1888).
-
 ## Vattel in English
 
 Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philadelphia, 1853).
@@ -4236,8 +4240,6 @@ Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philad
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853) | Chitty | `vattel-chitty-law-of-nations-1853` | have-raw (IA `lawofnationsorpr00vattiala`) |
-
-Pending (wishlist): Fenwick's Carnegie translation (1916).
 
 ## Condorcet in English
 
@@ -4812,8 +4814,6 @@ Shelf: `pipeline/anthony-collins_shelf.json`. A Discourse of Free-Thinking (1713
 |---|---|---|---|
 | A Discourse of Free-Thinking (London, 1713) |  | `collins-discourse-of-free-thinking-1713` | have-raw (IA `adiscourseoffree00colluoft`) |
 
-Pending (wishlist): A Philosophical Inquiry concerning Human Liberty (1717)
-
 ## Matthew Tindal
 
 Shelf: `pipeline/matthew-tindal_shelf.json`. Christianity as Old as the Creation (Newburgh, 1798).
@@ -4960,7 +4960,7 @@ Shelf: `pipeline/holbach_shelf.json`. French materialism, in English.
 | Good Sense, a translation of Le Bon Sens (London: W. Stewart, undated, c. 1900) |  | `holbach-good-sense-c1900` | have (PG 7319) |
 | The System of Nature, with notes by Diderot, two volumes in one (Boston: J. P. Mendum, 1868) | H. D. Robinson | `holbach-robinson-system-of-nature-1868` | have-raw (IA `systemofnatureor68holb`) |
 
-Pending (wishlist): The System of Nature in the 1820-21 translation from a period printing; Ecce Homo (1827) from a period printing; Christianity Unveiled
+Pending (wishlist): Ecce Homo (1827) from a period printing; Christianity Unveiled
 
 ## Mary Wollstonecraft (as author)
 
@@ -4991,7 +4991,7 @@ Shelf: `pipeline/joseph-priestley_shelf.json`. Materialism and necessity.
 | Disquisitions relating to Matter and Spirit (London: J. Johnson, 1777) |  | `priestley-matter-and-spirit-1777` | have-raw (IA `disquisitionsrel00prieuoft`) |
 | A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, with Richard Price (London: J. Johnson and T. Cadell, 1778) |  | `priestley-price-free-discussion-1778` | have-raw (IA `freediscussionof00pric`) |
 
-Pending (wishlist): The Doctrine of Philosophical Necessity Illustrated (1777 or 1782, a scan over the OCR gate); Hartley's Theory of the Human Mind, ed. Priestley (1775)
+Pending (wishlist): The Doctrine of Philosophical Necessity Illustrated (1777 or 1782, a scan over the OCR gate)
 
 ## Pierre Charron
 
@@ -5175,7 +5175,7 @@ Shelf: `pipeline/schleiermacher_shelf.json`. Romantic philosophy of religion.
 | On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893) | John Oman | `schleiermacher-oman-on-religion-1893` | have-raw (IA `onreligionspeech00schluoft`) |
 | Soliloquies: an English translation of the Monologen, with a critical introduction and appendix (Chicago: Open Court, 1926) | Horace Leland Friess | `schleiermacher-friess-soliloquies-1926` | have-raw (IA `schleiermacherss00schl`) |
 
-Pending (wishlist): The Christian Faith (1928)
+Pending (wishlist): The Christian Faith (1928) in its first impression (the open IA scans are later impressions)
 
 ## Ludwig Büchner
 

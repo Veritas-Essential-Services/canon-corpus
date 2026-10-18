@@ -1,5 +1,5 @@
 {
- "_about": "Dugald Stewart (1753-1828), raw IA OCR: the Elements of the Philosophy of the Human Mind, as vols. II-IV of The Collected Works of Dugald Stewart, edited by Sir William Hamilton (Edinburgh: Thomas Constable, 1854). US public domain. Wanted: the other volumes of the Collected Works (the Dissertation, Philosophical Essays, Active and Moral Powers, Political Economy, memoirs). No uids minted.",
+ "_about": "Dugald Stewart (1753-1828), raw IA OCR: the Elements of the Philosophy of the Human Mind, as vols. II-IV of The Collected Works of Dugald Stewart, edited by Sir William Hamilton (Edinburgh: Thomas Constable, 1854). US public domain. Added in round ao: vols. I and V-XI of the same Collected Works (1854-1860), which with vols. II-IV completes the set; vol. V's year is garbled in the OCR and 1855 is inferred, and vol. VII is the copy with the Boston co-imprint of Little, Brown. No uids minted.",
  "_author": "Dugald Stewart",
  "_name_words": [
   "dugald",
@@ -25,13 +25,45 @@
    "collectedworksof04stewiala",
    "The Collected Works of Dugald Stewart, vol. IV: Elements, vol. III (Edinburgh: Thomas Constable, 1854)",
    "ed. Sir William Hamilton"
+  ],
+  "stewart-hamilton-works-1854-v1": [
+   "collectedworksof01stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. I: Dissertation on the Progress of Metaphysical, Ethical and Political Philosophy (Edinburgh: Thomas Constable, 1854)"
+  ],
+  "stewart-hamilton-works-1855-v5": [
+   "collectedworksof05stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. V: Philosophical Essays (Edinburgh: Thomas Constable; year garbled in the OCR, 1855 inferred)"
+  ],
+  "stewart-hamilton-works-1855-v6": [
+   "collectedworksof06stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VI: The Philosophy of the Active and Moral Powers, books I-II (Edinburgh: Thomas Constable, 1855)"
+  ],
+  "stewart-hamilton-works-1855-v7": [
+   "collectedworksof07unse_0",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VII: The Philosophy of the Active and Moral Powers, books III-IV (Edinburgh: Thomas Constable; Boston: Little, Brown, 1855)"
+  ],
+  "stewart-hamilton-works-1855-v8": [
+   "collectedworksof08stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. VIII: Lectures on Political Economy, vol. I (Edinburgh: Thomas Constable, 1855)"
+  ],
+  "stewart-hamilton-works-1856-v9": [
+   "collectedworksof09stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. IX: Lectures on Political Economy, vol. II (Edinburgh: Thomas Constable, 1856)"
+  ],
+  "stewart-hamilton-works-1858-v10": [
+   "collectedworksof10stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. X: Biographical Memoirs of Adam Smith, William Robertson and Thomas Reid, with John Veitch's Memoir of Stewart (Edinburgh: Thomas Constable, 1858)"
+  ],
+  "stewart-hamilton-works-1860-v11": [
+   "collectedworksof11stewiala",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, supplementary volume: translations of the passages in foreign languages, and general index (Edinburgh: Thomas Constable, 1860)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "stewart-hamilton-works-1854-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "dugald stewart",
    "identity": "ok",
@@ -42,7 +74,7 @@
   },
   "stewart-hamilton-works-1854-v3": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "dugald stewart",
    "identity": "ok",
@@ -53,7 +85,95 @@
   },
   "stewart-hamilton-works-1854-v4": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1854-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1855-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1855-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1855-v7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1855-v8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1856-v9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1858-v10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1860-v11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "dugald stewart",
    "identity": "ok",
