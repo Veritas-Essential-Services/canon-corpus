@@ -1,5 +1,5 @@
 {
- "_about": "George Henry Lewes (1817-1878): The Physical Basis of Mind (Boston: Houghton Mifflin, 1891; clean Gutenberg text) and The History of Philosophy from Thales to Comte (London: Longmans, Green; raw IA OCR). The two History volumes are from different editions: vol. I is the 3rd edition (the OCR reads the year as 1807; it is 1867) and vol. II the 4th edition of 1871. A matched pair would replace them. US public domain. No uids minted.",
+ "_about": "George Henry Lewes (1817-1878): The Physical Basis of Mind (Boston: Houghton Mifflin, 1891; clean Gutenberg text) and The History of Philosophy from Thales to Comte (London: Longmans, Green; raw IA OCR). The two History volumes are from different editions: vol. I is the 3rd edition (the OCR reads the year as 1807; it is 1867) and vol. II the 4th edition of 1871. A matched pair would replace them. Added in round am: Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874). Added in round am: Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876; the volume first appeared in 1875, and a matched 1874-75 pair was not found). Added in round am: Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853). US public domain. No uids minted.",
  "_author": "George Henry Lewes",
  "_name_words": [
   "george",
@@ -25,13 +25,25 @@
   "lewes-history-of-philosophy-4th-ed-v2": [
    "historyofphiloso02lewe",
    "The History of Philosophy from Thales to Comte, 4th ed., vol. II (London: Longmans, Green, 1871)"
+  ],
+  "lewes-problems-of-life-and-mind-1874-v1": [
+   "problemsoflifemi01leweiala",
+   "Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874)"
+  ],
+  "lewes-problems-of-life-and-mind-1876-v2": [
+   "problemslifeand06lewegoog",
+   "Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876)"
+  ],
+  "lewes-comtes-philosophy-of-the-sciences-1853": [
+   "comtesphilosophy00leweuoft",
+   "Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "lewes-physical-basis-of-mind-1891": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lewes",
    "identity": "ok",
@@ -40,7 +52,7 @@
   },
   "lewes-history-of-philosophy-3rd-ed-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lewes",
    "identity": "ok",
@@ -51,13 +63,46 @@
   },
   "lewes-history-of-philosophy-4th-ed-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lewes",
    "identity": "ok",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewes-problems-of-life-and-mind-1874-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874-75",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewes-problems-of-life-and-mind-1876-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewes-comtes-philosophy-of-the-sciences-1853": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

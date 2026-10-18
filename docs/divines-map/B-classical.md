@@ -4906,6 +4906,9 @@ Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the p
 | The Physical Basis of Mind (Boston: Houghton Mifflin, 1891) |  | `lewes-physical-basis-of-mind-1891` | have (PG 60212) |
 | The History of Philosophy from Thales to Comte, 3rd ed., vol. I (London: Longmans, Green, 1867) |  | `lewes-history-of-philosophy-3rd-ed-v1` | have-raw (IA `thehistoryofphil01leweuoft`) |
 | The History of Philosophy from Thales to Comte, 4th ed., vol. II (London: Longmans, Green, 1871) |  | `lewes-history-of-philosophy-4th-ed-v2` | have-raw (IA `historyofphiloso02lewe`) |
+| Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874) |  | `lewes-problems-of-life-and-mind-1874-v1` | have-raw (IA `problemsoflifemi01leweiala`) |
+| Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876) |  | `lewes-problems-of-life-and-mind-1876-v2` | have-raw (IA `problemslifeand06lewegoog`) |
+| Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853) |  | `lewes-comtes-philosophy-of-the-sciences-1853` | have-raw (IA `comtesphilosophy00leweuoft`) |
 
 Pending (wishlist): a matched pair of the History
 
