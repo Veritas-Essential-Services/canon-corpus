@@ -1,5 +1,5 @@
 {
- "_about": "William McDougall (1871-1938), British-American psychologist of instinct and purpose. Gutenberg: The Group Mind (1920). Raw IA OCR: Physiological Psychology, Temple Primers (London: Dent, 1905; this copy 1908), clean 0.95; An Introduction to Social Psychology (London: Methuen, first 1908; this copy the sixth edition, 1912), clean 0.91; Body and Mind, a history and a defense of animism (London: Methuen, first 1911; this copy the fourth edition, printed date garbled in OCR and catalogued 1918, after the 1915 third edition), clean 0.92; Psychology, the Study of Behaviour, Home University Library (1912), clean 0.95. Not taken: a Body and Mind scan whose only year is a library pencil note. US public domain. No uids minted.",
+ "_about": "William McDougall (1871-1938), British-American psychologist of instinct and purpose. Gutenberg: The Group Mind (1920). Raw IA OCR: Physiological Psychology, Temple Primers (London: Dent, 1905; this copy 1908), clean 0.95; An Introduction to Social Psychology (London: Methuen, first 1908; this copy the sixth edition, 1912), clean 0.91; Body and Mind, a history and a defense of animism (London: Methuen, first 1911; this copy the fourth edition, printed date garbled in OCR and catalogued 1918, after the 1915 third edition), clean 0.92; Psychology, the Study of Behaviour, Home University Library (1912), clean 0.95. Not taken: a Body and Mind scan whose only year is a library pencil note. US public domain. Added in round 2026-10-17bs: National Welfare and National Decay (London: Methuen, 1921), clean 0.88; Outline of Psychology (New York: Scribner's, copyright 1923), clean 0.94. Not taken: a thirteenth-edition (1949) copy of the Outline. No uids minted.",
  "_author": "William McDougall",
  "_name_words": [
   "william",
@@ -31,6 +31,14 @@
   "mcdougall-psychology-study-of-behaviour-1912": [
    "psychologystudyo00mcdorich",
    "Psychology, the Study of Behaviour (1912)"
+  ],
+  "mcdougall-national-welfare-decay-1921": [
+   "nationalwelfaren00mcdouoft",
+   "National Welfare and National Decay (Methuen, 1921)"
+  ],
+  "mcdougall-outline-of-psychology-1923": [
+   "outlineofpsychol0000will_j1f4",
+   "Outline of Psychology (Scribner's, 1923)"
   ]
  },
  "_excluded": {},
@@ -86,6 +94,28 @@
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcdougall-national-welfare-decay-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcdougall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcdougall-outline-of-psychology-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mcdougall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-01-01",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

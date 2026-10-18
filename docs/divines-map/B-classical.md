@@ -6656,6 +6656,8 @@ Shelf: `pipeline/william-mcdougall_shelf.json`. Five books, 1905-1920.
 | An Introduction to Social Psychology, 6th ed. (Methuen, 1912) |  | `mcdougall-social-psychology-1908` | have-raw (IA `introductiontos00mcdo`) |
 | Body and Mind, 4th ed. (Methuen, c. 1918) |  | `mcdougall-body-and-mind-1911` | have-raw (IA `cu31924029080880`) |
 | Psychology, the Study of Behaviour (1912) |  | `mcdougall-psychology-study-of-behaviour-1912` | have-raw (IA `psychologystudyo00mcdorich`) |
+| National Welfare and National Decay (Methuen, 1921) |  | `mcdougall-national-welfare-decay-1921` | have-raw (IA `nationalwelfaren00mcdouoft`) |
+| Outline of Psychology (Scribner's, 1923) |  | `mcdougall-outline-of-psychology-1923` | have-raw (IA `outlineofpsychol0000will_j1f4`) |
 
 ## W. P. Montague (new realism)
 
