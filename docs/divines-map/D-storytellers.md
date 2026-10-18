@@ -8824,6 +8824,47 @@ Shelf: `pipeline/mrs-henry-wood_shelf.json` (2026-10-17; added at the coordinato
 | The Master of Greylands: A Novel | have | PG 59144, `mhwood-master-of-greylands` (4322 units) |
 | pg-59009 | excluded | PG 59009: Gutenberg's index of the author's works, not a book. |
 
+## Mrs. Humphry Ward
+
+Shelf: `pipeline/humphry-ward_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (33 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of David Grieve | have | PG 8076, `hward-history-of-david-grieve` (5438 units) |
+| Robert Elsmere | have | PG 8737, `hward-robert-elsmere` (4863 units) |
+| Eleanor | have | PG 9087, `hward-eleanor` (3725 units) |
+| Helbeck of Bannisdale — Volume I | have | PG 9441, `hward-helbeck-of-bannisdale-volume-i` (1658 units) |
+| Helbeck of Bannisdale — Volume II | have | PG 9442, `hward-helbeck-of-bannisdale-volume-ii` (1881 units) |
+| The Coryston Family A Novel | have | PG 9507, `hward-coryston-family-a-novel` (2082 units) |
+| The Case of Richard Meynell | have | PG 9614, `hward-case-of-richard-meynell` (3509 units) |
+| Sir George Tressady — Volume I | have | PG 9633, `hward-sir-george-tressady-volume-i` (1774 units) |
+| Sir George Tressady — Volume II | have | PG 9634, `hward-sir-george-tressady-volume-ii` (1974 units) |
+| Delia Blanchflower | have | PG 9665, `hward-delia-blanchflower` (2796 units) |
+| A Writer's Recollections — Volume 1 | have | PG 9820, `hward-a-writers-recollections-volume-1` (427 units) |
+| A Writer's Recollections — Volume 2 | have | PG 9821, `hward-a-writers-recollections-volume-2` (420 units) |
+| Towards the Goal | have | PG 10099, `hward-towards-the-goal` (518 units) |
+| The Story of Bessie Costrell | have | PG 12181, `hward-story-of-bessie-costrell` (612 units) |
+| Fenwick's Career | have | PG 12403, `hward-fenwicks-career` (2391 units) |
+| Missing | have | PG 12908, `hward-missing` (2173 units) |
+| Helena | have | PG 13071, `hward-helena` (1829 units) |
+| A Great Success | have | PG 13288, `hward-a-great-success` (730 units) |
+| Milly and Olly | have | PG 13337, `hward-milly-and-olly` (990 units) |
+| Miss Bretherton | have | PG 13432, `hward-miss-bretherton` (654 units) |
+| The Testing of Diana Mallory | have | PG 13453, `hward-testing-of-diana-mallory` (3744 units) |
+| Lady Connie | have | PG 13501, `hward-lady-connie` (2724 units) |
+| Elizabeth's Campaign | have | PG 13573, `hward-elizabeths-campaign` (2270 units) |
+| Marcella | have | PG 13728, `hward-marcella` (4840 units) |
+| Lady Rose's Daughter | have | PG 13782, `hward-lady-roses-daughter` (3644 units) |
+| Harvest | have | PG 13801, `hward-harvest` (1623 units) |
+| Lady Merton, Colonist | have | PG 13823, `hward-lady-merton-colonist` (1621 units) |
+| Fields of Victory | have | PG 13827, `hward-fields-of-victory` (419 units) |
+| The Marriage of William Ashe | have | PG 14126, `hward-marriage-of-william-ashe` (3949 units) |
+| The Mating of Lydia | have | PG 14174, `hward-mating-of-lydia` (3177 units) |
+| England's effort | have | PG 16089, `hward-englands-effort` (468 units) |
+| Marriage à la mode | have | PG 20383, `hward-marriage-la-mode` (1500 units) |
+| Bessie Costrell | have | PG 22128, `hward-bessie-costrell` (605 units) |
+| repeat-editions | excluded | PG 24898: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
