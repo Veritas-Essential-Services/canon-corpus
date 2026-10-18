@@ -1553,6 +1553,6 @@ Three titles added to `hispanic-classics` (now 22), from period archive.org scan
 - Edward Churton's *Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations* (John Murray, 1862, 2 vols), his essay interleaved with verse translations of Góngora's poems.
 - Graça Aranha's Brazilian novel *Canaan*, translated by Mariano Joaquín Lorente (The Four Seas Company, Boston, 1920).
 - Neither Góngora nor Graça Aranha was on any shelf on any branch before this round.
-- **Left out:** the archive.org *Martin Rivas* (1926) names no translator in its front matter, so Blest Gana stays off for now.
+- **Left out:** the archive.org *Martin Rivas* (1926) is G. W. Umphrey's Spanish-text school edition, not a translation, so Blest Gana stays off for now.
 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. Years flagged by the evidence check and read by eye: in the Góngora, '1906-1946' is on a library gift plate and 2013 is the Internet Archive's digitising line.
