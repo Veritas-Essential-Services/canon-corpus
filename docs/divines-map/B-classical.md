@@ -6215,6 +6215,7 @@ Shelf: `pipeline/james-fitzjames-stephen_shelf.json`. Sir James Fitzjames Stephe
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Liberty, Equality, Fraternity (Holt & Williams, 1873) |  | `fitzjames-stephen-liberty-equality-fraternity-1873` | have-raw (IA `libertyequalityf0000jame`) |
 
 Pending (wishlist): A History of the Criminal Law of England (1883); Horae Sabbaticae
 

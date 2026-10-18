@@ -1,0 +1,34 @@
+{
+ "_about": "Sir James Fitzjames Stephen (1829-1894), judge, Mill's sharpest critic: Liberty, Equality, Fraternity (New York: Holt & Williams, 1873), raw IA OCR, clean 0.94. Not to be confused with the leslie-stephen shelf (his brother). US public domain. No uids minted.",
+ "_author": "James Fitzjames Stephen",
+ "_name_words": [
+  "james",
+  "fitzjames",
+  "stephen"
+ ],
+ "_surname": [
+  "stephen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fitzjames-stephen-liberty-equality-fraternity-1873": [
+   "libertyequalityf0000jame",
+   "Liberty, Equality, Fraternity (Holt & Williams, 1873)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fitzjames-stephen-liberty-equality-fraternity-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
