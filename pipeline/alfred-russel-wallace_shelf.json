@@ -1,5 +1,5 @@
 {
- "_about": "Alfred Russel Wallace (1823-1913), co-discoverer of natural selection, biogeographer and social reformer. Project Gutenberg etexts: A Narrative of Travels on the Amazon and Rio Negro (London: Reeve, 1853; PG 53177, the 1889 new edition, is not taken); The Malay Archipelago (2 vols.); Contributions to the Theory of Natural Selection; Tropical Nature, and other essays; The Geographical Distribution of Animals (2 vols.); Island Life; Darwinism (1889); Man's Place in the Universe; Is Mars Habitable?; Social Environment and Moral Progress; The Remedy for Unemployment; A Defence of Modern Spiritualism; Vaccination a Delusion; Palm Trees of the Amazon; the Papilionidae paper; and Letters and Reminiscences, ed. James Marchant (2 vols., 1916). His surname is common, so only full name forms are used. US public domain. No uids minted.",
+ "_about": "Alfred Russel Wallace (1823-1913), co-discoverer of natural selection, biogeographer and social reformer. Project Gutenberg etexts: A Narrative of Travels on the Amazon and Rio Negro (London: Reeve, 1853; PG 53177, the 1889 new edition, is not taken); The Malay Archipelago (2 vols.); Contributions to the Theory of Natural Selection; Tropical Nature, and other essays; The Geographical Distribution of Animals (2 vols.); Island Life; Darwinism (1889); Man's Place in the Universe; Is Mars Habitable?; Social Environment and Moral Progress; The Remedy for Unemployment; A Defence of Modern Spiritualism; Vaccination a Delusion; Palm Trees of the Amazon; the Papilionidae paper; and Letters and Reminiscences, ed. James Marchant (2 vols., 1916). His surname is common, so only full name forms are used. US public domain. Added in round 2026-10-18cf, raw IA OCR: My Life, a record of events and opinions (London: Chapman and Hall, 1905), 2 vols., clean 0.95 and 0.91; The Wonderful Century, its successes and its failures, in its third edition of April 1899 (first edition June 1898), clean 0.92. No uids minted.",
  "_author": "Alfred Russel Wallace",
  "_name_words": [
   "alfred",
@@ -89,7 +89,20 @@
    "Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wallace-my-life-1905-v1": [
+   "myliferecordofev01walluoft",
+   "My Life, a record of events and opinions, vol. I (Chapman and Hall, 1905)"
+  ],
+  "wallace-my-life-1905-v2": [
+   "myliferecordofev21905wall",
+   "My Life, a record of events and opinions, vol. II (Chapman and Hall, 1905)"
+  ],
+  "wallace-wonderful-century-1899": [
+   "wonderfulcentur00wallgoog",
+   "The Wonderful Century, its successes and its failures, 3rd edition (1899)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "wallace-travels-on-the-amazon-1853": {
@@ -262,6 +275,39 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "wallace-my-life-1905-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wallace-my-life-1905-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "Not in copyright. The BHL knows of no copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "wallace-wonderful-century-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

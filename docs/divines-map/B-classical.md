@@ -7981,6 +7981,9 @@ Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
 | The Remedy for Unemployment |  | `wallace-remedy-for-unemployment` | have (PG 50690) |
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
+| My Life, a record of events and opinions, vol. I (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v1` | have-raw (IA `myliferecordofev01walluoft`) |
+| My Life, a record of events and opinions, vol. II (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v2` | have-raw (IA `myliferecordofev21905wall`) |
+| The Wonderful Century, its successes and its failures, 3rd edition (1899) |  | `wallace-wonderful-century-1899` | have-raw (IA `wonderfulcentur00wallgoog`) |
 
 ## Charles Lyell (uniformitarian geology)
 
