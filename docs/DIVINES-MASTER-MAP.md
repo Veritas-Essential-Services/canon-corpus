@@ -11466,6 +11466,10 @@ Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839, G
 |---|---|---|---|
 | First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
 | Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847) |  | `de-morgan-formal-logic-1847` | have-raw (IA `formallogicorthe00demouoft`) |
+| An Essay on Probabilities, and on their Application to Life Contingencies and Insurance Offices (Longman, 1838) |  | `de-morgan-essay-on-probabilities-1838` | have-raw (IA `essayonprobabili00demorich`) |
+| Syllabus of a Proposed System of Logic (Walton and Maberly, 1860) |  | `de-morgan-syllabus-of-logic-1860` | have-raw (IA `syllabusofpropos00demoiala`) |
+| A Budget of Paradoxes, ed. Sophia De Morgan (Longmans, Green, 1872) |  | `de-morgan-budget-of-paradoxes-1872` | have-raw (IA `budgetofparadoxe00demouoft`) |
+| On the Study and Difficulties of Mathematics (Open Court, 1898; this copy 1902) |  | `de-morgan-study-difficulties-mathematics-1898` | have-raw (IA `cu31924001162480`) |
 
 ## W. Stanley Jevons
 
@@ -13068,6 +13072,9 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 | Studies in History and Jurisprudence, vol. II (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v2` | have (PG 78301) |
 | Modern Democracies, vol. I (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v1` | have-raw (IA `moderndemocracie01brycuoft`) |
 | Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
+| The American Commonwealth, vol. I (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v1` | have-raw (IA `americancommonwe01bryc_0`) |
+| The American Commonwealth, vol. II (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v2` | have-raw (IA `americancommonwe02bryc_0`) |
+| The American Commonwealth, vol. III (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v3` | have-raw (IA `americancommonwe03bryc`) |
 
 Pending (wishlist): The American Commonwealth (1888, 3 vols.)
 
@@ -13112,6 +13119,29 @@ Shelf: `pipeline/james-wilson_shelf.json`. James Wilson (1742-1798). The Works, 
 | The Works of the Honourable James Wilson, vol. I (Philadelphia, 1804) |  | `wilson-works-1804-v1` | have-raw (IA `workshonourable00wilsgoog`) |
 | The Works of the Honourable James Wilson, vol. II (Philadelphia, 1804) |  | `wilson-works-1804-v2` | have-raw (IA `workshonourable02wilsgoog`) |
 | The Works of the Honourable James Wilson, vol. III (Philadelphia, 1804) |  | `wilson-works-1804-v3` | have-raw (IA `workshonourable01wilsgoog`) |
+
+## Denis Diderot (philosophical works)
+
+Shelf: `pipeline/denis-diderot_shelf.json`. Denis Diderot (1713-1784). Raw IA OCR: Margaret Jourdain's Early Philosophical Works (Open Court, 1916) and Walter Herries Pollock's Paradox of Acting (1883). Birrell's Dialogues (1927) is on broadway-library.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Early Philosophical Works, tr. Margaret Jourdain (Open Court, 1916) | Margaret Jourdain | `diderot-early-philosophical-works-jourdain-1916` | have-raw (IA `earlyphilosophic00dide`) |
+| The Paradox of Acting, tr. Walter Herries Pollock (Chatto & Windus, 1883) | Walter Herries Pollock | `diderot-paradox-of-acting-pollock-1883` | have-raw (IA `cu31924027175961`) |
+
+Pending (wishlist): D'Alembert's Dream and Rameau's Nephew in a pre-1931 English translation
+
+## James Kent (Commentaries on American Law)
+
+Shelf: `pipeline/james-kent_shelf.json`. James Kent (1763-1847). Commentaries on American Law (New York: Halsted), raw IA OCR: vol. I (copyright entry 1826), vol. II second edition (1832), vol. III (1828). Vol. IV held: no legible year.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on American Law, vol. I (Halsted; title page read 1828, copyright entry 1826) |  | `kent-commentaries-american-law-v1` | have-raw (IA `commentariesona13kentgoog`) |
+| Commentaries on American Law, vol. II, second edition (Halsted, 1832) |  | `kent-commentaries-american-law-v2-1832` | have-raw (IA `commentariesona15kentgoog`) |
+| Commentaries on American Law, vol. III (Halsted, 1828) |  | `kent-commentaries-american-law-v3-1828` | have-raw (IA `commentariesona04kentgoog`) |
+
+Pending (wishlist): Commentaries vol. IV (1830) with a legible title page
 
 ## Perseus census (overflow)
 

@@ -1137,3 +1137,11 @@
 - james-wilson: Works (1804, 3 vols.)
 - kant: Hastie's Principles of Politics (1891)
 - Held: IA Blackstone Book I lawsofenglandc01blacuoft is a 1966 lithographic reprint
+
+## 2026-10-17 20:33 CDT — Round 2026-10-17bd: Diderot, Kent, Bryce, De Morgan
+- denis-diderot: Jourdain's Early Philosophical Works (1916), Pollock's Paradox of Acting (1883)
+- james-kent: Commentaries on American Law vols. I-III (Halsted; vol. II the 1832 second edition)
+- james-bryce: The American Commonwealth, first edition 1888, 3 vols.
+- augustus-de-morgan: Essay on Probabilities (1838), Syllabus (1860), Budget of Paradoxes (1872), Study and Difficulties of Mathematics (1898/1902)
+- Held: Kent vol. IV (no legible year); PG Budget of Paradoxes (Dover 1954 republication)
+- Checked, nothing to take: Condillac (no pre-1931 English on IA), Poincare (Greenstreet's Science and Hypothesis is lane C's pending item), T. H. Green's Political Obligation (already inside the Works on thomas-hill-green)

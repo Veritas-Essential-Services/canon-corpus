@@ -1620,6 +1620,14 @@
    "started": "2026-10-17T20:21:11-05:00",
    "finished": "2026-10-17T20:27:59-05:00",
    "notes": "4 new shelves (montesquieu, william-blackstone, joseph-story, james-wilson) + kant extended; 13 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17bd",
+   "status": "done",
+   "scope": "Diderot, Kent, Bryce's American Commonwealth, De Morgan",
+   "started": "2026-10-17T20:27:59-05:00",
+   "finished": "2026-10-17T20:33:37-05:00",
+   "notes": "2 new shelves (denis-diderot, james-kent) + james-bryce, augustus-de-morgan extended; 12 items, all verified, 0 rights flags. Not minted."
   }
  ]
 }

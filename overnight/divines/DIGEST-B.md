@@ -245,3 +245,4 @@
 - 20:16 round ba: Broad, Wallas, Dicey, Laski, Lovejoy new; Bradley's Essays on Truth and Reality added. Laski (d. 1950) and Broad (d. 1971) are in copyright in the UK; only US public domain is claimed, per Adam's rule.
 - 20:21 round bb: Tawney, Acton, Maitland, Gierke, Bryce new; Hobhouse's Liberalism added. Acton, Maitland and Bryce sit on the history side of lane B's brief; they are taken as political and legal thought.
 - 20:27 round bc: Montesquieu, Blackstone first edition, Story, James Wilson, Kant's politics. Held: a 1966 litho reprint of Blackstone Book I. Story's Conflict of Laws and Equity Jurisprudence on the wishlist.
+- 20:33 round bd: Diderot (Jourdain, Pollock), Kent vols. I-III, Bryce's American Commonwealth 1888, four De Morgan works. Held: Kent vol. IV, PG Budget of Paradoxes (Dover 1954).
