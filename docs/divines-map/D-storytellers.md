@@ -12421,6 +12421,29 @@ Shelf: `pipeline/ellis-parker-butler_shelf.json` (2026-10-17; added at the coord
 | Jibby Jones | have | PG 76547, `epbutler-jibby-jones` (1495 units) |
 | A little girl in tears | have | PG 78529, `epbutler-a-little-girl-in-tears` (148 units) |
 
+## Israel Zangwill
+
+Shelf: `pipeline/israel-zangwill_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Without Prejudice | have | PG 6304, `izangwill-without-prejudice` (979 units) |
+| Children of the Ghetto: A Study of a Peculiar People | have | PG 12680, `izangwill-children-of-the-ghetto` (4659 units) |
+| The Grey Wig: Stories and Novelettes | have | PG 16408, `izangwill-grey-wig` (3454 units) |
+| Merely Mary Ann | have | PG 20078, `izangwill-merely-mary-ann` (963 units) |
+| Chosen Peoples Being the First "Arthur Davis Memorial Lecture" delivered before the Jewish Historical Society at University College on Easter-Passover Sunday, 1918/5678 | have | PG 20631, `izangwill-chosen-peoples-being-the-first-arthur-davis-memori` (102 units) |
+| The Melting-Pot | have | PG 23893, `izangwill-melting-pot` (1369 units) |
+| The Big Bow Mystery | have | PG 28164, `izangwill-big-bow-mystery` (801 units) |
+| Ghetto Comedies | have | PG 28982, `izangwill-ghetto-comedies` (2976 units) |
+| Dreamers of the Ghetto | have | PG 29875, `izangwill-dreamers-of-the-ghetto` (2807 units) |
+| Ghetto Tragedies | have | PG 35076, `izangwill-ghetto-tragedies` (2466 units) |
+| The Grandchildren of the Ghetto | have | PG 35238, `izangwill-grandchildren-of-the-ghetto` (2174 units) |
+| The King of Schnorrers: Grotesques and Fantasies | have | PG 38413, `izangwill-king-of-schnorrers` (2764 units) |
+| The Old Maids' Club | have | PG 45623, `izangwill-old-maids-club` (2366 units) |
+| The Master; a Novel | have | PG 49795, `izangwill-master` (3923 units) |
+| Italian Fantasies | have | PG 56264, `izangwill-italian-fantasies` (1131 units) |
+| Jinny the Carrier | have | PG 57836, `izangwill-jinny-the-carrier` (5468 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

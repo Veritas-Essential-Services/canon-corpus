@@ -1644,3 +1644,6 @@
 
 ## 2026-10-17 23:24 CDT — ellis-parker-butler: done
 - ellis-parker-butler: new shelf, 26 Gutenberg books, 14,600 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — israel-zangwill: done
+- israel-zangwill: new shelf, 16 Gutenberg books, 38,402 units, 1007 ~2 ids; verify 0 mismatches, 0 rights flags.
