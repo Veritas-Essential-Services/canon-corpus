@@ -1,0 +1,93 @@
+{
+ "_about": "Public-domain Martin John Spalding (1810-1872, Bishop of Louisville, Archbishop of Baltimore) for the Word Hoard: the General Evidences of Catholicity (1847), the History of the Protestant Reformation (2 vols, 1860) and the Miscellanea (second edition, 1855), from Internet Archive scans. Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "spalding"
+ ],
+ "_surname": [
+  "spalding",
+  "m. j. spalding",
+  "martin john spalding"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spalding-evidences-catholicity": [
+   "GeneralEvidencesOfCatholicity",
+   "General Evidences of Catholicity (Louisville: B. J. Webb & Brother, 1847)"
+  ],
+  "spalding-reformation-1": [
+   "historyreformati01spaluoft",
+   "The History of the Protestant Reformation, vol. I (Louisville: Webb & Levering, 1860)"
+  ],
+  "spalding-reformation-2": [
+   "historyreformati02spaluoft",
+   "The History of the Protestant Reformation, vol. II (Louisville: Webb & Levering, 1860)"
+  ],
+  "spalding-miscellanea": [
+   "Miscellanea1855",
+   "Miscellanea: reviews, lectures, and essays, second edition (Louisville: Webb, Gill & Levering, 1855)"
+  ]
+ },
+ "_alternates": {
+  "spalding-copies": "Lectures on the Evidences, second edition (1857); Miscellanea fifth edition in 2 vols (1869); D'Aubigné reviewed (1844)"
+ },
+ "_excluded": {
+  "spalding-darras": "Darras's General History of the Catholic Church: a translation of another man's work",
+  "spalding-other": "Works by other Spaldings"
+ },
+ "_identity_checked": {
+  "spalding-evidences-catholicity": {
+   "author": "title page read: 'BY M. J. J?ALDING, D.D.' (OCR garble of M. J. Spalding), Louisville, B. J. Webb & Brother, 1847"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "spalding-evidences-catholicity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spalding-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spalding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spalding-reformation-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spalding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spalding-miscellanea": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spalding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

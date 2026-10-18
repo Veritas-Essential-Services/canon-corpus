@@ -6129,3 +6129,17 @@ Slugs `hecker-*`. Founder of the Paulists; written in English.
 | Aspirations third edition (1859); Church and the Age (1896); other Questions copies | alternate | not shelved |
 | Elliott's Life of Father Hecker (PG 18283) | excluded | |
 | Arno 1978 and Paulist 1988 | excluded | |
+
+## Martin John Spalding (round 28, my pick, 2026-10-18)
+
+Slugs `spalding-*`. Archbishop of Baltimore; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| General Evidences of Catholicity (Louisville: B. J. Webb & Brother, 1847) | have-ocr | IA `GeneralEvidencesOfCatholicity` |
+| The History of the Protestant Reformation, vol. I (Louisville: Webb & Levering, 1860) | have-ocr | IA `historyreformati01spaluoft` |
+| The History of the Protestant Reformation, vol. II (Louisville: Webb & Levering, 1860) | have-ocr | IA `historyreformati02spaluoft` |
+| Miscellanea: reviews, lectures, and essays, second edition (Louisville: Webb, Gill & Levering, 1855) | have-ocr | IA `Miscellanea1855` |
+| Lectures on the Evidences, second edition (1857); Miscellanea fifth edition in 2 vols (1869); D'Aubigné reviewed (1844) | alternate | not shelved |
+| Darras's General History of the Catholic Church: a translation of another man's work | excluded | |
+| Works by other Spaldings | excluded | |
