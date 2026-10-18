@@ -1,0 +1,66 @@
+{
+ "_about": "Lester Frank Ward (1841-1913), founder of American sociology. Raw IA OCR: The Psychic Factors of Civilization (Boston: Ginn, 1893), clean 0.92; Pure Sociology (New York: Macmillan, first published 1903; this copy the second edition, 1919), clean 0.92; Applied Sociology (Boston: Ginn, copyright 1906), clean 0.89. Wanted: Dynamic Sociology (1883, 2 vols.), not found in a complete, dated copy. US public domain. No uids minted.",
+ "_author": "Lester Frank Ward",
+ "_name_words": [
+  "lester",
+  "frank",
+  "ward"
+ ],
+ "_surname": [
+  "ward",
+  "lester f. ward",
+  "lester frank ward"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ward-psychic-factors-civilization-1893": [
+   "psychicfactorsc04wardgoog",
+   "The Psychic Factors of Civilization (Ginn, 1893)"
+  ],
+  "ward-pure-sociology-1903": [
+   "puresociologytre00ward",
+   "Pure Sociology (Macmillan, 1903; second edition 1919)"
+  ],
+  "ward-applied-sociology-1906": [
+   "appliedsociology00ward",
+   "Applied Sociology (Ginn, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ward-psychic-factors-civilization-1893": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester f. ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ward-pure-sociology-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester f. ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ward-applied-sociology-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester f. ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
