@@ -7078,6 +7078,25 @@ Slugs `beyschlag-*`. New Testament Theology (1895).
 | New Testament Theology, vol. II, tr. Neil Buchanan (Edinburgh: T. & T. Clark, 1895) | have-ocr | IA `newtestamentt02beys` |
 | The 1896 and 1899 second English editions; other 1895 copies | alternate | not shelved |
 | Books on minerals and rocks by a different Beyschlag | excluded | |
+
+## Adolf Deissmann (round 31, my pick, 2026-10-18)
+
+Slugs `deissmann-*`. Bible Studies, Light from the Ancient East, St. Paul and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Bible Studies, tr. Alexander Grieve (Edinburgh: T. & T. Clark, 1901) | have-ocr | IA `biblestudiescon00deisuoft` |
+| New Light on the New Testament from Records of the Graeco-Roman Period, tr. Lionel R. M. Strachan (Edinburgh: T. & T. Clark, 1907) | have-ocr | IA `newlightonnewtes00deisuoft` |
+| The Philology of the Greek Bible, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMVIII) | have-ocr | IA `cu31924021606987` |
+| Light from the Ancient East, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMX) | have-ocr | IA `cu31924029303538` |
+| Light from the Ancient East, new and completely revised edition, tr. Lionel R. M. Strachan (New York and London: Harper & Brothers; title page undated, preface dated 1922) | have-ocr | IA `cu31924060305095` |
+| St. Paul: a Study in Social and Religious History, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMXII) | have-ocr | IA `stpaulastudyinso00deisuoft` |
+| Paul: a Study in Social and Religious History, second edition, tr. William E. Wilson (London: Hodder and Stoughton, 1926) | have-ocr | IA `paulstudyinsocia00deis_2` |
+| The Religion of Jesus and the Faith of Paul, tr. William E. Wilson (London: Hodder and Stoughton, 1923) | have-ocr | IA `religionofjesusf00deisuoft` |
+| The New Testament in the Light of Modern Research (Garden City, New York: Doubleday, Doran, 1929) | have-ocr | IA `newtestamentinli00deis` |
+| Bible Studies second edition (1909); New Light 1908 reprint; undated first-edition Light copies; the Doran 1926 issues | alternate | not shelved |
+| 1965, 1979 and 1995 reprints | excluded | |
+| Meecham's Light from Ancient Letters; a 1903 New Light by another author; German originals | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

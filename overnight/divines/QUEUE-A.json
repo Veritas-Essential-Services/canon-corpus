@@ -3964,10 +3964,12 @@
     },
     {
       "id": "adolf-deissmann",
-      "status": "queued",
+      "status": "done",
       "scope": "round 31: German Pietists in English (Arndt, Johann Gerhard, Tersteegen, Paul Gerhardt, Francke, Zinzendorf), German critics and scholars in English (Wellhausen, Keim, Pfleiderer, Beyschlag, Deissmann, Zahn, Cremer, C. F. Schmid, J. T. Beck, Warneck), Thomas Erskine of Linlathen, John Colet and St John Fisher",
       "added": "2026-10-18T01:30Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T20:41:58-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "theodor-zahn",
