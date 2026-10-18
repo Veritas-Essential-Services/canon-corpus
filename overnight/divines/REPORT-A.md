@@ -1798,3 +1798,6 @@
 
 ## 2026-10-17 22:45 CDT — alexander-cruden done
 - `pipeline/alexander-cruden_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — robert-young-concordance done
+- `pipeline/robert-young-concordance_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

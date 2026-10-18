@@ -8645,3 +8645,17 @@ Slugs `cruden-*`. Built from title pages read for round 36.
 | A Complete Concordance to the Holy Scriptures, the ninth edition, with a life of the author by Alexander Chalmers (London: Longman and others, 1838) | have-ocr | IA `cu31924029270878` |
 | Philadelphia 1830 (from the tenth London edition); Warne's editions with Youngman's memoir (1868, 1891, 1893); the 1738 first edition and 1769 third (title pages illegible) | alternate | not shelved |
 | Copies with impossible catalogue dates (a Warne Student's Edition catalogued 1737; an RTS and a Morgan & Scott edition); Winston, Zondervan and Lutterworth printings from 1930 on | excluded | |
+
+## Robert Young (round 36, my pick, 2026-10-18)
+
+Slugs `ryoung-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Analytical Concordance to the Bible, fourth revised edition (Edinburgh: George Adam Young; New York: I. K. Funk, 1881) | have-ocr | IA `analyticalconcor00inyoun` |
+| The Holy Bible, consisting of the Old and New Covenants, translated according to the letter and idioms of the original languages, revised edition (Edinburgh: G. A. Young, 1887) | have-ocr | IA `holybible0000robe` |
+| Hebrew and Chaldee Vocabulary (Edinburgh: George Adam Young, 1871) | have-ocr | IA `hebrewandchalde00youngoog` |
+| Twofold Concordance to the New Testament (Edinburgh: George Adam Young, 1884) | have-ocr | IA `twofoldconcorda00youngoog` |
+| Grammatical Analysis of the Hebrew, Chaldee, and Greek Scriptures: the Book of Psalms in Hebrew (Edinburgh: George Adam Young, 1885) | have-ocr | IA `grammaticalanal00youngoog` |
+| Other Analytical Concordance editions (1881; Dodd, Mead students' edition; the seventh with Thomas Nicol's supplement); the 1898 Literal Translation; his Gujarati Exercises; the posthumous Variations of the Alexandrian, Vatican and Sinaitic MSS. (1912) | alternate | not shelved |
+| The Student's Concordance to the Revised Version and the Rabbinical Vocabulary: no compiler named on the title page; modern digital files of the Literal Translation | excluded | |

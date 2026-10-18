@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Robert Young (1822-1888), Edinburgh printer, orientalist and Bible translator, for the Word Hoard: his Analytical Concordance to the Bible (fourth revised edition, 1881), the Literal Translation of the Holy Bible (revised edition, 1887), the Hebrew and Chaldee Vocabulary (1871), the Twofold Concordance to the New Testament (1884) and the Grammatical Analysis of the Psalms in Hebrew (1885), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "young"
+ ],
+ "_surname": [
+  "robert young"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ryoung-analytical-concordance": [
+   "analyticalconcor00inyoun",
+   "Analytical Concordance to the Bible, fourth revised edition (Edinburgh: George Adam Young; New York: I. K. Funk, 1881)"
+  ],
+  "ryoung-literal-translation": [
+   "holybible0000robe",
+   "The Holy Bible, consisting of the Old and New Covenants, translated according to the letter and idioms of the original languages, revised edition (Edinburgh: G. A. Young, 1887)"
+  ],
+  "ryoung-hebrew-chaldee-vocabulary": [
+   "hebrewandchalde00youngoog",
+   "Hebrew and Chaldee Vocabulary (Edinburgh: George Adam Young, 1871)"
+  ],
+  "ryoung-twofold-concordance": [
+   "twofoldconcorda00youngoog",
+   "Twofold Concordance to the New Testament (Edinburgh: George Adam Young, 1884)"
+  ],
+  "ryoung-psalms-analysis": [
+   "grammaticalanal00youngoog",
+   "Grammatical Analysis of the Hebrew, Chaldee, and Greek Scriptures: the Book of Psalms in Hebrew (Edinburgh: George Adam Young, 1885)"
+  ]
+ },
+ "_alternates": {
+  "ryoung-copies": "Other Analytical Concordance editions (1881; Dodd, Mead students' edition; the seventh with Thomas Nicol's supplement); the 1898 Literal Translation; his Gujarati Exercises; the posthumous Variations of the Alexandrian, Vatican and Sinaitic MSS. (1912)"
+ },
+ "_excluded": {
+  "ryoung-other": "The Student's Concordance to the Revised Version and the Rabbinical Vocabulary: no compiler named on the title page; modern digital files of the Literal Translation"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "ryoung-first": "The 1862 first edition of the Literal Translation: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "ryoung-analytical-concordance": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "Copyright status reviewed by UF staff - Out of copyright",
+   "ia_lending": null
+  },
+  "ryoung-literal-translation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryoung-hebrew-chaldee-vocabulary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryoung-twofold-concordance": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryoung-psalms-analysis": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
