@@ -9148,6 +9148,19 @@ Slugs `puente-*`. Built from title pages read for round 37.
 | The Life of Father Balthasar Alvarez, vol. I, translated from the French (London: Thomas Richardson and Son, MDCCCLXVIII) | have-ocr | IA `lifeoffatherbalt01puen` |
 | Vols. II-VI of the 1852 set (meditationsonthe02-05puenuoft, meditationsonmys06puenuoft; title pages not read); vol. II of the Alvarez Life; Barraud's reworking (1916) | alternate | not shelved |
 | A Treatise on Mental Prayer (1929, an adaptation by a Benedictine); MeditationsOnTheMysteriesOfOurHolyV3 (it is Andrade's); 1930-31 printings | excluded | |
+
+## Francisco Arias (round 37, my pick, 2026-10-18)
+
+Slugs `arias-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Litle Memorial, concerning the good and fruitfull use of the Sacraments (Roan; the title page OCR reads 1652, catalogued 1602) | have-ocr | IA `bim_early-english-books-1475-1640_the-little-memorial-conc_arias-francisco_1602` |
+| A Treatise of Patience, from the second part of the Imitation of Christ (catalogued 1630) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-of-patience-_arias-francis_1630` |
+| A Treatise of Benignity, from the second part of the Imitation of Christ (with permission of Superiours, 1630) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-of-benignity_arias-francisco_1630` |
+| The Charity of Jesus Christ (London: St Joseph's Library; Burns and Oates, 1880) | have-ocr | IA `charityofjesusch00ariauoft` |
+| The Virtues of Mary, Mother of God, preface by George Porter (London: Burns and Oates; title page undated, catalogued 1890) | have-ocr | IA `tvomfrfasj` |
+| The Litle Memorial (1620, title page illegible); CharityOfJesusChrist (another 1880 copy) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

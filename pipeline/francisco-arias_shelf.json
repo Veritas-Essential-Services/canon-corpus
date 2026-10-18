@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Francisco Arias (1533-1605), Spanish Jesuit, for the Word Hoard: The Litle Memorial concerning the use of the Sacraments (Rouen), the Treatises of Patience and of Benignity from his Imitation of Christ (1630), The Charity of Jesus Christ (1880) and The Virtues of Mary, Mother of God (Burns and Oates), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "arias"
+ ],
+ "_surname": [
+  "arias",
+  "francis arias",
+  "francisco arias"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arias-litle-memorial": [
+   "bim_early-english-books-1475-1640_the-little-memorial-conc_arias-francisco_1602",
+   "The Litle Memorial, concerning the good and fruitfull use of the Sacraments (Roan; the title page OCR reads 1652, catalogued 1602)"
+  ],
+  "arias-treatise-patience-1630": [
+   "bim_early-english-books-1475-1640_a-treatise-of-patience-_arias-francis_1630",
+   "A Treatise of Patience, from the second part of the Imitation of Christ (catalogued 1630)"
+  ],
+  "arias-treatise-benignity-1630": [
+   "bim_early-english-books-1475-1640_a-treatise-of-benignity_arias-francisco_1630",
+   "A Treatise of Benignity, from the second part of the Imitation of Christ (with permission of Superiours, 1630)"
+  ],
+  "arias-charity-jesus-1880": [
+   "charityofjesusch00ariauoft",
+   "The Charity of Jesus Christ (London: St Joseph's Library; Burns and Oates, 1880)"
+  ],
+  "arias-virtues-mary": [
+   "tvomfrfasj",
+   "The Virtues of Mary, Mother of God, preface by George Porter (London: Burns and Oates; title page undated, catalogued 1890)",
+   "s-l1600 (3)-merged (1)_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "arias-copies": "The Litle Memorial (1620, title page illegible); CharityOfJesusChrist (another 1880 copy)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "arias-litle-memorial": {
+   "author": "title page read: Composed in Spanish by the R. Father Francis ARra s [Arias] (OCR garble) of the Society of Iesus, printed at Roan"
+  }
+ },
+ "_rights_checked": {
+  "arias-litle-memorial": "title page read: translator not named; the OCR reads \"Printed at Roan, 1652\" against the catalogue's 1602, so the year is unconfirmed",
+  "arias-treatise-patience-1630": "title page read: translator not named; no imprint legible",
+  "arias-treatise-benignity-1630": "title page read: translator not named",
+  "arias-charity-jesus-1880": "title page read: translator not named; the author's name is garbled in the OCR",
+  "arias-virtues-mary": "title page read: translator not named; no year on the title page, catalogued 1890"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "arias-litle-memorial": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1602",
+   "ia_date": "1602",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the OCR reads \"Printed at Roan, 1652\" against the catalogue's 1602, so the year is unconfirmed"
+  },
+  "arias-treatise-patience-1630": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1630",
+   "ia_date": "1630",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; no imprint legible"
+  },
+  "arias-treatise-benignity-1630": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1630",
+   "ia_date": "1630",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "arias-charity-jesus-1880": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the author's name is garbled in the OCR"
+  },
+  "arias-virtues-mary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; no year on the title page, catalogued 1890"
+  }
+ }
+}
