@@ -5306,6 +5306,14 @@ Shelf: `pipeline/leslie-stephen_shelf.json`. Historian of English thought and ev
 | History of English Thought in the Eighteenth Century, vol. II (London: Smith, Elder, 1876) |  | `stephen-english-thought-18th-century-1876-v2` | have-raw (IA `historyofenglish02stepuoft`) |
 | The Science of Ethics (New York: Putnam, 1882) |  | `stephen-science-of-ethics-1882` | have-raw (IA `thescienceofethi00stepuoft`) |
 | The English Utilitarians, vol. III: John Stuart Mill (New York: Putnam; London: Duckworth, 1902) |  | `stephen-english-utilitarians-1902-v3` | have-raw (IA `cu31924092293400`) |
+| Hours in a Library, vol. 1 (new edition) |  | `stephen-hours-in-a-library-1` | have (PG 20459) |
+| Hours in a Library, vol. 2 (new edition) |  | `stephen-hours-in-a-library-2` | have (PG 30336) |
+| Hours in a Library, vol. 3 (new edition) |  | `stephen-hours-in-a-library-3` | have (PG 58625) |
+| English Literature and Society in the Eighteenth Century (1904) |  | `stephen-english-literature-and-society` | have (PG 21123) |
+| Samuel Johnson (English Men of Letters, 1878) |  | `stephen-samuel-johnson` | have (PG 11031) |
+| Alexander Pope (English Men of Letters, 1880) |  | `stephen-alexander-pope` | have (PG 19654) |
+| Swift (English Men of Letters, 1882) |  | `stephen-swift` | have (PG 41532) |
+| The Life of Sir James Fitzjames Stephen (1895) |  | `stephen-life-of-fitzjames-stephen` | have (PG 28980) |
 
 ## W. E. H. Lecky
 

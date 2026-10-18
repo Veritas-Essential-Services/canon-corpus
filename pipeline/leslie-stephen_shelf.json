@@ -1,5 +1,5 @@
 {
- "_about": "Sir Leslie Stephen (1832-1904) as historian of thought and moralist. Raw IA OCR: History of English Thought in the Eighteenth Century (London: Smith, Elder, 1876, 2 vols.), The Science of Ethics (New York: Putnam, 1882) and The English Utilitarians vol. III, John Stuart Mill (New York: Putnam; London: Duckworth, 1902). Clean Gutenberg texts: The English Utilitarians vols. I-II (London: Duckworth, 1900) and Social Rights and Duties, addresses to ethical societies (London: Swan Sonnenschein, 1896, 2 vols.). His literary biographies and essays are not taken here. US public domain. No uids minted.",
+ "_about": "Sir Leslie Stephen (1832-1904) as historian of thought and moralist. Raw IA OCR: History of English Thought in the Eighteenth Century (London: Smith, Elder, 1876, 2 vols.), The Science of Ethics (New York: Putnam, 1882) and The English Utilitarians vol. III, John Stuart Mill (New York: Putnam; London: Duckworth, 1902). Clean Gutenberg texts: The English Utilitarians vols. I-II (London: Duckworth, 1900) and Social Rights and Duties, addresses to ethical societies (London: Swan Sonnenschein, 1896, 2 vols.). His literary biographies and essays are not taken here. US public domain. Added in round 2026-10-18ca: his criticism and lives, clean Gutenberg: Hours in a Library (3 vols), English Literature and Society in the Eighteenth Century, the English Men of Letters lives of Johnson, Pope and Swift, and the life of his brother Fitzjames Stephen. No uids minted.",
  "_author": "Leslie Stephen",
  "_name_words": [
   "leslie",
@@ -26,6 +26,38 @@
   "stephen-social-rights-and-duties-1896-v2": [
    36957,
    "Social Rights and Duties, vol. II (London: Swan Sonnenschein, 1896)"
+  ],
+  "stephen-hours-in-a-library-1": [
+   20459,
+   "Hours in a Library, vol. 1 (new edition)"
+  ],
+  "stephen-hours-in-a-library-2": [
+   30336,
+   "Hours in a Library, vol. 2 (new edition)"
+  ],
+  "stephen-hours-in-a-library-3": [
+   58625,
+   "Hours in a Library, vol. 3 (new edition)"
+  ],
+  "stephen-english-literature-and-society": [
+   21123,
+   "English Literature and Society in the Eighteenth Century (1904)"
+  ],
+  "stephen-samuel-johnson": [
+   11031,
+   "Samuel Johnson (English Men of Letters, 1878)"
+  ],
+  "stephen-alexander-pope": [
+   19654,
+   "Alexander Pope (English Men of Letters, 1880)"
+  ],
+  "stephen-swift": [
+   41532,
+   "Swift (English Men of Letters, 1882)"
+  ],
+  "stephen-life-of-fitzjames-stephen": [
+   28980,
+   "The Life of Sir James Fitzjames Stephen (1895)"
   ]
  },
  "internet_archive": {
@@ -76,6 +108,78 @@
    "pg_translator": null
   },
   "stephen-social-rights-and-duties-1896-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-hours-in-a-library-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-hours-in-a-library-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-hours-in-a-library-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-english-literature-and-society": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-samuel-johnson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-alexander-pope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-swift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-life-of-fitzjames-stephen": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
