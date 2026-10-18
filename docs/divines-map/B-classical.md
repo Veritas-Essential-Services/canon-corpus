@@ -6252,7 +6252,8 @@ Shelf: `pipeline/vladimir-soloviev_shelf.json`. Vladimir Solovyov (1853-1900). W
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | War and Christianity: Three Conversations (Constable, 1915) | Edward Cazalet, W. J. Barnes and H. H. Haynes | `soloviev-war-and-christianity-1915` | have-raw (IA `warchristianityf0000solo`) |
-| The Justification of the Good, tr. Nathalie A. Duddington (Constable, 1918) | Nathalie A. Duddington | `soloviev-justification-of-the-good-1918` | have-raw (IA `thejustification00solouoft`) |
+
+Excluded: soloviev-justification-of-the-good-1918 (duplicate: singles-ideas-3 (lane C) already holds the same Duddington translation as PG 79715)
 
 ## Joseph Joubert (Pensées)
 
@@ -6416,7 +6417,8 @@ Shelf: `pipeline/giovanni-gentile_shelf.json`. Giovanni Gentile (1875-1944). The
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Theory of Mind as Pure Act, tr. H. Wildon Carr (Macmillan, 1922) | H. Wildon Carr | `gentile-theory-of-mind-pure-act-1922` | have-raw (IA `thetheoryofminda00gentuoft`) |
-| The Reform of Education, tr. Dino Bigongiari (1922; Benn issue 1923) | Dino Bigongiari | `gentile-reform-of-education-1922` | have-raw (IA `reformofeducatio00gent`) |
+
+Excluded: gentile-reform-of-education-1922 (duplicate: singles-ideas-2 (lane C) already holds the same Bigongiari translation as PG 36762)
 
 ## T. E. Hulme (Speculations)
 
