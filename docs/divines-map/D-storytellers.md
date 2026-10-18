@@ -9694,6 +9694,29 @@ Shelf: `pipeline/hawthorne-works_shelf.json` (2026-10-17; added at the coordinat
 | pg-31112 | excluded | PG 31112 The Scarlet Stigma: a drama by James Edgar Smith founded on the novel. |
 | pg-25344 | excluded | PG 25344 The Scarlet Letter (illustrated): a second edition; the reading-list hawthorne-rl shelf holds the novel. |
 
+## Stephen Crane
+
+Shelf: `pipeline/stephen-crane-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maggie: A Girl of the Streets | have | PG 447, `scrane-maggie` (720 units) |
+| The Red Badge of Courage: An Episode of the American Civil War | have | PG 463, `scrane-red-badge-of-courage` (983 units) |
+| Active Service | have | PG 2364, `scrane-active-service` (1299 units) |
+| The Little Regiment, and Other Episodes of the American Civil War | have | PG 6979, `scrane-little-regiment-and-other-episodes-of-the-american-ci` (765 units) |
+| Men, Women, and Boats | have | PG 7239, `scrane-men-women-and-boats` (1193 units) |
+| War is Kind | have | PG 9870, `scrane-war-is-kind` (86 units) |
+| The Third Violet | have | PG 19593, `scrane-third-violet` (1384 units) |
+| The Monster and Other Stories | have | PG 31189, `scrane-monster-and-other-stories` (884 units) |
+| Last Words | have | PG 33579, `scrane-last-words` (1403 units) |
+| Whilomville Stories | have | PG 39644, `scrane-whilomville-stories` (967 units) |
+| The Black Riders, and Other Lines | have | PG 40786, `scrane-black-riders-and-other-lines` (125 units) |
+| Wounds in the rain: War stories | have | PG 43706, `scrane-wounds-in-the-rain` (1082 units) |
+| The Open Boat and Other Stories | have | PG 45524, `scrane-open-boat-and-other-stories` (1424 units) |
+| pg-59706 | excluded | PG 59706: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 31488: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 73: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

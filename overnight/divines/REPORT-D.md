@@ -1443,3 +1443,6 @@
 
 ## 2026-10-17 20:18 CDT — hawthorne-works: done
 - hawthorne-works: new shelf, 78 Gutenberg books, 19,898 units, 1536 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — stephen-crane-works: done
+- stephen-crane-works: new shelf, 13 Gutenberg books, 12,315 units, 455 ~2 ids; verify 0 mismatches, 0 rights flags.
