@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Karl Joseph von Hefele (1809-1893, Bishop of Rottenburg) in English for the Word Hoard: A History of the Councils of the Church, 5 vols to A.D. 787 (Edinburgh: T. & T. Clark, 1871-1896), tr. W. R. Clark and H. N. Oxenham, and the Life of Cardinal Ximenez, tr. Canon Dalton (1860), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hefele"
+ ],
+ "_surname": [
+  "hefele",
+  "von hefele",
+  "charles joseph hefele"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hefele-councils-1": [
+   "ahistorycouncil01hefegoog",
+   "A History of the Christian Councils, vol. I, to A.D. 325, tr. William R. Clark (Edinburgh: T. & T. Clark, MDCCCLXXI)"
+  ],
+  "hefele-councils-2": [
+   "historyofcouncil02hefeuoft",
+   "A History of the Councils of the Church, vol. II, A.D. 326-429, tr. Henry Nutcombe Oxenham (Edinburgh: T. & T. Clark, 1876)"
+  ],
+  "hefele-councils-3": [
+   "ahistorycouncil00hefegoog",
+   "A History of the Councils of the Church, vol. III, A.D. 431-451, ed. by the editor of Hagenbach's History of Doctrines (Edinburgh: T. & T. Clark, 1883)"
+  ],
+  "hefele-councils-4": [
+   "ahistoryofthecou04hefeuoft",
+   "A History of the Councils of the Church, vol. IV, A.D. 451-680, tr. William R. Clark (Edinburgh: T. & T. Clark, 1895)"
+  ],
+  "hefele-councils-5": [
+   "ahistoryofthecou05hefeuoft",
+   "A History of the Councils of the Church, vol. V, A.D. 626-787, tr. William R. Clark (Edinburgh: T. & T. Clark, 1896)"
+  ],
+  "hefele-ximenez": [
+   "lifeofcardinalx00hefe",
+   "The Life of Cardinal Ximenez, tr. Canon Dalton (London: Catholic Publishing & Bookselling Company, 1860)"
+  ]
+ },
+ "_alternates": {
+  "hefele-copies": "Vol. I second edition (1872, 1883, 1894); other copies of vols II-V; Ximenez second edition (1885)"
+ },
+ "_excluded": {
+  "hefele-ams": "AMS Press reprints (1972)"
+ },
+ "_rights_checked": {
+  "hefele-councils-3": "title page read: 'Edited by the Editor of Hagenbach's History of Doctrines'; no translator named"
+ },
+ "_pending": {},
+ "_translators": {
+  "hefele-councils-1": "clark",
+  "hefele-councils-2": "oxenham",
+  "hefele-councils-4": "clark",
+  "hefele-councils-5": "clark",
+  "hefele-ximenez": "dalton"
+ },
+ "_checks": {
+  "hefele-councils-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "translator_claimed": "clark",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hefele-councils-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "translator_claimed": "oxenham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1872-1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hefele-councils-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Edited by the Editor of Hagenbach's History of Doctrines'; no translator named"
+  },
+  "hefele-councils-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "translator_claimed": "clark",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hefele-councils-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "translator_claimed": "clark",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hefele-ximenez": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hefele",
+   "translator_claimed": "dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1324,3 +1324,6 @@
 
 ## 2026-10-17 19:56 CDT — auguste-sabatier done
 - `pipeline/auguste-sabatier_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — karl-joseph-von-hefele done
+- `pipeline/karl-joseph-von-hefele_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.

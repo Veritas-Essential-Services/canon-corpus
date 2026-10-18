@@ -6352,6 +6352,21 @@ Slugs `sabatier-*`. Paris Protestant theologian, in English.
 | PG 38446: Outlines (Pott, 1910), translator not named | alternate | not shelved |
 | Pott issues of the Apostle Paul and Outlines; the W&N Religions of Authority (1904) | alternate | not shelved |
 | Paul Sabatier's Life of St Francis (lane C's houghton shelf); a mis-catalogued Atonement scan | excluded | |
+
+## Karl Joseph von Hefele (round 29, my pick, 2026-10-18)
+
+Slugs `hefele-*`. A History of the Councils of the Church in Clark's English volumes.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Christian Councils, vol. I, to A.D. 325, tr. William R. Clark (Edinburgh: T. & T. Clark, MDCCCLXXI) | have-ocr | IA `ahistorycouncil01hefegoog` |
+| A History of the Councils of the Church, vol. II, A.D. 326-429, tr. Henry Nutcombe Oxenham (Edinburgh: T. & T. Clark, 1876) | have-ocr | IA `historyofcouncil02hefeuoft` |
+| A History of the Councils of the Church, vol. III, A.D. 431-451, ed. by the editor of Hagenbach's History of Doctrines (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `ahistorycouncil00hefegoog` |
+| A History of the Councils of the Church, vol. IV, A.D. 451-680, tr. William R. Clark (Edinburgh: T. & T. Clark, 1895) | have-ocr | IA `ahistoryofthecou04hefeuoft` |
+| A History of the Councils of the Church, vol. V, A.D. 626-787, tr. William R. Clark (Edinburgh: T. & T. Clark, 1896) | have-ocr | IA `ahistoryofthecou05hefeuoft` |
+| The Life of Cardinal Ximenez, tr. Canon Dalton (London: Catholic Publishing & Bookselling Company, 1860) | have-ocr | IA `lifeofcardinalx00hefe` |
+| Vol. I second edition (1872, 1883, 1894); other copies of vols II-V; Ximenez second edition (1885) | alternate | not shelved |
+| AMS Press reprints (1972) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
