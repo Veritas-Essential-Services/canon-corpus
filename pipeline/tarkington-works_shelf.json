@@ -155,6 +155,20 @@
   "btarkington-collectors-whatnot": [
    70597,
    "The collector's whatnot (with Hugh MacNair Kahler and Kenneth L. Roberts)"
+  ],
+  "btarkington-monsieur-beaucaire": [
+   1983,
+   "Monsieur Beaucaire",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Z]?[a-z]+)*\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter One\\.?$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
@@ -379,6 +393,15 @@
    "pg_translator": null
   },
   "btarkington-collectors-whatnot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "booth tarkington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "btarkington-monsieur-beaucaire": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
