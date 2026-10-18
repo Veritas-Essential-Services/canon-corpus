@@ -8,7 +8,8 @@
   "christmas"
  ],
  "_surname": [
-  "kate douglas wiggin"
+  "kate douglas wiggin",
+  "kate douglas smith wiggin"
  ],
  "ccel": {},
  "gutenberg": {
@@ -187,6 +188,21 @@
   "wiggin-quilt-of-happiness": [
    69395,
    "The quilt of happiness; Creeping Jenny; and other New England stories"
+  ],
+  "wiggin-old-peabody-pew": [
+   1902,
+   "The Old Peabody Pew: A Christmas Romance of a Country Church"
+  ],
+  "wiggin-penelopes-postscripts": [
+   1868,
+   "Penelope's Postscripts",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-diary-of-a-goose-girl": [
+   1867,
+   "The Diary of a Goose Girl"
   ]
  },
  "internet_archive": {},
@@ -200,7 +216,7 @@
  "_checks": {
   "wiggin-rebecca-of-sunnybrook-farm": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -209,7 +225,7 @@
   },
   "wiggin-new-chronicles-of-rebecca": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -218,7 +234,7 @@
   },
   "wiggin-birds-christmas-carol": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -227,7 +243,7 @@
   },
   "wiggin-mother-careys-chickens": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -236,7 +252,7 @@
   },
   "wiggin-timothys-quest": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -245,7 +261,7 @@
   },
   "wiggin-polly-olivers-problem": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -254,7 +270,7 @@
   },
   "wiggin-village-watch-tower": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -263,7 +279,7 @@
   },
   "wiggin-rose-o-the-river": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -272,7 +288,7 @@
   },
   "wiggin-penelopes-experiences-in-scotland-being-extracts-from": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -281,7 +297,7 @@
   },
   "wiggin-penelopes-english-experiences-being-extracts-from-the": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -290,7 +306,7 @@
   },
   "wiggin-penelopes-irish-experiences": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -299,7 +315,7 @@
   },
   "wiggin-a-cathedral-courtship": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -308,7 +324,7 @@
   },
   "wiggin-story-of-waitstill-baxter": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -317,7 +333,7 @@
   },
   "wiggin-flag-raising": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -326,7 +342,7 @@
   },
   "wiggin-a-summer-in-a-canyon": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -335,7 +351,7 @@
   },
   "wiggin-a-village-stradivarius": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -344,7 +360,7 @@
   },
   "wiggin-marm-lisa": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -353,7 +369,7 @@
   },
   "wiggin-homespun-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -362,7 +378,7 @@
   },
   "wiggin-bluebeard": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -371,7 +387,7 @@
   },
   "wiggin-story-hour": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -380,7 +396,7 @@
   },
   "wiggin-childrens-rights": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -389,7 +405,7 @@
   },
   "wiggin-story-of-patsy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -398,7 +414,7 @@
   },
   "wiggin-romance-of-a-christmas-card": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -407,7 +423,7 @@
   },
   "wiggin-girl-and-the-kingdom-learning-to-teach": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -416,7 +432,7 @@
   },
   "wiggin-ladies-in-waiting": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -425,7 +441,7 @@
   },
   "wiggin-penelopes-progress-being-such-extracts-from-the-commo": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -434,7 +450,7 @@
   },
   "wiggin-girl-scouts": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -443,7 +459,7 @@
   },
   "wiggin-robinetta": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -452,7 +468,7 @@
   },
   "wiggin-susanna-and-sue": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -461,7 +477,7 @@
   },
   "wiggin-affair-at-the-inn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -470,7 +486,7 @@
   },
   "wiggin-half-a-dozen-housekeepers": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -479,7 +495,34 @@
   },
   "wiggin-quilt-of-happiness": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-old-peabody-pew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kate douglas smith wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-penelopes-postscripts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-diary-of-a-goose-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
