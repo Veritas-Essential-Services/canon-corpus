@@ -1,0 +1,33 @@
+{
+ "_about": "Constantin-François Chassebœuf, comte de Volney (1757-1820): The Ruins, or Meditation on the Revolutions of Empires, and The Law of Nature, in the English translation published in Paris in 1802 under Volney's supervision (made by Volney with the aid of Joel Barlow, as the edition's preface says; Jefferson's share in it is not mentioned in this text), with Volney's answer to Priestley and Daru's notice (New York: Twentieth Century Publishing Co., 1890), clean Gutenberg text. US public domain. No uids minted.",
+ "_author": "Volney",
+ "_name_words": [
+  "constantin",
+  "francois",
+  "chasseboeuf",
+  "volney"
+ ],
+ "_surname": [
+  "volney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "volney-ruins-1890": [
+   1397,
+   "The Ruins, or Meditation on the Revolutions of Empires, and The Law of Nature (Twentieth Century Pub. Co., 1890)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "volney-ruins-1890": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "volney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

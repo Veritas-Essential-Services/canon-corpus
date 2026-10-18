@@ -6207,6 +6207,7 @@ Shelf: `pipeline/volney_shelf.json`. Volney (1757-1820). The Ruins and The Law o
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Ruins, or Meditation on the Revolutions of Empires, and The Law of Nature (Twentieth Century Pub. Co., 1890) |  | `volney-ruins-1890` | have (PG 1397) |
 
 ## James Fitzjames Stephen (Liberty, Equality, Fraternity)
 
