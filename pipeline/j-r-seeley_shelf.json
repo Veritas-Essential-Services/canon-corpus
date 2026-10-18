@@ -1,5 +1,5 @@
 {
- "_about": "Sir John Robert Seeley (1834-1895), Regius Professor of Modern History at Cambridge: The Expansion of England, two courses of lectures (first 1883; this copy London: Macmillan, 1899), raw IA OCR, clean 0.95. Not taken here: Ecce Homo and Natural Religion, his religious books. US public domain. No uids minted.",
+ "_about": "Sir John Robert Seeley (1834-1895), Regius Professor of Modern History at Cambridge: The Expansion of England, two courses of lectures (first 1883; this copy London: Macmillan, 1899), raw IA OCR, clean 0.95. Not taken here: Ecce Homo and Natural Religion, his religious books. US public domain. Added in round 2026-10-17bg: Introduction to Political Science, two series of lectures, edited by Henry Sidgwick (London: Macmillan, first edition 1896; this copy the 1908 reprint), raw IA OCR, clean 0.95. No uids minted.",
  "_author": "J. R. Seeley",
  "_name_words": [
   "john",
@@ -15,6 +15,10 @@
   "seeley-expansion-of-england-1883": [
    "expansionenglan02seelgoog",
    "The Expansion of England (Macmillan, 1883; this copy 1899)"
+  ],
+  "seeley-introduction-political-science-1896": [
+   "introtopolitical00seeliala",
+   "Introduction to Political Science, ed. Henry Sidgwick (Macmillan, 1896; reprint 1908)"
   ]
  },
  "_excluded": {},
@@ -27,6 +31,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1899",
    "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seeley-introduction-political-science-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "seeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
