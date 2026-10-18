@@ -264,3 +264,4 @@
 - 21:47 round bt: 10 shelves (Galton, Sully, Jacks, Palmer, Fullerton, Edman, Durant, Marett, Westermarck, Tylor). Durant's Story of Philosophy wanted in a pre-1931 printing.
 - 21:53 round bu: 8 shelves (J. S. Mackenzie, Webb, Cook Wilson, Joseph, Maudsley, Boodin, A. K. Rogers, Fite). Wanted: Webb's History of Philosophy with a printed year; Statement and Inference vol. II.
 - 21:59 round bv: 13 shelves of political and social thought (Lippmann, Croly, Bourne, Wilson, Angell, Draper, A. D. White, Addams, Babbitt, Lowell, Ross, W. I. Thomas, Beard).
+- 22:04 round bw: 12 shelves (Jefferson, Hamilton/Federalist, Madison, John Adams, Ingersoll, Gilman, Goldman, Carpenter, Webbs, Spooner, Mumford, Ellis).

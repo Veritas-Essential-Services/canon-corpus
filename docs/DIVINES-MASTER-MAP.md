@@ -15218,6 +15218,169 @@ Shelf: `pipeline/charles-a-beard_shelf.json`. One book, 1913.
 |---|---|---|---|
 | An Economic Interpretation of the Constitution of the United States (1913) |  | `beard-economic-interpretation-constitution` | have (PG 70677) |
 
+## Thomas Jefferson (political writings)
+
+Shelf: `pipeline/thomas-jefferson_shelf.json`. Thirteen volumes: the Washington edition of the Writings (1853-54) and Randolph's Memoir (1829).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 1 of 9 (1853-54) |  | `jefferson-writings-washington-1` | have (PG 45847) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 2 of 9 (1853-54) |  | `jefferson-writings-washington-2` | have (PG 50046) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 3 of 9 (1853-54) |  | `jefferson-writings-washington-3` | have (PG 52878) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 4 of 9 (1853-54) |  | `jefferson-writings-washington-4` | have (PG 53603) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 5 of 9 (1853-54) |  | `jefferson-writings-washington-5` | have (PG 53767) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 6 of 9 (1853-54) |  | `jefferson-writings-washington-6` | have (PG 55075) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 7 of 9 (1853-54) |  | `jefferson-writings-washington-7` | have (PG 56035) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 8 of 9 (1853-54) |  | `jefferson-writings-washington-8` | have (PG 56313) |
+| The Writings of Thomas Jefferson, ed. H. A. Washington, vol. 9 of 9 (1853-54) |  | `jefferson-writings-washington-9` | have (PG 56578) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 1 (1829) |  | `jefferson-memoir-correspondence-1` | have (PG 16781) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 2 (1829) |  | `jefferson-memoir-correspondence-2` | have (PG 16782) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 3 (1829) |  | `jefferson-memoir-correspondence-3` | have (PG 16783) |
+| Memoir, Correspondence, and Miscellanies, ed. T. J. Randolph, vol. 4 (1829) |  | `jefferson-memoir-correspondence-4` | have (PG 16784) |
+
+## Alexander Hamilton (The Federalist)
+
+Shelf: `pipeline/alexander-hamilton_shelf.json`. Two volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Federalist Papers (1787-88; with James Madison and John Jay) |  | `hamilton-federalist` | have (PG 1404) |
+| The Works of Alexander Hamilton, vol. 1 |  | `hamilton-works-1` | have (PG 71719) |
+
+## James Madison (the Federal Convention)
+
+Shelf: `pipeline/james-madison_shelf.json`. Two volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 1 |  | `madison-debates-federal-convention-1` | have (PG 40861) |
+| The Journal of the Debates in the Convention which Framed the Constitution, vol. 2 |  | `madison-debates-federal-convention-2` | have (PG 41095) |
+
+## John Adams (constitutional theory)
+
+Shelf: `pipeline/john-adams_shelf.json`. Two books.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Novanglus, and Massachusettensis (1774-75; with Daniel Leonard) |  | `adams-novanglus` | have (PG 45205) |
+| Familiar Letters of John Adams and his Wife Abigail Adams (1876) |  | `adams-familiar-letters` | have (PG 34123) |
+
+## Robert G. Ingersoll (freethought)
+
+Shelf: `pipeline/robert-g-ingersoll_shelf.json`. The twelve-volume Dresden edition (1900).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 1 of 12 (1900) |  | `ingersoll-works-dresden-01` | have (PG 38801) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 2 of 12 (1900) |  | `ingersoll-works-dresden-02` | have (PG 38802) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 3 of 12 (1900) |  | `ingersoll-works-dresden-03` | have (PG 38803) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 4 of 12 (1900) |  | `ingersoll-works-dresden-04` | have (PG 38804) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 5 of 12 (1900) |  | `ingersoll-works-dresden-05` | have (PG 38805) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 6 of 12 (1900) |  | `ingersoll-works-dresden-06` | have (PG 38806) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 7 of 12 (1900) |  | `ingersoll-works-dresden-07` | have (PG 38807) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 8 of 12 (1900) |  | `ingersoll-works-dresden-08` | have (PG 38808) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 9 of 12 (1900) |  | `ingersoll-works-dresden-09` | have (PG 38809) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 10 of 12 (1900) |  | `ingersoll-works-dresden-10` | have (PG 38810) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 11 of 12 (1900) |  | `ingersoll-works-dresden-11` | have (PG 38811) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 12 of 12 (1900) |  | `ingersoll-works-dresden-12` | have (PG 38812) |
+
+## Charlotte Perkins Gilman (social theory)
+
+Shelf: `pipeline/charlotte-perkins-gilman_shelf.json`. Five books, 1898-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Women and Economics (1898) |  | `gilman-women-and-economics` | have (PG 57913) |
+| Concerning Children (1900) |  | `gilman-concerning-children` | have (PG 40481) |
+| The Home, its Work and Influence (1903) |  | `gilman-the-home` | have (PG 44481) |
+| Human Work (1904) |  | `gilman-human-work` | have (PG 64098) |
+| The Man-Made World, or Our Androcentric Culture (1911) |  | `gilman-man-made-world` | have (PG 3015) |
+
+## Emma Goldman (anarchism)
+
+Shelf: `pipeline/emma-goldman_shelf.json`. Six books, 1910-1924.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Anarchism and Other Essays (1910) |  | `goldman-anarchism-and-other-essays` | have (PG 2162) |
+| Marriage and Love (1911) |  | `goldman-marriage-and-love` | have (PG 20715) |
+| The Social Significance of the Modern Drama (1914) |  | `goldman-social-significance-modern-drama` | have (PG 43490) |
+| Deportation, its Meaning and Menace (1919; with Alexander Berkman) |  | `goldman-deportation` | have (PG 68442) |
+| My Disillusionment in Russia (1923) |  | `goldman-my-disillusionment-in-russia` | have (PG 60315) |
+| My Further Disillusionment in Russia (1924) |  | `goldman-my-further-disillusionment` | have (PG 74192) |
+
+## Edward Carpenter (socialism and sexuality)
+
+Shelf: `pipeline/edward-carpenter_shelf.json`. Ten books, 1889-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Civilisation, its Cause and Cure (1889) |  | `carpenter-civilisation-cause-and-cure` | have (PG 44094) |
+| Sex-Love, and its Place in a Free Society (1894) |  | `carpenter-sex-love` | have (PG 37356) |
+| Marriage in Free Society (1894) |  | `carpenter-marriage-in-free-society` | have (PG 40209) |
+| Love's Coming-of-Age (1896) |  | `carpenter-loves-coming-of-age` | have (PG 63081) |
+| The Intermediate Sex (1908) |  | `carpenter-intermediate-sex` | have (PG 53763) |
+| The Drama of Love and Death (1912) |  | `carpenter-drama-of-love-and-death` | have (PG 44883) |
+| The Healing of Nations (1915) |  | `carpenter-healing-of-nations` | have (PG 10097) |
+| Never Again! (1916) |  | `carpenter-never-again` | have (PG 2990) |
+| My Days and Dreams (1916) |  | `carpenter-my-days-and-dreams` | have (PG 78612) |
+| Pagan and Christian Creeds (1920) |  | `carpenter-pagan-and-christian-creeds` | have (PG 1561) |
+
+## Sidney and Beatrice Webb (Fabian socialism)
+
+Shelf: `pipeline/sidney-webb_shelf.json`. Three books, 1889-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fabian Essays in Socialism (1889; ed. Bernard Shaw) |  | `webb-fabian-essays` | have (PG 69088) |
+| The History of Trade Unionism (with Beatrice Webb; revised edition) |  | `webb-history-of-trade-unionism` | have (PG 66887) |
+| English Poor Law Policy (1910; with Beatrice Webb) |  | `webb-english-poor-law-policy` | have (PG 43472) |
+
+## Lysander Spooner (individualist anarchism)
+
+Shelf: `pipeline/lysander-spooner_shelf.json`. Six works, 1845-1886.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Unconstitutionality of Slavery (1845) |  | `spooner-unconstitutionality-of-slavery` | have (PG 31844) |
+| An Essay on the Trial by Jury (1852) |  | `spooner-trial-by-jury` | have (PG 1201) |
+| A New Banking System (1873) |  | `spooner-new-banking-system` | have (PG 34187) |
+| No Treason, no. VI: The Constitution of No Authority (1870) |  | `spooner-no-treason` | have (PG 36145) |
+| A Letter to Thomas F. Bayard (1882) |  | `spooner-letter-to-bayard` | have (PG 36161) |
+| A Letter to Grover Cleveland (1886) |  | `spooner-letter-to-cleveland` | have (PG 35016) |
+
+## Lewis Mumford (utopias and the city)
+
+Shelf: `pipeline/lewis-mumford_shelf.json`. Three books, 1922-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Story of Utopias (1922) |  | `mumford-story-of-utopias` | have (PG 75654) |
+| Sticks and Stones (1924) |  | `mumford-sticks-and-stones` | have (PG 64629) |
+| Herman Melville (1929) |  | `mumford-herman-melville` | have (PG 78016) |
+
+## Havelock Ellis (psychology and culture)
+
+Shelf: `pipeline/havelock-ellis_shelf.json`. Fifteen volumes, 1890-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The New Spirit (third edition) |  | `ellis-new-spirit` | have (PG 55878) |
+| The Criminal (1890) |  | `ellis-criminal` | have (PG 44500) |
+| Affirmations (1898) |  | `ellis-affirmations` | have (PG 76076) |
+| Studies in the Psychology of Sex, vol. 1 |  | `ellis-psychology-of-sex-1` | have (PG 13610) |
+| Studies in the Psychology of Sex, vol. 2 |  | `ellis-psychology-of-sex-2` | have (PG 13611) |
+| Studies in the Psychology of Sex, vol. 3 |  | `ellis-psychology-of-sex-3` | have (PG 13612) |
+| Studies in the Psychology of Sex, vol. 4 |  | `ellis-psychology-of-sex-4` | have (PG 13613) |
+| Studies in the Psychology of Sex, vol. 5 |  | `ellis-psychology-of-sex-5` | have (PG 13614) |
+| Studies in the Psychology of Sex, vol. 6 |  | `ellis-psychology-of-sex-6` | have (PG 13615) |
+| The World of Dreams (1911) |  | `ellis-world-of-dreams` | have (PG 59214) |
+| The Task of Social Hygiene (1912) |  | `ellis-task-of-social-hygiene` | have (PG 22090) |
+| Impressions and Comments (1914) |  | `ellis-impressions-and-comments` | have (PG 8125) |
+| Essays in War-Time (1916) |  | `ellis-essays-in-war-time` | have (PG 9887) |
+| Little Essays of Love and Virtue (1922) |  | `ellis-little-essays-love-virtue` | have (PG 15687) |
+| The Dance of Life (1923) |  | `ellis-dance-of-life` | have (PG 65714) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

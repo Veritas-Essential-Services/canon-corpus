@@ -1281,3 +1281,9 @@
 - Every PG id checked free across all branches first; title-level duplicate check clean
 - Dewey and Tufts's Ethics already on john-dewey, so no Tufts shelf
 - Identity check: Lowell's Government of England vol. II (name missing from title-page OCR)
+
+## 2026-10-17 22:04 CDT — Round bw: twelve new shelves
+- Jefferson (13), Hamilton with The Federalist (2), Madison's convention journal (2), John Adams (2), Ingersoll's Dresden edition (12), Gilman nonfiction (5), Goldman (6), Carpenter (10), Sidney and Beatrice Webb (3), Spooner (6), Mumford (3), Havelock Ellis (15)
+- Left out as duplicates: second Gutenberg Federalist (22788), second Trial by Jury (32984), Ingersoll single lectures already inside the Dresden volumes
+- Left out as too late: Goldman's Place of the Individual in Society (1940)
+- Fiction by Gilman and poetry by Carpenter left to other lanes
