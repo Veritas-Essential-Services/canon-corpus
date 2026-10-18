@@ -6639,3 +6639,16 @@ Slugs `janssen-*`. History of the German People, 16 volumes and index (1896-1925
 | History of the German People after the Close of the Middle Ages, vol. XVII, Index (London: Kegan Paul, Trench, Trübner; St. Louis: B. Herder, 1925) | have-ocr | IA `historyofgermanp00jansuoft` |
 | Other copies of each volume; vol. II second English edition (1905); 1912 reissues of vols 5-6 | alternate | not shelved |
 | culturalconditio0000joha: the German original, catalogued as English | excluded | |
+
+## John of Ávila (round 30, my pick, 2026-10-18)
+
+Slugs `avila-*`. Spanish mystic and preacher, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Certain Selected Spiritual Epistles, written by Doctor I. de Auila (Rouen: Iohn le Cousturier, 1631) | have-ocr | IA `bim_early-english-books-1475-1640_certain-selected-spiritu_avila-juan-de_1631_1` |
+| The Cure of Discomfort, conteyned in the Spirituall Epistles of Doctour I. de Avila (Permissu Superiorum, M.DC.XXXII) | have-ocr | IA `bim_early-english-books-1475-1640_the-cure-of-discomfort_avila-juan-de_1632` |
+| Letters of Blessed John of Avila, translated and selected by the Benedictines of Stanbrook, preface by Abbot Gasquet (London: Burns & Oates, 1904) | have-ocr | IA `lettersofblessed00johnuoft` |
+| Other 1631 Epistles printings (Rouen, Courant's widow) and Google copies; other 1904 Letters copies | alternate | not shelved |
+| Oddi's Life of him (1898) | excluded | |
+| The 1977 facsimile and post-1929 editions | excluded | |

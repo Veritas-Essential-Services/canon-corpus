@@ -1,0 +1,91 @@
+{
+ "_about": "Public-domain St John of Ávila (1500-1569, the Apostle of Andalusia) in English for the Word Hoard: Certain Selected Spiritual Epistles (Rouen, 1631), The Cure of Discomfort from the same Epistles (1632) and the Letters, translated by the Benedictines of Stanbrook (1904), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "avila",
+  "auila"
+ ],
+ "_surname": [
+  "avila",
+  "auila",
+  "john of avila",
+  "de avila"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "avila-spiritual-epistles-1631": [
+   "bim_early-english-books-1475-1640_certain-selected-spiritu_avila-juan-de_1631_1",
+   "Certain Selected Spiritual Epistles, written by Doctor I. de Auila (Rouen: Iohn le Cousturier, 1631)"
+  ],
+  "avila-cure-of-discomfort-1632": [
+   "bim_early-english-books-1475-1640_the-cure-of-discomfort_avila-juan-de_1632",
+   "The Cure of Discomfort, conteyned in the Spirituall Epistles of Doctour I. de Avila (Permissu Superiorum, M.DC.XXXII)"
+  ],
+  "avila-letters-stanbrook": [
+   "lettersofblessed00johnuoft",
+   "Letters of Blessed John of Avila, translated and selected by the Benedictines of Stanbrook, preface by Abbot Gasquet (London: Burns & Oates, 1904)"
+  ]
+ },
+ "_alternates": {
+  "avila-copies": "Other 1631 Epistles printings (Rouen, Courant's widow) and Google copies; other 1904 Letters copies"
+ },
+ "_excluded": {
+  "avila-about": "Oddi's Life of him (1898)",
+  "avila-late": "The 1977 facsimile and post-1929 editions"
+ },
+ "_identity_checked": {
+  "avila-cure-of-discomfort-1632": {
+   "author": "title page read: 'Doctour I. de Auila, Most renowned Preacher of Spaine' (OCR 'I. de Amla')"
+  }
+ },
+ "_rights_checked": {
+  "avila-spiritual-epistles-1631": "title page read: 'Doctor I. de Auila'; year OCR'd 'I 63:L' (1631); translator not named",
+  "avila-cure-of-discomfort-1632": "title page read: no place or printer legible; translator not named",
+  "avila-letters-stanbrook": "title page read: translated by 'the Benedictines of Stanbrook', a community; no personal name"
+ },
+ "_pending": {
+  "avila-audi-filia-1620": "The Audi Filia, or a Rich Cabinet (1620, EEBO): imprint and translator not legible"
+ },
+ "_translators": {},
+ "_checks": {
+  "avila-spiritual-epistles-1631": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "avila",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1631",
+   "ia_date": "1631",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Doctor I. de Auila'; year OCR'd 'I 63:L' (1631); translator not named"
+  },
+  "avila-cure-of-discomfort-1632": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1632",
+   "ia_date": "1632",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no place or printer legible; translator not named"
+  },
+  "avila-letters-stanbrook": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "avila",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translated by 'the Benedictines of Stanbrook', a community; no personal name"
+  }
+ }
+}

@@ -1384,3 +1384,6 @@
 
 ## 2026-10-17 20:25 CDT — johannes-janssen done
 - `pipeline/johannes-janssen_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for janssen-german-people-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — john-of-avila done
+- `pipeline/john-of-avila_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for avila-cure-of-discomfort-1632 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
