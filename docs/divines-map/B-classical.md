@@ -7747,6 +7747,8 @@ Shelf: `pipeline/e-e-constance-jones_shelf.json`. Two books, 1890-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Elements of Logic as a Science of Propositions (T. & T. Clark, 1890) |  | `jones-elements-of-logic-1890` | have-raw (IA `elementslogicas00jonegoog`) |
+| As I Remember (1922) |  | `jones-as-i-remember-1922` | have-raw (IA `asirememberautob0000unse`) |
 
 ## J. B. Baillie (Hegelian idealism)
 

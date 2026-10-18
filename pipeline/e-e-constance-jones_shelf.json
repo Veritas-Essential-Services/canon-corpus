@@ -1,0 +1,55 @@
+{
+ "_about": "Emily Elizabeth Constance Jones (1848-1922), Cambridge logician and Mistress of Girton College, joint translator of Lotze's Microcosmus. Raw IA OCR: Elements of Logic as a Science of Propositions (Edinburgh: T. & T. Clark, 1890); As I Remember, an autobiographical ramble (1922). Her surname is common, so only the full name form is used. US public domain. No uids minted.",
+ "_author": "E. E. Constance Jones",
+ "_name_words": [
+  "emily",
+  "elizabeth",
+  "constance",
+  "jones"
+ ],
+ "_surname": [
+  "constance jones"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jones-elements-of-logic-1890": [
+   "elementslogicas00jonegoog",
+   "Elements of Logic as a Science of Propositions (T. & T. Clark, 1890)"
+  ],
+  "jones-as-i-remember-1922": [
+   "asirememberautob0000unse",
+   "As I Remember (1922)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "jones-elements-of-logic-1890": {
+   "author": "E. E. Constance Jones (title page OCR reads 'E. E CONSTANCE 3 ONES, Lecturer in Moral Sciences, Girton College, Cambridge; joint-translator and editor of Lotze's Microcosmus'; T. & T. Clark, 1890)"
+  }
+ },
+ "_checks": {
+  "jones-elements-of-logic-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-as-i-remember-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "constance jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
