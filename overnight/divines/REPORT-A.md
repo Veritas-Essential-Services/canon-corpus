@@ -1510,3 +1510,6 @@
 
 ## 2026-10-17 20:42 CDT — paul-gerhardt done
 - `pipeline/paul-gerhardt_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — august-hermann-francke done
+- `pipeline/august-hermann-francke_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

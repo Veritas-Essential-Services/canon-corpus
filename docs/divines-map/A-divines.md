@@ -7241,3 +7241,15 @@ Slugs `gerhardt-*`. Spiritual Songs, tr. John Kelly (1867).
 | Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867) | have-clean | Gutenberg 30362 |
 | CCEL kelly/gerhardtsong; IA copies of the 1867 edition | alternate | not shelved |
 | Hewitt's study, Wildenhahn's novel and other books about him | excluded | |
+
+## August Hermann Francke (round 31, my pick, 2026-10-18)
+
+Slugs `francke-*`. Pietas Hallensis, Nicodemus, Christ the Sum of Scripture and the Guide to Scripture.
+
+| Work | Status | Where |
+|---|---|---|
+| Pietas Hallensis: or a Publick Demonstration of the Foot-steps of a Divine Being (London: J. Downing, 1705) | have-ocr | IA `bim_eighteenth-century_pietas-hallensis-or-a-p_francke-august-hermann_1705` |
+| Nicodemus: or, a Treatise against the Fear of Man, second edition (London: J. Downing, 1709) | have-ocr | IA `bim_eighteenth-century_nicodemus-or-a-treatis_francke-august-hermann_1709` |
+| Christ the Sum and Substance of all the Holy Scriptures (Christus Sacrae Scripturae Nucleus) (London: J. Downing, MDCCXXXII) | have-ocr | IA `christsumsubstan00fran` |
+| A Guide to the Reading and Study of the Holy Scriptures, third edition, tr. William Jaques (London: D. Jaques for J. Hatchard, 1819) | have-ocr | IA `guidetoreadingst00fran` |
+| Nicodemus 1706, 1801 and 1831; the Footsteps Parts II-III (1710, 1716) and later Pietas Hallensis issues; the Philadelphia Guide | alternate | not shelved |

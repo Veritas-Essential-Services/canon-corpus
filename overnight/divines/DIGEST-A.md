@@ -698,6 +698,7 @@ Nineteen authors queued in QUEUE-A.json, each built from title pages read for th
 | Johann Gerhard | johann-gerhard_shelf.json | none | 1 (Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society; title page undated, copyright 1896)) | none | none |
 | Gerhard Tersteegen | gerhard-tersteegen_shelf.json | none | 2 (Spiritual Crumbs from the Master's Table, tr. Samuel Jackson (London: John F. Shaw, MDCCCXXXVII); Life and Character of Gerhard Tersteegen, with Extracts from his Letters and Writings, tr. Samuel Jackson (London: Black, Young, and Young, 1832)) | none | anthologies; lives by others |
 | Paul Gerhardt | paul-gerhardt_shelf.json | 1 (Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867)) | none | none | books about him |
+| August Hermann Francke | august-hermann-francke_shelf.json | none | 4 (Pietas Hallensis: or a Publick Demonstration of the Foot-steps of a Divine Being (London: J. Downing, 1705); Nicodemus: or, a Treatise against the Fear of Man, second edition (London: J. Downing, 1709); Christ the Sum and Substance of all the Holy Scriptures (Christus Sacrae Scripturae Nucleus) (London: J. Downing, MDCCXXXII); A Guide to the Reading and Study of the Holy Scriptures, third edition, tr. William Jaques (London: D. Jaques for J. Hatchard, 1819)) | 1 (The Footsteps of Divine Providence (London: W. Justins, 1787 or 1788): the title page credits the work to his instrumentality, not his pen) | none |
 
 ## Paused 2026-10-10 15:12 CDT
 
