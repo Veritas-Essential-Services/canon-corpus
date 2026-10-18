@@ -5173,6 +5173,7 @@ Shelf: `pipeline/schleiermacher_shelf.json`. Romantic philosophy of religion.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893) | John Oman | `schleiermacher-oman-on-religion-1893` | have-raw (IA `onreligionspeech00schluoft`) |
+| Soliloquies: an English translation of the Monologen, with a critical introduction and appendix (Chicago: Open Court, 1926) | Horace Leland Friess | `schleiermacher-friess-soliloquies-1926` | have-raw (IA `schleiermacherss00schl`) |
 
 Pending (wishlist): The Christian Faith (1928)
 

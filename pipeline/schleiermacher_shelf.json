@@ -1,5 +1,5 @@
 {
- "_about": "Friedrich Schleiermacher (1768-1834): On Religion, speeches to its cultured despisers, translated with an introduction by John Oman (London: Kegan Paul, Trench, Trübner, 1893), raw IA OCR. Not Sir Charles Oman (oman shelf). US public domain. No uids minted.",
+ "_about": "Friedrich Schleiermacher (1768-1834): On Religion, speeches to its cultured despisers, translated with an introduction by John Oman (London: Kegan Paul, Trench, Trübner, 1893), raw IA OCR. Not Sir Charles Oman (oman shelf). Added in round an: Soliloquies: an English translation of the Monologen, with a critical introduction and appendix (Chicago: Open Court, 1926), tr. Horace Leland Friess. US public domain. No uids minted.",
  "_author": "Friedrich Schleiermacher",
  "_name_words": [
   "friedrich",
@@ -15,6 +15,11 @@
    "onreligionspeech00schluoft",
    "On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893)",
    "tr. John Oman"
+  ],
+  "schleiermacher-friess-soliloquies-1926": [
+   "schleiermacherss00schl",
+   "Soliloquies: an English translation of the Monologen, with a critical introduction and appendix (Chicago: Open Court, 1926)",
+   "tr. Horace Leland Friess"
   ]
  },
  "_excluded": {},
@@ -24,7 +29,7 @@
  "_checks": {
   "schleiermacher-oman-on-religion-1893": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "schleiermacher",
    "translator_claimed": "OMAN",
@@ -33,6 +38,17 @@
    "ia_rights": "ok: published 1893",
    "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schleiermacher-friess-soliloquies-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schleiermacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
