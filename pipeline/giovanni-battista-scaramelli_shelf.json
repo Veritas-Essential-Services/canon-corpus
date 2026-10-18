@@ -1,0 +1,92 @@
+{
+ "_about": "Public-domain Giovanni Battista Scaramelli (1687-1752, Jesuit) in English for the Word Hoard: The Directorium Asceticum; or, Guide to the Spiritual Life, translated and edited at St Beuno's College, with a preface by Archbishop Manning (4 vols, Dublin: William B. Kelly, 1870-1871), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "scaramelli"
+ ],
+ "_surname": [
+  "scaramelli",
+  "john baptist scaramelli"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scaramelli-directorium-1": [
+   "directoriumascet01scar",
+   "The Directorium Asceticum; or, Guide to the Spiritual Life, vol. I, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870)"
+  ],
+  "scaramelli-directorium-2": [
+   "directoriumascet02scar",
+   "The Directorium Asceticum; or, Guide to the Spiritual Life, vol. II, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870)"
+  ],
+  "scaramelli-directorium-3": [
+   "directoriumascet03scar",
+   "The Directorium Asceticum; or, Guide to the Spiritual Life, vol. III, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870)"
+  ],
+  "scaramelli-directorium-4": [
+   "directoriumascet04scar",
+   "The Directorium Asceticum; or, Guide to the Spiritual Life, vol. IV, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1871)"
+  ]
+ },
+ "_alternates": {
+  "scaramelli-copies": "Fifth (1902), seventh (1917) and eighth (1924) editions"
+ },
+ "_excluded": {
+  "scaramelli-late": "The 2005 reprint of Nicholson's Handbook of Mystical Theology",
+  "scaramelli-other": "Latin, French and German editions"
+ },
+ "_rights_checked": {
+  "scaramelli-directorium-1": "title page read: 'Translated and Edited at Saint Beuno's College, North Wales', no personal name; preface by the Archbishop of Westminster (Manning), October 1869"
+ },
+ "_pending": {
+  "scaramelli-handbook": "Nicholson's Handbook of Mystical Theology (1913): no pre-1930 scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "scaramelli-directorium-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scaramelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1870-1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated and Edited at Saint Beuno's College, North Wales', no personal name; preface by the Archbishop of Westminster (Manning), October 1869"
+  },
+  "scaramelli-directorium-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scaramelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1870-1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scaramelli-directorium-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scaramelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1870-1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scaramelli-directorium-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scaramelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1870-1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

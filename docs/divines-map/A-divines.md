@@ -6769,3 +6769,17 @@ Slugs `segneri-*`. Jesuit preacher: the Quaresimale, Manna of the Soul and other
 | Baxter's Sermons from the Latins and Roberti's Little Treatise: many hands | excluded | |
 | The 1851 Lives with Faber's essay | excluded | |
 | Italian editions | excluded | |
+
+## Giovanni Battista Scaramelli (round 30, my pick, 2026-10-18)
+
+Slugs `scaramelli-*`. Jesuit: the Directorium asceticum in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Directorium Asceticum; or, Guide to the Spiritual Life, vol. I, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870) | have-ocr | IA `directoriumascet01scar` |
+| The Directorium Asceticum; or, Guide to the Spiritual Life, vol. II, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870) | have-ocr | IA `directoriumascet02scar` |
+| The Directorium Asceticum; or, Guide to the Spiritual Life, vol. III, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1870) | have-ocr | IA `directoriumascet03scar` |
+| The Directorium Asceticum; or, Guide to the Spiritual Life, vol. IV, translated and edited at St. Beuno's College (Dublin: William B. Kelly, 1871) | have-ocr | IA `directoriumascet04scar` |
+| Fifth (1902), seventh (1917) and eighth (1924) editions | alternate | not shelved |
+| The 2005 reprint of Nicholson's Handbook of Mystical Theology | excluded | |
+| Latin, French and German editions | excluded | |
