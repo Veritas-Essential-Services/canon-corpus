@@ -560,7 +560,7 @@
   ],
   "moliphant-harry-muir": [
    72715,
-   "Harry Muir"
+   "Harry Muir A story of Scottish life, vol. 1 (of 3)"
   ],
   "moliphant-caleb-field": [
    74734,
@@ -573,12 +573,20 @@
   "moliphant-an-odd-couple": [
    78381,
    "An odd couple"
+  ],
+  "moliphant-harry-muir-a-story-of-scottish-life-vol-2-of-3": [
+   72777,
+   "Harry Muir A story of Scottish life, vol. 2 (of 3)"
+  ],
+  "moliphant-harry-muir-a-story-of-scottish-life-vol-3-of-3": [
+   73086,
+   "Harry Muir A story of Scottish life, vol. 3 (of 3)"
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "split-parts": "Gutenberg's split-part files PG 54510, 54937, 55121, 58320, 58321, 58322, 61442, 61443, 61444, 61914, 61915, 62464, 62465: the complete edition of each is on the shelf instead.",
-  "repeat-editions": "PG 59211, 72777, 73086: second Gutenberg editions of titles already on the shelf."
+  "repeat-editions": "PG 59211: second Gutenberg editions of titles already on the shelf."
  },
  "_checks": {
   "moliphant-jeanne-darc": {
@@ -1689,6 +1697,24 @@
    "pg_translator": null
   },
   "moliphant-an-odd-couple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-muir-a-story-of-scottish-life-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-muir-a-story-of-scottish-life-vol-3-of-3": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
