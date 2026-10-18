@@ -1419,3 +1419,6 @@
 
 ## 2026-10-17 20:06 CDT — wilkie-collins-works: done
 - wilkie-collins-works: new shelf, 30 Gutenberg books, 64,134 units, 7888 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:06 CDT — hgwells-works: done
+- hgwells-works: new shelf, 70 Gutenberg books, 92,629 units, 8428 ~2 ids; verify 0 mismatches, 0 rights flags.

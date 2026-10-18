@@ -1,0 +1,1000 @@
+{
+ "_about": "H. G. Wells's scientific romances, novels, stories and essays not already on another shelf (the reading-list hgwells shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "H. G. Wells",
+ "_name_words": [
+  "wells"
+ ],
+ "_surname": [
+  "h. g. wells"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hgwells-island-of-doctor-moreau": [
+   159,
+   "The island of Doctor Moreau"
+  ],
+  "hgwells-door-in-the-wall-and-other-stories": [
+   456,
+   "The Door in the Wall, and Other Stories"
+  ],
+  "hgwells-ann-veronica": [
+   524,
+   "Ann Veronica: A Modern Love Story"
+  ],
+  "hgwells-tono-bungay": [
+   718,
+   "Tono-Bungay"
+  ],
+  "hgwells-when-the-sleeper-wakes": [
+   775,
+   "When the Sleeper Wakes"
+  ],
+  "hgwells-war-in-the-air": [
+   780,
+   "The War in the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-god-the-invisible-king": [
+   1046,
+   "God, the Invisible King",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-new-machiavelli": [
+   1047,
+   "The New Machiavelli"
+  ],
+  "hgwells-world-set-free": [
+   1059,
+   "The World Set Free"
+  ],
+  "hgwells-research-magnificent": [
+   1138,
+   "The Research Magnificent"
+  ],
+  "hgwells-wheels-of-chance": [
+   1264,
+   "The Wheels of Chance: A Bicycling Idyll",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-soul-of-a-bishop": [
+   1269,
+   "The soul of a bishop"
+  ],
+  "hgwells-secret-places-of-the-heart": [
+   1734,
+   "The Secret Places of the Heart",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-twelve-stories-and-a-dream": [
+   1743,
+   "Twelve Stories and a Dream",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-floor-games": [
+   3690,
+   "Floor Games; a companion volume to \"Little Wars\""
+  ],
+  "hgwells-little-wars": [
+   3691,
+   "Little Wars; a game for boys from twelve years of age to one hundred and fifty and for that more intelligent sort of girl who likes boys' games and books."
+  ],
+  "hgwells-in-the-days-of-the-comet": [
+   3797,
+   "In the Days of the Comet"
+  ],
+  "hgwells-first-and-last-things": [
+   4225,
+   "First and Last Things: A Confession of Faith and Rule of Life"
+  ],
+  "hgwells-a-modern-utopia": [
+   6424,
+   "A Modern Utopia"
+  ],
+  "hgwells-mankind-in-the-making": [
+   7058,
+   "Mankind in the Making"
+  ],
+  "hgwells-history-of-mr-polly": [
+   7308,
+   "The History of Mr. Polly"
+  ],
+  "hgwells-in-the-fourth-year": [
+   10291,
+   "In the Fourth Year: Anticipations of a World Peace"
+  ],
+  "hgwells-what-is-coming-a-forecast-of-things-after-the-war": [
+   11289,
+   "What is Coming? A Forecast of Things after the War",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-an-englishman-looks-at-the-world-being-a-series-of-u": [
+   11502,
+   "An Englishman Looks at the World Being a Series of Unrestrained Remarks upon Contemporary Matters",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-love-and-mr-lewisham": [
+   11640,
+   "Love and Mr. Lewisham"
+  ],
+  "hgwells-food-of-the-gods-and-how-it-came-to-earth": [
+   11696,
+   "The Food of the Gods and How It Came to Earth"
+  ],
+  "hgwells-country-of-the-blind-and-other-stories": [
+   11870,
+   "The Country of the Blind, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-sleeper-awakes-a-revised-edition-of-when-the-sleeper": [
+   12163,
+   "The Sleeper Awakes A Revised Edition of When the Sleeper Wakes"
+  ],
+  "hgwells-stolen-bacillus-and-other-incidents": [
+   12750,
+   "The Stolen Bacillus and Other Incidents",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-mr-britling-sees-it-through": [
+   14060,
+   "Mr. Britling Sees It Through"
+  ],
+  "hgwells-certain-personal-matters": [
+   17508,
+   "Certain Personal Matters",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-anticipations-of-the-reaction-of-mechanical-and-scie": [
+   19229,
+   "Anticipations of the reaction of mechanical and scientific progress upon human life and thought"
+  ],
+  "hgwells-text-book-of-biology-part-1": [
+   21781,
+   "Text Book of Biology, Part 1: Vertebrata"
+  ],
+  "hgwells-red-room": [
+   23218,
+   "The Red Room"
+  ],
+  "hgwells-tales-of-space-and-time": [
+   27365,
+   "Tales of Space and Time",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-select-conversations-with-an-uncle-now-extinct-and-t": [
+   29472,
+   "Select Conversations with an Uncle (Now Extinct) and Two Other Reminiscences",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-passionate-friends": [
+   30340,
+   "The Passionate Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-new-worlds-for-old": [
+   30538,
+   "New worlds for old: A plain account of modern socialism",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-wife-of-sir-isaac-harman": [
+   30855,
+   "The Wife of Sir Isaac Harman",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-salvaging-of-civilization": [
+   33889,
+   "The Salvaging of Civilization"
+  ],
+  "hgwells-wonderful-visit": [
+   33913,
+   "The Wonderful Visit",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-boon-the-mind-of-the-race-the-wild-asses-of-the-devi": [
+   34962,
+   "Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump; Being a First Selection from the Literary Remains of George Boon, Appropriate to the Times"
+  ],
+  "hgwells-marriage": [
+   35338,
+   "Marriage"
+  ],
+  "hgwells-a-short-history-of-the-world": [
+   35461,
+   "A Short History of the World"
+  ],
+  "hgwells-sea-lady": [
+   35920,
+   "The Sea Lady",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-kipps": [
+   39162,
+   "Kipps: The Story of a Simple Soul"
+  ],
+  "hgwells-plattner-story-and-others": [
+   42989,
+   "The Plattner Story, and Others"
+  ],
+  "hgwells-discovery-of-the-future": [
+   44867,
+   "The Discovery of the Future"
+  ],
+  "hgwells-outline-of-history": [
+   45368,
+   "The Outline of History: Being a Plain History of Life and Mankind"
+  ],
+  "hgwells-this-misery-of-boots": [
+   53516,
+   "This Misery of Boots"
+  ],
+  "hgwells-future-in-america": [
+   56484,
+   "The Future in America: A Search After Realities",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-war-that-will-end-war": [
+   57481,
+   "The War That Will End War"
+  ],
+  "hgwells-washington-and-the-riddle-of-peace": [
+   58877,
+   "Washington and the Riddle of Peace"
+  ],
+  "hgwells-new-teaching-of-history-with-a-reply-to-some-recent": [
+   59650,
+   "The New Teaching of History With a reply to some recent criticisms of The Outline of History"
+  ],
+  "hgwells-bealby": [
+   59769,
+   "Bealby; A Holiday",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-30-strange-stories": [
+   59774,
+   "30 Strange Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-russia-in-the-shadows": [
+   60173,
+   "Russia in the Shadows",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-socialism-and-the-family": [
+   61347,
+   "Socialism and the family"
+  ],
+  "hgwells-joan-and-peter": [
+   61426,
+   "Joan and Peter: The story of an education"
+  ],
+  "hgwells-undying-fire": [
+   61547,
+   "The Undying Fire: A contemporary novel"
+  ],
+  "hgwells-social-forces-in-england-and-america": [
+   64186,
+   "Social Forces in England and America",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-story-of-a-great-schoolmaster": [
+   64410,
+   "The Story of a Great Schoolmaster"
+  ],
+  "hgwells-tales-of-the-unexpected": [
+   66409,
+   "Tales of the Unexpected"
+  ],
+  "hgwells-star": [
+   67071,
+   "The Star"
+  ],
+  "hgwells-dream": [
+   69394,
+   "The dream: A novel"
+  ],
+  "hgwells-christina-albertas-father": [
+   69410,
+   "Christina Alberta's father"
+  ],
+  "hgwells-a-year-of-prophesying": [
+   69752,
+   "A year of prophesying"
+  ],
+  "hgwells-mr-belloc-objects-to-the-outline-of-history": [
+   72333,
+   "Mr. Belloc objects to \"The outline of history\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgwells-open-conspiracy": [
+   75786,
+   "The open conspiracy"
+  ],
+  "hgwells-way-the-world-is-going": [
+   77242,
+   "The way the world is going"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57490": "PG 57490: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 35, 36, 1013, 5230: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-52501": "PG 52501 The First Men in the Moon: a second edition; the reading-list hgwells shelf holds the novel."
+ },
+ "_checks": {
+  "hgwells-island-of-doctor-moreau": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-door-in-the-wall-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-ann-veronica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-tono-bungay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-when-the-sleeper-wakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-war-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-god-the-invisible-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-new-machiavelli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-world-set-free": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-research-magnificent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-wheels-of-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-soul-of-a-bishop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-secret-places-of-the-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-twelve-stories-and-a-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-floor-games": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-little-wars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-in-the-days-of-the-comet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-first-and-last-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-a-modern-utopia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-mankind-in-the-making": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-history-of-mr-polly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-in-the-fourth-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-what-is-coming-a-forecast-of-things-after-the-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-an-englishman-looks-at-the-world-being-a-series-of-u": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-love-and-mr-lewisham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-food-of-the-gods-and-how-it-came-to-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-country-of-the-blind-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-sleeper-awakes-a-revised-edition-of-when-the-sleeper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-stolen-bacillus-and-other-incidents": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-mr-britling-sees-it-through": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-certain-personal-matters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-anticipations-of-the-reaction-of-mechanical-and-scie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-text-book-of-biology-part-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-red-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-tales-of-space-and-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-select-conversations-with-an-uncle-now-extinct-and-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-passionate-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-new-worlds-for-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-wife-of-sir-isaac-harman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-salvaging-of-civilization": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-wonderful-visit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-boon-the-mind-of-the-race-the-wild-asses-of-the-devi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-a-short-history-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-sea-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-kipps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-plattner-story-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-discovery-of-the-future": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-outline-of-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-this-misery-of-boots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-future-in-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-war-that-will-end-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-washington-and-the-riddle-of-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-new-teaching-of-history-with-a-reply-to-some-recent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-bealby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-30-strange-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-russia-in-the-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-socialism-and-the-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-joan-and-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-undying-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-social-forces-in-england-and-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-story-of-a-great-schoolmaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-tales-of-the-unexpected": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-christina-albertas-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-a-year-of-prophesying": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-mr-belloc-objects-to-the-outline-of-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-open-conspiracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-way-the-world-is-going": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

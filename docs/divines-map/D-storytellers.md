@@ -9206,6 +9206,86 @@ Shelf: `pipeline/wilkie-collins-works_shelf.json` (2026-10-17; added at the coor
 | pg-58089 | excluded | PG 58089: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 583: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## H. G. Wells
+
+Shelf: `pipeline/hgwells-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (70 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The island of Doctor Moreau | have | PG 159, `hgwells-island-of-doctor-moreau` (736 units) |
+| The Door in the Wall, and Other Stories | have | PG 456, `hgwells-door-in-the-wall-and-other-stories` (800 units) |
+| Ann Veronica: A Modern Love Story | have | PG 524, `hgwells-ann-veronica` (2603 units) |
+| Tono-Bungay | have | PG 718, `hgwells-tono-bungay` (2726 units) |
+| When the Sleeper Wakes | have | PG 775, `hgwells-when-the-sleeper-wakes` (1677 units) |
+| The War in the Air | have | PG 780, `hgwells-war-in-the-air` (1672 units) |
+| God, the Invisible King | have | PG 1046, `hgwells-god-the-invisible-king` (351 units) |
+| The New Machiavelli | have | PG 1047, `hgwells-new-machiavelli` (2291 units) |
+| The World Set Free | have | PG 1059, `hgwells-world-set-free` (917 units) |
+| The Research Magnificent | have | PG 1138, `hgwells-research-magnificent` (2350 units) |
+| The Wheels of Chance: A Bicycling Idyll | have | PG 1264, `hgwells-wheels-of-chance` (1172 units) |
+| The soul of a bishop | have | PG 1269, `hgwells-soul-of-a-bishop` (1795 units) |
+| The Secret Places of the Heart | have | PG 1734, `hgwells-secret-places-of-the-heart` (1556 units) |
+| Twelve Stories and a Dream | have | PG 1743, `hgwells-twelve-stories-and-a-dream` (1364 units) |
+| Floor Games; a companion volume to "Little Wars" | have | PG 3690, `hgwells-floor-games` (51 units) |
+| Little Wars; a game for boys from twelve years of age to one hundred and fifty and for that more intelligent sort of girl who likes boys' games and books. | have | PG 3691, `hgwells-little-wars` (193 units) |
+| In the Days of the Comet | have | PG 3797, `hgwells-in-the-days-of-the-comet` (1482 units) |
+| First and Last Things: A Confession of Faith and Rule of Life | have | PG 4225, `hgwells-first-and-last-things` (484 units) |
+| A Modern Utopia | have | PG 6424, `hgwells-a-modern-utopia` (1202 units) |
+| Mankind in the Making | have | PG 7058, `hgwells-mankind-in-the-making` (425 units) |
+| The History of Mr. Polly | have | PG 7308, `hgwells-history-of-mr-polly` (1985 units) |
+| In the Fourth Year: Anticipations of a World Peace | have | PG 10291, `hgwells-in-the-fourth-year` (211 units) |
+| What is Coming? A Forecast of Things after the War | have | PG 11289, `hgwells-what-is-coming-a-forecast-of-things-after-the-war` (508 units) |
+| An Englishman Looks at the World Being a Series of Unrestrained Remarks upon Contemporary Matters | have | PG 11502, `hgwells-an-englishman-looks-at-the-world-being-a-series-of-u` (694 units) |
+| Love and Mr. Lewisham | have | PG 11640, `hgwells-love-and-mr-lewisham` (1711 units) |
+| The Food of the Gods and How It Came to Earth | have | PG 11696, `hgwells-food-of-the-gods-and-how-it-came-to-earth` (1888 units) |
+| The Country of the Blind, and Other Stories | have | PG 11870, `hgwells-country-of-the-blind-and-other-stories` (2723 units) |
+| The Sleeper Awakes A Revised Edition of When the Sleeper Wakes | have | PG 12163, `hgwells-sleeper-awakes-a-revised-edition-of-when-the-sleeper` (1597 units) |
+| The Stolen Bacillus and Other Incidents | have | PG 12750, `hgwells-stolen-bacillus-and-other-incidents` (1344 units) |
+| Mr. Britling Sees It Through | have | PG 14060, `hgwells-mr-britling-sees-it-through` (2612 units) |
+| Certain Personal Matters | have | PG 17508, `hgwells-certain-personal-matters` (409 units) |
+| Anticipations of the reaction of mechanical and scientific progress upon human life and thought | have | PG 19229, `hgwells-anticipations-of-the-reaction-of-mechanical-and-scie` (324 units) |
+| Text Book of Biology, Part 1: Vertebrata | have | PG 21781, `hgwells-text-book-of-biology-part-1` (898 units) |
+| The Red Room | have | PG 23218, `hgwells-red-room` (61 units) |
+| Tales of Space and Time | have | PG 27365, `hgwells-tales-of-space-and-time` (1218 units) |
+| Select Conversations with an Uncle (Now Extinct) and Two Other Reminiscences | have | PG 29472, `hgwells-select-conversations-with-an-uncle-now-extinct-and-t` (302 units) |
+| The Passionate Friends | have | PG 30340, `hgwells-passionate-friends` (1646 units) |
+| New worlds for old: A plain account of modern socialism | have | PG 30538, `hgwells-new-worlds-for-old` (769 units) |
+| The Wife of Sir Isaac Harman | have | PG 30855, `hgwells-wife-of-sir-isaac-harman` (2627 units) |
+| The Salvaging of Civilization | have | PG 33889, `hgwells-salvaging-of-civilization` (679 units) |
+| The Wonderful Visit | have | PG 33913, `hgwells-wonderful-visit` (1223 units) |
+| Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump; Being a First Selection from the Literary Remains of George Boon, Appropriate to the Times | have | PG 34962, `hgwells-boon-the-mind-of-the-race-the-wild-asses-of-the-devi` (823 units) |
+| Marriage | have | PG 35338, `hgwells-marriage` (3062 units) |
+| A Short History of the World | have | PG 35461, `hgwells-a-short-history-of-the-world` (3401 units) |
+| The Sea Lady | have | PG 35920, `hgwells-sea-lady` (1505 units) |
+| Kipps: The Story of a Simple Soul | have | PG 39162, `hgwells-kipps` (3006 units) |
+| The Plattner Story, and Others | have | PG 42989, `hgwells-plattner-story-and-others` (1199 units) |
+| The Discovery of the Future | have | PG 44867, `hgwells-discovery-of-the-future` (83 units) |
+| The Outline of History: Being a Plain History of Life and Mankind | have | PG 45368, `hgwells-outline-of-history` (8830 units) |
+| This Misery of Boots | have | PG 53516, `hgwells-this-misery-of-boots` (68 units) |
+| The Future in America: A Search After Realities | have | PG 56484, `hgwells-future-in-america` (650 units) |
+| The War That Will End War | have | PG 57481, `hgwells-war-that-will-end-war` (158 units) |
+| Washington and the Riddle of Peace | have | PG 58877, `hgwells-washington-and-the-riddle-of-peace` (582 units) |
+| The New Teaching of History With a reply to some recent criticisms of The Outline of History | have | PG 59650, `hgwells-new-teaching-of-history-with-a-reply-to-some-recent` (72 units) |
+| Bealby; A Holiday | have | PG 59769, `hgwells-bealby` (2020 units) |
+| 30 Strange Stories | have | PG 59774, `hgwells-30-strange-stories` (1882 units) |
+| Russia in the Shadows | have | PG 60173, `hgwells-russia-in-the-shadows` (187 units) |
+| Socialism and the family | have | PG 61347, `hgwells-socialism-and-the-family` (90 units) |
+| Joan and Peter: The story of an education | have | PG 61426, `hgwells-joan-and-peter` (4413 units) |
+| The Undying Fire: A contemporary novel | have | PG 61547, `hgwells-undying-fire` (778 units) |
+| Social Forces in England and America | have | PG 64186, `hgwells-social-forces-in-england-and-america` (686 units) |
+| The Story of a Great Schoolmaster | have | PG 64410, `hgwells-story-of-a-great-schoolmaster` (328 units) |
+| Tales of the Unexpected | have | PG 66409, `hgwells-tales-of-the-unexpected` (1305 units) |
+| The Star | have | PG 67071, `hgwells-star` (50 units) |
+| The dream: A novel | have | PG 69394, `hgwells-dream` (1710 units) |
+| Christina Alberta's father | have | PG 69410, `hgwells-christina-albertas-father` (2728 units) |
+| A year of prophesying | have | PG 69752, `hgwells-a-year-of-prophesying` (644 units) |
+| Mr. Belloc objects to "The outline of history" | have | PG 72333, `hgwells-mr-belloc-objects-to-the-outline-of-history` (188 units) |
+| The open conspiracy | have | PG 75786, `hgwells-open-conspiracy` (300 units) |
+| The way the world is going | have | PG 77242, `hgwells-way-the-world-is-going` (605 units) |
+| pg-57490 | excluded | PG 57490: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 35, 36, 1013, 5230: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-52501 | excluded | PG 52501 The First Men in the Moon: a second edition; the reading-list hgwells shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
