@@ -8555,6 +8555,21 @@ Slugs `quesnel-*`. Built from title pages read for round 35.
 | The Gospels, with Moral Reflections on each Verse, vol. III (Glasgow: William Collins, 1830) | have-ocr | IA `gospelswithmoral03ques` |
 | The Bath expurgated Four Gospels 'by a Presbyter of the Church of England' (1790); Philadelphia 1855 revised by Henry A. Boardman | alternate | not shelved |
 | Reflections on St John (1709; no one named); a 2026 machine translation catalogued 1680; Pierre Quesnel's Loyola; the Unigenitus pamphlets | excluded | |
+
+## Johann Lorenz von Mosheim (round 35, my pick, 2026-10-18)
+
+Slugs `mosheim-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| An Ecclesiastical History, Antient and Modern, tr. Archibald Maclaine, vol. I (London: A. Millar, 1765) | have-ocr | IA `bim_eighteenth-century_an-ecclesiastical-histor_mosheim-johann-lorenz_1765_1` |
+| An Ecclesiastical History, Antient and Modern, tr. Archibald Maclaine, vol. II (London: A. Millar, 1765) | have-ocr | IA `bim_eighteenth-century_an-ecclesiastical-histor_mosheim-johann-lorenz_1765_2` |
+| Institutes of Ecclesiastical History, Ancient and Modern, a new and literal translation by James Murdock, vol. I (New Haven: A. H. Maltby, 1832) | have-ocr | IA `instituteseccle08murdgoog` |
+| Institutes of Ecclesiastical History, tr. James Murdock, vol. II (New Haven: A. H. Maltby, 1832) | have-ocr | IA `instituteseccle11murdgoog` |
+| Institutes of Ecclesiastical History, tr. James Murdock, vol. III (New Haven: A. H. Maltby, 1832) | have-ocr | IA `instituteseccle12murdgoog` |
+| Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. I (London: T. Cadell and W. Davies, 1813) | have-ocr | IA `commentariesonaf01mosh` |
+| Commentaries on the Affairs of the Christians before the Time of Constantine the Great, tr. Robert Studley Vidal, vol. II (London: T. Cadell and W. Davies, 1813) | have-ocr | IA `commentariesonaf02mosh` |
+| Maclaine's new edition (Cadell, 1790, vols II-VI); Murdock's later editions (Harper 1839-1842, Soames's London edition 1841, New York 1854); Vidal's third volume (1835); Murdock's Historical Commentaries (New York: Converse, copyright 1851) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1777,3 +1777,6 @@
 
 ## 2026-10-17 22:31 CDT — pasquier-quesnel done
 - `pipeline/pasquier-quesnel_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for quesnel-nt-reflections-2, quesnel-nt-reflections-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — johann-lorenz-von-mosheim done
+- `pipeline/johann-lorenz-von-mosheim_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
