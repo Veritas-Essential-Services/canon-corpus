@@ -4406,6 +4406,8 @@ Shelf: `pipeline/william-whewell_shelf.json`. The philosophy of science: four wo
 | Novum Organon Renovatum (London: Parker, 1858) |  | `whewell-novum-organon-renovatum-1858` | have (PG 69764) |
 | On the Philosophy of Discovery, chapters historical and critical (London: Parker, 1860) |  | `whewell-philosophy-of-discovery-1860` | have (PG 51555) |
 | History of the Inductive Sciences, from the earliest to the present time (New York: Appleton, 1875) |  | `whewell-history-of-the-inductive-sciences-1875` | have (PG 68693) |
+| Astronomy and General Physics considered with reference to Natural Theology, Bridgewater Treatise III (Philadelphia: Carey, Lea and Blanchard, 1833) |  | `whewell-bridgewater-astronomy-1833` | have (PG 66406) |
+| Of the Plurality of Worlds, American edition with an introduction by Edward Hitchcock (Boston, 1854) |  | `whewell-plurality-of-worlds-1854` | have (PG 36288) |
 
 ## Lord Kames
 

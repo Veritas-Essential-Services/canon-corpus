@@ -1,5 +1,5 @@
 {
- "_about": "William Whewell (1794-1866), the philosophy of science, from Project Gutenberg: History of Scientific Ideas (Parker, 1858), Novum Organon Renovatum (Parker, 1858), On the Philosophy of Discovery (Parker, 1860) and History of the Inductive Sciences (third edition, New York: Appleton, 1875). US public domain. No uids minted.",
+ "_about": "William Whewell (1794-1866), the philosophy of science, from Project Gutenberg: History of Scientific Ideas (Parker, 1858), Novum Organon Renovatum (Parker, 1858), On the Philosophy of Discovery (Parker, 1860) and History of the Inductive Sciences (third edition, New York: Appleton, 1875). Added in round aw 2026-10-17: Astronomy and General Physics considered with reference to Natural Theology, the third Bridgewater Treatise (Philadelphia: Carey, Lea and Blanchard, 1833), and Of the Plurality of Worlds, American edition with Edward Hitchcock's introduction (Boston: Gould and Lincoln, 1854), clean Gutenberg texts. US public domain. No uids minted.",
  "_author": "William Whewell",
  "_name_words": [
   "william",
@@ -26,6 +26,14 @@
   "whewell-history-of-the-inductive-sciences-1875": [
    68693,
    "History of the Inductive Sciences, from the earliest to the present time (New York: Appleton, 1875)"
+  ],
+  "whewell-bridgewater-astronomy-1833": [
+   66406,
+   "Astronomy and General Physics considered with reference to Natural Theology, Bridgewater Treatise III (Philadelphia: Carey, Lea and Blanchard, 1833)"
+  ],
+  "whewell-plurality-of-worlds-1854": [
+   36288,
+   "Of the Plurality of Worlds, American edition with an introduction by Edward Hitchcock (Boston, 1854)"
   ]
  },
  "internet_archive": {},
@@ -33,7 +41,7 @@
  "_checks": {
   "whewell-history-of-scientific-ideas-1858": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "whewell",
    "identity": "ok",
@@ -42,7 +50,7 @@
   },
   "whewell-novum-organon-renovatum-1858": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "whewell",
    "identity": "ok",
@@ -51,7 +59,7 @@
   },
   "whewell-philosophy-of-discovery-1860": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "whewell",
    "identity": "ok",
@@ -60,7 +68,25 @@
   },
   "whewell-history-of-the-inductive-sciences-1875": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whewell-bridgewater-astronomy-1833": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "whewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whewell-plurality-of-worlds-1854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "whewell",
    "identity": "ok",
