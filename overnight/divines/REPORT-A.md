@@ -1600,3 +1600,6 @@
 
 ## 2026-10-17 21:37 CDT — adoniram-judson done
 - `pipeline/adoniram-judson_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — john-williams-of-the-south-seas done
+- `pipeline/john-williams-of-the-south-seas_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

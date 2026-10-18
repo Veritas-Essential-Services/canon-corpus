@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain John Williams (1796-1839, London Missionary Society, killed on Erromango) for the Word Hoard: A Narrative of Missionary Enterprises in the South Sea Islands (London: John Snow, 1840, twenty-fifth thousand), from an Internet Archive scan. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "williams"
+ ],
+ "_surname": [
+  "williams",
+  "john williams"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jwilliams-missionary-enterprises": [
+   "narrativeofmissi00willrich",
+   "A Narrative of Missionary Enterprises in the South Sea Islands, twenty-fifth thousand (London: John Snow, 1840)"
+  ]
+ },
+ "_alternates": {
+  "jwilliams-1837": "The 1837 first printings (b29348171_0001, fourth thousand; anarrativemissi00willgoog, sixth thousand), whose author lines are garbled in the OCR; the Philadelphia abridgement (1888)"
+ },
+ "_excluded": {
+  "jwilliams-lives": "The Campbell and Prout lives"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jwilliams-missionary-enterprises": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

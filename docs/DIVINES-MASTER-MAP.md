@@ -7691,6 +7691,16 @@ Slugs `ajudson-*`. Built from title pages read for round 33.
 | Mr. Judson's Letter to the Female Members of Christian Churches in the United States of America (Philadelphia; year garbled, catalogued 1832) | have-ocr | IA `mrjudsonslettert00juds` |
 | A Cry from Burmah (1831 letter, no imprint read); the 1913 Judson Day leaflet | alternate | not shelved |
 | The Judson Offering (many authors); Wayland's Memoir and other lives; his Burmese dictionaries and grammars | excluded | |
+
+## John Williams of the South Seas (round 33, my pick, 2026-10-18)
+
+Slugs `jwilliams-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| A Narrative of Missionary Enterprises in the South Sea Islands, twenty-fifth thousand (London: John Snow, 1840) | have-ocr | IA `narrativeofmissi00willrich` |
+| The 1837 first printings (b29348171_0001, fourth thousand; anarrativemissi00willgoog, sixth thousand), whose author lines are garbled in the OCR; the Philadelphia abridgement (1888) | alternate | not shelved |
+| The Campbell and Prout lives | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
