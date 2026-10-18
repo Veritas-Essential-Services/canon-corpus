@@ -1554,3 +1554,6 @@
 
 ## 2026-10-17 21:58 CDT — wilde-works: done
 - wilde-works: new shelf, 23 Gutenberg books, 12,412 units, 2319 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:58 CDT — stacpoole: done
+- stacpoole: new shelf, 34 Gutenberg books, 47,023 units, 1608 ~2 ids; verify 0 mismatches, 0 rights flags.

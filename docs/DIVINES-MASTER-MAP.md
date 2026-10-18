@@ -34015,6 +34015,47 @@ Shelf: `pipeline/wilde-works_shelf.json` (2026-10-17; added at the coordinator's
 | held-elsewhere | excluded | PG 174, 844, 885: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-1141 | excluded | PG 1141 Selected Poems, 1338 Selected Prose and 30191 A Critic in Pall Mall: selections of work held whole elsewhere. |
 
+## H. De Vere Stacpoole
+
+Shelf: `pipeline/stacpoole_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (34 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Blue Lagoon: A Romance | have | PG 393, `hdvstacpoole-blue-lagoon` (1605 units) |
+| The Beach of Dreams: A Romance | have | PG 20084, `hdvstacpoole-beach-of-dreams` (1670 units) |
+| The Man Who Lost Himself | have | PG 23988, `hdvstacpoole-man-who-lost-himself` (2218 units) |
+| The Pools of Silence | have | PG 26889, `hdvstacpoole-pools-of-silence` (1815 units) |
+| The Ghost Girl | have | PG 26986, `hdvstacpoole-ghost-girl` (1923 units) |
+| Sea Plunder | have | PG 53179, `hdvstacpoole-sea-plunder` (1446 units) |
+| The Ship of Coral | have | PG 54437, `hdvstacpoole-ship-of-coral` (1868 units) |
+| Vanderdecken | have | PG 54473, `hdvstacpoole-vanderdecken` (1889 units) |
+| The Rapin | have | PG 54483, `hdvstacpoole-rapin` (1435 units) |
+| The Presentation | have | PG 54808, `hdvstacpoole-presentation` (2165 units) |
+| The New Optimism | have | PG 54840, `hdvstacpoole-new-optimism` (514 units) |
+| The Pearl Fishers | have | PG 54959, `hdvstacpoole-pearl-fishers` (1964 units) |
+| The Man Who Found Himself (Uncle Simon) (with Margaret Robson Stacpoole) | have | PG 55039, `hdvstacpoole-man-who-found-himself-uncle-simon` (1704 units) |
+| The Drums of War | have | PG 55148, `hdvstacpoole-drums-of-war` (1985 units) |
+| Satan: A Romance of the Bahamas | have | PG 55183, `hdvstacpoole-satan` (2664 units) |
+| Garryowen | have | PG 55323, `hdvstacpoole-garryowen` (2429 units) |
+| Fanny Lambert: A Novel | have | PG 55454, `hdvstacpoole-fanny-lambert` (2166 units) |
+| Death, the Knight, and the Lady: A Ghost Story | have | PG 55708, `hdvstacpoole-death-the-knight-and-the-lady` (560 units) |
+| The Crimson Azaleas: A Novel | have | PG 55709, `hdvstacpoole-crimson-azaleas` (1836 units) |
+| The Cottage on the Fells | have | PG 56128, `hdvstacpoole-cottage-on-the-fells` (2275 units) |
+| Patsy | have | PG 56142, `hdvstacpoole-patsy` (2536 units) |
+| The Garden of God | have | PG 58593, `hdvstacpoole-garden-of-god` (1522 units) |
+| Ocean Tramps | have | PG 63269, `hdvstacpoole-ocean-tramps` (1844 units) |
+| Maru: A Dream of the Sea | have | PG 64643, `hdvstacpoole-maru` (90 units) |
+| Corporal Jacques of the Foreign Legion | have | PG 66453, `hdvstacpoole-corporal-jacques-of-the-foreign-legion` (772 units) |
+| The Gates of Morning | have | PG 67187, `hdvstacpoole-gates-of-morning` (1436 units) |
+| Kadjaman | have | PG 67464, `hdvstacpoole-kadjaman` (61 units) |
+| The Story of Gombi | have | PG 67506, `hdvstacpoole-story-of-gombi` (78 units) |
+| Passion fruit | have | PG 70651, `hdvstacpoole-passion-fruit` (85 units) |
+| A primal woman | have | PG 73158, `hdvstacpoole-a-primal-woman` (164 units) |
+| Magic | have | PG 73248, `hdvstacpoole-magic` (97 units) |
+| The man with a grouch | have | PG 75565, `hdvstacpoole-man-with-a-grouch` (131 units) |
+| The city in the sea | have | PG 75608, `hdvstacpoole-city-in-the-sea` (1972 units) |
+| The romance of Captain Duffy | have | PG 77920, `hdvstacpoole-romance-of-captain-duffy` (104 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
