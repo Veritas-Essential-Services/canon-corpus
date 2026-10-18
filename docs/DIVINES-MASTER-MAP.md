@@ -8831,6 +8831,22 @@ Slugs `jrmiller-*`. Built from title pages read for round 36.
 | Personal Friendships of Jesus (New York: Thomas Y. Crowell; title page undated, copyright 1897) | have-ocr | IA `personalfriendsh01mill` |
 | PG 19193 (Making the Most of Life) and PG 27349 (Personal Friendships, eighth thousand), both undated printings; later thousands of Silent Times, Building of Character and Personal Friendships | alternate | not shelved |
 | Come Ye Apart (an undated Nelson printing that looks post-1929) and a 2009 reprint | excluded | |
+
+## Theodore L. Cuyler (round 36, my pick, 2026-10-18)
+
+Slugs `tlcuyler-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Empty Crib: A Memorial of Little Georgie, with Words of Consolation for Bereaved Parents (New York: R. Carter and Brothers; entered 1868) | have-ocr | IA `emptycribmemoria00cuyl` |
+| Pointed Papers for the Christian Life (New York: Robert Carter and Brothers, 1879) | have-ocr | IA `pointedpapersfor00cuyl` |
+| God's Light on Dark Clouds, second edition (New York: Robert Carter and Brothers; copyright 1882) | have-ocr | IA `godslightondark00cuyl` |
+| How to Be a Pastor (New York: Baker and Taylor; copyright 1890) | have-ocr | IA `howtobepastor00cuyl` |
+| Stirring the Eagle's Nest and Other Practical Discourses (New York: Baker and Taylor; copyright 1892) | have-ocr | IA `stirringeaglesne00cuyl` |
+| The Young Preacher (New York and Chicago: Fleming H. Revell; copyright 1893) | have-ocr | IA `youngpreacher00cuyl` |
+| Recollections of a Long Life: An Autobiography (New York: Baker & Taylor, 1902) | have-ocr | IA `alonglifeautobio00cuyluoft` |
+| God's Light (1883 and Hodder); Heart-Life (Hodder, year garbled); PG 12549 (Recollections, no publisher stated) | alternate | not shelved |
+| Anthologies with his pieces (PG 37501, PG 44450) and a many-preacher Lincoln memorial volume | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

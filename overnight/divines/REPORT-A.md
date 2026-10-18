@@ -1834,3 +1834,6 @@
 
 ## 2026-10-17 22:46 CDT — j-r-miller done
 - `pipeline/j-r-miller_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for jrmiller-in-his-steps, jrmiller-practical-religion, jrmiller-personal-friendships (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — theodore-l-cuyler done
+- `pipeline/theodore-l-cuyler_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
