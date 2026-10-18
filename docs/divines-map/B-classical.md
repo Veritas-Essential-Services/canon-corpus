@@ -5971,6 +5971,7 @@ Shelf: `pipeline/graham-wallas_shelf.json`. Our Social Heritage (1921); Human Na
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Our Social Heritage (Allen and Unwin, 1921) |  | `wallas-our-social-heritage-1921` | have-raw (IA `oursocialheritag00walluoft`) |
 
 Pending (wishlist): Human Nature in Politics (1908), The Great Society (1914), The Art of Thought (1926), in pre-1931 printings
 
