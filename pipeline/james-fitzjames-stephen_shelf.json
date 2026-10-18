@@ -1,5 +1,5 @@
 {
- "_about": "Sir James Fitzjames Stephen (1829-1894), judge, Mill's sharpest critic: Liberty, Equality, Fraternity (New York: Holt & Williams, 1873), raw IA OCR, clean 0.94. Not to be confused with the leslie-stephen shelf (his brother). US public domain. No uids minted.",
+ "_about": "Sir James Fitzjames Stephen (1829-1894), judge, Mill's sharpest critic: Liberty, Equality, Fraternity (New York: Holt & Williams, 1873), raw IA OCR, clean 0.94. Not to be confused with the leslie-stephen shelf (his brother). US public domain. Added in round 2026-10-17bl: A History of the Criminal Law of England, 3 vols. (London: Macmillan, 1883), raw IA OCR, clean 0.90, 0.91 and 0.86. No uids minted.",
  "_author": "James Fitzjames Stephen",
  "_name_words": [
   "james",
@@ -15,6 +15,18 @@
   "fitzjames-stephen-liberty-equality-fraternity-1873": [
    "libertyequalityf0000jame",
    "Liberty, Equality, Fraternity (Holt & Williams, 1873)"
+  ],
+  "fitzjames-stephen-criminal-law-1883-v1": [
+   "cu31924069583767",
+   "A History of the Criminal Law of England, vol. I (Macmillan, 1883)"
+  ],
+  "fitzjames-stephen-criminal-law-1883-v2": [
+   "cu31924069587222",
+   "A History of the Criminal Law of England, vol. II (Macmillan, 1883)"
+  ],
+  "fitzjames-stephen-criminal-law-1883-v3": [
+   "cu31924069587230",
+   "A History of the Criminal Law of England, vol. III (Macmillan, 1883)"
   ]
  },
  "_excluded": {},
@@ -27,6 +39,39 @@
    "identity": "ok",
    "ia_rights": "ok: published 1873",
    "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fitzjames-stephen-criminal-law-1883-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fitzjames-stephen-criminal-law-1883-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fitzjames-stephen-criminal-law-1883-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
