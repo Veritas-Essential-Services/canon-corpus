@@ -54,7 +54,8 @@
   "walter thornbury",
   "william edward frye",
   "william gemmell",
-  "william stewart rose"
+  "william stewart rose",
+  "henry phillips jr"
  ],
  "_surname": [
   "a. hart edwards",
@@ -110,7 +111,8 @@
   "walter thornbury",
   "william edward frye",
   "william gemmell",
-  "william stewart rose"
+  "william stewart rose",
+  "henry phillips jr"
  ],
  "_surname_by_slug": {
   "sp2-46992": [
@@ -289,6 +291,9 @@
   "sp2-54991": [
    "ivan panin",
    "panin"
+  ],
+  "sp2-petofi-selections-phillips": [
+   "henry phillips jr"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -451,7 +456,12 @@
    "Poems With Introduction and Notes"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sp2-petofi-selections-phillips": [
+   "selectionsfrompo00petouoft",
+   "Selections from the Poems of Alexander Petőfi (1885)"
+  ]
+ },
  "titles": {
   "singles-plays-poetry-2-al-maarri-the-luzumiyat-of-abu-l-ala-selected-from": {
    "source": "sp2-50457",
@@ -764,6 +774,15 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Jeremiah Holmes Wiffen",
    "scan_edition": "Project Gutenberg 49410 (clean text)"
+  },
+  "singles-plays-poetry-2-petofi-selections-phillips": {
+   "source": "sp2-petofi-selections-phillips",
+   "of": "Sándor Petőfi",
+   "work": "Selections from the Poems of Alexander Petőfi",
+   "translated": 1885,
+   "translator": "Henry Phillips Jr.",
+   "scan_edition": "Privately printed, Philadelphia 1885; archive.org scan",
+   "note": "Phillips's Luis de León is on the luis-de-leon shelf."
   }
  },
  "_pending": {
@@ -1124,6 +1143,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ivan Panin"
+  },
+  "sp2-petofi-selections-phillips": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry phillips jr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1321,6 +1351,14 @@
    "pg": 54991,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ivan Panin"
+  },
+  "sp2-petofi-selections-phillips": {
+   "ia": "selectionsfrompo00petouoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

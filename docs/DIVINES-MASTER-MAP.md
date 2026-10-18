@@ -17228,10 +17228,10 @@ Round 7, vetoable. Gutenberg text placed by hand (cache URL 404s), see `_manual_
 | `coleridge-death-of-wallenstein` | Schiller | The Death of Wallenstein (Wallenstein, part 3) | Samuel Taylor Coleridge | 1800 | have | PG 6787 |
 | — | — | wallensteins-lager: Wallenstein's Camp (part 1) was not translated by Coleridge. | — | — | excluded | — |
 
-## John and E. A. Bowring (Chamisso, Goethe, Heine, Alfieri)
+## John and E. A. Bowring (Chamisso, Goethe, Heine, Alfieri, Petőfi)
 
 Shelf: `pipeline/bowring_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bowring` · titles `python3 pipeline/split_shelf_titles.py bowring`.
-Round 7, vetoable. Alfieri's Tragedies (1876) added in round 92. Not converted to unit-id JSON; **no uids minted**.
+Round 7, vetoable. Alfieri's Tragedies (1876) added in round 92; Translations from Petőfi (1866) in round 110. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -17243,6 +17243,7 @@ Round 7, vetoable. Alfieri's Tragedies (1876) added in round 92. Not converted t
 | `bowring-specimens-of-the-russian-poets-vol-1` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 1 (of 2) | John Bowring | 1821 (see the Gutenberg header) | have | PG 78744 |
 | `bowring-specimens-of-the-russian-poets-vol-2` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 2 (of 2) | John Bowring | 1823 (see the Gutenberg header) | have | PG 78745 |
 | `bowring-alfieri-tragedies` | Vittorio Alfieri | The Tragedies of Vittorio Alfieri, complete, including his posthumous works, 2 vols | Edgar Alfred Bowring | 1876 | have-raw | IA `india.history.resource.85890` + IA `india.history.resource.85891` |
+| `bowring-petofi-translations` | Sándor Petőfi | Translations from Alexander Petőfi, the Magyar Poet | Sir John Bowring | 1866 | have-raw | IA `translationsfrom00peto` |
 | `john-bowring-anthologies` | — | Sir John Bowring's Specimens of the Russian Poets (1821-23), Servian Popular Poetry (1827), Poetry of the Magyars (1830): on IA; not fetched this run. | — | — | pending | — |
 
 ## John Anster (Faust I)
@@ -22171,10 +22172,10 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-fiction-2-zola-the-monomaniac-la-bete-humaine` | Émile Zola | The Monomaniac (La bête humaine) | Edward Vizetelly | (see the Gutenberg header) | have | PG 57038 |
 | — | — | spyri-65174: Spyri's The New Year's Carol: left for the spyri shelf (Lane D). | — | — | excluded | — |
 
-## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra)
+## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22217,13 +22218,14 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-takeda-chushingura` | Izumo Takeda and Shoraku Miyoshi and Senryu Namiki | Chushingura; Or, The Treasury of Loyal Retainers | Jukichi Inouye | (see the Gutenberg header) | have | PG 59421 |
 | `singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra` | anonymous (the Vajracchedikā Sūtra) | The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita | William Gemmell (from Kumārajīva's Chinese) | (see the Gutenberg header) | have | PG 64623 |
 | `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
+| `singles-plays-poetry-2-petofi-selections-phillips` | Sándor Petőfi | Selections from the Poems of Alexander Petőfi | Henry Phillips Jr. | 1885 | have-raw | IA `selectionsfrompo00petouoft` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
-## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice)
+## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22297,6 +22299,8 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-vollmar-sibylla` | A. Vollmar | Sibylla | Cornelia McFadden | (see the Gutenberg header) | have | PG 77545 |
 | `singles-fiction-3-garshin-stories-from-garshin` | Vsevolod Garshin | Stories from Garshin | E. L. Voynich | 1893 | have-raw | IA `storiesfromgars00garsgoog` |
 | `singles-fiction-3-garshin-the-signal-and-other-stories` | Vsevolod Garshin | The Signal, and Other Stories | Captain Rowland Smith | 1912 | have-raw | IA `signalotherstori00garsrich` |
+| `singles-fiction-3-zeromski-ashes-vol-1` | Stefan Żeromski | Ashes, vol. I | Helen Stankiewicz Zand | 1928 | have-raw | IA `ashes0001stef` |
+| `singles-fiction-3-zeromski-ashes-vol-2` | Stefan Żeromski | Ashes, vol. II | Helen Stankiewicz Zand | 1928 | have-raw | IA `bwb_S0-DFX-920` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -23604,6 +23608,19 @@ Round 108 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minte
 | — | — | korner-lyre-and-sword: The Lyre and Sword (1834): the translator is not named. | — | — | excluded | — |
 | — | — | gellert-life-douglas-vol-2: Vol. II of Mrs Douglas's Life of Gellert: no scan found. | — | — | excluded | — |
 | — | — | klopstock-messiah-1808: The Messiah (Bungay: C. Brightly, 1808): the scan's title page names no translator. | — | — | excluded | — |
+
+## William N. Loew (Petőfi: Gems from Petőfi, Magyar Poetry, The Apostle and Childe John; Madách's The Tragedy of Man)
+
+Shelf: `pipeline/loew_shelf.json` · fetch `python3 pipeline/fetch_shelf.py loew` · titles `python3 pipeline/split_shelf_titles.py loew`.
+Round 110 (2026-10-17), vetoable. His Mikszáth is on singles-fiction-4. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `loew-petofi-gems-from-petofi` | Sándor Petőfi and other Hungarian poets | Gems from Petőfi and Other Hungarian Poets, with a memoir of the former | William N. Loew | 1881 | have-raw | IA `gemsfrompetofiot00petorich` |
+| `loew-magyar-poetry` | Petőfi, Arany, Vörösmarty and other Hungarian poets | Magyar Poetry: Selections from Hungarian Poets | William N. Loew | 1899 | have-raw | IA `magyarpoetrysel00loewgoog` |
+| `loew-petofi-the-apostle-childe-john` | Sándor Petőfi | Alexander Petőfi: The Apostle; Childe John; Simple Steve; Cypress Leaves from the Grave of Dear Ethelke | William N. Loew | 1912 | have-raw | IA `alexanderpetfiap00peto` |
+| `loew-madach-tragedy-of-man` | Imre Madách | The Tragedy of Man: a Dramatic Poem | William N. Loew | 1908 | have-raw | IA `tragedyofmandram00madrich` |
+| — | — | mikszath-heathen-master-filcsik: Already on singles-fiction-4 (Gutenberg 31676). | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

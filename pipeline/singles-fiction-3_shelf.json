@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted.",
  "_name_words": [
   "a. e. chamot",
   "a. w. wheen",
@@ -95,7 +95,9 @@
   "william tenney brewster",
   "william wells newell",
   "z. tamotsu iwado",
-  "captain rowland smith"
+  "captain rowland smith",
+  "helen stankiewicz zand",
+  "stankiewicz zand"
  ],
  "_surname": [
   "a. e. chamot",
@@ -192,7 +194,9 @@
   "william tenney brewster",
   "william wells newell",
   "z. tamotsu iwado",
-  "captain rowland smith"
+  "captain rowland smith",
+  "helen stankiewicz zand",
+  "stankiewicz zand"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -504,6 +508,14 @@
   ],
   "sf3-garshin-the-signal-and-other-stories": [
    "captain rowland smith"
+  ],
+  "sf3-zeromski-ashes-vol-1": [
+   "helen stankiewicz zand",
+   "stankiewicz zand"
+  ],
+  "sf3-zeromski-ashes-vol-2": [
+   "helen stankiewicz zand",
+   "stankiewicz zand"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -790,6 +802,14 @@
   "sf3-garshin-the-signal-and-other-stories": [
    "signalotherstori00garsrich",
    "The Signal, and Other Stories (1912)"
+  ],
+  "sf3-zeromski-ashes-vol-1": [
+   "ashes0001stef",
+   "Ashes, vol. I (1928)"
+  ],
+  "sf3-zeromski-ashes-vol-2": [
+   "bwb_S0-DFX-920",
+   "Ashes, vol. II (1928)"
   ]
  },
  "titles": {
@@ -1358,6 +1378,22 @@
    "translator": "Captain Rowland Smith",
    "scan_edition": "Duckworth & Co., London 1912; archive.org scan",
    "note": "A different Rowland Smith from the translator of the Greek romances: this one was translator to the British Embassy at St Petersburg, as the title page says."
+  },
+  "singles-fiction-3-zeromski-ashes-vol-1": {
+   "source": "sf3-zeromski-ashes-vol-1",
+   "of": "Stefan Żeromski",
+   "work": "Ashes, vol. I",
+   "translated": 1928,
+   "translator": "Helen Stankiewicz Zand",
+   "scan_edition": "Alfred A. Knopf, New York, second printing December 1928; archive.org scan"
+  },
+  "singles-fiction-3-zeromski-ashes-vol-2": {
+   "source": "sf3-zeromski-ashes-vol-2",
+   "of": "Stefan Żeromski",
+   "work": "Ashes, vol. II",
+   "translated": 1928,
+   "translator": "Helen Stankiewicz Zand",
+   "scan_edition": "Alfred A. Knopf, New York 1928; archive.org scan"
   }
  },
  "_pending": {
@@ -2001,6 +2037,28 @@
    "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-zeromski-ashes-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "helen stankiewicz zand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2368,12 +2426,42 @@
     1994
    ],
    "post_1930_examined": "Examined in round 109: 1994 sits in a library stamp below the 1912 Duckworth imprint reading 'PRESERVATION COPY ADDED, ORIGINAL TO BE RETAINED', a stamp put in the original volume when a preservation copy was made; the scan carries none of the replacement-photocopy notices, so it is read as the 1912 original. Flagged in DIGEST-C for Adam."
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "ia": "ashes0001stef",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    1939,
+    2026
+   ],
+   "post_1930_examined": "Examined in round 110: 1939 is the end of a library telephone number on a later lending label ('01-854 1939 (all other times)') and 2026 is the Internet Archive's digitising line, not imprints; the copyright page reads Knopf, published September 1928, second printing December 1928."
+  },
+  "sf3-zeromski-ashes-vol-2": {
+   "ia": "bwb_S0-DFX-920",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1803,
+    1804,
+    1833,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "Examined in round 110: 2025 is the Internet Archive's digitising line, not an imprint; the copyright page reads Copyright 1928, by Alfred A. Knopf."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
  "_identity_checked": {
   "sf3-garshin-stories-from-garshin": {
    "author": "The title page OCR reads 'TRANSLATED BY E. L. V o y N I c H' for E. L. Voynich, letter-spaced, with 'INTRODUCTION BY S. Stepniak' and 'T. FISHER UNWIN, Paternoster Square, MDCCCXCIII'. Checked by eye 2026-10-17."
+  },
+  "sf3-zeromski-ashes-vol-1": {
+   "author": "This scan of vol. I lacks its title page, so the translator's name is not printed in it; its copyright page reads 'Copyright 1928, by Alfred A. Knopf, Inc. Originally issued as Popioły ... Published September, 1928. Second printing December, 1928', and vol. II of the same Knopf edition (bwb_S0-DFX-920) prints 'Ashes by Stefan Zeromski, translated from the Polish by Helen Stankiewicz Zand'. Checked by eye 2026-10-17."
   }
  }
 }
