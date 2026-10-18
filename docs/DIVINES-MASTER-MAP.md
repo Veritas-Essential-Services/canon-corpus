@@ -6283,6 +6283,36 @@ Slugs `gasquet-*`. Benedictine historian, later cardinal; written in English.
 | Henry VIII second editions (1888-1889); IA copies of the PG texts | alternate | not shelved |
 | Breaking with the Past (PG 34923, US copyright 1914): not a work asked for | excluded | |
 | Roswitha (PG 59770, not his); 1920s reprints of Henry VIII | excluded | |
+
+## Adolf von Harnack (round 29, my pick, 2026-10-18)
+
+Slugs `harnack-*`. Translations printed 1894-1925; History of Dogma is on another lane's shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| What is Christianity? Sixteen Lectures, tr. Thomas Bailey Saunders (London: Williams & Norgate; New York: Putnam, 1901) | have-ocr | IA `cu31924029192841` |
+| The Expansion of Christianity in the First Three Centuries, vol. I, tr. James Moffatt (London: Williams & Norgate, 1904) | have-ocr | IA `theexpansionofch01harnuoft` |
+| The Expansion of Christianity in the First Three Centuries, vol. II, tr. James Moffatt (London: Williams & Norgate, 1905) | have-ocr | IA `theexpansionofch02harnuoft` |
+| Luke the Physician, New Testament Studies I, tr. J. R. Wilkinson (London: Williams & Norgate, 1907) | have-ocr | IA `lukethephysician00harnuoft` |
+| The Sayings of Jesus, New Testament Studies II, tr. J. R. Wilkinson (London: Williams & Norgate, 1908) | have-ocr | IA `sayingsofjesusse0000harn` |
+| The Acts of the Apostles, New Testament Studies III, tr. J. R. Wilkinson (London: Williams & Norgate, 1909) | have-ocr | IA `theactsoftheapos00harnuoft` |
+| The Date of the Acts and of the Synoptic Gospels, New Testament Studies IV, tr. J. R. Wilkinson (London: Williams & Norgate, 1911) | have-ocr | IA `dateofactssynopt00harniala` |
+| The Origin of the New Testament, New Testament Studies VI, tr. J. R. Wilkinson (London: Williams & Norgate, 1925) | have-ocr | IA `originofnewtesta0000harn` |
+| The Constitution and Law of the Church in the First Two Centuries, tr. F. L. Pogson, ed. H. D. A. Major (London: Williams & Norgate, 1910) | have-ocr | IA `theconstitutiona00harnuoft` |
+| Bible Reading in the Early Church, tr. J. R. Wilkinson (London: Williams & Norgate, 1912) | have-ocr | IA `biblereadingearl00harnuoft` |
+| Monasticism: its Ideals and History, and The Confessions of St. Augustine, tr. E. E. Kellett and F. H. Marseille (London: Williams & Norgate, 1901) | have-ocr | IA `cu31924029403692` |
+| Outlines of the History of Dogma, tr. Edwin Knox Mitchell (London: Hodder and Stoughton, MDCCCXCIII) | have-ocr | IA `outlineshistoryd00harnuoft` |
+| Christianity and History, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1896) | have-ocr | IA `christianityandh00harn` |
+| Thoughts on the Present Position of Protestantism, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1899) | have-ocr | IA `thoughtsonpresen00harn` |
+| The Apostles' Creed, tr. Stewart Means, ed. T. B. Saunders (London: Adam and Charles Black, 1901) | have-ocr | IA `apostlecree00harnuoft` |
+| Essays on the Social Gospel, with Wilhelm Herrmann, tr. G. M. Craik, ed. Maurice A. Canney (London: Williams & Norgate, 1907) | have-ocr | IA `essaysonsocialgo00harnuoft` |
+| CCEL harnack/christianity (Putnam 1908 second edition) and harnack/monasticism (W&N 1911); CCEL harnack/gospel (the Social Gospel) | alternate | not shelved |
+| The Mission and Expansion of Christianity, second edition (1908; missionexpansion01harnuoft, missionexpansio02harn) | alternate | not shelved |
+| Monasticism, tr. C. R. Gillett (New York, 1895 or 1896; year not settled) | alternate | not shelved |
+| Later printings of What is Christianity? (1902-1904) and the other titles | alternate | not shelved |
+| History of Dogma: on the neil-buchanan shelf (PG 19612-19613) | excluded | |
+| CCEL harnack/mission (1972 reprint) and harnack/creed (Wipf and Stock reprint) | excluded | |
+| Horn on Harnack; Sanday's Examination (on william-sanday) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

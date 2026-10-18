@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 19:31 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 19:56 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -609,6 +609,14 @@ Sixteen authors queued in QUEUE-A.json, each built from title pages read for thi
 | Francis Aidan Gasquet | francis-aidan-gasquet_shelf.json | 3 (The Eve of the Reformation (London: John C. Nimmo, MDCCCC); The Great Pestilence (A.D. 1348-9) (London: Simpkin Marshall, 1893); English Monastic Life, the Antiquary's Books (London: Methuen, 1904)) | 5 (Henry VIII and the English Monasteries, vol. I (London: John Hodges, 1888); Henry VIII and the English Monasteries, vol. II (London: John Hodges, 1889); Edward VI and the Book of Common Prayer, with Edmund Bishop (London: John Hodges, 1890); The Old English Bible and other essays (London: John C. Nimmo, MDCCCXCVII); Parish Life in Mediaeval England (London: Methuen, 1906)) | none | Breaking with the Past (1914 copyright) |
 
 Round 28 closed 2026-10-17 19:31 CDT: sixteen new shelves, 112 items (4 clean from Gutenberg; 108 raw IA OCR). None of these authors has a CCEL text. Bishop Milner's End of Religious Controversy (3 parts, 1818) is pending, because its title page gives only 'J. M.' and the OCR never prints his name. Wiseman's Fabiola is left out like the other novels. Several title pages carry no year (Ullathorne's Autobiography and Letters, Hedley's Our Divine Saviour, R. M. Benson's Benedictus Dominus); each is recorded in `_rights_checked` with the evidence that it was printed before 1930.
+
+## Round 29: German Protestant theologians and French, German and Spanish Catholic writers in English, before 1930 (my picks)
+
+Twenty-one authors queued in QUEUE-A.json, each built from title pages read for this round. Every book is an English translation, and the translator is recorded wherever the title page names one; where it does not, the shelf says so. Juan Donoso Cortés was researched too but dropped, because lane B built his shelf first. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Adolf von Harnack | adolf-harnack_shelf.json | none | 16 (What is Christianity? Sixteen Lectures, tr. Thomas Bailey Saunders (London: Williams & Norgate; New York: Putnam, 1901); The Expansion of Christianity in the First Three Centuries, vol. I, tr. James Moffatt (London: Williams & Norgate, 1904); The Expansion of Christianity in the First Three Centuries, vol. II, tr. James Moffatt (London: Williams & Norgate, 1905); Luke the Physician, New Testament Studies I, tr. J. R. Wilkinson (London: Williams & Norgate, 1907); The Sayings of Jesus, New Testament Studies II, tr. J. R. Wilkinson (London: Williams & Norgate, 1908); The Acts of the Apostles, New Testament Studies III, tr. J. R. Wilkinson (London: Williams & Norgate, 1909); The Date of the Acts and of the Synoptic Gospels, New Testament Studies IV, tr. J. R. Wilkinson (London: Williams & Norgate, 1911); The Origin of the New Testament, New Testament Studies VI, tr. J. R. Wilkinson (London: Williams & Norgate, 1925); The Constitution and Law of the Church in the First Two Centuries, tr. F. L. Pogson, ed. H. D. A. Major (London: Williams & Norgate, 1910); Bible Reading in the Early Church, tr. J. R. Wilkinson (London: Williams & Norgate, 1912); Monasticism: its Ideals and History, and The Confessions of St. Augustine, tr. E. E. Kellett and F. H. Marseille (London: Williams & Norgate, 1901); Outlines of the History of Dogma, tr. Edwin Knox Mitchell (London: Hodder and Stoughton, MDCCCXCIII); Christianity and History, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1896); Thoughts on the Present Position of Protestantism, tr. Thomas Bailey Saunders (London: Adam & Charles Black, 1899); The Apostles' Creed, tr. Stewart Means, ed. T. B. Saunders (London: Adam and Charles Black, 1901); Essays on the Social Gospel, with Wilhelm Herrmann, tr. G. M. Craik, ed. Maurice A. Canney (London: Williams & Norgate, 1907)) | none | History of Dogma (neil-buchanan shelf); modern reprints; works about him |
 
 ## Paused 2026-10-10 15:12 CDT
 
