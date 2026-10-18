@@ -10411,8 +10411,7 @@ Shelf: `pipeline/thomas-more_shelf.json`. Utopia, Burnet's translation, ed. Morl
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Utopia, tr. Gilbert Burnet, ed. Henry Morley (the etext names no printing) | Gilbert Burnet | `more-burnet-utopia` | have (PG 2130) |
-
-Pending (wishlist): Robinson's 1551 Utopia in a dated printing.
+| Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869) |  | `more-robinson-utopia-arber-1869` | have-raw (IA `utopia00more`) |
 
 ## Campanella
 
@@ -11649,6 +11648,58 @@ Shelf: `pipeline/nicholas-of-cusa_shelf.json`. Renaissance Platonist mysticism.
 | The Vision of God (London: J. M. Dent, 1928) | Emma Gurney Salter | `cusa-salter-vision-of-god-1928` | have-raw (IA `visionofgod00nich`) |
 
 Pending (wishlist): Of Learned Ignorance in a pre-1931 English version
+
+## Schelling in English
+
+Shelf: `pipeline/schelling_shelf.json`. The Philosophy of Art (Johnson, 1845).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Art: an oration on the relation between the plastic arts and nature (London: John Chapman, 1845) | A. Johnson | `schelling-johnson-philosophy-of-art-1845` | have-raw (IA `philosophyartan00schegoog`) |
+
+Pending (wishlist): Of University Studies, tr. E. S. Morgan (1877)
+
+## Pierre Bayle
+
+Shelf: `pipeline/pierre-bayle_shelf.json`. The Dictionary Historical and Critical, second edition (1734-38, 5 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| The Dictionary Historical and Critical, second edition, vol. I: A-Bi (London, 1734, inferred) |  | `bayle-dictionary-1734-v1` | have-raw (IA `dictionaryhi_bayl_1738_01`) |
+| The Dictionary Historical and Critical, second edition, vol. II: Bi-E (London, 1735) |  | `bayle-dictionary-1735-v2` | have-raw (IA `dictionaryhi_bayl_1738_02`) |
+| The Dictionary Historical and Critical, second edition, vol. III: F-L (London, 1736, inferred) |  | `bayle-dictionary-1736-v3` | have-raw (IA `dictionaryhi_bayl_1738_03`) |
+| The Dictionary Historical and Critical, second edition, vol. IV (London, 1737) |  | `bayle-dictionary-1737-v4` | have-raw (IA `dictionaryhi_bayl_1738_04`) |
+| The Dictionary Historical and Critical, second edition, vol. V (London, 1738) |  | `bayle-dictionary-1738-v5` | have-raw (IA `dictionaryhi_bayl_1738_05`) |
+
+## Joseph Glanvill
+
+Shelf: `pipeline/joseph-glanvill_shelf.json`. Essays (1676) and Scepsis Scientifica (Owen, 1885).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Essays on Several Important Subjects in Philosophy and Religion (London: John Baker and Henry Mortlock, 1676) |  | `glanvill-essays-1676` | have-raw (IA `essaysonseverali00glan`) |
+| Scepsis Scientifica, ed. John Owen (London: Kegan Paul, Trench, 1885) |  | `glanvill-owen-scepsis-scientifica-1885` | have-raw (IA `scepsisscientifi00glan`) |
+
+Pending (wishlist): Saducismus Triumphatus in a scan over the OCR gate
+
+## John Toland
+
+Shelf: `pipeline/john-toland_shelf.json`. Pantheisticon (1751, first English).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| Pantheisticon, first English translation (London: Sam. Paterson; year not legible, 1751 per catalogue) |  | `toland-pantheisticon-1751` | have-raw (IA `cu31924029188393`) |
+
+Pending (wishlist): Christianity not Mysterious (1696) and Letters to Serena (1704) in scans over the OCR gate
+
+## Thomas Chubb
+
+Shelf: `pipeline/thomas-chubb_shelf.json`. A Collection of Tracts, second edition (1754, 2 vols.).
+
+| Work | Note | Slug | Status |
+|---|---|---|---|
+| A Collection of Tracts on Various Subjects, second edition, vol. I (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v1` | have-raw (IA `acollectiontrac01chubgoog`) |
+| A Collection of Tracts on Various Subjects, second edition, vol. II (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v2` | have-raw (IA `collectionoftrac02chub`) |
 
 ## Perseus census (overflow)
 

@@ -1051,3 +1051,13 @@
 - Malthus: Essay on Population, 6th ed. (Murray, 1826, 2 vols.)
 - Bentham: Rationale of Judicial Evidence (Hunt and Clarke, 1827, 5 vols.), ed. J. S. Mill
 - Hobbes: Molesworth vols. 8-11 not wanted (Thucydides and Homer translations held elsewhere)
+
+## 2026-10-17 19:36 CDT — Round ar: new shelves for unowned canon figures
+- More: Utopia, tr. Robinson, ed. Arber (1869)
+- Schelling: The Philosophy of Art, tr. A. Johnson (1845), new shelf
+- Bayle: Dictionary Historical and Critical, 2nd ed. (1734-38, 5 vols.), new shelf; years inferred on vols. I and III, vol. I's OCR looks incomplete
+- Glanvill: Essays (1676); Scepsis Scientifica (1885), new shelf
+- Toland: Pantheisticon (1751, year from catalogue), new shelf
+- Chubb: Collection of Tracts (1754, 2 vols.), new shelf
+- Held under the OCR gate: Toland's Christianity not Mysterious and Letters to Serena; Gassendi's Three Discourses (1699)
+- Checked and left: Condillac, Dilthey, Maine de Biran, Renouvier, Jacobi, Vico and Brentano have no PD English text found; Fouillee's English version is Greenstreet's (Lane C)
