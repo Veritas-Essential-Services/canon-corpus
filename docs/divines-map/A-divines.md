@@ -6886,3 +6886,11 @@ Slugs `ebrard-*`. His continuations of Olshausen: St John's Epistles and Hebrews
 | Biblical Commentary on the Epistles of St. John, tr. W. B. Pope (Edinburgh: T. & T. Clark, MDCCCLX) | have-ocr | IA `commentarystjohn00ebrauoft` |
 | Biblical Commentary on the Epistle to the Hebrews, second edition, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLXII) | have-ocr | IA `biblicalcommenta00ebra_0` |
 | Another Hebrews copy | alternate | not shelved |
+
+## August Wiesinger (round 30, my pick, 2026-10-18)
+
+Slugs `wiesinger-*`. His continuation of Olshausen: Philippians, Titus and 1 Timothy.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Commentary on St. Paul's Epistles to the Philippians, to Titus, and the First to Timothy, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLI) | have-ocr | IA `biblicalcomment00fultgoog` |

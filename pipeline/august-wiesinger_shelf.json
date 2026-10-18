@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain August Wiesinger in English for the Word Hoard: his continuation of Olshausen's commentary on Philippians, Titus and 1 Timothy, tr. John Fulton (Edinburgh: T. & T. Clark, 1851), from an Internet Archive scan. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wiesinger"
+ ],
+ "_surname": [
+  "wiesinger",
+  "august wiesinger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wiesinger-philippians-titus-timothy": [
+   "biblicalcomment00fultgoog",
+   "Biblical Commentary on St. Paul's Epistles to the Philippians, to Titus, and the First to Timothy, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLI)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "wiesinger-philippians-titus-timothy": "fulton"
+ },
+ "_checks": {
+  "wiesinger-philippians-titus-timothy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiesinger",
+   "translator_claimed": "fulton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

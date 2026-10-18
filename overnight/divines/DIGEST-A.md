@@ -665,6 +665,7 @@ Twenty-six authors queued in QUEUE-A.json, each built from title pages read for 
 | Gottlieb Lünemann | gottlieb-lunemann_shelf.json | none | 2 (Critical and Exegetical Handbook to the Epistles of St. Paul to the Thessalonians, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXX); Critical and Exegetical Handbook to the Epistle to the Hebrews, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXXII)) | none | none |
 | Johann Eduard Huther | johann-eduard-huther_shelf.json | none | 3 (Critical and Exegetical Handbook to the Epistles to Timothy and Titus, tr. David Hunter (Edinburgh: T. & T. Clark, MDCCCLXXXI); Critical and Exegetical Handbook to the General Epistles of Peter and Jude, tr. D. B. Croom and Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXXI); Critical and Exegetical Handbook to the General Epistles of James and John, tr. Paton J. Gloag and Clarke H. Irwin (Edinburgh: T. & T. Clark, MDCCCLXXXII)) | none | none |
 | August Ebrard | august-ebrard_shelf.json | none | 2 (Biblical Commentary on the Epistles of St. John, tr. W. B. Pope (Edinburgh: T. & T. Clark, MDCCCLX); Biblical Commentary on the Epistle to the Hebrews, second edition, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLXII)) | 1 (His Gospel History and Apologetics in English: not researched) | none |
+| August Wiesinger | august-wiesinger_shelf.json | none | 1 (Biblical Commentary on St. Paul's Epistles to the Philippians, to Titus, and the First to Timothy, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLI)) | none | none |
 
 ## Paused 2026-10-10 15:12 CDT
 
