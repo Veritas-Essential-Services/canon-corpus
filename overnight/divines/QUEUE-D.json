@@ -2781,6 +2781,14 @@
       "started": "2026-10-17T19:21:35-05:00",
       "finished": "2026-10-17T19:21:35-05:00",
       "notes": "howells: new shelf, 89 Gutenberg books, 75,851 units, 5581 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "gaskell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Elizabeth Gaskell; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:21:36-05:00",
+      "finished": "2026-10-17T19:21:36-05:00",
+      "notes": "gaskell: new shelf, 19 Gutenberg books, 24,041 units, 474 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -1320,3 +1320,6 @@
 
 ## 2026-10-17 19:21 CDT — howells: done
 - howells: new shelf, 89 Gutenberg books, 75,851 units, 5581 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:21 CDT — gaskell: done
+- gaskell: new shelf, 19 Gutenberg books, 24,041 units, 474 ~2 ids; verify 0 mismatches, 0 rights flags.

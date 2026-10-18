@@ -1,0 +1,282 @@
+{
+ "_about": "Elizabeth Gaskell's novels, tales and her Life of Charlotte Bronte: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Elizabeth Gaskell",
+ "_name_words": [
+  "gaskell"
+ ],
+ "_surname": [
+  "elizabeth gaskell",
+  "elizabeth cleghorn gaskell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gaskell-cranford": [
+   394,
+   "Cranford",
+   {
+    "contents_only": true
+   }
+  ],
+  "gaskell-mary-barton": [
+   2153,
+   "Mary Barton",
+   {
+    "contents_only": true
+   }
+  ],
+  "gaskell-lizzie-leigh": [
+   2521,
+   "Lizzie Leigh"
+  ],
+  "gaskell-a-dark-nights-work": [
+   2522,
+   "A Dark Night's Work"
+  ],
+  "gaskell-my-lady-ludlow": [
+   2524,
+   "My Lady Ludlow"
+  ],
+  "gaskell-an-accursed-race": [
+   2531,
+   "An Accursed Race"
+  ],
+  "gaskell-half-brothers": [
+   2532,
+   "The Half-Brothers"
+  ],
+  "gaskell-round-the-sofa": [
+   2533,
+   "Round the Sofa"
+  ],
+  "gaskell-half-a-life-time-ago": [
+   2547,
+   "Half a Life-Time Ago"
+  ],
+  "gaskell-poor-clare": [
+   2548,
+   "The Poor Clare"
+  ],
+  "gaskell-doom-of-the-griffiths": [
+   2549,
+   "The Doom of the Griffiths"
+  ],
+  "gaskell-cousin-phillis": [
+   4268,
+   "Cousin Phillis"
+  ],
+  "gaskell-wives-and-daughters": [
+   4274,
+   "Wives and Daughters"
+  ],
+  "gaskell-ruth": [
+   4275,
+   "Ruth",
+   {
+    "contents_only": true
+   }
+  ],
+  "gaskell-north-and-south": [
+   4276,
+   "North and South"
+  ],
+  "gaskell-sylvias-lovers-complete": [
+   4537,
+   "Sylvia's Lovers — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gaskell-moorland-cottage": [
+   11371,
+   "The Moorland Cottage"
+  ],
+  "gaskell-curious-if-true-strange-tales": [
+   24879,
+   "Curious, if True Strange Tales"
+  ],
+  "gaskell-grey-woman-and-other-tales": [
+   28636,
+   "The Grey Woman and other Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 4534, 4535, 4536, 58092, 58093: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 57539: second Gutenberg editions of titles already on the shelf.",
+  "pg-2324": "PG 2324 A House to Let: a joint Christmas number (Dickens, Collins, Gaskell, Procter); it is on the dickens-works shelf.",
+  "pg-57627": "PG 57627 Mrs. Gaskell: Haunts, Homes and Stories, a study of Gaskell by Mrs. Ellis H. Chadwick."
+ },
+ "_checks": {
+  "gaskell-cranford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-mary-barton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-lizzie-leigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-a-dark-nights-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-my-lady-ludlow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-an-accursed-race": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-half-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-round-the-sofa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-half-a-life-time-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-poor-clare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-doom-of-the-griffiths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-cousin-phillis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-wives-and-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-ruth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-north-and-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-sylvias-lovers-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-moorland-cottage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-curious-if-true-strange-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-grey-woman-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -7909,6 +7909,36 @@ Shelf: `pipeline/howells_shelf.json` (2026-10-17; added at the coordinator's rel
 | pg-25383 | excluded | PG 25383 Boy Life: stories selected by Percival Chubb from books already on the shelf. |
 | pg-3400 | excluded | PG 3399, 3400: Gutenberg omnibus files that join the separate books already on the shelf. |
 
+## Elizabeth Gaskell
+
+Shelf: `pipeline/gaskell_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cranford | have | PG 394, `gaskell-cranford` (715 units) |
+| Mary Barton | have | PG 2153, `gaskell-mary-barton` (3075 units) |
+| Lizzie Leigh | have | PG 2521, `gaskell-lizzie-leigh` (205 units) |
+| A Dark Night's Work | have | PG 2522, `gaskell-a-dark-nights-work` (878 units) |
+| My Lady Ludlow | have | PG 2524, `gaskell-my-lady-ludlow` (740 units) |
+| An Accursed Race | have | PG 2531, `gaskell-an-accursed-race` (34 units) |
+| The Half-Brothers | have | PG 2532, `gaskell-half-brothers` (26 units) |
+| Round the Sofa | have | PG 2533, `gaskell-round-the-sofa` (1448 units) |
+| Half a Life-Time Ago | have | PG 2547, `gaskell-half-a-life-time-ago` (215 units) |
+| The Poor Clare | have | PG 2548, `gaskell-poor-clare` (231 units) |
+| The Doom of the Griffiths | have | PG 2549, `gaskell-doom-of-the-griffiths` (165 units) |
+| Cousin Phillis | have | PG 4268, `gaskell-cousin-phillis` (516 units) |
+| Wives and Daughters | have | PG 4274, `gaskell-wives-and-daughters` (4367 units) |
+| Ruth | have | PG 4275, `gaskell-ruth` (2558 units) |
+| North and South | have | PG 4276, `gaskell-north-and-south` (3113 units) |
+| Sylvia's Lovers — Complete | have | PG 4537, `gaskell-sylvias-lovers-complete` (3085 units) |
+| The Moorland Cottage | have | PG 11371, `gaskell-moorland-cottage` (797 units) |
+| Curious, if True Strange Tales | have | PG 24879, `gaskell-curious-if-true-strange-tales` (918 units) |
+| The Grey Woman and other Tales | have | PG 28636, `gaskell-grey-woman-and-other-tales` (955 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 4534, 4535, 4536, 58092, 58093: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 57539: second Gutenberg editions of titles already on the shelf. |
+| pg-2324 | excluded | PG 2324 A House to Let: a joint Christmas number (Dickens, Collins, Gaskell, Procter); it is on the dickens-works shelf. |
+| pg-57627 | excluded | PG 57627 Mrs. Gaskell: Haunts, Homes and Stories, a study of Gaskell by Mrs. Ellis H. Chadwick. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
