@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:06 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:13 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -899,6 +899,7 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 |---|---|---|---|---|---|
 | Ephrem the Syrian | ephrem-the-syrian_shelf.json | none | 4 (Rhythms of Saint Ephrem the Syrian: Select Works of S. Ephrem the Syrian, tr. J. B. Morris, Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII); Select Metrical Hymns and Homilies of Ephraem Syrus, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); The Repentance of Nineveh, a metrical homily on the mission of Jonah, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912)) | none | The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill |
 | Narsai | narsai_shelf.json | none | 1 (The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909)) | none | Mingana's Syriac edition (1905) and later Syriac printings |
+| Philoxenus of Mabbug | philoxenus-of-mabbug_shelf.json | none | 2 (The Discourses of Philoxenus, Bishop of Mabbogh, vol. II, Introduction, Translation, etc., by E. A. Wallis Budge (London: Asher & Co., 1894); Three Letters of Philoxenus, Bishop of Mabbogh, with an English translation, by Arthur Adolphe Vaschalde (Tipografia della R. Accademia dei Lincei, 1902)) | none | Vol. I of the Discourses (Syriac text only) |
 
 ## Paused 2026-10-10 15:12 CDT
 

@@ -9287,3 +9287,14 @@ Slugs `narsai-*`. Built from title pages read for round 38.
 | The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909) | have-ocr | IA `liturgicalhomili00narsuoft` |
 | liturgicalhomili00narsuoft_202509 (another scan) | alternate | not shelved |
 | Mingana's Syriac edition (1905) and later Syriac printings | excluded | |
+
+## Philoxenus of Mabbug (round 38, my pick, 2026-10-18)
+
+Slugs `philoxenus-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Discourses of Philoxenus, Bishop of Mabbogh, vol. II, Introduction, Translation, etc., by E. A. Wallis Budge (London: Asher & Co., 1894) | have-ocr | IA `discoursesofphil02philuoft` |
+| Three Letters of Philoxenus, Bishop of Mabbogh, with an English translation, by Arthur Adolphe Vaschalde (Tipografia della R. Accademia dei Lincei, 1902) | have-ocr | IA `threelettersphil00philuoft` |
+| discourses02philuoft and the Google copy of vol. II; four other copies of the Three Letters | alternate | not shelved |
+| Vol. I of the Discourses (Syriac text only) | excluded | |
