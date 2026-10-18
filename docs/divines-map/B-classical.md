@@ -6098,6 +6098,9 @@ Shelf: `pipeline/james-wilson_shelf.json`. James Wilson (1742-1798). The Works, 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Works of the Honourable James Wilson, vol. I (Philadelphia, 1804) |  | `wilson-works-1804-v1` | have-raw (IA `workshonourable00wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. II (Philadelphia, 1804) |  | `wilson-works-1804-v2` | have-raw (IA `workshonourable02wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. III (Philadelphia, 1804) |  | `wilson-works-1804-v3` | have-raw (IA `workshonourable01wilsgoog`) |
 
 ## Perseus census (overflow)
 

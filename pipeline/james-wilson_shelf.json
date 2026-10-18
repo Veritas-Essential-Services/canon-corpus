@@ -1,0 +1,63 @@
+{
+ "_about": "James Wilson (1742-1798), signer of the Declaration and the Constitution and an original Associate Justice of the US Supreme Court: The Works of the Honourable James Wilson, published under the direction of Bird Wilson, 3 vols. (Philadelphia: Lorenzo Press, 1804), chiefly his law lectures of 1790-1791, raw IA OCR, clean 0.89, 0.89 and 0.88. IA labels the third volume's file 01; the volume numbers here follow the printed headers. US public domain. No uids minted.",
+ "_author": "James Wilson",
+ "_name_words": [
+  "james",
+  "wilson"
+ ],
+ "_surname": [
+  "wilson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wilson-works-1804-v1": [
+   "workshonourable00wilsgoog",
+   "The Works of the Honourable James Wilson, vol. I (Philadelphia, 1804)"
+  ],
+  "wilson-works-1804-v2": [
+   "workshonourable02wilsgoog",
+   "The Works of the Honourable James Wilson, vol. II (Philadelphia, 1804)"
+  ],
+  "wilson-works-1804-v3": [
+   "workshonourable01wilsgoog",
+   "The Works of the Honourable James Wilson, vol. III (Philadelphia, 1804)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "wilson-works-1804-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wilson-works-1804-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wilson-works-1804-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
