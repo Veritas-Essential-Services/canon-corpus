@@ -1,5 +1,5 @@
 {
- "_about": "René Descartes (1596-1650) in English, translator per row. Raw IA OCR: Haldane and Ross's Philosophical Works, vol. I (Cambridge, 1911). Clean Gutenberg: the first English Discourse of a Method (London: Thomas Newcombe, 1649; translator unnamed). Vol. II of Haldane and Ross (first published 1912) is wanted: the only scans found are 1931 and 1934 reprints (post-1930 printings, Adam's open class). Veitch's Method and Meditations are on the Adler shelf, his Principles on singles-ideas, and Molyneux's Six Metaphysical Meditations (1680) on singles-ideas-3; none is taken again. No uids minted.",
+ "_about": "René Descartes (1596-1650) in English, translator per row. Raw IA OCR: Haldane and Ross's Philosophical Works, vol. I (Cambridge, 1911). Clean Gutenberg: the first English Discourse of a Method (London: Thomas Newcombe, 1649; translator unnamed). Veitch's Method and Meditations are on the Adler shelf, his Principles on singles-ideas, and Molyneux's Six Metaphysical Meditations (1680) on singles-ideas-3; none is taken again. Added in round am: The Philosophical Works of Descartes, rendered into English, vol. II (Cambridge University Press, 1912), from a Digital Library of India scan of the first printing. US public domain. No uids minted.",
  "_author": "René Descartes",
  "_name_words": [
   "rene",
@@ -24,6 +24,10 @@
    "philosophicalwor01desc",
    "The Philosophical Works of Descartes, rendered into English, vol. I (Cambridge University Press, 1911)",
    "tr. Elizabeth S. Haldane and G. R. T. Ross"
+  ],
+  "descartes-haldane-ross-works-1912-v2": [
+   "philosophicalwor015731mbp",
+   "The Philosophical Works of Descartes, rendered into English, vol. II (Cambridge University Press, 1912)"
   ]
  },
  "_excluded": {},
@@ -33,7 +37,7 @@
  "_checks": {
   "descartes-discourse-1649": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "descartes",
    "identity": "ok",
@@ -42,7 +46,7 @@
   },
   "descartes-haldane-ross-works-1911-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "descartes",
    "translator_claimed": "Haldane",
@@ -50,6 +54,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1911",
    "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "descartes-haldane-ross-works-1912-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "descartes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
