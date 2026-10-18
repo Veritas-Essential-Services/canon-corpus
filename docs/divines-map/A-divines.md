@@ -5779,3 +5779,35 @@ Slugs `rodriguez-*`. Translator claimed: Rickaby (1929); the Duffy 1861 and 1697
 | Saint-Omer partial translations, 1627-1632 (Mental Prayer, Humility, Modesty and Silence, and others), and The Virtue of Humility (1673) | alternate | not shelved |
 | Damphoux's compilation 'from Rodriguez and other Catholic authors' (1834, 1836) | excluded | |
 | A 1977 facsimile | excluded | |
+
+## Charles Gore (round 27, my pick, 2026-10-17)
+
+Slugs `gore-*`. Bishop of Oxford, editor of Lux Mundi; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Incarnation of the Son of God, the Bampton Lectures for 1891 (London: John Murray, 1891) | have-ocr | IA `a583499000goreuoft` |
+| Dissertations on Subjects connected with the Incarnation (London: John Murray, 1895) | have-ocr | IA `dissertationsons00goreuoft` |
+| The Sermon on the Mount, a practical exposition (London: John Murray, 1896) | have-ocr | IA `sermononmountpra00gore` |
+| St. Paul's Epistle to the Ephesians, a practical exposition (London: John Murray, 1898) | have-ocr | IA `stpaulsepistle00goreuoft` |
+| St. Paul's Epistle to the Romans, a practical exposition, vol. I (London: John Murray, 1899) | have-ocr | IA `stpaulsepistle01goreiala` |
+| St. Paul's Epistle to the Romans, a practical exposition, vol. II (London: John Murray, 1900) | have-ocr | IA `stpaulsepistleto02goreiala` |
+| The Body of Christ: an Enquiry into the Institution and Doctrine of Holy Communion (New York: Scribner, 1901) | have-ocr | IA `thebodyofchrist00goreuoft` |
+| Roman Catholic Claims (London: Rivingtons, MDCCCLXXXIX) | have-ocr | IA `romancatholiccla00goreuoft` |
+| The Ministry of the Christian Church, second edition (London: Rivingtons, MDCCCLXXXIX) | have-ocr | IA `ministryofchrist00gore` |
+| The Church and the Ministry, new edition revised by C. H. Turner (London: Longmans, Green, 1919) | have-ocr | IA `a583480900goreuoft` |
+| The Mission of the Church (London: John Murray, 1892) | have-ocr | IA `missionofchurc00gore` |
+| The New Theology and the Old Religion (London: John Murray, 1907) | have-ocr | IA `a583504100goreuoft` |
+| Orders and Unity (London: John Murray, 1909) | have-ocr | IA `ordersandunity00goreuoft` |
+| The Epistles of St. John (London: John Murray, 1920) | have-ocr | IA `epistlesofstjohn00goreuoft` |
+| The Reconstruction of Belief: Belief in God (London: John Murray, 1921) | have-ocr | IA `a583479600goreuoft` |
+| The Reconstruction of Belief: Belief in Christ (London: John Murray, 1922) | have-ocr | IA `a583475300goreuoft` |
+| The Reconstruction of Belief: The Holy Spirit and the Church (New York: Scribner, 1924) | have-ocr | IA `holyspiritandthe011907mbp` |
+| Can We Then Believe? (New York: Scribner, 1926) | have-ocr | IA `canwethenbelieve0004gore` |
+| Christ and Society, the Halley Stewart Lectures 1927 (New York: Scribner, 1928) | have-ocr | IA `christsociety0000gore` |
+| Jesus of Nazareth (New York: Henry Holt; London: Thornton Butterworth; copyright 1929) | have-ocr | IA `jesusofnazareth00gore` |
+| PG 57722 (Sermon on the Mount, 1912), 32016 (Ephesians, 1902), 32673-32674 (Romans, 1901-1902): later impressions of the IA picks | alternate | not shelved |
+| Scribner issues and later impressions of most titles; The Church and the Ministry, fourth edition (1900) | alternate | not shelved |
+| Leo the Great (SPCK reprint, 1897), Prayer and the Lord's Prayer, The Creed of the Christian, Dominant Ideas, The Religion of the Church | alternate | not shelved |
+| Lux Mundi (he edited it), Romanes's Thoughts on Religion, and other multi-author volumes | excluded | |
+| Works by H. C. Gore, a different man; a book wrongly credited to him | excluded | |

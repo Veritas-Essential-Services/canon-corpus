@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 18:45 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 19:13 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -563,6 +563,14 @@ Seventeen authors queued in QUEUE-A.json, each built from title pages read for t
 
 Round 26 closed 2026-10-17 18:45 CDT: seventeen new shelves, 107 items (1 clean from Gutenberg; 106 raw IA OCR). None of these authors has a CCEL text. Translators are claimed only where the name is legible in the OCR; garbled ones are quoted in `_rights_checked`. Alban Butler's Lives mixes two editions (Derby 1842-1846, with vol. 8 from Dublin 1780) because one Derby volume has no text layer. Pseudonymous or anonymous books (Döllinger's Janus and Quirinus, Challoner's Britannia Sancta) are alternates until Adam rules on attribution.
 
+
+## Round 27: Lux Mundi and Anglo-Catholic theologians, writers on mysticism, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English before 1930 (my picks)
+
+Twelve authors queued in QUEUE-A.json (a thirteenth, Nicholas of Cusa, was dropped because lane B shelved him first), each built from title pages read for this round, with the translator or editor recorded per item where the title page names one. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Charles Gore | charles-gore_shelf.json | none | 20 (The Incarnation of the Son of God, the Bampton Lectures for 1891 (London: John Murray, 1891); Dissertations on Subjects connected with the Incarnation (London: John Murray, 1895); The Sermon on the Mount, a practical exposition (London: John Murray, 1896); St. Paul's Epistle to the Ephesians, a practical exposition (London: John Murray, 1898); St. Paul's Epistle to the Romans, a practical exposition, vol. I (London: John Murray, 1899); St. Paul's Epistle to the Romans, a practical exposition, vol. II (London: John Murray, 1900); The Body of Christ: an Enquiry into the Institution and Doctrine of Holy Communion (New York: Scribner, 1901); Roman Catholic Claims (London: Rivingtons, MDCCCLXXXIX); The Ministry of the Christian Church, second edition (London: Rivingtons, MDCCCLXXXIX); The Church and the Ministry, new edition revised by C. H. Turner (London: Longmans, Green, 1919); The Mission of the Church (London: John Murray, 1892); The New Theology and the Old Religion (London: John Murray, 1907); Orders and Unity (London: John Murray, 1909); The Epistles of St. John (London: John Murray, 1920); The Reconstruction of Belief: Belief in God (London: John Murray, 1921); The Reconstruction of Belief: Belief in Christ (London: John Murray, 1922); The Reconstruction of Belief: The Holy Spirit and the Church (New York: Scribner, 1924); Can We Then Believe? (New York: Scribner, 1926); Christ and Society, the Halley Stewart Lectures 1927 (New York: Scribner, 1928); Jesus of Nazareth (New York: Henry Holt; London: Thornton Butterworth; copyright 1929)) | 1 (The first edition of The Ministry of the Christian Church (1888): not found) | Lux Mundi and other volumes he only edited; H. C. Gore |
 
 ## Paused 2026-10-10 15:12 CDT
 

@@ -1222,3 +1222,6 @@
 
 ## 2026-10-17 18:45 CDT — round 26 closed
 - 17 shelves, 107 items (0 CCEL, 1 PG, 106 IA), all `--verify --record` 0 mismatched; 0 uids minted. Clash check across all remote branches: no shelf-name or id clashes. Veto points updated in DIGEST-A.
+
+## 2026-10-17 19:13 CDT — charles-gore done
+- `pipeline/charles-gore_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for gore-ministry-christian-church (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
