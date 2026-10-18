@@ -30653,6 +30653,25 @@ Shelf: `pipeline/defoe-works_shelf.json` (2026-10-17; added at the coordinator's
 | pg-6936 | excluded | Robinson Crusoe retold by other hands: PG 6936 (Lucy Aikin, words of one syllable), 7799 (Allison), 67907 (John Lang). |
 | pg-12623 | excluded | PG 12623 and 11239: other editions of Robinson Crusoe; the reading-list defoe shelf holds the novel. |
 
+## Willa Cather
+
+Shelf: `pipeline/cather-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Song of the Lark | have | PG 44, `cather-song-of-the-lark` (2156 units) |
+| Alexander's Bridge | have | PG 94, `cather-alexanders-bridge` (480 units) |
+| The Troll Garden, and Selected Stories | have | PG 346, `cather-troll-garden-and-selected-stories` (1201 units) |
+| One of Ours | have | PG 2369, `cather-one-of-ours` (2120 units) |
+| Youth and the Bright Medusa | have | PG 13555, `cather-youth-and-the-bright-medusa` (828 units) |
+| A Collection of Stories, Reviews and Essays | have | PG 25586, `cather-a-collection-of-stories-reviews-and-essays` (1595 units) |
+| April twilights, and other poems | have | PG 64318, `cather-april-twilights-and-other-poems` (164 units) |
+| The Professor's House | have | PG 65465, `cather-professors-house` (942 units) |
+| A Lost Lady | have | PG 65636, `cather-a-lost-lady` (551 units) |
+| My mortal enemy | have | PG 78501, `cather-my-mortal-enemy` (277 units) |
+| held-elsewhere | excluded | PG 24, 242, 69730: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-19810 | excluded | PG 19810 My Antonia: a second edition; the reading-list cather shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

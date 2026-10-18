@@ -1428,3 +1428,6 @@
 
 ## 2026-10-17 20:18 CDT — defoe-works: done
 - defoe-works: new shelf, 43 Gutenberg books, 22,414 units, 1791 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — cather-works: done
+- cather-works: new shelf, 10 Gutenberg books, 10,314 units, 2645 ~2 ids; verify 0 mismatches, 0 rights flags.
