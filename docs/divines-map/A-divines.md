@@ -7061,3 +7061,14 @@ Slugs `pfleiderer-*`. Paulinism, Philosophy of Religion, Primitive Christianity 
 | Paulinism second edition (1891); Hibbert Lectures third edition (1897) and the Scribner issue; Development of Theology 1893 and 1909 editions; other copies | alternate | not shelved |
 | 1956, 1965 and 1975 reprints | excluded | |
 | Moffatt's Paul and Paulinism; articles about him; another Pfleiderer on Indian plants | excluded | |
+
+## Willibald Beyschlag (round 31, my pick, 2026-10-18)
+
+Slugs `beyschlag-*`. New Testament Theology (1895).
+
+| Work | Status | Where |
+|---|---|---|
+| New Testament Theology, vol. I, tr. Neil Buchanan (Edinburgh: T. & T. Clark, 1895) | have-ocr | IA `newtestamenttheo01beysuoft` |
+| New Testament Theology, vol. II, tr. Neil Buchanan (Edinburgh: T. & T. Clark, 1895) | have-ocr | IA `newtestamentt02beys` |
+| The 1896 and 1899 second English editions; other 1895 copies | alternate | not shelved |
+| Books on minerals and rocks by a different Beyschlag | excluded | |

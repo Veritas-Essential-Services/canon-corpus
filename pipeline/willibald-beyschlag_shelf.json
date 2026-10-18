@@ -1,0 +1,63 @@
+{
+ "_about": "Public-domain Willibald Beyschlag (1823-1900, Halle) in English for the Word Hoard: New Testament Theology, tr. Neil Buchanan (2 vols, Edinburgh: T. & T. Clark, 1895), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "beyschlag"
+ ],
+ "_surname": [
+  "beyschlag",
+  "willibald beyschlag"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beyschlag-nt-theology-1": [
+   "newtestamenttheo01beysuoft",
+   "New Testament Theology, vol. I, tr. Neil Buchanan (Edinburgh: T. & T. Clark, 1895)"
+  ],
+  "beyschlag-nt-theology-2": [
+   "newtestamentt02beys",
+   "New Testament Theology, vol. II, tr. Neil Buchanan (Edinburgh: T. & T. Clark, 1895)"
+  ]
+ },
+ "_alternates": {
+  "beyschlag-copies": "The 1896 and 1899 second English editions; other 1895 copies"
+ },
+ "_excluded": {
+  "beyschlag-other": "Books on minerals and rocks by a different Beyschlag"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "beyschlag-nt-theology-1": "buchanan",
+  "beyschlag-nt-theology-2": "buchanan"
+ },
+ "_checks": {
+  "beyschlag-nt-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "beyschlag",
+   "translator_claimed": "buchanan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beyschlag-nt-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "beyschlag",
+   "translator_claimed": "buchanan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
