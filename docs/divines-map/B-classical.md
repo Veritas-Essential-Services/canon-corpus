@@ -6509,6 +6509,7 @@ Shelf: `pipeline/robert-michels_shelf.json`. The iron law of oligarchy.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Political Parties (Hearst's International Library, 1915) | Eden and Cedar Paul | `michels-political-parties-1915` | have-raw (IA `politicalparties00michuoft`) |
 
 ## M. Ostrogorski (political parties)
 
