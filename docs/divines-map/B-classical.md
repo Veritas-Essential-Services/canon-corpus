@@ -4964,6 +4964,7 @@ Shelf: `pipeline/holbach_shelf.json`. French materialism, in English.
 |---|---|---|---|
 | Good Sense, a translation of Le Bon Sens (London: W. Stewart, undated, c. 1900) |  | `holbach-good-sense-c1900` | have (PG 7319) |
 | The System of Nature, with notes by Diderot, two volumes in one (Boston: J. P. Mendum, 1868) | H. D. Robinson | `holbach-robinson-system-of-nature-1868` | have-raw (IA `systemofnatureor68holb`) |
+| The System of Nature, or the Laws of the Moral and Physical World, 'translated from the original French of M. de Mirabaud', 3 vols. in one scan (London: Thomas Davison, 1820; R. Helder, 1821) |  | `holbach-system-of-nature-1820-21` | have-raw (IA `systemofnatureor13holb`) |
 
 Pending (wishlist): Ecce Homo (1827) from a period printing; Christianity Unveiled
 
