@@ -7304,6 +7304,8 @@ Shelf: `pipeline/alexander-hamilton_shelf.json`. Two volumes.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Federalist Papers (1787-88; with James Madison and John Jay) |  | `hamilton-federalist` | have (PG 1404) |
+| The Works of Alexander Hamilton, vol. 1 |  | `hamilton-works-1` | have (PG 71719) |
 
 ## James Madison (the Federal Convention)
 
