@@ -9298,3 +9298,12 @@ Slugs `philoxenus-*`. Built from title pages read for round 38.
 | Three Letters of Philoxenus, Bishop of Mabbogh, with an English translation, by Arthur Adolphe Vaschalde (Tipografia della R. Accademia dei Lincei, 1902) | have-ocr | IA `threelettersphil00philuoft` |
 | discourses02philuoft and the Google copy of vol. II; four other copies of the Three Letters | alternate | not shelved |
 | Vol. I of the Discourses (Syriac text only) | excluded | |
+
+## Isaac of Nineveh (round 38, my pick, 2026-10-18)
+
+Slugs `isaac-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| Mystic Treatises by Isaac of Nineveh, tr. A. J. Wensinck, Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afd. Letterkunde, Nieuwe Reeks XXIII.1 (Amsterdam, 1923) | have-ocr | IA `IsaacOfNinevehMysticTreatises` |
+| isaac_of_nineveh_mystical_treatises (another scan; its OCR reads 1933, a garble for 1923) | alternate | not shelved |

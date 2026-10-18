@@ -1948,3 +1948,6 @@
 
 ## 2026-10-17 23:13 CDT — philoxenus-of-mabbug done
 - `pipeline/philoxenus-of-mabbug_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — isaac-of-nineveh done
+- `pipeline/isaac-of-nineveh_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
