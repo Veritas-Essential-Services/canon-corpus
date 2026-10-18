@@ -3813,6 +3813,7 @@ Shelf: `pipeline/herder_shelf.json`. Marsh's Spirit of Hebrew Poetry (1833).
 |---|---|---|---|
 | The Spirit of Hebrew Poetry, vol. I (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v1` | have-raw (IA `spiritofhebrewpo01herd`) |
 | The Spirit of Hebrew Poetry, vol. II (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v2` | have-raw (IA `spirithebrewpoe02marsgoog`) |
+| Outlines of a Philosophy of the History of Man (London: J. Johnson, 1800) | T. Churchill | `herder-churchill-outlines-1800` | have-raw (IA `b22010282`) |
 
 ## Adam Smith
 
