@@ -242,6 +242,10 @@
   "jlondon-abysmal-brute": [
    55948,
    "The Abysmal Brute"
+  ],
+  "jlondon-john-barleycorn": [
+   318,
+   "John Barleycorn"
   ]
  },
  "internet_archive": {},
@@ -255,7 +259,7 @@
  "_checks": {
   "jlondon-call-of-the-wild": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -264,7 +268,7 @@
   },
   "jlondon-white-fang": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -273,7 +277,7 @@
   },
   "jlondon-before-adam": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -282,7 +286,7 @@
   },
   "jlondon-love-of-life-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -291,7 +295,7 @@
   },
   "jlondon-burning-daylight": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -300,7 +304,7 @@
   },
   "jlondon-red-one": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -309,7 +313,7 @@
   },
   "jlondon-tales-of-the-fish-patrol": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -318,7 +322,7 @@
   },
   "jlondon-night-born": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -327,7 +331,7 @@
   },
   "jlondon-martin-eden": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -336,7 +340,7 @@
   },
   "jlondon-sea-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -345,7 +349,7 @@
   },
   "jlondon-strength-of-the-strong": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -354,7 +358,7 @@
   },
   "jlondon-moon-face-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -363,7 +367,7 @@
   },
   "jlondon-faith-of-men": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -372,7 +376,7 @@
   },
   "jlondon-game": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -381,7 +385,7 @@
   },
   "jlondon-jerry-of-the-islands": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -390,7 +394,7 @@
   },
   "jlondon-jacket-the-star-rover": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -399,7 +403,7 @@
   },
   "jlondon-adventure": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -408,7 +412,7 @@
   },
   "jlondon-iron-heel": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -417,7 +421,7 @@
   },
   "jlondon-war-of-the-classes": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -426,7 +430,7 @@
   },
   "jlondon-south-sea-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -435,7 +439,7 @@
   },
   "jlondon-valley-of-the-moon": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -444,7 +448,7 @@
   },
   "jlondon-smoke-bellew": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -453,7 +457,7 @@
   },
   "jlondon-god-of-his-fathers": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -462,7 +466,7 @@
   },
   "jlondon-human-drift": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -471,7 +475,7 @@
   },
   "jlondon-people-of-the-abyss": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -480,7 +484,7 @@
   },
   "jlondon-michael-brother-of-jerry": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -489,7 +493,7 @@
   },
   "jlondon-island-tales-on-the-makaloa-mat": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -498,7 +502,7 @@
   },
   "jlondon-son-of-the-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -507,7 +511,7 @@
   },
   "jlondon-mutiny-of-the-elsinore": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -516,7 +520,7 @@
   },
   "jlondon-house-of-pride-and-other-tales-of-hawaii": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -525,7 +529,7 @@
   },
   "jlondon-lost-face": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -534,7 +538,7 @@
   },
   "jlondon-cruise-of-the-snark": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -543,7 +547,7 @@
   },
   "jlondon-when-god-laughs-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -552,7 +556,7 @@
   },
   "jlondon-revolution-and-other-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -561,7 +565,7 @@
   },
   "jlondon-little-lady-of-the-big-house": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -570,7 +574,7 @@
   },
   "jlondon-children-of-the-frost": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -579,7 +583,7 @@
   },
   "jlondon-cruise-of-the-dazzler": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -588,7 +592,7 @@
   },
   "jlondon-dutch-courage-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -597,7 +601,7 @@
   },
   "jlondon-a-daughter-of-the-snows": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -606,7 +610,7 @@
   },
   "jlondon-road": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -615,7 +619,7 @@
   },
   "jlondon-turtles-of-tasman": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -624,7 +628,7 @@
   },
   "jlondon-theft": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -633,7 +637,7 @@
   },
   "jlondon-scarlet-plague": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -642,7 +646,7 @@
   },
   "jlondon-a-son-of-the-sun": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -651,7 +655,7 @@
   },
   "jlondon-acorn-planter-a-california-forest-play-1916": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -660,7 +664,7 @@
   },
   "jlondon-kempton-wace-letters": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -669,7 +673,7 @@
   },
   "jlondon-scorn-of-women": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -678,7 +682,7 @@
   },
   "jlondon-hearts-of-three": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -687,7 +691,16 @@
   },
   "jlondon-abysmal-brute": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-john-barleycorn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
