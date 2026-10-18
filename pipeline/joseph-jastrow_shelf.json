@@ -1,0 +1,108 @@
+{
+ "_about": "Joseph Jastrow (1863-1944), American experimental psychologist at Wisconsin and debunker of the occult; the duck-rabbit figure is his. Raw IA OCR: The Time-Relations of Mental Phenomena (New York: N. D. C. Hodges, 1890); Fact and Fable in Psychology (London: Macmillan, 1901); The Subconscious (Houghton Mifflin, copyright 1905; the verso year is the only one printed); The Qualities of Men (Houghton Mifflin, 1910); Character and Temperament (Appleton, 1915); The Psychology of Conviction (Houghton Mifflin, 1918). Later popular books after 1930 are not taken. US public domain. No uids minted.",
+ "_author": "Joseph Jastrow",
+ "_name_words": [
+  "joseph",
+  "jastrow"
+ ],
+ "_surname": [
+  "jastrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jastrow-time-relations-of-mental-phenomena-1890": [
+   "timerelationsofm00jastuoft",
+   "The Time-Relations of Mental Phenomena (Hodges, 1890)"
+  ],
+  "jastrow-fact-and-fable-in-psychology-1901": [
+   "factfableinpsych01jast",
+   "Fact and Fable in Psychology (Macmillan, 1901)"
+  ],
+  "jastrow-subconscious-1905": [
+   "subconscious00jast",
+   "The Subconscious (Houghton Mifflin, 1905)"
+  ],
+  "jastrow-qualities-of-men-1910": [
+   "qualitiesmenane02jastgoog",
+   "The Qualities of Men (Houghton Mifflin, 1910)"
+  ],
+  "jastrow-character-and-temperament-1915": [
+   "cu31924029121049",
+   "Character and Temperament (Appleton, 1915)"
+  ],
+  "jastrow-psychology-of-conviction-1918": [
+   "psychologyofconv00jastuoft",
+   "The Psychology of Conviction (Houghton Mifflin, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "jastrow-time-relations-of-mental-phenomena-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jastrow-fact-and-fable-in-psychology-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jastrow-subconscious-1905": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jastrow-qualities-of-men-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jastrow-character-and-temperament-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jastrow-psychology-of-conviction-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jastrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

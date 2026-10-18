@@ -7806,6 +7806,12 @@ Shelf: `pipeline/joseph-jastrow_shelf.json`. Six books, 1890-1918.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Time-Relations of Mental Phenomena (Hodges, 1890) |  | `jastrow-time-relations-of-mental-phenomena-1890` | have-raw (IA `timerelationsofm00jastuoft`) |
+| Fact and Fable in Psychology (Macmillan, 1901) |  | `jastrow-fact-and-fable-in-psychology-1901` | have-raw (IA `factfableinpsych01jast`) |
+| The Subconscious (Houghton Mifflin, 1905) |  | `jastrow-subconscious-1905` | have-raw (IA `subconscious00jast`) |
+| The Qualities of Men (Houghton Mifflin, 1910) |  | `jastrow-qualities-of-men-1910` | have-raw (IA `qualitiesmenane02jastgoog`) |
+| Character and Temperament (Appleton, 1915) |  | `jastrow-character-and-temperament-1915` | have-raw (IA `cu31924029121049`) |
+| The Psychology of Conviction (Houghton Mifflin, 1918) |  | `jastrow-psychology-of-conviction-1918` | have-raw (IA `psychologyofconv00jastuoft`) |
 
 ## Edward L. Thorndike (psychology of learning)
 
