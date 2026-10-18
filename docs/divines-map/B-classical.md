@@ -5548,8 +5548,6 @@ Shelf: `pipeline/turgot_shelf.json`. The Reflections in English, Economic Classi
 |---|---|---|---|
 | Reflections on the Formation and the Distribution of Riches (1770), Economic Classics (Macmillan, 1898; reprint 1911) |  | `turgot-reflections-riches-1911` | have-raw (IA `reflectionsonfor00turg`) |
 
-Pending (wishlist): W. Walker Stephens, Life and Writings of Turgot (1895), with translated extracts
-
 ## Jean-Baptiste Say (political economy)
 
 Shelf: `pipeline/jean-baptiste-say_shelf.json`. Prinsep's translation in Biddle's American edition. Not minted.
@@ -5557,8 +5555,6 @@ Shelf: `pipeline/jean-baptiste-say_shelf.json`. Prinsep's translation in Biddle'
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Treatise on Political Economy, tr. C. R. Prinsep, ed. Clement C. Biddle (Philadelphia: Lippincott, 1857) | Prinsep | `say-prinsep-treatise-1857` | have-raw (IA `treatiseonpoliti00sayjrich`) |
-
-Pending (wishlist): A Catechism of Political Economy (tr. Richter, 1816 or 1821)
 
 ## Friedrich List (political economy)
 
@@ -5700,8 +5696,6 @@ Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What So
 |---|---|---|---|
 | Folkways (Ginn, 1906) |  | `sumner-folkways-1906` | have (PG 24253) |
 | The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919) |  | `sumner-forgotten-man-keller-1919` | have (PG 65693) |
-
-Pending (wishlist): What Social Classes Owe to Each Other (1883) in a pre-1931 printing
 
 ## Frederic Bastiat (anonymous translations)
 
@@ -5880,8 +5874,6 @@ Shelf: `pipeline/james-beattie_shelf.json`. The 1776 Essays. Not minted.
 |---|---|---|---|
 | Essays on Truth, Poetry and Music, Laughter, and Classical Learning (Edinburgh: Creech, 1776) |  | `beattie-essays-truth-1776` | have-raw (IA `essaysontruth00beatuoft`) |
 
-Pending (wishlist): The Elements of Moral Science (1790-93)
-
 ## George Campbell (rhetoric and miracles)
 
 Shelf: `pipeline/george-campbell_shelf.json`. Philosophy of Rhetoric (1885 Harper) and Dissertation on Miracles (1762). Not minted.
@@ -5908,8 +5900,6 @@ Shelf: `pipeline/alexander-gerard_shelf.json`. Essay on Taste, first edition (17
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | An Essay on Taste, with dissertations by Voltaire, d'Alembert and Montesquieu (1759) |  | `gerard-essay-on-taste-1759` | have-raw (IA `essayontaste00geraiala`) |
-
-Pending (wishlist): An Essay on Genius (1774)
 
 ## K. C. F. Krause (social philosophy)
 
@@ -6225,7 +6215,7 @@ Shelf: `pipeline/james-fitzjames-stephen_shelf.json`. Sir James Fitzjames Stephe
 | A History of the Criminal Law of England, vol. II (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v2` | have-raw (IA `cu31924069587222`) |
 | A History of the Criminal Law of England, vol. III (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v3` | have-raw (IA `cu31924069587230`) |
 
-Pending (wishlist): Horae Sabbaticae
+Pending (wishlist): Horae Sabbaticae, second series (1892), in a dated scan
 
 ## Benjamin Kidd (Social Evolution)
 
@@ -6288,8 +6278,8 @@ Shelf: `pipeline/john-watson-philosopher_shelf.json`. John Watson (1847-1939) of
 | Christianity and Idealism (Macmillan, 1897) |  | `watson-christianity-and-idealism-1897` | have-raw (IA `cu31924031275542`) |
 | The Philosophical Basis of Religion (Maclehose, 1907) |  | `watson-philosophical-basis-religion-1907` | have-raw (IA `philosophicalba00watsgoog`) |
 | The Philosophy of Kant Explained (Maclehose, 1908) |  | `watson-philosophy-of-kant-explained-1908` | have-raw (IA `philosophyofkant00wats`) |
-
-Pending (wishlist): The Interpretation of Religious Experience (Gifford Lectures, 1912, 2 vols.)
+| The Interpretation of Religious Experience, Part First: Historical (Gifford Lectures; Glasgow: MacLehose, 1912) |  | `watson-interpretation-religious-experience-1912-v1` | have-raw (IA `interpretationo01wats`) |
+| The Interpretation of Religious Experience, Part Second: Constructive (Glasgow: MacLehose, 1912) |  | `watson-interpretation-religious-experience-1912-v2` | have-raw (IA `cihm_77675`) |
 
 ## A. E. Taylor (idealist metaphysics)
 
@@ -6380,8 +6370,6 @@ Shelf: `pipeline/lester-frank-ward_shelf.json`. Lester Frank Ward (1841-1913). P
 | Pure Sociology (Macmillan, 1903; second edition 1919) |  | `ward-pure-sociology-1903` | have-raw (IA `puresociologytre00ward`) |
 | Applied Sociology (Ginn, 1906) |  | `ward-applied-sociology-1906` | have-raw (IA `appliedsociology00ward`) |
 
-Pending (wishlist): Dynamic Sociology (1883, 2 vols.)
-
 ## Franklin Henry Giddings (sociology)
 
 Shelf: `pipeline/franklin-henry-giddings_shelf.json`. Franklin Henry Giddings (1855-1931). Principles of Sociology (1896), raw IA OCR.
@@ -6407,8 +6395,6 @@ Shelf: `pipeline/roy-wood-sellars_shelf.json`. Roy Wood Sellars (1880-1973). Nex
 | The Next Step in Religion (Macmillan, 1918) |  | `sellars-next-step-in-religion-1918` | have (PG 31920) |
 | The Essentials of Philosophy (Macmillan, 1917) |  | `sellars-essentials-of-philosophy-1917` | have-raw (IA `theessentialsofp00selluoft`) |
 | Evolutionary Naturalism (Open Court, 1922) |  | `sellars-evolutionary-naturalism-1922` | have-raw (IA `evolutionarynat01sellgoog`) |
-
-Pending (wishlist): Critical Realism (1916)
 
 ## Giovanni Gentile (actual idealism)
 
@@ -6450,8 +6436,6 @@ Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). S
 | Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
 | A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
 
-Pending (wishlist): Prolegomena to an Idealist Theory of Knowledge (1924)
-
 ## C. Lloyd Morgan (comparative psychology, emergence)
 
 Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Comparative Psychology (1894) and Emergent Evolution (1923; 1928 printing); raw IA OCR.
@@ -6461,7 +6445,7 @@ Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Compar
 | An Introduction to Comparative Psychology (Walter Scott, 1894) |  | `lloyd-morgan-comparative-psychology-1894` | have-raw (IA `introductiontoco00morg`) |
 | Emergent Evolution (1923; Holt printing 1928) |  | `lloyd-morgan-emergent-evolution-1923` | have-raw (IA `emergentevolutio0000morg`) |
 
-Pending (wishlist): Animal Life and Intelligence (1890) with a legible title page; Life, Mind and Spirit (1926)
+Pending (wishlist): Animal Life and Intelligence (1890) with a legible title page
 
 ## John Laird (realism)
 
@@ -6537,8 +6521,6 @@ Shelf: `pipeline/shadworth-hodgson_shelf.json`. The four major treatises, first 
 | The Metaphysic of Experience, vol. IV (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v4` | have-raw (IA `metaphysicofexpe04hodgiala`) |
 | The Relation of Philosophy to Science (Williams and Norgate, 1884) |  | `hodgson-relation-of-philosophy-to-science-1884` | have-raw (IA `relationphiloso00hodggoog`) |
 
-Pending (wishlist): Outcast Essays and Verse Translations (1881)
-
 ## Oswald Külpe (Würzburg school)
 
 Shelf: `pipeline/oswald-kulpe_shelf.json`. Three translations, two by Titchener.
@@ -6583,7 +6565,7 @@ Shelf: `pipeline/james-hinton_shelf.json`. Surgeon-philosopher; four books.
 | Chapters on the Art of Thinking (Kegan Paul, 1879) |  | `hinton-chapters-art-of-thinking-1879` | have-raw (IA `chaptersonartth00hintgoog`) |
 | The Law-Breaker and the Coming of the Law (Kegan Paul, 1884) |  | `hinton-law-breaker-1884` | have-raw (IA `lawbreakerandco00hintgoog`) |
 
-Pending (wishlist): Selections from Manuscripts (1870-74, 4 vols.); Life in Nature (1862)
+Pending (wishlist): Selections from Manuscripts (1870-74, 4 vols.)
 
 ## Jacob Gould Schurman (ethics and evolution)
 
@@ -6593,8 +6575,6 @@ Shelf: `pipeline/jacob-gould-schurman_shelf.json`. Two early books.
 |---|---|---|---|
 | Kantian Ethics and the Ethics of Evolution (1881) |  | `schurman-kantian-ethics-1881` | have-raw (IA `cihm_62085`) |
 | The Ethical Import of Darwinism (Scribner's, 1888) |  | `schurman-ethical-import-of-darwinism-1888` | have-raw (IA `theethicalimport00schuuoft`) |
-
-Pending (wishlist): Agnosticism and Religion (1896); Belief in God (1890)
 
 ## James Seth (Edinburgh ethics)
 
@@ -6669,8 +6649,6 @@ Shelf: `pipeline/william-mcdougall_shelf.json`. Five books, 1905-1920.
 | An Introduction to Social Psychology, 6th ed. (Methuen, 1912) |  | `mcdougall-social-psychology-1908` | have-raw (IA `introductiontos00mcdo`) |
 | Body and Mind, 4th ed. (Methuen, c. 1918) |  | `mcdougall-body-and-mind-1911` | have-raw (IA `cu31924029080880`) |
 | Psychology, the Study of Behaviour (1912) |  | `mcdougall-psychology-study-of-behaviour-1912` | have-raw (IA `psychologystudyo00mcdorich`) |
-
-Pending (wishlist): Outline of Psychology (1923); National Welfare and National Decay (1921)
 
 ## W. P. Montague (new realism)
 
@@ -6841,8 +6819,6 @@ Shelf: `pipeline/g-stanley-hall_shelf.json`. Eight volumes, 1904-1923.
 | Jesus, the Christ, in the Light of Psychology, vol. II (1917) |  | `hall-jesus-the-christ-psychology-1917-v2` | have-raw (IA `jesuschristinli02hall`) |
 | Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing) |  | `hall-life-and-confessions-1923` | have-raw (IA `lifeconfessionso0000gsta`) |
 
-Pending (wishlist): Educational Problems (1911, 2 vols.)
-
 ## E. B. Titchener (structural psychology)
 
 Shelf: `pipeline/e-b-titchener_shelf.json`. Seven books, 1896-1929.
@@ -6884,8 +6860,6 @@ Shelf: `pipeline/w-t-harris_shelf.json`. His philosophy readings, his education 
 | The Journal of Speculative Philosophy, Vol. I (1867) |  | `harris-journal-speculative-philosophy-v1` | have (PG 65097) |
 | Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing) |  | `harris-introduction-study-of-philosophy-1889` | have-raw (IA `introductiontoth00harruoft`) |
 | Psychologic Foundations of Education (Appleton, 1898) |  | `harris-psychologic-foundations-1898` | have-raw (IA `psychologicfound00harr`) |
-
-Pending (wishlist): Hegel's Logic: A Book on the Genesis of the Categories of the Mind (1890)
 
 ## James Bissett Pratt (philosophy of religion)
 

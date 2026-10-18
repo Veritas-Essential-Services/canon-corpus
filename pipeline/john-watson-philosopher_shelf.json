@@ -1,5 +1,5 @@
 {
- "_about": "John Watson (1847-1939), Scottish-Canadian idealist, Professor of Moral Philosophy at Queen's University, Kingston. Not the Liverpool preacher John Watson ('Ian Maclaren'), nor the Puritan Thomas Watson of the watson shelf. Raw IA OCR: Kant and his English Critics (New York: Macmillan, 1881), clean 0.92; Comte, Mill, and Spencer, an outline of philosophy (Glasgow: Maclehose, 1895), clean 0.95; Hedonistic Theories from Aristippus to Spencer (Glasgow: Maclehose, 1895), clean 0.92; Christianity and Idealism (New York: Macmillan, 1897), clean 0.92; The Philosophical Basis of Religion (Glasgow: Maclehose, 1907), clean 0.94; The Philosophy of Kant Explained (Glasgow: Maclehose, 1908), clean 0.95. His Kant selections (1897) stand on the kant shelf. US public domain. No uids minted.",
+ "_about": "John Watson (1847-1939), Scottish-Canadian idealist, Professor of Moral Philosophy at Queen's University, Kingston. Not the Liverpool preacher John Watson ('Ian Maclaren'), nor the Puritan Thomas Watson of the watson shelf. Raw IA OCR: Kant and his English Critics (New York: Macmillan, 1881), clean 0.92; Comte, Mill, and Spencer, an outline of philosophy (Glasgow: Maclehose, 1895), clean 0.95; Hedonistic Theories from Aristippus to Spencer (Glasgow: Maclehose, 1895), clean 0.92; Christianity and Idealism (New York: Macmillan, 1897), clean 0.92; The Philosophical Basis of Religion (Glasgow: Maclehose, 1907), clean 0.94; The Philosophy of Kant Explained (Glasgow: Maclehose, 1908), clean 0.95. His Kant selections (1897) stand on the kant shelf. US public domain. Added in round 2026-10-17bs: The Interpretation of Religious Experience, the Gifford Lectures of 1910-12 (Glasgow: James MacLehose, 1912), 2 vols., clean 0.92 and 0.90. No uids minted.",
  "_author": "John Watson",
  "_name_words": [
   "john",
@@ -34,6 +34,14 @@
   "watson-philosophy-of-kant-explained-1908": [
    "philosophyofkant00wats",
    "The Philosophy of Kant Explained (Maclehose, 1908)"
+  ],
+  "watson-interpretation-religious-experience-1912-v1": [
+   "interpretationo01wats",
+   "The Interpretation of Religious Experience, Part First: Historical (Gifford Lectures; Glasgow: MacLehose, 1912)"
+  ],
+  "watson-interpretation-religious-experience-1912-v2": [
+   "cihm_77675",
+   "The Interpretation of Religious Experience, Part Second: Constructive (Glasgow: MacLehose, 1912)"
   ]
  },
  "_excluded": {},
@@ -101,6 +109,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1908",
    "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-interpretation-religious-experience-1912-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-interpretation-religious-experience-1912-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
