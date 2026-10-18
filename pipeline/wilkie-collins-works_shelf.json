@@ -140,6 +140,25 @@
   "wcollins-my-miscellanies-vol-2-of-2": [
    44350,
    "My Miscellanies, Vol. 2 (of 2)"
+  ],
+  "wcollins-a-fair-penitent": [
+   2006,
+   "A Fair Penitent"
+  ],
+  "wcollins-legacy-of-cain": [
+   1975,
+   "The Legacy of Cain"
+  ],
+  "wcollins-queen-of-hearts": [
+   1917,
+   "The Queen of Hearts",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcollins-armadale": [
+   1895,
+   "Armadale"
   ]
  },
  "internet_archive": {},
@@ -410,6 +429,42 @@
    "pg_translator": null
   },
   "wcollins-my-miscellanies-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-a-fair-penitent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-legacy-of-cain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-queen-of-hearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-armadale": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
