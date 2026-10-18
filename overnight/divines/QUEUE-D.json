@@ -2741,6 +2741,14 @@
       "started": "2026-10-17T19:11:01-05:00",
       "finished": "2026-10-17T19:11:01-05:00",
       "notes": "george-barr-mccutcheon: new shelf, 35 Gutenberg books, 63,270 units, 872 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eden-phillpotts",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Eden Phillpotts; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:21:30-05:00",
+      "finished": "2026-10-17T19:21:30-05:00",
+      "notes": "eden-phillpotts: new shelf, 28 Gutenberg books, 48,160 units, 2022 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

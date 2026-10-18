@@ -7608,6 +7608,41 @@ Shelf: `pipeline/george-barr-mccutcheon_shelf.json` (2026-10-17; added at the co
 | Oliver October | have | PG 69545, `gbmccutcheon-oliver-october` (2505 units) |
 | pg-59542 | excluded | PG 59542: Gutenberg's index of McCutcheon's works, not a book. |
 
+## Eden Phillpotts
+
+Shelf: `pipeline/eden-phillpotts_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dartmoor novels and stories. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Grey Room | have | PG 1577, `ephillpotts-grey-room` (1352 units) |
+| Lying Prophets: A Novel | have | PG 7968, `ephillpotts-lying-prophets` (1758 units) |
+| The Red Redmaynes | have | PG 14167, `ephillpotts-red-redmaynes` (1938 units) |
+| Children of the Mist | have | PG 14527, `ephillpotts-children-of-the-mist` (3431 units) |
+| The Spinners | have | PG 15416, `ephillpotts-spinners` (3354 units) |
+| The Torch and Other Tales | have | PG 15737, `ephillpotts-torch-and-other-tales` (1522 units) |
+| A West Country pilgrimage | have | PG 36967, `ephillpotts-a-west-country-pilgrimage` (203 units) |
+| The Human Boy and the War | have | PG 41779, `ephillpotts-human-boy-and-the-war` (1075 units) |
+| Sons of the Morning | have | PG 46857, `ephillpotts-sons-of-the-morning` (2726 units) |
+| The Virgin in Judgment | have | PG 46926, `ephillpotts-virgin-in-judgment` (2847 units) |
+| The Human Boy Again | have | PG 47198, `ephillpotts-human-boy-again` (1354 units) |
+| A Deal with the Devil | have | PG 47246, `ephillpotts-a-deal-with-the-devil` (649 units) |
+| Pixies' Plot | have | PG 47265, `ephillpotts-pixies-plot` (169 units) |
+| The Human Boy | have | PG 54270, `ephillpotts-human-boy` (781 units) |
+| The Poacher's Wife | have | PG 54795, `ephillpotts-poachers-wife` (1293 units) |
+| My Adventure in the Flying Scotsman; A Romance of London and North-Western Railway Shares | have | PG 54896, `ephillpotts-my-adventure-in-the-flying-scotsman` (104 units) |
+| Storm in a Teacup | have | PG 55468, `ephillpotts-storm-in-a-teacup` (2208 units) |
+| From the Angle of Seventeen | have | PG 55821, `ephillpotts-from-the-angle-of-seventeen` (647 units) |
+| The American Prisoner | have | PG 58232, `ephillpotts-american-prisoner` (3599 units) |
+| The Three Brothers | have | PG 58355, `ephillpotts-three-brothers` (3600 units) |
+| Knock at a Venture | have | PG 61549, `ephillpotts-knock-at-a-venture` (1528 units) |
+| Fancy free | have | PG 70255, `ephillpotts-fancy-free` (1179 units) |
+| Children of men | have | PG 71941, `ephillpotts-children-of-men` (3254 units) |
+| Orphan Dinah | have | PG 72130, `ephillpotts-orphan-dinah` (2938 units) |
+| The whirlwind | have | PG 72208, `ephillpotts-whirlwind` (2891 units) |
+| The secret woman | have | PG 77979, `ephillpotts-secret-woman` (980 units) |
+| As the wind blows | have | PG 78234, `ephillpotts-as-the-wind-blows` (213 units) |
+| The lavender dragon | have | PG 79092, `ephillpotts-lavender-dragon` (567 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

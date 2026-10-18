@@ -1,0 +1,405 @@
+{
+ "_about": "Eden Phillpotts's Dartmoor novels and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Eden Phillpotts",
+ "_name_words": [
+  "phillpotts"
+ ],
+ "_surname": [
+  "eden phillpotts"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ephillpotts-grey-room": [
+   1577,
+   "The Grey Room"
+  ],
+  "ephillpotts-lying-prophets": [
+   7968,
+   "Lying Prophets: A Novel"
+  ],
+  "ephillpotts-red-redmaynes": [
+   14167,
+   "The Red Redmaynes",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-children-of-the-mist": [
+   14527,
+   "Children of the Mist"
+  ],
+  "ephillpotts-spinners": [
+   15416,
+   "The Spinners",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-torch-and-other-tales": [
+   15737,
+   "The Torch and Other Tales"
+  ],
+  "ephillpotts-a-west-country-pilgrimage": [
+   36967,
+   "A West Country pilgrimage"
+  ],
+  "ephillpotts-human-boy-and-the-war": [
+   41779,
+   "The Human Boy and the War"
+  ],
+  "ephillpotts-sons-of-the-morning": [
+   46857,
+   "Sons of the Morning"
+  ],
+  "ephillpotts-virgin-in-judgment": [
+   46926,
+   "The Virgin in Judgment"
+  ],
+  "ephillpotts-human-boy-again": [
+   47198,
+   "The Human Boy Again"
+  ],
+  "ephillpotts-a-deal-with-the-devil": [
+   47246,
+   "A Deal with the Devil"
+  ],
+  "ephillpotts-pixies-plot": [
+   47265,
+   "Pixies' Plot"
+  ],
+  "ephillpotts-human-boy": [
+   54270,
+   "The Human Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-poachers-wife": [
+   54795,
+   "The Poacher's Wife",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-my-adventure-in-the-flying-scotsman": [
+   54896,
+   "My Adventure in the Flying Scotsman; A Romance of London and North-Western Railway Shares"
+  ],
+  "ephillpotts-storm-in-a-teacup": [
+   55468,
+   "Storm in a Teacup",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-from-the-angle-of-seventeen": [
+   55821,
+   "From the Angle of Seventeen"
+  ],
+  "ephillpotts-american-prisoner": [
+   58232,
+   "The American Prisoner"
+  ],
+  "ephillpotts-three-brothers": [
+   58355,
+   "The Three Brothers"
+  ],
+  "ephillpotts-knock-at-a-venture": [
+   61549,
+   "Knock at a Venture",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-fancy-free": [
+   70255,
+   "Fancy free",
+   {
+    "contents_only": true
+   }
+  ],
+  "ephillpotts-children-of-men": [
+   71941,
+   "Children of men"
+  ],
+  "ephillpotts-orphan-dinah": [
+   72130,
+   "Orphan Dinah"
+  ],
+  "ephillpotts-whirlwind": [
+   72208,
+   "The whirlwind"
+  ],
+  "ephillpotts-secret-woman": [
+   77979,
+   "The secret woman"
+  ],
+  "ephillpotts-as-the-wind-blows": [
+   78234,
+   "As the wind blows"
+  ],
+  "ephillpotts-lavender-dragon": [
+   79092,
+   "The lavender dragon",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ephillpotts-grey-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-lying-prophets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-red-redmaynes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-children-of-the-mist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-spinners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-torch-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-a-west-country-pilgrimage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-human-boy-and-the-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-sons-of-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-virgin-in-judgment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-human-boy-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-a-deal-with-the-devil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-pixies-plot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-human-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-poachers-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-my-adventure-in-the-flying-scotsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-storm-in-a-teacup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-from-the-angle-of-seventeen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-american-prisoner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-three-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-knock-at-a-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-fancy-free": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-children-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-orphan-dinah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-whirlwind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-secret-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-as-the-wind-blows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ephillpotts-lavender-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "eden phillpotts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
