@@ -1,5 +1,5 @@
 {
- "_about": "Benedict de Spinoza (1632-1677) in English, translator per row, raw IA OCR. Elwes's translations are lane C's (elwes shelf: the Theologico-Political Treatise and the Improvement of the Understanding) and his Ethics is on the Adler shelf (PG 3800); none is taken again here, nor the Bohn Chief Works. Here: William Hale White's Ethic (Trübner, 1883), Robert Willis's Tractatus Theologico-Politicus (Trübner, 1862) and Benedict de Spinoza: his life, correspondence, and Ethics (Trübner, 1870), William Maccall's Treatise on Politics (Holyoake, 1854), George Stuart Fullerton's Philosophy of Spinoza (Ethics I, II, V and extracts from III-IV; Holt, 2nd ed., 1894), Halbert Hains Britan's Principles of Descartes' Philosophy (Open Court, 1905), and A. Wolf's Short Treatise on God, Man and his Well-Being (A. and C. Black, 1910). All US public domain (published before 1930). Not taken: Hale White's Tractatus de Intellectus Emendatione (Fisher Unwin; the scan prints no year), and the 1888 Van Nostrand Ethics (no translator named in the book). No uids minted.",
+ "_about": "Benedict de Spinoza (1632-1677) in English, translator per row, raw IA OCR. Elwes's translations are lane C's (elwes shelf: the Theologico-Political Treatise and the Improvement of the Understanding) and his Ethics is on the Adler shelf (PG 3800); none is taken again here, nor the Bohn Chief Works. Here: William Hale White's Ethic (Trübner, 1883), Robert Willis's Tractatus Theologico-Politicus (Trübner, 1862) and Benedict de Spinoza: his life, correspondence, and Ethics (Trübner, 1870), William Maccall's Treatise on Politics (Holyoake, 1854), George Stuart Fullerton's Philosophy of Spinoza (Ethics I, II, V and extracts from III-IV; Holt, 2nd ed., 1894), Halbert Hains Britan's Principles of Descartes' Philosophy (Open Court, 1905), and A. Wolf's Short Treatise on God, Man and his Well-Being (A. and C. Black, 1910). All US public domain (published before 1930). Not taken: Hale White's Tractatus de Intellectus Emendatione (Fisher Unwin; the scan prints no year), and the 1888 Van Nostrand Ethics (no translator named in the book). Added in round 2026-10-18bx: the Elwes translation of the Ethics (1883) from Gutenberg, in its five parts, a second translation beside Hale White's. Not added: Ratner's The Philosophy of Spinoza (Gutenberg 31205), a 1927 Modern Library selection reusing Elwes; nothing in it is new. No uids minted.",
  "_author": "Benedict de Spinoza",
  "_name_words": [
   "benedict",
@@ -12,7 +12,28 @@
   "spinoza"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "spinoza-elwes-ethics-1": [
+   919,
+   "Ethics, part 1 (tr. R. H. M. Elwes, 1883)"
+  ],
+  "spinoza-elwes-ethics-2": [
+   920,
+   "Ethics, part 2 (tr. R. H. M. Elwes, 1883)"
+  ],
+  "spinoza-elwes-ethics-3": [
+   948,
+   "Ethics, part 3 (tr. R. H. M. Elwes, 1883)"
+  ],
+  "spinoza-elwes-ethics-4": [
+   971,
+   "Ethics, part 4 (tr. R. H. M. Elwes, 1883)"
+  ],
+  "spinoza-elwes-ethics-5": [
+   975,
+   "Ethics, part 5 (tr. R. H. M. Elwes, 1883)"
+  ]
+ },
  "internet_archive": {
   "spinoza-hale-white-ethic-1883": [
    "ethicdemonstrate00spinuoft",
@@ -56,12 +77,77 @@
   "spinoza-maccall-politics-1854": "Maccall",
   "spinoza-fullerton-philosophy-1894": "Fullerton",
   "spinoza-britan-descartes-principles-1905": "Britan",
-  "spinoza-wolf-short-treatise-1910": "Wolf"
+  "spinoza-wolf-short-treatise-1910": "Wolf",
+  "spinoza-elwes-ethics-1": "R. H. M. Elwes",
+  "spinoza-elwes-ethics-2": "R. H. M. Elwes",
+  "spinoza-elwes-ethics-3": "R. H. M. Elwes",
+  "spinoza-elwes-ethics-4": "R. H. M. Elwes",
+  "spinoza-elwes-ethics-5": "R. H. M. Elwes"
  },
  "_checks": {
+  "spinoza-elwes-ethics-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "R. H. M. Elwes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes",
+   "translator_match": true
+  },
+  "spinoza-elwes-ethics-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "R. H. M. Elwes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes",
+   "translator_match": true
+  },
+  "spinoza-elwes-ethics-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "R. H. M. Elwes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes",
+   "translator_match": true
+  },
+  "spinoza-elwes-ethics-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "R. H. M. Elwes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes",
+   "translator_match": true
+  },
+  "spinoza-elwes-ethics-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "R. H. M. Elwes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes",
+   "translator_match": true
+  },
   "spinoza-hale-white-ethic-1883": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "identity": "ok",
@@ -72,7 +158,7 @@
   },
   "spinoza-willis-tractatus-1862": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "identity": "ok",
@@ -83,7 +169,7 @@
   },
   "spinoza-willis-life-ethics-1870": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "translator_claimed": "Willis",
@@ -96,7 +182,7 @@
   },
   "spinoza-maccall-politics-1854": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "translator_claimed": "Maccall",
@@ -109,7 +195,7 @@
   },
   "spinoza-fullerton-philosophy-1894": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "translator_claimed": "Fullerton",
@@ -122,7 +208,7 @@
   },
   "spinoza-britan-descartes-principles-1905": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "translator_claimed": "Britan",
@@ -135,7 +221,7 @@
   },
   "spinoza-wolf-short-treatise-1910": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "spinoza",
    "translator_claimed": "Wolf",

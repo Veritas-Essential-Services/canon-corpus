@@ -3687,6 +3687,11 @@ Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English
 | The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
 | The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905) | Halbert Hains Britan | `spinoza-britan-descartes-principles-1905` | have-raw (IA `cu31924029050636`) |
 | Spinoza's Short Treatise on God, Man, and his Well-Being, translated and edited, with an introduction and commentary and a life of Spinoza (London: A. and C. Black, 1910) | A. Wolf | `spinoza-wolf-short-treatise-1910` | have-raw (IA `spinozasshorttre00spin`) |
+| Ethics, part 1 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-1` | have (PG 919) |
+| Ethics, part 2 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-2` | have (PG 920) |
+| Ethics, part 3 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-3` | have (PG 948) |
+| Ethics, part 4 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-4` | have (PG 971) |
+| Ethics, part 5 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-5` | have (PG 975) |
 
 Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
 
@@ -4481,7 +4486,7 @@ Shelf: `pipeline/george-boole_shelf.json`. The Laws of Thought (1854). The Mathe
 |---|---|---|---|
 | An Investigation of the Laws of Thought (London: Walton and Maberly, 1854) |  | `boole-laws-of-thought-1854` | have-raw (IA `bub_gb_SWgLVT0otY8C`) |
 
-Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile)
+Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile); The Calculus of Logic (1848). Gutenberg holds both, and its Laws of Thought, only as PDF or TeX
 
 ## Wittgenstein in English
 
@@ -6154,7 +6159,7 @@ Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise
 | Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
 | Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
 
-Pending (wishlist): Diderot and the Encyclopaedists vol. I (PG 15098 would not download)
+Pending (wishlist): Critical Miscellanies (3 vols) in whole-volume scans
 
 ## George John Romanes (mind, evolution, belief)
 
