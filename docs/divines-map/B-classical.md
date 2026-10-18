@@ -6359,6 +6359,9 @@ Shelf: `pipeline/charles-horton-cooley_shelf.json`. Charles Horton Cooley (1864-
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Human Nature and the Social Order (Scribner's, 1902) |  | `cooley-human-nature-social-order-1902` | have (PG 75145) |
+| Social Organization (Scribner's, 1909; printing 1911) |  | `cooley-social-organization-1909` | have (PG 72636) |
+| Social Process (Scribner's, 1918) |  | `cooley-social-process-1918` | have (PG 75188) |
 
 ## Lester Frank Ward (sociology)
 
