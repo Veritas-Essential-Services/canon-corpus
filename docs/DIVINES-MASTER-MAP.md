@@ -37569,6 +37569,34 @@ Shelf: `pipeline/william-black_shelf.json` (2026-10-17; added at the coordinator
 | A Princess of Thule | have | PG 49786, `wblack-a-princess-of-thule` (3281 units) |
 | A daughter of Heth | have | PG 77747, `wblack-a-daughter-of-heth` (2656 units) |
 
+## Edward Bellamy
+
+Shelf: `pipeline/edward-bellamy_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Looking Backward, 2000 to 1887 | have | PG 624, `ebellamy-looking-backward-2000-to-1887` (906 units) |
+| Miss Ludington's Sister | have | PG 6903, `ebellamy-miss-ludingtons-sister` (744 units) |
+| Dr. Heidenhoff's Process | have | PG 7052, `ebellamy-dr-heidenhoffs-process` (593 units) |
+| Equality | have | PG 7303, `ebellamy-equality` (1704 units) |
+| The Duke of Stockbridge: A Romance of Shays' Rebellion | have | PG 7472, `ebellamy-duke-of-stockbridge` (1678 units) |
+| The Blindman's World 1898 | have | PG 22701, `ebellamy-blindmans-world-1898` (67 units) |
+| An Echo Of Antietam 1898 | have | PG 22702, `ebellamy-an-echo-of-antietam-1898` (107 units) |
+| Hooking Watermelons 1898 | have | PG 22703, `ebellamy-hooking-watermelons-1898` (148 units) |
+| To Whom This May Come 1898 | have | PG 22704, `ebellamy-to-whom-this-may-come-1898` (54 units) |
+| A Summer Evening's Dream 1898 | have | PG 22705, `ebellamy-a-summer-evenings-dream-1898` (93 units) |
+| Two Days' Solitary Imprisonment 1898 | have | PG 22706, `ebellamy-two-days-solitary-imprisonment-1898` (89 units) |
+| Potts's Painless Cure 1898 | have | PG 22707, `ebellamy-pottss-painless-cure-1898` (147 units) |
+| A Positive Romance 1898 | have | PG 22708, `ebellamy-a-positive-romance-1898` (47 units) |
+| At Pinney's Ranch 1898 | have | PG 22709, `ebellamy-at-pinneys-ranch-1898` (57 units) |
+| The Old Folks' Party 1898 | have | PG 22710, `ebellamy-old-folks-party-1898` (155 units) |
+| A Love Story Reversed 1898 | have | PG 22711, `ebellamy-a-love-story-reversed-1898` (124 units) |
+| Lost 1898 | have | PG 22712, `ebellamy-lost-1898` (56 units) |
+| With The Eyes Shut 1898 | have | PG 22713, `ebellamy-with-the-eyes-shut-1898` (85 units) |
+| Deserted 1898 | have | PG 22714, `ebellamy-deserted-1898` (103 units) |
+| The Cold Snap 1898 | have | PG 22715, `ebellamy-cold-snap-1898` (31 units) |
+| Looking Backward: 2000-1887 | have | PG 25439, `ebellamy-looking-backward` (932 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
