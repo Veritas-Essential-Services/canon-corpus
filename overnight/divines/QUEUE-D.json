@@ -3381,6 +3381,14 @@
       "started": "2026-10-17T21:41:39-05:00",
       "finished": "2026-10-17T21:41:39-05:00",
       "notes": "florence-marryat: new shelf, 27 Gutenberg books, 25,727 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "wj-locke",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — W. J. Locke; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:58:56-05:00",
+      "finished": "2026-10-17T21:58:57-05:00",
+      "notes": "wj-locke: new shelf, 26 Gutenberg books, 53,327 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

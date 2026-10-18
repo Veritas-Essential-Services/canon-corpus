@@ -33915,6 +33915,40 @@ Shelf: `pipeline/florence-marryat_shelf.json` (2026-10-17; added at the coordina
 | A fatal silence, vol. 2 (of 3) | have | PG 78596, `fmarryat-a-fatal-silence-vol-2-of-3` (853 units) |
 | A fatal silence, vol. 3 (of 3) | have | PG 78598, `fmarryat-a-fatal-silence-vol-3-of-3` (1329 units) |
 
+## W. J. Locke
+
+Shelf: `pipeline/wj-locke_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Simon the Jester | have | PG 3828, `wjlocke-simon-the-jester` (2642 units) |
+| The Red Planet | have | PG 4287, `wjlocke-red-planet` (2329 units) |
+| The Fortunate Youth | have | PG 4379, `wjlocke-fortunate-youth` (2265 units) |
+| The Morals of Marcus Ordeyne : a Novel | have | PG 5051, `wjlocke-morals-of-marcus-ordeyne` (2368 units) |
+| The Mountebank | have | PG 8430, `wjlocke-mountebank` (2319 units) |
+| Viviette | have | PG 9924, `wjlocke-viviette` (892 units) |
+| A Christmas Mystery: The Story of Three Wise Men | have | PG 10707, `wjlocke-a-christmas-mystery` (162 units) |
+| Septimus | have | PG 14395, `wjlocke-septimus` (2390 units) |
+| Jaffery | have | PG 14669, `wjlocke-jaffery` (2632 units) |
+| The Joyous Adventures of Aristide Pujol | have | PG 26154, `wjlocke-joyous-adventures-of-aristide-pujol` (1954 units) |
+| The Rough Road | have | PG 27786, `wjlocke-rough-road` (2621 units) |
+| The Belovéd Vagabond | have | PG 28489, `wjlocke-belov-d-vagabond` (2190 units) |
+| Far-away Stories | have | PG 50479, `wjlocke-far-away-stories` (1580 units) |
+| At the Gate of Samaria | have | PG 53993, `wjlocke-at-the-gate-of-samaria` (2282 units) |
+| Stella Maris | have | PG 53994, `wjlocke-stella-maris` (2659 units) |
+| A Study In Shadows | have | PG 53995, `wjlocke-a-study-in-shadows` (1346 units) |
+| Where Love Is | have | PG 53996, `wjlocke-where-love-is` (2382 units) |
+| Derelicts | have | PG 55927, `wjlocke-derelicts` (2080 units) |
+| The White Dove | have | PG 56013, `wjlocke-white-dove` (1876 units) |
+| The Demagogue and Lady Phayre | have | PG 56014, `wjlocke-demagogue-and-lady-phayre` (872 units) |
+| Idols | have | PG 56015, `wjlocke-idols` (2188 units) |
+| The House of Baltazar | have | PG 60120, `wjlocke-house-of-baltazar` (2592 units) |
+| The Glory of Clementina Wing | have | PG 60121, `wjlocke-glory-of-clementina-wing` (3183 units) |
+| The Tale of Triona | have | PG 60122, `wjlocke-tale-of-triona` (2763 units) |
+| The Wonderful Year | have | PG 60123, `wjlocke-wonderful-year` (2534 units) |
+| The golden journey of Mr. Paradyne | have | PG 78127, `wjlocke-golden-journey-of-mr-paradyne` (226 units) |
+| pg-59541 | excluded | PG 59541: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
