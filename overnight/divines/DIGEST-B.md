@@ -241,3 +241,4 @@
 - 20:01 round aw: Harriet Martineau (13 vols) and Halifax new; six British philosophy shelves extended from Gutenberg.
 - 20:04 round ax: 7 political-theory shelves (Austin, Bluntschli, Treitschke, Lassalle, Lieber, Calhoun, Mazzini). Filmer still unshelved: the only clean copy found (Morley's Routledge volume with Locke) prints no year; EEBO 1680 Patriarcha is the fallback.
 - 20:08 round ay: 9 shelves (Samuel Clarke, Balguy, Beattie, George Campbell, Blair, Gerard, Krause, Channing, Theodore Parker). Channing and Parker are Unitarian divines: lane A may prefer to own them; lane B took them as American philosophy.
+- 20:13 round az: Mach and Driesch new; Whitehead's Process and Reality (Oct 1929 first printing), Dewey's Quest for Certainty and Experience and Nature, Santayana's Dialogues in Limbo added. Works published in 1930 became US public domain on 1 Jan 2026; Weber's Protestant Ethic (Parsons 1930) waits only for a 1930-printed scan.

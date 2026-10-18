@@ -1110,3 +1110,10 @@
 - New shelves: samuel-clarke (Boyle Lectures 1719, Leibniz-Clarke Papers 1717), john-balguy (Foundation of Moral Goodness 1731), james-beattie (Essays 1776), george-campbell (Philosophy of Rhetoric 1885, Dissertation on Miracles 1762), hugh-blair (Lectures, ed. Mills 1857), alexander-gerard (Essay on Taste 1759), karl-krause (Ideal of Humanity, ed. Hastie 1900), william-ellery-channing (Works 1877), theodore-parker (Discourse 1842 + Speeches 1867, 3 vols)
 - Held: James Oswald, An Appeal to Common Sense in behalf of Religion (ECCO scans clean 0.76 and 0.66, under the gate); Balguy, A Letter to a Deist (no printed year)
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:13 CDT — Round az: Mach, Driesch, and works of 1919-1930
+- New shelves: ernst-mach (Analysis of the Sensations tr. Williams 1897, Conservation of Energy tr. Jourdain 1911), hans-driesch (Gifford Lectures 1908, 2 vols; Problem of Individuality 1914; History and Theory of Vitalism tr. Ogden 1914)
+- Extended: alfred-north-whitehead (+Process and Reality 1929, Religion in the Making 1926, Enquiry concerning Natural Knowledge 1919, Principle of Relativity 1922), john-dewey (+Experience and Nature 1929, Quest for Certainty 1929, Individualism Old and New 1930), george-santayana (+Dialogues in Limbo 1925)
+- Held: Weber, The Protestant Ethic, tr. Parsons (1930), because the only IA copy is the 1948 second impression; Dewey, The Public and its Problems (Swallow reprint); Whitehead, An Introduction to Mathematics (no printed year) and Principia Mathematica (OCR 0.45)
+- Fixed: two shelf notes (Whitehead, Dewey) where an earlier helper had split a sentence; addrow.py now inserts before 'No uids minted'
+- Ids checked against heldidx and all branches: no collisions

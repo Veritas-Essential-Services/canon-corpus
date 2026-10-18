@@ -10579,6 +10579,9 @@ Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public dom
 | Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
 | Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
 | The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930) |  | `dewey-child-and-the-curriculum-1930` | have-raw (IA `childcurriculum00dewe`) |
+| Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95) |  | `dewey-experience-and-nature-1929` | have-raw (IA `experienceandnat029343mbp`) |
+| The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94) |  | `dewey-quest-for-certainty-1929` | have-raw (IA `questforcertaint032529mbp`) |
+| Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93) |  | `dewey-individualism-old-and-new-1930` | have-raw (IA `individu00dewe`) |
 
 Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
 
@@ -10597,6 +10600,9 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 | Character and Opinion in the United States (New York: Scribner, 1921) |  | `santayana-character-and-opinion-1921` | have (PG 34654) |
 | Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922) |  | `santayana-soliloquies-in-england-1922` | have (PG 48429) |
 | Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
+| Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94) |  | `santayana-dialogues-in-limbo-1925` | have-raw (IA `dialoguesinlimbo014715mbp`) |
+
+Pending (wishlist): The Realm of Essence (1927) and The Realm of Matter (1930); Platonism and the Spiritual Life (1927)
 
 ## Josiah Royce
 
@@ -10987,8 +10993,12 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from
 | The Concept of Nature (Tarner Lectures, 1920) |  | `whitehead-concept-of-nature-1920` | have (PG 18835) |
 | Science and the Modern World (New York: Macmillan, 1925) |  | `whitehead-science-and-the-modern-world-1925` | have (PG 68611) |
 | Symbolism, its Meaning and Effect (New York: Macmillan, 1927) |  | `whitehead-symbolism-1927` | have (PG 78977) |
+| Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90) |  | `whitehead-process-and-reality-1929` | have-raw (IA `processrealityes00whit_1`) |
+| Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92) |  | `whitehead-religion-in-the-making-1926` | have-raw (IA `religioninmaking00whit`) |
+| An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
+| The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
 
-Pending (wishlist): An Introduction to Mathematics, Principles of Natural Knowledge, Process and Reality (1929): no plain-text PG file, or not on PG
+Pending (wishlist): An Introduction to Mathematics (1911) in a dated printing
 
 ## William Whewell
 
@@ -12512,6 +12522,28 @@ Shelf: `pipeline/theodore-parker_shelf.json`. The 1842 Discourse and the 1867 Sp
 | A Discourse of Matters Pertaining to Religion (Boston: Little and Brown, 1842) |  | `parker-discourse-religion-1842` | have-raw (IA `discourseofmatt00park`) |
 
 Pending (wishlist): The Centenary Edition of his Works (1907-13), pre-1931
+
+## Ernst Mach (philosophy of science)
+
+Shelf: `pipeline/ernst-mach_shelf.json`. Williams' and Jourdain's translations; McCormack's are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Contributions to the Analysis of the Sensations, tr. C. M. Williams (Open Court, 1897) | Williams | `mach-analysis-of-sensations-williams-1897` | have-raw (IA `contributionstoa00mach`) |
+| History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911) | Jourdain | `mach-conservation-of-energy-jourdain-1911` | have-raw (IA `historyrootofpri00mach`) |
+
+Pending (wishlist): The Analysis of Sensations, enlarged English edition (tr. Williams and Waterlow, 1914)
+
+## Hans Driesch (vitalism)
+
+Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and two 1914 books. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Science and Philosophy of the Organism, Gifford Lectures 1907, vol. I (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v1` | have-raw (IA `thescienceandphi01drieuoft`) |
+| The Science and Philosophy of the Organism, Gifford Lectures 1908, vol. II (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v2` | have-raw (IA `thescienceandphi02drieuoft`) |
+| The Problem of Individuality (Macmillan, 1914) |  | `driesch-problem-of-individuality-1914` | have-raw (IA `cu31924029083982`) |
+| The History and Theory of Vitalism, tr. C. K. Ogden (Macmillan, 1914) | Ogden | `driesch-history-theory-vitalism-ogden-1914` | have-raw (IA `TheHistoryAndTheoryOfVitalism`) |
 
 ## Perseus census (overflow)
 
