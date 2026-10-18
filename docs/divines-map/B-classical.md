@@ -6274,6 +6274,12 @@ Shelf: `pipeline/john-watson-philosopher_shelf.json`. John Watson (1847-1939) of
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Kant and his English Critics (Macmillan, 1881) |  | `watson-kant-english-critics-1881` | have-raw (IA `cihm_42631`) |
+| Comte, Mill, and Spencer (Maclehose, 1895) |  | `watson-comte-mill-spencer-1895` | have-raw (IA `comtemillspencer00wats`) |
+| Hedonistic Theories from Aristippus to Spencer (Maclehose, 1895) |  | `watson-hedonistic-theories-1895` | have-raw (IA `hedonistictheori0000wats`) |
+| Christianity and Idealism (Macmillan, 1897) |  | `watson-christianity-and-idealism-1897` | have-raw (IA `cu31924031275542`) |
+| The Philosophical Basis of Religion (Maclehose, 1907) |  | `watson-philosophical-basis-religion-1907` | have-raw (IA `philosophicalba00watsgoog`) |
+| The Philosophy of Kant Explained (Maclehose, 1908) |  | `watson-philosophy-of-kant-explained-1908` | have-raw (IA `philosophyofkant00wats`) |
 
 Pending (wishlist): The Interpretation of Religious Experience (Gifford Lectures, 1912, 2 vols.)
 

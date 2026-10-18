@@ -1,0 +1,108 @@
+{
+ "_about": "John Watson (1847-1939), Scottish-Canadian idealist, Professor of Moral Philosophy at Queen's University, Kingston. Not the Liverpool preacher John Watson ('Ian Maclaren'), nor the Puritan Thomas Watson of the watson shelf. Raw IA OCR: Kant and his English Critics (New York: Macmillan, 1881), clean 0.92; Comte, Mill, and Spencer, an outline of philosophy (Glasgow: Maclehose, 1895), clean 0.95; Hedonistic Theories from Aristippus to Spencer (Glasgow: Maclehose, 1895), clean 0.92; Christianity and Idealism (New York: Macmillan, 1897), clean 0.92; The Philosophical Basis of Religion (Glasgow: Maclehose, 1907), clean 0.94; The Philosophy of Kant Explained (Glasgow: Maclehose, 1908), clean 0.95. His Kant selections (1897) stand on the kant shelf. US public domain. No uids minted.",
+ "_author": "John Watson",
+ "_name_words": [
+  "john",
+  "watson"
+ ],
+ "_surname": [
+  "watson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "watson-kant-english-critics-1881": [
+   "cihm_42631",
+   "Kant and his English Critics (Macmillan, 1881)"
+  ],
+  "watson-comte-mill-spencer-1895": [
+   "comtemillspencer00wats",
+   "Comte, Mill, and Spencer (Maclehose, 1895)"
+  ],
+  "watson-hedonistic-theories-1895": [
+   "hedonistictheori0000wats",
+   "Hedonistic Theories from Aristippus to Spencer (Maclehose, 1895)"
+  ],
+  "watson-christianity-and-idealism-1897": [
+   "cu31924031275542",
+   "Christianity and Idealism (Macmillan, 1897)"
+  ],
+  "watson-philosophical-basis-religion-1907": [
+   "philosophicalba00watsgoog",
+   "The Philosophical Basis of Religion (Maclehose, 1907)"
+  ],
+  "watson-philosophy-of-kant-explained-1908": [
+   "philosophyofkant00wats",
+   "The Philosophy of Kant Explained (Maclehose, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "watson-kant-english-critics-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-comte-mill-spencer-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-hedonistic-theories-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-christianity-and-idealism-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watson-philosophical-basis-religion-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watson-philosophy-of-kant-explained-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
