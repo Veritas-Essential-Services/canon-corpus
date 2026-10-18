@@ -32986,6 +32986,47 @@ Shelf: `pipeline/southworth_shelf.json` (2026-10-17; added at the coordinator's 
 | Brandon Coyle's wife | have | PG 77295, `edensouthworth-brandon-coyles-wife` (3957 units) |
 | The fatal marriage | have | PG 79290, `edensouthworth-fatal-marriage` (4826 units) |
 
+## Grant Allen
+
+Shelf: `pipeline/grant-allen_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (31 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The British Barbarians | have | PG 4340, `gallen-british-barbarians` (423 units) |
+| The Woman Who Did | have | PG 4396, `gallen-woman-who-did` (523 units) |
+| Biographies of Working Men | have | PG 4529, `gallen-biographies-of-working-men` (231 units) |
+| An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay | have | PG 4715, `gallen-an-african-millionaire` (1 units) |
+| Hilda Wade, a Woman with Tenacity of Purpose (completed by Arthur Conan Doyle) | have | PG 4903, `gallen-hilda-wade-a-woman-with-tenacity-of-purpose` (1740 units) |
+| Recalled to Life | have | PG 5832, `gallen-recalled-to-life` (911 units) |
+| Michael's Crag | have | PG 5869, `gallen-michaels-crag` (482 units) |
+| What's Bred in the Bone | have | PG 6010, `gallen-whats-bred-in-the-bone` (1468 units) |
+| Philistia | have | PG 6060, `gallen-philistia` (1424 units) |
+| The Great Taboo | have | PG 13876, `gallen-great-taboo` (955 units) |
+| Science in Arcady | have | PG 16325, `gallen-science-in-arcady` (403 units) |
+| Anglo-Saxon Britain | have | PG 16790, `gallen-anglo-saxon-britain` (449 units) |
+| Falling in Love; With Other Essays on More Exact Branches of Science | have | PG 16807, `gallen-falling-in-love` (461 units) |
+| Post-Prandial Philosophy | have | PG 18788, `gallen-post-prandial-philosophy` (283 units) |
+| Miss Cayley's Adventures | have | PG 30970, `gallen-miss-cayleys-adventures` (1848 units) |
+| Charles Darwin | have | PG 34730, `gallen-charles-darwin` (258 units) |
+| The White Man's Foot | have | PG 34744, `gallen-white-mans-foot` (548 units) |
+| The Beckoning Hand, and Other Stories | have | PG 38531, `gallen-beckoning-hand-and-other-stories` (3347 units) |
+| Strange Stories | have | PG 38575, `gallen-strange-stories` (1434 units) |
+| Wednesday the Tenth, A Tale of the South Pacific | have | PG 43688, `gallen-wednesday-the-tenth-a-tale-of-the-south-pacific` (311 units) |
+| The Evolutionist at Large | have | PG 44820, `gallen-evolutionist-at-large` (941 units) |
+| Blood Royal: A Novel | have | PG 47426, `gallen-blood-royal` (722 units) |
+| Babylon, Volume 1 | have | PG 47431, `gallen-babylon-volume-1` (537 units) |
+| Babylon, Volume 2 | have | PG 47432, `gallen-babylon-volume-2` (573 units) |
+| Babylon, Volume 3 | have | PG 47433, `gallen-babylon-volume-3` (650 units) |
+| Linnet: A Romance | have | PG 48296, `gallen-linnet` (1499 units) |
+| Moorland Idylls | have | PG 48959, `gallen-moorland-idylls` (238 units) |
+| Cities of Belgium Grant Allen's Historical Guides | have | PG 49690, `gallen-cities-of-belgium-grant-allens-historical-guides` (1106 units) |
+| Paris Grant Allen's Historical Guides | have | PG 49907, `gallen-paris-grant-allens-historical-guides` (814 units) |
+| The Evolution of the Idea of God: An Inquiry Into the Origins of Religions | have | PG 57581, `gallen-evolution-of-the-idea-of-god` (884 units) |
+| The type-writer girl | have | PG 78662, `gallen-type-writer-girl` (901 units) |
+| pg-58064 | excluded | PG 58064: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 6492: second Gutenberg editions of titles already on the shelf. |
+| pg-41263 | excluded | PG 41263 The Mediterranean: a many-author book (Bonney, Allen, Griffiths and others). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
