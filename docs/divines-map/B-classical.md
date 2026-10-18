@@ -3910,6 +3910,7 @@ Shelf: `pipeline/f-h-bradley_shelf.json`. Ethical Studies, Principles of Logic, 
 | Ethical Studies (1876; anastatic reprint, New York: G. E. Stechert, 1904) |  | `bradley-ethical-studies-1876` | have-raw (IA `ethicalstudies00bradgoog`) |
 | The Principles of Logic (London: Kegan Paul, Trench, 1883) |  | `bradley-principles-of-logic-1883` | have-raw (IA `principleslogic00bradgoog`) |
 | Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908) |  | `bradley-appearance-and-reality-1908` | have-raw (IA `appearanceandre01bradgoog`) |
+| Essays on Truth and Reality (Oxford: Clarendon Press, 1914; raw IA OCR, clean 0.94; not taken: a lithographic reprint of 1944 and later) |  | `bradley-essays-truth-reality-1914` | have-raw (IA `cu31924016877239`) |
 
 ## Bernard Bosanquet
 

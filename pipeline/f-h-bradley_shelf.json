@@ -1,5 +1,5 @@
 {
- "_about": "F. H. Bradley (1846-1924), raw IA OCR: Ethical Studies (the 1876 first edition in Stechert's 1904 anastatic reprint), The Principles of Logic (London: Kegan Paul, Trench, 1883), and Appearance and Reality, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908). All published before 1930, so US public domain. Not to be confused with A. C. Bradley, his brother, editor of Green's Prolegomena. No uids minted.",
+ "_about": "F. H. Bradley (1846-1924), raw IA OCR: Ethical Studies (the 1876 first edition in Stechert's 1904 anastatic reprint), The Principles of Logic (London: Kegan Paul, Trench, 1883), and Appearance and Reality, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908). All published before 1930, so US public domain. Not to be confused with A. C. Bradley, his brother, editor of Green's Prolegomena. Added in round ba: Essays on Truth and Reality (Oxford: Clarendon Press, 1914; raw IA OCR, clean 0.94; not taken: a lithographic reprint of 1944 and later). No uids minted.",
  "_author": "F. H. Bradley",
  "_name_words": [
   "f",
@@ -25,13 +25,17 @@
   "bradley-appearance-and-reality-1908": [
    "appearanceandre01bradgoog",
    "Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908)"
+  ],
+  "bradley-essays-truth-reality-1914": [
+   "cu31924016877239",
+   "Essays on Truth and Reality (Oxford: Clarendon Press, 1914; raw IA OCR, clean 0.94; not taken: a lithographic reprint of 1944 and later)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "bradley-ethical-studies-1876": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bradley",
    "identity": "ok",
@@ -42,7 +46,7 @@
   },
   "bradley-principles-of-logic-1883": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bradley",
    "identity": "ok",
@@ -53,13 +57,24 @@
   },
   "bradley-appearance-and-reality-1908": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bradley",
    "identity": "ok",
    "ia_rights": "ok: published 1908",
    "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradley-essays-truth-reality-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
