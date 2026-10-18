@@ -988,3 +988,7 @@
 - New shelves: leslie-stephen (8), lecky (3), henry-maine (1), walter-bagehot (2), thomas-henry-huxley (7)
 - Held: PG 22910 Ancient Law, a 1936 Everyman reprint (the 1875 Holt edition taken instead)
 - Wanted: Lecky's Rationalism in a matched pair
+
+## 2026-10-17 19:04 CDT — Round ai: British idealists and moralists
+- New shelves: samuel-alexander (3), james-hutchison-stirling (2), r-g-collingwood (1), james-martineau (2), john-grote (2), alexander-campbell-fraser (1)
+- Collingwood: title-page year garbled; 1916 from the dated preface

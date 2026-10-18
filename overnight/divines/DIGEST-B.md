@@ -224,3 +224,4 @@
 - 18:54 round af: Lévy-Bruhl, Tarde, de Maistre, Ribot. Poincaré's Science and Method held (no year on the Nelson title page).
 - 18:56 round ag: Schleiermacher (Oman), Büchner, Wilhelm von Humboldt, Mendelssohn's Jerusalem.
 - 19:01 round ah: Leslie Stephen, Lecky, Maine, Bagehot, Huxley (21 volumes).
+- 19:04 round ai: Samuel Alexander (incl. Space, Time and Deity), Stirling's Secret of Hegel, Collingwood, Martineau, John Grote, Campbell Fraser.
