@@ -6664,6 +6664,11 @@ Shelf: `pipeline/william-mcdougall_shelf.json`. Five books, 1905-1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Group Mind |  | `mcdougall-group-mind` | have (PG 40826) |
+| Physiological Psychology (Dent, 1905; 1908 printing) |  | `mcdougall-physiological-psychology-1905` | have-raw (IA `physiologicalps00mcdogoog`) |
+| An Introduction to Social Psychology, 6th ed. (Methuen, 1912) |  | `mcdougall-social-psychology-1908` | have-raw (IA `introductiontos00mcdo`) |
+| Body and Mind, 4th ed. (Methuen, c. 1918) |  | `mcdougall-body-and-mind-1911` | have-raw (IA `cu31924029080880`) |
+| Psychology, the Study of Behaviour (1912) |  | `mcdougall-psychology-study-of-behaviour-1912` | have-raw (IA `psychologystudyo00mcdorich`) |
 
 Pending (wishlist): Outline of Psychology (1923); National Welfare and National Decay (1921)
 
