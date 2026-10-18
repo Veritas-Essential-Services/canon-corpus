@@ -6513,3 +6513,17 @@ Slugs `segur-*`. Plain Talk and his Familiar Instructions in English.
 | Plain Talk (London, 1874); Short Answers ed. L. A. Lambert (1909); later Familiar Instructions | alternate | not shelved |
 | The Comtesse de Ségur, Philippe-Paul and Anatole de Ségur: other people | excluded | |
 | The Marquis de Ségur's life of him | excluded | |
+
+## Hans Lassen Martensen (round 29, my pick, 2026-10-18)
+
+Slugs `martensen-*`. Danish bishop: Christian Dogmatics and Ethics in Clark's English volumes.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Dogmatics, tr. William Urwick (Edinburgh: T. & T. Clark, MDCCCLXVI) | have-ocr | IA `christiandogmati00mart` |
+| Christian Ethics, General Part, tr. C. Spence (Edinburgh: T. & T. Clark, MDCCCLXXXV) | have-ocr | IA `christianethics00mart` |
+| Christian Ethics, Special Part, first division: Individual Ethics, tr. William Affleck (Edinburgh: T. & T. Clark, 1881) | have-ocr | IA `christianethics0001drhm` |
+| Christian Ethics, Special Part, second division: Social Ethics, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1882) | have-ocr | IA `christianethics0002drhm` |
+| Jacob Boehme: his Life and Teaching, or Studies in Theosophy, tr. T. Rhys Evans (London: Hodder and Stoughton, MDCCCLXXXV) | have-ocr | IA `cu31924029355686` |
+| Dogmatics (other 1866 copies); General Part (1888, 1891); Individual Ethics fourth edition (1891); Boehme (another 1885 copy) | alternate | not shelved |
+| 1949 Boehme reprints; the German Meister Eckart (PG 77203) | excluded | |
