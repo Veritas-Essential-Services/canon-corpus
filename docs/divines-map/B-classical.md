@@ -8173,6 +8173,7 @@ Shelf: `pipeline/james-adam_shelf.json`. Gifford lectures, 1908.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Religious Teachers of Greece (1908) |  | `adam-religious-teachers-of-greece-1908` | have-raw (IA `religiousteache00unkngoog`) |
 
 Pending (wishlist): The Vitality of Platonism (1911).
 
