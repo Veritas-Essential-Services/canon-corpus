@@ -7025,6 +7025,8 @@ Shelf: `pipeline/edward-westermarck_shelf.json`. Two works, 1891-1908.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The History of Human Marriage |  | `westermarck-history-of-human-marriage` | have (PG 59386) |
+| The Origin and Development of the Moral Ideas |  | `westermarck-origin-development-moral-ideas` | have (PG 52106) |
 
 ## Edward Burnett Tylor (cultural anthropology)
 
