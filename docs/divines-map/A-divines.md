@@ -8225,3 +8225,16 @@ Slugs `swedenborg-*`. Built from title pages read for round 34.
 | Conjugial Love and its Chaste Delights; also, Adulterous Love and its Sinful Pleasures (New York: American Swedenborg Printing and Publishing Society, 1871) | have-ocr | IA `conjugialloveits00swed` |
 | Heaven and Hell (London: James Phillips, 1778, the first English) and New York 1900; the Standard Edition True Christian Religion (1915, Ager's note) and 1879, 1886 printings; Divine Love and Wisdom New York 1872; Divine Providence 1886 and 1892; Arcana Boston 1837 (vols I-II) and New York 1873; Apocalypse Revealed Boston 1836 (three volumes); Delights of Wisdom 1892 and PG 11248 | alternate | not shelved |
 | PG 16627 (1988 printing) and PG 18507 (1975 printing, Wunsch); PG 17368 (no source stated); 1938 and later Swedenborg Foundation printings; an extract from the Apocalypse Explained | excluded | |
+
+## William Chillingworth (round 34, my pick, 2026-10-18)
+
+Slugs `chillingworth-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Religion of Protestants a Safe Way to Salvation, or an Answer to a Booke entitled Mercy and Truth, or Charity maintain'd by Catholiques (Oxford: Leonard Lichfield, for John Clarke; year garbled in the OCR, catalogued 1638), the first edition | have-ocr | IA `bub_gb_pDi5bKE1Vs4C` |
+| The Works of William Chillingworth, vol. I (Oxford: at the University Press, 1838) | have-ocr | IA `worksofwilliamch01chiluoft` |
+| The Works of William Chillingworth, vol. II (Oxford: at the University Press, 1838) | have-ocr | IA `worksofw02chiluoft` |
+| The Works of William Chillingworth, vol. III (Oxford: at the University Press, 1838) | have-ocr | IA `worksofw03chiluoft` |
+| The Religion of Protestants a Safe Way to Salvation, a new and complete edition (London: Henry G. Bohn, 1846) | have-ocr | IA `religionofprotes00chil` |
+| Works, three volumes (London: Richard Priestley, 1820); the one-volume Works with Birch's life (Philadelphia, 1841); Bell & Daldy 1870; eighteenth-century Works (1704-1752, title pages not read) | alternate | not shelved |

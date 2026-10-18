@@ -1708,3 +1708,6 @@
 
 ## 2026-10-17 22:09 CDT — emanuel-swedenborg done
 - `pipeline/emanuel-swedenborg_shelf.json`: 0 CCEL, 0 PG, 19 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — william-chillingworth done
+- `pipeline/william-chillingworth_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for chillingworth-religion-protestants-1638 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
