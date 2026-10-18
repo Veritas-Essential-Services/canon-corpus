@@ -30788,6 +30788,54 @@ Shelf: `pipeline/trollope-works_shelf.json` (2026-10-17; added at the coordinato
 | repeat-editions | excluded | PG 3409: second Gutenberg editions of titles already on the shelf. |
 | held-elsewhere | excluded | PG 619: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## James Fenimore Cooper
+
+Shelf: `pipeline/cooper-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (38 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pioneers; Or, The Sources of the Susquehanna | have | PG 2275, `jfcooper-pioneers` (2514 units) |
+| Tales for Fifteen; Or, Imagination and Heart | have | PG 2282, `jfcooper-tales-for-fifteen` (767 units) |
+| The Lake Gun | have | PG 2328, `jfcooper-lake-gun` (84 units) |
+| Autobiography of a Pocket-Handkerchief | have | PG 2329, `jfcooper-autobiography-of-a-pocket-handkerchief` (858 units) |
+| New York | have | PG 2482, `jfcooper-new-york` (76 units) |
+| The Deerslayer | have | PG 3285, `jfcooper-deerslayer` (2316 units) |
+| The Monikins | have | PG 4092, `jfcooper-monikins` (1909 units) |
+| Oak Openings | have | PG 4215, `jfcooper-oak-openings` (1866 units) |
+| Jack Tier; Or, The Florida Reef | have | PG 4796, `jfcooper-jack-tier` (2401 units) |
+| The Prairie | have | PG 6450, `jfcooper-prairie` (2302 units) |
+| The Pilot: A Tale of the Sea | have | PG 7974, `jfcooper-pilot` (2583 units) |
+| Afloat and Ashore: A Sea Tale | have | PG 8647, `jfcooper-afloat-and-ashore` (2133 units) |
+| Satanstoe; Or, the Littlepage Manuscripts. A Tale of the Colony | have | PG 8880, `jfcooper-satanstoe` (2159 units) |
+| The Wept of Wish-Ton-Wish | have | PG 8888, `jfcooper-wept-of-wish-ton-wish` (1932 units) |
+| Ned Myers, or, a Life Before the Mast | have | PG 9788, `jfcooper-ned-myers` (609 units) |
+| Homeward Bound; Or, the Chase: A Tale of the Sea | have | PG 9826, `jfcooper-homeward-bound` (2958 units) |
+| The Spy | have | PG 9845, `jfcooper-spy` (2815 units) |
+| Home as Found Sequel to "Homeward Bound" | have | PG 10149, `jfcooper-home-as-found-sequel-to-homeward-bound` (3066 units) |
+| The Bravo: A Tale | have | PG 10363, `jfcooper-bravo` (3284 units) |
+| Precaution: A Novel | have | PG 10365, `jfcooper-precaution` (2512 units) |
+| Wyandotté; Or, The Hutted Knoll: A Tale | have | PG 10434, `jfcooper-wyandott` (2650 units) |
+| The Sea Lions; Or, The Lost Sealers | have | PG 10545, `jfcooper-sea-lions` (1810 units) |
+| The Headsman; Or, The Abbaye des Vignerons | have | PG 10938, `jfcooper-headsman` (1995 units) |
+| Miles Wallingford Sequel to "Afloat and Ashore" | have | PG 11243, `jfcooper-miles-wallingford-sequel-to-afloat-and-ashore` (2030 units) |
+| The Red Rover: A Tale | have | PG 11409, `jfcooper-red-rover` (3024 units) |
+| The Crater; Or, Vulcan's Peak: A Tale of the Pacific | have | PG 11573, `jfcooper-crater` (1075 units) |
+| The Wing-and-Wing; Or, Le Feu-Follet | have | PG 11957, `jfcooper-wing-and-wing` (2325 units) |
+| The Water-Witch; Or, the Skimmer of the Seas: A Tale | have | PG 12445, `jfcooper-water-witch` (2430 units) |
+| A Residence in France With an Excursion Up the Rhine, and a Second Visit to Switzerland | have | PG 12990, `jfcooper-a-residence-in-france-with-an-excursion-up-the-rhin` (770 units) |
+| Recollections of Europe | have | PG 19983, `jfcooper-recollections-of-europe` (772 units) |
+| The Two Admirals | have | PG 20475, `jfcooper-two-admirals` (2702 units) |
+| The Redskins; or, Indian and Injin, Volume 1. Being the Conclusion of the Littlepage Manuscripts | have | PG 31210, `jfcooper-redskins` (1443 units) |
+| The Spy: Condensed for use in schools | have | PG 32632, `jfcooper-spy-32632` (1103 units) |
+| The Chainbearer; Or, The Littlepage Manuscripts | have | PG 34916, `jfcooper-chainbearer` (4647 units) |
+| Mercedes of Castile; Or, The Voyage to Cathay | have | PG 36406, `jfcooper-mercedes-of-castile` (2496 units) |
+| Tales for Fifteen | have | PG 39207, `jfcooper-tales-for-fifteen-39207` (755 units) |
+| Gleanings in Europe | have | PG 74936, `jfcooper-gleanings-in-europe` (438 units) |
+| The ways of the hour | have | PG 75036, `jfcooper-ways-of-the-hour` (2874 units) |
+| repeat-editions | excluded | PG 74937, 76712, 77046, 77304, 77305: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 940: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-27681 | excluded | PG 27681 The Last of the Mohicans: a second edition; the reading-list novels-rl-9 shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

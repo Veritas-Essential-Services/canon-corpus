@@ -1,0 +1,621 @@
+{
+ "_about": "James Fenimore Cooper's Leatherstocking tales, sea novels and other writing not already on another shelf; many describe Native Americans in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "James Fenimore Cooper",
+ "_name_words": [
+  "cooper"
+ ],
+ "_surname": [
+  "james fenimore cooper"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jfcooper-pioneers": [
+   2275,
+   "The Pioneers; Or, The Sources of the Susquehanna"
+  ],
+  "jfcooper-tales-for-fifteen": [
+   2282,
+   "Tales for Fifteen; Or, Imagination and Heart"
+  ],
+  "jfcooper-lake-gun": [
+   2328,
+   "The Lake Gun"
+  ],
+  "jfcooper-autobiography-of-a-pocket-handkerchief": [
+   2329,
+   "Autobiography of a Pocket-Handkerchief"
+  ],
+  "jfcooper-new-york": [
+   2482,
+   "New York"
+  ],
+  "jfcooper-deerslayer": [
+   3285,
+   "The Deerslayer",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-monikins": [
+   4092,
+   "The Monikins",
+   {
+    "contents_only": true
+   }
+  ],
+  "jfcooper-oak-openings": [
+   4215,
+   "Oak Openings"
+  ],
+  "jfcooper-jack-tier": [
+   4796,
+   "Jack Tier; Or, The Florida Reef"
+  ],
+  "jfcooper-prairie": [
+   6450,
+   "The Prairie",
+   {
+    "contents_only": true
+   }
+  ],
+  "jfcooper-pilot": [
+   7974,
+   "The Pilot: A Tale of the Sea"
+  ],
+  "jfcooper-afloat-and-ashore": [
+   8647,
+   "Afloat and Ashore: A Sea Tale"
+  ],
+  "jfcooper-satanstoe": [
+   8880,
+   "Satanstoe; Or, the Littlepage Manuscripts. A Tale of the Colony"
+  ],
+  "jfcooper-wept-of-wish-ton-wish": [
+   8888,
+   "The Wept of Wish-Ton-Wish",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-ned-myers": [
+   9788,
+   "Ned Myers, or, a Life Before the Mast",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-homeward-bound": [
+   9826,
+   "Homeward Bound; Or, the Chase: A Tale of the Sea"
+  ],
+  "jfcooper-spy": [
+   9845,
+   "The Spy"
+  ],
+  "jfcooper-home-as-found-sequel-to-homeward-bound": [
+   10149,
+   "Home as Found Sequel to \"Homeward Bound\""
+  ],
+  "jfcooper-bravo": [
+   10363,
+   "The Bravo: A Tale"
+  ],
+  "jfcooper-precaution": [
+   10365,
+   "Precaution: A Novel"
+  ],
+  "jfcooper-wyandott": [
+   10434,
+   "Wyandotté; Or, The Hutted Knoll: A Tale",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-sea-lions": [
+   10545,
+   "The Sea Lions; Or, The Lost Sealers",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-headsman": [
+   10938,
+   "The Headsman; Or, The Abbaye des Vignerons",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-miles-wallingford-sequel-to-afloat-and-ashore": [
+   11243,
+   "Miles Wallingford Sequel to \"Afloat and Ashore\"",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-red-rover": [
+   11409,
+   "The Red Rover: A Tale",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-crater": [
+   11573,
+   "The Crater; Or, Vulcan's Peak: A Tale of the Pacific",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-wing-and-wing": [
+   11957,
+   "The Wing-and-Wing; Or, Le Feu-Follet"
+  ],
+  "jfcooper-water-witch": [
+   12445,
+   "The Water-Witch; Or, the Skimmer of the Seas: A Tale",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "jfcooper-a-residence-in-france-with-an-excursion-up-the-rhin": [
+   12990,
+   "A Residence in France With an Excursion Up the Rhine, and a Second Visit to Switzerland"
+  ],
+  "jfcooper-recollections-of-europe": [
+   19983,
+   "Recollections of Europe"
+  ],
+  "jfcooper-two-admirals": [
+   20475,
+   "The Two Admirals"
+  ],
+  "jfcooper-redskins": [
+   31210,
+   "The Redskins; or, Indian and Injin, Volume 1. Being the Conclusion of the Littlepage Manuscripts"
+  ],
+  "jfcooper-spy-32632": [
+   32632,
+   "The Spy: Condensed for use in schools"
+  ],
+  "jfcooper-chainbearer": [
+   34916,
+   "The Chainbearer; Or, The Littlepage Manuscripts"
+  ],
+  "jfcooper-mercedes-of-castile": [
+   36406,
+   "Mercedes of Castile; Or, The Voyage to Cathay"
+  ],
+  "jfcooper-tales-for-fifteen-39207": [
+   39207,
+   "Tales for Fifteen"
+  ],
+  "jfcooper-gleanings-in-europe": [
+   74936,
+   "Gleanings in Europe"
+  ],
+  "jfcooper-ways-of-the-hour": [
+   75036,
+   "The ways of the hour"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 74937, 76712, 77046, 77304, 77305: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 940: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-27681": "PG 27681 The Last of the Mohicans: a second edition; the reading-list novels-rl-9 shelf holds the novel."
+ },
+ "_checks": {
+  "jfcooper-pioneers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-tales-for-fifteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-lake-gun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-autobiography-of-a-pocket-handkerchief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-deerslayer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-monikins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-oak-openings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-jack-tier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-prairie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-pilot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-afloat-and-ashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-satanstoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-wept-of-wish-ton-wish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-ned-myers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-homeward-bound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-home-as-found-sequel-to-homeward-bound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-bravo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-precaution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-wyandott": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-sea-lions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-headsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-miles-wallingford-sequel-to-afloat-and-ashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-red-rover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-crater": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-wing-and-wing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-water-witch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-a-residence-in-france-with-an-excursion-up-the-rhin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-recollections-of-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-two-admirals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-redskins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-spy-32632": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-chainbearer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-mercedes-of-castile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-tales-for-fifteen-39207": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-gleanings-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-ways-of-the-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
