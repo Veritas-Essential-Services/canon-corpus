@@ -1750,3 +1750,6 @@
 
 ## 2026-10-17 22:27 CDT — g-f-maclear done
 - `pipeline/g-f-maclear_shelf.json`: 0 CCEL, 2 PG, 6 IA. Title pages read for maclear-class-book-ot, maclear-class-book-nt, maclear-introduction-creeds (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — john-lingard done
+- `pipeline/john-lingard_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for lingard-collection-tracts (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

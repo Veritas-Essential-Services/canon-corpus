@@ -8419,6 +8419,23 @@ Slugs `maclear-*`. Built from title pages read for round 35.
 | A History of Christian Missions during the Middle Ages (Cambridge and London: Macmillan, 1863) | have-ocr | IA `historyofchristi00macl` |
 | Class-Book new editions (1881, 1885); Creeds 1904; Articles 1896; the undated Apostles; the Elementary Introduction with Procter (on the francis-procter shelf) | alternate | not shelved |
 | 1920 and 1922 reprints of the New Testament Class-Book | excluded | |
+
+## John Lingard (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Antiquities of the Anglo-Saxon Church, second edition (Newcastle: Edward Walker; sold by J. Booker and Keating, London, 1810) | have-ocr | IA `a590878800linguoft` |
+| The History and Antiquities of the Anglo-Saxon Church, vol. I (London: C. Dolman, 1845) | have-ocr | IA `historyantiquiti01linguoft` |
+| The History and Antiquities of the Anglo-Saxon Church, vol. II (London: C. Dolman, 1845) | have-ocr | IA `historyantiquiti02linguoft` |
+| A Collection of Tracts on Several Subjects connected with the Civil and Religious Principles of Catholics (London: Keating and Brown, 1826) | have-ocr | IA `collectionoftrac00linguoft` |
+| Catechistical Instructions on the Doctrines and Worship of the Catholic Church, second edition, revised and corrected (New York: Patrick S. Casserly & Sons, 1841) | have-ocr | IA `CatechisticalInstructions` |
+| A Review of Certain Anti-Catholic Publications (London: Joseph Booker, 1813) | have-ocr | IA `reviewofcertaina00linguoft` |
+| Strictures on Dr. Marsh's Comparative View of the Churches of England and Rome (London: Joseph Booker, 1815) | have-ocr | IA `a622945100linguoft` |
+| The History of England, first edition (London: J. Mawman, then Baldwin and Cradock, 1819-1830, eight volumes; vols IV-VIII catalogued 1819 in error), later sets of 1825 and 1837, and the 1912 Belloc edition (PG 10700) | alternate | not shelved |
+| Other Antiquities copies (1810 BSB, Philadelphia 1841, Baltimore 1851-54) and the 1858 History and Antiquities | alternate | not shelved |
+| A New Version of the Four Gospels (1836, 'by a Catholic') and two controversial pamphlets: their title pages name no one; Ward's Errata; the timber treatise by another John Lingard | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
