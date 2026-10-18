@@ -2768,7 +2768,7 @@ Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937): Sculpture
 
 ## Walter Pater (scholarship)
 
-Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 2 clean Gutenberg texts. His Renaissance and fiction are outside the classical brief. Not minted.
+Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 6 clean Gutenberg texts (widened 2026-10-18 to his criticism; fiction left out). Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -2924,7 +2924,7 @@ Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941):
 
 ## Matthew Arnold (scholarship)
 
-Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply: 1 clean Gutenberg text. The shelf is for this book only. Not minted.
+Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply, and from 2026-10-18 his prose criticism: 6 clean Gutenberg texts (poetry left out). Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -7589,6 +7589,60 @@ Shelf: `pipeline/st-george-stock_shelf.json`. Two books, 1888-1908.
 |---|---|---|---|
 | Deductive Logic (1888) |  | `stock-deductive-logic` | have (PG 6560) |
 | A Guide to Stoicism (1908) |  | `stock-guide-to-stoicism` | have (PG 7514) |
+
+## John Ruskin (art, society and political economy)
+
+Shelf: `pipeline/john-ruskin_shelf.json`. Forty-five volumes, 1837-1887.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Modern Painters, vol. 1 (1843) |  | `ruskin-modern-painters-1` | have (PG 29907) |
+| Modern Painters, vol. 2 (1846) |  | `ruskin-modern-painters-2` | have (PG 29906) |
+| Modern Painters, vol. 3 (1856) |  | `ruskin-modern-painters-3` | have (PG 38923) |
+| Modern Painters, vol. 4 (1856) |  | `ruskin-modern-painters-4` | have (PG 31623) |
+| Modern Painters, vol. 5 (1860) |  | `ruskin-modern-painters-5` | have (PG 44329) |
+| The Poetry of Architecture (1837-38) |  | `ruskin-poetry-of-architecture` | have (PG 17774) |
+| The Seven Lamps of Architecture (1849) |  | `ruskin-seven-lamps` | have (PG 35898) |
+| The Stones of Venice, vol. 1 (1851) |  | `ruskin-stones-of-venice-1` | have (PG 30754) |
+| The Stones of Venice, vol. 2 (1853) |  | `ruskin-stones-of-venice-2` | have (PG 30755) |
+| The Stones of Venice, vol. 3 (1853) |  | `ruskin-stones-of-venice-3` | have (PG 30756) |
+| Lectures on Architecture and Painting (1854) |  | `ruskin-lectures-architecture-painting` | have (PG 23593) |
+| The Harbours of England (1856) |  | `ruskin-harbours-of-england` | have (PG 21591) |
+| A Joy For Ever, and its Price in the Market (1857) |  | `ruskin-joy-for-ever` | have (PG 19980) |
+| The Elements of Perspective (1859) |  | `ruskin-elements-of-perspective` | have (PG 60816) |
+| The Two Paths (1859) |  | `ruskin-two-paths` | have (PG 7291) |
+| Unto This Last, and Other Essays on Political Economy (1862) |  | `ruskin-unto-this-last` | have (PG 36541) |
+| Sesame and Lilies (1865) |  | `ruskin-sesame-and-lilies` | have (PG 1293) |
+| The Crown of Wild Olive; Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing (collected) |  | `ruskin-crown-of-wild-olive-collected` | have (PG 26716) |
+| Time and Tide by Weare and Tyne (1867) |  | `ruskin-time-and-tide` | have (PG 31196) |
+| The Queen of the Air (1869) |  | `ruskin-queen-of-the-air` | have (PG 12641) |
+| Lectures on Art (1870) |  | `ruskin-lectures-on-art` | have (PG 19164) |
+| Lectures on Landscape (1871) |  | `ruskin-lectures-on-landscape` | have (PG 20019) |
+| The Eagle's Nest (1872) |  | `ruskin-eagles-nest` | have (PG 42917) |
+| Ariadne Florentina (1873-76) |  | `ruskin-ariadne-florentina` | have (PG 27268) |
+| Val d'Arno (1874) |  | `ruskin-val-darno` | have (PG 8523) |
+| Love's Meinie (1873-81) |  | `ruskin-loves-meinie` | have (PG 21138) |
+| Mornings in Florence (1875-77) |  | `ruskin-mornings-in-florence` | have (PG 7227) |
+| Giotto and his Works in Padua (1853-60) |  | `ruskin-giotto-padua` | have (PG 18371) |
+| Fors Clavigera, vol. 1 of 8 (1871-84) |  | `ruskin-fors-clavigera-1` | have (PG 59456) |
+| Fors Clavigera, vol. 2 of 8 (1871-84) |  | `ruskin-fors-clavigera-2` | have (PG 61591) |
+| Fors Clavigera, vol. 3 of 8 (1871-84) |  | `ruskin-fors-clavigera-3` | have (PG 61634) |
+| Fors Clavigera, vol. 4 of 8 (1871-84) |  | `ruskin-fors-clavigera-4` | have (PG 67544) |
+| Fors Clavigera, vol. 5 of 8 (1871-84) |  | `ruskin-fors-clavigera-5` | have (PG 68013) |
+| Fors Clavigera, vol. 6 of 8 (1871-84) |  | `ruskin-fors-clavigera-6` | have (PG 70181) |
+| Proserpina, vol. 1 (1875-86) |  | `ruskin-proserpina-1` | have (PG 20421) |
+| Proserpina, vol. 2 |  | `ruskin-proserpina-2` | have (PG 15088) |
+| Our Fathers Have Told Us, part I: The Bible of Amiens (1880-85) |  | `ruskin-bible-of-amiens` | have (PG 24428) |
+| Letters to the Clergy on the Lord's Prayer and the Church (1879) |  | `ruskin-letters-to-the-clergy` | have (PG 39283) |
+| The Pleasures of England (1884) |  | `ruskin-pleasures-of-england` | have (PG 15947) |
+| The Storm-Cloud of the Nineteenth Century (1884) |  | `ruskin-storm-cloud` | have (PG 20204) |
+| On the Old Road, vol. 1 (1885) |  | `ruskin-on-the-old-road-1` | have (PG 25678) |
+| On the Old Road, vol. 2 (1885) |  | `ruskin-on-the-old-road-2` | have (PG 21263) |
+| Hortus Inclusus (1887) |  | `ruskin-hortus-inclusus` | have (PG 22230) |
+| Arrows of the Chace, vol. 1 (1880) |  | `ruskin-arrows-of-the-chace-1` | have (PG 49508) |
+| Arrows of the Chace, vol. 2 (1880) |  | `ruskin-arrows-of-the-chace-2` | have (PG 48015) |
+
+Pending (wishlist): Fors Clavigera vols. 7-8; Praeterita
 
 ## Perseus census (overflow)
 
