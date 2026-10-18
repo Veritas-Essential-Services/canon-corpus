@@ -1,0 +1,128 @@
+{
+ "_about": "The Brontë sisters' novels and poems not already on another shelf (the reading-list bronte shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Charlotte, Emily and Anne Brontë",
+ "_name_words": [
+  "brontë"
+ ],
+ "_surname": [
+  "charlotte brontë",
+  "anne brontë",
+  "emily brontë"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bronte-biographical-notes-on-the-pseudonymous-bells": [
+   771,
+   "Biographical Notes on the Pseudonymous Bells"
+  ],
+  "bronte-poems-by-currer-ellis-and-acton-bell": [
+   1019,
+   "Poems by Currer, Ellis, and Acton Bell"
+  ],
+  "bronte-professor": [
+   1028,
+   "The Professor"
+  ],
+  "bronte-villette": [
+   9182,
+   "Villette"
+  ],
+  "bronte-shirley": [
+   30486,
+   "Shirley",
+   {
+    "contents_only": true
+   }
+  ],
+  "bronte-richard-coeur-de-lion-and-blondel": [
+   53747,
+   "Richard Coeur de Lion and Blondel"
+  ],
+  "bronte-twelve-adventurers-and-other-stories": [
+   73858,
+   "The twelve adventurers, and other stories"
+  ],
+  "bronte-tenant-of-wildfell-hall": [
+   969,
+   "The Tenant of Wildfell Hall"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-79159": "PG 79159 Jane Eyre: John Brougham's stage version, not the novel."
+ },
+ "_checks": {
+  "bronte-biographical-notes-on-the-pseudonymous-bells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-poems-by-currer-ellis-and-acton-bell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-professor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-villette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-shirley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-richard-coeur-de-lion-and-blondel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-twelve-adventurers-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-tenant-of-wildfell-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anne brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -30384,6 +30384,22 @@ Shelf: `pipeline/austen-works_shelf.json` (2026-10-17; added at the coordinator'
 | pg-78656 | excluded | PG 78656: duologues by Rosina Filippi from the novels. |
 | pg-21839 | excluded | PG 21839 Sense and Sensibility and 42671 Pride and Prejudice: second editions; the reading-list austen shelf holds the novels. |
 
+## the Brontë sisters
+
+Shelf: `pipeline/bronte-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Biographical Notes on the Pseudonymous Bells | have | PG 771, `bronte-biographical-notes-on-the-pseudonymous-bells` (35 units) |
+| Poems by Currer, Ellis, and Acton Bell | have | PG 1019, `bronte-poems-by-currer-ellis-and-acton-bell` (893 units) |
+| The Professor | have | PG 1028, `bronte-professor` (1326 units) |
+| Villette | have | PG 9182, `bronte-villette` (3522 units) |
+| Shirley | have | PG 30486, `bronte-shirley` (5207 units) |
+| Richard Coeur de Lion and Blondel | have | PG 53747, `bronte-richard-coeur-de-lion-and-blondel` (29 units) |
+| The twelve adventurers, and other stories | have | PG 73858, `bronte-twelve-adventurers-and-other-stories` (877 units) |
+| The Tenant of Wildfell Hall | have | PG 969, `bronte-tenant-of-wildfell-hall` (3142 units) |
+| pg-79159 | excluded | PG 79159 Jane Eyre: John Brougham's stage version, not the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
