@@ -5696,6 +5696,7 @@ Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Principles of Economics, eighth edition (Macmillan, 1920) |  | `marshall-principles-of-economics-8th-1920` | have-raw (IA `bmshri.principlesofecon0000alfr_f4w9edition-8`) |
 
 Pending (wishlist): Industry and Trade (1919); Money, Credit and Commerce (1923)
 

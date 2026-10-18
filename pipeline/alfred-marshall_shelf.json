@@ -1,0 +1,33 @@
+{
+ "_about": "Alfred Marshall (1842-1924), Cambridge economist: Principles of Economics, an introductory volume, eighth edition (London: Macmillan, 1920), the definitive text, raw IA OCR, clean 0.94. Not taken: the earlier editions (1890 onward) on IA, which the eighth revises. US public domain. Not Beatrice Marshall or Marshall Saunders. No uids minted.",
+ "_author": "Alfred Marshall",
+ "_name_words": [
+  "alfred",
+  "marshall"
+ ],
+ "_surname": [
+  "marshall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marshall-principles-of-economics-8th-1920": [
+   "bmshri.principlesofecon0000alfr_f4w9edition-8",
+   "Principles of Economics, eighth edition (Macmillan, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "marshall-principles-of-economics-8th-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
