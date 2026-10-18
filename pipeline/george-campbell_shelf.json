@@ -1,0 +1,48 @@
+{
+ "_about": "George Campbell (1719-1796), principal of Marischal College, Aberdeen: The Philosophy of Rhetoric, a new edition with the author's last additions and corrections (New York: Harper, 1885), raw IA OCR, clean 0.93; and A Dissertation on Miracles, containing an examination of the principles advanced by David Hume in an Essay on Miracles (Edinburgh: A. Kincaid and J. Bell, MDCCLXII), raw IA OCR, clean 0.87. Not G. Campbell Morgan. His Four Gospels translation is not taken here. US public domain. No uids minted.",
+ "_author": "George Campbell",
+ "_name_words": [
+  "george",
+  "campbell"
+ ],
+ "_surname": [
+  "campbell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "campbell-philosophy-of-rhetoric-1885": [
+   "philosophyrhetor00camp",
+   "The Philosophy of Rhetoric, new edition (New York: Harper, 1885)"
+  ],
+  "campbell-dissertation-on-miracles-1762": [
+   "dissertationonmi00camp",
+   "A Dissertation on Miracles (Edinburgh: Kincaid and Bell, 1762)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "campbell-philosophy-of-rhetoric-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "campbell-dissertation-on-miracles-1762": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

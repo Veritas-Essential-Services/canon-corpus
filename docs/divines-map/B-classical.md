@@ -5868,6 +5868,8 @@ Shelf: `pipeline/george-campbell_shelf.json`. Philosophy of Rhetoric (1885 Harpe
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophy of Rhetoric, new edition (New York: Harper, 1885) |  | `campbell-philosophy-of-rhetoric-1885` | have-raw (IA `philosophyrhetor00camp`) |
+| A Dissertation on Miracles (Edinburgh: Kincaid and Bell, 1762) |  | `campbell-dissertation-on-miracles-1762` | have-raw (IA `dissertationonmi00camp`) |
 
 ## Hugh Blair (rhetoric)
 
