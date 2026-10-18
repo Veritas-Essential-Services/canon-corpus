@@ -9038,6 +9038,17 @@ Slugs `patrick-*`. Built from title pages read for round 37.
 | The Epistles and Hymn of Saint Patrick, with the Poem of Secundinus, translated by Thomas Olden (Dublin: Hodges, Foster, & Co., 1876) | have-ocr | IA `epistlesandhymn00patrgoog` |
 | White's St. Patrick, his Writings and Life (SPCK, 1920; also holds Muirchu's Life); Wright's RTS editions (undated title pages); Olden's Confession (Dublin: M'Glashan, title page year not read); TheConfessionOfStPatrick and TheEpistlesAndHymnOfStPatrick (other copies) | alternate | not shelved |
 | CCEL's Confession (a modern web translation with no print source); the Latin texts (Libri Sancti Patricii); O'Leary's Most Ancient Lives (PG 18482, a mixed volume, translator not named); Lives by Bury, Healy and Stokes | excluded | |
+
+## Bernardine of Siena (round 37, my pick, 2026-10-18)
+
+Slugs `bernardine-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| Saint Bernardine of Siena: Sermons, selected and edited by Nazareno Orlandi, tr. Helen Josephine Robins (Siena: Tipografia Sociale, 1920) | have-ocr | IA `saintbernardineo0000naza` |
+| Examples of San Bernardino, rendered into English by Ada Harrison (London: Gerald Howe, 1926) | have-ocr | IA `examplesofsanber0000adae` |
+| bwb_C0-ANN-935 (another copy of the 1920 Robins) | alternate | not shelved |
+| Lives by Thureau-Dangin, Howell, Allies and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
