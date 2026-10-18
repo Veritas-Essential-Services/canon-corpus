@@ -1,0 +1,33 @@
+{
+ "_about": "Francis Lieber (1800-1872), German-American political philosopher: On Civil Liberty and Self-Government, third edition revised, edited by Theodore D. Woolsey (Philadelphia: J. B. Lippincott; London: Trubner, 1874), raw IA OCR, clean 0.94. Wanted: Manual of Political Ethics (1838-39). US public domain. No uids minted.",
+ "_author": "Francis Lieber",
+ "_name_words": [
+  "francis",
+  "lieber"
+ ],
+ "_surname": [
+  "lieber"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lieber-civil-liberty-woolsey-1874": [
+   "3edoncivillibert00liebuoft",
+   "On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lieber-civil-liberty-woolsey-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lieber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

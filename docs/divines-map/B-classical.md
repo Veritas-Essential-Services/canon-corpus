@@ -5799,6 +5799,7 @@ Shelf: `pipeline/francis-lieber_shelf.json`. Woolsey's third edition of Civil Li
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874) |  | `lieber-civil-liberty-woolsey-1874` | have-raw (IA `3edoncivillibert00liebuoft`) |
 
 Pending (wishlist): Manual of Political Ethics (1838-39)
 
