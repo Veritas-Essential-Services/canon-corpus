@@ -1,0 +1,50 @@
+{
+ "_about": "Public-domain Boniface (Winfrid, c.675-754), the English apostle of the Germans, for the Word Hoard: The English Correspondence of Saint Boniface, translated and edited by Edward Kylie (King's Classics, 1911), from an Internet Archive scan. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "boniface"
+ ],
+ "_surname": [
+  "boniface",
+  "s. boniface",
+  "saint boniface",
+  "st. boniface"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boniface-english-correspondence": [
+   "englishcorrespon00boniuoft",
+   "The English Correspondence of Saint Boniface, tr. Edward Kylie, The King's Classics (London: Chatto & Windus, 1911)"
+  ]
+ },
+ "_alternates": {
+  "boniface-copies": "cihm_84747 (microfiche of the same 1911 edition)"
+ },
+ "_excluded": {
+  "boniface-later": "Emerton, The Letters of Saint Boniface (1940); Lives of him by other hands"
+ },
+ "_rights_checked": {
+  "boniface-english-correspondence": "title page read: 1911; the catalogue's death year 1009 is wrong (Boniface died in 754)"
+ },
+ "_pending": {},
+ "_translators": {
+  "boniface-english-correspondence": "kylie"
+ },
+ "_checks": {
+  "boniface-english-correspondence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boniface",
+   "translator_claimed": "kylie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1911; the catalogue's death year 1009 is wrong (Boniface died in 754)"
+  }
+ }
+}

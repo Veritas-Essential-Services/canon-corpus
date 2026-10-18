@@ -9009,3 +9009,13 @@ Slugs `adamsv-*`. Built from title pages read for round 37.
 | The Liturgical Poetry of Adam of St. Victor, vol. II, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI) | have-ocr | IA `liturgicalpoetry02adamuoft` |
 | The Liturgical Poetry of Adam of St. Victor, vol. III, tr. Digby S. Wrangham (London: Kegan Paul, Trench, & Co., MDCCCLXXXI) | have-ocr | IA `liturgicalpoetry03adamuoft` |
 | liturgicalpoetr01-03adam, the iala and Google copies | alternate | not shelved |
+
+## Boniface (round 37, my pick, 2026-10-18)
+
+Slugs `boniface-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The English Correspondence of Saint Boniface, tr. Edward Kylie, The King's Classics (London: Chatto & Windus, 1911) | have-ocr | IA `englishcorrespon00boniuoft` |
+| cihm_84747 (microfiche of the same 1911 edition) | alternate | not shelved |
+| Emerton, The Letters of Saint Boniface (1940); Lives of him by other hands | excluded | |
