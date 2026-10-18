@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir Edwin Arnold (1832-1904). The Bhagavad Gita as 'The Song Celestial' (1885). PD. His own Light of Asia is an original poem, not a translation. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Sir Edwin Arnold (1832-1904). The Bhagavad Gita as 'The Song Celestial' (1885). Since round 78 also the Book of Good Counsels (the Hitopadesa, 1861), Indian Poetry with the Gita Govinda (an undated impression), Indian Idylls from the Mahabharata (1883) and The Secret of Death (the Katha Upanishad, 1885). PD. His own Light of Asia is an original poem, not a translation. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "arnold"
  ],
@@ -11,9 +11,26 @@
   "arnold-song-celestial": [
    2388,
    "The Song Celestial; Or, Bhagavad-Gîtâ"
+  ],
+  "arnold-indian-poetry": [
+   25965,
+   "Indian Poetry"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "arnold-book-of-good-counsels": [
+   "cu31924074412994",
+   "The Book of Good Counsels, from the Sanskrit of the Hitopadesa (1861)"
+  ],
+  "arnold-indian-idylls": [
+   "indianidyllsfrom00arnouoft",
+   "Indian Idylls, from the Sanskrit of the Mahabharata (1883)"
+  ],
+  "arnold-secret-of-death": [
+   "secretofdeathfro00arnouoft",
+   "The Secret of Death, from the Sanskrit, with some Collected Poems (1885)"
+  ]
+ },
  "titles": {
   "edwin-arnold-bhagavad-gita": {
    "source": "arnold-song-celestial",
@@ -22,11 +39,43 @@
    "translated": 1885,
    "translator": "Sir Edwin Arnold",
    "scan_edition": "Project Gutenberg 2388 (clean text)"
+  },
+  "edwin-arnold-book-of-good-counsels": {
+   "source": "arnold-book-of-good-counsels",
+   "of": "The Hitopadesa",
+   "work": "The Book of Good Counsels",
+   "translated": 1861,
+   "translator": "Sir Edwin Arnold",
+   "scan_edition": "Smith, Elder & Co., London 1861 (preface dated Framfield, Sussex, March 1861); Cornell scan"
+  },
+  "edwin-arnold-indian-poetry": {
+   "source": "arnold-indian-poetry",
+   "of": "Jayadeva's Gita Govinda, two books of the Mahabharata, proverbs from the Hitopadesa, and other poems",
+   "work": "Indian Poetry, containing 'The Indian Song of Songs' from the Sanskrit of the Gita Govinda of Jayadeva",
+   "translated": "(undated eighth impression; see the note)",
+   "translator": "Sir Edwin Arnold",
+   "scan_edition": "Project Gutenberg 25965 (clean text), from the 'eighth impression' of Kegan Paul, Trench, Trübner & Co. Ltd, Dryden House, London, which is undated",
+   "note": "The impression Gutenberg used carries no date, so it may be later than 1930; Arnold died in 1904, so the words are public domain either way. This falls under the late-reprint question in DIGEST-C."
+  },
+  "edwin-arnold-indian-idylls": {
+   "source": "arnold-indian-idylls",
+   "of": "Episodes of the Mahabharata (Nala and Damayanti, Savitri and others)",
+   "work": "Indian Idylls, from the Sanskrit of the Mahabharata",
+   "translated": 1883,
+   "translator": "Sir Edwin Arnold",
+   "scan_edition": "Trübner & Co., London 1883 (preface dated London, August 1883); University of Toronto scan"
+  },
+  "edwin-arnold-secret-of-death": {
+   "source": "arnold-secret-of-death",
+   "of": "The Katha Upanishad",
+   "work": "The Secret of Death, from the Sanskrit, with some Collected Poems",
+   "translated": 1885,
+   "translator": "Sir Edwin Arnold",
+   "scan_edition": "Roberts Brothers, Boston 1885; University of Toronto scan",
+   "note": "The Katha Upanishad in verse, followed by Arnold's own collected poems in the same volume."
   }
  },
- "_pending": {
-  "edwin-arnold-indian-idylls": "Indian Idylls (1883, episodes of the Mahabharata): not on Gutenberg; IA not checked this run."
- },
+ "_pending": {},
  "_excluded": {
   "light-of-asia": "The Light of Asia (1879): Arnold's own poem."
  },
@@ -34,12 +83,54 @@
  "_checks": {
   "arnold-song-celestial": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "edwin arnold",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Edwin Arnold"
+  },
+  "arnold-indian-poetry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edwin arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-book-of-good-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edwin arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arnold-indian-idylls": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edwin arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnold-secret-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edwin arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -47,6 +138,41 @@
    "pg": 2388,
    "pg_copyrighted_marker": false,
    "pg_translator": "Sir Edwin Arnold"
+  },
+  "arnold-indian-poetry": {
+   "pg": 25965,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "arnold-book-of-good-counsels": {
+   "ia": "cu31924074412994",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860,
+    1861
+   ],
+   "post_1930_years_in_front_15k": [
+    1984,
+    1994
+   ]
+  },
+  "arnold-indian-idylls": {
+   "ia": "indianidyllsfrom00arnouoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1883
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "arnold-secret-of-death": {
+   "ia": "secretofdeathfro00arnouoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

@@ -520,15 +520,18 @@ Round 6, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 | `muller-dhammapada` | Dhammapada | Dhammapada | F. Max Müller | 1881 | have | PG 2017 |
 | `muller-rig-veda-1869` | — | Müller's Rig-Veda-Sanhita vol. 1 (hymns to the Maruts, 1869): only that volume was ever published; not fetched. | — | — | pending | — |
 
-## Sir Edwin Arnold (Bhagavad Gita)
+## Sir Edwin Arnold (Bhagavad Gita; since round 78 also the Hitopadesa, the Gita Govinda, Indian Idylls and the Katha Upanishad)
 
 Shelf: `pipeline/edwin-arnold_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-arnold` · titles `python3 pipeline/split_shelf_titles.py edwin-arnold`.
-Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `edwin-arnold-bhagavad-gita` | Bhagavad Gita | The Song Celestial (Bhagavad Gita) | Sir Edwin Arnold | 1885 | have | PG 2388 |
-| `edwin-arnold-indian-idylls` | — | Indian Idylls (1883, episodes of the Mahabharata): not on Gutenberg; IA not checked this run. | — | — | pending | — |
+| `edwin-arnold-book-of-good-counsels` | The Hitopadesa | The Book of Good Counsels | Sir Edwin Arnold | 1861 | have-raw | IA `cu31924074412994` |
+| `edwin-arnold-indian-poetry` | Jayadeva's Gita Govinda, two books of the Mahabharata, proverbs from the Hitopadesa, and other poems | Indian Poetry, containing 'The Indian Song of Songs' from the Sanskrit of the Gita Govinda of Jayadeva | Sir Edwin Arnold | (undated eighth impression; see the note) | have | PG 25965 |
+| `edwin-arnold-indian-idylls` | Episodes of the Mahabharata (Nala and Damayanti, Savitri and others) | Indian Idylls, from the Sanskrit of the Mahabharata | Sir Edwin Arnold | 1883 | have-raw | IA `indianidyllsfrom00arnouoft` |
+| `edwin-arnold-secret-of-death` | The Katha Upanishad | The Secret of Death, from the Sanskrit, with some Collected Poems | Sir Edwin Arnold | 1885 | have-raw | IA `secretofdeathfro00arnouoft` |
 | — | — | light-of-asia: The Light of Asia (1879): Arnold's own poem. | — | — | excluded | — |
 
 ## R. T. H. Griffith (Ramayana, Rigveda)
