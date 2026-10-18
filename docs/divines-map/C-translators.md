@@ -6788,6 +6788,35 @@ Round 93 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
 | — | — | dona-luz-1975: donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano). | — | — | excluded | — |
 
+## Series shelf: Kuno Francke's The German Classics of the Nineteenth and Twentieth Centuries (German Publication Society, 1913-1914), all 20 volumes, Goethe to Hauptmann, Thomas Mann, Schnitzler and Wedekind
+
+Shelf: `pipeline/german-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py german-classics` · titles `python3 pipeline/split_shelf_titles.py german-classics`.
+Round 94 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `german-classics-vol-01` | Goethe | The German Classics of the Nineteenth and Twentieth Centuries, vol. I | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1913 | have-raw | IA `germanclassicsma01franiala` |
+| `german-classics-vol-02` | Goethe | The German Classics of the Nineteenth and Twentieth Centuries, vol. II | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1913 | have-raw | IA `germanclassicsma02franiala` |
+| `german-classics-vol-03` | Schiller | The German Classics of the Nineteenth and Twentieth Centuries, vol. III | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1913 | have-raw | IA `germanclassicsma03franiala` |
+| `german-classics-vol-04` | Jean Paul, Wilhelm von Humboldt, August Wilhelm and Friedrich Schlegel, Novalis, Hölderlin and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. IV | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1913 | have-raw | IA `germanclassicsma04franiala` |
+| `german-classics-vol-05` | Schleiermacher, Fichte and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. V | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1913 | have-raw | IA `germanclassicsma05franiala` |
+| `german-classics-vol-06` | Heine, Grillparzer and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. VI | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma06franiala` |
+| `german-classics-vol-07` | Hegel, Bettina von Arnim, Immermann, Gutzkow, Anastasius Grün, Lenau and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. VII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsof0000unse` |
+| `german-classics-vol-08` | Auerbach, Gotthelf and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. VIII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma08franiala` |
+| `german-classics-vol-09` | Hebbel, Otto Ludwig and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. IX | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma09franiala` |
+| `german-classics-vol-10` | Bismarck, Moltke and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. X | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma10franiala` |
+| `german-classics-vol-11` | Spielhagen and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XI | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma11franiala` |
+| `german-classics-vol-12` | Freytag, Fontane and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma12franiala` |
+| `german-classics-vol-13` | Heyse, Scheffel and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XIII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma13franiala` |
+| `german-classics-vol-14` | Gottfried Keller, Conrad Ferdinand Meyer and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XIV | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma14franiala` |
+| `german-classics-vol-15` | Schopenhauer, Wagner and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XV | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma15franiala` |
+| `german-classics-vol-16` | Wilbrandt, Anzengruber and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XVI | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma16franiala` |
+| `german-classics-vol-17` | Wildenbruch, Sudermann and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XVII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma17franiala` |
+| `german-classics-vol-18` | Gerhart Hauptmann and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XVIII | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma18franiala` |
+| `german-classics-vol-19` | Helene Böhlau, Clara Viebig, Eduard von Keyserling, Thomas Mann, Ludwig Thoma, Rudolf Hans Bartsch and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XIX | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsof0000fran_d8a0` |
+| `german-classics-vol-20` | Wassermann, Kellermann, Halbe, Hofmannsthal, Schnitzler, Wedekind and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XX | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma20franiala` |
+| — | — | lyon-albany-printing: The J. B. Lyon (Albany) printing of the series, which styles Francke 'Emeritus', is undated; the German Publication Society's 1913-1914 printing is used for all 20 volumes. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
