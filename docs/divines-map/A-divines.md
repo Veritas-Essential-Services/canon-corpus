@@ -9094,3 +9094,17 @@ Slugs `caussin-*`. Built from title pages read for round 37.
 | Entertainments for Lent, by Sir Basil Brook (Liverpool: John Sadler, M.DCC.LV) | have-ocr | IA `bim_eighteenth-century_entertainments-for-lent-_caussin-nicolas_1755` |
 | The Holy Court 1626 (title page illegible) and 1664; The Christian Diary 1652; The Christian Diurnal 1686; Entertainments for Lent 1661; The Unfortunate Politique 1653 (translators not legible) | alternate | not shelved |
 | The Holy History (1653): the title page shows it is Nicolas Talon's; a modern machine translation of De Eloquentia catalogued 1627 | excluded | |
+
+## Jean Crasset (round 37, my pick, 2026-10-18)
+
+Slugs `crasset-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A New Form of Meditations for every Day in the Year, reviewed, corrected and enlarged, by a Well-wisher to Devotion (London, 1685) | have-ocr | IA `bim_early-english-books-1641-1700_a-new-form-of-meditation_crasset-jean_1685` |
+| The Devotion of Calvary; or Meditations on the Passion (Liverpool: Booker & Co.; London: C. Dolman, 1844) | have-ocr | IA `TheDevotionOfCalvary` |
+| Christian Considerations; or, Devout Meditations for every day in the year, tr. Anna H. Dorsey (New York: P. O'Shea, 1864) | have-ocr | IA `christianconside00cras` |
+| Meditations for every Day in the Year, from the Christian Considerations, Pentecost to Advent, tr. T. B. Snow (London: R. Washbourne, 1888) | have-ocr | IA `meditationsforev02cras` |
+| A Key to Meditation, or Simple Methods of Mental Prayer (London: Burns Oates & Washbourne, 1926) | have-ocr | IA `keytomeditation0000pere` |
+| Dorsey's Christian Considerations (New York: P. O'Shea, 1882); other 1844 and 1685 copies (not read) | alternate | not shelved |
+| The History of the Church of Japan (1705): its title page names the Abbé de T., not Crasset; The Secret of Sanctity (de Sales and Crasset together, Ella McMahon) | excluded | |

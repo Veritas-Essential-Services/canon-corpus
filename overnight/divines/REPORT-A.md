@@ -1894,3 +1894,6 @@
 
 ## 2026-10-17 22:59 CDT — nicolas-caussin done
 - `pipeline/nicolas-caussin_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for caussin-holy-court-1634, caussin-holy-court-passions-1638, caussin-christian-diary-1648, caussin-entertainments-lent-1755 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — jean-crasset done
+- `pipeline/jean-crasset_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
