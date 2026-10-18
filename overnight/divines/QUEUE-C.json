@@ -3768,6 +3768,14 @@
       "finished": "2026-10-17T21:47-05:00",
       "scope": "GAP-FILL (round 101, lane C's choice; Adam may veto) -- french-classics; PD printings before 1931 only; no minting",
       "notes": "+1 titles, now 21; ids checked across all branches. See DIGEST-C round 101. No uids minted."
+    },
+    {
+      "id": "shelf-lusiads-in-english",
+      "status": "done",
+      "started": "2026-10-17T21:51-05:00",
+      "finished": "2026-10-17T21:51-05:00",
+      "scope": "TRANSLATOR SHELF (round 102, lane C's choice; Adam may veto) -- lusiads-in-english; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 102. No uids minted."
     }
   ]
 }

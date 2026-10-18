@@ -278,3 +278,5 @@
 - 2026-10-17T21:43-05:00: round 100: french-classics +7 (20). --verify --record 0 mismatched; only new _checks recorded. Butler's Select Essays dropped (undated).
 
 - 2026-10-17T21:47-05:00: round 101: durand +3 (10), french-classics +1 (21). --verify --record 0 mismatched; only new _checks recorded.
+
+- 2026-10-17T21:51-05:00: round 102: lusiads-in-english (8). --verify --record 0 mismatched.

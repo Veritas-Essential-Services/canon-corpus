@@ -6932,6 +6932,24 @@ Round 99 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | the-mountain: The Mountain (Nelson, 1886; cu31924005015486): the translator is not named in the first 70 KB of the scan. | — | — | excluded | — |
 | — | — | love-palmer: Love (L'Amour, Rudd & Carleton, 1859): J. W. Palmer's name was not found in the front matter of the scan checked. | — | — | excluded | — |
 
+## Shelf: Camões's Lusiads in English before 1931: Fanshawe (1655), Musgrave (1826), Quillinan (1853), Mitchell (1854), Aubertin (1878-84), Duff (1880)
+
+Shelf: `pipeline/lusiads-in-english_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lusiads-in-english` · titles `python3 pipeline/split_shelf_titles.py lusiads-in-english`.
+Round 102 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lusiads-fanshawe-1655` | Luís de Camões | The Lusiad, or Portugals Historicall Poem | Sir Richard Fanshawe | 1655 | have-raw | IA `lusiadorportugal00came` |
+| `lusiads-musgrave-vol-1` | Luís de Camões | The Lusiad, an epic poem, vol. I | Thomas Moore Musgrave | 1826 | have-raw | IA `lusiadanepicpoe01musggoog` |
+| `lusiads-musgrave-vol-2` | Luís de Camões | The Lusiad, an epic poem, vol. II | Thomas Moore Musgrave | 1826 | have-raw | IA `lusiadanepicpoe02musggoog` |
+| `lusiads-quillinan-books-1-5` | Luís de Camões | The Lusiad of Luis de Camoens, Books I to V | Edward Quillinan | 1853 | have-raw | IA `lusiadluisdecam00adamgoog` |
+| `lusiads-mitchell-1854` | Luís de Camões | The Lusiad of Luis de Camoens, closely translated | Sir Thomas Livingston Mitchell | 1854 | have-raw | IA `lusiadofluisdeca00camo` |
+| `lusiads-aubertin-vol-1` | Luís de Camões | The Lusiads of Camoens, vol. I | J. J. Aubertin | 1878 | have-raw | IA `lusiadsofcamoens01cam` |
+| `lusiads-aubertin-vol-2` | Luís de Camões | The Lusiads of Camoens, vol. II | J. J. Aubertin | 1878 | have-raw | IA `lusiadscamoens00camgoog` |
+| `lusiads-duff-1880` | Luís de Camões | The Lusiad of Camoens, translated into English Spenserian verse | Robert Ffrench Duff | 1880 | have-raw | IA `lusiadofcamoenst00camrich` |
+| — | — | mickle: Mickle's Lusiad (1776) is on singles-medieval-epic. | — | — | excluded | — |
+| — | — | burton: Burton's Lusiads (1880) is on the burton shelf. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
