@@ -1,0 +1,176 @@
+{
+ "_about": "Henry Fielding's novels, plays and essays (Tom Jones, Joseph Andrews and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Henry Fielding",
+ "_name_words": [
+  "fielding"
+ ],
+ "_surname": [
+  "henry fielding"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fielding-journal-of-a-voyage-to-lisbon": [
+   1146,
+   "The Journal of a Voyage to Lisbon"
+  ],
+  "fielding-a-journey-from-this-world-to-the-next": [
+   1147,
+   "A Journey from This World to the Next"
+  ],
+  "fielding-history-of-the-life-of-the-late-mr-jonathan-wild-th": [
+   5256,
+   "The History of the Life of the Late Mr. Jonathan Wild the Great"
+  ],
+  "fielding-amelia-complete": [
+   6098,
+   "Amelia — Complete"
+  ],
+  "fielding-history-of-tom-jones-a-foundling": [
+   6593,
+   "History of Tom Jones, a Foundling"
+  ],
+  "fielding-works-of-henry-fielding-vol-12": [
+   6828,
+   "The Works of Henry Fielding, vol. 12"
+  ],
+  "fielding-joseph-andrews-vol-2": [
+   9609,
+   "Joseph Andrews, Vol. 2"
+  ],
+  "fielding-joseph-andrews-vol-1": [
+   9611,
+   "Joseph Andrews, Vol. 1"
+  ],
+  "fielding-an-apology-for-the-life-of-mrs-shamela-andrews": [
+   30962,
+   "An Apology for the Life of Mrs. Shamela Andrews"
+  ],
+  "fielding-lovers-assistant": [
+   31036,
+   "The Lovers Assistant; Or, New Art of Love (adapted from Ovid)"
+  ],
+  "fielding-old-debauchees-a-comedy": [
+   37923,
+   "The Old Debauchees. A Comedy"
+  ],
+  "fielding-works-of-henry-fielding-vol-11-a-journey-from-this": [
+   43520,
+   "The Works of Henry Fielding, vol. 11 A Journey From This World to the Next; and A Voyage to Lisbon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58249": "PG 58249: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 6095, 6096, 6097: the complete edition of each is on the shelf instead."
+ },
+ "_checks": {
+  "fielding-journal-of-a-voyage-to-lisbon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-a-journey-from-this-world-to-the-next": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-history-of-the-life-of-the-late-mr-jonathan-wild-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-amelia-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-history-of-tom-jones-a-foundling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-works-of-henry-fielding-vol-12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-joseph-andrews-vol-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-joseph-andrews-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-an-apology-for-the-life-of-mrs-shamela-andrews": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-lovers-assistant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-old-debauchees-a-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fielding-works-of-henry-fielding-vol-11-a-journey-from-this": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry fielding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

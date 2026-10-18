@@ -29927,6 +29927,27 @@ Shelf: `pipeline/gpr-james_shelf.json` (2026-10-17; added at the coordinator's r
 | Henry Smeaton: A Jacobite Story of the Reign of George the First. | have | PG 51815, `gprjames-henry-smeaton` (2693 units) |
 | Beauchamp; or, The Error. | have | PG 51898, `gprjames-beauchamp` (2280 units) |
 
+## Henry Fielding
+
+Shelf: `pipeline/fielding_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Journal of a Voyage to Lisbon | have | PG 1146, `fielding-journal-of-a-voyage-to-lisbon` (287 units) |
+| A Journey from This World to the Next | have | PG 1147, `fielding-a-journey-from-this-world-to-the-next` (357 units) |
+| The History of the Life of the Late Mr. Jonathan Wild the Great | have | PG 5256, `fielding-history-of-the-life-of-the-late-mr-jonathan-wild-th` (501 units) |
+| Amelia — Complete | have | PG 6098, `fielding-amelia-complete` (3228 units) |
+| History of Tom Jones, a Foundling | have | PG 6593, `fielding-history-of-tom-jones-a-foundling` (3833 units) |
+| The Works of Henry Fielding, vol. 12 | have | PG 6828, `fielding-works-of-henry-fielding-vol-12` (1966 units) |
+| Joseph Andrews, Vol. 2 | have | PG 9609, `fielding-joseph-andrews-vol-2` (292 units) |
+| Joseph Andrews, Vol. 1 | have | PG 9611, `fielding-joseph-andrews-vol-1` (475 units) |
+| An Apology for the Life of Mrs. Shamela Andrews | have | PG 30962, `fielding-an-apology-for-the-life-of-mrs-shamela-andrews` (272 units) |
+| The Lovers Assistant; Or, New Art of Love (adapted from Ovid) | have | PG 31036, `fielding-lovers-assistant` (418 units) |
+| The Old Debauchees. A Comedy | have | PG 37923, `fielding-old-debauchees-a-comedy` (532 units) |
+| The Works of Henry Fielding, vol. 11 A Journey From This World to the Next; and A Voyage to Lisbon | have | PG 43520, `fielding-works-of-henry-fielding-vol-11-a-journey-from-this` (806 units) |
+| pg-58249 | excluded | PG 58249: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 6095, 6096, 6097: the complete edition of each is on the shelf instead. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
