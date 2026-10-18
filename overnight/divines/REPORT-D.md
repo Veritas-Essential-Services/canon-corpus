@@ -1296,3 +1296,6 @@
 
 ## 2026-10-17 19:10 CDT — sr-crockett: done
 - sr-crockett: new shelf, 21 Gutenberg books, 47,257 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:10 CDT — robert-barr: done
+- robert-barr: new shelf, 21 Gutenberg books, 40,782 units, 394 ~2 ids; verify 0 mismatches, 0 rights flags.

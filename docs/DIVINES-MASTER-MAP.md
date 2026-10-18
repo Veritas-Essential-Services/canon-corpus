@@ -25418,6 +25418,35 @@ Shelf: `pipeline/sr-crockett_shelf.json` (2026-10-17; added at the coordinator's
 | The Standard Bearer | have | PG 53164, `srcrockett-standard-bearer` (1967 units) |
 | Maid Margaret of Galloway | have | PG 76337, `srcrockett-maid-margaret-of-galloway` (2619 units) |
 
+## Robert Barr
+
+Shelf: `pipeline/robert-barr_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Rock in the Baltic | have | PG 4982, `rbarr-a-rock-in-the-baltic` (1631 units) |
+| Revenge! | have | PG 8668, `rbarr-revenge` (1915 units) |
+| The Face and the Mask | have | PG 8681, `rbarr-face-and-the-mask` (1799 units) |
+| The Strong Arm | have | PG 8716, `rbarr-strong-arm` (1937 units) |
+| In the Midst of Alarms | have | PG 9263, `rbarr-in-the-midst-of-alarms` (1862 units) |
+| Jennie Baxter, Journalist | have | PG 9300, `rbarr-jennie-baxter-journalist` (1521 units) |
+| One Day's Courtship, and The Heralds of Fame | have | PG 9305, `rbarr-one-days-courtship-and-the-heralds-of-fame` (1159 units) |
+| In a steamer chair, and other shipboard stories | have | PG 9309, `rbarr-in-a-steamer-chair-and-other-shipboard-stories` (1701 units) |
+| From Whose Bourne | have | PG 9312, `rbarr-from-whose-bourne` (906 units) |
+| A Woman Intervenes | have | PG 9379, `rbarr-a-woman-intervenes` (2993 units) |
+| The Sword Maker | have | PG 14656, `rbarr-sword-maker` (2844 units) |
+| The Triumphs of Eugène Valmont | have | PG 19369, `rbarr-triumphs-of-eug-ne-valmont` (2000 units) |
+| The O'Ruddy: A Romance (by Stephen Crane, completed by Robert Barr) | have | PG 29573, `rbarr-oruddy` (2176 units) |
+| A Prince of Good Fellows | have | PG 31715, `rbarr-a-prince-of-good-fellows` (1556 units) |
+| Lord Stranleigh Abroad | have | PG 32185, `rbarr-lord-stranleigh-abroad` (1932 units) |
+| Tekla: A Romance of Love and War | have | PG 51717, `rbarr-tekla` (2738 units) |
+| A Chicago Princess | have | PG 52363, `rbarr-a-chicago-princess` (1696 units) |
+| The Mutable Many: A Novel | have | PG 55326, `rbarr-mutable-many` (2659 units) |
+| Over the Border: A Romance | have | PG 55327, `rbarr-over-the-border` (2362 units) |
+| The Speculations of John Steele | have | PG 55328, `rbarr-speculations-of-john-steele` (1826 units) |
+| Young Lord Stranleigh: A Novel | have | PG 55329, `rbarr-young-lord-stranleigh` (1569 units) |
+| pg-57686 | excluded | PG 57686: Gutenberg's index of Barr's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

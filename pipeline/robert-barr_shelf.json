@@ -1,0 +1,310 @@
+{
+ "_about": "Robert Barr's novels and stories (the Eugene Valmont detective tales and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Robert Barr",
+ "_name_words": [
+  "barr"
+ ],
+ "_surname": [
+  "robert barr"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rbarr-a-rock-in-the-baltic": [
+   4982,
+   "A Rock in the Baltic"
+  ],
+  "rbarr-revenge": [
+   8668,
+   "Revenge!",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-face-and-the-mask": [
+   8681,
+   "The Face and the Mask",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-strong-arm": [
+   8716,
+   "The Strong Arm",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-in-the-midst-of-alarms": [
+   9263,
+   "In the Midst of Alarms"
+  ],
+  "rbarr-jennie-baxter-journalist": [
+   9300,
+   "Jennie Baxter, Journalist"
+  ],
+  "rbarr-one-days-courtship-and-the-heralds-of-fame": [
+   9305,
+   "One Day's Courtship, and The Heralds of Fame"
+  ],
+  "rbarr-in-a-steamer-chair-and-other-shipboard-stories": [
+   9309,
+   "In a steamer chair, and other shipboard stories"
+  ],
+  "rbarr-from-whose-bourne": [
+   9312,
+   "From Whose Bourne"
+  ],
+  "rbarr-a-woman-intervenes": [
+   9379,
+   "A Woman Intervenes"
+  ],
+  "rbarr-sword-maker": [
+   14656,
+   "The Sword Maker",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-triumphs-of-eug-ne-valmont": [
+   19369,
+   "The Triumphs of Eugène Valmont"
+  ],
+  "rbarr-oruddy": [
+   29573,
+   "The O'Ruddy: A Romance (by Stephen Crane, completed by Robert Barr)"
+  ],
+  "rbarr-a-prince-of-good-fellows": [
+   31715,
+   "A Prince of Good Fellows"
+  ],
+  "rbarr-lord-stranleigh-abroad": [
+   32185,
+   "Lord Stranleigh Abroad",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-tekla": [
+   51717,
+   "Tekla: A Romance of Love and War",
+   {
+    "contents_only": true
+   }
+  ],
+  "rbarr-a-chicago-princess": [
+   52363,
+   "A Chicago Princess"
+  ],
+  "rbarr-mutable-many": [
+   55326,
+   "The Mutable Many: A Novel"
+  ],
+  "rbarr-over-the-border": [
+   55327,
+   "Over the Border: A Romance"
+  ],
+  "rbarr-speculations-of-john-steele": [
+   55328,
+   "The Speculations of John Steele"
+  ],
+  "rbarr-young-lord-stranleigh": [
+   55329,
+   "Young Lord Stranleigh: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57686": "PG 57686: Gutenberg's index of Barr's works, not a book."
+ },
+ "_checks": {
+  "rbarr-a-rock-in-the-baltic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-revenge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-face-and-the-mask": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-strong-arm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-in-the-midst-of-alarms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-jennie-baxter-journalist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-one-days-courtship-and-the-heralds-of-fame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-in-a-steamer-chair-and-other-shipboard-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-from-whose-bourne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-a-woman-intervenes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-sword-maker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-triumphs-of-eug-ne-valmont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-oruddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-a-prince-of-good-fellows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-lord-stranleigh-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-tekla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-a-chicago-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-mutable-many": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-over-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-speculations-of-john-steele": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbarr-young-lord-stranleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert barr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
