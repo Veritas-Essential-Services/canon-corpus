@@ -5004,6 +5004,7 @@ Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the p
 | Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874) |  | `lewes-problems-of-life-and-mind-1874-v1` | have-raw (IA `problemsoflifemi01leweiala`) |
 | Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876) |  | `lewes-problems-of-life-and-mind-1876-v2` | have-raw (IA `problemslifeand06lewegoog`) |
 | Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853) |  | `lewes-comtes-philosophy-of-the-sciences-1853` | have-raw (IA `comtesphilosophy00leweuoft`) |
+| The Principles of Success in Literature (1865) |  | `lewes-principles-of-success-in-literature` | have (PG 10420) |
 
 Pending (wishlist): a matched pair of the History
 
