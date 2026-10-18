@@ -4820,6 +4820,8 @@ Shelf: `pipeline/w-r-sorley_shelf.json`. Moral Values and the Idea of God (1918)
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Moral Values and the Idea of God (Cambridge, 1918) |  | `sorley-moral-values-and-the-idea-of-god-1918` | have-raw (IA `moralvaluesandth00sorluoft`) |
+| On the Ethics of Naturalism (1885) |  | `sorley-ethics-of-naturalism` | have (PG 48027) |
+| Recent Tendencies in Ethics (1904) |  | `sorley-recent-tendencies-in-ethics` | have (PG 12492) |
 
 ## F. C. S. Schiller
 

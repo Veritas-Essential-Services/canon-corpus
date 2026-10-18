@@ -1,5 +1,5 @@
 {
- "_about": "W. R. Sorley (1855-1935), raw IA OCR: Moral Values and the Idea of God, Gifford Lectures (Cambridge: University Press, 1918). US public domain. No uids minted.",
+ "_about": "W. R. Sorley (1855-1935), raw IA OCR: Moral Values and the Idea of God, Gifford Lectures (Cambridge: University Press, 1918). US public domain. Added in round 2026-10-18cb from Gutenberg: On the Ethics of Naturalism (1885) and Recent Tendencies in Ethics (1904). No uids minted.",
  "_author": "W. R. Sorley",
  "_name_words": [
   "w",
@@ -12,7 +12,16 @@
   "sorley"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "sorley-ethics-of-naturalism": [
+   48027,
+   "On the Ethics of Naturalism (1885)"
+  ],
+  "sorley-recent-tendencies-in-ethics": [
+   12492,
+   "Recent Tendencies in Ethics (1904)"
+  ]
+ },
  "internet_archive": {
   "sorley-moral-values-and-the-idea-of-god-1918": [
    "moralvaluesandth00sorluoft",
@@ -21,9 +30,27 @@
  },
  "_excluded": {},
  "_checks": {
+  "sorley-ethics-of-naturalism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sorley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sorley-recent-tendencies-in-ethics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sorley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "sorley-moral-values-and-the-idea-of-god-1918": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "sorley",
    "identity": "ok",
