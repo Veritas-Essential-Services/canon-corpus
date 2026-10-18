@@ -6020,6 +6020,10 @@ Shelf: `pipeline/lord-acton_shelf.json`. Four Gutenberg texts. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Lecture on the Study of History (1895; Macmillan reprint 1911) |  | `acton-lecture-study-of-history-1895` | have (PG 25720) |
+| Lectures on Modern History, ed. Figgis and Laurence (1906; printing not named) |  | `acton-lectures-modern-history-1906` | have (PG 18685) |
+| The History of Freedom and Other Essays (1907; reprint 1909) |  | `acton-history-of-freedom-1907` | have (PG 31278) |
+| Lectures on the French Revolution (Macmillan, 1910) |  | `acton-lectures-french-revolution-1910` | have (PG 27488) |
 
 ## F. W. Maitland (English legal history)
 
