@@ -8158,6 +8158,23 @@ Slugs `pember-*`. Built from title pages read for round 34.
 | The Lord's Command: a few words on baptism (London: Hodder and Stoughton, 1904) | have-ocr | IA `lordscommand0000ghpe` |
 | Great Prophecies second edition (1885); undated Revell Earth's Earliest Ages and Theosophy, Buddhism, and the Signs of the End | alternate | not shelved |
 | Mystery Babylon the Great ed. G. H. Lang (Oliphants, 1941 text); Kregel 1942 and 1984 reprints; Joule's Notes on Leviticus, which he only edited; a German translation | excluded | |
+
+## E. W. Bullinger (round 34, my pick, 2026-10-18)
+
+Slugs `ewbullinger-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Witness of the Stars (London: published by the author, 1893) | have-clean | Gutenberg 49018 |
+| A Critical Lexicon and Concordance to the English and Greek New Testament, fourth edition, revised (London: Longmans, Green; year OCR'd 'MDCCCXC\Y', 1895) | have-ocr | IA `criticallexiconc00bull` |
+| The Witness of the Stars (London: published by the author; printed by Eyre and Spottiswoode, 1893) | have-ocr | IA `witnessofthestar00bulluoft` |
+| Number in Scripture: its Supernatural Design and Spiritual Significance (Bromley: the author; London: Eyre and Spottiswoode, 1894) | have-ocr | IA `numberinscriptur0000bull` |
+| Figures of Speech Used in the Bible, explained and illustrated (London: Eyre and Spottiswoode; New York: E. & J. B. Young, 1898) | have-ocr | IA `figuresofspeechu00bull` |
+| The Book of Job: Part I, The Oldest Lesson in the World; Part II, a Rhythmical Translation (London: Eyre and Spottiswoode; year OCR'd '/903', catalogued 1903) | have-ocr | IA `bookofjob00bull` |
+| The Church Epistles (Romans to Thessalonians), second edition (London: Eyre and Spottiswoode, 1905) | have-ocr | IA `4.-the-church-epistles` |
+| How to Enjoy the Bible, or the 'Word' and 'the Words', how to study them (London: Eyre and Spottiswoode, 1907) | have-ocr | IA `howtoenjoybible0000unse_y7m7` |
+| Number in Scripture second edition (1895); Witness of the Stars fourth edition (1921); a second 1898 Figures of Speech; How to Enjoy the Bible 1910 and 1916; Ten Sermons on the Second Advent, fifth edition (1905); the Critical Lexicon fifth edition (1908) | alternate | not shelved |
+| CCEL bullinger/apocalypse (states Revell 1909 but carries a 1984 Kregel call number); the 1935 Apocalypse; Things to Come (a periodical); the Companion Bible; Kregel, Baker and Zondervan reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

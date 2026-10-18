@@ -1,0 +1,156 @@
+{
+ "_about": "Public-domain E. W. Bullinger (Ethelbert William Bullinger, 1837-1913), Anglican clergyman and dispensationalist Bible scholar, for the Word Hoard: A Critical Lexicon and Concordance to the English and Greek New Testament (fourth edition, 1895), The Witness of the Stars (1893), Number in Scripture (1894), Figures of Speech Used in the Bible (1898), The Book of Job (1903), The Church Epistles (1905) and How to Enjoy the Bible (1907), from Internet Archive scans and Project Gutenberg. Not Heinrich Bullinger, who has his own shelf. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bullinger"
+ ],
+ "_surname": [
+  "e. w. bullinger",
+  "ethelbert w. bullinger",
+  "ethelbert william bullinger",
+  "bullinger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "ewbullinger-witness-stars-pg": [
+   49018,
+   "The Witness of the Stars (London: published by the author, 1893)"
+  ]
+ },
+ "internet_archive": {
+  "ewbullinger-critical-lexicon": [
+   "criticallexiconc00bull",
+   "A Critical Lexicon and Concordance to the English and Greek New Testament, fourth edition, revised (London: Longmans, Green; year OCR'd 'MDCCCXC\\Y', 1895)"
+  ],
+  "ewbullinger-witness-stars-1893": [
+   "witnessofthestar00bulluoft",
+   "The Witness of the Stars (London: published by the author; printed by Eyre and Spottiswoode, 1893)"
+  ],
+  "ewbullinger-number-scripture": [
+   "numberinscriptur0000bull",
+   "Number in Scripture: its Supernatural Design and Spiritual Significance (Bromley: the author; London: Eyre and Spottiswoode, 1894)"
+  ],
+  "ewbullinger-figures-speech": [
+   "figuresofspeechu00bull",
+   "Figures of Speech Used in the Bible, explained and illustrated (London: Eyre and Spottiswoode; New York: E. & J. B. Young, 1898)"
+  ],
+  "ewbullinger-book-of-job": [
+   "bookofjob00bull",
+   "The Book of Job: Part I, The Oldest Lesson in the World; Part II, a Rhythmical Translation (London: Eyre and Spottiswoode; year OCR'd '/903', catalogued 1903)"
+  ],
+  "ewbullinger-church-epistles": [
+   "4.-the-church-epistles",
+   "The Church Epistles (Romans to Thessalonians), second edition (London: Eyre and Spottiswoode, 1905)",
+   "4. The Church Epistles_djvu.txt"
+  ],
+  "ewbullinger-enjoy-bible": [
+   "howtoenjoybible0000unse_y7m7",
+   "How to Enjoy the Bible, or the 'Word' and 'the Words', how to study them (London: Eyre and Spottiswoode, 1907)"
+  ]
+ },
+ "_alternates": {
+  "ewbullinger-copies": "Number in Scripture second edition (1895); Witness of the Stars fourth edition (1921); a second 1898 Figures of Speech; How to Enjoy the Bible 1910 and 1916; Ten Sermons on the Second Advent, fifth edition (1905); the Critical Lexicon fifth edition (1908)"
+ },
+ "_excluded": {
+  "ewbullinger-later": "CCEL bullinger/apocalypse (states Revell 1909 but carries a 1984 Kregel call number); the 1935 Apocalypse; Things to Come (a periodical); the Companion Bible; Kregel, Baker and Zondervan reprints"
+ },
+ "_identity_checked": {
+  "ewbullinger-enjoy-bible": {
+   "author": "title page read: name OCR'd 'ES We BULGING ER, DD.' (E. W. Bullinger, D.D.)"
+  },
+  "ewbullinger-book-of-job": {
+   "author": "title page read: 'E. W. BULLINGEE, D.D.' (OCR for Bullinger)"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ewbullinger-witness-stars-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewbullinger-critical-lexicon": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ethelbert w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewbullinger-witness-stars-1893": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewbullinger-number-scripture": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ewbullinger-figures-speech": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewbullinger-book-of-job": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "[pref.1903]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewbullinger-church-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ewbullinger-enjoy-bible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. w. bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

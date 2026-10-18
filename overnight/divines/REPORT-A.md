@@ -1696,3 +1696,6 @@
 
 ## 2026-10-17 22:09 CDT — g-h-pember done
 - `pipeline/g-h-pember_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for pember-great-prophecies-1881 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — e-w-bullinger done
+- `pipeline/e-w-bullinger_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for ewbullinger-enjoy-bible, ewbullinger-book-of-job (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
