@@ -1353,3 +1353,6 @@
 
 ## 2026-10-17 19:32 CDT — bret-harte: done
 - bret-harte: new shelf, 57 Gutenberg books, 45,576 units, 2014 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:43 CDT — braddon: done
+- braddon: new shelf, 65 Gutenberg books, 121,301 units, 227 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -1,0 +1,915 @@
+{
+ "_about": "M. E. Braddon's sensation novels (Lady Audley's Secret and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "M. E. Braddon",
+ "_name_words": [
+  "braddon"
+ ],
+ "_surname": [
+  "m. e. braddon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "braddon-lady-audleys-secret": [
+   8954,
+   "Lady Audley's Secret"
+  ],
+  "braddon-golden-calf": [
+   9052,
+   "The Golden Calf"
+  ],
+  "braddon-run-to-earth": [
+   9102,
+   "Run to Earth: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-henry-dunbar": [
+   9189,
+   "Henry Dunbar: A Novel"
+  ],
+  "braddon-charlottes-inheritance": [
+   9259,
+   "Charlotte's Inheritance"
+  ],
+  "braddon-birds-of-prey": [
+   9362,
+   "Birds of Prey"
+  ],
+  "braddon-london-pride": [
+   9377,
+   "London Pride, Or, When the World Was Younger"
+  ],
+  "braddon-lovels-of-arden": [
+   9475,
+   "The Lovels of Arden"
+  ],
+  "braddon-phantom-fortune-a-novel": [
+   10905,
+   "Phantom Fortune, a Novel"
+  ],
+  "braddon-fentons-quest": [
+   11720,
+   "Fenton's Quest",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-milly-darrell": [
+   17801,
+   "Milly Darrell"
+  ],
+  "braddon-vixen-volume-i": [
+   26236,
+   "Vixen, Volume I."
+  ],
+  "braddon-vixen-volume-ii": [
+   26237,
+   "Vixen, Volume II."
+  ],
+  "braddon-vixen-volume-iii": [
+   26238,
+   "Vixen, Volume III."
+  ],
+  "braddon-john-marchmonts-legacy-volume-1-of-3": [
+   34539,
+   "John Marchmont's Legacy, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-john-marchmonts-legacy-volume-2-of-3": [
+   34540,
+   "John Marchmont's Legacy, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-john-marchmonts-legacy-volume-3-of-3": [
+   34541,
+   "John Marchmont's Legacy, Volume 3 (of 3)"
+  ],
+  "braddon-john-marchmonts-legacy-volumes-1-3": [
+   34542,
+   "John Marchmont's Legacy, Volumes 1-3",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-doctors-wife": [
+   35485,
+   "The Doctor's Wife: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-mount-royal": [
+   41339,
+   "Mount Royal: A Novel. Volume 1 of 3"
+  ],
+  "braddon-mount-royal-41340": [
+   41340,
+   "Mount Royal: A Novel. Volume 2 of 3"
+  ],
+  "braddon-mount-royal-41341": [
+   41341,
+   "Mount Royal: A Novel. Volume 3 of 3"
+  ],
+  "braddon-mohawks": [
+   41374,
+   "Mohawks: A Novel. Volume 1 of 3"
+  ],
+  "braddon-mohawks-41375": [
+   41375,
+   "Mohawks: A Novel. Volume 2 of 3"
+  ],
+  "braddon-mohawks-41376": [
+   41376,
+   "Mohawks: A Novel. Volume 3 of 3"
+  ],
+  "braddon-aurora-floyd-vol-1-fifth-edition": [
+   48020,
+   "Aurora Floyd, Vol. 1 Fifth Edition",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-aurora-floyd-vol-2-fifth-edition": [
+   48021,
+   "Aurora Floyd, Vol. 2 Fifth Edition"
+  ],
+  "braddon-aurora-floyd-vol-3-fifth-edition": [
+   48022,
+   "Aurora Floyd, Vol. 3 Fifth Edition"
+  ],
+  "braddon-wyllards-weird": [
+   50037,
+   "Wyllard's Weird: A Novel"
+  ],
+  "braddon-infidel": [
+   50676,
+   "The Infidel: A Story of the Great Revival",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-beyond-these-voices": [
+   54247,
+   "Beyond These Voices"
+  ],
+  "braddon-a-strange-world": [
+   57086,
+   "A Strange World: A Novel. Volume 1 (of 3)"
+  ],
+  "braddon-a-strange-world-57087": [
+   57087,
+   "A Strange World: A Novel. Volume 3 (of 3)"
+  ],
+  "braddon-all-along-the-river": [
+   57405,
+   "All along the River: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-a-strange-world-58929": [
+   58929,
+   "A Strange World: A Novel. Volume 2 (of 3)"
+  ],
+  "braddon-an-open-verdict": [
+   67237,
+   "An open verdict"
+  ],
+  "braddon-day-will-come": [
+   70938,
+   "The day will come"
+  ],
+  "braddon-his-darling-sin": [
+   71631,
+   "His darling sin"
+  ],
+  "braddon-cloven-foot": [
+   73931,
+   "The cloven foot",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-venetians": [
+   74385,
+   "The Venetians",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-octoroon": [
+   74484,
+   "The Octoroon"
+  ],
+  "braddon-eleanors-victory": [
+   75125,
+   "Eleanor's victory"
+  ],
+  "braddon-sons-of-fire-vol-i": [
+   75173,
+   "Sons of fire, Vol. I."
+  ],
+  "braddon-sons-of-fire-vol-ii": [
+   75174,
+   "Sons of fire, Vol. II."
+  ],
+  "braddon-sons-of-fire-vol-iii": [
+   75175,
+   "Sons of fire, Vol. III."
+  ],
+  "braddon-fatal-three-vol-i": [
+   75410,
+   "The fatal three, vol. I"
+  ],
+  "braddon-fatal-three-vol-ii": [
+   75411,
+   "The fatal three, vol. II"
+  ],
+  "braddon-fatal-three-vol-iii": [
+   75412,
+   "The fatal three, vol. III"
+  ],
+  "braddon-asphodel": [
+   75506,
+   "Asphodel",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-trail-of-the-serpent": [
+   75840,
+   "The trail of the serpent"
+  ],
+  "braddon-lucius-davoren": [
+   75875,
+   "Lucius Davoren; or, Publicans and sinners, vol. 1"
+  ],
+  "braddon-lucius-davoren-75876": [
+   75876,
+   "Lucius Davoren; or, Publicans and sinners, vol. 2"
+  ],
+  "braddon-lucius-davoren-75877": [
+   75877,
+   "Lucius Davoren; or, Publicans and sinners, vol. 3"
+  ],
+  "braddon-ladys-mile": [
+   76502,
+   "The lady's mile"
+  ],
+  "braddon-dead-sea-fruit-vol-1-of-3": [
+   76885,
+   "Dead-sea fruit, Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-dead-sea-fruit-vol-2-of-3": [
+   76886,
+   "Dead-sea fruit, Vol. 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-dead-sea-fruit-vol-3-of-3": [
+   76887,
+   "Dead-sea fruit, Vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-only-a-clod": [
+   76927,
+   "Only a clod",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-rupert-godwin": [
+   77631,
+   "Rupert Godwin",
+   {
+    "contents_only": true
+   }
+  ],
+  "braddon-joshua-haggards-daughter-vol-1-of-3": [
+   78548,
+   "Joshua Haggard's daughter, Vol. 1 (of 3)"
+  ],
+  "braddon-joshua-haggards-daughter-vol-2-of-3": [
+   78549,
+   "Joshua Haggard's daughter, Vol. 2 (of 3)"
+  ],
+  "braddon-joshua-haggards-daughter-vol-3-of-3": [
+   78550,
+   "Joshua Haggard's daughter, Vol. 3 (of 3)"
+  ],
+  "braddon-dead-mens-shoes-vol-1-of-3": [
+   78772,
+   "Dead men's shoes, vol. 1 (of 3)"
+  ],
+  "braddon-dead-mens-shoes-vol-2-of-3": [
+   78773,
+   "Dead men's shoes, vol. 2 (of 3)"
+  ],
+  "braddon-dead-mens-shoes-vol-3-of-3": [
+   78774,
+   "Dead men's shoes, vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 68040, 72236: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "braddon-lady-audleys-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-golden-calf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-run-to-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-henry-dunbar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-charlottes-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-birds-of-prey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-london-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-lovels-of-arden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-phantom-fortune-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-fentons-quest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-milly-darrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-vixen-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-vixen-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-vixen-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-john-marchmonts-legacy-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-john-marchmonts-legacy-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-john-marchmonts-legacy-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-john-marchmonts-legacy-volumes-1-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-doctors-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mount-royal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mount-royal-41340": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mount-royal-41341": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mohawks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mohawks-41375": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-mohawks-41376": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-aurora-floyd-vol-1-fifth-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-aurora-floyd-vol-2-fifth-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-aurora-floyd-vol-3-fifth-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-wyllards-weird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-infidel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-beyond-these-voices": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-a-strange-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-a-strange-world-57087": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-all-along-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-a-strange-world-58929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-an-open-verdict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-day-will-come": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-his-darling-sin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-cloven-foot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-venetians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-octoroon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-eleanors-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-sons-of-fire-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-sons-of-fire-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-sons-of-fire-vol-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-fatal-three-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-fatal-three-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-fatal-three-vol-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-asphodel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-trail-of-the-serpent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-lucius-davoren": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-lucius-davoren-75876": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-lucius-davoren-75877": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-ladys-mile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-sea-fruit-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-sea-fruit-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-sea-fruit-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-only-a-clod": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-rupert-godwin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-joshua-haggards-daughter-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-joshua-haggards-daughter-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-joshua-haggards-daughter-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-mens-shoes-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-mens-shoes-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "braddon-dead-mens-shoes-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. e. braddon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -29613,6 +29613,79 @@ Shelf: `pipeline/bret-harte_shelf.json` (2026-10-17; added at the coordinator's 
 | repeat-editions | excluded | PG 17168: second Gutenberg editions of titles already on the shelf. |
 | pg-1312 | excluded | PG 1312 Selected Stories: a selection of stories already on the shelf in their own books. |
 
+## M. E. Braddon
+
+Shelf: `pipeline/braddon_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (65 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lady Audley's Secret | have | PG 8954, `braddon-lady-audleys-secret` (3237 units) |
+| The Golden Calf | have | PG 9052, `braddon-golden-calf` (3361 units) |
+| Run to Earth: A Novel | have | PG 9102, `braddon-run-to-earth` (4524 units) |
+| Henry Dunbar: A Novel | have | PG 9189, `braddon-henry-dunbar` (3418 units) |
+| Charlotte's Inheritance | have | PG 9259, `braddon-charlottes-inheritance` (2607 units) |
+| Birds of Prey | have | PG 9362, `braddon-birds-of-prey` (2493 units) |
+| London Pride, Or, When the World Was Younger | have | PG 9377, `braddon-london-pride` (2505 units) |
+| The Lovels of Arden | have | PG 9475, `braddon-lovels-of-arden` (3288 units) |
+| Phantom Fortune, a Novel | have | PG 10905, `braddon-phantom-fortune-a-novel` (3380 units) |
+| Fenton's Quest | have | PG 11720, `braddon-fentons-quest` (3032 units) |
+| Milly Darrell | have | PG 17801, `braddon-milly-darrell` (804 units) |
+| Vixen, Volume I. | have | PG 26236, `braddon-vixen-volume-i` (1525 units) |
+| Vixen, Volume II. | have | PG 26237, `braddon-vixen-volume-ii` (1297 units) |
+| Vixen, Volume III. | have | PG 26238, `braddon-vixen-volume-iii` (1194 units) |
+| John Marchmont's Legacy, Volume 1 (of 3) | have | PG 34539, `braddon-john-marchmonts-legacy-volume-1-of-3` (952 units) |
+| John Marchmont's Legacy, Volume 2 (of 3) | have | PG 34540, `braddon-john-marchmonts-legacy-volume-2-of-3` (1189 units) |
+| John Marchmont's Legacy, Volume 3 (of 3) | have | PG 34541, `braddon-john-marchmonts-legacy-volume-3-of-3` (952 units) |
+| John Marchmont's Legacy, Volumes 1-3 | have | PG 34542, `braddon-john-marchmonts-legacy-volumes-1-3` (3097 units) |
+| The Doctor's Wife: A Novel | have | PG 35485, `braddon-doctors-wife` (1801 units) |
+| Mount Royal: A Novel. Volume 1 of 3 | have | PG 41339, `braddon-mount-royal` (978 units) |
+| Mount Royal: A Novel. Volume 2 of 3 | have | PG 41340, `braddon-mount-royal-41340` (973 units) |
+| Mount Royal: A Novel. Volume 3 of 3 | have | PG 41341, `braddon-mount-royal-41341` (1186 units) |
+| Mohawks: A Novel. Volume 1 of 3 | have | PG 41374, `braddon-mohawks` (1012 units) |
+| Mohawks: A Novel. Volume 2 of 3 | have | PG 41375, `braddon-mohawks-41375` (1048 units) |
+| Mohawks: A Novel. Volume 3 of 3 | have | PG 41376, `braddon-mohawks-41376` (1130 units) |
+| Aurora Floyd, Vol. 1 Fifth Edition | have | PG 48020, `braddon-aurora-floyd-vol-1-fifth-edition` (760 units) |
+| Aurora Floyd, Vol. 2 Fifth Edition | have | PG 48021, `braddon-aurora-floyd-vol-2-fifth-edition` (1182 units) |
+| Aurora Floyd, Vol. 3 Fifth Edition | have | PG 48022, `braddon-aurora-floyd-vol-3-fifth-edition` (1062 units) |
+| Wyllard's Weird: A Novel | have | PG 50037, `braddon-wyllards-weird` (3242 units) |
+| The Infidel: A Story of the Great Revival | have | PG 50676, `braddon-infidel` (2437 units) |
+| Beyond These Voices | have | PG 54247, `braddon-beyond-these-voices` (2327 units) |
+| A Strange World: A Novel. Volume 1 (of 3) | have | PG 57086, `braddon-a-strange-world` (1205 units) |
+| A Strange World: A Novel. Volume 3 (of 3) | have | PG 57087, `braddon-a-strange-world-57087` (1218 units) |
+| All along the River: A Novel | have | PG 57405, `braddon-all-along-the-river` (2066 units) |
+| A Strange World: A Novel. Volume 2 (of 3) | have | PG 58929, `braddon-a-strange-world-58929` (1099 units) |
+| An open verdict | have | PG 67237, `braddon-an-open-verdict` (1241 units) |
+| The day will come | have | PG 70938, `braddon-day-will-come` (3308 units) |
+| His darling sin | have | PG 71631, `braddon-his-darling-sin` (1478 units) |
+| The cloven foot | have | PG 73931, `braddon-cloven-foot` (3645 units) |
+| The Venetians | have | PG 74385, `braddon-venetians` (3259 units) |
+| The Octoroon | have | PG 74484, `braddon-octoroon` (2660 units) |
+| Eleanor's victory | have | PG 75125, `braddon-eleanors-victory` (3598 units) |
+| Sons of fire, Vol. I. | have | PG 75173, `braddon-sons-of-fire-vol-i` (1017 units) |
+| Sons of fire, Vol. II. | have | PG 75174, `braddon-sons-of-fire-vol-ii` (983 units) |
+| Sons of fire, Vol. III. | have | PG 75175, `braddon-sons-of-fire-vol-iii` (891 units) |
+| The fatal three, vol. I | have | PG 75410, `braddon-fatal-three-vol-i` (1152 units) |
+| The fatal three, vol. II | have | PG 75411, `braddon-fatal-three-vol-ii` (1011 units) |
+| The fatal three, vol. III | have | PG 75412, `braddon-fatal-three-vol-iii` (933 units) |
+| Asphodel | have | PG 75506, `braddon-asphodel` (3730 units) |
+| The trail of the serpent | have | PG 75840, `braddon-trail-of-the-serpent` (2607 units) |
+| Lucius Davoren; or, Publicans and sinners, vol. 1 | have | PG 75875, `braddon-lucius-davoren` (1149 units) |
+| Lucius Davoren; or, Publicans and sinners, vol. 2 | have | PG 75876, `braddon-lucius-davoren-75876` (1403 units) |
+| Lucius Davoren; or, Publicans and sinners, vol. 3 | have | PG 75877, `braddon-lucius-davoren-75877` (1400 units) |
+| The lady's mile | have | PG 76502, `braddon-ladys-mile` (2203 units) |
+| Dead-sea fruit, Vol. 1 (of 3) | have | PG 76885, `braddon-dead-sea-fruit-vol-1-of-3` (734 units) |
+| Dead-sea fruit, Vol. 2 (of 3) | have | PG 76886, `braddon-dead-sea-fruit-vol-2-of-3` (950 units) |
+| Dead-sea fruit, Vol. 3 (of 3) | have | PG 76887, `braddon-dead-sea-fruit-vol-3-of-3` (1187 units) |
+| Only a clod | have | PG 76927, `braddon-only-a-clod` (2079 units) |
+| Rupert Godwin | have | PG 77631, `braddon-rupert-godwin` (3583 units) |
+| Joshua Haggard's daughter, Vol. 1 (of 3) | have | PG 78548, `braddon-joshua-haggards-daughter-vol-1-of-3` (1193 units) |
+| Joshua Haggard's daughter, Vol. 2 (of 3) | have | PG 78549, `braddon-joshua-haggards-daughter-vol-2-of-3` (1056 units) |
+| Joshua Haggard's daughter, Vol. 3 (of 3) | have | PG 78550, `braddon-joshua-haggards-daughter-vol-3-of-3` (1080 units) |
+| Dead men's shoes, vol. 1 (of 3) | have | PG 78772, `braddon-dead-mens-shoes-vol-1-of-3` (1092 units) |
+| Dead men's shoes, vol. 2 (of 3) | have | PG 78773, `braddon-dead-mens-shoes-vol-2-of-3` (1509 units) |
+| Dead men's shoes, vol. 3 (of 3) | have | PG 78774, `braddon-dead-mens-shoes-vol-3-of-3` (1589 units) |
+| repeat-editions | excluded | PG 68040, 72236: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
