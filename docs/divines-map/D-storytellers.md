@@ -11503,6 +11503,36 @@ Shelf: `pipeline/hamlin-garland_shelf.json` (2026-10-17; added at the coordinato
 | A Pioneer Mother | have | PG 48442, `hgarland-a-pioneer-mother` (44 units) |
 | The book of the American Indian | have | PG 75161, `hgarland-book-of-the-american-indian` (1798 units) |
 
+## Stewart Edward White
+
+Shelf: `pipeline/stewart-edward-white_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mountains | have | PG 465, `sewhite-mountains` (672 units) |
+| The Riverman | have | PG 1099, `sewhite-riverman` (3001 units) |
+| The Land of Footprints | have | PG 1378, `sewhite-land-of-footprints` (1016 units) |
+| The Blazed Trail | have | PG 3413, `sewhite-blazed-trail` (2647 units) |
+| The Sign at Six | have | PG 8398, `sewhite-sign-at-six` (1263 units) |
+| The Gray Dawn | have | PG 9149, `sewhite-gray-dawn` (2909 units) |
+| The Forest | have | PG 9376, `sewhite-forest` (738 units) |
+| The Leopard Woman | have | PG 9401, `sewhite-leopard-woman` (2115 units) |
+| The Mystery (with Samuel Hopkins Adams) | have | PG 10008, `sewhite-mystery` (2073 units) |
+| The Claim Jumpers: A Romance | have | PG 10942, `sewhite-claim-jumpers` (1222 units) |
+| The Call of the North | have | PG 11426, `sewhite-call-of-the-north` (869 units) |
+| The Forty-Niners: A Chronicle of the California Trail and El Dorado | have | PG 12764, `sewhite-forty-niners` (458 units) |
+| The Rules of the Game | have | PG 13194, `sewhite-rules-of-the-game` (5128 units) |
+| African Camp Fires | have | PG 14451, `sewhite-african-camp-fires` (944 units) |
+| The silent places | have | PG 14960, `sewhite-silent-places` (1142 units) |
+| The Killer | have | PG 16589, `sewhite-killer` (1886 units) |
+| Conjuror's House: A Romance of the Free Forest | have | PG 18149, `sewhite-conjurors-house` (968 units) |
+| Blazed trail stories, and Stories of the wild life | have | PG 22233, `sewhite-blazed-trail-stories-and-stories-of-the-wild-life` (1233 units) |
+| The Adventures of Bobby Orde | have | PG 25506, `sewhite-adventures-of-bobby-orde` (1727 units) |
+| Gold | have | PG 30826, `sewhite-gold` (2568 units) |
+| Camp and Trail | have | PG 32950, `sewhite-camp-and-trail` (932 units) |
+| The Westerners | have | PG 34399, `sewhite-westerners` (1808 units) |
+| The River Boss | have | PG 66494, `sewhite-river-boss` (55 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

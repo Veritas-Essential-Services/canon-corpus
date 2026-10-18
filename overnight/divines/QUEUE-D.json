@@ -3461,6 +3461,14 @@
       "started": "2026-10-17T22:16:55-05:00",
       "finished": "2026-10-17T22:16:55-05:00",
       "notes": "hamlin-garland: new shelf, 24 Gutenberg books, 42,790 units, 1198 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "stewart-edward-white",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Stewart Edward White; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:16:56-05:00",
+      "finished": "2026-10-17T22:16:56-05:00",
+      "notes": "stewart-edward-white: new shelf, 23 Gutenberg books, 37,374 units, 2448 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
