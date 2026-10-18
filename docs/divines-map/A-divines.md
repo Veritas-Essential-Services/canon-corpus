@@ -7119,3 +7119,12 @@ Slugs `cremer-*`. The Biblico-Theological Lexicon and two other books in English
 | The 1878 second edition (Urwick), 1886-1887 third and 1895 fourth English editions with supplement | alternate | not shelved |
 | Other copies of Beyond the Grave (1886) and the Reply (1903) | alternate | not shelved |
 | The German Wörterbuch editions | excluded | |
+
+## Christian Friedrich Schmid (round 31, my pick, 2026-10-18)
+
+Slugs `cfschmid-*`. Biblical Theology of the New Testament (1870).
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Theology of the New Testament, tr. G. H. Venables (Edinburgh: T. & T. Clark, MDCCCLXX) | have-ocr | IA `biblicaltheology00schmuoft` |
+| Other 1870 copies; the 1877 second and 1882 third editions | alternate | not shelved |
