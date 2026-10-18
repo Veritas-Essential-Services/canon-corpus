@@ -6871,6 +6871,8 @@ Shelf: `pipeline/w-t-harris_shelf.json`. His philosophy readings, his education 
 | The Journal of Speculative Philosophy, Vol. I (1867) |  | `harris-journal-speculative-philosophy-v1` | have (PG 65097) |
 | Introduction to the Study of Philosophy, ed. Marietta Kies (Appleton, 1889; 1890 printing) |  | `harris-introduction-study-of-philosophy-1889` | have-raw (IA `introductiontoth00harruoft`) |
 | Psychologic Foundations of Education (Appleton, 1898) |  | `harris-psychologic-foundations-1898` | have-raw (IA `psychologicfound00harr`) |
+| Hegel's Doctrine of Reflection, a paraphrase and commentary (Appleton, 1881) |  | `harris-hegels-doctrine-of-reflection-1881` | have-raw (IA `hegelsdoctrineof00harruoft`) |
+| Hegel's Logic: A Book on the Genesis of the Categories of the Mind (Griggs, 1890) |  | `harris-hegels-logic-1890` | have-raw (IA `hegelslogic00harruoft`) |
 
 ## James Bissett Pratt (philosophy of religion)
 
