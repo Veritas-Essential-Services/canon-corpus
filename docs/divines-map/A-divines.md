@@ -6307,3 +6307,15 @@ Slugs `harnack-*`. Translations printed 1894-1925; History of Dogma is on anothe
 | History of Dogma: on the neil-buchanan shelf (PG 19612-19613) | excluded | |
 | CCEL harnack/mission (1972 reprint) and harnack/creed (Wipf and Stock reprint) | excluded | |
 | Horn on Harnack; Sanday's Examination (on william-sanday) | excluded | |
+
+## Albrecht Ritschl (round 29, my pick, 2026-10-18)
+
+Slugs `ritschl-*`. The Justification and Reconciliation volumes in English.
+
+| Work | Status | Where |
+|---|---|---|
+| A Critical History of the Christian Doctrine of Justification and Reconciliation, tr. John S. Black (Edinburgh: Edmonston and Douglas, 1872) | have-ocr | IA `a606522000ritsuoft` |
+| The Christian Doctrine of Justification and Reconciliation: the Positive Development of the Doctrine, English translation ed. H. R. Mackintosh and A. B. Macaulay (Edinburgh: T. & T. Clark, 1900) | have-ocr | IA `cu31924029308058` |
+| Black's translation (another copy) and the 1902 second edition | alternate | not shelved |
+| Instruction in the Christian Religion, tr. Alice Mead Swing, inside A. T. Swing's The Theology of Albrecht Ritschl (Longmans, 1901): half the book is Swing's study of him, so not shelved without Adam's yes | alternate | not shelved |
+| doctrineofjusti00ritsuoft: a 1966 reprint | excluded | |

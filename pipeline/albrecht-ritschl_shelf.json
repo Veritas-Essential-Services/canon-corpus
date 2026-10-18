@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain Albrecht Ritschl (1822-1889, Göttingen theologian) in English for the Word Hoard: the two English volumes of The Christian Doctrine of Justification and Reconciliation, the Critical History tr. John S. Black (Edinburgh, 1872) and The Positive Development of the Doctrine ed. H. R. Mackintosh and A. B. Macaulay (Edinburgh: T. & T. Clark, 1900), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ritschl"
+ ],
+ "_surname": [
+  "ritschl",
+  "albrecht ritschl"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ritschl-justification-critical-history": [
+   "a606522000ritsuoft",
+   "A Critical History of the Christian Doctrine of Justification and Reconciliation, tr. John S. Black (Edinburgh: Edmonston and Douglas, 1872)"
+  ],
+  "ritschl-justification-positive": [
+   "cu31924029308058",
+   "The Christian Doctrine of Justification and Reconciliation: the Positive Development of the Doctrine, English translation ed. H. R. Mackintosh and A. B. Macaulay (Edinburgh: T. & T. Clark, 1900)"
+  ]
+ },
+ "_alternates": {
+  "ritschl-copies": "Black's translation (another copy) and the 1902 second edition",
+  "ritschl-instruction": "Instruction in the Christian Religion, tr. Alice Mead Swing, inside A. T. Swing's The Theology of Albrecht Ritschl (Longmans, 1901): half the book is Swing's study of him, so not shelved without Adam's yes"
+ },
+ "_excluded": {
+  "ritschl-1966": "doctrineofjusti00ritsuoft: a 1966 reprint"
+ },
+ "_rights_checked": {
+  "ritschl-justification-positive": "title page read: 'English translation edited by H. R. Mackintosh and A. B. Macaulay'; no single translator named"
+ },
+ "_pending": {
+  "ritschl-vol2": "The biblical volume (vol. II): never translated before 1930 as far as found"
+ },
+ "_translators": {
+  "ritschl-justification-critical-history": "black"
+ },
+ "_checks": {
+  "ritschl-justification-critical-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ritschl",
+   "translator_claimed": "black",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ritschl-justification-positive": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ritschl",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'English translation edited by H. R. Mackintosh and A. B. Macaulay'; no single translator named"
+  }
+ }
+}
