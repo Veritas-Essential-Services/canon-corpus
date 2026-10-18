@@ -6926,6 +6926,27 @@ Slugs `lange-*`. The Life of the Lord Jesus Christ and the commentary volumes he
 | Romans (with Fay), James (with van Oosterzee) and Gardiner's Leviticus: joint works | excluded | |
 | Schaff volumes by van Oosterzee, Lechler, Zöckler and others | excluded | |
 | Democritus ridens, by another J. P. Lange | excluded | |
+
+## Karl Rudolf Hagenbach (round 30, my pick, 2026-10-18)
+
+Slugs `hagenbach-*`. History of Doctrines, the Reformation, German Rationalism and church history in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Compendium of the History of Doctrines, vol. I (Edinburgh: T. & T. Clark, MDCCCXLVI) | have-ocr | IA `compendiumofhist01hage` |
+| Compendium of the History of Doctrines, vol. II, tr. Carl W. Buch (Edinburgh: T. & T. Clark, MDCCCXLVII) | have-ocr | IA `compendiumofhist02hage` |
+| A History of Christian Doctrines, vol. I, introduction by E. H. Plumptre (Edinburgh: T. & T. Clark; title page undated, catalogued 1880) | have-ocr | IA `india.history.resource.110410` |
+| A History of Christian Doctrines, vol. II (Edinburgh: T. & T. Clark; title page undated, catalogued 1880) | have-ocr | IA `india.history.resource.78853` |
+| A History of Christian Doctrines, vol. III (Edinburgh: T. & T. Clark; title page undated, catalogued 1881) | have-ocr | IA `india.history.resource.78854` |
+| History of the Reformation in Germany and Switzerland chiefly, vol. I, tr. Evelina Moore (Edinburgh: T. & T. Clark; title page undated, catalogued 1878) | have-ocr | IA `india.history.resource.85129` |
+| History of the Reformation in Germany and Switzerland chiefly, vol. II, tr. Evelina Moore (Edinburgh: T. & T. Clark; title page undated, catalogued 1879) | have-ocr | IA `india.history.resource.85130` |
+| German Rationalism, in its Rise, Progress, and Decline, ed. and tr. William Leonhard Gage and J. H. W. Stuckenberg (Edinburgh: T. & T. Clark, MDCCCLXV) | have-ocr | IA `germanrationalis00hage` |
+| History of the Church in the Eighteenth and Nineteenth Centuries, vol. I, tr. John F. Hurst (New York: Charles Scribner; title page undated, entered 1869) | have-ocr | IA `historyofchurchi11hage` |
+| History of the Church in the Eighteenth and Nineteenth Centuries, vol. II, tr. John F. Hurst (New York: Charles Scribner; title page undated, copyright 1869) | have-ocr | IA `historyofchurchi21hage` |
+| H. B. Smith's revision of Buch, Text-Book of the History of Doctrines (New York: Sheldon, entered 1861-1862): textbookofhistor01hage, 02hage | alternate | not shelved |
+| The 1850 second edition of the Compendium; later Plumptre and Reformation issues; the American German Rationalism | alternate | not shelved |
+| Crooks and Hurst's Theological Encyclopaedia 'on the basis of Hagenbach': a work by other hands | excluded | |
+| Church Music and Song: one article in a periodical | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
