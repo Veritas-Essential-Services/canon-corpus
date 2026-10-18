@@ -6517,6 +6517,8 @@ Shelf: `pipeline/moisei-ostrogorski_shelf.json`. The first comparative study of 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Democracy and the Organization of Political Parties, vol. I (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v1` | have-raw (IA `democracyorganiz01ostruoft`) |
+| Democracy and the Organization of Political Parties, vol. II (Macmillan, 1902) | Frederick Clarke | `ostrogorski-democracy-political-parties-1902-v2` | have-raw (IA `democracyorganiz02ostruoft`) |
 
 ## Shadworth H. Hodgson (metaphysics of experience)
 
