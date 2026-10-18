@@ -3725,6 +3725,14 @@
       "started": "2026-10-17T23:48:09-05:00",
       "finished": "2026-10-17T23:48:09-05:00",
       "notes": "henry-seton-merriman: new shelf, 17 Gutenberg books, 33,066 units, 198 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-washington-cable",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George W. Cable; no minting",
+      "status": "done",
+      "started": "2026-10-17T23:48:10-05:00",
+      "finished": "2026-10-17T23:48:10-05:00",
+      "notes": "george-washington-cable: new shelf, 14 Gutenberg books, 26,184 units, 220 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

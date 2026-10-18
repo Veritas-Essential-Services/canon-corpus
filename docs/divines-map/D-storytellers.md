@@ -12674,6 +12674,27 @@ Shelf: `pipeline/henry-seton-merriman_shelf.json` (2026-10-17; added at the coor
 | pg-58524 | excluded | PG 58524: Gutenberg's index of the author's works, not a book. |
 | repeat-editions | excluded | PG 8942: second Gutenberg editions of titles already on the shelf. |
 
+## George W. Cable
+
+Shelf: `pipeline/george-washington-cable_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Strong Hearts | have | PG 9838, `gwcable-strong-hearts` (728 units) |
+| The Cavalier | have | PG 9839, `gwcable-cavalier` (1577 units) |
+| Old Creole Days: A Story of Creole Life | have | PG 10234, `gwcable-old-creole-days` (2050 units) |
+| Kincaid's Battery | have | PG 11719, `gwcable-kincaids-battery` (2326 units) |
+| The Grandissimes | have | PG 12280, `gwcable-grandissimes` (3075 units) |
+| Strange True Stories of Louisiana | have | PG 12577, `gwcable-strange-true-stories-of-louisiana` (1329 units) |
+| Bylow Hill | have | PG 14575, `gwcable-bylow-hill` (707 units) |
+| The Flower of the Chapdelaines | have | PG 15881, `gwcable-flower-of-the-chapdelaines` (1633 units) |
+| Gideon's Band: A Tale of the Mississippi | have | PG 19348, `gwcable-gideons-band` (3180 units) |
+| The Amateur Garden | have | PG 19408, `gwcable-amateur-garden` (422 units) |
+| Madame Delphine | have | PG 19703, `gwcable-madame-delphine` (602 units) |
+| Bonaventure: A Prose Pastoral of Acadian Louisiana | have | PG 24078, `gwcable-bonaventure` (1373 units) |
+| Dr. Sevier | have | PG 29439, `gwcable-dr-sevier` (3758 units) |
+| John March, Southerner | have | PG 31470, `gwcable-john-march-southerner` (3424 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
