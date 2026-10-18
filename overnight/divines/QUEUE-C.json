@@ -3664,6 +3664,22 @@
       "finished": "2026-10-17T20:35-05:00",
       "scope": "GAP-FILL (round 92, lane C) -- bowring; PD printings before 1931 only; no minting",
       "notes": "+1 title, now 8; ids checked across all branches. See DIGEST-C round 92. No uids minted."
+    },
+    {
+      "id": "shelf-hispanic-classics",
+      "status": "done",
+      "started": "2026-10-17T20:41-05:00",
+      "finished": "2026-10-17T20:41-05:00",
+      "scope": "TRANSLATOR SHELF (round 93, lane C's choice; Adam may veto) -- hispanic-classics; PD printings before 1931 only; no minting",
+      "notes": "10 titles; ids checked across all branches. See DIGEST-C round 93. No uids minted."
+    },
+    {
+      "id": "shelf-serrano-round93",
+      "status": "done",
+      "started": "2026-10-17T20:41-05:00",
+      "finished": "2026-10-17T20:41-05:00",
+      "scope": "GAP-FILL (round 93, lane C) -- serrano; PD printings before 1931 only; no minting",
+      "notes": "+3 titles, now 9; ids checked across all branches. See DIGEST-C round 93. No uids minted."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mary J. Serrano (d. 1923): Galdós's Doña Perfecta (Harper, 1895), Zola's Doctor Pascal (1893), Pardo Bazán (Cassell, 1891) and Eça de Queirós's Dragon's Teeth (1889). US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary J. Serrano (d. 1923): Galdós's Doña Perfecta (Harper, 1895), Zola's Doctor Pascal (1893), Pardo Bazán (Cassell, 1891) and Eça de Queirós's Dragon's Teeth (1889). US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted. Round 93 gap-fill: Valera's Doña Luz (1891) and Commander Mendoza (1893), and Mármol's Amalia (1919).",
  "_name_words": [
   "mary j. serrano",
   "mary j serrano",
@@ -38,7 +38,20 @@
    "Dragon's teeth"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ser-dona-luz": [
+   "donaluzvalera00valeiala",
+   "Doña Luz (1891)"
+  ],
+  "ser-commander-mendoza": [
+   "cu31924096960970",
+   "Commander Mendoza (1893)"
+  ],
+  "ser-amalia": [
+   "amaliaromanceofa00mr",
+   "Amalia: a Romance of the Argentine (1919)"
+  ]
+ },
  "titles": {
   "serrano-bazan-a-wedding-trip": {
    "source": "ser-54577",
@@ -87,6 +100,30 @@
    "translated": "1889-1895 (see the Gutenberg header)",
    "translator": "Mary J. Serrano",
    "scan_edition": "Project Gutenberg 10720 (clean text)"
+  },
+  "serrano-dona-luz": {
+   "source": "ser-dona-luz",
+   "of": "Juan Valera",
+   "work": "Doña Luz",
+   "translated": 1891,
+   "translator": "Mary J. Serrano",
+   "scan_edition": "D. Appleton, New York 1891; archive.org scan"
+  },
+  "serrano-commander-mendoza": {
+   "source": "ser-commander-mendoza",
+   "of": "Juan Valera",
+   "work": "Commander Mendoza",
+   "translated": 1893,
+   "translator": "Mary J. Serrano",
+   "scan_edition": "D. Appleton, New York 1893; Cornell University scan"
+  },
+  "serrano-amalia": {
+   "source": "ser-amalia",
+   "of": "José Mármol",
+   "work": "Amalia: a Romance of the Argentine",
+   "translated": 1919,
+   "translator": "Mary J. Serrano",
+   "scan_edition": "E. P. Dutton, New York 1919; archive.org scan"
   }
  },
  "_pending": {},
@@ -95,7 +132,7 @@
  "_checks": {
   "ser-10720": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
@@ -104,7 +141,7 @@
   },
   "ser-2462": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
@@ -113,7 +150,7 @@
   },
   "ser-54105": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
@@ -122,7 +159,7 @@
   },
   "ser-54577": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
@@ -131,7 +168,7 @@
   },
   "ser-54742": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
@@ -140,12 +177,45 @@
   },
   "ser-74442": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mary j. serrano",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mary J. Serrano"
+  },
+  "ser-dona-luz": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ser-commander-mendoza": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "serrano",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ser-amalia": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "c1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -178,6 +248,41 @@
    "pg": 74442,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mary J. Serrano"
+  },
+  "ser-dona-luz": {
+   "ia": "donaluzvalera00valeiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886,
+    1891
+   ],
+   "post_1930_years_in_front_15k": [
+    1972
+   ],
+   "post_1930_examined": "Examined in round 93: '1886-1972' is the life dates on a library gift bookplate (Henry Goldman), not an imprint; the title page reads New York, D. Appleton, 1891."
+  },
+  "ser-commander-mendoza": {
+   "ia": "cu31924096960970",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1774,
+    1893,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ser-amalia": {
+   "ia": "amaliaromanceofa00mr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845,
+    1849,
+    1851,
+    1852,
+    1877,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

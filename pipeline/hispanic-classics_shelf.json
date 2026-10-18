@@ -1,0 +1,434 @@
+{
+ "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted.",
+ "_name_words": [
+  "garrett underhill",
+  "granville-barker",
+  "helen and harley granville-barker",
+  "isabel burton",
+  "john garrett underhill",
+  "mary mann",
+  "mrs. horace mann",
+  "rollo ogden",
+  "salomon de la selva",
+  "salomón de la selva",
+  "thomas walsh"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
+ "_surname": [
+  "garrett underhill",
+  "granville-barker",
+  "helen and harley granville-barker",
+  "isabel burton",
+  "john garrett underhill",
+  "mary mann",
+  "mrs. horace mann",
+  "rollo ogden",
+  "salomon de la selva",
+  "salomón de la selva",
+  "thomas walsh"
+ ],
+ "_surname_by_slug": {
+  "hsp-benavente-plays-1": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-2": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-3": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-4": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-martinez-sierra-plays-1": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-martinez-sierra-kingdom-of-god": [
+   "helen and harley granville-barker",
+   "granville-barker"
+  ],
+  "hsp-isaacs-maria": [
+   "rollo ogden"
+  ],
+  "hsp-sarmiento-facundo": [
+   "mrs. horace mann",
+   "mary mann"
+  ],
+  "hsp-alencar-iracema": [
+   "isabel burton"
+  ],
+  "hsp-dario-eleven-poems": [
+   "thomas walsh",
+   "salomon de la selva",
+   "salomón de la selva"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hsp-benavente-plays-1": [
+   "ser1playstranslat00benauoft",
+   "Plays by Jacinto Benavente, First Series (1917)"
+  ],
+  "hsp-benavente-plays-2": [
+   "playstranslatedf02benauoft",
+   "Plays by Jacinto Benavente, Second Series (1923 printing)"
+  ],
+  "hsp-benavente-plays-3": [
+   "playstranslatedf03benauoft",
+   "Plays by Jacinto Benavente, Third Series (1923)"
+  ],
+  "hsp-benavente-plays-4": [
+   "playstranslatedf04benauoft",
+   "Plays by Jacinto Benavente, Fourth Series (1924)"
+  ],
+  "hsp-martinez-sierra-plays-1": [
+   "playsgmartnezsi00grangoog",
+   "Plays of G. Martínez Sierra, Volume I: The Cradle Song (1922)"
+  ],
+  "hsp-martinez-sierra-kingdom-of-god": [
+   "kingdomofgodothe0000gmar",
+   "The Kingdom of God and Other Plays (1929 printing)"
+  ],
+  "hsp-isaacs-maria": [
+   "mariasouthameric00isaa",
+   "Maria: a South American Romance (1890)"
+  ],
+  "hsp-sarmiento-facundo": [
+   "lifeinargentiner00sarmrich",
+   "Life in the Argentine Republic in the Days of the Tyrants (1868)"
+  ],
+  "hsp-alencar-iracema": [
+   "iracmahoneylip00alenuoft",
+   "Iraçéma, the Honey-Lips: a Legend of Brazil (1886)"
+  ],
+  "hsp-dario-eleven-poems": [
+   "elevenpoems00daruoft",
+   "Eleven Poems of Rubén Darío (1916)"
+  ]
+ },
+ "titles": {
+  "hispanic-classics-benavente-plays-1": {
+   "source": "hsp-benavente-plays-1",
+   "of": "Jacinto Benavente",
+   "work": "Plays, First Series",
+   "translated": 1917,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, published May 1917; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-2": {
+   "source": "hsp-benavente-plays-2",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Second Series",
+   "translated": 1919,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, 1923 printing of the 1919 series; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-3": {
+   "source": "hsp-benavente-plays-3",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Third Series",
+   "translated": 1923,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, published March 1923; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-4": {
+   "source": "hsp-benavente-plays-4",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Fourth Series",
+   "translated": 1924,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York 1924; University of Toronto scan"
+  },
+  "hispanic-classics-martinez-sierra-plays-1": {
+   "source": "hsp-martinez-sierra-plays-1",
+   "of": "Gregorio Martínez Sierra",
+   "work": "Plays of G. Martínez Sierra, Volume I: The Cradle Song, The Lover, Love Magic, Poor John, Madame Pepita",
+   "translated": 1922,
+   "translator": "John Garrett Underhill and Harley Granville-Barker",
+   "scan_edition": "E. P. Dutton, New York 1922; Google scan",
+   "note": "In English versions by Underhill and Granville-Barker, per the title page."
+  },
+  "hispanic-classics-martinez-sierra-kingdom-of-god": {
+   "source": "hsp-martinez-sierra-kingdom-of-god",
+   "of": "Gregorio Martínez Sierra",
+   "work": "The Kingdom of God and Other Plays (Plays of G. Martínez Sierra, Volume II)",
+   "translated": 1922,
+   "translator": "Helen and Harley Granville-Barker",
+   "scan_edition": "E. P. Dutton, New York, third printing September 1929 (first printing November 1922); archive.org scan"
+  },
+  "hispanic-classics-isaacs-maria": {
+   "source": "hsp-isaacs-maria",
+   "of": "Jorge Isaacs",
+   "work": "Maria: a South American Romance",
+   "translated": 1890,
+   "translator": "Rollo Ogden",
+   "scan_edition": "Harper & Brothers, New York 1890; archive.org scan"
+  },
+  "hispanic-classics-sarmiento-facundo": {
+   "source": "hsp-sarmiento-facundo",
+   "of": "Domingo Faustino Sarmiento",
+   "work": "Life in the Argentine Republic in the Days of the Tyrants; or, Civilization and Barbarism (Facundo)",
+   "translated": 1868,
+   "translator": "Mrs. Horace Mann (Mary Tyler Peabody Mann)",
+   "scan_edition": "Hurd and Houghton, New York 1868; University of California scan"
+  },
+  "hispanic-classics-alencar-iracema": {
+   "source": "hsp-alencar-iracema",
+   "of": "José de Alencar",
+   "work": "Iraçéma, the Honey-Lips: a Legend of Brazil",
+   "translated": 1886,
+   "translator": "Isabel Burton",
+   "scan_edition": "Bickers & Son, London 1886; University of Toronto scan"
+  },
+  "hispanic-classics-dario-eleven-poems": {
+   "source": "hsp-dario-eleven-poems",
+   "of": "Rubén Darío",
+   "work": "Eleven Poems",
+   "translated": 1916,
+   "translator": "Thomas Walsh and Salomón de la Selva",
+   "scan_edition": "G. P. Putnam's Sons, New York 1916; University of Toronto scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "cradle-song-1931-printing": "The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead.",
+  "heinemann-pepita-jimenez-1891": "Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page.",
+  "dona-luz-1975": "donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano)."
+ },
+ "_checks": {
+  "hsp-benavente-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-martinez-sierra-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-martinez-sierra-kingdom-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "helen and harley granville-barker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-isaacs-maria": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rollo ogden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-sarmiento-facundo": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. horace mann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-alencar-iracema": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isabel burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-dario-eleven-poems": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas walsh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "hsp-benavente-plays-1": {
+   "ia": "ser1playstranslat00benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1896,
+    1898,
+    1905,
+    1911,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-2": {
+   "ia": "playstranslatedf02benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893,
+    1903,
+    1904,
+    1918,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-3": {
+   "ia": "playstranslatedf03benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-4": {
+   "ia": "playstranslatedf04benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1907,
+    1909,
+    1917,
+    1919,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-martinez-sierra-plays-1": {
+   "ia": "playsgmartnezsi00grangoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1915,
+    1917,
+    1919,
+    1921,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-martinez-sierra-kingdom-of-god": {
+   "ia": "kingdomofgodothe0000gmar",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-isaacs-maria": {
+   "ia": "mariasouthameric00isaa",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1537,
+    1600,
+    1867,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-sarmiento-facundo": {
+   "ia": "lifeinargentiner00sarmrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1850,
+    1868
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-alencar-iracema": {
+   "ia": "iracmahoneylip00alenuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603,
+    1608,
+    1611
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-dario-eleven-poems": {
+   "ia": "elevenpoems00daruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1867,
+    1892,
+    1893,
+    1914,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

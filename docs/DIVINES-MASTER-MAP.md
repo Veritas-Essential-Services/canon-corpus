@@ -15051,10 +15051,10 @@ Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_sh
 | — | — | pg-28755: A 6 KB Gutenberg stub for The Hollow Needle; the full text is 4017. | — | — | excluded | — |
 | — | — | ewald: Carl Ewald (31167, 31708, 35543, 62883, 62910, 62912, 65029): Ewald has his own shelf on another lane (ewald_shelf.json), which already holds five of these; the two it lacks (My Little Boy 35543, The Old Room 62883) are left for that shelf's owner. | — | — | excluded | — |
 
-## Mary J. Serrano (Galdós, Pardo Bazán, Zola, Eça de Queirós)
+## Mary J. Serrano (Galdós, Pardo Bazán, Zola, Eça de Queirós, Valera, Mármol)
 
 Shelf: `pipeline/serrano_shelf.json` · fetch `python3 pipeline/fetch_shelf.py serrano` · titles `python3 pipeline/split_shelf_titles.py serrano`.
-Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Valera and Mármol added in round 93. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15064,6 +15064,9 @@ Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `serrano-galdos-dona-perfecta` | Benito Pérez Galdós | Doña Perfecta | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 2462 |
 | `serrano-queiros-dragon-s-teeth` | Eça de Queirós | Dragon's teeth | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 74442 |
 | `serrano-zola-doctor-pascal` | Émile Zola | Doctor Pascal | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 10720 |
+| `serrano-dona-luz` | Juan Valera | Doña Luz | Mary J. Serrano | 1891 | have-raw | IA `donaluzvalera00valeiala` |
+| `serrano-commander-mendoza` | Juan Valera | Commander Mendoza | Mary J. Serrano | 1893 | have-raw | IA `cu31924096960970` |
+| `serrano-amalia` | José Mármol | Amalia: a Romance of the Argentine | Mary J. Serrano | 1919 | have-raw | IA `amaliaromanceofa00mr` |
 
 ## Mary Howitt (Fredrika Bremer)
 
@@ -20497,6 +20500,27 @@ Round 92 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
 | — | — | howells-goldoni-alfieri-1877: Howells's 1877 Little Classic editions of Goldoni's Memoirs and Alfieri's Life reprint older translations (Black's for Goldoni); the fuller sources are used instead. | — | — | excluded | — |
 | — | — | colburn-alfieri-memoirs-1810: Memoirs of the Life and Writings of Victor Alfieri (Colburn, 1810) does not name its translator. | — | — | excluded | — |
+
+## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
+
+Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
+Round 93 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hispanic-classics-benavente-plays-1` | Jacinto Benavente | Plays, First Series | John Garrett Underhill | 1917 | have-raw | IA `ser1playstranslat00benauoft` |
+| `hispanic-classics-benavente-plays-2` | Jacinto Benavente | Plays, Second Series | John Garrett Underhill | 1919 | have-raw | IA `playstranslatedf02benauoft` |
+| `hispanic-classics-benavente-plays-3` | Jacinto Benavente | Plays, Third Series | John Garrett Underhill | 1923 | have-raw | IA `playstranslatedf03benauoft` |
+| `hispanic-classics-benavente-plays-4` | Jacinto Benavente | Plays, Fourth Series | John Garrett Underhill | 1924 | have-raw | IA `playstranslatedf04benauoft` |
+| `hispanic-classics-martinez-sierra-plays-1` | Gregorio Martínez Sierra | Plays of G. Martínez Sierra, Volume I: The Cradle Song, The Lover, Love Magic, Poor John, Madame Pepita | John Garrett Underhill and Harley Granville-Barker | 1922 | have-raw | IA `playsgmartnezsi00grangoog` |
+| `hispanic-classics-martinez-sierra-kingdom-of-god` | Gregorio Martínez Sierra | The Kingdom of God and Other Plays (Plays of G. Martínez Sierra, Volume II) | Helen and Harley Granville-Barker | 1922 | have-raw | IA `kingdomofgodothe0000gmar` |
+| `hispanic-classics-isaacs-maria` | Jorge Isaacs | Maria: a South American Romance | Rollo Ogden | 1890 | have-raw | IA `mariasouthameric00isaa` |
+| `hispanic-classics-sarmiento-facundo` | Domingo Faustino Sarmiento | Life in the Argentine Republic in the Days of the Tyrants; or, Civilization and Barbarism (Facundo) | Mrs. Horace Mann (Mary Tyler Peabody Mann) | 1868 | have-raw | IA `lifeinargentiner00sarmrich` |
+| `hispanic-classics-alencar-iracema` | José de Alencar | Iraçéma, the Honey-Lips: a Legend of Brazil | Isabel Burton | 1886 | have-raw | IA `iracmahoneylip00alenuoft` |
+| `hispanic-classics-dario-eleven-poems` | Rubén Darío | Eleven Poems | Thomas Walsh and Salomón de la Selva | 1916 | have-raw | IA `elevenpoems00daruoft` |
+| — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
+| — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
+| — | — | dona-luz-1975: donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano). | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

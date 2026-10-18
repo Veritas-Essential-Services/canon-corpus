@@ -260,3 +260,5 @@
 
 - 2026-10-17T20:35-05:00: round 92: italian-classics (15). --verify --record 0 mismatched.
 - 2026-10-17T20:35-05:00: round 92 gap-fills: hoole (+1), aldington (+1), bowring (+1). --verify --record 0 mismatched. Identity overrides: itc-carducci-holland, hoole-metastasio-1/2.
+
+- 2026-10-17T20:41-05:00: round 93: hispanic-classics (10). --verify --record 0 mismatched. serrano gap-fill +3.
