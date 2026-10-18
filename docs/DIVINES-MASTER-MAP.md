@@ -7601,6 +7601,17 @@ Slugs `hudson-*`. Built from title pages read for round 32.
 |---|---|---|
 | China: its Spiritual Need and Claims, third edition (London: James Nisbet; W. Partridge, 1868) | have-ocr | IA `b29353518` |
 | China's Spiritual Need and Claims, seventh edition (London: Morgan & Scott, 1887) | have-ocr | IA `cu31924023067972` |
+
+## Oswald Chambers (round 32, my pick, 2026-10-18)
+
+Slugs `chambers-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Psychology: a Series of Preliminary Studies (Cincinnati: God's Revivalist Office; copyright 1914) | have-ocr | IA `biblicalpsycholo00cham` |
+| Studies in the Sermon on the Mount (Cincinnati: God's Revivalist Press; copyright 1915) | have-ocr | IA `studiesinsermon00cham` |
+| The London Partridge Biblical Psychology (1919 or later) | alternate | not shelved |
+| My Utmost for His Highest (a 1992 edition catalogued 1927) and every other scan, all 1937 or later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
