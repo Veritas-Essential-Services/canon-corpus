@@ -11496,10 +11496,10 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hapgood-tolstoy-childhood` | — | Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.) | — | — | pending | — |
 | — | — | pg-3630: What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541. | — | — | excluded | — |
 
-## James Legge (Chinese classics; the Shu King, Yi King, Li Ki and Kwang-ze from the Sacred Books of the East since round 64)
+## James Legge (Chinese classics: the complete Chinese Classics, first edition 1861-72, since round 75; the Shu King, Yi King, Li Ki and Kwang-ze from the Sacred Books of the East since round 64)
 
 Shelf: `pipeline/legge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py legge` · titles `python3 pipeline/split_shelf_titles.py legge`.
-Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Round 75 (2026-10-18), vetoable: the Chinese Classics, 8 volumes, added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -11512,6 +11512,14 @@ Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Not c
 | `legge-li-ki-2` | The Liji (Book of Rites) | The Li Ki, books XI-XLVI | James Legge | 1885 | have-raw | IA `in.ernet.dli.2015.188096` |
 | `legge-kwang-ze-1` | Zhuangzi | The Writings of Kwang-ze, books I-XVII, with Legge's brief notices of the books (from The Texts of Taoism, part I) | James Legge | 1891 | have-raw | IA `in.ernet.dli.2015.45262` (cut from the volume) |
 | `legge-kwang-ze-2` | Zhuangzi and the Taishang Ganying Pian, with appendixes | The Texts of Taoism, part II: Kwang-ze books XVIII-XXXIII, the Thai-Shang Tractate of Actions and their Retributions, and eight appendixes | James Legge | 1891 | have-raw | IA `in.ernet.dli.2015.45263` |
+| `legge-cc-1` | The Confucian Analects, the Great Learning and the Doctrine of the Mean, with prolegomena | The Chinese Classics, vol. I: Confucian Analects, the Great Learning, and the Doctrine of the Mean | James Legge | 1861 | have-raw | IA `chineseclassics01legg_0` |
+| `legge-cc-2` | The Mencius | The Chinese Classics, vol. II: the Works of Mencius | James Legge | 1861 | have-raw | IA `chineseclassics02legg_0` |
+| `legge-cc-3-1` | The Shujing (Book of Documents), part 1 | The Chinese Classics, vol. III, part I: the Shoo King | James Legge | 1865 | have-raw | IA `chineseclassics31legg` |
+| `legge-cc-3-2` | The Shujing (Book of Documents), part 2 | The Chinese Classics, vol. III, part II: the Shoo King | James Legge | 1865 | have-raw | IA `chineseclassics32legg` |
+| `legge-cc-4-1` | The Shijing (Book of Poetry), part 1 | The Chinese Classics, vol. IV, part I: the She King | James Legge | 1871 | have-raw | IA `chineseclassics41legg_0` |
+| `legge-cc-4-2` | The Shijing (Book of Poetry), part 2 | The Chinese Classics, vol. IV, part II: the She King | James Legge | 1871 | have-raw | IA `chineseclassics42legg_0` |
+| `legge-cc-5-1` | The Chunqiu (Spring and Autumn Annals) with the Zuo zhuan, part 1 | The Chinese Classics, vol. V, part I: the Ch'un Ts'ew, with the Tso Chuen | James Legge | 1872 | have-raw | IA `chineseclassics51legg` |
+| `legge-cc-5-2` | The Chunqiu (Spring and Autumn Annals) with the Zuo zhuan, part 2 | The Chinese Classics, vol. V, part II: the Ch'un Ts'ew, with the Tso Chuen | James Legge | 1872 | have-raw | IA `chineseclassics52legg` |
 | — | — | pg-3100-4094: Gutenberg 3100 and 4094 are the Chinese-language text of the Chinese Classics, not the translation. | — | — | excluded | — |
 
 ## H. A. and Lionel Giles (Chinese)

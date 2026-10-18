@@ -223,3 +223,5 @@
 - 2026-10-17T18:55-05:00: round 73: babylonian-assyrian (11). --verify --record 0 mismatched. bab-gilgamish-thompson rights override (undated record; title page 1928).
 
 - 2026-10-17T18:59-05:00: round 74: egyptian-texts (10). --verify --record 0 mismatched.
+
+- 2026-10-17T19:03-05:00: round 75: legge +8 (17). --verify --record 0 mismatched. Legge's Chinese Classics, first edition 1861-72.

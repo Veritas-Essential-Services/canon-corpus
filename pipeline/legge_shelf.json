@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: James Legge (1815-1897). The Chinese classics: the Tao Teh King (Sacred Books of the East 39, 1891), the Analects (Chinese Classics I, 1861/1893), and Faxian's Record of Buddhistic Kingdoms (1886); since round 64 also his other Sacred Books of the East volumes: the Shu King, Shih King and Hsiao King (SBE 3, 2nd ed. 1899), the Yi King (SBE 16, 1882), the Li Ki (SBE 27-28, 1885) and the Kwang-ze with the Thai-Shang Tractate (SBE 39-40, 1891), raw OCR of the Clarendon printings. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: James Legge (1815-1897). The Chinese classics: the Tao Teh King (Sacred Books of the East 39, 1891), the Analects (Chinese Classics I, 1861/1893), and Faxian's Record of Buddhistic Kingdoms (1886); since round 64 also his other Sacred Books of the East volumes: the Shu King, Shih King and Hsiao King (SBE 3, 2nd ed. 1899), the Yi King (SBE 16, 1882), the Li Ki (SBE 27-28, 1885) and the Kwang-ze with the Thai-Shang Tractate (SBE 39-40, 1891), raw OCR of the Clarendon printings. Since round 75 also the complete Chinese Classics in their first edition (Hongkong, 1861-72, 5 vols in 8): the Analects, Great Learning and Doctrine of the Mean, Mencius, the complete Shoo King and She King, and the Ch'un Ts'ew with the Tso Chuen. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "legge"
  ],
@@ -51,6 +51,38 @@
    "in.ernet.dli.2015.45263",
    "Sacred Books of the East vol. 40: The Texts of Taoism, part II (Clarendon Press, 1891)",
    "2015.45263.The-Sacred-Books-Of-The-East--Vol40_djvu.txt"
+  ],
+  "legge-cc-1": [
+   "chineseclassics01legg_0",
+   "The Chinese Classics, vol. I: Confucian Analects, the Great Learning, and the Doctrine of the Mean (1861)"
+  ],
+  "legge-cc-2": [
+   "chineseclassics02legg_0",
+   "The Chinese Classics, vol. II: the Works of Mencius (1861)"
+  ],
+  "legge-cc-3-1": [
+   "chineseclassics31legg",
+   "The Chinese Classics, vol. III, part I: the Shoo King (1865)"
+  ],
+  "legge-cc-3-2": [
+   "chineseclassics32legg",
+   "The Chinese Classics, vol. III, part II: the Shoo King (1865)"
+  ],
+  "legge-cc-4-1": [
+   "chineseclassics41legg_0",
+   "The Chinese Classics, vol. IV, part I: the She King (1871)"
+  ],
+  "legge-cc-4-2": [
+   "chineseclassics42legg_0",
+   "The Chinese Classics, vol. IV, part II: the She King (1871)"
+  ],
+  "legge-cc-5-1": [
+   "chineseclassics51legg",
+   "The Chinese Classics, vol. V, part I: the Ch'un Ts'ew, with the Tso Chuen (1872)"
+  ],
+  "legge-cc-5-2": [
+   "chineseclassics52legg",
+   "The Chinese Classics, vol. V, part II: the Ch'un Ts'ew, with the Tso Chuen (1872)"
   ]
  },
  "titles": {
@@ -131,6 +163,73 @@
    "translated": 1891,
    "translator": "James Legge",
    "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 40, 1891; Digital Library of India scan of the original printing"
+  },
+  "legge-cc-1": {
+   "source": "legge-cc-1",
+   "of": "The Confucian Analects, the Great Learning and the Doctrine of the Mean, with prolegomena",
+   "work": "The Chinese Classics, vol. I: Confucian Analects, the Great Learning, and the Doctrine of the Mean",
+   "translated": 1861,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1861 (first edition); archive.org scan",
+   "note": "The Analects in this volume are the same translation as the shelf's Gutenberg Analects (PG 3330); the volume is shelved for the Great Learning, the Doctrine of the Mean and Legge's prolegomena and notes."
+  },
+  "legge-cc-2": {
+   "source": "legge-cc-2",
+   "of": "The Mencius",
+   "work": "The Chinese Classics, vol. II: the Works of Mencius",
+   "translated": 1861,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1861 (first edition); archive.org scan"
+  },
+  "legge-cc-3-1": {
+   "source": "legge-cc-3-1",
+   "of": "The Shujing (Book of Documents), part 1",
+   "work": "The Chinese Classics, vol. III, part I: the Shoo King",
+   "translated": 1865,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1865 (first edition); archive.org scan",
+   "note": "The complete Shoo King; the SBE volume on this shelf has only its religious portions."
+  },
+  "legge-cc-3-2": {
+   "source": "legge-cc-3-2",
+   "of": "The Shujing (Book of Documents), part 2",
+   "work": "The Chinese Classics, vol. III, part II: the Shoo King",
+   "translated": 1865,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1865 (first edition); archive.org scan"
+  },
+  "legge-cc-4-1": {
+   "source": "legge-cc-4-1",
+   "of": "The Shijing (Book of Poetry), part 1",
+   "work": "The Chinese Classics, vol. IV, part I: the She King",
+   "translated": 1871,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1871 (first edition); archive.org scan",
+   "note": "The complete She King; the SBE volume on this shelf has only its religious portions."
+  },
+  "legge-cc-4-2": {
+   "source": "legge-cc-4-2",
+   "of": "The Shijing (Book of Poetry), part 2",
+   "work": "The Chinese Classics, vol. IV, part II: the She King",
+   "translated": 1871,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1871 (first edition); archive.org scan"
+  },
+  "legge-cc-5-1": {
+   "source": "legge-cc-5-1",
+   "of": "The Chunqiu (Spring and Autumn Annals) with the Zuo zhuan, part 1",
+   "work": "The Chinese Classics, vol. V, part I: the Ch'un Ts'ew, with the Tso Chuen",
+   "translated": 1872,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1872 (first edition); archive.org scan"
+  },
+  "legge-cc-5-2": {
+   "source": "legge-cc-5-2",
+   "of": "The Chunqiu (Spring and Autumn Annals) with the Zuo zhuan, part 2",
+   "work": "The Chinese Classics, vol. V, part II: the Ch'un Ts'ew, with the Tso Chuen",
+   "translated": 1872,
+   "translator": "James Legge",
+   "scan_edition": "Hongkong: at the Author's; London: Trübner & Co., 1872 (first edition); archive.org scan"
   }
  },
  "_pending": {},
@@ -141,7 +240,7 @@
  "_checks": {
   "legge-tao-teh-king": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -150,7 +249,7 @@
   },
   "legge-analects": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -159,7 +258,7 @@
   },
   "legge-faxian": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -168,7 +267,7 @@
   },
   "legge-shu-king": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -179,7 +278,7 @@
   },
   "legge-yi-king": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -190,7 +289,7 @@
   },
   "legge-li-ki-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -201,7 +300,7 @@
   },
   "legge-li-ki-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -212,7 +311,7 @@
   },
   "legge-kwang-ze-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -223,12 +322,100 @@
   },
   "legge-kwang-ze-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-3-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-3-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-4-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-4-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-5-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-cc-5-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -315,6 +502,89 @@
    "years_in_front_15k": [
     1857,
     1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-1": {
+   "ia": "chineseclassics01legg_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1840,
+    1841,
+    1856,
+    1857,
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-2": {
+   "ia": "chineseclassics02legg_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1829,
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-3-1": {
+   "ia": "chineseclassics31legg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1846,
+    1860,
+    1862,
+    1863,
+    1865
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-3-2": {
+   "ia": "chineseclassics32legg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1796,
+    1865
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-4-1": {
+   "ia": "chineseclassics41legg_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1733,
+    1830,
+    1865,
+    1867,
+    1871
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "legge-cc-4-2": {
+   "ia": "chineseclassics42legg_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1871
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-5-1": {
+   "ia": "chineseclassics51legg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861,
+    1872
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-cc-5-2": {
+   "ia": "chineseclassics52legg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1872
    ],
    "post_1930_years_in_front_15k": []
   }
