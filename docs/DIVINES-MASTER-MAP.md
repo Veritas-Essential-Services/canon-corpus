@@ -6087,6 +6087,41 @@ Slugs `gibbons-*`. Archbishop of Baltimore; written in English.
 | Faith 16th (1880) and 34th (1889) editions; other copies of each title | alternate | not shelved |
 | Rebuttals by others, anthologies, Didon's Saviour, and another Gibbons | excluded | |
 | faithofourfather0000jame_n6l2: 110th edition, wrongly catalogued 1876 | excluded | |
+
+## Orestes A. Brownson (round 28, my pick, 2026-10-18)
+
+Slugs `brownson-*`. American Catholic convert and philosopher: the twenty-volume Works and four first editions; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. I (Detroit: Thorndike Nourse, 1882) | have-ocr | IA `worksoforestesab01browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. II (Detroit: Thorndike Nourse, 1883) | have-ocr | IA `theworksoforeste02browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. III (Detroit: Thorndike Nourse, 1883) | have-ocr | IA `worksoforestesab03browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. IV (Detroit: Thorndike Nourse, 1883) | have-ocr | IA `worksoforestesab04browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. V (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab05browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VI (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab06browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VII (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab07browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VIII (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab08browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. IX (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab09browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. X (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab10browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XI (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab11browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XII (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab12browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIII (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab13browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIV (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab14browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XV (Detroit: Thorndike Nourse, 1884) | have-ocr | IA `worksoforestesab15browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVI (Detroit: Thorndike Nourse, 1885) | have-ocr | IA `worksoforestesab16browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVII (Detroit: Thorndike Nourse, 1885) | have-ocr | IA `worksoforestesab17browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVIII (Detroit: Thorndike Nourse, 1885) | have-ocr | IA `worksoforestesab18browuoft` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIX (Detroit: Thorndike Nourse, 1885) | have-ocr | IA `worksoforestesa19brow` |
+| The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XX (Detroit: H. F. Brownson, 1887) | have-ocr | IA `worksoforestesab20browuoft` |
+| New Views of Christianity, Society, and the Church (Boston: James Munroe, 1836) | have-ocr | IA `newviewofchristi00brow` |
+| The Spirit-Rapper; an Autobiography (Boston: Little, Brown; London: Charles Dolman, M.DCCC.LIV) | have-ocr | IA `spiritrapperauto00brow` |
+| The Convert: or, Leaves from My Experience (New York: Edward Dunigan & Brother, 1857) | have-ocr | IA `convertorleavesf00brow` |
+| The American Republic: Its Constitution, Tendencies, and Destiny (New York: P. O'Shea, 1866) | have-ocr | IA `americanrepublic00brow` |
+| PG 2053 (American Republic, 1866) and PG 76858 (Spirit-Rapper, 1854) | alternate | not shelved |
+| The Toronto Works set (vols 1-2 are an 1898 reissue); other copies of each first edition | alternate | not shelved |
+| H. F. Brownson's Life (1898) and Watchwords (1910, extracts) | excluded | |
+| AMS Press 1966 and later reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

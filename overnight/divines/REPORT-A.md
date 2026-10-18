@@ -1276,3 +1276,6 @@
 
 ## 2026-10-17 19:31 CDT — james-gibbons done
 - `pipeline/james-gibbons_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — orestes-brownson done
+- `pipeline/orestes-brownson_shelf.json`: 0 CCEL, 0 PG, 24 IA. Title pages read for brownson-spirit-rapper, brownson-convert (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -1,0 +1,402 @@
+{
+ "_about": "Public-domain Orestes A. Brownson (1803-1876, American Catholic convert, philosopher and controversialist) for the Word Hoard: the twenty volumes of his Works, collected by his son Henry F. Brownson (Detroit, 1882-1887), and four first editions: New Views (1836), The Spirit-Rapper (1854), The Convert (1857) and The American Republic (1866), all from Internet Archive scans. Written in English. Not the hf-brownson shelf, which holds his son's translations of Balmes. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brownson"
+ ],
+ "_surname": [
+  "brownson",
+  "orestes a. brownson",
+  "o. a. brownson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brownson-works-1": [
+   "worksoforestesab01browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. I (Detroit: Thorndike Nourse, 1882)"
+  ],
+  "brownson-works-2": [
+   "theworksoforeste02browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. II (Detroit: Thorndike Nourse, 1883)"
+  ],
+  "brownson-works-3": [
+   "worksoforestesab03browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. III (Detroit: Thorndike Nourse, 1883)"
+  ],
+  "brownson-works-4": [
+   "worksoforestesab04browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. IV (Detroit: Thorndike Nourse, 1883)"
+  ],
+  "brownson-works-5": [
+   "worksoforestesab05browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. V (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-6": [
+   "worksoforestesab06browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VI (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-7": [
+   "worksoforestesab07browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VII (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-8": [
+   "worksoforestesab08browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. VIII (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-9": [
+   "worksoforestesab09browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. IX (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-10": [
+   "worksoforestesab10browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. X (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-11": [
+   "worksoforestesab11browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XI (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-12": [
+   "worksoforestesab12browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XII (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-13": [
+   "worksoforestesab13browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIII (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-14": [
+   "worksoforestesab14browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIV (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-15": [
+   "worksoforestesab15browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XV (Detroit: Thorndike Nourse, 1884)"
+  ],
+  "brownson-works-16": [
+   "worksoforestesab16browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVI (Detroit: Thorndike Nourse, 1885)"
+  ],
+  "brownson-works-17": [
+   "worksoforestesab17browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVII (Detroit: Thorndike Nourse, 1885)"
+  ],
+  "brownson-works-18": [
+   "worksoforestesab18browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XVIII (Detroit: Thorndike Nourse, 1885)"
+  ],
+  "brownson-works-19": [
+   "worksoforestesa19brow",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XIX (Detroit: Thorndike Nourse, 1885)"
+  ],
+  "brownson-works-20": [
+   "worksoforestesab20browuoft",
+   "The Works of Orestes A. Brownson, collected and arranged by Henry F. Brownson, vol. XX (Detroit: H. F. Brownson, 1887)"
+  ],
+  "brownson-new-views": [
+   "newviewofchristi00brow",
+   "New Views of Christianity, Society, and the Church (Boston: James Munroe, 1836)"
+  ],
+  "brownson-spirit-rapper": [
+   "spiritrapperauto00brow",
+   "The Spirit-Rapper; an Autobiography (Boston: Little, Brown; London: Charles Dolman, M.DCCC.LIV)"
+  ],
+  "brownson-convert": [
+   "convertorleavesf00brow",
+   "The Convert: or, Leaves from My Experience (New York: Edward Dunigan & Brother, 1857)"
+  ],
+  "brownson-american-republic": [
+   "americanrepublic00brow",
+   "The American Republic: Its Constitution, Tendencies, and Destiny (New York: P. O'Shea, 1866)"
+  ]
+ },
+ "_alternates": {
+  "brownson-pg": "PG 2053 (American Republic, 1866) and PG 76858 (Spirit-Rapper, 1854)",
+  "brownson-copies": "The Toronto Works set (vols 1-2 are an 1898 reissue); other copies of each first edition"
+ },
+ "_excluded": {
+  "brownson-about": "H. F. Brownson's Life (1898) and Watchwords (1910, extracts)",
+  "brownson-late": "AMS Press 1966 and later reprints"
+ },
+ "_identity_checked": {
+  "brownson-spirit-rapper": {
+   "author": "title page read: 'BY o. a: browns on, AUTHOR OF \"CHARLES ELWOOD.\"' (OCR splits the name), Boston, Little, Brown, M.DCCC.LIV"
+  },
+  "brownson-convert": {
+   "author": "title page read: 'BY 0. Af BKOWNSON' (OCR garble of O. A. Brownson), New York, Edward Dunigan & Brother, 1857"
+  }
+ },
+ "_rights_checked": {
+  "brownson-works-19": "title page read on this copy: Thorndike Nourse, 1885 (the Toronto set's copy reads ISM, an OCR garble)"
+ },
+ "_pending": {
+  "brownson-quarterly": "Brownson's Quarterly Review and the Boston Quarterly Review: not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "brownson-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1882-1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-16": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-17": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-18": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-works-19": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read on this copy: Thorndike Nourse, 1885 (the Toronto set's copy reads ISM, an OCR garble)"
+  },
+  "brownson-works-20": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1882-1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brownson-new-views": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brownson-spirit-rapper": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brownson-convert": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brownson-american-republic": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brownson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
