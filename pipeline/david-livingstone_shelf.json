@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain David Livingstone (1813-1873, Scottish missionary and explorer of Africa) for the Word Hoard: Missionary Travels and Researches in South Africa (1857), the Narrative of an Expedition to the Zambesi, written with his brother Charles (1865), and The Last Journals, ed. Horace Waller (2 vols, 1874), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "livingstone"
+ ],
+ "_surname": [
+  "livingstone",
+  "david livingstone"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "livingstone-missionary-travels": [
+   "missionarytravel1857livi",
+   "Missionary Travels and Researches in South Africa (London: John Murray, 1857)"
+  ],
+  "livingstone-zambesi-expedition": [
+   "narrativeofexpe00livi",
+   "Narrative of an Expedition to the Zambesi and its Tributaries, by David and Charles Livingstone (London: John Murray, 1865)"
+  ],
+  "livingstone-last-journals-1": [
+   "lastjournalsofda01livi",
+   "The Last Journals of David Livingstone, vol. I, ed. Horace Waller (London: John Murray, 1874)"
+  ],
+  "livingstone-last-journals-2": [
+   "lastjournalsofda02livi",
+   "The Last Journals of David Livingstone, vol. II, ed. Horace Waller (London: John Murray, 1874)"
+  ]
+ },
+ "_alternates": {
+  "livingstone-pg": "PG 16672 and 17024 (the 1874 Last Journals); PG 1039 (Missionary Travels, source not stated)",
+  "livingstone-cambridge": "Dr Livingstone's Cambridge Lectures (1858), with William Monk's life and notes",
+  "livingstone-copies": "Other 1857 and 1865 copies; Harper's New York issues"
+ },
+ "_excluded": {
+  "livingstone-abridged": "The Popular Account (1861, 1875) and PG 2519: abridgements",
+  "livingstone-lives": "Lives by Blaikie, Stanley and others"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "livingstone-missionary-travels": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livingstone-zambesi-expedition": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livingstone-last-journals-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livingstone-last-journals-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "livingstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

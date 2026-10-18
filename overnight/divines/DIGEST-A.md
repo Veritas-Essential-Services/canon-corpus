@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 21:18 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 21:36 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -731,6 +731,14 @@ Twenty authors queued in QUEUE-A.json, each built from title pages read for this
 | Oswald Chambers | oswald-chambers_shelf.json | none | 2 (Biblical Psychology: a Series of Preliminary Studies (Cincinnati: God's Revivalist Office; copyright 1914); Studies in the Sermon on the Mount (Cincinnati: God's Revivalist Press; copyright 1915)) | none | My Utmost for His Highest (a 1992 edition catalogued 1927) and every other scan, all 1937 or later |
 
 Round 32 closed 2026-10-17 21:20 CDT: 20 shelves, 155 items (2 Gutenberg, 153 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. Three title pages were read by hand because the OCR garbled a name: Munger's On the Threshold ('HUNGER'), W. Robertson Smith's Prophets of Israel, and H. T. Henry's translation of Leo XIII's Poems ('HKNRV').
+
+## Round 33: missionaries, Catholic scholars and preachers in English, E. H. Plumptre, and Holiness and Methodist writers, before 1930 (my picks)
+
+Twenty-two authors queued in QUEUE-A.json, each built from title pages read for this round. All wrote in English. Jessie Penn-Lewis was researched and left out: none of her books shows a dated title page before 1930. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| David Livingstone | david-livingstone_shelf.json | none | 4 (Missionary Travels and Researches in South Africa (London: John Murray, 1857); Narrative of an Expedition to the Zambesi and its Tributaries, by David and Charles Livingstone (London: John Murray, 1865); The Last Journals of David Livingstone, vol. I, ed. Horace Waller (London: John Murray, 1874); The Last Journals of David Livingstone, vol. II, ed. Horace Waller (London: John Murray, 1874)) | none | The Popular Account (1861, 1875) and PG 2519: abridgements; Lives by Blaikie, Stanley and others |
 
 ## Paused 2026-10-10 15:12 CDT
 

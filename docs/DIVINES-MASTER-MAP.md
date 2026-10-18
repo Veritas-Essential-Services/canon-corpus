@@ -7612,6 +7612,22 @@ Slugs `chambers-*`. Built from title pages read for round 32.
 | Studies in the Sermon on the Mount (Cincinnati: God's Revivalist Press; copyright 1915) | have-ocr | IA `studiesinsermon00cham` |
 | The London Partridge Biblical Psychology (1919 or later) | alternate | not shelved |
 | My Utmost for His Highest (a 1992 edition catalogued 1927) and every other scan, all 1937 or later | excluded | |
+
+## David Livingstone (round 33, my pick, 2026-10-18)
+
+Slugs `livingstone-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Missionary Travels and Researches in South Africa (London: John Murray, 1857) | have-ocr | IA `missionarytravel1857livi` |
+| Narrative of an Expedition to the Zambesi and its Tributaries, by David and Charles Livingstone (London: John Murray, 1865) | have-ocr | IA `narrativeofexpe00livi` |
+| The Last Journals of David Livingstone, vol. I, ed. Horace Waller (London: John Murray, 1874) | have-ocr | IA `lastjournalsofda01livi` |
+| The Last Journals of David Livingstone, vol. II, ed. Horace Waller (London: John Murray, 1874) | have-ocr | IA `lastjournalsofda02livi` |
+| PG 16672 and 17024 (the 1874 Last Journals); PG 1039 (Missionary Travels, source not stated) | alternate | not shelved |
+| Dr Livingstone's Cambridge Lectures (1858), with William Monk's life and notes | alternate | not shelved |
+| Other 1857 and 1865 copies; Harper's New York issues | alternate | not shelved |
+| The Popular Account (1861, 1875) and PG 2519: abridgements | excluded | |
+| Lives by Blaikie, Stanley and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

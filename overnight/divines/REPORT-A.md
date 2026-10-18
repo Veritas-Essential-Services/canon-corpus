@@ -1582,3 +1582,6 @@
 
 ## 2026-10-17 21:20 CDT — round 32 closed
 - 20 shelves, 155 items (2 PG, 153 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 21:36 CDT — david-livingstone done
+- `pipeline/david-livingstone_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
