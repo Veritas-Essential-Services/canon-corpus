@@ -5429,6 +5429,8 @@ Shelf: `pipeline/roger-bacon_shelf.json`. The Opus Majus, tr. Burke (1928, 2 vol
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Opus Majus, vol. I (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v1` | have-raw (IA `opusmajustransla01baco`) |
+| The Opus Majus, vol. II (Philadelphia: University of Pennsylvania Press, 1928) | Robert Belle Burke | `roger-bacon-burke-opus-majus-1928-v2` | have-raw (IA `opusmajusofroger0002robe_l9a1`) |
 
 ## John of Salisbury
 
