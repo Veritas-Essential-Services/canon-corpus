@@ -3269,6 +3269,14 @@
       "started": "2026-10-17T21:25:18-05:00",
       "finished": "2026-10-17T21:25:18-05:00",
       "notes": "charles-dudley-warner: new shelf, 44 Gutenberg books, 29,122 units, 3466 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-jane-holmes",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Mary Jane Holmes; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:25:19-05:00",
+      "finished": "2026-10-17T21:25:19-05:00",
+      "notes": "mary-jane-holmes: new shelf, 46 Gutenberg books, 73,388 units, 596 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

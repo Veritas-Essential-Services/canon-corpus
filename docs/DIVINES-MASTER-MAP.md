@@ -32400,6 +32400,60 @@ Shelf: `pipeline/charles-dudley-warner_shelf.json` (2026-10-17; added at the coo
 | repeat-editions | excluded | PG 15984, 54604: second Gutenberg editions of titles already on the shelf. |
 | pg-3471 | excluded | PG 3471, 7557, 28821: David Widger's quotation selections and linked index. |
 
+## Mary Jane Holmes
+
+Shelf: `pipeline/mary-jane-holmes_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (46 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cousin Maude | have | PG 3619, `mjholmes-cousin-maude` (851 units) |
+| Darkness and Daylight: A Novel | have | PG 4721, `mjholmes-darkness-and-daylight` (2091 units) |
+| Rosamond, or, the Youthful Error: A Tale of Riverside; And Other Stories | have | PG 5990, `mjholmes-rosamond` (590 units) |
+| Dora Deane; Or, The East India Uncle | have | PG 6352, `mjholmes-dora-deane` (768 units) |
+| Aikenside | have | PG 6954, `mjholmes-aikenside` (1048 units) |
+| Maggie Miller: The Story of Old Hagar's Secret | have | PG 11280, `mjholmes-maggie-miller` (1134 units) |
+| Ethelyn's Mistake | have | PG 12104, `mjholmes-ethelyns-mistake` (1030 units) |
+| 'Lena Rivers | have | PG 12835, `mjholmes-lena-rivers` (2176 units) |
+| The English Orphans; Or, A Home in the New World | have | PG 13878, `mjholmes-english-orphans` (1917 units) |
+| Homestead on the Hillside | have | PG 14089, `mjholmes-homestead-on-the-hillside` (1236 units) |
+| Bessie's Fortune: A Novel | have | PG 15275, `mjholmes-bessies-fortune` (2858 units) |
+| Tracy Park: A Novel | have | PG 15321, `mjholmes-tracy-park` (3295 units) |
+| Family Pride; Or, Purified by Suffering | have | PG 15607, `mjholmes-family-pride` (2377 units) |
+| The Cromptons | have | PG 16138, `mjholmes-cromptons` (1547 units) |
+| Miss McDonald | have | PG 16150, `mjholmes-miss-mcdonald` (451 units) |
+| Bad Hugh | have | PG 16662, `mjholmes-bad-hugh` (2518 units) |
+| Tempest and Sunshine | have | PG 17260, `mjholmes-tempest-and-sunshine` (1904 units) |
+| The Rector of St. Mark's | have | PG 19702, `mjholmes-rector-of-st-marks` (1284 units) |
+| Daisy Thornton | have | PG 37467, `mjholmes-daisy-thornton` (458 units) |
+| Jessie Graham | have | PG 37476, `mjholmes-jessie-graham` (1051 units) |
+| Gretchen: A Novel | have | PG 40702, `mjholmes-gretchen` (3256 units) |
+| Mrs. Hallam's companion; and The Spring Farm, and other tales | have | PG 69780, `mjholmes-mrs-hallams-companion` (1742 units) |
+| West Lawn, and The rector of St. Mark's | have | PG 69785, `mjholmes-west-lawn-and-the-rector-of-st-marks` (1720 units) |
+| Christmas stories | have | PG 69800, `mjholmes-christmas-stories` (974 units) |
+| Rose Mather: A tale | have | PG 69870, `mjholmes-rose-mather` (1662 units) |
+| The Cameron pride; or, purified by suffering | have | PG 69954, `mjholmes-cameron-pride` (2059 units) |
+| Edna Browning; | have | PG 70021, `mjholmes-edna-browning` (2043 units) |
+| Millbank; | have | PG 70163, `mjholmes-millbank` (1736 units) |
+| Chateau d'Or, Norah, and Kitty Craig | have | PG 70185, `mjholmes-chateau-dor-norah-and-kitty-craig` (1059 units) |
+| Glen's Creek | have | PG 70191, `mjholmes-glens-creek` (216 units) |
+| Hugh Worthington | have | PG 70234, `mjholmes-hugh-worthington` (1982 units) |
+| Forrest House | have | PG 70473, `mjholmes-forrest-house` (2095 units) |
+| Queenie Hetherton | have | PG 70474, `mjholmes-queenie-hetherton` (2332 units) |
+| Edith Lyle | have | PG 70808, `mjholmes-edith-lyle` (2549 units) |
+| Marian Grey | have | PG 70870, `mjholmes-marian-grey` (2267 units) |
+| Doctor Hathern's daughters | have | PG 70883, `mjholmes-doctor-hatherns-daughters` (1804 units) |
+| The abandoned farm, and Connie's mistake | have | PG 70893, `mjholmes-abandoned-farm-and-connies-mistake` (1256 units) |
+| The Tracy diamonds | have | PG 70966, `mjholmes-tracy-diamonds` (1855 units) |
+| Mildred | have | PG 70986, `mjholmes-mildred` (1573 units) |
+| Maggie Lee! | have | PG 71099, `mjholmes-maggie-lee` (179 units) |
+| Meadow Brook | have | PG 71108, `mjholmes-meadow-brook` (1456 units) |
+| Rena's experiment | have | PG 74886, `mjholmes-renas-experiment` (1358 units) |
+| Madeline | have | PG 74902, `mjholmes-madeline` (1260 units) |
+| Lucy Harding | have | PG 74921, `mjholmes-lucy-harding` (1186 units) |
+| The Merivale banks | have | PG 74929, `mjholmes-merivale-banks` (1374 units) |
+| Paul Ralston | have | PG 75309, `mjholmes-paul-ralston` (1811 units) |
+| repeat-editions | excluded | PG 79070: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

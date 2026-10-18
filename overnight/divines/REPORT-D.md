@@ -1503,3 +1503,6 @@
 
 ## 2026-10-17 21:25 CDT — charles-dudley-warner: done
 - charles-dudley-warner: new shelf, 44 Gutenberg books, 29,122 units, 3466 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:25 CDT — mary-jane-holmes: done
+- mary-jane-holmes: new shelf, 46 Gutenberg books, 73,388 units, 596 ~2 ids; verify 0 mismatches, 0 rights flags.
