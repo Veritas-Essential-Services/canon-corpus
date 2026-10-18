@@ -11009,6 +11009,42 @@ Shelf: `pipeline/le-fanu_shelf.json` (2026-10-17; added at the coordinator's rel
 | The Wyvern mystery | have | PG 68569, `lefanu-wyvern-mystery` (3657 units) |
 | All in the dark | have | PG 75028, `lefanu-all-in-the-dark` (2501 units) |
 
+## F. Hopkinson Smith
+
+Shelf: `pipeline/hopkinson-smith_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tom Grogan | have | PG 850, `fhsmith-tom-grogan` (771 units) |
+| The Fortunes of Oliver Horn | have | PG 3417, `fhsmith-fortunes-of-oliver-horn` (2131 units) |
+| The Tides of Barnegat | have | PG 4398, `fhsmith-tides-of-barnegat` (1944 units) |
+| Peter: A Novel of Which He is Not the Hero | have | PG 4516, `fhsmith-peter` (2400 units) |
+| The Veiled Lady, and Other Men and Women | have | PG 4713, `fhsmith-veiled-lady-and-other-men-and-women` (1131 units) |
+| Kennedy Square | have | PG 4746, `fhsmith-kennedy-square` (2141 units) |
+| Felix O'Day | have | PG 5229, `fhsmith-felix-oday` (1869 units) |
+| Colonel Carter of Cartersville | have | PG 6743, `fhsmith-colonel-carter-of-cartersville` (984 units) |
+| The Under Dog | have | PG 9463, `fhsmith-under-dog` (1521 units) |
+| A Gentleman Vagabond and Some Others | have | PG 14967, `fhsmith-a-gentleman-vagabond-and-some-others` (671 units) |
+| Homo 1909 | have | PG 23694, `fhsmith-homo-1909` (99 units) |
+| The Little Gray Lady 1909 | have | PG 23695, `fhsmith-little-gray-lady-1909` (124 units) |
+| A Gentleman's Gentleman 1909 | have | PG 23696, `fhsmith-a-gentlemans-gentleman-1909` (93 units) |
+| Forty Minutes Late 1909 | have | PG 23697, `fhsmith-forty-minutes-late-1909` (132 units) |
+| Fiddles 1909 | have | PG 23698, `fhsmith-fiddles-1909` (90 units) |
+| Abijah's Bubble | have | PG 23699, `fhsmith-abijahs-bubble` (165 units) |
+| The Man In The High-Water Boots | have | PG 23701, `fhsmith-man-in-the-high-water-boots` (88 units) |
+| A List To Starboard 1909 | have | PG 23702, `fhsmith-a-list-to-starboard-1909` (133 units) |
+| The Parthenon By Way Of Papendrecht | have | PG 23703, `fhsmith-parthenon-by-way-of-papendrecht` (85 units) |
+| Outdoor Sketching Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914 | have | PG 27340, `fhsmith-outdoor-sketching-four-talks-given-before-the-art-in` (285 units) |
+| Colonel Carter's Christmas and The Romance of an Old-Fashioned Gentleman | have | PG 27741, `fhsmith-colonel-carters-christmas-and-the-romance-of-an-old` (1149 units) |
+| The Wood Fire in No. 3 | have | PG 34284, `fhsmith-wood-fire-in-no-3` (1045 units) |
+| The Other Fellow | have | PG 37148, `fhsmith-other-fellow` (919 units) |
+| The Arm-Chair at the Inn | have | PG 41284, `fhsmith-arm-chair-at-the-inn` (1043 units) |
+| Caleb West, Master Diver | have | PG 42362, `fhsmith-caleb-west-master-diver` (1632 units) |
+| At Close Range | have | PG 55257, `fhsmith-at-close-range` (1088 units) |
+| Gondola days | have | PG 71528, `fhsmith-gondola-days` (492 units) |
+| Enoch Crane (completed by F. Berkeley Smith) | have | PG 73453, `fhsmith-enoch-crane` (1869 units) |
+| pg-61989 | excluded | PG 61989 Some Artists at the Fair: a many-author book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
