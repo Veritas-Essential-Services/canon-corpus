@@ -7106,3 +7106,16 @@ Slugs `zahn-*`. Introduction to the New Testament and two smaller books in Engli
 | Scribner's three-in-one second edition (1917); other 1899 and 1905 copies | alternate | not shelved |
 | Kregel 1953 reprints | excluded | |
 | German works; novels by other Zahns | excluded | |
+
+## Hermann Cremer (round 31, my pick, 2026-10-18)
+
+Slugs `cremer-*`. The Biblico-Theological Lexicon and two other books in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblico-Theological Lexicon of New Testament Greek, tr. D. W. Simon and William Urwick (Edinburgh: T. & T. Clark, MDCCCLXXII) | have-ocr | IA `biblicotheologi00cremgoog` |
+| Beyond the Grave, tr. Samuel T. Lowrie, introduction by A. A. Hodge (New York: Harper & Brothers, 1886) | have-ocr | IA `beyondgrave00crem` |
+| A Reply to Harnack on the Essence of Christianity, tr. Bernhard Pick (New York and London: Funk & Wagnalls, 1903) | have-ocr | IA `replytoharnackon00crem` |
+| The 1878 second edition (Urwick), 1886-1887 third and 1895 fourth English editions with supplement | alternate | not shelved |
+| Other copies of Beyond the Grave (1886) and the Reply (1903) | alternate | not shelved |
+| The German Wörterbuch editions | excluded | |
