@@ -268,3 +268,4 @@
 - 22:14 round bx: gap sweep, 20 rows on 5 shelves (Spinoza, Spencer, Münsterberg, Bury, Morley).
 - 22:17 round by: 12 shelves (Jung, Benn, Mallock, J. M. Robertson, Fowler, Vernon Lee, Bernays, Steuart, Hyde, Cushman, Gunn, Stock). Note: most Freud translations on Gutenberg are unheld; the freud shelf belongs to the reading-lists thread.
 - 22:21 round bz: John Ruskin (45), Arnold's prose (+5), Pater's criticism (+4). Observation for the coordinator: Carlyle, Coleridge and Emerson have dozens of unheld Gutenberg works, but their shelves belong to lane C and the reading-lists thread.
+- 22:24 round ca: Samuel Butler (13), and Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8.

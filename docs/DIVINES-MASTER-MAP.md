@@ -12132,6 +12132,9 @@ Shelf: `pipeline/william-godwin_shelf.json`. Political Justice (1793) and Though
 | Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831) |  | `godwin-thoughts-on-man-1831` | have (PG 743) |
 | An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
 | An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
+| Four Early Pamphlets (1783-1784) |  | `godwin-four-early-pamphlets` | have (PG 10597) |
+| Memoirs of the Author of A Vindication of the Rights of Woman (1798) |  | `godwin-memoirs-of-wollstonecraft` | have (PG 16199) |
+| Lives of the Necromancers (1834) |  | `godwin-lives-of-the-necromancers` | have (PG 7082) |
 
 ## Malebranche in English
 
@@ -13360,6 +13363,9 @@ Shelf: `pipeline/mary-wollstonecraft_shelf.json`. Political and moral philosophy
 | A Vindication of the Rights of Men, in a letter to Edmund Burke, 2nd ed. (London: J. Johnson, 1790, inferred) |  | `wollstonecraft-rights-of-men-2nd-ed` | have (PG 62757) |
 | A Vindication of the Rights of Woman (printing not named) |  | `wollstonecraft-rights-of-woman` | have (PG 3420) |
 | An Historical and Moral View of the Origin and Progress of the French Revolution (London: J. Johnson, 1794) |  | `wollstonecraft-french-revolution-1794` | have (PG 68724) |
+| Letters Written During a Short Residence in Sweden, Norway, and Denmark (1796) |  | `wollstonecraft-letters-from-sweden` | have (PG 3529) |
+| Posthumous Works of the Author of A Vindication of the Rights of Woman (ed. William Godwin, 1798) |  | `wollstonecraft-posthumous-works` | have (PG 23233) |
+| The Love Letters of Mary Wollstonecraft to Gilbert Imlay |  | `wollstonecraft-love-letters-to-imlay` | have (PG 34413) |
 
 ## Sir James Mackintosh
 
@@ -13611,6 +13617,14 @@ Shelf: `pipeline/leslie-stephen_shelf.json`. Historian of English thought and ev
 | History of English Thought in the Eighteenth Century, vol. II (London: Smith, Elder, 1876) |  | `stephen-english-thought-18th-century-1876-v2` | have-raw (IA `historyofenglish02stepuoft`) |
 | The Science of Ethics (New York: Putnam, 1882) |  | `stephen-science-of-ethics-1882` | have-raw (IA `thescienceofethi00stepuoft`) |
 | The English Utilitarians, vol. III: John Stuart Mill (New York: Putnam; London: Duckworth, 1902) |  | `stephen-english-utilitarians-1902-v3` | have-raw (IA `cu31924092293400`) |
+| Hours in a Library, vol. 1 (new edition) |  | `stephen-hours-in-a-library-1` | have (PG 20459) |
+| Hours in a Library, vol. 2 (new edition) |  | `stephen-hours-in-a-library-2` | have (PG 30336) |
+| Hours in a Library, vol. 3 (new edition) |  | `stephen-hours-in-a-library-3` | have (PG 58625) |
+| English Literature and Society in the Eighteenth Century (1904) |  | `stephen-english-literature-and-society` | have (PG 21123) |
+| Samuel Johnson (English Men of Letters, 1878) |  | `stephen-samuel-johnson` | have (PG 11031) |
+| Alexander Pope (English Men of Letters, 1880) |  | `stephen-alexander-pope` | have (PG 19654) |
+| Swift (English Men of Letters, 1882) |  | `stephen-swift` | have (PG 41532) |
+| The Life of Sir James Fitzjames Stephen (1895) |  | `stephen-life-of-fitzjames-stephen` | have (PG 28980) |
 
 ## W. E. H. Lecky
 
@@ -13623,6 +13637,7 @@ Shelf: `pipeline/lecky_shelf.json`. History of morals and of rationalism.
 | The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902) |  | `lecky-map-of-life-1902` | have (PG 26334) |
 | History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR) |  | `lecky-spirit-of-rationalism-1873-v1` | have-raw (IA `riseinfluenceofs01leckiala`) |
 | History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873) |  | `lecky-spirit-of-rationalism-1873-v2` | have-raw (IA `riseinfluenceofs02leckiala`) |
+| Historical and Political Essays (1908) |  | `lecky-historical-and-political-essays` | have (PG 20389) |
 
 ## Sir Henry Sumner Maine
 
@@ -15963,6 +15978,26 @@ Shelf: `pipeline/john-ruskin_shelf.json`. Forty-five volumes, 1837-1887.
 | Arrows of the Chace, vol. 2 (1880) |  | `ruskin-arrows-of-the-chace-2` | have (PG 48015) |
 
 Pending (wishlist): Fors Clavigera vols. 7-8; Praeterita
+
+## Samuel Butler (evolution, memory and Homer)
+
+Shelf: `pipeline/samuel-butler_shelf.json`. Thirteen books, 1873-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Fair Haven (1873) |  | `sbutler-fair-haven` | have (PG 6092) |
+| Life and Habit (1878) |  | `sbutler-life-and-habit` | have (PG 6138) |
+| Evolution, Old and New (1879) |  | `sbutler-evolution-old-and-new` | have (PG 23427) |
+| God the Known and God the Unknown (1879; book form 1909) |  | `sbutler-god-the-known` | have (PG 2513) |
+| Unconscious Memory (1880) |  | `sbutler-unconscious-memory` | have (PG 6605) |
+| Selections from Previous Works, with Remarks on Romanes' Mental Evolution in Animals (1884) |  | `sbutler-selections-romanes` | have (PG 19610) |
+| Luck, or Cunning, as the Main Means of Organic Modification? (1887) |  | `sbutler-luck-or-cunning` | have (PG 4967) |
+| The Authoress of the Odyssey (1897) |  | `sbutler-authoress-of-the-odyssey` | have (PG 49324) |
+| Essays on Life, Art and Science (1904) |  | `sbutler-essays-on-life-art-science` | have (PG 3461) |
+| The Note-Books of Samuel Butler (1912) |  | `sbutler-note-books` | have (PG 6173) |
+| The Humour of Homer and Other Essays (1913) |  | `sbutler-humour-of-homer` | have (PG 12651) |
+| Cambridge Pieces |  | `sbutler-cambridge-pieces` | have (PG 3278) |
+| Canterbury Pieces (including Darwin among the Machines) |  | `sbutler-canterbury-pieces` | have (PG 3279) |
 
 ## Perseus census (overflow)
 

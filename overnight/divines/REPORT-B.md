@@ -1302,3 +1302,8 @@
 - matthew-arnold-homer widened to his prose criticism (5): the earlier scope sentence 'for this book only' was written under the narrower classical brief
 - pater widened to his criticism (4); fiction stays out
 - Left alone: Carlyle, Coleridge (lane C translator shelves) and Emerson (reading-lists thread), though Gutenberg has many unheld works by each
+
+## 2026-10-17 22:24 CDT — Round ca: Samuel Butler and four gap fills
+- New shelf samuel-butler (13): Life and Habit, Evolution Old and New, Unconscious Memory, Luck or Cunning, the Note-Books, the Homer essays and more
+- Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8
+- Checked earlier rulings first: Dewey's Child and the Curriculum and Public and its Problems stay held (post-1930 printings); Green's political lectures are inside his Works; Butler's Iliad is in the Perseus build
