@@ -1888,3 +1888,6 @@
 
 ## 2026-10-17 22:59 CDT — reginald-pole done
 - `pipeline/reginald-pole_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — giovanni-bona done
+- `pipeline/giovanni-bona_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for bona-manuductio-1672 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

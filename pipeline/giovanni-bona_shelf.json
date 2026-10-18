@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain Cardinal Giovanni Bona (1609-1674), Cistercian liturgist and spiritual writer, for the Word Hoard: A Guide to Heaven (1672), Manuductio ad Coelum (1672), A Guide to Eternity in Roger L'Estrange's translation (second edition, 1676), Precepts and Practical Rules for a truly Christian Life (1678) and The Easy Way to God translated by Henry Collins (1876), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bona"
+ ],
+ "_surname": [
+  "bona",
+  "john bona",
+  "cardinal bona",
+  "johannes bona"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bona-guide-heaven-1672": [
+   "bim_early-english-books-1641-1700_a-guide-to-heaven_bona-giovanni-cardinal_1672",
+   "A Guide to Heaven, containing the marrow of the Holy Fathers and Antient Philosophers, in English by a Benedictine monk (printed in the year 1672)"
+  ],
+  "bona-manuductio-1672": [
+   "bim_early-english-books-1641-1700_manuductio-ad-coelum_bona-giovanni-cardinal_1672",
+   "Manuductio ad Coelum: or, A Guide to Eternity (London: A. C. for Henry Brome, 1672)"
+  ],
+  "bona-guide-eternity-1676": [
+   "bim_early-english-books-1641-1700_a-guide-to-eternity-ext_bona-giovanni-cardinal_1676",
+   "A Guide to Eternity, the second edition, by Roger L'Estrange (London: for Henry Brome, 1676)"
+  ],
+  "bona-precepts-1678": [
+   "bim_early-english-books-1641-1700_precepts-and-practical-r_bona-giovanni-cardinal_1678",
+   "Precepts and Practical Rules for a truly Christian Life, Englished by L. B. (London: M. Clark for H. Brome, M.DC.LXXVIII)"
+  ],
+  "bona-easy-way-1876": [
+   "easywaytogodtrb00bonagoog",
+   "The Easy Way to God: A Manual of Ejaculatory Prayer, tr. Henry Collins (London: R. Washbourne, 1876)"
+  ]
+ },
+ "_alternates": {
+  "bona-copies": "A Moral Essay upon Friendship (1702, translator not named); Methuen's Guide to Eternity with Stanbridge's notes (title page year not read); later printings of the Guide to Eternity (1680-1722, not read)"
+ },
+ "_excluded": {
+  "bona-other": "A Treatise of Spiritual Life (1893, 1901): the title page shows it is Morozzo's, not Bona's"
+ },
+ "_identity_checked": {
+  "bona-manuductio-1672": {
+   "author": "title page read: Written Originally in Latine by FOHANC BON 4 [Johannes Bona] (OCR garble), a Cistercian Abbat, London: A. C. for Henry Brome, 1672",
+   "title": "title page read: Mas nnduftio Fo C wlam [Manuductio ad Coelum] (OCR garble): OR, A GUIDE [to] Eternity"
+  }
+ },
+ "_rights_checked": {
+  "bona-guide-heaven-1672": "title page read: translator given only as a Benedictine monk (initials garbled)",
+  "bona-manuductio-1672": "title page read: \"now done into English\", translator not named",
+  "bona-precepts-1678": "title page read: \"Englished by L. B.\"",
+  "bona-guide-eternity-1676": "title page read: Written Originally in Latine, By JOHN BONA, and now done into English, By Roger L' Eſtrange Esq. [Roger L'Estrange] (the long s defeats the name check), The Second Edition, London: Henry Brome, 1676"
+ },
+ "_pending": {
+  "bona-principles-1783": "The Principles of Christianity, tr. J. E. (London: C. Dilly, J. Johnson and W. Eyres, MDCCLXXXIII): the title page reads \"by the author of A Guide to Eternity\"; held until Adam rules on such title pages"
+ },
+ "_translators": {
+  "bona-easy-way-1876": "collins"
+ },
+ "_checks": {
+  "bona-guide-heaven-1672": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bona",
+   "identity": "ok",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator given only as a Benedictine monk (initials garbled)"
+  },
+  "bona-manuductio-1672": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: \"now done into English\", translator not named"
+  },
+  "bona-guide-eternity-1676": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bona",
+   "identity": "ok",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Written Originally in Latine, By JOHN BONA, and now done into English, By Roger L' Eſtrange Esq. [Roger L'Estrange] (the long s defeats the name check), The Second Edition, London: Henry Brome, 1676"
+  },
+  "bona-precepts-1678": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bona",
+   "identity": "ok",
+   "ia_rights": "ok: published 1678",
+   "ia_date": "1678",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: \"Englished by L. B.\""
+  },
+  "bona-easy-way-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bona",
+   "translator_claimed": "collins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

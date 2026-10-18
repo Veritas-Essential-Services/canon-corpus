@@ -9072,6 +9072,20 @@ Slugs `pole-*`. Built from title pages read for round 37.
 | Nine Historical Letters of the Reign of Henry VIII (T. Richards, catalogued 1871): four writers, so not shelved here | alternate | not shelved |
 | The seditious and blasphemous oration of Cardinal Pole, tr. Fabyane Wythers (catalogued 1560): its title page is unreadable OCR, so it is not shelved | alternate | not shelved |
 | Starkey's Dialogue (Starkey's work); Lives by Phillips, Beccadelli, Lee, Haile and Gasquet; De Unitate in English (first 1965) | excluded | |
+
+## Giovanni Bona (round 37, my pick, 2026-10-18)
+
+Slugs `bona-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A Guide to Heaven, containing the marrow of the Holy Fathers and Antient Philosophers, in English by a Benedictine monk (printed in the year 1672) | have-ocr | IA `bim_early-english-books-1641-1700_a-guide-to-heaven_bona-giovanni-cardinal_1672` |
+| Manuductio ad Coelum: or, A Guide to Eternity (London: A. C. for Henry Brome, 1672) | have-ocr | IA `bim_early-english-books-1641-1700_manuductio-ad-coelum_bona-giovanni-cardinal_1672` |
+| A Guide to Eternity, the second edition, by Roger L'Estrange (London: for Henry Brome, 1676) | have-ocr | IA `bim_early-english-books-1641-1700_a-guide-to-eternity-ext_bona-giovanni-cardinal_1676` |
+| Precepts and Practical Rules for a truly Christian Life, Englished by L. B. (London: M. Clark for H. Brome, M.DC.LXXVIII) | have-ocr | IA `bim_early-english-books-1641-1700_precepts-and-practical-r_bona-giovanni-cardinal_1678` |
+| The Easy Way to God: A Manual of Ejaculatory Prayer, tr. Henry Collins (London: R. Washbourne, 1876) | have-ocr | IA `easywaytogodtrb00bonagoog` |
+| A Moral Essay upon Friendship (1702, translator not named); Methuen's Guide to Eternity with Stanbridge's notes (title page year not read); later printings of the Guide to Eternity (1680-1722, not read) | alternate | not shelved |
+| A Treatise of Spiritual Life (1893, 1901): the title page shows it is Morozzo's, not Bona's | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
