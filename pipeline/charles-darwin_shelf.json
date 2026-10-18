@@ -1,5 +1,5 @@
 {
- "_about": "Charles Darwin (1809-1882), the rest of his books beside the two the adler shelf already holds (On the Origin of Species, 1st edition, PG 1228; The Descent of Man, PG 2300), which are not repeated here. Project Gutenberg etexts: the Beagle journal in its 1845 second edition (PG 944); the geology of the voyage (Coral Reefs, Volcanic Islands, Geological Observations on South America); the barnacle monographs for the Ray Society (1851, 1854); The Variation of Animals and Plants under Domestication; The Expression of the Emotions; the botanical books (Climbing Plants, Insectivorous Plants, Cross and Self-Fertilisation, Different Forms of Flowers, The Power of Movement in Plants); The Formation of Vegetable Mould through the Action of Worms; the Autobiography; Life and Letters and More Letters, ed. Francis Darwin; and The Foundations of the Origin of Species, the essays of 1842 and 1844 (ed. Francis Darwin, 1909). Not taken: the later Origin editions (PG 2009, 22764, 8205, 21153) and other witnesses of the Beagle journal (PG 3704, 6951), as further witnesses of texts already held; the Zoology of the Beagle volumes, written by Owen, Waterhouse, Gould, Jenyns and Bell under his editorship. US public domain. No uids minted.",
+ "_about": "Charles Darwin (1809-1882), the rest of his books beside the two the adler shelf already holds (On the Origin of Species, 1st edition, PG 1228; The Descent of Man, PG 2300), which are not repeated here. Project Gutenberg etexts: the Beagle journal in its 1845 second edition (PG 944); the geology of the voyage (Coral Reefs, Volcanic Islands, Geological Observations on South America); the barnacle monographs for the Ray Society (1851, 1854); The Variation of Animals and Plants under Domestication; The Expression of the Emotions; the botanical books (Climbing Plants, Insectivorous Plants, Cross and Self-Fertilisation, Different Forms of Flowers, The Power of Movement in Plants); The Formation of Vegetable Mould through the Action of Worms; the Autobiography; Life and Letters and More Letters, ed. Francis Darwin; and The Foundations of the Origin of Species, the essays of 1842 and 1844 (ed. Francis Darwin, 1909). Not taken: the later Origin editions (PG 2009, 22764, 8205, 21153) and other witnesses of the Beagle journal (PG 3704, 6951), as further witnesses of texts already held; the Zoology of the Beagle volumes, written by Owen, Waterhouse, Gould, Jenyns and Bell under his editorship. US public domain. Added in round 2026-10-18cf: The Various Contrivances by which Orchids are Fertilised by Insects, second edition, revised (New York: Appleton, 1886; the revision first appeared in 1877), raw IA OCR, clean 0.92. No uids minted.",
  "_author": "Charles Darwin",
  "_name_words": [
   "charles",
@@ -92,7 +92,12 @@
    "The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "darwin-fertilisation-of-orchids-1886": [
+   "variouscontrivan1886darw",
+   "The Various Contrivances by which Orchids are Fertilised by Insects, 2nd ed., revised (Appleton, 1886)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "darwin-voyage-of-the-beagle-1845": {
@@ -274,6 +279,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "darwin-fertilisation-of-orchids-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

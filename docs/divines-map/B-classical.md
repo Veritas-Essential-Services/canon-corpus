@@ -7953,6 +7953,7 @@ Shelf: `pipeline/charles-darwin_shelf.json`. Twenty works beyond the Origin and 
 | More Letters of Charles Darwin, vol. 1, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v1` | have (PG 2739) |
 | More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v2` | have (PG 2740) |
 | The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909) |  | `darwin-foundations-of-the-origin-1909` | have (PG 22728) |
+| The Various Contrivances by which Orchids are Fertilised by Insects, 2nd ed., revised (Appleton, 1886) |  | `darwin-fertilisation-of-orchids-1886` | have-raw (IA `variouscontrivan1886darw`) |
 
 Pending (wishlist): Fertilisation of Orchids, first edition (1862).
 
