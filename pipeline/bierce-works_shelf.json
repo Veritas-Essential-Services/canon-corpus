@@ -1,0 +1,337 @@
+{
+ "_about": "Ambrose Bierce's tales, fables, satires and The Devil's Dictionary not already on another shelf (the reading-list bierce shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Ambrose Bierce",
+ "_name_words": [
+  "bierce"
+ ],
+ "_surname": [
+  "ambrose bierce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bierce-fantastic-fables": [
+   374,
+   "Fantastic Fables"
+  ],
+  "bierce-an-occurrence-at-owl-creek-bridge": [
+   375,
+   "An Occurrence at Owl Creek Bridge"
+  ],
+  "bierce-devils-dictionary": [
+   972,
+   "The Devil's Dictionary"
+  ],
+  "bierce-parenticide-club": [
+   3715,
+   "The Parenticide Club"
+  ],
+  "bierce-present-at-a-hanging-and-other-ghost-stories": [
+   4387,
+   "Present at a Hanging and Other Ghost Stories"
+  ],
+  "bierce-fiends-delight": [
+   4793,
+   "The Fiend's Delight",
+   {
+    "contents_only": true
+   }
+  ],
+  "bierce-a-son-of-the-gods-and-a-horseman-in-the-sky": [
+   5661,
+   "A Son of the Gods, and A Horseman in the Sky"
+  ],
+  "bierce-write-it-right": [
+   12474,
+   "Write It Right: A Little Blacklist of Literary Faults"
+  ],
+  "bierce-shapes-of-clay": [
+   12658,
+   "Shapes of Clay"
+  ],
+  "bierce-cobwebs-from-an-empty-skull": [
+   12793,
+   "Cobwebs from an Empty Skull",
+   {
+    "contents_only": true
+   }
+  ],
+  "bierce-black-beetles-in-amber": [
+   12977,
+   "Black Beetles in Amber"
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-01": [
+   13541,
+   "The Collected Works of Ambrose Bierce, Volume 01"
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-08-negligibl": [
+   15599,
+   "The Collected Works of Ambrose Bierce, Volume 08 Negligible Tales, On With the Dance, Epigrams"
+  ],
+  "bierce-a-cynic-looks-at-life": [
+   16340,
+   "A Cynic Looks at Life"
+  ],
+  "bierce-damned-thing-1898-from-in-the-midst-of-life": [
+   23172,
+   "The Damned Thing 1898, From \"In the Midst of Life\""
+  ],
+  "bierce-shadow-on-the-dial-and-other-essays-1909": [
+   25304,
+   "The Shadow On The Dial, and Other Essays 1909"
+  ],
+  "bierce-letters-of-ambrose-bierce-with-a-memoir-by-george-ste": [
+   36218,
+   "The Letters of Ambrose Bierce, With a Memoir by George Sterling"
+  ],
+  "bierce-monk-and-the-hangmans-daughter": [
+   38602,
+   "The monk and the hangman's daughter (Richard Voss's story, translated and adapted by Adolphe Danziger and Ambrose Bierce)"
+  ],
+  "bierce-cynics-word-book": [
+   43951,
+   "The Cynic's Word Book"
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-12-in-motley": [
+   66345,
+   "The Collected Works of Ambrose Bierce, Volume 12 In Motley",
+   {
+    "contents_only": true
+   }
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-09-tangentia": [
+   66490,
+   "The Collected Works of Ambrose Bierce, Volume 09 Tangential Views",
+   {
+    "contents_only": true
+   }
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-10-the-opini": [
+   66576,
+   "The Collected Works of Ambrose Bierce, Volume 10 The Opinionator",
+   {
+    "contents_only": true
+   }
+  ],
+  "bierce-collected-works-of-ambrose-bierce-volume-11-antepenul": [
+   66905,
+   "The Collected Works of Ambrose Bierce, Volume 11 Antepenultimata",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58807": "PG 58807: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 4366, 13334: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "bierce-fantastic-fables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-an-occurrence-at-owl-creek-bridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-devils-dictionary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-parenticide-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-present-at-a-hanging-and-other-ghost-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-fiends-delight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-a-son-of-the-gods-and-a-horseman-in-the-sky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-write-it-right": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-shapes-of-clay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-cobwebs-from-an-empty-skull": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-black-beetles-in-amber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-08-negligibl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-a-cynic-looks-at-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-damned-thing-1898-from-in-the-midst-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-shadow-on-the-dial-and-other-essays-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-letters-of-ambrose-bierce-with-a-memoir-by-george-ste": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-monk-and-the-hangmans-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-cynics-word-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-12-in-motley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-09-tangentia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-10-the-opini": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bierce-collected-works-of-ambrose-bierce-volume-11-antepenul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ambrose bierce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

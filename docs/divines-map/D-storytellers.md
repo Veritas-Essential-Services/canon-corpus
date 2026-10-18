@@ -9717,6 +9717,38 @@ Shelf: `pipeline/stephen-crane-works_shelf.json` (2026-10-17; added at the coord
 | repeat-editions | excluded | PG 31488: second Gutenberg editions of titles already on the shelf. |
 | held-elsewhere | excluded | PG 73: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Ambrose Bierce
+
+Shelf: `pipeline/bierce-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fantastic Fables | have | PG 374, `bierce-fantastic-fables` (1460 units) |
+| An Occurrence at Owl Creek Bridge | have | PG 375, `bierce-an-occurrence-at-owl-creek-bridge` (41 units) |
+| The Devil's Dictionary | have | PG 972, `bierce-devils-dictionary` (1764 units) |
+| The Parenticide Club | have | PG 3715, `bierce-parenticide-club` (73 units) |
+| Present at a Hanging and Other Ghost Stories | have | PG 4387, `bierce-present-at-a-hanging-and-other-ghost-stories` (246 units) |
+| The Fiend's Delight | have | PG 4793, `bierce-fiends-delight` (661 units) |
+| A Son of the Gods, and A Horseman in the Sky | have | PG 5661, `bierce-a-son-of-the-gods-and-a-horseman-in-the-sky` (67 units) |
+| Write It Right: A Little Blacklist of Literary Faults | have | PG 12474, `bierce-write-it-right` (448 units) |
+| Shapes of Clay | have | PG 12658, `bierce-shapes-of-clay` (1047 units) |
+| Cobwebs from an Empty Skull | have | PG 12793, `bierce-cobwebs-from-an-empty-skull` (1526 units) |
+| Black Beetles in Amber | have | PG 12977, `bierce-black-beetles-in-amber` (1111 units) |
+| The Collected Works of Ambrose Bierce, Volume 01 | have | PG 13541, `bierce-collected-works-of-ambrose-bierce-volume-01` (641 units) |
+| The Collected Works of Ambrose Bierce, Volume 08 Negligible Tales, On With the Dance, Epigrams | have | PG 15599, `bierce-collected-works-of-ambrose-bierce-volume-08-negligibl` (1109 units) |
+| A Cynic Looks at Life | have | PG 16340, `bierce-a-cynic-looks-at-life` (271 units) |
+| The Damned Thing 1898, From "In the Midst of Life" | have | PG 23172, `bierce-damned-thing-1898-from-in-the-midst-of-life` (76 units) |
+| The Shadow On The Dial, and Other Essays 1909 | have | PG 25304, `bierce-shadow-on-the-dial-and-other-essays-1909` (463 units) |
+| The Letters of Ambrose Bierce, With a Memoir by George Sterling | have | PG 36218, `bierce-letters-of-ambrose-bierce-with-a-memoir-by-george-ste` (1486 units) |
+| The monk and the hangman's daughter (Richard Voss's story, translated and adapted by Adolphe Danziger and Ambrose Bierce) | have | PG 38602, `bierce-monk-and-the-hangmans-daughter` (427 units) |
+| The Cynic's Word Book | have | PG 43951, `bierce-cynics-word-book` (1006 units) |
+| The Collected Works of Ambrose Bierce, Volume 12 In Motley | have | PG 66345, `bierce-collected-works-of-ambrose-bierce-volume-12-in-motley` (1906 units) |
+| The Collected Works of Ambrose Bierce, Volume 09 Tangential Views | have | PG 66490, `bierce-collected-works-of-ambrose-bierce-volume-09-tangentia` (595 units) |
+| The Collected Works of Ambrose Bierce, Volume 10 The Opinionator | have | PG 66576, `bierce-collected-works-of-ambrose-bierce-volume-10-the-opini` (713 units) |
+| The Collected Works of Ambrose Bierce, Volume 11 Antepenultimata | have | PG 66905, `bierce-collected-works-of-ambrose-bierce-volume-11-antepenul` (639 units) |
+| pg-58807 | excluded | PG 58807: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 4366, 13334: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1446,3 +1446,6 @@
 
 ## 2026-10-17 20:18 CDT — stephen-crane-works: done
 - stephen-crane-works: new shelf, 13 Gutenberg books, 12,315 units, 455 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — bierce-works: done
+- bierce-works: new shelf, 23 Gutenberg books, 17,776 units, 1358 ~2 ids; verify 0 mismatches, 0 rights flags.
