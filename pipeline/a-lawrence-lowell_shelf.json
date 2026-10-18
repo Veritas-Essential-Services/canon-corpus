@@ -1,0 +1,68 @@
+{
+ "_about": "Abbott Lawrence Lowell (1856-1943), American political scientist and president of Harvard. Gutenberg: The Government of England, vol. I (1908). Raw IA OCR: The Government of England, vol. II (New York: Macmillan, 1908), clean 0.90; Public Opinion and Popular Government (New York: Longmans, 1913; this copy the new impression of 1921), clean 0.87. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "A. Lawrence Lowell",
+ "_name_words": [
+  "abbott",
+  "lawrence",
+  "lowell"
+ ],
+ "_surname": [
+  "lawrence lowell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lowell-government-of-england-1": [
+   34471,
+   "The Government of England, vol. I (1908)"
+  ]
+ },
+ "internet_archive": {
+  "lowell-government-of-england-1908-v2": [
+   "in.ernet.dli.2015.261767",
+   "The Government of England, vol. II (Macmillan, 1908)"
+  ],
+  "lowell-public-opinion-popular-government-1921": [
+   "publicopinionan01lowegoog",
+   "Public Opinion and Popular Government (Longmans, 1913; impression of 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "lowell-government-of-england-1908-v2": {
+   "author": "A. Lawrence Lowell (title page OCR drops the name: 'THE GOVERNMENT OF ENGLAND BY PKOFESSOR OF THE SCIENCE OF GOVERNMENT IN HARVAEB'; verso 'Copyright, 1908, By A. LAWRENCE LOWELL')"
+  }
+ },
+ "_checks": {
+  "lowell-government-of-england-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lawrence lowell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lowell-government-of-england-1908-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lawrence lowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lowell-public-opinion-popular-government-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lawrence lowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

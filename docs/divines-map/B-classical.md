@@ -7246,6 +7246,9 @@ Shelf: `pipeline/a-lawrence-lowell_shelf.json`. Three volumes, 1908-1913.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Government of England, vol. I (1908) |  | `lowell-government-of-england-1` | have (PG 34471) |
+| The Government of England, vol. II (Macmillan, 1908) |  | `lowell-government-of-england-1908-v2` | have-raw (IA `in.ernet.dli.2015.261767`) |
+| Public Opinion and Popular Government (Longmans, 1913; impression of 1921) |  | `lowell-public-opinion-popular-government-1921` | have-raw (IA `publicopinionan01lowegoog`) |
 
 ## Edward Alsworth Ross (sociology)
 
