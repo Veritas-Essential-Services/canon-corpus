@@ -5772,6 +5772,7 @@ Shelf: `pipeline/johann-caspar-bluntschli_shelf.json`. The Oxford translation of
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Theory of the State, tr. D. G. Ritchie, P. E. Matheson and R. Lodge (Oxford: Clarendon Press, 1885) | Ritchie | `bluntschli-theory-of-the-state-1885` | have-raw (IA `theoryofstate00blun`) |
 
 ## Heinrich von Treitschke (politics)
 
