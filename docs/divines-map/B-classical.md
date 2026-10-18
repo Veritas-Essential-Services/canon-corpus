@@ -6808,6 +6808,10 @@ Shelf: `pipeline/john-neville-figgis_shelf.json`. Political theory; sermons left
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Theory of the Divine Right of Kings (Cambridge, 1896) |  | `figgis-divine-right-of-kings-1896` | have-raw (IA `theorydivinerig00figggoog`) |
+| Studies of Political Thought from Gerson to Grotius (Cambridge, 1907) |  | `figgis-gerson-to-grotius-1907` | have-raw (IA `studiesofpolitic00figguoft`) |
+| Civilisation at the Cross Roads (Longmans, 1912) |  | `figgis-civilisation-at-the-cross-roads-1912` | have-raw (IA `cu31924029236994`) |
+| The Will to Freedom (Scribner's, 1917) |  | `figgis-will-to-freedom-1917` | have-raw (IA `willtofreedomorg0000figg`) |
 
 Pending (wishlist): Churches in the Modern State (1913) in a dated scan
 

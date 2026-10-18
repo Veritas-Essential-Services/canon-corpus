@@ -1,0 +1,79 @@
+{
+ "_about": "John Neville Figgis (1866-1919), Cambridge historian of political thought and pluralist. This shelf takes his political theory; his sermons and devotional books are left for the Divines lane. Raw IA OCR: The Theory of the Divine Right of Kings, Prince Consort Dissertation (Cambridge: University Press, 1896), clean 0.90; Studies of Political Thought from Gerson to Grotius, 1414-1625 (Cambridge: University Press, 1907), clean 0.95; Civilisation at the Cross Roads (London: Longmans, 1912), clean 0.94; The Will to Freedom, or the Gospel of Nietzsche and the Gospel of Christ, Bross Lectures (New York: Scribner's, 1917), clean 0.90. Held: Churches in the Modern State (1913), whose scans show no title page or year (one IA item so labelled is another book). Not to be confused with the Irish writer Darrell Figgis. US public domain. No uids minted.",
+ "_author": "John Neville Figgis",
+ "_name_words": [
+  "john",
+  "neville",
+  "figgis"
+ ],
+ "_surname": [
+  "figgis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "figgis-divine-right-of-kings-1896": [
+   "theorydivinerig00figggoog",
+   "The Theory of the Divine Right of Kings (Cambridge, 1896)"
+  ],
+  "figgis-gerson-to-grotius-1907": [
+   "studiesofpolitic00figguoft",
+   "Studies of Political Thought from Gerson to Grotius (Cambridge, 1907)"
+  ],
+  "figgis-civilisation-at-the-cross-roads-1912": [
+   "cu31924029236994",
+   "Civilisation at the Cross Roads (Longmans, 1912)"
+  ],
+  "figgis-will-to-freedom-1917": [
+   "willtofreedomorg0000figg",
+   "The Will to Freedom (Scribner's, 1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "figgis-divine-right-of-kings-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "figgis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "figgis-gerson-to-grotius-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "figgis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "figgis-civilisation-at-the-cross-roads-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "figgis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "figgis-will-to-freedom-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "figgis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
