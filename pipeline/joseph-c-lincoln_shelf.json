@@ -1,0 +1,298 @@
+{
+ "_about": "Joseph C. Lincoln's Cape Cod novels and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Joseph C. Lincoln",
+ "_name_words": [
+  "lincoln"
+ ],
+ "_surname": [
+  "joseph c. lincoln",
+  "joseph crosby lincoln"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jclincoln-keziah-coffin": [
+   2068,
+   "Keziah Coffin",
+   {
+    "contents_only": true
+   }
+  ],
+  "jclincoln-depot-master": [
+   2307,
+   "The Depot Master",
+   {
+    "contents_only": true
+   }
+  ],
+  "jclincoln-woman-haters": [
+   2372,
+   "The Woman-Haters",
+   {
+    "contents_only": true
+   }
+  ],
+  "jclincoln-shavings": [
+   2452,
+   "Shavings: A Novel"
+  ],
+  "jclincoln-mary-gusta": [
+   2473,
+   "Mary-'Gusta"
+  ],
+  "jclincoln-thankfuls-inheritance": [
+   2552,
+   "Thankful's Inheritance"
+  ],
+  "jclincoln-rise-of-roscoe-paine": [
+   3137,
+   "The Rise of Roscoe Paine"
+  ],
+  "jclincoln-capn-eri": [
+   3240,
+   "Cap'n Eri",
+   {
+    "contents_only": true
+   }
+  ],
+  "jclincoln-portygee": [
+   3263,
+   "The Portygee"
+  ],
+  "jclincoln-capn-warrens-wards": [
+   3280,
+   "Cap'n Warren's Wards"
+  ],
+  "jclincoln-cy-whittakers-place": [
+   3281,
+   "Cy Whittaker's Place",
+   {
+    "contents_only": true
+   }
+  ],
+  "jclincoln-galusha-the-magnificent": [
+   4905,
+   "Galusha the Magnificent"
+  ],
+  "jclincoln-cape-cod-stories": [
+   5195,
+   "Cape Cod Stories"
+  ],
+  "jclincoln-kent-knowles": [
+   5980,
+   "Kent Knowles: Quahaug"
+  ],
+  "jclincoln-capn-dans-daughter": [
+   6718,
+   "Cap'n Dan's Daughter"
+  ],
+  "jclincoln-cape-cod-ballads-and-other-verse": [
+   11351,
+   "Cape Cod Ballads, and Other Verse"
+  ],
+  "jclincoln-fair-harbor": [
+   22745,
+   "Fair Harbor"
+  ],
+  "jclincoln-postmaster": [
+   37482,
+   "The Postmaster"
+  ],
+  "jclincoln-big-mogul": [
+   68048,
+   "The Big Mogul"
+  ],
+  "jclincoln-partners-of-the-tide": [
+   78581,
+   "Partners of the tide",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-29467": "PG 29467: Gutenberg's index of Lincoln's works, not a book."
+ },
+ "_checks": {
+  "jclincoln-keziah-coffin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-depot-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-woman-haters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-shavings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-mary-gusta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-thankfuls-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-rise-of-roscoe-paine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-capn-eri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph crosby lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-portygee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph crosby lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-capn-warrens-wards": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-cy-whittakers-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-galusha-the-magnificent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-cape-cod-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-kent-knowles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-capn-dans-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-cape-cod-ballads-and-other-verse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-fair-harbor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-postmaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-big-mogul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jclincoln-partners-of-the-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph c. lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

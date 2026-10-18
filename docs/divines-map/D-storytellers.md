@@ -10122,6 +10122,34 @@ Shelf: `pipeline/lester-chadwick_shelf.json` (2026-10-17; added at the coordinat
 | Baseball Joe Saving the League; or, Breaking Up a Great Conspiracy | have | PG 59169, `lchadwick-baseball-joe-saving-the-league` (1292 units) |
 | Baseball Joe, champion of the league | have | PG 73737, `lchadwick-baseball-joe-champion-of-the-league` (1599 units) |
 
+## Joseph C. Lincoln
+
+Shelf: `pipeline/joseph-c-lincoln_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cape Cod novels and stories. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Keziah Coffin | have | PG 2068, `jclincoln-keziah-coffin` (2850 units) |
+| The Depot Master | have | PG 2307, `jclincoln-depot-master` (2384 units) |
+| The Woman-Haters | have | PG 2372, `jclincoln-woman-haters` (2114 units) |
+| Shavings: A Novel | have | PG 2452, `jclincoln-shavings` (3236 units) |
+| Mary-'Gusta | have | PG 2473, `jclincoln-mary-gusta` (3097 units) |
+| Thankful's Inheritance | have | PG 2552, `jclincoln-thankfuls-inheritance` (3178 units) |
+| The Rise of Roscoe Paine | have | PG 3137, `jclincoln-rise-of-roscoe-paine` (4433 units) |
+| Cap'n Eri | have | PG 3240, `jclincoln-capn-eri` (2075 units) |
+| The Portygee | have | PG 3263, `jclincoln-portygee` (3126 units) |
+| Cap'n Warren's Wards | have | PG 3280, `jclincoln-capn-warrens-wards` (3089 units) |
+| Cy Whittaker's Place | have | PG 3281, `jclincoln-cy-whittakers-place` (2379 units) |
+| Galusha the Magnificent | have | PG 4905, `jclincoln-galusha-the-magnificent` (3736 units) |
+| Cape Cod Stories | have | PG 5195, `jclincoln-cape-cod-stories` (1272 units) |
+| Kent Knowles: Quahaug | have | PG 5980, `jclincoln-kent-knowles` (3534 units) |
+| Cap'n Dan's Daughter | have | PG 6718, `jclincoln-capn-dans-daughter` (3055 units) |
+| Cape Cod Ballads, and Other Verse | have | PG 11351, `jclincoln-cape-cod-ballads-and-other-verse` (563 units) |
+| Fair Harbor | have | PG 22745, `jclincoln-fair-harbor` (3256 units) |
+| The Postmaster | have | PG 37482, `jclincoln-postmaster` (1862 units) |
+| The Big Mogul | have | PG 68048, `jclincoln-big-mogul` (3088 units) |
+| Partners of the tide | have | PG 78581, `jclincoln-partners-of-the-tide` (2587 units) |
+| pg-29467 | excluded | PG 29467: Gutenberg's index of Lincoln's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
