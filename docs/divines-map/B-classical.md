@@ -7199,6 +7199,9 @@ Shelf: `pipeline/john-william-draper_shelf.json`. Three volumes, 1863-1874.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| History of the Intellectual Development of Europe, vol. 1 |  | `draper-intellectual-development-europe-1` | have (PG 31345) |
+| History of the Intellectual Development of Europe, vol. 2 |  | `draper-intellectual-development-europe-2` | have (PG 34051) |
+| History of the Conflict Between Religion and Science (1874) |  | `draper-conflict-religion-and-science` | have (PG 1185) |
 
 ## Andrew Dickson White (science and theology)
 
