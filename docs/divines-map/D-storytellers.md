@@ -7199,6 +7199,35 @@ Shelf: `pipeline/aew-mason_shelf.json` (2026-10-17; added at the coordinator's r
 | The House of the Arrow | have | PG 67514, `aewmason-house-of-the-arrow` (2623 units) |
 | The Royal Exchange | have | PG 75944, `aewmason-royal-exchange` (102 units) |
 
+## W. W. Jacobs
+
+Shelf: `pipeline/ww-jacobs_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic tales of the sea and tales of terror. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Many cargoes | have | PG 5758, `wwjacobs-many-cargoes` (2431 units) |
+| Short Cruises | have | PG 6465, `wwjacobs-short-cruises` (1792 units) |
+| Ship's Company, the Entire Collection | have | PG 10573, `wwjacobs-ships-company-the-entire-collection` (1587 units) |
+| Sailors' Knots (Entire Collection) | have | PG 10793, `wwjacobs-sailors-knots-entire-collection` (1735 units) |
+| At Sunwich Port [complete] | have | PG 10876, `wwjacobs-at-sunwich-port-complete` (2040 units) |
+| Captains All and Others | have | PG 11191, `wwjacobs-captains-all-and-others` (1303 units) |
+| Deep Waters | have | PG 11482, `wwjacobs-deep-waters` (1478 units) |
+| Dialstone Lane [complete] | have | PG 11976, `wwjacobs-dialstone-lane-complete` (2151 units) |
+| The Lady of the Barge and Others, Entire Collection | have | PG 12133, `wwjacobs-lady-of-the-barge-and-others-entire-collection` (1636 units) |
+| Night watches [complete] | have | PG 12161, `wwjacobs-night-watches-complete` (1280 units) |
+| Odd craft [complete] | have | PG 12215, `wwjacobs-odd-craft-complete` (1980 units) |
+| The Ghost of Jerry Bundler (play, with Charles Rock) | have | PG 18677, `wwjacobs-ghost-of-jerry-bundler` (250 units) |
+| The skipper's wooing, and The brown man's servant | have | PG 21336, `wwjacobs-skippers-wooing-and-the-brown-mans-servant` (1560 units) |
+| Light Freights | have | PG 21928, `wwjacobs-light-freights` (2043 units) |
+| A master of craft | have | PG 21929, `wwjacobs-a-master-of-craft` (2334 units) |
+| Salthaven | have | PG 21930, `wwjacobs-salthaven` (2178 units) |
+| Sea urchins | have | PG 21931, `wwjacobs-sea-urchins` (1898 units) |
+| More cargoes 1897 | have | PG 25769, `wwjacobs-more-cargoes-1897` (1904 units) |
+| Sea whispers | have | PG 78235, `wwjacobs-sea-whispers` (1597 units) |
+| split-parts | excluded | Gutenberg's one-story-per-file splits of Ship's Company, Sailors' Knots, Deep Waters, Captains All, The Lady of the Barge, Odd Craft, At Sunwich Port, Dialstone Lane and Night Watches: each collection's entire-collection edition is on the shelf instead. |
+| pg-28701 | excluded | PG 28701: Gutenberg's index of Jacobs's stories, not a book. |
+| pg-21927 | excluded | PG 21927 Short Cruises: a second Gutenberg edition of a title already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

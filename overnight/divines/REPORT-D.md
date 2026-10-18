@@ -1275,3 +1275,6 @@
 
 ## 2026-10-17 19:00 CDT — aew-mason: done
 - aew-mason: new shelf, 22 Gutenberg books, 40,747 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:00 CDT — ww-jacobs: done
+- ww-jacobs: new shelf, 19 Gutenberg books, 33,177 units, 158 ~2 ids; verify 0 mismatches, 0 rights flags.
