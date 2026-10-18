@@ -3125,6 +3125,14 @@
       "started": "2026-10-17T20:18:45-05:00",
       "finished": "2026-10-17T20:18:45-05:00",
       "notes": "bierce-works: new shelf, 23 Gutenberg books, 17,776 units, 1358 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "o-henry-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — O. Henry; no minting",
+      "status": "done",
+      "started": "2026-10-17T20:30:47-05:00",
+      "finished": "2026-10-17T20:30:48-05:00",
+      "notes": "o-henry-works: new shelf, 16 Gutenberg books, 18,991 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

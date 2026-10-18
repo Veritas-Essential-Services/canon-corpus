@@ -1449,3 +1449,6 @@
 
 ## 2026-10-17 20:18 CDT — bierce-works: done
 - bierce-works: new shelf, 23 Gutenberg books, 17,776 units, 1358 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:30 CDT — o-henry-works: done
+- o-henry-works: new shelf, 16 Gutenberg books, 18,991 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -30982,6 +30982,32 @@ Shelf: `pipeline/bierce-works_shelf.json` (2026-10-17; added at the coordinator'
 | pg-58807 | excluded | PG 58807: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 4366, 13334: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## O. Henry
+
+Shelf: `pipeline/o-henry-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Voice of the City: Further Stories of the Four Million | have | PG 1444, `ohenry-voice-of-the-city` (1216 units) |
+| Options | have | PG 1583, `ohenry-options` (1468 units) |
+| Roads of Destiny | have | PG 1646, `ohenry-roads-of-destiny` (1858 units) |
+| Heart of the West | have | PG 1725, `ohenry-heart-of-the-west` (1603 units) |
+| The Gentle Grafter | have | PG 1805, `ohenry-gentle-grafter` (995 units) |
+| Strictly Business: More Stories of the Four Million | have | PG 2141, `ohenry-strictly-business` (1557 units) |
+| Waifs and strays [part 1] | have | PG 2295, `ohenry-waifs-and-strays-part-1` (604 units) |
+| The Four Million | have | PG 2776, `ohenry-four-million` (1114 units) |
+| Cabbages and Kings | have | PG 2777, `ohenry-cabbages-and-kings` (1118 units) |
+| Sixes and Sevens | have | PG 2851, `ohenry-sixes-and-sevens` (1416 units) |
+| The Trimmed Lamp, and Other Stories of the Four Million | have | PG 3707, `ohenry-trimmed-lamp-and-other-stories-of-the-four-million` (1301 units) |
+| Rolling Stones | have | PG 3815, `ohenry-rolling-stones` (1824 units) |
+| The Gift of the Magi | have | PG 7256, `ohenry-gift-of-the-magi` (47 units) |
+| O. Henry Encore | have | PG 61701, `ohenry-o-henry-encore` (1419 units) |
+| Postscripts | have | PG 61734, `ohenry-postscripts` (1206 units) |
+| O. Henryana: Seven Odds and Ends, Poetry and Short Stories | have | PG 61755, `ohenry-o-henryana` (245 units) |
+| pg-59637 | excluded | PG 59637: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 1595: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-13094 | excluded | PG 13094 Heart of the West [Annotated]: the Gutenberg header marks this annotated edition COPYRIGHTED; the rights gate refuses it. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
