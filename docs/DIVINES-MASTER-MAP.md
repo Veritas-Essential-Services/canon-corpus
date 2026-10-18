@@ -6789,6 +6789,16 @@ Slugs `scaramelli-*`. Jesuit: the Directorium asceticum in English.
 | Fifth (1902), seventh (1917) and eighth (1924) editions | alternate | not shelved |
 | The 2005 reprint of Nicholson's Handbook of Mystical Theology | excluded | |
 | Latin, French and German editions | excluded | |
+
+## Louis Lallemant (round 30, my pick, 2026-10-18)
+
+Slugs `lallemant-*`. Jesuit: The Spiritual Doctrine in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spiritual Doctrine of Father Louis Lallemant, translated from the French, ed. Frederick William Faber (London: Burns & Lambert, 1855) | have-ocr | IA `spiritualdoctri00fabegoog` |
+| Other 1855 copies; Sadlier's new edition (copyright 1885) | alternate | not shelved |
+| The 1946 edition and modern anthologies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
