@@ -3413,6 +3413,14 @@
       "started": "2026-10-17T21:58:59-05:00",
       "finished": "2026-10-17T21:59:00-05:00",
       "notes": "stacpoole: new shelf, 34 Gutenberg books, 47,023 units, 1608 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "gertrude-atherton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Gertrude Atherton; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:59:00-05:00",
+      "finished": "2026-10-17T21:59:01-05:00",
+      "notes": "gertrude-atherton: new shelf, 32 Gutenberg books, 43,659 units, 9527 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

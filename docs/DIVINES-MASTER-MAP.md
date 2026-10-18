@@ -34056,6 +34056,45 @@ Shelf: `pipeline/stacpoole_shelf.json` (2026-10-17; added at the coordinator's r
 | The city in the sea | have | PG 75608, `hdvstacpoole-city-in-the-sea` (1972 units) |
 | The romance of Captain Duffy | have | PG 77920, `hdvstacpoole-romance-of-captain-duffy` (104 units) |
 
+## Gertrude Atherton
+
+Shelf: `pipeline/gertrude-atherton_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (32 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Valiant Runaways | have | PG 3706, `gatherton-valiant-runaways` (990 units) |
+| Senator North | have | PG 6091, `gatherton-senator-north` (1677 units) |
+| Sleeping Fires: a Novel | have | PG 6884, `gatherton-sleeping-fires` (1108 units) |
+| The Avalanche: A Mystery Story | have | PG 7863, `gatherton-avalanche` (822 units) |
+| The Sisters-In-Law: A Novel of Our Time | have | PG 8535, `gatherton-sisters-in-law` (2322 units) |
+| The Doomswoman: An Historical Romance of Old California | have | PG 12270, `gatherton-doomswoman` (964 units) |
+| The Splendid Idle Forties: Stories of Old California | have | PG 12697, `gatherton-splendid-idle-forties` (1842 units) |
+| What Dreams May Come | have | PG 12833, `gatherton-what-dreams-may-come` (506 units) |
+| The Conqueror: Being the True and Romantic Story of Alexander Hamilton | have | PG 13246, `gatherton-conqueror` (1884 units) |
+| The White Morning: A Novel of the Power of the German Women in Wartime | have | PG 13496, `gatherton-white-morning` (432 units) |
+| The Living Present | have | PG 14197, `gatherton-living-present` (854 units) |
+| The Bell in the Fog and Other Stories | have | PG 14256, `gatherton-bell-in-the-fog-and-other-stories` (1058 units) |
+| The Californians | have | PG 21903, `gatherton-californians` (1620 units) |
+| Black Oxen | have | PG 25542, `gatherton-black-oxen` (2144 units) |
+| The Gorgeous Isle: A Romance; Scene-- Nevis, B.W.I. 1842 | have | PG 30502, `gatherton-gorgeous-isle` (541 units) |
+| Ancestors: A Novel | have | PG 31858, `gatherton-ancestors` (2266 units) |
+| A Daughter of the Vine | have | PG 35512, `gatherton-a-daughter-of-the-vine` (1148 units) |
+| Mrs. Balfame: A Novel | have | PG 39443, `gatherton-mrs-balfame` (1594 units) |
+| Life in the War Zone | have | PG 48160, `gatherton-life-in-the-war-zone` (185 units) |
+| Hermia Suydam | have | PG 50169, `gatherton-hermia-suydam` (772 units) |
+| The Travelling Thirds | have | PG 50391, `gatherton-travelling-thirds` (850 units) |
+| Mrs. Pendleton's Four-in-hand | have | PG 51059, `gatherton-mrs-pendletons-four-in-hand` (415 units) |
+| Patience Sparhawk and Her Times: A Novel | have | PG 53009, `gatherton-patience-sparhawk-and-her-times` (3029 units) |
+| Tower of Ivory: A Novel | have | PG 56340, `gatherton-tower-of-ivory` (1993 units) |
+| Julia France and Her Times: A Novel | have | PG 57922, `gatherton-julia-france-and-her-times` (3168 units) |
+| The Crystal Cup | have | PG 65310, `gatherton-crystal-cup` (1843 units) |
+| A Whirl Asunder | have | PG 67075, `gatherton-a-whirl-asunder` (710 units) |
+| His fortunate Grace | have | PG 68222, `gatherton-his-fortunate-grace` (755 units) |
+| Perch of the Devil | have | PG 69429, `gatherton-perch-of-the-devil` (2305 units) |
+| Rulers of kings: A novel | have | PG 69460, `gatherton-rulers-of-kings` (1440 units) |
+| The aristocrats | have | PG 72957, `gatherton-aristocrats` (758 units) |
+| Transplanted | have | PG 72997, `gatherton-transplanted` (1664 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
