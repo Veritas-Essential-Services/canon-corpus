@@ -6031,6 +6031,9 @@ Shelf: `pipeline/f-w-maitland_shelf.json`. Three works, 1897-1908. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Domesday Book and Beyond (Cambridge, 1897) |  | `maitland-domesday-book-and-beyond-1897` | have (PG 43255) |
+| English Law and the Renaissance, Rede Lecture (Cambridge, 1901) |  | `maitland-english-law-renaissance-1901` | have (PG 54251) |
+| The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909) |  | `maitland-constitutional-history-1908` | have-raw (IA `constitutionalh00mait`) |
 
 Pending (wishlist): The History of English Law before the Time of Edward I, with Pollock (1895, 2 vols.)
 

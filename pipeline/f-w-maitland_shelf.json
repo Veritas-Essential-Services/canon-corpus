@@ -1,0 +1,61 @@
+{
+ "_about": "F. W. Maitland (1850-1906), historian of English law: Domesday Book and Beyond, three essays in the early history of England (Cambridge: University Press, 1897) and English Law and the Renaissance, the Rede Lecture for 1901 (Cambridge, 1901), clean Gutenberg texts; The Constitutional History of England, a course of lectures, edited by H. A. L. Fisher (Cambridge: University Press, 1908; this copy the 1909 reprint), raw IA OCR, clean 0.93. His translation of Gierke stands on the otto-von-gierke shelf. US public domain. No uids minted.",
+ "_author": "F. W. Maitland",
+ "_name_words": [
+  "frederic",
+  "william",
+  "maitland"
+ ],
+ "_surname": [
+  "maitland"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "maitland-domesday-book-and-beyond-1897": [
+   43255,
+   "Domesday Book and Beyond (Cambridge, 1897)"
+  ],
+  "maitland-english-law-renaissance-1901": [
+   54251,
+   "English Law and the Renaissance, Rede Lecture (Cambridge, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "maitland-constitutional-history-1908": [
+   "constitutionalh00mait",
+   "The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "maitland-domesday-book-and-beyond-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maitland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maitland-english-law-renaissance-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maitland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maitland-constitutional-history-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
