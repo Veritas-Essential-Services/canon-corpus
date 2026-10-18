@@ -1603,3 +1603,6 @@
 
 ## 2026-10-17 21:37 CDT — john-williams-of-the-south-seas done
 - `pipeline/john-williams-of-the-south-seas_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — adrian-fortescue done
+- `pipeline/adrian-fortescue_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.

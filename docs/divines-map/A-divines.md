@@ -7695,3 +7695,18 @@ Slugs `jwilliams-*`. Built from title pages read for round 33.
 | A Narrative of Missionary Enterprises in the South Sea Islands, twenty-fifth thousand (London: John Snow, 1840) | have-ocr | IA `narrativeofmissi00willrich` |
 | The 1837 first printings (b29348171_0001, fourth thousand; anarrativemissi00willgoog, sixth thousand), whose author lines are garbled in the OCR; the Philadelphia abridgement (1888) | alternate | not shelved |
 | The Campbell and Prout lives | excluded | |
+
+## Adrian Fortescue (round 33, my pick, 2026-10-18)
+
+Slugs `fortescue-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Orthodox Eastern Church (London: Catholic Truth Society, 1907) | have-ocr | IA `orthodoxeasternc00fort` |
+| The Greek Fathers (London: Catholic Truth Society; St. Louis: B. Herder, 1908) | have-ocr | IA `thegreekfathers00fortuoft` |
+| The Mass: a Study of the Roman Liturgy (London: Longmans, Green, 1912) | have-ocr | IA `cu31924029398553` |
+| The Lesser Eastern Churches (London: Catholic Truth Society; title page undated, preface 1913) | have-ocr | IA `lessereasternchu00fortuoft` |
+| Donatism (London: Burns & Oates, 1917) | have-ocr | IA `a622030600fortuoft` |
+| The Ceremonies of the Roman Rite Described (London: Burns & Oates, MCMXVIII) | have-ocr | IA `ceremoniesofroma00fort` |
+| The 1917 new impression of The Mass; the 1920 Ceremonies revised for the Code of Canon Law; other copies | alternate | not shelved |
+| The Uniate Eastern Churches in a 1957 printing catalogued 1923; Ignatius Press reprints; the memoir of him; single encyclopedia articles | excluded | |
