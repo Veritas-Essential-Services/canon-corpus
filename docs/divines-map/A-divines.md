@@ -8380,3 +8380,19 @@ Slugs `-*`. Built from title pages read for round 35.
 | A New History of the Book of Common Prayer, on the basis of the former work by Francis Procter, revised and rewritten by Walter Howard Frere (London and New York: Macmillan, 1902) | have-ocr | IA `newhistoryofbook00proc_0` |
 | Another 1855 copy; New History 1910 printings (catalogued 1901 and 1907 in error); later editions of the History (1864-1892, not read) | alternate | not shelved |
 | Breviarium Sarum (a Latin text he edited with Wordsworth); Hardwick's books, which he only edited | excluded | |
+
+## John Henry Blunt (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Annotated Book of Common Prayer, being an Historical, Ritual, and Theological Commentary on the Devotional System of the Church of England, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1866) | have-ocr | IA `annotatedbookcom00blun` |
+| Dictionary of Doctrinal and Historical Theology, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1870) | have-ocr | IA `dictionaryofdoct00blun` |
+| Dictionary of Sects, Heresies, Ecclesiastical Parties, and Schools of Religious Thought, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1874) | have-ocr | IA `dictionaryofsect00blunuoft` |
+| The Reformation of the Church of England, vol. I, A.D. 1514-1547 (Philadelphia: J. B. Lippincott; London: Rivingtons, 1869) | have-ocr | IA `cu31924029245467` |
+| The Reformation of the Church of England, vol. II, A.D. 1547-1662 (London: Rivingtons, 1882) | have-ocr | IA `reformationchur04blungoog` |
+| Directorium Pastorale: Principles and Practice of Pastoral Work in the Church of England (London and Oxford: Rivingtons, 1864) | have-ocr | IA `directoriumpast00blunuoft` |
+| Household Theology: a handbook of religious information, third edition (London: Rivingtons, 1868) | have-ocr | IA `householdtheolog00blunuoft` |
+| Dictionary of Doctrinal second edition (1872); another 1874 Dictionary of Sects; a 1882 Reformation vol. I (catalogued as vol. II in error); the 1866 Annotated BCP Part I issue | alternate | not shelved |
+| A Key to the Knowledge of Church History (PG 22017, 1877; IA 1871): Blunt only edited it, and the preface is signed 'M. F. B. P.' | excluded | |

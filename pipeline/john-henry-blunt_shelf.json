@@ -1,0 +1,140 @@
+{
+ "_about": "Public-domain John Henry Blunt (1823-1884), Anglican church historian and liturgist, for the Word Hoard: The Annotated Book of Common Prayer (1866), the Dictionary of Doctrinal and Historical Theology (1870) and the Dictionary of Sects, Heresies, Ecclesiastical Parties and Schools of Religious Thought (1874), both edited by him, The Reformation of the Church of England (vol. I, 1869; vol. II, 1882), Directorium Pastorale (1864) and Household Theology (third edition, 1868), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "blunt"
+ ],
+ "_surname": [
+  "john henry blunt",
+  "j. h. blunt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jhblunt-annotated-bcp": [
+   "annotatedbookcom00blun",
+   "The Annotated Book of Common Prayer, being an Historical, Ritual, and Theological Commentary on the Devotional System of the Church of England, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1866)"
+  ],
+  "jhblunt-dictionary-doctrinal": [
+   "dictionaryofdoct00blun",
+   "Dictionary of Doctrinal and Historical Theology, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1870)"
+  ],
+  "jhblunt-dictionary-sects": [
+   "dictionaryofsect00blunuoft",
+   "Dictionary of Sects, Heresies, Ecclesiastical Parties, and Schools of Religious Thought, edited by John Henry Blunt (London, Oxford and Cambridge: Rivingtons, 1874)"
+  ],
+  "jhblunt-reformation-1": [
+   "cu31924029245467",
+   "The Reformation of the Church of England, vol. I, A.D. 1514-1547 (Philadelphia: J. B. Lippincott; London: Rivingtons, 1869)"
+  ],
+  "jhblunt-reformation-2": [
+   "reformationchur04blungoog",
+   "The Reformation of the Church of England, vol. II, A.D. 1547-1662 (London: Rivingtons, 1882)"
+  ],
+  "jhblunt-directorium-pastorale": [
+   "directoriumpast00blunuoft",
+   "Directorium Pastorale: Principles and Practice of Pastoral Work in the Church of England (London and Oxford: Rivingtons, 1864)"
+  ],
+  "jhblunt-household-theology": [
+   "householdtheolog00blunuoft",
+   "Household Theology: a handbook of religious information, third edition (London: Rivingtons, 1868)"
+  ]
+ },
+ "_alternates": {
+  "jhblunt-copies": "Dictionary of Doctrinal second edition (1872); another 1874 Dictionary of Sects; a 1882 Reformation vol. I (catalogued as vol. II in error); the 1866 Annotated BCP Part I issue"
+ },
+ "_excluded": {
+  "jhblunt-key": "A Key to the Knowledge of Church History (PG 22017, 1877; IA 1871): Blunt only edited it, and the preface is signed 'M. F. B. P.'"
+ },
+ "_identity_checked": {
+  "jhblunt-directorium-pastorale": {
+   "author": "title page read: 'Rev. John Henry Blunt' (OCR 'HENBY')"
+  }
+ },
+ "_rights_checked": {
+  "jhblunt-dictionary-doctrinal": "title page read: a many-contributor dictionary, Blunt named as editor (the Dictionary of Sects likewise)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jhblunt-annotated-bcp": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhblunt-dictionary-doctrinal": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. h. blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: a many-contributor dictionary, Blunt named as editor (the Dictionary of Sects likewise)"
+  },
+  "jhblunt-dictionary-sects": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhblunt-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhblunt-reformation-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhblunt-directorium-pastorale": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhblunt-household-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
