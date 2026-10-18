@@ -8959,6 +8959,21 @@ Slugs `ndhillis-*`. Built from title pages read for round 36.
 | The Great Refusal and Other Evangelistic Sermons (New York, Chicago, Toronto: Fleming H. Revell; copyright 1923) | have-ocr | IA `greatrefusalothe00hill` |
 | Later editions of Man's Value and Investment (PG 28875, PG 17274); Right Living as a Fine Art (PG 36695, 1903); The Quest of John Chapman, a novel (1904) | alternate | not shelved |
 | His war books (PG 18557, 49515, 22821); Beecher's and Swing's books, which he edited | excluded | |
+
+## Charles M. Sheldon (round 36, my pick, 2026-10-18)
+
+Slugs `cmsheldon-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| In His Steps: 'What Would Jesus Do?' (Chicago: Advance Publishing Co., 1897) | have-ocr | IA `inhisstepswhatwo00shel` |
+| His Brother's Keeper, or Christian Stewardship (Boston and Chicago: Congregational Sunday-School and Publishing Society; copyright 1896) | have-ocr | IA `cu31924022163632` |
+| For Christ and the Church (Chicago, New York, Toronto: Fleming H. Revell, 1899) | have-ocr | IA `forchristchurch00shel` |
+| In His Steps To-day: What Would Jesus Do in Solving the Problems of Present Political, Economic and Social Life? (New York and Chicago: Fleming H. Revell; copyright 1921) | have-ocr | IA `inhisstepstodayw00shel` |
+| The Mere Man and His Problems (New York and Chicago: Fleming H. Revell; copyright 1924) | have-ocr | IA `meremanhisproble0000char` |
+| Charles M. Sheldon: His Life Story (New York: George H. Doran; copyright 1925) | have-ocr | IA `charlesmsheldonh00shel` |
+| CCEL sheldon/ihsteps and PG 4540 (no print source stated); his other novels on Gutenberg (PG 20983, 18171, 26309, 48616); Lend a Hand (1899); Modern Pagans (1917); 'Jesus is Here!' (1914); His Mother's Prayers (1903) | alternate | not shelved |
+| The Everyday Bible (1924), an abridged Bible text he edited; modern reprints; books illustrated by the artist Charles Mills Sheldon | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1858,3 +1858,6 @@
 
 ## 2026-10-17 22:49 CDT — newell-dwight-hillis done
 - `pipeline/newell-dwight-hillis_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for ndhillis-influence-christ (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:49 CDT — charles-m-sheldon done
+- `pipeline/charles-m-sheldon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.

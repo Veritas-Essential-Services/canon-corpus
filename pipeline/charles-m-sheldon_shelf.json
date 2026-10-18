@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Charles M. Sheldon (1857-1946), Congregationalist pastor of Topeka, Kansas, for the Word Hoard: In His Steps: 'What Would Jesus Do?' in its first edition (Chicago: Advance, 1897), His Brother's Keeper (1896), For Christ and the Church (1899), In His Steps To-day (1921), The Mere Man and His Problems (1924) and his autobiography (1925), from Internet Archive scans. Most are 'sermon stories', religious novels read aloud to his congregation; each is flagged. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sheldon"
+ ],
+ "_surname": [
+  "charles m. sheldon",
+  "sheldon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cmsheldon-in-his-steps": [
+   "inhisstepswhatwo00shel",
+   "In His Steps: 'What Would Jesus Do?' (Chicago: Advance Publishing Co., 1897)"
+  ],
+  "cmsheldon-brothers-keeper": [
+   "cu31924022163632",
+   "His Brother's Keeper, or Christian Stewardship (Boston and Chicago: Congregational Sunday-School and Publishing Society; copyright 1896)"
+  ],
+  "cmsheldon-christ-and-church": [
+   "forchristchurch00shel",
+   "For Christ and the Church (Chicago, New York, Toronto: Fleming H. Revell, 1899)"
+  ],
+  "cmsheldon-in-his-steps-today": [
+   "inhisstepstodayw00shel",
+   "In His Steps To-day: What Would Jesus Do in Solving the Problems of Present Political, Economic and Social Life? (New York and Chicago: Fleming H. Revell; copyright 1921)"
+  ],
+  "cmsheldon-mere-man": [
+   "meremanhisproble0000char",
+   "The Mere Man and His Problems (New York and Chicago: Fleming H. Revell; copyright 1924)"
+  ],
+  "cmsheldon-life-story": [
+   "charlesmsheldonh00shel",
+   "Charles M. Sheldon: His Life Story (New York: George H. Doran; copyright 1925)"
+  ]
+ },
+ "_alternates": {
+  "cmsheldon-copies": "CCEL sheldon/ihsteps and PG 4540 (no print source stated); his other novels on Gutenberg (PG 20983, 18171, 26309, 48616); Lend a Hand (1899); Modern Pagans (1917); 'Jesus is Here!' (1914); His Mother's Prayers (1903)"
+ },
+ "_excluded": {
+  "cmsheldon-other": "The Everyday Bible (1924), an abridged Bible text he edited; modern reprints; books illustrated by the artist Charles Mills Sheldon"
+ },
+ "_rights_checked": {
+  "cmsheldon-in-his-steps": "title page read: a religious novel. Sheldon died 1946: US public domain for these pre-1930 printings, and UK public domain since 2017",
+  "cmsheldon-brothers-keeper": "title page read: a religious novel, as are For Christ and the Church and In His Steps To-day"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cmsheldon-in-his-steps": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: a religious novel. Sheldon died 1946: US public domain for these pre-1930 printings, and UK public domain since 2017"
+  },
+  "cmsheldon-brothers-keeper": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: a religious novel, as are For Christ and the Church and In His Steps To-day"
+  },
+  "cmsheldon-christ-and-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cmsheldon-in-his-steps-today": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cmsheldon-mere-man": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cmsheldon-life-story": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles m. sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
