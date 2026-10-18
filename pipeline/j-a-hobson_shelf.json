@@ -1,5 +1,5 @@
 {
- "_about": "J. A. Hobson (1858-1940), English economist: Problems of Poverty (first published 1891; the etext is the sixth edition, 1906), The Evolution of Modern Capitalism (London: Walter Scott; New York: Scribner, the 1902 edition as the etext reads), and The Morals of Economic Internationalism (Boston and New York: Houghton Mifflin, copyright 1920), clean Gutenberg texts. US public domain (all published before 1931). No uids minted.",
+ "_about": "J. A. Hobson (1858-1940), English economist: Problems of Poverty (first published 1891; the etext is the sixth edition, 1906), The Evolution of Modern Capitalism (London: Walter Scott; New York: Scribner, the 1902 edition as the etext reads), and The Morals of Economic Internationalism (Boston and New York: Houghton Mifflin, copyright 1920), clean Gutenberg texts. US public domain (all published before 1931). Added in round 2026-10-17bl: The Physiology of Industry, written with A. F. Mummery (London: John Murray, 1889), raw IA OCR, clean 0.93. Held: Imperialism: A Study (1902), because every IA copy found is a George Allen & Unwin printing (the firm dates from 1914; one copy is the 1961 sixth impression). No uids minted.",
  "_author": "J. A. Hobson",
  "_name_words": [
   "john",
@@ -24,7 +24,12 @@
    "The Morals of Economic Internationalism (Houghton Mifflin, 1920)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hobson-mummery-physiology-of-industry-1889": [
+   "physiologyofindu00mummuoft",
+   "The Physiology of Industry, with A. F. Mummery (Murray, 1889)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "hobson-problems-of-poverty-1906": {
@@ -53,6 +58,22 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "hobson-mummery-physiology-of-industry-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "hobson-mummery-physiology-of-industry-1889": {
+   "author": "A. F. Mummery and J. A. Hobson (title page OCR letter-spaces 'H O B S O N'; John Murray 1889 imprint present)"
   }
  }
 }

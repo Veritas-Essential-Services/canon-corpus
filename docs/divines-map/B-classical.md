@@ -5645,6 +5645,7 @@ Shelf: `pipeline/j-a-hobson_shelf.json`. Three Gutenberg texts, 1902-1920. Not m
 | Problems of Poverty, sixth edition (1906) |  | `hobson-problems-of-poverty-1906` | have (PG 10710) |
 | The Evolution of Modern Capitalism (1902 edition) |  | `hobson-evolution-of-modern-capitalism-1902` | have (PG 28284) |
 | The Morals of Economic Internationalism (Houghton Mifflin, 1920) |  | `hobson-morals-economic-internationalism-1920` | have (PG 29881) |
+| The Physiology of Industry, with A. F. Mummery (Murray, 1889) |  | `hobson-mummery-physiology-of-industry-1889` | have-raw (IA `physiologyofindu00mummuoft`) |
 
 Pending (wishlist): Imperialism: A Study (1902) in a dated pre-1931 printing
 
