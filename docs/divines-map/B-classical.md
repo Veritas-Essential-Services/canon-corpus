@@ -2929,6 +2929,11 @@ Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): O
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | On Translating Homer |  | `arnold-on-translating-homer` | have (PG 65381) |
+| Essays in Criticism |  | `arnold-essays-in-criticism` | have (PG 77244) |
+| On the Study of Celtic Literature (1867) |  | `arnold-celtic-literature` | have (PG 5159) |
+| Culture and Anarchy (1869) |  | `arnold-culture-and-anarchy` | have (PG 4212) |
+| St. Paul and Protestantism (1870) |  | `arnold-st-paul-and-protestantism` | have (PG 54793) |
+| Discourses in America (1885) |  | `arnold-discourses-in-america` | have (PG 44919) |
 
 ## Evelyn S. Shuckburgh (scholarship)
 

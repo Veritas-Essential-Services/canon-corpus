@@ -1,5 +1,5 @@
 {
- "_about": "Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): On Translating Homer, clean Gutenberg. The shelf is for this book only. No uids minted.",
+ "_about": "Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): On Translating Homer, clean Gutenberg.  Widened in round 2026-10-18bz under the Western-canon brief to Arnold's prose criticism: Essays in Criticism, On the Study of Celtic Literature, Culture and Anarchy, St. Paul and Protestantism and Discourses in America, all clean Gutenberg. His poetry stays outside lane B. Wanted: Literature and Dogma (1873) and God and the Bible (1875). No uids minted.",
  "_name_words": [
   "arnold"
  ],
@@ -12,13 +12,78 @@
   "arnold-on-translating-homer": [
    65381,
    "On Translating Homer"
+  ],
+  "arnold-essays-in-criticism": [
+   77244,
+   "Essays in Criticism"
+  ],
+  "arnold-celtic-literature": [
+   5159,
+   "On the Study of Celtic Literature (1867)"
+  ],
+  "arnold-culture-and-anarchy": [
+   4212,
+   "Culture and Anarchy (1869)"
+  ],
+  "arnold-st-paul-and-protestantism": [
+   54793,
+   "St. Paul and Protestantism (1870)"
+  ],
+  "arnold-discourses-in-america": [
+   44919,
+   "Discourses in America (1885)"
   ]
  },
  "internet_archive": {},
  "_checks": {
   "arnold-on-translating-homer": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-essays-in-criticism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-celtic-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-culture-and-anarchy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-st-paul-and-protestantism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnold-discourses-in-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "matthew arnold",
    "identity": "ok",
