@@ -7819,6 +7819,11 @@ Shelf: `pipeline/edward-l-thorndike_shelf.json`. Five volumes, 1907-1913.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Elements of Psychology, 2nd ed. (Seiler, 1907) |  | `thorndike-elements-of-psychology-1907` | have-raw (IA `elementsofpsycho05thor`) |
+| Animal Intelligence (Macmillan, 1911) |  | `thorndike-animal-intelligence-1911` | have-raw (IA `animalintellige00thorgoog`) |
+| Individuality (Houghton Mifflin, 1911) |  | `thorndike-individuality-1911` | have-raw (IA `individuality00tho`) |
+| Educational Psychology, vol. I: The Original Nature of Man (Teachers College, 1913) |  | `thorndike-educational-psychology-1913-v1` | have-raw (IA `educationalpsych01thoriala`) |
+| Educational Psychology, vol. II: The Psychology of Learning (Teachers College, 1913; printing of 1921) |  | `thorndike-educational-psychology-1913-v2` | have-raw (IA `educationalpsych02thor`) |
 
 Pending (wishlist): Educational Psychology vol. III (1914).
 

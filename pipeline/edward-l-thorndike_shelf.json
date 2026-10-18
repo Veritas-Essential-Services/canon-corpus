@@ -1,0 +1,94 @@
+{
+ "_about": "Edward Lee Thorndike (1874-1949), American psychologist of learning at Teachers College, Columbia; the law of effect is his. Raw IA OCR: The Elements of Psychology, 2nd edition (New York: A. G. Seiler, 1907); Animal Intelligence, experimental studies (Macmillan, 1911); Individuality (Houghton Mifflin, Riverside Educational Monographs, copyright 1911; the verso year is the only one printed); Educational Psychology vol. I, The Original Nature of Man (Teachers College, 1913) and vol. II, The Psychology of Learning (copyright 1913, this printing 1921). Wanted: Educational Psychology vol. III (1914). US public domain. No uids minted.",
+ "_author": "Edward L. Thorndike",
+ "_name_words": [
+  "edward",
+  "lee",
+  "thorndike"
+ ],
+ "_surname": [
+  "thorndike"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thorndike-elements-of-psychology-1907": [
+   "elementsofpsycho05thor",
+   "The Elements of Psychology, 2nd ed. (Seiler, 1907)"
+  ],
+  "thorndike-animal-intelligence-1911": [
+   "animalintellige00thorgoog",
+   "Animal Intelligence (Macmillan, 1911)"
+  ],
+  "thorndike-individuality-1911": [
+   "individuality00tho",
+   "Individuality (Houghton Mifflin, 1911)"
+  ],
+  "thorndike-educational-psychology-1913-v1": [
+   "educationalpsych01thoriala",
+   "Educational Psychology, vol. I: The Original Nature of Man (Teachers College, 1913)"
+  ],
+  "thorndike-educational-psychology-1913-v2": [
+   "educationalpsych02thor",
+   "Educational Psychology, vol. II: The Psychology of Learning (Teachers College, 1913; printing of 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thorndike-elements-of-psychology-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "thorndike-animal-intelligence-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-individuality-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "thorndike-educational-psychology-1913-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1913-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thorndike-educational-psychology-1913-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
