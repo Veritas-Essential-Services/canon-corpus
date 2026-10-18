@@ -29870,6 +29870,63 @@ Shelf: `pipeline/ainsworth_shelf.json` (2026-10-17; added at the coordinator's r
 | split-parts | excluded | Gutenberg's split-part files PG 44521, 44522, 44523: the complete edition of each is on the shelf instead. |
 | pg-49683 | excluded | PG 49683 Cruikshank's Water Colours: Cruikshank's plates for books by several authors. |
 
+## G. P. R. James
+
+Shelf: `pipeline/gpr-james_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (50 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The King's Highway | have | PG 3780, `gprjames-kings-highway` (2406 units) |
+| Corse de Leon; or, The Brigand: A Romance. Volume 1 (of 2) | have | PG 36041, `gprjames-corse-de-leon` (1101 units) |
+| The Gipsy: A Tale (Vols I & II) | have | PG 39376, `gprjames-gipsy` (2256 units) |
+| Henry of Guise; or, The States of Blois (Vol. 1 of 3) | have | PG 39411, `gprjames-henry-of-guise` (651 units) |
+| Henry of Guise; or, The States of Blois (Vol. 2 of 3) | have | PG 39412, `gprjames-henry-of-guise-39412` (787 units) |
+| Henry of Guise; or, The States of Blois (Vol. 3 of 3) | have | PG 39413, `gprjames-henry-of-guise-39413` (928 units) |
+| Agincourt: A Romance The Works of G. P. R. James, Volume XX | have | PG 39519, `gprjames-agincourt` (2484 units) |
+| The Huguenot: A Tale of the French Protestants. Volumes I-III | have | PG 39520, `gprjames-huguenot` (2415 units) |
+| The Smuggler: A Tale. Volumes I-III | have | PG 39531, `gprjames-smuggler` (2303 units) |
+| Lord Montagu's Page: An Historical Romance | have | PG 40295, `gprjames-lord-montagus-page` (2359 units) |
+| The History of Chivalry | have | PG 40537, `gprjames-history-of-chivalry` (1616 units) |
+| Richelieu: A Tale of France, v. 1/3 | have | PG 44252, `gprjames-richelieu` (680 units) |
+| Richelieu: A Tale of France, v. 2/3 | have | PG 44253, `gprjames-richelieu-44253` (751 units) |
+| Richelieu: A Tale of France, v. 3/3 | have | PG 44254, `gprjames-richelieu-44254` (845 units) |
+| Arabella Stuart: A Romance from English History | have | PG 49468, `gprjames-arabella-stuart` (2834 units) |
+| The Old Dominion | have | PG 49472, `gprjames-old-dominion` (2712 units) |
+| The Little Ball O' Fire; or, the Life and Adventures of John Marston Hall The Works of G. P. R. James, Vol. XV. | have | PG 49473, `gprjames-little-ball-o-fire` (1489 units) |
+| Attila: A Romance. Vol. I. | have | PG 49634, `gprjames-attila` (866 units) |
+| Attila: A Romance. Vol. II. | have | PG 49635, `gprjames-attila-49635` (999 units) |
+| Arrah Neil; or, Times of Old | have | PG 49650, `gprjames-arrah-neil` (2393 units) |
+| The Desultory Man Collection of Ancient and Modern British Novels and Romances. Vol. CXLVII. | have | PG 49718, `gprjames-desultory-man-collection-of-ancient-and-modern-brit` (1749 units) |
+| The Robber, A Tale. | have | PG 49859, `gprjames-robber-a-tale` (2088 units) |
+| Forest Days: A Romance of Old Times | have | PG 49987, `gprjames-forest-days` (2723 units) |
+| The Forgery; or, Best Intentions. | have | PG 50042, `gprjames-forgery` (2573 units) |
+| The Castle of Ehrenstein Its Lords Spiritual and Temporal; Its Inhabitants Earthly and Unearthly | have | PG 50325, `gprjames-castle-of-ehrenstein-its-lords-spiritual-and-tempor` (2037 units) |
+| The Woodman: A Romance of the Times of Richard III | have | PG 50329, `gprjames-woodman` (2942 units) |
+| Philip Augustus; or, The Brothers in Arms | have | PG 50462, `gprjames-philip-augustus` (2291 units) |
+| Darnley; or, The Field of the Cloth of Gold | have | PG 50491, `gprjames-darnley` (2408 units) |
+| The Black Eagle; or, Ticonderoga | have | PG 50493, `gprjames-black-eagle` (2205 units) |
+| Gowrie; or, the King's Plot. | have | PG 50518, `gprjames-gowrie` (2060 units) |
+| De L'Orme. The Works of G. P. R. James, Esq., Vol. XVI. | have | PG 50688, `gprjames-de-lorme-the-works-of-g-p-r-james-esq-vol-xvi` (1973 units) |
+| One in a Thousand; or, The Days of Henri Quatre | have | PG 50689, `gprjames-one-in-a-thousand` (1634 units) |
+| Ticonderoga: A Story of Early Frontier Life in the Mohawk Valley | have | PG 50853, `gprjames-ticonderoga` (1615 units) |
+| Mary of Burgundy; or, The Revolt of Ghent | have | PG 50854, `gprjames-mary-of-burgundy` (1747 units) |
+| The Man-at-Arms; or, Henry De Cerons. Volumes I and II | have | PG 50855, `gprjames-man-at-arms` (1495 units) |
+| Charles Tyrrell; or, The Bitter Blood. Volumes I and II | have | PG 50856, `gprjames-charles-tyrrell` (1567 units) |
+| Heidelberg: A Romance. Volumes I, II & III | have | PG 50858, `gprjames-heidelberg` (2176 units) |
+| Rose D'Albret; or, Troublous Times. | have | PG 50943, `gprjames-rose-dalbret` (2536 units) |
+| Leonora D'Orco: A Historical Romance | have | PG 50964, `gprjames-leonora-dorco` (2150 units) |
+| The Convict: A Tale | have | PG 51164, `gprjames-convict` (1822 units) |
+| The Man in Black: An Historical Novel of the Days of Queen Anne | have | PG 51174, `gprjames-man-in-black` (2004 units) |
+| Morley Ernstein; or, the Tenants of the Heart | have | PG 51251, `gprjames-morley-ernstein` (2447 units) |
+| Agnes Sorel: A Novel | have | PG 51352, `gprjames-agnes-sorel` (2396 units) |
+| The Fate: A Tale of Stirring Times | have | PG 51455, `gprjames-fate` (2122 units) |
+| Delaware; or, The Ruined Family. Vol. 1 | have | PG 51628, `gprjames-delaware` (635 units) |
+| Delaware; or, The Ruined Family. Vol. 2 | have | PG 51629, `gprjames-delaware-51629` (721 units) |
+| Delaware; or, The Ruined Family. Vol. 3 | have | PG 51630, `gprjames-delaware-51630` (687 units) |
+| A Whim, and Its Consequences Collection of British Authors Vol. CXIV | have | PG 51715, `gprjames-a-whim-and-its-consequences-collection-of-british-a` (2180 units) |
+| Henry Smeaton: A Jacobite Story of the Reign of George the First. | have | PG 51815, `gprjames-henry-smeaton` (2693 units) |
+| Beauchamp; or, The Error. | have | PG 51898, `gprjames-beauchamp` (2280 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

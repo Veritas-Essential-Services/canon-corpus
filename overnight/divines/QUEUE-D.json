@@ -2901,6 +2901,14 @@
       "started": "2026-10-17T19:43:49-05:00",
       "finished": "2026-10-17T19:43:50-05:00",
       "notes": "ainsworth: new shelf, 16 Gutenberg books, 50,891 units, 1529 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "gpr-james",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — G. P. R. James; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:43:51-05:00",
+      "finished": "2026-10-17T19:43:51-05:00",
+      "notes": "gpr-james: new shelf, 50 Gutenberg books, 92,831 units, 4910 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
