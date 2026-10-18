@@ -6658,6 +6658,17 @@ Slugs `avila-*`. Spanish mystic and preacher, in English.
 | Other 1631 Epistles printings (Rouen, Courant's widow) and Google copies; other 1904 Letters copies | alternate | not shelved |
 | Oddi's Life of him (1898) | excluded | |
 | The 1977 facsimile and post-1929 editions | excluded | |
+
+## Peter of Alcántara (round 30, my pick, 2026-10-18)
+
+Slugs `alcantara-*`. Franciscan reformer: his treatise on prayer in English.
+
+| Work | Status | Where |
+|---|---|---|
+| A Golden Treatise of Mental Prayer, translated into English by Giles Willoughby (Philadelphia: M. Fithian, 1844) | have-ocr | IA `goldentreatiseof00pete` |
+| The 1632 Golden Treatise (EEBO): title page illegible; dedication signed Giles Willoughby | alternate | not shelved |
+| Another 1844 copy | alternate | not shelved |
+| Hollings's edition in its 1940 printing; a 1949 Treatise | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

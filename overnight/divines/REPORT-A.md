@@ -1387,3 +1387,6 @@
 
 ## 2026-10-17 20:25 CDT — john-of-avila done
 - `pipeline/john-of-avila_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for avila-cure-of-discomfort-1632 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — peter-of-alcantara done
+- `pipeline/peter-of-alcantara_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
