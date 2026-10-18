@@ -1,0 +1,279 @@
+{
+ "_about": "Charles Darwin (1809-1882), the rest of his books beside the two the adler shelf already holds (On the Origin of Species, 1st edition, PG 1228; The Descent of Man, PG 2300), which are not repeated here. Project Gutenberg etexts: the Beagle journal in its 1845 second edition (PG 944); the geology of the voyage (Coral Reefs, Volcanic Islands, Geological Observations on South America); the barnacle monographs for the Ray Society (1851, 1854); The Variation of Animals and Plants under Domestication; The Expression of the Emotions; the botanical books (Climbing Plants, Insectivorous Plants, Cross and Self-Fertilisation, Different Forms of Flowers, The Power of Movement in Plants); The Formation of Vegetable Mould through the Action of Worms; the Autobiography; Life and Letters and More Letters, ed. Francis Darwin; and The Foundations of the Origin of Species, the essays of 1842 and 1844 (ed. Francis Darwin, 1909). Not taken: the later Origin editions (PG 2009, 22764, 8205, 21153) and other witnesses of the Beagle journal (PG 3704, 6951), as further witnesses of texts already held; the Zoology of the Beagle volumes, written by Owen, Waterhouse, Gould, Jenyns and Bell under his editorship. US public domain. No uids minted.",
+ "_author": "Charles Darwin",
+ "_name_words": [
+  "charles",
+  "robert",
+  "darwin"
+ ],
+ "_surname": [
+  "darwin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "darwin-voyage-of-the-beagle-1845": [
+   944,
+   "The Voyage of the Beagle (Journal of Researches, 2nd ed., 1845)"
+  ],
+  "darwin-coral-reefs": [
+   2690,
+   "The Structure and Distribution of Coral Reefs"
+  ],
+  "darwin-volcanic-islands": [
+   3054,
+   "Geological Observations on the Volcanic Islands"
+  ],
+  "darwin-geological-observations-south-america": [
+   3620,
+   "Geological Observations on South America"
+  ],
+  "darwin-cirripedia-v1-1851": [
+   31558,
+   "A Monograph on the Sub-class Cirripedia, vol. 1: The Lepadidae (Ray Society, 1851)"
+  ],
+  "darwin-cirripedia-v2-1854": [
+   46408,
+   "A Monograph on the Sub-class Cirripedia, vol. 2: The Balanidae (Ray Society, 1854)"
+  ],
+  "darwin-variation-under-domestication": [
+   3332,
+   "The Variation of Animals and Plants under Domestication"
+  ],
+  "darwin-expression-of-the-emotions": [
+   1227,
+   "The Expression of the Emotions in Man and Animals"
+  ],
+  "darwin-climbing-plants": [
+   2485,
+   "The Movements and Habits of Climbing Plants"
+  ],
+  "darwin-insectivorous-plants": [
+   5765,
+   "Insectivorous Plants"
+  ],
+  "darwin-cross-and-self-fertilisation": [
+   4346,
+   "The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom"
+  ],
+  "darwin-different-forms-of-flowers": [
+   3807,
+   "The Different Forms of Flowers on Plants of the Same Species"
+  ],
+  "darwin-power-of-movement-in-plants": [
+   5605,
+   "The Power of Movement in Plants"
+  ],
+  "darwin-vegetable-mould-and-worms": [
+   2355,
+   "The Formation of Vegetable Mould through the Action of Worms"
+  ],
+  "darwin-autobiography": [
+   2010,
+   "The Autobiography of Charles Darwin"
+  ],
+  "darwin-life-and-letters-v1": [
+   2087,
+   "Life and Letters of Charles Darwin, vol. 1, ed. Francis Darwin"
+  ],
+  "darwin-life-and-letters-v2": [
+   2088,
+   "Life and Letters of Charles Darwin, vol. 2, ed. Francis Darwin"
+  ],
+  "darwin-more-letters-v1": [
+   2739,
+   "More Letters of Charles Darwin, vol. 1, ed. Francis Darwin and A. C. Seward"
+  ],
+  "darwin-more-letters-v2": [
+   2740,
+   "More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward"
+  ],
+  "darwin-foundations-of-the-origin-1909": [
+   22728,
+   "The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "darwin-voyage-of-the-beagle-1845": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-coral-reefs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-volcanic-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-geological-observations-south-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-cirripedia-v1-1851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-cirripedia-v2-1854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-variation-under-domestication": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-expression-of-the-emotions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-climbing-plants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-insectivorous-plants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-cross-and-self-fertilisation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-different-forms-of-flowers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-power-of-movement-in-plants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-vegetable-mould-and-worms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-autobiography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-life-and-letters-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-life-and-letters-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-more-letters-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-more-letters-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "darwin-foundations-of-the-origin-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "darwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
