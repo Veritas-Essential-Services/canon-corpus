@@ -7083,6 +7083,43 @@ Shelf: `pipeline/ew-hornung_shelf.json` (2026-10-17; added at the coordinator's 
 | 'Trusty and well beloved' | have | PG 76201, `ewhornung-trusty-and-well-beloved` (329 units) |
 | pg-58560 | excluded | PG 58560: Gutenberg's index of Hornung's works, not a book. |
 
+## Mary Roberts Rinehart
+
+Shelf: `pipeline/mary-roberts-rinehart_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery novels and stories. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Where There's a Will | have | PG 330, `mrrinehart-where-theres-a-will` (2025 units) |
+| Bab: A Sub-Deb | have | PG 366, `mrrinehart-bab` (1689 units) |
+| The Circular Staircase | have | PG 434, `mrrinehart-circular-staircase` (1626 units) |
+| The Street of Seven Stars | have | PG 1214, `mrrinehart-street-of-seven-stars` (2219 units) |
+| The Amazing Interlude | have | PG 1590, `mrrinehart-amazing-interlude` (2078 units) |
+| The Breaking Point | have | PG 1601, `mrrinehart-breaking-point` (3226 units) |
+| When a Man Marries | have | PG 1671, `mrrinehart-when-a-man-marries` (1333 units) |
+| Dangerous Days | have | PG 1693, `mrrinehart-dangerous-days` (4063 units) |
+| The After House | have | PG 2358, `mrrinehart-after-house` (1746 units) |
+| Long Live the King! | have | PG 2714, `mrrinehart-long-live-the-king` (3178 units) |
+| Tish | have | PG 3464, `mrrinehart-tish` (2681 units) |
+| K | have | PG 9931, `mrrinehart-k` (3292 units) |
+| The Case of Jennie Brice | have | PG 11127, `mrrinehart-case-of-jennie-brice` (1192 units) |
+| Kings, Queens and Pawns: An American Woman at the Front | have | PG 14457, `mrrinehart-kings-queens-and-pawns` (2046 units) |
+| The Truce of God | have | PG 14573, `mrrinehart-truce-of-god` (305 units) |
+| Love Stories | have | PG 15473, `mrrinehart-love-stories` (2161 units) |
+| Tenting To-night A Chronicle of Sport and Adventure in Glacier Park and the Cascade Mountains | have | PG 19475, `mrrinehart-tenting-to-night-a-chronicle-of-sport-and-adventu` (628 units) |
+| More Tish | have | PG 19851, `mrrinehart-more-tish` (1685 units) |
+| 'Oh, Well, You Know How Women Are!' (with Irvin S. Cobb) | have | PG 24259, `mrrinehart-oh-well-you-know-how-women-are` (151 units) |
+| Why I Believe in Scouting for Girls | have | PG 28406, `mrrinehart-why-i-believe-in-scouting-for-girls` (19 units) |
+| The Window at the White Cat | have | PG 34020, `mrrinehart-window-at-the-white-cat` (1841 units) |
+| Affinities, and Other Stories | have | PG 41408, `mrrinehart-affinities-and-other-stories` (1881 units) |
+| Through Glacier Park: Seeing America First with Howard Eaton | have | PG 43394, `mrrinehart-through-glacier-park` (260 units) |
+| Locked Doors | have | PG 54273, `mrrinehart-locked-doors` (544 units) |
+| The Altar of Freedom | have | PG 63490, `mrrinehart-altar-of-freedom` (131 units) |
+| Twenty-three and a half hours' leave | have | PG 68950, `mrrinehart-twenty-three-and-a-half-hours-leave` (615 units) |
+| Tish plays the game | have | PG 70942, `mrrinehart-tish-plays-the-game` (1819 units) |
+| The amazing adventures of Letitia Carberry | have | PG 75922, `mrrinehart-amazing-adventures-of-letitia-carberry` (1579 units) |
+| Temperamental people | have | PG 79161, `mrrinehart-temperamental-people` (3170 units) |
+| pg-2019 | excluded | PG 2019 The Bat: Stephen Vincent Benet's novelization of the Rinehart-Hopwood play, prose by another hand. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,435 @@
+{
+ "_about": "Mary Roberts Rinehart's mystery novels and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Mary Roberts Rinehart",
+ "_name_words": [
+  "rinehart"
+ ],
+ "_surname": [
+  "mary roberts rinehart"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mrrinehart-where-theres-a-will": [
+   330,
+   "Where There's a Will",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-bab": [
+   366,
+   "Bab: A Sub-Deb",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-circular-staircase": [
+   434,
+   "The Circular Staircase"
+  ],
+  "mrrinehart-street-of-seven-stars": [
+   1214,
+   "The Street of Seven Stars"
+  ],
+  "mrrinehart-amazing-interlude": [
+   1590,
+   "The Amazing Interlude"
+  ],
+  "mrrinehart-breaking-point": [
+   1601,
+   "The Breaking Point"
+  ],
+  "mrrinehart-when-a-man-marries": [
+   1671,
+   "When a Man Marries",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-dangerous-days": [
+   1693,
+   "Dangerous Days"
+  ],
+  "mrrinehart-after-house": [
+   2358,
+   "The After House",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-long-live-the-king": [
+   2714,
+   "Long Live the King!",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-tish": [
+   3464,
+   "Tish",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-k": [
+   9931,
+   "K"
+  ],
+  "mrrinehart-case-of-jennie-brice": [
+   11127,
+   "The Case of Jennie Brice"
+  ],
+  "mrrinehart-kings-queens-and-pawns": [
+   14457,
+   "Kings, Queens and Pawns: An American Woman at the Front",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-truce-of-god": [
+   14573,
+   "The Truce of God"
+  ],
+  "mrrinehart-love-stories": [
+   15473,
+   "Love Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-tenting-to-night-a-chronicle-of-sport-and-adventu": [
+   19475,
+   "Tenting To-night A Chronicle of Sport and Adventure in Glacier Park and the Cascade Mountains",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-more-tish": [
+   19851,
+   "More Tish",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-oh-well-you-know-how-women-are": [
+   24259,
+   "'Oh, Well, You Know How Women Are!' (with Irvin S. Cobb)"
+  ],
+  "mrrinehart-why-i-believe-in-scouting-for-girls": [
+   28406,
+   "Why I Believe in Scouting for Girls"
+  ],
+  "mrrinehart-window-at-the-white-cat": [
+   34020,
+   "The Window at the White Cat"
+  ],
+  "mrrinehart-affinities-and-other-stories": [
+   41408,
+   "Affinities, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-through-glacier-park": [
+   43394,
+   "Through Glacier Park: Seeing America First with Howard Eaton",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-locked-doors": [
+   54273,
+   "Locked Doors"
+  ],
+  "mrrinehart-altar-of-freedom": [
+   63490,
+   "The Altar of Freedom"
+  ],
+  "mrrinehart-twenty-three-and-a-half-hours-leave": [
+   68950,
+   "Twenty-three and a half hours' leave"
+  ],
+  "mrrinehart-tish-plays-the-game": [
+   70942,
+   "Tish plays the game",
+   {
+    "contents_only": true
+   }
+  ],
+  "mrrinehart-amazing-adventures-of-letitia-carberry": [
+   75922,
+   "The amazing adventures of Letitia Carberry"
+  ],
+  "mrrinehart-temperamental-people": [
+   79161,
+   "Temperamental people"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-2019": "PG 2019 The Bat: Stephen Vincent Benet's novelization of the Rinehart-Hopwood play, prose by another hand."
+ },
+ "_checks": {
+  "mrrinehart-where-theres-a-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-bab": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-circular-staircase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-street-of-seven-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-amazing-interlude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-breaking-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-when-a-man-marries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-dangerous-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-after-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-long-live-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-tish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-k": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-case-of-jennie-brice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-kings-queens-and-pawns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-truce-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-love-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-tenting-to-night-a-chronicle-of-sport-and-adventu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-more-tish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-oh-well-you-know-how-women-are": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-why-i-believe-in-scouting-for-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-window-at-the-white-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-affinities-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-through-glacier-park": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-locked-doors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-altar-of-freedom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-twenty-three-and-a-half-hours-leave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-tish-plays-the-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-amazing-adventures-of-letitia-carberry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrrinehart-temperamental-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary roberts rinehart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
