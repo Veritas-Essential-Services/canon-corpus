@@ -5905,6 +5905,7 @@ Shelf: `pipeline/william-ellery-channing_shelf.json`. The one-volume Works (1877
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Works of William E. Channing, new and complete edition (Boston: AUA, 1877) |  | `channing-works-aua-1877` | have-raw (IA `worksofwilliame00chan`) |
 
 ## Theodore Parker (Transcendentalism)
 
