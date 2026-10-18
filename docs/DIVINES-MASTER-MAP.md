@@ -29995,6 +29995,24 @@ Shelf: `pipeline/fanny-burney_shelf.json` (2026-10-17; added at the coordinator'
 | pg-58079 | excluded | PG 58079: Gutenberg's index of the author's works, not a book. |
 | pg-57472 | excluded | PG 57472 Fanny Burney and Her Friends: passages from her diary selected by L. B. Seeley; the diary itself is on the shelf. |
 
+## Oliver Goldsmith
+
+Shelf: `pipeline/goldsmith_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy | have | PG 383, `goldsmith-she-stoops-to-conquer` (916 units) |
+| The Vicar of Wakefield | have | PG 2667, `goldsmith-vicar-of-wakefield` (428 units) |
+| The Complete Poetical Works of Oliver Goldsmith | have | PG 3545, `goldsmith-complete-poetical-works-of-oliver-goldsmith` (1734 units) |
+| An Elegy on the Death of a Mad Dog | have | PG 17102, `goldsmith-an-elegy-on-the-death-of-a-mad-dog` (51 units) |
+| An Elegy on the Glory of Her Sex, Mrs. Mary Blaize | have | PG 17117, `goldsmith-an-elegy-on-the-glory-of-her-sex-mrs-mary-blaize` (75 units) |
+| Dalziels' Illustrated Goldsmith | have | PG 49325, `goldsmith-dalziels-illustrated-goldsmith` (2881 units) |
+| The Poems of Oliver Goldsmith | have | PG 49723, `goldsmith-poems-of-oliver-goldsmith` (643 units) |
+| The Deserted Village | have | PG 50500, `goldsmith-deserted-village` (546 units) |
+| Goldsmith's essays | have | PG 79560, `goldsmith-goldsmiths-essays` (557 units) |
+| pg-58029 | excluded | PG 58029: Gutenberg's index of the author's works, not a book. |
+| pg-16387 | excluded | PG 16387: Pinnock's improved edition of Goldsmith's History of Rome, revised and enlarged by later hands. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
