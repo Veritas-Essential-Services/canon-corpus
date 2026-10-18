@@ -7414,6 +7414,22 @@ Slugs `gladden-*`. Built from title pages read for round 32.
 | PG 6928 (Who Wrote the Bible?) and PG 12290 (The Church and Modern Life), which state no source imprint | alternate | not shelved |
 | Tools and the Man (1893), Witnesses of the Light (1903), The Lord's Prayer (1892) and other copies | alternate | not shelved |
 | Later printings of Applied Christianity; multi-author volumes | excluded | |
+
+## Walter Rauschenbusch (round 32, my pick, 2026-10-18)
+
+Slugs `rauschenbusch-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity and the Social Crisis (New York: The Macmillan Company, 1907) | have-ocr | IA `christianitysoci00rausuoft` |
+| Prayers of the Social Awakening (Boston: The Pilgrim Press; title page undated, published November 1910) | have-ocr | IA `prayersofsociala00rausiala` |
+| Christianizing the Social Order (New York: The Macmillan Company, 1912) | have-ocr | IA `christianizingso01raus` |
+| Unto Me (Boston: The Pilgrim Press; title page undated, published October 1912) | have-ocr | IA `untome00raus` |
+| Dare We Be Christians (Boston: The Pilgrim Press; title page undated, copyright 1914) | have-ocr | IA `darewebechristia00raus` |
+| The Social Principles of Jesus (New York: Association Press, 1916) | have-ocr | IA `socialprinciple01rausgoog` |
+| A Theology for the Social Gospel (New York: The Macmillan Company, 1917) | have-ocr | IA `theologyforsoc00raus` |
+| For God and the People (1910, the Prayers under another title); PG 29912 (Social Principles, 1917 Woman's Press); later printings | alternate | not shelved |
+| Evangeliums-Lieder, a German hymnal he compiled | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

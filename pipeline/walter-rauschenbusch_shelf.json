@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Walter Rauschenbusch (1861-1918, Rochester Baptist, prophet of the Social Gospel) for the Word Hoard: Christianity and the Social Crisis (1907), Prayers of the Social Awakening (1910), Christianizing the Social Order (1912), Unto Me (1912), Dare We Be Christians (1914), The Social Principles of Jesus (1916) and A Theology for the Social Gospel (1917), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rauschenbusch"
+ ],
+ "_surname": [
+  "rauschenbusch",
+  "walter rauschenbusch"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rauschenbusch-social-crisis": [
+   "christianitysoci00rausuoft",
+   "Christianity and the Social Crisis (New York: The Macmillan Company, 1907)"
+  ],
+  "rauschenbusch-prayers": [
+   "prayersofsociala00rausiala",
+   "Prayers of the Social Awakening (Boston: The Pilgrim Press; title page undated, published November 1910)"
+  ],
+  "rauschenbusch-christianizing": [
+   "christianizingso01raus",
+   "Christianizing the Social Order (New York: The Macmillan Company, 1912)"
+  ],
+  "rauschenbusch-unto-me": [
+   "untome00raus",
+   "Unto Me (Boston: The Pilgrim Press; title page undated, published October 1912)"
+  ],
+  "rauschenbusch-dare-we-be-christians": [
+   "darewebechristia00raus",
+   "Dare We Be Christians (Boston: The Pilgrim Press; title page undated, copyright 1914)"
+  ],
+  "rauschenbusch-social-principles": [
+   "socialprinciple01rausgoog",
+   "The Social Principles of Jesus (New York: Association Press, 1916)"
+  ],
+  "rauschenbusch-theology-social-gospel": [
+   "theologyforsoc00raus",
+   "A Theology for the Social Gospel (New York: The Macmillan Company, 1917)"
+  ]
+ },
+ "_alternates": {
+  "rauschenbusch-copies": "For God and the People (1910, the Prayers under another title); PG 29912 (Social Principles, 1917 Woman's Press); later printings"
+ },
+ "_excluded": {
+  "rauschenbusch-hymnal": "Evangeliums-Lieder, a German hymnal he compiled"
+ },
+ "_rights_checked": {
+  "rauschenbusch-social-crisis": "title page read: 'IQO/' (1907); this copy is a 1907 reprint of the March 1907 first printing"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rauschenbusch-social-crisis": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'IQO/' (1907); this copy is a 1907 reprint of the March 1907 first printing"
+  },
+  "rauschenbusch-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[1910]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rauschenbusch-christianizing": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rauschenbusch-unto-me": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rauschenbusch-dare-we-be-christians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rauschenbusch-social-principles": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rauschenbusch-theology-social-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rauschenbusch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
