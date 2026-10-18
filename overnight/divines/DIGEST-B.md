@@ -270,3 +270,4 @@
 - 22:21 round bz: John Ruskin (45), Arnold's prose (+5), Pater's criticism (+4). Observation for the coordinator: Carlyle, Coleridge and Emerson have dozens of unheld Gutenberg works, but their shelves belong to lane C and the reading-lists thread.
 - 22:24 round ca: Samuel Butler (13), and Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8.
 - 22:29 round cb: second gap sweep, 16 rows on 7 shelves (Laski, Lloyd Morgan, Romanes, Fiske, Sorley, Dicey, Lewes); More's Dialogue of Comfort excluded (1951 text).
+- 22:35 round cc: 8 British logic/idealist shelves (25 vols). Held for no title-page year: Read, Metaphysics of Nature; Stebbing, Modern Introduction to Logic.

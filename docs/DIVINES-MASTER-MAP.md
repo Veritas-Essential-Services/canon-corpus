@@ -16344,6 +16344,93 @@ Shelf: `pipeline/samuel-butler_shelf.json`. Thirteen books, 1873-1913.
 | Cambridge Pieces |  | `sbutler-cambridge-pieces` | have (PG 3278) |
 | Canterbury Pieces (including Darwin among the Machines) |  | `sbutler-canterbury-pieces` | have (PG 3279) |
 
+## John Veitch (Scottish logic, Hamilton's school)
+
+Shelf: `pipeline/john-veitch_shelf.json`. Seven books, 1869-1896.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Memoir of Sir William Hamilton (Blackwood, 1869) |  | `veitch-memoir-of-sir-william-hamilton-1869` | have-raw (IA `memoirsirwillia00veitgoog`) |
+| Lucretius and the Atomic Theory (1875) |  | `veitch-lucretius-and-the-atomic-theory-1875` | have-raw (IA `lucretiusandato01veitgoog`) |
+| Hamilton, Philosophical Classics for English Readers (Blackwood, 1882) |  | `veitch-hamilton-philosophical-classics-1882` | have-raw (IA `hamilton00veitgoog`) |
+| Institutes of Logic (Blackwood, 1885) |  | `veitch-institutes-of-logic-1885` | have-raw (IA `institutesoflogi00veitiala`) |
+| Knowing and Being (Blackwood, 1889) |  | `veitch-knowing-and-being-1889` | have-raw (IA `dli.bengal.10689.5395`) |
+| Dualism and Monism, and other essays (Blackwood, 1895) |  | `veitch-dualism-and-monism-1895` | have-raw (IA `dualismmonismoth00veitrich`) |
+| Border Essays (Blackwood, 1896) |  | `veitch-border-essays-1896` | have-raw (IA `borderessays00veituoft`) |
+
+## Carveth Read (logic and evolutionary psychology)
+
+Shelf: `pipeline/carveth-read_shelf.json`. Five books, 1878-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On the Theory of Logic (Kegan Paul, 1878) |  | `read-on-the-theory-of-logic-1878` | have-raw (IA `ontheorylogican00readgoog`) |
+| Logic, Deductive and Inductive, 3rd ed. (Moring, 1908 reprint) |  | `read-logic-deductive-and-inductive-1908` | have-raw (IA `logicdeductivean00readuoft`) |
+| Natural and Social Morals (1909) |  | `read-natural-and-social-morals-1909` | have-raw (IA `in.ernet.dli.2015.41545`) |
+| The Origin of Man and of his Superstitions (Cambridge, 1920) |  | `read-origin-of-man-1920` | have-raw (IA `in.ernet.dli.2015.536183`) |
+| Man and his Superstitions (Cambridge, 1925) |  | `read-man-and-his-superstitions-1925` | have-raw (IA `manhissuperstiti00read`) |
+
+Pending (wishlist): The Metaphysics of Nature (no dated scan found).
+
+## Alfred Sidgwick (practical logic)
+
+Shelf: `pipeline/alfred-sidgwick_shelf.json`. Three books, 1885-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fallacies, a view of logic from the practical side (Kegan Paul, 1885) |  | `sidgwick-fallacies-1885` | have-raw (IA `fallaciesviewofl00sidg_0`) |
+| Distinction and the Criticism of Beliefs (Longmans, 1892) |  | `sidgwick-distinction-and-criticism-of-beliefs-1892` | have-raw (IA `cu31924095617605`) |
+| Elementary Logic (Cambridge, 1914) |  | `sidgwick-elementary-logic-1914` | have-raw (IA `cu31924029146666`) |
+
+## E. E. Constance Jones (logic of propositions)
+
+Shelf: `pipeline/e-e-constance-jones_shelf.json`. Two books, 1890-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Elements of Logic as a Science of Propositions (T. & T. Clark, 1890) |  | `jones-elements-of-logic-1890` | have-raw (IA `elementslogicas00jonegoog`) |
+| As I Remember (1922) |  | `jones-as-i-remember-1922` | have-raw (IA `asirememberautob0000unse`) |
+
+## J. B. Baillie (Hegelian idealism)
+
+Shelf: `pipeline/j-b-baillie_shelf.json`. Three books, 1901-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin and Significance of Hegel's Logic (Macmillan, 1901) |  | `baillie-origin-and-significance-of-hegels-logic-1901` | have-raw (IA `cu31924011603416`) |
+| An Outline of the Idealistic Construction of Experience (Macmillan, 1906) |  | `baillie-idealistic-construction-of-experience-1906` | have-raw (IA `cu31924029031066`) |
+| Studies in Human Nature (1922) |  | `baillie-studies-in-human-nature-1922` | have-raw (IA `studiesinhumanna00bail`) |
+
+## T. Percy Nunn (philosophy of science and education)
+
+Shelf: `pipeline/t-percy-nunn_shelf.json`. Three books, 1907-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Aim and Achievements of Scientific Method (Macmillan, 1907) |  | `nunn-aim-and-achievements-of-scientific-method-1907` | have-raw (IA `india.history.resource.118321`) |
+| Education, its Data and First Principles (Arnold, 1920) |  | `nunn-education-its-data-and-first-principles-1920` | have-raw (IA `educationitsdata00nunn`) |
+| Relativity and Gravitation (1923) |  | `nunn-relativity-and-gravitation-1923` | have-raw (IA `relativitygravit0000tper`) |
+
+## W. E. Johnson (Cambridge logic)
+
+Shelf: `pipeline/w-e-johnson_shelf.json`. Logic Part I, 1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Logic, Part I (Cambridge, 1921) |  | `johnson-logic-part-i-1921` | have-raw (IA `in.ernet.dli.2015.204560`) |
+
+Pending (wishlist): Logic Part II (1922) and Part III (1924).
+
+## Susan Stebbing (analytic philosophy)
+
+Shelf: `pipeline/susan-stebbing_shelf.json`. One book, 1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pragmatism and French Voluntarism (Cambridge, 1914) |  | `stebbing-pragmatism-and-french-voluntarism-1914` | have-raw (IA `pragmatismfrench00stebrich`) |
+
+Pending (wishlist): A Modern Introduction to Logic (1930; only an undated Crowell printing found).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

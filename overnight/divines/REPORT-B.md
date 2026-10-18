@@ -1313,3 +1313,9 @@
 - Excluded: More's Dialogue of Comfort on Gutenberg is a 1951 modernisation
 - Still held after checking Gutenberg: Whitehead's Introduction to Mathematics and Boole's logic (PDF or TeX only), Principia Mathematica (Gutenberg text is a stub)
 - Earlier rulings respected: Tyndall's physics, Kropotkin's memoirs, Mandeville's facsimile etexts, Henry Adams's History, Erasmus Darwin's verse
+
+## 2026-10-17 22:35 CDT — Round cc: British logicians and idealists
+- john-veitch (7), carveth-read (5), alfred-sidgwick (3), e-e-constance-jones (2), j-b-baillie (3), t-percy-nunn (3), w-e-johnson (1), susan-stebbing (1)
+- Identity checks recorded for OCR-garbled names: Sidgwick 'IJDGWICK', Jones '3 ONES', Johnson 'JOtt**SUN', Read 'CARVETII'
+- Held: Read's Metaphysics of Nature; Stebbing's Modern Introduction to Logic (no title-page year)
+- Wanted: W. E. Johnson Logic Parts II and III
