@@ -121,6 +121,14 @@
   "iscobb-cowboy-and-the-lady-and-her-pa": [
    69929,
    "The cowboy and the lady and her pa"
+  ],
+  "iscobb-speaking-of-operations": [
+   1890,
+   "\"Speaking of Operations--\""
+  ],
+  "iscobb-a-plea-for-old-cap-collier": [
+   1891,
+   "A Plea for Old Cap Collier"
   ]
  },
  "internet_archive": {},
@@ -352,6 +360,24 @@
    "pg_translator": null
   },
   "iscobb-cowboy-and-the-lady-and-her-pa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-speaking-of-operations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-a-plea-for-old-cap-collier": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
