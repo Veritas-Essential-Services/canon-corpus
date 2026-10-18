@@ -1636,3 +1636,6 @@
 
 ## 2026-10-17 21:37 CDT — samuel-logan-brengle done
 - `pipeline/samuel-logan-brengle_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — william-arthur done
+- `pipeline/william-arthur_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for warthur-mission-mysore, warthur-italy-in-transition, warthur-pope-kings-people-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

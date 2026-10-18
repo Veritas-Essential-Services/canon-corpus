@@ -7868,3 +7868,21 @@ Slugs `brengle-*`. Built from title pages read for round 33.
 | PG 6135, When the Holy Ghost is Come (source not stated) | alternate | not shelved |
 | Helps to Holiness and The Soul-Winner's Secret: title pages undated | alternate | not shelved |
 | Copies catalogued 1900-1923 whose title pages read 1949-1988; Resurrection Life and Power (1953) | excluded | |
+
+## William Arthur (round 33, my pick, 2026-10-18)
+
+Slugs `warthur-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| A Mission to the Mysore (London: Partridge and Oakey, 1847) | have-ocr | IA `missiontomysorew00arth_0` |
+| The Successful Merchant: Sketches of the Life of Mr. Samuel Budgett, seventh edition (London: Hamilton, Adams, 1852) | have-ocr | IA `successfulmerch02arthgoog` |
+| The Tongue of Fire; or, the True Power of Christianity, sixth edition (London: Hamilton, Adams, 1856) | have-ocr | IA `tongueoffiretrue0000will` |
+| Italy in Transition (New York: Harper & Brothers, 1860) | have-ocr | IA `italyintransitio00arthuoft` |
+| The Life of Gideon Ouseley (London: Wesleyan Conference Office, 1876) | have-ocr | IA `lifeofgideonouse00arthiala` |
+| The Pope, the Kings and the People, vol. I (London: William Mullan, 1877) | have-ocr | IA `popekingspeopleh01arthiala` |
+| The Pope, the Kings and the People, vol. II (London: William Mullan, 1877) | have-ocr | IA `popekingspeopleh02arthiala` |
+| On the Difference between Physical and Moral Law, Fernley Lecture (London: T. Woolmer, 1883) | have-ocr | IA `ondifferencebetw00arth` |
+| Religion without God and God without Religion (London: Wesleyan Methodist Book-Room, 1885) | have-ocr | IA `religionwithout00arthgoog` |
+| Later editions of The Tongue of Fire and The Successful Merchant; Addresses Delivered in New-York (1856, ed. Strickland); PG 54587, the 1903 abridgment of The Pope, the Kings and the People | alternate | not shelved |
+| 1940 and modern reprints of The Tongue of Fire | excluded | |

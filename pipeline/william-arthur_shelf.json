@@ -1,0 +1,172 @@
+{
+ "_about": "Public-domain William Arthur (1819-1901, Irish Wesleyan minister) for the Word Hoard: A Mission to the Mysore (1847), The Successful Merchant (1852), The Tongue of Fire (1856), Italy in Transition (1860), The Life of Gideon Ouseley (1876), The Pope, the Kings and the People (2 vols, 1877), On the Difference between Physical and Moral Law (1883) and Religion without God (1885), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william arthur"
+ ],
+ "_surname": [
+  "william arthur",
+  "wm. arthur"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "warthur-mission-mysore": [
+   "missiontomysorew00arth_0",
+   "A Mission to the Mysore (London: Partridge and Oakey, 1847)"
+  ],
+  "warthur-successful-merchant": [
+   "successfulmerch02arthgoog",
+   "The Successful Merchant: Sketches of the Life of Mr. Samuel Budgett, seventh edition (London: Hamilton, Adams, 1852)"
+  ],
+  "warthur-tongue-of-fire": [
+   "tongueoffiretrue0000will",
+   "The Tongue of Fire; or, the True Power of Christianity, sixth edition (London: Hamilton, Adams, 1856)"
+  ],
+  "warthur-italy-in-transition": [
+   "italyintransitio00arthuoft",
+   "Italy in Transition (New York: Harper & Brothers, 1860)"
+  ],
+  "warthur-gideon-ouseley": [
+   "lifeofgideonouse00arthiala",
+   "The Life of Gideon Ouseley (London: Wesleyan Conference Office, 1876)"
+  ],
+  "warthur-pope-kings-people-1": [
+   "popekingspeopleh01arthiala",
+   "The Pope, the Kings and the People, vol. I (London: William Mullan, 1877)"
+  ],
+  "warthur-pope-kings-people-2": [
+   "popekingspeopleh02arthiala",
+   "The Pope, the Kings and the People, vol. II (London: William Mullan, 1877)"
+  ],
+  "warthur-physical-moral-law": [
+   "ondifferencebetw00arth",
+   "On the Difference between Physical and Moral Law, Fernley Lecture (London: T. Woolmer, 1883)"
+  ],
+  "warthur-religion-without-god": [
+   "religionwithout00arthgoog",
+   "Religion without God and God without Religion (London: Wesleyan Methodist Book-Room, 1885)"
+  ]
+ },
+ "_alternates": {
+  "warthur-copies": "Later editions of The Tongue of Fire and The Successful Merchant; Addresses Delivered in New-York (1856, ed. Strickland); PG 54587, the 1903 abridgment of The Pope, the Kings and the People"
+ },
+ "_excluded": {
+  "warthur-later": "1940 and modern reprints of The Tongue of Fire"
+ },
+ "_identity_checked": {
+  "warthur-mission-mysore": {
+   "author": "title page read: 'BY THE REV. WILLIAM ARTHUR, Wesleyan Minister' (OCR \"WILLIAM 'IrTHUR\")"
+  },
+  "warthur-italy-in-transition": {
+   "author": "title page read: 'BY WILLIAM ARTHUR, A.M., Author of A Mission to the Mysore' (OCR 'WILIIAM')"
+  },
+  "warthur-pope-kings-people-1": {
+   "author": "title page read: 'BY WILLIAM ARTHUR' (OCR 'WILLIAM AETHUK')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "warthur-mission-mysore": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warthur-successful-merchant": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warthur-tongue-of-fire": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warthur-italy-in-transition": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warthur-gideon-ouseley": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warthur-pope-kings-people-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warthur-pope-kings-people-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warthur-physical-moral-law": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warthur-religion-without-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william arthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
