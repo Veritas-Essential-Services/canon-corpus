@@ -8083,6 +8083,7 @@ Shelf: `pipeline/hermann-von-helmholtz_shelf.json`. Sensations of Tone, Ellis's 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On the Sensations of Tone, 2nd English ed. (Longmans, 1885) | Alexander J. Ellis | `helmholtz-ellis-sensations-of-tone-1885` | have-raw (IA `onsensationston00unkngoog`) |
 
 Pending (wishlist): Treatise on Physiological Optics (tr. Southall, Optical Society of America, 1924-25).
 
