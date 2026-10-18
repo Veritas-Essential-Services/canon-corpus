@@ -3733,6 +3733,14 @@
       "started": "2026-10-17T23:48:10-05:00",
       "finished": "2026-10-17T23:48:10-05:00",
       "notes": "george-washington-cable: new shelf, 14 Gutenberg books, 26,184 units, 220 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sabatini-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Rafael Sabatini; no minting",
+      "status": "done",
+      "started": "2026-10-17T23:48:11-05:00",
+      "finished": "2026-10-17T23:48:11-05:00",
+      "notes": "sabatini-works: new shelf, 20 Gutenberg books, 42,768 units, 37 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

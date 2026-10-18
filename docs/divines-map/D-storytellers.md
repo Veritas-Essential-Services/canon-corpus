@@ -12695,6 +12695,34 @@ Shelf: `pipeline/george-washington-cable_shelf.json` (2026-10-17; added at the c
 | Dr. Sevier | have | PG 29439, `gwcable-dr-sevier` (3758 units) |
 | John March, Southerner | have | PG 31470, `gwcable-john-march-southerner` (3424 units) |
 
+## Rafael Sabatini
+
+Shelf: `pipeline/sabatini-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mistress Wilding | have | PG 1457, `rsabatini-mistress-wilding` (2163 units) |
+| Bardelys the Magnificent Being an account of the strange wooing pursued by the Sieur Marcel de Saint-Pol, marquis of Bardelys... | have | PG 2389, `rsabatini-bardelys-the-magnificent-being-an-account-of-the-s` (1763 units) |
+| The Historical Nights' Entertainment: First Series | have | PG 2636, `rsabatini-historical-nights-entertainment` (2311 units) |
+| St. Martin's Summer | have | PG 2640, `rsabatini-st-martins-summer` (2097 units) |
+| The Snare | have | PG 2687, `rsabatini-snare` (2065 units) |
+| The Lion's Skin | have | PG 2702, `rsabatini-lions-skin` (2185 units) |
+| The Trampling of the Lilies | have | PG 2783, `rsabatini-trampling-of-the-lilies` (1643 units) |
+| The tavern knight | have | PG 3030, `rsabatini-tavern-knight` (1790 units) |
+| The sea-hawk | have | PG 3294, `rsabatini-sea-hawk` (2787 units) |
+| The Shame of Motley: being the memoir of certain transactions in the life of Lazzaro Biancomonte, of Biancomonte, sometime fool of the court of Pesaro | have | PG 3408, `rsabatini-shame-of-motley` (1701 units) |
+| The Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza | have | PG 3423, `rsabatini-strolling-saint` (2919 units) |
+| The Suitors of Yvonne: being a portion of the memoirs of the Sieur Gaston de Luynes | have | PG 3430, `rsabatini-suitors-of-yvonne` (1604 units) |
+| The Life of Cesare Borgia | have | PG 3467, `rsabatini-life-of-cesare-borgia` (1525 units) |
+| Love-at-arms | have | PG 3530, `rsabatini-love-at-arms` (1899 units) |
+| The Historical Nights' Entertainment: Second Series | have | PG 7949, `rsabatini-historical-nights-entertainment-7949` (1448 units) |
+| Torquemada and the Spanish Inquisition: A History | have | PG 53021, `rsabatini-torquemada-and-the-spanish-inquisition` (2461 units) |
+| Fortune's Fool | have | PG 65939, `rsabatini-fortunes-fool` (2168 units) |
+| Bellarion the Fortunate | have | PG 68411, `rsabatini-bellarion-the-fortunate` (3883 units) |
+| The hounds of God | have | PG 77465, `rsabatini-hounds-of-god` (1704 units) |
+| Captain Blood | have | PG 1965, `rsabatini-captain-blood` (2652 units) |
+| pg-29431 | excluded | PG 29431: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

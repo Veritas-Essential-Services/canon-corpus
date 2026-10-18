@@ -1,0 +1,294 @@
+{
+ "_about": "Completes Rafael Sabatini at Gutenberg beside the reading-list shelf",
+ "_author": "Rafael Sabatini",
+ "_name_words": [
+  "sabatini"
+ ],
+ "_surname": [
+  "rafael sabatini"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rsabatini-mistress-wilding": [
+   1457,
+   "Mistress Wilding"
+  ],
+  "rsabatini-bardelys-the-magnificent-being-an-account-of-the-s": [
+   2389,
+   "Bardelys the Magnificent Being an account of the strange wooing pursued by the Sieur Marcel de Saint-Pol, marquis of Bardelys..."
+  ],
+  "rsabatini-historical-nights-entertainment": [
+   2636,
+   "The Historical Nights' Entertainment: First Series"
+  ],
+  "rsabatini-st-martins-summer": [
+   2640,
+   "St. Martin's Summer"
+  ],
+  "rsabatini-snare": [
+   2687,
+   "The Snare"
+  ],
+  "rsabatini-lions-skin": [
+   2702,
+   "The Lion's Skin"
+  ],
+  "rsabatini-trampling-of-the-lilies": [
+   2783,
+   "The Trampling of the Lilies"
+  ],
+  "rsabatini-tavern-knight": [
+   3030,
+   "The tavern knight",
+   {
+    "contents_only": true
+   }
+  ],
+  "rsabatini-sea-hawk": [
+   3294,
+   "The sea-hawk"
+  ],
+  "rsabatini-shame-of-motley": [
+   3408,
+   "The Shame of Motley: being the memoir of certain transactions in the life of Lazzaro Biancomonte, of Biancomonte, sometime fool of the court of Pesaro"
+  ],
+  "rsabatini-strolling-saint": [
+   3423,
+   "The Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza"
+  ],
+  "rsabatini-suitors-of-yvonne": [
+   3430,
+   "The Suitors of Yvonne: being a portion of the memoirs of the Sieur Gaston de Luynes"
+  ],
+  "rsabatini-life-of-cesare-borgia": [
+   3467,
+   "The Life of Cesare Borgia"
+  ],
+  "rsabatini-love-at-arms": [
+   3530,
+   "Love-at-arms",
+   {
+    "contents_only": true
+   }
+  ],
+  "rsabatini-historical-nights-entertainment-7949": [
+   7949,
+   "The Historical Nights' Entertainment: Second Series"
+  ],
+  "rsabatini-torquemada-and-the-spanish-inquisition": [
+   53021,
+   "Torquemada and the Spanish Inquisition: A History"
+  ],
+  "rsabatini-fortunes-fool": [
+   65939,
+   "Fortune's Fool",
+   {
+    "contents_only": true
+   }
+  ],
+  "rsabatini-bellarion-the-fortunate": [
+   68411,
+   "Bellarion the Fortunate",
+   {
+    "contents_only": true
+   }
+  ],
+  "rsabatini-hounds-of-god": [
+   77465,
+   "The hounds of God",
+   {
+    "contents_only": true
+   }
+  ],
+  "rsabatini-captain-blood": [
+   1965,
+   "Captain Blood"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-29431": "PG 29431: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "rsabatini-mistress-wilding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-bardelys-the-magnificent-being-an-account-of-the-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-historical-nights-entertainment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-st-martins-summer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-snare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-lions-skin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-trampling-of-the-lilies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-tavern-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-sea-hawk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-shame-of-motley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-strolling-saint": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-suitors-of-yvonne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-life-of-cesare-borgia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-love-at-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-historical-nights-entertainment-7949": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-torquemada-and-the-spanish-inquisition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-fortunes-fool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-bellarion-the-fortunate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-hounds-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsabatini-captain-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rafael sabatini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

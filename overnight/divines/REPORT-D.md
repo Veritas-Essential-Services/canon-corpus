@@ -1677,3 +1677,6 @@
 
 ## 2026-10-17 23:48 CDT — george-washington-cable: done
 - george-washington-cable: new shelf, 14 Gutenberg books, 26,184 units, 220 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:48 CDT — sabatini-works: done
+- sabatini-works: new shelf, 20 Gutenberg books, 42,768 units, 37 ~2 ids; verify 0 mismatches, 0 rights flags.
