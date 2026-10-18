@@ -6690,6 +6690,23 @@ Slugs `monsabre-*`. Dominican preacher of Notre-Dame, in English.
 | Another 1890 copy | alternate | not shelved |
 | Modern retyped Rosary texts with no title page | excluded | |
 | French originals tagged English | excluded | |
+
+## Émile Bougaud (round 30, my pick, 2026-10-18)
+
+Slugs `bougaud-*`. Bishop of Laval: his lives and apologetics in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Life of St. Monica, tr. Mrs. Edward Hazeland (London: Thomas Baker, 1888) | have-ocr | IA `lifeofstmonica00mlab` |
+| Revelations of the Sacred Heart to Blessed Margaret Mary, and the History of her Life, by a Visitandine of Baltimore (New York: Benziger; copyright 1890) | have-ocr | IA `revelationsofthe00bouguoft` |
+| St. Chantal and the Foundation of the Visitation, vol. I, by a Visitandine (New York: Benziger, 1895) | have-ocr | IA `stchantalfoundat0001mons` |
+| St. Chantal and the Foundation of the Visitation, vol. II, by a Visitandine (New York: Benziger, 1895) | have-ocr | IA `stchantalfoundat0000mons` |
+| History of St. Vincent de Paul, vol. I, tr. Joseph Brady (London: Longmans, Green, 1899) | have-ocr | IA `HistoryOfStVincentDePaulV1` |
+| History of St. Vincent de Paul, vol. II, tr. Joseph Brady (London: Longmans, Green, 1899) | have-ocr | IA `HistoryOfStVincentDePaulV2` |
+| The Divinity of Christ: an Argument, tr. C. L. Currie (New York: William H. Young, 1901) | have-ocr | IA `divinityofchrist00boug` |
+| Other copies; the 1920 Margaret Mary; the 1926 Divinity reissue; Lady Herbert's Mother of Saint Augustine (1868), whose title page names only her | alternate | not shelved |
+| Lady Herbert's Three Phases of Christian Love (three lives, one Bougaud's) | excluded | |
+| A 1983 Monica | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
