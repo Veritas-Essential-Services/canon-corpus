@@ -1465,3 +1465,6 @@
 
 ## 2026-10-17 20:41 CDT — theodor-keim done
 - `pipeline/theodor-keim_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:41 CDT — otto-pfleiderer done
+- `pipeline/otto-pfleiderer_shelf.json`: 0 CCEL, 0 PG, 19 IA. Title pages read for pfleiderer-gifford-1, pfleiderer-gifford-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

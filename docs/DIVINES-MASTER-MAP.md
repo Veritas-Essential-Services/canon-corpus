@@ -7038,6 +7038,35 @@ Slugs `keim-*`. The History of Jesus of Nazara, six volumes (1876-1883).
 | The History of Jesus of Nazara, vol. VI, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1883) | have-ocr | IA `historyofjesusof06keimuoft` |
 | historyofjesusof01keim: vol. I, first English edition (1873), translator not named; superseded by Ransom's 1876 re-translation | alternate | not shelved |
 | Other copies of each volume | alternate | not shelved |
+
+## Otto Pfleiderer (round 31, my pick, 2026-10-18)
+
+Slugs `pfleiderer-*`. Paulinism, Philosophy of Religion, Primitive Christianity and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Paulinism, vol. I, tr. Edward Peters (London and Edinburgh: Williams and Norgate, 1877) | have-ocr | IA `paulinismcontrib01pfle` |
+| Paulinism, vol. II, tr. Edward Peters (London and Edinburgh: Williams and Norgate, 1877) | have-ocr | IA `paulinismcontrib02pfle` |
+| The Philosophy of Religion on the Basis of its History, vol. I, tr. Alexander Stewart and Allan Menzies (London and Edinburgh: Williams and Norgate, 1886) | have-ocr | IA `philreligionhist01pfle` |
+| The Philosophy of Religion on the Basis of its History, vol. II, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1887) | have-ocr | IA `philofreligionhist02pfle` |
+| The Philosophy of Religion on the Basis of its History, vol. III, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1888) | have-ocr | IA `religionhist03pfle` |
+| The Philosophy of Religion on the Basis of its History, vol. IV, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1888) | have-ocr | IA `philosophyofreli04pfle` |
+| Lectures on the Influence of the Apostle Paul on the Development of Christianity (Hibbert Lectures, 1885), tr. J. Frederick Smith (London and Edinburgh: Williams and Norgate, 1885) | have-ocr | IA `hibbertlectures00pfleuoft` |
+| The Development of Theology in Germany since Kant, tr. J. Frederick Smith (London: Swan Sonnenschein; New York: Macmillan, 1890) | have-ocr | IA `developmentofthe00pfle` |
+| Philosophy and Development of Religion (Gifford Lectures), vol. I (Edinburgh and London: William Blackwood, MDCCCXCIV) | have-ocr | IA `philosophyandeve01pfleuoft` |
+| Philosophy and Development of Religion (Gifford Lectures), vol. II (Edinburgh and London: William Blackwood, MDCCCXCIV) | have-ocr | IA `philosophyandeve02pfleuoft` |
+| Evolution and Theology and Other Essays, ed. Orello Cone (London: Adam and Charles Black, 1900) | have-ocr | IA `evolutiontheolog00pfleuoft` |
+| The Early Christian Conception of Christ (London: Williams & Norgate; New York: Putnam, 1905) | have-ocr | IA `earlychristianco0000pfle` |
+| Primitive Christianity, vol. I, tr. W. Montgomery (New York: Putnam; London: Williams and Norgate, 1906) | have-ocr | IA `primitivechristi01pfleuoft` |
+| Primitive Christianity, vol. II, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1909) | have-ocr | IA `primitivechristi02pfleuoft` |
+| Primitive Christianity, vol. III, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1910) | have-ocr | IA `primitivechristi03pfleuoft` |
+| Primitive Christianity, vol. IV, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1911) | have-ocr | IA `primitivechristi04pfleuoft` |
+| Christian Origins, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1906) | have-ocr | IA `cu31924031319720` |
+| Religion and Historic Faiths, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1907) | have-ocr | IA `religionhistoric01pfle` |
+| The Development of Christianity, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1910) | have-ocr | IA `developmentofchr00pfle` |
+| Paulinism second edition (1891); Hibbert Lectures third edition (1897) and the Scribner issue; Development of Theology 1893 and 1909 editions; other copies | alternate | not shelved |
+| 1956, 1965 and 1975 reprints | excluded | |
+| Moffatt's Paul and Paulinism; articles about him; another Pfleiderer on Indian plants | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
