@@ -6226,6 +6226,7 @@ Shelf: `pipeline/benjamin-kidd_shelf.json`. Benjamin Kidd (1858-1916). Social Ev
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Social Evolution (Macmillan, 1894) |  | `kidd-social-evolution-1894` | have-raw (IA `socialevolution00kiddiala`) |
+| Principles of Western Civilisation (Macmillan, 1902) |  | `kidd-principles-western-civilisation-1902` | have-raw (IA `principlesofwest0000benj`) |
 
 ## J. R. Seeley (Expansion of England)
 

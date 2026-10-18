@@ -1,5 +1,5 @@
 {
- "_about": "Benjamin Kidd (1858-1916), sociologist: Social Evolution (London and New York: Macmillan, copyright 1894; this copy the July 1894 reprint), raw IA OCR, clean 0.94. US public domain. No uids minted.",
+ "_about": "Benjamin Kidd (1858-1916), sociologist: Social Evolution (London and New York: Macmillan, copyright 1894; this copy the July 1894 reprint), raw IA OCR, clean 0.94. US public domain. Added in round 2026-10-17bg: Principles of Western Civilisation (London and New York: Macmillan, 1902), raw IA OCR, clean 0.93. No uids minted.",
  "_author": "Benjamin Kidd",
  "_name_words": [
   "benjamin",
@@ -14,6 +14,10 @@
   "kidd-social-evolution-1894": [
    "socialevolution00kiddiala",
    "Social Evolution (Macmillan, 1894)"
+  ],
+  "kidd-principles-western-civilisation-1902": [
+   "principlesofwest0000benj",
+   "Principles of Western Civilisation (Macmillan, 1902)"
   ]
  },
  "_excluded": {},
@@ -27,6 +31,17 @@
    "ia_rights": "ok: published 1894",
    "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kidd-principles-western-civilisation-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kidd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902-01-01",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
