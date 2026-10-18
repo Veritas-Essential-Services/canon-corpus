@@ -12355,6 +12355,39 @@ Shelf: `pipeline/charles-egbert-craddock_shelf.json` (2026-10-17; added at the c
 | The story of Keedon Bluffs | have | PG 76600, `cecraddock-story-of-keedon-bluffs` (1015 units) |
 | The fair Mississippian | have | PG 76784, `cecraddock-fair-mississippian` (1557 units) |
 
+## B. M. Croker
+
+Shelf: `pipeline/bm-croker_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Road to Mandalay: A Tale of Burma | have | PG 18239, `bmcroker-road-to-mandalay` (1794 units) |
+| The Serpent's Tooth | have | PG 64660, `bmcroker-serpents-tooth` (2016 units) |
+| The Real Lady Hilda: A Sketch | have | PG 64892, `bmcroker-real-lady-hilda` (885 units) |
+| Quicksands | have | PG 65195, `bmcroker-quicksands` (1825 units) |
+| Jungle Tales | have | PG 65561, `bmcroker-jungle-tales` (614 units) |
+| A Nine Days' Wonder | have | PG 65634, `bmcroker-a-nine-days-wonder` (2332 units) |
+| Angel: A sketch in Indian ink | have | PG 68996, `bmcroker-angel` (2286 units) |
+| Given in Marriage | have | PG 69142, `bmcroker-given-in-marriage` (2176 units) |
+| A bird of passage | have | PG 69198, `bmcroker-a-bird-of-passage` (3035 units) |
+| In Old Madras | have | PG 69383, `bmcroker-in-old-madras` (2274 units) |
+| Odds and ends | have | PG 70344, `bmcroker-odds-and-ends` (1712 units) |
+| "To let" | have | PG 70459, `bmcroker-to-let` (810 units) |
+| A rolling stone | have | PG 72076, `bmcroker-a-rolling-stone` (2184 units) |
+| Interference A novel, Vol. 1 (of 3) | have | PG 72104, `bmcroker-interference` (649 units) |
+| Married or single?, Vol. 1 (of 3) | have | PG 72106, `bmcroker-married-or-single-vol-1-of-3` (512 units) |
+| Married or single?, Vol. 2 (of 3) | have | PG 72107, `bmcroker-married-or-single-vol-2-of-3` (756 units) |
+| Married or single?, Vol. 3 (of 3) | have | PG 72196, `bmcroker-married-or-single-vol-3-of-3` (760 units) |
+| Mr. Jervis, Vol. 1 (of 3) | have | PG 72300, `bmcroker-mr-jervis-vol-1-of-3` (844 units) |
+| Mr. Jervis, Vol. 2 (of 3) | have | PG 72313, `bmcroker-mr-jervis-vol-2-of-3` (1003 units) |
+| Mr. Jervis, Vol. 3 (of 3) | have | PG 72342, `bmcroker-mr-jervis-vol-3-of-3` (1040 units) |
+| Proper pride A novel. Volume 1 (of 3) | have | PG 72433, `bmcroker-proper-pride` (686 units) |
+| Proper pride : A novel. Volume 2 (of 3) | have | PG 72519, `bmcroker-proper-pride-72519` (720 units) |
+| Her own people | have | PG 75402, `bmcroker-her-own-people` (2810 units) |
+| Interference A novel, Vol. 2 (of 3) | have | PG 72105, `bmcroker-interference-a-novel-vol-2-of-3` (685 units) |
+| Interference A novel, Vol. 3 (of 3) | have | PG 72210, `bmcroker-interference-a-novel-vol-3-of-3` (616 units) |
+| Proper pride A novel. Volume 3 (of 3) | have | PG 72550, `bmcroker-proper-pride-a-novel-volume-3-of-3` (988 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

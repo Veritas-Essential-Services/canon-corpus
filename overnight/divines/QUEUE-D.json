@@ -3629,6 +3629,14 @@
       "started": "2026-10-17T22:56:25-05:00",
       "finished": "2026-10-17T22:56:26-05:00",
       "notes": "charles-egbert-craddock: new shelf, 40 Gutenberg books, 34,383 units, 172 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bm-croker",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — B. M. Croker; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:56:26-05:00",
+      "finished": "2026-10-17T22:56:26-05:00",
+      "notes": "bm-croker: new shelf, 26 Gutenberg books, 36,012 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
