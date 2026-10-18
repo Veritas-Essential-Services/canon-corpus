@@ -1536,3 +1536,6 @@
 
 ## 2026-10-17 21:41 CDT — hopkinson-smith: done
 - hopkinson-smith: new shelf, 28 Gutenberg books, 26,094 units, 337 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:41 CDT — amelia-barr: done
+- amelia-barr: new shelf, 27 Gutenberg books, 44,336 units, 266 ~2 ids; verify 0 mismatches, 0 rights flags.

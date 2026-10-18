@@ -33102,6 +33102,41 @@ Shelf: `pipeline/hopkinson-smith_shelf.json` (2026-10-17; added at the coordinat
 | Enoch Crane (completed by F. Berkeley Smith) | have | PG 73453, `fhsmith-enoch-crane` (1869 units) |
 | pg-61989 | excluded | PG 61989 Some Artists at the Fair: a many-author book. |
 
+## Amelia E. Barr
+
+Shelf: `pipeline/amelia-barr_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Remember the Alamo | have | PG 287, `aebarr-remember-the-alamo` (1645 units) |
+| The Man Between: An International Romance | have | PG 787, `aebarr-man-between` (1420 units) |
+| The Maid of Maiden Lane | have | PG 5757, `aebarr-maid-of-maiden-lane` (1624 units) |
+| The Hallam Succession | have | PG 6806, `aebarr-hallam-succession` (1598 units) |
+| A Daughter of Fife | have | PG 7062, `aebarr-a-daughter-of-fife` (1265 units) |
+| A Knight of the Nets | have | PG 9374, `aebarr-a-knight-of-the-nets` (1473 units) |
+| Scottish sketches | have | PG 14494, `aebarr-scottish-sketches` (1298 units) |
+| Winter Evening Tales | have | PG 16222, `aebarr-winter-evening-tales` (1418 units) |
+| The Squire of Sandal-Side: A Pastoral Romance | have | PG 16258, `aebarr-squire-of-sandal-side` (1286 units) |
+| The Measure of a Man | have | PG 16453, `aebarr-measure-of-a-man` (1861 units) |
+| The Bow of Orange Ribbon: A Romance of New York | have | PG 17173, `aebarr-bow-of-orange-ribbon` (1751 units) |
+| An Orkney Maid | have | PG 29752, `aebarr-an-orkney-maid` (1504 units) |
+| A Singer from the Sea | have | PG 29909, `aebarr-a-singer-from-the-sea` (1615 units) |
+| Prisoners of Conscience | have | PG 31835, `aebarr-prisoners-of-conscience` (1191 units) |
+| Christine: A Fife Fisher Girl | have | PG 32085, `aebarr-christine` (2132 units) |
+| Maids, Wives, and Bachelors | have | PG 32135, `aebarr-maids-wives-and-bachelors` (507 units) |
+| Jan Vedder's Wife | have | PG 32144, `aebarr-jan-vedders-wife` (1285 units) |
+| Was It Right to Forgive? A Domestic Romance | have | PG 33195, `aebarr-was-it-right-to-forgive-a-domestic-romance` (1780 units) |
+| A Rose of a Hundred Leaves: A Love Story | have | PG 33599, `aebarr-a-rose-of-a-hundred-leaves` (744 units) |
+| I, Thou, and the Other One: A Love Story | have | PG 34628, `aebarr-i-thou-and-the-other-one` (1786 units) |
+| A Song of a Single Note: A Love Story | have | PG 35358, `aebarr-a-song-of-a-single-note` (1941 units) |
+| All the Days of My Life: An Autobiography The Red Leaves of a Human Heart | have | PG 35706, `aebarr-all-the-days-of-my-life` (2820 units) |
+| A Reconstructed Marriage | have | PG 36490, `aebarr-a-reconstructed-marriage` (2865 units) |
+| Playing With Fire | have | PG 36538, `aebarr-playing-with-fire` (1839 units) |
+| The Paper Cap: A Story of Love and Labor | have | PG 50089, `aebarr-paper-cap` (1852 units) |
+| The Lion's Whelp: A Story of Cromwell's Time | have | PG 50978, `aebarr-lions-whelp` (2094 units) |
+| The Belle of Bowling Green | have | PG 76576, `aebarr-belle-of-bowling-green` (1742 units) |
+| pg-58440 | excluded | PG 58440: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
