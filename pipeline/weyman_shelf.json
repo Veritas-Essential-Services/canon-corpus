@@ -147,6 +147,14 @@
    {
     "contents_only": true
    }
+  ],
+  "weyman-under-the-red-robe": [
+   1896,
+   "Under the red robe"
+  ],
+  "weyman-a-gentleman-of-france": [
+   1939,
+   "A Gentleman of France: Being the Memoirs of Gaston de Bonne Sieur de Marsac"
   ]
  },
  "internet_archive": {},
@@ -156,7 +164,7 @@
  "_checks": {
   "weyman-house-of-the-wolf": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley john weyman",
    "identity": "ok",
@@ -165,7 +173,7 @@
   },
   "weyman-from-the-memoirs-of-a-minister-of-france": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley john weyman",
    "identity": "ok",
@@ -174,7 +182,7 @@
   },
   "weyman-castle-inn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -183,7 +191,7 @@
   },
   "weyman-count-hannibal": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -192,7 +200,7 @@
   },
   "weyman-long-night": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley john weyman",
    "identity": "ok",
@@ -201,7 +209,7 @@
   },
   "weyman-in-kings-byways": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -210,7 +218,7 @@
   },
   "weyman-wild-geese": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -219,7 +227,7 @@
   },
   "weyman-chippinge-borough": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -228,7 +236,7 @@
   },
   "weyman-a-little-wizard": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -237,7 +245,7 @@
   },
   "weyman-abbess-of-vlaye": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -246,7 +254,7 @@
   },
   "weyman-for-the-cause": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -255,7 +263,7 @@
   },
   "weyman-my-lady-rotha": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -264,7 +272,7 @@
   },
   "weyman-laid-up-in-lavender": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -273,7 +281,7 @@
   },
   "weyman-ovingtons-bank": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -282,7 +290,7 @@
   },
   "weyman-historical-romances": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -291,7 +299,7 @@
   },
   "weyman-shrewsbury": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -300,7 +308,7 @@
   },
   "weyman-starvecrow-farm": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -309,7 +317,7 @@
   },
   "weyman-sophia": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -318,7 +326,7 @@
   },
   "weyman-when-love-calls": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -327,7 +335,7 @@
   },
   "weyman-new-rector": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -336,7 +344,7 @@
   },
   "weyman-snowball": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -345,7 +353,7 @@
   },
   "weyman-kings-stratagem-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -354,7 +362,7 @@
   },
   "weyman-great-house": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -363,7 +371,7 @@
   },
   "weyman-man-in-black": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -372,7 +380,7 @@
   },
   "weyman-story-of-francis-cludde": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley j. weyman",
    "identity": "ok",
@@ -381,7 +389,25 @@
   },
   "weyman-red-cockade": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley john weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-under-the-red-robe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-a-gentleman-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "stanley john weyman",
    "identity": "ok",
