@@ -6893,6 +6893,12 @@ Shelf: `pipeline/james-bissett-pratt_shelf.json`. Six books, 1907-1928.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Psychology of Religious Belief (Macmillan, 1907) |  | `pratt-psychology-religious-belief-1907` | have-raw (IA `psychologyofreli00pratuoft`) |
+| What is Pragmatism? (Macmillan, 1909) |  | `pratt-what-is-pragmatism-1909` | have-raw (IA `cu31924029019417`) |
+| India and its Faiths (Houghton Mifflin, 1915) |  | `pratt-india-and-its-faiths-1915` | have-raw (IA `indiaitsfaithstr00prat`) |
+| The Religious Consciousness (Macmillan, 1920) |  | `pratt-religious-consciousness-1920` | have-raw (IA `religiousconsciou00prat`) |
+| Matter and Spirit (Macmillan, 1922) |  | `pratt-matter-and-spirit-1922` | have-raw (IA `matterspiritstud00prat`) |
+| The Pilgrimage of Buddhism (Macmillan, 1928) |  | `pratt-pilgrimage-of-buddhism-1928` | have-raw (IA `pilgrimageofbudd0000jame`) |
 
 ## Durant Drake (critical realism)
 
