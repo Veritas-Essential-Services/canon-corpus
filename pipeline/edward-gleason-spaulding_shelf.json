@@ -1,0 +1,34 @@
+{
+ "_about": "Edward Gleason Spaulding (1873-1940), Princeton new realist. Raw IA OCR: The New Rationalism, the development of a constructive realism upon the basis of modern logic and science (New York: Holt, published May 1918), clean 0.92. His essay in The New Realism (1912) is on the edwin-b-holt shelf. US public domain. No uids minted.",
+ "_author": "Edward Gleason Spaulding",
+ "_name_words": [
+  "edward",
+  "gleason",
+  "spaulding"
+ ],
+ "_surname": [
+  "spaulding"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spaulding-new-rationalism-1918": [
+   "newrationalism010326mbp",
+   "The New Rationalism (Holt, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "spaulding-new-rationalism-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spaulding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

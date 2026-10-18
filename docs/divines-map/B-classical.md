@@ -6686,6 +6686,7 @@ Shelf: `pipeline/edward-gleason-spaulding_shelf.json`. One book.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The New Rationalism (Holt, 1918) |  | `spaulding-new-rationalism-1918` | have-raw (IA `newrationalism010326mbp`) |
 
 ## W. H. Sheldon (Yale)
 
