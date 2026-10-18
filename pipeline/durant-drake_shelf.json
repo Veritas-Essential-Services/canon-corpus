@@ -1,0 +1,92 @@
+{
+ "_about": "Durant Drake (1878-1933), Vassar philosopher and critical realist. Gutenberg: Problems of Conduct (1914). Raw IA OCR: Problems of Religion (Boston: Houghton Mifflin, 1916), clean 0.92; Shall We Stand by the Church? (New York: Macmillan, 1920), clean 0.93; Mind and its Place in Nature (New York: Macmillan, published December 1925), clean 0.92; The New Morality (New York: Macmillan, 1928), clean 0.95. Not to be confused with C. D. Broad's book of the same title (c-d-broad shelf). US public domain. No uids minted.",
+ "_author": "Durant Drake",
+ "_name_words": [
+  "durant",
+  "drake"
+ ],
+ "_surname": [
+  "durant drake"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "drake-problems-of-conduct": [
+   5775,
+   "Problems of Conduct"
+  ]
+ },
+ "internet_archive": {
+  "drake-problems-of-religion-1916": [
+   "problemsofreli00drak",
+   "Problems of Religion (Houghton Mifflin, 1916)"
+  ],
+  "drake-shall-we-stand-by-the-church-1920": [
+   "shallwestandbych00drak",
+   "Shall We Stand by the Church? (Macmillan, 1920)"
+  ],
+  "drake-mind-and-its-place-in-nature-1925": [
+   "minditsplaceinna0000dura",
+   "Mind and its Place in Nature (Macmillan, 1925)"
+  ],
+  "drake-new-morality-1928": [
+   "newmorality00drak",
+   "The New Morality (Macmillan, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "drake-problems-of-conduct": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant drake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "drake-problems-of-religion-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant drake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "drake-shall-we-stand-by-the-church-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant drake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "drake-mind-and-its-place-in-nature-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant drake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "drake-new-morality-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "durant drake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

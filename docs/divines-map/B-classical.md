@@ -6906,6 +6906,11 @@ Shelf: `pipeline/durant-drake_shelf.json`. Five books, 1914-1928.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Problems of Conduct |  | `drake-problems-of-conduct` | have (PG 5775) |
+| Problems of Religion (Houghton Mifflin, 1916) |  | `drake-problems-of-religion-1916` | have-raw (IA `problemsofreli00drak`) |
+| Shall We Stand by the Church? (Macmillan, 1920) |  | `drake-shall-we-stand-by-the-church-1920` | have-raw (IA `shallwestandbych00drak`) |
+| Mind and its Place in Nature (Macmillan, 1925) |  | `drake-mind-and-its-place-in-nature-1925` | have-raw (IA `minditsplaceinna0000dura`) |
+| The New Morality (Macmillan, 1928) |  | `drake-new-morality-1928` | have-raw (IA `newmorality00drak`) |
 
 ## Thomas Davidson (education and philosophy)
 
