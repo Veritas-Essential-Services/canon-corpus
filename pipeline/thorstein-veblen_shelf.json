@@ -1,5 +1,5 @@
 {
- "_about": "Thorstein Veblen (1857-1929): The Instinct of Workmanship and the State of the Industrial Arts (New York: Macmillan, 1914), An Inquiry into the Nature of Peace and the Terms of its Perpetuation (New York: Macmillan, April 1917), and The Place of Science in Modern Civilisation and other essays (New York: B. W. Huebsch, copyright 1919), clean Gutenberg texts. The Theory of the Leisure Class is on the Adler shelf and is not taken again. US public domain (all published before 1931). No uids minted.",
+ "_about": "Thorstein Veblen (1857-1929): The Instinct of Workmanship and the State of the Industrial Arts (New York: Macmillan, 1914), An Inquiry into the Nature of Peace and the Terms of its Perpetuation (New York: Macmillan, April 1917), and The Place of Science in Modern Civilisation and other essays (New York: B. W. Huebsch, copyright 1919), clean Gutenberg texts. The Theory of the Leisure Class is on the Adler shelf and is not taken again. US public domain (all published before 1931). Added in round 2026-10-17bl, raw IA OCR: The Theory of Business Enterprise (New York: Scribner's, 1904), clean 0.91; The Higher Learning in America (New York: B. W. Huebsch, 1918), clean 0.95. No uids minted.",
  "_author": "Thorstein Veblen",
  "_name_words": [
   "thorstein",
@@ -23,7 +23,16 @@
    "The Place of Science in Modern Civilisation (1919)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "veblen-theory-business-enterprise-1904": [
+   "theorybusinesse04veblgoog",
+   "The Theory of Business Enterprise (Scribner's, 1904)"
+  ],
+  "veblen-higher-learning-in-america-1918": [
+   "higherlearningin00vebluoft",
+   "The Higher Learning in America (Huebsch, 1918)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "veblen-instinct-of-workmanship-1914": {
@@ -52,6 +61,33 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "veblen-theory-business-enterprise-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "veblen-higher-learning-in-america-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veblen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "veblen-theory-business-enterprise-1904": {
+   "author": "Thorstein Veblen (title page OCR reads 'THORSTEIN yEBLEN'; Scribner's 1904 imprint present)"
   }
  }
 }

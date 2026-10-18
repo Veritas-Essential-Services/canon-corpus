@@ -5667,6 +5667,8 @@ Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisur
 | The Instinct of Workmanship (Macmillan, 1914) |  | `veblen-instinct-of-workmanship-1914` | have (PG 69888) |
 | An Inquiry into the Nature of Peace (Macmillan, 1917) |  | `veblen-nature-of-peace-1917` | have (PG 20694) |
 | The Place of Science in Modern Civilisation (1919) |  | `veblen-place-of-science-1919` | have (PG 39949) |
+| The Theory of Business Enterprise (Scribner's, 1904) |  | `veblen-theory-business-enterprise-1904` | have-raw (IA `theorybusinesse04veblgoog`) |
+| The Higher Learning in America (Huebsch, 1918) |  | `veblen-higher-learning-in-america-1918` | have-raw (IA `higherlearningin00vebluoft`) |
 
 ## Richard T. Ely (political economy)
 
