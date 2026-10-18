@@ -175,6 +175,23 @@
   "erburroughs-illustrated-tarzan-book-no-1": [
    75817,
    "The illustrated Tarzan book no. 1"
+  ],
+  "erburroughs-tarzan-the-terrible": [
+   2020,
+   "Tarzan the Terrible",
+   {
+    "levels": [
+     {
+      "re": "[0-9]+\\.?$"
+     }
+    ],
+    "start": "1$",
+    "front": true
+   }
+  ],
+  "erburroughs-outlaw-of-torn": [
+   369,
+   "The outlaw of Torn"
   ]
  },
  "internet_archive": {},
@@ -450,6 +467,24 @@
    "pg_translator": null
   },
   "erburroughs-illustrated-tarzan-book-no-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-the-terrible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-outlaw-of-torn": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
