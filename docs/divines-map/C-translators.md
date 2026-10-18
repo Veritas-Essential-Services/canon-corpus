@@ -363,18 +363,29 @@ Round 4, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `norton-paradise` | Dante | Paradiso, prose | Charles Eliot Norton | 1892 | have-raw | IA `divinecomedyofda03dantiala` |
 | `norton-new-life` | Dante | La Vita Nuova (The New Life) | Charles Eliot Norton | 1867 | have-raw | IA `newlifeofdanteal00dant_1` |
 
-## John Payne (Villon, Decameron)
+## John Payne (Villon, Decameron; since round 81 also Bandello, Hafiz vol. I and three volumes of Flowers of France)
 
 Shelf: `pipeline/payne_shelf.json` · fetch `python3 pipeline/fetch_shelf.py payne` · titles `python3 pipeline/split_shelf_titles.py payne`.
-Round 4, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 4, vetoable. Round 81 (2026-10-17), vetoable: eight titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `payne-alaeddin-and-the-enchanted-lamp` | Anonymous (from the Arabian Nights) | Alaeddin and the Enchanted Lamp | John Payne | 1889 | have | PG 5100 |
 | `payne-decameron` | Boccaccio | The Decameron | John Payne | 1886 | have | PG 23700 |
 | `payne-villon` | Villon | Poems (Lesser and Greater Testament, Ballades) | John Payne | 1878 | have-raw | IA `poemsofmasterfra00villiala` |
+| `payne-bandello-1` | Bandello | The Novels of Matteo Bandello, Bishop of Agen, vol. I | John Payne | 1890 | have-raw | IA `novelsofmatteoba01band` |
+| `payne-bandello-2` | Bandello | The Novels of Matteo Bandello, Bishop of Agen, vol. II | John Payne | 1890 | have-raw | IA `novelsofmatteoba02band` |
+| `payne-bandello-4` | Bandello | The Novels of Matteo Bandello, Bishop of Agen, vol. IV | John Payne | 1890 | have-raw | IA `novelsofmatteoba04band` |
+| `payne-bandello-5` | Bandello | The Novels of Matteo Bandello, Bishop of Agen, vol. V | John Payne | 1890 | have-raw | IA `novelsofmatteoba05band` |
+| `payne-bandello-6` | Bandello | The Novels of Matteo Bandello, Bishop of Agen, vol. VI | John Payne | 1890 | have-raw | IA `novelsofmatteoba06band` |
+| `payne-hafiz-1` | Hafiz | The Poems of Shemseddin Mohammed Hafiz of Shiraz, now first completely done into English verse, vol. I | John Payne | 1901 | have-raw | IA `poemsshemseddin00socigoog` |
+| `payne-flowers-romantic-1` | Hugo to Leconte de Lisle | Flowers of France: the Romantic Period, Hugo to Leconte de Lisle, vol. I | John Payne | 1906 | have-raw | IA `flowersoffrance01payn` |
+| `payne-flowers-romantic-2` | Hugo to Leconte de Lisle | Flowers of France: the Romantic Period, Hugo to Leconte de Lisle, vol. II | John Payne | 1906 | have-raw | IA `flowersoffrancer02payn` |
+| `payne-flowers-renaissance` | Ronsard to Saint-Amant | Flowers of France: the Renaissance Period, from Ronsard to Saint-Amant | John Payne | 1907 | have-raw | IA `flowersoffrancer00payn` |
 | `payne-thousand-nights` | — | Payne's Book of the Thousand Nights and One Night (Villon Society 1882-84, 9 vols): Burton's and Lane's are already shelved; the IA set is incomplete and not fetched. Your call. | — | — | pending | — |
-| `payne-bandello` | — | Novels of Matteo Bandello (1890, 6 vols): on IA; not fetched this run. | — | — | pending | — |
+| `payne-bandello` | — | Novels of Matteo Bandello (1890, 6 vols): vols I, II and IV-VI are now held. Vol. III was not found online. | — | — | pending | — |
+| `payne-hafiz` | — | The Poems of Hafiz (1901, 3 vols): vol. I is held; vols II and III were not found online. | — | — | pending | — |
+| — | — | payne-ibn-et-tefrid: The Quatrains of Ibn et Tefrid (1921) were left out: not checked whether they are a translation or Payne's own verse under an invented name. | — | — | excluded | — |
 
 ## Carlyle as translator (Goethe, German tales)
 

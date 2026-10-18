@@ -21,6 +21,42 @@
   "payne-villon-1878": [
    "poemsofmasterfra00villiala",
    "The Poems of Master Francis Villon of Paris (1878)"
+  ],
+  "payne-bandello-1": [
+   "novelsofmatteoba01band",
+   "The Novels of Matteo Bandello, vol. I (1890)"
+  ],
+  "payne-bandello-2": [
+   "novelsofmatteoba02band",
+   "The Novels of Matteo Bandello, vol. II (1890)"
+  ],
+  "payne-bandello-4": [
+   "novelsofmatteoba04band",
+   "The Novels of Matteo Bandello, vol. IV (1890)"
+  ],
+  "payne-bandello-5": [
+   "novelsofmatteoba05band",
+   "The Novels of Matteo Bandello, vol. V (1890)"
+  ],
+  "payne-bandello-6": [
+   "novelsofmatteoba06band",
+   "The Novels of Matteo Bandello, vol. VI (1890)"
+  ],
+  "payne-hafiz-1": [
+   "poemsshemseddin00socigoog",
+   "The Poems of Shemseddin Mohammed Hafiz of Shiraz, vol. I (1901)"
+  ],
+  "payne-flowers-romantic-1": [
+   "flowersoffrance01payn",
+   "Flowers of France: the Romantic Period, vol. I (1906)"
+  ],
+  "payne-flowers-romantic-2": [
+   "flowersoffrancer02payn",
+   "Flowers of France: the Romantic Period, vol. II (1906)"
+  ],
+  "payne-flowers-renaissance": [
+   "flowersoffrancer00payn",
+   "Flowers of France: the Renaissance Period (1907)"
   ]
  },
  "titles": {
@@ -48,18 +84,94 @@
    "translated": 1878,
    "translator": "John Payne",
    "scan_edition": "Villon Society 1878, privately printed, first edition (UC copy), raw OCR"
+  },
+  "payne-bandello-1": {
+   "source": "payne-bandello-1",
+   "of": "Bandello",
+   "work": "The Novels of Matteo Bandello, Bishop of Agen, vol. I",
+   "translated": 1890,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1890, privately printed, raw OCR"
+  },
+  "payne-bandello-2": {
+   "source": "payne-bandello-2",
+   "of": "Bandello",
+   "work": "The Novels of Matteo Bandello, Bishop of Agen, vol. II",
+   "translated": 1890,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1890, privately printed, raw OCR"
+  },
+  "payne-bandello-4": {
+   "source": "payne-bandello-4",
+   "of": "Bandello",
+   "work": "The Novels of Matteo Bandello, Bishop of Agen, vol. IV",
+   "translated": 1890,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1890, privately printed, raw OCR"
+  },
+  "payne-bandello-5": {
+   "source": "payne-bandello-5",
+   "of": "Bandello",
+   "work": "The Novels of Matteo Bandello, Bishop of Agen, vol. V",
+   "translated": 1890,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1890, privately printed, raw OCR"
+  },
+  "payne-bandello-6": {
+   "source": "payne-bandello-6",
+   "of": "Bandello",
+   "work": "The Novels of Matteo Bandello, Bishop of Agen, vol. VI",
+   "translated": 1890,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1890, privately printed, raw OCR"
+  },
+  "payne-hafiz-1": {
+   "source": "payne-hafiz-1",
+   "of": "Hafiz",
+   "work": "The Poems of Shemseddin Mohammed Hafiz of Shiraz, now first completely done into English verse, vol. I",
+   "translated": 1901,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1901, privately printed (Google scan), raw OCR",
+   "note": "Vols II and III were not found online."
+  },
+  "payne-flowers-romantic-1": {
+   "source": "payne-flowers-romantic-1",
+   "of": "Hugo to Leconte de Lisle",
+   "work": "Flowers of France: the Romantic Period, Hugo to Leconte de Lisle, vol. I",
+   "translated": 1906,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1906, privately printed, raw OCR"
+  },
+  "payne-flowers-romantic-2": {
+   "source": "payne-flowers-romantic-2",
+   "of": "Hugo to Leconte de Lisle",
+   "work": "Flowers of France: the Romantic Period, Hugo to Leconte de Lisle, vol. II",
+   "translated": 1906,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1906, privately printed, raw OCR"
+  },
+  "payne-flowers-renaissance": {
+   "source": "payne-flowers-renaissance",
+   "of": "Ronsard to Saint-Amant",
+   "work": "Flowers of France: the Renaissance Period, from Ronsard to Saint-Amant",
+   "translated": 1907,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society, London 1907, privately printed, raw OCR"
   }
  },
  "_pending": {
   "payne-thousand-nights": "Payne's Book of the Thousand Nights and One Night (Villon Society 1882-84, 9 vols): Burton's and Lane's are already shelved; the IA set is incomplete and not fetched. Your call.",
-  "payne-bandello": "Novels of Matteo Bandello (1890, 6 vols): on IA; not fetched this run."
+  "payne-bandello": "Novels of Matteo Bandello (1890, 6 vols): vols I, II and IV-VI are now held. Vol. III was not found online.",
+  "payne-hafiz": "The Poems of Hafiz (1901, 3 vols): vol. I is held; vols II and III were not found online."
  },
- "_excluded": {},
+ "_excluded": {
+  "payne-ibn-et-tefrid": "The Quatrains of Ibn et Tefrid (1921) were left out: not checked whether they are a translation or Payne's own verse under an invented name."
+ },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "payne-decameron": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "john payne",
    "identity": "ok",
@@ -68,7 +180,7 @@
   },
   "payne-pg5100": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "john payne",
    "identity": "ok",
@@ -77,12 +189,114 @@
   },
   "payne-villon-1878": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "john payne",
    "identity": "ok",
    "ia_rights": "ok: published 1878",
    "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-bandello-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-bandello-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-bandello-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-bandello-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-bandello-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-hafiz-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-flowers-romantic-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-flowers-romantic-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "payne-flowers-renaissance": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
@@ -103,8 +317,102 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
+  },
+  "payne-bandello-1": {
+   "ia": "novelsofmatteoba01band",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1541,
+    1550,
+    1554,
+    1561,
+    1573,
+    1787
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-bandello-2": {
+   "ia": "novelsofmatteoba02band",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1525
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-bandello-4": {
+   "ia": "novelsofmatteoba04band",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1535
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-bandello-5": {
+   "ia": "novelsofmatteoba05band",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-bandello-6": {
+   "ia": "novelsofmatteoba06band",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-hafiz-1": {
+   "ia": "poemsshemseddin00socigoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-flowers-romantic-1": {
+   "ia": "flowersoffrance01payn",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1875,
+    1882,
+    1884,
+    1891,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-flowers-romantic-2": {
+   "ia": "flowersoffrancer02payn",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "payne-flowers-renaissance": {
+   "ia": "flowersoffrancer00payn",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1546
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
- "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."
+ "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03).",
+ "_identity_checked": {
+  "payne-bandello-1": {
+   "author": "The blackletter title page OCR reads 'Jobn ipapnc' for John Payne, translator of Villon, the Thousand Nights and One Night and the Decameron, under 'LONDON: MDCCCXC: PRINTED FOR THE VILLON SOCIETY'. Checked by eye 2026-10-17."
+  },
+  "payne-bandello-2": {
+   "author": "Same 1890 Villon Society set as vol. I, whose blackletter title page OCR reads 'Jobn ipapnc' for John Payne; this volume's OCR has the 1890 Villon Society imprint and 'CONTENTS OF VOLUME II' but no legible translator name. Checked by eye 2026-10-17."
+  },
+  "payne-bandello-4": {
+   "author": "Same 1890 Villon Society set as vol. I, whose blackletter title page OCR reads 'Jobn ipapnc' for John Payne; this volume's OCR has the 1890 Villon Society imprint and 'CONTENTS OF VOLUME IV' but no legible translator name. Checked by eye 2026-10-17."
+  },
+  "payne-bandello-5": {
+   "author": "Same 1890 Villon Society set as vol. I, whose blackletter title page OCR reads 'Jobn ipapnc' for John Payne; this volume's OCR has the 1890 Villon Society imprint and 'CONTENTS OF VOLUME V' but no legible translator name. Checked by eye 2026-10-17."
+  },
+  "payne-bandello-6": {
+   "author": "Same 1890 Villon Society set as vol. I, whose blackletter title page OCR reads 'Jobn ipapnc' for John Payne; this volume's OCR has the 1890 Villon Society imprint and 'CONTENTS OF VOLUME VI' but no legible translator name. Checked by eye 2026-10-17."
+  },
+  "payne-hafiz-1": {
+   "author": "The title page OCR reads 'BY JOHN PA YNE, AUTHOR OF THE MASQUE OF SHADOWS', with 'IN THREE VOLUMES. VOLUME THE FIRST.' and the Villon Society 1901 imprint. Checked by eye 2026-10-17."
+  }
+ }
 }

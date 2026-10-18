@@ -235,3 +235,5 @@
 - 2026-10-17T19:25-05:00: round 79: griffith +6 (8), whinfield +3 (4), nicholson +3 (5). --verify --record 0 mismatched.
 
 - 2026-10-17T19:30-05:00: round 80: persian-poets (9). --verify --record 0 mismatched. pers-bustan-clarke identity override (OCR 'WILBERTORCE').
+
+- 2026-10-17T19:36-05:00: round 81: payne +8 (12). --verify --record 0 mismatched. Six identity overrides (blackletter or unreadable title pages).
