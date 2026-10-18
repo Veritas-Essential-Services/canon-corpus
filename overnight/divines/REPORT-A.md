@@ -1771,3 +1771,6 @@
 
 ## 2026-10-17 22:27 CDT — henry-hart-milman done
 - `pipeline/henry-hart-milman_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — charles-de-montalembert done
+- `pipeline/charles-de-montalembert_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for montalembert-monks-west-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

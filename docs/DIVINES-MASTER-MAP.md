@@ -8521,6 +8521,24 @@ Slugs `milman-*`. Built from title pages read for round 35.
 | The History of the Jews, third edition, vol. III (London: John Murray, 1863) | have-ocr | IA `historyjewsbyhh01milmgoog` |
 | A second 1854-55 Latin Christianity set; Harper's History of the Jews (New York, 1830-1843); his Life of Thomas à Becket (PG 41811, an extract with an unnamed editor) | alternate | not shelved |
 | The 1829 Family Library History of the Jews, which names no author; his Greek and Sanskrit verse translations | excluded | |
+
+## Charles de Montalembert (round 35, my pick, 2026-10-18)
+
+Slugs `montalembert-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. I (Edinburgh and London: William Blackwood and Sons, 1861) | have-ocr | IA `a595181701montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. II (Edinburgh and London: William Blackwood and Sons, 1861) | have-ocr | IA `a595181702montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. III (Edinburgh and London: William Blackwood and Sons, 1867) | have-ocr | IA `a595181703montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. IV (Edinburgh and London: William Blackwood and Sons, 1867) | have-ocr | IA `a595181704montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. V (Edinburgh and London: William Blackwood and Sons, 1867) | have-ocr | IA `a595181705montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. VI (Edinburgh and London: William Blackwood and Sons, 1879) | have-ocr | IA `a595181706montuoft` |
+| The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. VII (Edinburgh and London: William Blackwood and Sons, 1879) | have-ocr | IA `a595181707montuoft` |
+| The Life of Saint Elizabeth, Duchess of Thuringia, tr. Mary Hackett (Dublin: James Duffy; Clonmel: J. Hackett, 1848) | have-ocr | IA `TheLifeOfSaintElizabethOfHungary` |
+| Saint Columba, Apostle of Caledonia (Edinburgh and London: William Blackwood and Sons, 1868) | have-ocr | IA `saintcolumbaapo00montgoog` |
+| Monks of the West (Boston: Donahoe, 1872, two volumes) and Nimmo's six volumes with Gasquet's introduction (1896); Hackett's St Elizabeth (New York: Kenedy, about 1901) and Hoyt's translation (copyright 1904); Saint Columba (New York, 1868); McCarthy's Saint Columban (1927) | alternate | not shelved |
+| The Memoir of Lacordaire (already shelved); his political and medical speeches; French editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

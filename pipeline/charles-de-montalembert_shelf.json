@@ -1,0 +1,180 @@
+{
+ "_about": "Public-domain Charles de Montalembert (1810-1870), French Catholic historian and statesman, in English translation for the Word Hoard: The Monks of the West from St. Benedict to St. Bernard, the authorised translation in seven volumes (1861-1879), the Life of Saint Elizabeth of Hungary tr. Mary Hackett (Dublin, 1848) and Saint Columba, Apostle of Caledonia (1868), from Internet Archive scans. His memoir of Lacordaire is already on the henri-lacordaire shelf. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "montalembert"
+ ],
+ "_surname": [
+  "montalembert",
+  "count de montalembert",
+  "charles de montalembert"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "montalembert-monks-west-1": [
+   "a595181701montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. I (Edinburgh and London: William Blackwood and Sons, 1861)"
+  ],
+  "montalembert-monks-west-2": [
+   "a595181702montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. II (Edinburgh and London: William Blackwood and Sons, 1861)"
+  ],
+  "montalembert-monks-west-3": [
+   "a595181703montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. III (Edinburgh and London: William Blackwood and Sons, 1867)"
+  ],
+  "montalembert-monks-west-4": [
+   "a595181704montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. IV (Edinburgh and London: William Blackwood and Sons, 1867)"
+  ],
+  "montalembert-monks-west-5": [
+   "a595181705montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. V (Edinburgh and London: William Blackwood and Sons, 1867)"
+  ],
+  "montalembert-monks-west-6": [
+   "a595181706montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. VI (Edinburgh and London: William Blackwood and Sons, 1879)"
+  ],
+  "montalembert-monks-west-7": [
+   "a595181707montuoft",
+   "The Monks of the West, from St. Benedict to St. Bernard, authorised translation, vol. VII (Edinburgh and London: William Blackwood and Sons, 1879)"
+  ],
+  "montalembert-st-elizabeth": [
+   "TheLifeOfSaintElizabethOfHungary",
+   "The Life of Saint Elizabeth, Duchess of Thuringia, tr. Mary Hackett (Dublin: James Duffy; Clonmel: J. Hackett, 1848)"
+  ],
+  "montalembert-st-columba": [
+   "saintcolumbaapo00montgoog",
+   "Saint Columba, Apostle of Caledonia (Edinburgh and London: William Blackwood and Sons, 1868)"
+  ]
+ },
+ "_alternates": {
+  "montalembert-copies": "Monks of the West (Boston: Donahoe, 1872, two volumes) and Nimmo's six volumes with Gasquet's introduction (1896); Hackett's St Elizabeth (New York: Kenedy, about 1901) and Hoyt's translation (copyright 1904); Saint Columba (New York, 1868); McCarthy's Saint Columban (1927)"
+ },
+ "_excluded": {
+  "montalembert-other": "The Memoir of Lacordaire (already shelved); his political and medical speeches; French editions"
+ },
+ "_identity_checked": {
+  "montalembert-monks-west-2": {
+   "author": "title page read: BY THE COUNT DE MONTALEMBEET [Montalembert] MEMBER OF THE FRENCH ACADEMY, authorised translation, vol. II, Blackwood MDCCCLXI"
+  }
+ },
+ "_rights_checked": {
+  "montalembert-monks-west-1": "title page read: 'Authorised translation', translator not named on any volume; vols III-VII are catalogued 1861 in error (title pages read 1867 and 1879)",
+  "montalembert-st-columba": "title page read: translator not named; taken from vol. III of the Monks",
+  "montalembert-st-elizabeth": "title page read: 'Translated by Mary Hackett' (OCR 'MAKY HACKETT')"
+ },
+ "_pending": {
+  "montalembert-unread": "Pius IX and France (1859) and the Conversion of England (1867): title pages not read"
+ },
+ "_translators": {
+  "montalembert-st-elizabeth": "hackett"
+ },
+ "_checks": {
+  "montalembert-monks-west-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Authorised translation', translator not named on any volume; vols III-VII are catalogued 1861 in error (title pages read 1867 and 1879)"
+  },
+  "montalembert-monks-west-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-monks-west-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-monks-west-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-monks-west-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-monks-west-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-monks-west-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1861-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "montalembert-st-elizabeth": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "translator_claimed": "hackett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated by Mary Hackett' (OCR 'MAKY HACKETT')"
+  },
+  "montalembert-st-columba": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "montalembert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; taken from vol. III of the Monks"
+  }
+ }
+}
