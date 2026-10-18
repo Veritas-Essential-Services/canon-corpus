@@ -6418,6 +6418,17 @@ Slugs `olier-*`. Founder of Saint-Sulpice: his Catechism of the Interior Life.
 | Catechism of an Interior Life, translated from the French by M. E. K. (Baltimore: Murphy, 1852) | have-ocr | IA `catechismofanint00olieuoft` |
 | Thompson's Life of M. Olier | excluded | |
 | Agreda's Admirable Life of St Joseph, which only prefaces Olier's Sentiments | excluded | |
+
+## John Vianney (round 29, my pick, 2026-10-18)
+
+Slugs `vianney-*`. The Curé of Ars, represented by his Thoughts only.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoughts of the Curé of Ars (John Baptist Vianney), tr. Pauline P. Stump (Boston: Flynn & Mahony, 1896) | have-ocr | IA `thoughtsofcurofa00vian` |
+| The Spirit of the Curé of Ars, from the French of Abbé Monnin, ed. J. E. Bowden (London, 1865; TheSpiritOfTheCureOfArs): his sayings and exhortations, but the title page names Monnin as the compiler | alternate | not shelved |
+| English Sermons and Catechisms (1951 and later) | excluded | |
+| Lives by Monnin, Trochu and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

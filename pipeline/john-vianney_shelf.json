@@ -1,0 +1,49 @@
+{
+ "_about": "Public-domain St John Vianney, the Curé of Ars (1786-1859), in English for the Word Hoard: Thoughts of the Curé of Ars, tr. Pauline P. Stump (Boston, 1896), from an Internet Archive scan. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "vianney"
+ ],
+ "_surname": [
+  "vianney",
+  "cure of ars",
+  "curé of ars"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vianney-thoughts": [
+   "thoughtsofcurofa00vian",
+   "Thoughts of the Curé of Ars (John Baptist Vianney), tr. Pauline P. Stump (Boston: Flynn & Mahony, 1896)"
+  ]
+ },
+ "_alternates": {
+  "vianney-spirit": "The Spirit of the Curé of Ars, from the French of Abbé Monnin, ed. J. E. Bowden (London, 1865; TheSpiritOfTheCureOfArs): his sayings and exhortations, but the title page names Monnin as the compiler"
+ },
+ "_excluded": {
+  "vianney-late": "English Sermons and Catechisms (1951 and later)",
+  "vianney-about": "Lives by Monnin, Trochu and others"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "vianney-sermons": "An English edition of his sermons or catechisms before 1930: not found"
+ },
+ "_translators": {
+  "vianney-thoughts": "stump"
+ },
+ "_checks": {
+  "vianney-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vianney",
+   "translator_claimed": "stump",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
