@@ -3453,6 +3453,14 @@
       "started": "2026-10-17T22:16:54-05:00",
       "finished": "2026-10-17T22:16:54-05:00",
       "notes": "algernon-blackwood: new shelf, 27 Gutenberg books, 34,103 units, 1572 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hamlin-garland",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Hamlin Garland; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:16:55-05:00",
+      "finished": "2026-10-17T22:16:55-05:00",
+      "notes": "hamlin-garland: new shelf, 24 Gutenberg books, 42,790 units, 1198 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

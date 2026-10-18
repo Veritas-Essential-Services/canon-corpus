@@ -1572,3 +1572,6 @@
 
 ## 2026-10-17 22:16 CDT — algernon-blackwood: done
 - algernon-blackwood: new shelf, 27 Gutenberg books, 34,103 units, 1572 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:16 CDT — hamlin-garland: done
+- hamlin-garland: new shelf, 24 Gutenberg books, 42,790 units, 1198 ~2 ids; verify 0 mismatches, 0 rights flags.

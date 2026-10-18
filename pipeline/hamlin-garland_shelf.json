@@ -1,0 +1,365 @@
+{
+ "_about": "Hamlin Garland's stories and novels of the Middle Border and the West: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Hamlin Garland",
+ "_name_words": [
+  "garland"
+ ],
+ "_surname": [
+  "hamlin garland"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hgarland-main-travelled-roads": [
+   2809,
+   "Main-Travelled Roads",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-moccasin-ranch": [
+   19764,
+   "The Moccasin Ranch: A Story of Dakota",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-wayside-courtships": [
+   20247,
+   "Wayside Courtships"
+  ],
+  "hgarland-spirit-of-sweetwater": [
+   20695,
+   "The Spirit of Sweetwater"
+  ],
+  "hgarland-prairie-folks": [
+   20697,
+   "Prairie Folks"
+  ],
+  "hgarland-other-main-travelled-roads": [
+   20714,
+   "Other Main-Travelled Roads",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-eagles-heart": [
+   21255,
+   "The Eagle's Heart"
+  ],
+  "hgarland-a-little-norsk": [
+   21850,
+   "A Little Norsk; Or, Ol' Pap's Flaxen"
+  ],
+  "hgarland-a-daughter-of-the-middle-border": [
+   22329,
+   "A Daughter of the Middle Border"
+  ],
+  "hgarland-shadow-world": [
+   22593,
+   "The Shadow World"
+  ],
+  "hgarland-tyranny-of-the-dark": [
+   24220,
+   "The Tyranny of the Dark",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-a-spoil-of-office": [
+   26189,
+   "A Spoil of Office: A Story of the Modern West",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-foresters-daughter": [
+   26239,
+   "The Forester's Daughter: A Romance of the Bear-Tooth Range"
+  ],
+  "hgarland-cavanagh-forest-ranger": [
+   26244,
+   "Cavanagh, Forest Ranger: A Romance of the Mountain West"
+  ],
+  "hgarland-light-of-the-star": [
+   28492,
+   "The Light of the Star: A Novel"
+  ],
+  "hgarland-trail-of-the-goldseekers": [
+   28551,
+   "The Trail of the Goldseekers: A Record of Travel in Prose and Verse",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-a-son-of-the-middle-border": [
+   28791,
+   "A Son of the Middle Border",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-they-of-the-high-trails": [
+   29119,
+   "They of the High Trails",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-money-magic": [
+   30318,
+   "Money Magic: A Novel"
+  ],
+  "hgarland-captain-of-the-gray-horse-troop": [
+   33458,
+   "The Captain of the Gray-Horse Troop",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-victor-ollnees-discipline": [
+   34250,
+   "Victor Ollnee's Discipline",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-rose-of-dutchers-coolly": [
+   35805,
+   "Rose of Dutcher's Coolly",
+   {
+    "contents_only": true
+   }
+  ],
+  "hgarland-a-pioneer-mother": [
+   48442,
+   "A Pioneer Mother"
+  ],
+  "hgarland-book-of-the-american-indian": [
+   75161,
+   "The book of the American Indian",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hgarland-main-travelled-roads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-moccasin-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-wayside-courtships": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-spirit-of-sweetwater": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-prairie-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-other-main-travelled-roads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-eagles-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-a-little-norsk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-a-daughter-of-the-middle-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-shadow-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-tyranny-of-the-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-a-spoil-of-office": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-foresters-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-cavanagh-forest-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-light-of-the-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-trail-of-the-goldseekers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-a-son-of-the-middle-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-they-of-the-high-trails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-money-magic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-captain-of-the-gray-horse-troop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-victor-ollnees-discipline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-rose-of-dutchers-coolly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-a-pioneer-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgarland-book-of-the-american-indian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hamlin garland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

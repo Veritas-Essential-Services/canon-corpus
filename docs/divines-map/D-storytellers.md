@@ -11472,6 +11472,37 @@ Shelf: `pipeline/algernon-blackwood_shelf.json` (2026-10-17; added at the coordi
 | Episodes before thirty | have | PG 76991, `ablackwood-episodes-before-thirty` (1211 units) |
 | Pan's garden | have | PG 77472, `ablackwood-pans-garden` (1915 units) |
 
+## Hamlin Garland
+
+Shelf: `pipeline/hamlin-garland_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (24 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Main-Travelled Roads | have | PG 2809, `hgarland-main-travelled-roads` (2802 units) |
+| The Moccasin Ranch: A Story of Dakota | have | PG 19764, `hgarland-moccasin-ranch` (514 units) |
+| Wayside Courtships | have | PG 20247, `hgarland-wayside-courtships` (2421 units) |
+| The Spirit of Sweetwater | have | PG 20695, `hgarland-spirit-of-sweetwater` (426 units) |
+| Prairie Folks | have | PG 20697, `hgarland-prairie-folks` (1436 units) |
+| Other Main-Travelled Roads | have | PG 20714, `hgarland-other-main-travelled-roads` (2653 units) |
+| The Eagle's Heart | have | PG 21255, `hgarland-eagles-heart` (1798 units) |
+| A Little Norsk; Or, Ol' Pap's Flaxen | have | PG 21850, `hgarland-a-little-norsk` (868 units) |
+| A Daughter of the Middle Border | have | PG 22329, `hgarland-a-daughter-of-the-middle-border` (1957 units) |
+| The Shadow World | have | PG 22593, `hgarland-shadow-world` (1299 units) |
+| The Tyranny of the Dark | have | PG 24220, `hgarland-tyranny-of-the-dark` (2489 units) |
+| A Spoil of Office: A Story of the Modern West | have | PG 26189, `hgarland-a-spoil-of-office` (2051 units) |
+| The Forester's Daughter: A Romance of the Bear-Tooth Range | have | PG 26239, `hgarland-foresters-daughter` (1616 units) |
+| Cavanagh, Forest Ranger: A Romance of the Mountain West | have | PG 26244, `hgarland-cavanagh-forest-ranger` (1901 units) |
+| The Light of the Star: A Novel | have | PG 28492, `hgarland-light-of-the-star` (865 units) |
+| The Trail of the Goldseekers: A Record of Travel in Prose and Verse | have | PG 28551, `hgarland-trail-of-the-goldseekers` (984 units) |
+| A Son of the Middle Border | have | PG 28791, `hgarland-a-son-of-the-middle-border` (2065 units) |
+| They of the High Trails | have | PG 29119, `hgarland-they-of-the-high-trails` (3120 units) |
+| Money Magic: A Novel | have | PG 30318, `hgarland-money-magic` (2114 units) |
+| The Captain of the Gray-Horse Troop | have | PG 33458, `hgarland-captain-of-the-gray-horse-troop` (3012 units) |
+| Victor Ollnee's Discipline | have | PG 34250, `hgarland-victor-ollnees-discipline` (2040 units) |
+| Rose of Dutcher's Coolly | have | PG 35805, `hgarland-rose-of-dutchers-coolly` (2517 units) |
+| A Pioneer Mother | have | PG 48442, `hgarland-a-pioneer-mother` (44 units) |
+| The book of the American Indian | have | PG 75161, `hgarland-book-of-the-american-indian` (1798 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
