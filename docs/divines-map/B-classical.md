@@ -6037,6 +6037,8 @@ Shelf: `pipeline/a-v-dicey_shelf.json`. Law of the Constitution (4th ed., 1893) 
 |---|---|---|---|
 | Introduction to the Study of the Law of the Constitution, fourth edition (Macmillan, 1893) |  | `dicey-law-of-the-constitution-4th-1893` | have-raw (IA `introductiontos00dicegoog`) |
 | Lectures on the Relation between Law and Public Opinion in England (Macmillan, 1905) |  | `dicey-law-and-public-opinion-1905` | have-raw (IA `lecturesonrelat01dicegoog`) |
+| England's Case Against Home Rule (1886) |  | `dicey-englands-case-against-home-rule` | have (PG 14886) |
+| A Leap in the Dark (1893) |  | `dicey-leap-in-the-dark` | have (PG 15572) |
 
 ## Harold J. Laski (pluralist political theory)
 

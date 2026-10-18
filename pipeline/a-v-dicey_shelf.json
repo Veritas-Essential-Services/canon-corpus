@@ -1,5 +1,5 @@
 {
- "_about": "A. V. Dicey (1835-1922), Vinerian Professor of English Law: Introduction to the Study of the Law of the Constitution, fourth edition (London and New York: Macmillan, 1893), and Lectures on the Relation between Law and Public Opinion in England during the Nineteenth Century (London and New York: Macmillan, 1905). Raw IA OCR, clean 0.91 and 0.89. US public domain. No uids minted.",
+ "_about": "A. V. Dicey (1835-1922), Vinerian Professor of English Law: Introduction to the Study of the Law of the Constitution, fourth edition (London and New York: Macmillan, 1893), and Lectures on the Relation between Law and Public Opinion in England during the Nineteenth Century (London and New York: Macmillan, 1905). Raw IA OCR, clean 0.91 and 0.89. US public domain. Added in round 2026-10-18cb from Gutenberg: his two constitutional tracts against Irish Home Rule, England's Case Against Home Rule (1886) and A Leap in the Dark (1893). No uids minted.",
  "_author": "A. V. Dicey",
  "_name_words": [
   "albert",
@@ -10,7 +10,16 @@
   "dicey"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "dicey-englands-case-against-home-rule": [
+   14886,
+   "England's Case Against Home Rule (1886)"
+  ],
+  "dicey-leap-in-the-dark": [
+   15572,
+   "A Leap in the Dark (1893)"
+  ]
+ },
  "internet_archive": {
   "dicey-law-of-the-constitution-4th-1893": [
    "introductiontos00dicegoog",
@@ -23,6 +32,24 @@
  },
  "_excluded": {},
  "_checks": {
+  "dicey-englands-case-against-home-rule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dicey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dicey-leap-in-the-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dicey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "dicey-law-of-the-constitution-4th-1893": {
    "kind": "ia",
    "checked": "2026-10-18",
