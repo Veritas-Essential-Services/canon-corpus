@@ -9119,3 +9119,13 @@ Slugs `estella-*`. Built from title pages read for round 37.
 | Meditations on the Love of God, tr. Henry W. Pereira (London: Burns & Oates; New York: Benziger, 1898) | have-ocr | IA `cu31924029398066` |
 | The Contempt of the World (1622, John Heigham, title page mostly illegible) | alternate | not shelved |
 | A Methode unto Mortification (1608), an adapted recast | excluded | |
+
+## John Eudes (round 37, my pick, 2026-10-18)
+
+Slugs `eudes-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Reign of Jesus, being an abridgment of the work of the Blessed Jean Eudes, by the Abbé Granger, tr. K. M. L. Harding (London: R. & T. Washbourne; New York: Benziger; title page undated, imprimatur 1911) | have-ocr | IA `thereignofjesus00eudeuoft` |
+| The Most Pure Heart of Mary: selections from Le Coeur admirable de la très sacrée Mère de Dieu (London: Burns Oates & Washbourne, 1923) | have-ocr | IA `mostpureheartofm0000eude` |
+| The Love of the Sacred Heart (1920, an anthology); Lives of Eudes (1874, 1880, 1905); the 1946-48 complete translations | excluded | |

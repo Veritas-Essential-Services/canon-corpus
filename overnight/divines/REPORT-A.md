@@ -1900,3 +1900,6 @@
 
 ## 2026-10-17 22:59 CDT — diego-de-estella done
 - `pipeline/diego-de-estella_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — john-eudes done
+- `pipeline/john-eudes_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
