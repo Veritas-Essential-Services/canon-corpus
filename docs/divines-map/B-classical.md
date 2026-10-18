@@ -6655,6 +6655,8 @@ Shelf: `pipeline/frank-thilly_shelf.json`. Two textbooks.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Introduction to Ethics (Scribner's, 1900; 1912 printing) |  | `thilly-introduction-to-ethics-1900` | have-raw (IA `introductiontoe03thilgoog`) |
+| A History of Philosophy (Holt, 1914) |  | `thilly-history-of-philosophy-1914` | have-raw (IA `a-history-of-philosophy-frank-thilly-1914`) |
 
 ## William McDougall (social psychology)
 
