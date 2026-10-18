@@ -6828,3 +6828,30 @@ Slugs `olshausen-*`. Biblical Commentary on the New Testament, the volumes he wr
 | Other Clark copies and the 1854 Romans | alternate | not shelved |
 | Modern reprints | excluded | |
 | Wiesinger's and Ebrard's volumes (their own shelves) | excluded | |
+
+## H. A. W. Meyer (round 30, my pick, 2026-10-18)
+
+Slugs `meyer-*`. Critical and Exegetical Commentary on the New Testament, the volumes he wrote.
+
+| Work | Status | Where |
+|---|---|---|
+| Critical and Exegetical Handbook to Matthew, vol. I, tr. Peter Christie (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexeget01meyeiala` |
+| Critical and Exegetical Handbook to Matthew, vol. II, tr. Peter Christie (Edinburgh: T. & T. Clark, MDCCCLXXIX) | have-ocr | IA `criticalexeg02meye` |
+| Critical and Exegetical Handbook to Mark and Luke, vol. I, tr. Robert Ernest Wallis (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexegetic21meye` |
+| Critical and Exegetical Handbook to Mark and Luke, vol. II, tr. Robert Ernest Wallis (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexegetic22meye` |
+| Critical and Exegetical Handbook to John, vol. I, tr. William Urwick (Edinburgh: T. & T. Clark, MDCCCLXXIV) | have-ocr | IA `criticalexegeticjohn01meye` |
+| Critical and Exegetical Handbook to John, vol. II (Edinburgh: T. & T. Clark, MDCCCLXXV) | have-ocr | IA `criticalexegeticjohn02meye` |
+| Critical and Exegetical Handbook to Acts, vol. I, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXVII) | have-ocr | IA `criticalexegetic01meyeiala` |
+| Critical and Exegetical Handbook to Acts, vol. II, tr. Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXVII) | have-ocr | IA `criticalexeghei02meye` |
+| Critical and Exegetical Handbook to Romans, vol. I, tr. John C. Moore (Edinburgh: T. & T. Clark, MDCCCLXXXI) | have-ocr | IA `criticalexeg00meye` |
+| Critical and Exegetical Handbook to Romans, vol. II, tr. John C. Moore and Edwin Johnson (Edinburgh: T. & T. Clark, MDCCCLXXIV) | have-ocr | IA `criticalexegetic62meye` |
+| Critical and Exegetical Handbook to Corinthians, vol. I, tr. D. Douglas Bannerman (Edinburgh: T. & T. Clark, MDCCCLXXVII) | have-ocr | IA `criticalexege01meye` |
+| Critical and Exegetical Handbook to Corinthians, vol. II, tr. D. Douglas Bannerman and David Hunter (Edinburgh: T. & T. Clark, MDCCCLXXIX) | have-ocr | IA `criticalexegetic72meye` |
+| Critical and Exegetical Handbook to Galatians (Edinburgh: T. & T. Clark, MDCCCLXXIII) | have-ocr | IA `criticalexeget09meye` |
+| Critical and Exegetical Handbook to Ephesians and Philemon, tr. Maurice J. Evans (Edinburgh: T. & T. Clark, MDCCCLXXX) | have-ocr | IA `criticalexegetic1880meye` |
+| Critical and Exegetical Handbook to Philippians and Colossians, tr. John C. Moore (Edinburgh: T. & T. Clark, MDCCCLXXV) | have-ocr | IA `criticalandexeg00unkngoog` |
+| The Funk & Wagnalls American edition (1883-1887) | alternate | not shelved |
+| Other Clark copies and second editions | alternate | not shelved |
+| Thessalonians and Hebrews (Lünemann), Timothy-Titus, Peter-Jude, James-John (Huther), Revelation (Düsterdieck): their own shelves | excluded | |
+| Alpha reprints (1979-1980) | excluded | |
+| F. B. Meyer, a different man | excluded | |
