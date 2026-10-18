@@ -1843,3 +1843,6 @@
 
 ## 2026-10-17 22:47 CDT — robert-jamieson done
 - `pipeline/robert-jamieson_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for rjamieson-pentateuch-joshua (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — charlotte-elizabeth-tonna done
+- `pipeline/charlotte-elizabeth-tonna_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for ctonna-judahs-lion, ctonna-works-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

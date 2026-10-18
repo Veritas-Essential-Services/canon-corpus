@@ -8876,6 +8876,23 @@ Slugs `rjamieson-*`. Built from title pages read for round 36.
 | A Commentary, Critical and Explanatory, on the Old and New Testaments, vol. I, Genesis to Deuteronomy, by Robert Jamieson (Glasgow: William Collins; London: James Nisbet, 1871) | have-ocr | IA `commentarycritic01jami_0` |
 | JFB vol. II, Joshua to Esther (Lippincott, year not read); the Portable Commentary (1863) and one-volume Old Testament (1873), joint with Fausset; Eastern Manners Illustrative of the Old Testament History (year not read); CCEL jamieson/jfb (states only 'published 1871', joint) | alternate | not shelved |
 | An Eerdmans reprint of the commentary catalogued 1866 | excluded | |
+
+## Charlotte Elizabeth Tonna (round 36, my pick, 2026-10-18)
+
+Slugs `ctonna-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Personal Recollections, by Charlotte Elizabeth (London: R. B. Seeley and W. Burnside, 1841) | have-ocr | IA `personalrecolle01tonngoog` |
+| Principalities and Powers in Heavenly Places, by Charlotte Elizabeth (London: R. B. Seeley and W. Burnside, 1842) | have-ocr | IA `principalitiesa00tonngoog` |
+| Judah's Lion, by Charlotte Elizabeth (New York: John S. Taylor, 1843) | have-ocr | IA `judahslion00char` |
+| The Church Visible in All Ages, by Charlotte Elizabeth (New York: M. W. Dodd, 1845) | have-ocr | IA `churchvisibleina00char` |
+| The Sabbath Question Illustrated, by Charlotte Elizabeth (London: Seeley, Burnside and Seeley, 1845) | have-ocr | IA `sabbathquestioni00char` |
+| The Works of Charlotte Elizabeth, with an introduction by Mrs. H. B. Stowe, vol. I (New York: M. W. Dodd, 1844) | have-ocr | IA `worksofcharlotte01char` |
+| The Works of Charlotte Elizabeth, vol. II (New York: M. W. Dodd, 1845) | have-ocr | IA `workscharlottee00tonngoog` |
+| The Works of Charlotte Elizabeth, vol. III (New York: M. W. Dodd, 1846) | have-ocr | IA `worksofcharlotte03char` |
+| New York Personal Recollections (1842, 1843, 1854) and Principalities and Powers (Taylor 1842, with Bickersteth's introduction; Baker & Scribner); Dodd's Judah's Lion and Church Visible; PG 8114, an abridged Personal Recollections with no source edition stated | alternate | not shelved |
+| The Christian Lady's Magazine (a periodical she edited); her English Martyrology (abridged from Foxe); her novels as separate books; books by other women named Charlotte Elizabeth | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

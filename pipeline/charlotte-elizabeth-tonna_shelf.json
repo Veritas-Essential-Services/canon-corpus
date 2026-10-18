@@ -1,0 +1,161 @@
+{
+ "_about": "Public-domain Charlotte Elizabeth Tonna (1790-1846), the evangelical writer who published as 'Charlotte Elizabeth', for the Word Hoard: her Personal Recollections (London, 1841), Principalities and Powers in Heavenly Places (1842), Judah's Lion (1843), The Church Visible in All Ages (1845), The Sabbath Question Illustrated (1845) and the American Works with Harriet Beecher Stowe's introduction (1844-46, three volumes), from Internet Archive scans. Every title page reads 'by Charlotte Elizabeth', her pen name. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charlotte",
+  "elizabeth"
+ ],
+ "_surname": [
+  "charlotte elizabeth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ctonna-personal-recollections": [
+   "personalrecolle01tonngoog",
+   "Personal Recollections, by Charlotte Elizabeth (London: R. B. Seeley and W. Burnside, 1841)"
+  ],
+  "ctonna-principalities-powers": [
+   "principalitiesa00tonngoog",
+   "Principalities and Powers in Heavenly Places, by Charlotte Elizabeth (London: R. B. Seeley and W. Burnside, 1842)"
+  ],
+  "ctonna-judahs-lion": [
+   "judahslion00char",
+   "Judah's Lion, by Charlotte Elizabeth (New York: John S. Taylor, 1843)"
+  ],
+  "ctonna-church-visible": [
+   "churchvisibleina00char",
+   "The Church Visible in All Ages, by Charlotte Elizabeth (New York: M. W. Dodd, 1845)"
+  ],
+  "ctonna-sabbath-question": [
+   "sabbathquestioni00char",
+   "The Sabbath Question Illustrated, by Charlotte Elizabeth (London: Seeley, Burnside and Seeley, 1845)"
+  ],
+  "ctonna-works-1": [
+   "worksofcharlotte01char",
+   "The Works of Charlotte Elizabeth, with an introduction by Mrs. H. B. Stowe, vol. I (New York: M. W. Dodd, 1844)"
+  ],
+  "ctonna-works-2": [
+   "workscharlottee00tonngoog",
+   "The Works of Charlotte Elizabeth, vol. II (New York: M. W. Dodd, 1845)"
+  ],
+  "ctonna-works-3": [
+   "worksofcharlotte03char",
+   "The Works of Charlotte Elizabeth, vol. III (New York: M. W. Dodd, 1846)"
+  ]
+ },
+ "_alternates": {
+  "ctonna-copies": "New York Personal Recollections (1842, 1843, 1854) and Principalities and Powers (Taylor 1842, with Bickersteth's introduction; Baker & Scribner); Dodd's Judah's Lion and Church Visible; PG 8114, an abridged Personal Recollections with no source edition stated"
+ },
+ "_excluded": {
+  "ctonna-other": "The Christian Lady's Magazine (a periodical she edited); her English Martyrology (abridged from Foxe); her novels as separate books; books by other women named Charlotte Elizabeth"
+ },
+ "_identity_checked": {
+  "ctonna-judahs-lion": {
+   "author": "title page read: 'Charlotte Elizabeth' OCR-garbled ('(OHAIEILiOf^E EILMABSEIo')"
+  },
+  "ctonna-works-2": {
+   "author": "title page read: THB WORKS Of CHAELOTTE ELIZABETH [Charlotte Elizabeth] (OCR garble), vol. II, New York: M. W. Dodd"
+  }
+ },
+ "_rights_checked": {
+  "ctonna-judahs-lion": "title page read: a religious novel of the mission to the Jews",
+  "ctonna-works-2": "title page read: 1845 and 1846 for vols II-III (catalogued 1844 in error); the Works include her novels as well as her tracts"
+ },
+ "_pending": {
+  "ctonna-anonymous": "Kindness to Animals (PG 17961, ASSU, 1845): the title page names no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "ctonna-personal-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ctonna-principalities-powers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ctonna-judahs-lion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: a religious novel of the mission to the Jews"
+  },
+  "ctonna-church-visible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ctonna-sabbath-question": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ctonna-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ctonna-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1845 and 1846 for vols II-III (catalogued 1844 in error); the Works include her novels as well as her tracts"
+  },
+  "ctonna-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charlotte elizabeth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
