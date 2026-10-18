@@ -10097,6 +10097,31 @@ Shelf: `pipeline/buchan-works_shelf.json` (2026-10-17; added at the coordinator'
 | Poems, Scots and English | have | PG 77335, `jbuchan-poems-scots-and-english` (389 units) |
 | held-elsewhere | excluded | PG 558: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Lester Chadwick
+
+Shelf: `pipeline/lester-chadwick_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Baseball Joe and College Sports series; Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Baseball Joe Around the World; or, Pitching on a Grand Tour | have | PG 27338, `lchadwick-baseball-joe-around-the-world` (1789 units) |
+| Baseball Joe in the Big League; or, A Young Pitcher's Hardest Struggles | have | PG 27584, `lchadwick-baseball-joe-in-the-big-league` (1945 units) |
+| Baseball Joe of the Silver Stars; or, The Rivals of Riverside | have | PG 37056, `lchadwick-baseball-joe-of-the-silver-stars` (1892 units) |
+| Baseball Joe on the School Nine; or, Pitching for the Blue Banner | have | PG 38897, `lchadwick-baseball-joe-on-the-school-nine` (1895 units) |
+| The Rival Pitchers: A Story of College Baseball | have | PG 39582, `lchadwick-rival-pitchers` (2547 units) |
+| Baseball Joe at Yale; or, Pitching for the College Championship | have | PG 40105, `lchadwick-baseball-joe-at-yale` (1974 units) |
+| A Quarter-Back's Pluck: A Story of College Football | have | PG 40668, `lchadwick-a-quarter-backs-pluck` (2401 units) |
+| Batting to Win: A Story of College Baseball | have | PG 41206, `lchadwick-batting-to-win` (2167 units) |
+| The Winning Touchdown: A Story of College Football | have | PG 41665, `lchadwick-winning-touchdown` (2264 units) |
+| Baseball Joe in the Central League; or, Making Good as a Professional Pitcher | have | PG 41847, `lchadwick-baseball-joe-in-the-central-league` (1947 units) |
+| For the Honor of Randall: A Story of College Athletics | have | PG 42130, `lchadwick-for-the-honor-of-randall` (2510 units) |
+| The Eight-Oared Victors: A Story of College Water Sports | have | PG 42403, `lchadwick-eight-oared-victors` (2420 units) |
+| Baseball Joe on the Giants; or, Making Good as a Ball Twirler in the Metropolis | have | PG 43021, `lchadwick-baseball-joe-on-the-giants` (1556 units) |
+| Baseball Joe in the World Series; or, Pitching for the Championship | have | PG 43455, `lchadwick-baseball-joe-in-the-world-series` (1889 units) |
+| Baseball Joe, Home Run King; or, The Greatest Pitcher and Batter on Record | have | PG 43940, `lchadwick-baseball-joe-home-run-king` (1387 units) |
+| Baseball Joe, Captain of the Team; or, Bitter Struggles on the Diamond | have | PG 44716, `lchadwick-baseball-joe-captain-of-the-team` (1494 units) |
+| Baseball Joe Saving the League; or, Breaking Up a Great Conspiracy | have | PG 59169, `lchadwick-baseball-joe-saving-the-league` (1292 units) |
+| Baseball Joe, champion of the league | have | PG 73737, `lchadwick-baseball-joe-champion-of-the-league` (1599 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
