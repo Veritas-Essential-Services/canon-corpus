@@ -1,0 +1,61 @@
+{
+ "_about": "R. H. Tawney (1880-1962), economic historian and Christian socialist: The Agrarian Problem in the Sixteenth Century (London: Longmans, Green, 1912), raw IA OCR, clean 0.90; The Acquisitive Society (New York: Harcourt, Brace, copyright 1920) and Religion and the Rise of Capitalism (New York: Harcourt, Brace, 1926), clean Gutenberg texts. Not taken: the Gutenberg Agrarian Problem (PG 40336), which follows a Burt Franklin reprint. US public domain (published before 1931); Tawney is in copyright in the UK. No uids minted.",
+ "_author": "R. H. Tawney",
+ "_name_words": [
+  "richard",
+  "henry",
+  "tawney"
+ ],
+ "_surname": [
+  "tawney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tawney-acquisitive-society-1920": [
+   33741,
+   "The Acquisitive Society (Harcourt, Brace, 1920)"
+  ],
+  "tawney-religion-rise-capitalism-1926": [
+   71223,
+   "Religion and the Rise of Capitalism (Harcourt, Brace, 1926)"
+  ]
+ },
+ "internet_archive": {
+  "tawney-agrarian-problem-1912": [
+   "agrarianproblemi00tawn",
+   "The Agrarian Problem in the Sixteenth Century (Longmans, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tawney-acquisitive-society-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tawney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tawney-religion-rise-capitalism-1926": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tawney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tawney-agrarian-problem-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tawney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
