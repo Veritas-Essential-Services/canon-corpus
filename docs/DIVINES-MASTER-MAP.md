@@ -8765,6 +8765,15 @@ Slugs `ercharles-*`. Built from title pages read for round 36.
 | Ecce Ancilla Domini: Mary the Mother of our Lord, Studies in the Christian Ideal of Womanhood (London: SPCK; New York: E. and J. B. Young, 1894) | have-ocr | IA `ecceancilladomin0000elis` |
 | Te Deum Laudamus, 'by the late Mrs. Rundle Charles' (fifth edition, 1897), the revised Voice of Christian Life in Song | alternate | not shelved |
 | Luther's Watchwords for the Warfare of Life, which she selected and translated; her novels and tales; a 1969 reprint | excluded | |
+
+## Margaret Bottome (round 36, my pick, 2026-10-18)
+
+Slugs `mbottome-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sunshine Trip: Glimpses of the Orient, extracts from letters written by Margaret Bottome (New York: Edward Arnold, 1897) | have-ocr | IA `sunshinetripglim00bott` |
+| Heart to Heart Letters, being extracts from the letters of Margaret Bottome to a son (New York: Hodder and Stoughton; copyright 1909) | have-ocr | IA `hearttoheartlett00bott` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
