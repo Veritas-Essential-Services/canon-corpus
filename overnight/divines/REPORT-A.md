@@ -1321,3 +1321,6 @@
 
 ## 2026-10-17 19:56 CDT — wilhelm-herrmann done
 - `pipeline/wilhelm-herrmann_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — auguste-sabatier done
+- `pipeline/auguste-sabatier_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

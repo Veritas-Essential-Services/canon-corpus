@@ -6338,6 +6338,20 @@ Slugs `herrmann-*`. The Communion of the Christian with God and other translatio
 | Systematic Theology (Dogmatik), tr. Nathaniel Micklem and Kenneth A. Saunders (London: George Allen & Unwin, first published in English 1927) | have-ocr | IA `systematictheolo0000herr` |
 | Other copies of the 1895 and 1906 Communion and the 1904 Faith and Morals | alternate | not shelved |
 | A 1930 Communion and modern reprints | excluded | |
+
+## Auguste Sabatier (round 29, my pick, 2026-10-18)
+
+Slugs `sabatier-*`. Paris Protestant theologian, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apostle Paul: a Sketch of the Development of his Doctrine, tr. A. M. Hellier, ed. George G. Findlay (London: Hodder and Stoughton, MDCCCXCI) | have-ocr | IA `apostlepaulsketc00saba` |
+| Outlines of a Philosophy of Religion based on Psychology and History, tr. T. A. Seed (London: Hodder and Stoughton, 1897) | have-ocr | IA `outlinesofphiloso00saba` |
+| The Religions of Authority and the Religion of the Spirit, tr. Louise Seymour Houghton (New York: McClure, Phillips, MCMIII) | have-ocr | IA `religionsofautho01saba` |
+| The Doctrine of the Atonement and its Historical Evolution, and Religion and Modern Culture, tr. Victor Leuliette (London: Williams & Norgate, 1904) | have-ocr | IA `thedoctrineofthe00sabauoft` |
+| PG 38446: Outlines (Pott, 1910), translator not named | alternate | not shelved |
+| Pott issues of the Apostle Paul and Outlines; the W&N Religions of Authority (1904) | alternate | not shelved |
+| Paul Sabatier's Life of St Francis (lane C's houghton shelf); a mis-catalogued Atonement scan | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
