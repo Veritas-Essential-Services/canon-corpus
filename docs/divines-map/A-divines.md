@@ -7791,3 +7791,21 @@ Slugs `jarrett-*`. Built from title pages read for round 33.
 | Other copies; the 1917 fifth thousand of the Meditations; A History of Europe (1929) | alternate | not shelved |
 | PG 34855 (a later Newman Bookshop reprint of The Abiding Presence); The Religious Life (1939) | excluded | |
 | Books he edited or translated | excluded | |
+
+## E. H. Plumptre (round 33, my pick, 2026-10-18)
+
+Slugs `plumptre-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ and Christendom, the Boyle Lectures for 1866 (London: Alexander Strahan, 1867) | have-ocr | IA `christchristendo00plum` |
+| Biblical Studies, second edition (London: W. Isbister, 1873) | have-ocr | IA `biblicalstudies00plumgoog` |
+| Movements in Religious Thought: Romanism, Protestantism, Agnosticism (London: Macmillan, 1879) | have-ocr | IA `movementsinrelig00plum` |
+| Ecclesiastes; or, the Preacher, Cambridge Bible (Cambridge: University Press, 1881) | have-ocr | IA `ecclesiastesorpr00plumuoft` |
+| The General Epistle of St. James, Cambridge Bible (Cambridge: University Press, 1884) | have-ocr | IA `generalepistles04plumgoog` |
+| The Spirits in Prison and Other Studies on the Life after Death (London: Wm. Isbister, 1884) | have-ocr | IA `spiritsinprisono00plum_0` |
+| The Life of Thomas Ken, vol. I (London: Wm. Isbister, 1889) | have-ocr | IA `lifeofthomaskend01plumuoft` |
+| The Life of Thomas Ken, vol. II (London: Wm. Isbister, 1889) | have-ocr | IA `lifeofthomasken02plum` |
+| Aeschylus (PG 53174), Sophocles and Dante: his verse translations, for the translators' lane | alternate | not shelved |
+| King's College Sermons (1859); later Cambridge Bible issues; the New York Ken | alternate | not shelved |
+| 2016 and 1978 reprints of St. James | excluded | |
