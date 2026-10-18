@@ -7996,6 +7996,25 @@ Slugs `wpenn-*`. Built from title pages read for round 34.
 | Fruits of Solitude, in Reflections and Maxims relating to the Conduct of Human Life (London: A. W. Bennett, 1863) | have-ocr | IA `fruitssolitudei01penngoog` |
 | Select Works duplicate scans (04/07/02/09/03penngoog); Select Works fourth edition vol. III (1825); No Cross, No Crown eleventh edition (Mary Hinde, 177?); Fruits of Solitude 1877, 1901 and Gosse's 1901; CCEL penn/quakers and penn/primitivechristianity (1857) | alternate | not shelved |
 | Harvard Classics vol. 1 (Franklin, Woolman, Penn): a many-author volume | excluded | |
+
+## Isaac Penington (round 34, my pick, 2026-10-18)
+
+Slugs `penington-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Long-Mournful and Sorely-Distressed Isaac Penington, third edition, vol. I (London: James Phillips, 1784) | have-ocr | IA `worksoflongmourn01peniiala` |
+| The Works of Isaac Penington, third edition, vol. II (London: James Phillips, 1784) | have-ocr | IA `worksoflongmourn02peniiala` |
+| The Works of Isaac Penington, third edition, vol. III (London: James Phillips, 1784) | have-ocr | IA `worksoflongmourn03peniiala` |
+| The Works of Isaac Penington, third edition, vol. IV (London: James Phillips, 1784) | have-ocr | IA `worksoflongmourn04peniiala` |
+| The Works of Isaac Penington, fourth edition, including his collected letters, vol. I (Philadelphia: Friends' Book Store, 304 Arch Street, 1863) | have-ocr | IA `worksisaacpenin00penigoog` |
+| The Works of Isaac Penington, fourth edition, vol. II (Philadelphia: Friends' Book Store, 304 Arch Street, 1863) | have-ocr | IA `worksisaacpenin01penigoog` |
+| The Works of Isaac Penington, fourth edition, vol. III (Philadelphia: Friends' Book Store, 304 Arch Street, 1863) | have-ocr | IA `worksisaacpenin03penigoog` |
+| The Works of Isaac Penington, fourth edition, vol. IV (Philadelphia: Friends' Book Store, 304 Arch Street, 1863) | have-ocr | IA `worksisaacpenin02penigoog` |
+| Letters of Isaac Penington, now first published from manuscript copies, with letters of Stephen Crisp, William Penn, R. Barclay and others added (London: James Phillips, 1796) | have-ocr | IA `lettersisaacpen01penigoog` |
+| Letters of Isaac Penington, second edition (London: Holdsworth and Ball; Harvey and Darton; Seeley, 1829) | have-ocr | IA `lettersofisaacpe00peniiala` |
+| Works second edition vol. II (1761); the undated Philadelphia Letters | alternate | not shelved |
+| Bevan's Memoirs of the Life (1807, 1831) and the Selections and Brief Extracts made by others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
