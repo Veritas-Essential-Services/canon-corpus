@@ -1,0 +1,462 @@
+{
+ "_about": "Edgar Rice Burroughs's Tarzan, Barsoom, Pellucidar and other romances not already on another shelf; pre-1931 US publications only; many describe Africans and other peoples in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edgar Rice Burroughs",
+ "_name_words": [
+  "burroughs"
+ ],
+ "_surname": [
+  "edgar rice burroughs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "erburroughs-a-princess-of-mars": [
+   62,
+   "A princess of Mars"
+  ],
+  "erburroughs-gods-of-mars": [
+   64,
+   "The gods of Mars",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-warlord-of-mars": [
+   68,
+   "The warlord of Mars",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-thuvia-maid-of-mars": [
+   72,
+   "Thuvia, maid of Mars"
+  ],
+  "erburroughs-return-of-tarzan": [
+   81,
+   "The Return of Tarzan"
+  ],
+  "erburroughs-beasts-of-tarzan": [
+   85,
+   "The Beasts of Tarzan",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-son-of-tarzan": [
+   90,
+   "The Son of Tarzan"
+  ],
+  "erburroughs-tarzan-and-the-jewels-of-opar": [
+   92,
+   "Tarzan and the Jewels of Opar",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-monster-men": [
+   96,
+   "The Monster Men"
+  ],
+  "erburroughs-jungle-tales-of-tarzan": [
+   106,
+   "Jungle Tales of Tarzan",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-at-the-earths-core": [
+   123,
+   "At the Earth's Core"
+  ],
+  "erburroughs-lost-continent": [
+   149,
+   "The Lost Continent",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-oakdale-affair": [
+   363,
+   "The Oakdale Affair"
+  ],
+  "erburroughs-mad-king": [
+   364,
+   "The Mad King"
+  ],
+  "erburroughs-land-that-time-forgot": [
+   551,
+   "The Land That Time Forgot"
+  ],
+  "erburroughs-people-that-time-forgot": [
+   552,
+   "The People That Time Forgot",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter\\ 1$",
+    "front": true
+   }
+  ],
+  "erburroughs-out-of-times-abyss": [
+   553,
+   "Out of Time's Abyss",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter\\ 2$",
+    "front": true
+   }
+  ],
+  "erburroughs-pellucidar": [
+   605,
+   "Pellucidar"
+  ],
+  "erburroughs-chessmen-of-mars": [
+   1153,
+   "The Chessmen of Mars"
+  ],
+  "erburroughs-tarzan-the-untamed": [
+   1401,
+   "Tarzan the Untamed"
+  ],
+  "erburroughs-efficiency-expert": [
+   3475,
+   "The Efficiency Expert"
+  ],
+  "erburroughs-tarzan-and-the-golden-lion": [
+   58874,
+   "Tarzan and the Golden Lion",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-moon-maid": [
+   59752,
+   "The Moon Maid"
+  ],
+  "erburroughs-tarzan-and-the-ant-men": [
+   61837,
+   "Tarzan and the Ant Men"
+  ],
+  "erburroughs-girl-from-hollywood": [
+   62409,
+   "The girl from Hollywood"
+  ],
+  "erburroughs-cave-girl": [
+   69191,
+   "The cave girl",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-war-chief": [
+   70124,
+   "The war chief"
+  ],
+  "erburroughs-tarzan-twins": [
+   71879,
+   "The Tarzan twins"
+  ],
+  "erburroughs-tarzan-lord-of-the-jungle": [
+   72938,
+   "Tarzan, lord of the jungle",
+   {
+    "contents_only": true
+   }
+  ],
+  "erburroughs-illustrated-tarzan-book-no-1": [
+   75817,
+   "The illustrated Tarzan book no. 1"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58904": "PG 58904: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 545, 29405, 69338: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 78: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {
+  "post-1930": "HELD at the coordinator's pre-1931 rule for this author: PG 70101 Apache Devil (book 1933); PG 70536 The Land of Hidden Men (1932); PG 70691 A Fighting Man of Mars (book 1931); PG 70816 Lost on Venus (1933); PG 71316 Tarzan and the City of Gold (1933); PG 71370 Tarzan and the Lion Man (1934); PG 71372 Tarzan Triumphant (1932); PG 70195 Pirates of Venus (1932-1934); PG 71195 Tarzan the Invincible (book 1931). The text is from a post-1930 book printing, so it is not taken until Adam rules.",
+  "later-paperback-printings": "HELD: PG 70002 The eternal savage; PG 69703 The master mind of Mars; PG 331 The Mucker; PG 70199 Tanar of Pellucidar; PG 70589 Tarzan and the lost empire; PG 70815 Tarzan at the Earth's core: transcribed from 1960s Ace or Ballantine paperback reprints, which carry publisher matter and in one case a foreword by another hand; the text is not taken until an early printing is found or Adam rules."
+ },
+ "_checks": {
+  "erburroughs-a-princess-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-gods-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-warlord-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-thuvia-maid-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-return-of-tarzan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-beasts-of-tarzan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-son-of-tarzan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-and-the-jewels-of-opar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-monster-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-jungle-tales-of-tarzan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-at-the-earths-core": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-lost-continent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-oakdale-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-mad-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-land-that-time-forgot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-people-that-time-forgot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-out-of-times-abyss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-pellucidar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-chessmen-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-the-untamed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-efficiency-expert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-and-the-golden-lion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-moon-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-and-the-ant-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-girl-from-hollywood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-cave-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-war-chief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-tarzan-lord-of-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erburroughs-illustrated-tarzan-book-no-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar rice burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

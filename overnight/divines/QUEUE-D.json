@@ -3149,6 +3149,14 @@
       "started": "2026-10-17T20:30:51-05:00",
       "finished": "2026-10-17T20:30:51-05:00",
       "notes": "wharton-works: new shelf, 47 Gutenberg books, 42,895 units, 706 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "burroughs-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Edgar Rice Burroughs; no minting",
+      "status": "done",
+      "started": "2026-10-17T20:30:52-05:00",
+      "finished": "2026-10-17T20:30:52-05:00",
+      "notes": "burroughs-works: new shelf, 30 Gutenberg books, 38,011 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

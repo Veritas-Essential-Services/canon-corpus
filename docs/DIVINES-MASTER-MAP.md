@@ -31173,6 +31173,46 @@ Shelf: `pipeline/wharton-works_shelf.json` (2026-10-17; added at the coordinator
 | held-elsewhere | excluded | PG 541: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-74866 | excluded | PG 74866 Stories of New York: a many-author collection. |
 
+## Edgar Rice Burroughs
+
+Shelf: `pipeline/burroughs-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf; nine post-1930 book printings held. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A princess of Mars | have | PG 62, `erburroughs-a-princess-of-mars` (1063 units) |
+| The gods of Mars | have | PG 64, `erburroughs-gods-of-mars` (1832 units) |
+| The warlord of Mars | have | PG 68, `erburroughs-warlord-of-mars` (1323 units) |
+| Thuvia, maid of Mars | have | PG 72, `erburroughs-thuvia-maid-of-mars` (1440 units) |
+| The Return of Tarzan | have | PG 81, `erburroughs-return-of-tarzan` (1717 units) |
+| The Beasts of Tarzan | have | PG 85, `erburroughs-beasts-of-tarzan` (1461 units) |
+| The Son of Tarzan | have | PG 90, `erburroughs-son-of-tarzan` (1403 units) |
+| Tarzan and the Jewels of Opar | have | PG 92, `erburroughs-tarzan-and-the-jewels-of-opar` (1128 units) |
+| The Monster Men | have | PG 96, `erburroughs-monster-men` (1057 units) |
+| Jungle Tales of Tarzan | have | PG 106, `erburroughs-jungle-tales-of-tarzan` (1035 units) |
+| At the Earth's Core | have | PG 123, `erburroughs-at-the-earths-core` (783 units) |
+| The Lost Continent | have | PG 149, `erburroughs-lost-continent` (821 units) |
+| The Oakdale Affair | have | PG 363, `erburroughs-oakdale-affair` (835 units) |
+| The Mad King | have | PG 364, `erburroughs-mad-king` (2154 units) |
+| The Land That Time Forgot | have | PG 551, `erburroughs-land-that-time-forgot` (439 units) |
+| The People That Time Forgot | have | PG 552, `erburroughs-people-that-time-forgot` (376 units) |
+| Out of Time's Abyss | have | PG 553, `erburroughs-out-of-times-abyss` (568 units) |
+| Pellucidar | have | PG 605, `erburroughs-pellucidar` (1189 units) |
+| The Chessmen of Mars | have | PG 1153, `erburroughs-chessmen-of-mars` (1421 units) |
+| Tarzan the Untamed | have | PG 1401, `erburroughs-tarzan-the-untamed` (1620 units) |
+| The Efficiency Expert | have | PG 3475, `erburroughs-efficiency-expert` (1370 units) |
+| Tarzan and the Golden Lion | have | PG 58874, `erburroughs-tarzan-and-the-golden-lion` (1496 units) |
+| The Moon Maid | have | PG 59752, `erburroughs-moon-maid` (977 units) |
+| Tarzan and the Ant Men | have | PG 61837, `erburroughs-tarzan-and-the-ant-men` (1440 units) |
+| The girl from Hollywood | have | PG 62409, `erburroughs-girl-from-hollywood` (2730 units) |
+| The cave girl | have | PG 69191, `erburroughs-cave-girl` (1798 units) |
+| The war chief | have | PG 70124, `erburroughs-war-chief` (1397 units) |
+| The Tarzan twins | have | PG 71879, `erburroughs-tarzan-twins` (557 units) |
+| Tarzan, lord of the jungle | have | PG 72938, `erburroughs-tarzan-lord-of-the-jungle` (1967 units) |
+| The illustrated Tarzan book no. 1 | have | PG 75817, `erburroughs-illustrated-tarzan-book-no-1` (614 units) |
+| pg-58904 | excluded | PG 58904: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 545, 29405, 69338: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 78: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
