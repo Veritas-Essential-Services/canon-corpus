@@ -1169,7 +1169,7 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 
 One new shelf, 4 titles, all from period archive.org scans (raw OCR), with the translator and imprint read on each title page:
 
-- **`hebrew-classics`** (4), a new shelf for the poets and philosophers of medieval Jewish Spain: Hartwig Hirschfeld's translation of Judah Halevi's *Kitab al Khazari* (the Kuzari) from the Arabic (Routledge, 1905); Israel Zangwill's *Selected Religious Poems of Solomon ibn Gabirol* in English verse (Jewish Publication Society, 1923); and two by Nina Salaman, *Selected Poems of Jehudah Halevi* (JPS, 1924, in its 1928 second impression) and *Songs of Exile by Hebrew Poets* (JPS, 1901, under her maiden name Nina Davis). The two JPS volumes print the Hebrew beside the English.
+- **`hebrew-classics`** (4), a new shelf for the poets and philosophers of medieval Jewish Spain: Hartwig Hirschfeld's translation of Judah Halevi's *Kitab al Khazari* (the Kuzari) from the Arabic (Routledge, 1905); Israel Zangwill's *Selected Religious Poems of Solomon ibn Gabirol* in English verse (Jewish Publication Society, 1923); and two by Nina Salaman, *Selected Poems of Jehudah Halevi* (JPS, 1924, in its 1928 second impression) and *Songs of Exile by Hebrew Poets* (JPS, 1901, under her maiden name Nina Davis). The Ibn Gabirol and the Halevi volumes also carry an edited Hebrew text.
 - **Left out:** a 1974 reprint of the Ibn Gabirol and the 1942 third impression of the Halevi.
 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
