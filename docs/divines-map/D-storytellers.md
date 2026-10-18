@@ -11438,6 +11438,40 @@ Shelf: `pipeline/angela-brazil_shelf.json` (2026-10-17; added at the coordinator
 | The Girls of St. Cyprian's: A Tale of School Life | have | PG 37161, `abrazil-girls-of-st-cyprians` (1255 units) |
 | A Terrible Tomboy | have | PG 38619, `abrazil-a-terrible-tomboy` (1520 units) |
 
+## Algernon Blackwood
+
+Shelf: `pipeline/algernon-blackwood_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Garden of Survival | have | PG 4046, `ablackwood-garden-of-survival` (276 units) |
+| The Extra Day | have | PG 5894, `ablackwood-extra-day` (2115 units) |
+| A Prisoner in Fairyland (The Book That 'Uncle Paul' Wrote) | have | PG 6021, `ablackwood-a-prisoner-in-fairyland-the-book-that-uncle-paul` (2538 units) |
+| The Centaur | have | PG 9964, `ablackwood-centaur` (1423 units) |
+| Three John Silence Stories | have | PG 10624, `ablackwood-three-john-silence-stories` (1160 units) |
+| Three More John Silence Stories | have | PG 10659, `ablackwood-three-more-john-silence-stories` (867 units) |
+| The Wendigo | have | PG 10897, `ablackwood-wendigo` (258 units) |
+| The Damned | have | PG 11074, `ablackwood-damned` (464 units) |
+| The Man Whom the Trees Loved | have | PG 11377, `ablackwood-man-whom-the-trees-loved` (415 units) |
+| The Willows | have | PG 11438, `ablackwood-willows` (332 units) |
+| The Human Chord | have | PG 11988, `ablackwood-human-chord` (894 units) |
+| The Empty House and Other Ghost Stories | have | PG 14471, `ablackwood-empty-house-and-other-ghost-stories` (1160 units) |
+| Four Weird Tales | have | PG 16726, `ablackwood-four-weird-tales` (830 units) |
+| Jimbo: A Fantasy | have | PG 30974, `ablackwood-jimbo` (1073 units) |
+| The Wave: An Egyptian Aftermath | have | PG 33876, `ablackwood-wave` (1682 units) |
+| The Promise of Air | have | PG 35132, `ablackwood-promise-of-air` (940 units) |
+| The Wolves of God, and Other Fey Stories (with Wilfred Wilson) | have | PG 38310, `ablackwood-wolves-of-god-and-other-fey-stories` (1748 units) |
+| The Bright Messenger | have | PG 43594, `ablackwood-bright-messenger` (2302 units) |
+| Incredible Adventures | have | PG 43816, `ablackwood-incredible-adventures` (1491 units) |
+| Day and Night Stories | have | PG 45964, `ablackwood-day-and-night-stories` (1041 units) |
+| John Silence, Physician Extraordinary | have | PG 49222, `ablackwood-john-silence-physician-extraordinary` (1884 units) |
+| Julius LeVallon: An Episode | have | PG 50107, `ablackwood-julius-levallon` (1600 units) |
+| Karma: A Re-incarnation Play In Prologue, Epilogue & Three Acts (with Violet A. Pearn) | have | PG 55611, `ablackwood-karma` (1843 units) |
+| The education of Uncle Paul | have | PG 69668, `ablackwood-education-of-uncle-paul` (1659 units) |
+| Ten minute stories | have | PG 72928, `ablackwood-ten-minute-stories` (982 units) |
+| Episodes before thirty | have | PG 76991, `ablackwood-episodes-before-thirty` (1211 units) |
+| Pan's garden | have | PG 77472, `ablackwood-pans-garden` (1915 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
