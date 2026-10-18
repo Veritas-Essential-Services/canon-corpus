@@ -1,0 +1,157 @@
+{
+ "_about": "Public-domain Sir Thomas Browne (1605-1682), physician of Norwich and author of Religio Medici, for the Word Hoard: his collected Works (1686), Simon Wilkin's four-volume edition (1835-36), Hydriotaphia with The Garden of Cyrus in its first edition (1658), Christian Morals in its first edition (Cambridge, 1716) and Willis Bund's Religio Medici, Hydriotaphia and Letter to a Friend (1869), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "browne",
+  "brown"
+ ],
+ "_surname": [
+  "thomas browne",
+  "sir thomas browne",
+  "thomas brown",
+  "sir thomas brown"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "tbrowne-religio-bund": [
+   586,
+   "Religio Medici, Hydriotaphia, and the Letter to a Friend, with an introduction and notes by J. W. Willis Bund (London: Sampson Low, Son, and Marston, 1869)"
+  ]
+ },
+ "internet_archive": {
+  "tbrowne-works-1686": [
+   "worksoflearnedsr00brow",
+   "The Works of the Learned Sr Thomas Brown, containing Vulgar Errors, Religio Medici, Hydriotaphia with the Garden of Cyrus, and Certain Miscellany Tracts (London: Basset, Chiswell, Sawbridge, Mearn and Brome, 1686)"
+  ],
+  "tbrowne-wilkin-1": [
+   "sirthomasbrownes01brow",
+   "Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1836), vol. I"
+  ],
+  "tbrowne-wilkin-2": [
+   "sirthomasbrownes02brow",
+   "Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. II"
+  ],
+  "tbrowne-wilkin-3": [
+   "sirthomasbrownes03brow",
+   "Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. III"
+  ],
+  "tbrowne-wilkin-4": [
+   "sirthomasbrownes04brow",
+   "Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. IV"
+  ],
+  "tbrowne-hydriotaphia-1658": [
+   "McGillLibrary-osl_bo4499_hydrotaphia_thomas-browne_B884h1658_c1-20188",
+   "Hydriotaphia, Urne-Buriall, together with The Garden of Cyrus (London: Hen. Brome, 1658), the first edition",
+   "osl_bo4499_hydrotaphia_thomas-browne_B884h1658_c1_djvu.txt"
+  ],
+  "tbrowne-christian-morals-1716": [
+   "brownechristianmorals",
+   "Christian Morals, published from the original and correct manuscript of the author by John Jeffery (Cambridge: University Press, for Cornelius Crownfield; year OCR'd '1916', catalogued 1716), the first edition"
+  ]
+ },
+ "_alternates": {
+  "tbrowne-copies": "Wilkin's edition reissued by Bohn (1846, four volumes); Religio Medici fourth edition (catalogued 1656) and seventh (1678); Sayle's Works (PG 39960-39962, 1904-07); CCEL browne/religio (from the Harvard Classics) and browne/morals (Rivingtons, 1863)"
+ },
+ "_excluded": {
+  "tbrowne-later": "A post-1924 facsimile Hydriotaphia catalogued 1658; Harvard Classics and other many-author volumes; Keynes's 1928 edition"
+ },
+ "_identity_checked": {
+  "tbrowne-hydriotaphia-1658": {
+   "author": "title page read: 'By Thomas Browne D. of Physick' (OCR 'T homos')"
+  }
+ },
+ "_rights_checked": {
+  "tbrowne-christian-morals-1716": "title page read: 'by Sir THOMAS BROWN'; the OCR's 1916 is a garble of 1716"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tbrowne-religio-bund": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbrowne-works-1686": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1686",
+   "ia_date": "1686",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tbrowne-wilkin-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tbrowne-wilkin-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tbrowne-wilkin-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tbrowne-wilkin-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tbrowne-hydriotaphia-1658": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tbrowne-christian-morals-1716": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'by Sir THOMAS BROWN'; the OCR's 1916 is a garble of 1716"
+  }
+ }
+}

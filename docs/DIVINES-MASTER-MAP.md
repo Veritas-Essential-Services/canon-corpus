@@ -8262,6 +8262,23 @@ Slugs `warburton-*`. Built from title pages read for round 34.
 | The Works of the Right Reverend William Warburton, Lord Bishop of Gloucester, vol. 7 of 7 (London: John Nichols, sold by T. Cadell, 1788) | have-ocr | IA `worksofrightreve07warb` |
 | The twelve-volume Works with Hurd's discourse (London: Luke Hansard for Cadell and Davies, 1811); the tenth-edition Divine Legation (Tegg, 1846, three volumes); 1755 and 1765 Divine Legations (not read) | alternate | not shelved |
 | worksofrightreve13warb, catalogued as Works vol. 13 but really Letters from a Late Eminent Prelate (Hurd's letters) | excluded | |
+
+## Sir Thomas Browne (round 34, my pick, 2026-10-18)
+
+Slugs `tbrowne-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Religio Medici, Hydriotaphia, and the Letter to a Friend, with an introduction and notes by J. W. Willis Bund (London: Sampson Low, Son, and Marston, 1869) | have-clean | Gutenberg 586 |
+| The Works of the Learned Sr Thomas Brown, containing Vulgar Errors, Religio Medici, Hydriotaphia with the Garden of Cyrus, and Certain Miscellany Tracts (London: Basset, Chiswell, Sawbridge, Mearn and Brome, 1686) | have-ocr | IA `worksoflearnedsr00brow` |
+| Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1836), vol. I | have-ocr | IA `sirthomasbrownes01brow` |
+| Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. II | have-ocr | IA `sirthomasbrownes02brow` |
+| Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. III | have-ocr | IA `sirthomasbrownes03brow` |
+| Sir Thomas Browne's Works, including his Life and Correspondence, edited by Simon Wilkin (London: William Pickering; Norwich: Josiah Fletcher, 1835), vol. IV | have-ocr | IA `sirthomasbrownes04brow` |
+| Hydriotaphia, Urne-Buriall, together with The Garden of Cyrus (London: Hen. Brome, 1658), the first edition | have-ocr | IA `McGillLibrary-osl_bo4499_hydrotaphia_thomas-browne_B884h1658_c1-20188` |
+| Christian Morals, published from the original and correct manuscript of the author by John Jeffery (Cambridge: University Press, for Cornelius Crownfield; year OCR'd '1916', catalogued 1716), the first edition | have-ocr | IA `brownechristianmorals` |
+| Wilkin's edition reissued by Bohn (1846, four volumes); Religio Medici fourth edition (catalogued 1656) and seventh (1678); Sayle's Works (PG 39960-39962, 1904-07); CCEL browne/religio (from the Harvard Classics) and browne/morals (Rivingtons, 1863) | alternate | not shelved |
+| A post-1924 facsimile Hydriotaphia catalogued 1658; Harvard Classics and other many-author volumes; Keynes's 1928 edition | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

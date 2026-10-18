@@ -1714,3 +1714,6 @@
 
 ## 2026-10-17 22:09 CDT — william-warburton done
 - `pipeline/william-warburton_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for warburton-divine-legation-1738 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — sir-thomas-browne done
+- `pipeline/sir-thomas-browne_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for tbrowne-hydriotaphia-1658 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
