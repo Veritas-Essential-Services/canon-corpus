@@ -7716,6 +7716,22 @@ Slugs `fortescue-*`. Built from title pages read for round 33.
 | The Ceremonies of the Roman Rite Described (London: Burns & Oates, MCMXVIII) | have-ocr | IA `ceremoniesofroma00fort` |
 | The 1917 new impression of The Mass; the 1920 Ceremonies revised for the Code of Canon Law; other copies | alternate | not shelved |
 | The Uniate Eastern Churches in a 1957 printing catalogued 1923; Ignatius Press reprints; the memoir of him; single encyclopedia articles | excluded | |
+
+## Herbert Thurston (round 33, my pick, 2026-10-18)
+
+Slugs `thurston-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Holy Year of Jubilee (London: Sands, 1900) | have-ocr | IA `holyyearofjubile00thur` |
+| The Stations of the Cross (London: Burns & Oates, 1906) | have-ocr | IA `stationsofcross0000herb` |
+| The Coronation Ceremonial, second and revised edition (London: Catholic Truth Society, 1911) | have-ocr | IA `coronationceremo00thur` |
+| Lent and Holy Week, second impression (London: Longmans, Green, 1914) | have-ocr | IA `lentandholyweekc00thuruoft` |
+| The Memory of Our Dead (London: Burns & Oates, 1915) | have-ocr | IA `thememoryofourde00thuruoft` |
+| The War & the Prophets (London: Burns & Oates, 1915) | have-ocr | IA `warprophetsnotes00thuruoft` |
+| PG 79316 and the 1914 reprint of the Stations; The Roman Jubilee (1925 abridgement) | alternate | not shelved |
+| His revision of Butler's Lives of the Saints (from 1926): Butler's work | alternate | not shelved |
+| Books he edited, introduced or translated (Bridgett, St Hugh, St Melania and others); the posthumous Familiar Prayers (1953); Edgar Thurston | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
