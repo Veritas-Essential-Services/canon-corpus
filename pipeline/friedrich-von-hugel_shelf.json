@@ -1,0 +1,173 @@
+{
+ "_about": "Public-domain Baron Friedrich von Hügel (1852-1925, Catholic lay theologian in England) for the Word Hoard: 9 books he wrote in English, from Internet Archive scans: The Mystical Element of Religion (2 vols, 1908), Eternal Life (1912), The German Soul (1916), the two series of Essays and Addresses on the Philosophy of Religion (1921, 1926), the Selected Letters (1927), the Letters to a Niece (1928) and The Life of Prayer (1927). Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gel"
+ ],
+ "_surname": [
+  "von hugel",
+  "von hügel",
+  "friedrich von hugel",
+  "friedrich von hügel",
+  "baron von hugel",
+  "baron von hügel"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hugel-mystical-element-1": [
+   "mysticalelemento01hguoft",
+   "The Mystical Element of Religion as studied in Saint Catherine of Genoa and her Friends, vol. I (London: J. M. Dent, MCMVIII)"
+  ],
+  "hugel-mystical-element-2": [
+   "mysticalelemento0002baro",
+   "The Mystical Element of Religion, vol. II (London: J. M. Dent, MCMVIII)"
+  ],
+  "hugel-eternal-life": [
+   "a587978600hugeuoft",
+   "Eternal Life: a Study of its Implications and Applications (Edinburgh: T. & T. Clark, 1912)"
+  ],
+  "hugel-german-soul": [
+   "germansoulinitsa00hguoft",
+   "The German Soul in its Attitude towards Ethics and Christianity, the State and War (London: J. M. Dent, MCMXVI)"
+  ],
+  "hugel-essays-addresses-1": [
+   "essaysaddresseso00hgrich",
+   "Essays and Addresses on the Philosophy of Religion (London: J. M. Dent, MCMXXI)"
+  ],
+  "hugel-essays-addresses-2": [
+   "in.ernet.dli.2015.187474",
+   "Essays and Addresses on the Philosophy of Religion, second series (London: J. M. Dent, MCMXXVI)",
+   "2015.187474.Essay-Amp-Addresses-On-The-Philosophy-Of-Religion_djvu.txt"
+  ],
+  "hugel-selected-letters": [
+   "selectedletters10000frie",
+   "Selected Letters 1896-1924, edited with a memoir by Bernard Holland (London: J. M. Dent, MCMXXVII)"
+  ],
+  "hugel-letters-to-a-niece": [
+   "MN5160ucmf_0",
+   "Letters from Baron Friedrich von Hügel to a Niece, ed. Gwendolen Greene (London: J. M. Dent, 1928, reprinted 1929)"
+  ],
+  "hugel-life-of-prayer": [
+   "bwb_P9-ECW-809",
+   "The Life of Prayer (London: J. M. Dent, 1927)"
+  ]
+ },
+ "_alternates": {
+  "hugel-pg": "PG 50205-50206: The Mystical Element of Religion, 1908, the same edition as the IA picks",
+  "hugel-copies": "The 1909 reprint and 1923 second edition of The Mystical Element; other copies of Eternal Life and the Essays"
+ },
+ "_excluded": {
+  "hugel-late": "Printings reissued 1930 or later",
+  "hugel-other": "Selections by others (1928), Troeltsch's lectures with his introduction, books by other von Hügels, an Italian edition"
+ },
+ "_identity_checked": {
+  "hugel-essays-addresses-1": {
+   "author": "title page read: 'BY BARON FRIEDRICH von HÛGEL' (OCR reads Û for Ü), MCMXXI"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hugel-mystical-element-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hugel-mystical-element-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hugel-eternal-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hugel-german-soul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hugel-essays-addresses-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hugel-essays-addresses-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hugel-selected-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hugel-letters-to-a-niece": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "[1929]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hugel-life-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "von hugel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

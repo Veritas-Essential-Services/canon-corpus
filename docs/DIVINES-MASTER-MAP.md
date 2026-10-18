@@ -5890,6 +5890,26 @@ Slugs `underhill-*`. Writer on mysticism; every printing before 1930. Her Jacopo
 | CCEL underhill/mysticism: the twelfth edition, preface Easter 1930 | excluded | |
 | Printings from 1930 on (The House of the Soul and later) | excluded | |
 | Books by others that she edited or helped translate (Kabir, the Cloud, Hilton, Ruysbroeck's Adornment) | excluded | |
+
+## Friedrich von Hügel (round 27, my pick, 2026-10-17)
+
+Slugs `hugel-*`. Catholic lay theologian of the mystical element of religion; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mystical Element of Religion as studied in Saint Catherine of Genoa and her Friends, vol. I (London: J. M. Dent, MCMVIII) | have-ocr | IA `mysticalelemento01hguoft` |
+| The Mystical Element of Religion, vol. II (London: J. M. Dent, MCMVIII) | have-ocr | IA `mysticalelemento0002baro` |
+| Eternal Life: a Study of its Implications and Applications (Edinburgh: T. & T. Clark, 1912) | have-ocr | IA `a587978600hugeuoft` |
+| The German Soul in its Attitude towards Ethics and Christianity, the State and War (London: J. M. Dent, MCMXVI) | have-ocr | IA `germansoulinitsa00hguoft` |
+| Essays and Addresses on the Philosophy of Religion (London: J. M. Dent, MCMXXI) | have-ocr | IA `essaysaddresseso00hgrich` |
+| Essays and Addresses on the Philosophy of Religion, second series (London: J. M. Dent, MCMXXVI) | have-ocr | IA `in.ernet.dli.2015.187474` |
+| Selected Letters 1896-1924, edited with a memoir by Bernard Holland (London: J. M. Dent, MCMXXVII) | have-ocr | IA `selectedletters10000frie` |
+| Letters from Baron Friedrich von Hügel to a Niece, ed. Gwendolen Greene (London: J. M. Dent, 1928, reprinted 1929) | have-ocr | IA `MN5160ucmf_0` |
+| The Life of Prayer (London: J. M. Dent, 1927) | have-ocr | IA `bwb_P9-ECW-809` |
+| PG 50205-50206: The Mystical Element of Religion, 1908, the same edition as the IA picks | alternate | not shelved |
+| The 1909 reprint and 1923 second edition of The Mystical Element; other copies of Eternal Life and the Essays | alternate | not shelved |
+| Printings reissued 1930 or later | excluded | |
+| Selections by others (1928), Troeltsch's lectures with his introduction, books by other von Hügels, an Italian edition | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
