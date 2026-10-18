@@ -7496,3 +7496,19 @@ Slugs `gagordon-*`. Built from title pages read for round 32.
 | My Education and Religion: an Autobiography (Boston and New York: Houghton Mifflin, 1925) | have-ocr | IA `myeducationrelig00gord_0` |
 | The second impression of Religion and Miracle and other copies | alternate | not shelved |
 | witnesstoimmorta00gord: a post-1913 reprint catalogued 1893 | excluded | |
+
+## Theodore T. Munger (round 32, my pick, 2026-10-18)
+
+Slugs `munger-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Threshold (Boston: Houghton, Mifflin, 1881) | have-ocr | IA `onthreshold00mun` |
+| The Freedom of Faith (Boston: Houghton, Mifflin, 1883) | have-ocr | IA `freedomoffaith02mung` |
+| Lamps and Paths (Boston and New York: Houghton, Mifflin, 1885) | have-ocr | IA `lampspaths00mung_0` |
+| The Appeal to Life (Boston and New York: Houghton, Mifflin; copyright 1887) | have-ocr | IA `appealtolife01mung` |
+| Character through Inspiration, and Other Papers (London: James Clarke, 1897) | have-ocr | IA `characterthrough0000mung` |
+| Horace Bushnell, Preacher and Theologian (Boston and New York: Houghton, Mifflin; copyright 1899) | have-ocr | IA `horacebushnellpr00munguoft` |
+| Essays for the Day (Boston and New York: Houghton, Mifflin, 1904) | have-ocr | IA `essaysforday00mung` |
+| Other copies of The Freedom of Faith and the Bushnell | alternate | not shelved |
+| The Message of Christ to Manhood: lectures by several hands | excluded | |

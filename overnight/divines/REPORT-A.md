@@ -1558,3 +1558,6 @@
 
 ## 2026-10-17 21:18 CDT — george-a-gordon done
 - `pipeline/george-a-gordon_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — theodore-t-munger done
+- `pipeline/theodore-t-munger_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for munger-on-the-threshold (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
