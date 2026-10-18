@@ -1,5 +1,5 @@
 {
- "_about": "James Frederick Ferrier (1808-1864), raw IA OCR: Institutes of Metaphysic, the theory of knowing and being (Edinburgh: Blackwood, 1854). Added in round ac: Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866). US public domain. No uids minted.",
+ "_about": "James Frederick Ferrier (1808-1864), raw IA OCR: Institutes of Metaphysic, the theory of knowing and being (Edinburgh: Blackwood, 1854). Added in round ac: Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866). Added in round aj: Lectures on Greek Philosophy and other Philosophical Remains, vol. II (Edinburgh: Blackwood, 1866). US public domain. No uids minted.",
  "_author": "James Frederick Ferrier",
  "_name_words": [
   "james",
@@ -21,13 +21,17 @@
   "ferrier-lectures-on-greek-philosophy-1866-v1": [
    "lecturesongreekp01ferruoft",
    "Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866)"
+  ],
+  "ferrier-lectures-on-greek-philosophy-1866-v2": [
+   "lecturesongreek01ferrgoog",
+   "Lectures on Greek Philosophy and other Philosophical Remains, vol. II (Edinburgh: Blackwood, 1866)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "ferrier-institutes-of-metaphysic-1854": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ferrier",
    "identity": "ok",
@@ -38,7 +42,18 @@
   },
   "ferrier-lectures-on-greek-philosophy-1866-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ferrier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ferrier-lectures-on-greek-philosophy-1866-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ferrier",
    "identity": "ok",
