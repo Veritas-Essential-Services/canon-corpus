@@ -1,5 +1,5 @@
 {
- "_about": "George Santayana (1863-1952), works published in the US before 1930, from Project Gutenberg: The Sense of Beauty (1896), Interpretations of Poetry and Religion (1900), The Life of Reason (5 vols., 1905-1906, in one etext that names no printing), Three Philosophical Poets (1910), Winds of Doctrine (1913), Egotism in German Philosophy (1916), Character and Opinion in the United States (1921), Soliloquies in England (1922) and Scepticism and Animal Faith (1923; third impression 1929). Not taken: Some Turns of Thought in Modern Philosophy (PG 16712), first published 1933, after the US public-domain cutoff. His Poems are left for a poetry shelf. No uids minted.",
+ "_about": "George Santayana (1863-1952), works published in the US before 1930, from Project Gutenberg: The Sense of Beauty (1896), Interpretations of Poetry and Religion (1900), The Life of Reason (5 vols., 1905-1906, in one etext that names no printing), Three Philosophical Poets (1910), Winds of Doctrine (1913), Egotism in German Philosophy (1916), Character and Opinion in the United States (1921), Soliloquies in England (1922) and Scepticism and Animal Faith (1923; third impression 1929). Not taken: Some Turns of Thought in Modern Philosophy (PG 16712), first published 1933, after the US public-domain cutoff. His Poems are left for a poetry shelf. No uids minted. Added in round az: Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94).",
  "_author": "George Santayana",
  "_name_words": [
   "george",
@@ -47,12 +47,17 @@
    "Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "santayana-dialogues-in-limbo-1925": [
+   "dialoguesinlimbo014715mbp",
+   "Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "santayana-sense-of-beauty-1896": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -61,7 +66,7 @@
   },
   "santayana-interpretations-of-poetry-and-religion-1900": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -70,7 +75,7 @@
   },
   "santayana-life-of-reason": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -79,7 +84,7 @@
   },
   "santayana-three-philosophical-poets-1910": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -88,7 +93,7 @@
   },
   "santayana-winds-of-doctrine-1913": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -97,7 +102,7 @@
   },
   "santayana-egotism-in-german-philosophy-1916": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -106,7 +111,7 @@
   },
   "santayana-character-and-opinion-1921": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -115,7 +120,7 @@
   },
   "santayana-soliloquies-in-england-1922": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
@@ -124,12 +129,23 @@
   },
   "santayana-scepticism-and-animal-faith-1923": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "santayana",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "santayana-dialogues-in-limbo-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
