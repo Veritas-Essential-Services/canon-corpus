@@ -6438,6 +6438,7 @@ Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). S
 |---|---|---|---|
 | Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
 | A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
+| Prolegomena to an Idealist Theory of Knowledge (Macmillan, 1924) |  | `kemp-smith-prolegomena-idealist-theory-1924` | have-raw (IA `in.ernet.dli.2015.52811`) |
 
 ## C. Lloyd Morgan (comparative psychology, emergence)
 
