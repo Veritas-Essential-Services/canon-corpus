@@ -177,7 +177,7 @@ Added at the coordinator's relay, vetoable. Not converted to unit-id JSON; **no 
 ## Burton (Arabian Nights, Camoens)
 
 Shelf: `pipeline/burton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burton` · titles `python3 pipeline/split_shelf_titles.py burton`.
-Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
+Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -536,7 +536,7 @@ Round 6, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 ## Sir Edwin Arnold (Bhagavad Gita; since round 78 also the Hitopadesa, the Gita Govinda, Indian Idylls and the Katha Upanishad)
 
 Shelf: `pipeline/edwin-arnold_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-arnold` · titles `python3 pipeline/split_shelf_titles.py edwin-arnold`.
-Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -3572,16 +3572,17 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rose-strunsky-gorky-the-confession-a-novel` | Maksim Gorky | The Confession: A Novel | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 55828 |
 | `rose-strunsky-tolstoy-the-journal-of-leo-tolstoi-first-volume1` | Leo Tolstoy | The Journal of Leo Tolstoi (First Volume—1895-1899) | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 46272 |
 
-## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920)
+## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920; Fröding's Selected Poems, 1916)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cw-stork-soderberg-martin-birck-s-youth` | Hjalmar Söderberg | Martin Birck's youth | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 78363 |
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
 | `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
+| `cw-stork-froding-selected-poems` | Gustaf Fröding | Selected Poems | Charles Wharton Stork | 1916 | have-raw | IA `selectedpoems00frodiala` |
 | `cw-stork-anthology-of-swedish-lyrics` | — | Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
@@ -5657,7 +5658,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5738,6 +5739,10 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-chernyshevsky-whats-to-be-done` | Nikolay Chernyshevsky | What's to be Done? A Romance | Benjamin R. Tucker | 1886 | have-raw | IA `whatstobedonerom00cher` |
 | `singles-fiction-3-potapenko-a-russian-priest` | Ignaty Potapenko | A Russian Priest | W. Gaussen | 1891 | have-raw | IA `russianpriest00potarich` |
 | `singles-fiction-3-potapenko-a-father-of-six` | Ignaty Potapenko | A Father of Six, and An Occasional Holiday | W. Gaussen | 1893 | have-raw | IA `fatherofsixandoc00potaiala` |
+| `singles-fiction-3-lazhechnikov-the-heretic-vol-1` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. I | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans01lazhuoft` |
+| `singles-fiction-3-lazhechnikov-the-heretic-vol-2` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans02lazhuoft` |
+| `singles-fiction-3-lazhechnikov-the-heretic-vol-3` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans03lazhuoft` |
+| `singles-fiction-3-pontoppidan-emanuel` | Henrik Pontoppidan | Emanuel, or Children of the Soil | Mrs. Edgar Lucas | 1896 | have-raw | IA `emanuelorchildre00pontiala` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -6605,7 +6610,7 @@ Round 71 (2026-10-17), vetoable. Round 85 (2026-10-17), vetoable: three titles a
 ## Translator shelf: E. A. Wallis Budge's Egyptian, Ethiopic and Syriac translations before 1931: the Book of the Dead, the Egyptian Heaven and Hell, the Liturgy of Funerary Offerings, Amen-em-apt, the Kebra Nagast, the Alexander romances, Bar Hebraeus's Laughable Stories, the Monks of Kublai Khan, the Book of Medicines
 
 Shelf: `pipeline/budge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py budge` · titles `python3 pipeline/split_shelf_titles.py budge`.
-Round 72 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
+Round 72 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6651,7 +6656,7 @@ Round 73 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Shelf: ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols), Petrie's Egyptian Tales (2 series), Griffith's High Priests of Memphis, Erman's Literature of the Ancient Egyptians (Blackman)
 
 Shelf: `pipeline/egyptian-texts_shelf.json` · fetch `python3 pipeline/fetch_shelf.py egyptian-texts` · titles `python3 pipeline/split_shelf_titles.py egyptian-texts`.
-Round 74 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Not converted to unit-id JSON; **no uids minted**.
+Round 74 (2026-10-17), vetoable. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|

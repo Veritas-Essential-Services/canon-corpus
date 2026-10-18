@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); Heidenstam's The Charles Men, Part I (American-Scandinavian Foundation, 1920), added in round 90. The Anthology of Swedish Lyrics (1917), also added in round 90, waits in _pending since round 103: its only scan is a library preservation photocopy. Round 117 (2026-10-17, vetoable) added Fröding's Selected Poems (Macmillan, 1916). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "charles wharton stork",
   "c. w. stork"
@@ -25,6 +25,10 @@
    "charlesmen01heid",
    "Charles Men, Part I (1920)",
    "charlesmen01heid_djvu.txt"
+  ],
+  "cws-froding-selected-poems": [
+   "selectedpoems00frodiala",
+   "Selected Poems (1916)"
   ]
  },
  "titles": {
@@ -53,6 +57,14 @@
    "translator": "Charles Wharton Stork",
    "scan_edition": "Scandinavian Classics XV, American-Scandinavian Foundation, New York 1920; archive.org scan",
    "note": "Part II (Scandinavian Classics XVI) was not found as a scan."
+  },
+  "cw-stork-froding-selected-poems": {
+   "source": "cws-froding-selected-poems",
+   "of": "Gustaf Fröding",
+   "work": "Selected Poems",
+   "translated": 1916,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "The Macmillan Company, New York; copyright 1916, published March 1916; UCLA scan"
   }
  },
  "_pending": {
@@ -89,6 +101,17 @@
    "ia_date": "1920",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "cws-froding-selected-poems": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -117,6 +140,19 @@
     1965
    ],
    "post_1930_examined": "Examined in round 90: 'DllU?,i 1965' is a garbled library stamp below the 1920 copyright line, not an imprint."
+  },
+  "cws-froding-selected-poems": {
+   "ia": "selectedpoems00frodiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860,
+    1880,
+    1891,
+    1897,
+    1911,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

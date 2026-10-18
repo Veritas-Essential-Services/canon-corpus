@@ -105,7 +105,10 @@
   "benj. r. tucker",
   "benjamin r. tucker",
   "w. gaussen",
-  "gaussen"
+  "gaussen",
+  "thomas b. shaw",
+  "mrs. edgar lucas",
+  "edgar lucas"
  ],
  "_surname": [
   "a. e. chamot",
@@ -212,7 +215,10 @@
   "benj. r. tucker",
   "benjamin r. tucker",
   "w. gaussen",
-  "gaussen"
+  "gaussen",
+  "thomas b. shaw",
+  "mrs. edgar lucas",
+  "edgar lucas"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -552,6 +558,19 @@
   "sf3-potapenko-a-father-of-six": [
    "w. gaussen",
    "gaussen"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-1": [
+   "thomas b. shaw"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-2": [
+   "thomas b. shaw"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-3": [
+   "thomas b. shaw"
+  ],
+  "sf3-pontoppidan-emanuel": [
+   "mrs. edgar lucas",
+   "edgar lucas"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -866,6 +885,22 @@
   "sf3-potapenko-a-father-of-six": [
    "fatherofsixandoc00potaiala",
    "A Father of Six, and An Occasional Holiday (1893)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-1": [
+   "hereticorgermans01lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. I (1844)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-2": [
+   "hereticorgermans02lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II (1844)"
+  ],
+  "sf3-lazhechnikov-the-heretic-vol-3": [
+   "hereticorgermans03lazhuoft",
+   "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III (1844)"
+  ],
+  "sf3-pontoppidan-emanuel": [
+   "emanuelorchildre00pontiala",
+   "Emanuel, or Children of the Soil (1896)"
   ]
  },
  "titles": {
@@ -1490,6 +1525,39 @@
    "translated": 1893,
    "translator": "W. Gaussen",
    "scan_edition": "T. Fisher Unwin, London 1893, Pseudonym Library; UCLA scan"
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-1": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-1",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. I",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan",
+   "note": "Shaw's translation first appeared in 1844 (Harper, New York, in one volume); this is Blackwood's three-volume edition of 1845."
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-2": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-2",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan"
+  },
+  "singles-fiction-3-lazhechnikov-the-heretic-vol-3": {
+   "source": "sf3-lazhechnikov-the-heretic-vol-3",
+   "of": "Ivan Lazhechnikov",
+   "work": "The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III",
+   "translated": 1844,
+   "translator": "Thomas B. Shaw",
+   "scan_edition": "William Blackwood and Sons, Edinburgh and London 1845; University of Toronto scan"
+  },
+  "singles-fiction-3-pontoppidan-emanuel": {
+   "source": "sf3-pontoppidan-emanuel",
+   "of": "Henrik Pontoppidan",
+   "work": "Emanuel, or Children of the Soil",
+   "translated": 1896,
+   "translator": "Mrs. Edgar Lucas",
+   "scan_edition": "J. M. Dent, London 1896 (prefatory note dated April 1896); UCLA scan"
   }
  },
  "_pending": {
@@ -2210,6 +2278,50 @@
    "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-lazhechnikov-the-heretic-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas b. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-pontoppidan-emanuel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "[1896]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2646,6 +2758,43 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-1": {
+   "ia": "hereticorgermans01lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-2": {
+   "ia": "hereticorgermans02lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-lazhechnikov-the-heretic-vol-3": {
+   "ia": "hereticorgermans03lazhuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-pontoppidan-emanuel": {
+   "ia": "emanuelorchildre00pontiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1849,
+    1866,
+    1872,
+    1894,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
@@ -2658,6 +2807,9 @@
   },
   "sf3-chernyshevsky-whats-to-be-done": {
    "author": "The gate matched 'Benj. R. Tucker' only in the publisher's advertisements at the back. The title page OCR is garbled ('TUANSLAIKJJ llY B.ENJ. U. Tl^rKKJl. ISOSroN') and is read as 'Translated by Benj. R. Tucker. Boston: Benj. R. Tucker, Publisher'; the book opens with a 'Translator's Preface'. Checked by eye 2026-10-17."
+  },
+  "sf3-pontoppidan-emanuel": {
+   "author": "The translator's name is printed only on the decorative title page, which the OCR garbles as 'PK-CHILDRENOr-THE-iOILFRO •TNEDAnJH-OF-NENRLI iEDGA^LUCAJ', read as 'or Children of the Soil, from the Danish of Henrik [Pontoppidan, by Mrs.] Edgar Lucas'. The prefatory note is dated April 1896; the publisher (J. M. Dent) comes from the catalogue record. Checked by eye 2026-10-17."
   }
  }
 }
