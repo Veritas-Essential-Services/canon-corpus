@@ -191,6 +191,22 @@
   "bmbower-eagles-wing": [
    68692,
    "The eagle's wing: A story of the Colorado"
+  ],
+  "bmbower-flying-us-last-stand": [
+   1740,
+   "The Flying U's Last Stand"
+  ],
+  "bmbower-cow-country": [
+   1723,
+   "Cow-Country"
+  ],
+  "bmbower-her-prairie-knight": [
+   1908,
+   "Her Prairie Knight"
+  ],
+  "bmbower-rowdy-of-the-cross-l": [
+   1907,
+   "Rowdy of the Cross L"
   ]
  },
  "internet_archive": {},
@@ -512,6 +528,42 @@
    "pg_translator": null
   },
   "bmbower-eagles-wing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. bower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmbower-flying-us-last-stand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. bower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmbower-cow-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. bower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmbower-her-prairie-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. bower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmbower-rowdy-of-the-cross-l": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
