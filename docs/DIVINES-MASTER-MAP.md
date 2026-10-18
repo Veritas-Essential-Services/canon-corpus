@@ -8893,6 +8893,23 @@ Slugs `ctonna-*`. Built from title pages read for round 36.
 | The Works of Charlotte Elizabeth, vol. III (New York: M. W. Dodd, 1846) | have-ocr | IA `worksofcharlotte03char` |
 | New York Personal Recollections (1842, 1843, 1854) and Principalities and Powers (Taylor 1842, with Bickersteth's introduction; Baker & Scribner); Dodd's Judah's Lion and Church Visible; PG 8114, an abridged Personal Recollections with no source edition stated | alternate | not shelved |
 | The Christian Lady's Magazine (a periodical she edited); her English Martyrology (abridged from Foxe); her novels as separate books; books by other women named Charlotte Elizabeth | excluded | |
+
+## Anna Shipton (round 36, my pick, 2026-10-18)
+
+Slugs `ashipton-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| 'Tell Jesus': Recollections of Emily Gosse (Philadelphia: Mrs. Jane Hamilton, 1868) | have-ocr | IA `telljesusrecol00ship` |
+| The Secret of the Lord (London: Morgan and Chase; year illegible, catalogued 1870) | have-ocr | IA `secretoflord00ship` |
+| Wayside Service, or The Day of Small Things, fourth thousand (London: Morgan and Chase; title page undated) | have-ocr | IA `wayside00ship` |
+| The Lost Blessing (London: Morgan, Chase, and Scott; title page undated) | have-ocr | IA `lostbles00ship` |
+| Waiting Hours with the Hungry, and Weary, and Thirsty in the Wilderness (New York: T. Y. Crowell; title page undated, catalogued 1873) | have-ocr | IA `waitinghourswith00ship` |
+| The Watch Tower in the Wilderness (New York: T. Y. Crowell; title page undated, catalogued 1878) | have-ocr | IA `watchtowerinwild00ship` |
+| Hidden Springs (Boston: Willard Tract Repository; copyright 1881) | have-ocr | IA `hiddensprings00ship` |
+| The Upper Springs and the Nether Springs, or Life Hid with Christ in God (London: James Nisbet, 1882) | have-ocr | IA `upperspringsand00shipgoog` |
+| Two undated Crowell Tell Jesus | alternate | not shelved |
+| The Lord's Purse-Bearers, which is Hesba Stretton's (1883); a late undated 'sixty-first impression' Tell Jesus; her verse books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
