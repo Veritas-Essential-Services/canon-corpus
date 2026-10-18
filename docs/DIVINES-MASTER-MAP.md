@@ -9378,6 +9378,15 @@ Slugs `macarius-*`. Built from title pages read for round 38.
 | Primitive Morality: or, The Spiritual Homilies of St. Macarius the Egyptian, done out of Greek into English by a Presbyter of the Church of England (London: W. Taylor; W. and J. Innys; J. Osborn, MDCCXXI) | have-ocr | IA `primitivemoralit00maca` |
 | Four other scans of Mason 1921; the ECCO microfilm of Primitive Morality (1721) | alternate | not shelved |
 | Marriott's Macarii Anecdota (1918, Greek text); Macarius Magnes and Macarius of Antioch (different men) | excluded | |
+
+## Peter Mogila (round 38, my pick, 2026-10-18)
+
+Slugs `mogila-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Orthodox Confession of the Catholic and Apostolic Eastern Church, from the version of Peter Mogila, edited by J. J. Overbeck (London: Thomas Baker, 1898) | have-ocr | IA `cu31924029363094` |
+| The 1762 London printing: its title page names neither Mogila nor a translator, held for Adam's ruling with the anonymous title pages | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
