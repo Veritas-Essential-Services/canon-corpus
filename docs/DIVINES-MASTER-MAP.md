@@ -8310,9 +8310,9 @@ Slugs `cwesley-*`. Built from title pages read for round 34.
 | The 1783 Paramore printing of the sermon; the undated Wesleyan Methodist Book-Room reissue of Jackson's Journal (catalogued 1849 in error); Telford's Early Journal (1909) | alternate | not shelved |
 | The Cause and Cure of Earthquakes (1750): its title page names no author; editions from 1977 on | excluded | |
 
-## John Ireland (round 15, my pick, 2026-10-18)
+## John Ireland (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `jireland-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8322,9 +8322,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated) | have-ocr | IA `patriotismitsdut00irel` |
 | Other 1896 and 1903 McBride issues; a 1904 Pioneer Press vol. II (catalogued 1903 in error); his Memoir of Rev. Lucian Galtier and the Shields address (offprints, no imprint) | alternate | not shelved |
 
-## John J. Keane (round 15, my pick, 2026-10-18)
+## John J. Keane (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `jjkeane-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8332,9 +8332,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Onward and Upward: A Year Book compiled from the Discourses of Archbishop Keane, by Maurice Francis Egan (Baltimore and New York: John Murphy; title page undated, copyright 1902) | have-ocr | IA `MN5185ucmf_2` |
 | Mullany's essays (his preface only); books by John Fryer Keane, a different man | excluded | |
 
-## Herbert Vaughan (round 15, my pick, 2026-10-18)
+## Herbert Vaughan (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `hvaughan-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8344,9 +8344,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Other Young Priest copies (one undated, one catalogued 1910); his introduction to Rivington's The Primitive Church and the See of Peter (1894) | alternate | not shelved |
 | The Year of Preparation for the Vatican Council (1869, no author on the title page); the Westminster bishops' collective Vindication of Apostolicae Curae; Humility of Heart (1944 printing, catalogued 1903 in error); the Mivart correspondence | excluded | |
 
-## Geremia Bonomelli (round 15, my pick, 2026-10-18)
+## Geremia Bonomelli (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `bonomelli-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8362,9 +8362,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Homilies vols V (1912) and VI; further copies of both sets | alternate | not shelved |
 | A Doctrine of Hope, adapted from a pastoral letter by others (catalogued 1921) | excluded | |
 
-## Louis Veuillot (round 15, my pick, 2026-10-18)
+## Louis Veuillot (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `veuillot-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8372,9 +8372,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Stephanie, tr. Josephine Black (Dublin: M. H. Gill and Son, 1883) | have-ocr | IA `stephanietrbyjb00veuigoog` |
 | The Liberal Illusion, tr. George Barry O'Toole (post-1929); French editions | excluded | |
 
-## Francis Procter (round 15, my pick, 2026-10-18)
+## Francis Procter (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `procter-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8387,9 +8387,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Another 1855 copy; New History 1910 printings (catalogued 1901 and 1907 in error); later editions of the History (1864-1892, not read) | alternate | not shelved |
 | Breviarium Sarum (a Latin text he edited with Wordsworth); Hardwick's books, which he only edited | excluded | |
 
-## John Henry Blunt (round 15, my pick, 2026-10-18)
+## John Henry Blunt (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `jhblunt-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8420,9 +8420,9 @@ Slugs `maclear-*`. Built from title pages read for round 35.
 | Class-Book new editions (1881, 1885); Creeds 1904; Articles 1896; the undated Apostles; the Elementary Introduction with Procter (on the francis-procter shelf) | alternate | not shelved |
 | 1920 and 1922 reprints of the New Testament Class-Book | excluded | |
 
-## John Lingard (round 15, my pick, 2026-10-18)
+## John Lingard (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `lingard-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8437,9 +8437,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Other Antiquities copies (1810 BSB, Philadelphia 1841, Baltimore 1851-54) and the 1858 History and Antiquities | alternate | not shelved |
 | A New Version of the Four Gospels (1836, 'by a Catholic') and two controversial pamphlets: their title pages name no one; Ward's Errata; the timber treatise by another John Lingard | excluded | |
 
-## A. N. Mouravieff (round 15, my pick, 2026-10-18)
+## A. N. Mouravieff (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `mouravieff-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8447,9 +8447,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | The London issue (Joseph Masters, 1842) and another Oxford copy; Neale's Voices from the East (1859), whose first six essays are Mouravieff's, though the title page does not name him | alternate | not shelved |
 | The 1971 AMS reprint; French editions; Boris Mouravieff, a different author | excluded | |
 
-## William Palmer of Worcester (round 15, my pick, 2026-10-18)
+## William Palmer of Worcester (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `wpalmerw-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8464,9 +8464,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Origines Liturgicae fourth edition (1845) and an undated copy catalogued 1832; the Treatise third edition (1842) and New York 1841; A Compendious Ecclesiastical History (1840, title page truncated) | alternate | not shelved |
 | An Introduction to Early Christian Symbolism (1859), catalogued under him but by Palmer of Magdalen | excluded | |
 
-## William Palmer of Magdalen (round 15, my pick, 2026-10-18)
+## William Palmer of Magdalen (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `wpalmerm-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8475,9 +8475,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Other copies of both books | alternate | not shelved |
 | The 1968 facsimile of The Patriarch and the Tsar | excluded | |
 
-## Angelus Silesius (round 15, my pick, 2026-10-18)
+## Angelus Silesius (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `silesius-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8485,9 +8485,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Another 1909 copy; Kroeger's Rhymed Sayings in the Journal of Speculative Philosophy (1870, a journal article) | alternate | not shelved |
 | Flitch (1932) and later selections; a German PG text; anthologies with his hymns | excluded | |
 
-## Claude Fleury (round 15, my pick, 2026-10-18)
+## Claude Fleury (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `fleury-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
@@ -8501,9 +8501,9 @@ Slugs `-*`. Built from title pages read for round 35.
 | Other copies of the Oxford set; Farneworth's Short History of the Israelites (1756, Fleury's name illegible); Adam Clarke's enlarged Manners of the Ancient Israelites (New York, 1825); The Manners of the Christians (Newcastle, translator and year illegible) | alternate | not shelved |
 | A Latin lexicon catalogued as Fleury (1727, no volume suffix); Wesley's abridged Manners of the Antient Christians (1749), which does not name Fleury | excluded | |
 
-## Henry Hart Milman (round 15, my pick, 2026-10-18)
+## Henry Hart Milman (round 35, my pick, 2026-10-18)
 
-Slugs `-*`. Built from title pages read for round 35.
+Slugs `milman-*`. Built from title pages read for round 35.
 
 | Work | Status | Where |
 |---|---|---|
