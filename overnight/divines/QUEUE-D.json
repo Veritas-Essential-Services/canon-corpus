@@ -3245,6 +3245,14 @@
       "started": "2026-10-17T21:06:59-05:00",
       "finished": "2026-10-17T21:06:59-05:00",
       "notes": "james-grant: new shelf, 70 Gutenberg books, 110,796 units, 148 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-lever",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Charles Lever; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:07:00-05:00",
+      "finished": "2026-10-17T21:07:01-05:00",
+      "notes": "charles-lever: new shelf, 46 Gutenberg books, 121,283 units, 312 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

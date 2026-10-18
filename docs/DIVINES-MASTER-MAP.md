@@ -31658,6 +31658,63 @@ Shelf: `pipeline/james-grant_shelf.json` (2026-10-17; added at the coordinator's
 | Lady Wedderburn's wish, Vol. 2 (of 3) | have | PG 79591, `jgrant-lady-wedderburns-wish-vol-2-of-3` (1191 units) |
 | Lady Wedderburn's wish, Vol. 3 (of 3) | have | PG 79592, `jgrant-lady-wedderburns-wish-vol-3-of-3` (1249 units) |
 
+## Charles Lever
+
+Shelf: `pipeline/charles-lever_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (46 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Confessions of Harry Lorrequer — Complete | have | PG 5240, `clever-confessions-of-harry-lorrequer-complete` (2850 units) |
+| Charles O'Malley, The Irish Dragoon, Volume 1 | have | PG 8577, `clever-charles-omalley-the-irish-dragoon-volume-1` (3468 units) |
+| Charles O'Malley, The Irish Dragoon, Volume 2 | have | PG 8674, `clever-charles-omalley-the-irish-dragoon-volume-2` (3089 units) |
+| Lord Kilgobbin | have | PG 8941, `clever-lord-kilgobbin` (5090 units) |
+| Cornelius O'Dowd Upon Men And Women And Other Things In General | have | PG 22058, `clever-cornelius-odowd-upon-men-and-women-and-other-things-i` (744 units) |
+| Nuts and Nutcrackers | have | PG 31685, `clever-nuts-and-nutcrackers` (499 units) |
+| Tom Burke Of "Ours", Volume I | have | PG 31901, `clever-tom-burke-of-ours-volume-i` (3158 units) |
+| Tom Burke Of "Ours", Volume II | have | PG 31902, `clever-tom-burke-of-ours-volume-ii` (3073 units) |
+| Confessions Of Con Cregan, the Irish Gil Blas | have | PG 32060, `clever-confessions-of-con-cregan-the-irish-gil-blas` (3494 units) |
+| The Daltons; Or, Three Roads In Life. Volume I (of II) | have | PG 32061, `clever-daltons` (3253 units) |
+| The Daltons; Or, Three Roads In Life. Volume II (of II) | have | PG 32062, `clever-daltons-32062` (3449 units) |
+| A Rent In A Cloud | have | PG 32082, `clever-a-rent-in-a-cloud` (1486 units) |
+| St. Patrick's Eve | have | PG 32083, `clever-st-patricks-eve` (638 units) |
+| The O'Donoghue: Tale of Ireland Fifty Years Ago | have | PG 32340, `clever-odonoghue` (3479 units) |
+| Davenport Dunn, a Man of Our Day. Volume 1 (of 2) | have | PG 32341, `clever-davenport-dunn-a-man-of-our-day-volume-1-of-2` (3170 units) |
+| Davenport Dunn, a Man of Our Day. Volume 2 (of 2) | have | PG 32342, `clever-davenport-dunn-a-man-of-our-day-volume-2-of-2` (3075 units) |
+| Arthur O'Leary: His Wanderings And Ponderings In Many Lands | have | PG 32424, `clever-arthur-oleary` (2467 units) |
+| Maurice Tiernay, Soldier of Fortune | have | PG 32425, `clever-maurice-tiernay-soldier-of-fortune` (3335 units) |
+| Gerald Fitzgerald, the Chevalier: A Novel | have | PG 32560, `clever-gerald-fitzgerald-the-chevalier` (2694 units) |
+| The Bramleighs of Bishop's Folly | have | PG 32561, `clever-bramleighs-of-bishops-folly` (4727 units) |
+| A Day's Ride: A Life's Romance | have | PG 32692, `clever-a-days-ride` (2506 units) |
+| That Boy of Norcott's | have | PG 32693, `clever-that-boy-of-norcotts` (1470 units) |
+| One Of Them | have | PG 32840, `clever-one-of-them` (4391 units) |
+| Sir Jasper Carew: His Life and Experience | have | PG 33081, `clever-sir-jasper-carew` (3326 units) |
+| Jack Hinton: The Guardsman | have | PG 33082, `clever-jack-hinton` (3170 units) |
+| Diary And Notes Of Horace Templeton, Esq. Volume I (of II) | have | PG 33216, `clever-diary-and-notes-of-horace-templeton-esq-volume-i-of-i` (869 units) |
+| Diary And Notes Of Horace Templeton, Esq. Volume II (of II) | have | PG 33217, `clever-diary-and-notes-of-horace-templeton-esq-volume-ii-of` (759 units) |
+| Roland Cashel, Volume I (of II) | have | PG 33468, `clever-roland-cashel-volume-i-of-ii` (3256 units) |
+| Roland Cashel, Volume II (of II) | have | PG 33469, `clever-roland-cashel-volume-ii-of-ii` (3273 units) |
+| The Fortunes of Glencore | have | PG 33556, `clever-fortunes-of-glencore` (3149 units) |
+| Tony Butler | have | PG 33604, `clever-tony-butler` (4670 units) |
+| Barrington. Volume 1 (of 2) | have | PG 34882, `clever-barrington-volume-1-of-2` (2177 units) |
+| Barrington. Volume 2 (of 2) | have | PG 34883, `clever-barrington-volume-2-of-2` (1592 units) |
+| Tales of the Trains Being Some Chapters of Railroad Romance by Tilbury Tramp, Queen's Messenger | have | PG 34884, `clever-tales-of-the-trains-being-some-chapters-of-railroad-r` (593 units) |
+| The Martins Of Cro' Martin, Vol. I (of II) | have | PG 35143, `clever-martins-of-cro-martin-vol-i-of-ii` (2915 units) |
+| The Martins Of Cro' Martin, Vol. II (of II) | have | PG 35144, `clever-martins-of-cro-martin-vol-ii-of-ii` (2647 units) |
+| Paul Gosslett's Confessions in Love, Law, and The Civil Service | have | PG 35145, `clever-paul-gossletts-confessions-in-love-law-and-the-civil` (461 units) |
+| Sir Brook Fossbrooke, Volume I. | have | PG 35296, `clever-sir-brook-fossbrooke-volume-i` (2900 units) |
+| Sir Brook Fossbrooke, Volume II. | have | PG 35297, `clever-sir-brook-fossbrooke-volume-ii` (2058 units) |
+| The Dodd Family Abroad, Vol. I | have | PG 35441, `clever-dodd-family-abroad-vol-i` (2107 units) |
+| The Dodd Family Abroad, Vol. II | have | PG 35442, `clever-dodd-family-abroad-vol-ii` (1127 units) |
+| Luttrell Of Arran | have | PG 35717, `clever-luttrell-of-arran` (5387 units) |
+| The Knight Of Gwynne, Vol. 1 (of 2) | have | PG 35755, `clever-knight-of-gwynne-vol-1-of-2` (2794 units) |
+| The Knight Of Gwynne, Vol. 2 (of 2) | have | PG 35756, `clever-knight-of-gwynne-vol-2-of-2` (2828 units) |
+| Charles Lever, His Life in His Letters, Vol. I | have | PG 35864, `clever-charles-lever-his-life-in-his-letters-vol-i` (1535 units) |
+| Charles Lever, His Life in His Letters, Vol. II | have | PG 35865, `clever-charles-lever-his-life-in-his-letters-vol-ii` (2085 units) |
+| pg-29381 | excluded | PG 29381: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 5234, 5235, 5236, 5237, 5238, 5239: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 35500: second Gutenberg editions of titles already on the shelf. |
+| pg-7548 | excluded | PG 7548: David Widger's quotation and image selection. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
