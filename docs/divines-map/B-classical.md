@@ -4995,6 +4995,7 @@ Shelf: `pipeline/joseph-priestley_shelf.json`. Materialism and necessity.
 |---|---|---|---|
 | Disquisitions relating to Matter and Spirit (London: J. Johnson, 1777) |  | `priestley-matter-and-spirit-1777` | have-raw (IA `disquisitionsrel00prieuoft`) |
 | A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, with Richard Price (London: J. Johnson and T. Cadell, 1778) |  | `priestley-price-free-discussion-1778` | have-raw (IA `freediscussionof00pric`) |
+| Hartley's Theory of the Human Mind, on the principle of the association of ideas, with essays relating to the subject of it, ed. Joseph Priestley (London: J. Johnson, 1775) |  | `priestley-hartleys-theory-1775` | have-raw (IA `b30519925`) |
 
 Pending (wishlist): The Doctrine of Philosophical Necessity Illustrated (1777 or 1782, a scan over the OCR gate)
 

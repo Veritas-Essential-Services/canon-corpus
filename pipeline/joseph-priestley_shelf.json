@@ -1,5 +1,5 @@
 {
- "_about": "Joseph Priestley (1733-1804) as philosopher, raw IA OCR: Disquisitions relating to Matter and Spirit, with the History of the Philosophical Doctrine concerning the Origin of the Soul (London: J. Johnson, 1777), and A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, in a correspondence between Dr. Price and Dr. Priestley (London: J. Johnson and T. Cadell, 1778), a joint work kept here because Priestley published it. Held: The Doctrine of Philosophical Necessity (1782 scan, OCR 0.695, under the gate). US public domain. No uids minted.",
+ "_about": "Joseph Priestley (1733-1804) as philosopher, raw IA OCR: Disquisitions relating to Matter and Spirit, with the History of the Philosophical Doctrine concerning the Origin of the Soul (London: J. Johnson, 1777), and A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, in a correspondence between Dr. Price and Dr. Priestley (London: J. Johnson and T. Cadell, 1778), a joint work kept here because Priestley published it. Held: The Doctrine of Philosophical Necessity (1782 scan, OCR 0.695, under the gate). Added in round ao: Hartley's Theory of the Human Mind, on the principle of the association of ideas, with essays relating to the subject of it (London: J. Johnson, 1775): Priestley's abridgement of David Hartley's Observations on Man, with his own introductory essays. US public domain. No uids minted.",
  "_author": "Joseph Priestley",
  "_name_words": [
   "joseph",
@@ -18,13 +18,17 @@
   "priestley-price-free-discussion-1778": [
    "freediscussionof00pric",
    "A Free Discussion of the Doctrines of Materialism and Philosophical Necessity, with Richard Price (London: J. Johnson and T. Cadell, 1778)"
+  ],
+  "priestley-hartleys-theory-1775": [
+   "b30519925",
+   "Hartley's Theory of the Human Mind, on the principle of the association of ideas, with essays relating to the subject of it, ed. Joseph Priestley (London: J. Johnson, 1775)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "priestley-matter-and-spirit-1777": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "priestley",
    "identity": "ok",
@@ -35,12 +39,23 @@
   },
   "priestley-price-free-discussion-1778": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "priestley",
    "identity": "ok",
    "ia_rights": "ok: published 1778",
    "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "priestley-hartleys-theory-1775": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "priestley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
