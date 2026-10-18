@@ -3994,7 +3994,7 @@ Shelf: `pipeline/helvetius_shelf.json`. De l'Esprit, the first English translati
 
 ## John Dewey
 
-Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public domain.
+Shelf: `pipeline/john-dewey_shelf.json`. Twenty-nine volumes, 1888-1930, US public domain.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
@@ -4018,6 +4018,15 @@ Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public dom
 | Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95) |  | `dewey-experience-and-nature-1929` | have-raw (IA `experienceandnat029343mbp`) |
 | The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94) |  | `dewey-quest-for-certainty-1929` | have-raw (IA `questforcertaint032529mbp`) |
 | Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93) |  | `dewey-individualism-old-and-new-1930` | have-raw (IA `individu00dewe`) |
+| Psychology, 3rd revised ed. (Harper, 1894; copyright 1886, 1891) |  | `dewey-psychology-1894` | have-raw (IA `psychology01dewe`) |
+| The Psychology of Number and its Applications to Methods of Teaching Arithmetic, with James A. McLellan (Appleton, 1895) |  | `dewey-mclellan-psychology-of-number-1895` | have-raw (IA `psychologyofnumb00mcleuoft`) |
+| The Educational Situation (University of Chicago Press, 1902) |  | `dewey-educational-situation-1902` | have-raw (IA `educationalsitua00dewerich`) |
+| Interest and Effort in Education (Houghton Mifflin, copyright 1913) |  | `dewey-interest-and-effort-1913` | have-raw (IA `interesteffortin00dewe`) |
+| Letters from China and Japan, with Alice Chipman Dewey, ed. Evelyn Dewey (Dutton, 1920) |  | `dewey-letters-from-china-and-japan-1920` | have-raw (IA `lettersfromchina00deweuoft`) |
+| Characters and Events, ed. Joseph Ratner, vol. I (Holt, 1929) |  | `dewey-characters-and-events-1929-v1` | have-raw (IA `charactersevents0001john`) |
+| Characters and Events, ed. Joseph Ratner, vol. II (Holt, 1929) |  | `dewey-characters-and-events-1929-v2` | have-raw (IA `charactersevents0002john`) |
+| Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929) |  | `dewey-impressions-of-soviet-russia-1929` | have-raw (IA `in.ernet.dli.2015.169066`) |
+| The Sources of a Science of Education (Horace Liveright, 1929) |  | `dewey-sources-of-a-science-of-education-1929` | have-raw (IA `sourcesofscience00dewe`) |
 
 Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
 
