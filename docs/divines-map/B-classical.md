@@ -7415,6 +7415,9 @@ Shelf: `pipeline/lewis-mumford_shelf.json`. Three books, 1922-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Story of Utopias (1922) |  | `mumford-story-of-utopias` | have (PG 75654) |
+| Sticks and Stones (1924) |  | `mumford-sticks-and-stones` | have (PG 64629) |
+| Herman Melville (1929) |  | `mumford-herman-melville` | have (PG 78016) |
 
 ## Havelock Ellis (psychology and culture)
 
