@@ -6815,6 +6815,25 @@ Slugs `saint-*`. Jesuit: the Knowledge and Love of Jesus Christ and other works 
 | Knowledge and Love vol. II (1875); other Spiritual Man and Union copies | alternate | not shelved |
 | Thompson's Life of de Renty and Nobility at the Cross: other hands | excluded | |
 | The Secret of Peace (1961) and Trustful Surrender (modern) | excluded | |
+
+## Hermann Olshausen (round 30, my pick, 2026-10-18)
+
+Slugs `olshausen-*`. Biblical Commentary on the New Testament, the volumes he wrote, in Clark's English edition.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Commentary on the Gospels, vol. I, tr. Sergius Loewe (Edinburgh: T. & T. Clark, MDCCCXLVII) | have-ocr | IA `biblicalcommenta01olsh` |
+| Biblical Commentary on the Gospels, vol. II, tr. Thomas Brown (Edinburgh: T. & T. Clark, MDCCCXLVIII) | have-ocr | IA `biblicalcommenta02olsh` |
+| Biblical Commentary on the Gospels, vol. III, third edition (Edinburgh: T. & T. Clark, MDCCCLX) | have-ocr | IA `biblicalcommenta03olshuoft` |
+| Biblical Commentary on the Gospels and the Acts, vol. IV, tr. John Gill, Richard Garvey and William Lindsay (Edinburgh: T. & T. Clark, MDCCCL) | have-ocr | IA `biblicalcommenta04olsh` |
+| Biblical Commentary on St. Paul's Epistle to the Romans (Edinburgh: T. & T. Clark, MDCCCXLIX) | have-ocr | IA `biblicalcomment00olshgoog` |
+| Biblical Commentary on St. Paul's First and Second Epistles to the Corinthians, tr. John Edmund Cox (Edinburgh: T. & T. Clark, MDCCCLI) | have-ocr | IA `biblicalcommenta00olshrich` |
+| Biblical Commentary on St. Paul's Epistles to the Galatians, Ephesians, Colossians and Thessalonians, by a clergyman of the Church of England (Edinburgh: T. & T. Clark, MDCCCLI) | have-ocr | IA `biblicalcomment02olshgoog` |
+| Proof of the Genuineness of the Writings of the New Testament, tr. David Fosdick, Jr. (Andover: Gould & Newman, 1838) | have-ocr | IA `proofofgenuinene00olsh` |
+| A. C. Kendrick's American edition (6 vols, New York: Sheldon, Blakeman, 1857-1858), vols V-VI with Ebrard and Wiesinger | alternate | not shelved |
+| Other Clark copies and the 1854 Romans | alternate | not shelved |
+| Modern reprints | excluded | |
+| Wiesinger's and Ebrard's volumes (their own shelves) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

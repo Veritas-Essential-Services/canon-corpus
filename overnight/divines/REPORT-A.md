@@ -1420,3 +1420,6 @@
 
 ## 2026-10-17 20:26 CDT — jean-baptiste-saint-jure done
 - `pipeline/jean-baptiste-saint-jure_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — hermann-olshausen done
+- `pipeline/hermann-olshausen_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
