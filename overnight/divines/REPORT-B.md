@@ -1003,3 +1003,11 @@
 - Maine: Village-Communities, Early History of Institutions, Popular Government
 - John Grote: Utilitarian Philosophy (1870), Moral Ideals (1876); Stirling: Text-Book to Kant (1881)
 - Huxley: Method and Results, Darwiniana
+
+## 2026-10-17 19:12 CDT — Round al: wishlist fill, fifth batch
+- Huxley: Man's Place in Nature, Collected Essays VII (1895)
+- Herder: Outlines, tr. T. Churchill (London: Johnson, 1800), legible title page; replaces the hold
+- Morris: Hegel's Philosophy of the State and of History (Griggs, 1887)
+- Tarde: Social Laws, tr. Howard C. Warren (1899)
+- Hocking: Man and the State (Yale, 1926)
+- Held: Dewey's Public and its Problems (Swallow reprints only); Speculum Mentis (1946 reprint only)
