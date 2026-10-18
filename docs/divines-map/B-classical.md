@@ -7542,6 +7542,8 @@ Shelf: `pipeline/edward-bernays_shelf.json`. Two books, 1923-1928.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Crystallizing Public Opinion (1923) |  | `bernays-crystallizing-public-opinion` | have (PG 61364) |
+| Propaganda (1928) |  | `bernays-propaganda` | have (PG 78634) |
 
 ## Sir James Steuart (political oeconomy)
 

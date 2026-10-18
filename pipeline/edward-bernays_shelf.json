@@ -1,0 +1,45 @@
+{
+ "_about": "Edward L. Bernays (1891-1995), American theorist of public relations. Gutenberg: Crystallizing Public Opinion (1923); Propaganda (1928). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Edward L. Bernays",
+ "_name_words": [
+  "edward",
+  "louis",
+  "bernays"
+ ],
+ "_surname": [
+  "bernays"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bernays-crystallizing-public-opinion": [
+   61364,
+   "Crystallizing Public Opinion (1923)"
+  ],
+  "bernays-propaganda": [
+   78634,
+   "Propaganda (1928)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bernays-crystallizing-public-opinion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bernays",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bernays-propaganda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bernays",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
