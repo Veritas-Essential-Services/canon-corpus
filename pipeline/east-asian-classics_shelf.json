@@ -1,22 +1,26 @@
 {
- "_about": "SHELF of Chinese, Tibetan and Japanese classics in English before 1931 that no other shelf holds: the Chinese Buddhist pilgrims to India (Beal's Si-yu-ki of Xuanzang and Life of Hiuen-Tsiang, Takakusu's I-tsing, H. A. Giles's Fa-hsien), Rockhill's Life of the Buddha from Tibetan works, and Japan's two founding chronicles (Chamberlain's Kojiki, Aston's Nihongi). Legge's Fa-hien is on the legge shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 67); Adam may veto. No uids minted.",
+ "_about": "SHELF of Chinese, Tibetan and Japanese classics in English before 1931 that no other shelf holds: the Chinese Buddhist pilgrims to India (Beal's Si-yu-ki of Xuanzang and Life of Hiuen-Tsiang, Takakusu's I-tsing, H. A. Giles's Fa-hsien), Rockhill's Life of the Buddha from Tibetan works and his Udanavarga (the Tibetan Dhammapada), Dawa-Samdup and Evans-Wentz's Tibetan Book of the Dead (1927), and Japan's two founding chronicles (Chamberlain's Kojiki, Aston's Nihongi). Legge's Fa-hien is on the legge shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 67); Adam may veto. No uids minted.",
  "_name_words": [
   "aston",
   "b. h. chamberlain",
   "basil hall chamberlain",
   "beal",
   "chamberlain",
+  "dawa-samdup",
+  "evans-wentz",
   "giles",
   "h. a. giles",
   "herbert a. giles",
   "herbert allen giles",
   "j. takakusu",
   "junjiro takakusu",
+  "kazi dawa-samdup",
   "rockhill",
   "samuel beal",
   "takakusu",
   "w. g. aston",
   "w. woodville rockhill",
+  "w. y. evans-wentz",
   "william george aston",
   "william woodville rockhill"
  ],
@@ -27,17 +31,21 @@
   "basil hall chamberlain",
   "beal",
   "chamberlain",
+  "dawa-samdup",
+  "evans-wentz",
   "giles",
   "h. a. giles",
   "herbert a. giles",
   "herbert allen giles",
   "j. takakusu",
   "junjiro takakusu",
+  "kazi dawa-samdup",
   "rockhill",
   "samuel beal",
   "takakusu",
   "w. g. aston",
   "w. woodville rockhill",
+  "w. y. evans-wentz",
   "william george aston",
   "william woodville rockhill"
  ],
@@ -84,6 +92,17 @@
    "aston",
    "w. g. aston",
    "william george aston"
+  ],
+  "eac-udanavarga": [
+   "rockhill",
+   "w. woodville rockhill",
+   "william woodville rockhill"
+  ],
+  "eac-tibetan-book-of-the-dead": [
+   "evans-wentz",
+   "w. y. evans-wentz",
+   "dawa-samdup",
+   "kazi dawa-samdup"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -127,6 +146,14 @@
   "eac-nihongi-2": [
    "nihongi2asto",
    "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. II (1896)"
+  ],
+  "eac-udanavarga": [
+   "udnavargacolle00bkah",
+   "Udanavarga: a Collection of Verses from the Buddhist Canon (1883)"
+  ],
+  "eac-tibetan-book-of-the-dead": [
+   "tibetanbookofdea0000unse_w2j5",
+   "The Tibetan Book of the Dead, or the After-Death Experiences on the Bardo Plane, according to Lama Kazi Dawa-Samdup's English Rendering (1927)"
   ]
  },
  "titles": {
@@ -203,17 +230,36 @@
    "translated": 1896,
    "translator": "W. G. Aston",
    "scan_edition": "Kegan Paul, Trench, Trübner for the Japan Society, London 1896"
+  },
+  "east-asian-classics-udanavarga": {
+   "source": "eac-udanavarga",
+   "of": "Dharmatrata, the Udanavarga (the Tibetan Dhammapada, from the Kanjur)",
+   "work": "Udanavarga: a Collection of Verses from the Buddhist Canon",
+   "translated": 1883,
+   "translator": "W. Woodville Rockhill",
+   "scan_edition": "Trübner & Co., Trübner's Oriental Series, London 1883; archive.org scan"
+  },
+  "east-asian-classics-tibetan-book-of-the-dead": {
+   "source": "eac-tibetan-book-of-the-dead",
+   "of": "The Bardo Thodol (Karma Lingpa's terma)",
+   "work": "The Tibetan Book of the Dead, or the After-Death Experiences on the Bardo Plane, according to Lama Kazi Dawa-Samdup's English Rendering",
+   "translated": 1927,
+   "translator": "Lama Kazi Dawa-Samdup, edited by W. Y. Evans-Wentz",
+   "scan_edition": "Oxford University Press, London 1927, first edition (preface dated Easter 1927; no Jung commentary, which came with a later edition); archive.org scan digitised 2022",
+   "note": "Dawa-Samdup made the translation and had died before it was published (Evans-Wentz's preface calls him 'the deceased translator'); Evans-Wentz edited and annotated it."
   }
  },
  "_pending": {},
  "_excluded": {
   "legge-fa-hien": "Legge's Record of Buddhistic Kingdoms (1886, PG 2124) is already on the legge shelf.",
-  "later-reprints": "Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used."
+  "later-reprints": "Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used.",
+  "milarepa-1928": "Evans-Wentz's Tibet's Great Yogi Milarepa (1928): the only open scan (tibetsgreatyogim0000wyev) is a 1971 reprint of the 1951 second edition. Not used.",
+  "bardo-thodol-upload": "the-tibetan-book-of-the-dead_202401 is a private upload of the same 1927 book; the Internet Archive's own scan was used."
  },
  "_checks": {
   "eac-si-yu-ki-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "beal",
    "identity": "ok",
@@ -224,7 +270,7 @@
   },
   "eac-si-yu-ki-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "beal",
    "identity": "ok",
@@ -235,7 +281,7 @@
   },
   "eac-life-of-hiuen-tsiang": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "beal",
    "identity": "ok",
@@ -246,7 +292,7 @@
   },
   "eac-i-tsing": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "takakusu",
    "identity": "ok",
@@ -257,7 +303,7 @@
   },
   "eac-fa-hsien-giles": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "giles",
    "identity": "ok",
@@ -268,7 +314,7 @@
   },
   "eac-life-of-the-buddha-tibetan": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "rockhill",
    "identity": "ok",
@@ -279,7 +325,7 @@
   },
   "eac-kojiki": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "chamberlain",
    "identity": "ok",
@@ -290,7 +336,7 @@
   },
   "eac-nihongi-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "aston",
    "identity": "ok",
@@ -301,13 +347,35 @@
   },
   "eac-nihongi-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "aston",
    "identity": "ok",
    "ia_rights": "ok: published 1896",
    "ia_date": "1896",
    "ia_possible_copyright_status": "Public domain. The Library considers that this work is no longer under copyright protection",
+   "ia_lending": null
+  },
+  "eac-udanavarga": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rockhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eac-tibetan-book-of-the-dead": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evans-wentz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -371,7 +439,8 @@
    ],
    "post_1930_years_in_front_15k": [
     1941
-   ]
+   ],
+   "post_1930_examined": "Examined: 'MARCH 15, 1941' is a Harvard College Library accession stamp (from the estate of C. R. Lanman), not the printing. Imprint: Trübner, London 1884."
   },
   "eac-kojiki": {
    "ia": "transactionsasi27japagoog",
@@ -396,6 +465,24 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [
     1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-udanavarga": {
+   "ia": "udnavargacolle00bkah",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-tibetan-book-of-the-dead": {
+   "ia": "tibetanbookofdea0000unse_w2j5",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1907,
+    1919,
+    1927
    ],
    "post_1930_years_in_front_15k": []
   }

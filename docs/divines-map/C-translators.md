@@ -6388,10 +6388,10 @@ Round 66 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | pali-volumes: Warren (HOS 3) and Burlingame (HOS 28-30) are on pali-buddhist-translations. | — | — | excluded | — |
 | — | — | motilal-reprints: Motilal Banarsidass reprints of HOS volumes (in.ernet.dli.2015.263106, in.ernet.dli.2015.263108, dli.ernet.233919): 1960s-70s reprints, not used. | — | — | excluded | — |
 
-## Shelf: Chinese, Tibetan and Japanese classics in English before 1931: Beal's Si-yu-ki and Life of Hiuen-Tsiang, Takakusu's I-tsing, Giles's Fa-hsien, Rockhill's Life of the Buddha from Tibetan works, Chamberlain's Kojiki, Aston's Nihongi
+## Shelf: Chinese, Tibetan and Japanese classics in English before 1931: Beal's Si-yu-ki and Life of Hiuen-Tsiang, Takakusu's I-tsing, Giles's Fa-hsien, Rockhill's Life of the Buddha and Udanavarga, Dawa-Samdup and Evans-Wentz's Tibetan Book of the Dead, Chamberlain's Kojiki, Aston's Nihongi
 
 Shelf: `pipeline/east-asian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py east-asian-classics` · titles `python3 pipeline/split_shelf_titles.py east-asian-classics`.
-Round 67 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 67 (2026-10-17), vetoable. Round 82 (2026-10-17), vetoable: two Tibetan titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6404,8 +6404,12 @@ Round 67 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `east-asian-classics-kojiki` | The Kojiki (Records of Ancient Matters, 712) | Ko-ji-ki, or Records of Ancient Matters | Basil Hall Chamberlain | 1882 | have-raw | IA `transactionsasi27japagoog` |
 | `east-asian-classics-nihongi-1` | The Nihon shoki (Chronicles of Japan, 720) | Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. I | W. G. Aston | 1896 | have-raw | IA `nihongi1asto` |
 | `east-asian-classics-nihongi-2` | The Nihon shoki (Chronicles of Japan, 720) | Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. II | W. G. Aston | 1896 | have-raw | IA `nihongi2asto` |
+| `east-asian-classics-udanavarga` | Dharmatrata, the Udanavarga (the Tibetan Dhammapada, from the Kanjur) | Udanavarga: a Collection of Verses from the Buddhist Canon | W. Woodville Rockhill | 1883 | have-raw | IA `udnavargacolle00bkah` |
+| `east-asian-classics-tibetan-book-of-the-dead` | The Bardo Thodol (Karma Lingpa's terma) | The Tibetan Book of the Dead, or the After-Death Experiences on the Bardo Plane, according to Lama Kazi Dawa-Samdup's English Rendering | Lama Kazi Dawa-Samdup, edited by W. Y. Evans-Wentz | 1927 | have-raw | IA `tibetanbookofdea0000unse_w2j5` |
 | — | — | legge-fa-hien: Legge's Record of Buddhistic Kingdoms (1886, PG 2124) is already on the legge shelf. | — | — | excluded | — |
 | — | — | later-reprints: Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used. | — | — | excluded | — |
+| — | — | milarepa-1928: Evans-Wentz's Tibet's Great Yogi Milarepa (1928): the only open scan (tibetsgreatyogim0000wyev) is a 1971 reprint of the 1951 second edition. Not used. | — | — | excluded | — |
+| — | — | bardo-thodol-upload: the-tibetan-book-of-the-dead_202401 is a private upload of the same 1927 book; the Internet Archive's own scan was used. | — | — | excluded | — |
 
 ## Shelf: Persian, Tamil and Sanskrit classics in English before 1931: the Warners' complete verse Shahnama of Firdausi (9 vols), G. U. Pope's Kural, Naladiyar and Tiruvacagam, H. H. Wilson's Vishnu Purana
 
