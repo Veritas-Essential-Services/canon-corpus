@@ -7989,6 +7989,10 @@ Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Principles of Geology, 9th edition |  | `lyell-principles-of-geology-9th-ed` | have (PG 33224) |
+| A Manual of Elementary Geology |  | `lyell-manual-of-elementary-geology` | have (PG 34350) |
+| The Antiquity of Man |  | `lyell-antiquity-of-man` | have (PG 6335) |
+| The Student's Elements of Geology |  | `lyell-students-elements-of-geology` | have (PG 3772) |
 
 Pending (wishlist): Principles of Geology, 1st edition (1830-33).
 
