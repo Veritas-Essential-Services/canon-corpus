@@ -1,0 +1,47 @@
+{
+ "_about": "Public-domain Luis de León (1527-1591, Augustinian poet and scholar) in English for the Word Hoard: Poems from the Spanish of Fra Luis Ponce de Leon, translated by Henry Phillips Jr. (Philadelphia, privately printed, 1883), from an Internet Archive scan. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "leon"
+ ],
+ "_surname": [
+  "luis de leon",
+  "ponce de leon",
+  "leon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "luis-de-leon-poems-phillips": [
+   "poemsfromspanish00lenl",
+   "Poems from the Spanish of Fra Luis Ponce de Leon, tr. Henry Phillips Jr. (Philadelphia: printed for private distribution, 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "luis-de-leon-late": "The Names of Christ (1955) and The Perfect Wife (1940s)",
+  "luis-de-leon-about": "Aubrey Bell's and Fitzmaurice-Kelly's studies"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "luis-de-leon-names": "The Names of Christ and The Perfect Wife in English before 1930: not found"
+ },
+ "_translators": {
+  "luis-de-leon-poems-phillips": "phillips"
+ },
+ "_checks": {
+  "luis-de-leon-poems-phillips": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "luis de leon",
+   "translator_claimed": "phillips",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

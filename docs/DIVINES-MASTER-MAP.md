@@ -6669,6 +6669,16 @@ Slugs `alcantara-*`. Franciscan reformer: his treatise on prayer in English.
 | The 1632 Golden Treatise (EEBO): title page illegible; dedication signed Giles Willoughby | alternate | not shelved |
 | Another 1844 copy | alternate | not shelved |
 | Hollings's edition in its 1940 printing; a 1949 Treatise | excluded | |
+
+## Luis de León (round 30, my pick, 2026-10-18)
+
+Slugs `luis-*`. Augustinian poet and theologian, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Poems from the Spanish of Fra Luis Ponce de Leon, tr. Henry Phillips Jr. (Philadelphia: printed for private distribution, 1883) | have-ocr | IA `poemsfromspanish00lenl` |
+| The Names of Christ (1955) and The Perfect Wife (1940s) | excluded | |
+| Aubrey Bell's and Fitzmaurice-Kelly's studies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
