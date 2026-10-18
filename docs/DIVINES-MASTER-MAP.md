@@ -31008,6 +31008,114 @@ Shelf: `pipeline/o-henry-works_shelf.json` (2026-10-17; added at the coordinator
 | held-elsewhere | excluded | PG 1595: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-13094 | excluded | PG 13094 Heart of the West [Annotated]: the Gutenberg header marks this annotated edition COPYRIGHTED; the rights gate refuses it. |
 
+## G. A. Henty
+
+Shelf: `pipeline/henty-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales for boys; completes the author beside the reading-list shelf and the henty-church acquisition. Every English text under the name at Gutenberg that no other shelf holds (97 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| St. George for England | have | PG 3429, `henty-st-george-for-england` (1117 units) |
+| Won By the Sword : a tale of the Thirty Years' War | have | PG 4931, `henty-won-by-the-sword` (1856 units) |
+| A Knight of the White Cross: A Tale of the Siege of Rhodes | have | PG 4932, `henty-a-knight-of-the-white-cross` (1694 units) |
+| The Lion of the North: A Tale of the Times of Gustavus Adolphus | have | PG 5075, `henty-lion-of-the-north` (1454 units) |
+| The Young Carthaginian: A Story of The Times of Hannibal | have | PG 5128, `henty-young-carthaginian` (1564 units) |
+| On the Pampas; Or, The Young Settlers | have | PG 6472, `henty-on-the-pampas` (1300 units) |
+| By Pike and Dyke: a Tale of the Rise of the Dutch Republic | have | PG 6952, `henty-by-pike-and-dyke` (1671 units) |
+| By England's Aid; or, the Freeing of the Netherlands (1585-1604) | have | PG 6953, `henty-by-englands-aid` (1588 units) |
+| Bonnie Prince Charlie : a Tale of Fontenoy and Culloden | have | PG 7006, `henty-bonnie-prince-charlie` (1729 units) |
+| Beric the Briton : a Story of the Roman Invasion | have | PG 7037, `henty-beric-the-briton` (1822 units) |
+| At Agincourt | have | PG 7060, `henty-at-agincourt` (1523 units) |
+| A March on London: Being a Story of Wat Tyler's Insurrection | have | PG 7061, `henty-a-march-on-london` (1676 units) |
+| The Treasure of the Incas: A Story of Adventure in Peru | have | PG 7070, `henty-treasure-of-the-incas` (2274 units) |
+| In Times of Peril: A Tale of India | have | PG 7071, `henty-in-times-of-peril` (1612 units) |
+| Rujub, the Juggler | have | PG 7229, `henty-rujub-the-juggler` (2892 units) |
+| The Bravest of the Brave — or, with Peterborough in Spain | have | PG 7318, `henty-bravest-of-the-brave` (1192 units) |
+| With Buller in Natal, Or, a Born Leader | have | PG 7334, `henty-with-buller-in-natal` (1355 units) |
+| Among Malay Pirates : a Tale of Adventure and Peril | have | PG 7346, `henty-among-malay-pirates` (1018 units) |
+| When London Burned : a Story of Restoration Times and the Great Fire | have | PG 7831, `henty-when-london-burned` (2234 units) |
+| Tales of Daring and Danger | have | PG 7870, `henty-tales-of-daring-and-danger` (1100 units) |
+| Colonel Thorndyke's Secret | have | PG 8155, `henty-colonel-thorndykes-secret` (2093 units) |
+| By Sheer Pluck: A Tale of the Ashanti War | have | PG 8576, `henty-by-sheer-pluck` (1263 units) |
+| With Moore at Corunna | have | PG 8651, `henty-with-moore-at-corunna` (2115 units) |
+| Through the Fray: A Tale of the Luddite Riots | have | PG 8732, `henty-through-the-fray` (1815 units) |
+| Wulf the Saxon: A Story of the Norman Conquest | have | PG 8745, `henty-wulf-the-saxon` (1735 units) |
+| True to the Old Flag: A Tale of the American War of Independence | have | PG 8859, `henty-true-to-the-old-flag` (1621 units) |
+| The Young Buglers | have | PG 9613, `henty-young-buglers` (1652 units) |
+| Jack Archer: A Tale of the Crimea | have | PG 11058, `henty-jack-archer` (1424 units) |
+| Friends, though divided: A Tale of the Civil War | have | PG 11565, `henty-friends-though-divided` (1239 units) |
+| The Golden Canyon | have | PG 11609, `henty-golden-canyon` (1276 units) |
+| The Boy Knight: A Tale of the Crusades | have | PG 13354, `henty-boy-knight` (1339 units) |
+| One of the 28th: A Tale of Waterloo | have | PG 14313, `henty-one-of-the-28th` (1904 units) |
+| The Cornet of Horse: A Tale of Marlborough's Wars | have | PG 17403, `henty-cornet-of-horse` (2090 units) |
+| The Queen's Cup | have | PG 17436, `henty-queens-cup` (2323 units) |
+| The Lion of Saint Mark: A Story of Venice in the Fourteenth Century | have | PG 17546, `henty-lion-of-saint-mark` (2265 units) |
+| With Wolfe in Canada: The Winning of a Continent | have | PG 17766, `henty-with-wolfe-in-canada` (2142 units) |
+| In the Irish Brigade: A Tale of War in Flanders and Spain | have | PG 18349, `henty-in-the-irish-brigade` (2350 units) |
+| Orange and Green: A Tale of the Boyne and Limerick | have | PG 18356, `henty-orange-and-green` (1575 units) |
+| A Jacobite Exile Being the Adventures of a Young Englishman in the Service of Charles the Twelfth of Sweden | have | PG 18357, `henty-a-jacobite-exile-being-the-adventures-of-a-young-engli` (2075 units) |
+| The Tiger of Mysore: A Story of the War with Tippoo Saib | have | PG 18813, `henty-tiger-of-mysore` (2580 units) |
+| With Clive in India; Or, The Beginnings of an Empire | have | PG 18833, `henty-with-clive-in-india` (1938 units) |
+| With Kitchener in the Soudan: A Story of Atbara and Omdurman | have | PG 18868, `henty-with-kitchener-in-the-soudan` (2519 units) |
+| Both Sides the Border: A Tale of Hotspur and Glendower | have | PG 19070, `henty-both-sides-the-border` (2414 units) |
+| With Lee in Virginia: A Story of the American Civil War | have | PG 19154, `henty-with-lee-in-virginia` (2033 units) |
+| Under Drake's Flag: A Tale of the Spanish Main | have | PG 19206, `henty-under-drakes-flag` (1622 units) |
+| With Frederick the Great: A Story of the Seven Years' War | have | PG 19714, `henty-with-frederick-the-great` (2401 units) |
+| A Final Reckoning: A Tale of Bush Life in Australia | have | PG 20031, `henty-a-final-reckoning` (2261 units) |
+| No Surrender! A Tale of the Rising in La Vendee | have | PG 20091, `henty-no-surrender-a-tale-of-the-rising-in-la-vendee` (1992 units) |
+| Saint Bartholomew's Eve: A Tale of the Huguenot Wars | have | PG 20092, `henty-saint-bartholomews-eve` (2786 units) |
+| Under Wellington's Command: A Tale of the Peninsular War | have | PG 20207, `henty-under-wellingtons-command` (2287 units) |
+| Through Three Campaigns: A Story of Chitral, Tirah and Ashanti | have | PG 20641, `henty-through-three-campaigns` (2168 units) |
+| At the Point of the Bayonet: A Tale of the Mahratta War | have | PG 20729, `henty-at-the-point-of-the-bayonet` (2636 units) |
+| On the Irrawaddy: A Story of the First Burmese War | have | PG 21242, `henty-on-the-irrawaddy` (1753 units) |
+| For the Temple: A Tale of the Fall of Jerusalem | have | PG 21614, `henty-for-the-temple` (1854 units) |
+| Held Fast For England: A Tale of the Siege of Gibraltar (1779-83) | have | PG 21788, `henty-held-fast-for-england` (2739 units) |
+| For Name and Fame; Or, Through Afghan Passes | have | PG 21979, `henty-for-name-and-fame` (1467 units) |
+| The Dash for Khartoum: A Tale of the Nile Expedition | have | PG 21986, `henty-dash-for-khartoum` (2726 units) |
+| The Young Franc Tireurs, and Their Adventures in the Franco-Prussian War | have | PG 22060, `henty-young-franc-tireurs-and-their-adventures-in-the-franco` (2390 units) |
+| At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt | have | PG 22224, `henty-at-aboukir-and-acre` (1626 units) |
+| A Girl of the Commune | have | PG 24244, `henty-a-girl-of-the-commune` (2110 units) |
+| With Cochrane the Dauntless | have | PG 25993, `henty-with-cochrane-the-dauntless` (1687 units) |
+| Condemned as a Nihilist: A Story of Escape from Siberia | have | PG 26090, `henty-condemned-as-a-nihilist` (2355 units) |
+| A Chapter of Adventures | have | PG 28190, `henty-a-chapter-of-adventures` (1007 units) |
+| By Conduct and Courage: A Story of the Days of Nelson | have | PG 28357, `henty-by-conduct-and-courage` (2615 units) |
+| Captain Bayley's Heir: A Tale of the Gold Fields of California | have | PG 28857, `henty-captain-bayleys-heir` (2290 units) |
+| Out on the Pampas; Or, The Young Settlers | have | PG 30143, `henty-out-on-the-pampas` (1247 units) |
+| Through Russian Snows: A Story of Napoleon's Retreat from Moscow | have | PG 30457, `henty-through-russian-snows` (1466 units) |
+| Facing Death; Or, The Hero of the Vaughan Pit: A Tale of the Coal Mines | have | PG 31128, `henty-facing-death` (1467 units) |
+| The Young Colonists: A Story of the Zulu and Boer Wars | have | PG 32934, `henty-young-colonists` (1092 units) |
+| Maori and Settler: A Story of The New Zealand War | have | PG 33619, `henty-maori-and-settler` (1443 units) |
+| Sturdy and Strong; Or, How George Andrews Made His Way | have | PG 33939, `henty-sturdy-and-strong` (1599 units) |
+| St. George for England: A Tale of Cressy and Poitiers | have | PG 34886, `henty-st-george-for-england-34886` (1236 units) |
+| A Search For A Secret: A Novel. Vol. 1 | have | PG 35012, `henty-a-search-for-a-secret` (676 units) |
+| A Search For A Secret: A Novel. Vol. 2 | have | PG 35265, `henty-a-search-for-a-secret-35265` (751 units) |
+| A Search For A Secret: A Novel. Vol. 3 | have | PG 35266, `henty-a-search-for-a-secret-35266` (698 units) |
+| Dorothy's Double. Volume 1 (of 3) | have | PG 36103, `henty-dorothys-double-volume-1-of-3` (825 units) |
+| Dorothy's Double. Volume 2 (of 3) | have | PG 36236, `henty-dorothys-double-volume-2-of-3` (834 units) |
+| Dorothy's Double. Volume 3 (of 3) | have | PG 36359, `henty-dorothys-double-volume-3-of-3` (654 units) |
+| The Lost Heir | have | PG 36975, `henty-lost-heir` (1983 units) |
+| A Roving Commission; Or, Through the Black Insurrection at Hayti | have | PG 38764, `henty-a-roving-commission` (2458 units) |
+| The Curse of Carne's Hold: A Tale of Adventure | have | PG 39374, `henty-curse-of-carnes-hold` (2066 units) |
+| The March to Magdala | have | PG 39470, `henty-march-to-magdala` (483 units) |
+| In the Hands of the Malays, and Other Stories | have | PG 39616, `henty-in-the-hands-of-the-malays-and-other-stories` (482 units) |
+| In Greek Waters: A Story of the Grecian War of Independence | have | PG 42276, `henty-in-greek-waters` (2314 units) |
+| In the Hands of the Cave-Dwellers | have | PG 43067, `henty-in-the-hands-of-the-cave-dwellers` (574 units) |
+| Out with Garibaldi: A story of the liberation of Italy | have | PG 45573, `henty-out-with-garibaldi` (1289 units) |
+| With the Allies to Pekin: A Tale of the Relief of the Legations | have | PG 47008, `henty-with-the-allies-to-pekin` (1685 units) |
+| A Soldier's Daughter, and Other Stories | have | PG 48297, `henty-a-soldiers-daughter-and-other-stories` (632 units) |
+| Tales from the Works of G. A. Henty | have | PG 53700, `henty-tales-from-the-works-of-g-a-henty` (928 units) |
+| Through the Sikh War: A Tale of the Conquest of the Punjaub | have | PG 53717, `henty-through-the-sikh-war` (1686 units) |
+| With the British Legion: A Story of the Carlist Wars | have | PG 53859, `henty-with-the-british-legion` (2075 units) |
+| All But Lost: A Novel. Vol. 1 of 3 | have | PG 54091, `henty-all-but-lost` (817 units) |
+| To Herat and Cabul: A Story of the First Afghan War | have | PG 55779, `henty-to-herat-and-cabul` (1900 units) |
+| With Roberts to Pretoria: A Tale of The South African War | have | PG 56143, `henty-with-roberts-to-pretoria` (2622 units) |
+| All But Lost: A Novel. Vol. 2 of 3 | have | PG 56255, `henty-all-but-lost-56255` (943 units) |
+| Those Other Animals | have | PG 56767, `henty-those-other-animals` (506 units) |
+| All But Lost: A Novel. Vol. 3 of 3 | have | PG 59529, `henty-all-but-lost-59529` (1253 units) |
+| pg-59360 | excluded | PG 59360: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 8679: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 2805, 3674, 3785, 4792, 8670, 12308, 19398, 29756, 45617: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-77688 | excluded | PG 77688 Battles of the Nineteenth Century: a many-author work (Forbes, Griffiths, Henty and others). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
