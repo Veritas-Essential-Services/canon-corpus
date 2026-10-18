@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:04 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:05 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -881,6 +881,7 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | Francisco Arias | francisco-arias_shelf.json | none | 5 (The Litle Memorial, concerning the good and fruitfull use of the Sacraments (Roan; the title page OCR reads 1652, catalogued 1602); A Treatise of Patience, from the second part of the Imitation of Christ (catalogued 1630); A Treatise of Benignity, from the second part of the Imitation of Christ (with permission of Superiours, 1630); The Charity of Jesus Christ (London: St Joseph's Library; Burns and Oates, 1880); The Virtues of Mary, Mother of God, preface by George Porter (London: Burns and Oates; title page undated, catalogued 1890)) | none |  |
 | Jean-Joseph Surin | jean-joseph-surin_shelf.json | none | 2 (The Foundations of the Spiritual Life, drawn from the book of the Imitation of Jesus Christ, translated from the French and adapted to the use of the English Church (London: James Burns, 1844); Spiritual Letters of Father Surin, S.J., tr. Sister M. Christopher, O.S.F., preface by Francis Goldie (London and Leamington: Art and Book Company; New York: Benziger; title page undated, catalogued 1892)) | none |  |
 | Jean-Baptiste de La Salle | jean-baptiste-de-la-salle_shelf.json | none | 2 (A New Treatise on the Duty of a Christian towards God, an enlarged and improved version, tr. Mrs. J. Sadlier, first American from the eighteenth Paris edition (New York and Montreal: D. & J. Sadlier; copyright 1850); A New Treatise of the Duties of a Christian towards God, translated from the French by the Christian Brothers (West Chester, N.Y.: New York Catholic Protectory, 1872)) | none | Christian Politeness (1904, by M. M. Gerend); Extracts from his spiritual writings (a compilation) |
+| Henri-Marie Boudon | henri-marie-boudon_shelf.json | none | 5 (Devotion to the Holy Angels, translated from the French of the Venerable H. M. Boudon (Dublin: C. M. Warren, 1857); The Hidden Life of Jesus: a lesson and model to Christians, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869); Devotion to the Nine Choirs of Holy Angels, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869); The Book of Perpetual Adoration; or, The Love of Jesus in the Most Holy Sacrament, edited by J. Redman (London: R. Washbourne, 1873); The Holy Ways of the Cross, tr. Edward Healy Thompson (London: Burns, Oates & Co., 1875)) | none | The Wayes of the Crosse (catalogued 1676: the title page names no author); Lives of Boudon by others |
 
 ## Paused 2026-10-10 15:12 CDT
 

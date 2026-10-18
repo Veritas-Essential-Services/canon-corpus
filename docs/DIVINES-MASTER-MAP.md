@@ -9182,6 +9182,20 @@ Slugs `lasalle-*`. Built from title pages read for round 37.
 | A New Treatise of the Duties of a Christian towards God, translated from the French by the Christian Brothers (West Chester, N.Y.: New York Catholic Protectory, 1872) | have-ocr | IA `newtreatiseofdut00lasa` |
 | The second American Sadlier edition (anewtreatiseonth00lasauoft); the Montreal Christian Brothers edition (copyright 1869); Kenedy 1910 (text would not load) | alternate | not shelved |
 | Christian Politeness (1904, by M. M. Gerend); Extracts from his spiritual writings (a compilation) | excluded | |
+
+## Henri-Marie Boudon (round 37, my pick, 2026-10-18)
+
+Slugs `boudon-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| Devotion to the Holy Angels, translated from the French of the Venerable H. M. Boudon (Dublin: C. M. Warren, 1857) | have-ocr | IA `DevotionToTheHolyAngels` |
+| The Hidden Life of Jesus: a lesson and model to Christians, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869) | have-ocr | IA `TheHiddenLifeOfJesus` |
+| Devotion to the Nine Choirs of Holy Angels, tr. Edward Healy Thompson (London: Burns, Oates & Co.; Dublin: Kelly, 1869) | have-ocr | IA `DevotionToThe9ChoirsOfHolyAngels` |
+| The Book of Perpetual Adoration; or, The Love of Jesus in the Most Holy Sacrament, edited by J. Redman (London: R. Washbourne, 1873) | have-ocr | IA `TheBookOfPerpetualAdoration` |
+| The Holy Ways of the Cross, tr. Edward Healy Thompson (London: Burns, Oates & Co., 1875) | have-ocr | IA `TheHolyWaysOfTheCross` |
+| The Glories of the Holy Angels (Philadelphia: McGrath, catalogued 1854); Google copies of each 1869-1875 book | alternate | not shelved |
+| The Wayes of the Crosse (catalogued 1676: the title page names no author); Lives of Boudon by others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
