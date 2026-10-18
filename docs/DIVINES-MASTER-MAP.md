@@ -37168,6 +37168,60 @@ Shelf: `pipeline/grace-livingston-hill_shelf.json` (2026-10-17; added at the coo
 | "A Daily Rate." | have | PG 78992, `glhill-a-daily-rate` (810 units) |
 | Tomorrow about this time | have | PG 79299, `glhill-tomorrow-about-this-time` (1969 units) |
 
+## Lucy Ellen Guernsey
+
+Shelf: `pipeline/lucy-ellen-guernsey_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (47 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Nelly | have | PG 71244, `leguernsey-nelly` (955 units) |
+| Christmas at Cedar Hill | have | PG 71698, `leguernsey-christmas-at-cedar-hill` (794 units) |
+| Percy's holidays | have | PG 71823, `leguernsey-percys-holidays` (305 units) |
+| The Fairchilds | have | PG 71876, `leguernsey-fairchilds` (1035 units) |
+| The red plant | have | PG 71950, `leguernsey-red-plant` (382 units) |
+| The dark night | have | PG 72021, `leguernsey-dark-night` (351 units) |
+| Lady Rosamond's book | have | PG 72426, `leguernsey-lady-rosamonds-book` (1503 units) |
+| Loveday's history | have | PG 72722, `leguernsey-lovedays-history` (2091 units) |
+| The foster-sisters | have | PG 72826, `leguernsey-foster-sisters` (2862 units) |
+| The hidden treasure | have | PG 73099, `leguernsey-hidden-treasure` (1742 units) |
+| The school-girls' treasury | have | PG 73286, `leguernsey-school-girls-treasury` (737 units) |
+| The Chevalier's daughter | have | PG 73365, `leguernsey-chevaliers-daughter` (2422 units) |
+| Guy Falconer | have | PG 74189, `leguernsey-guy-falconer` (1435 units) |
+| Straight forward; or, walking in the light | have | PG 74428, `leguernsey-straight-forward` (1186 units) |
+| The Christmas earnings | have | PG 74849, `leguernsey-christmas-earnings` (442 units) |
+| Lady Lucy's secret | have | PG 74876, `leguernsey-lady-lucys-secret` (558 units) |
+| No talent, and Phil's pansies | have | PG 74888, `leguernsey-no-talent-and-phils-pansies` (767 units) |
+| Binney the beaver, and other stories | have | PG 75101, `leguernsey-binney-the-beaver-and-other-stories` (276 units) |
+| Opposite neighbours | have | PG 75191, `leguernsey-opposite-neighbours` (1697 units) |
+| The heiress of McGregor | have | PG 75338, `leguernsey-heiress-of-mcgregor` (2341 units) |
+| Rhoda's education | have | PG 75471, `leguernsey-rhodas-education` (1612 units) |
+| The old Stanfield house | have | PG 75576, `leguernsey-old-stanfield-house` (2269 units) |
+| School-days in 1800 | have | PG 75733, `leguernsey-school-days-in-1800` (1482 units) |
+| The Widow Davis and the young milliners | have | PG 75954, `leguernsey-widow-davis-and-the-young-milliners` (387 units) |
+| Lolla | have | PG 75955, `leguernsey-lolla` (318 units) |
+| Abbey | have | PG 76232, `leguernsey-abbey` (353 units) |
+| Through unknown ways | have | PG 76453, `leguernsey-through-unknown-ways` (2314 units) |
+| Winifred | have | PG 76596, `leguernsey-winifred` (1237 units) |
+| On the mountain | have | PG 76760, `leguernsey-on-the-mountain` (1223 units) |
+| Lady Betty's governess | have | PG 76918, `leguernsey-lady-bettys-governess` (2112 units) |
+| The orphan nieces | have | PG 76970, `leguernsey-orphan-nieces` (2284 units) |
+| Sophie Kennedy's experience | have | PG 77161, `leguernsey-sophie-kennedys-experience` (1061 units) |
+| A Lent in earnest | have | PG 77163, `leguernsey-a-lent-in-earnest` (408 units) |
+| Kitty's Christmas tree | have | PG 77219, `leguernsey-kittys-christmas-tree` (436 units) |
+| Tabby's travels | have | PG 77220, `leguernsey-tabbys-travels` (692 units) |
+| The sign of the cross | have | PG 77348, `leguernsey-sign-of-the-cross` (1400 units) |
+| Ethel's trial | have | PG 77449, `leguernsey-ethels-trial` (1708 units) |
+| Upward and onward | have | PG 77450, `leguernsey-upward-and-onward` (925 units) |
+| The Cohansey tea-fight | have | PG 77716, `leguernsey-cohansey-tea-fight` (78 units) |
+| The mission-box | have | PG 77799, `leguernsey-mission-box` (1256 units) |
+| The story of a Hessian | have | PG 77860, `leguernsey-story-of-a-hessian` (838 units) |
+| Homes made and marred | have | PG 77998, `leguernsey-homes-made-and-marred` (1398 units) |
+| Claribel | have | PG 78044, `leguernsey-claribel` (726 units) |
+| The blue socks | have | PG 78280, `leguernsey-blue-socks` (1001 units) |
+| Oldham | have | PG 79054, `leguernsey-oldham` (2618 units) |
+| Kitty Maynard | have | PG 79094, `leguernsey-kitty-maynard` (1194 units) |
+| Myra Sherwood's cross, and how she bore it | have | PG 79640, `leguernsey-myra-sherwoods-cross-and-how-she-bore-it` (1386 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

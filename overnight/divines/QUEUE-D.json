@@ -3581,6 +3581,14 @@
       "started": "2026-10-17T22:56:19-05:00",
       "finished": "2026-10-17T22:56:19-05:00",
       "notes": "grace-livingston-hill: new shelf, 25 Gutenberg books, 32,212 units, 243 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lucy-ellen-guernsey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Lucy Ellen Guernsey; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:56:20-05:00",
+      "finished": "2026-10-17T22:56:20-05:00",
+      "notes": "lucy-ellen-guernsey: new shelf, 47 Gutenberg books, 56,597 units, 93 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
