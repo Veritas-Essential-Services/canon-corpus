@@ -8022,6 +8022,10 @@ Shelf: `pipeline/mark-hopkins_shelf.json`. Four works, 1862-1873.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Connexion between Taste and Morals, two lectures |  | `hopkins-connexion-between-taste-and-morals` | have (PG 40845) |
+| Lectures on Moral Science (Gould and Lincoln, 1862) |  | `hopkins-lectures-on-moral-science-1862` | have-raw (IA `lecturesonmoral01hopkgoog`) |
+| The Law of Love and Love as a Law, 3rd ed. (Scribner, 1871) |  | `hopkins-law-of-love-1871` | have-raw (IA `lawloveandlovea00mccogoog`) |
+| An Outline Study of Man (Scribner, Armstrong, 1873) |  | `hopkins-outline-study-of-man-1873` | have-raw (IA `outlinestudyofma01hopk`) |
 
 ## William Mackintire Salter (ethical culture)
 

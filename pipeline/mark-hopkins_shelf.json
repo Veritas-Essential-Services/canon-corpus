@@ -1,0 +1,77 @@
+{
+ "_about": "Mark Hopkins (1802-1887), president of Williams College and American moral philosopher of the Scottish common-sense school. Raw IA OCR: Lectures on Moral Science, Lowell Institute (Boston: Gould and Lincoln, 1862); The Law of Love and Love as a Law, or Christian Ethics, 3rd edition (New York: Charles Scribner, 1871), the moral philosophy text that follows on from the Lectures; An Outline Study of Man, or the body and mind in one system (New York: Scribner, Armstrong, 1873). Project Gutenberg: The Connexion between Taste and Morals, two lectures (PG 40845). His Evidences of Christianity and sermons are theology and are left to that lane. His surname is shared with other shelves (evan-h-hopkins, ezekiel-hopkins, samuel-hopkins), so only the full name is used. US public domain. No uids minted.",
+ "_author": "Mark Hopkins",
+ "_name_words": [
+  "mark",
+  "hopkins"
+ ],
+ "_surname": [
+  "mark hopkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hopkins-connexion-between-taste-and-morals": [
+   40845,
+   "The Connexion between Taste and Morals, two lectures"
+  ]
+ },
+ "internet_archive": {
+  "hopkins-lectures-on-moral-science-1862": [
+   "lecturesonmoral01hopkgoog",
+   "Lectures on Moral Science (Gould and Lincoln, 1862)"
+  ],
+  "hopkins-law-of-love-1871": [
+   "lawloveandlovea00mccogoog",
+   "The Law of Love and Love as a Law, 3rd ed. (Scribner, 1871)"
+  ],
+  "hopkins-outline-study-of-man-1873": [
+   "outlinestudyofma01hopk",
+   "An Outline Study of Man (Scribner, Armstrong, 1873)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hopkins-connexion-between-taste-and-morals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hopkins-lectures-on-moral-science-1862": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hopkins-law-of-love-1871": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hopkins-outline-study-of-man-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
