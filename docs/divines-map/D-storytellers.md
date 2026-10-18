@@ -10970,6 +10970,45 @@ Shelf: `pipeline/grant-allen_shelf.json` (2026-10-17; added at the coordinator's
 | repeat-editions | excluded | PG 6492: second Gutenberg editions of titles already on the shelf. |
 | pg-41263 | excluded | PG 41263 The Mediterranean: a many-author book (Bonney, Allen, Griffiths and others). |
 
+## J. Sheridan Le Fanu
+
+Shelf: `pipeline/le-fanu_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (32 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Purcell Papers — Volume 1 | have | PG 509, `lefanu-purcell-papers-volume-1` (446 units) |
+| The Purcell Papers — Volume 3 | have | PG 511, `lefanu-purcell-papers-volume-3` (878 units) |
+| The Room in the Dragon Volant | have | PG 9502, `lefanu-room-in-the-dragon-volant` (1087 units) |
+| Wylder's Hand | have | PG 9983, `lefanu-wylders-hand` (3930 units) |
+| Carmilla | have | PG 10007, `lefanu-carmilla` (657 units) |
+| The Evil Guest | have | PG 10377, `lefanu-evil-guest` (847 units) |
+| Madam Crowl's Ghost and the Dead Sexton | have | PG 11610, `lefanu-madam-crowls-ghost-and-the-dead-sexton` (312 units) |
+| Green Tea;  Mr. Justice Harbottle | have | PG 11635, `lefanu-green-tea` (524 units) |
+| J. S. Le Fanu's Ghostly Tales, Volume 1 | have | PG 11699, `lefanu-j-s-le-fanus-ghostly-tales-volume-1` (210 units) |
+| J. S. Le Fanu's Ghostly Tales, Volume 2 | have | PG 11700, `lefanu-j-s-le-fanus-ghostly-tales-volume-2` (218 units) |
+| J. S. Le Fanu's Ghostly Tales, Volume 3 The Haunted Baronet (1871) | have | PG 11750, `lefanu-j-s-le-fanus-ghostly-tales-volume-3-the-haunted-baron` (1094 units) |
+| J. S. Le Fanu's Ghostly Tales, Volume 5 | have | PG 12592, `lefanu-j-s-le-fanus-ghostly-tales-volume-5` (545 units) |
+| J. S. Le Fanu's Ghostly Tales, Volume 4 | have | PG 12647, `lefanu-j-s-le-fanus-ghostly-tales-volume-4` (600 units) |
+| Two Ghostly Mysteries A Chapter in the History of a Tyrone Family; and the Murdered Cousin | have | PG 12828, `lefanu-two-ghostly-mysteries-a-chapter-in-the-history-of-a-t` (233 units) |
+| Uncle Silas: A Tale of Bartram-Haugh | have | PG 14851, `lefanu-uncle-silas` (4341 units) |
+| The House by the Church-Yard | have | PG 17769, `lefanu-house-by-the-church-yard` (4229 units) |
+| The Purcell Papers: Index and Contents of the Three Volumes | have | PG 25584, `lefanu-purcell-papers` (14 units) |
+| A Stable for Nightmares; or, Weird Tales (with Sir Charles L. Young) | have | PG 26451, `lefanu-a-stable-for-nightmares` (941 units) |
+| Willing to Die: A Novel | have | PG 34662, `lefanu-willing-to-die` (2768 units) |
+| The Tenants of Malory, Volume 1 | have | PG 35467, `lefanu-tenants-of-malory-volume-1` (1237 units) |
+| The Tenants of Malory, Volume 2 | have | PG 35468, `lefanu-tenants-of-malory-volume-2` (1361 units) |
+| The Tenants of Malory, Volume 3 | have | PG 35469, `lefanu-tenants-of-malory-volume-3` (1560 units) |
+| In a Glass Darkly, v. 1/3 | have | PG 37172, `lefanu-in-a-glass-darkly-v-1-3` (761 units) |
+| In a Glass Darkly, v. 2/3 | have | PG 37173, `lefanu-in-a-glass-darkly-v-2-3` (945 units) |
+| In a Glass Darkly, v. 3/3 | have | PG 37174, `lefanu-in-a-glass-darkly-v-3-3` (758 units) |
+| Checkmate | have | PG 38460, `lefanu-checkmate` (3901 units) |
+| The Cock and Anchor | have | PG 40126, `lefanu-cock-and-anchor` (2661 units) |
+| The Watcher, and other weird stories | have | PG 40510, `lefanu-watcher-and-other-weird-stories` (1077 units) |
+| Guy Deverell, v. 1 of 2 | have | PG 41228, `lefanu-guy-deverell-v-1-of-2` (2206 units) |
+| Guy Deverell, v. 2 of 2 | have | PG 41229, `lefanu-guy-deverell-v-2-of-2` (2184 units) |
+| The Wyvern mystery | have | PG 68569, `lefanu-wyvern-mystery` (3657 units) |
+| All in the dark | have | PG 75028, `lefanu-all-in-the-dark` (2501 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
