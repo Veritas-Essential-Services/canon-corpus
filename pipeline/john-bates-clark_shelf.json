@@ -1,5 +1,5 @@
 {
- "_about": "John Bates Clark (1847-1938), Columbia economist of marginal productivity: The Distribution of Wealth, a theory of wages, interest and profits (New York: Macmillan, 1899), raw IA OCR (Cornell), clean 0.94; Essentials of Economic Theory (New York: Macmillan, copyright 1907) and Social Justice without Socialism (Boston: Houghton Mifflin, April 1914), clean Gutenberg texts. US public domain (all published before 1931). No uids minted.",
+ "_about": "John Bates Clark (1847-1938), Columbia economist of marginal productivity: The Distribution of Wealth, a theory of wages, interest and profits (New York: Macmillan, 1899), raw IA OCR (Cornell), clean 0.94; Essentials of Economic Theory (New York: Macmillan, copyright 1907) and Social Justice without Socialism (Boston: Houghton Mifflin, April 1914), clean Gutenberg texts. US public domain (all published before 1931). Added in round 2026-10-17bl: The Philosophy of Wealth, economic principles newly formulated (Boston: Ginn, 1887; copyright 1885), raw IA OCR, clean 0.94. No uids minted.",
  "_author": "John Bates Clark",
  "_name_words": [
   "john",
@@ -24,6 +24,10 @@
   "clark-distribution-of-wealth-1899": [
    "cu31924002609927",
    "The Distribution of Wealth (Macmillan, 1899)"
+  ],
+  "clark-philosophy-of-wealth-1886": [
+   "philosophyofweal00claruoft",
+   "The Philosophy of Wealth (Ginn, 1887)"
   ]
  },
  "_excluded": {},
@@ -55,6 +59,17 @@
    "ia_rights": "ok: published 1899",
    "ia_date": "1899",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clark-philosophy-of-wealth-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

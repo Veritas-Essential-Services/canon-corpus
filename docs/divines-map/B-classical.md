@@ -5658,6 +5658,7 @@ Shelf: `pipeline/john-bates-clark_shelf.json`. The Distribution of Wealth (1899)
 | Essentials of Economic Theory (Macmillan, 1907) |  | `clark-essentials-economic-theory-1907` | have (PG 31159) |
 | Social Justice without Socialism (Houghton Mifflin, 1914) |  | `clark-social-justice-without-socialism-1914` | have (PG 29393) |
 | The Distribution of Wealth (Macmillan, 1899) |  | `clark-distribution-of-wealth-1899` | have-raw (IA `cu31924002609927`) |
+| The Philosophy of Wealth (Ginn, 1887) |  | `clark-philosophy-of-wealth-1886` | have-raw (IA `philosophyofweal00claruoft`) |
 
 ## Thorstein Veblen (political economy)
 
