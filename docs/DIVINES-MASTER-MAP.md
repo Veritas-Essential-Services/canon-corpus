@@ -29256,6 +29256,29 @@ Shelf: `pipeline/bulwer-lytton_shelf.json` (2026-10-17; added at the coordinator
 | pg-28905 | excluded | PG 28905: Gutenberg's linked index of Bulwer-Lytton's works, not a book. |
 | pg-61668 | excluded | PG 61668 Stories of Intellect: a many-author anthology (ed. Rossiter Johnson). |
 
+## Charles Reade
+
+Shelf: `pipeline/charles-reade_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cloister and the Hearth | have | PG 1366, `creade-cloister-and-the-hearth` (7199 units) |
+| A Simpleton | have | PG 2301, `creade-a-simpleton` (3785 units) |
+| White Lies | have | PG 2472, `creade-white-lies` (3603 units) |
+| Put Yourself in His Place | have | PG 2497, `creade-put-yourself-in-his-place` (6038 units) |
+| Hard Cash | have | PG 3067, `creade-hard-cash` (5654 units) |
+| A Woman-Hater | have | PG 3669, `creade-a-woman-hater` (4438 units) |
+| Peg Woffington | have | PG 3670, `creade-peg-woffington` (1623 units) |
+| Christie Johnstone: A Novel | have | PG 3671, `creade-christie-johnstone` (2091 units) |
+| Foul Play (with Dion Boucicault) | have | PG 3702, `creade-foul-play` (3992 units) |
+| It Is Never Too Late to Mend | have | PG 4606, `creade-it-is-never-too-late-to-mend` (7658 units) |
+| Love Me Little, Love Me Long | have | PG 4607, `creade-love-me-little-love-me-long` (3995 units) |
+| A Terrible Temptation: A Story of To-Day | have | PG 7895, `creade-a-terrible-temptation` (4491 units) |
+| A Perilous Secret | have | PG 12470, `creade-a-perilous-secret` (2848 units) |
+| The Cloister and the Hearth: A Tale of the Middle Ages | have | PG 38895, `creade-cloister-and-the-hearth-38895` (7396 units) |
+| Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts (with Tom Taylor) | have | PG 51385, `creade-masks-and-faces` (971 units) |
+| Griffith Gaunt; or, Jealousy Volumes 1 to 3 (of 3) | have | PG 57685, `creade-griffith-gaunt` (4151 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1329,3 +1329,6 @@
 
 ## 2026-10-17 19:21 CDT — bulwer-lytton: done
 - bulwer-lytton: new shelf, 34 Gutenberg books, 75,938 units, 23842 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:32 CDT — charles-reade: done
+- charles-reade: new shelf, 16 Gutenberg books, 69,933 units, 2301 ~2 ids; verify 0 mismatches, 0 rights flags.
