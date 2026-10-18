@@ -3653,6 +3653,14 @@
       "started": "2026-10-17T23:24:43-05:00",
       "finished": "2026-10-17T23:24:43-05:00",
       "notes": "israel-zangwill: new shelf, 16 Gutenberg books, 38,402 units, 1007 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edmund-yates",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Edmund Yates; no minting",
+      "status": "done",
+      "started": "2026-10-17T23:24:44-05:00",
+      "finished": "2026-10-17T23:24:44-05:00",
+      "notes": "edmund-yates: new shelf, 24 Gutenberg books, 24,494 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -1647,3 +1647,6 @@
 
 ## 2026-10-17 23:24 CDT — israel-zangwill: done
 - israel-zangwill: new shelf, 16 Gutenberg books, 38,402 units, 1007 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — edmund-yates: done
+- edmund-yates: new shelf, 24 Gutenberg books, 24,494 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags.

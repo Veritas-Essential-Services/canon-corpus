@@ -12444,6 +12444,37 @@ Shelf: `pipeline/israel-zangwill_shelf.json` (2026-10-17; added at the coordinat
 | Italian Fantasies | have | PG 56264, `izangwill-italian-fantasies` (1131 units) |
 | Jinny the Carrier | have | PG 57836, `izangwill-jinny-the-carrier` (5468 units) |
 
+## Edmund Yates
+
+Shelf: `pipeline/edmund-yates_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (24 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kissing the Rod: A Novel. (Vol. 1 of 3) | have | PG 58517, `eyates-kissing-the-rod` (647 units) |
+| Kissing the Rod: A Novel. (Vol. 2 of 3) | have | PG 58518, `eyates-kissing-the-rod-58518` (503 units) |
+| Kissing the Rod: A Novel. (Vol. 3 of 3) | have | PG 58519, `eyates-kissing-the-rod-58519` (647 units) |
+| Broken to Harness: A Story of English Domestic Life | have | PG 59207, `eyates-broken-to-harness` (1978 units) |
+| Running the Gauntlet: A Novel | have | PG 59366, `eyates-running-the-gauntlet` (2200 units) |
+| The Rock Ahead: A Novel. (Vol. 1) | have | PG 59911, `eyates-rock-ahead` (631 units) |
+| The Rock Ahead: A Novel. (Vol. 2) | have | PG 59912, `eyates-rock-ahead-59912` (773 units) |
+| Black Sheep: A Novel | have | PG 59927, `eyates-black-sheep` (2497 units) |
+| The Forlorn Hope: A Novel (Vol. 1 of 2) | have | PG 60072, `eyates-forlorn-hope` (809 units) |
+| The Forlorn Hope: A Novel (Vol. 2 of 2) | have | PG 60073, `eyates-forlorn-hope-60073` (651 units) |
+| Land at Last: A Novel | have | PG 60329, `eyates-land-at-last` (1970 units) |
+| Dr. Wainwright's Patient: A Novel | have | PG 60651, `eyates-dr-wainwrights-patient` (2186 units) |
+| A Righted Wrong: A Novel. Volume 1 (of 3) | have | PG 60964, `eyates-a-righted-wrong` (674 units) |
+| A Righted Wrong: A Novel. Volume 2 (of 3) | have | PG 60965, `eyates-a-righted-wrong-60965` (667 units) |
+| A Righted Wrong: A Novel. Volume 3 (of 3) | have | PG 60966, `eyates-a-righted-wrong-60966` (499 units) |
+| The Yellow Flag: A Novel. Volume 1 (of 3) | have | PG 61093, `eyates-yellow-flag` (608 units) |
+| The Yellow Flag: A Novel. Volume 2 (of 3) | have | PG 61137, `eyates-yellow-flag-61137` (808 units) |
+| The Yellow Flag: A Novel. Volume 3 (of 3) | have | PG 61180, `eyates-yellow-flag-61180` (646 units) |
+| Wrecked in Port: A Novel | have | PG 61447, `eyates-wrecked-in-port` (1762 units) |
+| Two, by Tricks: A Novel | have | PG 61728, `eyates-two-by-tricks` (971 units) |
+| The Impending Sword: A Novel (Vol. 1 of 3) | have | PG 61949, `eyates-impending-sword` (680 units) |
+| The Impending Sword: A Novel (Vol. 2 of 3) | have | PG 62159, `eyates-impending-sword-62159` (664 units) |
+| The Impending Sword: A Novel (Vol. 3 of 3) | have | PG 62298, `eyates-impending-sword-62298` (658 units) |
+| Mirth and metre (with Frank E. Smedley) | have | PG 69177, `eyates-mirth-and-metre` (365 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
