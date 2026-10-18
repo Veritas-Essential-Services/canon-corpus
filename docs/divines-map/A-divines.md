@@ -8857,3 +8857,16 @@ Slugs `tdtalmage-*`. Built from title pages read for round 36.
 | From Manger to Throne, embracing a new Life of Jesus the Christ and a History of Palestine (Philadelphia: Historical Publishing Company, 1893) | have-ocr | IA `frommangertothr00talm` |
 | PG 13104 (Abominations, no publisher); PG 14139 (Munro's New Tabernacle Sermons, 1886); PG 14662 (a later Tea-Table); PG 22343 (The Wedding Ring, 1896); Old Wells Dug Out (London 1875; Funk & Wagnalls 1886) | alternate | not shelved |
 | T. De Witt Talmage as I Knew Him (1912, finished by Mrs. Talmage); anthologies; extract books compiled by others; books by James E. Talmage | excluded | |
+
+## Robert Jamieson (round 36, my pick, 2026-10-18)
+
+Slugs `rjamieson-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Inspiration of the Holy Scriptures: the Baird Lecture for 1873 (Edinburgh and London: William Blackwood and Sons, 1873) | have-ocr | IA `inspirationofhol00jami` |
+| The Pentateuch and the Book of Joshua, with an original and copious critical and explanatory commentary (Philadelphia: William S. & Alfred Martien, 1860) | have-ocr | IA `pentateuchbookof00jami` |
+| The Manners and Trials of the Primitive Christians, second edition (Edinburgh: John Johnstone, 1841) | have-ocr | IA `mannerstrialsofp00jami` |
+| A Commentary, Critical and Explanatory, on the Old and New Testaments, vol. I, Genesis to Deuteronomy, by Robert Jamieson (Glasgow: William Collins; London: James Nisbet, 1871) | have-ocr | IA `commentarycritic01jami_0` |
+| JFB vol. II, Joshua to Esther (Lippincott, year not read); the Portable Commentary (1863) and one-volume Old Testament (1873), joint with Fausset; Eastern Manners Illustrative of the Old Testament History (year not read); CCEL jamieson/jfb (states only 'published 1871', joint) | alternate | not shelved |
+| An Eerdmans reprint of the commentary catalogued 1866 | excluded | |
