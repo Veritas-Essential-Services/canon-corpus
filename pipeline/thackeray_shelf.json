@@ -140,6 +140,29 @@
   "thackeray-our-street": [
    61072,
    "\"Our Street\""
+  ],
+  "thackeray-notes-on-a-journey-from-cornhill-to-grand-cairo": [
+   1863,
+   "Notes on a Journey from Cornhill to Grand Cairo",
+   {
+    "contents_only": true
+   }
+  ],
+  "thackeray-tremendous-adventures-of-major-gahagan": [
+   1935,
+   "The Tremendous Adventures of Major Gahagan"
+  ],
+  "thackeray-mens-wives": [
+   1985,
+   "Men's Wives"
+  ],
+  "thackeray-catherine": [
+   1969,
+   "Catherine: A Story"
+  ],
+  "thackeray-history-of-samuel-titmarsh-and-the-great-hoggarty": [
+   1933,
+   "The History of Samuel Titmarsh and the Great Hoggarty Diamond"
   ]
  },
  "internet_archive": {},
@@ -411,6 +434,51 @@
    "pg_translator": null
   },
   "thackeray-our-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-notes-on-a-journey-from-cornhill-to-grand-cairo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-tremendous-adventures-of-major-gahagan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-mens-wives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-catherine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-history-of-samuel-titmarsh-and-the-great-hoggarty": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
