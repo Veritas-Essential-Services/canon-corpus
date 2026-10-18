@@ -501,14 +501,15 @@ Round 5, vetoable. 🔴 US PD only: UK copyright runs to the end of 2036. Not co
 | `waley-genji-4-6` | — | Genji parts 4-6 (Blue Trousers 1928, The Lady of the Boat 1932, The Bridge of Dreams 1933): part 4 is US PD but not on Gutenberg; parts 5-6 are after 1930 and are refused. | — | — | pending | — |
 | — | — | waley-after-1930: The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright. | — | — | excluded | — |
 
-## John Hoole (Tasso)
+## John Hoole (Tasso; Metastasio)
 
 Shelf: `pipeline/hoole_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hoole` · titles `python3 pipeline/split_shelf_titles.py hoole`.
-Round 5, vetoable. 1803 printing still uses the long s (OCR reads s as f). Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. 1803 printing still uses the long s (OCR reads s as f). Metastasio (1767) added in round 92. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `hoole-jerusalem-delivered` | Tasso | Jerusalem Delivered, 20 books | John Hoole | 1763 | have-raw | IA `jerusalemdeliver01tassiala` + IA `jerusalemdeliver02tassiala` |
+| `hoole-works-of-metastasio` | Pietro Metastasio | The Works of Metastasio, 2 vols | John Hoole | 1767 | have-raw | IA `bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_1` + IA `bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_2` |
 | `hoole-orlando-furioso` | — | Hoole's Ariosto (1783): only 18th-century long-s printings and incomplete Google sets of the 1807 edition found. Not fetched. | — | — | pending | — |
 
 ## Sir John Harington (Ariosto, 1591)
@@ -644,10 +645,10 @@ Round 7, vetoable. Gutenberg text placed by hand (cache URL 404s), see `_manual_
 | `coleridge-death-of-wallenstein` | Schiller | The Death of Wallenstein (Wallenstein, part 3) | Samuel Taylor Coleridge | 1800 | have | PG 6787 |
 | — | — | wallensteins-lager: Wallenstein's Camp (part 1) was not translated by Coleridge. | — | — | excluded | — |
 
-## John and E. A. Bowring (Chamisso, Goethe, Heine)
+## John and E. A. Bowring (Chamisso, Goethe, Heine, Alfieri)
 
 Shelf: `pipeline/bowring_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bowring` · titles `python3 pipeline/split_shelf_titles.py bowring`.
-Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 7, vetoable. Alfieri's Tragedies (1876) added in round 92. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -658,6 +659,7 @@ Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `bowring-servian-popular-poetry` | Serbian folk poetry (Vuk Karadžić's collection) | Servian Popular Poetry | John Bowring | 1827 (see the Gutenberg header) | have | PG 39028 |
 | `bowring-specimens-of-the-russian-poets-vol-1` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 1 (of 2) | John Bowring | 1821 (see the Gutenberg header) | have | PG 78744 |
 | `bowring-specimens-of-the-russian-poets-vol-2` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 2 (of 2) | John Bowring | 1823 (see the Gutenberg header) | have | PG 78745 |
+| `bowring-alfieri-tragedies` | Vittorio Alfieri | The Tragedies of Vittorio Alfieri, complete, including his posthumous works, 2 vols | Edgar Alfred Bowring | 1876 | have-raw | IA `india.history.resource.85890` + IA `india.history.resource.85891` |
 | `john-bowring-anthologies` | — | Sir John Bowring's Specimens of the Russian Poets (1821-23), Servian Popular Poetry (1827), Poetry of the Magyars (1830): on IA; not fetched this run. | — | — | pending | — |
 
 ## John Anster (Faust I)
@@ -2570,10 +2572,10 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lowe-porter-mann-buddenbrooks-vol-2` | Thomas Mann | Buddenbrooks, volume 2 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72962 |
 | `lowe-porter-mann-three-essays` | Thomas Mann | Three essays | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 76837 |
 
-## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub)
+## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub; Goldoni)
 
 Shelf: `pipeline/aldington_shelf.json` · fetch `python3 pipeline/fetch_shelf.py aldington` · titles `python3 pipeline/split_shelf_titles.py aldington`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Goldoni's Good-Humoured Ladies (1922) added in round 92. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2581,6 +2583,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `aldington-bergerac-voyages-to-the-moon-and-the-sun` | Cyrano de Bergerac | Voyages to the Moon and the Sun | Richard Aldington | 1916-1928 (see the Gutenberg header) | have | PG 74000 |
 | `aldington-sologub-the-little-demon` | Fyodor Sologub | The Little Demon | Richard Aldington (with John Cournos) | 1916-1928 (see the Gutenberg header) | have | PG 48912 |
 | `aldington-letters-of-voltaire-and-frederick` | Voltaire and Frederick the Great | Letters of Voltaire and Frederick the Great | Richard Aldington | 1927 | have-raw | IA `lettersofvoltair0000rich` |
+| `aldington-goldoni-good-humoured-ladies` | Carlo Goldoni | The Good-Humoured Ladies: a Comedy | Richard Aldington | 1922 | have-raw | IA `goodhumouredladi00goldrich` |
 | `aldington-dangerous-acquaintances` | — | Laclos, Dangerous Acquaintances (Les Liaisons dangereuses), tr. Richard Aldington (Routledge, 1924): the only open scan (archive.org dli.ministry.01293) carries no imprint date, so its printing cannot be shown to be before 1931. | — | — | pending | — |
 
 ## L. Dora Schmitz (Haeckel's History of Creation, 2 vols)
@@ -6729,8 +6732,37 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted t
 | `scandinavian-classics-danish-verse` | Danish poets, selected and annotated by Oluf Friis | A Book of Danish Verse | S. Foster Damon and Robert Silliman Hillyer | 1922 | have-raw | IA `bookofdanishvers00friiiala` |
 | `scandinavian-classics-munch-norse-mythology` | Peter Andreas Munch, revised by Magnus Olsen | Norse Mythology: Legends of Gods and Heroes | Sigurd Bernhard Hustvedt | 1926 | have-raw | IA `norsemythologyle00munc_0` |
 | `scandinavian-classics-tegner-poems` | Esaias Tegnér | Poems by Tegnér: The Children of the Lord's Supper and Frithiof's Saga | W. Lewery Blackley (Frithiof's Saga) and Henry Wadsworth Longfellow (The Children of the Lord's Supper) | 1914 | have-raw | IA `poemsbytegnerchi0000esai` |
+| `schlauch-saga-of-the-volsungs` | — | Margaret Schlauch's The Saga of the Volsungs (American-Scandinavian Foundation, 'Copyright, 1930'; archive.org sagaofvolsungs0000marg). Waits on the 1930 ruling: the gate still treats 1930 as in copyright. | — | — | pending | — |
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
 | — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |
+
+## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), and Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe
+
+Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
+Round 92 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `italian-classics-goldoni-memoirs-1` | Carlo Goldoni (written in French, 1787) | Memoirs of Goldoni, written by himself, vol. I | John Black | 1814 | have-raw | IA `memoirsgoldoniw00goldgoog` |
+| `italian-classics-goldoni-memoirs-2` | Carlo Goldoni (written in French, 1787) | Memoirs of Goldoni, written by himself, vol. II | John Black | 1814 | have-raw | IA `memoirsgoldoniw01goldgoog` |
+| `italian-classics-goldoni-four-comedies` | Carlo Goldoni | Four Comedies | Clifford Bax (editor and translator), with Marguerite Tracy and Herbert and Eleanor Farjeon | 1922 | have-raw | IA `fourcomedies00golduoft` |
+| `italian-classics-goldoni-the-liar` | Carlo Goldoni | The Liar: a Comedy in Three Acts | Grace Lovat Fraser | 1922 | have-raw | IA `liarcomedyinthre00golduoft` |
+| `italian-classics-goldoni-on-playwriting` | Carlo Goldoni | Goldoni on Playwriting | F. C. L. van Steenderen | 1919 | have-raw | IA `goldonionplaywri00golduoft` |
+| `italian-classics-alfieri-tragedies-lloyd-1` | Vittorio Alfieri | The Tragedies of Vittorio Alfieri, vol. I | Charles Lloyd | 1815 | have-raw | IA `in.ernet.dli.2015.92938` |
+| `italian-classics-alfieri-tragedies-lloyd-2` | Vittorio Alfieri | The Tragedies of Vittorio Alfieri, vol. II | Charles Lloyd | 1815 | have-raw | IA `in.ernet.dli.2015.92939` |
+| `italian-classics-alfieri-tragedies-lloyd-3` | Vittorio Alfieri | The Tragedies of Vittorio Alfieri, vol. III | Charles Lloyd | 1815 | have-raw | IA `in.ernet.dli.2015.92940` |
+| `italian-classics-alfieri-autobiography` | Vittorio Alfieri | The Autobiography of Vittorio Alfieri, the Tragic Poet | C. Edwards Lester | 1845 | have-raw | IA `autobiographyofv00alfi` |
+| `italian-classics-carducci-sewall` | Giosuè Carducci | Poems of Giosuè Carducci, translated with two introductory essays | Frank Sewall | 1892 | have-raw | IA `poemsgiosucardu00cardgoog` |
+| `italian-classics-carducci-holland` | Giosuè Carducci | Poems by Giosuè Carducci, with introduction and translations | Maud Holland | 1907 | have-raw | IA `carduccipoems00cardrich` |
+| `italian-classics-carducci-arms` | Giosuè Carducci | Poems of Italy: Selections from the Odes of Giosuè Carducci | M. W. Arms | 1906 | have-raw | IA `poemsofitalysele00cardrich` |
+| `italian-classics-carducci-bickersteth` | Giosuè Carducci | Carducci: a Selection of his Poems, with Verse Translations, Notes and Three Introductory Essays | G. L. Bickersteth | 1913 | have-raw | IA `selectionofhispo00carduoft` |
+| `italian-classics-carducci-tribe` | Giosuè Carducci | A Selection from the Poems of Giosuè Carducci | Emily A. Tribe | 1921 | have-raw | IA `aselectionfromp00tribgoog` |
+| `italian-classics-carducci-rime-nuove` | Giosuè Carducci | The Rime Nuove of Giosuè Carducci | Laura Fullerton Gilbert | 1916 | have-raw | IA `rimenuoveofgiosu00card` |
+| — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
+| — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
+| — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
+| — | — | howells-goldoni-alfieri-1877: Howells's 1877 Little Classic editions of Goldoni's Memoirs and Alfieri's Life reprint older translations (Black's for Goldoni); the fuller sources are used instead. | — | — | excluded | — |
+| — | — | colburn-alfieri-memoirs-1810: Memoirs of the Life and Writings of Victor Alfieri (Colburn, 1810) does not name its translator. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

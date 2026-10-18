@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: two Bowrings, translator recorded per title. Sir John Bowring (1792-1872): Chamisso's Peter Schlemihl (1824). His son Edgar Alfred Bowring (1826-1911): Goethe's Poems in the original metres (1853) and Heine's Poems, complete (1859). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst. Round 37 gap-fill: Sir John's Specimens of the Russian Poets (2 vols, 1821-1823), Servian Popular Poetry (1827) and the 1920 Anthology of Jugoslav Poetry built mostly on his versions.",
+ "_about": "TRANSLATOR SHELF: two Bowrings, translator recorded per title. Sir John Bowring (1792-1872): Chamisso's Peter Schlemihl (1824). His son Edgar Alfred Bowring (1826-1911): Goethe's Poems in the original metres (1853) and Heine's Poems, complete (1859). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst. Round 37 gap-fill: Sir John's Specimens of the Russian Poets (2 vols, 1821-1823), Servian Popular Poetry (1827) and the 1920 Anthology of Jugoslav Poetry built mostly on his versions. Round 92 gap-fill: Edgar Alfred Bowring's Tragedies of Alfieri (1876, 2 vols).",
  "_name_words": [
   "bowring"
  ],
@@ -37,7 +37,18 @@
    "An Anthology of Jugoslav Poetry: Serbian Lyrics"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bowring-alfieri-1": [
+   "india.history.resource.85890",
+   "The Tragedies of Vittorio Alfieri, vol. I (1876)",
+   "85890_djvu.txt"
+  ],
+  "bowring-alfieri-2": [
+   "india.history.resource.85891",
+   "The Tragedies of Vittorio Alfieri, vol. II (1876)",
+   "85891_djvu.txt"
+  ]
+ },
  "titles": {
   "bowring-anthology-of-jugoslav-poetry": {
    "source": "bowring-pg36091",
@@ -99,6 +110,18 @@
    "translator": "John Bowring",
    "scan_edition": "Project Gutenberg 78745 (clean text)",
    "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
+  },
+  "bowring-alfieri-tragedies": {
+   "source": [
+    "bowring-alfieri-1",
+    "bowring-alfieri-2"
+   ],
+   "of": "Vittorio Alfieri",
+   "work": "The Tragedies of Vittorio Alfieri, complete, including his posthumous works, 2 vols",
+   "translated": 1876,
+   "translator": "Edgar Alfred Bowring",
+   "scan_edition": "George Bell and Sons, London 1876, 2 vols; Digital Library of India scans",
+   "note": "The vol. II scan's title page OCR reads 'VOL. I.', but its contents page is headed 'Contents of Vol. II' and lists the second half of the plays and the posthumous tragedies."
   }
  },
  "_pending": {
@@ -112,7 +135,7 @@
  "_checks": {
   "bowring-schlemihl": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -121,7 +144,7 @@
   },
   "bowring-goethe-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -130,7 +153,7 @@
   },
   "bowring-heine-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -139,7 +162,7 @@
   },
   "bowring-pg39028": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -148,7 +171,7 @@
   },
   "bowring-pg78744": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -157,7 +180,7 @@
   },
   "bowring-pg78745": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -166,12 +189,34 @@
   },
   "bowring-pg36091": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "John Bowring; Earl of Edward Robert Bulwer Lytton Lytton; James William Wiles"
+  },
+  "bowring-alfieri-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bowring-alfieri-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -209,6 +254,35 @@
    "pg": 36091,
    "pg_copyrighted_marker": false,
    "pg_translator": "John Bowring"
+  },
+  "bowring-alfieri-1": {
+   "ia": "india.history.resource.85890",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1761,
+    1783,
+    1814,
+    1815,
+    1851,
+    1876
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 92: 2018 is the Digital Library of India digitising note ('on 18 July, 2018'), not an imprint."
+  },
+  "bowring-alfieri-2": {
+   "ia": "india.history.resource.85891",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1785,
+    1787,
+    1876
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 92: 2018 is the Digital Library of India digitising note ('on 18 July, 2018'), not an imprint."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

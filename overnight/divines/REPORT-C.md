@@ -257,3 +257,6 @@
 - 2026-10-17T20:11-05:00: round 90: gap-fills cw-stork (+2), hollander (+1), edwin-bjorkman (+1). --verify --record 0 mismatched.
 
 - 2026-10-17T20:15-05:00: round 91: gap-fill scandinavian-classics (+3, now 8). --verify --record 0 mismatched.
+
+- 2026-10-17T20:35-05:00: round 92: italian-classics (15). --verify --record 0 mismatched.
+- 2026-10-17T20:35-05:00: round 92 gap-fills: hoole (+1), aldington (+1), bowring (+1). --verify --record 0 mismatched. Identity overrides: itc-carducci-holland, hoole-metastasio-1/2.

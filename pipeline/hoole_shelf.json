@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: John Hoole (1727-1803). Tasso's Jerusalem Delivered in heroic couplets (1763), in the 1803 Bensley printing (2 vols). PD. Pairs with Fairfax. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: John Hoole (1727-1803). Tasso's Jerusalem Delivered in heroic couplets (1763), in the 1803 Bensley printing (2 vols). PD. Pairs with Fairfax. The Works of Metastasio (1767, 2 vols) added in round 92. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "hoole"
  ],
@@ -16,6 +16,14 @@
   "hoole-jerusalem-2": [
    "jerusalemdeliver02tassiala",
    "Jerusalem Delivered, tr. Hoole, vol. 2 (1803)"
+  ],
+  "hoole-metastasio-1": [
+   "bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_1",
+   "The Works of Metastasio, vol. 1 (1767)"
+  ],
+  "hoole-metastasio-2": [
+   "bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_2",
+   "The Works of Metastasio, vol. 2 (1767)"
   ]
  },
  "titles": {
@@ -29,6 +37,17 @@
    "translated": 1763,
    "translator": "John Hoole",
    "scan_edition": "T. Bensley for J. Johnson, 1803, 'eighth edition, with notes', 2 vols (UC copy), raw OCR; the printing still uses the long s, so the OCR reads s as f"
+  },
+  "hoole-works-of-metastasio": {
+   "source": [
+    "hoole-metastasio-1",
+    "hoole-metastasio-2"
+   ],
+   "of": "Pietro Metastasio",
+   "work": "The Works of Metastasio, 2 vols",
+   "translated": 1767,
+   "translator": "John Hoole",
+   "scan_edition": "London, 1767, 2 vols (date from the catalogue; the OCR'd imprint is illegible); eighteenth-century scan, long-s OCR"
   }
  },
  "_pending": {
@@ -37,12 +56,18 @@
  "_excluded": {},
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_identity_checked": {
-  "hoole-jerusalem-2": "Title page reads 'translated from the Italian of Torquato Tasso, by John Hoole ... vol. II ... 1803', but OCR splits the name ('HO 0 L E'). Checked by eye 2026-10-02."
+  "hoole-jerusalem-2": "Title page reads 'translated from the Italian of Torquato Tasso, by John Hoole ... vol. II ... 1803', but OCR splits the name ('HO 0 L E'). Checked by eye 2026-10-02.",
+  "hoole-metastasio-1": {
+   "author": "The title page OCR reads 'Translated from the ITALIAN, JOHN 0 OLE.' for 'by John Hoole'. Checked by eye 2026-10-17."
+  },
+  "hoole-metastasio-2": {
+   "author": "The title page OCR reads 'Translated from the ITALIAN, JoHN Ho OLE.' for 'by John Hoole'. Checked by eye 2026-10-17."
+  }
  },
  "_checks": {
   "hoole-jerusalem-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "hoole",
    "identity": "ok",
@@ -53,13 +78,37 @@
   },
   "hoole-jerusalem-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
    "ia_rights": "ok: published 1803",
    "ia_date": "1803",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoole-metastasio-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoole-metastasio-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -80,6 +129,21 @@
     1803
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "hoole-metastasio-1": {
+   "ia": "bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_1",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hoole-metastasio-2": {
+   "ia": "bim_eighteenth-century_the-works-of-metastasio_metastasio-pietro_1767_2",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [
+    2010
+   ],
+   "post_1930_examined": "Examined in round 92: '2010' is OCR noise in the middle of the verse text, not an imprint."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

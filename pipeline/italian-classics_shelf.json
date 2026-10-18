@@ -1,0 +1,640 @@
+{
+ "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); and six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bickersteth",
+  "c. edwards lester",
+  "charles lloyd",
+  "clifford bax",
+  "edwards lester",
+  "emily a. tribe",
+  "f. c. l. van steenderen",
+  "frank sewall",
+  "g. l. bickersteth",
+  "grace lovat fraser",
+  "john black",
+  "laura fullerton gilbert",
+  "lovat fraser",
+  "m. w. arms",
+  "maud holland",
+  "sewall",
+  "van steenderen"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common-word surnames (black, lloyd, fraser, holland, arms, tribe, gilbert, bax) are never listed bare.",
+ "_surname": [
+  "bickersteth",
+  "c. edwards lester",
+  "charles lloyd",
+  "clifford bax",
+  "edwards lester",
+  "emily a. tribe",
+  "f. c. l. van steenderen",
+  "frank sewall",
+  "g. l. bickersteth",
+  "grace lovat fraser",
+  "john black",
+  "laura fullerton gilbert",
+  "lovat fraser",
+  "m. w. arms",
+  "maud holland",
+  "sewall",
+  "van steenderen"
+ ],
+ "_surname_by_slug": {
+  "itc-goldoni-memoirs-1": [
+   "john black"
+  ],
+  "itc-goldoni-memoirs-2": [
+   "john black"
+  ],
+  "itc-goldoni-four-comedies": [
+   "clifford bax"
+  ],
+  "itc-goldoni-the-liar": [
+   "grace lovat fraser",
+   "lovat fraser"
+  ],
+  "itc-goldoni-on-playwriting": [
+   "f. c. l. van steenderen",
+   "van steenderen"
+  ],
+  "itc-alfieri-tragedies-lloyd-1": [
+   "charles lloyd"
+  ],
+  "itc-alfieri-tragedies-lloyd-2": [
+   "charles lloyd"
+  ],
+  "itc-alfieri-tragedies-lloyd-3": [
+   "charles lloyd"
+  ],
+  "itc-alfieri-autobiography": [
+   "c. edwards lester",
+   "edwards lester"
+  ],
+  "itc-carducci-sewall": [
+   "frank sewall",
+   "sewall"
+  ],
+  "itc-carducci-holland": [
+   "maud holland"
+  ],
+  "itc-carducci-arms": [
+   "m. w. arms"
+  ],
+  "itc-carducci-bickersteth": [
+   "g. l. bickersteth",
+   "bickersteth"
+  ],
+  "itc-carducci-tribe": [
+   "emily a. tribe"
+  ],
+  "itc-carducci-rime-nuove": [
+   "laura fullerton gilbert"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "itc-goldoni-memoirs-1": [
+   "memoirsgoldoniw00goldgoog",
+   "Memoirs of Goldoni, vol. I (1814)"
+  ],
+  "itc-goldoni-memoirs-2": [
+   "memoirsgoldoniw01goldgoog",
+   "Memoirs of Goldoni, vol. II (1814)"
+  ],
+  "itc-goldoni-four-comedies": [
+   "fourcomedies00golduoft",
+   "Four Comedies (1922)"
+  ],
+  "itc-goldoni-the-liar": [
+   "liarcomedyinthre00golduoft",
+   "The Liar: a Comedy in Three Acts (1922)"
+  ],
+  "itc-goldoni-on-playwriting": [
+   "goldonionplaywri00golduoft",
+   "Goldoni on Playwriting (1919)"
+  ],
+  "itc-alfieri-tragedies-lloyd-1": [
+   "in.ernet.dli.2015.92938",
+   "The Tragedies of Vittorio Alfieri, vol. I (1815)",
+   "2015.92938.The-Tragedies-Of-Vittorio-Alfieri--Vol-1_djvu.txt"
+  ],
+  "itc-alfieri-tragedies-lloyd-2": [
+   "in.ernet.dli.2015.92939",
+   "The Tragedies of Vittorio Alfieri, vol. II (1815)",
+   "2015.92939.The-Tragedies-Of-Vittorio-Alfieri--Vol-2_djvu.txt"
+  ],
+  "itc-alfieri-tragedies-lloyd-3": [
+   "in.ernet.dli.2015.92940",
+   "The Tragedies of Vittorio Alfieri, vol. III (1815)",
+   "2015.92940.The-Tragedies-Of-Vittorio-Alfieri--Vol-3_djvu.txt"
+  ],
+  "itc-alfieri-autobiography": [
+   "autobiographyofv00alfi",
+   "The Autobiography of Vittorio Alfieri, the Tragic Poet (1845)"
+  ],
+  "itc-carducci-sewall": [
+   "poemsgiosucardu00cardgoog",
+   "Poems of Giosuè Carducci (1892)"
+  ],
+  "itc-carducci-holland": [
+   "carduccipoems00cardrich",
+   "Poems by Giosuè Carducci (1907)"
+  ],
+  "itc-carducci-arms": [
+   "poemsofitalysele00cardrich",
+   "Poems of Italy: selections from the Odes of Giosuè Carducci (1906)"
+  ],
+  "itc-carducci-bickersteth": [
+   "selectionofhispo00carduoft",
+   "Carducci: a Selection of his Poems, with Verse Translations (1913)"
+  ],
+  "itc-carducci-tribe": [
+   "aselectionfromp00tribgoog",
+   "A Selection from the Poems of Giosuè Carducci (1921)"
+  ],
+  "itc-carducci-rime-nuove": [
+   "rimenuoveofgiosu00card",
+   "The Rime Nuove of Giosuè Carducci (1916)"
+  ]
+ },
+ "titles": {
+  "italian-classics-goldoni-memoirs-1": {
+   "source": "itc-goldoni-memoirs-1",
+   "of": "Carlo Goldoni (written in French, 1787)",
+   "work": "Memoirs of Goldoni, written by himself, vol. I",
+   "translated": 1814,
+   "translator": "John Black",
+   "scan_edition": "Henry Colburn, London 1814, 2 vols (first edition of Black's translation; the catalogue's 1828 is wrong, the title page reads 1814); Google scan",
+   "note": "Translated from Goldoni's French original. Vol. II's imprint year is OCR'd as '18U.' under the same Colburn imprint."
+  },
+  "italian-classics-goldoni-memoirs-2": {
+   "source": "itc-goldoni-memoirs-2",
+   "of": "Carlo Goldoni (written in French, 1787)",
+   "work": "Memoirs of Goldoni, written by himself, vol. II",
+   "translated": 1814,
+   "translator": "John Black",
+   "scan_edition": "Henry Colburn, London 1814, 2 vols (first edition of Black's translation; the catalogue's 1828 is wrong, the title page reads 1814); Google scan"
+  },
+  "italian-classics-goldoni-four-comedies": {
+   "source": "itc-goldoni-four-comedies",
+   "of": "Carlo Goldoni",
+   "work": "Four Comedies",
+   "translated": 1922,
+   "translator": "Clifford Bax (editor and translator), with Marguerite Tracy and Herbert and Eleanor Farjeon",
+   "scan_edition": "Cecil Palmer, London, printed by the Curwen Press, 1922; University of Toronto scan",
+   "note": "Two plays are Bax's own translations; the others are by Marguerite Tracy and by Herbert and Eleanor Farjeon, per the contents."
+  },
+  "italian-classics-goldoni-the-liar": {
+   "source": "itc-goldoni-the-liar",
+   "of": "Carlo Goldoni",
+   "work": "The Liar: a Comedy in Three Acts",
+   "translated": 1922,
+   "translator": "Grace Lovat Fraser",
+   "scan_edition": "Selwyn and Blount, London, first published 1922; University of Toronto scan"
+  },
+  "italian-classics-goldoni-on-playwriting": {
+   "source": "itc-goldoni-on-playwriting",
+   "of": "Carlo Goldoni",
+   "work": "Goldoni on Playwriting",
+   "translated": 1919,
+   "translator": "F. C. L. van Steenderen",
+   "scan_edition": "Dramatic Museum of Columbia University, New York 1919; University of Toronto scan",
+   "note": "Passages on the craft of comedy gathered from Goldoni's prefaces and memoirs, translated and compiled by van Steenderen."
+  },
+  "italian-classics-alfieri-tragedies-lloyd-1": {
+   "source": "itc-alfieri-tragedies-lloyd-1",
+   "of": "Vittorio Alfieri",
+   "work": "The Tragedies of Vittorio Alfieri, vol. I",
+   "translated": 1815,
+   "translator": "Charles Lloyd",
+   "scan_edition": "Longman, London 1815, 3 vols; Digital Library of India scan"
+  },
+  "italian-classics-alfieri-tragedies-lloyd-2": {
+   "source": "itc-alfieri-tragedies-lloyd-2",
+   "of": "Vittorio Alfieri",
+   "work": "The Tragedies of Vittorio Alfieri, vol. II",
+   "translated": 1815,
+   "translator": "Charles Lloyd",
+   "scan_edition": "Longman, London 1815, 3 vols; Digital Library of India scan"
+  },
+  "italian-classics-alfieri-tragedies-lloyd-3": {
+   "source": "itc-alfieri-tragedies-lloyd-3",
+   "of": "Vittorio Alfieri",
+   "work": "The Tragedies of Vittorio Alfieri, vol. III",
+   "translated": 1815,
+   "translator": "Charles Lloyd",
+   "scan_edition": "Longman, London 1815, 3 vols; Digital Library of India scan"
+  },
+  "italian-classics-alfieri-autobiography": {
+   "source": "itc-alfieri-autobiography",
+   "of": "Vittorio Alfieri",
+   "work": "The Autobiography of Vittorio Alfieri, the Tragic Poet",
+   "translated": 1845,
+   "translator": "C. Edwards Lester",
+   "scan_edition": "Paine and Burgess, New York 1845; archive.org scan",
+   "note": "Translated with an original essay on Alfieri's genius by Lester."
+  },
+  "italian-classics-carducci-sewall": {
+   "source": "itc-carducci-sewall",
+   "of": "Giosuè Carducci",
+   "work": "Poems of Giosuè Carducci, translated with two introductory essays",
+   "translated": 1892,
+   "translator": "Frank Sewall",
+   "scan_edition": "Dodd, Mead, New York 1892; Google scan"
+  },
+  "italian-classics-carducci-holland": {
+   "source": "itc-carducci-holland",
+   "of": "Giosuè Carducci",
+   "work": "Poems by Giosuè Carducci, with introduction and translations",
+   "translated": 1907,
+   "translator": "Maud Holland",
+   "scan_edition": "T. Fisher Unwin, London 1907; University of California scan"
+  },
+  "italian-classics-carducci-arms": {
+   "source": "itc-carducci-arms",
+   "of": "Giosuè Carducci",
+   "work": "Poems of Italy: Selections from the Odes of Giosuè Carducci",
+   "translated": 1906,
+   "translator": "M. W. Arms",
+   "scan_edition": "Grafton Press, New York 1906; University of California scan"
+  },
+  "italian-classics-carducci-bickersteth": {
+   "source": "itc-carducci-bickersteth",
+   "of": "Giosuè Carducci",
+   "work": "Carducci: a Selection of his Poems, with Verse Translations, Notes and Three Introductory Essays",
+   "translated": 1913,
+   "translator": "G. L. Bickersteth",
+   "scan_edition": "Longmans, Green, London 1913; University of Toronto scan"
+  },
+  "italian-classics-carducci-tribe": {
+   "source": "itc-carducci-tribe",
+   "of": "Giosuè Carducci",
+   "work": "A Selection from the Poems of Giosuè Carducci",
+   "translated": 1921,
+   "translator": "Emily A. Tribe",
+   "scan_edition": "Longmans, Green, London 1921; Google scan"
+  },
+  "italian-classics-carducci-rime-nuove": {
+   "source": "itc-carducci-rime-nuove",
+   "of": "Giosuè Carducci",
+   "work": "The Rime Nuove of Giosuè Carducci",
+   "translated": 1916,
+   "translator": "Laura Fullerton Gilbert",
+   "scan_edition": "Richard G. Badger, Boston 1916; archive.org scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "zimmern-comedies-of-goldoni": "The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one.",
+  "three-comedies-1907": "Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked.",
+  "fanshawe-pastor-fido": "The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one.",
+  "howells-goldoni-alfieri-1877": "Howells's 1877 Little Classic editions of Goldoni's Memoirs and Alfieri's Life reprint older translations (Black's for Goldoni); the fuller sources are used instead.",
+  "colburn-alfieri-memoirs-1810": "Memoirs of the Life and Writings of Victor Alfieri (Colburn, 1810) does not name its translator."
+ },
+ "_identity_checked": {
+  "itc-carducci-holland": {
+   "author": "The title page OCR reads 'WITH AOi^ INT1ipDUCTI0:Si AND TRANSLATIONS ^r <:MAU'T> HOLLAN'D' for 'with introduction and translations by Maud Holland', over 'London: T. Fisher Unwin, MCMVII'. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "itc-goldoni-memoirs-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-goldoni-memoirs-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-goldoni-four-comedies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clifford bax",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-goldoni-the-liar": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace lovat fraser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-goldoni-on-playwriting": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. c. l. van steenderen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-alfieri-tragedies-lloyd-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-alfieri-tragedies-lloyd-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-alfieri-tragedies-lloyd-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-alfieri-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. edwards lester",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-sewall": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank sewall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-holland": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maud holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-arms": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. w. arms",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-bickersteth": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-tribe": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emily a. tribe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-carducci-rime-nuove": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laura fullerton gilbert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "itc-goldoni-memoirs-1": {
+   "ia": "memoirsgoldoniw00goldgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1761,
+    1787,
+    1814
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-goldoni-memoirs-2": {
+   "ia": "memoirsgoldoniw01goldgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-goldoni-four-comedies": {
+   "ia": "fourcomedies00golduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1707,
+    1753,
+    1793,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-goldoni-the-liar": {
+   "ia": "liarcomedyinthre00golduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1550,
+    1564,
+    1707,
+    1750,
+    1780,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-goldoni-on-playwriting": {
+   "ia": "goldonionplaywri00golduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1734,
+    1744,
+    1747,
+    1748,
+    1750,
+    1762
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-alfieri-tragedies-lloyd-1": {
+   "ia": "in.ernet.dli.2015.92938",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1786,
+    1787,
+    1788,
+    1789,
+    1813,
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-alfieri-tragedies-lloyd-2": {
+   "ia": "in.ernet.dli.2015.92939",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-alfieri-tragedies-lloyd-3": {
+   "ia": "in.ernet.dli.2015.92940",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-alfieri-autobiography": {
+   "ia": "autobiographyofv00alfi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1749,
+    1814,
+    1845,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-carducci-sewall": {
+   "ia": "poemsgiosucardu00cardgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1892
+   ],
+   "post_1930_years_in_front_15k": [
+    1984
+   ],
+   "post_1930_examined": "Examined in round 92: '1984' is a stray number among OCR noise below the 'Copyright, 1892, by Dodd, Mead & Company' line, not an imprint."
+  },
+  "itc-carducci-holland": {
+   "ia": "carduccipoems00cardrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1848,
+    1861,
+    1871,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-carducci-arms": {
+   "ia": "poemsofitalysele00cardrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1868,
+    1871,
+    1873,
+    1877,
+    1887,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-carducci-bickersteth": {
+   "ia": "selectionofhispo00carduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1907,
+    1908,
+    1909,
+    1910,
+    1911,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-carducci-tribe": {
+   "ia": "aselectionfromp00tribgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1529,
+    1835,
+    1838,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-carducci-rime-nuove": {
+   "ia": "rimenuoveofgiosu00card",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1857,
+    1860,
+    1901,
+    1907,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

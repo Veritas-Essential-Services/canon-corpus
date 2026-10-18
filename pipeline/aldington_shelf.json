@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Richard Aldington (1892-1962) as translator: Cyrano de Bergerac's Voyages to the Moon and the Sun (1923), Benda's The Great Betrayal (1928) and Sologub's The Little Demon (1916, with John Cournos), and the Letters of Voltaire and Frederick the Great (1927, round 55). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Richard Aldington (1892-1962) as translator: Cyrano de Bergerac's Voyages to the Moon and the Sun (1923), Benda's The Great Betrayal (1928) and Sologub's The Little Demon (1916, with John Cournos), and the Letters of Voltaire and Frederick the Great (1927, round 55). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. Round 92 gap-fill: Goldoni's The Good-Humoured Ladies (1922).",
  "_name_words": [
   "richard aldington"
  ],
@@ -26,6 +26,10 @@
   "aldington-voltaire-frederick": [
    "lettersofvoltair0000rich",
    "Letters of Voltaire and Frederick the Great (Routledge, Broadway Library, 1927)"
+  ],
+  "aldington-good-humoured-ladies": [
+   "goodhumouredladi00goldrich",
+   "The Good-Humoured Ladies: a Comedy (1922)"
   ]
  },
  "titles": {
@@ -61,6 +65,14 @@
    "translator": "Richard Aldington",
    "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington, 1927 (Internet Archive's date; the scan's own front matter carries no imprint year, and the Broadway Library was not reissued before the 1930s, checked only by the series list)",
    "note": "Raw OCR."
+  },
+  "aldington-goldoni-good-humoured-ladies": {
+   "source": "aldington-good-humoured-ladies",
+   "of": "Carlo Goldoni",
+   "work": "The Good-Humoured Ladies: a Comedy",
+   "translated": 1922,
+   "translator": "Richard Aldington",
+   "scan_edition": "C. W. Beaumont, London 1922, limited edition with an essay by Arthur Symons and decorations by Ethelbert White; University of California scan"
   }
  },
  "_pending": {
@@ -71,7 +83,7 @@
  "_checks": {
   "ald-48912": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
@@ -80,7 +92,7 @@
   },
   "ald-74000": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
@@ -89,7 +101,7 @@
   },
   "ald-78218": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
@@ -98,13 +110,24 @@
   },
   "aldington-voltaire-frederick": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
    "ia_rights": "ok: published 1927",
    "ia_date": "1927",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aldington-good-humoured-ladies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard aldington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
@@ -134,6 +157,19 @@
     1778,
     1789,
     1792
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aldington-good-humoured-ladies": {
+   "ia": "goodhumouredladi00goldrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1757,
+    1759,
+    1760,
+    1899,
+    1903,
+    1910
    ],
    "post_1930_years_in_front_15k": []
   }
