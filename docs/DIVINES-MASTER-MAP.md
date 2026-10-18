@@ -37597,6 +37597,34 @@ Shelf: `pipeline/edward-bellamy_shelf.json` (2026-10-17; added at the coordinato
 | The Cold Snap 1898 | have | PG 22715, `ebellamy-cold-snap-1898` (31 units) |
 | Looking Backward: 2000-1887 | have | PG 25439, `ebellamy-looking-backward` (932 units) |
 
+## Mary Johnston
+
+Shelf: `pipeline/mary-johnston_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| 1492 | have | PG 1692, `mjohnston-1492` (1609 units) |
+| To Have and to Hold | have | PG 2807, `mjohnston-to-have-and-to-hold` (1949 units) |
+| Pioneers of the Old South: A Chronicle of English Colonial Beginnings | have | PG 2898, `mjohnston-pioneers-of-the-old-south` (425 units) |
+| Sir Mortimer: A Novel | have | PG 13812, `mjohnston-sir-mortimer` (931 units) |
+| Audrey | have | PG 14513, `mjohnston-audrey` (1518 units) |
+| Lewis Rand | have | PG 14697, `mjohnston-lewis-rand` (2868 units) |
+| Foes | have | PG 16554, `mjohnston-foes` (2054 units) |
+| Prisoners of Hope: A Tale of Colonial Virginia | have | PG 21886, `mjohnston-prisoners-of-hope` (2223 units) |
+| The Long Roll | have | PG 22066, `mjohnston-long-roll` (4037 units) |
+| By order of the company | have | PG 45721, `mjohnston-by-order-of-the-company` (2006 units) |
+| The Old Dominion | have | PG 48258, `mjohnston-old-dominion` (2168 units) |
+| Hagar | have | PG 49772, `mjohnston-hagar` (1789 units) |
+| Silver Cross | have | PG 50557, `mjohnston-silver-cross` (1413 units) |
+| Cease firing | have | PG 52154, `mjohnston-cease-firing` (2652 units) |
+| The Witch | have | PG 53109, `mjohnston-witch` (1515 units) |
+| The Fortunes of Garin | have | PG 53394, `mjohnston-fortunes-of-garin` (1563 units) |
+| The Goddess of Reason: A Drama in Five Acts | have | PG 53817, `mjohnston-goddess-of-reason` (2363 units) |
+| Sweet Rocket | have | PG 56101, `mjohnston-sweet-rocket` (825 units) |
+| The Wanderers | have | PG 57496, `mjohnston-wanderers` (2304 units) |
+| Michael Forth | have | PG 79418, `mjohnston-michael-forth` (1714 units) |
+| The slave ship | have | PG 79439, `mjohnston-slave-ship` (1474 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

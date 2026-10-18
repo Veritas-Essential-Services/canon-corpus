@@ -1656,3 +1656,6 @@
 
 ## 2026-10-17 23:24 CDT — edward-bellamy: done
 - edward-bellamy: new shelf, 21 Gutenberg books, 7,920 units, 38 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — mary-johnston: done
+- mary-johnston: new shelf, 21 Gutenberg books, 39,400 units, 2182 ~2 ids; verify 0 mismatches, 0 rights flags.
