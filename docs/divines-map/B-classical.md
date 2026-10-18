@@ -6462,6 +6462,9 @@ Shelf: `pipeline/john-laird_shelf.json`. John Laird (1887-1946). Problems of the
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Problems of the Self (Macmillan, 1917) |  | `laird-problems-of-the-self-1917` | have-raw (IA `problemsofselfes00lairuoft`) |
+| A Study in Realism (Cambridge, 1920) |  | `laird-study-in-realism-1920` | have-raw (IA `cu31924029019664`) |
+| Knowledge, Belief and Opinion (Century, 1930) |  | `laird-knowledge-belief-opinion-1930` | have-raw (IA `knowledgebeliefo0000lair_a9u2`) |
 
 ## R. B. Haldane (Hegelian idealism)
 
