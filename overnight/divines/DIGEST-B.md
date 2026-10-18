@@ -240,3 +240,4 @@
 - 19:58 round av: 12 more political-economy shelves (George, Senior, Hobson, Clark, Veblen, Ely, Thornton, Sumner, Bastiat, Bohm-Bawerk, Marshall, Cairnes) and Bagehot, Jevons, Mill extended. frederic-bastiat holds only anonymous translations, beside lane C's stirling-bastiat; Adam may prefer one Bastiat shelf.
 - 20:01 round aw: Harriet Martineau (13 vols) and Halifax new; six British philosophy shelves extended from Gutenberg.
 - 20:04 round ax: 7 political-theory shelves (Austin, Bluntschli, Treitschke, Lassalle, Lieber, Calhoun, Mazzini). Filmer still unshelved: the only clean copy found (Morley's Routledge volume with Locke) prints no year; EEBO 1680 Patriarcha is the fallback.
+- 20:08 round ay: 9 shelves (Samuel Clarke, Balguy, Beattie, George Campbell, Blair, Gerard, Krause, Channing, Theodore Parker). Channing and Parker are Unitarian divines: lane A may prefer to own them; lane B took them as American philosophy.

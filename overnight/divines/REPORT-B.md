@@ -1105,3 +1105,8 @@
 - Held, no printed year: Filmer's Patriarcha with Locke's Two Treatises, ed. Morley (Routledge, n.d.); Lassalle's Open Letter (Cincinnati SLP); Mazzini's Duties of Man (Funk and Wagnalls)
 - Not taken: Gowans' Treitschke Selections (1914), a second translation
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:08 CDT — Round ay: British moralists, rhetoric, Unitarians
+- New shelves: samuel-clarke (Boyle Lectures 1719, Leibniz-Clarke Papers 1717), john-balguy (Foundation of Moral Goodness 1731), james-beattie (Essays 1776), george-campbell (Philosophy of Rhetoric 1885, Dissertation on Miracles 1762), hugh-blair (Lectures, ed. Mills 1857), alexander-gerard (Essay on Taste 1759), karl-krause (Ideal of Humanity, ed. Hastie 1900), william-ellery-channing (Works 1877), theodore-parker (Discourse 1842 + Speeches 1867, 3 vols)
+- Held: James Oswald, An Appeal to Common Sense in behalf of Religion (ECCO scans clean 0.76 and 0.66, under the gate); Balguy, A Letter to a Deist (no printed year)
+- Ids checked against heldidx and all branches: no collisions
