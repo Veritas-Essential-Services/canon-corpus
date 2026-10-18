@@ -1,5 +1,5 @@
 {
- "_about": "George Trumbull Ladd (1842-1921), raw IA OCR: Elements of Physiological Psychology (New York: Scribner, 1889 printing; copyright 1887), Philosophy of Mind, an essay in the metaphysics of psychology (Scribner, 1895) and Philosophy of Knowledge (Scribner, 1897). US public domain. No uids minted.",
+ "_about": "George Trumbull Ladd (1842-1921), raw IA OCR: Elements of Physiological Psychology (New York: Scribner, 1889 printing; copyright 1887), Philosophy of Mind, an essay in the metaphysics of psychology (Scribner, 1895) and Philosophy of Knowledge (Scribner, 1897). US public domain. Added in round cm from Internet Archive scans dated on their title pages or versos: Primer of Psychology (1895), A Theory of Reality (1899), Philosophy of Conduct (1902), The Philosophy of Religion (1905, 2 vols.), Knowledge, Life and Reality (1909), The Teacher's Practical Philosophy (1911), the four Kantian-question books What Can I Know? (1914), What Ought I to Do?, What Should I Believe? and What May I Hope? (1915), and The Secret of Personality (1918). Not taken: his scripture and church-polity books (theology, another lane's), his travel books on Japan, Korea and India, and his translations of Lotze (keyed by translator, another lane's). No uids minted.",
  "_author": "George Trumbull Ladd",
  "_name_words": [
   "george",
@@ -26,13 +26,61 @@
   "ladd-philosophy-of-knowledge-1897": [
    "philosophyofknow00ladd",
    "Philosophy of Knowledge (New York: Scribner, 1897)"
+  ],
+  "ladd-primer-of-psychology-1895": [
+   "primerofpsycholo00ladduoft",
+   "Primer of Psychology (New York: Scribner, 1895; copyright 1894)"
+  ],
+  "ladd-theory-of-reality-1899": [
+   "theoryofrealitye00ladd",
+   "A Theory of Reality: an essay in metaphysical system upon the basis of human cognitive experience (New York: Scribner, 1899)"
+  ],
+  "ladd-philosophy-of-conduct-1902": [
+   "philosophycondu01laddgoog",
+   "Philosophy of Conduct: a treatise of the facts, principles, and ideals of ethics (New York: Scribner, 1902)"
+  ],
+  "ladd-philosophy-of-religion-1-1905": [
+   "philosophyofreli00ladduoft",
+   "The Philosophy of Religion, vol. I (New York: Scribner, 1905)"
+  ],
+  "ladd-philosophy-of-religion-2-1905": [
+   "philosophyofreli02ladduoft",
+   "The Philosophy of Religion, vol. II (New York: Scribner, 1905)"
+  ],
+  "ladd-knowledge-life-reality-1909": [
+   "knowledgeliferea00lad",
+   "Knowledge, Life and Reality: an essay in systematic philosophy (New York: Dodd, Mead, 1909)"
+  ],
+  "ladd-teachers-practical-philosophy-1911": [
+   "teacherspractica00laddrich",
+   "The Teacher's Practical Philosophy (New York: Funk and Wagnalls, 1911)"
+  ],
+  "ladd-what-can-i-know-1914": [
+   "whatcaniknow00ladduoft",
+   "What Can I Know? (New York: Longmans, Green, 1914)"
+  ],
+  "ladd-what-ought-i-to-do-1915": [
+   "whatoughtitodoan00ladduoft",
+   "What Ought I to Do? (New York: Longmans, Green, 1915)"
+  ],
+  "ladd-what-should-i-believe-1915": [
+   "whatshouldibel00ladduoft",
+   "What Should I Believe? (New York: Longmans, Green, 1915)"
+  ],
+  "ladd-what-may-i-hope-1915": [
+   "whatmayihopeinqu00laddrich",
+   "What May I Hope? (New York: Longmans, Green, 1915)"
+  ],
+  "ladd-secret-of-personality-1918": [
+   "cu31924029345455",
+   "The Secret of Personality (New York: Longmans, Green, 1918)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "ladd-elements-of-physiological-psychology-1889": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ladd",
    "identity": "ok",
@@ -43,7 +91,7 @@
   },
   "ladd-philosophy-of-mind-1895": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ladd",
    "identity": "ok",
@@ -54,13 +102,145 @@
   },
   "ladd-philosophy-of-knowledge-1897": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ladd",
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ladd-primer-of-psychology-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-theory-of-reality-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ladd-philosophy-of-conduct-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-philosophy-of-religion-1-1905": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-philosophy-of-religion-2-1905": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-knowledge-life-reality-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ladd-teachers-practical-philosophy-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-what-can-i-know-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-what-ought-i-to-do-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-what-should-i-believe-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-what-may-i-hope-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-secret-of-personality-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

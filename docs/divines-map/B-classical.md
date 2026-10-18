@@ -4810,6 +4810,18 @@ Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Psychology, metaphysics, ethi
 | Elements of Physiological Psychology (New York: Scribner, 1889) |  | `ladd-elements-of-physiological-psychology-1889` | have-raw (IA `elementsofphysi00ladduoft`) |
 | Philosophy of Mind: an essay in the metaphysics of psychology (New York: Scribner, 1895) |  | `ladd-philosophy-of-mind-1895` | have-raw (IA `philosophyminda00laddgoog`) |
 | Philosophy of Knowledge (New York: Scribner, 1897) |  | `ladd-philosophy-of-knowledge-1897` | have-raw (IA `philosophyofknow00ladd`) |
+| Primer of Psychology (New York: Scribner, 1895; copyright 1894) |  | `ladd-primer-of-psychology-1895` | have-raw (IA `primerofpsycholo00ladduoft`) |
+| A Theory of Reality: an essay in metaphysical system upon the basis of human cognitive experience (New York: Scribner, 1899) |  | `ladd-theory-of-reality-1899` | have-raw (IA `theoryofrealitye00ladd`) |
+| Philosophy of Conduct: a treatise of the facts, principles, and ideals of ethics (New York: Scribner, 1902) |  | `ladd-philosophy-of-conduct-1902` | have-raw (IA `philosophycondu01laddgoog`) |
+| The Philosophy of Religion, vol. I (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-1-1905` | have-raw (IA `philosophyofreli00ladduoft`) |
+| The Philosophy of Religion, vol. II (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-2-1905` | have-raw (IA `philosophyofreli02ladduoft`) |
+| Knowledge, Life and Reality: an essay in systematic philosophy (New York: Dodd, Mead, 1909) |  | `ladd-knowledge-life-reality-1909` | have-raw (IA `knowledgeliferea00lad`) |
+| The Teacher's Practical Philosophy (New York: Funk and Wagnalls, 1911) |  | `ladd-teachers-practical-philosophy-1911` | have-raw (IA `teacherspractica00laddrich`) |
+| What Can I Know? (New York: Longmans, Green, 1914) |  | `ladd-what-can-i-know-1914` | have-raw (IA `whatcaniknow00ladduoft`) |
+| What Ought I to Do? (New York: Longmans, Green, 1915) |  | `ladd-what-ought-i-to-do-1915` | have-raw (IA `whatoughtitodoan00ladduoft`) |
+| What Should I Believe? (New York: Longmans, Green, 1915) |  | `ladd-what-should-i-believe-1915` | have-raw (IA `whatshouldibel00ladduoft`) |
+| What May I Hope? (New York: Longmans, Green, 1915) |  | `ladd-what-may-i-hope-1915` | have-raw (IA `whatmayihopeinqu00laddrich`) |
+| The Secret of Personality (New York: Longmans, Green, 1918) |  | `ladd-secret-of-personality-1918` | have-raw (IA `cu31924029345455`) |
 
 ## G. F. Stout
 
