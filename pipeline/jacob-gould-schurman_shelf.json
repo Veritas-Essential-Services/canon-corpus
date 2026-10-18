@@ -1,5 +1,5 @@
 {
- "_about": "Jacob Gould Schurman (1854-1942), philosopher, president of Cornell and founder of The Philosophical Review. Raw IA OCR: Kantian Ethics and the Ethics of Evolution, a critical study (London and Edinburgh: Williams and Norgate, 1881), clean 0.92; The Ethical Import of Darwinism (New York: Scribner's, 1888), clean 0.96. US public domain. No uids minted.",
+ "_about": "Jacob Gould Schurman (1854-1942), philosopher, president of Cornell and founder of The Philosophical Review. Raw IA OCR: Kantian Ethics and the Ethics of Evolution, a critical study (London and Edinburgh: Williams and Norgate, 1881), clean 0.92; The Ethical Import of Darwinism (New York: Scribner's, 1888), clean 0.96. US public domain. Added in round 2026-10-17bs: Belief in God, its origin, nature, and basis, Winkley Lectures (New York: Scribner's, 1890), clean 0.94; Agnosticism and Religion (New York: Scribner's, 1896), clean 0.95. No uids minted.",
  "_author": "Jacob Gould Schurman",
  "_name_words": [
   "jacob",
@@ -19,6 +19,14 @@
   "schurman-ethical-import-of-darwinism-1888": [
    "theethicalimport00schuuoft",
    "The Ethical Import of Darwinism (Scribner's, 1888)"
+  ],
+  "schurman-belief-in-god-1890": [
+   "beliefingoditsor00schuuoft",
+   "Belief in God: Its Origin, Nature, and Basis (Scribner's, 1890)"
+  ],
+  "schurman-agnosticism-and-religion-1896": [
+   "agnosticismandre00schuuoft",
+   "Agnosticism and Religion (Scribner's, 1896)"
   ]
  },
  "_excluded": {},
@@ -42,6 +50,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1888",
    "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schurman-belief-in-god-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schurman-agnosticism-and-religion-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

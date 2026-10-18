@@ -6580,6 +6580,8 @@ Shelf: `pipeline/jacob-gould-schurman_shelf.json`. Two early books.
 |---|---|---|---|
 | Kantian Ethics and the Ethics of Evolution (1881) |  | `schurman-kantian-ethics-1881` | have-raw (IA `cihm_62085`) |
 | The Ethical Import of Darwinism (Scribner's, 1888) |  | `schurman-ethical-import-of-darwinism-1888` | have-raw (IA `theethicalimport00schuuoft`) |
+| Belief in God: Its Origin, Nature, and Basis (Scribner's, 1890) |  | `schurman-belief-in-god-1890` | have-raw (IA `beliefingoditsor00schuuoft`) |
+| Agnosticism and Religion (Scribner's, 1896) |  | `schurman-agnosticism-and-religion-1896` | have-raw (IA `agnosticismandre00schuuoft`) |
 
 ## James Seth (Edinburgh ethics)
 
