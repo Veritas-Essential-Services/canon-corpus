@@ -357,6 +357,10 @@
   "hgwells-way-the-world-is-going": [
    77242,
    "The way the world is going"
+  ],
+  "hgwells-war-and-the-future": [
+   1804,
+   "War and the Future: Italy, France and Britain at War"
   ]
  },
  "internet_archive": {},
@@ -988,6 +992,15 @@
    "pg_translator": null
   },
   "hgwells-way-the-world-is-going": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-war-and-the-future": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
