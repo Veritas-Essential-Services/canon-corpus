@@ -4043,7 +4043,7 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 
 ## Josiah Royce
 
-Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
+Shelf: `pipeline/josiah-royce_shelf.json`. Eighteen volumes, 1885-1920.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
@@ -4055,6 +4055,16 @@ Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
 | The Philosophy of Loyalty (New York: Macmillan, 1908) |  | `royce-philosophy-of-loyalty-1908` | have-raw (IA `philosophyloyal00roycuoft`) |
 | The Problem of Christianity, vol. I: the Christian doctrine of life (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v1` | have-raw (IA `problemofchris01roycuoft`) |
 | The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v2` | have-raw (IA `theproblemofchri02roycuoft`) |
+| The Conception of God, a philosophical discussion, with Joseph LeConte, G. H. Howison and Sidney Edward Mezes (Macmillan, 1897) |  | `royce-conception-of-god-1897` | have-raw (IA `cu31924029373028`) |
+| Studies of Good and Evil (Appleton, 1898) |  | `royce-studies-of-good-and-evil-1898` | have-raw (IA `studiesofgoodevi00royc`) |
+| The Conception of Immortality, Ingersoll lecture 1899 (Houghton Mifflin, 1900) |  | `royce-conception-of-immortality-1900` | have-raw (IA `conceptionofimmo0000josi_v9o7`) |
+| Outlines of Psychology (Macmillan, 1903; printing of 1906) |  | `royce-outlines-of-psychology-1903` | have-raw (IA `outlinespsychol04roycgoog`) |
+| Race Questions, Provincialism, and Other American Problems (Macmillan, 1908) |  | `royce-race-questions-1908` | have-raw (IA `racequestionspro00roycuoft`) |
+| William James and Other Essays on the Philosophy of Life (Macmillan, 1911) |  | `royce-william-james-and-other-essays-1911` | have-raw (IA `williamjamesothe00royc`) |
+| War and Insurance (Macmillan, 1914) |  | `royce-war-and-insurance-1914` | have-raw (IA `cu31924030239184`) |
+| The Hope of the Great Community (Macmillan, 1916) |  | `royce-hope-of-the-great-community-1916` | have-raw (IA `hopeofgreatcommu00royc`) |
+| Lectures on Modern Idealism, ed. J. Loewenberg (Yale University Press, 1919) |  | `royce-lectures-on-modern-idealism-1919` | have-raw (IA `lecturesonmodern00roy`) |
+| Fugitive Essays, ed. J. Loewenberg (Harvard University Press, 1920) |  | `royce-fugitive-essays-1920` | have-raw (IA `fugitiveessays00loewgoog`) |
 
 ## Charles S. Peirce
 
@@ -4430,7 +4440,7 @@ Shelf: `pipeline/g-e-moore_shelf.json`. Principia Ethica (1903, 1922 reprint) an
 
 ## Alfred North Whitehead
 
-Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from Gutenberg.
+Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Nine works, 1917-1929: four from Gutenberg, five from dated IA scans.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -4443,7 +4453,7 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from
 | An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
 | The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
 
-Pending (wishlist): An Introduction to Mathematics (1911) in a dated printing
+Pending (wishlist): An Introduction to Mathematics (1911) and The Aims of Education (1929) in dated printings; A Treatise on Universal Algebra (1898) in a cleaner scan.
 
 ## William Whewell
 

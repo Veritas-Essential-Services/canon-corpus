@@ -1,5 +1,5 @@
 {
- "_about": "Josiah Royce (1855-1916), the American idealist: from Project Gutenberg, The Sources of Religious Insight (Bross Lectures; Scribner, 1912); and in raw IA OCR, The Religious Aspect of Philosophy (Houghton, Mifflin; copyright 1885), The Spirit of Modern Philosophy (copyright 1892), The World and the Individual (Gifford Lectures; Macmillan, 1900-1901, 2 vols.), The Philosophy of Loyalty (1908) and The Problem of Christianity (1913, 2 vols.). US public domain. No uids minted.",
+ "_about": "Josiah Royce (1855-1916), the American idealist: from Project Gutenberg, The Sources of Religious Insight (Bross Lectures; Scribner, 1912); and in raw IA OCR, The Religious Aspect of Philosophy (Houghton, Mifflin; copyright 1885), The Spirit of Modern Philosophy (copyright 1892), The World and the Individual (Gifford Lectures; Macmillan, 1900-1901, 2 vols.), The Philosophy of Loyalty (1908) and The Problem of Christianity (1913, 2 vols.). US public domain. Added in round 2026-10-18cj, raw IA OCR with title page years read: The Conception of God, his address with the replies of Joseph LeConte, G. H. Howison and Sidney Edward Mezes (Macmillan, 1897); Studies of Good and Evil (Appleton, 1898); The Conception of Immortality (Houghton Mifflin, Riverside Press, 1900); Outlines of Psychology (Macmillan, 1903, this printing 1906); Race Questions, Provincialism, and Other American Problems (1908); William James and Other Essays on the Philosophy of Life (1911); War and Insurance (1914); The Hope of the Great Community (1916); Lectures on Modern Idealism (Yale, 1919) and Fugitive Essays (Harvard, 1920), both edited by J. Loewenberg. No uids minted.",
  "_author": "Josiah Royce",
  "_name_words": [
   "josiah",
@@ -43,13 +43,53 @@
   "royce-problem-of-christianity-1913-v2": [
    "theproblemofchri02roycuoft",
    "The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913)"
+  ],
+  "royce-conception-of-god-1897": [
+   "cu31924029373028",
+   "The Conception of God, a philosophical discussion, with Joseph LeConte, G. H. Howison and Sidney Edward Mezes (Macmillan, 1897)"
+  ],
+  "royce-studies-of-good-and-evil-1898": [
+   "studiesofgoodevi00royc",
+   "Studies of Good and Evil (Appleton, 1898)"
+  ],
+  "royce-conception-of-immortality-1900": [
+   "conceptionofimmo0000josi_v9o7",
+   "The Conception of Immortality, Ingersoll lecture 1899 (Houghton Mifflin, 1900)"
+  ],
+  "royce-outlines-of-psychology-1903": [
+   "outlinespsychol04roycgoog",
+   "Outlines of Psychology (Macmillan, 1903; printing of 1906)"
+  ],
+  "royce-race-questions-1908": [
+   "racequestionspro00roycuoft",
+   "Race Questions, Provincialism, and Other American Problems (Macmillan, 1908)"
+  ],
+  "royce-william-james-and-other-essays-1911": [
+   "williamjamesothe00royc",
+   "William James and Other Essays on the Philosophy of Life (Macmillan, 1911)"
+  ],
+  "royce-war-and-insurance-1914": [
+   "cu31924030239184",
+   "War and Insurance (Macmillan, 1914)"
+  ],
+  "royce-hope-of-the-great-community-1916": [
+   "hopeofgreatcommu00royc",
+   "The Hope of the Great Community (Macmillan, 1916)"
+  ],
+  "royce-lectures-on-modern-idealism-1919": [
+   "lecturesonmodern00roy",
+   "Lectures on Modern Idealism, ed. J. Loewenberg (Yale University Press, 1919)"
+  ],
+  "royce-fugitive-essays-1920": [
+   "fugitiveessays00loewgoog",
+   "Fugitive Essays, ed. J. Loewenberg (Harvard University Press, 1920)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "royce-sources-of-religious-insight-1912": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -58,7 +98,7 @@
   },
   "royce-religious-aspect-of-philosophy-1885": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -69,7 +109,7 @@
   },
   "royce-spirit-of-modern-philosophy-1892": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -80,7 +120,7 @@
   },
   "royce-world-and-individual-1900-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -91,7 +131,7 @@
   },
   "royce-world-and-individual-1901-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -102,7 +142,7 @@
   },
   "royce-philosophy-of-loyalty-1908": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -113,7 +153,7 @@
   },
   "royce-problem-of-christianity-1913-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
@@ -124,12 +164,122 @@
   },
   "royce-problem-of-christianity-1913-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "royce",
    "identity": "ok",
    "ia_rights": "ok: published 1913",
    "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-conception-of-god-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-studies-of-good-and-evil-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-conception-of-immortality-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-outlines-of-psychology-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-race-questions-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-william-james-and-other-essays-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "Copyright status reviewed by UF staff - Out of copyright.",
+   "ia_lending": null
+  },
+  "royce-war-and-insurance-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-hope-of-the-great-community-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-lectures-on-modern-idealism-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "royce-fugitive-essays-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
