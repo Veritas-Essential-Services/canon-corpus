@@ -1,0 +1,193 @@
+{
+ "_about": "SHELF of medieval Hebrew and Judeo-Arabic classics in English before 1931: Hartwig Hirschfeld's Kitab al Khazari of Judah Halevi (1905), Israel Zangwill's Selected Religious Poems of Solomon ibn Gabirol (1923), and Nina Salaman's Selected Poems of Jehudah Halevi (1924) and Songs of Exile (1901, as Nina Davis). Rodkinson's Talmud, Gorfinkle's Pirke Avot and Ginzberg's Legends of the Jews are on their own shelves; Maimonides's Guide and Bahya's Duties of the Heart are on others. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 87); Adam may veto. No uids minted.",
+ "_name_words": [
+  "hartwig hirschfeld",
+  "hirschfeld",
+  "israel zangwill",
+  "nina davis",
+  "nina salaman",
+  "salaman",
+  "zangwill"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'davis' is left out as a common surname.",
+ "_surname": [
+  "hartwig hirschfeld",
+  "hirschfeld",
+  "israel zangwill",
+  "nina davis",
+  "nina salaman",
+  "salaman",
+  "zangwill"
+ ],
+ "_surname_by_slug": {
+  "heb-kuzari": [
+   "hirschfeld",
+   "hartwig hirschfeld"
+  ],
+  "heb-ibn-gabirol": [
+   "zangwill",
+   "israel zangwill"
+  ],
+  "heb-jehudah-halevi": [
+   "salaman",
+   "nina salaman"
+  ],
+  "heb-songs-of-exile": [
+   "nina davis",
+   "salaman"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heb-kuzari": [
+   "judahhalleviskit00judauoft",
+   "Judah Hallevi's Kitab al Khazari, translated from the Arabic (1905)",
+   "judahhalleviskit00judauoft_djvu.txt"
+  ],
+  "heb-ibn-gabirol": [
+   "selectedreligiou0000isra",
+   "Selected Religious Poems of Solomon ibn Gabirol, translated into English verse (1923)",
+   "selectedreligiou0000isra_djvu.txt"
+  ],
+  "heb-jehudah-halevi": [
+   "jehudahhalevi0000nina",
+   "Selected Poems of Jehudah Halevi, translated into English (1924)",
+   "jehudahhalevi0000nina_djvu.txt"
+  ],
+  "heb-songs-of-exile": [
+   "songsofexilebyhe00salaiala",
+   "Songs of Exile by Hebrew Poets (1901)",
+   "songsofexilebyhe00salaiala_djvu.txt"
+  ]
+ },
+ "titles": {
+  "hebrew-classics-kuzari": {
+   "source": "heb-kuzari",
+   "of": "Judah Halevi",
+   "work": "Judah Hallevi's Kitab al Khazari, translated from the Arabic",
+   "translated": 1905,
+   "translator": "Hartwig Hirschfeld",
+   "scan_edition": "George Routledge, London, and E. P. Dutton, New York, 1905; University of Toronto scan"
+  },
+  "hebrew-classics-ibn-gabirol": {
+   "source": "heb-ibn-gabirol",
+   "of": "Solomon ibn Gabirol",
+   "work": "Selected Religious Poems of Solomon ibn Gabirol, translated into English verse",
+   "translated": 1923,
+   "translator": "Israel Zangwill",
+   "scan_edition": "Jewish Publication Society of America, Philadelphia 1923 (copyright 1923), with the Hebrew text edited by Israel Davidson; archive.org scan"
+  },
+  "hebrew-classics-jehudah-halevi": {
+   "source": "heb-jehudah-halevi",
+   "of": "Judah Halevi",
+   "work": "Selected Poems of Jehudah Halevi, translated into English",
+   "translated": 1924,
+   "translator": "Nina Salaman",
+   "scan_edition": "Jewish Publication Society of America, Philadelphia, copyright 1924, second impression 1928, with the Hebrew text edited by Heinrich Brody; archive.org scan digitised 2022",
+   "note": "A third impression of 1942 (selectedpoemsofj0000nina) was not used."
+  },
+  "hebrew-classics-songs-of-exile": {
+   "source": "heb-songs-of-exile",
+   "of": "Medieval Hebrew poets (Judah Halevi, ibn Gabirol and others)",
+   "work": "Songs of Exile by Hebrew Poets",
+   "translated": 1901,
+   "translator": "Nina Davis (Nina Salaman)",
+   "scan_edition": "Jewish Publication Society of America, Philadelphia 1901; archive.org scan",
+   "note": "Published under her maiden name, Nina Davis."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "gabirol-1974": "solomonibngabiro0000unse is a 1974 reprint of Zangwill's Ibn Gabirol; the 1923 printing is used.",
+  "halevi-1942": "selectedpoemsofj0000nina is the 1942 third impression of Salaman's Halevi; the 1928 second impression is used."
+ },
+ "_checks": {
+  "heb-kuzari": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hirschfeld",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heb-ibn-gabirol": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zangwill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heb-jehudah-halevi": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "salaman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heb-songs-of-exile": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nina davis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "heb-kuzari": {
+   "ia": "judahhalleviskit00judauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "heb-ibn-gabirol": {
+   "ia": "selectedreligiou0000isra",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "heb-jehudah-halevi": {
+   "ia": "jehudahhalevi0000nina",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1923,
+    1924,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    1999
+   ],
+   "post_1930_examined": "Examined: '1999' is OCR of a contents line ('On the Way from Egypt to Zion 199...'), a page number, not a date. Imprint: copyright 1924, second impression 1928."
+  },
+  "heb-songs-of-exile": {
+   "ia": "songsofexilebyhe00salaiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

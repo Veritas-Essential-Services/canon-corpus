@@ -19006,6 +19006,20 @@ Round 86 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | rodkinson-history-of-the-talmud: Vols XIX-XX of the 1918 set (neweditionofbaby191819rodk, neweditionofbaby191820rodk) are Rodkinson's own History of the Talmud, not a translation. | — | — | excluded | — |
 | — | — | rodkinson-first-edition: The 1896-1903 first edition is also on archive.org in scattered volumes from several libraries; the complete, uniform 1918 set was used instead. | — | — | excluded | — |
 
+## Shelf: medieval Hebrew and Judeo-Arabic classics in English before 1931: Hirschfeld's Kuzari of Judah Halevi, Zangwill's Ibn Gabirol, Nina Salaman's Jehudah Halevi and Songs of Exile
+
+Shelf: `pipeline/hebrew-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hebrew-classics` · titles `python3 pipeline/split_shelf_titles.py hebrew-classics`.
+Round 87 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hebrew-classics-kuzari` | Judah Halevi | Judah Hallevi's Kitab al Khazari, translated from the Arabic | Hartwig Hirschfeld | 1905 | have-raw | IA `judahhalleviskit00judauoft` |
+| `hebrew-classics-ibn-gabirol` | Solomon ibn Gabirol | Selected Religious Poems of Solomon ibn Gabirol, translated into English verse | Israel Zangwill | 1923 | have-raw | IA `selectedreligiou0000isra` |
+| `hebrew-classics-jehudah-halevi` | Judah Halevi | Selected Poems of Jehudah Halevi, translated into English | Nina Salaman | 1924 | have-raw | IA `jehudahhalevi0000nina` |
+| `hebrew-classics-songs-of-exile` | Medieval Hebrew poets (Judah Halevi, ibn Gabirol and others) | Songs of Exile by Hebrew Poets | Nina Davis (Nina Salaman) | 1901 | have-raw | IA `songsofexilebyhe00salaiala` |
+| — | — | gabirol-1974: solomonibngabiro0000unse is a 1974 reprint of Zangwill's Ibn Gabirol; the 1923 printing is used. | — | — | excluded | — |
+| — | — | halevi-1942: selectedpoemsofj0000nina is the 1942 third impression of Salaman's Halevi; the 1928 second impression is used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
