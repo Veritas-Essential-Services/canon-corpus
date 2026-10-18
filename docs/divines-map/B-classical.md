@@ -4456,6 +4456,10 @@ Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839, G
 |---|---|---|---|
 | First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
 | Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847) |  | `de-morgan-formal-logic-1847` | have-raw (IA `formallogicorthe00demouoft`) |
+| An Essay on Probabilities, and on their Application to Life Contingencies and Insurance Offices (Longman, 1838) |  | `de-morgan-essay-on-probabilities-1838` | have-raw (IA `essayonprobabili00demorich`) |
+| Syllabus of a Proposed System of Logic (Walton and Maberly, 1860) |  | `de-morgan-syllabus-of-logic-1860` | have-raw (IA `syllabusofpropos00demoiala`) |
+| A Budget of Paradoxes, ed. Sophia De Morgan (Longmans, Green, 1872) |  | `de-morgan-budget-of-paradoxes-1872` | have-raw (IA `budgetofparadoxe00demouoft`) |
+| On the Study and Difficulties of Mathematics (Open Court, 1898; this copy 1902) |  | `de-morgan-study-difficulties-mathematics-1898` | have-raw (IA `cu31924001162480`) |
 
 ## W. Stanley Jevons
 

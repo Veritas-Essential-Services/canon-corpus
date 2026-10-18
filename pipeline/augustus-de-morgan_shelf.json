@@ -1,5 +1,5 @@
 {
- "_about": "Augustus De Morgan (1806-1871), First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839), from Project Gutenberg, and Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847), raw IA OCR. US public domain. Not to be confused with the de-morgan shelf (Mary De Morgan's fairy tales). No uids minted.",
+ "_about": "Augustus De Morgan (1806-1871), First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839), from Project Gutenberg, and Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847), raw IA OCR. US public domain. Not to be confused with the de-morgan shelf (Mary De Morgan's fairy tales). Added in round 2026-10-17bd, raw IA OCR: An Essay on Probabilities, Lardner's Cabinet Cyclopaedia (London: Longman, 1838), clean 0.84; Syllabus of a Proposed System of Logic (London: Walton and Maberly, 1860), clean 0.88; A Budget of Paradoxes, edited by Sophia De Morgan (London: Longmans, Green, 1872), clean 0.90; On the Study and Difficulties of Mathematics (Chicago: Open Court, 1898; this copy the 1902 printing), clean 0.83. Not taken: the Gutenberg Budget of Paradoxes (PG 23100, 26408), which follows the 1954 Dover republication with a new introduction. No uids minted.",
  "_author": "Augustus De Morgan",
  "_name_words": [
   "augustus",
@@ -22,13 +22,29 @@
   "de-morgan-formal-logic-1847": [
    "formallogicorthe00demouoft",
    "Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847)"
+  ],
+  "de-morgan-essay-on-probabilities-1838": [
+   "essayonprobabili00demorich",
+   "An Essay on Probabilities, and on their Application to Life Contingencies and Insurance Offices (Longman, 1838)"
+  ],
+  "de-morgan-syllabus-of-logic-1860": [
+   "syllabusofpropos00demoiala",
+   "Syllabus of a Proposed System of Logic (Walton and Maberly, 1860)"
+  ],
+  "de-morgan-budget-of-paradoxes-1872": [
+   "budgetofparadoxe00demouoft",
+   "A Budget of Paradoxes, ed. Sophia De Morgan (Longmans, Green, 1872)"
+  ],
+  "de-morgan-study-difficulties-mathematics-1898": [
+   "cu31924001162480",
+   "On the Study and Difficulties of Mathematics (Open Court, 1898; this copy 1902)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "de-morgan-first-notions-of-logic-1839": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "de morgan",
    "identity": "ok",
@@ -37,13 +53,57 @@
   },
   "de-morgan-formal-logic-1847": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "de morgan",
    "identity": "ok",
    "ia_rights": "ok: published 1847",
    "ia_date": "1847",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-morgan-essay-on-probabilities-1838": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-morgan-syllabus-of-logic-1860": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-morgan-budget-of-paradoxes-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-morgan-study-difficulties-mathematics-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
