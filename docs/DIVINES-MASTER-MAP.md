@@ -6737,6 +6737,23 @@ Slugs `emmerich-*`. Her visions as written down by Clemens Brentano, in English.
 | PG 10866 (Benziger 20th edition, 1904) and CCEL emmerich/passion (Burns and Lambert; sacred-texts notice says non-commercial) | alternate | not shelved |
 | Palairet's Life of the Blessed Virgin (1954) and TAN reprints | excluded | |
 | Ram's and Schmöger's Lives of her | excluded | |
+
+## Henri Didon (round 30, my pick, 2026-10-18)
+
+Slugs `didon-*`. Dominican: Jesus Christ and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Germans, tr. Raphael Ledos de Beaufort (Edinburgh and London: William Blackwood, MDCCCLXXXIV) | have-ocr | IA `germans00dido` |
+| Science without God, tr. Rosa Corder (New York: Thomas Whittaker; no year on the title page) | have-ocr | IA `sciencewithoutgo00dido` |
+| Jesus Christ: Our Saviour's Person, Mission, and Spirit, vol. I, ed. Bernard O'Reilly (New York: D. Appleton; copyright 1891) | have-ocr | IA `jesuschristoursa00dido` |
+| Jesus Christ: Our Saviour's Person, Mission, and Spirit, vol. II, ed. Bernard O'Reilly (New York: D. Appleton; copyright 1891) | have-ocr | IA `savioursperson02didouoft` |
+| Belief in the Divinity of Jesus Christ (London: Kegan Paul, Trench, Trübner; no year on the title page) | have-ocr | IA `beliefinthedivin00didouoft` |
+| The Spiritual Letters of Père Didon, tr. Arthur G. Nash (London: Kegan Paul, 1906) | have-ocr | IA `spiritualletters00didouoft` |
+| Jesus Christ, London: Kegan Paul (vol. I 1893, vol. II undated) | alternate | not shelved |
+| Other Appleton copies; the one-volume sixth edition (undated) | alternate | not shelved |
+| French editions, including PG 13284 | excluded | |
+| French lives of him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

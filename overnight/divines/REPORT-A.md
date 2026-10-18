@@ -1405,3 +1405,6 @@
 
 ## 2026-10-17 20:26 CDT — anne-catherine-emmerich done
 - `pipeline/anne-catherine-emmerich_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — henri-didon done
+- `pipeline/henri-didon_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
