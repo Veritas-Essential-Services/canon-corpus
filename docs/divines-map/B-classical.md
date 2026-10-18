@@ -6418,6 +6418,7 @@ Shelf: `pipeline/t-e-hulme_shelf.json`. T. E. Hulme (1883-1917). Speculations, e
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Speculations, ed. Herbert Read (Kegan Paul, 1924) |  | `hulme-speculations-1924` | have-raw (IA `speculationsessa0000teed`) |
 
 ## H. Wildon Carr (philosophy of change, monads)
 
