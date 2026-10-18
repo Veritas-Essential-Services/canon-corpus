@@ -9080,3 +9080,17 @@ Slugs `bona-*`. Built from title pages read for round 37.
 | The Easy Way to God: A Manual of Ejaculatory Prayer, tr. Henry Collins (London: R. Washbourne, 1876) | have-ocr | IA `easywaytogodtrb00bonagoog` |
 | A Moral Essay upon Friendship (1702, translator not named); Methuen's Guide to Eternity with Stanbridge's notes (title page year not read); later printings of the Guide to Eternity (1680-1722, not read) | alternate | not shelved |
 | A Treatise of Spiritual Life (1893, 1901): the title page shows it is Morozzo's, not Bona's | excluded | |
+
+## Nicolas Caussin (round 37, my pick, 2026-10-18)
+
+Slugs `caussin-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Holy Court in Three Tomes, tr. Sir T. H. (John Cousturier, M.DC.XXXIIII) | have-ocr | IA `bim_early-english-books-1475-1640_the-holy-court-tr-t-h_caussin-nicolas_1634` |
+| The Holy Court: The Command of Reason over the Passions, tr. Sir T. H. (M.DC.XXXVIII) | have-ocr | IA `bim_early-english-books-1475-1640_the-holy-court-the-comm_caussin-nicolas_1638` |
+| The Holy Court in Five Tomes, the third edition, tr. Sir T. H. and others (London: for John Williams, MDCLXIII) | have-ocr | IA `bim_early-english-books-1641-1700_the-holy-court_caussin-nicholas_1663` |
+| The Christian Diary (Cambridge: R. Daniel, 1648) | have-ocr | IA `bim_early-english-books-1641-1700_the-christian-diary_caussin-nicolas_1648` |
+| Entertainments for Lent, by Sir Basil Brook (Liverpool: John Sadler, M.DCC.LV) | have-ocr | IA `bim_eighteenth-century_entertainments-for-lent-_caussin-nicolas_1755` |
+| The Holy Court 1626 (title page illegible) and 1664; The Christian Diary 1652; The Christian Diurnal 1686; Entertainments for Lent 1661; The Unfortunate Politique 1653 (translators not legible) | alternate | not shelved |
+| The Holy History (1653): the title page shows it is Nicolas Talon's; a modern machine translation of De Eloquentia catalogued 1627 | excluded | |
