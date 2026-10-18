@@ -7312,6 +7312,28 @@ Slugs `wward-*`. Built from title pages read for round 32.
 | Men and Matters (London: Longmans, Green, 1914) | have-ocr | IA `menmatters00warduoft` |
 | Later impressions of the Newman and Wiseman lives; Last Lectures (1918); The Clothes of Religion; The Oxford Movement (People's Books) | alternate | not shelved |
 | Mrs. Wilfrid Ward's novels; W. G. Ward's Philosophy of Theism and Newman's works, which he only edited | excluded | |
+
+## Désiré-Joseph Mercier (round 32, my pick, 2026-10-18)
+
+Slugs `mercier-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| A Manual of Modern Scholastic Philosophy, vol. I, tr. T. L. Parker and S. A. Parker (London: Kegan Paul; St. Louis: B. Herder, 1916) | have-ocr | IA `amanualofmoderns01mercuoft` |
+| A Manual of Modern Scholastic Philosophy, vol. II, tr. T. L. Parker and S. A. Parker (London: Kegan Paul; St. Louis: B. Herder, 1917) | have-ocr | IA `amanualofmoderns02mercuoft` |
+| Cardinal Mercier's Conferences delivered to his Seminarists at Mechlin in 1907, tr. J. M. O'Kavanagh (London: R. & T. Washbourne, 1910) | have-ocr | IA `cardinalmerciers00mercuoft` |
+| Cardinal Mercier's Retreat to his Priests, tr. J. M. O'Kavanagh (Bruges: Ch. Beyaert, 1912) | have-ocr | IA `cardinalmerc00mercuoft` |
+| Cardinal Mercier: Pastorals, Letters, Allocutions 1914-1917, sketch by Joseph F. Stillemans (New York: P. J. Kenedy & Sons, 1917) | have-ocr | IA `cardinalmercier00mercuoft` |
+| The Origins of Contemporary Psychology, tr. W. H. Mitchell (New York: P. J. Kenedy & Sons, 1918) | have-ocr | IA `originsofcontemp00mercuoft` |
+| The Relation of Experimental Psychology to Philosophy, tr. Edmund J. Wirth (New York, Cincinnati, Chicago: Benziger Brothers, 1902) | have-ocr | IA `relationofexperi00merc` |
+| Modernism, tr. Marian Lindsay (London: Burns and Oates, 1910) | have-ocr | IA `modernism00mercuoft` |
+| Elements of Logic, third edition, tr. Ewan Macpherson (New York: Manhattanville Press, 1912) | have-ocr | IA `elementsoflogic00merc` |
+| Pastoral Letter, Christmas 1914 (Patriotism and Endurance), official translation (London: Burns & Oates; title page undated) | have-ocr | IA `pastoralletterof00mercrich` |
+| A Shepherd among Wolves: War-Time Letters, selected by Arthur Boutwood (London: The Faith Press; title page undated, catalogued 1919) | have-ocr | IA `shepherdamongwol00mercrich` |
+| Cardinal Mercier's Own Story, introduction by Fernand Mayence (New York: George H. Doran; title page undated, copyright 1920) | have-ocr | IA `cardinalmerciers01merc` |
+| Other copies of the Manual, Conferences, Pastorals and Origins; An Appeal to Truth (with the Belgian bishops) | alternate | not shelved |
+| 1921-1938 reprints of the Manual | excluded | |
+| French editions; Tyrrell's Medievalism, a reply to him; the Belgian bishops' collective reports | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

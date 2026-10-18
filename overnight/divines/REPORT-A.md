@@ -1525,3 +1525,6 @@
 
 ## 2026-10-17 21:17 CDT — wilfrid-ward done
 - `pipeline/wilfrid-ward_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — desire-joseph-mercier done
+- `pipeline/desire-joseph-mercier_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for mercier-experimental-psychology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
