@@ -5108,6 +5108,7 @@ Shelf: `pipeline/george-sylvester-morris_shelf.json`. Hegelian idealism in Ameri
 | British Thought and Thinkers (Chicago: S. C. Griggs, 1880) |  | `morris-british-thought-and-thinkers-1880` | have-raw (IA `britishthought00morruoft`) |
 | Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882) |  | `morris-kants-critique-exposition-1882` | have-raw (IA `kantscritiqueofp00morr`) |
 | Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883) |  | `morris-philosophy-and-christianity-1883` | have-raw (IA `philosophychrist00morr`) |
+| Hegel's Philosophy of the State and of History: an exposition, Griggs's German Philosophical Classics (Chicago: S. C. Griggs, 1887) |  | `morris-hegels-philosophy-of-the-state-1887` | have-raw (IA `hegelsphilosophy00morruoft`) |
 
 ## Lucien Lévy-Bruhl
 
