@@ -4005,6 +4005,8 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 | Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922) |  | `santayana-soliloquies-in-england-1922` | have (PG 48429) |
 | Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
 
+Pending (wishlist): The Realm of Essence (1927) and The Realm of Matter (1930); Platonism and the Spiritual Life (1927)
+
 ## Josiah Royce
 
 Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
@@ -4395,7 +4397,7 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from
 | Science and the Modern World (New York: Macmillan, 1925) |  | `whitehead-science-and-the-modern-world-1925` | have (PG 68611) |
 | Symbolism, its Meaning and Effect (New York: Macmillan, 1927) |  | `whitehead-symbolism-1927` | have (PG 78977) |
 
-Pending (wishlist): An Introduction to Mathematics, Principles of Natural Knowledge, Process and Reality (1929): no plain-text PG file, or not on PG
+Pending (wishlist): An Introduction to Mathematics (1911) in a dated printing
 
 ## William Whewell
 
@@ -5919,6 +5921,24 @@ Shelf: `pipeline/theodore-parker_shelf.json`. The 1842 Discourse and the 1867 Sp
 | A Discourse of Matters Pertaining to Religion (Boston: Little and Brown, 1842) |  | `parker-discourse-religion-1842` | have-raw (IA `discourseofmatt00park`) |
 
 Pending (wishlist): The Centenary Edition of his Works (1907-13), pre-1931
+
+## Ernst Mach (philosophy of science)
+
+Shelf: `pipeline/ernst-mach_shelf.json`. Williams' and Jourdain's translations; McCormack's are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Contributions to the Analysis of the Sensations, tr. C. M. Williams (Open Court, 1897) | Williams | `mach-analysis-of-sensations-williams-1897` | have-raw (IA `contributionstoa00mach`) |
+| History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911) | Jourdain | `mach-conservation-of-energy-jourdain-1911` | have-raw (IA `historyrootofpri00mach`) |
+
+Pending (wishlist): The Analysis of Sensations, enlarged English edition (tr. Williams and Waterlow, 1914)
+
+## Hans Driesch (vitalism)
+
+Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and two 1914 books. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
