@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain Augustine Francis Hewit (1820-1897, Paulist, second Superior General of the Paulists) for the Word Hoard: Problems of the Age (1868), the Life of Francis A. Baker (fifth edition, 1868), Light in Darkness (1871), The King's Highway (1874) and The Teaching of St. John the Apostle (1895), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hewit"
+ ],
+ "_surname": [
+  "hewit",
+  "augustine f. hewit",
+  "a. f. hewit"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hewit-problems-of-age": [
+   "problemsofage00hewiuoft",
+   "Problems of the Age, with Studies in St. Augustine on Kindred Topics (New York: The Catholic Publication House, 1868)"
+  ],
+  "hewit-life-francis-baker": [
+   "lifeofrevfrancis00hewi",
+   "Life of the Rev. Francis A. Baker, fifth edition (New York: The Catholic Publication House, 1868)"
+  ],
+  "hewit-light-in-darkness": [
+   "lightindarknesst00hewi",
+   "Light in Darkness: a Treatise on the Obscure Night of the Soul (New York: The Catholic Publication Society, 1871)"
+  ],
+  "hewit-kings-highway": [
+   "kingshighwayorca00hewi",
+   "The King's Highway; or, the Catholic Church the Way of Salvation (New York: The Catholic Publication Society, 1874)"
+  ],
+  "hewit-teaching-st-john": [
+   "teachingofstjohn00hewi",
+   "The Teaching of St. John the Apostle to the Churches of Asia and the World (New York: The Catholic Book Exchange, 1895)"
+  ]
+ },
+ "_alternates": {
+  "hewit-copies": "The 1889 seventh edition of the Baker memoir; the 1893 reissues of Problems and The King's Highway"
+ },
+ "_excluded": {
+  "hewit-others": "Huntington's Gropings after Truth; his translation of a French life of Dumoulin Borie"
+ },
+ "_rights_checked": {
+  "hewit-light-in-darkness": "title page read: 'REV. A. F. HE WIT' (OCR)"
+ },
+ "_pending": {
+  "hewit-dogmatic": "Studies in Dogmatic Theology: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "hewit-problems-of-age": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hewit",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hewit-life-francis-baker": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hewit",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hewit-light-in-darkness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hewit",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'REV. A. F. HE WIT' (OCR)"
+  },
+  "hewit-kings-highway": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hewit",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "Publication of images from Elms College Archives and Special Collections is subject to approval and may be under copyright. Publication includes the following media: print, electronic/digital, sound recording, video recording, or microfilm. Written permission must be obtained in advance of publication by contacting the Archives or Special Collections Departments at Alumnae Library, Elms College: goldsmithm@elms.edu or fonsecaa@elms.edu. Fees may be assessed and charged by the departments for reproduction and use.",
+   "ia_lending": null
+  },
+  "hewit-teaching-st-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hewit",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

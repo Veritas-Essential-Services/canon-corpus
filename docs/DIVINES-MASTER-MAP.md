@@ -7732,6 +7732,20 @@ Slugs `thurston-*`. Built from title pages read for round 33.
 | PG 79316 and the 1914 reprint of the Stations; The Roman Jubilee (1925 abridgement) | alternate | not shelved |
 | His revision of Butler's Lives of the Saints (from 1926): Butler's work | alternate | not shelved |
 | Books he edited, introduced or translated (Bridgett, St Hugh, St Melania and others); the posthumous Familiar Prayers (1953); Edgar Thurston | excluded | |
+
+## Augustine F. Hewit (round 33, my pick, 2026-10-18)
+
+Slugs `hewit-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Problems of the Age, with Studies in St. Augustine on Kindred Topics (New York: The Catholic Publication House, 1868) | have-ocr | IA `problemsofage00hewiuoft` |
+| Life of the Rev. Francis A. Baker, fifth edition (New York: The Catholic Publication House, 1868) | have-ocr | IA `lifeofrevfrancis00hewi` |
+| Light in Darkness: a Treatise on the Obscure Night of the Soul (New York: The Catholic Publication Society, 1871) | have-ocr | IA `lightindarknesst00hewi` |
+| The King's Highway; or, the Catholic Church the Way of Salvation (New York: The Catholic Publication Society, 1874) | have-ocr | IA `kingshighwayorca00hewi` |
+| The Teaching of St. John the Apostle to the Churches of Asia and the World (New York: The Catholic Book Exchange, 1895) | have-ocr | IA `teachingofstjohn00hewi` |
+| The 1889 seventh edition of the Baker memoir; the 1893 reissues of Problems and The King's Highway | alternate | not shelved |
+| Huntington's Gropings after Truth; his translation of a French life of Dumoulin Borie | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
