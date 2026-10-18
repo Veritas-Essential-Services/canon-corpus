@@ -1,0 +1,276 @@
+{
+ "_about": "SHELF of classical Japanese literature in English before 1931 that no other shelf held: Dickins's Primitive & Mediaeval Japanese Texts (1906), Chamberlain's Classical Poetry of the Japanese (1880), Pierson's Manyosu book I (1929), Porter's Hundred Verses (the Hyakunin isshu, 1909) and Miscellany of a Japanese Priest (Kenko, 1914), and Sansom's Tsuredzure Gusa (1911). Waley's Genji and Pillow-Book, Mitford's Tales of Old Japan, the Chushingura, the Noh plays and the Diaries of Court Ladies are on other shelves. Each title gates on its own translator. Printings before 1931 only; the Tuttle and AMS reprints are not used. US public domain. Added 2026-10-18 by lane C (round 76); Adam may veto. No uids minted.",
+ "_name_words": [
+  "b. h. chamberlain",
+  "basil hall chamberlain",
+  "chamberlain",
+  "dickins",
+  "f. victor dickins",
+  "frederick victor dickins",
+  "g. b. sansom",
+  "george bailey sansom",
+  "j. l. pierson",
+  "pierson",
+  "porter",
+  "sansom",
+  "w. n. porter",
+  "william n. porter"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "b. h. chamberlain",
+  "basil hall chamberlain",
+  "chamberlain",
+  "dickins",
+  "f. victor dickins",
+  "frederick victor dickins",
+  "g. b. sansom",
+  "george bailey sansom",
+  "j. l. pierson",
+  "pierson",
+  "porter",
+  "sansom",
+  "w. n. porter",
+  "william n. porter"
+ ],
+ "_surname_by_slug": {
+  "jpc-primitive-and-mediaeval-texts": [
+   "dickins",
+   "f. victor dickins",
+   "frederick victor dickins"
+  ],
+  "jpc-classical-poetry": [
+   "chamberlain",
+   "basil hall chamberlain",
+   "b. h. chamberlain"
+  ],
+  "jpc-manyosu-book-1": [
+   "pierson",
+   "j. l. pierson"
+  ],
+  "jpc-hundred-verses": [
+   "porter",
+   "william n. porter",
+   "w. n. porter"
+  ],
+  "jpc-miscellany-of-a-japanese-priest": [
+   "porter",
+   "william n. porter",
+   "w. n. porter"
+  ],
+  "jpc-tsuredzure-gusa": [
+   "sansom",
+   "g. b. sansom",
+   "george bailey sansom"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jpc-primitive-and-mediaeval-texts": [
+   "primitivemediaev00dickuoft",
+   "Primitive & Mediaeval Japanese Texts, translated into English (1906)"
+  ],
+  "jpc-classical-poetry": [
+   "classicalpoetryo00chamuoft",
+   "The Classical Poetry of the Japanese (1880)"
+  ],
+  "jpc-manyosu-book-1": [
+   "manyosubooki0000unse",
+   "The Manyôśû, Book I (1929)"
+  ],
+  "jpc-hundred-verses": [
+   "hundredversesfro00fujiuoft",
+   "A Hundred Verses from Old Japan, being a Translation of the Hyaku-nin-isshiu (1909)"
+  ],
+  "jpc-miscellany-of-a-japanese-priest": [
+   "miscellanyofjapa00yosh",
+   "The Miscellany of a Japanese Priest, being a Translation of Tsure-zure Gusa (1914)"
+  ],
+  "jpc-tsuredzure-gusa": [
+   "in.ernet.dli.2015.69047",
+   "The Tsuredzure Gusa of Yoshida no Kaneyoshi (1911)",
+   "2015.69047.The-Tsuredzure-Gusa-Of-Yoshida-No-Kaneyoshi_djvu.txt"
+  ]
+ },
+ "titles": {
+  "japanese-classics-primitive-and-mediaeval-texts": {
+   "source": "jpc-primitive-and-mediaeval-texts",
+   "of": "Selections from the Manyoshu, the Taketori monogatari and other early Japanese texts",
+   "work": "Primitive & Mediaeval Japanese Texts, translated into English",
+   "translated": 1906,
+   "translator": "F. Victor Dickins",
+   "scan_edition": "Clarendon Press, Oxford 1906 (the translation volume; the companion volume of romanised texts is not shelved); University of Toronto scan"
+  },
+  "japanese-classics-classical-poetry": {
+   "source": "jpc-classical-poetry",
+   "of": "Classical Japanese poems and lyric dramas",
+   "work": "The Classical Poetry of the Japanese",
+   "translated": 1880,
+   "translator": "Basil Hall Chamberlain",
+   "scan_edition": "Trübner & Co., Trübner's Oriental Series, London 1880; University of Toronto scan",
+   "note": "Chamberlain's Kojiki is on east-asian-classics; his fairy tales are on the basil-chamberlain shelf."
+  },
+  "japanese-classics-manyosu-book-1": {
+   "source": "jpc-manyosu-book-1",
+   "of": "The Manyoshu, book I",
+   "work": "The Manyôśû, Book I",
+   "translated": 1929,
+   "translator": "J. L. Pierson",
+   "scan_edition": "E. J. Brill, Leyden 1929",
+   "note": "Only book I (1929) is shelved; the later books were not checked."
+  },
+  "japanese-classics-hundred-verses": {
+   "source": "jpc-hundred-verses",
+   "of": "The Hyakunin isshu, compiled by Fujiwara no Sadaie",
+   "work": "A Hundred Verses from Old Japan, being a Translation of the Hyaku-nin-isshiu",
+   "translated": 1909,
+   "translator": "William N. Porter",
+   "scan_edition": "Clarendon Press, Oxford 1909; University of Toronto scan"
+  },
+  "japanese-classics-miscellany-of-a-japanese-priest": {
+   "source": "jpc-miscellany-of-a-japanese-priest",
+   "of": "Yoshida Kenko, the Tsurezuregusa",
+   "work": "The Miscellany of a Japanese Priest, being a Translation of Tsure-zure Gusa",
+   "translated": 1914,
+   "translator": "William N. Porter",
+   "scan_edition": "Humphrey Milford, London 1914"
+  },
+  "japanese-classics-tsuredzure-gusa": {
+   "source": "jpc-tsuredzure-gusa",
+   "of": "Yoshida Kenko, the Tsurezuregusa",
+   "work": "The Tsuredzure Gusa of Yoshida no Kaneyoshi",
+   "translated": 1911,
+   "translator": "G. B. Sansom",
+   "scan_edition": "Transactions of the Asiatic Society of Japan, vol. XXXIX, Tokyo 1911; Digital Library of India scan",
+   "note": "A separate translation of the same book as Porter's Miscellany."
+  }
+ },
+ "_pending": {
+  "ten-foot-square-hut": "A. L. Sadler's The Ten Foot Square Hut and Tales of the Heike (Sydney, 1928): only the Tuttle reprint of 1972 is on archive.org. Waiting for a period scan."
+ },
+ "_excluded": {
+  "held-elsewhere": "The Diaries of Court Ladies of Old Japan (PG 47151) is on singles-plays-poetry-2; Waley's Tale of Genji and Pillow-Book are on the waley shelf; Mitford's Tales of Old Japan on mitford; the Chushingura on singles-plays-poetry-2.",
+  "dickins-romanised-texts": "The romanised-text volume of Dickins's Primitive & Mediaeval Japanese Texts (primitivemediaev00dickiala) is not a translation."
+ },
+ "_checks": {
+  "jpc-primitive-and-mediaeval-texts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "dickins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jpc-classical-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chamberlain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jpc-manyosu-book-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jpc-hundred-verses": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william n. porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jpc-miscellany-of-a-japanese-priest": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william n. porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jpc-tsuredzure-gusa": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sansom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "jpc-primitive-and-mediaeval-texts": {
+   "ia": "primitivemediaev00dickuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jpc-classical-poetry": {
+   "ia": "classicalpoetryo00chamuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jpc-manyosu-book-1": {
+   "ia": "manyosubooki0000unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jpc-hundred-verses": {
+   "ia": "hundredversesfro00fujiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jpc-miscellany-of-a-japanese-priest": {
+   "ia": "miscellanyofjapa00yosh",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jpc-tsuredzure-gusa": {
+   "ia": "in.ernet.dli.2015.69047",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

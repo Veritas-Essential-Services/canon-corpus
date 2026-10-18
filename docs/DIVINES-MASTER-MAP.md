@@ -17650,6 +17650,23 @@ Round 74 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | egyptian-literature-1901: The Colonial Press anthology Egyptian Literature (1901) reprints other translators' work and is not added. | — | — | excluded | — |
 | — | — | late-reprints: Blom (1971) reprints of Petrie and the Zeller (1985) reprint of Griffith: not used. | — | — | excluded | — |
 
+## Shelf: classical Japanese literature in English before 1931: Dickins's Primitive & Mediaeval Japanese Texts, Chamberlain's Classical Poetry of the Japanese, Pierson's Manyosu book I, Porter's Hundred Verses and Kenko, Sansom's Tsuredzure Gusa
+
+Shelf: `pipeline/japanese-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py japanese-classics` · titles `python3 pipeline/split_shelf_titles.py japanese-classics`.
+Round 76 (2026-10-18), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `japanese-classics-primitive-and-mediaeval-texts` | Selections from the Manyoshu, the Taketori monogatari and other early Japanese texts | Primitive & Mediaeval Japanese Texts, translated into English | F. Victor Dickins | 1906 | have-raw | IA `primitivemediaev00dickuoft` |
+| `japanese-classics-classical-poetry` | Classical Japanese poems and lyric dramas | The Classical Poetry of the Japanese | Basil Hall Chamberlain | 1880 | have-raw | IA `classicalpoetryo00chamuoft` |
+| `japanese-classics-manyosu-book-1` | The Manyoshu, book I | The Manyôśû, Book I | J. L. Pierson | 1929 | have-raw | IA `manyosubooki0000unse` |
+| `japanese-classics-hundred-verses` | The Hyakunin isshu, compiled by Fujiwara no Sadaie | A Hundred Verses from Old Japan, being a Translation of the Hyaku-nin-isshiu | William N. Porter | 1909 | have-raw | IA `hundredversesfro00fujiuoft` |
+| `japanese-classics-miscellany-of-a-japanese-priest` | Yoshida Kenko, the Tsurezuregusa | The Miscellany of a Japanese Priest, being a Translation of Tsure-zure Gusa | William N. Porter | 1914 | have-raw | IA `miscellanyofjapa00yosh` |
+| `japanese-classics-tsuredzure-gusa` | Yoshida Kenko, the Tsurezuregusa | The Tsuredzure Gusa of Yoshida no Kaneyoshi | G. B. Sansom | 1911 | have-raw | IA `in.ernet.dli.2015.69047` |
+| `ten-foot-square-hut` | — | A. L. Sadler's The Ten Foot Square Hut and Tales of the Heike (Sydney, 1928): only the Tuttle reprint of 1972 is on archive.org. Waiting for a period scan. | — | — | pending | — |
+| — | — | held-elsewhere: The Diaries of Court Ladies of Old Japan (PG 47151) is on singles-plays-poetry-2; Waley's Tale of Genji and Pillow-Book are on the waley shelf; Mitford's Tales of Old Japan on mitford; the Chushingura on singles-plays-poetry-2. | — | — | excluded | — |
+| — | — | dickins-romanised-texts: The romanised-text volume of Dickins's Primitive & Mediaeval Japanese Texts (primitivemediaev00dickiala) is not a translation. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
