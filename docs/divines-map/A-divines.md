@@ -7253,3 +7253,15 @@ Slugs `francke-*`. Pietas Hallensis, Nicodemus, Christ the Sum of Scripture and 
 | Christ the Sum and Substance of all the Holy Scriptures (Christus Sacrae Scripturae Nucleus) (London: J. Downing, MDCCXXXII) | have-ocr | IA `christsumsubstan00fran` |
 | A Guide to the Reading and Study of the Holy Scriptures, third edition, tr. William Jaques (London: D. Jaques for J. Hatchard, 1819) | have-ocr | IA `guidetoreadingst00fran` |
 | Nicodemus 1706, 1801 and 1831; the Footsteps Parts II-III (1710, 1716) and later Pietas Hallensis issues; the Philadelphia Guide | alternate | not shelved |
+
+## Nicolaus Ludwig von Zinzendorf (round 31, my pick, 2026-10-18)
+
+Slugs `zinzendorf-*`. Sixteen Discourses (1740) and Seven Sermons (1742).
+
+| Work | Status | Where |
+|---|---|---|
+| Sixteen Discourses on the Redemption of Man by the Death of Christ (London: James Hutton; year not legible, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sixteen-discourses-on-th_zinzendorf-nicolaus-lud_1740` |
+| Seven Sermons on the Godhead of the Lamb (London: James Hutton, MDCCXLII) | have-ocr | IA `bim_eighteenth-century_seven-sermons-on-the-god_zinzendorf-nicolaus-lud_1742` |
+| Sixteen Discourses second edition (1750); A Manual of Doctrine (1742); Wesley's Extract (1744) | alternate | not shelved |
+| Nine Public Lectures (1973 translation) | excluded | |
+| Lives and hostile tracts about him | excluded | |

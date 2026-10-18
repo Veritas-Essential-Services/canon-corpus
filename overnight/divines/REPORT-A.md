@@ -1513,3 +1513,6 @@
 
 ## 2026-10-17 20:42 CDT — august-hermann-francke done
 - `pipeline/august-hermann-francke_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — nicolaus-ludwig-von-zinzendorf done
+- `pipeline/nicolaus-ludwig-von-zinzendorf_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for zinzendorf-sixteen-discourses, zinzendorf-seven-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

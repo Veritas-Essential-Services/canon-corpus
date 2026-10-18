@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Nicolaus Ludwig von Zinzendorf (1700-1760, bishop of the Moravian Church) in English for the Word Hoard: Sixteen Discourses on the Redemption of Man by the Death of Christ, preached at Berlin (London: James Hutton, catalogued 1740), and Seven Sermons on the Godhead of the Lamb (London: James Hutton, 1742), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "zinzendorf"
+ ],
+ "_surname": [
+  "zinzendorf",
+  "count zinzendorf"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zinzendorf-sixteen-discourses": [
+   "bim_eighteenth-century_sixteen-discourses-on-th_zinzendorf-nicolaus-lud_1740",
+   "Sixteen Discourses on the Redemption of Man by the Death of Christ (London: James Hutton; year not legible, catalogued 1740)"
+  ],
+  "zinzendorf-seven-sermons": [
+   "bim_eighteenth-century_seven-sermons-on-the-god_zinzendorf-nicolaus-lud_1742",
+   "Seven Sermons on the Godhead of the Lamb (London: James Hutton, MDCCXLII)"
+  ]
+ },
+ "_alternates": {
+  "zinzendorf-others": "Sixteen Discourses second edition (1750); A Manual of Doctrine (1742); Wesley's Extract (1744)"
+ },
+ "_excluded": {
+  "zinzendorf-1973": "Nine Public Lectures (1973 translation)",
+  "zinzendorf-about": "Lives and hostile tracts about him"
+ },
+ "_identity_checked": {
+  "zinzendorf-sixteen-discourses": {
+   "author": "title page read: 'Count ZINZENDORE, Bishop of the Ancient Moravian Church' (OCR for ZINZENDORF)"
+  },
+  "zinzendorf-seven-sermons": {
+   "author": "title page read: 'Count ZINZENDORE, Bishop of the Moravian Church' (OCR for ZINZENDORF)"
+  }
+ },
+ "_rights_checked": {
+  "zinzendorf-sixteen-discourses": "title page read: 'Translated from the High Dutch'; translator not named",
+  "zinzendorf-seven-sermons": "title page read: 'translated from the German manuscript'; translator not named"
+ },
+ "_pending": {
+  "zinzendorf-ordinary": "Maxims (1751, extracted by Gambold), Twenty One Discourses on the Augsburg Confession (1753, tr. Okeley) and Peremtorisches Bedencken (1753, tr. Gambold): their title pages name only 'the Ordinary of the Brethren's Churches'",
+  "zinzendorf-nine-lectures": "The 1748 Nine Public Lectures: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "zinzendorf-sixteen-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the High Dutch'; translator not named"
+  },
+  "zinzendorf-seven-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'translated from the German manuscript'; translator not named"
+  }
+ }
+}
