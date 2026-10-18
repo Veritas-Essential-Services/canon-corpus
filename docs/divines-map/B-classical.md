@@ -5041,6 +5041,7 @@ Shelf: `pipeline/paul-carus_shelf.json`. Open Court monism.
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | Nietzsche and Other Exponents of Individualism (Chicago: Open Court, 1914) |  | `carus-nietzsche-and-individualism-1914` | have (PG 48495) |
+| Fundamental Problems: the method of philosophy as a systematic arrangement of knowledge (Chicago: Open Court, 1889) |  | `carus-fundamental-problems-1889` | have-raw (IA `fundamentalprobl00hebruoft`) |
 
 Pending (wishlist): The Foundations of Mathematics (1908) from a scan
 
