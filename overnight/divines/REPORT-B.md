@@ -1060,7 +1060,7 @@
 - Toland: Pantheisticon (1751, year from catalogue), new shelf
 - Chubb: Collection of Tracts (1754, 2 vols.), new shelf
 - Held under the OCR gate: Toland's Christianity not Mysterious and Letters to Serena; Gassendi's Three Discourses (1699)
-- Checked and left: Condillac, Dilthey, Maine de Biran, Renouvier, Jacobi, Vico and Brentano have no PD English text found; Fouillee's English version is Greenstreet's (Lane C)
+- Checked and left: no PD English text found on IA or Gutenberg for Condillac, Dilthey, Maine de Biran, Renouvier, Jacobi or Vico himself; Brentano's Origin of the Knowledge of Right and Wrong (PG 49228) and Croce's Philosophy of Vico (PG 52814) are already on singles-ideas-2; Fouillee's English version is Greenstreet's (Lane C)
 
 ## 2026-10-17 19:40 CDT — Round as: medieval and political gaps
 - Roger Bacon: Opus Majus, tr. Burke (1928, 2 vols.), new shelf
