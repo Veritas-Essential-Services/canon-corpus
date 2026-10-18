@@ -1996,3 +1996,6 @@
 
 ## 2026-10-17 23:45 CDT — samson-occom done
 - `pipeline/samson-occom_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — ezra-stiles done
+- `pipeline/ezra-stiles_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

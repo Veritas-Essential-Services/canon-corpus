@@ -9466,6 +9466,22 @@ Slugs `occom-*`. Built from title pages read for round 39.
 | A Sermon at the Execution of Moses Paul, an Indian, preached at New Haven (New Haven printed; London reprinted for Buckland, Dilly and others, 1788), with Jonathan Edwards the younger's Observations on the Muhhekaneew language | have-ocr | IA `sermonatexecutio01occo` |
 | sermonatexecutio02occo (same edition); the 1789 EEBO copy | alternate | not shelved |
 | Divine Hymns by Joshua Smith and Samuel Sleeper (1803, a compilation by others) | excluded | |
+
+## Ezra Stiles (round 39, my pick, 2026-10-18)
+
+Slugs `stiles-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discourse on the Christian Union (Boston: Edes and Gill; catalogued 1761) | have-ocr | IA `bim_eighteenth-century_a-discourse-on-the-chris_stiles-ezra_1761` |
+| The United States Elevated to Glory and Honour, second edition, corrected (Worcester: Isaiah Thomas, MDCCLXXXV) | have-ocr | IA `bim_eighteenth-century_the-united-states-elevat_stiles-ezra_1785` |
+| A History of Three of the Judges of King Charles I (Hartford: Elisha Babcock, 1794) | have-ocr | IA `historyofthreeof00stil` |
+| The Literary Diary of Ezra Stiles, vol. I, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901) | have-ocr | IA `literarydiaryofe01stil` |
+| The Literary Diary of Ezra Stiles, vol. II, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901) | have-ocr | IA `literarydiaryofe02stil` |
+| The Literary Diary of Ezra Stiles, vol. III, ed. Franklin Bowditch Dexter (New York: Charles Scribner's Sons, 1901) | have-ocr | IA `literarydiaryofe03stil` |
+| Extracts from the Itineraries and Other Miscellanies of Ezra Stiles, 1755-1794, ed. Franklin Bowditch Dexter (New Haven: Yale University Press, MDCCCCXVI) | have-ocr | IA `extractsfromitin1755stil` |
+| Other copies of the Diary | alternate | not shelved |
+| Kohut's Ezra Stiles and the Jews (1902, a selection by another hand); other Stileses | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
