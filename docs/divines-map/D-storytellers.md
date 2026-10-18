@@ -7683,6 +7683,33 @@ Shelf: `pipeline/thackeray_shelf.json` (2026-10-17; added at the coordinator's r
 | split-parts | excluded | Gutenberg's split-part files PG 9904, 34922: the complete edition of each is on the shelf instead. |
 | pg-52203 | excluded | PG 52203, 52204 The Comic Almanack: a many-author annual (Thackeray, a Beckett, the Mayhews and others). |
 
+## Herman Melville
+
+Shelf: `pipeline/melville_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| I and My Chimney | have | PG 2694, `melville-i-and-my-chimney` (167 units) |
+| Omoo: Adventures in the South Seas | have | PG 4045, `melville-omoo` (1703 units) |
+| Redburn. His First Voyage Being the Sailor Boy Confessions and Reminiscences of the Son-Of-A-Gentleman in the Merchant Navy | have | PG 8118, `melville-redburn-his-first-voyage-being-the-sailor-boy-confe` (1785 units) |
+| White Jacket; Or, The World on a Man-of-War | have | PG 10712, `melville-white-jacket` (1947 units) |
+| Bartleby, the Scrivener: A Story of Wall-Street | have | PG 11231, `melville-bartleby-the-scrivener` (253 units) |
+| Battle-Pieces and Aspects of the War | have | PG 12384, `melville-battle-pieces-and-aspects-of-the-war` (661 units) |
+| John Marr and Other Poems | have | PG 12841, `melville-john-marr-and-other-poems` (422 units) |
+| Mardi, and a voyage thither, Vol. 1 (of 2) | have | PG 13720, `melville-mardi-and-a-voyage-thither-vol-1-of-2` (1812 units) |
+| Mardi, and a voyage thither, Vol. 2 (of 2) | have | PG 13721, `melville-mardi-and-a-voyage-thither-vol-2-of-2` (2684 units) |
+| Israel Potter: His Fifty Years of Exile | have | PG 15422, `melville-israel-potter` (1228 units) |
+| The Piazza Tales | have | PG 15859, `melville-piazza-tales` (1173 units) |
+| The Confidence-Man: His Masquerade | have | PG 21816, `melville-confidence-man` (1988 units) |
+| Typee | have | PG 28656, `melville-typee` (1037 units) |
+| Pierre; or The Ambiguities | have | PG 34970, `melville-pierre` (1974 units) |
+| The Apple-Tree Table, and Other Sketches | have | PG 53861, `melville-apple-tree-table-and-other-sketches` (1189 units) |
+| Billy Budd | have | PG 76513, `melville-billy-budd` (1831 units) |
+| pg-58477 | excluded | PG 58477: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 2489: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 2701: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-15 | excluded | PG 15 Moby-Dick: a second edition; the Adler shelf holds the novel (PG 2701). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

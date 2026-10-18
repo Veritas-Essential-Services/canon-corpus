@@ -1311,3 +1311,6 @@
 
 ## 2026-10-17 19:21 CDT — thackeray: done
 - thackeray: new shelf, 30 Gutenberg books, 36,386 units, 97 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:21 CDT — melville: done
+- melville: new shelf, 16 Gutenberg books, 21,854 units, 937 ~2 ids; verify 0 mismatches, 0 rights flags.
