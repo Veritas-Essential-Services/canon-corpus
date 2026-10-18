@@ -1,0 +1,34 @@
+{
+ "_about": "Ernest Albee (1865-1927), Cornell philosopher. Raw IA OCR: A History of English Utilitarianism (London: Swan Sonnenschein; New York: Macmillan, 1902), clean 0.91, from Cumberland and Gay through Paley, Bentham and the Mills to Sidgwick. US public domain. No uids minted.",
+ "_author": "Ernest Albee",
+ "_name_words": [
+  "ernest",
+  "albee"
+ ],
+ "_surname": [
+  "albee",
+  "ernest albee"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "albee-history-english-utilitarianism-1902": [
+   "historyenglishut00albe",
+   "A History of English Utilitarianism (Swan Sonnenschein, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "albee-history-english-utilitarianism-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "albee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

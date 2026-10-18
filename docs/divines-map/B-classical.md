@@ -8327,6 +8327,98 @@ Shelf: `pipeline/philosophical-classics-for-english-readers_shelf.json`. William
 | Francis Bacon, his Life and Philosophy, part II: Bacon's Philosophy, by John Nichol (Blackwood, 1889) |  | `pcer-bacon-2-1889` | have-raw (IA `francisbaconhis01nichgoog`) |
 | Locke, by Alexander Campbell Fraser (Blackwood, 1890) |  | `pcer-locke-1890` | have-raw (IA `fraserslocke00frasuoft`) |
 
+## Ernest Albee
+
+Shelf: `pipeline/ernest-albee_shelf.json`. History of English utilitarianism.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of English Utilitarianism (Swan Sonnenschein, 1902) |  | `albee-history-english-utilitarianism-1902` | have-raw (IA `historyenglishut00albe`) |
+
+## James Bonar
+
+Shelf: `pipeline/james-bonar_shelf.json`. Malthus, political economy and its philosophy.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Parson Malthus (1881) |  | `bonar-parson-malthus-1881` | have-raw (IA `parsonmalthus00bonauoft`) |
+| Malthus and His Work (Macmillan, 1885) |  | `bonar-malthus-and-his-work-1885` | have-raw (IA `cu31924030407484`) |
+| Philosophy and Political Economy in some of their historical relations (Swan Sonnenschein, 1893) |  | `bonar-philosophy-and-political-economy-1893` | have-raw (IA `philosophyandpo01bonagoog`) |
+| The Intellectual Virtues (Macmillan, 1894) |  | `bonar-intellectual-virtues-1894` | have-raw (IA `intellectualvirt00bona`) |
+| Elements of Political Economy (John Murray, 1903) |  | `bonar-elements-political-economy-1903` | have-raw (IA `elementsofpoliti00bonauoft`) |
+| Disturbing Elements in the Study and Teaching of Political Economy (Johns Hopkins, 1911) |  | `bonar-disturbing-elements-1911` | have-raw (IA `disturbingelemen00bonauoft`) |
+
+## G. S. Brett
+
+Shelf: `pipeline/g-s-brett_shelf.json`. History of psychology; Gassendi; ethics and politics.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Philosophy of Gassendi (Macmillan, 1908) |  | `brett-philosophy-of-gassendi-1908` | have-raw (IA `philosophyofgass00bret`) |
+| The Government of Man (Bell, 1913) |  | `brett-government-of-man-1913` | have-raw (IA `governmentofmani00bretuoft`) |
+| A History of Psychology, vol. I: Ancient and Patristic (George Allen, 1912) |  | `brett-history-of-psychology-1-1912` | have-raw (IA `historyofpsychol00bretuoft`) |
+| A History of Psychology, vol. II: Medieval and Early Modern Period (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-2-1921` | have-raw (IA `historyofpsychol02bretuoft`) |
+| A History of Psychology, vol. III: Modern Psychology (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-3-1921` | have-raw (IA `historyofpsychol03bretuoft`) |
+
+## W. R. Boyce Gibson
+
+Shelf: `pipeline/w-r-boyce-gibson_shelf.json`. Personal idealism, ethics, logic.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Philosophical Introduction to Ethics (Swan Sonnenschein, 1904) |  | `gibson-philosophical-introduction-to-ethics-1904` | have-raw (IA `philosophicalint022187mbp`) |
+| God with Us: a study in religious idealism (A. and C. Black, 1909) |  | `gibson-god-with-us-1909` | have-raw (IA `godwithusstudyin00gibsrich`) |
+| The Problem of Logic, with Augusta Klein (A. and C. Black, 1908; reprint 1914) |  | `gibson-problem-of-logic-1914` | have-raw (IA `problemoflogic00gibs`) |
+| Rudolf Eucken's Philosophy of Life (A. and C. Black, 1915) |  | `gibson-rudolf-euckens-philosophy-of-life-1915` | have-raw (IA `rudolfeuckensphi00gibs`) |
+
+## J. S. Haldane
+
+Shelf: `pipeline/j-s-haldane_shelf.json`. Philosophy of biology against mechanism.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Mechanism, Life and Personality (John Murray, 1913) |  | `haldane-mechanism-life-personality-1913` | have-raw (IA `mechanismlifeand00halduoft`) |
+| Organism and Environment as illustrated by the physiology of breathing (Yale, 1917) |  | `haldane-organism-and-environment-1917` | have-raw (IA `organismenvironm00halduoft`) |
+| The New Physiology and other addresses (Griffin, 1919) |  | `haldane-new-physiology-1919` | have-raw (IA `newphysiologyoth00haldrich`) |
+
+Pending (wishlist): The Sciences and Philosophy (1929)
+
+## William Wallace (Oxford)
+
+Shelf: `pipeline/william-wallace-oxford_shelf.json`. Oxford Hegelian; his own books, not his translations.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Epicureanism (SPCK, 1880) |  | `wallace-epicureanism-1880` | have-raw (IA `epicureanism00wall`) |
+| Life of Arthur Schopenhauer (Walter Scott, 1890) |  | `wallace-life-of-schopenhauer-1890` | have-raw (IA `lifeofschopenhau00walluoft`) |
+| Prolegomena to the Study of Hegel's Philosophy, 2nd ed. (Clarendon Press, 1894) |  | `wallace-prolegomena-hegel-1894` | have-raw (IA `prolegomenato00walluoft`) |
+| Lectures and Essays on Natural Theology and Ethics, ed. Edward Caird (Clarendon Press, 1898) |  | `wallace-lectures-essays-natural-theology-ethics-1898` | have-raw (IA `lecturesandessay00walluoft`) |
+
+## Robert Adamson
+
+Shelf: `pipeline/robert-adamson_shelf.json`. Kant, history of modern and Greek philosophy, logic.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| On the Philosophy of Kant (David Douglas, 1879) |  | `adamson-on-philosophy-of-kant-1879` | have-raw (IA `onphilosophykan00adamgoog`) |
+| The Development of Modern Philosophy, vol. I (Blackwood, 1903) |  | `adamson-development-modern-philosophy-1-1903` | have-raw (IA `developmentphilo01adamuoft`) |
+| The Development of Modern Philosophy, vol. II (Blackwood, 1903) |  | `adamson-development-modern-philosophy-2-1903` | have-raw (IA `developmentphilo02adamuoft`) |
+| The Development of Greek Philosophy (Blackwood, 1908) |  | `adamson-development-greek-philosophy-1908` | have-raw (IA `cu31924029013740`) |
+| A Short History of Logic (Blackwood, 1911) |  | `adamson-short-history-of-logic-1911` | have-raw (IA `cu31924084680622`) |
+
+## Thomas Whittaker
+
+Shelf: `pipeline/thomas-whittaker_shelf.json`. Neo-Platonism and late antique thought.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Apollonius of Tyana and other essays (Swan Sonnenschein, 1906) |  | `whittaker-apollonius-of-tyana-1906` | have-raw (IA `apolloniusoftyan00whitiala`) |
+| Priests, Philosophers and Prophets (A. and C. Black, 1911) |  | `whittaker-priests-philosophers-prophets-1911` | have-raw (IA `priestsphilosoph00whituoft`) |
+| The Neo-Platonists, 2nd ed. (Cambridge, 1918) |  | `whittaker-neo-platonists-1918` | have-raw (IA `cu31924031006608`) |
+| Macrobius, or philosophy, science and letters in the year 400 (Cambridge, 1923) |  | `whittaker-macrobius-1923` | have-raw (IA `macrobus0000thom`) |
+
+Pending (wishlist): Schopenhauer; Comte and Mill; The Theory of Abstract Ethics (held: no dated scan)
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
