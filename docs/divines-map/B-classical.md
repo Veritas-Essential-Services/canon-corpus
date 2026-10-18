@@ -6959,6 +6959,9 @@ Shelf: `pipeline/l-p-jacks_shelf.json`. Three books, 1910-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Mad Shepherds, and Other Human Studies |  | `jacks-mad-shepherds` | have (PG 31386) |
+| All Men are Ghosts |  | `jacks-all-men-are-ghosts` | have (PG 36518) |
+| Religious Perplexities |  | `jacks-religious-perplexities` | have (PG 32578) |
 
 ## George Herbert Palmer (Harvard ethics)
 
