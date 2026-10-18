@@ -35157,6 +35157,55 @@ Shelf: `pipeline/gilbert-parker_shelf.json` (2026-10-17; added at the coordinato
 | repeat-editions | excluded | PG 6263: second Gutenberg editions of titles already on the shelf. |
 | pg-6590 | excluded | PG 6590, 7553: David Widger's quotation and image selections. |
 
+## Percy Keese Fitzhugh
+
+Shelf: `pipeline/percy-keese-fitzhugh_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (42 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tom Slade : Boy Scout of the Moving Pictures | have | PG 6655, `pkfitzhugh-tom-slade` (1355 units) |
+| Pee-wee Harris | have | PG 9833, `pkfitzhugh-pee-wee-harris` (897 units) |
+| Roy Blakeley's Adventures in Camp | have | PG 10316, `pkfitzhugh-roy-blakeleys-adventures-in-camp` (1253 units) |
+| Roy Blakeley: His Story | have | PG 10552, `pkfitzhugh-roy-blakeley` (1084 units) |
+| Pee-wee Harris on the Trail | have | PG 15750, `pkfitzhugh-pee-wee-harris-on-the-trail` (1077 units) |
+| Pee-wee Harris Adrift | have | PG 17767, `pkfitzhugh-pee-wee-harris-adrift` (1103 units) |
+| Tom Slade on Mystery Trail | have | PG 18180, `pkfitzhugh-tom-slade-on-mystery-trail` (1046 units) |
+| Tom Slade at Black Lake | have | PG 18943, `pkfitzhugh-tom-slade-at-black-lake` (956 units) |
+| Tom Slade with the Boys Over There | have | PG 18954, `pkfitzhugh-tom-slade-with-the-boys-over-there` (1327 units) |
+| Tom Slade, Motorcycle Dispatch Bearer | have | PG 19495, `pkfitzhugh-tom-slade-motorcycle-dispatch-bearer` (1143 units) |
+| Tom Slade at Temple Camp | have | PG 19522, `pkfitzhugh-tom-slade-at-temple-camp` (1181 units) |
+| Tom Slade's Double Dare | have | PG 19590, `pkfitzhugh-tom-slades-double-dare` (1160 units) |
+| Roy Blakeley, Pathfinder | have | PG 19815, `pkfitzhugh-roy-blakeley-pathfinder` (955 units) |
+| Tom Slade with the Colors | have | PG 20986, `pkfitzhugh-tom-slade-with-the-colors` (1392 units) |
+| Tom Slade on a Transport | have | PG 23663, `pkfitzhugh-tom-slade-on-a-transport` (1119 units) |
+| Roy Blakeley's Bee-line Hike | have | PG 25002, `pkfitzhugh-roy-blakeleys-bee-line-hike` (1452 units) |
+| Roy Blakeley's Camp on Wheels | have | PG 27272, `pkfitzhugh-roy-blakeleys-camp-on-wheels` (1428 units) |
+| Roy Blakeley in the Haunted Camp | have | PG 31452, `pkfitzhugh-roy-blakeley-in-the-haunted-camp` (1185 units) |
+| Tom Slade on the River | have | PG 42155, `pkfitzhugh-tom-slade-on-the-river` (1600 units) |
+| Roy Blakeley's Silver Fox Patrol | have | PG 43011, `pkfitzhugh-roy-blakeleys-silver-fox-patrol` (1270 units) |
+| Roy Blakeley's Motor Caravan | have | PG 44172, `pkfitzhugh-roy-blakeleys-motor-caravan` (1094 units) |
+| Roy Blakeley: Lost, Strayed or Stolen | have | PG 44485, `pkfitzhugh-roy-blakeley-44485` (1255 units) |
+| Pee-wee Harris in Luck | have | PG 59247, `pkfitzhugh-pee-wee-harris-in-luck` (1080 units) |
+| Pee-wee Harris, F.O.B. Bridgeboro | have | PG 59405, `pkfitzhugh-pee-wee-harris-f-o-b-bridgeboro` (1059 units) |
+| Tom Slade on Overlook Mountain | have | PG 59439, `pkfitzhugh-tom-slade-on-overlook-mountain` (998 units) |
+| Tom Slade with the Flying Corps: A Campfire Tale | have | PG 59816, `pkfitzhugh-tom-slade-with-the-flying-corps` (914 units) |
+| Roy Blakeley's Funny-bone Hike | have | PG 60255, `pkfitzhugh-roy-blakeleys-funny-bone-hike` (1450 units) |
+| Along the Mohawk Trail; Or, Boy Scouts on Lake Champlain | have | PG 60269, `pkfitzhugh-along-the-mohawk-trail` (2440 units) |
+| Roy Blakeley's Tangled Trail | have | PG 61089, `pkfitzhugh-roy-blakeleys-tangled-trail` (1296 units) |
+| Pee-wee Harris: Fixer | have | PG 61094, `pkfitzhugh-pee-wee-harris-61094` (955 units) |
+| Tom Slade Picks a Winner | have | PG 61107, `pkfitzhugh-tom-slade-picks-a-winner` (1235 units) |
+| Westy Martin in the Yellowstone | have | PG 61114, `pkfitzhugh-westy-martin-in-the-yellowstone` (927 units) |
+| Westy Martin | have | PG 61118, `pkfitzhugh-westy-martin` (916 units) |
+| Hervey Willetts | have | PG 72017, `pkfitzhugh-hervey-willetts` (1168 units) |
+| Tom Slade at Bear Mountain | have | PG 72177, `pkfitzhugh-tom-slade-at-bear-mountain` (1024 units) |
+| Westy Martin on the Santa Fe Trail | have | PG 72186, `pkfitzhugh-westy-martin-on-the-santa-fe-trail` (1123 units) |
+| Westy Martin in the Rockies | have | PG 72199, `pkfitzhugh-westy-martin-in-the-rockies` (971 units) |
+| Tom Slade in the north woods | have | PG 72204, `pkfitzhugh-tom-slade-in-the-north-woods` (1166 units) |
+| Pee-wee Harris in camp | have | PG 72220, `pkfitzhugh-pee-wee-harris-in-camp` (1037 units) |
+| Roy Blakeley's roundabout hike | have | PG 75164, `pkfitzhugh-roy-blakeleys-roundabout-hike` (1250 units) |
+| Skinny McCord | have | PG 76477, `pkfitzhugh-skinny-mccord` (1084 units) |
+| King Time | have | PG 79473, `pkfitzhugh-king-time` (1190 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
