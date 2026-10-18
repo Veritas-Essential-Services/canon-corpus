@@ -12308,6 +12308,53 @@ Shelf: `pipeline/louis-becke_shelf.json` (2026-10-17; added at the coordinator's
 | Tom Wallis: A Tale of the South Seas | have | PG 40705, `lbecke-tom-wallis` (1243 units) |
 | pg-28972 | excluded | PG 28972: Gutenberg's linked index of the author's works, not a book. |
 
+## Charles Egbert Craddock
+
+Shelf: `pipeline/charles-egbert-craddock_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (40 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Down the Ravine | have | PG 5306, `cecraddock-down-the-ravine` (753 units) |
+| The Frontiersmen | have | PG 13724, `cecraddock-frontiersmen` (699 units) |
+| The Ordeal: A Mountain Romance of Tennessee | have | PG 19776, `cecraddock-ordeal` (483 units) |
+| The Young Mountaineers: Short Stories | have | PG 20365, `cecraddock-young-mountaineers` (1122 units) |
+| The raid of the guerilla 1911 | have | PG 23548, `cecraddock-raid-of-the-guerilla-1911` (145 units) |
+| Wolf's Head 1911 | have | PG 23549, `cecraddock-wolfs-head-1911` (98 units) |
+| Una of the hill country 1911 | have | PG 23550, `cecraddock-una-of-the-hill-country-1911` (66 units) |
+| Who Crosses Storm Mountain? 1911 | have | PG 23551, `cecraddock-who-crosses-storm-mountain-1911` (98 units) |
+| The phantom of Bogue Holauba 1911 | have | PG 23552, `cecraddock-phantom-of-bogue-holauba-1911` (110 units) |
+| The Christmas Miracle 1911 | have | PG 23553, `cecraddock-christmas-miracle-1911` (76 units) |
+| A Chilhowee Lily 1911 | have | PG 23554, `cecraddock-a-chilhowee-lily-1911` (91 units) |
+| The Lost Guidon 1911 | have | PG 23555, `cecraddock-lost-guidon-1911` (91 units) |
+| His Unquiet Ghost 1911 | have | PG 23556, `cecraddock-his-unquiet-ghost-1911` (134 units) |
+| The Crucial Moment 1911 | have | PG 23557, `cecraddock-crucial-moment-1911` (73 units) |
+| The riddle of the rocks 1895 | have | PG 23629, `cecraddock-riddle-of-the-rocks-1895` (247 units) |
+| The phantoms of the foot-bridge 1895 | have | PG 23630, `cecraddock-phantoms-of-the-foot-bridge-1895` (165 units) |
+| The moonshiners at Hoho-hebee Falls 1895 | have | PG 23631, `cecraddock-moonshiners-at-hoho-hebee-falls-1895` (292 units) |
+| 'way down in Lonesome Cove 1895 | have | PG 23632, `cecraddock-way-down-in-lonesome-cove-1895` (292 units) |
+| His "day in court" 1895 | have | PG 23633, `cecraddock-his-day-in-court-1895` (298 units) |
+| The Mystery of Witch-Face Mountain, and Other Stories | have | PG 31122, `cecraddock-mystery-of-witch-face-mountain-and-other-stories` (894 units) |
+| The Story of Old Fort Loudon | have | PG 31801, `cecraddock-story-of-old-fort-loudon` (1005 units) |
+| The raid of the guerilla, and other stories | have | PG 33970, `cecraddock-raid-of-the-guerilla-and-other-stories` (964 units) |
+| The Storm Centre: A Novel | have | PG 35423, `cecraddock-storm-centre` (1300 units) |
+| The Prophet of the Great Smoky Mountains | have | PG 35619, `cecraddock-prophet-of-the-great-smoky-mountains` (1322 units) |
+| The Phantoms of the Foot-Bridge, and Other Stories | have | PG 36771, `cecraddock-phantoms-of-the-foot-bridge-and-other-stories` (1316 units) |
+| The Story of Duciehurst: A Tale of the Mississippi | have | PG 56046, `cecraddock-story-of-duciehurst` (1834 units) |
+| The bushwhackers & other stories | have | PG 68162, `cecraddock-bushwhackers-other-stories` (526 units) |
+| The amulet: A novel | have | PG 69483, `cecraddock-amulet` (1392 units) |
+| The juggler | have | PG 72930, `cecraddock-juggler` (1061 units) |
+| The champion | have | PG 74435, `cecraddock-champion` (789 units) |
+| In the "Stranger People's" country | have | PG 74630, `cecraddock-in-the-stranger-peoples-country` (1280 units) |
+| In the clouds | have | PG 74706, `cecraddock-in-the-clouds` (2607 units) |
+| The windfall | have | PG 74744, `cecraddock-windfall` (1610 units) |
+| In the Tennessee mountains | have | PG 74759, `cecraddock-in-the-tennessee-mountains` (816 units) |
+| His vanished star | have | PG 75678, `cecraddock-his-vanished-star` (1307 units) |
+| A spectre of power | have | PG 76105, `cecraddock-a-spectre-of-power` (1534 units) |
+| The despot of Broomsedge Cove | have | PG 76287, `cecraddock-despot-of-broomsedge-cove` (2604 units) |
+| Where the battle was fought | have | PG 76397, `cecraddock-where-the-battle-was-fought` (2317 units) |
+| The story of Keedon Bluffs | have | PG 76600, `cecraddock-story-of-keedon-bluffs` (1015 units) |
+| The fair Mississippian | have | PG 76784, `cecraddock-fair-mississippian` (1557 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

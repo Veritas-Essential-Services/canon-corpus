@@ -1635,3 +1635,6 @@
 
 ## 2026-10-17 22:56 CDT — louis-becke: done
 - louis-becke: new shelf, 39 Gutenberg books, 17,566 units, 2100 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:56 CDT — charles-egbert-craddock: done
+- charles-egbert-craddock: new shelf, 40 Gutenberg books, 34,383 units, 172 ~2 ids; verify 0 mismatches, 0 rights flags.

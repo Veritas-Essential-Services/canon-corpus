@@ -3621,6 +3621,14 @@
       "started": "2026-10-17T22:56:24-05:00",
       "finished": "2026-10-17T22:56:24-05:00",
       "notes": "louis-becke: new shelf, 39 Gutenberg books, 17,566 units, 2100 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-egbert-craddock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Charles Egbert Craddock; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:56:25-05:00",
+      "finished": "2026-10-17T22:56:26-05:00",
+      "notes": "charles-egbert-craddock: new shelf, 40 Gutenberg books, 34,383 units, 172 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
