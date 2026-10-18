@@ -1,0 +1,542 @@
+{
+ "_about": "Anna Katharine Green's detective novels (The Leavenworth Case and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Anna Katharine Green",
+ "_name_words": [
+  "green"
+ ],
+ "_surname": [
+  "anna katharine green"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "akgreen-a-strange-disappearance": [
+   1167,
+   "A Strange Disappearance",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-woman-in-the-alcove": [
+   1851,
+   "The Woman in the Alcove"
+  ],
+  "akgreen-filigree-ball-being-a-full-and-true-account-of-the-s": [
+   2371,
+   "The Filigree Ball Being a full and true account of the solution of the mystery concerning the Jeffrey-Moore affair"
+  ],
+  "akgreen-golden-slipper-and-other-problems-for-violet-strange": [
+   3071,
+   "The Golden Slipper, and Other Problems for Violet Strange"
+  ],
+  "akgreen-leavenworth-case": [
+   4047,
+   "The Leavenworth Case",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-mayors-wife": [
+   4767,
+   "The Mayor's Wife",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-dark-hollow": [
+   5121,
+   "Dark Hollow"
+  ],
+  "akgreen-agatha-webb": [
+   5162,
+   "Agatha Webb"
+  ],
+  "akgreen-mill-mystery": [
+   6805,
+   "The Mill Mystery"
+  ],
+  "akgreen-house-of-the-whispering-pines": [
+   10083,
+   "The House of the Whispering Pines",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-mystery-of-the-hasty-arrow": [
+   17763,
+   "The Mystery of the Hasty Arrow"
+  ],
+  "akgreen-chief-legatee": [
+   17999,
+   "The Chief Legatee"
+  ],
+  "akgreen-circular-study": [
+   18761,
+   "The Circular Study",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-house-in-the-mist": [
+   19147,
+   "The House in the Mist"
+  ],
+  "akgreen-that-affair-next-door": [
+   21617,
+   "That Affair Next Door",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-old-stone-house-and-other-stories": [
+   21824,
+   "The Old Stone House and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-millionaire-baby": [
+   21904,
+   "The Millionaire Baby",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-bronze-hand-1897": [
+   22806,
+   "The Bronze Hand 1897"
+  ],
+  "akgreen-a-difficult-problem-1900": [
+   22807,
+   "A Difficult Problem 1900"
+  ],
+  "akgreen-gray-madam-1899": [
+   22808,
+   "The Gray Madam 1899"
+  ],
+  "akgreen-hermit-of-street-1898": [
+   22809,
+   "The Hermit Of ——— Street 1898"
+  ],
+  "akgreen-midnight-in-beauchamp-row-1895": [
+   22810,
+   "Midnight In Beauchamp Row 1895"
+  ],
+  "akgreen-staircase-at-the-hearts-delight-1894": [
+   22811,
+   "The Staircase At The Heart's Delight 1894"
+  ],
+  "akgreen-forsaken-inn": [
+   23641,
+   "The Forsaken Inn: A Novel"
+  ],
+  "akgreen-room-number-3-and-other-detective-stories": [
+   31578,
+   "Room Number 3, and Other Detective Stories"
+  ],
+  "akgreen-hand-and-ring": [
+   31681,
+   "Hand and Ring",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-doctor-his-wife-and-the-clock": [
+   32439,
+   "The Doctor, his Wife, and the Clock"
+  ],
+  "akgreen-three-thousand-dollars": [
+   32795,
+   "Three Thousand Dollars",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-sword-of-damocles": [
+   33301,
+   "The Sword of Damocles: A Story of New York Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-lost-mans-lane": [
+   33305,
+   "Lost Man's Lane: A Second Episode in the Life of Amelia Butterworth"
+  ],
+  "akgreen-x-y-z": [
+   33695,
+   "X Y Z: A Detective Story"
+  ],
+  "akgreen-one-of-my-sons": [
+   34710,
+   "One of My Sons"
+  ],
+  "akgreen-amethyst-box": [
+   35424,
+   "The Amethyst Box"
+  ],
+  "akgreen-cynthia-wakehams-money": [
+   36758,
+   "Cynthia Wakeham's Money",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-7-to-12": [
+   56787,
+   "7 to 12: A Detective Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-doctor-izard": [
+   57643,
+   "Doctor Izard",
+   {
+    "contents_only": true
+   }
+  ],
+  "akgreen-step-on-the-stair": [
+   68153,
+   "The step on the stair"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-35003": "PG 35003 The House in the Mist and 38347 The Millionaire Baby: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "akgreen-a-strange-disappearance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-woman-in-the-alcove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-filigree-ball-being-a-full-and-true-account-of-the-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-golden-slipper-and-other-problems-for-violet-strange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-leavenworth-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-mayors-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-dark-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-agatha-webb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-mill-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-house-of-the-whispering-pines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-mystery-of-the-hasty-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-chief-legatee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-circular-study": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-house-in-the-mist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-that-affair-next-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-old-stone-house-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-millionaire-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-bronze-hand-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-a-difficult-problem-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-gray-madam-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-hermit-of-street-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-midnight-in-beauchamp-row-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-staircase-at-the-hearts-delight-1894": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-forsaken-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-room-number-3-and-other-detective-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-hand-and-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-doctor-his-wife-and-the-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-three-thousand-dollars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-sword-of-damocles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-lost-mans-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-x-y-z": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-one-of-my-sons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-amethyst-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-cynthia-wakehams-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-7-to-12": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-doctor-izard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-step-on-the-stair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

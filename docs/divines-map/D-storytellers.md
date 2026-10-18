@@ -10303,6 +10303,51 @@ Shelf: `pipeline/fergus-hume_shelf.json` (2026-10-17; added at the coordinator's
 | pg-59359 | excluded | PG 59359: Gutenberg's index of Hume's works, not a book. |
 | pg-55606 | excluded | PG 55606 The Mandarin's Fan: a second Gutenberg edition of a title already on the shelf. |
 
+## Anna Katharine Green
+
+Shelf: `pipeline/anna-katharine-green_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Detective novels. Every English text under the name at Gutenberg that no other shelf holds (37 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Strange Disappearance | have | PG 1167, `akgreen-a-strange-disappearance` (931 units) |
+| The Woman in the Alcove | have | PG 1851, `akgreen-woman-in-the-alcove` (1197 units) |
+| The Filigree Ball Being a full and true account of the solution of the mystery concerning the Jeffrey-Moore affair | have | PG 2371, `akgreen-filigree-ball-being-a-full-and-true-account-of-the-s` (1749 units) |
+| The Golden Slipper, and Other Problems for Violet Strange | have | PG 3071, `akgreen-golden-slipper-and-other-problems-for-violet-strange` (1864 units) |
+| The Leavenworth Case | have | PG 4047, `akgreen-leavenworth-case` (3145 units) |
+| The Mayor's Wife | have | PG 4767, `akgreen-mayors-wife` (1353 units) |
+| Dark Hollow | have | PG 5121, `akgreen-dark-hollow` (1949 units) |
+| Agatha Webb | have | PG 5162, `akgreen-agatha-webb` (1746 units) |
+| The Mill Mystery | have | PG 6805, `akgreen-mill-mystery` (1418 units) |
+| The House of the Whispering Pines | have | PG 10083, `akgreen-house-of-the-whispering-pines` (2540 units) |
+| The Mystery of the Hasty Arrow | have | PG 17763, `akgreen-mystery-of-the-hasty-arrow` (2021 units) |
+| The Chief Legatee | have | PG 17999, `akgreen-chief-legatee` (1368 units) |
+| The Circular Study | have | PG 18761, `akgreen-circular-study` (1161 units) |
+| The House in the Mist | have | PG 19147, `akgreen-house-in-the-mist` (621 units) |
+| That Affair Next Door | have | PG 21617, `akgreen-that-affair-next-door` (2913 units) |
+| The Old Stone House and Other Stories | have | PG 21824, `akgreen-old-stone-house-and-other-stories` (731 units) |
+| The Millionaire Baby | have | PG 21904, `akgreen-millionaire-baby` (1547 units) |
+| The Bronze Hand 1897 | have | PG 22806, `akgreen-bronze-hand-1897` (326 units) |
+| A Difficult Problem 1900 | have | PG 22807, `akgreen-a-difficult-problem-1900` (161 units) |
+| The Gray Madam 1899 | have | PG 22808, `akgreen-gray-madam-1899` (121 units) |
+| The Hermit Of ——— Street 1898 | have | PG 22809, `akgreen-hermit-of-street-1898` (195 units) |
+| Midnight In Beauchamp Row 1895 | have | PG 22810, `akgreen-midnight-in-beauchamp-row-1895` (96 units) |
+| The Staircase At The Heart's Delight 1894 | have | PG 22811, `akgreen-staircase-at-the-hearts-delight-1894` (89 units) |
+| The Forsaken Inn: A Novel | have | PG 23641, `akgreen-forsaken-inn` (1353 units) |
+| Room Number 3, and Other Detective Stories | have | PG 31578, `akgreen-room-number-3-and-other-detective-stories` (2019 units) |
+| Hand and Ring | have | PG 31681, `akgreen-hand-and-ring` (4061 units) |
+| The Doctor, his Wife, and the Clock | have | PG 32439, `akgreen-doctor-his-wife-and-the-clock` (365 units) |
+| Three Thousand Dollars | have | PG 32795, `akgreen-three-thousand-dollars` (357 units) |
+| The Sword of Damocles: A Story of New York Life | have | PG 33301, `akgreen-sword-of-damocles` (2522 units) |
+| Lost Man's Lane: A Second Episode in the Life of Amelia Butterworth | have | PG 33305, `akgreen-lost-mans-lane` (1798 units) |
+| X Y Z: A Detective Story | have | PG 33695, `akgreen-x-y-z` (377 units) |
+| One of My Sons | have | PG 34710, `akgreen-one-of-my-sons` (2159 units) |
+| The Amethyst Box | have | PG 35424, `akgreen-amethyst-box` (972 units) |
+| Cynthia Wakeham's Money | have | PG 36758, `akgreen-cynthia-wakehams-money` (2162 units) |
+| 7 to 12: A Detective Story | have | PG 56787, `akgreen-7-to-12` (503 units) |
+| Doctor Izard | have | PG 57643, `akgreen-doctor-izard` (1074 units) |
+| The step on the stair | have | PG 68153, `akgreen-step-on-the-stair` (2359 units) |
+| pg-35003 | excluded | PG 35003 The House in the Mist and 38347 The Millionaire Baby: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1488,3 +1488,6 @@
 
 ## 2026-10-17 21:06 CDT — fergus-hume: done
 - fergus-hume: new shelf, 65 Gutenberg books, 146,359 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:06 CDT — anna-katharine-green: done
+- anna-katharine-green: new shelf, 37 Gutenberg books, 51,323 units, 338 ~2 ids; verify 0 mismatches, 0 rights flags.
