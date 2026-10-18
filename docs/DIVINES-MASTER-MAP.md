@@ -6429,6 +6429,20 @@ Slugs `vianney-*`. The Curé of Ars, represented by his Thoughts only.
 | The Spirit of the Curé of Ars, from the French of Abbé Monnin, ed. J. E. Bowden (London, 1865; TheSpiritOfTheCureOfArs): his sayings and exhortations, but the title page names Monnin as the compiler | alternate | not shelved |
 | English Sermons and Catechisms (1951 and later) | excluded | |
 | Lives by Monnin, Trochu and others | excluded | |
+
+## Auguste Gratry (round 29, my pick, 2026-10-18)
+
+Slugs `gratry-*`. Oratorian philosopher, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Month of Mary, Conceived without Sin, introduction by F. W. Faber (Baltimore: Kelly, Hedian & Piet, 1861) | have-ocr | IA `monthofmaryconce00grat_0` |
+| Henri Perreyve, translated by special permission by the author of 'A Dominican Artist' (London: Rivingtons, 1872) | have-ocr | IA `henriperreyve00gratgoog` |
+| Guide to the Knowledge of God: a Study of the Chief Theodicies, tr. Abby Langdon Alger (Boston: Roberts Brothers, 1892) | have-ocr | IA `guidetoknowledg01unkngoog` |
+| Guide (other 1892 copies), Perreyve (1877), Month of Mary (1870) | alternate | not shelved |
+| The Bishop of Orleans and the Archbishop of Malines, tr. T. J. Bailey (Hayes, no year) | alternate | not shelved |
+| Mary Everest Boole on Gratry and Boole; Perraud's Last Day | excluded | |
+| Logic (1944) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

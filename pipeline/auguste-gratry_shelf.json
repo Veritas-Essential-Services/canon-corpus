@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Auguste Gratry (1805-1872, Oratorian, of the French Academy) in English for the Word Hoard: The Month of Mary (Baltimore, 1861), Henri Perreyve (London: Rivingtons, 1872) and the Guide to the Knowledge of God, tr. Abby Langdon Alger (Boston, 1892), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gratry"
+ ],
+ "_surname": [
+  "gratry",
+  "a. gratry"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gratry-month-of-mary": [
+   "monthofmaryconce00grat_0",
+   "The Month of Mary, Conceived without Sin, introduction by F. W. Faber (Baltimore: Kelly, Hedian & Piet, 1861)"
+  ],
+  "gratry-henri-perreyve": [
+   "henriperreyve00gratgoog",
+   "Henri Perreyve, translated by special permission by the author of 'A Dominican Artist' (London: Rivingtons, 1872)"
+  ],
+  "gratry-guide-knowledge-god": [
+   "guidetoknowledg01unkngoog",
+   "Guide to the Knowledge of God: a Study of the Chief Theodicies, tr. Abby Langdon Alger (Boston: Roberts Brothers, 1892)"
+  ]
+ },
+ "_alternates": {
+  "gratry-copies": "Guide (other 1892 copies), Perreyve (1877), Month of Mary (1870)",
+  "gratry-letters": "The Bishop of Orleans and the Archbishop of Malines, tr. T. J. Bailey (Hayes, no year)"
+ },
+ "_excluded": {
+  "gratry-about": "Mary Everest Boole on Gratry and Boole; Perraud's Last Day",
+  "gratry-late": "Logic (1944)"
+ },
+ "_identity_checked": {
+  "gratry-month-of-mary": {
+   "author": "title page read: 'A. GKATEY, Priest of the Oratory of the Immaculate Conception' (OCR garble of A. Gratry), Baltimore, Kelly, Hedian & Piet, 1861"
+  }
+ },
+ "_rights_checked": {
+  "gratry-henri-perreyve": "title page read: 'By the Author of A Dominican Artist' (H. L. Sidney Lear, not named on the title page); this is Gratry's memoir of Perreyve"
+ },
+ "_pending": {
+  "gratry-renan": "Jesus Christ, a Reply to M. Renan (Richardson): year not legible"
+ },
+ "_translators": {
+  "gratry-guide-knowledge-god": "alger"
+ },
+ "_checks": {
+  "gratry-month-of-mary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gratry-henri-perreyve": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gratry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the Author of A Dominican Artist' (H. L. Sidney Lear, not named on the title page); this is Gratry's memoir of Perreyve"
+  },
+  "gratry-guide-knowledge-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gratry",
+   "translator_claimed": "alger",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
