@@ -1,0 +1,130 @@
+{
+ "_about": "James Burnett, Lord Monboddo (1714-1799): Antient Metaphysics, or the Science of Universals, 6 vols. (Edinburgh: J. Balfour; London: T. Cadell, and later Bell and Bradfute and Cadell and Davies, 1779-1799), raw IA OCR, clean 0.90-0.92. The title pages read 1779 (I), 1782 (II), 1784 (III), 1795 (IV, garbled), 1797 (V); vol. VI's year is not in the OCR and 1799 is taken from the catalogue. Published anonymously. US public domain. No uids minted.",
+ "_author": "James Burnett, Lord Monboddo",
+ "_name_words": [
+  "james",
+  "burnett",
+  "burnet",
+  "monboddo"
+ ],
+ "_surname": [
+  "monboddo"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monboddo-antient-metaphysics-v1": [
+   "antientmetaphysi01monb",
+   "Antient Metaphysics, vol. I (Edinburgh and London, 1779)"
+  ],
+  "monboddo-antient-metaphysics-v2": [
+   "antientmetaphysi02monb",
+   "Antient Metaphysics, vol. II (London and Edinburgh, 1782)"
+  ],
+  "monboddo-antient-metaphysics-v3": [
+   "antientmetaphysi03monb",
+   "Antient Metaphysics, vol. III (London and Edinburgh, 1784)"
+  ],
+  "monboddo-antient-metaphysics-v4": [
+   "antientmetaphysi04monb",
+   "Antient Metaphysics, vol. IV (Edinburgh and London, 1795)"
+  ],
+  "monboddo-antient-metaphysics-v5": [
+   "antientmetaphysi05monb",
+   "Antient Metaphysics, vol. V (Edinburgh and London, 1797)"
+  ],
+  "monboddo-antient-metaphysics-v6": [
+   "antientmetaphysi06monb",
+   "Antient Metaphysics, vol. VI (Edinburgh and London; 1799 per catalogue)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "monboddo-antient-metaphysics-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monboddo-antient-metaphysics-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "monboddo",
+   "identity": "ok",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monboddo-antient-metaphysics-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monboddo-antient-metaphysics-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "monboddo",
+   "identity": "ok",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monboddo-antient-metaphysics-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monboddo-antient-metaphysics-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "monboddo-antient-metaphysics-v1": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  },
+  "monboddo-antient-metaphysics-v2": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  },
+  "monboddo-antient-metaphysics-v3": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  },
+  "monboddo-antient-metaphysics-v4": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  },
+  "monboddo-antient-metaphysics-v5": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  },
+  "monboddo-antient-metaphysics-v6": {
+   "author": "Antient Metaphysics was published anonymously; each volume's title page and contents were read (Lord Monboddo's six-volume work, the Newtonian appendix in vols. I-II, the Fille Sauvage appendix in vol. IV)."
+  }
+ }
+}

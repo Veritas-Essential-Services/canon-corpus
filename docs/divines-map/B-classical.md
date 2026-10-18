@@ -5488,6 +5488,12 @@ Shelf: `pipeline/monboddo_shelf.json`. Antient Metaphysics (1779-1799, 6 vols.).
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Antient Metaphysics, vol. I (Edinburgh and London, 1779) |  | `monboddo-antient-metaphysics-v1` | have-raw (IA `antientmetaphysi01monb`) |
+| Antient Metaphysics, vol. II (London and Edinburgh, 1782) |  | `monboddo-antient-metaphysics-v2` | have-raw (IA `antientmetaphysi02monb`) |
+| Antient Metaphysics, vol. III (London and Edinburgh, 1784) |  | `monboddo-antient-metaphysics-v3` | have-raw (IA `antientmetaphysi03monb`) |
+| Antient Metaphysics, vol. IV (Edinburgh and London, 1795) |  | `monboddo-antient-metaphysics-v4` | have-raw (IA `antientmetaphysi04monb`) |
+| Antient Metaphysics, vol. V (Edinburgh and London, 1797) |  | `monboddo-antient-metaphysics-v5` | have-raw (IA `antientmetaphysi05monb`) |
+| Antient Metaphysics, vol. VI (Edinburgh and London; 1799 per catalogue) |  | `monboddo-antient-metaphysics-v6` | have-raw (IA `antientmetaphysi06monb`) |
 
 Pending (wishlist): Of the Origin and Progress of Language (1773-92, 6 vols.)
 
