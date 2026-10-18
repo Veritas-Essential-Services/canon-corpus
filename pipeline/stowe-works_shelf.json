@@ -1,0 +1,483 @@
+{
+ "_about": "Harriet Beecher Stowe's novels, sketches and other writing not already on another shelf; Uncle Tom's Cabin and others describe Black Americans in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Harriet Beecher Stowe",
+ "_name_words": [
+  "stowe"
+ ],
+ "_surname": [
+  "harriet beecher stowe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hbstowe-queer-little-folks": [
+   2486,
+   "Queer Little Folks"
+  ],
+  "hbstowe-american-womans-home": [
+   6598,
+   "American Woman's Home: Or, Principles of Domestic Science; Being a Guide to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian Homes (with Catharine E. Beecher)"
+  ],
+  "hbstowe-life-of-harriet-beecher-stowe-compiled-from-her-lett": [
+   6702,
+   "Life of Harriet Beecher Stowe Compiled From Her Letters and Journals by Her Son Charles Edward Stowe (compiled by Charles Edward Stowe)"
+  ],
+  "hbstowe-sunny-memories-of-foreign-lands-volume-2": [
+   6931,
+   "Sunny Memories of Foreign Lands, Volume 2"
+  ],
+  "hbstowe-bettys-bright-idea": [
+   10723,
+   "Betty's Bright Idea; Deacon Pitkin's Farm; and the First Christmas of New England"
+  ],
+  "hbstowe-uncle-toms-cabin-young-folks-edition": [
+   11171,
+   "Uncle Tom's Cabin, Young Folks' Edition"
+  ],
+  "hbstowe-pink-and-white-tyranny-a-society-novel": [
+   12354,
+   "Pink and White Tyranny A Society Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-sunny-memories-of-foreign-lands-volume-1": [
+   13945,
+   "Sunny Memories Of Foreign Lands, Volume 1"
+  ],
+  "hbstowe-lady-byron-vindicated-a-history-of-the-byron-controv": [
+   14061,
+   "Lady Byron Vindicated A history of the Byron controversy from its beginning in 1816 to the present time"
+  ],
+  "hbstowe-oldtown-fireside-stories": [
+   22320,
+   "Oldtown Fireside Stories"
+  ],
+  "hbstowe-household-papers-and-stories": [
+   31217,
+   "Household Papers and Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-may-flower-and-miscellaneous-writings": [
+   31390,
+   "The May Flower, and Miscellaneous Writings"
+  ],
+  "hbstowe-pearl-of-orrs-island": [
+   31522,
+   "The Pearl of Orr's Island: A Story of the Coast of Maine",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-palmetto-leaves": [
+   39972,
+   "Palmetto-Leaves",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-agnes-of-sorrento": [
+   43076,
+   "Agnes of Sorrento"
+  ],
+  "hbstowe-hes-coming-to-morrow": [
+   43373,
+   "He's Coming To-Morrow"
+  ],
+  "hbstowe-religious-poems": [
+   44778,
+   "Religious Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-lady-byron-vindicated": [
+   44791,
+   "Lady Byron Vindicated: A History of the Byron Controversy",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-chimney-corner": [
+   45415,
+   "The Chimney-Corner",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-men-of-our-times": [
+   46347,
+   "Men of Our Times; Or, Leading Patriots of the Day Being narratives of the lives and deeds of statesmen, generals, and orators. Including biographical sketches and anecdotes of Lincoln, Grant, Garrison, Sumner, Chase, Wilson, Greeley, Farragut, Andrew, Colfax, Stanton, Douglass, Buckingham, Sherman, Sheridan, Howard, Phillips and Beecher."
+  ],
+  "hbstowe-my-wife-and-i": [
+   47874,
+   "My Wife and I; Or, Harry Henderson's History"
+  ],
+  "hbstowe-ministers-wooing": [
+   47958,
+   "The Minister's Wooing"
+  ],
+  "hbstowe-poganuc-people": [
+   48190,
+   "Poganuc People: Their Loves and Lives",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-religious-studies-sketches-and-poems": [
+   48213,
+   "Religious Studies, Sketches and Poems"
+  ],
+  "hbstowe-we-and-our-neighbors": [
+   48603,
+   "We and Our Neighbors; or, The Records of an Unfashionable Street"
+  ],
+  "hbstowe-woman-in-sacred-history-a-series-of-sketches-drawn-f": [
+   48872,
+   "Woman in Sacred History A Series of Sketches Drawn from Scriptural, Historical, and Legendary Sources"
+  ],
+  "hbstowe-sam-lawsons-oldtown-fireside-stories-with-illustrati": [
+   50129,
+   "Sam Lawson's Oldtown Fireside Stories With Illustrations"
+  ],
+  "hbstowe-a-key-to-uncle-toms-cabin-presenting-the-original-fa": [
+   54812,
+   "A Key to Uncle Tom's Cabin Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work."
+  ],
+  "hbstowe-dred": [
+   55012,
+   "Dred: A Tale of the Great Dismal Swamp"
+  ],
+  "hbstowe-house-and-home-papers-seventh-edition": [
+   64120,
+   "House and Home Papers Seventh Edition",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-little-foxes": [
+   67383,
+   "Little Foxes"
+  ],
+  "hbstowe-queer-little-people": [
+   69223,
+   "Queer little people",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbstowe-a-reply-to-the-affectionate-and-christian-address-of": [
+   70613,
+   "A reply to \"The affectionate and Christian address of many thousands of women of Great Britain and Ireland, to their sisters, the women of the United States of America.\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58301": "PG 58301: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 203: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-28021": "PG 28021 Pictures and Stories from Uncle Tom's Cabin: an anonymous adaptation.",
+  "pg-36195": "PG 36195: a children's play by K. McDowell Rice from Stowe's story.",
+  "pg-42318": "PG 42318: Samuel R. Wells's compilation on spiritualism, with one piece by Stowe.",
+  "pg-72864": "PG 72864 Flowers and Fruit: passages compiled by Abbie H. Fairfield."
+ },
+ "_checks": {
+  "hbstowe-queer-little-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-american-womans-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-life-of-harriet-beecher-stowe-compiled-from-her-lett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-sunny-memories-of-foreign-lands-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-bettys-bright-idea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-uncle-toms-cabin-young-folks-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-pink-and-white-tyranny-a-society-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-sunny-memories-of-foreign-lands-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-lady-byron-vindicated-a-history-of-the-byron-controv": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-oldtown-fireside-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-household-papers-and-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-may-flower-and-miscellaneous-writings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-pearl-of-orrs-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-palmetto-leaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-agnes-of-sorrento": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-hes-coming-to-morrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-religious-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-lady-byron-vindicated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-chimney-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-men-of-our-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-my-wife-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-ministers-wooing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-poganuc-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-religious-studies-sketches-and-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-we-and-our-neighbors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-woman-in-sacred-history-a-series-of-sketches-drawn-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-sam-lawsons-oldtown-fireside-stories-with-illustrati": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-a-key-to-uncle-toms-cabin-presenting-the-original-fa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-dred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-house-and-home-papers-seventh-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-little-foxes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-queer-little-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbstowe-a-reply-to-the-affectionate-and-christian-address-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "harriet beecher stowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

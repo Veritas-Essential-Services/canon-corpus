@@ -1515,3 +1515,6 @@
 
 ## 2026-10-17 21:25 CDT — richard-harding-davis: done
 - richard-harding-davis: new shelf, 42 Gutenberg books, 25,183 units, 169 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:25 CDT — stowe-works: done
+- stowe-works: new shelf, 33 Gutenberg books, 47,017 units, 1435 ~2 ids; verify 0 mismatches, 0 rights flags.

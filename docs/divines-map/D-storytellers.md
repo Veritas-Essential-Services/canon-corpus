@@ -10775,6 +10775,52 @@ Shelf: `pipeline/richard-harding-davis_shelf.json` (2026-10-17; added at the coo
 | Three gringos in Venezuela and Central America | have | PG 69354, `rhdavis-three-gringos-in-venezuela-and-central-america` (472 units) |
 | The scarlet car; The Princess Aline | have | PG 69715, `rhdavis-scarlet-car-69715` (1154 units) |
 
+## Harriet Beecher Stowe
+
+Shelf: `pipeline/stowe-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (33 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Queer Little Folks | have | PG 2486, `hbstowe-queer-little-folks` (350 units) |
+| American Woman's Home: Or, Principles of Domestic Science; Being a Guide to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian Homes (with Catharine E. Beecher) | have | PG 6598, `hbstowe-american-womans-home` (1801 units) |
+| Life of Harriet Beecher Stowe Compiled From Her Letters and Journals by Her Son Charles Edward Stowe (compiled by Charles Edward Stowe) | have | PG 6702, `hbstowe-life-of-harriet-beecher-stowe-compiled-from-her-lett` (2360 units) |
+| Sunny Memories of Foreign Lands, Volume 2 | have | PG 6931, `hbstowe-sunny-memories-of-foreign-lands-volume-2` (1516 units) |
+| Betty's Bright Idea; Deacon Pitkin's Farm; and the First Christmas of New England | have | PG 10723, `hbstowe-bettys-bright-idea` (521 units) |
+| Uncle Tom's Cabin, Young Folks' Edition | have | PG 11171, `hbstowe-uncle-toms-cabin-young-folks-edition` (639 units) |
+| Pink and White Tyranny A Society Novel | have | PG 12354, `hbstowe-pink-and-white-tyranny-a-society-novel` (1566 units) |
+| Sunny Memories Of Foreign Lands, Volume 1 | have | PG 13945, `hbstowe-sunny-memories-of-foreign-lands-volume-1` (1353 units) |
+| Lady Byron Vindicated A history of the Byron controversy from its beginning in 1816 to the present time | have | PG 14061, `hbstowe-lady-byron-vindicated-a-history-of-the-byron-controv` (1503 units) |
+| Oldtown Fireside Stories | have | PG 22320, `hbstowe-oldtown-fireside-stories` (501 units) |
+| Household Papers and Stories | have | PG 31217, `hbstowe-household-papers-and-stories` (1778 units) |
+| The May Flower, and Miscellaneous Writings | have | PG 31390, `hbstowe-may-flower-and-miscellaneous-writings` (2181 units) |
+| The Pearl of Orr's Island: A Story of the Coast of Maine | have | PG 31522, `hbstowe-pearl-of-orrs-island` (2258 units) |
+| Palmetto-Leaves | have | PG 39972, `hbstowe-palmetto-leaves` (587 units) |
+| Agnes of Sorrento | have | PG 43076, `hbstowe-agnes-of-sorrento` (1919 units) |
+| He's Coming To-Morrow | have | PG 43373, `hbstowe-hes-coming-to-morrow` (73 units) |
+| Religious Poems | have | PG 44778, `hbstowe-religious-poems` (332 units) |
+| Lady Byron Vindicated: A History of the Byron Controversy | have | PG 44791, `hbstowe-lady-byron-vindicated` (1578 units) |
+| The Chimney-Corner | have | PG 45415, `hbstowe-chimney-corner` (735 units) |
+| Men of Our Times; Or, Leading Patriots of the Day Being narratives of the lives and deeds of statesmen, generals, and orators. Including biographical sketches and anecdotes of Lincoln, Grant, Garrison, Sumner, Chase, Wilson, Greeley, Farragut, Andrew, Colfax, Stanton, Douglass, Buckingham, Sherman, Sheridan, Howard, Phillips and Beecher. | have | PG 46347, `hbstowe-men-of-our-times` (1597 units) |
+| My Wife and I; Or, Harry Henderson's History | have | PG 47874, `hbstowe-my-wife-and-i` (2628 units) |
+| The Minister's Wooing | have | PG 47958, `hbstowe-ministers-wooing` (1865 units) |
+| Poganuc People: Their Loves and Lives | have | PG 48190, `hbstowe-poganuc-people` (1456 units) |
+| Religious Studies, Sketches and Poems | have | PG 48213, `hbstowe-religious-studies-sketches-and-poems` (1428 units) |
+| We and Our Neighbors; or, The Records of an Unfashionable Street | have | PG 48603, `hbstowe-we-and-our-neighbors` (2621 units) |
+| Woman in Sacred History A Series of Sketches Drawn from Scriptural, Historical, and Legendary Sources | have | PG 48872, `hbstowe-woman-in-sacred-history-a-series-of-sketches-drawn-f` (542 units) |
+| Sam Lawson's Oldtown Fireside Stories With Illustrations | have | PG 50129, `hbstowe-sam-lawsons-oldtown-fireside-stories-with-illustrati` (925 units) |
+| A Key to Uncle Tom's Cabin Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work. | have | PG 54812, `hbstowe-a-key-to-uncle-toms-cabin-presenting-the-original-fa` (3605 units) |
+| Dred: A Tale of the Great Dismal Swamp | have | PG 55012, `hbstowe-dred` (4052 units) |
+| House and Home Papers Seventh Edition | have | PG 64120, `hbstowe-house-and-home-papers-seventh-edition` (1101 units) |
+| Little Foxes | have | PG 67383, `hbstowe-little-foxes` (656 units) |
+| Queer little people | have | PG 69223, `hbstowe-queer-little-people` (590 units) |
+| A reply to "The affectionate and Christian address of many thousands of women of Great Britain and Ireland, to their sisters, the women of the United States of America." | have | PG 70613, `hbstowe-a-reply-to-the-affectionate-and-christian-address-of` (400 units) |
+| pg-58301 | excluded | PG 58301: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 203: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-28021 | excluded | PG 28021 Pictures and Stories from Uncle Tom's Cabin: an anonymous adaptation. |
+| pg-36195 | excluded | PG 36195: a children's play by K. McDowell Rice from Stowe's story. |
+| pg-42318 | excluded | PG 42318: Samuel R. Wells's compilation on spiritualism, with one piece by Stowe. |
+| pg-72864 | excluded | PG 72864 Flowers and Fruit: passages compiled by Abbie H. Fairfield. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
