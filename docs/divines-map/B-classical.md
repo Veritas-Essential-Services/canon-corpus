@@ -6694,6 +6694,7 @@ Shelf: `pipeline/wilmon-henry-sheldon_shelf.json`. One book.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Strife of Systems and Productive Duality (Harvard, 1918) |  | `sheldon-strife-of-systems-1918` | have-raw (IA `strifeofsystemsa00sheluoft`) |
 
 ## Henry Sturt (personal idealism)
 

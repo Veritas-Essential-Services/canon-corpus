@@ -1,0 +1,35 @@
+{
+ "_about": "Wilmon Henry Sheldon (1875-1981), Yale philosopher. Raw IA OCR: Strife of Systems and Productive Duality, an essay in philosophy (Cambridge: Harvard University Press, copyright 1918), clean 0.95. US public domain. No uids minted.",
+ "_author": "Wilmon Henry Sheldon",
+ "_name_words": [
+  "wilmon",
+  "henry",
+  "sheldon"
+ ],
+ "_surname": [
+  "sheldon",
+  "wilmon henry sheldon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sheldon-strife-of-systems-1918": [
+   "strifeofsystemsa00sheluoft",
+   "Strife of Systems and Productive Duality (Harvard, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sheldon-strife-of-systems-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sheldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[etc., etc.] 1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
