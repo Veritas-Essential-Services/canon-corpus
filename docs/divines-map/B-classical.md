@@ -3917,6 +3917,7 @@ Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Heg
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| The Essentials of Logic, ten lectures on judgment and inference (London and New York: Macmillan, 1895) |  | `bosanquet-essentials-of-logic-1895` | have (PG 63598) |
 | The Philosophical Theory of the State (London: Macmillan, 1899) |  | `bosanquet-theory-of-the-state-1899` | have-raw (IA `philosophicalthe00bosaiala`) |
 | A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
 | Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885) |  | `bosanquet-knowledge-and-reality-1885` | have-raw (IA `knowledgereality00bosa`) |
