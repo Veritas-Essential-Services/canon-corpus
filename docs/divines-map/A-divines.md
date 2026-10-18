@@ -6894,3 +6894,29 @@ Slugs `wiesinger-*`. His continuation of Olshausen: Philippians, Titus and 1 Tim
 | Work | Status | Where |
 |---|---|---|
 | Biblical Commentary on St. Paul's Epistles to the Philippians, to Titus, and the First to Timothy, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLI) | have-ocr | IA `biblicalcomment00fultgoog` |
+
+## Johann Peter Lange (round 30, my pick, 2026-10-18)
+
+Slugs `lange-*`. The Life of the Lord Jesus Christ and the commentary volumes he wrote alone.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of the Lord Jesus Christ, vol. 1, tr. Sophia Taylor, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186401lang` |
+| The Life of the Lord Jesus Christ, vol. 2, tr. J. E. Ryland, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186402lang` |
+| The Life of the Lord Jesus Christ, vol. 3, tr. M. G. Huxtable, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186403lang` |
+| The Life of the Lord Jesus Christ, vol. 4, tr. Robert Ernest Wallis, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186404lang` |
+| The Life of the Lord Jesus Christ, vol. 5, tr. S. Manson, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186405lang` |
+| The Life of the Lord Jesus Christ, vol. 6, tr. Robert Smith, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `lifeoflordjesusc186406lang` |
+| Theological and Homiletical Commentary on the Gospel of St Matthew, vol. I, tr. Alfred Edersheim (Edinburgh: T. & T. Clark, MDCCCLXI) | have-ocr | IA `india.history.resource.73253` |
+| Theological and Homiletical Commentary on the Gospel of St Matthew, vol. II, tr. Alfred Edersheim and W. B. Pope (Edinburgh: T. & T. Clark; year garbled, probably 1861) | have-ocr | IA `india.history.resource.78863` |
+| Commentary on the Gospels of St Matthew and St Mark, vol. III (Edinburgh: T. & T. Clark, MDCCCLXII) | have-ocr | IA `theologicalhomil03eder` |
+| The Gospel according to Matthew, tr. Philip Schaff (New York: Charles Scribner, 1865) | have-ocr | IA `gospelaccordingt00lang` |
+| The Gospel according to Mark, revised by William G. T. Shedd (New York: Charles Scribner, 1866) | have-ocr | IA `gospelaccording00lang` |
+| The Gospel according to John, tr. Edward D. Yeomans and Evelina Moore, ed. Philip Schaff (Edinburgh: T. & T. Clark, MDCCCLXXII) | have-ocr | IA `thegospelaccordi03languoft` |
+| Genesis, tr. Tayler Lewis and A. Gosman (New York: Charles Scribner, 1868) | have-ocr | IA `genesisorfirstbo0000lang` |
+| Exodus, tr. Charles M. Mead (New York: Scribner, Armstrong; copyright 1876) | have-ocr | IA `exodusorsecondbo00lang` |
+| Numbers, tr. Samuel T. Lowrie and A. Gosman (New York: Charles Scribner's Sons, 1899) | have-ocr | IA `numbersorfourthb31lang` |
+| The 1872 four-volume Life; 1902 Scribner reprints; a later Revelation (tr. Evelina Moore, ed. Craven) | alternate | not shelved |
+| Romans (with Fay), James (with van Oosterzee) and Gardiner's Leviticus: joint works | excluded | |
+| Schaff volumes by van Oosterzee, Lechler, Zöckler and others | excluded | |
+| Democritus ridens, by another J. P. Lange | excluded | |

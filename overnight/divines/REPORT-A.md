@@ -1438,3 +1438,6 @@
 
 ## 2026-10-17 20:26 CDT — august-wiesinger done
 - `pipeline/august-wiesinger_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — johann-peter-lange done
+- `pipeline/johann-peter-lange_shelf.json`: 0 CCEL, 0 PG, 15 IA. `--verify --record`: 0 mismatched. 0 uids minted.

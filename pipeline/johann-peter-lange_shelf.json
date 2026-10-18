@@ -1,0 +1,306 @@
+{
+ "_about": "Public-domain Johann Peter Lange (1802-1884, Bonn theologian) in English for the Word Hoard: The Life of the Lord Jesus Christ, ed. Marcus Dods (6 vols, Edinburgh, 1864), his Commentary on St Matthew and St Mark, tr. Alfred Edersheim and W. B. Pope (3 vols, 1861-1862), and the volumes of the Schaff Commentary he wrote alone (Matthew, Mark, John, Genesis, Exodus and Numbers, 1865-1899), from Internet Archive scans. The Schaff volumes by other hands are not on this shelf. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lange"
+ ],
+ "_surname": [
+  "lange",
+  "j. p. lange",
+  "john peter lange"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lange-life-of-christ-1": [
+   "lifeoflordjesusc186401lang",
+   "The Life of the Lord Jesus Christ, vol. 1, tr. Sophia Taylor, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-life-of-christ-2": [
+   "lifeoflordjesusc186402lang",
+   "The Life of the Lord Jesus Christ, vol. 2, tr. J. E. Ryland, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-life-of-christ-3": [
+   "lifeoflordjesusc186403lang",
+   "The Life of the Lord Jesus Christ, vol. 3, tr. M. G. Huxtable, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-life-of-christ-4": [
+   "lifeoflordjesusc186404lang",
+   "The Life of the Lord Jesus Christ, vol. 4, tr. Robert Ernest Wallis, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-life-of-christ-5": [
+   "lifeoflordjesusc186405lang",
+   "The Life of the Lord Jesus Christ, vol. 5, tr. S. Manson, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-life-of-christ-6": [
+   "lifeoflordjesusc186406lang",
+   "The Life of the Lord Jesus Christ, vol. 6, tr. Robert Smith, ed. Marcus Dods (Edinburgh: T. & T. Clark, MDCCCLXIV)"
+  ],
+  "lange-clark-matthew-1": [
+   "india.history.resource.73253",
+   "Theological and Homiletical Commentary on the Gospel of St Matthew, vol. I, tr. Alfred Edersheim (Edinburgh: T. & T. Clark, MDCCCLXI)",
+   "73253_djvu.txt"
+  ],
+  "lange-clark-matthew-2": [
+   "india.history.resource.78863",
+   "Theological and Homiletical Commentary on the Gospel of St Matthew, vol. II, tr. Alfred Edersheim and W. B. Pope (Edinburgh: T. & T. Clark; year garbled, probably 1861)",
+   "78863_djvu.txt"
+  ],
+  "lange-clark-matthew-mark-3": [
+   "theologicalhomil03eder",
+   "Commentary on the Gospels of St Matthew and St Mark, vol. III (Edinburgh: T. & T. Clark, MDCCCLXII)"
+  ],
+  "lange-schaff-matthew": [
+   "gospelaccordingt00lang",
+   "The Gospel according to Matthew, tr. Philip Schaff (New York: Charles Scribner, 1865)"
+  ],
+  "lange-schaff-mark": [
+   "gospelaccording00lang",
+   "The Gospel according to Mark, revised by William G. T. Shedd (New York: Charles Scribner, 1866)"
+  ],
+  "lange-schaff-john": [
+   "thegospelaccordi03languoft",
+   "The Gospel according to John, tr. Edward D. Yeomans and Evelina Moore, ed. Philip Schaff (Edinburgh: T. & T. Clark, MDCCCLXXII)"
+  ],
+  "lange-schaff-genesis": [
+   "genesisorfirstbo0000lang",
+   "Genesis, tr. Tayler Lewis and A. Gosman (New York: Charles Scribner, 1868)"
+  ],
+  "lange-schaff-exodus": [
+   "exodusorsecondbo00lang",
+   "Exodus, tr. Charles M. Mead (New York: Scribner, Armstrong; copyright 1876)"
+  ],
+  "lange-schaff-numbers": [
+   "numbersorfourthb31lang",
+   "Numbers, tr. Samuel T. Lowrie and A. Gosman (New York: Charles Scribner's Sons, 1899)"
+  ]
+ },
+ "_alternates": {
+  "lange-copies": "The 1872 four-volume Life; 1902 Scribner reprints; a later Revelation (tr. Evelina Moore, ed. Craven)"
+ },
+ "_excluded": {
+  "lange-joint": "Romans (with Fay), James (with van Oosterzee) and Gardiner's Leviticus: joint works",
+  "lange-others": "Schaff volumes by van Oosterzee, Lechler, Zöckler and others",
+  "lange-other-man": "Democritus ridens, by another J. P. Lange"
+ },
+ "_rights_checked": {
+  "lange-life-of-christ-2": "title page read: 'J. P. LAME' (OCR); tr. J. E. Ryland",
+  "lange-clark-matthew-mark-3": "title page read: translator not named; IA credits Edersheim",
+  "lange-schaff-numbers": "title page read: Scribner, 1899 (copyright 1879); the first printing was not found"
+ },
+ "_pending": {},
+ "_translators": {
+  "lange-life-of-christ-1": "taylor",
+  "lange-life-of-christ-2": "ryland",
+  "lange-life-of-christ-3": "huxtable",
+  "lange-life-of-christ-4": "wallis",
+  "lange-life-of-christ-5": "manson",
+  "lange-life-of-christ-6": "smith",
+  "lange-clark-matthew-1": "edersheim",
+  "lange-clark-matthew-2": "edersheim",
+  "lange-schaff-matthew": "schaff",
+  "lange-schaff-mark": "shedd",
+  "lange-schaff-john": "yeomans",
+  "lange-schaff-genesis": "lewis",
+  "lange-schaff-exodus": "mead",
+  "lange-schaff-numbers": "lowrie"
+ },
+ "_checks": {
+  "lange-life-of-christ-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-life-of-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "ryland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'J. P. LAME' (OCR); tr. J. E. Ryland"
+  },
+  "lange-life-of-christ-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "huxtable",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-life-of-christ-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "wallis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-life-of-christ-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "manson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-life-of-christ-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-clark-matthew-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "edersheim",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lange-clark-matthew-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "edersheim",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lange-clark-matthew-mark-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; IA credits Edersheim"
+  },
+  "lange-schaff-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "schaff",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-schaff-mark": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "shedd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-schaff-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "yeomans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lange-schaff-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lange-schaff-exodus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lange-schaff-numbers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lange",
+   "translator_claimed": "lowrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Scribner, 1899 (copyright 1879); the first printing was not found"
+  }
+ }
+}
