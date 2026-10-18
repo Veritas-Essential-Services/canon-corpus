@@ -25282,6 +25282,65 @@ Shelf: `pipeline/irvin-cobb_shelf.json` (2026-10-17; added at the coordinator's 
 | A laugh a day keeps the doctor away | have | PG 69467, `iscobb-a-laugh-a-day-keeps-the-doctor-away` (3208 units) |
 | The cowboy and the lady and her pa | have | PG 69929, `iscobb-cowboy-and-the-lady-and-her-pa` (155 units) |
 
+## E. F. Benson
+
+Shelf: `pipeline/ef-benson_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and ghost stories. Every English text under the name at Gutenberg that no other shelf holds (52 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Michael | have | PG 2072, `efbenson-michael` (2041 units) |
+| Queen Lucia | have | PG 6840, `efbenson-queen-lucia` (1471 units) |
+| Crescent and Iron Cross | have | PG 10881, `efbenson-crescent-and-iron-cross` (250 units) |
+| The Blotting Book | have | PG 11493, `efbenson-blotting-book` (817 units) |
+| Miss Mapp | have | PG 25919, `efbenson-miss-mapp` (1471 units) |
+| Daisy's Aunt | have | PG 28999, `efbenson-daisys-aunt` (1298 units) |
+| Across the Stream | have | PG 37917, `efbenson-across-the-stream` (1760 units) |
+| Dodo Wonders-- | have | PG 40719, `efbenson-dodo-wonders` (1183 units) |
+| Dodo's Daughter: A Sequel to Dodo | have | PG 40762, `efbenson-dodos-daughter` (2169 units) |
+| The Rubicon | have | PG 40793, `efbenson-rubicon` (1853 units) |
+| Scarlet and Hyssop: A Novel | have | PG 40795, `efbenson-scarlet-and-hyssop` (1742 units) |
+| Mammon and Co. | have | PG 40797, `efbenson-mammon-and-co` (2003 units) |
+| Deutschland Über Allah | have | PG 43073, `efbenson-deutschland-ber-allah` (42 units) |
+| The Angel of Pain | have | PG 44210, `efbenson-angel-of-pain` (2541 units) |
+| Dodo: A Detail of the Day. Volumes 1 and 2 | have | PG 44486, `efbenson-dodo` (1861 units) |
+| Arundel | have | PG 45719, `efbenson-arundel` (1484 units) |
+| Up and Down | have | PG 45742, `efbenson-up-and-down` (712 units) |
+| The House of Defence v. 1 | have | PG 45800, `efbenson-house-of-defence-v-1` (824 units) |
+| The House of Defence v. 2 | have | PG 45801, `efbenson-house-of-defence-v-2` (992 units) |
+| The Relentless City | have | PG 46057, `efbenson-relentless-city` (1921 units) |
+| The Judgment Books: A Story | have | PG 46077, `efbenson-judgment-books` (580 units) |
+| The Valkyries (retold from Wagner) | have | PG 46119, `efbenson-valkyries` (446 units) |
+| Thorley Weir | have | PG 46258, `efbenson-thorley-weir` (1663 units) |
+| The Vintage: A Romance of the Greek War of Independence | have | PG 46782, `efbenson-vintage` (2313 units) |
+| David Blaize | have | PG 48315, `efbenson-david-blaize` (2317 units) |
+| David Blaize and the Blue Door | have | PG 48505, `efbenson-david-blaize-and-the-blue-door` (922 units) |
+| The Capsina: An Historical Novel | have | PG 49533, `efbenson-capsina` (2045 units) |
+| An Act in a Backwater | have | PG 56465, `efbenson-an-act-in-a-backwater` (1532 units) |
+| The Countess of Lowndes Square, and Other Stories | have | PG 56579, `efbenson-countess-of-lowndes-square-and-other-stories` (1143 units) |
+| Daily Training (with Eustace Miles) | have | PG 56584, `efbenson-daily-training` (322 units) |
+| An Autumn Sowing | have | PG 56948, `efbenson-an-autumn-sowing` (1423 units) |
+| The Babe, B.A. : being the uneventful history of a young gentleman at Cambridge University | have | PG 56986, `efbenson-babe-b-a` (1126 units) |
+| The Challoners | have | PG 57002, `efbenson-challoners` (2149 units) |
+| The Freaks of Mayfair | have | PG 57006, `efbenson-freaks-of-mayfair` (289 units) |
+| Limitations: A Novel | have | PG 57560, `efbenson-limitations` (2481 units) |
+| Peter | have | PG 57568, `efbenson-peter` (1823 units) |
+| The Luck of the Vails: A Novel | have | PG 57690, `efbenson-luck-of-the-vails` (2418 units) |
+| Robin Linnet | have | PG 57867, `efbenson-robin-linnet` (2206 units) |
+| The Princess Sophia | have | PG 58150, `efbenson-princess-sophia` (1126 units) |
+| A Reaping | have | PG 58202, `efbenson-a-reaping` (935 units) |
+| The Book of Months | have | PG 58217, `efbenson-book-of-months` (924 units) |
+| Our Family Affairs, 1867-1896 | have | PG 58882, `efbenson-our-family-affairs-1867-1896` (726 units) |
+| The Osbornes | have | PG 58884, `efbenson-osbornes` (1593 units) |
+| The White Eagle of Poland | have | PG 58914, `efbenson-white-eagle-of-poland` (322 units) |
+| Winter Sports in Switzerland | have | PG 60153, `efbenson-winter-sports-in-switzerland` (727 units) |
+| Mrs. Ames | have | PG 60168, `efbenson-mrs-ames` (1432 units) |
+| Sheaves | have | PG 60241, `efbenson-sheaves` (2453 units) |
+| Visible and Invisible | have | PG 60339, `efbenson-visible-and-invisible` (1054 units) |
+| Colin | have | PG 60802, `efbenson-colin` (2180 units) |
+| Colin II: A Novel | have | PG 65309, `efbenson-colin-ii` (2102 units) |
+| The room in the tower, and other stories | have | PG 72421, `efbenson-room-in-the-tower-and-other-stories` (1525 units) |
+| Lucia in London | have | PG 74310, `efbenson-lucia-in-london` (1870 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1287,3 +1287,6 @@
 
 ## 2026-10-17 19:10 CDT — irvin-cobb: done
 - irvin-cobb: new shelf, 26 Gutenberg books, 21,735 units, 13 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:10 CDT — ef-benson: done
+- ef-benson: new shelf, 52 Gutenberg books, 74,602 units, 2184 ~2 ids; verify 0 mismatches, 0 rights flags.
