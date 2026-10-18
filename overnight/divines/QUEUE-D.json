@@ -2877,6 +2877,14 @@
       "started": "2026-10-17T19:43:43-05:00",
       "finished": "2026-10-17T19:43:44-05:00",
       "notes": "braddon: new shelf, 65 Gutenberg books, 121,301 units, 227 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mrs-oliphant",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Margaret Oliphant; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:43:47-05:00",
+      "finished": "2026-10-17T19:43:47-05:00",
+      "notes": "mrs-oliphant: new shelf, 124 Gutenberg books, 138,815 units, 4280 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

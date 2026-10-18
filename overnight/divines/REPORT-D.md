@@ -1356,3 +1356,6 @@
 
 ## 2026-10-17 19:43 CDT — braddon: done
 - braddon: new shelf, 65 Gutenberg books, 121,301 units, 227 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:43 CDT — mrs-oliphant: done
+- mrs-oliphant: new shelf, 124 Gutenberg books, 138,815 units, 4280 ~2 ids; verify 0 mismatches, 0 rights flags.

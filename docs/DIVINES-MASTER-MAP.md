@@ -29686,6 +29686,139 @@ Shelf: `pipeline/braddon_shelf.json` (2026-10-17; added at the coordinator's rel
 | Dead men's shoes, vol. 3 (of 3) | have | PG 78774, `braddon-dead-mens-shoes-vol-3-of-3` (1589 units) |
 | repeat-editions | excluded | PG 68040, 72236: second Gutenberg editions of titles already on the shelf. |
 
+## Margaret Oliphant
+
+Shelf: `pipeline/mrs-oliphant_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (124 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jeanne D'Arc: Her Life And Death | have | PG 2553, `moliphant-jeanne-darc` (542 units) |
+| Old Lady Mary: A Story of the Seen and the Unseen | have | PG 10049, `moliphant-old-lady-mary` (303 units) |
+| A Little Pilgrim: Stories of the Seen and the Unseen | have | PG 10050, `moliphant-a-little-pilgrim` (322 units) |
+| The Little Pilgrim: Further Experiences. Stories of the Seen and the Unseen. | have | PG 10051, `moliphant-little-pilgrim` (371 units) |
+| The Open Door, and the Portrait. Stories of the Seen and the Unseen. | have | PG 10052, `moliphant-open-door-and-the-portrait-stories-of-the-seen-and` (312 units) |
+| A Beleaguered City Being a Narrative of Certain Recent Events in the City of Semur, in the Department of the Haute Bourgogne. A Story of the Seen and the Unseen | have | PG 11521, `moliphant-a-beleaguered-city-being-a-narrative-of-certain-re` (311 units) |
+| A Little Pilgrim in the Unseen | have | PG 15410, `moliphant-a-little-pilgrim-in-the-unseen` (413 units) |
+| Royal Edinburgh: Her Saints, Kings, Prophets and Poets | have | PG 25701, `moliphant-royal-edinburgh` (626 units) |
+| The Perpetual Curate | have | PG 28006, `moliphant-perpetual-curate` (1241 units) |
+| Phoebe, Junior | have | PG 28629, `moliphant-phoebe-junior` (1876 units) |
+| The Marriage of Elinor | have | PG 28637, `moliphant-marriage-of-elinor` (2285 units) |
+| The Doctor's Family | have | PG 29890, `moliphant-doctors-family` (349 units) |
+| The Rector | have | PG 29891, `moliphant-rector` (126 units) |
+| Sir Tom | have | PG 30692, `moliphant-sir-tom` (1788 units) |
+| A Country Gentleman and His Family | have | PG 30835, `moliphant-a-country-gentleman-and-his-family` (1881 units) |
+| The Makers of Modern Rome, in Four Books | have | PG 40135, `moliphant-makers-of-modern-rome-in-four-books` (1234 units) |
+| Miss Marjoribanks | have | PG 41286, `moliphant-miss-marjoribanks` (1347 units) |
+| Salem Chapel, v. 1/2 | have | PG 42013, `moliphant-salem-chapel-v-1-2` (636 units) |
+| Salem Chapel, v. 2/2 | have | PG 42044, `moliphant-salem-chapel-v-2-2` (445 units) |
+| The Curate in Charge | have | PG 42045, `moliphant-curate-in-charge` (933 units) |
+| The Days of My Life: An Autobiography | have | PG 43404, `moliphant-days-of-my-life` (1708 units) |
+| Merkland; or, Self Sacrifice | have | PG 43811, `moliphant-merkland` (3153 units) |
+| Madonna Mary | have | PG 44080, `moliphant-madonna-mary` (1651 units) |
+| The House on the Moor, v. 1/3 | have | PG 45816, `moliphant-house-on-the-moor-v-1-3` (590 units) |
+| The House on the Moor, v. 2/3 | have | PG 45817, `moliphant-house-on-the-moor-v-2-3` (450 units) |
+| The House on the Moor, v. 3/3 | have | PG 45818, `moliphant-house-on-the-moor-v-3-3` (475 units) |
+| The Wizard's Son, Vol. 1 (of 3) | have | PG 47555, `moliphant-wizards-son-vol-1-of-3` (876 units) |
+| The Wizard's Son, Vol. 2 (of 3) | have | PG 47556, `moliphant-wizards-son-vol-2-of-3` (807 units) |
+| The Wizard's Son, Vol. 3 (of 3) | have | PG 47557, `moliphant-wizards-son-vol-3-of-3` (854 units) |
+| The Ladies Lindores, Vol. 1 (of 3) | have | PG 47591, `moliphant-ladies-lindores-vol-1-of-3` (630 units) |
+| The Ladies Lindores, Vol. 2 (of 3) | have | PG 47592, `moliphant-ladies-lindores-vol-2-of-3` (676 units) |
+| The Ladies Lindores, Vol. 3 (of 3) | have | PG 47593, `moliphant-ladies-lindores-vol-3-of-3` (750 units) |
+| At His Gates: A Novel. Vol. 1 (of 3) | have | PG 47618, `moliphant-at-his-gates` (518 units) |
+| At His Gates: A Novel. Vol. 2 (of 3) | have | PG 47619, `moliphant-at-his-gates-47619` (757 units) |
+| At His Gates: A Novel. Vol. 3 (of 3) | have | PG 47620, `moliphant-at-his-gates-47620` (672 units) |
+| Hester: A Story of Contemporary Life, Volume 1 (of 3) | have | PG 48197, `moliphant-hester` (797 units) |
+| Hester: A Story of Contemporary Life, Volume 2 (of 3) | have | PG 48198, `moliphant-hester-48198` (816 units) |
+| Hester: A Story of Contemporary Life, Volume 3 (of 3) | have | PG 48199, `moliphant-hester-48199` (816 units) |
+| It was a Lover and His Lass | have | PG 49597, `moliphant-it-was-a-lover-and-his-lass` (2776 units) |
+| The Last of the Mortimers: A Story in Two Voices | have | PG 51265, `moliphant-last-of-the-mortimers` (1846 units) |
+| The Sorceress; v. 1 of 3 | have | PG 51617, `moliphant-sorceress` (701 units) |
+| The Sorceress, v. 2 of 3 | have | PG 51816, `moliphant-sorceress-v-2-of-3` (652 units) |
+| The Sorceress (complete) | have | PG 52060, `moliphant-sorceress-complete` (1960 units) |
+| Whiteladies | have | PG 52388, `moliphant-whiteladies` (1861 units) |
+| The Cuckoo in the Nest, v. 1/2 | have | PG 52575, `moliphant-cuckoo-in-the-nest-v-1-2` (955 units) |
+| The Two Marys | have | PG 52615, `moliphant-two-marys` (970 units) |
+| The Cuckoo in the Nest, v. 2/2 | have | PG 52756, `moliphant-cuckoo-in-the-nest-v-2-2` (1080 units) |
+| The Sorceress, v. 3 of 3 | have | PG 53182, `moliphant-sorceress-v-3-of-3` (641 units) |
+| Ombra | have | PG 53583, `moliphant-ombra` (2166 units) |
+| Historical Characters in the Reign of Queen Anne | have | PG 53644, `moliphant-historical-characters-in-the-reign-of-queen-anne` (445 units) |
+| Heart and Cross | have | PG 53645, `moliphant-heart-and-cross` (506 units) |
+| Sir Robert's Fortune: A Novel | have | PG 53744, `moliphant-sir-roberts-fortune` (1833 units) |
+| The Laird of Norlaw; A Scottish Story | have | PG 54053, `moliphant-laird-of-norlaw` (1795 units) |
+| Neighbours on the Green | have | PG 54106, `moliphant-neighbours-on-the-green` (1850 units) |
+| Squire Arden; volume 1 of 3 | have | PG 54108, `moliphant-squire-arden` (687 units) |
+| Squire Arden; volume 2 of 3 | have | PG 54122, `moliphant-squire-arden-54122` (643 units) |
+| Squire Arden; volume 3 of 3 | have | PG 54186, `moliphant-squire-arden-54186` (654 units) |
+| Brownlows: A Novel | have | PG 54841, `moliphant-brownlows` (1884 units) |
+| A Rose in June | have | PG 54882, `moliphant-a-rose-in-june` (954 units) |
+| The Athelings; or, the Three Gifts. Complete | have | PG 55122, `moliphant-athelings-55122` (1710 units) |
+| Madam: A Novel | have | PG 55125, `moliphant-madam` (1860 units) |
+| A House in Bloomsbury | have | PG 55140, `moliphant-a-house-in-bloomsbury` (1146 units) |
+| Old Mr. Tredgold | have | PG 55155, `moliphant-old-mr-tredgold` (2016 units) |
+| The Unjust Steward; or, The Minister's Debt | have | PG 55166, `moliphant-unjust-steward` (1027 units) |
+| The Ways of Life: Two Stories | have | PG 55270, `moliphant-ways-of-life` (766 units) |
+| Two Strangers | have | PG 55784, `moliphant-two-strangers` (334 units) |
+| Who Was Lost and Is Found: A Novel | have | PG 55827, `moliphant-who-was-lost-and-is-found` (1778 units) |
+| Lady William | have | PG 55868, `moliphant-lady-william` (2847 units) |
+| A son of the soil | have | PG 57988, `moliphant-a-son-of-the-soil` (1265 units) |
+| The Minister's Wife | have | PG 58253, `moliphant-ministers-wife` (2052 units) |
+| The Three Brothers; Complete | have | PG 58323, `moliphant-three-brothers-58323` (2308 units) |
+| Sons and Daughters | have | PG 58446, `moliphant-sons-and-daughters` (405 units) |
+| Lady Car: The Sequel of a Life | have | PG 58459, `moliphant-lady-car` (660 units) |
+| The Story of Valentine and His Brother | have | PG 58462, `moliphant-story-of-valentine-and-his-brother` (1513 units) |
+| Diana Trelawny | have | PG 58470, `moliphant-diana-trelawny` (660 units) |
+| Kirsteen: The Story of a Scotch Family Seventy Years Ago | have | PG 58707, `moliphant-kirsteen` (1753 units) |
+| The Land of Darkness Along with Some Further Chapters in the Experiences of the Little Pilgrim | have | PG 58710, `moliphant-land-of-darkness-along-with-some-further-chapters` (386 units) |
+| The Heir Presumptive and the Heir Apparent | have | PG 59055, `moliphant-heir-presumptive-and-the-heir-apparent` (1776 units) |
+| The Quiet Heart | have | PG 59326, `moliphant-quiet-heart` (809 units) |
+| The Railway Man and His Children | have | PG 59424, `moliphant-railway-man-and-his-children` (2735 units) |
+| The Son of His Father; vol. 1/3 | have | PG 59720, `moliphant-son-of-his-father` (1005 units) |
+| The Son of His Father; vol. 2/3 | have | PG 59721, `moliphant-son-of-his-father-59721` (765 units) |
+| The Executor Blackwood's Edinburgh Magazine vol. LXXXIX | have | PG 59759, `moliphant-executor-blackwoods-edinburgh-magazine-vol-lxxxix` (119 units) |
+| The Story of a Governess | have | PG 59918, `moliphant-story-of-a-governess` (2302 units) |
+| The Son of His Father; vol. 3/3 | have | PG 60018, `moliphant-son-of-his-father-60018` (841 units) |
+| Joyce | have | PG 61378, `moliphant-joyce` (4793 units) |
+| A House Divided Against Itself (Complete) | have | PG 61445, `moliphant-a-house-divided-against-itself-complete` (2344 units) |
+| The Mystery of Mrs. Blencarrow | have | PG 61482, `moliphant-mystery-of-mrs-blencarrow` (459 units) |
+| A Poor Gentleman | have | PG 61782, `moliphant-a-poor-gentleman` (1880 units) |
+| Effie Ogilvie: the story of a young life (Complete) | have | PG 61916, `moliphant-effie-ogilvie-61916` (1274 units) |
+| The Lady's Walk | have | PG 61954, `moliphant-ladys-walk` (328 units) |
+| The Prodigals and Their Inheritance; Complete | have | PG 62466, `moliphant-prodigals-and-their-inheritance-62466` (752 units) |
+| Harry Joscelyn; vol. 1 of 3 | have | PG 63142, `moliphant-harry-joscelyn` (593 units) |
+| Harry Joscelyn; vol. 2 of 3 | have | PG 63158, `moliphant-harry-joscelyn-63158` (587 units) |
+| Cousin Mary | have | PG 63302, `moliphant-cousin-mary` (735 units) |
+| Harry Joscelyn; vol. 3 of 3 | have | PG 63562, `moliphant-harry-joscelyn-63562` (673 units) |
+| Oliver's Bride; A true Story | have | PG 63582, `moliphant-olivers-bride` (297 units) |
+| The Duke's Daughter; and, The Fugitives; vol. 1/3 | have | PG 63901, `moliphant-dukes-daughter` (325 units) |
+| The Duke's Daughter; and, The Fugitives; vol. 2/3 | have | PG 63902, `moliphant-dukes-daughter-63902` (266 units) |
+| The Duke's Daughter; and, The Fugitives; vol. 3/3 | have | PG 63903, `moliphant-dukes-daughter-63903` (468 units) |
+| The Greatest Heiress in England | have | PG 64540, `moliphant-greatest-heiress-in-england` (2100 units) |
+| He that will not when he may; vol. I | have | PG 64777, `moliphant-he-that-will-not-when-he-may` (710 units) |
+| He that will not when he may; vol. II | have | PG 64778, `moliphant-he-that-will-not-when-he-may-64778` (669 units) |
+| He that will not when he may; vol. III | have | PG 64779, `moliphant-he-that-will-not-when-he-may-64779` (684 units) |
+| In Trust: The Story of a Lady and Her Lover | have | PG 64888, `moliphant-in-trust` (1481 units) |
+| Within the Precincts | have | PG 65153, `moliphant-within-the-precincts` (1628 units) |
+| John, A Love Story; vol. 1 of 2 | have | PG 65226, `moliphant-john-a-love-story` (624 units) |
+| John, A Love Story; vol. 2 of 2 | have | PG 65227, `moliphant-john-a-love-story-65227` (616 units) |
+| Mrs. Arthur; vol. 1 of 3 | have | PG 65328, `moliphant-mrs-arthur` (658 units) |
+| Mrs. Arthur; vol. 2 of 3 | have | PG 65329, `moliphant-mrs-arthur-65329` (632 units) |
+| Mrs. Arthur; vol. 3 of 3 | have | PG 65330, `moliphant-mrs-arthur-65330` (587 units) |
+| The Primrose Path: A Chapter in the Annals of the Kingdom of Fife | have | PG 65458, `moliphant-primrose-path` (2142 units) |
+| May; vol. I | have | PG 65631, `moliphant-may` (1098 units) |
+| May; vol. II | have | PG 65633, `moliphant-may-65633` (896 units) |
+| For love and life; vol. 1 of 2 | have | PG 65934, `moliphant-for-love-and-life` (884 units) |
+| For love and life; vol. 2 of 2 | have | PG 65935, `moliphant-for-love-and-life-65935` (1052 units) |
+| Young Musgrave | have | PG 66376, `moliphant-young-musgrave` (1565 units) |
+| Innocent | have | PG 71671, `moliphant-innocent` (2023 units) |
+| Christian Melville | have | PG 71919, `moliphant-christian-melville` (381 units) |
+| Carità | have | PG 72221, `moliphant-carit` (2032 units) |
+| Harry Muir | have | PG 72715, `moliphant-harry-muir` (796 units) |
+| Caleb Field | have | PG 74734, `moliphant-caleb-field` (734 units) |
+| Memoirs and resolutions of Adam Graeme of Mossgray, including some chronicles of the borough of Fendie | have | PG 74930, `moliphant-memoirs-and-resolutions-of-adam-graeme-of-mossgray` (2322 units) |
+| An odd couple | have | PG 78381, `moliphant-an-odd-couple` (693 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 54510, 54937, 55121, 58320, 58321, 58322, 61442, 61443, 61444, 61914, 61915, 62464, 62465: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 59211, 72777, 73086: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

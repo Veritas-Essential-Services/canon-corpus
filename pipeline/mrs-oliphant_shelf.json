@@ -1,0 +1,1701 @@
+{
+ "_about": "Margaret Oliphant's (Mrs. Oliphant) novels, the Chronicles of Carlingford, tales of the unseen, and her histories and biographies: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Margaret Oliphant",
+ "_name_words": [
+  "oliphant"
+ ],
+ "_surname": [
+  "margaret oliphant",
+  "mrs. oliphant",
+  "margaret oliphant wilson oliphant",
+  "m. o. w. oliphant",
+  "margaret o. oliphant",
+  "mrs. margaret oliphant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "moliphant-jeanne-darc": [
+   2553,
+   "Jeanne D'Arc: Her Life And Death"
+  ],
+  "moliphant-old-lady-mary": [
+   10049,
+   "Old Lady Mary: A Story of the Seen and the Unseen"
+  ],
+  "moliphant-a-little-pilgrim": [
+   10050,
+   "A Little Pilgrim: Stories of the Seen and the Unseen"
+  ],
+  "moliphant-little-pilgrim": [
+   10051,
+   "The Little Pilgrim: Further Experiences. Stories of the Seen and the Unseen."
+  ],
+  "moliphant-open-door-and-the-portrait-stories-of-the-seen-and": [
+   10052,
+   "The Open Door, and the Portrait. Stories of the Seen and the Unseen."
+  ],
+  "moliphant-a-beleaguered-city-being-a-narrative-of-certain-re": [
+   11521,
+   "A Beleaguered City Being a Narrative of Certain Recent Events in the City of Semur, in the Department of the Haute Bourgogne. A Story of the Seen and the Unseen"
+  ],
+  "moliphant-a-little-pilgrim-in-the-unseen": [
+   15410,
+   "A Little Pilgrim in the Unseen"
+  ],
+  "moliphant-royal-edinburgh": [
+   25701,
+   "Royal Edinburgh: Her Saints, Kings, Prophets and Poets"
+  ],
+  "moliphant-perpetual-curate": [
+   28006,
+   "The Perpetual Curate"
+  ],
+  "moliphant-phoebe-junior": [
+   28629,
+   "Phoebe, Junior",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-marriage-of-elinor": [
+   28637,
+   "The Marriage of Elinor"
+  ],
+  "moliphant-doctors-family": [
+   29890,
+   "The Doctor's Family"
+  ],
+  "moliphant-rector": [
+   29891,
+   "The Rector"
+  ],
+  "moliphant-sir-tom": [
+   30692,
+   "Sir Tom"
+  ],
+  "moliphant-a-country-gentleman-and-his-family": [
+   30835,
+   "A Country Gentleman and His Family"
+  ],
+  "moliphant-makers-of-modern-rome-in-four-books": [
+   40135,
+   "The Makers of Modern Rome, in Four Books",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-miss-marjoribanks": [
+   41286,
+   "Miss Marjoribanks",
+   {
+    "levels": [
+     {
+      "re": "_Chapter [IVXLC]+_$"
+     }
+    ],
+    "start": "_Chapter I_$",
+    "front": true
+   }
+  ],
+  "moliphant-salem-chapel-v-1-2": [
+   42013,
+   "Salem Chapel, v. 1/2"
+  ],
+  "moliphant-salem-chapel-v-2-2": [
+   42044,
+   "Salem Chapel, v. 2/2"
+  ],
+  "moliphant-curate-in-charge": [
+   42045,
+   "The Curate in Charge",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-days-of-my-life": [
+   43404,
+   "The Days of My Life: An Autobiography"
+  ],
+  "moliphant-merkland": [
+   43811,
+   "Merkland; or, Self Sacrifice"
+  ],
+  "moliphant-madonna-mary": [
+   44080,
+   "Madonna Mary"
+  ],
+  "moliphant-house-on-the-moor-v-1-3": [
+   45816,
+   "The House on the Moor, v. 1/3"
+  ],
+  "moliphant-house-on-the-moor-v-2-3": [
+   45817,
+   "The House on the Moor, v. 2/3"
+  ],
+  "moliphant-house-on-the-moor-v-3-3": [
+   45818,
+   "The House on the Moor, v. 3/3"
+  ],
+  "moliphant-wizards-son-vol-1-of-3": [
+   47555,
+   "The Wizard's Son, Vol. 1 (of 3)"
+  ],
+  "moliphant-wizards-son-vol-2-of-3": [
+   47556,
+   "The Wizard's Son, Vol. 2 (of 3)"
+  ],
+  "moliphant-wizards-son-vol-3-of-3": [
+   47557,
+   "The Wizard's Son, Vol. 3 (of 3)"
+  ],
+  "moliphant-ladies-lindores-vol-1-of-3": [
+   47591,
+   "The Ladies Lindores, Vol. 1 (of 3)"
+  ],
+  "moliphant-ladies-lindores-vol-2-of-3": [
+   47592,
+   "The Ladies Lindores, Vol. 2 (of 3)"
+  ],
+  "moliphant-ladies-lindores-vol-3-of-3": [
+   47593,
+   "The Ladies Lindores, Vol. 3 (of 3)"
+  ],
+  "moliphant-at-his-gates": [
+   47618,
+   "At His Gates: A Novel. Vol. 1 (of 3)"
+  ],
+  "moliphant-at-his-gates-47619": [
+   47619,
+   "At His Gates: A Novel. Vol. 2 (of 3)"
+  ],
+  "moliphant-at-his-gates-47620": [
+   47620,
+   "At His Gates: A Novel. Vol. 3 (of 3)"
+  ],
+  "moliphant-hester": [
+   48197,
+   "Hester: A Story of Contemporary Life, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-hester-48198": [
+   48198,
+   "Hester: A Story of Contemporary Life, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-hester-48199": [
+   48199,
+   "Hester: A Story of Contemporary Life, Volume 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-it-was-a-lover-and-his-lass": [
+   49597,
+   "It was a Lover and His Lass"
+  ],
+  "moliphant-last-of-the-mortimers": [
+   51265,
+   "The Last of the Mortimers: A Story in Two Voices"
+  ],
+  "moliphant-sorceress": [
+   51617,
+   "The Sorceress; v. 1 of 3"
+  ],
+  "moliphant-sorceress-v-2-of-3": [
+   51816,
+   "The Sorceress, v. 2 of 3"
+  ],
+  "moliphant-sorceress-complete": [
+   52060,
+   "The Sorceress (complete)"
+  ],
+  "moliphant-whiteladies": [
+   52388,
+   "Whiteladies"
+  ],
+  "moliphant-cuckoo-in-the-nest-v-1-2": [
+   52575,
+   "The Cuckoo in the Nest, v. 1/2"
+  ],
+  "moliphant-two-marys": [
+   52615,
+   "The Two Marys",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-cuckoo-in-the-nest-v-2-2": [
+   52756,
+   "The Cuckoo in the Nest, v. 2/2"
+  ],
+  "moliphant-sorceress-v-3-of-3": [
+   53182,
+   "The Sorceress, v. 3 of 3"
+  ],
+  "moliphant-ombra": [
+   53583,
+   "Ombra"
+  ],
+  "moliphant-historical-characters-in-the-reign-of-queen-anne": [
+   53644,
+   "Historical Characters in the Reign of Queen Anne",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-heart-and-cross": [
+   53645,
+   "Heart and Cross"
+  ],
+  "moliphant-sir-roberts-fortune": [
+   53744,
+   "Sir Robert's Fortune: A Novel"
+  ],
+  "moliphant-laird-of-norlaw": [
+   54053,
+   "The Laird of Norlaw; A Scottish Story"
+  ],
+  "moliphant-neighbours-on-the-green": [
+   54106,
+   "Neighbours on the Green",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-squire-arden": [
+   54108,
+   "Squire Arden; volume 1 of 3"
+  ],
+  "moliphant-squire-arden-54122": [
+   54122,
+   "Squire Arden; volume 2 of 3"
+  ],
+  "moliphant-squire-arden-54186": [
+   54186,
+   "Squire Arden; volume 3 of 3"
+  ],
+  "moliphant-brownlows": [
+   54841,
+   "Brownlows: A Novel"
+  ],
+  "moliphant-a-rose-in-june": [
+   54882,
+   "A Rose in June"
+  ],
+  "moliphant-athelings-55122": [
+   55122,
+   "The Athelings; or, the Three Gifts. Complete"
+  ],
+  "moliphant-madam": [
+   55125,
+   "Madam: A Novel"
+  ],
+  "moliphant-a-house-in-bloomsbury": [
+   55140,
+   "A House in Bloomsbury"
+  ],
+  "moliphant-old-mr-tredgold": [
+   55155,
+   "Old Mr. Tredgold"
+  ],
+  "moliphant-unjust-steward": [
+   55166,
+   "The Unjust Steward; or, The Minister's Debt",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-ways-of-life": [
+   55270,
+   "The Ways of Life: Two Stories",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "moliphant-two-strangers": [
+   55784,
+   "Two Strangers"
+  ],
+  "moliphant-who-was-lost-and-is-found": [
+   55827,
+   "Who Was Lost and Is Found: A Novel"
+  ],
+  "moliphant-lady-william": [
+   55868,
+   "Lady William"
+  ],
+  "moliphant-a-son-of-the-soil": [
+   57988,
+   "A son of the soil"
+  ],
+  "moliphant-ministers-wife": [
+   58253,
+   "The Minister's Wife"
+  ],
+  "moliphant-three-brothers-58323": [
+   58323,
+   "The Three Brothers; Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-sons-and-daughters": [
+   58446,
+   "Sons and Daughters"
+  ],
+  "moliphant-lady-car": [
+   58459,
+   "Lady Car: The Sequel of a Life"
+  ],
+  "moliphant-story-of-valentine-and-his-brother": [
+   58462,
+   "The Story of Valentine and His Brother"
+  ],
+  "moliphant-diana-trelawny": [
+   58470,
+   "Diana Trelawny"
+  ],
+  "moliphant-kirsteen": [
+   58707,
+   "Kirsteen: The Story of a Scotch Family Seventy Years Ago"
+  ],
+  "moliphant-land-of-darkness-along-with-some-further-chapters": [
+   58710,
+   "The Land of Darkness Along with Some Further Chapters in the Experiences of the Little Pilgrim"
+  ],
+  "moliphant-heir-presumptive-and-the-heir-apparent": [
+   59055,
+   "The Heir Presumptive and the Heir Apparent"
+  ],
+  "moliphant-quiet-heart": [
+   59326,
+   "The Quiet Heart"
+  ],
+  "moliphant-railway-man-and-his-children": [
+   59424,
+   "The Railway Man and His Children"
+  ],
+  "moliphant-son-of-his-father": [
+   59720,
+   "The Son of His Father; vol. 1/3",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-son-of-his-father-59721": [
+   59721,
+   "The Son of His Father; vol. 2/3"
+  ],
+  "moliphant-executor-blackwoods-edinburgh-magazine-vol-lxxxix": [
+   59759,
+   "The Executor Blackwood's Edinburgh Magazine vol. LXXXIX"
+  ],
+  "moliphant-story-of-a-governess": [
+   59918,
+   "The Story of a Governess"
+  ],
+  "moliphant-son-of-his-father-60018": [
+   60018,
+   "The Son of His Father; vol. 3/3"
+  ],
+  "moliphant-joyce": [
+   61378,
+   "Joyce"
+  ],
+  "moliphant-a-house-divided-against-itself-complete": [
+   61445,
+   "A House Divided Against Itself (Complete)"
+  ],
+  "moliphant-mystery-of-mrs-blencarrow": [
+   61482,
+   "The Mystery of Mrs. Blencarrow"
+  ],
+  "moliphant-a-poor-gentleman": [
+   61782,
+   "A Poor Gentleman"
+  ],
+  "moliphant-effie-ogilvie-61916": [
+   61916,
+   "Effie Ogilvie: the story of a young life (Complete)"
+  ],
+  "moliphant-ladys-walk": [
+   61954,
+   "The Lady's Walk"
+  ],
+  "moliphant-prodigals-and-their-inheritance-62466": [
+   62466,
+   "The Prodigals and Their Inheritance; Complete"
+  ],
+  "moliphant-harry-joscelyn": [
+   63142,
+   "Harry Joscelyn; vol. 1 of 3"
+  ],
+  "moliphant-harry-joscelyn-63158": [
+   63158,
+   "Harry Joscelyn; vol. 2 of 3"
+  ],
+  "moliphant-cousin-mary": [
+   63302,
+   "Cousin Mary"
+  ],
+  "moliphant-harry-joscelyn-63562": [
+   63562,
+   "Harry Joscelyn; vol. 3 of 3"
+  ],
+  "moliphant-olivers-bride": [
+   63582,
+   "Oliver's Bride; A true Story"
+  ],
+  "moliphant-dukes-daughter": [
+   63901,
+   "The Duke's Daughter; and, The Fugitives; vol. 1/3"
+  ],
+  "moliphant-dukes-daughter-63902": [
+   63902,
+   "The Duke's Daughter; and, The Fugitives; vol. 2/3"
+  ],
+  "moliphant-dukes-daughter-63903": [
+   63903,
+   "The Duke's Daughter; and, The Fugitives; vol. 3/3"
+  ],
+  "moliphant-greatest-heiress-in-england": [
+   64540,
+   "The Greatest Heiress in England"
+  ],
+  "moliphant-he-that-will-not-when-he-may": [
+   64777,
+   "He that will not when he may; vol. I"
+  ],
+  "moliphant-he-that-will-not-when-he-may-64778": [
+   64778,
+   "He that will not when he may; vol. II"
+  ],
+  "moliphant-he-that-will-not-when-he-may-64779": [
+   64779,
+   "He that will not when he may; vol. III"
+  ],
+  "moliphant-in-trust": [
+   64888,
+   "In Trust: The Story of a Lady and Her Lover",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-within-the-precincts": [
+   65153,
+   "Within the Precincts"
+  ],
+  "moliphant-john-a-love-story": [
+   65226,
+   "John, A Love Story; vol. 1 of 2"
+  ],
+  "moliphant-john-a-love-story-65227": [
+   65227,
+   "John, A Love Story; vol. 2 of 2"
+  ],
+  "moliphant-mrs-arthur": [
+   65328,
+   "Mrs. Arthur; vol. 1 of 3"
+  ],
+  "moliphant-mrs-arthur-65329": [
+   65329,
+   "Mrs. Arthur; vol. 2 of 3"
+  ],
+  "moliphant-mrs-arthur-65330": [
+   65330,
+   "Mrs. Arthur; vol. 3 of 3"
+  ],
+  "moliphant-primrose-path": [
+   65458,
+   "The Primrose Path: A Chapter in the Annals of the Kingdom of Fife"
+  ],
+  "moliphant-may": [
+   65631,
+   "May; vol. I"
+  ],
+  "moliphant-may-65633": [
+   65633,
+   "May; vol. II"
+  ],
+  "moliphant-for-love-and-life": [
+   65934,
+   "For love and life; vol. 1 of 2"
+  ],
+  "moliphant-for-love-and-life-65935": [
+   65935,
+   "For love and life; vol. 2 of 2"
+  ],
+  "moliphant-young-musgrave": [
+   66376,
+   "Young Musgrave"
+  ],
+  "moliphant-innocent": [
+   71671,
+   "Innocent"
+  ],
+  "moliphant-christian-melville": [
+   71919,
+   "Christian Melville",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-carit": [
+   72221,
+   "Carità",
+   {
+    "contents_only": true
+   }
+  ],
+  "moliphant-harry-muir": [
+   72715,
+   "Harry Muir"
+  ],
+  "moliphant-caleb-field": [
+   74734,
+   "Caleb Field"
+  ],
+  "moliphant-memoirs-and-resolutions-of-adam-graeme-of-mossgray": [
+   74930,
+   "Memoirs and resolutions of Adam Graeme of Mossgray, including some chronicles of the borough of Fendie"
+  ],
+  "moliphant-an-odd-couple": [
+   78381,
+   "An odd couple"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 54510, 54937, 55121, 58320, 58321, 58322, 61442, 61443, 61444, 61914, 61915, 62464, 62465: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 59211, 72777, 73086: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "moliphant-jeanne-darc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-old-lady-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-little-pilgrim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-little-pilgrim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-open-door-and-the-portrait-stories-of-the-seen-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-beleaguered-city-being-a-narrative-of-certain-re": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-little-pilgrim-in-the-unseen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-royal-edinburgh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-perpetual-curate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-phoebe-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-marriage-of-elinor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-doctors-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-rector": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sir-tom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-country-gentleman-and-his-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-makers-of-modern-rome-in-four-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-miss-marjoribanks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-salem-chapel-v-1-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-salem-chapel-v-2-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-curate-in-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-days-of-my-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-merkland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-madonna-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-house-on-the-moor-v-1-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-house-on-the-moor-v-2-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-house-on-the-moor-v-3-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-wizards-son-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-wizards-son-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-wizards-son-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ladies-lindores-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ladies-lindores-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ladies-lindores-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-at-his-gates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-at-his-gates-47619": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-at-his-gates-47620": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-hester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-hester-48198": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-hester-48199": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-it-was-a-lover-and-his-lass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-last-of-the-mortimers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sorceress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sorceress-v-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sorceress-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-whiteladies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-cuckoo-in-the-nest-v-1-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-two-marys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-cuckoo-in-the-nest-v-2-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sorceress-v-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ombra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-historical-characters-in-the-reign-of-queen-anne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-heart-and-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sir-roberts-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-laird-of-norlaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-neighbours-on-the-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-squire-arden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-squire-arden-54122": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-squire-arden-54186": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-brownlows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-rose-in-june": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-athelings-55122": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-madam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-house-in-bloomsbury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-old-mr-tredgold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-unjust-steward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ways-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-two-strangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-who-was-lost-and-is-found": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-lady-william": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-son-of-the-soil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ministers-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-three-brothers-58323": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-sons-and-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-lady-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-story-of-valentine-and-his-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-diana-trelawny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-kirsteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-land-of-darkness-along-with-some-further-chapters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-heir-presumptive-and-the-heir-apparent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-quiet-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-railway-man-and-his-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-son-of-his-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-son-of-his-father-59721": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-executor-blackwoods-edinburgh-magazine-vol-lxxxix": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-story-of-a-governess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-son-of-his-father-60018": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-joyce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-house-divided-against-itself-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-mystery-of-mrs-blencarrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-poor-gentleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-effie-ogilvie-61916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-ladys-walk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-prodigals-and-their-inheritance-62466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-joscelyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-joscelyn-63158": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-cousin-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-joscelyn-63562": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-olivers-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-dukes-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-dukes-daughter-63902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-dukes-daughter-63903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-greatest-heiress-in-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-he-that-will-not-when-he-may": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-he-that-will-not-when-he-may-64778": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-he-that-will-not-when-he-may-64779": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-in-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-within-the-precincts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-john-a-love-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-john-a-love-story-65227": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-mrs-arthur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-mrs-arthur-65329": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-mrs-arthur-65330": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-primrose-path": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-may": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-may-65633": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-for-love-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-for-love-and-life-65935": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-young-musgrave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-innocent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-christian-melville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-carit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-harry-muir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-caleb-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-memoirs-and-resolutions-of-adam-graeme-of-mossgray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-an-odd-couple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
