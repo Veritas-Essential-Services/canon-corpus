@@ -1795,3 +1795,6 @@
 
 ## 2026-10-17 22:40 CDT — round 35 closed
 - 22 shelves, 138 items (4 PG, 134 IA), 0 mismatched, 0 uids minted. Peter Canisius dropped (unreadable title page). Veto points in DIGEST-A.
+
+## 2026-10-17 22:45 CDT — alexander-cruden done
+- `pipeline/alexander-cruden_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

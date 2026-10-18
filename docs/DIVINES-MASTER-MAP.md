@@ -8639,6 +8639,18 @@ Slugs `gpfisher-*`. Built from title pages read for round 35.
 | History of Christian Doctrine (New York: Charles Scribner's Sons, 1896) | have-ocr | IA `historyofchristi96fish` |
 | History of the Christian Church 1888 and Hodder copies; the Edinburgh History of Christian Doctrine (year not read); CCEL fisher/reform (print source not read) | alternate | not shelved |
 | Outlines of Universal History (PG 8896), not church history | excluded | |
+
+## Alexander Cruden (round 36, my pick, 2026-10-18)
+
+Slugs `cruden-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| A Complete Concordance to the Holy Scriptures of the Old and New Testament, the fourth edition, carefully corrected (London: J. Buckland, J. F. and C. Rivington and others, 1785) | have-ocr | IA `b28747781` |
+| A Complete Concordance to the Holy Scriptures, the tenth edition (London: Thomas Tegg; William Baynes & Son, 1824) | have-ocr | IA `complet0crud` |
+| A Complete Concordance to the Holy Scriptures, the ninth edition, with a life of the author by Alexander Chalmers (London: Longman and others, 1838) | have-ocr | IA `cu31924029270878` |
+| Philadelphia 1830 (from the tenth London edition); Warne's editions with Youngman's memoir (1868, 1891, 1893); the 1738 first edition and 1769 third (title pages illegible) | alternate | not shelved |
+| Copies with impossible catalogue dates (a Warne Student's Edition catalogued 1737; an RTS and a Morgan & Scott edition); Winston, Zondervan and Lutterworth printings from 1930 on | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:31 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:45 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -826,6 +826,14 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | George Park Fisher | george-park-fisher_shelf.json | none | 6 (Essays on the Supernatural Origin of Christianity, with special reference to the theories of Renan, Strauss, and the Tübingen School (New York: Charles Scribner & Co., 1866); The Reformation (New York: Scribner, Armstrong, 1873); The Beginnings of Christianity, with a View of the State of the Roman World at the Birth of Christ (New York: Scribner, Armstrong, 1877); The Grounds of Theistic and Christian Belief (New York: Charles Scribner's Sons, 1883); History of the Christian Church (New York: Charles Scribner's Sons, 1887); History of Christian Doctrine (New York: Charles Scribner's Sons, 1896)) | none | Outlines of Universal History (PG 8896), not church history |
 
 Round 35 closed 2026-10-17 22:40 CDT: 22 shelves, 138 items (4 Gutenberg, 134 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. Peter Canisius was dropped: his one copy's title page is unreadable OCR. The OCR garbles the author's name on Hook's Lives of the Archbishops, Creighton's Papacy vol. IV, Robertson's Becket, Fisher's Reformation and Quesnel's Reflections, so each of those title pages was read and is recorded.
+
+## Round 36: Bible concordances and commentators, New Testament Greek scholars, women devotional writers and American preachers, before 1930 (my picks)
+
+Twenty-three authors queued in QUEUE-A.json, each built from title pages read for this round. Gutenberg 36264 (Robertson's Harmony based on Broadus) is shelved here; the John A. Broadus shelf already excludes it as Robertson's book. Catherine Marsh and Mary Winslow were skipped (Marsh's title pages read "by the author of"; Winslow's memoir is by her son). Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Alexander Cruden | alexander-cruden_shelf.json | none | 3 (A Complete Concordance to the Holy Scriptures of the Old and New Testament, the fourth edition, carefully corrected (London: J. Buckland, J. F. and C. Rivington and others, 1785); A Complete Concordance to the Holy Scriptures, the tenth edition (London: Thomas Tegg; William Baynes & Son, 1824); A Complete Concordance to the Holy Scriptures, the ninth edition, with a life of the author by Alexander Chalmers (London: Longman and others, 1838)) | none | Copies with impossible catalogue dates (a Warne Student's Edition catalogued 1737; an RTS and a Morgan & Scott edition); Winston, Zondervan and Lutterworth printings from 1930 on |
 
 ## Paused 2026-10-10 15:12 CDT
 
