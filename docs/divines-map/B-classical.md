@@ -6302,6 +6302,9 @@ Shelf: `pipeline/h-h-joachim_shelf.json`. Harold H. Joachim (1868-1938). Ethics 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Study of the Ethics of Spinoza (Clarendon, 1901) |  | `joachim-ethics-of-spinoza-1901` | have-raw (IA `ethicsofspinoza00joacuoft`) |
+| The Nature of Truth (Clarendon, 1906) |  | `joachim-nature-of-truth-1906` | have-raw (IA `bwb_O6-CUZ-729`) |
+| Immediate Experience and Mediation (Clarendon, 1919) |  | `joachim-immediate-experience-1919` | have-raw (IA `immediateexperie00joacrich`) |
 
 ## J. H. Muirhead (ethics, Green)
 

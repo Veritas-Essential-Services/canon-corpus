@@ -1,0 +1,64 @@
+{
+ "_about": "Harold H. Joachim (1868-1938), Oxford idealist. Raw IA OCR: A Study of the Ethics of Spinoza (Oxford: Clarendon Press, 1901), clean 0.85; The Nature of Truth, an essay (Oxford: Clarendon Press, 1906), clean 0.90; Immediate Experience and Mediation, his inaugural lecture (Oxford: Clarendon Press, 1919), clean 0.86. His Aristotle translations stand on the aristotle shelf (Oxford Works). US public domain. No uids minted.",
+ "_author": "Harold H. Joachim",
+ "_name_words": [
+  "harold",
+  "henry",
+  "joachim"
+ ],
+ "_surname": [
+  "joachim"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joachim-ethics-of-spinoza-1901": [
+   "ethicsofspinoza00joacuoft",
+   "A Study of the Ethics of Spinoza (Clarendon, 1901)"
+  ],
+  "joachim-nature-of-truth-1906": [
+   "bwb_O6-CUZ-729",
+   "The Nature of Truth (Clarendon, 1906)"
+  ],
+  "joachim-immediate-experience-1919": [
+   "immediateexperie00joacrich",
+   "Immediate Experience and Mediation (Clarendon, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joachim-ethics-of-spinoza-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joachim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "joachim-nature-of-truth-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joachim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "joachim-immediate-experience-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joachim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
