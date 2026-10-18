@@ -1552,3 +1552,6 @@
 
 ## 2026-10-17 21:18 CDT — william-newton-clarke done
 - `pipeline/william-newton-clarke_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — arthur-cushman-mcgiffert done
+- `pipeline/arthur-cushman-mcgiffert_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.

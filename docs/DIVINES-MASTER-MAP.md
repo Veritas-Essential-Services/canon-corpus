@@ -7466,6 +7466,22 @@ Slugs `wnclarke-*`. Built from title pages read for round 32.
 | The Ideal of Jesus (New York: Charles Scribner's Sons, 1911) | have-ocr | IA `idealofjesus00clar` |
 | The Edinburgh Christian Doctrine of God (1909); later editions of the Outline; the 1906 Use of the Scriptures | alternate | not shelved |
 | studyofchristian1900clar: a 1914 printing catalogued 1900 | excluded | |
+
+## Arthur Cushman McGiffert (round 32, my pick, 2026-10-18)
+
+Slugs `mcgiffert-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of Christianity in the Apostolic Age (New York: Charles Scribner's Sons, 1897) | have-ocr | IA `historyofchrist1897mcgi` |
+| The Apostles' Creed: its Origin, its Purpose, and its Historical Interpretation (New York: Charles Scribner's Sons, 1902) | have-ocr | IA `apostlescreedits00mcgi` |
+| Protestant Thought before Kant (New York: Charles Scribner's Sons, 1911) | have-ocr | IA `cu31924029437880` |
+| Martin Luther: the Man and his Work (New York: The Century Co.; copyright 1910-1911) | have-ocr | IA `martinluthermanh00mcgi` |
+| The Rise of Modern Religious Ideas (New York: The Macmillan Company, 1915) | have-ocr | IA `riseofmodernreli00mcgi` |
+| The God of the Early Christians (New York: Charles Scribner's Sons, 1924) | have-ocr | IA `godofearlychrist0000mcgi` |
+| Revised editions of the Apostolic Age (1900, 1906); other copies | alternate | not shelved |
+| His Eusebius (Schaff Fathers, PR #11) | excluded | |
+| A History of Christian Thought (1932-1933); 1928-1929 reprints; an 1893 inauguration pamphlet | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
