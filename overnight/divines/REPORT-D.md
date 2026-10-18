@@ -1629,3 +1629,6 @@
 
 ## 2026-10-17 22:56 CDT — charles-king: done
 - charles-king: new shelf, 29 Gutenberg books, 24,190 units, 122 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:56 CDT — frank-frankfort-moore: done
+- frank-frankfort-moore: new shelf, 17 Gutenberg books, 28,394 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags.

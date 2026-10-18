@@ -37301,6 +37301,32 @@ Shelf: `pipeline/charles-king_shelf.json` (2026-10-17; added at the coordinator'
 | Rancho Del Muerto, and Other Stories of Adventure by Various Authors, from "Outing" | have | PG 51919, `cking-rancho-del-muerto-and-other-stories-of-adventure-by-va` (1590 units) |
 | The colonel's daughter | have | PG 76813, `cking-colonels-daughter` (1732 units) |
 
+## F. Frankfort Moore
+
+Shelf: `pipeline/frank-frankfort-moore_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Phyllis of Philistia | have | PG 2155, `ffmoore-phyllis-of-philistia` (1893 units) |
+| A Nest of Linnets | have | PG 47195, `ffmoore-a-nest-of-linnets` (2385 units) |
+| Fanny's First Novel | have | PG 51922, `ffmoore-fannys-first-novel` (1591 units) |
+| The Impudent Comedian, & Others | have | PG 51923, `ffmoore-impudent-comedian-others` (1191 units) |
+| The Lighter Side of English Life | have | PG 51927, `ffmoore-lighter-side-of-english-life` (857 units) |
+| Daireen. Complete | have | PG 51938, `ffmoore-daireen-complete` (2490 units) |
+| A Garden of Peace: A Medley in Quietude | have | PG 51940, `ffmoore-a-garden-of-peace` (1179 units) |
+| A Gray Eye or So. In Three Volumes—Volume I, II and III: Complete | have | PG 51947, `ffmoore-a-gray-eye-or-so-in-three-volumes-volume-i-ii-and-ii` (2907 units) |
+| The Jessamy Bride | have | PG 51951, `ffmoore-jessamy-bride` (1750 units) |
+| A Journalist's Note-Book | have | PG 51952, `ffmoore-a-journalists-note-book` (1318 units) |
+| The Other World | have | PG 51963, `ffmoore-other-world` (1208 units) |
+| A Georgian Pageant | have | PG 51964, `ffmoore-a-georgian-pageant` (853 units) |
+| According to Plato | have | PG 51969, `ffmoore-according-to-plato` (1708 units) |
+| The Love That Prevailed | have | PG 51971, `ffmoore-love-that-prevailed` (1708 units) |
+| Priscilla and Charybdis: A Story of Alternatives | have | PG 51972, `ffmoore-priscilla-and-charybdis` (2167 units) |
+| Well, After All-- | have | PG 51988, `ffmoore-well-after-all` (1607 units) |
+| Discovering "Evelina": An Old-fashioned Romance A Companion Book to "The Jessamy Bride" | have | PG 59273, `ffmoore-discovering-evelina` (1582 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 51936, 51937: the complete edition of each is on the shelf instead. |
+| pg-51944 | excluded | PG 51944, 51945, 51946: Gutenberg's split-part files of A Gray Eye or So; the complete edition (PG 51947) is on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
