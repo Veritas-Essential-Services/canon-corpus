@@ -276,3 +276,4 @@
 - 22:50 round cf: Small, Patten, Mark Hopkins, Salter, Joad (20 works) + Ward/Wallace/Darwin extras. Filmer dropped for OCR.
 - 22:55 round cg: Philo (4 vols), Babrius, Helmholtz. Early-print Lipsius, Du Vair, Wolff fail the OCR gate.
 - 22:59 round ch: Golden Bough complete (3rd ed. 12 vols + 1890 ed.), Gilbert Murray (6), Malinowski (4).
+- 23:03 round ci: 8 classical-scholarship shelves (13 works): Roman Stoicism, Stoic and Epicurean, Greek Commonwealth, Cornford x3, etc.

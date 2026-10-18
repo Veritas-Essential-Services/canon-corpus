@@ -1347,3 +1347,8 @@
 - gilbert-murray (6: own scholarship; translations stay on the play shelves)
 - bronislaw-malinowski (4: Family among the Australian Aborigines, Argonauts, Crime and Custom, Myth in Primitive Psychology)
 - Held, post-1930 printings only: Murray's Classical Tradition in Poetry; Malinowski's Sex and Repression and Sexual Life of Savages
+
+## 2026-10-17 23:03 CDT — Round ci: classical scholarship
+- j-a-stewart (1), r-d-hicks (1), e-vernon-arnold (1), james-adam (1), alfred-zimmern (2), r-w-livingstone (2), f-m-cornford (3), a-d-lindsay (2)
+- Below the OCR gate: Stewart's Myths of Plato and Notes on the Nicomachean Ethics
+- Not taken: Livingstone's edited Legacy of Greece and Pageant of Greece (multi-author / others' translations); Zimmern's War and Democracy (multi-author)
