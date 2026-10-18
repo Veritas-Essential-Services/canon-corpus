@@ -279,6 +279,17 @@
   "haggard-heu-heu-or-the-monster": [
    76643,
    "Heu-Heu, or The monster"
+  ],
+  "haggard-montezumas-daughter": [
+   1848,
+   "Montezuma's Daughter",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-finished": [
+   1724,
+   "Finished"
   ]
  },
  "internet_archive": {},
@@ -288,7 +299,7 @@
  "_checks": {
   "haggard-allan-quatermain": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -297,7 +308,7 @@
   },
   "haggard-nada-the-lily": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -306,7 +317,7 @@
   },
   "haggard-when-the-world-shook-being-an-account-of-the-great-a": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -315,7 +326,7 @@
   },
   "haggard-marie": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -324,7 +335,7 @@
   },
   "haggard-child-of-storm": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -333,7 +344,7 @@
   },
   "haggard-king-solomons-mines": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -342,7 +353,7 @@
   },
   "haggard-queen-shebas-ring": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -351,7 +362,7 @@
   },
   "haggard-maiwas-revenge": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -360,7 +371,7 @@
   },
   "haggard-eric-brighteyes": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -369,7 +380,7 @@
   },
   "haggard-morning-star": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -378,7 +389,7 @@
   },
   "haggard-allans-wife": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -387,7 +398,7 @@
   },
   "haggard-hunter-quatermains-story": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -396,7 +407,7 @@
   },
   "haggard-a-tale-of-three-lions": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -405,7 +416,7 @@
   },
   "haggard-long-odds": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -414,7 +425,7 @@
   },
   "haggard-benita-an-african-romance": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -423,7 +434,7 @@
   },
   "haggard-brethren": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -432,7 +443,7 @@
   },
   "haggard-mahatma-and-the-hare": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -441,7 +452,7 @@
   },
   "haggard-cleopatra": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -450,7 +461,7 @@
   },
   "haggard-ivory-child": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -459,7 +470,7 @@
   },
   "haggard-black-heart-and-white-heart": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -468,7 +479,7 @@
   },
   "haggard-elissa": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -477,7 +488,7 @@
   },
   "haggard-moon-of-israel": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -486,7 +497,7 @@
   },
   "haggard-a-yellow-god": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -495,7 +506,7 @@
   },
   "haggard-wizard": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -504,7 +515,7 @@
   },
   "haggard-red-eve": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -513,7 +524,7 @@
   },
   "haggard-beatrice": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -522,7 +533,7 @@
   },
   "haggard-wanderers-necklace": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -531,7 +542,7 @@
   },
   "haggard-virgin-of-the-sun": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -540,7 +551,7 @@
   },
   "haggard-she": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -549,7 +560,7 @@
   },
   "haggard-love-eternal": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -558,7 +569,7 @@
   },
   "haggard-lady-of-blossholme": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -567,7 +578,7 @@
   },
   "haggard-swallow": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -576,7 +587,7 @@
   },
   "haggard-allan-and-the-holy-flower": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -585,7 +596,7 @@
   },
   "haggard-pearl-maiden": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -594,7 +605,7 @@
   },
   "haggard-ayesha-the-return-of-she": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -603,7 +614,7 @@
   },
   "haggard-she-and-allan": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -612,7 +623,7 @@
   },
   "haggard-ancient-allan": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -621,7 +632,7 @@
   },
   "haggard-lysbeth-a-tale-of-the-dutch": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -630,7 +641,7 @@
   },
   "haggard-doctor-therne": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -639,7 +650,7 @@
   },
   "haggard-jess": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -648,7 +659,7 @@
   },
   "haggard-stella-fregelius": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -657,7 +668,7 @@
   },
   "haggard-smith-and-the-pharaohs-and-other-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -666,7 +677,7 @@
   },
   "haggard-people-of-the-mist": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -675,7 +686,7 @@
   },
   "haggard-ghost-kings": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -684,7 +695,7 @@
   },
   "haggard-cetywayo-and-his-white-neighbours-remarks-on-recent": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -693,7 +704,7 @@
   },
   "haggard-fair-margaret": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -702,7 +713,7 @@
   },
   "haggard-dawn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -711,7 +722,7 @@
   },
   "haggard-colonel-quaritch-v-c": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -720,7 +731,7 @@
   },
   "haggard-mr-meesons-will": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -729,7 +740,7 @@
   },
   "haggard-regeneration-being-an-account-of-the-social-work-of": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -738,7 +749,7 @@
   },
   "haggard-last-boer-war": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -747,7 +758,7 @@
   },
   "haggard-wisdoms-daughter": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -756,7 +767,7 @@
   },
   "haggard-heart-of-the-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -765,7 +776,7 @@
   },
   "haggard-witchs-head": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -774,7 +785,7 @@
   },
   "haggard-queen-of-the-dawn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -783,7 +794,7 @@
   },
   "haggard-joan-haste": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -792,7 +803,7 @@
   },
   "haggard-spring-of-a-lion": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -801,7 +812,7 @@
   },
   "haggard-way-of-the-spirit": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
@@ -810,7 +821,25 @@
   },
   "haggard-heu-heu-or-the-monster": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-montezumas-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-finished": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "h. rider haggard",
    "identity": "ok",
