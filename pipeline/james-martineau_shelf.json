@@ -1,5 +1,5 @@
 {
- "_about": "James Martineau (1805-1900), philosopher of religion: A Study of Religion, its sources and contents, American edition revised by the author (Oxford: Clarendon Press; New York: Macmillan, 1888, 2 vols.), raw IA OCR. Added in round ak: Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885); Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885). US public domain. No uids minted.",
+ "_about": "James Martineau (1805-1900), philosopher of religion: A Study of Religion, its sources and contents, American edition revised by the author (Oxford: Clarendon Press; New York: Macmillan, 1888, 2 vols.), raw IA OCR. Added in round ak: Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885); Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885). Added in round aw 2026-10-17: Studies of Christianity, or timely thoughts for religious thinkers, edited by William R. Alger (Boston: American Unitarian Association, 1858), clean Gutenberg text. US public domain. No uids minted.",
  "_author": "James Martineau",
  "_name_words": [
   "james",
@@ -10,7 +10,12 @@
   "james martineau"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "martineau-studies-of-christianity-1858": [
+   40387,
+   "Studies of Christianity, ed. William R. Alger (Boston: American Unitarian Association, 1858)"
+  ]
+ },
  "internet_archive": {
   "martineau-study-of-religion-1888-v1": [
    "studyofreligioni01martuoft",
@@ -31,6 +36,15 @@
  },
  "_excluded": {},
  "_checks": {
+  "martineau-studies-of-christianity-1858": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "martineau-study-of-religion-1888-v1": {
    "kind": "ia",
    "checked": "2026-10-18",

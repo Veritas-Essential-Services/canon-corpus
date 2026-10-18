@@ -5342,6 +5342,7 @@ Shelf: `pipeline/james-martineau_shelf.json`. Philosophy of religion and ethics.
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Studies of Christianity, ed. William R. Alger (Boston: American Unitarian Association, 1858) |  | `martineau-studies-of-christianity-1858` | have (PG 40387) |
 | A Study of Religion, vol. I (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v1` | have-raw (IA `studyofreligioni01martuoft`) |
 | A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v2` | have-raw (IA `studyreligionsourc02mart`) |
 | Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v1` | have-raw (IA `ethicaltheory01martiala`) |
