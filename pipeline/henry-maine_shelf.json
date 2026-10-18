@@ -1,0 +1,36 @@
+{
+ "_about": "Sir Henry Sumner Maine (1822-1888): Ancient Law, its connection with the early history of society and its relation to modern ideas, with an introduction by Theodore W. Dwight, third American from the fifth London edition (New York: Henry Holt, 1875), raw IA OCR. Gutenberg's Ancient Law (22910) is held: it is the Everyman text reprinted in 1936. US public domain. No uids minted.",
+ "_author": "Sir Henry Sumner Maine",
+ "_name_words": [
+  "henry",
+  "sumner",
+  "maine",
+  "sir"
+ ],
+ "_surname": [
+  "maine",
+  "sumner maine"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maine-ancient-law-1875": [
+   "cu31924021177807",
+   "Ancient Law, 3rd American from the 5th London ed. (New York: Henry Holt, 1875)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "maine-ancient-law-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
