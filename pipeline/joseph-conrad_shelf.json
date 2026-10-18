@@ -177,6 +177,10 @@
   "jconrad-nature-of-a-crime": [
    75172,
    "The nature of a crime (with Ford Madox Ford)"
+  ],
+  "jconrad-almayers-folly": [
+   720,
+   "Almayer's Folly: A Story of an Eastern River"
   ]
  },
  "internet_archive": {},
@@ -503,6 +507,15 @@
    "pg_translator": null
   },
   "jconrad-nature-of-a-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-almayers-folly": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
