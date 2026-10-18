@@ -8165,6 +8165,7 @@ Shelf: `pipeline/e-vernon-arnold_shelf.json`. One book, 1911.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Roman Stoicism (Cambridge, 1911) |  | `arnold-roman-stoicism-1911` | have-raw (IA `romanstoicismbei00arnouoft`) |
 
 ## James Adam (Greek religious thought)
 
