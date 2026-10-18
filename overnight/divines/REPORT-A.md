@@ -1567,3 +1567,6 @@
 
 ## 2026-10-17 21:18 CDT — george-adam-smith done
 - `pipeline/george-adam-smith_shelf.json`: 0 CCEL, 2 PG, 10 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — w-robertson-smith done
+- `pipeline/w-robertson-smith_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wrsmith-prophets-of-israel (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

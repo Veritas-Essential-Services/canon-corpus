@@ -7557,6 +7557,21 @@ Slugs `gasmith-*`. Built from title pages read for round 32.
 | PG 39767 (Isaiah I, 1910 twentieth edition), PG 43847 and 50747 (the Twelve), and the CCEL Expositor texts | alternate | not shelved |
 | London 1899 Drummond; The Forgiveness of Sins (later printing); undated Hodder Jeremiah | alternate | not shelved |
 | Printings from 1927 on, and Hodder/Doran reprints catalogued 1900 | excluded | |
+
+## W. Robertson Smith (round 32, my pick, 2026-10-18)
+
+Slugs `wrsmith-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Testament in the Jewish Church: Twelve Lectures (Edinburgh: Adam and Charles Black, 1881) | have-ocr | IA `india.history.resource.90135` |
+| The Old Testament in the Jewish Church, second edition revised and much enlarged (London and Edinburgh: A. & C. Black, 1892) | have-ocr | IA `acourseoflecture00smituoft` |
+| The Prophets of Israel and their Place in History (Edinburgh: A. & C. Black, 1882) | have-ocr | IA `cu31924029304841` |
+| Kinship and Marriage in Early Arabia (Cambridge: University Press, 1885) | have-ocr | IA `kinshipmarriagei00smituoft` |
+| Lectures on the Religion of the Semites, First Series (Edinburgh: A. & C. Black, 1889) | have-ocr | IA `lecturesonreligi00smit` |
+| Lectures on the Religion of the Semites, new edition revised throughout by the author (London: A. & C. Black, 1894) | have-ocr | IA `b2488635x` |
+| Answer to the Form of Libel, fourth edition (Edinburgh: David Douglas, 1878) | have-ocr | IA `answertoformofli00smit` |
+| The 1881 and 1882 Appleton New York issues; the 1903 Kinship ed. Stanley A. Cook; Lectures and Essays (1912, edited after his death) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

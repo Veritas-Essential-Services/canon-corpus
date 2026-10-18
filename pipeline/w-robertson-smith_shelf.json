@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain William Robertson Smith (1846-1894, Aberdeen and Cambridge orientalist, tried for heresy by the Free Church) for the Word Hoard: The Old Testament in the Jewish Church (1881, and the enlarged 1892 edition), The Prophets of Israel (1882), Kinship and Marriage in Early Arabia (1885), the Lectures on the Religion of the Semites (1889, and the 1894 revision), and his Answer to the Form of Libel (1878), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robertson smith"
+ ],
+ "_surname": [
+  "robertson smith",
+  "w. robertson smith",
+  "william robertson smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wrsmith-ot-jewish-church-1881": [
+   "india.history.resource.90135",
+   "The Old Testament in the Jewish Church: Twelve Lectures (Edinburgh: Adam and Charles Black, 1881)",
+   "90135_djvu.txt"
+  ],
+  "wrsmith-ot-jewish-church-1892": [
+   "acourseoflecture00smituoft",
+   "The Old Testament in the Jewish Church, second edition revised and much enlarged (London and Edinburgh: A. & C. Black, 1892)"
+  ],
+  "wrsmith-prophets-of-israel": [
+   "cu31924029304841",
+   "The Prophets of Israel and their Place in History (Edinburgh: A. & C. Black, 1882)"
+  ],
+  "wrsmith-kinship-marriage": [
+   "kinshipmarriagei00smituoft",
+   "Kinship and Marriage in Early Arabia (Cambridge: University Press, 1885)"
+  ],
+  "wrsmith-religion-semites-1889": [
+   "lecturesonreligi00smit",
+   "Lectures on the Religion of the Semites, First Series (Edinburgh: A. & C. Black, 1889)"
+  ],
+  "wrsmith-religion-semites-1894": [
+   "b2488635x",
+   "Lectures on the Religion of the Semites, new edition revised throughout by the author (London: A. & C. Black, 1894)"
+  ],
+  "wrsmith-answer-libel": [
+   "answertoformofli00smit",
+   "Answer to the Form of Libel, fourth edition (Edinburgh: David Douglas, 1878)"
+  ]
+ },
+ "_alternates": {
+  "wrsmith-copies": "The 1881 and 1882 Appleton New York issues; the 1903 Kinship ed. Stanley A. Cook; Lectures and Essays (1912, edited after his death)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "wrsmith-prophets-of-israel": {
+   "author": "title page read: 'By Wi^EOBEETSON SMITH, LL.D.' (OCR for W. Robertson Smith)"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wrsmith-ot-jewish-church-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wrsmith-ot-jewish-church-1892": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wrsmith-prophets-of-israel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wrsmith-kinship-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wrsmith-religion-semites-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wrsmith-religion-semites-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wrsmith-answer-libel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robertson smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
