@@ -1,0 +1,49 @@
+{
+ "_about": "Joseph Glanvill (1636-1680), Royal Society apologist and sceptic: Essays on Several Important Subjects in Philosophy and Religion (London: J. D. for John Baker and Henry Mortlock, 1676; imprimatur 27 March 1675; the OCR reads the year as i6j6), and Scepsis Scientifica, or Confest Ignorance the way to Science, edited with an introductory essay by John Owen (London: Kegan Paul, Trench, 1885), raw IA OCR. His Plurality of Worlds translation of Fontenelle is on the fontenelle shelf. US public domain. No uids minted.",
+ "_author": "Joseph Glanvill",
+ "_name_words": [
+  "joseph",
+  "glanvill",
+  "glanvil"
+ ],
+ "_surname": [
+  "glanvill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "glanvill-essays-1676": [
+   "essaysonseverali00glan",
+   "Essays on Several Important Subjects in Philosophy and Religion (London: John Baker and Henry Mortlock, 1676)"
+  ],
+  "glanvill-owen-scepsis-scientifica-1885": [
+   "scepsisscientifi00glan",
+   "Scepsis Scientifica, ed. John Owen (London: Kegan Paul, Trench, 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "glanvill-essays-1676": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "glanvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "glanvill-owen-scepsis-scientifica-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "glanvill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

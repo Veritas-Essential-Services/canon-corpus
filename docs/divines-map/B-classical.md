@@ -5392,6 +5392,8 @@ Shelf: `pipeline/joseph-glanvill_shelf.json`. Essays (1676) and Scepsis Scientif
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Essays on Several Important Subjects in Philosophy and Religion (London: John Baker and Henry Mortlock, 1676) |  | `glanvill-essays-1676` | have-raw (IA `essaysonseverali00glan`) |
+| Scepsis Scientifica, ed. John Owen (London: Kegan Paul, Trench, 1885) |  | `glanvill-owen-scepsis-scientifica-1885` | have-raw (IA `scepsisscientifi00glan`) |
 
 Pending (wishlist): Saducismus Triumphatus in a scan over the OCR gate
 
