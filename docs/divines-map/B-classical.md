@@ -6918,6 +6918,11 @@ Shelf: `pipeline/thomas-davidson-philosopher_shelf.json`. Five books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Aristotle and Ancient Educational Ideals |  | `davidson-aristotle-ancient-educational-ideals` | have (PG 40552) |
+| The Education of the Greek People (Appleton, 1894) |  | `davidson-education-of-the-greek-people-1894` | have-raw (IA `educationofgreek0028thom`) |
+| Rousseau and Education According to Nature (Scribner's, 1898; 1900 printing) |  | `davidson-rousseau-and-education-1898` | have-raw (IA `rousseauandeduca00daviuoft`) |
+| A History of Education (Scribner's, 1900) |  | `davidson-history-of-education-1900` | have-raw (IA `historyofeducti0davi`) |
+| The Philosophy of Goethe's Faust (Ginn, 1906) |  | `davidson-philosophy-of-goethes-faust-1906` | have-raw (IA `philosophyofgoet0000thom`) |
 
 ## Perseus census (overflow)
 
