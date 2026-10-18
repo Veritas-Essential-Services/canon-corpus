@@ -1293,3 +1293,6 @@
 
 ## 2026-10-17 19:10 CDT — quiller-couch: done
 - quiller-couch: new shelf, 42 Gutenberg books, 61,319 units, 1798 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:10 CDT — sr-crockett: done
+- sr-crockett: new shelf, 21 Gutenberg books, 47,257 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.

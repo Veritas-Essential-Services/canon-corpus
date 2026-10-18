@@ -25390,6 +25390,34 @@ Shelf: `pipeline/quiller-couch_shelf.json` (2026-10-17; added at the coordinator
 | The Warwickshire Avon | have | PG 64801, `aqcouch-warwickshire-avon` (346 units) |
 | Charles Dickens and other Victorians | have | PG 72466, `aqcouch-charles-dickens-and-other-victorians` (1304 units) |
 
+## S. R. Crockett
+
+Shelf: `pipeline/sr-crockett_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Galloway romances and stories. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lilac Sunbonnet: A Love Story | have | PG 4918, `srcrockett-lilac-sunbonnet` (1992 units) |
+| The Red Axe | have | PG 12191, `srcrockett-red-axe` (2632 units) |
+| Bog-Myrtle and Peat Tales Chiefly of Galloway Gathered from the Years 1889 to 1895 | have | PG 13667, `srcrockett-bog-myrtle-and-peat-tales-chiefly-of-galloway-gat` (2425 units) |
+| The Black Douglas | have | PG 17733, `srcrockett-black-douglas` (2865 units) |
+| Patsy | have | PG 21893, `srcrockett-patsy` (1978 units) |
+| Red Cap Tales, Stolen from the Treasure Chest of the Wizard of the North (retold from Scott's novels) | have | PG 22656, `srcrockett-red-cap-tales-stolen-from-the-treasure-chest-of-t` (1751 units) |
+| The Dew of Their Youth | have | PG 23736, `srcrockett-dew-of-their-youth` (1868 units) |
+| The Men of the Moss-Hags Being a history of adventure taken from the papers of William Gordon of Earlstoun in Galloway | have | PG 32137, `srcrockett-men-of-the-moss-hags-being-a-history-of-adventure` (2237 units) |
+| The White Plumes of Navarre: A Romance of the Wars of Religion | have | PG 33215, `srcrockett-white-plumes-of-navarre` (2130 units) |
+| The Firebrand | have | PG 33602, `srcrockett-firebrand` (3081 units) |
+| Deep Moat Grange | have | PG 34017, `srcrockett-deep-moat-grange` (1768 units) |
+| Sweethearts at Home | have | PG 34230, `srcrockett-sweethearts-at-home` (1094 units) |
+| A Tatter of Scarlet: Adventurous Episodes of the Commune in the Midi 1871 | have | PG 36945, `srcrockett-a-tatter-of-scarlet` (1840 units) |
+| The Surprising Adventures of Sir Toady Lion with Those of General Napoleon Smith An Improving History for Old Boys, Young Boys, Good Boys, Bad Boys, Big Boys, Little Boys, Cow Boys, and Tom-Boys | have | PG 39340, `srcrockett-surprising-adventures-of-sir-toady-lion-with-thos` (1597 units) |
+| Joan of the Sword Hand | have | PG 41803, `srcrockett-joan-of-the-sword-hand` (3107 units) |
+| Lochinvar: A Novel | have | PG 45495, `srcrockett-lochinvar` (2732 units) |
+| Cleg Kelly, Arab of the City: His Progress and Adventures | have | PG 48354, `srcrockett-cleg-kelly-arab-of-the-city` (2774 units) |
+| The Grey Man | have | PG 49301, `srcrockett-grey-man` (2504 units) |
+| The Stickit Minister's Wooing, and Other Galloway Stories | have | PG 49342, `srcrockett-stickit-ministers-wooing-and-other-galloway-stori` (2296 units) |
+| The Standard Bearer | have | PG 53164, `srcrockett-standard-bearer` (1967 units) |
+| Maid Margaret of Galloway | have | PG 76337, `srcrockett-maid-margaret-of-galloway` (2619 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

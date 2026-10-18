@@ -2709,6 +2709,14 @@
       "started": "2026-10-17T19:10:56-05:00",
       "finished": "2026-10-17T19:10:56-05:00",
       "notes": "quiller-couch: new shelf, 42 Gutenberg books, 61,319 units, 1798 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sr-crockett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — S. R. Crockett; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:10:57-05:00",
+      "finished": "2026-10-17T19:10:57-05:00",
+      "notes": "sr-crockett: new shelf, 21 Gutenberg books, 47,257 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
