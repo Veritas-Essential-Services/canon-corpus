@@ -1,0 +1,124 @@
+{
+ "_about": "Paul Elmer More (1864-1937), American critic, New Humanist and historian of the Greek tradition. Gutenberg: Shelburne Essays, Third Series. Raw IA OCR, The Greek Tradition series and after (Princeton University Press): Platonism (1917), clean 0.96; The Religion of Plato (1921), clean 0.94; Hellenistic Philosophies (1923), clean 0.93; The Christ of the New Testament (1924), clean 0.92; Christ the Word (1927), clean 0.93; The Demon of the Absolute, New Shelburne Essays vol. I (1928), clean 0.94. US public domain. No uids minted.",
+ "_author": "Paul Elmer More",
+ "_name_words": [
+  "paul",
+  "elmer",
+  "more"
+ ],
+ "_surname": [
+  "paul elmer more",
+  "p. e. more"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "more-shelburne-essays-third-series": [
+   39447,
+   "Shelburne Essays, Third Series"
+  ]
+ },
+ "internet_archive": {
+  "more-platonism-1917": [
+   "platonism00moreuoft",
+   "Platonism (Princeton, 1917)"
+  ],
+  "more-religion-of-plato-1921": [
+   "thereligionofpla00moreuoft",
+   "The Religion of Plato (Princeton, 1921)"
+  ],
+  "more-hellenistic-philosophies-1923": [
+   "hellenisticphilo017066mbp",
+   "Hellenistic Philosophies (Princeton, 1923)"
+  ],
+  "more-christ-of-the-new-testament-1924": [
+   "christofnewtesta0000more",
+   "The Christ of the New Testament (Princeton, 1924)"
+  ],
+  "more-christ-the-word-1927": [
+   "christword00more",
+   "Christ the Word (Princeton, 1927)"
+  ],
+  "more-demon-of-the-absolute-1928": [
+   "demonofabsolute00more",
+   "The Demon of the Absolute (Princeton, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "more-shelburne-essays-third-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "more-platonism-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "more-religion-of-plato-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "more-hellenistic-philosophies-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "more-christ-of-the-new-testament-1924": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "more-christ-the-word-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "more-demon-of-the-absolute-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paul elmer more",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

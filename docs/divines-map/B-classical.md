@@ -6865,6 +6865,13 @@ Shelf: `pipeline/paul-elmer-more_shelf.json`. The Greek Tradition series and one
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Shelburne Essays, Third Series |  | `more-shelburne-essays-third-series` | have (PG 39447) |
+| Platonism (Princeton, 1917) |  | `more-platonism-1917` | have-raw (IA `platonism00moreuoft`) |
+| The Religion of Plato (Princeton, 1921) |  | `more-religion-of-plato-1921` | have-raw (IA `thereligionofpla00moreuoft`) |
+| Hellenistic Philosophies (Princeton, 1923) |  | `more-hellenistic-philosophies-1923` | have-raw (IA `hellenisticphilo017066mbp`) |
+| The Christ of the New Testament (Princeton, 1924) |  | `more-christ-of-the-new-testament-1924` | have-raw (IA `christofnewtesta0000more`) |
+| Christ the Word (Princeton, 1927) |  | `more-christ-the-word-1927` | have-raw (IA `christword00more`) |
+| The Demon of the Absolute (Princeton, 1928) |  | `more-demon-of-the-absolute-1928` | have-raw (IA `demonofabsolute00more`) |
 
 Pending (wishlist): Shelburne Essays, other series (1904-21)
 
