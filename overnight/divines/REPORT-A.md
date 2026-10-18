@@ -1930,3 +1930,6 @@
 
 ## 2026-10-17 23:05 CDT — juan-eusebio-nieremberg done
 - `pipeline/juan-eusebio-nieremberg_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for nieremberg-meditation-life-death-1682 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — leonard-of-port-maurice done
+- `pipeline/leonard-of-port-maurice_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for leonard-hidden-treasure-1861 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -9240,3 +9240,15 @@ Slugs `nieremberg-*`. Built from title pages read for round 37.
 | Of Adoration in Spirit and Truth, the old English translation, new edition, Quarterly Series vol. 50 (London: Burns and Oates, 1885) | have-ocr | IA `ofadorationinspi0000unse` |
 | Of Adoration in Spirit and Truth (1673, title page illegible); Cummiskey's Philadelphia edition (catalogued 1833, title page not read) | alternate | not shelved |
 | Prudential Reflections (1674: the title page does not name him); Contemplations of the State of Man (the title page credits Jeremy Taylor); Scheeben's Glories of Divine Grace; Lady Lovat's Marvels of Divine Grace (based on him) | excluded | |
+
+## Leonard of Port Maurice (round 37, my pick, 2026-10-18)
+
+Slugs `leonard-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hidden Treasure: or, The value and excellence of the Holy Mass (Edinburgh: Marsh and Beattie; London: C. Dolman, 1855) | have-ocr | IA `TheHiddenTreasure1855` |
+| The Hidden Treasure: or, The immense excellence of the Holy Sacrifice of the Mass, new edition (Dublin: James Duffy, 1861) | have-ocr | IA `TheHiddenTreasure1861` |
+| Counsels to Confessors, addressed to an assembly of missionary priests (Dublin: James Duffy and Sons, 1875) | have-ocr | IA `counsels-to-confessors` |
+| hiddentreasureo01leongoog (1855) and hiddentreasureo00leongoog (1861); Prendergast's new translation (Dublin: Duffy, title page undated; catalogue's 1895 Sydney imprint is wrong; its Google copy carries a reserved-rights notice) | alternate | not shelved |
+| cihm_91762 (Montreal 1897, extracts from several authors) | excluded | |
