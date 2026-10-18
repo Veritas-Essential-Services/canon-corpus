@@ -6729,6 +6729,7 @@ Shelf: `pipeline/john-smith-platonist_shelf.json`. The Select Discourses.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Select Discourses, 4th ed., ed. H. G. Williams (Cambridge, 1859) |  | `john-smith-select-discourses-1859` | have-raw (IA `cu31924029447848`) |
 
 ## Nathanael Culverwel (Cambridge Platonists)
 

@@ -1,0 +1,33 @@
+{
+ "_about": "John Smith (1618-1652), Fellow of Queens' College, Cambridge, Cambridge Platonist. Raw IA OCR: Select Discourses, with Simon Patrick's funeral sermon, fourth edition corrected and revised by Henry Griffin Williams (Cambridge: University Press, 1859), clean 0.92. Not taken: the first edition (1660), clean 0.87, as a second edition of the same text. Not to be confused with any other John Smith. US public domain. No uids minted.",
+ "_author": "John Smith",
+ "_name_words": [
+  "john",
+  "smith"
+ ],
+ "_surname": [
+  "john smith"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-smith-select-discourses-1859": [
+   "cu31924029447848",
+   "Select Discourses, 4th ed., ed. H. G. Williams (Cambridge, 1859)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-smith-select-discourses-1859": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
