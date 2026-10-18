@@ -6156,3 +6156,27 @@ Slugs `milner-*`. Vicar Apostolic of the Midland District; written in English. T
 | The St Mary's set of End of Controversy (1818); Letters to a Prebendary (bim copy 1800; Cork 1802); the 3rd edition of Winchester (c.1830) | alternate | not shelved |
 | The 1798 first edition of Winchester: no legible title page | excluded | |
 | Milner Refuted (against him); a Kenedy copy wrongly catalogued 1802 | excluded | |
+
+## John Mason Neale (round 28, my pick, 2026-10-18)
+
+Slugs `neale-*`. Anglican hymn translator and historian of the Eastern Church.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Holy Eastern Church: the Patriarchate of Alexandria, vol. I (London: Joseph Masters, MDCCCXLVII) | have-ocr | IA `historyofholyeas01neal` |
+| A History of the Holy Eastern Church: the Patriarchate of Alexandria, vol. II (London: Joseph Masters, MDCCCXLVII) | have-ocr | IA `historyofholyeas02neal` |
+| A History of the Holy Eastern Church, part I: General Introduction, vol. I (London: Joseph Masters; preface dated 1850) | have-ocr | IA `ahistoryholyeas04nealgoog` |
+| Mediaeval Hymns and Sequences, translated by J. M. Neale (London: Joseph Masters, MDCCCLI) | have-ocr | IA `mediaevalhymnsse00neal` |
+| Hymns of the Eastern Church, translated, with notes and an introduction (London: J. T. Hayes, 1862) | have-ocr | IA `hymnseasternchu01nealgoog` |
+| A Commentary on the Psalms from Primitive and Mediaeval Writers, vol. I, second edition (London: Joseph Masters, MDCCCLXIX) | have-ocr | IA `commentaryonpsal01nealuoft` |
+| A Commentary on the Psalms, vol. II, with R. F. Littledale (London: Joseph Masters, MDCCCLXVIII) | have-ocr | IA `commentaryonpsal02nealuoft` |
+| A Commentary on the Psalms, vol. III, with R. F. Littledale (London: Joseph Masters, MDCCCLXXI) | have-ocr | IA `commentaryonpsal03nealuoft` |
+| A Commentary on the Psalms, vol. IV, with R. F. Littledale (London: Joseph Masters, MDCCCLXXIV) | have-ocr | IA `commentaryonpsal04nealuoft` |
+| Essays on Liturgiology and Church History (London: Saunders, Otley, 1863) | have-ocr | IA `essaysonliturgio00neal` |
+| Sermons Preached in a Religious House, vol. I (London: Joseph Masters; year not legible) | have-ocr | IA `sermonspreached00nealgoog` |
+| Sermons Preached in a Religious House, vol. II (London: Joseph Masters, MDCCCLXIX) | have-ocr | IA `sermonspreached01nealgoog` |
+| CCEL neale/easternhymns: an undated fifth edition with first-edition material | alternate | not shelved |
+| Google copies of Alexandria (1847); Mediaeval Hymns second edition (1863); Sermons in Sackville College Chapel | alternate | not shelved |
+| The Symbolism of Churches (PG 43319): Durandus, translated by Neale and Webb | excluded | |
+| The Patriarchate of Antioch (1873): a posthumous fragment edited by George Williams | excluded | |
+| AMS Press reprints | excluded | |

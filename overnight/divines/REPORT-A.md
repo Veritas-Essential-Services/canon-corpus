@@ -1288,3 +1288,6 @@
 
 ## 2026-10-17 19:31 CDT — john-milner done
 - `pipeline/john-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-mason-neale done
+- `pipeline/john-mason-neale_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
