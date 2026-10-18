@@ -5913,6 +5913,10 @@ Shelf: `pipeline/theodore-parker_shelf.json`. The 1842 Discourse and the 1867 Sp
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Speeches, Addresses, and Occasional Sermons, vol. 1 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v1` | have (PG 34573) |
+| Speeches, Addresses, and Occasional Sermons, vol. 2 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v2` | have (PG 34637) |
+| Speeches, Addresses, and Occasional Sermons, vol. 3 (Boston: Horace B. Fuller, 1867) |  | `parker-speeches-addresses-v3` | have (PG 34688) |
+| A Discourse of Matters Pertaining to Religion (Boston: Little and Brown, 1842) |  | `parker-discourse-religion-1842` | have-raw (IA `discourseofmatt00park`) |
 
 Pending (wishlist): The Centenary Edition of his Works (1907-13), pre-1931
 
