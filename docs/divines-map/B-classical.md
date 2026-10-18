@@ -5380,6 +5380,11 @@ Shelf: `pipeline/pierre-bayle_shelf.json`. The Dictionary Historical and Critica
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| The Dictionary Historical and Critical, second edition, vol. I: A-Bi (London, 1734, inferred) |  | `bayle-dictionary-1734-v1` | have-raw (IA `dictionaryhi_bayl_1738_01`) |
+| The Dictionary Historical and Critical, second edition, vol. II: Bi-E (London, 1735) |  | `bayle-dictionary-1735-v2` | have-raw (IA `dictionaryhi_bayl_1738_02`) |
+| The Dictionary Historical and Critical, second edition, vol. III: F-L (London, 1736, inferred) |  | `bayle-dictionary-1736-v3` | have-raw (IA `dictionaryhi_bayl_1738_03`) |
+| The Dictionary Historical and Critical, second edition, vol. IV (London, 1737) |  | `bayle-dictionary-1737-v4` | have-raw (IA `dictionaryhi_bayl_1738_04`) |
+| The Dictionary Historical and Critical, second edition, vol. V (London, 1738) |  | `bayle-dictionary-1738-v5` | have-raw (IA `dictionaryhi_bayl_1738_05`) |
 
 ## Joseph Glanvill
 
