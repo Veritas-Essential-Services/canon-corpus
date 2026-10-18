@@ -3792,6 +3792,14 @@
       "finished": "2026-10-17T21:58-05:00",
       "scope": "AUDIT (round 103) -- library preservation photocopies among lane C's scans",
       "notes": "Five earlier titles moved from titles to _pending (budge, burton, edwin-arnold, egyptian-texts, cw-stork): their only scans are 1990s-2000s library photocopies. See DIGEST-C round 103."
+    },
+    {
+      "id": "shelf-lady-wallace-round104",
+      "status": "done",
+      "started": "2026-10-17T22:05-05:00",
+      "finished": "2026-10-17T22:07-05:00",
+      "scope": "GAP-FILL (round 104, lane C's choice; Adam may veto) -- lady-wallace; PD printings before 1931 only; no minting",
+      "notes": "+11 titles (now 19); ids checked across all branches. See DIGEST-C round 104. No uids minted."
     }
   ]
 }

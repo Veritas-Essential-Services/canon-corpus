@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Grace, Lady Wallace (1804-1878): the letters of Mozart (vol. 1, the only one on Gutenberg), Beethoven (2 vols) and Mendelssohn (2 vols), and Auerbach's Joseph in the Snow (3 vols). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Grace, Lady Wallace (1804-1878): the letters of Mozart (2 vols), Beethoven (2 vols) and Mendelssohn (2 vols), Letters of Distinguished Musicians (1867), Nohl's Life of Mozart (2 vols, 1877), Polko's Reminiscences of Mendelssohn (1869), Palleske's Schiller's Life and Works (2 vols, 1860), Grimm's Alexandra Feodorowna (2 vols, 1870), Fernán Caballero's The Castle and the Cottage in Spain (2 vols, 1861), and Auerbach's Joseph in the Snow (3 vols). US public domain. Added 2026-10-10 by lane C (round 23), widened in round 104 from period archive.org scans; Adam may veto. No uids minted.",
  "_name_words": [
   "lady wallace",
   "grace wallace"
@@ -44,7 +44,58 @@
    "The Letters of Wolfgang Amadeus Mozart — Volume 01"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lwa-mozart-letters-vol-2": [
+   "india.history.resource.73318",
+   "The Letters of Wolfgang Amadeus Mozart (1769-1791), from the collection of Ludwig Nohl, vol. II (1865)",
+   "73318_djvu.txt"
+  ],
+  "lwa-palleske-schiller-vol-1": [
+   "schillerslifewor01palluoft",
+   "Schiller's Life and Works, vol. I (1860)"
+  ],
+  "lwa-palleske-schiller-vol-2": [
+   "schillerslifewor02palluoft",
+   "Schiller's Life and Works, vol. II (1860)"
+  ],
+  "lwa-letters-of-distinguished-musicians": [
+   "india.history.resource.72989",
+   "Letters of Distinguished Musicians: Gluck, Haydn, P. E. Bach, Weber, Mendelssohn (1867)",
+   "72989_djvu.txt"
+  ],
+  "lwa-nohl-life-of-mozart-vol-1": [
+   "india.history.resource.85217",
+   "The Life of Mozart, vol. I (1877)",
+   "85217_djvu.txt"
+  ],
+  "lwa-nohl-life-of-mozart-vol-2": [
+   "india.history.resource.86492",
+   "The Life of Mozart, vol. II (1877)",
+   "86492_djvu.txt"
+  ],
+  "lwa-grimm-alexandra-feodorowna-vol-1": [
+   "india.history.resource.75292",
+   "Alexandra Feodorowna, Empress of Russia, vol. I (1870)",
+   "75292_djvu.txt"
+  ],
+  "lwa-grimm-alexandra-feodorowna-vol-2": [
+   "india.history.resource.74527",
+   "Alexandra Feodorowna, Empress of Russia, vol. II (1870)",
+   "74527_djvu.txt"
+  ],
+  "lwa-polko-reminiscences-of-mendelssohn": [
+   "cu31924022361251",
+   "Reminiscences of Felix Mendelssohn-Bartholdy: a Social and Artistic Biography (1869)"
+  ],
+  "lwa-caballero-castle-and-cottage-vol-1": [
+   "castleandcottag01ayalgoog",
+   "The Castle and the Cottage in Spain, vol. I (Elia, or Spain Thirty Years Ago, and other tales) (1861)"
+  ],
+  "lwa-caballero-castle-and-cottage-vol-2": [
+   "castleandcottag00ayalgoog",
+   "The Castle and the Cottage in Spain, vol. II (The Alvareda Family, and other tales) (1861)"
+  ]
+ },
  "titles": {
   "lady-wallace-auerbach-joseph-in-the-snow-vol-1": {
    "source": "lwa-33162",
@@ -109,10 +160,102 @@
    "translated": "1862-1867 (see the Gutenberg header)",
    "translator": "Lady Wallace",
    "scan_edition": "Project Gutenberg 5307 (clean text)"
+  },
+  "lady-wallace-mozart-letters-vol-2": {
+   "source": "lwa-mozart-letters-vol-2",
+   "of": "Wolfgang Amadeus Mozart",
+   "work": "The Letters of Wolfgang Amadeus Mozart (1769-1791), from the collection of Ludwig Nohl, vol. II",
+   "translated": 1865,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longmans, Green and Co., London 1865; Digital Library of India scan",
+   "note": "Volume II of the Mozart letters; volume I is on this shelf from Gutenberg."
+  },
+  "lady-wallace-palleske-schiller-vol-1": {
+   "source": "lwa-palleske-schiller-vol-1",
+   "of": "Emil Palleske",
+   "work": "Schiller's Life and Works, vol. I",
+   "translated": 1860,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longman, Green, Longman, and Roberts, London 1860; archive.org scan"
+  },
+  "lady-wallace-palleske-schiller-vol-2": {
+   "source": "lwa-palleske-schiller-vol-2",
+   "of": "Emil Palleske",
+   "work": "Schiller's Life and Works, vol. II",
+   "translated": 1860,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longman, Green, Longman, and Roberts, London 1860; archive.org scan"
+  },
+  "lady-wallace-letters-of-distinguished-musicians": {
+   "source": "lwa-letters-of-distinguished-musicians",
+   "of": "Gluck, Haydn, C. P. E. Bach, Weber and Mendelssohn",
+   "work": "Letters of Distinguished Musicians: Gluck, Haydn, P. E. Bach, Weber, Mendelssohn",
+   "translated": 1867,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longmans, Green and Co., London 1867; Digital Library of India scan"
+  },
+  "lady-wallace-nohl-life-of-mozart-vol-1": {
+   "source": "lwa-nohl-life-of-mozart-vol-1",
+   "of": "Ludwig Nohl",
+   "work": "The Life of Mozart, vol. I",
+   "translated": 1877,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longmans, Green and Co., London 1877; Digital Library of India scan",
+   "note": "A separate translation from John J. Lalor's Nohl, which is on the lalor shelf."
+  },
+  "lady-wallace-nohl-life-of-mozart-vol-2": {
+   "source": "lwa-nohl-life-of-mozart-vol-2",
+   "of": "Ludwig Nohl",
+   "work": "The Life of Mozart, vol. II",
+   "translated": 1877,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longmans, Green and Co., London 1877; Digital Library of India scan"
+  },
+  "lady-wallace-grimm-alexandra-feodorowna-vol-1": {
+   "source": "lwa-grimm-alexandra-feodorowna-vol-1",
+   "of": "A. Th. von Grimm",
+   "work": "Alexandra Feodorowna, Empress of Russia, vol. I",
+   "translated": 1870,
+   "translator": "Lady Wallace",
+   "scan_edition": "Edmonston and Douglas, Edinburgh 1870; Digital Library of India scan"
+  },
+  "lady-wallace-grimm-alexandra-feodorowna-vol-2": {
+   "source": "lwa-grimm-alexandra-feodorowna-vol-2",
+   "of": "A. Th. von Grimm",
+   "work": "Alexandra Feodorowna, Empress of Russia, vol. II",
+   "translated": 1870,
+   "translator": "Lady Wallace",
+   "scan_edition": "Edmonston and Douglas, Edinburgh 1870; Digital Library of India scan"
+  },
+  "lady-wallace-polko-reminiscences-of-mendelssohn": {
+   "source": "lwa-polko-reminiscences-of-mendelssohn",
+   "of": "Elise Polko",
+   "work": "Reminiscences of Felix Mendelssohn-Bartholdy: a Social and Artistic Biography",
+   "translated": 1869,
+   "translator": "Lady Wallace",
+   "scan_edition": "Longmans, Green and Co., London 1869; archive.org scan"
+  },
+  "lady-wallace-caballero-castle-and-cottage-vol-1": {
+   "source": "lwa-caballero-castle-and-cottage-vol-1",
+   "of": "Fernán Caballero",
+   "work": "The Castle and the Cottage in Spain, vol. I (Elia, or Spain Thirty Years Ago, and other tales)",
+   "translated": 1861,
+   "translator": "Lady Wallace",
+   "scan_edition": "Saunders, Otley, and Co., London 1861; archive.org scan of a Google copy"
+  },
+  "lady-wallace-caballero-castle-and-cottage-vol-2": {
+   "source": "lwa-caballero-castle-and-cottage-vol-2",
+   "of": "Fernán Caballero",
+   "work": "The Castle and the Cottage in Spain, vol. II (The Alvareda Family, and other tales)",
+   "translated": 1861,
+   "translator": "Lady Wallace",
+   "scan_edition": "Saunders, Otley, and Co., London 1861; archive.org scan of a Google copy"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "hacklander-clara": "Hackländer's Clara, or Slave Life in Europe (1856): Lady Wallace's title pages call her its translator, but the scans of it (the London three-volume edition, vols. II and III only, and the Harper one-volume edition) do not print her name, so the name gate cannot pass it."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "lwa-13065": {
@@ -186,6 +329,127 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-mozart-letters-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-palleske-schiller-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lwa-palleske-schiller-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lwa-letters-of-distinguished-musicians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-nohl-life-of-mozart-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grace wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-nohl-life-of-mozart-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-grimm-alexandra-feodorowna-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-grimm-alexandra-feodorowna-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-polko-reminiscences-of-mendelssohn": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lwa-caballero-castle-and-cottage-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lwa-caballero-castle-and-cottage-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -228,7 +492,158 @@
    "pg": 5307,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-mozart-letters-vol-2": {
+   "ia": "india.history.resource.73318",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1787,
+    1788,
+    1789,
+    1790,
+    1791,
+    1865
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "Examined in round 104: 2016 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-palleske-schiller-vol-1": {
+   "ia": "schillerslifewor01palluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1781,
+    1782,
+    1783,
+    1858,
+    1859,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lwa-palleske-schiller-vol-2": {
+   "ia": "schillerslifewor02palluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1787,
+    1790,
+    1795,
+    1799,
+    1805,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lwa-letters-of-distinguished-musicians": {
+   "ia": "india.history.resource.72989",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1776,
+    1787,
+    1788,
+    1809,
+    1866,
+    1867
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "Examined in round 104: 2016 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-nohl-life-of-mozart-vol-1": {
+   "ia": "india.history.resource.85217",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1876,
+    1877
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 104: 2018 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-nohl-life-of-mozart-vol-2": {
+   "ia": "india.history.resource.86492",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1787,
+    1788,
+    1789,
+    1790,
+    1791,
+    1877
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 104: 2018 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-grimm-alexandra-feodorowna-vol-1": {
+   "ia": "india.history.resource.75292",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1846,
+    1852,
+    1858,
+    1860,
+    1866,
+    1870
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 104: 2018 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-grimm-alexandra-feodorowna-vol-2": {
+   "ia": "india.history.resource.74527",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1801,
+    1812,
+    1829,
+    1834,
+    1870
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "Examined in round 104: 2018 is the Digital Library of India line 'Digitized with financial assistance from the Government of Maharashtra', not an imprint; the title page carries the nineteenth-century imprint given in scan_edition."
+  },
+  "lwa-polko-reminiscences-of-mendelssohn": {
+   "ia": "cu31924022361251",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1839,
+    1840,
+    1842,
+    1846,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lwa-caballero-castle-and-cottage-vol-1": {
+   "ia": "castleandcottag01ayalgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lwa-caballero-castle-and-cottage-vol-2": {
+   "ia": "castleandcottag00ayalgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "lwa-nohl-life-of-mozart-vol-2": {
+   "author": "The title page OCR reads 'BY LADY WALLACK' for Lady Wallace, under 'TRANSLATRE FROM ATHE GERMAN WORK oF DF LUDWIG NOH'; the half-title reads vol. II and the text opens in Vienna in 1781, the second volume's ground. Checked by eye 2026-10-17."
+  }
+ }
 }

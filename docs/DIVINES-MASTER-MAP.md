@@ -17223,10 +17223,10 @@ Round 23 (2026-10-10), vetoable. His Busch stays on wilhelm-busch. Not converted
 | `ct-brooks-jean-paul-titan-a-romance-v-2-of-2` | Jean Paul | Titan: A Romance. v. 2 (of 2) | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36403 |
 | — | — | busch: Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner. | — | — | excluded | — |
 
-## Lady Wallace (Mozart, Beethoven and Mendelssohn letters; Auerbach)
+## Lady Wallace (Mozart, Beethoven and Mendelssohn letters; Nohl's Mozart, Polko's Mendelssohn, Palleske's Schiller, Grimm's Empress Alexandra, Fernán Caballero; Auerbach)
 
 Shelf: `pipeline/lady-wallace_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lady-wallace` · titles `python3 pipeline/split_shelf_titles.py lady-wallace`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 104 (2026-10-17) added 11 period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -17238,6 +17238,18 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lady-wallace-mendelssohn-letters-1833-1847` | Felix Mendelssohn-Bartholdy | Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 50473 |
 | `lady-wallace-mendelssohn-letters-italy-switzerland` | Felix Mendelssohn-Bartholdy | Letters of Felix Mendelssohn Bartholdy from Italy and Switzerland | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 39384 |
 | `lady-wallace-mozart-the-letters-of-wolfgang-amadeus-mozart-v` | Wolfgang Amadeus Mozart | The Letters of Wolfgang Amadeus Mozart — Volume 01 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 5307 |
+| `lady-wallace-mozart-letters-vol-2` | Wolfgang Amadeus Mozart | The Letters of Wolfgang Amadeus Mozart (1769-1791), from the collection of Ludwig Nohl, vol. II | Lady Wallace | 1865 | have-raw | IA `india.history.resource.73318` |
+| `lady-wallace-palleske-schiller-vol-1` | Emil Palleske | Schiller's Life and Works, vol. I | Lady Wallace | 1860 | have-raw | IA `schillerslifewor01palluoft` |
+| `lady-wallace-palleske-schiller-vol-2` | Emil Palleske | Schiller's Life and Works, vol. II | Lady Wallace | 1860 | have-raw | IA `schillerslifewor02palluoft` |
+| `lady-wallace-letters-of-distinguished-musicians` | Gluck, Haydn, C. P. E. Bach, Weber and Mendelssohn | Letters of Distinguished Musicians: Gluck, Haydn, P. E. Bach, Weber, Mendelssohn | Lady Wallace | 1867 | have-raw | IA `india.history.resource.72989` |
+| `lady-wallace-nohl-life-of-mozart-vol-1` | Ludwig Nohl | The Life of Mozart, vol. I | Lady Wallace | 1877 | have-raw | IA `india.history.resource.85217` |
+| `lady-wallace-nohl-life-of-mozart-vol-2` | Ludwig Nohl | The Life of Mozart, vol. II | Lady Wallace | 1877 | have-raw | IA `india.history.resource.86492` |
+| `lady-wallace-grimm-alexandra-feodorowna-vol-1` | A. Th. von Grimm | Alexandra Feodorowna, Empress of Russia, vol. I | Lady Wallace | 1870 | have-raw | IA `india.history.resource.75292` |
+| `lady-wallace-grimm-alexandra-feodorowna-vol-2` | A. Th. von Grimm | Alexandra Feodorowna, Empress of Russia, vol. II | Lady Wallace | 1870 | have-raw | IA `india.history.resource.74527` |
+| `lady-wallace-polko-reminiscences-of-mendelssohn` | Elise Polko | Reminiscences of Felix Mendelssohn-Bartholdy: a Social and Artistic Biography | Lady Wallace | 1869 | have-raw | IA `cu31924022361251` |
+| `lady-wallace-caballero-castle-and-cottage-vol-1` | Fernán Caballero | The Castle and the Cottage in Spain, vol. I (Elia, or Spain Thirty Years Ago, and other tales) | Lady Wallace | 1861 | have-raw | IA `castleandcottag01ayalgoog` |
+| `lady-wallace-caballero-castle-and-cottage-vol-2` | Fernán Caballero | The Castle and the Cottage in Spain, vol. II (The Alvareda Family, and other tales) | Lady Wallace | 1861 | have-raw | IA `castleandcottag00ayalgoog` |
+| — | — | hacklander-clara: Hackländer's Clara, or Slave Life in Europe (1856): Lady Wallace's title pages call her its translator, but the scans of it (the London three-volume edition, vols. II and III only, and the Harper one-volume edition) do not print her name, so the name gate cannot pass it. | — | — | excluded | — |
 
 ## Ellen E. Frewer (Verne's Dick Sands; Schweinfurth; Holub)
 
