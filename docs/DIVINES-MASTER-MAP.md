@@ -35974,6 +35974,58 @@ Shelf: `pipeline/roy-j-snell_shelf.json` (2026-10-17; added at the coordinator's
 | On the Yukon Trail Radio-Phone Boys Series, #2 | have | PG 45029, `rjsnell-on-the-yukon-trail-radio-phone-boys-series-2` (1028 units) |
 | Green Eyes | have | PG 45557, `rjsnell-green-eyes` (1474 units) |
 
+## John Henry Goldfrap
+
+Shelf: `pipeline/john-henry-goldfrap_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (45 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Boy Aviators' Treasure Quest; Or, The Golden Galleon | have | PG 6149, `jhgoldfrap-boy-aviators-treasure-quest` (1574 units) |
+| The Boy Aviators in Africa; Or, an Aerial Ivory Trail | have | PG 6905, `jhgoldfrap-boy-aviators-in-africa` (1562 units) |
+| The Boy Aviators' Polar Dash; or, Facing Death in the Antarctic | have | PG 6973, `jhgoldfrap-boy-aviators-polar-dash` (1890 units) |
+| The Boy Scouts of the Eagle Patrol | have | PG 12112, `jhgoldfrap-boy-scouts-of-the-eagle-patrol` (1629 units) |
+| The Border Boys Across the Frontier | have | PG 19083, `jhgoldfrap-border-boys-across-the-frontier` (1506 units) |
+| The Ocean Wireless Boys and the Naval Code | have | PG 26778, `jhgoldfrap-ocean-wireless-boys-and-the-naval-code` (1777 units) |
+| The Boy Scouts on Belgian Battlefields | have | PG 29991, `jhgoldfrap-boy-scouts-on-belgian-battlefields` (1384 units) |
+| The Boy Scouts for Uncle Sam | have | PG 32460, `jhgoldfrap-boy-scouts-for-uncle-sam` (1615 units) |
+| The Boy Scouts on the Range | have | PG 35071, `jhgoldfrap-boy-scouts-on-the-range` (1784 units) |
+| The Boy Scouts Under Fire in Mexico | have | PG 36000, `jhgoldfrap-boy-scouts-under-fire-in-mexico` (1402 units) |
+| The Boy Aviators' Flight for a Fortune | have | PG 37175, `jhgoldfrap-boy-aviators-flight-for-a-fortune` (1388 units) |
+| The Bungalow Boys Along the Yukon | have | PG 39643, `jhgoldfrap-bungalow-boys-along-the-yukon` (1489 units) |
+| The Ocean Wireless Boys and the Lost Liner | have | PG 41265, `jhgoldfrap-ocean-wireless-boys-and-the-lost-liner` (1618 units) |
+| The Boy Scouts at the Panama Canal | have | PG 42077, `jhgoldfrap-boy-scouts-at-the-panama-canal` (1411 units) |
+| The Boy Scouts at the Panama-Pacific Exposition | have | PG 42086, `jhgoldfrap-boy-scouts-at-the-panama-pacific-exposition` (1259 units) |
+| The Boy Scouts' Mountain Camp | have | PG 42102, `jhgoldfrap-boy-scouts-mountain-camp` (1567 units) |
+| The Motor Rangers Through the Sierras | have | PG 43917, `jhgoldfrap-motor-rangers-through-the-sierras` (1572 units) |
+| The Bungalow Boys North of Fifty-Three | have | PG 44317, `jhgoldfrap-bungalow-boys-north-of-fifty-three` (1424 units) |
+| The Ocean Wireless Boys on the Pacific | have | PG 44503, `jhgoldfrap-ocean-wireless-boys-on-the-pacific` (1489 units) |
+| The Boy Aviators in Record Flight; Or, The Rival Aeroplane | have | PG 45182, `jhgoldfrap-boy-aviators-in-record-flight` (1682 units) |
+| The Bungalow Boys in the Great Northwest | have | PG 45262, `jhgoldfrap-bungalow-boys-in-the-great-northwest` (1448 units) |
+| The Boy Aviators with the Air Raiders: A Story of the Great World War | have | PG 45727, `jhgoldfrap-boy-aviators-with-the-air-raiders` (1488 units) |
+| The Ocean Wireless Boys on War Swept Seas | have | PG 45841, `jhgoldfrap-ocean-wireless-boys-on-war-swept-seas` (1594 units) |
+| The Boy Aviators on Secret Service; Or, Working with Wireless | have | PG 45991, `jhgoldfrap-boy-aviators-on-secret-service` (1714 units) |
+| The Dreadnought Boys on Battle Practice | have | PG 47776, `jhgoldfrap-dreadnought-boys-on-battle-practice` (2014 units) |
+| The Motor Rangers' Cloud Cruiser | have | PG 48270, `jhgoldfrap-motor-rangers-cloud-cruiser` (1844 units) |
+| The Border Boys on the Trail | have | PG 48680, `jhgoldfrap-border-boys-on-the-trail` (1762 units) |
+| The Ocean Wireless Boys on the Atlantic | have | PG 48955, `jhgoldfrap-ocean-wireless-boys-on-the-atlantic` (1723 units) |
+| The Border Boys with the Texas Rangers | have | PG 49002, `jhgoldfrap-border-boys-with-the-texas-rangers` (1327 units) |
+| The Boy Aviators in Nicaragua; or, In League with the Insurgents | have | PG 49734, `jhgoldfrap-boy-aviators-in-nicaragua` (1664 units) |
+| The Motor Rangers' Wireless Station | have | PG 50260, `jhgoldfrap-motor-rangers-wireless-station` (1541 units) |
+| The Boy Scouts at the Canadian Border | have | PG 50602, `jhgoldfrap-boy-scouts-at-the-canadian-border` (1028 units) |
+| The Border Boys Along the St. Lawrence | have | PG 51600, `jhgoldfrap-border-boys-along-the-st-lawrence` (1556 units) |
+| The Dreadnought Boys on Aero Service | have | PG 52637, `jhgoldfrap-dreadnought-boys-on-aero-service` (1430 units) |
+| The Border Boys in the Canadian Rockies | have | PG 52810, `jhgoldfrap-border-boys-in-the-canadian-rockies` (1421 units) |
+| The Border Boys with the Mexican Rangers | have | PG 52832, `jhgoldfrap-border-boys-with-the-mexican-rangers` (1232 units) |
+| The Dreadnought Boys in Home Waters | have | PG 54496, `jhgoldfrap-dreadnought-boys-in-home-waters` (1649 units) |
+| The Dreadnought Boys Aboard a Destroyer | have | PG 57396, `jhgoldfrap-dreadnought-boys-aboard-a-destroyer` (1668 units) |
+| The Dreadnought Boys on a Submarine | have | PG 58013, `jhgoldfrap-dreadnought-boys-on-a-submarine` (1605 units) |
+| The Dreadnought Boys' World Cruise | have | PG 59986, `jhgoldfrap-dreadnought-boys-world-cruise` (1867 units) |
+| The Boy Scouts and the Army Airship | have | PG 62792, `jhgoldfrap-boy-scouts-and-the-army-airship` (1609 units) |
+| The Bungalow Boys on the Great Lakes | have | PG 67898, `jhgoldfrap-bungalow-boys-on-the-great-lakes` (1591 units) |
+| The Motor Rangers on Blue Water; or, The Secret of the Derelict | have | PG 67899, `jhgoldfrap-motor-rangers-on-blue-water` (1462 units) |
+| The Boy Scouts' badge of courage | have | PG 68508, `jhgoldfrap-boy-scouts-badge-of-courage` (1222 units) |
+| The ocean wireless boys of the iceberg patrol | have | PG 69517, `jhgoldfrap-ocean-wireless-boys-of-the-iceberg-patrol` (1454 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
