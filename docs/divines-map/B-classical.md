@@ -4894,6 +4894,8 @@ Shelf: `pipeline/alexander-bain_shelf.json`. Associationist psychology and ethic
 | Moral Science: a compendium of ethics (1869) |  | `bain-moral-science-1869` | have (PG 12913) |
 | Practical Essays (1884) |  | `bain-practical-essays-1884` | have (PG 17522) |
 | The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875) |  | `bain-emotions-and-the-will-1875` | have-raw (IA `bub_gb_BjYCAAAAQAAJ`) |
+| The Senses and the Intellect, third edition (New York: D. Appleton, 1879) |  | `bain-senses-and-the-intellect-1879` | have-raw (IA `cu31924014058279`) |
+| Mental and Moral Science: a compendium of psychology and ethics, both parts bound together (London: Longmans, Green, 1872) |  | `bain-mental-and-moral-science-1872` | have-raw (IA `mentalandmoralsc00bainuoft`) |
 
 ## George Henry Lewes
 

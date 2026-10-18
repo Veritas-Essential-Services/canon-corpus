@@ -1,5 +1,5 @@
 {
- "_about": "Alexander Bain (1818-1903), Scottish philosopher and psychologist: Moral Science, a compendium of ethics (1869) and Practical Essays (1884), clean Gutenberg texts, and The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875; raw OCR of a Google scan). Not R. Nisbet Bain the translator (bain shelf). The Senses and the Intellect is held: the year on the Appleton title page is unreadable. US public domain. No uids minted.",
+ "_about": "Alexander Bain (1818-1903), Scottish philosopher and psychologist: Moral Science, a compendium of ethics (1869) and Practical Essays (1884), clean Gutenberg texts, and The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875; raw OCR of a Google scan). Not R. Nisbet Bain the translator (bain shelf). Added in round am: The Senses and the Intellect, third edition (New York: D. Appleton, 1879). Added in round am: Mental and Moral Science: a compendium of psychology and ethics, both parts bound together (London: Longmans, Green, 1872); its ethics part overlaps the separately issued Moral Science above. US public domain. No uids minted.",
  "_author": "Alexander Bain",
  "_name_words": [
   "alexander",
@@ -24,13 +24,21 @@
   "bain-emotions-and-the-will-1875": [
    "bub_gb_BjYCAAAAQAAJ",
    "The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875)"
+  ],
+  "bain-senses-and-the-intellect-1879": [
+   "cu31924014058279",
+   "The Senses and the Intellect, third edition (New York: D. Appleton, 1879)"
+  ],
+  "bain-mental-and-moral-science-1872": [
+   "mentalandmoralsc00bainuoft",
+   "Mental and Moral Science: a compendium of psychology and ethics, both parts bound together (London: Longmans, Green, 1872)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "bain-moral-science-1869": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bain",
    "identity": "ok",
@@ -39,7 +47,7 @@
   },
   "bain-practical-essays-1884": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bain",
    "identity": "ok",
@@ -48,13 +56,35 @@
   },
   "bain-emotions-and-the-will-1875": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bain",
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bain-senses-and-the-intellect-1879": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bain-mental-and-moral-science-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
