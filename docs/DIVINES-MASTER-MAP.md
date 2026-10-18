@@ -5973,6 +5973,17 @@ Slugs `benson-*`. Catholic convert and apologist; his non-fiction only, every pr
 | New York and St. Louis issues of Confessions, Christ in the Church and Friendship of Christ; later impressions | alternate | not shelved |
 | His novels and plays | excluded | |
 | Modern reprints | excluded | |
+
+## Aleksei Khomiakov (round 27, my pick, 2026-10-17)
+
+Slugs `khomiakov-*`. Russian lay theologian in English: the Orthodox Doctrine on the Church (1864) and his Palmer correspondence (1895).
+
+| Work | Status | Where |
+|---|---|---|
+| The Orthodox Doctrine on the Church: an Essay, translated from the original Russ (Brussels: V. J. Van Buggenhoudt, 1864) | have-ocr | IA `orthodoxdoctrin00khomgoog` |
+| Russia and the English Church during the last fifty years, vol. I: the correspondence of William Palmer and M. Khomiakoff, 1844-1854, ed. W. J. Birkbeck (London: Rivington, Percival, 1895) | have-ocr | IA `russiaenglishchu0001wjbi` |
+| The 1917 SPCK reissue of Russia and the English Church | alternate | not shelved |
+| The 1969 facsimile and later studies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

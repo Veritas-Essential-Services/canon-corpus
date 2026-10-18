@@ -1249,3 +1249,6 @@
 
 ## 2026-10-17 19:14 CDT — robert-hugh-benson done
 - `pipeline/robert-hugh-benson_shelf.json`: 0 CCEL, 2 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — aleksei-khomiakov done
+- `pipeline/aleksei-khomiakov_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
