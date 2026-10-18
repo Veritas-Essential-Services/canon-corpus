@@ -4243,6 +4243,7 @@ Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philad
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853) | Chitty | `vattel-chitty-law-of-nations-1853` | have-raw (IA `lawofnationsorpr00vattiala`) |
+| The Law of Nations, or the Principles of Natural Law, Classics of International Law vol. III: translation of the edition of 1758 (Washington: Carnegie Institution, 1916) | Charles G. Fenwick | `vattel-fenwick-law-of-nations-1916` | have-raw (IA `ledroitdesgensou03vattuoft`) |
 
 ## Condorcet in English
 
