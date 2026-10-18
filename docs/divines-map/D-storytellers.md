@@ -9464,6 +9464,97 @@ Shelf: `pipeline/poe-works_shelf.json` (2026-10-17; added at the coordinator's r
 | held-elsewhere | excluded | PG 2147, 2148, 2149, 2150, 2151: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-8893 | excluded | PG 8893 Selections from Poe: a school selection (ed. Gambrill) of pieces held in full elsewhere. |
 
+## Anthony Trollope
+
+Shelf: `pipeline/trollope-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, stories and travels. Every English text under the name at Gutenberg that no other shelf holds (81 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hunting Sketches | have | PG 814, `atrollope-hunting-sketches` (80 units) |
+| The Prime Minister | have | PG 2158, `atrollope-prime-minister` (5025 units) |
+| Barchester Towers | have | PG 2432, `atrollope-barchester-towers` (3140 units) |
+| Framley Parsonage | have | PG 2860, `atrollope-framley-parsonage` (4025 units) |
+| The Last Chronicle of Barset | have | PG 3045, `atrollope-last-chronicle-of-barset` (6043 units) |
+| Doctor Thorne | have | PG 3166, `atrollope-doctor-thorne` (4499 units) |
+| La Mere Bauche From Tales of All Countries | have | PG 3550, `atrollope-la-mere-bauche-from-tales-of-all-countries` (202 units) |
+| John Bull on the Guadalquivir From "Tales from All Countries" | have | PG 3615, `atrollope-john-bull-on-the-guadalquivir-from-tales-from-all` (154 units) |
+| The O'Conors of Castle Conor, County Mayo From "Tales from All Countries" | have | PG 3616, `atrollope-oconors-of-castle-conor-county-mayo-from-tales-fro` (185 units) |
+| The Duke's Children | have | PG 3622, `atrollope-dukes-children` (5320 units) |
+| Miss Sarah Jack of Spanish Town, Jamaica | have | PG 3699, `atrollope-miss-sarah-jack-of-spanish-town-jamaica` (194 units) |
+| The Courtship of Susan Bell | have | PG 3700, `atrollope-courtship-of-susan-bell` (273 units) |
+| An Unprotected Female at the Pyramids | have | PG 3710, `atrollope-an-unprotected-female-at-the-pyramids` (266 units) |
+| The Relics of General Chasse: A Tale of Antwerp | have | PG 3711, `atrollope-relics-of-general-chasse` (144 units) |
+| The Chateau of Prince Polignac | have | PG 3712, `atrollope-chateau-of-prince-polignac` (169 units) |
+| Aaron Trow | have | PG 3713, `atrollope-aaron-trow` (110 units) |
+| Mrs. General Talboys | have | PG 3716, `atrollope-mrs-general-talboys` (144 units) |
+| The Parson's Daughter of Oxney Colne | have | PG 3717, `atrollope-parsons-daughter-of-oxney-colne` (194 units) |
+| George Walker at Suez | have | PG 3718, `atrollope-george-walker-at-suez` (59 units) |
+| The Mistletoe Bough | have | PG 3719, `atrollope-mistletoe-bough` (212 units) |
+| Returning Home | have | PG 3720, `atrollope-returning-home` (101 units) |
+| A Ride Across Palestine | have | PG 3723, `atrollope-a-ride-across-palestine` (208 units) |
+| The House of Heine Brothers, in Munich | have | PG 3724, `atrollope-house-of-heine-brothers-in-munich` (213 units) |
+| The Man Who Kept His Money in a Box | have | PG 3767, `atrollope-man-who-kept-his-money-in-a-box` (220 units) |
+| The Small House at Allington | have | PG 4599, `atrollope-small-house-at-allington` (5010 units) |
+| The Kellys and the O'Kellys | have | PG 4917, `atrollope-kellys-and-the-okellys` (3368 units) |
+| The Belton Estate | have | PG 4969, `atrollope-belton-estate` (3329 units) |
+| The American Senator | have | PG 5118, `atrollope-american-senator` (3792 units) |
+| He Knew He Was Right | have | PG 5140, `atrollope-he-knew-he-was-right` (5637 units) |
+| The Golden Lion of Granpere | have | PG 5202, `atrollope-golden-lion-of-granpere` (1036 units) |
+| The Way We Live Now | have | PG 5231, `atrollope-way-we-live-now` (5845 units) |
+| Harry Heathcote of Gangoil: A Tale of Australian Bush-Life | have | PG 5642, `atrollope-harry-heathcote-of-gangoil` (803 units) |
+| La Vendée | have | PG 5709, `atrollope-la-vend-e` (2719 units) |
+| Castle Richmond | have | PG 5897, `atrollope-castle-richmond` (3698 units) |
+| An Autobiography of Anthony Trollope | have | PG 5978, `atrollope-an-autobiography-of-anthony-trollope` (466 units) |
+| The Eustace Diamonds | have | PG 7381, `atrollope-eustace-diamonds` (4340 units) |
+| The Three Clerks | have | PG 7481, `atrollope-three-clerks` (3789 units) |
+| Nina Balatka | have | PG 8897, `atrollope-nina-balatka` (1562 units) |
+| The Life of Cicero, Volume One | have | PG 8945, `atrollope-life-of-cicero-volume-one` (729 units) |
+| John Caldigate | have | PG 11643, `atrollope-john-caldigate` (3314 units) |
+| Mr. Scarborough's Family | have | PG 12234, `atrollope-mr-scarboroughs-family` (4086 units) |
+| The Claverings | have | PG 15766, `atrollope-claverings` (3749 units) |
+| An Eye for an Eye | have | PG 16804, `atrollope-an-eye-for-an-eye` (1179 units) |
+| Phineas Finn The Irish Member | have | PG 18000, `atrollope-phineas-finn-the-irish-member` (4890 units) |
+| Phineas Redux | have | PG 18640, `atrollope-phineas-redux` (4220 units) |
+| Thackeray | have | PG 18645, `atrollope-thackeray` (450 units) |
+| Can You Forgive Her? | have | PG 19500, `atrollope-can-you-forgive-her` (5699 units) |
+| Dr. Wortle's School | have | PG 21847, `atrollope-dr-wortles-school` (1521 units) |
+| Kept in the Dark | have | PG 22000, `atrollope-kept-in-the-dark` (1034 units) |
+| Orley Farm | have | PG 23000, `atrollope-orley-farm` (5997 units) |
+| Miss Mackenzie | have | PG 24000, `atrollope-miss-mackenzie` (2831 units) |
+| Cousin Henry | have | PG 24103, `atrollope-cousin-henry` (1207 units) |
+| An Old Man's Love | have | PG 25001, `atrollope-an-old-mans-love` (1363 units) |
+| Ralph the Heir | have | PG 25579, `atrollope-ralph-the-heir` (3108 units) |
+| The Bertrams | have | PG 26001, `atrollope-bertrams` (4671 units) |
+| Linda Tressel | have | PG 26002, `atrollope-linda-tressel` (857 units) |
+| The Vicar of Bullhampton | have | PG 26541, `atrollope-vicar-of-bullhampton` (3632 units) |
+| The Fixed Period | have | PG 27067, `atrollope-fixed-period` (811 units) |
+| The Struggles of Brown, Jones, and Robinson By One of the Firm | have | PG 27533, `atrollope-struggles-of-brown-jones-and-robinson-by-one-of-th` (1366 units) |
+| Sir Harry Hotspur of Humblethwaite | have | PG 27712, `atrollope-sir-harry-hotspur-of-humblethwaite` (1228 units) |
+| The Life of Cicero, Volume II. | have | PG 28676, `atrollope-life-of-cicero-volume-ii` (1306 units) |
+| The Macdermots of Ballycloran | have | PG 29000, `atrollope-macdermots-of-ballycloran` (2898 units) |
+| Is He Popenjoy? | have | PG 29828, `atrollope-is-he-popenjoy` (4148 units) |
+| Marion Fay: A Novel | have | PG 30100, `atrollope-marion-fay` (3668 units) |
+| The Landleaguers | have | PG 30606, `atrollope-landleaguers` (2715 units) |
+| Lady Anna | have | PG 31274, `atrollope-lady-anna` (2114 units) |
+| Ayala's Angel | have | PG 33500, `atrollope-ayalas-angel` (4122 units) |
+| Rachel Ray | have | PG 34000, `atrollope-rachel-ray` (2498 units) |
+| Travelling Sketches | have | PG 44992, `atrollope-travelling-sketches` (83 units) |
+| Lotta Schmidt, and Other Stories | have | PG 54424, `atrollope-lotta-schmidt-and-other-stories` (1579 units) |
+| Mary Gresley, and An Editor's Tales | have | PG 54783, `atrollope-mary-gresley-and-an-editors-tales` (673 units) |
+| The West Indies and the Spanish Main | have | PG 55100, `atrollope-west-indies-and-the-spanish-main` (1243 units) |
+| Tales of All Countries | have | PG 55147, `atrollope-tales-of-all-countries` (3019 units) |
+| Why Frau Frohmann Raised Her Prices, and Other Stories | have | PG 55212, `atrollope-why-frau-frohmann-raised-her-prices-and-other-stor` (1480 units) |
+| Lord Palmerston | have | PG 55648, `atrollope-lord-palmerston` (384 units) |
+| Clergymen of the Church of England | have | PG 55665, `atrollope-clergymen-of-the-church-of-england` (103 units) |
+| The Commentaries of Cæsar | have | PG 55926, `atrollope-commentaries-of-c-sar` (272 units) |
+| Christmas at Thompson Hall | have | PG 58558, `atrollope-christmas-at-thompson-hall` (258 units) |
+| South Africa; vol I. | have | PG 66342, `atrollope-south-africa` (471 units) |
+| South Africa, vol. II. | have | PG 66343, `atrollope-south-africa-vol-ii` (837 units) |
+| South Australia and Western Australia | have | PG 70385, `atrollope-south-australia-and-western-australia` (328 units) |
+| pg-58383 | excluded | PG 58383: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 3409: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 619: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

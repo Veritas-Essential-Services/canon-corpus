@@ -1,0 +1,1146 @@
+{
+ "_about": "Anthony Trollope's Barsetshire and Palliser novels and his other novels, stories and travels not already on another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Anthony Trollope",
+ "_name_words": [
+  "trollope"
+ ],
+ "_surname": [
+  "anthony trollope"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "atrollope-hunting-sketches": [
+   814,
+   "Hunting Sketches"
+  ],
+  "atrollope-prime-minister": [
+   2158,
+   "The Prime Minister",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-barchester-towers": [
+   2432,
+   "Barchester Towers"
+  ],
+  "atrollope-framley-parsonage": [
+   2860,
+   "Framley Parsonage",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-last-chronicle-of-barset": [
+   3045,
+   "The Last Chronicle of Barset"
+  ],
+  "atrollope-doctor-thorne": [
+   3166,
+   "Doctor Thorne",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-la-mere-bauche-from-tales-of-all-countries": [
+   3550,
+   "La Mere Bauche From Tales of All Countries"
+  ],
+  "atrollope-john-bull-on-the-guadalquivir-from-tales-from-all": [
+   3615,
+   "John Bull on the Guadalquivir From \"Tales from All Countries\""
+  ],
+  "atrollope-oconors-of-castle-conor-county-mayo-from-tales-fro": [
+   3616,
+   "The O'Conors of Castle Conor, County Mayo From \"Tales from All Countries\""
+  ],
+  "atrollope-dukes-children": [
+   3622,
+   "The Duke's Children",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-miss-sarah-jack-of-spanish-town-jamaica": [
+   3699,
+   "Miss Sarah Jack of Spanish Town, Jamaica"
+  ],
+  "atrollope-courtship-of-susan-bell": [
+   3700,
+   "The Courtship of Susan Bell"
+  ],
+  "atrollope-an-unprotected-female-at-the-pyramids": [
+   3710,
+   "An Unprotected Female at the Pyramids"
+  ],
+  "atrollope-relics-of-general-chasse": [
+   3711,
+   "The Relics of General Chasse: A Tale of Antwerp"
+  ],
+  "atrollope-chateau-of-prince-polignac": [
+   3712,
+   "The Chateau of Prince Polignac"
+  ],
+  "atrollope-aaron-trow": [
+   3713,
+   "Aaron Trow"
+  ],
+  "atrollope-mrs-general-talboys": [
+   3716,
+   "Mrs. General Talboys"
+  ],
+  "atrollope-parsons-daughter-of-oxney-colne": [
+   3717,
+   "The Parson's Daughter of Oxney Colne"
+  ],
+  "atrollope-george-walker-at-suez": [
+   3718,
+   "George Walker at Suez"
+  ],
+  "atrollope-mistletoe-bough": [
+   3719,
+   "The Mistletoe Bough"
+  ],
+  "atrollope-returning-home": [
+   3720,
+   "Returning Home"
+  ],
+  "atrollope-a-ride-across-palestine": [
+   3723,
+   "A Ride Across Palestine"
+  ],
+  "atrollope-house-of-heine-brothers-in-munich": [
+   3724,
+   "The House of Heine Brothers, in Munich"
+  ],
+  "atrollope-man-who-kept-his-money-in-a-box": [
+   3767,
+   "The Man Who Kept His Money in a Box"
+  ],
+  "atrollope-small-house-at-allington": [
+   4599,
+   "The Small House at Allington"
+  ],
+  "atrollope-kellys-and-the-okellys": [
+   4917,
+   "The Kellys and the O'Kellys"
+  ],
+  "atrollope-belton-estate": [
+   4969,
+   "The Belton Estate",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-american-senator": [
+   5118,
+   "The American Senator",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-he-knew-he-was-right": [
+   5140,
+   "He Knew He Was Right"
+  ],
+  "atrollope-golden-lion-of-granpere": [
+   5202,
+   "The Golden Lion of Granpere"
+  ],
+  "atrollope-way-we-live-now": [
+   5231,
+   "The Way We Live Now",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-harry-heathcote-of-gangoil": [
+   5642,
+   "Harry Heathcote of Gangoil: A Tale of Australian Bush-Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-la-vend-e": [
+   5709,
+   "La Vendée"
+  ],
+  "atrollope-castle-richmond": [
+   5897,
+   "Castle Richmond"
+  ],
+  "atrollope-an-autobiography-of-anthony-trollope": [
+   5978,
+   "An Autobiography of Anthony Trollope"
+  ],
+  "atrollope-eustace-diamonds": [
+   7381,
+   "The Eustace Diamonds",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-three-clerks": [
+   7481,
+   "The Three Clerks"
+  ],
+  "atrollope-nina-balatka": [
+   8897,
+   "Nina Balatka"
+  ],
+  "atrollope-life-of-cicero-volume-one": [
+   8945,
+   "The Life of Cicero, Volume One"
+  ],
+  "atrollope-john-caldigate": [
+   11643,
+   "John Caldigate",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-mr-scarboroughs-family": [
+   12234,
+   "Mr. Scarborough's Family"
+  ],
+  "atrollope-claverings": [
+   15766,
+   "The Claverings",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-an-eye-for-an-eye": [
+   16804,
+   "An Eye for an Eye",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-phineas-finn-the-irish-member": [
+   18000,
+   "Phineas Finn The Irish Member",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-phineas-redux": [
+   18640,
+   "Phineas Redux",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-thackeray": [
+   18645,
+   "Thackeray"
+  ],
+  "atrollope-can-you-forgive-her": [
+   19500,
+   "Can You Forgive Her?",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-dr-wortles-school": [
+   21847,
+   "Dr. Wortle's School"
+  ],
+  "atrollope-kept-in-the-dark": [
+   22000,
+   "Kept in the Dark",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-orley-farm": [
+   23000,
+   "Orley Farm"
+  ],
+  "atrollope-miss-mackenzie": [
+   24000,
+   "Miss Mackenzie",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-cousin-henry": [
+   24103,
+   "Cousin Henry",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-an-old-mans-love": [
+   25001,
+   "An Old Man's Love"
+  ],
+  "atrollope-ralph-the-heir": [
+   25579,
+   "Ralph the Heir",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-bertrams": [
+   26001,
+   "The Bertrams"
+  ],
+  "atrollope-linda-tressel": [
+   26002,
+   "Linda Tressel"
+  ],
+  "atrollope-vicar-of-bullhampton": [
+   26541,
+   "The Vicar of Bullhampton",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-fixed-period": [
+   27067,
+   "The Fixed Period"
+  ],
+  "atrollope-struggles-of-brown-jones-and-robinson-by-one-of-th": [
+   27533,
+   "The Struggles of Brown, Jones, and Robinson By One of the Firm"
+  ],
+  "atrollope-sir-harry-hotspur-of-humblethwaite": [
+   27712,
+   "Sir Harry Hotspur of Humblethwaite"
+  ],
+  "atrollope-life-of-cicero-volume-ii": [
+   28676,
+   "The Life of Cicero, Volume II."
+  ],
+  "atrollope-macdermots-of-ballycloran": [
+   29000,
+   "The Macdermots of Ballycloran"
+  ],
+  "atrollope-is-he-popenjoy": [
+   29828,
+   "Is He Popenjoy?",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-marion-fay": [
+   30100,
+   "Marion Fay: A Novel"
+  ],
+  "atrollope-landleaguers": [
+   30606,
+   "The Landleaguers",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-lady-anna": [
+   31274,
+   "Lady Anna"
+  ],
+  "atrollope-ayalas-angel": [
+   33500,
+   "Ayala's Angel"
+  ],
+  "atrollope-rachel-ray": [
+   34000,
+   "Rachel Ray"
+  ],
+  "atrollope-travelling-sketches": [
+   44992,
+   "Travelling Sketches"
+  ],
+  "atrollope-lotta-schmidt-and-other-stories": [
+   54424,
+   "Lotta Schmidt, and Other Stories"
+  ],
+  "atrollope-mary-gresley-and-an-editors-tales": [
+   54783,
+   "Mary Gresley, and An Editor's Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-west-indies-and-the-spanish-main": [
+   55100,
+   "The West Indies and the Spanish Main"
+  ],
+  "atrollope-tales-of-all-countries": [
+   55147,
+   "Tales of All Countries"
+  ],
+  "atrollope-why-frau-frohmann-raised-her-prices-and-other-stor": [
+   55212,
+   "Why Frau Frohmann Raised Her Prices, and Other Stories"
+  ],
+  "atrollope-lord-palmerston": [
+   55648,
+   "Lord Palmerston"
+  ],
+  "atrollope-clergymen-of-the-church-of-england": [
+   55665,
+   "Clergymen of the Church of England"
+  ],
+  "atrollope-commentaries-of-c-sar": [
+   55926,
+   "The Commentaries of Cæsar"
+  ],
+  "atrollope-christmas-at-thompson-hall": [
+   58558,
+   "Christmas at Thompson Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "atrollope-south-africa": [
+   66342,
+   "South Africa; vol I."
+  ],
+  "atrollope-south-africa-vol-ii": [
+   66343,
+   "South Africa, vol. II."
+  ],
+  "atrollope-south-australia-and-western-australia": [
+   70385,
+   "South Australia and Western Australia"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58383": "PG 58383: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 3409: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 619: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "atrollope-hunting-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-prime-minister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-barchester-towers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-framley-parsonage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-last-chronicle-of-barset": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-doctor-thorne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-la-mere-bauche-from-tales-of-all-countries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-john-bull-on-the-guadalquivir-from-tales-from-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-oconors-of-castle-conor-county-mayo-from-tales-fro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-dukes-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-miss-sarah-jack-of-spanish-town-jamaica": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-courtship-of-susan-bell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-an-unprotected-female-at-the-pyramids": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-relics-of-general-chasse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-chateau-of-prince-polignac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-aaron-trow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-mrs-general-talboys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-parsons-daughter-of-oxney-colne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-george-walker-at-suez": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-mistletoe-bough": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-returning-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-a-ride-across-palestine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-house-of-heine-brothers-in-munich": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-man-who-kept-his-money-in-a-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-small-house-at-allington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-kellys-and-the-okellys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-belton-estate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-american-senator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-he-knew-he-was-right": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-golden-lion-of-granpere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-way-we-live-now": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-harry-heathcote-of-gangoil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-la-vend-e": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-castle-richmond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-an-autobiography-of-anthony-trollope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-eustace-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-three-clerks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-nina-balatka": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-life-of-cicero-volume-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-john-caldigate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-mr-scarboroughs-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-claverings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-an-eye-for-an-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-phineas-finn-the-irish-member": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-phineas-redux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-thackeray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-can-you-forgive-her": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-dr-wortles-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-kept-in-the-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-orley-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-miss-mackenzie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-cousin-henry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-an-old-mans-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-ralph-the-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-bertrams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-linda-tressel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-vicar-of-bullhampton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-fixed-period": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-struggles-of-brown-jones-and-robinson-by-one-of-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-sir-harry-hotspur-of-humblethwaite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-life-of-cicero-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-macdermots-of-ballycloran": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-is-he-popenjoy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-marion-fay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-landleaguers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-lady-anna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-ayalas-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-rachel-ray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-travelling-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-lotta-schmidt-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-mary-gresley-and-an-editors-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-west-indies-and-the-spanish-main": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-tales-of-all-countries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-why-frau-frohmann-raised-her-prices-and-other-stor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-lord-palmerston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-clergymen-of-the-church-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-commentaries-of-c-sar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-christmas-at-thompson-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-south-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-south-africa-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atrollope-south-australia-and-western-australia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anthony trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

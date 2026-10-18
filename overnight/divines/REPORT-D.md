@@ -1434,3 +1434,6 @@
 
 ## 2026-10-17 20:18 CDT — poe-works: done
 - poe-works: new shelf, 15 Gutenberg books, 10,750 units, 479 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — trollope-works: done
+- trollope-works: new shelf, 81 Gutenberg books, 168,715 units, 1547 ~2 ids; verify 0 mismatches, 0 rights flags.
