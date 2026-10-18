@@ -6180,3 +6180,23 @@ Slugs `neale-*`. Anglican hymn translator and historian of the Eastern Church.
 | The Symbolism of Churches (PG 43319): Durandus, translated by Neale and Webb | excluded | |
 | The Patriarchate of Antioch (1873): a posthumous fragment edited by George Williams | excluded | |
 | AMS Press reprints | excluded | |
+
+## Richard Meux Benson (round 28, my pick, 2026-10-18)
+
+Slugs `rmbenson-*`. Founder of the Cowley Fathers; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Redemption: some of the aspects of the work of Christ, a course of sermons (London: J. T. Hayes, 1861) | have-ocr | IA `redemptionacour00bensgoog` |
+| The Final Passover, vol. I: The Rejection (London: Longmans, Green, 1893) | have-ocr | IA `thefinalpassover01bensuoft` |
+| The Final Passover, vol. II: The Upper Chamber, part I (London: Longmans, Green, 1895) | have-ocr | IA `thefinalpassover02bensuoft` |
+| The Final Passover, vol. II: The Upper Chamber, part II (London: Longmans, Green, 1895) | have-ocr | IA `thefinalpassover00bensuoft` |
+| The Final Passover, vol. III: The Divine Exodus, part I (London: Longmans, Green, 1893) | have-ocr | IA `finalpassover03bensuoft` |
+| The Final Passover, vol. III: The Divine Exodus, part II (London: Longmans, Green, 1893) | have-ocr | IA `thefinalpasspt2casp03bensuoft` |
+| The Life beyond the Grave: meditations upon the Resurrection and Ascension (London: J. T. Hayes, 1885) | have-ocr | IA `lifebeyondgrave00bensgoog` |
+| Benedictus Dominus: a course of meditations for every day of the year (London: J. T. Hayes; no year on the title page) | have-ocr | IA `benedictusdominu00bensuoft` |
+| The Followers of the Lamb, new impression (London: Longmans, Green, 1905) | have-ocr | IA `bwb_C0-AKY-835` |
+| The Magnificat (1889), War-Songs of the Prince of Peace (1901), The Way of Holiness (1901) | alternate | not shelved |
+| Google copies of The Final Passover | alternate | not shelved |
+| 1932, 1934 and 1958 items | excluded | |
+| Louis F. Benson on CCEL; an 1828 Manual of Intercessory Prayer | excluded | |

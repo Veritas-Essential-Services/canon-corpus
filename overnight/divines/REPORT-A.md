@@ -1291,3 +1291,6 @@
 
 ## 2026-10-17 19:31 CDT — john-mason-neale done
 - `pipeline/john-mason-neale_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — richard-meux-benson done
+- `pipeline/richard-meux-benson_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
