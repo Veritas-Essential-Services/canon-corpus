@@ -9049,6 +9049,18 @@ Slugs `bernardine-*`. Built from title pages read for round 37.
 | Examples of San Bernardino, rendered into English by Ada Harrison (London: Gerald Howe, 1926) | have-ocr | IA `examplesofsanber0000adae` |
 | bwb_C0-ANN-935 (another copy of the 1920 Robins) | alternate | not shelved |
 | Lives by Thureau-Dangin, Howell, Allies and others | excluded | |
+
+## Jean Gerson (round 37, my pick, 2026-10-18)
+
+Slugs `gerson-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Snares of the Devil, tr. Beta (London and Derby: Thomas Richardson and Son, 1883) | have-ocr | IA `snaresdeviltrby00gersgoog` |
+| Practical Guide to Spiritual Prayer, literally translated by the Rev. H. Austin (London and Derby: Thomas Richardson and Son, 1884) | have-ocr | IA `PracticalGuideToSpiritualPrayer` |
+| A Treatise on Bringing Children to Jesus Christ, tr. W. Whitty (title page undated; catalogued Dublin: M. H. Gill & Son, 1899) | have-ocr | IA `treatiseonbringi00gers` |
+| CCEL gerson/snares (the same 1883 book); SnaresOfTheDevil (undated copy) | alternate | not shelved |
+| Carnahan's French text edition (1917); Connolly (1928) and Figgis, books about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

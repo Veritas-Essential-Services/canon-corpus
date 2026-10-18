@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:55 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:59 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -870,6 +870,7 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | Boniface | boniface-of-mainz_shelf.json | none | 1 (The English Correspondence of Saint Boniface, tr. Edward Kylie, The King's Classics (London: Chatto & Windus, 1911)) | none | Emerton, The Letters of Saint Boniface (1940); Lives of him by other hands |
 | Patrick | patrick-of-ireland_shelf.json | none | 4 (The Writings of St. Patrick, the Apostle of Ireland: a revised translation, by George Thomas Stokes and Charles H. H. Wright (London: James Nisbet; Dublin: Hodges, Figgis, 1887); A Translation of the Latin Writings of St. Patrick, by Newport J. D. White, Texts for Students No. 9 (London: SPCK, 1918); The Confession of Saint Patrick, translated from the original Latin by Archdeacon Hamilton (Dublin: John Charles O'Reilly, 1859); The Epistles and Hymn of Saint Patrick, with the Poem of Secundinus, translated by Thomas Olden (Dublin: Hodges, Foster, & Co., 1876)) | none | CCEL's Confession (a modern web translation with no print source); the Latin texts (Libri Sancti Patricii); O'Leary's Most Ancient Lives (PG 18482, a mixed volume, translator not named); Lives by Bury, Healy and Stokes |
 | Bernardine of Siena | bernardine-of-siena_shelf.json | none | 2 (Saint Bernardine of Siena: Sermons, selected and edited by Nazareno Orlandi, tr. Helen Josephine Robins (Siena: Tipografia Sociale, 1920); Examples of San Bernardino, rendered into English by Ada Harrison (London: Gerald Howe, 1926)) | none | Lives by Thureau-Dangin, Howell, Allies and others |
+| Jean Gerson | jean-gerson_shelf.json | none | 3 (The Snares of the Devil, tr. Beta (London and Derby: Thomas Richardson and Son, 1883); Practical Guide to Spiritual Prayer, literally translated by the Rev. H. Austin (London and Derby: Thomas Richardson and Son, 1884); A Treatise on Bringing Children to Jesus Christ, tr. W. Whitty (title page undated; catalogued Dublin: M. H. Gill & Son, 1899)) | none | Carnahan's French text edition (1917); Connolly (1928) and Figgis, books about him |
 
 ## Paused 2026-10-10 15:12 CDT
 
