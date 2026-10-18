@@ -1,0 +1,161 @@
+{
+ "_about": "Ian Maclaren's (John Watson) Scottish stories",
+ "_author": "Ian Maclaren",
+ "_name_words": [
+  "maclaren"
+ ],
+ "_surname": [
+  "ian maclaren"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "imaclaren-books-and-bookmen": [
+   3256,
+   "Books and Bookmen"
+  ],
+  "imaclaren-beside-the-bonnie-brier-bush": [
+   7179,
+   "Beside the Bonnie Brier Bush",
+   {
+    "contents_only": true
+   }
+  ],
+  "imaclaren-a-doctor-of-the-old-school-complete": [
+   9320,
+   "A Doctor of the Old School — Complete"
+  ],
+  "imaclaren-rabbi-saunderson": [
+   18063,
+   "Rabbi Saunderson",
+   {
+    "contents_only": true
+   }
+  ],
+  "imaclaren-kate-carnegie-and-those-ministers": [
+   20399,
+   "Kate Carnegie and Those Ministers",
+   {
+    "contents_only": true
+   }
+  ],
+  "imaclaren-graham-of-claverhouse": [
+   30022,
+   "Graham of Claverhouse"
+  ],
+  "imaclaren-young-barbarians": [
+   30089,
+   "Young Barbarians",
+   {
+    "contents_only": true
+   }
+  ],
+  "imaclaren-afterwards-and-other-stories": [
+   43192,
+   "Afterwards, and Other Stories"
+  ],
+  "imaclaren-days-of-auld-lang-syne": [
+   43726,
+   "The Days of Auld Lang Syne"
+  ],
+  "imaclaren-his-majesty-baby-and-some-common-people": [
+   43727,
+   "His Majesty Baby and Some Common People"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 9315, 9316, 9317, 9318, 9319: the complete edition of each is on the shelf instead."
+ },
+ "_checks": {
+  "imaclaren-books-and-bookmen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-beside-the-bonnie-brier-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-a-doctor-of-the-old-school-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-rabbi-saunderson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-kate-carnegie-and-those-ministers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-graham-of-claverhouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-young-barbarians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-afterwards-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-days-of-auld-lang-syne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "imaclaren-his-majesty-baby-and-some-common-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ian maclaren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

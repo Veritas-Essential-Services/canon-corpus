@@ -37670,6 +37670,24 @@ Shelf: `pipeline/theodore-dreiser_shelf.json` (2026-10-17; added at the coordina
 | An American tragedy, v. 2 | have | PG 75182, `tdreiser-an-american-tragedy-v-2` (2723 units) |
 | The Financier: A Novel | have | PG 1840, `tdreiser-financier` (2446 units) |
 
+## Ian Maclaren
+
+Shelf: `pipeline/ian-maclaren_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Books and Bookmen | have | PG 3256, `imaclaren-books-and-bookmen` (28 units) |
+| Beside the Bonnie Brier Bush | have | PG 7179, `imaclaren-beside-the-bonnie-brier-bush` (1316 units) |
+| A Doctor of the Old School — Complete | have | PG 9320, `imaclaren-a-doctor-of-the-old-school-complete` (2 units) |
+| Rabbi Saunderson | have | PG 18063, `imaclaren-rabbi-saunderson` (326 units) |
+| Kate Carnegie and Those Ministers | have | PG 20399, `imaclaren-kate-carnegie-and-those-ministers` (1408 units) |
+| Graham of Claverhouse | have | PG 30022, `imaclaren-graham-of-claverhouse` (508 units) |
+| Young Barbarians | have | PG 30089, `imaclaren-young-barbarians` (603 units) |
+| Afterwards, and Other Stories | have | PG 43192, `imaclaren-afterwards-and-other-stories` (1430 units) |
+| The Days of Auld Lang Syne | have | PG 43726, `imaclaren-days-of-auld-lang-syne` (1488 units) |
+| His Majesty Baby and Some Common People | have | PG 43727, `imaclaren-his-majesty-baby-and-some-common-people` (438 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 9315, 9316, 9317, 9318, 9319: the complete edition of each is on the shelf instead. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

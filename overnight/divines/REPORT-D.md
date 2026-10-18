@@ -1665,3 +1665,6 @@
 
 ## 2026-10-17 23:24 CDT — theodore-dreiser: done
 - theodore-dreiser: new shelf, 16 Gutenberg books, 40,110 units, 2523 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:48 CDT — ian-maclaren: done
+- ian-maclaren: new shelf, 10 Gutenberg books, 7,547 units, 252 ~2 ids; verify 0 mismatches, 0 rights flags.
