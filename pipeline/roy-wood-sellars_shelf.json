@@ -1,0 +1,63 @@
+{
+ "_about": "Roy Wood Sellars (1880-1973), critical realist and naturalist: The Next Step in Religion (New York: Macmillan, 1918), clean Gutenberg text; The Essentials of Philosophy (New York: Macmillan, 1917), raw IA OCR, clean 0.96; Evolutionary Naturalism (Chicago: Open Court, 1922), raw IA OCR, clean 0.93. US public domain. No uids minted.",
+ "_author": "Roy Wood Sellars",
+ "_name_words": [
+  "roy",
+  "wood",
+  "sellars"
+ ],
+ "_surname": [
+  "sellars"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sellars-next-step-in-religion-1918": [
+   31920,
+   "The Next Step in Religion (Macmillan, 1918)"
+  ]
+ },
+ "internet_archive": {
+  "sellars-essentials-of-philosophy-1917": [
+   "theessentialsofp00selluoft",
+   "The Essentials of Philosophy (Macmillan, 1917)"
+  ],
+  "sellars-evolutionary-naturalism-1922": [
+   "evolutionarynat01sellgoog",
+   "Evolutionary Naturalism (Open Court, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sellars-next-step-in-religion-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sellars",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sellars-essentials-of-philosophy-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sellars",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sellars-evolutionary-naturalism-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sellars",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

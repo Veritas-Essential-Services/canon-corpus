@@ -6397,6 +6397,9 @@ Shelf: `pipeline/roy-wood-sellars_shelf.json`. Roy Wood Sellars (1880-1973). Nex
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Next Step in Religion (Macmillan, 1918) |  | `sellars-next-step-in-religion-1918` | have (PG 31920) |
+| The Essentials of Philosophy (Macmillan, 1917) |  | `sellars-essentials-of-philosophy-1917` | have-raw (IA `theessentialsofp00selluoft`) |
+| Evolutionary Naturalism (Open Court, 1922) |  | `sellars-evolutionary-naturalism-1922` | have-raw (IA `evolutionarynat01sellgoog`) |
 
 Pending (wishlist): Critical Realism (1916)
 
