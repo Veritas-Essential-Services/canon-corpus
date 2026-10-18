@@ -1828,3 +1828,6 @@
 
 ## 2026-10-17 22:46 CDT — janet-erskine-stuart done
 - `pipeline/janet-erskine-stuart_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — christina-rossetti done
+- `pipeline/christina-rossetti_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for crossetti-seek-and-find (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -8801,6 +8801,20 @@ Slugs `jestuart-*`. Built from title pages read for round 36.
 | Highways and By-ways in the Spiritual Life, edited by M. Monahan, with a preface by Cardinal Bourne (London: Longmans, Green, 1923) | have-ocr | IA `highwaysbywaysin0000jane` |
 | Other impressions of The Education of Catholic Girls (one catalogued 2026 in error) | alternate | not shelved |
 | The Inward Life (1933); a French translation; a 1964 book | excluded | |
+
+## Christina Rossetti (round 36, my pick, 2026-10-18)
+
+Slugs `crossetti-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Seek and Find: A Double Series of Short Studies of the Benedicite (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, catalogued 1879) | have-ocr | IA `seekfinddoublese00rossrich` |
+| Called to be Saints: The Minor Festivals Devotionally Studied (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, first published 1881) | have-ocr | IA `CalledToBeSaintsThe` |
+| Letter and Spirit: Notes on the Commandments (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, catalogued 1883) | have-ocr | IA `letterspiritnote00ross` |
+| Time Flies: A Reading Diary (London: SPCK, 1885) | have-ocr | IA `rossettitimeflies` |
+| The Face of the Deep: A Devotional Commentary on the Apocalypse, second edition (London: SPCK; New York: Pott, Young / E. & J. B. Young, 1893) | have-ocr | IA `thefaceofthedeep00rossuoft` |
+| Other undated SPCK copies; Called to be Saints 'by the late Christina G. Rossetti' (1895); Time Flies (Boston: Roberts, 1886); The Face of the Deep third edition (about 1895) | alternate | not shelved |
+| Reflected Lights from The Face of the Deep (selections by W. M. L. Jay); Commonplace and Speaking Likenesses (fiction); all her verse | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

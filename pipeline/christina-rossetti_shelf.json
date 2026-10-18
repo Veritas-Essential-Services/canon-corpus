@@ -1,0 +1,112 @@
+{
+ "_about": "Public-domain Christina Rossetti (1830-1894) for the Word Hoard: her devotional prose only, all published by the SPCK: Seek and Find, studies of the Benedicite (1879), Called to be Saints (1881), Letter and Spirit, notes on the Commandments (1883), Time Flies, a reading diary (1885) and The Face of the Deep, her commentary on the Apocalypse (second edition, 1893), from Internet Archive scans. Her poems are not shelved here. Not Dante Gabriel Rossetti, whose shelf is rossetti. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rossetti"
+ ],
+ "_surname": [
+  "christina g. rossetti",
+  "christina rossetti",
+  "christina georgina rossetti"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crossetti-seek-and-find": [
+   "seekfinddoublese00rossrich",
+   "Seek and Find: A Double Series of Short Studies of the Benedicite (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, catalogued 1879)"
+  ],
+  "crossetti-called-to-be-saints": [
+   "CalledToBeSaintsThe",
+   "Called to be Saints: The Minor Festivals Devotionally Studied (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, first published 1881)"
+  ],
+  "crossetti-letter-and-spirit": [
+   "letterspiritnote00ross",
+   "Letter and Spirit: Notes on the Commandments (London: SPCK; New York: Pott, Young / E. & J. B. Young; title page undated, catalogued 1883)"
+  ],
+  "crossetti-time-flies": [
+   "rossettitimeflies",
+   "Time Flies: A Reading Diary (London: SPCK, 1885)"
+  ],
+  "crossetti-face-of-the-deep": [
+   "thefaceofthedeep00rossuoft",
+   "The Face of the Deep: A Devotional Commentary on the Apocalypse, second edition (London: SPCK; New York: Pott, Young / E. & J. B. Young, 1893)"
+  ]
+ },
+ "_alternates": {
+  "crossetti-copies": "Other undated SPCK copies; Called to be Saints 'by the late Christina G. Rossetti' (1895); Time Flies (Boston: Roberts, 1886); The Face of the Deep third edition (about 1895)"
+ },
+ "_excluded": {
+  "crossetti-other": "Reflected Lights from The Face of the Deep (selections by W. M. L. Jay); Commonplace and Speaking Likenesses (fiction); all her verse"
+ },
+ "_identity_checked": {
+  "crossetti-seek-and-find": {
+   "author": "title page read: 'CHRISTINA G. ROSSETTI' (OCR 'CHRISTINA a ROSSETTI')"
+  }
+ },
+ "_rights_checked": {
+  "crossetti-called-to-be-saints": "title page undated; 'by Christina G. Rossetti, author of Seek and Find', so printed in her lifetime (she died 1894), well before 1930"
+ },
+ "_pending": {
+  "crossetti-annus-domini": "Annus Domini (1874, prayers): no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "crossetti-seek-and-find": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "[1879]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "crossetti-called-to-be-saints": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page undated; 'by Christina G. Rossetti, author of Seek and Find', so printed in her lifetime (she died 1894), well before 1930"
+  },
+  "crossetti-letter-and-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crossetti-time-flies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crossetti-face-of-the-deep": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "christina g. rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
