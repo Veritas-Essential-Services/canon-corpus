@@ -6982,3 +6982,23 @@ Slugs `schurer-*`. A History of the Jewish People in the Time of Jesus Christ, C
 | Macpherson's Index volume (1891): historyofjewish03sch, compiled by him, not by Schürer | alternate | not shelved |
 | The 1891 Scribner issue; the 1898 Clark reissue; other copies | alternate | not shelved |
 | isbn_9781140420491 (modern reprint); dv2historyofjewi03sch (20th-century reprint); German texts tagged English | excluded | |
+
+## Johannes Jacobus van Oosterzee (round 30, my pick, 2026-10-18)
+
+Slugs `oosterzee-*`. Utrecht dogmatician: Dogmatics, NT Theology, Practical Theology and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Dogmatics, vol. I, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874) | have-ocr | IA `christiandogmati01oost` |
+| Christian Dogmatics, vol. II, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874) | have-ocr | IA `christiandogmati02oost` |
+| The Theology of the New Testament, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXX) | have-ocr | IA `theologynewtest01oostgoog` |
+| Practical Theology: a Manual for Theological Students, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXVIII) | have-ocr | IA `practicaltheolog00oost` |
+| The Image of Christ as Presented in Scripture, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXIV) | have-ocr | IA `imageofchristasp0000oost` |
+| The Year of Salvation, vol. I, tr. C. Spence (Edinburgh: T. & T. Clark; title page undated, catalogued 1875) | have-ocr | IA `MN40285ucmf_3` |
+| Moses: a Biblical Study (Edinburgh: T. and T. Clark, 1876) | have-ocr | IA `mosesbiblicalstu00oost` |
+| John's Gospel: Apologetical Lectures, tr. J. F. Hurst (Edinburgh: T. and T. Clark, MDCCCLXIX) | have-ocr | IA `johnsgospelapolo00oost` |
+| Theological and Homiletical Commentary on the Gospel of St Luke, vol. I, tr. Sophia Taylor, ed. J. P. Lange (Edinburgh: T. & T. Clark, MDCCCLXII) | have-ocr | IA `theologicalhomil01oost` |
+| George E. Day's separate translation of the NT Theology (New Haven: Judd & White, 1871): theologyofnewtes00oostrich | alternate | not shelved |
+| Dodd & Mead NT Theology (1871); 1878 Image of Christ; Clark's 1872 Lange Luke | alternate | not shelved |
+| The Epistle General of James (1867): written with J. P. Lange, a joint work | excluded | |
+| bwb_S0-DFL-230_2: a 1974 reprint | excluded | |
