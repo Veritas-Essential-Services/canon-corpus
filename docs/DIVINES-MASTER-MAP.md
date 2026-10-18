@@ -29948,6 +29948,27 @@ Shelf: `pipeline/fielding_shelf.json` (2026-10-17; added at the coordinator's re
 | pg-58249 | excluded | PG 58249: Gutenberg's index of the author's works, not a book. |
 | split-parts | excluded | Gutenberg's split-part files PG 6095, 6096, 6097: the complete edition of each is on the shelf instead. |
 
+## Samuel Richardson
+
+Shelf: `pipeline/samuel-richardson_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Pamela, or Virtue Rewarded | have | PG 6124, `srichardson-pamela-or-virtue-rewarded` (2797 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 1 | have | PG 9296, `srichardson-clarissa-harlowe` (1706 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 2 | have | PG 9798, `srichardson-clarissa-harlowe-9798` (1896 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 3 | have | PG 9881, `srichardson-clarissa-harlowe-9881` (1852 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 4 | have | PG 10462, `srichardson-clarissa-harlowe-10462` (1870 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 5 | have | PG 10799, `srichardson-clarissa-harlowe-10799` (2250 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 6 | have | PG 11364, `srichardson-clarissa-harlowe-11364` (2244 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 7 | have | PG 11889, `srichardson-clarissa-harlowe-11889` (2155 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 8 | have | PG 12180, `srichardson-clarissa-harlowe-12180` (1990 units) |
+| Clarissa Harlowe; or the history of a young lady — Volume 9 | have | PG 12398, `srichardson-clarissa-harlowe-12398` (1708 units) |
+| Pamela, Volume II | have | PG 12958, `srichardson-pamela-volume-ii` (2815 units) |
+| The History of Sir Charles Grandison, Volume 4 (of 7) | have | PG 13884, `srichardson-history-of-sir-charles-grandison-volume-4-of-7` (2196 units) |
+| Samuel Richardson's Introduction to Pamela | have | PG 24860, `srichardson-samuel-richardsons-introduction-to-pamela` (276 units) |
+| Clarissa | have | PG 29964, `srichardson-clarissa` (389 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
