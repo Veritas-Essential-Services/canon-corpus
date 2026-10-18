@@ -7892,6 +7892,10 @@ Shelf: `pipeline/boyd-h-bode_shelf.json`. Four books, 1910-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Outline of Logic (Holt, 1910) |  | `bode-outline-of-logic-1910` | have-raw (IA `outlineoflogic00bodeuoft`) |
+| Fundamentals of Education (Macmillan, 1921; printing of 1922) |  | `bode-fundamentals-of-education-1921` | have-raw (IA `fundamentalsofed00bodeuoft`) |
+| Modern Educational Theories (Macmillan, 1927) |  | `bode-modern-educational-theories-1927` | have-raw (IA `moderneducationa0000boyd_u6c4`) |
+| Conflicting Psychologies of Learning (Heath, 1929) |  | `bode-conflicting-psychologies-of-learning-1929` | have-raw (IA `conflictingpsych00bode`) |
 
 ## Charles M. Bakewell (ancient philosophy source book)
 
