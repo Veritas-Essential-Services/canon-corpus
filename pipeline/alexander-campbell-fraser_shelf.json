@@ -1,0 +1,35 @@
+{
+ "_about": "Alexander Campbell Fraser (1819-1914), editor of Berkeley and Locke: Philosophy of Theism, Gifford Lectures at Edinburgh 1894-96, 2nd ed. amended (Edinburgh: Blackwood, 1899), raw OCR of a Google scan. US public domain. No uids minted.",
+ "_author": "Alexander Campbell Fraser",
+ "_name_words": [
+  "alexander",
+  "campbell",
+  "fraser"
+ ],
+ "_surname": [
+  "fraser",
+  "campbell fraser"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fraser-philosophy-of-theism-1899": [
+   "philosophytheis09frasgoog",
+   "Philosophy of Theism, 2nd ed. amended (Edinburgh: Blackwood, 1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fraser-philosophy-of-theism-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fraser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
