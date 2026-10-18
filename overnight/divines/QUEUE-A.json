@@ -4252,10 +4252,12 @@
     },
     {
       "id": "john-tulloch",
-      "status": "queued",
+      "status": "done",
       "scope": "round 32: American Social Gospel and New Theology writers (Gladden, Rauschenbusch, Josiah Strong, W. N. Clarke, McGiffert, G. A. Gordon, Munger), biblical geographers and Scottish scholars (Edward Robinson, George Adam Smith, W. Robertson Smith, Tulloch), Hudson Taylor and Oswald Chambers, and Catholic writers in English (Leo XIII, Wilfrid Ward, Mercier, Poulain, Pourrat, Loisy, Joseph Rickaby). Channing and Theodore Parker were researched but dropped: lane B shelved them first.",
       "added": "2026-10-18T02:05Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T21:18:20-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "j-hudson-taylor",

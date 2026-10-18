@@ -7566,3 +7566,23 @@ Slugs `wrsmith-*`. Built from title pages read for round 32.
 | Lectures on the Religion of the Semites, new edition revised throughout by the author (London: A. & C. Black, 1894) | have-ocr | IA `b2488635x` |
 | Answer to the Form of Libel, fourth edition (Edinburgh: David Douglas, 1878) | have-ocr | IA `answertoformofli00smit` |
 | The 1881 and 1882 Appleton New York issues; the 1903 Kinship ed. Stanley A. Cook; Lectures and Essays (1912, edited after his death) | alternate | not shelved |
+
+## John Tulloch (round 32, my pick, 2026-10-18)
+
+Slugs `tulloch-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Theism: the Witness of Reason and Nature to an All-Wise and Beneficent Creator (Edinburgh and London: William Blackwood and Sons, MDCCCLV) | have-ocr | IA `theismwitnessofr00tull` |
+| Leaders of the Reformation (Boston: Gould and Lincoln, 1859) | have-ocr | IA `cu31924029249129` |
+| English Puritanism and its Leaders (Edinburgh and London: William Blackwood and Sons, MDCCCLXI) | have-ocr | IA `englishpuritanis00tulluoft` |
+| The Christ of the Gospels and the Christ of Modern Criticism (London and Cambridge: Macmillan, 1864) | have-ocr | IA `christofgospelsc00tull_0` |
+| Rational Theology and Christian Philosophy in England in the Seventeenth Century, vol. I, Liberal Churchmen (Edinburgh and London: William Blackwood and Sons, MDCCCLXXII) | have-ocr | IA `rationaltheology01tulluoft` |
+| Rational Theology and Christian Philosophy in England in the Seventeenth Century, vol. II, The Cambridge Platonists (Edinburgh and London: William Blackwood and Sons, MDCCCLXXII) | have-ocr | IA `rationaltheology02tull` |
+| The Christian Doctrine of Sin (Edinburgh and London: William Blackwood and Sons, MDCCCLXXVI) | have-ocr | IA `thechristiandoct00tulluoft` |
+| Some Facts of Religion and of Life (Edinburgh and London: William Blackwood and Sons, MDCCCLXXVII) | have-ocr | IA `somefactsofrelig00tull` |
+| Pascal (Edinburgh and London: William Blackwood and Sons, MDCCCLXXVIII) | have-ocr | IA `tullochspascal00tulluoft` |
+| Modern Theories in Philosophy and Religion (Edinburgh and London: William Blackwood and Sons, MDCCCLXXXIV) | have-ocr | IA `moderntheories00tulluoft` |
+| Movements of Religious Thought in Britain during the Nineteenth Century (London: Longmans, Green, 1885) | have-ocr | IA `a611321900tulluoft` |
+| CCEL tulloch/luther (1883), theism, sin, somefacts and religion; PG 26726 (Pascal, 1882 reprint) and PG 26035 (Religion and Theology) | alternate | not shelved |
+| The 1874 second edition of Rational Theology vol. II; Harper's 1886 Movements | alternate | not shelved |
