@@ -1,0 +1,47 @@
+{
+ "_about": "F. W. J. von Schelling (1775-1854) in English: The Philosophy of Art, an oration on the relation between the plastic arts and nature, tr. A. Johnson (London: John Chapman, 1845; the OCR garbles the year as M.D.CCC.IILV), raw IA OCR. Not Felix E. Schelling the Elizabethan scholar. US public domain. No uids minted.",
+ "_author": "F. W. J. von Schelling",
+ "_name_words": [
+  "schelling",
+  "friedrich",
+  "wilhelm",
+  "joseph"
+ ],
+ "_surname": [
+  "schelling"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schelling-johnson-philosophy-of-art-1845": [
+   "philosophyartan00schegoog",
+   "The Philosophy of Art: an oration on the relation between the plastic arts and nature (London: John Chapman, 1845)",
+   "tr. A. Johnson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "schelling-johnson-philosophy-of-art-1845": "Johnson"
+ },
+ "_checks": {
+  "schelling-johnson-philosophy-of-art-1845": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Johnson",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "schelling-johnson-philosophy-of-art-1845": {
+   "author": "The OCR reads the author as 'F. W. J. TON SCHELLIKG'; the title page and preface are Schelling's 1807 Munich oration Ueber das Verhaeltniss der bildenden Kuenste zu der Natur, in A. Johnson's translation (Chapman, 1845)."
+  }
+ }
+}

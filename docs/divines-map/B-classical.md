@@ -5370,6 +5370,7 @@ Shelf: `pipeline/schelling_shelf.json`. The Philosophy of Art (Johnson, 1845).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophy of Art: an oration on the relation between the plastic arts and nature (London: John Chapman, 1845) | A. Johnson | `schelling-johnson-philosophy-of-art-1845` | have-raw (IA `philosophyartan00schegoog`) |
 
 Pending (wishlist): Of University Studies, tr. E. S. Morgan (1877)
 
