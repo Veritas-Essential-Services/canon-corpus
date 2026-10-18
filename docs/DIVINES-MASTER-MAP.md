@@ -8738,6 +8738,23 @@ Slugs `atrobertson-*`. Built from title pages read for round 36.
 | Practical and Social Aspects of Christianity: The Wisdom of James (New York: George H. Doran; copyright 1915) | have-ocr | IA `practicalsociala00robeuoft` |
 | Another Grammar copy; the Doran Harmony (1922); Broadus's Harmony with his notes (1893) and revised by him (1903); A Short Grammar (copyright 1908, a later printing) | alternate | not shelved |
 | Word Pictures in the New Testament (CCEL, 1930-33); Studies in the Epistle of James as revised by Peacock (PG 48411, 1959) | excluded | |
+
+## Lyman Abbott (round 36, my pick, 2026-10-18)
+
+Slugs `labbott-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| An Illustrated Commentary on the Gospel according to St. John (New York: A. S. Barnes, 1879) | have-clean | Gutenberg 75543 |
+| The Epistle of Paul the Apostle to the Romans (New York and Chicago: A. S. Barnes; copyright 1888) | have-ocr | IA `epistleofpaulapo00abbo` |
+| The Evolution of Christianity (Boston and New York: Houghton, Mifflin, 1892) | have-ocr | IA `cu31924029192214` |
+| Christianity and Social Problems (Boston and New York: Houghton, Mifflin, 1896) | have-ocr | IA `christianityand00abbogoog` |
+| The Theology of an Evolutionist (Boston and New York: Houghton, Mifflin, 1897) | have-ocr | IA `cu31924029300584` |
+| The Life and Letters of Paul the Apostle (Boston and New York: Houghton, Mifflin, 1898) | have-ocr | IA `lifelettersofpau00abboiala` |
+| The Life and Literature of the Ancient Hebrews (Boston and New York: Houghton, Mifflin, 1901) | have-ocr | IA `lifeliteratureof00abbo_0` |
+| What Christianity Means to Me (New York: Macmillan, 1921) | have-ocr | IA `whatchristianity00abbo` |
+| Later printings of the Theology and Christianity and Social Problems; his novel Laicus (PG 4954, 1872) | alternate | not shelved |
+| Anthologies he only edited or annotated (PG 7167, PG 16786) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

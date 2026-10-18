@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain Lyman Abbott (1835-1922), Congregationalist minister, editor of The Outlook and voice of liberal evolutionary theology, for the Word Hoard: his commentaries on John (1879) and Romans (1888), The Evolution of Christianity (1892), Christianity and Social Problems (1896), The Theology of an Evolutionist (1897), The Life and Letters of Paul the Apostle (1898), The Life and Literature of the Ancient Hebrews (1901) and What Christianity Means to Me (1921), from Internet Archive scans and Project Gutenberg. Not Jacob Abbott or the other Abbotts. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "abbott"
+ ],
+ "_surname": [
+  "lyman abbott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "labbott-john": [
+   75543,
+   "An Illustrated Commentary on the Gospel according to St. John (New York: A. S. Barnes, 1879)"
+  ]
+ },
+ "internet_archive": {
+  "labbott-romans": [
+   "epistleofpaulapo00abbo",
+   "The Epistle of Paul the Apostle to the Romans (New York and Chicago: A. S. Barnes; copyright 1888)"
+  ],
+  "labbott-evolution-christianity": [
+   "cu31924029192214",
+   "The Evolution of Christianity (Boston and New York: Houghton, Mifflin, 1892)"
+  ],
+  "labbott-christianity-social": [
+   "christianityand00abbogoog",
+   "Christianity and Social Problems (Boston and New York: Houghton, Mifflin, 1896)"
+  ],
+  "labbott-theology-evolutionist": [
+   "cu31924029300584",
+   "The Theology of an Evolutionist (Boston and New York: Houghton, Mifflin, 1897)"
+  ],
+  "labbott-life-letters-paul": [
+   "lifelettersofpau00abboiala",
+   "The Life and Letters of Paul the Apostle (Boston and New York: Houghton, Mifflin, 1898)"
+  ],
+  "labbott-ancient-hebrews": [
+   "lifeliteratureof00abbo_0",
+   "The Life and Literature of the Ancient Hebrews (Boston and New York: Houghton, Mifflin, 1901)"
+  ],
+  "labbott-christianity-means": [
+   "whatchristianity00abbo",
+   "What Christianity Means to Me (New York: Macmillan, 1921)"
+  ]
+ },
+ "_alternates": {
+  "labbott-copies": "Later printings of the Theology and Christianity and Social Problems; his novel Laicus (PG 4954, 1872)"
+ },
+ "_excluded": {
+  "labbott-other": "Anthologies he only edited or annotated (PG 7167, PG 16786)"
+ },
+ "_identity_checked": {
+  "labbott-ancient-hebrews": {
+   "author": "title page read: 'LYMAN ABBOTT' (OCR 'LYMA]^ ABBOTT')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "labbott-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labbott-romans": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labbott-evolution-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labbott-christianity-social": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labbott-theology-evolutionist": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labbott-life-letters-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "[c1898]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labbott-ancient-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labbott-christianity-means": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyman abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

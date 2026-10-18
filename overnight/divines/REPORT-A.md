@@ -1813,3 +1813,6 @@
 
 ## 2026-10-17 22:45 CDT — a-t-robertson done
 - `pipeline/a-t-robertson_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — lyman-abbott done
+- `pipeline/lyman-abbott_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for labbott-ancient-hebrews (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
