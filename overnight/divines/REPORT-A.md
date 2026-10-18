@@ -1615,3 +1615,6 @@
 
 ## 2026-10-17 21:37 CDT — john-gilmary-shea done
 - `pipeline/john-gilmary-shea_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — vincent-mcnabb done
+- `pipeline/vincent-mcnabb_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.

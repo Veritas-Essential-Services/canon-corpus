@@ -7760,6 +7760,24 @@ Slugs `shea-*`. Built from title pages read for round 33.
 | History of the Catholic Missions among the Indian Tribes of the United States, 1529-1854 (New York: Edward Dunigan, 1855) | have-ocr | IA `historyofthecath00sheauoft` |
 | Other copies of the four volumes, some catalogued 1886 in error; the 1855 Missions in other copies | alternate | not shelved |
 | Undated Kenedy reissues of the Missions catalogued 1854 | excluded | |
+
+## Vincent McNabb (round 33, my pick, 2026-10-18)
+
+Slugs `mcnabb-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Oxford Conferences on Prayer (London: Kegan Paul, Trench, Trübner, 1903) | have-ocr | IA `oxfordconference00mcna` |
+| Where Believers May Doubt (London: Burns & Oates; New York: Benziger, 1903) | have-ocr | IA `believersmaydoub00mcnauoft` |
+| Oxford Conferences on Faith (London: Kegan Paul, Trench, Trübner, 1905) | have-ocr | IA `oxfordconference00mcnauoft` |
+| Europe's Ewe-Lamb and Other Essays on the Great War (London: R. & T. Washbourne, 1916) | have-ocr | IA `europesewelambot00mcnauoft` |
+| From a Friar's Cell (New York: P. J. Kenedy; title page undated, imprimatur 1923) | have-ocr | IA `fromfriarscell00mcnauoft` |
+| The Church and the Land (New York: Benziger Brothers, 1926) | have-ocr | IA `churchland0000vinc` |
+| The Catholic Church and Philosophy (London: Burns Oates and Washbourne, 1927) | have-ocr | IA `catholicchurchph0000mcna` |
+| The New Testament Witness to Saint Peter (London: Sheed & Ward; title page undated, imprimatur 1928) | have-ocr | IA `newtestamentwitn0000frvi` |
+| The Blackwell 1923 Friar's Cell; the 1928 Macmillan Church and Philosophy; his edition of the Vatican Council decrees (1907) | alternate | not shelved |
+| Frontiers of Faith and Reason (1936) | excluded | |
+| Books by other hands he introduced | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
