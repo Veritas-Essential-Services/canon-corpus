@@ -7086,6 +7086,7 @@ Shelf: `pipeline/h-w-b-joseph_shelf.json`. One book, 1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Introduction to Logic (Clarendon, 1916) |  | `joseph-introduction-to-logic-1916` | have-raw (IA `introductiontolo00joseuoft`) |
 
 ## Henry Maudsley (physiological psychology)
 
