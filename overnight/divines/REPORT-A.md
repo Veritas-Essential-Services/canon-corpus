@@ -1255,3 +1255,6 @@
 
 ## 2026-10-17 19:14 CDT — philaret-of-moscow done
 - `pipeline/philaret-of-moscow_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:14 CDT — john-of-kronstadt done
+- `pipeline/john-of-kronstadt_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

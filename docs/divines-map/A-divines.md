@@ -5990,3 +5990,15 @@ Slugs `philaret-*`. Metropolitan of Moscow; his Longer Catechism inside Blackmor
 | The Comparison of the Differences between the Eastern and Western Churches, in Pinkerton's own Russia (1833): inside another author's book | alternate | not shelved |
 | The Catechism of the Orthodox Catholic Eastern Church (San Francisco, 1901): names neither Philaret nor a translator | alternate | not shelved |
 | Moschakis's catechism (1894) and a Russian-language edition | excluded | |
+
+## John of Kronstadt (round 27, my pick, 2026-10-17)
+
+Slugs `kronstadt-*`. Russian archpriest; My Life in Christ, tr. E. E. Goulaeff (1897).
+
+| Work | Status | Where |
+|---|---|---|
+| My Life in Christ, extracts from the diary of John Iliytch Sergieff (Father John) of Cronstadt, tr. E. E. Goulaeff (London: Cassell, 1897) | have-ocr | IA `mylifeinchristex00serguoft` |
+| CCEL kronstadt/christlife: the Goulaeff text keyed from the 1963 Jordanville reprint | alternate | not shelved |
+| Two other copies of the 1897 Cassell edition | alternate | not shelved |
+| Alexander Whyte's Father John of the Greek Church (1898) | excluded | |
+| The 1963 Jordanville reprint and later editions | excluded | |
