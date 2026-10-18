@@ -1,6 +1,7 @@
 {
- "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted.",
+ "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568).",
  "_name_words": [
+  "algernon langton",
   "archer m. huntington",
   "aubrey bell",
   "aubrey f. g. bell",
@@ -13,16 +14,22 @@
   "john c. branner",
   "john garrett underhill",
   "john ormsby",
+  "joseph jacobs",
+  "major algernon langton",
   "mary mann",
   "mrs. horace mann",
   "ormsby",
   "rollo ogden",
+  "saldkeld",
   "salomon de la selva",
   "salomón de la selva",
+  "t. north",
+  "t. saldkeld",
   "thomas walsh"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
  "_surname": [
+  "algernon langton",
   "archer m. huntington",
   "aubrey bell",
   "aubrey f. g. bell",
@@ -35,12 +42,17 @@
   "john c. branner",
   "john garrett underhill",
   "john ormsby",
+  "joseph jacobs",
+  "major algernon langton",
   "mary mann",
   "mrs. horace mann",
   "ormsby",
   "rollo ogden",
+  "saldkeld",
   "salomon de la selva",
   "salomón de la selva",
+  "t. north",
+  "t. saldkeld",
   "thomas walsh"
  ],
  "_surname_by_slug": {
@@ -98,6 +110,24 @@
   "hsp-gil-vicente-lyrics-bell": [
    "aubrey f. g. bell",
    "aubrey bell"
+  ],
+  "hsp-espinel-marcos-de-obregon-1": [
+   "algernon langton",
+   "major algernon langton"
+  ],
+  "hsp-espinel-marcos-de-obregon-2": [
+   "algernon langton",
+   "major algernon langton"
+  ],
+  "hsp-gracian-compleat-gentleman": [
+   "t. saldkeld",
+   "saldkeld"
+  ],
+  "hsp-gracian-art-of-worldly-wisdom": [
+   "joseph jacobs"
+  ],
+  "hsp-guevara-dial-of-princes": [
+   "t. north"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -159,6 +189,27 @@
   "hsp-gil-vicente-lyrics-bell": [
    "cu31924027725542",
    "Lyrics of Gil Vicente (1914)"
+  ],
+  "hsp-espinel-marcos-de-obregon-1": [
+   "historyoflifeofs01espiuoft",
+   "The History of the Life of the Squire Marcos de Obregon, vol. I (1816)"
+  ],
+  "hsp-espinel-marcos-de-obregon-2": [
+   "historyoflifeofs02espiuoft",
+   "The History of the Life of the Squire Marcos de Obregon, vol. II (1816)"
+  ],
+  "hsp-gracian-compleat-gentleman": [
+   "compleatgentlema00gracuoft",
+   "The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto) (1730)"
+  ],
+  "hsp-gracian-art-of-worldly-wisdom": [
+   "the-art-of-worldly-wisdom",
+   "The Art of Worldly Wisdom (Oráculo manual) (1904 printing)",
+   "The art of worldly wisdom_djvu.txt"
+  ],
+  "hsp-guevara-dial-of-princes": [
+   "dialofprincescom00guev",
+   "The Dial of Princes (1568)"
   ]
  },
  "titles": {
@@ -276,6 +327,47 @@
    "translator": "Aubrey F. G. Bell",
    "scan_edition": "Basil Blackwell, Oxford, 1921 (second edition); Cornell University Library scan",
    "note": "The Portuguese and Spanish lyrics first, then Bell's English versions."
+  },
+  "hispanic-classics-espinel-marcos-de-obregon-1": {
+   "source": "hsp-espinel-marcos-de-obregon-1",
+   "of": "Vicente Espinel",
+   "work": "The History of the Life of the Squire Marcos de Obregon, vol. I",
+   "translated": 1816,
+   "translator": "Major Algernon Langton",
+   "scan_edition": "John Booth, London 1816; University of Toronto scan"
+  },
+  "hispanic-classics-espinel-marcos-de-obregon-2": {
+   "source": "hsp-espinel-marcos-de-obregon-2",
+   "of": "Vicente Espinel",
+   "work": "The History of the Life of the Squire Marcos de Obregon, vol. II",
+   "translated": 1816,
+   "translator": "Major Algernon Langton",
+   "scan_edition": "John Booth, London 1816; University of Toronto scan"
+  },
+  "hispanic-classics-gracian-compleat-gentleman": {
+   "source": "hsp-gracian-compleat-gentleman",
+   "of": "Baltasar Gracián",
+   "work": "The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto)",
+   "translated": 1730,
+   "translator": "T. Saldkeld",
+   "scan_edition": "T. Osborne, London MDCCXXX; University of Toronto scan"
+  },
+  "hispanic-classics-gracian-art-of-worldly-wisdom": {
+   "source": "hsp-gracian-art-of-worldly-wisdom",
+   "of": "Baltasar Gracián",
+   "work": "The Art of Worldly Wisdom (Oráculo manual)",
+   "translated": 1892,
+   "translator": "Joseph Jacobs",
+   "scan_edition": "Macmillan, Golden Treasury Series, London 1904 (first edition 1892, reprinted 1904); archive.org scan",
+   "note": "The scan carries a library 'Preservation Services' stamp; no photocopy or replacement-volume notice was found in its text."
+  },
+  "hispanic-classics-guevara-dial-of-princes": {
+   "source": "hsp-guevara-dial-of-princes",
+   "of": "Antonio de Guevara",
+   "work": "The Dial of Princes (Relox de príncipes), with The Favored Courtier",
+   "translated": 1568,
+   "translator": "Sir Thomas North",
+   "scan_edition": "Richard Tottill and Thomas Marshe, London 1568 (North's revised second edition; first 1557); Queen's University (Kingston) scan"
   }
  },
  "_pending": {
@@ -284,7 +376,9 @@
  "_excluded": {
   "cradle-song-1931-printing": "The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead.",
   "heinemann-pepita-jimenez-1891": "Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page.",
-  "dona-luz-1975": "donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano)."
+  "dona-luz-1975": "donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano).",
+  "north-dial-selections-1919": "K. N. Colvile's Fruit of the Dial of Princes (Philip Allan, 1919) is a selection from North's translation, which is already here whole.",
+  "berners-golden-boke-1916": "The 1916 reprint of Lord Berners's Golden Boke of Marcus Aurelius was left out for now; a period scan of an early printing would be preferred."
  },
  "_checks": {
   "hsp-benavente-plays-1": {
@@ -438,6 +532,61 @@
    "identity": "identity_override",
    "ia_rights": "ok: published 1921",
    "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-espinel-marcos-de-obregon-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon langton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-espinel-marcos-de-obregon-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "algernon langton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1730",
+   "ia_date": "1730",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-gracian-art-of-worldly-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-guevara-dial-of-princes": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. north",
+   "identity": "ok",
+   "ia_rights": "ok: published 1568",
+   "ia_date": "1568",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -603,6 +752,49 @@
     1919
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "hsp-espinel-marcos-de-obregon-1": {
+   "ia": "historyoflifeofs01espiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1618,
+    1816
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-espinel-marcos-de-obregon-2": {
+   "ia": "historyoflifeofs02espiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1618,
+    1816
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "ia": "compleatgentlema00gracuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gracian-art-of-worldly-wisdom": {
+   "ia": "the-art-of-worldly-wisdom",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1873,
+    1877,
+    1891,
+    1892,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-guevara-dial-of-princes": {
+   "ia": "dialofprincescom00guev",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
@@ -612,6 +804,9 @@
   },
   "hsp-gil-vicente-lyrics-bell": {
    "author": "The title page OCR reads 'Lyrics of Qil Vicente By AVBRET F. G. 'BELL Second Edition OXFORD : BASIL BLACKWELL, BROAD STREET MCMXXI' for Aubrey F. G. Bell. Checked by eye 2026-10-17."
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "author": "The title page OCR reads 'And now Tranflated into EngUJb By T. S A L D K E L D.' (letter-spaced) under 'Written originally in Spani/h, by BALTASAR GRATIAN', imprint 'LONDON: Printed for T. Osborne, in Grafi-Inn MDCCXXX.' Checked by eye 2026-10-17."
   }
  }
 }

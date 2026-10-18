@@ -649,6 +649,10 @@
    "h. t. ryde",
    "henry t. ryde",
    "ryde"
+  ],
+  "snf-krasinski-undivine-comedy": [
+   "cook",
+   "martha walker cook"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -999,6 +1003,10 @@
   "snf-lamartine-history-of-the-girondists-vol-3": [
    "historygirondist03lama",
    "History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III (1848)"
+  ],
+  "snf-krasinski-undivine-comedy": [
+   "undivinecomedyot00kras",
+   "The Undivine Comedy and Other Poems (1875)"
   ]
  },
  "titles": {
@@ -1695,6 +1703,14 @@
    "translated": 1848,
    "translator": "H. T. Ryde",
    "scan_edition": "Henry G. Bohn, London 1848 (the OCR reads '134S'); archive.org scan"
+  },
+  "singles-nonfiction-2-krasinski-undivine-comedy": {
+   "source": "snf-krasinski-undivine-comedy",
+   "of": "Zygmunt Krasiński",
+   "work": "The Undivine Comedy, and Other Poems, with Klaczko's Polish Poetry in the Nineteenth Century and a short biography",
+   "translated": 1875,
+   "translator": "Martha Walker Cook",
+   "scan_edition": "J. B. Lippincott & Co., Philadelphia 1875; archive.org scan"
   }
  },
  "_pending": {},
@@ -2481,6 +2497,17 @@
    "ia_date": "1848",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "snf-krasinski-undivine-comedy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martha walker cook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2839,11 +2866,6 @@
    "pg_copyrighted_marker": false,
    "pg_translator": "William Jesse"
   },
-  "snf-28921": {
-   "pg": 28921,
-   "pg_copyrighted_marker": false,
-   "pg_translator": "J. V. Cunningham"
-  },
   "snf-29065": {
    "pg": 29065,
    "pg_copyrighted_marker": false,
@@ -2929,6 +2951,24 @@
     1832
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "snf-krasinski-undivine-comedy": {
+   "ia": "undivinecomedyot00kras",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1780,
+    1794,
+    1845,
+    1855,
+    1863,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "snf-28921": {
+   "pg": 28921,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. V. Cunningham"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

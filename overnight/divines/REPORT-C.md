@@ -296,3 +296,5 @@
 - 2026-10-17T22:37-05:00: round 109: pinkerton +3, seltzer +1, singles-fiction-3 +2 (Garshin; Voynich identity override). Coxwell's Kriloff to _pending (undated scan). --verify --record 0 mismatched.
 
 - 2026-10-17T22:44-05:00: round 110: new loew (4); bowring +1, singles-plays-poetry-2 +1, singles-fiction-3 +2. Identity overrides: Bowring Petofi (OCR), Ashes vol 1 (no title page). --verify --record 0 mismatched.
+
+- 2026-10-17T22:51-05:00: round 111: hispanic-classics +5 (Espinel x2, Gracian x2, Guevara), singles-nonfiction-2 +1 (Krasinski). Identity override: Saldkeld (letter-spaced OCR). --verify --record 0 mismatched.

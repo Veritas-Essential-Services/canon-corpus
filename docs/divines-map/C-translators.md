@@ -6113,7 +6113,7 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: history, travel, ideas and music from the first stretch of the list (De Orbe Novo, Morga's Philippines, Lobo's Abyssinia by Samuel Johnson, the Tudor Machiavelli, Lamartine's Girondists, Arago, Wagner On Conducting)
 
 Shelf: `pipeline/singles-nonfiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-nonfiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-nonfiction-2`.
-Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
+Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Round 111 added Martha Walker Cook's Krasiński, The Undivine Comedy (Lippincott 1875). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6203,6 +6203,7 @@ Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vo
 | `singles-nonfiction-2-yoritomo-tashi-common-sense-how-to-exercise-it` | Yoritomo-Tashi | Common sense, how to exercise it | Lily Kendall Beers Berthelot de la Boileverie | (see the Gutenberg header) | have | PG 13072 |
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-2` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II | H. T. Ryde | 1849 | have-raw | IA `historyofgirondi0002lama_z7v9` |
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-3` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III | H. T. Ryde | 1848 | have-raw | IA `historygirondist03lama` |
+| `singles-nonfiction-2-krasinski-undivine-comedy` | Zygmunt Krasiński | The Undivine Comedy, and Other Poems, with Klaczko's Polish Poetry in the Nineteenth Century and a short biography | Martha Walker Cook | 1875 | have-raw | IA `undivinecomedyot00kras` |
 | — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
 | — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
 
@@ -6859,7 +6860,7 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 ## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
 
 Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
-Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103. Not converted to unit-id JSON; **no uids minted**.
+Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6877,10 +6878,17 @@ Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil
 | `hispanic-classics-poem-of-the-cid-huntington` | The Poem of the Cid (Cantar de mio Cid) | Poem of the Cid, vol. II: Translation | Archer M. Huntington | 1901 | have-raw | IA `poemofcid02huntuoft` |
 | `hispanic-classics-herculano-inquisition-branner` | Alexandre Herculano | History of the Origin and Establishment of the Inquisition in Portugal | John C. Branner | 1926 | have-raw | IA `historyoftheorig012210mbp` |
 | `hispanic-classics-gil-vicente-lyrics-bell` | Gil Vicente | Lyrics of Gil Vicente | Aubrey F. G. Bell | 1921 (second edition) | have-raw | IA `cu31924027725542` |
+| `hispanic-classics-espinel-marcos-de-obregon-1` | Vicente Espinel | The History of the Life of the Squire Marcos de Obregon, vol. I | Major Algernon Langton | 1816 | have-raw | IA `historyoflifeofs01espiuoft` |
+| `hispanic-classics-espinel-marcos-de-obregon-2` | Vicente Espinel | The History of the Life of the Squire Marcos de Obregon, vol. II | Major Algernon Langton | 1816 | have-raw | IA `historyoflifeofs02espiuoft` |
+| `hispanic-classics-gracian-compleat-gentleman` | Baltasar Gracián | The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto) | T. Saldkeld | 1730 | have-raw | IA `compleatgentlema00gracuoft` |
+| `hispanic-classics-gracian-art-of-worldly-wisdom` | Baltasar Gracián | The Art of Worldly Wisdom (Oráculo manual) | Joseph Jacobs | 1892 | have-raw | IA `the-art-of-worldly-wisdom` |
+| `hispanic-classics-guevara-dial-of-princes` | Antonio de Guevara | The Dial of Princes (Relox de príncipes), with The Favored Courtier | Sir Thomas North | 1568 | have-raw | IA `dialofprincescom00guev` |
 | `hispanic-classics-mendes-pinto-voyages-cogan` | — | Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
 | — | — | dona-luz-1975: donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano). | — | — | excluded | — |
+| — | — | north-dial-selections-1919: K. N. Colvile's Fruit of the Dial of Princes (Philip Allan, 1919) is a selection from North's translation, which is already here whole. | — | — | excluded | — |
+| — | — | berners-golden-boke-1916: The 1916 reprint of Lord Berners's Golden Boke of Marcus Aurelius was left out for now; a period scan of an early printing would be preferred. | — | — | excluded | — |
 
 ## Series shelf: Kuno Francke's The German Classics of the Nineteenth and Twentieth Centuries (German Publication Society, 1913-1914), all 20 volumes, Goethe to Hauptmann, Thomas Mann, Schnitzler and Wedekind
 

@@ -3848,6 +3848,14 @@
       "finished": "2026-10-17T22:44-05:00",
       "scope": "NEW SHELF loew + GAP-FILL bowring, singles-plays-poetry-2, singles-fiction-3 (round 110, lane C's choice; Adam may veto); PD printings before 1931 only; no minting",
       "notes": "+8 titles (loew 4, bowring +1, singles-plays-poetry-2 +1, singles-fiction-3 +2); ids checked across all branches. See DIGEST-C round 110. No uids minted."
+    },
+    {
+      "id": "gapfill-r111-spanish",
+      "status": "done",
+      "started": "2026-10-17T22:49-05:00",
+      "finished": "2026-10-17T22:51-05:00",
+      "scope": "GAP-FILL (round 111, lane C's choice; Adam may veto) -- hispanic-classics +5, singles-nonfiction-2 +1; PD printings before 1931 only; no minting",
+      "notes": "6 titles; ids checked across all branches. See DIGEST-C round 111. No uids minted."
     }
   ]
 }
