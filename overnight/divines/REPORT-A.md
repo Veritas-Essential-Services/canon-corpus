@@ -1912,3 +1912,6 @@
 
 ## 2026-10-17 23:01 CDT — jean-joseph-surin done
 - `pipeline/jean-joseph-surin_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:04 CDT — jean-baptiste-de-la-salle done
+- `pipeline/jean-baptiste-de-la-salle_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

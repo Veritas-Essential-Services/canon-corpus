@@ -9171,6 +9171,17 @@ Slugs `surin-*`. Built from title pages read for round 37.
 | The Foundations of the Spiritual Life, drawn from the book of the Imitation of Jesus Christ, translated from the French and adapted to the use of the English Church (London: James Burns, 1844) | have-ocr | IA `FoundationsOfTheSpiritualLife` |
 | Spiritual Letters of Father Surin, S.J., tr. Sister M. Christopher, O.S.F., preface by Francis Goldie (London and Leamington: Art and Book Company; New York: Benziger; title page undated, catalogued 1892) | have-ocr | IA `spiritualletters0000revh` |
 | foundationsofspi00suri (the same 1844 edition); Parker's 1847 edition | alternate | not shelved |
+
+## Jean-Baptiste de La Salle (round 37, my pick, 2026-10-18)
+
+Slugs `lasalle-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A New Treatise on the Duty of a Christian towards God, an enlarged and improved version, tr. Mrs. J. Sadlier, first American from the eighteenth Paris edition (New York and Montreal: D. & J. Sadlier; copyright 1850) | have-ocr | IA `newtreatiseondut00lasa` |
+| A New Treatise of the Duties of a Christian towards God, translated from the French by the Christian Brothers (West Chester, N.Y.: New York Catholic Protectory, 1872) | have-ocr | IA `newtreatiseofdut00lasa` |
+| The second American Sadlier edition (anewtreatiseonth00lasauoft); the Montreal Christian Brothers edition (copyright 1869); Kenedy 1910 (text would not load) | alternate | not shelved |
+| Christian Politeness (1904, by M. M. Gerend); Extracts from his spiritual writings (a compilation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
