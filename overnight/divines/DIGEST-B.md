@@ -250,3 +250,4 @@
 - 20:40 round bf: Guizot, Volney, Fitzjames Stephen, Kidd, Seeley, Soloviev, Joubert (8 items). For lane C: the Broadway Library Joubert (IA bwb_S0-EKA-341) belongs on broadway-library.
 - 20:41 round bg: four wishlist items (Soloviev's Justification of the Good, Kidd, Story's Conflict of Laws, Seeley's Political Science).
 - 20:48 round bh: British idealists (Henry Jones, John Watson of Kingston, A. E. Taylor, Joachim, Muirhead) plus Prichard and Carritt, 26 items. Held: Taylor's Plato (no year).
+- 20:51 round bi: Henry and Brooks Adams, Cooley, Lester Ward, Giddings, Woodbridge, Sellars (16 items).

@@ -1180,3 +1180,13 @@
 - e-f-carritt: The Theory of Beauty
 - aristotle: Taylor's Metaphysics A (1907)
 - Held: Taylor's Plato (no printed year)
+
+## 2026-10-17 20:51 CDT — Round 2026-10-17bi: American sociology and philosophy of history
+- henry-adams: Mont-Saint-Michel and Chartres, The Education
+- brooks-adams: 3 books
+- charles-horton-cooley: 3 books
+- lester-frank-ward: 3 books (raw IA)
+- franklin-henry-giddings: Principles of Sociology
+- frederick-woodbridge: The Purpose of History
+- roy-wood-sellars: 3 books
+- Not taken: PG 26302 (second copy of Brooks Adams's Theory of Social Revolutions); Ward's Dynamic Sociology (no complete dated copy)
