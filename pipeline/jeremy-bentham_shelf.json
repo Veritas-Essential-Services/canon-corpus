@@ -1,5 +1,5 @@
 {
- "_about": "Jeremy Bentham (1748-1832), raw IA OCR: An Introduction to the Principles of Morals and Legislation (Oxford: Clarendon Press, 1907), a reprint of the 1823 edition (first printed 1780, published 1789). Added in round ac: A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891). US public domain. No uids minted.",
+ "_about": "Jeremy Bentham (1748-1832), raw IA OCR: An Introduction to the Principles of Morals and Legislation (Oxford: Clarendon Press, 1907), a reprint of the 1823 edition (first printed 1780, published 1789). Added in round ac: A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891). Added in round aq: the Rationale of Judicial Evidence (London: Hunt and Clarke, MDCCCXXVII, 5 vols.), edited from Bentham's manuscripts by the young John Stuart Mill, whose name is not on the title page; raw OCR of Google scans, vol. II the weakest at 0.79. US public domain. No uids minted.",
  "_author": "Jeremy Bentham",
  "_name_words": [
   "jeremy",
@@ -18,13 +18,33 @@
   "bentham-fragment-on-government-1891": [
    "afragmentongover00bentuoft",
    "A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891)"
+  ],
+  "bentham-rationale-of-evidence-1827-v1": [
+   "rationalejudici06bentgoog",
+   "Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. I (London: Hunt and Clarke, 1827)"
+  ],
+  "bentham-rationale-of-evidence-1827-v2": [
+   "rationalejudici00bentgoog",
+   "Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. II (London: Hunt and Clarke, 1827)"
+  ],
+  "bentham-rationale-of-evidence-1827-v3": [
+   "rationalejudici01bentgoog",
+   "Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. III (London: Hunt and Clarke, 1827)"
+  ],
+  "bentham-rationale-of-evidence-1827-v4": [
+   "rationalejudici04bentgoog",
+   "Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. IV (London: Hunt and Clarke, 1827)"
+  ],
+  "bentham-rationale-of-evidence-1827-v5": [
+   "rationalejudici02bentgoog",
+   "Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. V (London: Hunt and Clarke, 1827)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "bentham-principles-of-morals-1907": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bentham",
    "identity": "ok",
@@ -35,12 +55,67 @@
   },
   "bentham-fragment-on-government-1891": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "bentham",
    "identity": "ok",
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-rationale-of-evidence-1827-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-rationale-of-evidence-1827-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-rationale-of-evidence-1827-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-rationale-of-evidence-1827-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-rationale-of-evidence-1827-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

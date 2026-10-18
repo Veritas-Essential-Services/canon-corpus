@@ -3881,6 +3881,11 @@ Shelf: `pipeline/jeremy-bentham_shelf.json`. Principles of Morals and Legislatio
 |---|---|---|---|
 | An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907) |  | `bentham-principles-of-morals-1907` | have-raw (IA `anintroductiont08bentgoog`) |
 | A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891) |  | `bentham-fragment-on-government-1891` | have-raw (IA `afragmentongover00bentuoft`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. I (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v1` | have-raw (IA `rationalejudici06bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. II (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v2` | have-raw (IA `rationalejudici00bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. III (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v3` | have-raw (IA `rationalejudici01bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. IV (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v4` | have-raw (IA `rationalejudici04bentgoog`) |
+| Rationale of Judicial Evidence, specially applied to English practice, from the manuscripts of Jeremy Bentham [edited by John Stuart Mill], vol. V (London: Hunt and Clarke, 1827) |  | `bentham-rationale-of-evidence-1827-v5` | have-raw (IA `rationalejudici02bentgoog`) |
 
 ## T. H. Green
 
