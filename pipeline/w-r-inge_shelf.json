@@ -1,0 +1,302 @@
+{
+ "_about": "Public-domain William Ralph Inge (1860-1954, Dean of St Paul's) for the Word Hoard: The Victorian Age (1922) from Project Gutenberg and 17 books printed before 1930 from Internet Archive scans, among them Christian Mysticism (Bampton Lectures, 1899), Studies of English Mystics (1906), Personal Idealism and Mysticism (1907), The Philosophy of Plotinus (2 vols, 1918), the two series of Outspoken Essays (1919, 1922) and The Platonic Tradition in English Religious Thought (1926). Written in English; his later books are not here. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "inge"
+ ],
+ "_surname": [
+  "william ralph inge",
+  "w. r. inge",
+  "inge",
+  "dean inge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "inge-victorian-age": [
+   "36072",
+   "The Victorian Age, the Rede Lecture 1922 (Cambridge University Press, 1922)"
+  ]
+ },
+ "internet_archive": {
+  "inge-christian-mysticism": [
+   "christianmystici0000inge_l0q4",
+   "Christian Mysticism, the Bampton Lectures 1899 (London: Methuen, 1899)"
+  ],
+  "inge-society-in-rome": [
+   "societyinromeun00ingegoog",
+   "Society in Rome under the Caesars (London: John Murray, 1888)"
+  ],
+  "inge-faith-and-knowledge": [
+   "faithknowledgese00inge",
+   "Faith and Knowledge: Sermons (Edinburgh: T. & T. Clark, 1904)"
+  ],
+  "inge-truth-falsehood-religion": [
+   "truthfalsehoodi00inge",
+   "Truth and Falsehood in Religion (London: John Murray, 1906)"
+  ],
+  "inge-studies-english-mystics": [
+   "studiesenglish00ingeuoft",
+   "Studies of English Mystics, St Margaret's Lectures 1905 (London: John Murray, 1906)"
+  ],
+  "inge-personal-idealism-mysticism": [
+   "personalidealis00ingegoog",
+   "Personal Idealism and Mysticism, the Paddock Lectures 1906 (New York: Longmans, Green, 1907)"
+  ],
+  "inge-all-saints-sermons": [
+   "allsaintssermons0000inge",
+   "All Saints' Sermons 1905-1907 (London: Macmillan, 1907)"
+  ],
+  "inge-faith-and-its-psychology": [
+   "faithitspsycholo00inge",
+   "Faith and its Psychology (New York: Scribner, 1910)"
+  ],
+  "inge-types-christian-saintliness": [
+   "TypesOfChristianSaintliness",
+   "Types of Christian Saintliness (London: Longmans, Green, 1915)"
+  ],
+  "inge-philosophy-plotinus-1": [
+   "philosophyofplot01inge",
+   "The Philosophy of Plotinus, the Gifford Lectures 1917-18, vol. I (London: Longmans, Green, 1918)"
+  ],
+  "inge-philosophy-plotinus-2": [
+   "in.ernet.dli.2015.533523",
+   "The Philosophy of Plotinus, vol. II (London: Longmans, Green, 1918)",
+   "2015.533523.philosophy-of_djvu.txt"
+  ],
+  "inge-outspoken-essays-1": [
+   "outspokenessays00inge",
+   "Outspoken Essays (London: Longmans, Green, 1919)"
+  ],
+  "inge-outspoken-essays-2": [
+   "outspokenessayss00ingeuoft",
+   "Outspoken Essays, second series (London: Longmans, Green, 1922)"
+  ],
+  "inge-idea-of-progress": [
+   "ideaofprogress00ingeuoft",
+   "The Idea of Progress, the Romanes Lecture (Oxford: Clarendon Press, 1920)"
+  ],
+  "inge-personal-religion": [
+   "personalreligion012406mbp",
+   "Personal Religion and the Life of Devotion, second impression (London: Longmans, 1924)"
+  ],
+  "inge-platonic-tradition": [
+   "platonictraditio00inge_0",
+   "The Platonic Tradition in English Religious Thought, the Hulsean Lectures (London: Longmans, 1926)"
+  ],
+  "inge-lay-thoughts": [
+   "laythoughtsofdea0000inge_e9d8",
+   "Lay Thoughts of a Dean (New York: G. P. Putnam's Sons, 1926)"
+  ]
+ },
+ "_alternates": {
+  "inge-ccel": "CCEL inge/mysticism (PG 14596; a post-1911 reprint of Christian Mysticism) and inge/outspoken (PG 15249; fifth impression 1920, with a contradictory print-source note)",
+  "inge-copies": "Other copies of Christian Mysticism (1899, 1918), Outspoken Essays (1919-1920), Plotinus; The Church in the World and England (not fully read)"
+ },
+ "_excluded": {
+  "inge-anthologies": "Light, Life, and Love (selections from the German mystics), Contentio Veritatis and other multi-author volumes",
+  "inge-other": "Wit and Wisdom of Dean Inge (compiled by Marchant); his school editions of Latin and Greek authors"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "inge-later": "His books printed from 1930 on: not shelved"
+ },
+ "_translators": {},
+ "_checks": {
+  "inge-victorian-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "inge-christian-mysticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-society-in-rome": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-faith-and-knowledge": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. r. inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-truth-falsehood-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-studies-english-mystics": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-personal-idealism-mysticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-all-saints-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-faith-and-its-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-types-christian-saintliness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-philosophy-plotinus-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-philosophy-plotinus-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-outspoken-essays-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-outspoken-essays-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-idea-of-progress": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. r. inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "inge-personal-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. r. inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-platonic-tradition": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "inge-lay-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william ralph inge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

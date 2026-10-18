@@ -1228,3 +1228,6 @@
 
 ## 2026-10-17 19:13 CDT — j-r-illingworth done
 - `pipeline/j-r-illingworth_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for illingworth-college-sermons, illingworth-personality (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — w-r-inge done
+- `pipeline/w-r-inge_shelf.json`: 0 CCEL, 1 PG, 17 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -5836,6 +5836,35 @@ Slugs `illingworth-*`. Lux Mundi philosophical theologian; written in English.
 | Personality (1895 reprint with clean OCR, 1896), Divine Immanence (New York, 1898), Reason and Revelation (1903) | alternate | not shelved |
 | The Life and Work of John Richardson Illingworth (1917), edited by his wife | excluded | |
 | Sursum Corda (Frere and A. L. Illingworth) and other Illingworths | excluded | |
+
+## W. R. Inge (round 27, my pick, 2026-10-17)
+
+Slugs `inge-*`. Dean of St Paul's, writer on mysticism and Plotinus; every printing before 1930.
+
+| Work | Status | Where |
+|---|---|---|
+| The Victorian Age, the Rede Lecture 1922 (Cambridge University Press, 1922) | have-clean | Gutenberg 36072 |
+| Christian Mysticism, the Bampton Lectures 1899 (London: Methuen, 1899) | have-ocr | IA `christianmystici0000inge_l0q4` |
+| Society in Rome under the Caesars (London: John Murray, 1888) | have-ocr | IA `societyinromeun00ingegoog` |
+| Faith and Knowledge: Sermons (Edinburgh: T. & T. Clark, 1904) | have-ocr | IA `faithknowledgese00inge` |
+| Truth and Falsehood in Religion (London: John Murray, 1906) | have-ocr | IA `truthfalsehoodi00inge` |
+| Studies of English Mystics, St Margaret's Lectures 1905 (London: John Murray, 1906) | have-ocr | IA `studiesenglish00ingeuoft` |
+| Personal Idealism and Mysticism, the Paddock Lectures 1906 (New York: Longmans, Green, 1907) | have-ocr | IA `personalidealis00ingegoog` |
+| All Saints' Sermons 1905-1907 (London: Macmillan, 1907) | have-ocr | IA `allsaintssermons0000inge` |
+| Faith and its Psychology (New York: Scribner, 1910) | have-ocr | IA `faithitspsycholo00inge` |
+| Types of Christian Saintliness (London: Longmans, Green, 1915) | have-ocr | IA `TypesOfChristianSaintliness` |
+| The Philosophy of Plotinus, the Gifford Lectures 1917-18, vol. I (London: Longmans, Green, 1918) | have-ocr | IA `philosophyofplot01inge` |
+| The Philosophy of Plotinus, vol. II (London: Longmans, Green, 1918) | have-ocr | IA `in.ernet.dli.2015.533523` |
+| Outspoken Essays (London: Longmans, Green, 1919) | have-ocr | IA `outspokenessays00inge` |
+| Outspoken Essays, second series (London: Longmans, Green, 1922) | have-ocr | IA `outspokenessayss00ingeuoft` |
+| The Idea of Progress, the Romanes Lecture (Oxford: Clarendon Press, 1920) | have-ocr | IA `ideaofprogress00ingeuoft` |
+| Personal Religion and the Life of Devotion, second impression (London: Longmans, 1924) | have-ocr | IA `personalreligion012406mbp` |
+| The Platonic Tradition in English Religious Thought, the Hulsean Lectures (London: Longmans, 1926) | have-ocr | IA `platonictraditio00inge_0` |
+| Lay Thoughts of a Dean (New York: G. P. Putnam's Sons, 1926) | have-ocr | IA `laythoughtsofdea0000inge_e9d8` |
+| CCEL inge/mysticism (PG 14596; a post-1911 reprint of Christian Mysticism) and inge/outspoken (PG 15249; fifth impression 1920, with a contradictory print-source note) | alternate | not shelved |
+| Other copies of Christian Mysticism (1899, 1918), Outspoken Essays (1919-1920), Plotinus; The Church in the World and England (not fully read) | alternate | not shelved |
+| Light, Life, and Love (selections from the German mystics), Contentio Veritatis and other multi-author volumes | excluded | |
+| Wit and Wisdom of Dean Inge (compiled by Marchant); his school editions of Latin and Greek authors | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
