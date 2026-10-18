@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain Carl Ullmann (1796-1865, Heidelberg theologian) in English for the Word Hoard: Gregory of Nazianzum, tr. G. V. Cox (1851), Reformers before the Reformation, tr. Robert Menzies (2 vols, 1855), The Sinlessness of Jesus (1858, R. C. Lundin Brown's translation) and The Essence of Christianity, tr. J. Bleasdell (1860), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ullmann"
+ ],
+ "_surname": [
+  "ullmann",
+  "c. ullmann",
+  "carl ullmann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ullmann-gregory-nazianzum": [
+   "gregoryofnazianz00ullm",
+   "Gregory of Nazianzum, tr. G. V. Cox (London: John W. Parker, MDCCCLI)"
+  ],
+  "ullmann-reformers-1": [
+   "india.history.resource.52718",
+   "Reformers before the Reformation, vol. I, tr. Robert Menzies (Edinburgh: T. & T. Clark, 1855)",
+   "52718_djvu.txt"
+  ],
+  "ullmann-reformers-2": [
+   "india.history.resource.52719",
+   "Reformers before the Reformation, vol. II, tr. Robert Menzies (Edinburgh: T. & T. Clark, MDCCCLV)",
+   "52719_djvu.txt"
+  ],
+  "ullmann-sinlessness-of-jesus": [
+   "sinlessnessofjes00ullm",
+   "The Sinlessness of Jesus: an Evidence for Christianity, translated from the sixth German edition (Edinburgh: T. & T. Clark, MDCCCLVIII)"
+  ],
+  "ullmann-essence-christianity": [
+   "foreducatedlait00ullmgoog",
+   "The Essence of Christianity, tr. J. Bleasdell (London: Hatchard, MDCCCLX)"
+  ]
+ },
+ "_alternates": {
+  "ullmann-ccel": "CCEL ullmann/sinlessness: Sophia Taylor's 1870 translation, with no stated print source in its metadata",
+  "ullmann-copies": "Reformers third edition (1863); Sinlessness (1870, tr. Taylor)"
+ },
+ "_excluded": {
+  "ullmann-other": "Bonnechose's Reformers before the Reformation (another author); German originals"
+ },
+ "_rights_checked": {
+  "ullmann-reformers-1": "title page read: date OCR'd 'MpCCCcLyY' (1855); 'The translation by the Rev. Robert Menzies'",
+  "ullmann-sinlessness-of-jesus": "title page read: translator not named; the preface is signed R. C. Lundin Brown, May 1858"
+ },
+ "_pending": {},
+ "_translators": {
+  "ullmann-gregory-nazianzum": "cox",
+  "ullmann-reformers-1": "menzies",
+  "ullmann-reformers-2": "menzies",
+  "ullmann-essence-christianity": "bleasdell"
+ },
+ "_checks": {
+  "ullmann-gregory-nazianzum": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullmann",
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ullmann-reformers-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullmann",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: date OCR'd 'MpCCCcLyY' (1855); 'The translation by the Rev. Robert Menzies'"
+  },
+  "ullmann-reformers-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullmann",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ullmann-sinlessness-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the preface is signed R. C. Lundin Brown, May 1858"
+  },
+  "ullmann-essence-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ullmann",
+   "translator_claimed": "bleasdell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

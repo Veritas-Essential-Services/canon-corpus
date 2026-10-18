@@ -6527,3 +6527,18 @@ Slugs `martensen-*`. Danish bishop: Christian Dogmatics and Ethics in Clark's En
 | Jacob Boehme: his Life and Teaching, or Studies in Theosophy, tr. T. Rhys Evans (London: Hodder and Stoughton, MDCCCLXXXV) | have-ocr | IA `cu31924029355686` |
 | Dogmatics (other 1866 copies); General Part (1888, 1891); Individual Ethics fourth edition (1891); Boehme (another 1885 copy) | alternate | not shelved |
 | 1949 Boehme reprints; the German Meister Eckart (PG 77203) | excluded | |
+
+## Carl Ullmann (round 29, my pick, 2026-10-18)
+
+Slugs `ullmann-*`. Reformers before the Reformation and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Gregory of Nazianzum, tr. G. V. Cox (London: John W. Parker, MDCCCLI) | have-ocr | IA `gregoryofnazianz00ullm` |
+| Reformers before the Reformation, vol. I, tr. Robert Menzies (Edinburgh: T. & T. Clark, 1855) | have-ocr | IA `india.history.resource.52718` |
+| Reformers before the Reformation, vol. II, tr. Robert Menzies (Edinburgh: T. & T. Clark, MDCCCLV) | have-ocr | IA `india.history.resource.52719` |
+| The Sinlessness of Jesus: an Evidence for Christianity, translated from the sixth German edition (Edinburgh: T. & T. Clark, MDCCCLVIII) | have-ocr | IA `sinlessnessofjes00ullm` |
+| The Essence of Christianity, tr. J. Bleasdell (London: Hatchard, MDCCCLX) | have-ocr | IA `foreducatedlait00ullmgoog` |
+| CCEL ullmann/sinlessness: Sophia Taylor's 1870 translation, with no stated print source in its metadata | alternate | not shelved |
+| Reformers third edition (1863); Sinlessness (1870, tr. Taylor) | alternate | not shelved |
+| Bonnechose's Reformers before the Reformation (another author); German originals | excluded | |
