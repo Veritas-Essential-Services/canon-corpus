@@ -1542,3 +1542,6 @@
 
 ## 2026-10-17 21:41 CDT — thomas-nelson-page: done
 - thomas-nelson-page: new shelf, 27 Gutenberg books, 20,093 units, 207 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:41 CDT — florence-marryat: done
+- florence-marryat: new shelf, 27 Gutenberg books, 25,727 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.

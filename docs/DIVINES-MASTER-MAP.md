@@ -33171,6 +33171,40 @@ Shelf: `pipeline/thomas-nelson-page_shelf.json` (2026-10-17; added at the coordi
 | The negro: the southerner's problem | have | PG 70834, `tnpage-negro` (891 units) |
 | Among the camps | have | PG 75553, `tnpage-among-the-camps` (692 units) |
 
+## Florence Marryat
+
+Shelf: `pipeline/florence-marryat_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| There is No Death | have | PG 39212, `fmarryat-there-is-no-death` (612 units) |
+| The blood of the vampire | have | PG 68277, `fmarryat-blood-of-the-vampire` (1969 units) |
+| The Hampstead mystery: a novel. Volume 2 (of 3) | have | PG 69217, `fmarryat-hampstead-mystery` (686 units) |
+| The Hampstead mystery: a novel. Volume 1 (of 3) | have | PG 69286, `fmarryat-hampstead-mystery-69286` (760 units) |
+| The Hampstead mystery: a novel. Volume 3 (of 3) | have | PG 71035, `fmarryat-hampstead-mystery-71035` (1043 units) |
+| A moment of madness, and other stories (vol. 1 of 3) | have | PG 72574, `fmarryat-a-moment-of-madness-and-other-stories-vol-1-of-3` (1142 units) |
+| A moment of madness, and other stories (vol. 2 of 3) | have | PG 72575, `fmarryat-a-moment-of-madness-and-other-stories-vol-2-of-3` (911 units) |
+| A moment of madness, and other stories (vol. 3 of 3) | have | PG 72576, `fmarryat-a-moment-of-madness-and-other-stories-vol-3-of-3` (742 units) |
+| A bankrupt heart, Vol. 1 (of 3) | have | PG 73972, `fmarryat-a-bankrupt-heart-vol-1-of-3` (628 units) |
+| A bankrupt heart, Vol. 2 (of 3) | have | PG 73973, `fmarryat-a-bankrupt-heart-vol-2-of-3` (664 units) |
+| A bankrupt heart, Vol. 3 (of 3) | have | PG 73974, `fmarryat-a-bankrupt-heart-vol-3-of-3` (1111 units) |
+| A crown of shame, volume 1 (of 3) | have | PG 75274, `fmarryat-a-crown-of-shame-volume-1-of-3` (676 units) |
+| A crown of shame, volume 2 (of 3) | have | PG 75275, `fmarryat-a-crown-of-shame-volume-2-of-3` (698 units) |
+| A crown of shame, volume 3 (of 3) | have | PG 75276, `fmarryat-a-crown-of-shame-volume-3-of-3` (684 units) |
+| Driven to bay, Vol. 1 (of 3) | have | PG 75726, `fmarryat-driven-to-bay-vol-1-of-3` (808 units) |
+| Driven to bay, Vol. 2 (of 3) | have | PG 75727, `fmarryat-driven-to-bay-vol-2-of-3` (950 units) |
+| Driven to bay, Vol. 3 (of 3) | have | PG 75728, `fmarryat-driven-to-bay-vol-3-of-3` (905 units) |
+| The strange transfiguration of Hannah Stubbs | have | PG 76579, `fmarryat-strange-transfiguration-of-hannah-stubbs` (1748 units) |
+| A broken blossom,  vol. 2 of 3 | have | PG 76780, `fmarryat-a-broken-blossom-vol-2-of-3` (806 units) |
+| A broken blossom,  vol. 3 of 3 | have | PG 76781, `fmarryat-a-broken-blossom-vol-3-of-3` (1033 units) |
+| The ghost of Charlotte Cray, and other stories | have | PG 76950, `fmarryat-ghost-of-charlotte-cray-and-other-stories` (1164 units) |
+| How they loved him, Vol. 1 (of 3) | have | PG 78031, `fmarryat-how-they-loved-him-vol-1-of-3` (1147 units) |
+| How they loved him, Vol. 2 (of 3) | have | PG 78111, `fmarryat-how-they-loved-him-vol-2-of-3` (1029 units) |
+| A broken blossom vol. 1 of 3 | have | PG 78292, `fmarryat-a-broken-blossom-vol-1-of-3` (696 units) |
+| A fatal silence, vol. 1 (of 3) | have | PG 78503, `fmarryat-a-fatal-silence-vol-1-of-3` (933 units) |
+| A fatal silence, vol. 2 (of 3) | have | PG 78596, `fmarryat-a-fatal-silence-vol-2-of-3` (853 units) |
+| A fatal silence, vol. 3 (of 3) | have | PG 78598, `fmarryat-a-fatal-silence-vol-3-of-3` (1329 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
