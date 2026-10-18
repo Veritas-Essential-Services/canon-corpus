@@ -1,0 +1,64 @@
+{
+ "_about": "Francis Macdonald Cornford (1874-1943), Cambridge ritualist and historian of Greek thought. Raw IA OCR: Thucydides Mythistoricus (London: Edward Arnold, 1907; a 1965 microfilm-xerography reprint scan was rejected for this one); From Religion to Philosophy, a study in the origins of Western speculation (Arnold, 1912); The Origin of Attic Comedy (Arnold, 1914). Published before 1930. US public domain. No uids minted.",
+ "_author": "F. M. Cornford",
+ "_name_words": [
+  "francis",
+  "macdonald",
+  "cornford"
+ ],
+ "_surname": [
+  "cornford"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cornford-thucydides-mythistoricus-1907": [
+   "in.ernet.dli.2015.45448",
+   "Thucydides Mythistoricus (Arnold, 1907)"
+  ],
+  "cornford-from-religion-to-philosophy-1912": [
+   "india.history.resource.117546",
+   "From Religion to Philosophy (Arnold, 1912)"
+  ],
+  "cornford-origin-of-attic-comedy-1914": [
+   "cu31924022693117",
+   "The Origin of Attic Comedy (Arnold, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cornford-thucydides-mythistoricus-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cornford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cornford-from-religion-to-philosophy-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cornford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cornford-origin-of-attic-comedy-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cornford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
