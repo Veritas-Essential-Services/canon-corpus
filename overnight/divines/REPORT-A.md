@@ -1336,3 +1336,6 @@
 
 ## 2026-10-17 19:56 CDT — constant-fouard done
 - `pipeline/constant-fouard_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — jean-jacques-olier done
+- `pipeline/jean-jacques-olier_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

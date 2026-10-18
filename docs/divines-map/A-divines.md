@@ -6402,3 +6402,13 @@ Slugs `fouard-*`. The Beginnings of the Church series in English.
 | Saint John and the Close of the Apostolic Age, authorised translation (New York: Longmans, Green, 1905) | have-ocr | IA `saintjohnandclo00fouagoog` |
 | Later Longmans issues of each (1903-1920) | alternate | not shelved |
 | 1953-1954 and post-1929 reprints | excluded | |
+
+## Jean-Jacques Olier (round 29, my pick, 2026-10-18)
+
+Slugs `olier-*`. Founder of Saint-Sulpice: his Catechism of the Interior Life.
+
+| Work | Status | Where |
+|---|---|---|
+| Catechism of an Interior Life, translated from the French by M. E. K. (Baltimore: Murphy, 1852) | have-ocr | IA `catechismofanint00olieuoft` |
+| Thompson's Life of M. Olier | excluded | |
+| Agreda's Admirable Life of St Joseph, which only prefaces Olier's Sentiments | excluded | |

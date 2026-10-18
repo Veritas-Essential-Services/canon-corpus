@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Jean-Jacques Olier (1608-1657, founder of Saint-Sulpice) in English for the Word Hoard: the Catechism of an Interior Life, translated by M. E. K. (Baltimore: Murphy, 1852), from an Internet Archive scan. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "olier"
+ ],
+ "_surname": [
+  "olier",
+  "j. j. olier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "olier-catechism-interior-life": [
+   "catechismofanint00olieuoft",
+   "Catechism of an Interior Life, translated from the French by M. E. K. (Baltimore: Murphy, 1852)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "olier-about": "Thompson's Life of M. Olier",
+  "olier-mixed": "Agreda's Admirable Life of St Joseph, which only prefaces Olier's Sentiments"
+ },
+ "_rights_checked": {
+  "olier-catechism-interior-life": "title page read: 'Translated from the French by M. E. K.' (initials only); copyright entered 1847 by Louis Regis Deluol"
+ },
+ "_pending": {
+  "olier-other": "The Christian Day and the Introduction to the Christian Life: not found in English before 1930"
+ },
+ "_translators": {},
+ "_checks": {
+  "olier-catechism-interior-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the French by M. E. K.' (initials only); copyright entered 1847 by Louis Regis Deluol"
+  }
+ }
+}
