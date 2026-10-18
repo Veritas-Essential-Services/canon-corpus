@@ -1,0 +1,155 @@
+{
+ "_about": "Sir Francis Galton (1822-1911), statistician and founder of the study of heredity and eugenics. Gutenberg: Inquiries into Human Faculty and its Development; Noteworthy Families (with Edgar Schuster); Finger Prints; Essays in Eugenics; Memories of my Life; and his travel books The Art of Travel and The Narrative of an Explorer in Tropical South Africa. Raw IA OCR: Hereditary Genius, an inquiry into its laws and consequences (London: Macmillan, 1869), clean 0.87; English Men of Science, their nature and nurture (London: Macmillan, 1874), clean 0.84; Natural Inheritance (London: Macmillan, 1889), clean 0.79. US public domain. No uids minted.",
+ "_author": "Francis Galton",
+ "_name_words": [
+  "francis",
+  "galton"
+ ],
+ "_surname": [
+  "galton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "galton-inquiries-human-faculty": [
+   11562,
+   "Inquiries into Human Faculty and its Development"
+  ],
+  "galton-noteworthy-families": [
+   17128,
+   "Noteworthy Families (Modern Science)"
+  ],
+  "galton-finger-prints": [
+   36979,
+   "Finger Prints"
+  ],
+  "galton-essays-in-eugenics": [
+   73802,
+   "Essays in Eugenics"
+  ],
+  "galton-memories-of-my-life": [
+   78669,
+   "Memories of my Life"
+  ],
+  "galton-art-of-travel": [
+   14681,
+   "The Art of Travel"
+  ],
+  "galton-narrative-explorer-tropical-south-africa": [
+   76940,
+   "The Narrative of an Explorer in Tropical South Africa"
+  ]
+ },
+ "internet_archive": {
+  "galton-hereditary-genius-1869": [
+   "hereditarygenius1869galt",
+   "Hereditary Genius (Macmillan, 1869)"
+  ],
+  "galton-english-men-of-science-1874": [
+   "englishmenscien04galtgoog",
+   "English Men of Science (Macmillan, 1874)"
+  ],
+  "galton-natural-inheritance-1889": [
+   "in.ernet.dli.2015.221860",
+   "Natural Inheritance (Macmillan, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "galton-inquiries-human-faculty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-noteworthy-families": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-finger-prints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-essays-in-eugenics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-memories-of-my-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-art-of-travel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-narrative-explorer-tropical-south-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "galton-hereditary-genius-1869": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "galton-english-men-of-science-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "galton-natural-inheritance-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "galton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
