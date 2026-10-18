@@ -244,3 +244,4 @@
 - 20:13 round az: Mach and Driesch new; Whitehead's Process and Reality (Oct 1929 first printing), Dewey's Quest for Certainty and Experience and Nature, Santayana's Dialogues in Limbo added. Works published in 1930 became US public domain on 1 Jan 2026; Weber's Protestant Ethic (Parsons 1930) waits only for a 1930-printed scan.
 - 20:16 round ba: Broad, Wallas, Dicey, Laski, Lovejoy new; Bradley's Essays on Truth and Reality added. Laski (d. 1950) and Broad (d. 1971) are in copyright in the UK; only US public domain is claimed, per Adam's rule.
 - 20:21 round bb: Tawney, Acton, Maitland, Gierke, Bryce new; Hobhouse's Liberalism added. Acton, Maitland and Bryce sit on the history side of lane B's brief; they are taken as political and legal thought.
+- 20:27 round bc: Montesquieu, Blackstone first edition, Story, James Wilson, Kant's politics. Held: a 1966 litho reprint of Blackstone Book I. Story's Conflict of Laws and Equity Jurisprudence on the wishlist.

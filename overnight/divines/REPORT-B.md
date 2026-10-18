@@ -1129,3 +1129,11 @@
 - Extended: l-t-hobhouse (+Liberalism, 1911 first printing in its 1919 reprint)
 - Not taken: PG 40336 and PG 28278, post-1930 printings
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:27 CDT — Round 2026-10-17bc: Montesquieu and the Anglo-American jurists
+- montesquieu: Baker's Considerations on the Romans (1882), Davidson's Persian Letters (1901)
+- william-blackstone: Commentaries, first edition 1765-1769 (Book I PG 30802, II-IV raw IA)
+- joseph-story: Commentaries on the Constitution (1833, 3 vols.)
+- james-wilson: Works (1804, 3 vols.)
+- kant: Hastie's Principles of Politics (1891)
+- Held: IA Blackstone Book I lawsofenglandc01blacuoft is a 1966 lithographic reprint

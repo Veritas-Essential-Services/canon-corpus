@@ -10562,6 +10562,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
 | Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
 | The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
+| Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891) | W. Hastie | `kant-principles-of-politics-hastie-1891` | have-raw (IA `kantsprincipleso00kant`) |
 
 ## Hume
 
@@ -13069,6 +13070,48 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 | Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
 
 Pending (wishlist): The American Commonwealth (1888, 3 vols.)
+
+## Montesquieu (Romans, Persian Letters)
+
+Shelf: `pipeline/montesquieu_shelf.json`. Charles de Secondat, baron de Montesquieu (1689-1755). Raw IA OCR: Jehu Baker's Considerations on the Romans (Appleton, 1882) and John Davidson's Persian Letters (Dunne, 1901, bound with Goldsmith's Chinese Letters). The Spirit of Laws (Nugent) stays on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Considerations on the Causes of the Grandeur and Decadence of the Romans, tr. Jehu Baker (Appleton, 1882) | Jehu Baker | `montesquieu-grandeur-decadence-romans-baker-1882` | have-raw (IA `cu31924028288722`) |
+| Persian Letters, tr. John Davidson, with Goldsmith's Chinese Letters (M. Walter Dunne, 1901) | John Davidson | `montesquieu-persian-letters-davidson-1901` | have-raw (IA `persianandchine00goldgoog`) |
+
+## William Blackstone (Commentaries, first edition)
+
+Shelf: `pipeline/william-blackstone_shelf.json`. Sir William Blackstone (1723-1780). The Commentaries on the Laws of England in the first Oxford edition, 1765-1769: Book I a clean Gutenberg text, Books II-IV raw IA OCR. A 1966 lithographic reprint of Book I and later editions were not taken.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on the Laws of England, Book the First (Oxford, 1765) |  | `blackstone-commentaries-book1-1765` | have (PG 30802) |
+| Commentaries on the Laws of England, Book the Second (Oxford, 1766) |  | `blackstone-commentaries-book2-1766` | have-raw (IA `lawsofengland02blacuoft`) |
+| Commentaries on the Laws of England, Book the Third (Oxford, 1768) |  | `blackstone-commentaries-book3-1768` | have-raw (IA `commentariesonla03blac`) |
+| Commentaries on the Laws of England, Book the Fourth (Oxford, 1769) |  | `blackstone-commentaries-book4-1769` | have-raw (IA `lawsofenglandc04blacuoft`) |
+
+## Joseph Story (Commentaries on the Constitution)
+
+Shelf: `pipeline/joseph-story_shelf.json`. Joseph Story (1779-1845). Commentaries on the Constitution of the United States, first edition, 3 vols. (Boston, 1833), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Commentaries on the Constitution of the United States, vol. I (1833) |  | `story-commentaries-constitution-1833-v1` | have-raw (IA `commentariesonco01stor`) |
+| Commentaries on the Constitution of the United States, vol. II (1833) |  | `story-commentaries-constitution-1833-v2` | have-raw (IA `commentariesonco02stor`) |
+| Commentaries on the Constitution of the United States, vol. III (1833) |  | `story-commentaries-constitution-1833-v3` | have-raw (IA `commentariesonco03stor`) |
+
+Pending (wishlist): Commentaries on the Conflict of Laws (1834); Commentaries on Equity Jurisprudence (1836)
+
+## James Wilson (Works, 1804)
+
+Shelf: `pipeline/james-wilson_shelf.json`. James Wilson (1742-1798). The Works, ed. Bird Wilson, 3 vols. (Philadelphia, 1804), chiefly the 1790-1791 law lectures, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of the Honourable James Wilson, vol. I (Philadelphia, 1804) |  | `wilson-works-1804-v1` | have-raw (IA `workshonourable00wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. II (Philadelphia, 1804) |  | `wilson-works-1804-v2` | have-raw (IA `workshonourable02wilsgoog`) |
+| The Works of the Honourable James Wilson, vol. III (Philadelphia, 1804) |  | `wilson-works-1804-v3` | have-raw (IA `workshonourable01wilsgoog`) |
 
 ## Perseus census (overflow)
 
