@@ -1,5 +1,5 @@
 {
- "_about": "Sir Henry Sumner Maine (1822-1888): Ancient Law, its connection with the early history of society and its relation to modern ideas, with an introduction by Theodore W. Dwight, third American from the fifth London edition (New York: Henry Holt, 1875), raw IA OCR. Gutenberg's Ancient Law (22910) is held: it is the Everyman text reprinted in 1936. US public domain. No uids minted.",
+ "_about": "Sir Henry Sumner Maine (1822-1888): Ancient Law, its connection with the early history of society and its relation to modern ideas, with an introduction by Theodore W. Dwight, third American from the fifth London edition (New York: Henry Holt, 1875), raw IA OCR. Gutenberg's Ancient Law (22910) is held: it is the Everyman text reprinted in 1936. Added in round ak: Village-Communities in the East and West (London: John Murray, 1871); Lectures on the Early History of Institutions (New York: Henry Holt, 1888); Popular Government, four essays, 2nd ed. (London: John Murray, 1886). US public domain. No uids minted.",
  "_author": "Sir Henry Sumner Maine",
  "_name_words": [
   "henry",
@@ -17,6 +17,18 @@
   "maine-ancient-law-1875": [
    "cu31924021177807",
    "Ancient Law, 3rd American from the 5th London ed. (New York: Henry Holt, 1875)"
+  ],
+  "maine-village-communities-1871": [
+   "cu31924030429413",
+   "Village-Communities in the East and West (London: John Murray, 1871)"
+  ],
+  "maine-early-history-of-institutions-1888": [
+   "lecturesonearlyh00mainiala",
+   "Lectures on the Early History of Institutions (New York: Henry Holt, 1888)"
+  ],
+  "maine-popular-government-1886": [
+   "cu31924030448413",
+   "Popular Government, four essays, 2nd ed. (London: John Murray, 1886)"
   ]
  },
  "_excluded": {},
@@ -29,6 +41,39 @@
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maine-village-communities-1871": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maine-early-history-of-institutions-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maine-popular-government-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
