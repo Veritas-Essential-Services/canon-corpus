@@ -6051,6 +6051,11 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Holy Roman Empire, third edition (Macmillan, 1871) |  | `bryce-holy-roman-empire-1871` | have (PG 44101) |
+| Studies in History and Jurisprudence, vol. I (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v1` | have (PG 78300) |
+| Studies in History and Jurisprudence, vol. II (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v2` | have (PG 78301) |
+| Modern Democracies, vol. I (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v1` | have-raw (IA `moderndemocracie01brycuoft`) |
+| Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
 
 Pending (wishlist): The American Commonwealth (1888, 3 vols.)
 

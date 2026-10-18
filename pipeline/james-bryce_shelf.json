@@ -1,0 +1,89 @@
+{
+ "_about": "James Bryce, Viscount Bryce (1838-1922), jurist, historian and political scientist: The Holy Roman Empire, third edition revised (London: Macmillan, 1871) and Studies in History and Jurisprudence, 2 vols. (Oxford: Clarendon Press, 1901), clean Gutenberg texts; Modern Democracies, 2 vols. (New York: Macmillan, 1921), raw IA OCR, clean 0.95 and 0.91. Wanted: The American Commonwealth (1888, 3 vols.). US public domain. No uids minted.",
+ "_author": "James Bryce",
+ "_name_words": [
+  "james",
+  "bryce",
+  "viscount"
+ ],
+ "_surname": [
+  "bryce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bryce-holy-roman-empire-1871": [
+   44101,
+   "The Holy Roman Empire, third edition (Macmillan, 1871)"
+  ],
+  "bryce-studies-history-jurisprudence-v1": [
+   78300,
+   "Studies in History and Jurisprudence, vol. I (Clarendon, 1901)"
+  ],
+  "bryce-studies-history-jurisprudence-v2": [
+   78301,
+   "Studies in History and Jurisprudence, vol. II (Clarendon, 1901)"
+  ]
+ },
+ "internet_archive": {
+  "bryce-modern-democracies-1921-v1": [
+   "moderndemocracie01brycuoft",
+   "Modern Democracies, vol. I (Macmillan, 1921)"
+  ],
+  "bryce-modern-democracies-1921-v2": [
+   "bwb_S0-BPV-402",
+   "Modern Democracies, vol. II (Macmillan, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bryce-holy-roman-empire-1871": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bryce-studies-history-jurisprudence-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bryce-studies-history-jurisprudence-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bryce-modern-democracies-1921-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bryce-modern-democracies-1921-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
