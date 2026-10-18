@@ -8937,3 +8937,19 @@ Slugs `rhconwell-*`. Built from title pages read for round 36.
 | Unused Powers (New York: Fleming H. Revell; copyright 1922) | have-ocr | IA `unusedpowers00conwiala` |
 | Harper's Acres of Diamonds with Shackleton's life (1915) and PG 368; the National Extension University reprints on Gutenberg (undated); Borrowed Axes (1923); Fields of Glory (year not read) | alternate | not shelved |
 | His campaign and other biographies (Hayes, Garfield, Blaine, Bayard Taylor, Spurgeon); fire histories; hymnals and compilations; Burr's biography of him; Why Lincoln Laughed; post-1929 printings | excluded | |
+
+## Newell Dwight Hillis (round 36, my pick, 2026-10-18)
+
+Slugs `ndhillis-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| A Man's Value to Society: Studies in Self-Culture and Character, fifth edition (New York, Chicago, Toronto: Fleming H. Revell, 1897) | have-ocr | IA `mansvaluetosocie00hill` |
+| The Investment of Influence: A Study of Social Sympathy and Service (New York, Chicago, Toronto: Fleming H. Revell, 1898) | have-ocr | IA `investmentofinfl00hill` |
+| Foretokens of Immortality (New York, Chicago, Toronto: Fleming H. Revell; title page undated, copyright 1897) | have-ocr | IA `foretokensofimmo00hill_0` |
+| How the Inner Light Failed, with How the Inner Light Grows (New York, Chicago, Toronto: Fleming H. Revell; copyright 1897 and 1898) | have-ocr | IA `howinnerlightfai0000hill` |
+| The Influence of Christ in Modern Life (New York and London: Macmillan, 1900) | have-ocr | IA `influenceofchris00hill` |
+| The Quest of Happiness: A Study of Victory over Life's Troubles (New York and London: Macmillan, 1902) | have-ocr | IA `questhappinessa00hillgoog` |
+| The Great Refusal and Other Evangelistic Sermons (New York, Chicago, Toronto: Fleming H. Revell; copyright 1923) | have-ocr | IA `greatrefusalothe00hill` |
+| Later editions of Man's Value and Investment (PG 28875, PG 17274); Right Living as a Fine Art (PG 36695, 1903); The Quest of John Chapman, a novel (1904) | alternate | not shelved |
+| His war books (PG 18557, 49515, 22821); Beecher's and Swing's books, which he edited | excluded | |
