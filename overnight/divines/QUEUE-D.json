@@ -3541,6 +3541,14 @@
       "started": "2026-10-17T22:36:02-05:00",
       "finished": "2026-10-17T22:36:03-05:00",
       "notes": "amy-blanchard: new shelf, 42 Gutenberg books, 55,480 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-scott-bailey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Arthur Scott Bailey; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:36:03-05:00",
+      "finished": "2026-10-17T22:36:03-05:00",
+      "notes": "arthur-scott-bailey: new shelf, 41 Gutenberg books, 20,692 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

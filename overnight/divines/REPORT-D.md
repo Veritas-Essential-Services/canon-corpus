@@ -1605,3 +1605,6 @@
 
 ## 2026-10-17 22:36 CDT — amy-blanchard: done
 - amy-blanchard: new shelf, 42 Gutenberg books, 55,480 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:36 CDT — arthur-scott-bailey: done
+- arthur-scott-bailey: new shelf, 41 Gutenberg books, 20,692 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.

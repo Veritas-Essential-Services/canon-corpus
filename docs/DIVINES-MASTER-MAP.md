@@ -36125,6 +36125,54 @@ Shelf: `pipeline/amy-blanchard_shelf.json` (2026-10-17; added at the coordinator
 | Bonny bairns | have | PG 78348, `aeblanchard-bonny-bairns` (176 units) |
 | Girls together | have | PG 78824, `aeblanchard-girls-together` (1825 units) |
 
+## Arthur Scott Bailey
+
+Shelf: `pipeline/arthur-scott-bailey_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young children. Every English text under the name at Gutenberg that no other shelf holds (41 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The tale of Fatty Coon | have | PG 5701, `asbailey-tale-of-fatty-coon` (359 units) |
+| The tale of Freddie Firefly | have | PG 5727, `asbailey-tale-of-freddie-firefly` (468 units) |
+| The tale of Tommy Fox | have | PG 5955, `asbailey-tale-of-tommy-fox` (319 units) |
+| The tale of Brownie Beaver | have | PG 6754, `asbailey-tale-of-brownie-beaver` (418 units) |
+| The tale of Sandy Chipmunk | have | PG 9462, `asbailey-tale-of-sandy-chipmunk` (465 units) |
+| The tale of old Mr. Crow | have | PG 14402, `asbailey-tale-of-old-mr-crow` (497 units) |
+| The tale of Cuffy Bear | have | PG 15528, `asbailey-tale-of-cuffy-bear` (347 units) |
+| The tale of Solomon Owl | have | PG 16663, `asbailey-tale-of-solomon-owl` (470 units) |
+| The tale of Major Monkey | have | PG 18626, `asbailey-tale-of-major-monkey` (606 units) |
+| The tale of Frisky Squirrel | have | PG 18630, `asbailey-tale-of-frisky-squirrel` (329 units) |
+| The tale of Henrietta Hen | have | PG 18652, `asbailey-tale-of-henrietta-hen` (497 units) |
+| The tale of Pony Twinkleheels | have | PG 18656, `asbailey-tale-of-pony-twinkleheels` (516 units) |
+| The tale of Buster Bumblebee | have | PG 18662, `asbailey-tale-of-buster-bumblebee` (450 units) |
+| The tale of Dickie Deer Mouse | have | PG 18953, `asbailey-tale-of-dickie-deer-mouse` (533 units) |
+| The tale of Mrs. Ladybug | have | PG 20097, `asbailey-tale-of-mrs-ladybug` (542 units) |
+| The tale of Timothy Turtle | have | PG 20716, `asbailey-tale-of-timothy-turtle` (566 units) |
+| The tale of Miss Kitty Cat | have | PG 21078, `asbailey-tale-of-miss-kitty-cat` (512 units) |
+| The tale of Grandfather Mole | have | PG 21203, `asbailey-tale-of-grandfather-mole` (574 units) |
+| The tale of Betsy Butterfly | have | PG 21322, `asbailey-tale-of-betsy-butterfly` (486 units) |
+| The tale of Bobby Bobolink | have | PG 21412, `asbailey-tale-of-bobby-bobolink` (408 units) |
+| The tale of Daddy Longlegs | have | PG 21426, `asbailey-tale-of-daddy-longlegs` (491 units) |
+| The tale of Nimble Deer | have | PG 21619, `asbailey-tale-of-nimble-deer` (606 units) |
+| The tale of Jasper Jay | have | PG 21836, `asbailey-tale-of-jasper-jay` (436 units) |
+| The tale of Turkey Proudfoot | have | PG 21844, `asbailey-tale-of-turkey-proudfoot` (535 units) |
+| The tale of Peter Mink | have | PG 21845, `asbailey-tale-of-peter-mink` (499 units) |
+| The tale of the the Muley Cow | have | PG 24545, `asbailey-tale-of-the-the-muley-cow` (560 units) |
+| The tale of Benny Badger | have | PG 24589, `asbailey-tale-of-benny-badger` (627 units) |
+| The tale of Ferdinand Frog | have | PG 24590, `asbailey-tale-of-ferdinand-frog` (575 units) |
+| The tale of Snowball Lamb | have | PG 24592, `asbailey-tale-of-snowball-lamb` (651 units) |
+| The tale of Kiddie Katydid | have | PG 24608, `asbailey-tale-of-kiddie-katydid` (559 units) |
+| The tale of Jimmy Rabbit | have | PG 24628, `asbailey-tale-of-jimmy-rabbit` (573 units) |
+| The tale of Grunty Pig | have | PG 24731, `asbailey-tale-of-grunty-pig` (576 units) |
+| The tale of Master Meadow Mouse | have | PG 24872, `asbailey-tale-of-master-meadow-mouse` (507 units) |
+| The tale of Grumpy Weasel | have | PG 24881, `asbailey-tale-of-grumpy-weasel` (532 units) |
+| The tale of Billy Woodchuck | have | PG 25090, `asbailey-tale-of-billy-woodchuck` (485 units) |
+| The tale of Rusty Wren | have | PG 25824, `asbailey-tale-of-rusty-wren` (519 units) |
+| The tale of Chirpy Cricket | have | PG 25943, `asbailey-tale-of-chirpy-cricket` (405 units) |
+| The tale of Jolly Robin | have | PG 28293, `asbailey-tale-of-jolly-robin` (502 units) |
+| The tale of old dog Spot | have | PG 30667, `asbailey-tale-of-old-dog-spot` (555 units) |
+| The tale of Reddy Woodpecker | have | PG 43447, `asbailey-tale-of-reddy-woodpecker` (601 units) |
+| The tale of Mistah Mule | have | PG 74069, `asbailey-tale-of-mistah-mule` (536 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
