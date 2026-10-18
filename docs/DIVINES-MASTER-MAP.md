@@ -31426,6 +31426,24 @@ Shelf: `pipeline/bm-bower_shelf.json` (2026-10-17; added at the coordinator's re
 | The voice at Johnnywater | have | PG 68488, `bmbower-voice-at-johnnywater` (1098 units) |
 | The eagle's wing: A story of the Colorado | have | PG 68692, `bmbower-eagles-wing` (1256 units) |
 
+## Clarence E. Mulford
+
+Shelf: `pipeline/clarence-mulford_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hopalong Cassidy and Bar-20 Westerns. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hopalong Cassidy's Rustler Round-Up; Or, Bar-20 | have | PG 2546, `cmulford-hopalong-cassidys-rustler-round-up` (1488 units) |
+| Bar-20 Days | have | PG 4922, `cmulford-bar-20-days` (1335 units) |
+| "Bring Me His Ears" | have | PG 31699, `cmulford-bring-me-his-ears` (1352 units) |
+| The Orphan | have | PG 33039, `cmulford-orphan` (1502 units) |
+| Hopalong Cassidy | have | PG 38234, `cmulford-hopalong-cassidy` (2329 units) |
+| The Coming of Cassidy—And the Others | have | PG 42441, `cmulford-coming-of-cassidy-and-the-others` (1631 units) |
+| Buck Peters, ranchman (with John Wood Clay) | have | PG 42800, `cmulford-buck-peters-ranchman` (1934 units) |
+| "Tex" | have | PG 43100, `cmulford-tex` (1551 units) |
+| The Man from Bar 20: A Story of the Cow Country | have | PG 56154, `cmulford-man-from-bar-20` (1841 units) |
+| Johnny Nelson How a one-time pupil of Hopalong Cassidy of the famous Bar-20 ranch in the Pecos Valley performed an act of knight-errantry and what came of it | have | PG 56626, `cmulford-johnny-nelson-how-a-one-time-pupil-of-hopalong-cass` (1970 units) |
+| The Bar-20 Three | have | PG 58155, `cmulford-bar-20-three` (2248 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
