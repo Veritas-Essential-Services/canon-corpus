@@ -1492,6 +1492,14 @@
    "started": "2026-10-17T19:12:35-05:00",
    "finished": "2026-10-17T19:17:41-05:00",
    "notes": "18 volumes on 11 shelves. Held: Boole's Mathematical Analysis of Logic (only the 1948 facsimile is open); Schleiermacher's Soliloquies (IA 500)."
+  },
+  {
+   "id": "2026-10-17an",
+   "status": "done",
+   "scope": "Locke's Works (1823, 10 vols.) and Schleiermacher's Soliloquies (1926)",
+   "started": "2026-10-17T19:17:41-05:00",
+   "finished": "2026-10-17T19:20:51-05:00",
+   "notes": "11 volumes on 2 shelves. Locke vols. IV, V, X imprint year inferred (OCR garble)."
   }
  ]
 }

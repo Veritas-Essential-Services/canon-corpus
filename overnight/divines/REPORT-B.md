@@ -1025,3 +1025,8 @@
 - Descartes: Haldane and Ross vol. II (1912)
 - Carus: Fundamental Problems (1889)
 - Held: Boole 1847 (1948 facsimile only); Schleiermacher Soliloquies (download failed)
+
+## 2026-10-17 19:20 CDT — Round an: Locke's collected Works and Schleiermacher
+- Locke: The Works of John Locke, ten volumes (London: Tegg and others, 1823), one imprint throughout; vols. IV, V and X have the year garbled in OCR, read as 1823
+- Vol. VI supplies the Letters on Toleration; vols. I-III, V and IX overlap texts already held and are taken as part of the collected edition
+- Schleiermacher: Soliloquies, tr. H. L. Friess (Open Court, 1926)
