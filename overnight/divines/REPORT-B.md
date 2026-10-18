@@ -983,3 +983,8 @@
 ## 2026-10-17 18:56 CDT — Round ag: German thought in English
 - New shelves: schleiermacher (1), ludwig-buchner (1), wilhelm-von-humboldt (1), moses-mendelssohn (2)
 - Skipped, already held by Lane C: Schlegel's Philosophy of History, Fechner's Little Book of Life after Death
+
+## 2026-10-17 19:01 CDT — Round ah: Victorian thinkers
+- New shelves: leslie-stephen (8), lecky (3), henry-maine (1), walter-bagehot (2), thomas-henry-huxley (7)
+- Held: PG 22910 Ancient Law, a 1936 Everyman reprint (the 1875 Holt edition taken instead)
+- Wanted: Lecky's Rationalism in a matched pair
