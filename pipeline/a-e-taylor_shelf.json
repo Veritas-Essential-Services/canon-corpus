@@ -1,0 +1,81 @@
+{
+ "_about": "A. E. Taylor (1869-1945), idealist and Platonist. Raw IA OCR: The Problem of Conduct, a study in the phenomenology of ethics (London: Macmillan, 1901), clean 0.95; Elements of Metaphysics (London: Methuen; first published 1903, this copy the fourth edition, 1915), clean 0.91; Thomas Hobbes, in Philosophies Ancient and Modern (London: Constable, 1908), clean 0.93; Aristotle, revised edition, The People's Books (London: Jack; Nelson, 1919), clean 0.92. His translation of Metaphysics A (1907) stands on the aristotle shelf. Held: his Plato in the same Constable series (plato00taylrich), whose copy shows no printed year. US public domain. No uids minted.",
+ "_author": "A. E. Taylor",
+ "_name_words": [
+  "alfred",
+  "edward",
+  "taylor"
+ ],
+ "_surname": [
+  "taylor",
+  "a. e. taylor",
+  "alfred edward taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "taylor-problem-of-conduct-1901": [
+   "theproblemofcond00tayluoft",
+   "The Problem of Conduct (Macmillan, 1901)"
+  ],
+  "taylor-elements-of-metaphysics-1903": [
+   "elementsofmetaph0000tayl",
+   "Elements of Metaphysics (Methuen, 1903; fourth edition 1915)"
+  ],
+  "taylor-thomas-hobbes-1908": [
+   "thomashobbes00tayluoft",
+   "Thomas Hobbes (Constable, 1908)"
+  ],
+  "taylor-aristotle-1919": [
+   "aristotle00tayluoft",
+   "Aristotle, revised edition (The People's Books, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "taylor-problem-of-conduct-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred edward taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "taylor-elements-of-metaphysics-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "taylor-thomas-hobbes-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "taylor-aristotle-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

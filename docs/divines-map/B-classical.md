@@ -6289,6 +6289,10 @@ Shelf: `pipeline/a-e-taylor_shelf.json`. A. E. Taylor (1869-1945). Problem of Co
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Problem of Conduct (Macmillan, 1901) |  | `taylor-problem-of-conduct-1901` | have-raw (IA `theproblemofcond00tayluoft`) |
+| Elements of Metaphysics (Methuen, 1903; fourth edition 1915) |  | `taylor-elements-of-metaphysics-1903` | have-raw (IA `elementsofmetaph0000tayl`) |
+| Thomas Hobbes (Constable, 1908) |  | `taylor-thomas-hobbes-1908` | have-raw (IA `thomashobbes00tayluoft`) |
+| Aristotle, revised edition (The People's Books, 1919) |  | `taylor-aristotle-1919` | have-raw (IA `aristotle00tayluoft`) |
 
 Pending (wishlist): Plato (Constable, 1908) with a dated copy
 
