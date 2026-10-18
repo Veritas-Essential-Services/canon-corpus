@@ -4452,6 +4452,7 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Nine works, 1917-1929: four
 | Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92) |  | `whitehead-religion-in-the-making-1926` | have-raw (IA `religioninmaking00whit`) |
 | An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
 | The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
+| The Function of Reason, Louis Clark Vanuxem Foundation lectures (Princeton University Press, 1929) |  | `whitehead-function-of-reason-1929` | have-raw (IA `functionofreason00whit`) |
 
 Pending (wishlist): An Introduction to Mathematics (1911) and The Aims of Education (1929) in dated printings; A Treatise on Universal Algebra (1898) in a cleaner scan.
 
