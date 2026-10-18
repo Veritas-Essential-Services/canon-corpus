@@ -7424,3 +7424,22 @@ Slugs `rauschenbusch-*`. Built from title pages read for round 32.
 | A Theology for the Social Gospel (New York: The Macmillan Company, 1917) | have-ocr | IA `theologyforsoc00raus` |
 | For God and the People (1910, the Prayers under another title); PG 29912 (Social Principles, 1917 Woman's Press); later printings | alternate | not shelved |
 | Evangeliums-Lieder, a German hymnal he compiled | excluded | |
+
+## Josiah Strong (round 32, my pick, 2026-10-18)
+
+Slugs `jstrong-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Our Country: its Possible Future and its Present Crisis (New York: American Home Missionary Society, 1885) | have-ocr | IA `ourcountryitspo00strogoog` |
+| The New Era, or the Coming Kingdom (New York: Baker & Taylor; copyright 1893) | have-ocr | IA `neweraorcomingk00strogoog` |
+| The Twentieth Century City (New York: The Baker and Taylor Company; copyright 1898) | have-ocr | IA `twentiethcentury00stro_0` |
+| Religious Movements for Social Betterment (New York: The Baker and Taylor Company; title page undated, received 1900) | have-ocr | IA `religiousmovemen00stro` |
+| The Times and Young Men (New York: The Baker and Taylor Company; copyright 1901) | have-ocr | IA `timesyoungmen00stroiala` |
+| The Next Great Awakening (New York: The Baker and Taylor Company, 1902) | have-ocr | IA `nextgreatawaken00strogoog` |
+| The Challenge of the City (Young People's Missionary Movement; copyright 1907) | have-ocr | IA `challengecity00strogoog` |
+| My Religion in Everyday Life (New York: The Baker and Taylor Company, 1910) | have-ocr | IA `myreligionineve00stro` |
+| The New World-Religion (Garden City: Doubleday, Page, 1915) | have-ocr | IA `newworldreligion00stro` |
+| Later thousands of Our Country and the post-1890 revised edition; another New Era | alternate | not shelved |
+| Expansion under New World-Conditions (1900) and Our World (1913): title-page year not read | alternate | not shelved |
+| Greene's Armenian Crisis; A Martyr of To-day (about Robert Ross); the Social Progress yearbooks; a Spanish translation | excluded | |
