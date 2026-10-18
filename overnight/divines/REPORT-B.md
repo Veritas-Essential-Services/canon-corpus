@@ -1123,3 +1123,9 @@
 - Extended: f-h-bradley (+Essays on Truth and Reality, 1914 first printing)
 - Held: Human Nature in Politics (IA copy is the Rowse-foreword edition), Political Thought in England from Locke to Bentham (no printed year), a 1934 impression of Five Types and a 1944+ lithographic Bradley (better copies taken)
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:21 CDT — Round bb: Tawney, Acton, Maitland, Gierke, Bryce
+- New shelves: r-h-tawney (Agrarian Problem 1912, Acquisitive Society 1920, Religion and the Rise of Capitalism 1926), lord-acton (Study of History, Lectures on Modern History, History of Freedom, French Revolution), f-w-maitland (Domesday Book and Beyond 1897, English Law and the Renaissance 1901, Constitutional History 1908), otto-von-gierke (Political Theories of the Middle Age, tr. Maitland 1900), james-bryce (Holy Roman Empire 1871, Studies in History and Jurisprudence 1901, Modern Democracies 1921)
+- Extended: l-t-hobhouse (+Liberalism, 1911 first printing in its 1919 reprint)
+- Not taken: PG 40336 and PG 28278, post-1930 printings
+- Ids checked against heldidx and all branches: no collisions

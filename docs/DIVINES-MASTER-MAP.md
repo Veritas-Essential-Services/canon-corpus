@@ -11415,6 +11415,7 @@ Shelf: `pipeline/l-t-hobhouse_shelf.json`. Morals in Evolution (1906, 2 parts). 
 |---|---|---|---|
 | Morals in Evolution, part I (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v1` | have-raw (IA `moralsinevolutio01hobh`) |
 | Morals in Evolution, part II (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v2` | have-raw (IA `moralsinevolutio02hobhuoft`) |
+| Liberalism, Home University Library (London: Williams and Norgate; first printed May 1911, this copy the reprint of May 1919; raw IA OCR, clean 0.94; the Gutenberg etext, PG 28278, follows a 1944 impression and is not taken) |  | `hobhouse-liberalism-1911` | have-raw (IA `liberalism00hobh`) |
 
 ## Henry More
 
@@ -12596,6 +12597,61 @@ Shelf: `pipeline/arthur-o-lovejoy_shelf.json`. The Revolt against Dualism (1930,
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Revolt against Dualism (Open Court, 1930, first edition) |  | `lovejoy-revolt-against-dualism-1930` | have-raw (IA `revoltagainstdua032051mbp`) |
+
+## R. H. Tawney (economic history and social thought)
+
+Shelf: `pipeline/r-h-tawney_shelf.json`. Three works, 1912-1926. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Acquisitive Society (Harcourt, Brace, 1920) |  | `tawney-acquisitive-society-1920` | have (PG 33741) |
+| Religion and the Rise of Capitalism (Harcourt, Brace, 1926) |  | `tawney-religion-rise-capitalism-1926` | have (PG 71223) |
+| The Agrarian Problem in the Sixteenth Century (Longmans, 1912) |  | `tawney-agrarian-problem-1912` | have-raw (IA `agrarianproblemi00tawn`) |
+
+## Lord Acton (history of liberty)
+
+Shelf: `pipeline/lord-acton_shelf.json`. Four Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Lecture on the Study of History (1895; Macmillan reprint 1911) |  | `acton-lecture-study-of-history-1895` | have (PG 25720) |
+| Lectures on Modern History, ed. Figgis and Laurence (1906; printing not named) |  | `acton-lectures-modern-history-1906` | have (PG 18685) |
+| The History of Freedom and Other Essays (1907; reprint 1909) |  | `acton-history-of-freedom-1907` | have (PG 31278) |
+| Lectures on the French Revolution (Macmillan, 1910) |  | `acton-lectures-french-revolution-1910` | have (PG 27488) |
+
+## F. W. Maitland (English legal history)
+
+Shelf: `pipeline/f-w-maitland_shelf.json`. Three works, 1897-1908. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Domesday Book and Beyond (Cambridge, 1897) |  | `maitland-domesday-book-and-beyond-1897` | have (PG 43255) |
+| English Law and the Renaissance, Rede Lecture (Cambridge, 1901) |  | `maitland-english-law-renaissance-1901` | have (PG 54251) |
+| The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909) |  | `maitland-constitutional-history-1908` | have-raw (IA `constitutionalh00mait`) |
+
+Pending (wishlist): The History of English Law before the Time of Edward I, with Pollock (1895, 2 vols.)
+
+## Otto von Gierke (medieval political theory)
+
+Shelf: `pipeline/otto-von-gierke_shelf.json`. Maitland's translation (1900). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Political Theories of the Middle Age, tr. F. W. Maitland (Cambridge, 1900; reprint 1913) | Maitland | `gierke-political-theories-middle-age-1900` | have-raw (IA `politicaltheorie00gieruoft`) |
+
+## James Bryce (history and political science)
+
+Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Holy Roman Empire, third edition (Macmillan, 1871) |  | `bryce-holy-roman-empire-1871` | have (PG 44101) |
+| Studies in History and Jurisprudence, vol. I (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v1` | have (PG 78300) |
+| Studies in History and Jurisprudence, vol. II (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v2` | have (PG 78301) |
+| Modern Democracies, vol. I (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v1` | have-raw (IA `moderndemocracie01brycuoft`) |
+| Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
+
+Pending (wishlist): The American Commonwealth (1888, 3 vols.)
 
 ## Perseus census (overflow)
 
