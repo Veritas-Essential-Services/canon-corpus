@@ -5480,6 +5480,7 @@ Shelf: `pipeline/john-millar_shelf.json`. Observations concerning the Distinctio
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Observations concerning the Distinction of Ranks in Society, second edition (London: J. Murray, 1773) |  | `millar-distinction-of-ranks-1773` | have-raw (IA `observationscon00millgoog`) |
 
 ## Lord Monboddo
 

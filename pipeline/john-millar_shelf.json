@@ -1,0 +1,38 @@
+{
+ "_about": "John Millar (1735-1801), Glasgow professor of law: Observations concerning the Distinction of Ranks in Society, the second edition greatly enlarged (London: J. Murray, 1773; the OCR garbles the year), raw IA OCR, clean 0.88. US public domain. No uids minted.",
+ "_author": "John Millar",
+ "_name_words": [
+  "john",
+  "millar"
+ ],
+ "_surname": [
+  "millar"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "millar-distinction-of-ranks-1773": [
+   "observationscon00millgoog",
+   "Observations concerning the Distinction of Ranks in Society, second edition (London: J. Murray, 1773)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "millar-distinction-of-ranks-1773": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "millar-distinction-of-ranks-1773": {
+   "author": "The OCR reads the title page name as 'J O H N JM I L L A R, esq, Professor of Law in the University of Glasgow'."
+  }
+ }
+}
