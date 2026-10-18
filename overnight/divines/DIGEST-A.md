@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 20:26 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 20:41 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -674,6 +674,14 @@ Twenty-six authors queued in QUEUE-A.json, each built from title pages read for 
 | Johannes Jacobus van Oosterzee | johannes-jacobus-van-oosterzee_shelf.json | none | 9 (Christian Dogmatics, vol. I, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874); Christian Dogmatics, vol. II, tr. John Watson Watson and Maurice J. Evans (New York: Scribner, Armstrong, 1874); The Theology of the New Testament, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXX); Practical Theology: a Manual for Theological Students, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXVIII); The Image of Christ as Presented in Scripture, tr. Maurice J. Evans (London: Hodder and Stoughton, MDCCCLXXIV); The Year of Salvation, vol. I, tr. C. Spence (Edinburgh: T. & T. Clark; title page undated, catalogued 1875); Moses: a Biblical Study (Edinburgh: T. and T. Clark, 1876); John's Gospel: Apologetical Lectures, tr. J. F. Hurst (Edinburgh: T. and T. Clark, MDCCCLXIX); Theological and Homiletical Commentary on the Gospel of St Luke, vol. I, tr. Sophia Taylor, ed. J. P. Lange (Edinburgh: T. & T. Clark, MDCCCLXII)) | 1 (Vol. II: not found) | the joint James with Lange; a 1974 reprint |
 
 Round 30 closed 2026-10-17 20:27 CDT: 26 shelves, 159 Internet Archive items, each `--verify --record` with 0 mismatched and 0 uids minted. Segneri's Penitent Instructed (London, 1703) is pending, because the author line on its title page is garbled past reading.
+
+## Round 31: German Pietists, German biblical critics and scholars, Thomas Erskine of Linlathen, John Colet and St John Fisher, before 1930 (my picks)
+
+Nineteen authors queued in QUEUE-A.json, each built from title pages read for this round. The German and Latin books are English translations, with the translator recorded wherever the title page names one; Erskine, Colet's English sermon and Fisher's English Works were written in English. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Julius Wellhausen | julius-wellhausen_shelf.json | none | 4 (Prolegomena to the History of Israel, tr. J. Sutherland Black and Allan Menzies (Edinburgh: Adam & Charles Black, MDCCCLXXXV); Sketch of the History of Israel and Judah, third edition (London and Edinburgh: Adam & Charles Black, 1891); The Book of Psalms, a new English translation, the Psalms tr. Horace Howard Furness, notes tr. John Taylor (London: James Clarke; New York: Dodd, Mead, 1898); The Arab Kingdom and its Fall, tr. Margaret Graham Weir (University of Calcutta, 1927)) | none | post-1929 reprints; the Hebrew Psalms |
 
 ## Paused 2026-10-10 15:12 CDT
 

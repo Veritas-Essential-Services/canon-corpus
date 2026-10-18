@@ -7008,6 +7008,21 @@ Slugs `oosterzee-*`. Utrecht dogmatician: Dogmatics, NT Theology, Practical Theo
 | Dodd & Mead NT Theology (1871); 1878 Image of Christ; Clark's 1872 Lange Luke | alternate | not shelved |
 | The Epistle General of James (1867): written with J. P. Lange, a joint work | excluded | |
 | bwb_S0-DFL-230_2: a 1974 reprint | excluded | |
+
+## Julius Wellhausen (round 31, my pick, 2026-10-18)
+
+Slugs `wellhausen-*`. Prolegomena, Sketch of Israel and Judah, Psalms and The Arab Kingdom in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Prolegomena to the History of Israel, tr. J. Sutherland Black and Allan Menzies (Edinburgh: Adam & Charles Black, MDCCCLXXXV) | have-ocr | IA `prolegomenatohi00wellgoog` |
+| Sketch of the History of Israel and Judah, third edition (London and Edinburgh: Adam & Charles Black, 1891) | have-ocr | IA `cu31924028583445` |
+| The Book of Psalms, a new English translation, the Psalms tr. Horace Howard Furness, notes tr. John Taylor (London: James Clarke; New York: Dodd, Mead, 1898) | have-ocr | IA `bookofpsalmsnewe00furnuoft` |
+| The Arab Kingdom and its Fall, tr. Margaret Graham Weir (University of Calcutta, 1927) | have-ocr | IA `arabkingdomandit029490mbp` |
+| PG 4732, Prolegomena (Black and Menzies): its header states no source edition, so the dated 1885 scan is shelved instead | alternate | not shelved |
+| bwb_C0-AVN-740 (1885); other 1891 Sketch copies | alternate | not shelved |
+| 1957-2004 reprints of the Prolegomena; the 1973 Arab Kingdom | excluded | |
+| The 1895 critical Hebrew Psalms: not an English translation | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

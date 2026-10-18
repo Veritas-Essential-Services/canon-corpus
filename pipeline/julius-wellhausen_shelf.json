@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Julius Wellhausen (1844-1918, Marburg and Göttingen orientalist) in English for the Word Hoard: the Prolegomena to the History of Israel, tr. J. Sutherland Black and Allan Menzies (Edinburgh, 1885), the Sketch of the History of Israel and Judah (third edition, 1891), his Book of Psalms in Haupt's Sacred Books of the Old and New Testaments (1898), and The Arab Kingdom and its Fall, tr. Margaret Graham Weir (Calcutta, 1927), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wellhausen"
+ ],
+ "_surname": [
+  "wellhausen",
+  "julius wellhausen",
+  "j. wellhausen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wellhausen-prolegomena": [
+   "prolegomenatohi00wellgoog",
+   "Prolegomena to the History of Israel, tr. J. Sutherland Black and Allan Menzies (Edinburgh: Adam & Charles Black, MDCCCLXXXV)"
+  ],
+  "wellhausen-sketch-israel-judah": [
+   "cu31924028583445",
+   "Sketch of the History of Israel and Judah, third edition (London and Edinburgh: Adam & Charles Black, 1891)"
+  ],
+  "wellhausen-psalms": [
+   "bookofpsalmsnewe00furnuoft",
+   "The Book of Psalms, a new English translation, the Psalms tr. Horace Howard Furness, notes tr. John Taylor (London: James Clarke; New York: Dodd, Mead, 1898)"
+  ],
+  "wellhausen-arab-kingdom": [
+   "arabkingdomandit029490mbp",
+   "The Arab Kingdom and its Fall, tr. Margaret Graham Weir (University of Calcutta, 1927)"
+  ]
+ },
+ "_alternates": {
+  "wellhausen-pg": "PG 4732, Prolegomena (Black and Menzies): its header states no source edition, so the dated 1885 scan is shelved instead",
+  "wellhausen-copies": "bwb_C0-AVN-740 (1885); other 1891 Sketch copies"
+ },
+ "_excluded": {
+  "wellhausen-reprints": "1957-2004 reprints of the Prolegomena; the 1973 Arab Kingdom",
+  "wellhausen-hebrew": "The 1895 critical Hebrew Psalms: not an English translation"
+ },
+ "_rights_checked": {
+  "wellhausen-sketch-israel-judah": "title page read: translator not named; the preface says it is the Britannica article Israel (1881), reprinted in the Prolegomena",
+  "wellhausen-psalms": "title page read: Sacred Books of the Old and New Testaments part 14, ed. Paul Haupt; copyright 1897 by Haupt"
+ },
+ "_pending": {},
+ "_translators": {
+  "wellhausen-prolegomena": "black",
+  "wellhausen-psalms": "furness",
+  "wellhausen-arab-kingdom": "weir"
+ },
+ "_checks": {
+  "wellhausen-prolegomena": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wellhausen",
+   "translator_claimed": "black",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wellhausen-sketch-israel-judah": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wellhausen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; the preface says it is the Britannica article Israel (1881), reprinted in the Prolegomena"
+  },
+  "wellhausen-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wellhausen",
+   "translator_claimed": "furness",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Sacred Books of the Old and New Testaments part 14, ed. Paul Haupt; copyright 1897 by Haupt"
+  },
+  "wellhausen-arab-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wellhausen",
+   "translator_claimed": "weir",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
