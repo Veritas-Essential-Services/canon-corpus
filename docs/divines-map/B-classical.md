@@ -7776,6 +7776,7 @@ Shelf: `pipeline/w-e-johnson_shelf.json`. Logic Part I, 1921.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Logic, Part I (Cambridge, 1921) |  | `johnson-logic-part-i-1921` | have-raw (IA `in.ernet.dli.2015.204560`) |
 
 Pending (wishlist): Logic Part II (1922) and Part III (1924).
 
