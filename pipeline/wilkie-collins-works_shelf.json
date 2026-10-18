@@ -1,0 +1,422 @@
+{
+ "_about": "Wilkie Collins's novels, stories and plays not already on another shelf (the reading-list wilkie-collins shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Wilkie Collins",
+ "_name_words": [
+  "collins"
+ ],
+ "_surname": [
+  "wilkie collins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wcollins-moonstone": [
+   155,
+   "The Moonstone"
+  ],
+  "wcollins-haunted-hotel": [
+   170,
+   "The Haunted Hotel: A Mystery of Modern Venice",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcollins-no-name": [
+   1438,
+   "No Name"
+  ],
+  "wcollins-man-and-wife": [
+   1586,
+   "Man and Wife"
+  ],
+  "wcollins-black-robe": [
+   1587,
+   "The Black Robe"
+  ],
+  "wcollins-a-rogues-life": [
+   1588,
+   "A Rogue's Life"
+  ],
+  "wcollins-miss-or-mrs": [
+   1621,
+   "Miss or Mrs.?"
+  ],
+  "wcollins-law-and-the-lady": [
+   1622,
+   "The Law and the Lady"
+  ],
+  "wcollins-new-magdalen": [
+   1623,
+   "The New Magdalen"
+  ],
+  "wcollins-two-destinies": [
+   1624,
+   "The Two Destinies"
+  ],
+  "wcollins-frozen-deep": [
+   1625,
+   "The frozen deep"
+  ],
+  "wcollins-after-dark": [
+   1626,
+   "After Dark"
+  ],
+  "wcollins-evil-genius": [
+   1627,
+   "The Evil Genius: A Domestic Story"
+  ],
+  "wcollins-my-ladys-money": [
+   1628,
+   "My Lady's Money"
+  ],
+  "wcollins-i-say-no": [
+   1629,
+   "\"I Say No\""
+  ],
+  "wcollins-little-novels": [
+   1630,
+   "Little Novels"
+  ],
+  "wcollins-antonina": [
+   3606,
+   "Antonina; Or, The Fall of Rome"
+  ],
+  "wcollins-poor-miss-finch": [
+   3632,
+   "Poor Miss Finch"
+  ],
+  "wcollins-jezebels-daughter": [
+   3633,
+   "Jezebel's Daughter"
+  ],
+  "wcollins-guilty-river": [
+   3634,
+   "The Guilty River",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcollins-basil": [
+   4605,
+   "Basil"
+  ],
+  "wcollins-blind-love": [
+   7890,
+   "Blind Love (completed by Walter Besant)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcollins-dead-alive": [
+   7891,
+   "The Dead Alive"
+  ],
+  "wcollins-heart-and-science": [
+   7892,
+   "Heart and Science: A Story of the Present Time"
+  ],
+  "wcollins-hide-and-seek": [
+   7893,
+   "Hide and Seek"
+  ],
+  "wcollins-fallen-leaves": [
+   7894,
+   "The Fallen Leaves"
+  ],
+  "wcollins-rambles-beyond-railways": [
+   28367,
+   "Rambles Beyond Railways; or, Notes in Cornwall taken A-foot",
+   {
+    "contents_only": true
+   }
+  ],
+  "wcollins-dead-secret": [
+   43092,
+   "The Dead Secret: A Novel"
+  ],
+  "wcollins-my-miscellanies-vol-1-of-2": [
+   43893,
+   "My Miscellanies, Vol. 1 (of 2)"
+  ],
+  "wcollins-my-miscellanies-vol-2-of-2": [
+   44350,
+   "My Miscellanies, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58089": "PG 58089: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 583: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "wcollins-moonstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-haunted-hotel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-no-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-man-and-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-black-robe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-a-rogues-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-miss-or-mrs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-law-and-the-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-new-magdalen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-two-destinies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-frozen-deep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-after-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-evil-genius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-my-ladys-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-i-say-no": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-little-novels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-antonina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-poor-miss-finch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-jezebels-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-guilty-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-basil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-blind-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-dead-alive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-heart-and-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-hide-and-seek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-fallen-leaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-rambles-beyond-railways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-dead-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-my-miscellanies-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcollins-my-miscellanies-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilkie collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

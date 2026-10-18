@@ -9167,6 +9167,45 @@ Shelf: `pipeline/bronte-works_shelf.json` (2026-10-17; added at the coordinator'
 | The Tenant of Wildfell Hall | have | PG 969, `bronte-tenant-of-wildfell-hall` (3142 units) |
 | pg-79159 | excluded | PG 79159 Jane Eyre: John Brougham's stage version, not the novel. |
 
+## Wilkie Collins
+
+Shelf: `pipeline/wilkie-collins-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Moonstone | have | PG 155, `wcollins-moonstone` (3606 units) |
+| The Haunted Hotel: A Mystery of Modern Venice | have | PG 170, `wcollins-haunted-hotel` (1134 units) |
+| No Name | have | PG 1438, `wcollins-no-name` (4277 units) |
+| Man and Wife | have | PG 1586, `wcollins-man-and-wife` (5678 units) |
+| The Black Robe | have | PG 1587, `wcollins-black-robe` (2453 units) |
+| A Rogue's Life | have | PG 1588, `wcollins-a-rogues-life` (673 units) |
+| Miss or Mrs.? | have | PG 1621, `wcollins-miss-or-mrs` (675 units) |
+| The Law and the Lady | have | PG 1622, `wcollins-law-and-the-lady` (2783 units) |
+| The New Magdalen | have | PG 1623, `wcollins-new-magdalen` (2505 units) |
+| The Two Destinies | have | PG 1624, `wcollins-two-destinies` (1744 units) |
+| The frozen deep | have | PG 1625, `wcollins-frozen-deep` (890 units) |
+| After Dark | have | PG 1626, `wcollins-after-dark` (2030 units) |
+| The Evil Genius: A Domestic Story | have | PG 1627, `wcollins-evil-genius` (2828 units) |
+| My Lady's Money | have | PG 1628, `wcollins-my-ladys-money` (1033 units) |
+| "I Say No" | have | PG 1629, `wcollins-i-say-no` (3261 units) |
+| Little Novels | have | PG 1630, `wcollins-little-novels` (3390 units) |
+| Antonina; Or, The Fall of Rome | have | PG 3606, `wcollins-antonina` (1692 units) |
+| Poor Miss Finch | have | PG 3632, `wcollins-poor-miss-finch` (3427 units) |
+| Jezebel's Daughter | have | PG 3633, `wcollins-jezebels-daughter` (2313 units) |
+| The Guilty River | have | PG 3634, `wcollins-guilty-river` (1051 units) |
+| Basil | have | PG 4605, `wcollins-basil` (1493 units) |
+| Blind Love (completed by Walter Besant) | have | PG 7890, `wcollins-blind-love` (3019 units) |
+| The Dead Alive | have | PG 7891, `wcollins-dead-alive` (512 units) |
+| Heart and Science: A Story of the Present Time | have | PG 7892, `wcollins-heart-and-science` (3170 units) |
+| Hide and Seek | have | PG 7893, `wcollins-hide-and-seek` (2001 units) |
+| The Fallen Leaves | have | PG 7894, `wcollins-fallen-leaves` (2203 units) |
+| Rambles Beyond Railways; or, Notes in Cornwall taken A-foot | have | PG 28367, `wcollins-rambles-beyond-railways` (627 units) |
+| The Dead Secret: A Novel | have | PG 43092, `wcollins-dead-secret` (2209 units) |
+| My Miscellanies, Vol. 1 (of 2) | have | PG 43893, `wcollins-my-miscellanies-vol-1-of-2` (615 units) |
+| My Miscellanies, Vol. 2 (of 2) | have | PG 44350, `wcollins-my-miscellanies-vol-2-of-2` (842 units) |
+| pg-58089 | excluded | PG 58089: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 583: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
