@@ -73,7 +73,11 @@
    "ia_rights": "CHECK: published 1930",
    "ia_date": "1930",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-18: 'New York: Harcourt, Brace and Company; London: Kegan Paul, Trench, Trubner & Co., Ltd., 1930'. Published 1930, so US public domain from 1 January 2026."
   }
+ },
+ "_rights_checked": {
+  "broad-five-types-ethical-theory-1930": "Title page read 2026-10-18: 'New York: Harcourt, Brace and Company; London: Kegan Paul, Trench, Trubner & Co., Ltd., 1930'. Published 1930, so US public domain from 1 January 2026."
  }
 }

@@ -28,7 +28,11 @@
    "ia_rights": "CHECK: published 1930",
    "ia_date": "1930",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "Verso read 2026-10-18: 'The Open Court Publishing Company; W. W. Norton & Company, Inc., Publishers', 'Copyright, 1930, Open Court Publishing Company', 'First Edition'; preface dated March 1930. Published 1930, so US public domain from 1 January 2026."
   }
+ },
+ "_rights_checked": {
+  "lovejoy-revolt-against-dualism-1930": "Verso read 2026-10-18: 'The Open Court Publishing Company; W. W. Norton & Company, Inc., Publishers', 'Copyright, 1930, Open Court Publishing Company', 'First Edition'; preface dated March 1930. Published 1930, so US public domain from 1 January 2026."
  }
 }
