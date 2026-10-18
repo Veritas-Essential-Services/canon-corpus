@@ -10648,6 +10648,55 @@ Shelf: `pipeline/mary-jane-holmes_shelf.json` (2026-10-17; added at the coordina
 | Paul Ralston | have | PG 75309, `mjholmes-paul-ralston` (1811 units) |
 | repeat-editions | excluded | PG 79070: second Gutenberg editions of titles already on the shelf. |
 
+## W. Clark Russell
+
+Shelf: `pipeline/clark-russell_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (42 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Honour of the Flag | have | PG 19899, `wcrussell-honour-of-the-flag` (609 units) |
+| The Frozen Pirate | have | PG 22215, `wcrussell-frozen-pirate` (1245 units) |
+| A Marriage at Sea | have | PG 32516, `wcrussell-a-marriage-at-sea` (1377 units) |
+| My Danish Sweetheart: A Novel. Volume 1 of 3 | have | PG 41313, `wcrussell-my-danish-sweetheart` (776 units) |
+| My Danish Sweetheart: A Novel. Volume 2 of 3 | have | PG 41314, `wcrussell-my-danish-sweetheart-41314` (1234 units) |
+| My Danish Sweetheart: A Novel. Volume 3 of 3 | have | PG 41315, `wcrussell-my-danish-sweetheart-41315` (1022 units) |
+| The Wreck of the Grosvenor, Volume 1 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas | have | PG 44497, `wcrussell-wreck-of-the-grosvenor-volume-1-of-3-an-account-of` (844 units) |
+| The Wreck of the Grosvenor, Volume 2 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas | have | PG 44498, `wcrussell-wreck-of-the-grosvenor-volume-2-of-3-an-account-of` (1228 units) |
+| The Wreck of the Grosvenor, Volume 3 of 3 An account of the mutiny of the crew and the loss of the ship when trying to make the Bermudas | have | PG 44499, `wcrussell-wreck-of-the-grosvenor-volume-3-of-3-an-account-of` (1055 units) |
+| The Last Entry | have | PG 44546, `wcrussell-last-entry` (1204 units) |
+| A Tale of Two Tunnels: A Romance of the Western Waters | have | PG 44590, `wcrussell-a-tale-of-two-tunnels` (962 units) |
+| The Death Ship: A Strange Story, Vol. 1 (of 3) | have | PG 49802, `wcrussell-death-ship` (578 units) |
+| The Death Ship: A Strange Story, Vol. 2 (of 3) | have | PG 49899, `wcrussell-death-ship-49899` (607 units) |
+| The Death Ship: A Strange Story, Vol. 3 (of 3) | have | PG 49975, `wcrussell-death-ship-49975` (1089 units) |
+| The Tragedy of Ida Noble | have | PG 50372, `wcrussell-tragedy-of-ida-noble` (1213 units) |
+| William Dampier | have | PG 54284, `wcrussell-william-dampier` (332 units) |
+| John Holdsworth, Chief Mate | have | PG 54303, `wcrussell-john-holdsworth-chief-mate` (2169 units) |
+| An Ocean Tragedy | have | PG 56363, `wcrussell-an-ocean-tragedy` (3503 units) |
+| A Book for the Hammock | have | PG 61207, `wcrussell-a-book-for-the-hammock` (642 units) |
+| The Phantom Death, etc. | have | PG 61513, `wcrussell-phantom-death-etc` (1200 units) |
+| Round the Galley Fire | have | PG 61750, `wcrussell-round-the-galley-fire` (749 units) |
+| The Wreck of the Corsaire | have | PG 61839, `wcrussell-wreck-of-the-corsaire` (198 units) |
+| The Deceased Wife's Sister, and My Beautiful Neighbour, v. 3 | have | PG 62084, `wcrussell-deceased-wifes-sister-and-my-beautiful-neighbour-v` (1203 units) |
+| The Mate of the Good Ship York; Or, The Ship's Adventure | have | PG 62329, `wcrussell-mate-of-the-good-ship-york` (2040 units) |
+| Master Rockafellar's Voyage | have | PG 62336, `wcrussell-master-rockafellars-voyage` (732 units) |
+| Heart of Oak: A Three-Stranded Yarn, vol. 1. | have | PG 62341, `wcrussell-heart-of-oak` (845 units) |
+| My Shipmate Louise: The Romance of a Wreck, Volume 1 (of 3) | have | PG 62343, `wcrussell-my-shipmate-louise` (1079 units) |
+| My Shipmate Louise: The Romance of a Wreck, Volume 2 (of 3) | have | PG 62344, `wcrussell-my-shipmate-louise-62344` (1257 units) |
+| My Shipmate Louise: The Romance of a Wreck, Volume 3 (of 3) | have | PG 62375, `wcrussell-my-shipmate-louise-62375` (1088 units) |
+| Heart of Oak: A Three-Stranded Yarn, vol. 2. | have | PG 62378, `wcrussell-heart-of-oak-62378` (725 units) |
+| Heart of Oak: A Three-Stranded Yarn, vol. 3 | have | PG 62419, `wcrussell-heart-of-oak-62419` (821 units) |
+| Jilted! Or, My Uncle's Scheme, Volume 1 | have | PG 62584, `wcrussell-jilted` (644 units) |
+| Jilted! Or, My Uncle's Scheme, Volume 2 | have | PG 62585, `wcrussell-jilted-62585` (696 units) |
+| Jilted! Or, My Uncle's Scheme, Volume 3 | have | PG 62586, `wcrussell-jilted-62586` (703 units) |
+| The Yarn of Old Harbour Town | have | PG 63076, `wcrussell-yarn-of-old-harbour-town` (1685 units) |
+| Alone on a Wide Wide Sea, Vol. 1 (of 3) | have | PG 63385, `wcrussell-alone-on-a-wide-wide-sea-vol-1-of-3` (844 units) |
+| Alone on a Wide Wide Sea, Vol. 2 (of 3) | have | PG 63386, `wcrussell-alone-on-a-wide-wide-sea-vol-2-of-3` (915 units) |
+| Alone on a Wide Wide Sea, Vol. 3 (of 3) | have | PG 63387, `wcrussell-alone-on-a-wide-wide-sea-vol-3-of-3` (667 units) |
+| The Convict Ship, Volume 1 (of 3) | have | PG 63964, `wcrussell-convict-ship-volume-1-of-3` (1171 units) |
+| The Convict Ship, Volume 2 (of 3) | have | PG 64114, `wcrussell-convict-ship-volume-2-of-3` (1077 units) |
+| The Convict Ship, Volume 3 (of 3) | have | PG 64321, `wcrussell-convict-ship-volume-3-of-3` (1205 units) |
+| List, Ye Landsmen! A Romance of Incident | have | PG 66212, `wcrussell-list-ye-landsmen-a-romance-of-incident` (3840 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

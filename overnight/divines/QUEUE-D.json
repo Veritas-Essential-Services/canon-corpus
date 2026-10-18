@@ -3277,6 +3277,14 @@
       "started": "2026-10-17T21:25:19-05:00",
       "finished": "2026-10-17T21:25:19-05:00",
       "notes": "mary-jane-holmes: new shelf, 46 Gutenberg books, 73,388 units, 596 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "clark-russell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — W. Clark Russell; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:25:20-05:00",
+      "finished": "2026-10-17T21:25:20-05:00",
+      "notes": "clark-russell: new shelf, 42 Gutenberg books, 47,073 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
