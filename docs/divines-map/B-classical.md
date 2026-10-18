@@ -6969,6 +6969,11 @@ Shelf: `pipeline/george-herbert-palmer_shelf.json`. Five books, 1901-1919.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Nature of Goodness |  | `palmer-nature-of-goodness` | have (PG 6101) |
+| Altruism: Its Nature and Varieties |  | `palmer-altruism` | have (PG 57749) |
+| The Teacher: Essays and Addresses on Education |  | `palmer-the-teacher` | have (PG 36774) |
+| The Field of Ethics (Houghton Mifflin, 1901) |  | `palmer-field-of-ethics-1901` | have-raw (IA `thefieldofethics00palmuoft`) |
+| The Problem of Freedom (Houghton Mifflin, 1911) |  | `palmer-problem-of-freedom-1911` | have-raw (IA `in.ernet.dli.2015.202828`) |
 
 ## George Stuart Fullerton (Pennsylvania realism)
 
