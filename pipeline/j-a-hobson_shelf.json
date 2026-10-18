@@ -1,0 +1,58 @@
+{
+ "_about": "J. A. Hobson (1858-1940), English economist: Problems of Poverty (first published 1891; the etext is the sixth edition, 1906), The Evolution of Modern Capitalism (London: Walter Scott; New York: Scribner, the 1902 edition as the etext reads), and The Morals of Economic Internationalism (Boston and New York: Houghton Mifflin, copyright 1920), clean Gutenberg texts. US public domain (all published before 1931). No uids minted.",
+ "_author": "J. A. Hobson",
+ "_name_words": [
+  "john",
+  "atkinson",
+  "hobson"
+ ],
+ "_surname": [
+  "hobson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hobson-problems-of-poverty-1906": [
+   10710,
+   "Problems of Poverty, sixth edition (1906)"
+  ],
+  "hobson-evolution-of-modern-capitalism-1902": [
+   28284,
+   "The Evolution of Modern Capitalism (1902 edition)"
+  ],
+  "hobson-morals-economic-internationalism-1920": [
+   29881,
+   "The Morals of Economic Internationalism (Houghton Mifflin, 1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hobson-problems-of-poverty-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hobson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hobson-evolution-of-modern-capitalism-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hobson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hobson-morals-economic-internationalism-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hobson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
