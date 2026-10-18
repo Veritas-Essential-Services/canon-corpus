@@ -5556,6 +5556,7 @@ Shelf: `pipeline/jean-baptiste-say_shelf.json`. Prinsep's translation in Biddle'
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Treatise on Political Economy, tr. C. R. Prinsep, ed. Clement C. Biddle (Philadelphia: Lippincott, 1857) | Prinsep | `say-prinsep-treatise-1857` | have-raw (IA `treatiseonpoliti00sayjrich`) |
+| Catechism of Political Economy, tr. John Richter (Philadelphia: Carey, 1817) | John Richter | `say-catechism-political-economy-1817` | have-raw (IA `catechismofpolit00sayj`) |
 
 ## Friedrich List (political economy)
 

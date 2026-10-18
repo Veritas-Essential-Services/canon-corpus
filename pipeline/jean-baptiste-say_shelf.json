@@ -1,5 +1,5 @@
 {
- "_about": "Jean-Baptiste Say (1767-1832): A Treatise on Political Economy, or the production, distribution and consumption of wealth, translated from the fourth French edition by C. R. Prinsep with the translator's notes, new American edition with a translation of the introduction and additional notes by Clement C. Biddle (Philadelphia: J. B. Lippincott, 1857), one volume, raw IA OCR, clean 0.94. US public domain. No uids minted.",
+ "_about": "Jean-Baptiste Say (1767-1832): A Treatise on Political Economy, or the production, distribution and consumption of wealth, translated from the fourth French edition by C. R. Prinsep with the translator's notes, new American edition with a translation of the introduction and additional notes by Clement C. Biddle (Philadelphia: J. B. Lippincott, 1857), one volume, raw IA OCR, clean 0.94. US public domain. Added in round 2026-10-17bs: Catechism of Political Economy, or Familiar Conversations, translated from the French by John Richter (Philadelphia: M. Carey and Son, 1817), clean 0.90. No uids minted.",
  "_author": "Jean-Baptiste Say",
  "_name_words": [
   "jean",
@@ -16,11 +16,17 @@
    "treatiseonpoliti00sayjrich",
    "A Treatise on Political Economy, tr. C. R. Prinsep, ed. Clement C. Biddle (Philadelphia: Lippincott, 1857)",
    "C. R. Prinsep"
+  ],
+  "say-catechism-political-economy-1817": [
+   "catechismofpolit00sayj",
+   "Catechism of Political Economy, tr. John Richter (Philadelphia: Carey, 1817)",
+   "tr. John Richter"
   ]
  },
  "_excluded": {},
  "_translators": {
-  "say-prinsep-treatise-1857": "Prinsep"
+  "say-prinsep-treatise-1857": "Prinsep",
+  "say-catechism-political-economy-1817": "richter"
  },
  "_checks": {
   "say-prinsep-treatise-1857": {
@@ -33,6 +39,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1859",
    "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "say-catechism-political-economy-1817": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "say",
+   "translator_claimed": "richter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
