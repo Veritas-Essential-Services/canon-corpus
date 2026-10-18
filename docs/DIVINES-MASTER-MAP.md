@@ -7666,6 +7666,19 @@ Slugs `duff-*`. Built from title pages read for round 33.
 | The Indian Rebellion: its Causes and Results (New York: Robert Carter, 1858) | have-ocr | IA `indianrebellioni00duffuoft` |
 | Foreign Missions (1866); the third-person reports of his 1837 and 1855 speeches; the 1840 India and India Missions | alternate | not shelved |
 | Caleb Wright's Lectures on India; other Duffs | excluded | |
+
+## James Chalmers of New Guinea (round 33, my pick, 2026-10-18)
+
+Slugs `jchalmers-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Adventures in New Guinea (London: Religious Tract Society, 1886) | have-clean | Gutenberg 17694 |
+| Work and Adventure in New Guinea 1877 to 1885, by James Chalmers and W. Wyatt Gill (London: The Religious Tract Society, 1885) | have-ocr | IA `workadventureinn00chal` |
+| Pioneering in New Guinea (London: The Religious Tract Society, 1887) | have-ocr | IA `pioneeringinnew01chalgoog` |
+| Pioneering in New Guinea 1877-1894 (New York: Fleming H. Revell; title page undated, catalogued 1895) | have-ocr | IA `pioneeringinnewg00chal` |
+| Other 1885 and 1887 copies | alternate | not shelved |
+| Undated reissues with a posthumous editor's preface; lives by Robson, Lennox, Lovett and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
