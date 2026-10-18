@@ -1,0 +1,132 @@
+{
+ "_about": "Sir Leslie Stephen (1832-1904) as historian of thought and moralist. Raw IA OCR: History of English Thought in the Eighteenth Century (London: Smith, Elder, 1876, 2 vols.), The Science of Ethics (New York: Putnam, 1882) and The English Utilitarians vol. III, John Stuart Mill (New York: Putnam; London: Duckworth, 1902). Clean Gutenberg texts: The English Utilitarians vols. I-II (London: Duckworth, 1900) and Social Rights and Duties, addresses to ethical societies (London: Swan Sonnenschein, 1896, 2 vols.). His literary biographies and essays are not taken here. US public domain. No uids minted.",
+ "_author": "Leslie Stephen",
+ "_name_words": [
+  "leslie",
+  "stephen"
+ ],
+ "_surname": [
+  "stephen",
+  "leslie stephen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stephen-english-utilitarians-1900-v1": [
+   27597,
+   "The English Utilitarians, vol. I: Jeremy Bentham (London: Duckworth, 1900)"
+  ],
+  "stephen-english-utilitarians-1900-v2": [
+   25788,
+   "The English Utilitarians, vol. II: James Mill (London: Duckworth, 1900)"
+  ],
+  "stephen-social-rights-and-duties-1896-v1": [
+   28901,
+   "Social Rights and Duties, vol. I (London: Swan Sonnenschein, 1896)"
+  ],
+  "stephen-social-rights-and-duties-1896-v2": [
+   36957,
+   "Social Rights and Duties, vol. II (London: Swan Sonnenschein, 1896)"
+  ]
+ },
+ "internet_archive": {
+  "stephen-english-thought-18th-century-1876-v1": [
+   "historyofenglish01stepuoft",
+   "History of English Thought in the Eighteenth Century, vol. I (London: Smith, Elder, 1876)"
+  ],
+  "stephen-english-thought-18th-century-1876-v2": [
+   "historyofenglish02stepuoft",
+   "History of English Thought in the Eighteenth Century, vol. II (London: Smith, Elder, 1876)"
+  ],
+  "stephen-science-of-ethics-1882": [
+   "thescienceofethi00stepuoft",
+   "The Science of Ethics (New York: Putnam, 1882)"
+  ],
+  "stephen-english-utilitarians-1902-v3": [
+   "cu31924092293400",
+   "The English Utilitarians, vol. III: John Stuart Mill (New York: Putnam; London: Duckworth, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stephen-english-utilitarians-1900-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-english-utilitarians-1900-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-social-rights-and-duties-1896-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-social-rights-and-duties-1896-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephen-english-thought-18th-century-1876-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stephen-english-thought-18th-century-1876-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stephen-science-of-ethics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stephen-english-utilitarians-1902-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
