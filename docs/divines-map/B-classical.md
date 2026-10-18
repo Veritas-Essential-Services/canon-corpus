@@ -7129,6 +7129,10 @@ Shelf: `pipeline/warner-fite_shelf.json`. Four books, 1903-1930.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Introductory Study of Ethics (Longmans, 1903) |  | `fite-introductory-study-of-ethics-1903` | have-raw (IA `introductorystud00fit`) |
+| Individualism (Longmans, 1911) |  | `fite-individualism-1911` | have-raw (IA `cu31924032444485`) |
+| Moral Philosophy (Dial Press, 1925) |  | `fite-moral-philosophy-1925` | have-raw (IA `moralphilosophyc0000warn`) |
+| The Living Mind (Dial Press, 1930) |  | `fite-living-mind-1930` | have-raw (IA `livingmindessays00fite`) |
 
 ## Perseus census (overflow)
 
