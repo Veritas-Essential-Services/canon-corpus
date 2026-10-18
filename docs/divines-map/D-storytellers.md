@@ -7120,6 +7120,35 @@ Shelf: `pipeline/mary-roberts-rinehart_shelf.json` (2026-10-17; added at the coo
 | Temperamental people | have | PG 79161, `mrrinehart-temperamental-people` (3170 units) |
 | pg-2019 | excluded | PG 2019 The Bat: Stephen Vincent Benet's novelization of the Rinehart-Hopwood play, prose by another hand. |
 
+## J. S. Fletcher
+
+Shelf: `pipeline/js-fletcher_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Detective novels and Yorkshire stories. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Paradise Mystery | have | PG 5308, `jsfletcher-paradise-mystery` (1698 units) |
+| The Orange-Yellow Diamond | have | PG 9297, `jsfletcher-orange-yellow-diamond` (1740 units) |
+| Scarhaven Keep | have | PG 9807, `jsfletcher-scarhaven-keep` (1545 units) |
+| The Talleyrand Maxim | have | PG 9834, `jsfletcher-talleyrand-maxim` (1551 units) |
+| The Middle of Things | have | PG 9902, `jsfletcher-middle-of-things` (1836 units) |
+| The Middle Temple Murder | have | PG 10373, `jsfletcher-middle-temple-murder` (2144 units) |
+| The Rayner-Slade Amalgamation | have | PG 10443, `jsfletcher-rayner-slade-amalgamation` (1598 units) |
+| Dead Men's Money | have | PG 12239, `jsfletcher-dead-mens-money` (1385 units) |
+| The Borough Treasurer | have | PG 20630, `jsfletcher-borough-treasurer` (1688 units) |
+| The Herapath Property | have | PG 25388, `jsfletcher-herapath-property` (1825 units) |
+| In the Mayor's Parlour | have | PG 25424, `jsfletcher-in-the-mayors-parlour` (2151 units) |
+| Ravensdene Court | have | PG 26324, `jsfletcher-ravensdene-court` (1534 units) |
+| The Chestermarke Instinct | have | PG 27965, `jsfletcher-chestermarke-instinct` (1755 units) |
+| In the Days of  Drake | have | PG 29304, `jsfletcher-in-the-days-of-drake` (750 units) |
+| The Root of All Evil | have | PG 40603, `jsfletcher-root-of-all-evil` (1309 units) |
+| Mr. Poskitt's Nightcaps: Stories of a Yorkshire Farmer | have | PG 45685, `jsfletcher-mr-poskitts-nightcaps` (1020 units) |
+| Baden-Powell of Mafeking | have | PG 53696, `jsfletcher-baden-powell-of-mafeking` (309 units) |
+| Lucian the dreamer | have | PG 55484, `jsfletcher-lucian-the-dreamer` (1291 units) |
+| The Markenmore Mystery | have | PG 59818, `jsfletcher-markenmore-mystery` (2256 units) |
+| The Charing Cross Mystery | have | PG 59893, `jsfletcher-charing-cross-mystery` (1773 units) |
+| The copper box | have | PG 73344, `jsfletcher-copper-box` (996 units) |
+| The wolves and the lamb | have | PG 79012, `jsfletcher-wolves-and-the-lamb` (2184 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
