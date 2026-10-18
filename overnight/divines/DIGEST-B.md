@@ -258,3 +258,4 @@
 - 21:17 round bn: 6 new shelves (Whately, Hinton, Schurman, James Seth, Tappan, Marsh). Oswald held on OCR quality; Whately's theology left for lane A.
 - 21:21 round bo: 8 new shelves (Hibben, Creighton, Thilly, McDougall, Montague, Spaulding, Sheldon, Sturt).
 - 21:25 round bp: 6 new shelves (Whichcote, John Smith, Culverwel, Digby, Collier, Peter Browne). Filmer held on OCR quality.
+- 21:29 round bq: 5 new shelves (Frederic Harrison, Congreve, Balfour, Figgis, Barker).

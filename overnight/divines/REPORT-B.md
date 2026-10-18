@@ -1242,3 +1242,9 @@
 - John Smith: Select Discourses 1859; Culverwel: Light of Nature 1857
 - Digby: Two Treatises 1645; Collier: Clavis Universalis (Parr 1837); Browne: Procedure of Human Understanding 1728
 - Held: Filmer's Patriarcha (OCR too poor), Whichcote Works vol. II
+
+## 2026-10-17 21:29 CDT — Round bq: Harrison, Congreve, Balfour, Figgis, Barker
+- Harrison: Order and Progress, New Calendar of Great Men, Meaning of History, Philosophy of Common Sense, Creed of a Layman, National and Social Problems, Early Victorian Literature
+- Congreve: Essays (3 vols), Roman Empire of the West
+- Balfour: Defence of Philosophic Doubt, Foundations of Belief, Theism and Humanism, Theism and Thought, Decadence
+- Figgis: Divine Right of Kings, Gerson to Grotius, Civilisation at the Cross Roads, Will to Freedom; Barker: Plato and Aristotle 1906, Greek Political Theory 1918
