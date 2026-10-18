@@ -1702,3 +1702,6 @@
 
 ## 2026-10-17 22:09 CDT — sir-robert-anderson done
 - `pipeline/sir-robert-anderson_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for randerson-coming-prince-6 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — evan-h-hopkins done
+- `pipeline/evan-h-hopkins_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for ehhopkins-thoughts-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

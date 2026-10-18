@@ -8186,3 +8186,14 @@ Slugs `randerson-*`. Built from title pages read for round 34.
 | The Bible and Modern Criticism, with a preface by Handley C. G. Moule, fifth edition (London: Hodder and Stoughton, 1905) | have-ocr | IA `biblemoderncrit00andeuoft` |
 | Human Destiny (Toronto: Willard Tract Depository, 1886); Gospel and its Ministry sixth edition; Silence of God seventh edition (1905) and other 1897 copies; Pseudo-Criticism (Revell, copyright 1904); the undated seventh-edition Bible and Modern Criticism | alternate | not shelved |
 | The undated eleventh-edition Coming Prince (Pickering & Inglis, E.C.4, 1917 or later, possibly after 1929); the 1954 and Kregel reprints | excluded | |
+
+## Evan H. Hopkins (round 34, my pick, 2026-10-18)
+
+Slugs `ehhopkins-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoughts on Life and Godliness (London: Hodder & Stoughton, 1878) | have-ocr | IA `thoughtsonlifea00hopkgoog` |
+| The Walk that Pleases God, sixth edition (London: Marshall Brothers, 1895) | have-ocr | IA `walkthatpleasesg00hopk` |
+| Thoughts on Life and Godliness second edition (1883); Hidden, Yet Possessed (Keswick Library, which he edited, undated) | alternate | not shelved |
+| PG 7786 (Louisa Clayton's book, his foreword only); 1942 and 1991 reprints; Smellie's memoir of him | excluded | |
