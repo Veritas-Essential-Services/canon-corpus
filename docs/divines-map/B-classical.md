@@ -7061,6 +7061,11 @@ Shelf: `pipeline/clement-webb_shelf.json`. Five books, 1911-1926.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Problems in the Relations of God and Man (Nisbet, 1911) |  | `webb-problems-relations-god-and-man-1911` | have-raw (IA `problemsinrelati00webbrich`) |
+| Group Theories of Religion and the Individual (Allen and Unwin, 1916) |  | `webb-group-theories-of-religion-1916` | have-raw (IA `grouptheoriesofr00webbuoft`) |
+| God and Personality (Allen and Unwin, 1919; reprint 1920) |  | `webb-god-and-personality-1920` | have-raw (IA `godandpersonalit00webbuoft`) |
+| Divine Personality and Human Life (Allen and Unwin, 1920) |  | `webb-divine-personality-and-human-life-1920` | have-raw (IA `divinepersonalit00webb`) |
+| Kant's Philosophy of Religion (Clarendon, 1926) |  | `webb-kants-philosophy-of-religion-1926` | have-raw (IA `kantsphilosophyo0000webb`) |
 
 Pending (wishlist): A History of Philosophy (Home University Library) in a scan that prints its year
 
