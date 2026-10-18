@@ -1307,3 +1307,9 @@
 - New shelf samuel-butler (13): Life and Habit, Evolution Old and New, Unconscious Memory, Luck or Cunning, the Note-Books, the Homer essays and more
 - Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8
 - Checked earlier rulings first: Dewey's Child and the Curriculum and Public and its Problems stay held (post-1930 printings); Green's political lectures are inside his Works; Butler's Iliad is in the Perseus build
+
+## 2026-10-17 22:29 CDT — Round cb: second gap sweep
+- Laski +2 (Political Thought now dated by its Gutenberg text; Liberty in the Modern State 1930, rights checked), Lloyd Morgan +2 (Animal Life and Intelligence no longer held), Romanes +3, Fiske +4, Sorley +2, Dicey +2, Lewes +1
+- Excluded: More's Dialogue of Comfort on Gutenberg is a 1951 modernisation
+- Still held after checking Gutenberg: Whitehead's Introduction to Mathematics and Boole's logic (PDF or TeX only), Principia Mathematica (Gutenberg text is a stub)
+- Earlier rulings respected: Tyndall's physics, Kropotkin's memoirs, Mandeville's facsimile etexts, Henry Adams's History, Erasmus Darwin's verse

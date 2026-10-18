@@ -13242,6 +13242,10 @@ Shelf: `pipeline/john-fiske-philosophy_shelf.json`. Outlines of Cosmic Philosoph
 | Outlines of Cosmic Philosophy, vol. I (Boston: James R. Osgood, 1875) |  | `fiske-outlines-of-cosmic-philosophy-1875-v1` | have-raw (IA `outlinesofcosmic01fisk_1`) |
 | Outlines of Cosmic Philosophy, vol. II (London: Macmillan, 1874) |  | `fiske-outlines-of-cosmic-philosophy-1874-v2` | have-raw (IA `outlinescosmicp02unkngoog`) |
 | The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890) |  | `fiske-destiny-of-man-1890` | have-raw (IA `thedestinyofmanv00fiskuoft`) |
+| Myths and Myth-Makers (1872) |  | `fiske-myths-and-myth-makers` | have (PG 1061) |
+| American Political Ideas (1885) |  | `fiske-american-political-ideas` | have (PG 10112) |
+| Civil Government in the United States (1890) |  | `fiske-civil-government` | have (PG 11276) |
+| The Meaning of Infancy (Riverside Educational Monographs; essays of 1883 and later) |  | `fiske-meaning-of-infancy` | have (PG 12359) |
 
 ## Noah Porter
 
@@ -13339,6 +13343,8 @@ Shelf: `pipeline/w-r-sorley_shelf.json`. Moral Values and the Idea of God (1918)
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Moral Values and the Idea of God (Cambridge, 1918) |  | `sorley-moral-values-and-the-idea-of-god-1918` | have-raw (IA `moralvaluesandth00sorluoft`) |
+| On the Ethics of Naturalism (1885) |  | `sorley-ethics-of-naturalism` | have (PG 48027) |
+| Recent Tendencies in Ethics (1904) |  | `sorley-recent-tendencies-in-ethics` | have (PG 12492) |
 
 ## F. C. S. Schiller
 
@@ -13521,6 +13527,7 @@ Shelf: `pipeline/george-henry-lewes_shelf.json`. History of philosophy and the p
 | Problems of Life and Mind, first series: The Foundations of a Creed, vol. I (London: Trubner, 1874) |  | `lewes-problems-of-life-and-mind-1874-v1` | have-raw (IA `problemsoflifemi01leweiala`) |
 | Problems of Life and Mind, first series: The Foundations of a Creed, vol. II (London: Trubner, 1876) |  | `lewes-problems-of-life-and-mind-1876-v2` | have-raw (IA `problemslifeand06lewegoog`) |
 | Comte's Philosophy of the Sciences, Bohn's Scientific Library (London: Henry G. Bohn, 1853) |  | `lewes-comtes-philosophy-of-the-sciences-1853` | have-raw (IA `comtesphilosophy00leweuoft`) |
+| The Principles of Success in Literature (1865) |  | `lewes-principles-of-success-in-literature` | have (PG 10420) |
 
 Pending (wishlist): a matched pair of the History
 
@@ -14554,6 +14561,8 @@ Shelf: `pipeline/a-v-dicey_shelf.json`. Law of the Constitution (4th ed., 1893) 
 |---|---|---|---|
 | Introduction to the Study of the Law of the Constitution, fourth edition (Macmillan, 1893) |  | `dicey-law-of-the-constitution-4th-1893` | have-raw (IA `introductiontos00dicegoog`) |
 | Lectures on the Relation between Law and Public Opinion in England (Macmillan, 1905) |  | `dicey-law-and-public-opinion-1905` | have-raw (IA `lecturesonrelat01dicegoog`) |
+| England's Case Against Home Rule (1886) |  | `dicey-englands-case-against-home-rule` | have (PG 14886) |
+| A Leap in the Dark (1893) |  | `dicey-leap-in-the-dark` | have (PG 15572) |
 
 ## Harold J. Laski (pluralist political theory)
 
@@ -14564,8 +14573,10 @@ Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thoug
 | Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
 | The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
 | Studies in the Problem of Sovereignty (Yale, 1917) |  | `laski-problem-of-sovereignty-1917` | have-raw (IA `studiesinproblem00laskuoft`) |
+| Political Thought in England from Locke to Bentham (Home University Library, 1920) |  | `laski-political-thought-locke-to-bentham` | have (PG 14735) |
+| Liberty in the Modern State (Harper, 1930) |  | `laski-liberty-in-the-modern-state` | have (PG 78171) |
 
-Pending (wishlist): A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
+Pending (wishlist): A Grammar of Politics (1925)
 
 ## Arthur O. Lovejoy (history of ideas)
 
@@ -14735,6 +14746,9 @@ Shelf: `pipeline/george-romanes_shelf.json`. George John Romanes (1848-1894). Me
 | Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906) |  | `romanes-darwin-after-darwin-v3` | have (PG 37777) |
 | Mind and Motion and Monism (Longmans, 1895) |  | `romanes-mind-motion-monism-1895` | have (PG 22283) |
 | Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904) |  | `romanes-thoughts-on-religion-1895` | have (PG 16942) |
+| The Scientific Evidences of Organic Evolution (1882) |  | `romanes-scientific-evidences-organic-evolution` | have (PG 19922) |
+| Animal Intelligence (International Scientific Series, 1882) |  | `romanes-animal-intelligence` | have (PG 40459) |
+| An Examination of Weismannism (1893) |  | `romanes-examination-of-weismannism` | have (PG 49458) |
 
 Pending (wishlist): A Candid Examination of Theism (1878; PG 19003 would not download)
 
@@ -15024,8 +15038,9 @@ Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Compar
 | An Introduction to Comparative Psychology (Walter Scott, 1894) |  | `lloyd-morgan-comparative-psychology-1894` | have-raw (IA `introductiontoco00morg`) |
 | Emergent Evolution (1923; Holt printing 1928) |  | `lloyd-morgan-emergent-evolution-1923` | have-raw (IA `emergentevolutio0000morg`) |
 | Life, Mind, and Spirit (Holt, 1925) |  | `lloyd-morgan-life-mind-spirit-1925` | have-raw (IA `20191004lifemindandspirit`) |
+| Animal Life and Intelligence (1890-91) |  | `lloyd-morgan-animal-life-and-intelligence` | have (PG 49818) |
+| Spencer's Philosophy of Science (Herbert Spencer Lecture, 1913) |  | `lloyd-morgan-spencers-philosophy-of-science` | have (PG 37513) |
 
-Pending (wishlist): Animal Life and Intelligence (1890) with a legible title page
 
 ## John Laird (realism)
 

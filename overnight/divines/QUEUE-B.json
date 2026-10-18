@@ -1812,6 +1812,14 @@
    "started": "2026-10-17T22:21:37-05:00",
    "finished": "2026-10-17T22:24:55-05:00",
    "notes": "1 new shelf (13) and 15 rows on 4 shelves"
+  },
+  {
+   "id": "2026-10-18cb",
+   "status": "done",
+   "scope": "Second gap sweep: lane B author shelves against unheld Gutenberg works, each checked for an earlier ruling",
+   "started": "2026-10-17T22:24:55-05:00",
+   "finished": "2026-10-17T22:29:04-05:00",
+   "notes": "16 rows on 7 shelves; 1 exclusion recorded"
   }
  ]
 }
