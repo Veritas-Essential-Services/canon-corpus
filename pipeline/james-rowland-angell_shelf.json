@@ -1,0 +1,66 @@
+{
+ "_about": "James Rowland Angell (1869-1949), Chicago functionalist psychologist, later president of Yale. Not Norman Angell (shelf norman-angell). Raw IA OCR: Psychology, an introductory study of the structure and function of human consciousness, 4th edition revised (New York: Henry Holt, 1908); Chapters from Modern Psychology, Ichabod Spencer lectures at Union College, 1911 (Longmans, copyright 1912, this the new impression of May 1913); An Introduction to Psychology (Holt, 1918). US public domain. No uids minted.",
+ "_author": "James Rowland Angell",
+ "_name_words": [
+  "james",
+  "rowland",
+  "angell"
+ ],
+ "_surname": [
+  "angell",
+  "james r. angell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "angell-psychology-1908": [
+   "psychology00angegoog",
+   "Psychology, 4th ed. revised (Holt, 1908)"
+  ],
+  "angell-chapters-from-modern-psychology-1912": [
+   "chaptersfrommode00ange",
+   "Chapters from Modern Psychology (Longmans, 1912; impression of 1913)"
+  ],
+  "angell-introduction-to-psychology-1918": [
+   "introductiontops00ange",
+   "An Introduction to Psychology (Holt, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "angell-psychology-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "angell-chapters-from-modern-psychology-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "angell-introduction-to-psychology-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -5158,7 +5158,7 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 
 ## C. I. Lewis
 
-Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic; only the 1918 Survey is before 1931.
+Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic and theory of knowledge; the 1918 Survey and Mind and the World-Order (1929) are before 1931.
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
@@ -7789,6 +7789,104 @@ Shelf: `pipeline/susan-stebbing_shelf.json`. One book, 1914.
 | Pragmatism and French Voluntarism (Cambridge, 1914) |  | `stebbing-pragmatism-and-french-voluntarism-1914` | have-raw (IA `pragmatismfrench00stebrich`) |
 
 Pending (wishlist): A Modern Introduction to Logic (1930; only an undated Crowell printing found).
+
+## James Rowland Angell (functional psychology)
+
+Shelf: `pipeline/james-rowland-angell_shelf.json`. Three books, 1908-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Psychology, 4th ed. revised (Holt, 1908) |  | `angell-psychology-1908` | have-raw (IA `psychology00angegoog`) |
+| Chapters from Modern Psychology (Longmans, 1912; impression of 1913) |  | `angell-chapters-from-modern-psychology-1912` | have-raw (IA `chaptersfrommode00ange`) |
+| An Introduction to Psychology (Holt, 1918) |  | `angell-introduction-to-psychology-1918` | have-raw (IA `introductiontops00ange`) |
+
+## Joseph Jastrow (experimental psychology)
+
+Shelf: `pipeline/joseph-jastrow_shelf.json`. Six books, 1890-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Edward L. Thorndike (psychology of learning)
+
+Shelf: `pipeline/edward-l-thorndike_shelf.json`. Five volumes, 1907-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Educational Psychology vol. III (1914).
+
+## Addison Webster Moore (Chicago pragmatism)
+
+Shelf: `pipeline/addison-webster-moore_shelf.json`. Two books, 1902-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Existence, Meaning, and Reality (1903 offprint; no dated scan).
+
+## Horace M. Kallen (pragmatism and cultural pluralism)
+
+Shelf: `pipeline/horace-kallen_shelf.json`. Five books, 1914-1927.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Hartley Burr Alexander (philosophy and culture)
+
+Shelf: `pipeline/hartley-burr-alexander_shelf.json`. Three books, 1919-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Max Otto (pragmatic humanism)
+
+Shelf: `pipeline/max-otto_shelf.json`. Two books, 1924-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Christine Ladd-Franklin (logic and colour vision)
+
+Shelf: `pipeline/christine-ladd-franklin_shelf.json`. One book, 1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## James Hayden Tufts (social ethics)
+
+Shelf: `pipeline/james-hayden-tufts_shelf.json`. Two books, 1917-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Boyd H. Bode (pragmatist philosophy of education)
+
+Shelf: `pipeline/boyd-h-bode_shelf.json`. Four books, 1910-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Charles M. Bakewell (ancient philosophy source book)
+
+Shelf: `pipeline/charles-m-bakewell_shelf.json`. One book, 1907.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Robert S. Woodworth (dynamic psychology)
+
+Shelf: `pipeline/robert-s-woodworth_shelf.json`. Two books, 1918-1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Charles Hubbard Judd (psychology of education)
+
+Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
