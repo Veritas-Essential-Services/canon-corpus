@@ -1,5 +1,5 @@
 {
- "_about": "Walter Bagehot (1826-1877) as political thinker, clean Gutenberg texts: Physics and Politics, or thoughts on the application of the principles of natural selection and inheritance to political society (the new and cheaper edition; year not printed in the etext) and The English Constitution, 2nd ed. (printing not named). Lombard Street and the literary studies are not taken here. US public domain. No uids minted.",
+ "_about": "Walter Bagehot (1826-1877) as political thinker, clean Gutenberg texts: Physics and Politics, or thoughts on the application of the principles of natural selection and inheritance to political society (the new and cheaper edition; year not printed in the etext) and The English Constitution, 2nd ed. (printing not named). Added in round av 2026-10-17: Lombard Street, a description of the money market (1873; the etext names no printing), and Literary Studies, 2 vols., edited with a memoir by Richard Holt Hutton, fourth edition (London: Longmans, 1891, as the etext reads). US public domain. No uids minted.",
  "_author": "Walter Bagehot",
  "_name_words": [
   "walter",
@@ -17,6 +17,18 @@
   "bagehot-english-constitution-2nd-ed": [
    4351,
    "The English Constitution, 2nd ed. (printing not named)"
+  ],
+  "bagehot-lombard-street": [
+   4359,
+   "Lombard Street: A Description of the Money Market (1873; printing not named)"
+  ],
+  "bagehot-literary-studies-v1": [
+   78449,
+   "Literary Studies, vol. I, ed. R. H. Hutton, fourth edition (London, 1891)"
+  ],
+  "bagehot-literary-studies-v2": [
+   78450,
+   "Literary Studies, vol. II, ed. R. H. Hutton, fourth edition (London, 1891)"
   ]
  },
  "internet_archive": {},
@@ -32,6 +44,33 @@
    "pg_translator": null
   },
   "bagehot-english-constitution-2nd-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bagehot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bagehot-lombard-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bagehot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bagehot-literary-studies-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bagehot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bagehot-literary-studies-v2": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",

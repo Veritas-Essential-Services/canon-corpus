@@ -5276,6 +5276,9 @@ Shelf: `pipeline/walter-bagehot_shelf.json`. Political thought.
 |---|---|---|---|
 | Physics and Politics, new and cheaper edition (year not printed) |  | `bagehot-physics-and-politics` | have (PG 4350) |
 | The English Constitution, 2nd ed. (printing not named) |  | `bagehot-english-constitution-2nd-ed` | have (PG 4351) |
+| Lombard Street: A Description of the Money Market (1873; printing not named) |  | `bagehot-lombard-street` | have (PG 4359) |
+| Literary Studies, vol. I, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v1` | have (PG 78449) |
+| Literary Studies, vol. II, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v2` | have (PG 78450) |
 
 ## Thomas Henry Huxley
 
