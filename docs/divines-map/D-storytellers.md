@@ -10726,6 +10726,55 @@ Shelf: `pipeline/borrow-works_shelf.json` (2026-10-17; added at the coordinator'
 | pg-18400 | excluded | PG 18400 Isopel Berners: an episode extracted from Lavengro (ed. Seccombe); the shelf holds the whole book. |
 | pg-22877 | excluded | PG 22877 Lavengro (ed. Groome): a second edition of PG 452. |
 
+## Richard Harding Davis
+
+Shelf: `pipeline/richard-harding-davis_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (42 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Princess Aline | have | PG 327, `rhdavis-princess-aline` (429 units) |
+| Episodes in Van Bibber's Life | have | PG 334, `rhdavis-episodes-in-van-bibbers-life` (192 units) |
+| The Scarlet Car | have | PG 358, `rhdavis-scarlet-car` (723 units) |
+| Adventures and Letters of Richard Harding Davis | have | PG 405, `rhdavis-adventures-and-letters-of-richard-harding-davis` (1310 units) |
+| The Reporter Who Made Himself King | have | PG 407, `rhdavis-reporter-who-made-himself-king` (312 units) |
+| The King's Jackal | have | PG 411, `rhdavis-kings-jackal` (473 units) |
+| The Lion and the Unicorn | have | PG 1620, `rhdavis-lion-and-the-unicorn` (671 units) |
+| Miss Civilization: A Comedy in One Act | have | PG 1742, `rhdavis-miss-civilization` (265 units) |
+| My Buried Treasure | have | PG 1761, `rhdavis-my-buried-treasure` (151 units) |
+| The Consul | have | PG 1762, `rhdavis-consul` (168 units) |
+| Billy and the Big Stick | have | PG 1764, `rhdavis-billy-and-the-big-stick` (208 units) |
+| The Lost House | have | PG 1807, `rhdavis-lost-house` (410 units) |
+| The Log of the "Jolly Polly" | have | PG 1808, `rhdavis-log-of-the-jolly-polly` (225 units) |
+| The Messengers | have | PG 1819, `rhdavis-messengers` (84 units) |
+| The Make-Believe Man | have | PG 1823, `rhdavis-make-believe-man` (257 units) |
+| Peace Manoeuvres | have | PG 1824, `rhdavis-peace-manoeuvres` (211 units) |
+| The Lost Road | have | PG 2283, `rhdavis-lost-road` (1606 units) |
+| Real Soldiers of Fortune | have | PG 3029, `rhdavis-real-soldiers-of-fortune` (589 units) |
+| Notes of a War Correspondent | have | PG 3050, `rhdavis-notes-of-a-war-correspondent` (475 units) |
+| Ranson's Folly | have | PG 5643, `rhdavis-ransons-folly` (1343 units) |
+| Gallegher and Other Stories | have | PG 5956, `rhdavis-gallegher-and-other-stories` (660 units) |
+| Captain Macklin: His Memoirs | have | PG 6015, `rhdavis-captain-macklin` (1165 units) |
+| In the Fog | have | PG 7884, `rhdavis-in-the-fog` (345 units) |
+| Cuba in War Time | have | PG 8380, `rhdavis-cuba-in-war-time` (261 units) |
+| Van Bibber and Others | have | PG 11019, `rhdavis-van-bibber-and-others` (685 units) |
+| Somewhere in France | have | PG 11144, `rhdavis-somewhere-in-france` (1071 units) |
+| With the Allies | have | PG 11730, `rhdavis-with-the-allies` (415 units) |
+| The Congo and Coasts of Africa | have | PG 14297, `rhdavis-congo-and-coasts-of-africa` (355 units) |
+| The Deserter | have | PG 15089, `rhdavis-deserter` (114 units) |
+| The Exiles and Other Stories | have | PG 16090, `rhdavis-exiles-and-other-stories` (1160 units) |
+| Cinderella, and Other Stories | have | PG 16310, `rhdavis-cinderella-and-other-stories` (749 units) |
+| Once Upon A Time | have | PG 16908, `rhdavis-once-upon-a-time` (1306 units) |
+| The Boy Scout | have | PG 19501, `rhdavis-boy-scout` (174 units) |
+| The White Mice | have | PG 27232, `rhdavis-white-mice` (1515 units) |
+| With the French in France and Salonika | have | PG 30812, `rhdavis-with-the-french-in-france-and-salonika` (704 units) |
+| The Boy Scout and Other Stories for Boys | have | PG 30953, `rhdavis-boy-scout-and-other-stories-for-boys` (908 units) |
+| The Rulers of the Mediterranean | have | PG 39522, `rhdavis-rulers-of-the-mediterranean` (349 units) |
+| About Paris | have | PG 52706, `rhdavis-about-paris` (303 units) |
+| Stories for Boys | have | PG 67682, `rhdavis-stories-for-boys` (846 units) |
+| The West from a car window | have | PG 69118, `rhdavis-west-from-a-car-window` (370 units) |
+| Three gringos in Venezuela and Central America | have | PG 69354, `rhdavis-three-gringos-in-venezuela-and-central-america` (472 units) |
+| The scarlet car; The Princess Aline | have | PG 69715, `rhdavis-scarlet-car-69715` (1154 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
