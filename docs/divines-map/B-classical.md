@@ -7477,6 +7477,9 @@ Shelf: `pipeline/alfred-william-benn_shelf.json`. Three volumes, 1882-1912.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Greek Philosophers, vol. 1 (1882) |  | `benn-greek-philosophers-1` | have (PG 57126) |
+| The Greek Philosophers, vol. 2 (1882) |  | `benn-greek-philosophers-2` | have (PG 58224) |
+| History of Modern Philosophy (1912) |  | `benn-history-of-modern-philosophy` | have (PG 34283) |
 
 ## W. H. Mallock (against positivism and socialism)
 

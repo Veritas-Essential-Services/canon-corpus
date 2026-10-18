@@ -1,0 +1,58 @@
+{
+ "_about": "Alfred William Benn (1843-1915), English historian of philosophy and rationalist. Gutenberg: The Greek Philosophers, vol. 1 (1882); The Greek Philosophers, vol. 2 (1882); History of Modern Philosophy (1912). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Alfred William Benn",
+ "_name_words": [
+  "alfred",
+  "william",
+  "benn"
+ ],
+ "_surname": [
+  "benn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "benn-greek-philosophers-1": [
+   57126,
+   "The Greek Philosophers, vol. 1 (1882)"
+  ],
+  "benn-greek-philosophers-2": [
+   58224,
+   "The Greek Philosophers, vol. 2 (1882)"
+  ],
+  "benn-history-of-modern-philosophy": [
+   34283,
+   "History of Modern Philosophy (1912)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "benn-greek-philosophers-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "benn-greek-philosophers-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "benn-history-of-modern-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
