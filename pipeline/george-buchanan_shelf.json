@@ -1,0 +1,33 @@
+{
+ "_about": "George Buchanan (1506-1582), Scottish humanist: De Jure Regni apud Scotos, or a dialogue concerning the due privilege of government in the kingdom of Scotland, betwixt George Buchanan and Thomas Maitland, in an anonymous English version (London: Richard Baldwin, 1689; the OCR garbles the year), raw IA OCR, clean 0.92. Held: the 1799 English version, 'Dialogue concerning the rights of the crown of Scotland' (OCR 0.729). US public domain. No uids minted.",
+ "_author": "George Buchanan",
+ "_name_words": [
+  "george",
+  "buchanan"
+ ],
+ "_surname": [
+  "buchanan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buchanan-de-jure-regni-1689": [
+   "dejureregniapuds00buchuoft",
+   "De Jure Regni apud Scotos, a dialogue concerning the due privilege of government (London: Richard Baldwin, 1689)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "buchanan-de-jure-regni-1689": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

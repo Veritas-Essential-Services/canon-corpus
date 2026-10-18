@@ -5472,6 +5472,7 @@ Shelf: `pipeline/george-buchanan_shelf.json`. De Jure Regni apud Scotos in Engli
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| De Jure Regni apud Scotos, a dialogue concerning the due privilege of government (London: Richard Baldwin, 1689) |  | `buchanan-de-jure-regni-1689` | have-raw (IA `dejureregniapuds00buchuoft`) |
 
 ## John Millar
 
