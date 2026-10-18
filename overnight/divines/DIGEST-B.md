@@ -282,3 +282,4 @@
 - 23:13 cl: Henry Sidgwick +9
 - 23:17 cm: Alexander +1, Perry +3, Baldwin +5, Ladd +12
 - 23:23 cn: Ancient Classics for English Readers, 27 vols
+- 23:26 co: Philosophical Classics for English Readers, 14 vols

@@ -1377,3 +1377,8 @@
 - ancient-classics-for-english-readers (new series shelf): 27 vols 1870-1879, Homer to Pindar
 - Trollope's Caesar left on trollope-works
 - Aeschylus title check weak (printed Æschylus); author and imprint read on scan
+
+## 2026-10-17 23:26 CDT — Round co: Philosophical Classics for English Readers
+- philosophical-classics-for-english-readers (new series shelf): 14 vols 1880-1890, Descartes to Locke
+- Veitch's Hamilton left on john-veitch
+- identity overrides for OCR-garbled Caird, Merz, Fraser
