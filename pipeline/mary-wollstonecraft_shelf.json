@@ -1,5 +1,5 @@
 {
- "_about": "Mary Wollstonecraft (1759-1797) as author, clean Gutenberg texts: Thoughts on the Education of Daughters (London: J. Johnson, 1787), A Vindication of the Rights of Men, 2nd ed. (London: J. Johnson; the year is not printed in the etext, 1790 inferred), A Vindication of the Rights of Woman (the etext names no printing) and An Historical and Moral View of the French Revolution (London: J. Johnson, 1794). Her translations are on the separate wollstonecraft translator shelf. US public domain. No uids minted.",
+ "_about": "Mary Wollstonecraft (1759-1797) as author, clean Gutenberg texts: Thoughts on the Education of Daughters (London: J. Johnson, 1787), A Vindication of the Rights of Men, 2nd ed. (London: J. Johnson; the year is not printed in the etext, 1790 inferred), A Vindication of the Rights of Woman (the etext names no printing) and An Historical and Moral View of the French Revolution (London: J. Johnson, 1794). Her translations are on the separate wollstonecraft translator shelf. US public domain. Added in round 2026-10-18ca: the Letters from Sweden, Norway and Denmark (1796), the Posthumous Works edited by Godwin (1798) and the letters to Imlay, clean Gutenberg. Not taken: Gutenberg 26590, a second copy of the Rights of Woman; her fiction (Maria, Mary) and the Original Stories for children. No uids minted.",
  "_author": "Mary Wollstonecraft",
  "_name_words": [
   "mary",
@@ -25,6 +25,18 @@
   "wollstonecraft-french-revolution-1794": [
    68724,
    "An Historical and Moral View of the Origin and Progress of the French Revolution (London: J. Johnson, 1794)"
+  ],
+  "wollstonecraft-letters-from-sweden": [
+   3529,
+   "Letters Written During a Short Residence in Sweden, Norway, and Denmark (1796)"
+  ],
+  "wollstonecraft-posthumous-works": [
+   23233,
+   "Posthumous Works of the Author of A Vindication of the Rights of Woman (ed. William Godwin, 1798)"
+  ],
+  "wollstonecraft-love-letters-to-imlay": [
+   34413,
+   "The Love Letters of Mary Wollstonecraft to Gilbert Imlay"
   ]
  },
  "internet_archive": {},
@@ -32,7 +44,7 @@
  "_checks": {
   "wollstonecraft-education-of-daughters-1787": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "wollstonecraft",
    "identity": "ok",
@@ -41,7 +53,7 @@
   },
   "wollstonecraft-rights-of-men-2nd-ed": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "wollstonecraft",
    "identity": "ok",
@@ -50,7 +62,7 @@
   },
   "wollstonecraft-rights-of-woman": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "wollstonecraft",
    "identity": "ok",
@@ -59,7 +71,34 @@
   },
   "wollstonecraft-french-revolution-1794": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-letters-from-sweden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-posthumous-works": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-love-letters-to-imlay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "wollstonecraft",
    "identity": "ok",

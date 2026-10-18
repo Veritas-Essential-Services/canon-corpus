@@ -5052,6 +5052,9 @@ Shelf: `pipeline/mary-wollstonecraft_shelf.json`. Political and moral philosophy
 | A Vindication of the Rights of Men, in a letter to Edmund Burke, 2nd ed. (London: J. Johnson, 1790, inferred) |  | `wollstonecraft-rights-of-men-2nd-ed` | have (PG 62757) |
 | A Vindication of the Rights of Woman (printing not named) |  | `wollstonecraft-rights-of-woman` | have (PG 3420) |
 | An Historical and Moral View of the Origin and Progress of the French Revolution (London: J. Johnson, 1794) |  | `wollstonecraft-french-revolution-1794` | have (PG 68724) |
+| Letters Written During a Short Residence in Sweden, Norway, and Denmark (1796) |  | `wollstonecraft-letters-from-sweden` | have (PG 3529) |
+| Posthumous Works of the Author of A Vindication of the Rights of Woman (ed. William Godwin, 1798) |  | `wollstonecraft-posthumous-works` | have (PG 23233) |
+| The Love Letters of Mary Wollstonecraft to Gilbert Imlay |  | `wollstonecraft-love-letters-to-imlay` | have (PG 34413) |
 
 ## Sir James Mackintosh
 
