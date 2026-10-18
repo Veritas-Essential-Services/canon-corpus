@@ -9286,6 +9286,88 @@ Shelf: `pipeline/hgwells-works_shelf.json` (2026-10-17; added at the coordinator
 | held-elsewhere | excluded | PG 35, 36, 1013, 5230: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-52501 | excluded | PG 52501 The First Men in the Moon: a second edition; the reading-list hgwells shelf holds the novel. |
 
+## Arthur Conan Doyle
+
+Shelf: `pipeline/conan-doyle-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (71 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Poison Belt | have | PG 126, `cdoyle-poison-belt` (577 units) |
+| The Stark Munro Letters Being series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884 | have | PG 290, `cdoyle-stark-munro-letters-being-series-of-twelve-letters-wr` (977 units) |
+| The Captain of the Polestar, and Other Tales | have | PG 294, `cdoyle-captain-of-the-polestar-and-other-tales` (1065 units) |
+| The Parasite: A Story | have | PG 355, `cdoyle-parasite` (292 units) |
+| Beyond the City | have | PG 356, `cdoyle-beyond-the-city` (1053 units) |
+| Round the Red Lamp: Being Facts and Fancies of Medical Life | have | PG 423, `cdoyle-round-the-red-lamp` (1646 units) |
+| The Vital Message | have | PG 439, `cdoyle-vital-message` (137 units) |
+| Tales of Terror and Mystery | have | PG 537, `cdoyle-tales-of-terror-and-mystery` (1156 units) |
+| The New Revelation | have | PG 1638, `cdoyle-new-revelation` (96 units) |
+| The Adventures of Gerard | have | PG 1644, `cdoyle-adventures-of-gerard` (1251 units) |
+| The Adventure of Wisteria Lodge | have | PG 2343, `cdoyle-adventure-of-wisteria-lodge` (256 units) |
+| The Adventure of the Cardboard Box | have | PG 2344, `cdoyle-adventure-of-the-cardboard-box` (140 units) |
+| The Adventure of the Red Circle | have | PG 2345, `cdoyle-adventure-of-the-red-circle` (175 units) |
+| The Adventure of the Bruce-Partington Plans | have | PG 2346, `cdoyle-adventure-of-the-bruce-partington-plans` (310 units) |
+| The Adventure of the Dying Detective | have | PG 2347, `cdoyle-adventure-of-the-dying-detective` (190 units) |
+| The Disappearance of Lady Frances Carfax | have | PG 2348, `cdoyle-disappearance-of-lady-frances-carfax` (175 units) |
+| The Adventure of the Devil's Foot | have | PG 2349, `cdoyle-adventure-of-the-devils-foot` (171 units) |
+| His last bow | have | PG 2350, `cdoyle-his-last-bow` (1426 units) |
+| Sir Nigel | have | PG 2845, `cdoyle-sir-nigel` (2178 units) |
+| The Great Boer War | have | PG 3069, `cdoyle-great-boer-war` (1143 units) |
+| The Valley of Fear | have | PG 3289, `cdoyle-valley-of-fear` (1519 units) |
+| Songs of Action | have | PG 4295, `cdoyle-songs-of-action` (286 units) |
+| Rodney Stone | have | PG 5148, `cdoyle-rodney-stone` (1875 units) |
+| A Duet, with an Occasional Chorus | have | PG 5260, `cdoyle-a-duet-with-an-occasional-chorus` (2335 units) |
+| Through the Magic Door | have | PG 5317, `cdoyle-through-the-magic-door` (284 units) |
+| The mystery of Cloomber | have | PG 7964, `cdoyle-mystery-of-cloomber` (1052 units) |
+| The doings of Raffles Haw | have | PG 8394, `cdoyle-doings-of-raffles-haw` (671 units) |
+| The Last Galley; Impressions and Tales | have | PG 8727, `cdoyle-last-galley` (1273 units) |
+| Micah Clarke His Statement as made to his three grandchildren Joseph, Gervas and Reuben During the Hard Winter of 1734 | have | PG 9504, `cdoyle-micah-clarke-his-statement-as-made-to-his-three-grand` (2443 units) |
+| A Visit to Three Fronts: June 1916 | have | PG 9874, `cdoyle-a-visit-to-three-fronts` (113 units) |
+| The Green Flag, and Other Stories of War and Sport | have | PG 10446, `cdoyle-green-flag-and-other-stories-of-war-and-sport` (1515 units) |
+| Uncle Bernac: A Memory of the Empire | have | PG 10581, `cdoyle-uncle-bernac` (1231 units) |
+| The Exploits of Brigadier Gerard | have | PG 11247, `cdoyle-exploits-of-brigadier-gerard` (1298 units) |
+| The Refugees A Tale of Two Continents | have | PG 11413, `cdoyle-refugees-a-tale-of-two-continents` (2978 units) |
+| The Great Shadow and Other Napoleonic Tales | have | PG 11656, `cdoyle-great-shadow-and-other-napoleonic-tales` (827 units) |
+| The Tragedy of the Korosko | have | PG 12555, `cdoyle-tragedy-of-the-korosko` (869 units) |
+| The Firm of Girdlestone | have | PG 13152, `cdoyle-firm-of-girdlestone` (2783 units) |
+| The Cabman's Story The Mysteries of a London 'Growler' | have | PG 17398, `cdoyle-cabmans-story-the-mysteries-of-a-london-growler` (59 units) |
+| A desert drama | have | PG 21768, `cdoyle-a-desert-drama` (926 units) |
+| Songs Of The Road | have | PG 21769, `cdoyle-songs-of-the-road` (286 units) |
+| Danger! and Other Stories | have | PG 22357, `cdoyle-danger-and-other-stories` (1212 units) |
+| My friend the murderer | have | PG 23059, `cdoyle-my-friend-the-murderer` (131 units) |
+| The War in South Africa, Its Cause and Conduct | have | PG 24951, `cdoyle-war-in-south-africa-its-cause-and-conduct` (669 units) |
+| The Last of the Legions and Other Tales of Long Ago | have | PG 26153, `cdoyle-last-of-the-legions-and-other-tales-of-long-ago` (634 units) |
+| The Great Keinplatz Experiment and Other Tales of Twilight and the Unseen | have | PG 32777, `cdoyle-great-keinplatz-experiment-and-other-tales-of-twiligh` (1420 units) |
+| The Dealings of Captain Sharkey, and Other Tales of Pirates | have | PG 34627, `cdoyle-dealings-of-captain-sharkey-and-other-tales-of-pirate` (1252 units) |
+| The Man from Archangel, and Other Tales of Adventure | have | PG 34797, `cdoyle-man-from-archangel-and-other-tales-of-adventure` (1421 units) |
+| The Crime of the Congo | have | PG 37712, `cdoyle-crime-of-the-congo` (585 units) |
+| The Guards Came Through, and Other Poems | have | PG 38071, `cdoyle-guards-came-through-and-other-poems` (193 units) |
+| The Croxley Master: A Great Tale Of The Prize Ring | have | PG 38443, `cdoyle-croxley-master` (397 units) |
+| The Wanderings of a Spiritualist | have | PG 39718, `cdoyle-wanderings-of-a-spiritualist` (579 units) |
+| The Gully of Bluemansdyke, and Other stories | have | PG 40848, `cdoyle-gully-of-bluemansdyke-and-other-stories` (809 units) |
+| The German War | have | PG 42127, `cdoyle-german-war` (232 units) |
+| The Coming of the Fairies | have | PG 47506, `cdoyle-coming-of-the-fairies` (447 units) |
+| Adventures of Sherlock Holmes Illustrated | have | PG 48320, `cdoyle-adventures-of-sherlock-holmes-illustrated` (2666 units) |
+| Round the Fire Stories | have | PG 54109, `cdoyle-round-the-fire-stories` (2109 units) |
+| The Case for Spirit Photography With corroborative evidence by experienced researchers and photographers | have | PG 59809, `cdoyle-case-for-spirit-photography-with-corroborative-eviden` (541 units) |
+| The British Campaign in France and Flanders, 1914 | have | PG 65042, `cdoyle-british-campaign-in-france-and-flanders-1914` (1357 units) |
+| The British Campaign in France and Flanders, 1915 | have | PG 65043, `cdoyle-british-campaign-in-france-and-flanders-1915` (998 units) |
+| The British Campaign in France and Flanders, 1916 | have | PG 65044, `cdoyle-british-campaign-in-france-and-flanders-1916` (990 units) |
+| The British Campaign in France and Flanders, 1917 | have | PG 65045, `cdoyle-british-campaign-in-france-and-flanders-1917` (933 units) |
+| The British Campaign in France and Flanders—January to July, 1918 | have | PG 65046, `cdoyle-british-campaign-in-france-and-flanders-january-to-ju` (1235 units) |
+| The British Campaign in France and Flanders—July to November, 1918 | have | PG 65047, `cdoyle-british-campaign-in-france-and-flanders-july-to-novem` (1400 units) |
+| Recollections of Captain Wilkie: A Story of an Old Offender | have | PG 66088, `cdoyle-recollections-of-captain-wilkie` (108 units) |
+| Memories and Adventures | have | PG 66991, `cdoyle-memories-and-adventures` (1678 units) |
+| The Curse of Eve | have | PG 67072, `cdoyle-curse-of-eve` (97 units) |
+| The Glamour of the Arctic | have | PG 67515, `cdoyle-glamour-of-the-arctic` (38 units) |
+| The land of mist | have | PG 68903, `cdoyle-land-of-mist` (2224 units) |
+| My friend the murderer, and other mysteries and adventures | have | PG 69260, `cdoyle-my-friend-the-murderer-and-other-mysteries-and-advent` (1423 units) |
+| The case-book of Sherlock Holmes | have | PG 69700, `cdoyle-case-book-of-sherlock-holmes` (2254 units) |
+| The case of Oscar Slater | have | PG 69704, `cdoyle-case-of-oscar-slater` (286 units) |
+| pg-58574 | excluded | PG 58574: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 3776, 36050: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 108, 139, 244, 834, 903, 1661, 2097, 2852: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-221 | excluded | PG 221 The Return of Sherlock Holmes and 3070 The Hound of the Baskervilles: second editions; the reading-list conan-doyle shelf holds both books. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

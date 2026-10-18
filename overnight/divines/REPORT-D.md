@@ -1422,3 +1422,6 @@
 
 ## 2026-10-17 20:06 CDT — hgwells-works: done
 - hgwells-works: new shelf, 70 Gutenberg books, 92,629 units, 8428 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:06 CDT — conan-doyle-works: done
+- conan-doyle-works: new shelf, 71 Gutenberg books, 69,355 units, 767 ~2 ids; verify 0 mismatches, 0 rights flags.
