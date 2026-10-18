@@ -36252,6 +36252,37 @@ Shelf: `pipeline/clarence-young_shelf.json` (2026-10-17; added at the coordinato
 | The Racer Boys; Or, The Mystery of the Wreck | have | PG 61534, `cyoung-racer-boys` (1831 units) |
 | The Racer boys on the prairies | have | PG 75395, `cyoung-racer-boys-on-the-prairies` (1854 units) |
 
+## Evelyn Raymond
+
+Shelf: `pipeline/evelyn-raymond_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (24 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dorothy's Travels | have | PG 25630, `eraymond-dorothys-travels` (1193 units) |
+| Dorothy on a Ranch | have | PG 26389, `eraymond-dorothy-on-a-ranch` (1268 units) |
+| Reels and Spindles: A Story of Mill Life | have | PG 27613, `eraymond-reels-and-spindles` (2398 units) |
+| Dorothy's Triumph | have | PG 28221, `eraymond-dorothys-triumph` (1609 units) |
+| The Brass Bound Box | have | PG 28509, `eraymond-brass-bound-box` (1260 units) |
+| Divided Skates | have | PG 28757, `eraymond-divided-skates` (651 units) |
+| Dorothy's House Party | have | PG 28805, `eraymond-dorothys-house-party` (1337 units) |
+| Jessica, the Heiress | have | PG 30074, `eraymond-jessica-the-heiress` (1314 units) |
+| A Sunny Little Lass | have | PG 30968, `eraymond-a-sunny-little-lass` (728 units) |
+| A Daughter of the Forest | have | PG 31655, `eraymond-a-daughter-of-the-forest` (1455 units) |
+| Dorothy at Oak Knowe | have | PG 32310, `eraymond-dorothy-at-oak-knowe` (1272 units) |
+| Dorothy's Tour | have | PG 32556, `eraymond-dorothys-tour` (1372 units) |
+| Dorothy on a House Boat | have | PG 32606, `eraymond-dorothy-on-a-house-boat` (1399 units) |
+| The Sun Maid: A Story of Fort Dearborn | have | PG 32843, `eraymond-sun-maid` (1704 units) |
+| Jessica Trent: Her Life on a Ranch | have | PG 33853, `eraymond-jessica-trent` (1520 units) |
+| Dorothy | have | PG 40300, `eraymond-dorothy` (995 units) |
+| Dorothy at Skyrie | have | PG 41117, `eraymond-dorothy-at-skyrie` (1060 units) |
+| Jessica Trent's Inheritance | have | PG 64681, `eraymond-jessica-trents-inheritance` (1106 units) |
+| A Pair of Them | have | PG 64891, `eraymond-a-pair-of-them` (761 units) |
+| The Mislaid Uncle | have | PG 64911, `eraymond-mislaid-uncle` (858 units) |
+| Mixed Pickles | have | PG 65223, `eraymond-mixed-pickles` (1314 units) |
+| Among the Lindens | have | PG 65290, `eraymond-among-the-lindens` (1560 units) |
+| The Little Lady of the Horse | have | PG 67567, `eraymond-little-lady-of-the-horse` (1379 units) |
+| Carlota of the rancho | have | PG 73565, `eraymond-carlota-of-the-rancho` (1744 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
