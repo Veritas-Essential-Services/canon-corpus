@@ -1,0 +1,57 @@
+{
+ "_about": "John Tyndall (1820-1893), physicist, on the philosophy of science: Fragments of Science, sixth edition, 2 vols. in one (London: Longmans, Green, 1879); Essays on the Use and Limit of the Imagination in Science (London: Longmans, Green, 1870); the Belfast Address to the British Association (London: Longmans, Green, 1874). Clean Gutenberg texts. His physics popularisations (Light, Sound, Heat, the glaciers) are not taken. US public domain. No uids minted.",
+ "_author": "John Tyndall",
+ "_name_words": [
+  "john",
+  "tyndall"
+ ],
+ "_surname": [
+  "tyndall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tyndall-fragments-of-science-1879": [
+   24527,
+   "Fragments of Science, sixth edition (Longmans, 1879)"
+  ],
+  "tyndall-use-limit-imagination-1870": [
+   74654,
+   "Essays on the Use and Limit of the Imagination in Science (Longmans, 1870)"
+  ],
+  "tyndall-belfast-address-1874": [
+   75664,
+   "Address delivered before the British Association assembled at Belfast (Longmans, 1874)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tyndall-fragments-of-science-1879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tyndall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tyndall-use-limit-imagination-1870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tyndall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tyndall-belfast-address-1874": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tyndall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

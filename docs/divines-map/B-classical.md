@@ -6176,6 +6176,9 @@ Shelf: `pipeline/john-tyndall_shelf.json`. John Tyndall (1820-1893). Fragments o
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Fragments of Science, sixth edition (Longmans, 1879) |  | `tyndall-fragments-of-science-1879` | have (PG 24527) |
+| Essays on the Use and Limit of the Imagination in Science (Longmans, 1870) |  | `tyndall-use-limit-imagination-1870` | have (PG 74654) |
+| Address delivered before the British Association assembled at Belfast (Longmans, 1874) |  | `tyndall-belfast-address-1874` | have (PG 75664) |
 
 ## Erasmus Darwin (Zoonomia)
 
