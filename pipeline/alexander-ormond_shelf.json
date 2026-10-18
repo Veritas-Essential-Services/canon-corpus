@@ -1,0 +1,79 @@
+{
+ "_about": "Alexander Thomas Ormond (1847-1915), Princeton philosopher, McCosh's successor. Raw IA OCR: Basal Concepts in Philosophy (New York: Scribner's, 1894), clean 0.94; Foundations of Knowledge (London: Macmillan, 1900), clean 0.96; Concepts of Philosophy (New York: Macmillan, 1906), clean 0.96; The Philosophy of Religion, Elliott Lectures of 1916 (Princeton University Press, 1922), clean 0.94. US public domain. No uids minted.",
+ "_author": "Alexander T. Ormond",
+ "_name_words": [
+  "alexander",
+  "thomas",
+  "ormond"
+ ],
+ "_surname": [
+  "ormond"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ormond-basal-concepts-1894": [
+   "cu31924031229127",
+   "Basal Concepts in Philosophy (Scribner's, 1894)"
+  ],
+  "ormond-foundations-of-knowledge-1900": [
+   "foundationsokn00ormouoft",
+   "Foundations of Knowledge (Macmillan, 1900)"
+  ],
+  "ormond-concepts-of-philosophy-1906": [
+   "conceptsofphilos00ormo",
+   "Concepts of Philosophy (Macmillan, 1906)"
+  ],
+  "ormond-philosophy-of-religion-1922": [
+   "cu31924029207458",
+   "The Philosophy of Religion (Princeton, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ormond-basal-concepts-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ormond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ormond-foundations-of-knowledge-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ormond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ormond-concepts-of-philosophy-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ormond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ormond-philosophy-of-religion-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ormond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

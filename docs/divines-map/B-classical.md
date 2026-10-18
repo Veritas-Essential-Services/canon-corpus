@@ -6555,6 +6555,10 @@ Shelf: `pipeline/alexander-ormond_shelf.json`. All four of his books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Basal Concepts in Philosophy (Scribner's, 1894) |  | `ormond-basal-concepts-1894` | have-raw (IA `cu31924031229127`) |
+| Foundations of Knowledge (Macmillan, 1900) |  | `ormond-foundations-of-knowledge-1900` | have-raw (IA `foundationsokn00ormouoft`) |
+| Concepts of Philosophy (Macmillan, 1906) |  | `ormond-concepts-of-philosophy-1906` | have-raw (IA `conceptsofphilos00ormo`) |
+| The Philosophy of Religion (Princeton, 1922) |  | `ormond-philosophy-of-religion-1922` | have-raw (IA `cu31924029207458`) |
 
 ## Perseus census (overflow)
 
