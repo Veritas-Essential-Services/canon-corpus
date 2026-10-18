@@ -6361,3 +6361,15 @@ Slugs `hefele-*`. A History of the Councils of the Church in Clark's English vol
 | The Life of Cardinal Ximenez, tr. Canon Dalton (London: Catholic Publishing & Bookselling Company, 1860) | have-ocr | IA `lifeofcardinalx00hefe` |
 | Vol. I second edition (1872, 1883, 1894); other copies of vols II-V; Ximenez second edition (1885) | alternate | not shelved |
 | AMS Press reprints (1972) | excluded | |
+
+## Johann Alzog (round 29, my pick, 2026-10-18)
+
+Slugs `alzog-*`. Manual of Universal Church History in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Manual of Universal Church History, vol. I, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1874) | have-ocr | IA `manualofuniversa01alzo` |
+| Manual of Universal Church History, vol. II, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1876) | have-ocr | IA `manualofuniversa02alzo` |
+| Manual of Universal Church History, vol. III, tr. F. J. Pabisch and Thos. S. Byrne (Cincinnati: Robert Clarke, 1878) | have-ocr | IA `manualofuniversa03alzo` |
+| The 1902 and 1903 Cincinnati impressions; the Dublin four-volume edition (Gill, 1890-1902); Benziger's History of the Church | alternate | not shelved |
+| German, French, Italian and Spanish editions | excluded | |

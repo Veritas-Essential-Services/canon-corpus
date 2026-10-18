@@ -1327,3 +1327,6 @@
 
 ## 2026-10-17 19:56 CDT — karl-joseph-von-hefele done
 - `pipeline/karl-joseph-von-hefele_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — johann-alzog done
+- `pipeline/johann-alzog_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
