@@ -1039,3 +1039,9 @@
 - Priestley: Hartley's Theory of the Human Mind (1775)
 - Holbach: System of Nature, 1820-21 translation, period printing
 - Held: Schleiermacher, The Christian Faith (1928): open scans are later impressions
+
+## 2026-10-17 19:27 CDT — Round ap: Bacon's collected Works (Spedding)
+- Bacon: The Works of Francis Bacon, ed. Spedding, Ellis and Heath, all 15 vols. of the 1864 American edition
+- Vols. I-VII: philosophical works as written (Latin works in Latin, English prefaces); VIII-X: the editors' translations; XI-XIV literary; XV professional
+- Overlaps the Gutenberg Essays, New Atlantis, Valerius Terminus and the Adler Advancement and Novum Organum; taken whole as the collected edition
+- Still wanted: the Letters and Life (1861-74)

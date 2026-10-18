@@ -231,3 +231,4 @@
 - 19:17 round am: 18 wishlist volumes on 11 shelves; Boole's 1847 Analysis held (facsimile only).
 - 19:20 round an: Locke's 1823 Works (10 vols.) and Schleiermacher's Soliloquies added; Locke wishlist cleared.
 - 19:24 round ao: 15 volumes; Stewart's Collected Works now complete; Christian Faith held (later impressions only).
+- 19:27 round ap: Bacon's Spedding Works complete (15 vols., 1864); the vols. with Latin originals are Bacon's own Latin, not facing text, flagged in case the facing-text ruling should cover them.
