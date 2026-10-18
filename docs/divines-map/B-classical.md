@@ -5189,6 +5189,7 @@ Shelf: `pipeline/moses-mendelssohn_shelf.json`. Enlightenment philosophy of reli
 |---|---|---|---|
 | Jerusalem, vol. I (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v1` | have-raw (IA `jerusalemtreatis01mend`) |
 | Jerusalem, vol. II (London: Longman, 1838) | M. Samuels | `mendelssohn-samuels-jerusalem-1838-v2` | have-raw (IA `jerusalemtreatis02mend`) |
+| Phaedon, or The Death of Socrates (London: printed for the author by J. Cooper, 1789) | Charles Cullen | `mendelssohn-cullen-phaedon-1789` | have-raw (IA `phdonordeathofso00mend`) |
 
 ## Leslie Stephen
 

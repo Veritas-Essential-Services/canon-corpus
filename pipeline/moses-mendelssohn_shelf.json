@@ -1,5 +1,5 @@
 {
- "_about": "Moses Mendelssohn (1729-1786): Jerusalem, a treatise on ecclesiastical authority and Judaism, tr. M. Samuels (London: Longman, Orme, Brown and Longmans, 1838, 2 vols.), raw IA OCR; vol. II's imprint year is cut short in the OCR ('MDCCCXXXVI'), read as 1838 to match vol. I. US public domain. No uids minted.",
+ "_about": "Moses Mendelssohn (1729-1786): Jerusalem, a treatise on ecclesiastical authority and Judaism, tr. M. Samuels (London: Longman, Orme, Brown and Longmans, 1838, 2 vols.), raw IA OCR; vol. II's imprint year is cut short in the OCR ('MDCCCXXXVI'), read as 1838 to match vol. I. Added in round am: Phaedon, or The Death of Socrates (London: printed for the author by J. Cooper, 1789), tr. Charles Cullen (the title page says only 'translated from the German'; Cullen is named in library records). US public domain. No uids minted.",
  "_author": "Moses Mendelssohn",
  "_name_words": [
   "moses",
@@ -20,6 +20,11 @@
    "jerusalemtreatis02mend",
    "Jerusalem, vol. II (London: Longman, 1838)",
    "tr. M. Samuels"
+  ],
+  "mendelssohn-cullen-phaedon-1789": [
+   "phdonordeathofso00mend",
+   "Phaedon, or The Death of Socrates (London: printed for the author by J. Cooper, 1789)",
+   "tr. Charles Cullen"
   ]
  },
  "_excluded": {},
@@ -30,7 +35,7 @@
  "_checks": {
   "mendelssohn-samuels-jerusalem-1838-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mendelssohn",
    "translator_claimed": "SAMUELS",
@@ -43,7 +48,7 @@
   },
   "mendelssohn-samuels-jerusalem-1838-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mendelssohn",
    "translator_claimed": "SAMUELS",
@@ -51,6 +56,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1838",
    "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mendelssohn-cullen-phaedon-1789": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mendelssohn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
