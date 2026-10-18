@@ -7476,3 +7476,23 @@ Slugs `mcgiffert-*`. Built from title pages read for round 32.
 | Revised editions of the Apostolic Age (1900, 1906); other copies | alternate | not shelved |
 | His Eusebius (Schaff Fathers, PR #11) | excluded | |
 | A History of Christian Thought (1932-1933); 1928-1929 reprints; an 1893 inauguration pamphlet | excluded | |
+
+## George A. Gordon (round 32, my pick, 2026-10-18)
+
+Slugs `gagordon-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Witness to Immortality in Literature, Philosophy and Life (Boston and New York: Houghton, Mifflin, 1893) | have-ocr | IA `cu31924029320342` |
+| The Christ of To-day (Boston and New York: Houghton, Mifflin, 1895) | have-ocr | IA `christoftoday00gord_0` |
+| Immortality and the New Theodicy, fourth impression (Boston and New York: Houghton, Mifflin; copyright 1897) | have-ocr | IA `immortalitynewth00gord` |
+| The New Epoch for Faith (Boston and New York: Houghton, Mifflin, 1901) | have-ocr | IA `newepochforfaith00gord` |
+| Ultimate Conceptions of Faith (Boston and New York: Houghton, Mifflin, 1903) | have-ocr | IA `ultimateconcepti00gord` |
+| Through Man to God (Boston and New York: Houghton Mifflin; published October 1906) | have-ocr | IA `throughmantogo00gord` |
+| Religion and Miracle (Boston and New York: Houghton Mifflin, 1909) | have-ocr | IA `religionmiracle00gord_1` |
+| Revelation and the Ideal (Boston and New York: Houghton Mifflin, 1913) | have-ocr | IA `revelationideal00gor` |
+| Aspects of the Infinite Mystery (Boston and New York: Houghton Mifflin, 1916) | have-ocr | IA `aspectsofinfinit00gord_0` |
+| Humanism in New England Theology (Boston and New York: Houghton Mifflin, 1920) | have-ocr | IA `humanisminneweng00gord_0` |
+| My Education and Religion: an Autobiography (Boston and New York: Houghton Mifflin, 1925) | have-ocr | IA `myeducationrelig00gord_0` |
+| The second impression of Religion and Miracle and other copies | alternate | not shelved |
+| witnesstoimmorta00gord: a post-1913 reprint catalogued 1893 | excluded | |

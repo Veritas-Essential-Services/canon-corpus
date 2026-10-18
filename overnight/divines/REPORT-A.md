@@ -1555,3 +1555,6 @@
 
 ## 2026-10-17 21:18 CDT — arthur-cushman-mcgiffert done
 - `pipeline/arthur-cushman-mcgiffert_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — george-a-gordon done
+- `pipeline/george-a-gordon_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
