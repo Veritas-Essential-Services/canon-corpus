@@ -5156,6 +5156,9 @@ Shelf: `pipeline/ralph-barton-perry_shelf.json`. American new realism; only work
 | The Approach to Philosophy (New York: Scribner, 1905) |  | `perry-approach-to-philosophy-1905` | have (PG 25110) |
 | The Moral Economy (New York: Scribner, 1909) |  | `perry-moral-economy-1909` | have (PG 22135) |
 | Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921) |  | `perry-present-philosophical-tendencies-1921` | have-raw (IA `presentphilosoph00perr_0`) |
+| The Free Man and the Soldier: essays on the reconciliation of liberty and discipline (New York: Scribner, 1916) |  | `perry-free-man-and-soldier-1916` | have-raw (IA `freemansoldieres0000perr`) |
+| The Present Conflict of Ideals: a study of the philosophical background of the World War (New York: Longmans, Green, 1918) |  | `perry-present-conflict-of-ideals-1918` | have-raw (IA `presentconflict00perruoft`) |
+| Philosophy of the Recent Past: an outline of European and American philosophy since 1860 (New York: Scribner, 1926) |  | `perry-philosophy-of-recent-past-1926` | have-raw (IA `philosophyofrece0000ralp`) |
 
 ## Felix Adler
 
