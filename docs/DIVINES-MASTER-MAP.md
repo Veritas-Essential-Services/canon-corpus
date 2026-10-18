@@ -6973,6 +6973,21 @@ Slugs `oehler-*`. Theology of the Old Testament, Clark's and Day's editions.
 | Theology of the Old Testament, a revision of the Clark translation by George E. Day (New York: Funk & Wagnalls, 1883) | have-ocr | IA `theologyofoldtes00oehl` |
 | The 1880 Clark reissue; Day's 1884-1888 editions; CCEL's ot_theol is page images only | alternate | not shelved |
 | in.ernet.dli.2015.65494: a Zondervan reprint, catalogued 1883 | excluded | |
+
+## Emil Schürer (round 30, my pick, 2026-10-18)
+
+Slugs `schurer-*`. A History of the Jewish People in the Time of Jesus Christ, Clark's five volumes.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Jewish People in the Time of Jesus Christ, Division I, vol. I, tr. John Macpherson (Edinburgh: T. & T. Clark, 1890) | have-ocr | IA `historyofjewishp0101sch` |
+| A History of the Jewish People in the Time of Jesus Christ, Division I, vol. II, tr. John Macpherson (Edinburgh: T. & T. Clark, 1890) | have-ocr | IA `india.history.resource.89569` |
+| A History of the Jewish People in the Time of Jesus Christ, Division II, vol. I, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark; title page undated, catalogued 1885) | have-ocr | IA `historyofjewishp0201sch` |
+| A History of the Jewish People in the Time of Jesus Christ, Division II, vol. II, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `india.history.resource.89566` |
+| A History of the Jewish People in the Time of Jesus Christ, Division II, vol. III, tr. Sophia Taylor and Peter Christie (Edinburgh: T. & T. Clark; title page undated, catalogued 1886) | have-ocr | IA `ahistoryjewishp01sophgoog` |
+| Macpherson's Index volume (1891): historyofjewish03sch, compiled by him, not by Schürer | alternate | not shelved |
+| The 1891 Scribner issue; the 1898 Clark reissue; other copies | alternate | not shelved |
+| isbn_9781140420491 (modern reprint); dv2historyofjewi03sch (20th-century reprint); German texts tagged English | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

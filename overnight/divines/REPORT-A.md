@@ -1450,3 +1450,6 @@
 
 ## 2026-10-17 20:26 CDT — gustav-friedrich-oehler done
 - `pipeline/gustav-friedrich-oehler_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — emil-schurer done
+- `pipeline/emil-schurer_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for schurer-jewish-people-2-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
