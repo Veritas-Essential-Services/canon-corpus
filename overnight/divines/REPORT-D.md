@@ -1539,3 +1539,6 @@
 
 ## 2026-10-17 21:41 CDT — amelia-barr: done
 - amelia-barr: new shelf, 27 Gutenberg books, 44,336 units, 266 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:41 CDT — thomas-nelson-page: done
+- thomas-nelson-page: new shelf, 27 Gutenberg books, 20,093 units, 207 ~2 ids; verify 0 mismatches, 0 rights flags.

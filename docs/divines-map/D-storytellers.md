@@ -11080,6 +11080,40 @@ Shelf: `pipeline/amelia-barr_shelf.json` (2026-10-17; added at the coordinator's
 | The Belle of Bowling Green | have | PG 76576, `aebarr-belle-of-bowling-green` (1742 units) |
 | pg-58440 | excluded | PG 58440: Gutenberg's index of the author's works, not a book. |
 
+## Thomas Nelson Page
+
+Shelf: `pipeline/thomas-nelson-page_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Gordon Keith | have | PG 14068, `tnpage-gordon-keith` (5138 units) |
+| Santa Claus's Partner | have | PG 14624, `tnpage-santa-clauss-partner` (702 units) |
+| "George Washington's" Last Duel 1891 | have | PG 23013, `tnpage-george-washingtons-last-duel-1891` (285 units) |
+| "A Soldier Of The Empire" | have | PG 23014, `tnpage-a-soldier-of-the-empire` (81 units) |
+| "Run To Seed" 1891 | have | PG 23015, `tnpage-run-to-seed-1891` (123 units) |
+| P'laski's Tunament 1891 | have | PG 23016, `tnpage-plaskis-tunament-1891` (70 units) |
+| Elsket 1891 | have | PG 23017, `tnpage-elsket-1891` (160 units) |
+| The Sheriffs Bluff 1908 | have | PG 23510, `tnpage-sheriffs-bluff-1908` (205 units) |
+| The Christmas Peace 1908 | have | PG 23511, `tnpage-christmas-peace-1908` (252 units) |
+| Mam' Lyddy's Recognition 1908 | have | PG 23512, `tnpage-mam-lyddys-recognition-1908` (225 units) |
+| Old Jabe's Marital Experiments 1908 | have | PG 23513, `tnpage-old-jabes-marital-experiments-1908` (74 units) |
+| The Long Hillside A Christmas Hare-Hunt In Old Virginia 1908 | have | PG 23514, `tnpage-long-hillside-a-christmas-hare-hunt-in-old-virginia-1` (88 units) |
+| The Spectre In The Cart 1908 | have | PG 23515, `tnpage-spectre-in-the-cart-1908` (127 units) |
+| Bred in the bone 1908 | have | PG 23516, `tnpage-bred-in-the-bone-1908` (348 units) |
+| Tommy Trot's Visit to Santa Claus | have | PG 25896, `tnpage-tommy-trots-visit-to-santa-claus` (318 units) |
+| Two Little Confederates | have | PG 26725, `tnpage-two-little-confederates` (1040 units) |
+| A Captured Santa Claus | have | PG 33666, `tnpage-a-captured-santa-claus` (327 units) |
+| Two Prisoners | have | PG 33667, `tnpage-two-prisoners` (224 units) |
+| The Coast of Bohemia | have | PG 34015, `tnpage-coast-of-bohemia` (333 units) |
+| Unc' Edinburg: A Plantation Echo | have | PG 34016, `tnpage-unc-edinburg` (126 units) |
+| John Marvel, Assistant | have | PG 41817, `tnpage-john-marvel-assistant` (3140 units) |
+| Polly: A Christmas Recollection | have | PG 44547, `tnpage-polly` (155 units) |
+| Elsket and Other Stories | have | PG 47524, `tnpage-elsket-and-other-stories` (844 units) |
+| Red Rock: A Chronicle of Reconstruction | have | PG 49648, `tnpage-red-rock` (3969 units) |
+| Social Life in Old Virginia Before the War | have | PG 55910, `tnpage-social-life-in-old-virginia-before-the-war` (156 units) |
+| The negro: the southerner's problem | have | PG 70834, `tnpage-negro` (891 units) |
+| Among the camps | have | PG 75553, `tnpage-among-the-camps` (692 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
