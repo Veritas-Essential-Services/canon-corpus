@@ -9109,6 +9109,31 @@ Shelf: `pipeline/walter-scott-works_shelf.json` (2026-10-17; added at the coordi
 | pg-10778 | excluded | PG 10778 The Prose Marmion: a retelling by Sara D. Jenkins. |
 | pg-11623 | excluded | PG 11623: Dryden's plays, which Scott edited; not Scott's own work. |
 
+## George Eliot
+
+Shelf: `pipeline/george-eliot-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Adam Bede | have | PG 507, `geliot-adam-bede` (2462 units) |
+| The Lifted Veil | have | PG 2165, `geliot-lifted-veil` (122 units) |
+| Brother Jacob | have | PG 2171, `geliot-brother-jacob` (148 units) |
+| The Mill on the Floss | have | PG 6688, `geliot-mill-on-the-floss` (3183 units) |
+| Daniel Deronda | have | PG 7469, `geliot-daniel-deronda` (4295 units) |
+| Impressions of Theophrastus Such | have | PG 10762, `geliot-impressions-of-theophrastus-such` (276 units) |
+| Scenes of Clerical Life | have | PG 17780, `geliot-scenes-of-clerical-life` (1736 units) |
+| How Lisa Loved the King | have | PG 20813, `geliot-how-lisa-loved-the-king` (43 units) |
+| Romola | have | PG 24020, `geliot-romola` (2743 units) |
+| The Essays of "George Eliot" Complete | have | PG 28289, `geliot-essays-of-george-eliot-complete` (645 units) |
+| Felix Holt, the Radical | have | PG 40882, `geliot-felix-holt-the-radical` (2519 units) |
+| George Eliot's Life, as Related in Her Letters and Journals. Vol. 1 (of 3) (ed. J. W. Cross) | have | PG 43043, `geliot-george-eliots-life-as-related-in-her-letters-and-jour` (1271 units) |
+| George Eliot's Life, as Related in Her Letters and Journals. Vol. 2 (of 3) (ed. J. W. Cross) | have | PG 43044, `geliot-george-eliots-life-as-related-in-her-letters-and-jour-43044` (1509 units) |
+| George Eliot's Life, as Related in Her Letters and Journals. Vol. 3 (of 3) (ed. J. W. Cross) | have | PG 43045, `geliot-george-eliots-life-as-related-in-her-letters-and-jour-43045` (2458 units) |
+| pg-58777 | excluded | PG 58777: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 145, 550: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-20742 | excluded | PG 20742: a many-author anthology of favourite poems. |
+| pg-30273 | excluded | PG 30273 Tom and Maggie Tulliver: an anonymous adaptation. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

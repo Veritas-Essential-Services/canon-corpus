@@ -3013,6 +3013,14 @@
       "started": "2026-10-17T20:06:44-05:00",
       "finished": "2026-10-17T20:06:45-05:00",
       "notes": "walter-scott-works: new shelf, 41 Gutenberg books, 81,321 units, 13470 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-eliot-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Eliot; no minting",
+      "status": "done",
+      "started": "2026-10-17T20:06:45-05:00",
+      "finished": "2026-10-17T20:06:46-05:00",
+      "notes": "george-eliot-works: new shelf, 14 Gutenberg books, 23,410 units, 107 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
