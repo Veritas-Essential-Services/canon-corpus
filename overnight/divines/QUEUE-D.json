@@ -3549,6 +3549,14 @@
       "started": "2026-10-17T22:36:03-05:00",
       "finished": "2026-10-17T22:36:03-05:00",
       "notes": "arthur-scott-bailey: new shelf, 41 Gutenberg books, 20,692 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "josephine-chase",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Josephine Chase; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:36:04-05:00",
+      "finished": "2026-10-17T22:36:05-05:00",
+      "notes": "josephine-chase: new shelf, 39 Gutenberg books, 53,664 units, 104 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

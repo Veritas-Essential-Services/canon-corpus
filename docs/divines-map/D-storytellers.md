@@ -11960,6 +11960,52 @@ Shelf: `pipeline/arthur-scott-bailey_shelf.json` (2026-10-17; added at the coord
 | The tale of Reddy Woodpecker | have | PG 43447, `asbailey-tale-of-reddy-woodpecker` (601 units) |
 | The tale of Mistah Mule | have | PG 74069, `asbailey-tale-of-mistah-mule` (536 units) |
 
+## Josephine Chase
+
+Shelf: `pipeline/josephine-chase_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Grace Harlowe's Senior Year at High School | have | PG 4940, `jchase-grace-harlowes-senior-year-at-high-school` (1511 units) |
+| Grace Harlowe's Overland Riders on the Great American Desert | have | PG 5404, `jchase-grace-harlowes-overland-riders-on-the-great-american` (1464 units) |
+| Grace Harlowe's Second Year at Overton College | have | PG 6858, `jchase-grace-harlowes-second-year-at-overton-college` (1254 units) |
+| Grace Harlowe's Return to Overton Campus | have | PG 9901, `jchase-grace-harlowes-return-to-overton-campus` (1180 units) |
+| The Khaki Boys over the Top; Or, Doing and Daring for Uncle Sam | have | PG 12957, `jchase-khaki-boys-over-the-top` (1469 units) |
+| Grace Harlowe's Sophomore Year at High School The Record of the Girl Chums in Work and Athletics | have | PG 15344, `jchase-grace-harlowes-sophomore-year-at-high-school-the-reco` (1627 units) |
+| Grace Harlowe's Junior Year at High School Or, Fast Friends in the Sororities | have | PG 17811, `jchase-grace-harlowes-junior-year-at-high-school` (1554 units) |
+| Grace Harlowe's First Year at Overton College | have | PG 17988, `jchase-grace-harlowes-first-year-at-overton-college` (1282 units) |
+| Grace Harlowe's Overland Riders in the Great North Woods | have | PG 20341, `jchase-grace-harlowes-overland-riders-in-the-great-north-woo` (1730 units) |
+| Grace Harlowe's Problem | have | PG 20342, `jchase-grace-harlowes-problem` (1280 units) |
+| Grace Harlowe's Overland Riders Among the Kentucky Mountaineers | have | PG 20405, `jchase-grace-harlowes-overland-riders-among-the-kentucky-mou` (1781 units) |
+| Grace Harlowe's Golden Summer | have | PG 20471, `jchase-grace-harlowes-golden-summer` (1016 units) |
+| Grace Harlowe's Plebe Year at High School The Merry Doings of the Oakdale Freshmen Girls | have | PG 20472, `jchase-grace-harlowes-plebe-year-at-high-school-the-merry-do` (1800 units) |
+| Grace Harlowe's Third Year at Overton College | have | PG 20473, `jchase-grace-harlowes-third-year-at-overton-college` (1280 units) |
+| Grace Harlowe's Fourth Year at Overton College | have | PG 20474, `jchase-grace-harlowes-fourth-year-at-overton-college` (1350 units) |
+| Marjorie Dean, College Sophomore | have | PG 22071, `jchase-marjorie-dean-college-sophomore` (1120 units) |
+| Marjorie Dean, High School Freshman | have | PG 23644, `jchase-marjorie-dean-high-school-freshman` (1225 units) |
+| Marjorie Dean, High School Sophomore | have | PG 27985, `jchase-marjorie-dean-high-school-sophomore` (1208 units) |
+| Marjorie Dean, High School Senior | have | PG 36325, `jchase-marjorie-dean-high-school-senior` (1432 units) |
+| Marjorie Dean, High School Junior | have | PG 36823, `jchase-marjorie-dean-high-school-junior` (1106 units) |
+| Marjorie Dean, College Freshman | have | PG 36851, `jchase-marjorie-dean-college-freshman` (1053 units) |
+| Marjorie Dean, College Senior | have | PG 36906, `jchase-marjorie-dean-college-senior` (1117 units) |
+| Marjorie Dean, College Junior | have | PG 37176, `jchase-marjorie-dean-college-junior` (1163 units) |
+| Grace Harlowe's Overland Riders in the High Sierras | have | PG 45989, `jchase-grace-harlowes-overland-riders-in-the-high-sierras` (1700 units) |
+| The Khaki Boys at Camp Sterling; Or, Training for the Big Fight in France | have | PG 46027, `jchase-khaki-boys-at-camp-sterling` (1017 units) |
+| The Khaki Boys at the Front; or, Shoulder to Shoulder in the Trenches | have | PG 48653, `jchase-khaki-boys-at-the-front` (1279 units) |
+| The Khaki Boys Fighting to Win; or, Smashing the German Lines | have | PG 49736, `jchase-khaki-boys-fighting-to-win` (1491 units) |
+| Grace Harlowe's Overland Riders on the Old Apache Trail | have | PG 50105, `jchase-grace-harlowes-overland-riders-on-the-old-apache-trai` (1951 units) |
+| Marjorie Dean, Post-Graduate | have | PG 51686, `jchase-marjorie-dean-post-graduate` (1042 units) |
+| Grace Harlowe with the American Army on the Rhine | have | PG 51697, `jchase-grace-harlowe-with-the-american-army-on-the-rhine` (1742 units) |
+| Marjorie Dean at Hamilton Arms | have | PG 52626, `jchase-marjorie-dean-at-hamilton-arms` (1059 units) |
+| Marjorie Dean, Marvelous Manager | have | PG 53213, `jchase-marjorie-dean-marvelous-manager` (1112 units) |
+| Patsy Carroll Under Southern Skies | have | PG 53361, `jchase-patsy-carroll-under-southern-skies` (1682 units) |
+| Marjorie Dean's Romance | have | PG 53440, `jchase-marjorie-deans-romance` (1114 units) |
+| Marjorie Dean Macy | have | PG 53637, `jchase-marjorie-dean-macy` (1287 units) |
+| Marjorie Dean Macy's Hamilton Colony | have | PG 53987, `jchase-marjorie-dean-macys-hamilton-colony` (1201 units) |
+| Grace Harlowe's Overland Riders in the Yellowstone National Park | have | PG 57996, `jchase-grace-harlowes-overland-riders-in-the-yellowstone-nat` (1691 units) |
+| Grace Harlowe's Overland Riders at Circle O Ranch | have | PG 62743, `jchase-grace-harlowes-overland-riders-at-circle-o-ranch` (1485 units) |
+| Grace Harlowe's Overland Riders on the Lost River Trail | have | PG 62946, `jchase-grace-harlowes-overland-riders-on-the-lost-river-trai` (1809 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
