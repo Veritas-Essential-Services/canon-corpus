@@ -298,3 +298,5 @@
 - 2026-10-17T22:44-05:00: round 110: new loew (4); bowring +1, singles-plays-poetry-2 +1, singles-fiction-3 +2. Identity overrides: Bowring Petofi (OCR), Ashes vol 1 (no title page). --verify --record 0 mismatched.
 
 - 2026-10-17T22:51-05:00: round 111: hispanic-classics +5 (Espinel x2, Gracian x2, Guevara), singles-nonfiction-2 +1 (Krasinski). Identity override: Saldkeld (letter-spaced OCR). --verify --record 0 mismatched.
+
+- 2026-10-17T22:59-05:00: round 112: selver +7, singles-fiction-3 +1 (Makropoulos), singles-arts-miscellany +1 (How a Play). Czechoslovak anthology to _pending (undated). --verify --record 0 mismatched.

@@ -3856,6 +3856,14 @@
       "finished": "2026-10-17T22:51-05:00",
       "scope": "GAP-FILL (round 111, lane C's choice; Adam may veto) -- hispanic-classics +5, singles-nonfiction-2 +1; PD printings before 1931 only; no minting",
       "notes": "6 titles; ids checked across all branches. See DIGEST-C round 111. No uids minted."
+    },
+    {
+      "id": "gapfill-r112-czech",
+      "status": "done",
+      "started": "2026-10-17T22:55-05:00",
+      "finished": "2026-10-17T22:59-05:00",
+      "scope": "GAP-FILL (round 112, lane C's choice; Adam may veto) -- selver +7, singles-fiction-3 +1, singles-arts-miscellany +1; PD printings before 1931 only; no minting",
+      "notes": "9 titles; ids checked across all branches. See DIGEST-C round 112. No uids minted."
     }
   ]
 }

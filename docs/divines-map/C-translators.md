@@ -2952,15 +2952,24 @@ Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `winifred-stephens-france-clio` | Anatole France | Clio | Winifred Stephens | 1909-1922 (see the Gutenberg header) | have | PG 50670 |
 | `winifred-stephens-france-the-life-of-joan-of-arc-vol-1-and-2` | Anatole France | The Life of Joan of Arc, Vol. 1 and 2 | Winifred Stephens | 1909-1922 (see the Gutenberg header) | have | PG 19488 |
 
-## Paul Selver (Čapek's R.U.R. and The Insect Play)
+## Paul Selver (Čapek's R.U.R., The Insect Play and Letters from England; his Bohemian, Russian, Slavonic and Czech anthologies; Machar's The Jail; Josef Čapek's The Land of Many Names)
 
 Shelf: `pipeline/selver_shelf.json` · fetch `python3 pipeline/fetch_shelf.py selver` · titles `python3 pipeline/split_shelf_titles.py selver`.
-Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 31 (2026-10-10), vetoable. Round 112 (2026-10-17) added seven titles from archive.org scans (1912-1926). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `selver-capek-and-so-ad-infinitum-the-life-of-the-inse` | Karel Čapek | 'And So Ad Infinitum' (The Life of the Insects) An Entomological Review, in Three Acts, a Prologue and an Epilogue | Paul Selver | 1923 (see the Gutenberg header) | have | PG 61420 |
 | `selver-capek-r-u-r-rossum-s-universal-robots-a-fantas` | Karel Čapek | R.U.R. (Rossum's Universal Robots) A Fantastic Melodrama in Three Acts and an Epilogue | Paul Selver (with Nigel Playfair) | 1923 (see the Gutenberg header) | have | PG 59112 |
+| `selver-anthology-of-modern-bohemian-poetry` | various Czech poets (Kollár, Erben, Vrchlický, Březina, Machar and others) | An Anthology of Modern Bohemian Poetry | Paul Selver | 1912 | have-raw | IA `anthologyofmoder0000selv` |
+| `selver-modern-russian-poetry` | various Russian poets | Modern Russian Poetry: Texts and Translations | Paul Selver | 1917 | have-raw | IA `modernrussianpo00selvuoft` |
+| `selver-anthology-of-modern-slavonic-literature` | various Russian, Polish, Czech, Slovak, Serbian, Croatian, Slovene and Bulgarian writers | Anthology of Modern Slavonic Literature in Prose and Verse | Paul Selver | 1919 | have-raw | IA `anthologyofmoder00selvuoft` |
+| `selver-modern-czech-poetry` | various Czech poets | Modern Czech Poetry: Selected Texts with Translations | Paul Selver | 1920 | have-raw | IA `modernczechpoetr00selvuoft` |
+| `selver-machar-the-jail` | J. S. Machar | The Jail: Experiences in 1916 | Paul Selver | 1921 | have-raw | IA `jailexperiences1916machar` |
+| `selver-capek-letters-from-england` | Karel Čapek | Letters from England | Paul Selver | 1925 | have-raw | IA `bwb_W9-DIZ-127` |
+| `selver-josef-capek-land-of-many-names` | Josef Čapek | The Land of Many Names: A Play in Three Acts and a Transformation | Paul Selver | 1926 | have-raw | IA `landofmanynamesp00byjo` |
+| `anthology-of-czechoslovak-literature` | — | Selver's An Anthology of Czechoslovak Literature (Kegan Paul; catalogued 1929), Digital Library of India scan in.ernet.dli.2015.178489: no year is printed on its title page or preface and the latest date in it is a 1928 death, so a later impression cannot be ruled out. Waits for a dated scan or a ruling on undated scans. | — | — | pending | — |
+| — | — | otakar-brezina-study: Selver's Otakar Březina: A Study in Czech Literature (Blackwell, 1921) is a critical study, not a translation. | — | — | excluded | — |
 
 ## J. M. Rigg (Boccaccio's Decameron, 2 vols)
 
@@ -5642,7 +5651,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5718,6 +5727,7 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-garshin-the-signal-and-other-stories` | Vsevolod Garshin | The Signal, and Other Stories | Captain Rowland Smith | 1912 | have-raw | IA `signalotherstori00garsrich` |
 | `singles-fiction-3-zeromski-ashes-vol-1` | Stefan Żeromski | Ashes, vol. I | Helen Stankiewicz Zand | 1928 | have-raw | IA `ashes0001stef` |
 | `singles-fiction-3-zeromski-ashes-vol-2` | Stefan Żeromski | Ashes, vol. II | Helen Stankiewicz Zand | 1928 | have-raw | IA `bwb_S0-DFX-920` |
+| `singles-fiction-3-capek-makropoulos-secret` | Karel Čapek | The Makropoulos Secret | Randal C. Burrell (adapted) | 1925 | have-raw | IA `makropoulossecre0000kare` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -5942,7 +5952,7 @@ Round 46 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: art, music, memoir and miscellany (Leonardo's Treatise on Painting, Hegel's Fine Art, Forkel's Bach, Rimsky-Korsakov, Dürer, King Alfred's Soliloquies, the Dhammapada, Platter)
 
 Shelf: `pipeline/singles-arts-miscellany_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-arts-miscellany` · titles `python3 pipeline/split_shelf_titles.py singles-arts-miscellany`.
-Round 47 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 47 (2026-10-10), vetoable. Round 112 (2026-10-17) added Wadsworth's Čapek, How a Play Is Produced (1928). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5998,6 +6008,7 @@ Round 47 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-arts-miscellany-tanska-hoffmanowa-the-journal-of-countess-francoise-krasin` | Klementyna Tańska-Hoffmanowa | The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel | Kasimir Dziekonska | (see the Gutenberg header) | have | PG 36660 |
 | `singles-arts-miscellany-wasielewski-the-violoncello-and-its-history` | Wilhelm Joseph von Wasielewski | The Violoncello and Its History | Isobella S. E. Stigand | (see the Gutenberg header) | have | PG 42629 |
 | `singles-arts-miscellany-van-gogh` | Vincent van Gogh | The Letters of a Post-Impressionist, being the Familiar Correspondence of Vincent van Gogh | Anthony M. Ludovici | 1912 | have-raw | IA `lettersofpostimp00goghuoft` |
+| `singles-arts-miscellany-capek-how-a-play-is-produced` | Karel Čapek | How a Play Is Produced (illustrated by Josef Čapek) | P. Beaumont Wadsworth | 1928 | have-raw | IA `dli.ministry.14322` |
 | — | — | busch-38902: Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes). | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse from the first stretch of the list (Mühlbach, Pushkin, Blavatsky's Grand Inquisitor, Sienkiewicz, Hamsun, Ibsen's early plays, Dante's Banquet, the Pembroke Antonius)

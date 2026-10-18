@@ -97,7 +97,9 @@
   "z. tamotsu iwado",
   "captain rowland smith",
   "helen stankiewicz zand",
-  "stankiewicz zand"
+  "stankiewicz zand",
+  "randal c. burrell",
+  "randal burrell"
  ],
  "_surname": [
   "a. e. chamot",
@@ -196,7 +198,9 @@
   "z. tamotsu iwado",
   "captain rowland smith",
   "helen stankiewicz zand",
-  "stankiewicz zand"
+  "stankiewicz zand",
+  "randal c. burrell",
+  "randal burrell"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -516,6 +520,10 @@
   "sf3-zeromski-ashes-vol-2": [
    "helen stankiewicz zand",
    "stankiewicz zand"
+  ],
+  "sf3-capek-makropoulos-secret": [
+   "randal c. burrell",
+   "randal burrell"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -810,6 +818,10 @@
   "sf3-zeromski-ashes-vol-2": [
    "bwb_S0-DFX-920",
    "Ashes, vol. II (1928)"
+  ],
+  "sf3-capek-makropoulos-secret": [
+   "makropoulossecre0000kare",
+   "The Makropoulos Secret (1925)"
   ]
  },
  "titles": {
@@ -1394,6 +1406,14 @@
    "translated": 1928,
    "translator": "Helen Stankiewicz Zand",
    "scan_edition": "Alfred A. Knopf, New York 1928; archive.org scan"
+  },
+  "singles-fiction-3-capek-makropoulos-secret": {
+   "source": "sf3-capek-makropoulos-secret",
+   "of": "Karel Čapek",
+   "work": "The Makropoulos Secret",
+   "translated": 1925,
+   "translator": "Randal C. Burrell (adapted)",
+   "scan_edition": "John W. Luce & Company, Boston; first published January 1925; archive.org scan"
   }
  },
  "_pending": {
@@ -2059,6 +2079,17 @@
    "ia_date": "1928",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sf3-capek-makropoulos-secret": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "randal c. burrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2453,6 +2484,16 @@
     2025
    ],
    "post_1930_examined": "Examined in round 110: 2025 is the Internet Archive's digitising line, not an imprint; the copyright page reads Copyright 1928, by Alfred A. Knopf."
+  },
+  "sf3-capek-makropoulos-secret": {
+   "ia": "makropoulossecre0000kare",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1924,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

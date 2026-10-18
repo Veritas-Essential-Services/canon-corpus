@@ -70,7 +70,9 @@
   "william bennett munro",
   "william deane butcher",
   "william henry davenport adams",
-  "william henry furness"
+  "william henry furness",
+  "p. beaumont wadsworth",
+  "beaumont wadsworth"
  ],
  "_surname": [
   "a. eaglefield hull",
@@ -142,7 +144,9 @@
   "william bennett munro",
   "william deane butcher",
   "william henry davenport adams",
-  "william henry furness"
+  "william henry furness",
+  "p. beaumont wadsworth",
+  "beaumont wadsworth"
  ],
  "_surname_by_slug": {
   "sam-33483": [
@@ -371,6 +375,10 @@
   "sam-ia-van-gogh": [
    "anthony m. ludovici",
    "ludovici"
+  ],
+  "sam-ia-capek-how-a-play-is-produced": [
+   "p. beaumont wadsworth",
+   "beaumont wadsworth"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -585,6 +593,11 @@
   "sam-ia-van-gogh": [
    "lettersofpostimp00goghuoft",
    "The Letters of a Post-Impressionist (Constable, 1912)"
+  ],
+  "sam-ia-capek-how-a-play-is-produced": [
+   "dli.ministry.14322",
+   "How a Play Is Produced (1928)",
+   "E06445_How_A_Play_Is_Produced_djvu.txt"
   ]
  },
  "titles": {
@@ -1007,6 +1020,14 @@
    "translator": "Anthony M. Ludovici",
    "scan_edition": "Constable, London, 1912; Internet Archive scan lettersofpostimp00goghuoft (University of Toronto)",
    "note": "Raw OCR."
+  },
+  "singles-arts-miscellany-capek-how-a-play-is-produced": {
+   "source": "sam-ia-capek-how-a-play-is-produced",
+   "of": "Karel Čapek",
+   "work": "How a Play Is Produced (illustrated by Josef Čapek)",
+   "translated": 1928,
+   "translator": "P. Beaumont Wadsworth",
+   "scan_edition": "Geoffrey Bles, London; first published 1928; Digital Library of India scan"
   }
  },
  "_pending": {},
@@ -1484,6 +1505,17 @@
    "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sam-ia-capek-how-a-play-is-produced": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "p. beaumont wadsworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1752,6 +1784,14 @@
     1903,
     1911,
     1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sam-ia-capek-how-a-play-is-produced": {
+   "ia": "dli.ministry.14322",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
    ],
    "post_1930_years_in_front_15k": []
   }
