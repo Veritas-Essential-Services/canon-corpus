@@ -6043,6 +6043,7 @@ Shelf: `pipeline/otto-von-gierke_shelf.json`. Maitland's translation (1900). Not
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Political Theories of the Middle Age, tr. F. W. Maitland (Cambridge, 1900; reprint 1913) | Maitland | `gierke-political-theories-middle-age-1900` | have-raw (IA `politicaltheorie00gieruoft`) |
 
 ## James Bryce (history and political science)
 
