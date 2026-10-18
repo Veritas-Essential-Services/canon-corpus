@@ -1,0 +1,44 @@
+{
+ "_about": "Thomas Fowler (1832-1904), Oxford logician and moralist, president of Corpus Christi College. Gutenberg: Locke (English Men of Letters, 1880); Progressive Morality (1884). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Thomas Fowler",
+ "_name_words": [
+  "thomas",
+  "fowler"
+ ],
+ "_surname": [
+  "thomas fowler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fowler-locke": [
+   46130,
+   "Locke (English Men of Letters, 1880)"
+  ],
+  "fowler-progressive-morality": [
+   12035,
+   "Progressive Morality (1884)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fowler-locke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fowler-progressive-morality": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

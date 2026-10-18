@@ -7515,6 +7515,8 @@ Shelf: `pipeline/thomas-fowler_shelf.json`. Two books, 1880-1884.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Locke (English Men of Letters, 1880) |  | `fowler-locke` | have (PG 46130) |
+| Progressive Morality (1884) |  | `fowler-progressive-morality` | have (PG 12035) |
 
 Pending (wishlist): Elements of Deductive Logic and Elements of Inductive Logic (Clarendon Press)
 
