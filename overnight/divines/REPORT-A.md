@@ -1726,3 +1726,6 @@
 
 ## 2026-10-17 22:10 CDT — round 34 closed
 - 24 shelves, 166 items (17 PG, 149 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:27 CDT — john-ireland done
+- `pipeline/john-ireland_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

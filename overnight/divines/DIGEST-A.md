@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:09 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:27 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -795,6 +795,14 @@ Twenty-four authors queued in QUEUE-A.json, each built from title pages read for
 | Charles Wesley | charles-wesley_shelf.json | none | 3 (The Journal of the Rev. Charles Wesley, with selections from his correspondence and poetry, introduction and notes by Thomas Jackson, vol. I (London: John Mason, 1849); The Journal of the Rev. Charles Wesley, ed. Thomas Jackson, vol. II (London: John Mason, 1849); A Sermon preach'd on Sunday, April 4, 1742, before the University of Oxford, the second edition (London: W. Strahan, 1742)) | 1 (Sermons (1816): no scan found) | The Cause and Cure of Earthquakes (1750): its title page names no author; editions from 1977 on |
 
 Round 34 closed 2026-10-17 22:10 CDT: 24 shelves, 166 items (17 Gutenberg, 149 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. The library catalogue misdates Fox's 1831 Works as a 1975 AMS reprint and Penn's 1782 Select Works as a 1971 Kraus reprint; every volume's title page was read and is recorded.
+
+## Round 35: church historians, Montalembert, Lingard, the Russian Church in English, Catholic bishops and writers, and Prayer Book scholars, before 1930 (my picks)
+
+Twenty-three authors queued in QUEUE-A.json, each built from title pages read for this round; Peter Canisius was dropped at build time because the only copy found (the 1622 Summe of Christian Doctrine) has OCR too poor to show his name on the title page. Mosheim's Commentaries may interest lane B. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| John Ireland | john-ireland_shelf.json | none | 4 (The Church and Modern Society: Lectures and Addresses (Chicago and New York: D. H. McBride; title page undated, copyright 1896); The Church and Modern Society: Lectures and Addresses, vol. I (St. Paul: Pioneer Press, 1905); The Church and Modern Society: Lectures and Addresses, vol. II (St. Paul: Pioneer Press, 1905); Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated)) | none |  |
 
 ## Paused 2026-10-10 15:12 CDT
 

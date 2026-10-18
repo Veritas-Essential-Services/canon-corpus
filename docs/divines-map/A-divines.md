@@ -8303,3 +8303,15 @@ Slugs `cwesley-*`. Built from title pages read for round 34.
 | A Sermon preach'd on Sunday, April 4, 1742, before the University of Oxford, the second edition (London: W. Strahan, 1742) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-on-sun_wesley-charles_1742` |
 | The 1783 Paramore printing of the sermon; the undated Wesleyan Methodist Book-Room reissue of Jackson's Journal (catalogued 1849 in error); Telford's Early Journal (1909) | alternate | not shelved |
 | The Cause and Cure of Earthquakes (1750): its title page names no author; editions from 1977 on | excluded | |
+
+## John Ireland (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The Church and Modern Society: Lectures and Addresses (Chicago and New York: D. H. McBride; title page undated, copyright 1896) | have-ocr | IA `churchmodernsoci00irel` |
+| The Church and Modern Society: Lectures and Addresses, vol. I (St. Paul: Pioneer Press, 1905) | have-ocr | IA `churchmodernsoci01irel` |
+| The Church and Modern Society: Lectures and Addresses, vol. II (St. Paul: Pioneer Press, 1905) | have-ocr | IA `churchmodernsoci02irel` |
+| Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated) | have-ocr | IA `patriotismitsdut00irel` |
+| Other 1896 and 1903 McBride issues; a 1904 Pioneer Press vol. II (catalogued 1903 in error); his Memoir of Rev. Lucian Galtier and the Shields address (offprints, no imprint) | alternate | not shelved |
