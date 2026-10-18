@@ -7866,6 +7866,8 @@ Shelf: `pipeline/max-otto_shelf.json`. Two books, 1924-1926.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Things and Ideals (Holt, 1924) |  | `otto-things-and-ideals-1924` | have-raw (IA `thingsidealsessa0000otto`) |
+| Natural Laws and Human Hopes (Holt, 1926) |  | `otto-natural-laws-and-human-hopes-1926` | have-raw (IA `naturallawshuman0000otto`) |
 
 ## Christine Ladd-Franklin (logic and colour vision)
 
