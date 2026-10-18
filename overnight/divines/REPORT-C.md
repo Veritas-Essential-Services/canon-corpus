@@ -245,3 +245,5 @@
 - 2026-10-17T19:47-05:00: round 84: gibb (6). --verify --record 0 mismatched. gibb-ottoman-poems identity override (OCR).
 
 - 2026-10-17T19:51-05:00: round 85: arabic-classics +3 (13). --verify --record 0 mismatched.
+
+- 2026-10-17T19:56-05:00: round 86: rodkinson (18). --verify --record 0 mismatched.

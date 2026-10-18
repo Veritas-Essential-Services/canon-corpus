@@ -1,0 +1,654 @@
+{
+ "_about": "TRANSLATOR SHELF: Michael L. Rodkinson (1845-1904). His English translation of the Babylonian Talmud, the sections Moed (Festivals) and Jurisprudence (Damages), in the second edition, 're-edited, revised and enlarged' (Boston, The Talmud Society, 1918; first edition New York, 1896-1903): eighteen volumes of translation. Rodkinson's own History of the Talmud (the set's vols XIX-XX) is not a translation and is left out. Gorfinkle's Pirke Avot and Ginzberg's Legends of the Jews are on their own shelves. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 86); Adam may veto. No uids minted.",
+ "_name_words": [
+  "rodkinson",
+  "michael l. rodkinson",
+  "michael levi rodkinson"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "rodkinson",
+  "michael l. rodkinson",
+  "michael levi rodkinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rodkinson-talmud-01": [
+   "neweditionofbaby191801rodk",
+   "New Edition of the Babylonian Talmud, vol. I: Tract Sabbath, part I (1918)",
+   "neweditionofbaby191801rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-02": [
+   "neweditionofbaby191802rodk",
+   "New Edition of the Babylonian Talmud, vol. II: Tract Sabbath, part II (1918)",
+   "neweditionofbaby191802rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-03": [
+   "neweditionofbaby191803rodk",
+   "New Edition of the Babylonian Talmud, vol. III: Tract Erubin (1918)",
+   "neweditionofbaby191803rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-04": [
+   "neweditionofbaby191804rodk",
+   "New Edition of the Babylonian Talmud, vol. IV: Tracts Shekalim and Rosh Hashana (1918)",
+   "neweditionofbaby191804rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-05": [
+   "neweditionofbaby191805rodk",
+   "New Edition of the Babylonian Talmud, vol. V: Tract Pesachim (Passover) (1918)",
+   "neweditionofbaby191805rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-06": [
+   "neweditionofbaby191806rodk",
+   "New Edition of the Babylonian Talmud, vol. VI: Tracts Yomah and Hagiga (1918)",
+   "neweditionofbaby191806rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-07": [
+   "neweditionofbaby191807rodk",
+   "New Edition of the Babylonian Talmud, vol. VII: Tracts Betzah, Succah and Moed Katan (1918)",
+   "neweditionofbaby191807rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-08": [
+   "neweditionofbaby191808rodk",
+   "New Edition of the Babylonian Talmud, vol. VIII: Tracts Taanith, Megilla and Ebel Rabbathi (1918)",
+   "neweditionofbaby191808rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-09": [
+   "neweditionofbaby191809rodk",
+   "New Edition of the Babylonian Talmud, vol. IX: Tracts Aboth, with Aboth of R. Nathan, Derech Eretz Rabba and Zuta (1918)",
+   "neweditionofbaby191809rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-10": [
+   "neweditionofbaby191810rodk",
+   "New Edition of the Babylonian Talmud, vol. X: Tract Baba Kama (First Gate), part I (1918)",
+   "neweditionofbaby191810rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-11": [
+   "neweditionofbaby191811rodk",
+   "New Edition of the Babylonian Talmud, vol. XI: Tract Baba Kama, end, and Baba Metzia, part I (1918)",
+   "neweditionofbaby191811rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-12": [
+   "neweditionofbaby191812rodk",
+   "New Edition of the Babylonian Talmud, vol. XII: Tract Baba Metzia (Middle Gate) (1918)",
+   "neweditionofbaby191812rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-13": [
+   "neweditionofbaby191813rodk",
+   "New Edition of the Babylonian Talmud, vol. XIII: Tract Baba Bathra (Last Gate), part I (1918)",
+   "neweditionofbaby191813rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-14": [
+   "neweditionofbaby191814rodk",
+   "New Edition of the Babylonian Talmud, vol. XIV: Tract Baba Bathra, part II (1918)",
+   "neweditionofbaby191814rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-15": [
+   "neweditionofbaby191815rodk",
+   "New Edition of the Babylonian Talmud, vol. XV: Tract Sanhedrin, part I (1918)",
+   "neweditionofbaby191815rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-16": [
+   "neweditionofbaby191816rodk",
+   "New Edition of the Babylonian Talmud, vol. XVI: Tract Sanhedrin, part II (1918)",
+   "neweditionofbaby191816rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-17": [
+   "neweditionofbaby191817rodk",
+   "New Edition of the Babylonian Talmud, vol. XVII: Tracts Maccoth and Shebuoth (1918)",
+   "neweditionofbaby191817rodk_djvu.txt"
+  ],
+  "rodkinson-talmud-18": [
+   "neweditionofbaby191818rodk",
+   "New Edition of the Babylonian Talmud, vol. XVIII: Tracts Abuda Zara and Horioth (1918)",
+   "neweditionofbaby191818rodk_djvu.txt"
+  ]
+ },
+ "titles": {
+  "rodkinson-talmud-01": {
+   "source": "rodkinson-talmud-01",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. I: Tract Sabbath, part I",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-02": {
+   "source": "rodkinson-talmud-02",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. II: Tract Sabbath, part II",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-03": {
+   "source": "rodkinson-talmud-03",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. III: Tract Erubin",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-04": {
+   "source": "rodkinson-talmud-04",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. IV: Tracts Shekalim and Rosh Hashana",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-05": {
+   "source": "rodkinson-talmud-05",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. V: Tract Pesachim (Passover)",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-06": {
+   "source": "rodkinson-talmud-06",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. VI: Tracts Yomah and Hagiga",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-07": {
+   "source": "rodkinson-talmud-07",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. VII: Tracts Betzah, Succah and Moed Katan",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-08": {
+   "source": "rodkinson-talmud-08",
+   "of": "The Babylonian Talmud, section Moed (Festivals)",
+   "work": "New Edition of the Babylonian Talmud, vol. VIII: Tracts Taanith, Megilla and Ebel Rabbathi",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-09": {
+   "source": "rodkinson-talmud-09",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. IX: Tracts Aboth, with Aboth of R. Nathan, Derech Eretz Rabba and Zuta",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-10": {
+   "source": "rodkinson-talmud-10",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. X: Tract Baba Kama (First Gate), part I",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-11": {
+   "source": "rodkinson-talmud-11",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XI: Tract Baba Kama, end, and Baba Metzia, part I",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-12": {
+   "source": "rodkinson-talmud-12",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XII: Tract Baba Metzia (Middle Gate)",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-13": {
+   "source": "rodkinson-talmud-13",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XIII: Tract Baba Bathra (Last Gate), part I",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-14": {
+   "source": "rodkinson-talmud-14",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XIV: Tract Baba Bathra, part II",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-15": {
+   "source": "rodkinson-talmud-15",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XV: Tract Sanhedrin, part I",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-16": {
+   "source": "rodkinson-talmud-16",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XVI: Tract Sanhedrin, part II",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-17": {
+   "source": "rodkinson-talmud-17",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XVII: Tracts Maccoth and Shebuoth",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  },
+  "rodkinson-talmud-18": {
+   "source": "rodkinson-talmud-18",
+   "of": "The Babylonian Talmud, section Jurisprudence (Damages)",
+   "work": "New Edition of the Babylonian Talmud, vol. XVIII: Tracts Abuda Zara and Horioth",
+   "translated": 1918,
+   "translator": "Michael L. Rodkinson",
+   "scan_edition": "The Talmud Society, Boston 1918, second edition, re-edited, revised and enlarged (first edition New Talmud Publishing Co., New York, 1896-1903); archive.org scan, raw OCR"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "rodkinson-history-of-the-talmud": "Vols XIX-XX of the 1918 set (neweditionofbaby191819rodk, neweditionofbaby191820rodk) are Rodkinson's own History of the Talmud, not a translation.",
+  "rodkinson-first-edition": "The 1896-1903 first edition is also on archive.org in scattered volumes from several libraries; the complete, uniform 1918 set was used instead."
+ },
+ "_checks": {
+  "rodkinson-talmud-01": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-02": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-03": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-04": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-05": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-06": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-07": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-08": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-09": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-16": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-17": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rodkinson-talmud-18": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rodkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "rodkinson-talmud-01": {
+   "ia": "neweditionofbaby191801rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896,
+    1901,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-02": {
+   "ia": "neweditionofbaby191802rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-03": {
+   "ia": "neweditionofbaby191803rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-04": {
+   "ia": "neweditionofbaby191804rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896,
+    1897,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-05": {
+   "ia": "neweditionofbaby191805rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-06": {
+   "ia": "neweditionofbaby191806rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1829,
+    1899,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-07": {
+   "ia": "neweditionofbaby191807rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-08": {
+   "ia": "neweditionofbaby191808rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-09": {
+   "ia": "neweditionofbaby191809rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1899,
+    1900,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-10": {
+   "ia": "neweditionofbaby191810rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-11": {
+   "ia": "neweditionofbaby191811rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-12": {
+   "ia": "neweditionofbaby191812rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-13": {
+   "ia": "neweditionofbaby191813rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-14": {
+   "ia": "neweditionofbaby191814rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1909,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-15": {
+   "ia": "neweditionofbaby191815rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1888,
+    1902,
+    1903,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-16": {
+   "ia": "neweditionofbaby191816rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1848,
+    1888,
+    1902,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-17": {
+   "ia": "neweditionofbaby191817rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1903,
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "rodkinson-talmud-18": {
+   "ia": "neweditionofbaby191818rodk",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

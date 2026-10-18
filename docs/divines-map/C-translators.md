@@ -6651,6 +6651,34 @@ Round 84 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | gibb-history-6: Vol. VI of A History of Ottoman Poetry (1909, historyofottoman06gibbuoft) contains the Turkish originals, not translations. | — | — | excluded | — |
 | — | — | gibb-ottoman-literature-1901: Ottoman Literature: the Poets and Poetry of Turkey (M. Walter Dunne, 1901) was not taken: not checked against the Colonial Press Turkish Literature of the same year (Gutenberg 56464, on hammer-purgstall). | — | — | excluded | — |
 
+## Michael L. Rodkinson (the Babylonian Talmud, sections Moed and Jurisprudence, 18 volumes, 1918 second edition)
+
+Shelf: `pipeline/rodkinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rodkinson` · titles `python3 pipeline/split_shelf_titles.py rodkinson`.
+Round 86 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rodkinson-talmud-01` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. I: Tract Sabbath, part I | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191801rodk` |
+| `rodkinson-talmud-02` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. II: Tract Sabbath, part II | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191802rodk` |
+| `rodkinson-talmud-03` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. III: Tract Erubin | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191803rodk` |
+| `rodkinson-talmud-04` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. IV: Tracts Shekalim and Rosh Hashana | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191804rodk` |
+| `rodkinson-talmud-05` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. V: Tract Pesachim (Passover) | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191805rodk` |
+| `rodkinson-talmud-06` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. VI: Tracts Yomah and Hagiga | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191806rodk` |
+| `rodkinson-talmud-07` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. VII: Tracts Betzah, Succah and Moed Katan | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191807rodk` |
+| `rodkinson-talmud-08` | The Babylonian Talmud, section Moed (Festivals) | New Edition of the Babylonian Talmud, vol. VIII: Tracts Taanith, Megilla and Ebel Rabbathi | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191808rodk` |
+| `rodkinson-talmud-09` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. IX: Tracts Aboth, with Aboth of R. Nathan, Derech Eretz Rabba and Zuta | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191809rodk` |
+| `rodkinson-talmud-10` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. X: Tract Baba Kama (First Gate), part I | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191810rodk` |
+| `rodkinson-talmud-11` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XI: Tract Baba Kama, end, and Baba Metzia, part I | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191811rodk` |
+| `rodkinson-talmud-12` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XII: Tract Baba Metzia (Middle Gate) | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191812rodk` |
+| `rodkinson-talmud-13` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XIII: Tract Baba Bathra (Last Gate), part I | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191813rodk` |
+| `rodkinson-talmud-14` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XIV: Tract Baba Bathra, part II | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191814rodk` |
+| `rodkinson-talmud-15` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XV: Tract Sanhedrin, part I | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191815rodk` |
+| `rodkinson-talmud-16` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XVI: Tract Sanhedrin, part II | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191816rodk` |
+| `rodkinson-talmud-17` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XVII: Tracts Maccoth and Shebuoth | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191817rodk` |
+| `rodkinson-talmud-18` | The Babylonian Talmud, section Jurisprudence (Damages) | New Edition of the Babylonian Talmud, vol. XVIII: Tracts Abuda Zara and Horioth | Michael L. Rodkinson | 1918 | have-raw | IA `neweditionofbaby191818rodk` |
+| — | — | rodkinson-history-of-the-talmud: Vols XIX-XX of the 1918 set (neweditionofbaby191819rodk, neweditionofbaby191820rodk) are Rodkinson's own History of the Talmud, not a translation. | — | — | excluded | — |
+| — | — | rodkinson-first-edition: The 1896-1903 first edition is also on archive.org in scattered volumes from several libraries; the complete, uniform 1918 set was used instead. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
