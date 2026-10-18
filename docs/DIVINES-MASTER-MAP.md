@@ -7638,6 +7638,18 @@ Slugs `moffat-*`. Built from title pages read for round 33.
 | Missionary Labours and Scenes in Southern Africa, seventh thousand (London: John Snow, 1842) | have-ocr | IA `b29294009` |
 | The 1843-1844 Carter New York editions and later Snow thousands | alternate | not shelved |
 | Juvenile adaptations; lives of him; his Sechuana works, which are not in English | excluded | |
+
+## John G. Paton (round 33, my pick, 2026-10-18)
+
+Slugs `paton-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| John G. Paton, Missionary to the New Hebrides, part first, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX) | have-ocr | IA `johngpatonmiss01patouoft` |
+| John G. Paton, Missionary to the New Hebrides, second part, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX) | have-ocr | IA `johngpatonmiss02patoiala` |
+| John G. Paton, Missionary to the New Hebrides: an Autobiography, vol. III, ed. by his brother (New York: Fleming H. Revell; copyright 1898) | have-ocr | IA `johngpatonmissio03pato` |
+| Later Hodder editions (1890-1891), the Carter and Revell issues, and PG 71542, 75800, 74994 | alternate | not shelved |
+| The Story of John G. Paton (PG 28025), James Paton's retelling for the young; modern reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1588,3 +1588,6 @@
 
 ## 2026-10-17 21:37 CDT — robert-moffat done
 - `pipeline/robert-moffat_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — john-g-paton done
+- `pipeline/john-g-paton_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

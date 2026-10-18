@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain John Gibson Paton (1824-1907, Presbyterian missionary to the New Hebrides) for the Word Hoard: John G. Paton, Missionary to the New Hebrides: an Autobiography, edited by his brother James Paton, Parts I and II (London, 1889) and vol. III (New York: Revell, 1898), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "paton"
+ ],
+ "_surname": [
+  "paton",
+  "john g. paton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "paton-autobiography-1": [
+   "johngpatonmiss01patouoft",
+   "John G. Paton, Missionary to the New Hebrides, part first, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX)"
+  ],
+  "paton-autobiography-2": [
+   "johngpatonmiss02patoiala",
+   "John G. Paton, Missionary to the New Hebrides, second part, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX)"
+  ],
+  "paton-autobiography-3": [
+   "johngpatonmissio03pato",
+   "John G. Paton, Missionary to the New Hebrides: an Autobiography, vol. III, ed. by his brother (New York: Fleming H. Revell; copyright 1898)"
+  ]
+ },
+ "_alternates": {
+  "paton-copies": "Later Hodder editions (1890-1891), the Carter and Revell issues, and PG 71542, 75800, 74994"
+ },
+ "_excluded": {
+  "paton-story": "The Story of John G. Paton (PG 28025), James Paton's retelling for the young; modern reprints"
+ },
+ "_rights_checked": {
+  "paton-autobiography-2": "title page read: 1889 (the catalogue's 2025 is wrong)",
+  "paton-autobiography-3": "title page read: copyright 1898 (the catalogue's 1889 is wrong)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "paton-autobiography-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889-90",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paton-autobiography-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1889-90 [v.1,1890]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1889 (the catalogue's 2025 is wrong)"
+  },
+  "paton-autobiography-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "paton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: copyright 1898 (the catalogue's 1889 is wrong)"
+  }
+ }
+}

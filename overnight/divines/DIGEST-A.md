@@ -740,6 +740,7 @@ Twenty-two authors queued in QUEUE-A.json, each built from title pages read for 
 |---|---|---|---|---|---|
 | David Livingstone | david-livingstone_shelf.json | none | 4 (Missionary Travels and Researches in South Africa (London: John Murray, 1857); Narrative of an Expedition to the Zambesi and its Tributaries, by David and Charles Livingstone (London: John Murray, 1865); The Last Journals of David Livingstone, vol. I, ed. Horace Waller (London: John Murray, 1874); The Last Journals of David Livingstone, vol. II, ed. Horace Waller (London: John Murray, 1874)) | none | The Popular Account (1861, 1875) and PG 2519: abridgements; Lives by Blaikie, Stanley and others |
 | Robert Moffat | robert-moffat_shelf.json | none | 1 (Missionary Labours and Scenes in Southern Africa, seventh thousand (London: John Snow, 1842)) | none | Juvenile adaptations; lives of him; his Sechuana works, which are not in English |
+| John G. Paton | john-g-paton_shelf.json | none | 3 (John G. Paton, Missionary to the New Hebrides, part first, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX); John G. Paton, Missionary to the New Hebrides, second part, ed. by his brother (London: Hodder and Stoughton, MDCCCLXXXIX); John G. Paton, Missionary to the New Hebrides: an Autobiography, vol. III, ed. by his brother (New York: Fleming H. Revell; copyright 1898)) | none | The Story of John G. Paton (PG 28025), James Paton's retelling for the young; modern reprints |
 
 ## Paused 2026-10-10 15:12 CDT
 
