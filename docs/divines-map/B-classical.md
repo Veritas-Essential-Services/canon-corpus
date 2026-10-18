@@ -5151,6 +5151,9 @@ Shelf: `pipeline/theodule-ribot_shelf.json`. Positive psychology in the French s
 | Diseases of Memory, an essay in the positive psychology (New York: Appleton, 1887) | William Huntington Smith | `ribot-smith-diseases-of-memory-1887` | have-raw (IA `diseasesofmemory00ribouoft`) |
 | The Psychology of Attention, 5th revised ed. (Chicago: Open Court, 1903) |  | `ribot-psychology-of-attention-1903` | have-raw (IA `psychologyofatte00ribo`) |
 | The Diseases of the Will, 4th enlarged English ed. (Chicago: Open Court, 1915) | Merwin-Marie Snell | `ribot-snell-diseases-of-the-will-1915` | have-raw (IA `diseasesofwillau00ribo`) |
+| Heredity: a psychological study of its phenomena, laws, causes and consequences (New York: D. Appleton, 1875) |  | `ribot-heredity-1875` | have-raw (IA `cu31924079619544`) |
+| English Psychology (New York: D. Appleton, 1874) |  | `ribot-english-psychology-1874` | have-raw (IA `englishpsycholog00ribouoft`) |
+| The Diseases of Personality (New York, copyright 1887 by J. Fitzgerald) | J. Fitzgerald | `ribot-fitzgerald-diseases-of-personality-1887` | have-raw (IA `diseasesofperson87ribo`) |
 
 ## Friedrich Schleiermacher
 

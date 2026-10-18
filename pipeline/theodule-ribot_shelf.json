@@ -1,5 +1,5 @@
 {
- "_about": "Théodule Ribot (1839-1916), founder of French scientific psychology, in English: The Psychology of the Emotions (London: Walter Scott, 1897; clean Gutenberg text, translator unnamed), and raw IA OCR of Diseases of Memory, tr. William Huntington Smith (New York: Appleton, 1887), The Psychology of Attention, authorised translation, 5th revised ed. (Chicago: Open Court, 1903), and The Diseases of the Will, tr. Merwin-Marie Snell, 4th enlarged English ed. (Open Court, 1915). US public domain. No uids minted.",
+ "_about": "Théodule Ribot (1839-1916), founder of French scientific psychology, in English: The Psychology of the Emotions (London: Walter Scott, 1897; clean Gutenberg text, translator unnamed), and raw IA OCR of Diseases of Memory, tr. William Huntington Smith (New York: Appleton, 1887), The Psychology of Attention, authorised translation, 5th revised ed. (Chicago: Open Court, 1903), and The Diseases of the Will, tr. Merwin-Marie Snell, 4th enlarged English ed. (Open Court, 1915). Added in round am: Heredity: a psychological study of its phenomena, laws, causes and consequences (New York: D. Appleton, 1875). Added in round am: English Psychology (New York: D. Appleton, 1874). Added in round am: The Diseases of Personality (New York, copyright 1887 by J. Fitzgerald), tr. J. Fitzgerald. US public domain. No uids minted.",
  "_author": "Théodule Ribot",
  "_name_words": [
   "theodule",
@@ -31,6 +31,19 @@
    "diseasesofwillau00ribo",
    "The Diseases of the Will, 4th enlarged English ed. (Chicago: Open Court, 1915)",
    "tr. Merwin-Marie Snell"
+  ],
+  "ribot-heredity-1875": [
+   "cu31924079619544",
+   "Heredity: a psychological study of its phenomena, laws, causes and consequences (New York: D. Appleton, 1875)"
+  ],
+  "ribot-english-psychology-1874": [
+   "englishpsycholog00ribouoft",
+   "English Psychology (New York: D. Appleton, 1874)"
+  ],
+  "ribot-fitzgerald-diseases-of-personality-1887": [
+   "diseasesofperson87ribo",
+   "The Diseases of Personality (New York, copyright 1887 by J. Fitzgerald)",
+   "tr. J. Fitzgerald"
   ]
  },
  "_excluded": {},
@@ -41,7 +54,7 @@
  "_checks": {
   "ribot-psychology-of-the-emotions-1897": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ribot",
    "identity": "ok",
@@ -50,7 +63,7 @@
   },
   "ribot-smith-diseases-of-memory-1887": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ribot",
    "translator_claimed": "Smith",
@@ -63,7 +76,7 @@
   },
   "ribot-psychology-of-attention-1903": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ribot",
    "identity": "ok",
@@ -74,7 +87,7 @@
   },
   "ribot-snell-diseases-of-the-will-1915": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "ribot",
    "translator_claimed": "Snell",
@@ -83,6 +96,39 @@
    "ia_rights": "ok: published 1915",
    "ia_date": "1915 [c1894]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ribot-heredity-1875": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ribot-english-psychology-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ribot-fitzgerald-diseases-of-personality-1887": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
