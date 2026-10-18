@@ -6612,6 +6612,9 @@ Shelf: `pipeline/henry-philip-tappan_shelf.json`. The will trilogy's first two p
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Review of Edwards's Inquiry into the Freedom of the Will |  | `tappan-review-of-edwards-inquiry` | have (PG 35958) |
+| The Doctrine of the Will (Wiley and Putnam, 1840) |  | `tappan-doctrine-of-the-will-1840` | have-raw (IA `doctrineofwillde00tapp`) |
+| Elements of Logic (Wiley and Putnam, 1844) |  | `tappan-elements-of-logic-1844` | have-raw (IA `elementsoflogic00tapp`) |
 
 Pending (wishlist): The Doctrine of the Will Applied to Moral Agency and Responsibility (1841)
 
