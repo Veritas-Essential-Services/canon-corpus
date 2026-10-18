@@ -6591,6 +6591,8 @@ Shelf: `pipeline/jacob-gould-schurman_shelf.json`. Two early books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Kantian Ethics and the Ethics of Evolution (1881) |  | `schurman-kantian-ethics-1881` | have-raw (IA `cihm_62085`) |
+| The Ethical Import of Darwinism (Scribner's, 1888) |  | `schurman-ethical-import-of-darwinism-1888` | have-raw (IA `theethicalimport00schuuoft`) |
 
 Pending (wishlist): Agnosticism and Religion (1896); Belief in God (1890)
 

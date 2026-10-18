@@ -1,0 +1,49 @@
+{
+ "_about": "Jacob Gould Schurman (1854-1942), philosopher, president of Cornell and founder of The Philosophical Review. Raw IA OCR: Kantian Ethics and the Ethics of Evolution, a critical study (London and Edinburgh: Williams and Norgate, 1881), clean 0.92; The Ethical Import of Darwinism (New York: Scribner's, 1888), clean 0.96. US public domain. No uids minted.",
+ "_author": "Jacob Gould Schurman",
+ "_name_words": [
+  "jacob",
+  "gould",
+  "schurman"
+ ],
+ "_surname": [
+  "schurman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schurman-kantian-ethics-1881": [
+   "cihm_62085",
+   "Kantian Ethics and the Ethics of Evolution (1881)"
+  ],
+  "schurman-ethical-import-of-darwinism-1888": [
+   "theethicalimport00schuuoft",
+   "The Ethical Import of Darwinism (Scribner's, 1888)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "schurman-kantian-ethics-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schurman-ethical-import-of-darwinism-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "schurman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
