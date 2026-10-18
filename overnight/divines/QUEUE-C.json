@@ -3864,6 +3864,14 @@
       "finished": "2026-10-17T22:59-05:00",
       "scope": "GAP-FILL (round 112, lane C's choice; Adam may veto) -- selver +7, singles-fiction-3 +1, singles-arts-miscellany +1; PD printings before 1931 only; no minting",
       "notes": "9 titles; ids checked across all branches. See DIGEST-C round 112. No uids minted."
+    },
+    {
+      "id": "gapfill-r113-french",
+      "status": "done",
+      "started": "2026-10-17T23:02-05:00",
+      "finished": "2026-10-17T23:05-05:00",
+      "scope": "GAP-FILL (round 113, lane C's choice; Adam may veto) -- french-classics +4, ts-perry +2; PD printings before 1931 only; no minting",
+      "notes": "6 titles; ids checked across all branches. See DIGEST-C round 113. No uids minted."
     }
   ]
 }

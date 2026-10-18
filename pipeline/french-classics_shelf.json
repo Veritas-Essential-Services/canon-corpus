@@ -1,17 +1,20 @@
 {
- "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted. Round 113 (2026-10-17, vetoable) added Ellis's Romance of the Rose (3 vols, 1900) and Gundry's Manon Lescaut (1886) (Perry's Princess of Cleves went to the ts-perry shelf).",
  "_name_words": [
   "a. e. waite",
   "a. r. scoble",
   "andrew r. scoble",
   "anthony barnes",
   "arthur edward waite",
+  "arthur w. gundry",
   "bayle st. john",
   "berners",
   "boswell",
   "edeveain",
   "edward thornton fisher",
+  "f. s. ellis",
   "forsyth edeveain",
+  "gundry",
   "hazlitt",
   "helen stott",
   "j. anthony barnes",
@@ -25,19 +28,22 @@
   "william hazlitt",
   "william mathews"
  ],
- "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'waite' alone is left out as a surname shared with other people.",
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'waite' alone is left out as a surname shared with other people. Bare 'ellis' is left out (common surname, also claimed by singles-history-travel).",
  "_surname": [
   "a. e. waite",
   "a. r. scoble",
   "andrew r. scoble",
   "anthony barnes",
   "arthur edward waite",
+  "arthur w. gundry",
   "bayle st. john",
   "berners",
   "boswell",
   "edeveain",
   "edward thornton fisher",
+  "f. s. ellis",
   "forsyth edeveain",
+  "gundry",
   "hazlitt",
   "helen stott",
   "j. anthony barnes",
@@ -140,6 +146,19 @@
   "frc-taine-on-intelligence": [
    "t. d. haye",
    "t . d . h a y e"
+  ],
+  "frc-romance-of-the-rose-vol-1": [
+   "f. s. ellis"
+  ],
+  "frc-romance-of-the-rose-vol-2": [
+   "f. s. ellis"
+  ],
+  "frc-romance-of-the-rose-vol-3": [
+   "f. s. ellis"
+  ],
+  "frc-prevost-manon-lescaut": [
+   "arthur w. gundry",
+   "gundry"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -230,6 +249,26 @@
   "frc-taine-on-intelligence": [
    "onintelligence00tain",
    "On Intelligence (1872)"
+  ],
+  "frc-romance-of-the-rose-vol-1": [
+   "in.ernet.dli.2015.500380",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. I (1900)",
+   "2015.500380.The-Romance_djvu.txt"
+  ],
+  "frc-romance-of-the-rose-vol-2": [
+   "TheRomanceOfTheRose",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. II (1900)",
+   "The_Romance_of_the_Rose_djvu.txt"
+  ],
+  "frc-romance-of-the-rose-vol-3": [
+   "TheRomanceOfTheRoseEllis3",
+   "The Romance of the Rose, Englished by F. S. Ellis, vol. III (1900)",
+   "The_Romance_of_the_Rose_Ellis_3_djvu.txt"
+  ],
+  "frc-prevost-manon-lescaut": [
+   "dli.ministry.23365",
+   "The Story of Manon Lescaut and of the Chevalier des Grieux (1886)",
+   "E07636_The_Story_of_Manon_Lescaut_djvu.txt"
   ]
  },
  "titles": {
@@ -402,6 +441,38 @@
    "translated": "1872",
    "translator": "T. D. Haye",
    "scan_edition": "Holt & Williams, New York, 1872; archive.org scan"
+  },
+  "french-classics-romance-of-the-rose-vol-1": {
+   "source": "frc-romance-of-the-rose-vol-1",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. I",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London; no year on the title page, Ellis's prologue dated Torquay, June 26, 1900, printed by Ballantyne, Hanson & Co.; Digital Library of India scan"
+  },
+  "french-classics-romance-of-the-rose-vol-2": {
+   "source": "frc-romance-of-the-rose-vol-2",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. II",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London MDCCCC; archive.org scan"
+  },
+  "french-classics-romance-of-the-rose-vol-3": {
+   "source": "frc-romance-of-the-rose-vol-3",
+   "of": "Guillaume de Lorris and Jean de Meun",
+   "work": "The Romance of the Rose, Englished by F. S. Ellis, vol. III",
+   "translated": 1900,
+   "translator": "F. S. Ellis",
+   "scan_edition": "J. M. Dent, Temple Classics, London; catalogued 1900, imprint not legible in the OCR; Harvard College Library copy, Google scan via archive.org"
+  },
+  "french-classics-prevost-manon-lescaut": {
+   "source": "frc-prevost-manon-lescaut",
+   "of": "Antoine François Prévost",
+   "work": "The Story of Manon Lescaut and of the Chevalier des Grieux",
+   "translated": 1886,
+   "translator": "Arthur W. Gundry",
+   "scan_edition": "Morrill, Higgins & Co., Chicago 1892 (copyright 1886 by Frederick T. Jones); Digital Library of India scan"
   }
  },
  "_pending": {},
@@ -409,7 +480,8 @@
   "froissart-johnes": "Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here.",
   "boys-froissart": "Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations.",
   "thierry-merovingian-1841": "Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer.",
-  "sainte-beuve-select-essays-butler": "A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931."
+  "sainte-beuve-select-essays-butler": "A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931.",
+  "romance-of-the-rose-vol-3-photocopy": "TheRomanceOfTheRoseVol.3 is a 1996 preservation photocopy (its text cites ANSI/NISO Z39.48-1992); the Harvard copy is used instead."
  },
  "_checks": {
   "frc-saint-simon-memoirs": {
@@ -640,6 +712,50 @@
    "ia_date": "1872",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-romance-of-the-rose-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. s. ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-prevost-manon-lescaut": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -864,7 +980,43 @@
     1973
    ],
    "post_1930_examined": "Examined in round 101: 1951 and 1973 are among the date-due stamps on a University of Illinois Library return slip, not imprints; the title page reads New York, Holt & Williams, 1872."
+  },
+  "frc-romance-of-the-rose-vol-1": {
+   "ia": "in.ernet.dli.2015.500380",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1538,
+    1640,
+    1878,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-romance-of-the-rose-vol-2": {
+   "ia": "TheRomanceOfTheRose",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-romance-of-the-rose-vol-3": {
+   "ia": "TheRomanceOfTheRoseEllis3",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-prevost-manon-lescaut": {
+   "ia": "dli.ministry.23365",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "frc-prevost-manon-lescaut": {
+   "author": "The title page OCR reads 'Translated from the French of L'ABBE PREVOST BY ARTHUR W. GUN Dit' for Arthur W. Gundry, under 'CHICAGO: MORRILL, HIGGINS & CO., 1892.' and 'Copyright 1886 by Frederick T. Jones'. Checked by eye 2026-10-17."
+  }
+ }
 }

@@ -300,3 +300,5 @@
 - 2026-10-17T22:51-05:00: round 111: hispanic-classics +5 (Espinel x2, Gracian x2, Guevara), singles-nonfiction-2 +1 (Krasinski). Identity override: Saldkeld (letter-spaced OCR). --verify --record 0 mismatched.
 
 - 2026-10-17T22:59-05:00: round 112: selver +7, singles-fiction-3 +1 (Makropoulos), singles-arts-miscellany +1 (How a Play). Czechoslovak anthology to _pending (undated). --verify --record 0 mismatched.
+
+- 2026-10-17T23:05-05:00: round 113: french-classics +4 (Ellis Rose x3, Gundry Manon), ts-perry +2 (Princess of Cleves). Identity overrides: Gundry (OCR), Cleves vol 2 (no title page). --verify --record 0 mismatched.

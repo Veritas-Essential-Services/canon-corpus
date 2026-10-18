@@ -21145,15 +21145,18 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ramsden-marholm-six-modern-women-psychological-sketches` | Laura Marholm | Six modern women: Psychological sketches | Hermione Ramsden | 1896-1899 (see the Gutenberg header) | have | PG 68655 |
 | `ramsden-marholm-we-women-and-our-authors` | Laura Marholm | We Women and Our Authors | Hermione Ramsden | 1896-1899 (see the Gutenberg header) | have | PG 67577 |
 
-## Thomas Sergeant Perry (Imbert de Saint-Amand)
+## Thomas Sergeant Perry (Imbert de Saint-Amand; Madame de La Fayette's The Princess of Cleves)
 
 Shelf: `pipeline/ts-perry_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ts-perry` · titles `python3 pipeline/split_shelf_titles.py ts-perry`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 113 (2026-10-17) added The Princess of Cleves (Little, Brown 1891, 2 vols) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `ts-perry-saint-amand-the-court-of-the-empress-josephine` | Imbert de Saint-Amand | The Court of the Empress Josephine | Thomas Sergeant Perry | 1890-1891 (see the Gutenberg header) | have | PG 9831 |
 | `ts-perry-saint-amand-the-happy-days-of-the-empress-marie-loui` | Imbert de Saint-Amand | The Happy Days of the Empress Marie Louise | Thomas Sergeant Perry | 1890-1891 (see the Gutenberg header) | have | PG 8575 |
+| `ts-perry-la-fayette-princess-of-cleves-vol-1` | Madame de La Fayette | The Princess of Cleves, vol. I | Thomas Sergeant Perry | 1891 | have-raw | IA `princessofcleves01lafauoft` |
+| `ts-perry-la-fayette-princess-of-cleves-vol-2` | Madame de La Fayette | The Princess of Cleves, vol. II | Thomas Sergeant Perry | 1891 | have-raw | IA `princessofcleves02lafauoft` |
+| — | — | princess-of-cleves-gutenberg-467: Gutenberg 467, The Princess of Cleves, names no translator. | — | — | excluded | — |
 
 ## Karl Friedrich Neumann (the China Sea pirates; Vahram's Chronicle)
 
@@ -24451,10 +24454,10 @@ Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | lcc-sappho-1855: Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check. | — | — | excluded | — |
 | — | — | oberon-1805: The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used. | — | — | excluded | — |
 
-## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes)
+## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes), the Romance of the Rose (Ellis), Manon Lescaut (Gundry)
 
 Shelf: `pipeline/french-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py french-classics` · titles `python3 pipeline/split_shelf_titles.py french-classics`.
-Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100; Taine's On Intelligence round 101. Not converted to unit-id JSON; **no uids minted**.
+Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100; Taine's On Intelligence round 101; Ellis's Romance of the Rose (3 vols) and Gundry's Manon Lescaut round 113. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24479,10 +24482,15 @@ Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 
 | `french-classics-senancour-obermann-barnes-vol-1` | Étienne Pivert de Senancour | Obermann, vol. I | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann01sena` |
 | `french-classics-senancour-obermann-barnes-vol-2` | Étienne Pivert de Senancour | Obermann, vol. II | J. Anthony Barnes | by 1910 (catalogue date) | have-raw | IA `obermann02sena` |
 | `french-classics-taine-on-intelligence` | Hippolyte Taine | On Intelligence, revised with additions by the author | T. D. Haye | 1872 | have-raw | IA `onintelligence00tain` |
+| `french-classics-romance-of-the-rose-vol-1` | Guillaume de Lorris and Jean de Meun | The Romance of the Rose, Englished by F. S. Ellis, vol. I | F. S. Ellis | 1900 | have-raw | IA `in.ernet.dli.2015.500380` |
+| `french-classics-romance-of-the-rose-vol-2` | Guillaume de Lorris and Jean de Meun | The Romance of the Rose, Englished by F. S. Ellis, vol. II | F. S. Ellis | 1900 | have-raw | IA `TheRomanceOfTheRose` |
+| `french-classics-romance-of-the-rose-vol-3` | Guillaume de Lorris and Jean de Meun | The Romance of the Rose, Englished by F. S. Ellis, vol. III | F. S. Ellis | 1900 | have-raw | IA `TheRomanceOfTheRoseEllis3` |
+| `french-classics-prevost-manon-lescaut` | Antoine François Prévost | The Story of Manon Lescaut and of the Chevalier des Grieux | Arthur W. Gundry | 1886 | have-raw | IA `dli.ministry.23365` |
 | — | — | froissart-johnes: Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here. | — | — | excluded | — |
 | — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
 | — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |
 | — | — | sainte-beuve-select-essays-butler: A. J. Butler's Select Essays of Sainte-Beuve (Edward Arnold; selectessaysofsa00sainuoft): the scan's title page carries no date and the catalogue record none either, so the printing cannot be shown to precede 1931. | — | — | excluded | — |
+| — | — | romance-of-the-rose-vol-3-photocopy: TheRomanceOfTheRoseVol.3 is a 1996 preservation photocopy (its text cites ANSI/NISO Z39.48-1992); the Harvard copy is used instead. | — | — | excluded | — |
 
 ## Shelf: Jules Michelet in English before 1931: G. H. Smith's History of France, Cocks's French Revolution, The People and Priests, Women, and Families, Hazlitt's Life of Luther, Palmer's Woman, Davenport Adams's Insect and Sea, Calfa's Bible of Humanity, Simpson's Summary of Modern History
 

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Thomas Sergeant Perry (1845-1928): Imbert de Saint-Amand's The Court of the Empress Josephine and The Happy Days of the Empress Marie Louise (Scribner, 1890-91). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Thomas Sergeant Perry (1845-1928): Imbert de Saint-Amand's The Court of the Empress Josephine and The Happy Days of the Empress Marie Louise (Scribner, 1890-91). Round 113 (2026-10-17, vetoable) added Madame de La Fayette's The Princess of Cleves (Little, Brown, 1891, 2 vols) from archive.org scans. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "thomas sergeant perry",
   "t. s. perry"
@@ -20,7 +20,16 @@
    "The Court of the Empress Josephine"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "tsp-la-fayette-princess-of-cleves-vol-1": [
+   "princessofcleves01lafauoft",
+   "The Princess of Cleves, vol. I (1891)"
+  ],
+  "tsp-la-fayette-princess-of-cleves-vol-2": [
+   "princessofcleves02lafauoft",
+   "The Princess of Cleves, vol. II (1891)"
+  ]
+ },
  "titles": {
   "ts-perry-saint-amand-the-court-of-the-empress-josephine": {
    "source": "tsp-9831",
@@ -37,10 +46,28 @@
    "translated": "1890-1891 (see the Gutenberg header)",
    "translator": "Thomas Sergeant Perry",
    "scan_edition": "Project Gutenberg 8575 (clean text)"
+  },
+  "ts-perry-la-fayette-princess-of-cleves-vol-1": {
+   "source": "tsp-la-fayette-princess-of-cleves-vol-1",
+   "of": "Madame de La Fayette",
+   "work": "The Princess of Cleves, vol. I",
+   "translated": 1891,
+   "translator": "Thomas Sergeant Perry",
+   "scan_edition": "Little, Brown, and Company, Boston 1891; University of Toronto scan"
+  },
+  "ts-perry-la-fayette-princess-of-cleves-vol-2": {
+   "source": "tsp-la-fayette-princess-of-cleves-vol-2",
+   "of": "Madame de La Fayette",
+   "work": "The Princess of Cleves, vol. II",
+   "translated": 1891,
+   "translator": "Thomas Sergeant Perry",
+   "scan_edition": "Little, Brown, and Company, Boston 1891; University of Toronto scan"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "princess-of-cleves-gutenberg-467": "Gutenberg 467, The Princess of Cleves, names no translator."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "tsp-8575": {
@@ -60,6 +87,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Thomas Sergeant Perry"
+  },
+  "tsp-la-fayette-princess-of-cleves-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas sergeant perry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tsp-la-fayette-princess-of-cleves-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,7 +121,31 @@
    "pg": 9831,
    "pg_copyrighted_marker": false,
    "pg_translator": "Thomas Sergeant Perry"
+  },
+  "tsp-la-fayette-princess-of-cleves-vol-1": {
+   "ia": "princessofcleves01lafauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1670,
+    1678,
+    1705,
+    1719,
+    1880,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tsp-la-fayette-princess-of-cleves-vol-2": {
+   "ia": "princessofcleves02lafauoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "tsp-la-fayette-princess-of-cleves-vol-2": {
+   "author": "This scan of vol. II begins at its contents page and has no title page. It is the second volume of the same Little, Brown 1891 two-volume set as vol. I (princessofcleves01lafauoft), whose title page reads 'TRANSLATED BY THOMAS SERGEANT PERRY. IN TWO VOLUMES. VOL. I. BOSTON: LITTLE, BROWN, AND COMPANY. 1891.'; the text runs on from Part III. Checked by eye 2026-10-17."
+  }
+ }
 }
