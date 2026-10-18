@@ -5939,6 +5939,10 @@ Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and t
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Science and Philosophy of the Organism, Gifford Lectures 1907, vol. I (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v1` | have-raw (IA `thescienceandphi01drieuoft`) |
+| The Science and Philosophy of the Organism, Gifford Lectures 1908, vol. II (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v2` | have-raw (IA `thescienceandphi02drieuoft`) |
+| The Problem of Individuality (Macmillan, 1914) |  | `driesch-problem-of-individuality-1914` | have-raw (IA `cu31924029083982`) |
+| The History and Theory of Vitalism, tr. C. K. Ogden (Macmillan, 1914) | Ogden | `driesch-history-theory-vitalism-ogden-1914` | have-raw (IA `TheHistoryAndTheoryOfVitalism`) |
 
 ## Perseus census (overflow)
 
