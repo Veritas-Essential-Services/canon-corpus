@@ -7375,6 +7375,16 @@ Shelf: `pipeline/edward-carpenter_shelf.json`. Ten books, 1889-1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Civilisation, its Cause and Cure (1889) |  | `carpenter-civilisation-cause-and-cure` | have (PG 44094) |
+| Sex-Love, and its Place in a Free Society (1894) |  | `carpenter-sex-love` | have (PG 37356) |
+| Marriage in Free Society (1894) |  | `carpenter-marriage-in-free-society` | have (PG 40209) |
+| Love's Coming-of-Age (1896) |  | `carpenter-loves-coming-of-age` | have (PG 63081) |
+| The Intermediate Sex (1908) |  | `carpenter-intermediate-sex` | have (PG 53763) |
+| The Drama of Love and Death (1912) |  | `carpenter-drama-of-love-and-death` | have (PG 44883) |
+| The Healing of Nations (1915) |  | `carpenter-healing-of-nations` | have (PG 10097) |
+| Never Again! (1916) |  | `carpenter-never-again` | have (PG 2990) |
+| My Days and Dreams (1916) |  | `carpenter-my-days-and-dreams` | have (PG 78612) |
+| Pagan and Christian Creeds (1920) |  | `carpenter-pagan-and-christian-creeds` | have (PG 1561) |
 
 ## Sidney and Beatrice Webb (Fabian socialism)
 
