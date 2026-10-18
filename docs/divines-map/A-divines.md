@@ -6048,3 +6048,19 @@ Slugs `hedley-*`. Benedictine Bishop of Newport; written in English.
 | Our Divine Saviour and Other Discourses, third edition (London: Burns & Oates; New York: Benziger; no year on the title page) | have-ocr | IA `OurDivineSaviourAndOtherDiscourses` |
 | Holy Eucharist new impression (1914); Lex Levitarum third edition (1927) | alternate | not shelved |
 | Evolution and Faith (Sheed & Ward, 1931) and the 1951 Retreat | excluded | |
+
+## T. E. Bridgett (round 28, my pick, 2026-10-18)
+
+Slugs `bridgett-*`. Redemptorist historian; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Our Lady's Dowry; or, How England Gained and Lost that Title (London: Burns and Oates, 1875) | have-ocr | IA `OurLadysDowry` |
+| History of the Holy Eucharist in Great Britain, vol. I (London: C. Kegan Paul, 1881) | have-ocr | IA `historyoftheholy01briduoft` |
+| History of the Holy Eucharist in Great Britain, vol. II (London: C. Kegan Paul, 1881) | have-ocr | IA `historyofholyeu02brid` |
+| Life of Blessed John Fisher (London: Burns & Oates; New York: Catholic Publication Society, 1888) | have-ocr | IA `cu31924029427162` |
+| Life and Writings of Sir Thomas More (London: Burns & Oates, 1891) | have-ocr | IA `lifewritingsofsi00brid` |
+| Blunders and Forgeries: historical essays (London: Kegan Paul, Trench, Trübner, 1890) | have-ocr | IA `blundersforgerie0000revt` |
+| Fisher second edition (1890), More (lifewritingsofs00brid), Blunders second edition (1891), the one-volume Holy Eucharist (1908) | alternate | not shelved |
+| Characteristics from Wiseman and The Wisdom and Wit of Blessed Thomas More: other men's words | excluded | |
+| The 1935 More and undated 1920s Fisher | excluded | |

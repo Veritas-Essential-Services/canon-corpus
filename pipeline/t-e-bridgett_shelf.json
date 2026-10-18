@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain Thomas Edward Bridgett (1829-1899, Redemptorist historian) for the Word Hoard: 6 volumes from Internet Archive scans: Our Lady's Dowry (1875), the History of the Holy Eucharist in Great Britain (2 vols, 1881), Blunders and Forgeries (1890) and his lives of John Fisher (1888) and Thomas More (1891). Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bridgett"
+ ],
+ "_surname": [
+  "bridgett",
+  "t. e. bridgett",
+  "thomas edward bridgett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bridgett-our-ladys-dowry": [
+   "OurLadysDowry",
+   "Our Lady's Dowry; or, How England Gained and Lost that Title (London: Burns and Oates, 1875)"
+  ],
+  "bridgett-holy-eucharist-1": [
+   "historyoftheholy01briduoft",
+   "History of the Holy Eucharist in Great Britain, vol. I (London: C. Kegan Paul, 1881)"
+  ],
+  "bridgett-holy-eucharist-2": [
+   "historyofholyeu02brid",
+   "History of the Holy Eucharist in Great Britain, vol. II (London: C. Kegan Paul, 1881)"
+  ],
+  "bridgett-john-fisher": [
+   "cu31924029427162",
+   "Life of Blessed John Fisher (London: Burns & Oates; New York: Catholic Publication Society, 1888)"
+  ],
+  "bridgett-thomas-more": [
+   "lifewritingsofsi00brid",
+   "Life and Writings of Sir Thomas More (London: Burns & Oates, 1891)"
+  ],
+  "bridgett-blunders-forgeries": [
+   "blundersforgerie0000revt",
+   "Blunders and Forgeries: historical essays (London: Kegan Paul, Trench, Trübner, 1890)"
+  ]
+ },
+ "_alternates": {
+  "bridgett-copies": "Fisher second edition (1890), More (lifewritingsofs00brid), Blunders second edition (1891), the one-volume Holy Eucharist (1908)"
+ },
+ "_excluded": {
+  "bridgett-edited": "Characteristics from Wiseman and The Wisdom and Wit of Blessed Thomas More: other men's words",
+  "bridgett-late": "The 1935 More and undated 1920s Fisher"
+ },
+ "_identity_checked": {
+  "bridgett-holy-eucharist-2": {
+   "author": "title page read: 'BY T. E. BRIDGRTT OF THE CONGREGATION OF THE MOST HOLY REDEEMER' (OCR garble of Bridgett), vol. II, London, C. Kegan Paul, 1881"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bridgett-our-ladys-dowry": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bridgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bridgett-holy-eucharist-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bridgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bridgett-holy-eucharist-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bridgett-john-fisher": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bridgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bridgett-thomas-more": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bridgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bridgett-blunders-forgeries": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bridgett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
