@@ -7221,6 +7221,12 @@ Shelf: `pipeline/jane-addams_shelf.json`. Six books, 1902-1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Democracy and Social Ethics (1902) |  | `addams-democracy-and-social-ethics` | have (PG 15487) |
+| Newer Ideals of Peace (1907) |  | `addams-newer-ideals-of-peace` | have (PG 69879) |
+| The Spirit of Youth and the City Streets (1909) |  | `addams-spirit-of-youth` | have (PG 16221) |
+| Twenty Years at Hull-House (1910) |  | `addams-twenty-years-at-hull-house` | have (PG 1325) |
+| A New Conscience and an Ancient Evil (1912) |  | `addams-new-conscience-ancient-evil` | have (PG 15221) |
+| The Long Road of Woman's Memory (1916) |  | `addams-long-road-of-womans-memory` | have (PG 69234) |
 
 ## Irving Babbitt (New Humanism)
 
