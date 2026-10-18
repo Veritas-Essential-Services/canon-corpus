@@ -3759,6 +3759,8 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 | Essays on Some Unsettled Questions of Political Economy (1844) |  | `mill-unsettled-questions-1844` | have (PG 12004) |
 | The Subjection of Women (London: Longmans, Green, Reader, and Dyer, 1869) |  | `mill-subjection-of-women-1869` | have (PG 27083) |
 | Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879) |  | `mill-socialism-1879` | have (PG 38138) |
+| Auguste Comte and Positivism (1865; the etext names no printing) |  | `mill-auguste-comte-positivism-1865` | have (PG 16833) |
+| The Contest in America, reprinted from Fraser's Magazine (1862; the etext names no printing) |  | `mill-contest-in-america-1862` | have (PG 5123) |
 | An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
 | Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |

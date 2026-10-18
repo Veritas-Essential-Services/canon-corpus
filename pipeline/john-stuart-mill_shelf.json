@@ -1,5 +1,5 @@
 {
- "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition; and from Project Gutenberg the System of Logic (8th ed., Harper, 1882), Considerations on Representative Government, the Autobiography, Essays on Some Unsettled Questions of Political Economy (1844), The Subjection of Women (1869) and the posthumous Socialism (Chicago, 1879). Two PG etexts (Representative Government, Autobiography) do not name the printing they follow; both works were first printed in Mill's lifetime or the year of his death and the etexts are Added in round ac: Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874). Added in round ae: Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900). US public domain. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
+ "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition; and from Project Gutenberg the System of Logic (8th ed., Harper, 1882), Considerations on Representative Government, the Autobiography, Essays on Some Unsettled Questions of Political Economy (1844), The Subjection of Women (1869) and the posthumous Socialism (Chicago, 1879). Two PG etexts (Representative Government, Autobiography) do not name the printing they follow; both works were first printed in Mill's lifetime or the year of his death and the etexts are Added in round ac: Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874). Added in round ae: Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900). Added in round av 2026-10-17: Auguste Comte and Positivism (1865) and The Contest in America (from Fraser's Magazine, 1862), clean Gutenberg texts whose printings are not named. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
  "_author": "John Stuart Mill",
  "_name_words": [
   "john",
@@ -34,6 +34,14 @@
   "mill-socialism-1879": [
    38138,
    "Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879)"
+  ],
+  "mill-auguste-comte-positivism-1865": [
+   16833,
+   "Auguste Comte and Positivism (1865; the etext names no printing)"
+  ],
+  "mill-contest-in-america-1862": [
+   5123,
+   "The Contest in America, reprinted from Fraser's Magazine (1862; the etext names no printing)"
   ]
  },
  "internet_archive": {
@@ -58,7 +66,7 @@
  "_checks": {
   "mill-system-of-logic-1882": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -67,7 +75,7 @@
   },
   "mill-representative-government": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -76,7 +84,7 @@
   },
   "mill-autobiography": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -85,7 +93,7 @@
   },
   "mill-unsettled-questions-1844": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -94,7 +102,7 @@
   },
   "mill-subjection-of-women-1869": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -103,7 +111,25 @@
   },
   "mill-socialism-1879": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-auguste-comte-positivism-1865": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-contest-in-america-1862": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -112,7 +138,7 @@
   },
   "mill-examination-of-hamilton-1865-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -123,7 +149,7 @@
   },
   "mill-examination-of-hamilton-1865-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -134,7 +160,7 @@
   },
   "mill-three-essays-on-religion-1874": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -145,7 +171,7 @@
   },
   "mill-principles-of-political-economy-1900": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
