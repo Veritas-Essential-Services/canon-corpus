@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:59 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:01 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -877,6 +877,7 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | Jean Crasset | jean-crasset_shelf.json | none | 5 (A New Form of Meditations for every Day in the Year, reviewed, corrected and enlarged, by a Well-wisher to Devotion (London, 1685); The Devotion of Calvary; or Meditations on the Passion (Liverpool: Booker & Co.; London: C. Dolman, 1844); Christian Considerations; or, Devout Meditations for every day in the year, tr. Anna H. Dorsey (New York: P. O'Shea, 1864); Meditations for every Day in the Year, from the Christian Considerations, Pentecost to Advent, tr. T. B. Snow (London: R. Washbourne, 1888); A Key to Meditation, or Simple Methods of Mental Prayer (London: Burns Oates & Washbourne, 1926)) | none | The History of the Church of Japan (1705): its title page names the Abbé de T., not Crasset; The Secret of Sanctity (de Sales and Crasset together, Ella McMahon) |
 | Diego de Estella | diego-de-estella_shelf.json | none | 2 (The Contempte of the World, and the Vanitie thereof, in three books, translated out of Italian (title page undated; catalogued 1581); Meditations on the Love of God, tr. Henry W. Pereira (London: Burns & Oates; New York: Benziger, 1898)) | none | A Methode unto Mortification (1608), an adapted recast |
 | John Eudes | john-eudes_shelf.json | none | 2 (The Reign of Jesus, being an abridgment of the work of the Blessed Jean Eudes, by the Abbé Granger, tr. K. M. L. Harding (London: R. & T. Washbourne; New York: Benziger; title page undated, imprimatur 1911); The Most Pure Heart of Mary: selections from Le Coeur admirable de la très sacrée Mère de Dieu (London: Burns Oates & Washbourne, 1923)) | none | The Love of the Sacred Heart (1920, an anthology); Lives of Eudes (1874, 1880, 1905); the 1946-48 complete translations |
+| Luis de la Puente | luis-de-la-puente_shelf.json | none | 4 (Meditations uppon the Mysteries of our Holy Faith, the first part, tr. Richard Gibbons (title page undated; catalogued 1610); Meditations upon the Mysteries of our Faith, abridged and translated by a Father of the same Society (Permissu Superiorum, M.DC.XXII); Meditations on the Mysteries of our Holy Faith, together with a Treatise on Mental Prayer, vol. I, tr. John Heigham, revised (London: Richardson and Son, MDCCCLII); The Life of Father Balthasar Alvarez, vol. I, translated from the French (London: Thomas Richardson and Son, MDCCCLXVIII)) | none | A Treatise on Mental Prayer (1929, an adaptation by a Benedictine); MeditationsOnTheMysteriesOfOurHolyV3 (it is Andrade's); 1930-31 printings |
 
 ## Paused 2026-10-10 15:12 CDT
 

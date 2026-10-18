@@ -1,0 +1,108 @@
+{
+ "_about": "Public-domain Luis de la Puente (Louis de Ponte, 1554-1624), Spanish Jesuit, for the Word Hoard: the Meditations upon the Mysteries of our Holy Faith in Richard Gibbons's translation (first part, catalogued 1610), the abridged English Meditations (1622), John Heigham's translation revised (1852, vol. I) and The Life of Father Balthasar Alvarez (1868), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "puente",
+  "ponte",
+  "pont"
+ ],
+ "_surname": [
+  "de la puente",
+  "de ponte",
+  "du pont",
+  "louis de ponte",
+  "luis de la puente"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "puente-meditations-gibbons-1610": [
+   "bim_early-english-books-1475-1640_meditations-uppon-the-my_puente-luis-de-la_1610",
+   "Meditations uppon the Mysteries of our Holy Faith, the first part, tr. Richard Gibbons (title page undated; catalogued 1610)"
+  ],
+  "puente-meditations-abridged-1622": [
+   "bim_early-english-books-1475-1640_meditations-upon-the-mys_puente-luis-de-la_1624",
+   "Meditations upon the Mysteries of our Faith, abridged and translated by a Father of the same Society (Permissu Superiorum, M.DC.XXII)"
+  ],
+  "puente-meditations-1852-1": [
+   "meditationsonthe00puenuoft",
+   "Meditations on the Mysteries of our Holy Faith, together with a Treatise on Mental Prayer, vol. I, tr. John Heigham, revised (London: Richardson and Son, MDCCCLII)"
+  ],
+  "puente-life-alvarez-1": [
+   "lifeoffatherbalt01puen",
+   "The Life of Father Balthasar Alvarez, vol. I, translated from the French (London: Thomas Richardson and Son, MDCCCLXVIII)"
+  ]
+ },
+ "_alternates": {
+  "puente-copies": "Vols. II-VI of the 1852 set (meditationsonthe02-05puenuoft, meditationsonmys06puenuoft; title pages not read); vol. II of the Alvarez Life; Barraud's reworking (1916)"
+ },
+ "_excluded": {
+  "puente-other": "A Treatise on Mental Prayer (1929, an adaptation by a Benedictine); MeditationsOnTheMysteriesOfOurHolyV3 (it is Andrade's); 1930-31 printings"
+ },
+ "_identity_checked": {
+  "puente-meditations-gibbons-1610": {
+   "author": "title page read: Composed in [Spanish by] [Luis] DE LA P[UENTE] (OCR \"NY -DE'LA P'ivBN:T\") of the Society of Iesus, native of Valladolid"
+  }
+ },
+ "_rights_checked": {
+  "puente-meditations-gibbons-1610": "title page read: translated into English by Richard Gibbons (OCR \"ER rc Hs GipBoNs\") of the same Society; the first part; no place or year on the title page, catalogued 1610",
+  "puente-meditations-abridged-1622": "title page read: M.DC.XXII; the catalogue's 1624 disagrees",
+  "puente-life-alvarez-1": "title page read: translator not named"
+ },
+ "_pending": {},
+ "_translators": {
+  "puente-meditations-1852-1": "heigham"
+ },
+ "_checks": {
+  "puente-meditations-gibbons-1610": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1610",
+   "ia_date": "1610",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translated into English by Richard Gibbons (OCR \"ER rc Hs GipBoNs\") of the same Society; the first part; no place or year on the title page, catalogued 1610"
+  },
+  "puente-meditations-abridged-1622": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de la puente",
+   "identity": "ok",
+   "ia_rights": "ok: published 1624",
+   "ia_date": "1624",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: M.DC.XXII; the catalogue's 1624 disagrees"
+  },
+  "puente-meditations-1852-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "de ponte",
+   "translator_claimed": "heigham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "puente-life-alvarez-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "du pont",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  }
+ }
+}

@@ -9135,6 +9135,19 @@ Slugs `eudes-*`. Built from title pages read for round 37.
 | The Reign of Jesus, being an abridgment of the work of the Blessed Jean Eudes, by the Abbé Granger, tr. K. M. L. Harding (London: R. & T. Washbourne; New York: Benziger; title page undated, imprimatur 1911) | have-ocr | IA `thereignofjesus00eudeuoft` |
 | The Most Pure Heart of Mary: selections from Le Coeur admirable de la très sacrée Mère de Dieu (London: Burns Oates & Washbourne, 1923) | have-ocr | IA `mostpureheartofm0000eude` |
 | The Love of the Sacred Heart (1920, an anthology); Lives of Eudes (1874, 1880, 1905); the 1946-48 complete translations | excluded | |
+
+## Luis de la Puente (round 37, my pick, 2026-10-18)
+
+Slugs `puente-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| Meditations uppon the Mysteries of our Holy Faith, the first part, tr. Richard Gibbons (title page undated; catalogued 1610) | have-ocr | IA `bim_early-english-books-1475-1640_meditations-uppon-the-my_puente-luis-de-la_1610` |
+| Meditations upon the Mysteries of our Faith, abridged and translated by a Father of the same Society (Permissu Superiorum, M.DC.XXII) | have-ocr | IA `bim_early-english-books-1475-1640_meditations-upon-the-mys_puente-luis-de-la_1624` |
+| Meditations on the Mysteries of our Holy Faith, together with a Treatise on Mental Prayer, vol. I, tr. John Heigham, revised (London: Richardson and Son, MDCCCLII) | have-ocr | IA `meditationsonthe00puenuoft` |
+| The Life of Father Balthasar Alvarez, vol. I, translated from the French (London: Thomas Richardson and Son, MDCCCLXVIII) | have-ocr | IA `lifeoffatherbalt01puen` |
+| Vols. II-VI of the 1852 set (meditationsonthe02-05puenuoft, meditationsonmys06puenuoft; title pages not read); vol. II of the Alvarez Life; Barraud's reworking (1916) | alternate | not shelved |
+| A Treatise on Mental Prayer (1929, an adaptation by a Benedictine); MeditationsOnTheMysteriesOfOurHolyV3 (it is Andrade's); 1930-31 printings | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

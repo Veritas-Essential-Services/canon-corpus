@@ -1903,3 +1903,6 @@
 
 ## 2026-10-17 22:59 CDT — john-eudes done
 - `pipeline/john-eudes_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:01 CDT — luis-de-la-puente done
+- `pipeline/luis-de-la-puente_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for puente-meditations-gibbons-1610 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
