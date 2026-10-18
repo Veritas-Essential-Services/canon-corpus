@@ -1410,3 +1410,6 @@
 
 ## 2026-10-17 20:06 CDT — george-eliot-works: done
 - george-eliot-works: new shelf, 14 Gutenberg books, 23,410 units, 107 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:06 CDT — austen-works: done
+- austen-works: new shelf, 4 Gutenberg books, 3,271 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags.

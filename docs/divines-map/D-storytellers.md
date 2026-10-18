@@ -9134,6 +9134,23 @@ Shelf: `pipeline/george-eliot-works_shelf.json` (2026-10-17; added at the coordi
 | pg-20742 | excluded | PG 20742: a many-author anthology of favourite poems. |
 | pg-30273 | excluded | PG 30273 Tom and Maggie Tulliver: an anonymous adaptation. |
 
+## Jane Austen
+
+Shelf: `pipeline/austen-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (4 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lady Susan | have | PG 946, `austen-lady-susan` (198 units) |
+| Love and Freindship [sic] | have | PG 1212, `austen-love-and-freindship-sic` (397 units) |
+| The Letters of Jane Austen Selected from the compilation of her great nephew, Edward, Lord Bradbourne (selected by Susan Coolidge) | have | PG 42078, `austen-letters-of-jane-austen-selected-from-the-compilation` (1338 units) |
+| Fragment of a novel written by Jane Austen, January-March 1817 | have | PG 74233, `austen-fragment-of-a-novel-written-by-jane-austen-january-ma` (1338 units) |
+| held-elsewhere | excluded | PG 105, 121, 141, 158, 161, 1342: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-31100 | excluded | PG 31100: a Gutenberg omnibus file of the separate books. |
+| pg-37431 | excluded | PG 37431: a play by Mrs. Steele MacKaye founded on the novel. |
+| pg-63569 | excluded | PG 63569, 77117 The Watsons as completed by other hands (L. Oulton; Edith Hubback and Francis Brown). |
+| pg-78656 | excluded | PG 78656: duologues by Rosina Filippi from the novels. |
+| pg-21839 | excluded | PG 21839 Sense and Sensibility and 42671 Pride and Prejudice: second editions; the reading-list austen shelf holds the novels. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
