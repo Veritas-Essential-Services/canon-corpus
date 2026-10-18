@@ -1,0 +1,137 @@
+{
+ "_about": "Granville Stanley Hall (1844-1924), founder of American experimental psychology at Johns Hopkins and Clark. Gutenberg: Youth, its Education, Regimen, and Hygiene (1906); Senescence, the Last Half of Life (1922). Raw IA OCR: Adolescence, its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion and education (New York: Appleton, 1904), 2 vols., clean 0.93 each; Founders of Modern Psychology (New York: Appleton, 1912), clean 0.93; Jesus, the Christ, in the Light of Psychology (Garden City: Doubleday, Page, 1917), 2 vols., clean 0.95 and 0.96; Life and Confessions of a Psychologist (New York: Appleton, copyright 1923; this copy 1924), clean 0.94. US public domain. No uids minted.",
+ "_author": "G. Stanley Hall",
+ "_name_words": [
+  "granville",
+  "stanley",
+  "hall"
+ ],
+ "_surname": [
+  "stanley hall",
+  "g. stanley hall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hall-youth": [
+   9173,
+   "Youth: Its Education, Regimen, and Hygiene"
+  ],
+  "hall-senescence": [
+   66534,
+   "Senescence, the Last Half of Life"
+  ]
+ },
+ "internet_archive": {
+  "hall-adolescence-1904-v1": [
+   "b21523241_0001",
+   "Adolescence, vol. I (Appleton, 1904)"
+  ],
+  "hall-adolescence-1904-v2": [
+   "b21523241_0002",
+   "Adolescence, vol. II (Appleton, 1904)"
+  ],
+  "hall-founders-of-modern-psychology-1912": [
+   "foundersofmodern00halluoft",
+   "Founders of Modern Psychology (Appleton, 1912)"
+  ],
+  "hall-jesus-the-christ-psychology-1917-v1": [
+   "cu31924092360217",
+   "Jesus, the Christ, in the Light of Psychology, vol. I (1917)"
+  ],
+  "hall-jesus-the-christ-psychology-1917-v2": [
+   "jesuschristinli02hall",
+   "Jesus, the Christ, in the Light of Psychology, vol. II (1917)"
+  ],
+  "hall-life-and-confessions-1923": [
+   "lifeconfessionso0000gsta",
+   "Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hall-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hall-senescence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hall-adolescence-1904-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hall-adolescence-1904-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hall-founders-of-modern-psychology-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-jesus-the-christ-psychology-1917-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hall-jesus-the-christ-psychology-1917-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-life-and-confessions-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
