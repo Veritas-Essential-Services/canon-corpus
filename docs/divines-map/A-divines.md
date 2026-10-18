@@ -7328,3 +7328,13 @@ Slugs `mercier-*`. Built from title pages read for round 32.
 | Other copies of the Manual, Conferences, Pastorals and Origins; An Appeal to Truth (with the Belgian bishops) | alternate | not shelved |
 | 1921-1938 reprints of the Manual | excluded | |
 | French editions; Tyrrell's Medievalism, a reply to him; the Belgian bishops' collective reports | excluded | |
+
+## Augustin Poulain (round 32, my pick, 2026-10-18)
+
+Slugs `poulain-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Graces of Interior Prayer, tr. Leonora L. Yorke Smith (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `gracesofinterior0000poul` |
+| Another 1910 copy; the 1911 Herder issue | alternate | not shelved |
+| The revision to the tenth French edition (1950) and later printings, one catalogued 1910 in error | excluded | |

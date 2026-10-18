@@ -1528,3 +1528,6 @@
 
 ## 2026-10-17 21:17 CDT — desire-joseph-mercier done
 - `pipeline/desire-joseph-mercier_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for mercier-experimental-psychology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — augustin-poulain done
+- `pipeline/augustin-poulain_shelf.json`: 0 CCEL, 0 PG, 1 IA. Title pages read for poulain-graces-interior-prayer (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
