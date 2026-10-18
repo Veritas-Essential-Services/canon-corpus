@@ -1,0 +1,196 @@
+{
+ "_about": "Public-domain Cunningham Geikie (1824-1906), Anglican vicar and popular biblical writer, for the Word Hoard: The Life and Words of Christ (London, 1877, two volumes), The Holy Land and the Bible (Cassell, 1887, two volumes), Hours with the Bible in the complete six-volume American set (Alden, 1888-90) and The English Reformation (1879), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "geikie"
+ ],
+ "_surname": [
+  "cunningham geikie",
+  "geikie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "geikie-life-words-1": [
+   "lifeandwordsofje00geikuoft",
+   "The Life and Words of Christ, vol. I (London: Henry S. King, 1877)"
+  ],
+  "geikie-life-words-2": [
+   "lifeandwordsofjc02geikuoft",
+   "The Life and Words of Christ, vol. II (London: Henry S. King; year OCR'd '1-77')"
+  ],
+  "geikie-holy-land-1": [
+   "cihm_32167",
+   "The Holy Land and the Bible, vol. I (London, Paris & Melbourne: Cassell, 1887)"
+  ],
+  "geikie-holy-land-2": [
+   "cihm_32168",
+   "The Holy Land and the Bible, vol. II (London, Paris & Melbourne: Cassell, 1887)"
+  ],
+  "geikie-hours-bible-1": [
+   "hourswithbib01geik",
+   "Hours with the Bible, vol. I, From Creation to the Patriarchs (New York: John B. Alden, 1890)"
+  ],
+  "geikie-hours-bible-2": [
+   "hourswithbibleo02geik",
+   "Hours with the Bible, vol. II (New York: John B. Alden, 1890)"
+  ],
+  "geikie-hours-bible-3": [
+   "hourswithbibl03geik",
+   "Hours with the Bible, vol. III (New York: John B. Alden, 1890)"
+  ],
+  "geikie-hours-bible-4": [
+   "hourswithbibl04geik",
+   "Hours with the Bible, vol. IV (New York: John B. Alden, 1888)"
+  ],
+  "geikie-hours-bible-5": [
+   "hourswithbibl05geik",
+   "Hours with the Bible, vol. V (New York: John B. Alden, 1888)"
+  ],
+  "geikie-hours-bible-6": [
+   "hourswithbibl06geik",
+   "Hours with the Bible, vol. VI (New York: John B. Alden, 1890)"
+  ],
+  "geikie-english-reformation": [
+   "englishreformati00geikiala",
+   "The English Reformation (New York: D. Appleton, 1879)"
+  ]
+ },
+ "_alternates": {
+  "geikie-copies": "Hours with the Bible from Pott (New York, 1881-84, vols II-VI) and Partridge (London, 1881); the Alden index volume (1888); Alden's Holy Land (1888); many Appleton Life and Words"
+ },
+ "_excluded": {
+  "geikie-misfiled": "lifeandwordsofjc01geikuoft, which is really J. Ritchie Smith's Teaching of the Gospel of John (1903); his co-authored London topography (PG 20310)"
+ },
+ "_identity_checked": {
+  "geikie-life-words-2": {
+   "author": "title page read: name OCR-garbled ('CUNNINGLIAM' and similar)"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "geikie-life-words-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "geikie-life-words-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "geikie-holy-land-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-holy-land-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-hours-bible-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "geikie-english-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cunningham geikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -8681,6 +8681,26 @@ Slugs `arfausset-*`. Built from title pages read for round 36.
 | A Commentary, Critical and Explanatory, vol. IV, Jeremiah to Malachi, by A. R. Fausset (Philadelphia: J. B. Lippincott; year not read, catalogued 1866) | have-ocr | IA `commentarycritic04jami` |
 | The Collins JFB vol. III; the Portable Commentary (1863), which joins his work to Jamieson's and Brown's in each volume; The Poetical Books of the Holy Scriptures, with B. Smith (1867); Ireland and the Irish (catalogued 1854); True Science Confirming Genesis (pamphlet, year not read) | alternate | not shelved |
 | Bengel's Gnomon (1857) and Vinet's Homiletics (1858), which he only revised and edited; Zondervan reprints; other Faussets | excluded | |
+
+## Cunningham Geikie (round 36, my pick, 2026-10-18)
+
+Slugs `geikie-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life and Words of Christ, vol. I (London: Henry S. King, 1877) | have-ocr | IA `lifeandwordsofje00geikuoft` |
+| The Life and Words of Christ, vol. II (London: Henry S. King; year OCR'd '1-77') | have-ocr | IA `lifeandwordsofjc02geikuoft` |
+| The Holy Land and the Bible, vol. I (London, Paris & Melbourne: Cassell, 1887) | have-ocr | IA `cihm_32167` |
+| The Holy Land and the Bible, vol. II (London, Paris & Melbourne: Cassell, 1887) | have-ocr | IA `cihm_32168` |
+| Hours with the Bible, vol. I, From Creation to the Patriarchs (New York: John B. Alden, 1890) | have-ocr | IA `hourswithbib01geik` |
+| Hours with the Bible, vol. II (New York: John B. Alden, 1890) | have-ocr | IA `hourswithbibleo02geik` |
+| Hours with the Bible, vol. III (New York: John B. Alden, 1890) | have-ocr | IA `hourswithbibl03geik` |
+| Hours with the Bible, vol. IV (New York: John B. Alden, 1888) | have-ocr | IA `hourswithbibl04geik` |
+| Hours with the Bible, vol. V (New York: John B. Alden, 1888) | have-ocr | IA `hourswithbibl05geik` |
+| Hours with the Bible, vol. VI (New York: John B. Alden, 1890) | have-ocr | IA `hourswithbibl06geik` |
+| The English Reformation (New York: D. Appleton, 1879) | have-ocr | IA `englishreformati00geikiala` |
+| Hours with the Bible from Pott (New York, 1881-84, vols II-VI) and Partridge (London, 1881); the Alden index volume (1888); Alden's Holy Land (1888); many Appleton Life and Words | alternate | not shelved |
+| lifeandwordsofjc01geikuoft, which is really J. Ritchie Smith's Teaching of the Gospel of John (1903); his co-authored London topography (PG 20310) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

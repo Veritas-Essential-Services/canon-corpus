@@ -1804,3 +1804,6 @@
 
 ## 2026-10-17 22:45 CDT — a-r-fausset done
 - `pipeline/a-r-fausset_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — cunningham-geikie done
+- `pipeline/cunningham-geikie_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for geikie-life-words-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
