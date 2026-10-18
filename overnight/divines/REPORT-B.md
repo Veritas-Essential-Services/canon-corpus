@@ -1352,3 +1352,9 @@
 - j-a-stewart (1), r-d-hicks (1), e-vernon-arnold (1), james-adam (1), alfred-zimmern (2), r-w-livingstone (2), f-m-cornford (3), a-d-lindsay (2)
 - Below the OCR gate: Stewart's Myths of Plato and Notes on the Nicomachean Ethics
 - Not taken: Livingstone's edited Legacy of Greece and Pageant of Greece (multi-author / others' translations); Zimmern's War and Democracy (multi-author)
+
+## 2026-10-17 23:08 CDT — Round cj: Russell, Royce, Whitehead gaps
+- bertrand-russell +8 (German Social Democracy 1896, Leibniz 1900, Principles of Mathematics I 1903, Justice in War-Time 1916, Mysticism and Logic 1918, Problem of China 1922, Analysis of Matter 1927, Marriage and Morals 1929)
+- josiah-royce +10 (1897-1920)
+- alfred-north-whitehead +1 (Function of Reason 1929)
+- Held: Russell's Prospects of Industrial Civilization and Sceptical Essays; Whitehead's Aims of Education and Universal Algebra

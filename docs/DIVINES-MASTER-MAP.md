@@ -13338,7 +13338,7 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 
 ## Josiah Royce
 
-Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
+Shelf: `pipeline/josiah-royce_shelf.json`. Eighteen volumes, 1885-1920.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
@@ -13350,6 +13350,16 @@ Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
 | The Philosophy of Loyalty (New York: Macmillan, 1908) |  | `royce-philosophy-of-loyalty-1908` | have-raw (IA `philosophyloyal00roycuoft`) |
 | The Problem of Christianity, vol. I: the Christian doctrine of life (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v1` | have-raw (IA `problemofchris01roycuoft`) |
 | The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v2` | have-raw (IA `theproblemofchri02roycuoft`) |
+| The Conception of God, a philosophical discussion, with Joseph LeConte, G. H. Howison and Sidney Edward Mezes (Macmillan, 1897) |  | `royce-conception-of-god-1897` | have-raw (IA `cu31924029373028`) |
+| Studies of Good and Evil (Appleton, 1898) |  | `royce-studies-of-good-and-evil-1898` | have-raw (IA `studiesofgoodevi00royc`) |
+| The Conception of Immortality, Ingersoll lecture 1899 (Houghton Mifflin, 1900) |  | `royce-conception-of-immortality-1900` | have-raw (IA `conceptionofimmo0000josi_v9o7`) |
+| Outlines of Psychology (Macmillan, 1903; printing of 1906) |  | `royce-outlines-of-psychology-1903` | have-raw (IA `outlinespsychol04roycgoog`) |
+| Race Questions, Provincialism, and Other American Problems (Macmillan, 1908) |  | `royce-race-questions-1908` | have-raw (IA `racequestionspro00roycuoft`) |
+| William James and Other Essays on the Philosophy of Life (Macmillan, 1911) |  | `royce-william-james-and-other-essays-1911` | have-raw (IA `williamjamesothe00royc`) |
+| War and Insurance (Macmillan, 1914) |  | `royce-war-and-insurance-1914` | have-raw (IA `cu31924030239184`) |
+| The Hope of the Great Community (Macmillan, 1916) |  | `royce-hope-of-the-great-community-1916` | have-raw (IA `hopeofgreatcommu00royc`) |
+| Lectures on Modern Idealism, ed. J. Loewenberg (Yale University Press, 1919) |  | `royce-lectures-on-modern-idealism-1919` | have-raw (IA `lecturesonmodern00roy`) |
+| Fugitive Essays, ed. J. Loewenberg (Harvard University Press, 1920) |  | `royce-fugitive-essays-1920` | have-raw (IA `fugitiveessays00loewgoog`) |
 
 ## Charles S. Peirce
 
@@ -13683,7 +13693,7 @@ Shelf: `pipeline/lessing-philosophy_shelf.json`. The Education of the Human Race
 
 ## Bertrand Russell
 
-Shelf: `pipeline/bertrand-russell_shelf.json`. Sixteen works, 1897-1930: fifteen from Gutenberg and Introduction to Mathematical Philosophy (1920) from an IA scan. Held: Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), both post-1930 printings.
+Shelf: `pipeline/bertrand-russell_shelf.json`. Twenty-four works, 1896-1930: fifteen from Gutenberg, the rest from IA scans with title page years read. Mysticism and Logic and The Problem of China come from first printings; the post-1930 PG etexts (PG 25447, PG 13940) stay untaken.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -13703,8 +13713,16 @@ Shelf: `pipeline/bertrand-russell_shelf.json`. Sixteen works, 1897-1930: fifteen
 | Philosophy (New York: Norton, 1927) |  | `russell-philosophy-1927` | have (PG 72981) |
 | The Conquest of Happiness (London: Allen and Unwin, 1930) |  | `russell-conquest-of-happiness-1930` | have (PG 77894) |
 | Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920) |  | `russell-introduction-to-mathematical-philosophy-1920` | have-raw (IA `introductiontoma00russuoft`) |
+| German Social Democracy, six lectures (Longmans, 1896) |  | `russell-german-social-democracy-1896` | have-raw (IA `germansocialdem00russgoog`) |
+| A Critical Exposition of the Philosophy of Leibniz (Cambridge, 1900) |  | `russell-philosophy-of-leibniz-1900` | have-raw (IA `cu31924052172271`) |
+| The Principles of Mathematics, vol. I (Cambridge, 1903) |  | `russell-principles-of-mathematics-1903-v1` | have-raw (IA `cu31924001610421`) |
+| Justice in War-Time (Open Court, 1916) |  | `russell-justice-in-war-time-1916` | have-raw (IA `cu31924026354609`) |
+| Mysticism and Logic, and other essays (Longmans, 1918) |  | `russell-mysticism-and-logic-1918` | have-raw (IA `mysticismlogicot00russuoft`) |
+| The Problem of China (Allen and Unwin, 1922) |  | `russell-problem-of-china-1922` | have-raw (IA `problemofchina00russ`) |
+| The Analysis of Matter (Kegan Paul; Harcourt, Brace, 1927) |  | `russell-analysis-of-matter-1927` | have-raw (IA `analysisofmatter0000bert`) |
+| Marriage and Morals (Horace Liveright, 1929) |  | `russell-marriage-and-morals-1929` | have-raw (IA `marriagemorals0000bert_f0s3`) |
 
-Pending (wishlist): The Analysis of Matter (1927), Principia Mathematica (1910-13): need a non-plain-text source
+Pending (wishlist): The Prospects of Industrial Civilization (1923) and Sceptical Essays (1928), dated scans; Principia Mathematica (1910-13) needs a non-OCR source.
 
 ## G. E. Moore
 
@@ -13717,7 +13735,7 @@ Shelf: `pipeline/g-e-moore_shelf.json`. Principia Ethica (1903, 1922 reprint) an
 
 ## Alfred North Whitehead
 
-Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from Gutenberg.
+Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Nine works, 1917-1929: four from Gutenberg, five from dated IA scans.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -13729,8 +13747,9 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from
 | Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92) |  | `whitehead-religion-in-the-making-1926` | have-raw (IA `religioninmaking00whit`) |
 | An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
 | The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
+| The Function of Reason, Louis Clark Vanuxem Foundation lectures (Princeton University Press, 1929) |  | `whitehead-function-of-reason-1929` | have-raw (IA `functionofreason00whit`) |
 
-Pending (wishlist): An Introduction to Mathematics (1911) in a dated printing
+Pending (wishlist): An Introduction to Mathematics (1911) and The Aims of Education (1929) in dated printings; A Treatise on Universal Algebra (1898) in a cleaner scan.
 
 ## William Whewell
 
