@@ -1260,3 +1260,6 @@
 
 ## 2026-10-17 19:00 CDT — edgar-wallace: done
 - edgar-wallace: new shelf, 44 Gutenberg books, 99,259 units, 1827 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:00 CDT — ew-hornung: done
+- ew-hornung: new shelf, 29 Gutenberg books, 41,558 units, 196 ~2 ids; verify 0 mismatches, 0 rights flags.

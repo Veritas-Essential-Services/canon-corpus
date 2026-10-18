@@ -24736,6 +24736,43 @@ Shelf: `pipeline/edgar-wallace_shelf.json` (2026-10-17; added at the coordinator
 | Gunman's bluff | have | PG 78794, `ewallace-gunmans-bluff` (2507 units) |
 | The fourth plague | have | PG 79658, `ewallace-fourth-plague` (2238 units) |
 
+## E. W. Hornung
+
+Shelf: `pipeline/ew-hornung_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Raffles stories and Australian novels. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Amateur Cracksman | have | PG 706, `ewhornung-amateur-cracksman` (1372 units) |
+| Raffles: Further Adventures of the Amateur Cracksman | have | PG 707, `ewhornung-raffles` (1237 units) |
+| Dead Men Tell No Tales | have | PG 1703, `ewhornung-dead-men-tell-no-tales` (1192 units) |
+| A Thief in the Night: A Book of Raffles' Adventures | have | PG 2098, `ewhornung-a-thief-in-the-night` (1248 units) |
+| Mr. Justice Raffles | have | PG 9806, `ewhornung-mr-justice-raffles` (1761 units) |
+| No Hero | have | PG 11153, `ewhornung-no-hero` (909 units) |
+| The Shadow of the Rope | have | PG 12590, `ewhornung-shadow-of-the-rope` (1869 units) |
+| Stingaree | have | PG 26526, `ewhornung-stingaree` (1559 units) |
+| The Camera Fiend | have | PG 30096, `ewhornung-camera-fiend` (1499 units) |
+| A Thief in the Night: Further adventures of A. J. Raffles, Cricketer and Cracksman | have | PG 33173, `ewhornung-a-thief-in-the-night-33173` (1289 units) |
+| The Shadow of a Man | have | PG 33651, `ewhornung-shadow-of-a-man` (1345 units) |
+| Witching Hill | have | PG 33971, `ewhornung-witching-hill` (1238 units) |
+| At Large | have | PG 35684, `ewhornung-at-large` (2312 units) |
+| Peccavi | have | PG 36115, `ewhornung-peccavi` (2552 units) |
+| The Thousandth Woman | have | PG 37062, `ewhornung-thousandth-woman` (858 units) |
+| Tiny Luttrell | have | PG 37320, `ewhornung-tiny-luttrell` (1546 units) |
+| Notes of a Camp-Follower on the Western Front | have | PG 37331, `ewhornung-notes-of-a-camp-follower-on-the-western-front` (500 units) |
+| My Lord Duke | have | PG 37337, `ewhornung-my-lord-duke` (1471 units) |
+| The Crime Doctor | have | PG 37338, `ewhornung-crime-doctor` (1591 units) |
+| Denis Dent: A Novel | have | PG 37598, `ewhornung-denis-dent` (1773 units) |
+| A Bride from the Bush | have | PG 38388, `ewhornung-a-bride-from-the-bush` (1054 units) |
+| The Boss of Taroomba | have | PG 41658, `ewhornung-boss-of-taroomba` (1580 units) |
+| Young Blood | have | PG 42902, `ewhornung-young-blood` (2235 units) |
+| Some Persons Unknown | have | PG 45732, `ewhornung-some-persons-unknown` (1307 units) |
+| Fathers of Men | have | PG 46170, `ewhornung-fathers-of-men` (2477 units) |
+| The Ballad of Ensign Joy | have | PG 52559, `ewhornung-ballad-of-ensign-joy` (672 units) |
+| The Young Guard | have | PG 52561, `ewhornung-young-guard` (1224 units) |
+| The Unbidden Guest | have | PG 52562, `ewhornung-unbidden-guest` (1559 units) |
+| 'Trusty and well beloved' | have | PG 76201, `ewhornung-trusty-and-well-beloved` (329 units) |
+| pg-58560 | excluded | PG 58560: Gutenberg's index of Hornung's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
