@@ -6483,6 +6483,9 @@ Shelf: `pipeline/wilbur-marshall-urban_shelf.json`. W. M. Urban (1873-1952). Val
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Valuation, its Nature and Laws (Sonnenschein, 1909) |  | `urban-valuation-1909` | have-raw (IA `valuationitsnatu00urbauoft`) |
+| The Intelligible World (Allen & Unwin, 1929) |  | `urban-intelligible-world-1929` | have-raw (IA `intelligibleworl032337mbp`) |
+| Fundamentals of Ethics (Holt, 1930) |  | `urban-fundamentals-of-ethics-1930` | have-raw (IA `in.ernet.dli.2015.2762`) |
 
 ## Perseus census (overflow)
 
