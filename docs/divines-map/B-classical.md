@@ -7569,6 +7569,8 @@ Shelf: `pipeline/herbert-ernest-cushman_shelf.json`. Two volumes, 1910-1911.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Beginner's History of Philosophy, vol. 1: Ancient and Mediaeval (1910) |  | `cushman-beginners-history-philosophy-1` | have (PG 61651) |
+| A Beginner's History of Philosophy, vol. 2: Modern (1911) |  | `cushman-beginners-history-philosophy-2` | have (PG 62663) |
 
 ## J. Alexander Gunn (French philosophy)
 
