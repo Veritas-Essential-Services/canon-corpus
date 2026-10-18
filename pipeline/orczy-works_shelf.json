@@ -1,0 +1,440 @@
+{
+ "_about": "Baroness Orczy's Scarlet Pimpernel romances and detective stories not already on another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Baroness Orczy",
+ "_name_words": [
+  "orczy"
+ ],
+ "_surname": [
+  "baroness orczy",
+  "emmuska orczy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "orczy-elusive-pimpernel": [
+   2785,
+   "The Elusive Pimpernel",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-i-will-repay": [
+   5090,
+   "I will repay"
+  ],
+  "orczy-league-of-the-scarlet-pimpernel": [
+   5805,
+   "The League of the Scarlet Pimpernel",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-old-man-in-the-corner": [
+   10556,
+   "The Old Man in the Corner",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-nest-of-the-sparrowhawk": [
+   12175,
+   "The Nest of the Sparrowhawk: A Romance of the XVIIth Century"
+  ],
+  "orczy-castles-in-the-air": [
+   12461,
+   "Castles in the Air"
+  ],
+  "orczy-unto-caesar": [
+   24789,
+   "\"Unto Caesar\""
+  ],
+  "orczy-bronze-eagle": [
+   25955,
+   "The Bronze Eagle: A Story of the Hundred Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-a-bride-of-the-plains": [
+   29106,
+   "A Bride of the Plains"
+  ],
+  "orczy-heart-of-a-woman": [
+   32730,
+   "The Heart of a Woman",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-laughing-cavalier": [
+   33208,
+   "The Laughing Cavalier: The Story of the Ancestor of the Scarlet Pimpernel"
+  ],
+  "orczy-petticoat-rule": [
+   34660,
+   "Petticoat Rule"
+  ],
+  "orczy-lord-tonys-wife": [
+   35117,
+   "Lord Tony's Wife: An Adventure of the Scarlet Pimpernel",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-tangled-skein": [
+   37481,
+   "The Tangled Skein"
+  ],
+  "orczy-beau-brocade": [
+   39786,
+   "Beau Brocade: A Romance"
+  ],
+  "orczy-his-majestys-well-beloved-an-episode-in-the-life-of-mr": [
+   39787,
+   "His Majesty's Well-Beloved An Episode in the Life of Mr. Thomas Betteron as told by His Friend John Honeywood",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-leatherface": [
+   40500,
+   "Leatherface: A Tale of Old Flanders",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-a-sheaf-of-bluebells": [
+   57774,
+   "A Sheaf of Bluebells",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-noble-rogue": [
+   60253,
+   "The Noble Rogue"
+  ],
+  "orczy-nicolette": [
+   61484,
+   "Nicolette: a tale of old Provence",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-pimpernel-and-rosemary": [
+   65591,
+   "Pimpernel and Rosemary",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-triumph-of-the-scarlet-pimpernel": [
+   65695,
+   "The Triumph of the Scarlet Pimpernel"
+  ],
+  "orczy-flower-o-the-lily": [
+   68135,
+   "Flower o' the lily: A romance of old Cambray"
+  ],
+  "orczy-man-in-grey-being-episodes-of-the-chovan-i-e-chouan-co": [
+   68172,
+   "The man in grey Being episodes of the Chovan [i.e. Chouan] conspiracies in Normandy during the First Empire.",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-unravelled-knots": [
+   68237,
+   "Unravelled Knots",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-emperors-candlesticks": [
+   72374,
+   "The emperor's candlesticks"
+  ],
+  "orczy-lady-molly-of-scotland-yard": [
+   72581,
+   "Lady Molly of Scotland Yard",
+   {
+    "contents_only": true
+   }
+  ],
+  "orczy-by-the-gods-beloved": [
+   72901,
+   "By the gods beloved"
+  ],
+  "orczy-case-of-miss-elliott": [
+   75461,
+   "The case of Miss Elliott"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58302": "PG 58302: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 60: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "orczy-elusive-pimpernel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-i-will-repay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-league-of-the-scarlet-pimpernel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-old-man-in-the-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-nest-of-the-sparrowhawk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-castles-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmuska orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-unto-caesar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-bronze-eagle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-a-bride-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-heart-of-a-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-laughing-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-petticoat-rule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-lord-tonys-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-tangled-skein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-beau-brocade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-his-majestys-well-beloved-an-episode-in-the-life-of-mr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-leatherface": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-a-sheaf-of-bluebells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-noble-rogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-nicolette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-pimpernel-and-rosemary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-triumph-of-the-scarlet-pimpernel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-flower-o-the-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-man-in-grey-being-episodes-of-the-chovan-i-e-chouan-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-unravelled-knots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-emperors-candlesticks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emmuska orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-lady-molly-of-scotland-yard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-by-the-gods-beloved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "orczy-case-of-miss-elliott": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baroness orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -11366,6 +11366,44 @@ Shelf: `pipeline/robert-hichens_shelf.json` (2026-10-17; added at the coordinato
 | The Londoners | have | PG 68809, `rhichens-londoners` (3066 units) |
 | The black spaniel, and other stories | have | PG 76971, `rhichens-black-spaniel-and-other-stories` (2957 units) |
 
+## Baroness Orczy
+
+Shelf: `pipeline/orczy-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Elusive Pimpernel | have | PG 2785, `orczy-elusive-pimpernel` (1994 units) |
+| I will repay | have | PG 5090, `orczy-i-will-repay` (1933 units) |
+| The League of the Scarlet Pimpernel | have | PG 5805, `orczy-league-of-the-scarlet-pimpernel` (1741 units) |
+| The Old Man in the Corner | have | PG 10556, `orczy-old-man-in-the-corner` (1364 units) |
+| The Nest of the Sparrowhawk: A Romance of the XVIIth Century | have | PG 12175, `orczy-nest-of-the-sparrowhawk` (2291 units) |
+| Castles in the Air | have | PG 12461, `orczy-castles-in-the-air` (1178 units) |
+| "Unto Caesar" | have | PG 24789, `orczy-unto-caesar` (2475 units) |
+| The Bronze Eagle: A Story of the Hundred Days | have | PG 25955, `orczy-bronze-eagle` (2466 units) |
+| A Bride of the Plains | have | PG 29106, `orczy-a-bride-of-the-plains` (1893 units) |
+| The Heart of a Woman | have | PG 32730, `orczy-heart-of-a-woman` (2471 units) |
+| The Laughing Cavalier: The Story of the Ancestor of the Scarlet Pimpernel | have | PG 33208, `orczy-laughing-cavalier` (3124 units) |
+| Petticoat Rule | have | PG 34660, `orczy-petticoat-rule` (2299 units) |
+| Lord Tony's Wife: An Adventure of the Scarlet Pimpernel | have | PG 35117, `orczy-lord-tonys-wife` (1995 units) |
+| The Tangled Skein | have | PG 37481, `orczy-tangled-skein` (2607 units) |
+| Beau Brocade: A Romance | have | PG 39786, `orczy-beau-brocade` (2234 units) |
+| His Majesty's Well-Beloved An Episode in the Life of Mr. Thomas Betteron as told by His Friend John Honeywood | have | PG 39787, `orczy-his-majestys-well-beloved-an-episode-in-the-life-of-mr` (1515 units) |
+| Leatherface: A Tale of Old Flanders | have | PG 40500, `orczy-leatherface` (2259 units) |
+| A Sheaf of Bluebells | have | PG 57774, `orczy-a-sheaf-of-bluebells` (2231 units) |
+| The Noble Rogue | have | PG 60253, `orczy-noble-rogue` (2509 units) |
+| Nicolette: a tale of old Provence | have | PG 61484, `orczy-nicolette` (1189 units) |
+| Pimpernel and Rosemary | have | PG 65591, `orczy-pimpernel-and-rosemary` (2383 units) |
+| The Triumph of the Scarlet Pimpernel | have | PG 65695, `orczy-triumph-of-the-scarlet-pimpernel` (2184 units) |
+| Flower o' the lily: A romance of old Cambray | have | PG 68135, `orczy-flower-o-the-lily` (2734 units) |
+| The man in grey Being episodes of the Chovan [i.e. Chouan] conspiracies in Normandy during the First Empire. | have | PG 68172, `orczy-man-in-grey-being-episodes-of-the-chovan-i-e-chouan-co` (1735 units) |
+| Unravelled Knots | have | PG 68237, `orczy-unravelled-knots` (1318 units) |
+| The emperor's candlesticks | have | PG 72374, `orczy-emperors-candlesticks` (1131 units) |
+| Lady Molly of Scotland Yard | have | PG 72581, `orczy-lady-molly-of-scotland-yard` (1951 units) |
+| By the gods beloved | have | PG 72901, `orczy-by-the-gods-beloved` (1783 units) |
+| The case of Miss Elliott | have | PG 75461, `orczy-case-of-miss-elliott` (1377 units) |
+| pg-58302 | excluded | PG 58302: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 60: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

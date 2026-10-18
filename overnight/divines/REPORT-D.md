@@ -1563,3 +1563,6 @@
 
 ## 2026-10-17 21:59 CDT — robert-hichens: done
 - robert-hichens: new shelf, 31 Gutenberg books, 70,045 units, 6533 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:59 CDT — orczy-works: done
+- orczy-works: new shelf, 29 Gutenberg books, 58,364 units, 1348 ~2 ids; verify 0 mismatches, 0 rights flags.
