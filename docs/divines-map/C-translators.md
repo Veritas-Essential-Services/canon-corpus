@@ -6612,6 +6612,24 @@ Round 80 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | haft-paikar-commentary: Vol. II of Wilson's Haft Paikar (1924) is his commentary, not the translation. | — | — | excluded | — |
 | — | — | masnavi-commentary: Vol. II of Wilson's Masnavi Book II (1910) is his commentary, not the translation. | — | — | excluded | — |
 
+## Shelf: Sanskrit and Hindi classics in English before 1931: Wilson's Theatre of the Hindus and Megha Duta, Boyd's Nagananda, Tawney's Bhartrihari, Growse's Ramayana of Tulsi Das, Arthur Avalon's Tantra of the Great Liberation and Serpent Power
+
+Shelf: `pipeline/indian-literature_shelf.json` · fetch `python3 pipeline/fetch_shelf.py indian-literature` · titles `python3 pipeline/split_shelf_titles.py indian-literature`.
+Round 83 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `indian-literature-theatre-of-the-hindus-1` | Sanskrit drama (Sudraka's Mricchakatika, Kalidasa's Vikramorvasi, Bhavabhuti's Uttara Rama Charitra) | Select Specimens of the Theatre of the Hindus, vol. I | Horace Hayman Wilson | 1835 | have-raw | IA `selectspecimenso01wils_0` |
+| `indian-literature-theatre-of-the-hindus-2` | Sanskrit drama (Bhavabhuti's Malati and Madhava, Visakhadatta's Mudra Rakshasa, Harsha's Ratnavali, and accounts of other plays) | Select Specimens of the Theatre of the Hindus, vol. II | Horace Hayman Wilson | 1835 | have-raw | IA `selectspecimenso02wils_0` |
+| `indian-literature-megha-duta` | Kalidasa | The Megha Duta, or Cloud Messenger, translated into English verse | Horace Hayman Wilson | 1813 | have-raw | IA `mghadta00kali` |
+| `indian-literature-nagananda` | Harsha | Nagananda, or the Joy of the Snake-World: a Buddhist Drama in Five Acts | Palmer Boyd | 1872 | have-raw | IA `bub_gb_2JfomcFOiEIC` |
+| `indian-literature-bhartrihari` | Bhartrihari | Two Centuries of Bhartrihari, translated into English verse | C. H. Tawney | 1877 | have-raw | IA `twocenturiesofbh00bhar` |
+| `indian-literature-tulsi-das-ramayana` | Tulsidas | The Ramayana of Tulsi Das (the Ramcharitmanas) | F. S. Growse | 1883 | have-raw | IA `in.ernet.dli.2015.43864` |
+| `indian-literature-great-liberation` | The Mahanirvana Tantra | Tantra of the Great Liberation (Mahanirvana Tantra) | Arthur Avalon (Sir John Woodroffe) | 1913 | have-raw | IA `india.history.resource.110781` |
+| `indian-literature-serpent-power` | Purnananda's Sat-Cakra-Nirupana and the Paduka-Pancaka | The Serpent Power, being the Shat-Chakra-Nirupana and Paduka-Panchaka | Arthur Avalon (Sir John Woodroffe) | 1924 | have-raw | IA `in.ernet.dli.2015.283748` |
+| — | — | theatre-1955: theatreofhindus00wils is a 1955 reprint of Wilson's Theatre of the Hindus; the 1835 second edition is used. | — | — | excluded | — |
+| — | — | tulsi-das-later-editions: Growse's Tulsi Das in later editions (1891, 1914, 1922) and a 1966 reprint were passed over for the 1883 edition. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

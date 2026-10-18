@@ -1,0 +1,382 @@
+{
+ "_about": "SHELF of Sanskrit and Hindi classics in English before 1931, by translators with no shelf of their own: H. H. Wilson's Theatre of the Hindus (1835) and Megha Duta (1813), Palmer Boyd's Nagananda (1872), C. H. Tawney's Bhartrihari (1877), F. S. Growse's Ramayana of Tulsi Das (1883), and Arthur Avalon's (Sir John Woodroffe's) Tantra of the Great Liberation (1913) and Serpent Power (1924). Griffith, Edwin Arnold, Monier-Williams, Ryder, Max Müller's Sacred Books of the East and the Harvard Oriental Series are on their own shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 83); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur avalon",
+  "avalon",
+  "boyd",
+  "c. h. tawney",
+  "charles h. tawney",
+  "f. s. growse",
+  "frederic salmon growse",
+  "growse",
+  "h. h. wilson",
+  "horace h. wilson",
+  "horace hayman wilson",
+  "john woodroffe",
+  "palmer boyd",
+  "tawney",
+  "woodroffe"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'wilson' is left out as a common surname other shelves claim.",
+ "_surname": [
+  "arthur avalon",
+  "avalon",
+  "boyd",
+  "c. h. tawney",
+  "charles h. tawney",
+  "f. s. growse",
+  "frederic salmon growse",
+  "growse",
+  "h. h. wilson",
+  "horace h. wilson",
+  "horace hayman wilson",
+  "john woodroffe",
+  "palmer boyd",
+  "tawney",
+  "woodroffe"
+ ],
+ "_surname_by_slug": {
+  "ind-theatre-of-the-hindus-1": [
+   "h. h. wilson",
+   "horace hayman wilson",
+   "horace h. wilson"
+  ],
+  "ind-theatre-of-the-hindus-2": [
+   "h. h. wilson",
+   "horace hayman wilson",
+   "horace h. wilson"
+  ],
+  "ind-megha-duta": [
+   "h. h. wilson",
+   "horace hayman wilson",
+   "horace h. wilson"
+  ],
+  "ind-nagananda": [
+   "palmer boyd",
+   "boyd"
+  ],
+  "ind-bhartrihari": [
+   "tawney",
+   "c. h. tawney",
+   "charles h. tawney"
+  ],
+  "ind-tulsi-das-ramayana": [
+   "growse",
+   "f. s. growse",
+   "frederic salmon growse"
+  ],
+  "ind-great-liberation": [
+   "arthur avalon",
+   "avalon",
+   "woodroffe",
+   "john woodroffe"
+  ],
+  "ind-serpent-power": [
+   "arthur avalon",
+   "avalon",
+   "woodroffe",
+   "john woodroffe"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ind-theatre-of-the-hindus-1": [
+   "selectspecimenso01wils_0",
+   "Select Specimens of the Theatre of the Hindus, vol. I (1835)",
+   "selectspecimenso01wils_0_djvu.txt"
+  ],
+  "ind-theatre-of-the-hindus-2": [
+   "selectspecimenso02wils_0",
+   "Select Specimens of the Theatre of the Hindus, vol. II (1835)",
+   "selectspecimenso02wils_0_djvu.txt"
+  ],
+  "ind-megha-duta": [
+   "mghadta00kali",
+   "The Megha Duta, or Cloud Messenger, translated into English verse (1813)",
+   "mghadta00kali_djvu.txt"
+  ],
+  "ind-nagananda": [
+   "bub_gb_2JfomcFOiEIC",
+   "Nagananda, or the Joy of the Snake-World: a Buddhist Drama in Five Acts (1872)",
+   "bub_gb_2JfomcFOiEIC_djvu.txt"
+  ],
+  "ind-bhartrihari": [
+   "twocenturiesofbh00bhar",
+   "Two Centuries of Bhartrihari, translated into English verse (1877)",
+   "twocenturiesofbh00bhar_djvu.txt"
+  ],
+  "ind-tulsi-das-ramayana": [
+   "in.ernet.dli.2015.43864",
+   "The Ramayana of Tulsi Das (the Ramcharitmanas) (1883)",
+   "2015.43864.Ramayana-Of-Tulsi-Das_djvu.txt"
+  ],
+  "ind-great-liberation": [
+   "india.history.resource.110781",
+   "Tantra of the Great Liberation (Mahanirvana Tantra) (1913)",
+   "110781_djvu.txt"
+  ],
+  "ind-serpent-power": [
+   "in.ernet.dli.2015.283748",
+   "The Serpent Power, being the Shat-Chakra-Nirupana and Paduka-Panchaka (1924)",
+   "2015.283748.The-Serpent_djvu.txt"
+  ]
+ },
+ "titles": {
+  "indian-literature-theatre-of-the-hindus-1": {
+   "source": "ind-theatre-of-the-hindus-1",
+   "of": "Sanskrit drama (Sudraka's Mricchakatika, Kalidasa's Vikramorvasi, Bhavabhuti's Uttara Rama Charitra)",
+   "work": "Select Specimens of the Theatre of the Hindus, vol. I",
+   "translated": 1835,
+   "translator": "Horace Hayman Wilson",
+   "scan_edition": "Parbury, Allen & Co., London 1835, second edition; archive.org scan",
+   "note": "The first edition was printed at Calcutta (1826-27); this second edition keeps the Calcutta preface of May 1827."
+  },
+  "indian-literature-theatre-of-the-hindus-2": {
+   "source": "ind-theatre-of-the-hindus-2",
+   "of": "Sanskrit drama (Bhavabhuti's Malati and Madhava, Visakhadatta's Mudra Rakshasa, Harsha's Ratnavali, and accounts of other plays)",
+   "work": "Select Specimens of the Theatre of the Hindus, vol. II",
+   "translated": 1835,
+   "translator": "Horace Hayman Wilson",
+   "scan_edition": "Parbury, Allen & Co., London 1835, second edition; archive.org scan"
+  },
+  "indian-literature-megha-duta": {
+   "source": "ind-megha-duta",
+   "of": "Kalidasa",
+   "work": "The Megha Duta, or Cloud Messenger, translated into English verse",
+   "translated": 1813,
+   "translator": "Horace Hayman Wilson",
+   "scan_edition": "Hindoostanee Press (P. Pereira), Calcutta 1813, first edition; archive.org scan",
+   "note": "Wilson's Vishnu Purana is on oriental-classics."
+  },
+  "indian-literature-nagananda": {
+   "source": "ind-nagananda",
+   "of": "Harsha",
+   "work": "Nagananda, or the Joy of the Snake-World: a Buddhist Drama in Five Acts",
+   "translated": 1872,
+   "translator": "Palmer Boyd",
+   "scan_edition": "Trübner, London 1872; Google scan"
+  },
+  "indian-literature-bhartrihari": {
+   "source": "ind-bhartrihari",
+   "of": "Bhartrihari",
+   "work": "Two Centuries of Bhartrihari, translated into English verse",
+   "translated": 1877,
+   "translator": "C. H. Tawney",
+   "scan_edition": "Thacker, Spink & Co., Calcutta 1877 (reprinted from the Indian Antiquary); archive.org scan",
+   "note": "Tawney's Katha Sarit Sagara is on singles-verse-drama-tales."
+  },
+  "indian-literature-tulsi-das-ramayana": {
+   "source": "ind-tulsi-das-ramayana",
+   "of": "Tulsidas",
+   "work": "The Ramayana of Tulsi Das (the Ramcharitmanas)",
+   "translated": 1883,
+   "translator": "F. S. Growse",
+   "scan_edition": "North-Western Provinces and Oudh Government Press, Allahabad 1883; Digital Library of India scan",
+   "note": "The Hindi Ramayana; Griffith's Ramayana from the Sanskrit of Valmiki is on the griffith shelf."
+  },
+  "indian-literature-great-liberation": {
+   "source": "ind-great-liberation",
+   "of": "The Mahanirvana Tantra",
+   "work": "Tantra of the Great Liberation (Mahanirvana Tantra)",
+   "translated": 1913,
+   "translator": "Arthur Avalon (Sir John Woodroffe)",
+   "scan_edition": "Luzac & Co., London 1913; India History Resource scan"
+  },
+  "indian-literature-serpent-power": {
+   "source": "ind-serpent-power",
+   "of": "Purnananda's Sat-Cakra-Nirupana and the Paduka-Pancaka",
+   "work": "The Serpent Power, being the Shat-Chakra-Nirupana and Paduka-Panchaka",
+   "translated": 1924,
+   "translator": "Arthur Avalon (Sir John Woodroffe)",
+   "scan_edition": "Ganesh & Co., Madras 1924, second edition (the first was published by Luzac, London); Digital Library of India scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "theatre-1955": "theatreofhindus00wils is a 1955 reprint of Wilson's Theatre of the Hindus; the 1835 second edition is used.",
+  "tulsi-das-later-editions": "Growse's Tulsi Das in later editions (1891, 1914, 1922) and a 1966 reprint were passed over for the 1883 edition."
+ },
+ "_checks": {
+  "ind-theatre-of-the-hindus-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "horace hayman wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ind-theatre-of-the-hindus-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "horace hayman wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ind-megha-duta": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. h. wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ind-nagananda": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "palmer boyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ind-bhartrihari": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tawney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ind-tulsi-das-ramayana": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "growse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ind-great-liberation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur avalon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ind-serpent-power": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur avalon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "ind-theatre-of-the-hindus-1": {
+   "ia": "selectspecimenso01wils_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1834,
+    1835
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "Examined: 'Digitized by the Internet Archive in 2016', a scanning credit, not an imprint. Imprint: Parbury, Allen & Co., London 1835."
+  },
+  "ind-theatre-of-the-hindus-2": {
+   "ia": "selectspecimenso02wils_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1835
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "Examined: 'Digitized by the Internet Archive in 2016', a scanning credit, not an imprint. Imprint: Parbury, Allen & Co., London 1835."
+  },
+  "ind-megha-duta": {
+   "ia": "mghadta00kali",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ind-nagananda": {
+   "ia": "bub_gb_2JfomcFOiEIC",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1864,
+    1872
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ind-bhartrihari": {
+   "ia": "twocenturiesofbh00bhar",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1852,
+    1863,
+    1874,
+    1875,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ind-tulsi-das-ramayana": {
+   "ia": "in.ernet.dli.2015.43864",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1713,
+    1769,
+    1883
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ind-great-liberation": {
+   "ia": "india.history.resource.110781",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    2019
+   ],
+   "post_1930_examined": "Examined: 'Digitized with financial assistance ... on 06 November, 2019', a scanning credit, not an imprint. Imprint: Luzac & Co., London 1913."
+  },
+  "ind-serpent-power": {
+   "ia": "in.ernet.dli.2015.283748",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1526,
+    1577,
+    1659,
+    1918,
+    1922,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

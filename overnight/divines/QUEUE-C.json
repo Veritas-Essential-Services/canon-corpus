@@ -3544,6 +3544,14 @@
       "finished": "2026-10-17T19:39-05:00",
       "scope": "TRANSLATOR SHELF (round 82, lane C's choice; Adam may veto) -- east-asian-classics +2; PD printings before 1931 only; no minting",
       "notes": "2 titles added (11 on the shelf); ids checked across all branches. See DIGEST-C round 82. No uids minted."
+    },
+    {
+      "id": "shelf-indian-literature",
+      "status": "done",
+      "started": "2026-10-17T19:43-05:00",
+      "finished": "2026-10-17T19:43-05:00",
+      "scope": "TRANSLATOR SHELF (round 83, lane C's choice; Adam may veto) -- indian-literature; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 83. No uids minted."
     }
   ]
 }
