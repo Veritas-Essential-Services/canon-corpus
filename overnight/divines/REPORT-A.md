@@ -2008,3 +2008,6 @@
 
 ## 2026-10-17 23:45 CDT — richard-furman done
 - `pipeline/richard-furman_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:50 CDT — paused at Adam's request
+- Round 39: 10 shelves, 46 items committed; 12 shelves held and still queued (identity-check failures on garbled early-printing title pages). Round 40 research stopped with nothing queued. LOCK-A released (status paused) with the resume point.
