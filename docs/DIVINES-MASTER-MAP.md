@@ -10352,6 +10352,8 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 | Essays on Some Unsettled Questions of Political Economy (1844) |  | `mill-unsettled-questions-1844` | have (PG 12004) |
 | The Subjection of Women (London: Longmans, Green, Reader, and Dyer, 1869) |  | `mill-subjection-of-women-1869` | have (PG 27083) |
 | Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879) |  | `mill-socialism-1879` | have (PG 38138) |
+| Auguste Comte and Positivism (1865; the etext names no printing) |  | `mill-auguste-comte-positivism-1865` | have (PG 16833) |
+| The Contest in America, reprinted from Fraser's Magazine (1862; the etext names no printing) |  | `mill-contest-in-america-1862` | have (PG 5123) |
 | An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
 | Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |
@@ -11038,6 +11040,7 @@ Shelf: `pipeline/w-s-jevons_shelf.json`. The Principles of Science (1883).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883) |  | `jevons-principles-of-science-1883` | have (PG 74864) |
+| Political Economy, Science Primers (New York: D. Appleton, 1880) |  | `jevons-political-economy-primer-1880` | have (PG 33219) |
 
 ## George Boole
 
@@ -11869,6 +11872,9 @@ Shelf: `pipeline/walter-bagehot_shelf.json`. Political thought.
 |---|---|---|---|
 | Physics and Politics, new and cheaper edition (year not printed) |  | `bagehot-physics-and-politics` | have (PG 4350) |
 | The English Constitution, 2nd ed. (printing not named) |  | `bagehot-english-constitution-2nd-ed` | have (PG 4351) |
+| Lombard Street: A Description of the Money Market (1873; printing not named) |  | `bagehot-lombard-street` | have (PG 4359) |
+| Literary Studies, vol. I, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v1` | have (PG 78449) |
+| Literary Studies, vol. II, ed. R. H. Hutton, fourth edition (London, 1891) |  | `bagehot-literary-studies-v2` | have (PG 78450) |
 
 ## Thomas Henry Huxley
 
@@ -12169,6 +12175,141 @@ Shelf: `pipeline/william-petty_shelf.json`. Hull's two-volume Economic Writings 
 | The Economic Writings, ed. C. H. Hull, vol. II (Cambridge, 1899) |  | `petty-economic-writings-hull-v2` | have-raw (IA `economicwriting02pettgoog`) |
 
 Pending (wishlist): The Petty Papers (ed. Lansdowne, 1927)
+
+## Henry George (political economy)
+
+Shelf: `pipeline/henry-george_shelf.json`. Progress and Poverty from Gutenberg plus the 1904 Complete Works whole (vol. I overlaps). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Progress and Poverty, Memorial Edition (Doubleday, 1898) |  | `george-progress-and-poverty-1898` | have (PG 55308) |
+| The Complete Works, vol. 1: Progress and Poverty (Doubleday, Page, 1904) |  | `george-complete-works-v01` | have-raw (IA `completeworksofh01georiala`) |
+| The Complete Works, vol. 2: Social Problems (Doubleday, Page, 1904) |  | `george-complete-works-v02` | have-raw (IA `completeworksofh02georiala`) |
+| The Complete Works, vol. 3: The Land Question and the pieces bound with it (Doubleday, Page, 1904) |  | `george-complete-works-v03` | have-raw (IA `completeworksofh03georiala`) |
+| The Complete Works, vol. 4: Protection or Free Trade (Doubleday, Page, 1904) |  | `george-complete-works-v04` | have-raw (IA `completeworksofh04georiala`) |
+| The Complete Works, vol. 5: A Perplexed Philosopher (Doubleday, Page, 1904) |  | `george-complete-works-v05` | have-raw (IA `completeworksofh05georiala`) |
+| The Complete Works, vol. 6: The Science of Political Economy, Books I-II (Doubleday, Page, 1904) |  | `george-complete-works-v06` | have-raw (IA `completeworksofh06georiala`) |
+| The Complete Works, vol. 7: The Science of Political Economy, Books III-V (Doubleday, Page, 1904) |  | `george-complete-works-v07` | have-raw (IA `completeworksofh07georiala`) |
+| The Complete Works, vol. 8: Our Land and Land Policy (Doubleday, Page, 1904) |  | `george-complete-works-v08` | have-raw (IA `completeworksofh08georiala`) |
+| The Complete Works, vol. 9: The Life of Henry George by Henry George Jr., first and second periods (Doubleday, Page, 1904) |  | `george-complete-works-v09` | have-raw (IA `completeworksofh09georiala`) |
+| The Complete Works, vol. 10: The Life of Henry George by Henry George Jr., third period (Doubleday, Page, 1904) |  | `george-complete-works-v10` | have-raw (IA `completeworksofh10georiala`) |
+
+## Nassau William Senior (political economy)
+
+Shelf: `pipeline/nassau-senior_shelf.json`. Two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Four Introductory Lectures on Political Economy (London, 1852) |  | `senior-four-introductory-lectures-1852` | have (PG 47266) |
+| Statement of the Provision for the Poor (London, 1835) |  | `senior-provision-for-the-poor-1835` | have (PG 53316) |
+
+Pending (wishlist): An Outline of the Science of Political Economy (1836) in a pre-1931 printing
+
+## J. A. Hobson (political economy)
+
+Shelf: `pipeline/j-a-hobson_shelf.json`. Three Gutenberg texts, 1902-1920. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems of Poverty, sixth edition (1906) |  | `hobson-problems-of-poverty-1906` | have (PG 10710) |
+| The Evolution of Modern Capitalism (1902 edition) |  | `hobson-evolution-of-modern-capitalism-1902` | have (PG 28284) |
+| The Morals of Economic Internationalism (Houghton Mifflin, 1920) |  | `hobson-morals-economic-internationalism-1920` | have (PG 29881) |
+
+Pending (wishlist): Imperialism: A Study (1902); The Physiology of Industry (with Mummery, 1889)
+
+## John Bates Clark (political economy)
+
+Shelf: `pipeline/john-bates-clark_shelf.json`. The Distribution of Wealth (1899) and two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essentials of Economic Theory (Macmillan, 1907) |  | `clark-essentials-economic-theory-1907` | have (PG 31159) |
+| Social Justice without Socialism (Houghton Mifflin, 1914) |  | `clark-social-justice-without-socialism-1914` | have (PG 29393) |
+| The Distribution of Wealth (Macmillan, 1899) |  | `clark-distribution-of-wealth-1899` | have-raw (IA `cu31924002609927`) |
+
+Pending (wishlist): The Philosophy of Wealth (1886)
+
+## Thorstein Veblen (political economy)
+
+Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisure Class stays on the Adler shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Instinct of Workmanship (Macmillan, 1914) |  | `veblen-instinct-of-workmanship-1914` | have (PG 69888) |
+| An Inquiry into the Nature of Peace (Macmillan, 1917) |  | `veblen-nature-of-peace-1917` | have (PG 20694) |
+| The Place of Science in Modern Civilisation (1919) |  | `veblen-place-of-science-1919` | have (PG 39949) |
+
+Pending (wishlist): The Theory of Business Enterprise (1904); The Higher Learning in America (1918)
+
+## Richard T. Ely (political economy)
+
+Shelf: `pipeline/richard-t-ely_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| French and German Socialism in Modern Times (Harper, 1883) |  | `ely-french-german-socialism-1883` | have (PG 59815) |
+
+## William Thomas Thornton (political economy)
+
+Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Old-Fashioned Ethics and Common-Sense Metaphysics (Macmillan, 1873) |  | `thornton-old-fashioned-ethics-1873` | have (PG 29917) |
+
+Pending (wishlist): On Labour (1869)
+
+## William Graham Sumner (sociology and political economy)
+
+Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What Social Classes Owe to Each Other held (1951 reprint only). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Folkways (Ginn, 1906) |  | `sumner-folkways-1906` | have (PG 24253) |
+| The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919) |  | `sumner-forgotten-man-keller-1919` | have (PG 65693) |
+
+Pending (wishlist): What Social Classes Owe to Each Other (1883) in a pre-1931 printing
+
+## Frederic Bastiat (anonymous translations)
+
+Shelf: `pipeline/frederic-bastiat_shelf.json`. Two Gutenberg texts whose translators are unnamed; Stirling's versions are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays on Political Economy, third (People's) edition (Putnam, 1874) |  | `bastiat-essays-political-economy-1874` | have (PG 15962) |
+| Protection and Communism (London: J. W. Parker, 1852) |  | `bastiat-protection-and-communism-1852` | have (PG 44144) |
+
+## Eugen von Bohm-Bawerk (political economy)
+
+Shelf: `pipeline/eugen-bohm-bawerk_shelf.json`. Smart's two translations and Macdonald's Karl Marx. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Capital and Interest, tr. William Smart (Macmillan, 1890) | Smart | `bohm-bawerk-smart-capital-interest-1890` | have-raw (IA `capitalinterestc00bhuoft`) |
+| The Positive Theory of Capital, tr. William Smart (1891; Stechert reprint, 1928) |  | `bohm-bawerk-smart-positive-theory-1928` | have-raw (IA `positivetheoryof00bhuoft`) |
+| Karl Marx and the Close of his System, tr. Alice M. Macdonald (Fisher Unwin, 1898) | Macdonald | `bohm-bawerk-macdonald-karl-marx-1898` | have-raw (IA `karlmarxandclos00macdgoog`) |
+
+## Alfred Marshall (political economy)
+
+Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principles of Economics, eighth edition (Macmillan, 1920) |  | `marshall-principles-of-economics-8th-1920` | have-raw (IA `bmshri.principlesofecon0000alfr_f4w9edition-8`) |
+
+Pending (wishlist): Industry and Trade (1919); Money, Credit and Commerce (1923)
+
+## J. E. Cairnes (political economy)
+
+Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Slave Power, third edition (New York: Follett, Foster, 1863) |  | `cairnes-slave-power-1863` | have-raw (IA `slavepoweritscha1863cair`) |
+| Essays in Political Economy, Theoretical and Applied (Macmillan, 1873) |  | `cairnes-essays-political-economy-1873` | have-raw (IA `bub_gb_x5182yt4_0UC`) |
+| Political Essays (Macmillan, 1873) |  | `cairnes-political-essays-1873` | have-raw (IA `politicalessays00cairuoft`) |
+
+Pending (wishlist): The Character and Logical Method of Political Economy; Some Leading Principles of Political Economy (1874)
 
 ## Perseus census (overflow)
 

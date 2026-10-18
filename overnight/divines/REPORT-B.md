@@ -1085,3 +1085,10 @@
 - Not taken: List tr. Matile (1856), a second translation; Petty, Essays on Mankind, ed. Morley (PG 5619), contained in Hull
 - Wicksteed's Alphabet of Economic Science (PG 32497) not taken: the wicksteed shelf belongs to lane C; flagged in DIGEST
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 19:58 CDT — Round av: political economy, second wave
+- New shelves: henry-george (PG 55308 + Complete Works 1904, 10 vols, vol. I overlap kept), nassau-senior (2 PG), j-a-hobson (3 PG), john-bates-clark (Distribution of Wealth 1899 + 2 PG), thorstein-veblen (3 PG; Leisure Class stays on adler), richard-t-ely (1 PG), william-thomas-thornton (1 PG), william-graham-sumner (2 PG), frederic-bastiat (2 PG, anonymous translators), eugen-bohm-bawerk (Smart x2, Macdonald), alfred-marshall (Principles 8th ed. 1920), john-elliott-cairnes (3 IA)
+- Extended: walter-bagehot (+Lombard Street, Literary Studies 2 vols), w-s-jevons (+Political Economy primer 1880), john-stuart-mill (+Comte and Positivism, Contest in America)
+- Held: What Social Classes Owe to Each Other (PG 18603 is the 1951 Caxton reprint); The Law (PG 44800 is the Mises 2007 edition)
+- Positive Theory of Capital: OCR spells the translator SMAET, so no translator claim is recorded for that row
+- Ids checked against heldidx and all branches: no collisions
