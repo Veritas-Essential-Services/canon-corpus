@@ -9196,6 +9196,17 @@ Slugs `boudon-*`. Built from title pages read for round 37.
 | The Holy Ways of the Cross, tr. Edward Healy Thompson (London: Burns, Oates & Co., 1875) | have-ocr | IA `TheHolyWaysOfTheCross` |
 | The Glories of the Holy Angels (Philadelphia: McGrath, catalogued 1854); Google copies of each 1869-1875 book | alternate | not shelved |
 | The Wayes of the Crosse (catalogued 1676: the title page names no author); Lives of Boudon by others | excluded | |
+
+## Benet of Canfield (round 37, my pick, 2026-10-18)
+
+Slugs `canfield-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rule of Perfection, contayning a breif and perspicuous abridgement of all the wholle spirituall life (Rouen: for Iohn Cousturier; approbation dated 1608, catalogued 1609) | have-ocr | IA `bim_early-english-books-1475-1640_the-rule-of-perfection-_fitch-william_1609_0` |
+| The Holy Will of God: a short rule of perfection, tr. Father Collins (London: Thomas Richardson & Sons, 1878) | have-ocr | IA `holywillgodasho00fitcgoog` |
+| Two other 1609 issues (title pages garbled); A Bright Starre (third part of the Rule, catalogued 1646, translator garbled); TheHolyWillOfGod (another copy) | alternate | not shelved |
+| The Christian Knight (1619): the title page credits Sir William Wiseman | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
