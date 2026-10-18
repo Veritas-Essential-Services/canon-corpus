@@ -1500,3 +1500,6 @@
 
 ## 2026-10-17 21:25 CDT — marion-crawford: done
 - marion-crawford: new shelf, 52 Gutenberg books, 95,562 units, 956 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:25 CDT — charles-dudley-warner: done
+- charles-dudley-warner: new shelf, 44 Gutenberg books, 29,122 units, 3466 ~2 ids; verify 0 mismatches, 0 rights flags.

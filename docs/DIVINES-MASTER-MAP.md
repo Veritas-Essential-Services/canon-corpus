@@ -32347,6 +32347,59 @@ Shelf: `pipeline/marion-crawford_shelf.json` (2026-10-17; added at the coordinat
 | Salve Venetia, gleanings from Venetian history; vol. II | have | PG 67156, `fmcrawford-salve-venetia-gleanings-from-venetian-history-67156` (2621 units) |
 | The King's Messenger | have | PG 75905, `fmcrawford-kings-messenger` (94 units) |
 
+## Charles Dudley Warner
+
+Shelf: `pipeline/charles-dudley-warner_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (44 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Complete Writings of Charles Dudley Warner — Volume 1 | have | PG 2671, `cdwarner-complete-writings-of-charles-dudley-warner-volume-1` (1181 units) |
+| The Complete Writings of Charles Dudley Warner — Volume 2 | have | PG 2672, `cdwarner-complete-writings-of-charles-dudley-warner-volume-2` (453 units) |
+| The Complete Writings of Charles Dudley Warner — Volume 3 | have | PG 2673, `cdwarner-complete-writings-of-charles-dudley-warner-volume-3` (990 units) |
+| The Complete Writings of Charles Dudley Warner — Volume 4 | have | PG 2674, `cdwarner-complete-writings-of-charles-dudley-warner-volume-4` (507 units) |
+| Washington Irving | have | PG 3101, `cdwarner-washington-irving` (406 units) |
+| Their Pilgrimage | have | PG 3102, `cdwarner-their-pilgrimage` (904 units) |
+| A Little Journey in the World | have | PG 3103, `cdwarner-a-little-journey-in-the-world` (1566 units) |
+| The Golden House | have | PG 3104, `cdwarner-golden-house` (1431 units) |
+| That Fortune | have | PG 3105, `cdwarner-that-fortune` (1476 units) |
+| As We Were Saying | have | PG 3106, `cdwarner-as-we-were-saying` (106 units) |
+| As We Go | have | PG 3107, `cdwarner-as-we-go` (100 units) |
+| Nine Short Essays | have | PG 3108, `cdwarner-nine-short-essays` (131 units) |
+| Fashions in Literature | have | PG 3109, `cdwarner-fashions-in-literature` (38 units) |
+| The American Newspaper | have | PG 3110, `cdwarner-american-newspaper` (52 units) |
+| Certain Diversities of American Life | have | PG 3111, `cdwarner-certain-diversities-of-american-life` (38 units) |
+| The Pilgrim, and the American of Today—(1892) | have | PG 3112, `cdwarner-pilgrim-and-the-american-of-today-1892` (23 units) |
+| Some Causes of the Prevailing Discontent | have | PG 3113, `cdwarner-some-causes-of-the-prevailing-discontent` (43 units) |
+| The Education of the Negro | have | PG 3114, `cdwarner-education-of-the-negro` (48 units) |
+| The Indeterminate Sentence: What Shall Be Done with the Criminal Class? | have | PG 3115, `cdwarner-indeterminate-sentence` (50 units) |
+| Literary Copyright | have | PG 3116, `cdwarner-literary-copyright` (34 units) |
+| The Relation of Literature to Life | have | PG 3117, `cdwarner-relation-of-literature-to-life` (82 units) |
+| Equality | have | PG 3118, `cdwarner-equality` (64 units) |
+| What Is Your Culture to Me? | have | PG 3119, `cdwarner-what-is-your-culture-to-me` (38 units) |
+| Modern Fiction | have | PG 3120, `cdwarner-modern-fiction` (27 units) |
+| Thoughts Suggested by Mr. Froude's "Progress" | have | PG 3121, `cdwarner-thoughts-suggested-by-mr-froudes-progress` (54 units) |
+| England | have | PG 3122, `cdwarner-england` (42 units) |
+| The Novel and the Common School | have | PG 3123, `cdwarner-novel-and-the-common-school` (29 units) |
+| The People for Whom Shakespeare Wrote | have | PG 3124, `cdwarner-people-for-whom-shakespeare-wrote` (142 units) |
+| The Complete Essays of Charles Dudley Warner | have | PG 3125, `cdwarner-complete-essays-of-charles-dudley-warner` (1122 units) |
+| On Horseback | have | PG 3126, `cdwarner-on-horseback` (279 units) |
+| Being a Boy | have | PG 3127, `cdwarner-being-a-boy` (219 units) |
+| Saunterings | have | PG 3128, `cdwarner-saunterings` (450 units) |
+| The Story of Pocahontas | have | PG 3129, `cdwarner-story-of-pocahontas` (120 units) |
+| Captain John Smith | have | PG 3130, `cdwarner-captain-john-smith` (581 units) |
+| How Spring Came in New England | have | PG 3131, `cdwarner-how-spring-came-in-new-england` (53 units) |
+| In the Wilderness | have | PG 3132, `cdwarner-in-the-wilderness` (232 units) |
+| Baddeck, and That Sort of Thing | have | PG 3133, `cdwarner-baddeck-and-that-sort-of-thing` (325 units) |
+| Backlog Studies | have | PG 3134, `cdwarner-backlog-studies` (633 units) |
+| My Summer in a Garden | have | PG 3135, `cdwarner-my-summer-in-a-garden` (222 units) |
+| The Complete Project Gutenberg Writings of Charles Dudley Warner | have | PG 3136, `cdwarner-complete-project-gutenberg-writings-of-charles-dudl` (10047 units) |
+| Our Italy | have | PG 28506, `cdwarner-our-italy` (1374 units) |
+| My Winter on the Nile Eighteenth Edition | have | PG 52212, `cdwarner-my-winter-on-the-nile-eighteenth-edition` (1730 units) |
+| In the Levant Twenty Fifth Impression | have | PG 52213, `cdwarner-in-the-levant-twenty-fifth-impression` (990 units) |
+| Studies in the South and West, with Comments on Canada | have | PG 52290, `cdwarner-studies-in-the-south-and-west-with-comments-on-cana` (690 units) |
+| repeat-editions | excluded | PG 15984, 54604: second Gutenberg editions of titles already on the shelf. |
+| pg-3471 | excluded | PG 3471, 7557, 28821: David Widger's quotation selections and linked index. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
