@@ -5822,6 +5822,12 @@ Shelf: `pipeline/giuseppe-mazzini_shelf.json`. Smith, Elder's new edition of the
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Life and Writings of Joseph Mazzini, new edition, vol. 1 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v1` | have-raw (IA `lifewritingsofjo01mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 2 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v2` | have-raw (IA `lifewritingsofjo02mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 3 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v3` | have-raw (IA `lifewritingsofjo03mazz`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 4 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v4` | have-raw (IA `lifewritingsofjo04mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 5 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v5` | have-raw (IA `lifewritingsofjo05mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 6 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v6` | have-raw (IA `lifewritingsofjo06mazzuoft`) |
 
 Pending (wishlist): An Essay on the Duties of Man in a dated printing
 
