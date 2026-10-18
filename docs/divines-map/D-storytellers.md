@@ -7170,6 +7170,35 @@ Shelf: `pipeline/frank-packard_shelf.json` (2026-10-17; added at the coordinator
 | The Four Stragglers | have | PG 59895, `fpackard-four-stragglers` (1774 units) |
 | pg-57718 | excluded | PG 57718: Gutenberg's index of Packard's works, not a book. |
 
+## A. E. W. Mason
+
+Shelf: `pipeline/aew-mason_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure and detective novels. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| At the Villa Rose | have | PG 4745, `aewmason-at-the-villa-rose` (1866 units) |
+| The Broken Road | have | PG 10755, `aewmason-broken-road` (2281 units) |
+| Witness for the Defence | have | PG 12535, `aewmason-witness-for-the-defence` (2120 units) |
+| Ensign Knightley, and Other Stories | have | PG 12859, `aewmason-ensign-knightley-and-other-stories` (1695 units) |
+| Running Water | have | PG 12891, `aewmason-running-water` (1915 units) |
+| The Philanderers | have | PG 13057, `aewmason-philanderers` (1390 units) |
+| Clementina | have | PG 13567, `aewmason-clementina` (2042 units) |
+| The Summons | have | PG 16381, `aewmason-summons` (3064 units) |
+| The Four Feathers | have | PG 18883, `aewmason-four-feathers` (2135 units) |
+| The Affair at the Semiramis Hotel | have | PG 38663, `aewmason-affair-at-the-semiramis-hotel` (553 units) |
+| The Four Corners of the World | have | PG 38664, `aewmason-four-corners-of-the-world` (2620 units) |
+| The Courtship of Morrice Buckler: A Romance | have | PG 38665, `aewmason-courtship-of-morrice-buckler` (2193 units) |
+| Green Stockings: A Comedy in Three Acts | have | PG 38678, `aewmason-green-stockings` (1438 units) |
+| Miranda of the Balcony: A Story | have | PG 38679, `aewmason-miranda-of-the-balcony` (1690 units) |
+| The Truants | have | PG 38685, `aewmason-truants` (2275 units) |
+| The Turnstile | have | PG 38689, `aewmason-turnstile` (2538 units) |
+| The Watchers: A Novel | have | PG 38693, `aewmason-watchers` (1362 units) |
+| Lawrence Clavering | have | PG 38718, `aewmason-lawrence-clavering` (2209 units) |
+| A Romance of Wastdale | have | PG 38719, `aewmason-a-romance-of-wastdale` (686 units) |
+| The Winding Stair | have | PG 60125, `aewmason-winding-stair` (1950 units) |
+| The House of the Arrow | have | PG 67514, `aewmason-house-of-the-arrow` (2623 units) |
+| The Royal Exchange | have | PG 75944, `aewmason-royal-exchange` (102 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

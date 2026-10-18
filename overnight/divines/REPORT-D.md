@@ -1272,3 +1272,6 @@
 
 ## 2026-10-17 19:00 CDT — frank-packard: done
 - frank-packard: new shelf, 13 Gutenberg books, 23,186 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:00 CDT — aew-mason: done
+- aew-mason: new shelf, 22 Gutenberg books, 40,747 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags.
