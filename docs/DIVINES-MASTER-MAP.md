@@ -7204,6 +7204,19 @@ Slugs `fisher-*`. English Works, the Penitential Psalms and other treatises.
 | The Funeral Sermon of Margaret, Countess of Richmond and Derby, ed. J. Hymers (Cambridge: University Press, M.DCCC.XL) | have-ocr | IA `funeralsermonofm00fishuoft` |
 | Other copies of the English Works and the Commentary; the 1904 New York Sermons on the Seven Penitential Psalms; an 18th-century reprint of the Treatise | alternate | not shelved |
 | Other John Fishers (the Jesuit alias Percy, 18th-century divines); Edward Fisher; a 1935 Spiritual Consolation | excluded | |
+
+## Johann Arndt (round 31, my pick, 2026-10-18)
+
+Slugs `arndt-*`. True Christianity (1868) and The Garden of Paradise (1716).
+
+| Work | Status | Where |
+|---|---|---|
+| True Christianity, tr. A. W. Boehm, revised and ed. Charles F. Schaeffer (Philadelphia: Lutheran Book Store; Smith, English & Co., 1868) | have-clean | Gutenberg 34736 |
+| The Garden of Paradise: or, Holy Prayers and Exercises (London: J. Downing, 1716) | have-ocr | IA `bim_eighteenth-century_the-garden-of-paradise-_arndt-johann_1716` |
+| CCEL arndt/true, the same 1868 edition | alternate | not shelved |
+| The 1712-1714 London Of True Christianity, the 1809 Boston Books I-II (Chaddock) and the 1815 Jaques edition | alternate | not shelved |
+| His Book of Scripture (1646), tr. under a pseudonym | alternate | not shelved |
+| The 1979 Paulist Press translation | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

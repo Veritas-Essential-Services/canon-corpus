@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Johann Arndt (1555-1621, Lutheran superintendent at Celle) in English for the Word Hoard: True Christianity in A. W. Boehm's translation as revised by Charles F. Schaeffer (Philadelphia, 1868), from Project Gutenberg, and The Garden of Paradise (London: J. Downing, 1716), from an Internet Archive scan. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "arndt"
+ ],
+ "_surname": [
+  "arndt",
+  "john arndt",
+  "johann arndt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "arndt-true-christianity": [
+   34736,
+   "True Christianity, tr. A. W. Boehm, revised and ed. Charles F. Schaeffer (Philadelphia: Lutheran Book Store; Smith, English & Co., 1868)"
+  ]
+ },
+ "internet_archive": {
+  "arndt-garden-of-paradise": [
+   "bim_eighteenth-century_the-garden-of-paradise-_arndt-johann_1716",
+   "The Garden of Paradise: or, Holy Prayers and Exercises (London: J. Downing, 1716)"
+  ]
+ },
+ "_alternates": {
+  "arndt-ccel": "CCEL arndt/true, the same 1868 edition",
+  "arndt-earlier": "The 1712-1714 London Of True Christianity, the 1809 Boston Books I-II (Chaddock) and the 1815 Jaques edition",
+  "arndt-1646": "His Book of Scripture (1646), tr. under a pseudonym"
+ },
+ "_excluded": {
+  "arndt-1979": "The 1979 Paulist Press translation"
+ },
+ "_rights_checked": {
+  "arndt-garden-of-paradise": "title page read: 'Now done into English from the German original'; translator not named",
+  "arndt-true-christianity": "PG header has no copyright marker; its transcribed title page matches the 1868 edition, which CCEL's arndt/true states as its print source"
+ },
+ "_pending": {},
+ "_translators": {
+  "arndt-true-christianity": "böhm"
+ },
+ "_checks": {
+  "arndt-true-christianity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arndt",
+   "translator_claimed": "böhm",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anton Wilhelm Böhm",
+   "translator_match": true
+  },
+  "arndt-garden-of-paradise": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arndt",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Now done into English from the German original'; translator not named"
+  }
+ }
+}
