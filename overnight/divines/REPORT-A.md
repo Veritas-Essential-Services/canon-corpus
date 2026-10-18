@@ -1366,3 +1366,6 @@
 
 ## 2026-10-17 19:57 CDT — carl-ullmann done
 - `pipeline/carl-ullmann_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — richard-rothe done
+- `pipeline/richard-rothe_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

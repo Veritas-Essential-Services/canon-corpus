@@ -6548,6 +6548,16 @@ Slugs `ullmann-*`. Reformers before the Reformation and other works in English.
 | CCEL ullmann/sinlessness: Sophia Taylor's 1870 translation, with no stated print source in its metadata | alternate | not shelved |
 | Reformers third edition (1863); Sinlessness (1870, tr. Taylor) | alternate | not shelved |
 | Bonnechose's Reformers before the Reformation (another author); German originals | excluded | |
+
+## Richard Rothe (round 29, my pick, 2026-10-18)
+
+Slugs `rothe-*`. Still Hours in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Still Hours, tr. Jane T. Stoddart, with an introductory essay by John Macpherson (London: Hodder and Stoughton, MDCCCLXXXVI) | have-ocr | IA `stillhours00roth` |
+| Another 1886 copy and the Toronto issue | alternate | not shelved |
+| His German works; a different Richard Rothe | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
