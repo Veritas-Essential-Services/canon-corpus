@@ -7920,6 +7920,10 @@ Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Genetic Psychology for Teachers (Appleton, 1903) |  | `judd-genetic-psychology-for-teachers-1903` | have-raw (IA `geneticpsycholog00judduoft`) |
+| Psychology, General Introduction (Scribner, 1907) |  | `judd-psychology-general-introduction-1907` | have-raw (IA `psychologygener01goog`) |
+| The Psychology of High-School Subjects (Ginn, 1916) |  | `judd-psychology-of-high-school-subjects-1916` | have-raw (IA `in.ernet.dli.2015.21801`) |
+| Introduction to the Scientific Study of Education (Ginn, 1918) |  | `judd-introduction-to-scientific-study-of-education-1918` | have-raw (IA `introductiontosc00juddiala`) |
 
 ## Perseus census (overflow)
 
