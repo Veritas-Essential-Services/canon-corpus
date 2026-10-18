@@ -1,5 +1,5 @@
 {
- "_about": "Anthony Collins (1676-1729), raw IA OCR: A Discourse of Free-Thinking, occasion'd by the rise and growth of a sect call'd Free-Thinkers (London, 1713; published anonymously). US public domain. No uids minted.",
+ "_about": "Anthony Collins (1676-1729), raw IA OCR: A Discourse of Free-Thinking, occasion'd by the rise and growth of a sect call'd Free-Thinkers (London, 1713; published anonymously). Added in round ao: A Philosophical Inquiry concerning Human Liberty, third edition corrected, anonymous (London: R. Robinson, 1735). US public domain. No uids minted.",
  "_author": "Anthony Collins",
  "_name_words": [
   "anthony",
@@ -14,13 +14,17 @@
   "collins-discourse-of-free-thinking-1713": [
    "adiscourseoffree00colluoft",
    "A Discourse of Free-Thinking (London, 1713)"
+  ],
+  "collins-human-liberty-1735": [
+   "philosophicalinq00coll",
+   "A Philosophical Inquiry concerning Human Liberty, third edition corrected, anonymous (London: R. Robinson, 1735)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "collins-discourse-of-free-thinking-1713": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -28,11 +32,25 @@
    "ia_date": "1713",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "collins-human-liberty-1735": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1735",
+   "ia_date": "1735",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "collins-discourse-of-free-thinking-1713": {
    "author": "published anonymously: the title page carries no author name; the attribution to Anthony Collins is the standard one and the IA catalogue record gives it (not read from the text)"
+  },
+  "collins-human-liberty-1735": {
+   "author": "Published anonymously; the 1735 third edition's title page names no author. The Inquiry concerning Human Liberty is Collins's acknowledged work (first 1717), and the text was checked against its preface and opening letter to Lucius."
   }
  }
 }

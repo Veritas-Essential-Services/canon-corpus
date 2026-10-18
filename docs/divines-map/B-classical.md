@@ -4817,6 +4817,7 @@ Shelf: `pipeline/anthony-collins_shelf.json`. A Discourse of Free-Thinking (1713
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Discourse of Free-Thinking (London, 1713) |  | `collins-discourse-of-free-thinking-1713` | have-raw (IA `adiscourseoffree00colluoft`) |
+| A Philosophical Inquiry concerning Human Liberty, third edition corrected, anonymous (London: R. Robinson, 1735) |  | `collins-human-liberty-1735` | have-raw (IA `philosophicalinq00coll`) |
 
 ## Matthew Tindal
 
