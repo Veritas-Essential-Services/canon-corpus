@@ -1,0 +1,86 @@
+{
+ "_about": "William Ralph Boyce Gibson (1869-1935), personal idealist, later professor of philosophy at Melbourne. Raw IA OCR: A Philosophical Introduction to Ethics (London: Swan Sonnenschein, 1904), God with Us, a study in religious idealism (London: A. and C. Black, 1909), The Problem of Logic, with the co-operation of Augusta Klein (A. and C. Black, first published 1908; this the reprint of November 1914) and Rudolf Eucken's Philosophy of Life (A. and C. Black, 1915 printing). His translations of Eucken with Lucy Judge Gibson are translations of a German author and are left to the translator lane. US public domain. No uids minted.",
+ "_author": "W. R. Boyce Gibson",
+ "_name_words": [
+  "william",
+  "ralph",
+  "boyce",
+  "gibson"
+ ],
+ "_surname": [
+  "boyce gibson",
+  "gibson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gibson-philosophical-introduction-to-ethics-1904": [
+   "philosophicalint022187mbp",
+   "A Philosophical Introduction to Ethics (Swan Sonnenschein, 1904)"
+  ],
+  "gibson-god-with-us-1909": [
+   "godwithusstudyin00gibsrich",
+   "God with Us: a study in religious idealism (A. and C. Black, 1909)"
+  ],
+  "gibson-problem-of-logic-1914": [
+   "problemoflogic00gibs",
+   "The Problem of Logic, with Augusta Klein (A. and C. Black, 1908; reprint 1914)"
+  ],
+  "gibson-rudolf-euckens-philosophy-of-life-1915": [
+   "rudolfeuckensphi00gibs",
+   "Rudolf Eucken's Philosophy of Life (A. and C. Black, 1915)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "gibson-philosophical-introduction-to-ethics-1904": {
+   "author": "OCR prints the author as 'W. R. HOVC'K GIBSON'; title page read: by W. R. Boyce Gibson, M.A."
+  }
+ },
+ "_checks": {
+  "gibson-philosophical-introduction-to-ethics-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gibson-god-with-us-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boyce gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibson-problem-of-logic-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boyce gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gibson-rudolf-euckens-philosophy-of-life-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boyce gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
