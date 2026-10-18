@@ -1909,3 +1909,6 @@
 
 ## 2026-10-17 23:01 CDT — francisco-arias done
 - `pipeline/francisco-arias_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for arias-litle-memorial (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:01 CDT — jean-joseph-surin done
+- `pipeline/jean-joseph-surin_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

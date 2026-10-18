@@ -1,0 +1,60 @@
+{
+ "_about": "Public-domain Jean-Joseph Surin (1600-1665), French Jesuit mystic, for the Word Hoard: The Foundations of the Spiritual Life, drawn from the Imitation of Jesus Christ (London: James Burns, 1844) and the Spiritual Letters of Father Surin translated by Sister M. Christopher (undated, catalogued 1892), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "surin"
+ ],
+ "_surname": [
+  "surin",
+  "f. surin",
+  "father surin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "surin-foundations-1844": [
+   "FoundationsOfTheSpiritualLife",
+   "The Foundations of the Spiritual Life, drawn from the book of the Imitation of Jesus Christ, translated from the French and adapted to the use of the English Church (London: James Burns, 1844)"
+  ],
+  "surin-spiritual-letters": [
+   "spiritualletters0000revh",
+   "Spiritual Letters of Father Surin, S.J., tr. Sister M. Christopher, O.S.F., preface by Francis Goldie (London and Leamington: Art and Book Company; New York: Benziger; title page undated, catalogued 1892)"
+  ]
+ },
+ "_alternates": {
+  "surin-copies": "foundationsofspi00suri (the same 1844 edition); Parker's 1847 edition"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "surin-foundations-1844": "title page read: translator not named; adapted for the English Church (the catalogue credits a Pusey preface, not read on the title page)",
+  "surin-spiritual-letters": "title page read: tr. Sister M. Christopher; no year on the title page, catalogued 1892; \"(Copyright reserved)\" is the publisher's line of that date"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "surin-foundations-1844": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "surin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; adapted for the English Church (the catalogue credits a Pusey preface, not read on the title page)"
+  },
+  "surin-spiritual-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "surin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. Sister M. Christopher; no year on the title page, catalogued 1892; \"(Copyright reserved)\" is the publisher's line of that date"
+  }
+ }
+}

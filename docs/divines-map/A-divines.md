@@ -9155,3 +9155,13 @@ Slugs `arias-*`. Built from title pages read for round 37.
 | The Charity of Jesus Christ (London: St Joseph's Library; Burns and Oates, 1880) | have-ocr | IA `charityofjesusch00ariauoft` |
 | The Virtues of Mary, Mother of God, preface by George Porter (London: Burns and Oates; title page undated, catalogued 1890) | have-ocr | IA `tvomfrfasj` |
 | The Litle Memorial (1620, title page illegible); CharityOfJesusChrist (another 1880 copy) | alternate | not shelved |
+
+## Jean-Joseph Surin (round 37, my pick, 2026-10-18)
+
+Slugs `surin-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Foundations of the Spiritual Life, drawn from the book of the Imitation of Jesus Christ, translated from the French and adapted to the use of the English Church (London: James Burns, 1844) | have-ocr | IA `FoundationsOfTheSpiritualLife` |
+| Spiritual Letters of Father Surin, S.J., tr. Sister M. Christopher, O.S.F., preface by Francis Goldie (London and Leamington: Art and Book Company; New York: Benziger; title page undated, catalogued 1892) | have-ocr | IA `spiritualletters0000revh` |
+| foundationsofspi00suri (the same 1844 edition); Parker's 1847 edition | alternate | not shelved |
