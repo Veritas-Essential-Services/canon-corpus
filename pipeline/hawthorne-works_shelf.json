@@ -326,6 +326,10 @@
   "nhawthorne-in-colonial-days": [
    64944,
    "In colonial days"
+  ],
+  "nhawthorne-great-stone-face-and-other-tales-of-the-white-mou": [
+   1916,
+   "The Great Stone Face, and Other Tales of the White Mountains"
   ]
  },
  "internet_archive": {},
@@ -1032,6 +1036,15 @@
    "pg_translator": null
   },
   "nhawthorne-in-colonial-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-great-stone-face-and-other-tales-of-the-white-mou": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
