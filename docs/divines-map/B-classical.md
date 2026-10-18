@@ -5848,6 +5848,7 @@ Shelf: `pipeline/john-balguy_shelf.json`. The Foundation of Moral Goodness, seco
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Foundation of Moral Goodness, second edition (London: John Pemberton, 1731) |  | `balguy-foundation-of-moral-goodness-1731` | have-raw (IA `bim_eighteenth-century_the-foundation-of-moral-_balguy-john_1731`) |
 
 Pending (wishlist): The Law of Truth (1733); A Letter to a Deist in a dated printing
 

@@ -1,0 +1,38 @@
+{
+ "_about": "John Balguy (1686-1748), rationalist moralist and critic of Shaftesbury and Hutcheson: The Foundation of Moral Goodness, or a further inquiry into the original of our idea of virtue, the second edition (London: John Pemberton, MDCCXXXI), raw IA OCR (ECCO), clean 0.79, published anonymously. Held: A Letter to a Deist, concerning the beauty and excellency of moral virtue, 'by a Country Clergyman' (London: John Pemberton), because no year is printed in the scan. US public domain. No uids minted.",
+ "_author": "John Balguy",
+ "_name_words": [
+  "john",
+  "balguy"
+ ],
+ "_surname": [
+  "balguy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "balguy-foundation-of-moral-goodness-1731": [
+   "bim_eighteenth-century_the-foundation-of-moral-_balguy-john_1731",
+   "The Foundation of Moral Goodness, second edition (London: John Pemberton, 1731)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "balguy-foundation-of-moral-goodness-1731": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1731",
+   "ia_date": "1731",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "balguy-foundation-of-moral-goodness-1731": {
+   "author": "Published anonymously; the attribution to Balguy is the catalogue's (ECCO) and standard, not printed on the title page. Title page and Pemberton imprint read in the OCR."
+  }
+ }
+}
