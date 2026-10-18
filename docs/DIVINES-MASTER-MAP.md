@@ -16024,10 +16024,10 @@ Round 26 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `george-calderon-ilya-tolstoy-reminiscences` | Ilya Tolstoy | Reminiscences of Tolstoy, by His Son | George Calderon | 1914 | have | PG 813 |
 | `george-calderon-chekhov-two-plays` | Anton Chekhov | Two Plays by Tchekhof: The Seagull; The Cherry Orchard | George Calderon | 1912 | have-raw | IA `twoplaysbytchekh00chekiala` |
 
-## Thomas Johnes (Monstrelet's Chronicles)
+## Thomas Johnes (Monstrelet's Chronicles; Froissart's Chronicles, 1848 edition)
 
 Shelf: `pipeline/johnes_shelf.json` · fetch `python3 pipeline/fetch_shelf.py johnes` · titles `python3 pipeline/split_shelf_titles.py johnes`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Froissart added round 96 (2026-10-17). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -16043,6 +16043,8 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `johnes-monstrelet-chronicles-vol-10` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 10 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 65396 |
 | `johnes-monstrelet-chronicles-vol-11` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 11 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 74647 |
 | `johnes-monstrelet-chronicles-vol-12` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 12 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 65721 |
+| `johnes-froissart-chronicles-vol-1` | Jean Froissart | Chronicles of England, France, Spain, and the adjoining countries, vol. I | Thomas Johnes | Johnes's translation, in its 1848 two-volume edition | have-raw | IA `chroniclesofenglandjohnes1` |
+| `johnes-froissart-chronicles-vol-2` | Jean Froissart | Chronicles of England, France, Spain, and the adjoining countries, vol. II | Thomas Johnes | Johnes's translation, in its 1848 two-volume edition | have-raw | IA `chroniclesofenglandjohnes2` |
 
 ## R. H. M. Elwes (Spinoza)
 
@@ -20686,6 +20688,30 @@ Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | frenssen-three-comrades: The Three Comrades (Dana Estes, 1907): the scan's title page is lost and no translator is named in the front matter. | — | — | excluded | — |
 | — | — | lcc-sappho-1855: Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check. | — | — | excluded | — |
 | — | — | oberon-1805: The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used. | — | — | excluded | — |
+
+## Shelf: French classics in English before 1931: Racine (Boswell), Froissart in Lord Berners's Tudor translation (6 vols), Commines (Scoble), Thierry's Norman Conquest (Hazlitt), Saint-Simon (Bayle St. John)
+
+Shelf: `pipeline/french-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py french-classics` · titles `python3 pipeline/split_shelf_titles.py french-classics`.
+Round 96 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `french-classics-racine-dramatic-works-vol-1` | Jean Racine | The Dramatic Works of Jean Racine, a metrical English version, vol. I | Robert Bruce Boswell | 1890 | have-raw | IA `dramaticworksmet01raciuoft` |
+| `french-classics-racine-dramatic-works-vol-2` | Jean Racine | The Dramatic Works of Jean Racine, a metrical English version, vol. II | Robert Bruce Boswell | 1897 | have-raw | IA `dramaticworksje02boswgoog` |
+| `french-classics-froissart-berners-vol-1` | Jean Froissart | The Chronicle of Froissart, translated out of French by Sir John Bourchier, Lord Berners, annis 1523-25, vol. I (Tudor Translations XXVII) | John Bourchier, Lord Berners; introduction by W. P. Ker | 1523 | have-raw | IA `cu31924088045772` |
+| `french-classics-froissart-berners-vol-2` | Jean Froissart | The Chronicle of Froissart, Lord Berners's translation, vol. II (Tudor Translations XXVIII) | John Bourchier, Lord Berners | 1523 | have-raw | IA `chronicletransla02froiuoft` |
+| `french-classics-froissart-berners-vol-3` | Jean Froissart | The Chronicle of Froissart, Lord Berners's translation, vol. III (Tudor Translations XXIX) | John Bourchier, Lord Berners | 1523 | have-raw | IA `chronicletransla03froiuoft` |
+| `french-classics-froissart-berners-vol-4` | Jean Froissart | The Chronicle of Froissart, Lord Berners's translation, vol. IV (Tudor Translations XXX) | John Bourchier, Lord Berners | 1525 | have-raw | IA `cu31924088045806` |
+| `french-classics-froissart-berners-vol-5` | Jean Froissart | The Chronicle of Froissart, Lord Berners's translation, vol. V (Tudor Translations XXXI) | John Bourchier, Lord Berners | 1525 | have-raw | IA `chronicleoffrois05froi` |
+| `french-classics-froissart-berners-vol-6` | Jean Froissart | The Chronicle of Froissart, Lord Berners's translation, vol. VI (Tudor Translations XXXII) | John Bourchier, Lord Berners | 1525 | have-raw | IA `chronicleoffrois06froi` |
+| `french-classics-commines-memoirs-vol-1` | Philippe de Commines | The Memoirs of Philip de Commines, Lord of Argenton, vol. I | Andrew R. Scoble | 1855 | have-raw | IA `memoirsofphilipd01commiala` |
+| `french-classics-commines-memoirs-vol-2` | Philippe de Commines | The Memoirs of Philip de Commines, Lord of Argenton, vol. II, with the Scandalous Chronicle of Jean de Troyes | Andrew R. Scoble | 1855-56 | have-raw | IA `memoirsofphilipd02commiala` |
+| `french-classics-thierry-norman-conquest-vol-1` | Augustin Thierry | History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition) | William Hazlitt | 1847 | have-raw | IA `historyofconques01thieuoft` |
+| `french-classics-thierry-norman-conquest-vol-2` | Augustin Thierry | History of the Conquest of England by the Normans, vol. II | William Hazlitt | 1847 | have-raw | IA `historyofconques02thieuoft` |
+| `french-classics-saint-simon-memoirs` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of Louis XIV and His Court and of the Regency (complete, abridged edition) | Bayle St. John | 1857 | have | PG 3875 |
+| — | — | froissart-johnes: Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here. | — | — | excluded | — |
+| — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
+| — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

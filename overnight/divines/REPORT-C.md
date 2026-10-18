@@ -266,3 +266,5 @@
 - 2026-10-17T20:55-05:00: round 94: german-classics (20). --verify --record 0 mismatched.
 
 - 2026-10-17T21:01-05:00: round 95: german-literature (8). --verify --record 0 mismatched. ellen-frothingham +0 (Sappho to _pending, 1972 facsimile); upton +0 (Immensee excluded, name not in scan).
+
+- 2026-10-17T21:14-05:00: round 96: french-classics (13), johnes +2 (14). --verify --record 0 mismatched. johnes +2 (Froissart 1848, 2 vols); only the two new _checks recorded, older check dates kept.

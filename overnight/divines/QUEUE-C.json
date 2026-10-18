@@ -3696,6 +3696,22 @@
       "finished": "2026-10-17T21:01-05:00",
       "scope": "TRANSLATOR SHELF (round 95, lane C's choice; Adam may veto) -- german-literature; PD printings before 1931 only; no minting",
       "notes": "8 titles; ids checked across all branches. See DIGEST-C round 95. No uids minted."
+    },
+    {
+      "id": "shelf-french-classics",
+      "status": "done",
+      "started": "2026-10-17T21:14-05:00",
+      "finished": "2026-10-17T21:14-05:00",
+      "scope": "TRANSLATOR SHELF (round 96, lane C's choice; Adam may veto) -- french-classics; PD printings before 1931 only; no minting",
+      "notes": "13 titles; ids checked across all branches. See DIGEST-C round 96. No uids minted."
+    },
+    {
+      "id": "shelf-johnes-round96",
+      "status": "done",
+      "started": "2026-10-17T21:14-05:00",
+      "finished": "2026-10-17T21:14-05:00",
+      "scope": "GAP-FILL (round 96, lane C's choice; Adam may veto) -- johnes; PD printings before 1931 only; no minting",
+      "notes": "+2 titles (Froissart, 1848 edition), now 14; ids checked across all branches. See DIGEST-C round 96. No uids minted."
     }
   ]
 }

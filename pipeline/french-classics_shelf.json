@@ -1,0 +1,538 @@
+{
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847) and Saint-Simon's Memoirs (Bayle St. John, Gutenberg). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. r. scoble",
+  "andrew r. scoble",
+  "bayle st. john",
+  "berners",
+  "boswell",
+  "hazlitt",
+  "john bourchier",
+  "lord berners",
+  "robert bruce boswell",
+  "scoble",
+  "william hazlitt"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "a. r. scoble",
+  "andrew r. scoble",
+  "bayle st. john",
+  "berners",
+  "boswell",
+  "hazlitt",
+  "john bourchier",
+  "lord berners",
+  "robert bruce boswell",
+  "scoble",
+  "william hazlitt"
+ ],
+ "_surname_by_slug": {
+  "frc-racine-dramatic-works-vol-1": [
+   "boswell",
+   "robert bruce boswell"
+  ],
+  "frc-racine-dramatic-works-vol-2": [
+   "boswell",
+   "robert bruce boswell"
+  ],
+  "frc-froissart-berners-vol-1": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-2": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-3": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-4": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-5": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-froissart-berners-vol-6": [
+   "berners",
+   "lord berners",
+   "john bourchier"
+  ],
+  "frc-commines-memoirs-vol-1": [
+   "scoble",
+   "andrew r. scoble",
+   "a. r. scoble"
+  ],
+  "frc-commines-memoirs-vol-2": [
+   "scoble",
+   "andrew r. scoble",
+   "a. r. scoble"
+  ],
+  "frc-thierry-norman-conquest-vol-1": [
+   "hazlitt",
+   "william hazlitt"
+  ],
+  "frc-thierry-norman-conquest-vol-2": [
+   "hazlitt",
+   "william hazlitt"
+  ],
+  "frc-saint-simon-memoirs": [
+   "bayle st. john"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "frc-saint-simon-memoirs": [
+   3875,
+   "Memoirs of Louis XIV and His Court and of the Regency, complete"
+  ]
+ },
+ "internet_archive": {
+  "frc-racine-dramatic-works-vol-1": [
+   "dramaticworksmet01raciuoft",
+   "The Dramatic Works of Jean Racine, a metrical English version, vol. I (1890)"
+  ],
+  "frc-racine-dramatic-works-vol-2": [
+   "dramaticworksje02boswgoog",
+   "The Dramatic Works of Jean Racine, a metrical English version, vol. II (1897)"
+  ],
+  "frc-froissart-berners-vol-1": [
+   "cu31924088045772",
+   "The Chronicle of Froissart, translated out of French by Sir John Bourchier, Lord Berners, annis 1523-25, vol. I (Tudor Translations XXVII) (1523)"
+  ],
+  "frc-froissart-berners-vol-2": [
+   "chronicletransla02froiuoft",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. II (Tudor Translations XXVIII) (1523)"
+  ],
+  "frc-froissart-berners-vol-3": [
+   "chronicletransla03froiuoft",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. III (Tudor Translations XXIX) (1523)"
+  ],
+  "frc-froissart-berners-vol-4": [
+   "cu31924088045806",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. IV (Tudor Translations XXX) (1525)"
+  ],
+  "frc-froissart-berners-vol-5": [
+   "chronicleoffrois05froi",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. V (Tudor Translations XXXI) (1525)"
+  ],
+  "frc-froissart-berners-vol-6": [
+   "chronicleoffrois06froi",
+   "The Chronicle of Froissart, Lord Berners's translation, vol. VI (Tudor Translations XXXII) (1525)"
+  ],
+  "frc-commines-memoirs-vol-1": [
+   "memoirsofphilipd01commiala",
+   "The Memoirs of Philip de Commines, Lord of Argenton, vol. I (1855)"
+  ],
+  "frc-commines-memoirs-vol-2": [
+   "memoirsofphilipd02commiala",
+   "The Memoirs of Philip de Commines, Lord of Argenton, vol. II, with the Scandalous Chronicle of Jean de Troyes (1856)"
+  ],
+  "frc-thierry-norman-conquest-vol-1": [
+   "historyofconques01thieuoft",
+   "History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition) (1847)"
+  ],
+  "frc-thierry-norman-conquest-vol-2": [
+   "historyofconques02thieuoft",
+   "History of the Conquest of England by the Normans, vol. II (1847)"
+  ]
+ },
+ "titles": {
+  "french-classics-racine-dramatic-works-vol-1": {
+   "source": "frc-racine-dramatic-works-vol-1",
+   "of": "Jean Racine",
+   "work": "The Dramatic Works of Jean Racine, a metrical English version, vol. I",
+   "translated": 1890,
+   "translator": "Robert Bruce Boswell",
+   "scan_edition": "George Bell and Sons (Bohn's Standard Library), London 1890; University of Toronto scan"
+  },
+  "french-classics-racine-dramatic-works-vol-2": {
+   "source": "frc-racine-dramatic-works-vol-2",
+   "of": "Jean Racine",
+   "work": "The Dramatic Works of Jean Racine, a metrical English version, vol. II",
+   "translated": 1897,
+   "translator": "Robert Bruce Boswell",
+   "scan_edition": "George Bell and Sons, London 1897; Google scan",
+   "note": "Bajazet, Mithridates, Iphigenia, Phaedra, Esther, Athaliah."
+  },
+  "french-classics-froissart-berners-vol-1": {
+   "source": "frc-froissart-berners-vol-1",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, translated out of French by Sir John Bourchier, Lord Berners, annis 1523-25, vol. I (Tudor Translations XXVII)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners; introduction by W. P. Ker",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; Cornell University Library scan"
+  },
+  "french-classics-froissart-berners-vol-2": {
+   "source": "frc-froissart-berners-vol-2",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. II (Tudor Translations XXVIII)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; University of Toronto scan"
+  },
+  "french-classics-froissart-berners-vol-3": {
+   "source": "frc-froissart-berners-vol-3",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. III (Tudor Translations XXIX)",
+   "translated": 1523,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1901; University of Toronto scan"
+  },
+  "french-classics-froissart-berners-vol-4": {
+   "source": "frc-froissart-berners-vol-4",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. IV (Tudor Translations XXX)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1902; Cornell University Library scan"
+  },
+  "french-classics-froissart-berners-vol-5": {
+   "source": "frc-froissart-berners-vol-5",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. V (Tudor Translations XXXI)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1902; archive.org scan"
+  },
+  "french-classics-froissart-berners-vol-6": {
+   "source": "frc-froissart-berners-vol-6",
+   "of": "Jean Froissart",
+   "work": "The Chronicle of Froissart, Lord Berners's translation, vol. VI (Tudor Translations XXXII)",
+   "translated": 1525,
+   "translator": "John Bourchier, Lord Berners",
+   "scan_edition": "David Nutt, The Tudor Translations, London 1903; archive.org scan"
+  },
+  "french-classics-commines-memoirs-vol-1": {
+   "source": "frc-commines-memoirs-vol-1",
+   "of": "Philippe de Commines",
+   "work": "The Memoirs of Philip de Commines, Lord of Argenton, vol. I",
+   "translated": 1855,
+   "translator": "Andrew R. Scoble",
+   "scan_edition": "H. G. Bohn (Bohn's Standard Library), London 1855; archive.org scan"
+  },
+  "french-classics-commines-memoirs-vol-2": {
+   "source": "frc-commines-memoirs-vol-2",
+   "of": "Philippe de Commines",
+   "work": "The Memoirs of Philip de Commines, Lord of Argenton, vol. II, with the Scandalous Chronicle of Jean de Troyes",
+   "translated": "1855-56",
+   "translator": "Andrew R. Scoble",
+   "scan_edition": "H. G. Bohn (Bohn's Standard Library), London; archive.org scan"
+  },
+  "french-classics-thierry-norman-conquest-vol-1": {
+   "source": "frc-thierry-norman-conquest-vol-1",
+   "of": "Augustin Thierry",
+   "work": "History of the Conquest of England by the Normans, vol. I (from the seventh Paris edition)",
+   "translated": 1847,
+   "translator": "William Hazlitt",
+   "scan_edition": "David Bogue (European Library), London 1847; University of Toronto scan"
+  },
+  "french-classics-thierry-norman-conquest-vol-2": {
+   "source": "frc-thierry-norman-conquest-vol-2",
+   "of": "Augustin Thierry",
+   "work": "History of the Conquest of England by the Normans, vol. II",
+   "translated": 1847,
+   "translator": "William Hazlitt",
+   "scan_edition": "David Bogue (European Library), London 1847; University of Toronto scan"
+  },
+  "french-classics-saint-simon-memoirs": {
+   "source": "frc-saint-simon-memoirs",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of Louis XIV and His Court and of the Regency (complete, abridged edition)",
+   "translated": "1857",
+   "translator": "Bayle St. John",
+   "scan_edition": "Project Gutenberg 3875 (clean text)",
+   "note": "The Gutenberg edition's introduction names Bayle St. John's translation as the one presented. It is an abridgement of the Memoirs, not the whole."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "froissart-johnes": "Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here.",
+  "boys-froissart": "Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations.",
+  "thierry-merovingian-1841": "Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer."
+ },
+ "_checks": {
+  "frc-saint-simon-memoirs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frc-racine-dramatic-works-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1890-1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-racine-dramatic-works-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boswell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-03",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-froissart-berners-vol-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "berners",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901-03",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-commines-memoirs-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scoble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1855-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-commines-memoirs-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "scoble",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1855-1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-thierry-norman-conquest-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-thierry-norman-conquest-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hazlitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "frc-saint-simon-memoirs": {
+   "pg": 3875,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": false
+  },
+  "frc-racine-dramatic-works-vol-1": {
+   "ia": "dramaticworksmet01raciuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1660,
+    1661,
+    1663,
+    1664,
+    1665,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-racine-dramatic-works-vol-2": {
+   "ia": "dramaticworksje02boswgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1672,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-1": {
+   "ia": "cu31924088045772",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1513,
+    1518,
+    1523,
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-2": {
+   "ia": "chronicletransla02froiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-3": {
+   "ia": "chronicletransla03froiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-4": {
+   "ia": "cu31924088045806",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1525,
+    1891,
+    1902,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-5": {
+   "ia": "chronicleoffrois05froi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-froissart-berners-vol-6": {
+   "ia": "chronicleoffrois06froi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1523,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-commines-memoirs-vol-1": {
+   "ia": "memoirsofphilipd01commiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1789,
+    1814,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-commines-memoirs-vol-2": {
+   "ia": "memoirsofphilipd02commiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-thierry-norman-conquest-vol-1": {
+   "ia": "historyofconques01thieuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1789,
+    1814,
+    1846,
+    1847
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-thierry-norman-conquest-vol-2": {
+   "ia": "historyofconques02thieuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1640,
+    1702,
+    1789,
+    1814,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

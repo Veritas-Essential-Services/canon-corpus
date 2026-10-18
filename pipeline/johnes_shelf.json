@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Thomas Johnes of Hafod (1748-1816): the Chronicles of Enguerrand de Monstrelet (1809; 12 of the 13 volumes in the Gutenberg edition; vol. 13 is not on Gutenberg). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Thomas Johnes of Hafod (1748-1816): the Chronicles of Enguerrand de Monstrelet (1809; 12 of the 13 volumes in the Gutenberg edition; vol. 13 is not on Gutenberg). Also Froissart's Chronicles (1848 two-volume edition, archive.org scans; added round 96). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
  "_name_words": [
   "thomas johnes"
  ],
@@ -58,7 +58,16 @@
    "The chronicles of Enguerrand de Monstrelet, Vol. 11 [of 13]"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "joh-froissart-chronicles-vol-1": [
+   "chroniclesofenglandjohnes1",
+   "Froissart, Chronicles of England, France, Spain and the adjoining countries, vol. 1 (1848)"
+  ],
+  "joh-froissart-chronicles-vol-2": [
+   "chroniclesofenglandjohnes2",
+   "Froissart, Chronicles of England, France, Spain and the adjoining countries, vol. 2 (1848)"
+  ]
+ },
  "titles": {
   "johnes-monstrelet-chronicles-vol-01": {
    "source": "joh-50839",
@@ -155,6 +164,22 @@
    "translated": "1809-1810 (see the Gutenberg header)",
    "translator": "Thomas Johnes",
    "scan_edition": "Project Gutenberg 65721 (clean text)"
+  },
+  "johnes-froissart-chronicles-vol-1": {
+   "source": "joh-froissart-chronicles-vol-1",
+   "of": "Jean Froissart",
+   "work": "Chronicles of England, France, Spain, and the adjoining countries, vol. I",
+   "translated": "Johnes's translation, in its 1848 two-volume edition",
+   "translator": "Thomas Johnes",
+   "scan_edition": "William Smith, London 1848 (two-volume edition); archive.org scan"
+  },
+  "johnes-froissart-chronicles-vol-2": {
+   "source": "joh-froissart-chronicles-vol-2",
+   "of": "Jean Froissart",
+   "work": "Chronicles of England, France, Spain, and the adjoining countries, vol. II",
+   "translated": "Johnes's translation, in its 1848 two-volume edition",
+   "translator": "Thomas Johnes",
+   "scan_edition": "William Smith, London 1848 (two-volume edition); archive.org scan"
   }
  },
  "_pending": {},
@@ -268,6 +293,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Thomas Johnes"
+  },
+  "joh-froissart-chronicles-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "joh-froissart-chronicles-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -330,6 +377,18 @@
    "pg": 74647,
    "pg_copyrighted_marker": false,
    "pg_translator": "Thomas Johnes"
+  },
+  "joh-froissart-chronicles-vol-1": {
+   "ia": "chroniclesofenglandjohnes1",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "joh-froissart-chronicles-vol-2": {
+   "ia": "chroniclesofenglandjohnes2",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
