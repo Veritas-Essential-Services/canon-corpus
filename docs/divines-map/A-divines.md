@@ -9399,3 +9399,12 @@ Slugs `oecolampadius-*`. Built from title pages read for round 39.
 | Work | Status | Where |
 |---|---|---|
 | A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548) | have-ocr | IA `bim_early-english-books-1475-1640_a-sermon-to-young-men-an_ecolampadius_1548` |
+
+## Friedrich Adolph Lampe (round 39, my pick, 2026-10-18)
+
+Slugs `lampe-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Dissertations concerning the Endless Duration of Punishment, tr. Joseph Robertson (Edinburgh: J. Fairbairn and Ar. Constable; London: J. Mathews and T. Chapman; catalogued 1796) | have-ocr | IA `bim_eighteenth-century_theological-dissertation_lampe-friedrich-adolph_1796` |
+| Latin and German editions | excluded | |

@@ -5471,10 +5471,12 @@
     },
     {
       "id": "friedrich-adolph-lampe",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T23:44:56-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "thomas-hooker-of-hartford",

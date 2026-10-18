@@ -919,6 +919,7 @@ Twenty-two authors were queued in QUEUE-A.json; this round was cut short by Adam
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | Johannes Oecolampadius | johannes-oecolampadius_shelf.json | none | 1 (A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548)) | none |  |
+| Friedrich Adolph Lampe | friedrich-adolph-lampe_shelf.json | none | 1 (Theological Dissertations concerning the Endless Duration of Punishment, tr. Joseph Robertson (Edinburgh: J. Fairbairn and Ar. Constable; London: J. Mathews and T. Chapman; catalogued 1796)) | none | Latin and German editions |
 
 ## Paused 2026-10-10 15:12 CDT
 
