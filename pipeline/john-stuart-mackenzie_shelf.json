@@ -1,0 +1,140 @@
+{
+ "_about": "John Stuart Mackenzie (1860-1935), British idealist, professor of logic and philosophy at University College, Cardiff. Not to be confused with Donald A. Mackenzie the mythographer (shelf mackenzie, another lane). Raw IA OCR: An Introduction to Social Philosophy (Glasgow: Maclehose, second edition 1895), clean 0.93; A Manual of Ethics (London: W. B. Clive, 1897), clean 0.91; Outlines of Metaphysics (London: Macmillan, second edition 1906), clean 0.94; Lectures on Humanism (London: Swan Sonnenschein, 1907), clean 0.93; Elements of Constructive Philosophy (London: Allen and Unwin, first published 1917, this copy reprinted 1919), clean 0.93; Outlines of Social Philosophy (Allen and Unwin, 1918), clean 0.93; Arrows of Desire, essays on our national character and outlook (Allen and Unwin, 1920), clean 0.93; Fundamental Problems of Life (Allen and Unwin, 1928), clean 0.94. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "John Stuart Mackenzie",
+ "_name_words": [
+  "john",
+  "stuart",
+  "mackenzie"
+ ],
+ "_surname": [
+  "mackenzie",
+  "j. s. mackenzie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mackenzie-introduction-to-social-philosophy-1895": [
+   "introtosocialphi00mackuoft",
+   "An Introduction to Social Philosophy (Maclehose, 1895)"
+  ],
+  "mackenzie-manual-of-ethics-1897": [
+   "manualofethics00mack_0",
+   "A Manual of Ethics (Clive, 1897)"
+  ],
+  "mackenzie-outlines-of-metaphysics-1906": [
+   "outlinesofmetaph00mackuoft",
+   "Outlines of Metaphysics (Macmillan, 1906)"
+  ],
+  "mackenzie-lectures-on-humanism-1907": [
+   "lecturesonhumani00mackiala",
+   "Lectures on Humanism (Swan Sonnenschein, 1907)"
+  ],
+  "mackenzie-elements-of-constructive-philosophy-1919": [
+   "elementsofconstr00mack",
+   "Elements of Constructive Philosophy (Allen and Unwin, 1917; reprint 1919)"
+  ],
+  "mackenzie-outlines-of-social-philosophy-1918": [
+   "outlinessocialp00mackgoog",
+   "Outlines of Social Philosophy (Allen and Unwin, 1918)"
+  ],
+  "mackenzie-arrows-of-desire-1920": [
+   "arrowsofdesirees00mackuoft",
+   "Arrows of Desire (Allen and Unwin, 1920)"
+  ],
+  "mackenzie-fundamental-problems-of-life-1928": [
+   "fundamentalprobl0000mack",
+   "Fundamental Problems of Life (Allen and Unwin, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mackenzie-introduction-to-social-philosophy-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-manual-of-ethics-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mackenzie-outlines-of-metaphysics-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-lectures-on-humanism-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-elements-of-constructive-philosophy-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-outlines-of-social-philosophy-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-arrows-of-desire-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mackenzie-fundamental-problems-of-life-1928": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mackenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
