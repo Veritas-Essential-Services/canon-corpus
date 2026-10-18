@@ -5547,6 +5547,7 @@ Shelf: `pipeline/turgot_shelf.json`. The Reflections in English, Economic Classi
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Reflections on the Formation and the Distribution of Riches (1770), Economic Classics (Macmillan, 1898; reprint 1911) |  | `turgot-reflections-riches-1911` | have-raw (IA `reflectionsonfor00turg`) |
+| W. Walker Stephens, The Life and Writings of Turgot (Longmans, 1895) |  | `stephens-life-and-writings-of-turgot-1895` | have-raw (IA `lifewritingsoftu01stepuoft`) |
 
 ## Jean-Baptiste Say (political economy)
 
