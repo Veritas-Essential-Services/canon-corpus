@@ -3712,6 +3712,22 @@
       "finished": "2026-10-17T21:14-05:00",
       "scope": "GAP-FILL (round 96, lane C's choice; Adam may veto) -- johnes; PD printings before 1931 only; no minting",
       "notes": "+2 titles (Froissart, 1848 edition), now 14; ids checked across all branches. See DIGEST-C round 96. No uids minted."
+    },
+    {
+      "id": "shelf-wormeley-round97",
+      "status": "done",
+      "started": "2026-10-17T21:24-05:00",
+      "finished": "2026-10-17T21:24-05:00",
+      "scope": "GAP-FILL (round 97, lane C's choice; Adam may veto) -- wormeley; PD printings before 1931 only; no minting",
+      "notes": "+16 titles, now 61; ids checked across all branches. See DIGEST-C round 97. No uids minted."
+    },
+    {
+      "id": "shelf-ives-round97",
+      "status": "done",
+      "started": "2026-10-17T21:24-05:00",
+      "finished": "2026-10-17T21:24-05:00",
+      "scope": "GAP-FILL (round 97, lane C's choice; Adam may veto) -- ives; PD printings before 1931 only; no minting",
+      "notes": "+1 titles, now 19; ids checked across all branches. See DIGEST-C round 97. No uids minted."
     }
   ]
 }

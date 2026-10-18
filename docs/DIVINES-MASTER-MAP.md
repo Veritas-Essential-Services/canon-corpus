@@ -15267,10 +15267,10 @@ Round 13 (2026-10-10), vetoable. US public domain since 2026; gate override reco
 | `pickthall-meaning-of-the-glorious-koran` | The Quran | The Meaning of the Glorious Koran: An Explanatory Translation | Marmaduke Pickthall | 1930 | have-raw | IA `in.ernet.dli.2015.283503` |
 | — | — | dli.ministry.16944: The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used. | — | — | excluded | — |
 
-## Katharine Prescott Wormeley (Balzac; Daudet, Sand)
+## Katharine Prescott Wormeley (Balzac; Daudet, Sand; French memoirs and Sainte-Beuve's Portraits)
 
 Shelf: `pipeline/wormeley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wormeley` · titles `python3 pipeline/split_shelf_titles.py wormeley`.
-Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 14 (2026-10-10), vetoable. Memoirs and Portraits added round 97 (2026-10-17). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15319,6 +15319,22 @@ Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `wormeley-balzac-vendetta` | Honoré de Balzac | Vendetta | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1374 |
 | `wormeley-daudet-tartarin-on-the-alps` | Alphonse Daudet | Tartarin on the Alps | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 25768 |
 | `wormeley-sand-the-bagpipers` | George Sand | The Bagpipers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 66513 |
+| `wormeley-saint-simon-memoirs-vol-1` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of the Duc de Saint-Simon on the Times of Louis XIV and the Regency, vol. I | Katharine Prescott Wormeley | 1899 | have-raw | IA `memoirsofducdesa01sainuoft` |
+| `wormeley-saint-simon-memoirs-vol-2` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of the Duc de Saint-Simon, vol. II | Katharine Prescott Wormeley | 1899 | have-raw | IA `memoirsofducdesa02sainuoft` |
+| `wormeley-saint-simon-memoirs-vol-3` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of the Duc de Saint-Simon, vol. III | Katharine Prescott Wormeley | 1899 | have-raw | IA `memoirsofducdesa03sainuoft` |
+| `wormeley-saint-simon-memoirs-vol-4` | Louis de Rouvroy, duc de Saint-Simon | Memoirs of the Duc de Saint-Simon, vol. IV | Katharine Prescott Wormeley | 1899 | have-raw | IA `memoirsofducdesa04sainuoft` |
+| `wormeley-motteville-memoirs-vol-1` | Françoise de Motteville | Memoirs of Madame de Motteville on Anne of Austria and her Court, vol. I | Katharine Prescott Wormeley | 1901 | have-raw | IA `memoirsofmadamed01mottuoft` |
+| `wormeley-motteville-memoirs-vol-2` | Françoise de Motteville | Memoirs of Madame de Motteville, vol. II | Katharine Prescott Wormeley | 1901 | have-raw | IA `memoirsofmadamed02mottuoft` |
+| `wormeley-motteville-memoirs-vol-3` | Françoise de Motteville | Memoirs of Madame de Motteville, vol. III | Katharine Prescott Wormeley | 1901 | have-raw | IA `memoirsofmadamed03mottuoft` |
+| `wormeley-bernis-memoirs-vol-1` | François-Joachim de Pierre, Cardinal de Bernis | Memoirs and Letters of Cardinal de Bernis, vol. I | Katharine Prescott Wormeley | 1901 | have-raw | IA `memoirslettersof01bernuoft` |
+| `wormeley-bernis-memoirs-vol-2` | François-Joachim de Pierre, Cardinal de Bernis | Memoirs and Letters of Cardinal de Bernis, vol. II | Katharine Prescott Wormeley | 1901 | have-raw | IA `memoirslettersof02bernuoft` |
+| `wormeley-prince-de-ligne-vol-1` | Charles-Joseph, Prince de Ligne | The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. I | Katharine Prescott Wormeley | 1899 | have-raw | IA `princedelignehis01lignuoft` |
+| `wormeley-prince-de-ligne-vol-2` | Charles-Joseph, Prince de Ligne | The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. II | Katharine Prescott Wormeley | 1899 | have-raw | IA `princedelignehis02lignuoft` |
+| `wormeley-madame-elisabeth` | Madame Élisabeth de France | The Life and Letters of Madame Élisabeth de France | Katharine Prescott Wormeley | 1902 | have-raw | IA `lifelettersofmad01elis` |
+| `wormeley-lespinasse-letters` | Julie de Lespinasse | Letters of Mlle. de Lespinasse | Katharine Prescott Wormeley | 1901 | have-raw | IA `lettersofmlledel02lesp` |
+| `wormeley-sainte-beuve-portraits-17th-vol-1` | Charles-Augustin Sainte-Beuve | Portraits of the Seventeenth Century, Historic and Literary, part I | Katharine Prescott Wormeley | 1904 | have-raw | IA `portraitsofseven01sain` |
+| `wormeley-sainte-beuve-portraits-17th-vol-2` | Charles-Augustin Sainte-Beuve | Portraits of the Seventeenth Century, Historic and Literary, part II | Katharine Prescott Wormeley | 1904 | have-raw | IA `portraitsofseven02sain` |
+| `wormeley-sainte-beuve-portraits-18th-vol-1` | Charles-Augustin Sainte-Beuve | Portraits of the Eighteenth Century, Historic and Literary, part I | Katharine Prescott Wormeley | 1905 | have-raw | IA `portraitsofeight0000unse_w0j1` |
 | — | — | pg-7927: The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice. | — | — | excluded | — |
 | — | — | pg-43283: The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked. | — | — | excluded | — |
 
@@ -15780,10 +15796,10 @@ Round 21 (2026-10-10), vetoable. One complete text, not Gutenberg's 30 part-file
 | `machen-casanova-casanova-the-memoirs-of-jacques-casanova-de-seing` | Giacomo Casanova | The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete | Arthur Machen | 1894 (see the Gutenberg header) | have | PG 2981 |
 | — | — | casanova-splits: Gutenberg's 30 part-files (2951-2980), the 6-volume set (39301-39306) and the quotes digest (7538) are left out; the complete text (2981) is used. | — | — | excluded | — |
 
-## George Burnham Ives (George Sand, Daudet, Mérimée, Bourget)
+## George Burnham Ives (George Sand, Daudet, Mérimée, Bourget; Sainte-Beuve's Portraits, part II)
 
 Shelf: `pipeline/ives_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ives` · titles `python3 pipeline/split_shelf_titles.py ives`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Portraits added round 97 (2026-10-17). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15805,6 +15821,7 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ives-sand-the-piccinino-volume-2-of-2-the-last-of` | George Sand | The Piccinino, Volume 2 (of 2); The last of Aldinis | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 69840 |
 | `ives-sand-the-sin-of-monsieur-antoine-volume-1-of` | George Sand | The Sin of Monsieur Antoine, Volume 1 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 67460 |
 | `ives-sand-the-sin-of-monsieur-antoine-volume-2-of` | George Sand | The Sin of Monsieur Antoine, Volume 2 (of 2) and Leone Leoni | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 67461 |
+| `ives-sainte-beuve-portraits-18th-vol-2` | Charles-Augustin Sainte-Beuve | Portraits of the Eighteenth Century, Historic and Literary, part II | George Burnham Ives | 1905 | have-raw | IA `portraitsofeight02sain` |
 | — | — | pg-28810: Gutenberg 28810 (The Devil's Pool) has no plain-text file; 12816 is used. | — | — | excluded | — |
 
 ## C. J. Hogarth (Tolstoy's trilogy, Dostoevsky, Oblomov, Turgenev)

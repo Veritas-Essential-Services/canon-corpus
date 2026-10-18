@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Katharine Prescott Wormeley (1830-1908): her Balzac (Roberts Brothers, Boston, 1885-1900, some 40 volumes, the first full American Comédie humaine), plus Daudet, George Sand and Balzac's letters. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. James Waring's Cousin Bette stays on adler_shelf.json (another translator). No uids minted.",
+ "_about": "TRANSLATOR SHELF: Katharine Prescott Wormeley (1830-1908): her Balzac (Roberts Brothers, Boston, 1885-1900, some 40 volumes, the first full American Comédie humaine), plus Daudet, George Sand and Balzac's letters, and (added round 97) her Hardy, Pratt French memoirs (Saint-Simon, Motteville, Bernis, the Prince de Ligne, Madame Élisabeth, Lespinasse) and Sainte-Beuve's Portraits, from period archive.org scans. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. James Waring's Cousin Bette stays on adler_shelf.json (another translator). No uids minted.",
  "_name_words": [
   "katharine prescott wormeley",
   "k. p. wormeley",
@@ -194,7 +194,72 @@
    "Rise and Fall of César Birotteau"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wo-saint-simon-memoirs-vol-1": [
+   "memoirsofducdesa01sainuoft",
+   "Memoirs of the Duc de Saint-Simon on the Times of Louis XIV and the Regency, vol. I (1899)"
+  ],
+  "wo-saint-simon-memoirs-vol-2": [
+   "memoirsofducdesa02sainuoft",
+   "Memoirs of the Duc de Saint-Simon, vol. II (1899)"
+  ],
+  "wo-saint-simon-memoirs-vol-3": [
+   "memoirsofducdesa03sainuoft",
+   "Memoirs of the Duc de Saint-Simon, vol. III (1899)"
+  ],
+  "wo-saint-simon-memoirs-vol-4": [
+   "memoirsofducdesa04sainuoft",
+   "Memoirs of the Duc de Saint-Simon, vol. IV (1899)"
+  ],
+  "wo-motteville-memoirs-vol-1": [
+   "memoirsofmadamed01mottuoft",
+   "Memoirs of Madame de Motteville on Anne of Austria and her Court, vol. I (1901)"
+  ],
+  "wo-motteville-memoirs-vol-2": [
+   "memoirsofmadamed02mottuoft",
+   "Memoirs of Madame de Motteville, vol. II (1901)"
+  ],
+  "wo-motteville-memoirs-vol-3": [
+   "memoirsofmadamed03mottuoft",
+   "Memoirs of Madame de Motteville, vol. III (1901)"
+  ],
+  "wo-bernis-memoirs-vol-1": [
+   "memoirslettersof01bernuoft",
+   "Memoirs and Letters of Cardinal de Bernis, vol. I (1901)"
+  ],
+  "wo-bernis-memoirs-vol-2": [
+   "memoirslettersof02bernuoft",
+   "Memoirs and Letters of Cardinal de Bernis, vol. II (1901)"
+  ],
+  "wo-prince-de-ligne-vol-1": [
+   "princedelignehis01lignuoft",
+   "The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. I (1899)"
+  ],
+  "wo-prince-de-ligne-vol-2": [
+   "princedelignehis02lignuoft",
+   "The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. II (1899)"
+  ],
+  "wo-madame-elisabeth": [
+   "lifelettersofmad01elis",
+   "The Life and Letters of Madame Élisabeth de France (1902)"
+  ],
+  "wo-lespinasse-letters": [
+   "lettersofmlledel02lesp",
+   "Letters of Mlle. de Lespinasse (1901)"
+  ],
+  "wo-sainte-beuve-portraits-17th-vol-1": [
+   "portraitsofseven01sain",
+   "Portraits of the Seventeenth Century, Historic and Literary, part I (1904)"
+  ],
+  "wo-sainte-beuve-portraits-17th-vol-2": [
+   "portraitsofseven02sain",
+   "Portraits of the Seventeenth Century, Historic and Literary, part II (1904)"
+  ],
+  "wo-sainte-beuve-portraits-18th-vol-1": [
+   "portraitsofeight0000unse_w0j1",
+   "Portraits of the Eighteenth Century, Historic and Literary, part I (1905)"
+  ]
+ },
  "titles": {
   "wormeley-balzac-a-daughter-of-eve": {
    "source": "wo-1481",
@@ -559,6 +624,140 @@
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "Project Gutenberg 66513 (clean text)"
+  },
+  "wormeley-saint-simon-memoirs-vol-1": {
+   "source": "wo-saint-simon-memoirs-vol-1",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of the Duc de Saint-Simon on the Times of Louis XIV and the Regency, vol. I",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan",
+   "note": "A different translation from Bayle St. John's on french-classics."
+  },
+  "wormeley-saint-simon-memoirs-vol-2": {
+   "source": "wo-saint-simon-memoirs-vol-2",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of the Duc de Saint-Simon, vol. II",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-saint-simon-memoirs-vol-3": {
+   "source": "wo-saint-simon-memoirs-vol-3",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of the Duc de Saint-Simon, vol. III",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-saint-simon-memoirs-vol-4": {
+   "source": "wo-saint-simon-memoirs-vol-4",
+   "of": "Louis de Rouvroy, duc de Saint-Simon",
+   "work": "Memoirs of the Duc de Saint-Simon, vol. IV",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-motteville-memoirs-vol-1": {
+   "source": "wo-motteville-memoirs-vol-1",
+   "of": "Françoise de Motteville",
+   "work": "Memoirs of Madame de Motteville on Anne of Austria and her Court, vol. I",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan",
+   "note": "With an introduction by Sainte-Beuve."
+  },
+  "wormeley-motteville-memoirs-vol-2": {
+   "source": "wo-motteville-memoirs-vol-2",
+   "of": "Françoise de Motteville",
+   "work": "Memoirs of Madame de Motteville, vol. II",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-motteville-memoirs-vol-3": {
+   "source": "wo-motteville-memoirs-vol-3",
+   "of": "Françoise de Motteville",
+   "work": "Memoirs of Madame de Motteville, vol. III",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-bernis-memoirs-vol-1": {
+   "source": "wo-bernis-memoirs-vol-1",
+   "of": "François-Joachim de Pierre, Cardinal de Bernis",
+   "work": "Memoirs and Letters of Cardinal de Bernis, vol. I",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan",
+   "note": "With an introduction by Sainte-Beuve."
+  },
+  "wormeley-bernis-memoirs-vol-2": {
+   "source": "wo-bernis-memoirs-vol-2",
+   "of": "François-Joachim de Pierre, Cardinal de Bernis",
+   "work": "Memoirs and Letters of Cardinal de Bernis, vol. II",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-prince-de-ligne-vol-1": {
+   "source": "wo-prince-de-ligne-vol-1",
+   "of": "Charles-Joseph, Prince de Ligne",
+   "work": "The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. I",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan",
+   "note": "A different translation from the Broadway Library's Ligne (1927)."
+  },
+  "wormeley-prince-de-ligne-vol-2": {
+   "source": "wo-prince-de-ligne-vol-2",
+   "of": "Charles-Joseph, Prince de Ligne",
+   "work": "The Prince de Ligne: his Memoirs, Letters, and Miscellaneous Papers, vol. II",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-madame-elisabeth": {
+   "source": "wo-madame-elisabeth",
+   "of": "Madame Élisabeth de France",
+   "work": "The Life and Letters of Madame Élisabeth de France",
+   "translated": "1902",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; archive.org scan"
+  },
+  "wormeley-lespinasse-letters": {
+   "source": "wo-lespinasse-letters",
+   "of": "Julie de Lespinasse",
+   "work": "Letters of Mlle. de Lespinasse",
+   "translated": "1901",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1901; archive.org scan",
+   "note": "A different translation from the Broadway Library's Lespinasse."
+  },
+  "wormeley-sainte-beuve-portraits-17th-vol-1": {
+   "source": "wo-sainte-beuve-portraits-17th-vol-1",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of the Seventeenth Century, Historic and Literary, part I",
+   "translated": "1904",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1904; archive.org scan"
+  },
+  "wormeley-sainte-beuve-portraits-17th-vol-2": {
+   "source": "wo-sainte-beuve-portraits-17th-vol-2",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of the Seventeenth Century, Historic and Literary, part II",
+   "translated": "1904",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1904; archive.org scan"
+  },
+  "wormeley-sainte-beuve-portraits-18th-vol-1": {
+   "source": "wo-sainte-beuve-portraits-18th-vol-1",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of the Eighteenth Century, Historic and Literary, part I",
+   "translated": "1905",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1906 printing; archive.org scan",
+   "note": "Part II is George Burnham Ives's translation and sits on the ives shelf."
   }
  },
  "_pending": {},
@@ -979,6 +1178,182 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-saint-simon-memoirs-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-saint-simon-memoirs-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-saint-simon-memoirs-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-saint-simon-memoirs-vol-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-motteville-memoirs-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-motteville-memoirs-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-motteville-memoirs-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-bernis-memoirs-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-bernis-memoirs-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-prince-de-ligne-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-prince-de-ligne-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-madame-elisabeth": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wo-lespinasse-letters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wo-sainte-beuve-portraits-17th-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-sainte-beuve-portraits-17th-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-sainte-beuve-portraits-18th-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1206,6 +1581,202 @@
    "pg": 1942,
    "pg_copyrighted_marker": false,
    "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-saint-simon-memoirs-vol-1": {
+   "ia": "memoirsofducdesa01sainuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1699,
+    1700,
+    1705,
+    1722,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-saint-simon-memoirs-vol-2": {
+   "ia": "memoirsofducdesa02sainuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1708,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-saint-simon-memoirs-vol-3": {
+   "ia": "memoirsofducdesa03sainuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1722,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": [
+    1989
+   ],
+   "post_1930_examined": "Examined in round 97: 'SEEN BY PRESERVATION SERVICES MAY 1989' is a library conservation stamp above the 'Copyright, 1899, By Hardy, Pratt & Company' line, not an imprint."
+  },
+  "wo-saint-simon-memoirs-vol-4": {
+   "ia": "memoirsofducdesa04sainuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-motteville-memoirs-vol-1": {
+   "ia": "memoirsofmadamed01mottuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1645,
+    1646,
+    1647,
+    1648,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-motteville-memoirs-vol-2": {
+   "ia": "memoirsofmadamed02mottuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1648,
+    1649,
+    1650,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-motteville-memoirs-vol-3": {
+   "ia": "memoirsofmadamed03mottuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1658,
+    1659,
+    1660,
+    1661,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-bernis-memoirs-vol-1": {
+   "ia": "memoirslettersof01bernuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1763,
+    1769,
+    1780,
+    1794,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-bernis-memoirs-vol-2": {
+   "ia": "memoirslettersof02bernuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1757,
+    1758,
+    1762,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-prince-de-ligne-vol-1": {
+   "ia": "princedelignehis01lignuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1808,
+    1809,
+    1853,
+    1860,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-prince-de-ligne-vol-2": {
+   "ia": "princedelignehis02lignuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1795,
+    1800,
+    1809,
+    1814,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-madame-elisabeth": {
+   "ia": "lifelettersofmad01elis",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1851,
+    1861,
+    1869,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-lespinasse-letters": {
+   "ia": "lettersofmlledel02lesp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1754,
+    1764,
+    1809,
+    1820,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-sainte-beuve-portraits-17th-vol-1": {
+   "ia": "portraitsofseven01sain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1700,
+    1706,
+    1715,
+    1730,
+    1823,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-sainte-beuve-portraits-17th-vol-2": {
+   "ia": "portraitsofseven02sain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1624,
+    1634,
+    1793,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-sainte-beuve-portraits-18th-vol-1": {
+   "ia": "portraitsofeight0000unse_w0j1",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1780,
+    1790,
+    1795,
+    1851,
+    1905,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

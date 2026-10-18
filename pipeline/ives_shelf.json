@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: George Burnham Ives (1856-1930): George Sand's novels (Barrie, Philadelphia, 1900-02), Daudet's The Nabob, Mérimée, Paul de Kock, Bourget, Aicard, and Bernard's Geofroy Tory (1909). He died in 1930, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: George Burnham Ives (1856-1930): George Sand's novels (Barrie, Philadelphia, 1900-02), Daudet's The Nabob, Mérimée, Paul de Kock, Bourget, Aicard, and Bernard's Geofroy Tory (1909), and (added round 97) part II of Sainte-Beuve's Portraits of the Eighteenth Century (1905). He died in 1930, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
  "_name_words": [
   "george burnham ives",
   "george b. ives",
@@ -86,7 +86,12 @@
    "The Piccinino, Volume 2 (of 2); The last of Aldinis"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ive-sainte-beuve-portraits-18th-vol-2": [
+   "portraitsofeight02sain",
+   "Portraits of the Eighteenth Century, Historic and Literary, part II (1905)"
+  ]
+ },
  "titles": {
   "ives-aicard-king-of-camargue": {
    "source": "ive-33867",
@@ -232,6 +237,15 @@
    "translated": "1898-1909 (see the Gutenberg header)",
    "translator": "George Burnham Ives",
    "scan_edition": "Project Gutenberg 67461 (clean text)"
+  },
+  "ives-sainte-beuve-portraits-18th-vol-2": {
+   "source": "ive-sainte-beuve-portraits-18th-vol-2",
+   "of": "Charles-Augustin Sainte-Beuve",
+   "work": "Portraits of the Eighteenth Century, Historic and Literary, part II",
+   "translated": "1905",
+   "translator": "George Burnham Ives",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1905; archive.org scan",
+   "note": "Part I is Katharine Prescott Wormeley's translation and sits on the wormeley shelf."
   }
  },
  "_pending": {},
@@ -401,6 +415,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "George Burnham Ives"
+  },
+  "ive-sainte-beuve-portraits-18th-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -493,6 +518,19 @@
    "pg": 69840,
    "pg_copyrighted_marker": false,
    "pg_translator": "George Burnham Ives"
+  },
+  "ive-sainte-beuve-portraits-18th-vol-2": {
+   "ia": "portraitsofeight02sain",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1783,
+    1784,
+    1799,
+    1804,
+    1814,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
