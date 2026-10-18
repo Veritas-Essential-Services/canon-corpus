@@ -8037,3 +8037,17 @@ Slugs `woolman-*`. Built from title pages read for round 34.
 | The Journal and Essays of John Woolman, edited from the original manuscripts with a biographical introduction by Amelia Mott Gummere, Rancocas edition (New York: Macmillan, 1922) | have-ocr | IA `cu31924029466160` |
 | Other 1774 copies; the Journal alone (Crukshank, undated); CCEL woolman/journal (no print source stated); the Tract Association's undated Considerations (one catalogued with an impossible date) | alternate | not shelved |
 | PG 37311 and the IA Everyman (reprinted 1922 and 1936); Harvard Classics vol. 1 (a many-author volume); the 1961 Plea for the Poor reprints | excluded | |
+
+## Elias Hicks (round 34, my pick, 2026-10-18)
+
+Slugs `ehicks-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Journal of the Life and Religious Labours of Elias Hicks, written by himself (New York: Isaac T. Hopper, 1832) | have-clean | Gutenberg 61777 |
+| Journal of the Life and Religious Labours of Elias Hicks, written by himself, fifth edition (New York: Isaac T. Hopper, 1832) | have-ocr | IA `journalofliferel00hick` |
+| A Series of Extemporaneous Discourses delivered in the several meetings of the Society of Friends, taken in short-hand by M. T. C. Gould (Philadelphia: Joseph & Edward Parker, 1825) | have-ocr | IA `seriesofextempo00hick` |
+| Sermons delivered by Elias Hicks & Edward Hicks in Friends' Meetings, New-York, 1825, taken in short-hand by L. H. Clarke & M. T. C. Gould (New York: J. V. Seaman, 1825) | have-ocr | IA `sermonsdelivered00hick` |
+| Letters of Elias Hicks, including also a few short essays (New York: Isaac T. Hopper, 1834) | have-ocr | IA `letterseliashic00hickgoog` |
+| Observations on the Slavery of the Africans and their Descendants (New York: Samuel Wood, 1814) | have-ocr | IA `observationsonsl00hick` |
+| Replies to and reviews of his doctrine by opponents; Wilbur's Life and Labors (PG 50374); The Quaker (1827) and other many-speaker volumes | excluded | |

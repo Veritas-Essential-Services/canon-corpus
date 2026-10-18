@@ -1669,3 +1669,6 @@
 
 ## 2026-10-17 22:08 CDT — john-woolman done
 - `pipeline/john-woolman_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for woolman-considerations-1762 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — elias-hicks done
+- `pipeline/elias-hicks_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
