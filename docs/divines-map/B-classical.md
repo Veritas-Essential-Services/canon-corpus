@@ -7766,6 +7766,9 @@ Shelf: `pipeline/t-percy-nunn_shelf.json`. Three books, 1907-1923.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Aim and Achievements of Scientific Method (Macmillan, 1907) |  | `nunn-aim-and-achievements-of-scientific-method-1907` | have-raw (IA `india.history.resource.118321`) |
+| Education, its Data and First Principles (Arnold, 1920) |  | `nunn-education-its-data-and-first-principles-1920` | have-raw (IA `educationitsdata00nunn`) |
+| Relativity and Gravitation (1923) |  | `nunn-relativity-and-gravitation-1923` | have-raw (IA `relativitygravit0000tper`) |
 
 ## W. E. Johnson (Cambridge logic)
 
