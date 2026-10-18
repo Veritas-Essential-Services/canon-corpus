@@ -1,0 +1,708 @@
+{
+ "_about": "F. Marion Crawford's novels of Italy and the East, and his ghost stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "F. Marion Crawford",
+ "_name_words": [
+  "crawford"
+ ],
+ "_surname": [
+  "f. marion crawford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fmcrawford-witch-of-prague": [
+   3816,
+   "The Witch of Prague: A Fantastic Tale"
+  ],
+  "fmcrawford-sant-ilario": [
+   5227,
+   "Sant' Ilario"
+  ],
+  "fmcrawford-heart-of-rome": [
+   5847,
+   "The Heart of Rome: A Tale of the \"Lost Water\""
+  ],
+  "fmcrawford-via-crucis": [
+   6350,
+   "Via Crucis: A Romance of the Second Crusade"
+  ],
+  "fmcrawford-greifenstein": [
+   6446,
+   "Greifenstein"
+  ],
+  "fmcrawford-an-american-politician": [
+   7374,
+   "An American Politician: A Novel"
+  ],
+  "fmcrawford-primadonna-a-sequel-to-fair-margaret": [
+   10521,
+   "The Primadonna A Sequel to \"Fair Margaret\""
+  ],
+  "fmcrawford-taquisara": [
+   11050,
+   "Taquisara"
+  ],
+  "fmcrawford-a-roman-singer": [
+   12346,
+   "A Roman Singer"
+  ],
+  "fmcrawford-don-orsino": [
+   13218,
+   "Don Orsino"
+  ],
+  "fmcrawford-in-the-palace-of-the-king": [
+   13243,
+   "In the Palace of the King: A Love Story of Old Madrid",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmcrawford-mr-isaacs-a-tale-of-modern-india": [
+   13340,
+   "Mr. Isaacs, A Tale of Modern India"
+  ],
+  "fmcrawford-a-tale-of-a-lonely-parish": [
+   13597,
+   "A Tale of a Lonely Parish"
+  ],
+  "fmcrawford-saracinesca": [
+   13757,
+   "Saracinesca"
+  ],
+  "fmcrawford-whosoever-shall-offend": [
+   13932,
+   "Whosoever Shall Offend"
+  ],
+  "fmcrawford-little-city-of-hope": [
+   14526,
+   "The Little City of Hope: A Christmas Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmcrawford-children-of-the-king": [
+   15187,
+   "The Children of the King: A Tale of Southern Italy"
+  ],
+  "fmcrawford-doctor-claudius-a-true-story": [
+   15223,
+   "Doctor Claudius, A True Story"
+  ],
+  "fmcrawford-marietta": [
+   16100,
+   "Marietta: A Maid of Venice"
+  ],
+  "fmcrawford-marzios-crucifix-and-zoroaster": [
+   16720,
+   "Marzio's Crucifix, and Zoroaster"
+  ],
+  "fmcrawford-a-cigarette-makers-romance": [
+   18651,
+   "A Cigarette-Maker's Romance"
+  ],
+  "fmcrawford-white-sister": [
+   18847,
+   "The White Sister"
+  ],
+  "fmcrawford-upper-berth": [
+   22246,
+   "The Upper Berth; By the Waters of Paradise"
+  ],
+  "fmcrawford-adam-johnstones-son": [
+   22455,
+   "Adam Johnstone's Son"
+  ],
+  "fmcrawford-paul-patoff": [
+   22879,
+   "Paul Patoff"
+  ],
+  "fmcrawford-stradella": [
+   23299,
+   "Stradella"
+  ],
+  "fmcrawford-man-overboard": [
+   24584,
+   "Man Overboard!"
+  ],
+  "fmcrawford-fair-margaret": [
+   25838,
+   "Fair Margaret: A Portrait"
+  ],
+  "fmcrawford-casa-braccio-volumes-1-and-2": [
+   26327,
+   "Casa Braccio, Volumes 1 and 2"
+  ],
+  "fmcrawford-ave-roma-immortalis-vol-2-studies-from-the-chroni": [
+   28600,
+   "Ave Roma Immortalis, Vol. 2 Studies from the Chronicles of Rome"
+  ],
+  "fmcrawford-ave-roma-immortalis-vol-1-studies-from-the-chroni": [
+   28614,
+   "Ave Roma Immortalis, Vol. 1 Studies from the Chronicles of Rome"
+  ],
+  "fmcrawford-cecilia": [
+   31723,
+   "Cecilia: A Story of Modern Rome"
+  ],
+  "fmcrawford-marion-darche": [
+   33924,
+   "Marion Darche: A Story Without Comment"
+  ],
+  "fmcrawford-khaled-a-tale-of-arabia": [
+   34959,
+   "Khaled, A Tale of Arabia"
+  ],
+  "fmcrawford-to-leeward": [
+   40181,
+   "To Leeward"
+  ],
+  "fmcrawford-wandering-ghosts": [
+   40386,
+   "Wandering ghosts",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmcrawford-divas-ruby": [
+   40844,
+   "The Diva's Ruby"
+  ],
+  "fmcrawford-pietro-ghisleri": [
+   40922,
+   "Pietro Ghisleri"
+  ],
+  "fmcrawford-a-rose-of-yesterday": [
+   41009,
+   "A Rose of Yesterday"
+  ],
+  "fmcrawford-arethusa": [
+   41929,
+   "Arethusa"
+  ],
+  "fmcrawford-corleone": [
+   44311,
+   "Corleone: A Tale of Sicily"
+  ],
+  "fmcrawford-a-lady-of-rome": [
+   47624,
+   "A Lady of Rome",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmcrawford-ralstons": [
+   49954,
+   "The Ralstons"
+  ],
+  "fmcrawford-katherine-lauderdale": [
+   50607,
+   "Katherine Lauderdale; Vol. 1 of 2"
+  ],
+  "fmcrawford-katherine-lauderdale-50886": [
+   50886,
+   "Katherine Lauderdale; Vol. 2 of 2"
+  ],
+  "fmcrawford-novel": [
+   51010,
+   "The Novel; what it is"
+  ],
+  "fmcrawford-three-fates": [
+   53486,
+   "The Three Fates"
+  ],
+  "fmcrawford-undesirable-governess": [
+   62317,
+   "The Undesirable Governess"
+  ],
+  "fmcrawford-love-in-idleness": [
+   62363,
+   "Love in Idleness: A Bar Harbour Tale"
+  ],
+  "fmcrawford-salve-venetia-gleanings-from-venetian-history": [
+   64464,
+   "Salve Venetia, gleanings from Venetian history; vol. I"
+  ],
+  "fmcrawford-salve-venetia-gleanings-from-venetian-history-67156": [
+   67156,
+   "Salve Venetia, gleanings from Venetian history; vol. II",
+   {
+    "contents_only": true
+   }
+  ],
+  "fmcrawford-kings-messenger": [
+   75905,
+   "The King's Messenger"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fmcrawford-witch-of-prague": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-sant-ilario": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-heart-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-via-crucis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-greifenstein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-an-american-politician": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-primadonna-a-sequel-to-fair-margaret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-taquisara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-a-roman-singer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-don-orsino": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-in-the-palace-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-mr-isaacs-a-tale-of-modern-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-a-tale-of-a-lonely-parish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-saracinesca": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-whosoever-shall-offend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-little-city-of-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-children-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-doctor-claudius-a-true-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-marietta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-marzios-crucifix-and-zoroaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-a-cigarette-makers-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-white-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-upper-berth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-adam-johnstones-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-paul-patoff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-stradella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-man-overboard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-fair-margaret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-casa-braccio-volumes-1-and-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-ave-roma-immortalis-vol-2-studies-from-the-chroni": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-ave-roma-immortalis-vol-1-studies-from-the-chroni": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-cecilia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-marion-darche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-khaled-a-tale-of-arabia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-to-leeward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-wandering-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-divas-ruby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-pietro-ghisleri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-a-rose-of-yesterday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-arethusa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-corleone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-a-lady-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-ralstons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-katherine-lauderdale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-katherine-lauderdale-50886": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-three-fates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-undesirable-governess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-love-in-idleness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-salve-venetia-gleanings-from-venetian-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-salve-venetia-gleanings-from-venetian-history-67156": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmcrawford-kings-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "f. marion crawford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

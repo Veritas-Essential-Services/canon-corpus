@@ -32288,6 +32288,65 @@ Shelf: `pipeline/charles-lever_shelf.json` (2026-10-17; added at the coordinator
 | repeat-editions | excluded | PG 35500: second Gutenberg editions of titles already on the shelf. |
 | pg-7548 | excluded | PG 7548: David Widger's quotation and image selection. |
 
+## F. Marion Crawford
+
+Shelf: `pipeline/marion-crawford_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (52 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Witch of Prague: A Fantastic Tale | have | PG 3816, `fmcrawford-witch-of-prague` (2610 units) |
+| Sant' Ilario | have | PG 5227, `fmcrawford-sant-ilario` (2603 units) |
+| The Heart of Rome: A Tale of the "Lost Water" | have | PG 5847, `fmcrawford-heart-of-rome` (2362 units) |
+| Via Crucis: A Romance of the Second Crusade | have | PG 6350, `fmcrawford-via-crucis` (1708 units) |
+| Greifenstein | have | PG 6446, `fmcrawford-greifenstein` (2430 units) |
+| An American Politician: A Novel | have | PG 7374, `fmcrawford-an-american-politician` (1805 units) |
+| The Primadonna A Sequel to "Fair Margaret" | have | PG 10521, `fmcrawford-primadonna-a-sequel-to-fair-margaret` (2279 units) |
+| Taquisara | have | PG 11050, `fmcrawford-taquisara` (2490 units) |
+| A Roman Singer | have | PG 12346, `fmcrawford-a-roman-singer` (1714 units) |
+| Don Orsino | have | PG 13218, `fmcrawford-don-orsino` (3508 units) |
+| In the Palace of the King: A Love Story of Old Madrid | have | PG 13243, `fmcrawford-in-the-palace-of-the-king` (1567 units) |
+| Mr. Isaacs, A Tale of Modern India | have | PG 13340, `fmcrawford-mr-isaacs-a-tale-of-modern-india` (1012 units) |
+| A Tale of a Lonely Parish | have | PG 13597, `fmcrawford-a-tale-of-a-lonely-parish` (1900 units) |
+| Saracinesca | have | PG 13757, `fmcrawford-saracinesca` (2719 units) |
+| Whosoever Shall Offend | have | PG 13932, `fmcrawford-whosoever-shall-offend` (2305 units) |
+| The Little City of Hope: A Christmas Story | have | PG 14526, `fmcrawford-little-city-of-hope` (426 units) |
+| The Children of the King: A Tale of Southern Italy | have | PG 15187, `fmcrawford-children-of-the-king` (1293 units) |
+| Doctor Claudius, A True Story | have | PG 15223, `fmcrawford-doctor-claudius-a-true-story` (1863 units) |
+| Marietta: A Maid of Venice | have | PG 16100, `fmcrawford-marietta` (2572 units) |
+| Marzio's Crucifix, and Zoroaster | have | PG 16720, `fmcrawford-marzios-crucifix-and-zoroaster` (2160 units) |
+| A Cigarette-Maker's Romance | have | PG 18651, `fmcrawford-a-cigarette-makers-romance` (1121 units) |
+| The White Sister | have | PG 18847, `fmcrawford-white-sister` (1654 units) |
+| The Upper Berth; By the Waters of Paradise | have | PG 22246, `fmcrawford-upper-berth` (301 units) |
+| Adam Johnstone's Son | have | PG 22455, `fmcrawford-adam-johnstones-son` (1372 units) |
+| Paul Patoff | have | PG 22879, `fmcrawford-paul-patoff` (2508 units) |
+| Stradella | have | PG 23299, `fmcrawford-stradella` (2109 units) |
+| Man Overboard! | have | PG 24584, `fmcrawford-man-overboard` (226 units) |
+| Fair Margaret: A Portrait | have | PG 25838, `fmcrawford-fair-margaret` (2296 units) |
+| Casa Braccio, Volumes 1 and 2 | have | PG 26327, `fmcrawford-casa-braccio-volumes-1-and-2` (3046 units) |
+| Ave Roma Immortalis, Vol. 2 Studies from the Chronicles of Rome | have | PG 28600, `fmcrawford-ave-roma-immortalis-vol-2-studies-from-the-chroni` (1191 units) |
+| Ave Roma Immortalis, Vol. 1 Studies from the Chronicles of Rome | have | PG 28614, `fmcrawford-ave-roma-immortalis-vol-1-studies-from-the-chroni` (1236 units) |
+| Cecilia: A Story of Modern Rome | have | PG 31723, `fmcrawford-cecilia` (2413 units) |
+| Marion Darche: A Story Without Comment | have | PG 33924, `fmcrawford-marion-darche` (1801 units) |
+| Khaled, A Tale of Arabia | have | PG 34959, `fmcrawford-khaled-a-tale-of-arabia` (1373 units) |
+| To Leeward | have | PG 40181, `fmcrawford-to-leeward` (1816 units) |
+| Wandering ghosts | have | PG 40386, `fmcrawford-wandering-ghosts` (955 units) |
+| The Diva's Ruby | have | PG 40844, `fmcrawford-divas-ruby` (2470 units) |
+| Pietro Ghisleri | have | PG 40922, `fmcrawford-pietro-ghisleri` (2461 units) |
+| A Rose of Yesterday | have | PG 41009, `fmcrawford-a-rose-of-yesterday` (1017 units) |
+| Arethusa | have | PG 41929, `fmcrawford-arethusa` (2216 units) |
+| Corleone: A Tale of Sicily | have | PG 44311, `fmcrawford-corleone` (3068 units) |
+| A Lady of Rome | have | PG 47624, `fmcrawford-a-lady-of-rome` (2164 units) |
+| The Ralstons | have | PG 49954, `fmcrawford-ralstons` (3089 units) |
+| Katherine Lauderdale; Vol. 1 of 2 | have | PG 50607, `fmcrawford-katherine-lauderdale` (1499 units) |
+| Katherine Lauderdale; Vol. 2 of 2 | have | PG 50886, `fmcrawford-katherine-lauderdale-50886` (1408 units) |
+| The Novel; what it is | have | PG 51010, `fmcrawford-novel` (100 units) |
+| The Three Fates | have | PG 53486, `fmcrawford-three-fates` (2557 units) |
+| The Undesirable Governess | have | PG 62317, `fmcrawford-undesirable-governess` (840 units) |
+| Love in Idleness: A Bar Harbour Tale | have | PG 62363, `fmcrawford-love-in-idleness` (893 units) |
+| Salve Venetia, gleanings from Venetian history; vol. I | have | PG 64464, `fmcrawford-salve-venetia-gleanings-from-venetian-history` (2321 units) |
+| Salve Venetia, gleanings from Venetian history; vol. II | have | PG 67156, `fmcrawford-salve-venetia-gleanings-from-venetian-history-67156` (2621 units) |
+| The King's Messenger | have | PG 75905, `fmcrawford-kings-messenger` (94 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

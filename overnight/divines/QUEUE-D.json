@@ -3253,6 +3253,14 @@
       "started": "2026-10-17T21:07:00-05:00",
       "finished": "2026-10-17T21:07:01-05:00",
       "notes": "charles-lever: new shelf, 46 Gutenberg books, 121,283 units, 312 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "marion-crawford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — F. Marion Crawford; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:25:17-05:00",
+      "finished": "2026-10-17T21:25:17-05:00",
+      "notes": "marion-crawford: new shelf, 52 Gutenberg books, 95,562 units, 956 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
