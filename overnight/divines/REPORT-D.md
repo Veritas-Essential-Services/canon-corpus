@@ -1284,3 +1284,6 @@
 
 ## 2026-10-17 19:10 CDT — john-kendrick-bangs: done
 - john-kendrick-bangs: new shelf, 39 Gutenberg books, 28,298 units, 830 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:10 CDT — irvin-cobb: done
+- irvin-cobb: new shelf, 26 Gutenberg books, 21,735 units, 13 ~2 ids; verify 0 mismatches, 0 rights flags.

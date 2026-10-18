@@ -25249,6 +25249,39 @@ Shelf: `pipeline/john-kendrick-bangs_shelf.json` (2026-10-17; added at the coord
 | Eight brand new bits of Christmas cheer | have | PG 72633, `jkbangs-eight-brand-new-bits-of-christmas-cheer` (23 units) |
 | pg-5066 | excluded | PG 5066 The Whole Family: a novel by twelve authors, Bangs one chapter. |
 
+## Irvin S. Cobb
+
+Shelf: `pipeline/irvin-cobb_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and humorous sketches. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cobb's Anatomy | have | PG 1222, `iscobb-cobbs-anatomy` (133 units) |
+| Europe Revised | have | PG 4551, `iscobb-europe-revised` (907 units) |
+| Paths of Glory: Impressions of War Written at and Near the Front | have | PG 10798, `iscobb-paths-of-glory` (1043 units) |
+| One Third Off | have | PG 16197, `iscobb-one-third-off` (220 units) |
+| Eating in Two or Three Languages | have | PG 18526, `iscobb-eating-in-two-or-three-languages` (131 units) |
+| Roughing it De Luxe | have | PG 19479, `iscobb-roughing-it-de-luxe` (347 units) |
+| From Place to Place | have | PG 22530, `iscobb-from-place-to-place` (1331 units) |
+| Cobb's Bill-of-Fare | have | PG 24595, `iscobb-cobbs-bill-of-fare` (207 units) |
+| The Escape of Mr. Trimm His Plight and other Plights | have | PG 24799, `iscobb-escape-of-mr-trimm-his-plight-and-other-plights` (839 units) |
+| The Thunders of Silence | have | PG 24936, `iscobb-thunders-of-silence` (137 units) |
+| Fibble, D.D. | have | PG 27154, `iscobb-fibble-d-d` (700 units) |
+| The Life of the Party | have | PG 27212, `iscobb-life-of-the-party` (321 units) |
+| Sundry Accounts | have | PG 27439, `iscobb-sundry-accounts` (1448 units) |
+| J. Poindexter, Colored | have | PG 36365, `iscobb-j-poindexter-colored` (695 units) |
+| "Speaking of Prussians--" | have | PG 41272, `iscobb-speaking-of-prussians` (154 units) |
+| Local Color | have | PG 41297, `iscobb-local-color` (1741 units) |
+| Those Times and These | have | PG 44222, `iscobb-those-times-and-these` (1391 units) |
+| Back Home: Being the Narrative of Judge Priest and His People | have | PG 44223, `iscobb-back-home` (1137 units) |
+| Old Judge Priest | have | PG 44224, `iscobb-old-judge-priest` (1403 units) |
+| The Glory of the Coming What Mine Eyes Have Seen of Americans in Action in This Year of Grace and Allied Endeavor | have | PG 44225, `iscobb-glory-of-the-coming-what-mine-eyes-have-seen-of-ameri` (1146 units) |
+| The Abandoned Farmers His Humorous Account of a Retreat from the City to the Farm | have | PG 44226, `iscobb-abandoned-farmers-his-humorous-account-of-a-retreat-f` (513 units) |
+| Ladies and Gentlemen | have | PG 45320, `iscobb-ladies-and-gentlemen` (1343 units) |
+| The Lost Tribes of the Irish in the South An Address at the Annual Dinner of the American Irish Historical Society, January 6, 1917 | have | PG 58771, `iscobb-lost-tribes-of-the-irish-in-the-south-an-address-at-t` (53 units) |
+| The Red Glutton: With the German Army at the Front | have | PG 61177, `iscobb-red-glutton` (1032 units) |
+| A laugh a day keeps the doctor away | have | PG 69467, `iscobb-a-laugh-a-day-keeps-the-doctor-away` (3208 units) |
+| The cowboy and the lady and her pa | have | PG 69929, `iscobb-cowboy-and-the-lady-and-her-pa` (155 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

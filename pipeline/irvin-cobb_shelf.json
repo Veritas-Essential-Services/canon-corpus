@@ -1,0 +1,364 @@
+{
+ "_about": "Irvin S. Cobb's stories and humorous sketches; the Judge Priest stories describe Black Southerners in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Irvin S. Cobb",
+ "_name_words": [
+  "cobb"
+ ],
+ "_surname": [
+  "irvin s. cobb"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "iscobb-cobbs-anatomy": [
+   1222,
+   "Cobb's Anatomy"
+  ],
+  "iscobb-europe-revised": [
+   4551,
+   "Europe Revised"
+  ],
+  "iscobb-paths-of-glory": [
+   10798,
+   "Paths of Glory: Impressions of War Written at and Near the Front"
+  ],
+  "iscobb-one-third-off": [
+   16197,
+   "One Third Off"
+  ],
+  "iscobb-eating-in-two-or-three-languages": [
+   18526,
+   "Eating in Two or Three Languages"
+  ],
+  "iscobb-roughing-it-de-luxe": [
+   19479,
+   "Roughing it De Luxe"
+  ],
+  "iscobb-from-place-to-place": [
+   22530,
+   "From Place to Place",
+   {
+    "contents_only": true
+   }
+  ],
+  "iscobb-cobbs-bill-of-fare": [
+   24595,
+   "Cobb's Bill-of-Fare"
+  ],
+  "iscobb-escape-of-mr-trimm-his-plight-and-other-plights": [
+   24799,
+   "The Escape of Mr. Trimm His Plight and other Plights"
+  ],
+  "iscobb-thunders-of-silence": [
+   24936,
+   "The Thunders of Silence"
+  ],
+  "iscobb-fibble-d-d": [
+   27154,
+   "Fibble, D.D."
+  ],
+  "iscobb-life-of-the-party": [
+   27212,
+   "The Life of the Party"
+  ],
+  "iscobb-sundry-accounts": [
+   27439,
+   "Sundry Accounts",
+   {
+    "contents_only": true
+   }
+  ],
+  "iscobb-j-poindexter-colored": [
+   36365,
+   "J. Poindexter, Colored"
+  ],
+  "iscobb-speaking-of-prussians": [
+   41272,
+   "\"Speaking of Prussians--\""
+  ],
+  "iscobb-local-color": [
+   41297,
+   "Local Color"
+  ],
+  "iscobb-those-times-and-these": [
+   44222,
+   "Those Times and These"
+  ],
+  "iscobb-back-home": [
+   44223,
+   "Back Home: Being the Narrative of Judge Priest and His People"
+  ],
+  "iscobb-old-judge-priest": [
+   44224,
+   "Old Judge Priest"
+  ],
+  "iscobb-glory-of-the-coming-what-mine-eyes-have-seen-of-ameri": [
+   44225,
+   "The Glory of the Coming What Mine Eyes Have Seen of Americans in Action in This Year of Grace and Allied Endeavor"
+  ],
+  "iscobb-abandoned-farmers-his-humorous-account-of-a-retreat-f": [
+   44226,
+   "The Abandoned Farmers His Humorous Account of a Retreat from the City to the Farm"
+  ],
+  "iscobb-ladies-and-gentlemen": [
+   45320,
+   "Ladies and Gentlemen",
+   {
+    "contents_only": true
+   }
+  ],
+  "iscobb-lost-tribes-of-the-irish-in-the-south-an-address-at-t": [
+   58771,
+   "The Lost Tribes of the Irish in the South An Address at the Annual Dinner of the American Irish Historical Society, January 6, 1917"
+  ],
+  "iscobb-red-glutton": [
+   61177,
+   "The Red Glutton: With the German Army at the Front"
+  ],
+  "iscobb-a-laugh-a-day-keeps-the-doctor-away": [
+   69467,
+   "A laugh a day keeps the doctor away"
+  ],
+  "iscobb-cowboy-and-the-lady-and-her-pa": [
+   69929,
+   "The cowboy and the lady and her pa"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "iscobb-cobbs-anatomy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-europe-revised": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-paths-of-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-one-third-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-eating-in-two-or-three-languages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-roughing-it-de-luxe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-from-place-to-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-cobbs-bill-of-fare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-escape-of-mr-trimm-his-plight-and-other-plights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-thunders-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-fibble-d-d": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-life-of-the-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-sundry-accounts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-j-poindexter-colored": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-speaking-of-prussians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-local-color": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-those-times-and-these": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-back-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-old-judge-priest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-glory-of-the-coming-what-mine-eyes-have-seen-of-ameri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-abandoned-farmers-his-humorous-account-of-a-retreat-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-ladies-and-gentlemen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-lost-tribes-of-the-irish-in-the-south-an-address-at-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-red-glutton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-a-laugh-a-day-keeps-the-doctor-away": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iscobb-cowboy-and-the-lady-and-her-pa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "irvin s. cobb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
