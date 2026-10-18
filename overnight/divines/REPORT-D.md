@@ -1491,3 +1491,6 @@
 
 ## 2026-10-17 21:06 CDT — anna-katharine-green: done
 - anna-katharine-green: new shelf, 37 Gutenberg books, 51,323 units, 338 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 21:06 CDT — james-grant: done
+- james-grant: new shelf, 70 Gutenberg books, 110,796 units, 148 ~2 ids; verify 0 mismatches, 0 rights flags.

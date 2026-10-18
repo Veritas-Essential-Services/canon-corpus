@@ -10348,6 +10348,83 @@ Shelf: `pipeline/anna-katharine-green_shelf.json` (2026-10-17; added at the coor
 | The step on the stair | have | PG 68153, `akgreen-step-on-the-stair` (2359 units) |
 | pg-35003 | excluded | PG 35003 The House in the Mist and 38347 The Millionaire Baby: second Gutenberg editions of titles already on the shelf. |
 
+## James Grant
+
+Shelf: `pipeline/james-grant_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (70 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Captain of the Guard | have | PG 52078, `jgrant-captain-of-the-guard` (2769 units) |
+| Under the Red Dragon: A Novel | have | PG 53874, `jgrant-under-the-red-dragon` (2682 units) |
+| Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 1 (of 3) | have | PG 54593, `jgrant-adventures-of-an-aide-de-camp` (917 units) |
+| Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 2 (of 3) | have | PG 54594, `jgrant-adventures-of-an-aide-de-camp-54594` (1114 units) |
+| Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 3 (of 3) | have | PG 54595, `jgrant-adventures-of-an-aide-de-camp-54595` (915 units) |
+| The Romance of War; or, The Highlanders in Spain, Volume 1 (of 3) | have | PG 54918, `jgrant-romance-of-war` (1182 units) |
+| The Romance of War; or, The Highlanders in Spain, Volume 2 (of 3) | have | PG 54919, `jgrant-romance-of-war-54919` (1204 units) |
+| The Romance of War; or, The Highlanders in Spain, Volume 3 (of 3) | have | PG 54920, `jgrant-romance-of-war-54920` (1099 units) |
+| The Romance of War; or, The Highlanders in France and Belgium, A Sequel to the Highlanders in Spain | have | PG 54921, `jgrant-romance-of-war-54921` (1138 units) |
+| One of the Six Hundred: A Novel | have | PG 55179, `jgrant-one-of-the-six-hundred` (3563 units) |
+| Bothwell; or, The Days of Mary Queen of Scots, Volume 1 (of 3) | have | PG 55527, `jgrant-bothwell` (1283 units) |
+| Bothwell; or, The Days of Mary Queen of Scots, Volume 2 (of 3) | have | PG 55528, `jgrant-bothwell-55528` (1156 units) |
+| Bothwell; or, The Days of Mary Queen of Scots, Volume 3 (of 3) | have | PG 55529, `jgrant-bothwell-55529` (1051 units) |
+| The Cavaliers of Fortune; Or, British Heroes in Foreign Wars | have | PG 59754, `jgrant-cavaliers-of-fortune` (1738 units) |
+| Jack Manly; His Adventures by Sea and Land | have | PG 63566, `jgrant-jack-manly` (1794 units) |
+| Morley Ashton: A Story of the Sea. Volume 1 (of 3) | have | PG 64080, `jgrant-morley-ashton` (1637 units) |
+| Morley Ashton: A Story of the Sea. Volume 2 (of 3) | have | PG 64081, `jgrant-morley-ashton-64081` (1552 units) |
+| Morley Ashton: A Story of the Sea. Volume 3 (of 3) | have | PG 64082, `jgrant-morley-ashton-64082` (1534 units) |
+| Only an Ensign: A Tale of the Retreat from Cabul, Volume 1 (of 3) | have | PG 64252, `jgrant-only-an-ensign` (1359 units) |
+| Only an Ensign: A Tale of the Retreat from Cabul, Volume 2 (of 3) | have | PG 64253, `jgrant-only-an-ensign-64253` (1275 units) |
+| Only an Ensign: A Tale of the Retreat from Cabul, Volume 3 (of 3) | have | PG 64254, `jgrant-only-an-ensign-64254` (1130 units) |
+| Philip Rollo; or, the Scottish Musketeers, Vol. 1 (of 2) | have | PG 64669, `jgrant-philip-rollo` (1923 units) |
+| Philip Rollo; or, the Scottish Musketeers, Vol. 2 (of 2) | have | PG 64670, `jgrant-philip-rollo-64670` (2097 units) |
+| The Secret Dispatch; or, The Adventures of Captain Balgonie | have | PG 64788, `jgrant-secret-dispatch` (1179 units) |
+| Jane Seton; or, The King's Advocate: A Scottish Historical Romance | have | PG 64836, `jgrant-jane-seton` (3302 units) |
+| Dick Rodney; or, The Adventures of an Eton Boy | have | PG 65080, `jgrant-dick-rodney` (2238 units) |
+| Derval Hampton: A Story of the Sea, Volume 1 (of 2) | have | PG 65143, `jgrant-derval-hampton` (745 units) |
+| Derval Hampton: A Story of the Sea, Volume 2 (of 2) | have | PG 65144, `jgrant-derval-hampton-65144` (785 units) |
+| Legends of the Black Watch; or, Forty-second Highlanders | have | PG 65294, `jgrant-legends-of-the-black-watch` (2220 units) |
+| The Phantom Regiment; or, Stories of "Ours" | have | PG 65393, `jgrant-phantom-regiment` (2152 units) |
+| The Yellow Frigate; or, The Three Sisters | have | PG 65415, `jgrant-yellow-frigate` (3830 units) |
+| The Master of Aberfeldie, Volume 1 (of 3) | have | PG 65615, `jgrant-master-of-aberfeldie-volume-1-of-3` (1201 units) |
+| The Master of Aberfeldie, Volume 2 (of 3) | have | PG 65616, `jgrant-master-of-aberfeldie-volume-2-of-3` (1050 units) |
+| The Master of Aberfeldie, Volume 3 (of 3) | have | PG 65617, `jgrant-master-of-aberfeldie-volume-3-of-3` (1102 units) |
+| Playing with Fire: A Story of the Soudan War | have | PG 65773, `jgrant-playing-with-fire` (3027 units) |
+| The Royal Regiment, and Other Novelettes | have | PG 65932, `jgrant-royal-regiment-and-other-novelettes` (1529 units) |
+| The Scottish Cavalier: An Historical Romance, Volume 1 (of 3) | have | PG 66120, `jgrant-scottish-cavalier` (1244 units) |
+| The Scottish Cavalier: An Historical Romance, Volume 2 (of 3) | have | PG 66121, `jgrant-scottish-cavalier-66121` (1243 units) |
+| The Scottish Cavalier: An Historical Romance, Volume 3 (of 3) | have | PG 66122, `jgrant-scottish-cavalier-66122` (1269 units) |
+| Second to None: A Military Romance, Volume 1 (of 3) | have | PG 66412, `jgrant-second-to-none` (1102 units) |
+| Second to None: A Military Romance, Volume 2 (of 3) | have | PG 66413, `jgrant-second-to-none-66413` (1034 units) |
+| Second to None: A Military Romance, Volume 3 (of 3) | have | PG 66414, `jgrant-second-to-none-66414` (1054 units) |
+| Colville of the Guards, Volume 1 (of 3) | have | PG 66580, `jgrant-colville-of-the-guards-volume-1-of-3` (1300 units) |
+| Colville of the Guards, Volume 2 (of 3) | have | PG 66581, `jgrant-colville-of-the-guards-volume-2-of-3` (1139 units) |
+| Colville of the Guards, Volume 3 (of 3) | have | PG 66582, `jgrant-colville-of-the-guards-volume-3-of-3` (900 units) |
+| Laura Everingham; or, The Highlanders of Glen Ora | have | PG 66808, `jgrant-laura-everingham` (2527 units) |
+| The Cameronians: A Novel, Volume 1 (of 3) | have | PG 66873, `jgrant-cameronians` (1247 units) |
+| The Cameronians: A Novel, Volume 2 (of 3) | have | PG 66874, `jgrant-cameronians-66874` (1211 units) |
+| The Cameronians: A Novel, Volume 3 (of 3) | have | PG 66875, `jgrant-cameronians-66875` (1152 units) |
+| The King's Own Borderers: A Military Romance, Volume 1 (of 3) | have | PG 67226, `jgrant-kings-own-borderers` (1625 units) |
+| The King's Own Borderers: A Military Romance, Volume 2 (of 3) | have | PG 67227, `jgrant-kings-own-borderers-67227` (1564 units) |
+| The King's Own Borderers: A Military Romance, Volume 3 (of 3) | have | PG 67228, `jgrant-kings-own-borderers-67228` (1528 units) |
+| Arthur Blane; or, The Hundred Cuirassiers | have | PG 67681, `jgrant-arthur-blane` (3114 units) |
+| Dulcie Carlyon: A novel. Volume 1 (of 3) | have | PG 68293, `jgrant-dulcie-carlyon` (1146 units) |
+| Dulcie Carlyon: A novel. Volume 2 (of 3) | have | PG 68294, `jgrant-dulcie-carlyon-68294` (1146 units) |
+| Dulcie Carlyon: A novel. Volume 3 (of 3) | have | PG 68295, `jgrant-dulcie-carlyon-68295` (1146 units) |
+| The dead tryst | have | PG 68789, `jgrant-dead-tryst` (1325 units) |
+| A haunted life | have | PG 68790, `jgrant-a-haunted-life` (1392 units) |
+| The adventures of Rob Roy | have | PG 69420, `jgrant-adventures-of-rob-roy` (2134 units) |
+| The Queen's cadet, and other tales | have | PG 69500, `jgrant-queens-cadet-and-other-tales` (1053 units) |
+| Mary of Lorraine | have | PG 71001, `jgrant-mary-of-lorraine` (2949 units) |
+| Oliver Ellis | have | PG 71286, `jgrant-oliver-ellis` (2764 units) |
+| The 'Scots Brigade,' and other tales | have | PG 72700, `jgrant-scots-brigade-and-other-tales` (1344 units) |
+| Miss Cheyne of Essilmont, Volume 1 (of 3) | have | PG 72743, `jgrant-miss-cheyne-of-essilmont-volume-1-of-3` (1517 units) |
+| Miss Cheyne of Essilmont, Volume 2 (of 3) | have | PG 72744, `jgrant-miss-cheyne-of-essilmont-volume-2-of-3` (1379 units) |
+| Miss Cheyne of Essilmont, Volume 3 (of 3) | have | PG 72745, `jgrant-miss-cheyne-of-essilmont-volume-3-of-3` (1279 units) |
+| The Ross-shire Buffs | have | PG 77588, `jgrant-ross-shire-buffs` (1588 units) |
+| Lady Wedderburn's wish, Vol. 1 (of 3) | have | PG 79590, `jgrant-lady-wedderburns-wish-vol-1-of-3` (1469 units) |
+| Lady Wedderburn's wish, Vol. 2 (of 3) | have | PG 79591, `jgrant-lady-wedderburns-wish-vol-2-of-3` (1191 units) |
+| Lady Wedderburn's wish, Vol. 3 (of 3) | have | PG 79592, `jgrant-lady-wedderburns-wish-vol-3-of-3` (1249 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,999 @@
+{
+ "_about": "James Grant's (1822-1887) military and Scottish historical romances: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "James Grant",
+ "_name_words": [
+  "grant"
+ ],
+ "_surname": [
+  "james grant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jgrant-captain-of-the-guard": [
+   52078,
+   "The Captain of the Guard"
+  ],
+  "jgrant-under-the-red-dragon": [
+   53874,
+   "Under the Red Dragon: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-adventures-of-an-aide-de-camp": [
+   54593,
+   "Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 1 (of 3)"
+  ],
+  "jgrant-adventures-of-an-aide-de-camp-54594": [
+   54594,
+   "Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 2 (of 3)"
+  ],
+  "jgrant-adventures-of-an-aide-de-camp-54595": [
+   54595,
+   "Adventures of an Aide-de-Camp; or, A Campaign in Calabria, Volume 3 (of 3)"
+  ],
+  "jgrant-romance-of-war": [
+   54918,
+   "The Romance of War; or, The Highlanders in Spain, Volume 1 (of 3)"
+  ],
+  "jgrant-romance-of-war-54919": [
+   54919,
+   "The Romance of War; or, The Highlanders in Spain, Volume 2 (of 3)"
+  ],
+  "jgrant-romance-of-war-54920": [
+   54920,
+   "The Romance of War; or, The Highlanders in Spain, Volume 3 (of 3)"
+  ],
+  "jgrant-romance-of-war-54921": [
+   54921,
+   "The Romance of War; or, The Highlanders in France and Belgium, A Sequel to the Highlanders in Spain"
+  ],
+  "jgrant-one-of-the-six-hundred": [
+   55179,
+   "One of the Six Hundred: A Novel"
+  ],
+  "jgrant-bothwell": [
+   55527,
+   "Bothwell; or, The Days of Mary Queen of Scots, Volume 1 (of 3)"
+  ],
+  "jgrant-bothwell-55528": [
+   55528,
+   "Bothwell; or, The Days of Mary Queen of Scots, Volume 2 (of 3)"
+  ],
+  "jgrant-bothwell-55529": [
+   55529,
+   "Bothwell; or, The Days of Mary Queen of Scots, Volume 3 (of 3)"
+  ],
+  "jgrant-cavaliers-of-fortune": [
+   59754,
+   "The Cavaliers of Fortune; Or, British Heroes in Foreign Wars"
+  ],
+  "jgrant-jack-manly": [
+   63566,
+   "Jack Manly; His Adventures by Sea and Land"
+  ],
+  "jgrant-morley-ashton": [
+   64080,
+   "Morley Ashton: A Story of the Sea. Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-morley-ashton-64081": [
+   64081,
+   "Morley Ashton: A Story of the Sea. Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-morley-ashton-64082": [
+   64082,
+   "Morley Ashton: A Story of the Sea. Volume 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-only-an-ensign": [
+   64252,
+   "Only an Ensign: A Tale of the Retreat from Cabul, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-only-an-ensign-64253": [
+   64253,
+   "Only an Ensign: A Tale of the Retreat from Cabul, Volume 2 (of 3)"
+  ],
+  "jgrant-only-an-ensign-64254": [
+   64254,
+   "Only an Ensign: A Tale of the Retreat from Cabul, Volume 3 (of 3)"
+  ],
+  "jgrant-philip-rollo": [
+   64669,
+   "Philip Rollo; or, the Scottish Musketeers, Vol. 1 (of 2)"
+  ],
+  "jgrant-philip-rollo-64670": [
+   64670,
+   "Philip Rollo; or, the Scottish Musketeers, Vol. 2 (of 2)"
+  ],
+  "jgrant-secret-dispatch": [
+   64788,
+   "The Secret Dispatch; or, The Adventures of Captain Balgonie",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-jane-seton": [
+   64836,
+   "Jane Seton; or, The King's Advocate: A Scottish Historical Romance"
+  ],
+  "jgrant-dick-rodney": [
+   65080,
+   "Dick Rodney; or, The Adventures of an Eton Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-derval-hampton": [
+   65143,
+   "Derval Hampton: A Story of the Sea, Volume 1 (of 2)"
+  ],
+  "jgrant-derval-hampton-65144": [
+   65144,
+   "Derval Hampton: A Story of the Sea, Volume 2 (of 2)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-legends-of-the-black-watch": [
+   65294,
+   "Legends of the Black Watch; or, Forty-second Highlanders"
+  ],
+  "jgrant-phantom-regiment": [
+   65393,
+   "The Phantom Regiment; or, Stories of \"Ours\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-yellow-frigate": [
+   65415,
+   "The Yellow Frigate; or, The Three Sisters"
+  ],
+  "jgrant-master-of-aberfeldie-volume-1-of-3": [
+   65615,
+   "The Master of Aberfeldie, Volume 1 (of 3)"
+  ],
+  "jgrant-master-of-aberfeldie-volume-2-of-3": [
+   65616,
+   "The Master of Aberfeldie, Volume 2 (of 3)"
+  ],
+  "jgrant-master-of-aberfeldie-volume-3-of-3": [
+   65617,
+   "The Master of Aberfeldie, Volume 3 (of 3)"
+  ],
+  "jgrant-playing-with-fire": [
+   65773,
+   "Playing with Fire: A Story of the Soudan War"
+  ],
+  "jgrant-royal-regiment-and-other-novelettes": [
+   65932,
+   "The Royal Regiment, and Other Novelettes",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-scottish-cavalier": [
+   66120,
+   "The Scottish Cavalier: An Historical Romance, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-scottish-cavalier-66121": [
+   66121,
+   "The Scottish Cavalier: An Historical Romance, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-scottish-cavalier-66122": [
+   66122,
+   "The Scottish Cavalier: An Historical Romance, Volume 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-second-to-none": [
+   66412,
+   "Second to None: A Military Romance, Volume 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-second-to-none-66413": [
+   66413,
+   "Second to None: A Military Romance, Volume 2 (of 3)"
+  ],
+  "jgrant-second-to-none-66414": [
+   66414,
+   "Second to None: A Military Romance, Volume 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-colville-of-the-guards-volume-1-of-3": [
+   66580,
+   "Colville of the Guards, Volume 1 (of 3)"
+  ],
+  "jgrant-colville-of-the-guards-volume-2-of-3": [
+   66581,
+   "Colville of the Guards, Volume 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-colville-of-the-guards-volume-3-of-3": [
+   66582,
+   "Colville of the Guards, Volume 3 (of 3)"
+  ],
+  "jgrant-laura-everingham": [
+   66808,
+   "Laura Everingham; or, The Highlanders of Glen Ora",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-cameronians": [
+   66873,
+   "The Cameronians: A Novel, Volume 1 (of 3)"
+  ],
+  "jgrant-cameronians-66874": [
+   66874,
+   "The Cameronians: A Novel, Volume 2 (of 3)"
+  ],
+  "jgrant-cameronians-66875": [
+   66875,
+   "The Cameronians: A Novel, Volume 3 (of 3)"
+  ],
+  "jgrant-kings-own-borderers": [
+   67226,
+   "The King's Own Borderers: A Military Romance, Volume 1 (of 3)"
+  ],
+  "jgrant-kings-own-borderers-67227": [
+   67227,
+   "The King's Own Borderers: A Military Romance, Volume 2 (of 3)"
+  ],
+  "jgrant-kings-own-borderers-67228": [
+   67228,
+   "The King's Own Borderers: A Military Romance, Volume 3 (of 3)"
+  ],
+  "jgrant-arthur-blane": [
+   67681,
+   "Arthur Blane; or, The Hundred Cuirassiers",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-dulcie-carlyon": [
+   68293,
+   "Dulcie Carlyon: A novel. Volume 1 (of 3)"
+  ],
+  "jgrant-dulcie-carlyon-68294": [
+   68294,
+   "Dulcie Carlyon: A novel. Volume 2 (of 3)"
+  ],
+  "jgrant-dulcie-carlyon-68295": [
+   68295,
+   "Dulcie Carlyon: A novel. Volume 3 (of 3)"
+  ],
+  "jgrant-dead-tryst": [
+   68789,
+   "The dead tryst",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-a-haunted-life": [
+   68790,
+   "A haunted life",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-adventures-of-rob-roy": [
+   69420,
+   "The adventures of Rob Roy",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-queens-cadet-and-other-tales": [
+   69500,
+   "The Queen's cadet, and other tales"
+  ],
+  "jgrant-mary-of-lorraine": [
+   71001,
+   "Mary of Lorraine",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-oliver-ellis": [
+   71286,
+   "Oliver Ellis"
+  ],
+  "jgrant-scots-brigade-and-other-tales": [
+   72700,
+   "The 'Scots Brigade,' and other tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-miss-cheyne-of-essilmont-volume-1-of-3": [
+   72743,
+   "Miss Cheyne of Essilmont, Volume 1 (of 3)"
+  ],
+  "jgrant-miss-cheyne-of-essilmont-volume-2-of-3": [
+   72744,
+   "Miss Cheyne of Essilmont, Volume 2 (of 3)"
+  ],
+  "jgrant-miss-cheyne-of-essilmont-volume-3-of-3": [
+   72745,
+   "Miss Cheyne of Essilmont, Volume 3 (of 3)"
+  ],
+  "jgrant-ross-shire-buffs": [
+   77588,
+   "The Ross-shire Buffs"
+  ],
+  "jgrant-lady-wedderburns-wish-vol-1-of-3": [
+   79590,
+   "Lady Wedderburn's wish, Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jgrant-lady-wedderburns-wish-vol-2-of-3": [
+   79591,
+   "Lady Wedderburn's wish, Vol. 2 (of 3)"
+  ],
+  "jgrant-lady-wedderburns-wish-vol-3-of-3": [
+   79592,
+   "Lady Wedderburn's wish, Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jgrant-captain-of-the-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-under-the-red-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-adventures-of-an-aide-de-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-adventures-of-an-aide-de-camp-54594": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-adventures-of-an-aide-de-camp-54595": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-romance-of-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-romance-of-war-54919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-romance-of-war-54920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-romance-of-war-54921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-one-of-the-six-hundred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-bothwell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-bothwell-55528": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-bothwell-55529": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-cavaliers-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-jack-manly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-morley-ashton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-morley-ashton-64081": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-morley-ashton-64082": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-only-an-ensign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-only-an-ensign-64253": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-only-an-ensign-64254": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-philip-rollo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-philip-rollo-64670": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-secret-dispatch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-jane-seton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-dick-rodney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-derval-hampton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-derval-hampton-65144": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-legends-of-the-black-watch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-phantom-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-yellow-frigate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-master-of-aberfeldie-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-master-of-aberfeldie-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-master-of-aberfeldie-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-playing-with-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-royal-regiment-and-other-novelettes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-scottish-cavalier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-scottish-cavalier-66121": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-scottish-cavalier-66122": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-second-to-none": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-second-to-none-66413": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-second-to-none-66414": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-colville-of-the-guards-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-colville-of-the-guards-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-colville-of-the-guards-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-laura-everingham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-cameronians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-cameronians-66874": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-cameronians-66875": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-kings-own-borderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-kings-own-borderers-67227": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-kings-own-borderers-67228": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-arthur-blane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-dulcie-carlyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-dulcie-carlyon-68294": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-dulcie-carlyon-68295": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-dead-tryst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-a-haunted-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-adventures-of-rob-roy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-queens-cadet-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-mary-of-lorraine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-oliver-ellis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-scots-brigade-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-miss-cheyne-of-essilmont-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-miss-cheyne-of-essilmont-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-miss-cheyne-of-essilmont-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-ross-shire-buffs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-lady-wedderburns-wish-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-lady-wedderburns-wish-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgrant-lady-wedderburns-wish-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
