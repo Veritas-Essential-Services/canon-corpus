@@ -1,0 +1,45 @@
+{
+ "_about": "William Graham Sumner (1840-1910), Yale sociologist and economist: Folkways (Boston: Ginn, copyright 1906) and The Forgotten Man and other essays, edited by Albert Galloway Keller (New Haven: Yale University Press, copyright 1919), clean Gutenberg texts. Held: What Social Classes Owe to Each Other, because the only Gutenberg etext is the 1951 Caxton reprint with a new introduction. US public domain. No uids minted.",
+ "_author": "William Graham Sumner",
+ "_name_words": [
+  "william",
+  "graham",
+  "sumner"
+ ],
+ "_surname": [
+  "sumner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sumner-folkways-1906": [
+   24253,
+   "Folkways (Ginn, 1906)"
+  ],
+  "sumner-forgotten-man-keller-1919": [
+   65693,
+   "The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sumner-folkways-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sumner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sumner-forgotten-man-keller-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sumner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

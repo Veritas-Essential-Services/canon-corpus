@@ -5666,6 +5666,8 @@ Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What So
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Folkways (Ginn, 1906) |  | `sumner-folkways-1906` | have (PG 24253) |
+| The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919) |  | `sumner-forgotten-man-keller-1919` | have (PG 65693) |
 
 Pending (wishlist): What Social Classes Owe to Each Other (1883) in a pre-1931 printing
 
