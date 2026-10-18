@@ -1,0 +1,97 @@
+{
+ "_about": "George John Romanes (1848-1894), Darwin's younger colleague, on mind, evolution and belief: Mental Evolution in Man (London: Kegan Paul, Trench, 1888); Darwin, and After Darwin, 3 vols. (Chicago: Open Court; vol. I the fourth edition, 1910; vol. II first 1895, the etext from the 1916 printing; vol. III first 1897, the etext from the 1906 printing); Mind and Motion and Monism (London: Longmans, Green, 1895); Thoughts on Religion, edited by Charles Gore (Longmans, Green; the etext is the twelfth impression, 1904). Clean Gutenberg texts. Wanted: A Candid Examination of Theism (1878; PG 19003 would not download). US public domain. No uids minted.",
+ "_author": "George John Romanes",
+ "_name_words": [
+  "george",
+  "john",
+  "romanes"
+ ],
+ "_surname": [
+  "romanes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "romanes-mental-evolution-in-man-1888": [
+   50382,
+   "Mental Evolution in Man (Kegan Paul, 1888)"
+  ],
+  "romanes-darwin-after-darwin-v1": [
+   24800,
+   "Darwin, and After Darwin, vol. I (Open Court, fourth edition 1910)"
+  ],
+  "romanes-darwin-after-darwin-v2": [
+   37759,
+   "Darwin, and After Darwin, vol. II (Open Court, 1895; printing 1916)"
+  ],
+  "romanes-darwin-after-darwin-v3": [
+   37777,
+   "Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906)"
+  ],
+  "romanes-mind-motion-monism-1895": [
+   22283,
+   "Mind and Motion and Monism (Longmans, 1895)"
+  ],
+  "romanes-thoughts-on-religion-1895": [
+   16942,
+   "Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "romanes-mental-evolution-in-man-1888": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-darwin-after-darwin-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-darwin-after-darwin-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-darwin-after-darwin-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-mind-motion-monism-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-thoughts-on-religion-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

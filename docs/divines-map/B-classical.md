@@ -6161,6 +6161,12 @@ Shelf: `pipeline/george-romanes_shelf.json`. George John Romanes (1848-1894). Me
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Mental Evolution in Man (Kegan Paul, 1888) |  | `romanes-mental-evolution-in-man-1888` | have (PG 50382) |
+| Darwin, and After Darwin, vol. I (Open Court, fourth edition 1910) |  | `romanes-darwin-after-darwin-v1` | have (PG 24800) |
+| Darwin, and After Darwin, vol. II (Open Court, 1895; printing 1916) |  | `romanes-darwin-after-darwin-v2` | have (PG 37759) |
+| Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906) |  | `romanes-darwin-after-darwin-v3` | have (PG 37777) |
+| Mind and Motion and Monism (Longmans, 1895) |  | `romanes-mind-motion-monism-1895` | have (PG 22283) |
+| Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904) |  | `romanes-thoughts-on-religion-1895` | have (PG 16942) |
 
 Pending (wishlist): A Candid Examination of Theism (1878; PG 19003 would not download)
 
