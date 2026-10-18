@@ -7439,6 +7439,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | Aristotle's Treatise on Poetry, second edition, vol. II: the notes (London: Luke Hansard, 1812) | Thomas Twining | `aristotle-twining-poetry-1812-v2` | have-raw (IA `treatiseonpoetry02arisuoft`) |
 | Aristotle on the Parts of Animals, translated, with introduction and notes (London: Kegan Paul, Trench, 1882; not the Oxford translation of 1912 in vol. V) | W. Ogle | `aristotle-ogle-parts-of-animals-1882` | have-raw (IA `aristotleonparts00arisrich`) |
 | Aristotle on Youth and Old Age, Life and Death, and Respiration, translated, with introduction and notes (London: Longmans, Green, 1897) | W. Ogle | `aristotle-ogle-youth-old-age-1897` | have-raw (IA `aristotleonyouth00aris`) |
+| Aristotle on his Predecessors, being the first book of his Metaphysics (Chicago: Open Court, 1907) | A. E. Taylor | `aristotle-taylor-metaphysics-a-1907` | have-raw (IA `aristotlemetaphy00arisuoft`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears; Thomas Taylor's Treatises on the Soul (1808; the only scan found, IA `b22006874`, has an unreadable text layer past the title page); Poste's Sophistici Elenchi (1866; Greek facing, 0.59 clean, under the bar); Thomas Taylor's Works of Aristotle (1806-1812, 9 vols.; vol. I, the Organon, is scanned as IA `works00taylgoog`, but its title page OCR shows no legible year or name, so it is held).
 
@@ -13527,6 +13528,84 @@ Shelf: `pipeline/joseph-joubert_shelf.json`. Joseph Joubert (1754-1824). Attwell
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Pensées of Joubert, tr. Henry Attwell, second edition (George Allen, 1896) | Henry Attwell | `joubert-pensees-attwell-1896` | have-raw (IA `pensesjoubert00joubgoog`) |
+
+## Henry Jones (Glasgow idealist)
+
+Shelf: `pipeline/henry-jones_shelf.json`. Sir Henry Jones (1852-1922). Six books, 1891-1919, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Browning as a Philosophical and Religious Teacher (Maclehose, 1891; reprint 1912) |  | `jones-browning-philosophical-teacher-1891` | have-raw (IA `browningasphilos00joneuoft`) |
+| A Critical Account of the Philosophy of Lotze (Maclehose, 1895) |  | `jones-philosophy-of-lotze-1895` | have-raw (IA `criticalaccounto00jone`) |
+| Idealism as a Practical Creed (Maclehose, 1909) |  | `jones-idealism-practical-creed-1909` | have-raw (IA `idealismaspracti00jone`) |
+| The Working Faith of the Social Reformer (Macmillan, 1910) |  | `jones-working-faith-social-reformer-1910` | have-raw (IA `workingfaithofso00joneuoft`) |
+| Social Powers (Maclehose, 1913) |  | `jones-social-powers-1913` | have-raw (IA `socialpowersthre00joneiala`) |
+| The Principles of Citizenship (Macmillan, 1919) |  | `jones-principles-of-citizenship-1919` | have-raw (IA `principlescitiz00jonegoog`) |
+
+## John Watson (Kingston idealist)
+
+Shelf: `pipeline/john-watson-philosopher_shelf.json`. John Watson (1847-1939) of Queen's University, Kingston. Six books, 1881-1908, raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kant and his English Critics (Macmillan, 1881) |  | `watson-kant-english-critics-1881` | have-raw (IA `cihm_42631`) |
+| Comte, Mill, and Spencer (Maclehose, 1895) |  | `watson-comte-mill-spencer-1895` | have-raw (IA `comtemillspencer00wats`) |
+| Hedonistic Theories from Aristippus to Spencer (Maclehose, 1895) |  | `watson-hedonistic-theories-1895` | have-raw (IA `hedonistictheori0000wats`) |
+| Christianity and Idealism (Macmillan, 1897) |  | `watson-christianity-and-idealism-1897` | have-raw (IA `cu31924031275542`) |
+| The Philosophical Basis of Religion (Maclehose, 1907) |  | `watson-philosophical-basis-religion-1907` | have-raw (IA `philosophicalba00watsgoog`) |
+| The Philosophy of Kant Explained (Maclehose, 1908) |  | `watson-philosophy-of-kant-explained-1908` | have-raw (IA `philosophyofkant00wats`) |
+
+Pending (wishlist): The Interpretation of Religious Experience (Gifford Lectures, 1912, 2 vols.)
+
+## A. E. Taylor (idealist metaphysics)
+
+Shelf: `pipeline/a-e-taylor_shelf.json`. A. E. Taylor (1869-1945). Problem of Conduct, Elements of Metaphysics, Hobbes, Aristotle; raw IA OCR. Plato (Constable) held: no printed year.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Problem of Conduct (Macmillan, 1901) |  | `taylor-problem-of-conduct-1901` | have-raw (IA `theproblemofcond00tayluoft`) |
+| Elements of Metaphysics (Methuen, 1903; fourth edition 1915) |  | `taylor-elements-of-metaphysics-1903` | have-raw (IA `elementsofmetaph0000tayl`) |
+| Thomas Hobbes (Constable, 1908) |  | `taylor-thomas-hobbes-1908` | have-raw (IA `thomashobbes00tayluoft`) |
+| Aristotle, revised edition (The People's Books, 1919) |  | `taylor-aristotle-1919` | have-raw (IA `aristotle00tayluoft`) |
+
+Pending (wishlist): Plato (Constable, 1908) with a dated copy
+
+## Harold H. Joachim (Spinoza, truth)
+
+Shelf: `pipeline/h-h-joachim_shelf.json`. Harold H. Joachim (1868-1938). Ethics of Spinoza (1901), Nature of Truth (1906), inaugural lecture (1919); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Study of the Ethics of Spinoza (Clarendon, 1901) |  | `joachim-ethics-of-spinoza-1901` | have-raw (IA `ethicsofspinoza00joacuoft`) |
+| The Nature of Truth (Clarendon, 1906) |  | `joachim-nature-of-truth-1906` | have-raw (IA `bwb_O6-CUZ-729`) |
+| Immediate Experience and Mediation (Clarendon, 1919) |  | `joachim-immediate-experience-1919` | have-raw (IA `immediateexperie00joacrich`) |
+
+## J. H. Muirhead (ethics, Green)
+
+Shelf: `pipeline/j-h-muirhead_shelf.json`. J. H. Muirhead (1855-1940). Elements of Ethics, Chapters from Aristotle's Ethics, Philosophy and Life, Service of the State; raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Elements of Ethics (Murray, 1892) |  | `muirhead-elements-of-ethics-1892` | have-raw (IA `elementsofetauto00muiruoft`) |
+| Chapters from Aristotle's Ethics (Murray, 1900) |  | `muirhead-chapters-aristotle-ethics-1900` | have-raw (IA `chaptersaristotl00muiruoft`) |
+| Philosophy and Life (Sonnenschein, 1902) |  | `muirhead-philosophy-and-life-1902` | have-raw (IA `philosophylifeot00muirrich`) |
+| The Service of the State (Murray, 1908) |  | `muirhead-service-of-the-state-1908` | have-raw (IA `serviceofstatefo00muiruoft`) |
+
+## H. A. Prichard (Kant)
+
+Shelf: `pipeline/h-a-prichard_shelf.json`. H. A. Prichard (1871-1947). Kant's Theory of Knowledge (1909), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Kant's Theory of Knowledge (Clarendon, 1909) |  | `prichard-kants-theory-of-knowledge-1909` | have-raw (IA `kantknowledge00pricuoft`) |
+
+## E. F. Carritt (aesthetics)
+
+Shelf: `pipeline/e-f-carritt_shelf.json`. E. F. Carritt (1876-1964). The Theory of Beauty (1914), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Beauty (Methuen, 1914) |  | `carritt-theory-of-beauty-1914` | have-raw (IA `cu31924031230356`) |
 
 ## Perseus census (overflow)
 

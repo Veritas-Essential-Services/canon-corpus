@@ -1169,3 +1169,14 @@
 - benjamin-kidd: Principles of Western Civilisation (1902)
 - joseph-story: Conflict of Laws, first edition (1834)
 - j-r-seeley: Introduction to Political Science (1896; 1908 reprint)
+
+## 2026-10-17 20:48 CDT — Round 2026-10-17bh: British idealists and Oxford realists
+- henry-jones: 6 books (1891-1919)
+- john-watson-philosopher: 6 books (1881-1908)
+- a-e-taylor: Problem of Conduct, Elements of Metaphysics, Hobbes, Aristotle
+- h-h-joachim: Spinoza, Nature of Truth, inaugural lecture
+- j-h-muirhead: 4 books (1892-1908)
+- h-a-prichard: Kant's Theory of Knowledge
+- e-f-carritt: The Theory of Beauty
+- aristotle: Taylor's Metaphysics A (1907)
+- Held: Taylor's Plato (no printed year)
