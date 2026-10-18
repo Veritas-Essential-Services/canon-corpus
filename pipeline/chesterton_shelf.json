@@ -9,13 +9,6 @@
  ],
  "ccel": {},
  "gutenberg": {
-  "chesterton-orthodoxy": [
-   130,
-   "Orthodoxy",
-   {
-    "contents_only": true
-   }
-  ],
   "chesterton-innocence-of-father-brown": [
    204,
    "The innocence of Father Brown"
@@ -121,7 +114,8 @@
  "_excluded": {
   "pg-58032": "PG 58032: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 16769: second Gutenberg editions of titles already on the shelf.",
-  "held-elsewhere": "PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+  "held-elsewhere": "PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "130": "Orthodoxy: main already holds it (fetch_sources.py chesterton-orthodoxy, from CCEL). Not fetched twice."
  },
  "_checks": {
   "chesterton-orthodoxy": {
