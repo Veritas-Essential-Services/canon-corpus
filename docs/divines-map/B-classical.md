@@ -6245,6 +6245,7 @@ Shelf: `pipeline/vladimir-soloviev_shelf.json`. Vladimir Solovyov (1853-1900). W
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| War and Christianity: Three Conversations (Constable, 1915) | Edward Cazalet, W. J. Barnes and H. H. Haynes | `soloviev-war-and-christianity-1915` | have-raw (IA `warchristianityf0000solo`) |
 
 Pending (wishlist): The Justification of the Good, tr. Duddington (1918)
 
