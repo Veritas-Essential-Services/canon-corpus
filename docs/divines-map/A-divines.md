@@ -7139,3 +7139,16 @@ Slugs `jtbeck-*`. Biblical Psychology and Pastoral Theology in English.
 | Pastoral Theology of the New Testament, tr. James A. M'Clymont and Thomas Nicol (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `pastoraltheology00beck` |
 | Other 1885 Pastoral Theology copies | alternate | not shelved |
 | German works | excluded | |
+
+## Gustav Warneck (round 31, my pick, 2026-10-18)
+
+Slugs `warneck-*`. Modern Missions and Culture and the History of Protestant Missions in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Modern Missions and Culture: their Mutual Relations, tr. Thomas Smith (Edinburgh: James Gemmell, 1883) | have-ocr | IA `modernmissionsa00warngoog` |
+| Outline of the History of Protestant Missions from the Reformation to the Present Time, tr. Thomas Smith (Edinburgh: James Gemmell, 1884) | have-ocr | IA `outlineofhistory0000warn_l2c4` |
+| Outline of a History of Protestant Missions, authorised translation from the seventh German edition, ed. George Robson (Edinburgh and London: Oliphant Anderson & Ferrier, 1901) | have-ocr | IA `outlineofhistory00warn_0` |
+| Modern Missions and Culture new edition (1888); Revell issues of 1901 and 1906 | alternate | not shelved |
+| The Living Forces of the Gospel (1909): by his son Johannes Warneck, not Gustav | excluded | |
+| isbn_9781146427760, a modern reprint; a German Abriss catalogued in English | excluded | |
