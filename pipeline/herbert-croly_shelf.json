@@ -1,0 +1,48 @@
+{
+ "_about": "Herbert Croly (1869-1930), American progressive political philosopher, founding editor of The New Republic. Gutenberg: The Promise of American Life (1909). Raw IA OCR: Progressive Democracy (New York: Macmillan, 1914), clean 0.95. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Herbert Croly",
+ "_name_words": [
+  "herbert",
+  "david",
+  "croly"
+ ],
+ "_surname": [
+  "croly"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "croly-promise-of-american-life": [
+   14422,
+   "The Promise of American Life (1909)"
+  ]
+ },
+ "internet_archive": {
+  "croly-progressive-democracy-1914": [
+   "progressivedemoc00croluoft",
+   "Progressive Democracy (Macmillan, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "croly-promise-of-american-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "croly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "croly-progressive-democracy-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "croly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

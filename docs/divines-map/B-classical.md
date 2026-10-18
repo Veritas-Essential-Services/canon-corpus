@@ -7153,6 +7153,8 @@ Shelf: `pipeline/herbert-croly_shelf.json`. Two books, 1909-1914.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Promise of American Life (1909) |  | `croly-promise-of-american-life` | have (PG 14422) |
+| Progressive Democracy (Macmillan, 1914) |  | `croly-progressive-democracy-1914` | have-raw (IA `progressivedemoc00croluoft`) |
 
 ## Randolph Bourne (essays in social criticism)
 
