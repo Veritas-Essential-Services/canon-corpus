@@ -5698,6 +5698,7 @@ Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What So
 |---|---|---|---|
 | Folkways (Ginn, 1906) |  | `sumner-folkways-1906` | have (PG 24253) |
 | The Forgotten Man and Other Essays, ed. A. G. Keller (Yale, 1919) |  | `sumner-forgotten-man-keller-1919` | have (PG 65693) |
+| What Social Classes Owe to Each Other (Harper, 1883) |  | `sumner-what-social-classes-owe-1883` | have-raw (IA `whatsocialclasse00sumnrich`) |
 
 ## Frederic Bastiat (anonymous translations)
 
