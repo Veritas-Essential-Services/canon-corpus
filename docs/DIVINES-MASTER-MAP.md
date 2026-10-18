@@ -29389,6 +29389,39 @@ Shelf: `pipeline/joseph-conrad_shelf.json` (2026-10-17; added at the coordinator
 | held-elsewhere | excluded | PG 219: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-526 | excluded | PG 526 Heart of Darkness: a second edition; the Adler shelf holds the tale (PG 219). |
 
+## G. K. Chesterton
+
+Shelf: `pipeline/chesterton_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Orthodoxy | have | PG 130, `chesterton-orthodoxy` (248 units) |
+| The innocence of Father Brown | have | PG 204, `chesterton-innocence-of-father-brown` (1425 units) |
+| The wisdom of Father Brown | have | PG 223, `chesterton-wisdom-of-father-brown` (1161 units) |
+| Heretics | have | PG 470, `chesterton-heretics` (252 units) |
+| The Man Who Was Thursday: A Nightmare | have | PG 1695, `chesterton-man-who-was-thursday` (1260 units) |
+| What's Wrong with the World | have | PG 1717, `chesterton-whats-wrong-with-the-world` (284 units) |
+| Manalive | have | PG 1718, `chesterton-manalive` (904 units) |
+| The Ballad of the White Horse | have | PG 1719, `chesterton-ballad-of-the-white-horse` (543 units) |
+| The Man Who Knew Too Much | have | PG 1720, `chesterton-man-who-knew-too-much` (1009 units) |
+| The Trees of Pride | have | PG 1721, `chesterton-trees-of-pride` (381 units) |
+| The Ball and the Cross | have | PG 5265, `chesterton-ball-and-the-cross` (1523 units) |
+| Tremendous Trifles | have | PG 8092, `chesterton-tremendous-trifles` (567 units) |
+| All Things Considered | have | PG 11505, `chesterton-all-things-considered` (256 units) |
+| The Defendant | have | PG 12245, `chesterton-defendant` (164 units) |
+| The Victorian Age in Literature | have | PG 18639, `chesterton-victorian-age-in-literature` (197 units) |
+| Magic A Fantastic Comedy | have | PG 19094, `chesterton-magic-a-fantastic-comedy` (671 units) |
+| The Napoleon of Notting Hill | have | PG 20058, `chesterton-napoleon-of-notting-hill` (1157 units) |
+| A Short History of England | have | PG 20897, `chesterton-a-short-history-of-england` (214 units) |
+| Eugenics and Other Evils | have | PG 25308, `chesterton-eugenics-and-other-evils` (384 units) |
+| What I Saw in America | have | PG 27250, `chesterton-what-i-saw-in-america` (321 units) |
+| The Superstition of Divorce | have | PG 62680, `chesterton-superstition-of-divorce` (87 units) |
+| The Everlasting Man | have | PG 65688, `chesterton-everlasting-man` (318 units) |
+| Tales of the Long Bow | have | PG 69185, `chesterton-tales-of-the-long-bow` (1019 units) |
+| pg-58032 | excluded | PG 58032: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 16769: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

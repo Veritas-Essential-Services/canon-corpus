@@ -1,0 +1,335 @@
+{
+ "_about": "G. K. Chesterton's novels, Father Brown stories, essays and poems not already held through fetch_sources.py or another shelf: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "G. K. Chesterton",
+ "_name_words": [
+  "chesterton"
+ ],
+ "_surname": [
+  "g. k. chesterton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "chesterton-orthodoxy": [
+   130,
+   "Orthodoxy",
+   {
+    "contents_only": true
+   }
+  ],
+  "chesterton-innocence-of-father-brown": [
+   204,
+   "The innocence of Father Brown"
+  ],
+  "chesterton-wisdom-of-father-brown": [
+   223,
+   "The wisdom of Father Brown"
+  ],
+  "chesterton-heretics": [
+   470,
+   "Heretics",
+   {
+    "contents_only": true
+   }
+  ],
+  "chesterton-man-who-was-thursday": [
+   1695,
+   "The Man Who Was Thursday: A Nightmare"
+  ],
+  "chesterton-whats-wrong-with-the-world": [
+   1717,
+   "What's Wrong with the World"
+  ],
+  "chesterton-manalive": [
+   1718,
+   "Manalive"
+  ],
+  "chesterton-ballad-of-the-white-horse": [
+   1719,
+   "The Ballad of the White Horse"
+  ],
+  "chesterton-man-who-knew-too-much": [
+   1720,
+   "The Man Who Knew Too Much"
+  ],
+  "chesterton-trees-of-pride": [
+   1721,
+   "The Trees of Pride"
+  ],
+  "chesterton-ball-and-the-cross": [
+   5265,
+   "The Ball and the Cross"
+  ],
+  "chesterton-tremendous-trifles": [
+   8092,
+   "Tremendous Trifles"
+  ],
+  "chesterton-all-things-considered": [
+   11505,
+   "All Things Considered"
+  ],
+  "chesterton-defendant": [
+   12245,
+   "The Defendant"
+  ],
+  "chesterton-victorian-age-in-literature": [
+   18639,
+   "The Victorian Age in Literature"
+  ],
+  "chesterton-magic-a-fantastic-comedy": [
+   19094,
+   "Magic A Fantastic Comedy"
+  ],
+  "chesterton-napoleon-of-notting-hill": [
+   20058,
+   "The Napoleon of Notting Hill"
+  ],
+  "chesterton-a-short-history-of-england": [
+   20897,
+   "A Short History of England",
+   {
+    "contents_only": true
+   }
+  ],
+  "chesterton-eugenics-and-other-evils": [
+   25308,
+   "Eugenics and Other Evils"
+  ],
+  "chesterton-what-i-saw-in-america": [
+   27250,
+   "What I Saw in America",
+   {
+    "contents_only": true
+   }
+  ],
+  "chesterton-superstition-of-divorce": [
+   62680,
+   "The Superstition of Divorce"
+  ],
+  "chesterton-everlasting-man": [
+   65688,
+   "The Everlasting Man"
+  ],
+  "chesterton-tales-of-the-long-bow": [
+   69185,
+   "Tales of the Long Bow",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58032": "PG 58032: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 16769: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "chesterton-orthodoxy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-innocence-of-father-brown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-wisdom-of-father-brown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-heretics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-man-who-was-thursday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-whats-wrong-with-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-manalive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-ballad-of-the-white-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-man-who-knew-too-much": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-trees-of-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-ball-and-the-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-tremendous-trifles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-all-things-considered": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-defendant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-victorian-age-in-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-magic-a-fantastic-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-napoleon-of-notting-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-a-short-history-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-eugenics-and-other-evils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-what-i-saw-in-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-superstition-of-divorce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-everlasting-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chesterton-tales-of-the-long-bow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. k. chesterton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -2837,6 +2837,14 @@
       "started": "2026-10-17T19:32:34-05:00",
       "finished": "2026-10-17T19:32:34-05:00",
       "notes": "joseph-conrad: new shelf, 36 Gutenberg books, 36,820 units, 4488 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "chesterton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — G. K. Chesterton; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:32:35-05:00",
+      "finished": "2026-10-17T19:32:35-05:00",
+      "notes": "chesterton: new shelf, 23 Gutenberg books, 14,345 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
