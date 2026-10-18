@@ -6849,6 +6849,13 @@ Shelf: `pipeline/e-b-titchener_shelf.json`. Seven books, 1896-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Beginner's Psychology |  | `titchener-beginners-psychology` | have (PG 51442) |
+| An Outline of Psychology (Macmillan, 1896) |  | `titchener-outline-of-psychology-1896` | have-raw (IA `anoutlinepsycho04titcgoog`) |
+| A Primer of Psychology, rev. ed. (Macmillan; 1906 printing) |  | `titchener-primer-of-psychology-1898` | have-raw (IA `primerpsycholog05titcgoog`) |
+| Lectures on the Elementary Psychology of Feeling and Attention (Macmillan, 1908) |  | `titchener-feeling-and-attention-1908` | have-raw (IA `in.ernet.dli.2015.84700`) |
+| Lectures on the Experimental Psychology of the Thought-Processes (Macmillan, 1909) |  | `titchener-thought-processes-1909` | have-raw (IA `lecturesonexper00goog`) |
+| A Text-Book of Psychology (Macmillan, 1910; 1916 printing) |  | `titchener-text-book-of-psychology-1910` | have-raw (IA `textbookofpsycho00titc`) |
+| Systematic Psychology: Prolegomena (Macmillan, 1929) |  | `titchener-systematic-psychology-1929` | have-raw (IA `in.ernet.dli.2015.248073`) |
 
 Pending (wishlist): Experimental Psychology: A Manual of Laboratory Practice (1901-05, 4 vols.)
 

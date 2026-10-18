@@ -1,0 +1,123 @@
+{
+ "_about": "Edward Bradford Titchener (1867-1927), English-born Cornell psychologist and founder of structuralism. Gutenberg: A Beginner's Psychology (1915). Raw IA OCR: An Outline of Psychology (New York: Macmillan, 1896), clean 0.91; A Primer of Psychology (copyright 1898; this copy the revised edition, 1906 printing), clean 0.89; Lectures on the Elementary Psychology of Feeling and Attention (New York: Macmillan, 1908), clean 0.85; Lectures on the Experimental Psychology of the Thought-Processes (New York: Macmillan, 1909), clean 0.87; A Text-Book of Psychology (copyright 1909-10; this copy New York: Macmillan, 1916), clean 0.91; Systematic Psychology: Prolegomena, posthumous, edited by H. P. Weld (New York: Macmillan, published June 1929), clean 0.87. His translations of Külpe and Wundt are on those shelves. US public domain. No uids minted.",
+ "_author": "Edward Bradford Titchener",
+ "_name_words": [
+  "edward",
+  "bradford",
+  "titchener"
+ ],
+ "_surname": [
+  "titchener"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "titchener-beginners-psychology": [
+   51442,
+   "A Beginner's Psychology"
+  ]
+ },
+ "internet_archive": {
+  "titchener-outline-of-psychology-1896": [
+   "anoutlinepsycho04titcgoog",
+   "An Outline of Psychology (Macmillan, 1896)"
+  ],
+  "titchener-primer-of-psychology-1898": [
+   "primerpsycholog05titcgoog",
+   "A Primer of Psychology, rev. ed. (Macmillan; 1906 printing)"
+  ],
+  "titchener-feeling-and-attention-1908": [
+   "in.ernet.dli.2015.84700",
+   "Lectures on the Elementary Psychology of Feeling and Attention (Macmillan, 1908)"
+  ],
+  "titchener-thought-processes-1909": [
+   "lecturesonexper00goog",
+   "Lectures on the Experimental Psychology of the Thought-Processes (Macmillan, 1909)"
+  ],
+  "titchener-text-book-of-psychology-1910": [
+   "textbookofpsycho00titc",
+   "A Text-Book of Psychology (Macmillan, 1910; 1916 printing)"
+  ],
+  "titchener-systematic-psychology-1929": [
+   "in.ernet.dli.2015.248073",
+   "Systematic Psychology: Prolegomena (Macmillan, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "titchener-beginners-psychology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "titchener-outline-of-psychology-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "titchener-primer-of-psychology-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "titchener-feeling-and-attention-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "titchener-thought-processes-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "titchener-text-book-of-psychology-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916, c1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "titchener-systematic-psychology-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "titchener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
