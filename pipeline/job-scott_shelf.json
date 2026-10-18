@@ -1,0 +1,110 @@
+{
+ "_about": "Public-domain Job Scott (1751-1793), Quaker minister of Providence, Rhode Island, for the Word Hoard: his Journal (New York, 1797), his Works (Philadelphia, 1831, two volumes), The Baptism of Christ a Gospel Ordinance (Providence, 1793) and Essays on Salvation by Christ (1894), from Internet Archive scans. Not Thomas Scott or Walter Scott. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "job",
+  "scott"
+ ],
+ "_surname": [
+  "job scott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jobscott-journal-1797": [
+   "journaloflifetra00scot_1",
+   "Journal of the Life, Travels and Gospel Labours of that faithful servant and minister of Christ, Job Scott (New York: Isaac Collins, 1797)"
+  ],
+  "jobscott-works-1": [
+   "worksofthatemine01scot",
+   "The Works of that eminent minister of the Gospel, Job Scott, late of Providence, Rhode Island, vol. I (Philadelphia: John Comly, 1831)"
+  ],
+  "jobscott-works-2": [
+   "worksofthatemine02scot",
+   "The Works of Job Scott, vol. II (Philadelphia: John Comly, 1831)"
+  ],
+  "jobscott-baptism-1793": [
+   "baptismofchristg00scot_0",
+   "The Baptism of Christ a Gospel Ordinance, being altogether inward and spiritual (Providence: J. Carter, 1793)"
+  ],
+  "jobscott-essays-salvation": [
+   "essaysonsalvati00scotgoog",
+   "Essays on Salvation by Christ (Philadelphia: Friends' Book Association, 1894)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "jobscott-essays-salvation": {
+   "author": "title page read: 'by that faithful Servant and Minister of Christ Job Scott, of Providence, Rhode Island' (OCR 'JCB ,§JpOTT')"
+  },
+  "jobscott-baptism-1793": {
+   "author": "title page read: 'By JOB SCOTT' (OCR 'J 0 B SCOTT')"
+  }
+ },
+ "_rights_checked": {
+  "jobscott-works-1": "title page read: Comly appears only as publisher (the catalogue calls him editor); year OCR'd '183L'"
+ },
+ "_pending": {
+  "jobscott-reprints": "The London 1797 and Dublin 1798 reprints of the Journal: title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "jobscott-journal-1797": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "job scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jobscott-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "job scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Comly appears only as publisher (the catalogue calls him editor); year OCR'd '183L'"
+  },
+  "jobscott-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "job scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jobscott-baptism-1793": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jobscott-essays-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "job scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

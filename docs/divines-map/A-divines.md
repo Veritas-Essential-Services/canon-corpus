@@ -8051,3 +8051,15 @@ Slugs `ehicks-*`. Built from title pages read for round 34.
 | Letters of Elias Hicks, including also a few short essays (New York: Isaac T. Hopper, 1834) | have-ocr | IA `letterseliashic00hickgoog` |
 | Observations on the Slavery of the Africans and their Descendants (New York: Samuel Wood, 1814) | have-ocr | IA `observationsonsl00hick` |
 | Replies to and reviews of his doctrine by opponents; Wilbur's Life and Labors (PG 50374); The Quaker (1827) and other many-speaker volumes | excluded | |
+
+## Job Scott (round 34, my pick, 2026-10-18)
+
+Slugs `jobscott-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Journal of the Life, Travels and Gospel Labours of that faithful servant and minister of Christ, Job Scott (New York: Isaac Collins, 1797) | have-ocr | IA `journaloflifetra00scot_1` |
+| The Works of that eminent minister of the Gospel, Job Scott, late of Providence, Rhode Island, vol. I (Philadelphia: John Comly, 1831) | have-ocr | IA `worksofthatemine01scot` |
+| The Works of Job Scott, vol. II (Philadelphia: John Comly, 1831) | have-ocr | IA `worksofthatemine02scot` |
+| The Baptism of Christ a Gospel Ordinance, being altogether inward and spiritual (Providence: J. Carter, 1793) | have-ocr | IA `baptismofchristg00scot_0` |
+| Essays on Salvation by Christ (Philadelphia: Friends' Book Association, 1894) | have-ocr | IA `essaysonsalvati00scotgoog` |
