@@ -18493,16 +18493,20 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-1` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 1 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 28072 |
 | `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-2` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 2 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 71842 |
 
-## W. G. Waters (Montaigne's Journal of Travels in Italy, 3 vols)
+## W. G. Waters (Montaigne's Journal of Travels in Italy, 3 vols; Masuccio's Novellino, 2 vols; Ser Giovanni's Pecorone; the Vespasiano Memoirs, with Emily Waters)
 
 Shelf: `pipeline/ww-waters_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ww-waters` · titles `python3 pipeline/split_shelf_titles.py ww-waters`.
-Round 29 (2026-10-10), vetoable. Straparola stays on its own shelf. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Straparola stays on its own shelf. Round 106 (2026-10-17) added 4 period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `ww-waters-montaigne-journal-of-travels-vol-1` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 1 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70838 |
 | `ww-waters-montaigne-journal-of-travels-vol-2` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 2 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70839 |
 | `ww-waters-montaigne-journal-of-travels-vol-3` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 3 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70840 |
+| `ww-waters-masuccio-novellino-vol-1` | Masuccio Salernitano | The Novellino of Masuccio, vol. I | W. G. Waters | 1895 | have-raw | IA `novellinoofmasuc01masuuoft` |
+| `ww-waters-masuccio-novellino-vol-2` | Masuccio Salernitano | The Novellino of Masuccio, vol. II | W. G. Waters | 1895 | have-raw | IA `novellinoofmasuc02masuuoft` |
+| `ww-waters-giovanni-fiorentino-pecorone` | Ser Giovanni Fiorentino | The Pecorone of Ser Giovanni | W. G. Waters | 1897 | have-raw | IA `pecoroneofsergio00giovrich` |
+| `ww-waters-vespasiano-memoirs` | Vespasiano da Bisticci | The Vespasiano Memoirs: Lives of Illustrious Men of the XVth Century | William George and Emily Waters | 1926 | have-raw | IA `bwb_KU-141-980` |
 | — | — | pg-75257: The Nights of Straparola is on straparola_shelf.json. | — | — | excluded | — |
 
 ## Edna Worthley Underwood (Hafiz; Mickiewicz's Crimean Sonnets; Balkan and foreign stories)
@@ -18584,16 +18588,17 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `guerney-kuprin-sulamith-a-romance-of-antiquity` | A. I. (Aleksandr Ivanovich) Kuprin | Sulamith: A Romance of Antiquity | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 33444 |
 | `guerney-kuprin-yama-the-pit-a-novel-in-three-parts` | A. I. (Aleksandr Ivanovich) Kuprin | Yama [The Pit], a Novel in Three Parts | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 4706 |
 
-## Else C. M. Benecke (three volumes of Polish tales)
+## Else C. M. Benecke (three volumes of Polish tales; the Chronicle of Dino Compagni, with A. G. Ferrers Howell)
 
 Shelf: `pipeline/benecke_shelf.json` · fetch `python3 pipeline/fetch_shelf.py benecke` · titles `python3 pipeline/split_shelf_titles.py benecke`.
-Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 reprint of the 1921 text: flagged. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 reprint of the 1921 text: flagged. Round 106 (2026-10-17) added the Compagni from a 1906 archive.org scan. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `benecke-more-tales-by-polish-authors` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | More Tales by Polish Authors | Else C. M. Benecke (with Marie Busch) | 1915-1921 (see the Gutenberg header) | have | PG 35457 |
 | `benecke-selected-polish-tales` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | Selected Polish Tales | Else C. M. Benecke (with Marie Busch) | 1915-1921 (see the Gutenberg header) | have | PG 8378 |
 | `benecke-tales-by-polish-authors` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | Tales by Polish Authors | Else C. M. Benecke | 1915-1921 (see the Gutenberg header) | have | PG 35456 |
+| `benecke-compagni-chronicle` | Dino Compagni | The Chronicle of Dino Compagni | Else C. M. Benecke and A. G. Ferrers Howell | 1906 | have-raw | IA `chronicleofdinoc00comp` |
 
 ## H. T. Lowe-Porter (Mann's Buddenbrooks, 2 vols; Three Essays)
 
@@ -19552,15 +19557,16 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `adler-stern-auerbach-on-the-heights-a-novel` | Berthold Auerbach | On the Heights: A Novel | S. A. Stern | 1867-1874 (see the Gutenberg header) | have | PG 33294 |
 | `adler-stern-auerbach-waldfried-a-novel` | Berthold Auerbach | Waldfried: A Novel | S. A. Stern | 1867-1874 (see the Gutenberg header) | have | PG 32446 |
 
-## Mary G. Steegmann (Deledda's The Woman and the Priest; The Mother)
+## Mary G. Steegmann (Deledda's The Woman and the Priest; The Mother; Tales from Sacchetti)
 
 Shelf: `pipeline/steegmann_shelf.json` · fetch `python3 pipeline/fetch_shelf.py steegmann` · titles `python3 pipeline/split_shelf_titles.py steegmann`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 106 (2026-10-17) added Tales from Sacchetti from a 1908 archive.org scan. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `steegmann-deledda-the-mother` | Grazia Deledda | The mother | Mary G. Steegmann | 1922-1923 (see the Gutenberg header) | have | PG 77111 |
 | `steegmann-deledda-the-woman-the-priest` | Grazia Deledda | The Woman & the Priest | Mary G. Steegmann | 1922-1923 (see the Gutenberg header) | have | PG 53918 |
+| `steegmann-sacchetti-tales` | Franco Sacchetti | Tales from Sacchetti | Mary G. Steegmann | 1908 | have-raw | IA `talesfromsacchet00sacciala` |
 
 ## Wolf von Schierbrand (Keller's Seldwyla Folks; Bilse)
 

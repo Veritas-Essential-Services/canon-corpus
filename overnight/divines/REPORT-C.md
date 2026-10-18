@@ -286,3 +286,5 @@
 - 2026-10-17T22:07-05:00: round 104: lady-wallace +11 (now 19). --verify --record 0 mismatched. lwa-nohl-life-of-mozart-vol-2 identity override (OCR 'WALLACK').
 
 - 2026-10-17T22:17-05:00: round 105: italian-classics +17 (now 32). --verify --record 0 mismatched. Identity overrides: Guicciardini vols 2, 3, 5 (Goddard OCR), Magenis vol 1.
+
+- 2026-10-17T22:22-05:00: round 106: ww-waters +4 (now 7), benecke +1 (now 4), steegmann +1 (now 3). --verify --record 0 mismatched.

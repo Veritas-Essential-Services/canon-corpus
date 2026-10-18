@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mary G. Steegmann: Grazia Deledda's The Woman and the Priest (1922) and The Mother (1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary G. Steegmann: Grazia Deledda's The Woman and the Priest (1922) and The Mother (1923), and Tales from Sacchetti (1908), added in round 106. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "mary g. steegmann",
   "steegmann"
@@ -20,7 +20,12 @@
    "The mother"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mst-sacchetti-tales": [
+   "talesfromsacchet00sacciala",
+   "Tales from Sacchetti (1908)"
+  ]
+ },
  "titles": {
   "steegmann-deledda-the-mother": {
    "source": "mst-77111",
@@ -37,6 +42,14 @@
    "translated": "1922-1923 (see the Gutenberg header)",
    "translator": "Mary G. Steegmann",
    "scan_edition": "Project Gutenberg 53918 (clean text)"
+  },
+  "steegmann-sacchetti-tales": {
+   "source": "mst-sacchetti-tales",
+   "of": "Franco Sacchetti",
+   "work": "Tales from Sacchetti",
+   "translated": 1908,
+   "translator": "Mary G. Steegmann",
+   "scan_edition": "J. M. Dent, London 1908, with an introduction by Guido Biagi; archive.org scan"
   }
  },
  "_pending": {},
@@ -60,6 +73,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mary G. Steegmann"
+  },
+  "mst-sacchetti-tales": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary g. steegmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +96,14 @@
    "pg": 77111,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mary G. Steegmann"
+  },
+  "mst-sacchetti-tales": {
+   "ia": "talesfromsacchet00sacciala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

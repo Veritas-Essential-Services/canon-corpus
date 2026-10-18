@@ -1,5 +1,5 @@
 {
-  "_about": "TRANSLATOR SHELF: Else C. M. Benecke (1873-1917): Tales by Polish Authors (Blackwell, 1915), More Tales by Polish Authors (1916) and Selected Polish Tales: Sienkiewicz, Prus, Żeromski, Reymont and others. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+  "_about": "TRANSLATOR SHELF: Else C. M. Benecke (1873-1917): Tales by Polish Authors (Blackwell, 1915), More Tales by Polish Authors (1916) and Selected Polish Tales: Sienkiewicz, Prus, Żeromski, Reymont and others; and, with A. G. Ferrers Howell, The Chronicle of Dino Compagni (Temple Classics, 1906), added in round 106. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
   "_name_words": [
     "else c. m. benecke",
     "benecke"
@@ -24,7 +24,12 @@
       "Selected Polish Tales"
     ]
   },
-  "internet_archive": {},
+  "internet_archive": {
+    "ben-compagni-chronicle": [
+      "chronicleofdinoc00comp",
+      "The Chronicle of Dino Compagni (1906)"
+    ]
+  },
   "titles": {
     "benecke-more-tales-by-polish-authors": {
       "source": "ben-35457",
@@ -50,6 +55,15 @@
       "translated": "1915-1921 (see the Gutenberg header)",
       "translator": "Else C. M. Benecke",
       "scan_edition": "Project Gutenberg 35456 (clean text)"
+    },
+    "benecke-compagni-chronicle": {
+      "source": "ben-compagni-chronicle",
+      "of": "Dino Compagni",
+      "work": "The Chronicle of Dino Compagni",
+      "translated": 1906,
+      "translator": "Else C. M. Benecke and A. G. Ferrers Howell",
+      "scan_edition": "J. M. Dent, Temple Classics, London 1906; archive.org scan",
+      "note": "Translated with A. G. Ferrers Howell, whose Dante work is on the wicksteed shelf."
     }
   },
   "_pending": {},
@@ -82,6 +96,17 @@
       "identity": "ok",
       "pg_copyrighted": false,
       "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-compagni-chronicle": {
+      "kind": "ia",
+      "checked": "2026-10-18",
+      "name_check": "surname",
+      "author_seen": "benecke",
+      "identity": "ok",
+      "ia_rights": "ok: published 1906",
+      "ia_date": "1906",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
     }
   },
   "_verified": {
@@ -99,6 +124,15 @@
       "pg": 8378,
       "pg_copyrighted_marker": false,
       "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-compagni-chronicle": {
+      "ia": "chronicleofdinoc00comp",
+      "translator_named_in_first_30k": true,
+      "years_in_front_15k": [
+        1726,
+        1800
+      ],
+      "post_1930_years_in_front_15k": []
     }
   },
   "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

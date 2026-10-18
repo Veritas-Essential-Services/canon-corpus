@@ -3808,6 +3808,14 @@
       "finished": "2026-10-17T22:17-05:00",
       "scope": "GAP-FILL (round 105, lane C's choice; Adam may veto) -- italian-classics; PD printings before 1931 only; no minting",
       "notes": "+17 titles (now 32); ids checked across all branches. See DIGEST-C round 105. No uids minted."
+    },
+    {
+      "id": "round106-waters-benecke-steegmann",
+      "status": "done",
+      "started": "2026-10-17T22:21-05:00",
+      "finished": "2026-10-17T22:22-05:00",
+      "scope": "GAP-FILL (round 106, lane C's choice; Adam may veto) -- ww-waters, benecke, steegmann; PD printings before 1931 only; no minting",
+      "notes": "+6 titles (ww-waters +4, benecke +1, steegmann +1); ids checked across all branches. See DIGEST-C round 106. No uids minted."
     }
   ]
 }

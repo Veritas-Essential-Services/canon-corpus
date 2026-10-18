@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: W. G. Waters (1844-1928): The Journal of Montaigne's Travels in Italy (John Murray, 1903, 3 vols). His Straparola is on straparola_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: W. G. Waters (1844-1928): The Journal of Montaigne's Travels in Italy (John Murray, 1903, 3 vols), Masuccio's Novellino (1895, 2 vols), Ser Giovanni's Pecorone (1897) and, with Emily Waters, the Vespasiano Memoirs (1926); the last four added in round 106 from period archive.org scans. His Straparola is on straparola_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
  "_name_words": [
+  "emily waters",
   "w. g. waters",
   "william george waters"
  ],
  "_surname": [
+  "emily waters",
   "w. g. waters",
   "william george waters"
  ],
@@ -24,7 +26,24 @@
    "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 3 (of 3)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wgw-masuccio-novellino-vol-1": [
+   "novellinoofmasuc01masuuoft",
+   "The Novellino of Masuccio, vol. I (1895)"
+  ],
+  "wgw-masuccio-novellino-vol-2": [
+   "novellinoofmasuc02masuuoft",
+   "The Novellino of Masuccio, vol. II (1895)"
+  ],
+  "wgw-giovanni-fiorentino-pecorone": [
+   "pecoroneofsergio00giovrich",
+   "The Pecorone of Ser Giovanni (1897)"
+  ],
+  "wgw-vespasiano-memoirs": [
+   "bwb_KU-141-980",
+   "The Vespasiano Memoirs: Lives of Illustrious Men of the XVth Century (1926)"
+  ]
+ },
  "titles": {
   "ww-waters-montaigne-journal-of-travels-vol-1": {
    "source": "wgw-70838",
@@ -49,6 +68,41 @@
    "translated": "1903 (see the Gutenberg header)",
    "translator": "W. G. Waters",
    "scan_edition": "Project Gutenberg 70840 (clean text)"
+  },
+  "ww-waters-masuccio-novellino-vol-1": {
+   "source": "wgw-masuccio-novellino-vol-1",
+   "of": "Masuccio Salernitano",
+   "work": "The Novellino of Masuccio, vol. I",
+   "translated": 1895,
+   "translator": "W. G. Waters",
+   "scan_edition": "Lawrence and Bullen, London 1895, illustrated by E. R. Hughes; University of Toronto scan",
+   "note": "Title page: 'now first translated into English'."
+  },
+  "ww-waters-masuccio-novellino-vol-2": {
+   "source": "wgw-masuccio-novellino-vol-2",
+   "of": "Masuccio Salernitano",
+   "work": "The Novellino of Masuccio, vol. II",
+   "translated": 1895,
+   "translator": "W. G. Waters",
+   "scan_edition": "Lawrence and Bullen, London 1895, illustrated by E. R. Hughes; University of Toronto scan"
+  },
+  "ww-waters-giovanni-fiorentino-pecorone": {
+   "source": "wgw-giovanni-fiorentino-pecorone",
+   "of": "Ser Giovanni Fiorentino",
+   "work": "The Pecorone of Ser Giovanni",
+   "translated": 1897,
+   "translator": "W. G. Waters",
+   "scan_edition": "Lawrence and Bullen, London 1897, illustrated by E. R. Hughes; archive.org scan",
+   "note": "Title page: 'now first translated into English'."
+  },
+  "ww-waters-vespasiano-memoirs": {
+   "source": "wgw-vespasiano-memoirs",
+   "of": "Vespasiano da Bisticci",
+   "work": "The Vespasiano Memoirs: Lives of Illustrious Men of the XVth Century",
+   "translated": 1926,
+   "translator": "William George and Emily Waters",
+   "scan_edition": "George Routledge & Sons, London 1926; archive.org scan",
+   "note": "Translated with Emily Waters."
   }
  },
  "_pending": {},
@@ -83,6 +137,50 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. G. Waters"
+  },
+  "wgw-masuccio-novellino-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wgw-masuccio-novellino-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wgw-giovanni-fiorentino-pecorone": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wgw-vespasiano-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emily waters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -100,6 +198,39 @@
    "pg": 70840,
    "pg_copyrighted_marker": false,
    "pg_translator": "W. G. Waters"
+  },
+  "wgw-masuccio-novellino-vol-1": {
+   "ia": "novellinoofmasuc01masuuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "wgw-masuccio-novellino-vol-2": {
+   "ia": "novellinoofmasuc02masuuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "wgw-giovanni-fiorentino-pecorone": {
+   "ia": "pecoroneofsergio00giovrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "wgw-vespasiano-memoirs": {
+   "ia": "bwb_KU-141-980",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1510,
+    1759,
+    1839,
+    1859,
+    1926
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "Examined in round 106: 2025 is the Internet Archive's 'Digitized by the Internet Archive in 2025' line, not an imprint; the title page reads London, George Routledge & Sons, 1926."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
