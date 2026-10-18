@@ -4803,7 +4803,7 @@ Shelf: `pipeline/laurens-hickok_shelf.json`. Rational Psychology (1854).
 
 ## George Trumbull Ladd
 
-Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Three works, 1889-1897.
+Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Psychology, metaphysics, ethics and philosophy of religion, 1889-1918.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -5422,6 +5422,7 @@ Shelf: `pipeline/samuel-alexander_shelf.json`. Realist metaphysics and evolution
 | Moral Order and Progress, 2nd ed. (London: Kegan Paul, 1891) |  | `alexander-moral-order-and-progress-1891` | have-raw (IA `moralorderandpro00alexuoft`) |
 | Space, Time and Deity, vol. I (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v1` | have-raw (IA `cihm_66275`) |
 | Space, Time and Deity, vol. II (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v2` | have-raw (IA `cihm_66276`) |
+| Locke (London: Constable, Philosophies Ancient and Modern, 1908) |  | `alexander-locke-1908` | have-raw (IA `lockealexander00alexiala`) |
 
 ## James Hutchison Stirling
 

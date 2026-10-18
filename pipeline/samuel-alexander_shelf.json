@@ -1,5 +1,5 @@
 {
- "_about": "Samuel Alexander (1859-1938), raw OCR: Moral Order and Progress, an analysis of ethical conceptions, 2nd ed. (London: Kegan Paul, Trench, Trübner, 1891; IA), and Space, Time and Deity, the Gifford Lectures at Glasgow 1916-1918 (London: Macmillan, 1920, 2 vols.; Canadian microfiche scans). Vol. I's scan carries a slip headed 'Preface to new impression' from the author; the preface that follows is the 1920 one. US public domain (published before 1931). No uids minted.",
+ "_about": "Samuel Alexander (1859-1938), raw OCR: Moral Order and Progress, an analysis of ethical conceptions, 2nd ed. (London: Kegan Paul, Trench, Trübner, 1891; IA), and Space, Time and Deity, the Gifford Lectures at Glasgow 1916-1918 (London: Macmillan, 1920, 2 vols.; Canadian microfiche scans). Vol. I's scan carries a slip headed 'Preface to new impression' from the author; the preface that follows is the 1920 one. US public domain (published before 1931). Added in round cm: Locke (1908), his short study in the Philosophies Ancient and Modern series; title page dated 1908. No uids minted.",
  "_author": "Samuel Alexander",
  "_name_words": [
   "samuel",
@@ -23,6 +23,10 @@
   "alexander-space-time-and-deity-1920-v2": [
    "cihm_66276",
    "Space, Time and Deity, vol. II (London: Macmillan, 1920)"
+  ],
+  "alexander-locke-1908": [
+   "lockealexander00alexiala",
+   "Locke (London: Constable, Philosophies Ancient and Modern, 1908)"
   ]
  },
  "_excluded": {},
@@ -58,6 +62,17 @@
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alexander-locke-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
