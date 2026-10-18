@@ -3642,8 +3642,16 @@ Shelf: `pipeline/locke_shelf.json`. John Locke (1632-1704). Clean Gutenberg: An 
 |---|---|---|---|
 | An Essay Concerning Humane Understanding, vol. 2 (MDCXC, based on the 2nd edition) |  | `locke-essay-understanding-v2` | have (PG 10616) |
 | Some Thoughts Concerning Education, with introduction and notes by R. H. Quick, 2nd ed. (Cambridge University Press, 1889) |  | `locke-quick-thoughts-education-1889` | have-raw (IA `somethoughtsconc00lockuoft`) |
-
-Pending (wishlist): Locke's Works (1812 or 1823, 10 vols.); a dated Letters on Toleration.
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. I: Essay concerning Human Understanding, books I-II (to ch. xxii) (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v1` | have-raw (IA `worksjohnlocke02lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. II: Essay, book II continued, book III, and book IV to ch. iv (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v2` | have-raw (IA `worksjohnlocke04lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. III: Essay, book IV continued, and the Conduct of the Understanding (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v3` | have-raw (IA `worksjohnlocke07lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. IV: the Stillingfleet controversy (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v4` | have-raw (IA `worksjohnlocke00lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. V: money, interest and coin; the Two Treatises of Government (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v5` | have-raw (IA `worksjohnlocket01lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VI: the Letters concerning Toleration (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v6` | have-raw (IA `worksjohnlocke08lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VII: The Reasonableness of Christianity and its Vindications (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v7` | have-raw (IA `worksjohnlocke06lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. VIII: the Paraphrase of St Paul's Epistles (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v8` | have-raw (IA `worksjohnlocke11lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. IX: Some Thoughts concerning Education, Malebranche, Miracles, Shaftesbury memoirs, letters (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v9` | have-raw (IA `worksjohnlockev00lockgoog`) |
+| The Works of John Locke, a new edition, corrected, in ten volumes, vol. X: familiar letters continued and miscellaneous pieces (London: Thomas Tegg and others, 1823) |  | `locke-works-1823-v10` | have-raw (IA `worksjohnlocke03lockgoog`) |
 
 ## Spinoza in English
 
@@ -5166,7 +5174,7 @@ Shelf: `pipeline/schleiermacher_shelf.json`. Romantic philosophy of religion.
 |---|---|---|---|
 | On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893) | John Oman | `schleiermacher-oman-on-religion-1893` | have-raw (IA `onreligionspeech00schluoft`) |
 
-Pending (wishlist): Soliloquies, tr. H. L. Friess (1926); The Christian Faith (1928)
+Pending (wishlist): The Christian Faith (1928)
 
 ## Ludwig Büchner
 

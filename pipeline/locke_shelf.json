@@ -1,5 +1,5 @@
 {
- "_about": "John Locke (1632-1704). Clean Gutenberg: An Essay Concerning Humane Understanding, vol. 2 (based on the 2nd edition); vol. 1 (PG 10615) and the Second Treatise (PG 7370) are on the Adler shelf. Raw IA OCR: Some Thoughts Concerning Education, ed. R. H. Quick (Cambridge, 2nd ed., 1889). Wanted: Locke's Works (11th or 12th ed., 1812/1823, 10 vols.); a dated Letters on Toleration (the Ward, Lock scan found prints no year). No uids minted.",
+ "_about": "John Locke (1632-1704). Clean Gutenberg: An Essay Concerning Humane Understanding, vol. 2 (based on the 2nd edition); vol. 1 (PG 10615) and the Second Treatise (PG 7370) are on the Adler shelf. Raw IA OCR: Some Thoughts Concerning Education, ed. R. H. Quick (Cambridge, 2nd ed., 1889). Added in round an: The Works of John Locke, a new edition, corrected, in ten volumes (London: Thomas Tegg and others, 1823), raw OCR of Google scans, all ten volumes from the one Tegg imprint. The OCR garbles the imprint year on vols. IV, V and X (1828, 'law', 1828); it is read as 1823 from the identical imprint and the library catalogue. Vols. I-III, V and IX overlap the Essay, the Second Treatise and the Quick Education held above and on the Adler shelf; the set is taken whole as the collected edition, and vol. VI supplies the Letters on Toleration that were wanted. No uids minted.",
  "_author": "John Locke",
  "_name_words": [
   "john",
@@ -19,6 +19,46 @@
   "locke-quick-thoughts-education-1889": [
    "somethoughtsconc00lockuoft",
    "Some Thoughts Concerning Education, with introduction and notes by R. H. Quick, 2nd ed. (Cambridge University Press, 1889)"
+  ],
+  "locke-works-1823-v1": [
+   "worksjohnlocke02lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. I: Essay concerning Human Understanding, books I-II (to ch. xxii) (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v2": [
+   "worksjohnlocke04lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. II: Essay, book II continued, book III, and book IV to ch. iv (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v3": [
+   "worksjohnlocke07lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. III: Essay, book IV continued, and the Conduct of the Understanding (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v4": [
+   "worksjohnlocke00lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. IV: the Stillingfleet controversy (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v5": [
+   "worksjohnlocket01lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. V: money, interest and coin; the Two Treatises of Government (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v6": [
+   "worksjohnlocke08lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. VI: the Letters concerning Toleration (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v7": [
+   "worksjohnlocke06lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. VII: The Reasonableness of Christianity and its Vindications (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v8": [
+   "worksjohnlocke11lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. VIII: the Paraphrase of St Paul's Epistles (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v9": [
+   "worksjohnlockev00lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. IX: Some Thoughts concerning Education, Malebranche, Miracles, Shaftesbury memoirs, letters (London: Thomas Tegg and others, 1823)"
+  ],
+  "locke-works-1823-v10": [
+   "worksjohnlocke03lockgoog",
+   "The Works of John Locke, a new edition, corrected, in ten volumes, vol. X: familiar letters continued and miscellaneous pieces (London: Thomas Tegg and others, 1823)"
   ]
  },
  "_excluded": {},
@@ -26,7 +66,7 @@
  "_checks": {
   "locke-essay-understanding-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "locke",
    "identity": "ok",
@@ -35,12 +75,122 @@
   },
   "locke-quick-thoughts-education-1889": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "locke",
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "locke-works-1823-v10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
