@@ -1,0 +1,196 @@
+{
+ "_about": "Public-domain Wilfrid Ward (1856-1916, Catholic biographer and essayist) for the Word Hoard: The Life of John Henry Cardinal Newman (2 vols, 1912), The Life and Times of Cardinal Wiseman (2 vols, 1897), William George Ward and the Oxford Movement (1889) and the Catholic Revival (1893), The Wish to Believe (1885), Witnesses to the Unseen (1893), Problems and Persons (1903), Ten Personal Studies (1908) and Men and Matters (1914), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ward"
+ ],
+ "_surname": [
+  "ward",
+  "wilfrid ward"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wward-life-newman-1": [
+   "a612281201warduoft",
+   "The Life of John Henry Cardinal Newman, vol. I (London: Longmans, Green, 1912)"
+  ],
+  "wward-life-newman-2": [
+   "a612281202warduoft",
+   "The Life of John Henry Cardinal Newman, vol. II (London: Longmans, Green, 1912)"
+  ],
+  "wward-life-wiseman-1": [
+   "a612144301warduoft",
+   "The Life and Times of Cardinal Wiseman, vol. I (London: Longmans, Green, 1897)"
+  ],
+  "wward-life-wiseman-2": [
+   "a612144302warduoft",
+   "The Life and Times of Cardinal Wiseman, vol. II (London: Longmans, Green, 1897)"
+  ],
+  "wward-wg-ward-oxford-movement": [
+   "williamgeorgewar0warduoft",
+   "William George Ward and the Oxford Movement (London: Macmillan, 1889)"
+  ],
+  "wward-wg-ward-catholic-revival": [
+   "williamgeorgewar00warduoft",
+   "William George Ward and the Catholic Revival (London: Macmillan, 1893)"
+  ],
+  "wward-wish-to-believe": [
+   "thewishtobelieve00warduoft",
+   "The Wish to Believe (London: Kegan Paul, Trench, 1885)"
+  ],
+  "wward-witnesses-unseen": [
+   "witnessesunseen00warduoft",
+   "Witnesses to the Unseen and Other Essays (London: Macmillan, 1893)"
+  ],
+  "wward-problems-persons": [
+   "problemspersons00warduoft",
+   "Problems and Persons (London: Longmans, Green, 1903)"
+  ],
+  "wward-ten-personal-studies": [
+   "tenpersonalstudi00warduoft",
+   "Ten Personal Studies (London: Longmans, Green, 1908)"
+  ],
+  "wward-men-and-matters": [
+   "menmatters00warduoft",
+   "Men and Matters (London: Longmans, Green, 1914)"
+  ]
+ },
+ "_alternates": {
+  "wward-copies": "Later impressions of the Newman and Wiseman lives; Last Lectures (1918); The Clothes of Religion; The Oxford Movement (People's Books)"
+ },
+ "_excluded": {
+  "wward-others": "Mrs. Wilfrid Ward's novels; W. G. Ward's Philosophy of Theism and Newman's works, which he only edited"
+ },
+ "_rights_checked": {
+  "wward-wg-ward-catholic-revival": "title page read: 'BY WILFKID WAKD' (OCR)"
+ },
+ "_pending": {
+  "wward-aubrey-de-vere": "Aubrey de Vere: a Memoir (1904, second impression): the title page OCR gives only 'Author of W. G. Ward and the Oxford Movement', not his name"
+ },
+ "_translators": {},
+ "_checks": {
+  "wward-life-newman-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wward-life-newman-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wward-life-wiseman-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wward-life-wiseman-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wward-wg-ward-oxford-movement": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wward-wg-ward-catholic-revival": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'BY WILFKID WAKD' (OCR)"
+  },
+  "wward-wish-to-believe": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wward-witnesses-unseen": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wward-problems-persons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wward-ten-personal-studies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wward-men-and-matters": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wilfrid ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

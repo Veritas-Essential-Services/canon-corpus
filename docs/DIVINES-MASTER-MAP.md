@@ -7292,6 +7292,26 @@ Slugs `leo-*`. Built from title pages read for round 32.
 | Second and third editions of the Great Encyclical Letters (the third catalogued 1892 from a portrait-plate copyright); the 1903 enlarged Pope and the People; a Boston Condition of Labor | alternate | not shelved |
 | 1931-1998 collections and reprints | excluded | |
 | Henry George's open letter, Doyle's life and other books about or answering him | excluded | |
+
+## Wilfrid Ward (round 32, my pick, 2026-10-18)
+
+Slugs `wward-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of John Henry Cardinal Newman, vol. I (London: Longmans, Green, 1912) | have-ocr | IA `a612281201warduoft` |
+| The Life of John Henry Cardinal Newman, vol. II (London: Longmans, Green, 1912) | have-ocr | IA `a612281202warduoft` |
+| The Life and Times of Cardinal Wiseman, vol. I (London: Longmans, Green, 1897) | have-ocr | IA `a612144301warduoft` |
+| The Life and Times of Cardinal Wiseman, vol. II (London: Longmans, Green, 1897) | have-ocr | IA `a612144302warduoft` |
+| William George Ward and the Oxford Movement (London: Macmillan, 1889) | have-ocr | IA `williamgeorgewar0warduoft` |
+| William George Ward and the Catholic Revival (London: Macmillan, 1893) | have-ocr | IA `williamgeorgewar00warduoft` |
+| The Wish to Believe (London: Kegan Paul, Trench, 1885) | have-ocr | IA `thewishtobelieve00warduoft` |
+| Witnesses to the Unseen and Other Essays (London: Macmillan, 1893) | have-ocr | IA `witnessesunseen00warduoft` |
+| Problems and Persons (London: Longmans, Green, 1903) | have-ocr | IA `problemspersons00warduoft` |
+| Ten Personal Studies (London: Longmans, Green, 1908) | have-ocr | IA `tenpersonalstudi00warduoft` |
+| Men and Matters (London: Longmans, Green, 1914) | have-ocr | IA `menmatters00warduoft` |
+| Later impressions of the Newman and Wiseman lives; Last Lectures (1918); The Clothes of Religion; The Oxford Movement (People's Books) | alternate | not shelved |
+| Mrs. Wilfrid Ward's novels; W. G. Ward's Philosophy of Theism and Newman's works, which he only edited | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
