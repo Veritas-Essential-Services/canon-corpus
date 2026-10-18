@@ -7907,6 +7907,21 @@ Slugs `dsteele-*`. Built from title pages read for round 33.
 | Half-Hours with St. John's Epistles (Boston: The Christian Witness Company, 1901) | have-ocr | IA `halfhourswithstj00stee` |
 | Later thousands of Love Enthroned; CCEL steele/love (no print source stated) | alternate | not shelved |
 | 1960 and 1966 reprints; Wilbur Daniel Steele | excluded | |
+
+## Thomas Coke (round 33, my pick, 2026-10-18)
+
+Slugs `coke-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Substance of a Sermon Preached at Baltimore at the Ordination of the Rev. Francis Asbury (London: J. Paramore for T. Scollick; year garbled, catalogued 1785) | have-ocr | IA `bim_eighteenth-century_the-substance-of-a-sermo_coke-thomas_1785` |
+| Extracts of the Journals of the Rev. Dr. Coke's Five Visits to America (London: G. Paramore, 1793) | have-ocr | IA `extractsofjourna00coke` |
+| An Account of the Progress of the Methodist Missions in the West-Indies (London: Conference Office, 1805) | have-ocr | IA `cu31924029347071` |
+| A History of the West Indies, vol. I (Liverpool: Nuttall, Fisher, and Dixon, 1808) | have-ocr | IA `gri_000133125011116080` |
+| A History of the West Indies, vol. II (London: for the Author, 1810) | have-ocr | IA `historyofwestind00coke` |
+| A History of the West Indies, vol. III (London: for the Author, 1811) | have-ocr | IA `gri_000033125011115967` |
+| Other copies of the West Indies and Extracts; the 1815 New York sermon on the Godhead of Christ; the posthumous 1816 Journals with Sutcliffe's life; the Life of Wesley with Henry Moore (1792) | alternate | not shelved |
+| Edward Coke and E. T. Coke; the 1969 reprint of the West Indies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
