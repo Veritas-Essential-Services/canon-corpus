@@ -1,5 +1,5 @@
 {
- "_about": "James Hutchison Stirling (1820-1909): The Secret of Hegel, being the Hegelian system in origin, principle, form and matter (London: Longman, Green, Longman, Roberts and Green, 1865, 2 vols.), raw IA OCR; the book that opened British Hegelianism. Not Patrick James Stirling (stirling-bastiat). US public domain. No uids minted.",
+ "_about": "James Hutchison Stirling (1820-1909): The Secret of Hegel, being the Hegelian system in origin, principle, form and matter (London: Longman, Green, Longman, Roberts and Green, 1865, 2 vols.), raw IA OCR; the book that opened British Hegelianism. Not Patrick James Stirling (stirling-bastiat). Added in round ak: Text-Book to Kant: the Critique of Pure Reason, aesthetic, categories, schematism, translation, reproduction, commentary (Edinburgh: Oliver and Boyd, 1881). US public domain. No uids minted.",
  "_author": "James Hutchison Stirling",
  "_name_words": [
   "james",
@@ -20,6 +20,10 @@
   "stirling-secret-of-hegel-1865-v2": [
    "cu31924092297914",
    "The Secret of Hegel, vol. II (London: Longman, 1865)"
+  ],
+  "stirling-text-book-to-kant-1881": [
+   "textbooktokantcr00kantuoft",
+   "Text-Book to Kant: the Critique of Pure Reason, aesthetic, categories, schematism, translation, reproduction, commentary (Edinburgh: Oliver and Boyd, 1881)"
   ]
  },
  "_excluded": {},
@@ -44,6 +48,17 @@
    "ia_rights": "ok: published 1865",
    "ia_date": "1865",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stirling-text-book-to-kant-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stirling",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
