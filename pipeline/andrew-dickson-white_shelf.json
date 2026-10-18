@@ -1,0 +1,85 @@
+{
+ "_about": "Andrew Dickson White (1832-1918), American historian and co-founder of Cornell. Gutenberg: The Warfare of Science (1876); A History of the Warfare of Science with Theology in Christendom (1896); Fiat Money Inflation in France; Autobiography of Andrew Dickson White, vol. 1 (1905); Autobiography of Andrew Dickson White, vol. 2 (1905). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Andrew Dickson White",
+ "_name_words": [
+  "andrew",
+  "dickson",
+  "white"
+ ],
+ "_surname": [
+  "andrew dickson white",
+  "andrew d. white"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adwhite-warfare-of-science": [
+   49212,
+   "The Warfare of Science (1876)"
+  ],
+  "adwhite-warfare-science-with-theology": [
+   505,
+   "A History of the Warfare of Science with Theology in Christendom (1896)"
+  ],
+  "adwhite-fiat-money-inflation-france": [
+   6949,
+   "Fiat Money Inflation in France"
+  ],
+  "adwhite-autobiography-1": [
+   1340,
+   "Autobiography of Andrew Dickson White, vol. 1 (1905)"
+  ],
+  "adwhite-autobiography-2": [
+   1370,
+   "Autobiography of Andrew Dickson White, vol. 2 (1905)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "adwhite-warfare-of-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "andrew dickson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adwhite-warfare-science-with-theology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "andrew dickson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adwhite-fiat-money-inflation-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "andrew dickson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adwhite-autobiography-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "andrew dickson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adwhite-autobiography-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "andrew dickson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -7209,6 +7209,11 @@ Shelf: `pipeline/andrew-dickson-white_shelf.json`. Five volumes, 1876-1905.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Warfare of Science (1876) |  | `adwhite-warfare-of-science` | have (PG 49212) |
+| A History of the Warfare of Science with Theology in Christendom (1896) |  | `adwhite-warfare-science-with-theology` | have (PG 505) |
+| Fiat Money Inflation in France |  | `adwhite-fiat-money-inflation-france` | have (PG 6949) |
+| Autobiography of Andrew Dickson White, vol. 1 (1905) |  | `adwhite-autobiography-1` | have (PG 1340) |
+| Autobiography of Andrew Dickson White, vol. 2 (1905) |  | `adwhite-autobiography-2` | have (PG 1370) |
 
 ## Jane Addams (social ethics)
 
