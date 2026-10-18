@@ -6981,6 +6981,12 @@ Shelf: `pipeline/george-stuart-fullerton_shelf.json`. Six books, 1890-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Handbook of Ethical Theory |  | `fullerton-handbook-ethical-theory` | have (PG 6463) |
+| An Introduction to Philosophy |  | `fullerton-introduction-to-philosophy` | have (PG 16406) |
+| On Sameness and Identity |  | `fullerton-sameness-and-identity` | have (PG 57998) |
+| On Spinozistic Immortality (Pennsylvania, 1899) |  | `fullerton-spinozistic-immortality-1899` | have-raw (IA `onspinozisticimm00full`) |
+| A System of Metaphysics (Macmillan, 1904) |  | `fullerton-system-of-metaphysics-1904` | have-raw (IA `systemofmetaphys00full`) |
+| The World We Live In (Macmillan, 1912) |  | `fullerton-world-we-live-in-1912` | have-raw (IA `worldweliveinor01fullgoog`) |
 
 ## Irwin Edman (naturalism)
 
