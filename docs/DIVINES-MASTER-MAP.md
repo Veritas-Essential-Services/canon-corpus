@@ -23354,6 +23354,27 @@ Round 102 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minte
 | — | — | mickle: Mickle's Lusiad (1776) is on singles-medieval-epic. | — | — | excluded | — |
 | — | — | burton: Burton's Lusiads (1880) is on the burton shelf. | — | — | excluded | — |
 
+## Shelf: German poets in English before 1931: Nind's Klopstock Odes (1848), Elizabeth Smith's Klopstock Memoirs (1810), Miss Benger's Klopstock and his Friends (1814), Uhland by Skeat, Sandars and Platt, Richardson's Körner (1827), Mrs Douglas's Gellert (1805)
+
+Shelf: `pipeline/german-poets-in-english_shelf.json` · fetch `python3 pipeline/fetch_shelf.py german-poets-in-english` · titles `python3 pipeline/split_shelf_titles.py german-poets-in-english`.
+Round 108 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `german-poets-klopstock-odes-nind` | Friedrich Gottlieb Klopstock | Odes of Klopstock, from 1747 to 1780 | William Nind | 1848 | have-raw | IA `odesofklopstockf00klop` |
+| `german-poets-klopstock-memoirs-smith` | Friedrich Gottlieb and Margaret Klopstock | Memoirs of Frederick and Margaret Klopstock | Elizabeth Smith | 1810 | have-raw | IA `memoirsfrederic02smitgoog` |
+| `german-poets-klopstock-and-his-friends-benger` | Friedrich Gottlieb Klopstock and his correspondents | Klopstock and his Friends: a Series of Familiar Letters, written between the years 1750 and 1803 | Miss Benger | 1814 | have-raw | IA `klopstockhisfrie00klop` |
+| `german-poets-uhland-songs-and-ballads-skeat` | Ludwig Uhland | The Songs and Ballads of Uhland | W. W. Skeat | 1864 | have-raw | IA `songsballadsofuh00uhla` |
+| `german-poets-uhland-poems-sandars` | Ludwig Uhland | The Poems of Uhland, translated into English verse, with a short biographical memoir of the poet | William Collett Sandars | 1869 | have-raw | IA `poemsofuhland00uhla` |
+| `german-poets-uhland-poems-platt` | Ludwig Uhland | The Poems of Ludwig Uhland | Alexander Platt | 1848 | have-raw | IA `poems01platgoog` |
+| `german-poets-korner-life-and-selections-richardson` | Christian Gottfried Körner and Carl Theodor Körner | The Life of Carl Theodor Körner, written by his father, with selections from his poems, tales and dramas, 2 vols | G. F. Richardson | 1827 | have-raw | IA `lifecarltheodor00kindgoog` |
+| `german-poets-gellert-life-douglas-vol-1` | Christian Fürchtegott Gellert | The Life of Professor Gellert, with a course of moral lessons, vol. I | Mrs Douglas | 1805 | have-raw | IA `lifeprofessorge01fitegoog` |
+| `german-poets-gellert-life-douglas-vol-3` | Christian Fürchtegott Gellert | The Life of Professor Gellert, with a course of moral lessons, vol. III | Mrs Douglas | 1805 | have-raw | IA `lifeprofessorge00fitegoog` |
+| — | — | klopstock-messiah-1826: The Messiah, translated into English verse (Longman, 1826, 2 vols): the title page names no translator. | — | — | excluded | — |
+| — | — | korner-lyre-and-sword: The Lyre and Sword (1834): the translator is not named. | — | — | excluded | — |
+| — | — | gellert-life-douglas-vol-2: Vol. II of Mrs Douglas's Life of Gellert: no scan found. | — | — | excluded | — |
+| — | — | klopstock-messiah-1808: The Messiah (Bungay: C. Brightly, 1808): the scan's title page names no translator. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

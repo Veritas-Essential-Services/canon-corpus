@@ -290,3 +290,5 @@
 - 2026-10-17T22:22-05:00: round 106: ww-waters +4 (now 7), benecke +1 (now 4), steegmann +1 (now 3). --verify --record 0 mismatched.
 
 - 2026-10-17T22:26-05:00: round 107: singles-nonfiction-2 +2 (Girondists II-III, identity overrides for Ryde OCR), singles-literature +1 (Huard's Vigny), italian-classics +1 (Garrow's Niccolini). --verify --record 0 mismatched.
+
+- 2026-10-17T22:32-05:00: round 108: german-poets-in-english (9). --verify --record 0 mismatched. New shelf german-poets-in-english (gpe-).
