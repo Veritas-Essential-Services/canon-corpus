@@ -11312,6 +11312,8 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
 | A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
 | The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
+| A History of Freedom of Thought (1913) |  | `bury-history-of-freedom-of-thought` | have (PG 10684) |
+| The Idea of Progress (1920) |  | `bury-idea-of-progress` | have (PG 4557) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
@@ -11998,6 +12000,11 @@ Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English
 | The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
 | The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905) | Halbert Hains Britan | `spinoza-britan-descartes-principles-1905` | have-raw (IA `cu31924029050636`) |
 | Spinoza's Short Treatise on God, Man, and his Well-Being, translated and edited, with an introduction and commentary and a life of Spinoza (London: A. and C. Black, 1910) | A. Wolf | `spinoza-wolf-short-treatise-1910` | have-raw (IA `spinozasshorttre00spin`) |
+| Ethics, part 1 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-1` | have (PG 919) |
+| Ethics, part 2 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-2` | have (PG 920) |
+| Ethics, part 3 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-3` | have (PG 948) |
+| Ethics, part 4 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-4` | have (PG 971) |
+| Ethics, part 5 (tr. R. H. M. Elwes, 1883) | R. H. M. Elwes | `spinoza-elwes-ethics-5` | have (PG 975) |
 
 Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
 
@@ -12100,6 +12107,12 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 | The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-sociology-v1` | have-raw (IA `principlessocio30spengoog`) |
 | The Principles of Sociology, vol. II (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v2` | have-raw (IA `principlesofsoci02spen_0`) |
 | The Principles of Sociology, vol. III (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v3` | have-raw (IA `prinsocial03spenuoft`) |
+| First Principles, first edition (Williams and Norgate, 1863) |  | `spencer-first-principles-pg` | have (PG 55046) |
+| The Philosophy of Style |  | `spencer-philosophy-of-style` | have (PG 5849) |
+| Essays on Education and Kindred Subjects (Everyman, introduction by C. W. Eliot) |  | `spencer-essays-on-education` | have (PG 16510) |
+| The Right to Ignore the State |  | `spencer-right-to-ignore-the-state` | have (PG 34649) |
+| Illustrations of Universal Progress (1864) |  | `spencer-illustrations-universal-progress` | have (PG 39977) |
+| The Factors of Organic Evolution (1887) |  | `spencer-factors-of-organic-evolution` | have (PG 52801) |
 
 ## William Godwin
 
@@ -12792,7 +12805,7 @@ Shelf: `pipeline/george-boole_shelf.json`. The Laws of Thought (1854). The Mathe
 |---|---|---|---|
 | An Investigation of the Laws of Thought (London: Walton and Maberly, 1854) |  | `boole-laws-of-thought-1854` | have-raw (IA `bub_gb_SWgLVT0otY8C`) |
 
-Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile)
+Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing (the open IA scan is the 1948 Philosophical Library facsimile); The Calculus of Logic (1848). Gutenberg holds both, and its Laws of Thought, only as PDF or TeX
 
 ## Wittgenstein in English
 
@@ -13467,6 +13480,11 @@ Shelf: `pipeline/hugo-munsterberg_shelf.json`. Philosophy of values.
 |---|---|---|---|
 | The Eternal Values (Boston: Houghton Mifflin, 1909) |  | `munsterberg-eternal-values-1909` | have-raw (IA `eternalvalues00muns`) |
 | Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906) |  | `munsterberg-science-and-idealism-1906` | have-raw (IA `scienceandideali00meunuoft`) |
+| Psychotherapy (1909) |  | `munsterberg-psychotherapy` | have (PG 22775) |
+| Psychology and Social Sanity (1914) |  | `munsterberg-psychology-and-social-sanity` | have (PG 25006) |
+| Psychology and Industrial Efficiency (1913) |  | `munsterberg-psychology-industrial-efficiency` | have (PG 15154) |
+| The Photoplay: A Psychological Study (1916) |  | `munsterberg-photoplay` | have (PG 15383) |
+| The Americans (tr. Edwin B. Holt, 1904) | Edwin B. Holt | `munsterberg-the-americans` | have (PG 56376) |
 
 ## Edwin B. Holt
 
@@ -14464,8 +14482,10 @@ Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise
 | Rousseau, vols. I and II (Macmillan, 1886; reprint 1905) |  | `morley-rousseau-1886` | have (PG 14052) |
 | Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
 | Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
+| Diderot and the Encyclopaedists, vol. I |  | `morley-diderot-encyclopaedists-v1` | have (PG 15098) |
+| Studies in Literature (1891) |  | `morley-studies-in-literature` | have (PG 12001) |
 
-Pending (wishlist): Diderot and the Encyclopaedists vol. I (PG 15098 would not download)
+Pending (wishlist): Critical Miscellanies (3 vols) in whole-volume scans
 
 ## George John Romanes (mind, evolution, belief)
 

@@ -1287,3 +1287,8 @@
 - Left out as duplicates: second Gutenberg Federalist (22788), second Trial by Jury (32984), Ingersoll single lectures already inside the Dresden volumes
 - Left out as too late: Goldman's Place of the Individual in Society (1940)
 - Fiction by Gilman and poetry by Carpenter left to other lanes
+
+## 2026-10-17 22:14 CDT — Round bx: gap sweep on existing shelves
+- Added: Spinoza (Elwes's Ethics, 5 parts), Spencer (First Principles 1863 first edition and 5 shorter works), Münsterberg (5), Bury (2), Morley (Diderot vol. I, Studies in Literature)
+- Refused, following earlier rulings in the shelves: Hume's and Berkeley's single Gutenberg texts (already inside the collected Works), Holbach's System of Nature and Ecce Homo (modern facsimiles), Aristotle's Categories (same Oxford translation), Plato PG 13726 (Cary, already in Bohn) and PG 76464 (Jowett 1892 vol. 2, already held)
+- Boole's Gutenberg logic books are PDF or TeX only; left as a wish
