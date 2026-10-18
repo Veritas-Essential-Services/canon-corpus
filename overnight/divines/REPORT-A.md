@@ -1345,3 +1345,6 @@
 
 ## 2026-10-17 19:56 CDT — auguste-gratry done
 - `pipeline/auguste-gratry_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for gratry-month-of-mary (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — felix-dupanloup done
+- `pipeline/felix-dupanloup_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

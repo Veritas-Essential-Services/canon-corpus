@@ -6443,6 +6443,22 @@ Slugs `gratry-*`. Oratorian philosopher, in English.
 | The Bishop of Orleans and the Archbishop of Malines, tr. T. J. Bailey (Hayes, no year) | alternate | not shelved |
 | Mary Everest Boole on Gratry and Boole; Perraud's Last Day | excluded | |
 | Logic (1944) | excluded | |
+
+## Félix Dupanloup (round 29, my pick, 2026-10-18)
+
+Slugs `dupanloup-*`. Bishop of Orléans, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Papal Sovereignty (London: Charles Dolman, 1860) | have-ocr | IA `papalsovereignt00dupagoog` |
+| The Future Oecumenical Council: a letter by the Bishop of Orleans, tr. Henry S. Butterfield and E. Robillard (London: R. Washbourne, 1869) | have-ocr | IA `a621035900cathuoft` |
+| Letter from the Lord Bishop of Orleans to M. Minghetti on the Spoliation of the Church (London: Burns and Oates, 1874) | have-ocr | IA `letterfromrightr00cath` |
+| The Child, tr. Kate Anderson (Boston: Patrick Donahoe, 1875) | have-ocr | IA `child0000unse_n0j2` |
+| A Study of Freemasonry (New York: D. & J. Sadlier, 1876) | have-ocr | IA `studyoffreemason0000mons` |
+| The Ministry of Preaching, tr. Samuel J. Eales (London: Griffith Farran Okeden & Welsh, 1890) | have-ocr | IA `TheMinistryOfPreaching` |
+| The Ministry of Catechising (London: Griffith Farran Okeden & Welsh; no year, translator's preface dated Christmas 1890) | have-ocr | IA `TheMinistryOfCatechising` |
+| Other copies of each; The Child (Noonan, undated) | alternate | not shelved |
+| Meditations on the Life of the Blessed Virgin (only his letter); Spencer Jones's adaptation; works about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
