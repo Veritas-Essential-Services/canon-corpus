@@ -6001,6 +6001,7 @@ Shelf: `pipeline/arthur-o-lovejoy_shelf.json`. The Revolt against Dualism (1930,
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Revolt against Dualism (Open Court, 1930, first edition) |  | `lovejoy-revolt-against-dualism-1930` | have-raw (IA `revoltagainstdua032051mbp`) |
 
 ## Perseus census (overflow)
 
