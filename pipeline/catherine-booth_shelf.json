@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Catherine Booth (1829-1890, co-founder of the Salvation Army, 'the Army Mother') for the Word Hoard: Aggressive Christianity and Godliness (Boston, 1883), Popular Christianity (1888), Papers on Godliness, Life and Death (both 1890), Papers on Aggressive Christianity (1891) and Papers on Practical Religion, from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mrs. booth"
+ ],
+ "_surname": [
+  "mrs. booth",
+  "catherine booth",
+  "mrs. catherine booth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cbooth-aggressive-christianity": [
+   "aggressivechrist00boot_0",
+   "Aggressive Christianity: Practical Sermons, introduction by Daniel Steele (Boston: McDonald & Gill; entered 1883)"
+  ],
+  "cbooth-godliness": [
+   "godlinessbeingr00bootgoog",
+   "Godliness: Being Reports of a Series of Addresses Delivered at James's Hall, London, 1881 (Boston: McDonald & Gill, 1883)"
+  ],
+  "cbooth-popular-christianity": [
+   "popularchristian00boot_1",
+   "Popular Christianity: Lectures Delivered in Princes Hall, Piccadilly (Boston: McDonald, Gill, 1888)"
+  ],
+  "cbooth-papers-godliness": [
+   "papersongodlines00boot",
+   "Papers on Godliness (London: International Headquarters of the Salvation Army; John Snow, 1890)"
+  ],
+  "cbooth-life-and-death": [
+   "lifedeathbeingre00boot",
+   "Life and Death: Reports of Addresses Delivered in London (London: International Headquarters of the Salvation Army; John Snow, 1890)"
+  ],
+  "cbooth-papers-aggressive": [
+   "papersonaggressi00boot",
+   "Papers on Aggressive Christianity (London: International Headquarters of the Salvation Army; John Snow, 1891)"
+  ],
+  "cbooth-papers-practical-religion": [
+   "papersonpractica00boot",
+   "Papers on Practical Religion (London: International Headquarters of the Salvation Army; John Snow; year garbled, catalogued 1891)"
+  ]
+ },
+ "_alternates": {
+  "cbooth-pg": "PG 6669, Godliness (the Boston edition)",
+  "cbooth-copies": "The 1887 New York Popular Christianity; The Salvation Army in Relation to the Church and State (year not read); Toronto addresses"
+ },
+ "_excluded": {
+  "cbooth-later": "Female Ministry in a 1975 reprint only; e-book uploads with no title page"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cbooth-aggressive-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cbooth-godliness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cbooth-popular-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cbooth-papers-godliness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cbooth-life-and-death": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cbooth-papers-aggressive": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cbooth-papers-practical-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "catherine booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

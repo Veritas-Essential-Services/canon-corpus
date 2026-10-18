@@ -7843,6 +7843,23 @@ Slugs `wbooth-*`. Built from title pages read for round 33.
 | Letters to Salvationists on Love, Marriage, and Home, vol. II of Religion for Every Day (London: Salvation Army Book Department, 1902) | have-ocr | IA `letterstosalvat01bootgoog` |
 | The undated London and Funk & Wagnalls 1890 issues of Darkest England; Sergeant-Major Do-Your-Best (1906), a story; his introduction to Social Service (1903) | alternate | not shelved |
 | Other William Booths; 1942 and later reprints | excluded | |
+
+## Catherine Booth (round 33, my pick, 2026-10-18)
+
+Slugs `cbooth-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Aggressive Christianity: Practical Sermons, introduction by Daniel Steele (Boston: McDonald & Gill; entered 1883) | have-ocr | IA `aggressivechrist00boot_0` |
+| Godliness: Being Reports of a Series of Addresses Delivered at James's Hall, London, 1881 (Boston: McDonald & Gill, 1883) | have-ocr | IA `godlinessbeingr00bootgoog` |
+| Popular Christianity: Lectures Delivered in Princes Hall, Piccadilly (Boston: McDonald, Gill, 1888) | have-ocr | IA `popularchristian00boot_1` |
+| Papers on Godliness (London: International Headquarters of the Salvation Army; John Snow, 1890) | have-ocr | IA `papersongodlines00boot` |
+| Life and Death: Reports of Addresses Delivered in London (London: International Headquarters of the Salvation Army; John Snow, 1890) | have-ocr | IA `lifedeathbeingre00boot` |
+| Papers on Aggressive Christianity (London: International Headquarters of the Salvation Army; John Snow, 1891) | have-ocr | IA `papersonaggressi00boot` |
+| Papers on Practical Religion (London: International Headquarters of the Salvation Army; John Snow; year garbled, catalogued 1891) | have-ocr | IA `papersonpractica00boot` |
+| PG 6669, Godliness (the Boston edition) | alternate | not shelved |
+| The 1887 New York Popular Christianity; The Salvation Army in Relation to the Church and State (year not read); Toronto addresses | alternate | not shelved |
+| Female Ministry in a 1975 reprint only; e-book uploads with no title page | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
