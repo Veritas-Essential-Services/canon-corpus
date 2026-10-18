@@ -1,0 +1,267 @@
+{
+ "_about": "Alfred Russel Wallace (1823-1913), co-discoverer of natural selection, biogeographer and social reformer. Project Gutenberg etexts: A Narrative of Travels on the Amazon and Rio Negro (London: Reeve, 1853; PG 53177, the 1889 new edition, is not taken); The Malay Archipelago (2 vols.); Contributions to the Theory of Natural Selection; Tropical Nature, and other essays; The Geographical Distribution of Animals (2 vols.); Island Life; Darwinism (1889); Man's Place in the Universe; Is Mars Habitable?; Social Environment and Moral Progress; The Remedy for Unemployment; A Defence of Modern Spiritualism; Vaccination a Delusion; Palm Trees of the Amazon; the Papilionidae paper; and Letters and Reminiscences, ed. James Marchant (2 vols., 1916). His surname is common, so only full name forms are used. US public domain. No uids minted.",
+ "_author": "Alfred Russel Wallace",
+ "_name_words": [
+  "alfred",
+  "russel",
+  "wallace"
+ ],
+ "_surname": [
+  "alfred russel wallace",
+  "a. r. wallace"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wallace-travels-on-the-amazon-1853": [
+   71436,
+   "A Narrative of Travels on the Amazon and Rio Negro (Reeve, 1853)"
+  ],
+  "wallace-palm-trees-of-the-amazon": [
+   70075,
+   "Palm Trees of the Amazon and their Uses"
+  ],
+  "wallace-papilionidae-variation": [
+   74871,
+   "On the Phenomena of Variation and Geographical Distribution as illustrated by the Papilionidae of the Malayan Region"
+  ],
+  "wallace-malay-archipelago-v1": [
+   2530,
+   "The Malay Archipelago, vol. 1"
+  ],
+  "wallace-malay-archipelago-v2": [
+   2539,
+   "The Malay Archipelago, vol. 2"
+  ],
+  "wallace-contributions-to-natural-selection": [
+   22428,
+   "Contributions to the Theory of Natural Selection"
+  ],
+  "wallace-defence-of-modern-spiritualism": [
+   69454,
+   "A Defence of Modern Spiritualism"
+  ],
+  "wallace-geographical-distribution-v1": [
+   56506,
+   "The Geographical Distribution of Animals, vol. 1"
+  ],
+  "wallace-geographical-distribution-v2": [
+   56507,
+   "The Geographical Distribution of Animals, vol. 2"
+  ],
+  "wallace-tropical-nature": [
+   73563,
+   "Tropical Nature, and other essays"
+  ],
+  "wallace-island-life": [
+   32021,
+   "Island Life"
+  ],
+  "wallace-darwinism-1889": [
+   14558,
+   "Darwinism (1889)"
+  ],
+  "wallace-vaccination-a-delusion": [
+   58918,
+   "Vaccination a Delusion"
+  ],
+  "wallace-mans-place-in-the-universe": [
+   39928,
+   "Man's Place in the Universe"
+  ],
+  "wallace-is-mars-habitable": [
+   10855,
+   "Is Mars Habitable?"
+  ],
+  "wallace-social-environment-and-moral-progress": [
+   50289,
+   "Social Environment and Moral Progress"
+  ],
+  "wallace-remedy-for-unemployment": [
+   50690,
+   "The Remedy for Unemployment"
+  ],
+  "wallace-letters-and-reminiscences-v1": [
+   15997,
+   "Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant"
+  ],
+  "wallace-letters-and-reminiscences-v2": [
+   15998,
+   "Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wallace-travels-on-the-amazon-1853": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-palm-trees-of-the-amazon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-papilionidae-variation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-malay-archipelago-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-malay-archipelago-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-contributions-to-natural-selection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-defence-of-modern-spiritualism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-geographical-distribution-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-geographical-distribution-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-tropical-nature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-island-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-darwinism-1889": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-vaccination-a-delusion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-mans-place-in-the-universe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-is-mars-habitable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-social-environment-and-moral-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-remedy-for-unemployment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-letters-and-reminiscences-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wallace-letters-and-reminiscences-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alfred russel wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

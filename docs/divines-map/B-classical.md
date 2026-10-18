@@ -7961,6 +7961,25 @@ Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Narrative of Travels on the Amazon and Rio Negro (Reeve, 1853) |  | `wallace-travels-on-the-amazon-1853` | have (PG 71436) |
+| Palm Trees of the Amazon and their Uses |  | `wallace-palm-trees-of-the-amazon` | have (PG 70075) |
+| On the Phenomena of Variation and Geographical Distribution as illustrated by the Papilionidae of the Malayan Region |  | `wallace-papilionidae-variation` | have (PG 74871) |
+| The Malay Archipelago, vol. 1 |  | `wallace-malay-archipelago-v1` | have (PG 2530) |
+| The Malay Archipelago, vol. 2 |  | `wallace-malay-archipelago-v2` | have (PG 2539) |
+| Contributions to the Theory of Natural Selection |  | `wallace-contributions-to-natural-selection` | have (PG 22428) |
+| A Defence of Modern Spiritualism |  | `wallace-defence-of-modern-spiritualism` | have (PG 69454) |
+| The Geographical Distribution of Animals, vol. 1 |  | `wallace-geographical-distribution-v1` | have (PG 56506) |
+| The Geographical Distribution of Animals, vol. 2 |  | `wallace-geographical-distribution-v2` | have (PG 56507) |
+| Tropical Nature, and other essays |  | `wallace-tropical-nature` | have (PG 73563) |
+| Island Life |  | `wallace-island-life` | have (PG 32021) |
+| Darwinism (1889) |  | `wallace-darwinism-1889` | have (PG 14558) |
+| Vaccination a Delusion |  | `wallace-vaccination-a-delusion` | have (PG 58918) |
+| Man's Place in the Universe |  | `wallace-mans-place-in-the-universe` | have (PG 39928) |
+| Is Mars Habitable? |  | `wallace-is-mars-habitable` | have (PG 10855) |
+| Social Environment and Moral Progress |  | `wallace-social-environment-and-moral-progress` | have (PG 50289) |
+| The Remedy for Unemployment |  | `wallace-remedy-for-unemployment` | have (PG 50690) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
+| Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
 
 Pending (wishlist): My Life (1905) and The Wonderful Century (1898).
 
