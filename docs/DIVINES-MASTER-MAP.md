@@ -6961,6 +6961,18 @@ Slugs `gieseler-*`. The Text-Book of Church History, Harper's five volumes.
 | A Text-Book of Church History, vol. V, A.D. 1517-1854, tr. Henry B. Smith, completed by Mary A. Robinson (New York: Harper & Brothers, 1880) | have-ocr | IA `textbookofchurch05gies` |
 | Clark's Edinburgh Compendium of Ecclesiastical History (1846-1856) | alternate | not shelved |
 | Francis Cunningham's earlier translation (Philadelphia: Carey, Lea, and Blanchard, 1836) | alternate | not shelved |
+
+## Gustav Friedrich Oehler (round 30, my pick, 2026-10-18)
+
+Slugs `oehler-*`. Theology of the Old Testament, Clark's and Day's editions.
+
+| Work | Status | Where |
+|---|---|---|
+| Theology of the Old Testament, vol. I, tr. Ellen D. Smith (Edinburgh: T. & T. Clark, 1874) | have-ocr | IA `theologyofoldtes1874oehl` |
+| Theology of the Old Testament, vol. II, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1875) | have-ocr | IA `theologyofoldtes02oehl` |
+| Theology of the Old Testament, a revision of the Clark translation by George E. Day (New York: Funk & Wagnalls, 1883) | have-ocr | IA `theologyofoldtes00oehl` |
+| The 1880 Clark reissue; Day's 1884-1888 editions; CCEL's ot_theol is page images only | alternate | not shelved |
+| in.ernet.dli.2015.65494: a Zondervan reprint, catalogued 1883 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

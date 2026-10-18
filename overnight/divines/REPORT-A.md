@@ -1447,3 +1447,6 @@
 
 ## 2026-10-17 20:26 CDT — johann-karl-ludwig-gieseler done
 - `pipeline/johann-karl-ludwig-gieseler_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — gustav-friedrich-oehler done
+- `pipeline/gustav-friedrich-oehler_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -1,0 +1,82 @@
+{
+ "_about": "Public-domain Gustav Friedrich Oehler (1812-1872, Tübingen) in English for the Word Hoard: the Theology of the Old Testament in Clark's two volumes, tr. Ellen D. Smith and Sophia Taylor (1874-1875), and George E. Day's revised American edition (New York: Funk & Wagnalls, 1883), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oehler"
+ ],
+ "_surname": [
+  "oehler",
+  "gust. fr. oehler",
+  "gustav friedrich oehler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oehler-theology-ot-1": [
+   "theologyofoldtes1874oehl",
+   "Theology of the Old Testament, vol. I, tr. Ellen D. Smith (Edinburgh: T. & T. Clark, 1874)"
+  ],
+  "oehler-theology-ot-2": [
+   "theologyofoldtes02oehl",
+   "Theology of the Old Testament, vol. II, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1875)"
+  ],
+  "oehler-theology-ot-day": [
+   "theologyofoldtes00oehl",
+   "Theology of the Old Testament, a revision of the Clark translation by George E. Day (New York: Funk & Wagnalls, 1883)"
+  ]
+ },
+ "_alternates": {
+  "oehler-copies": "The 1880 Clark reissue; Day's 1884-1888 editions; CCEL's ot_theol is page images only"
+ },
+ "_excluded": {
+  "oehler-zondervan": "in.ernet.dli.2015.65494: a Zondervan reprint, catalogued 1883"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "oehler-theology-ot-1": "smith",
+  "oehler-theology-ot-2": "taylor",
+  "oehler-theology-ot-day": "day"
+ },
+ "_checks": {
+  "oehler-theology-ot-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oehler",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oehler-theology-ot-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oehler",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oehler-theology-ot-day": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oehler",
+   "translator_claimed": "day",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
