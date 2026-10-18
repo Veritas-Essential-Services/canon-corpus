@@ -8397,7 +8397,7 @@ Slugs `jhblunt-*`. Built from title pages read for round 35.
 | Dictionary of Doctrinal second edition (1872); another 1874 Dictionary of Sects; a 1882 Reformation vol. I (catalogued as vol. II in error); the 1866 Annotated BCP Part I issue | alternate | not shelved |
 | A Key to the Knowledge of Church History (PG 22017, 1877; IA 1871): Blunt only edited it, and the preface is signed 'M. F. B. P.' | excluded | |
 
-## G. F. Maclear (round 15, my pick, 2026-10-18)
+## G. F. Maclear (round 35, my pick, 2026-10-18)
 
 Slugs `maclear-*`. Built from title pages read for round 35.
 
