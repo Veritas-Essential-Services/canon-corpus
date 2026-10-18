@@ -1807,3 +1807,6 @@
 
 ## 2026-10-17 22:45 CDT — cunningham-geikie done
 - `pipeline/cunningham-geikie_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for geikie-life-words-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — alfred-plummer done
+- `pipeline/alfred-plummer_shelf.json`: 0 CCEL, 2 PG, 9 IA. Title pages read for plummer-2-corinthians-icc (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

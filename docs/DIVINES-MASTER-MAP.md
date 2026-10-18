@@ -8701,6 +8701,26 @@ Slugs `geikie-*`. Built from title pages read for round 36.
 | The English Reformation (New York: D. Appleton, 1879) | have-ocr | IA `englishreformati00geikiala` |
 | Hours with the Bible from Pott (New York, 1881-84, vols II-VI) and Partridge (London, 1881); the Alden index volume (1888); Alden's Holy Land (1888); many Appleton Life and Words | alternate | not shelved |
 | lifeandwordsofjc01geikuoft, which is really J. Ritchie Smith's Teaching of the Gospel of John (1903); his co-authored London topography (PG 20310) | excluded | |
+
+## Alfred Plummer (round 36, my pick, 2026-10-18)
+
+Slugs `plummer-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pastoral Epistles, The Expositor's Bible, ed. W. Robertson Nicoll (Toronto: Willard Tract Depository, 1888) | have-clean | Gutenberg 39628 |
+| The General Epistles of St. James and St. Jude, The Expositor's Bible, sixth edition (London: Hodder and Stoughton, 1907) | have-clean | Gutenberg 47337 |
+| A Critical and Exegetical Commentary on the Gospel according to S. Luke, International Critical Commentary (Edinburgh: T. & T. Clark; New York: Scribner's; year not read, catalogued 1896) | have-ocr | IA `acriticalandexeg00plumuoft` |
+| An Exegetical Commentary on the Gospel according to S. Matthew, second edition (London: Elliot Stock, 1910) | have-ocr | IA `exegeticalcommen00plumuoft` |
+| The Second Epistle of Paul the Apostle to the Corinthians, Cambridge Greek Testament (Cambridge: University Press, 1903) | have-ocr | IA `secondepistleofp00plum` |
+| A Critical and Exegetical Commentary on the Second Epistle of St Paul to the Corinthians, International Critical Commentary (Edinburgh: T. & T. Clark; year OCR'd '1015', 1915) | have-ocr | IA `criticalexesecep00plumuoft` |
+| The Epistles of S. John, Cambridge Bible for Schools (Cambridge: University Press, 1890) | have-ocr | IA `epistlesofstjohn00plumuoft` |
+| The Gospel according to S. John, Cambridge Bible for Schools (Cambridge: University Press, 1891) | have-ocr | IA `gospelaccordingt00plumuoft` |
+| English Church History from the Death of Archbishop Parker to the Death of King Charles I (Edinburgh: T. & T. Clark, 1904) | have-ocr | IA `englishchurchpar00plumuoft` |
+| English Church History from the Death of Charles I to the Death of William III (Edinburgh: T. & T. Clark, 1907) | have-ocr | IA `englishchurchhis00plumuoft` |
+| The Church of the Early Fathers, third edition (London: Longmans, Green, 1888) | have-ocr | IA `churchofearlyfat00plum` |
+| CCEL plummer/expositorpastoral (1888) and expositorjamesjude (1907); the IA Pastoral Epistles (1888) and Armstrong copy; later Luke printings (1898-1920); English Church History 1509-1575 (year garbled); The Church of England in the Eighteenth Century (Methuen, year not read) | alternate | not shelved |
+| The ICC First Corinthians (1911), written jointly with Archibald Robertson, title page silent on who wrote which part | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
