@@ -6619,6 +6619,32 @@ Slugs `pastor-*`. The History of the Popes, vols 1-18 (1891-1929).
 | Second and third editions of vols 1-12 (1899-1923); St. Louis Herder issues | alternate | not shelved |
 | Vols 19-40 (1930-1953) and post-1929 reprints of earlier volumes | excluded | |
 | Cotton's Fasti Ecclesiae Hibernicae, catalogued under Pastor; French and German editions | excluded | |
+
+## Johannes Janssen (round 30, my pick, 2026-10-18)
+
+Slugs `janssen-*`. History of the German People, 16 volumes and index (1896-1925).
+
+| Work | Status | Where |
+|---|---|---|
+| History of the German People at the Close of the Middle Ages, vol. 1, tr. M. A. Mitchell and A. M. Christie (London: Kegan Paul, Trench, Trübner, 1896) | have-ocr | IA `historyofgermanp01jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 2, tr. M. A. Mitchell and A. M. Christie (London: Kegan Paul, Trench, Trübner, 1896) | have-ocr | IA `historyofgermanp02jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 3, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1900) | have-ocr | IA `historyofgermanp03jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 4, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1900) | have-ocr | IA `historyofgermanp04jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 5, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1903) | have-ocr | IA `historyofgermanp05jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 6, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1903) | have-ocr | IA `historyofgermanp06jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 7, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1905) | have-ocr | IA `historyofgermanp07jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 8, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1905) | have-ocr | IA `historyofgermanp08jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 9, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1906) | have-ocr | IA `historyofgermanp09jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 10, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1906) | have-ocr | IA `historyofgermanp10jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 11, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1907) | have-ocr | IA `historyofgermanp11jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 12, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1907) | have-ocr | IA `historyofgermanp12jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 13, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1909) | have-ocr | IA `historyofgermanp13jansuoft` |
+| History of the German People at the Close of the Middle Ages, vol. 14, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1909) | have-ocr | IA `historyofgermanp14jansuoft` |
+| History of the German People after the Close of the Middle Ages, vol. 15, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `historyofgermanp15jansuoft` |
+| History of the German People after the Close of the Middle Ages, vol. 16, tr. A. M. Christie (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `historyofgermanp16jansuoft` |
+| History of the German People after the Close of the Middle Ages, vol. XVII, Index (London: Kegan Paul, Trench, Trübner; St. Louis: B. Herder, 1925) | have-ocr | IA `historyofgermanp00jansuoft` |
+| Other copies of each volume; vol. II second English edition (1905); 1912 reissues of vols 5-6 | alternate | not shelved |
+| culturalconditio0000joha: the German original, catalogued as English | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

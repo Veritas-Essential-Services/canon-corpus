@@ -1381,3 +1381,6 @@
 
 ## 2026-10-17 20:25 CDT — ludwig-von-pastor done
 - `pipeline/ludwig-von-pastor_shelf.json`: 0 CCEL, 0 PG, 18 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — johannes-janssen done
+- `pipeline/johannes-janssen_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for janssen-german-people-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
