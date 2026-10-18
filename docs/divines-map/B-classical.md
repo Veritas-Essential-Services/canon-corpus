@@ -7108,6 +7108,9 @@ Shelf: `pipeline/john-elof-boodin_shelf.json`. Three books, 1911-1925.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Truth and Reality (Macmillan, 1911) |  | `boodin-truth-and-reality-1911` | have-raw (IA `truthrealityintr00boodiala`) |
+| A Realistic Universe (Macmillan, 1916) |  | `boodin-realistic-universe-1916` | have-raw (IA `arealisticuniver00booduoft`) |
+| Cosmic Evolution (Macmillan, 1925) |  | `boodin-cosmic-evolution-1925` | have-raw (IA `cosmicevolutiono012754mbp`) |
 
 ## Arthur Kenyon Rogers (critical realism, history of philosophy)
 
