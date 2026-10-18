@@ -1,5 +1,5 @@
 {
- "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. Added in round ab: Mental Development in the Child and the Race (New York and London: Macmillan, 1895). US public domain. No uids minted.",
+ "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. Added in round ab: Mental Development in the Child and the Race (New York and London: Macmillan, 1895). Added in round am: Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906). Added in round am: Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908). Added in round am: Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911). US public domain. No uids minted.",
  "_author": "James Mark Baldwin",
  "_name_words": [
   "james",
@@ -21,13 +21,25 @@
   "baldwin-mental-development-1895": [
    "mentaldevelopme00bald",
    "Mental Development in the Child and the Race (New York and London: Macmillan, 1895)"
+  ],
+  "baldwin-thought-and-things-1906-v1": [
+   "thoughtthingsstu01bald",
+   "Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906)"
+  ],
+  "baldwin-thought-and-things-1908-v2": [
+   "thoughtandthings02balduoft",
+   "Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908)"
+  ],
+  "baldwin-thought-and-things-1911-v3": [
+   "thoughtandthings03balduoft",
+   "Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "baldwin-story-of-the-mind-1905": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "baldwin",
    "identity": "ok",
@@ -36,13 +48,46 @@
   },
   "baldwin-mental-development-1895": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "baldwin",
    "identity": "ok",
    "ia_rights": "ok: published 1895",
    "ia_date": "1895",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baldwin-thought-and-things-1906-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-thought-and-things-1908-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baldwin-thought-and-things-1911-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

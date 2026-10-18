@@ -5050,6 +5050,9 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 |---|---|---|---|
 | The Story of the Mind (New York: Appleton, 1905) |  | `baldwin-story-of-the-mind-1905` | have (PG 20522) |
 | Mental Development in the Child and the Race (New York and London: Macmillan, 1895) |  | `baldwin-mental-development-1895` | have-raw (IA `mentaldevelopme00bald`) |
+| Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906) |  | `baldwin-thought-and-things-1906-v1` | have-raw (IA `thoughtthingsstu01bald`) |
+| Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908) |  | `baldwin-thought-and-things-1908-v2` | have-raw (IA `thoughtandthings02balduoft`) |
+| Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911) |  | `baldwin-thought-and-things-1911-v3` | have-raw (IA `thoughtandthings03balduoft`) |
 
 ## C. I. Lewis
 
