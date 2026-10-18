@@ -5978,3 +5978,15 @@ Slugs `khomiakov-*`. Russian lay theologian in English: the Orthodox Doctrine on
 | Russia and the English Church during the last fifty years, vol. I: the correspondence of William Palmer and M. Khomiakoff, 1844-1854, ed. W. J. Birkbeck (London: Rivington, Percival, 1895) | have-ocr | IA `russiaenglishchu0001wjbi` |
 | The 1917 SPCK reissue of Russia and the English Church | alternate | not shelved |
 | The 1969 facsimile and later studies | excluded | |
+
+## Philaret of Moscow (round 27, my pick, 2026-10-17)
+
+Slugs `philaret-*`. Metropolitan of Moscow; his Longer Catechism inside Blackmore's Doctrine of the Russian Church (1845). The title page does not name him.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doctrine of the Russian Church: the Primer, the Shorter and Longer Catechisms, and a Treatise on the Duty of Parish Priests, tr. R. W. Blackmore (Aberdeen: A. Brown, MDCCCXLV) | have-ocr | IA `doctrinerussian00konigoog` |
+| The London (Joseph Masters) issue of 1845 and another Aberdeen copy | alternate | not shelved |
+| The Comparison of the Differences between the Eastern and Western Churches, in Pinkerton's own Russia (1833): inside another author's book | alternate | not shelved |
+| The Catechism of the Orthodox Catholic Eastern Church (San Francisco, 1901): names neither Philaret nor a translator | alternate | not shelved |
+| Moschakis's catechism (1894) and a Russian-language edition | excluded | |
