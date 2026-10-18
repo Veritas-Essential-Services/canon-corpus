@@ -5163,6 +5163,7 @@ Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic and theory of knowledge; 
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | A Survey of Symbolic Logic (Berkeley: University of California Press, 1918) |  | `lewis-survey-of-symbolic-logic-1918` | have-raw (IA `asurveyofsymboli00lewiuoft`) |
+| Mind and the World-Order, outline of a theory of knowledge (London and New York: Scribner, 1929) |  | `lewis-mind-and-the-world-order-1929` | have-raw (IA `in.ernet.dli.2015.76173`) |
 
 ## William Ernest Hocking
 

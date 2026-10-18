@@ -1,5 +1,5 @@
 {
- "_about": "C. I. Lewis (1883-1964): A Survey of Symbolic Logic, University of California semicentennial publications (Berkeley: University of California Press, 1918), raw IA OCR at a clean ratio of 0.789 (symbol-heavy pages). His later books were published after 1930 and are not taken. US public domain (published 1918). No uids minted.",
+ "_about": "C. I. Lewis (1883-1964): A Survey of Symbolic Logic, University of California semicentennial publications (Berkeley: University of California Press, 1918), raw IA OCR at a clean ratio of 0.789 (symbol-heavy pages). US public domain (published 1918). Added in round 2026-10-18cd: Mind and the World-Order (Scribner, 1929), raw IA OCR, clean 0.91, from a scan whose title page reads 'Charles Scribner's Sons 1929'; a 1956 Dover reprint scan was rejected. The earlier note that all his later books came after 1930 was wrong for this one; his books from 1932 on are not taken. No uids minted.",
  "_author": "C. I. Lewis",
  "_name_words": [
   "clarence",
@@ -16,19 +16,34 @@
   "lewis-survey-of-symbolic-logic-1918": [
    "asurveyofsymboli00lewiuoft",
    "A Survey of Symbolic Logic (Berkeley: University of California Press, 1918)"
+  ],
+  "lewis-mind-and-the-world-order-1929": [
+   "in.ernet.dli.2015.76173",
+   "Mind and the World-Order, outline of a theory of knowledge (London and New York: Scribner, 1929)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "lewis-survey-of-symbolic-logic-1918": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lewis",
    "identity": "ok",
    "ia_rights": "ok: published 1918",
    "ia_date": "1918",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewis-mind-and-the-world-order-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lewis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
