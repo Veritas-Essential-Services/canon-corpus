@@ -5780,6 +5780,8 @@ Shelf: `pipeline/heinrich-von-treitschke_shelf.json`. Dugdale and de Bille's tra
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. I (New York: Macmillan, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v1` | have-raw (IA `politics01trei`) |
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. II (London: Constable, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v2` | have-raw (IA `politics02treiuoft`) |
 
 ## Ferdinand Lassalle (social democracy)
 

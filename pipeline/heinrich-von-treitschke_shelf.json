@@ -1,0 +1,58 @@
+{
+ "_about": "Heinrich von Treitschke (1834-1896): Politics, translated from the German by Blanche Dugdale and Torben de Bille, with an introduction by A. J. Balfour, 2 vols., 1916 (vol. I the New York Macmillan issue with A. Lawrence Lowell's foreword; vol. II the London Constable issue), raw IA OCR, clean 0.96 and 0.94. Not taken: Adam L. Gowans' Selections from the Lectures on Politics (1914), a second translation of part of the same lectures. US public domain (published 1916). No uids minted.",
+ "_author": "Heinrich von Treitschke",
+ "_name_words": [
+  "heinrich",
+  "treitschke"
+ ],
+ "_surname": [
+  "treitschke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "treitschke-politics-dugdale-1916-v1": [
+   "politics01trei",
+   "Politics, tr. Blanche Dugdale and Torben de Bille, vol. I (New York: Macmillan, 1916)",
+   "Blanche Dugdale and Torben de Bille"
+  ],
+  "treitschke-politics-dugdale-1916-v2": [
+   "politics02treiuoft",
+   "Politics, tr. Blanche Dugdale and Torben de Bille, vol. II (London: Constable, 1916)",
+   "Blanche Dugdale and Torben de Bille"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "treitschke-politics-dugdale-1916-v1": "Dugdale",
+  "treitschke-politics-dugdale-1916-v2": "Dugdale"
+ },
+ "_checks": {
+  "treitschke-politics-dugdale-1916-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "treitschke",
+   "translator_claimed": "Dugdale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "treitschke-politics-dugdale-1916-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "treitschke",
+   "translator_claimed": "Dugdale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
