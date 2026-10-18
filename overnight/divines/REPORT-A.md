@@ -1831,3 +1831,6 @@
 
 ## 2026-10-17 22:46 CDT — christina-rossetti done
 - `pipeline/christina-rossetti_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for crossetti-seek-and-find (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — j-r-miller done
+- `pipeline/j-r-miller_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for jrmiller-in-his-steps, jrmiller-practical-religion, jrmiller-personal-friendships (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -8815,6 +8815,22 @@ Slugs `crossetti-*`. Built from title pages read for round 36.
 | The Face of the Deep: A Devotional Commentary on the Apocalypse, second edition (London: SPCK; New York: Pott, Young / E. & J. B. Young, 1893) | have-ocr | IA `thefaceofthedeep00rossuoft` |
 | Other undated SPCK copies; Called to be Saints 'by the late Christina G. Rossetti' (1895); Time Flies (Boston: Roberts, 1886); The Face of the Deep third edition (about 1895) | alternate | not shelved |
 | Reflected Lights from The Face of the Deep (selections by W. M. L. Jay); Commonplace and Speaking Likenesses (fiction); all her verse | excluded | |
+
+## J. R. Miller (round 36, my pick, 2026-10-18)
+
+Slugs `jrmiller-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Week-Day Religion (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1880) | have-ocr | IA `weekdayreligion00mill` |
+| In His Steps: A Book for Young Christians Setting Out to Follow Christ (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1885) | have-ocr | IA `inhisstepsbookfo00mill` |
+| Silent Times: a Book to Help in Reading the Bible into Life (Boston: Thomas Y. Crowell, 1886) | have-ocr | IA `silenttimesbookt01mill` |
+| Practical Religion: A Help for the Common Days (Philadelphia: Presbyterian Board of Publication; title page undated, copyright 1888) | have-ocr | IA `practicalreligio00mill` |
+| Making the Most of Life (New York: Thomas Y. Crowell; title page undated, copyright 1891) | have-ocr | IA `makingmostofli00mill` |
+| The Building of Character (New York: Thomas Y. Crowell; title page undated, copyright 1894) | have-ocr | IA `buildingofcharac00mill` |
+| Personal Friendships of Jesus (New York: Thomas Y. Crowell; title page undated, copyright 1897) | have-ocr | IA `personalfriendsh01mill` |
+| PG 19193 (Making the Most of Life) and PG 27349 (Personal Friendships, eighth thousand), both undated printings; later thousands of Silent Times, Building of Character and Personal Friendships | alternate | not shelved |
+| Come Ye Apart (an undated Nelson printing that looks post-1929) and a 2009 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
