@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain John Woolman (1720-1772), Quaker minister and early abolitionist, for the Word Hoard: the first edition of his Works (Philadelphia, 1774) and the London edition (1775), Considerations on Keeping Negroes, Part Second (Franklin and Hall, 1762), A Word of Remembrance and Caution to the Rich (the Plea for the Poor), the Journal with Whittier's introduction (1871) and Amelia Mott Gummere's edition from the manuscripts (1922), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "woolman"
+ ],
+ "_surname": [
+  "john woolman",
+  "woolman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "woolman-works-1774": [
+   "worksofjohnwoolm00wool_0",
+   "The Works of John Woolman, in two parts (Philadelphia: Joseph Crukshank, 1774), the first edition"
+  ],
+  "woolman-works-1775": [
+   "worksintwoparts00wooliala",
+   "The Works of John Woolman, in two parts (London: T. Letchworth, 1775)"
+  ],
+  "woolman-considerations-1762": [
+   "considerationson00wool_0",
+   "Considerations on Keeping Negroes, recommended to the Professors of Christianity of every Denomination, Part Second (Philadelphia: B. Franklin and D. Hall, 1762)"
+  ],
+  "woolman-word-to-the-rich": [
+   "bim_eighteenth-century_a-word-of-remembrance-an_woolman-john_1793",
+   "A Word of Remembrance and Caution to the Rich (Dublin: T. M. Bates, R. M. Jackson; year not legible on the title page, catalogued 1793)"
+  ],
+  "woolman-journal-whittier": [
+   "journalofjohnwoo00woolrich",
+   "The Journal of John Woolman, with an introduction by John G. Whittier (Boston: James R. Osgood, 1871)"
+  ],
+  "woolman-journal-gummere": [
+   "cu31924029466160",
+   "The Journal and Essays of John Woolman, edited from the original manuscripts with a biographical introduction by Amelia Mott Gummere, Rancocas edition (New York: Macmillan, 1922)"
+  ]
+ },
+ "_alternates": {
+  "woolman-copies": "Other 1774 copies; the Journal alone (Crukshank, undated); CCEL woolman/journal (no print source stated); the Tract Association's undated Considerations (one catalogued with an impossible date)"
+ },
+ "_excluded": {
+  "woolman-later": "PG 37311 and the IA Everyman (reprinted 1922 and 1936); Harvard Classics vol. 1 (a many-author volume); the 1961 Plea for the Poor reprints"
+ },
+ "_identity_checked": {
+  "woolman-considerations-1762": {
+   "author": "title page read: 'By JOHN WOOLMAN' (OCR 'JOHN W 0 0 L M A N')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "woolman-part-one": "Some Considerations on the Keeping of Negroes, Part 1 (1754): no pre-1930 scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "woolman-works-1774": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john woolman",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1774",
+   "ia_date": "1774",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woolman-works-1775": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john woolman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woolman-considerations-1762": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woolman-word-to-the-rich": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john woolman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woolman-journal-whittier": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john woolman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "c1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woolman-journal-gummere": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john woolman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

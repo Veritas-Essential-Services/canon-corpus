@@ -8028,6 +8028,21 @@ Slugs `ellwood-*`. Built from title pages read for round 34.
 | Davideis: The Life of David King of Israel, a Sacred Poem in Five Books, the third edition, corrected (London: T. Sowle Raylton and Luke Hinde, 1749) | have-ocr | IA `bim_eighteenth-century_davideis-the-life-of-da_ellwood-thomas_1749` |
 | Davideis: The Life of David, King of Israel, a Sacred Poem in Five Books (Philadelphia: Joseph Crukshank, 1805) | have-ocr | IA `davideis01ellw` |
 | Another 1714 copy (historylifethom00bowlgoog); the first Davideis (1712, year illegible); a second Routledge 1885 scan | alternate | not shelved |
+
+## John Woolman (round 34, my pick, 2026-10-18)
+
+Slugs `woolman-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of John Woolman, in two parts (Philadelphia: Joseph Crukshank, 1774), the first edition | have-ocr | IA `worksofjohnwoolm00wool_0` |
+| The Works of John Woolman, in two parts (London: T. Letchworth, 1775) | have-ocr | IA `worksintwoparts00wooliala` |
+| Considerations on Keeping Negroes, recommended to the Professors of Christianity of every Denomination, Part Second (Philadelphia: B. Franklin and D. Hall, 1762) | have-ocr | IA `considerationson00wool_0` |
+| A Word of Remembrance and Caution to the Rich (Dublin: T. M. Bates, R. M. Jackson; year not legible on the title page, catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-word-of-remembrance-an_woolman-john_1793` |
+| The Journal of John Woolman, with an introduction by John G. Whittier (Boston: James R. Osgood, 1871) | have-ocr | IA `journalofjohnwoo00woolrich` |
+| The Journal and Essays of John Woolman, edited from the original manuscripts with a biographical introduction by Amelia Mott Gummere, Rancocas edition (New York: Macmillan, 1922) | have-ocr | IA `cu31924029466160` |
+| Other 1774 copies; the Journal alone (Crukshank, undated); CCEL woolman/journal (no print source stated); the Tract Association's undated Considerations (one catalogued with an impossible date) | alternate | not shelved |
+| PG 37311 and the IA Everyman (reprinted 1922 and 1936); Harvard Classics vol. 1 (a many-author volume); the 1961 Plea for the Poor reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
