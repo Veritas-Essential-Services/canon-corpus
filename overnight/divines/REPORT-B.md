@@ -1275,3 +1275,9 @@
 - Webb's church-history books left for lane A
 - Fite's Living Mind is a 1930 book: _rights_checked recorded
 - Identity checks: Webb's Group Theories (OCR 'i^EBB'), Fite's Individualism (OCR 'FIXE')
+
+## 2026-10-17 21:59 CDT — Round bv: thirteen new shelves
+- Lippmann (6), Croly (2), Bourne (6), Woodrow Wilson (7, political theory and essays only), Angell (3), Draper (3), A. D. White (5), Addams (6), Babbitt (5), Lowell (3), Ross (4), W. I. Thomas (2), Beard (1)
+- Every PG id checked free across all branches first; title-level duplicate check clean
+- Dewey and Tufts's Ethics already on john-dewey, so no Tufts shelf
+- Identity check: Lowell's Government of England vol. II (name missing from title-page OCR)

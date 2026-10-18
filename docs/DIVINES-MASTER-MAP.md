@@ -15074,6 +15074,150 @@ Shelf: `pipeline/warner-fite_shelf.json`. Four books, 1903-1930.
 | Moral Philosophy (Dial Press, 1925) |  | `fite-moral-philosophy-1925` | have-raw (IA `moralphilosophyc0000warn`) |
 | The Living Mind (Dial Press, 1930) |  | `fite-living-mind-1930` | have-raw (IA `livingmindessays00fite`) |
 
+## Walter Lippmann (public opinion and democracy)
+
+Shelf: `pipeline/walter-lippmann_shelf.json`. Six books, 1913-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Preface to Politics (1913) |  | `lippmann-preface-to-politics` | have (PG 20125) |
+| Drift and Mastery (1914) |  | `lippmann-drift-and-mastery` | have (PG 79553) |
+| Liberty and the News (1920) |  | `lippmann-liberty-and-the-news` | have (PG 77035) |
+| Public Opinion (1922) |  | `lippmann-public-opinion` | have (PG 6456) |
+| The Phantom Public (1925) |  | `lippmann-phantom-public` | have (PG 76966) |
+| A Preface to Morals (1929) |  | `lippmann-preface-to-morals` | have (PG 77019) |
+
+## Herbert Croly (progressive political thought)
+
+Shelf: `pipeline/herbert-croly_shelf.json`. Two books, 1909-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Promise of American Life (1909) |  | `croly-promise-of-american-life` | have (PG 14422) |
+| Progressive Democracy (Macmillan, 1914) |  | `croly-progressive-democracy-1914` | have-raw (IA `progressivedemoc00croluoft`) |
+
+## Randolph Bourne (essays in social criticism)
+
+Shelf: `pipeline/randolph-bourne_shelf.json`. Six books, 1913-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Youth and Life (1913) |  | `bourne-youth-and-life` | have (PG 67628) |
+| The Gary Schools (1916) |  | `bourne-gary-schools` | have (PG 68055) |
+| Towards an Enduring Peace (1916; a symposium Bourne compiled) |  | `bourne-towards-an-enduring-peace` | have (PG 73048) |
+| Education and Living (1917) |  | `bourne-education-and-living` | have (PG 68912) |
+| Untimely Papers (1919) |  | `bourne-untimely-papers` | have (PG 68626) |
+| History of a Literary Radical, and Other Essays (1920) |  | `bourne-history-of-a-literary-radical` | have (PG 69426) |
+
+## Woodrow Wilson (political science)
+
+Shelf: `pipeline/woodrow-wilson_shelf.json`. Seven books, 1885-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Congressional Government (1885) |  | `wilson-congressional-government` | have (PG 35861) |
+| An Old Master, and Other Political Essays (1893) |  | `wilson-old-master` | have (PG 71776) |
+| Mere Literature, and Other Essays (1896) |  | `wilson-mere-literature` | have (PG 66074) |
+| On Being Human (1897) |  | `wilson-on-being-human` | have (PG 5068) |
+| When a Man Comes to Himself (1901) |  | `wilson-when-a-man-comes-to-himself` | have (PG 5078) |
+| The New Freedom (1913) |  | `wilson-new-freedom` | have (PG 14811) |
+| The State (Heath, revised edition 1911) |  | `wilson-the-state-1911` | have-raw (IA `cu31924024903043`) |
+
+## Norman Angell (international relations)
+
+Shelf: `pipeline/norman-angell_shelf.json`. Three books, 1910-1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Great Illusion (1910) |  | `angell-great-illusion` | have (PG 38535) |
+| Peace Theories and the Balkan War (1912) |  | `angell-peace-theories-balkan-war` | have (PG 11895) |
+| The Fruits of Victory (1921) |  | `angell-fruits-of-victory` | have (PG 43598) |
+
+## John William Draper (history of ideas)
+
+Shelf: `pipeline/john-william-draper_shelf.json`. Three volumes, 1863-1874.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Intellectual Development of Europe, vol. 1 |  | `draper-intellectual-development-europe-1` | have (PG 31345) |
+| History of the Intellectual Development of Europe, vol. 2 |  | `draper-intellectual-development-europe-2` | have (PG 34051) |
+| History of the Conflict Between Religion and Science (1874) |  | `draper-conflict-religion-and-science` | have (PG 1185) |
+
+## Andrew Dickson White (science and theology)
+
+Shelf: `pipeline/andrew-dickson-white_shelf.json`. Five volumes, 1876-1905.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Warfare of Science (1876) |  | `adwhite-warfare-of-science` | have (PG 49212) |
+| A History of the Warfare of Science with Theology in Christendom (1896) |  | `adwhite-warfare-science-with-theology` | have (PG 505) |
+| Fiat Money Inflation in France |  | `adwhite-fiat-money-inflation-france` | have (PG 6949) |
+| Autobiography of Andrew Dickson White, vol. 1 (1905) |  | `adwhite-autobiography-1` | have (PG 1340) |
+| Autobiography of Andrew Dickson White, vol. 2 (1905) |  | `adwhite-autobiography-2` | have (PG 1370) |
+
+## Jane Addams (social ethics)
+
+Shelf: `pipeline/jane-addams_shelf.json`. Six books, 1902-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Democracy and Social Ethics (1902) |  | `addams-democracy-and-social-ethics` | have (PG 15487) |
+| Newer Ideals of Peace (1907) |  | `addams-newer-ideals-of-peace` | have (PG 69879) |
+| The Spirit of Youth and the City Streets (1909) |  | `addams-spirit-of-youth` | have (PG 16221) |
+| Twenty Years at Hull-House (1910) |  | `addams-twenty-years-at-hull-house` | have (PG 1325) |
+| A New Conscience and an Ancient Evil (1912) |  | `addams-new-conscience-ancient-evil` | have (PG 15221) |
+| The Long Road of Woman's Memory (1916) |  | `addams-long-road-of-womans-memory` | have (PG 69234) |
+
+## Irving Babbitt (New Humanism)
+
+Shelf: `pipeline/irving-babbitt_shelf.json`. Five books, 1908-1924.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rousseau and Romanticism (1919) |  | `babbitt-rousseau-and-romanticism` | have (PG 50235) |
+| Democracy and Leadership (1924) |  | `babbitt-democracy-and-leadership` | have (PG 79644) |
+| Literature and the American College (Houghton Mifflin, 1908) |  | `babbitt-literature-and-the-american-college-1908` | have-raw (IA `literatureameric00babbuoft`) |
+| The New Laokoon (Houghton Mifflin, 1910; impression of 1926) |  | `babbitt-new-laokoon-1926` | have-raw (IA `thenewlaokoonane00babbuoft`) |
+| The Masters of Modern French Criticism (Houghton Mifflin, 1912) |  | `babbitt-masters-modern-french-criticism-1912` | have-raw (IA `mastersofmodernf00babb`) |
+
+## A. Lawrence Lowell (government and public opinion)
+
+Shelf: `pipeline/a-lawrence-lowell_shelf.json`. Three volumes, 1908-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Government of England, vol. I (1908) |  | `lowell-government-of-england-1` | have (PG 34471) |
+| The Government of England, vol. II (Macmillan, 1908) |  | `lowell-government-of-england-1908-v2` | have-raw (IA `in.ernet.dli.2015.261767`) |
+| Public Opinion and Popular Government (Longmans, 1913; impression of 1921) |  | `lowell-public-opinion-popular-government-1921` | have-raw (IA `publicopinionan01lowegoog`) |
+
+## Edward Alsworth Ross (sociology)
+
+Shelf: `pipeline/edward-alsworth-ross_shelf.json`. Four books, 1901-1914.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Old World in the New (1914) |  | `ross-old-world-in-the-new` | have (PG 47954) |
+| Social Control (Macmillan, 1901; reprint of 1906) |  | `ross-social-control-1906` | have-raw (IA `socialcontrolas01rossgoog`) |
+| Sin and Society (Houghton Mifflin, 1907) |  | `ross-sin-and-society-1907` | have-raw (IA `sinsocietyanalys00ross`) |
+| Social Psychology (Macmillan, 1908; printing of 1914) |  | `ross-social-psychology-1914` | have-raw (IA `cu31924032560579`) |
+
+## W. I. Thomas (Chicago sociology)
+
+Shelf: `pipeline/w-i-thomas_shelf.json`. Two books, 1907-1923.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sex and Society (1907) |  | `thomas-sex-and-society` | have (PG 15015) |
+| The Unadjusted Girl (1923) |  | `thomas-unadjusted-girl` | have (PG 59826) |
+
+## Charles A. Beard (economic interpretation)
+
+Shelf: `pipeline/charles-a-beard_shelf.json`. One book, 1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Economic Interpretation of the Constitution of the United States (1913) |  | `beard-economic-interpretation-constitution` | have (PG 70677) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
