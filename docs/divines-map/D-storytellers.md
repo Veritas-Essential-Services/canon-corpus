@@ -7979,6 +7979,50 @@ Shelf: `pipeline/george-meredith_shelf.json` (2026-10-17; added at the coordinat
 | pg-34858 | excluded | PG 34858: a 1917 edited edition of Richard Feverel, which the shelf holds complete. |
 | pg-4500 | excluded | PG 4499, 4500: Gutenberg omnibus files that join the separate books already on the shelf. |
 
+## Edward Bulwer-Lytton
+
+Shelf: `pipeline/bulwer-lytton_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (34 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rienzi, the Last of the Roman Tribunes | have | PG 1396, `blytton-rienzi-the-last-of-the-roman-tribunes` (3071 units) |
+| The Last Days of Pompeii | have | PG 1565, `blytton-last-days-of-pompeii` (2969 units) |
+| The Lady of Lyons; Or, Love and Pride | have | PG 2461, `blytton-lady-of-lyons` (664 units) |
+| Zanoni | have | PG 2664, `blytton-zanoni` (2332 units) |
+| Athens: Its Rise and Fall, Complete | have | PG 6156, `blytton-athens-6156` (1940 units) |
+| The Caxtons: A Family Picture — Complete | have | PG 7605, `blytton-caxtons-7605` (2859 units) |
+| Zicci: A Tale — Complete | have | PG 7608, `blytton-zicci-7608` (566 units) |
+| Eugene Aram — Complete | have | PG 7614, `blytton-eugene-aram-complete` (2530 units) |
+| Pelham — Complete | have | PG 7623, `blytton-pelham-complete` (2719 units) |
+| Devereux — Complete | have | PG 7630, `blytton-devereux-complete` (2324 units) |
+| The Disowned — Complete | have | PG 7639, `blytton-disowned-complete` (2506 units) |
+| Ernest Maltravers — Complete | have | PG 7649, `blytton-ernest-maltravers-complete` (2601 units) |
+| Kenelm Chillingly — Complete | have | PG 7658, `blytton-kenelm-chillingly-complete` (3472 units) |
+| What Will He Do with It? — Complete | have | PG 7671, `blytton-what-will-he-do-with-it-complete` (4134 units) |
+| Harold : the Last of the Saxon Kings — Complete | have | PG 7684, `blytton-harold-7684` (3165 units) |
+| Lucretia — Complete | have | PG 7691, `blytton-lucretia-complete` (2040 units) |
+| A Strange Story — Complete | have | PG 7701, `blytton-a-strange-story-complete` (2240 units) |
+| "My Novel" — Complete | have | PG 7714, `blytton-my-novel-complete` (7694 units) |
+| The Last of the Barons — Complete | have | PG 7727, `blytton-last-of-the-barons-complete` (3568 units) |
+| Paul Clifford — Complete | have | PG 7735, `blytton-paul-clifford-complete` (2318 units) |
+| Tomlinsoniana | have | PG 7736, `blytton-tomlinsoniana` (82 units) |
+| The Parisians — Complete | have | PG 7749, `blytton-parisians-complete` (3609 units) |
+| Godolphin, Complete | have | PG 7756, `blytton-godolphin-complete` (1650 units) |
+| Falkland, Complete | have | PG 7761, `blytton-falkland-complete` (244 units) |
+| The Pilgrims of the Rhine | have | PG 8206, `blytton-pilgrims-of-the-rhine` (1316 units) |
+| Pausanias, the Spartan; The Haunted and the Haunters An Unfinished Historical Romance | have | PG 8573, `blytton-pausanias-the-spartan` (1290 units) |
+| The Fallen Star, or, the History of a False Religion by E.L. Bulwer; And, A Dissertation on the Origin of Evil by Lord Brougham (with Lord Brougham) | have | PG 8654, `blytton-fallen-star` (479 units) |
+| Night and Morning, Complete | have | PG 9755, `blytton-night-and-morning-complete` (3468 units) |
+| Leila or, the Siege of Granada, Complete | have | PG 9761, `blytton-leila-9761` (904 units) |
+| Calderon the Courtier, a Tale | have | PG 9762, `blytton-calderon-the-courtier-a-tale` (330 units) |
+| Alice, or the Mysteries — Complete | have | PG 9774, `blytton-alice-or-the-mysteries-complete` (2572 units) |
+| The Haunted and the Haunters; Or, The House and the Brain | have | PG 14195, `blytton-haunted-and-the-haunters` (113 units) |
+| The Poetical Works of Sir Edward Bulwer Lytton, Bart. M.P. | have | PG 34298, `blytton-poetical-works-of-sir-edward-bulwer-lytton-bart-m-p` (3731 units) |
+| Ismael; an oriental tale. With other poems | have | PG 65357, `blytton-ismael` (438 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 6151, 6152, 6153, 6154, 6155, 7586, 7587, 7588, 7589, 7590, 7591, 7592, 7593, 7594, 7595, 7596, 7597, 7598, 7599, 7601, 7602, 7603, 7604, 7606, 7607, 7609, 7610, 7611, 7612, 7613, 7615, 7616, 7617, 7618, 7619, 7620, 7621, 7622, 7624, 7625, 7626, 7627, 7628, 7629, 7631, 7632, 7633, 7634, 7635, 7636, 7637, 7638, 7640, 7641, 7642, 7643, 7644, 7645, 7646, 7647, 7648, 7650, 7651, 7652, 7653, 7654, 7655, 7656, 7657, 7659, 7660, 7661, 7662, 7663, 7664, 7665, 7666, 7667, 7668, 7669, 7670, 7672, 7673, 7674, 7675, 7676, 7677, 7678, 7679, 7680, 7681, 7682, 7683, 7685, 7686, 7687, 7688, 7689, 7690, 7692, 7693, 7694, 7695, 7696, 7697, 7698, 7699, 7702, 7703, 7704, 7705, 7706, 7707, 7708, 7709, 7710, 7711, 7712, 7713, 7715, 7716, 7717, 7718, 7719, 7720, 7721, 7722, 7723, 7724, 7725, 7726, 7728, 7729, 7730, 7731, 7732, 7733, 7734, 7737, 7738, 7739, 7740, 7741, 7742, 7743, 7744, 7745, 7746, 7747, 7748, 7750, 7751, 7752, 7753, 7754, 7755, 7757, 7758, 7759, 7760, 9750, 9751, 9752, 9753, 9754, 9756, 9757, 9758, 9759, 9760, 9763, 9764, 9765, 9766, 9767, 9768, 9769, 9770, 9771, 9772, 9773: the complete edition of each is on the shelf instead. |
+| pg-28905 | excluded | PG 28905: Gutenberg's linked index of Bulwer-Lytton's works, not a book. |
+| pg-61668 | excluded | PG 61668 Stories of Intellect: a many-author anthology (ed. Rossiter Johnson). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,467 @@
+{
+ "_about": "Edward Bulwer-Lytton's novels, plays and essays: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edward Bulwer-Lytton",
+ "_name_words": [
+  "bulwer-lytton"
+ ],
+ "_surname": [
+  "edward bulwer-lytton",
+  "edward bulwer lytton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blytton-rienzi-the-last-of-the-roman-tribunes": [
+   1396,
+   "Rienzi, the Last of the Roman Tribunes"
+  ],
+  "blytton-last-days-of-pompeii": [
+   1565,
+   "The Last Days of Pompeii"
+  ],
+  "blytton-lady-of-lyons": [
+   2461,
+   "The Lady of Lyons; Or, Love and Pride"
+  ],
+  "blytton-zanoni": [
+   2664,
+   "Zanoni"
+  ],
+  "blytton-athens-6156": [
+   6156,
+   "Athens: Its Rise and Fall, Complete"
+  ],
+  "blytton-caxtons-7605": [
+   7605,
+   "The Caxtons: A Family Picture — Complete"
+  ],
+  "blytton-zicci-7608": [
+   7608,
+   "Zicci: A Tale — Complete"
+  ],
+  "blytton-eugene-aram-complete": [
+   7614,
+   "Eugene Aram — Complete"
+  ],
+  "blytton-pelham-complete": [
+   7623,
+   "Pelham — Complete"
+  ],
+  "blytton-devereux-complete": [
+   7630,
+   "Devereux — Complete"
+  ],
+  "blytton-disowned-complete": [
+   7639,
+   "The Disowned — Complete"
+  ],
+  "blytton-ernest-maltravers-complete": [
+   7649,
+   "Ernest Maltravers — Complete"
+  ],
+  "blytton-kenelm-chillingly-complete": [
+   7658,
+   "Kenelm Chillingly — Complete"
+  ],
+  "blytton-what-will-he-do-with-it-complete": [
+   7671,
+   "What Will He Do with It? — Complete"
+  ],
+  "blytton-harold-7684": [
+   7684,
+   "Harold : the Last of the Saxon Kings — Complete"
+  ],
+  "blytton-lucretia-complete": [
+   7691,
+   "Lucretia — Complete"
+  ],
+  "blytton-a-strange-story-complete": [
+   7701,
+   "A Strange Story — Complete"
+  ],
+  "blytton-my-novel-complete": [
+   7714,
+   "\"My Novel\" — Complete"
+  ],
+  "blytton-last-of-the-barons-complete": [
+   7727,
+   "The Last of the Barons — Complete"
+  ],
+  "blytton-paul-clifford-complete": [
+   7735,
+   "Paul Clifford — Complete"
+  ],
+  "blytton-tomlinsoniana": [
+   7736,
+   "Tomlinsoniana"
+  ],
+  "blytton-parisians-complete": [
+   7749,
+   "The Parisians — Complete"
+  ],
+  "blytton-godolphin-complete": [
+   7756,
+   "Godolphin, Complete"
+  ],
+  "blytton-falkland-complete": [
+   7761,
+   "Falkland, Complete"
+  ],
+  "blytton-pilgrims-of-the-rhine": [
+   8206,
+   "The Pilgrims of the Rhine"
+  ],
+  "blytton-pausanias-the-spartan": [
+   8573,
+   "Pausanias, the Spartan; The Haunted and the Haunters An Unfinished Historical Romance"
+  ],
+  "blytton-fallen-star": [
+   8654,
+   "The Fallen Star, or, the History of a False Religion by E.L. Bulwer; And, A Dissertation on the Origin of Evil by Lord Brougham (with Lord Brougham)"
+  ],
+  "blytton-night-and-morning-complete": [
+   9755,
+   "Night and Morning, Complete"
+  ],
+  "blytton-leila-9761": [
+   9761,
+   "Leila or, the Siege of Granada, Complete"
+  ],
+  "blytton-calderon-the-courtier-a-tale": [
+   9762,
+   "Calderon the Courtier, a Tale"
+  ],
+  "blytton-alice-or-the-mysteries-complete": [
+   9774,
+   "Alice, or the Mysteries — Complete"
+  ],
+  "blytton-haunted-and-the-haunters": [
+   14195,
+   "The Haunted and the Haunters; Or, The House and the Brain"
+  ],
+  "blytton-poetical-works-of-sir-edward-bulwer-lytton-bart-m-p": [
+   34298,
+   "The Poetical Works of Sir Edward Bulwer Lytton, Bart. M.P.",
+   {
+    "contents_only": true
+   }
+  ],
+  "blytton-ismael": [
+   65357,
+   "Ismael; an oriental tale. With other poems"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 6151, 6152, 6153, 6154, 6155, 7586, 7587, 7588, 7589, 7590, 7591, 7592, 7593, 7594, 7595, 7596, 7597, 7598, 7599, 7601, 7602, 7603, 7604, 7606, 7607, 7609, 7610, 7611, 7612, 7613, 7615, 7616, 7617, 7618, 7619, 7620, 7621, 7622, 7624, 7625, 7626, 7627, 7628, 7629, 7631, 7632, 7633, 7634, 7635, 7636, 7637, 7638, 7640, 7641, 7642, 7643, 7644, 7645, 7646, 7647, 7648, 7650, 7651, 7652, 7653, 7654, 7655, 7656, 7657, 7659, 7660, 7661, 7662, 7663, 7664, 7665, 7666, 7667, 7668, 7669, 7670, 7672, 7673, 7674, 7675, 7676, 7677, 7678, 7679, 7680, 7681, 7682, 7683, 7685, 7686, 7687, 7688, 7689, 7690, 7692, 7693, 7694, 7695, 7696, 7697, 7698, 7699, 7702, 7703, 7704, 7705, 7706, 7707, 7708, 7709, 7710, 7711, 7712, 7713, 7715, 7716, 7717, 7718, 7719, 7720, 7721, 7722, 7723, 7724, 7725, 7726, 7728, 7729, 7730, 7731, 7732, 7733, 7734, 7737, 7738, 7739, 7740, 7741, 7742, 7743, 7744, 7745, 7746, 7747, 7748, 7750, 7751, 7752, 7753, 7754, 7755, 7757, 7758, 7759, 7760, 9750, 9751, 9752, 9753, 9754, 9756, 9757, 9758, 9759, 9760, 9763, 9764, 9765, 9766, 9767, 9768, 9769, 9770, 9771, 9772, 9773: the complete edition of each is on the shelf instead.",
+  "pg-28905": "PG 28905: Gutenberg's linked index of Bulwer-Lytton's works, not a book.",
+  "pg-61668": "PG 61668 Stories of Intellect: a many-author anthology (ed. Rossiter Johnson)."
+ },
+ "_checks": {
+  "blytton-rienzi-the-last-of-the-roman-tribunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-last-days-of-pompeii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-lady-of-lyons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-zanoni": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-athens-6156": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-caxtons-7605": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-zicci-7608": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-eugene-aram-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-pelham-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-devereux-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-disowned-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-ernest-maltravers-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-kenelm-chillingly-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-what-will-he-do-with-it-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-harold-7684": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-lucretia-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-a-strange-story-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-my-novel-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-last-of-the-barons-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-paul-clifford-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-tomlinsoniana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-parisians-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-godolphin-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-falkland-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-pilgrims-of-the-rhine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-pausanias-the-spartan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-fallen-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-night-and-morning-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-leila-9761": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-calderon-the-courtier-a-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer-lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-alice-or-the-mysteries-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-haunted-and-the-haunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-poetical-works-of-sir-edward-bulwer-lytton-bart-m-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blytton-ismael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward bulwer lytton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

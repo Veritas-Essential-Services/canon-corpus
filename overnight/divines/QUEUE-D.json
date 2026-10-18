@@ -2797,6 +2797,14 @@
       "started": "2026-10-17T19:21:37-05:00",
       "finished": "2026-10-17T19:21:37-05:00",
       "notes": "george-meredith: new shelf, 28 Gutenberg books, 48,697 units, 1179 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bulwer-lytton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Edward Bulwer-Lytton; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:21:38-05:00",
+      "finished": "2026-10-17T19:21:39-05:00",
+      "notes": "bulwer-lytton: new shelf, 34 Gutenberg books, 75,938 units, 23842 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

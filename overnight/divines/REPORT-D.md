@@ -1326,3 +1326,6 @@
 
 ## 2026-10-17 19:21 CDT — george-meredith: done
 - george-meredith: new shelf, 28 Gutenberg books, 48,697 units, 1179 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:21 CDT — bulwer-lytton: done
+- bulwer-lytton: new shelf, 34 Gutenberg books, 75,938 units, 23842 ~2 ids; verify 0 mismatches, 0 rights flags.
