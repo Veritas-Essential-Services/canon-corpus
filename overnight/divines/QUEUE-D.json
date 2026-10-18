@@ -3437,6 +3437,14 @@
       "started": "2026-10-17T21:59:03-05:00",
       "finished": "2026-10-17T21:59:03-05:00",
       "notes": "orczy-works: new shelf, 29 Gutenberg books, 58,364 units, 1348 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "angela-brazil",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Angela Brazil; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:59:04-05:00",
+      "finished": "2026-10-17T21:59:04-05:00",
+      "notes": "angela-brazil: new shelf, 27 Gutenberg books, 38,016 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -34171,6 +34171,40 @@ Shelf: `pipeline/orczy-works_shelf.json` (2026-10-17; added at the coordinator's
 | pg-58302 | excluded | PG 58302: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 60: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Angela Brazil
+
+Shelf: `pipeline/angela-brazil_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Monitress Merle | have | PG 7820, `abrazil-monitress-merle` (1223 units) |
+| The Luckiest Girl in the School | have | PG 18019, `abrazil-luckiest-girl-in-the-school` (1312 units) |
+| A Popular Schoolgirl | have | PG 18505, `abrazil-a-popular-schoolgirl` (1317 units) |
+| The Jolliest School of All | have | PG 20163, `abrazil-jolliest-school-of-all` (1454 units) |
+| For the Sake of the School | have | PG 20730, `abrazil-for-the-sake-of-the-school` (1569 units) |
+| The Princess of the School | have | PG 21656, `abrazil-princess-of-the-school` (1311 units) |
+| The Youngest Girl in the Fifth: A School Story | have | PG 21687, `abrazil-youngest-girl-in-the-fifth` (1813 units) |
+| The New Girl at St. Chad's: A Story of School Life | have | PG 24025, `abrazil-new-girl-at-st-chads` (1583 units) |
+| A harum-scarum schoolgirl | have | PG 24645, `abrazil-a-harum-scarum-schoolgirl` (1500 units) |
+| The Nicest Girl in the School: A Story of School Life | have | PG 25003, `abrazil-nicest-girl-in-the-school` (1155 units) |
+| A Patriotic Schoolgirl | have | PG 25145, `abrazil-a-patriotic-schoolgirl` (1581 units) |
+| The Madcap of the School | have | PG 28749, `abrazil-madcap-of-the-school` (1583 units) |
+| The Leader of the Lower School: A Tale of School Life | have | PG 28854, `abrazil-leader-of-the-lower-school` (1489 units) |
+| The Manor House School | have | PG 28974, `abrazil-manor-house-school` (1483 units) |
+| Loyal to the School | have | PG 32093, `abrazil-loyal-to-the-school` (1358 units) |
+| A Fourth Form Friendship: A School Story | have | PG 32524, `abrazil-a-fourth-form-friendship` (1536 units) |
+| The Head Girl at the Gables | have | PG 32575, `abrazil-head-girl-at-the-gables` (1702 units) |
+| The Third Class at Miss Kaye's: A School Story | have | PG 33263, `abrazil-third-class-at-miss-kayes` (1315 units) |
+| The Fortunes of Philippa: A School Story | have | PG 33387, `abrazil-fortunes-of-philippa` (703 units) |
+| A Pair of Schoolgirls: A Story of School Days | have | PG 33389, `abrazil-a-pair-of-schoolgirls` (1306 units) |
+| Bosom Friends: A Seaside Story | have | PG 33390, `abrazil-bosom-friends` (888 units) |
+| The School by the Sea | have | PG 33909, `abrazil-school-by-the-sea` (1380 units) |
+| The Jolliest Term on Record: A Story of School Life | have | PG 33910, `abrazil-jolliest-term-on-record` (1556 units) |
+| For the School Colours | have | PG 35972, `abrazil-for-the-school-colours` (1678 units) |
+| A Fortunate Term | have | PG 36080, `abrazil-a-fortunate-term` (1446 units) |
+| The Girls of St. Cyprian's: A Tale of School Life | have | PG 37161, `abrazil-girls-of-st-cyprians` (1255 units) |
+| A Terrible Tomboy | have | PG 38619, `abrazil-a-terrible-tomboy` (1520 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
