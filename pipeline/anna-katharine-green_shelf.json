@@ -198,6 +198,10 @@
   "akgreen-step-on-the-stair": [
    68153,
    "The step on the stair"
+  ],
+  "akgreen-initials-only": [
+   1857,
+   "Initials Only"
   ]
  },
  "internet_archive": {},
@@ -530,6 +534,15 @@
    "pg_translator": null
   },
   "akgreen-step-on-the-stair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna katharine green",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "akgreen-initials-only": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
