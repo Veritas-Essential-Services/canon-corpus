@@ -1,5 +1,5 @@
 {
- "_about": "George John Romanes (1848-1894), Darwin's younger colleague, on mind, evolution and belief: Mental Evolution in Man (London: Kegan Paul, Trench, 1888); Darwin, and After Darwin, 3 vols. (Chicago: Open Court; vol. I the fourth edition, 1910; vol. II first 1895, the etext from the 1916 printing; vol. III first 1897, the etext from the 1906 printing); Mind and Motion and Monism (London: Longmans, Green, 1895); Thoughts on Religion, edited by Charles Gore (Longmans, Green; the etext is the twelfth impression, 1904). Clean Gutenberg texts. Wanted: A Candid Examination of Theism (1878; PG 19003 would not download). US public domain. No uids minted.",
+ "_about": "George John Romanes (1848-1894), Darwin's younger colleague, on mind, evolution and belief: Mental Evolution in Man (London: Kegan Paul, Trench, 1888); Darwin, and After Darwin, 3 vols. (Chicago: Open Court; vol. I the fourth edition, 1910; vol. II first 1895, the etext from the 1916 printing; vol. III first 1897, the etext from the 1906 printing); Mind and Motion and Monism (London: Longmans, Green, 1895); Thoughts on Religion, edited by Charles Gore (Longmans, Green; the etext is the twelfth impression, 1904). Clean Gutenberg texts. Wanted: A Candid Examination of Theism (1878; PG 19003 would not download). US public domain. Added in round 2026-10-18cb from Gutenberg: The Scientific Evidences of Organic Evolution (1882), Animal Intelligence (1882) and An Examination of Weismannism (1893). Not taken: the zoology of Jelly-Fish, Star-Fish and Sea-Urchins, and the Life and Letters by his widow. No uids minted.",
  "_author": "George John Romanes",
  "_name_words": [
   "george",
@@ -34,6 +34,18 @@
   "romanes-thoughts-on-religion-1895": [
    16942,
    "Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904)"
+  ],
+  "romanes-scientific-evidences-organic-evolution": [
+   19922,
+   "The Scientific Evidences of Organic Evolution (1882)"
+  ],
+  "romanes-animal-intelligence": [
+   40459,
+   "Animal Intelligence (International Scientific Series, 1882)"
+  ],
+  "romanes-examination-of-weismannism": [
+   49458,
+   "An Examination of Weismannism (1893)"
   ]
  },
  "internet_archive": {},
@@ -85,6 +97,33 @@
    "pg_translator": null
   },
   "romanes-thoughts-on-religion-1895": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-scientific-evidences-organic-evolution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-animal-intelligence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "romanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "romanes-examination-of-weismannism": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",

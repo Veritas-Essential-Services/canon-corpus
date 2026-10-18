@@ -6214,6 +6214,9 @@ Shelf: `pipeline/george-romanes_shelf.json`. George John Romanes (1848-1894). Me
 | Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906) |  | `romanes-darwin-after-darwin-v3` | have (PG 37777) |
 | Mind and Motion and Monism (Longmans, 1895) |  | `romanes-mind-motion-monism-1895` | have (PG 22283) |
 | Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904) |  | `romanes-thoughts-on-religion-1895` | have (PG 16942) |
+| The Scientific Evidences of Organic Evolution (1882) |  | `romanes-scientific-evidences-organic-evolution` | have (PG 19922) |
+| Animal Intelligence (International Scientific Series, 1882) |  | `romanes-animal-intelligence` | have (PG 40459) |
+| An Examination of Weismannism (1893) |  | `romanes-examination-of-weismannism` | have (PG 49458) |
 
 Pending (wishlist): A Candid Examination of Theism (1878; PG 19003 would not download)
 
