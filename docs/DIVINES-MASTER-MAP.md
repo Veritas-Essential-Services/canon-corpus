@@ -37327,6 +37327,53 @@ Shelf: `pipeline/frank-frankfort-moore_shelf.json` (2026-10-17; added at the coo
 | split-parts | excluded | Gutenberg's split-part files PG 51936, 51937: the complete edition of each is on the shelf instead. |
 | pg-51944 | excluded | PG 51944, 51945, 51946: Gutenberg's split-part files of A Gray Eye or So; the complete edition (PG 51947) is on the shelf. |
 
+## Louis Becke
+
+Shelf: `pipeline/louis-becke_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| By Reef and Palm | have | PG 3818, `lbecke-by-reef-and-palm` (840 units) |
+| By Rock and Pool on an Austral Shore, and Other Stories | have | PG 12798, `lbecke-by-rock-and-pool-on-an-austral-shore-and-other-storie` (851 units) |
+| The Naval Pioneers of Australia (with Walter Jeffery) | have | PG 12992, `lbecke-naval-pioneers-of-australia` (691 units) |
+| Edward Barry South Sea Pearler | have | PG 23440, `lbecke-edward-barry-south-sea-pearler` (1164 units) |
+| Yorke The Adventurer | have | PG 23821, `lbecke-yorke-the-adventurer` (293 units) |
+| Tom Gerrard | have | PG 24270, `lbecke-tom-gerrard` (1421 units) |
+| John Corwell, Sailor and Miner; and, Poisonous Fish 1901 | have | PG 24446, `lbecke-john-corwell-sailor-and-miner` (169 units) |
+| The Colonial Mortuary Bard; "'Reo," The Fisherman; and The Black Bream of Australia 1901 | have | PG 24639, `lbecke-colonial-mortuary-bard` (100 units) |
+| "Old Mary" 1901 | have | PG 24640, `lbecke-old-mary-1901` (119 units) |
+| "Martin of Nitendi"; and The River of Dreams 1901 | have | PG 24641, `lbecke-martin-of-nitendi` (136 units) |
+| "Five-Head" Creek; and Fish Drugging in the Pacific 1901 | have | PG 24642, `lbecke-five-head-creek` (94 units) |
+| "Chinkie's Flat" 1904 | have | PG 24805, `lbecke-chinkies-flat-1904` (590 units) |
+| John Frewen, South Sea Whaler 1904 | have | PG 24806, `lbecke-john-frewen-south-sea-whaler-1904` (654 units) |
+| A Memory of the Southern Seas 1904 | have | PG 24807, `lbecke-a-memory-of-the-southern-seas-1904` (475 units) |
+| Rídan the Devil, and Other Stories 1899 | have | PG 24835, `lbecke-r-dan-the-devil-and-other-stories-1899` (1038 units) |
+| Rodman the Boatsteerer, and Other Stories 1898 | have | PG 24836, `lbecke-rodman-the-boatsteerer-and-other-stories-1898` (1593 units) |
+| The Trader's Wife 1901 | have | PG 24837, `lbecke-traders-wife-1901` (258 units) |
+| Tessa 1901 | have | PG 24838, `lbecke-tessa-1901` (700 units) |
+| The Call of the South 1908 | have | PG 24895, `lbecke-call-of-the-south-1908` (1140 units) |
+| The Ebbing Of The Tide South Sea Stories - 1896 | have | PG 24896, `lbecke-ebbing-of-the-tide-south-sea-stories-1896` (1463 units) |
+| Âmona; The Child; And The Beast; And Others From "The Strange Adventure of James Shervinton, and Other Stories" - 1902 | have | PG 24952, `lbecke-mona` (125 units) |
+| The Flemmings and "Flash Harry" of Savait From "The Strange Adventure of James Shervinton, and Other Stories" - 1902 | have | PG 24953, `lbecke-flemmings-and-flash-harry-of-savait-from-the-strange` (141 units) |
+| "Pig-Headed" Sailor Men From "The Strange Adventure of James Shervinton, and Other Stories" - 1902 | have | PG 24954, `lbecke-pig-headed-sailor-men-from-the-strange-adventure-of-j` (82 units) |
+| The Americans in the South Seas 1901 | have | PG 24995, `lbecke-americans-in-the-south-seas-1901` (24 units) |
+| The Tapu of Banderah 1901 | have | PG 24996, `lbecke-tapu-of-banderah-1901` (217 units) |
+| The Beginning of the Sea Story of Australia 1901 | have | PG 24997, `lbecke-beginning-of-the-sea-story-of-australia-1901` (54 units) |
+| Concerning "Bully" Hayes From "The Strange Adventure of James Shervinton, and Other Stories" - 1902 | have | PG 24998, `lbecke-concerning-bully-hayes-from-the-strange-adventure-of` (123 units) |
+| The Strange Adventure of James Shervinton 1902 | have | PG 24999, `lbecke-strange-adventure-of-james-shervinton-1902` (752 units) |
+| The Brothers-In-Law: A Tale of the Equatorial Islands; and The Brass Gun of the Buccaneers 1901 | have | PG 25056, `lbecke-brothers-in-law` (120 units) |
+| The Adventure of Elizabeth Morey, of New York 1901 | have | PG 25057, `lbecke-adventure-of-elizabeth-morey-of-new-york-1901` (62 units) |
+| Foster's Letter of Marque: A Tale of Old Sydney 1901 | have | PG 25058, `lbecke-fosters-letter-of-marque` (173 units) |
+| In the Far North 1901 | have | PG 25059, `lbecke-in-the-far-north-1901` (133 units) |
+| Officer and Man 1901 | have | PG 25060, `lbecke-officer-and-man-1901` (168 units) |
+| Pâkia 1901 | have | PG 25105, `lbecke-p-kia-1901` (77 units) |
+| "The Gallant, Good Riou", and Jack Renton 1901 | have | PG 25106, `lbecke-gallant-good-riou-and-jack-renton-1901` (55 units) |
+| Sarréo 1901 | have | PG 25107, `lbecke-sarr-o-1901` (91 units) |
+| The South Seaman: An Incident in the Sea Story of Australia 1901 | have | PG 25108, `lbecke-south-seaman` (76 units) |
+| Susâni 1901 | have | PG 25109, `lbecke-sus-ni-1901` (61 units) |
+| Tom Wallis: A Tale of the South Seas | have | PG 40705, `lbecke-tom-wallis` (1243 units) |
+| pg-28972 | excluded | PG 28972: Gutenberg's linked index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

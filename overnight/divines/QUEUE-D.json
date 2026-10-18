@@ -3613,6 +3613,14 @@
       "started": "2026-10-17T22:56:23-05:00",
       "finished": "2026-10-17T22:56:23-05:00",
       "notes": "frank-frankfort-moore: new shelf, 17 Gutenberg books, 28,394 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "louis-becke",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Louis Becke; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:56:24-05:00",
+      "finished": "2026-10-17T22:56:24-05:00",
+      "notes": "louis-becke: new shelf, 39 Gutenberg books, 17,566 units, 2100 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
