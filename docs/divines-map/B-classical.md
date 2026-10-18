@@ -4445,6 +4445,7 @@ Shelf: `pipeline/w-s-jevons_shelf.json`. The Principles of Science (1883).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883) |  | `jevons-principles-of-science-1883` | have (PG 74864) |
+| Political Economy, Science Primers (New York: D. Appleton, 1880) |  | `jevons-political-economy-primer-1880` | have (PG 33219) |
 
 ## George Boole
 
