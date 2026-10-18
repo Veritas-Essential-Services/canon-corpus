@@ -6737,6 +6737,7 @@ Shelf: `pipeline/nathanael-culverwel_shelf.json`. The Light of Nature.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Of the Light of Nature, ed. John Brown (Constable, 1857) |  | `culverwel-light-of-nature-1857` | have-raw (IA `oflightofnatured00culvrich`) |
 
 ## Sir Kenelm Digby (natural philosophy)
 

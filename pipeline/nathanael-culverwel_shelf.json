@@ -1,0 +1,36 @@
+{
+ "_about": "Nathanael Culverwel (c. 1619-c. 1651), Emmanuel College, Cambridge, on reason and natural law. Raw IA OCR: An Elegant and Learned Discourse of the Light of Nature, edited by John Brown, with a critical essay by John Cairns (Edinburgh: Thomas Constable, MDCCCLVII), clean 0.88. US public domain. No uids minted.",
+ "_author": "Nathanael Culverwel",
+ "_name_words": [
+  "nathanael",
+  "nathaniel",
+  "culverwel",
+  "culverwell"
+ ],
+ "_surname": [
+  "culverwel",
+  "culverwell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "culverwel-light-of-nature-1857": [
+   "oflightofnatured00culvrich",
+   "Of the Light of Nature, ed. John Brown (Constable, 1857)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "culverwel-light-of-nature-1857": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "culverwel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
