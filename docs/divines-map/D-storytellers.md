@@ -8921,6 +8921,18 @@ Shelf: `pipeline/george-moore_shelf.json` (2026-10-17; added at the coordinator'
 | Mike Fletcher: A Novel | have | PG 16730, `gmoore-mike-fletcher` (1613 units) |
 | repeat-editions | excluded | PG 12278: second Gutenberg editions of titles already on the shelf. |
 
+## Laurence Sterne
+
+Shelf: `pipeline/sterne_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (4 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sentimental Journey Through France and Italy | have | PG 804, `sterne-a-sentimental-journey-through-france-and-italy` (607 units) |
+| The life and opinions of Tristram Shandy, gentleman | have | PG 1079, `sterne-life-and-opinions-of-tristram-shandy-gentleman` (2911 units) |
+| A Political Romance | have | PG 20257, `sterne-a-political-romance` (105 units) |
+| The Journal to Eliza and Various letters by Laurence Sterne and Elizabeth Draper | have | PG 60563, `sterne-journal-to-eliza-and-various-letters-by-laurence-ster` (641 units) |
+| repeat-editions | excluded | PG 39270: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,71 @@
+{
+ "_about": "Laurence Sterne's novels and sermons (Tristram Shandy, A Sentimental Journey): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Laurence Sterne",
+ "_name_words": [
+  "sterne"
+ ],
+ "_surname": [
+  "laurence sterne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sterne-a-sentimental-journey-through-france-and-italy": [
+   804,
+   "A Sentimental Journey Through France and Italy"
+  ],
+  "sterne-life-and-opinions-of-tristram-shandy-gentleman": [
+   1079,
+   "The life and opinions of Tristram Shandy, gentleman"
+  ],
+  "sterne-a-political-romance": [
+   20257,
+   "A Political Romance"
+  ],
+  "sterne-journal-to-eliza-and-various-letters-by-laurence-ster": [
+   60563,
+   "The Journal to Eliza and Various letters by Laurence Sterne and Elizabeth Draper"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 39270: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "sterne-a-sentimental-journey-through-france-and-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laurence sterne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sterne-life-and-opinions-of-tristram-shandy-gentleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laurence sterne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sterne-a-political-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laurence sterne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sterne-journal-to-eliza-and-various-letters-by-laurence-ster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laurence sterne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
