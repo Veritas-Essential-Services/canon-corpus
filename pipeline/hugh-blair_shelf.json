@@ -1,0 +1,33 @@
+{
+ "_about": "Hugh Blair (1718-1800), Edinburgh professor of rhetoric: Lectures on Rhetoric and Belles Lettres, edited by Abraham Mills, a new edition enlarged and improved (New York: Roe Lockwood, 1857), raw IA OCR, clean 0.93. Wanted: the unedited three-volume text (London, 1783) over the gate. Not Robert Blair the poet. US public domain. No uids minted.",
+ "_author": "Hugh Blair",
+ "_name_words": [
+  "hugh",
+  "blair"
+ ],
+ "_surname": [
+  "blair"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blair-lectures-rhetoric-mills-1857": [
+   "lecturesonrhetor00blai_1",
+   "Lectures on Rhetoric and Belles Lettres, ed. Abraham Mills (New York: Roe Lockwood, 1857)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "blair-lectures-rhetoric-mills-1857": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "blair",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

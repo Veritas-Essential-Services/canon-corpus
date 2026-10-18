@@ -5877,6 +5877,7 @@ Shelf: `pipeline/hugh-blair_shelf.json`. Mills' 1857 edition of the Lectures. No
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Lectures on Rhetoric and Belles Lettres, ed. Abraham Mills (New York: Roe Lockwood, 1857) |  | `blair-lectures-rhetoric-mills-1857` | have-raw (IA `lecturesonrhetor00blai_1`) |
 
 Pending (wishlist): Lectures on Rhetoric and Belles Lettres, first edition (1783, 2 or 3 vols.)
 
