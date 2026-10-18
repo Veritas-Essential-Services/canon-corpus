@@ -6426,6 +6426,10 @@ Shelf: `pipeline/h-wildon-carr_shelf.json`. H. Wildon Carr (1857-1931). Four boo
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Henri Bergson: the Philosophy of Change (The People's Books; preface 1911) |  | `carr-henri-bergson-philosophy-of-change` | have-raw (IA `henribergsonphil00carriala`) |
+| The Philosophy of Change (Macmillan, 1914) |  | `carr-philosophy-of-change-1914` | have-raw (IA `cu31924029119075`) |
+| A Theory of Monads (Macmillan, 1922) |  | `carr-theory-of-monads-1922` | have-raw (IA `theoryofmonadsou00carriala`) |
+| Changing Backgrounds in Religion and Ethics (Macmillan, 1927) |  | `carr-changing-backgrounds-1927` | have-raw (IA `changingbackgrou0000herb`) |
 
 Pending (wishlist): The Problem of Truth (1913) and Leibniz (1929) in dated pre-1931 copies
 
