@@ -7518,6 +7518,23 @@ Slugs `munger-*`. Built from title pages read for round 32.
 | Essays for the Day (Boston and New York: Houghton, Mifflin, 1904) | have-ocr | IA `essaysforday00mung` |
 | Other copies of The Freedom of Faith and the Bushnell | alternate | not shelved |
 | The Message of Christ to Manhood: lectures by several hands | excluded | |
+
+## Edward Robinson (round 32, my pick, 2026-10-18)
+
+Slugs `erobinson-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. I (Boston: Crocker and Brewster; London: John Murray, 1841) | have-ocr | IA `biblicalresearch01robi_0` |
+| Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. II (Boston: Crocker and Brewster; London: John Murray, 1841) | have-ocr | IA `biblicalresearch02robi_0` |
+| Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, vol. III (Boston: Crocker and Brewster; London: John Murray, 1841) | have-ocr | IA `biblicalresearch03robi` |
+| Later Biblical Researches in Palestine and the Adjacent Regions (Boston: Crocker and Brewster, 1856) | have-ocr | IA `laterbiblicalre00robigoog` |
+| Physical Geography of the Holy Land (Boston: Crocker and Brewster, 1865) | have-ocr | IA `physicalgeograph00robi` |
+| A Greek and English Lexicon of the New Testament (Boston: Crocker and Brewster, 1836) | have-ocr | IA `lexicongreekengl00robirich` |
+| A Harmony of the Four Gospels in Greek (Boston: Crocker and Brewster, 1845) | have-ocr | IA `harmonyoffourgos00robirich` |
+| A Harmony of the Four Gospels in English (Boston: Crocker and Brewster, 1846) | have-ocr | IA `gospelsharmony00robirich` |
+| His translation of Gesenius's Hebrew and English Lexicon (1836) | alternate | not shelved |
+| The 1834 Greek Harmony after Newcome; the 1874 eleventh edition of the Researches; his Dictionary of the Holy Bible (abridged from Calmet) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
