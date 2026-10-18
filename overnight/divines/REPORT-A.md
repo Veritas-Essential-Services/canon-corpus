@@ -1231,3 +1231,6 @@
 
 ## 2026-10-17 19:13 CDT — w-r-inge done
 - `pipeline/w-r-inge_shelf.json`: 0 CCEL, 1 PG, 17 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — evelyn-underhill done
+- `pipeline/evelyn-underhill_shelf.json`: 0 CCEL, 2 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.

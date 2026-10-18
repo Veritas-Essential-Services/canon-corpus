@@ -5859,3 +5859,28 @@ Slugs `inge-*`. Dean of St Paul's, writer on mysticism and Plotinus; every print
 | Other copies of Christian Mysticism (1899, 1918), Outspoken Essays (1919-1920), Plotinus; The Church in the World and England (not fully read) | alternate | not shelved |
 | Light, Life, and Love (selections from the German mystics), Contentio Veritatis and other multi-author volumes | excluded | |
 | Wit and Wisdom of Dean Inge (compiled by Marchant); his school editions of Latin and Greek authors | excluded | |
+
+## Evelyn Underhill (round 27, my pick, 2026-10-17)
+
+Slugs `underhill-*`. Writer on mysticism; every printing before 1930. Her Jacopone da Todi includes Mrs Beck's translations of his Lauds.
+
+| Work | Status | Where |
+|---|---|---|
+| The Essentials of Mysticism and Other Essays (London: J. M. Dent; New York: Dutton, 1920) | have-clean | Gutenberg 74203 |
+| The Life of the Spirit and the Life of To-day (New York: E. P. Dutton, copyright 1922) | have-clean | Gutenberg 15082 |
+| Mysticism: a Study in the Nature and Development of Man's Spiritual Consciousness, third edition revised (New York: E. P. Dutton, 1912) | have-ocr | IA `mysticismstudyin00undeuoft` |
+| The Mystic Way: a Psychological Study in Christian Origins (London: J. M. Dent, 1913) | have-ocr | IA `mysticwaypsychol00unde` |
+| Practical Mysticism: a Little Book for Normal People (London: J. M. Dent, 1914) | have-ocr | IA `PracticalMysticism` |
+| Ruysbroeck (London: G. Bell, 1914) | have-ocr | IA `ruysbroeck00undeuoft` |
+| Jacopone da Todi, Poet and Mystic, 1228-1306: a Spiritual Biography, with a selection from the Spiritual Songs translated into English verse by Mrs. Theodore Beck (London: J. M. Dent, 1919) | have-ocr | IA `jacoponedatodipo00undeuoft` |
+| Immanence: a Book of Verses (London: J. M. Dent, first edition 1912) | have-ocr | IA `immanencebookofv00underich` |
+| Theophanies: a Book of Verses (London: J. M. Dent, 1916) | have-ocr | IA `theophaniesbooko00unde` |
+| The Miracles of Our Lady Saint Mary, brought out of divers tongues and newly set forth in English (London: William Heinemann, 1905) | have-ocr | IA `TheMiraclesOfOurLady` |
+| Man and the Supernatural (London: Methuen, first published 1927) | have-ocr | IA `in.ernet.dli.2015.515707` |
+| Mysticism, fourth edition (London: Methuen, 1912) | alternate | not shelved |
+| PG 21774 = CCEL underhill/practical (Practical Mysticism, Dutton 1915) and PG 37870 (Ruysbroeck, 1915) | alternate | not shelved |
+| Her novels The Grey World (1904), The Lost Word (1907) and The Column of Dust (1909), and A Bar-Lamb's Ballad Book (1902): fiction and comic verse | alternate | not shelved |
+| Concerning the Inner Life (a 1929-or-later printing), The Mystics of the Church (undated), The Spiral Way (as John Cordelier, undated) | alternate | not shelved |
+| CCEL underhill/mysticism: the twelfth edition, preface Easter 1930 | excluded | |
+| Printings from 1930 on (The House of the Soul and later) | excluded | |
+| Books by others that she edited or helped translate (Kabir, the Cloud, Hilton, Ruysbroeck's Adornment) | excluded | |

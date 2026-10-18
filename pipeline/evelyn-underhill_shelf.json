@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain Evelyn Underhill (1875-1941, Anglican writer on mysticism) for the Word Hoard: The Essentials of Mysticism (1920) and The Life of the Spirit and the Life of To-day (1922) from Project Gutenberg, and 9 books printed before 1930 from Internet Archive scans: Mysticism (1912 revised edition), The Mystic Way (1913), Practical Mysticism (1914), Ruysbroeck (1914), Jacopone da Todi (1919, with Mrs. Theodore Beck's verse translations of his Lauds), two books of verse, The Miracles of Our Lady Saint Mary (1905) and Man and the Supernatural (1927). Written in English; her later books are not here. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "underhill"
+ ],
+ "_surname": [
+  "evelyn underhill",
+  "underhill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "underhill-essentials-mysticism": [
+   "74203",
+   "The Essentials of Mysticism and Other Essays (London: J. M. Dent; New York: Dutton, 1920)"
+  ],
+  "underhill-life-of-the-spirit": [
+   "15082",
+   "The Life of the Spirit and the Life of To-day (New York: E. P. Dutton, copyright 1922)"
+  ]
+ },
+ "internet_archive": {
+  "underhill-mysticism": [
+   "mysticismstudyin00undeuoft",
+   "Mysticism: a Study in the Nature and Development of Man's Spiritual Consciousness, third edition revised (New York: E. P. Dutton, 1912)"
+  ],
+  "underhill-mystic-way": [
+   "mysticwaypsychol00unde",
+   "The Mystic Way: a Psychological Study in Christian Origins (London: J. M. Dent, 1913)"
+  ],
+  "underhill-practical-mysticism": [
+   "PracticalMysticism",
+   "Practical Mysticism: a Little Book for Normal People (London: J. M. Dent, 1914)"
+  ],
+  "underhill-ruysbroeck": [
+   "ruysbroeck00undeuoft",
+   "Ruysbroeck (London: G. Bell, 1914)"
+  ],
+  "underhill-jacopone-da-todi": [
+   "jacoponedatodipo00undeuoft",
+   "Jacopone da Todi, Poet and Mystic, 1228-1306: a Spiritual Biography, with a selection from the Spiritual Songs translated into English verse by Mrs. Theodore Beck (London: J. M. Dent, 1919)"
+  ],
+  "underhill-immanence": [
+   "immanencebookofv00underich",
+   "Immanence: a Book of Verses (London: J. M. Dent, first edition 1912)"
+  ],
+  "underhill-theophanies": [
+   "theophaniesbooko00unde",
+   "Theophanies: a Book of Verses (London: J. M. Dent, 1916)"
+  ],
+  "underhill-miracles-of-our-lady": [
+   "TheMiraclesOfOurLady",
+   "The Miracles of Our Lady Saint Mary, brought out of divers tongues and newly set forth in English (London: William Heinemann, 1905)"
+  ],
+  "underhill-man-and-supernatural": [
+   "in.ernet.dli.2015.515707",
+   "Man and the Supernatural (London: Methuen, first published 1927)",
+   "2015.515707.Man-And_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "underhill-mysticism-methuen": "Mysticism, fourth edition (London: Methuen, 1912)",
+  "underhill-pg": "PG 21774 = CCEL underhill/practical (Practical Mysticism, Dutton 1915) and PG 37870 (Ruysbroeck, 1915)",
+  "underhill-novels": "Her novels The Grey World (1904), The Lost Word (1907) and The Column of Dust (1909), and A Bar-Lamb's Ballad Book (1902): fiction and comic verse",
+  "underhill-other": "Concerning the Inner Life (a 1929-or-later printing), The Mystics of the Church (undated), The Spiral Way (as John Cordelier, undated)"
+ },
+ "_excluded": {
+  "underhill-ccel-mysticism": "CCEL underhill/mysticism: the twelfth edition, preface Easter 1930",
+  "underhill-late": "Printings from 1930 on (The House of the Soul and later)",
+  "underhill-edited": "Books by others that she edited or helped translate (Kabir, the Cloud, Hilton, Ruysbroeck's Adornment)"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "underhill-jacopone-da-todi": "beck"
+ },
+ "_checks": {
+  "underhill-essentials-mysticism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "underhill-life-of-the-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "underhill-mysticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-mystic-way": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-practical-mysticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "underhill-ruysbroeck": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-jacopone-da-todi": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "translator_claimed": "beck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-immanence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-theophanies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "underhill-miracles-of-our-lady": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "underhill-man-and-supernatural": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "evelyn underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
