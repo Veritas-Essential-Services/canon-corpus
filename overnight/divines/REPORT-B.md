@@ -1099,3 +1099,9 @@
 - Held: three Mandeville etexts that are Augustan Reprint Society facsimiles (1953 and later)
 - Not taken: Gutenberg singles already inside collected editions held here (Berkeley in Fraser, Hume's Treatise in the 1826 Works, T. H. Green in Nettleship's Works, Bosanquet's Theory of the State); Joseph Butler and Paley are lane A's
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:04 CDT — Round ax: political theory and jurisprudence
+- New shelves: john-austin (Lectures on Jurisprudence 1885, 2 vols), johann-caspar-bluntschli (Theory of the State, Oxford 1885), heinrich-von-treitschke (Politics, tr. Dugdale and de Bille 1916, 2 vols), ferdinand-lassalle (Working Man's Programme 1884), francis-lieber (Civil Liberty 1874), john-c-calhoun (Works 1854-56, 6 vols), giuseppe-mazzini (Life and Writings 1890-91, 6 vols)
+- Held, no printed year: Filmer's Patriarcha with Locke's Two Treatises, ed. Morley (Routledge, n.d.); Lassalle's Open Letter (Cincinnati SLP); Mazzini's Duties of Man (Funk and Wagnalls)
+- Not taken: Gowans' Treitschke Selections (1914), a second translation
+- Ids checked against heldidx and all branches: no collisions

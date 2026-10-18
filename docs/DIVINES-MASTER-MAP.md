@@ -12350,6 +12350,80 @@ Shelf: `pipeline/george-savile-halifax_shelf.json`. One Gutenberg text (1750). N
 
 Pending (wishlist): The Character of a Trimmer (in Raleigh's Complete Works of George Savile, Oxford 1912)
 
+## John Austin (jurisprudence)
+
+Shelf: `pipeline/john-austin_shelf.json`. Campbell's fifth edition of the Lectures (1885, 2 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. I (London: John Murray, 1885) |  | `austin-lectures-jurisprudence-1885-v1` | have-raw (IA `lecturesonjuris02austgoog`) |
+| Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. II (London: John Murray, 1885) |  | `austin-lectures-jurisprudence-1885-v2` | have-raw (IA `lecturesonjuris01austgoog`) |
+
+## J. K. Bluntschli (theory of the state)
+
+Shelf: `pipeline/johann-caspar-bluntschli_shelf.json`. The Oxford translation of 1885. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of the State, tr. D. G. Ritchie, P. E. Matheson and R. Lodge (Oxford: Clarendon Press, 1885) | Ritchie | `bluntschli-theory-of-the-state-1885` | have-raw (IA `theoryofstate00blun`) |
+
+## Heinrich von Treitschke (politics)
+
+Shelf: `pipeline/heinrich-von-treitschke_shelf.json`. Dugdale and de Bille's translation (1916, 2 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. I (New York: Macmillan, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v1` | have-raw (IA `politics01trei`) |
+| Politics, tr. Blanche Dugdale and Torben de Bille, vol. II (London: Constable, 1916) | Dugdale | `treitschke-politics-dugdale-1916-v2` | have-raw (IA `politics02treiuoft`) |
+
+## Ferdinand Lassalle (social democracy)
+
+Shelf: `pipeline/ferdinand-lassalle_shelf.json`. Peters' translation of the Arbeiter-Programm; the Open Letter held (no printed year). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Working Man's Programme, tr. Edward Peters (London: Modern Press, 1884) | Peters | `lassalle-working-mans-programme-1884` | have-raw (IA `workingmansprogr00lassiala`) |
+
+Pending (wishlist): Open Letter to the National Labor Association of Germany (tr. Ehmann and Bader) in a dated printing
+
+## Francis Lieber (political philosophy)
+
+Shelf: `pipeline/francis-lieber_shelf.json`. Woolsey's third edition of Civil Liberty (1874). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874) |  | `lieber-civil-liberty-woolsey-1874` | have-raw (IA `3edoncivillibert00liebuoft`) |
+
+Pending (wishlist): Manual of Political Ethics (1838-39)
+
+## John C. Calhoun (American political theory)
+
+Shelf: `pipeline/john-c-calhoun_shelf.json`. Cralle's Works, 6 vols. (1854-56), taken whole. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works, ed. R. K. Cralle, vol. 1: A Disquisition on Government and A Discourse on the Constitution and Government of the United States (New York: Appleton, 1854) |  | `calhoun-works-cralle-v1` | have-raw (IA `worksofjohnccalh01calh`) |
+| The Works, ed. R. K. Cralle, vol. 2: Speeches, vol. I (New York: Appleton, 1856, the OCR garbles the numeral) |  | `calhoun-works-cralle-v2` | have-raw (IA `worksofjohnccalh02calh`) |
+| The Works, ed. R. K. Cralle, vol. 3: Speeches, vol. II (New York: Appleton, 1854 or 1855, the OCR shows both) |  | `calhoun-works-cralle-v3` | have-raw (IA `worksofjohnccalh03calh`) |
+| The Works, ed. R. K. Cralle, vol. 4: Speeches, vol. III (New York: Appleton, 1856) |  | `calhoun-works-cralle-v4` | have-raw (IA `worksofjohnccalh04calh`) |
+| The Works, ed. R. K. Cralle, vol. 5: Reports and Public Letters (New York: Appleton, 1855) |  | `calhoun-works-cralle-v5` | have-raw (IA `worksofjohnccalh05calh`) |
+| The Works, ed. R. K. Cralle, vol. 6: Reports and Public Letters, continued (New York: Appleton, 1855) |  | `calhoun-works-cralle-v6` | have-raw (IA `worksofjohnccalh06calh`) |
+
+## Giuseppe Mazzini (political writings)
+
+Shelf: `pipeline/giuseppe-mazzini_shelf.json`. Smith, Elder's new edition of the Life and Writings (1890-91, 6 vols). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Life and Writings of Joseph Mazzini, new edition, vol. 1 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v1` | have-raw (IA `lifewritingsofjo01mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 2 (London: Smith, Elder, 1890) |  | `mazzini-life-and-writings-v2` | have-raw (IA `lifewritingsofjo02mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 3 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v3` | have-raw (IA `lifewritingsofjo03mazz`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 4 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v4` | have-raw (IA `lifewritingsofjo04mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 5 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v5` | have-raw (IA `lifewritingsofjo05mazzuoft`) |
+| Life and Writings of Joseph Mazzini, new edition, vol. 6 (London: Smith, Elder, 1891) |  | `mazzini-life-and-writings-v6` | have-raw (IA `lifewritingsofjo06mazzuoft`) |
+
+Pending (wishlist): An Essay on the Duties of Man in a dated printing
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
