@@ -7500,6 +7500,14 @@ Shelf: `pipeline/j-m-robertson_shelf.json`. Eight volumes, 1897-1917.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Montaigne and Shakspere (1897) |  | `robertson-montaigne-and-shakspere` | have (PG 25535) |
+| Rationalism (1912) |  | `robertson-rationalism` | have (PG 31941) |
+| The Evolution of States (1912) |  | `robertson-evolution-of-states` | have (PG 39860) |
+| A Short History of Christianity (second edition, 1913) |  | `robertson-short-history-of-christianity` | have (PG 52550) |
+| A Short History of Freethought, vol. 1 (third edition, 1915) |  | `robertson-short-history-freethought-1` | have (PG 51793) |
+| A Short History of Freethought, vol. 2 (third edition, 1915) |  | `robertson-short-history-freethought-2` | have (PG 52160) |
+| The Historical Jesus (1916) |  | `robertson-historical-jesus` | have (PG 51655) |
+| The Jesus Problem (1917) |  | `robertson-jesus-problem` | have (PG 53616) |
 
 ## Thomas Fowler (Oxford ethics)
 
