@@ -21773,6 +21773,30 @@ Round 96 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
 | — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |
 
+## Shelf: Jules Michelet in English before 1931: G. H. Smith's History of France, Cocks's French Revolution, The People and Priests, Women, and Families, Hazlitt's Life of Luther, Palmer's Woman, Davenport Adams's Insect and Sea, Calfa's Bible of Humanity, Simpson's Summary of Modern History
+
+Shelf: `pipeline/michelet-in-english_shelf.json` · fetch `python3 pipeline/fetch_shelf.py michelet-in-english` · titles `python3 pipeline/split_shelf_titles.py michelet-in-english`.
+Round 99 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `michelet-history-of-france-vol-1` | Jules Michelet | History of France, vol. I | G. H. Smith | 1845 | have-raw | IA `historyoffrance01michuoft` |
+| `michelet-history-of-france-vol-2` | Jules Michelet | History of France, vol. II | G. H. Smith | 1845 | have-raw | IA `historyoffrance02michuoft` |
+| `michelet-french-revolution` | Jules Michelet | Historical View of the French Revolution, from its Earliest Indications to the Flight of the King in 1791 | C. Cocks | 1847 | have-raw | IA `cu31924024313474` |
+| `michelet-the-people` | Jules Michelet | The People | C. Cocks | 1846 | have-raw | IA `thepeople00michiala` |
+| `michelet-priests-women-and-families` | Jules Michelet | Priests, Women, and Families | C. Cocks | 1846 | have-raw | IA `priestswomen00michuoft` |
+| `michelet-life-of-luther` | Jules Michelet | The Life of Luther, gathered from his own writings | William Hazlitt | 1846 | have-raw | IA `lifeofluther00mich` |
+| `michelet-woman` | Jules Michelet | Woman (La Femme) | J. W. Palmer | 1860 | have-raw | IA `womanlafemme00mich` |
+| `michelet-the-insect` | Jules Michelet | The Insect | W. H. Davenport Adams | 1875 | have-raw | IA `bp_4885257` |
+| `michelet-the-sea` | Jules Michelet | The Sea | W. H. Davenport Adams | 1875 | have-raw | IA `seatrbywhdadams00michgoog` |
+| `michelet-bible-of-humanity` | Jules Michelet | The Bible of Humanity | Vincenzo Calfa | 1877 | have-raw | IA `cu31924029750225` |
+| `michelet-summary-of-modern-history` | Jules Michelet | A Summary of Modern History, translated and continued to the present time | M. C. M. Simpson | 1875 | have-raw | IA `asummarymodernh01simpgoog` |
+| — | — | roman-republic-hazlitt: History of the Roman Republic (Bogue, 1847; historyromanrep00hazlgoog): the OCR of the title page does not name a translator; Hazlitt's name appears only in the publisher's advertisements. | — | — | excluded | — |
+| — | — | history-of-france-kelly: Walter K. Kelly's History of France (Chapman and Hall, 1844-46): only vol. II was found as a scan, so G. H. Smith's complete two volumes stand instead. | — | — | excluded | — |
+| — | — | the-bird: The Bird (Nelson, 1869 and later): the translator is not named in the scans checked. | — | — | excluded | — |
+| — | — | the-mountain: The Mountain (Nelson, 1886; cu31924005015486): the translator is not named in the first 70 KB of the scan. | — | — | excluded | — |
+| — | — | love-palmer: Love (L'Amour, Rudd & Carleton, 1859): J. W. Palmer's name was not found in the front matter of the scan checked. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
