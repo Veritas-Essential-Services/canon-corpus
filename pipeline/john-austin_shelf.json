@@ -1,0 +1,48 @@
+{
+ "_about": "John Austin (1790-1859), founder of analytical jurisprudence: Lectures on Jurisprudence, or the Philosophy of Positive Law, fifth edition, revised and edited by Robert Campbell, 2 vols. (London: John Murray, 1885), which opens with The Province of Jurisprudence Determined. Raw IA OCR, clean 0.92 (I) and 0.91 (II). Not taken: a second Google copy of vol. II (lecturesonjuris00austgoog, clean 0.90). Not Jane Austen and not Sarah Austin the translator. US public domain. No uids minted.",
+ "_author": "John Austin",
+ "_name_words": [
+  "john",
+  "austin"
+ ],
+ "_surname": [
+  "austin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "austin-lectures-jurisprudence-1885-v1": [
+   "lecturesonjuris02austgoog",
+   "Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. I (London: John Murray, 1885)"
+  ],
+  "austin-lectures-jurisprudence-1885-v2": [
+   "lecturesonjuris01austgoog",
+   "Lectures on Jurisprudence, fifth edition, ed. Robert Campbell, vol. II (London: John Murray, 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "austin-lectures-jurisprudence-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "austin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "austin-lectures-jurisprudence-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "austin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
