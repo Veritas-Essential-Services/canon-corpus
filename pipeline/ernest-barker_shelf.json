@@ -1,0 +1,54 @@
+{
+ "_about": "Sir Ernest Barker (1874-1960), Oxford historian of political thought. Raw IA OCR: The Political Thought of Plato and Aristotle (New York: Putnam's; London: Methuen, 1906), clean 0.90; Greek Political Theory: Plato and his Predecessors (London: Methuen, first published 1918), clean 0.91. Held: Political Thought in England from Herbert Spencer to the Present Day (1915), whose copies are undated or reprinted after 1945. US public domain. No uids minted.",
+ "_author": "Ernest Barker",
+ "_name_words": [
+  "ernest",
+  "barker"
+ ],
+ "_surname": [
+  "barker",
+  "ernest barker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "barker-political-thought-plato-aristotle-1906": [
+   "politicalthought00bark",
+   "The Political Thought of Plato and Aristotle (Methuen, 1906)"
+  ],
+  "barker-greek-political-theory-1918": [
+   "greekpoliticalth0000bark",
+   "Greek Political Theory: Plato and his Predecessors (Methuen, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "barker-political-thought-plato-aristotle-1906": {
+   "author": "Ernest Barker (title page OCR reads 'E5'gARKER, M.A., late Fellow of Merton College')"
+  }
+ },
+ "_checks": {
+  "barker-political-thought-plato-aristotle-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barker-greek-political-theory-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ernest barker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

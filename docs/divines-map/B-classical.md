@@ -6821,6 +6821,8 @@ Shelf: `pipeline/ernest-barker_shelf.json`. His two books on Greek political the
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Political Thought of Plato and Aristotle (Methuen, 1906) |  | `barker-political-thought-plato-aristotle-1906` | have-raw (IA `politicalthought00bark`) |
+| Greek Political Theory: Plato and his Predecessors (Methuen, 1918) |  | `barker-greek-political-theory-1918` | have-raw (IA `greekpoliticalth0000bark`) |
 
 Pending (wishlist): Political Thought in England from Herbert Spencer to the Present Day (1915) in a dated pre-1931 printing
 
