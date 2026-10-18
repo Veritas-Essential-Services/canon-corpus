@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Edwin Björkman (1866-1951) beyond Strindberg: Schnitzler's The Lonely Way, Intermezzo and Countess Mizzie (1915). His Strindberg is on strindberg-english_shelf.json. US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Edwin Björkman (1866-1951) beyond Strindberg: Schnitzler's The Lonely Way, Intermezzo and Countess Mizzie (1915), and Geijerstam's The Book about Little Brother (1921), added in round 90. His Strindberg is on strindberg-english_shelf.json. US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
  "_name_words": [
   "edwin björkman",
   "edwin bjorkman"
@@ -16,7 +16,13 @@
    "The Lonely Way—Intermezzo—Countess Mizzie Three Plays"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ebj-book-about-little-brother": [
+   "bookaboutlittleb00geijuoft",
+   "The Book about Little Brother (1921)",
+   "bookaboutlittleb00geijuoft_djvu.txt"
+  ]
+ },
  "titles": {
   "edwin-bjorkman-schnitzler-the-lonely-way-intermezzo-countess-mizzie": {
    "source": "ebj-29745",
@@ -25,6 +31,14 @@
    "translated": "1915 (see the Gutenberg header)",
    "translator": "Edwin Björkman",
    "scan_edition": "Project Gutenberg 29745 (clean text)"
+  },
+  "edwin-bjorkman-geijerstam-the-book-about-little-brother": {
+   "source": "ebj-book-about-little-brother",
+   "of": "Gustaf af Geijerstam",
+   "work": "The Book about Little Brother: A Story of Married Life",
+   "translated": 1921,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Scandinavian Classics XVIII, American-Scandinavian Foundation, New York 1921; University of Toronto scan"
   }
  },
  "_pending": {},
@@ -35,12 +49,23 @@
  "_checks": {
   "ebj-29745": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "edwin björkman",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Edwin Björkman"
+  },
+  "ebj-book-about-little-brother": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edwin bjorkman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -48,6 +73,19 @@
    "pg": 29745,
    "pg_copyrighted_marker": false,
    "pg_translator": "Edwin Björkman"
+  },
+  "ebj-book-about-little-brother": {
+   "ia": "bookaboutlittleb00geijuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1883,
+    1884,
+    1885,
+    1886,
+    1909,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

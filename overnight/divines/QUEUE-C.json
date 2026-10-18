@@ -3600,6 +3600,30 @@
       "finished": "2026-10-17T20:08-05:00",
       "scope": "TRANSLATOR SHELF (round 89, lane C's choice; Adam may veto) -- scandinavian-classics; PD printings before 1931 only; no minting",
       "notes": "5 titles; ids checked across all branches. See DIGEST-C round 89. No uids minted."
+    },
+    {
+      "id": "shelf-cw-stork-round90",
+      "status": "done",
+      "started": "2026-10-17T20:11-05:00",
+      "finished": "2026-10-17T20:11-05:00",
+      "scope": "GAP-FILL (round 90, lane C) -- cw-stork; PD printings before 1931 only; no minting",
+      "notes": "+2 titles, now 4; ids checked across all branches. See DIGEST-C round 90. No uids minted."
+    },
+    {
+      "id": "shelf-hollander-round90",
+      "status": "done",
+      "started": "2026-10-17T20:11-05:00",
+      "finished": "2026-10-17T20:11-05:00",
+      "scope": "GAP-FILL (round 90, lane C) -- hollander; PD printings before 1931 only; no minting",
+      "notes": "+1 titles, now 3; ids checked across all branches. See DIGEST-C round 90. No uids minted."
+    },
+    {
+      "id": "shelf-edwin-bjorkman-round90",
+      "status": "done",
+      "started": "2026-10-17T20:11-05:00",
+      "finished": "2026-10-17T20:11-05:00",
+      "scope": "GAP-FILL (round 90, lane C) -- edwin-bjorkman; PD printings before 1931 only; no minting",
+      "notes": "+1 titles, now 2; ids checked across all branches. See DIGEST-C round 90. No uids minted."
     }
   ]
 }

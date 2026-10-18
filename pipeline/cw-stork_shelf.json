@@ -1,14 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930); the Anthology of Swedish Lyrics (1917) and Heidenstam's The Charles Men, Part I (1920), both American-Scandinavian Foundation, added in round 90. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
  "_name_words": [
   "charles wharton stork",
-  "c. w. stork",
-  "stork"
+  "c. w. stork"
  ],
  "_surname": [
   "charles wharton stork",
-  "c. w. stork",
-  "stork"
+  "c. w. stork"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -22,7 +20,18 @@
    "Martin Birck's youth"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cws-anthology-swedish-lyrics": [
+   "anthologyswedis00storgoog",
+   "Anthology of Swedish Lyrics from 1750 to 1915 (1917)",
+   "anthologyswedis00storgoog_djvu.txt"
+  ],
+  "cws-charles-men-1": [
+   "charlesmen01heid",
+   "Charles Men, Part I (1920)",
+   "charlesmen01heid_djvu.txt"
+  ]
+ },
  "titles": {
   "cw-stork-soderberg-martin-birck-s-youth": {
    "source": "cws-78363",
@@ -40,15 +49,33 @@
    "translated": "1923-1930 (see the Gutenberg header)",
    "translator": "Charles Wharton Stork",
    "scan_edition": "Project Gutenberg 64808 (clean text)"
+  },
+  "cw-stork-anthology-of-swedish-lyrics": {
+   "source": "cws-anthology-swedish-lyrics",
+   "of": "Swedish lyric poets, 1750-1915",
+   "work": "Anthology of Swedish Lyrics from 1750 to 1915",
+   "translated": 1917,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Scandinavian Classics IX, American-Scandinavian Foundation, New York 1917; Google scan",
+   "note": "Translated in the original metres, per the title page."
+  },
+  "cw-stork-heidenstam-charles-men-1": {
+   "source": "cws-charles-men-1",
+   "of": "Verner von Heidenstam",
+   "work": "The Charles Men (Karolinerna), Part I",
+   "translated": 1920,
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Scandinavian Classics XV, American-Scandinavian Foundation, New York 1920; archive.org scan",
+   "note": "Part II (Scandinavian Classics XVI) was not found as a scan."
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'stork' alone is left out as a common word.",
  "_checks": {
   "cws-64808": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
@@ -57,12 +84,34 @@
   },
   "cws-78363": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "charles wharton stork",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-anthology-swedish-lyrics": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cws-charles-men-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -75,6 +124,35 @@
    "pg": 78363,
    "pg_copyrighted_marker": false,
    "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-anthology-swedish-lyrics": {
+   "ia": "anthologyswedis00storgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1750,
+    1753,
+    1771,
+    1809,
+    1870,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cws-charles-men-1": {
+   "ia": "charlesmen01heid",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887,
+    1888,
+    1889,
+    1890,
+    1895,
+    1920
+   ],
+   "post_1930_years_in_front_15k": [
+    1965
+   ],
+   "post_1930_examined": "Examined in round 90: 'DllU?,i 1965' is a garbled library stamp below the 1920 copyright line, not an imprint."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

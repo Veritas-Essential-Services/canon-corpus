@@ -253,3 +253,5 @@
 - 2026-10-17T20:03-05:00: round 88: norse-sagas (7). --verify --record 0 mismatched.
 
 - 2026-10-17T20:08-05:00: round 89: scandinavian-classics (5). --verify --record 0 mismatched.
+
+- 2026-10-17T20:11-05:00: round 90: gap-fills cw-stork (+2), hollander (+1), edwin-bjorkman (+1). --verify --record 0 mismatched.

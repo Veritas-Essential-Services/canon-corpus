@@ -3341,15 +3341,16 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `jessie-lemont-rilke-auguste-rodin` | Rainer Maria Rilke | Auguste Rodin | Jessie Lemont (with Hans Trausil) | 1918-1919 (see the Gutenberg header) | have | PG 45605 |
 | `jessie-lemont-rilke-poems` | Rainer Maria Rilke | Poems | Jessie Lemont | 1918-1919 (see the Gutenberg header) | have | PG 38594 |
 
-## Lee M. Hollander (Kierkegaard selections, 1923; Einarsson)
+## Lee M. Hollander (Kierkegaard selections, 1923; Einarsson; Olrik's Heroic Legends of Denmark, 1919)
 
 Shelf: `pipeline/hollander_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hollander` · titles `python3 pipeline/split_shelf_titles.py hollander`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Olrik added in round 90. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `hollander-einarsson-sword-and-crozier-drama-in-five-acts` | Indriði Einarsson | Sword and crozier, drama in five acts | Lee M. Hollander | 1912-1923 (see the Gutenberg header) | have | PG 15298 |
 | `hollander-kierkegaard-selections-from-the-writings-of-kierkega` | Søren Kierkegaard | Selections from the Writings of Kierkegaard | Lee M. Hollander | 1912-1923 (see the Gutenberg header) | have | PG 60333 |
+| `hollander-olrik-heroic-legends-of-denmark` | Axel Olrik | The Heroic Legends of Denmark | Lee M. Hollander | 1919 | have-raw | IA `heroiclegendsofd0000axel` |
 
 ## Gertrude Hall (Verlaine's Poems; Rostand's Chantecler)
 
@@ -3492,15 +3493,17 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rose-strunsky-gorky-the-confession-a-novel` | Maksim Gorky | The Confession: A Novel | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 55828 |
 | `rose-strunsky-tolstoy-the-journal-of-leo-tolstoi-first-volume1` | Leo Tolstoy | The Journal of Leo Tolstoi (First Volume—1895-1899) | Rose Strunsky | 1916-1917 (see the Gutenberg header) | have | PG 46272 |
 
-## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg)
+## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Anthology of Swedish Lyrics, 1917; Heidenstam's Charles Men I, 1920)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cw-stork-soderberg-martin-birck-s-youth` | Hjalmar Söderberg | Martin Birck's youth | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 78363 |
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
+| `cw-stork-anthology-of-swedish-lyrics` | Swedish lyric poets, 1750-1915 | Anthology of Swedish Lyrics from 1750 to 1915 | Charles Wharton Stork | 1917 | have-raw | IA `anthologyswedis00storgoog` |
+| `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
 
@@ -3953,14 +3956,15 @@ Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `claud-field-nemirovich-danchenko-peasant-tales-of-russia` | Vasilii Ivanovich Nemirovich-Danchenko | Peasant Tales of Russia | Claud Field | 1909-1920 (see the Gutenberg header) | have | PG 32755 |
 | — | — | pg-44107: The Growth of a Soul is Strindberg: on strindberg-english_shelf.json. | — | — | excluded | — |
 
-## Edwin Björkman beyond Strindberg (Schnitzler's Three Plays)
+## Edwin Björkman beyond Strindberg (Schnitzler's Three Plays; Geijerstam's Book about Little Brother, 1921)
 
 Shelf: `pipeline/edwin-bjorkman_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-bjorkman` · titles `python3 pipeline/split_shelf_titles.py edwin-bjorkman`.
-Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 36 (2026-10-10), vetoable. Geijerstam added in round 90. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `edwin-bjorkman-schnitzler-the-lonely-way-intermezzo-countess-mizzie` | Arthur Schnitzler | The Lonely Way—Intermezzo—Countess Mizzie Three Plays | Edwin Björkman | 1915 (see the Gutenberg header) | have | PG 29745 |
+| `edwin-bjorkman-geijerstam-the-book-about-little-brother` | Gustaf af Geijerstam | The Book about Little Brother: A Story of Married Life | Edwin Björkman | 1921 | have-raw | IA `bookaboutlittleb00geijuoft` |
 | — | — | pg-45375: Strindberg: on strindberg-english_shelf.json. | — | — | excluded | — |
 
 ## Ellie Schleussner beyond Strindberg (Lucka's Evolution of Love)

@@ -1,12 +1,10 @@
 {
- "_about": "TRANSLATOR SHELF: Lee M. Hollander (1880-1972): Selections from the Writings of Kierkegaard (University of Texas, 1923) and Indriði Einarsson's Sword and Crozier (1912). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Lee M. Hollander (1880-1972): Selections from the Writings of Kierkegaard (University of Texas, 1923) and Indriði Einarsson's Sword and Crozier (1912); Axel Olrik's The Heroic Legends of Denmark (1919), added in round 90. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
  "_name_words": [
-  "lee m. hollander",
-  "hollander"
+  "lee m. hollander"
  ],
  "_surname": [
-  "lee m. hollander",
-  "hollander"
+  "lee m. hollander"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -20,7 +18,13 @@
    "Selections from the Writings of Kierkegaard"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hla-heroic-legends-of-denmark": [
+   "heroiclegendsofd0000axel",
+   "The Heroic Legends of Denmark (1919)",
+   "heroiclegendsofd0000axel_djvu.txt"
+  ]
+ },
  "titles": {
   "hollander-einarsson-sword-and-crozier-drama-in-five-acts": {
    "source": "hla-15298",
@@ -37,15 +41,24 @@
    "translated": "1912-1923 (see the Gutenberg header)",
    "translator": "Lee M. Hollander",
    "scan_edition": "Project Gutenberg 60333 (clean text)"
+  },
+  "hollander-olrik-heroic-legends-of-denmark": {
+   "source": "hla-heroic-legends-of-denmark",
+   "of": "Axel Olrik",
+   "work": "The Heroic Legends of Denmark",
+   "translated": 1919,
+   "translator": "Lee M. Hollander",
+   "scan_edition": "Scandinavian Monographs IV, American-Scandinavian Foundation, New York 1919; archive.org scan",
+   "note": "Translated from the Danish and revised in collaboration with the author, per the title page."
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'hollander' alone is left out as a common word.",
  "_checks": {
   "hla-15298": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lee m. hollander",
    "identity": "ok",
@@ -54,12 +67,23 @@
   },
   "hla-60333": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "lee m. hollander",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lee M. Hollander"
+  },
+  "hla-heroic-legends-of-denmark": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lee m. hollander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +96,22 @@
    "pg": 60333,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lee M. Hollander"
+  },
+  "hla-heroic-legends-of-denmark": {
+   "ia": "heroiclegendsofd0000axel",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892,
+    1894,
+    1903,
+    1911,
+    1917,
+    1919
+   ],
+   "post_1930_years_in_front_15k": [
+    2004
+   ],
+   "post_1930_examined": "Examined in round 90: '30 APR 2004' is a library due-date stamp ('DUE FOR RETURN'), not an imprint; the imprint is New York 1919."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
