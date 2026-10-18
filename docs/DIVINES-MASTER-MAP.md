@@ -8133,6 +8133,17 @@ Slugs `harogers-*`. Built from title pages read for round 34.
 | An Account of the Experience of Mrs. Hester Ann Rogers, written by herself, with spiritual letters, a sermon on her death by Thomas Coke and an appendix by her husband from her journals (Baltimore: J. Kingston; year not read, catalogued 1814) | have-ocr | IA `accountofexperie00roge` |
 | An Account of the Experience of Mrs. H. A. Rogers, written by herself, with a brief extract from her diary (London: T. Cordeux for T. Blanshard, 1818) | have-ocr | IA `anaccountexperi00rogegoog` |
 | The 1796 Experience with Wesley's letters (title page unreadable); Summers's Life and Correspondence (Nashville, 1855); the undated thirtieth edition (Carlton & Lanahan) and copies catalogued 1837, 1842, 1857 | alternate | not shelved |
+
+## John Nelson (round 34, my pick, 2026-10-18)
+
+Slugs `jnelson-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| An Extract from the Journal of Mr. John Nelson, Preacher of the Gospel, written by himself (London: G. Paramore; sold by G. Whitfield, 1795) | have-ocr | IA `bim_eighteenth-century_an-extract-from-the-jour_nelson-john_1795` |
+| An Extract from the Journal of Mr. John Nelson, written by himself (Baltimore: J. Kingston, 1810) | have-ocr | IA `extractfromjourn00nels` |
+| Extract from the Journal of John Nelson, written by himself, to which is added an account of his death (New York: B. Waugh and T. Mason, 1833) | have-ocr | IA `25933977.emory.edu` |
+| London 1798 (year OCR'd '179%'); a second Baltimore 1810 copy; New York 1854; the undated Wesleyan-Methodist Book-Room Extract (its catalogued 1767 is impossible) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
