@@ -6796,6 +6796,11 @@ Shelf: `pipeline/arthur-james-balfour_shelf.json`. Both Gifford series, the Defe
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Theism and Humanism |  | `balfour-theism-and-humanism` | have (PG 57773) |
+| Decadence |  | `balfour-decadence` | have (PG 68219) |
+| A Defence of Philosophic Doubt (Macmillan, 1879) |  | `balfour-defence-of-philosophic-doubt-1879` | have-raw (IA `defenceofphiloso00balfrich`) |
+| The Foundations of Belief (Longmans, 1895) |  | `balfour-foundations-of-belief-1895` | have-raw (IA `thefoundationsof00balfuoft`) |
+| Theism and Thought (Hodder and Stoughton, 1923) |  | `balfour-theism-and-thought-1923` | have-raw (IA `in.ernet.dli.2015.90237`) |
 
 ## J. N. Figgis (history of political thought)
 

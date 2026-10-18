@@ -1,0 +1,91 @@
+{
+ "_about": "Arthur James Balfour, first Earl of Balfour (1848-1930), prime minister and philosopher of belief. Gutenberg: Theism and Humanism, the Gifford Lectures of 1914; Decadence, the Henry Sidgwick memorial lecture of 1908. Raw IA OCR: A Defence of Philosophic Doubt, being an essay on the foundations of belief (London: Macmillan, 1879), clean 0.92; The Foundations of Belief, being notes introductory to the study of theology (London: Longmans, 1895), clean 0.95; Theism and Thought, the Gifford Lectures of 1922-23 (London: Hodder and Stoughton, 1923), clean 0.89. US public domain. No uids minted.",
+ "_author": "Arthur James Balfour",
+ "_name_words": [
+  "arthur",
+  "james",
+  "balfour"
+ ],
+ "_surname": [
+  "balfour"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "balfour-theism-and-humanism": [
+   57773,
+   "Theism and Humanism"
+  ],
+  "balfour-decadence": [
+   68219,
+   "Decadence"
+  ]
+ },
+ "internet_archive": {
+  "balfour-defence-of-philosophic-doubt-1879": [
+   "defenceofphiloso00balfrich",
+   "A Defence of Philosophic Doubt (Macmillan, 1879)"
+  ],
+  "balfour-foundations-of-belief-1895": [
+   "thefoundationsof00balfuoft",
+   "The Foundations of Belief (Longmans, 1895)"
+  ],
+  "balfour-theism-and-thought-1923": [
+   "in.ernet.dli.2015.90237",
+   "Theism and Thought (Hodder and Stoughton, 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "balfour-theism-and-humanism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "balfour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "balfour-decadence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "balfour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "balfour-defence-of-philosophic-doubt-1879": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "balfour",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "balfour-foundations-of-belief-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "balfour",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "balfour-theism-and-thought-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "balfour",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
