@@ -6761,6 +6761,7 @@ Shelf: `pipeline/peter-browne_shelf.json`. The Procedure of Human Understanding.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Procedure, Extent, and Limits of Human Understanding (Innys, 1728) |  | `browne-procedure-extent-limits-1728` | have-raw (IA `procedureextentl00browuoft`) |
 
 Pending (wishlist): Things Divine and Supernatural Conceived by Analogy (1733) in OCR above 0.78
 
