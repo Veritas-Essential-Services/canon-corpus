@@ -30013,6 +30013,50 @@ Shelf: `pipeline/goldsmith_shelf.json` (2026-10-17; added at the coordinator's r
 | pg-58029 | excluded | PG 58029: Gutenberg's index of the author's works, not a book. |
 | pg-16387 | excluded | PG 16387: Pinnock's improved edition of Goldsmith's History of Rome, revised and enlarged by later hands. |
 
+## Mrs. Henry Wood
+
+Shelf: `pipeline/mrs-henry-wood_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (36 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| East Lynne | have | PG 3322, `mhwood-east-lynne` (6037 units) |
+| The Channings: A Story | have | PG 9192, `mhwood-channings` (5042 units) |
+| Verner's Pride | have | PG 15627, `mhwood-verners-pride` (6843 units) |
+| Elster's Folly: A Novel | have | PG 16798, `mhwood-elsters-folly` (4256 units) |
+| Mrs. Halliburton's Troubles | have | PG 34587, `mhwood-mrs-halliburtons-troubles` (5951 units) |
+| Trevlyn Hold: A Novel | have | PG 36106, `mhwood-trevlyn-hold` (4518 units) |
+| The Story of Charles Strange: A Novel. Vol. 1 (of 3) | have | PG 38623, `mhwood-story-of-charles-strange` (1456 units) |
+| The Story of Charles Strange: A Novel. Vol. 2 (of 3) | have | PG 38624, `mhwood-story-of-charles-strange-38624` (1395 units) |
+| The Story of Charles Strange: A Novel. Vol. 3 (of 3) | have | PG 38625, `mhwood-story-of-charles-strange-38625` (1294 units) |
+| A Life's Secret: A Novel | have | PG 38832, `mhwood-a-lifes-secret` (2263 units) |
+| It May Be True, Vol. 2 (of 3) | have | PG 39192, `mhwood-it-may-be-true-vol-2-of-3` (1392 units) |
+| It May Be True, Vol. 3 (of 3) | have | PG 39193, `mhwood-it-may-be-true-vol-3-of-3` (1567 units) |
+| Mildred Arkell: A Novel. Vol. 2 (of 3) | have | PG 39377, `mhwood-mildred-arkell` (1769 units) |
+| Mildred Arkell: A Novel. Vol. 1 (of 3) | have | PG 39692, `mhwood-mildred-arkell-39692` (1750 units) |
+| Mildred Arkell: A Novel. Vol. 3 (of 3) | have | PG 39693, `mhwood-mildred-arkell-39693` (1974 units) |
+| It May Be True, Vol. 1 (of 3) | have | PG 40418, `mhwood-it-may-be-true-vol-1-of-3` (1313 units) |
+| Johnny Ludlow, First Series | have | PG 40915, `mhwood-johnny-ludlow-first-series` (5591 units) |
+| Johnny Ludlow, Second Series | have | PG 40928, `mhwood-johnny-ludlow-second-series` (5621 units) |
+| Johnny Ludlow, Third Series | have | PG 40936, `mhwood-johnny-ludlow-third-series` (4801 units) |
+| Johnny Ludlow, Fourth Series | have | PG 40940, `mhwood-johnny-ludlow-fourth-series` (4945 units) |
+| Johnny Ludlow, Fifth Series | have | PG 40951, `mhwood-johnny-ludlow-fifth-series` (2983 units) |
+| Johnny Ludlow, Sixth Series | have | PG 40963, `mhwood-johnny-ludlow-sixth-series` (3417 units) |
+| The Shadow of Ashlydyat | have | PG 42200, `mhwood-shadow-of-ashlydyat` (6538 units) |
+| Anne Hereford: A Novel | have | PG 57875, `mhwood-anne-hereford` (4964 units) |
+| The Red Court Farm: A Novel (Vol. 1 of 2) | have | PG 58046, `mhwood-red-court-farm` (2194 units) |
+| The Red Court Farm: A Novel (Vol. 2 of 2) | have | PG 58047, `mhwood-red-court-farm-58047` (2086 units) |
+| Roland Yorke A Sequel to "The Channings" | have | PG 58086, `mhwood-roland-yorke-a-sequel-to-the-channings` (4250 units) |
+| Oswald Cray: A Novel | have | PG 58188, `mhwood-oswald-cray` (5245 units) |
+| Bessy Rane: A Novel | have | PG 58288, `mhwood-bessy-rane` (4227 units) |
+| Within the Maze: A Novel, Vol. 1 (of 2) | have | PG 58345, `mhwood-within-the-maze` (2160 units) |
+| Within the Maze: A Novel, Vol. 2 (of 2) | have | PG 58346, `mhwood-within-the-maze-58346` (2165 units) |
+| Orville College: A Story | have | PG 58431, `mhwood-orville-college` (2242 units) |
+| St. Martin's Eve: A Novel | have | PG 58582, `mhwood-st-martins-eve` (4338 units) |
+| Edina: A Novel | have | PG 58701, `mhwood-edina` (3982 units) |
+| Court Netherleigh: A Novel | have | PG 58774, `mhwood-court-netherleigh` (4649 units) |
+| The Master of Greylands: A Novel | have | PG 59144, `mhwood-master-of-greylands` (4322 units) |
+| pg-59009 | excluded | PG 59009: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

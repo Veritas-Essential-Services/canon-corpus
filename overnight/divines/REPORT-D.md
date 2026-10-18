@@ -1380,3 +1380,6 @@
 
 ## 2026-10-17 19:55 CDT — goldsmith: done
 - goldsmith: new shelf, 9 Gutenberg books, 7,831 units, 1075 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:55 CDT — mrs-henry-wood: done
+- mrs-henry-wood: new shelf, 36 Gutenberg books, 129,540 units, 937 ~2 ids; verify 0 mismatches, 0 rights flags.
