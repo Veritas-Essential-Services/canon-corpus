@@ -6389,6 +6389,7 @@ Shelf: `pipeline/frederick-woodbridge_shelf.json`. F. J. E. Woodbridge (1867-194
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Purpose of History (Columbia, 1916) |  | `woodbridge-purpose-of-history-1916` | have (PG 58179) |
 
 ## Roy Wood Sellars (critical realism)
 

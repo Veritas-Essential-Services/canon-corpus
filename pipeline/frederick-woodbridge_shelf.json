@@ -1,0 +1,33 @@
+{
+ "_about": "Frederick J. E. Woodbridge (1867-1940), Columbia realist: The Purpose of History, the Woodbridge Lectures (New York: Columbia University Press, 1916), clean Gutenberg text. US public domain. No uids minted.",
+ "_author": "Frederick J. E. Woodbridge",
+ "_name_words": [
+  "frederick",
+  "james",
+  "eugene",
+  "woodbridge"
+ ],
+ "_surname": [
+  "woodbridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "woodbridge-purpose-of-history-1916": [
+   58179,
+   "The Purpose of History (Columbia, 1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "woodbridge-purpose-of-history-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
