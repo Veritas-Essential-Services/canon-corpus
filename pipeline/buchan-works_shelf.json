@@ -96,6 +96,17 @@
   "jbuchan-poems-scots-and-english": [
    77335,
    "Poems, Scots and English"
+  ],
+  "jbuchan-moon-endureth": [
+   715,
+   "The Moon Endureth: Tales and Fancies"
+  ],
+  "jbuchan-path-of-the-king": [
+   1966,
+   "The Path of the King",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
@@ -242,6 +253,24 @@
    "pg_translator": null
   },
   "jbuchan-poems-scots-and-english": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-moon-endureth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-path-of-the-king": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
