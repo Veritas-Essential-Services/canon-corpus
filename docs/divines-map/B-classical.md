@@ -7256,6 +7256,10 @@ Shelf: `pipeline/edward-alsworth-ross_shelf.json`. Four books, 1901-1914.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Old World in the New (1914) |  | `ross-old-world-in-the-new` | have (PG 47954) |
+| Social Control (Macmillan, 1901; reprint of 1906) |  | `ross-social-control-1906` | have-raw (IA `socialcontrolas01rossgoog`) |
+| Sin and Society (Houghton Mifflin, 1907) |  | `ross-sin-and-society-1907` | have-raw (IA `sinsocietyanalys00ross`) |
+| Social Psychology (Macmillan, 1908; printing of 1914) |  | `ross-social-psychology-1914` | have-raw (IA `cu31924032560579`) |
 
 ## W. I. Thomas (Chicago sociology)
 
