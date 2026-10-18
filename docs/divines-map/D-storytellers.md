@@ -9020,6 +9020,41 @@ Shelf: `pipeline/dickens-works_shelf.json` (2026-10-17; added at the coordinator
 | pg-46675 | excluded | PG 46675 Oliver Twist (illustrated): a second edition; the reading-list dickens shelf holds the novel. |
 | pg-71858 | excluded | PG 71858 Holly Berries from Dickens: a gift-book selection of passages from books already shelved. |
 
+## Thomas Hardy
+
+Shelf: `pipeline/hardy-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (24 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Return of the Native | have | PG 122, `thardy-return-of-the-native` (3432 units) |
+| The Mayor of Casterbridge | have | PG 143, `thardy-mayor-of-casterbridge` (2390 units) |
+| Jude the Obscure | have | PG 153, `thardy-jude-the-obscure` (3618 units) |
+| A pair of blue eyes | have | PG 224, `thardy-a-pair-of-blue-eyes` (3726 units) |
+| The Woodlanders | have | PG 482, `thardy-woodlanders` (2620 units) |
+| Under the Greenwood Tree; Or, The Mellstock Quire A Rural Painting of the Dutch School | have | PG 2662, `thardy-under-the-greenwood-tree` (1528 units) |
+| Satires of Circumstance, Lyrics and Reveries, with Miscellaneous Pieces | have | PG 2863, `thardy-satires-of-circumstance-lyrics-and-reveries-with-misc` (874 units) |
+| The Trumpet-Major | have | PG 2864, `thardy-trumpet-major` (2674 units) |
+| The Romantic Adventures of a Milkmaid | have | PG 2996, `thardy-romantic-adventures-of-a-milkmaid` (745 units) |
+| Time's Laughingstocks, and Other Verses | have | PG 2997, `thardy-times-laughingstocks-and-other-verses` (766 units) |
+| Desperate Remedies | have | PG 3044, `thardy-desperate-remedies` (3519 units) |
+| Life's Little Ironies A set of tales with some colloquial sketches entitled A Few Crusted Characters | have | PG 3047, `thardy-lifes-little-ironies-a-set-of-tales-with-some-colloqu` (1469 units) |
+| A Group of Noble Dames | have | PG 3049, `thardy-a-group-of-noble-dames` (1195 units) |
+| Wessex Tales | have | PG 3056, `thardy-wessex-tales` (1746 units) |
+| A Changed Man, and Other Tales | have | PG 3058, `thardy-a-changed-man-and-other-tales` (1802 units) |
+| Two on a Tower | have | PG 3146, `thardy-two-on-a-tower` (2080 units) |
+| Wessex Poems and Other Verses | have | PG 3167, `thardy-wessex-poems-and-other-verses` (551 units) |
+| Poems of the Past and the Present | have | PG 3168, `thardy-poems-of-the-past-and-the-present` (716 units) |
+| Moments of Vision and Miscellaneous Verses | have | PG 3255, `thardy-moments-of-vision-and-miscellaneous-verses` (746 units) |
+| A Laodicean : A Story of To-day | have | PG 3258, `thardy-a-laodicean` (3296 units) |
+| The Well-Beloved: A Sketch of a Temperament | have | PG 3326, `thardy-well-beloved` (1359 units) |
+| The Hand of Ethelberta: A Comedy in Chapters | have | PG 3469, `thardy-hand-of-ethelberta` (3106 units) |
+| The Dynasts: An Epic-Drama of the War with Napoleon | have | PG 4043, `thardy-dynasts` (4863 units) |
+| Late Lyrics and Earlier, With Many Other Verses | have | PG 4758, `thardy-late-lyrics-and-earlier-with-many-other-verses` (824 units) |
+| pg-58250 | excluded | PG 58250: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 17500: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 107, 110: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-27 | excluded | PG 27 Far from the Madding Crowd: a second edition; the reading-list hardy shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

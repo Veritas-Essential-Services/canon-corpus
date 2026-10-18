@@ -1401,3 +1401,6 @@
 
 ## 2026-10-17 19:55 CDT — dickens-works: done
 - dickens-works: new shelf, 61 Gutenberg books, 97,561 units, 4667 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:06 CDT — hardy-works: done
+- hardy-works: new shelf, 24 Gutenberg books, 49,645 units, 7539 ~2 ids; verify 0 mismatches, 0 rights flags.
