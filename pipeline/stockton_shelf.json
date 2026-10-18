@@ -210,6 +210,10 @@
   "stockton-poor-counts-christmas": [
    74633,
    "The poor Count's Christmas"
+  ],
+  "stockton-rudder-grange": [
+   2011,
+   "Rudder Grange"
   ]
  },
  "internet_archive": {},
@@ -220,7 +224,7 @@
  "_checks": {
   "stockton-bee-man-of-orn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -229,7 +233,7 @@
   },
   "stockton-ting-a-ling": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -238,7 +242,7 @@
   },
   "stockton-fanciful-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -247,7 +251,7 @@
   },
   "stockton-lady-or-the-tiger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -256,7 +260,7 @@
   },
   "stockton-great-war-syndicate": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -265,7 +269,7 @@
   },
   "stockton-magic-egg-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -274,7 +278,7 @@
   },
   "stockton-great-stone-of-sardis": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -283,7 +287,7 @@
   },
   "stockton-vizier-of-the-two-horned-alexander": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -292,7 +296,7 @@
   },
   "stockton-stories-of-the-three-burglars": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -301,7 +305,7 @@
   },
   "stockton-late-mrs-null": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -310,7 +314,7 @@
   },
   "stockton-girl-at-cobhurst": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -319,7 +323,7 @@
   },
   "stockton-rudder-grangers-abroad-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -328,7 +332,7 @@
   },
   "stockton-adventures-of-captain-horn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -337,7 +341,7 @@
   },
   "stockton-a-bicycle-of-cathay": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -346,7 +350,7 @@
   },
   "stockton-pomonas-travels-a-series-of-letters-to-the-mistress": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -355,7 +359,7 @@
   },
   "stockton-captains-toll-gate": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -364,7 +368,7 @@
   },
   "stockton-amos-kilbright": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -373,7 +377,7 @@
   },
   "stockton-kate-bonnet": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -382,7 +386,7 @@
   },
   "stockton-buccaneers-and-pirates-of-our-coasts": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -391,7 +395,7 @@
   },
   "stockton-round-about-rambles-in-lands-of-fact-and-fancy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -400,7 +404,7 @@
   },
   "stockton-what-might-have-been-expected": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -409,7 +413,7 @@
   },
   "stockton-house-of-martha": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -418,7 +422,7 @@
   },
   "stockton-a-jolly-fellowship": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -427,7 +431,7 @@
   },
   "stockton-john-gaythers-garden-and-the-stories-told-therein": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -436,7 +440,7 @@
   },
   "stockton-my-terminal-moraine-1892": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -445,7 +449,7 @@
   },
   "stockton-stories-of-new-jersey": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -454,7 +458,7 @@
   },
   "stockton-a-chosen-few": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -463,7 +467,7 @@
   },
   "stockton-associate-hermits": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -472,7 +476,7 @@
   },
   "stockton-squirrel-inn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -481,7 +485,7 @@
   },
   "stockton-mrs-cliffs-yacht": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -490,7 +494,7 @@
   },
   "stockton-dusantes": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -499,7 +503,7 @@
   },
   "stockton-casting-away-of-mrs-lecks-and-mrs-aleshine": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -508,7 +512,7 @@
   },
   "stockton-story-of-viteau": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -517,7 +521,7 @@
   },
   "stockton-lost-dryad": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -526,7 +530,7 @@
   },
   "stockton-captain-chap": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -535,7 +539,7 @@
   },
   "stockton-tales-out-of-school": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -544,7 +548,7 @@
   },
   "stockton-young-master-of-hyson-hall": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -553,7 +557,16 @@
   },
   "stockton-poor-counts-christmas": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-rudder-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
