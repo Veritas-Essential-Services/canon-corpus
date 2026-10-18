@@ -8600,3 +8600,21 @@ Slugs `wfhook-*`. Built from title pages read for round 35.
 | Lives of the Archbishops of Canterbury, vol. VI, new series (London: Richard Bentley, 1875) | have-ocr | IA `livesofarchbisho11hookuoft` |
 | A Church Dictionary (London: Houlston and Stoneman; Rivington and Burns; Oxford: Parker; Leeds: T. Harrison, 1842) | have-ocr | IA `ChurchDictionary` |
 | Lives vol. I new series (1868) and vol. II new series; the Index volume (1884); the sixth-edition Church Dictionary (1852); An Ecclesiastical Biography (Rivington, 1845-1852, lives he edited) | alternate | not shelved |
+
+## James Craigie Robertson (round 35, my pick, 2026-10-18)
+
+Slugs `jcrobertson-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Sketches of Church History, from A.D. 33 to the Reformation (London: SPCK; New York: E. & J. B. Young, 1887) | have-clean | Gutenberg 32483 |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. I (London: John Murray, 1875) | have-ocr | IA `historyofchristi0001robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. II (London: John Murray, 1876) | have-ocr | IA `historyofchristi0000robe_q6c8` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. III (London: John Murray, 1875) | have-ocr | IA `historyofchrist03robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. IV (London: John Murray, 1875) | have-ocr | IA `historyofchristi0004robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. V (London: John Murray, 1904 printing) | have-ocr | IA `historyofchristi05robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. VI (London: John Murray, 1904 printing) | have-ocr | IA `historyofchristi06robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. VII (London: John Murray, 1875) | have-ocr | IA `historyofchristi07robe` |
+| History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. VIII (London: John Murray, 1875) | have-ocr | IA `historyofchristi08robe` |
+| Becket, Archbishop of Canterbury: a Biography (London: John Murray, 1859) | have-ocr | IA `becketarchbishop00robeuoft` |
+| The earlier four-volume edition (third edition vol. I 1864, vol. II 1862 and 1868, vol. III 1866, vol. IV 1873); later reprints of the eight volumes; CCEL robertson/history (Sketches, Gorham 1904) | alternate | not shelved |
