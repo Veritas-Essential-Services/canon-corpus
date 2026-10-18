@@ -1309,3 +1309,6 @@
 
 ## 2026-10-17 19:31 CDT — francis-aidan-gasquet done
 - `pipeline/francis-aidan-gasquet_shelf.json`: 0 CCEL, 3 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — round 28 closed
+- Sixteen shelves, 112 items (0 CCEL, 4 PG, 108 IA). Milner's End of Religious Controversy pending (initials only). 0 uids minted.
