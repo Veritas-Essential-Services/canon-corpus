@@ -7916,3 +7916,19 @@ Slugs `coke-*`. Built from title pages read for round 33.
 | A History of the West Indies, vol. III (London: for the Author, 1811) | have-ocr | IA `gri_000033125011115967` |
 | Other copies of the West Indies and Extracts; the 1815 New York sermon on the Godhead of Christ; the posthumous 1816 Journals with Sutcliffe's life; the Life of Wesley with Henry Moore (1792) | alternate | not shelved |
 | Edward Coke and E. T. Coke; the 1969 reprint of the West Indies | excluded | |
+
+## Amy Carmichael (round 33, my pick, 2026-10-18)
+
+Slugs `carmichael-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Things as They Are: Mission Work in Southern India (London: Morgan and Scott, 1903) | have-ocr | IA `thingsastheyarem00carm` |
+| Overweights of Joy (London: Morgan and Scott, 1906) | have-ocr | IA `overweightsofjoy00carmiala` |
+| Lotus Buds (London: Morgan and Scott, MCMX) | have-ocr | IA `pts_lotusbuds_3720-1088` |
+| Walker of Tinnevelly (London: Morgan and Scott, MCMXVI) | have-ocr | IA `walkeroftinnevel00carm` |
+| Mimosa, Who Was Charmed, second edition (Madras: S.P.C.K. Depot, 1925) | have-ocr | IA `mimosawhowaschar0000amyc_s7r9` |
+| Raj, Brigand Chief (London: Seeley, Service, 1927) | have-ocr | IA `bwb_T5-ALR-784` |
+| PG 29426 (Things as They Are, 1905) and PG 29427 (Lotus Buds, 1912) | alternate | not shelved |
+| Later reprints; Ragland (1922), Ponnammal (1918) and other titles not read | alternate | not shelved |
+| 1930 printings of Raj and Mimosa; all post-1930 titles | excluded | |
