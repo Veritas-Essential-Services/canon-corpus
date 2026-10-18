@@ -8063,3 +8063,16 @@ Slugs `jobscott-*`. Built from title pages read for round 34.
 | The Works of Job Scott, vol. II (Philadelphia: John Comly, 1831) | have-ocr | IA `worksofthatemine02scot` |
 | The Baptism of Christ a Gospel Ordinance, being altogether inward and spiritual (Providence: J. Carter, 1793) | have-ocr | IA `baptismofchristg00scot_0` |
 | Essays on Salvation by Christ (Philadelphia: Friends' Book Association, 1894) | have-ocr | IA `essaysonsalvati00scotgoog` |
+
+## Stephen Grellet (round 34, my pick, 2026-10-18)
+
+Slugs `grellet-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, vol. I (Philadelphia: Henry Longstreth, 1860) | have-ocr | IA `memoirsoflifegos01greluoft` |
+| Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, vol. II (Philadelphia: Henry Longstreth, 1860) | have-ocr | IA `memoirsoflifegos02greluoft` |
+| Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, second edition, vol. I (London: A. W. Bennett, 1861) | have-ocr | IA `memoirsoflifegos01grel_0` |
+| Memoirs of the Life and Gospel Labours of Stephen Grellet, edited by Benjamin Seebohm, second edition, vol. II (London: A. W. Bennett, 1861) | have-ocr | IA `memoirsoflifegos02grel_0` |
+| Other 1861 and 1862 London copies; the abridged one-volume Philadelphia edition (its '1848' is impossible) | alternate | not shelved |
+| William Guest's Stephen Grellet and Van Rensselaer's The Fight, Faith, and Crown: books about him | excluded | |

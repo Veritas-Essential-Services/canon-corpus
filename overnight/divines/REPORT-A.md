@@ -1675,3 +1675,6 @@
 
 ## 2026-10-17 22:08 CDT — job-scott done
 - `pipeline/job-scott_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for jobscott-essays-salvation, jobscott-baptism-1793 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:08 CDT — stephen-grellet done
+- `pipeline/stephen-grellet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
