@@ -8045,6 +8045,11 @@ Shelf: `pipeline/c-e-m-joad_shelf.json`. Five books, 1920-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Thrasymachus, or the future of morals (Dutton, 1926) |  | `joad-thrasymachus-1926` | have (PG 74315) |
+| Essays in Common-Sense Philosophy (Harcourt, Brace and Howe, 1920) |  | `joad-essays-in-common-sense-philosophy-1920` | have-raw (IA `essaysincommonse0000cemj_c3h7`) |
+| Common-Sense Ethics (Methuen, 1921) |  | `joad-common-sense-ethics-1921` | have-raw (IA `commonsenseethic00joaduoft`) |
+| Mind and Matter (Putnam, 1925) |  | `joad-mind-and-matter-1925` | have-raw (IA `mindmatter0000cemj`) |
+| Matter, Life and Value (Oxford University Press, 1929) |  | `joad-matter-life-and-value-1929` | have-raw (IA `in.ernet.dli.2015.209760`) |
 
 Pending (wishlist): Introduction to Modern Philosophy (1924; only post-1930 reprints found).
 
