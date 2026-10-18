@@ -1,0 +1,58 @@
+{
+ "_about": "Giovanni Gentile (1875-1944), Italian actual idealist. Raw IA OCR: The Theory of Mind as Pure Act, translated from the third edition with an introduction by H. Wildon Carr (London: Macmillan, 1922), clean 0.94; The Reform of Education, authorized translation by Dino Bigongiari, with an introduction by Benedetto Croce (copyright 1922 by Harcourt, Brace; this copy the London: Benn issue, 1923), clean 0.95. US public domain. No uids minted.",
+ "_author": "Giovanni Gentile",
+ "_name_words": [
+  "giovanni",
+  "gentile"
+ ],
+ "_surname": [
+  "gentile"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gentile-theory-of-mind-pure-act-1922": [
+   "thetheoryofminda00gentuoft",
+   "The Theory of Mind as Pure Act, tr. H. Wildon Carr (Macmillan, 1922)",
+   "tr. H. Wildon Carr"
+  ],
+  "gentile-reform-of-education-1922": [
+   "reformofeducatio00gent",
+   "The Reform of Education, tr. Dino Bigongiari (1922; Benn issue 1923)",
+   "tr. Dino Bigongiari"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "gentile-theory-of-mind-pure-act-1922": "Carr",
+  "gentile-reform-of-education-1922": "Bigongiari"
+ },
+ "_checks": {
+  "gentile-theory-of-mind-pure-act-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gentile",
+   "translator_claimed": "Carr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gentile-reform-of-education-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gentile",
+   "translator_claimed": "Bigongiari",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
