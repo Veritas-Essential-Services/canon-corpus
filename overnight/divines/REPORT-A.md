@@ -1648,3 +1648,6 @@
 
 ## 2026-10-17 21:37 CDT — amy-carmichael done
 - `pipeline/amy-carmichael_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:40 CDT — round 33 closed
+- 22 shelves, 117 items (2 PG, 115 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
