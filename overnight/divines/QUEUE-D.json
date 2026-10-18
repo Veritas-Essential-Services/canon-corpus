@@ -2861,6 +2861,14 @@
       "started": "2026-10-17T19:32:37-05:00",
       "finished": "2026-10-17T19:32:38-05:00",
       "notes": "galsworthy: new shelf, 53 Gutenberg books, 97,198 units, 23247 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bret-harte",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Bret Harte; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:32:38-05:00",
+      "finished": "2026-10-17T19:32:39-05:00",
+      "notes": "bret-harte: new shelf, 57 Gutenberg books, 45,576 units, 2014 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

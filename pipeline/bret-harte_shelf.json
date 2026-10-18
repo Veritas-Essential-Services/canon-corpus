@@ -1,0 +1,810 @@
+{
+ "_about": "Bret Harte's stories and poems of the California frontier: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Bret Harte",
+ "_name_words": [
+  "harte"
+ ],
+ "_surname": [
+  "bret harte"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bharte-thankful-blossom": [
+   2177,
+   "Thankful Blossom"
+  ],
+  "bharte-by-shore-and-sedge": [
+   2178,
+   "By Shore and Sedge",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-drift-from-two-shores": [
+   2179,
+   "Drift from Two Shores",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-in-a-hollow-of-the-hills": [
+   2180,
+   "In a Hollow of the Hills"
+  ],
+  "bharte-maruja": [
+   2185,
+   "Maruja"
+  ],
+  "bharte-a-ward-of-the-golden-gate": [
+   2193,
+   "A Ward of the Golden Gate"
+  ],
+  "bharte-condensed-novels": [
+   2277,
+   "Condensed Novels"
+  ],
+  "bharte-condensed-novels-2278": [
+   2278,
+   "Condensed Novels: New Burlesques"
+  ],
+  "bharte-a-waif-of-the-plains": [
+   2279,
+   "A Waif of the Plains"
+  ],
+  "bharte-a-millionaire-of-rough-and-ready": [
+   2280,
+   "A Millionaire of Rough-and-Ready"
+  ],
+  "bharte-heritage-of-dedlow-marsh-and-other-tales": [
+   2281,
+   "The Heritage of Dedlow Marsh and Other Tales"
+  ],
+  "bharte-devils-ford": [
+   2286,
+   "Devil's Ford"
+  ],
+  "bharte-snow-bound-at-eagles": [
+   2297,
+   "Snow-Bound at Eagle's"
+  ],
+  "bharte-in-the-carquinez-woods": [
+   2310,
+   "In the Carquinez Woods"
+  ],
+  "bharte-trents-trust-and-other-stories": [
+   2459,
+   "Trent's Trust, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-crusade-of-the-excelsior": [
+   2471,
+   "The Crusade of the Excelsior",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-susy-a-story-of-the-plains": [
+   2495,
+   "Susy, a Story of the Plains"
+  ],
+  "bharte-complete-poetical-works": [
+   2507,
+   "Complete Poetical Works",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-stories-in-light-and-shadow": [
+   2508,
+   "Stories in Light and Shadow"
+  ],
+  "bharte-openings-in-the-old-trail": [
+   2535,
+   "Openings in the Old Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-from-sand-hill-to-pine": [
+   2544,
+   "From Sand Hill to Pine",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-tales-of-trail-and-town": [
+   2550,
+   "Tales of Trail and Town"
+  ],
+  "bharte-under-the-redwoods": [
+   2555,
+   "Under the Redwoods"
+  ],
+  "bharte-mr-jack-hamlins-mediation": [
+   2556,
+   "Mr. Jack Hamlin's Mediation"
+  ],
+  "bharte-three-partners": [
+   2560,
+   "The Three Partners"
+  ],
+  "bharte-two-men-of-sandy-bar": [
+   2570,
+   "Two Men of Sandy Bar: A Drama"
+  ],
+  "bharte-on-the-frontier": [
+   2574,
+   "On the Frontier",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-mrs-skaggs-husbands-and-other-stories": [
+   2597,
+   "Mrs. Skagg's Husbands and Other Stories"
+  ],
+  "bharte-urban-sketches": [
+   2598,
+   "Urban Sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-legends-and-tales": [
+   2599,
+   "Legends and Tales"
+  ],
+  "bharte-clarence": [
+   2635,
+   "Clarence"
+  ],
+  "bharte-story-of-a-mine": [
+   2661,
+   "The Story of a Mine"
+  ],
+  "bharte-bell-ringer-of-angels-and-other-stories": [
+   2676,
+   "The Bell-Ringer of Angel's, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-a-protegee-of-jack-hamlins-and-other-stories": [
+   2692,
+   "A Protegee of Jack Hamlin's, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-jeff-briggss-love-story": [
+   2695,
+   "Jeff Briggs's Love Story"
+  ],
+  "bharte-argonauts-of-north-liberty": [
+   2703,
+   "The Argonauts of North Liberty"
+  ],
+  "bharte-sally-dows": [
+   2705,
+   "Sally Dows",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-a-phyllis-of-the-sierras": [
+   2711,
+   "A Phyllis of the Sierras"
+  ],
+  "bharte-a-drift-from-redwood-camp": [
+   2712,
+   "A Drift from Redwood Camp"
+  ],
+  "bharte-a-first-family-of-tasajara": [
+   2723,
+   "A First Family of Tasajara"
+  ],
+  "bharte-colonel-starbottles-client": [
+   2784,
+   "Colonel Starbottle's Client",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-flip": [
+   2793,
+   "Flip: A California Romance"
+  ],
+  "bharte-found-at-blazing-star": [
+   2794,
+   "Found at Blazing Star"
+  ],
+  "bharte-queen-of-the-pirate-isle": [
+   2798,
+   "The Queen of the Pirate Isle"
+  ],
+  "bharte-cressy": [
+   2858,
+   "Cressy"
+  ],
+  "bharte-twins-of-table-mountain-and-other-stories": [
+   2862,
+   "The Twins of Table Mountain, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-a-sappho-of-green-springs": [
+   2867,
+   "A Sappho of Green Springs",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-tales-of-the-argonauts": [
+   2886,
+   "Tales of the Argonauts",
+   {
+    "contents_only": true
+   }
+  ],
+  "bharte-tennessees-partner": [
+   4674,
+   "Tennessee's Partner"
+  ],
+  "bharte-luck-of-roaring-camp-and-other-tales-with-condensed-n": [
+   6373,
+   "The Luck of Roaring Camp and Other Tales With Condensed Novels, Spanish and American Legends, and Earlier Papers"
+  ],
+  "bharte-east-and-west": [
+   8402,
+   "East and West: Poems"
+  ],
+  "bharte-dickens-in-camp": [
+   12337,
+   "Dickens in Camp"
+  ],
+  "bharte-frontier-stories": [
+   12419,
+   "Frontier Stories"
+  ],
+  "bharte-salomy-jane": [
+   15192,
+   "Salomy Jane"
+  ],
+  "bharte-excelsior": [
+   24019,
+   "\"Excelsior\""
+  ],
+  "bharte-her-letter-his-answer-her-last-letter": [
+   34227,
+   "Her Letter, His Answer & Her Last Letter"
+  ],
+  "bharte-gabriel-conroy": [
+   36336,
+   "Gabriel Conroy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59300": "PG 59300: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 17168: second Gutenberg editions of titles already on the shelf.",
+  "pg-1312": "PG 1312 Selected Stories: a selection of stories already on the shelf in their own books."
+ },
+ "_checks": {
+  "bharte-thankful-blossom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-by-shore-and-sedge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-drift-from-two-shores": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-in-a-hollow-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-maruja": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-ward-of-the-golden-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-condensed-novels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-condensed-novels-2278": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-waif-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-millionaire-of-rough-and-ready": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-heritage-of-dedlow-marsh-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-devils-ford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-snow-bound-at-eagles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-in-the-carquinez-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-trents-trust-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-crusade-of-the-excelsior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-susy-a-story-of-the-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-complete-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-stories-in-light-and-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-openings-in-the-old-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-from-sand-hill-to-pine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-tales-of-trail-and-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-under-the-redwoods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-mr-jack-hamlins-mediation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-three-partners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-two-men-of-sandy-bar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-on-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-mrs-skaggs-husbands-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-urban-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-legends-and-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-clarence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-story-of-a-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-bell-ringer-of-angels-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-protegee-of-jack-hamlins-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-jeff-briggss-love-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-argonauts-of-north-liberty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-sally-dows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-phyllis-of-the-sierras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-drift-from-redwood-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-first-family-of-tasajara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-colonel-starbottles-client": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-flip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-found-at-blazing-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-queen-of-the-pirate-isle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-cressy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-twins-of-table-mountain-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-a-sappho-of-green-springs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-tales-of-the-argonauts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-tennessees-partner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-luck-of-roaring-camp-and-other-tales-with-condensed-n": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-east-and-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-dickens-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-frontier-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-salomy-jane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-excelsior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-her-letter-his-answer-her-last-letter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bharte-gabriel-conroy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bret harte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

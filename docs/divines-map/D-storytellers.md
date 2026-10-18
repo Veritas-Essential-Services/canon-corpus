@@ -8313,6 +8313,73 @@ Shelf: `pipeline/galsworthy_shelf.json` (2026-10-17; added at the coordinator's 
 | pg-3459 | excluded | PG 3459, 7544: David Widger's quotation and image selections, not books by Galsworthy. |
 | pg-3254 | excluded | PG 3254: a Gutenberg omnibus file that joins the separate books already on the shelf. |
 
+## Bret Harte
+
+Shelf: `pipeline/bret-harte_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (57 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Thankful Blossom | have | PG 2177, `bharte-thankful-blossom` (366 units) |
+| By Shore and Sedge | have | PG 2178, `bharte-by-shore-and-sedge` (711 units) |
+| Drift from Two Shores | have | PG 2179, `bharte-drift-from-two-shores` (1010 units) |
+| In a Hollow of the Hills | have | PG 2180, `bharte-in-a-hollow-of-the-hills` (593 units) |
+| Maruja | have | PG 2185, `bharte-maruja` (762 units) |
+| A Ward of the Golden Gate | have | PG 2193, `bharte-a-ward-of-the-golden-gate` (804 units) |
+| Condensed Novels | have | PG 2277, `bharte-condensed-novels` (1096 units) |
+| Condensed Novels: New Burlesques | have | PG 2278, `bharte-condensed-novels-2278` (604 units) |
+| A Waif of the Plains | have | PG 2279, `bharte-a-waif-of-the-plains` (619 units) |
+| A Millionaire of Rough-and-Ready | have | PG 2280, `bharte-a-millionaire-of-rough-and-ready` (452 units) |
+| The Heritage of Dedlow Marsh and Other Tales | have | PG 2281, `bharte-heritage-of-dedlow-marsh-and-other-tales` (842 units) |
+| Devil's Ford | have | PG 2286, `bharte-devils-ford` (492 units) |
+| Snow-Bound at Eagle's | have | PG 2297, `bharte-snow-bound-at-eagles` (751 units) |
+| In the Carquinez Woods | have | PG 2310, `bharte-in-the-carquinez-woods` (827 units) |
+| Trent's Trust, and Other Stories | have | PG 2459, `bharte-trents-trust-and-other-stories` (1297 units) |
+| The Crusade of the Excelsior | have | PG 2471, `bharte-crusade-of-the-excelsior` (1405 units) |
+| Susy, a Story of the Plains | have | PG 2495, `bharte-susy-a-story-of-the-plains` (731 units) |
+| Complete Poetical Works | have | PG 2507, `bharte-complete-poetical-works` (1433 units) |
+| Stories in Light and Shadow | have | PG 2508, `bharte-stories-in-light-and-shadow` (912 units) |
+| Openings in the Old Trail | have | PG 2535, `bharte-openings-in-the-old-trail` (1010 units) |
+| From Sand Hill to Pine | have | PG 2544, `bharte-from-sand-hill-to-pine` (1142 units) |
+| Tales of Trail and Town | have | PG 2550, `bharte-tales-of-trail-and-town` (892 units) |
+| Under the Redwoods | have | PG 2555, `bharte-under-the-redwoods` (846 units) |
+| Mr. Jack Hamlin's Mediation | have | PG 2556, `bharte-mr-jack-hamlins-mediation` (1002 units) |
+| The Three Partners | have | PG 2560, `bharte-three-partners` (981 units) |
+| Two Men of Sandy Bar: A Drama | have | PG 2570, `bharte-two-men-of-sandy-bar` (954 units) |
+| On the Frontier | have | PG 2574, `bharte-on-the-frontier` (765 units) |
+| Mrs. Skagg's Husbands and Other Stories | have | PG 2597, `bharte-mrs-skaggs-husbands-and-other-stories` (616 units) |
+| Urban Sketches | have | PG 2598, `bharte-urban-sketches` (114 units) |
+| Legends and Tales | have | PG 2599, `bharte-legends-and-tales` (167 units) |
+| Clarence | have | PG 2635, `bharte-clarence` (860 units) |
+| The Story of a Mine | have | PG 2661, `bharte-story-of-a-mine` (798 units) |
+| The Bell-Ringer of Angel's, and Other Stories | have | PG 2676, `bharte-bell-ringer-of-angels-and-other-stories` (978 units) |
+| A Protegee of Jack Hamlin's, and Other Stories | have | PG 2692, `bharte-a-protegee-of-jack-hamlins-and-other-stories` (982 units) |
+| Jeff Briggs's Love Story | have | PG 2695, `bharte-jeff-briggss-love-story` (686 units) |
+| The Argonauts of North Liberty | have | PG 2703, `bharte-argonauts-of-north-liberty` (524 units) |
+| Sally Dows | have | PG 2705, `bharte-sally-dows` (931 units) |
+| A Phyllis of the Sierras | have | PG 2711, `bharte-a-phyllis-of-the-sierras` (508 units) |
+| A Drift from Redwood Camp | have | PG 2712, `bharte-a-drift-from-redwood-camp` (67 units) |
+| A First Family of Tasajara | have | PG 2723, `bharte-a-first-family-of-tasajara` (909 units) |
+| Colonel Starbottle's Client | have | PG 2784, `bharte-colonel-starbottles-client` (906 units) |
+| Flip: A California Romance | have | PG 2793, `bharte-flip` (280 units) |
+| Found at Blazing Star | have | PG 2794, `bharte-found-at-blazing-star` (302 units) |
+| The Queen of the Pirate Isle | have | PG 2798, `bharte-queen-of-the-pirate-isle` (117 units) |
+| Cressy | have | PG 2858, `bharte-cressy` (880 units) |
+| The Twins of Table Mountain, and Other Stories | have | PG 2862, `bharte-twins-of-table-mountain-and-other-stories` (922 units) |
+| A Sappho of Green Springs | have | PG 2867, `bharte-a-sappho-of-green-springs` (989 units) |
+| Tales of the Argonauts | have | PG 2886, `bharte-tales-of-the-argonauts` (832 units) |
+| Tennessee's Partner | have | PG 4674, `bharte-tennessees-partner` (50 units) |
+| The Luck of Roaring Camp and Other Tales With Condensed Novels, Spanish and American Legends, and Earlier Papers | have | PG 6373, `bharte-luck-of-roaring-camp-and-other-tales-with-condensed-n` (2481 units) |
+| East and West: Poems | have | PG 8402, `bharte-east-and-west` (370 units) |
+| Dickens in Camp | have | PG 12337, `bharte-dickens-in-camp` (38 units) |
+| Frontier Stories | have | PG 12419, `bharte-frontier-stories` (2624 units) |
+| Salomy Jane | have | PG 15192, `bharte-salomy-jane` (131 units) |
+| "Excelsior" | have | PG 24019, `bharte-excelsior` (27 units) |
+| Her Letter, His Answer & Her Last Letter | have | PG 34227, `bharte-her-letter-his-answer-her-last-letter` (132 units) |
+| Gabriel Conroy | have | PG 36336, `bharte-gabriel-conroy` (3056 units) |
+| pg-59300 | excluded | PG 59300: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 17168: second Gutenberg editions of titles already on the shelf. |
+| pg-1312 | excluded | PG 1312 Selected Stories: a selection of stories already on the shelf in their own books. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
