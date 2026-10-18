@@ -132,6 +132,10 @@
    {
     "contents_only": true
    }
+  ],
+  "gmeredith-egoist": [
+   1684,
+   "The Egoist: A Comedy in Narrative"
   ]
  },
  "internet_archive": {},
@@ -387,6 +391,15 @@
    "pg_translator": null
   },
   "gmeredith-poems-and-lyrics-of-the-joy-of-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-egoist": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
