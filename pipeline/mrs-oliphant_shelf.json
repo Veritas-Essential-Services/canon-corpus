@@ -581,6 +581,13 @@
   "moliphant-harry-muir-a-story-of-scottish-life-vol-3-of-3": [
    73086,
    "Harry Muir A story of Scottish life, vol. 3 (of 3)"
+  ],
+  "moliphant-a-widows-tale-and-other-stories": [
+   43084,
+   "A Widow's Tale, and Other Stories",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
@@ -1715,6 +1722,15 @@
    "pg_translator": null
   },
   "moliphant-harry-muir-a-story-of-scottish-life-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. oliphant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moliphant-a-widows-tale-and-other-stories": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
