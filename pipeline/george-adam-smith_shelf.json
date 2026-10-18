@@ -1,0 +1,208 @@
+{
+ "_about": "Public-domain Sir George Adam Smith (1856-1942, Aberdeen, Old Testament scholar) for the Word Hoard: The Historical Geography of the Holy Land (1895), The Book of Isaiah and The Book of the Twelve Prophets in the Expositor's Bible (2 vols each), The Life of Henry Drummond (1898), Modern Criticism and the Preaching of the Old Testament (1901), Jerusalem (2 vols, 1907-1908), The Early Poetry of Israel (1912), Deuteronomy in the Cambridge Bible (1918) and Jeremiah (1924), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george adam smith"
+ ],
+ "_surname": [
+  "george adam smith",
+  "g. a. smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gasmith-isaiah-2": [
+   43672,
+   "The Book of Isaiah, vol. II, Expositor's Bible (London: Hodder and Stoughton, MDCCCXC)"
+  ],
+  "gasmith-jeremiah": [
+   27351,
+   "Jeremiah, the Baird Lecture for 1922 (New York: George H. Doran, 1924)"
+  ]
+ },
+ "internet_archive": {
+  "gasmith-historical-geography": [
+   "historicalgeogra1895smit",
+   "The Historical Geography of the Holy Land (New York: A. C. Armstrong, 1895)"
+  ],
+  "gasmith-isaiah-1": [
+   "thebookofisaiah01smituoft",
+   "The Book of Isaiah, vol. I, Expositor's Bible (London: Hodder and Stoughton; title page undated)"
+  ],
+  "gasmith-twelve-prophets-1": [
+   "cu31924029307068",
+   "The Book of the Twelve Prophets, vol. I, Expositor's Bible (New York: A. C. Armstrong, 1896)"
+  ],
+  "gasmith-twelve-prophets-2": [
+   "bookoftwelveprop302smit",
+   "The Book of the Twelve Prophets, vol. II, Expositor's Bible (New York: A. C. Armstrong, 1898)"
+  ],
+  "gasmith-henry-drummond": [
+   "cu31924032370367",
+   "The Life of Henry Drummond (New York: Doubleday & McClure, 1898)"
+  ],
+  "gasmith-modern-criticism": [
+   "moderncriticisma00smituoft",
+   "Modern Criticism and the Preaching of the Old Testament (London: Hodder and Stoughton, MCMI)"
+  ],
+  "gasmith-jerusalem-1": [
+   "cu31924083674295",
+   "Jerusalem: the Topography, Economics and History, vol. I (London: Hodder and Stoughton, MCMVII)"
+  ],
+  "gasmith-jerusalem-2": [
+   "cu31924083674154",
+   "Jerusalem: the Topography, Economics and History, vol. II (London: Hodder and Stoughton, MCMVIII)"
+  ],
+  "gasmith-early-poetry-israel": [
+   "poetryofisrael00smituoft",
+   "The Early Poetry of Israel in its Physical and Social Origins, Schweich Lectures 1910 (London: British Academy, 1912)"
+  ],
+  "gasmith-deuteronomy": [
+   "bookofdeuteronom0000sirg",
+   "The Book of Deuteronomy, Cambridge Bible (Cambridge: University Press, 1918)"
+  ]
+ },
+ "_alternates": {
+  "gasmith-pg-ccel": "PG 39767 (Isaiah I, 1910 twentieth edition), PG 43847 and 50747 (the Twelve), and the CCEL Expositor texts",
+  "gasmith-copies": "London 1899 Drummond; The Forgiveness of Sins (later printing); undated Hodder Jeremiah"
+ },
+ "_excluded": {
+  "gasmith-later": "Printings from 1927 on, and Hodder/Doran reprints catalogued 1900"
+ },
+ "_rights_checked": {
+  "gasmith-isaiah-1": "title page read: no year (the Expositor's Isaiah came out 1888-1890); 'Rev. George Adam Smith, M.A.'",
+  "gasmith-jeremiah": "PG header has no copyright marker; source stated Doran 1924; Smith died 1942, so US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gasmith-isaiah-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasmith-jeremiah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasmith-historical-geography": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gasmith-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no year (the Expositor's Isaiah came out 1888-1890); 'Rev. George Adam Smith, M.A.'"
+  },
+  "gasmith-twelve-prophets-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gasmith-twelve-prophets-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gasmith-henry-drummond": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gasmith-modern-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gasmith-jerusalem-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gasmith-jerusalem-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gasmith-early-poetry-israel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gasmith-deuteronomy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george adam smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

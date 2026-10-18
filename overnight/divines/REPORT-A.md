@@ -1564,3 +1564,6 @@
 
 ## 2026-10-17 21:18 CDT — edward-robinson done
 - `pipeline/edward-robinson_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:18 CDT — george-adam-smith done
+- `pipeline/george-adam-smith_shelf.json`: 0 CCEL, 2 PG, 10 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -7529,3 +7529,25 @@ Slugs `erobinson-*`. Built from title pages read for round 32.
 | A Harmony of the Four Gospels in English (Boston: Crocker and Brewster, 1846) | have-ocr | IA `gospelsharmony00robirich` |
 | His translation of Gesenius's Hebrew and English Lexicon (1836) | alternate | not shelved |
 | The 1834 Greek Harmony after Newcome; the 1874 eleventh edition of the Researches; his Dictionary of the Holy Bible (abridged from Calmet) | alternate | not shelved |
+
+## George Adam Smith (round 32, my pick, 2026-10-18)
+
+Slugs `gasmith-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Isaiah, vol. II, Expositor's Bible (London: Hodder and Stoughton, MDCCCXC) | have-clean | Gutenberg 43672 |
+| Jeremiah, the Baird Lecture for 1922 (New York: George H. Doran, 1924) | have-clean | Gutenberg 27351 |
+| The Historical Geography of the Holy Land (New York: A. C. Armstrong, 1895) | have-ocr | IA `historicalgeogra1895smit` |
+| The Book of Isaiah, vol. I, Expositor's Bible (London: Hodder and Stoughton; title page undated) | have-ocr | IA `thebookofisaiah01smituoft` |
+| The Book of the Twelve Prophets, vol. I, Expositor's Bible (New York: A. C. Armstrong, 1896) | have-ocr | IA `cu31924029307068` |
+| The Book of the Twelve Prophets, vol. II, Expositor's Bible (New York: A. C. Armstrong, 1898) | have-ocr | IA `bookoftwelveprop302smit` |
+| The Life of Henry Drummond (New York: Doubleday & McClure, 1898) | have-ocr | IA `cu31924032370367` |
+| Modern Criticism and the Preaching of the Old Testament (London: Hodder and Stoughton, MCMI) | have-ocr | IA `moderncriticisma00smituoft` |
+| Jerusalem: the Topography, Economics and History, vol. I (London: Hodder and Stoughton, MCMVII) | have-ocr | IA `cu31924083674295` |
+| Jerusalem: the Topography, Economics and History, vol. II (London: Hodder and Stoughton, MCMVIII) | have-ocr | IA `cu31924083674154` |
+| The Early Poetry of Israel in its Physical and Social Origins, Schweich Lectures 1910 (London: British Academy, 1912) | have-ocr | IA `poetryofisrael00smituoft` |
+| The Book of Deuteronomy, Cambridge Bible (Cambridge: University Press, 1918) | have-ocr | IA `bookofdeuteronom0000sirg` |
+| PG 39767 (Isaiah I, 1910 twentieth edition), PG 43847 and 50747 (the Twelve), and the CCEL Expositor texts | alternate | not shelved |
+| London 1899 Drummond; The Forgiveness of Sins (later printing); undated Hodder Jeremiah | alternate | not shelved |
+| Printings from 1927 on, and Hodder/Doran reprints catalogued 1900 | excluded | |
