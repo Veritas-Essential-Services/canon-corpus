@@ -8474,6 +8474,16 @@ Slugs `-*`. Built from title pages read for round 35.
 | Notes of a Visit to the Russian Church in the years 1840, 1841, selected and arranged by Cardinal Newman (London: Kegan Paul, Trench, 1882) | have-ocr | IA `notesofvisittoru00palmuoft` |
 | Other copies of both books | alternate | not shelved |
 | The 1968 facsimile of The Patriarch and the Tsar | excluded | |
+
+## Angelus Silesius (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Angelus Silesius: A Selection from the Rhymes of a German Mystic, translated in the original metre by Paul Carus (Chicago: Open Court, 1909) | have-ocr | IA `AngelusSilesius` |
+| Another 1909 copy; Kroeger's Rhymed Sayings in the Journal of Speculative Philosophy (1870, a journal article) | alternate | not shelved |
+| Flitch (1932) and later selections; a German PG text; anthologies with his hymns | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

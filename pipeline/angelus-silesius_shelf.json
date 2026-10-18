@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Angelus Silesius (Johann Scheffler, 1624-1677), German mystic poet, in English translation for the Word Hoard: A Selection from the Rhymes of a German Mystic, translated in the original metre by Paul Carus (Chicago: Open Court, 1909), from an Internet Archive scan. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "silesius"
+ ],
+ "_surname": [
+  "angelus silesius",
+  "silesius",
+  "scheffler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "silesius-rhymes-carus": [
+   "AngelusSilesius",
+   "Angelus Silesius: A Selection from the Rhymes of a German Mystic, translated in the original metre by Paul Carus (Chicago: Open Court, 1909)"
+  ]
+ },
+ "_alternates": {
+  "silesius-copies": "Another 1909 copy; Kroeger's Rhymed Sayings in the Journal of Speculative Philosophy (1870, a journal article)"
+ },
+ "_excluded": {
+  "silesius-later": "Flitch (1932) and later selections; a German PG text; anthologies with his hymns"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "silesius-rhymes-carus": "carus"
+ },
+ "_checks": {
+  "silesius-rhymes-carus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angelus silesius",
+   "translator_claimed": "carus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

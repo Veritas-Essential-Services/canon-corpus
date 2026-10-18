@@ -1762,3 +1762,6 @@
 
 ## 2026-10-17 22:27 CDT — william-palmer-of-magdalen done
 - `pipeline/william-palmer-of-magdalen_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — angelus-silesius done
+- `pipeline/angelus-silesius_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
