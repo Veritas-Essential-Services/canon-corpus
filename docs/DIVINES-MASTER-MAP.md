@@ -36219,6 +36219,39 @@ Shelf: `pipeline/josephine-chase_shelf.json` (2026-10-17; added at the coordinat
 | Grace Harlowe's Overland Riders at Circle O Ranch | have | PG 62743, `jchase-grace-harlowes-overland-riders-at-circle-o-ranch` (1485 units) |
 | Grace Harlowe's Overland Riders on the Lost River Trail | have | PG 62946, `jchase-grace-harlowes-overland-riders-on-the-lost-river-trai` (1809 units) |
 
+## Clarence Young
+
+Shelf: `pipeline/clarence-young_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Motor Boys on the Pacific; Or, the Young Derelict Hunters | have | PG 5004, `cyoung-motor-boys-on-the-pacific` (1609 units) |
+| Jack Ranger's Western Trip; Or, from Boarding School to Ranch and Range | have | PG 7496, `cyoung-jack-rangers-western-trip` (2408 units) |
+| Ned, Bob and Jerry on the Firing Line; Or, The Motor Boys Fighting for Uncle Sam | have | PG 28442, `cyoung-ned-bob-and-jerry-on-the-firing-line` (1673 units) |
+| The Motor Boys; or, Chums Through Thick and Thin | have | PG 42461, `cyoung-motor-boys` (1927 units) |
+| The Motor Boys Overland; Or, A Long Trip for Fun and Fortune | have | PG 42748, `cyoung-motor-boys-overland` (1943 units) |
+| The Motor Boys in Mexico; Or, The Secret of the Buried City | have | PG 43204, `cyoung-motor-boys-in-mexico` (2034 units) |
+| The Motor Boys Across the Plains; or, The Hermit of Lost Lake | have | PG 43509, `cyoung-motor-boys-across-the-plains` (1862 units) |
+| The Motor Boys Afloat; or, The Stirring Cruise of the Dartaway | have | PG 44788, `cyoung-motor-boys-afloat` (1759 units) |
+| The Motor Boys on the Atlantic; or, The Mystery of the Lighthouse | have | PG 44846, `cyoung-motor-boys-on-the-atlantic` (1865 units) |
+| The Motor Boys in Strange Waters; or, Lost in a Floating Forest | have | PG 44951, `cyoung-motor-boys-in-strange-waters` (1822 units) |
+| The Motor Boys in the Clouds; or, A Trip for Fame and Fortune | have | PG 45326, `cyoung-motor-boys-in-the-clouds` (1797 units) |
+| The Motor Boys Over the Rockies; Or, A Mystery of the Air | have | PG 45576, `cyoung-motor-boys-over-the-rockies` (1440 units) |
+| Jack Ranger's Gun Club; Or, From Schoolroom to Camp and Trail | have | PG 45582, `cyoung-jack-rangers-gun-club` (2820 units) |
+| The Motor Boys Over the Ocean; Or, A Marvelous Rescue in Mid-Air | have | PG 46127, `cyoung-motor-boys-over-the-ocean` (1754 units) |
+| The Motor Boys on the Wing; Or, Seeking the Airship Treasure | have | PG 46850, `cyoung-motor-boys-on-the-wing` (1790 units) |
+| The Motor Boys After a Fortune; or, The Hut on Snake Island | have | PG 47417, `cyoung-motor-boys-after-a-fortune` (1758 units) |
+| The Motor Boys on the Border; Or, Sixty Nuggets of Gold | have | PG 48536, `cyoung-motor-boys-on-the-border` (1855 units) |
+| The Motor Boys Under the Sea; or, From Airship to Submarine | have | PG 49049, `cyoung-motor-boys-under-the-sea` (1806 units) |
+| The Motor Boys on Road and River; Or, Racing To Save a Life | have | PG 50051, `cyoung-motor-boys-on-road-and-river` (2000 units) |
+| Ned, Bob and Jerry at Boxwood Hall; Or, The Motor Boys as Freshmen | have | PG 51079, `cyoung-ned-bob-and-jerry-at-boxwood-hall` (2221 units) |
+| The Motor Boys on a Ranch; or, Ned, Bob and Jerry Among the Cowboys | have | PG 52153, `cyoung-motor-boys-on-a-ranch` (1982 units) |
+| The Motor Boys in the Army; or, Ned, Bob and Jerry as Volunteers | have | PG 53320, `cyoung-motor-boys-in-the-army` (1860 units) |
+| The Motor Boys Bound for Home; or, Ned, Bob and Jerry on the Wrecked Troopship | have | PG 53704, `cyoung-motor-boys-bound-for-home` (1789 units) |
+| The Motor Boys on Thunder Mountain; Or, The Treasure Chest of Blue Rock | have | PG 59340, `cyoung-motor-boys-on-thunder-mountain` (1924 units) |
+| The Racer Boys; Or, The Mystery of the Wreck | have | PG 61534, `cyoung-racer-boys` (1831 units) |
+| The Racer boys on the prairies | have | PG 75395, `cyoung-racer-boys-on-the-prairies` (1854 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
