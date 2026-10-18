@@ -1659,3 +1659,6 @@
 
 ## 2026-10-17 23:24 CDT — mary-johnston: done
 - mary-johnston: new shelf, 21 Gutenberg books, 39,400 units, 2182 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — ellen-glasgow: done
+- ellen-glasgow: new shelf, 15 Gutenberg books, 34,146 units, 3272 ~2 ids; verify 0 mismatches, 0 rights flags.

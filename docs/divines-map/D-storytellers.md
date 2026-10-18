@@ -12559,6 +12559,28 @@ Shelf: `pipeline/mary-johnston_shelf.json` (2026-10-17; added at the coordinator
 | Michael Forth | have | PG 79418, `mjohnston-michael-forth` (1714 units) |
 | The slave ship | have | PG 79439, `mjohnston-slave-ship` (1474 units) |
 
+## Ellen Glasgow
+
+Shelf: `pipeline/ellen-glasgow_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Deliverance: A Romance of the Virginia Tobacco Fields | have | PG 2384, `eglasgow-deliverance` (2770 units) |
+| The Battle Ground | have | PG 6872, `eglasgow-battle-ground` (2887 units) |
+| Life and Gabriella: The Story of a Woman's Courage | have | PG 14571, `eglasgow-life-and-gabriella` (2393 units) |
+| The Wheel of Life | have | PG 14696, `eglasgow-wheel-of-life` (2271 units) |
+| One Man in His Time | have | PG 15603, `eglasgow-one-man-in-his-time` (2004 units) |
+| The Voice of the People | have | PG 16505, `eglasgow-voice-of-the-people` (2831 units) |
+| The Miller Of Old Church | have | PG 18286, `eglasgow-miller-of-old-church` (2549 units) |
+| Virginia | have | PG 26316, `eglasgow-virginia` (2189 units) |
+| The Romance of a Plain Man | have | PG 30299, `eglasgow-romance-of-a-plain-man` (3070 units) |
+| Phases of an Inferior Planet | have | PG 34402, `eglasgow-phases-of-an-inferior-planet` (2902 units) |
+| The Ancient Law | have | PG 34419, `eglasgow-ancient-law` (2412 units) |
+| The Builders | have | PG 37463, `eglasgow-builders` (1949 units) |
+| The Shadowy Third, and Other Stories | have | PG 59015, `eglasgow-shadowy-third-and-other-stories` (1213 units) |
+| The Freeman, and Other Poems | have | PG 65574, `eglasgow-freeman-and-other-poems` (132 units) |
+| Barren Ground | have | PG 66191, `eglasgow-barren-ground` (2574 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
