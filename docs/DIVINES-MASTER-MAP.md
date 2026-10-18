@@ -37541,6 +37541,34 @@ Shelf: `pipeline/edmund-yates_shelf.json` (2026-10-17; added at the coordinator'
 | The Impending Sword: A Novel (Vol. 3 of 3) | have | PG 62298, `eyates-impending-sword-62298` (658 units) |
 | Mirth and metre (with Frank E. Smedley) | have | PG 69177, `eyates-mirth-and-metre` (365 units) |
 
+## William Black
+
+Shelf: `pipeline/william-black_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Macleod of Dare | have | PG 15587, `wblack-macleod-of-dare` (2978 units) |
+| Prince Fortunatus | have | PG 16217, `wblack-prince-fortunatus` (2978 units) |
+| Sunrise | have | PG 17308, `wblack-sunrise` (4417 units) |
+| Goldsmith English Men of Letters Series | have | PG 18917, `wblack-goldsmith-english-men-of-letters-series` (330 units) |
+| The Beautiful Wretch; The Pupil of Aurelius; and The Four Macnicols | have | PG 24094, `wblack-beautiful-wretch` (1911 units) |
+| Judith Shakespeare: Her love affairs and other adventures | have | PG 37788, `wblack-judith-shakespeare` (2414 units) |
+| In Silk Attire: A Novel | have | PG 40111, `wblack-in-silk-attire` (2820 units) |
+| Stand Fast, Craig-Royston! (Volume I) | have | PG 42729, `wblack-stand-fast-craig-royston-volume-i` (862 units) |
+| Stand Fast, Craig-Royston! (Volume II) | have | PG 42730, `wblack-stand-fast-craig-royston-volume-ii` (991 units) |
+| Stand Fast, Craig-Royston! (Volume III) | have | PG 42731, `wblack-stand-fast-craig-royston-volume-iii` (922 units) |
+| Donald Ross of Heimra (Volume 1 of 3) | have | PG 43052, `wblack-donald-ross-of-heimra-volume-1-of-3` (978 units) |
+| Donald Ross of Heimra (Volume 2 of 3) | have | PG 43053, `wblack-donald-ross-of-heimra-volume-2-of-3` (750 units) |
+| Donald Ross of Heimra (Volume 3 of 3) | have | PG 43054, `wblack-donald-ross-of-heimra-volume-3-of-3` (883 units) |
+| White Heather: A Novel (Volume 1 of 3) | have | PG 43444, `wblack-white-heather` (1112 units) |
+| White Heather: A Novel (Volume 2 of 3) | have | PG 43445, `wblack-white-heather-43445` (973 units) |
+| White Heather: A Novel (Volume 3 of 3) | have | PG 43446, `wblack-white-heather-43446` (970 units) |
+| White Wings: A Yachting Romance, Volume I | have | PG 43828, `wblack-white-wings` (841 units) |
+| White Wings: A Yachting Romance, Volume II | have | PG 43829, `wblack-white-wings-43829` (992 units) |
+| White Wings: A Yachting Romance, Volume III | have | PG 43830, `wblack-white-wings-43830` (987 units) |
+| A Princess of Thule | have | PG 49786, `wblack-a-princess-of-thule` (3281 units) |
+| A daughter of Heth | have | PG 77747, `wblack-a-daughter-of-heth` (2656 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1650,3 +1650,6 @@
 
 ## 2026-10-17 23:24 CDT — edmund-yates: done
 - edmund-yates: new shelf, 24 Gutenberg books, 24,494 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — william-black: done
+- william-black: new shelf, 21 Gutenberg books, 35,046 units, 156 ~2 ids; verify 0 mismatches, 0 rights flags.
