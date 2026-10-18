@@ -262,3 +262,4 @@
 - 21:33 round br: 7 new shelves (Stanley Hall, Titchener, P. E. More, W. T. Harris, Pratt, Drake, Thomas Davidson), 41 titles.
 - 21:40 round bs: 17 wishlists filled (25 vols). Still held on printing date: Dewey's Public, Speculum Mentis, Grammar of Politics, Whitehead's Introduction to Mathematics.
 - 21:47 round bt: 10 shelves (Galton, Sully, Jacks, Palmer, Fullerton, Edman, Durant, Marett, Westermarck, Tylor). Durant's Story of Philosophy wanted in a pre-1931 printing.
+- 21:53 round bu: 8 shelves (J. S. Mackenzie, Webb, Cook Wilson, Joseph, Maudsley, Boodin, A. K. Rogers, Fite). Wanted: Webb's History of Philosophy with a printed year; Statement and Inference vol. II.

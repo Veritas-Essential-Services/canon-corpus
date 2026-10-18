@@ -14980,6 +14980,100 @@ Shelf: `pipeline/edward-burnett-tylor_shelf.json`. Five volumes, 1861-1881.
 | Anahuac: or, Mexico and the Mexicans |  | `tylor-anahuac` | have (PG 13115) |
 | Researches into the Early History of Mankind (Murray, 1865) |  | `tylor-researches-early-history-mankind-1865` | have-raw (IA `researchesintoea00tylorich`) |
 
+## J. S. Mackenzie (British idealism, social philosophy)
+
+Shelf: `pipeline/john-stuart-mackenzie_shelf.json`. Eight books, 1895-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introduction to Social Philosophy (Maclehose, 1895) |  | `mackenzie-introduction-to-social-philosophy-1895` | have-raw (IA `introtosocialphi00mackuoft`) |
+| A Manual of Ethics (Clive, 1897) |  | `mackenzie-manual-of-ethics-1897` | have-raw (IA `manualofethics00mack_0`) |
+| Outlines of Metaphysics (Macmillan, 1906) |  | `mackenzie-outlines-of-metaphysics-1906` | have-raw (IA `outlinesofmetaph00mackuoft`) |
+| Lectures on Humanism (Swan Sonnenschein, 1907) |  | `mackenzie-lectures-on-humanism-1907` | have-raw (IA `lecturesonhumani00mackiala`) |
+| Elements of Constructive Philosophy (Allen and Unwin, 1917; reprint 1919) |  | `mackenzie-elements-of-constructive-philosophy-1919` | have-raw (IA `elementsofconstr00mack`) |
+| Outlines of Social Philosophy (Allen and Unwin, 1918) |  | `mackenzie-outlines-of-social-philosophy-1918` | have-raw (IA `outlinessocialp00mackgoog`) |
+| Arrows of Desire (Allen and Unwin, 1920) |  | `mackenzie-arrows-of-desire-1920` | have-raw (IA `arrowsofdesirees00mackuoft`) |
+| Fundamental Problems of Life (Allen and Unwin, 1928) |  | `mackenzie-fundamental-problems-of-life-1928` | have-raw (IA `fundamentalprobl0000mack`) |
+
+## C. C. J. Webb (philosophy of religion)
+
+Shelf: `pipeline/clement-webb_shelf.json`. Five books, 1911-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Problems in the Relations of God and Man (Nisbet, 1911) |  | `webb-problems-relations-god-and-man-1911` | have-raw (IA `problemsinrelati00webbrich`) |
+| Group Theories of Religion and the Individual (Allen and Unwin, 1916) |  | `webb-group-theories-of-religion-1916` | have-raw (IA `grouptheoriesofr00webbuoft`) |
+| God and Personality (Allen and Unwin, 1919; reprint 1920) |  | `webb-god-and-personality-1920` | have-raw (IA `godandpersonalit00webbuoft`) |
+| Divine Personality and Human Life (Allen and Unwin, 1920) |  | `webb-divine-personality-and-human-life-1920` | have-raw (IA `divinepersonalit00webb`) |
+| Kant's Philosophy of Religion (Clarendon, 1926) |  | `webb-kants-philosophy-of-religion-1926` | have-raw (IA `kantsphilosophyo0000webb`) |
+
+Pending (wishlist): A History of Philosophy (Home University Library) in a scan that prints its year
+
+## John Cook Wilson (Oxford realism)
+
+Shelf: `pipeline/john-cook-wilson_shelf.json`. Two volumes, 1889-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On the Interpretation of Plato's Timaeus (Nutt, 1889) |  | `cook-wilson-platos-timaeus-1889` | have-raw (IA `platostimaeuscri00wilsuoft`) |
+| Statement and Inference, vol. I (Clarendon, 1926) |  | `cook-wilson-statement-and-inference-1926-v1` | have-raw (IA `statementinferen0001john`) |
+
+Pending (wishlist): Statement and Inference vol. II (1926) in an open scan
+
+## H. W. B. Joseph (Oxford logic)
+
+Shelf: `pipeline/h-w-b-joseph_shelf.json`. One book, 1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introduction to Logic (Clarendon, 1916) |  | `joseph-introduction-to-logic-1916` | have-raw (IA `introductiontolo00joseuoft`) |
+
+## Henry Maudsley (physiological psychology)
+
+Shelf: `pipeline/henry-maudsley_shelf.json`. Seven books, 1876-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Physiology of Mind (Macmillan, 1876) |  | `maudsley-physiology-of-mind-1876` | have-raw (IA `physiologyofmind00mauduoft`) |
+| Body and Will (Appleton, 1884) |  | `maudsley-body-and-will-1884` | have-raw (IA `bodywillbeingess00maud`) |
+| Responsibility in Mental Disease (Kegan Paul, 1885) |  | `maudsley-responsibility-in-mental-disease-1885` | have-raw (IA `cu31924031204690`) |
+| Natural Causes and Supernatural Seemings (Kegan Paul, 1886) |  | `maudsley-natural-causes-supernatural-seemings-1886` | have-raw (IA `cu31924031176815`) |
+| Body and Mind (Appleton, 1890) |  | `maudsley-body-and-mind-1890` | have-raw (IA `bodymindinquiryi00maud`) |
+| The Pathology of Mind (Macmillan, 1895) |  | `maudsley-pathology-of-mind-1895` | have-raw (IA `pathologymindas00maudgoog`) |
+| Organic to Human (Macmillan, 1916) |  | `maudsley-organic-to-human-1916` | have-raw (IA `organictohumanps00maudiala`) |
+
+## John Elof Boodin (pragmatism and cosmic idealism)
+
+Shelf: `pipeline/john-elof-boodin_shelf.json`. Three books, 1911-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Truth and Reality (Macmillan, 1911) |  | `boodin-truth-and-reality-1911` | have-raw (IA `truthrealityintr00boodiala`) |
+| A Realistic Universe (Macmillan, 1916) |  | `boodin-realistic-universe-1916` | have-raw (IA `arealisticuniver00booduoft`) |
+| Cosmic Evolution (Macmillan, 1925) |  | `boodin-cosmic-evolution-1925` | have-raw (IA `cosmicevolutiono012754mbp`) |
+
+## Arthur Kenyon Rogers (critical realism, history of philosophy)
+
+Shelf: `pipeline/arthur-kenyon-rogers_shelf.json`. Four books, 1907-1925.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Brief Introduction to Modern Philosophy (Macmillan, 1899; printing of 1923) |  | `rogers-brief-introduction-modern-philosophy-1923` | have-raw (IA `abriefintroducti00rogeuoft`) |
+| A Student's History of Philosophy (Macmillan, 1925) |  | `rogers-students-history-of-philosophy-1925` | have-raw (IA `studentshistoryo0000arth_y2z4`) |
+| The Religious Conception of the World (Macmillan, 1907) |  | `rogers-religious-conception-of-the-world-1907` | have-raw (IA `religiousconc00rogeuoft`) |
+| English and American Philosophy since 1800 (Macmillan, 1922) |  | `rogers-english-american-philosophy-since-1800-1922` | have-raw (IA `englishamericanp0000roge_a5i3`) |
+
+## Warner Fite (ethical individualism)
+
+Shelf: `pipeline/warner-fite_shelf.json`. Four books, 1903-1930.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Introductory Study of Ethics (Longmans, 1903) |  | `fite-introductory-study-of-ethics-1903` | have-raw (IA `introductorystud00fit`) |
+| Individualism (Longmans, 1911) |  | `fite-individualism-1911` | have-raw (IA `cu31924032444485`) |
+| Moral Philosophy (Dial Press, 1925) |  | `fite-moral-philosophy-1925` | have-raw (IA `moralphilosophyc0000warn`) |
+| The Living Mind (Dial Press, 1930) |  | `fite-living-mind-1930` | have-raw (IA `livingmindessays00fite`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

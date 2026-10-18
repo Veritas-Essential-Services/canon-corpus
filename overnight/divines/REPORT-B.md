@@ -1268,3 +1268,10 @@
 - Galton (10), Sully (8), Jacks (3), Palmer (5), Fullerton (6), Edman (1), Durant (3), Marett (4), Westermarck (2), Tylor (5)
 - Durant's Story of Philosophy held: no pre-1931 printing found on IA
 - Title-level duplicate check run against all branches; collisions were only generic titles by other authors
+
+## 2026-10-17 21:53 CDT — Round bu: eight new shelves
+- J. S. Mackenzie (8), C. C. J. Webb (5), Cook Wilson (2), H. W. B. Joseph (1), Maudsley (7), Boodin (3), A. K. Rogers (4), Fite (4)
+- Held: Webb's History of Philosophy (no scan prints a year); Statement and Inference vol. II (scan access-restricted)
+- Webb's church-history books left for lane A
+- Fite's Living Mind is a 1930 book: _rights_checked recorded
+- Identity checks: Webb's Group Theories (OCR 'i^EBB'), Fite's Individualism (OCR 'FIXE')
