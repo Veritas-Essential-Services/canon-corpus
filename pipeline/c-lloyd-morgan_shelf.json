@@ -1,0 +1,50 @@
+{
+ "_about": "C. Lloyd Morgan (1852-1936), comparative psychologist and philosopher of emergence. Raw IA OCR: An Introduction to Comparative Psychology (London: Walter Scott; New York: Scribner's, 1894), clean 0.95; Emergent Evolution, the Gifford Lectures of 1922 (first 1923; this copy New York: Holt; London: Williams and Norgate, 1928), clean 0.91. Held: Animal Life and Intelligence (1890), whose Google scan shows no legible title page. He edited Romanes's Darwin and After Darwin vol. II (george-romanes shelf). US public domain. No uids minted.",
+ "_author": "C. Lloyd Morgan",
+ "_name_words": [
+  "conwy",
+  "lloyd",
+  "morgan"
+ ],
+ "_surname": [
+  "morgan",
+  "lloyd morgan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lloyd-morgan-comparative-psychology-1894": [
+   "introductiontoco00morg",
+   "An Introduction to Comparative Psychology (Walter Scott, 1894)"
+  ],
+  "lloyd-morgan-emergent-evolution-1923": [
+   "emergentevolutio0000morg",
+   "Emergent Evolution (1923; Holt printing 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lloyd-morgan-comparative-psychology-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lloyd-morgan-emergent-evolution-1923": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
