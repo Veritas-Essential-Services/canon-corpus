@@ -5318,6 +5318,7 @@ Shelf: `pipeline/lecky_shelf.json`. History of morals and of rationalism.
 | The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902) |  | `lecky-map-of-life-1902` | have (PG 26334) |
 | History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR) |  | `lecky-spirit-of-rationalism-1873-v1` | have-raw (IA `riseinfluenceofs01leckiala`) |
 | History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873) |  | `lecky-spirit-of-rationalism-1873-v2` | have-raw (IA `riseinfluenceofs02leckiala`) |
+| Historical and Political Essays (1908) |  | `lecky-historical-and-political-essays` | have (PG 20389) |
 
 ## Sir Henry Sumner Maine
 
