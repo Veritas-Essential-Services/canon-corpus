@@ -5403,6 +5403,7 @@ Shelf: `pipeline/john-toland_shelf.json`. Pantheisticon (1751, first English).
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Pantheisticon, first English translation (London: Sam. Paterson; year not legible, 1751 per catalogue) |  | `toland-pantheisticon-1751` | have-raw (IA `cu31924029188393`) |
 
 Pending (wishlist): Christianity not Mysterious (1696) and Letters to Serena (1704) in scans over the OCR gate
 
