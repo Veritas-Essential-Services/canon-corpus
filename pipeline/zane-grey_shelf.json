@@ -141,6 +141,17 @@
   "zgrey-from-missouri": [
    67370,
    "From Missouri"
+  ],
+  "zgrey-call-of-the-canyon": [
+   1881,
+   "The Call of the Canyon",
+   {
+    "contents_only": true
+   }
+  ],
+  "zgrey-young-forester": [
+   1882,
+   "The Young Forester"
   ]
  },
  "internet_archive": {},
@@ -148,7 +159,7 @@
  "_checks": {
   "zgrey-redheaded-outfield-and-other-baseball-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -157,7 +168,7 @@
   },
   "zgrey-desert-gold": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -166,7 +177,7 @@
   },
   "zgrey-lone-star-ranger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -175,7 +186,7 @@
   },
   "zgrey-light-of-the-western-stars": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -184,7 +195,7 @@
   },
   "zgrey-spirit-of-the-border": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -193,7 +204,7 @@
   },
   "zgrey-betty-zane": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -202,7 +213,7 @@
   },
   "zgrey-heritage-of-the-desert": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -211,7 +222,7 @@
   },
   "zgrey-riders-of-the-purple-sage": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -220,7 +231,7 @@
   },
   "zgrey-last-of-the-plainsmen": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -229,7 +240,7 @@
   },
   "zgrey-wildfire": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -238,7 +249,7 @@
   },
   "zgrey-to-the-last-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -247,7 +258,7 @@
   },
   "zgrey-man-of-the-forest": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -256,7 +267,7 @@
   },
   "zgrey-border-legion": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -265,7 +276,7 @@
   },
   "zgrey-u-p-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -274,7 +285,7 @@
   },
   "zgrey-rainbow-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -283,7 +294,7 @@
   },
   "zgrey-last-trail": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -292,7 +303,7 @@
   },
   "zgrey-desert-of-wheat": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -301,7 +312,7 @@
   },
   "zgrey-tales-of-lonely-trails": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -310,7 +321,7 @@
   },
   "zgrey-mysterious-rider": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -319,7 +330,7 @@
   },
   "zgrey-rustlers-of-pecos-county": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -328,7 +339,7 @@
   },
   "zgrey-day-of-the-beast": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -337,7 +348,7 @@
   },
   "zgrey-young-pitcher": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -346,7 +357,7 @@
   },
   "zgrey-tales-of-fishes": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -355,7 +366,7 @@
   },
   "zgrey-ken-ward-in-the-jungle": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -364,7 +375,7 @@
   },
   "zgrey-tappans-burro-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -373,7 +384,7 @@
   },
   "zgrey-wanderer-of-the-wasteland": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
@@ -382,7 +393,25 @@
   },
   "zgrey-from-missouri": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zane grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgrey-call-of-the-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "zane grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgrey-young-forester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "zane grey",
    "identity": "ok",
