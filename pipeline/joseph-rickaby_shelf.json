@@ -1,0 +1,204 @@
+{
+ "_about": "Public-domain Joseph Rickaby (1845-1932, Jesuit, Stonyhurst philosophy manualist) for the Word Hoard: Moral Philosophy (1888), Political and Moral Essays (1902), the Oxford and Cambridge Conferences, Notes on St. Paul (1898), Free Will and Four English Philosophers (1906), Scholasticism (1908), Waters that Go Softly, The Lord My Light, the Index to Newman's works (1914), Studies on God and His Creatures (1924) and An Old Man's Jottings (1925), from Internet Archive scans. His Aquinas translations belong to the Aquinas thread and are not on this shelf. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rickaby"
+ ],
+ "_surname": [
+  "rickaby",
+  "joseph rickaby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jrickaby-moral-philosophy": [
+   "moralphilosophy00rickgoog",
+   "Moral Philosophy, or Ethics and Natural Law (London: Longmans, Green, 1888)"
+  ],
+  "jrickaby-notes-st-paul": [
+   "notesonstpaul00rickuoft",
+   "Notes on St. Paul: Corinthians, Galatians, Romans (London: Burns and Oates, 1898)"
+  ],
+  "jrickaby-oxford-cambridge-conferences": [
+   "oxfordcambridgec00rickuoft",
+   "Oxford & Cambridge Conferences, 1897-1899 (London: Burns and Oates; year garbled, catalogued 1899)"
+  ],
+  "jrickaby-political-moral-essays": [
+   "politicalandmora00rickuoft",
+   "Political and Moral Essays (New York, Cincinnati, Chicago: Benziger Brothers, 1902)"
+  ],
+  "jrickaby-free-will": [
+   "freewillandfoure00rickuoft",
+   "Free Will and Four English Philosophers (London: Burns and Oates, 1906)"
+  ],
+  "jrickaby-scholasticism": [
+   "scholasticism00rickuoft",
+   "Scholasticism (London: Archibald Constable, 1908)"
+  ],
+  "jrickaby-waters-go-softly": [
+   "watersthatgosoft00rickuoft",
+   "Waters that Go Softly, or Thoughts for Time of Retreat (London: Burns and Oates, 1912)"
+  ],
+  "jrickaby-index-newman": [
+   "indextoworksofjo00rickuoft",
+   "Index to the Works of John Henry Cardinal Newman (London: Longmans, Green, 1914)"
+  ],
+  "jrickaby-lord-my-light": [
+   "lordofmylight0000jose",
+   "The Lord My Light (London: Burns & Oates; title page undated, imprimatur 1915)"
+  ],
+  "jrickaby-studies-god-creatures": [
+   "studiesongodhisc00rick",
+   "Studies on God and His Creatures (London: Longmans, Green, 1924)"
+  ],
+  "jrickaby-old-mans-jottings": [
+   "oldmansjottings0000jose",
+   "An Old Man's Jottings (London: Longmans, Green, 1925)"
+  ]
+ },
+ "_alternates": {
+  "jrickaby-aquinas": "Aquinas Ethicus (1892, 1896) and Of God and His Creatures (1905): his translations of Aquinas, left to the Aquinas thread",
+  "jrickaby-copies": "The 1889 second edition of Moral Philosophy and PG 8103 (a later edition, source not stated); the Second Series of Conferences (1902)"
+ },
+ "_excluded": {
+  "jrickaby-john": "First Principles of Knowledge and General Metaphysics: by his brother John Rickaby",
+  "jrickaby-others": "Plays and ballads by other Rickabys"
+ },
+ "_identity_checked": {
+  "jrickaby-moral-philosophy": "title page read: 'BY JOSEPH RICKABY, S.J.' (OCR 'IIICKABY')",
+  "jrickaby-lord-my-light": "title page read: 'JOSEPH RICKABY' (OCR 'RISEKRAB')"
+ },
+ "_rights_checked": {
+  "jrickaby-moral-philosophy": "title page read: 1888, the first edition (the catalogue's 1912 is wrong)",
+  "jrickaby-waters-go-softly": "title page read: a later edition (number lost in the OCR); imprimatur 1906",
+  "jrickaby-old-mans-jottings": "title page read: first published 1925; Rickaby died 1932, so it is US public domain but in UK copyright"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jrickaby-moral-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1888, the first edition (the catalogue's 1912 is wrong)"
+  },
+  "jrickaby-notes-st-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-oxford-cambridge-conferences": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-political-moral-essays": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-free-will": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-scholasticism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-waters-go-softly": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: a later edition (number lost in the OCR); imprimatur 1906"
+  },
+  "jrickaby-index-newman": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jrickaby-lord-my-light": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jrickaby-studies-god-creatures": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jrickaby-old-mans-jottings": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rickaby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: first published 1925; Rickaby died 1932, so it is US public domain but in UK copyright"
+  }
+ }
+}

@@ -1537,3 +1537,6 @@
 
 ## 2026-10-17 21:17 CDT — alfred-loisy done
 - `pipeline/alfred-loisy_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — joseph-rickaby done
+- `pipeline/joseph-rickaby_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for jrickaby-moral-philosophy, jrickaby-lord-my-light (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

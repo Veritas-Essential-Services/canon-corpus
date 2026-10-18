@@ -7365,3 +7365,25 @@ Slugs `loisy-*`. Built from title pages read for round 32.
 | My Duel with the Vatican, tr. Richard Wilson Boynton (New York: E. P. Dutton; title page undated, copyright 1924) | have-ocr | IA `myduelwithvatica0000lois` |
 | Scribner issues of The Gospel and the Church (1904, 1909, 1912); other copies | alternate | not shelved |
 | The Birth of the Christian Religion (1948); 1976 and 1988 reprints; Raven's 1939 Gospel and the Church | excluded | |
+
+## Joseph Rickaby (round 32, my pick, 2026-10-18)
+
+Slugs `jrickaby-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Moral Philosophy, or Ethics and Natural Law (London: Longmans, Green, 1888) | have-ocr | IA `moralphilosophy00rickgoog` |
+| Notes on St. Paul: Corinthians, Galatians, Romans (London: Burns and Oates, 1898) | have-ocr | IA `notesonstpaul00rickuoft` |
+| Oxford & Cambridge Conferences, 1897-1899 (London: Burns and Oates; year garbled, catalogued 1899) | have-ocr | IA `oxfordcambridgec00rickuoft` |
+| Political and Moral Essays (New York, Cincinnati, Chicago: Benziger Brothers, 1902) | have-ocr | IA `politicalandmora00rickuoft` |
+| Free Will and Four English Philosophers (London: Burns and Oates, 1906) | have-ocr | IA `freewillandfoure00rickuoft` |
+| Scholasticism (London: Archibald Constable, 1908) | have-ocr | IA `scholasticism00rickuoft` |
+| Waters that Go Softly, or Thoughts for Time of Retreat (London: Burns and Oates, 1912) | have-ocr | IA `watersthatgosoft00rickuoft` |
+| Index to the Works of John Henry Cardinal Newman (London: Longmans, Green, 1914) | have-ocr | IA `indextoworksofjo00rickuoft` |
+| The Lord My Light (London: Burns & Oates; title page undated, imprimatur 1915) | have-ocr | IA `lordofmylight0000jose` |
+| Studies on God and His Creatures (London: Longmans, Green, 1924) | have-ocr | IA `studiesongodhisc00rick` |
+| An Old Man's Jottings (London: Longmans, Green, 1925) | have-ocr | IA `oldmansjottings0000jose` |
+| Aquinas Ethicus (1892, 1896) and Of God and His Creatures (1905): his translations of Aquinas, left to the Aquinas thread | alternate | not shelved |
+| The 1889 second edition of Moral Philosophy and PG 8103 (a later edition, source not stated); the Second Series of Conferences (1902) | alternate | not shelved |
+| First Principles of Knowledge and General Metaphysics: by his brother John Rickaby | excluded | |
+| Plays and ballads by other Rickabys | excluded | |
