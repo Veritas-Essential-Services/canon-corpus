@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Katharine Prescott Wormeley (1830-1908): her Balzac (Roberts Brothers, Boston, 1885-1900, some 40 volumes, the first full American Comédie humaine), plus Daudet, George Sand and Balzac's letters, and (added round 97) her Hardy, Pratt French memoirs (Saint-Simon, Motteville, Bernis, the Prince de Ligne, Madame Élisabeth, Lespinasse) and Sainte-Beuve's Portraits, from period archive.org scans. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. James Waring's Cousin Bette stays on adler_shelf.json (another translator). No uids minted.",
+ "_about": "TRANSLATOR SHELF: Katharine Prescott Wormeley (1830-1908): her Balzac (Roberts Brothers, Boston, 1885-1900, some 40 volumes, the first full American Comédie humaine), plus Daudet, George Sand and Balzac's letters, and (added round 97) her Hardy, Pratt French memoirs (Saint-Simon, Motteville, Bernis, the Prince de Ligne, Madame Élisabeth, Lespinasse) and Sainte-Beuve's Portraits, from period archive.org scans; and (added round 98) her Molière (1909, vols I-V), Dumas's Company of Jehu, Daudet's Letters from my Mill, Fersen's Diary, the Memoirs of Monsieur Claude and the Correspondence of Madame, Princess Palatine. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. James Waring's Cousin Bette stays on adler_shelf.json (another translator). No uids minted.",
  "_name_words": [
   "katharine prescott wormeley",
   "k. p. wormeley",
@@ -192,6 +192,10 @@
   "wo-1942": [
    1942,
    "Rise and Fall of César Birotteau"
+  ],
+  "wo-43283": [
+   43283,
+   "The Correspondence of Madame, Princess Palatine, of Marie-Adélaïde de Savoie, and of Madame de Maintenon"
   ]
  },
  "internet_archive": {
@@ -258,6 +262,46 @@
   "wo-sainte-beuve-portraits-18th-vol-1": [
    "portraitsofeight0000unse_w0j1",
    "Portraits of the Eighteenth Century, Historic and Literary, part I (1905)"
+  ],
+  "wo-moliere-plays-vol-1": [
+   "playsofmolire01moliuoft",
+   "The Plays of Molière, vol. I (The Misanthrope, Le Bourgeois Gentilhomme, ...) (1894-97)"
+  ],
+  "wo-moliere-plays-vol-2": [
+   "playsofmolire02moliuoft",
+   "The Plays of Molière, vol. II (Tartuffe, Les Précieuses ridicules, ...) (1894-97)"
+  ],
+  "wo-moliere-plays-vol-3": [
+   "playsofmolire03moliuoft",
+   "The Plays of Molière, vol. III (The Female Pedants, ...) (1894-97)"
+  ],
+  "wo-moliere-plays-vol-4": [
+   "playsofmolire04moliuoft",
+   "The Plays of Molière, vol. IV (The Miser, Don Juan, The Bores, ...) (1894-97)"
+  ],
+  "wo-moliere-plays-vol-5": [
+   "playsofmolire05moliuoft",
+   "The Plays of Molière, vol. V (The School for Wives, ...) (1894-97)"
+  ],
+  "wo-dumas-company-of-jehu-vol-1": [
+   "companyofjehu01dumauoft",
+   "The Company of Jehu, vol. I (1894)"
+  ],
+  "wo-dumas-company-of-jehu-vol-2": [
+   "companyofjehu02dumauoft",
+   "The Company of Jehu, vol. II (1894)"
+  ],
+  "wo-daudet-letters-from-my-mill": [
+   "lettersfrommymil00daud",
+   "Letters from my Mill, to which are added Letters to an Absent One (1899)"
+  ],
+  "wo-fersen-diary-and-correspondence": [
+   "diarycorresponde00fersuoft",
+   "Diary and Correspondence of Count Axel Fersen, Grand-Marshal of Sweden, relating to the Court of France (1902)"
+  ],
+  "wo-memoirs-of-monsieur-claude": [
+   "memoirsofmonsieu00wormiala",
+   "Memoirs of Monsieur Claude, Chief of Police under the Second Empire (1907)"
   ]
  },
  "titles": {
@@ -758,12 +802,102 @@
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "G. P. Putnam's Sons, New York and London, 1906 printing; archive.org scan",
    "note": "Part II is George Burnham Ives's translation and sits on the ives shelf."
+  },
+  "wormeley-moliere-plays-vol-1": {
+   "source": "wo-moliere-plays-vol-1",
+   "of": "Molière",
+   "work": "The Plays of Molière, vol. I (The Misanthrope, Le Bourgeois Gentilhomme, ...)",
+   "translated": "1894-97 (copyright years in the scans)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1909; University of Toronto scan"
+  },
+  "wormeley-moliere-plays-vol-2": {
+   "source": "wo-moliere-plays-vol-2",
+   "of": "Molière",
+   "work": "The Plays of Molière, vol. II (Tartuffe, Les Précieuses ridicules, ...)",
+   "translated": "1894-97 (copyright years in the scans)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1909; University of Toronto scan"
+  },
+  "wormeley-moliere-plays-vol-3": {
+   "source": "wo-moliere-plays-vol-3",
+   "of": "Molière",
+   "work": "The Plays of Molière, vol. III (The Female Pedants, ...)",
+   "translated": "1894-97 (copyright years in the scans)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1909; University of Toronto scan"
+  },
+  "wormeley-moliere-plays-vol-4": {
+   "source": "wo-moliere-plays-vol-4",
+   "of": "Molière",
+   "work": "The Plays of Molière, vol. IV (The Miser, Don Juan, The Bores, ...)",
+   "translated": "1894-97 (copyright years in the scans)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1909; University of Toronto scan"
+  },
+  "wormeley-moliere-plays-vol-5": {
+   "source": "wo-moliere-plays-vol-5",
+   "of": "Molière",
+   "work": "The Plays of Molière, vol. V (The School for Wives, ...)",
+   "translated": "1894-97 (copyright years in the scans)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1909; University of Toronto scan"
+  },
+  "wormeley-dumas-company-of-jehu-vol-1": {
+   "source": "wo-dumas-company-of-jehu-vol-1",
+   "of": "Alexandre Dumas",
+   "work": "The Company of Jehu, vol. I",
+   "translated": "1894",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Sampson Low, Marston & Company, London, 1895; University of Toronto scan"
+  },
+  "wormeley-dumas-company-of-jehu-vol-2": {
+   "source": "wo-dumas-company-of-jehu-vol-2",
+   "of": "Alexandre Dumas",
+   "work": "The Company of Jehu, vol. II",
+   "translated": "1894",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Sampson Low, Marston & Company, London, 1895; University of Toronto scan"
+  },
+  "wormeley-daudet-letters-from-my-mill": {
+   "source": "wo-daudet-letters-from-my-mill",
+   "of": "Alphonse Daudet",
+   "work": "Letters from my Mill, to which are added Letters to an Absent One",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Little, Brown, and Company, Boston, 1900; archive.org scan"
+  },
+  "wormeley-fersen-diary-and-correspondence": {
+   "source": "wo-fersen-diary-and-correspondence",
+   "of": "Count Hans Axel von Fersen",
+   "work": "Diary and Correspondence of Count Axel Fersen, Grand-Marshal of Sweden, relating to the Court of France",
+   "translated": "1902",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Hardy, Pratt & Co., Boston, 1902; University of Toronto scan"
+  },
+  "wormeley-memoirs-of-monsieur-claude": {
+   "source": "wo-memoirs-of-monsieur-claude",
+   "of": "Monsieur Claude, chief of police under the Second Empire",
+   "work": "Memoirs of Monsieur Claude, Chief of Police under the Second Empire",
+   "translated": "1907",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Houghton, Mifflin and Company, Boston and New York, 1907; archive.org scan"
+  },
+  "wormeley-correspondence-of-madame-princess-palatine": {
+   "source": "wo-43283",
+   "of": "Elisabeth Charlotte, Princess Palatine; Marie-Adélaïde de Savoie; Madame de Maintenon",
+   "work": "The Correspondence of Madame, Princess Palatine, Mother of the Regent; of Marie-Adélaïde de Savoie, Duchesse de Bourgogne; and of Madame de Maintenon, in Relation to Saint-Cyr",
+   "translated": "1899",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 43283 (clean text)",
+   "note": "Gutenberg lists Wormeley as editor; the title page reads 'Selected and Translated by Katharine Prescott Wormeley' (copyright 1899). Earlier excluded as unchecked; checked and added in round 98."
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-7927": "The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice.",
-  "pg-43283": "The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked."
+  "wo-tartarin-of-tarascon": "Daudet's Tartarin of Tarascon (Little, Brown, 1900; tartarintarasco00wormgoog): the scan does not name Wormeley in its front matter, so the identity check cannot pass.",
+  "wo-moliere-plays-vol-6": "No further volume of the 1909 Molière was found online beyond vol. V."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_manual_fetch": {
@@ -1354,6 +1488,125 @@
    "ia_date": "1905",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "wo-43283": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wo-moliere-plays-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-moliere-plays-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-moliere-plays-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-moliere-plays-vol-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-moliere-plays-vol-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-dumas-company-of-jehu-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-dumas-company-of-jehu-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-daudet-letters-from-my-mill": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wo-fersen-diary-and-correspondence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wo-memoirs-of-monsieur-claude": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1582,6 +1835,12 @@
    "pg_copyrighted_marker": false,
    "pg_translator": "Katharine Prescott Wormeley"
   },
+  "wo-43283": {
+   "pg": 43283,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
   "wo-saint-simon-memoirs-vol-1": {
    "ia": "memoirsofducdesa01sainuoft",
    "translator_named_in_first_30k": true,
@@ -1775,6 +2034,133 @@
     1851,
     1905,
     1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-moliere-plays-vol-1": {
+   "ia": "playsofmolire01moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1658,
+    1660,
+    1665,
+    1673,
+    1894,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-moliere-plays-vol-2": {
+   "ia": "playsofmolire02moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1664,
+    1665,
+    1667,
+    1669,
+    1860,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-moliere-plays-vol-3": {
+   "ia": "playsofmolire03moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1588,
+    1608,
+    1610,
+    1635,
+    1694,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-moliere-plays-vol-4": {
+   "ia": "playsofmolire04moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1661,
+    1665,
+    1668,
+    1895,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-moliere-plays-vol-5": {
+   "ia": "playsofmolire05moliuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1660,
+    1662,
+    1663,
+    1670,
+    1897,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-dumas-company-of-jehu-vol-1": {
+   "ia": "companyofjehu01dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1793,
+    1894,
+    1895
+   ],
+   "post_1930_years_in_front_15k": [
+    1980
+   ],
+   "post_1930_examined": "Examined in round 98: '1980' stands under the Ontario Legislative Library bookplate, ahead of the digitizing line; the title page reads London, Sampson Low, Marston & Company, 1895."
+  },
+  "wo-dumas-company-of-jehu-vol-2": {
+   "ia": "companyofjehu02dumauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wo-daudet-letters-from-my-mill": {
+   "ia": "lettersfrommymil00daud",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1900
+   ],
+   "post_1930_years_in_front_15k": [
+    1990
+   ],
+   "post_1930_examined": "Examined in round 98: 'JAN 4 1990' is a University of Illinois library due-date slip, not an imprint."
+  },
+  "wo-fersen-diary-and-correspondence": {
+   "ia": "diarycorresponde00fersuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1792,
+    1793,
+    1810,
+    1878,
+    1902
+   ],
+   "post_1930_years_in_front_15k": [
+    1970
+   ],
+   "post_1930_examined": "Examined in round 98: 'JAN 21 1970' is a library date stamp near the University of Toronto bookplate, not an imprint."
+  },
+  "wo-memoirs-of-monsieur-claude": {
+   "ia": "memoirsofmonsieu00wormiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1807,
+    1829,
+    1876,
+    1881,
+    1907
    ],
    "post_1930_years_in_front_15k": []
   }

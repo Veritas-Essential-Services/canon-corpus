@@ -927,10 +927,10 @@ Round 13 (2026-10-10), vetoable. US public domain since 2026; gate override reco
 | `pickthall-meaning-of-the-glorious-koran` | The Quran | The Meaning of the Glorious Koran: An Explanatory Translation | Marmaduke Pickthall | 1930 | have-raw | IA `in.ernet.dli.2015.283503` |
 | — | — | dli.ministry.16944: The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used. | — | — | excluded | — |
 
-## Katharine Prescott Wormeley (Balzac; Daudet, Sand; French memoirs and Sainte-Beuve's Portraits)
+## Katharine Prescott Wormeley (Balzac; Daudet, Sand; Molière; French memoirs and Sainte-Beuve's Portraits)
 
 Shelf: `pipeline/wormeley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wormeley` · titles `python3 pipeline/split_shelf_titles.py wormeley`.
-Round 14 (2026-10-10), vetoable. Memoirs and Portraits added round 97 (2026-10-17). Not converted to unit-id JSON; **no uids minted**.
+Round 14 (2026-10-10), vetoable. Memoirs and Portraits added round 97, Molière and the rest round 98 (2026-10-17). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -995,8 +995,20 @@ Round 14 (2026-10-10), vetoable. Memoirs and Portraits added round 97 (2026-10-1
 | `wormeley-sainte-beuve-portraits-17th-vol-1` | Charles-Augustin Sainte-Beuve | Portraits of the Seventeenth Century, Historic and Literary, part I | Katharine Prescott Wormeley | 1904 | have-raw | IA `portraitsofseven01sain` |
 | `wormeley-sainte-beuve-portraits-17th-vol-2` | Charles-Augustin Sainte-Beuve | Portraits of the Seventeenth Century, Historic and Literary, part II | Katharine Prescott Wormeley | 1904 | have-raw | IA `portraitsofseven02sain` |
 | `wormeley-sainte-beuve-portraits-18th-vol-1` | Charles-Augustin Sainte-Beuve | Portraits of the Eighteenth Century, Historic and Literary, part I | Katharine Prescott Wormeley | 1905 | have-raw | IA `portraitsofeight0000unse_w0j1` |
+| `wormeley-moliere-plays-vol-1` | Molière | The Plays of Molière, vol. I (The Misanthrope, Le Bourgeois Gentilhomme, ...) | Katharine Prescott Wormeley | 1894-97 (copyright years in the scans) | have-raw | IA `playsofmolire01moliuoft` |
+| `wormeley-moliere-plays-vol-2` | Molière | The Plays of Molière, vol. II (Tartuffe, Les Précieuses ridicules, ...) | Katharine Prescott Wormeley | 1894-97 (copyright years in the scans) | have-raw | IA `playsofmolire02moliuoft` |
+| `wormeley-moliere-plays-vol-3` | Molière | The Plays of Molière, vol. III (The Female Pedants, ...) | Katharine Prescott Wormeley | 1894-97 (copyright years in the scans) | have-raw | IA `playsofmolire03moliuoft` |
+| `wormeley-moliere-plays-vol-4` | Molière | The Plays of Molière, vol. IV (The Miser, Don Juan, The Bores, ...) | Katharine Prescott Wormeley | 1894-97 (copyright years in the scans) | have-raw | IA `playsofmolire04moliuoft` |
+| `wormeley-moliere-plays-vol-5` | Molière | The Plays of Molière, vol. V (The School for Wives, ...) | Katharine Prescott Wormeley | 1894-97 (copyright years in the scans) | have-raw | IA `playsofmolire05moliuoft` |
+| `wormeley-dumas-company-of-jehu-vol-1` | Alexandre Dumas | The Company of Jehu, vol. I | Katharine Prescott Wormeley | 1894 | have-raw | IA `companyofjehu01dumauoft` |
+| `wormeley-dumas-company-of-jehu-vol-2` | Alexandre Dumas | The Company of Jehu, vol. II | Katharine Prescott Wormeley | 1894 | have-raw | IA `companyofjehu02dumauoft` |
+| `wormeley-daudet-letters-from-my-mill` | Alphonse Daudet | Letters from my Mill, to which are added Letters to an Absent One | Katharine Prescott Wormeley | 1899 | have-raw | IA `lettersfrommymil00daud` |
+| `wormeley-fersen-diary-and-correspondence` | Count Hans Axel von Fersen | Diary and Correspondence of Count Axel Fersen, Grand-Marshal of Sweden, relating to the Court of France | Katharine Prescott Wormeley | 1902 | have-raw | IA `diarycorresponde00fersuoft` |
+| `wormeley-memoirs-of-monsieur-claude` | Monsieur Claude, chief of police under the Second Empire | Memoirs of Monsieur Claude, Chief of Police under the Second Empire | Katharine Prescott Wormeley | 1907 | have-raw | IA `memoirsofmonsieu00wormiala` |
+| `wormeley-correspondence-of-madame-princess-palatine` | Elisabeth Charlotte, Princess Palatine; Marie-Adélaïde de Savoie; Madame de Maintenon | The Correspondence of Madame, Princess Palatine, Mother of the Regent; of Marie-Adélaïde de Savoie, Duchesse de Bourgogne; and of Madame de Maintenon, in Relation to Saint-Cyr | Katharine Prescott Wormeley | 1899 | have | PG 43283 |
 | — | — | pg-7927: The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice. | — | — | excluded | — |
-| — | — | pg-43283: The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked. | — | — | excluded | — |
+| — | — | wo-tartarin-of-tarascon: Daudet's Tartarin of Tarascon (Little, Brown, 1900; tartarintarasco00wormgoog): the scan does not name Wormeley in its front matter, so the identity check cannot pass. | — | — | excluded | — |
+| — | — | wo-moliere-plays-vol-6: No further volume of the 1909 Molière was found online beyond vol. V. | — | — | excluded | — |
 
 ## Ernest Alfred Vizetelly (Zola, incl. the Three Cities)
 

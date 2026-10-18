@@ -270,3 +270,5 @@
 - 2026-10-17T21:14-05:00: round 96: french-classics (13), johnes +2 (14). --verify --record 0 mismatched. johnes +2 (Froissart 1848, 2 vols); only the two new _checks recorded, older check dates kept.
 
 - 2026-10-17T21:24-05:00: round 97: wormeley +16 (61), ives +1 (19). --verify --record 0 mismatched; only new _checks recorded, older check dates kept.
+
+- 2026-10-17T21:29-05:00: round 98: wormeley +11 (72), incl. PG 43283 moved out of _excluded after reading its title page. --verify --record 0 mismatched; only new _checks recorded.
