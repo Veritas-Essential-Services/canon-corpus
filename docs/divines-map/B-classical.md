@@ -4786,6 +4786,7 @@ Shelf: `pipeline/henry-mansel_shelf.json`. The Limits of Religious Thought (Bamp
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophy of the Conditioned, reprinted with additions from the Contemporary Review (London and New York, 1866) |  | `mansel-philosophy-of-the-conditioned-1866` | have (PG 28484) |
 | The Limits of Religious Thought examined in eight lectures (Oxford: John Murray, 1858) |  | `mansel-limits-of-religious-thought-1858` | have-raw (IA `limitsofreligiou00mans`) |
 
 ## James Ward

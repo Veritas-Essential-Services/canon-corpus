@@ -1,5 +1,5 @@
 {
- "_about": "Henry Longueville Mansel (1820-1871), raw IA OCR: The Limits of Religious Thought examined, Bampton Lectures for 1858 (Oxford: John Murray, 1858). US public domain. No uids minted.",
+ "_about": "Henry Longueville Mansel (1820-1871), raw IA OCR: The Limits of Religious Thought examined, Bampton Lectures for 1858 (Oxford: John Murray, 1858). Added in round aw 2026-10-17: The Philosophy of the Conditioned (London and New York: Alexander Strahan, 1866), his reply to Mill on Hamilton, clean Gutenberg text. US public domain. No uids minted.",
  "_author": "Henry Longueville Mansel",
  "_name_words": [
   "henry",
@@ -12,7 +12,12 @@
   "mansel"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "mansel-philosophy-of-the-conditioned-1866": [
+   28484,
+   "The Philosophy of the Conditioned, reprinted with additions from the Contemporary Review (London and New York, 1866)"
+  ]
+ },
  "internet_archive": {
   "mansel-limits-of-religious-thought-1858": [
    "limitsofreligiou00mans",
@@ -21,9 +26,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "mansel-philosophy-of-the-conditioned-1866": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mansel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "mansel-limits-of-religious-thought-1858": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
