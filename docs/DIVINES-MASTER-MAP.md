@@ -18085,10 +18085,10 @@ Round 4, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `carlyle-german-tales` | Musaeus, Tieck, Richter | German Romance tales | Thomas Carlyle | 1827 | have | PG 38779 |
 | — | — | carlyle-own-works: Sartor Resartus, The French Revolution etc.: Carlyle's own works, not translations. | — | — | excluded | — |
 
-## Jeremiah Curtin (Sienkiewicz)
+## Jeremiah Curtin (Sienkiewicz, Orzeszkowa, Zagoskin)
 
 Shelf: `pipeline/curtin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py curtin` · titles `python3 pipeline/split_shelf_titles.py curtin`.
-Round 5, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 5, lane C's choice; vetoable. Round 116 (2026-10-17) added Zagoskin's Tales of Three Centuries (1891). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -18105,6 +18105,7 @@ Round 5, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 | `curtin-sienkiewicz-lillian-morris` | Henryk Sienkiewicz | Lillian Morris, and Other Stories | Jeremiah Curtin | 1894 | have | PG 47527 |
 | `curtin-the-deluge` | Sienkiewicz | The Deluge (Trilogy II) | Jeremiah Curtin | 1891 | have | PG 37198 + PG 37308 |
 | `curtin-with-fire-and-sword` | Sienkiewicz | With Fire and Sword (Trilogy I) | Jeremiah Curtin | 1890 | have | PG 37027 |
+| `curtin-zagoskin-tales-of-three-centuries` | Michael Zagoskin | Tales of Three Centuries | Jeremiah Curtin | 1891 | have-raw | IA `cu31924027514870` |
 | `curtin-knights-of-the-cross` | — | The Knights of the Cross (1900): Gutenberg's edition is not Curtin's; no Curtin scan checked this run. | — | — | pending | — |
 | `curtin-myths` | — | Curtin's own collections of Irish, Russian and Native American myths: his own fieldwork rather than translations of a work; left out. | — | — | pending | — |
 | — | — | pg-35499: The Pharaoh and the Priest again: a second Gutenberg transcription of the same Curtin translation; this shelf keeps 23646. | — | — | excluded | — |
@@ -18846,10 +18847,10 @@ Round 17 (2026-10-10), vetoable. Round 109 (2026-10-17) added Artsybashev's War 
 | — | — | pg-33943: Woman: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
 | — | — | pg-34358: Iolanthe's Wedding: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
 
-## Nathan Haskell Dole (Tolstoy, Palacio Valdés, Verga)
+## Nathan Haskell Dole (Tolstoy, Palacio Valdés, Verga, Chernyshevsky)
 
 Shelf: `pipeline/dole_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dole` · titles `python3 pipeline/split_shelf_titles.py dole`.
-Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 17 (2026-10-10), vetoable. Round 116 (2026-10-17) added Chernyshevsky's A Vital Question (with Skidelsky, 1886). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -18860,8 +18861,10 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `dole-tolstoy-the-invaders` | Tolstoy | The Invaders, and Other Stories | Nathan Haskell Dole | 1887 | have | PG 56797 |
 | `dole-tolstoy-where-love-is` | Tolstoy | Where Love is There God is Also | Nathan Haskell Dole | 1887 | have | PG 38616 |
 | `dole-verga-under-the-shadow-of-etna` | Verga | Under the Shadow of Etna: Sicilian Stories | Nathan Haskell Dole | 1896 | have | PG 37979 |
+| `dole-chernyshevsky-a-vital-question` | Nikolay Chernyshevsky | A Vital Question; or, What is to be Done? | Nathan Haskell Dole and S. S. Skidelsky | 1886 | have-raw | IA `avitalquestiono00skidgoog` |
 | — | — | pg-38520: Poems of James Russell Lowell: Dole wrote the introduction; not a translation. | — | — | excluded | — |
 | — | — | pg-41119: A Russian Proprietor (Tolstoy, PG 41119): not checked this round. | — | — | excluded | — |
+| — | — | vital-question-photocopy: cu31924096961036 is a later library preservation photocopy (its text cites ANSI Z39.48-1992); the Google scan is used instead. | — | — | excluded | — |
 
 ## Ellen Marriage (Balzac, Dent's Comédie Humaine, 1895-99)
 
@@ -23341,7 +23344,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23419,6 +23422,9 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-zeromski-ashes-vol-2` | Stefan Żeromski | Ashes, vol. II | Helen Stankiewicz Zand | 1928 | have-raw | IA `bwb_S0-DFX-920` |
 | `singles-fiction-3-capek-makropoulos-secret` | Karel Čapek | The Makropoulos Secret | Randal C. Burrell (adapted) | 1925 | have-raw | IA `makropoulossecre0000kare` |
 | `singles-fiction-3-kleist-michael-kohlhaas-prince-of-homburg` | Heinrich von Kleist | Prussia's Representative Man: Michael Kohlhaas and Prince Frederick of Homburg, translated, with a study of Kleist | Francis Lloyd and William Newton | 1875 | have-raw | IA `prussiasreprese00newtgoog` |
+| `singles-fiction-3-chernyshevsky-whats-to-be-done` | Nikolay Chernyshevsky | What's to be Done? A Romance | Benjamin R. Tucker | 1886 | have-raw | IA `whatstobedonerom00cher` |
+| `singles-fiction-3-potapenko-a-russian-priest` | Ignaty Potapenko | A Russian Priest | W. Gaussen | 1891 | have-raw | IA `russianpriest00potarich` |
+| `singles-fiction-3-potapenko-a-father-of-six` | Ignaty Potapenko | A Father of Six, and An Occasional Holiday | W. Gaussen | 1893 | have-raw | IA `fatherofsixandoc00potaiala` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |

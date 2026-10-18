@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Jeremiah Curtin (1835-1906). Sienkiewicz's Quo Vadis (1896) and the Trilogy (With Fire and Sword 1890, The Deluge 1891, Pan Michael 1893), with On the Field of Glory (1906). PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Jeremiah Curtin (1835-1906). Sienkiewicz's Quo Vadis (1896) and the Trilogy (With Fire and Sword 1890, The Deluge 1891, Pan Michael 1893), with On the Field of Glory (1906). PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst. Round 116 (2026-10-17, vetoable) added Zagoskin's Tales of Three Centuries (1891) from an archive.org scan.",
  "_name_words": [
   "curtin"
  ],
@@ -65,7 +65,12 @@
    "Lillian Morris, and Other Stories"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "curtin-zagoskin-tales-of-three-centuries": [
+   "cu31924027514870",
+   "Tales of Three Centuries (1891)"
+  ]
+ },
  "titles": {
   "curtin-on-the-field-of-glory": {
    "source": "curtin-field-of-glory",
@@ -181,6 +186,14 @@
    "translated": 1890,
    "translator": "Jeremiah Curtin",
    "scan_edition": "Project Gutenberg 37027 (clean text)"
+  },
+  "curtin-zagoskin-tales-of-three-centuries": {
+   "source": "curtin-zagoskin-tales-of-three-centuries",
+   "of": "Michael Zagoskin",
+   "work": "Tales of Three Centuries",
+   "translated": 1891,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Little, Brown, and Company, Boston 1891; Cornell University Library scan"
   }
  },
  "_pending": {
@@ -317,6 +330,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-zagoskin-tales-of-three-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -389,6 +413,20 @@
    "pg": 47527,
    "pg_copyrighted_marker": false,
    "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-zagoskin-tales-of-three-centuries": {
+   "ia": "cu31924027514870",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1790,
+    1812,
+    1891,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1940
+   ],
+   "post_1930_examined": "Examined in round 116: 1940 is a Harvard College Library accession stamp ('Sheldon Fund, July 10, 1940'); the title page reads Little, Brown, and Company, Boston, 1891, copyright 1891 by Jeremiah Curtin."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Nathan Haskell Dole (1852-1935): Tolstoy for Crowell (1886-1887), Palacio Valdés, Verga, and Dupuy's Great Masters of Russian Literature. US public domain (pre-1931); UK PD since 2006. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Nathan Haskell Dole (1852-1935): Tolstoy for Crowell (1886-1887), Palacio Valdés, Verga, and Dupuy's Great Masters of Russian Literature. Round 116 (2026-10-17, vetoable) added Chernyshevsky's A Vital Question (with S. S. Skidelsky, 1886). US public domain (pre-1931); UK PD since 2006. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
  "_name_words": [
   "nathan haskell dole",
   "n. h. dole",
@@ -42,7 +42,12 @@
    "When Thoughts Will Soar"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dol-chernyshevsky-vital-question": [
+   "avitalquestiono00skidgoog",
+   "A Vital Question; or, What is to be Done? (1886)"
+  ]
+ },
  "titles": {
   "dole-dupuy-great-masters-of-russian-literature": {
    "source": "dol-71884",
@@ -100,12 +105,21 @@
    "translated": 1896,
    "translator": "Nathan Haskell Dole",
    "scan_edition": "Project Gutenberg 37979 (clean text)"
+  },
+  "dole-chernyshevsky-a-vital-question": {
+   "source": "dol-chernyshevsky-vital-question",
+   "of": "Nikolay Chernyshevsky",
+   "work": "A Vital Question; or, What is to be Done?",
+   "translated": 1886,
+   "translator": "Nathan Haskell Dole and S. S. Skidelsky",
+   "scan_edition": "T. Y. Crowell & Co., New York 1886; Google scan via archive.org"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-38520": "Poems of James Russell Lowell: Dole wrote the introduction; not a translation.",
-  "pg-41119": "A Russian Proprietor (Tolstoy, PG 41119): not checked this round."
+  "pg-41119": "A Russian Proprietor (Tolstoy, PG 41119): not checked this round.",
+  "vital-question-photocopy": "cu31924096961036 is a later library preservation photocopy (its text cites ANSI Z39.48-1992); the Google scan is used instead."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -171,6 +185,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-chernyshevsky-vital-question": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -208,6 +233,17 @@
    "pg": 63599,
    "pg_copyrighted_marker": false,
    "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-chernyshevsky-vital-question": {
+   "ia": "avitalquestiono00skidgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1850,
+    1853,
+    1864
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

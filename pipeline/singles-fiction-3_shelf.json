@@ -101,7 +101,11 @@
   "randal c. burrell",
   "randal burrell",
   "francis lloyd",
-  "william newton"
+  "william newton",
+  "benj. r. tucker",
+  "benjamin r. tucker",
+  "w. gaussen",
+  "gaussen"
  ],
  "_surname": [
   "a. e. chamot",
@@ -204,7 +208,11 @@
   "randal c. burrell",
   "randal burrell",
   "francis lloyd",
-  "william newton"
+  "william newton",
+  "benj. r. tucker",
+  "benjamin r. tucker",
+  "w. gaussen",
+  "gaussen"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -532,6 +540,18 @@
   "sf3-kleist-kohlhaas-homburg": [
    "francis lloyd",
    "william newton"
+  ],
+  "sf3-chernyshevsky-whats-to-be-done": [
+   "benj. r. tucker",
+   "benjamin r. tucker"
+  ],
+  "sf3-potapenko-a-russian-priest": [
+   "w. gaussen",
+   "gaussen"
+  ],
+  "sf3-potapenko-a-father-of-six": [
+   "w. gaussen",
+   "gaussen"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -834,6 +854,18 @@
   "sf3-kleist-kohlhaas-homburg": [
    "prussiasreprese00newtgoog",
    "Prussia's Representative Man (1875)"
+  ],
+  "sf3-chernyshevsky-whats-to-be-done": [
+   "whatstobedonerom00cher",
+   "What's to be Done? A Romance (1886)"
+  ],
+  "sf3-potapenko-a-russian-priest": [
+   "russianpriest00potarich",
+   "A Russian Priest (1891)"
+  ],
+  "sf3-potapenko-a-father-of-six": [
+   "fatherofsixandoc00potaiala",
+   "A Father of Six, and An Occasional Holiday (1893)"
   ]
  },
  "titles": {
@@ -1434,6 +1466,30 @@
    "translator": "Francis Lloyd and William Newton",
    "scan_edition": "Trübner & Co., London 1875; Google scan via archive.org",
    "source": "sf3-kleist-kohlhaas-homburg"
+  },
+  "singles-fiction-3-chernyshevsky-whats-to-be-done": {
+   "source": "sf3-chernyshevsky-whats-to-be-done",
+   "of": "Nikolay Chernyshevsky",
+   "work": "What's to be Done? A Romance",
+   "translated": 1886,
+   "translator": "Benjamin R. Tucker",
+   "scan_edition": "Benj. R. Tucker, Boston; the year on the title page is not legible in the OCR (catalogued 1886); archive.org scan"
+  },
+  "singles-fiction-3-potapenko-a-russian-priest": {
+   "source": "sf3-potapenko-a-russian-priest",
+   "of": "Ignaty Potapenko",
+   "work": "A Russian Priest",
+   "translated": 1891,
+   "translator": "W. Gaussen",
+   "scan_edition": "T. Fisher Unwin, London MDCCCXCI, Pseudonym Library; archive.org scan"
+  },
+  "singles-fiction-3-potapenko-a-father-of-six": {
+   "source": "sf3-potapenko-a-father-of-six",
+   "of": "Ignaty Potapenko",
+   "work": "A Father of Six, and An Occasional Holiday",
+   "translated": 1893,
+   "translator": "W. Gaussen",
+   "scan_edition": "T. Fisher Unwin, London 1893, Pseudonym Library; UCLA scan"
   }
  },
  "_pending": {
@@ -2121,6 +2177,39 @@
    "ia_date": "1875",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benj. r. tucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-potapenko-a-russian-priest": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-potapenko-a-father-of-six": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2534,6 +2623,29 @@
     1875
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "ia": "whatstobedonerom00cher",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1863
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-potapenko-a-russian-priest": {
+   "ia": "russianpriest00potarich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-potapenko-a-father-of-six": {
+   "ia": "fatherofsixandoc00potaiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
@@ -2543,6 +2655,9 @@
   },
   "sf3-zeromski-ashes-vol-1": {
    "author": "This scan of vol. I lacks its title page, so the translator's name is not printed in it; its copyright page reads 'Copyright 1928, by Alfred A. Knopf, Inc. Originally issued as Popioły ... Published September, 1928. Second printing December, 1928', and vol. II of the same Knopf edition (bwb_S0-DFX-920) prints 'Ashes by Stefan Zeromski, translated from the Polish by Helen Stankiewicz Zand'. Checked by eye 2026-10-17."
+  },
+  "sf3-chernyshevsky-whats-to-be-done": {
+   "author": "The gate matched 'Benj. R. Tucker' only in the publisher's advertisements at the back. The title page OCR is garbled ('TUANSLAIKJJ llY B.ENJ. U. Tl^rKKJl. ISOSroN') and is read as 'Translated by Benj. R. Tucker. Boston: Benj. R. Tucker, Publisher'; the book opens with a 'Translator's Preface'. Checked by eye 2026-10-17."
   }
  }
 }

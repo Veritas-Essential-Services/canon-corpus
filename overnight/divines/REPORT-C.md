@@ -306,3 +306,5 @@
 - 2026-10-17T23:11-05:00: round 114: french-classics +3 (Way's Fabliaux), italian-classics +2 (Tassoni: Ozell, Atkinson). --verify --record 0 mismatched.
 
 - 2026-10-17T23:17-05:00: round 115: broadway-translations +1 (Simplicissimus), singles-fiction-3 +1 (Kleist). --verify --record 0 mismatched.
+
+- 2026-10-17T23:20-05:00: round 116: curtin +1 (Zagoskin), dole +1 (Vital Question), singles-fiction-3 +3 (Tucker's Chernyshevsky, Gaussen's Potapenko x2). Identity note: Tucker (title page garbled). --verify --record 0 mismatched.

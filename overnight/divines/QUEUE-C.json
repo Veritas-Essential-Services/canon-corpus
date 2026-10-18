@@ -3888,6 +3888,14 @@
       "finished": "2026-10-17T23:17-05:00",
       "scope": "GAP-FILL (round 115, lane C's choice; Adam may veto) -- broadway-translations +1, singles-fiction-3 +1; PD printings before 1931 only; no minting",
       "notes": "2 titles; ids checked across all branches. See DIGEST-C round 115. No uids minted."
+    },
+    {
+      "id": "gapfill-r116-russian",
+      "status": "done",
+      "started": "2026-10-17T23:19-05:00",
+      "finished": "2026-10-17T23:20-05:00",
+      "scope": "GAP-FILL (round 116, lane C's choice; Adam may veto) -- curtin +1, dole +1, singles-fiction-3 +3; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 116. No uids minted."
     }
   ]
 }
