@@ -6552,3 +6552,15 @@ Slugs `rothe-*`. Still Hours in English.
 | Still Hours, tr. Jane T. Stoddart, with an introductory essay by John Macpherson (London: Hodder and Stoughton, MDCCCLXXXVI) | have-ocr | IA `stillhours00roth` |
 | Another 1886 copy and the Toronto issue | alternate | not shelved |
 | His German works; a different Richard Rothe | excluded | |
+
+## Gerhard Uhlhorn (round 29, my pick, 2026-10-18)
+
+Slugs `uhlhorn-*`. Christian Charity in the Ancient Church and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Modern Representations of the Life of Jesus, tr. Charles E. Grinnell (Boston: Little, Brown, 1868) | have-ocr | IA `modernrepresenta00uhlh` |
+| The Conflict of Christianity with Heathenism, ed. and tr. Egbert C. Smyth and C. J. H. Ropes (New York: Scribner, 1879) | have-ocr | IA `conflictofchrist00uhlh` |
+| Christian Charity in the Ancient Church, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `christiancharity00uhlh` |
+| Conflict revised editions (1886-1908); Charity (Scribner, 1883) | alternate | not shelved |
+| Catholicism and the Hanoverian Church History: German, despite English titles on IA | excluded | |

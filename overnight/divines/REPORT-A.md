@@ -1369,3 +1369,6 @@
 
 ## 2026-10-17 19:57 CDT — richard-rothe done
 - `pipeline/richard-rothe_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:57 CDT — gerhard-uhlhorn done
+- `pipeline/gerhard-uhlhorn_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for uhlhorn-christian-charity (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
