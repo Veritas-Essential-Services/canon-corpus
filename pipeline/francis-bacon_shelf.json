@@ -1,5 +1,5 @@
 {
- "_about": "Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. Added in round ap: The Works of Francis Bacon, ed. Spedding, Ellis and Heath, the fifteen-volume American edition (New York: Hurd and Houghton; Boston: Taggard and Thompson, MDCCCLXIV on every title page that the OCR reads; raw IA OCR, BYU scans). Vols. I-VII print the philosophical works as Bacon wrote them, Latin works in Latin with the editors' English prefaces; vols. VIII-X are the editors' English translations of those Latin works; XI-XIV are the literary works (Latin pieces followed by English translations, not facing pages); XV the professional works. The set overlaps the Gutenberg Essays, New Atlantis and Valerius Terminus above and the Advancement and Novum Organum on the Adler shelf; it is taken whole as the collected edition. The Letters and Life (1861-74) are not taken. US public domain. No uids minted.",
+ "_about": "Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. Added in round ap: The Works of Francis Bacon, ed. Spedding, Ellis and Heath, the fifteen-volume American edition (New York: Hurd and Houghton; Boston: Taggard and Thompson, MDCCCLXIV on every title page that the OCR reads; raw IA OCR, BYU scans). Vols. I-VII print the philosophical works as Bacon wrote them, Latin works in Latin with the editors' English prefaces; vols. VIII-X are the editors' English translations of those Latin works; XI-XIV are the literary works (Latin pieces followed by English translations, not facing pages); XV the professional works. The set overlaps the Gutenberg Essays, New Atlantis and Valerius Terminus above and the Advancement and Novum Organum on the Adler shelf; it is taken whole as the collected edition. Spedding's companion Letters and Life is held in full: 7 vols. (London: Longmans, 1861-1874), raw OCR of Google scans. US public domain. No uids minted.",
  "_author": "Francis Bacon",
  "_name_words": [
   "francis",
@@ -84,6 +84,34 @@
   "bacon-spedding-works-1864-v15": [
    "worksoffrancisba15baco",
    "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XV: Professional Works: legal discourses, arguments of law, readings (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-letters-and-life-v1": [
+   "lettersandlifef08bacogoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. I (London: Longman, Green, Longman, and Roberts, 1861)"
+  ],
+  "bacon-spedding-letters-and-life-v2": [
+   "lettersandlifef01bacogoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. II (London: Longman, Green, Longman, and Roberts, 1862)"
+  ],
+  "bacon-spedding-letters-and-life-v3": [
+   "lettersandlifef05bacogoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. III (London: Longmans, Green, Reader, and Dyer, 1868)"
+  ],
+  "bacon-spedding-letters-and-life-v4": [
+   "lettersandlifef06bacogoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. IV (London: Longmans, Green, Reader, and Dyer, 1868)"
+  ],
+  "bacon-spedding-letters-and-life-v5": [
+   "lettersandlifef05spedgoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. V (London: Longmans, Green, Reader, and Dyer, 1869)"
+  ],
+  "bacon-spedding-letters-and-life-v6": [
+   "lettersandlifef09bacogoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VI (London: Longmans, Green, Reader, and Dyer, 1872)"
+  ],
+  "bacon-spedding-letters-and-life-v7": [
+   "lettersandlifef00spedgoog",
+   "The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VII (London: Longmans, Green, Reader, and Dyer, 1874)"
   ]
  },
  "_excluded": {},
@@ -283,6 +311,83 @@
    "ia_rights": "ok: published 1862",
    "ia_date": "1862",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacon-spedding-letters-and-life-v7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

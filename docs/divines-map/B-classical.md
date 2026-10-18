@@ -3589,8 +3589,6 @@ Shelf: `pipeline/hobbes_shelf.json`. Thomas Hobbes (1588-1679): The English Work
 | The English Works of Thomas Hobbes of Malmesbury, vol. 6 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v6` | have (PG 77338) |
 | The English Works of Thomas Hobbes of Malmesbury, vol. 7 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v7` | have (PG 78674) |
 
-Pending (wishlist): Molesworth vols. 8-11 if a scan is wanted for completeness.
-
 ## Francis Bacon
 
 Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. No uids minted.
@@ -3615,8 +3613,13 @@ Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gut
 | The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIII: Literary Works: De Sapientia Veterum with its translation, Advertisement touching a Holy War, Colours of Good and Evil (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v13` | have-raw (IA `worksoffrancisba13baco`) |
 | The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIV: Literary Works: Promus, Religious Writings, Meditationes Sacrae with translation (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v14` | have-raw (IA `worksoffrancisba14baco`) |
 | The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XV: Professional Works: legal discourses, arguments of law, readings (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864) |  | `bacon-spedding-works-1864-v15` | have-raw (IA `worksoffrancisba15baco`) |
-
-Pending (wishlist): the Letters and Life (1861-74)
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. I (London: Longman, Green, Longman, and Roberts, 1861) |  | `bacon-spedding-letters-and-life-v1` | have-raw (IA `lettersandlifef08bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. II (London: Longman, Green, Longman, and Roberts, 1862) |  | `bacon-spedding-letters-and-life-v2` | have-raw (IA `lettersandlifef01bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. III (London: Longmans, Green, Reader, and Dyer, 1868) |  | `bacon-spedding-letters-and-life-v3` | have-raw (IA `lettersandlifef05bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. IV (London: Longmans, Green, Reader, and Dyer, 1868) |  | `bacon-spedding-letters-and-life-v4` | have-raw (IA `lettersandlifef06bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. V (London: Longmans, Green, Reader, and Dyer, 1869) |  | `bacon-spedding-letters-and-life-v5` | have-raw (IA `lettersandlifef05spedgoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VI (London: Longmans, Green, Reader, and Dyer, 1872) |  | `bacon-spedding-letters-and-life-v6` | have-raw (IA `lettersandlifef09bacogoog`) |
+| The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VII (London: Longmans, Green, Reader, and Dyer, 1874) |  | `bacon-spedding-letters-and-life-v7` | have-raw (IA `lettersandlifef00spedgoog`) |
 
 ## Machiavelli in English
 
@@ -3878,8 +3881,6 @@ Shelf: `pipeline/jeremy-bentham_shelf.json`. Principles of Morals and Legislatio
 |---|---|---|---|
 | An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907) |  | `bentham-principles-of-morals-1907` | have-raw (IA `anintroductiont08bentgoog`) |
 | A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891) |  | `bentham-fragment-on-government-1891` | have-raw (IA `afragmentongover00bentuoft`) |
-
-Pending (wishlist): the Rationale of Judicial Evidence
 
 ## T. H. Green
 
@@ -4189,8 +4190,6 @@ Shelf: `pipeline/malthus_shelf.json`. Six works, 1798-1827.
 | The Measure of Value Stated and Illustrated (London, 1823) |  | `malthus-measure-of-value-1823` | have (PG 62407) |
 | Definitions in Political Economy (London: John Murray, 1827) |  | `malthus-definitions-1827` | have (PG 61483) |
 | Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition) |  | `malthus-principles-of-political-economy-1821` | have-raw (IA `principlesofpoli01malt`) |
-
-Pending (wishlist): The enlarged Essay on Population (2nd-6th eds.)
 
 ## David Ricardo
 
