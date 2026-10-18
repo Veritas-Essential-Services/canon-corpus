@@ -1,0 +1,35 @@
+{
+ "_about": "Francois Hotman (1524-1590), Huguenot jurist: Franco-Gallia, or an account of the ancient free state of France, translated by 'the author of the Account of Denmark' (Robert Molesworth), the second edition with additions and a new preface by the translator (London: Edward Valentine, 1721, as the Gutenberg etext's title page reads), clean Gutenberg text. US public domain. No uids minted.",
+ "_author": "Francois Hotman",
+ "_name_words": [
+  "francis",
+  "francois",
+  "hotman",
+  "hotoman"
+ ],
+ "_surname": [
+  "hotman",
+  "hotoman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hotman-molesworth-franco-gallia-1721": [
+   17894,
+   "Franco-Gallia, second edition (London: Edward Valentine, 1721)",
+   "tr. 'the Author of the Account of Denmark' (Robert Molesworth, unnamed on the title page)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hotman-molesworth-franco-gallia-1721": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hotman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
