@@ -8984,3 +8984,17 @@ Slugs `hctrumbull-*`. Built from title pages read for round 36.
 | The Covenant of Salt, as Based on the Significance and Symbolism of Salt in Primitive Thought (New York: Charles Scribner's Sons, 1899) | have-ocr | IA `covenantofsaltas00trum` |
 | PG 48236, 49216 and 46212 (Blood Covenant, Threshold Covenant, Covenant of Salt, same Scribner's imprints); other Kadesh-Barnea copies (one the London Hodder edition, catalogued as Scribner); A Lie Never Justifiable (PG 10591) and Hints on Child-Training (PG 57569), title pages not read | alternate | not shelved |
 | His biographies of other men (The Knightly Soldier, The Captured Scout, A Model Superintendent); The Story of Jonah, by James Shields Boyd | excluded | |
+
+## Gregory the Great (round 37, my pick, 2026-10-18)
+
+Slugs `gregory-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| Morals on the Book of Job, vol. I, parts I and II, Library of Fathers of the Holy Catholic Church (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, MDCCCXLIV) | have-ocr | IA `moralsonbookofjo18greg` |
+| Morals on the Book of Job, vol. II, parts III and IV, Library of the Fathers (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, 1845) | have-ocr | IA `moralsonbookofjo21greg` |
+| Morals on the Book of Job, vol. III, first part (part V and books XXVIII-XXIX), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII) | have-ocr | IA `moralsonbookofjo23greg` |
+| Morals on the Book of Job, vol. III, second part (books XXX-XXXV), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCL) | have-ocr | IA `moralsonbookofjo31greg` |
+| The Dialogues of St. Gregory the Great: an Old English Version, edited by Henry James Coleridge, S.J., Quarterly Series vol. 9 (London: Burns and Oates, 1874) | have-ocr | IA `dialoguesofstgre0000henr` |
+| Other 1844-1850 copies of the Morals (moralsonbookofj01-04greg, the uoft set); the 1608 Paris printing of the Dialogues (OCR almost unusable); CCEL's Book II with the Rule of St Benedict (1895/1898); The Little Flowers of Saint Benet (selections) | alternate | not shelved |
+| Pastoral Rule and Epistles (Hedley shelf; Schaff NPNF in PR #11); the Gardner 1911 Dialogues (medieval-lives shelf); Zimmerman 1959 | excluded | |

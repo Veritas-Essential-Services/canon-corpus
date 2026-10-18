@@ -1867,3 +1867,6 @@
 
 ## 2026-10-17 22:50 CDT — round 36 closed
 - 23 shelves, 146 items (6 PG, 140 IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 22:51 CDT — gregory-the-great done
+- `pipeline/gregory-the-great_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

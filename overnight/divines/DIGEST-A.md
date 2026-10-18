@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:49 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 22:51 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -858,6 +858,14 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | H. Clay Trumbull | h-clay-trumbull_shelf.json | none | 7 (Kadesh-Barnea: Its Importance and Probable Site, with the Story of a Hunt for It (New York: Charles Scribner's Sons, 1884); The Blood Covenant: A Primitive Rite and Its Bearings on Scripture (New York: Charles Scribner's Sons, 1885); Friendship the Master-Passion (Philadelphia: John D. Wattles, 1892); Studies in Oriental Social Life and Gleams from the East on the Sacred Page (Philadelphia: John D. Wattles, 1894); The Threshold Covenant, or The Beginning of Religious Rites (New York: Charles Scribner's Sons, 1896); Prayer: Its Nature and Scope (New York, Chicago, Toronto: Fleming H. Revell; copyright 1896); The Covenant of Salt, as Based on the Significance and Symbolism of Salt in Primitive Thought (New York: Charles Scribner's Sons, 1899)) | none | His biographies of other men (The Knightly Soldier, The Captured Scout, A Model Superintendent); The Story of Jonah, by James Shields Boyd |
 
 Round 36 closed 2026-10-17 22:50 CDT: 23 shelves, 146 items (6 Gutenberg, 140 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. The OCR splits or garbles the author's name on Jamieson's Pentateuch, Charlotte Elizabeth's Works vol. II, Anna Shipton's Tell Jesus and Conwell's Little Bo, so those title pages were read and are recorded.
+
+## Round 37: medieval Latin writers and Counter-Reformation spiritual writers in English, before 1930 (my picks)
+
+Twenty-three authors queued in QUEUE-A.json, each built from title pages read for this round. Nearly all wrote in Latin, Spanish, Italian or French; Gother, Benet of Canfield and Gertrude More wrote in English. The research found no qualifying pre-1930 English book for Aelred (only a two-author volume), William of St Thierry, Peter Damian (one hymn), Richard of St Victor (only an anthology), Hildegard, Alcuin, Columbanus, Gerard Groote, Denis the Carthusian, Charles Borromeo or Philip Neri, so none of them has a shelf. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Gregory the Great | gregory-the-great_shelf.json | none | 5 (Morals on the Book of Job, vol. I, parts I and II, Library of Fathers of the Holy Catholic Church (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, MDCCCXLIV); Morals on the Book of Job, vol. II, parts III and IV, Library of the Fathers (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, 1845); Morals on the Book of Job, vol. III, first part (part V and books XXVIII-XXIX), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII); Morals on the Book of Job, vol. III, second part (books XXX-XXXV), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCL); The Dialogues of St. Gregory the Great: an Old English Version, edited by Henry James Coleridge, S.J., Quarterly Series vol. 9 (London: Burns and Oates, 1874)) | none | Pastoral Rule and Epistles (Hedley shelf; Schaff NPNF in PR #11); the Gardner 1911 Dialogues (medieval-lives shelf); Zimmerman 1959 |
 
 ## Paused 2026-10-10 15:12 CDT
 

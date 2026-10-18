@@ -1,0 +1,108 @@
+{
+ "_about": "Public-domain Gregory the Great (c.540-604), pope and Doctor of the Church, for the Word Hoard: the Morals on the Book of Job in the Oxford Library of the Fathers (1844-1850, four volumes) and the old English version of the Dialogues edited by Henry James Coleridge (1874), from Internet Archive scans. The Pastoral Rule is on the John Cuthbert Hedley shelf and the Gardner 1911 Dialogues on the medieval-lives shelf, so neither is repeated here. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gregory"
+ ],
+ "_surname": [
+  "gregory the great",
+  "s. gregory",
+  "saint gregory",
+  "st. gregory"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gregory-morals-job-1": [
+   "moralsonbookofjo18greg",
+   "Morals on the Book of Job, vol. I, parts I and II, Library of Fathers of the Holy Catholic Church (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, MDCCCXLIV)"
+  ],
+  "gregory-morals-job-2": [
+   "moralsonbookofjo21greg",
+   "Morals on the Book of Job, vol. II, parts III and IV, Library of the Fathers (Oxford: John Henry Parker; London: J. G. F. and J. Rivington, 1845)"
+  ],
+  "gregory-morals-job-3a": [
+   "moralsonbookofjo23greg",
+   "Morals on the Book of Job, vol. III, first part (part V and books XXVIII-XXIX), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII)"
+  ],
+  "gregory-morals-job-3b": [
+   "moralsonbookofjo31greg",
+   "Morals on the Book of Job, vol. III, second part (books XXX-XXXV), Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCL)"
+  ],
+  "gregory-dialogues-coleridge-1874": [
+   "dialoguesofstgre0000henr",
+   "The Dialogues of St. Gregory the Great: an Old English Version, edited by Henry James Coleridge, S.J., Quarterly Series vol. 9 (London: Burns and Oates, 1874)"
+  ]
+ },
+ "_alternates": {
+  "gregory-copies": "Other 1844-1850 copies of the Morals (moralsonbookofj01-04greg, the uoft set); the 1608 Paris printing of the Dialogues (OCR almost unusable); CCEL's Book II with the Rule of St Benedict (1895/1898); The Little Flowers of Saint Benet (selections)"
+ },
+ "_excluded": {
+  "gregory-elsewhere": "Pastoral Rule and Epistles (Hedley shelf; Schaff NPNF in PR #11); the Gardner 1911 Dialogues (medieval-lives shelf); Zimmerman 1959"
+ },
+ "_rights_checked": {
+  "gregory-morals-job-1": "title page read: translator not named (\"translated by members of the English Church\"); the preface, signed C. M., says the translator prefers to conceal his name. The catalogue's Bliss and Marriott credit was not read on the title page",
+  "gregory-dialogues-coleridge-1874": "title page read: the 1608 version, translator not named, edited by Henry James Coleridge"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gregory-morals-job-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gregory the great",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named (\"translated by members of the English Church\"); the preface, signed C. M., says the translator prefers to conceal his name. The catalogue's Bliss and Marriott credit was not read on the title page"
+  },
+  "gregory-morals-job-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gregory the great",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gregory-morals-job-3a": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gregory the great",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gregory-morals-job-3b": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gregory the great",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gregory-dialogues-coleridge-1874": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gregory the great",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the 1608 version, translator not named, edited by Henry James Coleridge"
+  }
+ }
+}
