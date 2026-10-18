@@ -5118,6 +5118,7 @@ Shelf: `pipeline/lucien-levy-bruhl_shelf.json`. French philosophy surveyed.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | History of Modern Philosophy in France (Chicago: Open Court, 1899) | G. Coblence | `levy-bruhl-coblence-modern-philosophy-in-france-1899` | have-raw (IA `historyofmodernp00laevuoft`) |
+| The Philosophy of Auguste Comte, authorised translation, introduction by Frederic Harrison (London: Swan Sonnenschein, 1903) |  | `levy-bruhl-philosophy-of-comte-1903` | have-raw (IA `philosophycomte00levyuoft`) |
 
 ## Gabriel Tarde
 

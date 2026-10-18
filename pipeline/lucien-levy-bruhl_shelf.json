@@ -1,5 +1,5 @@
 {
- "_about": "Lucien Lévy-Bruhl (1857-1939): History of Modern Philosophy in France, with portraits, tr. G. Coblence, revised by W. H. Carruth (Chicago: Open Court; London: Kegan Paul, 1899), raw IA OCR. His Ethics and Moral Science, tr. Elizabeth Lee (1905), is left for Lane C's elizabeth-lee shelf. US public domain. No uids minted.",
+ "_about": "Lucien Lévy-Bruhl (1857-1939): History of Modern Philosophy in France, with portraits, tr. G. Coblence, revised by W. H. Carruth (Chicago: Open Court; London: Kegan Paul, 1899), raw IA OCR. His Ethics and Moral Science, tr. Elizabeth Lee (1905), is left for Lane C's elizabeth-lee shelf. Added in round am: The Philosophy of Auguste Comte, authorised translation, introduction by Frederic Harrison (London: Swan Sonnenschein, 1903). US public domain. No uids minted.",
  "_author": "Lucien Lévy-Bruhl",
  "_name_words": [
   "lucien",
@@ -19,6 +19,10 @@
    "historyofmodernp00laevuoft",
    "History of Modern Philosophy in France (Chicago: Open Court, 1899)",
    "tr. G. Coblence"
+  ],
+  "levy-bruhl-philosophy-of-comte-1903": [
+   "philosophycomte00levyuoft",
+   "The Philosophy of Auguste Comte, authorised translation, introduction by Frederic Harrison (London: Swan Sonnenschein, 1903)"
   ]
  },
  "_excluded": {},
@@ -28,7 +32,7 @@
  "_checks": {
   "levy-bruhl-coblence-modern-philosophy-in-france-1899": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "levy-bruhl",
    "translator_claimed": "Coblence",
@@ -36,6 +40,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1899",
    "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "levy-bruhl-philosophy-of-comte-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "levy-bruhl",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
