@@ -1,0 +1,110 @@
+{
+ "_about": "Public-domain G. H. Pember (George Hawkins Pember, 1837-1910), Brethren writer on prophecy, for the Word Hoard: Earth's Earliest Ages (first edition, Bagster, about 1876, and the fifth, 1889), The Great Prophecies concerning the Gentiles, the Jews and the Church of God (1881 and the third edition, 1887) and The Lord's Command (1904), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pember"
+ ],
+ "_surname": [
+  "pember",
+  "g. h. pember",
+  "george hawkins pember"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pember-earths-earliest-ages-1876": [
+   "in.ernet.dli.2015.222681",
+   "Earth's Earliest Ages, and their Lessons for Us, including a Treatise on Spiritualism (London: Samuel Bagster and Sons; title page undated, the text dated March 1876; the catalogue's 1854 is impossible)",
+   "2015.222681.Earths-Earliest_djvu.txt"
+  ],
+  "pember-earths-earliest-ages-1889": [
+   "earthsearliestag00pemb",
+   "Earth's Earliest Ages, and their Connection with Modern Spiritualism and Theosophy, fifth edition (London: Hodder and Stoughton, 1889)"
+  ],
+  "pember-great-prophecies-1881": [
+   "greatprophecies00pembgoog",
+   "The Great Prophecies concerning the Gentiles, the Jews, and the Church of God (London: Hodder and Stoughton, 1881)"
+  ],
+  "pember-great-prophecies-1887": [
+   "greatpropheciesc00pembuoft",
+   "The Great Prophecies concerning the Gentiles, the Jews, and the Church of God, third edition, revised and enlarged (London: Hodder and Stoughton, 1887)"
+  ],
+  "pember-lords-command": [
+   "lordscommand0000ghpe",
+   "The Lord's Command: a few words on baptism (London: Hodder and Stoughton, 1904)"
+  ]
+ },
+ "_alternates": {
+  "pember-copies": "Great Prophecies second edition (1885); undated Revell Earth's Earliest Ages and Theosophy, Buddhism, and the Signs of the End"
+ },
+ "_excluded": {
+  "pember-later": "Mystery Babylon the Great ed. G. H. Lang (Oliphants, 1941 text); Kregel 1942 and 1984 reprints; Joule's Notes on Leviticus, which he only edited; a German translation"
+ },
+ "_identity_checked": {
+  "pember-great-prophecies-1881": {
+   "author": "title page read: 'G. H. PEMBEE, M.A.' (OCR for Pember)"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "pember-unfound": "The Antichrist, Babylon, and the Coming of the Kingdom and The Church, the Churches and the Mysteries: no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "pember-earths-earliest-ages-1876": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pember",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pember-earths-earliest-ages-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pember",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pember-great-prophecies-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pember-great-prophecies-1887": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pember",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pember-lords-command": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pember",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

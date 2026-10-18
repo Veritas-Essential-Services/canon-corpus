@@ -8144,6 +8144,20 @@ Slugs `jnelson-*`. Built from title pages read for round 34.
 | An Extract from the Journal of Mr. John Nelson, written by himself (Baltimore: J. Kingston, 1810) | have-ocr | IA `extractfromjourn00nels` |
 | Extract from the Journal of John Nelson, written by himself, to which is added an account of his death (New York: B. Waugh and T. Mason, 1833) | have-ocr | IA `25933977.emory.edu` |
 | London 1798 (year OCR'd '179%'); a second Baltimore 1810 copy; New York 1854; the undated Wesleyan-Methodist Book-Room Extract (its catalogued 1767 is impossible) | alternate | not shelved |
+
+## G. H. Pember (round 34, my pick, 2026-10-18)
+
+Slugs `pember-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Earth's Earliest Ages, and their Lessons for Us, including a Treatise on Spiritualism (London: Samuel Bagster and Sons; title page undated, the text dated March 1876; the catalogue's 1854 is impossible) | have-ocr | IA `in.ernet.dli.2015.222681` |
+| Earth's Earliest Ages, and their Connection with Modern Spiritualism and Theosophy, fifth edition (London: Hodder and Stoughton, 1889) | have-ocr | IA `earthsearliestag00pemb` |
+| The Great Prophecies concerning the Gentiles, the Jews, and the Church of God (London: Hodder and Stoughton, 1881) | have-ocr | IA `greatprophecies00pembgoog` |
+| The Great Prophecies concerning the Gentiles, the Jews, and the Church of God, third edition, revised and enlarged (London: Hodder and Stoughton, 1887) | have-ocr | IA `greatpropheciesc00pembuoft` |
+| The Lord's Command: a few words on baptism (London: Hodder and Stoughton, 1904) | have-ocr | IA `lordscommand0000ghpe` |
+| Great Prophecies second edition (1885); undated Revell Earth's Earliest Ages and Theosophy, Buddhism, and the Signs of the End | alternate | not shelved |
+| Mystery Babylon the Great ed. G. H. Lang (Oliphants, 1941 text); Kregel 1942 and 1984 reprints; Joule's Notes on Leviticus, which he only edited; a German translation | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
