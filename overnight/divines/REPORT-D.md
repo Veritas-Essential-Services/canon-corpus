@@ -1584,3 +1584,6 @@
 
 ## 2026-10-17 22:16 CDT — upton-sinclair-works: done
 - upton-sinclair-works: new shelf, 41 Gutenberg books, 64,686 units, 4256 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:17 CDT — winston-churchill-novels: done
+- winston-churchill-novels: new shelf, 15 Gutenberg books, 75,752 units, 7972 ~2 ids; verify 0 mismatches, 0 rights flags.

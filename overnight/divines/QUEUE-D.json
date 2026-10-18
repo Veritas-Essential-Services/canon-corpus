@@ -3485,6 +3485,14 @@
       "started": "2026-10-17T22:16:58-05:00",
       "finished": "2026-10-17T22:16:58-05:00",
       "notes": "upton-sinclair-works: new shelf, 41 Gutenberg books, 64,686 units, 4256 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "winston-churchill-novels",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Winston Churchill; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:16:59-05:00",
+      "finished": "2026-10-17T22:17:00-05:00",
+      "notes": "winston-churchill-novels: new shelf, 15 Gutenberg books, 75,752 units, 7972 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

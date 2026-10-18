@@ -11612,6 +11612,30 @@ Shelf: `pipeline/upton-sinclair-works_shelf.json` (2026-10-17; added at the coor
 | pg-59670 | excluded | PG 59670: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 140: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Winston Churchill
+
+Shelf: `pipeline/winston-churchill-novels_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels by the American novelist Winston Churchill (1871-1947), not the statesman. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Crossing | have | PG 388, `wchurchill-crossing` (5083 units) |
+| The Dwelling Place of Light — Complete | have | PG 3649, `wchurchill-dwelling-place-of-light-complete` (2545 units) |
+| Mr. Crewe's Career — Complete | have | PG 3684, `wchurchill-mr-crewes-career-complete` (3957 units) |
+| A Far Country — Complete | have | PG 3739, `wchurchill-a-far-country-complete` (3207 units) |
+| Coniston — Complete | have | PG 3766, `wchurchill-coniston-complete` (4163 units) |
+| The Inside of the Cup — Complete | have | PG 5364, `wchurchill-inside-of-the-cup-complete` (3528 units) |
+| Richard Carvel — Complete | have | PG 5373, `wchurchill-richard-carvel-complete` (3789 units) |
+| A Modern Chronicle — Complete | have | PG 5382, `wchurchill-a-modern-chronicle-complete` (4171 units) |
+| The Celebrity, Complete | have | PG 5387, `wchurchill-celebrity-complete` (1415 units) |
+| The Crisis — Complete | have | PG 5396, `wchurchill-crisis-complete` (4387 units) |
+| Dr. Jonathan | have | PG 5397, `wchurchill-dr-jonathan` (1263 units) |
+| A Traveller in War-Time | have | PG 5398, `wchurchill-a-traveller-in-war-time` (155 units) |
+| An essay on the American contribution and the democratic idea | have | PG 5399, `wchurchill-an-essay-on-the-american-contribution-and-the-dem` (95 units) |
+| Project Gutenberg Complete Works of Winston Churchill | have | PG 5400, `wchurchill-project-gutenberg-complete-works-of-winston-churc` (37751 units) |
+| Mr. Keegan's Elopement | have | PG 67957, `wchurchill-mr-keegans-elopement` (243 units) |
+| pg-28822 | excluded | PG 28822: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 3646, 3647, 3648, 3681, 3682, 3683, 3736, 3737, 3738, 3762, 3763, 3764, 3765, 5356, 5357, 5358, 5359, 5360, 5361, 5362, 5363, 5365, 5366, 5367, 5368, 5369, 5370, 5371, 5372, 5374, 5375, 5376, 5377, 5378, 5379, 5380, 5381, 5383, 5384, 5385, 5386, 5388, 5389, 5390, 5391, 5392, 5393, 5394, 5395: the complete edition of each is on the shelf instead. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
