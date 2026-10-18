@@ -252,3 +252,4 @@
 - 20:48 round bh: British idealists (Henry Jones, John Watson of Kingston, A. E. Taylor, Joachim, Muirhead) plus Prichard and Carritt, 26 items. Held: Taylor's Plato (no year).
 - 20:51 round bi: Henry and Brooks Adams, Cooley, Lester Ward, Giddings, Woodbridge, Sellars (16 items).
 - 20:54 round bj: Gentile, Hulme, Wildon Carr, Kemp Smith, and Kemp Smith's 1929 Critique of Pure Reason on the kant shelf (10 items).
+- 20:58 round bk: Lloyd Morgan, Laird, R. B. Haldane, Urban (12 items). Held: Johnston and Struthers' Hegel Science of Logic (1929), no dated first-impression copy found.

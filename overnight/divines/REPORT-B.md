@@ -1198,3 +1198,10 @@
 - norman-kemp-smith: Cartesian Philosophy (1902), Commentary to Kant (1918)
 - kant: Kemp Smith's Critique of Pure Reason (1929, first impression)
 - Held: Carr's Problem of Truth (no year in either IA copy), Carr's Leibniz (only the 1960 Dover copy)
+
+## 2026-10-17 20:58 CDT — Round 2026-10-17bk: realists, emergentists and value theorists
+- c-lloyd-morgan: Comparative Psychology (1894), Emergent Evolution
+- john-laird: 3 books (1917-1930)
+- r-b-haldane: 4 books (1903-1922)
+- wilbur-marshall-urban: 3 books (1909-1930)
+- Held: Hegel's Science of Logic, tr. Johnston and Struthers (1929): both IA copies lack a title-page year and vol. II is a photolitho reprint; Lloyd Morgan's Animal Life and Intelligence (no legible title page); Laird and Urban reprints of 1949-1972
