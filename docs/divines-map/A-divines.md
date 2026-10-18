@@ -6481,3 +6481,17 @@ Slugs `chateaubriand-*`. The Genius of Christianity and The Martyrs in English.
 | Later Murphy editions of the Genius (1871-1884); Stork's Selections (1858) | alternate | not shelved |
 | The Memoirs (teixeira-de-mattos shelf) | excluded | |
 | Atala, Travels, the Congress of Verona and other non-religious works | excluded | |
+
+## Félicité de Lamennais (round 29, my pick, 2026-10-18)
+
+Slugs `lamennais-*`. Essay on Indifference and later works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Words of a Believer, translated from the French (New-York: Charles de Behr, 1834) | have-ocr | IA `wordsabeliever00lamegoog` |
+| The People's Own Book, translated from the French (Boston: Charles C. Little & James Brown, 1839) | have-ocr | IA `peoplesownbook00greegoog` |
+| Essay on Indifference in Matters of Religion, tr. Lord Stanley of Alderley (London: John Macqueen, 1895) | have-ocr | IA `essayonindiffer00lamegoog` |
+| Sermonettes, selected and translated by J. L. Jacobson van Hemert (Chicago: A. C. McClurg, MCMIV) | have-ocr | IA `Sermonettes` |
+| A Duopage copy of the 1834 Words of a Believer | alternate | not shelved |
+| Gibson's Abbé de Lamennais (1896) and other studies | excluded | |
+| French, German and Italian editions with wrong language tags | excluded | |
