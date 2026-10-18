@@ -1,0 +1,399 @@
+{
+ "_about": "George Meredith's novels and poems: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Meredith",
+ "_name_words": [
+  "meredith"
+ ],
+ "_surname": [
+  "george meredith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gmeredith-a-reading-of-life-with-other-poems": [
+   1042,
+   "A Reading of Life, with Other Poems"
+  ],
+  "gmeredith-an-essay-on-comedy-and-the-uses-of-the-comic-spiri": [
+   1219,
+   "An Essay on Comedy and the Uses of the Comic Spirit"
+  ],
+  "gmeredith-poems-volume-1": [
+   1381,
+   "Poems — Volume 1"
+  ],
+  "gmeredith-poems-volume-2": [
+   1382,
+   "Poems — Volume 2"
+  ],
+  "gmeredith-poems-volume-3": [
+   1383,
+   "Poems — Volume 3"
+  ],
+  "gmeredith-shaving-of-shagpat-4405": [
+   4405,
+   "The Shaving of Shagpat; an Arabian entertainment — Complete"
+  ],
+  "gmeredith-ordeal-of-richard-feverel-complete": [
+   4412,
+   "The Ordeal of Richard Feverel — Complete"
+  ],
+  "gmeredith-sandra-belloni-originally-emilia-in-england-comple": [
+   4420,
+   "Sandra Belloni (originally Emilia in England) — Complete"
+  ],
+  "gmeredith-rhoda-fleming-complete": [
+   4426,
+   "Rhoda Fleming — Complete"
+  ],
+  "gmeredith-evan-harrington-complete": [
+   4434,
+   "Evan Harrington — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gmeredith-vittoria-complete": [
+   4443,
+   "Vittoria — Complete"
+  ],
+  "gmeredith-adventures-of-harry-richmond-complete": [
+   4452,
+   "The Adventures of Harry Richmond — Complete",
+   {
+    "contents_only": true
+   }
+  ],
+  "gmeredith-beauchamps-career-complete": [
+   4460,
+   "Beauchamp's Career — Complete"
+  ],
+  "gmeredith-tragic-comedians-4464": [
+   4464,
+   "The Tragic Comedians: A Study in a Well-known Story — Complete"
+  ],
+  "gmeredith-diana-of-the-crossways-complete": [
+   4470,
+   "Diana of the Crossways — Complete"
+  ],
+  "gmeredith-one-of-our-conquerors-complete": [
+   4476,
+   "One of Our Conquerors — Complete"
+  ],
+  "gmeredith-lord-ormont-and-his-aminta-complete": [
+   4482,
+   "Lord Ormont and His Aminta — Complete"
+  ],
+  "gmeredith-amazing-marriage-complete": [
+   4488,
+   "The Amazing Marriage — Complete"
+  ],
+  "gmeredith-celt-and-saxon-complete": [
+   4491,
+   "Celt and Saxon — Complete"
+  ],
+  "gmeredith-farina": [
+   4492,
+   "Farina"
+  ],
+  "gmeredith-case-of-general-ople-and-lady-camper": [
+   4493,
+   "The Case of General Ople and Lady Camper"
+  ],
+  "gmeredith-tale-of-chloe": [
+   4494,
+   "The Tale of Chloe: An Episode in the History of Beau Beamish"
+  ],
+  "gmeredith-house-on-the-beach": [
+   4495,
+   "The House on the Beach: A Realistic Tale"
+  ],
+  "gmeredith-gentleman-of-fifty-and-the-damsel-of-nineteen-an-e": [
+   4496,
+   "The Gentleman of Fifty and The Damsel of Nineteen (An early uncompleted fragment)"
+  ],
+  "gmeredith-sentimentalists": [
+   4497,
+   "The Sentimentalists"
+  ],
+  "gmeredith-miscellaneous-prose": [
+   4498,
+   "Miscellaneous Prose"
+  ],
+  "gmeredith-ballads-and-poems-of-tragic-life": [
+   47225,
+   "Ballads and Poems of Tragic Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "gmeredith-poems-and-lyrics-of-the-joy-of-earth": [
+   63672,
+   "Poems and Lyrics of the Joy of Earth",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's split-part files PG 4401, 4402, 4403, 4404, 4406, 4407, 4408, 4409, 4410, 4411, 4413, 4414, 4415, 4416, 4417, 4418, 4419, 4421, 4422, 4423, 4424, 4425, 4427, 4428, 4429, 4430, 4431, 4432, 4433, 4435, 4436, 4437, 4438, 4439, 4440, 4441, 4442, 4444, 4445, 4446, 4447, 4448, 4449, 4450, 4451, 4453, 4454, 4455, 4456, 4457, 4458, 4459, 4461, 4462, 4463, 4465, 4466, 4467, 4468, 4469, 4471, 4472, 4473, 4474, 4475, 4477, 4478, 4479, 4480, 4481, 4483, 4484, 4485, 4486, 4487, 4489, 4490: the complete edition of each is on the shelf instead.",
+  "pg-4904": "PG 4904, 7550: David Widger's quotation and image selections, not books by Meredith.",
+  "pg-28823": "PG 28823: Gutenberg's linked index of Meredith's works, not a book.",
+  "pg-34858": "PG 34858: a 1917 edited edition of Richard Feverel, which the shelf holds complete.",
+  "pg-4500": "PG 4499, 4500: Gutenberg omnibus files that join the separate books already on the shelf."
+ },
+ "_checks": {
+  "gmeredith-a-reading-of-life-with-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-an-essay-on-comedy-and-the-uses-of-the-comic-spiri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-poems-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-poems-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-poems-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-shaving-of-shagpat-4405": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-ordeal-of-richard-feverel-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-sandra-belloni-originally-emilia-in-england-comple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-rhoda-fleming-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-evan-harrington-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-vittoria-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-adventures-of-harry-richmond-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-beauchamps-career-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-tragic-comedians-4464": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-diana-of-the-crossways-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-one-of-our-conquerors-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-lord-ormont-and-his-aminta-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-amazing-marriage-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-celt-and-saxon-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-farina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-case-of-general-ople-and-lady-camper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-tale-of-chloe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-house-on-the-beach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-gentleman-of-fifty-and-the-damsel-of-nineteen-an-e": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-sentimentalists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-miscellaneous-prose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-ballads-and-poems-of-tragic-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmeredith-poems-and-lyrics-of-the-joy-of-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george meredith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

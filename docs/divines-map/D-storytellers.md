@@ -7939,6 +7939,46 @@ Shelf: `pipeline/gaskell_shelf.json` (2026-10-17; added at the coordinator's rel
 | pg-2324 | excluded | PG 2324 A House to Let: a joint Christmas number (Dickens, Collins, Gaskell, Procter); it is on the dickens-works shelf. |
 | pg-57627 | excluded | PG 57627 Mrs. Gaskell: Haunts, Homes and Stories, a study of Gaskell by Mrs. Ellis H. Chadwick. |
 
+## George Meredith
+
+Shelf: `pipeline/george-meredith_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Reading of Life, with Other Poems | have | PG 1042, `gmeredith-a-reading-of-life-with-other-poems` (178 units) |
+| An Essay on Comedy and the Uses of the Comic Spirit | have | PG 1219, `gmeredith-an-essay-on-comedy-and-the-uses-of-the-comic-spiri` (151 units) |
+| Poems — Volume 1 | have | PG 1381, `gmeredith-poems-volume-1` (964 units) |
+| Poems — Volume 2 | have | PG 1382, `gmeredith-poems-volume-2` (1093 units) |
+| Poems — Volume 3 | have | PG 1383, `gmeredith-poems-volume-3` (682 units) |
+| The Shaving of Shagpat; an Arabian entertainment — Complete | have | PG 4405, `gmeredith-shaving-of-shagpat-4405` (1376 units) |
+| The Ordeal of Richard Feverel — Complete | have | PG 4412, `gmeredith-ordeal-of-richard-feverel-complete` (3906 units) |
+| Sandra Belloni (originally Emilia in England) — Complete | have | PG 4420, `gmeredith-sandra-belloni-originally-emilia-in-england-comple` (3718 units) |
+| Rhoda Fleming — Complete | have | PG 4426, `gmeredith-rhoda-fleming-complete` (3803 units) |
+| Evan Harrington — Complete | have | PG 4434, `gmeredith-evan-harrington-complete` (4354 units) |
+| Vittoria — Complete | have | PG 4443, `gmeredith-vittoria-complete` (3461 units) |
+| The Adventures of Harry Richmond — Complete | have | PG 4452, `gmeredith-adventures-of-harry-richmond-complete` (4118 units) |
+| Beauchamp's Career — Complete | have | PG 4460, `gmeredith-beauchamps-career-complete` (4111 units) |
+| The Tragic Comedians: A Study in a Well-known Story — Complete | have | PG 4464, `gmeredith-tragic-comedians-4464` (751 units) |
+| Diana of the Crossways — Complete | have | PG 4470, `gmeredith-diana-of-the-crossways-complete` (2849 units) |
+| One of Our Conquerors — Complete | have | PG 4476, `gmeredith-one-of-our-conquerors-complete` (2798 units) |
+| Lord Ormont and His Aminta — Complete | have | PG 4482, `gmeredith-lord-ormont-and-his-aminta-complete` (2043 units) |
+| The Amazing Marriage — Complete | have | PG 4488, `gmeredith-amazing-marriage-complete` (2865 units) |
+| Celt and Saxon — Complete | have | PG 4491, `gmeredith-celt-and-saxon-complete` (1124 units) |
+| Farina | have | PG 4492, `gmeredith-farina` (904 units) |
+| The Case of General Ople and Lady Camper | have | PG 4493, `gmeredith-case-of-general-ople-and-lady-camper` (449 units) |
+| The Tale of Chloe: An Episode in the History of Beau Beamish | have | PG 4494, `gmeredith-tale-of-chloe` (521 units) |
+| The House on the Beach: A Realistic Tale | have | PG 4495, `gmeredith-house-on-the-beach` (778 units) |
+| The Gentleman of Fifty and The Damsel of Nineteen (An early uncompleted fragment) | have | PG 4496, `gmeredith-gentleman-of-fifty-and-the-damsel-of-nineteen-an-e` (208 units) |
+| The Sentimentalists | have | PG 4497, `gmeredith-sentimentalists` (331 units) |
+| Miscellaneous Prose | have | PG 4498, `gmeredith-miscellaneous-prose` (92 units) |
+| Ballads and Poems of Tragic Life | have | PG 47225, `gmeredith-ballads-and-poems-of-tragic-life` (654 units) |
+| Poems and Lyrics of the Joy of Earth | have | PG 63672, `gmeredith-poems-and-lyrics-of-the-joy-of-earth` (415 units) |
+| split-parts | excluded | Gutenberg's split-part files PG 4401, 4402, 4403, 4404, 4406, 4407, 4408, 4409, 4410, 4411, 4413, 4414, 4415, 4416, 4417, 4418, 4419, 4421, 4422, 4423, 4424, 4425, 4427, 4428, 4429, 4430, 4431, 4432, 4433, 4435, 4436, 4437, 4438, 4439, 4440, 4441, 4442, 4444, 4445, 4446, 4447, 4448, 4449, 4450, 4451, 4453, 4454, 4455, 4456, 4457, 4458, 4459, 4461, 4462, 4463, 4465, 4466, 4467, 4468, 4469, 4471, 4472, 4473, 4474, 4475, 4477, 4478, 4479, 4480, 4481, 4483, 4484, 4485, 4486, 4487, 4489, 4490: the complete edition of each is on the shelf instead. |
+| pg-4904 | excluded | PG 4904, 7550: David Widger's quotation and image selections, not books by Meredith. |
+| pg-28823 | excluded | PG 28823: Gutenberg's linked index of Meredith's works, not a book. |
+| pg-34858 | excluded | PG 34858: a 1917 edited edition of Richard Feverel, which the shelf holds complete. |
+| pg-4500 | excluded | PG 4499, 4500: Gutenberg omnibus files that join the separate books already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -2789,6 +2789,14 @@
       "started": "2026-10-17T19:21:36-05:00",
       "finished": "2026-10-17T19:21:36-05:00",
       "notes": "gaskell: new shelf, 19 Gutenberg books, 24,041 units, 474 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-meredith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Meredith; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:21:37-05:00",
+      "finished": "2026-10-17T19:21:37-05:00",
+      "notes": "george-meredith: new shelf, 28 Gutenberg books, 48,697 units, 1179 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
