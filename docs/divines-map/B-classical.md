@@ -7526,6 +7526,15 @@ Shelf: `pipeline/vernon-lee_shelf.json`. Nine volumes of essays, 1881-1913.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Belcaro, essays on sundry aesthetical questions (1881) |  | `vlee-belcaro` | have (PG 32337) |
+| Euphorion, vol. I (1884) |  | `vlee-euphorion-1` | have (PG 31303) |
+| Euphorion, vol. II (1884) |  | `vlee-euphorion-2` | have (PG 31304) |
+| Renaissance Fancies and Studies (1895) |  | `vlee-renaissance-fancies` | have (PG 30693) |
+| Limbo, and Other Essays (1897; with Ariadne in Mantua) |  | `vlee-limbo` | have (PG 37179) |
+| Hortus Vitae (1904) |  | `vlee-hortus-vitae` | have (PG 26800) |
+| The Spirit of Rome (1906) |  | `vlee-spirit-of-rome` | have (PG 27873) |
+| Laurus Nobilis, chapters on art and life (1909) |  | `vlee-laurus-nobilis` | have (PG 27939) |
+| The Beautiful, an introduction to psychological aesthetics (1913) |  | `vlee-the-beautiful` | have (PG 26942) |
 
 ## Edward L. Bernays (public relations)
 
