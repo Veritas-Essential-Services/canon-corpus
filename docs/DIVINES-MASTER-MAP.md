@@ -29844,6 +29844,32 @@ Shelf: `pipeline/disraeli_shelf.json` (2026-10-17; added at the coordinator's re
 | Ixion In Heaven | have | PG 20009, `disraeli-ixion-in-heaven` (311 units) |
 | pg-58739 | excluded | PG 58739: Gutenberg's index of the author's works, not a book. |
 
+## William Harrison Ainsworth
+
+Shelf: `pipeline/ainsworth_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Windsor Castle | have | PG 2866, `ainsworth-windsor-castle` (2709 units) |
+| Old Saint Paul's: A Tale of the Plague and the Fire | have | PG 11082, `ainsworth-old-saint-pauls` (3878 units) |
+| The Star-Chamber: An Historical Romance, Volume 1 | have | PG 12396, `ainsworth-star-chamber` (1158 units) |
+| The Star-Chamber: An Historical Romance, Volume 2 | have | PG 12397, `ainsworth-star-chamber-12397` (1191 units) |
+| The Lancashire Witches: A Romance of Pendle Forest | have | PG 15493, `ainsworth-lancashire-witches` (4582 units) |
+| Jack Sheppard: A Romance | have | PG 16215, `ainsworth-jack-sheppard` (4186 units) |
+| Rookwood | have | PG 23564, `ainsworth-rookwood` (3351 units) |
+| Auriol; or, The Elixir of Life | have | PG 36481, `ainsworth-auriol` (1523 units) |
+| Guy Fawkes; or, The Gunpowder Treason: An Historical Romance | have | PG 37750, `ainsworth-guy-fawkes` (3787 units) |
+| The Manchester Rebels of the Fatal '45 | have | PG 46398, `ainsworth-manchester-rebels-of-the-fatal-45` (3406 units) |
+| Boscobel; or, the royal oak: A tale of the year 1651 | have | PG 47348, `ainsworth-boscobel` (4372 units) |
+| Chetwynd Calverley New Edition, 1877 | have | PG 49680, `ainsworth-chetwynd-calverley-new-edition-1877` (3779 units) |
+| The Constable De Bourbon | have | PG 49681, `ainsworth-constable-de-bourbon` (2901 units) |
+| The Tower of London: A Historical Romance, Illustrated | have | PG 49850, `ainsworth-tower-of-london` (3773 units) |
+| Preston Fight; or, The Insurrection of 1715 | have | PG 49851, `ainsworth-preston-fight` (3071 units) |
+| Cardinal Pole; Or, The Days of Philip and Mary: An Historical Romance | have | PG 54484, `ainsworth-cardinal-pole` (3224 units) |
+| pg-57683 | excluded | PG 57683: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 44521, 44522, 44523: the complete edition of each is on the shelf instead. |
+| pg-49683 | excluded | PG 49683 Cruikshank's Water Colours: Cruikshank's plates for books by several authors. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
