@@ -1939,3 +1939,6 @@
 
 ## 2026-10-17 23:10 CDT — round 37 closed
 - 23 shelves, 75 items (all IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 23:06 CDT — ephrem-the-syrian done
+- `pipeline/ephrem-the-syrian_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

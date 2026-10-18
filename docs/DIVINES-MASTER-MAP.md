@@ -9270,6 +9270,19 @@ Slugs `gother-*`. Built from title pages read for round 37.
 | Cincinnati edition of A Papist Misrepresented (catalogued 1860); vols 2-16 of the Spiritual Works (same id stem, not read) | alternate | not shelved |
 | The Spiritual Works of the Rev. John Gother in sixteen volumes (Newcastle: F. Coates; catalogued 1792): the OCR of vol. 1's title page does not show his name, so it is not shelved | alternate | not shelved |
 | A Papist Mis-represented catalogued 1665 (impossible: the work dates from 1685); A Miscellany of Devotions (compiled by Furlong); The Key of Heaven (an anthology) | excluded | |
+
+## Ephrem the Syrian (round 38, my pick, 2026-10-18)
+
+Slugs `ephrem-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| Rhythms of Saint Ephrem the Syrian: Select Works of S. Ephrem the Syrian, tr. J. B. Morris, Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII) | have-ocr | IA `selecsep00ephr` |
+| Select Metrical Hymns and Homilies of Ephraem Syrus, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853) | have-ocr | IA `selectmetricalhy00ephr` |
+| The Repentance of Nineveh, a metrical homily on the mission of Jonah, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853) | have-ocr | IA `repentanceofnine00ephr` |
+| S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912) | have-ocr | IA `proserefutations01ephruoft` |
+| Other 1847 copies of Morris (selectedworksofs00ephrrich and four more; one catalogued 1839, the title page reads MDCCCXLVII); other 1853 Burgess copies | alternate | not shelved |
+| The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

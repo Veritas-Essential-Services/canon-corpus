@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:05 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:06 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -890,6 +890,14 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | John Gother | john-gother_shelf.json | none | 2 (A Papist Misrepresented and Represented, from the nineteenth London edition, revised by a Catholic clergyman of Baltimore (Baltimore: Fielding Lucas, Jun'r; title page undated, catalogued 1830); Instructions for Confession, Communion and Confirmation, newly revised and corrected, by Mr. Gother (Liverpool: John Sadler, MDCCLV)) | 1 (A Papist Mis-represented and Represented (1685 tract volume), Instructions for the Whole Year: Lent (1695) and Instructions and Devotions for Hearing Mass (1699): the title pages name no author) | A Papist Mis-represented catalogued 1665 (impossible: the work dates from 1685); A Miscellany of Devotions (compiled by Furlong); The Key of Heaven (an anthology) |
 
 Round 37 closed 2026-10-17 23:10 CDT: 23 shelves, 75 items (all Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. Many of these are early printed books whose OCR garbles the author's name (Caussin, Camus, Bona, de la Puente, Arias, Nieremberg, Leonard of Port Maurice), so each of those title pages was read and is recorded. Pole's Seditious Oration and Gother's 1792 Spiritual Works were dropped to alternates because their title pages are unreadable.
+
+## Round 38: Syriac, Greek and Russian Christian writers in English, before 1930 (my picks)
+
+Twelve authors queued in QUEUE-A.json, each built from title pages read for this round. The Schaff NPNF selections (Ephrem, Aphrahat, John of Damascus, Cassian) are in PR #11 and are not repeated; John of Damascus has no shelf here because his Holy Images (Allies) is on the mh-allies shelf and Barlaam and Ioasaph on singles-medieval-epic. No qualifying pre-1930 English book was found for Aphrahat, Jacob of Serugh, John Climacus, Nilus, Mark the Ascetic, Symeon the New Theologian, Cabasilas, Palamas, Tikhon of Zadonsk, Dimitri of Rostov, Gregory of Narek, Theodore the Studite or Dorotheus; Nerses Shnorhali survives only in the Venice polyglot prayer books. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Ephrem the Syrian | ephrem-the-syrian_shelf.json | none | 4 (Rhythms of Saint Ephrem the Syrian: Select Works of S. Ephrem the Syrian, tr. J. B. Morris, Library of the Fathers (Oxford: John Henry Parker; London: F. and J. Rivington, MDCCCXLVII); Select Metrical Hymns and Homilies of Ephraem Syrus, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); The Repentance of Nineveh, a metrical homily on the mission of Jonah, tr. Henry Burgess (London: Robert B. Blackader; Sampson Low; Berlin: Asher, 1853); S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan, vol. I, published by C. W. Mitchell for the Text and Translation Society (London and Oxford: Williams and Norgate, 1912)) | none | The Schaff NPNF selections and CCEL's Pearl (the same NPNF text); Mitchell's vols I-II in the 1969 Gregg reprint; studies by Rendel Harris and Hamlyn Hill |
 
 ## Paused 2026-10-10 15:12 CDT
 
