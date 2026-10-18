@@ -3001,6 +3001,8 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
 | A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
 | The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
+| A History of Freedom of Thought (1913) |  | `bury-history-of-freedom-of-thought` | have (PG 10684) |
+| The Idea of Progress (1920) |  | `bury-idea-of-progress` | have (PG 4557) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
