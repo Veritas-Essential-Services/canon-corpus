@@ -1,0 +1,61 @@
+{
+ "_about": "John Bates Clark (1847-1938), Columbia economist of marginal productivity: The Distribution of Wealth, a theory of wages, interest and profits (New York: Macmillan, 1899), raw IA OCR (Cornell), clean 0.94; Essentials of Economic Theory (New York: Macmillan, copyright 1907) and Social Justice without Socialism (Boston: Houghton Mifflin, April 1914), clean Gutenberg texts. US public domain (all published before 1931). No uids minted.",
+ "_author": "John Bates Clark",
+ "_name_words": [
+  "john",
+  "bates",
+  "clark"
+ ],
+ "_surname": [
+  "clark"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clark-essentials-economic-theory-1907": [
+   31159,
+   "Essentials of Economic Theory (Macmillan, 1907)"
+  ],
+  "clark-social-justice-without-socialism-1914": [
+   29393,
+   "Social Justice without Socialism (Houghton Mifflin, 1914)"
+  ]
+ },
+ "internet_archive": {
+  "clark-distribution-of-wealth-1899": [
+   "cu31924002609927",
+   "The Distribution of Wealth (Macmillan, 1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "clark-essentials-economic-theory-1907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clark-social-justice-without-socialism-1914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clark-distribution-of-wealth-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
