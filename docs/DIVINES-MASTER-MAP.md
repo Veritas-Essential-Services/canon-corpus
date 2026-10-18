@@ -6459,6 +6459,19 @@ Slugs `dupanloup-*`. Bishop of Orléans, in English.
 | The Ministry of Catechising (London: Griffith Farran Okeden & Welsh; no year, translator's preface dated Christmas 1890) | have-ocr | IA `TheMinistryOfCatechising` |
 | Other copies of each; The Child (Noonan, undated) | alternate | not shelved |
 | Meditations on the Life of the Blessed Virgin (only his letter); Spencer Jones's adaptation; works about him | excluded | |
+
+## Gustave de Ravignan (round 29, my pick, 2026-10-18)
+
+Slugs `ravignan-*`. Jesuit preacher of Notre-Dame, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Life and Institute of the Jesuits, tr. Charles Seager (Philadelphia: W. J. Cunningham, 1845) | have-ocr | IA `lifeandinstitute00raviuoft` |
+| Conferences on the Spiritual Life, tr. Mrs. Abel Ram (London: R. Washbourne, 1873) | have-ocr | IA `ConferencesOnTheSpiritualLife` |
+| Ravignan's Last Retreat, given to the Carmelite Nuns, tr. F. M'Donogh Mahony (London: Burns and Oates; New York: Catholic Publication Society Co.; no year on the title page) | have-ocr | IA `RavignansLastRetreat` |
+| Spiritual Life seventh edition (1913); another Last Retreat copy | alternate | not shelved |
+| Ponlevoy's Life of him | excluded | |
+| French editions with wrong language tags | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

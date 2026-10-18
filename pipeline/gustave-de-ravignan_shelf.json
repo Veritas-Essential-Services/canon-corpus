@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain Gustave Xavier de Ravignan (1795-1858, Jesuit preacher of Notre-Dame) in English for the Word Hoard: On the Life and Institute of the Jesuits, tr. Charles Seager (Philadelphia, 1845), Conferences on the Spiritual Life, tr. Mrs. Abel Ram (London, 1873), and Ravignan's Last Retreat, tr. F. M'Donogh Mahony (no year on the title page), from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ravignan"
+ ],
+ "_surname": [
+  "ravignan",
+  "de ravignan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ravignan-jesuits": [
+   "lifeandinstitute00raviuoft",
+   "On the Life and Institute of the Jesuits, tr. Charles Seager (Philadelphia: W. J. Cunningham, 1845)"
+  ],
+  "ravignan-conferences-spiritual-life": [
+   "ConferencesOnTheSpiritualLife",
+   "Conferences on the Spiritual Life, tr. Mrs. Abel Ram (London: R. Washbourne, 1873)"
+  ],
+  "ravignan-last-retreat": [
+   "RavignansLastRetreat",
+   "Ravignan's Last Retreat, given to the Carmelite Nuns, tr. F. M'Donogh Mahony (London: Burns and Oates; New York: Catholic Publication Society Co.; no year on the title page)"
+  ]
+ },
+ "_alternates": {
+  "ravignan-copies": "Spiritual Life seventh edition (1913); another Last Retreat copy"
+ },
+ "_excluded": {
+  "ravignan-about": "Ponlevoy's Life of him",
+  "ravignan-french": "French editions with wrong language tags"
+ },
+ "_rights_checked": {
+  "ravignan-conferences-spiritual-life": "title page read: 'Translated from the French by MRS. ABEL RAM' (OCR 'MRS.IpVBEL RAJ'), Washbourne, 1873",
+  "ravignan-last-retreat": "title page read: no year; imprimatur of Archbishop Manning (1865-1892) and the Granville Mansions address, so printed before 1930"
+ },
+ "_pending": {
+  "ravignan-clement": "Clement XIII and Clement XIV in English: not found"
+ },
+ "_translators": {
+  "ravignan-jesuits": "seager",
+  "ravignan-last-retreat": "mahony"
+ },
+ "_checks": {
+  "ravignan-jesuits": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ravignan",
+   "translator_claimed": "seager",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ravignan-conferences-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ravignan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the French by MRS. ABEL RAM' (OCR 'MRS.IpVBEL RAJ'), Washbourne, 1873"
+  },
+  "ravignan-last-retreat": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ravignan",
+   "translator_claimed": "mahony",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year; imprimatur of Archbishop Manning (1865-1892) and the Granville Mansions address, so printed before 1930"
+  }
+ }
+}
