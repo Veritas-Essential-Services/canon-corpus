@@ -1,0 +1,57 @@
+{
+ "_about": "Brooks Adams (1848-1927), historian of civilizations: The Emancipation of Massachusetts (first 1887; the etext is the enlarged edition with its 1919 matter); The Law of Civilization and Decay, an essay on history (New York: Macmillan, copyright 1896; the etext is the 1897 edition); The Theory of Social Revolutions (New York: Macmillan, 1913). Clean Gutenberg texts. Not taken: PG 26302, a second copy of The Theory of Social Revolutions. US public domain. No uids minted.",
+ "_author": "Brooks Adams",
+ "_name_words": [
+  "brooks",
+  "adams"
+ ],
+ "_surname": [
+  "adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "brooks-adams-emancipation-of-massachusetts": [
+   6706,
+   "The Emancipation of Massachusetts (1887; enlarged 1919)"
+  ],
+  "brooks-adams-law-civilization-decay-1896": [
+   44908,
+   "The Law of Civilization and Decay (Macmillan, 1896; edition 1897)"
+  ],
+  "brooks-adams-theory-social-revolutions-1913": [
+   10613,
+   "The Theory of Social Revolutions (Macmillan, 1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "brooks-adams-emancipation-of-massachusetts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brooks-adams-law-civilization-decay-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brooks-adams-theory-social-revolutions-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

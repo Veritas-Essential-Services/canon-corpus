@@ -6349,6 +6349,9 @@ Shelf: `pipeline/brooks-adams_shelf.json`. Brooks Adams (1848-1927). Emancipatio
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Emancipation of Massachusetts (1887; enlarged 1919) |  | `brooks-adams-emancipation-of-massachusetts` | have (PG 6706) |
+| The Law of Civilization and Decay (Macmillan, 1896; edition 1897) |  | `brooks-adams-law-civilization-decay-1896` | have (PG 44908) |
+| The Theory of Social Revolutions (Macmillan, 1913) |  | `brooks-adams-theory-social-revolutions-1913` | have (PG 10613) |
 
 ## Charles Horton Cooley (sociology of the self)
 
