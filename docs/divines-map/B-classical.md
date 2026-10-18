@@ -5454,6 +5454,7 @@ Shelf: `pipeline/john-selden_shelf.json`. Table-Talk (1689), Arber's reprint (18
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Table-Talk (1689), ed. Edward Arber, English Reprints no. 6 (London, 1868) |  | `selden-table-talk-arber-1868` | have-raw (IA `tabletalk00arbegoog`) |
 
 ## Sir John Fortescue
 
