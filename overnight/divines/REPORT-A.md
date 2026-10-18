@@ -1378,3 +1378,6 @@
 
 ## 2026-10-17 19:58 CDT — round 29 closed
 - 21 shelves, 102 IA items, all verified; 0 uids minted. Donoso Cortés skipped (lane B's shelf). Round 30 queued (26 shelves, 160 items) and building.
+
+## 2026-10-17 20:25 CDT — ludwig-von-pastor done
+- `pipeline/ludwig-von-pastor_shelf.json`: 0 CCEL, 0 PG, 18 IA. `--verify --record`: 0 mismatched. 0 uids minted.

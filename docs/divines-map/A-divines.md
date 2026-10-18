@@ -6585,3 +6585,31 @@ Slugs `bweiss-*`. Berlin New Testament scholar in Clark's English volumes.
 | Other copies and later issues of the Biblical Theology, Life of Christ and Manual | alternate | not shelved |
 | eccedeusessayson00parkuoft: catalogued as his Life of Christ, actually Parker's Ecce Deus | excluded | |
 | A modern Bernhard Weiss | excluded | |
+
+## Ludwig von Pastor (round 30, my pick, 2026-10-18)
+
+Slugs `pastor-*`. The History of the Popes, vols 1-18 (1891-1929).
+
+| Work | Status | Where |
+|---|---|---|
+| The History of the Popes from the Close of the Middle Ages, vol. 1, ed. Frederick Ignatius Antrobus (London: John Hodges, 1891) | have-ocr | IA `historyofpopesfr01past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 2, ed. Frederick Ignatius Antrobus (London: John Hodges, 1891) | have-ocr | IA `historyofpopesfr02past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 3, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1894) | have-ocr | IA `historyofpopesfr0399past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 4, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1894) | have-ocr | IA `historyofpopesfr0499past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 5, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1898) | have-ocr | IA `historyofpopesfr05pastuoft` |
+| The History of the Popes from the Close of the Middle Ages, vol. 6, ed. Frederick Ignatius Antrobus (London: Kegan Paul, Trench, Trübner, 1898) | have-ocr | IA `historyofpopesfr06pastuoft` |
+| The History of the Popes from the Close of the Middle Ages, vol. 7, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1908) | have-ocr | IA `historyofpopesf07past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 8, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1908) | have-ocr | IA `historyofpopesf08past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 9, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `historyofpopesf09past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 10, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `historyofpopesf10past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 11, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1912) | have-ocr | IA `historyofpopesf11past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 12, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1912) | have-ocr | IA `historyofpopesf12past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 13, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1924) | have-ocr | IA `historyofpopesf13past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 14, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1924) | have-ocr | IA `historyofpopesf14past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 15, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1928) | have-ocr | IA `historyofpopesf15past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 16, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1928) | have-ocr | IA `historyofpopesf16past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 17, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1929) | have-ocr | IA `historyofpopesf17past` |
+| The History of the Popes from the Close of the Middle Ages, vol. 18, ed. Ralph Francis Kerr (London: Kegan Paul, Trench, Trübner, 1929) | have-ocr | IA `historyofpopesf18past` |
+| Second and third editions of vols 1-12 (1899-1923); St. Louis Herder issues | alternate | not shelved |
+| Vols 19-40 (1930-1953) and post-1929 reprints of earlier volumes | excluded | |
+| Cotton's Fasti Ecclesiae Hibernicae, catalogued under Pastor; French and German editions | excluded | |
