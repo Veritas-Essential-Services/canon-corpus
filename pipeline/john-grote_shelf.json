@@ -1,0 +1,49 @@
+{
+ "_about": "John Grote (1813-1866), Knightbridge professor at Cambridge: Exploratio Philosophica, rough notes on modern intellectual science, part I (Cambridge: Deighton, Bell, 1865) and part II, ed. Joseph Bickersteth Mayor (Cambridge: University Press, 1900), raw IA OCR. Not his brother George (grote shelf). US public domain. No uids minted.",
+ "_author": "John Grote",
+ "_name_words": [
+  "john",
+  "grote"
+ ],
+ "_surname": [
+  "grote",
+  "john grote"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-grote-exploratio-philosophica-1865-pt1": [
+   "exploratiophilo01grotuoft",
+   "Exploratio Philosophica, part I (Cambridge: Deighton, Bell, 1865)"
+  ],
+  "john-grote-exploratio-philosophica-1900-pt2": [
+   "exploratiophilos02grot",
+   "Exploratio Philosophica, part II, ed. J. B. Mayor (Cambridge: University Press, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-grote-exploratio-philosophica-1865-pt1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "john-grote-exploratio-philosophica-1900-pt2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grote",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
