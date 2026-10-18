@@ -3560,6 +3560,14 @@
       "finished": "2026-10-17T19:47-05:00",
       "scope": "TRANSLATOR SHELF (round 84, lane C's choice; Adam may veto) -- gibb; PD printings before 1931 only; no minting",
       "notes": "6 titles; ids checked across all branches. See DIGEST-C round 84. No uids minted."
+    },
+    {
+      "id": "shelf-arabic-classics-round85",
+      "status": "done",
+      "started": "2026-10-17T19:51-05:00",
+      "finished": "2026-10-17T19:51-05:00",
+      "scope": "TRANSLATOR SHELF (round 85, lane C's choice; Adam may veto) -- arabic-classics +3; PD printings before 1931 only; no minting",
+      "notes": "3 titles added (13 on the shelf); ids checked across all branches. See DIGEST-C round 85. No uids minted."
     }
   ]
 }

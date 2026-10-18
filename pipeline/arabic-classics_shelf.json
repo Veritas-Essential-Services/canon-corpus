@@ -1,7 +1,10 @@
 {
- "_about": "SHELF of classical Arabic prose in English before 1931 that no other shelf held: de Slane's Ibn Khallikan (4 vols, 1843-71), Sprenger's Mas'udi, Meadows of Gold (1841), Hitti's Usamah (1929) and Baladhuri part I (1916) with Murgotten's part II (1924), and Chenery and Steingass's Assemblies of al-Hariri (1867, 1898). Lane's and Burton's Arabian Nights are on their own shelves. Each title gates on its own translator. Printings before 1931 only; the Beirut reprints of 1964-70 are not used. US public domain. Added 2026-10-17 by lane C (round 71); Adam may veto. No uids minted.",
+ "_about": "SHELF of classical Arabic prose and poetry in English before 1931 that no other shelf held: de Slane's Ibn Khallikan (4 vols, 1843-71), Sprenger's Mas'udi, Meadows of Gold (1841), Hitti's Usamah (1929) and Baladhuri part I (1916) with Murgotten's part II (1924), Chenery and Steingass's Assemblies of al-Hariri (1867, 1898), and, since round 85, Sir William Jones's Moallakat (1782), Ockley's Hai Ebn Yokdhan (1708) and Lyall's Mufaddaliyat (1918). Lane's and Burton's Arabian Nights are on their own shelves. Each title gates on its own translator. Printings before 1931 only; the Beirut reprints of 1964-70 are not used. US public domain. Added 2026-10-17 by lane C (round 71); Adam may veto. No uids minted.",
  "_name_words": [
   "aloys sprenger",
+  "c. j. lyall",
+  "charles james lyall",
+  "charles lyall",
   "chenery",
   "de slane",
   "f. c. murgotten",
@@ -9,19 +12,27 @@
   "francis clark murgotten",
   "francis steingass",
   "hitti",
+  "lyall",
   "mac guckin de slane",
   "macguckin de slane",
   "murgotten",
+  "ockley",
   "philip k. hitti",
   "philip khuri hitti",
+  "simon ockley",
+  "sir william jones",
   "slane",
   "sprenger",
   "steingass",
-  "thomas chenery"
+  "thomas chenery",
+  "william jones"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
  "_surname": [
   "aloys sprenger",
+  "c. j. lyall",
+  "charles james lyall",
+  "charles lyall",
   "chenery",
   "de slane",
   "f. c. murgotten",
@@ -29,15 +40,20 @@
   "francis clark murgotten",
   "francis steingass",
   "hitti",
+  "lyall",
   "mac guckin de slane",
   "macguckin de slane",
   "murgotten",
+  "ockley",
   "philip k. hitti",
   "philip khuri hitti",
+  "simon ockley",
+  "sir william jones",
   "slane",
   "sprenger",
   "steingass",
-  "thomas chenery"
+  "thomas chenery",
+  "william jones"
  ],
  "_surname_by_slug": {
   "arc-ibn-khallikan-1": [
@@ -91,11 +107,30 @@
    "steingass",
    "f. steingass",
    "francis steingass"
+  ],
+  "arc-mufaddaliyat-2": [
+   "lyall",
+   "c. j. lyall",
+   "charles james lyall",
+   "charles lyall"
+  ],
+  "arc-moallakat-jones": [
+   "william jones",
+   "sir william jones"
+  ],
+  "arc-hai-ebn-yokdhan": [
+   "ockley",
+   "simon ockley"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "arc-hai-ebn-yokdhan": [
+   16831,
+   "The Improvement of Human Reason, exhibited in the Life of Hai Ebn Yokdhan"
+  ]
+ },
  "internet_archive": {
   "arc-ibn-khallikan-1": [
    "india.history.resource.41158",
@@ -142,6 +177,16 @@
    "in.ernet.dli.2015.282996",
    "The Assemblies of al-Hariri, vol. II (assemblies 27-50) (1898)",
    "2015.282996.The-Assemblies_djvu.txt"
+  ],
+  "arc-mufaddaliyat-2": [
+   "mufaddaliyatanth00mufauoft",
+   "The Mufaddaliyat: an Anthology of Ancient Arabian Odes, vol. II: Translation and Notes (1918)",
+   "mufaddaliyatanth00mufauoft_djvu.txt"
+  ],
+  "arc-moallakat-jones": [
+   "bim_eighteenth-century_the-moallakt-or-seven-_1782",
+   "The Moallakat, or Seven Arabian Poems, which were suspended on the Temple at Mecca (1782)",
+   "bim_eighteenth-century_the-moallakt-or-seven-_1782_djvu.txt"
   ]
  },
  "titles": {
@@ -227,11 +272,39 @@
    "translator": "F. Steingass",
    "scan_edition": "Royal Asiatic Society, Oriental Translation Fund, new series, London 1898; Digital Library of India scan",
    "note": "Steingass completed the translation Chenery left unfinished at his death in 1884."
+  },
+  "arabic-classics-mufaddaliyat-2": {
+   "source": "arc-mufaddaliyat-2",
+   "of": "al-Mufaddal al-Dabbi's anthology of pre-Islamic odes",
+   "work": "The Mufaddaliyat: an Anthology of Ancient Arabian Odes, vol. II: Translation and Notes",
+   "translated": 1918,
+   "translator": "Charles James Lyall",
+   "scan_edition": "Clarendon Press, Oxford 1918; University of Toronto scan",
+   "note": "Vol. I is the Arabic text and vol. III the indexes."
+  },
+  "arabic-classics-moallakat-jones": {
+   "source": "arc-moallakat-jones",
+   "of": "The Mu'allaqat (the seven suspended odes)",
+   "work": "The Moallakat, or Seven Arabian Poems, which were suspended on the Temple at Mecca",
+   "translated": 1782,
+   "translator": "William Jones",
+   "scan_edition": "J. Nichols for Elmsly, London 1782, first edition (Eighteenth Century Collections scan, long-s OCR)"
+  },
+  "arabic-classics-hai-ebn-yokdhan": {
+   "source": "arc-hai-ebn-yokdhan",
+   "of": "Ibn Tufail",
+   "work": "The Improvement of Human Reason, exhibited in the Life of Hai Ebn Yokdhan",
+   "translated": 1708,
+   "translator": "Simon Ockley",
+   "scan_edition": "Project Gutenberg 16831 (clean text, made from the 1708 edition's images on Gallica)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "arc-lyall-translations": "Lyall's Translations of Ancient Arabian Poetry (1885): the only open scan (in.ernet.dli.2015.50391) is the 1930 reprint, which waits on the 1930 ruling."
+ },
  "_excluded": {
-  "beirut-reprints": "Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used."
+  "beirut-reprints": "Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used.",
+  "arc-lyall-diwans-1913": "Lyall's Diwans of Abid ibn al-Abras and Amir ibn at-Tufail (Gibb Memorial, 1913; diwansofabidibna21abiduoft): the OCR is almost all Arabic and Lyall's name was not found in it, so the English could not be checked."
  },
  "_identity_checked": {
   "arc-hariri-1": {
@@ -239,9 +312,18 @@
   }
  },
  "_checks": {
+  "arc-hai-ebn-yokdhan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ockley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "arc-ibn-khallikan-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "slane",
    "identity": "ok",
@@ -252,7 +334,7 @@
   },
   "arc-ibn-khallikan-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "slane",
    "identity": "ok",
@@ -263,7 +345,7 @@
   },
   "arc-ibn-khallikan-3": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "slane",
    "identity": "ok",
@@ -274,7 +356,7 @@
   },
   "arc-ibn-khallikan-4": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "slane",
    "identity": "ok",
@@ -285,7 +367,7 @@
   },
   "arc-masudi-meadows-of-gold": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "sprenger",
    "identity": "ok",
@@ -296,7 +378,7 @@
   },
   "arc-usamah": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "hitti",
    "identity": "ok",
@@ -307,7 +389,7 @@
   },
   "arc-baladhuri-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "hitti",
    "identity": "ok",
@@ -318,7 +400,7 @@
   },
   "arc-baladhuri-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "murgotten",
    "identity": "ok",
@@ -329,7 +411,7 @@
   },
   "arc-hariri-1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -340,7 +422,7 @@
   },
   "arc-hariri-2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "steingass",
    "identity": "ok",
@@ -348,9 +430,38 @@
    "ia_date": "1898",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "arc-mufaddaliyat-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lyall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918-24",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arc-moallakat-jones": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william jones",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1782",
+   "ia_date": "1782",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
+  "arc-hai-ebn-yokdhan": {
+   "pg": 16831,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
   "arc-ibn-khallikan-1": {
    "ia": "india.history.resource.41158",
    "translator_named_in_first_30k": true,
@@ -371,7 +482,8 @@
    "years_in_front_15k": [],
    "post_1930_years_in_front_15k": [
     2016
-   ]
+   ],
+   "post_1930_examined": "Examined in round 71: 2016 is a digitising note, not an imprint."
   },
   "arc-ibn-khallikan-4": {
    "ia": "india.history.resource.53344",
@@ -381,7 +493,8 @@
    ],
    "post_1930_years_in_front_15k": [
     2016
-   ]
+   ],
+   "post_1930_examined": "Examined in round 71: 2016 is a digitising note, not an imprint."
   },
   "arc-masudi-meadows-of-gold": {
    "ia": "historicalencycl00masrich",
@@ -398,7 +511,8 @@
    ],
    "post_1930_years_in_front_15k": [
     1982
-   ]
+   ],
+   "post_1930_examined": "Examined in round 71: 1982 is a library date stamp. Imprint: 'Copyright 1929, published May 1929'."
   },
   "arc-baladhuri-1": {
    "ia": "originsofislamic01bald",
@@ -419,7 +533,8 @@
    ],
    "post_1930_years_in_front_15k": [
     1934
-   ]
+   ],
+   "post_1930_examined": "Examined in round 71: 1934 is a library date stamp, not the printing (1924)."
   },
   "arc-hariri-1": {
    "ia": "in.ernet.dli.2015.282995",
@@ -439,6 +554,24 @@
     1898
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "arc-mufaddaliyat-2": {
+   "ia": "mufaddaliyatanth00mufauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "arc-moallakat-jones": {
+   "ia": "bim_eighteenth-century_the-moallakt-or-seven-_1782",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "Examined: '22-2000' is a stray OCR line among scanner marks in the front matter, not an imprint. Imprint: London, MDCCLXXXII (1782)."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

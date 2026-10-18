@@ -18352,10 +18352,10 @@ Round 70 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `india-historians-ferishta-4` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. IV | John Briggs | 1829 | have-raw | IA `in.ernet.dli.2015.45583` |
 | — | — | briggs-late-reprints: Reprints of Briggs's Ferishta from 1971 and 1981 (in.ernet.dli.2015.499221, in.ernet.dli.2015.189198): not used. | — | — | excluded | — |
 
-## Shelf: classical Arabic prose in English before 1931: de Slane's Ibn Khallikan (4 vols), Sprenger's Mas'udi, Hitti's Usamah and Baladhuri (with Murgotten), Chenery and Steingass's Assemblies of al-Hariri
+## Shelf: classical Arabic prose and poetry in English before 1931: de Slane's Ibn Khallikan (4 vols), Sprenger's Mas'udi, Hitti's Usamah and Baladhuri (with Murgotten), Chenery and Steingass's Assemblies of al-Hariri, Sir William Jones's Moallakat, Ockley's Hai Ebn Yokdhan, Lyall's Mufaddaliyat
 
 Shelf: `pipeline/arabic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py arabic-classics` · titles `python3 pipeline/split_shelf_titles.py arabic-classics`.
-Round 71 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 71 (2026-10-17), vetoable. Round 85 (2026-10-17), vetoable: three titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -18369,7 +18369,12 @@ Round 71 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `arabic-classics-baladhuri-2` | Al-Baladhuri, Kitab futuh al-buldan | The Origins of the Islamic State, part II | Francis Clark Murgotten | 1924 | have-raw | IA `originsofislamic02bald` |
 | `arabic-classics-hariri-1` | Al-Hariri, the Maqamat | The Assemblies of al-Hariri, vol. I (assemblies 1-26) | Thomas Chenery | 1867 | have-raw | IA `in.ernet.dli.2015.282995` |
 | `arabic-classics-hariri-2` | Al-Hariri, the Maqamat | The Assemblies of al-Hariri, vol. II (assemblies 27-50) | F. Steingass | 1898 | have-raw | IA `in.ernet.dli.2015.282996` |
+| `arabic-classics-mufaddaliyat-2` | al-Mufaddal al-Dabbi's anthology of pre-Islamic odes | The Mufaddaliyat: an Anthology of Ancient Arabian Odes, vol. II: Translation and Notes | Charles James Lyall | 1918 | have-raw | IA `mufaddaliyatanth00mufauoft` |
+| `arabic-classics-moallakat-jones` | The Mu'allaqat (the seven suspended odes) | The Moallakat, or Seven Arabian Poems, which were suspended on the Temple at Mecca | William Jones | 1782 | have-raw | IA `bim_eighteenth-century_the-moallakt-or-seven-_1782` |
+| `arabic-classics-hai-ebn-yokdhan` | Ibn Tufail | The Improvement of Human Reason, exhibited in the Life of Hai Ebn Yokdhan | Simon Ockley | 1708 | have | PG 16831 |
+| `arc-lyall-translations` | — | Lyall's Translations of Ancient Arabian Poetry (1885): the only open scan (in.ernet.dli.2015.50391) is the 1930 reprint, which waits on the 1930 ruling. | — | — | pending | — |
 | — | — | beirut-reprints: Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used. | — | — | excluded | — |
+| — | — | arc-lyall-diwans-1913: Lyall's Diwans of Abid ibn al-Abras and Amir ibn at-Tufail (Gibb Memorial, 1913; diwansofabidibna21abiduoft): the OCR is almost all Arabic and Lyall's name was not found in it, so the English could not be checked. | — | — | excluded | — |
 
 ## Translator shelf: E. A. Wallis Budge's Egyptian, Ethiopic and Syriac translations before 1931: the Book of the Dead, the Egyptian Heaven and Hell, the Liturgy of Funerary Offerings, Amen-em-apt, the Kebra Nagast, the Alexander romances, Bar Hebraeus's Laughable Stories, the Monks of Kublai Khan, the Book of Medicines
 
