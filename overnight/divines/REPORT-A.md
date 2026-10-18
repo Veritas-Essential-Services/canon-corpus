@@ -1921,3 +1921,6 @@
 
 ## 2026-10-17 23:05 CDT — benet-of-canfield done
 - `pipeline/benet-of-canfield_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:05 CDT — gertrude-more done
+- `pipeline/gertrude-more_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

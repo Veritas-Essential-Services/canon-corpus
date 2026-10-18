@@ -9207,6 +9207,16 @@ Slugs `canfield-*`. Built from title pages read for round 37.
 | The Holy Will of God: a short rule of perfection, tr. Father Collins (London: Thomas Richardson & Sons, 1878) | have-ocr | IA `holywillgodasho00fitcgoog` |
 | Two other 1609 issues (title pages garbled); A Bright Starre (third part of the Rule, catalogued 1646, translator garbled); TheHolyWillOfGod (another copy) | alternate | not shelved |
 | The Christian Knight (1619): the title page credits Sir William Wiseman | excluded | |
+
+## Gertrude More (round 37, my pick, 2026-10-18)
+
+Slugs `gmore-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Writings of Dame Gertrude More, revised and edited by Dom Benedict Weld-Blundell (London: R. & T. Washbourne; title page undated, imprimatur 20 December 1910) | have-ocr | IA `thewritingsofdam00moreuoft` |
+| The Spiritual Exercises (catalogued 1658; title page unreadable) | alternate | not shelved |
+| The Inner Life of Dame Gertrude More, vol. I (Augustine Baker's Life of her, a work by another hand); The Holy Practises of a Devine Lover (1657: the title page names no author); Collins's Life (1877) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
