@@ -5789,6 +5789,7 @@ Shelf: `pipeline/ferdinand-lassalle_shelf.json`. Peters' translation of the Arbe
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Working Man's Programme, tr. Edward Peters (London: Modern Press, 1884) | Peters | `lassalle-working-mans-programme-1884` | have-raw (IA `workingmansprogr00lassiala`) |
 
 Pending (wishlist): Open Letter to the National Labor Association of Germany (tr. Ehmann and Bader) in a dated printing
 
