@@ -7809,3 +7809,18 @@ Slugs `plumptre-*`. Built from title pages read for round 33.
 | Aeschylus (PG 53174), Sophocles and Dante: his verse translations, for the translators' lane | alternate | not shelved |
 | King's College Sermons (1859); later Cambridge Bible issues; the New York Ken | alternate | not shelved |
 | 2016 and 1978 reprints of St. James | excluded | |
+
+## Phoebe Palmer (round 33, my pick, 2026-10-18)
+
+Slugs `ppalmer-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Way of Holiness, with Notes by the Way (New York: Piercy and Reed, 1843) | have-ocr | IA `wayofholinesswit00palm` |
+| Recollections and Gathered Fragments of Mrs. Lydia N. Cox (New York: Piercy & Reed, 1845) | have-ocr | IA `recollectionsgat00palm` |
+| Faith and its Effects: or, Fragments from my Portfolio, tenth thousand (New York: for the Author, 1850) | have-ocr | IA `faithitseffectso00palm` |
+| The Useful Disciple; or, a Narrative of Mrs. Mary Gardner (Cincinnati: Swormstedt and Power, 1851) | have-ocr | IA `usefuldiscipleor00palm` |
+| Present to My Christian Friend on Entire Devotion to God, new edition revised (London: Alexander Heylin, 1857) | have-ocr | IA `presenttomychri00palmgoog` |
+| Incidental Illustrations of the Economy of Salvation (New York: Foster and Palmer, 1866) | have-ocr | IA `incidentalillust00palmrich` |
+| Later thousands and the English and Canadian editions of Way of Holiness and Faith and its Effects | alternate | not shelved |
+| The Promise of the Father in a 1985 reprint only; modern reprints; Wheatley's life of her | excluded | |

@@ -1624,3 +1624,6 @@
 
 ## 2026-10-17 21:37 CDT — e-h-plumptre done
 - `pipeline/e-h-plumptre_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for plumptre-life-ken-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — phoebe-palmer done
+- `pipeline/phoebe-palmer_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for ppalmer-way-of-holiness, ppalmer-useful-disciple (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
