@@ -9252,3 +9252,15 @@ Slugs `leonard-*`. Built from title pages read for round 37.
 | Counsels to Confessors, addressed to an assembly of missionary priests (Dublin: James Duffy and Sons, 1875) | have-ocr | IA `counsels-to-confessors` |
 | hiddentreasureo01leongoog (1855) and hiddentreasureo00leongoog (1861); Prendergast's new translation (Dublin: Duffy, title page undated; catalogue's 1895 Sydney imprint is wrong; its Google copy carries a reserved-rights notice) | alternate | not shelved |
 | cihm_91762 (Montreal 1897, extracts from several authors) | excluded | |
+
+## John Gother (round 37, my pick, 2026-10-18)
+
+Slugs `gother-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A Papist Misrepresented and Represented, from the nineteenth London edition, revised by a Catholic clergyman of Baltimore (Baltimore: Fielding Lucas, Jun'r; title page undated, catalogued 1830) | have-ocr | IA `papistmisreprese01goth` |
+| Instructions for Confession, Communion and Confirmation, newly revised and corrected, by Mr. Gother (Liverpool: John Sadler, MDCCLV) | have-ocr | IA `ConfessionCommunionAndConfirmation` |
+| Cincinnati edition of A Papist Misrepresented (catalogued 1860); vols 2-16 of the Spiritual Works (same id stem, not read) | alternate | not shelved |
+| The Spiritual Works of the Rev. John Gother in sixteen volumes (Newcastle: F. Coates; catalogued 1792): the OCR of vol. 1's title page does not show his name, so it is not shelved | alternate | not shelved |
+| A Papist Mis-represented catalogued 1665 (impossible: the work dates from 1685); A Miscellany of Devotions (compiled by Furlong); The Key of Heaven (an anthology) | excluded | |

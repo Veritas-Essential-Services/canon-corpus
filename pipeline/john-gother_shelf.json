@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain John Gother (d. 1704), the English Catholic controversialist and devotional writer, for the Word Hoard: A Papist Misrepresented and Represented (Baltimore, from the nineteenth London edition) and the Instructions for Confession, Communion and Confirmation (Liverpool, 1755), from Internet Archive scans. Gother wrote in English. His 1685-1700 first printings were anonymous and are held as pending. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gother"
+ ],
+ "_surname": [
+  "gother",
+  "john gother",
+  "mr. gother"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gother-papist-misrepresented-baltimore": [
+   "papistmisreprese01goth",
+   "A Papist Misrepresented and Represented, from the nineteenth London edition, revised by a Catholic clergyman of Baltimore (Baltimore: Fielding Lucas, Jun'r; title page undated, catalogued 1830)"
+  ],
+  "gother-instructions-confession-1755": [
+   "ConfessionCommunionAndConfirmation",
+   "Instructions for Confession, Communion and Confirmation, newly revised and corrected, by Mr. Gother (Liverpool: John Sadler, MDCCLV)"
+  ]
+ },
+ "_alternates": {
+  "gother-copies": "Cincinnati edition of A Papist Misrepresented (catalogued 1860); vols 2-16 of the Spiritual Works (same id stem, not read)",
+  "gother-spiritual-works": "The Spiritual Works of the Rev. John Gother in sixteen volumes (Newcastle: F. Coates; catalogued 1792): the OCR of vol. 1's title page does not show his name, so it is not shelved"
+ },
+ "_excluded": {
+  "gother-other": "A Papist Mis-represented catalogued 1665 (impossible: the work dates from 1685); A Miscellany of Devotions (compiled by Furlong); The Key of Heaven (an anthology)"
+ },
+ "_rights_checked": {
+  "gother-papist-misrepresented-baltimore": "title page read: no year on the title page, catalogued 1830"
+ },
+ "_pending": {
+  "gother-anonymous": "A Papist Mis-represented and Represented (1685 tract volume), Instructions for the Whole Year: Lent (1695) and Instructions and Devotions for Hearing Mass (1699): the title pages name no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "gother-papist-misrepresented-baltimore": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gother",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: no year on the title page, catalogued 1830"
+  },
+  "gother-instructions-confession-1755": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gother",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
