@@ -30098,6 +30098,38 @@ Shelf: `pipeline/humphry-ward_shelf.json` (2026-10-17; added at the coordinator'
 | Bessie Costrell | have | PG 22128, `hward-bessie-costrell` (605 units) |
 | repeat-editions | excluded | PG 24898: second Gutenberg editions of titles already on the shelf. |
 
+## Marie Corelli
+
+Shelf: `pipeline/marie-corelli_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Thelma | have | PG 3823, `mcorelli-thelma` (3654 units) |
+| The Secret Power | have | PG 3831, `mcorelli-secret-power` (2141 units) |
+| The Life Everlasting: A Reality of Romance | have | PG 4251, `mcorelli-life-everlasting` (2148 units) |
+| The Master-Christian | have | PG 4285, `mcorelli-master-christian` (3488 units) |
+| Vendetta: A Story of One Forgotten | have | PG 4360, `mcorelli-vendetta` (2286 units) |
+| A Romance of Two Worlds: A Novel | have | PG 4394, `mcorelli-a-romance-of-two-worlds` (1659 units) |
+| God's Good Man: A Simple Love Story | have | PG 4653, `mcorelli-gods-good-man` (3415 units) |
+| Ziska: The Problem of a Wicked Soul | have | PG 5079, `mcorelli-ziska` (1242 units) |
+| Ardath: The Story of a Dead Self | have | PG 5114, `mcorelli-ardath` (2241 units) |
+| Innocent : her fancy and his fact | have | PG 5165, `mcorelli-innocent` (2816 units) |
+| Temporal Power: A Study in Supremacy | have | PG 6921, `mcorelli-temporal-power` (3430 units) |
+| The Treasure of Heaven: A Romance of Riches | have | PG 18449, `mcorelli-treasure-of-heaven` (3343 units) |
+| The Sorrows of Satan or, The Strange Experience of One Geoffrey Tempest, Millionaire: A Romance | have | PG 42332, `mcorelli-sorrows-of-satan` (2337 units) |
+| The Murder of Delicia | have | PG 53097, `mcorelli-murder-of-delicia` (813 units) |
+| Love,—and the Philosopher: A Study in Sentiment | have | PG 59780, `mcorelli-love-and-the-philosopher` (1864 units) |
+| The Devil's Motor: A Fantasy | have | PG 61716, `mcorelli-devils-motor` (51 units) |
+| The Silver Domino; Or, Side Whispers, Social and Literary | have | PG 63446, `mcorelli-silver-domino` (318 units) |
+| My "Little Bit" | have | PG 63621, `mcorelli-my-little-bit` (683 units) |
+| The Strange Visitation | have | PG 64152, `mcorelli-strange-visitation` (589 units) |
+| Free Opinions, Freely Expressed on Certain Phases of Modern Social Life and Conduct | have | PG 66079, `mcorelli-free-opinions-freely-expressed-on-certain-phases-of` (547 units) |
+| The Young Diana: An Experiment of the Future | have | PG 66320, `mcorelli-young-diana` (2287 units) |
+| Boy: A Sketch | have | PG 67113, `mcorelli-boy` (1698 units) |
+| The soul of Lilith | have | PG 68771, `mcorelli-soul-of-lilith` (2422 units) |
+| The passing of the great Queen: A tribute to the noble life of Victoria Regina | have | PG 69023, `mcorelli-passing-of-the-great-queen` (70 units) |
+| A Christmas greeting | have | PG 69600, `mcorelli-a-christmas-greeting` (605 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,367 @@
+{
+ "_about": "Marie Corelli's romances: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Marie Corelli",
+ "_name_words": [
+  "corelli"
+ ],
+ "_surname": [
+  "marie corelli"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mcorelli-thelma": [
+   3823,
+   "Thelma"
+  ],
+  "mcorelli-secret-power": [
+   3831,
+   "The Secret Power"
+  ],
+  "mcorelli-life-everlasting": [
+   4251,
+   "The Life Everlasting: A Reality of Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "mcorelli-master-christian": [
+   4285,
+   "The Master-Christian"
+  ],
+  "mcorelli-vendetta": [
+   4360,
+   "Vendetta: A Story of One Forgotten",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "mcorelli-a-romance-of-two-worlds": [
+   4394,
+   "A Romance of Two Worlds: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "mcorelli-gods-good-man": [
+   4653,
+   "God's Good Man: A Simple Love Story"
+  ],
+  "mcorelli-ziska": [
+   5079,
+   "Ziska: The Problem of a Wicked Soul"
+  ],
+  "mcorelli-ardath": [
+   5114,
+   "Ardath: The Story of a Dead Self"
+  ],
+  "mcorelli-innocent": [
+   5165,
+   "Innocent : her fancy and his fact"
+  ],
+  "mcorelli-temporal-power": [
+   6921,
+   "Temporal Power: A Study in Supremacy"
+  ],
+  "mcorelli-treasure-of-heaven": [
+   18449,
+   "The Treasure of Heaven: A Romance of Riches"
+  ],
+  "mcorelli-sorrows-of-satan": [
+   42332,
+   "The Sorrows of Satan or, The Strange Experience of One Geoffrey Tempest, Millionaire: A Romance"
+  ],
+  "mcorelli-murder-of-delicia": [
+   53097,
+   "The Murder of Delicia"
+  ],
+  "mcorelli-love-and-the-philosopher": [
+   59780,
+   "Love,—and the Philosopher: A Study in Sentiment"
+  ],
+  "mcorelli-devils-motor": [
+   61716,
+   "The Devil's Motor: A Fantasy"
+  ],
+  "mcorelli-silver-domino": [
+   63446,
+   "The Silver Domino; Or, Side Whispers, Social and Literary",
+   {
+    "contents_only": true
+   }
+  ],
+  "mcorelli-my-little-bit": [
+   63621,
+   "My \"Little Bit\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "mcorelli-strange-visitation": [
+   64152,
+   "The Strange Visitation"
+  ],
+  "mcorelli-free-opinions-freely-expressed-on-certain-phases-of": [
+   66079,
+   "Free Opinions, Freely Expressed on Certain Phases of Modern Social Life and Conduct",
+   {
+    "contents_only": true
+   }
+  ],
+  "mcorelli-young-diana": [
+   66320,
+   "The Young Diana: An Experiment of the Future"
+  ],
+  "mcorelli-boy": [
+   67113,
+   "Boy: A Sketch"
+  ],
+  "mcorelli-soul-of-lilith": [
+   68771,
+   "The soul of Lilith"
+  ],
+  "mcorelli-passing-of-the-great-queen": [
+   69023,
+   "The passing of the great Queen: A tribute to the noble life of Victoria Regina"
+  ],
+  "mcorelli-a-christmas-greeting": [
+   69600,
+   "A Christmas greeting"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mcorelli-thelma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-secret-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-life-everlasting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-master-christian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-vendetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-a-romance-of-two-worlds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-gods-good-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-ziska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-ardath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-innocent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-temporal-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-treasure-of-heaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-sorrows-of-satan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-murder-of-delicia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-love-and-the-philosopher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-devils-motor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-silver-domino": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-my-little-bit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-strange-visitation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-free-opinions-freely-expressed-on-certain-phases-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-young-diana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-soul-of-lilith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-passing-of-the-great-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcorelli-a-christmas-greeting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "marie corelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
