@@ -1756,3 +1756,6 @@
 
 ## 2026-10-17 22:27 CDT — a-n-mouravieff done
 - `pipeline/a-n-mouravieff_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — william-palmer-of-worcester done
+- `pipeline/william-palmer-of-worcester_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.

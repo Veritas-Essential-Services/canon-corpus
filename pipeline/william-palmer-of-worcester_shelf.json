@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain William Palmer of Worcester College (1803-1885), Oxford Movement liturgist and theologian, for the Word Hoard: A Treatise on the Church of Christ (1838, two volumes), Origines Liturgicae (third edition, 1839, two volumes), his replies to Wiseman (1840 and 1842), the Narrative of Events connected with the Tracts for the Times (second edition, 1843) and The Doctrine of Development and Conscience (1846), from Internet Archive scans. Not William Palmer of Magdalen, who has his own shelf. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "palmer"
+ ],
+ "_surname": [
+  "william palmer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wpalmerw-treatise-church-1": [
+   "treatiseonchur01palm",
+   "A Treatise on the Church of Christ, designed chiefly for the use of students in theology, vol. I (London: J. G. & F. Rivington, 1838)"
+  ],
+  "wpalmerw-treatise-church-2": [
+   "treatiseonchur02palm",
+   "A Treatise on the Church of Christ, vol. II (London: J. G. & F. Rivington, 1838)"
+  ],
+  "wpalmerw-origines-1": [
+   "originesliturgic01palmiala",
+   "Origines Liturgicae, or Antiquities of the English Ritual, third edition, vol. I (Oxford: at the University Press, 1839)"
+  ],
+  "wpalmerw-origines-2": [
+   "originesliturgic02palmiala",
+   "Origines Liturgicae, third edition, vol. II (Oxford: at the University Press, 1839)"
+  ],
+  "wpalmerw-apostolical-jurisdiction": [
+   "a601366700palmuoft",
+   "The Apostolical Jurisdiction and Succession of the Episcopacy in the British Churches vindicated against the objections of Dr. Wiseman (London: J. G. F. & J. Rivington, 1840)"
+  ],
+  "wpalmerw-letters-wiseman": [
+   "a602976500palmuoft",
+   "Letters to N. Wiseman, D.D., on the Errors of Romanism, with a Supplement (Oxford: John Henry Parker; London: Rivington, 1842)"
+  ],
+  "wpalmerw-narrative-tracts": [
+   "a602990500palmuoft",
+   "A Narrative of Events connected with the Publication of the Tracts for the Times, second edition (Oxford: Parker; London: Burns and Rivington, 1843)"
+  ],
+  "wpalmerw-doctrine-development": [
+   "thedoctrineofdev00palmuoft",
+   "The Doctrine of Development and Conscience considered in relation to the Evidences of Christianity (London: Francis & John Rivington, 1846)"
+  ]
+ },
+ "_alternates": {
+  "wpalmerw-copies": "Origines Liturgicae fourth edition (1845) and an undated copy catalogued 1832; the Treatise third edition (1842) and New York 1841; A Compendious Ecclesiastical History (1840, title page truncated)"
+ },
+ "_excluded": {
+  "wpalmerw-misattributed": "An Introduction to Early Christian Symbolism (1859), catalogued under him but by Palmer of Magdalen"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wpalmerw-treatise-church-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-treatise-church-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-origines-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "c1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-origines-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "c1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-apostolical-jurisdiction": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-letters-wiseman": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-narrative-tracts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerw-doctrine-development": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

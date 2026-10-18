@@ -8440,3 +8440,20 @@ Slugs `-*`. Built from title pages read for round 35.
 | A History of the Church of Russia, tr. R. W. Blackmore (Oxford: John Henry Parker; London: Rivingtons, 1842) | have-ocr | IA `historyofchurcho00mouriala` |
 | The London issue (Joseph Masters, 1842) and another Oxford copy; Neale's Voices from the East (1859), whose first six essays are Mouravieff's, though the title page does not name him | alternate | not shelved |
 | The 1971 AMS reprint; French editions; Boris Mouravieff, a different author | excluded | |
+
+## William Palmer of Worcester (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the Church of Christ, designed chiefly for the use of students in theology, vol. I (London: J. G. & F. Rivington, 1838) | have-ocr | IA `treatiseonchur01palm` |
+| A Treatise on the Church of Christ, vol. II (London: J. G. & F. Rivington, 1838) | have-ocr | IA `treatiseonchur02palm` |
+| Origines Liturgicae, or Antiquities of the English Ritual, third edition, vol. I (Oxford: at the University Press, 1839) | have-ocr | IA `originesliturgic01palmiala` |
+| Origines Liturgicae, third edition, vol. II (Oxford: at the University Press, 1839) | have-ocr | IA `originesliturgic02palmiala` |
+| The Apostolical Jurisdiction and Succession of the Episcopacy in the British Churches vindicated against the objections of Dr. Wiseman (London: J. G. F. & J. Rivington, 1840) | have-ocr | IA `a601366700palmuoft` |
+| Letters to N. Wiseman, D.D., on the Errors of Romanism, with a Supplement (Oxford: John Henry Parker; London: Rivington, 1842) | have-ocr | IA `a602976500palmuoft` |
+| A Narrative of Events connected with the Publication of the Tracts for the Times, second edition (Oxford: Parker; London: Burns and Rivington, 1843) | have-ocr | IA `a602990500palmuoft` |
+| The Doctrine of Development and Conscience considered in relation to the Evidences of Christianity (London: Francis & John Rivington, 1846) | have-ocr | IA `thedoctrineofdev00palmuoft` |
+| Origines Liturgicae fourth edition (1845) and an undated copy catalogued 1832; the Treatise third edition (1842) and New York 1841; A Compendious Ecclesiastical History (1840, title page truncated) | alternate | not shelved |
+| An Introduction to Early Christian Symbolism (1859), catalogued under him but by Palmer of Magdalen | excluded | |
