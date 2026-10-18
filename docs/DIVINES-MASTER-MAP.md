@@ -9323,6 +9323,17 @@ Slugs `marga-*`. Built from title pages read for round 38.
 | The Book of Governors: the Historia Monastica of Thomas, Bishop of Marga, vol. II, The English Translation, edited by E. A. Wallis Budge (London: Kegan Paul, Trench, Trübner, 1893) | have-ocr | IA `bookofgovernorsh0002thom` |
 | Four other copies of vol. II (the Google ids' numbers do not match their volumes) | alternate | not shelved |
 | Vol. I (Syriac text); Bedjan's Syriac edition (1901) | excluded | |
+
+## Palladius (round 38, my pick, 2026-10-18)
+
+Slugs `palladius-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lausiac History of Palladius, tr. W. K. Lowther Clarke, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1918) | have-ocr | IA `lausiachistoryof00palluoft` |
+| The Dialogue of Palladius concerning the Life of Chrysostom, by Herbert Moore, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921) | have-ocr | IA `dialogueofpallad0000unse` |
+| Other copies of Clarke 1918 and Moore 1921 | alternate | not shelved |
+| Budge's Paradise or Garden of the Holy Fathers (1907) and Book of Paradise (1904): their title pages credit Athanasius, Palladius, Jerome and others, so they are many-author compilations, held for Adam's ruling | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
