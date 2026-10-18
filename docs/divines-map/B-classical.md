@@ -7034,6 +7034,11 @@ Shelf: `pipeline/edward-burnett-tylor_shelf.json`. Five volumes, 1861-1881.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Primitive Culture, vol. 1 |  | `tylor-primitive-culture-v1` | have (PG 70458) |
+| Primitive Culture, vol. 2 |  | `tylor-primitive-culture-v2` | have (PG 70484) |
+| Anthropology |  | `tylor-anthropology` | have (PG 71233) |
+| Anahuac: or, Mexico and the Mexicans |  | `tylor-anahuac` | have (PG 13115) |
+| Researches into the Early History of Mankind (Murray, 1865) |  | `tylor-researches-early-history-mankind-1865` | have-raw (IA `researchesintoea00tylorich`) |
 
 ## Perseus census (overflow)
 
