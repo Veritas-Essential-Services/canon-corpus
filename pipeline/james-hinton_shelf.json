@@ -1,0 +1,78 @@
+{
+ "_about": "James Hinton (1822-1875), aural surgeon and speculative philosopher. Raw IA OCR: The Mystery of Pain, a book for the sorrowful (London: Smith, Elder, 1866), clean 0.94; Man and his Dwelling Place, an essay towards the interpretation of nature, new edition revised (London: Smith, Elder, 1872), clean 0.93; Chapters on the Art of Thinking and other essays, with an introduction by Shadworth H. Hodgson, edited by C. H. Hinton (London: Kegan Paul, 1879), clean 0.91; The Law-Breaker and the Coming of the Law, edited by Margaret Hinton (London: Kegan Paul, 1884), clean 0.90. Not taken: a second copy of The Mystery of Pain (Kegan Paul new edition, 1882). His son C. H. Hinton, the writer on the fourth dimension, is a separate author. US public domain. No uids minted.",
+ "_author": "James Hinton",
+ "_name_words": [
+  "james",
+  "hinton"
+ ],
+ "_surname": [
+  "hinton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hinton-mystery-of-pain-1866": [
+   "39002011212827.med.yale.edu",
+   "The Mystery of Pain (Smith, Elder, 1866)"
+  ],
+  "hinton-man-and-his-dwelling-place-1872": [
+   "manhisdwellingpl00hintiala",
+   "Man and his Dwelling Place, new ed. (Smith, Elder, 1872)"
+  ],
+  "hinton-chapters-art-of-thinking-1879": [
+   "chaptersonartth00hintgoog",
+   "Chapters on the Art of Thinking (Kegan Paul, 1879)"
+  ],
+  "hinton-law-breaker-1884": [
+   "lawbreakerandco00hintgoog",
+   "The Law-Breaker and the Coming of the Law (Kegan Paul, 1884)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hinton-mystery-of-pain-1866": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hinton-man-and-his-dwelling-place-1872": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hinton-chapters-art-of-thinking-1879": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hinton-law-breaker-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hinton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

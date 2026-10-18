@@ -6578,6 +6578,10 @@ Shelf: `pipeline/james-hinton_shelf.json`. Surgeon-philosopher; four books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Mystery of Pain (Smith, Elder, 1866) |  | `hinton-mystery-of-pain-1866` | have-raw (IA `39002011212827.med.yale.edu`) |
+| Man and his Dwelling Place, new ed. (Smith, Elder, 1872) |  | `hinton-man-and-his-dwelling-place-1872` | have-raw (IA `manhisdwellingpl00hintiala`) |
+| Chapters on the Art of Thinking (Kegan Paul, 1879) |  | `hinton-chapters-art-of-thinking-1879` | have-raw (IA `chaptersonartth00hintgoog`) |
+| The Law-Breaker and the Coming of the Law (Kegan Paul, 1884) |  | `hinton-law-breaker-1884` | have-raw (IA `lawbreakerandco00hintgoog`) |
 
 Pending (wishlist): Selections from Manuscripts (1870-74, 4 vols.); Life in Nature (1862)
 
