@@ -7425,6 +7425,21 @@ Shelf: `pipeline/havelock-ellis_shelf.json`. Fifteen volumes, 1890-1923.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The New Spirit (third edition) |  | `ellis-new-spirit` | have (PG 55878) |
+| The Criminal (1890) |  | `ellis-criminal` | have (PG 44500) |
+| Affirmations (1898) |  | `ellis-affirmations` | have (PG 76076) |
+| Studies in the Psychology of Sex, vol. 1 |  | `ellis-psychology-of-sex-1` | have (PG 13610) |
+| Studies in the Psychology of Sex, vol. 2 |  | `ellis-psychology-of-sex-2` | have (PG 13611) |
+| Studies in the Psychology of Sex, vol. 3 |  | `ellis-psychology-of-sex-3` | have (PG 13612) |
+| Studies in the Psychology of Sex, vol. 4 |  | `ellis-psychology-of-sex-4` | have (PG 13613) |
+| Studies in the Psychology of Sex, vol. 5 |  | `ellis-psychology-of-sex-5` | have (PG 13614) |
+| Studies in the Psychology of Sex, vol. 6 |  | `ellis-psychology-of-sex-6` | have (PG 13615) |
+| The World of Dreams (1911) |  | `ellis-world-of-dreams` | have (PG 59214) |
+| The Task of Social Hygiene (1912) |  | `ellis-task-of-social-hygiene` | have (PG 22090) |
+| Impressions and Comments (1914) |  | `ellis-impressions-and-comments` | have (PG 8125) |
+| Essays in War-Time (1916) |  | `ellis-essays-in-war-time` | have (PG 9887) |
+| Little Essays of Love and Virtue (1922) |  | `ellis-little-essays-love-virtue` | have (PG 15687) |
+| The Dance of Life (1923) |  | `ellis-dance-of-life` | have (PG 65714) |
 
 ## Perseus census (overflow)
 

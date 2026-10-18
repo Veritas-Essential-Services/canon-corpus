@@ -1,0 +1,213 @@
+{
+ "_about": "Havelock Ellis (1859-1939), English psychologist, essayist and philosopher of culture. Gutenberg: The New Spirit (third edition); The Criminal (1890); Affirmations (1898); Studies in the Psychology of Sex, vol. 1; Studies in the Psychology of Sex, vol. 2; Studies in the Psychology of Sex, vol. 3; Studies in the Psychology of Sex, vol. 4; Studies in the Psychology of Sex, vol. 5; Studies in the Psychology of Sex, vol. 6; The World of Dreams (1911); The Task of Social Hygiene (1912); Impressions and Comments (1914); Essays in War-Time (1916); Little Essays of Love and Virtue (1922); The Dance of Life (1923). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Havelock Ellis",
+ "_name_words": [
+  "havelock",
+  "ellis"
+ ],
+ "_surname": [
+  "havelock ellis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ellis-new-spirit": [
+   55878,
+   "The New Spirit (third edition)"
+  ],
+  "ellis-criminal": [
+   44500,
+   "The Criminal (1890)"
+  ],
+  "ellis-affirmations": [
+   76076,
+   "Affirmations (1898)"
+  ],
+  "ellis-psychology-of-sex-1": [
+   13610,
+   "Studies in the Psychology of Sex, vol. 1"
+  ],
+  "ellis-psychology-of-sex-2": [
+   13611,
+   "Studies in the Psychology of Sex, vol. 2"
+  ],
+  "ellis-psychology-of-sex-3": [
+   13612,
+   "Studies in the Psychology of Sex, vol. 3"
+  ],
+  "ellis-psychology-of-sex-4": [
+   13613,
+   "Studies in the Psychology of Sex, vol. 4"
+  ],
+  "ellis-psychology-of-sex-5": [
+   13614,
+   "Studies in the Psychology of Sex, vol. 5"
+  ],
+  "ellis-psychology-of-sex-6": [
+   13615,
+   "Studies in the Psychology of Sex, vol. 6"
+  ],
+  "ellis-world-of-dreams": [
+   59214,
+   "The World of Dreams (1911)"
+  ],
+  "ellis-task-of-social-hygiene": [
+   22090,
+   "The Task of Social Hygiene (1912)"
+  ],
+  "ellis-impressions-and-comments": [
+   8125,
+   "Impressions and Comments (1914)"
+  ],
+  "ellis-essays-in-war-time": [
+   9887,
+   "Essays in War-Time (1916)"
+  ],
+  "ellis-little-essays-love-virtue": [
+   15687,
+   "Little Essays of Love and Virtue (1922)"
+  ],
+  "ellis-dance-of-life": [
+   65714,
+   "The Dance of Life (1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ellis-new-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-criminal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-affirmations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-psychology-of-sex-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-world-of-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-task-of-social-hygiene": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-impressions-and-comments": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-essays-in-war-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-little-essays-love-virtue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ellis-dance-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "havelock ellis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
