@@ -4396,6 +4396,10 @@ Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from
 | The Concept of Nature (Tarner Lectures, 1920) |  | `whitehead-concept-of-nature-1920` | have (PG 18835) |
 | Science and the Modern World (New York: Macmillan, 1925) |  | `whitehead-science-and-the-modern-world-1925` | have (PG 68611) |
 | Symbolism, its Meaning and Effect (New York: Macmillan, 1927) |  | `whitehead-symbolism-1927` | have (PG 78977) |
+| Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90) |  | `whitehead-process-and-reality-1929` | have-raw (IA `processrealityes00whit_1`) |
+| Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92) |  | `whitehead-religion-in-the-making-1926` | have-raw (IA `religioninmaking00whit`) |
+| An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89) |  | `whitehead-enquiry-natural-knowledge-1919` | have-raw (IA `anenquiryconcern00whituoft`) |
+| The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85) |  | `whitehead-principle-of-relativity-1922` | have-raw (IA `theprincipleofre00whituoft`) |
 
 Pending (wishlist): An Introduction to Mathematics (1911) in a dated printing
 
