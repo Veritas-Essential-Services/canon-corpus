@@ -185,6 +185,10 @@
   "wscott-life-of-napoleon-bonaparte-volume-v": [
    48841,
    "Life of Napoleon Bonaparte, Volume V."
+  ],
+  "wscott-chronicles-of-the-canongate-1st-series": [
+   1828,
+   "Chronicles of the Canongate, 1st Series"
   ]
  },
  "internet_archive": {},
@@ -558,6 +562,15 @@
    "pg_translator": null
   },
   "wscott-life-of-napoleon-bonaparte-volume-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscott-chronicles-of-the-canongate-1st-series": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
