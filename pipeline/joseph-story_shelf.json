@@ -1,5 +1,5 @@
 {
- "_about": "Joseph Story (1779-1845), Associate Justice of the US Supreme Court: Commentaries on the Constitution of the United States, first edition, 3 vols. (Boston: Hilliard, Gray; Cambridge: Brown, Shattuck, 1833), raw IA OCR from the New York Public Library copies, clean 0.88, 0.88 and 0.88. US public domain. No uids minted.",
+ "_about": "Joseph Story (1779-1845), Associate Justice of the US Supreme Court: Commentaries on the Constitution of the United States, first edition, 3 vols. (Boston: Hilliard, Gray; Cambridge: Brown, Shattuck, 1833), raw IA OCR from the New York Public Library copies, clean 0.88, 0.88 and 0.88. US public domain. Added in round 2026-10-17bg: Commentaries on the Conflict of Laws, Foreign and Domestic, first edition (Boston: Hilliard, Gray, 1834; the OCR misreads the title-page year as 1884), raw IA OCR, clean 0.83. No uids minted.",
  "_author": "Joseph Story",
  "_name_words": [
   "joseph",
@@ -22,6 +22,10 @@
   "story-commentaries-constitution-1833-v3": [
    "commentariesonco03stor",
    "Commentaries on the Constitution of the United States, vol. III (1833)"
+  ],
+  "story-conflict-of-laws-1834": [
+   "commentariesonc17storgoog",
+   "Commentaries on the Conflict of Laws, first edition (Hilliard, Gray, 1834)"
   ]
  },
  "_excluded": {},
@@ -56,6 +60,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1833",
    "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "story-conflict-of-laws-1834": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "story",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
