@@ -1,5 +1,5 @@
 {
- "_about": "James Martineau (1805-1900), philosopher of religion: A Study of Religion, its sources and contents, American edition revised by the author (Oxford: Clarendon Press; New York: Macmillan, 1888, 2 vols.), raw IA OCR. US public domain. No uids minted.",
+ "_about": "James Martineau (1805-1900), philosopher of religion: A Study of Religion, its sources and contents, American edition revised by the author (Oxford: Clarendon Press; New York: Macmillan, 1888, 2 vols.), raw IA OCR. Added in round ak: Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885); Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885). US public domain. No uids minted.",
  "_author": "James Martineau",
  "_name_words": [
   "james",
@@ -19,6 +19,14 @@
   "martineau-study-of-religion-1888-v2": [
    "studyreligionsourc02mart",
    "A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888)"
+  ],
+  "martineau-types-of-ethical-theory-1885-v1": [
+   "ethicaltheory01martiala",
+   "Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885)"
+  ],
+  "martineau-types-of-ethical-theory-1885-v2": [
+   "typesofethicalth02martuoft",
+   "Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885)"
   ]
  },
  "_excluded": {},
@@ -42,6 +50,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1888",
    "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martineau-types-of-ethical-theory-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martineau-types-of-ethical-theory-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
