@@ -1372,3 +1372,8 @@
 - james-mark-baldwin +5; History of Psychology and Elements of Psychology held, undated scans
 - george-trumbull-ladd +12 (1895-1918)
 - g-e-moore: Ethics (1912) held, undated scans
+
+## 2026-10-17 23:23 CDT — Round cn: Ancient Classics for English Readers
+- ancient-classics-for-english-readers (new series shelf): 27 vols 1870-1879, Homer to Pindar
+- Trollope's Caesar left on trollope-works
+- Aeschylus title check weak (printed Æschylus); author and imprint read on scan

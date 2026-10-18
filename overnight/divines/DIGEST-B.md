@@ -281,3 +281,4 @@
 - 23:10 round ck: Dewey +9; 1930 rights-check audit fixed 3 lane B entries.
 - 23:13 cl: Henry Sidgwick +9
 - 23:17 cm: Alexander +1, Perry +3, Baldwin +5, Ladd +12
+- 23:23 cn: Ancient Classics for English Readers, 27 vols
