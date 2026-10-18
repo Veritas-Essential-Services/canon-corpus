@@ -1,5 +1,5 @@
 {
- "_about": "Hugo Münsterberg (1863-1916) as philosopher: The Eternal Values (Boston: Houghton Mifflin, 1909), raw IA OCR. His psychology books on Gutenberg are not taken here. Added in round ab: Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906). US public domain. No uids minted.",
+ "_about": "Hugo Münsterberg (1863-1916) as philosopher: The Eternal Values (Boston: Houghton Mifflin, 1909), raw IA OCR. His psychology books on Gutenberg are not taken here. Added in round ab: Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906). US public domain. Added in round 2026-10-18bx: five Gutenberg books, Psychotherapy, Psychology and Social Sanity, Psychology and Industrial Efficiency, The Photoplay, and The Americans in Holt's translation. No uids minted.",
  "_author": "Hugo Münsterberg",
  "_name_words": [
   "hugo",
@@ -11,7 +11,28 @@
   "münsterberg"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "munsterberg-psychotherapy": [
+   22775,
+   "Psychotherapy (1909)"
+  ],
+  "munsterberg-psychology-and-social-sanity": [
+   25006,
+   "Psychology and Social Sanity (1914)"
+  ],
+  "munsterberg-psychology-industrial-efficiency": [
+   15154,
+   "Psychology and Industrial Efficiency (1913)"
+  ],
+  "munsterberg-photoplay": [
+   15383,
+   "The Photoplay: A Psychological Study (1916)"
+  ],
+  "munsterberg-the-americans": [
+   56376,
+   "The Americans (tr. Edwin B. Holt, 1904)"
+  ]
+ },
  "internet_archive": {
   "munsterberg-eternal-values-1909": [
    "eternalvalues00muns",
@@ -24,9 +45,57 @@
  },
  "_excluded": {},
  "_checks": {
+  "munsterberg-psychotherapy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "münsterberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "munsterberg-psychology-and-social-sanity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "münsterberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "munsterberg-psychology-industrial-efficiency": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "münsterberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "munsterberg-photoplay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "münsterberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "munsterberg-the-americans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "münsterberg",
+   "translator_claimed": "Edwin B. Holt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin B. Holt",
+   "translator_match": true
+  },
   "munsterberg-eternal-values-1909": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "munsterberg",
    "identity": "ok",
@@ -37,7 +106,7 @@
   },
   "munsterberg-science-and-idealism-1906": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "munsterberg",
    "identity": "ok",
@@ -46,5 +115,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_translators": {
+  "munsterberg-the-americans": "Edwin B. Holt"
  }
 }

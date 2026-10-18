@@ -5167,6 +5167,11 @@ Shelf: `pipeline/hugo-munsterberg_shelf.json`. Philosophy of values.
 |---|---|---|---|
 | The Eternal Values (Boston: Houghton Mifflin, 1909) |  | `munsterberg-eternal-values-1909` | have-raw (IA `eternalvalues00muns`) |
 | Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906) |  | `munsterberg-science-and-idealism-1906` | have-raw (IA `scienceandideali00meunuoft`) |
+| Psychotherapy (1909) |  | `munsterberg-psychotherapy` | have (PG 22775) |
+| Psychology and Social Sanity (1914) |  | `munsterberg-psychology-and-social-sanity` | have (PG 25006) |
+| Psychology and Industrial Efficiency (1913) |  | `munsterberg-psychology-industrial-efficiency` | have (PG 15154) |
+| The Photoplay: A Psychological Study (1916) |  | `munsterberg-photoplay` | have (PG 15383) |
+| The Americans (tr. Edwin B. Holt, 1904) | Edwin B. Holt | `munsterberg-the-americans` | have (PG 56376) |
 
 ## Edwin B. Holt
 
