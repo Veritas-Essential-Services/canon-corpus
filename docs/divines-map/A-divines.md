@@ -6243,3 +6243,18 @@ Slugs `knox-little-*`. Anglo-Catholic preacher; written in English.
 | Sacerdotalism, if rightly understood, the teaching of the Church of England (London: Longmans, Green, 1894) | have-ocr | IA `sacerdotalismifr00littrich` |
 | Mystery of the Passion second edition (1882); Characteristics third and fourth editions; Light of Life new edition (1892); Sermons preached in Manchester (1892) | alternate | not shelved |
 | PG 37501 and PG 11693: anthologies of many preachers | excluded | |
+
+## Arthur James Mason (round 28, my pick, 2026-10-18)
+
+Slugs `ajmason-*`. Cambridge divinity professor; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Faith of the Gospel: a Manual of Christian Doctrine (London: Rivingtons, MDCCCLXXXVIII) | have-ocr | IA `faithgospelaman00masogoog` |
+| The Relation of Confirmation to Baptism (London: Longmans, Green, 1891) | have-ocr | IA `relationofconfir00maso` |
+| The Conditions of Our Lord's Life on Earth, Bishop Paddock Lectures (London: Longmans, Green, 1896) | have-ocr | IA `conditionsofourl00masoiala` |
+| The Principles of Ecclesiastical Unity (London: Longmans, Green, 1896) | have-ocr | IA `principlesofeccl00maso` |
+| Purgatory; The State of the Faithful Departed; Invocation of Saints (London: Longmans, Green, 1901) | have-ocr | IA `purgatorystateof00maso` |
+| The Ministry of Conversion, Handbooks for the Clergy (London: Longmans, Green, 1902) | have-ocr | IA `bwb_T5-ARI-981` |
+| Faith of the Gospel (Rivingtons and Dutton, 1888); Confirmation second edition (1893); other 1896 and 1901 copies; Ministry of Conversion second impression | alternate | not shelved |
+| Eugene Mason, the translator, on his own shelf | excluded | |
