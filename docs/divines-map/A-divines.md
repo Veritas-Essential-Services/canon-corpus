@@ -9226,3 +9226,17 @@ Slugs `camus-*`. Built from title pages read for round 37.
 | The Loving Enemy, a famous true history, tr. Major Wright (catalogued 1667) | have-ocr | IA `bim_early-english-books-1475-1640_the-loving-enemy-_camus-jean-pierre-bp_1667` |
 | Admirable Events (1639, the Abel Roper issue, and admirableeuentss00camu); Diotrephe (1641), Nature's Paradox (1652), Elise (1655), A True Tragical History (1677) and Forced Marriage (1678): title pages unreadable | alternate | not shelved |
 | The Spirit of St Francis de Sales (PG 9184, all copies) and The Beauties of St Francis de Sales (1829), selections from the same work; they belong with the Francis de Sales shelf | excluded | |
+
+## Juan Eusebio Nieremberg (round 37, my pick, 2026-10-18)
+
+Slugs `nieremberg-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise of the Difference betwixt the Temporal and Eternal, tr. Sir Vivian Mullineaux (printed in the year 1672) | have-ocr | IA `bim_early-english-books-1641-1700_a-treatise-of-the-differ_nieremberg-juan-eusebi_1672` |
+| A Meditation of Life and Death, translated with some alterations out of the works of Eusebius Nierembergius (Oxford: L. L. for Tho. Fickus, 1682) | have-ocr | IA `bim_early-english-books-1641-1700_a-meditation-of-life-and_nieremberg-juan-eusebio_1682` |
+| A Treatise on the Difference between Temporal and Eternal, the eleventh edition (Dublin: James Duffy, 1857) | have-ocr | IA `treatiseondiffer0000reve` |
+| The Difference between Temporal and Eternal, tr. Sir Vivian Molyneux, revised by Matthew Russell, S.J. (Dublin: James Duffy and Co.; title page undated, catalogued 1884) | have-ocr | IA `thedifferencebet00nieruoft` |
+| Of Adoration in Spirit and Truth, the old English translation, new edition, Quarterly Series vol. 50 (London: Burns and Oates, 1885) | have-ocr | IA `ofadorationinspi0000unse` |
+| Of Adoration in Spirit and Truth (1673, title page illegible); Cummiskey's Philadelphia edition (catalogued 1833, title page not read) | alternate | not shelved |
+| Prudential Reflections (1674: the title page does not name him); Contemplations of the State of Man (the title page credits Jeremy Taylor); Scheeben's Glories of Divine Grace; Lady Lovat's Marvels of Divine Grace (based on him) | excluded | |

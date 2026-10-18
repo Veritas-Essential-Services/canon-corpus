@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain Juan Eusebio Nieremberg (1595-1658), Spanish Jesuit, for the Word Hoard: A Treatise of the Difference betwixt the Temporal and Eternal in Sir Vivian Mullineaux's translation (1672; Dublin eleventh edition 1857; and Matthew Russell's revision), A Meditation of Life and Death (Oxford, 1682) and Of Adoration in Spirit and Truth in the old English translation (1885), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nieremberg"
+ ],
+ "_surname": [
+  "nieremberg",
+  "eusebius nieremberg",
+  "nierembergius",
+  "john eusebius nieremberg"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nieremberg-temporal-eternal-1672": [
+   "bim_early-english-books-1641-1700_a-treatise-of-the-differ_nieremberg-juan-eusebi_1672",
+   "A Treatise of the Difference betwixt the Temporal and Eternal, tr. Sir Vivian Mullineaux (printed in the year 1672)"
+  ],
+  "nieremberg-meditation-life-death-1682": [
+   "bim_early-english-books-1641-1700_a-meditation-of-life-and_nieremberg-juan-eusebio_1682",
+   "A Meditation of Life and Death, translated with some alterations out of the works of Eusebius Nierembergius (Oxford: L. L. for Tho. Fickus, 1682)"
+  ],
+  "nieremberg-temporal-eternal-1857": [
+   "treatiseondiffer0000reve",
+   "A Treatise on the Difference between Temporal and Eternal, the eleventh edition (Dublin: James Duffy, 1857)"
+  ],
+  "nieremberg-temporal-eternal-russell": [
+   "thedifferencebet00nieruoft",
+   "The Difference between Temporal and Eternal, tr. Sir Vivian Molyneux, revised by Matthew Russell, S.J. (Dublin: James Duffy and Co.; title page undated, catalogued 1884)"
+  ],
+  "nieremberg-adoration-1885": [
+   "ofadorationinspi0000unse",
+   "Of Adoration in Spirit and Truth, the old English translation, new edition, Quarterly Series vol. 50 (London: Burns and Oates, 1885)"
+  ]
+ },
+ "_alternates": {
+  "nieremberg-copies": "Of Adoration in Spirit and Truth (1673, title page illegible); Cummiskey's Philadelphia edition (catalogued 1833, title page not read)"
+ },
+ "_excluded": {
+  "nieremberg-other": "Prudential Reflections (1674: the title page does not name him); Contemplations of the State of Man (the title page credits Jeremy Taylor); Scheeben's Glories of Divine Grace; Lady Lovat's Marvels of Divine Grace (based on him)"
+ },
+ "_identity_checked": {
+  "nieremberg-meditation-life-death-1682": {
+   "author": "title page read: A Meditation of Life and Death, translated with some alterations out of the works of the Learned and Ingenious Eusebius Nierembergings [Nierembergius] (OCR garble), Oxford: L. L. for Tho. Fickus, 1682"
+  }
+ },
+ "_rights_checked": {
+  "nieremberg-temporal-eternal-1672": "title page read: tr. Sir Vivian Mullineaux, Knight, reviewed by the tenth Spanish edition",
+  "nieremberg-meditation-life-death-1682": "title page read: translator not named",
+  "nieremberg-temporal-eternal-1857": "title page read: translator not named",
+  "nieremberg-temporal-eternal-russell": "title page read: tr. Sir Vivian Molyneux, revised by Matthew Russell (OCR garbles the author as NIEREMBEEG); no year on the title page, catalogued 1884",
+  "nieremberg-adoration-1885": "title page read: the old translator is not named"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nieremberg-temporal-eternal-1672": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nieremberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1672",
+   "ia_date": "1672",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: tr. Sir Vivian Mullineaux, Knight, reviewed by the tenth Spanish edition"
+  },
+  "nieremberg-meditation-life-death-1682": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "nieremberg-temporal-eternal-1857": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nieremberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "nieremberg-temporal-eternal-russell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nieremberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: tr. Sir Vivian Molyneux, revised by Matthew Russell (OCR garbles the author as NIEREMBEEG); no year on the title page, catalogued 1884"
+  },
+  "nieremberg-adoration-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nieremberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the old translator is not named"
+  }
+ }
+}
