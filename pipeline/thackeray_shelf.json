@@ -1,0 +1,423 @@
+{
+ "_about": "William Makepeace Thackeray's novels, sketches and burlesques (Vanity Fair, Pendennis, Henry Esmond and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William Makepeace Thackeray",
+ "_name_words": [
+  "thackeray"
+ ],
+ "_surname": [
+  "william makepeace thackeray"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thackeray-vanity-fair": [
+   599,
+   "Vanity Fair"
+  ],
+  "thackeray-rose-and-the-ring": [
+   897,
+   "The Rose and the Ring"
+  ],
+  "thackeray-some-roundabout-papers": [
+   1462,
+   "Some Roundabout Papers"
+  ],
+  "thackeray-bedford-row-conspiracy": [
+   1990,
+   "The Bedford-Row Conspiracy"
+  ],
+  "thackeray-history-of-henry-esmond-esq-a-colonel-in-the-servi": [
+   2511,
+   "The History of Henry Esmond, Esq., a Colonel in the Service of Her Majesty Queen Anne"
+  ],
+  "thackeray-roundabout-papers": [
+   2608,
+   "Roundabout Papers",
+   {
+    "contents_only": true
+   }
+  ],
+  "thackeray-second-funeral-of-napoleon": [
+   2645,
+   "The Second Funeral of Napoleon"
+  ],
+  "thackeray-john-leechs-pictures-of-life-and-character": [
+   2646,
+   "John Leech's Pictures of Life and Character"
+  ],
+  "thackeray-george-cruikshank": [
+   2648,
+   "George Cruikshank"
+  ],
+  "thackeray-burlesques": [
+   2675,
+   "Burlesques"
+  ],
+  "thackeray-book-of-snobs": [
+   2686,
+   "The Book of Snobs"
+  ],
+  "thackeray-christmas-books-of-mr-m-a-titmarsh": [
+   2731,
+   "The Christmas Books of Mr. M.A. Titmarsh"
+  ],
+  "thackeray-ballads": [
+   2732,
+   "Ballads"
+  ],
+  "thackeray-paris-sketch-book-of-mr-m-a-titmarsh": [
+   2768,
+   "The Paris Sketch Book of Mr. M. A. Titmarsh",
+   {
+    "contents_only": true
+   }
+  ],
+  "thackeray-memoirs-of-mr-charles-j-yellowplush": [
+   2796,
+   "The Memoirs of Mr. Charles J. Yellowplush",
+   {
+    "contents_only": true
+   }
+  ],
+  "thackeray-wolves-and-the-lamb": [
+   2797,
+   "The Wolves and the Lamb"
+  ],
+  "thackeray-fitz-boodle-papers": [
+   2823,
+   "The Fitz-Boodle Papers",
+   {
+    "contents_only": true
+   }
+  ],
+  "thackeray-little-travels-and-roadside-sketches": [
+   2843,
+   "Little Travels and Roadside Sketches"
+  ],
+  "thackeray-fatal-boots": [
+   2844,
+   "The Fatal Boots"
+  ],
+  "thackeray-a-little-dinner-at-timminss": [
+   2859,
+   "A Little Dinner at Timmins's"
+  ],
+  "thackeray-barry-lyndon": [
+   4558,
+   "Barry Lyndon"
+  ],
+  "thackeray-history-of-pendennis": [
+   7265,
+   "The History of Pendennis"
+  ],
+  "thackeray-newcomes": [
+   7467,
+   "The Newcomes: Memoirs of a Most Respectable Family"
+  ],
+  "thackeray-virginians": [
+   8123,
+   "The Virginians"
+  ],
+  "thackeray-loving-ballad-of-lord-bateman": [
+   15618,
+   "The Loving Ballad of Lord Bateman (with Charles Dickens)"
+  ],
+  "thackeray-henry-esmond": [
+   29363,
+   "Henry Esmond; The English Humourists; The Four Georges"
+  ],
+  "thackeray-paris-sketch-book-of-mr-m-a-titmarsh-42890": [
+   42890,
+   "The Paris Sketch Book of Mr. M. A. Titmarsh; and the Irish Sketch Book"
+  ],
+  "thackeray-doctor-birch-and-his-young-friends": [
+   45554,
+   "Doctor Birch and His Young Friends"
+  ],
+  "thackeray-mahogany-tree": [
+   45921,
+   "The Mahogany Tree"
+  ],
+  "thackeray-our-street": [
+   61072,
+   "\"Our Street\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57966": "PG 57966: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 9904, 34922: the complete edition of each is on the shelf instead.",
+  "pg-52203": "PG 52203, 52204 The Comic Almanack: a many-author annual (Thackeray, a Beckett, the Mayhews and others)."
+ },
+ "_checks": {
+  "thackeray-vanity-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-rose-and-the-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-some-roundabout-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-bedford-row-conspiracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-history-of-henry-esmond-esq-a-colonel-in-the-servi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-roundabout-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-second-funeral-of-napoleon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-john-leechs-pictures-of-life-and-character": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-george-cruikshank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-burlesques": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-book-of-snobs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-christmas-books-of-mr-m-a-titmarsh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-ballads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-paris-sketch-book-of-mr-m-a-titmarsh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-memoirs-of-mr-charles-j-yellowplush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-wolves-and-the-lamb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-fitz-boodle-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-little-travels-and-roadside-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-fatal-boots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-a-little-dinner-at-timminss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-barry-lyndon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-history-of-pendennis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-newcomes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-virginians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-loving-ballad-of-lord-bateman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-henry-esmond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-paris-sketch-book-of-mr-m-a-titmarsh-42890": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-doctor-birch-and-his-young-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-mahogany-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thackeray-our-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william makepeace thackeray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

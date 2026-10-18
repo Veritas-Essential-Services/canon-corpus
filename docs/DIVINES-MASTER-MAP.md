@@ -25918,6 +25918,46 @@ Shelf: `pipeline/eden-phillpotts_shelf.json` (2026-10-17; added at the coordinat
 | As the wind blows | have | PG 78234, `ephillpotts-as-the-wind-blows` (213 units) |
 | The lavender dragon | have | PG 79092, `ephillpotts-lavender-dragon` (567 units) |
 
+## William Makepeace Thackeray
+
+Shelf: `pipeline/thackeray_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Vanity Fair | have | PG 599, `thackeray-vanity-fair` (3376 units) |
+| The Rose and the Ring | have | PG 897, `thackeray-rose-and-the-ring` (559 units) |
+| Some Roundabout Papers | have | PG 1462, `thackeray-some-roundabout-papers` (58 units) |
+| The Bedford-Row Conspiracy | have | PG 1990, `thackeray-bedford-row-conspiracy` (310 units) |
+| The History of Henry Esmond, Esq., a Colonel in the Service of Her Majesty Queen Anne | have | PG 2511, `thackeray-history-of-henry-esmond-esq-a-colonel-in-the-servi` (1898 units) |
+| Roundabout Papers | have | PG 2608, `thackeray-roundabout-papers` (851 units) |
+| The Second Funeral of Napoleon | have | PG 2645, `thackeray-second-funeral-of-napoleon` (178 units) |
+| John Leech's Pictures of Life and Character | have | PG 2646, `thackeray-john-leechs-pictures-of-life-and-character` (23 units) |
+| George Cruikshank | have | PG 2648, `thackeray-george-cruikshank` (127 units) |
+| Burlesques | have | PG 2675, `thackeray-burlesques` (2291 units) |
+| The Book of Snobs | have | PG 2686, `thackeray-book-of-snobs` (705 units) |
+| The Christmas Books of Mr. M.A. Titmarsh | have | PG 2731, `thackeray-christmas-books-of-mr-m-a-titmarsh` (1281 units) |
+| Ballads | have | PG 2732, `thackeray-ballads` (1119 units) |
+| The Paris Sketch Book of Mr. M. A. Titmarsh | have | PG 2768, `thackeray-paris-sketch-book-of-mr-m-a-titmarsh` (1352 units) |
+| The Memoirs of Mr. Charles J. Yellowplush | have | PG 2796, `thackeray-memoirs-of-mr-charles-j-yellowplush` (1096 units) |
+| The Wolves and the Lamb | have | PG 2797, `thackeray-wolves-and-the-lamb` (621 units) |
+| The Fitz-Boodle Papers | have | PG 2823, `thackeray-fitz-boodle-papers` (394 units) |
+| Little Travels and Roadside Sketches | have | PG 2843, `thackeray-little-travels-and-roadside-sketches` (112 units) |
+| The Fatal Boots | have | PG 2844, `thackeray-fatal-boots` (319 units) |
+| A Little Dinner at Timmins's | have | PG 2859, `thackeray-a-little-dinner-at-timminss` (219 units) |
+| Barry Lyndon | have | PG 4558, `thackeray-barry-lyndon` (1174 units) |
+| The History of Pendennis | have | PG 7265, `thackeray-history-of-pendennis` (4111 units) |
+| The Newcomes: Memoirs of a Most Respectable Family | have | PG 7467, `thackeray-newcomes` (3386 units) |
+| The Virginians | have | PG 8123, `thackeray-virginians` (4454 units) |
+| The Loving Ballad of Lord Bateman (with Charles Dickens) | have | PG 15618, `thackeray-loving-ballad-of-lord-bateman` (90 units) |
+| Henry Esmond; The English Humourists; The Four Georges | have | PG 29363, `thackeray-henry-esmond` (3228 units) |
+| The Paris Sketch Book of Mr. M. A. Titmarsh; and the Irish Sketch Book | have | PG 42890, `thackeray-paris-sketch-book-of-mr-m-a-titmarsh-42890` (2576 units) |
+| Doctor Birch and His Young Friends | have | PG 45554, `thackeray-doctor-birch-and-his-young-friends` (257 units) |
+| The Mahogany Tree | have | PG 45921, `thackeray-mahogany-tree` (25 units) |
+| "Our Street" | have | PG 61072, `thackeray-our-street` (196 units) |
+| pg-57966 | excluded | PG 57966: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 9904, 34922: the complete edition of each is on the shelf instead. |
+| pg-52203 | excluded | PG 52203, 52204 The Comic Almanack: a many-author annual (Thackeray, a Beckett, the Mayhews and others). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
