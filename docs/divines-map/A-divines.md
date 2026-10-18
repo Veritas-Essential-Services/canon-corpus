@@ -6143,3 +6143,16 @@ Slugs `spalding-*`. Archbishop of Baltimore; written in English.
 | Lectures on the Evidences, second edition (1857); Miscellanea fifth edition in 2 vols (1869); D'Aubigné reviewed (1844) | alternate | not shelved |
 | Darras's General History of the Catholic Church: a translation of another man's work | excluded | |
 | Works by other Spaldings | excluded | |
+
+## Bishop John Milner (round 28, my pick, 2026-10-18)
+
+Slugs `milner-*`. Vicar Apostolic of the Midland District; written in English. The End of Religious Controversy is pending: its title page gives only the initials J. M.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters to a Prebendary (Winchester: Robbins, 1800) | have-ocr | IA `letterstoprebend00miln` |
+| The History Civil and Ecclesiastical, & Survey of the Antiquities, of Winchester, vol. I, second edition (Winchester: Jas. Robbins, 1809) | have-ocr | IA `historycivileccl01miln_0` |
+| The History Civil and Ecclesiastical, & Survey of the Antiquities, of Winchester, vol. II, second edition (Winchester: Jas. Robbins; the year is not legible on this title page) | have-ocr | IA `historycivileccl02miln_0` |
+| The St Mary's set of End of Controversy (1818); Letters to a Prebendary (bim copy 1800; Cork 1802); the 3rd edition of Winchester (c.1830) | alternate | not shelved |
+| The 1798 first edition of Winchester: no legible title page | excluded | |
+| Milner Refuted (against him); a Kenedy copy wrongly catalogued 1802 | excluded | |

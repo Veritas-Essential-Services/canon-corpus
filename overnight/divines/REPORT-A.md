@@ -1285,3 +1285,6 @@
 
 ## 2026-10-17 19:31 CDT — martin-john-spalding done
 - `pipeline/martin-john-spalding_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for spalding-evidences-catholicity (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-milner done
+- `pipeline/john-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
