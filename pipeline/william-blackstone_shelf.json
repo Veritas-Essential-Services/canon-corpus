@@ -1,0 +1,77 @@
+{
+ "_about": "Sir William Blackstone (1723-1780): Commentaries on the Laws of England, the first edition throughout (Oxford: Clarendon Press). Book I (1765) is a clean Gutenberg text; Book II (1766, clean 0.89), Book III (1768, clean 0.90) and Book IV (1769, clean 0.84) are raw IA OCR with the long s read as f in places. Not taken: an IA Book I scan (lawsofenglandc01blacuoft) that is a 1966 lithographic reprint, and later editions (Dublin 1771, seventh edition 1775, Christian's 1809). US public domain. No uids minted.",
+ "_author": "William Blackstone",
+ "_name_words": [
+  "william",
+  "blackstone"
+ ],
+ "_surname": [
+  "blackstone"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blackstone-commentaries-book1-1765": [
+   30802,
+   "Commentaries on the Laws of England, Book the First (Oxford, 1765)"
+  ]
+ },
+ "internet_archive": {
+  "blackstone-commentaries-book2-1766": [
+   "lawsofengland02blacuoft",
+   "Commentaries on the Laws of England, Book the Second (Oxford, 1766)"
+  ],
+  "blackstone-commentaries-book3-1768": [
+   "commentariesonla03blac",
+   "Commentaries on the Laws of England, Book the Third (Oxford, 1768)"
+  ],
+  "blackstone-commentaries-book4-1769": [
+   "lawsofenglandc04blacuoft",
+   "Commentaries on the Laws of England, Book the Fourth (Oxford, 1769)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "blackstone-commentaries-book1-1765": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "blackstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackstone-commentaries-book2-1766": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "blackstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1766",
+   "ia_date": "1766",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackstone-commentaries-book3-1768": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "blackstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "MDCCLXVIII-MDCCLXX [1768-1770]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackstone-commentaries-book4-1769": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "blackstone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765-69",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

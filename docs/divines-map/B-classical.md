@@ -6075,6 +6075,10 @@ Shelf: `pipeline/william-blackstone_shelf.json`. Sir William Blackstone (1723-17
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Commentaries on the Laws of England, Book the First (Oxford, 1765) |  | `blackstone-commentaries-book1-1765` | have (PG 30802) |
+| Commentaries on the Laws of England, Book the Second (Oxford, 1766) |  | `blackstone-commentaries-book2-1766` | have-raw (IA `lawsofengland02blacuoft`) |
+| Commentaries on the Laws of England, Book the Third (Oxford, 1768) |  | `blackstone-commentaries-book3-1768` | have-raw (IA `commentariesonla03blac`) |
+| Commentaries on the Laws of England, Book the Fourth (Oxford, 1769) |  | `blackstone-commentaries-book4-1769` | have-raw (IA `lawsofenglandc04blacuoft`) |
 
 ## Joseph Story (Commentaries on the Constitution)
 
