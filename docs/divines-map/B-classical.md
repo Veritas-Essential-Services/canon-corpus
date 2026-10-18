@@ -7094,6 +7094,13 @@ Shelf: `pipeline/henry-maudsley_shelf.json`. Seven books, 1876-1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Physiology of Mind (Macmillan, 1876) |  | `maudsley-physiology-of-mind-1876` | have-raw (IA `physiologyofmind00mauduoft`) |
+| Body and Will (Appleton, 1884) |  | `maudsley-body-and-will-1884` | have-raw (IA `bodywillbeingess00maud`) |
+| Responsibility in Mental Disease (Kegan Paul, 1885) |  | `maudsley-responsibility-in-mental-disease-1885` | have-raw (IA `cu31924031204690`) |
+| Natural Causes and Supernatural Seemings (Kegan Paul, 1886) |  | `maudsley-natural-causes-supernatural-seemings-1886` | have-raw (IA `cu31924031176815`) |
+| Body and Mind (Appleton, 1890) |  | `maudsley-body-and-mind-1890` | have-raw (IA `bodymindinquiryi00maud`) |
+| The Pathology of Mind (Macmillan, 1895) |  | `maudsley-pathology-of-mind-1895` | have-raw (IA `pathologymindas00maudgoog`) |
+| Organic to Human (Macmillan, 1916) |  | `maudsley-organic-to-human-1916` | have-raw (IA `organictohumanps00maudiala`) |
 
 ## John Elof Boodin (pragmatism and cosmic idealism)
 
