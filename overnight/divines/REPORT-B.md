@@ -1092,3 +1092,10 @@
 - Held: What Social Classes Owe to Each Other (PG 18603 is the 1951 Caxton reprint); The Law (PG 44800 is the Mises 2007 edition)
 - Positive Theory of Capital: OCR spells the translator SMAET, so no translator claim is recorded for that row
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:01 CDT — Round aw: British moral and political thought, gap-fill
+- New shelves: harriet-martineau (Illustrations of Political Economy 9 vols, Illustrations of Taxation, Society in America 2 vols, How to Observe), george-savile-halifax (Character of Charles II and Thoughts, 1750)
+- Extended: mandeville (+Origin of Honour), henry-mansel (+Philosophy of the Conditioned 1866), richard-price (+Two Tracts 1778), william-whewell (+Bridgewater Treatise 1833, Plurality of Worlds 1854), bernard-bosanquet (+Essentials of Logic 1895), james-martineau (+Studies of Christianity 1858)
+- Held: three Mandeville etexts that are Augustan Reprint Society facsimiles (1953 and later)
+- Not taken: Gutenberg singles already inside collected editions held here (Berkeley in Fraser, Hume's Treatise in the 1826 Works, T. H. Green in Nettleship's Works, Bosanquet's Theory of the State); Joseph Butler and Paley are lane A's
+- Ids checked against heldidx and all branches: no collisions

@@ -238,3 +238,4 @@
 - 19:45 round at: 6 new shelves (Hotman, Selden, Fortescue, Buchanan, Millar, Monboddo); Filmer and Oswald held under the OCR gate.
 - 19:51 round au: 8 political-economy shelves (Mun, Turgot, Say, List, Owen, Sismondi, Cournot, Petty). For Adam/lane C: Wicksteed's own economics (Alphabet of Economic Science, PG 32497; Common Sense of Political Economy 1910) could join lane C's wicksteed shelf, which today holds only his Dante. Lane B left it alone.
 - 19:58 round av: 12 more political-economy shelves (George, Senior, Hobson, Clark, Veblen, Ely, Thornton, Sumner, Bastiat, Bohm-Bawerk, Marshall, Cairnes) and Bagehot, Jevons, Mill extended. frederic-bastiat holds only anonymous translations, beside lane C's stirling-bastiat; Adam may prefer one Bastiat shelf.
+- 20:01 round aw: Harriet Martineau (13 vols) and Halifax new; six British philosophy shelves extended from Gutenberg.

@@ -10459,6 +10459,7 @@ Shelf: `pipeline/mandeville_shelf.json`. The Fable of the Bees (1806).
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806) |  | `mandeville-fable-of-the-bees-1806` | have (PG 57260) |
+| An Enquiry into the Origin of Honour and the Usefulness of Christianity in War (1732; the etext names no printing) |  | `mandeville-origin-of-honour` | have (PG 7819) |
 
 ## Henry Sidgwick
 
@@ -10509,6 +10510,7 @@ Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Heg
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| The Essentials of Logic, ten lectures on judgment and inference (London and New York: Macmillan, 1895) |  | `bosanquet-essentials-of-logic-1895` | have (PG 63598) |
 | The Philosophical Theory of the State (London: Macmillan, 1899) |  | `bosanquet-theory-of-the-state-1899` | have-raw (IA `philosophicalthe00bosaiala`) |
 | A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
 | Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885) |  | `bosanquet-knowledge-and-reality-1885` | have-raw (IA `knowledgereality00bosa`) |
@@ -10532,6 +10534,7 @@ Shelf: `pipeline/richard-price_shelf.json`. Review of Morals, 2nd ed. (1769).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom (London: T. Cadell, 1778) |  | `price-two-tracts-civil-liberty-1778` | have (PG 57970) |
 | A Review of the Principal Questions and Difficulties in Morals (London: T. Cadell, 1769) |  | `price-review-of-morals-1769` | have-raw (IA `reviewofprincip00pric`) |
 
 ## Francis Hutcheson
@@ -10997,6 +11000,8 @@ Shelf: `pipeline/william-whewell_shelf.json`. The philosophy of science: four wo
 | Novum Organon Renovatum (London: Parker, 1858) |  | `whewell-novum-organon-renovatum-1858` | have (PG 69764) |
 | On the Philosophy of Discovery, chapters historical and critical (London: Parker, 1860) |  | `whewell-philosophy-of-discovery-1860` | have (PG 51555) |
 | History of the Inductive Sciences, from the earliest to the present time (New York: Appleton, 1875) |  | `whewell-history-of-the-inductive-sciences-1875` | have (PG 68693) |
+| Astronomy and General Physics considered with reference to Natural Theology, Bridgewater Treatise III (Philadelphia: Carey, Lea and Blanchard, 1833) |  | `whewell-bridgewater-astronomy-1833` | have (PG 66406) |
+| Of the Plurality of Worlds, American edition with an introduction by Edward Hitchcock (Boston, 1854) |  | `whewell-plurality-of-worlds-1854` | have (PG 36288) |
 
 ## Lord Kames
 
@@ -11378,6 +11383,7 @@ Shelf: `pipeline/henry-mansel_shelf.json`. The Limits of Religious Thought (Bamp
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophy of the Conditioned, reprinted with additions from the Contemporary Review (London and New York, 1866) |  | `mansel-philosophy-of-the-conditioned-1866` | have (PG 28484) |
 | The Limits of Religious Thought examined in eight lectures (Oxford: John Murray, 1858) |  | `mansel-limits-of-religious-thought-1858` | have-raw (IA `limitsofreligiou00mans`) |
 
 ## James Ward
@@ -11929,6 +11935,7 @@ Shelf: `pipeline/james-martineau_shelf.json`. Philosophy of religion and ethics.
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| Studies of Christianity, ed. William R. Alger (Boston: American Unitarian Association, 1858) |  | `martineau-studies-of-christianity-1858` | have (PG 40387) |
 | A Study of Religion, vol. I (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v1` | have-raw (IA `studyofreligioni01martuoft`) |
 | A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v2` | have-raw (IA `studyreligionsourc02mart`) |
 | Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v1` | have-raw (IA `ethicaltheory01martiala`) |
@@ -12310,6 +12317,38 @@ Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not m
 | Political Essays (Macmillan, 1873) |  | `cairnes-political-essays-1873` | have-raw (IA `politicalessays00cairuoft`) |
 
 Pending (wishlist): The Character and Logical Method of Political Economy; Some Leading Principles of Political Economy (1874)
+
+## Harriet Martineau (political economy and society)
+
+Shelf: `pipeline/harriet-martineau_shelf.json`. Thirteen Gutenberg volumes, 1834-1838. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Illustrations of Political Economy, vol. 1 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v1` | have (PG 70716) |
+| Illustrations of Political Economy, vol. 2 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v2` | have (PG 70737) |
+| Illustrations of Political Economy, vol. 3 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v3` | have (PG 71169) |
+| Illustrations of Political Economy, vol. 4 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v4` | have (PG 71544) |
+| Illustrations of Political Economy, vol. 5 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v5` | have (PG 72008) |
+| Illustrations of Political Economy, vol. 6 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v6` | have (PG 72923) |
+| Illustrations of Political Economy, vol. 7 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v7` | have (PG 73664) |
+| Illustrations of Political Economy, vol. 8 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v8` | have (PG 74238) |
+| Illustrations of Political Economy, vol. 9 (London: Charles Fox, 1834) |  | `martineau-illustrations-political-economy-v9` | have (PG 76102) |
+| Illustrations of Taxation (London: Charles Fox, 1834) |  | `martineau-illustrations-of-taxation-1834` | have (PG 77059) |
+| Society in America, vol. I (New York: Saunders and Otley, 1837) |  | `martineau-society-in-america-v1-1837` | have (PG 52621) |
+| Society in America, vol. II (New York: Saunders and Otley, 1837) |  | `martineau-society-in-america-v2-1837` | have (PG 52685) |
+| How to Observe: Morals and Manners (London, 1838) |  | `martineau-how-to-observe-1838` | have (PG 33944) |
+
+Pending (wishlist): Martineau's free translation and condensation of Comte is on the comte shelf
+
+## George Savile, Marquis of Halifax
+
+Shelf: `pipeline/george-savile-halifax_shelf.json`. One Gutenberg text (1750). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Character of King Charles the Second, and Political, Moral and Miscellaneous Thoughts (Tonson and Draper, 1750) |  | `halifax-character-of-charles-ii-1750` | have (PG 35708) |
+
+Pending (wishlist): The Character of a Trimmer (in Raleigh's Complete Works of George Savile, Oxford 1912)
 
 ## Perseus census (overflow)
 
