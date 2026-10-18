@@ -6503,6 +6503,8 @@ Shelf: `pipeline/c-lloyd-morgan_shelf.json`. C. Lloyd Morgan (1852-1936). Compar
 | An Introduction to Comparative Psychology (Walter Scott, 1894) |  | `lloyd-morgan-comparative-psychology-1894` | have-raw (IA `introductiontoco00morg`) |
 | Emergent Evolution (1923; Holt printing 1928) |  | `lloyd-morgan-emergent-evolution-1923` | have-raw (IA `emergentevolutio0000morg`) |
 | Life, Mind, and Spirit (Holt, 1925) |  | `lloyd-morgan-life-mind-spirit-1925` | have-raw (IA `20191004lifemindandspirit`) |
+| Animal Life and Intelligence (1890-91) |  | `lloyd-morgan-animal-life-and-intelligence` | have (PG 49818) |
+| Spencer's Philosophy of Science (Herbert Spencer Lecture, 1913) |  | `lloyd-morgan-spencers-philosophy-of-science` | have (PG 37513) |
 
 
 ## John Laird (realism)

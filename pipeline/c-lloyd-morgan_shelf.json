@@ -1,5 +1,5 @@
 {
- "_about": "C. Lloyd Morgan (1852-1936), comparative psychologist and philosopher of emergence. Raw IA OCR: An Introduction to Comparative Psychology (London: Walter Scott; New York: Scribner's, 1894), clean 0.95; Emergent Evolution, the Gifford Lectures of 1922 (first 1923; this copy New York: Holt; London: Williams and Norgate, 1928), clean 0.91. Held: Animal Life and Intelligence (1890), whose Google scan shows no legible title page. He edited Romanes's Darwin and After Darwin vol. II (george-romanes shelf). US public domain. Added in round 2026-10-17bs: Life, Mind, and Spirit, the second course of the Gifford Lectures of 1923 (New York: Holt, 1925), clean 0.91. No uids minted.",
+ "_about": "C. Lloyd Morgan (1852-1936), comparative psychologist and philosopher of emergence. Raw IA OCR: An Introduction to Comparative Psychology (London: Walter Scott; New York: Scribner's, 1894), clean 0.95; Emergent Evolution, the Gifford Lectures of 1922 (first 1923; this copy New York: Holt; London: Williams and Norgate, 1928), clean 0.91. He edited Romanes's Darwin and After Darwin vol. II (george-romanes shelf). US public domain. Added in round 2026-10-17bs: Life, Mind, and Spirit, the second course of the Gifford Lectures of 1923 (New York: Holt, 1925), clean 0.91. Added in round 2026-10-18cb from Gutenberg: Animal Life and Intelligence (preface October 1890, title page 1891), now available as a clean text, and Spencer's Philosophy of Science (1913). No uids minted.",
  "_author": "C. Lloyd Morgan",
  "_name_words": [
   "conwy",
@@ -11,7 +11,16 @@
   "lloyd morgan"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "lloyd-morgan-animal-life-and-intelligence": [
+   49818,
+   "Animal Life and Intelligence (1890-91)"
+  ],
+  "lloyd-morgan-spencers-philosophy-of-science": [
+   37513,
+   "Spencer's Philosophy of Science (Herbert Spencer Lecture, 1913)"
+  ]
+ },
  "internet_archive": {
   "lloyd-morgan-comparative-psychology-1894": [
    "introductiontoco00morg",
@@ -28,6 +37,24 @@
  },
  "_excluded": {},
  "_checks": {
+  "lloyd-morgan-animal-life-and-intelligence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lloyd-morgan-spencers-philosophy-of-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "lloyd-morgan-comparative-psychology-1894": {
    "kind": "ia",
    "checked": "2026-10-18",
