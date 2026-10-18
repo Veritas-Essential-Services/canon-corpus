@@ -8211,6 +8211,8 @@ Shelf: `pipeline/a-d-lindsay_shelf.json`. Two books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophy of Immanuel Kant |  | `lindsay-philosophy-of-immanuel-kant` | have (PG 47880) |
+| The Philosophy of Bergson (Dent, 1911) |  | `lindsay-philosophy-of-bergson-1911` | have-raw (IA `philosophyofberg00lind`) |
 
 ## Perseus census (overflow)
 
