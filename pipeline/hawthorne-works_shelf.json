@@ -1,0 +1,1044 @@
+{
+ "_about": "Nathaniel Hawthorne's novels, tales, sketches and notebooks not already on another shelf (Lane D's hawthorne shelf holds his children's books; the reading-list hawthorne-rl shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Nathaniel Hawthorne",
+ "_name_words": [
+  "hawthorne"
+ ],
+ "_surname": [
+  "nathaniel hawthorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nhawthorne-house-of-the-seven-gables": [
+   77,
+   "The House of the Seven Gables"
+  ],
+  "nhawthorne-twice-told-tales": [
+   508,
+   "Twice-Told Tales"
+  ],
+  "nhawthorne-mosses-from-an-old-manse": [
+   512,
+   "Mosses from an old manse",
+   {
+    "contents_only": true
+   }
+  ],
+  "nhawthorne-snow-image-and-other-twice-told-tales": [
+   513,
+   "The snow-image, and other twice-told tales"
+  ],
+  "nhawthorne-blithedale-romance": [
+   2081,
+   "The Blithedale Romance"
+  ],
+  "nhawthorne-marble-faun": [
+   2181,
+   "The Marble Faun; Or, The Romance of Monte Beni - Volume 1"
+  ],
+  "nhawthorne-marble-faun-2182": [
+   2182,
+   "The Marble Faun; Or, The Romance of Monte Beni - Volume 2"
+  ],
+  "nhawthorne-fanshawe": [
+   7085,
+   "Fanshawe"
+  ],
+  "nhawthorne-dolliver-romance": [
+   7119,
+   "The Dolliver Romance"
+  ],
+  "nhawthorne-doctor-grimshawes-secret-a-romance": [
+   7183,
+   "Doctor Grimshawe's Secret — a Romance"
+  ],
+  "nhawthorne-septimius-felton": [
+   7372,
+   "Septimius Felton, or, the Elixir of Life"
+  ],
+  "nhawthorne-passages-from-the-english-notebooks-complete": [
+   7878,
+   "Passages from the English Notebooks, Complete"
+  ],
+  "nhawthorne-passages-from-the-french-and-italian-notebooks-co": [
+   7881,
+   "Passages from the French and Italian Notebooks, Complete"
+  ],
+  "nhawthorne-passages-from-the-american-notebooks-volume-1": [
+   8088,
+   "Passages from the American Notebooks, Volume 1"
+  ],
+  "nhawthorne-passages-from-the-american-notebooks-volume-2": [
+   8089,
+   "Passages from the American Notebooks, Volume 2."
+  ],
+  "nhawthorne-our-old-home": [
+   8090,
+   "Our Old Home: A Series of English Sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "nhawthorne-sketches-and-studies": [
+   8091,
+   "Sketches and Studies"
+  ],
+  "nhawthorne-ancestral-footstep-fragment-outlines-of-an-englis": [
+   8429,
+   "The Ancestral Footstep (fragment) Outlines of an English Romance"
+  ],
+  "nhawthorne-little-annies-ramble-from-twice-told-tales": [
+   9202,
+   "Little Annie's Ramble (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-a-rill-from-the-town-pump": [
+   9203,
+   "A Rill from the Town Pump"
+  ],
+  "nhawthorne-prophetic-pictures-from-twice-told-tales": [
+   9204,
+   "The Prophetic Pictures (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-sights-from-a-steeple-from-twice-told-tales": [
+   9205,
+   "Sights from a Steeple (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-toll-gatherers-day-from-twice-told-tales": [
+   9206,
+   "The Toll Gatherer's Day (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-vision-of-the-fountain-from-twice-told-tales": [
+   9207,
+   "The Vision of the Fountain (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-fancys-show-box-from-twice-told-tales": [
+   9208,
+   "Fancy's Show-Box (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-haunted-mind-from-twice-told-tales": [
+   9209,
+   "The Haunted Mind (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-village-uncle-from-twice-told-tales": [
+   9210,
+   "The Village Uncle (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-sister-years-from-twice-told-tales": [
+   9211,
+   "The Sister Years (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-snow-flakes-from-twice-told-tales": [
+   9212,
+   "Snow Flakes (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-seven-vagabonds-from-twice-told-tales": [
+   9213,
+   "The Seven Vagabonds (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-white-old-maid-from-twice-told-tales": [
+   9214,
+   "The White Old Maid (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-chippings-with-a-chisel-from-twice-told-tales": [
+   9215,
+   "Chippings with a Chisel (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-beneath-an-umbrella-from-twice-told-tales": [
+   9216,
+   "Beneath an Umbrella (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-lilys-quest-from-twice-told-tales": [
+   9217,
+   "The Lily's Quest (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-footprints-on-the-sea-shore-from-twice-told-tales": [
+   9218,
+   "Footprints on the Sea-Shore (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-edward-fanes-rosebud-from-twice-told-tales": [
+   9219,
+   "Edward Fane's Rosebud (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-threefold-destiny-from-twice-told-tales": [
+   9220,
+   "The Threefold Destiny (From \"Twice Told Tales\")"
+  ],
+  "nhawthorne-old-manse-from-mosses-from-an-old-manse": [
+   9221,
+   "The Old Manse (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-a-select-party": [
+   9222,
+   "A Select Party"
+  ],
+  "nhawthorne-fire-worship-from-mosses-from-an-old-manse": [
+   9223,
+   "Fire Worship (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-buds-and-bird-voices-from-mosses-from-an-old-mans": [
+   9224,
+   "Buds and Bird Voices (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-monsieur-du-miroir-from-mosses-from-an-old-manse": [
+   9225,
+   "Monsieur du Miroir (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-hall-of-fantasy-from-mosses-from-an-old-manse": [
+   9226,
+   "The Hall of Fantasy (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-new-adam-and-eve-from-mosses-from-an-old-manse": [
+   9227,
+   "The New Adam and Eve (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-christmas-banquet-from-mosses-from-an-old-manse": [
+   9228,
+   "The Christmas Banquet (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-intelligence-office-from-mosses-from-an-old-manse": [
+   9229,
+   "The Intelligence Office (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-p-s-correspondence-from-mosses-from-an-old-manse": [
+   9230,
+   "P.'s Correspondence (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-earths-holocaust-from-mosses-from-an-old-manse": [
+   9231,
+   "Earth's Holocaust (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-passages-from-a-relinquished-work-from-mosses-fro": [
+   9232,
+   "Passages from a Relinquished Work (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-sketches-from-memory-from-mosses-from-an-old-mans": [
+   9233,
+   "Sketches from Memory (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-old-apple-dealer-from-mosses-from-an-old-manse": [
+   9234,
+   "The Old Apple Dealer (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-a-virtuosos-collection-from-mosses-from-an-old-ma": [
+   9235,
+   "A Virtuoso's Collection (From \"Mosses from an Old Manse\")"
+  ],
+  "nhawthorne-main-street-from": [
+   9236,
+   "Main Street (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-a-bells-biography": [
+   9237,
+   "A Bell's Biography"
+  ],
+  "nhawthorne-sylph-etherege-from": [
+   9238,
+   "Sylph Etherege (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-old-news-from": [
+   9239,
+   "Old News (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-man-of-adamant-from": [
+   9240,
+   "The Man of Adamant (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-john-inglefields-thanksgiving-from": [
+   9241,
+   "John Inglefield's Thanksgiving (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-old-ticonderoga-a-picture-of-the-past-from": [
+   9242,
+   "Old Ticonderoga, a Picture of the Past (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-wives-of-the-dead-from": [
+   9243,
+   "The Wives of the Dead (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-little-daffydowndilly-from": [
+   9244,
+   "Little Daffydowndilly (From: \"The Snow Image and Other Twice-Told Tales\")"
+  ],
+  "nhawthorne-sketches-from-memory-from": [
+   9246,
+   "Sketches from Memory (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-fragments-from-the-journal-of-a-solitary-man-from": [
+   9247,
+   "Fragments from the Journal of a Solitary Man (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-other-tales-and-sketches-from": [
+   9248,
+   "Other Tales and Sketches (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-dr-bullivant-from": [
+   9249,
+   "Dr. Bullivant (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-a-book-of-autographs": [
+   9250,
+   "A Book of Autographs"
+  ],
+  "nhawthorne-an-old-womans-tale-from": [
+   9251,
+   "An Old Woman's Tale (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-times-portraiture-from": [
+   9252,
+   "Time's Portraiture (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-brownes-folly-from": [
+   9253,
+   "\"Browne's Folly\" (From: \"The Doliver Romance and Other Pieces: Tales and Sketches\")"
+  ],
+  "nhawthorne-paradise-of-children-from": [
+   9256,
+   "The Paradise of Children (From: \"A Wonder-Book for Girls and Boys\")"
+  ],
+  "nhawthorne-three-golden-apples-from": [
+   9257,
+   "The Three Golden Apples (From: \"A Wonder-Book for Girls and Boys\")"
+  ],
+  "nhawthorne-true-stories-of-history-and-biography": [
+   15697,
+   "True Stories of History and Biography"
+  ],
+  "nhawthorne-snow-image": [
+   30376,
+   "The snow-image: a childish miracle"
+  ],
+  "nhawthorne-our-old-home-vol-2-annotated-with-passages-from-t": [
+   37625,
+   "Our Old Home, Vol. 2 Annotated with Passages from the Author's Notebook"
+  ],
+  "nhawthorne-nathaniel-hawthorne": [
+   39716,
+   "Nathaniel Hawthorne"
+  ],
+  "nhawthorne-love-letters-of-nathaniel-hawthorne-volume-1-of-2": [
+   41309,
+   "Love Letters of Nathaniel Hawthorne, Volume 1 (of 2)"
+  ],
+  "nhawthorne-love-letters-of-nathaniel-hawthorne-volume-2-of-2": [
+   41368,
+   "Love Letters of Nathaniel Hawthorne, Volume 2 (of 2)"
+  ],
+  "nhawthorne-in-colonial-days": [
+   64944,
+   "In colonial days"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59280": "PG 59280: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 7876, 7877, 7879, 7880: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 13707: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 33: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-31112": "PG 31112 The Scarlet Stigma: a drama by James Edgar Smith founded on the novel.",
+  "pg-25344": "PG 25344 The Scarlet Letter (illustrated): a second edition; the reading-list hawthorne-rl shelf holds the novel."
+ },
+ "_checks": {
+  "nhawthorne-house-of-the-seven-gables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-snow-image-and-other-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-blithedale-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-marble-faun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-marble-faun-2182": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-fanshawe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-dolliver-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-doctor-grimshawes-secret-a-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-septimius-felton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-passages-from-the-english-notebooks-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-passages-from-the-french-and-italian-notebooks-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-passages-from-the-american-notebooks-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-passages-from-the-american-notebooks-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-our-old-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sketches-and-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-ancestral-footstep-fragment-outlines-of-an-englis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-little-annies-ramble-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-a-rill-from-the-town-pump": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-prophetic-pictures-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sights-from-a-steeple-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-toll-gatherers-day-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-vision-of-the-fountain-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-fancys-show-box-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-haunted-mind-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-village-uncle-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sister-years-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-snow-flakes-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-seven-vagabonds-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-white-old-maid-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-chippings-with-a-chisel-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-beneath-an-umbrella-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-lilys-quest-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-footprints-on-the-sea-shore-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-edward-fanes-rosebud-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-threefold-destiny-from-twice-told-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-old-manse-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-a-select-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-fire-worship-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-buds-and-bird-voices-from-mosses-from-an-old-mans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-monsieur-du-miroir-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-hall-of-fantasy-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-new-adam-and-eve-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-christmas-banquet-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-intelligence-office-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-p-s-correspondence-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-earths-holocaust-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-passages-from-a-relinquished-work-from-mosses-fro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sketches-from-memory-from-mosses-from-an-old-mans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-old-apple-dealer-from-mosses-from-an-old-manse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-a-virtuosos-collection-from-mosses-from-an-old-ma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-main-street-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-a-bells-biography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sylph-etherege-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-old-news-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-man-of-adamant-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-john-inglefields-thanksgiving-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-old-ticonderoga-a-picture-of-the-past-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-wives-of-the-dead-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-little-daffydowndilly-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-sketches-from-memory-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-fragments-from-the-journal-of-a-solitary-man-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-other-tales-and-sketches-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-dr-bullivant-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-a-book-of-autographs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-an-old-womans-tale-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-times-portraiture-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-brownes-folly-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-paradise-of-children-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-three-golden-apples-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-true-stories-of-history-and-biography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-snow-image": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-our-old-home-vol-2-annotated-with-passages-from-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-nathaniel-hawthorne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-love-letters-of-nathaniel-hawthorne-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-love-letters-of-nathaniel-hawthorne-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhawthorne-in-colonial-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nathaniel hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

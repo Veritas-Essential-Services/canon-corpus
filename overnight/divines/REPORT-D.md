@@ -1440,3 +1440,6 @@
 
 ## 2026-10-17 20:18 CDT — cooper-works: done
 - cooper-works: new shelf, 38 Gutenberg books, 74,483 units, 5496 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — hawthorne-works: done
+- hawthorne-works: new shelf, 78 Gutenberg books, 19,898 units, 1536 ~2 ids; verify 0 mismatches, 0 rights flags.

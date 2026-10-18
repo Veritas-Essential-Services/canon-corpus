@@ -30836,6 +30836,97 @@ Shelf: `pipeline/cooper-works_shelf.json` (2026-10-17; added at the coordinator'
 | held-elsewhere | excluded | PG 940: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-27681 | excluded | PG 27681 The Last of the Mohicans: a second edition; the reading-list novels-rl-9 shelf holds the novel. |
 
+## Nathaniel Hawthorne
+
+Shelf: `pipeline/hawthorne-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, tales and notebooks beside the children's-book shelf. Every English text under the name at Gutenberg that no other shelf holds (78 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House of the Seven Gables | have | PG 77, `nhawthorne-house-of-the-seven-gables` (953 units) |
+| Twice-Told Tales | have | PG 508, `nhawthorne-twice-told-tales` (902 units) |
+| Mosses from an old manse | have | PG 512, `nhawthorne-mosses-from-an-old-manse` (1542 units) |
+| The snow-image, and other twice-told tales | have | PG 513, `nhawthorne-snow-image-and-other-twice-told-tales` (730 units) |
+| The Blithedale Romance | have | PG 2081, `nhawthorne-blithedale-romance` (900 units) |
+| The Marble Faun; Or, The Romance of Monte Beni - Volume 1 | have | PG 2181, `nhawthorne-marble-faun` (843 units) |
+| The Marble Faun; Or, The Romance of Monte Beni - Volume 2 | have | PG 2182, `nhawthorne-marble-faun-2182` (965 units) |
+| Fanshawe | have | PG 7085, `nhawthorne-fanshawe` (580 units) |
+| The Dolliver Romance | have | PG 7119, `nhawthorne-dolliver-romance` (133 units) |
+| Doctor Grimshawe's Secret — a Romance | have | PG 7183, `nhawthorne-doctor-grimshawes-secret-a-romance` (1051 units) |
+| Septimius Felton, or, the Elixir of Life | have | PG 7372, `nhawthorne-septimius-felton` (714 units) |
+| Passages from the English Notebooks, Complete | have | PG 7878, `nhawthorne-passages-from-the-english-notebooks-complete` (1364 units) |
+| Passages from the French and Italian Notebooks, Complete | have | PG 7881, `nhawthorne-passages-from-the-french-and-italian-notebooks-co` (917 units) |
+| Passages from the American Notebooks, Volume 1 | have | PG 8088, `nhawthorne-passages-from-the-american-notebooks-volume-1` (539 units) |
+| Passages from the American Notebooks, Volume 2. | have | PG 8089, `nhawthorne-passages-from-the-american-notebooks-volume-2` (504 units) |
+| Our Old Home: A Series of English Sketches | have | PG 8090, `nhawthorne-our-old-home` (458 units) |
+| Sketches and Studies | have | PG 8091, `nhawthorne-sketches-and-studies` (499 units) |
+| The Ancestral Footstep (fragment) Outlines of an English Romance | have | PG 8429, `nhawthorne-ancestral-footstep-fragment-outlines-of-an-englis` (247 units) |
+| Little Annie's Ramble (From "Twice Told Tales") | have | PG 9202, `nhawthorne-little-annies-ramble-from-twice-told-tales` (19 units) |
+| A Rill from the Town Pump | have | PG 9203, `nhawthorne-a-rill-from-the-town-pump` (13 units) |
+| The Prophetic Pictures (From "Twice Told Tales") | have | PG 9204, `nhawthorne-prophetic-pictures-from-twice-told-tales` (80 units) |
+| Sights from a Steeple (From "Twice Told Tales") | have | PG 9205, `nhawthorne-sights-from-a-steeple-from-twice-told-tales` (11 units) |
+| The Toll Gatherer's Day (From "Twice Told Tales") | have | PG 9206, `nhawthorne-toll-gatherers-day-from-twice-told-tales` (10 units) |
+| The Vision of the Fountain (From "Twice Told Tales") | have | PG 9207, `nhawthorne-vision-of-the-fountain-from-twice-told-tales` (15 units) |
+| Fancy's Show-Box (From "Twice Told Tales") | have | PG 9208, `nhawthorne-fancys-show-box-from-twice-told-tales` (11 units) |
+| The Haunted Mind (From "Twice Told Tales") | have | PG 9209, `nhawthorne-haunted-mind-from-twice-told-tales` (11 units) |
+| The Village Uncle (From "Twice Told Tales") | have | PG 9210, `nhawthorne-village-uncle-from-twice-told-tales` (21 units) |
+| The Sister Years (From "Twice Told Tales") | have | PG 9211, `nhawthorne-sister-years-from-twice-told-tales` (30 units) |
+| Snow Flakes (From "Twice Told Tales") | have | PG 9212, `nhawthorne-snow-flakes-from-twice-told-tales` (9 units) |
+| The Seven Vagabonds (From "Twice Told Tales") | have | PG 9213, `nhawthorne-seven-vagabonds-from-twice-told-tales` (65 units) |
+| The White Old Maid (From "Twice Told Tales") | have | PG 9214, `nhawthorne-white-old-maid-from-twice-told-tales` (56 units) |
+| Chippings with a Chisel (From "Twice Told Tales") | have | PG 9215, `nhawthorne-chippings-with-a-chisel-from-twice-told-tales` (35 units) |
+| Beneath an Umbrella (From "Twice Told Tales") | have | PG 9216, `nhawthorne-beneath-an-umbrella-from-twice-told-tales` (11 units) |
+| The Lily's Quest (From "Twice Told Tales") | have | PG 9217, `nhawthorne-lilys-quest-from-twice-told-tales` (37 units) |
+| Footprints on the Sea-Shore (From "Twice Told Tales") | have | PG 9218, `nhawthorne-footprints-on-the-sea-shore-from-twice-told-tales` (17 units) |
+| Edward Fane's Rosebud (From "Twice Told Tales") | have | PG 9219, `nhawthorne-edward-fanes-rosebud-from-twice-told-tales` (16 units) |
+| The Threefold Destiny (From "Twice Told Tales") | have | PG 9220, `nhawthorne-threefold-destiny-from-twice-told-tales` (36 units) |
+| The Old Manse (From "Mosses from an Old Manse") | have | PG 9221, `nhawthorne-old-manse-from-mosses-from-an-old-manse` (49 units) |
+| A Select Party | have | PG 9222, `nhawthorne-a-select-party` (56 units) |
+| Fire Worship (From "Mosses from an Old Manse") | have | PG 9223, `nhawthorne-fire-worship-from-mosses-from-an-old-manse` (13 units) |
+| Buds and Bird Voices (From "Mosses from an Old Manse") | have | PG 9224, `nhawthorne-buds-and-bird-voices-from-mosses-from-an-old-mans` (14 units) |
+| Monsieur du Miroir (From "Mosses from an Old Manse") | have | PG 9225, `nhawthorne-monsieur-du-miroir-from-mosses-from-an-old-manse` (17 units) |
+| The Hall of Fantasy (From "Mosses from an Old Manse") | have | PG 9226, `nhawthorne-hall-of-fantasy-from-mosses-from-an-old-manse` (59 units) |
+| The New Adam and Eve (From "Mosses from an Old Manse") | have | PG 9227, `nhawthorne-new-adam-and-eve-from-mosses-from-an-old-manse` (85 units) |
+| The Christmas Banquet (From "Mosses from an Old Manse") | have | PG 9228, `nhawthorne-christmas-banquet-from-mosses-from-an-old-manse` (69 units) |
+| The Intelligence Office (From "Mosses from an Old Manse") | have | PG 9229, `nhawthorne-intelligence-office-from-mosses-from-an-old-manse` (62 units) |
+| P.'s Correspondence (From "Mosses from an Old Manse") | have | PG 9230, `nhawthorne-p-s-correspondence-from-mosses-from-an-old-manse` (35 units) |
+| Earth's Holocaust (From "Mosses from an Old Manse") | have | PG 9231, `nhawthorne-earths-holocaust-from-mosses-from-an-old-manse` (84 units) |
+| Passages from a Relinquished Work (From "Mosses from an Old Manse") | have | PG 9232, `nhawthorne-passages-from-a-relinquished-work-from-mosses-fro` (45 units) |
+| Sketches from Memory (From "Mosses from an Old Manse") | have | PG 9233, `nhawthorne-sketches-from-memory-from-mosses-from-an-old-mans` (33 units) |
+| The Old Apple Dealer (From "Mosses from an Old Manse") | have | PG 9234, `nhawthorne-old-apple-dealer-from-mosses-from-an-old-manse` (17 units) |
+| A Virtuoso's Collection (From "Mosses from an Old Manse") | have | PG 9235, `nhawthorne-a-virtuosos-collection-from-mosses-from-an-old-ma` (103 units) |
+| Main Street (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9236, `nhawthorne-main-street-from` (67 units) |
+| A Bell's Biography | have | PG 9237, `nhawthorne-a-bells-biography` (14 units) |
+| Sylph Etherege (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9238, `nhawthorne-sylph-etherege-from` (37 units) |
+| Old News (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9239, `nhawthorne-old-news-from` (37 units) |
+| The Man of Adamant (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9240, `nhawthorne-man-of-adamant-from` (25 units) |
+| John Inglefield's Thanksgiving (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9241, `nhawthorne-john-inglefields-thanksgiving-from` (29 units) |
+| Old Ticonderoga, a Picture of the Past (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9242, `nhawthorne-old-ticonderoga-a-picture-of-the-past-from` (12 units) |
+| The Wives of the Dead (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9243, `nhawthorne-wives-of-the-dead-from` (30 units) |
+| Little Daffydowndilly (From: "The Snow Image and Other Twice-Told Tales") | have | PG 9244, `nhawthorne-little-daffydowndilly-from` (47 units) |
+| Sketches from Memory (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9246, `nhawthorne-sketches-from-memory-from` (21 units) |
+| Fragments from the Journal of a Solitary Man (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9247, `nhawthorne-fragments-from-the-journal-of-a-solitary-man-from` (39 units) |
+| Other Tales and Sketches (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9248, `nhawthorne-other-tales-and-sketches-from` (87 units) |
+| Dr. Bullivant (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9249, `nhawthorne-dr-bullivant-from` (9 units) |
+| A Book of Autographs | have | PG 9250, `nhawthorne-a-book-of-autographs` (33 units) |
+| An Old Woman's Tale (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9251, `nhawthorne-an-old-womans-tale-from` (29 units) |
+| Time's Portraiture (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9252, `nhawthorne-times-portraiture-from` (15 units) |
+| "Browne's Folly" (From: "The Doliver Romance and Other Pieces: Tales and Sketches") | have | PG 9253, `nhawthorne-brownes-folly-from` (13 units) |
+| The Paradise of Children (From: "A Wonder-Book for Girls and Boys") | have | PG 9256, `nhawthorne-paradise-of-children-from` (123 units) |
+| The Three Golden Apples (From: "A Wonder-Book for Girls and Boys") | have | PG 9257, `nhawthorne-three-golden-apples-from` (149 units) |
+| True Stories of History and Biography | have | PG 15697, `nhawthorne-true-stories-of-history-and-biography` (1271 units) |
+| The snow-image: a childish miracle | have | PG 30376, `nhawthorne-snow-image` (106 units) |
+| Our Old Home, Vol. 2 Annotated with Passages from the Author's Notebook | have | PG 37625, `nhawthorne-our-old-home-vol-2-annotated-with-passages-from-t` (547 units) |
+| Nathaniel Hawthorne | have | PG 39716, `nhawthorne-nathaniel-hawthorne` (475 units) |
+| Love Letters of Nathaniel Hawthorne, Volume 1 (of 2) | have | PG 41309, `nhawthorne-love-letters-of-nathaniel-hawthorne-volume-1-of-2` (510 units) |
+| Love Letters of Nathaniel Hawthorne, Volume 2 (of 2) | have | PG 41368, `nhawthorne-love-letters-of-nathaniel-hawthorne-volume-2-of-2` (792 units) |
+| In colonial days | have | PG 64944, `nhawthorne-in-colonial-days` (296 units) |
+| pg-59280 | excluded | PG 59280: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 7876, 7877, 7879, 7880: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 13707: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 33: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-31112 | excluded | PG 31112 The Scarlet Stigma: a drama by James Edgar Smith founded on the novel. |
+| pg-25344 | excluded | PG 25344 The Scarlet Letter (illustrated): a second edition; the reading-list hawthorne-rl shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
