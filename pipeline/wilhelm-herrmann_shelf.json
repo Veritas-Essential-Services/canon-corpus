@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain Wilhelm Herrmann (1846-1922, Marburg theologian) in English for the Word Hoard: The Communion of the Christian with God, tr. J. Sandys Stanyon (1895) and its revised second English edition (1906), Faith and Morals (1904) and the Systematic Theology (1927), from Internet Archive scans. His Moral Teachings of Jesus is in Essays on the Social Gospel on the adolf-harnack shelf. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "herrmann"
+ ],
+ "_surname": [
+  "herrmann",
+  "wilhelm herrmann",
+  "willibald herrmann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herrmann-communion-1895": [
+   "communionofchris0000herr_l2z2",
+   "The Communion of the Christian with God, tr. J. Sandys Stanyon (London: Williams & Norgate, 1895)"
+  ],
+  "herrmann-communion-1906": [
+   "thecommunionofth00herruoft",
+   "The Communion of the Christian with God, second English edition, Stanyon's translation revised by R. W. Stewart (London: Williams & Norgate, 1906)"
+  ],
+  "herrmann-faith-and-morals": [
+   "faithmoralsifait00herr",
+   "Faith and Morals, tr. Donald Matheson and Robert W. Stewart (New York: Putnam; London: Williams & Norgate, 1904)"
+  ],
+  "herrmann-systematic-theology": [
+   "systematictheolo0000herr",
+   "Systematic Theology (Dogmatik), tr. Nathaniel Micklem and Kenneth A. Saunders (London: George Allen & Unwin, first published in English 1927)"
+  ]
+ },
+ "_alternates": {
+  "herrmann-copies": "Other copies of the 1895 and 1906 Communion and the 1904 Faith and Morals"
+ },
+ "_excluded": {
+  "herrmann-1930": "A 1930 Communion and modern reprints"
+ },
+ "_rights_checked": {
+  "herrmann-communion-1895": "title page read: the printed title page calls him 'WILLIBALD HERRMANN' (a misprint, on three copies)",
+  "herrmann-systematic-theology": "title page read: Allen & Unwin, first published in English 1927, 'All rights reserved'; US public domain as a 1927 publication, but Micklem died in 1976, so not UK public domain"
+ },
+ "_pending": {},
+ "_translators": {
+  "herrmann-communion-1895": "stanyon",
+  "herrmann-communion-1906": "stanyon",
+  "herrmann-faith-and-morals": "matheson",
+  "herrmann-systematic-theology": "micklem"
+ },
+ "_checks": {
+  "herrmann-communion-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herrmann",
+   "translator_claimed": "stanyon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the printed title page calls him 'WILLIBALD HERRMANN' (a misprint, on three copies)"
+  },
+  "herrmann-communion-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herrmann",
+   "translator_claimed": "stanyon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herrmann-faith-and-morals": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herrmann",
+   "translator_claimed": "matheson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herrmann-systematic-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herrmann",
+   "translator_claimed": "micklem",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Allen & Unwin, first published in English 1927, 'All rights reserved'; US public domain as a 1927 publication, but Micklem died in 1976, so not UK public domain"
+  }
+ }
+}

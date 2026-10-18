@@ -6325,6 +6325,19 @@ Slugs `ritschl-*`. The Justification and Reconciliation volumes in English.
 | Black's translation (another copy) and the 1902 second edition | alternate | not shelved |
 | Instruction in the Christian Religion, tr. Alice Mead Swing, inside A. T. Swing's The Theology of Albrecht Ritschl (Longmans, 1901): half the book is Swing's study of him, so not shelved without Adam's yes | alternate | not shelved |
 | doctrineofjusti00ritsuoft: a 1966 reprint | excluded | |
+
+## Wilhelm Herrmann (round 29, my pick, 2026-10-18)
+
+Slugs `herrmann-*`. The Communion of the Christian with God and other translations.
+
+| Work | Status | Where |
+|---|---|---|
+| The Communion of the Christian with God, tr. J. Sandys Stanyon (London: Williams & Norgate, 1895) | have-ocr | IA `communionofchris0000herr_l2z2` |
+| The Communion of the Christian with God, second English edition, Stanyon's translation revised by R. W. Stewart (London: Williams & Norgate, 1906) | have-ocr | IA `thecommunionofth00herruoft` |
+| Faith and Morals, tr. Donald Matheson and Robert W. Stewart (New York: Putnam; London: Williams & Norgate, 1904) | have-ocr | IA `faithmoralsifait00herr` |
+| Systematic Theology (Dogmatik), tr. Nathaniel Micklem and Kenneth A. Saunders (London: George Allen & Unwin, first published in English 1927) | have-ocr | IA `systematictheolo0000herr` |
+| Other copies of the 1895 and 1906 Communion and the 1904 Faith and Morals | alternate | not shelved |
+| A 1930 Communion and modern reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
