@@ -6472,6 +6472,10 @@ Shelf: `pipeline/r-b-haldane_shelf.json`. Viscount Haldane (1856-1928). The Path
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Pathway to Reality, stage the first (Dutton, 1903) |  | `haldane-pathway-to-reality-1903` | have-raw (IA `cu31924009675343`) |
+| The Pathway to Reality, stage the second (Murray, 1904) |  | `haldane-pathway-to-reality-1904` | have-raw (IA `pathwaytorealit00haldgoog`) |
+| The Reign of Relativity (Yale, 1921) |  | `haldane-reign-of-relativity-1921` | have-raw (IA `reignrelativity00haldgoog`) |
+| The Philosophy of Humanism (Yale, 1922) |  | `haldane-philosophy-of-humanism-1922` | have-raw (IA `philosophyhuman00haldgoog`) |
 
 ## Wilbur Marshall Urban (value theory)
 
