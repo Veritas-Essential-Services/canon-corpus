@@ -1068,4 +1068,4 @@
 - Donoso Cortes: Essay on Catholicism, Liberalism and Socialism, tr. Goddard (1862), new shelf
 - Glanvill: Saducismus Triumphatus, 3rd ed. (1700)
 - Held: Christian Wolff, Logic (1770), OCR 0.743
-- Checked and left: Erigena, Pomponazzi, Hugh of St Victor, Hamann, Beneke, Trendelenburg have no PD English text found
+- Checked and left: no PD English text found on IA for Erigena, Pomponazzi, Hamann or Beneke; Hugh of St Victor's Explanation of the Rule of St Augustine (1911) is devotional and left for lane A; Trendelenburg's only English is Broughton's 1898 interleaving crib of the Elementa (Aristotle extracts, 12k words), not taken
