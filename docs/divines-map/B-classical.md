@@ -5533,6 +5533,7 @@ Shelf: `pipeline/friedrich-list_shelf.json`. Lloyd's translation in Nicholson's 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The National System of Political Economy, tr. Sampson S. Lloyd, ed. J. Shield Nicholson (Longmans, 1904) | Lloyd | `list-lloyd-national-system-1904` | have-raw (IA `nationalsystemp01nichgoog`) |
 
 ## Robert Owen (political economy and socialism)
 

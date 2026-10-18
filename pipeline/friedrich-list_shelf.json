@@ -1,0 +1,39 @@
+{
+ "_about": "Friedrich List (1789-1846): The National System of Political Economy, translated by Sampson S. Lloyd, new edition with an introduction by J. Shield Nicholson (London: Longmans, Green, 1904), raw IA OCR, clean 0.95. Not taken: G. A. Matile's earlier American translation (Philadelphia, 1856), a second translation of the same book. US public domain. No uids minted.",
+ "_author": "Friedrich List",
+ "_name_words": [
+  "friedrich",
+  "list"
+ ],
+ "_surname": [
+  "list"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "list-lloyd-national-system-1904": [
+   "nationalsystemp01nichgoog",
+   "The National System of Political Economy, tr. Sampson S. Lloyd, ed. J. Shield Nicholson (Longmans, 1904)",
+   "Sampson S. Lloyd"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "list-lloyd-national-system-1904": "Lloyd"
+ },
+ "_checks": {
+  "list-lloyd-national-system-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "list",
+   "translator_claimed": "Lloyd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
