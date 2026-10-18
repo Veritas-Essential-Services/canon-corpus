@@ -24,7 +24,9 @@
    "Utopia, tr. Ralph Robinson: his second and revised edition of 1556, preceded by the title and epistle of the first edition (1551), ed. Edward Arber, English Reprints no. 14 (Birmingham, March 1869)"
   ]
  },
- "_excluded": {},
+ "_excluded": {
+  "pg17075": "A Dialogue of Comfort Against Tribulation, Gutenberg text 'with modifications to obsolete language by Monica Stevens', published 1951: a post-1930 modernisation, held (round 2026-10-18cb)"
+ },
  "_translators": {
   "more-burnet-utopia": "Burnet"
  },
