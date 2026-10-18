@@ -1732,3 +1732,6 @@
 
 ## 2026-10-17 22:27 CDT — john-j-keane done
 - `pipeline/john-j-keane_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — herbert-vaughan done
+- `pipeline/herbert-vaughan_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for hvaughan-who-is-st-joseph, hvaughan-submission (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

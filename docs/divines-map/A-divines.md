@@ -8325,3 +8325,15 @@ Slugs `-*`. Built from title pages read for round 35.
 | Christian Education in America: A Lecture (Washington: Church News Publishing Company, 1892) | have-ocr | IA `christianeducati00keanrich` |
 | Onward and Upward: A Year Book compiled from the Discourses of Archbishop Keane, by Maurice Francis Egan (Baltimore and New York: John Murphy; title page undated, copyright 1902) | have-ocr | IA `MN5185ucmf_2` |
 | Mullany's essays (his preface only); books by John Fryer Keane, a different man | excluded | |
+
+## Herbert Vaughan (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Submission to a Divine Teacher neither Disloyalty nor the Surrender of Mental and Moral Freedom: a Pastoral Letter, by Herbert, Bishop of Salford (New York: Catholic Publication Society, 1875) | have-ocr | IA `a581642700cathuoft` |
+| Who is St. Joseph? Prayers with Thoughts and Examples for Every Day in the Month, by the Bishop of Salford (Baltimore: St. Joseph's Seminary, 1889) | have-ocr | IA `whoisstjosephpra00vaug` |
+| The Young Priest: Conferences on the Apostolic Life, edited by his brother John S. Vaughan (London: Burns & Oates; year OCR'd '{704', 1904) | have-ocr | IA `youngpriestconfe0000herb` |
+| Other Young Priest copies (one undated, one catalogued 1910); his introduction to Rivington's The Primitive Church and the See of Peter (1894) | alternate | not shelved |
+| The Year of Preparation for the Vatican Council (1869, no author on the title page); the Westminster bishops' collective Vindication of Apostolicae Curae; Humility of Heart (1944 printing, catalogued 1903 in error); the Mivart correspondence | excluded | |
