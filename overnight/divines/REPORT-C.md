@@ -292,3 +292,5 @@
 - 2026-10-17T22:26-05:00: round 107: singles-nonfiction-2 +2 (Girondists II-III, identity overrides for Ryde OCR), singles-literature +1 (Huard's Vigny), italian-classics +1 (Garrow's Niccolini). --verify --record 0 mismatched.
 
 - 2026-10-17T22:32-05:00: round 108: german-poets-in-english (9). --verify --record 0 mismatched. New shelf german-poets-in-english (gpe-).
+
+- 2026-10-17T22:37-05:00: round 109: pinkerton +3, seltzer +1, singles-fiction-3 +2 (Garshin; Voynich identity override). Coxwell's Kriloff to _pending (undated scan). --verify --record 0 mismatched.

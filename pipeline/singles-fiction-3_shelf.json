@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted.",
  "_name_words": [
   "a. e. chamot",
   "a. w. wheen",
@@ -94,7 +94,8 @@
   "william kenrick",
   "william tenney brewster",
   "william wells newell",
-  "z. tamotsu iwado"
+  "z. tamotsu iwado",
+  "captain rowland smith"
  ],
  "_surname": [
   "a. e. chamot",
@@ -190,7 +191,8 @@
   "william kenrick",
   "william tenney brewster",
   "william wells newell",
-  "z. tamotsu iwado"
+  "z. tamotsu iwado",
+  "captain rowland smith"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -495,6 +497,13 @@
   "sf3-78495": [
    "campbell",
    "joseph campbell"
+  ],
+  "sf3-garshin-stories-from-garshin": [
+   "e. l. voynich",
+   "ethel lillian voynich"
+  ],
+  "sf3-garshin-the-signal-and-other-stories": [
+   "captain rowland smith"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -773,7 +782,16 @@
    "Collected works of Padraic H. Pearse"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sf3-garshin-stories-from-garshin": [
+   "storiesfromgars00garsgoog",
+   "Stories from Garshin (1893)"
+  ],
+  "sf3-garshin-the-signal-and-other-stories": [
+   "signalotherstori00garsrich",
+   "The Signal, and Other Stories (1912)"
+  ]
+ },
  "titles": {
   "singles-fiction-3-andreyev-plays-by-leonid-andreyeff": {
    "source": "sf3-78247",
@@ -1322,6 +1340,24 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Cornelia McFadden",
    "scan_edition": "Project Gutenberg 77545 (clean text)"
+  },
+  "singles-fiction-3-garshin-stories-from-garshin": {
+   "source": "sf3-garshin-stories-from-garshin",
+   "of": "Vsevolod Garshin",
+   "work": "Stories from Garshin",
+   "translated": 1893,
+   "translator": "E. L. Voynich",
+   "scan_edition": "T. Fisher Unwin, London MDCCCXCIII, with an introduction by Stepniak; Google scan",
+   "note": "Voynich's Humour of Russia is also on this shelf."
+  },
+  "singles-fiction-3-garshin-the-signal-and-other-stories": {
+   "source": "sf3-garshin-the-signal-and-other-stories",
+   "of": "Vsevolod Garshin",
+   "work": "The Signal, and Other Stories",
+   "translated": 1912,
+   "translator": "Captain Rowland Smith",
+   "scan_edition": "Duckworth & Co., London 1912; archive.org scan",
+   "note": "A different Rowland Smith from the translator of the Greek romances: this one was translator to the British Embassy at St Petersburg, as the title page says."
   }
  },
  "_pending": {
@@ -1943,6 +1979,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Joseph Campbell"
+  },
+  "sf3-garshin-stories-from-garshin": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-garshin-the-signal-and-other-stories": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "captain rowland smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2285,7 +2343,37 @@
    "pg": 78495,
    "pg_copyrighted_marker": false,
    "pg_translator": "Joseph Campbell"
+  },
+  "sf3-garshin-stories-from-garshin": {
+   "ia": "storiesfromgars00garsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-garshin-the-signal-and-other-stories": {
+   "ia": "signalotherstori00garsrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1874,
+    1876,
+    1887,
+    1888,
+    1912
+   ],
+   "post_1930_years_in_front_15k": [
+    1994
+   ],
+   "post_1930_examined": "Examined in round 109: 1994 sits in a library stamp below the 1912 Duckworth imprint reading 'PRESERVATION COPY ADDED, ORIGINAL TO BE RETAINED', a stamp put in the original volume when a preservation copy was made; the scan carries none of the replacement-photocopy notices, so it is read as the 1912 original. Flagged in DIGEST-C for Adam."
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "sf3-garshin-stories-from-garshin": {
+   "author": "The title page OCR reads 'TRANSLATED BY E. L. V o y N I c H' for E. L. Voynich, letter-spaced, with 'INTRODUCTION BY S. Stepniak' and 'T. FISHER UNWIN, Paternoster Square, MDCCCXCIII'. Checked by eye 2026-10-17."
+  }
+ }
 }

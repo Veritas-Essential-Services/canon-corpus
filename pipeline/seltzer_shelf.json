@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Thomas Seltzer (1875-1943), translator and publisher: Gorky, Andreyev, Gogol, Sudermann, Ostwald, 1908-1916. US public domain (pre-1931). Adele Szold Seltzer's translations (Hauptmann's Atlantis) are hers, not his, and are left out. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Thomas Seltzer (1875-1943), translator and publisher: Gorky, Andreyev, Gogol, Sudermann, Ostwald and Artsybashev's War, 1908-1916 (War added in round 109 from an archive.org scan). US public domain (pre-1931). Adele Szold Seltzer's translations (Hauptmann's Atlantis) are hers, not his, and are left out. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
  "_name_words": [
   "thomas seltzer"
  ],
@@ -30,7 +30,12 @@
    "Natural Philosophy"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sel-artsybashev-war": [
+   "warplayinfourac00arts",
+   "War: a Play in Four Acts (1916)"
+  ]
+ },
  "titles": {
   "seltzer-andreyev-savva-and-life-of-man": {
    "source": "sel-13147",
@@ -71,6 +76,15 @@
    "translated": 1909,
    "translator": "Thomas Seltzer",
    "scan_edition": "Project Gutenberg 34791 (clean text); the fourteenth printing, December 1926"
+  },
+  "seltzer-artsybashev-war": {
+   "source": "sel-artsybashev-war",
+   "of": "Mikhail Artsybashev",
+   "work": "War: a Play in Four Acts",
+   "translated": 1916,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Alfred A. Knopf, New York 1916; archive.org scan",
+   "note": "A separate translation from Percy Pinkerton's, which is on the pinkerton shelf."
   }
  },
  "_pending": {},
@@ -129,6 +143,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Thomas Seltzer"
+  },
+  "sel-artsybashev-war": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -156,6 +181,19 @@
    "pg": 43791,
    "pg_copyrighted_marker": false,
    "pg_translator": "Thomas Seltzer"
+  },
+  "sel-artsybashev-war": {
+   "ia": "warplayinfourac00arts",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1903,
+    1905,
+    1907,
+    1913,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

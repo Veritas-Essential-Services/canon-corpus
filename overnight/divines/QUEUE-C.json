@@ -3832,6 +3832,14 @@
       "finished": "2026-10-17T22:32-05:00",
       "scope": "TRANSLATOR SHELF (round 108, lane C's choice; Adam may veto) -- german-poets-in-english; PD printings before 1931 only; no minting",
       "notes": "9 titles; ids checked across all branches. See DIGEST-C round 108. No uids minted."
+    },
+    {
+      "id": "round109-russians",
+      "status": "done",
+      "started": "2026-10-17T22:35-05:00",
+      "finished": "2026-10-17T22:37-05:00",
+      "scope": "GAP-FILL (round 109, lane C's choice; Adam may veto) -- pinkerton, seltzer, singles-fiction-3 (+ one _pending on singles-plays-poetry-2); PD printings before 1931 only; no minting",
+      "notes": "+6 titles; ids checked across all branches. See DIGEST-C round 109. No uids minted."
     }
   ]
 }

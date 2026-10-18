@@ -766,7 +766,9 @@
    "scan_edition": "Project Gutenberg 49410 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "krylov-kriloffs-fables-coxwell": "C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan."
+ },
  "_excluded": {
   "various-47036": "The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check."
  },

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Percy Pinkerton (1855-1946): Artsybashev's Sanine (1914) and, with William Grist, the libretto of La Bohème (1896). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Percy Pinkerton (1855-1946): Artsybashev's Sanine (1914), The Millionaire (1915), Tales of the Revolution (1917) and War (1918), the last three added in round 109 from period archive.org scans, and, with William Grist, the libretto of La Bohème (1896). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
  "_name_words": [
   "percy pinkerton",
   "pinkerton"
@@ -20,7 +20,20 @@
    "Sanine"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "pin-artsybashev-the-millionaire": [
+   "millionaire00arts",
+   "The Millionaire (1915)"
+  ],
+  "pin-artsybashev-tales-of-the-revolution": [
+   "talesofrevolutio00artsrich",
+   "Tales of the Revolution (1917)"
+  ],
+  "pin-artsybashev-war": [
+   "warplayinfouract00artsrich",
+   "War: a Play in Four Acts (1918)"
+  ]
+ },
  "titles": {
   "pinkerton-artsybashev-sanine": {
    "source": "pin-9051",
@@ -37,6 +50,31 @@
    "translated": "1896-1914 (see the Gutenberg header)",
    "translator": "Percy Pinkerton (with William Grist)",
    "scan_edition": "Project Gutenberg 13843 (clean text)"
+  },
+  "pinkerton-artsybashev-the-millionaire": {
+   "source": "pin-artsybashev-the-millionaire",
+   "of": "Mikhail Artsybashev",
+   "work": "The Millionaire",
+   "translated": 1915,
+   "translator": "Percy Pinkerton",
+   "scan_edition": "B. W. Huebsch, New York, MCMXV; archive.org scan"
+  },
+  "pinkerton-artsybashev-tales-of-the-revolution": {
+   "source": "pin-artsybashev-tales-of-the-revolution",
+   "of": "Mikhail Artsybashev",
+   "work": "Tales of the Revolution",
+   "translated": 1917,
+   "translator": "Percy Pinkerton",
+   "scan_edition": "Martin Secker, London 1917; archive.org scan"
+  },
+  "pinkerton-artsybashev-war": {
+   "source": "pin-artsybashev-war",
+   "of": "Mikhail Artsybashev",
+   "work": "War: a Play in Four Acts",
+   "translated": 1918,
+   "translator": "Percy Pinkerton",
+   "scan_edition": "Grant Richards, London MDCCCCXVIII; archive.org scan",
+   "note": "A separate translation from Thomas Seltzer's, which is on the seltzer shelf."
   }
  },
  "_pending": {},
@@ -60,6 +98,39 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Percy Pinkerton"
+  },
+  "pin-artsybashev-the-millionaire": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "percy pinkerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pin-artsybashev-tales-of-the-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "percy pinkerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pin-artsybashev-war": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "percy pinkerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +143,37 @@
    "pg": 9051,
    "pg_copyrighted_marker": false,
    "pg_translator": "Percy Pinkerton"
+  },
+  "pin-artsybashev-the-millionaire": {
+   "ia": "millionaire00arts",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1878,
+    1901,
+    1903,
+    1904,
+    1905,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pin-artsybashev-tales-of-the-revolution": {
+   "ia": "talesofrevolutio00artsrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pin-artsybashev-war": {
+   "ia": "warplayinfouract00artsrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1878,
+    1901,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

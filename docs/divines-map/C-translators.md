@@ -1137,10 +1137,10 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `marian-fell-chekhov-swan-song` | Chekhov | Swan Song | Marian Fell | 1912 | have | PG 1753 |
 | `marian-fell-korolenko-makars-dream` | Korolenko | Makar's Dream, and Other Stories | Marian Fell | 1916 | have | PG 62555 |
 
-## Thomas Seltzer (Gorky, Andreyev, Gogol, Sudermann)
+## Thomas Seltzer (Gorky, Andreyev, Gogol, Sudermann, Artsybashev's War)
 
 Shelf: `pipeline/seltzer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py seltzer` · titles `python3 pipeline/split_shelf_titles.py seltzer`.
-Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 17 (2026-10-10), vetoable. Round 109 (2026-10-17) added Artsybashev's War from a 1916 archive.org scan. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `seltzer-gorky-the-spy` | Gorky | The Spy: The Story of a Superfluous Man | Thomas Seltzer | 1908 | have | PG 51094 |
 | `seltzer-ostwald-natural-philosophy` | Ostwald | Natural Philosophy | Thomas Seltzer | 1910 | have | PG 43791 |
 | `seltzer-sudermann-song-of-songs` | Sudermann | The Song of Songs | Thomas Seltzer | 1909 | have | PG 34791 |
+| `seltzer-artsybashev-war` | Mikhail Artsybashev | War: a Play in Four Acts | Thomas Seltzer | 1916 | have-raw | IA `warplayinfourac00arts` |
 | — | — | pg-13437: Best Russian Short Stories (1917): an anthology Seltzer edited, with many translators. | — | — | excluded | — |
 | — | — | pg-17241: Atlantis: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
 | — | — | pg-62880: The Glebe magazine issue: a periodical. | — | — | excluded | — |
@@ -3373,15 +3374,18 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `scheffauer-heine-atta-troll` | Heinrich Heine | Atta Troll | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 31305 |
 | `scheffauer-mann-bashan-and-i` | Thomas Mann | Bashan and I | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 61284 |
 
-## Percy Pinkerton (Artsybashev's Sanine; La Bohème libretto)
+## Percy Pinkerton (Artsybashev's Sanine, The Millionaire, Tales of the Revolution and War; La Bohème libretto)
 
 Shelf: `pipeline/pinkerton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pinkerton` · titles `python3 pipeline/split_shelf_titles.py pinkerton`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 109 (2026-10-17) added three Artsybashevs from period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `pinkerton-artsybashev-sanine` | Mikhail Artsybashev | Sanine | Percy Pinkerton | 1896-1914 (see the Gutenberg header) | have | PG 9051 |
 | `pinkerton-giacosa-libretto-la-boheme` | Giuseppe Giacosa | Libretto: La Bohème | Percy Pinkerton (with William Grist) | 1896-1914 (see the Gutenberg header) | have | PG 13843 |
+| `pinkerton-artsybashev-the-millionaire` | Mikhail Artsybashev | The Millionaire | Percy Pinkerton | 1915 | have-raw | IA `millionaire00arts` |
+| `pinkerton-artsybashev-tales-of-the-revolution` | Mikhail Artsybashev | Tales of the Revolution | Percy Pinkerton | 1917 | have-raw | IA `talesofrevolutio00artsrich` |
+| `pinkerton-artsybashev-war` | Mikhail Artsybashev | War: a Play in Four Acts | Percy Pinkerton | 1918 | have-raw | IA `warplayinfouract00artsrich` |
 
 ## Leo Ongley (Blasco Ibáñez's The Temptress; Gálvez)
 
@@ -5587,7 +5591,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5630,12 +5634,13 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-plays-poetry-2-takeda-chushingura` | Izumo Takeda and Shoraku Miyoshi and Senryu Namiki | Chushingura; Or, The Treasury of Loyal Retainers | Jukichi Inouye | (see the Gutenberg header) | have | PG 59421 |
 | `singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra` | anonymous (the Vajracchedikā Sūtra) | The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita | William Gemmell (from Kumārajīva's Chinese) | (see the Gutenberg header) | have | PG 64623 |
 | `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
+| `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
-## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa)
+## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5707,6 +5712,8 @@ Round 44 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-fiction-3-undset-the-bridal-wreath` | Sigrid Undset | The Bridal Wreath | Charles Archer and J. S. Scott | (see the Gutenberg header) | have | PG 67929 |
 | `singles-fiction-3-vega-the-new-art-of-writing-plays` | Lope de Vega | The new art of writing plays | W. T. Brewster | (see the Gutenberg header) | have | PG 76719 |
 | `singles-fiction-3-vollmar-sibylla` | A. Vollmar | Sibylla | Cornelia McFadden | (see the Gutenberg header) | have | PG 77545 |
+| `singles-fiction-3-garshin-stories-from-garshin` | Vsevolod Garshin | Stories from Garshin | E. L. Voynich | 1893 | have-raw | IA `storiesfromgars00garsgoog` |
+| `singles-fiction-3-garshin-the-signal-and-other-stories` | Vsevolod Garshin | The Signal, and Other Stories | Captain Rowland Smith | 1912 | have-raw | IA `signalotherstori00garsrich` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
