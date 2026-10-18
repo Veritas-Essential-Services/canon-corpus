@@ -107,7 +107,17 @@
   ],
   "twain-man-that-corrupted-hadleyburg": [
    1213,
-   "The Man That Corrupted Hadleyburg"
+   "The Man That Corrupted Hadleyburg",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
   ],
   "twain-is-shakespeare-dead-from-my-autobiography": [
    2431,
@@ -181,7 +191,17 @@
   ],
   "twain-some-rambling-notes-of-an-idle-excursion": [
    3182,
-   "Some Rambling Notes of an Idle Excursion"
+   "Some Rambling Notes of an Idle Excursion",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
   ],
   "twain-facts-concerning-the-recent-carnival-of-crime-in-conne": [
    3183,
@@ -355,6 +375,14 @@
   "twain-europe-and-elsewhere": [
    68604,
    "Europe and elsewhere"
+  ],
+  "twain-extracts-from-adams-diary-translated-from-the-original": [
+   1892,
+   "Extracts from Adam's Diary, translated from the original ms."
+  ],
+  "twain-a-tramp-abroad": [
+   119,
+   "A Tramp Abroad"
   ]
  },
  "internet_archive": {},
@@ -366,7 +394,7 @@
  "_checks": {
   "twain-tom-sawyer": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -375,7 +403,7 @@
   },
   "twain-huckleberry-finn": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -384,7 +412,7 @@
   },
   "twain-prince-and-the-pauper": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -393,7 +421,7 @@
   },
   "twain-tom-sawyer-abroad": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -402,7 +430,7 @@
   },
   "twain-tom-sawyer-detective": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -411,7 +439,7 @@
   },
   "twain-what-is-man-and-other-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -420,7 +448,7 @@
   },
   "twain-tragedy-of-puddnhead-wilson": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -429,7 +457,7 @@
   },
   "twain-30-000-bequest-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -438,7 +466,7 @@
   },
   "twain-life-on-the-mississippi": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -447,7 +475,7 @@
   },
   "twain-extract-from-captain-stormfields-visit-to-heaven": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -456,7 +484,7 @@
   },
   "twain-a-horses-tale": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -465,7 +493,7 @@
   },
   "twain-man-that-corrupted-hadleyburg": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -474,7 +502,7 @@
   },
   "twain-is-shakespeare-dead-from-my-autobiography": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -483,7 +511,7 @@
   },
   "twain-on-the-decay-of-the-art-of-lying": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -492,7 +520,7 @@
   },
   "twain-personal-recollections-of-joan-of-arc-volume-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -501,7 +529,7 @@
   },
   "twain-personal-recollections-of-joan-of-arc-volume-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -510,7 +538,7 @@
   },
   "twain-following-the-equator": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -519,7 +547,7 @@
   },
   "twain-in-defence-of-harriet-shelley": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -528,7 +556,7 @@
   },
   "twain-fenimore-coopers-literary-offences": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -537,7 +565,7 @@
   },
   "twain-essays-on-paul-bourget": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -546,7 +574,7 @@
   },
   "twain-a-dogs-tale": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -555,7 +583,7 @@
   },
   "twain-mark-twains-burlesque-autobiography": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -564,7 +592,7 @@
   },
   "twain-innocents-abroad": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -573,7 +601,7 @@
   },
   "twain-roughing-it": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -582,7 +610,7 @@
   },
   "twain-gilded-age": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -591,7 +619,7 @@
   },
   "twain-american-claimant": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -600,7 +628,7 @@
   },
   "twain-a-double-barrelled-detective-story": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -609,7 +637,7 @@
   },
   "twain-stolen-white-elephant": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -618,7 +646,7 @@
   },
   "twain-some-rambling-notes-of-an-idle-excursion": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -627,7 +655,7 @@
   },
   "twain-facts-concerning-the-recent-carnival-of-crime-in-conne": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -636,7 +664,7 @@
   },
   "twain-alonzo-fitz-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -645,7 +673,7 @@
   },
   "twain-those-extraordinary-twins": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -654,7 +682,7 @@
   },
   "twain-mysterious-stranger-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -663,7 +691,7 @@
   },
   "twain-christian-science": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -672,7 +700,7 @@
   },
   "twain-mark-twains-speeches": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -681,7 +709,7 @@
   },
   "twain-1601": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -690,7 +718,7 @@
   },
   "twain-goldsmiths-friend-abroad-again": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -699,7 +727,7 @@
   },
   "twain-curious-republic-of-gondour-and-other-whimsical-sketch": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -708,7 +736,7 @@
   },
   "twain-mark-twains-letters-volume-1-1853-1866": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -717,7 +745,7 @@
   },
   "twain-mark-twains-letters-volume-2-1867-1875": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -726,7 +754,7 @@
   },
   "twain-mark-twains-letters-volume-3-1876-1885": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -735,7 +763,7 @@
   },
   "twain-mark-twains-letters-volume-4-1886-1900": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -744,7 +772,7 @@
   },
   "twain-mark-twains-letters-volume-5-1901-1906": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -753,7 +781,7 @@
   },
   "twain-mark-twains-letters-volume-6-1907-1910": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -762,7 +790,7 @@
   },
   "twain-how-to-tell-a-story-and-other-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -771,7 +799,7 @@
   },
   "twain-man-that-corrupted-hadleyburg-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -780,7 +808,7 @@
   },
   "twain-a-tramp-abroad-volume-01": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -789,7 +817,7 @@
   },
   "twain-a-tramp-abroad-volume-02": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -798,7 +826,7 @@
   },
   "twain-a-tramp-abroad-volume-03": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -807,7 +835,7 @@
   },
   "twain-a-tramp-abroad-volume-04": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -816,7 +844,7 @@
   },
   "twain-a-tramp-abroad-volume-05": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -825,7 +853,7 @@
   },
   "twain-a-tramp-abroad-volume-06": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -834,7 +862,7 @@
   },
   "twain-a-tramp-abroad-volume-07": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -843,7 +871,7 @@
   },
   "twain-following-the-equator-5808": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -852,7 +880,7 @@
   },
   "twain-following-the-equator-5809": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -861,7 +889,7 @@
   },
   "twain-following-the-equator-5810": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -870,7 +898,7 @@
   },
   "twain-following-the-equator-5811": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -879,7 +907,7 @@
   },
   "twain-following-the-equator-5812": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -888,7 +916,7 @@
   },
   "twain-following-the-equator-5813": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -897,7 +925,7 @@
   },
   "twain-following-the-equator-5814": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -906,7 +934,7 @@
   },
   "twain-eves-diary-complete": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -915,7 +943,7 @@
   },
   "twain-editorial-wild-oats": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -924,7 +952,7 @@
   },
   "twain-chapters-from-my-autobiography": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -933,7 +961,7 @@
   },
   "twain-treaty-with-china-its-provisions-explained-new-york-tr": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -942,7 +970,7 @@
   },
   "twain-mysterious-stranger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -951,7 +979,7 @@
   },
   "twain-merry-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -960,7 +988,7 @@
   },
   "twain-1-000-000-bank-note-and-other-new-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -969,7 +997,7 @@
   },
   "twain-to-the-person-sitting-in-darkness": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -978,7 +1006,7 @@
   },
   "twain-king-leopolds-soliloquy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -987,7 +1015,25 @@
   },
   "twain-europe-and-elsewhere": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-extracts-from-adams-diary-translated-from-the-original": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-a-tramp-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
