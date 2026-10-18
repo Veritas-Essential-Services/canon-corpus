@@ -7267,6 +7267,8 @@ Shelf: `pipeline/w-i-thomas_shelf.json`. Two books, 1907-1923.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Sex and Society (1907) |  | `thomas-sex-and-society` | have (PG 15015) |
+| The Unadjusted Girl (1923) |  | `thomas-unadjusted-girl` | have (PG 59826) |
 
 ## Charles A. Beard (economic interpretation)
 
