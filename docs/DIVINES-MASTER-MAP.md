@@ -7358,6 +7358,19 @@ Slugs `pourrat-*`. Built from title pages read for round 32.
 | Kenedy issues of vols I-II; other 1910 and 1927 copies | alternate | not shelved |
 | The 1930 Theology of the Sacraments | excluded | |
 | Henri Pourrat's novels | excluded | |
+
+## Alfred Loisy (round 32, my pick, 2026-10-18)
+
+Slugs `loisy-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gospel and the Church, tr. Christopher Home (London: Isbister, 1903) | have-ocr | IA `cu31924029192859` |
+| The Gospel and the Church, new edition with prefatory memoir by George Tyrrell, tr. Christopher Home (London: Sir Isaac Pitman, 1908) | have-ocr | IA `gospelchurch00loisuoft` |
+| The Religion of Israel, tr. Arthur Galton (New York: G. P. Putnam's Sons, 1910) | have-ocr | IA `religionofisrae00lois` |
+| My Duel with the Vatican, tr. Richard Wilson Boynton (New York: E. P. Dutton; title page undated, copyright 1924) | have-ocr | IA `myduelwithvatica0000lois` |
+| Scribner issues of The Gospel and the Church (1904, 1909, 1912); other copies | alternate | not shelved |
+| The Birth of the Christian Religion (1948); 1976 and 1988 reprints; Raven's 1939 Gospel and the Church | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
