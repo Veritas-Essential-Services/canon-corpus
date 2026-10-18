@@ -1261,3 +1261,6 @@
 
 ## 2026-10-17 19:20 CDT — round 27 closed
 - Twelve shelves, 91 items (0 CCEL, 5 PG, 86 IA). Nicholas of Cusa dropped (lane B built it first). Froude's Remains part II vol. I pending. 0 uids minted.
+
+## 2026-10-17 19:30 CDT — nicholas-wiseman done
+- `pipeline/nicholas-wiseman_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -6008,6 +6008,24 @@ Slugs `kronstadt-*`. Russian archpriest; My Life in Christ, tr. E. E. Goulaeff (
 | Two other copies of the 1897 Cassell edition | alternate | not shelved |
 | Alexander Whyte's Father John of the Greek Church (1898) | excluded | |
 | The 1963 Jordanville reprint and later editions | excluded | |
+
+## Nicholas Wiseman (round 28, my pick, 2026-10-18)
+
+Slugs `wiseman-*`. First Archbishop of Westminster; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve Lectures on the Connexion between Science and Revealed Religion, vol. I (London: Joseph Booker, 1836) | have-ocr | IA `a615585001wiseuoft` |
+| Twelve Lectures on the Connexion between Science and Revealed Religion, vol. II (London: Joseph Booker, 1836) | have-ocr | IA `a615585002wiseuoft` |
+| Lectures on the Principal Doctrines and Practices of the Catholic Church, vol. II (London: Joseph Booker, 1836) | have-ocr | IA `LecturesOnThePrincipalDoctrinesV2` |
+| Essays on Various Subjects, vol. I (London: Charles Dolman, 1853) | have-ocr | IA `a615244101wiseuoft` |
+| Essays on Various Subjects, vol. II (London: Charles Dolman, 1853) | have-ocr | IA `a615244102wiseuoft` |
+| Essays on Various Subjects, vol. III (London: Charles Dolman, 1853) | have-ocr | IA `a615244103wiseuoft` |
+| Recollections of the Last Four Popes and of Rome in their Times (London: Hurst and Blackett, 1858) | have-ocr | IA `a615359300wiseuoft` |
+| Lectures on the Principal Doctrines, vol. I, second edition (London: Dolman, 1844; lecturesonprinc03wisegoog) | alternate | not shelved |
+| Other Booker 1836 and Dolman 1853 copies; Recollections (recollectionspop00wiseuoft) | alternate | not shelved |
+| Fabiola (1854), his novel: left out like the other novels on lane A's shelves; Sadlier 1856 (fabiolaorchurch01wisegoog) and PG 62254 (Benziger 1886) are there if wanted | excluded | |
+| The Hodson 1836 reporter's edition of the Moorfields lectures; the O'Shea Works with an impossible catalogue date; Characteristics (1898), an anthology by another hand | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

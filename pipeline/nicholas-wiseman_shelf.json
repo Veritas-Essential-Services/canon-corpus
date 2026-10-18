@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain Nicholas Wiseman (1802-1865, first Archbishop of Westminster, cardinal) for the Word Hoard: 7 volumes from Internet Archive scans: the Twelve Lectures on Science and Revealed Religion (1836), the Moorfields Lectures on the Principal Doctrines (vol. II, 1836), the Essays on Various Subjects (3 vols, 1853) and the Recollections of the Last Four Popes (1858). Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wiseman"
+ ],
+ "_surname": [
+  "nicholas wiseman",
+  "wiseman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wiseman-twelve-lectures-1": [
+   "a615585001wiseuoft",
+   "Twelve Lectures on the Connexion between Science and Revealed Religion, vol. I (London: Joseph Booker, 1836)"
+  ],
+  "wiseman-twelve-lectures-2": [
+   "a615585002wiseuoft",
+   "Twelve Lectures on the Connexion between Science and Revealed Religion, vol. II (London: Joseph Booker, 1836)"
+  ],
+  "wiseman-principal-doctrines-2": [
+   "LecturesOnThePrincipalDoctrinesV2",
+   "Lectures on the Principal Doctrines and Practices of the Catholic Church, vol. II (London: Joseph Booker, 1836)"
+  ],
+  "wiseman-essays-1": [
+   "a615244101wiseuoft",
+   "Essays on Various Subjects, vol. I (London: Charles Dolman, 1853)"
+  ],
+  "wiseman-essays-2": [
+   "a615244102wiseuoft",
+   "Essays on Various Subjects, vol. II (London: Charles Dolman, 1853)"
+  ],
+  "wiseman-essays-3": [
+   "a615244103wiseuoft",
+   "Essays on Various Subjects, vol. III (London: Charles Dolman, 1853)"
+  ],
+  "wiseman-four-popes": [
+   "a615359300wiseuoft",
+   "Recollections of the Last Four Popes and of Rome in their Times (London: Hurst and Blackett, 1858)"
+  ]
+ },
+ "_alternates": {
+  "wiseman-doctrines-1844": "Lectures on the Principal Doctrines, vol. I, second edition (London: Dolman, 1844; lecturesonprinc03wisegoog)",
+  "wiseman-copies": "Other Booker 1836 and Dolman 1853 copies; Recollections (recollectionspop00wiseuoft)"
+ },
+ "_excluded": {
+  "wiseman-fabiola": "Fabiola (1854), his novel: left out like the other novels on lane A's shelves; Sadlier 1856 (fabiolaorchurch01wisegoog) and PG 62254 (Benziger 1886) are there if wanted",
+  "wiseman-other": "The Hodson 1836 reporter's edition of the Moorfields lectures; the O'Shea Works with an impossible catalogue date; Characteristics (1898), an anthology by another hand"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "wiseman-doctrines-1": "The Booker 1836 vol. I of the Moorfields lectures: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "wiseman-twelve-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nicholas wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-twelve-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-principal-doctrines-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nicholas wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-essays-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-essays-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-essays-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wiseman-four-popes": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "wiseman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

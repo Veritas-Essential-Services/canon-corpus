@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 19:14 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 19:30 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -584,6 +584,14 @@ Twelve authors queued in QUEUE-A.json (a thirteenth, Nicholas of Cusa, was dropp
 | John of Kronstadt | john-of-kronstadt_shelf.json | none | 1 (My Life in Christ, extracts from the diary of John Iliytch Sergieff (Father John) of Cronstadt, tr. E. E. Goulaeff (London: Cassell, 1897)) | none | Whyte's book about him; the 1963 reprint |
 
 Round 27 closed 2026-10-17 19:20 CDT: twelve new shelves, 91 items (5 clean from Gutenberg; 86 raw IA OCR). None of these authors has a CCEL text. Nicholas of Cusa was dropped because lane B built `nicholas-of-cusa_shelf.json` (Salter's 1928 Vision of God) first; Giles Randall's 1646 English Vision of God (The Single Eye) is noted in QUEUE-A for lane B. Hurrell Froude's Remains, part II vol. I, is pending because its title page names no one. Philaret's catechism sits inside Blackmore's Doctrine of the Russian Church, whose title page does not name him.
+
+## Round 28: English and American Catholic bishops and historians, and Victorian Anglicans, before 1930 (my picks)
+
+Sixteen authors queued in QUEUE-A.json, each built from title pages read for this round. All wrote in English; editors and co-authors are recorded where the title page names them. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Nicholas Wiseman | nicholas-wiseman_shelf.json | none | 7 (Twelve Lectures on the Connexion between Science and Revealed Religion, vol. I (London: Joseph Booker, 1836); Twelve Lectures on the Connexion between Science and Revealed Religion, vol. II (London: Joseph Booker, 1836); Lectures on the Principal Doctrines and Practices of the Catholic Church, vol. II (London: Joseph Booker, 1836); Essays on Various Subjects, vol. I (London: Charles Dolman, 1853); Essays on Various Subjects, vol. II (London: Charles Dolman, 1853); Essays on Various Subjects, vol. III (London: Charles Dolman, 1853); Recollections of the Last Four Popes and of Rome in their Times (London: Hurst and Blackett, 1858)) | 1 (The Booker 1836 vol. I of the Moorfields lectures: not found) | Fabiola (his novel); anthologies by others |
 
 ## Paused 2026-10-10 15:12 CDT
 
