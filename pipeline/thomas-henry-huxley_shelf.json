@@ -1,0 +1,110 @@
+{
+ "_about": "T. H. Huxley (1825-1895) as philosopher and controversialist, clean Gutenberg texts: Lay Sermons, Addresses and Reviews (London: Macmillan, 1870), Critiques and Addresses (1873), Hume, English Men of Letters (London: Macmillan, 1879), Essays upon some Controverted Questions (London: Macmillan, 1892), Science and Education (Collected Essays III; preface dated 1893), Evolution and Ethics and other essays (Collected Essays IX; printing not named) and Science and Christian Tradition (Collected Essays V; New York: Appleton, 1902). His zoology, primers and single-essay etexts are not taken. US public domain. No uids minted.",
+ "_author": "Thomas Henry Huxley",
+ "_name_words": [
+  "thomas",
+  "henry",
+  "huxley"
+ ],
+ "_surname": [
+  "huxley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "huxley-lay-sermons-1870": [
+   16729,
+   "Lay Sermons, Addresses and Reviews (London: Macmillan, 1870)"
+  ],
+  "huxley-critiques-and-addresses-1873": [
+   12506,
+   "Critiques and Addresses (1873)"
+  ],
+  "huxley-hume-1879": [
+   18819,
+   "Hume, English Men of Letters (London: Macmillan, 1879)"
+  ],
+  "huxley-controverted-questions-1892": [
+   34698,
+   "Essays upon some Controverted Questions (London: Macmillan, 1892)"
+  ],
+  "huxley-science-and-education": [
+   7150,
+   "Science and Education, Collected Essays III (preface dated 1893)"
+  ],
+  "huxley-evolution-and-ethics": [
+   2940,
+   "Evolution and Ethics, and other essays, Collected Essays IX (printing not named)"
+  ],
+  "huxley-science-and-christian-tradition-1902": [
+   15905,
+   "Science and Christian Tradition, Collected Essays V (New York: Appleton, 1902)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "huxley-lay-sermons-1870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-critiques-and-addresses-1873": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-hume-1879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-controverted-questions-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-science-and-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-evolution-and-ethics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "huxley-science-and-christian-tradition-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
