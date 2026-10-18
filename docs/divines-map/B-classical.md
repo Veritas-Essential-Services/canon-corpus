@@ -7551,6 +7551,8 @@ Shelf: `pipeline/james-steuart_shelf.json`. Two volumes, 1767.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Inquiry into the Principles of Political Oeconomy, vol. 1 (1767) |  | `steuart-principles-political-oeconomy-1` | have (PG 60411) |
+| An Inquiry into the Principles of Political Oeconomy, vol. 2 (1767) |  | `steuart-principles-political-oeconomy-2` | have (PG 66710) |
 
 ## William De Witt Hyde (ethics)
 
