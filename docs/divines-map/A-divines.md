@@ -9408,3 +9408,22 @@ Slugs `lampe-*`. Built from title pages read for round 39.
 |---|---|---|
 | Theological Dissertations concerning the Endless Duration of Punishment, tr. Joseph Robertson (Edinburgh: J. Fairbairn and Ar. Constable; London: J. Mathews and T. Chapman; catalogued 1796) | have-ocr | IA `bim_eighteenth-century_theological-dissertation_lampe-friedrich-adolph_1796` |
 | Latin and German editions | excluded | |
+
+## Roger Williams (round 39, my pick, 2026-10-18)
+
+Slugs `rwilliams-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bloudy Tenent of Persecution, ed. Edward Bean Underhill for the Hanserd Knollys Society (London, 1848) | have-clean | Gutenberg 65739 |
+| Experiments of Spiritual Life & Health (1652; reprinted Providence: Sidney S. Rider, 1863) | have-clean | Gutenberg 62944 |
+| Publications of the Narragansett Club, First Series, vol. I (Providence, MDCCCLXVI) | have-ocr | IA `publicationsof01narr` |
+| Publications of the Narragansett Club, vol. II (Providence, MDCCCLXVII) | have-ocr | IA `publicationsof02narr` |
+| Publications of the Narragansett Club, vol. III, The Bloudy Tenent of Persecution, ed. Samuel L. Caldwell (Providence, MDCCCLXVII) | have-ocr | IA `publicationsofna03narr` |
+| Publications of the Narragansett Club, vol. IV, The Bloody Tenent yet More Bloody, ed. Samuel L. Caldwell (Providence, MDCCCLXX) | have-ocr | IA `publicationsof04narr` |
+| Publications of the Narragansett Club, vol. V, George Fox Digg'd out of his Burrowes, ed. J. Lewis Diman (Providence, MDCCCLXXII) | have-ocr | IA `publicationsofna05narr` |
+| Publications of the Narragansett Club, vol. VI, Letters of Roger Williams, ed. John Russell Bartlett (Providence, MDCCCLXXIV) | have-ocr | IA `publicationsof06narr` |
+| A Key into the Language of America (London: Gregory Dexter, 1643) | have-ocr | IA `keyintolanguageo02will` |
+| The Bloody Tenent yet More Bloody (London: for Giles Calvert, 1652) | have-ocr | IA `bloodytenentyetm00will` |
+| Other 1643 Key copies; the 1827 Rhode Island Historical Society Key (PG 63701); EEBO Bloudy Tenent (1644), Hireling Ministry (1652), Queries (1644) | alternate | not shelved |
+| Works about him; other Roger Williamses | excluded | |
