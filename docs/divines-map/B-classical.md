@@ -7392,6 +7392,9 @@ Shelf: `pipeline/sidney-webb_shelf.json`. Three books, 1889-1910.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Fabian Essays in Socialism (1889; ed. Bernard Shaw) |  | `webb-fabian-essays` | have (PG 69088) |
+| The History of Trade Unionism (with Beatrice Webb; revised edition) |  | `webb-history-of-trade-unionism` | have (PG 66887) |
+| English Poor Law Policy (1910; with Beatrice Webb) |  | `webb-english-poor-law-policy` | have (PG 43472) |
 
 ## Lysander Spooner (individualist anarchism)
 
