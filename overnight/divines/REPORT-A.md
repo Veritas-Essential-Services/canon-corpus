@@ -1531,3 +1531,6 @@
 
 ## 2026-10-17 21:17 CDT — augustin-poulain done
 - `pipeline/augustin-poulain_shelf.json`: 0 CCEL, 0 PG, 1 IA. Title pages read for poulain-graces-interior-prayer (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:17 CDT — pierre-pourrat done
+- `pipeline/pierre-pourrat_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

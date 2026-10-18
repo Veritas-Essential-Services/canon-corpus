@@ -7338,3 +7338,17 @@ Slugs `poulain-*`. Built from title pages read for round 32.
 | The Graces of Interior Prayer, tr. Leonora L. Yorke Smith (London: Kegan Paul, Trench, Trübner, 1910) | have-ocr | IA `gracesofinterior0000poul` |
 | Another 1910 copy; the 1911 Herder issue | alternate | not shelved |
 | The revision to the tenth French edition (1950) and later printings, one catalogued 1910 in error | excluded | |
+
+## Pierre Pourrat (round 32, my pick, 2026-10-18)
+
+Slugs `pourrat-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Spirituality, vol. I, tr. W. H. Mitchell and S. P. Jacques (London: Burns Oates and Washbourne, MCMXXII) | have-ocr | IA `christianspirit01pouruoft` |
+| Christian Spirituality in the Middle Ages, vol. II, tr. S. P. Jacques (London: Burns Oates and Washbourne, MCMXXIV) | have-ocr | IA `christianspiritu02pouruoft` |
+| Christian Spirituality: Later Developments, vol. III, tr. W. H. Mitchell (London: Burns Oates and Washbourne, MCMXXVII) | have-ocr | IA `christianspiritu03pouruoft` |
+| Theology of the Sacraments, authorized translation from the third French edition (St. Louis: B. Herder, 1910) | have-ocr | IA `theologysacramen00pouruoft` |
+| Kenedy issues of vols I-II; other 1910 and 1927 copies | alternate | not shelved |
+| The 1930 Theology of the Sacraments | excluded | |
+| Henri Pourrat's novels | excluded | |
