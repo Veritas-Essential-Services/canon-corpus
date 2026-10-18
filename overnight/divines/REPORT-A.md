@@ -1597,3 +1597,6 @@
 
 ## 2026-10-17 21:37 CDT — james-chalmers-of-new-guinea done
 - `pipeline/james-chalmers-of-new-guinea_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — adoniram-judson done
+- `pipeline/adoniram-judson_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

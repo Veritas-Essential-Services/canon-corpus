@@ -7679,6 +7679,18 @@ Slugs `jchalmers-*`. Built from title pages read for round 33.
 | Pioneering in New Guinea 1877-1894 (New York: Fleming H. Revell; title page undated, catalogued 1895) | have-ocr | IA `pioneeringinnewg00chal` |
 | Other 1885 and 1887 copies | alternate | not shelved |
 | Undated reissues with a posthumous editor's preface; lives by Robson, Lennox, Lovett and others | excluded | |
+
+## Adoniram Judson (round 33, my pick, 2026-10-18)
+
+Slugs `ajudson-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Baptism: a Sermon Preached in the Lal Bazar Chapel, Calcutta (Boston: Lincoln & Edmands, 1817) | have-ocr | IA `christianbaptism00juds` |
+| Christian Baptism, fifth American edition, revised and enlarged by the author (Boston: Gould, Kendall & Lincoln, 1846) | have-ocr | IA `christianbaptis00judsgoog` |
+| Mr. Judson's Letter to the Female Members of Christian Churches in the United States of America (Philadelphia; year garbled, catalogued 1832) | have-ocr | IA `mrjudsonslettert00juds` |
+| A Cry from Burmah (1831 letter, no imprint read); the 1913 Judson Day leaflet | alternate | not shelved |
+| The Judson Offering (many authors); Wayland's Memoir and other lives; his Burmese dictionaries and grammars | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
