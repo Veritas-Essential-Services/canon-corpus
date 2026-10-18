@@ -1,0 +1,39 @@
+{
+ "_about": "Joseph Joubert (1754-1824), French moralist: Pensées of Joubert, selected and translated by Henry Attwell, second edition (London: George Allen, 1896), raw IA OCR, clean 0.89. Left for the broadway-library series shelf (lane C): the Pensées and Letters in the Broadway Library (Routledge, 1928). US public domain. No uids minted.",
+ "_author": "Joseph Joubert",
+ "_name_words": [
+  "joseph",
+  "joubert"
+ ],
+ "_surname": [
+  "joubert"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joubert-pensees-attwell-1896": [
+   "pensesjoubert00joubgoog",
+   "Pensées of Joubert, tr. Henry Attwell, second edition (George Allen, 1896)",
+   "tr. Henry Attwell"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "joubert-pensees-attwell-1896": "Attwell"
+ },
+ "_checks": {
+  "joubert-pensees-attwell-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joubert",
+   "translator_claimed": "Attwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

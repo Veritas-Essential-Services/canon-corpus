@@ -6255,6 +6255,7 @@ Shelf: `pipeline/joseph-joubert_shelf.json`. Joseph Joubert (1754-1824). Attwell
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Pensées of Joubert, tr. Henry Attwell, second edition (George Allen, 1896) | Henry Attwell | `joubert-pensees-attwell-1896` | have-raw (IA `pensesjoubert00joubgoog`) |
 
 ## Perseus census (overflow)
 
