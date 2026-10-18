@@ -13076,8 +13076,6 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 | The American Commonwealth, vol. II (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v2` | have-raw (IA `americancommonwe02bryc_0`) |
 | The American Commonwealth, vol. III (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v3` | have-raw (IA `americancommonwe03bryc`) |
 
-Pending (wishlist): The American Commonwealth (1888, 3 vols.)
-
 ## Montesquieu (Romans, Persian Letters)
 
 Shelf: `pipeline/montesquieu_shelf.json`. Charles de Secondat, baron de Montesquieu (1689-1755). Raw IA OCR: Jehu Baker's Considerations on the Romans (Appleton, 1882) and John Davidson's Persian Letters (Dunne, 1901, bound with Goldsmith's Chinese Letters). The Spirit of Laws (Nugent) stays on the Adler shelf.
@@ -13142,6 +13140,65 @@ Shelf: `pipeline/james-kent_shelf.json`. James Kent (1763-1847). Commentaries on
 | Commentaries on American Law, vol. III (Halsted, 1828) |  | `kent-commentaries-american-law-v3-1828` | have-raw (IA `commentariesona04kentgoog`) |
 
 Pending (wishlist): Commentaries vol. IV (1830) with a legible title page
+
+## Henry Thomas Buckle (History of Civilization)
+
+Shelf: `pipeline/henry-thomas-buckle_shelf.json`. Henry Thomas Buckle (1821-1862). History of Civilization in England, 3 vols. (Toronto, 1878), clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Civilization in England, vol. I (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v1` | have (PG 44493) |
+| History of Civilization in England, vol. II (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v2` | have (PG 44494) |
+| History of Civilization in England, vol. III (Rose-Belford, 1878) |  | `buckle-history-civilization-england-v3` | have (PG 44495) |
+
+## John Morley (French Enlightenment, liberalism)
+
+Shelf: `pipeline/john-morley_shelf.json`. John Morley (1838-1923). On Compromise, Voltaire, Rousseau, Diderot and the Encyclopaedists vol. II, Burke; clean Gutenberg, Macmillan 1886-1908 printings.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Compromise (Macmillan, 1886; printing 1908) |  | `morley-on-compromise-1886` | have (PG 11557) |
+| Voltaire (Macmillan, 1886) |  | `morley-voltaire-1886` | have (PG 40846) |
+| Rousseau, vols. I and II (Macmillan, 1886; reprint 1905) |  | `morley-rousseau-1886` | have (PG 14052) |
+| Diderot and the Encyclopaedists, vol. II (Macmillan, 1886; reprint 1905) |  | `morley-diderot-encyclopaedists-v2` | have (PG 22797) |
+| Burke (Macmillan, 1888; reprint 1907) |  | `morley-burke-1888` | have (PG 12922) |
+
+Pending (wishlist): Diderot and the Encyclopaedists vol. I (PG 15098 would not download)
+
+## George John Romanes (mind, evolution, belief)
+
+Shelf: `pipeline/george-romanes_shelf.json`. George John Romanes (1848-1894). Mental Evolution in Man, Darwin and After Darwin (3 vols.), Mind and Motion and Monism, Thoughts on Religion; clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Mental Evolution in Man (Kegan Paul, 1888) |  | `romanes-mental-evolution-in-man-1888` | have (PG 50382) |
+| Darwin, and After Darwin, vol. I (Open Court, fourth edition 1910) |  | `romanes-darwin-after-darwin-v1` | have (PG 24800) |
+| Darwin, and After Darwin, vol. II (Open Court, 1895; printing 1916) |  | `romanes-darwin-after-darwin-v2` | have (PG 37759) |
+| Darwin, and After Darwin, vol. III (Open Court, 1897; printing 1906) |  | `romanes-darwin-after-darwin-v3` | have (PG 37777) |
+| Mind and Motion and Monism (Longmans, 1895) |  | `romanes-mind-motion-monism-1895` | have (PG 22283) |
+| Thoughts on Religion, ed. Charles Gore (Longmans; twelfth impression 1904) |  | `romanes-thoughts-on-religion-1895` | have (PG 16942) |
+
+Pending (wishlist): A Candid Examination of Theism (1878; PG 19003 would not download)
+
+## John Tyndall (philosophy of science)
+
+Shelf: `pipeline/john-tyndall_shelf.json`. John Tyndall (1820-1893). Fragments of Science (1879), the imagination essays (1870), the Belfast Address (1874); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Fragments of Science, sixth edition (Longmans, 1879) |  | `tyndall-fragments-of-science-1879` | have (PG 24527) |
+| Essays on the Use and Limit of the Imagination in Science (Longmans, 1870) |  | `tyndall-use-limit-imagination-1870` | have (PG 74654) |
+| Address delivered before the British Association assembled at Belfast (Longmans, 1874) |  | `tyndall-belfast-address-1874` | have (PG 75664) |
+
+## Erasmus Darwin (Zoonomia)
+
+Shelf: `pipeline/erasmus-darwin_shelf.json`. Erasmus Darwin (1731-1802). Zoonomia (1796, 2 vols.) and The Temple of Nature (1803); clean Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Zoonomia, vol. I, second edition (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v1-1796` | have (PG 15707) |
+| Zoonomia, vol. II (J. Johnson, 1796) |  | `erasmus-darwin-zoonomia-v2-1796` | have (PG 27600) |
+| The Temple of Nature (J. Johnson, 1803) |  | `erasmus-darwin-temple-of-nature-1803` | have (PG 26861) |
 
 ## Perseus census (overflow)
 

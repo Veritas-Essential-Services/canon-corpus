@@ -1628,6 +1628,14 @@
    "started": "2026-10-17T20:27:59-05:00",
    "finished": "2026-10-17T20:33:37-05:00",
    "notes": "2 new shelves (denis-diderot, james-kent) + james-bryce, augustus-de-morgan extended; 12 items, all verified, 0 rights flags. Not minted."
+  },
+  {
+   "id": "2026-10-17be",
+   "status": "done",
+   "scope": "Buckle, Morley, Romanes, Tyndall, Erasmus Darwin",
+   "started": "2026-10-17T20:33:37-05:00",
+   "finished": "2026-10-17T20:37:08-05:00",
+   "notes": "5 new shelves; 20 items, all verified, 0 rights flags. Not minted."
   }
  ]
 }

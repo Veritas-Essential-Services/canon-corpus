@@ -1145,3 +1145,11 @@
 - augustus-de-morgan: Essay on Probabilities (1838), Syllabus (1860), Budget of Paradoxes (1872), Study and Difficulties of Mathematics (1898/1902)
 - Held: Kent vol. IV (no legible year); PG Budget of Paradoxes (Dover 1954 republication)
 - Checked, nothing to take: Condillac (no pre-1931 English on IA), Poincare (Greenstreet's Science and Hypothesis is lane C's pending item), T. H. Green's Political Obligation (already inside the Works on thomas-hill-green)
+
+## 2026-10-17 20:37 CDT — Round 2026-10-17be: Victorian philosophy of history and science
+- henry-thomas-buckle: History of Civilization in England (1878, 3 vols.)
+- john-morley: On Compromise, Voltaire, Rousseau, Diderot vol. II, Burke
+- george-romanes: Mental Evolution in Man, Darwin and After Darwin (3 vols.), Mind and Motion and Monism, Thoughts on Religion
+- john-tyndall: Fragments of Science, Imagination in Science, Belfast Address
+- erasmus-darwin: Zoonomia (2 vols.), Temple of Nature
+- Wanted: Morley's Diderot vol. I (PG 15098) and Romanes's Candid Examination (PG 19003), both 404 on download

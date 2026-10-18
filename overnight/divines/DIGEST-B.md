@@ -246,3 +246,4 @@
 - 20:21 round bb: Tawney, Acton, Maitland, Gierke, Bryce new; Hobhouse's Liberalism added. Acton, Maitland and Bryce sit on the history side of lane B's brief; they are taken as political and legal thought.
 - 20:27 round bc: Montesquieu, Blackstone first edition, Story, James Wilson, Kant's politics. Held: a 1966 litho reprint of Blackstone Book I. Story's Conflict of Laws and Equity Jurisprudence on the wishlist.
 - 20:33 round bd: Diderot (Jourdain, Pollock), Kent vols. I-III, Bryce's American Commonwealth 1888, four De Morgan works. Held: Kent vol. IV, PG Budget of Paradoxes (Dover 1954).
+- 20:37 round be: Buckle, John Morley, Romanes, Tyndall, Erasmus Darwin (20 clean Gutenberg texts). Two PG ids 404 on download, left as wanted.
