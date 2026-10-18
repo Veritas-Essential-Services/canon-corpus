@@ -144,6 +144,22 @@
   "jkjerome-anthony-john": [
    66465,
    "Anthony John"
+  ],
+  "jkjerome-second-thoughts-of-an-idle-fellow": [
+   1915,
+   "The Second Thoughts of an Idle Fellow"
+  ],
+  "jkjerome-novel-notes": [
+   2037,
+   "Novel Notes"
+  ],
+  "jkjerome-told-after-supper": [
+   1993,
+   "Told After Supper"
+  ],
+  "jkjerome-stage-land": [
+   858,
+   "Stage-Land"
   ]
  },
  "internet_archive": {},
@@ -420,6 +436,42 @@
    "pg_translator": null
   },
   "jkjerome-anthony-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-second-thoughts-of-an-idle-fellow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-novel-notes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-told-after-supper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-stage-land": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
