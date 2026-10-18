@@ -6799,6 +6799,22 @@ Slugs `lallemant-*`. Jesuit: The Spiritual Doctrine in English.
 | The Spiritual Doctrine of Father Louis Lallemant, translated from the French, ed. Frederick William Faber (London: Burns & Lambert, 1855) | have-ocr | IA `spiritualdoctri00fabegoog` |
 | Other 1855 copies; Sadlier's new edition (copyright 1885) | alternate | not shelved |
 | The 1946 edition and modern anthologies | excluded | |
+
+## Jean-Baptiste Saint-Jure (round 30, my pick, 2026-10-18)
+
+Slugs `saint-*`. Jesuit: the Knowledge and Love of Jesus Christ and other works in English.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the Knowledge and Love of Our Lord Jesus Christ, vol. II, by a Member of the Order of Mercy (New York: P. O'Shea, 1870) | have-ocr | IA `treatiseonknowle0002vari` |
+| The Spiritual Man; or, the Spiritual Life reduced to its first principles, by a Member of the Order of Mercy (London: Burns and Oates, 1878) | have-ocr | IA `TheSpiritualManOr` |
+| Union with Our Lord Jesus Christ in his principal mysteries, translation revised by a Father of the same Society (New York: D. & J. Sadlier; entered 1876) | have-ocr | IA `unionwithourlord00sain` |
+| The Religious: a Treatise on the Vows and Virtues of the Religious State, vol. I, by a Sister of Mercy (New York: P. O'Shea; entered 1881) | have-ocr | IA `thereligiousatre01sainuoft` |
+| The Religious: a Treatise on the Vows and Virtues of the Religious State, vol. II, by a Sister of Mercy (New York: P. O'Shea, 1883) | have-ocr | IA `thereligiousatre02sainuoft` |
+| The Holy Life of Monsieur de Renty (London, 1684, EEBO): translator and year not legible; Wesley's 1741 abridgment | alternate | not shelved |
+| Knowledge and Love vol. II (1875); other Spiritual Man and Union copies | alternate | not shelved |
+| Thompson's Life of de Renty and Nobility at the Cross: other hands | excluded | |
+| The Secret of Peace (1961) and Trustful Surrender (modern) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
