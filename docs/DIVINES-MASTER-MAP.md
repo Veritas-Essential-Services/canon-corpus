@@ -37789,6 +37789,20 @@ Shelf: `pipeline/sabatini-works_shelf.json` (2026-10-17; added at the coordinato
 | Captain Blood | have | PG 1965, `rsabatini-captain-blood` (2652 units) |
 | pg-29431 | excluded | PG 29431: Gutenberg's index of the author's works, not a book. |
 
+## L. M. Montgomery
+
+Shelf: `pipeline/montgomery-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her magazine short stories, 1896-1922, in Gutenberg's six gatherings. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lucy Maud Montgomery Short Stories, 1896 to 1901 | have | PG 24873, `lmmontgomery-short-stories-1896-to-1901` (1501 units) |
+| Lucy Maud Montgomery Short Stories, 1902 to 1903 | have | PG 24874, `lmmontgomery-lucy-maud-montgomery-short-stories-1902-to-1903` (1721 units) |
+| Lucy Maud Montgomery Short Stories, 1904 | have | PG 24875, `lmmontgomery-lucy-maud-montgomery-short-stories-1904` (1083 units) |
+| Lucy Maud Montgomery Short Stories, 1905 to 1906 | have | PG 24876, `lmmontgomery-lucy-maud-montgomery-short-stories-1905-to-1906` (1825 units) |
+| Lucy Maud Montgomery Short Stories, 1907 to 1908 | have | PG 24877, `lmmontgomery-lucy-maud-montgomery-short-stories-1907-to-1908` (1857 units) |
+| Lucy Maud Montgomery Short Stories, 1909 to 1922 | have | PG 24878, `lmmontgomery-short-stories-1909-to-1922` (2148 units) |
+| pg-59324 | excluded | PG 59324: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

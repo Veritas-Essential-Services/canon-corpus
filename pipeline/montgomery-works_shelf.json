@@ -1,0 +1,152 @@
+{
+ "_about": "The six gatherings of L. M. Montgomery's magazine short stories, 1896-1922 (PG 24873-24878), which the Montgomery shelf left for a later batch. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "L. M. Montgomery",
+ "_name_words": [
+  "montgomery"
+ ],
+ "_surname": [
+  "l. m. montgomery",
+  "lucy maud montgomery"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lmmontgomery-short-stories-1896-to-1901": [
+   24873,
+   "Lucy Maud Montgomery Short Stories, 1896 to 1901",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:A\\ Case\\ of\\ Trespass|A\\ Christmas\\ Inspiration|A\\ Christmas\\ Mistake|A\\ Strayed\\ Allegiance|An\\ Invitation\\ Given\\ on\\ Impulse|Detected\\ by\\ the\\ Camera|In\\ Spite\\ of\\ Myself|Kismet|Lillian's\\ Business\\ Venture|Miriam's\\ Lover|Miss\\ Calista's\\ Peppermint\\ Bottle|The\\ Jest\\ that\\ Failed|The\\ Pennington's\\ Girl|The\\ Red\\ Room|The\\ Setness\\ of\\ Theodosia|The\\ Story\\ of\\ An\\ Invitation|The\\ Touch\\ of\\ Fate|The\\ Waking\\ of\\ Helen|The\\ Way\\ of\\ Winning\\ Anne|Young\\ Si))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?A\\ Case\\ of\\ Trespass)$",
+    "front": true
+   }
+  ],
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1902-to-1903": [
+   24874,
+   "Lucy Maud Montgomery Short Stories, 1902 to 1903",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:A\\ Patent\\ Medicine\\ Testimonial|A\\ Sandshore\\ Wooing|After\\ Many\\ Days|An\\ Unconventional\\ Confidence|Aunt\\ Cyrilla's\\ Christmas\\ Basket|Davenport's\\ Story|Emily's\\ Husband|Min|Miss\\ Cordelia's\\ Accommodation|Ned's\\ Stroke\\ of\\ Business|Our\\ Runaway\\ Kite|The\\ Bride\\ Roses|The\\ Josephs'\\ Christmas|The\\ Magical\\ Bond\\ of\\ the\\ Sea|The\\ Martyrdom\\ of\\ Estella|The\\ Old\\ Chest\\ at\\ Wyther\\ Grange|The\\ Osborne's\\ Christmas|The\\ Romance\\ of\\ Aunt\\ Beatrice|The\\ Running\\ Away\\ of\\ Chester|The\\ Strike\\ at\\ Putney|The\\ Unhappiness\\ of\\ Miss\\ Farquhar|Why\\ Mr\\.\\ Cropper\\ Changed\\ His\\ Mind))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?A\\ Patent\\ Medicine\\ Testimonial)$",
+    "front": true
+   }
+  ],
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1904": [
+   24875,
+   "Lucy Maud Montgomery Short Stories, 1904",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:A\\ Fortunate\\ Mistake|An\\ Unpremeditated\\ Ceremony|At\\ the\\ Bay\\ Shore\\ Farm|Elizabeth's\\ Child|Freda's\\ Adopted\\ Grave|How\\ Don\\ Was\\ Saved|Miss\\ Madeline's\\ Proposal|Miss\\ Sally's\\ Company|Mrs\\.\\ March's\\ Revenge|Nan|Natty\\ of\\ Blue\\ Point|Penelope's\\ Party\\ Waist|The\\ Girl\\ and\\ the\\ Wild\\ Race|The\\ Promise\\ of\\ Lucy\\ Ellen|The\\ Pursuit\\ of\\ the\\ Ideal|The\\ Softening\\ of\\ Miss\\ Cynthia|Them\\ Notorious\\ Pigs|Why\\ Not\\ Ask\\ Miss\\ Price\\?))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?A\\ Fortunate\\ Mistake)$",
+    "front": true
+   }
+  ],
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1905-to-1906": [
+   24876,
+   "Lucy Maud Montgomery Short Stories, 1905 to 1906",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:A\\ Correspondence\\ and\\ a\\ Climax|An\\ Adventure\\ on\\ Island\\ Rock|At\\ Five\\ O'Clock\\ in\\ the\\ Morning|Aunt\\ Susanna's\\ Birthday\\ Celebration|Bertie's\\ New\\ Year|Between\\ the\\ Hill\\ and\\ the\\ Valley|Clorinda's\\ Gifts|Cyrilla's\\ Inspiration|Dorinda's\\ Desperate\\ Deed|Her\\ Own\\ People|Ida's\\ New\\ Year\\ Cake|In\\ the\\ Old\\ Valley|Jane\\ Lavinia|Mackereling\\ Out\\ in\\ the\\ Gulf|Millicent's\\ Double|The\\ Blue\\ North\\ Room|The\\ Christmas\\ Surprise\\ At\\ Enderly\\ Road|The\\ Dissipation\\ of\\ Miss\\ Ponsonby|The\\ Falsoms'\\ Christmas\\ Dinner|The\\ Fraser\\ Scholarship|The\\ Girl\\ at\\ the\\ Gate|The\\ Light\\ on\\ the\\ Big\\ Dipper|The\\ Prodigal\\ Brother|The\\ Redemption\\ of\\ John\\ Churchill|The\\ Schoolmaster's\\ Letter|The\\ Story\\ of\\ Uncle\\ Dick|The\\ Understanding\\ of\\ Sister\\ Sara|The\\ Unforgotten\\ One|The\\ Wooing\\ of\\ Bessy|Their\\ Girl\\ Josie|When\\ Jack\\ and\\ Jill\\ Took\\ a\\ Hand))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?A\\ Correspondence\\ and\\ a\\ Climax)$",
+    "front": true
+   }
+  ],
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1907-to-1908": [
+   24877,
+   "Lucy Maud Montgomery Short Stories, 1907 to 1908",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:Millionaire's\\ Proposal|A\\ Substitute\\ Journalist|Anna's\\ Love\\ Letters|Aunt\\ Caroline's\\ Silk\\ Dress|Aunt\\ Susanna's\\ Thanksgiving\\ Dinner|By\\ Grace\\ of\\ Julius\\ Caesar|By\\ the\\ Rule\\ of\\ Contrary|Fair\\ Exchange\\ and\\ No\\ Robbery|Four\\ Winds|Marcella's\\ Reward|Margaret's\\ Patient|Matthew\\ Insists\\ on\\ Puffed\\ Sleeves|Missy's\\ Room|Ted's\\ Afternoon\\ Off|The\\ Girl\\ Who\\ Drove\\ the\\ Cows|The\\ Doctor's\\ Sweetheart|The\\ End\\ of\\ the\\ Young\\ Family\\ Feud|The\\ Genesis\\ of\\ the\\ Doughnut\\ Club|The\\ Growing\\ Up\\ of\\ Cornelia|The\\ Old\\ Fellow's\\ Letter|The\\ Parting\\ of\\ the\\ Ways|The\\ Promissory\\ Note|The\\ Revolt\\ of\\ Mary\\ Isabel|The\\ Twins\\ and\\ a\\ Wedding))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?Millionaire's\\ Proposal)$",
+    "front": true
+   }
+  ],
+  "lmmontgomery-short-stories-1909-to-1922": [
+   24878,
+   "Lucy Maud Montgomery Short Stories, 1909 to 1922",
+   {
+    "levels": [
+     {
+      "re": "(?i:(?:A |An |The )?(?:A\\ Golden\\ Wedding|A\\ Redeeming\\ Sacrifice|A\\ Soul\\ that\\ Was\\ Not\\ At\\ Home|Abel\\ And\\ His\\ Great\\ Adventure|Akin\\ to\\ Love|Aunt\\ Philippa\\ and\\ the\\ Men|Bessie's\\ Doll|Charlotte's\\ Ladies|Christmas\\ at\\ Red\\ Butte|How\\ We\\ Went\\ to\\ the\\ Wedding|Jessamine|Miss\\ Sally's\\ Letter|My\\ Lady\\ Jane|Robert\\ Turner's\\ Revenge|The\\ Fillmore\\ Elderberries|The\\ Finished\\ Story|The\\ Garden\\ of\\ Spices|The\\ Girl\\ and\\ the\\ Photograph|The\\ Gossip\\ of\\ Valley\\ View|The\\ Letters|The\\ Life\\-Book\\ of\\ Uncle\\ Jesse|The\\ Little\\ Black\\ Doll|The\\ Man\\ on\\ the\\ Train|The\\ Romance\\ of\\ Jedediah|The\\ Tryst\\ of\\ the\\ White\\ Lady|Uncle\\ Richard's\\ New\\ Year\\ Dinner|White\\ Magic))$"
+     }
+    ],
+    "start": "(?i:(?:A |An |The )?A\\ Golden\\ Wedding)$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59324": "PG 59324: Gutenberg's index of the author's works, not a book."
+ },
+ "_checks": {
+  "lmmontgomery-short-stories-1896-to-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1902-to-1903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1905-to-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmontgomery-lucy-maud-montgomery-short-stories-1907-to-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmontgomery-short-stories-1909-to-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "l. m. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
