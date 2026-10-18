@@ -1030,3 +1030,12 @@
 - Locke: The Works of John Locke, ten volumes (London: Tegg and others, 1823), one imprint throughout; vols. IV, V and X have the year garbled in OCR, read as 1823
 - Vol. VI supplies the Letters on Toleration; vols. I-III, V and IX overlap texts already held and are taken as part of the collected edition
 - Schleiermacher: Soliloquies, tr. H. L. Friess (Open Court, 1926)
+
+## 2026-10-17 19:24 CDT — Round ao: wishlist fill, seventh batch
+- Dugald Stewart: Collected Works vols. I, V-XI (1854-60), completing the set with II-IV
+- Rosmini: Psychology, 3 vols. (1884-88)
+- Vattel: Law of Nations, tr. Fenwick (Carnegie, 1916), English vol. III only
+- Collins: Inquiry concerning Human Liberty, 3rd ed. (1735), replacing the 0.774 hold
+- Priestley: Hartley's Theory of the Human Mind (1775)
+- Holbach: System of Nature, 1820-21 translation, period printing
+- Held: Schleiermacher, The Christian Faith (1928): open scans are later impressions
