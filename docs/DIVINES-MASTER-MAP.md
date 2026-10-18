@@ -7746,6 +7746,20 @@ Slugs `hewit-*`. Built from title pages read for round 33.
 | The Teaching of St. John the Apostle to the Churches of Asia and the World (New York: The Catholic Book Exchange, 1895) | have-ocr | IA `teachingofstjohn00hewi` |
 | The 1889 seventh edition of the Baker memoir; the 1893 reissues of Problems and The King's Highway | alternate | not shelved |
 | Huntington's Gropings after Truth; his translation of a French life of Dumoulin Borie | excluded | |
+
+## John Gilmary Shea (round 33, my pick, 2026-10-18)
+
+Slugs `shea-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Catholic Church in Colonial Days, 1521-1763 (History of the Catholic Church in the United States, vol. 1) (New York: John G. Shea, 1886) | have-ocr | IA `historychurchusa01steauoft` |
+| Life and Times of the Most Rev. John Carroll, 1763-1815 (vol. 2) (New York: John G. Shea, 1888) | have-ocr | IA `lifetimesofmostr00shea` |
+| A History of the Catholic Church within the Limits of the United States, 1808-1843 (vol. 3) (New York: John G. Shea, 1890) | have-ocr | IA `historychurchusa03sheauoft` |
+| A History of the Catholic Church within the Limits of the United States, 1843-1866 (vol. 4) (New York: John G. Shea, 1892) | have-ocr | IA `historychurchusa04sheauoft` |
+| History of the Catholic Missions among the Indian Tribes of the United States, 1529-1854 (New York: Edward Dunigan, 1855) | have-ocr | IA `historyofthecath00sheauoft` |
+| Other copies of the four volumes, some catalogued 1886 in error; the 1855 Missions in other copies | alternate | not shelved |
+| Undated Kenedy reissues of the Missions catalogued 1854 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
