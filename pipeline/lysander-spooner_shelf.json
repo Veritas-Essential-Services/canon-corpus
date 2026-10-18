@@ -1,0 +1,96 @@
+{
+ "_about": "Lysander Spooner (1808-1887), American individualist anarchist and legal theorist. Gutenberg: The Unconstitutionality of Slavery (1845); An Essay on the Trial by Jury (1852); A New Banking System (1873); No Treason, no. VI: The Constitution of No Authority (1870); A Letter to Thomas F. Bayard (1882); A Letter to Grover Cleveland (1886). A second Gutenberg transcription of the Trial by Jury (32984) is left out as a duplicate. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Lysander Spooner",
+ "_name_words": [
+  "lysander",
+  "spooner"
+ ],
+ "_surname": [
+  "spooner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "spooner-unconstitutionality-of-slavery": [
+   31844,
+   "The Unconstitutionality of Slavery (1845)"
+  ],
+  "spooner-trial-by-jury": [
+   1201,
+   "An Essay on the Trial by Jury (1852)"
+  ],
+  "spooner-new-banking-system": [
+   34187,
+   "A New Banking System (1873)"
+  ],
+  "spooner-no-treason": [
+   36145,
+   "No Treason, no. VI: The Constitution of No Authority (1870)"
+  ],
+  "spooner-letter-to-bayard": [
+   36161,
+   "A Letter to Thomas F. Bayard (1882)"
+  ],
+  "spooner-letter-to-cleveland": [
+   35016,
+   "A Letter to Grover Cleveland (1886)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "spooner-unconstitutionality-of-slavery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spooner-trial-by-jury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spooner-new-banking-system": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spooner-no-treason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spooner-letter-to-bayard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spooner-letter-to-cleveland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "spooner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

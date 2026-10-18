@@ -7402,6 +7402,12 @@ Shelf: `pipeline/lysander-spooner_shelf.json`. Six works, 1845-1886.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Unconstitutionality of Slavery (1845) |  | `spooner-unconstitutionality-of-slavery` | have (PG 31844) |
+| An Essay on the Trial by Jury (1852) |  | `spooner-trial-by-jury` | have (PG 1201) |
+| A New Banking System (1873) |  | `spooner-new-banking-system` | have (PG 34187) |
+| No Treason, no. VI: The Constitution of No Authority (1870) |  | `spooner-no-treason` | have (PG 36145) |
+| A Letter to Thomas F. Bayard (1882) |  | `spooner-letter-to-bayard` | have (PG 36161) |
+| A Letter to Grover Cleveland (1886) |  | `spooner-letter-to-cleveland` | have (PG 35016) |
 
 ## Lewis Mumford (utopias and the city)
 
