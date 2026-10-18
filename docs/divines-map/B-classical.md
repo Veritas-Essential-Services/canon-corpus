@@ -3552,6 +3552,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
 | Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
 | The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
+| Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891) | W. Hastie | `kant-principles-of-politics-hastie-1891` | have-raw (IA `kantsprincipleso00kant`) |
 
 ## Hume
 
