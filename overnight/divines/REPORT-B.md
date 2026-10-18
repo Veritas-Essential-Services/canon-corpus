@@ -1330,3 +1330,9 @@
 - charles-darwin (20), alfred-russel-wallace (19), charles-lyell (4); all fetched, no PG copyright or translator flags
 - Gap found by auditing ~200 canonical names against every branch's shelves: no shelf held Darwin beyond adler's two books, nor Wallace or Lyell at all
 - Noted for lane C, not taken: unheld PG translations of Nietzsche (Antichrist tr. Mencken 19322; Human, All Too Human tr. Harvey 38145), Haeckel (9199, 25711, 44541), Poincare (Science and Hypothesis 37157), Voltaire (Letters on England 2445; Philosophical Dictionary 18569), Montaigne Cotton volumes 3581-3599 (3600 complete is on adler)
+
+## 2026-10-17 22:50 CDT — Round cf: social and moral philosophy; Wallace and Darwin extras
+- New: albion-small (2), simon-patten (6), mark-hopkins (4, theology left to lane A), william-mackintire-salter (3), c-e-m-joad (5)
+- Added: lester-frank-ward +1 (Outlines of Sociology 1898), alfred-russel-wallace +3 (My Life 2 vols 1905; Wonderful Century 1899), charles-darwin +1 (Orchids, 2nd ed. 1886)
+- Dropped: Filmer's Patriarcha 1680 (EEBO OCR 0.77 < 0.78)
+- Held: Joad, Introduction to Modern Philosophy (reprints of 1934 and later only)

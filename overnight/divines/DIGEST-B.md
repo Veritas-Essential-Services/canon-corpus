@@ -273,3 +273,4 @@
 - 22:35 round cc: 8 British logic/idealist shelves (25 vols). Held for no title-page year: Read, Metaphysics of Nature; Stebbing, Modern Introduction to Logic.
 - 22:41 round cd: 13 American psychology/pragmatism shelves (40 vols) + Lewis 1929. Held: A. W. Moore offprint (no year).
 - 22:46 round ce: Darwin (20), Wallace (19), Lyell (4) from PG. For lane C: unheld PG translations of Nietzsche, Haeckel, Poincare, Voltaire listed in REPORT-B.
+- 22:50 round cf: Small, Patten, Mark Hopkins, Salter, Joad (20 works) + Ward/Wallace/Darwin extras. Filmer dropped for OCR.

@@ -15430,6 +15430,7 @@ Shelf: `pipeline/lester-frank-ward_shelf.json`. Lester Frank Ward (1841-1913). P
 | Applied Sociology (Ginn, 1906) |  | `ward-applied-sociology-1906` | have-raw (IA `appliedsociology00ward`) |
 | Dynamic Sociology, vol. I (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v1` | have-raw (IA `cu31924032492963`) |
 | Dynamic Sociology, vol. II (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v2` | have-raw (IA `dynamicsociology02warduoft`) |
+| Outlines of Sociology (Macmillan, 1898) |  | `ward-outlines-of-sociology-1898` | have-raw (IA `outlinesofsociol00warduoft`) |
 
 ## Franklin Henry Giddings (sociology)
 
@@ -16944,8 +16945,9 @@ Shelf: `pipeline/charles-darwin_shelf.json`. Twenty works beyond the Origin and 
 | More Letters of Charles Darwin, vol. 1, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v1` | have (PG 2739) |
 | More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v2` | have (PG 2740) |
 | The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909) |  | `darwin-foundations-of-the-origin-1909` | have (PG 22728) |
+| The Various Contrivances by which Orchids are Fertilised by Insects, 2nd ed., revised (Appleton, 1886) |  | `darwin-fertilisation-of-orchids-1886` | have-raw (IA `variouscontrivan1886darw`) |
 
-Pending (wishlist): Fertilisation of Orchids (1862), not on Project Gutenberg in English.
+Pending (wishlist): Fertilisation of Orchids, first edition (1862).
 
 ## Alfred Russel Wallace (natural selection and biogeography)
 
@@ -16972,8 +16974,9 @@ Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
 | The Remedy for Unemployment |  | `wallace-remedy-for-unemployment` | have (PG 50690) |
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
-
-Pending (wishlist): My Life (1905) and The Wonderful Century (1898).
+| My Life, a record of events and opinions, vol. I (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v1` | have-raw (IA `myliferecordofev01walluoft`) |
+| My Life, a record of events and opinions, vol. II (Chapman and Hall, 1905) |  | `wallace-my-life-1905-v2` | have-raw (IA `myliferecordofev21905wall`) |
+| The Wonderful Century, its successes and its failures, 3rd edition (1899) |  | `wallace-wonderful-century-1899` | have-raw (IA `wonderfulcentur00wallgoog`) |
 
 ## Charles Lyell (uniformitarian geology)
 
@@ -16987,6 +16990,65 @@ Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
 | The Student's Elements of Geology |  | `lyell-students-elements-of-geology` | have (PG 3772) |
 
 Pending (wishlist): Principles of Geology, 1st edition (1830-33).
+
+## Albion W. Small (Chicago sociology)
+
+Shelf: `pipeline/albion-small_shelf.json`. Two books, 1905-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| General Sociology (University of Chicago Press, 1905; printing of 1907) |  | `small-general-sociology-1905` | have-raw (IA `generalsociology00smal`) |
+| The Meaning of Social Science (University of Chicago Press, 1910) |  | `small-meaning-of-social-science-1910` | have-raw (IA `meaningsocialsc00smalgoog`) |
+
+## Simon N. Patten (economics of abundance)
+
+Shelf: `pipeline/simon-patten_shelf.json`. Six books, 1889-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Consumption of Wealth (University of Pennsylvania, 1889) |  | `patten-consumption-of-wealth-1889` | have-raw (IA `consumptionofwea00pattrich`) |
+| The Development of English Thought (Macmillan, 1899) |  | `patten-development-of-english-thought-1899` | have-raw (IA `developmentofeng00pattiala`) |
+| The Theory of Prosperity (Macmillan, 1902) |  | `patten-theory-of-prosperity-1902` | have-raw (IA `theoryofprosperi00pattiala`) |
+| The New Basis of Civilization (Macmillan, 1907) |  | `patten-new-basis-of-civilization-1907` | have-raw (IA `newbasisofcivili00pattuoft`) |
+| The Social Basis of Religion (Macmillan, 1911; printing of 1912) |  | `patten-social-basis-of-religion-1911` | have-raw (IA `socialbasisofrel0000patt_r5a5`) |
+| Culture and War (Huebsch, 1916) |  | `patten-culture-and-war-1916` | have-raw (IA `cultureandwar00pattgoog`) |
+
+## Mark Hopkins (American moral philosophy)
+
+Shelf: `pipeline/mark-hopkins_shelf.json`. Four works, 1862-1873.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Connexion between Taste and Morals, two lectures |  | `hopkins-connexion-between-taste-and-morals` | have (PG 40845) |
+| Lectures on Moral Science (Gould and Lincoln, 1862) |  | `hopkins-lectures-on-moral-science-1862` | have-raw (IA `lecturesonmoral01hopkgoog`) |
+| The Law of Love and Love as a Law, 3rd ed. (Scribner, 1871) |  | `hopkins-law-of-love-1871` | have-raw (IA `lawloveandlovea00mccogoog`) |
+| An Outline Study of Man (Scribner, Armstrong, 1873) |  | `hopkins-outline-study-of-man-1873` | have-raw (IA `outlinestudyofma01hopk`) |
+
+## William Mackintire Salter (ethical culture)
+
+Shelf: `pipeline/william-mackintire-salter_shelf.json`. Three books, 1889-1917.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethical Religion (Roberts Brothers, 1889) |  | `salter-ethical-religion-1889` | have-raw (IA `ethicalreligion00salt`) |
+| First Steps in Philosophy (Kerr, 1892) |  | `salter-first-steps-in-philosophy-1892` | have-raw (IA `firststepsinphi01saltgoog`) |
+| Nietzsche the Thinker (copyright 1917; London: Cecil Palmer and Hayward issue) |  | `salter-nietzsche-the-thinker-1917` | have-raw (IA `nietzschethethin00saltuoft`) |
+
+Pending (wishlist): Anarchy or Government? (1895).
+
+## C. E. M. Joad (popular philosophy)
+
+Shelf: `pipeline/c-e-m-joad_shelf.json`. Five books, 1920-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Thrasymachus, or the future of morals (Dutton, 1926) |  | `joad-thrasymachus-1926` | have (PG 74315) |
+| Essays in Common-Sense Philosophy (Harcourt, Brace and Howe, 1920) |  | `joad-essays-in-common-sense-philosophy-1920` | have-raw (IA `essaysincommonse0000cemj_c3h7`) |
+| Common-Sense Ethics (Methuen, 1921) |  | `joad-common-sense-ethics-1921` | have-raw (IA `commonsenseethic00joaduoft`) |
+| Mind and Matter (Putnam, 1925) |  | `joad-mind-and-matter-1925` | have-raw (IA `mindmatter0000cemj`) |
+| Matter, Life and Value (Oxford University Press, 1929) |  | `joad-matter-life-and-value-1929` | have-raw (IA `in.ernet.dli.2015.209760`) |
+
+Pending (wishlist): Introduction to Modern Philosophy (1924; only post-1930 reprints found).
 
 ## Perseus census (overflow)
 
