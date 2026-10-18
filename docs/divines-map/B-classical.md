@@ -5677,6 +5677,8 @@ Shelf: `pipeline/frederic-bastiat_shelf.json`. Two Gutenberg texts whose transla
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Essays on Political Economy, third (People's) edition (Putnam, 1874) |  | `bastiat-essays-political-economy-1874` | have (PG 15962) |
+| Protection and Communism (London: J. W. Parker, 1852) |  | `bastiat-protection-and-communism-1852` | have (PG 44144) |
 
 ## Eugen von Bohm-Bawerk (political economy)
 
