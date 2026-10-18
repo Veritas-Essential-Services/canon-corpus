@@ -1,5 +1,5 @@
 {
- "_about": "T. H. Huxley (1825-1895) as philosopher and controversialist, clean Gutenberg texts: Lay Sermons, Addresses and Reviews (London: Macmillan, 1870), Critiques and Addresses (1873), Hume, English Men of Letters (London: Macmillan, 1879), Essays upon some Controverted Questions (London: Macmillan, 1892), Science and Education (Collected Essays III; preface dated 1893), Evolution and Ethics and other essays (Collected Essays IX; printing not named) and Science and Christian Tradition (Collected Essays V; New York: Appleton, 1902). His zoology, primers and single-essay etexts are not taken. US public domain. No uids minted.",
+ "_about": "T. H. Huxley (1825-1895) as philosopher and controversialist, clean Gutenberg texts: Lay Sermons, Addresses and Reviews (London: Macmillan, 1870), Critiques and Addresses (1873), Hume, English Men of Letters (London: Macmillan, 1879), Essays upon some Controverted Questions (London: Macmillan, 1892), Science and Education (Collected Essays III; preface dated 1893), Evolution and Ethics and other essays (Collected Essays IX; printing not named) and Science and Christian Tradition (Collected Essays V; New York: Appleton, 1902). His zoology, primers and single-essay etexts are not taken. Added in round ak: Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893); Darwiniana, Collected Essays II (London: Macmillan, 1893). US public domain. No uids minted.",
  "_author": "Thomas Henry Huxley",
  "_name_words": [
   "thomas",
@@ -40,7 +40,16 @@
    "Science and Christian Tradition, Collected Essays V (New York: Appleton, 1902)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "huxley-method-and-results-1894": [
+   "cu31924002923211",
+   "Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893)"
+  ],
+  "huxley-darwiniana-1893": [
+   "darwinianaessays00huxluoft",
+   "Darwiniana, Collected Essays II (London: Macmillan, 1893)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "huxley-lay-sermons-1870": {
@@ -105,6 +114,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "huxley-method-and-results-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "huxley-darwiniana-1893": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
