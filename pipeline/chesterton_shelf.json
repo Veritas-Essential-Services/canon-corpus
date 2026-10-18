@@ -17,13 +17,6 @@
    223,
    "The wisdom of Father Brown"
   ],
-  "chesterton-heretics": [
-   470,
-   "Heretics",
-   {
-    "contents_only": true
-   }
-  ],
   "chesterton-man-who-was-thursday": [
    1695,
    "The Man Who Was Thursday: A Nightmare"
@@ -31,10 +24,6 @@
   "chesterton-whats-wrong-with-the-world": [
    1717,
    "What's Wrong with the World"
-  ],
-  "chesterton-manalive": [
-   1718,
-   "Manalive"
   ],
   "chesterton-ballad-of-the-white-horse": [
    1719,
@@ -59,10 +48,6 @@
   "chesterton-all-things-considered": [
    11505,
    "All Things Considered"
-  ],
-  "chesterton-defendant": [
-   12245,
-   "The Defendant"
   ],
   "chesterton-victorian-age-in-literature": [
    18639,
@@ -115,18 +100,12 @@
   "pg-58032": "PG 58032: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 16769: second Gutenberg editions of titles already on the shelf.",
   "held-elsewhere": "PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
-  "130": "Orthodoxy: main already holds it (fetch_sources.py chesterton-orthodoxy, from CCEL). Not fetched twice."
+  "130": "Orthodoxy: main already holds it (fetch_sources.py chesterton-orthodoxy, from CCEL). Not fetched twice.",
+  "12245": "The Defendant: main already holds it (fetch_sources.py chesterton-defendant). Not fetched twice.",
+  "470": "Heretics: main already holds it (fetch_sources.py chesterton-heretics). Not fetched twice.",
+  "1718": "Manalive: main already holds it (fetch_sources.py chesterton-manalive). Not fetched twice."
  },
  "_checks": {
-  "chesterton-orthodoxy": {
-   "kind": "gutenberg",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "g. k. chesterton",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
   "chesterton-innocence-of-father-brown": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
@@ -145,15 +124,6 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
-  "chesterton-heretics": {
-   "kind": "gutenberg",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "g. k. chesterton",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
   "chesterton-man-who-was-thursday": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
@@ -164,15 +134,6 @@
    "pg_translator": null
   },
   "chesterton-whats-wrong-with-the-world": {
-   "kind": "gutenberg",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "g. k. chesterton",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
-  "chesterton-manalive": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
@@ -227,15 +188,6 @@
    "pg_translator": null
   },
   "chesterton-all-things-considered": {
-   "kind": "gutenberg",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "g. k. chesterton",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
-  "chesterton-defendant": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
