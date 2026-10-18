@@ -7362,6 +7362,12 @@ Shelf: `pipeline/emma-goldman_shelf.json`. Six books, 1910-1924.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Anarchism and Other Essays (1910) |  | `goldman-anarchism-and-other-essays` | have (PG 2162) |
+| Marriage and Love (1911) |  | `goldman-marriage-and-love` | have (PG 20715) |
+| The Social Significance of the Modern Drama (1914) |  | `goldman-social-significance-modern-drama` | have (PG 43490) |
+| Deportation, its Meaning and Menace (1919; with Alexander Berkman) |  | `goldman-deportation` | have (PG 68442) |
+| My Disillusionment in Russia (1923) |  | `goldman-my-disillusionment-in-russia` | have (PG 60315) |
+| My Further Disillusionment in Russia (1924) |  | `goldman-my-further-disillusionment` | have (PG 74192) |
 
 ## Edward Carpenter (socialism and sexuality)
 
