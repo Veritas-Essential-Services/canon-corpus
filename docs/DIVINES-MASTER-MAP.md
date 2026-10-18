@@ -19239,6 +19239,20 @@ Round 88 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | corpus-poeticum-1965: corpuspoeticumbo0000unse is a 1965 Russell & Russell reprint; the 1883 Clarendon scan is used. | — | — | excluded | — |
 | — | — | leighton-kormak-1861: William Leighton's Kormak (Boston, 1861) is his own poem on the saga, not a translation. | — | — | excluded | — |
 
+## Shelf: the American-Scandinavian Foundation's Scandinavian Classics before 1931: Brodeur's Prose Edda, Palmer's Bjørnson Poems and Songs, Payne's Arnljot Gelline, Benson's Almqvist Sara Videbeck, Fielden's Hallström stories
+
+Shelf: `pipeline/scandinavian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scandinavian-classics` · titles `python3 pipeline/split_shelf_titles.py scandinavian-classics`.
+Round 89 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `scandinavian-classics-prose-edda` | Snorri Sturluson | The Prose Edda | Arthur Gilchrist Brodeur | 1916 | have-raw | IA `proseedda00snor` |
+| `scandinavian-classics-bjornson-poems` | Bjørnstjerne Bjørnson | Poems and Songs, translated from the Norwegian in the original meters | Arthur Hubbell Palmer | 1915 | have-raw | IA `poemssongs00bjoruoft` |
+| `scandinavian-classics-arnljot-gelline` | Bjørnstjerne Bjørnson | Arnljot Gelline | William Morton Payne | 1917 | have-raw | IA `arnljotgelline00bjgoog` |
+| `scandinavian-classics-sara-videbeck` | C. J. L. Almqvist | Sara Videbeck (Det går an) and The Chapel | Adolph Burnett Benson | 1919 | have-raw | IA `cu31924026327563` |
+| `scandinavian-classics-hallstrom-stories` | Per Hallström | Selected Short Stories | F. J. Fielden | 1922 | have-raw | IA `perhallstrmsel00hall` |
+| — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

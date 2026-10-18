@@ -1,0 +1,246 @@
+{
+ "_about": "SERIES SHELF: the American-Scandinavian Foundation's Scandinavian Classics (New York, 1914 onward), translations of Old Norse, Danish, Norwegian and Swedish books, for the volumes no other shelf holds: Brodeur's Prose Edda (1916), two Bjørnson volumes, Almqvist's Sara Videbeck and Hallström's stories. Bellows's Poetic Edda, Holberg, Strindberg's Master Olof, Jacobsen, Lie, Sigurjónsson and the translators with their own shelves (Stork, Hollander, Björkman, Hanna Larsen) are shelved elsewhere. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 89); Adam may veto. No uids minted.",
+ "_name_words": [
+  "adolph b. benson",
+  "adolph burnett benson",
+  "arthur gilchrist brodeur",
+  "arthur hubbell palmer",
+  "benson",
+  "brodeur",
+  "f. j. fielden",
+  "fielden",
+  "william morton payne"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'payne' and 'palmer' are left out: other shelves (John Payne's among them) claim them.",
+ "_surname": [
+  "adolph b. benson",
+  "adolph burnett benson",
+  "arthur gilchrist brodeur",
+  "arthur hubbell palmer",
+  "benson",
+  "brodeur",
+  "f. j. fielden",
+  "fielden",
+  "william morton payne"
+ ],
+ "_surname_by_slug": {
+  "asf-prose-edda": [
+   "brodeur",
+   "arthur gilchrist brodeur"
+  ],
+  "asf-bjornson-poems": [
+   "arthur hubbell palmer"
+  ],
+  "asf-arnljot-gelline": [
+   "william morton payne"
+  ],
+  "asf-sara-videbeck": [
+   "benson",
+   "adolph burnett benson",
+   "adolph b. benson"
+  ],
+  "asf-hallstrom-stories": [
+   "fielden",
+   "f. j. fielden"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "asf-prose-edda": [
+   "proseedda00snor",
+   "The Prose Edda (1916)",
+   "proseedda00snor_djvu.txt"
+  ],
+  "asf-bjornson-poems": [
+   "poemssongs00bjoruoft",
+   "Poems and Songs, translated from the Norwegian in the original meters (1915)",
+   "poemssongs00bjoruoft_djvu.txt"
+  ],
+  "asf-arnljot-gelline": [
+   "arnljotgelline00bjgoog",
+   "Arnljot Gelline (1917)",
+   "arnljotgelline00bjgoog_djvu.txt"
+  ],
+  "asf-sara-videbeck": [
+   "cu31924026327563",
+   "Sara Videbeck (Det går an) and The Chapel (1919)",
+   "cu31924026327563_djvu.txt"
+  ],
+  "asf-hallstrom-stories": [
+   "perhallstrmsel00hall",
+   "Selected Short Stories (1922)",
+   "perhallstrmsel00hall_djvu.txt"
+  ]
+ },
+ "titles": {
+  "scandinavian-classics-prose-edda": {
+   "source": "asf-prose-edda",
+   "of": "Snorri Sturluson",
+   "work": "The Prose Edda",
+   "translated": 1916,
+   "translator": "Arthur Gilchrist Brodeur",
+   "scan_edition": "Scandinavian Classics V, American-Scandinavian Foundation, New York 1916; archive.org scan"
+  },
+  "scandinavian-classics-bjornson-poems": {
+   "source": "asf-bjornson-poems",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Poems and Songs, translated from the Norwegian in the original meters",
+   "translated": 1915,
+   "translator": "Arthur Hubbell Palmer",
+   "scan_edition": "Scandinavian Classics III, American-Scandinavian Foundation, New York 1915; University of Toronto scan"
+  },
+  "scandinavian-classics-arnljot-gelline": {
+   "source": "asf-arnljot-gelline",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Arnljot Gelline",
+   "translated": 1917,
+   "translator": "William Morton Payne",
+   "scan_edition": "Scandinavian Classics VIII, American-Scandinavian Foundation, New York 1917; Google scan"
+  },
+  "scandinavian-classics-sara-videbeck": {
+   "source": "asf-sara-videbeck",
+   "of": "C. J. L. Almqvist",
+   "work": "Sara Videbeck (Det går an) and The Chapel",
+   "translated": 1919,
+   "translator": "Adolph Burnett Benson",
+   "scan_edition": "Scandinavian Classics XII, American-Scandinavian Foundation, New York 1919; Cornell University scan"
+  },
+  "scandinavian-classics-hallstrom-stories": {
+   "source": "asf-hallstrom-stories",
+   "of": "Per Hallström",
+   "work": "Selected Short Stories",
+   "translated": 1922,
+   "translator": "F. J. Fielden",
+   "scan_edition": "American-Scandinavian Foundation, New York 1922; archive.org scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "america-of-the-fifties": "America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt."
+ },
+ "_checks": {
+  "asf-prose-edda": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brodeur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asf-bjornson-poems": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur hubbell palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asf-arnljot-gelline": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william morton payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asf-sara-videbeck": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asf-hallstrom-stories": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fielden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "asf-prose-edda": {
+   "ia": "proseedda00snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1706,
+    1878,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-bjornson-poems": {
+   "ia": "poemssongs00bjoruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1857,
+    1874,
+    1875,
+    1877,
+    1915
+   ],
+   "post_1930_years_in_front_15k": [
+    1965
+   ],
+   "post_1930_examined": "Examined in round 89: 'DEC 30 1965' is a library accession stamp below the 1915 copyright line, not an imprint."
+  },
+  "asf-arnljot-gelline": {
+   "ia": "arnljotgelline00bjgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1859,
+    1864,
+    1868,
+    1870
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-sara-videbeck": {
+   "ia": "cu31924026327563",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1850,
+    1865,
+    1901,
+    1919,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asf-hallstrom-stories": {
+   "ia": "perhallstrmsel00hall",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902,
+    1906,
+    1908,
+    1916,
+    1921,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

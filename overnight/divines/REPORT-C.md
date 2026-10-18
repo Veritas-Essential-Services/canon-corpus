@@ -251,3 +251,5 @@
 - 2026-10-17T19:59-05:00: round 87: hebrew-classics (4). --verify --record 0 mismatched.
 
 - 2026-10-17T20:03-05:00: round 88: norse-sagas (7). --verify --record 0 mismatched.
+
+- 2026-10-17T20:08-05:00: round 89: scandinavian-classics (5). --verify --record 0 mismatched.
