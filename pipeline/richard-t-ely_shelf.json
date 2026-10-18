@@ -1,0 +1,32 @@
+{
+ "_about": "Richard T. Ely (1854-1943), American economist: French and German Socialism in Modern Times (New York: Harper, 1883; the etext names Harper and the year), clean Gutenberg text. US public domain. No uids minted.",
+ "_author": "Richard T. Ely",
+ "_name_words": [
+  "richard",
+  "theodore",
+  "ely"
+ ],
+ "_surname": [
+  "ely"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ely-french-german-socialism-1883": [
+   59815,
+   "French and German Socialism in Modern Times (Harper, 1883)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ely-french-german-socialism-1883": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

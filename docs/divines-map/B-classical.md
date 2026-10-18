@@ -5648,6 +5648,7 @@ Shelf: `pipeline/richard-t-ely_shelf.json`. One Gutenberg text. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| French and German Socialism in Modern Times (Harper, 1883) |  | `ely-french-german-socialism-1883` | have (PG 59815) |
 
 ## William Thomas Thornton (political economy)
 
