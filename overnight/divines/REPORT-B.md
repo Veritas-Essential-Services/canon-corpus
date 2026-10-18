@@ -1296,3 +1296,9 @@
 ## 2026-10-17 22:17 CDT — Round by: twelve new shelves
 - Jung (3, translations of 1915-16), A. W. Benn (3), Mallock (6), J. M. Robertson (8), Thomas Fowler (2), Vernon Lee (9 essay volumes; fiction left out), Bernays (2), Sir James Steuart (2), W. D. Hyde (2), Cushman (2), J. A. Gunn (2), St. George Stock (2)
 - Freud is on the reading-lists thread's freud shelf (one book); the other Freud translations on Gutenberg are unheld and left to that shelf's owner
+
+## 2026-10-17 22:21 CDT — Round bz: Ruskin, Arnold, Pater
+- New shelf john-ruskin: 45 Gutenberg texts (Modern Painters 1-5, Stones of Venice 1-3, Seven Lamps, Unto This Last, Fors Clavigera 1-6 and more)
+- matthew-arnold-homer widened to his prose criticism (5): the earlier scope sentence 'for this book only' was written under the narrower classical brief
+- pater widened to his criticism (4); fiction stays out
+- Left alone: Carlyle, Coleridge (lane C translator shelves) and Emerson (reading-lists thread), though Gutenberg has many unheld works by each
