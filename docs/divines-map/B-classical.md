@@ -7723,6 +7723,11 @@ Shelf: `pipeline/carveth-read_shelf.json`. Five books, 1878-1925.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On the Theory of Logic (Kegan Paul, 1878) |  | `read-on-the-theory-of-logic-1878` | have-raw (IA `ontheorylogican00readgoog`) |
+| Logic, Deductive and Inductive, 3rd ed. (Moring, 1908 reprint) |  | `read-logic-deductive-and-inductive-1908` | have-raw (IA `logicdeductivean00readuoft`) |
+| Natural and Social Morals (1909) |  | `read-natural-and-social-morals-1909` | have-raw (IA `in.ernet.dli.2015.41545`) |
+| The Origin of Man and of his Superstitions (Cambridge, 1920) |  | `read-origin-of-man-1920` | have-raw (IA `in.ernet.dli.2015.536183`) |
+| Man and his Superstitions (Cambridge, 1925) |  | `read-man-and-his-superstitions-1925` | have-raw (IA `manhissuperstiti00read`) |
 
 Pending (wishlist): The Metaphysics of Nature (no dated scan found).
 
