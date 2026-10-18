@@ -1759,3 +1759,6 @@
 
 ## 2026-10-17 22:27 CDT — william-palmer-of-worcester done
 - `pipeline/william-palmer-of-worcester_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — william-palmer-of-magdalen done
+- `pipeline/william-palmer-of-magdalen_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

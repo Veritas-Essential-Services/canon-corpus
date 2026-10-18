@@ -8457,3 +8457,14 @@ Slugs `-*`. Built from title pages read for round 35.
 | The Doctrine of Development and Conscience considered in relation to the Evidences of Christianity (London: Francis & John Rivington, 1846) | have-ocr | IA `thedoctrineofdev00palmuoft` |
 | Origines Liturgicae fourth edition (1845) and an undated copy catalogued 1832; the Treatise third edition (1842) and New York 1841; A Compendious Ecclesiastical History (1840, title page truncated) | alternate | not shelved |
 | An Introduction to Early Christian Symbolism (1859), catalogued under him but by Palmer of Magdalen | excluded | |
+
+## William Palmer of Magdalen (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Dissertations on subjects relating to the 'Orthodox' or 'Eastern-Catholic' Communion (London: Joseph Masters, 1853) | have-ocr | IA `dissertationsons00palmuoft` |
+| Notes of a Visit to the Russian Church in the years 1840, 1841, selected and arranged by Cardinal Newman (London: Kegan Paul, Trench, 1882) | have-ocr | IA `notesofvisittoru00palmuoft` |
+| Other copies of both books | alternate | not shelved |
+| The 1968 facsimile of The Patriarch and the Tsar | excluded | |
