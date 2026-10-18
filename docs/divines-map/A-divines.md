@@ -8659,3 +8659,19 @@ Slugs `ryoung-*`. Built from title pages read for round 36.
 | Grammatical Analysis of the Hebrew, Chaldee, and Greek Scriptures: the Book of Psalms in Hebrew (Edinburgh: George Adam Young, 1885) | have-ocr | IA `grammaticalanal00youngoog` |
 | Other Analytical Concordance editions (1881; Dodd, Mead students' edition; the seventh with Thomas Nicol's supplement); the 1898 Literal Translation; his Gujarati Exercises; the posthumous Variations of the Alexandrian, Vatican and Sinaitic MSS. (1912) | alternate | not shelved |
 | The Student's Concordance to the Revised Version and the Rabbinical Vocabulary: no compiler named on the title page; modern digital files of the Literal Translation | excluded | |
+
+## A. R. Fausset (round 36, my pick, 2026-10-18)
+
+Slugs `arfausset-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Critical and Expository Bible Cyclopaedia, tenth thousand (London: Hodder and Stoughton, 1893) | have-ocr | IA `criticalexposito00fausuoft` |
+| A Critical and Expository Commentary on the Book of Judges (London: James Nisbet, 1885) | have-ocr | IA `acriticalandexp00fausgoog` |
+| Horae Psalmicae: Studies in the CL Psalms, second edition (London: James Nisbet, 1885) | have-ocr | IA `studiesinclpsalm1885faus` |
+| The Church and the World (London: Hatchards; York: Pickering, 1878) | have-ocr | IA `churchandworldl00fausgoog` |
+| A Guide to the Study of the Book of Common Prayer, third and revised edition (London: Chas. J. Thynne, 1903-1904) | have-ocr | IA `guidetostudyofbo00faus` |
+| A Commentary, Critical and Explanatory, on the Old and New Testaments, vol. III, Job to Isaiah, by A. R. Fausset (Philadelphia: J. B. Lippincott; year not read, catalogued 1866) | have-ocr | IA `commentarycritic03jami` |
+| A Commentary, Critical and Explanatory, vol. IV, Jeremiah to Malachi, by A. R. Fausset (Philadelphia: J. B. Lippincott; year not read, catalogued 1866) | have-ocr | IA `commentarycritic04jami` |
+| The Collins JFB vol. III; the Portable Commentary (1863), which joins his work to Jamieson's and Brown's in each volume; The Poetical Books of the Holy Scriptures, with B. Smith (1867); Ireland and the Irish (catalogued 1854); True Science Confirming Genesis (pamphlet, year not read) | alternate | not shelved |
+| Bengel's Gnomon (1857) and Vinet's Homiletics (1858), which he only revised and edited; Zondervan reprints; other Faussets | excluded | |

@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain A. R. Fausset (Andrew Robert Fausset, 1821-1910), Canon of York, for the Word Hoard: The Critical and Expository Bible Cyclopaedia (1893), his commentary on Judges (1885), Horae Psalmicae (1885), The Church and the World (1878), A Guide to the Study of the Book of Common Prayer (1903) and the two Old Testament volumes he wrote for the Jamieson-Fausset-Brown Commentary (Job to Isaiah, Jeremiah to Malachi), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fausset"
+ ],
+ "_surname": [
+  "fausset",
+  "a. r. fausset",
+  "andrew robert fausset",
+  "andrew r. fausset"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arfausset-bible-cyclopaedia": [
+   "criticalexposito00fausuoft",
+   "The Critical and Expository Bible Cyclopaedia, tenth thousand (London: Hodder and Stoughton, 1893)"
+  ],
+  "arfausset-judges": [
+   "acriticalandexp00fausgoog",
+   "A Critical and Expository Commentary on the Book of Judges (London: James Nisbet, 1885)"
+  ],
+  "arfausset-horae-psalmicae": [
+   "studiesinclpsalm1885faus",
+   "Horae Psalmicae: Studies in the CL Psalms, second edition (London: James Nisbet, 1885)"
+  ],
+  "arfausset-church-world": [
+   "churchandworldl00fausgoog",
+   "The Church and the World (London: Hatchards; York: Pickering, 1878)"
+  ],
+  "arfausset-guide-bcp": [
+   "guidetostudyofbo00faus",
+   "A Guide to the Study of the Book of Common Prayer, third and revised edition (London: Chas. J. Thynne, 1903-1904)"
+  ],
+  "arfausset-jfb-3": [
+   "commentarycritic03jami",
+   "A Commentary, Critical and Explanatory, on the Old and New Testaments, vol. III, Job to Isaiah, by A. R. Fausset (Philadelphia: J. B. Lippincott; year not read, catalogued 1866)"
+  ],
+  "arfausset-jfb-4": [
+   "commentarycritic04jami",
+   "A Commentary, Critical and Explanatory, vol. IV, Jeremiah to Malachi, by A. R. Fausset (Philadelphia: J. B. Lippincott; year not read, catalogued 1866)"
+  ]
+ },
+ "_alternates": {
+  "arfausset-copies": "The Collins JFB vol. III; the Portable Commentary (1863), which joins his work to Jamieson's and Brown's in each volume; The Poetical Books of the Holy Scriptures, with B. Smith (1867); Ireland and the Irish (catalogued 1854); True Science Confirming Genesis (pamphlet, year not read)"
+ },
+ "_excluded": {
+  "arfausset-edited": "Bengel's Gnomon (1857) and Vinet's Homiletics (1858), which he only revised and edited; Zondervan reprints; other Faussets"
+ },
+ "_rights_checked": {
+  "arfausset-jfb-3": "title page read: the Jamieson-Fausset-Brown commentary is joint; these two volumes name Fausset as their writer"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "arfausset-bible-cyclopaedia": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arfausset-judges": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arfausset-horae-psalmicae": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arfausset-church-world": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arfausset-guide-bcp": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arfausset-jfb-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: the Jamieson-Fausset-Brown commentary is joint; these two volumes name Fausset as their writer"
+  },
+  "arfausset-jfb-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fausset",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
