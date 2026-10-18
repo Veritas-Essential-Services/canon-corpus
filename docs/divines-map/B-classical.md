@@ -7075,6 +7075,8 @@ Shelf: `pipeline/john-cook-wilson_shelf.json`. Two volumes, 1889-1926.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On the Interpretation of Plato's Timaeus (Nutt, 1889) |  | `cook-wilson-platos-timaeus-1889` | have-raw (IA `platostimaeuscri00wilsuoft`) |
+| Statement and Inference, vol. I (Clarendon, 1926) |  | `cook-wilson-statement-and-inference-1926-v1` | have-raw (IA `statementinferen0001john`) |
 
 Pending (wishlist): Statement and Inference vol. II (1926) in an open scan
 
