@@ -7772,3 +7772,22 @@ Slugs `mcnabb-*`. Built from title pages read for round 33.
 | The Blackwell 1923 Friar's Cell; the 1928 Macmillan Church and Philosophy; his edition of the Vatican Council decrees (1907) | alternate | not shelved |
 | Frontiers of Faith and Reason (1936) | excluded | |
 | Books by other hands he introduced | excluded | |
+
+## Bede Jarrett (round 33, my pick, 2026-10-18)
+
+Slugs `jarrett-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Mediaeval Socialism, The People's Books (London: T. C. & E. C. Jack; title page undated, catalogued 1913) | have-ocr | IA `mediaevalsociali00jarruoft` |
+| S. Antonino and Medieval Economics (London: Manresa Press; B. Herder, 1914) | have-ocr | IA `santoninomediaev00jarr` |
+| Meditations for Layfolk (London: Catholic Truth Society; St. Louis: B. Herder, 1915) | have-ocr | IA `meditationsforla00jarriala` |
+| The Abiding Presence of the Holy Ghost in the Soul (New York: Cathedral Library Association, 1918) | have-ocr | IA `theabidingpresen00jarruoft` |
+| Living Temples (London: Burns Oates and Washbourne; title page undated, approved 1919) | have-ocr | IA `livingtemples0000bede` |
+| The English Dominicans (London: Burns Oates and Washbourne, MCMXXI) | have-ocr | IA `englishdomin00jarr` |
+| Life of St Dominic (1170-1221) (New York: Benziger Brothers, 1924) | have-ocr | IA `bwb_W9-APB-493` |
+| Social Theories of the Middle Ages, 1200-1500 (Boston: Little, Brown, 1926) | have-ocr | IA `socialtheoriesof0000jarr` |
+| PG 19468, Mediaeval Socialism (undated Jack edition) | alternate | not shelved |
+| Other copies; the 1917 fifth thousand of the Meditations; A History of Europe (1929) | alternate | not shelved |
+| PG 34855 (a later Newman Bookshop reprint of The Abiding Presence); The Religious Life (1939) | excluded | |
+| Books he edited or translated | excluded | |
