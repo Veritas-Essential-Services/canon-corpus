@@ -7162,6 +7162,12 @@ Shelf: `pipeline/randolph-bourne_shelf.json`. Six books, 1913-1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Youth and Life (1913) |  | `bourne-youth-and-life` | have (PG 67628) |
+| The Gary Schools (1916) |  | `bourne-gary-schools` | have (PG 68055) |
+| Towards an Enduring Peace (1916; a symposium Bourne compiled) |  | `bourne-towards-an-enduring-peace` | have (PG 73048) |
+| Education and Living (1917) |  | `bourne-education-and-living` | have (PG 68912) |
+| Untimely Papers (1919) |  | `bourne-untimely-papers` | have (PG 68626) |
+| History of a Literary Radical, and Other Essays (1920) |  | `bourne-history-of-a-literary-radical` | have (PG 69426) |
 
 ## Woodrow Wilson (political science)
 
