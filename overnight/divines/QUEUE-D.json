@@ -2885,6 +2885,14 @@
       "started": "2026-10-17T19:43:47-05:00",
       "finished": "2026-10-17T19:43:47-05:00",
       "notes": "mrs-oliphant: new shelf, 124 Gutenberg books, 138,815 units, 4280 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "disraeli",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Benjamin Disraeli; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:43:48-05:00",
+      "finished": "2026-10-17T19:43:49-05:00",
+      "notes": "disraeli: new shelf, 17 Gutenberg books, 30,415 units, 7860 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

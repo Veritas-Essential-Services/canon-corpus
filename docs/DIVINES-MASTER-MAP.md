@@ -29819,6 +29819,31 @@ Shelf: `pipeline/mrs-oliphant_shelf.json` (2026-10-17; added at the coordinator'
 | split-parts | excluded | Gutenberg's split-part files PG 54510, 54937, 55121, 58320, 58321, 58322, 61442, 61443, 61444, 61914, 61915, 62464, 62465: the complete edition of each is on the shelf instead. |
 | repeat-editions | excluded | PG 59211, 72777, 73086: second Gutenberg editions of titles already on the shelf. |
 
+## Benjamin Disraeli
+
+Shelf: `pipeline/disraeli_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sybil, Or, The Two Nations | have | PG 3760, `disraeli-sybil` (3227 units) |
+| Coningsby; Or, The New Generation | have | PG 7412, `disraeli-coningsby` (2517 units) |
+| Count Alarcos; a Tragedy | have | PG 7487, `disraeli-count-alarcos` (1121 units) |
+| The Voyage of Captain Popanilla | have | PG 7816, `disraeli-voyage-of-captain-popanilla` (334 units) |
+| Lothair | have | PG 7835, `disraeli-lothair` (2667 units) |
+| The Rise of Iskander | have | PG 7842, `disraeli-rise-of-iskander` (465 units) |
+| Endymion | have | PG 7926, `disraeli-endymion` (2510 units) |
+| Vivian Grey | have | PG 9840, `disraeli-vivian-grey` (3033 units) |
+| Venetia | have | PG 11869, `disraeli-venetia` (2732 units) |
+| Henrietta Temple: A Love Story | have | PG 19771, `disraeli-henrietta-temple` (2884 units) |
+| Sketches | have | PG 19781, `disraeli-sketches` (599 units) |
+| Alroy: The Prince of the Captivity | have | PG 20002, `disraeli-alroy` (2382 units) |
+| The Infernal Marriage | have | PG 20003, `disraeli-infernal-marriage` (479 units) |
+| Tancred; Or, The New Crusade | have | PG 20004, `disraeli-tancred` (2857 units) |
+| Lord George Bentinck: A Political Biography | have | PG 20007, `disraeli-lord-george-bentinck` (336 units) |
+| The Young Duke | have | PG 20008, `disraeli-young-duke` (1961 units) |
+| Ixion In Heaven | have | PG 20009, `disraeli-ixion-in-heaven` (311 units) |
+| pg-58739 | excluded | PG 58739: Gutenberg's index of the author's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

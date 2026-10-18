@@ -1359,3 +1359,6 @@
 
 ## 2026-10-17 19:43 CDT — mrs-oliphant: done
 - mrs-oliphant: new shelf, 124 Gutenberg books, 138,815 units, 4280 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:43 CDT — disraeli: done
+- disraeli: new shelf, 17 Gutenberg books, 30,415 units, 7860 ~2 ids; verify 0 mismatches, 0 rights flags.
