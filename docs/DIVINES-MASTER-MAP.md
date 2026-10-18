@@ -9482,6 +9482,25 @@ Slugs `stiles-*`. Built from title pages read for round 39.
 | Extracts from the Itineraries and Other Miscellanies of Ezra Stiles, 1755-1794, ed. Franklin Bowditch Dexter (New Haven: Yale University Press, MDCCCCXVI) | have-ocr | IA `extractsfromitin1755stil` |
 | Other copies of the Diary | alternate | not shelved |
 | Kohut's Ezra Stiles and the Jews (1902, a selection by another hand); other Stileses | excluded | |
+
+## William B. Sprague (round 39, my pick, 2026-10-18)
+
+Slugs `sprague-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Annals of the American Pulpit, vol. I (New York: Robert Carter & Brothers, 1857) | have-ocr | IA `annalsofamerican01spra` |
+| Annals of the American Pulpit, vol. II (New York: Robert Carter & Brothers, 1857) | have-ocr | IA `annalsofamerican02spra` |
+| Annals of the American Pulpit, vol. III (New York: Robert Carter & Brothers, 1858) | have-ocr | IA `annalsofamerican03spra` |
+| Annals of the American Pulpit, vol. IV (New York: Robert Carter & Brothers, 1858) | have-ocr | IA `annalsofamerican04spra` |
+| Annals of the American Pulpit, vol. V (New York: Robert Carter & Brothers, 1859) | have-ocr | IA `annalsofamerican05spra` |
+| Annals of the American Pulpit, vol. VI (New York: Robert Carter & Brothers, 1860) | have-ocr | IA `annalsofamerican06spra` |
+| Annals of the American Methodist Pulpit, vol. VII (New York: Robert Carter & Brothers, 1861) | have-ocr | IA `annalsofamerican186107spra` |
+| Annals of the American Pulpit, vol. VIII (New York: Robert Carter & Brothers, 1865) | have-ocr | IA `annalsofamerican08spra` |
+| Annals of the American Pulpit, vol. IX (New York: Robert Carter & Brothers, 1869) | have-ocr | IA `annalsofamerican09spra` |
+| Lectures on Revivals of Religion, with an introductory essay by Leonard Woods (Albany: Webster & Skinners and others, 1832) | have-ocr | IA `lecturesonreviva00spra` |
+| Lectures illustrating the Contrast between True Christianity and Various Other Systems (New York: Daniel Appleton, 1837) | have-ocr | IA `lecturesillustra00spra` |
+| The 1873 reissue of the Methodist volume; other copies of the Annals and Lectures; Letters to Young Men (fourth edition, imprint not read) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
