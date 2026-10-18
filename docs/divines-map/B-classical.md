@@ -3940,6 +3940,7 @@ Shelf: `pipeline/richard-price_shelf.json`. Review of Morals, 2nd ed. (1769).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom (London: T. Cadell, 1778) |  | `price-two-tracts-civil-liberty-1778` | have (PG 57970) |
 | A Review of the Principal Questions and Difficulties in Morals (London: T. Cadell, 1769) |  | `price-review-of-morals-1769` | have-raw (IA `reviewofprincip00pric`) |
 
 ## Francis Hutcheson

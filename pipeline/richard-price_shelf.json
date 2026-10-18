@@ -1,5 +1,5 @@
 {
- "_about": "Richard Price (1723-1791), raw IA OCR: A Review of the Principal Questions and Difficulties in Morals, 2nd ed., corrected (London: T. Cadell, 1769). US public domain. No uids minted.",
+ "_about": "Richard Price (1723-1791), raw IA OCR: A Review of the Principal Questions and Difficulties in Morals, 2nd ed., corrected (London: T. Cadell, 1769). Added in round aw 2026-10-17: Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom (London: T. Cadell, 1778), clean Gutenberg text. US public domain. No uids minted.",
  "_author": "Richard Price",
  "_name_words": [
   "richard",
@@ -9,7 +9,12 @@
   "richard price"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "price-two-tracts-civil-liberty-1778": [
+   57970,
+   "Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom (London: T. Cadell, 1778)"
+  ]
+ },
  "internet_archive": {
   "price-review-of-morals-1769": [
    "reviewofprincip00pric",
@@ -18,9 +23,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "price-two-tracts-civil-liberty-1778": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard price",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "price-review-of-morals-1769": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "richard price",
    "identity": "ok",
