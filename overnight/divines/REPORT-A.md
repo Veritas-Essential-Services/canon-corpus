@@ -1399,3 +1399,6 @@
 
 ## 2026-10-17 20:26 CDT — emile-bougaud done
 - `pipeline/emile-bougaud_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:26 CDT — therese-of-lisieux done
+- `pipeline/therese-of-lisieux_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

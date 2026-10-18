@@ -6701,3 +6701,19 @@ Slugs `bougaud-*`. Bishop of Laval: his lives and apologetics in English.
 | Other copies; the 1920 Margaret Mary; the 1926 Divinity reissue; Lady Herbert's Mother of Saint Augustine (1868), whose title page names only her | alternate | not shelved |
 | Lady Herbert's Three Phases of Christian Love (three lives, one Bougaud's) | excluded | |
 | A 1983 Monica | excluded | |
+
+## Thérèse of Lisieux (round 30, my pick, 2026-10-18)
+
+Slugs `therese-*`. The Story of a Soul and related books in English before 1930.
+
+| Work | Status | Where |
+|---|---|---|
+| Poems of Sr. Teresa, Carmelite of Lisieux, tr. S. L. Emery (Boston: Angel Guardian Press; copyright 1907) | have-ocr | IA `poemsofsrteresac00thrs` |
+| Sœur Thérèse of Lisieux, the Little Flower of Jesus: a new and complete translation of L'Histoire d'une Âme, ed. T. N. Taylor (London: Burns & Oates; imprimatur 1912) | have-ocr | IA `saintthaeraeseof00thaeuoft` |
+| Thoughts of the Servant of God Thérèse of the Child Jesus, translated by an Irish Carmelite (New York: P. J. Kenedy, 1915) | have-ocr | IA `thoughtsofservan00thrs` |
+| A Little White Flower: the story of Sœur Thérèse of Lisieux, a new translation by Thomas N. Taylor (preface dated March 1916) | have-ocr | IA `alittlewhiteflow00thaeuoft` |
+| Taylor's revised Definitive Edition with the letters (Kenedy, imprimatur 1926) | alternate | not shelved |
+| PG 72720 (Thoughts, 1915); PG 16772 / CCEL therese/autobio (a selection from the 1922 eighth edition) | alternate | not shelved |
+| CCEL therese/poems (Emery) | alternate | not shelved |
+| Post-1929 editions and Novissima Verba | excluded | |
+| Studies about her | excluded | |
