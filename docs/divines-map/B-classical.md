@@ -7276,6 +7276,7 @@ Shelf: `pipeline/charles-a-beard_shelf.json`. One book, 1913.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Economic Interpretation of the Constitution of the United States (1913) |  | `beard-economic-interpretation-constitution` | have (PG 70677) |
 
 ## Perseus census (overflow)
 
