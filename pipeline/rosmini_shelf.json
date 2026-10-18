@@ -1,5 +1,5 @@
 {
- "_about": "Antonio Rosmini-Serbati (1797-1855), the philosophical works in English, raw IA OCR: Thomas Davidson's The Philosophical System of Antonio Rosmini-Serbati, translated with a life, bibliography, introduction and notes (Kegan Paul, Trench, 1882), and The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio (Kegan Paul, Trench: vol. I 1883, vols. II-III in the new and cheaper edition of 1886; translator unnamed). His devotional and religious writings are left for the divines lane. US public domain. Wanted: Psychology (3 vols., 1884-1888). No uids minted.",
+ "_about": "Antonio Rosmini-Serbati (1797-1855), the philosophical works in English, raw IA OCR: Thomas Davidson's The Philosophical System of Antonio Rosmini-Serbati, translated with a life, bibliography, introduction and notes (Kegan Paul, Trench, 1882), and The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio (Kegan Paul, Trench: vol. I 1883, vols. II-III in the new and cheaper edition of 1886; translator unnamed). His devotional and religious writings are left for the divines lane. US public domain. Added in round ao: Psychology (Kegan Paul, Trench, 3 vols.: 1884, 1885, 1888; translator unnamed). No uids minted.",
  "_author": "Antonio Rosmini-Serbati",
  "_name_words": [
   "antonio",
@@ -31,6 +31,18 @@
    "originofideas03rosmuoft",
    "The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886)",
    "tr. anonymous"
+  ],
+  "rosmini-psychology-1884-v1": [
+   "psychology01rosmuoft",
+   "Psychology, vol. I (London: Kegan Paul, Trench, 1884)"
+  ],
+  "rosmini-psychology-1885-v2": [
+   "psychology02rosmuoft",
+   "Psychology, vol. II (London: Kegan Paul, Trench, 1885)"
+  ],
+  "rosmini-psychology-1888-v3": [
+   "psychologytrans00sergoog",
+   "Psychology, vol. III (London: Kegan Paul, Trench, 1888)"
   ]
  },
  "_excluded": {},
@@ -40,7 +52,7 @@
  "_checks": {
   "rosmini-davidson-philosophical-system-1882": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "rosmini",
    "translator_claimed": "Davidson",
@@ -53,7 +65,7 @@
   },
   "rosmini-origin-of-ideas-1883-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "rosmini",
    "identity": "ok",
@@ -64,7 +76,7 @@
   },
   "rosmini-origin-of-ideas-1886-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "rosmini",
    "identity": "ok",
@@ -75,12 +87,45 @@
   },
   "rosmini-origin-of-ideas-1886-v3": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "rosmini",
    "identity": "ok",
    "ia_rights": "ok: published 1886",
    "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-psychology-1884-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-psychology-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1884-1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-psychology-1888-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

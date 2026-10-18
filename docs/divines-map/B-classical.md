@@ -4232,6 +4232,9 @@ Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and
 | The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio, vol. I (London: Kegan Paul, Trench, 1883) | anonymous | `rosmini-origin-of-ideas-1883-v1` | have-raw (IA `originofideas01rosmuoft`) |
 | The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v2` | have-raw (IA `originofideas02rosmuoft`) |
 | The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v3` | have-raw (IA `originofideas03rosmuoft`) |
+| Psychology, vol. I (London: Kegan Paul, Trench, 1884) |  | `rosmini-psychology-1884-v1` | have-raw (IA `psychology01rosmuoft`) |
+| Psychology, vol. II (London: Kegan Paul, Trench, 1885) |  | `rosmini-psychology-1885-v2` | have-raw (IA `psychology02rosmuoft`) |
+| Psychology, vol. III (London: Kegan Paul, Trench, 1888) |  | `rosmini-psychology-1888-v3` | have-raw (IA `psychologytrans00sergoog`) |
 
 ## Vattel in English
 
