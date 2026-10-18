@@ -1768,3 +1768,6 @@
 
 ## 2026-10-17 22:27 CDT — claude-fleury done
 - `pipeline/claude-fleury_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — henry-hart-milman done
+- `pipeline/henry-hart-milman_shelf.json`: 0 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.

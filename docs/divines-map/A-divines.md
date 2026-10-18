@@ -8494,3 +8494,24 @@ Slugs `-*`. Built from title pages read for round 35.
 | The Manners of the Israelites, translated from the French of the Abbé Fleury by Charles Cordell (Newcastle: S. Hodgson; sold by P. Keay, London, 1786) | have-ocr | IA `bim_eighteenth-century_the-manners-of-the-israe_fleury-claude_1786` |
 | Other copies of the Oxford set; Farneworth's Short History of the Israelites (1756, Fleury's name illegible); Adam Clarke's enlarged Manners of the Ancient Israelites (New York, 1825); The Manners of the Christians (Newcastle, translator and year illegible) | alternate | not shelved |
 | A Latin lexicon catalogued as Fleury (1727, no volume suffix); Wesley's abridged Manners of the Antient Christians (1749), which does not name Fleury | excluded | |
+
+## Henry Hart Milman (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. I (London: John Murray, 1840) | have-ocr | IA `historyofchrist01milm` |
+| The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. II (London: John Murray, 1840) | have-ocr | IA `historyofchrist02milm` |
+| The History of Christianity, from the Birth of Christ to the Abolition of Paganism in the Roman Empire, vol. III (London: John Murray, 1840) | have-ocr | IA `historyofchrist03milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. I (London: John Murray, 1854) | have-ocr | IA `historyoflatinch00milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. II (London: John Murray, 1854) | have-ocr | IA `historyoflatinc02milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. III (London: John Murray, 1854) | have-ocr | IA `historyoflatinch03milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. IV (London: John Murray, 1855) | have-ocr | IA `historyoflatinch04milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. V (London: John Murray, 1855) | have-ocr | IA `historyoflatinch05milm` |
+| History of Latin Christianity, including that of the Popes to the Pontificate of Nicolas V, vol. VI (London: John Murray, 1855) | have-ocr | IA `historyoflatinch06milm` |
+| The History of the Jews, from the Earliest Period down to Modern Times, third edition, thoroughly revised and extended, vol. I (London: John Murray, 1863) | have-ocr | IA `historyjewsbyhh05milmgoog` |
+| The History of the Jews, third edition, vol. II (London: John Murray, 1863) | have-ocr | IA `india.history.resource.85429` |
+| The History of the Jews, third edition, vol. III (London: John Murray, 1863) | have-ocr | IA `historyjewsbyhh01milmgoog` |
+| A second 1854-55 Latin Christianity set; Harper's History of the Jews (New York, 1830-1843); his Life of Thomas à Becket (PG 41811, an extract with an unnamed editor) | alternate | not shelved |
+| The 1829 Family Library History of the Jews, which names no author; his Greek and Sanskrit verse translations | excluded | |
