@@ -1,5 +1,5 @@
 {
- "_about": "Granville Stanley Hall (1844-1924), founder of American experimental psychology at Johns Hopkins and Clark. Gutenberg: Youth, its Education, Regimen, and Hygiene (1906); Senescence, the Last Half of Life (1922). Raw IA OCR: Adolescence, its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion and education (New York: Appleton, 1904), 2 vols., clean 0.93 each; Founders of Modern Psychology (New York: Appleton, 1912), clean 0.93; Jesus, the Christ, in the Light of Psychology (Garden City: Doubleday, Page, 1917), 2 vols., clean 0.95 and 0.96; Life and Confessions of a Psychologist (New York: Appleton, copyright 1923; this copy 1924), clean 0.94. US public domain. No uids minted.",
+ "_about": "Granville Stanley Hall (1844-1924), founder of American experimental psychology at Johns Hopkins and Clark. Gutenberg: Youth, its Education, Regimen, and Hygiene (1906); Senescence, the Last Half of Life (1922). Raw IA OCR: Adolescence, its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion and education (New York: Appleton, 1904), 2 vols., clean 0.93 each; Founders of Modern Psychology (New York: Appleton, 1912), clean 0.93; Jesus, the Christ, in the Light of Psychology (Garden City: Doubleday, Page, 1917), 2 vols., clean 0.95 and 0.96; Life and Confessions of a Psychologist (New York: Appleton, copyright 1923; this copy 1924), clean 0.94. US public domain. Added in round 2026-10-17bs: Educational Problems (New York: Appleton, 1911), 2 vols., clean 0.95 and 0.93. No uids minted.",
  "_author": "G. Stanley Hall",
  "_name_words": [
   "granville",
@@ -45,6 +45,14 @@
   "hall-life-and-confessions-1923": [
    "lifeconfessionso0000gsta",
    "Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing)"
+  ],
+  "hall-educational-problems-1911-v1": [
+   "educationalprobl01halluoft",
+   "Educational Problems, vol. I (Appleton, 1911)"
+  ],
+  "hall-educational-problems-1911-v2": [
+   "educationalprobl02halliala",
+   "Educational Problems, vol. II (Appleton, 1911)"
   ]
  },
  "_excluded": {},
@@ -131,6 +139,28 @@
    "ia_rights": "ok: published 1924",
    "ia_date": "1924",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hall-educational-problems-1911-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-educational-problems-1911-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stanley hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

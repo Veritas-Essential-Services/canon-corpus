@@ -6827,6 +6827,8 @@ Shelf: `pipeline/g-stanley-hall_shelf.json`. Eight volumes, 1904-1923.
 | Jesus, the Christ, in the Light of Psychology, vol. I (1917) |  | `hall-jesus-the-christ-psychology-1917-v1` | have-raw (IA `cu31924092360217`) |
 | Jesus, the Christ, in the Light of Psychology, vol. II (1917) |  | `hall-jesus-the-christ-psychology-1917-v2` | have-raw (IA `jesuschristinli02hall`) |
 | Life and Confessions of a Psychologist (Appleton, 1923; 1924 printing) |  | `hall-life-and-confessions-1923` | have-raw (IA `lifeconfessionso0000gsta`) |
+| Educational Problems, vol. I (Appleton, 1911) |  | `hall-educational-problems-1911-v1` | have-raw (IA `educationalprobl01halluoft`) |
+| Educational Problems, vol. II (Appleton, 1911) |  | `hall-educational-problems-1911-v2` | have-raw (IA `educationalprobl02halliala`) |
 
 ## E. B. Titchener (structural psychology)
 
