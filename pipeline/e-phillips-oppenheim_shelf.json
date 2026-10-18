@@ -297,6 +297,18 @@
   "epoppenheim-mystery-road": [
    77836,
    "The mystery road"
+  ],
+  "epoppenheim-a-millionaire-of-yesterday": [
+   1878,
+   "A Millionaire of Yesterday"
+  ],
+  "epoppenheim-zeppelins-passenger": [
+   1931,
+   "The Zeppelin's Passenger"
+  ],
+  "epoppenheim-vanished-messenger": [
+   1699,
+   "The Vanished Messenger"
   ]
  },
  "internet_archive": {},
@@ -304,7 +316,7 @@
  "_checks": {
   "epoppenheim-malefactor": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -313,7 +325,7 @@
   },
   "epoppenheim-kingdom-of-the-blind": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -322,7 +334,7 @@
   },
   "epoppenheim-illustrious-prince": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -331,7 +343,7 @@
   },
   "epoppenheim-yellow-crayon": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -340,7 +352,7 @@
   },
   "epoppenheim-peter-ruff-and-the-double-four": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -349,7 +361,7 @@
   },
   "epoppenheim-havoc": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -358,7 +370,7 @@
   },
   "epoppenheim-devils-paw": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -367,7 +379,7 @@
   },
   "epoppenheim-jeanne-of-the-marshes": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -376,7 +388,7 @@
   },
   "epoppenheim-tempting-of-tavernake": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -385,7 +397,7 @@
   },
   "epoppenheim-evil-shepherd": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -394,7 +406,7 @@
   },
   "epoppenheim-great-impersonation": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -403,7 +415,7 @@
   },
   "epoppenheim-mischief-maker": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -412,7 +424,7 @@
   },
   "epoppenheim-an-amiable-charlatan": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -421,7 +433,7 @@
   },
   "epoppenheim-pawns-count": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -430,7 +442,7 @@
   },
   "epoppenheim-avenger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -439,7 +451,7 @@
   },
   "epoppenheim-great-secret": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -448,7 +460,7 @@
   },
   "epoppenheim-box-with-broken-seals": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -457,7 +469,7 @@
   },
   "epoppenheim-cinema-murder": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -466,7 +478,7 @@
   },
   "epoppenheim-double-traitor": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -475,7 +487,7 @@
   },
   "epoppenheim-governors": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -484,7 +496,7 @@
   },
   "epoppenheim-profiteers": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -493,7 +505,7 @@
   },
   "epoppenheim-great-prince-shan": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -502,7 +514,7 @@
   },
   "epoppenheim-lost-ambassador": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -511,7 +523,7 @@
   },
   "epoppenheim-lighted-way": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -520,7 +532,7 @@
   },
   "epoppenheim-a-prince-of-sinners": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -529,7 +541,7 @@
   },
   "epoppenheim-betrayal": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -538,7 +550,7 @@
   },
   "epoppenheim-survivor": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -547,7 +559,7 @@
   },
   "epoppenheim-a-lost-leader": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -556,7 +568,7 @@
   },
   "epoppenheim-double-life-of-mr-alfred-burton": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -565,7 +577,7 @@
   },
   "epoppenheim-black-box": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -574,7 +586,7 @@
   },
   "epoppenheim-a-peoples-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -583,7 +595,7 @@
   },
   "epoppenheim-nobodys-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -592,7 +604,7 @@
   },
   "epoppenheim-a-maker-of-history": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -601,7 +613,7 @@
   },
   "epoppenheim-mr-grex-of-monte-carlo": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -610,7 +622,7 @@
   },
   "epoppenheim-anna-the-adventuress": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -619,7 +631,7 @@
   },
   "epoppenheim-new-tenant": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -628,7 +640,7 @@
   },
   "epoppenheim-double-four": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -637,7 +649,7 @@
   },
   "epoppenheim-master-mummer": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -646,7 +658,7 @@
   },
   "epoppenheim-traitors": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -655,7 +667,7 @@
   },
   "epoppenheim-berenice": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -664,7 +676,7 @@
   },
   "epoppenheim-moving-finger": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -673,7 +685,7 @@
   },
   "epoppenheim-a-monk-of-cruta": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -682,7 +694,7 @@
   },
   "epoppenheim-jacobs-ladder": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -691,7 +703,7 @@
   },
   "epoppenheim-missioner": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -700,7 +712,7 @@
   },
   "epoppenheim-to-win-the-love-he-sought-the-great-awakening": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -709,7 +721,7 @@
   },
   "epoppenheim-hillman": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -718,7 +730,7 @@
   },
   "epoppenheim-golden-web": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -727,7 +739,7 @@
   },
   "epoppenheim-wicked-marquis": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -736,7 +748,7 @@
   },
   "epoppenheim-mysterious-mr-sabin": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -745,7 +757,7 @@
   },
   "epoppenheim-mr-marxs-secret": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -754,7 +766,7 @@
   },
   "epoppenheim-master-of-men": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -763,7 +775,7 @@
   },
   "epoppenheim-yellow-house": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -772,7 +784,7 @@
   },
   "epoppenheim-stolen-idols": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -781,7 +793,7 @@
   },
   "epoppenheim-aaron-rodd-diviner": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -790,7 +802,7 @@
   },
   "epoppenheim-ambrose-lavendale-diplomat": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -799,7 +811,7 @@
   },
   "epoppenheim-false-evidence": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -808,7 +820,7 @@
   },
   "epoppenheim-seven-conundrums": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
@@ -817,7 +829,34 @@
   },
   "epoppenheim-mystery-road": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-millionaire-of-yesterday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-zeppelins-passenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-vanished-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "e. phillips oppenheim",
    "identity": "ok",
