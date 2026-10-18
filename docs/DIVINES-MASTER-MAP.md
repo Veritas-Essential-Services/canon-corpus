@@ -7860,6 +7860,20 @@ Slugs `cbooth-*`. Built from title pages read for round 33.
 | PG 6669, Godliness (the Boston edition) | alternate | not shelved |
 | The 1887 New York Popular Christianity; The Salvation Army in Relation to the Church and State (year not read); Toronto addresses | alternate | not shelved |
 | Female Ministry in a 1975 reprint only; e-book uploads with no title page | excluded | |
+
+## Samuel Logan Brengle (round 33, my pick, 2026-10-18)
+
+Slugs `brengle-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| The Way of Holiness, sixth edition (New York: Salvation Army Printing and Publishing House, 1918) | have-ocr | IA `wayofholiness0000colo` |
+| Heart Talks on Holiness, seventh edition (New York: Salvation Army Printing and Publishing House, 1918) | have-ocr | IA `hearttalksonholi00breniala` |
+| When the Holy Ghost is Come, fifth edition (New York: Salvation Army Printing and Publishing House, 1920) | have-ocr | IA `whenholyghostisc0000bren` |
+| Love-Slaves (London: Salvationist Publishing and Supplies, 1923) | have-ocr | IA `loveslaves0000colo` |
+| PG 6135, When the Holy Ghost is Come (source not stated) | alternate | not shelved |
+| Helps to Holiness and The Soul-Winner's Secret: title pages undated | alternate | not shelved |
+| Copies catalogued 1900-1923 whose title pages read 1949-1988; Resurrection Life and Power (1953) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
