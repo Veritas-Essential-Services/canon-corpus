@@ -6526,6 +6526,16 @@ Shelf: `pipeline/shadworth-hodgson_shelf.json`. The four major treatises, first 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Time and Space (Longman, 1865) |  | `hodgson-time-and-space-1865` | have-raw (IA `bub_gb_86mJQVpgGakC`) |
+| The Theory of Practice, vol. I (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v1` | have-raw (IA `theoryofpractic01hodg`) |
+| The Theory of Practice, vol. II (Longmans, 1870) |  | `hodgson-theory-of-practice-1870-v2` | have-raw (IA `theoryofpractic02hodg`) |
+| The Philosophy of Reflection, vol. I (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v1` | have-raw (IA `philosophyofrefl01hodg`) |
+| The Philosophy of Reflection, vol. II (Longmans, 1878) |  | `hodgson-philosophy-of-reflection-1878-v2` | have-raw (IA `dli.bengal.10689.17007`) |
+| The Metaphysic of Experience, vol. I (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v1` | have-raw (IA `metaphysicofexp01hodguoft`) |
+| The Metaphysic of Experience, vol. II (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v2` | have-raw (IA `metaphysicofexp02hodguoft`) |
+| The Metaphysic of Experience, vol. III (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v3` | have-raw (IA `metaphysicofexp03hodguoft`) |
+| The Metaphysic of Experience, vol. IV (Longmans, 1898) |  | `hodgson-metaphysic-of-experience-1898-v4` | have-raw (IA `metaphysicofexpe04hodgiala`) |
+| The Relation of Philosophy to Science (Williams and Norgate, 1884) |  | `hodgson-relation-of-philosophy-to-science-1884` | have-raw (IA `relationphiloso00hodggoog`) |
 
 Pending (wishlist): Outcast Essays and Verse Translations (1881)
 

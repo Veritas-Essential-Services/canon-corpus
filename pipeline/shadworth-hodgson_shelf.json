@@ -1,0 +1,171 @@
+{
+ "_about": "Shadworth Hollway Hodgson (1832-1912), English metaphysician and first president of the Aristotelian Society. Raw IA OCR: Time and Space, a metaphysical essay (London: Longman, 1865), clean 0.93; The Theory of Practice, an ethical enquiry (London: Longmans, 1870), 2 vols., clean 0.92 each; The Philosophy of Reflection (London: Longmans, 1878), 2 vols., clean 0.89 and 0.91; The Metaphysic of Experience (London: Longmans, 1898), 4 vols., clean 0.94, 0.94, 0.95, 0.86; The Relation of Philosophy to Science, presidential address to the Aristotelian Society (London: Williams and Norgate, 1884), clean 0.94. Not to be confused with Geraldine Hodgson or the Juvenal translator Hodgson. US public domain. No uids minted.",
+ "_author": "Shadworth H. Hodgson",
+ "_name_words": [
+  "shadworth",
+  "hollway",
+  "hodgson"
+ ],
+ "_surname": [
+  "hodgson",
+  "shadworth hodgson",
+  "shadworth h. hodgson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hodgson-time-and-space-1865": [
+   "bub_gb_86mJQVpgGakC",
+   "Time and Space (Longman, 1865)"
+  ],
+  "hodgson-theory-of-practice-1870-v1": [
+   "theoryofpractic01hodg",
+   "The Theory of Practice, vol. I (Longmans, 1870)"
+  ],
+  "hodgson-theory-of-practice-1870-v2": [
+   "theoryofpractic02hodg",
+   "The Theory of Practice, vol. II (Longmans, 1870)"
+  ],
+  "hodgson-philosophy-of-reflection-1878-v1": [
+   "philosophyofrefl01hodg",
+   "The Philosophy of Reflection, vol. I (Longmans, 1878)"
+  ],
+  "hodgson-philosophy-of-reflection-1878-v2": [
+   "dli.bengal.10689.17007",
+   "The Philosophy of Reflection, vol. II (Longmans, 1878)"
+  ],
+  "hodgson-metaphysic-of-experience-1898-v1": [
+   "metaphysicofexp01hodguoft",
+   "The Metaphysic of Experience, vol. I (Longmans, 1898)"
+  ],
+  "hodgson-metaphysic-of-experience-1898-v2": [
+   "metaphysicofexp02hodguoft",
+   "The Metaphysic of Experience, vol. II (Longmans, 1898)"
+  ],
+  "hodgson-metaphysic-of-experience-1898-v3": [
+   "metaphysicofexp03hodguoft",
+   "The Metaphysic of Experience, vol. III (Longmans, 1898)"
+  ],
+  "hodgson-metaphysic-of-experience-1898-v4": [
+   "metaphysicofexpe04hodgiala",
+   "The Metaphysic of Experience, vol. IV (Longmans, 1898)"
+  ],
+  "hodgson-relation-of-philosophy-to-science-1884": [
+   "relationphiloso00hodggoog",
+   "The Relation of Philosophy to Science (Williams and Norgate, 1884)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hodgson-time-and-space-1865": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgson-theory-of-practice-1870-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgson-theory-of-practice-1870-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgson-philosophy-of-reflection-1878-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-philosophy-of-reflection-1878-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgson-metaphysic-of-experience-1898-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-metaphysic-of-experience-1898-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-metaphysic-of-experience-1898-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-metaphysic-of-experience-1898-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgson-relation-of-philosophy-to-science-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hodgson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
