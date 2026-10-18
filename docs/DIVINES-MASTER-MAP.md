@@ -37265,6 +37265,42 @@ Shelf: `pipeline/ts-arthur_shelf.json` (2026-10-17; added at the coordinator's r
 | Riches have wings; or, A tale for the rich and poor | have | PG 69538, `tsarthur-riches-have-wings` (844 units) |
 | Rising in the world | have | PG 71329, `tsarthur-rising-in-the-world` (965 units) |
 
+## Charles King
+
+Shelf: `pipeline/charles-king_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Deserter | have | PG 16557, `cking-deserter` (1081 units) |
+| From the Ranks | have | PG 16558, `cking-from-the-ranks` (979 units) |
+| Foes in Ambush | have | PG 17806, `cking-foes-in-ambush` (970 units) |
+| A Daughter of the Sioux: A Tale of the Indian frontier | have | PG 19023, `cking-a-daughter-of-the-sioux` (662 units) |
+| An Apache Princess: A Tale of the Indian Frontier | have | PG 19330, `cking-an-apache-princess` (739 units) |
+| Ray's Daughter: A Story of Manila | have | PG 19480, `cking-rays-daughter` (905 units) |
+| Lanier of the Cavalry; or, A Week's Arrest | have | PG 19507, `cking-lanier-of-the-cavalry` (681 units) |
+| Sunset Pass; or, Running the Gauntlet Through Apache Land | have | PG 19928, `cking-sunset-pass` (369 units) |
+| To the Front: A Sequel to Cadet Days | have | PG 19952, `cking-to-the-front` (617 units) |
+| Warrior Gap: A Story of the Sioux Outbreak of '68. | have | PG 20082, `cking-warrior-gap` (583 units) |
+| Under Fire | have | PG 20101, `cking-under-fire` (1371 units) |
+| Marion's Faith. | have | PG 20305, `cking-marions-faith` (1343 units) |
+| A Wounded Name | have | PG 21345, `cking-a-wounded-name` (526 units) |
+| A War-Time Wooing: A Story | have | PG 22906, `cking-a-war-time-wooing` (588 units) |
+| Tonio, Son of the Sierras: A Story of the Apache War | have | PG 23487, `cking-tonio-son-of-the-sierras` (931 units) |
+| A Tame Surrender, A Story of The Chicago Strike | have | PG 23927, `cking-a-tame-surrender-a-story-of-the-chicago-strike` (679 units) |
+| Waring's Peril | have | PG 24148, `cking-warings-peril` (599 units) |
+| Found in the Philippines: The Story of a Woman's Letters | have | PG 25884, `cking-found-in-the-philippines` (577 units) |
+| Starlight Ranch, and Other Stories of Army Life on the Frontier | have | PG 26137, `cking-starlight-ranch-and-other-stories-of-army-life-on-the` (1068 units) |
+| "Laramie;" Or, The Queen of Bedlam. A Story of the Sioux War of 1876 | have | PG 31188, `cking-laramie` (796 units) |
+| A Soldier's Trial: An Episode of the Canteen Crusade | have | PG 32311, `cking-a-soldiers-trial` (653 units) |
+| Kitty's Conquest | have | PG 37244, `cking-kittys-conquest` (1000 units) |
+| Trumpeter Fred: A Story of the Plains | have | PG 37415, `cking-trumpeter-fred` (289 units) |
+| Campaigning with Crook, and Stories of Army Life | have | PG 37480, `cking-campaigning-with-crook-and-stories-of-army-life` (849 units) |
+| From School to Battle-field: A Story of the War Days | have | PG 37672, `cking-from-school-to-battle-field` (659 units) |
+| A Trooper Galahad | have | PG 37688, `cking-a-trooper-galahad` (580 units) |
+| Cadet Days: A Story of West Point | have | PG 49320, `cking-cadet-days` (774 units) |
+| Rancho Del Muerto, and Other Stories of Adventure by Various Authors, from "Outing" | have | PG 51919, `cking-rancho-del-muerto-and-other-stories-of-adventure-by-va` (1590 units) |
+| The colonel's daughter | have | PG 76813, `cking-colonels-daughter` (1732 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
