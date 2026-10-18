@@ -1314,3 +1314,6 @@
 
 ## 2026-10-17 19:21 CDT — melville: done
 - melville: new shelf, 16 Gutenberg books, 21,854 units, 937 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:21 CDT — henry-james: done
+- henry-james: new shelf, 88 Gutenberg books, 75,620 units, 5590 ~2 ids; verify 0 mismatches, 0 rights flags.

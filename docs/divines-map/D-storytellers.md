@@ -7710,6 +7710,104 @@ Shelf: `pipeline/melville_shelf.json` (2026-10-17; added at the coordinator's re
 | held-elsewhere | excluded | PG 2701: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-15 | excluded | PG 15 Moby-Dick: a second edition; the Adler shelf holds the novel (PG 2701). |
 
+## Henry James
+
+Shelf: `pipeline/henry-james_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (88 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Roderick Hudson | have | PG 176, `hjames-roderick-hudson` (2281 units) |
+| The American | have | PG 177, `hjames-american` (2694 units) |
+| Confidence | have | PG 178, `hjames-confidence` (1741 units) |
+| The Europeans | have | PG 179, `hjames-europeans` (1502 units) |
+| Daisy Miller: A Study | have | PG 208, `hjames-daisy-miller` (537 units) |
+| The Turn of the Screw | have | PG 209, `hjames-turn-of-the-screw` (799 units) |
+| An International Episode | have | PG 210, `hjames-an-international-episode` (762 units) |
+| The Aspern Papers | have | PG 211, `hjames-aspern-papers` (611 units) |
+| The Ambassadors | have | PG 432, `hjames-ambassadors` (2689 units) |
+| The Death of the Lion | have | PG 643, `hjames-death-of-the-lion` (160 units) |
+| The Figure in the Carpet | have | PG 645, `hjames-figure-in-the-carpet` (165 units) |
+| The Lesson of the Master | have | PG 898, `hjames-lesson-of-the-master` (468 units) |
+| The Pupil | have | PG 1032, `hjames-pupil` (272 units) |
+| The Beast in the Jungle | have | PG 1093, `hjames-beast-in-the-jungle` (231 units) |
+| In the Cage | have | PG 1144, `hjames-in-the-cage` (489 units) |
+| The Jolly Corner | have | PG 1190, `hjames-jolly-corner` (125 units) |
+| The Coxon Fund | have | PG 1193, `hjames-coxon-fund` (332 units) |
+| Glasses | have | PG 1195, `hjames-glasses` (181 units) |
+| A little tour in France | have | PG 2159, `hjames-a-little-tour-in-france` (163 units) |
+| Pandora | have | PG 2299, `hjames-pandora` (201 units) |
+| Some Short Stories [by Henry James] | have | PG 2327, `hjames-some-short-stories-by-henry-james` (699 units) |
+| The Beldonald Holbein | have | PG 2366, `hjames-beldonald-holbein` (115 units) |
+| A Bundle of Letters | have | PG 2425, `hjames-a-bundle-of-letters` (90 units) |
+| The Diary of a Man of Fifty | have | PG 2426, `hjames-diary-of-a-man-of-fifty` (411 units) |
+| The Patagonia | have | PG 2427, `hjames-patagonia` (590 units) |
+| The Marriages | have | PG 2436, `hjames-marriages` (200 units) |
+| The Madonna of the Future | have | PG 2460, `hjames-madonna-of-the-future` (108 units) |
+| Eugene Pickering | have | PG 2534, `hjames-eugene-pickering` (199 units) |
+| The Real Thing and Other Tales | have | PG 2715, `hjames-real-thing-and-other-tales` (873 units) |
+| Sir Dominick Ferrand | have | PG 2716, `hjames-sir-dominick-ferrand` (279 units) |
+| Nona Vincent | have | PG 2717, `hjames-nona-vincent` (194 units) |
+| The Chaperon | have | PG 2718, `hjames-chaperon` (261 units) |
+| Greville Fane | have | PG 2719, `hjames-greville-fane` (28 units) |
+| The Pension Beaurepas | have | PG 2720, `hjames-pension-beaurepas` (512 units) |
+| The Portrait of a Lady — Volume 1 | have | PG 2833, `hjames-portrait-of-a-lady-volume-1` (2330 units) |
+| The Portrait of a Lady — Volume 2 | have | PG 2834, `hjames-portrait-of-a-lady-volume-2` (2207 units) |
+| The Point of View | have | PG 2869, `hjames-point-of-view` (24 units) |
+| Washington Square | have | PG 2870, `hjames-washington-square` (1570 units) |
+| The Author of Beltraffio | have | PG 3145, `hjames-author-of-beltraffio` (222 units) |
+| The Golden Bowl — Complete | have | PG 4264, `hjames-golden-bowl-complete` (2505 units) |
+| Italian Hours | have | PG 6354, `hjames-italian-hours` (380 units) |
+| What Maisie Knew | have | PG 7118, `hjames-what-maisie-knew` (1544 units) |
+| The Awkward Age | have | PG 7433, `hjames-awkward-age` (3730 units) |
+| The Reverberator | have | PG 7529, `hjames-reverberator` (1082 units) |
+| Madame De Mauves | have | PG 7813, `hjames-madame-de-mauves` (259 units) |
+| A Passionate Pilgrim | have | PG 8080, `hjames-a-passionate-pilgrim` (392 units) |
+| Louisa Pallant | have | PG 8081, `hjames-louisa-pallant` (187 units) |
+| Hawthorne (English Men of Letters Series) | have | PG 18566, `hjames-hawthorne-english-men-of-letters-series` (227 units) |
+| The Bostonians, Vol. I (of II) | have | PG 19717, `hjames-bostonians-vol-i-of-ii` (601 units) |
+| The Bostonians, Vol. II (of II) | have | PG 19718, `hjames-bostonians-vol-ii-of-ii` (1051 units) |
+| The Tragic Muse | have | PG 20085, `hjames-tragic-muse` (3963 units) |
+| Georgina's Reasons | have | PG 21771, `hjames-georginas-reasons` (262 units) |
+| The Path Of Duty | have | PG 21772, `hjames-path-of-duty` (102 units) |
+| Four Meetings | have | PG 21773, `hjames-four-meetings` (316 units) |
+| Embarrassments | have | PG 21932, `hjames-embarrassments` (616 units) |
+| The Finer Grain | have | PG 21968, `hjames-finer-grain` (500 units) |
+| The Outcry | have | PG 21969, `hjames-outcry` (1678 units) |
+| A London Life, and Other Tales | have | PG 25500, `hjames-a-london-life-and-other-tales` (1877 units) |
+| Picture and Text 1893 | have | PG 25767, `hjames-picture-and-text-1893` (255 units) |
+| A Small Boy and Others | have | PG 26115, `hjames-a-small-boy-and-others` (167 units) |
+| The Wings of the Dove, Volume 1 of 2 | have | PG 29452, `hjames-wings-of-the-dove-volume-1-of-2` (731 units) |
+| The Wings of the Dove, Volume II | have | PG 30059, `hjames-wings-of-the-dove-volume-ii` (1792 units) |
+| The Middle Years | have | PG 32649, `hjames-middle-years` (59 units) |
+| The Sacred Fount | have | PG 32939, `hjames-sacred-fount` (1292 units) |
+| The Spoils of Poynton | have | PG 33325, `hjames-spoils-of-poynton` (959 units) |
+| Views and Reviews | have | PG 37424, `hjames-views-and-reviews` (504 units) |
+| Within the Rim, and Other Essays, 1914-15 | have | PG 37425, `hjames-within-the-rim-and-other-essays-1914-15` (52 units) |
+| Lady Barbarina, The Siege of London, An International Episode, and Other Tales | have | PG 37627, `hjames-lady-barbarina-the-siege-of-london-an-international-e` (2588 units) |
+| The Letters of Henry James (Vol. II) | have | PG 38035, `hjames-letters-of-henry-james-vol-ii` (1889 units) |
+| Notes of a Son and Brother | have | PG 38424, `hjames-notes-of-a-son-and-brother` (341 units) |
+| The Letters of Henry James (Vol. I) | have | PG 38776, `hjames-letters-of-henry-james-vol-i` (1179 units) |
+| The Two Magics: The Turn of the Screw, Covering End | have | PG 42486, `hjames-two-magics` (1863 units) |
+| The Birthplace | have | PG 55078, `hjames-birthplace` (345 units) |
+| Partial Portraits | have | PG 58471, `hjames-partial-portraits` (518 units) |
+| English Hours | have | PG 58938, `hjames-english-hours` (486 units) |
+| Notes on Novelists, with Some Other Notes | have | PG 60040, `hjames-notes-on-novelists-with-some-other-notes` (388 units) |
+| The Ivory Tower | have | PG 62979, `hjames-ivory-tower` (715 units) |
+| The Sense of the Past | have | PG 63369, `hjames-sense-of-the-past` (529 units) |
+| The private life, The wheel of time, Lord Beaupré, The visits, Collaboration, Owen Wingrave. | have | PG 64396, `hjames-private-life-the-wheel-of-time-lord-beaupr-the-visits` (1515 units) |
+| The Princess Casamassima: A Novel | have | PG 64599, `hjames-princess-casamassima` (2963 units) |
+| Gabrielle de Bergerac | have | PG 65481, `hjames-gabrielle-de-bergerac` (456 units) |
+| "A Most Unholy Trade," Being Letters on the Drama by Henry James | have | PG 65683, `hjames-a-most-unholy-trade-being-letters-on-the-drama-by-hen` (35 units) |
+| A landscape painter | have | PG 68340, `hjames-a-landscape-painter` (950 units) |
+| The American scene | have | PG 68717, `hjames-american-scene` (524 units) |
+| Portraits of places | have | PG 68961, `hjames-portraits-of-places` (277 units) |
+| The Princess Casamassima (Volume 1 of 2) | have | PG 69628, `hjames-princess-casamassima-volume-1-of-2` (1234 units) |
+| The Princess Casamassima (Volume 2 of 2) | have | PG 69629, `hjames-princess-casamassima-volume-2-of-2` (1749 units) |
+| Watch and ward | have | PG 72355, `hjames-watch-and-ward` (678 units) |
+| pg-59462 | excluded | PG 59462: Gutenberg's index of the author's works, not a book. |
+| split-parts | excluded | Gutenberg's split-part files PG 4262, 4263: the complete edition of each is on the shelf instead. |
+| repeat-editions | excluded | PG 21770, 28004: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
