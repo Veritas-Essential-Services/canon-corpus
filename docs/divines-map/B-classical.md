@@ -8009,6 +8009,12 @@ Shelf: `pipeline/simon-patten_shelf.json`. Six books, 1889-1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Consumption of Wealth (University of Pennsylvania, 1889) |  | `patten-consumption-of-wealth-1889` | have-raw (IA `consumptionofwea00pattrich`) |
+| The Development of English Thought (Macmillan, 1899) |  | `patten-development-of-english-thought-1899` | have-raw (IA `developmentofeng00pattiala`) |
+| The Theory of Prosperity (Macmillan, 1902) |  | `patten-theory-of-prosperity-1902` | have-raw (IA `theoryofprosperi00pattiala`) |
+| The New Basis of Civilization (Macmillan, 1907) |  | `patten-new-basis-of-civilization-1907` | have-raw (IA `newbasisofcivili00pattuoft`) |
+| The Social Basis of Religion (Macmillan, 1911; printing of 1912) |  | `patten-social-basis-of-religion-1911` | have-raw (IA `socialbasisofrel0000patt_r5a5`) |
+| Culture and War (Huebsch, 1916) |  | `patten-culture-and-war-1916` | have-raw (IA `cultureandwar00pattgoog`) |
 
 ## Mark Hopkins (American moral philosophy)
 

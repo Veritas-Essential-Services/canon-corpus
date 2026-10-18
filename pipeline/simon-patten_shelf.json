@@ -1,0 +1,114 @@
+{
+ "_about": "Simon Nelson Patten (1852-1922), Wharton School economist of abundance and social philosopher. Raw IA OCR: The Consumption of Wealth (University of Pennsylvania, Political Economy and Public Law Series, 1889); The Development of English Thought, a study in the economic interpretation of history (Macmillan, 1899); The Theory of Prosperity (Macmillan, 1902); The New Basis of Civilization, Kennedy lectures for 1905 (Macmillan, 1907); The Social Basis of Religion (Macmillan, copyright 1911, this printing 1912); Culture and War (New York: B. W. Huebsch, 1916). US public domain. No uids minted.",
+ "_author": "Simon N. Patten",
+ "_name_words": [
+  "simon",
+  "nelson",
+  "patten"
+ ],
+ "_surname": [
+  "patten"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "patten-consumption-of-wealth-1889": [
+   "consumptionofwea00pattrich",
+   "The Consumption of Wealth (University of Pennsylvania, 1889)"
+  ],
+  "patten-development-of-english-thought-1899": [
+   "developmentofeng00pattiala",
+   "The Development of English Thought (Macmillan, 1899)"
+  ],
+  "patten-theory-of-prosperity-1902": [
+   "theoryofprosperi00pattiala",
+   "The Theory of Prosperity (Macmillan, 1902)"
+  ],
+  "patten-new-basis-of-civilization-1907": [
+   "newbasisofcivili00pattuoft",
+   "The New Basis of Civilization (Macmillan, 1907)"
+  ],
+  "patten-social-basis-of-religion-1911": [
+   "socialbasisofrel0000patt_r5a5",
+   "The Social Basis of Religion (Macmillan, 1911; printing of 1912)"
+  ],
+  "patten-culture-and-war-1916": [
+   "cultureandwar00pattgoog",
+   "Culture and War (Huebsch, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "patten-consumption-of-wealth-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patten-development-of-english-thought-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patten-theory-of-prosperity-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patten-new-basis-of-civilization-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "patten-social-basis-of-religion-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patten-culture-and-war-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "patten-culture-and-war-1916": {
+   "author": "Simon N. Patten (title page OCR reads 'SIMON NELSON f ATTEN, Author of The New Basis of Civilization, Product and Climax' (the OCR garbles both titles); B. W. Huebsch, 1916)"
+  }
+ }
+}
