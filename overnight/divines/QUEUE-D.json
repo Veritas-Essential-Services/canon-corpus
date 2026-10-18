@@ -3477,6 +3477,14 @@
       "started": "2026-10-17T22:16:57-05:00",
       "finished": "2026-10-17T22:16:57-05:00",
       "notes": "may-sinclair: new shelf, 22 Gutenberg books, 57,447 units, 959 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "upton-sinclair-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Upton Sinclair; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:16:58-05:00",
+      "finished": "2026-10-17T22:16:58-05:00",
+      "notes": "upton-sinclair-works: new shelf, 41 Gutenberg books, 64,686 units, 4256 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

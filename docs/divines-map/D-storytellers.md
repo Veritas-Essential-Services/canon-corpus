@@ -11562,6 +11562,56 @@ Shelf: `pipeline/may-sinclair_shelf.json` (2026-10-17; added at the coordinator'
 | The Return of the Prodigal | have | PG 31595, `msinclair-return-of-the-prodigal` (3002 units) |
 | Uncanny Stories | have | PG 59165, `msinclair-uncanny-stories` (2082 units) |
 
+## Upton Sinclair
+
+Shelf: `pipeline/upton-sinclair-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (41 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Damaged Goods The great play "Les avariés" by Brieux, novelized with the approval of the author (novelized from Eugene Brieux's play) | have | PG 1157, `usinclair-damaged-goods-the-great-play-les-avari-s-by-brieux` (866 units) |
+| The Profits of Religion: An Essay in Economic Interpretation | have | PG 1558, `usinclair-profits-of-religion` (881 units) |
+| The Naturewoman | have | PG 3301, `usinclair-naturewoman` (1055 units) |
+| The Second-Story Man | have | PG 3302, `usinclair-second-story-man` (217 units) |
+| Prince Hagen | have | PG 3303, `usinclair-prince-hagen` (1140 units) |
+| The Machine | have | PG 3304, `usinclair-machine` (1017 units) |
+| King Midas: a Romance | have | PG 4923, `usinclair-king-midas` (1834 units) |
+| The Metropolis | have | PG 5421, `usinclair-metropolis` (1637 units) |
+| Jimmie Higgins | have | PG 5677, `usinclair-jimmie-higgins` (1576 units) |
+| They Call Me Carpenter: A Tale of the Second Coming | have | PG 5774, `usinclair-they-call-me-carpenter` (1233 units) |
+| 100%: the Story of a Patriot | have | PG 5776, `usinclair-100` (1323 units) |
+| The Pot Boiler: A Comedy in Four Acts | have | PG 5806, `usinclair-pot-boiler` (1474 units) |
+| Sylvia's Marriage: A Novel | have | PG 5807, `usinclair-sylvias-marriage` (1581 units) |
+| The Moneychangers | have | PG 5829, `usinclair-moneychangers` (1994 units) |
+| Samuel the Seeker | have | PG 5961, `usinclair-samuel-the-seeker` (2537 units) |
+| Love's Pilgrimage: A Novel | have | PG 5964, `usinclair-loves-pilgrimage` (3219 units) |
+| King Coal | have | PG 7522, `usinclair-king-coal` (2900 units) |
+| The Journal of Arthur Stirling : ("The Valley of the Shadow") | have | PG 7774, `usinclair-journal-of-arthur-stirling` (2519 units) |
+| The Profits of Religion, Fifth Edition | have | PG 16470, `usinclair-profits-of-religion-fifth-edition` (1134 units) |
+| A Prisoner of Morro; Or, In the Hands of the Enemy | have | PG 24770, `usinclair-a-prisoner-of-morro` (2459 units) |
+| A Cadet's Honor: Mark Mallory's Heroism | have | PG 36099, `usinclair-a-cadets-honor` (1545 units) |
+| On Guard: Mark Mallory's Celebration | have | PG 36101, `usinclair-on-guard` (2009 units) |
+| The Book of Life | have | PG 38117, `usinclair-book-of-life` (1821 units) |
+| A Captain of Industry: Being the Story of a Civilized Man | have | PG 39516, `usinclair-a-captain-of-industry` (389 units) |
+| Sylvia: A Novel | have | PG 61984, `usinclair-sylvia` (2353 units) |
+| The Fasting Cure | have | PG 63293, `usinclair-fasting-cure` (367 units) |
+| The industrial republic: a study of the America of ten years hence | have | PG 64373, `usinclair-industrial-republic` (523 units) |
+| A West Point Treasure; Or, Mark Mallory's Strange Find | have | PG 64609, `usinclair-a-west-point-treasure` (1612 units) |
+| The Brass Check: A Study of American Journalism | have | PG 64657, `usinclair-brass-check` (1863 units) |
+| The Goose-step: A Study of American Education | have | PG 65492, `usinclair-goose-step` (2546 units) |
+| The Goslings: A Study of the American Schools | have | PG 65576, `usinclair-goslings` (1595 units) |
+| Letters to Judd, an American Workingman | have | PG 65818, `usinclair-letters-to-judd-an-american-workingman` (380 units) |
+| The Cruise of the Training Ship; Or, Clif Faraday's Pluck | have | PG 66062, `usinclair-cruise-of-the-training-ship` (2084 units) |
+| Good Health and How We Won It, With an Account of the New Hygiene (with Michael Williams) | have | PG 66077, `usinclair-good-health-and-how-we-won-it-with-an-account-of-t` (932 units) |
+| The Overman | have | PG 67732, `usinclair-overman` (230 units) |
+| The West Point Rivals: or, Mark Mallory's Stratagem | have | PG 68041, `usinclair-west-point-rivals` (1719 units) |
+| Mammonart: An essay in economic interpretation | have | PG 69027, `usinclair-mammonart` (1963 units) |
+| Oil! | have | PG 70379, `usinclair-oil` (2645 units) |
+| The spokesman's secretary | have | PG 71030, `usinclair-spokesmans-secretary` (706 units) |
+| Bill Porter | have | PG 74989, `usinclair-bill-porter` (820 units) |
+| Boston | have | PG 78039, `usinclair-boston` (3988 units) |
+| pg-59670 | excluded | PG 59670: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 140: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
