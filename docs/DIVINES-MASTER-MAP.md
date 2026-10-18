@@ -35945,6 +35945,35 @@ Shelf: `pipeline/percy-keese-fitzhugh_shelf.json` (2026-10-17; added at the coor
 | Skinny McCord | have | PG 76477, `pkfitzhugh-skinny-mccord` (1084 units) |
 | King Time | have | PG 79473, `pkfitzhugh-king-time` (1190 units) |
 
+## Roy J. Snell
+
+Shelf: `pipeline/roy-j-snell_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lost in the Air | have | PG 10599, `rjsnell-lost-in-the-air` (1174 units) |
+| Triple Spies | have | PG 13880, `rjsnell-triple-spies` (1095 units) |
+| Curlie Carson Listens In | have | PG 19351, `rjsnell-curlie-carson-listens-in` (1191 units) |
+| The Blue Envelope | have | PG 21539, `rjsnell-blue-envelope` (1349 units) |
+| Little White Fox and his Arctic Friends | have | PG 24489, `rjsnell-little-white-fox-and-his-arctic-friends` (325 units) |
+| Panther Eye | have | PG 26372, `rjsnell-panther-eye` (1169 units) |
+| White Fire | have | PG 41719, `rjsnell-white-fire` (1150 units) |
+| The Crimson Flash | have | PG 41721, `rjsnell-crimson-flash` (1203 units) |
+| The Silent Alarm | have | PG 41772, `rjsnell-silent-alarm` (1261 units) |
+| The Secret Mark An Adventure Story for Girls | have | PG 41837, `rjsnell-secret-mark-an-adventure-story-for-girls` (1217 units) |
+| The Crimson Thread: An Adventure Story for Girls | have | PG 41909, `rjsnell-crimson-thread` (1409 units) |
+| The Purple Flame A Mystery Story for Girls | have | PG 42016, `rjsnell-purple-flame-a-mystery-story-for-girls` (1144 units) |
+| The Cruise of the O Moo | have | PG 42040, `rjsnell-cruise-of-the-o-moo` (1234 units) |
+| The Red Lure | have | PG 42688, `rjsnell-red-lure` (1391 units) |
+| Forbidden Cargoes | have | PG 42728, `rjsnell-forbidden-cargoes` (1408 units) |
+| The Firebug | have | PG 42755, `rjsnell-firebug` (1389 units) |
+| The Rope of Gold A Mystery Story for Boys | have | PG 43102, `rjsnell-rope-of-gold-a-mystery-story-for-boys` (1471 units) |
+| Johnny Longbow | have | PG 43230, `rjsnell-johnny-longbow` (1535 units) |
+| Witches Cove A Mystery Story for Girls | have | PG 43256, `rjsnell-witches-cove-a-mystery-story-for-girls` (1391 units) |
+| The Arrow of Fire A Mystery Story for Boys | have | PG 43263, `rjsnell-arrow-of-fire-a-mystery-story-for-boys` (1583 units) |
+| On the Yukon Trail Radio-Phone Boys Series, #2 | have | PG 45029, `rjsnell-on-the-yukon-trail-radio-phone-boys-series-2` (1028 units) |
+| Green Eyes | have | PG 45557, `rjsnell-green-eyes` (1474 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

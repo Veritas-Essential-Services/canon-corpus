@@ -1,0 +1,346 @@
+{
+ "_about": "Roy J. Snell's mystery and adventure series for boys and girls",
+ "_author": "Roy J. Snell",
+ "_name_words": [
+  "snell"
+ ],
+ "_surname": [
+  "roy j. snell",
+  "roy judson snell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rjsnell-lost-in-the-air": [
+   10599,
+   "Lost in the Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-triple-spies": [
+   13880,
+   "Triple Spies"
+  ],
+  "rjsnell-curlie-carson-listens-in": [
+   19351,
+   "Curlie Carson Listens In",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-blue-envelope": [
+   21539,
+   "The Blue Envelope",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-little-white-fox-and-his-arctic-friends": [
+   24489,
+   "Little White Fox and his Arctic Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-panther-eye": [
+   26372,
+   "Panther Eye",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-white-fire": [
+   41719,
+   "White Fire"
+  ],
+  "rjsnell-crimson-flash": [
+   41721,
+   "The Crimson Flash",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-silent-alarm": [
+   41772,
+   "The Silent Alarm"
+  ],
+  "rjsnell-secret-mark-an-adventure-story-for-girls": [
+   41837,
+   "The Secret Mark An Adventure Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-crimson-thread": [
+   41909,
+   "The Crimson Thread: An Adventure Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-purple-flame-a-mystery-story-for-girls": [
+   42016,
+   "The Purple Flame A Mystery Story for Girls"
+  ],
+  "rjsnell-cruise-of-the-o-moo": [
+   42040,
+   "The Cruise of the O Moo",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-red-lure": [
+   42688,
+   "The Red Lure"
+  ],
+  "rjsnell-forbidden-cargoes": [
+   42728,
+   "Forbidden Cargoes"
+  ],
+  "rjsnell-firebug": [
+   42755,
+   "The Firebug",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-rope-of-gold-a-mystery-story-for-boys": [
+   43102,
+   "The Rope of Gold A Mystery Story for Boys",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-johnny-longbow": [
+   43230,
+   "Johnny Longbow"
+  ],
+  "rjsnell-witches-cove-a-mystery-story-for-girls": [
+   43256,
+   "Witches Cove A Mystery Story for Girls"
+  ],
+  "rjsnell-arrow-of-fire-a-mystery-story-for-boys": [
+   43263,
+   "The Arrow of Fire A Mystery Story for Boys",
+   {
+    "contents_only": true
+   }
+  ],
+  "rjsnell-on-the-yukon-trail-radio-phone-boys-series-2": [
+   45029,
+   "On the Yukon Trail Radio-Phone Boys Series, #2"
+  ],
+  "rjsnell-green-eyes": [
+   45557,
+   "Green Eyes",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD: PG 42137 The Magic Curtain A Mystery Story for Girls (1932); PG 43362 Riddle of the Storm A Mystery Story for Boys (1932); PG 43677 Whispers at Dawn; Or, The Eye (1934); PG 43853 The Galloping Ghost A Mystery Story for Boys (1933); PG 43904 Mystery Wings A Mystery Story for Boys (1935); PG 44062 The Crystal Ball A Mystery Story for Girls (1936); PG 44111 Red Dynamite A Mystery Story for Boys (1936); PG 44294 The phantom violin (1934); PG 44299 Hour of Enchantment A Mystery Story for Girls (1933); PG 44352 The Shadow Passes A Mystery Story for Boys (1938); PG 44353 A Ticket to Adventure A Mystery Story for Girls (1937); PG 44813 Sally Scott of the WAVES (1943); PG 44824 Sign of the Green Arrow A Mystery Story (1939); PG 44873 Third Warning A Mystery Story for Girls (1938); PG 46814 Gypsy Flight A Mystery Story for Girls (1935); PG 47793 Sparky Ames of the Ferry Command (1943); PG 48599 Norma Kent of the WACS (1943); PG 49131 Wings over England (1941); PG 55907 The Golden Circle A Mystery Story for Girls (1931); PG 57816 Jet Plane Mystery (1944); PG 58073 Secrets of Radar (1944); PG 60233 The Gray Shadow A Mystery Story For Boys (1931). The printed copyright line is after 1930. Adam's rule is US public domain; a post-1930 book is PD in the US only if its copyright was never renewed, which has not been checked here, so these are not taken until that is checked or Adam rules."
+ },
+ "_checks": {
+  "rjsnell-lost-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-triple-spies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-curlie-carson-listens-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-blue-envelope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-little-white-fox-and-his-arctic-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-panther-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-white-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-crimson-flash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-silent-alarm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-secret-mark-an-adventure-story-for-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-crimson-thread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-purple-flame-a-mystery-story-for-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-cruise-of-the-o-moo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-red-lure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-forbidden-cargoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-firebug": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-rope-of-gold-a-mystery-story-for-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-johnny-longbow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-witches-cove-a-mystery-story-for-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-arrow-of-fire-a-mystery-story-for-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-on-the-yukon-trail-radio-phone-boys-series-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjsnell-green-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roy j. snell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

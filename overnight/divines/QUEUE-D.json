@@ -3509,6 +3509,14 @@
       "started": "2026-10-17T22:17:02-05:00",
       "finished": "2026-10-17T22:17:03-05:00",
       "notes": "percy-keese-fitzhugh: new shelf, 42 Gutenberg books, 49,615 units, 95 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "roy-j-snell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Roy J. Snell; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:35:59-05:00",
+      "finished": "2026-10-17T22:35:59-05:00",
+      "notes": "roy-j-snell: new shelf, 22 Gutenberg books, 27,591 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
