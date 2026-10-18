@@ -4190,6 +4190,8 @@ Shelf: `pipeline/malthus_shelf.json`. Six works, 1798-1827.
 | The Measure of Value Stated and Illustrated (London, 1823) |  | `malthus-measure-of-value-1823` | have (PG 62407) |
 | Definitions in Political Economy (London: John Murray, 1827) |  | `malthus-definitions-1827` | have (PG 61483) |
 | Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition) |  | `malthus-principles-of-political-economy-1821` | have-raw (IA `principlesofpoli01malt`) |
+| An Essay on the Principle of Population, sixth edition, vol. I (London: John Murray, 1826) |  | `malthus-population-1826-v1` | have-raw (IA `essayonprinciple01malt`) |
+| An Essay on the Principle of Population, sixth edition, vol. II (London: John Murray, 1826) |  | `malthus-population-1826-v2` | have-raw (IA `essayonprinciple02malt`) |
 
 ## David Ricardo
 
