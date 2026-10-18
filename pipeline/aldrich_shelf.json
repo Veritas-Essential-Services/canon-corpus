@@ -83,6 +83,18 @@
   "aldrich-daisys-necklace-and-what-came-of-it": [
    30668,
    "Daisy's Necklace, and What Came of It"
+  ],
+  "aldrich-cruise-of-the-dolphin": [
+   1757,
+   "The Cruise of the Dolphin"
+  ],
+  "aldrich-an-old-town-by-the-sea": [
+   1861,
+   "An Old Town By the Sea"
+  ],
+  "aldrich-ponkapog-papers": [
+   625,
+   "Ponkapog Papers"
   ]
  },
  "internet_archive": {},
@@ -90,7 +102,7 @@
  "_checks": {
   "aldrich-story-of-a-bad-boy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -99,7 +111,7 @@
   },
   "aldrich-sisters-tragedy-with-other-poems-lyrical-and-dramati": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -108,7 +120,7 @@
   },
   "aldrich-marjorie-daw": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -117,7 +129,7 @@
   },
   "aldrich-wyndham-towers": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -126,7 +138,7 @@
   },
   "aldrich-stillwater-tragedy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -135,7 +147,7 @@
   },
   "aldrich-queen-of-sheba-and-my-cousin-the-colonel": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -144,7 +156,7 @@
   },
   "aldrich-little-violinist": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -153,7 +165,7 @@
   },
   "aldrich-a-struggle-for-life": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -162,7 +174,7 @@
   },
   "aldrich-miss-mehetabels-son": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -171,7 +183,7 @@
   },
   "aldrich-a-rivermouth-romance": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -180,7 +192,7 @@
   },
   "aldrich-quite-so": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -189,7 +201,7 @@
   },
   "aldrich-our-new-neighbors-at-ponkapog": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -198,7 +210,7 @@
   },
   "aldrich-p-re-antoines-date-palm": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -207,7 +219,7 @@
   },
   "aldrich-mademoiselle-olympe-zabriski": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -216,7 +228,7 @@
   },
   "aldrich-a-midnight-fantasy": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
@@ -225,7 +237,34 @@
   },
   "aldrich-daisys-necklace-and-what-came-of-it": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aldrich-cruise-of-the-dolphin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aldrich-an-old-town-by-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aldrich-ponkapog-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "thomas bailey aldrich",
    "identity": "ok",
