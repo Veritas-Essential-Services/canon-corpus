@@ -1,0 +1,113 @@
+{
+ "_about": "Sir Henry Jones (1852-1922), Welsh idealist, Professor of Moral Philosophy at Glasgow. Raw IA OCR: Browning as a Philosophical and Religious Teacher (Glasgow: Maclehose; first 1891, this copy the 1912 reprint), clean 0.93; A Critical Account of the Philosophy of Lotze: the Doctrine of Thought (Glasgow: Maclehose, 1895), clean 0.92; Idealism as a Practical Creed (Glasgow: Maclehose, 1909), clean 0.92; The Working Faith of the Social Reformer and other essays (London: Macmillan, 1910), clean 0.94; Social Powers, three popular lectures (Glasgow: Maclehose, 1913), clean 0.93; The Principles of Citizenship (London: Macmillan, 1919), clean 0.92. US public domain. No uids minted.",
+ "_author": "Henry Jones",
+ "_name_words": [
+  "henry",
+  "jones"
+ ],
+ "_surname": [
+  "jones"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jones-browning-philosophical-teacher-1891": [
+   "browningasphilos00joneuoft",
+   "Browning as a Philosophical and Religious Teacher (Maclehose, 1891; reprint 1912)"
+  ],
+  "jones-philosophy-of-lotze-1895": [
+   "criticalaccounto00jone",
+   "A Critical Account of the Philosophy of Lotze (Maclehose, 1895)"
+  ],
+  "jones-idealism-practical-creed-1909": [
+   "idealismaspracti00jone",
+   "Idealism as a Practical Creed (Maclehose, 1909)"
+  ],
+  "jones-working-faith-social-reformer-1910": [
+   "workingfaithofso00joneuoft",
+   "The Working Faith of the Social Reformer (Macmillan, 1910)"
+  ],
+  "jones-social-powers-1913": [
+   "socialpowersthre00joneiala",
+   "Social Powers (Maclehose, 1913)"
+  ],
+  "jones-principles-of-citizenship-1919": [
+   "principlescitiz00jonegoog",
+   "The Principles of Citizenship (Macmillan, 1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "jones-browning-philosophical-teacher-1891": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-philosophy-of-lotze-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-idealism-practical-creed-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-working-faith-social-reformer-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-social-powers-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-principles-of-citizenship-1919": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "jones-social-powers-1913": {
+   "author": "The OCR misreads the title-page name as 'SIR HENRY TONES, LL.D., LITT.D.'; the title page, Maclehose imprint and Glasgow chair match Henry Jones."
+  }
+ }
+}
