@@ -1,0 +1,50 @@
+{
+ "_about": "Albion Woodbury Small (1854-1926), founder of the first American department of sociology (Chicago) and of the American Journal of Sociology. Raw IA OCR: General Sociology, an exposition of the main development in sociological theory from Spencer to Ratzenhofer (University of Chicago Press, copyright 1905, this printing 1907); The Meaning of Social Science (University of Chicago Press, published November 1910). His surname is a common word, so only full name forms are used. US public domain. No uids minted.",
+ "_author": "Albion W. Small",
+ "_name_words": [
+  "albion",
+  "woodbury",
+  "small"
+ ],
+ "_surname": [
+  "albion w. small",
+  "albion small"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "small-general-sociology-1905": [
+   "generalsociology00smal",
+   "General Sociology (University of Chicago Press, 1905; printing of 1907)"
+  ],
+  "small-meaning-of-social-science-1910": [
+   "meaningsocialsc00smalgoog",
+   "The Meaning of Social Science (University of Chicago Press, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "small-general-sociology-1905": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "albion w. small",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "small-meaning-of-social-science-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "albion w. small",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -7953,7 +7953,7 @@ Shelf: `pipeline/charles-darwin_shelf.json`. Twenty works beyond the Origin and 
 | More Letters of Charles Darwin, vol. 2, ed. Francis Darwin and A. C. Seward |  | `darwin-more-letters-v2` | have (PG 2740) |
 | The Foundations of the Origin of Species, two essays written in 1842 and 1844 (1909) |  | `darwin-foundations-of-the-origin-1909` | have (PG 22728) |
 
-Pending (wishlist): Fertilisation of Orchids (1862), not on Project Gutenberg in English.
+Pending (wishlist): Fertilisation of Orchids, first edition (1862).
 
 ## Alfred Russel Wallace (natural selection and biogeography)
 
@@ -7981,8 +7981,6 @@ Shelf: `pipeline/alfred-russel-wallace_shelf.json`. Nineteen works, 1853-1916.
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 1, ed. James Marchant |  | `wallace-letters-and-reminiscences-v1` | have (PG 15997) |
 | Alfred Russel Wallace: Letters and Reminiscences, vol. 2, ed. James Marchant |  | `wallace-letters-and-reminiscences-v2` | have (PG 15998) |
 
-Pending (wishlist): My Life (1905) and The Wonderful Century (1898).
-
 ## Charles Lyell (uniformitarian geology)
 
 Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
@@ -7995,6 +7993,47 @@ Shelf: `pipeline/charles-lyell_shelf.json`. Four works.
 | The Student's Elements of Geology |  | `lyell-students-elements-of-geology` | have (PG 3772) |
 
 Pending (wishlist): Principles of Geology, 1st edition (1830-33).
+
+## Albion W. Small (Chicago sociology)
+
+Shelf: `pipeline/albion-small_shelf.json`. Two books, 1905-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| General Sociology (University of Chicago Press, 1905; printing of 1907) |  | `small-general-sociology-1905` | have-raw (IA `generalsociology00smal`) |
+| The Meaning of Social Science (University of Chicago Press, 1910) |  | `small-meaning-of-social-science-1910` | have-raw (IA `meaningsocialsc00smalgoog`) |
+
+## Simon N. Patten (economics of abundance)
+
+Shelf: `pipeline/simon-patten_shelf.json`. Six books, 1889-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Mark Hopkins (American moral philosophy)
+
+Shelf: `pipeline/mark-hopkins_shelf.json`. Four works, 1862-1873.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## William Mackintire Salter (ethical culture)
+
+Shelf: `pipeline/william-mackintire-salter_shelf.json`. Three books, 1889-1917.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Anarchy or Government? (1895).
+
+## C. E. M. Joad (popular philosophy)
+
+Shelf: `pipeline/c-e-m-joad_shelf.json`. Five books, 1920-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Introduction to Modern Philosophy (1924; only post-1930 reprints found).
 
 ## Perseus census (overflow)
 
