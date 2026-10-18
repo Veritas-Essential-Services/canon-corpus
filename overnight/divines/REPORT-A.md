@@ -1741,3 +1741,6 @@
 
 ## 2026-10-17 22:27 CDT — louis-veuillot done
 - `pipeline/louis-veuillot_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — francis-procter done
+- `pipeline/francis-procter_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for procter-history-bcp-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

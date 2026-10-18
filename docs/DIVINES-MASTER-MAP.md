@@ -8371,6 +8371,21 @@ Slugs `-*`. Built from title pages read for round 35.
 | The Life of Our Lord Jesus Christ, from the seventh French edition, tr. Anthony Farley (New York: Peter F. Collier, 1878) | have-ocr | IA `lifeofourlordjes00veui` |
 | Stephanie, tr. Josephine Black (Dublin: M. H. Gill and Son, 1883) | have-ocr | IA `stephanietrbyjb00veuigoog` |
 | The Liberal Illusion, tr. George Barry O'Toole (post-1929); French editions | excluded | |
+
+## Francis Procter (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Book of Common Prayer, with a Rationale of its Offices (Cambridge: Macmillan, 1855), the first edition | have-ocr | IA `historyofbookofc00proc_0` |
+| A History of the Book of Common Prayer, eighth edition (London: Macmillan, 1869) | have-ocr | IA `ahistorybookcom05procgoog` |
+| A History of the Book of Common Prayer, fourteenth edition (London: Macmillan, 1878) | have-ocr | IA `historyofbookofc00proc` |
+| An Elementary History of the Book of Common Prayer (London: Macmillan, 1862) | have-ocr | IA `anelementaryhis00procgoog` |
+| An Elementary Introduction to the Book of Common Prayer, by Francis Procter and G. F. Maclear (London and Cambridge: Macmillan; year OCR'd 'i86S', catalogued 1868) | have-ocr | IA `anelementaryint00maclgoog` |
+| A New History of the Book of Common Prayer, on the basis of the former work by Francis Procter, revised and rewritten by Walter Howard Frere (London and New York: Macmillan, 1902) | have-ocr | IA `newhistoryofbook00proc_0` |
+| Another 1855 copy; New History 1910 printings (catalogued 1901 and 1907 in error); later editions of the History (1864-1892, not read) | alternate | not shelved |
+| Breviarium Sarum (a Latin text he edited with Wordsworth); Hardwick's books, which he only edited | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
