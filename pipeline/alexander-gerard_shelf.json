@@ -1,0 +1,33 @@
+{
+ "_about": "Alexander Gerard (1728-1795), Aberdeen philosopher of aesthetics: An Essay on Taste, with three dissertations on the same subject by Voltaire, d'Alembert and Montesquieu (London and Edinburgh, MDCCLIX), the first edition, raw IA OCR, clean 0.91. Wanted: An Essay on Genius (1774). US public domain. No uids minted.",
+ "_author": "Alexander Gerard",
+ "_name_words": [
+  "alexander",
+  "gerard"
+ ],
+ "_surname": [
+  "gerard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gerard-essay-on-taste-1759": [
+   "essayontaste00geraiala",
+   "An Essay on Taste, with dissertations by Voltaire, d'Alembert and Montesquieu (1759)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gerard-essay-on-taste-1759": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

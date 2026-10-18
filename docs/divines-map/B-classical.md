@@ -5887,6 +5887,7 @@ Shelf: `pipeline/alexander-gerard_shelf.json`. Essay on Taste, first edition (17
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Essay on Taste, with dissertations by Voltaire, d'Alembert and Montesquieu (1759) |  | `gerard-essay-on-taste-1759` | have-raw (IA `essayontaste00geraiala`) |
 
 Pending (wishlist): An Essay on Genius (1774)
 
