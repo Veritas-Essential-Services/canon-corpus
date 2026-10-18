@@ -5811,3 +5811,22 @@ Slugs `gore-*`. Bishop of Oxford, editor of Lux Mundi; written in English.
 | Leo the Great (SPCK reprint, 1897), Prayer and the Lord's Prayer, The Creed of the Christian, Dominant Ideas, The Religion of the Church | alternate | not shelved |
 | Lux Mundi (he edited it), Romanes's Thoughts on Religion, and other multi-author volumes | excluded | |
 | Works by H. C. Gore, a different man; a book wrongly credited to him | excluded | |
+
+## J. R. Illingworth (round 27, my pick, 2026-10-17)
+
+Slugs `illingworth-*`. Lux Mundi philosophical theologian; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Personality Human and Divine, the Bampton Lectures for 1894 (London: Macmillan, 1894) | have-ocr | IA `personalityhuman189400illi` |
+| Divine Immanence: an Essay on the Spiritual Significance of Matter (London: Macmillan, 1898) | have-ocr | IA `divineimmanence00illiuoft` |
+| Reason and Revelation: an Essay in Christian Apology (London: Macmillan, 1902) | have-ocr | IA `reasonrevelation00illiiala` |
+| Christian Character: some Lectures on the Elements of Christian Ethics (London: Macmillan, 1905) | have-ocr | IA `christiancharact00illiuoft` |
+| The Doctrine of the Trinity Apologetically Considered (London: Macmillan, 1907) | have-ocr | IA `doctrineoftrinit00illiuoft` |
+| Divine Transcendence and its Reflection in Religious Authority (London: Macmillan, 1911) | have-ocr | IA `divinetranscend00illiuoft` |
+| The Gospel Miracles: an Essay with Two Appendices (London: Macmillan, first edition April 1915) | have-ocr | IA `gospelmiracles0000jril` |
+| Sermons preached in a College Chapel (London: Macmillan, 1881) | have-ocr | IA `sermonspreachedi00illiuoft` |
+| University and Cathedral Sermons (London: Macmillan, 1893) | have-ocr | IA `universitycathed00illiuoft` |
+| Personality (1895 reprint with clean OCR, 1896), Divine Immanence (New York, 1898), Reason and Revelation (1903) | alternate | not shelved |
+| The Life and Work of John Richardson Illingworth (1917), edited by his wife | excluded | |
+| Sursum Corda (Frere and A. L. Illingworth) and other Illingworths | excluded | |
