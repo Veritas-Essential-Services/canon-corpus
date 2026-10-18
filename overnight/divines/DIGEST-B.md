@@ -266,3 +266,4 @@
 - 21:59 round bv: 13 shelves of political and social thought (Lippmann, Croly, Bourne, Wilson, Angell, Draper, A. D. White, Addams, Babbitt, Lowell, Ross, W. I. Thomas, Beard).
 - 22:04 round bw: 12 shelves (Jefferson, Hamilton/Federalist, Madison, John Adams, Ingersoll, Gilman, Goldman, Carpenter, Webbs, Spooner, Mumford, Ellis).
 - 22:14 round bx: gap sweep, 20 rows on 5 shelves (Spinoza, Spencer, Münsterberg, Bury, Morley).
+- 22:17 round by: 12 shelves (Jung, Benn, Mallock, J. M. Robertson, Fowler, Vernon Lee, Bernays, Steuart, Hyde, Cushman, Gunn, Stock). Note: most Freud translations on Gutenberg are unheld; the freud shelf belongs to the reading-lists thread.

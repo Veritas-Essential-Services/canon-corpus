@@ -15772,6 +15772,135 @@ Shelf: `pipeline/havelock-ellis_shelf.json`. Fifteen volumes, 1890-1923.
 | Little Essays of Love and Virtue (1922) |  | `ellis-little-essays-love-virtue` | have (PG 15687) |
 | The Dance of Life (1923) |  | `ellis-dance-of-life` | have (PG 65714) |
 
+## C. G. Jung (analytical psychology)
+
+Shelf: `pipeline/carl-jung_shelf.json`. Three books in English, 1915-1916.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Psychoanalysis (1915) |  | `jung-theory-of-psychoanalysis` | have (PG 66041) |
+| Psychology of the Unconscious (tr. Beatrice M. Hinkle, 1916) | Beatrice M. Hinkle | `jung-psychology-of-the-unconscious` | have (PG 65903) |
+| Collected Papers on Analytical Psychology (ed. Constance E. Long, 1916) | Constance E. Long | `jung-collected-papers-analytical-psychology` | have (PG 48225) |
+
+## Alfred William Benn (history of philosophy)
+
+Shelf: `pipeline/alfred-william-benn_shelf.json`. Three volumes, 1882-1912.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Philosophers, vol. 1 (1882) |  | `benn-greek-philosophers-1` | have (PG 57126) |
+| The Greek Philosophers, vol. 2 (1882) |  | `benn-greek-philosophers-2` | have (PG 58224) |
+| History of Modern Philosophy (1912) |  | `benn-history-of-modern-philosophy` | have (PG 34283) |
+
+## W. H. Mallock (against positivism and socialism)
+
+Shelf: `pipeline/w-h-mallock_shelf.json`. Six books, 1878-1920.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The New Paul and Virginia, or Positivism on an Island (1878) |  | `mallock-new-paul-and-virginia` | have (PG 37651) |
+| Is Life Worth Living? (1879) |  | `mallock-is-life-worth-living` | have (PG 17201) |
+| Labour and the Popular Welfare (1893) |  | `mallock-labour-and-popular-welfare` | have (PG 66518) |
+| Aristocracy and Evolution (1898) |  | `mallock-aristocracy-and-evolution` | have (PG 58968) |
+| A Critical Examination of Socialism (1907) |  | `mallock-critical-examination-of-socialism` | have (PG 17416) |
+| Memoirs of Life and Literature (1920) |  | `mallock-memoirs-of-life-and-literature` | have (PG 30823) |
+
+## J. M. Robertson (rationalism and freethought)
+
+Shelf: `pipeline/j-m-robertson_shelf.json`. Eight volumes, 1897-1917.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Montaigne and Shakspere (1897) |  | `robertson-montaigne-and-shakspere` | have (PG 25535) |
+| Rationalism (1912) |  | `robertson-rationalism` | have (PG 31941) |
+| The Evolution of States (1912) |  | `robertson-evolution-of-states` | have (PG 39860) |
+| A Short History of Christianity (second edition, 1913) |  | `robertson-short-history-of-christianity` | have (PG 52550) |
+| A Short History of Freethought, vol. 1 (third edition, 1915) |  | `robertson-short-history-freethought-1` | have (PG 51793) |
+| A Short History of Freethought, vol. 2 (third edition, 1915) |  | `robertson-short-history-freethought-2` | have (PG 52160) |
+| The Historical Jesus (1916) |  | `robertson-historical-jesus` | have (PG 51655) |
+| The Jesus Problem (1917) |  | `robertson-jesus-problem` | have (PG 53616) |
+
+## Thomas Fowler (Oxford ethics)
+
+Shelf: `pipeline/thomas-fowler_shelf.json`. Two books, 1880-1884.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Locke (English Men of Letters, 1880) |  | `fowler-locke` | have (PG 46130) |
+| Progressive Morality (1884) |  | `fowler-progressive-morality` | have (PG 12035) |
+
+Pending (wishlist): Elements of Deductive Logic and Elements of Inductive Logic (Clarendon Press)
+
+## Vernon Lee (aesthetics)
+
+Shelf: `pipeline/vernon-lee_shelf.json`. Nine volumes of essays, 1881-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Belcaro, essays on sundry aesthetical questions (1881) |  | `vlee-belcaro` | have (PG 32337) |
+| Euphorion, vol. I (1884) |  | `vlee-euphorion-1` | have (PG 31303) |
+| Euphorion, vol. II (1884) |  | `vlee-euphorion-2` | have (PG 31304) |
+| Renaissance Fancies and Studies (1895) |  | `vlee-renaissance-fancies` | have (PG 30693) |
+| Limbo, and Other Essays (1897; with Ariadne in Mantua) |  | `vlee-limbo` | have (PG 37179) |
+| Hortus Vitae (1904) |  | `vlee-hortus-vitae` | have (PG 26800) |
+| The Spirit of Rome (1906) |  | `vlee-spirit-of-rome` | have (PG 27873) |
+| Laurus Nobilis, chapters on art and life (1909) |  | `vlee-laurus-nobilis` | have (PG 27939) |
+| The Beautiful, an introduction to psychological aesthetics (1913) |  | `vlee-the-beautiful` | have (PG 26942) |
+
+## Edward L. Bernays (public relations)
+
+Shelf: `pipeline/edward-bernays_shelf.json`. Two books, 1923-1928.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Crystallizing Public Opinion (1923) |  | `bernays-crystallizing-public-opinion` | have (PG 61364) |
+| Propaganda (1928) |  | `bernays-propaganda` | have (PG 78634) |
+
+## Sir James Steuart (political oeconomy)
+
+Shelf: `pipeline/james-steuart_shelf.json`. Two volumes, 1767.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Principles of Political Oeconomy, vol. 1 (1767) |  | `steuart-principles-political-oeconomy-1` | have (PG 60411) |
+| An Inquiry into the Principles of Political Oeconomy, vol. 2 (1767) |  | `steuart-principles-political-oeconomy-2` | have (PG 66710) |
+
+## William De Witt Hyde (ethics)
+
+Shelf: `pipeline/william-de-witt-hyde_shelf.json`. Two books, 1892-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Practical Ethics (1892) |  | `wdhyde-practical-ethics` | have (PG 24372) |
+| The Five Great Philosophies of Life (1911) |  | `wdhyde-five-great-philosophies` | have (PG 39065) |
+
+## Herbert Ernest Cushman (history of philosophy)
+
+Shelf: `pipeline/herbert-ernest-cushman_shelf.json`. Two volumes, 1910-1911.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Beginner's History of Philosophy, vol. 1: Ancient and Mediaeval (1910) |  | `cushman-beginners-history-philosophy-1` | have (PG 61651) |
+| A Beginner's History of Philosophy, vol. 2: Modern (1911) |  | `cushman-beginners-history-philosophy-2` | have (PG 62663) |
+
+## J. Alexander Gunn (French philosophy)
+
+Shelf: `pipeline/j-a-gunn_shelf.json`. Two books, 1920-1922.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Bergson and His Philosophy (1920) |  | `gunn-bergson-and-his-philosophy` | have (PG 5717) |
+| Modern French Philosophy (1922) |  | `gunn-modern-french-philosophy` | have (PG 5246) |
+
+## St. George Stock (logic and Stoicism)
+
+Shelf: `pipeline/st-george-stock_shelf.json`. Two books, 1888-1908.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Deductive Logic (1888) |  | `stock-deductive-logic` | have (PG 6560) |
+| A Guide to Stoicism (1908) |  | `stock-guide-to-stoicism` | have (PG 7514) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

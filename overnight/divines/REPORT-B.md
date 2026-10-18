@@ -1292,3 +1292,7 @@
 - Added: Spinoza (Elwes's Ethics, 5 parts), Spencer (First Principles 1863 first edition and 5 shorter works), Münsterberg (5), Bury (2), Morley (Diderot vol. I, Studies in Literature)
 - Refused, following earlier rulings in the shelves: Hume's and Berkeley's single Gutenberg texts (already inside the collected Works), Holbach's System of Nature and Ecce Homo (modern facsimiles), Aristotle's Categories (same Oxford translation), Plato PG 13726 (Cary, already in Bohn) and PG 76464 (Jowett 1892 vol. 2, already held)
 - Boole's Gutenberg logic books are PDF or TeX only; left as a wish
+
+## 2026-10-17 22:17 CDT — Round by: twelve new shelves
+- Jung (3, translations of 1915-16), A. W. Benn (3), Mallock (6), J. M. Robertson (8), Thomas Fowler (2), Vernon Lee (9 essay volumes; fiction left out), Bernays (2), Sir James Steuart (2), W. D. Hyde (2), Cushman (2), J. A. Gunn (2), St. George Stock (2)
+- Freud is on the reading-lists thread's freud shelf (one book); the other Freud translations on Gutenberg are unheld and left to that shelf's owner
