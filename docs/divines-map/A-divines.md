@@ -7184,3 +7184,17 @@ Slugs `colet-*`. Lupton's editions with translation (1869-1876).
 | Lupton's 1867 Treatise on the Sacraments: Latin text only, no translation | excluded | |
 | Lupton's and Knight's Lives of Colet; Seebohm's Oxford Reformers | excluded | |
 | 1965-1966 Gregg reprints | excluded | |
+
+## St John Fisher (round 31, my pick, 2026-10-18)
+
+Slugs `fisher-*`. English Works, the Penitential Psalms and other treatises.
+
+| Work | Status | Where |
+|---|---|---|
+| The English Works of John Fisher, Bishop of Rochester, Part I, ed. John E. B. Mayor (London: N. Trübner for the Early English Text Society, MDCCCLXXVI) | have-ocr | IA `englishworksofjo0000john` |
+| Commentary on the Seven Penitential Psalms, vol. I, ed. J. S. Phillimore (London: Manresa Press, 1914) | have-ocr | IA `commentaryonseve01fishuoft` |
+| Commentary on the Seven Penitential Psalms, vol. II, ed. J. S. Phillimore (London: Manresa Press, 1915) | have-ocr | IA `commentaryonseve02fishuoft` |
+| A Spiritual Consolation and Other Treatises, ed. D. O'Connor (London and Leamington: Art & Book Company; year garbled, imprimatur 1903) | have-ocr | IA `spiritualconsola00fish` |
+| The Funeral Sermon of Margaret, Countess of Richmond and Derby, ed. J. Hymers (Cambridge: University Press, M.DCCC.XL) | have-ocr | IA `funeralsermonofm00fishuoft` |
+| Other copies of the English Works and the Commentary; the 1904 New York Sermons on the Seven Penitential Psalms; an 18th-century reprint of the Treatise | alternate | not shelved |
+| Other John Fishers (the Jesuit alias Percy, 18th-century divines); Edward Fisher; a 1935 Spiritual Consolation | excluded | |

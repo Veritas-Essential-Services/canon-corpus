@@ -1495,3 +1495,6 @@
 
 ## 2026-10-17 20:42 CDT — john-colet done
 - `pipeline/john-colet_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:42 CDT — john-fisher done
+- `pipeline/john-fisher_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
