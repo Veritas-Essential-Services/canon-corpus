@@ -1455,3 +1455,6 @@
 
 ## 2026-10-17 20:30 CDT — henty-works: done
 - henty-works: new shelf, 97 Gutenberg books, 163,907 units, 457 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:30 CDT — wharton-works: done
+- wharton-works: new shelf, 47 Gutenberg books, 42,895 units, 706 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -9883,6 +9883,63 @@ Shelf: `pipeline/henty-works_shelf.json` (2026-10-17; added at the coordinator's
 | held-elsewhere | excluded | PG 2805, 3674, 3785, 4792, 8670, 12308, 19398, 29756, 45617: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-77688 | excluded | PG 77688 Battles of the Nineteenth Century: a many-author work (Forbes, Griffiths, Henty and others). |
 
+## Edith Wharton
+
+Shelf: `pipeline/wharton-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf; every text checked as a pre-1931 US publication. Every English text under the name at Gutenberg that no other shelf holds (47 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Summer | have | PG 166, `ewharton-summer` (932 units) |
+| The Touchstone | have | PG 267, `ewharton-touchstone` (624 units) |
+| The Reef | have | PG 283, `ewharton-reef` (2023 units) |
+| The House of Mirth | have | PG 284, `ewharton-house-of-mirth` (1902 units) |
+| The Early Short Fiction of Edith Wharton — Part 1 | have | PG 295, `ewharton-early-short-fiction-of-edith-wharton-part-1` (973 units) |
+| The Early Short Fiction of Edith Wharton — Part 2 | have | PG 306, `ewharton-early-short-fiction-of-edith-wharton-part-2` (1121 units) |
+| Bunner Sisters | have | PG 311, `ewharton-bunner-sisters` (682 units) |
+| The Glimpses of the Moon | have | PG 1263, `ewharton-glimpses-of-the-moon` (1601 units) |
+| The Valley of Decision | have | PG 4327, `ewharton-valley-of-decision` (1777 units) |
+| Tales of Men and Ghosts | have | PG 4514, `ewharton-tales-of-men-and-ghosts` (1924 units) |
+| Ethan Frome | have | PG 4517, `ewharton-ethan-frome` (740 units) |
+| Madame de Treymes | have | PG 4518, `ewharton-madame-de-treymes` (457 units) |
+| The Descent of Man and Other Stories | have | PG 4519, `ewharton-descent-of-man-and-other-stories` (1619 units) |
+| The Hermit and the Wild Woman, and Other Stories | have | PG 4533, `ewharton-hermit-and-the-wild-woman-and-other-stories` (1267 units) |
+| Artemis to Actaeon, and Other Verses | have | PG 4549, `ewharton-artemis-to-actaeon-and-other-verses` (203 units) |
+| Fighting France, from Dunkerque to Belfort | have | PG 4550, `ewharton-fighting-france-from-dunkerque-to-belfort` (262 units) |
+| Crucial Instances | have | PG 7516, `ewharton-crucial-instances` (1118 units) |
+| Sanctuary | have | PG 7517, `ewharton-sanctuary` (555 units) |
+| The Greater Inclination | have | PG 9190, `ewharton-greater-inclination` (1229 units) |
+| The Custom of the Country | have | PG 11052, `ewharton-custom-of-the-country` (2534 units) |
+| In Morocco | have | PG 11104, `ewharton-in-morocco` (716 units) |
+| The Fruit of the Tree | have | PG 19191, `ewharton-fruit-of-the-tree` (3259 units) |
+| Xingu | have | PG 24131, `ewharton-xingu` (258 units) |
+| Autres Temps... 1916 | have | PG 24132, `ewharton-autres-temps-1916` (241 units) |
+| The Long Run 1916 | have | PG 24133, `ewharton-long-run-1916` (213 units) |
+| The Choice 1916 | have | PG 24348, `ewharton-choice-1916` (189 units) |
+| Coming Home 1916 | have | PG 24349, `ewharton-coming-home-1916` (224 units) |
+| Kerfol 1916 | have | PG 24350, `ewharton-kerfol-1916` (144 units) |
+| The Triumph Of Night 1916 | have | PG 24351, `ewharton-triumph-of-night-1916` (212 units) |
+| The Decoration of Houses (with Ogden Codman, Jr.) | have | PG 40367, `ewharton-decoration-of-houses` (1054 units) |
+| The Marne: A Tale of the War | have | PG 41855, `ewharton-marne` (352 units) |
+| Italian Villas and Their Gardens | have | PG 53495, `ewharton-italian-villas-and-their-gardens` (760 units) |
+| Italian Backgrounds | have | PG 54932, `ewharton-italian-backgrounds` (328 units) |
+| Verses | have | PG 55807, `ewharton-verses` (188 units) |
+| A Motor-Flight Through France | have | PG 57347, `ewharton-a-motor-flight-through-france` (419 units) |
+| French Ways and Their Meaning | have | PG 57786, `ewharton-french-ways-and-their-meaning` (319 units) |
+| A Son at the Front | have | PG 59437, `ewharton-a-son-at-the-front` (2074 units) |
+| The Old Maid (The 'Fifties) | have | PG 61290, `ewharton-old-maid-the-fifties` (607 units) |
+| False Dawn (The 'Forties) | have | PG 61297, `ewharton-false-dawn-the-forties` (377 units) |
+| The Spark (The 'Sixties) | have | PG 61298, `ewharton-spark-the-sixties` (292 units) |
+| New Year's Day (The 'Seventies) | have | PG 61321, `ewharton-new-years-day-the-seventies` (415 units) |
+| Twilight sleep | have | PG 70844, `ewharton-twilight-sleep` (1676 units) |
+| The writing of fiction | have | PG 72446, `ewharton-writing-of-fiction` (271 units) |
+| The mother's recompense | have | PG 72573, `ewharton-mothers-recompense` (1539 units) |
+| Here and beyond | have | PG 74742, `ewharton-here-and-beyond` (1316 units) |
+| Twelve poems | have | PG 74892, `ewharton-twelve-poems` (76 units) |
+| The children | have | PG 76417, `ewharton-children` (1833 units) |
+| repeat-editions | excluded | PG 39042: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 541: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-74866 | excluded | PG 74866 Stories of New York: a many-author collection. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
