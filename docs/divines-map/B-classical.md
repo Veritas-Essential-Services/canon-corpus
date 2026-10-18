@@ -7189,6 +7189,9 @@ Shelf: `pipeline/norman-angell_shelf.json`. Three books, 1910-1921.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Great Illusion (1910) |  | `angell-great-illusion` | have (PG 38535) |
+| Peace Theories and the Balkan War (1912) |  | `angell-peace-theories-balkan-war` | have (PG 11895) |
+| The Fruits of Victory (1921) |  | `angell-fruits-of-victory` | have (PG 43598) |
 
 ## John William Draper (history of ideas)
 
