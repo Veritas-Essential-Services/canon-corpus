@@ -7886,3 +7886,18 @@ Slugs `warthur-*`. Built from title pages read for round 33.
 | Religion without God and God without Religion (London: Wesleyan Methodist Book-Room, 1885) | have-ocr | IA `religionwithout00arthgoog` |
 | Later editions of The Tongue of Fire and The Successful Merchant; Addresses Delivered in New-York (1856, ed. Strickland); PG 54587, the 1903 abridgment of The Pope, the Kings and the People | alternate | not shelved |
 | 1940 and modern reprints of The Tongue of Fire | excluded | |
+
+## Daniel Steele (round 33, my pick, 2026-10-18)
+
+Slugs `dsteele-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| Love Enthroned: Essays on Evangelical Perfection (New York: Nelson & Phillips, 1875) | have-ocr | IA `loveenthronedess01stee` |
+| Mile-Stone Papers (New York: Nelson & Phillips, 1878) | have-ocr | IA `milestonepapersd00stee` |
+| Half-Hours with St. Paul and Other Bible Readings (Boston: The Christian Witness Company, 1895) | have-ocr | IA `halfhourswithstp00stee` |
+| A Defense of Christian Perfection (New York: Hunt & Eaton, 1896) | have-ocr | IA `defenseofchristi00stee` |
+| The Gospel of the Comforter (Boston: The Christian Witness Company, 1897) | have-ocr | IA `gospelofcomforte0000stee` |
+| Half-Hours with St. John's Epistles (Boston: The Christian Witness Company, 1901) | have-ocr | IA `halfhourswithstj00stee` |
+| Later thousands of Love Enthroned; CCEL steele/love (no print source stated) | alternate | not shelved |
+| 1960 and 1966 reprints; Wilbur Daniel Steele | excluded | |
