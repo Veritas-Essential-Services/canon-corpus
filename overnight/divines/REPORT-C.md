@@ -241,3 +241,5 @@
 - 2026-10-17T19:39-05:00: round 82: east-asian-classics +2 (11). --verify --record 0 mismatched.
 
 - 2026-10-17T19:43-05:00: round 83: indian-literature (8). --verify --record 0 mismatched.
+
+- 2026-10-17T19:47-05:00: round 84: gibb (6). --verify --record 0 mismatched. gibb-ottoman-poems identity override (OCR).

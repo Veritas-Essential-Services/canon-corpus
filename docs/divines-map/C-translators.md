@@ -6630,6 +6630,22 @@ Round 83 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | theatre-1955: theatreofhindus00wils is a 1955 reprint of Wilson's Theatre of the Hindus; the 1835 second edition is used. | — | — | excluded | — |
 | — | — | tulsi-das-later-editions: Growse's Tulsi Das in later editions (1891, 1914, 1922) and a 1966 reprint were passed over for the 1883 edition. | — | — | excluded | — |
 
+## E. J. W. Gibb (Ottoman Poems; A History of Ottoman Poetry, vols I-V)
+
+Shelf: `pipeline/gibb_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gibb` · titles `python3 pipeline/split_shelf_titles.py gibb`.
+Round 84 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gibb-ottoman-poems` | Ottoman Turkish poets | Ottoman Poems, translated into English verse in the original forms | E. J. W. Gibb | 1882 | have-raw | IA `ottomanpoemstran00gibb` |
+| `gibb-history-1` | Ottoman Turkish poets | A History of Ottoman Poetry, vol. I | E. J. W. Gibb | 1900 | have-raw | IA `historyofottoman01gibbuoft` |
+| `gibb-history-2` | Ottoman Turkish poets | A History of Ottoman Poetry, vol. II | E. J. W. Gibb (edited by Edward G. Browne) | 1902 | have-raw | IA `historyofottoman02gibb` |
+| `gibb-history-3` | Ottoman Turkish poets | A History of Ottoman Poetry, vol. III | E. J. W. Gibb (edited by Edward G. Browne) | 1904 | have-raw | IA `historyofottoman03gibbuoft` |
+| `gibb-history-4` | Ottoman Turkish poets | A History of Ottoman Poetry, vol. IV | E. J. W. Gibb (edited by Edward G. Browne) | 1905 | have-raw | IA `historyofottoman04gibbuoft` |
+| `gibb-history-5` | Ottoman Turkish poets | A History of Ottoman Poetry, vol. V | E. J. W. Gibb (edited by Edward G. Browne) | 1907 | have-raw | IA `historyofottoman05gibbuoft` |
+| — | — | gibb-history-6: Vol. VI of A History of Ottoman Poetry (1909, historyofottoman06gibbuoft) contains the Turkish originals, not translations. | — | — | excluded | — |
+| — | — | gibb-ottoman-literature-1901: Ottoman Literature: the Poets and Poetry of Turkey (M. Walter Dunne, 1901) was not taken: not checked against the Colonial Press Turkish Literature of the same year (Gutenberg 56464, on hammer-purgstall). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
