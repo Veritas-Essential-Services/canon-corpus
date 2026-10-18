@@ -8094,3 +8094,13 @@ Slugs `rmjones-*`. Built from title pages read for round 34.
 | The World Within (New York: Macmillan, 1918) | have-ocr | IA `worldwithin00jonerich` |
 | Spiritual Energies in Daily Life (PG 61004, 1922); St. Paul the Hero (PG 52694, 1917); Eli and Sibyl Jones (PG 42164, 1889); Practical Christianity (1899); The Story of George Fox (1919, title page not read) | alternate | not shelved |
 | Books where he wrote only the introduction (PG 16088, PG 60308); anthologies; George Fox: An Autobiography, which he edited and which sits on the george-fox shelf | excluded | |
+
+## William Bramwell (round 34, my pick, 2026-10-18)
+
+Slugs `bramwell-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| A Short Account of the Life and Death of Ann Cutler, commonly known by the name of Praying Nanny, with an excellent letter from the Rev. Mr. J. Fletcher (Leeds: A. Newsom, 1798) | have-ocr | IA `bim_eighteenth-century_a-short-account-of-the-l_bramwell-william_1798` |
+| The Life and Death of Ann Cutler, to which is added Choice Wesleyan Anecdotes (Wakefield: William Nicholson and Sons; London: S. D. Ewins; title page undated, a nineteenth-century reprint; the catalogue's 1800 is wrong) | have-ocr | IA `29463000.1800.emory.edu` |
+| Sigston 1830 and Summers's revision (Nashville, 1856); a 1796 Ann Cutler whose title page is not in the OCR | alternate | not shelved |
