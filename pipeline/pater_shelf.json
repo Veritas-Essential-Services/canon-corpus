@@ -1,5 +1,5 @@
 {
- "_about": "Walter Pater (1839-1894), Brasenose College, Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Greek Studies: a Series of Essays, Plato and Platonism, clean Gutenberg. His Renaissance and fiction are outside the classical brief. No uids minted.",
+ "_about": "Walter Pater (1839-1894), Brasenose College, Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Greek Studies: a Series of Essays, Plato and Platonism, clean Gutenberg. Widened in round 2026-10-18bz under the Western-canon brief to his criticism: The Renaissance (the 1910 Library Edition), Appreciations, Miscellaneous Studies and Essays from 'The Guardian', clean Gutenberg. The other Gutenberg Renaissance (2398, sixth edition) is not taken as a second witness. His fiction (Marius the Epicurean, Imaginary Portraits, Gaston de Latour) stays outside lane B. No uids minted.",
  "_name_words": [
   "pater"
  ],
@@ -16,13 +16,29 @@
   "pater-plato-and-platonism": [
    4095,
    "Plato and Platonism"
+  ],
+  "pater-renaissance-1910": [
+   4060,
+   "The Renaissance: Studies in Art and Poetry (Library Edition, 1910)"
+  ],
+  "pater-appreciations": [
+   4037,
+   "Appreciations, with an Essay on Style"
+  ],
+  "pater-miscellaneous-studies": [
+   4059,
+   "Miscellaneous Studies"
+  ],
+  "pater-essays-from-the-guardian": [
+   4036,
+   "Essays from 'The Guardian'"
   ]
  },
  "internet_archive": {},
  "_checks": {
   "pater-greek-studies": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "walter pater",
    "identity": "ok",
@@ -31,7 +47,43 @@
   },
   "pater-plato-and-platonism": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter pater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pater-renaissance-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter pater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pater-appreciations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter pater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pater-miscellaneous-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter pater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pater-essays-from-the-guardian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "walter pater",
    "identity": "ok",

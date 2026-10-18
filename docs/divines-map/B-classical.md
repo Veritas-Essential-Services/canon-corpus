@@ -2774,6 +2774,10 @@ Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College,
 |---|---|---|---|
 | Greek Studies: a Series of Essays |  | `pater-greek-studies` | have (PG 4035) |
 | Plato and Platonism |  | `pater-plato-and-platonism` | have (PG 4095) |
+| The Renaissance: Studies in Art and Poetry (Library Edition, 1910) |  | `pater-renaissance-1910` | have (PG 4060) |
+| Appreciations, with an Essay on Style |  | `pater-appreciations` | have (PG 4037) |
+| Miscellaneous Studies |  | `pater-miscellaneous-studies` | have (PG 4059) |
+| Essays from 'The Guardian' |  | `pater-essays-from-the-guardian` | have (PG 4036) |
 
 ## F. B. Tarbell (scholarship)
 
