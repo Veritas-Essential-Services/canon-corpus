@@ -3573,6 +3573,14 @@
       "started": "2026-10-17T22:36:06-05:00",
       "finished": "2026-10-17T22:36:07-05:00",
       "notes": "evelyn-raymond: new shelf, 24 Gutenberg books, 31,257 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "grace-livingston-hill",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Grace Livingston Hill; no minting",
+      "status": "done",
+      "started": "2026-10-17T22:56:19-05:00",
+      "finished": "2026-10-17T22:56:19-05:00",
+      "notes": "grace-livingston-hill: new shelf, 25 Gutenberg books, 32,212 units, 243 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

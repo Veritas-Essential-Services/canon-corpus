@@ -12070,6 +12070,38 @@ Shelf: `pipeline/evelyn-raymond_shelf.json` (2026-10-17; added at the coordinato
 | The Little Lady of the Horse | have | PG 67567, `eraymond-little-lady-of-the-horse` (1379 units) |
 | Carlota of the rancho | have | PG 73565, `eraymond-carlota-of-the-rancho` (1744 units) |
 
+## Grace Livingston Hill
+
+Shelf: `pipeline/grace-livingston-hill_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The City of Fire | have | PG 7008, `glhill-city-of-fire` (1763 units) |
+| The War Romance of the Salvation Army (with Evangeline Booth) | have | PG 7811, `glhill-war-romance-of-the-salvation-army` (1911 units) |
+| Lo, Michael! | have | PG 9816, `glhill-lo-michael` (2100 units) |
+| The Mystery of Mary | have | PG 14632, `glhill-mystery-of-mary` (721 units) |
+| The Girl from Montana | have | PG 15274, `glhill-girl-from-montana` (1164 units) |
+| The Witness | have | PG 16502, `glhill-witness` (1779 units) |
+| A Voice in the Wilderness | have | PG 21219, `glhill-a-voice-in-the-wilderness` (1529 units) |
+| The Man of the Desert | have | PG 21633, `glhill-man-of-the-desert` (919 units) |
+| Marcia Schuyler | have | PG 23132, `glhill-marcia-schuyler` (1763 units) |
+| The Search | have | PG 25866, `glhill-search` (949 units) |
+| Cloudy Jewel | have | PG 30006, `glhill-cloudy-jewel` (1640 units) |
+| Exit Betty | have | PG 30759, `glhill-exit-betty` (935 units) |
+| The Enchanted Barn | have | PG 34426, `glhill-enchanted-barn` (1493 units) |
+| Dawn of the Morning | have | PG 37698, `glhill-dawn-of-the-morning` (1837 units) |
+| Aunt Crete's Emancipation | have | PG 47525, `glhill-aunt-cretes-emancipation` (502 units) |
+| A Chautauqua Idyl | have | PG 51103, `glhill-a-chautauqua-idyl` (413 units) |
+| The Big Blue Soldier | have | PG 60580, `glhill-big-blue-soldier` (456 units) |
+| Not Under the Law | have | PG 67977, `glhill-not-under-the-law` (1570 units) |
+| The angel of his presence; and Gabriel the Acadian (with Edith M. Nicholl) | have | PG 69060, `glhill-angel-of-his-presence` (987 units) |
+| The best man | have | PG 69514, `glhill-best-man` (1060 units) |
+| A new name | have | PG 70487, `glhill-a-new-name` (1258 units) |
+| Re-creations | have | PG 71094, `glhill-re-creations` (1678 units) |
+| The finding of Jasper Holt | have | PG 78752, `glhill-finding-of-jasper-holt` (1006 units) |
+| "A Daily Rate." | have | PG 78992, `glhill-a-daily-rate` (810 units) |
+| Tomorrow about this time | have | PG 79299, `glhill-tomorrow-about-this-time` (1969 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
