@@ -37647,6 +37647,29 @@ Shelf: `pipeline/ellen-glasgow_shelf.json` (2026-10-17; added at the coordinator
 | The Freeman, and Other Poems | have | PG 65574, `eglasgow-freeman-and-other-poems` (132 units) |
 | Barren Ground | have | PG 66191, `eglasgow-barren-ground` (2574 units) |
 
+## Theodore Dreiser
+
+Shelf: `pipeline/theodore-dreiser_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sister Carrie: A Novel | have | PG 233, `tdreiser-sister-carrie` (4839 units) |
+| The Titan | have | PG 3629, `tdreiser-titan` (2743 units) |
+| Sister Carrie | have | PG 5267, `tdreiser-sister-carrie-5267` (4939 units) |
+| Twelve Men | have | PG 14717, `tdreiser-twelve-men` (1652 units) |
+| Jennie Gerhardt: A Novel | have | PG 28988, `tdreiser-jennie-gerhardt` (2673 units) |
+| The "Genius" | have | PG 31824, `tdreiser-genius` (4435 units) |
+| The Color of a Great City | have | PG 61043, `tdreiser-color-of-a-great-city` (1204 units) |
+| A Book About Myself | have | PG 62995, `tdreiser-a-book-about-myself` (1841 units) |
+| A Traveler at Forty | have | PG 65765, `tdreiser-a-traveler-at-forty` (1734 units) |
+| Hey Rub-a-dub-dub: A Book of the Mystery and Wonder and Terror of Life | have | PG 67059, `tdreiser-hey-rub-a-dub-dub` (1093 units) |
+| Free, and other stories | have | PG 68542, `tdreiser-free-and-other-stories` (1589 units) |
+| A Hoosier holiday | have | PG 70269, `tdreiser-a-hoosier-holiday` (2337 units) |
+| Chains | have | PG 72326, `tdreiser-chains` (1711 units) |
+| An American tragedy, v. 1 | have | PG 75181, `tdreiser-an-american-tragedy-v-1` (2151 units) |
+| An American tragedy, v. 2 | have | PG 75182, `tdreiser-an-american-tragedy-v-2` (2723 units) |
+| The Financier: A Novel | have | PG 1840, `tdreiser-financier` (2446 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
