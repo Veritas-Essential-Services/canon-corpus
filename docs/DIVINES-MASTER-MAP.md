@@ -9433,6 +9433,17 @@ Slugs `rwilliams-*`. Built from title pages read for round 39.
 | The Bloody Tenent yet More Bloody (London: for Giles Calvert, 1652) | have-ocr | IA `bloodytenentyetm00will` |
 | Other 1643 Key copies; the 1827 Rhode Island Historical Society Key (PG 63701); EEBO Bloudy Tenent (1644), Hireling Ministry (1652), Queries (1644) | alternate | not shelved |
 | Works about him; other Roger Williamses | excluded | |
+
+## David Brainerd (round 39, my pick, 2026-10-18)
+
+Slugs `brainerd-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Mr. Brainerd's Journal among the Indians: Mirabilia Dei inter Indicos (Philadelphia: William Bradford; catalogued 1746) | have-ocr | IA `mirabiliadeiinte00brai` |
+| The Gospel the Only True Reformer: Brainerd's Remarks on the Work of Grace among the Indians at Crosweeksung, introduction by Talbot W. Chambers (New York: Board of Publication of the Reformed Protestant Dutch Church, 1856) | have-ocr | IA `gospelonlytruere00brai` |
+| mirabiliadeiinte00b (same 1746 printing); Smellie's 1902 abridged Diary | alternate | not shelved |
+| Edwards's Account of the Life of Brainerd (Boston, 1749), Dwight's 1822 Memoirs, the 1858 Nelson Life and the American Tract Society Life (PG 65066, already on the edwards shelf on other branches): their title pages name Edwards as author | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

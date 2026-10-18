@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:44 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:45 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -921,6 +921,7 @@ Twenty-two authors were queued in QUEUE-A.json; this round was cut short by Adam
 | Johannes Oecolampadius | johannes-oecolampadius_shelf.json | none | 1 (A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548)) | none |  |
 | Friedrich Adolph Lampe | friedrich-adolph-lampe_shelf.json | none | 1 (Theological Dissertations concerning the Endless Duration of Punishment, tr. Joseph Robertson (Edinburgh: J. Fairbairn and Ar. Constable; London: J. Mathews and T. Chapman; catalogued 1796)) | none | Latin and German editions |
 | Roger Williams | roger-williams_shelf.json | 2 (The Bloudy Tenent of Persecution, ed. Edward Bean Underhill for the Hanserd Knollys Society (London, 1848); Experiments of Spiritual Life & Health (1652; reprinted Providence: Sidney S. Rider, 1863)) | 8 (Publications of the Narragansett Club, First Series, vol. I (Providence, MDCCCLXVI); Publications of the Narragansett Club, vol. II (Providence, MDCCCLXVII); Publications of the Narragansett Club, vol. III, The Bloudy Tenent of Persecution, ed. Samuel L. Caldwell (Providence, MDCCCLXVII); Publications of the Narragansett Club, vol. IV, The Bloody Tenent yet More Bloody, ed. Samuel L. Caldwell (Providence, MDCCCLXX); Publications of the Narragansett Club, vol. V, George Fox Digg'd out of his Burrowes, ed. J. Lewis Diman (Providence, MDCCCLXXII); Publications of the Narragansett Club, vol. VI, Letters of Roger Williams, ed. John Russell Bartlett (Providence, MDCCCLXXIV); A Key into the Language of America (London: Gregory Dexter, 1643); The Bloody Tenent yet More Bloody (London: for Giles Calvert, 1652)) | 1 (The Bloudy Tenent (1644, bloudytenentofpe00will_0): the title page names no author) | Works about him; other Roger Williamses |
+| David Brainerd | david-brainerd_shelf.json | none | 2 (Mr. Brainerd's Journal among the Indians: Mirabilia Dei inter Indicos (Philadelphia: William Bradford; catalogued 1746); The Gospel the Only True Reformer: Brainerd's Remarks on the Work of Grace among the Indians at Crosweeksung, introduction by Talbot W. Chambers (New York: Board of Publication of the Reformed Protestant Dutch Church, 1856)) | none | Edwards's Account of the Life of Brainerd (Boston, 1749), Dwight's 1822 Memoirs, the 1858 Nelson Life and the American Tract Society Life (PG 65066, already on the edwards shelf on other branches): their title pages name Edwards as author |
 
 ## Paused 2026-10-10 15:12 CDT
 

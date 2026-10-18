@@ -1987,3 +1987,6 @@
 
 ## 2026-10-17 23:44 CDT — roger-williams done
 - `pipeline/roger-williams_shelf.json`: 0 CCEL, 2 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:45 CDT — david-brainerd done
+- `pipeline/david-brainerd_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
