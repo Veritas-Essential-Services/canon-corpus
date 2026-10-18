@@ -1,0 +1,49 @@
+{
+ "_about": "James Martineau (1805-1900), philosopher of religion: A Study of Religion, its sources and contents, American edition revised by the author (Oxford: Clarendon Press; New York: Macmillan, 1888, 2 vols.), raw IA OCR. US public domain. No uids minted.",
+ "_author": "James Martineau",
+ "_name_words": [
+  "james",
+  "martineau"
+ ],
+ "_surname": [
+  "martineau",
+  "james martineau"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martineau-study-of-religion-1888-v1": [
+   "studyofreligioni01martuoft",
+   "A Study of Religion, vol. I (Oxford: Clarendon Press; New York: Macmillan, 1888)"
+  ],
+  "martineau-study-of-religion-1888-v2": [
+   "studyreligionsourc02mart",
+   "A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "martineau-study-of-religion-1888-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martineau-study-of-religion-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "martineau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
