@@ -1972,3 +1972,6 @@
 
 ## 2026-10-17 23:14 CDT — peter-mogila done
 - `pipeline/peter-mogila_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:14 CDT — platon-levshin done
+- `pipeline/platon-levshin_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

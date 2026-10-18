@@ -908,6 +908,7 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | Joshua the Stylite | joshua-the-stylite_shelf.json | none | 1 (The Chronicle of Joshua the Stylite, composed in Syriac A.D. 507, with a translation into English and notes by W. Wright (Cambridge: University Press, 1882)) | none | The 1968 Amsterdam reprint |
 | Macarius the Egyptian | macarius-of-egypt_shelf.json | none | 2 (Fifty Spiritual Homilies of St. Macarius the Egyptian, by A. J. Mason, Translations of Christian Literature (London: SPCK; New York: Macmillan, 1921); Primitive Morality: or, The Spiritual Homilies of St. Macarius the Egyptian, done out of Greek into English by a Presbyter of the Church of England (London: W. Taylor; W. and J. Innys; J. Osborn, MDCCXXI)) | none | Marriott's Macarii Anecdota (1918, Greek text); Macarius Magnes and Macarius of Antioch (different men) |
 | Peter Mogila | peter-mogila_shelf.json | none | 1 (The Orthodox Confession of the Catholic and Apostolic Eastern Church, from the version of Peter Mogila, edited by J. J. Overbeck (London: Thomas Baker, 1898)) | none | The 1762 London printing: its title page names neither Mogila nor a translator, held for Adam's ruling with the anonymous title pages |
+| Platon of Moscow | platon-levshin_shelf.json | none | 1 (The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, tr. Robert Pinkerton (Edinburgh: Oliphant, Waugh & Innes, 1814)) | none | The Orthodox Doctrine (only the 1969 AMS reprint found) |
 
 ## Paused 2026-10-10 15:12 CDT
 

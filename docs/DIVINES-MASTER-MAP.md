@@ -9387,6 +9387,16 @@ Slugs `mogila-*`. Built from title pages read for round 38.
 |---|---|---|
 | The Orthodox Confession of the Catholic and Apostolic Eastern Church, from the version of Peter Mogila, edited by J. J. Overbeck (London: Thomas Baker, 1898) | have-ocr | IA `cu31924029363094` |
 | The 1762 London printing: its title page names neither Mogila nor a translator, held for Adam's ruling with the anonymous title pages | excluded | |
+
+## Platon of Moscow (round 38, my pick, 2026-10-18)
+
+Slugs `platon-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, tr. Robert Pinkerton (Edinburgh: Oliphant, Waugh & Innes, 1814) | have-ocr | IA `presentstateofgr00plat` |
+| presentstateofgr00plat_0 and the Google copy (1814); New York: Collins, 1815 (no text layer); the 1770 sermon on the tomb of Peter the Great (title page OCR illegible) | alternate | not shelved |
+| The Orthodox Doctrine (only the 1969 AMS reprint found) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
