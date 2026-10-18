@@ -1,0 +1,515 @@
+{
+ "_about": "Joseph Conrad's novels, tales and essays; many describe Africans and Asians in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Joseph Conrad",
+ "_name_words": [
+  "conrad"
+ ],
+ "_surname": [
+  "joseph conrad"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jconrad-secret-sharer": [
+   220,
+   "The Secret Sharer"
+  ],
+  "jconrad-shadow-line": [
+   451,
+   "The Shadow Line: A Confession"
+  ],
+  "jconrad-falk": [
+   493,
+   "Falk: A Reminiscence"
+  ],
+  "jconrad-to-morrow": [
+   494,
+   "To-morrow"
+  ],
+  "jconrad-amy-foster": [
+   495,
+   "Amy Foster"
+  ],
+  "jconrad-youth-a-narrative": [
+   525,
+   "Youth, a Narrative"
+  ],
+  "jconrad-end-of-the-tether": [
+   527,
+   "The End of the Tether"
+  ],
+  "jconrad-an-outcast-of-the-islands": [
+   638,
+   "An Outcast of the Islands"
+  ],
+  "jconrad-a-personal-record": [
+   687,
+   "A Personal Record"
+  ],
+  "jconrad-secret-agent": [
+   974,
+   "The Secret Agent: A Simple Tale"
+  ],
+  "jconrad-within-the-tides": [
+   1053,
+   "Within the Tides: Tales"
+  ],
+  "jconrad-twixt-land-sea": [
+   1055,
+   "'Twixt Land & Sea: Tales"
+  ],
+  "jconrad-mirror-of-the-sea": [
+   1058,
+   "The Mirror of the Sea"
+  ],
+  "jconrad-arrow-of-gold": [
+   1083,
+   "The Arrow of Gold: A Story Between Two Notes"
+  ],
+  "jconrad-typhoon": [
+   1142,
+   "Typhoon"
+  ],
+  "jconrad-notes-on-life-letters": [
+   1143,
+   "Notes on Life & Letters"
+  ],
+  "jconrad-tales-of-unrest": [
+   1202,
+   "Tales of Unrest"
+  ],
+  "jconrad-some-reminiscences": [
+   1316,
+   "Some Reminiscences",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "jconrad-chance": [
+   1476,
+   "Chance: A Tale in Two Parts"
+  ],
+  "jconrad-rescue": [
+   1712,
+   "The Rescue: A Romance of the Shallows",
+   {
+    "contents_only": true
+   }
+  ],
+  "jconrad-nostromo": [
+   2021,
+   "Nostromo: A Tale of the Seaboard",
+   {
+    "contents_only": true
+   }
+  ],
+  "jconrad-a-set-of-six": [
+   2305,
+   "A Set of Six",
+   {
+    "contents_only": true
+   }
+  ],
+  "jconrad-under-western-eyes": [
+   2480,
+   "Under Western Eyes"
+  ],
+  "jconrad-lord-jim": [
+   5658,
+   "Lord Jim"
+  ],
+  "jconrad-victory": [
+   6378,
+   "Victory: An Island Tale"
+  ],
+  "jconrad-gaspar-ruiz": [
+   8736,
+   "Gaspar Ruiz"
+  ],
+  "jconrad-inheritors": [
+   14888,
+   "The Inheritors (with Ford Madox Ford)"
+  ],
+  "jconrad-point-of-honor": [
+   17620,
+   "The Point Of Honor: A Military Tale"
+  ],
+  "jconrad-one-day-more": [
+   17621,
+   "One Day More: A Play In One Act"
+  ],
+  "jconrad-romance": [
+   17642,
+   "Romance (with Ford Madox Ford)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jconrad-nigger-of-the-narcissus": [
+   17731,
+   "The nigger of the \"Narcissus\""
+  ],
+  "jconrad-tales-of-hearsay": [
+   17732,
+   "Tales Of Hearsay"
+  ],
+  "jconrad-notes-on-my-books": [
+   20150,
+   "Notes on My Books"
+  ],
+  "jconrad-rover": [
+   59142,
+   "The Rover"
+  ],
+  "jconrad-suspense": [
+   66156,
+   "Suspense: A Napoleonic Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "jconrad-nature-of-a-crime": [
+   75172,
+   "The nature of a crime (with Ford Madox Ford)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-29156": "PG 29156: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 23506: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 219: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-526": "PG 526 Heart of Darkness: a second edition; the Adler shelf holds the tale (PG 219)."
+ },
+ "_checks": {
+  "jconrad-secret-sharer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-shadow-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-falk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-to-morrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-amy-foster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-youth-a-narrative": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-end-of-the-tether": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-an-outcast-of-the-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-a-personal-record": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-secret-agent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-within-the-tides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-twixt-land-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-mirror-of-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-arrow-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-typhoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-notes-on-life-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-tales-of-unrest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-some-reminiscences": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-rescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-nostromo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-a-set-of-six": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-under-western-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-lord-jim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-gaspar-ruiz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-inheritors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-point-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-one-day-more": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-nigger-of-the-narcissus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-tales-of-hearsay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-notes-on-my-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-rover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-suspense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconrad-nature-of-a-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joseph conrad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

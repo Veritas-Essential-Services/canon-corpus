@@ -29342,6 +29342,53 @@ Shelf: `pipeline/gissing_shelf.json` (2026-10-17; added at the coordinator's rel
 | Isabel Clarendon, Vol. 1 (of 2) | have | PG 54431, `gissing-isabel-clarendon-vol-1-of-2` (1540 units) |
 | Isabel Clarendon, Vol. 2 (of 2) | have | PG 54432, `gissing-isabel-clarendon-vol-2-of-2` (1651 units) |
 
+## Joseph Conrad
+
+Shelf: `pipeline/joseph-conrad_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (36 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Secret Sharer | have | PG 220, `jconrad-secret-sharer` (328 units) |
+| The Shadow Line: A Confession | have | PG 451, `jconrad-shadow-line` (902 units) |
+| Falk: A Reminiscence | have | PG 493, `jconrad-falk` (302 units) |
+| To-morrow | have | PG 494, `jconrad-to-morrow` (229 units) |
+| Amy Foster | have | PG 495, `jconrad-amy-foster` (97 units) |
+| Youth, a Narrative | have | PG 525, `jconrad-youth-a-narrative` (129 units) |
+| The End of the Tether | have | PG 527, `jconrad-end-of-the-tether` (788 units) |
+| An Outcast of the Islands | have | PG 638, `jconrad-an-outcast-of-the-islands` (1615 units) |
+| A Personal Record | have | PG 687, `jconrad-a-personal-record` (450 units) |
+| The Secret Agent: A Simple Tale | have | PG 974, `jconrad-secret-agent` (1613 units) |
+| Within the Tides: Tales | have | PG 1053, `jconrad-within-the-tides` (1023 units) |
+| 'Twixt Land & Sea: Tales | have | PG 1055, `jconrad-twixt-land-sea` (1336 units) |
+| The Mirror of the Sea | have | PG 1058, `jconrad-mirror-of-the-sea` (599 units) |
+| The Arrow of Gold: A Story Between Two Notes | have | PG 1083, `jconrad-arrow-of-gold` (1625 units) |
+| Typhoon | have | PG 1142, `jconrad-typhoon` (549 units) |
+| Notes on Life & Letters | have | PG 1143, `jconrad-notes-on-life-letters` (566 units) |
+| Tales of Unrest | have | PG 1202, `jconrad-tales-of-unrest` (757 units) |
+| Some Reminiscences | have | PG 1316, `jconrad-some-reminiscences` (412 units) |
+| Chance: A Tale in Two Parts | have | PG 1476, `jconrad-chance` (1924 units) |
+| The Rescue: A Romance of the Shallows | have | PG 1712, `jconrad-rescue` (2630 units) |
+| Nostromo: A Tale of the Seaboard | have | PG 2021, `jconrad-nostromo` (2247 units) |
+| A Set of Six | have | PG 2305, `jconrad-a-set-of-six` (1370 units) |
+| Under Western Eyes | have | PG 2480, `jconrad-under-western-eyes` (2372 units) |
+| Lord Jim | have | PG 5658, `jconrad-lord-jim` (653 units) |
+| Victory: An Island Tale | have | PG 6378, `jconrad-victory` (2640 units) |
+| Gaspar Ruiz | have | PG 8736, `jconrad-gaspar-ruiz` (374 units) |
+| The Inheritors (with Ford Madox Ford) | have | PG 14888, `jconrad-inheritors` (1229 units) |
+| The Point Of Honor: A Military Tale | have | PG 17620, `jconrad-point-of-honor` (564 units) |
+| One Day More: A Play In One Act | have | PG 17621, `jconrad-one-day-more` (358 units) |
+| Romance (with Ford Madox Ford) | have | PG 17642, `jconrad-romance` (2987 units) |
+| The nigger of the "Narcissus" | have | PG 17731, `jconrad-nigger-of-the-narcissus` (257 units) |
+| Tales Of Hearsay | have | PG 17732, `jconrad-tales-of-hearsay` (676 units) |
+| Notes on My Books | have | PG 20150, `jconrad-notes-on-my-books` (282 units) |
+| The Rover | have | PG 59142, `jconrad-rover` (1335 units) |
+| Suspense: A Napoleonic Novel | have | PG 66156, `jconrad-suspense` (1348 units) |
+| The nature of a crime (with Ford Madox Ford) | have | PG 75172, `jconrad-nature-of-a-crime` (254 units) |
+| pg-29156 | excluded | PG 29156: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 23506: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 219: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-526 | excluded | PG 526 Heart of Darkness: a second edition; the Adler shelf holds the tale (PG 219). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
