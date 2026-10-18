@@ -7331,6 +7331,18 @@ Shelf: `pipeline/robert-g-ingersoll_shelf.json`. The twelve-volume Dresden editi
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 1 of 12 (1900) |  | `ingersoll-works-dresden-01` | have (PG 38801) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 2 of 12 (1900) |  | `ingersoll-works-dresden-02` | have (PG 38802) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 3 of 12 (1900) |  | `ingersoll-works-dresden-03` | have (PG 38803) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 4 of 12 (1900) |  | `ingersoll-works-dresden-04` | have (PG 38804) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 5 of 12 (1900) |  | `ingersoll-works-dresden-05` | have (PG 38805) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 6 of 12 (1900) |  | `ingersoll-works-dresden-06` | have (PG 38806) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 7 of 12 (1900) |  | `ingersoll-works-dresden-07` | have (PG 38807) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 8 of 12 (1900) |  | `ingersoll-works-dresden-08` | have (PG 38808) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 9 of 12 (1900) |  | `ingersoll-works-dresden-09` | have (PG 38809) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 10 of 12 (1900) |  | `ingersoll-works-dresden-10` | have (PG 38810) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 11 of 12 (1900) |  | `ingersoll-works-dresden-11` | have (PG 38811) |
+| The Works of Robert G. Ingersoll, Dresden Edition, vol. 12 of 12 (1900) |  | `ingersoll-works-dresden-12` | have (PG 38812) |
 
 ## Charlotte Perkins Gilman (social theory)
 
