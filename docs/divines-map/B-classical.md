@@ -8192,6 +8192,8 @@ Shelf: `pipeline/r-w-livingstone_shelf.json`. Two books, 1912-1916.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Greek Genius and its Meaning to Us (Clarendon Press, 1912) |  | `livingstone-greek-genius-1912` | have-raw (IA `greekgeniusitsme00liviuoft`) |
+| A Defence of Classical Education (Macmillan, 1916) |  | `livingstone-defence-of-classical-education-1916` | have-raw (IA `defenceofclassic00liviuoft`) |
 
 ## F. M. Cornford (origins of Greek thought)
 
