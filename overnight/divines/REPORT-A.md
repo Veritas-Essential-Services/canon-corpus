@@ -1393,3 +1393,6 @@
 
 ## 2026-10-17 20:25 CDT — luis-de-leon done
 - `pipeline/luis-de-leon_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 20:25 CDT — jacques-monsabre done
+- `pipeline/jacques-monsabre_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

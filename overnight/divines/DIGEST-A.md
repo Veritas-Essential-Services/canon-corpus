@@ -651,6 +651,7 @@ Twenty-six authors queued in QUEUE-A.json, each built from title pages read for 
 | John of Ávila | john-of-avila_shelf.json | none | 3 (Certain Selected Spiritual Epistles, written by Doctor I. de Auila (Rouen: Iohn le Cousturier, 1631); The Cure of Discomfort, conteyned in the Spirituall Epistles of Doctour I. de Avila (Permissu Superiorum, M.DC.XXXII); Letters of Blessed John of Avila, translated and selected by the Benedictines of Stanbrook, preface by Abbot Gasquet (London: Burns & Oates, 1904)) | 1 (The Audi Filia, or a Rich Cabinet (1620, EEBO): imprint and translator not legible) | Oddi's Life; post-1929 editions |
 | Peter of Alcántara | peter-of-alcantara_shelf.json | none | 1 (A Golden Treatise of Mental Prayer, translated into English by Giles Willoughby (Philadelphia: M. Fithian, 1844)) | none | 1940 and 1949 printings |
 | Luis de León | luis-de-leon_shelf.json | none | 1 (Poems from the Spanish of Fra Luis Ponce de Leon, tr. Henry Phillips Jr. (Philadelphia: printed for private distribution, 1883)) | 1 (The Names of Christ and The Perfect Wife in English before 1930: not found) | post-1929 translations; studies of him |
+| Jacques Monsabré | jacques-monsabre_shelf.json | none | 1 (Marriage: Conferences delivered at Notre Dame, Paris, tr. M. Hopper (New York: Benziger Brothers, 1890)) | none | retyped texts with no title page |
 
 ## Paused 2026-10-10 15:12 CDT
 

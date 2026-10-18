@@ -6679,6 +6679,17 @@ Slugs `luis-*`. Augustinian poet and theologian, in English.
 | Poems from the Spanish of Fra Luis Ponce de Leon, tr. Henry Phillips Jr. (Philadelphia: printed for private distribution, 1883) | have-ocr | IA `poemsfromspanish00lenl` |
 | The Names of Christ (1955) and The Perfect Wife (1940s) | excluded | |
 | Aubrey Bell's and Fitzmaurice-Kelly's studies | excluded | |
+
+## Jacques Monsabré (round 30, my pick, 2026-10-18)
+
+Slugs `monsabre-*`. Dominican preacher of Notre-Dame, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Marriage: Conferences delivered at Notre Dame, Paris, tr. M. Hopper (New York: Benziger Brothers, 1890) | have-ocr | IA `marriageconferen00monsiala` |
+| Another 1890 copy | alternate | not shelved |
+| Modern retyped Rosary texts with no title page | excluded | |
+| French originals tagged English | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
