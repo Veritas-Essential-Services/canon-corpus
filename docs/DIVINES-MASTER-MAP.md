@@ -6041,6 +6041,19 @@ Slugs `ullathorne-*`. Benedictine Bishop of Birmingham; written in English.
 | Groundwork 4th ed. (1890), Endowments (TheEndowmentsOfMan, 1880), later undated editions | alternate | not shelved |
 | From Cabin-Boy to Archbishop (1941) | excluded | |
 | Characteristics from the Writings of Ullathorne (1889), by another hand | excluded | |
+
+## John Cuthbert Hedley (round 28, my pick, 2026-10-18)
+
+Slugs `hedley-*`. Benedictine Bishop of Newport; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spirit of Faith; or, What Must I Do to Believe? (New York: Catholic Publication Society, 1875) | have-ocr | IA `TheSpiritOfFaith` |
+| Lex Levitarum, or Preparation for the Cure of Souls, with the Regula Pastoralis of St. Gregory the Great (New York: Benziger, MCMV) | have-ocr | IA `lexlevitarumorpr00hedl` |
+| The Holy Eucharist, Westminster Library (London: Longmans, Green, 1907) | have-ocr | IA `holyeucharist00hedl_0` |
+| Our Divine Saviour and Other Discourses, third edition (London: Burns & Oates; New York: Benziger; no year on the title page) | have-ocr | IA `OurDivineSaviourAndOtherDiscourses` |
+| Holy Eucharist new impression (1914); Lex Levitarum third edition (1927) | alternate | not shelved |
+| Evolution and Faith (Sheed & Ward, 1931) and the 1951 Retreat | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

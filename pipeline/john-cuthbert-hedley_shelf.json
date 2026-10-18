@@ -1,0 +1,92 @@
+{
+ "_about": "Public-domain John Cuthbert Hedley (1837-1915, Benedictine, Bishop of Newport) for the Word Hoard: 4 books from Internet Archive scans: The Spirit of Faith (1875), Lex Levitarum with St Gregory's Regula Pastoralis (1905), The Holy Eucharist (1907) and Our Divine Saviour and Other Discourses (third edition, no year on the title page). Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hedley"
+ ],
+ "_surname": [
+  "hedley",
+  "john cuthbert hedley",
+  "j. c. hedley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hedley-spirit-of-faith": [
+   "TheSpiritOfFaith",
+   "The Spirit of Faith; or, What Must I Do to Believe? (New York: Catholic Publication Society, 1875)"
+  ],
+  "hedley-lex-levitarum": [
+   "lexlevitarumorpr00hedl",
+   "Lex Levitarum, or Preparation for the Cure of Souls, with the Regula Pastoralis of St. Gregory the Great (New York: Benziger, MCMV)"
+  ],
+  "hedley-holy-eucharist": [
+   "holyeucharist00hedl_0",
+   "The Holy Eucharist, Westminster Library (London: Longmans, Green, 1907)"
+  ],
+  "hedley-our-divine-saviour": [
+   "OurDivineSaviourAndOtherDiscourses",
+   "Our Divine Saviour and Other Discourses, third edition (London: Burns & Oates; New York: Benziger; no year on the title page)"
+  ]
+ },
+ "_alternates": {
+  "hedley-copies": "Holy Eucharist new impression (1914); Lex Levitarum third edition (1927)"
+ },
+ "_excluded": {
+  "hedley-late": "Evolution and Faith (Sheed & Ward, 1931) and the 1951 Retreat"
+ },
+ "_rights_checked": {
+  "hedley-our-divine-saviour": "title page read: third edition, Burns & Oates Ltd. (the imprint before the 1908 merger into Burns & Oates & Washbourne), no year"
+ },
+ "_pending": {
+  "hedley-retreat": "A Retreat (1894): only undated Burns Oates & Washbourne printings found"
+ },
+ "_translators": {},
+ "_checks": {
+  "hedley-spirit-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hedley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hedley-lex-levitarum": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hedley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hedley-holy-eucharist": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hedley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hedley-our-divine-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hedley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: third edition, Burns & Oates Ltd. (the imprint before the 1908 merger into Burns & Oates & Washbourne), no year"
+  }
+ }
+}

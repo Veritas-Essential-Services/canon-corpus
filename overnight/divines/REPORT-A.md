@@ -1267,3 +1267,6 @@
 
 ## 2026-10-17 19:30 CDT — william-ullathorne done
 - `pipeline/william-ullathorne_shelf.json`: 0 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:31 CDT — john-cuthbert-hedley done
+- `pipeline/john-cuthbert-hedley_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
