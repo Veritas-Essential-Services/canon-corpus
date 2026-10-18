@@ -11560,7 +11560,7 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 ## James Legge (Chinese classics: the complete Chinese Classics, first edition 1861-72, since round 75; the Shu King, Yi King, Li Ki and Kwang-ze from the Sacred Books of the East since round 64)
 
 Shelf: `pipeline/legge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py legge` · titles `python3 pipeline/split_shelf_titles.py legge`.
-Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Round 75 (2026-10-18), vetoable: the Chinese Classics, 8 volumes, added. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Round 75 (2026-10-17), vetoable: the Chinese Classics, 8 volumes, added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -17653,7 +17653,7 @@ Round 74 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Shelf: classical Japanese literature in English before 1931: Dickins's Primitive & Mediaeval Japanese Texts, Chamberlain's Classical Poetry of the Japanese, Pierson's Manyosu book I, Porter's Hundred Verses and Kenko, Sansom's Tsuredzure Gusa
 
 Shelf: `pipeline/japanese-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py japanese-classics` · titles `python3 pipeline/split_shelf_titles.py japanese-classics`.
-Round 76 (2026-10-18), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 76 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|

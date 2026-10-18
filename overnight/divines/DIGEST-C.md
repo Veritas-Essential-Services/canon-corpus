@@ -1031,7 +1031,7 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 
 Years flagged by the evidence check and read by eye: 1992 and 2001 are Cornell's digitising boilerplate.
 
-## Round 75: Legge's Chinese Classics (2026-10-18)
+## Round 75: Legge's Chinese Classics (2026-10-17)
 
 No new shelf: 8 titles on the legge shelf (now 17), from archive.org scans of the first edition (Hongkong: at the Author's; London: Trübner, 1861-72), with the translator and imprint read on each title page (raw OCR; the Chinese text on each page is OCR noise):
 
@@ -1042,7 +1042,7 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 
 Year flagged by the evidence check and read by eye: 2016 in vol. IV part I is the digitising note.
 
-## Round 76: classical Japanese literature (2026-10-18)
+## Round 76: classical Japanese literature (2026-10-17)
 
 One new shelf, 6 titles, from period Internet Archive scans with the translator and imprint read on each title page (raw OCR):
 
