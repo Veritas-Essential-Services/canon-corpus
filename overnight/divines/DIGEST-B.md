@@ -248,3 +248,4 @@
 - 20:33 round bd: Diderot (Jourdain, Pollock), Kent vols. I-III, Bryce's American Commonwealth 1888, four De Morgan works. Held: Kent vol. IV, PG Budget of Paradoxes (Dover 1954).
 - 20:37 round be: Buckle, John Morley, Romanes, Tyndall, Erasmus Darwin (20 clean Gutenberg texts). Two PG ids 404 on download, left as wanted.
 - 20:40 round bf: Guizot, Volney, Fitzjames Stephen, Kidd, Seeley, Soloviev, Joubert (8 items). For lane C: the Broadway Library Joubert (IA bwb_S0-EKA-341) belongs on broadway-library.
+- 20:41 round bg: four wishlist items (Soloviev's Justification of the Good, Kidd, Story's Conflict of Laws, Seeley's Political Science).

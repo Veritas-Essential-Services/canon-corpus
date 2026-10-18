@@ -13105,8 +13105,9 @@ Shelf: `pipeline/joseph-story_shelf.json`. Joseph Story (1779-1845). Commentarie
 | Commentaries on the Constitution of the United States, vol. I (1833) |  | `story-commentaries-constitution-1833-v1` | have-raw (IA `commentariesonco01stor`) |
 | Commentaries on the Constitution of the United States, vol. II (1833) |  | `story-commentaries-constitution-1833-v2` | have-raw (IA `commentariesonco02stor`) |
 | Commentaries on the Constitution of the United States, vol. III (1833) |  | `story-commentaries-constitution-1833-v3` | have-raw (IA `commentariesonco03stor`) |
+| Commentaries on the Conflict of Laws, first edition (Hilliard, Gray, 1834) |  | `story-conflict-of-laws-1834` | have-raw (IA `commentariesonc17storgoog`) |
 
-Pending (wishlist): Commentaries on the Conflict of Laws (1834); Commentaries on Equity Jurisprudence (1836)
+Pending (wishlist): Commentaries on Equity Jurisprudence (1836)
 
 ## James Wilson (Works, 1804)
 
@@ -13236,8 +13237,7 @@ Shelf: `pipeline/benjamin-kidd_shelf.json`. Benjamin Kidd (1858-1916). Social Ev
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Social Evolution (Macmillan, 1894) |  | `kidd-social-evolution-1894` | have-raw (IA `socialevolution00kiddiala`) |
-
-Pending (wishlist): Principles of Western Civilisation (1902)
+| Principles of Western Civilisation (Macmillan, 1902) |  | `kidd-principles-western-civilisation-1902` | have-raw (IA `principlesofwest0000benj`) |
 
 ## J. R. Seeley (Expansion of England)
 
@@ -13246,8 +13246,7 @@ Shelf: `pipeline/j-r-seeley_shelf.json`. Sir John Robert Seeley (1834-1895). The
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Expansion of England (Macmillan, 1883; this copy 1899) |  | `seeley-expansion-of-england-1883` | have-raw (IA `expansionenglan02seelgoog`) |
-
-Pending (wishlist): Introduction to Political Science (1896)
+| Introduction to Political Science, ed. Henry Sidgwick (Macmillan, 1896; reprint 1908) |  | `seeley-introduction-political-science-1896` | have-raw (IA `introtopolitical00seeliala`) |
 
 ## Vladimir Soloviev (Three Conversations)
 
@@ -13256,8 +13255,7 @@ Shelf: `pipeline/vladimir-soloviev_shelf.json`. Vladimir Solovyov (1853-1900). W
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | War and Christianity: Three Conversations (Constable, 1915) | Edward Cazalet, W. J. Barnes and H. H. Haynes | `soloviev-war-and-christianity-1915` | have-raw (IA `warchristianityf0000solo`) |
-
-Pending (wishlist): The Justification of the Good, tr. Duddington (1918)
+| The Justification of the Good, tr. Nathalie A. Duddington (Constable, 1918) | Nathalie A. Duddington | `soloviev-justification-of-the-good-1918` | have-raw (IA `thejustification00solouoft`) |
 
 ## Joseph Joubert (Pensées)
 

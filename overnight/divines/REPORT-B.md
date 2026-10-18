@@ -1163,3 +1163,9 @@
 - vladimir-soloviev: Three Conversations (Constable, 1915)
 - joseph-joubert: Attwell's Pensees (1896)
 - For lane C: Joubert's Pensees and Letters (Broadway Library, 1928; IA bwb_S0-EKA-341) fits its broadway-library shelf
+
+## 2026-10-17 20:41 CDT — Round 2026-10-17bg: wishlist items
+- vladimir-soloviev: Justification of the Good, tr. Duddington (1918)
+- benjamin-kidd: Principles of Western Civilisation (1902)
+- joseph-story: Conflict of Laws, first edition (1834)
+- j-r-seeley: Introduction to Political Science (1896; 1908 reprint)
