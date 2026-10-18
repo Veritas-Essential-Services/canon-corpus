@@ -1,0 +1,627 @@
+{
+ "_about": "Amy E. Blanchard's girls' stories",
+ "_author": "Amy E. Blanchard",
+ "_name_words": [
+  "blanchard"
+ ],
+ "_surname": [
+  "amy e. blanchard",
+  "amy ella blanchard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aeblanchard-a-sweet-little-maid": [
+   19025,
+   "A Sweet Little Maid",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-little-maid-marian": [
+   19988,
+   "Little Maid Marian",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-three-little-cousins": [
+   26208,
+   "Three Little Cousins",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-a-dear-little-girl-at-school": [
+   28966,
+   "A Dear Little Girl at School"
+  ],
+  "aeblanchard-a-dear-little-girls-thanksgiving-holidays": [
+   30007,
+   "A Dear Little Girl's Thanksgiving Holidays",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-a-dear-little-girl": [
+   31244,
+   "A Dear Little Girl"
+  ],
+  "aeblanchard-a-dear-little-girls-summer-holidays": [
+   41631,
+   "A Dear Little Girl's Summer Holidays",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-four-corners-abroad": [
+   45026,
+   "The four Corners abroad"
+  ],
+  "aeblanchard-four-corners-in-japan": [
+   45518,
+   "The four Corners in Japan",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-four-corners": [
+   45601,
+   "The four Corners",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-talbots-angles": [
+   46367,
+   "Talbot's Angles",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-kittyboys-christmas": [
+   53920,
+   "Kittyboy's Christmas"
+  ],
+  "aeblanchard-an-everyday-girl": [
+   56725,
+   "An Everyday Girl: A Story"
+  ],
+  "aeblanchard-four-corners-in-camp": [
+   71044,
+   "The four Corners in camp"
+  ],
+  "aeblanchard-nancy-first-and-last": [
+   71334,
+   "Nancy first and last"
+  ],
+  "aeblanchard-four-corners-in-california": [
+   71353,
+   "The four Corners in California"
+  ],
+  "aeblanchard-wits-end": [
+   71546,
+   "Wits' End",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-three-pretty-maids": [
+   71740,
+   "Three pretty maids"
+  ],
+  "aeblanchard-little-miss-oddity": [
+   71840,
+   "Little Miss Oddity"
+  ],
+  "aeblanchard-mammys-baby": [
+   72695,
+   "Mammy's baby"
+  ],
+  "aeblanchard-mabels-mishap": [
+   72983,
+   "Mabel's mishap"
+  ],
+  "aeblanchard-worth-his-while": [
+   72998,
+   "Worth his while",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-little-miss-mouse": [
+   73121,
+   "Little Miss Mouse"
+  ],
+  "aeblanchard-a-heroine-of-1812": [
+   73180,
+   "A heroine of 1812"
+  ],
+  "aeblanchard-playmate-polly": [
+   73707,
+   "Playmate Polly"
+  ],
+  "aeblanchard-a-little-maid-of-picardy": [
+   73722,
+   "A little maid of Picardy",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-janets-college-career": [
+   74012,
+   "Janet's college career"
+  ],
+  "aeblanchard-a-frontier-knight": [
+   74155,
+   "A frontier knight",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-because-of-conscience": [
+   74479,
+   "Because of conscience"
+  ],
+  "aeblanchard-wonderful-fan": [
+   74526,
+   "The wonderful fan",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-elizabeth-betsy-and-bess-schoolmates": [
+   74754,
+   "Elizabeth, Betsy, and Bess—schoolmates",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-a-gentle-pioneer": [
+   74896,
+   "A gentle pioneer",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-from-tenderfoot-to-golden-eaglet": [
+   75069,
+   "From Tenderfoot to Golden Eaglet",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-dimple-dallas": [
+   75380,
+   "Dimple Dallas",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-wee-babies": [
+   75765,
+   "Wee babies"
+  ],
+  "aeblanchard-hearts-and-clubs": [
+   75848,
+   "Hearts and clubs"
+  ],
+  "aeblanchard-a-journey-of-joy": [
+   75999,
+   "A journey of joy",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-a-loyal-lass": [
+   76074,
+   "A loyal lass",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-glad-lady": [
+   76495,
+   "The glad lady",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-an-independent-daughter": [
+   76993,
+   "An independent daughter",
+   {
+    "contents_only": true
+   }
+  ],
+  "aeblanchard-bonny-bairns": [
+   78348,
+   "Bonny bairns"
+  ],
+  "aeblanchard-girls-together": [
+   78824,
+   "Girls together"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aeblanchard-a-sweet-little-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-little-maid-marian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-three-little-cousins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-dear-little-girl-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-dear-little-girls-thanksgiving-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-dear-little-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-dear-little-girls-summer-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-four-corners-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-four-corners-in-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-four-corners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-talbots-angles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-kittyboys-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-an-everyday-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-four-corners-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-nancy-first-and-last": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-four-corners-in-california": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-wits-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-three-pretty-maids": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-little-miss-oddity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-mammys-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy ella blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-mabels-mishap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-worth-his-while": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-little-miss-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-heroine-of-1812": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-playmate-polly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-little-maid-of-picardy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-janets-college-career": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-frontier-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-because-of-conscience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-wonderful-fan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy ella blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-elizabeth-betsy-and-bess-schoolmates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-gentle-pioneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-from-tenderfoot-to-golden-eaglet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-dimple-dallas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-wee-babies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-hearts-and-clubs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-journey-of-joy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-a-loyal-lass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-glad-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-an-independent-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-bonny-bairns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy ella blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aeblanchard-girls-together": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "amy e. blanchard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

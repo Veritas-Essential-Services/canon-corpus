@@ -11863,6 +11863,55 @@ Shelf: `pipeline/madeline-leslie_shelf.json` (2026-10-17; added at the coordinat
 | Out of the depths | have | PG 78705, `mleslie-out-of-the-depths` (1265 units) |
 | Lazy Robert; or, The Colonel's servant | have | PG 78964, `mleslie-lazy-robert` (377 units) |
 
+## Amy E. Blanchard
+
+Shelf: `pipeline/amy-blanchard_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers; post-1930 printings held. Every English text under the name at Gutenberg that no other shelf holds (42 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sweet Little Maid | have | PG 19025, `aeblanchard-a-sweet-little-maid` (1557 units) |
+| Little Maid Marian | have | PG 19988, `aeblanchard-little-maid-marian` (921 units) |
+| Three Little Cousins | have | PG 26208, `aeblanchard-three-little-cousins` (962 units) |
+| A Dear Little Girl at School | have | PG 28966, `aeblanchard-a-dear-little-girl-at-school` (903 units) |
+| A Dear Little Girl's Thanksgiving Holidays | have | PG 30007, `aeblanchard-a-dear-little-girls-thanksgiving-holidays` (963 units) |
+| A Dear Little Girl | have | PG 31244, `aeblanchard-a-dear-little-girl` (902 units) |
+| A Dear Little Girl's Summer Holidays | have | PG 41631, `aeblanchard-a-dear-little-girls-summer-holidays` (1233 units) |
+| The four Corners abroad | have | PG 45026, `aeblanchard-four-corners-abroad` (1998 units) |
+| The four Corners in Japan | have | PG 45518, `aeblanchard-four-corners-in-japan` (1772 units) |
+| The four Corners | have | PG 45601, `aeblanchard-four-corners` (1861 units) |
+| Talbot's Angles | have | PG 46367, `aeblanchard-talbots-angles` (1585 units) |
+| Kittyboy's Christmas | have | PG 53920, `aeblanchard-kittyboys-christmas` (289 units) |
+| An Everyday Girl: A Story | have | PG 56725, `aeblanchard-an-everyday-girl` (1869 units) |
+| The four Corners in camp | have | PG 71044, `aeblanchard-four-corners-in-camp` (1847 units) |
+| Nancy first and last | have | PG 71334, `aeblanchard-nancy-first-and-last` (1574 units) |
+| The four Corners in California | have | PG 71353, `aeblanchard-four-corners-in-california` (1887 units) |
+| Wits' End | have | PG 71546, `aeblanchard-wits-end` (1873 units) |
+| Three pretty maids | have | PG 71740, `aeblanchard-three-pretty-maids` (1623 units) |
+| Little Miss Oddity | have | PG 71840, `aeblanchard-little-miss-oddity` (1072 units) |
+| Mammy's baby | have | PG 72695, `aeblanchard-mammys-baby` (53 units) |
+| Mabel's mishap | have | PG 72983, `aeblanchard-mabels-mishap` (426 units) |
+| Worth his while | have | PG 72998, `aeblanchard-worth-his-while` (342 units) |
+| Little Miss Mouse | have | PG 73121, `aeblanchard-little-miss-mouse` (1123 units) |
+| A heroine of 1812 | have | PG 73180, `aeblanchard-a-heroine-of-1812` (1732 units) |
+| Playmate Polly | have | PG 73707, `aeblanchard-playmate-polly` (1057 units) |
+| A little maid of Picardy | have | PG 73722, `aeblanchard-a-little-maid-of-picardy` (2004 units) |
+| Janet's college career | have | PG 74012, `aeblanchard-janets-college-career` (1961 units) |
+| A frontier knight | have | PG 74155, `aeblanchard-a-frontier-knight` (1845 units) |
+| Because of conscience | have | PG 74479, `aeblanchard-because-of-conscience` (1757 units) |
+| The wonderful fan | have | PG 74526, `aeblanchard-wonderful-fan` (541 units) |
+| Elizabeth, Betsy, and Bess—schoolmates | have | PG 74754, `aeblanchard-elizabeth-betsy-and-bess-schoolmates` (1431 units) |
+| A gentle pioneer | have | PG 74896, `aeblanchard-a-gentle-pioneer` (1997 units) |
+| From Tenderfoot to Golden Eaglet | have | PG 75069, `aeblanchard-from-tenderfoot-to-golden-eaglet` (2126 units) |
+| Dimple Dallas | have | PG 75380, `aeblanchard-dimple-dallas` (973 units) |
+| Wee babies | have | PG 75765, `aeblanchard-wee-babies` (226 units) |
+| Hearts and clubs | have | PG 75848, `aeblanchard-hearts-and-clubs` (217 units) |
+| A journey of joy | have | PG 75999, `aeblanchard-a-journey-of-joy` (1591 units) |
+| A loyal lass | have | PG 76074, `aeblanchard-a-loyal-lass` (1669 units) |
+| The glad lady | have | PG 76495, `aeblanchard-glad-lady` (1733 units) |
+| An independent daughter | have | PG 76993, `aeblanchard-an-independent-daughter` (1984 units) |
+| Bonny bairns | have | PG 78348, `aeblanchard-bonny-bairns` (176 units) |
+| Girls together | have | PG 78824, `aeblanchard-girls-together` (1825 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
