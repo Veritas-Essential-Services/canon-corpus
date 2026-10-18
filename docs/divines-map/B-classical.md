@@ -7578,6 +7578,8 @@ Shelf: `pipeline/j-a-gunn_shelf.json`. Two books, 1920-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Bergson and His Philosophy (1920) |  | `gunn-bergson-and-his-philosophy` | have (PG 5717) |
+| Modern French Philosophy (1922) |  | `gunn-modern-french-philosophy` | have (PG 5246) |
 
 ## St. George Stock (logic and Stoicism)
 
