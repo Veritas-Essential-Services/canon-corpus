@@ -8788,6 +8788,19 @@ Slugs `mmloyola-*`. Built from title pages read for round 36.
 | Hail! Full of Grace: Simple Thoughts on the Rosary, eighth edition, edited by Father Thurston, S.J. (St. Louis: B. Herder; London: Sands, 1914) | have-ocr | IA `simplethoughtson0000moth` |
 | The IA Before the Most Holy (1904) and later editions (eleventh 1908, seventeenth undated); Hail! Full of Grace fourth edition (undated); Welcome! Holy Communion (undated) | alternate | not shelved |
 | Trust (1932) and modern reprints; Thurston's Stations of the Cross (PG 79316) | excluded | |
+
+## Janet Erskine Stuart (round 36, my pick, 2026-10-18)
+
+Slugs `jestuart-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| The Education of Catholic Girls, fourth impression (London: Longmans, Green, 1914) | have-clean | Gutenberg 15892 |
+| The Education of Catholic Girls, with a preface by the Archbishop of Westminster (London: Longmans, Green, 1911) | have-ocr | IA `educationcathol00stuagoog` |
+| The Society of the Sacred Heart (Roehampton: Convent of the Sacred Heart, 1914) | have-ocr | IA `societysacredhea00stuauoft` |
+| Highways and By-ways in the Spiritual Life, edited by M. Monahan, with a preface by Cardinal Bourne (London: Longmans, Green, 1923) | have-ocr | IA `highwaysbywaysin0000jane` |
+| Other impressions of The Education of Catholic Girls (one catalogued 2026 in error) | alternate | not shelved |
+| The Inward Life (1933); a French translation; a 1964 book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

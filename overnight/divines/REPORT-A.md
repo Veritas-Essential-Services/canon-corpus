@@ -1825,3 +1825,6 @@
 
 ## 2026-10-17 22:46 CDT — mother-mary-loyola done
 - `pipeline/mother-mary-loyola_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:46 CDT — janet-erskine-stuart done
+- `pipeline/janet-erskine-stuart_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
