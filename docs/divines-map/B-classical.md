@@ -5636,6 +5636,9 @@ Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisur
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Instinct of Workmanship (Macmillan, 1914) |  | `veblen-instinct-of-workmanship-1914` | have (PG 69888) |
+| An Inquiry into the Nature of Peace (Macmillan, 1917) |  | `veblen-nature-of-peace-1917` | have (PG 20694) |
+| The Place of Science in Modern Civilisation (1919) |  | `veblen-place-of-science-1919` | have (PG 39949) |
 
 Pending (wishlist): The Theory of Business Enterprise (1904); The Higher Learning in America (1918)
 

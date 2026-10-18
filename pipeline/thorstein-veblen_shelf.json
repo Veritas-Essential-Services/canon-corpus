@@ -1,0 +1,57 @@
+{
+ "_about": "Thorstein Veblen (1857-1929): The Instinct of Workmanship and the State of the Industrial Arts (New York: Macmillan, 1914), An Inquiry into the Nature of Peace and the Terms of its Perpetuation (New York: Macmillan, April 1917), and The Place of Science in Modern Civilisation and other essays (New York: B. W. Huebsch, copyright 1919), clean Gutenberg texts. The Theory of the Leisure Class is on the Adler shelf and is not taken again. US public domain (all published before 1931). No uids minted.",
+ "_author": "Thorstein Veblen",
+ "_name_words": [
+  "thorstein",
+  "veblen"
+ ],
+ "_surname": [
+  "veblen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "veblen-instinct-of-workmanship-1914": [
+   69888,
+   "The Instinct of Workmanship (Macmillan, 1914)"
+  ],
+  "veblen-nature-of-peace-1917": [
+   20694,
+   "An Inquiry into the Nature of Peace (Macmillan, 1917)"
+  ],
+  "veblen-place-of-science-1919": [
+   39949,
+   "The Place of Science in Modern Civilisation (1919)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "veblen-instinct-of-workmanship-1914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veblen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "veblen-nature-of-peace-1917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veblen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "veblen-place-of-science-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "veblen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
