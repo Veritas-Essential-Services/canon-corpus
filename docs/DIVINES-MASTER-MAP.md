@@ -24918,6 +24918,44 @@ Shelf: `pipeline/ww-jacobs_shelf.json` (2026-10-17; added at the coordinator's r
 | pg-28701 | excluded | PG 28701: Gutenberg's index of Jacobs's stories, not a book. |
 | pg-21927 | excluded | PG 21927 Short Cruises: a second Gutenberg edition of a title already on the shelf. |
 
+## Jerome K. Jerome
+
+Shelf: `pipeline/jerome-k-jerome_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic novels, sketches and plays. Every English text under the name at Gutenberg that no other shelf holds (31 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Three men in a boat (to say nothing of the dog) | have | PG 308, `jkjerome-three-men-in-a-boat-to-say-nothing-of-the-dog` (1419 units) |
+| The Idle Thoughts of an Idle Fellow | have | PG 849, `jkjerome-idle-thoughts-of-an-idle-fellow` (451 units) |
+| Clocks | have | PG 855, `jkjerome-clocks` (84 units) |
+| Dreams | have | PG 856, `jkjerome-dreams` (113 units) |
+| Evergreens | have | PG 857, `jkjerome-evergreens` (103 units) |
+| Passing of the Third Floor Back | have | PG 865, `jkjerome-passing-of-the-third-floor-back` (241 units) |
+| The Cost of Kindness | have | PG 866, `jkjerome-cost-of-kindness` (51 units) |
+| Mrs. Korner Sins Her Mercies | have | PG 867, `jkjerome-mrs-korner-sins-her-mercies` (176 units) |
+| The Philosopher's Joke | have | PG 868, `jkjerome-philosophers-joke` (89 units) |
+| The Soul of Nicholas Snyders; Or, The Miser of Zandam | have | PG 869, `jkjerome-soul-of-nicholas-snyders` (139 units) |
+| The Love of Ulrich Nebendahl | have | PG 870, `jkjerome-love-of-ulrich-nebendahl` (63 units) |
+| Paul Kelver | have | PG 1334, `jkjerome-paul-kelver` (3023 units) |
+| Malvina of Brittany | have | PG 2023, `jkjerome-malvina-of-brittany` (1196 units) |
+| Diary of a Pilgrimage | have | PG 2024, `jkjerome-diary-of-a-pilgrimage` (736 units) |
+| Three men on the bummel | have | PG 2183, `jkjerome-three-men-on-the-bummel` (1410 units) |
+| The Master of Mrs. Chilvers: An Improbable Comedy | have | PG 2195, `jkjerome-master-of-mrs-chilvers` (1255 units) |
+| All Roads Lead to Calvary | have | PG 2231, `jkjerome-all-roads-lead-to-calvary` (1862 units) |
+| Sketches in Lavender, Blue and Green | have | PG 2234, `jkjerome-sketches-in-lavender-blue-and-green` (1409 units) |
+| Tea-Table Talk | have | PG 2353, `jkjerome-tea-table-talk` (366 units) |
+| Tommy and Co. | have | PG 2356, `jkjerome-tommy-and-co` (1781 units) |
+| The Angel and the Author, and Others | have | PG 2368, `jkjerome-angel-and-the-author-and-others` (822 units) |
+| They and I | have | PG 2437, `jkjerome-they-and-i` (1171 units) |
+| John Ingerfield, and Other Stories | have | PG 2525, `jkjerome-john-ingerfield-and-other-stories` (370 units) |
+| Fanny and the Servant Problem | have | PG 2829, `jkjerome-fanny-and-the-servant-problem` (1024 units) |
+| Idle Ideas in 1905 | have | PG 3140, `jkjerome-idle-ideas-in-1905` (832 units) |
+| The Observations of Henry | have | PG 17943, `jkjerome-observations-of-henry` (550 units) |
+| The Prude's Progress: A Comedy in Three Acts (with Eden Phillpotts) | have | PG 47559, `jkjerome-prudes-progress` (1010 units) |
+| The Observations of Henry Illustrated | have | PG 47774, `jkjerome-observations-of-henry-illustrated` (556 units) |
+| On the Stage--and Off: The Brief Career of a Would-Be Actor | have | PG 48475, `jkjerome-on-the-stage-and-off` (472 units) |
+| Woodbarrow Farm: Play in Three Acts | have | PG 54698, `jkjerome-woodbarrow-farm` (990 units) |
+| Anthony John | have | PG 66465, `jkjerome-anthony-john` (1050 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

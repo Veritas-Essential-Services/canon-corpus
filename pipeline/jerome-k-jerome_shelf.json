@@ -1,0 +1,432 @@
+{
+ "_about": "Jerome K. Jerome's comic novels, sketches and plays (Three Men in a Boat and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Jerome K. Jerome",
+ "_name_words": [
+  "jerome"
+ ],
+ "_surname": [
+  "jerome k. jerome"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jkjerome-three-men-in-a-boat-to-say-nothing-of-the-dog": [
+   308,
+   "Three men in a boat (to say nothing of the dog)"
+  ],
+  "jkjerome-idle-thoughts-of-an-idle-fellow": [
+   849,
+   "The Idle Thoughts of an Idle Fellow",
+   {
+    "contents_only": true
+   }
+  ],
+  "jkjerome-clocks": [
+   855,
+   "Clocks"
+  ],
+  "jkjerome-dreams": [
+   856,
+   "Dreams"
+  ],
+  "jkjerome-evergreens": [
+   857,
+   "Evergreens"
+  ],
+  "jkjerome-passing-of-the-third-floor-back": [
+   865,
+   "Passing of the Third Floor Back"
+  ],
+  "jkjerome-cost-of-kindness": [
+   866,
+   "The Cost of Kindness"
+  ],
+  "jkjerome-mrs-korner-sins-her-mercies": [
+   867,
+   "Mrs. Korner Sins Her Mercies"
+  ],
+  "jkjerome-philosophers-joke": [
+   868,
+   "The Philosopher's Joke"
+  ],
+  "jkjerome-soul-of-nicholas-snyders": [
+   869,
+   "The Soul of Nicholas Snyders; Or, The Miser of Zandam"
+  ],
+  "jkjerome-love-of-ulrich-nebendahl": [
+   870,
+   "The Love of Ulrich Nebendahl"
+  ],
+  "jkjerome-paul-kelver": [
+   1334,
+   "Paul Kelver"
+  ],
+  "jkjerome-malvina-of-brittany": [
+   2023,
+   "Malvina of Brittany"
+  ],
+  "jkjerome-diary-of-a-pilgrimage": [
+   2024,
+   "Diary of a Pilgrimage"
+  ],
+  "jkjerome-three-men-on-the-bummel": [
+   2183,
+   "Three men on the bummel"
+  ],
+  "jkjerome-master-of-mrs-chilvers": [
+   2195,
+   "The Master of Mrs. Chilvers: An Improbable Comedy"
+  ],
+  "jkjerome-all-roads-lead-to-calvary": [
+   2231,
+   "All Roads Lead to Calvary"
+  ],
+  "jkjerome-sketches-in-lavender-blue-and-green": [
+   2234,
+   "Sketches in Lavender, Blue and Green"
+  ],
+  "jkjerome-tea-table-talk": [
+   2353,
+   "Tea-Table Talk"
+  ],
+  "jkjerome-tommy-and-co": [
+   2356,
+   "Tommy and Co.",
+   {
+    "levels": [
+     {
+      "re": "STORY THE [A-Z]+--"
+     }
+    ],
+    "start": "STORY THE FIRST--",
+    "front": true
+   }
+  ],
+  "jkjerome-angel-and-the-author-and-others": [
+   2368,
+   "The Angel and the Author, and Others"
+  ],
+  "jkjerome-they-and-i": [
+   2437,
+   "They and I"
+  ],
+  "jkjerome-john-ingerfield-and-other-stories": [
+   2525,
+   "John Ingerfield, and Other Stories"
+  ],
+  "jkjerome-fanny-and-the-servant-problem": [
+   2829,
+   "Fanny and the Servant Problem"
+  ],
+  "jkjerome-idle-ideas-in-1905": [
+   3140,
+   "Idle Ideas in 1905"
+  ],
+  "jkjerome-observations-of-henry": [
+   17943,
+   "The Observations of Henry"
+  ],
+  "jkjerome-prudes-progress": [
+   47559,
+   "The Prude's Progress: A Comedy in Three Acts (with Eden Phillpotts)"
+  ],
+  "jkjerome-observations-of-henry-illustrated": [
+   47774,
+   "The Observations of Henry Illustrated"
+  ],
+  "jkjerome-on-the-stage-and-off": [
+   48475,
+   "On the Stage--and Off: The Brief Career of a Would-Be Actor"
+  ],
+  "jkjerome-woodbarrow-farm": [
+   54698,
+   "Woodbarrow Farm: Play in Three Acts"
+  ],
+  "jkjerome-anthony-john": [
+   66465,
+   "Anthony John"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jkjerome-three-men-in-a-boat-to-say-nothing-of-the-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-idle-thoughts-of-an-idle-fellow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-clocks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-evergreens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-passing-of-the-third-floor-back": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-cost-of-kindness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-mrs-korner-sins-her-mercies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-philosophers-joke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-soul-of-nicholas-snyders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-love-of-ulrich-nebendahl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-paul-kelver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-malvina-of-brittany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-diary-of-a-pilgrimage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-three-men-on-the-bummel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-master-of-mrs-chilvers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-all-roads-lead-to-calvary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-sketches-in-lavender-blue-and-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-tea-table-talk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-tommy-and-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-angel-and-the-author-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-they-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-john-ingerfield-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-fanny-and-the-servant-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-idle-ideas-in-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-observations-of-henry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-prudes-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-observations-of-henry-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-on-the-stage-and-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-woodbarrow-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkjerome-anthony-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jerome k. jerome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

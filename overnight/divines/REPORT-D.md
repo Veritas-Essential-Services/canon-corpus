@@ -1278,3 +1278,6 @@
 
 ## 2026-10-17 19:00 CDT — ww-jacobs: done
 - ww-jacobs: new shelf, 19 Gutenberg books, 33,177 units, 158 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:00 CDT — jerome-k-jerome: done
+- jerome-k-jerome: new shelf, 31 Gutenberg books, 24,814 units, 1691 ~2 ids; verify 0 mismatches, 0 rights flags.
