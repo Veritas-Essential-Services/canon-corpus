@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 20:42 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 21:17 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -702,6 +702,14 @@ Nineteen authors queued in QUEUE-A.json, each built from title pages read for th
 | Nicolaus Ludwig von Zinzendorf | nicolaus-ludwig-von-zinzendorf_shelf.json | none | 2 (Sixteen Discourses on the Redemption of Man by the Death of Christ (London: James Hutton; year not legible, catalogued 1740); Seven Sermons on the Godhead of the Lamb (London: James Hutton, MDCCXLII)) | 2 (Maxims (1751, extracted by Gambold), Twenty One Discourses on the Augsburg Confession (1753, tr. Okeley) and Peremtorisches Bedencken (1753, tr. Gambold): their title pages name only 'the Ordinary of the Brethren's Churches'; The 1748 Nine Public Lectures: not found) | the 1973 Nine Public Lectures; books about him |
 
 Round 31 closed 2026-10-17 20:43 CDT: 19 shelves, 83 items (2 Gutenberg, 81 Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted.
+
+## Round 32: Catholic writers in English, the American Social Gospel and New Theology, biblical geographers and Scottish scholars, Hudson Taylor and Oswald Chambers, before 1930 (my picks)
+
+Twenty authors queued in QUEUE-A.json, each built from title pages read for this round. Leo XIII, Mercier, Poulain, Pourrat and Loisy are English translations, with the translator recorded wherever the title page names one; the rest wrote in English. Channing and Theodore Parker were researched and dropped because lane B shelved them first. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Pope Leo XIII | leo-xiii_shelf.json | none | 11 (The Great Encyclical Letters of Pope Leo XIII, preface by John J. Wynne (New York, Cincinnati, Chicago: Benziger Brothers; title page undated, copyright 1903); The Pope and the People: Select Letters and Addresses on Social Questions, ed. W. H. Eyre (London and Leamington: Art and Book Company, 1895); The Church and Civilization: Pastoral Letters for Lent 1877-1878, by Cardinal Pecci (New York: P. O'Shea, 1878); Encyclical Letter on the Christian Constitution of States (Immortale Dei), Latin text and authorised translation (London, 1886); On the Condition of Labor (Rerum Novarum), official translation (New York, Cincinnati, Chicago: Benziger Brothers, 1891); Encyclical Letter on the Study of Holy Scripture (Providentissimus Deus), official translation (Staten Island: Mission of the Immaculate Virgin, 1894); Apostolic Letter on the Reunion of Christendom (Praeclara gratulationis), reprinted from The Universe (London, 1894); Encyclical Letter on the Unity of the Church (Satis Cognitum), authorised translation (London: Catholic Truth Society; title page undated, the encyclical dated 29 June 1896); Leo XIII to the Bishops of Brazil on the Church and Slavery (Baltimore: John Murphy for St. Joseph's Seminary; title page undated, catalogued 1888); The Latin Poems of Leo XIII, done into English verse by the Jesuits of Woodstock College (Toronto: People's Publishing, 1887); Poems, Charades, Inscriptions of Pope Leo XIII, with English translation and notes by H. T. Henry (New York and Philadelphia: Dolphin Press, 1902)) | none | 1931-1998 collections and reprints; Henry George's open letter, Doyle's life and other books about or answering him |
 
 ## Paused 2026-10-10 15:12 CDT
 

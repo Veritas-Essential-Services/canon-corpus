@@ -1519,3 +1519,6 @@
 
 ## 2026-10-17 20:43 CDT — round 31 closed
 - 19 shelves, 83 items (2 PG, 81 IA), all verified; 0 uids minted. Round 32 being researched.
+
+## 2026-10-17 21:17 CDT — leo-xiii done
+- `pipeline/leo-xiii_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -7271,6 +7271,27 @@ Slugs `zinzendorf-*`. Sixteen Discourses (1740) and Seven Sermons (1742).
 | Sixteen Discourses second edition (1750); A Manual of Doctrine (1742); Wesley's Extract (1744) | alternate | not shelved |
 | Nine Public Lectures (1973 translation) | excluded | |
 | Lives and hostile tracts about him | excluded | |
+
+## Pope Leo XIII (round 32, my pick, 2026-10-18)
+
+Slugs `leo-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| The Great Encyclical Letters of Pope Leo XIII, preface by John J. Wynne (New York, Cincinnati, Chicago: Benziger Brothers; title page undated, copyright 1903) | have-ocr | IA `greatencyclicall00cathuoft` |
+| The Pope and the People: Select Letters and Addresses on Social Questions, ed. W. H. Eyre (London and Leamington: Art and Book Company, 1895) | have-ocr | IA `cu31924012755975` |
+| The Church and Civilization: Pastoral Letters for Lent 1877-1878, by Cardinal Pecci (New York: P. O'Shea, 1878) | have-ocr | IA `churchcivilizati0000leox` |
+| Encyclical Letter on the Christian Constitution of States (Immortale Dei), Latin text and authorised translation (London, 1886) | have-ocr | IA `immoratiedeiency00leox` |
+| On the Condition of Labor (Rerum Novarum), official translation (New York, Cincinnati, Chicago: Benziger Brothers, 1891) | have-ocr | IA `onconditionoflab00leox` |
+| Encyclical Letter on the Study of Holy Scripture (Providentissimus Deus), official translation (Staten Island: Mission of the Immaculate Virgin, 1894) | have-ocr | IA `encyclicalletter00leox` |
+| Apostolic Letter on the Reunion of Christendom (Praeclara gratulationis), reprinted from The Universe (London, 1894) | have-ocr | IA `apostoliclettero00leox` |
+| Encyclical Letter on the Unity of the Church (Satis Cognitum), authorised translation (London: Catholic Truth Society; title page undated, the encyclical dated 29 June 1896) | have-ocr | IA `EncyclicalLetterOfPopeLeoXIII` |
+| Leo XIII to the Bishops of Brazil on the Church and Slavery (Baltimore: John Murphy for St. Joseph's Seminary; title page undated, catalogued 1888) | have-ocr | IA `leoxiiitobishops00cath` |
+| The Latin Poems of Leo XIII, done into English verse by the Jesuits of Woodstock College (Toronto: People's Publishing, 1887) | have-ocr | IA `latinpoemsofleox00leoxuoft` |
+| Poems, Charades, Inscriptions of Pope Leo XIII, with English translation and notes by H. T. Henry (New York and Philadelphia: Dolphin Press, 1902) | have-ocr | IA `poemscharadesins00leox` |
+| Second and third editions of the Great Encyclical Letters (the third catalogued 1892 from a portrait-plate copyright); the 1903 enlarged Pope and the People; a Boston Condition of Labor | alternate | not shelved |
+| 1931-1998 collections and reprints | excluded | |
+| Henry George's open letter, Doyle's life and other books about or answering him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
