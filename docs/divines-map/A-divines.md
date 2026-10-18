@@ -6387,3 +6387,18 @@ Slugs `hettinger-*`. Würzburg apologist, in English.
 | The Supremacy of the Apostolic See in the Church, tr. George Porter (London: Burns & Oates; no year on the title page) | have-ocr | IA `a587442000hettuoft` |
 | Natural Religion third edition (1898); Revealed Religion (Pustet, 1895); other Dante copies | alternate | not shelved |
 | French and German editions | excluded | |
+
+## Constant Fouard (round 29, my pick, 2026-10-18)
+
+Slugs `fouard-*`. The Beginnings of the Church series in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christ the Son of God, vol. I, tr. George F. X. Griffith (New York and London: Longmans, Green, 1891) | have-ocr | IA `ChristTheSonOfGodV1` |
+| The Christ the Son of God, vol. II, tr. George F. X. Griffith (New York and London: Longmans, Green, 1891) | have-ocr | IA `ChristTheSonOfGodV2` |
+| Saint Peter and the First Years of Christianity, second issue, tr. George F. X. Griffith (New York and London: Longmans, Green, 1893) | have-ocr | IA `saintpeterfirsty00foua` |
+| Saint Paul and his Missions, tr. George F. X. Griffith (New York and London: Longmans, Green, 1894) | have-ocr | IA `saintpaulhismiss0000foua_h6w7` |
+| The Last Years of Saint Paul, tr. George F. X. Griffith (New York and London: Longmans, Green, 1900) | have-ocr | IA `lastyearsofsaint0000abbe` |
+| Saint John and the Close of the Apostolic Age, authorised translation (New York: Longmans, Green, 1905) | have-ocr | IA `saintjohnandclo00fouagoog` |
+| Later Longmans issues of each (1903-1920) | alternate | not shelved |
+| 1953-1954 and post-1929 reprints | excluded | |

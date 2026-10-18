@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain Constant Fouard (1837-1903, French priest and New Testament historian) in English for the Word Hoard: The Christ, the Son of God (2 vols, 1891), St. Peter (1893), St. Paul and his Missions (1894) and The Last Years of St. Paul (1900), tr. George F. X. Griffith, and St. John and the Close of the Apostolic Age (1905), all Longmans, from Internet Archive scans. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fouard"
+ ],
+ "_surname": [
+  "fouard",
+  "constant fouard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fouard-christ-son-of-god-1": [
+   "ChristTheSonOfGodV1",
+   "The Christ the Son of God, vol. I, tr. George F. X. Griffith (New York and London: Longmans, Green, 1891)"
+  ],
+  "fouard-christ-son-of-god-2": [
+   "ChristTheSonOfGodV2",
+   "The Christ the Son of God, vol. II, tr. George F. X. Griffith (New York and London: Longmans, Green, 1891)"
+  ],
+  "fouard-saint-peter": [
+   "saintpeterfirsty00foua",
+   "Saint Peter and the First Years of Christianity, second issue, tr. George F. X. Griffith (New York and London: Longmans, Green, 1893)"
+  ],
+  "fouard-saint-paul-missions": [
+   "saintpaulhismiss0000foua_h6w7",
+   "Saint Paul and his Missions, tr. George F. X. Griffith (New York and London: Longmans, Green, 1894)"
+  ],
+  "fouard-last-years-saint-paul": [
+   "lastyearsofsaint0000abbe",
+   "The Last Years of Saint Paul, tr. George F. X. Griffith (New York and London: Longmans, Green, 1900)"
+  ],
+  "fouard-saint-john": [
+   "saintjohnandclo00fouagoog",
+   "Saint John and the Close of the Apostolic Age, authorised translation (New York: Longmans, Green, 1905)"
+  ]
+ },
+ "_alternates": {
+  "fouard-copies": "Later Longmans issues of each (1903-1920)"
+ },
+ "_excluded": {
+  "fouard-late": "1953-1954 and post-1929 reprints"
+ },
+ "_rights_checked": {
+  "fouard-saint-john": "title page read: 'Authorised Translation', no translator named; Longmans, 1905 (OCR '1 90s'), copyright 1905"
+ },
+ "_pending": {},
+ "_translators": {
+  "fouard-christ-son-of-god-1": "griffith",
+  "fouard-christ-son-of-god-2": "griffith",
+  "fouard-saint-peter": "griffith",
+  "fouard-saint-paul-missions": "griffith",
+  "fouard-last-years-saint-paul": "griffith"
+ },
+ "_checks": {
+  "fouard-christ-son-of-god-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "translator_claimed": "griffith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouard-christ-son-of-god-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "translator_claimed": "griffith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouard-saint-peter": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "translator_claimed": "griffith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouard-saint-paul-missions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "translator_claimed": "griffith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouard-last-years-saint-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "translator_claimed": "griffith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fouard-saint-john": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fouard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Authorised Translation', no translator named; Longmans, 1905 (OCR '1 90s'), copyright 1905"
+  }
+ }
+}
