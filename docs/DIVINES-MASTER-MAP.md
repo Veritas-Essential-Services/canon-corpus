@@ -24685,6 +24685,57 @@ Shelf: `pipeline/william-le-queux_shelf.json` (2026-10-17; added at the coordina
 | pg-59638 | excluded | PG 59638: Gutenberg's index of Le Queux's works, not a book. |
 | pg-51307 | excluded | PG 51307 This House to Let: a second Gutenberg edition of a title already on the shelf. |
 
+## Edgar Wallace
+
+Shelf: `pipeline/edgar-wallace_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Thrillers and the Sanders of the River stories. Every English text under the name at Gutenberg that no other shelf holds (44 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Clue of the Twisted Candle | have | PG 2688, `ewallace-clue-of-the-twisted-candle` (2047 units) |
+| The Daffodil Mystery | have | PG 20912, `ewallace-daffodil-mystery` (2387 units) |
+| The Angel of Terror | have | PG 21530, `ewallace-angel-of-terror` (2440 units) |
+| "Bones": Being Further Adventures in Mr. Commissioner Sanders' Country | have | PG 24450, `ewallace-bones` (1874 units) |
+| Jack O' Judgment | have | PG 24767, `ewallace-jack-o-judgment` (2771 units) |
+| The Book of All-Power | have | PG 24920, `ewallace-book-of-all-power` (1763 units) |
+| The Green Rust | have | PG 24929, `ewallace-green-rust` (3085 units) |
+| The Man Who Knew | have | PG 24933, `ewallace-man-who-knew` (1913 units) |
+| Tam o' the Scoots | have | PG 25038, `ewallace-tam-o-the-scoots` (1311 units) |
+| The Keepers of the King's Peace | have | PG 25803, `ewallace-keepers-of-the-kings-peace` (2036 units) |
+| The Secret House | have | PG 26176, `ewallace-secret-house` (1882 units) |
+| Bones in London | have | PG 27525, `ewallace-bones-in-london` (2353 units) |
+| Sanders of the river | have | PG 35545, `ewallace-sanders-of-the-river` (2104 units) |
+| Bosambo of the River | have | PG 49657, `ewallace-bosambo-of-the-river` (2096 units) |
+| Writ in Barracks | have | PG 49658, `ewallace-writ-in-barracks` (242 units) |
+| The Duke in the Suburbs | have | PG 49694, `ewallace-duke-in-the-suburbs` (2157 units) |
+| Mr. Justice Maxell | have | PG 60527, `ewallace-mr-justice-maxell` (1871 units) |
+| The Other Man | have | PG 64907, `ewallace-other-man` (2496 units) |
+| Diana of Kara-Kara | have | PG 65383, `ewallace-diana-of-kara-kara` (2557 units) |
+| The avenger | have | PG 69788, `ewallace-avenger` (2223 units) |
+| The Fellowship of the Frog | have | PG 69789, `ewallace-fellowship-of-the-frog` (3508 units) |
+| The Three Just Men | have | PG 69790, `ewallace-three-just-men` (3016 units) |
+| The clue of the new pin | have | PG 70882, `ewallace-clue-of-the-new-pin` (2286 units) |
+| Angel Esquire | have | PG 72316, `ewallace-angel-esquire` (1952 units) |
+| Captains of souls | have | PG 74687, `ewallace-captains-of-souls` (3066 units) |
+| The dark eyes of London | have | PG 75589, `ewallace-dark-eyes-of-london` (2542 units) |
+| The Black Abbot | have | PG 75643, `ewallace-black-abbot` (3313 units) |
+| The melody of death | have | PG 75702, `ewallace-melody-of-death` (1872 units) |
+| The river of stars | have | PG 75729, `ewallace-river-of-stars` (2422 units) |
+| Four square Jane | have | PG 75808, `ewallace-four-square-jane` (1298 units) |
+| The strange countess | have | PG 75858, `ewallace-strange-countess` (2285 units) |
+| Terror keep | have | PG 75949, `ewallace-terror-keep` (1784 units) |
+| Room 13 | have | PG 76168, `ewallace-room-13` (2177 units) |
+| Kate plus 10 | have | PG 76212, `ewallace-kate-plus-10` (1896 units) |
+| The crimson circle | have | PG 76257, `ewallace-crimson-circle` (2343 units) |
+| The tomb of Ts'in | have | PG 76418, `ewallace-tomb-of-tsin` (1956 units) |
+| The adventures of Heine | have | PG 76462, `ewallace-adventures-of-heine` (2476 units) |
+| Red aces | have | PG 76541, `ewallace-red-aces` (2409 units) |
+| The girl from Scotland Yard | have | PG 76677, `ewallace-girl-from-scotland-yard` (2236 units) |
+| The clue of the silver key | have | PG 77643, `ewallace-clue-of-the-silver-key` (2298 units) |
+| The valley of ghosts | have | PG 77976, `ewallace-valley-of-ghosts` (2317 units) |
+| The hand of power | have | PG 78508, `ewallace-hand-of-power` (3454 units) |
+| Gunman's bluff | have | PG 78794, `ewallace-gunmans-bluff` (2507 units) |
+| The fourth plague | have | PG 79658, `ewallace-fourth-plague` (2238 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,665 @@
+{
+ "_about": "Edgar Wallace's thrillers and the Sanders of the River stories; the Sanders books describe African peoples in the terms of their time: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edgar Wallace",
+ "_name_words": [
+  "wallace"
+ ],
+ "_surname": [
+  "edgar wallace"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ewallace-clue-of-the-twisted-candle": [
+   2688,
+   "The Clue of the Twisted Candle"
+  ],
+  "ewallace-daffodil-mystery": [
+   20912,
+   "The Daffodil Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-angel-of-terror": [
+   21530,
+   "The Angel of Terror"
+  ],
+  "ewallace-bones": [
+   24450,
+   "\"Bones\": Being Further Adventures in Mr. Commissioner Sanders' Country",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-jack-o-judgment": [
+   24767,
+   "Jack O' Judgment",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-book-of-all-power": [
+   24920,
+   "The Book of All-Power"
+  ],
+  "ewallace-green-rust": [
+   24929,
+   "The Green Rust",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-man-who-knew": [
+   24933,
+   "The Man Who Knew"
+  ],
+  "ewallace-tam-o-the-scoots": [
+   25038,
+   "Tam o' the Scoots"
+  ],
+  "ewallace-keepers-of-the-kings-peace": [
+   25803,
+   "The Keepers of the King's Peace",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-secret-house": [
+   26176,
+   "The Secret House"
+  ],
+  "ewallace-bones-in-london": [
+   27525,
+   "Bones in London",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-sanders-of-the-river": [
+   35545,
+   "Sanders of the river",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-bosambo-of-the-river": [
+   49657,
+   "Bosambo of the River"
+  ],
+  "ewallace-writ-in-barracks": [
+   49658,
+   "Writ in Barracks"
+  ],
+  "ewallace-duke-in-the-suburbs": [
+   49694,
+   "The Duke in the Suburbs"
+  ],
+  "ewallace-mr-justice-maxell": [
+   60527,
+   "Mr. Justice Maxell"
+  ],
+  "ewallace-other-man": [
+   64907,
+   "The Other Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-diana-of-kara-kara": [
+   65383,
+   "Diana of Kara-Kara"
+  ],
+  "ewallace-avenger": [
+   69788,
+   "The avenger",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-fellowship-of-the-frog": [
+   69789,
+   "The Fellowship of the Frog",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-three-just-men": [
+   69790,
+   "The Three Just Men",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-clue-of-the-new-pin": [
+   70882,
+   "The clue of the new pin"
+  ],
+  "ewallace-angel-esquire": [
+   72316,
+   "Angel Esquire"
+  ],
+  "ewallace-captains-of-souls": [
+   74687,
+   "Captains of souls",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-dark-eyes-of-london": [
+   75589,
+   "The dark eyes of London",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-black-abbot": [
+   75643,
+   "The Black Abbot",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-melody-of-death": [
+   75702,
+   "The melody of death"
+  ],
+  "ewallace-river-of-stars": [
+   75729,
+   "The river of stars",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-four-square-jane": [
+   75808,
+   "Four square Jane",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-strange-countess": [
+   75858,
+   "The strange countess"
+  ],
+  "ewallace-terror-keep": [
+   75949,
+   "Terror keep"
+  ],
+  "ewallace-room-13": [
+   76168,
+   "Room 13"
+  ],
+  "ewallace-kate-plus-10": [
+   76212,
+   "Kate plus 10",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-crimson-circle": [
+   76257,
+   "The crimson circle",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-tomb-of-tsin": [
+   76418,
+   "The tomb of Ts'in",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-adventures-of-heine": [
+   76462,
+   "The adventures of Heine"
+  ],
+  "ewallace-red-aces": [
+   76541,
+   "Red aces",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "ewallace-girl-from-scotland-yard": [
+   76677,
+   "The girl from Scotland Yard",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-clue-of-the-silver-key": [
+   77643,
+   "The clue of the silver key"
+  ],
+  "ewallace-valley-of-ghosts": [
+   77976,
+   "The valley of ghosts"
+  ],
+  "ewallace-hand-of-power": [
+   78508,
+   "The hand of power",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewallace-gunmans-bluff": [
+   78794,
+   "Gunman's bluff"
+  ],
+  "ewallace-fourth-plague": [
+   79658,
+   "The fourth plague",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ewallace-clue-of-the-twisted-candle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-daffodil-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-angel-of-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-bones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-jack-o-judgment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-book-of-all-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-green-rust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-man-who-knew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-tam-o-the-scoots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-keepers-of-the-kings-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-secret-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-bones-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-sanders-of-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-bosambo-of-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-writ-in-barracks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-duke-in-the-suburbs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-mr-justice-maxell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-other-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-diana-of-kara-kara": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-avenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-fellowship-of-the-frog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-three-just-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-clue-of-the-new-pin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-angel-esquire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-captains-of-souls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-dark-eyes-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-black-abbot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-melody-of-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-river-of-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-four-square-jane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-strange-countess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-terror-keep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-room-13": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-kate-plus-10": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-crimson-circle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-tomb-of-tsin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-adventures-of-heine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-red-aces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-girl-from-scotland-yard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-clue-of-the-silver-key": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-valley-of-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-hand-of-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-gunmans-bluff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewallace-fourth-plague": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
