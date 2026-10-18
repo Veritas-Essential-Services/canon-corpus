@@ -1,5 +1,5 @@
 {
- "_about": "W. E. H. Lecky (1838-1903): History of European Morals from Augustus to Charlemagne, 9th ed. (London: Longmans, Green, 1890, 2 vols.) and The Map of Life, conduct and character (Longmans; cabinet edition, reprint of December 1902), clean Gutenberg texts. His History of Rationalism waits for a matched pair of volumes. US public domain. No uids minted.",
+ "_about": "W. E. H. Lecky (1838-1903): History of European Morals from Augustus to Charlemagne, 9th ed. (London: Longmans, Green, 1890, 2 vols.) and The Map of Life, conduct and character (Longmans; cabinet edition, reprint of December 1902), clean Gutenberg texts. Added in round aj: History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR); History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873). US public domain. No uids minted.",
  "_author": "W. E. H. Lecky",
  "_name_words": [
   "william",
@@ -25,7 +25,16 @@
    "The Map of Life: conduct and character (London: Longmans, Green; reprint of 1902)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lecky-spirit-of-rationalism-1873-v1": [
+   "riseinfluenceofs01leckiala",
+   "History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. I (London: Longmans, Green, 1873; the edition number is garbled in the OCR)"
+  ],
+  "lecky-spirit-of-rationalism-1873-v2": [
+   "riseinfluenceofs02leckiala",
+   "History of the Rise and Influence of the Spirit of Rationalism in Europe, vol. II (London: Longmans, Green, 1873)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "lecky-european-morals-1890-v1": {
@@ -54,6 +63,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "lecky-spirit-of-rationalism-1873-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lecky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lecky-spirit-of-rationalism-1873-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lecky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
