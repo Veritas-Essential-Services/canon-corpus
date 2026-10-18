@@ -4388,7 +4388,7 @@ Shelf: `pipeline/lessing-philosophy_shelf.json`. The Education of the Human Race
 
 ## Bertrand Russell
 
-Shelf: `pipeline/bertrand-russell_shelf.json`. Sixteen works, 1897-1930: fifteen from Gutenberg and Introduction to Mathematical Philosophy (1920) from an IA scan. Held: Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), both post-1930 printings.
+Shelf: `pipeline/bertrand-russell_shelf.json`. Twenty-four works, 1896-1930: fifteen from Gutenberg, the rest from IA scans with title page years read. Mysticism and Logic and The Problem of China come from first printings; the post-1930 PG etexts (PG 25447, PG 13940) stay untaken.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -4408,8 +4408,16 @@ Shelf: `pipeline/bertrand-russell_shelf.json`. Sixteen works, 1897-1930: fifteen
 | Philosophy (New York: Norton, 1927) |  | `russell-philosophy-1927` | have (PG 72981) |
 | The Conquest of Happiness (London: Allen and Unwin, 1930) |  | `russell-conquest-of-happiness-1930` | have (PG 77894) |
 | Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920) |  | `russell-introduction-to-mathematical-philosophy-1920` | have-raw (IA `introductiontoma00russuoft`) |
+| German Social Democracy, six lectures (Longmans, 1896) |  | `russell-german-social-democracy-1896` | have-raw (IA `germansocialdem00russgoog`) |
+| A Critical Exposition of the Philosophy of Leibniz (Cambridge, 1900) |  | `russell-philosophy-of-leibniz-1900` | have-raw (IA `cu31924052172271`) |
+| The Principles of Mathematics, vol. I (Cambridge, 1903) |  | `russell-principles-of-mathematics-1903-v1` | have-raw (IA `cu31924001610421`) |
+| Justice in War-Time (Open Court, 1916) |  | `russell-justice-in-war-time-1916` | have-raw (IA `cu31924026354609`) |
+| Mysticism and Logic, and other essays (Longmans, 1918) |  | `russell-mysticism-and-logic-1918` | have-raw (IA `mysticismlogicot00russuoft`) |
+| The Problem of China (Allen and Unwin, 1922) |  | `russell-problem-of-china-1922` | have-raw (IA `problemofchina00russ`) |
+| The Analysis of Matter (Kegan Paul; Harcourt, Brace, 1927) |  | `russell-analysis-of-matter-1927` | have-raw (IA `analysisofmatter0000bert`) |
+| Marriage and Morals (Horace Liveright, 1929) |  | `russell-marriage-and-morals-1929` | have-raw (IA `marriagemorals0000bert_f0s3`) |
 
-Pending (wishlist): The Analysis of Matter (1927), Principia Mathematica (1910-13): need a non-plain-text source
+Pending (wishlist): The Prospects of Industrial Civilization (1923) and Sceptical Essays (1928), dated scans; Principia Mathematica (1910-13) needs a non-OCR source.
 
 ## G. E. Moore
 

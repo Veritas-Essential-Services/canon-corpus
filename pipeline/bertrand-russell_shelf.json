@@ -1,5 +1,5 @@
 {
- "_about": "Bertrand Russell (1872-1970), from Project Gutenberg: An Essay on the Foundations of Geometry (Cambridge, 1897), The Problems of Philosophy (1912), Our Knowledge of the External World (1914; the etext is a 1922 reissue), Why Men Fight (Century, 1920; copyright 1916), Political Ideals (1917) and Proposed Roads to Freedom (1918) (both etexts name no printing), The Practice and Theory of Bolshevism (1920; reprinted February 1921), The Analysis of Mind (1921), Free Thought and Official Propaganda (1922), Icarus, or the Future of Science (1924), What I Believe (Dutton, 1925), The A B C of Relativity (Harper, 1925), Education and the Good Life (Boni and Liveright, 1926), Philosophy (Norton, 1927) and The Conquest of Happiness (Allen and Unwin, 1930). All published 1930 or earlier, so US public domain (the 1930 book since January 2026). Held: Mysticism and Logic (PG 25447; the etext is an impression printed after 1956) and The Problem of China (PG 13940; a 1966 impression), both post-1930 printings (Adam's open class). Also, from a raw IA scan: Introduction to Mathematical Philosophy, second edition (Allen and Unwin, 1920). Not taken: The Analysis of Matter, The A B C of Atoms and Principia Mathematica (PG gives no plain-text file for them, only formats with mathematical notation). No uids minted.",
+ "_about": "Bertrand Russell (1872-1970), from Project Gutenberg: An Essay on the Foundations of Geometry (Cambridge, 1897), The Problems of Philosophy (1912), Our Knowledge of the External World (1914; the etext is a 1922 reissue), Why Men Fight (Century, 1920; copyright 1916), Political Ideals (1917) and Proposed Roads to Freedom (1918) (both etexts name no printing), The Practice and Theory of Bolshevism (1920; reprinted February 1921), The Analysis of Mind (1921), Free Thought and Official Propaganda (1922), Icarus, or the Future of Science (1924), What I Believe (Dutton, 1925), The A B C of Relativity (Harper, 1925), Education and the Good Life (Boni and Liveright, 1926), Philosophy (Norton, 1927) and The Conquest of Happiness (Allen and Unwin, 1930). All published 1930 or earlier, so US public domain (the 1930 book since January 2026). Also, from a raw IA scan: Introduction to Mathematical Philosophy, second edition (Allen and Unwin, 1920). Added in round 2026-10-18cj, raw IA OCR with title page years read: German Social Democracy (Longmans, 1896); A Critical Exposition of the Philosophy of Leibniz (Cambridge, 1900); The Principles of Mathematics, vol. I, the only volume published (Cambridge, 1903), clean 0.93; Justice in War-Time (Chicago: Open Court, 1916); Mysticism and Logic (Longmans, 1918) and The Problem of China (Allen and Unwin, 1922), first printings that replace the post-1930 PG etexts (PG 25447, PG 13940), which stay untaken; The Analysis of Matter (1927), clean 0.91; Marriage and Morals (New York: Horace Liveright, 1929). Held: The Prospects of Industrial Civilization (1923) and Sceptical Essays (1928), as no scan found shows a printed year. Not taken: The A B C of Atoms and Principia Mathematica (the notation does not survive OCR). No uids minted.",
  "_author": "Bertrand Russell",
  "_name_words": [
   "bertrand",
@@ -80,13 +80,45 @@
   "russell-introduction-to-mathematical-philosophy-1920": [
    "introductiontoma00russuoft",
    "Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920)"
+  ],
+  "russell-german-social-democracy-1896": [
+   "germansocialdem00russgoog",
+   "German Social Democracy, six lectures (Longmans, 1896)"
+  ],
+  "russell-philosophy-of-leibniz-1900": [
+   "cu31924052172271",
+   "A Critical Exposition of the Philosophy of Leibniz (Cambridge, 1900)"
+  ],
+  "russell-principles-of-mathematics-1903-v1": [
+   "cu31924001610421",
+   "The Principles of Mathematics, vol. I (Cambridge, 1903)"
+  ],
+  "russell-justice-in-war-time-1916": [
+   "cu31924026354609",
+   "Justice in War-Time (Open Court, 1916)"
+  ],
+  "russell-mysticism-and-logic-1918": [
+   "mysticismlogicot00russuoft",
+   "Mysticism and Logic, and other essays (Longmans, 1918)"
+  ],
+  "russell-problem-of-china-1922": [
+   "problemofchina00russ",
+   "The Problem of China (Allen and Unwin, 1922)"
+  ],
+  "russell-analysis-of-matter-1927": [
+   "analysisofmatter0000bert",
+   "The Analysis of Matter (Kegan Paul; Harcourt, Brace, 1927)"
+  ],
+  "russell-marriage-and-morals-1929": [
+   "marriagemorals0000bert_f0s3",
+   "Marriage and Morals (Horace Liveright, 1929)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "russell-foundations-of-geometry-1897": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -95,7 +127,7 @@
   },
   "russell-problems-of-philosophy-1912": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -104,7 +136,7 @@
   },
   "russell-our-knowledge-of-the-external-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -113,7 +145,7 @@
   },
   "russell-why-men-fight-1920": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -122,7 +154,7 @@
   },
   "russell-political-ideals": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -131,7 +163,7 @@
   },
   "russell-proposed-roads-to-freedom": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -140,7 +172,7 @@
   },
   "russell-practice-theory-of-bolshevism-1920": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -149,7 +181,7 @@
   },
   "russell-analysis-of-mind-1921": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -158,7 +190,7 @@
   },
   "russell-free-thought-official-propaganda-1922": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -167,7 +199,7 @@
   },
   "russell-icarus-1924": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -176,7 +208,7 @@
   },
   "russell-what-i-believe-1925": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -185,7 +217,7 @@
   },
   "russell-abc-of-relativity-1925": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -194,7 +226,7 @@
   },
   "russell-education-and-the-good-life-1926": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -203,7 +235,7 @@
   },
   "russell-philosophy-1927": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -212,7 +244,7 @@
   },
   "russell-conquest-of-happiness-1930": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
@@ -221,13 +253,101 @@
   },
   "russell-introduction-to-mathematical-philosophy-1920": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "russell",
    "identity": "ok",
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "russell-german-social-democracy-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "russell-philosophy-of-leibniz-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "russell-principles-of-mathematics-1903-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "russell-justice-in-war-time-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "russell-mysticism-and-logic-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "russell-problem-of-china-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "russell-analysis-of-matter-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "russell-marriage-and-morals-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-12",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
