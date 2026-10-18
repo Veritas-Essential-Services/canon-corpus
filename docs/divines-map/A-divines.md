@@ -8618,3 +8618,18 @@ Slugs `jcrobertson-*`. Built from title pages read for round 35.
 | History of the Christian Church, from the Apostolic Age to the Reformation, new and revised edition, vol. VIII (London: John Murray, 1875) | have-ocr | IA `historyofchristi08robe` |
 | Becket, Archbishop of Canterbury: a Biography (London: John Murray, 1859) | have-ocr | IA `becketarchbishop00robeuoft` |
 | The earlier four-volume edition (third edition vol. I 1864, vol. II 1862 and 1868, vol. III 1866, vol. IV 1873); later reprints of the eight volumes; CCEL robertson/history (Sketches, Gorham 1904) | alternate | not shelved |
+
+## George Park Fisher (round 35, my pick, 2026-10-18)
+
+Slugs `gpfisher-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Supernatural Origin of Christianity, with special reference to the theories of Renan, Strauss, and the Tübingen School (New York: Charles Scribner & Co., 1866) | have-ocr | IA `supernatural00fishuoft` |
+| The Reformation (New York: Scribner, Armstrong, 1873) | have-ocr | IA `reformation187300fish` |
+| The Beginnings of Christianity, with a View of the State of the Roman World at the Birth of Christ (New York: Scribner, Armstrong, 1877) | have-ocr | IA `beginningsofchri00fish` |
+| The Grounds of Theistic and Christian Belief (New York: Charles Scribner's Sons, 1883) | have-ocr | IA `groundsoftheist00fish` |
+| History of the Christian Church (New York: Charles Scribner's Sons, 1887) | have-ocr | IA `historyofchrist00fish` |
+| History of Christian Doctrine (New York: Charles Scribner's Sons, 1896) | have-ocr | IA `historyofchristi96fish` |
+| History of the Christian Church 1888 and Hodder copies; the Edinburgh History of Christian Doctrine (year not read); CCEL fisher/reform (print source not read) | alternate | not shelved |
+| Outlines of Universal History (PG 8896), not church history | excluded | |

@@ -1789,3 +1789,6 @@
 
 ## 2026-10-17 22:31 CDT — james-craigie-robertson done
 - `pipeline/james-craigie-robertson_shelf.json`: 0 CCEL, 1 PG, 9 IA. Title pages read for jcrobertson-becket (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — george-park-fisher done
+- `pipeline/george-park-fisher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gpfisher-reformation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

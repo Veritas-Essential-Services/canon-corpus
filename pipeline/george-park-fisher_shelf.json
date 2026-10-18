@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain George Park Fisher (1827-1909), Titus Street Professor of Ecclesiastical History at Yale, for the Word Hoard: Essays on the Supernatural Origin of Christianity (1866), The Reformation (1873), The Beginnings of Christianity (1877), The Grounds of Theistic and Christian Belief (1883), History of the Christian Church (1887) and History of Christian Doctrine (1896), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fisher"
+ ],
+ "_surname": [
+  "george park fisher",
+  "george p. fisher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gpfisher-supernatural-origin": [
+   "supernatural00fishuoft",
+   "Essays on the Supernatural Origin of Christianity, with special reference to the theories of Renan, Strauss, and the Tübingen School (New York: Charles Scribner & Co., 1866)"
+  ],
+  "gpfisher-reformation": [
+   "reformation187300fish",
+   "The Reformation (New York: Scribner, Armstrong, 1873)"
+  ],
+  "gpfisher-beginnings-christianity": [
+   "beginningsofchri00fish",
+   "The Beginnings of Christianity, with a View of the State of the Roman World at the Birth of Christ (New York: Scribner, Armstrong, 1877)"
+  ],
+  "gpfisher-grounds-belief": [
+   "groundsoftheist00fish",
+   "The Grounds of Theistic and Christian Belief (New York: Charles Scribner's Sons, 1883)"
+  ],
+  "gpfisher-history-church": [
+   "historyofchrist00fish",
+   "History of the Christian Church (New York: Charles Scribner's Sons, 1887)"
+  ],
+  "gpfisher-history-doctrine": [
+   "historyofchristi96fish",
+   "History of Christian Doctrine (New York: Charles Scribner's Sons, 1896)"
+  ]
+ },
+ "_alternates": {
+  "gpfisher-copies": "History of the Christian Church 1888 and Hodder copies; the Edinburgh History of Christian Doctrine (year not read); CCEL fisher/reform (print source not read)"
+ },
+ "_excluded": {
+  "gpfisher-other": "Outlines of Universal History (PG 8896), not church history"
+ },
+ "_identity_checked": {
+  "gpfisher-reformation": {
+   "author": "title page read: The Reformation, BY GEOEGE P. FISHER [George P. Fisher] (OCR garble), D.D., Professor of Ecclesiastical History in Yale College, New York: Scribner, Armstrong, and Co., 1873"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gpfisher-supernatural-origin": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george p. fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gpfisher-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpfisher-beginnings-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george p. fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpfisher-grounds-belief": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george p. fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gpfisher-history-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george park fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpfisher-history-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george park fisher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
