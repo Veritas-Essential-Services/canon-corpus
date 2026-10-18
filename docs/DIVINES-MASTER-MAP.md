@@ -30166,6 +30166,19 @@ Shelf: `pipeline/sterne_shelf.json` (2026-10-17; added at the coordinator's rela
 | The Journal to Eliza and Various letters by Laurence Sterne and Elizabeth Draper | have | PG 60563, `sterne-journal-to-eliza-and-various-letters-by-laurence-ster` (641 units) |
 | repeat-editions | excluded | PG 39270: second Gutenberg editions of titles already on the shelf. |
 
+## Thomas Love Peacock
+
+Shelf: `pipeline/peacock_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maid Marian | have | PG 966, `peacock-maid-marian` (675 units) |
+| Crotchet Castle | have | PG 2075, `peacock-crotchet-castle` (758 units) |
+| Nightmare Abbey | have | PG 9909, `peacock-nightmare-abbey` (690 units) |
+| Headlong Hall | have | PG 12803, `peacock-headlong-hall` (533 units) |
+| Gryll Grange | have | PG 21514, `peacock-gryll-grange` (1546 units) |
+| Melincourt | have | PG 75943, `peacock-melincourt` (1509 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

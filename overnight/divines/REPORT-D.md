@@ -1395,3 +1395,6 @@
 
 ## 2026-10-17 19:55 CDT — sterne: done
 - sterne: new shelf, 4 Gutenberg books, 4,264 units, 1234 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:55 CDT — peacock: done
+- peacock: new shelf, 6 Gutenberg books, 5,711 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags.
