@@ -1,5 +1,5 @@
 {
- "_about": "F. C. S. Schiller (1864-1937), the Oxford pragmatist, raw IA OCR: Humanism, philosophical essays (London: Macmillan, 1903), Studies in Humanism, second edition (Macmillan, 1912) and Formal Logic, a scientific and social problem (Macmillan, 1912). US public domain. Not to be confused with schiller-essays (Friedrich Schiller). Held: Riddles of the Sphinx (the scan's title page carries no year). No uids minted.",
+ "_about": "F. C. S. Schiller (1864-1937), the Oxford pragmatist, raw IA OCR: Humanism, philosophical essays (London: Macmillan, 1903), Studies in Humanism, second edition (Macmillan, 1912) and Formal Logic, a scientific and social problem (Macmillan, 1912). Added in round am: Riddles of the Sphinx: a study in the philosophy of evolution, published as 'by a Troglodyte' (London: Swan Sonnenschein, 1891). US public domain. Not to be confused with schiller-essays (Friedrich Schiller). No uids minted.",
  "_author": "F. C. S. Schiller",
  "_name_words": [
   "f",
@@ -27,13 +27,17 @@
   "fcs-schiller-formal-logic-1912": [
    "formallogicscie00schi",
    "Formal Logic: a scientific and social problem (London: Macmillan, 1912)"
+  ],
+  "fcs-schiller-riddles-of-the-sphinx-1891": [
+   "cu31924070684885",
+   "Riddles of the Sphinx: a study in the philosophy of evolution, published as 'by a Troglodyte' (London: Swan Sonnenschein, 1891)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "fcs-schiller-humanism-1903": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "schiller",
    "identity": "ok",
@@ -44,7 +48,7 @@
   },
   "fcs-schiller-studies-in-humanism-1912": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "schiller",
    "identity": "ok",
@@ -55,7 +59,7 @@
   },
   "fcs-schiller-formal-logic-1912": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "schiller",
    "identity": "ok",
@@ -63,6 +67,22 @@
    "ia_date": "1912",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "fcs-schiller-riddles-of-the-sphinx-1891": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "fcs-schiller-riddles-of-the-sphinx-1891": {
+   "author": "Published anonymously as 'by a Troglodyte'; the Cornell copy carries a handwritten attribution to F. C. S. Schiller (OCR-garbled), and the title is his known first book (Swan Sonnenschein, 1891)."
   }
  }
 }

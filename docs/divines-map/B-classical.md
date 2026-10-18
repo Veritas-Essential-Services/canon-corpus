@@ -4738,6 +4738,7 @@ Shelf: `pipeline/fcs-schiller_shelf.json`. Humanism (1903), Studies in Humanism 
 | Humanism: philosophical essays (London: Macmillan, 1903) |  | `fcs-schiller-humanism-1903` | have-raw (IA `humanismphilosop00schiuoft`) |
 | Studies in Humanism, second edition (London: Macmillan, 1912) |  | `fcs-schiller-studies-in-humanism-1912` | have-raw (IA `studiesinhumanis00schi`) |
 | Formal Logic: a scientific and social problem (London: Macmillan, 1912) |  | `fcs-schiller-formal-logic-1912` | have-raw (IA `formallogicscie00schi`) |
+| Riddles of the Sphinx: a study in the philosophy of evolution, published as 'by a Troglodyte' (London: Swan Sonnenschein, 1891) |  | `fcs-schiller-riddles-of-the-sphinx-1891` | have-raw (IA `cu31924070684885`) |
 
 ## H. L. Mansel
 
