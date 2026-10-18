@@ -1,0 +1,330 @@
+{
+ "_about": "SERIES SHELF of Philosophical Classics for English Readers (Edinburgh and London: William Blackwood and Sons, 1880-1890; American issue Philadelphia: J. B. Lippincott), edited by William Knight: one book per great philosopher, life and thought explained in English by a British scholar. Fourteen volumes, each dated on its title page (most in Roman numerals; a few are early Blackwood reprints, dated with their first year): Descartes (J. P. Mahaffy, 1880), Butler (W. Lucas Collins, 1881), Berkeley (Alexander Campbell Fraser, 1881, reprint 1884), Fichte (Robert Adamson, 1881), Kant (William Wallace, 1882), Hegel (Edward Caird, 1883, reprint 1886), Leibniz (John Theodore Merz, 1884; the OCR reads the year MDCCCLXXX1V), Vico (Robert Flint, 1884), Hobbes (George Croom Robertson, 1886), Hume (William Knight, 1886), Spinoza (John Caird, 1888, reprint 1899), Francis Bacon in two parts (John Nichol, 1888-1889) and Locke (Alexander Campbell Fraser, 1890). Raw Internet Archive OCR, clean 0.90-0.95. The fifteenth, John Veitch's Hamilton (1882), is already on the john-veitch shelf and is not repeated. Not used: a 1969 Books for Libraries reprint of Mahaffy's Descartes, and scans of Wallace's Kant and Caird's Spinoza whose OCR lacks the author's name. Each title gates on its own author's name. US public domain. No uids minted.",
+ "_author": "Philosophical Classics for English Readers (ed. William Knight)",
+ "_name_words": [
+  "adamson",
+  "caird",
+  "campbell fraser",
+  "collins",
+  "croom robertson",
+  "edward caird",
+  "fraser",
+  "john caird",
+  "john nichol",
+  "lucas collins",
+  "mahaffy",
+  "merz",
+  "nichol",
+  "professor flint",
+  "robert flint",
+  "theodore merz",
+  "wallace",
+  "william knight",
+  "william wallace"
+ ],
+ "_name_words_note": "Volume authors only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "adamson",
+  "caird",
+  "campbell fraser",
+  "collins",
+  "croom robertson",
+  "edward caird",
+  "fraser",
+  "john caird",
+  "john nichol",
+  "lucas collins",
+  "mahaffy",
+  "merz",
+  "nichol",
+  "professor flint",
+  "robert flint",
+  "theodore merz",
+  "wallace",
+  "william knight",
+  "william wallace"
+ ],
+ "_surname_by_slug": {
+  "pcer-descartes-1880": [
+   "mahaffy"
+  ],
+  "pcer-butler-1881": [
+   "collins",
+   "lucas collins"
+  ],
+  "pcer-berkeley-1881": [
+   "campbell fraser",
+   "fraser"
+  ],
+  "pcer-fichte-1881": [
+   "adamson"
+  ],
+  "pcer-kant-1882": [
+   "william wallace",
+   "wallace"
+  ],
+  "pcer-hegel-1883": [
+   "edward caird",
+   "caird"
+  ],
+  "pcer-leibniz-1884": [
+   "merz",
+   "theodore merz"
+  ],
+  "pcer-vico-1884": [
+   "robert flint",
+   "professor flint"
+  ],
+  "pcer-hobbes-1886": [
+   "croom robertson"
+  ],
+  "pcer-hume-1886": [
+   "william knight"
+  ],
+  "pcer-spinoza-1888": [
+   "john caird",
+   "caird"
+  ],
+  "pcer-bacon-1-1888": [
+   "john nichol",
+   "nichol"
+  ],
+  "pcer-bacon-2-1889": [
+   "john nichol",
+   "nichol"
+  ],
+  "pcer-locke-1890": [
+   "campbell fraser",
+   "fraser"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pcer-descartes-1880": [
+   "descartes00maharich",
+   "Descartes, by J. P. Mahaffy (Blackwood, 1880)"
+  ],
+  "pcer-butler-1881": [
+   "butlercollins00coll",
+   "Butler, by W. Lucas Collins (Blackwood, 1881)"
+  ],
+  "pcer-berkeley-1881": [
+   "berkeley00frasgoog",
+   "Berkeley, by Alexander Campbell Fraser (Blackwood, 1881; reprint 1884)"
+  ],
+  "pcer-fichte-1881": [
+   "fichter00adamiala",
+   "Fichte, by Robert Adamson (Blackwood, 1881)"
+  ],
+  "pcer-kant-1882": [
+   "kant01wallgoog",
+   "Kant, by William Wallace (Blackwood, 1882)"
+  ],
+  "pcer-hegel-1883": [
+   "hegelcaird00cairuoft",
+   "Hegel, by Edward Caird (Philadelphia: Lippincott; Edinburgh: Blackwood, 1883; reprint 1886)"
+  ],
+  "pcer-leibniz-1884": [
+   "leibnizm00merzuoft",
+   "Leibniz, by John Theodore Merz (Blackwood, 1884)"
+  ],
+  "pcer-vico-1884": [
+   "vico00flinuoft",
+   "Vico, by Robert Flint (Blackwood, 1884)"
+  ],
+  "pcer-hobbes-1886": [
+   "hobbesrob00robuoft",
+   "Hobbes, by George Croom Robertson (Blackwood, 1886)"
+  ],
+  "pcer-hume-1886": [
+   "humeknight00kniguoft",
+   "Hume, by William Knight (Blackwood, 1886)"
+  ],
+  "pcer-spinoza-1888": [
+   "bmshri.spinoza0000john",
+   "Spinoza, by John Caird (Blackwood, 1888; reprint 1899)"
+  ],
+  "pcer-bacon-1-1888": [
+   "francisbacon0000nich_part1",
+   "Francis Bacon, his Life and Philosophy, part I: Bacon's Life, by John Nichol (Philadelphia: Lippincott; Edinburgh: Blackwood, 1888)"
+  ],
+  "pcer-bacon-2-1889": [
+   "francisbaconhis01nichgoog",
+   "Francis Bacon, his Life and Philosophy, part II: Bacon's Philosophy, by John Nichol (Blackwood, 1889)"
+  ],
+  "pcer-locke-1890": [
+   "fraserslocke00frasuoft",
+   "Locke, by Alexander Campbell Fraser (Blackwood, 1890)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "pcer-hegel-1883": {
+   "author": "OCR prints the author as 'EDWARD CAIED'; title page read: Hegel, by Edward Caird, Professor of Moral Philosophy, University of Glasgow."
+  },
+  "pcer-leibniz-1884": {
+   "author": "OCR prints the author as 'JOHN THEODORE MEBZ'; title page read: Leibniz, by John Theodore Merz."
+  },
+  "pcer-locke-1890": {
+   "author": "OCR prints the author as 'ALEXANDER CAMPBELL ERASER'; title page read: Locke, by Alexander Campbell Fraser, Professor of Logic and Metaphysics, Edinburgh."
+  }
+ },
+ "_checks": {
+  "pcer-descartes-1880": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1880; reprint, 1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-butler-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-berkeley-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "campbell fraser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-fichte-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adamson",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-kant-1882": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william wallace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-hegel-1883": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-leibniz-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-vico-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "professor flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-hobbes-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "croom robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-hume-1886": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william knight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-spinoza-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pcer-bacon-1-1888": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john nichol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pcer-bacon-2-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john nichol",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pcer-locke-1890": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fraser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
