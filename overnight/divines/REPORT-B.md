@@ -1205,3 +1205,12 @@
 - r-b-haldane: 4 books (1903-1922)
 - wilbur-marshall-urban: 3 books (1909-1930)
 - Held: Hegel's Science of Logic, tr. Johnston and Struthers (1929): both IA copies lack a title-page year and vol. II is a photolitho reprint; Lloyd Morgan's Animal Life and Intelligence (no legible title page); Laird and Urban reprints of 1949-1972
+
+## 2026-10-17 21:06 CDT — Round bl: wishlist sweep
+- Wallas: Human Nature in Politics (3rd ed. 1920), Great Society, Art of Thought (1926)
+- Veblen: Business Enterprise 1904, Higher Learning 1918
+- Hobson and Mummery: Physiology of Industry 1889; Clark: Philosophy of Wealth 1887; Thornton: On Labour 1870; Cairnes: Logical Method 1875
+- Marshall: Industry and Trade, Money Credit and Commerce; Laski: Problem of Sovereignty 1917
+- Santayana: Realm of Essence, Platonism and the Spiritual Life, Realm of Matter
+- Pollock and Maitland 1895 (2 vols); Stephen's Criminal Law 1883 (3 vols); Lieber's Political Ethics (2 vols); Mach's Analysis of Sensations 1914
+- Held: Hobson's Imperialism, Cairnes's Leading Principles
