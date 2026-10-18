@@ -1936,3 +1936,6 @@
 
 ## 2026-10-17 23:05 CDT — john-gother done
 - `pipeline/john-gother_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:10 CDT — round 37 closed
+- 23 shelves, 75 items (all IA), 0 mismatched, 0 uids minted. Veto points in DIGEST-A.
