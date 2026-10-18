@@ -1,0 +1,64 @@
+{
+ "_about": "J. E. Cairnes (1823-1875), the last classical economist: The Slave Power, its character, career and probable designs, third edition (New York: Follett, Foster, MDCCCLXIII); Essays in Political Economy, theoretical and applied (London: Macmillan, 1873); Political Essays (London: Macmillan, 1873). Raw IA OCR, clean 0.85-0.93. Wanted: The Character and Logical Method of Political Economy (1857/1875) and Some Leading Principles of Political Economy Newly Expounded (1874). US public domain. No uids minted.",
+ "_author": "J. E. Cairnes",
+ "_name_words": [
+  "john",
+  "elliott",
+  "cairnes"
+ ],
+ "_surname": [
+  "cairnes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cairnes-slave-power-1863": [
+   "slavepoweritscha1863cair",
+   "The Slave Power, third edition (New York: Follett, Foster, 1863)"
+  ],
+  "cairnes-essays-political-economy-1873": [
+   "bub_gb_x5182yt4_0UC",
+   "Essays in Political Economy, Theoretical and Applied (Macmillan, 1873)"
+  ],
+  "cairnes-political-essays-1873": [
+   "politicalessays00cairuoft",
+   "Political Essays (Macmillan, 1873)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cairnes-slave-power-1863": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cairnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cairnes-essays-political-economy-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cairnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cairnes-political-essays-1873": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cairnes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
