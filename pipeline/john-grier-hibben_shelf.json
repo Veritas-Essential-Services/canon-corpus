@@ -1,0 +1,94 @@
+{
+ "_about": "John Grier Hibben (1861-1933), Princeton logician and president of Princeton. Raw IA OCR: Inductive Logic (New York: Scribner's, copyright 1896), clean 0.91; The Problems of Philosophy (copyright 1898; this copy New York: Scribner's, 1906), clean 0.90; Hegel's Logic, an essay in interpretation (New York: Scribner's, 1902), clean 0.92; The Philosophy of the Enlightenment (New York: Scribner's, 1910), clean 0.92; A Defence of Prejudice and other essays (New York: Scribner's, first published 1911; this copy 1912), clean 0.93. US public domain. No uids minted.",
+ "_author": "John Grier Hibben",
+ "_name_words": [
+  "john",
+  "grier",
+  "hibben"
+ ],
+ "_surname": [
+  "hibben"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hibben-inductive-logic-1896": [
+   "in.ernet.dli.2015.272200",
+   "Inductive Logic (Scribner's, 1896)"
+  ],
+  "hibben-problems-of-philosophy-1898": [
+   "problemsofphilos1906hibb",
+   "The Problems of Philosophy (Scribner's, 1898; 1906 printing)"
+  ],
+  "hibben-hegels-logic-1902": [
+   "hegelslogicaness009131mbp",
+   "Hegel's Logic: An Essay in Interpretation (Scribner's, 1902)"
+  ],
+  "hibben-philosophy-of-the-enlightenment-1910": [
+   "cu31924028980304",
+   "The Philosophy of the Enlightenment (Scribner's, 1910)"
+  ],
+  "hibben-defence-of-prejudice-1911": [
+   "adefenceprejudi02hibbgoog",
+   "A Defence of Prejudice (Scribner's, 1911; 1912 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hibben-inductive-logic-1896": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hibben",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hibben-problems-of-philosophy-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hibben",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hibben-hegels-logic-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hibben",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hibben-philosophy-of-the-enlightenment-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hibben",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hibben-defence-of-prejudice-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hibben",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
