@@ -11904,16 +11904,24 @@ Round 6, vetoable. Round 78 (2026-10-17), vetoable: four titles added. Not conve
 | `edwin-arnold-secret-of-death` | The Katha Upanishad | The Secret of Death, from the Sanskrit, with some Collected Poems | Sir Edwin Arnold | 1885 | have-raw | IA `secretofdeathfro00arnouoft` |
 | — | — | light-of-asia: The Light of Asia (1879): Arnold's own poem. | — | — | excluded | — |
 
-## R. T. H. Griffith (Ramayana, Rigveda)
+## R. T. H. Griffith (Ramayana, Rigveda; since round 79 also the Atharva-Veda, Samaveda, White Yajurveda, Idylls from the Sanskrit and Jami's Yusuf and Zulaikha)
 
 Shelf: `pipeline/griffith_shelf.json` · fetch `python3 pipeline/fetch_shelf.py griffith` · titles `python3 pipeline/split_shelf_titles.py griffith`.
-Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 79 (2026-10-17), vetoable: six titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `griffith-ramayana` | Valmiki | The Ramayana | Ralph T. H. Griffith | 1870 | have | PG 24869 |
 | `griffith-rigveda` | Rigveda | The Hymns of the Rigveda, 10 mandalas | Ralph T. H. Griffith | 1889 | have-raw | IA `in.ernet.dli.2015.195721` + IA `in.ernet.dli.2015.195722` |
-| `griffith-atharvaveda` | — | Hymns of the Atharva-veda (1895-96), the Samaveda (1893), the White Yajurveda (1899): on IA; not fetched this run. | — | — | pending | — |
+| `griffith-atharva-1` | Atharva-Veda | The Hymns of the Atharva-Veda, vol. I (Books I-VII) | Ralph T. H. Griffith | 1895 | have-raw | IA `in.ernet.dli.2015.274134` |
+| `griffith-atharva-2` | Atharva-Veda | The Hymns of the Atharva-Veda, vol. II | Ralph T. H. Griffith | 1896 | have-raw | IA `in.ernet.dli.2015.274135` |
+| `griffith-samaveda` | Samaveda | The Hymns of the Samaveda | Ralph T. H. Griffith | 1893 | have-raw | IA `in.ernet.dli.2015.180573` |
+| `griffith-white-yajurveda` | White Yajurveda | The Texts of the White Yajurveda | Ralph T. H. Griffith | 1899 | have-raw | IA `textswhiteyajur01grifgoog` |
+| `griffith-idylls` | Kalidasa, Valmiki and the Mahabharata | Idylls from the Sanskrit | Ralph T. H. Griffith | 1866 | have-raw | IA `idyllsfromsansk00grifgoog` |
+| `griffith-yusuf` | Jami | Yusuf and Zulaikha | Ralph T. H. Griffith | 1882 | have-raw | IA `ysufzulaikhapo00jamiuoft` |
+| — | — | griffith-white-yajurveda-1987: textswhiteyajur00grifgoog is a 1987 Munshiram Manoharlal reprint; the 1899 Lazarus scan was used. | — | — | excluded | — |
+| — | — | griffith-later-editions: Later Lazarus editions (Atharva-Veda 1916-17, Samaveda 1907 and 1926, White Yajurveda 1927) were passed over for the first editions. | — | — | excluded | — |
+| — | — | griffith-birth-of-the-war-god: Already held on singles-literature (Project Gutenberg 31968). | — | — | excluded | — |
 
 ## J. M. Rodwell (Koran)
 
@@ -11945,26 +11953,33 @@ Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `palmer-quran` | The Qur'an | The Qur'an | E. H. Palmer | 1880 | have-raw | IA `1922707.0006.001.umich.edu` + IA `thequraan09unknuoft` |
 | — | — | qurn01unkngoog: Google copy of part II, a duplicate of the Toronto copy (both hold chapters XVII-CXIV; found in the second review round 2026-10-03). Toronto kept for its better OCR. | — | — | excluded | — |
 
-## E. H. Whinfield (Rumi's Masnavi)
+## E. H. Whinfield (Rumi's Masnavi; since round 79 also the Gulshan i Raz, Omar Khayyam's Quatrains and Jami's Lawa'ih)
 
 Shelf: `pipeline/whinfield_shelf.json` · fetch `python3 pipeline/fetch_shelf.py whinfield` · titles `python3 pipeline/split_shelf_titles.py whinfield`.
-Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 79 (2026-10-17), vetoable: three titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `whinfield-masnavi` | Rumi | Masnavi (abridged) | E. H. Whinfield | 1887 | have-raw | IA `cu31924026910251` |
-| `whinfield-omar` | — | Whinfield's Omar Khayyam quatrains are inside Gutenberg 38511, a 1903 compilation with FitzGerald's and Nicolas's versions; it would need cutting by marker. Not fetched. | — | — | pending | — |
+| `whinfield-gulshan` | Mahmud Shabistari | Gulshan i Raz: the Mystic Rose Garden | E. H. Whinfield | 1880 | have-raw | IA `gulshanirazmysti00shabuoft` |
+| `whinfield-quatrains` | Omar Khayyam | The Quatrains of Omar Khayyam | E. H. Whinfield | 1882 | have-raw | IA `in.ernet.dli.2015.38800` |
+| `whinfield-lawaih` | Jami | Lawa'ih: a Treatise on Sufism | E. H. Whinfield and Mirza Muhammad Kazvini | 1906 | have-raw | IA `lawaihvolxvi014972mbp` |
+| — | — | whinfield-omar-pg38511: Gutenberg 38511 mixes Whinfield with FitzGerald and Nicolas; the 1882 Trübner scan is used instead. | — | — | excluded | — |
 
-## R. A. Nicholson (Rumi, Hujwiri)
+## R. A. Nicholson (Rumi, Hujwiri; since round 79 also Ibn al-Arabi's Tarjuman al-Ashwaq, Translations of Eastern Poetry and Prose and the Mathnawi vol. II)
 
 Shelf: `pipeline/nicholson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py nicholson` · titles `python3 pipeline/split_shelf_titles.py nicholson`.
-Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Round 79 (2026-10-17), vetoable: three titles added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `nicholson-kashf-al-mahjub` | Hujwiri | Kashf al-Mahjub | Reynold A. Nicholson | 1911 | have | PG 64786 |
 | `nicholson-divani-shamsi-tabriz` | Rumi | Selected Poems from the Divani Shamsi Tabriz | Reynold A. Nicholson | 1898 | have-raw | IA `india.history.resource.111025` |
-| `nicholson-mathnawi` | — | The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched. | — | — | pending | — |
+| `nicholson-tarjuman` | Ibn al-Arabi | The Tarjuman al-Ashwaq: a Collection of Mystical Odes | Reynold A. Nicholson | 1911 | have-raw | IA `tarjumanalashwaq00ibnaiala` |
+| `nicholson-eastern-poetry` | various Arabic and Persian authors | Translations of Eastern Poetry and Prose | Reynold A. Nicholson | 1922 | have-raw | IA `translationsofea00nich` |
+| `nicholson-mathnawi-2` | Rumi | The Mathnawi of Jalalu'ddin Rumi, vol. II: translation of the First and Second Books | Reynold A. Nicholson | 1926 | have-raw | IA `in.ernet.dli.2015.70297` |
+| `nicholson-mathnawi` | — | The rest of the Mathnawi (Gibb series, 1925-40): the translation of Books I-II (vol. II, 1926) is now held. Vol. IV (1930) waits on the 1930 ruling; the volumes after 1930 are out. Vols I (1925) and III (1929) were not taken because the series puts the Persian text in the odd volumes; check that before adding either. | — | — | pending | — |
+| — | — | nicholson-mathnawi-2-reprint: mathnawiofjalalu0006unse is a 1990 reprint of vol. II (reprint list on its verso); the 1926 DLI scan was used. | — | — | excluded | — |
 
 ## Southey as translator (Amadis, the Cid)
 

@@ -231,3 +231,5 @@
 - 2026-10-17T19:13-05:00: round 77: bidpai (4). --verify --record 0 mismatched. bid-anwar-i-suhaili-wollaston identity override (OCR 'WOLLASTUN').
 
 - 2026-10-17T19:15-05:00: round 78: edwin-arnold +4 (5). --verify --record 0 mismatched. Indian Poetry is an undated impression (flagged).
+
+- 2026-10-17T19:25-05:00: round 79: griffith +6 (8), whinfield +3 (4), nicholson +3 (5). --verify --record 0 mismatched.

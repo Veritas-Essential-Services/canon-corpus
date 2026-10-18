@@ -24,6 +24,36 @@
    "in.ernet.dli.2015.195722",
    "The Hymns of the Rigveda, vol. 2 (1897)",
    "2015.195722.Hymns-Of-The-Rigveda--Vol2_djvu.txt"
+  ],
+  "griffith-atharva-1": [
+   "in.ernet.dli.2015.274134",
+   "The Hymns of the Atharva-Veda, vol. I (1895)",
+   "2015.274134.The-Hymns_djvu.txt"
+  ],
+  "griffith-atharva-2": [
+   "in.ernet.dli.2015.274135",
+   "The Hymns of the Atharva-Veda, vol. II (1896)",
+   "2015.274135.The-Hymns_djvu.txt"
+  ],
+  "griffith-samaveda": [
+   "in.ernet.dli.2015.180573",
+   "The Hymns of the Samaveda (1893)",
+   "2015.180573.The-Hymns-Of-The-Sama-Veda_djvu.txt"
+  ],
+  "griffith-white-yajurveda": [
+   "textswhiteyajur01grifgoog",
+   "The Texts of the White Yajurveda (1899)",
+   "textswhiteyajur01grifgoog_djvu.txt"
+  ],
+  "griffith-idylls": [
+   "idyllsfromsansk00grifgoog",
+   "Idylls from the Sanskrit (1866)",
+   "idyllsfromsansk00grifgoog_djvu.txt"
+  ],
+  "griffith-yusuf": [
+   "ysufzulaikhapo00jamiuoft",
+   "Yusuf and Zulaikha (1882)",
+   "ysufzulaikhapo00jamiuoft_djvu.txt"
   ]
  },
  "titles": {
@@ -45,17 +75,67 @@
    "translated": 1889,
    "translator": "Ralph T. H. Griffith",
    "scan_edition": "E. J. Lazarus, Benares, 2nd ed. 1896-97, 2 vols (Digital Library of India copies), raw OCR"
+  },
+  "griffith-atharva-1": {
+   "source": "griffith-atharva-1",
+   "of": "Atharva-Veda",
+   "work": "The Hymns of the Atharva-Veda, vol. I (Books I-VII)",
+   "translated": 1895,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "E. J. Lazarus, Benares, 1895 (Digital Library of India copy), raw OCR"
+  },
+  "griffith-atharva-2": {
+   "source": "griffith-atharva-2",
+   "of": "Atharva-Veda",
+   "work": "The Hymns of the Atharva-Veda, vol. II",
+   "translated": 1896,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "E. J. Lazarus, Benares, 1896 (Digital Library of India copy), raw OCR"
+  },
+  "griffith-samaveda": {
+   "source": "griffith-samaveda",
+   "of": "Samaveda",
+   "work": "The Hymns of the Samaveda",
+   "translated": 1893,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "E. J. Lazarus, Benares, 1893 (Digital Library of India copy), raw OCR"
+  },
+  "griffith-white-yajurveda": {
+   "source": "griffith-white-yajurveda",
+   "of": "White Yajurveda",
+   "work": "The Texts of the White Yajurveda",
+   "translated": 1899,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "E. J. Lazarus, Benares, 1899 (Google scan), raw OCR"
+  },
+  "griffith-idylls": {
+   "source": "griffith-idylls",
+   "of": "Kalidasa, Valmiki and the Mahabharata",
+   "work": "Idylls from the Sanskrit",
+   "translated": 1866,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "Smith, Elder, London, 1866 (Google scan), raw OCR"
+  },
+  "griffith-yusuf": {
+   "source": "griffith-yusuf",
+   "of": "Jami",
+   "work": "Yusuf and Zulaikha",
+   "translated": 1882,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "Trübner's Oriental Series, London, 1882 (University of Toronto copy), raw OCR"
   }
  },
- "_pending": {
-  "griffith-atharvaveda": "Hymns of the Atharva-veda (1895-96), the Samaveda (1893), the White Yajurveda (1899): on IA; not fetched this run."
+ "_pending": {},
+ "_excluded": {
+  "griffith-white-yajurveda-1987": "textswhiteyajur00grifgoog is a 1987 Munshiram Manoharlal reprint; the 1899 Lazarus scan was used.",
+  "griffith-later-editions": "Later Lazarus editions (Atharva-Veda 1916-17, Samaveda 1907 and 1926, White Yajurveda 1927) were passed over for the first editions.",
+  "griffith-birth-of-the-war-god": "Already held on singles-literature (Project Gutenberg 31968)."
  },
- "_excluded": {},
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "griffith-ramayana": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "t. h. griffith",
    "identity": "ok",
@@ -64,7 +144,7 @@
   },
   "griffith-rigveda-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "t. h. griffith",
    "identity": "ok",
@@ -75,13 +155,80 @@
   },
   "griffith-rigveda-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "t. h. griffith",
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "griffith-atharva-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. h. griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "griffith-atharva-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. h. griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "griffith-samaveda": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "griffith-white-yajurveda": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. h. griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griffith-idylls": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. h. griffith",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griffith-yusuf": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. h. griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
@@ -107,8 +254,62 @@
     1897
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "griffith-atharva-1": {
+   "ia": "in.ernet.dli.2015.274134",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-atharva-2": {
+   "ia": "in.ernet.dli.2015.274135",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-samaveda": {
+   "ia": "in.ernet.dli.2015.180573",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842,
+    1848,
+    1874,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-white-yajurveda": {
+   "ia": "textswhiteyajur01grifgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1842,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-idylls": {
+   "ia": "idyllsfromsansk00grifgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1866
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-yusuf": {
+   "ia": "ysufzulaikhapo00jamiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
- "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
+ "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides.",
+ "_identity_checked": {
+  "griffith-samaveda": {
+   "author": "The preface is signed 'T. II. GRIFFITH.' in the OCR (H read as II), and the Benares Lazarus imprint matches. Checked by eye 2026-10-17."
+  }
+ }
 }
