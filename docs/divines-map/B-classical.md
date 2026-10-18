@@ -3986,6 +3986,9 @@ Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public dom
 | Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
 | Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
 | The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930) |  | `dewey-child-and-the-curriculum-1930` | have-raw (IA `childcurriculum00dewe`) |
+| Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95) |  | `dewey-experience-and-nature-1929` | have-raw (IA `experienceandnat029343mbp`) |
+| The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94) |  | `dewey-quest-for-certainty-1929` | have-raw (IA `questforcertaint032529mbp`) |
+| Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93) |  | `dewey-individualism-old-and-new-1930` | have-raw (IA `individu00dewe`) |
 
 Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
 
