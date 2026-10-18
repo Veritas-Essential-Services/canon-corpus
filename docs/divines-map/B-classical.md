@@ -7844,6 +7844,11 @@ Shelf: `pipeline/horace-kallen_shelf.json`. Five books, 1914-1927.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| William James and Henri Bergson (University of Chicago Press, 1914) |  | `kallen-william-james-and-henri-bergson-1914` | have-raw (IA `williamjameshenr00kall_0`) |
+| The Structure of Lasting Peace (Marshall Jones, 1918) |  | `kallen-structure-of-lasting-peace-1918` | have-raw (IA `structureoflasti00kalliala`) |
+| Zionism and World Politics (Doubleday, Page, 1921) |  | `kallen-zionism-and-world-politics-1921` | have-raw (IA `zionismandworld00kallgoog`) |
+| Culture and Democracy in the United States (Boni and Liveright, 1924) |  | `kallen-culture-and-democracy-1924` | have-raw (IA `culturedemocracy0000hora`) |
+| Why Religion (Boni and Liveright, 1927) |  | `kallen-why-religion-1927` | have-raw (IA `whyreligion0000hora_q9a6`) |
 
 ## Hartley Burr Alexander (philosophy and culture)
 
