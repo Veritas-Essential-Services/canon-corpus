@@ -8015,6 +8015,19 @@ Slugs `penington-*`. Built from title pages read for round 34.
 | Letters of Isaac Penington, second edition (London: Holdsworth and Ball; Harvey and Darton; Seeley, 1829) | have-ocr | IA `lettersofisaacpe00peniiala` |
 | Works second edition vol. II (1761); the undated Philadelphia Letters | alternate | not shelved |
 | Bevan's Memoirs of the Life (1807, 1831) and the Selections and Brief Extracts made by others | excluded | |
+
+## Thomas Ellwood (round 34, my pick, 2026-10-18)
+
+Slugs `ellwood-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Thomas Ellwood, written by himself, with an introduction by Henry Morley (London: George Routledge and Sons, 1885) | have-clean | Gutenberg 6925 |
+| The History of the Life of Thomas Ellwood, written by his own hand, with a supplement by J. W. [Joseph Wyeth], the second edition (London: Assigns of J. Sowle, 1714) | have-ocr | IA `bim_eighteenth-century_the-history-of-the-life-_ellwood-thomas_1714` |
+| The History of the Life of Thomas Ellwood, written by his own hand, edited by C. G. Crump (London: Methuen, 1900) | have-ocr | IA `historyoflifeoft00ellwuoft` |
+| Davideis: The Life of David King of Israel, a Sacred Poem in Five Books, the third edition, corrected (London: T. Sowle Raylton and Luke Hinde, 1749) | have-ocr | IA `bim_eighteenth-century_davideis-the-life-of-da_ellwood-thomas_1749` |
+| Davideis: The Life of David, King of Israel, a Sacred Poem in Five Books (Philadelphia: Joseph Crukshank, 1805) | have-ocr | IA `davideis01ellw` |
+| Another 1714 copy (historylifethom00bowlgoog); the first Davideis (1712, year illegible); a second Routledge 1885 scan | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
