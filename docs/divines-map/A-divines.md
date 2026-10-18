@@ -9108,3 +9108,14 @@ Slugs `crasset-*`. Built from title pages read for round 37.
 | A Key to Meditation, or Simple Methods of Mental Prayer (London: Burns Oates & Washbourne, 1926) | have-ocr | IA `keytomeditation0000pere` |
 | Dorsey's Christian Considerations (New York: P. O'Shea, 1882); other 1844 and 1685 copies (not read) | alternate | not shelved |
 | The History of the Church of Japan (1705): its title page names the Abbé de T., not Crasset; The Secret of Sanctity (de Sales and Crasset together, Ella McMahon) | excluded | |
+
+## Diego de Estella (round 37, my pick, 2026-10-18)
+
+Slugs `estella-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| The Contempte of the World, and the Vanitie thereof, in three books, translated out of Italian (title page undated; catalogued 1581) | have-ocr | IA `bim_early-english-books-1475-1640_the-contempte-of-the-wor_estella-diego-de_1581` |
+| Meditations on the Love of God, tr. Henry W. Pereira (London: Burns & Oates; New York: Benziger, 1898) | have-ocr | IA `cu31924029398066` |
+| The Contempt of the World (1622, John Heigham, title page mostly illegible) | alternate | not shelved |
+| A Methode unto Mortification (1608), an adapted recast | excluded | |
