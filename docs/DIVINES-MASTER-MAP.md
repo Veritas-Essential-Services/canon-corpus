@@ -37688,6 +37688,32 @@ Shelf: `pipeline/ian-maclaren_shelf.json` (2026-10-17; added at the coordinator'
 | His Majesty Baby and Some Common People | have | PG 43727, `imaclaren-his-majesty-baby-and-some-common-people` (438 units) |
 | split-parts | excluded | Gutenberg's split-part files PG 9315, 9316, 9317, 9318, 9319: the complete edition of each is on the shelf instead. |
 
+## Maurice Hewlett
+
+Shelf: `pipeline/maurice-hewlett_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fool Errant Being the Memoirs of Francis-Anthony Strelley, Esq., Citizen of Lucca | have | PG 5755, `mhewlett-fool-errant-being-the-memoirs-of-francis-anthony-st` (1262 units) |
+| Rest Harrow: A Comedy of Resolution | have | PG 8464, `mhewlett-rest-harrow` (1606 units) |
+| Earthwork out of Tuscany: Being Impressions and Translations of Maurice Hewlett | have | PG 8858, `mhewlett-earthwork-out-of-tuscany` (290 units) |
+| The Forest Lovers | have | PG 8934, `mhewlett-forest-lovers` (2109 units) |
+| The Life and Death of Richard Yea-and-Nay | have | PG 14813, `mhewlett-life-and-death-of-richard-yea-and-nay` (1704 units) |
+| In a Green Shade: A Country Commentary | have | PG 15495, `mhewlett-in-a-green-shade` (551 units) |
+| Lore of Proserpine | have | PG 18730, `mhewlett-lore-of-proserpine` (354 units) |
+| Little Novels of Italy | have | PG 20929, `mhewlett-little-novels-of-italy` (1557 units) |
+| The Village Wife's Lament | have | PG 21025, `mhewlett-village-wifes-lament` (262 units) |
+| The Ruinous Face | have | PG 21885, `mhewlett-ruinous-face` (115 units) |
+| Helen Redeemed and Other Poems | have | PG 22803, `mhewlett-helen-redeemed-and-other-poems` (479 units) |
+| Gudrid the Fair: A Tale of the Discovery of America | have | PG 23643, `mhewlett-gudrid-the-fair` (681 units) |
+| The Spanish Jade | have | PG 29545, `mhewlett-spanish-jade` (845 units) |
+| Love and Lucy | have | PG 29868, `mhewlett-love-and-lucy` (1232 units) |
+| Frey and His Wife | have | PG 45107, `mhewlett-frey-and-his-wife` (657 units) |
+| Halfway House: A Comedy of Degrees | have | PG 59963, `mhewlett-halfway-house` (1879 units) |
+| The Queen's Quair; or, The Six Years' Tragedy | have | PG 61466, `mhewlett-queens-quair` (3306 units) |
+| Last Essays of Maurice Hewlett | have | PG 65757, `mhewlett-last-essays-of-maurice-hewlett` (587 units) |
+| A lovers' tale | have | PG 78969, `mhewlett-a-lovers-tale` (1249 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
