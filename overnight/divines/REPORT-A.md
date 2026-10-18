@@ -1357,3 +1357,6 @@
 
 ## 2026-10-17 19:56 CDT — felicite-de-lamennais done
 - `pipeline/felicite-de-lamennais_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:56 CDT — louis-gaston-de-segur done
+- `pipeline/louis-gaston-de-segur_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for segur-plain-talk-protestantism, segur-familiar-instructions-1, segur-familiar-instructions-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

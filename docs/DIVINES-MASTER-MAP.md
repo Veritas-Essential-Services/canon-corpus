@@ -6501,6 +6501,24 @@ Slugs `lamennais-*`. Essay on Indifference and later works in English.
 | A Duopage copy of the 1834 Words of a Believer | alternate | not shelved |
 | Gibson's Abbé de Lamennais (1896) and other studies | excluded | |
 | French, German and Italian editions with wrong language tags | excluded | |
+
+## Louis-Gaston de Ségur (round 29, my pick, 2026-10-18)
+
+Slugs `segur-*`. Plain Talk and his Familiar Instructions in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Plain Talk about the Protestantism of To-day (Boston: Patrick Donahoe, 1868) | have-ocr | IA `plaintalkaboutpr00segu` |
+| The Freemasons: What They Are, What They Do, What They Are Aiming At (Boston: Patrick Donahoe, 1869) | have-ocr | IA `TheFreemasons` |
+| The Wonders of Lourdes, tr. Anna T. Sadlier (New York: D. & J. Sadlier; copyright 1874) | have-ocr | IA `wondersoflourdes00seguuoft` |
+| Familiar Instructions and Evening Lectures on All the Truths of Religion, vol. I (London: Burns & Oates, 1878) | have-ocr | IA `familiarinstruc01sggoog` |
+| Familiar Instructions and Evening Lectures on All the Truths of Religion, vol. II (London: Burns & Oates, 1881) | have-ocr | IA `familiarinstruc00sggoog` |
+| Short and Familiar Answers to the Most Common Objections Urged against Religion (New York: P. O'Shea, 1880) | have-ocr | IA `shortfamiliarans00segu` |
+| A Little Saint of Nine Years, tr. Mary McMahon (New York: Benziger, 1881) | have-ocr | IA `littlesaintofnin00sgur` |
+| On Holy Communion, by a Benedictine of Princethorpe Priory (London: R. & T. Washbourne; imprimatur 1912) | have-ocr | IA `onholycommunion00seguuoft` |
+| Plain Talk (London, 1874); Short Answers ed. L. A. Lambert (1909); later Familiar Instructions | alternate | not shelved |
+| The Comtesse de Ségur, Philippe-Paul and Anatole de Ségur: other people | excluded | |
+| The Marquis de Ségur's life of him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
