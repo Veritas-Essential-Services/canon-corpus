@@ -6381,6 +6381,7 @@ Shelf: `pipeline/franklin-henry-giddings_shelf.json`. Franklin Henry Giddings (1
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Principles of Sociology (Macmillan, 1896; third-edition preface) |  | `giddings-principles-of-sociology-1896` | have-raw (IA `principlesofsoci00gidduoft`) |
 
 ## Frederick J. E. Woodbridge (Purpose of History)
 
