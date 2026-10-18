@@ -3866,6 +3866,7 @@ Shelf: `pipeline/mandeville_shelf.json`. The Fable of the Bees (1806).
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806) |  | `mandeville-fable-of-the-bees-1806` | have (PG 57260) |
+| An Enquiry into the Origin of Honour and the Usefulness of Christianity in War (1732; the etext names no printing) |  | `mandeville-origin-of-honour` | have (PG 7819) |
 
 ## Henry Sidgwick
 

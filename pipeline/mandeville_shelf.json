@@ -1,5 +1,5 @@
 {
- "_about": "Bernard Mandeville (1670-1733), from Project Gutenberg: The Fable of the Bees, or Private Vices, Public Benefits (London: Ostell / Edinburgh: Mundell, 1806). US public domain. No uids minted.",
+ "_about": "Bernard Mandeville (1670-1733), from Project Gutenberg: The Fable of the Bees, or Private Vices, Public Benefits (London: Ostell / Edinburgh: Mundell, 1806). Added in round aw 2026-10-17: An Enquiry into the Origin of Honour (1732), clean Gutenberg text, printing not named. Held: A Letter to Dion, An Enquiry into the Causes of the Frequent Executions at Tyburn and Aesop Dress'd, whose Gutenberg etexts are Augustan Reprint Society facsimiles of 1953 and later. US public domain. No uids minted.",
  "_author": "Bernard Mandeville",
  "_name_words": [
   "bernard",
@@ -14,6 +14,10 @@
   "mandeville-fable-of-the-bees-1806": [
    57260,
    "The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806)"
+  ],
+  "mandeville-origin-of-honour": [
+   7819,
+   "An Enquiry into the Origin of Honour and the Usefulness of Christianity in War (1732; the etext names no printing)"
   ]
  },
  "internet_archive": {},
@@ -21,7 +25,16 @@
  "_checks": {
   "mandeville-fable-of-the-bees-1806": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mandeville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mandeville-origin-of-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "mandeville",
    "identity": "ok",
