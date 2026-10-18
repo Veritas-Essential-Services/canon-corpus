@@ -1365,3 +1365,10 @@
 
 ## 2026-10-17 23:13 CDT — Round cl: Henry Sidgwick
 - henry-sidgwick +9: History of Ethics, Principles of Political Economy, Elements of Politics, Practical Ethics, five posthumous volumes
+
+## 2026-10-17 23:17 CDT — Round cm: American and British gap-fills
+- samuel-alexander +1: Locke (1908)
+- ralph-barton-perry +3 (1916-1926)
+- james-mark-baldwin +5; History of Psychology and Elements of Psychology held, undated scans
+- george-trumbull-ladd +12 (1895-1918)
+- g-e-moore: Ethics (1912) held, undated scans

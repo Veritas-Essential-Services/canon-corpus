@@ -14202,13 +14202,25 @@ Shelf: `pipeline/laurens-hickok_shelf.json`. Rational Psychology (1854).
 
 ## George Trumbull Ladd
 
-Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Three works, 1889-1897.
+Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Psychology, metaphysics, ethics and philosophy of religion, 1889-1918.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Elements of Physiological Psychology (New York: Scribner, 1889) |  | `ladd-elements-of-physiological-psychology-1889` | have-raw (IA `elementsofphysi00ladduoft`) |
 | Philosophy of Mind: an essay in the metaphysics of psychology (New York: Scribner, 1895) |  | `ladd-philosophy-of-mind-1895` | have-raw (IA `philosophyminda00laddgoog`) |
 | Philosophy of Knowledge (New York: Scribner, 1897) |  | `ladd-philosophy-of-knowledge-1897` | have-raw (IA `philosophyofknow00ladd`) |
+| Primer of Psychology (New York: Scribner, 1895; copyright 1894) |  | `ladd-primer-of-psychology-1895` | have-raw (IA `primerofpsycholo00ladduoft`) |
+| A Theory of Reality: an essay in metaphysical system upon the basis of human cognitive experience (New York: Scribner, 1899) |  | `ladd-theory-of-reality-1899` | have-raw (IA `theoryofrealitye00ladd`) |
+| Philosophy of Conduct: a treatise of the facts, principles, and ideals of ethics (New York: Scribner, 1902) |  | `ladd-philosophy-of-conduct-1902` | have-raw (IA `philosophycondu01laddgoog`) |
+| The Philosophy of Religion, vol. I (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-1-1905` | have-raw (IA `philosophyofreli00ladduoft`) |
+| The Philosophy of Religion, vol. II (New York: Scribner, 1905) |  | `ladd-philosophy-of-religion-2-1905` | have-raw (IA `philosophyofreli02ladduoft`) |
+| Knowledge, Life and Reality: an essay in systematic philosophy (New York: Dodd, Mead, 1909) |  | `ladd-knowledge-life-reality-1909` | have-raw (IA `knowledgeliferea00lad`) |
+| The Teacher's Practical Philosophy (New York: Funk and Wagnalls, 1911) |  | `ladd-teachers-practical-philosophy-1911` | have-raw (IA `teacherspractica00laddrich`) |
+| What Can I Know? (New York: Longmans, Green, 1914) |  | `ladd-what-can-i-know-1914` | have-raw (IA `whatcaniknow00ladduoft`) |
+| What Ought I to Do? (New York: Longmans, Green, 1915) |  | `ladd-what-ought-i-to-do-1915` | have-raw (IA `whatoughtitodoan00ladduoft`) |
+| What Should I Believe? (New York: Longmans, Green, 1915) |  | `ladd-what-should-i-believe-1915` | have-raw (IA `whatshouldibel00ladduoft`) |
+| What May I Hope? (New York: Longmans, Green, 1915) |  | `ladd-what-may-i-hope-1915` | have-raw (IA `whatmayihopeinqu00laddrich`) |
+| The Secret of Personality (New York: Longmans, Green, 1918) |  | `ladd-secret-of-personality-1918` | have-raw (IA `cu31924029345455`) |
 
 ## G. F. Stout
 
@@ -14555,6 +14567,9 @@ Shelf: `pipeline/ralph-barton-perry_shelf.json`. American new realism; only work
 | The Approach to Philosophy (New York: Scribner, 1905) |  | `perry-approach-to-philosophy-1905` | have (PG 25110) |
 | The Moral Economy (New York: Scribner, 1909) |  | `perry-moral-economy-1909` | have (PG 22135) |
 | Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921) |  | `perry-present-philosophical-tendencies-1921` | have-raw (IA `presentphilosoph00perr_0`) |
+| The Free Man and the Soldier: essays on the reconciliation of liberty and discipline (New York: Scribner, 1916) |  | `perry-free-man-and-soldier-1916` | have-raw (IA `freemansoldieres0000perr`) |
+| The Present Conflict of Ideals: a study of the philosophical background of the World War (New York: Longmans, Green, 1918) |  | `perry-present-conflict-of-ideals-1918` | have-raw (IA `presentconflict00perruoft`) |
+| Philosophy of the Recent Past: an outline of European and American philosophy since 1860 (New York: Scribner, 1926) |  | `perry-philosophy-of-recent-past-1926` | have-raw (IA `philosophyofrece0000ralp`) |
 
 ## Felix Adler
 
@@ -14591,6 +14606,11 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 | Thought and Things, or Genetic Logic, vol. I: Functional Logic (London: Swan Sonnenschein; New York: Macmillan, 1906) |  | `baldwin-thought-and-things-1906-v1` | have-raw (IA `thoughtthingsstu01bald`) |
 | Thought and Things, or Genetic Logic, vol. II: Experimental Logic (London: Swan Sonnenschein; New York: Macmillan, 1908) |  | `baldwin-thought-and-things-1908-v2` | have-raw (IA `thoughtandthings02balduoft`) |
 | Thought and Things, or Genetic Logic, vol. III: Interest and Art, being Real Logic I (London: George Allen; New York: Macmillan, 1911) |  | `baldwin-thought-and-things-1911-v3` | have-raw (IA `thoughtandthings03balduoft`) |
+| Handbook of Psychology: Senses and Intellect, 2nd ed., revised (New York: Holt; copyright 1889) |  | `baldwin-handbook-psychology-senses-intellect-1890` | have-raw (IA `handbookofpsycho00balduoft`) |
+| Handbook of Psychology: Feeling and Will (New York: Holt, 1891) |  | `baldwin-handbook-psychology-feeling-will-1891` | have-raw (IA `handbookofpsycho02balduoft`) |
+| Social and Ethical Interpretations in Mental Development, 4th ed. (New York: Macmillan, 1906) |  | `baldwin-social-ethical-interpretations-1906` | have-raw (IA `socialethicalint00bald`) |
+| Development and Evolution, including psychophysical evolution, evolution by orthoplasy, and the theory of genetic modes (New York: Macmillan, 1902) |  | `baldwin-development-and-evolution-1902` | have-raw (IA `developmentevolu00bald`) |
+| The Individual and Society, or Psychology and Sociology (Boston: Badger, 1911) |  | `baldwin-individual-and-society-1911` | have-raw (IA `cu31924031447760`) |
 
 ## C. I. Lewis
 
@@ -14821,6 +14841,7 @@ Shelf: `pipeline/samuel-alexander_shelf.json`. Realist metaphysics and evolution
 | Moral Order and Progress, 2nd ed. (London: Kegan Paul, 1891) |  | `alexander-moral-order-and-progress-1891` | have-raw (IA `moralorderandpro00alexuoft`) |
 | Space, Time and Deity, vol. I (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v1` | have-raw (IA `cihm_66275`) |
 | Space, Time and Deity, vol. II (London: Macmillan, 1920) |  | `alexander-space-time-and-deity-1920-v2` | have-raw (IA `cihm_66276`) |
+| Locke (London: Constable, Philosophies Ancient and Modern, 1908) |  | `alexander-locke-1908` | have-raw (IA `lockealexander00alexiala`) |
 
 ## James Hutchison Stirling
 

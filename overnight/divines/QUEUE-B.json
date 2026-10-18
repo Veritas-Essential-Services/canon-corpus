@@ -1900,6 +1900,14 @@
    "started": "2026-10-17T23:10:57-05:00",
    "finished": "2026-10-17T23:13:09-05:00",
    "notes": "9 IA vols 1883-1905"
+  },
+  {
+   "id": "2026-10-18cm",
+   "status": "done",
+   "scope": "Alexander, Perry, Baldwin, Ladd, Moore gaps",
+   "started": "2026-10-17T23:13:09-05:00",
+   "finished": "2026-10-17T23:17:32-05:00",
+   "notes": "21 IA vols; 3 held for undated scans"
   }
  ]
 }
