@@ -7961,6 +7961,20 @@ Slugs `gfox-*`. Built from title pages read for round 34.
 | A Collection of Many Select and Christian Epistles, Letters and Testimonies (London: T. Sowle, 1698), the first edition | have-ocr | IA `bim_early-english-books-1641-1700_a-collection-of-many-sel_fox-george-elder_1698` |
 | Works vols III, VII, VIII duplicate scans (worksgeorgefox09/11/07/08foxgoog); 1901 Journal scans; further 1911 copies; Leeds 1836 sixth edition (two scans, one catalogued as Ellwood in error); the second edition of 1709; Tuke's Selections from the Epistles | alternate | not shelved |
 | Richardson's Gleanings (a selection by another hand); the Octagon, 1924 Dent, 1948, 1952 and 1975 editions; the undated Friends' Book-Store Journal catalogued 1677, an impossible date | excluded | |
+
+## Robert Barclay (round 34, my pick, 2026-10-18)
+
+Slugs `rbarclay-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| An Apology for the True Christian Divinity, the eighth edition in English (Birmingham: John Baskerville, 1765) | have-clean | Gutenberg 56487 |
+| An Apology for the True Christian Divinity, as the same is held forth and preached by the people called, in scorn, Quakers, written in Latin and now put into our own language (printed in the year 1678; no place on the title page), the first English edition | have-ocr | IA `apologyfor00barc` |
+| Truth Triumphant through the Spiritual Warfare, Christian Labours and Writings of Robert Barclay, vol. I (London: Assigns of J. Sowle, 1718) | have-ocr | IA `truthtriumphantt01barc` |
+| Truth Triumphant, vol. III (London: Assigns of J. Sowle, 1718) | have-ocr | IA `truthtriumphantt_03barc` |
+| Truth Triumphant, vol. I, from the octavo edition of 1718 collated with the folio of 1692 (Philadelphia: Benjamin C. Stanton, 1831) | have-ocr | IA `truthtriumphantt01inbarc` |
+| A Catechism and Confession of Faith (Philadelphia: Joseph James, 1788) | have-ocr | IA `catechismconfess01barc` |
+| CCEL barclay/quakers (New York: Samuel Wood, 1827, from the eighth London edition); Truth Triumphant 1831 (truthtriumphant00keitgoog, probably vol. II); the thirteenth-edition Catechism (William Phillips, no year) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
