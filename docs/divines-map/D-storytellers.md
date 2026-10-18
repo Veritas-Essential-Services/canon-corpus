@@ -12648,6 +12648,32 @@ Shelf: `pipeline/maurice-hewlett_shelf.json` (2026-10-17; added at the coordinat
 | Last Essays of Maurice Hewlett | have | PG 65757, `mhewlett-last-essays-of-maurice-hewlett` (587 units) |
 | A lovers' tale | have | PG 78969, `mhewlett-a-lovers-tale` (1249 units) |
 
+## Henry Seton Merriman
+
+Shelf: `pipeline/henry-seton-merriman_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Vultures | have | PG 3805, `hsmerriman-vultures` (2375 units) |
+| In Kedar's Tents | have | PG 5987, `hsmerriman-in-kedars-tents` (2026 units) |
+| The Grey Lady | have | PG 6517, `hsmerriman-grey-lady` (2060 units) |
+| Tomaso's Fortune and Other Stories | have | PG 6974, `hsmerriman-tomasos-fortune-and-other-stories` (1639 units) |
+| Barlasch of the Guard | have | PG 8158, `hsmerriman-barlasch-of-the-guard` (1978 units) |
+| The Last Hope | have | PG 8493, `hsmerriman-last-hope` (2169 units) |
+| From One Generation to Another | have | PG 8805, `hsmerriman-from-one-generation-to-another` (1790 units) |
+| The Isle of Unrest | have | PG 8873, `hsmerriman-isle-of-unrest` (1866 units) |
+| With Edged Tools | have | PG 8939, `hsmerriman-with-edged-tools` (3201 units) |
+| The Slave of the Lamp | have | PG 9195, `hsmerriman-slave-of-the-lamp` (1974 units) |
+| Roden's Corner | have | PG 9324, `hsmerriman-rodens-corner` (1876 units) |
+| The Sowers | have | PG 10132, `hsmerriman-sowers` (3318 units) |
+| The Velvet Glove | have | PG 10342, `hsmerriman-velvet-glove` (2110 units) |
+| Dross | have | PG 20243, `hsmerriman-dross` (1940 units) |
+| Suspense, Volume 1 (of 3) | have | PG 74460, `hsmerriman-suspense-volume-1-of-3` (851 units) |
+| Suspense, Volume 2 (of 3) | have | PG 74461, `hsmerriman-suspense-volume-2-of-3` (1077 units) |
+| Suspense, Volume 3 (of 3) | have | PG 74462, `hsmerriman-suspense-volume-3-of-3` (816 units) |
+| pg-58524 | excluded | PG 58524: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 8942: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
