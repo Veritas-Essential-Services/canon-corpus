@@ -7266,6 +7266,53 @@ Shelf: `pipeline/jerome-k-jerome_shelf.json` (2026-10-17; added at the coordinat
 | Woodbarrow Farm: Play in Three Acts | have | PG 54698, `jkjerome-woodbarrow-farm` (990 units) |
 | Anthony John | have | PG 66465, `jkjerome-anthony-john` (1050 units) |
 
+## John Kendrick Bangs
+
+Shelf: `pipeline/john-kendrick-bangs_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic fantasies and stories. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A House-Boat on the Styx | have | PG 2618, `jkbangs-a-house-boat-on-the-styx` (650 units) |
+| The Enchanted Typewriter | have | PG 3162, `jkbangs-enchanted-typewriter` (581 units) |
+| The Pursuit of the House-Boat | have | PG 3169, `jkbangs-pursuit-of-the-house-boat` (716 units) |
+| Mr. Bonaparte of Corsica | have | PG 3236, `jkbangs-mr-bonaparte-of-corsica` (689 units) |
+| A Rebellious Heroine | have | PG 3324, `jkbangs-a-rebellious-heroine` (544 units) |
+| Paste Jewels | have | PG 4930, `jkbangs-paste-jewels` (758 units) |
+| Ghosts I Have Met and Some Others | have | PG 6995, `jkbangs-ghosts-i-have-met-and-some-others` (666 units) |
+| The Water Ghost and Others | have | PG 8377, `jkbangs-water-ghost-and-others` (778 units) |
+| The Booming of Acre Hill, and Other Reminiscences of Urban and Suburban Life | have | PG 11309, `jkbangs-booming-of-acre-hill-and-other-reminiscences-of-urba` (1000 units) |
+| The Bicyclers and Three Other Farces | have | PG 11759, `jkbangs-bicyclers-and-three-other-farces` (1200 units) |
+| The Pursuit of the House-Boat Being Some Further Account of the Divers Doings of the Associated Shades, under the Leadership of Sherlock Holmes, Esq. | have | PG 16097, `jkbangs-pursuit-of-the-house-boat-being-some-further-account` (719 units) |
+| Olympian Nights | have | PG 17964, `jkbangs-olympian-nights` (816 units) |
+| Coffee and Repartee | have | PG 18207, `jkbangs-coffee-and-repartee` (568 units) |
+| The Idiot | have | PG 18881, `jkbangs-idiot` (497 units) |
+| R. Holmes & Co. Being the Remarkable Adventures of Raffles Holmes, Esq., Detective and Amateur Cracksman by Birth | have | PG 20559, `jkbangs-r-holmes-co-being-the-remarkable-adventures-of-raffl` (805 units) |
+| The Autobiography of Methuselah | have | PG 20766, `jkbangs-autobiography-of-methuselah` (256 units) |
+| Andiron Tales | have | PG 24130, `jkbangs-andiron-tales` (719 units) |
+| Cobwebs from a Library Corner | have | PG 27534, `jkbangs-cobwebs-from-a-library-corner` (214 units) |
+| Alice in Blunderland: An Iridescent Dream | have | PG 28069, `jkbangs-alice-in-blunderland` (517 units) |
+| Mrs. Raffles: Being the Adventures of an Amateur Crackswoman | have | PG 30853, `jkbangs-mrs-raffles` (578 units) |
+| Mr. Munchausen  Being a True Account of Some of the Recent Adventures beyond the Styx of the Late Hieronymus Carl Friedrich, Sometime Baron Munchausen of Bodenwerder | have | PG 33432, `jkbangs-mr-munchausen-being-a-true-account-of-some-of-the-re` (579 units) |
+| The Inventions of the Idiot | have | PG 33623, `jkbangs-inventions-of-the-idiot` (489 units) |
+| Toppleton's Client; Or, A Spirit in Exile | have | PG 34171, `jkbangs-toppletons-client` (965 units) |
+| Jack and the Check Book | have | PG 34423, `jkbangs-jack-and-the-check-book` (835 units) |
+| A Little Book of Christmas | have | PG 34465, `jkbangs-a-little-book-of-christmas` (531 units) |
+| In Camp With A Tin Soldier | have | PG 34467, `jkbangs-in-camp-with-a-tin-soldier` (977 units) |
+| Over the Plum Pudding | have | PG 34553, `jkbangs-over-the-plum-pudding` (961 units) |
+| Half-Hours with the Idiot | have | PG 35017, `jkbangs-half-hours-with-the-idiot` (351 units) |
+| The Genial Idiot: His Views and Reviews | have | PG 35302, `jkbangs-genial-idiot` (726 units) |
+| The Dreamers: A Club | have | PG 35374, `jkbangs-dreamers` (791 units) |
+| From Pillar to Post: Leaves from a Lecturer's Note-Book | have | PG 36026, `jkbangs-from-pillar-to-post` (1111 units) |
+| A Proposal Under Difficulties: A Farce | have | PG 37140, `jkbangs-a-proposal-under-difficulties` (401 units) |
+| The Idiot at Home | have | PG 39682, `jkbangs-idiot-at-home` (1039 units) |
+| Half-Hours with Jimmieboy | have | PG 39757, `jkbangs-half-hours-with-jimmieboy` (1077 units) |
+| Mollie and the Unwiseman Abroad | have | PG 39778, `jkbangs-mollie-and-the-unwiseman-abroad` (1416 units) |
+| Mollie and the Unwiseman | have | PG 39820, `jkbangs-mollie-and-the-unwiseman` (805 units) |
+| Bikey the Skicycle and Other Tales of Jimmieboy | have | PG 39871, `jkbangs-bikey-the-skicycle-and-other-tales-of-jimmieboy` (1133 units) |
+| Peeps at People Being Certain Papers from the Writings of Anne Warrington Witherup | have | PG 39945, `jkbangs-peeps-at-people-being-certain-papers-from-the-writin` (817 units) |
+| Eight brand new bits of Christmas cheer | have | PG 72633, `jkbangs-eight-brand-new-bits-of-christmas-cheer` (23 units) |
+| pg-5066 | excluded | PG 5066 The Whole Family: a novel by twelve authors, Bangs one chapter. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

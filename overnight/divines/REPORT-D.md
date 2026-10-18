@@ -1281,3 +1281,6 @@
 
 ## 2026-10-17 19:00 CDT — jerome-k-jerome: done
 - jerome-k-jerome: new shelf, 31 Gutenberg books, 24,814 units, 1691 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:10 CDT — john-kendrick-bangs: done
+- john-kendrick-bangs: new shelf, 39 Gutenberg books, 28,298 units, 830 ~2 ids; verify 0 mismatches, 0 rights flags.
