@@ -5421,6 +5421,7 @@ Shelf: `pipeline/donoso-cortes_shelf.json`. Essay on Catholicism, Liberalism and
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Essay on Catholicism, Liberalism and Socialism (Philadelphia: J. B. Lippincott, 1862) | Madeleine Vinton Goddard | `donoso-cortes-goddard-essay-1862` | have-raw (IA `essayoncatholici00dono`) |
 
 ## Roger Bacon
 

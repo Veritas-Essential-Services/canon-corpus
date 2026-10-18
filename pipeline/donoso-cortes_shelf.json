@@ -1,0 +1,43 @@
+{
+ "_about": "Juan Donoso Cortes, Marquis of Valdegamas (1809-1853), Spanish political philosopher: Essay on Catholicism, Liberalism and Socialism, considered in their fundamental principles, with a sketch of the author's life from the Italian of G. E. de Castro, tr. Madeleine Vinton Goddard (Philadelphia: J. B. Lippincott, 1862; entered 1862), raw IA OCR, clean 0.96. Taken in the philosophy lane as political philosophy; nothing of his is on another lane's shelf. US public domain. No uids minted.",
+ "_author": "Juan Donoso Cortes",
+ "_name_words": [
+  "juan",
+  "donoso",
+  "cortes",
+  "valdegamas"
+ ],
+ "_surname": [
+  "donoso",
+  "cortes",
+  "donoso cortes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "donoso-cortes-goddard-essay-1862": [
+   "essayoncatholici00dono",
+   "Essay on Catholicism, Liberalism and Socialism (Philadelphia: J. B. Lippincott, 1862)",
+   "tr. Madeleine Vinton Goddard"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "donoso-cortes-goddard-essay-1862": "Goddard"
+ },
+ "_checks": {
+  "donoso-cortes-goddard-essay-1862": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "donoso",
+   "translator_claimed": "Goddard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
