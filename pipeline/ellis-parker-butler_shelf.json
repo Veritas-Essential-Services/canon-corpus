@@ -1,0 +1,376 @@
+{
+ "_about": "Ellis Parker Butler's humorous stories",
+ "_author": "Ellis Parker Butler",
+ "_name_words": [
+  "butler"
+ ],
+ "_surname": [
+  "ellis parker butler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "epbutler-water-goats-and-other-troubles": [
+   1285,
+   "The Water Goats, and Other Troubles",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\..*"
+     }
+    ],
+    "start": "I\\.\\ THE\\ WATER\\ GOATS$",
+    "front": true
+   }
+  ],
+  "epbutler-pigs-is-pigs": [
+   2004,
+   "Pigs is Pigs"
+  ],
+  "epbutler-kilo": [
+   3427,
+   "Kilo : being the love story of Eliph' Hewlitt, book agent",
+   {
+    "contents_only": true
+   }
+  ],
+  "epbutler-mike-flannery-on-duty-and-off": [
+   15300,
+   "Mike Flannery On Duty and Off",
+   {
+    "contents_only": true
+   }
+  ],
+  "epbutler-thin-santa-claus": [
+   17937,
+   "The Thin Santa Claus: The Chicken Yard That Was a Christmas Stocking"
+  ],
+  "epbutler-solanders-radio-tomb": [
+   26856,
+   "Solander's Radio Tomb"
+  ],
+  "epbutler-cheerful-smugglers": [
+   27317,
+   "The Cheerful Smugglers",
+   {
+    "contents_only": true
+   }
+  ],
+  "epbutler-goat-feathers": [
+   28389,
+   "Goat-Feathers"
+  ],
+  "epbutler-philo-gubb-correspondence-school-detective": [
+   29721,
+   "Philo Gubb, Correspondence-School Detective",
+   {
+    "contents_only": true
+   }
+  ],
+  "epbutler-that-pup": [
+   44146,
+   "That Pup"
+  ],
+  "epbutler-great-american-pie-company": [
+   44147,
+   "The Great American Pie Company"
+  ],
+  "epbutler-confessions-of-a-daddy": [
+   44148,
+   "The Confessions of a Daddy"
+  ],
+  "epbutler-in-pawn": [
+   44149,
+   "In Pawn"
+  ],
+  "epbutler-jack-knife-man": [
+   44150,
+   "The Jack-Knife Man"
+  ],
+  "epbutler-perkins-of-portland": [
+   44151,
+   "Perkins of Portland: Perkins The Great"
+  ],
+  "epbutler-red-head-and-whistle-breeches": [
+   44152,
+   "Red Head and Whistle Breeches"
+  ],
+  "epbutler-adventures-of-a-suburbanite": [
+   44153,
+   "The Adventures of a Suburbanite"
+  ],
+  "epbutler-swatty": [
+   44154,
+   "Swatty: A Story of Real Boys"
+  ],
+  "epbutler-how-it-feels-to-be-fifty": [
+   44155,
+   "How It Feels to Be Fifty"
+  ],
+  "epbutler-incubator-baby": [
+   44219,
+   "The Incubator Baby"
+  ],
+  "epbutler-dominie-dean": [
+   44220,
+   "Dominie Dean: A Novel"
+  ],
+  "epbutler-revolt": [
+   44221,
+   "The Revolt: A Play In One Act"
+  ],
+  "epbutler-many-happy-returns-of-the-day": [
+   70902,
+   "Many happy returns of the day!"
+  ],
+  "epbutler-an-experiment-in-gyro-hats": [
+   70923,
+   "An experiment in gyro-hats"
+  ],
+  "epbutler-jibby-jones": [
+   76547,
+   "Jibby Jones"
+  ],
+  "epbutler-a-little-girl-in-tears": [
+   78529,
+   "A little girl in tears"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "epbutler-water-goats-and-other-troubles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-pigs-is-pigs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-kilo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-mike-flannery-on-duty-and-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-thin-santa-claus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-solanders-radio-tomb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-cheerful-smugglers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-goat-feathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-philo-gubb-correspondence-school-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-that-pup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-great-american-pie-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-confessions-of-a-daddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-in-pawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-jack-knife-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-perkins-of-portland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-red-head-and-whistle-breeches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-adventures-of-a-suburbanite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-swatty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-how-it-feels-to-be-fifty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-incubator-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-dominie-dean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-revolt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-many-happy-returns-of-the-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-an-experiment-in-gyro-hats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-jibby-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epbutler-a-little-girl-in-tears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellis parker butler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

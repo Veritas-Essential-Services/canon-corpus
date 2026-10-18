@@ -12388,6 +12388,39 @@ Shelf: `pipeline/bm-croker_shelf.json` (2026-10-17; added at the coordinator's r
 | Interference A novel, Vol. 3 (of 3) | have | PG 72210, `bmcroker-interference-a-novel-vol-3-of-3` (616 units) |
 | Proper pride A novel. Volume 3 (of 3) | have | PG 72550, `bmcroker-proper-pride-a-novel-volume-3-of-3` (988 units) |
 
+## Ellis Parker Butler
+
+Shelf: `pipeline/ellis-parker-butler_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Water Goats, and Other Troubles | have | PG 1285, `epbutler-water-goats-and-other-troubles` (306 units) |
+| Pigs is Pigs | have | PG 2004, `epbutler-pigs-is-pigs` (83 units) |
+| Kilo : being the love story of Eliph' Hewlitt, book agent | have | PG 3427, `epbutler-kilo` (1146 units) |
+| Mike Flannery On Duty and Off | have | PG 15300, `epbutler-mike-flannery-on-duty-and-off` (290 units) |
+| The Thin Santa Claus: The Chicken Yard That Was a Christmas Stocking | have | PG 17937, `epbutler-thin-santa-claus` (153 units) |
+| Solander's Radio Tomb | have | PG 26856, `epbutler-solanders-radio-tomb` (56 units) |
+| The Cheerful Smugglers | have | PG 27317, `epbutler-cheerful-smugglers` (572 units) |
+| Goat-Feathers | have | PG 28389, `epbutler-goat-feathers` (33 units) |
+| Philo Gubb, Correspondence-School Detective | have | PG 29721, `epbutler-philo-gubb-correspondence-school-detective` (2355 units) |
+| That Pup | have | PG 44146, `epbutler-that-pup` (165 units) |
+| The Great American Pie Company | have | PG 44147, `epbutler-great-american-pie-company` (131 units) |
+| The Confessions of a Daddy | have | PG 44148, `epbutler-confessions-of-a-daddy` (286 units) |
+| In Pawn | have | PG 44149, `epbutler-in-pawn` (1547 units) |
+| The Jack-Knife Man | have | PG 44150, `epbutler-jack-knife-man` (1067 units) |
+| Perkins of Portland: Perkins The Great | have | PG 44151, `epbutler-perkins-of-portland` (589 units) |
+| Red Head and Whistle Breeches | have | PG 44152, `epbutler-red-head-and-whistle-breeches` (115 units) |
+| The Adventures of a Suburbanite | have | PG 44153, `epbutler-adventures-of-a-suburbanite` (522 units) |
+| Swatty: A Story of Real Boys | have | PG 44154, `epbutler-swatty` (1542 units) |
+| How It Feels to Be Fifty | have | PG 44155, `epbutler-how-it-feels-to-be-fifty` (62 units) |
+| The Incubator Baby | have | PG 44219, `epbutler-incubator-baby` (245 units) |
+| Dominie Dean: A Novel | have | PG 44220, `epbutler-dominie-dean` (1187 units) |
+| The Revolt: A Play In One Act | have | PG 44221, `epbutler-revolt` (314 units) |
+| Many happy returns of the day! | have | PG 70902, `epbutler-many-happy-returns-of-the-day` (87 units) |
+| An experiment in gyro-hats | have | PG 70923, `epbutler-an-experiment-in-gyro-hats` (104 units) |
+| Jibby Jones | have | PG 76547, `epbutler-jibby-jones` (1495 units) |
+| A little girl in tears | have | PG 78529, `epbutler-a-little-girl-in-tears` (148 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

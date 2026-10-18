@@ -1641,3 +1641,6 @@
 
 ## 2026-10-17 22:56 CDT — bm-croker: done
 - bm-croker: new shelf, 26 Gutenberg books, 36,012 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 23:24 CDT — ellis-parker-butler: done
+- ellis-parker-butler: new shelf, 26 Gutenberg books, 14,600 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags.
