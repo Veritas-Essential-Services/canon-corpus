@@ -8033,6 +8033,9 @@ Shelf: `pipeline/william-mackintire-salter_shelf.json`. Three books, 1889-1917.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Ethical Religion (Roberts Brothers, 1889) |  | `salter-ethical-religion-1889` | have-raw (IA `ethicalreligion00salt`) |
+| First Steps in Philosophy (Kerr, 1892) |  | `salter-first-steps-in-philosophy-1892` | have-raw (IA `firststepsinphi01saltgoog`) |
+| Nietzsche the Thinker (copyright 1917; London: Cecil Palmer and Hayward issue) |  | `salter-nietzsche-the-thinker-1917` | have-raw (IA `nietzschethethin00saltuoft`) |
 
 Pending (wishlist): Anarchy or Government? (1895).
 

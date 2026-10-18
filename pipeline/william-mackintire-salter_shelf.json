@@ -1,0 +1,65 @@
+{
+ "_about": "William Mackintire Salter (1853-1931), lecturer of the Chicago and Philadelphia Ethical Culture societies, William James's brother-in-law. Raw IA OCR: Ethical Religion (Boston: Roberts Brothers, 1889); First Steps in Philosophy, physical and ethical (Chicago: Charles H. Kerr, 1892); Nietzsche the Thinker, a study (copyright 1917 by Henry Holt; this the London issue of Cecil Palmer and Hayward, whose title page shows no year, so the 1917 copyright year on the verso is the only date). US public domain. No uids minted.",
+ "_author": "William Mackintire Salter",
+ "_name_words": [
+  "william",
+  "mackintire",
+  "salter"
+ ],
+ "_surname": [
+  "salter",
+  "mackintire salter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "salter-ethical-religion-1889": [
+   "ethicalreligion00salt",
+   "Ethical Religion (Roberts Brothers, 1889)"
+  ],
+  "salter-first-steps-in-philosophy-1892": [
+   "firststepsinphi01saltgoog",
+   "First Steps in Philosophy (Kerr, 1892)"
+  ],
+  "salter-nietzsche-the-thinker-1917": [
+   "nietzschethethin00saltuoft",
+   "Nietzsche the Thinker (copyright 1917; London: Cecil Palmer and Hayward issue)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "salter-ethical-religion-1889": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "salter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salter-first-steps-in-philosophy-1892": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "salter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "salter-nietzsche-the-thinker-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "salter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
