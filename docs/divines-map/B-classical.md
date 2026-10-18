@@ -6944,6 +6944,14 @@ Shelf: `pipeline/james-sully_shelf.json`. Eight volumes, 1877-1902.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Illusions: A Psychological Study |  | `sully-illusions` | have (PG 17815) |
+| Studies of Childhood |  | `sully-studies-of-childhood` | have (PG 62175) |
+| Children's Ways |  | `sully-childrens-ways` | have (PG 37020) |
+| An Essay on Laughter |  | `sully-essay-on-laughter` | have (PG 58606) |
+| Pessimism: A History and a Criticism (King, 1877) |  | `sully-pessimism-1877` | have-raw (IA `pessimismhistory00sull`) |
+| Outlines of Psychology (Appleton, 1888) |  | `sully-outlines-of-psychology-1888` | have-raw (IA `outlinespsychol01sullgoog`) |
+| The Human Mind, vol. I (Longmans, 1892) |  | `sully-human-mind-1892-v1` | have-raw (IA `humanmindtextboo01sulluoft`) |
+| The Human Mind, vol. II (Longmans, 1892) |  | `sully-human-mind-1892-v2` | have-raw (IA `humanmindtextboo02sulluoft`) |
 
 ## L. P. Jacks (essays in philosophy and religion)
 
