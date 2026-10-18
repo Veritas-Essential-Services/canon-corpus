@@ -7883,6 +7883,8 @@ Shelf: `pipeline/james-hayden-tufts_shelf.json`. Two books, 1917-1918.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Our Democracy, its origins and its tasks (Holt, 1917) |  | `tufts-our-democracy-1917` | have-raw (IA `cu31924031446424`) |
+| The Ethics of Cooperation (Houghton Mifflin, 1918) |  | `tufts-ethics-of-cooperation-1918` | have-raw (IA `ethicsofcopera00tuftuoft`) |
 
 ## Boyd H. Bode (pragmatist philosophy of education)
 
