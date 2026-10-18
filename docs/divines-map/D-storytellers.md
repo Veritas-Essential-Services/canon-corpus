@@ -8946,6 +8946,80 @@ Shelf: `pipeline/peacock_shelf.json` (2026-10-17; added at the coordinator's rel
 | Gryll Grange | have | PG 21514, `peacock-gryll-grange` (1546 units) |
 | Melincourt | have | PG 75943, `peacock-melincourt` (1509 units) |
 
+## Charles Dickens
+
+Shelf: `pipeline/dickens-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (61 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mystery of Edwin Drood | have | PG 564, `dickens-mystery-of-edwin-drood` (2501 units) |
+| The Pickwick Papers | have | PG 580, `dickens-pickwick-papers` (8029 units) |
+| Master Humphrey's Clock | have | PG 588, `dickens-master-humphreys-clock` (663 units) |
+| Pictures from Italy | have | PG 650, `dickens-pictures-from-italy` (535 units) |
+| American Notes | have | PG 675, `dickens-american-notes` (1055 units) |
+| A Child's History of England | have | PG 699, `dickens-a-childs-history-of-england` (1066 units) |
+| The Old Curiosity Shop | have | PG 700, `dickens-old-curiosity-shop` (4023 units) |
+| Hunted Down: The Detective Stories of Charles Dickens | have | PG 807, `dickens-hunted-down` (232 units) |
+| Holiday Romance | have | PG 809, `dickens-holiday-romance` (367 units) |
+| George Silverman's Explanation | have | PG 810, `dickens-george-silvermans-explanation` (194 units) |
+| Dombey and Son | have | PG 821, `dickens-dombey-and-son` (7257 units) |
+| Speeches: Literary and Social | have | PG 824, `dickens-speeches` (716 units) |
+| Sketches by Boz, Illustrative of Every-Day Life and Every-Day People | have | PG 882, `dickens-sketches-by-boz-illustrative-of-every-day-life-and-e` (3375 units) |
+| Our Mutual Friend | have | PG 883, `dickens-our-mutual-friend` (8494 units) |
+| The Lazy Tour of Two Idle Apprentices (with Wilkie Collins) | have | PG 888, `dickens-lazy-tour-of-two-idle-apprentices` (517 units) |
+| Mudfog and Other Sketches | have | PG 912, `dickens-mudfog-and-other-sketches` (407 units) |
+| The Uncommercial Traveller | have | PG 914, `dickens-uncommercial-traveller` (1199 units) |
+| Sketches of Young Couples | have | PG 916, `dickens-sketches-of-young-couples` (136 units) |
+| Barnaby Rudge: A Tale of the Riots of 'Eighty | have | PG 917, `dickens-barnaby-rudge` (4618 units) |
+| Sketches of Young Gentlemen | have | PG 918, `dickens-sketches-of-young-gentlemen` (135 units) |
+| Sunday Under Three Heads | have | PG 922, `dickens-sunday-under-three-heads` (72 units) |
+| To Be Read at Dusk | have | PG 924, `dickens-to-be-read-at-dusk` (109 units) |
+| The Lamplighter | have | PG 927, `dickens-lamplighter` (147 units) |
+| Nicholas Nickleby | have | PG 967, `dickens-nicholas-nickleby` (7323 units) |
+| Martin Chuzzlewit | have | PG 968, `dickens-martin-chuzzlewit` (7160 units) |
+| Three Ghost Stories | have | PG 1289, `dickens-three-ghost-stories` (341 units) |
+| The Seven Poor Travellers | have | PG 1392, `dickens-seven-poor-travellers` (160 units) |
+| The Holly-Tree | have | PG 1394, `dickens-holly-tree` (145 units) |
+| The Perils of Certain English Prisoners | have | PG 1406, `dickens-perils-of-certain-english-prisoners` (308 units) |
+| A Message from the Sea | have | PG 1407, `dickens-a-message-from-the-sea` (275 units) |
+| Tom Tiddler's Ground | have | PG 1413, `dickens-tom-tiddlers-ground` (205 units) |
+| Somebody's Luggage | have | PG 1414, `dickens-somebodys-luggage` (351 units) |
+| Doctor Marigold | have | PG 1415, `dickens-doctor-marigold` (110 units) |
+| Mrs. Lirriper's Lodgings | have | PG 1416, `dickens-mrs-lirripers-lodgings` (209 units) |
+| Mugby Junction | have | PG 1419, `dickens-mugby-junction` (500 units) |
+| Mrs. Lirriper's Legacy | have | PG 1421, `dickens-mrs-lirripers-legacy` (135 units) |
+| Going into Society | have | PG 1422, `dickens-going-into-society` (88 units) |
+| No Thoroughfare (with Wilkie Collins) | have | PG 1423, `dickens-no-thoroughfare` (1024 units) |
+| Miscellaneous Papers | have | PG 1435, `dickens-miscellaneous-papers` (183 units) |
+| The Wreck of the Golden Mary | have | PG 1465, `dickens-wreck-of-the-golden-mary` (98 units) |
+| Some Christmas Stories | have | PG 1467, `dickens-some-christmas-stories` (223 units) |
+| The Magic Fishbone A Holiday Romance from the Pen of Miss Alice Rainbird, Aged 7 | have | PG 23344, `dickens-magic-fishbone-a-holiday-romance-from-the-pen-of-mis` (128 units) |
+| The Trial of William Tinkling Written by Himself at the Age of 8 Years | have | PG 23452, `dickens-trial-of-william-tinkling-written-by-himself-at-the` (104 units) |
+| Captain Boldheart & the Latin-Grammar Master A Holiday Romance from the Pen of Lieut-Col. Robin Redforth, aged 9 | have | PG 23765, `dickens-captain-boldheart-the-latin-grammar-master-a-holiday` (112 units) |
+| The Letters of Charles Dickens. Vol. 1, 1833-1856 | have | PG 25852, `dickens-letters-of-charles-dickens-vol-1-1833-1856` (2890 units) |
+| The Letters of Charles Dickens. Vol. 2, 1857-1870 | have | PG 25853, `dickens-letters-of-charles-dickens-vol-2-1857-1870` (3300 units) |
+| The Letters of Charles Dickens. Vol. 3, 1836-1870 | have | PG 25854, `dickens-letters-of-charles-dickens-vol-3-1836-1870` (2385 units) |
+| The Poems and Verses of Charles Dickens | have | PG 35536, `dickens-poems-and-verses-of-charles-dickens` (293 units) |
+| Charles Dickens' Children Stories | have | PG 37121, `dickens-charles-dickens-children-stories` (466 units) |
+| A Child's Dream of a Star | have | PG 42232, `dickens-a-childs-dream-of-a-star` (34 units) |
+| The Personal History of David Copperfield | have | PG 43111, `dickens-personal-history-of-david-copperfield` (7562 units) |
+| Oliver Twist, Vol. 1 (of 3) | have | PG 47529, `dickens-oliver-twist-vol-1-of-3` (1346 units) |
+| Oliver Twist, Vol. 2 (of 3) | have | PG 47530, `dickens-oliver-twist-vol-2-of-3` (1215 units) |
+| Oliver Twist, Vol. 3 (of 3) | have | PG 47531, `dickens-oliver-twist-vol-3-of-3` (1328 units) |
+| The Posthumous Papers of the Pickwick Club, v. 1 (of 2) | have | PG 47534, `dickens-posthumous-papers-of-the-pickwick-club-v-1-of-2` (4127 units) |
+| The Posthumous Papers of the Pickwick Club, v. 2 (of 2) | have | PG 47535, `dickens-posthumous-papers-of-the-pickwick-club-v-2-of-2` (4255 units) |
+| Pearl-Fishing; Choice Stories from Dickens' Household Words; First Series | have | PG 49927, `dickens-pearl-fishing` (964 units) |
+| Pearl-Fishing; Choice Stories from Dickens' Household Words; Second Series | have | PG 50334, `dickens-pearl-fishing-50334` (956 units) |
+| Mr. Pickwick's Christmas Being an Account of the Pickwickians' Christmas at the Manor Farm, of the Adventures There; the Tale of the Goblin Who Stole a Sexton, and of the Famous Sports on the Ice | have | PG 61193, `dickens-mr-pickwicks-christmas-being-an-account-of-the-pickw` (441 units) |
+| The Mudfog papers, etc. | have | PG 78245, `dickens-mudfog-papers-etc` (384 units) |
+| A House to Let (with Wilkie Collins, Elizabeth Gaskell and Adelaide Anne Procter) | have | PG 2324, `dickens-a-house-to-let` (586 units) |
+| pg-58157 | excluded | PG 58157: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 27924: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 98, 730, 766, 786, 963, 1023, 1400: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| pg-25985 | excluded | Retellings and adaptations by other hands: PG 25985 (Fitzgerald), 30127 (Rives), 32241 (Hurlbut), 41894 (Harrison), 43207 (illustration book), 49125 (McSpadden), 52125 (anonymous), 75856 (Crothers). |
+| pg-46675 | excluded | PG 46675 Oliver Twist (illustrated): a second edition; the reading-list dickens shelf holds the novel. |
+| pg-71858 | excluded | PG 71858 Holly Berries from Dickens: a gift-book selection of passages from books already shelved. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

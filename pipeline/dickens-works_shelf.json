@@ -1,0 +1,870 @@
+{
+ "_about": "Charles Dickens's novels, Christmas books, sketches, travels and journalism not already on another shelf (the reading-list dickens shelf and the dickens-christmas shelf hold the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Charles Dickens",
+ "_name_words": [
+  "dickens"
+ ],
+ "_surname": [
+  "charles dickens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dickens-mystery-of-edwin-drood": [
+   564,
+   "The Mystery of Edwin Drood",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-pickwick-papers": [
+   580,
+   "The Pickwick Papers"
+  ],
+  "dickens-master-humphreys-clock": [
+   588,
+   "Master Humphrey's Clock"
+  ],
+  "dickens-pictures-from-italy": [
+   650,
+   "Pictures from Italy"
+  ],
+  "dickens-american-notes": [
+   675,
+   "American Notes"
+  ],
+  "dickens-a-childs-history-of-england": [
+   699,
+   "A Child's History of England",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-old-curiosity-shop": [
+   700,
+   "The Old Curiosity Shop"
+  ],
+  "dickens-hunted-down": [
+   807,
+   "Hunted Down: The Detective Stories of Charles Dickens",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ],
+  "dickens-holiday-romance": [
+   809,
+   "Holiday Romance"
+  ],
+  "dickens-george-silvermans-explanation": [
+   810,
+   "George Silverman's Explanation"
+  ],
+  "dickens-dombey-and-son": [
+   821,
+   "Dombey and Son",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER\\s+[IVXLC]+\\..*"
+     }
+    ],
+    "start": "CHAPTER\\ I\\.\\ Dombey\\ and\\ Son$",
+    "front": true
+   }
+  ],
+  "dickens-speeches": [
+   824,
+   "Speeches: Literary and Social"
+  ],
+  "dickens-sketches-by-boz-illustrative-of-every-day-life-and-e": [
+   882,
+   "Sketches by Boz, Illustrative of Every-Day Life and Every-Day People"
+  ],
+  "dickens-our-mutual-friend": [
+   883,
+   "Our Mutual Friend",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-lazy-tour-of-two-idle-apprentices": [
+   888,
+   "The Lazy Tour of Two Idle Apprentices (with Wilkie Collins)"
+  ],
+  "dickens-mudfog-and-other-sketches": [
+   912,
+   "Mudfog and Other Sketches"
+  ],
+  "dickens-uncommercial-traveller": [
+   914,
+   "The Uncommercial Traveller",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-sketches-of-young-couples": [
+   916,
+   "Sketches of Young Couples"
+  ],
+  "dickens-barnaby-rudge": [
+   917,
+   "Barnaby Rudge: A Tale of the Riots of 'Eighty",
+   {
+    "levels": [
+     {
+      "re": "Chapter\\s+[0-9]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter\\ 1$",
+    "front": true
+   }
+  ],
+  "dickens-sketches-of-young-gentlemen": [
+   918,
+   "Sketches of Young Gentlemen",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-sunday-under-three-heads": [
+   922,
+   "Sunday Under Three Heads"
+  ],
+  "dickens-to-be-read-at-dusk": [
+   924,
+   "To Be Read at Dusk"
+  ],
+  "dickens-lamplighter": [
+   927,
+   "The Lamplighter"
+  ],
+  "dickens-nicholas-nickleby": [
+   967,
+   "Nicholas Nickleby"
+  ],
+  "dickens-martin-chuzzlewit": [
+   968,
+   "Martin Chuzzlewit"
+  ],
+  "dickens-three-ghost-stories": [
+   1289,
+   "Three Ghost Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-seven-poor-travellers": [
+   1392,
+   "The Seven Poor Travellers"
+  ],
+  "dickens-holly-tree": [
+   1394,
+   "The Holly-Tree"
+  ],
+  "dickens-perils-of-certain-english-prisoners": [
+   1406,
+   "The Perils of Certain English Prisoners"
+  ],
+  "dickens-a-message-from-the-sea": [
+   1407,
+   "A Message from the Sea"
+  ],
+  "dickens-tom-tiddlers-ground": [
+   1413,
+   "Tom Tiddler's Ground"
+  ],
+  "dickens-somebodys-luggage": [
+   1414,
+   "Somebody's Luggage"
+  ],
+  "dickens-doctor-marigold": [
+   1415,
+   "Doctor Marigold"
+  ],
+  "dickens-mrs-lirripers-lodgings": [
+   1416,
+   "Mrs. Lirriper's Lodgings"
+  ],
+  "dickens-mugby-junction": [
+   1419,
+   "Mugby Junction"
+  ],
+  "dickens-mrs-lirripers-legacy": [
+   1421,
+   "Mrs. Lirriper's Legacy"
+  ],
+  "dickens-going-into-society": [
+   1422,
+   "Going into Society"
+  ],
+  "dickens-no-thoroughfare": [
+   1423,
+   "No Thoroughfare (with Wilkie Collins)"
+  ],
+  "dickens-miscellaneous-papers": [
+   1435,
+   "Miscellaneous Papers"
+  ],
+  "dickens-wreck-of-the-golden-mary": [
+   1465,
+   "The Wreck of the Golden Mary"
+  ],
+  "dickens-some-christmas-stories": [
+   1467,
+   "Some Christmas Stories"
+  ],
+  "dickens-magic-fishbone-a-holiday-romance-from-the-pen-of-mis": [
+   23344,
+   "The Magic Fishbone A Holiday Romance from the Pen of Miss Alice Rainbird, Aged 7"
+  ],
+  "dickens-trial-of-william-tinkling-written-by-himself-at-the": [
+   23452,
+   "The Trial of William Tinkling Written by Himself at the Age of 8 Years"
+  ],
+  "dickens-captain-boldheart-the-latin-grammar-master-a-holiday": [
+   23765,
+   "Captain Boldheart & the Latin-Grammar Master A Holiday Romance from the Pen of Lieut-Col. Robin Redforth, aged 9"
+  ],
+  "dickens-letters-of-charles-dickens-vol-1-1833-1856": [
+   25852,
+   "The Letters of Charles Dickens. Vol. 1, 1833-1856"
+  ],
+  "dickens-letters-of-charles-dickens-vol-2-1857-1870": [
+   25853,
+   "The Letters of Charles Dickens. Vol. 2, 1857-1870"
+  ],
+  "dickens-letters-of-charles-dickens-vol-3-1836-1870": [
+   25854,
+   "The Letters of Charles Dickens. Vol. 3, 1836-1870"
+  ],
+  "dickens-poems-and-verses-of-charles-dickens": [
+   35536,
+   "The Poems and Verses of Charles Dickens"
+  ],
+  "dickens-charles-dickens-children-stories": [
+   37121,
+   "Charles Dickens' Children Stories"
+  ],
+  "dickens-a-childs-dream-of-a-star": [
+   42232,
+   "A Child's Dream of a Star"
+  ],
+  "dickens-personal-history-of-david-copperfield": [
+   43111,
+   "The Personal History of David Copperfield",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-oliver-twist-vol-1-of-3": [
+   47529,
+   "Oliver Twist, Vol. 1 (of 3)"
+  ],
+  "dickens-oliver-twist-vol-2-of-3": [
+   47530,
+   "Oliver Twist, Vol. 2 (of 3)"
+  ],
+  "dickens-oliver-twist-vol-3-of-3": [
+   47531,
+   "Oliver Twist, Vol. 3 (of 3)"
+  ],
+  "dickens-posthumous-papers-of-the-pickwick-club-v-1-of-2": [
+   47534,
+   "The Posthumous Papers of the Pickwick Club, v. 1 (of 2)"
+  ],
+  "dickens-posthumous-papers-of-the-pickwick-club-v-2-of-2": [
+   47535,
+   "The Posthumous Papers of the Pickwick Club, v. 2 (of 2)"
+  ],
+  "dickens-pearl-fishing": [
+   49927,
+   "Pearl-Fishing; Choice Stories from Dickens' Household Words; First Series"
+  ],
+  "dickens-pearl-fishing-50334": [
+   50334,
+   "Pearl-Fishing; Choice Stories from Dickens' Household Words; Second Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "dickens-mr-pickwicks-christmas-being-an-account-of-the-pickw": [
+   61193,
+   "Mr. Pickwick's Christmas Being an Account of the Pickwickians' Christmas at the Manor Farm, of the Adventures There; the Tale of the Goblin Who Stole a Sexton, and of the Famous Sports on the Ice"
+  ],
+  "dickens-mudfog-papers-etc": [
+   78245,
+   "The Mudfog papers, etc."
+  ],
+  "dickens-a-house-to-let": [
+   2324,
+   "A House to Let (with Wilkie Collins, Elizabeth Gaskell and Adelaide Anne Procter)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58157": "PG 58157: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 27924: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 98, 730, 766, 786, 963, 1023, 1400: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-25985": "Retellings and adaptations by other hands: PG 25985 (Fitzgerald), 30127 (Rives), 32241 (Hurlbut), 41894 (Harrison), 43207 (illustration book), 49125 (McSpadden), 52125 (anonymous), 75856 (Crothers).",
+  "pg-46675": "PG 46675 Oliver Twist (illustrated): a second edition; the reading-list dickens shelf holds the novel.",
+  "pg-71858": "PG 71858 Holly Berries from Dickens: a gift-book selection of passages from books already shelved."
+ },
+ "_checks": {
+  "dickens-mystery-of-edwin-drood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-pickwick-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-master-humphreys-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-pictures-from-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-american-notes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-a-childs-history-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-old-curiosity-shop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-hunted-down": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-holiday-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-george-silvermans-explanation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-dombey-and-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-speeches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-sketches-by-boz-illustrative-of-every-day-life-and-e": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-our-mutual-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-lazy-tour-of-two-idle-apprentices": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mudfog-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-uncommercial-traveller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-sketches-of-young-couples": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-barnaby-rudge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-sketches-of-young-gentlemen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-sunday-under-three-heads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-to-be-read-at-dusk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-lamplighter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-nicholas-nickleby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-martin-chuzzlewit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-three-ghost-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-seven-poor-travellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-holly-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-perils-of-certain-english-prisoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-a-message-from-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-tom-tiddlers-ground": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-somebodys-luggage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-doctor-marigold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mrs-lirripers-lodgings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mugby-junction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mrs-lirripers-legacy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-going-into-society": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-no-thoroughfare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-miscellaneous-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-wreck-of-the-golden-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-some-christmas-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-magic-fishbone-a-holiday-romance-from-the-pen-of-mis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-trial-of-william-tinkling-written-by-himself-at-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-captain-boldheart-the-latin-grammar-master-a-holiday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-letters-of-charles-dickens-vol-1-1833-1856": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-letters-of-charles-dickens-vol-2-1857-1870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-letters-of-charles-dickens-vol-3-1836-1870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-poems-and-verses-of-charles-dickens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-charles-dickens-children-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-a-childs-dream-of-a-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-personal-history-of-david-copperfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-oliver-twist-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-oliver-twist-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-oliver-twist-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-posthumous-papers-of-the-pickwick-club-v-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-posthumous-papers-of-the-pickwick-club-v-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-pearl-fishing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-pearl-fishing-50334": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mr-pickwicks-christmas-being-an-account-of-the-pickw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-mudfog-papers-etc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-a-house-to-let": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

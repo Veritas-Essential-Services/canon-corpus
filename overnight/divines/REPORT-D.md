@@ -1398,3 +1398,6 @@
 
 ## 2026-10-17 19:55 CDT — peacock: done
 - peacock: new shelf, 6 Gutenberg books, 5,711 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:55 CDT — dickens-works: done
+- dickens-works: new shelf, 61 Gutenberg books, 97,561 units, 4667 ~2 ids; verify 0 mismatches, 0 rights flags.
