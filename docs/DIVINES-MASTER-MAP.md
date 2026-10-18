@@ -29311,6 +29311,37 @@ Shelf: `pipeline/blackmore_shelf.json` (2026-10-17; added at the coordinator's r
 | pg-58162 | excluded | PG 58162: Gutenberg's index of the author's works, not a book. |
 | repeat-editions | excluded | PG 17460: second Gutenberg editions of titles already on the shelf. |
 
+## George Gissing
+
+Shelf: `pipeline/gissing_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (24 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Private Papers of Henry Ryecroft | have | PG 1463, `gissing-private-papers-of-henry-ryecroft` (427 units) |
+| New Grub Street | have | PG 1709, `gissing-new-grub-street` (5447 units) |
+| Eve's Ransom | have | PG 4297, `gissing-eves-ransom` (1862 units) |
+| The Paying Guest | have | PG 4298, `gissing-paying-guest` (635 units) |
+| The Whirlpool | have | PG 4299, `gissing-whirlpool` (3819 units) |
+| The Nether World | have | PG 4301, `gissing-nether-world` (2971 units) |
+| Thyrza | have | PG 4302, `gissing-thyrza` (5444 units) |
+| Denzil Quarrier | have | PG 4303, `gissing-denzil-quarrier` (2249 units) |
+| Our Friend the Charlatan | have | PG 4304, `gissing-our-friend-the-charlatan` (3158 units) |
+| The Unclassed | have | PG 4305, `gissing-unclassed` (2731 units) |
+| Veranilda | have | PG 4306, `gissing-veranilda` (2229 units) |
+| In the Year of Jubilee | have | PG 4307, `gissing-in-the-year-of-jubilee` (3942 units) |
+| The Town Traveller | have | PG 4308, `gissing-town-traveller` (1716 units) |
+| Demos | have | PG 4309, `gissing-demos` (4859 units) |
+| Will Warburton | have | PG 4310, `gissing-will-warburton` (1941 units) |
+| The Emancipated | have | PG 4311, `gissing-emancipated` (3896 units) |
+| A Life's Morning | have | PG 4312, `gissing-a-lifes-morning` (3016 units) |
+| The Odd Women | have | PG 4313, `gissing-odd-women` (4025 units) |
+| By the Ionian Sea: Notes of a Ramble in Southern Italy | have | PG 4354, `gissing-by-the-ionian-sea` (256 units) |
+| Born in Exile | have | PG 4526, `gissing-born-in-exile` (3786 units) |
+| The Crown of Life | have | PG 4541, `gissing-crown-of-life` (2809 units) |
+| The House of Cobwebs and Other Stories | have | PG 11603, `gissing-house-of-cobwebs-and-other-stories` (1735 units) |
+| Isabel Clarendon, Vol. 1 (of 2) | have | PG 54431, `gissing-isabel-clarendon-vol-1-of-2` (1540 units) |
+| Isabel Clarendon, Vol. 2 (of 2) | have | PG 54432, `gissing-isabel-clarendon-vol-2-of-2` (1651 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

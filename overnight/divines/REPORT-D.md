@@ -1335,3 +1335,6 @@
 
 ## 2026-10-17 19:32 CDT — blackmore: done
 - blackmore: new shelf, 23 Gutenberg books, 34,890 units, 961 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:32 CDT — gissing: done
+- gissing: new shelf, 24 Gutenberg books, 66,144 units, 8206 ~2 ids; verify 0 mismatches, 0 rights flags.

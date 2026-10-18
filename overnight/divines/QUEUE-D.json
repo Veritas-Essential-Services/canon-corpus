@@ -2821,6 +2821,14 @@
       "started": "2026-10-17T19:32:31-05:00",
       "finished": "2026-10-17T19:32:32-05:00",
       "notes": "blackmore: new shelf, 23 Gutenberg books, 34,890 units, 961 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "gissing",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Gissing; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:32:33-05:00",
+      "finished": "2026-10-17T19:32:33-05:00",
+      "notes": "gissing: new shelf, 24 Gutenberg books, 66,144 units, 8206 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
