@@ -7903,6 +7903,7 @@ Shelf: `pipeline/charles-m-bakewell_shelf.json`. One book, 1907.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Source Book in Ancient Philosophy (Scribner, 1907) |  | `bakewell-source-book-in-ancient-philosophy-1907` | have-raw (IA `sourcebookinanci00bakeuoft`) |
 
 ## Robert S. Woodworth (dynamic psychology)
 
