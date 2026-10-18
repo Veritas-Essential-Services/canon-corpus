@@ -7128,3 +7128,14 @@ Slugs `cfschmid-*`. Biblical Theology of the New Testament (1870).
 |---|---|---|
 | Biblical Theology of the New Testament, tr. G. H. Venables (Edinburgh: T. & T. Clark, MDCCCLXX) | have-ocr | IA `biblicaltheology00schmuoft` |
 | Other 1870 copies; the 1877 second and 1882 third editions | alternate | not shelved |
+
+## Johann Tobias Beck (round 31, my pick, 2026-10-18)
+
+Slugs `jtbeck-*`. Biblical Psychology and Pastoral Theology in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of Biblical Psychology, translated from the third German edition (Edinburgh: T. and T. Clark, 1877) | have-ocr | IA `outlinesbiblica00beckgoog` |
+| Pastoral Theology of the New Testament, tr. James A. M'Clymont and Thomas Nicol (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `pastoraltheology00beck` |
+| Other 1885 Pastoral Theology copies | alternate | not shelved |
+| German works | excluded | |
