@@ -7002,6 +7002,9 @@ Shelf: `pipeline/will-durant_shelf.json`. Three books, 1917-1929.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Philosophy and the Social Problem |  | `durant-philosophy-and-the-social-problem` | have (PG 42880) |
+| Transition (Simon and Schuster, 1927) |  | `durant-transition-1927` | have-raw (IA `transitionsentim0000will`) |
+| The Mansions of Philosophy (1929) |  | `durant-mansions-of-philosophy-1929` | have-raw (IA `mansionsofphilos0000will_n3v4`) |
 
 Pending (wishlist): The Story of Philosophy (1926) in a pre-1931 printing
 
