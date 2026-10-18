@@ -1,0 +1,540 @@
+{
+ "_about": "T. S. Arthur's temperance and domestic stories",
+ "_author": "T. S. Arthur",
+ "_name_words": [
+  "arthur"
+ ],
+ "_surname": [
+  "t. s. arthur",
+  "timothy shay arthur"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tsarthur-danger": [
+   4586,
+   "Danger; Or, Wounded in the House of a Friend"
+  ],
+  "tsarthur-finger-posts-on-the-way-of-life": [
+   4587,
+   "Finger Posts on the Way of Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-allen-house": [
+   4588,
+   "The Allen House; Or, Twenty Years Ago and Now"
+  ],
+  "tsarthur-alls-for-the-best": [
+   4589,
+   "All's for the Best",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-after-the-storm": [
+   4590,
+   "After the Storm"
+  ],
+  "tsarthur-after-a-shadow-and-other-stories": [
+   4591,
+   "After a shadow, and other stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-cast-adrift": [
+   4592,
+   "Cast Adrift"
+  ],
+  "tsarthur-home-lights-and-shadows": [
+   4594,
+   "Home Lights and Shadows",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-heart-histories-and-life-pictures": [
+   4595,
+   "Heart-Histories and Life-Pictures",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-lessons-in-life-for-all-who-will-read-them": [
+   4616,
+   "Lessons in Life, for All Who Will Read Them",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-womans-trials": [
+   4617,
+   "Woman's Trials; Or, Tales and Sketches from the Life around Us",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-words-for-the-wise": [
+   4618,
+   "Words for the Wise"
+  ],
+  "tsarthur-words-of-cheer-for-the-tempted-the-toiling-and-the": [
+   4619,
+   "Words of Cheer for the Tempted, the Toiling, and the Sorrowing",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-two-wives": [
+   4621,
+   "The Two Wives; Or, Lost and Won"
+  ],
+  "tsarthur-trials-and-confessions-of-a-housekeeper": [
+   4622,
+   "Trials and Confessions of a Housekeeper",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-son-of-my-friend": [
+   4623,
+   "The Son of My Friend"
+  ],
+  "tsarthur-off-hand-sketches-a-little-dashed-with-humor": [
+   4624,
+   "Off-Hand Sketches, a Little Dashed with Humor"
+  ],
+  "tsarthur-lizzy-glenn": [
+   4625,
+   "Lizzy Glenn; Or, The Trials of a Seamstress",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-married-life": [
+   4626,
+   "Married Life; Its Shadows and Sunshine",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-lights-and-shadows-of-real-life": [
+   4627,
+   "The Lights and Shadows of Real Life"
+  ],
+  "tsarthur-iron-rule": [
+   4628,
+   "The Iron Rule; Or, Tyranny in the Household"
+  ],
+  "tsarthur-home-scenes-and-home-influence": [
+   4629,
+   "Home Scenes and Home Influence; a series of tales and sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-home-mission": [
+   4630,
+   "The Home Mission",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-hand-but-not-the-heart": [
+   4631,
+   "The Hand but Not the Heart; Or, The Life-Trials of Jessie Loring"
+  ],
+  "tsarthur-good-time-coming": [
+   4632,
+   "The Good Time Coming"
+  ],
+  "tsarthur-ten-nights-in-a-bar-room": [
+   4744,
+   "Ten Nights in a Bar Room"
+  ],
+  "tsarthur-grappling-with-the-monster": [
+   13509,
+   "Grappling with the Monster; Or, the Curse and the Cure of Strong Drink",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-true-riches": [
+   15389,
+   "True Riches; Or, Wealth Without Wings"
+  ],
+  "tsarthur-wreaths-of-friendship": [
+   16073,
+   "Wreaths of Friendship: A Gift for the Young (with Francis C. Woodworth)"
+  ],
+  "tsarthur-last-penny-and-other-stories": [
+   24437,
+   "The Last Penny and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-who-are-happiest-and-other-stories": [
+   24753,
+   "Who Are Happiest? and Other Stories"
+  ],
+  "tsarthur-hair-breadth-escapes-perilous-incidents-in-the-live": [
+   29829,
+   "Hair Breadth Escapes Perilous incidents in the lives of sailors and travelers in Japan, Cuba, East Indies, etc., etc.",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-angel-and-the-demon": [
+   67996,
+   "The Angel and the Demon: A Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-power-of-kindness-and-other-stories-a-book-for-the": [
+   68158,
+   "The power of kindness and other stories A book for the example and encouragement of the young",
+   {
+    "contents_only": true
+   }
+  ],
+  "tsarthur-riches-have-wings": [
+   69538,
+   "Riches have wings; or, A tale for the rich and poor"
+  ],
+  "tsarthur-rising-in-the-world": [
+   71329,
+   "Rising in the world"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tsarthur-danger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-finger-posts-on-the-way-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-allen-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-alls-for-the-best": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-after-the-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-after-a-shadow-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-cast-adrift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-home-lights-and-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-heart-histories-and-life-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-lessons-in-life-for-all-who-will-read-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-womans-trials": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-words-for-the-wise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-words-of-cheer-for-the-tempted-the-toiling-and-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-two-wives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-trials-and-confessions-of-a-housekeeper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-son-of-my-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-off-hand-sketches-a-little-dashed-with-humor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-lizzy-glenn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-married-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-lights-and-shadows-of-real-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-iron-rule": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-home-scenes-and-home-influence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-home-mission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-hand-but-not-the-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-good-time-coming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-ten-nights-in-a-bar-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-grappling-with-the-monster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-true-riches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-wreaths-of-friendship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-last-penny-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-who-are-happiest-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-hair-breadth-escapes-perilous-incidents-in-the-live": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-angel-and-the-demon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-power-of-kindness-and-other-stories-a-book-for-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-riches-have-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tsarthur-rising-in-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "t. s. arthur",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

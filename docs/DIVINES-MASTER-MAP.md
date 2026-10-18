@@ -37222,6 +37222,49 @@ Shelf: `pipeline/lucy-ellen-guernsey_shelf.json` (2026-10-17; added at the coord
 | Kitty Maynard | have | PG 79094, `leguernsey-kitty-maynard` (1194 units) |
 | Myra Sherwood's cross, and how she bore it | have | PG 79640, `leguernsey-myra-sherwoods-cross-and-how-she-bore-it` (1386 units) |
 
+## T. S. Arthur
+
+Shelf: `pipeline/ts-arthur_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (36 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Danger; Or, Wounded in the House of a Friend | have | PG 4586, `tsarthur-danger` (1821 units) |
+| Finger Posts on the Way of Life | have | PG 4587, `tsarthur-finger-posts-on-the-way-of-life` (1629 units) |
+| The Allen House; Or, Twenty Years Ago and Now | have | PG 4588, `tsarthur-allen-house` (1886 units) |
+| All's for the Best | have | PG 4589, `tsarthur-alls-for-the-best` (972 units) |
+| After the Storm | have | PG 4590, `tsarthur-after-the-storm` (1630 units) |
+| After a shadow, and other stories | have | PG 4591, `tsarthur-after-a-shadow-and-other-stories` (1165 units) |
+| Cast Adrift | have | PG 4592, `tsarthur-cast-adrift` (2411 units) |
+| Home Lights and Shadows | have | PG 4594, `tsarthur-home-lights-and-shadows` (1939 units) |
+| Heart-Histories and Life-Pictures | have | PG 4595, `tsarthur-heart-histories-and-life-pictures` (1968 units) |
+| Lessons in Life, for All Who Will Read Them | have | PG 4616, `tsarthur-lessons-in-life-for-all-who-will-read-them` (1278 units) |
+| Woman's Trials; Or, Tales and Sketches from the Life around Us | have | PG 4617, `tsarthur-womans-trials` (1338 units) |
+| Words for the Wise | have | PG 4618, `tsarthur-words-for-the-wise` (1206 units) |
+| Words of Cheer for the Tempted, the Toiling, and the Sorrowing | have | PG 4619, `tsarthur-words-of-cheer-for-the-tempted-the-toiling-and-the` (1081 units) |
+| The Two Wives; Or, Lost and Won | have | PG 4621, `tsarthur-two-wives` (1155 units) |
+| Trials and Confessions of a Housekeeper | have | PG 4622, `tsarthur-trials-and-confessions-of-a-housekeeper` (1916 units) |
+| The Son of My Friend | have | PG 4623, `tsarthur-son-of-my-friend` (127 units) |
+| Off-Hand Sketches, a Little Dashed with Humor | have | PG 4624, `tsarthur-off-hand-sketches-a-little-dashed-with-humor` (1624 units) |
+| Lizzy Glenn; Or, The Trials of a Seamstress | have | PG 4625, `tsarthur-lizzy-glenn` (1148 units) |
+| Married Life; Its Shadows and Sunshine | have | PG 4626, `tsarthur-married-life` (1264 units) |
+| The Lights and Shadows of Real Life | have | PG 4627, `tsarthur-lights-and-shadows-of-real-life` (4450 units) |
+| The Iron Rule; Or, Tyranny in the Household | have | PG 4628, `tsarthur-iron-rule` (905 units) |
+| Home Scenes and Home Influence; a series of tales and sketches | have | PG 4629, `tsarthur-home-scenes-and-home-influence` (1394 units) |
+| The Home Mission | have | PG 4630, `tsarthur-home-mission` (1341 units) |
+| The Hand but Not the Heart; Or, The Life-Trials of Jessie Loring | have | PG 4631, `tsarthur-hand-but-not-the-heart` (1707 units) |
+| The Good Time Coming | have | PG 4632, `tsarthur-good-time-coming` (2149 units) |
+| Ten Nights in a Bar Room | have | PG 4744, `tsarthur-ten-nights-in-a-bar-room` (1644 units) |
+| Grappling with the Monster; Or, the Curse and the Cure of Strong Drink | have | PG 13509, `tsarthur-grappling-with-the-monster` (870 units) |
+| True Riches; Or, Wealth Without Wings | have | PG 15389, `tsarthur-true-riches` (1670 units) |
+| Wreaths of Friendship: A Gift for the Young (with Francis C. Woodworth) | have | PG 16073, `tsarthur-wreaths-of-friendship` (747 units) |
+| The Last Penny and Other Stories | have | PG 24437, `tsarthur-last-penny-and-other-stories` (540 units) |
+| Who Are Happiest? and Other Stories | have | PG 24753, `tsarthur-who-are-happiest-and-other-stories` (623 units) |
+| Hair Breadth Escapes Perilous incidents in the lives of sailors and travelers in Japan, Cuba, East Indies, etc., etc. | have | PG 29829, `tsarthur-hair-breadth-escapes-perilous-incidents-in-the-live` (615 units) |
+| The Angel and the Demon: A Tale | have | PG 67996, `tsarthur-angel-and-the-demon` (2232 units) |
+| The power of kindness and other stories A book for the example and encouragement of the young | have | PG 68158, `tsarthur-power-of-kindness-and-other-stories-a-book-for-the` (647 units) |
+| Riches have wings; or, A tale for the rich and poor | have | PG 69538, `tsarthur-riches-have-wings` (844 units) |
+| Rising in the world | have | PG 71329, `tsarthur-rising-in-the-world` (965 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
