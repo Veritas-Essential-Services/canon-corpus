@@ -5902,6 +5902,7 @@ Shelf: `pipeline/alexander-gerard_shelf.json`. Essay on Taste, first edition (17
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | An Essay on Taste, with dissertations by Voltaire, d'Alembert and Montesquieu (1759) |  | `gerard-essay-on-taste-1759` | have-raw (IA `essayontaste00geraiala`) |
+| An Essay on Genius (Strahan and Cadell, 1774) |  | `gerard-essay-on-genius-1774` | have-raw (IA `essayongenius00gera`) |
 
 ## K. C. F. Krause (social philosophy)
 
