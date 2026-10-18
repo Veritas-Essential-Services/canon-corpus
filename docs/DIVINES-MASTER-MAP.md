@@ -10827,6 +10827,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
 | The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
 | Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891) | W. Hastie | `kant-principles-of-politics-hastie-1891` | have-raw (IA `kantsprincipleso00kant`) |
+| Critique of Pure Reason, tr. Norman Kemp Smith (Macmillan, 1929) | Norman Kemp Smith | `kant-kemp-smith-critique-pure-reason-1929` | have-raw (IA `immanuelkantscri032379mbp`) |
 
 ## Hume
 
@@ -13675,6 +13676,47 @@ Shelf: `pipeline/roy-wood-sellars_shelf.json`. Roy Wood Sellars (1880-1973). Nex
 | Evolutionary Naturalism (Open Court, 1922) |  | `sellars-evolutionary-naturalism-1922` | have-raw (IA `evolutionarynat01sellgoog`) |
 
 Pending (wishlist): Critical Realism (1916)
+
+## Giovanni Gentile (actual idealism)
+
+Shelf: `pipeline/giovanni-gentile_shelf.json`. Giovanni Gentile (1875-1944). Theory of Mind as Pure Act (tr. Wildon Carr, 1922) and Reform of Education (tr. Bigongiari, 1922); raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Mind as Pure Act, tr. H. Wildon Carr (Macmillan, 1922) | H. Wildon Carr | `gentile-theory-of-mind-pure-act-1922` | have-raw (IA `thetheoryofminda00gentuoft`) |
+| The Reform of Education, tr. Dino Bigongiari (1922; Benn issue 1923) | Dino Bigongiari | `gentile-reform-of-education-1922` | have-raw (IA `reformofeducatio00gent`) |
+
+## T. E. Hulme (Speculations)
+
+Shelf: `pipeline/t-e-hulme_shelf.json`. T. E. Hulme (1883-1917). Speculations, ed. Herbert Read (1924), raw IA OCR.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Speculations, ed. Herbert Read (Kegan Paul, 1924) |  | `hulme-speculations-1924` | have-raw (IA `speculationsessa0000teed`) |
+
+## H. Wildon Carr (philosophy of change, monads)
+
+Shelf: `pipeline/h-wildon-carr_shelf.json`. H. Wildon Carr (1857-1931). Four books 1911-1927, raw IA OCR. Problem of Truth (no year) and Leibniz (only a 1960 Dover copy) held.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Henri Bergson: the Philosophy of Change (The People's Books; preface 1911) |  | `carr-henri-bergson-philosophy-of-change` | have-raw (IA `henribergsonphil00carriala`) |
+| The Philosophy of Change (Macmillan, 1914) |  | `carr-philosophy-of-change-1914` | have-raw (IA `cu31924029119075`) |
+| A Theory of Monads (Macmillan, 1922) |  | `carr-theory-of-monads-1922` | have-raw (IA `theoryofmonadsou00carriala`) |
+| Changing Backgrounds in Religion and Ethics (Macmillan, 1927) |  | `carr-changing-backgrounds-1927` | have-raw (IA `changingbackgrou0000herb`) |
+
+Pending (wishlist): The Problem of Truth (1913) and Leibniz (1929) in dated pre-1931 copies
+
+## Norman Kemp Smith (Descartes, Kant)
+
+Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). Studies in the Cartesian Philosophy (1902) and the Commentary to Kant (1918); his 1929 Critique translation is on the kant shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
+| A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
+
+Pending (wishlist): Prolegomena to an Idealist Theory of Knowledge (1924)
 
 ## Perseus census (overflow)
 

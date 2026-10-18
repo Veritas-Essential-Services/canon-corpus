@@ -1190,3 +1190,11 @@
 - frederick-woodbridge: The Purpose of History
 - roy-wood-sellars: 3 books
 - Not taken: PG 26302 (second copy of Brooks Adams's Theory of Social Revolutions); Ward's Dynamic Sociology (no complete dated copy)
+
+## 2026-10-17 20:54 CDT — Round 2026-10-17bj: early twentieth-century idealists and Kemp Smith's Kant
+- giovanni-gentile: Theory of Mind as Pure Act (Carr), Reform of Education (Bigongiari)
+- t-e-hulme: Speculations (1924)
+- h-wildon-carr: 4 books (1911-1927)
+- norman-kemp-smith: Cartesian Philosophy (1902), Commentary to Kant (1918)
+- kant: Kemp Smith's Critique of Pure Reason (1929, first impression)
+- Held: Carr's Problem of Truth (no year in either IA copy), Carr's Leibniz (only the 1960 Dover copy)
