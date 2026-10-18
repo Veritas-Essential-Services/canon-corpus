@@ -6602,6 +6602,9 @@ Shelf: `pipeline/james-seth_shelf.json`. Three books.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Freedom as Ethical Postulate (Blackwood, 1891) |  | `james-seth-freedom-ethical-postulate-1891` | have-raw (IA `freedomasethica00sethgoog`) |
+| A Study of Ethical Principles, 6th ed. (Scribner's, 1902) |  | `james-seth-study-of-ethical-principles-1902` | have-raw (IA `studyofethicalpr01seth`) |
+| English Philosophers and Schools of Philosophy (Dent, 1912) |  | `james-seth-english-philosophers-1912` | have-raw (IA `englishphilosoph00sethiala`) |
 
 ## Henry Philip Tappan (philosophy of the will)
 
