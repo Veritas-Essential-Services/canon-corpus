@@ -8273,3 +8273,21 @@ Slugs `tbrowne-*`. Built from title pages read for round 34.
 | Christian Morals, published from the original and correct manuscript of the author by John Jeffery (Cambridge: University Press, for Cornelius Crownfield; year OCR'd '1916', catalogued 1716), the first edition | have-ocr | IA `brownechristianmorals` |
 | Wilkin's edition reissued by Bohn (1846, four volumes); Religio Medici fourth edition (catalogued 1656) and seventh (1678); Sayle's Works (PG 39960-39962, 1904-07); CCEL browne/religio (from the Harvard Classics) and browne/morals (Rivingtons, 1863) | alternate | not shelved |
 | A post-1924 facsimile Hydriotaphia catalogued 1658; Harvard Classics and other many-author volumes; Keynes's 1928 edition | excluded | |
+
+## Hannah More (round 34, my pick, 2026-10-18)
+
+Slugs `hmore-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on Various Subjects, Principally Designed for Young Ladies (London: J. Wilkie and T. Cadell, 1777) | have-clean | Gutenberg 19595 |
+| Coelebs in Search of a Wife (New York: Derby & Jackson, 1858) | have-clean | Gutenberg 31879 |
+| The Shepherd of Salisbury Plain, and Other Tales (New York: Derby & Jackson, 1859) | have-clean | Gutenberg 31697 |
+| Practical Piety, or the Influence of the Religion of the Heart on the Conduct of the Life (London: T. Cadell and W. Davies, 1811) | have-ocr | IA `practicalpietyor12more` |
+| Christian Morals, first American from the fourth London edition (New York: Eastburn, Kirk, 1813) | have-ocr | IA `christianmorals00more` |
+| Strictures on the Modern System of Female Education, eleventh edition, vol. I (London: T. Cadell and W. Davies, 1811) | have-ocr | IA `stricturesonmode01moreuoft` |
+| Strictures on the Modern System of Female Education, eleventh edition, vol. II (London: T. Cadell and W. Davies, 1811) | have-ocr | IA `stricturesonmode02moreuoft` |
+| The Works of Hannah More, in eight volumes, vol. V (London: A. Strahan for T. Cadell jun. and W. Davies, 1801) | have-ocr | IA `workshannahmore08moregoog` |
+| The Works of Hannah More, with a memoir and notes, vol. I (London: H. Fisher, R. Fisher, and P. Jackson, 1834) | have-ocr | IA `worksofhannahmor0001more` |
+| The Works of Hannah More, first complete American edition, vol. I (New York: Harper & Brothers, 1843) | have-ocr | IA `worksofhannahmor01more` |
+| Coelebs first edition (1808) and seventh (1809), both anonymous; the Harper 1843 vol. II (no title page in the OCR); the 1830 eleven-volume Works and the 1799 first Strictures (not read) | alternate | not shelved |

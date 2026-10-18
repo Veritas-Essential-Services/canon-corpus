@@ -1717,3 +1717,6 @@
 
 ## 2026-10-17 22:09 CDT — sir-thomas-browne done
 - `pipeline/sir-thomas-browne_shelf.json`: 0 CCEL, 1 PG, 7 IA. Title pages read for tbrowne-hydriotaphia-1658 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — hannah-more done
+- `pipeline/hannah-more_shelf.json`: 0 CCEL, 3 PG, 7 IA. Title pages read for hmore-works-1834-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
