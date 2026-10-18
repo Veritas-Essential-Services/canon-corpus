@@ -7175,6 +7175,13 @@ Shelf: `pipeline/woodrow-wilson_shelf.json`. Seven books, 1885-1913.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Congressional Government (1885) |  | `wilson-congressional-government` | have (PG 35861) |
+| An Old Master, and Other Political Essays (1893) |  | `wilson-old-master` | have (PG 71776) |
+| Mere Literature, and Other Essays (1896) |  | `wilson-mere-literature` | have (PG 66074) |
+| On Being Human (1897) |  | `wilson-on-being-human` | have (PG 5068) |
+| When a Man Comes to Himself (1901) |  | `wilson-when-a-man-comes-to-himself` | have (PG 5078) |
+| The New Freedom (1913) |  | `wilson-new-freedom` | have (PG 14811) |
+| The State (Heath, revised edition 1911) |  | `wilson-the-state-1911` | have-raw (IA `cu31924024903043`) |
 
 ## Norman Angell (international relations)
 
