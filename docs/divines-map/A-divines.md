@@ -8579,3 +8579,24 @@ Slugs `creighton-*`. Built from title pages read for round 35.
 | Persecution and Tolerance, being the Hulsean Lectures preached before the University of Cambridge in 1893-4 (London: Longmans, Green, 1895) | have-ocr | IA `persecutiontoler00crei` |
 | The Church and the Nation: Charges and Addresses, ed. Louise Creighton (London: Longmans, Green, 1901) | have-ocr | IA `churchandnation00creiuoft` |
 | The six-volume new edition, A History of the Papacy from the Great Schism to the Sack of Rome (1897-1900); Cardinal Wolsey (PG 53526, a 1912 reprint of a political life) | alternate | not shelved |
+
+## Walter Farquhar Hook (round 35, my pick, 2026-10-18)
+
+Slugs `wfhook-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| A Church Dictionary, seventh edition, revised and augmented (London: John Murray, 1854) | have-clean | Gutenberg 74523 |
+| Lives of the Archbishops of Canterbury, vol. I, Anglo-Saxon Period (London: Richard Bentley, 1860) | have-ocr | IA `livesofarchbish01hook` |
+| Lives of the Archbishops of Canterbury, vol. II, Anglo-Norman Period (London: Richard Bentley, 1862) | have-ocr | IA `livesofarchbisho02hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. III, Middle-Age Period (London: Richard Bentley, 1865) | have-ocr | IA `livesofarchbisho03hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. IV, Middle-Age Period (London: Richard Bentley, year OCR'd 'I860', about 1865-66) | have-ocr | IA `livesofarchbisho04hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. V, Middle-Age Period (London: Richard Bentley, 1867) | have-ocr | IA `livesofarchbisho00hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. VI (London: Richard Bentley, 1868) | have-ocr | IA `livesofarchbisho06hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. VII, Reformation Period (London: Richard Bentley, 1868) | have-ocr | IA `livesofarchbisho07hook` |
+| Lives of the Archbishops of Canterbury, vol. VIII, Reformation Period (London: Richard Bentley, 1869) | have-ocr | IA `livesofarchbisho08hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. IX, Reformation Period (London: Richard Bentley, 1872) | have-ocr | IA `livesofarchbisho09hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. V, new series, Reformation Period (London: Richard Bentley, 1875) | have-ocr | IA `livesofarchbisho10hookuoft` |
+| Lives of the Archbishops of Canterbury, vol. VI, new series (London: Richard Bentley, 1875) | have-ocr | IA `livesofarchbisho11hookuoft` |
+| A Church Dictionary (London: Houlston and Stoneman; Rivington and Burns; Oxford: Parker; Leeds: T. Harrison, 1842) | have-ocr | IA `ChurchDictionary` |
+| Lives vol. I new series (1868) and vol. II new series; the Index volume (1884); the sixth-edition Church Dictionary (1852); An Ecclesiastical Biography (Rivington, 1845-1852, lives he edited) | alternate | not shelved |

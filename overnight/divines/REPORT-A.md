@@ -1783,3 +1783,6 @@
 
 ## 2026-10-17 22:31 CDT — mandell-creighton done
 - `pipeline/mandell-creighton_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for creighton-papacy-1, creighton-papacy-2, creighton-papacy-4 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — walter-farquhar-hook done
+- `pipeline/walter-farquhar-hook_shelf.json`: 0 CCEL, 1 PG, 12 IA. Title pages read for wfhook-archbishops-1, wfhook-archbishops-2, wfhook-archbishops-4, wfhook-archbishops-5, wfhook-archbishops-7, wfhook-archbishops-8, wfhook-archbishops-9, wfhook-archbishops-10, wfhook-archbishops-11, wfhook-church-dictionary-1842 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
