@@ -1,5 +1,5 @@
 {
- "_about": "T. H. Huxley (1825-1895) as philosopher and controversialist, clean Gutenberg texts: Lay Sermons, Addresses and Reviews (London: Macmillan, 1870), Critiques and Addresses (1873), Hume, English Men of Letters (London: Macmillan, 1879), Essays upon some Controverted Questions (London: Macmillan, 1892), Science and Education (Collected Essays III; preface dated 1893), Evolution and Ethics and other essays (Collected Essays IX; printing not named) and Science and Christian Tradition (Collected Essays V; New York: Appleton, 1902). His zoology, primers and single-essay etexts are not taken. Added in round ak: Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893); Darwiniana, Collected Essays II (London: Macmillan, 1893). US public domain. No uids minted.",
+ "_about": "T. H. Huxley (1825-1895) as philosopher and controversialist, clean Gutenberg texts: Lay Sermons, Addresses and Reviews (London: Macmillan, 1870), Critiques and Addresses (1873), Hume, English Men of Letters (London: Macmillan, 1879), Essays upon some Controverted Questions (London: Macmillan, 1892), Science and Education (Collected Essays III; preface dated 1893), Evolution and Ethics and other essays (Collected Essays IX; printing not named) and Science and Christian Tradition (Collected Essays V; New York: Appleton, 1902). His zoology, primers and single-essay etexts are not taken. Added in round ak: Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893); Darwiniana, Collected Essays II (London: Macmillan, 1893). Added in round al: Man's Place in Nature and other anthropological essays, Collected Essays VII (London: Macmillan, 1895 reprint of 1894). US public domain. No uids minted.",
  "_author": "Thomas Henry Huxley",
  "_name_words": [
   "thomas",
@@ -48,6 +48,10 @@
   "huxley-darwiniana-1893": [
    "darwinianaessays00huxluoft",
    "Darwiniana, Collected Essays II (London: Macmillan, 1893)"
+  ],
+  "huxley-mans-place-in-nature-1895": [
+   "mansplaceinnatu06huxlgoog",
+   "Man's Place in Nature and other anthropological essays, Collected Essays VII (London: Macmillan, 1895 reprint of 1894)"
   ]
  },
  "_excluded": {},
@@ -134,6 +138,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1893",
    "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huxley-mans-place-in-nature-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "huxley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -3814,8 +3814,6 @@ Shelf: `pipeline/herder_shelf.json`. Marsh's Spirit of Hebrew Poetry (1833).
 | The Spirit of Hebrew Poetry, vol. I (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v1` | have-raw (IA `spiritofhebrewpo01herd`) |
 | The Spirit of Hebrew Poetry, vol. II (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v2` | have-raw (IA `spirithebrewpoe02marsgoog`) |
 
-Pending (wishlist): Churchill's Outlines of a Philosophy of the History of Man (1800) in a scan with a legible title page.
-
 ## Adam Smith
 
 Shelf: `pipeline/adam-smith_shelf.json`. The Wealth of Nations is on the Adler and smith-wealth shelves.
@@ -3955,7 +3953,7 @@ Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public dom
 | Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
 | The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930) |  | `dewey-child-and-the-curriculum-1930` | have-raw (IA `childcurriculum00dewe`) |
 
-Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing
+Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
 
 ## George Santayana
 
@@ -5072,8 +5070,6 @@ Shelf: `pipeline/william-ernest-hocking_shelf.json`. Idealist philosophy of reli
 | The Meaning of God in Human Experience (New Haven: Yale University Press, 1912; printing of 1928) |  | `hocking-meaning-of-god-1912-printed-1928` | have-raw (IA `meaningofgodinhu12hock`) |
 | Human Nature and its Remaking (New Haven: Yale University Press, 1918) |  | `hocking-human-nature-and-its-remaking-1918` | have-raw (IA `humannaturerema00hockuoft`) |
 
-Pending (wishlist): Man and the State (1926)
-
 ## Mary Whiton Calkins
 
 Shelf: `pipeline/mary-whiton-calkins_shelf.json`. Personalist metaphysics and ethics.
@@ -5112,8 +5108,6 @@ Shelf: `pipeline/george-sylvester-morris_shelf.json`. Hegelian idealism in Ameri
 | Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882) |  | `morris-kants-critique-exposition-1882` | have-raw (IA `kantscritiqueofp00morr`) |
 | Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883) |  | `morris-philosophy-and-christianity-1883` | have-raw (IA `philosophychrist00morr`) |
 
-Pending (wishlist): Hegel's Philosophy of the State and of History (1887)
-
 ## Lucien Lévy-Bruhl
 
 Shelf: `pipeline/lucien-levy-bruhl_shelf.json`. French philosophy surveyed.
@@ -5131,8 +5125,6 @@ Shelf: `pipeline/gabriel-tarde_shelf.json`. Social philosophy of imitation.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Laws of Imitation (New York: Henry Holt, 1903) | Elsie Clews Parsons | `tarde-parsons-laws-of-imitation-1903` | have-raw (IA `lawsofimitation00tard`) |
-
-Pending (wishlist): Social Laws, tr. Howard C. Warren (1899)
 
 ## Joseph de Maistre
 
@@ -5258,8 +5250,7 @@ Shelf: `pipeline/thomas-henry-huxley_shelf.json`. Agnosticism, evolution and eth
 | Science and Christian Tradition, Collected Essays V (New York: Appleton, 1902) |  | `huxley-science-and-christian-tradition-1902` | have (PG 15905) |
 | Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893) |  | `huxley-method-and-results-1894` | have-raw (IA `cu31924002923211`) |
 | Darwiniana, Collected Essays II (London: Macmillan, 1893) |  | `huxley-darwiniana-1893` | have-raw (IA `darwinianaessays00huxluoft`) |
-
-Pending (wishlist): Man's Place in Nature and other essays (Collected Essays VII) as a full volume
+| Man's Place in Nature and other anthropological essays, Collected Essays VII (London: Macmillan, 1895 reprint of 1894) |  | `huxley-mans-place-in-nature-1895` | have-raw (IA `mansplaceinnatu06huxlgoog`) |
 
 ## Samuel Alexander
 
@@ -5289,7 +5280,7 @@ Shelf: `pipeline/r-g-collingwood_shelf.json`. Idealist philosophy of religion; w
 |---|---|---|---|
 | Religion and Philosophy (London: Macmillan, 1916, inferred) |  | `collingwood-religion-and-philosophy-1916` | have-raw (IA `religionphilosop00colluoft`) |
 
-Pending (wishlist): Speculum Mentis (1924) in a non-lending scan
+Pending (wishlist): Speculum Mentis (1924) in a first printing (the open IA scan is the 1946 photographic reprint)
 
 ## James Martineau
 
