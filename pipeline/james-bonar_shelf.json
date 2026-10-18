@@ -1,0 +1,117 @@
+{
+ "_about": "James Bonar (1852-1941), Scottish economist and historian of economic thought. Not Andrew or Horatius Bonar (shelves andrew-bonar, horatius-bonar). Raw IA OCR: Parson Malthus (Glasgow: James Maclehose, 1881), Malthus and His Work (London: Macmillan, 1885), Philosophy and Political Economy in some of their historical relations (London: Swan Sonnenschein, 1893; the OCR reads the year 'i«93'), The Intellectual Virtues, a lecture of 1893 (London: Macmillan, 1894), Elements of Political Economy (London: John Murray, 1903) and Disturbing Elements in the Study and Teaching of Political Economy (Baltimore: Johns Hopkins, 1911). Not taken: The Moral Sense (1930), and his editions of Ricardo's letters and Adam Smith's library catalogue, which are mostly other men's words. US public domain. No uids minted.",
+ "_author": "James Bonar",
+ "_name_words": [
+  "james",
+  "bonar"
+ ],
+ "_surname": [
+  "james bonar",
+  "bonar"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bonar-parson-malthus-1881": [
+   "parsonmalthus00bonauoft",
+   "Parson Malthus (1881)"
+  ],
+  "bonar-malthus-and-his-work-1885": [
+   "cu31924030407484",
+   "Malthus and His Work (Macmillan, 1885)"
+  ],
+  "bonar-philosophy-and-political-economy-1893": [
+   "philosophyandpo01bonagoog",
+   "Philosophy and Political Economy in some of their historical relations (Swan Sonnenschein, 1893)"
+  ],
+  "bonar-intellectual-virtues-1894": [
+   "intellectualvirt00bona",
+   "The Intellectual Virtues (Macmillan, 1894)"
+  ],
+  "bonar-elements-political-economy-1903": [
+   "elementsofpoliti00bonauoft",
+   "Elements of Political Economy (John Murray, 1903)"
+  ],
+  "bonar-disturbing-elements-1911": [
+   "disturbingelemen00bonauoft",
+   "Disturbing Elements in the Study and Teaching of Political Economy (Johns Hopkins, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "bonar-parson-malthus-1881": {
+   "author": "OCR prints the author as 'S BONAR'; the title page and the 1881 London preface were read."
+  },
+  "bonar-malthus-and-his-work-1885": {
+   "author": "OCR prints the author as 'BONAE'; title page read: Malthus and His Work, by James Bonar, M.A., Balliol College, Oxford (Macmillan, 1885)."
+  }
+ },
+ "_checks": {
+  "bonar-parson-malthus-1881": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonar-malthus-and-his-work-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bonar-philosophy-and-political-economy-1893": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonar-intellectual-virtues-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bonar-elements-political-economy-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bonar-disturbing-elements-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
