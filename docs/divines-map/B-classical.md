@@ -7487,6 +7487,12 @@ Shelf: `pipeline/w-h-mallock_shelf.json`. Six books, 1878-1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The New Paul and Virginia, or Positivism on an Island (1878) |  | `mallock-new-paul-and-virginia` | have (PG 37651) |
+| Is Life Worth Living? (1879) |  | `mallock-is-life-worth-living` | have (PG 17201) |
+| Labour and the Popular Welfare (1893) |  | `mallock-labour-and-popular-welfare` | have (PG 66518) |
+| Aristocracy and Evolution (1898) |  | `mallock-aristocracy-and-evolution` | have (PG 58968) |
+| A Critical Examination of Socialism (1907) |  | `mallock-critical-examination-of-socialism` | have (PG 17416) |
+| Memoirs of Life and Literature (1920) |  | `mallock-memoirs-of-life-and-literature` | have (PG 30823) |
 
 ## J. M. Robertson (rationalism and freethought)
 

@@ -1,0 +1,97 @@
+{
+ "_about": "W. H. Mallock (1849-1923), English critic of positivism and socialism. Gutenberg: The New Paul and Virginia, or Positivism on an Island (1878); Is Life Worth Living? (1879); Labour and the Popular Welfare (1893); Aristocracy and Evolution (1898); A Critical Examination of Socialism (1907); Memoirs of Life and Literature (1920). Left out: Every Man His Own Poet, a verse parody. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "W. H. Mallock",
+ "_name_words": [
+  "william",
+  "hurrell",
+  "mallock"
+ ],
+ "_surname": [
+  "mallock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mallock-new-paul-and-virginia": [
+   37651,
+   "The New Paul and Virginia, or Positivism on an Island (1878)"
+  ],
+  "mallock-is-life-worth-living": [
+   17201,
+   "Is Life Worth Living? (1879)"
+  ],
+  "mallock-labour-and-popular-welfare": [
+   66518,
+   "Labour and the Popular Welfare (1893)"
+  ],
+  "mallock-aristocracy-and-evolution": [
+   58968,
+   "Aristocracy and Evolution (1898)"
+  ],
+  "mallock-critical-examination-of-socialism": [
+   17416,
+   "A Critical Examination of Socialism (1907)"
+  ],
+  "mallock-memoirs-of-life-and-literature": [
+   30823,
+   "Memoirs of Life and Literature (1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mallock-new-paul-and-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mallock-is-life-worth-living": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mallock-labour-and-popular-welfare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mallock-aristocracy-and-evolution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mallock-critical-examination-of-socialism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mallock-memoirs-of-life-and-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mallock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
