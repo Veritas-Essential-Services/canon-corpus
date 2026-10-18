@@ -6876,3 +6876,13 @@ Slugs `huther-*`. His volumes in Meyer's commentary: Timothy and Titus, Peter an
 | Critical and Exegetical Handbook to the General Epistles of Peter and Jude, tr. D. B. Croom and Paton J. Gloag (Edinburgh: T. & T. Clark, MDCCCLXXXI) | have-ocr | IA `criticalexegetic21huth` |
 | Critical and Exegetical Handbook to the General Epistles of James and John, tr. Paton J. Gloag and Clarke H. Irwin (Edinburgh: T. & T. Clark, MDCCCLXXXII) | have-ocr | IA `criticalexegetic00huth` |
 | Other 1881-1882 copies; the Funk & Wagnalls issues | alternate | not shelved |
+
+## August Ebrard (round 30, my pick, 2026-10-18)
+
+Slugs `ebrard-*`. His continuations of Olshausen: St John's Epistles and Hebrews.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Commentary on the Epistles of St. John, tr. W. B. Pope (Edinburgh: T. & T. Clark, MDCCCLX) | have-ocr | IA `commentarystjohn00ebrauoft` |
+| Biblical Commentary on the Epistle to the Hebrews, second edition, tr. John Fulton (Edinburgh: T. & T. Clark, MDCCCLXII) | have-ocr | IA `biblicalcommenta00ebra_0` |
+| Another Hebrews copy | alternate | not shelved |
