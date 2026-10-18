@@ -5070,6 +5070,7 @@ Shelf: `pipeline/william-ernest-hocking_shelf.json`. Idealist philosophy of reli
 |---|---|---|---|
 | The Meaning of God in Human Experience (New Haven: Yale University Press, 1912; printing of 1928) |  | `hocking-meaning-of-god-1912-printed-1928` | have-raw (IA `meaningofgodinhu12hock`) |
 | Human Nature and its Remaking (New Haven: Yale University Press, 1918) |  | `hocking-human-nature-and-its-remaking-1918` | have-raw (IA `humannaturerema00hockuoft`) |
+| Man and the State (New Haven: Yale University Press, 1926) |  | `hocking-man-and-the-state-1926` | have-raw (IA `manstate0000hock`) |
 
 ## Mary Whiton Calkins
 
