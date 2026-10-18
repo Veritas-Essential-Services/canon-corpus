@@ -2645,6 +2645,14 @@
       "started": "2026-10-17T19:00:48-05:00",
       "finished": "2026-10-17T19:00:48-05:00",
       "notes": "js-fletcher: new shelf, 22 Gutenberg books, 34,338 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "frank-packard",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Frank L. Packard; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:00:49-05:00",
+      "finished": "2026-10-17T19:00:49-05:00",
+      "notes": "frank-packard: new shelf, 13 Gutenberg books, 23,186 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

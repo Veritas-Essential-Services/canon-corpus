@@ -1269,3 +1269,6 @@
 
 ## 2026-10-17 19:00 CDT — js-fletcher: done
 - js-fletcher: new shelf, 22 Gutenberg books, 34,338 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 19:00 CDT — frank-packard: done
+- frank-packard: new shelf, 13 Gutenberg books, 23,186 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -24839,6 +24839,27 @@ Shelf: `pipeline/js-fletcher_shelf.json` (2026-10-17; added at the coordinator's
 | The copper box | have | PG 73344, `jsfletcher-copper-box` (996 units) |
 | The wolves and the lamb | have | PG 79012, `jsfletcher-wolves-and-the-lamb` (2184 units) |
 
+## Frank L. Packard
+
+Shelf: `pipeline/frank-packard_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Crime novels and railroad stories. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Jimmie Dale | have | PG 1218, `fpackard-adventures-of-jimmie-dale` (2949 units) |
+| The White Moll | have | PG 1741, `fpackard-white-moll` (1430 units) |
+| The Further Adventures of Jimmie Dale | have | PG 9440, `fpackard-further-adventures-of-jimmie-dale` (1502 units) |
+| The Miracle Man | have | PG 15578, `fpackard-miracle-man` (1627 units) |
+| The Night Operator | have | PG 33634, `fpackard-night-operator` (1911 units) |
+| The Belovéd Traitor | have | PG 34034, `fpackard-belov-d-traitor` (1776 units) |
+| Doors of the Night | have | PG 35818, `fpackard-doors-of-the-night` (1480 units) |
+| From Now On | have | PG 51939, `fpackard-from-now-on` (1691 units) |
+| Pawned | have | PG 51965, `fpackard-pawned` (1895 units) |
+| The Sin That Was His | have | PG 51983, `fpackard-sin-that-was-his` (1876 units) |
+| The Wire Devils | have | PG 52084, `fpackard-wire-devils` (1381 units) |
+| On the Iron at Big Cloud | have | PG 54111, `fpackard-on-the-iron-at-big-cloud` (1894 units) |
+| The Four Stragglers | have | PG 59895, `fpackard-four-stragglers` (1774 units) |
+| pg-57718 | excluded | PG 57718: Gutenberg's index of Packard's works, not a book. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
