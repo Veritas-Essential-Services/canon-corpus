@@ -7014,6 +7014,10 @@ Shelf: `pipeline/r-r-marett_shelf.json`. Four books, 1908-1920.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Anthropology |  | `marett-anthropology` | have (PG 17280) |
+| Anthropology and the Classics |  | `marett-anthropology-and-the-classics` | have (PG 53646) |
+| The Threshold of Religion (Methuen, 1909) |  | `marett-threshold-of-religion-1909` | have-raw (IA `cu31924014376150`) |
+| Psychology and Folk-Lore (Methuen, 1920) |  | `marett-psychology-and-folk-lore-1920` | have-raw (IA `psychologyfolklo00mareuoft`) |
 
 ## Edward Westermarck (comparative ethics)
 
