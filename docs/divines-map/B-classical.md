@@ -4012,6 +4012,9 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 | Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922) |  | `santayana-soliloquies-in-england-1922` | have (PG 48429) |
 | Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
 | Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94) |  | `santayana-dialogues-in-limbo-1925` | have-raw (IA `dialoguesinlimbo014715mbp`) |
+| The Realm of Essence (Scribner's, 1927) |  | `santayana-realm-of-essence-1927` | have-raw (IA `realmofessencebo0000sant`) |
+| Platonism and the Spiritual Life (Scribner's, 1927) |  | `santayana-platonism-spiritual-life-1927` | have-raw (IA `platonismspiritu00sant`) |
+| The Realm of Matter (Scribner's, 1930) |  | `santayana-realm-of-matter-1930` | have-raw (IA `dli.ernet.12190`) |
 
 ## Josiah Royce
 

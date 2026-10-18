@@ -1,5 +1,5 @@
 {
- "_about": "George Santayana (1863-1952), works published in the US before 1930, from Project Gutenberg: The Sense of Beauty (1896), Interpretations of Poetry and Religion (1900), The Life of Reason (5 vols., 1905-1906, in one etext that names no printing), Three Philosophical Poets (1910), Winds of Doctrine (1913), Egotism in German Philosophy (1916), Character and Opinion in the United States (1921), Soliloquies in England (1922) and Scepticism and Animal Faith (1923; third impression 1929). Not taken: Some Turns of Thought in Modern Philosophy (PG 16712), first published 1933, after the US public-domain cutoff. His Poems are left for a poetry shelf. No uids minted. Added in round az: Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94).",
+ "_about": "George Santayana (1863-1952), works published in the US before 1930, from Project Gutenberg: The Sense of Beauty (1896), Interpretations of Poetry and Religion (1900), The Life of Reason (5 vols., 1905-1906, in one etext that names no printing), Three Philosophical Poets (1910), Winds of Doctrine (1913), Egotism in German Philosophy (1916), Character and Opinion in the United States (1921), Soliloquies in England (1922) and Scepticism and Animal Faith (1923; third impression 1929). Not taken: Some Turns of Thought in Modern Philosophy (PG 16712), first published 1933, after the US public-domain cutoff. His Poems are left for a poetry shelf. Added in round 2026-10-17bl, raw IA OCR: The Realm of Essence, book first of Realms of Being (New York: Scribner's, first published 1927), clean 0.95; Platonism and the Spiritual Life (New York: Scribner's, 1927), clean 0.96; The Realm of Matter, book second of Realms of Being (New York: Scribner's, first published 1930), clean 0.96. No uids minted. Added in round az: Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94).",
  "_author": "George Santayana",
  "_name_words": [
   "george",
@@ -51,6 +51,18 @@
   "santayana-dialogues-in-limbo-1925": [
    "dialoguesinlimbo014715mbp",
    "Dialogues in Limbo (London: Constable, 1925; raw IA OCR, clean 0.94)"
+  ],
+  "santayana-realm-of-essence-1927": [
+   "realmofessencebo0000sant",
+   "The Realm of Essence (Scribner's, 1927)"
+  ],
+  "santayana-platonism-spiritual-life-1927": [
+   "platonismspiritu00sant",
+   "Platonism and the Spiritual Life (Scribner's, 1927)"
+  ],
+  "santayana-realm-of-matter-1930": [
+   "dli.ernet.12190",
+   "The Realm of Matter (Scribner's, 1930)"
   ]
  },
  "_excluded": {},
@@ -146,6 +158,43 @@
    "ia_date": "1925",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "santayana-realm-of-essence-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "santayana-platonism-spiritual-life-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "santayana-realm-of-matter-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page: New York, Charles Scribner's Sons, 1930, 'First Published 1930'; no later printing named. Works published in 1930 entered the US public domain on 1 January 2026."
   }
+ },
+ "_rights_checked": {
+  "santayana-realm-of-matter-1930": "title page: New York, Charles Scribner's Sons, 1930, 'First Published 1930'; no later printing named. Works published in 1930 entered the US public domain on 1 January 2026."
  }
 }
