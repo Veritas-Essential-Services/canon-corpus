@@ -1,0 +1,445 @@
+{
+ "_about": "Robert Hichens's novels and stories (The Garden of Allah and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Robert Hichens",
+ "_name_words": [
+  "hichens"
+ ],
+ "_surname": [
+  "robert hichens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rhichens-prophet-of-berkeley-square": [
+   2463,
+   "The Prophet of Berkeley Square"
+  ],
+  "rhichens-a-spirit-in-prison": [
+   2994,
+   "A Spirit in Prison"
+  ],
+  "rhichens-spell-of-egypt": [
+   3407,
+   "The Spell of Egypt",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhichens-garden-of-allah": [
+   3637,
+   "The Garden of Allah",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhichens-in-the-wilderness": [
+   4603,
+   "In the Wilderness"
+  ],
+  "rhichens-december-love": [
+   6616,
+   "December Love"
+  ],
+  "rhichens-woman-with-the-fan": [
+   8549,
+   "The Woman with the Fan"
+  ],
+  "rhichens-dweller-on-the-threshold": [
+   14176,
+   "The Dweller on the Threshold"
+  ],
+  "rhichens-flames": [
+   14253,
+   "Flames"
+  ],
+  "rhichens-bella-donna": [
+   17698,
+   "Bella Donna: A Novel"
+  ],
+  "rhichens-way-of-ambition": [
+   19491,
+   "The Way of Ambition"
+  ],
+  "rhichens-call-of-the-blood": [
+   20157,
+   "The Call of the Blood"
+  ],
+  "rhichens-spinster-1905": [
+   23410,
+   "The Spinster 1905"
+  ],
+  "rhichens-sma-n": [
+   23411,
+   "Smaïn; and Safti's Summer Day 1905"
+  ],
+  "rhichens-figure-in-the-mirage-1905": [
+   23412,
+   "The Figure In The Mirage 1905"
+  ],
+  "rhichens-princess-and-the-jewel-doctor-1905": [
+   23413,
+   "The Princess And The Jewel Doctor 1905"
+  ],
+  "rhichens-halima-and-the-scorpions-1905": [
+   23414,
+   "Halima And The Scorpions 1905"
+  ],
+  "rhichens-mission-of-mr-eustace-greyne-1905": [
+   23415,
+   "The Mission Of Mr. Eustace Greyne 1905"
+  ],
+  "rhichens-fin-tireur-1905": [
+   23416,
+   "\"Fin Tireur\" 1905"
+  ],
+  "rhichens-desert-drum-1905": [
+   23417,
+   "The Desert Drum 1905"
+  ],
+  "rhichens-desert-air-1905": [
+   23418,
+   "Desert Air 1905"
+  ],
+  "rhichens-return-of-the-soul-1896": [
+   23419,
+   "The Return Of The Soul 1896",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ],
+  "rhichens-folly-of-eustace-1896": [
+   23420,
+   "The Folly Of Eustace 1896"
+  ],
+  "rhichens-collaborators-1896": [
+   23421,
+   "The Collaborators 1896"
+  ],
+  "rhichens-green-carnation": [
+   24499,
+   "The Green Carnation"
+  ],
+  "rhichens-tongues-of-conscience": [
+   25986,
+   "Tongues of Conscience"
+  ],
+  "rhichens-bye-ways": [
+   33040,
+   "Bye-Ways",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhichens-near-east": [
+   39252,
+   "The Near East: Dalmatia, Greece and Constantinople"
+  ],
+  "rhichens-egypt-and-its-monuments": [
+   63737,
+   "Egypt and Its Monuments",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhichens-londoners": [
+   68809,
+   "The Londoners"
+  ],
+  "rhichens-black-spaniel-and-other-stories": [
+   76971,
+   "The black spaniel, and other stories",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rhichens-prophet-of-berkeley-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-a-spirit-in-prison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-spell-of-egypt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-garden-of-allah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-december-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-woman-with-the-fan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-dweller-on-the-threshold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-flames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-bella-donna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-way-of-ambition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-call-of-the-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-spinster-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-sma-n": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-figure-in-the-mirage-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-princess-and-the-jewel-doctor-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-halima-and-the-scorpions-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-mission-of-mr-eustace-greyne-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-fin-tireur-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-desert-drum-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-desert-air-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-return-of-the-soul-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-folly-of-eustace-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-collaborators-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-green-carnation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-tongues-of-conscience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-bye-ways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-near-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-egypt-and-its-monuments": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-londoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhichens-black-spaniel-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "robert hichens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

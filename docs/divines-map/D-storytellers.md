@@ -11328,6 +11328,44 @@ Shelf: `pipeline/gertrude-atherton_shelf.json` (2026-10-17; added at the coordin
 | The aristocrats | have | PG 72957, `gatherton-aristocrats` (758 units) |
 | Transplanted | have | PG 72997, `gatherton-transplanted` (1664 units) |
 
+## Robert Hichens
+
+Shelf: `pipeline/robert-hichens_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (31 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Prophet of Berkeley Square | have | PG 2463, `rhichens-prophet-of-berkeley-square` (3405 units) |
+| A Spirit in Prison | have | PG 2994, `rhichens-a-spirit-in-prison` (7045 units) |
+| The Spell of Egypt | have | PG 3407, `rhichens-spell-of-egypt` (259 units) |
+| The Garden of Allah | have | PG 3637, `rhichens-garden-of-allah` (5166 units) |
+| In the Wilderness | have | PG 4603, `rhichens-in-the-wilderness` (6985 units) |
+| December Love | have | PG 6616, `rhichens-december-love` (6088 units) |
+| The Woman with the Fan | have | PG 8549, `rhichens-woman-with-the-fan` (3127 units) |
+| The Dweller on the Threshold | have | PG 14176, `rhichens-dweller-on-the-threshold` (1745 units) |
+| Flames | have | PG 14253, `rhichens-flames` (4800 units) |
+| Bella Donna: A Novel | have | PG 17698, `rhichens-bella-donna` (6011 units) |
+| The Way of Ambition | have | PG 19491, `rhichens-way-of-ambition` (5579 units) |
+| The Call of the Blood | have | PG 20157, `rhichens-call-of-the-blood` (4979 units) |
+| The Spinster 1905 | have | PG 23410, `rhichens-spinster-1905` (166 units) |
+| Smaïn; and Safti's Summer Day 1905 | have | PG 23411, `rhichens-sma-n` (116 units) |
+| The Figure In The Mirage 1905 | have | PG 23412, `rhichens-figure-in-the-mirage-1905` (109 units) |
+| The Princess And The Jewel Doctor 1905 | have | PG 23413, `rhichens-princess-and-the-jewel-doctor-1905` (87 units) |
+| Halima And The Scorpions 1905 | have | PG 23414, `rhichens-halima-and-the-scorpions-1905` (108 units) |
+| The Mission Of Mr. Eustace Greyne 1905 | have | PG 23415, `rhichens-mission-of-mr-eustace-greyne-1905` (627 units) |
+| "Fin Tireur" 1905 | have | PG 23416, `rhichens-fin-tireur-1905` (112 units) |
+| The Desert Drum 1905 | have | PG 23417, `rhichens-desert-drum-1905` (105 units) |
+| Desert Air 1905 | have | PG 23418, `rhichens-desert-air-1905` (173 units) |
+| The Return Of The Soul 1896 | have | PG 23419, `rhichens-return-of-the-soul-1896` (450 units) |
+| The Folly Of Eustace 1896 | have | PG 23420, `rhichens-folly-of-eustace-1896` (282 units) |
+| The Collaborators 1896 | have | PG 23421, `rhichens-collaborators-1896` (143 units) |
+| The Green Carnation | have | PG 24499, `rhichens-green-carnation` (951 units) |
+| Tongues of Conscience | have | PG 25986, `rhichens-tongues-of-conscience` (2471 units) |
+| Bye-Ways | have | PG 33040, `rhichens-bye-ways` (2082 units) |
+| The Near East: Dalmatia, Greece and Constantinople | have | PG 39252, `rhichens-near-east` (357 units) |
+| Egypt and Its Monuments | have | PG 63737, `rhichens-egypt-and-its-monuments` (494 units) |
+| The Londoners | have | PG 68809, `rhichens-londoners` (3066 units) |
+| The black spaniel, and other stories | have | PG 76971, `rhichens-black-spaniel-and-other-stories` (2957 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
