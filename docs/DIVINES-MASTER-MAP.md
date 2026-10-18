@@ -8539,6 +8539,22 @@ Slugs `montalembert-*`. Built from title pages read for round 35.
 | Saint Columba, Apostle of Caledonia (Edinburgh and London: William Blackwood and Sons, 1868) | have-ocr | IA `saintcolumbaapo00montgoog` |
 | Monks of the West (Boston: Donahoe, 1872, two volumes) and Nimmo's six volumes with Gasquet's introduction (1896); Hackett's St Elizabeth (New York: Kenedy, about 1901) and Hoyt's translation (copyright 1904); Saint Columba (New York, 1868); McCarthy's Saint Columban (1927) | alternate | not shelved |
 | The Memoir of Lacordaire (already shelved); his political and medical speeches; French editions | excluded | |
+
+## Pasquier Quesnel (round 35, my pick, 2026-10-18)
+
+Slugs `quesnel-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| The New Testament, with Moral Reflections upon every Verse, vol. I (London: J. R. for R. Bonwicke, T. Goodwin and others, 1719; catalogued 1725 in error) | have-ocr | IA `bim_eighteenth-century_the-new-testament-with-_1725_1` |
+| The New Testament, with Moral Reflections upon every Verse, written in French by Father Quesnel and now translated into English, vol. II, part 1 (London: R. H. for R. Bonwicke and others; year not read) | have-ocr | IA `bim_eighteenth-century_the-new-testament-with-_1725_2` |
+| The New Testament, with Moral Reflections upon every Verse, vol. III (London: R. and J. Bonwicke, R. Wilkin and J. Walthoe, 1725) | have-ocr | IA `bim_eighteenth-century_the-new-testament-with-_1725_3` |
+| The New Testament, with Moral Reflections upon every Verse, vol. IV, part II (London: R. and J. Bonwicke, R. Wilkin, J. Walthoe and T. Ward, 1725) | have-ocr | IA `bim_eighteenth-century_the-new-testament-with-_1725_4` |
+| The Gospels, with Moral Reflections on each Verse, with an introductory essay by Daniel Wilson, vol. I (Glasgow: William Collins, 1830) | have-ocr | IA `gospelswithmoral01ques` |
+| The Gospels, with Moral Reflections on each Verse, vol. II (Glasgow: William Collins, 1830) | have-ocr | IA `gospelswithmoral02ques` |
+| The Gospels, with Moral Reflections on each Verse, vol. III (Glasgow: William Collins, 1830) | have-ocr | IA `gospelswithmoral03ques` |
+| The Bath expurgated Four Gospels 'by a Presbyter of the Church of England' (1790); Philadelphia 1855 revised by Henry A. Boardman | alternate | not shelved |
+| Reflections on St John (1709; no one named); a 2026 machine translation catalogued 1680; Pierre Quesnel's Loyola; the Unigenitus pamphlets | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

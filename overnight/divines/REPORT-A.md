@@ -1774,3 +1774,6 @@
 
 ## 2026-10-17 22:31 CDT — charles-de-montalembert done
 - `pipeline/charles-de-montalembert_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for montalembert-monks-west-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:31 CDT — pasquier-quesnel done
+- `pipeline/pasquier-quesnel_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for quesnel-nt-reflections-2, quesnel-nt-reflections-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
