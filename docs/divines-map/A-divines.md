@@ -6564,3 +6564,24 @@ Slugs `uhlhorn-*`. Christian Charity in the Ancient Church and other works in En
 | Christian Charity in the Ancient Church, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `christiancharity00uhlh` |
 | Conflict revised editions (1886-1908); Charity (Scribner, 1883) | alternate | not shelved |
 | Catholicism and the Hanoverian Church History: German, despite English titles on IA | excluded | |
+
+## Bernhard Weiss (round 29, my pick, 2026-10-18)
+
+Slugs `bweiss-*`. Berlin New Testament scholar in Clark's English volumes.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical Theology of the New Testament, vol. I, tr. David Eaton (Edinburgh: T. & T. Clark, 1882) | have-ocr | IA `india.history.resource.89555` |
+| Biblical Theology of the New Testament, vol. II, tr. James E. Duguid (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `biblicaltheology02weis` |
+| The Life of Christ, vol. I, tr. John Walter Hope (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `lifeofchrist01weis` |
+| The Life of Christ, vol. II, tr. M. G. Hope (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `lifeofchrist02weis` |
+| The Life of Christ, vol. III, tr. M. G. Hope (Edinburgh: T. & T. Clark, 1884) | have-ocr | IA `lifeofchrist03weis` |
+| A Manual of Introduction to the New Testament, vol. I, tr. A. J. K. Davidson (London: Hodder and Stoughton; year garbled, probably MDCCCLXXXVII) | have-ocr | IA `manualofintroduc0000weis_s9t3` |
+| A Manual of Introduction to the New Testament, vol. II, tr. A. J. K. Davidson (London: Hodder and Stoughton, MDCCCLXXXVIII) | have-ocr | IA `manualofintroduc02weis` |
+| The Religion of the New Testament, tr. George H. Schodde (New York: Funk & Wagnalls, 1905) | have-ocr | IA `religionofnewtes0000weis` |
+| A Commentary on the New Testament, vol. 1, Matthew-Mark, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906) | have-ocr | IA `commentaryonnewt01weisuoft` |
+| A Commentary on the New Testament, vol. 2, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906) | have-ocr | IA `commentaryonnewt02weisuoft` |
+| A Commentary on the New Testament, vol. 4, tr. George H. Schodde and Epiphanius Wilson (New York: Funk & Wagnalls, 1906) | have-ocr | IA `commentaryonnewt04weisuoft` |
+| Other copies and later issues of the Biblical Theology, Life of Christ and Manual | alternate | not shelved |
+| eccedeusessayson00parkuoft: catalogued as his Life of Christ, actually Parker's Ecce Deus | excluded | |
+| A modern Bernhard Weiss | excluded | |
