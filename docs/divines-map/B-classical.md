@@ -6745,6 +6745,7 @@ Shelf: `pipeline/kenelm-digby_shelf.json`. The Two Treatises.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Two Treatises (London: John Williams, 1645) |  | `digby-two-treatises-1645` | have-raw (IA `twotreatisesinon00digbuoft`) |
 
 ## Arthur Collier (immaterialism)
 
