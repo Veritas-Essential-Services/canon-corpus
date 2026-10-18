@@ -7644,3 +7644,19 @@ Slugs `paton-*`. Built from title pages read for round 33.
 | John G. Paton, Missionary to the New Hebrides: an Autobiography, vol. III, ed. by his brother (New York: Fleming H. Revell; copyright 1898) | have-ocr | IA `johngpatonmissio03pato` |
 | Later Hodder editions (1890-1891), the Carter and Revell issues, and PG 71542, 75800, 74994 | alternate | not shelved |
 | The Story of John G. Paton (PG 28025), James Paton's retelling for the young; modern reprints | excluded | |
+
+## Alexander Duff (round 33, my pick, 2026-10-18)
+
+Slugs `duff-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| India, and India Missions (Edinburgh: John Johnstone, MDCCCXXXIX) | have-ocr | IA `indiaindiamissio00duff_0` |
+| Vindication of the Church of Scotland's India Missions, tenth thousand (Edinburgh: John Johnstone, MDCCCXXXVII) | have-ocr | IA `vindicationofchu00duff` |
+| New Era of the English Language and English Literature in India (Edinburgh: John Johnstone, MDCCCXXXVII) | have-ocr | IA `neweraofenglishl00duff_1` |
+| The Mutual Duties and Responsibilities of Pastor and People, second edition (Edinburgh: John Johnstone, MDCCCXXXVII) | have-ocr | IA `mutualdutiesresp00duff` |
+| Missions the Chief End of the Christian Church (Edinburgh: John Johnstone, MDCCCXXXIX) | have-ocr | IA `missionschiefend00duff` |
+| The Jesuits: their Origin and Order, Morality and Practices, Suppression and Restoration (Philadelphia: Presbyterian Board of Publication, 1845) | have-ocr | IA `jesuitstheirorig00duff` |
+| The Indian Rebellion: its Causes and Results (New York: Robert Carter, 1858) | have-ocr | IA `indianrebellioni00duffuoft` |
+| Foreign Missions (1866); the third-person reports of his 1837 and 1855 speeches; the 1840 India and India Missions | alternate | not shelved |
+| Caleb Wright's Lectures on India; other Duffs | excluded | |
