@@ -1,5 +1,5 @@
 {
- "_about": "F. W. Maitland (1850-1906), historian of English law: Domesday Book and Beyond, three essays in the early history of England (Cambridge: University Press, 1897) and English Law and the Renaissance, the Rede Lecture for 1901 (Cambridge, 1901), clean Gutenberg texts; The Constitutional History of England, a course of lectures, edited by H. A. L. Fisher (Cambridge: University Press, 1908; this copy the 1909 reprint), raw IA OCR, clean 0.93. His translation of Gierke stands on the otto-von-gierke shelf. US public domain. No uids minted.",
+ "_about": "F. W. Maitland (1850-1906), historian of English law: Domesday Book and Beyond, three essays in the early history of England (Cambridge: University Press, 1897) and English Law and the Renaissance, the Rede Lecture for 1901 (Cambridge, 1901), clean Gutenberg texts; The Constitutional History of England, a course of lectures, edited by H. A. L. Fisher (Cambridge: University Press, 1908; this copy the 1909 reprint), raw IA OCR, clean 0.93. His translation of Gierke stands on the otto-von-gierke shelf. US public domain. Added in round 2026-10-17bl: The History of English Law before the Time of Edward I, with Sir Frederick Pollock, first edition, 2 vols. (Cambridge: University Press; Boston: Little, Brown, 1895), raw IA OCR, clean 0.92 and 0.90. No uids minted.",
  "_author": "F. W. Maitland",
  "_name_words": [
   "frederic",
@@ -24,6 +24,14 @@
   "maitland-constitutional-history-1908": [
    "constitutionalh00mait",
    "The Constitutional History of England, ed. H. A. L. Fisher (Cambridge, 1908; reprint 1909)"
+  ],
+  "pollock-maitland-history-english-law-1895-v1": [
+   "cu31924017089115",
+   "The History of English Law before the Time of Edward I, vol. I, with Sir Frederick Pollock (Cambridge, 1895)"
+  ],
+  "pollock-maitland-history-english-law-1895-v2": [
+   "cu31924061583377",
+   "The History of English Law before the Time of Edward I, vol. II, with Sir Frederick Pollock (Cambridge, 1895)"
   ]
  },
  "_excluded": {},
@@ -54,6 +62,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1908",
    "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pollock-maitland-history-english-law-1895-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pollock-maitland-history-english-law-1895-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
