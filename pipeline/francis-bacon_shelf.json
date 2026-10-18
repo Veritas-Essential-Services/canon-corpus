@@ -1,5 +1,5 @@
 {
- "_about": "Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. No uids minted.",
+ "_about": "Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. Added in round ap: The Works of Francis Bacon, ed. Spedding, Ellis and Heath, the fifteen-volume American edition (New York: Hurd and Houghton; Boston: Taggard and Thompson, MDCCCLXIV on every title page that the OCR reads; raw IA OCR, BYU scans). Vols. I-VII print the philosophical works as Bacon wrote them, Latin works in Latin with the editors' English prefaces; vols. VIII-X are the editors' English translations of those Latin works; XI-XIV are the literary works (Latin pieces followed by English translations, not facing pages); XV the professional works. The set overlaps the Gutenberg Essays, New Atlantis and Valerius Terminus above and the Advancement and Novum Organum on the Adler shelf; it is taken whole as the collected edition. The Letters and Life (1861-74) are not taken. US public domain. No uids minted.",
  "_author": "Francis Bacon",
  "_name_words": [
   "francis",
@@ -24,13 +24,74 @@
    "Valerius Terminus: of the Interpretation of Nature, with a preface by Robert Leslie Ellis"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bacon-spedding-works-1864-v1": [
+   "worksoffrancisba1864baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. I: Philosophical Works: the Instauratio Magna and Novum Organum in Latin, with the editors' general preface (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v2": [
+   "worksoffrancisba18642baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. II: Philosophical Works, Latin: Parasceve and De Augmentis Scientiarum books I-VI (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v3": [
+   "worksoffrancisba18643baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. III: Philosophical Works, Latin: De Augmentis continued and the natural histories (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v4": [
+   "worksoffrancisba18644baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. IV: Philosophical Works: Historia Densi et Rari, De Magnete, and Sylva Sylvarum (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v5": [
+   "worksoffrancisba18645baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. V: Philosophical Works: Sylva Sylvarum continued, Cogitationes de Natura Rerum, De Fluxu Maris, New Atlantis (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v6": [
+   "worksoffrancisba18646baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VI: Philosophical Works: Valerius Terminus, the Advancement of Learning, Filum Labyrinthi (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v7": [
+   "worksoffrancisba07baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VII: Philosophical Works: Temporis Partus Masculus and other abandoned pieces, mostly Latin (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v8": [
+   "worksoffrancisba08baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. VIII: Translations of the Philosophical Works I: The Great Instauration and Novum Organum (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v9": [
+   "worksoffrancisba18649baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. IX: Translations of the Philosophical Works II: Of the Dignity and Advancement of Learning (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v10": [
+   "worksoffrancisb186410baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. X: Translations of the Philosophical Works III: the natural histories, History of Life and Death (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v11": [
+   "worksoffrancisba18641baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XI: Literary Works: History of the Reign of King Henry VII (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v12": [
+   "worksoffrancisba12baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XII: Literary Works: Latin elogia with English translations, and the Essays (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v13": [
+   "worksoffrancisba13baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIII: Literary Works: De Sapientia Veterum with its translation, Advertisement touching a Holy War, Colours of Good and Evil (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v14": [
+   "worksoffrancisba14baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XIV: Literary Works: Promus, Religious Writings, Meditationes Sacrae with translation (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ],
+  "bacon-spedding-works-1864-v15": [
+   "worksoffrancisba15baco",
+   "The Works of Francis Bacon, collected and edited by James Spedding, Robert Leslie Ellis and Douglas Denon Heath, vol. XV: Professional Works: legal discourses, arguments of law, readings (New York: Hurd and Houghton; Boston: Taggard and Thompson, 1864)"
+  ]
+ },
  "_excluded": {},
  "_translators": {},
  "_checks": {
   "bacon-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -39,7 +100,7 @@
   },
   "bacon-new-atlantis": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -48,12 +109,181 @@
   },
   "bacon-valerius-terminus": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "bacon-spedding-works-1864-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v12": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v13": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v14": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bacon-spedding-works-1864-v15": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
