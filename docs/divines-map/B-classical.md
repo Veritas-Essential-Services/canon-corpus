@@ -6545,6 +6545,9 @@ Shelf: `pipeline/oswald-kulpe_shelf.json`. Three translations, two by Titchener.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Outlines of Psychology (Swan Sonnenschein, 1895; 1901 printing) | Edward Bradford Titchener | `kulpe-outlines-of-psychology-1895` | have-raw (IA `outlinesofpsycho00kluoft`) |
+| Introduction to Philosophy (Swan Sonnenschein, 1897) | W. B. Pillsbury and E. B. Titchener | `kulpe-introduction-to-philosophy-1897` | have-raw (IA `introtophilosoph00kulpuoft`) |
+| The Philosophy of the Present in Germany (1913) | Maud Lyall Patrick and G. T. W. Patrick | `kulpe-philosophy-of-the-present-in-germany-1913` | have-raw (IA `philosophyofthep00kulpuoft`) |
 
 ## Alexander T. Ormond (Princeton idealism)
 
