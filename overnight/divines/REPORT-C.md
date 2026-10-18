@@ -312,3 +312,5 @@
 - 2026-10-17T23:25-05:00: round 117: singles-fiction-3 +4 (Heretic x3, Emanuel), cw-stork +1 (Froding). Identity override: Emanuel (decorative title OCR). --verify --record 0 mismatched.
 
 - 2026-10-17T23:30-05:00: round 118: morris-magnusson +2 (Runeberg x2), scandinavian-classics +1 (Garborg). --verify --record 0 mismatched.
+
+- 2026-10-17T23:33-05:00: round 119: hispanic-classics +3 (Churton's Gongora x2, Lorente's Canaan). --verify --record 0 mismatched.

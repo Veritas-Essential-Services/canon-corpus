@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568).",
+ "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920).",
  "_name_words": [
   "algernon langton",
   "archer m. huntington",
@@ -25,7 +25,10 @@
   "salomón de la selva",
   "t. north",
   "t. saldkeld",
-  "thomas walsh"
+  "thomas walsh",
+  "edward churton",
+  "mariano joaquin lorente",
+  "mariano joaquín lorente"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
  "_surname": [
@@ -53,7 +56,10 @@
   "salomón de la selva",
   "t. north",
   "t. saldkeld",
-  "thomas walsh"
+  "thomas walsh",
+  "edward churton",
+  "mariano joaquin lorente",
+  "mariano joaquín lorente"
  ],
  "_surname_by_slug": {
   "hsp-benavente-plays-1": [
@@ -128,6 +134,16 @@
   ],
   "hsp-guevara-dial-of-princes": [
    "t. north"
+  ],
+  "hsp-churton-gongora-vol-1": [
+   "edward churton"
+  ],
+  "hsp-churton-gongora-vol-2": [
+   "edward churton"
+  ],
+  "hsp-aranha-canaan": [
+   "mariano joaquin lorente",
+   "mariano joaquín lorente"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -210,6 +226,18 @@
   "hsp-guevara-dial-of-princes": [
    "dialofprincescom00guev",
    "The Dial of Princes (1568)"
+  ],
+  "hsp-churton-gongora-vol-1": [
+   "gongorahistorica01chur",
+   "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I (1862)"
+  ],
+  "hsp-churton-gongora-vol-2": [
+   "gongorahistorica02chur",
+   "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II (1862)"
+  ],
+  "hsp-aranha-canaan": [
+   "canaanaran00aranuoft",
+   "Canaan (1920)"
   ]
  },
  "titles": {
@@ -368,6 +396,32 @@
    "translated": 1568,
    "translator": "Sir Thomas North",
    "scan_edition": "Richard Tottill and Thomas Marshe, London 1568 (North's revised second edition; first 1557); Queen's University (Kingston) scan"
+  },
+  "hispanic-classics-churton-gongora-vol-1": {
+   "source": "hsp-churton-gongora-vol-1",
+   "of": "Luis de Góngora",
+   "work": "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I",
+   "translated": 1862,
+   "translator": "Edward Churton",
+   "scan_edition": "John Murray, London 1862; archive.org scan",
+   "note": "Churton's essay interleaved with his verse translations of Góngora's poems."
+  },
+  "hispanic-classics-churton-gongora-vol-2": {
+   "source": "hsp-churton-gongora-vol-2",
+   "of": "Luis de Góngora",
+   "work": "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II",
+   "translated": 1862,
+   "translator": "Edward Churton",
+   "scan_edition": "John Murray, London 1862; archive.org scan",
+   "note": "Churton's essay interleaved with his verse translations of Góngora's poems."
+  },
+  "hispanic-classics-aranha-canaan": {
+   "source": "hsp-aranha-canaan",
+   "of": "Graça Aranha",
+   "work": "Canaan",
+   "translated": 1920,
+   "translator": "Mariano Joaquín Lorente",
+   "scan_edition": "The Four Seas Company, Boston 1920; University of Toronto scan"
   }
  },
  "_pending": {
@@ -589,6 +643,39 @@
    "ia_date": "1568",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "hsp-churton-gongora-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward churton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-churton-gongora-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward churton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-aranha-canaan": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mariano joaquin lorente",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -794,6 +881,41 @@
    "ia": "dialofprincescom00guev",
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-churton-gongora-vol-1": {
+   "ia": "gongorahistorica01chur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1621,
+    1862,
+    1906
+   ],
+   "post_1930_years_in_front_15k": [
+    1946,
+    2013
+   ],
+   "post_1930_examined": "Examined in round 119: '1906-1946' is on a library gift plate ('Presented to the Library by Professor Milton A. Buchanan of the Department of Italian and Spanish, 1906-1946'), and 2013 is the Internet Archive's digitising line; the title page reads London, 1862."
+  },
+  "hsp-churton-gongora-vol-2": {
+   "ia": "gongorahistorica02chur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1624,
+    1862
+   ],
+   "post_1930_years_in_front_15k": [
+    2013
+   ],
+   "post_1930_examined": "Examined in round 119: 2013 is the Internet Archive's digitising line; the title page reads London, 1862."
+  },
+  "hsp-aranha-canaan": {
+   "ia": "canaanaran00aranuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1920
+   ],
    "post_1930_years_in_front_15k": []
   }
  },

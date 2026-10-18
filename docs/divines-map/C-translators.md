@@ -6892,7 +6892,7 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 ## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
 
 Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
-Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Not converted to unit-id JSON; **no uids minted**.
+Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6915,6 +6915,9 @@ Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil
 | `hispanic-classics-gracian-compleat-gentleman` | Baltasar Gracián | The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto) | T. Saldkeld | 1730 | have-raw | IA `compleatgentlema00gracuoft` |
 | `hispanic-classics-gracian-art-of-worldly-wisdom` | Baltasar Gracián | The Art of Worldly Wisdom (Oráculo manual) | Joseph Jacobs | 1892 | have-raw | IA `the-art-of-worldly-wisdom` |
 | `hispanic-classics-guevara-dial-of-princes` | Antonio de Guevara | The Dial of Princes (Relox de príncipes), with The Favored Courtier | Sir Thomas North | 1568 | have-raw | IA `dialofprincescom00guev` |
+| `hispanic-classics-churton-gongora-vol-1` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I | Edward Churton | 1862 | have-raw | IA `gongorahistorica01chur` |
+| `hispanic-classics-churton-gongora-vol-2` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II | Edward Churton | 1862 | have-raw | IA `gongorahistorica02chur` |
+| `hispanic-classics-aranha-canaan` | Graça Aranha | Canaan | Mariano Joaquín Lorente | 1920 | have-raw | IA `canaanaran00aranuoft` |
 | `hispanic-classics-mendes-pinto-voyages-cogan` | — | Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
