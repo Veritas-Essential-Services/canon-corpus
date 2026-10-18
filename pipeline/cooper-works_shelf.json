@@ -286,6 +286,10 @@
   "jfcooper-gleanings-in-europe-france-vol-2-of-2": [
    77305,
    "Gleanings in Europe France, vol. 2 of 2"
+  ],
+  "jfcooper-pathfinder": [
+   1880,
+   "The Pathfinder; Or, The Inland Sea"
   ]
  },
  "internet_archive": {},
@@ -673,6 +677,15 @@
    "pg_translator": null
   },
   "jfcooper-gleanings-in-europe-france-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james fenimore cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfcooper-pathfinder": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
