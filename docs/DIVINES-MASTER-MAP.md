@@ -11017,8 +11017,9 @@ Shelf: `pipeline/henry-maine_shelf.json`. Historical jurisprudence.
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | Ancient Law, 3rd American from the 5th London ed. (New York: Henry Holt, 1875) |  | `maine-ancient-law-1875` | have-raw (IA `cu31924021177807`) |
-
-Pending (wishlist): Village Communities (1871); Lectures on the Early History of Institutions (1875); Popular Government (1885)
+| Village-Communities in the East and West (London: John Murray, 1871) |  | `maine-village-communities-1871` | have-raw (IA `cu31924030429413`) |
+| Lectures on the Early History of Institutions (New York: Henry Holt, 1888) |  | `maine-early-history-of-institutions-1888` | have-raw (IA `lecturesonearlyh00mainiala`) |
+| Popular Government, four essays, 2nd ed. (London: John Murray, 1886) |  | `maine-popular-government-1886` | have-raw (IA `cu31924030448413`) |
 
 ## Walter Bagehot
 
@@ -11042,8 +11043,10 @@ Shelf: `pipeline/thomas-henry-huxley_shelf.json`. Agnosticism, evolution and eth
 | Science and Education, Collected Essays III (preface dated 1893) |  | `huxley-science-and-education` | have (PG 7150) |
 | Evolution and Ethics, and other essays, Collected Essays IX (printing not named) |  | `huxley-evolution-and-ethics` | have (PG 2940) |
 | Science and Christian Tradition, Collected Essays V (New York: Appleton, 1902) |  | `huxley-science-and-christian-tradition-1902` | have (PG 15905) |
+| Method and Results, Collected Essays I (London: Macmillan, 1894 reprint of 1893) |  | `huxley-method-and-results-1894` | have-raw (IA `cu31924002923211`) |
+| Darwiniana, Collected Essays II (London: Macmillan, 1893) |  | `huxley-darwiniana-1893` | have-raw (IA `darwinianaessays00huxluoft`) |
 
-Pending (wishlist): Method and Results; Darwiniana; Man's Place in Nature (Collected Essays I, II, VII) as full volumes
+Pending (wishlist): Man's Place in Nature and other essays (Collected Essays VII) as a full volume
 
 ## Samuel Alexander
 
@@ -11063,8 +11066,7 @@ Shelf: `pipeline/james-hutchison-stirling_shelf.json`. British Hegelianism's ope
 |---|---|---|---|
 | The Secret of Hegel, vol. I (London: Longman, 1865) |  | `stirling-secret-of-hegel-1865-v1` | have-raw (IA `cu31924092297922`) |
 | The Secret of Hegel, vol. II (London: Longman, 1865) |  | `stirling-secret-of-hegel-1865-v2` | have-raw (IA `cu31924092297914`) |
-
-Pending (wishlist): Text-Book to Kant (1881)
+| Text-Book to Kant: the Critique of Pure Reason, aesthetic, categories, schematism, translation, reproduction, commentary (Edinburgh: Oliver and Boyd, 1881) |  | `stirling-text-book-to-kant-1881` | have-raw (IA `textbooktokantcr00kantuoft`) |
 
 ## R. G. Collingwood
 
@@ -11084,8 +11086,8 @@ Shelf: `pipeline/james-martineau_shelf.json`. Philosophy of religion and ethics.
 |---|---|---|---|
 | A Study of Religion, vol. I (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v1` | have-raw (IA `studyofreligioni01martuoft`) |
 | A Study of Religion, vol. II, American edition revised (Oxford: Clarendon Press; New York: Macmillan, 1888) |  | `martineau-study-of-religion-1888-v2` | have-raw (IA `studyreligionsourc02mart`) |
-
-Pending (wishlist): Types of Ethical Theory (1885, 2 vols)
+| Types of Ethical Theory, vol. I (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v1` | have-raw (IA `ethicaltheory01martiala`) |
+| Types of Ethical Theory, vol. II (Oxford: Clarendon Press, 1885) |  | `martineau-types-of-ethical-theory-1885-v2` | have-raw (IA `typesofethicalth02martuoft`) |
 
 ## John Grote
 
@@ -11095,8 +11097,8 @@ Shelf: `pipeline/john-grote_shelf.json`. Cambridge moral philosophy.
 |---|---|---|---|
 | Exploratio Philosophica, part I (Cambridge: Deighton, Bell, 1865) |  | `john-grote-exploratio-philosophica-1865-pt1` | have-raw (IA `exploratiophilo01grotuoft`) |
 | Exploratio Philosophica, part II, ed. J. B. Mayor (Cambridge: University Press, 1900) |  | `john-grote-exploratio-philosophica-1900-pt2` | have-raw (IA `exploratiophilos02grot`) |
-
-Pending (wishlist): An Examination of the Utilitarian Philosophy (1870); A Treatise on the Moral Ideals (1876)
+| An Examination of the Utilitarian Philosophy, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1870) |  | `john-grote-examination-utilitarian-philosophy-1870` | have-raw (IA `examinationofuti00grotrich`) |
+| A Treatise on the Moral Ideals, ed. J. B. Mayor (Cambridge: Deighton, Bell, 1876) |  | `john-grote-moral-ideals-1876` | have-raw (IA `atreatiseonmora00grotuoft`) |
 
 ## Alexander Campbell Fraser
 

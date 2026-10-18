@@ -997,3 +997,9 @@
 - New shelf: nicholas-of-cusa (1)
 - Added: Lecky's Rationalism (1873, 2 vols), Ferrier's Lectures vol. II
 - Held: Ibn Gabirol 1902 (Arabic facing; facing-text ruling), Bruno Spaccio 1713 (OCR 0.733), Lipsius 1595 (OCR 0.658)
+
+## 2026-10-17 19:09 CDT — Round ak: wishlist fill, fourth batch
+- Martineau: Types of Ethical Theory (1885, 2 vols)
+- Maine: Village-Communities, Early History of Institutions, Popular Government
+- John Grote: Utilitarian Philosophy (1870), Moral Ideals (1876); Stirling: Text-Book to Kant (1881)
+- Huxley: Method and Results, Darwiniana
