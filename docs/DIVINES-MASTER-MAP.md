@@ -8721,6 +8721,23 @@ Slugs `plummer-*`. Built from title pages read for round 36.
 | The Church of the Early Fathers, third edition (London: Longmans, Green, 1888) | have-ocr | IA `churchofearlyfat00plum` |
 | CCEL plummer/expositorpastoral (1888) and expositorjamesjude (1907); the IA Pastoral Epistles (1888) and Armstrong copy; later Luke printings (1898-1920); English Church History 1509-1575 (year garbled); The Church of England in the Eighteenth Century (Methuen, year not read) | alternate | not shelved |
 | The ICC First Corinthians (1911), written jointly with Archibald Robertson, title page silent on who wrote which part | excluded | |
+
+## A. T. Robertson (round 36, my pick, 2026-10-18)
+
+Slugs `atrobertson-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| A Harmony of the Gospels for Students of the Life of Christ (New York and London: Harper & Brothers, copyright 1922) | have-clean | Gutenberg 36264 |
+| A Grammar of the Greek New Testament in the Light of Historical Research (New York: George H. Doran; London: Hodder & Stoughton; copyright 1914) | have-ocr | IA `cu31924021607209` |
+| Epochs in the Life of Jesus (New York: Charles Scribner's Sons, 1907) | have-ocr | IA `epochsinlifeofj00robe` |
+| Epochs in the Life of St. Paul (London: Hodder and Stoughton, 1909) | have-ocr | IA `epochsinthelifeo00robeuoft` |
+| Life and Letters of John Albert Broadus (Philadelphia: American Baptist Publication Society, 1901) | have-ocr | IA `lifelettersofjoh00robe` |
+| Luke the Historian in the Light of Research (Edinburgh: T. & T. Clark, 1920) | have-ocr | IA `lukethehistorian00robeuoft` |
+| The Pharisees and Jesus, the Stone Lectures for 1915-16 (New York: Charles Scribner's Sons, 1920) | have-ocr | IA `phariseesandjesu00robeuoft` |
+| Practical and Social Aspects of Christianity: The Wisdom of James (New York: George H. Doran; copyright 1915) | have-ocr | IA `practicalsociala00robeuoft` |
+| Another Grammar copy; the Doran Harmony (1922); Broadus's Harmony with his notes (1893) and revised by him (1903); A Short Grammar (copyright 1908, a later printing) | alternate | not shelved |
+| Word Pictures in the New Testament (CCEL, 1930-33); Studies in the Epistle of James as revised by Peacock (PG 48411, 1959) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

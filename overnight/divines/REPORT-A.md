@@ -1810,3 +1810,6 @@
 
 ## 2026-10-17 22:45 CDT — alfred-plummer done
 - `pipeline/alfred-plummer_shelf.json`: 0 CCEL, 2 PG, 9 IA. Title pages read for plummer-2-corinthians-icc (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:45 CDT — a-t-robertson done
+- `pipeline/a-t-robertson_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
