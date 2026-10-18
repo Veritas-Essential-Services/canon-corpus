@@ -25341,6 +25341,55 @@ Shelf: `pipeline/ef-benson_shelf.json` (2026-10-17; added at the coordinator's r
 | The room in the tower, and other stories | have | PG 72421, `efbenson-room-in-the-tower-and-other-stories` (1525 units) |
 | Lucia in London | have | PG 74310, `efbenson-lucia-in-london` (1870 units) |
 
+## Arthur Quiller-Couch
+
+Shelf: `pipeline/quiller-couch_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cornish novels and tales, and lectures. Every English text under the name at Gutenberg that no other shelf holds (42 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Splendid Spur Being Memoirs of the Adventures of Mr. John Marvel, a Servant of His Late Majesty King Charles I, in the Years 1642-3 | have | PG 6437, `aqcouch-splendid-spur-being-memoirs-of-the-adventures-of-mr` (1912 units) |
+| The Vigil of Venus and Other Poems by "Q" | have | PG 10133, `aqcouch-vigil-of-venus-and-other-poems-by-q` (452 units) |
+| The Westcotes | have | PG 10548, `aqcouch-westcotes` (855 units) |
+| Poetry | have | PG 11496, `aqcouch-poetry` (107 units) |
+| The Delectable Duchy | have | PG 12277, `aqcouch-delectable-duchy` (1211 units) |
+| True Tilda | have | PG 12316, `aqcouch-true-tilda` (2533 units) |
+| The Laird's Luck and Other Fireside Tales | have | PG 12923, `aqcouch-lairds-luck-and-other-fireside-tales` (1402 units) |
+| Old Fires and Profitable Ghosts: A Book of Stories | have | PG 13799, `aqcouch-old-fires-and-profitable-ghosts` (1509 units) |
+| I Saw Three Ships and Other Winter Tales | have | PG 14206, `aqcouch-i-saw-three-ships-and-other-winter-tales` (1368 units) |
+| Hocken and Hunken A Tale of Troy | have | PG 14533, `aqcouch-hocken-and-hunken-a-tale-of-troy` (2928 units) |
+| The White Wolf and Other Fireside Tales | have | PG 14817, `aqcouch-white-wolf-and-other-fireside-tales` (1723 units) |
+| Lady Good-for-Nothing: A Man's Portrait of a Woman | have | PG 15228, `aqcouch-lady-good-for-nothing` (2422 units) |
+| Sir John Constantine Memoirs of His Adventures At Home and Abroad and Particularly in the Island of Corsica: Beginning with the Year 1756 | have | PG 15565, `aqcouch-sir-john-constantine-memoirs-of-his-adventures-at-ho` (2564 units) |
+| Nicky-Nan, Reservist | have | PG 15710, `aqcouch-nicky-nan-reservist` (1604 units) |
+| Noughts and Crosses: Stories, Studies and Sketches | have | PG 15865, `aqcouch-noughts-and-crosses` (914 units) |
+| The Ship of Stars | have | PG 16000, `aqcouch-ship-of-stars` (1913 units) |
+| Corporal Sam and Other Stories | have | PG 16194, `aqcouch-corporal-sam-and-other-stories` (1321 units) |
+| On The Art of Reading | have | PG 16579, `aqcouch-on-the-art-of-reading` (988 units) |
+| Poison Island | have | PG 16604, `aqcouch-poison-island` (1687 units) |
+| Hetty Wesley | have | PG 16890, `aqcouch-hetty-wesley` (1744 units) |
+| Green Bays.  Verses and Parodies | have | PG 16898, `aqcouch-green-bays-verses-and-parodies` (227 units) |
+| The Astonishing History of Troy Town | have | PG 17263, `aqcouch-astonishing-history-of-troy-town` (2385 units) |
+| Adventures in Criticism | have | PG 17452, `aqcouch-adventures-in-criticism` (998 units) |
+| On the Art of Writing Lectures delivered in the University of Cambridge 1913-1914 | have | PG 17470, `aqcouch-on-the-art-of-writing-lectures-delivered-in-the-univ` (849 units) |
+| Dead Man's Rock | have | PG 17842, `aqcouch-dead-mans-rock` (1954 units) |
+| News from the Duchy | have | PG 18577, `aqcouch-news-from-the-duchy` (1301 units) |
+| Wandering Heath | have | PG 18750, `aqcouch-wandering-heath` (948 units) |
+| Foe-Farrell | have | PG 19114, `aqcouch-foe-farrell` (1886 units) |
+| The Mayor of Troy | have | PG 19751, `aqcouch-mayor-of-troy` (1729 units) |
+| The Blue Pavilions | have | PG 19977, `aqcouch-blue-pavilions` (2100 units) |
+| The Adventures of Harry Revel | have | PG 20261, `aqcouch-adventures-of-harry-revel` (1582 units) |
+| Fort Amity | have | PG 20612, `aqcouch-fort-amity` (1430 units) |
+| Major Vigoureux | have | PG 20863, `aqcouch-major-vigoureux` (2129 units) |
+| Brother Copas | have | PG 20979, `aqcouch-brother-copas` (1709 units) |
+| Two Sides of the Face: Midwinter Tales | have | PG 22198, `aqcouch-two-sides-of-the-face` (1393 units) |
+| The Roll-Call Of The Reef | have | PG 23217, `aqcouch-roll-call-of-the-reef` (80 units) |
+| Shining Ferry | have | PG 23647, `aqcouch-shining-ferry` (2025 units) |
+| From a Cornish Window A New Edition | have | PG 24946, `aqcouch-from-a-cornish-window-a-new-edition` (1164 units) |
+| Merry-Garden and Other Stories | have | PG 27813, `aqcouch-merry-garden-and-other-stories` (1070 units) |
+| Shakespeare's Christmas, and other stories | have | PG 54274, `aqcouch-shakespeares-christmas-and-other-stories` (1553 units) |
+| The Warwickshire Avon | have | PG 64801, `aqcouch-warwickshire-avon` (346 units) |
+| Charles Dickens and other Victorians | have | PG 72466, `aqcouch-charles-dickens-and-other-victorians` (1304 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

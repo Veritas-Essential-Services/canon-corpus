@@ -1,0 +1,590 @@
+{
+ "_about": "Arthur Quiller-Couch's (\"Q\") Cornish novels and tales and his lectures; the anthologies he only edited are not taken: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Arthur Quiller-Couch",
+ "_name_words": [
+  "quiller-couch"
+ ],
+ "_surname": [
+  "arthur quiller-couch"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aqcouch-splendid-spur-being-memoirs-of-the-adventures-of-mr": [
+   6437,
+   "The Splendid Spur Being Memoirs of the Adventures of Mr. John Marvel, a Servant of His Late Majesty King Charles I, in the Years 1642-3"
+  ],
+  "aqcouch-vigil-of-venus-and-other-poems-by-q": [
+   10133,
+   "The Vigil of Venus and Other Poems by \"Q\""
+  ],
+  "aqcouch-westcotes": [
+   10548,
+   "The Westcotes"
+  ],
+  "aqcouch-poetry": [
+   11496,
+   "Poetry"
+  ],
+  "aqcouch-delectable-duchy": [
+   12277,
+   "The Delectable Duchy"
+  ],
+  "aqcouch-true-tilda": [
+   12316,
+   "True Tilda"
+  ],
+  "aqcouch-lairds-luck-and-other-fireside-tales": [
+   12923,
+   "The Laird's Luck and Other Fireside Tales"
+  ],
+  "aqcouch-old-fires-and-profitable-ghosts": [
+   13799,
+   "Old Fires and Profitable Ghosts: A Book of Stories"
+  ],
+  "aqcouch-i-saw-three-ships-and-other-winter-tales": [
+   14206,
+   "I Saw Three Ships and Other Winter Tales"
+  ],
+  "aqcouch-hocken-and-hunken-a-tale-of-troy": [
+   14533,
+   "Hocken and Hunken A Tale of Troy"
+  ],
+  "aqcouch-white-wolf-and-other-fireside-tales": [
+   14817,
+   "The White Wolf and Other Fireside Tales"
+  ],
+  "aqcouch-lady-good-for-nothing": [
+   15228,
+   "Lady Good-for-Nothing: A Man's Portrait of a Woman"
+  ],
+  "aqcouch-sir-john-constantine-memoirs-of-his-adventures-at-ho": [
+   15565,
+   "Sir John Constantine Memoirs of His Adventures At Home and Abroad and Particularly in the Island of Corsica: Beginning with the Year 1756"
+  ],
+  "aqcouch-nicky-nan-reservist": [
+   15710,
+   "Nicky-Nan, Reservist",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-noughts-and-crosses": [
+   15865,
+   "Noughts and Crosses: Stories, Studies and Sketches"
+  ],
+  "aqcouch-ship-of-stars": [
+   16000,
+   "The Ship of Stars"
+  ],
+  "aqcouch-corporal-sam-and-other-stories": [
+   16194,
+   "Corporal Sam and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-on-the-art-of-reading": [
+   16579,
+   "On The Art of Reading"
+  ],
+  "aqcouch-poison-island": [
+   16604,
+   "Poison Island"
+  ],
+  "aqcouch-hetty-wesley": [
+   16890,
+   "Hetty Wesley"
+  ],
+  "aqcouch-green-bays-verses-and-parodies": [
+   16898,
+   "Green Bays.  Verses and Parodies"
+  ],
+  "aqcouch-astonishing-history-of-troy-town": [
+   17263,
+   "The Astonishing History of Troy Town"
+  ],
+  "aqcouch-adventures-in-criticism": [
+   17452,
+   "Adventures in Criticism",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-on-the-art-of-writing-lectures-delivered-in-the-univ": [
+   17470,
+   "On the Art of Writing Lectures delivered in the University of Cambridge 1913-1914"
+  ],
+  "aqcouch-dead-mans-rock": [
+   17842,
+   "Dead Man's Rock"
+  ],
+  "aqcouch-news-from-the-duchy": [
+   18577,
+   "News from the Duchy"
+  ],
+  "aqcouch-wandering-heath": [
+   18750,
+   "Wandering Heath"
+  ],
+  "aqcouch-foe-farrell": [
+   19114,
+   "Foe-Farrell"
+  ],
+  "aqcouch-mayor-of-troy": [
+   19751,
+   "The Mayor of Troy"
+  ],
+  "aqcouch-blue-pavilions": [
+   19977,
+   "The Blue Pavilions"
+  ],
+  "aqcouch-adventures-of-harry-revel": [
+   20261,
+   "The Adventures of Harry Revel",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-fort-amity": [
+   20612,
+   "Fort Amity"
+  ],
+  "aqcouch-major-vigoureux": [
+   20863,
+   "Major Vigoureux",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-brother-copas": [
+   20979,
+   "Brother Copas"
+  ],
+  "aqcouch-two-sides-of-the-face": [
+   22198,
+   "Two Sides of the Face: Midwinter Tales"
+  ],
+  "aqcouch-roll-call-of-the-reef": [
+   23217,
+   "The Roll-Call Of The Reef"
+  ],
+  "aqcouch-shining-ferry": [
+   23647,
+   "Shining Ferry",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-from-a-cornish-window-a-new-edition": [
+   24946,
+   "From a Cornish Window A New Edition"
+  ],
+  "aqcouch-merry-garden-and-other-stories": [
+   27813,
+   "Merry-Garden and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-shakespeares-christmas-and-other-stories": [
+   54274,
+   "Shakespeare's Christmas, and other stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "aqcouch-warwickshire-avon": [
+   64801,
+   "The Warwickshire Avon"
+  ],
+  "aqcouch-charles-dickens-and-other-victorians": [
+   72466,
+   "Charles Dickens and other Victorians",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aqcouch-splendid-spur-being-memoirs-of-the-adventures-of-mr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-vigil-of-venus-and-other-poems-by-q": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-westcotes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-poetry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-delectable-duchy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-true-tilda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-lairds-luck-and-other-fireside-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-old-fires-and-profitable-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-i-saw-three-ships-and-other-winter-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-hocken-and-hunken-a-tale-of-troy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-white-wolf-and-other-fireside-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-lady-good-for-nothing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-sir-john-constantine-memoirs-of-his-adventures-at-ho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-nicky-nan-reservist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-noughts-and-crosses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-ship-of-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-corporal-sam-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-on-the-art-of-reading": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-poison-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-hetty-wesley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-green-bays-verses-and-parodies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-astonishing-history-of-troy-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-adventures-in-criticism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-on-the-art-of-writing-lectures-delivered-in-the-univ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-dead-mans-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-news-from-the-duchy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-wandering-heath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-foe-farrell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-mayor-of-troy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-blue-pavilions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-adventures-of-harry-revel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-fort-amity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-major-vigoureux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-brother-copas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-two-sides-of-the-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-roll-call-of-the-reef": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-shining-ferry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-from-a-cornish-window-a-new-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-merry-garden-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-shakespeares-christmas-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-warwickshire-avon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aqcouch-charles-dickens-and-other-victorians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur quiller-couch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
