@@ -7756,6 +7756,9 @@ Shelf: `pipeline/j-b-baillie_shelf.json`. Three books, 1901-1922.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Origin and Significance of Hegel's Logic (Macmillan, 1901) |  | `baillie-origin-and-significance-of-hegels-logic-1901` | have-raw (IA `cu31924011603416`) |
+| An Outline of the Idealistic Construction of Experience (Macmillan, 1906) |  | `baillie-idealistic-construction-of-experience-1906` | have-raw (IA `cu31924029031066`) |
+| Studies in Human Nature (1922) |  | `baillie-studies-in-human-nature-1922` | have-raw (IA `studiesinhumanna00bail`) |
 
 ## T. Percy Nunn (philosophy of science and education)
 
