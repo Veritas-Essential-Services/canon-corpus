@@ -8110,6 +8110,17 @@ Slugs `bramwell-*`. Built from title pages read for round 34.
 | A Short Account of the Life and Death of Ann Cutler, commonly known by the name of Praying Nanny, with an excellent letter from the Rev. Mr. J. Fletcher (Leeds: A. Newsom, 1798) | have-ocr | IA `bim_eighteenth-century_a-short-account-of-the-l_bramwell-william_1798` |
 | The Life and Death of Ann Cutler, to which is added Choice Wesleyan Anecdotes (Wakefield: William Nicholson and Sons; London: S. D. Ewins; title page undated, a nineteenth-century reprint; the catalogue's 1800 is wrong) | have-ocr | IA `29463000.1800.emory.edu` |
 | Sigston 1830 and Summers's revision (Nashville, 1856); a 1796 Ann Cutler whose title page is not in the OCR | alternate | not shelved |
+
+## William Carvosso (round 34, my pick, 2026-10-18)
+
+Slugs `carvosso-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Efficacy of Faith in the Atonement of Christ, exemplified in a Memoir of Mr. William Carvosso, written by himself, edited by his son, second edition (London: J. Mason, 1836) | have-ocr | IA `efficacyfaithin01carvgoog` |
+| The Efficacy of Faith in the Atonement of Christ, written by himself, edited by his son, third edition (London: J. Mason, 1836) | have-ocr | IA `29463519.1836.emory.edu` |
+| The Great Efficacy of Simple Faith in the Atonement of Christ, exemplified in a Memoir of Mr. William Carvosso, written by himself and edited by his son (New York: T. Mason and G. Lane, 1837) | have-ocr | IA `greatefficacyofs00carv` |
+| New York 1845 (G. Lane & C. B. Tippett); a duplicate 1836 scan; the undated Jennings & Pye Life (its catalogued 1835 is wrong) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
