@@ -9397,6 +9397,14 @@ Slugs `platon-*`. Built from title pages read for round 38.
 | The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, tr. Robert Pinkerton (Edinburgh: Oliphant, Waugh & Innes, 1814) | have-ocr | IA `presentstateofgr00plat` |
 | presentstateofgr00plat_0 and the Google copy (1814); New York: Collins, 1815 (no text layer); the 1770 sermon on the tomb of Peter the Great (title page OCR illegible) | alternate | not shelved |
 | The Orthodox Doctrine (only the 1969 AMS reprint found) | excluded | |
+
+## Johannes Oecolampadius (round 39, my pick, 2026-10-18)
+
+Slugs `oecolampadius-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548) | have-ocr | IA `bim_early-english-books-1475-1640_a-sermon-to-young-men-an_ecolampadius_1548` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

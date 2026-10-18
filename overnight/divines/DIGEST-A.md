@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:14 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 23:44 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -911,6 +911,14 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | Platon of Moscow | platon-levshin_shelf.json | none | 1 (The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, tr. Robert Pinkerton (Edinburgh: Oliphant, Waugh & Innes, 1814)) | none | The Orthodox Doctrine (only the 1969 AMS reprint found) |
 
 Round 38 closed 2026-10-17 23:15 CDT: 12 shelves, 21 items (all Internet Archive), each `--verify --record` with 0 mismatched and 0 uids minted. Most are scholarly editions printing the Syriac with the English; where text and translation came in separate volumes, only the English volume is shelved.
+
+## Round 39: colonial American divines and continental Reformers, before 1930 (my picks)
+
+Twenty-two authors were queued in QUEUE-A.json; this round was cut short by Adam's pause on 2026-10-17, so only the ten shelves that passed the identity check on the first build are committed here. The other twelve (Bucer, Osiander, Brenz, Chemnitz, Zanchi, Junius, Thomas Hooker, John Eliot, John Wise, Charles Chauncy, Jonathan Mayhew, Nathaniel W. Taylor) are held, still queued, because early-printing OCR garbles the names on their title pages and each needs its title page re-read before it can pass. Edwards's Life of Brainerd stays on the edwards shelf and is not repeated. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Johannes Oecolampadius | johannes-oecolampadius_shelf.json | none | 1 (A Sermon of Jhon Oecolampadius to yong men and maydens (catalogued 1548)) | none |  |
 
 ## Paused 2026-10-10 15:12 CDT
 
