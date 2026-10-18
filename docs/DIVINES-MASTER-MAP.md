@@ -6472,6 +6472,21 @@ Slugs `ravignan-*`. Jesuit preacher of Notre-Dame, in English.
 | Spiritual Life seventh edition (1913); another Last Retreat copy | alternate | not shelved |
 | Ponlevoy's Life of him | excluded | |
 | French editions with wrong language tags | excluded | |
+
+## François-René de Chateaubriand (round 29, my pick, 2026-10-18)
+
+Slugs `chateaubriand-*`. The Genius of Christianity and The Martyrs in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Genius of Christianity; or, the Spirit and Beauty of the Christian Religion, tr. Charles I. White (Philadelphia: Lippincott; Baltimore: John Murphy, 1856) | have-ocr | IA `cu31924029192429` |
+| The Martyrs; or, the Triumph of the Christian Religion, vol. I (New-York: Whiting and Watson, 1812) | have-ocr | IA `TheTriumphOfTheChristianReligionV1` |
+| The Martyrs; or, the Triumph of the Christian Religion, vol. II (New-York: Whiting and Watson, 1812) | have-ocr | IA `TheTriumphOfTheChristianReligionV2` |
+| The Martyrs; or, the Triumph of the Christian Religion, vol. III (New-York: Whiting and Watson, 1812) | have-ocr | IA `TheTriumphOfTheChristianReligionV3` |
+| The Martyrs, a revised translation ed. O. W. Wight (New York: Derby & Jackson, 1859) | alternate | not shelved |
+| Later Murphy editions of the Genius (1871-1884); Stork's Selections (1858) | alternate | not shelved |
+| The Memoirs (teixeira-de-mattos shelf) | excluded | |
+| Atala, Travels, the Congress of Verona and other non-religious works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
