@@ -1687,3 +1687,6 @@
 
 ## 2026-10-17 22:09 CDT — william-carvosso done
 - `pipeline/william-carvosso_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — hester-ann-rogers done
+- `pipeline/hester-ann-rogers_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for harogers-account-baltimore (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

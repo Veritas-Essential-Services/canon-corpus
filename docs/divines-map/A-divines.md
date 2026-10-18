@@ -8115,3 +8115,15 @@ Slugs `carvosso-*`. Built from title pages read for round 34.
 | The Efficacy of Faith in the Atonement of Christ, written by himself, edited by his son, third edition (London: J. Mason, 1836) | have-ocr | IA `29463519.1836.emory.edu` |
 | The Great Efficacy of Simple Faith in the Atonement of Christ, exemplified in a Memoir of Mr. William Carvosso, written by himself and edited by his son (New York: T. Mason and G. Lane, 1837) | have-ocr | IA `greatefficacyofs00carv` |
 | New York 1845 (G. Lane & C. B. Tippett); a duplicate 1836 scan; the undated Jennings & Pye Life (its catalogued 1835 is wrong) | alternate | not shelved |
+
+## Hester Ann Rogers (round 34, my pick, 2026-10-18)
+
+Slugs `harogers-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual Letters, by Mrs. H. A. Rogers, written before and after her marriage (Bristol: R. Edwards; year not on the title page, catalogued 1796) | have-ocr | IA `bim_eighteenth-century_spiritual-letters-by-mr_rogers-hester-ann_1796` |
+| A Short Account of the Experience of Mrs. Hester Ann Rogers, written by herself, with a brief extract from her diary, to which are now added her spiritual letters (New York: Daniel Hitt, 1811) | have-ocr | IA `shortaccountofex00roge` |
+| An Account of the Experience of Mrs. Hester Ann Rogers, written by herself, with spiritual letters, a sermon on her death by Thomas Coke and an appendix by her husband from her journals (Baltimore: J. Kingston; year not read, catalogued 1814) | have-ocr | IA `accountofexperie00roge` |
+| An Account of the Experience of Mrs. H. A. Rogers, written by herself, with a brief extract from her diary (London: T. Cordeux for T. Blanshard, 1818) | have-ocr | IA `anaccountexperi00rogegoog` |
+| The 1796 Experience with Wesley's letters (title page unreadable); Summers's Life and Correspondence (Nashville, 1855); the undated thirtieth edition (Carlton & Lanahan) and copies catalogued 1837, 1842, 1857 | alternate | not shelved |
