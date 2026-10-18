@@ -1,41 +1,57 @@
 {
- "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); and six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92); Adam may veto. No uids minted.",
+ "_about": "SHELF of Italian classics in English before 1931: Goldoni's Memoirs (John Black), Four Comedies (Clifford Bax and others), The Liar (Grace Lovat Fraser) and Goldoni on Playwriting (van Steenderen); Alfieri's Tragedies (Charles Lloyd, 1815) and Autobiography (C. Edwards Lester, 1845); six Carducci translations (Sewall, Arms, Holland, Bickersteth, Gilbert, Tribe); Guicciardini's History of Italy in Goddard's ten volumes (1753-56), his maxims twice (Thomson's Counsels and Reflections, 1890, and Emma Martin's Maxims, 1845); and d'Azeglio's Recollections (Count Maffei, 1868) and Ettore Fieramosca twice (Lester 1845, Lady Louisa Magenis 1880). Bowring's Alfieri, Hoole's Metastasio and Aldington's Goldoni are on those translators' shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 92), widened in round 105; Adam may veto. No uids minted.",
  "_name_words": [
+  "austin parke goddard",
   "bickersteth",
   "c. edwards lester",
   "charles lloyd",
   "clifford bax",
+  "count maffei",
   "edwards lester",
   "emily a. tribe",
+  "emma martin",
   "f. c. l. van steenderen",
   "frank sewall",
   "g. l. bickersteth",
   "grace lovat fraser",
+  "hill thomson",
   "john black",
   "laura fullerton gilbert",
+  "louisa magenis",
   "lovat fraser",
   "m. w. arms",
+  "maffei",
+  "magenis",
   "maud holland",
+  "parke goddard",
   "sewall",
   "van steenderen"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common-word surnames (black, lloyd, fraser, holland, arms, tribe, gilbert, bax) are never listed bare.",
  "_surname": [
+  "austin parke goddard",
   "bickersteth",
   "c. edwards lester",
   "charles lloyd",
   "clifford bax",
+  "count maffei",
   "edwards lester",
   "emily a. tribe",
+  "emma martin",
   "f. c. l. van steenderen",
   "frank sewall",
   "g. l. bickersteth",
   "grace lovat fraser",
+  "hill thomson",
   "john black",
   "laura fullerton gilbert",
+  "louisa magenis",
   "lovat fraser",
   "m. w. arms",
+  "maffei",
+  "magenis",
   "maud holland",
+  "parke goddard",
   "sewall",
   "van steenderen"
  ],
@@ -89,6 +105,72 @@
   ],
   "itc-carducci-rime-nuove": [
    "laura fullerton gilbert"
+  ],
+  "itc-guicciardini-history-of-italy-1": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-2": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-3": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-4": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-5": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-6": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-7": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-8": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-9": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-history-of-italy-10": [
+   "parke goddard",
+   "austin parke goddard"
+  ],
+  "itc-guicciardini-counsels-and-reflections": [
+   "hill thomson"
+  ],
+  "itc-guicciardini-maxims": [
+   "emma martin"
+  ],
+  "itc-azeglio-recollections-1": [
+   "count maffei",
+   "maffei"
+  ],
+  "itc-azeglio-recollections-2": [
+   "count maffei",
+   "maffei"
+  ],
+  "itc-azeglio-challenge-of-barletta-lester": [
+   "c. edwards lester",
+   "edwards lester"
+  ],
+  "itc-azeglio-challenge-of-barletta-magenis-1": [
+   "louisa magenis",
+   "magenis"
+  ],
+  "itc-azeglio-challenge-of-barletta-magenis-2": [
+   "louisa magenis",
+   "magenis"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -157,6 +239,74 @@
   "itc-carducci-rime-nuove": [
    "rimenuoveofgiosu00card",
    "The Rime Nuove of Giosuè Carducci (1916)"
+  ],
+  "itc-guicciardini-history-of-italy-1": [
+   "historyofitalywr01guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 1 (Books I-II and the Life of the Author) (1753)"
+  ],
+  "itc-guicciardini-history-of-italy-2": [
+   "historyofitalywr02guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 2 (Books III-IV) (1753)"
+  ],
+  "itc-guicciardini-history-of-italy-3": [
+   "historyofitalywr03guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 3 (Books V-VI) (1753)"
+  ],
+  "itc-guicciardini-history-of-italy-4": [
+   "historyofitalywr04guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 4 (Books VII-VIII) (1753)"
+  ],
+  "itc-guicciardini-history-of-italy-5": [
+   "historyofitalywr05guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 5 (Books IX-X) (1753-1756)"
+  ],
+  "itc-guicciardini-history-of-italy-6": [
+   "historyofitalywr06guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 6 (Books XI-XII) (1754)"
+  ],
+  "itc-guicciardini-history-of-italy-7": [
+   "historyofitalywr07guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 7 (Books XIII-XIV) (1754)"
+  ],
+  "itc-guicciardini-history-of-italy-8": [
+   "historyofitalywr08guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 8 (Books XV-XVI) (1755)"
+  ],
+  "itc-guicciardini-history-of-italy-9": [
+   "historyofitalywr09guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 9 (Books XVII-XVIII) (1756)"
+  ],
+  "itc-guicciardini-history-of-italy-10": [
+   "historyofitalywr10guicuoft",
+   "The History of Italy, from the Year 1490 to 1532, vol. 10 (Books XIX-XX) (1756)"
+  ],
+  "itc-guicciardini-counsels-and-reflections": [
+   "counselsandrefl00thomgoog",
+   "Counsels and Reflections (Ricordi) (1890)"
+  ],
+  "itc-guicciardini-maxims": [
+   "TheMaximsOfFrancisGuicciardini",
+   "The Maxims of Francis Guicciardini, with parallel passages from Machiavelli, Bacon, Pascal and others (1845)"
+  ],
+  "itc-azeglio-recollections-1": [
+   "recollectionsofm01azeguoft",
+   "Recollections of Massimo d'Azeglio (I miei ricordi), vol. I (1868)"
+  ],
+  "itc-azeglio-recollections-2": [
+   "recollectionsofm02azeguoft",
+   "Recollections of Massimo d'Azeglio (I miei ricordi), vol. II (1868)"
+  ],
+  "itc-azeglio-challenge-of-barletta-lester": [
+   "ettorefieramosca00azeg_0",
+   "Ettore Fieramosca, or the Challenge of Barletta: an Historical Romance of the Times of the Medici (1845)"
+  ],
+  "itc-azeglio-challenge-of-barletta-magenis-1": [
+   "challengebarlet01azegoog",
+   "The Challenge of Barletta (Ettore Fieramosca), vol. I (1880)"
+  ],
+  "itc-azeglio-challenge-of-barletta-magenis-2": [
+   "challengebarlet00azegoog",
+   "The Challenge of Barletta (Ettore Fieramosca), vol. II (1880)"
   ]
  },
  "titles": {
@@ -283,6 +433,145 @@
    "translated": 1916,
    "translator": "Laura Fullerton Gilbert",
    "scan_edition": "Richard G. Badger, Boston 1916; archive.org scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-1": {
+   "source": "itc-guicciardini-history-of-italy-1",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 1 (Books I-II and the Life of the Author)",
+   "translated": 1753,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-2": {
+   "source": "itc-guicciardini-history-of-italy-2",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 2 (Books III-IV)",
+   "translated": 1753,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-3": {
+   "source": "itc-guicciardini-history-of-italy-3",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 3 (Books V-VI)",
+   "translated": 1753,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-4": {
+   "source": "itc-guicciardini-history-of-italy-4",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 4 (Books VII-VIII)",
+   "translated": 1753,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-5": {
+   "source": "itc-guicciardini-history-of-italy-5",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 5 (Books IX-X)",
+   "translated": "1753-1756 (vol. V's imprint line is not legible in the OCR)",
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-6": {
+   "source": "itc-guicciardini-history-of-italy-6",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 6 (Books XI-XII)",
+   "translated": 1754,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-7": {
+   "source": "itc-guicciardini-history-of-italy-7",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 7 (Books XIII-XIV)",
+   "translated": 1754,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-8": {
+   "source": "itc-guicciardini-history-of-italy-8",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 8 (Books XV-XVI)",
+   "translated": 1755,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-9": {
+   "source": "itc-guicciardini-history-of-italy-9",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 9 (Books XVII-XVIII)",
+   "translated": 1756,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-history-of-italy-10": {
+   "source": "itc-guicciardini-history-of-italy-10",
+   "of": "Francesco Guicciardini",
+   "work": "The History of Italy, from the Year 1490 to 1532, vol. 10 (Books XIX-XX)",
+   "translated": 1756,
+   "translator": "Austin Parke Goddard",
+   "scan_edition": "John Towers, London, 1753-1756, 10 vols; University of Toronto scan"
+  },
+  "italian-classics-guicciardini-counsels-and-reflections": {
+   "source": "itc-guicciardini-counsels-and-reflections",
+   "of": "Francesco Guicciardini",
+   "work": "Counsels and Reflections",
+   "translated": 1890,
+   "translator": "Ninian Hill Thomson",
+   "scan_edition": "Kegan Paul, Trench, Trübner, London 1890; Google scan",
+   "note": "Thomson's Machiavelli Discourses are on singles-ideas."
+  },
+  "italian-classics-guicciardini-maxims": {
+   "source": "itc-guicciardini-maxims",
+   "of": "Francesco Guicciardini",
+   "work": "The Maxims of Francis Guicciardini, with parallel passages from Machiavelli, Bacon, Pascal and others",
+   "translated": 1845,
+   "translator": "Emma Martin",
+   "scan_edition": "Longman, Brown, Green, and Longmans, London 1845; archive.org scan"
+  },
+  "italian-classics-azeglio-recollections-1": {
+   "source": "itc-azeglio-recollections-1",
+   "of": "Massimo d'Azeglio",
+   "work": "Recollections of Massimo d'Azeglio (I miei ricordi), vol. I",
+   "translated": 1868,
+   "translator": "Count Maffei",
+   "scan_edition": "Chapman and Hall, London 1868; University of Toronto scan"
+  },
+  "italian-classics-azeglio-recollections-2": {
+   "source": "itc-azeglio-recollections-2",
+   "of": "Massimo d'Azeglio",
+   "work": "Recollections of Massimo d'Azeglio (I miei ricordi), vol. II",
+   "translated": 1868,
+   "translator": "Count Maffei",
+   "scan_edition": "Chapman and Hall, London 1868; University of Toronto scan"
+  },
+  "italian-classics-azeglio-challenge-of-barletta-lester": {
+   "source": "itc-azeglio-challenge-of-barletta-lester",
+   "of": "Massimo d'Azeglio",
+   "work": "Ettore Fieramosca, or the Challenge of Barletta: an Historical Romance of the Times of the Medici",
+   "translated": 1845,
+   "translator": "C. Edwards Lester",
+   "scan_edition": "Paine & Burgess, New York 1845; archive.org scan",
+   "note": "Lester's Alfieri Autobiography is also on this shelf."
+  },
+  "italian-classics-azeglio-challenge-of-barletta-magenis-1": {
+   "source": "itc-azeglio-challenge-of-barletta-magenis-1",
+   "of": "Massimo d'Azeglio",
+   "work": "The Challenge of Barletta (Ettore Fieramosca), vol. I",
+   "translated": 1880,
+   "translator": "Lady Louisa Magenis",
+   "scan_edition": "W. H. Allen & Co., London 1880; Google scan",
+   "note": "A separate translation from Lester's."
+  },
+  "italian-classics-azeglio-challenge-of-barletta-magenis-2": {
+   "source": "itc-azeglio-challenge-of-barletta-magenis-2",
+   "of": "Massimo d'Azeglio",
+   "work": "The Challenge of Barletta (Ettore Fieramosca), vol. II",
+   "translated": 1880,
+   "translator": "Lady Louisa Magenis",
+   "scan_edition": "W. H. Allen & Co., London 1880; Google scan"
   }
  },
  "_pending": {},
@@ -296,6 +585,18 @@
  "_identity_checked": {
   "itc-carducci-holland": {
    "author": "The title page OCR reads 'WITH AOi^ INT1ipDUCTI0:Si AND TRANSLATIONS ^r <:MAU'T> HOLLAN'D' for 'with introduction and translations by Maud Holland', over 'London: T. Fisher Unwin, MCMVII'. Checked by eye 2026-10-17."
+  },
+  "itc-guicciardini-history-of-italy-2": {
+   "author": "The title page OCR reads 'Tranflated into English by the Chevalier Austin P-a rke Goddard, Knight of the Military Order of St. Stephen' for Austin Parke Goddard, the name run together or split by the OCR. Checked by eye 2026-10-17."
+  },
+  "itc-guicciardini-history-of-italy-3": {
+   "author": "The title page OCR reads 'Tranflated into English by the Chevalier AustinParke Goddard, Knight of the Military Order of St. Stephen' for Austin Parke Goddard, the name run together or split by the OCR. Checked by eye 2026-10-17."
+  },
+  "itc-guicciardini-history-of-italy-5": {
+   "author": "The title page OCR reads 'Tranflated into English by the Chevalier AustinParke Goddard, Knight of the Military Order of St. Stephen' for Austin Parke Goddard, the name run together or split by the OCR. Checked by eye 2026-10-17."
+  },
+  "itc-azeglio-challenge-of-barletta-magenis-1": {
+   "author": "The title page OCR reads 'RENDERED INTO ENGLISB BT LADY LOUISA MAGENl!s. VOL. I.' for Lady Louisa Magenis, under 'London: W. H. Allen & Co., 13 Waterloo Place', as on vol. II. Checked by eye 2026-10-17."
   }
  },
  "_checks": {
@@ -462,6 +763,193 @@
    "ia_rights": "ok: published 1916",
    "ia_date": "1916",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-history-of-italy-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "parke goddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753-56",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-counsels-and-reflections": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hill thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-guicciardini-maxims": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "emma martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "itc-azeglio-recollections-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "count maffei",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-azeglio-recollections-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "count maffei",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-azeglio-challenge-of-barletta-lester": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. edwards lester",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "itc-azeglio-challenge-of-barletta-magenis-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "itc-azeglio-challenge-of-barletta-magenis-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louisa magenis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
@@ -632,6 +1120,151 @@
     1901,
     1907,
     1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-1": {
+   "ia": "historyofitalywr01guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1501,
+    1532
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-2": {
+   "ia": "historyofitalywr02guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-3": {
+   "ia": "historyofitalywr03guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-4": {
+   "ia": "historyofitalywr04guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1506
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-5": {
+   "ia": "historyofitalywr05guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-6": {
+   "ia": "historyofitalywr06guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1512
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-7": {
+   "ia": "historyofitalywr07guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-8": {
+   "ia": "historyofitalywr08guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1520,
+    1523
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-9": {
+   "ia": "historyofitalywr09guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-history-of-italy-10": {
+   "ia": "historyofitalywr10guicuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-counsels-and-reflections": {
+   "ia": "counselsandrefl00thomgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1564,
+    1574,
+    1576,
+    1738,
+    1740,
+    1857
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-guicciardini-maxims": {
+   "ia": "TheMaximsOfFrancisGuicciardini",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1804,
+    1813,
+    1818,
+    1826,
+    1834,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-azeglio-recollections-1": {
+   "ia": "recollectionsofm01azeguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1820,
+    1821,
+    1868
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-azeglio-recollections-2": {
+   "ia": "recollectionsofm02azeguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1821,
+    1824,
+    1825,
+    1826,
+    1830,
+    1868
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-azeglio-challenge-of-barletta-lester": {
+   "ia": "ettorefieramosca00azeg_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1503,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-azeglio-challenge-of-barletta-magenis-1": {
+   "ia": "challengebarlet01azegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1503,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "itc-azeglio-challenge-of-barletta-magenis-2": {
+   "ia": "challengebarlet00azegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880
    ],
    "post_1930_years_in_front_15k": []
   }

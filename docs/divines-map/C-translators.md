@@ -6790,10 +6790,10 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted t
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
 | — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |
 
-## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), and Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe
+## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, and Ettore Fieramosca by Lester and by Lady Louisa Magenis
 
 Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
-Round 92 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6812,6 +6812,23 @@ Round 92 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `italian-classics-carducci-bickersteth` | Giosuè Carducci | Carducci: a Selection of his Poems, with Verse Translations, Notes and Three Introductory Essays | G. L. Bickersteth | 1913 | have-raw | IA `selectionofhispo00carduoft` |
 | `italian-classics-carducci-tribe` | Giosuè Carducci | A Selection from the Poems of Giosuè Carducci | Emily A. Tribe | 1921 | have-raw | IA `aselectionfromp00tribgoog` |
 | `italian-classics-carducci-rime-nuove` | Giosuè Carducci | The Rime Nuove of Giosuè Carducci | Laura Fullerton Gilbert | 1916 | have-raw | IA `rimenuoveofgiosu00card` |
+| `italian-classics-guicciardini-history-of-italy-1` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 1 (Books I-II and the Life of the Author) | Austin Parke Goddard | 1753 | have-raw | IA `historyofitalywr01guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-2` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 2 (Books III-IV) | Austin Parke Goddard | 1753 | have-raw | IA `historyofitalywr02guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-3` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 3 (Books V-VI) | Austin Parke Goddard | 1753 | have-raw | IA `historyofitalywr03guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-4` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 4 (Books VII-VIII) | Austin Parke Goddard | 1753 | have-raw | IA `historyofitalywr04guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-5` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 5 (Books IX-X) | Austin Parke Goddard | 1753-1756 (vol. V's imprint line is not legible in the OCR) | have-raw | IA `historyofitalywr05guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-6` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 6 (Books XI-XII) | Austin Parke Goddard | 1754 | have-raw | IA `historyofitalywr06guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-7` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 7 (Books XIII-XIV) | Austin Parke Goddard | 1754 | have-raw | IA `historyofitalywr07guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-8` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 8 (Books XV-XVI) | Austin Parke Goddard | 1755 | have-raw | IA `historyofitalywr08guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-9` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 9 (Books XVII-XVIII) | Austin Parke Goddard | 1756 | have-raw | IA `historyofitalywr09guicuoft` |
+| `italian-classics-guicciardini-history-of-italy-10` | Francesco Guicciardini | The History of Italy, from the Year 1490 to 1532, vol. 10 (Books XIX-XX) | Austin Parke Goddard | 1756 | have-raw | IA `historyofitalywr10guicuoft` |
+| `italian-classics-guicciardini-counsels-and-reflections` | Francesco Guicciardini | Counsels and Reflections | Ninian Hill Thomson | 1890 | have-raw | IA `counselsandrefl00thomgoog` |
+| `italian-classics-guicciardini-maxims` | Francesco Guicciardini | The Maxims of Francis Guicciardini, with parallel passages from Machiavelli, Bacon, Pascal and others | Emma Martin | 1845 | have-raw | IA `TheMaximsOfFrancisGuicciardini` |
+| `italian-classics-azeglio-recollections-1` | Massimo d'Azeglio | Recollections of Massimo d'Azeglio (I miei ricordi), vol. I | Count Maffei | 1868 | have-raw | IA `recollectionsofm01azeguoft` |
+| `italian-classics-azeglio-recollections-2` | Massimo d'Azeglio | Recollections of Massimo d'Azeglio (I miei ricordi), vol. II | Count Maffei | 1868 | have-raw | IA `recollectionsofm02azeguoft` |
+| `italian-classics-azeglio-challenge-of-barletta-lester` | Massimo d'Azeglio | Ettore Fieramosca, or the Challenge of Barletta: an Historical Romance of the Times of the Medici | C. Edwards Lester | 1845 | have-raw | IA `ettorefieramosca00azeg_0` |
+| `italian-classics-azeglio-challenge-of-barletta-magenis-1` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. I | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet01azegoog` |
+| `italian-classics-azeglio-challenge-of-barletta-magenis-2` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. II | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet00azegoog` |
 | — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
 | — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
