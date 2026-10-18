@@ -6369,6 +6369,8 @@ Shelf: `pipeline/lester-frank-ward_shelf.json`. Lester Frank Ward (1841-1913). P
 | The Psychic Factors of Civilization (Ginn, 1893) |  | `ward-psychic-factors-civilization-1893` | have-raw (IA `psychicfactorsc04wardgoog`) |
 | Pure Sociology (Macmillan, 1903; second edition 1919) |  | `ward-pure-sociology-1903` | have-raw (IA `puresociologytre00ward`) |
 | Applied Sociology (Ginn, 1906) |  | `ward-applied-sociology-1906` | have-raw (IA `appliedsociology00ward`) |
+| Dynamic Sociology, vol. I (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v1` | have-raw (IA `cu31924032492963`) |
+| Dynamic Sociology, vol. II (Appleton, 1883) |  | `ward-dynamic-sociology-1883-v2` | have-raw (IA `dynamicsociology02warduoft`) |
 
 ## Franklin Henry Giddings (sociology)
 

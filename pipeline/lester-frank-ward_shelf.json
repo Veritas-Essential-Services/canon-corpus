@@ -1,5 +1,5 @@
 {
- "_about": "Lester Frank Ward (1841-1913), founder of American sociology. Raw IA OCR: The Psychic Factors of Civilization (Boston: Ginn, 1893), clean 0.92; Pure Sociology (New York: Macmillan, first published 1903; this copy the second edition, 1919), clean 0.92; Applied Sociology (Boston: Ginn, copyright 1906), clean 0.89. Wanted: Dynamic Sociology (1883, 2 vols.), not found in a complete, dated copy. US public domain. No uids minted.",
+ "_about": "Lester Frank Ward (1841-1913), founder of American sociology. Raw IA OCR: The Psychic Factors of Civilization (Boston: Ginn, 1893), clean 0.92; Pure Sociology (New York: Macmillan, first published 1903; this copy the second edition, 1919), clean 0.92; Applied Sociology (Boston: Ginn, copyright 1906), clean 0.89. US public domain. Added in round 2026-10-17bs: Dynamic Sociology, or Applied Social Science (New York: Appleton, 1883), 2 vols., first edition, clean 0.94 and 0.91. Not taken: later printings of vol. II (1926 Appleton; 1968 Greenwood). No uids minted.",
  "_author": "Lester Frank Ward",
  "_name_words": [
   "lester",
@@ -25,6 +25,14 @@
   "ward-applied-sociology-1906": [
    "appliedsociology00ward",
    "Applied Sociology (Ginn, 1906)"
+  ],
+  "ward-dynamic-sociology-1883-v1": [
+   "cu31924032492963",
+   "Dynamic Sociology, vol. I (Appleton, 1883)"
+  ],
+  "ward-dynamic-sociology-1883-v2": [
+   "dynamicsociology02warduoft",
+   "Dynamic Sociology, vol. II (Appleton, 1883)"
   ]
  },
  "_excluded": {},
@@ -61,6 +69,33 @@
    "ia_date": "1906",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "ward-dynamic-sociology-1883-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester f. ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ward-dynamic-sociology-1883-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "ward-dynamic-sociology-1883-v2": {
+   "author": "Lester F. Ward (title page OCR reads 'LESTER F; ward'; Appleton 1883 imprint present)"
   }
  }
 }
