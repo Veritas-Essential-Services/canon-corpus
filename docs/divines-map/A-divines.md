@@ -7387,3 +7387,24 @@ Slugs `jrickaby-*`. Built from title pages read for round 32.
 | The 1889 second edition of Moral Philosophy and PG 8103 (a later edition, source not stated); the Second Series of Conferences (1902) | alternate | not shelved |
 | First Principles of Knowledge and General Metaphysics: by his brother John Rickaby | excluded | |
 | Plays and ballads by other Rickabys | excluded | |
+
+## Washington Gladden (round 32, my pick, 2026-10-18)
+
+Slugs `gladden-*`. Built from title pages read for round 32.
+
+| Work | Status | Where |
+|---|---|---|
+| Working People and their Employers (Boston: Lockwood, Brooks, 1876) | have-ocr | IA `cu31924013854520` |
+| Applied Christianity: Moral Aspects of Social Questions (Boston and New York: Houghton, Mifflin, 1887) | have-ocr | IA `appliedchristia00gladgoog` |
+| Who Wrote the Bible? A Book for the People (Boston and New York: Houghton, Mifflin, 1891) | have-ocr | IA `whowrotebibleboo00glad` |
+| Ruling Ideas of the Present Age (Boston and New York: Houghton, Mifflin, 1895) | have-ocr | IA `rulingideasofpre01glad` |
+| Seven Puzzling Bible Books (Boston and New York: Houghton, Mifflin, 1897) | have-ocr | IA `sevenpuzzlingbib00glad` |
+| The Christian Pastor and the Working Church (New York: Charles Scribner's Sons, 1898) | have-ocr | IA `christianpastorwcp00glad` |
+| How Much Is Left of the Old Doctrines? (Boston and New York: Houghton, Mifflin, 1899) | have-ocr | IA `howmuchisleftofo00glad` |
+| Social Salvation (Boston and New York: Houghton, Mifflin, 1902) | have-ocr | IA `socialsalvation00glad` |
+| The Church and Modern Life (Boston and New York: Houghton, Mifflin, 1908) | have-ocr | IA `churchmodernlife00glad` |
+| Recollections (Boston and New York: Houghton Mifflin, 1909) | have-ocr | IA `recollections00glad` |
+| Present Day Theology (Columbus, Ohio: McClelland; title page undated, copyright 1913) | have-ocr | IA `presentdaytheolo00glad` |
+| PG 6928 (Who Wrote the Bible?) and PG 12290 (The Church and Modern Life), which state no source imprint | alternate | not shelved |
+| Tools and the Man (1893), Witnesses of the Light (1903), The Lord's Prayer (1892) and other copies | alternate | not shelved |
+| Later printings of Applied Christianity; multi-author volumes | excluded | |
