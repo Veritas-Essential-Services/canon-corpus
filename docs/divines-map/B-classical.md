@@ -5858,6 +5858,7 @@ Shelf: `pipeline/james-beattie_shelf.json`. The 1776 Essays. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Essays on Truth, Poetry and Music, Laughter, and Classical Learning (Edinburgh: Creech, 1776) |  | `beattie-essays-truth-1776` | have-raw (IA `essaysontruth00beatuoft`) |
 
 Pending (wishlist): The Elements of Moral Science (1790-93)
 

@@ -1,0 +1,33 @@
+{
+ "_about": "James Beattie (1735-1803), Aberdeen philosopher of common sense: Essays on the Nature and Immutability of Truth in opposition to sophistry and scepticism; on Poetry and Music; on Laughter and Ludicrous Composition; on the Utility of Classical Learning (Edinburgh: William Creech, MDCCLXXVI), raw IA OCR, clean 0.92. Wanted: The Elements of Moral Science (1790-93). His poems are not taken here. Not Francis Beattie. US public domain. No uids minted.",
+ "_author": "James Beattie",
+ "_name_words": [
+  "james",
+  "beattie"
+ ],
+ "_surname": [
+  "beattie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beattie-essays-truth-1776": [
+   "essaysontruth00beatuoft",
+   "Essays on Truth, Poetry and Music, Laughter, and Classical Learning (Edinburgh: Creech, 1776)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "beattie-essays-truth-1776": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "beattie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1776",
+   "ia_date": "1776",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
