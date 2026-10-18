@@ -5686,6 +5686,9 @@ Shelf: `pipeline/eugen-bohm-bawerk_shelf.json`. Smart's two translations and Mac
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Capital and Interest, tr. William Smart (Macmillan, 1890) | Smart | `bohm-bawerk-smart-capital-interest-1890` | have-raw (IA `capitalinterestc00bhuoft`) |
+| The Positive Theory of Capital, tr. William Smart (1891; Stechert reprint, 1928) |  | `bohm-bawerk-smart-positive-theory-1928` | have-raw (IA `positivetheoryof00bhuoft`) |
+| Karl Marx and the Close of his System, tr. Alice M. Macdonald (Fisher Unwin, 1898) | Macdonald | `bohm-bawerk-macdonald-karl-marx-1898` | have-raw (IA `karlmarxandclos00macdgoog`) |
 
 ## Alfred Marshall (political economy)
 
