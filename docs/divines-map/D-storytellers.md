@@ -10150,6 +10150,49 @@ Shelf: `pipeline/joseph-c-lincoln_shelf.json` (2026-10-17; added at the coordina
 | Partners of the tide | have | PG 78581, `jclincoln-partners-of-the-tide` (2587 units) |
 | pg-29467 | excluded | PG 29467: Gutenberg's index of Lincoln's works, not a book. |
 
+## B. M. Bower
+
+Shelf: `pipeline/bm-bower_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Western novels. Every English text under the name at Gutenberg that no other shelf holds (36 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jean of the Lazy A | have | PG 538, `bmbower-jean-of-the-lazy-a` (1029 units) |
+| Good Indian | have | PG 938, `bmbower-good-indian` (1543 units) |
+| The Lure of the Dim Trails | have | PG 1014, `bmbower-lure-of-the-dim-trails` (504 units) |
+| Cabin Fever | have | PG 1204, `bmbower-cabin-fever` (873 units) |
+| The Flying U Ranch | have | PG 1206, `bmbower-flying-u-ranch` (753 units) |
+| The Heritage of the Sioux | have | PG 1299, `bmbower-heritage-of-the-sioux` (851 units) |
+| The Trail of the White Mule | have | PG 2063, `bmbower-trail-of-the-white-mule` (933 units) |
+| Lonesome Land | have | PG 8537, `bmbower-lonesome-land` (1319 units) |
+| Chip, of the Flying U | have | PG 9267, `bmbower-chip-of-the-flying-u` (1141 units) |
+| The Gringos A Story Of The Old California Days In 1849 | have | PG 12139, `bmbower-gringos-a-story-of-the-old-california-days-in-1849` (1304 units) |
+| The Long Shadow | have | PG 12192, `bmbower-long-shadow` (889 units) |
+| Casey Ryan | have | PG 12495, `bmbower-casey-ryan` (874 units) |
+| Starr, of the Desert | have | PG 12570, `bmbower-starr-of-the-desert` (974 units) |
+| The Phantom Herd | have | PG 12663, `bmbower-phantom-herd` (919 units) |
+| The Happy Family | have | PG 13670, `bmbower-happy-family` (1204 units) |
+| The Range Dwellers | have | PG 14334, `bmbower-range-dwellers` (740 units) |
+| The Uphill Climb | have | PG 14456, `bmbower-uphill-climb` (992 units) |
+| The Thunder Bird | have | PG 14486, `bmbower-thunder-bird` (1129 units) |
+| The Lonesome Trail and Other Stories | have | PG 14542, `bmbower-lonesome-trail-and-other-stories` (1160 units) |
+| The Lookout Man | have | PG 15625, `bmbower-lookout-man` (1068 units) |
+| Skyrider | have | PG 16871, `bmbower-skyrider` (1304 units) |
+| The Quirt | have | PG 19166, `bmbower-quirt` (1075 units) |
+| The Ranch at the Wolverine | have | PG 28356, `bmbower-ranch-at-the-wolverine` (1637 units) |
+| Sawtooth Ranch | have | PG 28482, `bmbower-sawtooth-ranch` (1009 units) |
+| Rim o' the World | have | PG 29580, `bmbower-rim-o-the-world` (1667 units) |
+| The Parowan Bonanza | have | PG 59179, `bmbower-parowan-bonanza` (1270 units) |
+| Meadowlark Basin | have | PG 66651, `bmbower-meadowlark-basin` (1347 units) |
+| The Ghost in the Red Shirt | have | PG 67319, `bmbower-ghost-in-the-red-shirt` (100 units) |
+| Where Stillwater Runs Deep | have | PG 67475, `bmbower-where-stillwater-runs-deep` (262 units) |
+| Object, Matrimony | have | PG 67516, `bmbower-object-matrimony` (69 units) |
+| You Ask Anybody | have | PG 67747, `bmbower-you-ask-anybody` (132 units) |
+| The Ghost of One Man Coulee | have | PG 67822, `bmbower-ghost-of-one-man-coulee` (167 units) |
+| The Adam Chaser | have | PG 67834, `bmbower-adam-chaser` (510 units) |
+| Godsend to a Lady | have | PG 67855, `bmbower-godsend-to-a-lady` (149 units) |
+| The voice at Johnnywater | have | PG 68488, `bmbower-voice-at-johnnywater` (1098 units) |
+| The eagle's wing: A story of the Colorado | have | PG 68692, `bmbower-eagles-wing` (1256 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

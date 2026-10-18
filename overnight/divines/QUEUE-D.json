@@ -3197,6 +3197,14 @@
       "started": "2026-10-17T21:06:52-05:00",
       "finished": "2026-10-17T21:06:53-05:00",
       "notes": "joseph-c-lincoln: new shelf, 20 Gutenberg books, 54,914 units, 474 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bm-bower",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — B. M. Bower; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:06:53-05:00",
+      "finished": "2026-10-17T21:06:54-05:00",
+      "notes": "bm-bower: new shelf, 36 Gutenberg books, 33,251 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
