@@ -5577,6 +5577,117 @@ Shelf: `pipeline/william-petty_shelf.json`. Hull's two-volume Economic Writings 
 
 Pending (wishlist): The Petty Papers (ed. Lansdowne, 1927)
 
+## Henry George (political economy)
+
+Shelf: `pipeline/henry-george_shelf.json`. Progress and Poverty from Gutenberg plus the 1904 Complete Works whole (vol. I overlaps). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Progress and Poverty, Memorial Edition (Doubleday, 1898) |  | `george-progress-and-poverty-1898` | have (PG 55308) |
+| The Complete Works, vol. 1: Progress and Poverty (Doubleday, Page, 1904) |  | `george-complete-works-v01` | have-raw (IA `completeworksofh01georiala`) |
+| The Complete Works, vol. 2: Social Problems (Doubleday, Page, 1904) |  | `george-complete-works-v02` | have-raw (IA `completeworksofh02georiala`) |
+| The Complete Works, vol. 3: The Land Question and the pieces bound with it (Doubleday, Page, 1904) |  | `george-complete-works-v03` | have-raw (IA `completeworksofh03georiala`) |
+| The Complete Works, vol. 4: Protection or Free Trade (Doubleday, Page, 1904) |  | `george-complete-works-v04` | have-raw (IA `completeworksofh04georiala`) |
+| The Complete Works, vol. 5: A Perplexed Philosopher (Doubleday, Page, 1904) |  | `george-complete-works-v05` | have-raw (IA `completeworksofh05georiala`) |
+| The Complete Works, vol. 6: The Science of Political Economy, Books I-II (Doubleday, Page, 1904) |  | `george-complete-works-v06` | have-raw (IA `completeworksofh06georiala`) |
+| The Complete Works, vol. 7: The Science of Political Economy, Books III-V (Doubleday, Page, 1904) |  | `george-complete-works-v07` | have-raw (IA `completeworksofh07georiala`) |
+| The Complete Works, vol. 8: Our Land and Land Policy (Doubleday, Page, 1904) |  | `george-complete-works-v08` | have-raw (IA `completeworksofh08georiala`) |
+| The Complete Works, vol. 9: The Life of Henry George by Henry George Jr., first and second periods (Doubleday, Page, 1904) |  | `george-complete-works-v09` | have-raw (IA `completeworksofh09georiala`) |
+| The Complete Works, vol. 10: The Life of Henry George by Henry George Jr., third period (Doubleday, Page, 1904) |  | `george-complete-works-v10` | have-raw (IA `completeworksofh10georiala`) |
+
+## Nassau William Senior (political economy)
+
+Shelf: `pipeline/nassau-senior_shelf.json`. Two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): An Outline of the Science of Political Economy (1836) in a pre-1931 printing
+
+## J. A. Hobson (political economy)
+
+Shelf: `pipeline/j-a-hobson_shelf.json`. Three Gutenberg texts, 1902-1920. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Imperialism: A Study (1902); The Physiology of Industry (with Mummery, 1889)
+
+## John Bates Clark (political economy)
+
+Shelf: `pipeline/john-bates-clark_shelf.json`. The Distribution of Wealth (1899) and two Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): The Philosophy of Wealth (1886)
+
+## Thorstein Veblen (political economy)
+
+Shelf: `pipeline/thorstein-veblen_shelf.json`. Three Gutenberg texts; the Leisure Class stays on the Adler shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): The Theory of Business Enterprise (1904); The Higher Learning in America (1918)
+
+## Richard T. Ely (political economy)
+
+Shelf: `pipeline/richard-t-ely_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## William Thomas Thornton (political economy)
+
+Shelf: `pipeline/william-thomas-thornton_shelf.json`. One Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): On Labour (1869)
+
+## William Graham Sumner (sociology and political economy)
+
+Shelf: `pipeline/william-graham-sumner_shelf.json`. Two Gutenberg texts; What Social Classes Owe to Each Other held (1951 reprint only). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): What Social Classes Owe to Each Other (1883) in a pre-1931 printing
+
+## Frederic Bastiat (anonymous translations)
+
+Shelf: `pipeline/frederic-bastiat_shelf.json`. Two Gutenberg texts whose translators are unnamed; Stirling's versions are lane C's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Eugen von Bohm-Bawerk (political economy)
+
+Shelf: `pipeline/eugen-bohm-bawerk_shelf.json`. Smart's two translations and Macdonald's Karl Marx. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Alfred Marshall (political economy)
+
+Shelf: `pipeline/alfred-marshall_shelf.json`. Principles, eighth edition (1920). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Industry and Trade (1919); Money, Credit and Commerce (1923)
+
+## J. E. Cairnes (political economy)
+
+Shelf: `pipeline/john-elliott-cairnes_shelf.json`. Three works, 1863-1873. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): The Character and Logical Method of Political Economy; Some Leading Principles of Political Economy (1874)
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

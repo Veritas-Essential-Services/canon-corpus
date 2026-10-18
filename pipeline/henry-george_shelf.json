@@ -1,0 +1,182 @@
+{
+ "_about": "Henry George (1839-1897), American economist of the single tax: Progress and Poverty, clean Gutenberg text (PG 55308) from the Memorial Edition of his Writings (New York: Doubleday, 1898); and The Complete Works of Henry George, 10 vols. (New York: Doubleday, Page, 1904), taken whole, raw IA OCR, clean 0.88-0.95. Vol. I of the Complete Works is Progress and Poverty again: the overlap is kept because the Gutenberg text is proofread. Vols. IX-X are the Life by his son Henry George Jr. (1862-1916). Vol. III's title page reads The Land Question; the shorter pieces bound with it are not itemised here. US public domain. No uids minted.",
+ "_author": "Henry George",
+ "_name_words": [
+  "henry",
+  "george"
+ ],
+ "_surname": [
+  "george"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "george-progress-and-poverty-1898": [
+   55308,
+   "Progress and Poverty, Memorial Edition (Doubleday, 1898)"
+  ]
+ },
+ "internet_archive": {
+  "george-complete-works-v01": [
+   "completeworksofh01georiala",
+   "The Complete Works, vol. 1: Progress and Poverty (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v02": [
+   "completeworksofh02georiala",
+   "The Complete Works, vol. 2: Social Problems (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v03": [
+   "completeworksofh03georiala",
+   "The Complete Works, vol. 3: The Land Question and the pieces bound with it (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v04": [
+   "completeworksofh04georiala",
+   "The Complete Works, vol. 4: Protection or Free Trade (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v05": [
+   "completeworksofh05georiala",
+   "The Complete Works, vol. 5: A Perplexed Philosopher (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v06": [
+   "completeworksofh06georiala",
+   "The Complete Works, vol. 6: The Science of Political Economy, Books I-II (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v07": [
+   "completeworksofh07georiala",
+   "The Complete Works, vol. 7: The Science of Political Economy, Books III-V (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v08": [
+   "completeworksofh08georiala",
+   "The Complete Works, vol. 8: Our Land and Land Policy (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v09": [
+   "completeworksofh09georiala",
+   "The Complete Works, vol. 9: The Life of Henry George by Henry George Jr., first and second periods (Doubleday, Page, 1904)"
+  ],
+  "george-complete-works-v10": [
+   "completeworksofh10georiala",
+   "The Complete Works, vol. 10: The Life of Henry George by Henry George Jr., third period (Doubleday, Page, 1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "george-progress-and-poverty-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "george-complete-works-v01": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v02": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v03": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v04": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v05": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v06": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v07": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v08": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v09": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-complete-works-v10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
