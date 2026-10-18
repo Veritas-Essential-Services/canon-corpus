@@ -1,0 +1,34 @@
+{
+ "_about": "L. Susan Stebbing (1885-1943), English analytic philosopher, first woman to hold a philosophy chair in Britain. Raw IA OCR: Pragmatism and French Voluntarism (Cambridge, Girton College Studies, 1914). Held: A Modern Introduction to Logic; the only scan is a Crowell, New York, printing with no year on its title page, and a printing after 1930 cannot be ruled out. US public domain. No uids minted.",
+ "_author": "L. Susan Stebbing",
+ "_name_words": [
+  "lizzie",
+  "susan",
+  "stebbing"
+ ],
+ "_surname": [
+  "stebbing"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stebbing-pragmatism-and-french-voluntarism-1914": [
+   "pragmatismfrench00stebrich",
+   "Pragmatism and French Voluntarism (Cambridge, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stebbing-pragmatism-and-french-voluntarism-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stebbing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

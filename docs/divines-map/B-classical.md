@@ -7786,6 +7786,7 @@ Shelf: `pipeline/susan-stebbing_shelf.json`. One book, 1914.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Pragmatism and French Voluntarism (Cambridge, 1914) |  | `stebbing-pragmatism-and-french-voluntarism-1914` | have-raw (IA `pragmatismfrench00stebrich`) |
 
 Pending (wishlist): A Modern Introduction to Logic (1930; only an undated Crowell printing found).
 
