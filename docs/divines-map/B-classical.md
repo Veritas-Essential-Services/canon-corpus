@@ -5571,6 +5571,9 @@ Shelf: `pipeline/william-petty_shelf.json`. Hull's two-volume Economic Writings 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Treatise of Taxes and Contributions (London: N. Brooke, 1662) |  | `petty-treatise-of-taxes-1662` | have (PG 61588) |
+| The Economic Writings, ed. C. H. Hull, vol. I (Cambridge, 1899) |  | `petty-economic-writings-hull-v1` | have-raw (IA `economicwritings01pettuoft`) |
+| The Economic Writings, ed. C. H. Hull, vol. II (Cambridge, 1899) |  | `petty-economic-writings-hull-v2` | have-raw (IA `economicwriting02pettgoog`) |
 
 Pending (wishlist): The Petty Papers (ed. Lansdowne, 1927)
 
