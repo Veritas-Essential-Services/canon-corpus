@@ -6678,6 +6678,7 @@ Shelf: `pipeline/william-pepperell-montague_shelf.json`. One book; Belief Unboun
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Ways of Knowing (Allen & Unwin, 1925; 1928 impression) |  | `montague-ways-of-knowing-1925` | have-raw (IA `waysofknowingorm0000mont_x0p9`) |
 
 ## E. G. Spaulding (new realism)
 
