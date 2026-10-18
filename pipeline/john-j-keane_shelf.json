@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain John J. Keane (1839-1918), first rector of the Catholic University of America and later Archbishop of Dubuque, for the Word Hoard: his lecture Christian Education in America (1892) and Onward and Upward, a year book drawn from his discourses by Maurice Francis Egan (copyright 1902), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "keane"
+ ],
+ "_surname": [
+  "john j. keane",
+  "keane"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jjkeane-christian-education": [
+   "christianeducati00keanrich",
+   "Christian Education in America: A Lecture (Washington: Church News Publishing Company, 1892)"
+  ],
+  "jjkeane-onward-upward": [
+   "MN5185ucmf_2",
+   "Onward and Upward: A Year Book compiled from the Discourses of Archbishop Keane, by Maurice Francis Egan (Baltimore and New York: John Murphy; title page undated, copyright 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jjkeane-other": "Mullany's essays (his preface only); books by John Fryer Keane, a different man"
+ },
+ "_rights_checked": {
+  "jjkeane-onward-upward": "title page read: Keane's own words, selected by Maurice Francis Egan as compiler"
+ },
+ "_pending": {
+  "jjkeane-articles": "Two journal articles (1885, 1891) known only from catalogue metadata"
+ },
+ "_translators": {},
+ "_checks": {
+  "jjkeane-christian-education": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john j. keane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jjkeane-onward-upward": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Keane's own words, selected by Maurice Francis Egan as compiler"
+  }
+ }
+}

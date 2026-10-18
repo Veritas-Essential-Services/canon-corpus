@@ -1729,3 +1729,6 @@
 
 ## 2026-10-17 22:27 CDT — john-ireland done
 - `pipeline/john-ireland_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:27 CDT — john-j-keane done
+- `pipeline/john-j-keane_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

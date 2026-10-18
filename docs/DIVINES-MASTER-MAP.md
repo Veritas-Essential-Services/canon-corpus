@@ -8321,6 +8321,16 @@ Slugs `-*`. Built from title pages read for round 35.
 | The Church and Modern Society: Lectures and Addresses, vol. II (St. Paul: Pioneer Press, 1905) | have-ocr | IA `churchmodernsoci02irel` |
 | Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated) | have-ocr | IA `patriotismitsdut00irel` |
 | Other 1896 and 1903 McBride issues; a 1904 Pioneer Press vol. II (catalogued 1903 in error); his Memoir of Rev. Lucian Galtier and the Shields address (offprints, no imprint) | alternate | not shelved |
+
+## John J. Keane (round 15, my pick, 2026-10-18)
+
+Slugs `-*`. Built from title pages read for round 35.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Education in America: A Lecture (Washington: Church News Publishing Company, 1892) | have-ocr | IA `christianeducati00keanrich` |
+| Onward and Upward: A Year Book compiled from the Discourses of Archbishop Keane, by Maurice Francis Egan (Baltimore and New York: John Murphy; title page undated, copyright 1902) | have-ocr | IA `MN5185ucmf_2` |
+| Mullany's essays (his preface only); books by John Fryer Keane, a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -803,6 +803,7 @@ Twenty-three authors queued in QUEUE-A.json, each built from title pages read fo
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | John Ireland | john-ireland_shelf.json | none | 4 (The Church and Modern Society: Lectures and Addresses (Chicago and New York: D. H. McBride; title page undated, copyright 1896); The Church and Modern Society: Lectures and Addresses, vol. I (St. Paul: Pioneer Press, 1905); The Church and Modern Society: Lectures and Addresses, vol. II (St. Paul: Pioneer Press, 1905); Patriotism: Its Duty and Value, an address before the New York Commandery of the Loyal Legion, April 4, 1894 (New York: Catholic Book Exchange; title page undated)) | none |  |
+| John J. Keane | john-j-keane_shelf.json | none | 2 (Christian Education in America: A Lecture (Washington: Church News Publishing Company, 1892); Onward and Upward: A Year Book compiled from the Discourses of Archbishop Keane, by Maurice Francis Egan (Baltimore and New York: John Murphy; title page undated, copyright 1902)) | 1 (Two journal articles (1885, 1891) known only from catalogue metadata) | Mullany's essays (his preface only); books by John Fryer Keane, a different man |
 
 ## Paused 2026-10-10 15:12 CDT
 
