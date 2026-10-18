@@ -1,0 +1,494 @@
+{
+ "_about": "Sir Walter Besant's novels and his histories of London: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Walter Besant",
+ "_name_words": [
+  "besant"
+ ],
+ "_surname": [
+  "walter besant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wbesant-as-we-are-and-as-we-may-be": [
+   14191,
+   "As We Are and As We May Be",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-in-luck-at-last": [
+   16129,
+   "In Luck at Last"
+  ],
+  "wbesant-holborn-and-bloomsbury": [
+   21411,
+   "Holborn and Bloomsbury (with G. E. Mitton)"
+  ],
+  "wbesant-westminster": [
+   21648,
+   "Westminster (with G. E. Mitton and Mrs. A. Murray Smith)"
+  ],
+  "wbesant-strand-district": [
+   25508,
+   "The Strand District (with G. E. Mitton)"
+  ],
+  "wbesant-history-of-london": [
+   27995,
+   "The History of London"
+  ],
+  "wbesant-ivory-gate-a-new-edition": [
+   34738,
+   "The Ivory Gate, a new edition",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-eulogy-of-richard-jefferies": [
+   36228,
+   "The Eulogy of Richard Jefferies"
+  ],
+  "wbesant-orange-girl": [
+   41545,
+   "The Orange Girl"
+  ],
+  "wbesant-armorel-of-lyonesse": [
+   42125,
+   "Armorel of Lyonesse: A Romance of To-day",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-lady-of-lynn": [
+   42618,
+   "The Lady of Lynn",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-golden-butterfly": [
+   43442,
+   "The Golden Butterfly (with James Rice)"
+  ],
+  "wbesant-south-london": [
+   44683,
+   "South London",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-for-faith-and-freedom": [
+   44963,
+   "For Faith and Freedom"
+  ],
+  "wbesant-chaplain-of-the-fleet": [
+   45734,
+   "The Chaplain of the Fleet (with James Rice)"
+  ],
+  "wbesant-london": [
+   45752,
+   "London"
+  ],
+  "wbesant-all-sorts-and-conditions-of-men": [
+   47098,
+   "All Sorts and Conditions of Men: An Impossible Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-revolt-of-man": [
+   48690,
+   "The Revolt of Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-changeling": [
+   49035,
+   "The Changeling",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-fourth-generation": [
+   50177,
+   "The Fourth Generation",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-inner-house": [
+   52169,
+   "The inner house"
+  ],
+  "wbesant-early-london": [
+   56865,
+   "Early London: Prehistoric, Roman, Saxon and Norman",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-medi-val-london-volume-1": [
+   57803,
+   "Mediæval London, Volume 1: Historical & Social"
+  ],
+  "wbesant-medi-val-london-volume-2": [
+   58614,
+   "Mediæval London, Volume 2: Ecclesiastical"
+  ],
+  "wbesant-queens-reign-and-its-commemoration-a-literary-and-pi": [
+   58786,
+   "The Queen's Reign and Its Commemoration A literary and pictorial review of the period; the story of the Victorian transformation",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "wbesant-london-city": [
+   58834,
+   "London City"
+  ],
+  "wbesant-east-london": [
+   58869,
+   "East London"
+  ],
+  "wbesant-fifty-years-ago": [
+   59020,
+   "Fifty Years Ago",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-london-in-the-time-of-the-stuarts": [
+   59782,
+   "London in the Time of the Stuarts"
+  ],
+  "wbesant-jerusalem-the-city-of-herod-and-saladin": [
+   60319,
+   "Jerusalem, the City of Herod and Saladin (with E. H. Palmer)"
+  ],
+  "wbesant-london-in-the-time-of-the-tudors": [
+   62134,
+   "London in the Time of the Tudors"
+  ],
+  "wbesant-master-craftsman": [
+   76367,
+   "The Master Craftsman",
+   {
+    "contents_only": true
+   }
+  ],
+  "wbesant-art-of-fiction": [
+   76460,
+   "The art of fiction"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 58672: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "wbesant-as-we-are-and-as-we-may-be": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-in-luck-at-last": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-holborn-and-bloomsbury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-westminster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-strand-district": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-history-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-ivory-gate-a-new-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-eulogy-of-richard-jefferies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-orange-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-armorel-of-lyonesse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-lady-of-lynn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-golden-butterfly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-south-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-for-faith-and-freedom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-chaplain-of-the-fleet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-all-sorts-and-conditions-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-revolt-of-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-changeling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-fourth-generation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-inner-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-early-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-medi-val-london-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-medi-val-london-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-queens-reign-and-its-commemoration-a-literary-and-pi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-london-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-east-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-fifty-years-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-london-in-the-time-of-the-stuarts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-jerusalem-the-city-of-herod-and-saladin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-london-in-the-time-of-the-tudors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-master-craftsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbesant-art-of-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter besant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

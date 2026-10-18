@@ -3317,6 +3317,14 @@
       "started": "2026-10-17T21:25:24-05:00",
       "finished": "2026-10-17T21:25:25-05:00",
       "notes": "oliver-wendell-holmes: new shelf, 17 Gutenberg books, 29,577 units, 1675 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "walter-besant",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Walter Besant; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:41:31-05:00",
+      "finished": "2026-10-17T21:41:31-05:00",
+      "notes": "walter-besant: new shelf, 33 Gutenberg books, 68,471 units, 769 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

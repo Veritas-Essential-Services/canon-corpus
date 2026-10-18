@@ -10848,6 +10848,47 @@ Shelf: `pipeline/oliver-wendell-holmes_shelf.json` (2026-10-17; added at the coo
 | split-parts | excluded | Gutenberg's split-part files PG 4725, 4726, 4727, 7388, 7389, 7390, 7391, 7392, 7393, 7394, 7395, 7396, 7397, 7398, 7399: the complete edition of each is on the shelf instead. |
 | pg-3493 | excluded | PG 3493, 7545: David Widger's quotation and image selections. |
 
+## Walter Besant
+
+Shelf: `pipeline/walter-besant_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (33 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| As We Are and As We May Be | have | PG 14191, `wbesant-as-we-are-and-as-we-may-be` (482 units) |
+| In Luck at Last | have | PG 16129, `wbesant-in-luck-at-last` (1529 units) |
+| Holborn and Bloomsbury (with G. E. Mitton) | have | PG 21411, `wbesant-holborn-and-bloomsbury` (534 units) |
+| Westminster (with G. E. Mitton and Mrs. A. Murray Smith) | have | PG 21648, `wbesant-westminster` (444 units) |
+| The Strand District (with G. E. Mitton) | have | PG 25508, `wbesant-strand-district` (685 units) |
+| The History of London | have | PG 27995, `wbesant-history-of-london` (1225 units) |
+| The Ivory Gate, a new edition | have | PG 34738, `wbesant-ivory-gate-a-new-edition` (5037 units) |
+| The Eulogy of Richard Jefferies | have | PG 36228, `wbesant-eulogy-of-richard-jefferies` (1196 units) |
+| The Orange Girl | have | PG 41545, `wbesant-orange-girl` (2640 units) |
+| Armorel of Lyonesse: A Romance of To-day | have | PG 42125, `wbesant-armorel-of-lyonesse` (3017 units) |
+| The Lady of Lynn | have | PG 42618, `wbesant-lady-of-lynn` (2636 units) |
+| The Golden Butterfly (with James Rice) | have | PG 43442, `wbesant-golden-butterfly` (4218 units) |
+| South London | have | PG 44683, `wbesant-south-london` (1218 units) |
+| For Faith and Freedom | have | PG 44963, `wbesant-for-faith-and-freedom` (2261 units) |
+| The Chaplain of the Fleet (with James Rice) | have | PG 45734, `wbesant-chaplain-of-the-fleet` (2778 units) |
+| London | have | PG 45752, `wbesant-london` (1731 units) |
+| All Sorts and Conditions of Men: An Impossible Story | have | PG 47098, `wbesant-all-sorts-and-conditions-of-men` (3315 units) |
+| The Revolt of Man | have | PG 48690, `wbesant-revolt-of-man` (1256 units) |
+| The Changeling | have | PG 49035, `wbesant-changeling` (2378 units) |
+| The Fourth Generation | have | PG 50177, `wbesant-fourth-generation` (2172 units) |
+| The inner house | have | PG 52169, `wbesant-inner-house` (977 units) |
+| Early London: Prehistoric, Roman, Saxon and Norman | have | PG 56865, `wbesant-early-london` (2828 units) |
+| Mediæval London, Volume 1: Historical & Social | have | PG 57803, `wbesant-medi-val-london-volume-1` (3718 units) |
+| Mediæval London, Volume 2: Ecclesiastical | have | PG 58614, `wbesant-medi-val-london-volume-2` (3779 units) |
+| The Queen's Reign and Its Commemoration A literary and pictorial review of the period; the story of the Victorian transformation | have | PG 58786, `wbesant-queens-reign-and-its-commemoration-a-literary-and-pi` (306 units) |
+| London City | have | PG 58834, `wbesant-london-city` (5599 units) |
+| East London | have | PG 58869, `wbesant-east-london` (868 units) |
+| Fifty Years Ago | have | PG 59020, `wbesant-fifty-years-ago` (891 units) |
+| London in the Time of the Stuarts | have | PG 59782, `wbesant-london-in-the-time-of-the-stuarts` (2210 units) |
+| Jerusalem, the City of Herod and Saladin (with E. H. Palmer) | have | PG 60319, `wbesant-jerusalem-the-city-of-herod-and-saladin` (1256 units) |
+| London in the Time of the Tudors | have | PG 62134, `wbesant-london-in-the-time-of-the-tudors` (3175 units) |
+| The Master Craftsman | have | PG 76367, `wbesant-master-craftsman` (2054 units) |
+| The art of fiction | have | PG 76460, `wbesant-art-of-fiction` (58 units) |
+| repeat-editions | excluded | PG 58672: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
