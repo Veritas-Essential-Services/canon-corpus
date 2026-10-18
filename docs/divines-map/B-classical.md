@@ -7911,6 +7911,8 @@ Shelf: `pipeline/robert-s-woodworth_shelf.json`. Two books, 1918-1921.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Dynamic Psychology (Columbia University Press, 1918) |  | `woodworth-dynamic-psychology-1918` | have-raw (IA `dynamicpsycholog00woodrich`) |
+| Psychology, a study of mental life (Holt, 1921) |  | `woodworth-psychology-1921` | have-raw (IA `psychologyastud01woodgoog`) |
 
 ## Charles Hubbard Judd (psychology of education)
 
