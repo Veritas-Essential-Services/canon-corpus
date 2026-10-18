@@ -6064,3 +6064,20 @@ Slugs `bridgett-*`. Redemptorist historian; written in English.
 | Fisher second edition (1890), More (lifewritingsofs00brid), Blunders second edition (1891), the one-volume Holy Eucharist (1908) | alternate | not shelved |
 | Characteristics from Wiseman and The Wisdom and Wit of Blessed Thomas More: other men's words | excluded | |
 | The 1935 More and undated 1920s Fisher | excluded | |
+
+## James Cardinal Gibbons (round 28, my pick, 2026-10-18)
+
+Slugs `gibbons-*`. Archbishop of Baltimore; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| The Faith of Our Fathers, tenth revised edition (Baltimore: John Murphy; London: R. Washbourne, 1879) | have-ocr | IA `faithofourfather00gibb_0` |
+| Our Christian Heritage (Baltimore: John Murphy, 1889) | have-ocr | IA `ourchristianheri00gibbuoft` |
+| The Ambassador of Christ (Baltimore: John Murphy; copyright 1896) | have-ocr | IA `theambassadorofc00gibbuoft` |
+| Discourses and Sermons for every Sunday and the principal festivals of the year (Baltimore: John Murphy; copyright 1908) | have-ocr | IA `discoursessermon00gibbuoft` |
+| A Retrospect of Fifty Years, vol. I (Baltimore: John Murphy, 1916) | have-ocr | IA `retrospecta01gibbuoft` |
+| A Retrospect of Fifty Years, vol. II (Baltimore: John Murphy, 1916) | have-ocr | IA `aretrospect01gibbuoft` |
+| PG 27435: the 93rd revised edition (1917) | alternate | not shelved |
+| Faith 16th (1880) and 34th (1889) editions; other copies of each title | alternate | not shelved |
+| Rebuttals by others, anthologies, Didon's Saviour, and another Gibbons | excluded | |
+| faithofourfather0000jame_n6l2: 110th edition, wrongly catalogued 1876 | excluded | |
