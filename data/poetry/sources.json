@@ -372,6 +372,13 @@
    "sha256": "807b51df3f3c402850b7106bb44b10cff5eb58f9c70be7c9d296e1a897fa202e",
    "copyrighted_header": false
   },
+  "6316": {
+   "title": "Poems of American Patriotism",
+   "raw_url": "https://www.gutenberg.org/cache/epub/6316/pg6316.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/6316",
+   "sha256": "fcbe80d7351305ceb905d0471e7b62928ccf81d13511f5c50d4e265c6a1aadd7",
+   "copyrighted_header": false
+  },
   "6667": {
    "title": "Poems of Power",
    "raw_url": "https://www.gutenberg.org/cache/epub/6667/pg6667.txt",
@@ -384,6 +391,13 @@
    "raw_url": "https://www.gutenberg.org/cache/epub/6682/pg6682.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/6682",
    "sha256": "4cf7edafa5f1774f0d83c69b5b0b8219e9dab6ba28cdcdf862dc57fa904d2a1f",
+   "copyrighted_header": false
+  },
+  "7211": {
+   "title": "The American Union Speaker",
+   "raw_url": "https://www.gutenberg.org/cache/epub/7211/pg7211.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/7211",
+   "sha256": "0abde0e29f6e118ef113a35990284341b55fc380a9ff4ac7dd8a094907221efb",
    "copyrighted_header": false
   },
   "7846": {
@@ -433,6 +447,13 @@
    "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-in-Two-Volumes-Volume-1_8774/master/8774.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/8774",
    "sha256": "ff77bf6bb105bd0686d92cd82cdbfef4eceadf63733f75db85e921b7e27c0f87",
+   "copyrighted_header": false
+  },
+  "8820": {
+   "title": "A Treasury of War Poetry: British and American Poems of the World War 1914-1917",
+   "raw_url": "https://www.gutenberg.org/cache/epub/8820/pg8820.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8820",
+   "sha256": "f7578d714ca60fbb2a4b143dff3dcca087d9354f9ab54ca05540040947127f02",
    "copyrighted_header": false
   },
   "8824": {
@@ -554,6 +575,13 @@
    "sha256": "877c55350e46b4ad3a3b84e9f41714d0530b48f525c366eec46e8c12eb0cd100",
    "copyrighted_header": false
   },
+  "11023": {
+   "title": "Gems of Poetry, for Girls and Boys",
+   "raw_url": "https://www.gutenberg.org/cache/epub/11023/pg11023.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/11023",
+   "sha256": "7bf54cabb16dc1e1cdb8b8676158e2ba3036ed0d920d8562858795a431a2f154",
+   "copyrighted_header": false
+  },
   "11064": {
    "title": "Andromeda, and Other Poems",
    "raw_url": "https://www.gutenberg.org/cache/epub/11064/pg11064.txt",
@@ -617,6 +645,13 @@
    "sha256": "e982ffe36c58fd4f3aab3ab3bda12b1916ee14a204d56e797e64e55739cfe340",
    "copyrighted_header": false
   },
+  "13184": {
+   "title": "Narrative and Lyric Poems (First Series) for Use in the Lower School",
+   "raw_url": "https://www.gutenberg.org/cache/epub/13184/pg13184.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/13184",
+   "sha256": "2bce362d06f418126a81c800f597af5034f1658871571304b98490ea5cb5aad8",
+   "copyrighted_header": false
+  },
   "13310": {
    "title": "The Complete Poetical Works of James Russell Lowell",
    "raw_url": "https://www.gutenberg.org/cache/epub/13310/pg13310.txt",
@@ -643,6 +678,41 @@
    "raw_url": "https://www.gutenberg.org/cache/epub/13649/pg13649.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/13649",
    "sha256": "f16a1725b39664ec6764ae7770f1588c5d05a270f41f7ae6b25d2a3e6ac04ba2",
+   "copyrighted_header": false
+  },
+  "14640": {
+   "title": "McGuffey's First Eclectic Reader, Revised Edition",
+   "raw_url": "https://www.gutenberg.org/cache/epub/14640/pg14640.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/14640",
+   "sha256": "1859570d04ea35d76d75dedb03c90b097f88031c34d80b2f63df9104b2f93a07",
+   "copyrighted_header": false
+  },
+  "14668": {
+   "title": "McGuffey's Second Eclectic Reader",
+   "raw_url": "https://www.gutenberg.org/cache/epub/14668/pg14668.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/14668",
+   "sha256": "5c9899998fe58ed92b31b59b2d05c0a532a6234a30f0dedbf3e08c86b4e9556f",
+   "copyrighted_header": false
+  },
+  "14766": {
+   "title": "McGuffey's Third Eclectic Reader",
+   "raw_url": "https://www.gutenberg.org/cache/epub/14766/pg14766.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/14766",
+   "sha256": "923d0320d2306b82984a66a7fcff5169b547d820f0bbeb466648db2f8af433f6",
+   "copyrighted_header": false
+  },
+  "14880": {
+   "title": "McGuffey's Fourth Eclectic Reader",
+   "raw_url": "https://www.gutenberg.org/cache/epub/14880/pg14880.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/14880",
+   "sha256": "570c67e4777f3ca58015ebd7532573d655c88b05e32907d12ddc829e034b7d2e",
+   "copyrighted_header": false
+  },
+  "15040": {
+   "title": "McGuffey's Fifth Eclectic Reader",
+   "raw_url": "https://www.gutenberg.org/cache/epub/15040/pg15040.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/15040",
+   "sha256": "724abf58ba1e167642ff7d9ee66ddd3da0df0d947919b9428edc89dd69a6046b",
    "copyrighted_header": false
   },
   "15553": {
@@ -680,11 +750,46 @@
    "sha256": "6a50b70fae0f0c5c26239f439ef8840ddbf2054cd1b02d08a3160d73c5a2c429",
    "copyrighted_header": false
   },
+  "16686": {
+   "title": "Verses for Children, and Songs for Music",
+   "raw_url": "https://www.gutenberg.org/cache/epub/16686/pg16686.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/16686",
+   "sha256": "8c52aca887d5f0e907784c567f181e1512234bfdf454d93e9cdb8af6e015cf15",
+   "copyrighted_header": false
+  },
+  "16751": {
+   "title": "McGuffey's Sixth Eclectic Reader",
+   "raw_url": "https://www.gutenberg.org/cache/epub/16751/pg16751.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/16751",
+   "sha256": "591842e5f554b1443d270f6206632418e88fca9e7fe58c37940efee8d2924d7a",
+   "copyrighted_header": false
+  },
+  "16786": {
+   "title": "The World's Best Poetry, Volume III: Sorrow and Consolation",
+   "raw_url": "https://www.gutenberg.org/cache/epub/16786/pg16786.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/16786",
+   "sha256": "dd181ca6cdcc08d4707b251361850bb1f2403567b40463cafe02013b781f612d",
+   "copyrighted_header": false
+  },
   "16839": {
    "title": "Sixteen Poems",
    "raw_url": "https://www.gutenberg.org/cache/epub/16839/pg16839.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/16839",
    "sha256": "455a9e96b99a28bed8ec1de76067fe5fdf0c7271e4defdcc0fc679a790068ca9",
+   "copyrighted_header": false
+  },
+  "17378": {
+   "title": "Successful Recitations (The Royal Reciter and The Imperial Reciter)",
+   "raw_url": "https://www.gutenberg.org/cache/epub/17378/pg17378.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/17378",
+   "sha256": "cd80d3de3884ac7ad9d3296fd5181514d3f67db6f1f1e8c244c6c44147f8b6db",
+   "copyrighted_header": false
+  },
+  "17735": {
+   "title": "Eyes of Youth: A Book of Verse",
+   "raw_url": "https://www.gutenberg.org/cache/epub/17735/pg17735.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/17735",
+   "sha256": "745f76ed8bca01b85c8076b0a6a99d898791d394db9f69f71178742da97b6efe",
    "copyrighted_header": false
   },
   "18007": {
@@ -734,6 +839,13 @@
    "raw_url": "https://www.gutenberg.org/cache/epub/19389/pg19389.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/19389",
    "sha256": "3c953813d44823c0c9c5eae2b86e862872b0b0832878b72e535641e823c77473",
+   "copyrighted_header": false
+  },
+  "19469": {
+   "title": "Poems Teachers Ask For, Book Two",
+   "raw_url": "https://www.gutenberg.org/cache/epub/19469/pg19469.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/19469",
+   "sha256": "a1d4052bbbb4af72586b98237ab7921133a917de556a2290be08a793cacd94d5",
    "copyrighted_header": false
   },
   "19541": {
@@ -813,6 +925,13 @@
    "sha256": "32917df854ca11d9801200c611021639ecc1df53669aee71addc2bdfd0fd990f",
    "copyrighted_header": false
   },
+  "23457": {
+   "title": "The Keepsake; or, Poems and Pictures for Childhood and Youth",
+   "raw_url": "https://www.gutenberg.org/cache/epub/23457/pg23457.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/23457",
+   "sha256": "1819c71cca3e6db967ef156bea1a8ee5ecc30c548fc0b3ae42be80e0d5cf7c06",
+   "copyrighted_header": false
+  },
   "23684": {
    "title": "Keats: Poems Published in 1820",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/Keats--Poems-Published-in-1820_23684/master/23684.txt",
@@ -827,6 +946,13 @@
    "sha256": "eef5337f098c4bfc4c010ac7dad1d53b06099ae1ac64f7b301a334a7e60bcbe7",
    "copyrighted_header": false
   },
+  "23794": {
+   "title": "Mother Goose, or the Old Nursery Rhymes",
+   "raw_url": "https://www.gutenberg.org/cache/epub/23794/pg23794.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/23794",
+   "sha256": "a78d5a67c6e8425f0426c6d16cde2659478a60f01c6865c04b4ed2bd9ff2b9b4",
+   "copyrighted_header": false
+  },
   "24280": {
    "title": "Endymion",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/EndymionA-Poetic-Romance_24280/master/24280.txt",
@@ -839,6 +965,13 @@
    "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems--New-and-Old_24405/master/24405.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/24405",
    "sha256": "faf0fdd11953fd11f4496aa64badc263c9c7f4be82ed703d9b9a87c67263cced",
+   "copyrighted_header": false
+  },
+  "24798": {
+   "title": "America First: Patriotic Readings",
+   "raw_url": "https://www.gutenberg.org/cache/epub/24798/pg24798.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/24798",
+   "sha256": "6f9fc260f9617d1b0b4c83cedeba95e100aa0873bc64e3040e8e9d8f684ea758",
    "copyrighted_header": false
   },
   "25340": {
@@ -869,6 +1002,13 @@
    "sha256": "af6c1c712779aafb84eca019ea49ae7842c2726f6f0360c174da29137e8ed213",
    "copyrighted_header": false
   },
+  "26197": {
+   "title": "The Nursery Rhyme Book",
+   "raw_url": "https://www.gutenberg.org/cache/epub/26197/pg26197.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/26197",
+   "sha256": "11a18d6428c0151e408f8cb1257ba96bd496c7605fa7c6c351caf4e3e078255b",
+   "copyrighted_header": false
+  },
   "27175": {
    "title": "The Bad Child's Book of Beasts",
    "raw_url": "https://www.gutenberg.org/cache/epub/27175/pg27175.txt",
@@ -888,6 +1028,13 @@
    "raw_url": "https://www.gutenberg.org/cache/epub/27195/pg27195.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/27195",
    "sha256": "4c0c831449b3b36775d143cedf4c69f12129781617835758fbbf741727ae59ef",
+   "copyrighted_header": false
+  },
+  "27441": {
+   "title": "The Children's Garland from the Best Poets",
+   "raw_url": "https://www.gutenberg.org/cache/epub/27441/pg27441.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/27441",
+   "sha256": "722fb3231c62414e8a63b66ae667fe6cd2e55a0b468e2e2fd6a9b274f67c4489",
    "copyrighted_header": false
   },
   "27577": {
@@ -925,6 +1072,13 @@
    "sha256": "d163f67f5ea2b82be9d0297e70b351d3bbf99731e1034d50a0e06ebe2de22fa0",
    "copyrighted_header": false
   },
+  "30418": {
+   "title": "Traditional Nursery Songs of England",
+   "raw_url": "https://www.gutenberg.org/cache/epub/30418/pg30418.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/30418",
+   "sha256": "811070567875e3958f9962a0b68d90b10450a1895f1a1f1b4ca49823f36d7c9c",
+   "copyrighted_header": false
+  },
   "31015": {
    "title": "The Poetical Works of Elizabeth Barrett Browning, Volume IV",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-Elizabeth-Barrett-Browning-Volume-IV_31015/master/31015.txt",
@@ -946,11 +1100,32 @@
    "sha256": "077d3e08ed9b735a38ee20801e6b357a1be6e95930cf0cacc90558efcb6aca29",
    "copyrighted_header": false
   },
+  "32373": {
+   "title": "The Golden Treasury (revised and enlarged)",
+   "raw_url": "https://www.gutenberg.org/cache/epub/32373/pg32373.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/32373",
+   "sha256": "a45ad77501e674dc2797087d6cac801bb7fa5f18e62f8b21101df03ed8c3a615",
+   "copyrighted_header": false
+  },
+  "32415": {
+   "title": "The Nursery Rhymes of England",
+   "raw_url": "https://www.gutenberg.org/cache/epub/32415/pg32415.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/32415",
+   "sha256": "0875a9134be62b20b3a173468565a1820b7c66d50c1690e4d97b67fb1e230ecc",
+   "copyrighted_header": false
+  },
   "32459": {
    "title": "The Poetical Works of William Wordsworth, Volume IV (of 8)",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-William-Wordsworth-Volume-IV--of-8-_32459/master/32459.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/32459",
    "sha256": "a3711371682a40841334d94c062643c15f5b56d08d398f07e4d651d0bd5c0373",
+   "copyrighted_header": false
+  },
+  "33681": {
+   "title": "Poems of the Great War (Prince of Wales's National Relief Fund)",
+   "raw_url": "https://www.gutenberg.org/cache/epub/33681/pg33681.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/33681",
+   "sha256": "b8ba0c666abb7ac04c32cfce9457348961d1678f5c9118cb611dc663f48dc3ca",
    "copyrighted_header": false
   },
   "34237": {
@@ -1009,11 +1184,25 @@
    "sha256": "ce89e42518b1fc5b6dabd5128aa88175c328628e82e6e1025308b7de85c1d4d2",
    "copyrighted_header": false
   },
+  "40576": {
+   "title": "Smiles: A Book of Recitations for Girls",
+   "raw_url": "https://www.gutenberg.org/cache/epub/40576/pg40576.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/40576",
+   "sha256": "33f6901206f7e33a4452ccec4e554b505cc1e359166b94b87c52357b3b78b590",
+   "copyrighted_header": false
+  },
   "40717": {
    "title": "The Story of a Round-House, and Other Poems",
    "raw_url": "https://www.gutenberg.org/cache/epub/40717/pg40717.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/40717",
    "sha256": "e2af05dcb8563abc8f6a54bdd467f98cd4a907754ccc78ac4fa1a9e27a94ea24",
+   "copyrighted_header": false
+  },
+  "42850": {
+   "title": "The Pied Piper of Hamelin and Other Poems",
+   "raw_url": "https://www.gutenberg.org/cache/epub/42850/pg42850.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/42850",
+   "sha256": "d5fc8f6e5dc5ce27be74ecd2a5602b64d0ad32618c375bd6db7c66dcb704a953",
    "copyrighted_header": false
   },
   "42947": {
@@ -1023,11 +1212,46 @@
    "sha256": "c6b663e2c559a46de0b28384f2c1e5d715ebbada686e82e54e2d57e0f327c98d",
    "copyrighted_header": false
   },
+  "43223": {
+   "title": "The World's Best Poetry, Volume IX: Of Tragedy; Of Humour",
+   "raw_url": "https://www.gutenberg.org/cache/epub/43223/pg43223.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/43223",
+   "sha256": "c12c91e9ca5daddeeeeff712452414704f1d1a5367d70dca9f3e9777e08af143",
+   "copyrighted_header": false
+  },
+  "44593": {
+   "title": "The Oxford Book of Ballads",
+   "raw_url": "https://www.gutenberg.org/cache/epub/44593/pg44593.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/44593",
+   "sha256": "a96747d70401a34b0a42665a7a0d495ca01a029d8e58074f5e56ed0a5dc02e63",
+   "copyrighted_header": false
+  },
+  "44835": {
+   "title": "Devotional Poetry for the Children, Second Part",
+   "raw_url": "https://www.gutenberg.org/cache/epub/44835/pg44835.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/44835",
+   "sha256": "8655715b00d61adb4ea619ff9aeb580e5c058f181df6f65fdb84e2b50871429f",
+   "copyrighted_header": false
+  },
   "46041": {
    "title": "The Christian Hymn Book",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Christian-Hymn-Bookand-Selected-by-A.-Campbell-and-Others_46041/master/46041.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/46041",
    "sha256": "f656581801edc10595feb73d837623677ac203384dcbf442d5b640a9c0964d77",
+   "copyrighted_header": false
+  },
+  "46427": {
+   "title": "The Great War in Verse and Prose",
+   "raw_url": "https://www.gutenberg.org/cache/epub/46427/pg46427.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/46427",
+   "sha256": "09f6f719cffe67c03dd4cdac1f9e4855b075e8b12e25fb3b89b4c7d5c29cf499",
+   "copyrighted_header": false
+  },
+  "46515": {
+   "title": "The Blue Poetry Book",
+   "raw_url": "https://www.gutenberg.org/cache/epub/46515/pg46515.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/46515",
+   "sha256": "d289938b804508142e56c6b12972207432f4b22aefd1de3a75cdaaa1b2a8d92a",
    "copyrighted_header": false
   },
   "46702": {
@@ -1058,11 +1282,25 @@
    "sha256": "999b6a6c3b44a16aa1caf42c7966ad6f04b24e38b46e6ef072e6d6aec0a07a32",
    "copyrighted_header": false
   },
+  "48484": {
+   "title": "Narrative and Lyric Poems (Second Series) for Use in the Lower School",
+   "raw_url": "https://www.gutenberg.org/cache/epub/48484/pg48484.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/48484",
+   "sha256": "d8d29a3051f1c59dcfd8137d796da8f630b671b4ca3dd98c556572e000423d7b",
+   "copyrighted_header": false
+  },
   "48688": {
    "title": "The Poems of John Donne [2 vols.] Volume I",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poems-of-John-Donne-2-vols-Volume-I-Edited-from-the-Old-Editions-and-Numerous-Manuscripts_48688/master/48688-0.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/48688",
    "sha256": "93695b9c26daaabfb6dd893e30e37a48fc0e55b90527453b7927d90cc03a3aa1",
+   "copyrighted_header": false
+  },
+  "49291": {
+   "title": "Beadle's Dime National Speaker",
+   "raw_url": "https://www.gutenberg.org/cache/epub/49291/pg49291.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/49291",
+   "sha256": "f9325f29b82ea9ee4c9c811a21dc707c9b839217ea5cd4fc64ea3818e5a2e40e",
    "copyrighted_header": false
   },
   "50954": {
@@ -1077,6 +1315,13 @@
    "raw_url": "https://www.gutenberg.org/cache/epub/50994/pg50994.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/50994",
    "sha256": "1afcb626a712893bd17fc05a89e42c1078d882d222321d33226ef974a630a450",
+   "copyrighted_header": false
+  },
+  "52133": {
+   "title": "Patriotic Song: A Book of English Verse, being an anthology of the patriotic poetry of the British Empire",
+   "raw_url": "https://www.gutenberg.org/cache/epub/52133/pg52133.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/52133",
+   "sha256": "001b268619d5b19ce4be4ccd4ac2c69a8c0ada60856bbd7b5d00cb7e2b03b876",
    "copyrighted_header": false
   },
   "52761": {
@@ -1100,11 +1345,39 @@
    "sha256": "d202bc8dc15c6dbd29564cdf9fa0e5cd3dc27f51fe22193e242225fa287b7f5f",
    "copyrighted_header": false
   },
+  "54530": {
+   "title": "The Knife-Grinder's Budget of Pictures & Poetry for Boys and Girls",
+   "raw_url": "https://www.gutenberg.org/cache/epub/54530/pg54530.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/54530",
+   "sha256": "482f49af96e605cdea408ef18ffd2e532aaf2e3ed69fa4e2104931d82308e845",
+   "copyrighted_header": false
+  },
+  "55496": {
+   "title": "A Household Book of English Poetry",
+   "raw_url": "https://www.gutenberg.org/cache/epub/55496/pg55496.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/55496",
+   "sha256": "7e3af7f2046b334ab4b1d8c6b4a3ee0796ea398fb092eaecc2bee565f4394ab7",
+   "copyrighted_header": false
+  },
   "56913": {
    "title": "Maud, and Other Poems",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/Maud-and-Other-Poems_56913/master/56913-0.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/56913",
    "sha256": "3241d6b04cd1114132a6f5facdd3f8413103054e6f7bd52100f1f7dabf70e5f6",
+   "copyrighted_header": false
+  },
+  "56956": {
+   "title": "Great Poems of the World War",
+   "raw_url": "https://www.gutenberg.org/cache/epub/56956/pg56956.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/56956",
+   "sha256": "3378fd87d1d9fd111667b8552100f894b3752c8c483962fa56380614984accea",
+   "copyrighted_header": false
+  },
+  "57018": {
+   "title": "Pieces People Ask For",
+   "raw_url": "https://www.gutenberg.org/cache/epub/57018/pg57018.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/57018",
+   "sha256": "986e750c4e05c33addeeb2ab31f07ec9de26f0e14327abbcfb6ee42e482a2e82",
    "copyrighted_header": false
   },
   "59474": {
@@ -1156,11 +1429,25 @@
    "sha256": "12906060cb5416dad102befe6c979c550dd00035dfd34dcbb7877db9ff619d7f",
    "copyrighted_header": false
   },
+  "63858": {
+   "title": "Story-Telling Ballads: Selected and Arranged for Story-Telling and Reading Aloud and for the Boys' and Girls' Own Reading",
+   "raw_url": "https://www.gutenberg.org/cache/epub/63858/pg63858.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/63858",
+   "sha256": "d4b138e06563111ced2d90b68562c67774aa81b9befc6b44d1ca11e1d81509cc",
+   "copyrighted_header": false
+  },
   "64989": {
    "title": "Harlem shadows",
    "raw_url": "https://www.gutenberg.org/cache/epub/64989/pg64989.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/64989",
    "sha256": "65654b10a9a6c141858a88aa074c3fbf5cefee8ac692bdc7feda3d0d13fb7113",
+   "copyrighted_header": false
+  },
+  "66619": {
+   "title": "The Oxford Book of English Verse 1250-1900",
+   "raw_url": "https://www.gutenberg.org/cache/epub/66619/pg66619.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/66619",
+   "sha256": "77bbccc21ecf7b96b0be2ab9cbc56e94ad7008957885f601c56e979872376501",
    "copyrighted_header": false
   },
   "66683": {
@@ -1191,11 +1478,39 @@
    "sha256": "b029e70bbbfb87e2a4760f0ece5edf61f82498d0ca34fd02996fdf4171b97431",
    "copyrighted_header": false
   },
+  "67522": {
+   "title": "Rainbow Gold: Poems Old and New Selected for Boys and Girls",
+   "raw_url": "https://www.gutenberg.org/cache/epub/67522/pg67522.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/67522",
+   "sha256": "94fec100875e6ab11ad7ae56212262a177b3b19c0661de21d84b5373e8b52379",
+   "copyrighted_header": false
+  },
+  "68359": {
+   "title": "Poetry for Children",
+   "raw_url": "https://www.gutenberg.org/cache/epub/68359/pg68359.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/68359",
+   "sha256": "75788ae6e9f3209a70cc1f276d5ab85228090d31a20ffdfbd822495168cd27f0",
+   "copyrighted_header": false
+  },
+  "68926": {
+   "title": "Stories and Ballads for Young Folks",
+   "raw_url": "https://www.gutenberg.org/cache/epub/68926/pg68926.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/68926",
+   "sha256": "005fe86696621ecc381f31283c22b12564444dbda7b182435d259d5be8763418",
+   "copyrighted_header": false
+  },
   "70271": {
    "title": "When we were very young",
    "raw_url": "https://raw.githubusercontent.com/GITenberg/When-We-Were-Very-Young_70271/master/70271-0.txt",
    "gutenberg_url": "https://www.gutenberg.org/ebooks/70271",
    "sha256": "a027c227a2691c298ae23a9f960c4c40aaf17941c08345331f6701e8c1efe185",
+   "copyrighted_header": false
+  },
+  "70415": {
+   "title": "The Boy's Book of Battle-Lyrics",
+   "raw_url": "https://www.gutenberg.org/cache/epub/70415/pg70415.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/70415",
+   "sha256": "761f496e9ac9e48bc7a66709d6837ab542e3f79b7dab1c509a08e980481f257a",
    "copyrighted_header": false
   },
   "70516": {

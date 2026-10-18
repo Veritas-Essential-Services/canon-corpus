@@ -109,7 +109,8 @@ The living truth for project state is the Obsidian vault:
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
     node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
     python3 pipeline/build_poetry.py --fetch           # poetry: fetch the pinned Gutenberg books (GITenberg mirror)
-    python3 pipeline/build_poetry.py                   # AO + heroic addendum -> catalogs, texts, Mnemonicon packs
+    python3 pipeline/select_treasury.py --fetch        # poetry: the candidate pool -> selections/treasury.jsonl (run before the build)
+    python3 pipeline/build_poetry.py                   # AO + heroic addendum + treasury -> catalogs, texts, Mnemonicon packs
     python3 pipeline/build_poetry.py --check           # poetry: mint 0, byte-identical
     python3 tests/poetry_test.py                       # the poetry section: rights gate, ids, packs, cutter
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5e6583a8-406d-5077-a294-02bb7e4d686d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "MARCH winds and April showers",
+    "source": "Anonymous",
+    "category": "Poetry",
+    "translation": "",
+    "text": "MARCH winds and April showers\nBring forth May flowers.",
+    "notes": "Schoolroom Treasury candidate, printed in 1 of the pool's old anthologies.\nText: The Nursery Rhyme Book (1897), Project Gutenberg #26197.\nUS public domain: the text hosted here is from The Nursery Rhyme Book (1897), published before 1931, so its 95-year US term has run out. Project Gutenberg #26197.\nWord Hoard poetry:anonymous.march-winds-and-april-showers · wh-E22JX94KBR",
+    "tags": [
+      "poetry",
+      "treasury",
+      "pg26197",
+      "anonymous"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]

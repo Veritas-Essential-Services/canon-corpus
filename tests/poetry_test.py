@@ -15,6 +15,7 @@ fetched (data/corpus/gitenberg/), it also rebuilds and asserts byte-identical.
 import importlib.util
 import json
 import os
+import re
 import sys
 import uuid
 
@@ -51,9 +52,9 @@ def rj(path):
 
 
 DATA = B.DATA
-cats = {layer: rj(os.path.join(DATA, f"catalog-{layer}.jsonl")) for layer in B.LAYERS}
+cats = {layer: B.read_parts(os.path.join(DATA, f"catalog-{layer}")) for layer in B.LAYERS}
 sels = {layer: rj(os.path.join(B.SEL, f"{layer}.jsonl")) for layer in B.LAYERS}
-texts = {t["uid"]: t for t in rj(os.path.join(DATA, "texts.jsonl"))}
+texts = {t["uid"]: t for t in B.read_parts(os.path.join(DATA, "texts"))}
 reg = U.WhUidRegistry(B.UIDS)
 sources = B.load_sources()["books"]
 
@@ -71,6 +72,12 @@ for layer in B.LAYERS:
     check(f"{layer}: every row is hosted or linked, and a linked row has somewhere to go",
           all(r["host"] in ("full", "link") and (r["host"] == "full" or r["link"]) for r in cats[layer]))
 check("the addendum is marked as proposals", all(r.get("status") == "proposed" for r in cats["addendum-heroic"]))
+check("the treasury is marked as candidates, each tied to its pool entry",
+      all(r.get("status") == "candidate" and r.get("pool_id") for r in cats["treasury"]))
+_tsel = {B.citation(s): s for s in sels["treasury"]}
+_bad = [r["citation"] for r in cats["treasury"] if r["host"] == "full"
+        and B.norm(texts[r["uid"]]["text"].split("\n")[0]) != B.norm(_tsel[r["citation"]]["first_line"])]
+check("a hosted treasury poem begins at the first line its book prints", not _bad, _bad[:5])
 check("the AO layer carries no addendum tag, and the addendum no AO tag",
       all("addendum-heroic" not in r["tags"] for r in cats["ao"])
       and all("ao" not in r["tags"] for r in cats["addendum-heroic"]))
@@ -105,7 +112,7 @@ for layer in B.LAYERS:
 by_cit = {}
 for row in allrows:
     by_cit.setdefault(row["citation"], set()).add(row["uid"])
-check("one citation, one uid, across both layers", all(len(v) == 1 for v in by_cit.values()))
+check("one citation, one uid, across the layers", all(len(v) == 1 for v in by_cit.values()))
 
 print("\n## texts")
 hosted = {r["uid"] for r in allrows if r["host"] == "full"}
@@ -118,6 +125,9 @@ check("texts are LF, no trailing spaces, no doubled blank lines",
           for t in texts.values()))
 check("no hosted text reads as wrapped prose", not [t for t in texts.values() if B._prose(t["text"])],
       [t["citation"] for t in texts.values() if B._prose(t["text"])][:5])
+
+big = sorted(os.path.relpath(p, REPO) for p in B.built_paths() if os.path.getsize(p) > 5_000_000)
+check("every committed catalog, texts part and pack is under 5 MB", not big, big)
 
 print("\n## packs")
 X = load("mnemonicon_pack_test_helpers", os.path.join(REPO, "pipeline", "export_mnemonicon_pack.py"))
@@ -230,6 +240,8 @@ if all(os.path.exists(B.book_path(n)) for n in sources):
     stale = [os.path.relpath(p, REPO) for p, b in blobs.items() if not os.path.exists(p) or open(p, "rb").read() != b]
     check("a rebuild mints 0 uids", reg2.minted == 0, reg2.minted)
     check("a rebuild is byte-identical", not stale, stale[:5])
+    extra = sorted(os.path.relpath(p, REPO) for p in B.built_paths() - set(blobs))
+    check("no stale catalog, texts or pack files", not extra, extra[:5])
 else:
     print("note  pinned books not fetched (python3 pipeline/build_poetry.py --fetch); rebuild check skipped")
 
