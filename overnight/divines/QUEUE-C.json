@@ -3688,6 +3688,14 @@
       "finished": "2026-10-17T20:55-05:00",
       "scope": "TRANSLATOR SHELF (round 94, lane C's choice; Adam may veto) -- german-classics; PD printings before 1931 only; no minting",
       "notes": "20 titles; ids checked across all branches. See DIGEST-C round 94. No uids minted."
+    },
+    {
+      "id": "shelf-german-literature",
+      "status": "done",
+      "started": "2026-10-17T21:01-05:00",
+      "finished": "2026-10-17T21:01-05:00",
+      "scope": "TRANSLATOR SHELF (round 95, lane C's choice; Adam may veto) -- german-literature; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 95. No uids minted."
     }
   ]
 }

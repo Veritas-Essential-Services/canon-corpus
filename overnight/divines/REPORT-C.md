@@ -264,3 +264,5 @@
 - 2026-10-17T20:41-05:00: round 93: hispanic-classics (10). --verify --record 0 mismatched. serrano gap-fill +3.
 
 - 2026-10-17T20:55-05:00: round 94: german-classics (20). --verify --record 0 mismatched.
+
+- 2026-10-17T21:01-05:00: round 95: german-literature (8). --verify --record 0 mismatched. ellen-frothingham +0 (Sappho to _pending, 1972 facsimile); upton +0 (Immensee excluded, name not in scan).

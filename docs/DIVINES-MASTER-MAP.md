@@ -15488,6 +15488,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `upton-willys-swiss-heroes-an-historical-romance-of-th` | A. A. Willys | Swiss Heroes: An Historical Romance of the Time of Charles the Bold | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 61788 |
 | `upton-wurdig-prince-eugene-the-noble-knight` | L. (Ludwig) Würdig | Prince Eugene, the Noble Knight | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59733 |
 | `upton-ziemssen-johann-sebastian-bach` | Ludwig Ziemssen | Johann Sebastian Bach | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65747 |
+| — | — | upton-immensee-1907: Storm's Immensee (McClurg, 1907; archive.org immenseestorm00storiala) is catalogued as Upton's translation, but the scan's title page is lost and his name appears nowhere in its text, so the gate cannot check it. | — | — | excluded | — |
 
 ## Grace Isabel Colbron (Groner's Joe Muller detective stories)
 
@@ -16273,6 +16274,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ellen-frothingham-auerbach-edelweiss-a-story` | Berthold Auerbach | Edelweiss: A Story | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 33007 |
 | `ellen-frothingham-goethe-hermann-and-dorothea` | Johann Wolfgang von Goethe | Hermann and Dorothea | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 1958 |
 | `ellen-frothingham-lessing-laocoon` | Gotthold Ephraim Lessing | Laocoon | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 73078 |
+| `frothingham-sappho-1876` | — | Grillparzer's Sappho (Roberts Brothers, Boston, 1876; archive.org sapphotragedyinf00grilrich): the only scan found is a 1972 University Microfilms xerographic facsimile, so it waits on the facsimile ruling. | — | — | pending | — |
 
 ## R. Dillon Boylan (Werther; Schiller's Don Carlos)
 
@@ -20592,6 +20594,25 @@ Round 94 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `german-classics-vol-19` | Helene Böhlau, Clara Viebig, Eduard von Keyserling, Thomas Mann, Ludwig Thoma, Rudolf Hans Bartsch and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XIX | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsof0000fran_d8a0` |
 | `german-classics-vol-20` | Wassermann, Kellermann, Halbe, Hofmannsthal, Schnitzler, Wedekind and others | The German Classics of the Nineteenth and Twentieth Centuries, vol. XX | Various, named on the volume's contributors page; Kuno Francke, editor-in-chief | 1914 | have-raw | IA `germanclassicsma20franiala` |
 | — | — | lyon-albany-printing: The J. B. Lyon (Albany) printing of the series, which styles Francke 'Emeritus', is undated; the German Publication Society's 1913-1914 printing is used for all 20 volumes. | — | — | excluded | — |
+
+## Shelf: German literature in English before 1931 not held elsewhere: Sotheby's Wieland Oberon (1798), Middleton's Grillparzer Sappho (1858), Schimmelfennig's Storm Immensee (1902), and Frenssen's Jörn Uhl, Holyland, Peter Moor's Journey and Klaus Hinrich Baas
+
+Shelf: `pipeline/german-literature_shelf.json` · fetch `python3 pipeline/fetch_shelf.py german-literature` · titles `python3 pipeline/split_shelf_titles.py german-literature`.
+Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `german-literature-wieland-oberon-1` | Christoph Martin Wieland | Oberon, a Poem, vol. I | William Sotheby | 1798 | have-raw | IA `oberonapoem00sothgoog` |
+| `german-literature-wieland-oberon-2` | Christoph Martin Wieland | Oberon, a Poem, vol. II | William Sotheby | 1798 | have-raw | IA `oberonapoem01sothgoog` |
+| `german-literature-grillparzer-sappho-middleton` | Franz Grillparzer | Sappho; a Tragedy in Five Acts | Edda Middleton | 1858 | have-raw | IA `sapphotragedyinf00gril` |
+| `german-literature-storm-immensee-schimmelfennig` | Theodor Storm | Immensee | Bertha M. Schimmelfennig | 1902 | have-raw | IA `cu31924026220172` |
+| `german-literature-frenssen-jorn-uhl` | Gustav Frenssen | Jörn Uhl | F. S. Delmer | 1905 | have-raw | IA `jornuhl00fren` |
+| `german-literature-frenssen-holyland` | Gustav Frenssen | Holyland (Hilligenlei) | Mary Agnes Hamilton | 1906 | have-raw | IA `holyland00fren` |
+| `german-literature-frenssen-peter-moor` | Gustav Frenssen | Peter Moor's Journey to Southwest Africa: a Narrative of the German Campaign | Margaret May Ward | 1908 | have-raw | IA `petermoorsjourne00fren` |
+| `german-literature-frenssen-klaus-hinrich-baas` | Gustav Frenssen | Klaus Hinrich Baas: the Story of a Self-Made Man | Esther Everett Lape | 1911 | have-raw | IA `klaushinrichbaas00frenrich` |
+| — | — | frenssen-three-comrades: The Three Comrades (Dana Estes, 1907): the scan's title page is lost and no translator is named in the front matter. | — | — | excluded | — |
+| — | — | lcc-sappho-1855: Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check. | — | — | excluded | — |
+| — | — | oberon-1805: The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
