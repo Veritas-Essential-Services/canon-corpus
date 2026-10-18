@@ -6312,6 +6312,10 @@ Shelf: `pipeline/j-h-muirhead_shelf.json`. J. H. Muirhead (1855-1940). Elements 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Elements of Ethics (Murray, 1892) |  | `muirhead-elements-of-ethics-1892` | have-raw (IA `elementsofetauto00muiruoft`) |
+| Chapters from Aristotle's Ethics (Murray, 1900) |  | `muirhead-chapters-aristotle-ethics-1900` | have-raw (IA `chaptersaristotl00muiruoft`) |
+| Philosophy and Life (Sonnenschein, 1902) |  | `muirhead-philosophy-and-life-1902` | have-raw (IA `philosophylifeot00muirrich`) |
+| The Service of the State (Murray, 1908) |  | `muirhead-service-of-the-state-1908` | have-raw (IA `serviceofstatefo00muiruoft`) |
 
 ## H. A. Prichard (Kant)
 
