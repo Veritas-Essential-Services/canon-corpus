@@ -5904,3 +5904,14 @@ Slugs `hugel-*`. Catholic lay theologian of the mystical element of religion; wr
 | The 1909 reprint and 1923 second edition of The Mystical Element; other copies of Eternal Life and the Essays | alternate | not shelved |
 | Printings reissued 1930 or later | excluded | |
 | Selections by others (1928), Troeltsch's lectures with his introduction, books by other von Hügels, an Italian edition | excluded | |
+
+## Nicholas Love (round 27, my pick, 2026-10-17)
+
+Slugs `love-*`. Carthusian prior; his Mirror of the Blessed Life of Jesus Christ, an English rendering of the pseudo-Bonaventuran Meditationes.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mirrour of the Blessed Lyf of Jesu Christ, a translation of the Meditationes Vitae Christi made before 1410 by Nicholas Love, ed. Lawrence F. Powell (Oxford: Clarendon Press, MCMVIII) | have-ocr | IA `themirrourofjesu00bonauoft` |
+| Four other copies of the 1908 edition | alternate | not shelved |
+| Wynkyn de Worde's 1530 print (vitachristi00bona): woodcut title page, Love not named in what was read | alternate | not shelved |
+| 2005 and 2010 editions; manuscripts | excluded | |

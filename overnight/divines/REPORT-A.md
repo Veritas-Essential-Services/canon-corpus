@@ -1237,3 +1237,6 @@
 
 ## 2026-10-17 19:13 CDT — friedrich-von-hugel done
 - `pipeline/friedrich-von-hugel_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for hugel-essays-addresses-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 19:13 CDT — nicholas-love done
+- `pipeline/nicholas-love_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
