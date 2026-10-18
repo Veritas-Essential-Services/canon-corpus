@@ -1,5 +1,5 @@
 {
- "_about": "Ernst Mach (1838-1916), physicist and philosopher of science: Contributions to the Analysis of the Sensations, translated by C. M. Williams (Chicago: Open Court, 1897), and History and Root of the Principle of the Conservation of Energy, translated and annotated by Philip E. B. Jourdain (Chicago: Open Court, 1911), raw IA OCR, clean 0.89 each. His Science of Mechanics and Popular Scientific Lectures, in T. J. McCormack's translations, are lane C's mccormack shelf and are not taken again. US public domain. No uids minted.",
+ "_about": "Ernst Mach (1838-1916), physicist and philosopher of science: Contributions to the Analysis of the Sensations, translated by C. M. Williams (Chicago: Open Court, 1897), and History and Root of the Principle of the Conservation of Energy, translated and annotated by Philip E. B. Jourdain (Chicago: Open Court, 1911), raw IA OCR, clean 0.89 each. His Science of Mechanics and Popular Scientific Lectures, in T. J. McCormack's translations, are lane C's mccormack shelf and are not taken again. US public domain. Added in round 2026-10-17bl: The Analysis of Sensations and the relation of the physical to the psychical, translated from the first German edition by C. M. Williams, revised and supplemented from the fifth German edition by Sydney Waterlow (Chicago and London: Open Court, 1914), raw IA OCR, clean 0.91. No uids minted.",
  "_author": "Ernst Mach",
  "_name_words": [
   "ernst",
@@ -20,12 +20,18 @@
    "historyrootofpri00mach",
    "History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911)",
    "Philip E. B. Jourdain"
+  ],
+  "mach-analysis-of-sensations-1914": [
+   "analysisofsensat00machuoft",
+   "The Analysis of Sensations, tr. C. M. Williams, rev. Sydney Waterlow (Open Court, 1914)",
+   "tr. C. M. Williams and Sydney Waterlow"
   ]
  },
  "_excluded": {},
  "_translators": {
   "mach-analysis-of-sensations-williams-1897": "Williams",
-  "mach-conservation-of-energy-jourdain-1911": "Jourdain"
+  "mach-conservation-of-energy-jourdain-1911": "Jourdain",
+  "mach-analysis-of-sensations-1914": "Waterlow"
  },
  "_checks": {
   "mach-analysis-of-sensations-williams-1897": {
@@ -52,6 +58,19 @@
    "ia_rights": "ok: published 1911",
    "ia_date": "1911",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mach-analysis-of-sensations-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mach",
+   "translator_claimed": "Waterlow",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

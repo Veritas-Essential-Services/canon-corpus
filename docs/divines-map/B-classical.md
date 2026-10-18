@@ -5948,6 +5948,7 @@ Shelf: `pipeline/ernst-mach_shelf.json`. Williams' and Jourdain's translations; 
 |---|---|---|---|
 | Contributions to the Analysis of the Sensations, tr. C. M. Williams (Open Court, 1897) | Williams | `mach-analysis-of-sensations-williams-1897` | have-raw (IA `contributionstoa00mach`) |
 | History and Root of the Principle of the Conservation of Energy, tr. P. E. B. Jourdain (Open Court, 1911) | Jourdain | `mach-conservation-of-energy-jourdain-1911` | have-raw (IA `historyrootofpri00mach`) |
+| The Analysis of Sensations, tr. C. M. Williams, rev. Sydney Waterlow (Open Court, 1914) | C. M. Williams and Sydney Waterlow | `mach-analysis-of-sensations-1914` | have-raw (IA `analysisofsensat00machuoft`) |
 
 ## Hans Driesch (vitalism)
 
