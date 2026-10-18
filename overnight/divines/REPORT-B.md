@@ -1117,3 +1117,9 @@
 - Held: Weber, The Protestant Ethic, tr. Parsons (1930), because the only IA copy is the 1948 second impression; Dewey, The Public and its Problems (Swallow reprint); Whitehead, An Introduction to Mathematics (no printed year) and Principia Mathematica (OCR 0.45)
 - Fixed: two shelf notes (Whitehead, Dewey) where an earlier helper had split a sentence; addrow.py now inserts before 'No uids minted'
 - Ids checked against heldidx and all branches: no collisions
+
+## 2026-10-17 20:16 CDT — Round ba: Broad, Wallas, Dicey, Laski, Lovejoy
+- New shelves: c-d-broad (Perception, Physics and Reality 1914; Scientific Thought 1923; Mind and its Place in Nature 1925; Five Types of Ethical Theory 1930), graham-wallas (Our Social Heritage 1921), a-v-dicey (Law of the Constitution 4th ed. 1893; Law and Public Opinion 1905), harold-laski (Authority in the Modern State 1919/1927; Administrative Areas 1918), arthur-o-lovejoy (Revolt against Dualism 1930)
+- Extended: f-h-bradley (+Essays on Truth and Reality, 1914 first printing)
+- Held: Human Nature in Politics (IA copy is the Rowse-foreword edition), Political Thought in England from Locke to Bentham (no printed year), a 1934 impression of Five Types and a 1944+ lithographic Bradley (better copies taken)
+- Ids checked against heldidx and all branches: no collisions

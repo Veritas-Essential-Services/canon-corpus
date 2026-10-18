@@ -10503,6 +10503,7 @@ Shelf: `pipeline/f-h-bradley_shelf.json`. Ethical Studies, Principles of Logic, 
 | Ethical Studies (1876; anastatic reprint, New York: G. E. Stechert, 1904) |  | `bradley-ethical-studies-1876` | have-raw (IA `ethicalstudies00bradgoog`) |
 | The Principles of Logic (London: Kegan Paul, Trench, 1883) |  | `bradley-principles-of-logic-1883` | have-raw (IA `principleslogic00bradgoog`) |
 | Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908) |  | `bradley-appearance-and-reality-1908` | have-raw (IA `appearanceandre01bradgoog`) |
+| Essays on Truth and Reality (Oxford: Clarendon Press, 1914; raw IA OCR, clean 0.94; not taken: a lithographic reprint of 1944 and later) |  | `bradley-essays-truth-reality-1914` | have-raw (IA `cu31924016877239`) |
 
 ## Bernard Bosanquet
 
@@ -12544,6 +12545,57 @@ Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and t
 | The Science and Philosophy of the Organism, Gifford Lectures 1908, vol. II (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v2` | have-raw (IA `thescienceandphi02drieuoft`) |
 | The Problem of Individuality (Macmillan, 1914) |  | `driesch-problem-of-individuality-1914` | have-raw (IA `cu31924029083982`) |
 | The History and Theory of Vitalism, tr. C. K. Ogden (Macmillan, 1914) | Ogden | `driesch-history-theory-vitalism-ogden-1914` | have-raw (IA `TheHistoryAndTheoryOfVitalism`) |
+
+## C. D. Broad (realism and ethics)
+
+Shelf: `pipeline/c-d-broad_shelf.json`. Four books, 1914-1930. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Perception, Physics, and Reality (Cambridge, 1914) |  | `broad-perception-physics-reality-1914` | have-raw (IA `perceptionphysic00broa`) |
+| Scientific Thought (Kegan Paul, 1923) |  | `broad-scientific-thought-1923` | have-raw (IA `scientificthough00broauoft`) |
+| The Mind and its Place in Nature, Tarner Lectures (Kegan Paul, 1925) |  | `broad-mind-and-its-place-1925` | have-raw (IA `minditsplaceinna00broa`) |
+| Five Types of Ethical Theory (Kegan Paul, 1930) |  | `broad-five-types-ethical-theory-1930` | have-raw (IA `fivetypesofethic00broa_0`) |
+
+Pending (wishlist): The Philosophy of Francis Bacon (1926 address)
+
+## Graham Wallas (political psychology)
+
+Shelf: `pipeline/graham-wallas_shelf.json`. Our Social Heritage (1921); Human Nature in Politics held (post-war edition). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Our Social Heritage (Allen and Unwin, 1921) |  | `wallas-our-social-heritage-1921` | have-raw (IA `oursocialheritag00walluoft`) |
+
+Pending (wishlist): Human Nature in Politics (1908), The Great Society (1914), The Art of Thought (1926), in pre-1931 printings
+
+## A. V. Dicey (constitutional law)
+
+Shelf: `pipeline/a-v-dicey_shelf.json`. Law of the Constitution (4th ed., 1893) and Law and Public Opinion (1905). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to the Study of the Law of the Constitution, fourth edition (Macmillan, 1893) |  | `dicey-law-of-the-constitution-4th-1893` | have-raw (IA `introductiontos00dicegoog`) |
+| Lectures on the Relation between Law and Public Opinion in England (Macmillan, 1905) |  | `dicey-law-and-public-opinion-1905` | have-raw (IA `lecturesonrelat01dicegoog`) |
+
+## Harold J. Laski (pluralist political theory)
+
+Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thought held (no year). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
+| The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
+
+Pending (wishlist): Studies in the Problem of Sovereignty (1917); A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
+
+## Arthur O. Lovejoy (history of ideas)
+
+Shelf: `pipeline/arthur-o-lovejoy_shelf.json`. The Revolt against Dualism (1930, first edition). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Revolt against Dualism (Open Court, 1930, first edition) |  | `lovejoy-revolt-against-dualism-1930` | have-raw (IA `revoltagainstdua032051mbp`) |
 
 ## Perseus census (overflow)
 
