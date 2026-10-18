@@ -7152,3 +7152,20 @@ Slugs `warneck-*`. Modern Missions and Culture and the History of Protestant Mis
 | Modern Missions and Culture new edition (1888); Revell issues of 1901 and 1906 | alternate | not shelved |
 | The Living Forces of the Gospel (1909): by his son Johannes Warneck, not Gustav | excluded | |
 | isbn_9781146427760, a modern reprint; a German Abriss catalogued in English | excluded | |
+
+## Thomas Erskine of Linlathen (round 31, my pick, 2026-10-18)
+
+Slugs `terskine-*`. Scottish lay theologian, in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the Internal Evidence for the Truth of Revealed Religion (Edinburgh: Waugh & Innes, 1821) | have-ocr | IA `remarksonintern00erskgoog` |
+| An Essay on Faith, second edition (Edinburgh: Waugh and Innes, 1822) | have-ocr | IA `anessayonfaith00erskgoog` |
+| The Unconditional Freeness of the Gospel, from the second Edinburgh edition (Boston: Crocker and Brewster, 1828) | have-ocr | IA `unconditionalfre00erskuoft` |
+| The Brazen Serpent; or, Life Coming through Death, second edition (Edinburgh: Waugh & Innes, M.DCCC.XXXI) | have-ocr | IA `brazenserpentorl00ersk` |
+| The Doctrine of Election (London: James Duncan, M DCCC XXXVII) | have-ocr | IA `doctrineofelecti00ersk` |
+| The Spiritual Order and Other Papers (Edinburgh: Edmonston and Douglas, 1871) | have-ocr | IA `spiritualorderot00erskiala` |
+| Letters of Thomas Erskine of Linlathen, 1800-1840, ed. William Hanna (Edinburgh: David Douglas, 1877) | have-ocr | IA `lettersthomaser00erskgoog` |
+| Letters of Thomas Erskine of Linlathen, 1840-1870, ed. William Hanna (Edinburgh: David Douglas, 1877) | have-ocr | IA `lettersthomaser02erskgoog` |
+| Later editions of Remarks (1821-1878), the 1829 Edinburgh Unconditional Freeness and 1870-1879 issues, the 1879 Brazen Serpent, the 1878 Election, the 1876 Spiritual Order, the 1878 and 1884 Letters | alternate | not shelved |
+| Ralph and Ebenezer Erskine (erskines shelf), Lord Erskine, Erskine May, The Beauties of Erskine | excluded | |

@@ -1,0 +1,156 @@
+{
+ "_about": "Public-domain Thomas Erskine of Linlathen (1788-1870, Scottish lay theologian) for the Word Hoard: Remarks on the Internal Evidence for the Truth of Revealed Religion (1821), An Essay on Faith (1822), The Unconditional Freeness of the Gospel (1828), The Brazen Serpent (1831), The Doctrine of Election (1837), The Spiritual Order (1871) and his Letters, ed. William Hanna (2 vols, 1877), from Internet Archive scans. Not Ralph or Ebenezer Erskine, who have their own shelf. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "erskine"
+ ],
+ "_surname": [
+  "erskine",
+  "thomas erskine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "terskine-internal-evidence": [
+   "remarksonintern00erskgoog",
+   "Remarks on the Internal Evidence for the Truth of Revealed Religion (Edinburgh: Waugh & Innes, 1821)"
+  ],
+  "terskine-essay-on-faith": [
+   "anessayonfaith00erskgoog",
+   "An Essay on Faith, second edition (Edinburgh: Waugh and Innes, 1822)"
+  ],
+  "terskine-unconditional-freeness": [
+   "unconditionalfre00erskuoft",
+   "The Unconditional Freeness of the Gospel, from the second Edinburgh edition (Boston: Crocker and Brewster, 1828)"
+  ],
+  "terskine-brazen-serpent": [
+   "brazenserpentorl00ersk",
+   "The Brazen Serpent; or, Life Coming through Death, second edition (Edinburgh: Waugh & Innes, M.DCCC.XXXI)"
+  ],
+  "terskine-doctrine-of-election": [
+   "doctrineofelecti00ersk",
+   "The Doctrine of Election (London: James Duncan, M DCCC XXXVII)"
+  ],
+  "terskine-spiritual-order": [
+   "spiritualorderot00erskiala",
+   "The Spiritual Order and Other Papers (Edinburgh: Edmonston and Douglas, 1871)"
+  ],
+  "terskine-letters-1": [
+   "lettersthomaser00erskgoog",
+   "Letters of Thomas Erskine of Linlathen, 1800-1840, ed. William Hanna (Edinburgh: David Douglas, 1877)"
+  ],
+  "terskine-letters-2": [
+   "lettersthomaser02erskgoog",
+   "Letters of Thomas Erskine of Linlathen, 1840-1870, ed. William Hanna (Edinburgh: David Douglas, 1877)"
+  ]
+ },
+ "_alternates": {
+  "terskine-copies": "Later editions of Remarks (1821-1878), the 1829 Edinburgh Unconditional Freeness and 1870-1879 issues, the 1879 Brazen Serpent, the 1878 Election, the 1876 Spiritual Order, the 1878 and 1884 Letters"
+ },
+ "_excluded": {
+  "terskine-others": "Ralph and Ebenezer Erskine (erskines shelf), Lord Erskine, Erskine May, The Beauties of Erskine"
+ },
+ "_identity_checked": {
+  "terskine-internal-evidence": {
+   "author": "title page read: 'By THOMAS EESKINE, Esq. ADVOCATE' (OCR for ERSKINE)"
+  }
+ },
+ "_rights_checked": {
+  "terskine-internal-evidence": "title page read: 'THOMAS ERSKINE, Esq. Advocate' (OCR 'EESKINE'); no 1820 first edition found on IA",
+  "terskine-letters-2": "title page read: year OCR'd '■877'; vol. I reads 1877"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "terskine-internal-evidence": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'THOMAS ERSKINE, Esq. Advocate' (OCR 'EESKINE'); no 1820 first edition found on IA"
+  },
+  "terskine-essay-on-faith": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terskine-unconditional-freeness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terskine-brazen-serpent": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terskine-doctrine-of-election": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terskine-spiritual-order": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terskine-letters-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terskine-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: year OCR'd '■877'; vol. I reads 1877"
+  }
+ }
+}
