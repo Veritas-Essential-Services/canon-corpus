@@ -7211,3 +7211,12 @@ Slugs `arndt-*`. True Christianity (1868) and The Garden of Paradise (1716).
 | The 1712-1714 London Of True Christianity, the 1809 Boston Books I-II (Chaddock) and the 1815 Jaques edition | alternate | not shelved |
 | His Book of Scripture (1646), tr. under a pseudonym | alternate | not shelved |
 | The 1979 Paulist Press translation | excluded | |
+
+## Johann Gerhard (round 31, my pick, 2026-10-18)
+
+Slugs `jgerhard-*`. Sacred Meditations, tr. Heisler (1896).
+
+| Work | Status | Where |
+|---|---|---|
+| Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society; title page undated, copyright 1896) | have-ocr | IA `sacredmeditation0000revh` |
+| Ralph Winterton's Meditations (Cambridge, from 1627) and its many reprints; A Christian Mans Weekes Worke (1611); Thomas Rowell's Christian's Support (1709, 1715); Holy Meditations (1724): early-printed scans whose dates or translators are garbled | alternate | not shelved |
