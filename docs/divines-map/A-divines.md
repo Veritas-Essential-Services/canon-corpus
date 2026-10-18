@@ -9438,3 +9438,15 @@ Slugs `brainerd-*`. Built from title pages read for round 39.
 | The Gospel the Only True Reformer: Brainerd's Remarks on the Work of Grace among the Indians at Crosweeksung, introduction by Talbot W. Chambers (New York: Board of Publication of the Reformed Protestant Dutch Church, 1856) | have-ocr | IA `gospelonlytruere00brai` |
 | mirabiliadeiinte00b (same 1746 printing); Smellie's 1902 abridged Diary | alternate | not shelved |
 | Edwards's Account of the Life of Brainerd (Boston, 1749), Dwight's 1822 Memoirs, the 1858 Nelson Life and the American Tract Society Life (PG 65066, already on the edwards shelf on other branches): their title pages name Edwards as author | excluded | |
+
+## Eleazar Wheelock (round 39, my pick, 2026-10-18)
+
+Slugs `wheelock-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A plain and faithful Narrative of the Indian Charity-School at Lebanon, in Connecticut (Boston: Richard and Samuel Draper, M.DCC.LXIII) | have-ocr | IA `plainfaithfulnar00whee` |
+| A Continuation of the Narrative of the Indian Charity-School, from Nov. 27th, 1762, to Sept. 3d, 1765 (Boston: Richard and Samuel Draper, 1765) | have-ocr | IA `continuationofna176265whee` |
+| A Continuation of the Narrative of the Indian Charity-School, from the Year 1768 to the Incorporation of it with Dartmouth-College (printed in the year 1771) | have-ocr | IA `continuationofna00inwhee` |
+| Other 1763 copies (and PG 46378); the 1773 Continuation (title page unreadable); the Rochester Reprints facsimiles | alternate | not shelved |
+| The London 1767 and 1769 Narratives, which name him as founder, not author (credited to Nathaniel Whitaker) | excluded | |
