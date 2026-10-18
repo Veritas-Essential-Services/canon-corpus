@@ -5127,6 +5127,7 @@ Shelf: `pipeline/gabriel-tarde_shelf.json`. Social philosophy of imitation.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Laws of Imitation (New York: Henry Holt, 1903) | Elsie Clews Parsons | `tarde-parsons-laws-of-imitation-1903` | have-raw (IA `lawsofimitation00tard`) |
+| Social Laws: an outline of sociology (New York: Macmillan, 1899) | Howard C. Warren | `tarde-warren-social-laws-1899` | have-raw (IA `sociallawsoutlin00tarduoft`) |
 
 ## Joseph de Maistre
 

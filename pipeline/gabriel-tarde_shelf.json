@@ -1,5 +1,5 @@
 {
- "_about": "Gabriel Tarde (1843-1904): The Laws of Imitation, tr. from the second French edition by Elsie Clews Parsons, introduction by Franklin H. Giddings (New York: Henry Holt, 1903), raw IA OCR. US public domain. No uids minted.",
+ "_about": "Gabriel Tarde (1843-1904): The Laws of Imitation, tr. from the second French edition by Elsie Clews Parsons, introduction by Franklin H. Giddings (New York: Henry Holt, 1903), raw IA OCR. Added in round al: Social Laws: an outline of sociology (New York: Macmillan, 1899), tr. Howard C. Warren. US public domain. No uids minted.",
  "_author": "Gabriel Tarde",
  "_name_words": [
   "gabriel",
@@ -15,6 +15,11 @@
    "lawsofimitation00tard",
    "The Laws of Imitation (New York: Henry Holt, 1903)",
    "tr. Elsie Clews Parsons"
+  ],
+  "tarde-warren-social-laws-1899": [
+   "sociallawsoutlin00tarduoft",
+   "Social Laws: an outline of sociology (New York: Macmillan, 1899)",
+   "tr. Howard C. Warren"
   ]
  },
  "_excluded": {},
@@ -24,7 +29,7 @@
  "_checks": {
   "tarde-parsons-laws-of-imitation-1903": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "tarde",
    "translator_claimed": "Parsons",
@@ -33,6 +38,17 @@
    "ia_rights": "ok: published 1903",
    "ia_date": "1903",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tarde-warren-social-laws-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tarde",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
