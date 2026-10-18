@@ -32503,6 +32503,35 @@ Shelf: `pipeline/clark-russell_shelf.json` (2026-10-17; added at the coordinator
 | The Convict Ship, Volume 3 (of 3) | have | PG 64321, `wcrussell-convict-ship-volume-3-of-3` (1205 units) |
 | List, Ye Landsmen! A Romance of Incident | have | PG 66212, `wcrussell-list-ye-landsmen-a-romance-of-incident` (3840 units) |
 
+## George Borrow
+
+Shelf: `pipeline/borrow-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His own books; his translations stay with Lane C. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bible in Spain Or, the Journeys, Adventures, and Imprisonments of an Englishman, in an Attempt to Circulate the Scriptures in the Peninsula | have | PG 415, `gborrow-bible-in-spain` (1927 units) |
+| The Romany Rye | have | PG 422, `gborrow-romany-rye` (1520 units) |
+| Lavengro: The Scholar, the Gypsy, the Priest | have | PG 452, `gborrow-lavengro` (3563 units) |
+| The Zincali: An Account of the Gypsies of Spain | have | PG 565, `gborrow-zincali` (1007 units) |
+| Letters of George Borrow to the British and Foreign Bible Society | have | PG 603, `gborrow-letters-of-george-borrow-to-the-british-and-foreign` (1099 units) |
+| Wild Wales: Its People, Language and Scenery | have | PG 648, `gborrow-wild-wales` (4823 units) |
+| Romano Lavo-Lil: Word Book of the Romany; Or, English Gypsy Language With Specimens of Gypsy Poetry, and an Account of Certain Gypsyries or Places Inhabited by Them, and of Various Things Relating to Gypsy Life in England | have | PG 2733, `gborrow-romano-lavo-lil` (1881 units) |
+| Targum Or Metrical Translations From Thirty Languages And Dialects | have | PG 12510, `gborrow-targum-or-metrical-translations-from-thirty-language` (321 units) |
+| The Romany Rye a sequel to "Lavengro" | have | PG 21206, `gborrow-romany-rye-a-sequel-to-lavengro` (1561 units) |
+| Letters to his mother, Ann Borrow, and other correspondents | have | PG 28784, `gborrow-letters-to-his-mother-ann-borrow-and-other-correspon` (88 units) |
+| Letters to his wife Mary Borrow | have | PG 28814, `gborrow-letters-to-his-wife-mary-borrow` (72 units) |
+| A Supplementary Chapter to the Bible in Spain | have | PG 29469, `gborrow-a-supplementary-chapter-to-the-bible-in-spain` (47 units) |
+| The Welsh and Their Literature from The London Quarterly Review, January 1861, American Edition | have | PG 33336, `gborrow-welsh-and-their-literature-from-the-london-quarterly` (109 units) |
+| The Bible in Spain, Vol. 1 [of 2] Or, the Journeys, Adventures, and Imprisonments of an Englishman in an Attempt to Circulate the Scriptures in the Peninsula | have | PG 35642, `gborrow-bible-in-spain-vol-1-of-2` (1463 units) |
+| The Bible in Spain, Vol. 2 [of 2] Or, the Journeys, Adventures, and Imprisonments of an Englishman in an Attempt to Circulate the Scriptures in the Peninsula | have | PG 35676, `gborrow-bible-in-spain-vol-2-of-2` (2129 units) |
+| Wild Wales: The People, Language, & Scenery | have | PG 37665, `gborrow-wild-wales-37665` (4767 units) |
+| George Borrow's Second Tour in Wales (ed. T. C. Cantrill and J. Pringle from Borrow's notes) | have | PG 62073, `gborrow-george-borrows-second-tour-in-wales` (111 units) |
+| repeat-editions | excluded | PG 20198, 23287, 30792, 22878, 25071, 54048: second Gutenberg editions of titles already on the shelf. |
+| pg-12458 | excluded | Borrow's translations (Pushkin's Talisman and the Danish and other ballads Thomas J. Wise printed in 1913-1914): PG 12458, 27409, 28816, 28817, 28818, 28824, 28825, 28826, 28830, 28834, 28835, 28985, 28986, 29103, 29123, 29649. Translations are Lane C's area (its borrow-translations shelf); not taken here. |
+| pg-13957 | excluded | PG 13957 The Pocket George Borrow: passages compiled by Edward Thomas. |
+| pg-18400 | excluded | PG 18400 Isopel Berners: an episode extracted from Lavengro (ed. Seccombe); the shelf holds the whole book. |
+| pg-22877 | excluded | PG 22877 Lavengro (ed. Groome): a second edition of PG 452. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

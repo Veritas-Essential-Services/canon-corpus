@@ -3285,6 +3285,14 @@
       "started": "2026-10-17T21:25:20-05:00",
       "finished": "2026-10-17T21:25:20-05:00",
       "notes": "clark-russell: new shelf, 42 Gutenberg books, 47,073 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "borrow-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Borrow; no minting",
+      "status": "done",
+      "started": "2026-10-17T21:25:21-05:00",
+      "finished": "2026-10-17T21:25:21-05:00",
+      "notes": "borrow-works: new shelf, 17 Gutenberg books, 26,488 units, 1165 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
