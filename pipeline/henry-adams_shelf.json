@@ -1,0 +1,44 @@
+{
+ "_about": "Henry Adams (1838-1918), historian and philosopher of history: Mont-Saint-Michel and Chartres, with an introduction by Ralph Adams Cram (the first published edition, Boston: Houghton Mifflin, 1913, after the private printings) and The Education of Henry Adams, with Henry Cabot Lodge's editor's preface (Boston: Houghton Mifflin, 1918). Clean Gutenberg texts; the etexts name no printing, so the editions are inferred from their prefaces. Not taken: the novels and the nine-volume History of the United States. US public domain. No uids minted.",
+ "_author": "Henry Adams",
+ "_name_words": [
+  "henry",
+  "adams"
+ ],
+ "_surname": [
+  "adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "henry-adams-mont-saint-michel-chartres-1913": [
+   4584,
+   "Mont-Saint-Michel and Chartres, intro. Ralph Adams Cram (1913)"
+  ],
+  "henry-adams-education-1918": [
+   2044,
+   "The Education of Henry Adams (1918)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "henry-adams-mont-saint-michel-chartres-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henry-adams-education-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
