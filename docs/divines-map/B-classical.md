@@ -6220,6 +6220,8 @@ Shelf: `pipeline/james-fitzjames-stephen_shelf.json`. Sir James Fitzjames Stephe
 | A History of the Criminal Law of England, vol. I (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v1` | have-raw (IA `cu31924069583767`) |
 | A History of the Criminal Law of England, vol. II (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v2` | have-raw (IA `cu31924069587222`) |
 | A History of the Criminal Law of England, vol. III (Macmillan, 1883) |  | `fitzjames-stephen-criminal-law-1883-v3` | have-raw (IA `cu31924069587230`) |
+| Horae Sabbaticae, first series (Macmillan, 1892) |  | `stephen-horae-sabbaticae-1892-v1` | have-raw (IA `horaesabbaticaer01stepuoft`) |
+| Horae Sabbaticae, third series (Macmillan, 1892) |  | `stephen-horae-sabbaticae-1892-v3` | have-raw (IA `horaesabbaticaer03step`) |
 
 Pending (wishlist): Horae Sabbaticae, second series (1892), in a dated scan
 

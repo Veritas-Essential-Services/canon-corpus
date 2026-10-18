@@ -1,5 +1,5 @@
 {
- "_about": "Sir James Fitzjames Stephen (1829-1894), judge, Mill's sharpest critic: Liberty, Equality, Fraternity (New York: Holt & Williams, 1873), raw IA OCR, clean 0.94. Not to be confused with the leslie-stephen shelf (his brother). US public domain. Added in round 2026-10-17bl: A History of the Criminal Law of England, 3 vols. (London: Macmillan, 1883), raw IA OCR, clean 0.90, 0.91 and 0.86. No uids minted.",
+ "_about": "Sir James Fitzjames Stephen (1829-1894), judge, Mill's sharpest critic: Liberty, Equality, Fraternity (New York: Holt & Williams, 1873), raw IA OCR, clean 0.94. Not to be confused with the leslie-stephen shelf (his brother). US public domain. Added in round 2026-10-17bl: A History of the Criminal Law of England, 3 vols. (London: Macmillan, 1883), raw IA OCR, clean 0.90, 0.91 and 0.86. Added in round 2026-10-17bs: Horae Sabbaticae, reprint of articles contributed to the Saturday Review (London: Macmillan, 1892), first and third series, clean 0.93 each. Held: the second series, whose scans show no year. No uids minted.",
  "_author": "James Fitzjames Stephen",
  "_name_words": [
   "james",
@@ -27,6 +27,14 @@
   "fitzjames-stephen-criminal-law-1883-v3": [
    "cu31924069587230",
    "A History of the Criminal Law of England, vol. III (Macmillan, 1883)"
+  ],
+  "stephen-horae-sabbaticae-1892-v1": [
+   "horaesabbaticaer01stepuoft",
+   "Horae Sabbaticae, first series (Macmillan, 1892)"
+  ],
+  "stephen-horae-sabbaticae-1892-v3": [
+   "horaesabbaticaer03step",
+   "Horae Sabbaticae, third series (Macmillan, 1892)"
   ]
  },
  "_excluded": {},
@@ -73,6 +81,28 @@
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stephen-horae-sabbaticae-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stephen-horae-sabbaticae-1892-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
