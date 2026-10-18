@@ -5809,6 +5809,12 @@ Shelf: `pipeline/john-c-calhoun_shelf.json`. Cralle's Works, 6 vols. (1854-56), 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Works, ed. R. K. Cralle, vol. 1: A Disquisition on Government and A Discourse on the Constitution and Government of the United States (New York: Appleton, 1854) |  | `calhoun-works-cralle-v1` | have-raw (IA `worksofjohnccalh01calh`) |
+| The Works, ed. R. K. Cralle, vol. 2: Speeches, vol. I (New York: Appleton, 1856, the OCR garbles the numeral) |  | `calhoun-works-cralle-v2` | have-raw (IA `worksofjohnccalh02calh`) |
+| The Works, ed. R. K. Cralle, vol. 3: Speeches, vol. II (New York: Appleton, 1854 or 1855, the OCR shows both) |  | `calhoun-works-cralle-v3` | have-raw (IA `worksofjohnccalh03calh`) |
+| The Works, ed. R. K. Cralle, vol. 4: Speeches, vol. III (New York: Appleton, 1856) |  | `calhoun-works-cralle-v4` | have-raw (IA `worksofjohnccalh04calh`) |
+| The Works, ed. R. K. Cralle, vol. 5: Reports and Public Letters (New York: Appleton, 1855) |  | `calhoun-works-cralle-v5` | have-raw (IA `worksofjohnccalh05calh`) |
+| The Works, ed. R. K. Cralle, vol. 6: Reports and Public Letters, continued (New York: Appleton, 1855) |  | `calhoun-works-cralle-v6` | have-raw (IA `worksofjohnccalh06calh`) |
 
 ## Giuseppe Mazzini (political writings)
 
