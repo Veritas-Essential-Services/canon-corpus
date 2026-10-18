@@ -235,3 +235,4 @@
 - 19:29 round aq: 14 volumes (Bacon Letters and Life, Malthus 1826, Bentham Rationale); Hobbes 8-11 dropped as duplicates.
 - 19:36 round ar: 5 new shelves (Bayle, Schelling, Glanvill, Toland, Chubb) and Arber's Utopia; inferred years noted on Bayle I/III and Toland.
 - 19:40 round as: Roger Bacon, John of Salisbury and Donoso Cortes shelved; Wolff's Logic held (OCR).
+- 19:45 round at: 6 new shelves (Hotman, Selden, Fortescue, Buchanan, Millar, Monboddo); Filmer and Oswald held under the OCR gate.

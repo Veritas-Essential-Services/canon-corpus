@@ -1069,3 +1069,12 @@
 - Glanvill: Saducismus Triumphatus, 3rd ed. (1700)
 - Held: Christian Wolff, Logic (1770), OCR 0.743
 - Checked and left: no PD English text found on IA for Erigena, Pomponazzi, Hamann or Beneke; Hugh of St Victor's Explanation of the Rule of St Augustine (1911) is devotional and left for lane A; Trendelenburg's only English is Broughton's 1898 interleaving crib of the Elementa (Aristotle extracts, 12k words), not taken
+
+## 2026-10-17 19:45 CDT — Round at: political and Scottish philosophy gaps
+- Hotman: Franco-Gallia, tr. Molesworth (1721, PG 17894)
+- Selden: Table-Talk, ed. Arber (1868)
+- Fortescue: Governance of England, ed. Plummer (1885)
+- Buchanan: De Jure Regni apud Scotos in English (1689)
+- Millar: Distinction of Ranks, 2nd ed. (1773)
+- Monboddo: Antient Metaphysics, 6 vols. (1779-99); vol. VI year from catalogue
+- Held under the OCR gate: Filmer's Patriarcha (1680), Oswald's Appeal (1766), the 1799 Buchanan Dialogue
