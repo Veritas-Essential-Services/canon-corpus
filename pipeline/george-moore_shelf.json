@@ -1,0 +1,233 @@
+{
+ "_about": "George Moore's (1852-1933) novels and memoirs: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Moore",
+ "_name_words": [
+  "moore"
+ ],
+ "_surname": [
+  "george moore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gmoore-untilled-field": [
+   4034,
+   "The Untilled Field",
+   {
+    "contents_only": true
+   }
+  ],
+  "gmoore-celibates": [
+   6005,
+   "Celibates",
+   {
+    "contents_only": true
+   }
+  ],
+  "gmoore-spring-days": [
+   6029,
+   "Spring Days"
+  ],
+  "gmoore-a-mummers-wife": [
+   7508,
+   "A Mummer's Wife"
+  ],
+  "gmoore-memoirs-of-my-dead-life": [
+   7789,
+   "Memoirs of My Dead Life"
+  ],
+  "gmoore-esther-waters": [
+   8157,
+   "Esther Waters"
+  ],
+  "gmoore-modern-painting": [
+   8162,
+   "Modern Painting"
+  ],
+  "gmoore-vain-fortune": [
+   11303,
+   "Vain Fortune: A Novel"
+  ],
+  "gmoore-lake": [
+   11304,
+   "The Lake"
+  ],
+  "gmoore-confessions-of-a-young-man": [
+   11654,
+   "Confessions of a Young Man"
+  ],
+  "gmoore-a-mere-accident": [
+   11733,
+   "A Mere Accident"
+  ],
+  "gmoore-brook-kerith": [
+   12821,
+   "The Brook Kerith: A Syrian story"
+  ],
+  "gmoore-evelyn-innes": [
+   13201,
+   "Evelyn Innes"
+  ],
+  "gmoore-sister-teresa": [
+   14614,
+   "Sister Teresa"
+  ],
+  "gmoore-muslin": [
+   14659,
+   "Muslin"
+  ],
+  "gmoore-mike-fletcher": [
+   16730,
+   "Mike Fletcher: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 12278: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "gmoore-untilled-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-celibates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-spring-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-a-mummers-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-memoirs-of-my-dead-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-esther-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-modern-painting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-vain-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-confessions-of-a-young-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-a-mere-accident": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-brook-kerith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-evelyn-innes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-sister-teresa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-muslin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmoore-mike-fletcher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

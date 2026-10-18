@@ -8897,6 +8897,30 @@ Shelf: `pipeline/marie-corelli_shelf.json` (2026-10-17; added at the coordinator
 | The passing of the great Queen: A tribute to the noble life of Victoria Regina | have | PG 69023, `mcorelli-passing-of-the-great-queen` (70 units) |
 | A Christmas greeting | have | PG 69600, `mcorelli-a-christmas-greeting` (605 units) |
 
+## George Moore
+
+Shelf: `pipeline/george-moore_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Untilled Field | have | PG 4034, `gmoore-untilled-field` (2080 units) |
+| Celibates | have | PG 6005, `gmoore-celibates` (2389 units) |
+| Spring Days | have | PG 6029, `gmoore-spring-days` (2243 units) |
+| A Mummer's Wife | have | PG 7508, `gmoore-a-mummers-wife` (2662 units) |
+| Memoirs of My Dead Life | have | PG 7789, `gmoore-memoirs-of-my-dead-life` (838 units) |
+| Esther Waters | have | PG 8157, `gmoore-esther-waters` (3161 units) |
+| Modern Painting | have | PG 8162, `gmoore-modern-painting` (441 units) |
+| Vain Fortune: A Novel | have | PG 11303, `gmoore-vain-fortune` (1180 units) |
+| The Lake | have | PG 11304, `gmoore-lake` (891 units) |
+| Confessions of a Young Man | have | PG 11654, `gmoore-confessions-of-a-young-man` (481 units) |
+| A Mere Accident | have | PG 11733, `gmoore-a-mere-accident` (714 units) |
+| The Brook Kerith: A Syrian story | have | PG 12821, `gmoore-brook-kerith` (613 units) |
+| Evelyn Innes | have | PG 13201, `gmoore-evelyn-innes` (2538 units) |
+| Sister Teresa | have | PG 14614, `gmoore-sister-teresa` (2412 units) |
+| Muslin | have | PG 14659, `gmoore-muslin` (1871 units) |
+| Mike Fletcher: A Novel | have | PG 16730, `gmoore-mike-fletcher` (1613 units) |
+| repeat-editions | excluded | PG 12278: second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
