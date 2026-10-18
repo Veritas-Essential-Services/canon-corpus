@@ -6234,6 +6234,21 @@ Slugs `moberly-*`. Oxford Regius Professor of Pastoral Theology; written in Engl
 | Sorrow, Sin, and Beauty: three short series of addresses (London: John Murray, 1903) | have-ocr | IA `sorrowsinbeautyt00mobe` |
 | Atonement (1901 reprint), Ministerial Priesthood (1897), Reason and Religion (1896), Sorrow, Sin, and Beauty (1904) | alternate | not shelved |
 | Atonement copies of 1904, 1907, 1909, 1917, 1924 (two wrongly catalogued 1901) | excluded | |
+
+## W. J. Knox Little (round 28, my pick, 2026-10-18)
+
+Slugs `knox-little-*`. Anglo-Catholic preacher; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Characteristics and Motives of the Christian Life, new and revised edition (New York: E. and J. B. Young, MDCCCLXXXI) | have-ocr | IA `CharacteristicsAndMotives` |
+| The Mystery of the Passion of our Most Holy Redeemer (New York: E. & J. B. Young, MDCCCLXXXI) | have-ocr | IA `OurMostHolyRedeemer` |
+| The Hopes and Decisions of the Passion of our Most Holy Redeemer (London: Rivingtons, MDCCCLXXXVI) | have-ocr | IA `hopesdecisionsof00littrich` |
+| The Light of Life: sermons preached on various occasions (London: Rivingtons, MDCCCLXXXIX) | have-ocr | IA `lightoflifesermo00litt` |
+| Sunlight and Shadow in the Christian Life, new edition (London: Longmans, Green, 1892) | have-ocr | IA `sunlightshadowin0000wjkn` |
+| Sacerdotalism, if rightly understood, the teaching of the Church of England (London: Longmans, Green, 1894) | have-ocr | IA `sacerdotalismifr00littrich` |
+| Mystery of the Passion second edition (1882); Characteristics third and fourth editions; Light of Life new edition (1892); Sermons preached in Manchester (1892) | alternate | not shelved |
+| PG 37501 and PG 11693: anthologies of many preachers | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
