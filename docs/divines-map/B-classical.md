@@ -5413,6 +5413,8 @@ Shelf: `pipeline/thomas-chubb_shelf.json`. A Collection of Tracts, second editio
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
+| A Collection of Tracts on Various Subjects, second edition, vol. I (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v1` | have-raw (IA `acollectiontrac01chubgoog`) |
+| A Collection of Tracts on Various Subjects, second edition, vol. II (London: T. Cox, 1754) |  | `chubb-collection-of-tracts-1754-v2` | have-raw (IA `collectionoftrac02chub`) |
 
 ## Perseus census (overflow)
 

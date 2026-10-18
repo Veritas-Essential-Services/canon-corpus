@@ -1,0 +1,49 @@
+{
+ "_about": "Thomas Chubb (1679-1747), the Salisbury deist: A Collection of Tracts on Various Subjects, second edition (London: T. Cox, 1754, 2 vols.), raw IA OCR; vol. I reads 0.83 and vol. II 0.89. US public domain. No uids minted.",
+ "_author": "Thomas Chubb",
+ "_name_words": [
+  "thomas",
+  "chubb"
+ ],
+ "_surname": [
+  "chubb"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chubb-collection-of-tracts-1754-v1": [
+   "acollectiontrac01chubgoog",
+   "A Collection of Tracts on Various Subjects, second edition, vol. I (London: T. Cox, 1754)"
+  ],
+  "chubb-collection-of-tracts-1754-v2": [
+   "collectionoftrac02chub",
+   "A Collection of Tracts on Various Subjects, second edition, vol. II (London: T. Cox, 1754)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "chubb-collection-of-tracts-1754-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chubb",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chubb-collection-of-tracts-1754-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chubb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
