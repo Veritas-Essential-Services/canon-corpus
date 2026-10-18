@@ -5948,3 +5948,22 @@ Slugs `froude-remains-*`. Tractarian; three of the four volumes of his Remains (
 | Other copies of all four volumes | alternate | not shelved |
 | Lyra Apostolica and the Tracts for the Times: several authors | excluded | |
 | Guiney's Hurrell Froude (PG 58007) | excluded | |
+
+## Robert Hugh Benson (round 27, my pick, 2026-10-17)
+
+Slugs `benson-*`. Catholic convert and apologist; his non-fiction only, every printing before 1930.
+
+| Work | Status | Where |
+|---|---|---|
+| Paradoxes of Catholicism (preface dated Easter 1913) | have-clean | Gutenberg 16309 |
+| Lourdes (St. Louis: B. Herder; London: Manresa Press, 1914) | have-clean | Gutenberg 18729 |
+| The Religion of the Plain Man (London: Burns and Oates, 1906) | have-ocr | IA `religionofplainm00bens` |
+| Non-Catholic Denominations (London: Longmans, Green, 1910) | have-ocr | IA `NonCatholicDenominations` |
+| Christ in the Church: a Volume of Religious Essays (London: Longmans, Green, 1911) | have-ocr | IA `christinchurchvo00bens` |
+| The Friendship of Christ (London: Longmans, Green, 1912) | have-ocr | IA `TheFriendshipOfChrist` |
+| Confessions of a Convert (London: Longmans, Green, 1913) | have-ocr | IA `confessionsofcon00bensuoft` |
+| Spiritual Letters of Monsignor R. Hugh Benson to one of his converts, preface by A. C. Benson, second impression (London: Longmans, Green, 1915) | have-ocr | IA `spiritualletters00bensuoft` |
+| Paradoxes of Catholicism (London: Longmans, 1913; ParadoxesOfCatholicism) | alternate | not shelved |
+| New York and St. Louis issues of Confessions, Christ in the Church and Friendship of Christ; later impressions | alternate | not shelved |
+| His novels and plays | excluded | |
+| Modern reprints | excluded | |
