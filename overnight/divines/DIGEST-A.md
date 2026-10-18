@@ -901,6 +901,7 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | Narsai | narsai_shelf.json | none | 1 (The Liturgical Homilies of Narsai, tr. R. H. Connolly, with an appendix by Edmund Bishop, Texts and Studies VIII.1 (Cambridge: University Press, 1909)) | none | Mingana's Syriac edition (1905) and later Syriac printings |
 | Philoxenus of Mabbug | philoxenus-of-mabbug_shelf.json | none | 2 (The Discourses of Philoxenus, Bishop of Mabbogh, vol. II, Introduction, Translation, etc., by E. A. Wallis Budge (London: Asher & Co., 1894); Three Letters of Philoxenus, Bishop of Mabbogh, with an English translation, by Arthur Adolphe Vaschalde (Tipografia della R. Accademia dei Lincei, 1902)) | none | Vol. I of the Discourses (Syriac text only) |
 | Isaac of Nineveh | isaac-of-nineveh_shelf.json | none | 1 (Mystic Treatises by Isaac of Nineveh, tr. A. J. Wensinck, Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afd. Letterkunde, Nieuwe Reeks XXIII.1 (Amsterdam, 1923)) | none |  |
+| Thomas of Marga | thomas-of-marga_shelf.json | none | 1 (The Book of Governors: the Historia Monastica of Thomas, Bishop of Marga, vol. II, The English Translation, edited by E. A. Wallis Budge (London: Kegan Paul, Trench, Trübner, 1893)) | none | Vol. I (Syriac text); Bedjan's Syriac edition (1901) |
 
 ## Paused 2026-10-10 15:12 CDT
 

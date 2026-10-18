@@ -9313,6 +9313,16 @@ Slugs `isaac-*`. Built from title pages read for round 38.
 |---|---|---|
 | Mystic Treatises by Isaac of Nineveh, tr. A. J. Wensinck, Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afd. Letterkunde, Nieuwe Reeks XXIII.1 (Amsterdam, 1923) | have-ocr | IA `IsaacOfNinevehMysticTreatises` |
 | isaac_of_nineveh_mystical_treatises (another scan; its OCR reads 1933, a garble for 1923) | alternate | not shelved |
+
+## Thomas of Marga (round 38, my pick, 2026-10-18)
+
+Slugs `marga-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Governors: the Historia Monastica of Thomas, Bishop of Marga, vol. II, The English Translation, edited by E. A. Wallis Budge (London: Kegan Paul, Trench, Trübner, 1893) | have-ocr | IA `bookofgovernorsh0002thom` |
+| Four other copies of vol. II (the Google ids' numbers do not match their volumes) | alternate | not shelved |
+| Vol. I (Syriac text); Bedjan's Syriac edition (1901) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

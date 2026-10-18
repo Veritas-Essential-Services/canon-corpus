@@ -1951,3 +1951,6 @@
 
 ## 2026-10-17 23:13 CDT — isaac-of-nineveh done
 - `pipeline/isaac-of-nineveh_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — thomas-of-marga done
+- `pipeline/thomas-of-marga_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

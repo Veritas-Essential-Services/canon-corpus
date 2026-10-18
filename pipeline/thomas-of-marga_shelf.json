@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Thomas of Marga (9th century), bishop and monastic historian of the Church of the East, for the Word Hoard: The Book of Governors, the Historia Monastica, vol. II, the English translation, edited by E. A. Wallis Budge (1893), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas"
+ ],
+ "_surname": [
+  "thomas of marga",
+  "thomas, bishop of marga",
+  "thomas"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marga-book-of-governors-2": [
+   "bookofgovernorsh0002thom",
+   "The Book of Governors: the Historia Monastica of Thomas, Bishop of Marga, vol. II, The English Translation, edited by E. A. Wallis Budge (London: Kegan Paul, Trench, Trübner, 1893)"
+  ]
+ },
+ "_alternates": {
+  "marga-copies": "Four other copies of vol. II (the Google ids' numbers do not match their volumes)"
+ },
+ "_excluded": {
+  "marga-other": "Vol. I (Syriac text); Bedjan's Syriac edition (1901)"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "marga-book-of-governors-2": "budge"
+ },
+ "_checks": {
+  "marga-book-of-governors-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas of marga",
+   "translator_claimed": "budge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
