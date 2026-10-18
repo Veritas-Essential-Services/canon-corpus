@@ -1,0 +1,69 @@
+{
+ "_about": "Alfred Sidgwick (1850-1943), English logician of the pragmatist side, cousin of Henry Sidgwick (shelf henry-sidgwick). Raw IA OCR: Fallacies, a view of logic from the practical side (Kegan Paul, International Scientific Series, 1885); Distinction and the Criticism of Beliefs (Longmans, 1892); Elementary Logic (Cambridge, 1914). He died in 1943, but every book here was published before 1930, so US public domain. No uids minted.",
+ "_author": "Alfred Sidgwick",
+ "_name_words": [
+  "alfred",
+  "sidgwick"
+ ],
+ "_surname": [
+  "sidgwick",
+  "alfred sidgwick"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sidgwick-fallacies-1885": [
+   "fallaciesviewofl00sidg_0",
+   "Fallacies, a view of logic from the practical side (Kegan Paul, 1885)"
+  ],
+  "sidgwick-distinction-and-criticism-of-beliefs-1892": [
+   "cu31924095617605",
+   "Distinction and the Criticism of Beliefs (Longmans, 1892)"
+  ],
+  "sidgwick-elementary-logic-1914": [
+   "cu31924029146666",
+   "Elementary Logic (Cambridge, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "sidgwick-elementary-logic-1914": {
+   "author": "Alfred Sidgwick (title page OCR reads 'ALFRED IJDGWICK, Author of The Application of Logic, The Use of Words in Reasoning, The Process of Argument'; Cambridge, 1914)"
+  }
+ },
+ "_checks": {
+  "sidgwick-fallacies-1885": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-distinction-and-criticism-of-beliefs-1892": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidgwick-elementary-logic-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

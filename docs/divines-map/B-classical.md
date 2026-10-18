@@ -7737,6 +7737,9 @@ Shelf: `pipeline/alfred-sidgwick_shelf.json`. Three books, 1885-1914.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Fallacies, a view of logic from the practical side (Kegan Paul, 1885) |  | `sidgwick-fallacies-1885` | have-raw (IA `fallaciesviewofl00sidg_0`) |
+| Distinction and the Criticism of Beliefs (Longmans, 1892) |  | `sidgwick-distinction-and-criticism-of-beliefs-1892` | have-raw (IA `cu31924095617605`) |
+| Elementary Logic (Cambridge, 1914) |  | `sidgwick-elementary-logic-1914` | have-raw (IA `cu31924029146666`) |
 
 ## E. E. Constance Jones (logic of propositions)
 
