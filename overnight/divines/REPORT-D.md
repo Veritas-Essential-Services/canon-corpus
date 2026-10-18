@@ -1467,3 +1467,6 @@
 
 ## 2026-10-17 20:30 CDT — tarkington-works: done
 - tarkington-works: new shelf, 25 Gutenberg books, 34,517 units, 1065 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:30 CDT — buchan-works: done
+- buchan-works: new shelf, 16 Gutenberg books, 18,482 units, 189 ~2 ids; verify 0 mismatches, 0 rights flags.

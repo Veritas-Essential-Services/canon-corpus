@@ -1,0 +1,254 @@
+{
+ "_about": "John Buchan's Hannay thrillers, other novels, stories and histories not already on another shelf; pre-1931 US publications only: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "John Buchan",
+ "_name_words": [
+  "buchan"
+ ],
+ "_surname": [
+  "john buchan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jbuchan-greenmantle": [
+   559,
+   "Greenmantle",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-mr-standfast": [
+   560,
+   "Mr. Standfast"
+  ],
+  "jbuchan-prester-john": [
+   611,
+   "Prester John"
+  ],
+  "jbuchan-huntingtower": [
+   3782,
+   "Huntingtower"
+  ],
+  "jbuchan-salute-to-adventurers": [
+   10046,
+   "Salute to Adventurers",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-half-hearted": [
+   17047,
+   "The Half-Hearted",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-african-colony": [
+   34548,
+   "The African Colony: Studies in the Reconstruction",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-john-burnet-of-barns": [
+   40014,
+   "John Burnet of Barns: A Romance"
+  ],
+  "jbuchan-sir-quixote-of-the-moors-being-some-account-of-an-ep": [
+   46345,
+   "Sir Quixote of the Moors Being some account of an episode in the life of the Sieur de Rohaine",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-watcher-by-the-threshold": [
+   57402,
+   "The Watcher by the Threshold"
+  ],
+  "jbuchan-power-house": [
+   57631,
+   "The Power-House",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-midwinter": [
+   59178,
+   "Midwinter: Certain Travellers in Old England",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-last-secrets": [
+   60948,
+   "The Last Secrets: The Final Mysteries of Exploration"
+  ],
+  "jbuchan-history-of-the-south-african-forces-in-france": [
+   76673,
+   "The history of the South African forces in France",
+   {
+    "contents_only": true
+   }
+  ],
+  "jbuchan-francis-and-riversdale-grenfell": [
+   77309,
+   "Francis and Riversdale Grenfell"
+  ],
+  "jbuchan-poems-scots-and-english": [
+   77335,
+   "Poems, Scots and English"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 558: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {
+  "post-1930": "HELD: PG 49540 Days to Remember (with Sir Henry Newbolt; first published 1923) names 1935 and 1937 printings in the front matter, so the text may be a later printing with new matter; not taken until checked."
+ },
+ "_checks": {
+  "jbuchan-greenmantle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-mr-standfast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-prester-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-huntingtower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-salute-to-adventurers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-half-hearted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-african-colony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-john-burnet-of-barns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-sir-quixote-of-the-moors-being-some-account-of-an-ep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-watcher-by-the-threshold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-power-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-midwinter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-last-secrets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-history-of-the-south-african-forces-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-francis-and-riversdale-grenfell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbuchan-poems-scots-and-english": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john buchan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

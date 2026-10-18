@@ -10073,6 +10073,30 @@ Shelf: `pipeline/tarkington-works_shelf.json` (2026-10-17; added at the coordina
 | The collector's whatnot (with Hugh MacNair Kahler and Kenneth L. Roberts) | have | PG 70597, `btarkington-collectors-whatnot` (548 units) |
 | pg-57721 | excluded | PG 57721: Gutenberg's index of the author's works, not a book. |
 
+## John Buchan
+
+Shelf: `pipeline/buchan-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Greenmantle | have | PG 559, `jbuchan-greenmantle` (1710 units) |
+| Mr. Standfast | have | PG 560, `jbuchan-mr-standfast` (1949 units) |
+| Prester John | have | PG 611, `jbuchan-prester-john` (977 units) |
+| Huntingtower | have | PG 3782, `jbuchan-huntingtower` (1407 units) |
+| Salute to Adventurers | have | PG 10046, `jbuchan-salute-to-adventurers` (1534 units) |
+| The Half-Hearted | have | PG 17047, `jbuchan-half-hearted` (1635 units) |
+| The African Colony: Studies in the Reconstruction | have | PG 34548, `jbuchan-african-colony` (808 units) |
+| John Burnet of Barns: A Romance | have | PG 40014, `jbuchan-john-burnet-of-barns` (1396 units) |
+| Sir Quixote of the Moors Being some account of an episode in the life of the Sieur de Rohaine | have | PG 46345, `jbuchan-sir-quixote-of-the-moors-being-some-account-of-an-ep` (410 units) |
+| The Watcher by the Threshold | have | PG 57402, `jbuchan-watcher-by-the-threshold` (825 units) |
+| The Power-House | have | PG 57631, `jbuchan-power-house` (583 units) |
+| Midwinter: Certain Travellers in Old England | have | PG 59178, `jbuchan-midwinter` (1661 units) |
+| The Last Secrets: The Final Mysteries of Exploration | have | PG 60948, `jbuchan-last-secrets` (540 units) |
+| The history of the South African forces in France | have | PG 76673, `jbuchan-history-of-the-south-african-forces-in-france` (1923 units) |
+| Francis and Riversdale Grenfell | have | PG 77309, `jbuchan-francis-and-riversdale-grenfell` (735 units) |
+| Poems, Scots and English | have | PG 77335, `jbuchan-poems-scots-and-english` (389 units) |
+| held-elsewhere | excluded | PG 558: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
