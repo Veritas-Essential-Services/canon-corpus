@@ -8755,6 +8755,16 @@ Slugs `labbott-*`. Built from title pages read for round 36.
 | What Christianity Means to Me (New York: Macmillan, 1921) | have-ocr | IA `whatchristianity00abbo` |
 | Later printings of the Theology and Christianity and Social Problems; his novel Laicus (PG 4954, 1872) | alternate | not shelved |
 | Anthologies he only edited or annotated (PG 7167, PG 16786) | excluded | |
+
+## Elizabeth Rundle Charles (round 36, my pick, 2026-10-18)
+
+Slugs `ercharles-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| Ecce Ancilla Domini: Mary the Mother of our Lord, Studies in the Christian Ideal of Womanhood (London: SPCK; New York: E. and J. B. Young, 1894) | have-ocr | IA `ecceancilladomin0000elis` |
+| Te Deum Laudamus, 'by the late Mrs. Rundle Charles' (fifth edition, 1897), the revised Voice of Christian Life in Song | alternate | not shelved |
+| Luther's Watchwords for the Warfare of Life, which she selected and translated; her novels and tales; a 1969 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
