@@ -13799,11 +13799,12 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 
 ## C. I. Lewis
 
-Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic; only the 1918 Survey is before 1931.
+Shelf: `pipeline/c-i-lewis_shelf.json`. Symbolic logic and theory of knowledge; the 1918 Survey and Mind and the World-Order (1929) are before 1931.
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | A Survey of Symbolic Logic (Berkeley: University of California Press, 1918) |  | `lewis-survey-of-symbolic-logic-1918` | have-raw (IA `asurveyofsymboli00lewiuoft`) |
+| Mind and the World-Order, outline of a theory of knowledge (London and New York: Scribner, 1929) |  | `lewis-mind-and-the-world-order-1929` | have-raw (IA `in.ernet.dli.2015.76173`) |
 
 ## William Ernest Hocking
 
@@ -16430,6 +16431,141 @@ Shelf: `pipeline/susan-stebbing_shelf.json`. One book, 1914.
 | Pragmatism and French Voluntarism (Cambridge, 1914) |  | `stebbing-pragmatism-and-french-voluntarism-1914` | have-raw (IA `pragmatismfrench00stebrich`) |
 
 Pending (wishlist): A Modern Introduction to Logic (1930; only an undated Crowell printing found).
+
+## James Rowland Angell (functional psychology)
+
+Shelf: `pipeline/james-rowland-angell_shelf.json`. Three books, 1908-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Psychology, 4th ed. revised (Holt, 1908) |  | `angell-psychology-1908` | have-raw (IA `psychology00angegoog`) |
+| Chapters from Modern Psychology (Longmans, 1912; impression of 1913) |  | `angell-chapters-from-modern-psychology-1912` | have-raw (IA `chaptersfrommode00ange`) |
+| An Introduction to Psychology (Holt, 1918) |  | `angell-introduction-to-psychology-1918` | have-raw (IA `introductiontops00ange`) |
+
+## Joseph Jastrow (experimental psychology)
+
+Shelf: `pipeline/joseph-jastrow_shelf.json`. Six books, 1890-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Time-Relations of Mental Phenomena (Hodges, 1890) |  | `jastrow-time-relations-of-mental-phenomena-1890` | have-raw (IA `timerelationsofm00jastuoft`) |
+| Fact and Fable in Psychology (Macmillan, 1901) |  | `jastrow-fact-and-fable-in-psychology-1901` | have-raw (IA `factfableinpsych01jast`) |
+| The Subconscious (Houghton Mifflin, 1905) |  | `jastrow-subconscious-1905` | have-raw (IA `subconscious00jast`) |
+| The Qualities of Men (Houghton Mifflin, 1910) |  | `jastrow-qualities-of-men-1910` | have-raw (IA `qualitiesmenane02jastgoog`) |
+| Character and Temperament (Appleton, 1915) |  | `jastrow-character-and-temperament-1915` | have-raw (IA `cu31924029121049`) |
+| The Psychology of Conviction (Houghton Mifflin, 1918) |  | `jastrow-psychology-of-conviction-1918` | have-raw (IA `psychologyofconv00jastuoft`) |
+
+## Edward L. Thorndike (psychology of learning)
+
+Shelf: `pipeline/edward-l-thorndike_shelf.json`. Five volumes, 1907-1913.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Elements of Psychology, 2nd ed. (Seiler, 1907) |  | `thorndike-elements-of-psychology-1907` | have-raw (IA `elementsofpsycho05thor`) |
+| Animal Intelligence (Macmillan, 1911) |  | `thorndike-animal-intelligence-1911` | have-raw (IA `animalintellige00thorgoog`) |
+| Individuality (Houghton Mifflin, 1911) |  | `thorndike-individuality-1911` | have-raw (IA `individuality00tho`) |
+| Educational Psychology, vol. I: The Original Nature of Man (Teachers College, 1913) |  | `thorndike-educational-psychology-1913-v1` | have-raw (IA `educationalpsych01thoriala`) |
+| Educational Psychology, vol. II: The Psychology of Learning (Teachers College, 1913; printing of 1921) |  | `thorndike-educational-psychology-1913-v2` | have-raw (IA `educationalpsych02thor`) |
+
+Pending (wishlist): Educational Psychology vol. III (1914).
+
+## Addison Webster Moore (Chicago pragmatism)
+
+Shelf: `pipeline/addison-webster-moore_shelf.json`. Two books, 1902-1910.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Functional versus the Representational Theories of Knowledge in Locke's Essay (Chicago, 1902) |  | `moore-functional-versus-representational-1902` | have-raw (IA `functionalversus00moorrich`) |
+| Pragmatism and its Critics (University of Chicago Press, 1910) |  | `moore-pragmatism-and-its-critics-1910` | have-raw (IA `cu31924100500903`) |
+
+Pending (wishlist): Existence, Meaning, and Reality (1903 offprint; no dated scan).
+
+## Horace M. Kallen (pragmatism and cultural pluralism)
+
+Shelf: `pipeline/horace-kallen_shelf.json`. Five books, 1914-1927.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| William James and Henri Bergson (University of Chicago Press, 1914) |  | `kallen-william-james-and-henri-bergson-1914` | have-raw (IA `williamjameshenr00kall_0`) |
+| The Structure of Lasting Peace (Marshall Jones, 1918) |  | `kallen-structure-of-lasting-peace-1918` | have-raw (IA `structureoflasti00kalliala`) |
+| Zionism and World Politics (Doubleday, Page, 1921) |  | `kallen-zionism-and-world-politics-1921` | have-raw (IA `zionismandworld00kallgoog`) |
+| Culture and Democracy in the United States (Boni and Liveright, 1924) |  | `kallen-culture-and-democracy-1924` | have-raw (IA `culturedemocracy0000hora`) |
+| Why Religion (Boni and Liveright, 1927) |  | `kallen-why-religion-1927` | have-raw (IA `whyreligion0000hora_q9a6`) |
+
+## Hartley Burr Alexander (philosophy and culture)
+
+Shelf: `pipeline/hartley-burr-alexander_shelf.json`. Three books, 1919-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Letters to Teachers (Open Court, 1919) |  | `alexander-letters-to-teachers-1919` | have-raw (IA `letterstoteacher00alexuoft`) |
+| Nature and Human Nature (Open Court, 1923) |  | `alexander-nature-and-human-nature-1923` | have-raw (IA `naturehumannatur0000hart_v5q6`) |
+| Truth and the Faith (Holt, 1929) |  | `alexander-truth-and-the-faith-1929` | have-raw (IA `truthfaithinterp00alex`) |
+
+## Max Otto (pragmatic humanism)
+
+Shelf: `pipeline/max-otto_shelf.json`. Two books, 1924-1926.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Things and Ideals (Holt, 1924) |  | `otto-things-and-ideals-1924` | have-raw (IA `thingsidealsessa0000otto`) |
+| Natural Laws and Human Hopes (Holt, 1926) |  | `otto-natural-laws-and-human-hopes-1926` | have-raw (IA `naturallawshuman0000otto`) |
+
+## Christine Ladd-Franklin (logic and colour vision)
+
+Shelf: `pipeline/christine-ladd-franklin_shelf.json`. One book, 1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Colour and Colour Theories (Kegan Paul, 1929) |  | `ladd-franklin-colour-and-colour-theories-1929` | have-raw (IA `in.ernet.dli.2015.218434`) |
+
+## James Hayden Tufts (social ethics)
+
+Shelf: `pipeline/james-hayden-tufts_shelf.json`. Two books, 1917-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Our Democracy, its origins and its tasks (Holt, 1917) |  | `tufts-our-democracy-1917` | have-raw (IA `cu31924031446424`) |
+| The Ethics of Cooperation (Houghton Mifflin, 1918) |  | `tufts-ethics-of-cooperation-1918` | have-raw (IA `ethicsofcopera00tuftuoft`) |
+
+## Boyd H. Bode (pragmatist philosophy of education)
+
+Shelf: `pipeline/boyd-h-bode_shelf.json`. Four books, 1910-1929.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Outline of Logic (Holt, 1910) |  | `bode-outline-of-logic-1910` | have-raw (IA `outlineoflogic00bodeuoft`) |
+| Fundamentals of Education (Macmillan, 1921; printing of 1922) |  | `bode-fundamentals-of-education-1921` | have-raw (IA `fundamentalsofed00bodeuoft`) |
+| Modern Educational Theories (Macmillan, 1927) |  | `bode-modern-educational-theories-1927` | have-raw (IA `moderneducationa0000boyd_u6c4`) |
+| Conflicting Psychologies of Learning (Heath, 1929) |  | `bode-conflicting-psychologies-of-learning-1929` | have-raw (IA `conflictingpsych00bode`) |
+
+## Charles M. Bakewell (ancient philosophy source book)
+
+Shelf: `pipeline/charles-m-bakewell_shelf.json`. One book, 1907.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Source Book in Ancient Philosophy (Scribner, 1907) |  | `bakewell-source-book-in-ancient-philosophy-1907` | have-raw (IA `sourcebookinanci00bakeuoft`) |
+
+## Robert S. Woodworth (dynamic psychology)
+
+Shelf: `pipeline/robert-s-woodworth_shelf.json`. Two books, 1918-1921.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Dynamic Psychology (Columbia University Press, 1918) |  | `woodworth-dynamic-psychology-1918` | have-raw (IA `dynamicpsycholog00woodrich`) |
+| Psychology, a study of mental life (Holt, 1921) |  | `woodworth-psychology-1921` | have-raw (IA `psychologyastud01woodgoog`) |
+
+## Charles Hubbard Judd (psychology of education)
+
+Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Genetic Psychology for Teachers (Appleton, 1903) |  | `judd-genetic-psychology-for-teachers-1903` | have-raw (IA `geneticpsycholog00judduoft`) |
+| Psychology, General Introduction (Scribner, 1907) |  | `judd-psychology-general-introduction-1907` | have-raw (IA `psychologygener01goog`) |
+| The Psychology of High-School Subjects (Ginn, 1916) |  | `judd-psychology-of-high-school-subjects-1916` | have-raw (IA `in.ernet.dli.2015.21801`) |
+| Introduction to the Scientific Study of Education (Ginn, 1918) |  | `judd-introduction-to-scientific-study-of-education-1918` | have-raw (IA `introductiontosc00juddiala`) |
 
 ## Perseus census (overflow)
 

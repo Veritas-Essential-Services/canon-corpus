@@ -1319,3 +1319,9 @@
 - Identity checks recorded for OCR-garbled names: Sidgwick 'IJDGWICK', Jones '3 ONES', Johnson 'JOtt**SUN', Read 'CARVETII'
 - Held: Read's Metaphysics of Nature; Stebbing's Modern Introduction to Logic (no title-page year)
 - Wanted: W. E. Johnson Logic Parts II and III
+
+## 2026-10-17 22:41 CDT — Round cd: American psychologists and pragmatists
+- 13 new shelves: james-rowland-angell (3), joseph-jastrow (6), edward-l-thorndike (5), addison-webster-moore (2), horace-kallen (5), hartley-burr-alexander (3), max-otto (2), christine-ladd-franklin (1), james-hayden-tufts (2), boyd-h-bode (4), charles-m-bakewell (1), robert-s-woodworth (2), charles-hubbard-judd (4)
+- c-i-lewis +1: Mind and the World-Order (1929); corrected the shelf's 'all later books after 1930' note
+- Identity checks: Tufts 'UFTS', Otto (name lost on title page; confirmed from preface)
+- Garbled years noted: Bode's Conflicting Psychologies (copyright read as 1920; 1930 library stamp), Woodworth's Psychology (preface Aug 1921)

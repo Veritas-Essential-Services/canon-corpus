@@ -271,3 +271,4 @@
 - 22:24 round ca: Samuel Butler (13), and Godwin +3, Wollstonecraft +3, Lecky +1, Leslie Stephen +8.
 - 22:29 round cb: second gap sweep, 16 rows on 7 shelves (Laski, Lloyd Morgan, Romanes, Fiske, Sorley, Dicey, Lewes); More's Dialogue of Comfort excluded (1951 text).
 - 22:35 round cc: 8 British logic/idealist shelves (25 vols). Held for no title-page year: Read, Metaphysics of Nature; Stebbing, Modern Introduction to Logic.
+- 22:41 round cd: 13 American psychology/pragmatism shelves (40 vols) + Lewis 1929. Held: A. W. Moore offprint (no year).
