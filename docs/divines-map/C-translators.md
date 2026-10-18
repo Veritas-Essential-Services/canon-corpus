@@ -6825,10 +6825,10 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91. Not converted t
 | — | — | america-of-the-fifties: America of the Fifties: Letters of Fredrika Bremer (1924) is 'selected and edited' by Adolph B. Benson, not a new translation; Mary Howitt's translations of Bremer are on mary-howitt. | — | — | excluded | — |
 | — | — | gosta-berlings-saga: Gösta Berling's Saga in the American-Scandinavian Foundation's translation (1918; the catalogue names Tudeer as translator) is left to the lagerlof shelf, whose owner lists her novels as candidates for a later batch. | — | — | excluded | — |
 
-## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, Ettore Fieramosca by Lester and by Lady Louisa Magenis, and Garrow's Niccolini
+## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, Ettore Fieramosca by Lester and by Lady Louisa Magenis, Garrow's Niccolini, and Tassoni's Rape of the Bucket by Ozell and by Atkinson
 
 Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
-Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia. Not converted to unit-id JSON; **no uids minted**.
+Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia; round 114 added Tassoni twice (Ozell 1715, Atkinson 1825). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6865,6 +6865,8 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 | `italian-classics-azeglio-challenge-of-barletta-magenis-1` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. I | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet01azegoog` |
 | `italian-classics-azeglio-challenge-of-barletta-magenis-2` | Massimo d'Azeglio | The Challenge of Barletta (Ettore Fieramosca), vol. II | Lady Louisa Magenis | 1880 | have-raw | IA `challengebarlet00azegoog` |
 | `italian-classics-niccolini-arnold-of-brescia` | Giovanni Battista Niccolini | Arnold of Brescia: a Tragedy | Theodosia Garrow | 1846 | have-raw | IA `arnoldbresciaat00niccgoog` |
+| `italian-classics-tassoni-rape-of-the-bucket-atkinson` | Alessandro Tassoni | La Secchia Rapita, or The Rape of the Bucket, an Heroi-Comical Poem | James Atkinson | 1825 | have-raw | IA `dli.ministry.15986` |
+| `italian-classics-tassoni-rape-of-the-bucket-ozell` | Alessandro Tassoni | The Rape of the Bucket, an Heroi-Comical Poem, the First of the Kind | John Ozell | 1715 | have-raw | IA `bim_eighteenth-century_the-rape-of-the-bucket-_tassoni-alessandro_1715` |
 | — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
 | — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
@@ -6952,10 +6954,10 @@ Round 95 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | lcc-sappho-1855: Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check. | — | — | excluded | — |
 | — | — | oberon-1805: The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used. | — | — | excluded | — |
 
-## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes), the Romance of the Rose (Ellis), Manon Lescaut (Gundry)
+## Shelf: French classics in English before 1931: Racine (Boswell), Froissart (Berners, 6 vols), Commines (Scoble), Thierry (Hazlitt), Saint-Simon (Bayle St. John), Sainte-Beuve (Stott, Edeveain, Mathews), Maurice de Guérin (Fisher), Senancour's Obermann (Waite, Barnes), the Romance of the Rose (Ellis), Manon Lescaut (Gundry), Way's Fabliaux
 
 Shelf: `pipeline/french-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py french-classics` · titles `python3 pipeline/split_shelf_titles.py french-classics`.
-Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100; Taine's On Intelligence round 101; Ellis's Romance of the Rose (3 vols) and Gundry's Manon Lescaut round 113. Not converted to unit-id JSON; **no uids minted**.
+Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 100; Taine's On Intelligence round 101; Ellis's Romance of the Rose (3 vols) and Gundry's Manon Lescaut round 113; Way's Fabliaux (3 vols, 1815) round 114. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6984,6 +6986,9 @@ Round 96 (2026-10-17), vetoable. Sainte-Beuve, Guérin and Obermann added round 
 | `french-classics-romance-of-the-rose-vol-2` | Guillaume de Lorris and Jean de Meun | The Romance of the Rose, Englished by F. S. Ellis, vol. II | F. S. Ellis | 1900 | have-raw | IA `TheRomanceOfTheRose` |
 | `french-classics-romance-of-the-rose-vol-3` | Guillaume de Lorris and Jean de Meun | The Romance of the Rose, Englished by F. S. Ellis, vol. III | F. S. Ellis | 1900 | have-raw | IA `TheRomanceOfTheRoseEllis3` |
 | `french-classics-prevost-manon-lescaut` | Antoine François Prévost | The Story of Manon Lescaut and of the Chevalier des Grieux | Arthur W. Gundry | 1886 | have-raw | IA `dli.ministry.23365` |
+| `french-classics-way-fabliaux-vol-1` | Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux) | Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. I | Gregory Lewis Way (notes by George Ellis) | 1815 | have-raw | IA `fabliauxortales01legriala` |
+| `french-classics-way-fabliaux-vol-2` | Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux) | Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. II | Gregory Lewis Way (notes by George Ellis) | 1815 | have-raw | IA `fabliauxortales02legriala` |
+| `french-classics-way-fabliaux-vol-3` | Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux) | Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. III | Gregory Lewis Way (notes by George Ellis) | 1815 | have-raw | IA `fabliauxortales03legriala` |
 | — | — | froissart-johnes: Thomas Johnes's Froissart (1848) goes on the johnes shelf, not here. | — | — | excluded | — |
 | — | — | boys-froissart: Lanier's Boy's Froissart and similar condensations for young readers are adaptations of Johnes, not new translations. | — | — | excluded | — |
 | — | — | thierry-merovingian-1841: Narratives of the Merovingian Era (Whittaker, 1841): the only scan found has no text layer. | — | — | excluded | — |

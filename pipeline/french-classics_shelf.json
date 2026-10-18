@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted. Round 113 (2026-10-17, vetoable) added Ellis's Romance of the Rose (3 vols, 1900) and Gundry's Manon Lescaut (1886) (Perry's Princess of Cleves went to the ts-perry shelf).",
+ "_about": "SHELF of French classics in English before 1931, works no other shelf holds: Racine's plays (Boswell's metrical version, 1890-97), Froissart's Chronicle in Lord Berners's Tudor translation (1523-25; Ker's Tudor Translations, 6 vols, 1901-03), Commines's Memoirs (Scoble, Bohn 1855-56), Thierry's Norman Conquest (Hazlitt, 1847), Saint-Simon's Memoirs (Bayle St. John, Gutenberg), and (added round 100) Sainte-Beuve's Portraits of Women and of Men and Monday-Chats, Maurice de Guérin's Journal Senancour's Obermann twice, and (round 101) Taine's On Intelligence (Haye). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 96); Adam may veto. No uids minted. Round 113 (2026-10-17, vetoable) added Ellis's Romance of the Rose (3 vols, 1900) and Gundry's Manon Lescaut (1886) (Perry's Princess of Cleves went to the ts-perry shelf). Round 114 (2026-10-17, vetoable) added Way's Fabliaux (1815, 3 vols).",
  "_name_words": [
   "a. e. waite",
   "a. r. scoble",
@@ -14,6 +14,7 @@
   "edward thornton fisher",
   "f. s. ellis",
   "forsyth edeveain",
+  "g. l. way",
   "gundry",
   "hazlitt",
   "helen stott",
@@ -43,6 +44,7 @@
   "edward thornton fisher",
   "f. s. ellis",
   "forsyth edeveain",
+  "g. l. way",
   "gundry",
   "hazlitt",
   "helen stott",
@@ -159,6 +161,15 @@
   "frc-prevost-manon-lescaut": [
    "arthur w. gundry",
    "gundry"
+  ],
+  "frc-way-fabliaux-vol-1": [
+   "g. l. way"
+  ],
+  "frc-way-fabliaux-vol-2": [
+   "g. l. way"
+  ],
+  "frc-way-fabliaux-vol-3": [
+   "g. l. way"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -269,6 +280,18 @@
    "dli.ministry.23365",
    "The Story of Manon Lescaut and of the Chevalier des Grieux (1886)",
    "E07636_The_Story_of_Manon_Lescaut_djvu.txt"
+  ],
+  "frc-way-fabliaux-vol-1": [
+   "fabliauxortales01legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. I (1815)"
+  ],
+  "frc-way-fabliaux-vol-2": [
+   "fabliauxortales02legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. II (1815)"
+  ],
+  "frc-way-fabliaux-vol-3": [
+   "fabliauxortales03legriala",
+   "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. III (1815)"
   ]
  },
  "titles": {
@@ -473,6 +496,33 @@
    "translated": 1886,
    "translator": "Arthur W. Gundry",
    "scan_edition": "Morrill, Higgins & Co., Chicago 1892 (copyright 1886 by Frederick T. Jones); Digital Library of India scan"
+  },
+  "french-classics-way-fabliaux-vol-1": {
+   "source": "frc-way-fabliaux-vol-1",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. I",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
+  },
+  "french-classics-way-fabliaux-vol-2": {
+   "source": "frc-way-fabliaux-vol-2",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. II",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
+  },
+  "french-classics-way-fabliaux-vol-3": {
+   "source": "frc-way-fabliaux-vol-3",
+   "of": "Pierre-Jean-Baptiste Legrand d'Aussy (after the Old French fabliaux)",
+   "work": "Fabliaux or Tales, abridged from French Manuscripts of the XIIth and XIIIth Centuries, translated into English verse, vol. III",
+   "translated": 1815,
+   "translator": "Gregory Lewis Way (notes by George Ellis)",
+   "scan_edition": "J. Rodwell, London 1815 (new edition; first 1796-1800); archive.org scan",
+   "note": "Way's verse renderings of Legrand d'Aussy's prose abridgments of the Old French fabliaux and lais, including Marie de France."
   }
  },
  "_pending": {},
@@ -756,6 +806,39 @@
    "ia_date": "1892",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "frc-way-fabliaux-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. l. way",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1009,6 +1092,34 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [
     1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-1": {
+   "ia": "fabliauxortales01legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1550,
+    1756,
+    1779,
+    1781,
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-2": {
+   "ia": "fabliauxortales02legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "frc-way-fabliaux-vol-3": {
+   "ia": "fabliauxortales03legriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815
    ],
    "post_1930_years_in_front_15k": []
   }

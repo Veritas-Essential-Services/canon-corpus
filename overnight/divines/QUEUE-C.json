@@ -3872,6 +3872,14 @@
       "finished": "2026-10-17T23:05-05:00",
       "scope": "GAP-FILL (round 113, lane C's choice; Adam may veto) -- french-classics +4, ts-perry +2; PD printings before 1931 only; no minting",
       "notes": "6 titles; ids checked across all branches. See DIGEST-C round 113. No uids minted."
+    },
+    {
+      "id": "gapfill-r114-fabliaux-tassoni",
+      "status": "done",
+      "started": "2026-10-17T23:09-05:00",
+      "finished": "2026-10-17T23:11-05:00",
+      "scope": "GAP-FILL (round 114, lane C's choice; Adam may veto) -- french-classics +3, italian-classics +2; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 114. No uids minted."
     }
   ]
 }

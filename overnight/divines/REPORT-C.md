@@ -302,3 +302,5 @@
 - 2026-10-17T22:59-05:00: round 112: selver +7, singles-fiction-3 +1 (Makropoulos), singles-arts-miscellany +1 (How a Play). Czechoslovak anthology to _pending (undated). --verify --record 0 mismatched.
 
 - 2026-10-17T23:05-05:00: round 113: french-classics +4 (Ellis Rose x3, Gundry Manon), ts-perry +2 (Princess of Cleves). Identity overrides: Gundry (OCR), Cleves vol 2 (no title page). --verify --record 0 mismatched.
+
+- 2026-10-17T23:11-05:00: round 114: french-classics +3 (Way's Fabliaux), italian-classics +2 (Tassoni: Ozell, Atkinson). --verify --record 0 mismatched.
