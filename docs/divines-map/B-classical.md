@@ -5820,6 +5820,8 @@ Shelf: `pipeline/francis-lieber_shelf.json`. Woolsey's third edition of Civil Li
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874) |  | `lieber-civil-liberty-woolsey-1874` | have-raw (IA `3edoncivillibert00liebuoft`) |
+| Manual of Political Ethics, vol. I, second edition, ed. Woolsey (Lippincott; copyright 1874) |  | `lieber-manual-political-ethics-v1` | have-raw (IA `manualofpolitica01lieb_0`) |
+| Manual of Political Ethics, vol. II, second edition, ed. Woolsey (Lippincott, 1876) |  | `lieber-manual-political-ethics-v2` | have-raw (IA `manualofpolitica02liebiala`) |
 
 ## John C. Calhoun (American political theory)
 

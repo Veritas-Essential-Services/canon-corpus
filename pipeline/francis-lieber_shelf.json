@@ -1,5 +1,5 @@
 {
- "_about": "Francis Lieber (1800-1872), German-American political philosopher: On Civil Liberty and Self-Government, third edition revised, edited by Theodore D. Woolsey (Philadelphia: J. B. Lippincott; London: Trubner, 1874), raw IA OCR, clean 0.94. Wanted: Manual of Political Ethics (1838-39). US public domain. No uids minted.",
+ "_about": "Francis Lieber (1800-1872), German-American political philosopher: On Civil Liberty and Self-Government, third edition revised, edited by Theodore D. Woolsey (Philadelphia: J. B. Lippincott; London: Trubner, 1874), raw IA OCR, clean 0.94. US public domain. Added in round 2026-10-17bl: Manual of Political Ethics, second edition revised, edited by Theodore D. Woolsey, 2 vols. (Philadelphia: Lippincott; vol. I's title-page year is not legible and its copyright entry is 1874, vol. II is dated 1876), raw IA OCR, clean 0.94 and 0.95. The first edition (1838-39) is still wanted. No uids minted.",
  "_author": "Francis Lieber",
  "_name_words": [
   "francis",
@@ -14,6 +14,14 @@
   "lieber-civil-liberty-woolsey-1874": [
    "3edoncivillibert00liebuoft",
    "On Civil Liberty and Self-Government, third edition, ed. T. D. Woolsey (Lippincott, 1874)"
+  ],
+  "lieber-manual-political-ethics-v1": [
+   "manualofpolitica01lieb_0",
+   "Manual of Political Ethics, vol. I, second edition, ed. Woolsey (Lippincott; copyright 1874)"
+  ],
+  "lieber-manual-political-ethics-v2": [
+   "manualofpolitica02liebiala",
+   "Manual of Political Ethics, vol. II, second edition, ed. Woolsey (Lippincott, 1876)"
   ]
  },
  "_excluded": {},
@@ -26,6 +34,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lieber-manual-political-ethics-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lieber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lieber-manual-political-ethics-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lieber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
