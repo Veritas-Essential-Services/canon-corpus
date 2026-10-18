@@ -38,6 +38,10 @@
   "milne-once-on-a-time": [
    27771,
    "Once on a Time (1917; the Gutenberg text is a printing with a 1922 copyright)"
+  ],
+  "milne-red-house-mystery": [
+   1872,
+   "The Red House Mystery"
   ]
  },
  "internet_archive": {},
@@ -47,7 +51,7 @@
  "_checks": {
   "milne-winnie-the-pooh": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "a. a. milne",
    "identity": "ok",
@@ -56,7 +60,7 @@
   },
   "milne-house-at-pooh-corner": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "a. a. milne",
    "identity": "ok",
@@ -65,7 +69,7 @@
   },
   "milne-when-we-were-very-young": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "a. a. milne",
    "identity": "ok",
@@ -74,7 +78,7 @@
   },
   "milne-now-we-are-six": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "a. a. milne",
    "identity": "ok",
@@ -83,7 +87,16 @@
   },
   "milne-once-on-a-time": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. a. milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milne-red-house-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "a. a. milne",
    "identity": "ok",
