@@ -1382,3 +1382,8 @@
 - philosophical-classics-for-english-readers (new series shelf): 14 vols 1880-1890, Descartes to Locke
 - Veitch's Hamilton left on john-veitch
 - identity overrides for OCR-garbled Caird, Merz, Fraser
+
+## 2026-10-17 23:32 CDT — Round cp: eight new philosophy shelves
+- ernest-albee 1, james-bonar 6, g-s-brett 5, w-r-boyce-gibson 4
+- j-s-haldane 3, william-wallace-oxford 4, robert-adamson 5, thomas-whittaker 4
+- held: three undated Whittaker scans; Haldane's 1929 Gifford lectures (restricted scan)
