@@ -6058,6 +6058,9 @@ Shelf: `pipeline/james-bryce_shelf.json`. Five volumes, 1871-1921. Not minted.
 | Studies in History and Jurisprudence, vol. II (Clarendon, 1901) |  | `bryce-studies-history-jurisprudence-v2` | have (PG 78301) |
 | Modern Democracies, vol. I (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v1` | have-raw (IA `moderndemocracie01brycuoft`) |
 | Modern Democracies, vol. II (Macmillan, 1921) |  | `bryce-modern-democracies-1921-v2` | have-raw (IA `bwb_S0-BPV-402`) |
+| The American Commonwealth, vol. I (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v1` | have-raw (IA `americancommonwe01bryc_0`) |
+| The American Commonwealth, vol. II (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v2` | have-raw (IA `americancommonwe02bryc_0`) |
+| The American Commonwealth, vol. III (Macmillan, 1888) |  | `bryce-american-commonwealth-1888-v3` | have-raw (IA `americancommonwe03bryc`) |
 
 Pending (wishlist): The American Commonwealth (1888, 3 vols.)
 

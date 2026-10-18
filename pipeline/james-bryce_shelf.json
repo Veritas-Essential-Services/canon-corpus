@@ -1,5 +1,5 @@
 {
- "_about": "James Bryce, Viscount Bryce (1838-1922), jurist, historian and political scientist: The Holy Roman Empire, third edition revised (London: Macmillan, 1871) and Studies in History and Jurisprudence, 2 vols. (Oxford: Clarendon Press, 1901), clean Gutenberg texts; Modern Democracies, 2 vols. (New York: Macmillan, 1921), raw IA OCR, clean 0.95 and 0.91. Wanted: The American Commonwealth (1888, 3 vols.). US public domain. No uids minted.",
+ "_about": "James Bryce, Viscount Bryce (1838-1922), jurist, historian and political scientist: The Holy Roman Empire, third edition revised (London: Macmillan, 1871) and Studies in History and Jurisprudence, 2 vols. (Oxford: Clarendon Press, 1901), clean Gutenberg texts; Modern Democracies, 2 vols. (New York: Macmillan, 1921), raw IA OCR, clean 0.95 and 0.91. US public domain. Added in round 2026-10-17bd: The American Commonwealth, first edition, 3 vols. (London and New York: Macmillan, 1888), raw IA OCR, clean 0.94, 0.94 and 0.93. No uids minted.",
  "_author": "James Bryce",
  "_name_words": [
   "james",
@@ -32,6 +32,18 @@
   "bryce-modern-democracies-1921-v2": [
    "bwb_S0-BPV-402",
    "Modern Democracies, vol. II (Macmillan, 1921)"
+  ],
+  "bryce-american-commonwealth-1888-v1": [
+   "americancommonwe01bryc_0",
+   "The American Commonwealth, vol. I (Macmillan, 1888)"
+  ],
+  "bryce-american-commonwealth-1888-v2": [
+   "americancommonwe02bryc_0",
+   "The American Commonwealth, vol. II (Macmillan, 1888)"
+  ],
+  "bryce-american-commonwealth-1888-v3": [
+   "americancommonwe03bryc",
+   "The American Commonwealth, vol. III (Macmillan, 1888)"
   ]
  },
  "_excluded": {},
@@ -82,6 +94,39 @@
    "identity": "ok",
    "ia_rights": "ok: published 1921",
    "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bryce-american-commonwealth-1888-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bryce-american-commonwealth-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bryce-american-commonwealth-1888-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bryce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
