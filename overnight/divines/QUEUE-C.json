@@ -3584,6 +3584,14 @@
       "finished": "2026-10-17T19:59-05:00",
       "scope": "TRANSLATOR SHELF (round 87, lane C's choice; Adam may veto) -- hebrew-classics; PD printings before 1931 only; no minting",
       "notes": "4 titles; ids checked across all branches. See DIGEST-C round 87. No uids minted."
+    },
+    {
+      "id": "shelf-norse-sagas",
+      "status": "done",
+      "started": "2026-10-17T20:03-05:00",
+      "finished": "2026-10-17T20:03-05:00",
+      "scope": "TRANSLATOR SHELF (round 88, lane C's choice; Adam may veto) -- norse-sagas; PD printings before 1931 only; no minting",
+      "notes": "7 titles; ids checked across all branches. See DIGEST-C round 88. No uids minted."
     }
   ]
 }

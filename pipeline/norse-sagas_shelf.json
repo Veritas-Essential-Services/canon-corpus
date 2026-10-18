@@ -1,0 +1,340 @@
+{
+ "_about": "SHELF of Old Norse and Icelandic literature in English before 1931 not held elsewhere: Vigfusson and York Powell's Origines Islandicae (1905) and Corpus Poeticum Boreale (1883), W. C. Green's Egil's Saga (1893), Collingwood and Stefansson's Cormac the Skald (1902) and Sephton's Saga of King Olaf Tryggwason (1895). Morris and Magnusson's Saga Library, Dasent, Laing's Heimskringla, the Poetic Edda and Hollander are on their own shelves. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 88); Adam may veto. No uids minted.",
+ "_name_words": [
+  "collingwood",
+  "f. york powell",
+  "frederick york powell",
+  "gudbrand vigfusson",
+  "john sephton",
+  "jon stefansson",
+  "jón stefánsson",
+  "sephton",
+  "stefansson",
+  "vigfusson",
+  "vigfússon",
+  "w. c. green",
+  "w. g. collingwood",
+  "william charles green",
+  "york powell"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Bare 'green' is left out as a common word.",
+ "_surname": [
+  "collingwood",
+  "f. york powell",
+  "frederick york powell",
+  "gudbrand vigfusson",
+  "john sephton",
+  "jon stefansson",
+  "jón stefánsson",
+  "sephton",
+  "stefansson",
+  "vigfusson",
+  "vigfússon",
+  "w. c. green",
+  "w. g. collingwood",
+  "william charles green",
+  "york powell"
+ ],
+ "_surname_by_slug": {
+  "nrs-origines-1": [
+   "vigfusson",
+   "vigfússon",
+   "gudbrand vigfusson",
+   "york powell",
+   "f. york powell",
+   "frederick york powell"
+  ],
+  "nrs-origines-2": [
+   "vigfusson",
+   "vigfússon",
+   "gudbrand vigfusson",
+   "york powell",
+   "f. york powell",
+   "frederick york powell"
+  ],
+  "nrs-corpus-poeticum-1": [
+   "vigfusson",
+   "vigfússon",
+   "gudbrand vigfusson",
+   "york powell",
+   "f. york powell",
+   "frederick york powell"
+  ],
+  "nrs-corpus-poeticum-2": [
+   "vigfusson",
+   "vigfússon",
+   "gudbrand vigfusson",
+   "york powell",
+   "f. york powell",
+   "frederick york powell"
+  ],
+  "nrs-egil": [
+   "w. c. green",
+   "william charles green"
+  ],
+  "nrs-cormac": [
+   "collingwood",
+   "w. g. collingwood",
+   "stefansson",
+   "jon stefansson",
+   "jón stefánsson"
+  ],
+  "nrs-olaf-tryggwason": [
+   "sephton",
+   "john sephton"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nrs-origines-1": [
+   "originesislandic01gudb",
+   "Origines Islandicae: a Collection of the More Important Sagas and Other Native Writings relating to the Settlement and Early History of Iceland, vol. I (1905)",
+   "originesislandic01gudb_djvu.txt"
+  ],
+  "nrs-origines-2": [
+   "originesislandic02gudb",
+   "Origines Islandicae, vol. II (1905)",
+   "originesislandic02gudb_djvu.txt"
+  ],
+  "nrs-corpus-poeticum-1": [
+   "corpuspoeticumbo01guuoft",
+   "Corpus Poeticum Boreale: the Poetry of the Old Northern Tongue, vol. I: Eddic Poetry (1883)",
+   "corpuspoeticumbo01guuoft_djvu.txt"
+  ],
+  "nrs-corpus-poeticum-2": [
+   "corpuspoeticumbo02guuoft",
+   "Court Poetry: Corpus Poeticum Boreale, vol. II (1883)",
+   "corpuspoeticumbo02guuoft_djvu.txt"
+  ],
+  "nrs-egil": [
+   "thestoryofegilskallagrigreen",
+   "The Story of Egil Skallagrimsson, being an Icelandic Family History of the Ninth and Tenth Centuries (1893)",
+   "thestoryofegilskallagrigreen_djvu.txt"
+  ],
+  "nrs-cormac": [
+   "lifedeathofcorma00jnuoft",
+   "The Life and Death of Cormac the Skald, being the Icelandic Kormaks-saga (1902)",
+   "lifedeathofcorma00jnuoft_djvu.txt"
+  ],
+  "nrs-olaf-tryggwason": [
+   "sagaofkingolaftr00oddruoft",
+   "The Saga of King Olaf Tryggwason, who reigned over Norway A.D. 995 to A.D. 1000 (1895)",
+   "sagaofkingolaftr00oddruoft_djvu.txt"
+  ]
+ },
+ "titles": {
+  "norse-sagas-origines-1": {
+   "source": "nrs-origines-1",
+   "of": "The Icelandic sagas and early records",
+   "work": "Origines Islandicae: a Collection of the More Important Sagas and Other Native Writings relating to the Settlement and Early History of Iceland, vol. I",
+   "translated": 1905,
+   "translator": "Gudbrand Vigfusson and F. York Powell",
+   "scan_edition": "Clarendon Press, Oxford 1905; archive.org scan",
+   "note": "Edited and translated by the two scholars together."
+  },
+  "norse-sagas-origines-2": {
+   "source": "nrs-origines-2",
+   "of": "The Icelandic sagas and early records",
+   "work": "Origines Islandicae, vol. II",
+   "translated": 1905,
+   "translator": "Gudbrand Vigfusson and F. York Powell",
+   "scan_edition": "Clarendon Press, Oxford 1905; archive.org scan"
+  },
+  "norse-sagas-corpus-poeticum-1": {
+   "source": "nrs-corpus-poeticum-1",
+   "of": "The Eddic poems",
+   "work": "Corpus Poeticum Boreale: the Poetry of the Old Northern Tongue, vol. I: Eddic Poetry",
+   "translated": 1883,
+   "translator": "Gudbrand Vigfusson and F. York Powell",
+   "scan_edition": "Clarendon Press, Oxford 1883; University of Toronto scan",
+   "note": "Edited, classified and translated by the two scholars together."
+  },
+  "norse-sagas-corpus-poeticum-2": {
+   "source": "nrs-corpus-poeticum-2",
+   "of": "The skaldic poems",
+   "work": "Corpus Poeticum Boreale, vol. II: Court Poetry",
+   "translated": 1883,
+   "translator": "Gudbrand Vigfusson and F. York Powell",
+   "scan_edition": "Clarendon Press, Oxford 1883; University of Toronto scan"
+  },
+  "norse-sagas-egil": {
+   "source": "nrs-egil",
+   "of": "Egils saga",
+   "work": "The Story of Egil Skallagrimsson, being an Icelandic Family History of the Ninth and Tenth Centuries",
+   "translated": 1893,
+   "translator": "W. C. Green",
+   "scan_edition": "Elliot Stock, London 1893; archive.org scan"
+  },
+  "norse-sagas-cormac": {
+   "source": "nrs-cormac",
+   "of": "Kormaks saga",
+   "work": "The Life and Death of Cormac the Skald, being the Icelandic Kormaks-saga",
+   "translated": 1902,
+   "translator": "W. G. Collingwood and Jon Stefansson",
+   "scan_edition": "The Viking Club, London 1902 (printed by W. Holmes, Ulverston, per the catalogue record); University of Toronto scan"
+  },
+  "norse-sagas-olaf-tryggwason": {
+   "source": "nrs-olaf-tryggwason",
+   "of": "Oddr Snorrason's (the Greater) Saga of Olaf Tryggvason",
+   "work": "The Saga of King Olaf Tryggwason, who reigned over Norway A.D. 995 to A.D. 1000",
+   "translated": 1895,
+   "translator": "John Sephton",
+   "scan_edition": "David Nutt, London 1895; University of Toronto scan",
+   "note": "Sephton's Eirik the Red's Saga is on singles-medieval-epic."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "corpus-poeticum-1965": "corpuspoeticumbo0000unse is a 1965 Russell & Russell reprint; the 1883 Clarendon scan is used.",
+  "leighton-kormak-1861": "William Leighton's Kormak (Boston, 1861) is his own poem on the saga, not a translation."
+ },
+ "_checks": {
+  "nrs-origines-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vigfusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-origines-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vigfusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-corpus-poeticum-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vigfusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-corpus-poeticum-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "vigfusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-egil": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. c. green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-cormac": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collingwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nrs-olaf-tryggwason": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sephton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "nrs-origines-1": {
+   "ia": "originesislandic01gudb",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1878,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-origines-2": {
+   "ia": "originesislandic02gudb",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1860,
+    1880,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-corpus-poeticum-1": {
+   "ia": "corpuspoeticumbo01guuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1642
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-corpus-poeticum-2": {
+   "ia": "corpuspoeticumbo02guuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-egil": {
+   "ia": "thestoryofegilskallagrigreen",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1858,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-cormac": {
+   "ia": "lifedeathofcorma00jnuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892,
+    1893,
+    1902,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "nrs-olaf-tryggwason": {
+   "ia": "sagaofkingolaftr00oddruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1689,
+    1825,
+    1853,
+    1860,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

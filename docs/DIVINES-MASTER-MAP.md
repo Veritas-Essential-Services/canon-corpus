@@ -19059,6 +19059,23 @@ Round 87 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | gabirol-1974: solomonibngabiro0000unse is a 1974 reprint of Zangwill's Ibn Gabirol; the 1923 printing is used. | — | — | excluded | — |
 | — | — | halevi-1942: selectedpoemsofj0000nina is the 1942 third impression of Salaman's Halevi; the 1928 second impression is used. | — | — | excluded | — |
 
+## Shelf: Old Norse and Icelandic literature in English before 1931: Vigfusson and York Powell's Origines Islandicae and Corpus Poeticum Boreale, Green's Egil, Collingwood and Stefansson's Cormac, Sephton's Olaf Tryggwason
+
+Shelf: `pipeline/norse-sagas_shelf.json` · fetch `python3 pipeline/fetch_shelf.py norse-sagas` · titles `python3 pipeline/split_shelf_titles.py norse-sagas`.
+Round 88 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `norse-sagas-origines-1` | The Icelandic sagas and early records | Origines Islandicae: a Collection of the More Important Sagas and Other Native Writings relating to the Settlement and Early History of Iceland, vol. I | Gudbrand Vigfusson and F. York Powell | 1905 | have-raw | IA `originesislandic01gudb` |
+| `norse-sagas-origines-2` | The Icelandic sagas and early records | Origines Islandicae, vol. II | Gudbrand Vigfusson and F. York Powell | 1905 | have-raw | IA `originesislandic02gudb` |
+| `norse-sagas-corpus-poeticum-1` | The Eddic poems | Corpus Poeticum Boreale: the Poetry of the Old Northern Tongue, vol. I: Eddic Poetry | Gudbrand Vigfusson and F. York Powell | 1883 | have-raw | IA `corpuspoeticumbo01guuoft` |
+| `norse-sagas-corpus-poeticum-2` | The skaldic poems | Corpus Poeticum Boreale, vol. II: Court Poetry | Gudbrand Vigfusson and F. York Powell | 1883 | have-raw | IA `corpuspoeticumbo02guuoft` |
+| `norse-sagas-egil` | Egils saga | The Story of Egil Skallagrimsson, being an Icelandic Family History of the Ninth and Tenth Centuries | W. C. Green | 1893 | have-raw | IA `thestoryofegilskallagrigreen` |
+| `norse-sagas-cormac` | Kormaks saga | The Life and Death of Cormac the Skald, being the Icelandic Kormaks-saga | W. G. Collingwood and Jon Stefansson | 1902 | have-raw | IA `lifedeathofcorma00jnuoft` |
+| `norse-sagas-olaf-tryggwason` | Oddr Snorrason's (the Greater) Saga of Olaf Tryggvason | The Saga of King Olaf Tryggwason, who reigned over Norway A.D. 995 to A.D. 1000 | John Sephton | 1895 | have-raw | IA `sagaofkingolaftr00oddruoft` |
+| — | — | corpus-poeticum-1965: corpuspoeticumbo0000unse is a 1965 Russell & Russell reprint; the 1883 Clarendon scan is used. | — | — | excluded | — |
+| — | — | leighton-kormak-1861: William Leighton's Kormak (Boston, 1861) is his own poem on the saga, not a translation. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
