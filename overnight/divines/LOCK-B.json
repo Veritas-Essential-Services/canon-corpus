@@ -1,6 +1,7 @@
 {
- "status": "running",
+ "status": "paused",
  "holder": "2026-10-02T17:07:01-05:00",
- "heartbeat": "2026-10-17T23:32:31-05:00",
- "note": "Resumed 2026-10-17 at Adam's burn-mode relay: Jowett's Plato and Aristotle gaps first, then the wider philosophical canon in PD English."
+ "heartbeat": "2026-10-17T23:34:35-05:00",
+ "note": "Resumed 2026-10-17 at Adam's burn-mode relay: Jowett's Plato and Aristotle gaps first, then the wider philosophical canon in PD English.",
+ "resume_point": "Paused at Adam's request 2026-10-18 04:34Z after round cp (pushed). Next, round cq (nothing committed yet): new shelves l-r-farnell (Cults of the Greek States vols I, III, IV, V pass the OCR gate; vol II scans all fail at 0.76; plus Evolution of Religion 1905, Greece and Babylon 1911, Higher Aspects 1912, Outline-History 1921, Greek Hero Cults 1921, Attributes of God 1925; dated title pages still to confirm for Greece and Babylon, Outline-History and Attributes), a-e-haigh (Attic Theatre 1889, Tragic Drama 1896), r-y-tyrrell (Latin Poetry 1895, Essays on Greek Literature 1909), j-wight-duff (Literary History of Rome 1909), a-b-cook (Plato's Ethics 1895, Zeus I-II), henry-nettleship (Lectures and Essays 1885, 1895), w-m-lindsay (The Latin Language 1894). Then round cr: Arthur Evans, D. G. Hogarth, William Ridgeway, J. L. Myres, H. R. Hall, E. S. Hartland. None of these is held on any branch (checked 2026-10-18)."
 }
