@@ -7118,6 +7118,10 @@ Shelf: `pipeline/arthur-kenyon-rogers_shelf.json`. Four books, 1907-1925.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Brief Introduction to Modern Philosophy (Macmillan, 1899; printing of 1923) |  | `rogers-brief-introduction-modern-philosophy-1923` | have-raw (IA `abriefintroducti00rogeuoft`) |
+| A Student's History of Philosophy (Macmillan, 1925) |  | `rogers-students-history-of-philosophy-1925` | have-raw (IA `studentshistoryo0000arth_y2z4`) |
+| The Religious Conception of the World (Macmillan, 1907) |  | `rogers-religious-conception-of-the-world-1907` | have-raw (IA `religiousconc00rogeuoft`) |
+| English and American Philosophy since 1800 (Macmillan, 1922) |  | `rogers-english-american-philosophy-since-1800-1922` | have-raw (IA `englishamericanp0000roge_a5i3`) |
 
 ## Warner Fite (ethical individualism)
 
