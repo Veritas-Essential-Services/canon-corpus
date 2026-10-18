@@ -1,0 +1,37 @@
+{
+ "_about": "Anne-Robert-Jacques Turgot, baron de l'Aulne (1727-1781): Reflections on the Formation and the Distribution of Riches (1770), in English, Macmillan's Economic Classics (published 1898; this copy the reprint of January 1911), raw IA OCR, clean 0.92. The translator is not named in the OCR. US public domain. No uids minted.",
+ "_author": "Anne-Robert-Jacques Turgot",
+ "_name_words": [
+  "turgot",
+  "turcot",
+  "anne",
+  "robert",
+  "jacques"
+ ],
+ "_surname": [
+  "turgot",
+  "turcot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "turgot-reflections-riches-1911": [
+   "reflectionsonfor00turg",
+   "Reflections on the Formation and the Distribution of Riches (1770), Economic Classics (Macmillan, 1898; reprint 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "turgot-reflections-riches-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "turgot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
