@@ -8297,6 +8297,18 @@ Slugs `hmore-*`. Built from title pages read for round 34.
 | The Works of Hannah More, with a memoir and notes, vol. I (London: H. Fisher, R. Fisher, and P. Jackson, 1834) | have-ocr | IA `worksofhannahmor0001more` |
 | The Works of Hannah More, first complete American edition, vol. I (New York: Harper & Brothers, 1843) | have-ocr | IA `worksofhannahmor01more` |
 | Coelebs first edition (1808) and seventh (1809), both anonymous; the Harper 1843 vol. II (no title page in the OCR); the 1830 eleven-volume Works and the 1799 first Strictures (not read) | alternate | not shelved |
+
+## Charles Wesley (round 34, my pick, 2026-10-18)
+
+Slugs `cwesley-*`. Built from title pages read for round 34.
+
+| Work | Status | Where |
+|---|---|---|
+| The Journal of the Rev. Charles Wesley, with selections from his correspondence and poetry, introduction and notes by Thomas Jackson, vol. I (London: John Mason, 1849) | have-ocr | IA `journaletctowhi00weslgoog` |
+| The Journal of the Rev. Charles Wesley, ed. Thomas Jackson, vol. II (London: John Mason, 1849) | have-ocr | IA `journaletctowhi01weslgoog` |
+| A Sermon preach'd on Sunday, April 4, 1742, before the University of Oxford, the second edition (London: W. Strahan, 1742) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-on-sun_wesley-charles_1742` |
+| The 1783 Paramore printing of the sermon; the undated Wesleyan Methodist Book-Room reissue of Jackson's Journal (catalogued 1849 in error); Telford's Early Journal (1909) | alternate | not shelved |
+| The Cause and Cure of Earthquakes (1750): its title page names no author; editions from 1977 on | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

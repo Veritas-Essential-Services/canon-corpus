@@ -1720,3 +1720,6 @@
 
 ## 2026-10-17 22:09 CDT — hannah-more done
 - `pipeline/hannah-more_shelf.json`: 0 CCEL, 3 PG, 7 IA. Title pages read for hmore-works-1834-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:09 CDT — charles-wesley done
+- `pipeline/charles-wesley_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
