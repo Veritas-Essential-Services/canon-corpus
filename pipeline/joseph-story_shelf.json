@@ -1,0 +1,63 @@
+{
+ "_about": "Joseph Story (1779-1845), Associate Justice of the US Supreme Court: Commentaries on the Constitution of the United States, first edition, 3 vols. (Boston: Hilliard, Gray; Cambridge: Brown, Shattuck, 1833), raw IA OCR from the New York Public Library copies, clean 0.88, 0.88 and 0.88. US public domain. No uids minted.",
+ "_author": "Joseph Story",
+ "_name_words": [
+  "joseph",
+  "story"
+ ],
+ "_surname": [
+  "story"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "story-commentaries-constitution-1833-v1": [
+   "commentariesonco01stor",
+   "Commentaries on the Constitution of the United States, vol. I (1833)"
+  ],
+  "story-commentaries-constitution-1833-v2": [
+   "commentariesonco02stor",
+   "Commentaries on the Constitution of the United States, vol. II (1833)"
+  ],
+  "story-commentaries-constitution-1833-v3": [
+   "commentariesonco03stor",
+   "Commentaries on the Constitution of the United States, vol. III (1833)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "story-commentaries-constitution-1833-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "story",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "story-commentaries-constitution-1833-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "story",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "story-commentaries-constitution-1833-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "story",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

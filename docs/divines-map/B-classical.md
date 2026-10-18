@@ -6086,6 +6086,9 @@ Shelf: `pipeline/joseph-story_shelf.json`. Joseph Story (1779-1845). Commentarie
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Commentaries on the Constitution of the United States, vol. I (1833) |  | `story-commentaries-constitution-1833-v1` | have-raw (IA `commentariesonco01stor`) |
+| Commentaries on the Constitution of the United States, vol. II (1833) |  | `story-commentaries-constitution-1833-v2` | have-raw (IA `commentariesonco02stor`) |
+| Commentaries on the Constitution of the United States, vol. III (1833) |  | `story-commentaries-constitution-1833-v3` | have-raw (IA `commentariesonco03stor`) |
 
 Pending (wishlist): Commentaries on the Conflict of Laws (1834); Commentaries on Equity Jurisprudence (1836)
 
