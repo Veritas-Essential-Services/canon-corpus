@@ -412,6 +412,10 @@
   "howells-world-of-chance": [
    66584,
    "The World of Chance"
+  ],
+  "howells-henry-james-jr": [
+   723,
+   "Henry James, Jr."
   ]
  },
  "internet_archive": {},
@@ -1216,6 +1220,15 @@
    "pg_translator": null
   },
   "howells-world-of-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william dean howells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "howells-henry-james-jr": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
