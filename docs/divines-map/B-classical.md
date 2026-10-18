@@ -5438,6 +5438,7 @@ Shelf: `pipeline/john-of-salisbury_shelf.json`. The Statesman's Book, from the P
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Statesman's Book, from the Policraticus (New York: Alfred A. Knopf, 1927) | John Dickinson | `salisbury-dickinson-statesmans-book-1927` | have-raw (IA `statesmansbookof0000unse`) |
 
 ## Perseus census (overflow)
 
