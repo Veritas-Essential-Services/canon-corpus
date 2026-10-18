@@ -6221,6 +6221,19 @@ Slugs `swilberforce-*`. Bishop of Oxford and of Winchester; written in English.
 | Agathos 5th and 7th editions; Heroes (1883); Sermons 6th ed. (1858); Four Sermons (1842); Six Sermons (1848); The Rocky Island (New York, 1841) | alternate | not shelved |
 | Ashwell's Life | excluded | |
 | Henry Martyn's Journal and Evelyn's Life of Mrs. Godolphin, which he only edited | excluded | |
+
+## R. C. Moberly (round 28, my pick, 2026-10-18)
+
+Slugs `moberly-*`. Oxford Regius Professor of Pastoral Theology; written in English.
+
+| Work | Status | Where |
+|---|---|---|
+| Reason and Religion (London: Longmans, Green, 1896) | have-ocr | IA `reasonreligionso00mobe` |
+| Ministerial Priesthood (London: John Murray, 1897) | have-ocr | IA `ministerialpries00mobe` |
+| Atonement and Personality (London: John Murray, 1901) | have-ocr | IA `india.history.resource.94120` |
+| Sorrow, Sin, and Beauty: three short series of addresses (London: John Murray, 1903) | have-ocr | IA `sorrowsinbeautyt00mobe` |
+| Atonement (1901 reprint), Ministerial Priesthood (1897), Reason and Religion (1896), Sorrow, Sin, and Beauty (1904) | alternate | not shelved |
+| Atonement copies of 1904, 1907, 1909, 1917, 1924 (two wrongly catalogued 1901) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
