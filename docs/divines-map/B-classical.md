@@ -5999,6 +5999,7 @@ Shelf: `pipeline/harold-laski_shelf.json`. Two works, 1918-1919; Political Thoug
 |---|---|---|---|
 | Authority in the Modern State (Yale, 1919; third printing 1927) |  | `laski-authority-modern-state-1919` | have-raw (IA `authorityinmoder00lask_0`) |
 | The Problem of Administrative Areas (Smith College Studies in History, 1918) |  | `laski-administrative-areas-1918` | have-raw (IA `problemofadminis00laskrich`) |
+| Studies in the Problem of Sovereignty (Yale, 1917) |  | `laski-problem-of-sovereignty-1917` | have-raw (IA `studiesinproblem00laskuoft`) |
 
 Pending (wishlist): A Grammar of Politics (1925); Political Thought in England from Locke to Bentham in a dated printing
 

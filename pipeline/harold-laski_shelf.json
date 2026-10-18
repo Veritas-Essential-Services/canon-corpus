@@ -1,5 +1,5 @@
 {
- "_about": "Harold J. Laski (1893-1950), political theorist of pluralism: Authority in the Modern State (New Haven: Yale University Press, 1919; this copy the third printing, August 1927) and The Problem of Administrative Areas, an essay in reconstruction (Smith College Studies in History, Northampton, Mass., 1918). Raw IA OCR, clean 0.91 and 0.93. Held: Political Thought in England from Locke to Bentham (Home University Library), because no year is printed in the scan. His introduction to the Vindiciae contra Tyrannos (1924) is on the vindiciae shelf. US public domain (published before 1931). No uids minted.",
+ "_about": "Harold J. Laski (1893-1950), political theorist of pluralism: Authority in the Modern State (New Haven: Yale University Press, 1919; this copy the third printing, August 1927) and The Problem of Administrative Areas, an essay in reconstruction (Smith College Studies in History, Northampton, Mass., 1918). Raw IA OCR, clean 0.91 and 0.93. Held: Political Thought in England from Locke to Bentham (Home University Library), because no year is printed in the scan. His introduction to the Vindiciae contra Tyrannos (1924) is on the vindiciae shelf. US public domain (published before 1931). Added in round 2026-10-17bl: Studies in the Problem of Sovereignty (New Haven: Yale University Press, first published March 1917), raw IA OCR, clean 0.90. No uids minted.",
  "_author": "Harold J. Laski",
  "_name_words": [
   "harold",
@@ -19,6 +19,10 @@
   "laski-administrative-areas-1918": [
    "problemofadminis00laskrich",
    "The Problem of Administrative Areas (Smith College Studies in History, 1918)"
+  ],
+  "laski-problem-of-sovereignty-1917": [
+   "studiesinproblem00laskuoft",
+   "Studies in the Problem of Sovereignty (Yale, 1917)"
   ]
  },
  "_excluded": {},
@@ -42,6 +46,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1918",
    "ia_date": "[1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "laski-problem-of-sovereignty-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "laski",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
