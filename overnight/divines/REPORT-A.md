@@ -1885,3 +1885,6 @@
 
 ## 2026-10-17 22:59 CDT — jean-gerson done
 - `pipeline/jean-gerson_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:59 CDT — reginald-pole done
+- `pipeline/reginald-pole_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

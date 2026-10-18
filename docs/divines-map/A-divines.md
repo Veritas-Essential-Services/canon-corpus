@@ -9055,3 +9055,14 @@ Slugs `gerson-*`. Built from title pages read for round 37.
 | A Treatise on Bringing Children to Jesus Christ, tr. W. Whitty (title page undated; catalogued Dublin: M. H. Gill & Son, 1899) | have-ocr | IA `treatiseonbringi00gers` |
 | CCEL gerson/snares (the same 1883 book); SnaresOfTheDevil (undated copy) | alternate | not shelved |
 | Carnahan's French text edition (1917); Connolly (1928) and Figgis, books about him | excluded | |
+
+## Reginald Pole (round 37, my pick, 2026-10-18)
+
+Slugs `pole-*`. Built from title pages read for round 37.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatie of Iustification, founde emong the writinges of Cardinal Pole (Lovanii: apud Ioannem Foulerum, 1569) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-of-justificat_treatise_1569` |
+| Nine Historical Letters of the Reign of Henry VIII (T. Richards, catalogued 1871): four writers, so not shelved here | alternate | not shelved |
+| The seditious and blasphemous oration of Cardinal Pole, tr. Fabyane Wythers (catalogued 1560): its title page is unreadable OCR, so it is not shelved | alternate | not shelved |
+| Starkey's Dialogue (Starkey's work); Lives by Phillips, Beccadelli, Lee, Haile and Gasquet; De Unitate in English (first 1965) | excluded | |
