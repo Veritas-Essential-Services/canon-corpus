@@ -7560,6 +7560,8 @@ Shelf: `pipeline/william-de-witt-hyde_shelf.json`. Two books, 1892-1911.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Practical Ethics (1892) |  | `wdhyde-practical-ethics` | have (PG 24372) |
+| The Five Great Philosophies of Life (1911) |  | `wdhyde-five-great-philosophies` | have (PG 39065) |
 
 ## Herbert Ernest Cushman (history of philosophy)
 
