@@ -30601,6 +30601,58 @@ Shelf: `pipeline/conan-doyle-works_shelf.json` (2026-10-17; added at the coordin
 | held-elsewhere | excluded | PG 108, 139, 244, 834, 903, 1661, 2097, 2852: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | pg-221 | excluded | PG 221 The Return of Sherlock Holmes and 3070 The Hound of the Baskervilles: second editions; the reading-list conan-doyle shelf holds both books. |
 
+## Daniel Defoe
+
+Shelf: `pipeline/defoe-works_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (43 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fortunes and Misfortunes of the Famous Moll Flanders | have | PG 370, `defoe-fortunes-and-misfortunes-of-the-famous-moll-flanders` (1265 units) |
+| A Journal of the Plague Year Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London | have | PG 376, `defoe-a-journal-of-the-plague-year-being-observations-or-mem` (873 units) |
+| The Further Adventures of Robinson Crusoe | have | PG 561, `defoe-further-adventures-of-robinson-crusoe` (570 units) |
+| Tour through the Eastern Counties of England, 1722 | have | PG 983, `defoe-tour-through-the-eastern-counties-of-england-1722` (421 units) |
+| From London to Land's End and Two Letters from the "Journey through England by a Gentleman" | have | PG 1149, `defoe-from-london-to-lands-end-and-two-letters-from-the-jour` (405 units) |
+| Dickory Cronke: The Dumb Philosopher, or, Great Britain's Wonder | have | PG 2051, `defoe-dickory-cronke` (154 units) |
+| Everybody's Business Is Nobody's Business Or, Private Abuses, Public Grievances; Exemplified in the Pride, Insolence, and Exorbitant Wages of Our Women, Servants, Footmen, &c. | have | PG 2052, `defoe-everybodys-business-is-nobodys-business` (93 units) |
+| An Essay Upon Projects | have | PG 4087, `defoe-an-essay-upon-projects` (733 units) |
+| The Life, Adventures & Piracies of the Famous Captain Singleton | have | PG 6422, `defoe-life-adventures-piracies-of-the-famous-captain-singlet` (1054 units) |
+| The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon | have | PG 7089, `defoe-consolidator` (836 units) |
+| Of Captain Mission | have | PG 7779, `defoe-of-captain-mission` (106 units) |
+| The Life and Most Surprising Adventures of Robinson Crusoe, of York, Mariner (1801) | have | PG 11866, `defoe-life-and-most-surprising-adventures-of-robinson-crusoe` (729 units) |
+| Memoirs of a Cavalier A Military Journal of the Wars in Germany, and the Wars in England. From the Year 1632 to the Year 1648. | have | PG 12259, `defoe-memoirs-of-a-cavalier-a-military-journal-of-the-wars-i` (1031 units) |
+| The History of the Remarkable Life of John Sheppard Containing a Particular Account of His Many Robberies and Escapes | have | PG 14065, `defoe-history-of-the-remarkable-life-of-john-sheppard-contai` (112 units) |
+| A Vindication of the Press | have | PG 14084, `defoe-a-vindication-of-the-press` (178 units) |
+| Military Memoirs of Capt. George Carleton | have | PG 14436, `defoe-military-memoirs-of-capt-george-carleton` (622 units) |
+| Memoirs of Major Alexander Ramkins (1718) | have | PG 14442, `defoe-memoirs-of-major-alexander-ramkins-1718` (59 units) |
+| The Complete English Tradesman (1839 ed.) | have | PG 14444, `defoe-complete-english-tradesman-1839-ed` (1421 units) |
+| History of the Plague in London | have | PG 17221, `defoe-history-of-the-plague-in-london` (1209 units) |
+| Atalantis Major | have | PG 26940, `defoe-atalantis-major` (163 units) |
+| The True-Born Englishman: A Satire | have | PG 30159, `defoe-true-born-englishman` (143 units) |
+| The Fortunate Mistress (Parts 1 and 2) or a History of the Life of Mademoiselle de Beleau Known by the Name of the Lady Roxana | have | PG 30344, `defoe-fortunate-mistress-parts-1-and-2-or-a-history-of-the-l` (1534 units) |
+| The History of the Devil, As Well Ancient as Modern: In Two Parts | have | PG 31053, `defoe-history-of-the-devil-as-well-ancient-as-modern` (1425 units) |
+| An Appeal to Honour and Justice, Though It Be of His Worst Enemies. Being A True Account of His Conduct in Public Affairs. | have | PG 32139, `defoe-an-appeal-to-honour-and-justice-though-it-be-of-his-wo` (162 units) |
+| An Humble Proposal to the People of England, for the Increase of their Trade, and Encouragement of Their Manufactures Whether the Present Uncertainty of Affairs Issues in Peace or War | have | PG 32384, `defoe-an-humble-proposal-to-the-people-of-england-for-the-in` (165 units) |
+| Second Thoughts are Best: Or a Further Improvement of a Late Scheme to Prevent Street Robberies | have | PG 32404, `defoe-second-thoughts-are-best` (105 units) |
+| Augusta Triumphans Or, the Way to Make London the Most Flourishing City in the Universe | have | PG 32405, `defoe-augusta-triumphans` (188 units) |
+| A New Voyage Round the World by a Course Never Sailed Before | have | PG 35774, `defoe-a-new-voyage-round-the-world-by-a-course-never-sailed` (1195 units) |
+| A True Relation of the Apparition of one Mrs. Veal The Next Day after Her Death, to one Mrs. Bargrave, at Canterbury, the 8th of September, 1705; which Apparition Recommends the Perusal of Drelincourt's Book of Consolations against the Fears of Death | have | PG 36587, `defoe-a-true-relation-of-the-apparition-of-one-mrs-veal-the` (28 units) |
+| Reasons Against the Succession of the House of Hanover With an Enquiry How Far the Abdication of King James, Supposing It to Be Legal, Ought to Affect the Person of the Pretender | have | PG 36628, `defoe-reasons-against-the-succession-of-the-house-of-hanover` (29 units) |
+| A Seasonable Warning and Caution against the Insinuations of Papists and Jacobites in favour of the Pretender Being a Letter from an Englishman at the Court of Hanover | have | PG 36656, `defoe-a-seasonable-warning-and-caution-against-the-insinuati` (79 units) |
+| An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die? | have | PG 36681, `defoe-an-answer-to-a-question-that-nobody-thinks-of-viz-but` (26 units) |
+| The Lay-Man's Sermon upon the Late Storm Held forth at an Honest Coffee-House-Conventicle | have | PG 36694, `defoe-lay-mans-sermon-upon-the-late-storm-held-forth-at-an-h` (128 units) |
+| And What if the Pretender should Come? Or Some Considerations of the Advantages and Real Consequences of the Pretender's Possessing the Crown of Great Britain | have | PG 36769, `defoe-and-what-if-the-pretender-should-come-or-some-consider` (30 units) |
+| A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh | have | PG 37505, `defoe-a-short-narrative-of-the-life-and-actions-of-his-grace` (236 units) |
+| The King of Pirates Being an Account of the Famous Enterprises of Captain Avery, the Mock King of Madagascar | have | PG 37992, `defoe-king-of-pirates-being-an-account-of-the-famous-enterpr` (249 units) |
+| The Storm. An Essay. | have | PG 41063, `defoe-storm-an-essay` (29 units) |
+| The Storm or, a Collection of the most Remarkable Casualties and Disasters which Happen'd in the Late Dreadful Tempest, both by Sea and Land | have | PG 42234, `defoe-storm` (831 units) |
+| The History and Remarkable Life of the Truly Honourable Colonel Jacque, Commonly Called Colonel Jack | have | PG 52603, `defoe-history-and-remarkable-life-of-the-truly-honourable-co` (1569 units) |
+| The Friendly Daemon, or the Generous Apparition Being a True Narrative of a Miraculous Cure, Newly Perform'd Upon That Famous Deaf and Dumb Gentleman, Dr. Duncan Campbel, by a Familiar Spirit That Appear'd to Him in a White Surplice, Like a Cathedral Singing Boy | have | PG 54925, `defoe-friendly-daemon-or-the-generous-apparition-being-a-tru` (50 units) |
+| The History of the Pyrates. Vol. II. Containing the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews | have | PG 57005, `defoe-history-of-the-pyrates-vol-ii-containing-the-lives-of` (1056 units) |
+| Remarks on the speeches of William Paul Clerk, and John Hall of Otterburn, Esq | have | PG 70523, `defoe-remarks-on-the-speeches-of-william-paul-clerk-and-john` (132 units) |
+| Robinson Crusoe | have | PG 70841, `defoe-robinson-crusoe` (991 units) |
+| pg-6936 | excluded | Robinson Crusoe retold by other hands: PG 6936 (Lucy Aikin, words of one syllable), 7799 (Allison), 67907 (John Lang). |
+| pg-12623 | excluded | PG 12623 and 11239: other editions of Robinson Crusoe; the reading-list defoe shelf holds the novel. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

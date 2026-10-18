@@ -1425,3 +1425,6 @@
 
 ## 2026-10-17 20:06 CDT — conan-doyle-works: done
 - conan-doyle-works: new shelf, 71 Gutenberg books, 69,355 units, 767 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 20:18 CDT — defoe-works: done
+- defoe-works: new shelf, 43 Gutenberg books, 22,414 units, 1791 ~2 ids; verify 0 mismatches, 0 rights flags.
