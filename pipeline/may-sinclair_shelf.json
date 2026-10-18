@@ -1,0 +1,325 @@
+{
+ "_about": "May Sinclair's novels and stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "May Sinclair",
+ "_name_words": [
+  "sinclair"
+ ],
+ "_surname": [
+  "may sinclair"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "msinclair-life-and-death-of-harriett-frean": [
+   9298,
+   "Life and Death of Harriett Frean"
+  ],
+  "msinclair-mary-olivier": [
+   9366,
+   "Mary Olivier: a Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "msinclair-mr-waddington-of-wyck": [
+   9967,
+   "Mr. Waddington of Wyck"
+  ],
+  "msinclair-anne-severn-and-the-fieldings": [
+   10817,
+   "Anne Severn and the Fieldings"
+  ],
+  "msinclair-three-bront-s": [
+   11698,
+   "The Three Brontës",
+   {
+    "contents_only": true
+   }
+  ],
+  "msinclair-three-sisters": [
+   11876,
+   "The Three Sisters"
+  ],
+  "msinclair-romantic": [
+   13292,
+   "The Romantic",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "msinclair-superseded": [
+   13522,
+   "Superseded"
+  ],
+  "msinclair-tree-of-heaven": [
+   13883,
+   "The Tree of Heaven"
+  ],
+  "msinclair-divine-fire": [
+   13996,
+   "The Divine Fire"
+  ],
+  "msinclair-belfry": [
+   14106,
+   "The Belfry"
+  ],
+  "msinclair-tysons-mr-and-mrs-nevill-tyson": [
+   15722,
+   "The Tysons (Mr. and Mrs. Nevill Tyson)",
+   {
+    "contents_only": true
+   }
+  ],
+  "msinclair-helpmate": [
+   17867,
+   "The Helpmate"
+  ],
+  "msinclair-judgment-of-eve": [
+   19658,
+   "The Judgment of Eve"
+  ],
+  "msinclair-creators": [
+   25971,
+   "The Creators: A Comedy"
+  ],
+  "msinclair-combined-maze": [
+   28461,
+   "The Combined Maze"
+  ],
+  "msinclair-flaw-in-the-crystal": [
+   28615,
+   "The Flaw in the Crystal"
+  ],
+  "msinclair-audrey-craven": [
+   29766,
+   "Audrey Craven"
+  ],
+  "msinclair-a-journal-of-impressions-in-belgium": [
+   31332,
+   "A Journal of Impressions in Belgium"
+  ],
+  "msinclair-immortal-moment": [
+   31416,
+   "The Immortal Moment: The Story of Kitty Tailleur"
+  ],
+  "msinclair-return-of-the-prodigal": [
+   31595,
+   "The Return of the Prodigal",
+   {
+    "contents_only": true
+   }
+  ],
+  "msinclair-uncanny-stories": [
+   59165,
+   "Uncanny Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "msinclair-life-and-death-of-harriett-frean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-mary-olivier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-mr-waddington-of-wyck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-anne-severn-and-the-fieldings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-three-bront-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-three-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-romantic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-superseded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-tree-of-heaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-divine-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-belfry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-tysons-mr-and-mrs-nevill-tyson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-helpmate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-judgment-of-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-creators": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-combined-maze": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-flaw-in-the-crystal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-audrey-craven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-a-journal-of-impressions-in-belgium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-immortal-moment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-return-of-the-prodigal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msinclair-uncanny-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "may sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -35007,6 +35007,35 @@ Shelf: `pipeline/stewart-edward-white_shelf.json` (2026-10-17; added at the coor
 | The Westerners | have | PG 34399, `sewhite-westerners` (1808 units) |
 | The River Boss | have | PG 66494, `sewhite-river-boss` (55 units) |
 
+## May Sinclair
+
+Shelf: `pipeline/may-sinclair_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Life and Death of Harriett Frean | have | PG 9298, `msinclair-life-and-death-of-harriett-frean` (789 units) |
+| Mary Olivier: a Life | have | PG 9366, `msinclair-mary-olivier` (5042 units) |
+| Mr. Waddington of Wyck | have | PG 9967, `msinclair-mr-waddington-of-wyck` (2506 units) |
+| Anne Severn and the Fieldings | have | PG 10817, `msinclair-anne-severn-and-the-fieldings` (3498 units) |
+| The Three Brontës | have | PG 11698, `msinclair-three-bront-s` (1018 units) |
+| The Three Sisters | have | PG 11876, `msinclair-three-sisters` (4560 units) |
+| The Romantic | have | PG 13292, `msinclair-romantic` (1789 units) |
+| Superseded | have | PG 13522, `msinclair-superseded` (541 units) |
+| The Tree of Heaven | have | PG 13883, `msinclair-tree-of-heaven` (3196 units) |
+| The Divine Fire | have | PG 13996, `msinclair-divine-fire` (5476 units) |
+| The Belfry | have | PG 14106, `msinclair-belfry` (2650 units) |
+| The Tysons (Mr. and Mrs. Nevill Tyson) | have | PG 15722, `msinclair-tysons-mr-and-mrs-nevill-tyson` (1222 units) |
+| The Helpmate | have | PG 17867, `msinclair-helpmate` (4207 units) |
+| The Judgment of Eve | have | PG 19658, `msinclair-judgment-of-eve` (497 units) |
+| The Creators: A Comedy | have | PG 25971, `msinclair-creators` (6085 units) |
+| The Combined Maze | have | PG 28461, `msinclair-combined-maze` (3083 units) |
+| The Flaw in the Crystal | have | PG 28615, `msinclair-flaw-in-the-crystal` (799 units) |
+| Audrey Craven | have | PG 29766, `msinclair-audrey-craven` (1704 units) |
+| A Journal of Impressions in Belgium | have | PG 31332, `msinclair-a-journal-of-impressions-in-belgium` (1353 units) |
+| The Immortal Moment: The Story of Kitty Tailleur | have | PG 31416, `msinclair-immortal-moment` (2348 units) |
+| The Return of the Prodigal | have | PG 31595, `msinclair-return-of-the-prodigal` (3002 units) |
+| Uncanny Stories | have | PG 59165, `msinclair-uncanny-stories` (2082 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

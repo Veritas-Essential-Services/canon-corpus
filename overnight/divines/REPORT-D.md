@@ -1578,3 +1578,6 @@
 
 ## 2026-10-17 22:16 CDT — stewart-edward-white: done
 - stewart-edward-white: new shelf, 23 Gutenberg books, 37,374 units, 2448 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 22:16 CDT — may-sinclair: done
+- may-sinclair: new shelf, 22 Gutenberg books, 57,447 units, 959 ~2 ids; verify 0 mismatches, 0 rights flags.
