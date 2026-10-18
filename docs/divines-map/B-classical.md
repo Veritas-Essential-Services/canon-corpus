@@ -5541,6 +5541,9 @@ Shelf: `pipeline/robert-owen_shelf.json`. Three early works; the Life (Bohn repr
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Observations on the Effect of the Manufacturing System, second edition (London, 1817) |  | `owen-observations-manufacturing-1817` | have-raw (IA `observationsonef00owenrich`) |
+| The Book of the New Moral World (London: Effingham Wilson, 1836) |  | `owen-book-of-new-moral-world-1836` | have-raw (IA `bookofnewmoralwo00owen`) |
+| Essays on the Formation of the Human Character (London: B. D. Cousins; 1840 from the front matter) |  | `owen-formation-of-character-1840` | have-raw (IA `essaysonformatio00owen`) |
 
 Pending (wishlist): The Life of Robert Owen, written by himself (1857-58, or a dated reprint); A New View of Society (1813-16 first edition)
 
