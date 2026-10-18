@@ -97,6 +97,14 @@
   "gaskell-grey-woman-and-other-tales": [
    28636,
    "The Grey Woman and other Tales"
+  ],
+  "gaskell-life-of-charlotte-bront-volume-2": [
+   1700,
+   "The Life of Charlotte Brontë — Volume 2"
+  ],
+  "gaskell-life-of-charlotte-bront-volume-1": [
+   1827,
+   "The Life of Charlotte Brontë — Volume 1"
   ]
  },
  "internet_archive": {},
@@ -270,6 +278,24 @@
    "pg_translator": null
   },
   "gaskell-grey-woman-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-life-of-charlotte-bront-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "elizabeth cleghorn gaskell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaskell-life-of-charlotte-bront-volume-1": {
    "kind": "gutenberg",
    "checked": "2026-10-18",
    "name_check": "surname",
