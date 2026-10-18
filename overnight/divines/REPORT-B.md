@@ -1236,3 +1236,9 @@
 - McDougall: Group Mind, Physiological Psychology, Social Psychology, Body and Mind, Psychology the Study of Behaviour
 - Montague: Ways of Knowing; Spaulding: New Rationalism; Sheldon: Strife of Systems
 - Sturt: Personal Idealism (ed.), Idola Theatri, Principles of Understanding, Socialism and Character, Moral Experience
+
+## 2026-10-17 21:25 CDT — Round bp: Cambridge Platonists, Digby, Collier, Browne
+- Whichcote: Works 1751 vols I, III, IV; Campagnac's Cambridge Platonists 1901
+- John Smith: Select Discourses 1859; Culverwel: Light of Nature 1857
+- Digby: Two Treatises 1645; Collier: Clavis Universalis (Parr 1837); Browne: Procedure of Human Understanding 1728
+- Held: Filmer's Patriarcha (OCR too poor), Whichcote Works vol. II
