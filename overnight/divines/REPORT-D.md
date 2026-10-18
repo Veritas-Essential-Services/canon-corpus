@@ -1683,3 +1683,9 @@
 
 ## 2026-10-17 23:48 CDT — montgomery-works: done
 - montgomery-works: new shelf, 6 Gutenberg books, 10,135 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-18 00:15 CDT — session end: PAUSED at Adam's request
+- Adam (via the coordinator, 2026-10-18 04:34Z): "Pause this project please". Finished the step in progress, pushed everything, released the lock.
+- This burn session (from 2026-10-17 21:32Z): 279 Lane D commits, 187 new shelves holding 6,338 Gutenberg books, plus completions: batches 36-50, the "-works" shelves for the major English and American novelists (Dickens through Henty, Wharton, Wodehouse and the rest, pre-1931 only where told), and batch 49-50 novelists (Le Fanu, Zangwill, Dreiser, Glasgow, Cable, Sabatini and others).
+- Fixes: duplicate-check flaw (DIGEST item 26), Chesterton overlap with main (item 25), post-1930 holds (item 24).
+- RESUME POINT: next is batch 51, candidates not yet started: children's and popular authors with no shelf on any branch (check again before starting). The ones surveyed and still free: none left from the batch-50 list. Possible next: authors with only a single-title reading-list shelf (standing rule: Lane D completes them), and a renewal check for the DIGEST item 24 holds if Adam says so. Helper scripts lived in the session scratch area and are gone; the shelf format and gates are in pipeline/fetch_shelf.py and overnight/divines/precommit-D.py.
