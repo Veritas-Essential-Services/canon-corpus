@@ -1,0 +1,743 @@
+{
+ "_about": "Arnold Bennett's novels of the Five Towns, stories and pocket philosophies: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Arnold Bennett",
+ "_name_words": [
+  "bennett"
+ ],
+ "_surname": [
+  "arnold bennett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abennett-how-to-live-on-24-hours-a-day": [
+   2274,
+   "How to Live on 24 Hours a Day"
+  ],
+  "abennett-grand-babylon-h-tel": [
+   2813,
+   "The Grand Babylon Hôtel",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-literary-taste": [
+   3640,
+   "Literary Taste: How to Form It With Detailed Instructions for Collecting a Complete Library of English Literature"
+  ],
+  "abennett-grim-smile-of-the-five-towns": [
+   4734,
+   "The Grim Smile of the Five Towns",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-old-wives-tale": [
+   5247,
+   "The Old Wives' Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-journalism-for-women": [
+   8405,
+   "Journalism for Women: A Practical Guide"
+  ],
+  "abennett-hilda-lessways": [
+   10658,
+   "Hilda Lessways"
+  ],
+  "abennett-buried-alive": [
+   10911,
+   "Buried Alive: A Tale of These Days"
+  ],
+  "abennett-sacred-and-profane-love": [
+   11360,
+   "Sacred and Profane Love: A Novel in Three Episodes"
+  ],
+  "abennett-over-there": [
+   11641,
+   "Over There: War Scenes on the Western Front"
+  ],
+  "abennett-regent": [
+   12611,
+   "The Regent",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-roll-call": [
+   12654,
+   "The Roll-Call",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-pretty-lady": [
+   12673,
+   "The Pretty Lady",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-title": [
+   12687,
+   "The Title: A Comedy in Three Acts"
+  ],
+  "abennett-authors-craft": [
+   12743,
+   "The Author's Craft"
+  ],
+  "abennett-mr-prohack": [
+   12773,
+   "Mr. Prohack",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-helen-with-the-high-hand-2nd-ed": [
+   12779,
+   "Helen with the High Hand (2nd ed.)",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-judith-a-play-in-three-acts": [
+   12794,
+   "Judith, a Play in Three Acts; Founded on the Apocryphal Book of Judith"
+  ],
+  "abennett-human-machine": [
+   12811,
+   "The Human Machine"
+  ],
+  "abennett-price-of-love": [
+   12912,
+   "The Price of Love",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-card-a-story-of-adventure-in-the-five-towns": [
+   12986,
+   "The Card, a Story of Adventure in the Five Towns",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-matador-of-the-five-towns-and-other-stories": [
+   12995,
+   "The Matador of the Five Towns and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-tales-of-the-five-towns": [
+   13293,
+   "Tales of the Five Towns"
+  ],
+  "abennett-plain-man-and-his-wife": [
+   13449,
+   "The Plain Man and His Wife",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-leonora": [
+   13723,
+   "Leonora"
+  ],
+  "abennett-great-adventure": [
+   13894,
+   "The Great Adventure: A Play of Fancy in Four Acts"
+  ],
+  "abennett-lions-share": [
+   14487,
+   "The Lion's Share",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-feast-of-st-friend": [
+   14653,
+   "The Feast of St. Friend"
+  ],
+  "abennett-your-united-states": [
+   15063,
+   "Your United States: Impressions of a first visit",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-hugo": [
+   15712,
+   "Hugo: A Fantasia on Modern Themes"
+  ],
+  "abennett-books-and-persons": [
+   15717,
+   "Books and Persons; Being Comments on a Past Epoch, 1908-1911",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-ghost": [
+   17176,
+   "The Ghost: A Modern Fantasy",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-clayhanger": [
+   21249,
+   "Clayhanger"
+  ],
+  "abennett-mental-efficiency-and-other-hints-to-men-and-women": [
+   23347,
+   "Mental Efficiency, and Other Hints to Men and Women"
+  ],
+  "abennett-a-great-man": [
+   29860,
+   "A Great Man: A Frolic",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-anna-of-the-five-towns": [
+   35505,
+   "Anna of the Five Towns",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-denry-the-audacious": [
+   40103,
+   "Denry the Audacious",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-old-adam": [
+   40168,
+   "The Old Adam: A Story of Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-lilian": [
+   40343,
+   "Lilian",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-these-twain": [
+   40483,
+   "These Twain",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-honeymoon": [
+   50331,
+   "The Honeymoon: A comedy in three acts"
+  ],
+  "abennett-a-man-from-the-north": [
+   52247,
+   "A Man from the North"
+  ],
+  "abennett-from-the-log-of-the-velsa": [
+   55113,
+   "From the Log of the Velsa"
+  ],
+  "abennett-teresa-of-watling-street": [
+   55114,
+   "Teresa of Watling Street: A Fantasia on Modern Themes"
+  ],
+  "abennett-city-of-pleasure": [
+   55115,
+   "The City of Pleasure"
+  ],
+  "abennett-paris-nights-and-other-impressions-of-places-and-pe": [
+   55116,
+   "Paris Nights, and Other Impressions of Places and People"
+  ],
+  "abennett-riceyman-steps": [
+   58666,
+   "Riceyman Steps: A Novel"
+  ],
+  "abennett-loot-of-cities-being-the-adventures-of-a-millionair": [
+   63580,
+   "The Loot of Cities Being the Adventures of a Millionaire in Search of Joy (a Fantasia); and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "abennett-truth-about-an-author": [
+   66661,
+   "The Truth About an Author"
+  ],
+  "abennett-self-and-self-management": [
+   75928,
+   "Self and self-management",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58075": "PG 58075: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 13852: second Gutenberg editions of titles already on the shelf.",
+  "pg-64933": "PG 64933 The Arnold Bennett Calendar: extracts compiled by Frank C. Bennett."
+ },
+ "_checks": {
+  "abennett-how-to-live-on-24-hours-a-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-grand-babylon-h-tel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-literary-taste": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-grim-smile-of-the-five-towns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-old-wives-tale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-journalism-for-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-hilda-lessways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-buried-alive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-sacred-and-profane-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-over-there": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-regent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-roll-call": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-pretty-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-title": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-authors-craft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-mr-prohack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-helen-with-the-high-hand-2nd-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-judith-a-play-in-three-acts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-human-machine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-price-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-card-a-story-of-adventure-in-the-five-towns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-matador-of-the-five-towns-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-tales-of-the-five-towns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-plain-man-and-his-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-leonora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-great-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-lions-share": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-feast-of-st-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-your-united-states": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-hugo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-books-and-persons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-clayhanger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-mental-efficiency-and-other-hints-to-men-and-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-a-great-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-anna-of-the-five-towns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-denry-the-audacious": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-old-adam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-lilian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-these-twain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-honeymoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-a-man-from-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-from-the-log-of-the-velsa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-teresa-of-watling-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-city-of-pleasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-paris-nights-and-other-impressions-of-places-and-pe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-riceyman-steps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-loot-of-cities-being-the-adventures-of-a-millionair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-truth-about-an-author": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abennett-self-and-self-management": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arnold bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

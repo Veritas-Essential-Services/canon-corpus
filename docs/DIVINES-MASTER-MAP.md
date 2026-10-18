@@ -29422,6 +29422,66 @@ Shelf: `pipeline/chesterton_shelf.json` (2026-10-17; added at the coordinator's 
 | repeat-editions | excluded | PG 16769: second Gutenberg editions of titles already on the shelf. |
 | held-elsewhere | excluded | PG 2134, 9656, 11554, 11560, 11605, 12037, 12491, 13342, 13468, 14203, 14706, 19535, 22362, 25795, 31184, 32167, 35115, 45811, 59239, 60057, 60164, 61758, 61760, 61764, 62045, 62048, 62086, 62467, 63084, 64074, 67639, 68682, 70175, 71159, 76305: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 
+## Arnold Bennett
+
+Shelf: `pipeline/arnold-bennett_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (50 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| How to Live on 24 Hours a Day | have | PG 2274, `abennett-how-to-live-on-24-hours-a-day` (168 units) |
+| The Grand Babylon Hôtel | have | PG 2813, `abennett-grand-babylon-h-tel` (1975 units) |
+| Literary Taste: How to Form It With Detailed Instructions for Collecting a Complete Library of English Literature | have | PG 3640, `abennett-literary-taste` (163 units) |
+| The Grim Smile of the Five Towns | have | PG 4734, `abennett-grim-smile-of-the-five-towns` (1756 units) |
+| The Old Wives' Tale | have | PG 5247, `abennett-old-wives-tale` (4629 units) |
+| Journalism for Women: A Practical Guide | have | PG 8405, `abennett-journalism-for-women` (284 units) |
+| Hilda Lessways | have | PG 10658, `abennett-hilda-lessways` (2219 units) |
+| Buried Alive: A Tale of These Days | have | PG 10911, `abennett-buried-alive` (1414 units) |
+| Sacred and Profane Love: A Novel in Three Episodes | have | PG 11360, `abennett-sacred-and-profane-love` (1613 units) |
+| Over There: War Scenes on the Western Front | have | PG 11641, `abennett-over-there` (312 units) |
+| The Regent | have | PG 12611, `abennett-regent` (2604 units) |
+| The Roll-Call | have | PG 12654, `abennett-roll-call` (2596 units) |
+| The Pretty Lady | have | PG 12673, `abennett-pretty-lady` (1758 units) |
+| The Title: A Comedy in Three Acts | have | PG 12687, `abennett-title` (990 units) |
+| The Author's Craft | have | PG 12743, `abennett-authors-craft` (116 units) |
+| Mr. Prohack | have | PG 12773, `abennett-mr-prohack` (3168 units) |
+| Helen with the High Hand (2nd ed.) | have | PG 12779, `abennett-helen-with-the-high-hand-2nd-ed` (1581 units) |
+| Judith, a Play in Three Acts; Founded on the Apocryphal Book of Judith | have | PG 12794, `abennett-judith-a-play-in-three-acts` (886 units) |
+| The Human Machine | have | PG 12811, `abennett-human-machine` (123 units) |
+| The Price of Love | have | PG 12912, `abennett-price-of-love` (2586 units) |
+| The Card, a Story of Adventure in the Five Towns | have | PG 12986, `abennett-card-a-story-of-adventure-in-the-five-towns` (1802 units) |
+| The Matador of the Five Towns and Other Stories | have | PG 12995, `abennett-matador-of-the-five-towns-and-other-stories` (2479 units) |
+| Tales of the Five Towns | have | PG 13293, `abennett-tales-of-the-five-towns` (1275 units) |
+| The Plain Man and His Wife | have | PG 13449, `abennett-plain-man-and-his-wife` (302 units) |
+| Leonora | have | PG 13723, `abennett-leonora` (1752 units) |
+| The Great Adventure: A Play of Fancy in Four Acts | have | PG 13894, `abennett-great-adventure` (1459 units) |
+| The Lion's Share | have | PG 14487, `abennett-lions-share` (2658 units) |
+| The Feast of St. Friend | have | PG 14653, `abennett-feast-of-st-friend` (104 units) |
+| Your United States: Impressions of a first visit | have | PG 15063, `abennett-your-united-states` (413 units) |
+| Hugo: A Fantasia on Modern Themes | have | PG 15712, `abennett-hugo` (1813 units) |
+| Books and Persons; Being Comments on a Past Epoch, 1908-1911 | have | PG 15717, `abennett-books-and-persons` (530 units) |
+| The Ghost: A Modern Fantasy | have | PG 17176, `abennett-ghost` (1703 units) |
+| Clayhanger | have | PG 21249, `abennett-clayhanger` (3942 units) |
+| Mental Efficiency, and Other Hints to Men and Women | have | PG 23347, `abennett-mental-efficiency-and-other-hints-to-men-and-women` (151 units) |
+| A Great Man: A Frolic | have | PG 29860, `abennett-a-great-man` (1742 units) |
+| Anna of the Five Towns | have | PG 35505, `abennett-anna-of-the-five-towns` (1688 units) |
+| Denry the Audacious | have | PG 40103, `abennett-denry-the-audacious` (1776 units) |
+| The Old Adam: A Story of Adventure | have | PG 40168, `abennett-old-adam` (2667 units) |
+| Lilian | have | PG 40343, `abennett-lilian` (991 units) |
+| These Twain | have | PG 40483, `abennett-these-twain` (3781 units) |
+| The Honeymoon: A comedy in three acts | have | PG 50331, `abennett-honeymoon` (1136 units) |
+| A Man from the North | have | PG 52247, `abennett-a-man-from-the-north` (1164 units) |
+| From the Log of the Velsa | have | PG 55113, `abennett-from-the-log-of-the-velsa` (378 units) |
+| Teresa of Watling Street: A Fantasia on Modern Themes | have | PG 55114, `abennett-teresa-of-watling-street` (1761 units) |
+| The City of Pleasure | have | PG 55115, `abennett-city-of-pleasure` (2217 units) |
+| Paris Nights, and Other Impressions of Places and People | have | PG 55116, `abennett-paris-nights-and-other-impressions-of-places-and-pe` (970 units) |
+| Riceyman Steps: A Novel | have | PG 58666, `abennett-riceyman-steps` (1944 units) |
+| The Loot of Cities Being the Adventures of a Millionaire in Search of Joy (a Fantasia); and Other Stories | have | PG 63580, `abennett-loot-of-cities-being-the-adventures-of-a-millionair` (1533 units) |
+| The Truth About an Author | have | PG 66661, `abennett-truth-about-an-author` (270 units) |
+| Self and self-management | have | PG 75928, `abennett-self-and-self-management` (207 units) |
+| pg-58075 | excluded | PG 58075: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 13852: second Gutenberg editions of titles already on the shelf. |
+| pg-64933 | excluded | PG 64933 The Arnold Bennett Calendar: extracts compiled by Frank C. Bennett. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

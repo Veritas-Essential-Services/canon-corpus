@@ -2845,6 +2845,14 @@
       "started": "2026-10-17T19:32:35-05:00",
       "finished": "2026-10-17T19:32:35-05:00",
       "notes": "chesterton: new shelf, 23 Gutenberg books, 14,345 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arnold-bennett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Arnold Bennett; no minting",
+      "status": "done",
+      "started": "2026-10-17T19:32:36-05:00",
+      "finished": "2026-10-17T19:32:36-05:00",
+      "notes": "arnold-bennett: new shelf, 50 Gutenberg books, 75,549 units, 6091 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
