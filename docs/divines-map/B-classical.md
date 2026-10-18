@@ -4158,6 +4158,7 @@ Shelf: `pipeline/malthus_shelf.json`. Six works, 1798-1827.
 | An Inquiry into the Nature and Progress of Rent (London: John Murray, 1815) |  | `malthus-nature-of-rent-1815` | have (PG 4336) |
 | The Measure of Value Stated and Illustrated (London, 1823) |  | `malthus-measure-of-value-1823` | have (PG 62407) |
 | Definitions in Political Economy (London: John Murray, 1827) |  | `malthus-definitions-1827` | have (PG 61483) |
+| Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition) |  | `malthus-principles-of-political-economy-1821` | have-raw (IA `principlesofpoli01malt`) |
 
 Pending (wishlist): The enlarged Essay on Population (2nd-6th eds.)
 

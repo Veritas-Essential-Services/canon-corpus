@@ -1,5 +1,5 @@
 {
- "_about": "T. R. Malthus (1766-1834), from Project Gutenberg, each etext's imprint read: An Essay on the Principle of Population, first edition (London: J. Johnson, 1798); Observations on the Effects of the Corn Laws (1814); The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn (1815); An Inquiry into the Nature and Progress of Rent (1815); The Measure of Value Stated and Illustrated (1823); and Definitions in Political Economy (1827). US public domain. Wanted: the enlarged Essay on Population (2nd-6th eds.) and the Principles of Political Economy (1820). No uids minted.",
+ "_about": "T. R. Malthus (1766-1834), from Project Gutenberg, each etext's imprint read: An Essay on the Principle of Population, first edition (London: J. Johnson, 1798); Observations on the Effects of the Corn Laws (1814); The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn (1815); An Inquiry into the Nature and Progress of Rent (1815); The Measure of Value Stated and Illustrated (1823); and Definitions in Political Economy (1827). Added in round am: Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition). US public domain. Wanted: the enlarged Essay on Population (2nd-6th eds.). No uids minted.",
  "_author": "T. R. Malthus",
  "_name_words": [
   "thomas",
@@ -39,12 +39,17 @@
    "Definitions in Political Economy (London: John Murray, 1827)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "malthus-principles-of-political-economy-1821": [
+   "principlesofpoli01malt",
+   "Principles of Political Economy, considered with a view to their practical application (Boston: Wells and Lilly, 1821; American printing of the 1820 London edition)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "malthus-population-1798": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
@@ -53,7 +58,7 @@
   },
   "malthus-corn-laws-1814": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
@@ -62,7 +67,7 @@
   },
   "malthus-grounds-of-an-opinion-1815": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
@@ -71,7 +76,7 @@
   },
   "malthus-nature-of-rent-1815": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
@@ -80,7 +85,7 @@
   },
   "malthus-measure-of-value-1823": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
@@ -89,12 +94,23 @@
   },
   "malthus-definitions-1827": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-18",
    "name_check": "surname",
    "author_seen": "malthus",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "malthus-principles-of-political-economy-1821": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  }
 }
