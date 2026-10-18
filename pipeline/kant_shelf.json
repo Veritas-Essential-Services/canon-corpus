@@ -1,5 +1,5 @@
 {
- "_about": "Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). Added in round 2026-10-17bc: Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (Edinburgh: T. & T. Clark, 1891), raw IA OCR, clean 0.93; Hastie's Perpetual Peace is a translation distinct from Mary Campbell Smith's (PG 50922, held on the singles-ideas-2 shelf). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).",
+ "_about": "Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). Added in round 2026-10-17bc: Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (Edinburgh: T. & T. Clark, 1891), raw IA OCR, clean 0.93; Hastie's Perpetual Peace is a translation distinct from Mary Campbell Smith's (PG 50922, held on the singles-ideas-2 shelf). Added in round 2026-10-17bj: Critique of Pure Reason, tr. Norman Kemp Smith (London: Macmillan, 1929; first impression, translator's preface dated October 1929), raw IA OCR, clean 0.92; a 1929 book, US public domain since 1 January 2025 (published 1929, 95-year term). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).",
  "_author": "Immanuel Kant",
  "_name_words": [
   "immanuel",
@@ -71,6 +71,11 @@
    "kantsprincipleso00kant",
    "Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891)",
    "tr. W. Hastie"
+  ],
+  "kant-kemp-smith-critique-pure-reason-1929": [
+   "immanuelkantscri032379mbp",
+   "Critique of Pure Reason, tr. Norman Kemp Smith (Macmillan, 1929)",
+   "tr. Norman Kemp Smith"
   ]
  },
  "_excluded": {},
@@ -84,7 +89,8 @@
   "kant-mahaffy-bernard-prolegomena-1889": "Bernard",
   "kant-meredith-aesthetic-judgement-1911": "Meredith",
   "kant-watson-philosophy-of-kant-1897": "Watson",
-  "kant-principles-of-politics-hastie-1891": "Hastie"
+  "kant-principles-of-politics-hastie-1891": "Hastie",
+  "kant-kemp-smith-critique-pure-reason-1929": "Kemp Smith"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -235,6 +241,19 @@
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-kemp-smith-critique-pure-reason-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Kemp Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

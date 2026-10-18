@@ -3554,6 +3554,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
 | The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
 | Kant's Principles of Politics, including his essay on Perpetual Peace, ed. and tr. W. Hastie (T. & T. Clark, 1891) | W. Hastie | `kant-principles-of-politics-hastie-1891` | have-raw (IA `kantsprincipleso00kant`) |
+| Critique of Pure Reason, tr. Norman Kemp Smith (Macmillan, 1929) | Norman Kemp Smith | `kant-kemp-smith-critique-pure-reason-1929` | have-raw (IA `immanuelkantscri032379mbp`) |
 
 ## Hume
 
