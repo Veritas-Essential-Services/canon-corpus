@@ -9495,3 +9495,18 @@ Slugs `sprague-*`. Built from title pages read for round 39.
 | Lectures on Revivals of Religion, with an introductory essay by Leonard Woods (Albany: Webster & Skinners and others, 1832) | have-ocr | IA `lecturesonreviva00spra` |
 | Lectures illustrating the Contrast between True Christianity and Various Other Systems (New York: Daniel Appleton, 1837) | have-ocr | IA `lecturesillustra00spra` |
 | The 1873 reissue of the Methodist volume; other copies of the Annals and Lectures; Letters to Young Men (fourth edition, imprint not read) | alternate | not shelved |
+
+## Isaac Backus (round 39, my pick, 2026-10-18)
+
+Slugs `backus-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of New-England, with particular Reference to the Baptists, vol. I (Boston: Edward Draper; 1777) | have-ocr | IA `historyofnewengl01back_0` |
+| A Church History of New-England, vol. II, from 1690 to 1784 (Providence: John Carter, 1784) | have-ocr | IA `historyofnewengl02back` |
+| A Church History of New-England, vol. III, from 1783 to 1796 (Boston: Manning & Loring, 1796) | have-ocr | IA `historyofnewengl03back` |
+| A History of New England with particular Reference to the Baptists, vol. I, ed. David Weston (Newton, Mass.: Backus Historical Society, 1871) | have-ocr | IA `newengl01back` |
+| A History of New England with particular Reference to the Baptists, vol. II, ed. David Weston (Newton, Mass.: Backus Historical Society, 1871) | have-ocr | IA `newengl02back` |
+| An Abridgment of the Church History of New-England, from 1602 to 1804 (Boston: E. Lincoln for the author, 1804) | have-ocr | IA `abridgmentofchur00back_0` |
+| An Appeal to the Public for Religious Liberty (Boston: John Boyle, MDCCLXXIII) | have-ocr | IA `anappealtopubli00backgoog` |
+| historyofnewengl01back (1777); EEBO copies; about 25 single tracts 1754-1796 (not read) | alternate | not shelved |
