@@ -4961,10 +4961,12 @@
     },
     {
       "id": "james-hope-moulton",
-      "status": "queued",
+      "status": "done",
       "scope": "round 36: Bible reference works, women devotional writers and American preachers, before 1930",
       "added": "2026-10-18T03:17Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T22:47:44-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "lyman-abbott",

@@ -8910,6 +8910,23 @@ Slugs `ashipton-*`. Built from title pages read for round 36.
 | The Upper Springs and the Nether Springs, or Life Hid with Christ in God (London: James Nisbet, 1882) | have-ocr | IA `upperspringsand00shipgoog` |
 | Two undated Crowell Tell Jesus | alternate | not shelved |
 | The Lord's Purse-Bearers, which is Hesba Stretton's (1883); a late undated 'sixty-first impression' Tell Jesus; her verse books | excluded | |
+
+## James Hope Moulton (round 36, my pick, 2026-10-18)
+
+Slugs `jhmoulton-*`. Built from title pages read for round 36.
+
+| Work | Status | Where |
+|---|---|---|
+| A Grammar of New Testament Greek, vol. I, Prolegomena, based on W. F. Moulton's edition of G. B. Winer's Grammar (Edinburgh: T. & T. Clark, 1906) | have-ocr | IA `agrammarnewtest01moulgoog` |
+| The Vocabulary of the Greek Testament Illustrated from the Papyri and other Non-Literary Sources, Part I, by James Hope Moulton and George Milligan (London: Hodder and Stoughton; printed 1914) | have-ocr | IA `TheVocabularyOfTheGreekTestamentV1` |
+| An Introduction to the Study of New Testament Greek (London: Charles H. Kelly, 1895) | have-ocr | IA `introductiontost00moul_0` |
+| Early Religious Poetry of Persia (Cambridge: University Press, 1911) | have-ocr | IA `earlyreligiouspo00mouluoft` |
+| Early Zoroastrianism, the Hibbert Lectures, second series, 1912 (London: Williams and Norgate; year OCR'd '193', catalogued 1913) | have-ocr | IA `dli.ministry.12151` |
+| Religions and Religion, the Fernley Lecture (London: Charles H. Kelly, 1913) | have-ocr | IA `religionsreligio00moul` |
+| From Egyptian Rubbish-Heaps, second edition (London: Charles H. Kelly, 1917) | have-ocr | IA `fromegyptianrubb00mouluoft` |
+| The Treasure of the Magi (London: Humphrey Milford, 1917) | have-ocr | IA `treasureofmagist00moul` |
+| The second edition of the Prolegomena (1906); the complete Vocabulary printed 1929; Two Lectures on the Science of Language (1903); the 1926 Early Zoroastrianism reprint | alternate | not shelved |
+| Grammar vol. II (completed after his death by an editor not named in the OCR); the memoir of his father W. F. Moulton | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

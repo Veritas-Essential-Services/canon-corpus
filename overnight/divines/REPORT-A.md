@@ -1849,3 +1849,6 @@
 
 ## 2026-10-17 22:47 CDT — anna-shipton done
 - `pipeline/anna-shipton_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for ashipton-waiting-hours, ashipton-hidden-springs, ashipton-tell-jesus (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 22:47 CDT — james-hope-moulton done
+- `pipeline/james-hope-moulton_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
