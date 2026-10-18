@@ -1627,3 +1627,6 @@
 
 ## 2026-10-17 21:37 CDT — phoebe-palmer done
 - `pipeline/phoebe-palmer_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for ppalmer-way-of-holiness, ppalmer-useful-disciple (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 21:37 CDT — william-booth done
+- `pipeline/william-booth_shelf.json`: 0 CCEL, 1 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

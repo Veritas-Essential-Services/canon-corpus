@@ -7830,6 +7830,19 @@ Slugs `ppalmer-*`. Built from title pages read for round 33.
 | Incidental Illustrations of the Economy of Salvation (New York: Foster and Palmer, 1866) | have-ocr | IA `incidentalillust00palmrich` |
 | Later thousands and the English and Canadian editions of Way of Holiness and Faith and its Effects | alternate | not shelved |
 | The Promise of the Father in a 1985 reprint only; modern reprints; Wheatley's life of her | excluded | |
+
+## William Booth (round 33, my pick, 2026-10-18)
+
+Slugs `wbooth-*`. Built from title pages read for round 33.
+
+| Work | Status | Where |
+|---|---|---|
+| In Darkest England and the Way Out (London: The Salvation Army, 1890) | have-clean | Gutenberg 475 |
+| Purity of Heart: Letters to Salvationists and Others (London: Salvation Army Book-Room, 1902) | have-ocr | IA `purityofheartlet00boot` |
+| Letters to Salvationists on Religion for Every Day, vol. I (London: Salvation Army Book Department, 1902) | have-ocr | IA `letterstosalvat00bootgoog` |
+| Letters to Salvationists on Love, Marriage, and Home, vol. II of Religion for Every Day (London: Salvation Army Book Department, 1902) | have-ocr | IA `letterstosalvat01bootgoog` |
+| The undated London and Funk & Wagnalls 1890 issues of Darkest England; Sergeant-Major Do-Your-Best (1906), a story; his introduction to Social Service (1903) | alternate | not shelved |
+| Other William Booths; 1942 and later reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain William Booth (1829-1912, founder of the Salvation Army) for the Word Hoard: In Darkest England and the Way Out (1890), Purity of Heart (1902), and Religion for Every Day, his Letters to Salvationists (2 vols, 1902), from Project Gutenberg and Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "general booth"
+ ],
+ "_surname": [
+  "general booth",
+  "william booth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "wbooth-darkest-england": [
+   475,
+   "In Darkest England and the Way Out (London: The Salvation Army, 1890)"
+  ]
+ },
+ "internet_archive": {
+  "wbooth-purity-of-heart": [
+   "purityofheartlet00boot",
+   "Purity of Heart: Letters to Salvationists and Others (London: Salvation Army Book-Room, 1902)"
+  ],
+  "wbooth-religion-every-day-1": [
+   "letterstosalvat00bootgoog",
+   "Letters to Salvationists on Religion for Every Day, vol. I (London: Salvation Army Book Department, 1902)"
+  ],
+  "wbooth-religion-every-day-2": [
+   "letterstosalvat01bootgoog",
+   "Letters to Salvationists on Love, Marriage, and Home, vol. II of Religion for Every Day (London: Salvation Army Book Department, 1902)"
+  ]
+ },
+ "_alternates": {
+  "wbooth-copies": "The undated London and Funk & Wagnalls 1890 issues of Darkest England; Sergeant-Major Do-Your-Best (1906), a story; his introduction to Social Service (1903)"
+ },
+ "_excluded": {
+  "wbooth-others": "Other William Booths; 1942 and later reprints"
+ },
+ "_rights_checked": {
+  "wbooth-darkest-england": "PG header has no copyright marker and states 'the 1890 1st ed. pub. The Salvation Army'; title page 'by General Booth'. W. T. Stead's large hand in writing it is well known but not acknowledged on the title page"
+ },
+ "_pending": {
+  "wbooth-salvation-soldiery": "Salvation Soldiery: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "wbooth-darkest-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "general booth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbooth-purity-of-heart": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "general booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbooth-religion-every-day-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "general booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbooth-religion-every-day-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "general booth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
