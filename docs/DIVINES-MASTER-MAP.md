@@ -9357,6 +9357,16 @@ Slugs `johneph-*`. Built from title pages read for round 38.
 | John of Ephesus, Lives of the Eastern Saints, III, edited and translated by E. W. Brooks, Patrologia Orientalis XIX (Paris: Firmin-Didot, 1926) | have-ocr | IA `patrologiaorient19pariuoft` |
 | Patrologia Orientalis XVIII (Lives II; year garbled in the OCR); thirdparteccles00smitgoog (Payne Smith 1860) | alternate | not shelved |
 | Margoliouth's Syriac extracts (1909); Cureton's Syriac (1853) | excluded | |
+
+## Joshua the Stylite (round 38, my pick, 2026-10-18)
+
+Slugs `joshua-*`. Built from title pages read for round 38.
+
+| Work | Status | Where |
+|---|---|---|
+| The Chronicle of Joshua the Stylite, composed in Syriac A.D. 507, with a translation into English and notes by W. Wright (Cambridge: University Press, 1882) | have-ocr | IA `chronicleofjoshu00josh` |
+| chronicleofjoshu00josh_0 and joshua-stylite-1882 (1882) | alternate | not shelved |
+| The 1968 Amsterdam reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

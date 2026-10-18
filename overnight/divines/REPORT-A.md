@@ -1963,3 +1963,6 @@
 
 ## 2026-10-17 23:13 CDT — john-of-ephesus done
 - `pipeline/john-of-ephesus_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 23:13 CDT — joshua-the-stylite done
+- `pipeline/joshua-the-stylite_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
