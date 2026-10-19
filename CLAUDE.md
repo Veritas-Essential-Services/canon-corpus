@@ -5,6 +5,7 @@ model_log:
   - 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+  - 2026-10-19 claude-opus-5-5 edited
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -120,6 +121,9 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
+    python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
+    python3 tests/brewer_plates_test.py                # the plates catalog, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
