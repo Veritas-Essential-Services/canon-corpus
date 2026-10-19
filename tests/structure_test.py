@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # fable_review: pending
 """Offline test suite for the structure layer (canon-corpus). No network,
 no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
@@ -532,6 +533,54 @@ st.CORPUS = _saved_corpus; os.unlink(_fh.name)
 check("unscanned: units, their scan pages and printed labels, and the Unscanner's honesty carried through",
       _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
       and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
+
+# ---------------------------------------------------------------- Brewer (1894)
+# Fixture shaped like extract_brewer.py's output. Every line is a case the
+# live build met (2026-10-19), written fresh -- not Brewer's text.
+_BR = {"source_sha256": "x", "pages": 3, "toc": [["A", 1], ["B", 3]], "furniture_lines": 0,
+       "paras": [
+    {"p": 1, "top": True, "lines": ["A"]},
+    {"p": 1, "top": False, "lines": ["The first letter."]},
+    {"p": 1, "top": False, "lines": ["A.B"]},
+    {"p": 1, "top": False, "lines": ["(See Abel.)"]},
+    {"p": 1, "top": False, "lines": ["Abel"]},
+    {"p": 1, "top": False, "lines": ["A shepherd (Gen. iv. 2——4). Also Psalm cliv. 1, and", "Kings vi. 2."]},
+    {"p": 1, "top": False, "lines": ["Fresh as a morning breeze in spring"]},
+    {"p": 2, "top": True, "lines": ["and so continued over the page."]},
+    {"p": 2, "top": False, "lines": ["Cato was so called. (B.C. 234.)"]},
+    {"p": 2, "top": False, "lines": ["Acorns"]},
+    {"p": 2, "top": False, "lines": ["Oak fruit. (See above.) (See under Abels.)"]},
+    {"p": 2, "top": False, "lines": ["Acre"]},
+    {"p": 3, "top": True, "lines": ["Bacon"]},
+    {"p": 3, "top": False, "lines": ["Bring home the bacon. 1 Sam. ii. 3."]},
+    {"p": 3, "top": False, "lines": ["Bacon"]},
+    {"p": 3, "top": False, "lines": ["The philosopher."]}]}
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as _fb:
+    _json.dump(_BR, _fb)
+_sc = st.CORPUS; st.CORPUS = os.path.dirname(_fb.name)
+_bb = st.convert_brewer(_fb.name); st.CORPUS = _sc; os.unlink(_fb.name)
+_bu = {u["id"]: u for u in _bb["units"]}
+check("brewer: headwords found; abbreviation (no full stop) kept; verse line and sentence are not headwords",
+      [u["id"] for u in _bb["units"]] == ["brewer:a", "brewer:a-b", "brewer:abel", "brewer:acorns",
+                                          "brewer:bacon", "brewer:bacon"])
+check("brewer: a missed line stays in the entry before it -- nothing lost",
+      "Fresh as a morning breeze" in _bu["brewer:abel"]["text"]
+      and "Cato was so called" in _bu["brewer:abel"]["text"])
+check("brewer: page-top paragraph rejoined to an unfinished one; entry spans both pages",
+      "spring and so continued" in _bu["brewer:abel"]["text"] and _bu["brewer:abel"]["lex"]["pages"] == [1, 2])
+check("brewer: a bodiless headword ('Acre') is folded back as text, not a unit",
+      "brewer:acre" not in _bu and _bu["brewer:acorns"]["text"].endswith("Acre"))
+_sl = [l for l in _bu["brewer:abel"]["links"] if l["kind"] == "scripture"]
+check("brewer: scripture parsed (range kept as end); Psalm 154 and number-less Kings refused",
+      [(l["target"], l.get("end")) for l in _sl] == [("kjv:Gen.4.2", "Gen.4.4")]
+      and "Gen. iv. 2–4" in _bu["brewer:abel"]["text"])
+check("brewer: numbered book takes its number (1 Sam. -> 1Sam)",
+      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][4]["links"]))
+check("brewer: 'See X' resolves (also 'under', plural); 'see above' is not a link",
+      _bu["brewer:a-b"]["links"] == [{"kind": "see", "target": "brewer:abel"}]
+      and _bu["brewer:acorns"]["links"] == [{"kind": "see", "target": "brewer:abel"}])
+check("brewer: honesty says segmented by rule, misses kept in text",
+      _bb["scheme"]["resolution"] == "entry" and "segmented by rule" in _bb["scheme"]["honesty"])
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

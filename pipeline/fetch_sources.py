@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -150,6 +151,29 @@ LEXICONS = {
         "2.7MB abridged outline in OpenScriptures/HebrewLexicon)."),
 }
 
+
+# ------------------------------------------------- Local sources (not fetched)
+#
+# A source of record that is a file Adam supplied, not a URL. It cannot be
+# fetched, so it is PINNED: its sha256 is the identity, and the named script is
+# the recipe from that exact file to data/corpus/. A different copy of "the
+# same" book is refused by the script. Rights read per entry, as for every
+# other manifest here.
+#
+# slug -> (sha256 of the supplied file, recipe, corpus file, note)
+LOCAL_SOURCES = {
+    "brewer": (
+        "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
+        "pipeline/extract_brewer.py --pdf <the PDF>",
+        "lexicons/brewer-1894.paras.json",
+        "E. Cobham Brewer, Dictionary of Phrase and Fable, New and Enlarged "
+        "Edition of 1894 (Cassell). Brewer d. 1897; published 1894 -- public "
+        "domain in the US and UK; no translator or later editor in this text. "
+        "Supplied by Adam 2026-10-19 as a born-digital PDF (2,971pp, htmldoc "
+        "1.8.23, 2003; text, not a scan). Archive.org scans of the 1894-95 "
+        "printings exist (e.g. dictionaryofphra01brew, 1895) as a check copy; "
+        "their OCR text layers are a worse reading than this transcription."),
+}
 
 # slug -> (author, work, note)  — all probed 200 on 2026-07-21
 CCEL = {
@@ -388,6 +412,8 @@ def main():
             print(f"gutenberg/{slug}: pg{gid}")
         for slug, (ident, fn, note) in ARCHIVE_OCR.items():
             print(f"archive/{slug}: {ident} -- {note}")
+        for slug, (sha, recipe, fn, note) in LOCAL_SOURCES.items():
+            print(f"local/{slug}: {note}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -426,6 +452,9 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
+    for slug, (sha, recipe, fn, note) in LOCAL_SOURCES.items():
+        here = os.path.exists(os.path.join(CORPUS, fn))
+        print(f"local/{slug}: " + ("present" if here else f"NOT FETCHABLE -- run {recipe} (sha256 {sha[:12]}...)"))
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":
