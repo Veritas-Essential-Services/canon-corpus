@@ -582,5 +582,29 @@ check("brewer: 'See X' resolves (also 'under', plural); 'see above' is not a lin
 check("brewer: honesty says segmented by rule, misses kept in text",
       _bb["scheme"]["resolution"] == "entry" and "segmented by rule" in _bb["scheme"]["honesty"])
 
+# The shipped copy of a local source (2026-10-19): a fresh clone has no PDF,
+# so fetch_sources unpacks data/lexicons/<x>.gz -- and refuses a wrong one.
+import gzip as _gz, hashlib as _hl
+fs = load("fetch_sources")
+_td = tempfile.mkdtemp()
+_raw = b'{"paras":[]}'
+with _gz.open(os.path.join(_td, "s.gz"), "wb") as _g: _g.write(_raw)
+_spec = ("x", "recipe", "lexicons/out.json", "s.gz", _hl.sha256(_raw).hexdigest(), "n")
+_c = os.path.join(_td, "corpus")
+_r1 = fs.unpack_local(_spec, corpus=_c, root=_td)
+check("local source: shipped copy unpacked byte-for-byte, then left alone",
+      open(os.path.join(_c, "lexicons/out.json"), "rb").read() == _raw and "sha256 checked" in _r1
+      and fs.unpack_local(_spec, corpus=_c, root=_td) == "present")
+os.unlink(os.path.join(_c, "lexicons/out.json"))
+try:
+    fs.unpack_local(_spec[:4] + ("0" * 64, "n"), corpus=_c, root=_td); _refused = False
+except RuntimeError:
+    _refused = True
+check("local source: a shipped copy that is not the pinned bytes is refused",
+      _refused and not os.path.exists(os.path.join(_c, "lexicons/out.json")))
+check("local source: brewer's pins are declared (source PDF + unpacked paragraphs)",
+      len(fs.LOCAL_SOURCES["brewer"][0]) == 64 and len(fs.LOCAL_SOURCES["brewer"][4]) == 64
+      and fs.LOCAL_SOURCES["brewer"][3].startswith("data/lexicons/"))
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

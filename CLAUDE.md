@@ -87,7 +87,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 81 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 84 offline checks (no corpus needed)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
@@ -265,7 +265,13 @@ text, while Adam's PDF is a born-digital typeset (2,971pp, htmldoc 2003) —
 exact text, no OCR. So it is declared in `LOCAL_SOURCES` in
 `fetch_sources.py`, **pinned by sha256**, and `pipeline/extract_brewer.py`
 is the recipe from that one file to `data/corpus/lexicons/brewer-1894.paras.json`.
-A different PDF is refused. To rebuild on another machine you need the PDF.
+A different PDF is refused. **Its working text is committed** (Adam's ruling
+2026-10-19: commit the working text of public-domain books built from his own
+files): `data/lexicons/brewer-1894.paras.json.gz`, reproducible byte for byte,
+and `fetch_sources.py` unpacks it into `data/corpus/` after checking its pinned
+sha256. So a fresh clone — the hosted Armarium's rebuild — builds Brewer's
+without the PDF. The PDF itself is kept in the vault,
+`9 - Projects/Armarium/sources/`.
 
 **Unlike Thayer's, it is segmented by entry — 16,750 units,
 `brewer:<headword-slug>`** (repeats `~2`, `~3` in page order; `ref` is

@@ -18,7 +18,11 @@ PDF -- even another copy of "the same" book -- is refused; that is the
 point of the pin.
 
 Output: data/corpus/lexicons/brewer-1894.paras.json (gitignored with the rest
-of the corpus). Needs PyMuPDF (pip install pymupdf).
+of the corpus), and the same bytes gzipped to data/lexicons/
+brewer-1894.paras.json.gz, which IS committed: that is how a fresh clone with
+no PDF (the hosted rebuild) still builds Brewer's. The JSON is written
+compact and the gzip with mtime=0, so the bytes are reproducible and the
+pinned PARAS_SHA256 in fetch_sources.py holds. Needs PyMuPDF.
 
 WHAT A PARAGRAPH IS HERE. The typeset gives every paragraph -- headword and
 body alike -- the same 26.4pt gap, with 13.2pt between wrapped lines, so a
@@ -37,6 +41,10 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, "data", "corpus", "lexicons", "brewer-1894.paras.json")
+# The same paragraphs, COMMITTED (2026-10-19), so a fresh clone -- the hosted
+# Armarium's rebuild above all -- can build Brewer's without the PDF.
+# fetch_sources.py unpacks it into OUT after checking PARAS_SHA256.
+SHIPPED = os.path.join(ROOT, "data", "lexicons", "brewer-1894.paras.json.gz")
 SHA256 = "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c"
 PARA_GAP = 20.0
 
@@ -87,10 +95,17 @@ def main():
     if got != SHA256 and not a.any_pdf:
         sys.exit(f"REFUSED: {a.pdf} sha256 {got}\n  is not the pinned source {SHA256}")
     data = extract(a.pdf)
+    raw = json.dumps(data, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT + ".tmp", "w", encoding="utf-8") as f:     # atomic, rule 5
-        json.dump(data, f, ensure_ascii=False)
+    with open(OUT + ".tmp", "wb") as f:                       # atomic, rule 5
+        f.write(raw)
     os.replace(OUT + ".tmp", OUT)
+    import gzip
+    with open(SHIPPED + ".tmp", "wb") as f:
+        with gzip.GzipFile(fileobj=f, mode="wb", compresslevel=9, mtime=0, filename="") as g:
+            g.write(raw)
+    os.replace(SHIPPED + ".tmp", SHIPPED)
+    print(f"paragraphs sha256 {hashlib.sha256(raw).hexdigest()}  ->  {SHIPPED}")
     print(f"{OUT}: {len(data['paras']):,} paragraphs from {data['pages']:,} pages, "
           f"{len(data['toc'])} letter sections, {data['furniture_lines']:,} furniture lines dropped")
 
