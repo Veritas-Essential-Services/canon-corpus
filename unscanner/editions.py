@@ -72,8 +72,10 @@ def load_djvu(path):
     x = open(path, encoding="utf-8", errors="replace").read()
     ent = lambda s: s.replace("&quot;", '"').replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<").replace("&apos;", "'")
     out = {}
-    for i, m in enumerate(re.finditer(r'<OBJECT[^>]*?height="(\d+)"[^>]*?width="(\d+)"[^>]*>(.*?)</OBJECT>', x, re.S)):
-        h, w, body = int(m.group(1)), int(m.group(2)), m.group(3)
+    for i, m in enumerate(re.finditer(r"<OBJECT\b([^>]*)>(.*?)</OBJECT>", x, re.S)):
+        attrs, body = m.group(1), m.group(2)
+        h = int(re.search(r'height="(\d+)"', attrs).group(1))
+        w = int(re.search(r'width="(\d+)"', attrs).group(1))
         words = []
         for li, line in enumerate(re.findall(r"<LINE>(.*?)</LINE>", body, re.S)):
             for c, t in re.findall(r'<WORD coords="([^"]+)"[^>]*>([^<]*)</WORD>', line):
@@ -107,13 +109,50 @@ def align(base, other):
     return m
 
 
+def folio(words):
+    """The printed page number: a bare number on one of the page's first three lines.
+    This edition sets it on its own line between two running heads ("QUACKS / 261 /
+    QUACKS"), which the Unscanner's folio rule (a number at the end of a head) misses."""
+    lines = defaultdict(list)
+    for w in words:
+        lines[w["line"]].append(w["t"])
+    for li in sorted(lines)[:3]:
+        t = " ".join(lines[li]).strip(" .,'")
+        if re.fullmatch(r"\d{1,4}", t):
+            return t
+    return None
+
+
+TEXT_WORDS = 120         # a page with this many words is a text page (plates and blanks are not)
+
+
+def labels(scan):
+    """Each text page's folio, from either engine (ours first, then the Archive's); a folio
+    neither engine read is inferred when the folios on BOTH sides agree with counting text
+    pages between them (plates carry no number, so they are not counted)."""
+    out = {}
+    for n, p in scan["tess"].items():
+        lab = folio(p["words"]) or (folio(scan["djvu"][n]["words"]) if n in scan["djvu"] else None)
+        if lab:
+            out[n] = lab
+    text = sorted(n for n, p in scan["tess"].items() if len(p["words"]) >= TEXT_WORDS)
+    pos = {n: k for k, n in enumerate(text)}
+    known = [n for n in text if n in out]
+    for a, b in zip(known, known[1:]):
+        gap = pos[b] - pos[a]
+        if gap > 1 and int(out[b]) - int(out[a]) == gap:
+            for k in range(1, gap):
+                out[text[pos[a] + k]] = str(int(out[a]) + k)
+    return out
+
+
 def pair_pages(scans):
     """Printed page label -> {scan: page n}, for labels every scan reads exactly once."""
     by = {}
     for name, s in scans.items():
-        seen = Counter(p["label"] for p in s["tess"].values() if p.get("label"))
-        for n, p in s["tess"].items():
-            lab = p.get("label")
+        labs = labels(s)
+        seen = Counter(labs.values())
+        for n, lab in labs.items():
             if lab and seen[lab] == 1:
                 by.setdefault(lab, {})[name] = n
     return {lab: d for lab, d in by.items() if len(d) == len(scans)}
