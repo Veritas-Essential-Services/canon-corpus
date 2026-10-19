@@ -12,7 +12,9 @@ Three converters, one output shape (the Canon Corpus JSON design, vault:
   ThML (CCEL,    data/corpus/ccel/*.xml)     — scripture keylinks born-in
   KJV  (Gutenberg data/corpus/kjv_bible.txt) — book chapter:verse, exact
   LEXICON (data/corpus/lexicons/*)           — reference works keyed by lemma:
-                                               Strong's H/G, Brown-Driver-Briggs
+                                               Strong's H/G, Brown-Driver-Briggs;
+                                               and dictionaries of names keyed by
+                                               entry: Smith's classical, Brewer's literary
 
 Output: data/books/<slug>.json (gitignored — rebuildable) and
 data/books/manifest.json (committed — checksums, schemes, provenance).
@@ -786,6 +788,502 @@ def convert_stepbible_greek(paths, slug, title, author, scheme_note):
                                "resolved into links[], including into strongs-hebrew "
                                "for transliterated Hebrew names."},
             "units": units}
+
+# ---------------------------------------------------------------- reference dictionaries
+# Two dictionaries of a different kind from the lexicons above (2026-10-19): they
+# explain NAMES, not words. Smith's Biography and Mythology is the classical
+# dictionary (who was Abaris, which Apicius wrote the cookbook); Brewer's
+# Character Sketches is the literary one (who is Captain Absolute, what is the
+# Faultless Painter). Both keyed at ENTRY level, both through the same
+# {id, ref, text, links[]} contract, extra fields under `lex`.
+
+TEI = "{http://www.tei-c.org/ns/1.0}"
+XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
+
+
+def _tei_flat(el, skip=()):
+    """Text of a TEI element in reading order, minus any child whose tag is in
+    `skip` (the entry's own head, its byline, nested sub-entries). The tail of a
+    skipped child is kept: it is the text that follows it, not part of it."""
+    out = []
+    def walk(node):
+        if node.text:
+            out.append(node.text)
+        for kid in node:
+            if kid.tag in skip or (kid.tag == TEI + "div" and kid.get("type") == "subentry"):
+                pass
+            else:
+                walk(kid)
+            if kid.tail:
+                out.append(kid.tail)
+    walk(el)
+    return re.sub(r"\s+", " ", "".join(out)).strip()
+
+
+def _smith_lemma(head):
+    """Smith prints the stress on the headword with an apostrophe after the
+    stressed vowel (Abanti'ades, A'baris). The ref keeps it as printed; the
+    lemma used for lookup drops it."""
+    return re.sub(r"\s+", " ", head.replace("'", "").replace("’", "")).strip()
+
+
+def convert_smith_dgrbm(path, slug="smith-dgrbm"):
+    """Smith, A Dictionary of Greek and Roman Biography and Mythology
+    (London: John Murray, 1848; the 1873 printing), Perseus TEI.
+
+    THE KEY IS PERSEUS'S xml:id, NOT THE HEADWORD.
+
+    Smith numbers homonyms -- there are 19 men called Apollonius -- and the
+    headword alone cannot tell them apart. Perseus gave every entry an xml:id
+    (`abaris-bio-1`, `apicius-bio-3`), and Smith's own internal cross-references
+    are already encoded as <ref target="..."> pointing at those ids. Keying on
+    the xml:id makes every one of those cross-references resolve exactly,
+    with no inference. 163 entries have an xml:id but no `n`; the xml:id is
+    the one key present on all of them.
+
+    Three kinds of link come out of an entry:
+      * `see`: <ref target> to another entry's xml:id. Exact.
+      * `see` with `by: "headword"`: Smith's printed [SEE-NAME.] cross-
+        reference in small capitals, which Perseus did NOT encode as a ref.
+        Resolved by headword only when exactly one entry carries it; when
+        several do (homonyms), every candidate is listed and `resolved` is
+        False. A labelled hole beats a confident wrong label.
+      * `classical`: a <bibl n="Hdt. 8.33"> citation of an ancient author,
+        recorded as Perseus normalised it, `resolved: False`. Resolving these
+        to Perseus CTS passages is its own piece of work, like BDB's scripture.
+    The contributor initials in each entry's byline ([L.S], [P.S]) go under
+    lex.contributors; the key to the initials is in the volume's front matter.
+    The printed page(s) an entry spans come from <pb n> and go under lex.pages.
+    """
+    root = ET.parse(path).getroot()
+    body = root.find(f".//{TEI}body")
+    entries = []          # (div, pages)
+    page = None
+    def walk(node, cur):
+        nonlocal page
+        for kid in node:
+            if kid.tag == TEI + "pb":
+                page = kid.get("n")
+                if cur is not None and page not in cur:
+                    cur.append(page)
+                continue
+            is_entry = (kid.tag == TEI + "div" and kid.get(XML_ID)
+                        and (kid.get("subtype") == "entry" or kid.get("type") == "subentry"))
+            if is_entry:
+                pages = [page] if page else []
+                entries.append((kid, pages))
+                walk(kid, pages)
+                if cur is not None:     # a sub-entry's pages are its parent's too
+                    for p in pages:
+                        if p not in cur:
+                            cur.append(p)
+            else:
+                walk(kid, cur)
+    walk(body, None)
+    ids = {e.get(XML_ID) for e, _ in entries}
+    by_lemma = {}
+    heads = {}
+    for e, _ in entries:
+        h = e.find(TEI + "head")
+        head = _tei_flat(h) if h is not None else ""
+        heads[e.get(XML_ID)] = head
+        by_lemma.setdefault(_smith_lemma(head).lower(), []).append(e.get(XML_ID))
+    parent = {c: p for p in body.iter() for c in p}
+    units = []
+    exact = headword = ambiguous = unresolved = cites = works = 0
+    for e, pages in entries:
+        xid = e.get(XML_ID)
+        head = heads[xid]
+        paras = [_tei_flat(p, skip=(TEI + "head", TEI + "byline"))
+                 for p in e if p.tag not in (TEI + "head", TEI + "byline", TEI + "pb")
+                 and not (p.tag == TEI + "div" and p.get("type") == "subentry")]
+        # a <div> that only groups sub-entries keeps its own head as a line
+        paras = [p for p in paras if p]
+        # the entry reads as printed, headword first: "Abaeus (Ἀβαῖος), a surname of Apollo"
+        if paras and head:
+            sep = "" if paras[0][:1] in ",." else " "
+            paras[0] = head + sep + paras[0]
+        links, contributors, seen = [], [], set()
+        subs = [s.get(XML_ID) for s in e.iter(TEI + "div")
+                if s is not e and s.get("type") == "subentry" and s.get(XML_ID)]
+        def mine(node):
+            """Elements of this entry, not of a nested sub-entry (that one is its own unit)."""
+            for kid in node:
+                if kid.tag == TEI + "div" and kid.get("type") == "subentry":
+                    continue
+                yield kid
+                yield from mine(kid)
+        for el in mine(e):
+            if el.tag == TEI + "ref":
+                t = (el.get("target") or "").strip()
+                if t.startswith("author."):
+                    contributors.append(t[len("author."):])
+                elif t in ids and t != xid:
+                    if ("see", t) not in seen:
+                        seen.add(("see", t))
+                        links.append({"kind": "see", "target": f"{slug}:{t}"})
+                        exact += 1
+                elif re.match(r"(phi|tlg|stoa)-?\d", t):
+                    # a work, by its PHI/TLG number (phi-0959.008 = Ovid, Metamorphoses)
+                    works += 1
+                    links.append({"kind": "work", "work": t, "ref": _tei_flat(el),
+                                  "resolved": False})
+                elif t:
+                    unresolved += 1
+                    links.append({"kind": "see", "target_as_encoded": t, "resolved": False})
+            elif el.tag == TEI + "hi" and el.get("rend") == "smallcaps":
+                # Small capitals are Smith's type for any name in passing; only
+                # one in square brackets, [ARISTAEUS] or [See ARISTAEUS, No. 2.],
+                # is a cross-reference.
+                tail = el.tail or ""
+                par = parent.get(el)
+                before = ""
+                if par is not None:
+                    sibs = list(par)
+                    k = sibs.index(el)
+                    before = (sibs[k - 1].tail or "") if k else (par.text or "")
+                if not (tail.lstrip().startswith("]") or before.rstrip().endswith("[")
+                        or re.search(r"\[\s*(See|see|comp\.)?\s*$", before)):
+                    continue
+                name = _tei_flat(el).rstrip(".,; ")
+                cands = [c for c in by_lemma.get(_smith_lemma(name).lower(), []) if c != xid]
+                if not cands or ("sc", name) in seen:
+                    continue
+                seen.add(("sc", name))
+                num = re.match(r"\s*,?\s*No\.\s*(\d+)", tail)
+                if num and len(cands) > 1:
+                    pick = [c for c in cands if c.endswith(f"-{num.group(1)}")]
+                    if len(pick) == 1:
+                        cands = pick
+                if len(cands) == 1:
+                    links.append({"kind": "see", "by": "headword", "label": name,
+                                  "target": f"{slug}:{cands[0]}"})
+                    headword += 1
+                else:
+                    links.append({"kind": "see", "by": "headword", "label": name,
+                                  "candidates": [f"{slug}:{c}" for c in cands],
+                                  "resolved": False})
+                    ambiguous += 1
+            elif el.tag == TEI + "bibl" and el.get("n"):
+                links.append({"kind": "classical", "cite": el.get("n").strip(),
+                              "ref": _tei_flat(el), "resolved": False})
+                cites += 1
+        units.append({"id": f"{slug}:{xid}",
+                      "ref": head + (f" ({e.get('n')})" if e.get("n") else ""),
+                      "text": "\n\n".join(paras),
+                      "links": links,
+                      "lex": {"lemma": _smith_lemma(head),
+                              "n": e.get("n") or "",
+                              "pages": pages,
+                              "contributors": contributors,
+                              **({"subentries": [f"{slug}:{s}" for s in subs]} if subs else {}),
+                              }})
+    # sub-entries point back at their parent
+    parent_of = {s: u["id"] for u in units for s in u["lex"].get("subentries", [])}
+    for u in units:
+        if u["id"] in parent_of:
+            u["lex"]["subentry_of"] = parent_of[u["id"]]
+    return {"slug": slug,
+            "title": "A Dictionary of Greek and Roman Biography and Mythology",
+            "author": "ed. William Smith (London: John Murray, 1848; 1873 printing)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "dictionary-tei",
+                       "sha256": sha256(path)},
+            "rights": {"license": "text public domain (1848); Perseus markup CC BY-SA 4.0",
+                       "attribution": "Text provided under a CC BY-SA license by Perseus "
+                                      "Digital Library, http://www.perseus.tufts.edu, with "
+                                      "funding from the NEH and Tufts University. Data accessed "
+                                      "from https://github.com/PerseusDL/canonical-pdlrefwk/ "
+                                      "on 2026-10-19.",
+                       "source_url": "https://github.com/PerseusDL/canonical-pdlrefwk",
+                       "redistribute_whole": False,
+                       "note": "Smith's text is US public domain. Perseus's encoding of it "
+                               "is CC BY-SA 4.0, which asks for credit, share-alike and that "
+                               "changes be offered back to Perseus. Held like every other "
+                               "Perseus text here (redistribute_whole false) until Adam rules "
+                               "on CC BY-SA wholes; quote and cite with the credit line."},
+            "scheme": {"citation": "Perseus xml:id of the entry (e.g. abaris-bio-1); "
+                                   "printed page under lex.pages",
+                       "resolution": "entry", "honesty": "exact",
+                       "note": f"{len(units):,} entries and sub-entries, as Perseus delimited "
+                               f"them. Cross-references: {exact:,} encoded by Perseus and "
+                               f"exact; {headword:,} printed [SEE-NAME.] references resolved "
+                               f"by a unique headword; {ambiguous:,} left unresolved with "
+                               f"their candidates because the headword names several "
+                               f"people; {unresolved:,} encoded targets that match no entry, "
+                               f"kept as encoded. {cites:,} citations of ancient authors, and "
+                               f"{works:,} references to a work by its PHI/TLG number, are "
+                               f"recorded as Perseus normalised them and NOT resolved to "
+                               f"passages. Accents printed as apostrophes (A'baris) are kept "
+                               f"in the ref and dropped from lex.lemma."},
+            "units": units}
+
+
+# Brewer's Character Sketches: four Gutenberg volumes, transcribed by different
+# hands, so the headword is marked two different ways. Volume I (PG 11431) keeps
+# the printed SMALL CAPITALS as capitals: `ABSOLUTE (_Sir Anthony_), a testy...`.
+# Volumes II-IV (PG 58596, 20851, 58988) mark the bold headword `=Faulkland=,`.
+# The rule is per volume, measured, not guessed: vol. I has no `=...=` headwords
+# and vols. II-IV have capitals only inside lists (Vol. II's jesters).
+RE_BREWER_CAPS = re.compile(
+    r"^([A-ZÆŒÀ-Þ][A-ZÆŒÀ-Þ'’´`&. -]*?[A-ZÆŒÀ-Þ'’´`.])(?=,| \(|\.|;| _| [a-z]|$)")
+RE_BREWER_BOLD = re.compile(r"^=([^=\n]{1,100})=")
+BREWER_VOLS = (  # (file, PG id, first headword of the body, headword style)
+    ("brewer-character-sketches-1.txt", 11431, "AA'RON, a Moor", "caps"),
+    ("brewer-character-sketches-2.txt", 58596, "=Falkland=", "bold"),
+    ("brewer-character-sketches-3.txt", 20851, "=Mark Tapley=", "bold"),
+    ("brewer-character-sketches-4.txt", 58988, "=Skeggs=", "bold"),
+)
+
+
+def _brewer_key(head):
+    """`Abou Ben Adhem` -> `abou-ben-adhem`; accents marked with ' or ´ go."""
+    import unicodedata
+    head = re.sub(r"['’´`]", "", head)      # before NFKD, which splits ´ into space + accent
+    s = unicodedata.normalize("NFKD", head.replace("Æ", "Ae").replace("æ", "ae")
+                              .replace("Œ", "Oe").replace("œ", "oe"))
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"['’´`]", "", s.lower())
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-") or "x"
+
+
+def _brewer_head(p, style):
+    """(headword as printed, qualifier) of a paragraph that opens an entry, else None.
+    The qualifier is the parenthesis after the name: ABSOLUTE (_Sir Anthony_)."""
+    s = p.lstrip()
+    indent = len(p) - len(p.lstrip(" "))
+    # Indented means a verse quotation or a list item, never a headword -- except
+    # that vol. IV's transcription indents EVERY paragraph by two spaces from
+    # =Theresa= to the end, so a bold mark at an indent of two still opens one.
+    if indent > (2 if style == "bold" else 0):
+        return None
+    if style == "bold":
+        m = RE_BREWER_BOLD.match(s)
+        if not m:
+            return None
+        head, rest = m.group(1).strip().rstrip(",.;: "), s[m.end():]
+    else:
+        m = RE_BREWER_CAPS.match(s)
+        if not m or len(re.sub(r"[^A-ZÆŒÀ-Þ]", "", m.group(1))) < 2:
+            return None
+        head, rest = m.group(1).strip().rstrip("."), s[m.end():]
+        if re.fullmatch(r"[IVXLC]+|N\.B|B\.C|A\.D|Q\.E\.D", head):
+            return None             # a list's roman numeral, or an abbreviation
+        if re.fullmatch(r"(?:[A-Z]\.\s?)+[A-Z]?", head):
+            return None             # initials opening a signature or a quotation's source
+    q = re.match(r"\s*_?\(([^)]*)\)_?", rest)      # (_Sir Anthony_) or _(Sir Anthony)_
+    qual = q.group(1).replace("_", "").strip() if q else ""
+    return head, qual
+
+
+def _brewer_case(head):
+    """ABOU BEN ADHEM -> Abou Ben Adhem; AB'SALOM -> Ab'salom (not Ab'Salom)."""
+    return " ".join(w[:1] + w[1:].lower() for w in head.split(" "))
+
+
+def _brewer_in_order(keys):
+    """Indexes of the longest run of headword candidates whose first two
+    letters never go backwards (a longest non-decreasing subsequence).
+
+    WHY: Brewer has list entries -- Dying Sayings, Dwarfs, Errors of Authors,
+    the court jesters -- whose items are printed with the same capitals or
+    bold as a headword (`ADDISON`, `ANAXAGORAS` ... under DYING SAYINGS).
+    Taken at face value each item opens a false entry and the alphabet jumps
+    back to A. The dictionary's own alphabetical order is the evidence: the
+    real headwords are the longest sequence that keeps the order, and a
+    candidate outside it is an item of the list it sits in."""
+    import bisect
+    tails, tails_i, prev = [], [], [None] * len(keys)
+    for i, k in enumerate(keys):
+        j = bisect.bisect_right(tails, k)
+        if j == len(tails):
+            tails.append(k); tails_i.append(i)
+        else:
+            tails[j] = k; tails_i[j] = i
+        prev[i] = tails_i[j - 1] if j else None
+    keep, i = set(), (tails_i[-1] if tails_i else None)
+    while i is not None:
+        keep.add(i); i = prev[i]
+    return keep
+
+
+def _brewer_appendix(text, vol):
+    """Volume IV's three appendices, one unit per item: I a bibliography of
+    English and American authors (one block per =Author=), II dates of foreign
+    poems and novels (one paragraph each), III authors and dates of dramas and
+    operas (one line each). Keyed by appendix and the item's own name."""
+    out = []
+    # each appendix title stands alone on its line; "LIST OF ABBREVIATIONS IN
+    # APPENDIX III." (which sits inside Appendix II) must not match
+    a1, a2, a3 = (re.search(rf"^\s*APPENDIX {n}\.\s*$", text, re.M).start()
+                  for n in ("I", "II", "III"))
+    t1, t2, t3 = text[a1:a2], text[a2:a3], text[a3:]
+    for blk in re.split(r"\n(?=  =)", t1)[1:]:
+        m = re.match(r"\s*=([^=]+)=\s*(\(([^)]*)\))?", blk)
+        if m:
+            out.append(("app1", m.group(1).strip() + (f" ({m.group(3)})" if m.group(3) else ""),
+                        re.sub(r"[ \t]+", " ", blk.strip())))
+    t2 = t2[t2.index("8 syl. v."):t2.index("LIST OF ABBREVIATIONS IN APPENDIX III")]
+    for p in re.split(r"\n\s*\n", t2)[1:]:
+        p = p.strip()
+        m = RE_BREWER_BOLD.match(p) or re.match(r"([^,]+),", p)
+        if m and p:
+            out.append(("app2", m.group(1).strip(), re.sub(r"\s+", " ", p)))
+    body = t3.split("----------", 2)[-1]
+    item = None
+    for line in body.split("\n"):
+        if re.match(r"^  [^\s_]", line):          # "  _If any discrepancy..." is the preface
+            if item:
+                out.append(item)
+            name = re.split(r",| \(", line.strip(), maxsplit=1)[0]
+            item = ("app3", name, line.strip())
+        elif line.strip() and item and line.startswith("   "):
+            item = (item[0], item[1], item[2] + " " + line.strip())
+        elif not line.strip() and item:
+            out.append(item); item = None
+    if item:
+        out.append(item)
+    return out
+
+
+def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
+    """Brewer, Character Sketches of Romance, Fiction and the Drama -- the
+    revised American edition of THE READER'S HANDBOOK, ed. Marion Harland
+    (New York: Selmar Hess, 1892), four volumes, A-Z plus three appendices.
+
+    Unit = one headword entry. A paragraph opens a new entry only when it
+    starts with the volume's headword mark (see BREWER_VOLS); every paragraph
+    after it -- quotations, a second sense in italics (`_Captain Absolute_,
+    son of sir Anthony`), the source line -- belongs to that entry until the
+    next headword. The italic second senses are Brewer's sub-entries; they
+    are listed under lex.subheads, not split out, because the transcription
+    does not distinguish them from an italic book title that opens a line.
+
+    Ids are the headword as a slug (`brewer-character-sketches:absolute`);
+    a second entry with the same headword gets `~2` from main(), in book
+    order, so ids are stable for this pinned edition. `See X` cross-
+    references are resolved when exactly one entry has headword X.
+    """
+    units = []
+    list_items = tn_marks = 0
+    for (path, (fn, pg, start, style)) in zip(paths, BREWER_VOLS):
+        raw = open(path, encoding="utf-8").read().replace("\r", "")
+        raw = strip_boilerplate(raw)
+        # the transcribers' closing note (their list of corrections) is not
+        # Brewer's text; it is the last "Transcriber's Note" in the volume
+        j = max(raw.rfind("Transcriber’s Note"), raw.rfind("Transcriber's Note"))
+        if j > len(raw) * 0.9:
+            raw = raw[:j]
+        # vol. III marks each printer's error it kept with [TN-12], a pointer
+        # into the transcribers' list; the pointer is theirs, not Brewer's
+        raw, k = re.subn(r"\[TN-\d+\]", "", raw)
+        tn_marks += k
+        body = raw[raw.index(start):]
+        appendix = []
+        if pg == 58988:
+            cut = body.index("APPENDICES.")
+            appendix = _brewer_appendix(body[cut:], 4)
+            body = body[:cut]
+        vol = BREWER_VOLS.index((fn, pg, start, style)) + 1
+        paras = [p for p in re.split(r"\n\s*\n", body)
+                 if p.strip() and not p.strip().startswith("[Illustration")]
+        heads = [_brewer_head(p, style) for p in paras]
+        cand = [i for i, h in enumerate(heads) if h]
+        keep = _brewer_in_order([_brewer_key(heads[i][0])[:2] for i in cand])
+        cur = None
+        for n, i in enumerate(cand):
+            if n not in keep:
+                list_items += 1
+                heads[i] = ("list", heads[i][0])
+        for p, h in zip(paras, heads):
+            if h and h[0] == "list":
+                if cur is not None:
+                    cur["lex"].setdefault("list_items", []).append(
+                        _brewer_case(h[1]) if style == "caps" else h[1])
+                h = None
+            if h:
+                head, qual = h
+                head_disp = _brewer_case(head) if style == "caps" else head
+                # the qualifier is part of the key: Brewer prints AGNES (St.) and
+                # AGNES (in The Spectator) as separate entries
+                # ...but not a syllable count, AMINE (3 syl.), which is pronunciation
+                kq = "" if re.match(r"\d+ syl", qual) else qual
+                cur = {"id": f"{slug}:{_brewer_key(head + ' ' + kq)}",
+                       "ref": head_disp + (f" ({qual})" if qual else ""),
+                       "paras": [re.sub(r"\s+", " ", p.strip())],
+                       "lex": {"headword": head, "qualifier": qual, "volume": vol,
+                               "subheads": []}}
+                units.append(cur)
+            elif cur is not None:
+                s = p.strip()
+                if s.startswith("_") and re.match(r"_[^_]{1,60}_,", s):
+                    cur["lex"]["subheads"].append(re.match(r"_([^_]{1,60})_,", s).group(1))
+                verse = len(p) - len(p.lstrip(" ")) >= (1 if style == "caps" else 3)
+                cur["paras"].append(re.sub(r"[ \t]+", " ", s) if verse
+                                    else re.sub(r"\s+", " ", s))
+        for kind, name, text in appendix:
+            units.append({"id": f"{slug}:{kind}:{_brewer_key(name)}",
+                          "ref": f"Appendix {'I' * int(kind[-1])}: {name}",
+                          "paras": [text],
+                          "lex": {"headword": name, "appendix": kind, "volume": 4,
+                                  "subheads": []}})
+    key = {}
+    for u in units:
+        if "appendix" not in u["lex"]:
+            key.setdefault(_brewer_key(u["lex"]["headword"]), []).append(u["id"])
+    resolved = ambiguous = 0
+    for u in units:
+        u["text"] = "\n\n".join(u.pop("paras"))
+        links, seen = [], set()
+        for m in re.finditer(r"\(?See ([A-Z][A-Za-zÆŒÀ-ÿ'’´ .-]{1,40}?)[).;,]", u["text"]):
+            name = m.group(1).strip().rstrip(".")
+            k = _brewer_key(name)
+            if k in seen or k == _brewer_key(u["lex"]["headword"]):
+                continue
+            seen.add(k)
+            cands = key.get(k, [])
+            if len(set(cands)) == 1:
+                links.append({"kind": "see", "label": name, "target": cands[0]}); resolved += 1
+            elif cands:
+                links.append({"kind": "see", "label": name, "candidates": sorted(set(cands)),
+                              "resolved": False}); ambiguous += 1
+        u["links"] = links
+        if not u["lex"]["subheads"]:
+            del u["lex"]["subheads"]
+    n_app = sum(1 for u in units if "appendix" in u["lex"])
+    return {"slug": slug,
+            "title": "Character Sketches of Romance, Fiction and the Drama "
+                     "(The Reader's Handbook, revised American edition)",
+            "author": "E. Cobham Brewer; ed. Marion Harland (New York: Selmar Hess, 1892)",
+            "source": {"path": ", ".join(os.path.relpath(p, CORPUS) for p in paths),
+                       "format": "dictionary-gutenberg",
+                       "sha256": sha256(paths[0]),
+                       "sha256_all": [sha256(p) for p in paths]},
+            "scheme": {"citation": "headword as a slug; `~2` for a repeated headword; "
+                                   "`app1:`/`app2:`/`app3:` for the three appendices",
+                       "resolution": "entry",
+                       "honesty": "entry boundaries from the transcription's headword marks",
+                       "note": f"{len(units) - n_app:,} dictionary entries across four "
+                               f"Gutenberg volumes (PG 11431, 58596, 20851, 58988) plus "
+                               f"{n_app:,} appendix items (authors' works; dates of foreign "
+                               f"poems and novels; dramas and operas). Volume I marks headwords "
+                               f"in capitals, II-IV in bold, and Brewer's list entries (Dying "
+                               f"Sayings, Dwarfs, court jesters) print their items the same "
+                               f"way. {list_items:,} such items were told from headwords by "
+                               f"the dictionary's own alphabetical order and kept inside their "
+                               f"entry (lex.list_items). The same test would fold a real "
+                               f"headword Brewer himself printed out of order; the folded "
+                               f"names are kept in lex.list_items so that can be checked. "
+                               f"Italic second "
+                               f"senses ride inside their entry under lex.subheads. "
+                               f"{resolved:,} `See X` references resolved to a unique headword; "
+                               f"{ambiguous:,} left with their candidates. The text is the "
+                               f"1892 printing as the Gutenberg transcribers keyed it: they "
+                               f"list their corrections at the end of each volume and "
+                               f"modernised nothing; vol. III's {tn_marks} [TN-n] pointers to "
+                               f"kept printer's errors are stripped. Printed page numbers "
+                               f"are not in the transcription, so no page is claimed."},
+            "units": units}
+
 
 # ---------------------------------------------------------------- Gutenberg .txt
 
@@ -1691,6 +2189,13 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    smith = os.path.join(CORPUS, "lexicons", "smith-dgrbm.xml")
+    if os.path.exists(smith):
+        jobs.append(("smith-dgrbm", lambda: convert_smith_dgrbm(smith)))
+    brewer = [os.path.join(CORPUS, "lexicons", v[0]) for v in BREWER_VOLS]
+    if all(os.path.exists(x) for x in brewer):
+        jobs.append(("brewer-character-sketches",
+                     lambda: convert_brewer_character_sketches(brewer)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",

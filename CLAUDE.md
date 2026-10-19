@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 88 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -255,6 +255,41 @@ against the scan — with detected headwords carried under `lex.headwords`,
 flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
+
+## Dictionaries of names — the classical and the literary (2026-10-19)
+
+Adam asked for "a classical dictionary and a literary dictionary that are public
+domain". Both ingest through `LEXICONS` and `structure_texts.py`, keyed at ENTRY
+level, same `{id, ref, text, links[]}` contract, extras under `lex`:
+
+- **`smith-dgrbm`** — Smith, *Dictionary of Greek and Roman Biography and
+  Mythology* (London 1848, 1873 printing), Perseus TEI pinned to commit
+  `02768b0`. 19,893 entries + 8 sub-entries. The key is **Perseus's xml:id**
+  (`smith-dgrbm:abaris-bio-1`), not the headword: Smith has 19 Apolloniuses,
+  and Perseus already encoded Smith's cross-references against those ids, so
+  they resolve exactly. Printed `[NAME.]` cross-references are resolved by
+  headword only when one entry has it (`[X, No. 2]` picks the homonym); the
+  rest keep their candidates, `resolved: false`. 43,867 ancient-author
+  citations recorded as Perseus normalised them, NOT resolved to passages.
+  Text PD; **markup CC BY-SA 4.0 → `redistribute_whole: false`** like every
+  Perseus text here, pending Adam's ruling on CC BY-SA wholes.
+  Why not Lemprière: Smith is fuller, and the only machine-readable Lemprière
+  (PG 68769) expands the printed abbreviations, which lane B holds for Adam.
+- **`brewer-character-sketches`** — Brewer, *Character Sketches of Romance,
+  Fiction and the Drama*, the revised American edition of **The Reader's
+  Handbook**, ed. Marion Harland (Selmar Hess, 1892), PG 11431/58596/20851/58988.
+  ~10,200 entries A–Z plus ~4,200 appendix items (authors' works; foreign poems;
+  dramas and operas). Vol. I marks headwords in CAPITALS, II–IV in `=bold=`, and
+  vol. IV indents every paragraph two spaces from `=Theresa=` on. Brewer's list
+  entries (Dying Sayings, Errors of Authors) print their items like headwords;
+  they are told apart by the dictionary's own alphabetical order (a longest
+  non-decreasing run) and kept in `lex.list_items`. Brewer's *Dictionary of
+  Phrase and Fable* has no Gutenberg edition; Wikisource refuses this
+  environment's requests (HTTP 429).
+
+The lane-B shelves `william-smith` and `anthon` hold Smith's other dictionaries
+and Anthon as raw IA OCR books; this is the entry-keyed layer, not a duplicate
+acquisition.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 

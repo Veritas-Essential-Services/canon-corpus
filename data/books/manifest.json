@@ -1702,5 +1702,38 @@
    "resolution": "paragraph",
    "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org odysseyforboysgi00chur), mean word confidence 93.28: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
   }
+ },
+ "smith-dgrbm": {
+  "title": "A Dictionary of Greek and Roman Biography and Mythology",
+  "author": "ed. William Smith (London: John Murray, 1848; 1873 printing)",
+  "format": "dictionary-tei",
+  "sha256": "d6462fbc94d66be83488c4c79d0f76fbd3e26a5ab8cb64c362f0348eaaaffa9a",
+  "units": 19901,
+  "scheme": {
+   "citation": "Perseus xml:id of the entry (e.g. abaris-bio-1); printed page under lex.pages",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "19,901 entries and sub-entries, as Perseus delimited them. Cross-references: 672 encoded by Perseus and exact; 2,123 printed [SEE-NAME.] references resolved by a unique headword; 2,200 left unresolved with their candidates because the headword names several people; 85 encoded targets that match no entry, kept as encoded. 43,867 citations of ancient authors, and 517 references to a work by its PHI/TLG number, are recorded as Perseus normalised them and NOT resolved to passages. Accents printed as apostrophes (A'baris) are kept in the ref and dropped from lex.lemma."
+  },
+  "rights": {
+   "license": "text public domain (1848); Perseus markup CC BY-SA 4.0",
+   "attribution": "Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the NEH and Tufts University. Data accessed from https://github.com/PerseusDL/canonical-pdlrefwk/ on 2026-10-19.",
+   "source_url": "https://github.com/PerseusDL/canonical-pdlrefwk",
+   "redistribute_whole": false,
+   "note": "Smith's text is US public domain. Perseus's encoding of it is CC BY-SA 4.0, which asks for credit, share-alike and that changes be offered back to Perseus. Held like every other Perseus text here (redistribute_whole false) until Adam rules on CC BY-SA wholes; quote and cite with the credit line."
+  }
+ },
+ "brewer-character-sketches": {
+  "title": "Character Sketches of Romance, Fiction and the Drama (The Reader's Handbook, revised American edition)",
+  "author": "E. Cobham Brewer; ed. Marion Harland (New York: Selmar Hess, 1892)",
+  "format": "dictionary-gutenberg",
+  "sha256": "3c81480e45c0fe7c191e15a19b6995d62aad2fff19f2f6fa0c8461a759996ae2",
+  "units": 14416,
+  "scheme": {
+   "citation": "headword as a slug; `~2` for a repeated headword; `app1:`/`app2:`/`app3:` for the three appendices",
+   "resolution": "entry",
+   "honesty": "entry boundaries from the transcription's headword marks",
+   "note": "10,206 dictionary entries across four Gutenberg volumes (PG 11431, 58596, 20851, 58988) plus 4,210 appendix items (authors' works; dates of foreign poems and novels; dramas and operas). Volume I marks headwords in capitals, II-IV in bold, and Brewer's list entries (Dying Sayings, Dwarfs, court jesters) print their items the same way. 238 such items were told from headwords by the dictionary's own alphabetical order and kept inside their entry (lex.list_items). The same test would fold a real headword Brewer himself printed out of order; the folded names are kept in lex.list_items so that can be checked. Italic second senses ride inside their entry under lex.subheads. 336 `See X` references resolved to a unique headword; 2 left with their candidates. The text is the 1892 printing as the Gutenberg transcribers keyed it: they list their corrections at the end of each volume and modernised nothing; vol. III's 185 [TN-n] pointers to kept printer's errors are stripped. Printed page numbers are not in the transcription, so no page is claimed."
+  }
  }
 }

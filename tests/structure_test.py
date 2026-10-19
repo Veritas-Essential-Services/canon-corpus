@@ -8,7 +8,7 @@ no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 
 Split from patrimonium's tests/armarium_test.py at the 2026-07-22
 extraction: the converter checks live here; the engine checks live in the
-armarium repo's tests/armarium_test.py. 18 checks."""
+armarium repo's tests/armarium_test.py."""
 import os, sys, tempfile, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -532,6 +532,109 @@ st.CORPUS = _saved_corpus; os.unlink(_fh.name)
 check("unscanned: units, their scan pages and printed labels, and the Unscanner's honesty carried through",
       _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
       and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
+
+# ---------------------------------------------------------------- dictionaries of names (2026-10-19)
+_SMITH = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader/><text><body>
+<pb n="1"/>
+<div type="textpart" subtype="alphabetic_letter" n="A">
+ <div type="textpart" subtype="entry" xml:id="abaris-bio-1" n="abaris_1">
+  <head><persName><surname>A'baris</surname></persName></head>
+  <p>(<foreign xml:lang="grc">Ἄβαρις</foreign>), son of Seuthes (<bibl n="Hdt. 4.36">Hdt. 4.36</bibl>),
+   like <ref target="apicius-bio-1">Apicius</ref> and [<hi rend="smallcaps">ABAS.</hi>] and
+   [<hi rend="smallcaps">APICIUS</hi>, No. 2] but not <hi rend="smallcaps">HERA</hi> in passing.</p>
+  <byline>[<ref target="author.L.S">L.S</ref>]</byline>
+ </div>
+ <div type="textpart" subtype="entry" xml:id="abas-bio-1" n="abas_1">
+  <head>Abas</head><p>a king.</p></div>
+ <div type="textpart" subtype="entry" xml:id="apicius-bio-1" n="apicius_1">
+  <head>Api'cius</head><p>three gourmands.</p>
+  <pb n="2"/>
+  <div><head>Ancient authors</head>
+   <div type="subentry" xml:id="apicius-bio-2" n="apicius_2"><head>Api'cius</head><p>2. The second.</p></div>
+  </div>
+ </div>
+ <div type="textpart" subtype="entry" xml:id="hera-bio-1"><head>Hera</head><p>a goddess.</p></div>
+</div></body></text></TEI>"""
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_SMITH)
+_sb = st.convert_smith_dgrbm(_fh.name); os.unlink(_fh.name)
+_su = {u["id"]: u for u in _sb["units"]}
+_ab = _su["smith-dgrbm:abaris-bio-1"]
+check("smith: keyed on Perseus xml:id; sub-entry is its own unit and points at its parent",
+      set(_su) == {"smith-dgrbm:abaris-bio-1", "smith-dgrbm:abas-bio-1", "smith-dgrbm:apicius-bio-1",
+                   "smith-dgrbm:apicius-bio-2", "smith-dgrbm:hera-bio-1"}
+      and _su["smith-dgrbm:apicius-bio-2"]["lex"]["subentry_of"] == "smith-dgrbm:apicius-bio-1"
+      and "The second" not in _su["smith-dgrbm:apicius-bio-1"]["text"])
+check("smith: reads headword-first as printed; lemma drops the stress apostrophe",
+      _ab["text"].startswith("A'baris (Ἄβαρις), son of Seuthes") and _ab["lex"]["lemma"] == "Abaris")
+_tg = [l.get("target") for l in _ab["links"] if l["kind"] == "see"]
+check("smith: encoded ref exact; bracketed small caps resolved by headword; 'No. 2' picks the homonym",
+      "smith-dgrbm:apicius-bio-1" in _tg and "smith-dgrbm:abas-bio-1" in _tg
+      and "smith-dgrbm:apicius-bio-2" in _tg)
+check("smith: small caps NOT in brackets is a name in passing, not a cross-reference",
+      "smith-dgrbm:hera-bio-1" not in _tg)
+check("smith: ancient-author citation recorded unresolved; byline initials are contributors, not links",
+      {"kind": "classical", "cite": "Hdt. 4.36", "ref": "Hdt. 4.36", "resolved": False} in _ab["links"]
+      and _ab["lex"]["contributors"] == ["L.S"])
+check("smith: printed pages carried; a sub-entry's page counts for its parent",
+      _ab["lex"]["pages"] == ["1"] and _su["smith-dgrbm:apicius-bio-1"]["lex"]["pages"] == ["1", "2"])
+check("smith: CC BY-SA markup keeps redistribute_whole false with Perseus's credit line",
+      _sb["rights"]["redistribute_whole"] is False and "Perseus" in _sb["rights"]["attribution"])
+
+_BV = {
+ 1: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\nPREFACE TEXT.\n\nAA'RON, a Moor.--Shakespeare.\n\n"
+    "ABSOLUTE _(Sir Anthony)_, a testy old gentleman.\n\n_Captain Absolute_, his son. (See AARON.)\n\n"
+    "  ... a verse line\n  and its second line\n\nAMINE (3 _syl._), a wife.\n\n"
+    "BODY, list of the dead:\n\nADDISON, see how a Christian can die.\n\n"
+    "BURKE, a speaker.\n\nE. B. Browning, a source line.\n\nII.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 2: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Falkland=, a lover.\n\n=Fide´lio,= Leonora.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 3: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Mark Tapley=, a servant.[TN-1]\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n",
+ 4: "*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\n=Skeggs= (_Miss_), a companion.\n\n  =Theron=, a dog.\n\n"
+    "        He threw his arms around the dog\n\n"
+    "                              APPENDICES.\n\n                              APPENDIX I.\n\n"
+    "  =Abbott= (Jacob), born 1803.\n    Corner Stone (The), 1826.\n"
+    "  =Young= (Rev. Edward), 1684-1765.\n    Night Thoughts, 1742.\n\n"
+    "                              APPENDIX II.\n\n  8 syl. v.  = _Octosyllabic verse._\n\n"
+    "=Æsop=, Fables, about B.C. 570.\n\nAMADIS OF GAUL, begun 14th cent.\n\n"
+    "                 LIST OF ABBREVIATIONS IN APPENDIX III.\n\n  C. = Comedy\n\n"
+    "                             APPENDIX III.\n                AUTHORS AND DATES.\n\n"
+    "                               ----------\n\n  _If any discrepancy is observed_\n\n"
+    "                               ----------\n\n  Abdelazer, 1677, Mrs. Behn.   C.\n"
+    "  Abraham’s Sacrifice, 1550, T. Beza.   Rel.Pl. (translated by\n     A. Golding, 1575).\n\n"
+    "Transcriber’s Note\n\nCorrections listed here.\n\n*** END OF THE PROJECT GUTENBERG EBOOK X ***\n"}
+_bp = []
+for _i in (1, 2, 3, 4):
+    with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+        _fh.write(_BV[_i]); _bp.append(_fh.name)
+_saved_vols = st.BREWER_VOLS
+st.BREWER_VOLS = tuple((v[0], v[1], s, v[3]) for v, s in
+                       zip(_saved_vols, ("AA'RON", "=Falkland=", "=Mark Tapley=", "=Skeggs=")))
+_bb = st.convert_brewer_character_sketches(_bp)
+st.BREWER_VOLS = _saved_vols
+for _p in _bp: os.unlink(_p)
+_bu = {u["id"].split(":", 1)[1]: u for u in _bb["units"]}
+check("brewer: caps headwords (vol I) and =bold= (II-IV), qualifier in the key, syllable count not",
+      {"aaron", "absolute-sir-anthony", "amine", "falkland", "fidelio", "mark-tapley", "skeggs-miss"}
+      <= set(_bu) and _bu["absolute-sir-anthony"]["ref"] == "Absolute (Sir Anthony)")
+check("brewer: italic second sense rides inside its entry; verse keeps its line break",
+      _bu["absolute-sir-anthony"]["lex"]["subheads"] == ["Captain Absolute"]
+      and "a verse line\n and its second line" in _bu["absolute-sir-anthony"]["text"])
+check("brewer: a list item printed like a headword is folded by alphabetical order",
+      "addison" not in _bu and _bu["body"]["lex"]["list_items"] == ["Addison"] and "burke" in _bu)
+check("brewer: roman numerals and initials never open an entry",
+      "ii" not in _bu and "e-b" not in _bu and "E. B. Browning" in _bu["burke"]["text"])
+check("brewer: vol IV's two-space indent still opens =bold= entries; deeper indent is verse",
+      "theron" in _bu and "He threw his arms" in _bu["theron"]["text"])
+check("brewer: 'See X' resolves to the one entry with that headword",
+      {"kind": "see", "label": "AARON", "target": "brewer-character-sketches:aaron"}
+      in _bu["absolute-sir-anthony"]["links"])
+check("brewer: three appendices keyed per item; preface and transcriber's note are not items",
+      {"app1:abbott-jacob", "app1:young-rev-edward", "app2:aesop", "app2:amadis-of-gaul",
+       "app3:abdelazer", "app3:abrahams-sacrifice"} <= set(_bu)
+      and not any("discrepancy" in u["text"] or "Corrections listed" in u["text"] for u in _bb["units"])
+      and _bu["app3:abrahams-sacrifice"]["text"].endswith("A. Golding, 1575)."))
+check("brewer: [TN-n] transcriber pointers stripped and counted",
+      _bu["mark-tapley"]["text"] == "=Mark Tapley=, a servant." and "1 [TN-n]" in _bb["scheme"]["note"])
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
