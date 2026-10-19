@@ -1,0 +1,247 @@
+# prov: 2026-10-19 claude-opus-5-5 drafted
+# fable_review: pending
+"""Several scans of one book, each read by two OCR engines, merged by vote.
+
+    python3 -m unscanner editions cs6 --scan toronto=cs6-toronto:<toronto_djvu.xml> \
+                                      --scan cornell=cs6-cornell:<cornell_djvu.xml>
+
+Adam, 2026-10-19: "run each of the different editions of the same volume against each other and
+merge them intelligently and get my eyes on anything that looks off".
+
+THE WITNESSES. Each scan gives two independent readings of every word: ours (tesseract, run by the
+Unscanner, with a confidence per word) and the Internet Archive's (an older engine, its `_djvu.xml`,
+with a box per word but no confidence). Two scans of two printings from the same plates (here
+Toronto's 1892 and Cornell's 1896) give four readings per word, and the plates mean the lines and
+page numbers match, so the readings line up word for word on almost every page.
+
+Ours is read RAW: where the Unscanner's own collation already mended a word from the Archive's text,
+the word's `was` is used, so no reading is ever counted twice.
+
+THE VOTE, per word, on letters only (case, punctuation and accents never count as a disagreement):
+
+  - all readings agree                                           -> agreed
+  - one reading has three or more witnesses                      -> majority (auto)
+  - one reading has two, every other has one, and the two span
+    BOTH scans, or the book attests it (it occurs 3+ times
+    elsewhere among clean readings) while no rival does           -> majority (auto)
+  - a two-two split where exactly one side is attested           -> attested (auto)
+  - anything else                                                -> REVIEW: Adam decides
+
+The base text is our Toronto reading. A mend takes only the winner's letters; our punctuation and
+capitalisation stay (collate._recase). Every mend and every review item is recorded with the page,
+the line, all four readings and where each word sits on each scan, so the review page can show the
+two scans side by side.
+"""
+import difflib
+import json
+import os
+import re
+from collections import Counter, defaultdict
+
+from .collate import norm, _core_span, _recase
+
+CLEAN_CONF = 90          # a tesseract word this sure is "clean" for attestation
+ATTESTED = 3             # occurrences elsewhere that make a word the book's own
+LOW_CONF = 70            # a lone disagreement is reviewed only if ours was this unsure
+
+
+def key(t):
+    """What a vote compares: letters; for a token with none, its digits."""
+    k = norm(t)
+    return k if k else re.sub(r"\D", "", t)
+
+
+# ---------------------------------------------------------------- readers
+
+def load_tesseract(work_dir):
+    """The Unscanner's book.json -> {scan page n: {"label", "size", "words": [...]}}, words raw."""
+    book = json.load(open(os.path.join(work_dir, "book.json"), encoding="utf-8"))
+    out = {}
+    for p in book["pages"]:
+        words = []
+        for li, ln in enumerate(p.get("lines", [])):
+            for w in ln.get("words", []):
+                words.append({"t": w.get("was") or w["t"], "conf": w.get("conf"), "bbox": w["bbox"], "line": li})
+        out[p["n"]] = {"label": p.get("label"), "size": (p.get("w"), p.get("h")), "words": words,
+                       "kind": p.get("kind")}
+    return out
+
+
+def load_djvu(path):
+    """The Archive's _djvu.xml -> {scan page n (1-based): {"size", "words"}}; boxes as x0,y0,x1,y1."""
+    x = open(path, encoding="utf-8", errors="replace").read()
+    ent = lambda s: s.replace("&quot;", '"').replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<").replace("&apos;", "'")
+    out = {}
+    for i, m in enumerate(re.finditer(r'<OBJECT[^>]*?height="(\d+)"[^>]*?width="(\d+)"[^>]*>(.*?)</OBJECT>', x, re.S)):
+        h, w, body = int(m.group(1)), int(m.group(2)), m.group(3)
+        words = []
+        for li, line in enumerate(re.findall(r"<LINE>(.*?)</LINE>", body, re.S)):
+            for c, t in re.findall(r'<WORD coords="([^"]+)"[^>]*>([^<]*)</WORD>', line):
+                v = [int(n) for n in c.split(",")[:4]]
+                words.append({"t": ent(t), "conf": None, "bbox": [v[0], v[3], v[2], v[1]], "line": li})
+        out[i + 1] = {"size": (w, h), "words": words}
+    return out
+
+
+def scale(words, frm, to):
+    """Boxes from one pixel grid to another (the Archive's page vs our 300 dpi raster)."""
+    if not (frm and to and frm[0] and to[0]):
+        return words
+    sx, sy = to[0] / frm[0], to[1] / frm[1]
+    return [{**w, "bbox": [round(w["bbox"][0] * sx), round(w["bbox"][1] * sy),
+                           round(w["bbox"][2] * sx), round(w["bbox"][3] * sy)]} for w in words]
+
+
+# ---------------------------------------------------------------- alignment
+
+def align(base, other):
+    """{base index: other index}, one word for one word where the letters line up."""
+    a = [key(w["t"]) for w in base]
+    b = [key(w["t"]) for w in other]
+    sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
+    m = {}
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op == "equal" or (op == "replace" and i2 - i1 == j2 - j1):
+            for k in range(i2 - i1):
+                m[i1 + k] = j1 + k
+    return m
+
+
+def pair_pages(scans):
+    """Printed page label -> {scan: page n}, for labels every scan reads exactly once."""
+    by = {}
+    for name, s in scans.items():
+        seen = Counter(p["label"] for p in s["tess"].values() if p.get("label"))
+        for n, p in s["tess"].items():
+            lab = p.get("label")
+            if lab and seen[lab] == 1:
+                by.setdefault(lab, {})[name] = n
+    return {lab: d for lab, d in by.items() if len(d) == len(scans)}
+
+
+# ---------------------------------------------------------------- the vote
+
+def decide(readings, vocab, scan_of):
+    """readings: {witness: key}. -> (verdict, winning key or None)."""
+    support = defaultdict(set)
+    for wit, k in readings.items():
+        if k:
+            support[k].add(wit)
+    if len(support) <= 1:
+        return "agreed", next(iter(support), None)
+    ranked = sorted(support.items(), key=lambda kv: -len(kv[1]))
+    top, top_w = ranked[0]
+    second = len(ranked[1][1])
+    att = {k: vocab.get(k, 0) for k in support}
+    if len(top_w) >= 3 and len(top_w) > second:
+        return "majority", top
+    if len(top_w) == 2 and second == 1:
+        both_scans = len({scan_of[w] for w in top_w}) > 1
+        if both_scans or (att[top] >= ATTESTED and all(att[k] < ATTESTED for k in support if k != top)):
+            return "majority", top
+    if len(top_w) == 2 and second == 2 and len(ranked) == 2:
+        a, b = ranked[0][0], ranked[1][0]
+        if att[a] >= ATTESTED and att[b] < 2:
+            return "attested", a
+        if att[b] >= ATTESTED and att[a] < 2:
+            return "attested", b
+    return "review", None
+
+
+def collate(scans, base_scan):
+    """scans: {name: {"tess": pages, "djvu": pages}} -> result dict (pages, mends, review, stats)."""
+    wit_order = [(s, e) for s in scans for e in ("tess", "djvu")]
+    scan_of = {f"{s}.{e}": s for s, e in wit_order}
+    vocab = Counter()
+    for s, d in scans.items():
+        for p in d["tess"].values():
+            vocab.update(key(w["t"]) for w in p["words"] if (w["conf"] or 0) >= CLEAN_CONF)
+        for p in d["djvu"].values():
+            vocab.update(key(w["t"]) for w in p["words"])
+    pairs = pair_pages(scans)
+    stats = Counter()
+    pages, mends, review = [], [], []
+    for lab, ns in sorted(pairs.items(), key=lambda kv: kv[1][base_scan]):
+        base = scans[base_scan]["tess"][ns[base_scan]]
+        bw = base["words"]
+        maps = {}
+        for s, e in wit_order:
+            if (s, e) == (base_scan, "tess"):
+                continue
+            pg = scans[s][e].get(ns[s])
+            if not pg:
+                continue
+            words = pg["words"]
+            if e == "djvu":
+                words = scale(words, pg["size"], scans[s]["tess"][ns[s]]["size"])
+            maps[f"{s}.{e}"] = (words, align(bw, words))
+        out_words = []
+        for i, w in enumerate(bw):
+            rd = {f"{base_scan}.tess": key(w["t"])}
+            for wit, (words, m) in maps.items():
+                if i in m:
+                    rd[wit] = key(words[m[i]]["t"])
+            if not rd[f"{base_scan}.tess"]:
+                out_words.append(w["t"])
+                continue
+            if len(rd) < 3:
+                stats["thin"] += 1
+                out_words.append(w["t"])
+                continue
+            verdict, win = decide(rd, vocab, scan_of)
+            stats[verdict] += 1
+            t = w["t"]
+            item = None
+            if verdict in ("majority", "attested") and win != rd[f"{base_scan}.tess"]:
+                lo, hi = _core_span(t)
+                src = next(words[m[i]]["t"] for wit, (words, m) in maps.items() if i in m and rd[wit] == win) \
+                    if any(rd.get(wit) == win for wit in maps) else win
+                letters = norm(src) or src
+                t = t[:lo] + _recase(letters, t[lo:hi]) + t[hi:]
+                stats["mended"] += 1
+                item = "mend"
+            elif verdict == "review":
+                item = "review"
+            if item:
+                where = {f"{base_scan}.tess": {"n": ns[base_scan], "bbox": w["bbox"], "t": w["t"], "conf": w["conf"]}}
+                for wit, (words, m) in maps.items():
+                    if i in m:
+                        s = wit.split(".")[0]
+                        where[wit] = {"n": ns[s], "bbox": words[m[i]]["bbox"], "t": words[m[i]]["t"],
+                                      "conf": words[m[i]]["conf"]}
+                line = [x["t"] for x in bw if x["line"] == w["line"]]
+                rec = {"page": lab, "index": i, "base": w["t"], "result": t, "verdict": verdict,
+                       "line": " ".join(line), "readings": where}
+                (mends if item == "mend" else review).append(rec)
+            out_words.append(t)
+        pages.append({"label": lab, "scans": ns, "words": len(bw), "text": " ".join(out_words)})
+    stats["pages"] = len(pages)
+    stats["words"] = sum(p["words"] for p in pages)
+    return {"pages": pages, "mends": mends, "review": review, "stats": dict(stats)}
+
+
+# ---------------------------------------------------------------- crops for the review page
+
+def crops(rec, scans_dirs, pad=(180, 18), height=46):
+    """Two small JPEGs (bytes) of the word in its line, one per scan, word boxed."""
+    from PIL import Image, ImageDraw
+    import io
+    out = {}
+    for wit, r in rec["readings"].items():
+        s = wit.split(".")[0]
+        if s in out or wit.endswith("djvu") and f"{s}.tess" in rec["readings"]:
+            continue
+        png = os.path.join(scans_dirs[s], "gray", f"{r['n']:04d}.png")
+        if not os.path.exists(png):
+            continue
+        im = Image.open(png).convert("RGB")
+        x0, y0, x1, y1 = r["bbox"]
+        box = (max(0, x0 - pad[0]), max(0, y0 - pad[1]), min(im.width, x1 + pad[0]), min(im.height, y1 + pad[1]))
+        c = im.crop(box)
+        d = ImageDraw.Draw(c)
+        d.rectangle([x0 - box[0] - 3, y0 - box[1] - 3, x1 - box[0] + 3, y1 - box[1] + 3], outline=(200, 40, 40), width=3)
+        c = c.resize((max(1, round(c.width * height / c.height)), height))
+        buf = io.BytesIO()
+        c.save(buf, "JPEG", quality=72)
+        out[s] = buf.getvalue()
+    return out
