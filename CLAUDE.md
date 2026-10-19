@@ -87,7 +87,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 84 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 85 offline checks (no corpus needed)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
@@ -180,6 +180,11 @@ The living truth for project state is the Obsidian vault:
   gate first. Working files in data/unscanner/ (gitignored). `--to-corpus` writes
   data/corpus/archive/<slug>.unscanned.json, which structure_texts.py PREFERS over the Archive's djvu
   text for ARCHIVE_PROSE books. Both Church Homers are built from it. Rules: unscanner/README.md.
+  Their working text SHIPS (2026-10-19, Adam: commit the working text of PD books built from
+  his own files): data/unscanned/<slug>.unscanned.json.gz, declared in SHIPPED_WORKING_TEXT in
+  fetch_sources.py, unpacked into data/corpus/archive/ after a sha256 check, so the hosted
+  rebuild reads the Unscanner's text, not the djvu. Regenerated 2026-10-19 byte-identical to the
+  2026-10-17 build. A new Unscanner book that should reach the host needs an entry there too.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

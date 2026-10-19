@@ -186,6 +186,34 @@ LOCAL_SOURCES = {
         "their OCR text layers are a worse reading than this transcription."),
 }
 
+# Working text the Unscanner made from a scan (2026-10-19). Its output is
+# gitignored like the rest of data/corpus/, so a fresh clone (the hosted
+# rebuild) fell back to the Archive's weaker djvu text. Same ruling as
+# LOCAL_SOURCES: the working text of a PD book ships gzipped, and
+# unpack_local() puts it where structure_texts.py prefers it, after its
+# sha256 check. Regenerated 2026-10-19 from the same scans, and byte-identical
+# to the 2026-10-17 build (the manifest's recorded sha256).
+#
+# slug -> (source, recipe, corpus file, shipped copy, sha256 unpacked, note)
+SHIPPED_WORKING_TEXT = {
+    "church-iliad-boys": (
+        "archive.org iliadforboysgirl00chur_0",
+        "python3 -m unscanner run church-iliad-boys --to-corpus --rights <reason>",
+        "archive/church-iliad-boys.unscanned.json",
+        "data/unscanned/church-iliad-boys.unscanned.json.gz",
+        "d48108d4bb1e99d8776f29ab8ef370c3da936262945a44c43fcbd34831450e4e",
+        "Unscanner reading of the LoC scan; the Archive marks it 'unaware of any "
+        "copyright restrictions', so the run states the reason: first published "
+        "1907, this printing 1923, both before 1931 -- US public domain."),
+    "church-odyssey-boys": (
+        "archive.org odysseyforboysgi00chur",
+        "python3 -m unscanner run church-odyssey-boys --to-corpus",
+        "archive/church-odyssey-boys.unscanned.json",
+        "data/unscanned/church-odyssey-boys.unscanned.json.gz",
+        "0ff9026e0d3b750aa4f6ba0e54d1b1455549ca224aff209bf7f285d2bf475786",
+        "Unscanner reading of the NYPL scan (NOT_IN_COPYRIGHT)."),
+}
+
 # slug -> (author, work, note)  — all probed 200 on 2026-07-21
 CCEL = {
     "owen-mort":        ("owen", "mort", "Of the Mortification of Sin in Believers"),
@@ -449,6 +477,8 @@ def main():
             print(f"archive/{slug}: {ident} -- {note}")
         for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
             print(f"local/{slug}: {note}")
+        for slug, (src, recipe, fn, shipped, psha, note) in SHIPPED_WORKING_TEXT.items():
+            print(f"shipped/{slug}: {src} -- {note}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -487,7 +517,7 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
-    for slug, spec in LOCAL_SOURCES.items():
+    for slug, spec in list(LOCAL_SOURCES.items()) + list(SHIPPED_WORKING_TEXT.items()):
         try:
             print(f"local/{slug}: {unpack_local(spec)}")
         except Exception as e:

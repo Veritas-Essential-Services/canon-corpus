@@ -606,5 +606,9 @@ check("local source: brewer's pins are declared (source PDF + unpacked paragraph
       len(fs.LOCAL_SOURCES["brewer"][0]) == 64 and len(fs.LOCAL_SOURCES["brewer"][4]) == 64
       and fs.LOCAL_SOURCES["brewer"][3].startswith("data/lexicons/"))
 
+check("shipped working text: both Church Homers declared, pinned, shipped copies present",
+      all(len(fs.SHIPPED_WORKING_TEXT[x][4]) == 64 and os.path.exists(os.path.join(HERE, "..", fs.SHIPPED_WORKING_TEXT[x][3]))
+          for x in ("church-iliad-boys", "church-odyssey-boys")))
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
