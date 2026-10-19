@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 88 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 94 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -120,6 +120,9 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
+    python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
+    python3 tests/dictionary_links_test.py             # the edge parsers, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -286,6 +289,31 @@ level, same `{id, ref, text, links[]}` contract, extras under `lex`:
   non-decreasing run) and kept in `lex.list_items`. Brewer's *Dictionary of
   Phrase and Fable* has no Gutenberg edition; Wikisource refuses this
   environment's requests (HTTP 429).
+
+- **`brewer-dpf`** — Brewer, *Dictionary of Phrase and Fable*, new and enlarged
+  edition of 1894 (US PD), from the only machine-readable copy found: Blackmask
+  Online's 2003 e-text as a 2,971-page htmldoc PDF, which Adam supplied. It is
+  not on any public URL, so `data/corpus/lexicons/brewer-dpf-1894.pdf` must be
+  placed by hand; it is pinned by sha256 (`BREWER_DPF_SHA256`), and the
+  converter reads poppler's `pdftohtml -xml` of it (cached beside it as
+  `.xml`, so poppler is needed only once). 17,187 entries. The PDF marks no
+  headword, so a headword is a line of its own above its definition, kept only
+  where it holds the alphabet; ~510 headwords run into their definition are
+  split by rule (`lex.run_in`, extent a guess). htmldoc printed every hyphen as
+  an em dash; one between two letters is restored. Blackmask's page notice
+  claims a copyright; a transcription of a PD text has none in the US, so it is
+  `redistribute_whole: true` under the US-PD rule.
+
+**The edges (`pipeline/build_dictionary_links.py` → `data/dictionaries/`, COMMITTED):**
+`names.jsonl` (a headword two or more of the three share — a lead, not an
+identity), `scripture.jsonl` (Brewer's Bible refs → `kjv:` ids, each verified
+against kjv.json), `shakespeare.jsonl` (→ play.act.scene, verified),
+`classical.jsonl` (Smith's citations → CTS URNs through `cts-works.json`, whose
+every row was read from Perseus's own `__cts__.xml`; the rest are counted in
+`summary.json`, not guessed), `pages-brewer-cs.jsonl` (each Character Sketches
+entry → printed page and leaf of the 1892 Hess scans at archive.org,
+`charactersketche0{1-8}brewuoft`, by aligning headwords with the scans' text
+layer). Needs the built books, so run `structure_texts.py` first.
 
 The lane-B shelves `william-smith` and `anthon` hold Smith's other dictionaries
 and Anthon as raw IA OCR books; this is the entry-keyed layer, not a duplicate

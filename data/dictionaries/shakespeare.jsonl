@@ -1,0 +1,681 @@
+{"from": "brewer-character-sketches:adam", "cite": "Shakespeare, Comedy of Errors, act iv. sc. 3", "target": "shakespeare:comedy-of-errors.4.3", "level": "scene"}
+{"from": "brewer-character-sketches:aeolus", "cite": "Shakespeare, 2 Henry VI. act v, sc. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:aesculapius", "cite": "Shakespeare, Merry Wives of Windsor, act ii.", "target": "shakespeare:merry-wives-of-windsor.2", "level": "act"}
+{"from": "brewer-character-sketches:aeson", "cite": "Shakespeare, Merchant of Venice, act v.", "target": "shakespeare:merchant-of-venice.5", "level": "act"}
+{"from": "brewer-character-sketches:althaeas-brand", "cite": "Shakespeare, 2 Henry VI. act i. sc. 1", "target": "shakespeare:henry-vi-2.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:amurath-iii", "cite": "Shakespeare, 2 Henry IV. act v. sc. 2", "target": "shakespeare:henry-iv-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:arabian-bird-the", "cite": "Shakespeare, Antony and Cleopatra, act iii. sc. 2", "target": "shakespeare:antony-and-cleopatra.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:arachne", "cite": "Shakespeare, Troilus and Cressida, act v. sc. 2", "target": "shakespeare:troilus-and-cressida.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:ataliba", "cite": "Shakespeare, King John, act ii.", "target": "shakespeare:king-john.2", "level": "act"}
+{"from": "brewer-character-sketches:aurelius", "cite": "Shakespeare, 1 Henry VI., act iii. sc. 2", "target": "shakespeare:henry-vi-1.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:austria-and-the-lions-hide", "cite": "Shakespeare, King John, act iii. sc. 1", "target": "shakespeare:king-john.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:banquo", "cite": "Shakespeare, Macbeth, act i. sc. 3", "target": "shakespeare:macbeth.1.3", "level": "scene"}
+{"from": "brewer-character-sketches:basilisco", "cite": "Shakespeare, King John, act i. sc. 1", "target": "shakespeare:king-john.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:bianca", "cite": "Shakespeare, Othello, act i.", "target": "shakespeare:othello.1", "level": "act"}
+{"from": "brewer-character-sketches:brutus-lucius-junius", "cite": "Shakespeare, 2 Henry VI. act iv. sc. 1", "target": "shakespeare:henry-vi-2.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:bullcalf-peter", "cite": "Shakespeare, 2 Henry IV. act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:caesar-caius-julius", "cite": "Shakespeare, 1 Henry VI. act i. sc. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:calf-skin", "cite": "Shakespeare, King John, act ii.", "target": "shakespeare:king-john.2", "level": "act"}
+{"from": "brewer-character-sketches:calipolis", "cite": "Shakespeare, 2 Henry IV. act ii.", "target": "shakespeare:henry-iv-2.2", "level": "act"}
+{"from": "brewer-character-sketches:callet", "cite": "Shakespeare, Othello, act iv. sc. 2", "target": "shakespeare:othello.4.2", "level": "scene"}
+{"from": "brewer-character-sketches:calydon-prince-of", "cite": "Shakespeare, 2 Henry VI. act i. sc. 1", "target": "shakespeare:henry-vi-2.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:cambyses", "cite": "Shakespeare, 1 Henry IV. act ii. sc. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:chrisom-child-a", "cite": "Shakespeare, Henry V. act ii. sc. 3", "target": "shakespeare:henry-v.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:clerks-st-nicholass", "cite": "Shakespeare, 1 Henry IV. act ii. sc. 1", "target": "shakespeare:henry-iv-1.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:cobham-eleanor", "cite": "Shakespeare, 2 Henry VI. act ii. sc. 3", "target": "shakespeare:henry-vi-2.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:cordelia", "cite": "Shakespeare, King Lear, act v. sc. 3", "target": "shakespeare:king-lear.5.3", "level": "scene"}
+{"from": "brewer-character-sketches:cressida", "cite": "Shakespeare, Troilus and Cressida, act iii. sc. 2", "target": "shakespeare:troilus-and-cressida.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:crete-hound-of", "cite": "Shakespeare, Henry V. act ii. sc. 1", "target": "shakespeare:henry-v.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:crispin-st", "cite": "Shakespeare, Henry V. act iv. sc. 3", "target": "shakespeare:henry-v.4.3", "level": "scene"}
+{"from": "brewer-character-sketches:dagonet-sir", "cite": "Shakespeare, 2 Henry IV. act ii. sc. 2", "target": "shakespeare:henry-iv-2.2.2", "level": "scene"}
+{"from": "brewer-character-sketches:dumain", "cite": "Shakespeare, Love's Labour's Lost, act ii.", "target": "shakespeare:loves-labours-lost.2", "level": "act"}
+{"from": "brewer-character-sketches:equivokes", "cite": "Shakespeare, 2 Henry VI. act v. sc. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:equivokes", "cite": "Shakespeare, Richard III. act i.", "target": "shakespeare:richard-iii.1", "level": "act"}
+{"from": "brewer-character-sketches:fastolfe-sir-john", "cite": "Shakespeare, 1 Henry VI. act i. sc. 1", "target": "shakespeare:henry-vi-1.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:father-son", "cite": "Shakespeare, The Tempest, act i. sc. 2", "target": "shakespeare:tempest.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:feeble-francis", "cite": "Shakespeare, 2 Henry IV. act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:fenton", "cite": "Shakespeare, Merry Wives of Windsor, act iii, sc. 4", "target": "shakespeare:merry-wives-of-windsor.3.4", "level": "scene"}
+{"from": "brewer-character-sketches:fish", "cite": "Shakespeare, King Lear, act i. sc. 4", "target": "shakespeare:king-lear.1.4", "level": "scene"}
+{"from": "brewer-character-sketches:fluellen", "cite": "Shakespeare, Henry V. act iv. sc. 7", "target": "shakespeare:henry-v.4.7", "level": "scene"}
+{"from": "brewer-character-sketches:fools-paradise", "cite": "Shakespeare, Romeo and Juliet, act ii. sc. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:gadshill", "cite": "Shakespeare, 1 Henry IV. act ii. sc. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:garagantua", "cite": "Shakespeare, As You Like It, act iii. sc. 2", "target": "shakespeare:as-you-like-it.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:golgotha-the-place-of-a-skull", "cite": "Shakespeare, Macbeth, act i. sc. 2", "target": "shakespeare:macbeth.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:grissel", "cite": "Shakespeare, Taming of the Shrew, act iii. sc. 1", "target": "shakespeare:taming-of-the-shrew.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:harper", "cite": "Shakespeare, Macbeth, act iv. sc. 1", "target": "shakespeare:macbeth.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:hobbididance", "cite": "Shakespeare, King Lear, act iv. sc. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:hope-of-troy-the", "cite": "Shakespeare, 3 Henry VI. act ii. sc. 1", "target": "shakespeare:henry-vi-3.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:hopkins-matthew", "cite": "Shakespeare, Henry VIII. act ii. sc. 1", "target": "shakespeare:henry-viii.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:iden-alexander", "cite": "Shakespeare, 2 Henry VI. act v. sc. 1", "target": "shakespeare:henry-vi-2.5.1", "level": "scene"}
+{"from": "brewer-character-sketches:iris", "cite": "Shakespeare, 2 Henry VI, act v. sc. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:jack-amend-all", "cite": "Shakespeare, 2 Henry VI. act iv. sc. 2", "target": "shakespeare:henry-vi-2.4.2", "level": "scene"}
+{"from": "brewer-character-sketches:jack-o-lent", "cite": "Shakespeare, Merry Wives of Windsor, act iii. sc. 3", "target": "shakespeare:merry-wives-of-windsor.3.3", "level": "scene"}
+{"from": "brewer-character-sketches:law-of-athens-the", "cite": "Shakespeare, Midsummer Night’s Dream, act i. sc. 1", "target": "shakespeare:a-midsummer-nights-dream.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:learned-theban-a", "cite": "Shakespeare, King Lear, act iii. sc. 4", "target": "shakespeare:king-lear.3.4", "level": "scene"}
+{"from": "brewer-character-sketches:limbo-of-the-moon", "cite": "Shakespeare, Henry VIII. act v. sc. 3", "target": "shakespeare:henry-viii.5.3", "level": "scene"}
+{"from": "brewer-character-sketches:macduff", "cite": "Shakespeare, Macbeth, act v. sc. 8", "target": "shakespeare:macbeth.5.8", "level": "scene"}
+{"from": "brewer-character-sketches:mahu", "cite": "Shakespeare, King Lear, act iv. sc. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:man-of-salt-a", "cite": "Shakespeare, King Lear, act iv. sc. 6", "target": "shakespeare:king-lear.4.6", "level": "scene"}
+{"from": "brewer-character-sketches:medea-and-absyrtus", "cite": "Shakespeare, 2 Henry VI. act v. sc. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:merops-son", "cite": "Shakespeare, Two Gentlemen of Verona, act iii. sc. 1", "target": "shakespeare:two-gentlemen-of-verona.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:modo", "cite": "Shakespeare, King Lear, act iv. sc. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:moons-men", "cite": "Shakespeare, 1 Henry IV. act i. sc. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:mouldy-ralph", "cite": "Shakespeare, 2 Henry IV. act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:mulmutine-laws", "cite": "Shakespeare, Cymbeline, act iii. sc. 1", "target": "shakespeare:cymbeline.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:names-of-terror", "cite": "Shakespeare, 1 Henry VI. act iv. sc. 5", "target": "shakespeare:henry-vi-1.4.5", "level": "scene"}
+{"from": "brewer-character-sketches:niobe", "cite": "Shakespeare, Hamlet, act i. sc. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:obidicut", "cite": "Shakespeare, King Lear, act iv. sc. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:pantaloon", "cite": "Shakespeare, As You Like It, act ii. sc. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-character-sketches:pendragon", "cite": "Shakespeare, 1 Henry VI. act iii. sc. 2", "target": "shakespeare:henry-vi-1.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:perseus", "cite": "Shakespeare, Troilus and Cressida, act i. sc. 3", "target": "shakespeare:troilus-and-cressida.1.3", "level": "scene"}
+{"from": "brewer-character-sketches:philips-four-daughters", "cite": "Shakespeare, 1 Henry VI. act i. sc. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:phoenix-tree", "cite": "Shakespeare, The Tempest, act iii. sc. 3", "target": "shakespeare:tempest.3.3", "level": "scene"}
+{"from": "brewer-character-sketches:pigrogromitus", "cite": "Shakespeare, Twelfth Night, act ii. sc. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:plutus", "cite": "Shakespeare, Julius Cæsar, act iv. sc. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-character-sketches:portia", "cite": "Shakespeare, Julius Cæsar, act iv. sc. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-character-sketches:prophecy", "cite": "Shakespeare, 2 Henry VI. act v. sc. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:richard-iis-horse", "cite": "Shakespeare, Richard II. act v. sc. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-character-sketches:richard-iii", "cite": "Shakespeare, Richard III. act v. sc. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-character-sketches:roan-barbary", "cite": "Shakespeare, Richard II. act v. sc. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-character-sketches:roland-and-oliver", "cite": "Shakespeare, 1 Henry VI. act i. sc. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:roman-brevity", "cite": "Shakespeare, 2 Henry IV. act ii. sc. 2", "target": "shakespeare:henry-iv-2.2.2", "level": "scene"}
+{"from": "brewer-character-sketches:romans-last-of-the", "cite": "Shakespeare, Julius Cæsar, act v. sc. 3", "target": "shakespeare:julius-caesar.5.3", "level": "scene"}
+{"from": "brewer-character-sketches:roscius-quintus", "cite": "Shakespeare, 3 Henry VI. act v. sc. 6", "target": "shakespeare:henry-vi-3.5.6", "level": "scene"}
+{"from": "brewer-character-sketches:roses-war-of-the", "cite": "Shakespeare, 1 Henry VI. act ii. sc. 4", "target": "shakespeare:henry-vi-1.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:scogan-henry", "cite": "Shakespeare, 2 Henry IV. act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:sempronius", "cite": "Shakespeare, Timon of Athens, act iii. sc. 3", "target": "shakespeare:timon-of-athens.3.3", "level": "scene"}
+{"from": "brewer-character-sketches:served-my-god", "cite": "Shakespeare, Henry VIII. act iii. sc. 2", "target": "shakespeare:henry-viii.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:shadow-simon", "cite": "Shakespeare, 2 Henry IV. act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:sir-oracle", "cite": "Shakespeare, Merchant of Venice, act i. sc. 1", "target": "shakespeare:merchant-of-venice.1.1", "level": "scene"}
+{"from": "brewer-character-sketches:smell-a-voice", "cite": "Shakespeare, Midsummer Night’s Dream, act v. sc. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-character-sketches:smolkin", "cite": "Shakespeare, King Lear, act iii. sc. 4", "target": "shakespeare:king-lear.3.4", "level": "scene"}
+{"from": "brewer-character-sketches:spear-of-achilles", "cite": "Shakespeare, 2 Henry VI. act v. sc. 1", "target": "shakespeare:henry-vi-2.5.1", "level": "scene"}
+{"from": "brewer-character-sketches:spoons-gossip", "cite": "Shakespeare, Henry VIII. act v. sc. 2", "target": "shakespeare:henry-viii.5.2", "level": "scene"}
+{"from": "brewer-character-sketches:sun-the", "cite": "Shakespeare, 2 Henry VI. act iv. sc. 1", "target": "shakespeare:henry-vi-2.4.1", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Romeo and Juliet, act iii. sc. 1", "target": "shakespeare:romeo-and-juliet.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Much Ado About Nothing, act ii. sc. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, 2 Henry VI. act iii. sc. 1", "target": "shakespeare:henry-vi-2.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Troilus and Cressida, act iii. sc. 3", "target": "shakespeare:troilus-and-cressida.3.3", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, 1 Henry IV. act ii. sc. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, 2 Henry VI. act iv. sc. 10", "target": "shakespeare:henry-vi-2.4.10", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Hamlet, act iv. sc. 5", "target": "shakespeare:hamlet.4.5", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, The Tempest, act iii. sc. 3", "target": "shakespeare:tempest.3.3", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, The Tempest, act i. sc. 2", "target": "shakespeare:tempest.1.2", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Titus Andronicus, act ii. sc. 3", "target": "shakespeare:titus-andronicus.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, Winter’s Tale, act iii. sc. 1", "target": "shakespeare:winters-tale.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:superstitions-about-animals", "cite": "Shakespeare, As You Like It, act ii. sc. 1", "target": "shakespeare:as-you-like-it.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:tarpeian-rock", "cite": "Shakespeare, Coriolanus, act iii. sc. 1", "target": "shakespeare:coriolanus.3.1", "level": "scene"}
+{"from": "brewer-character-sketches:termagant", "cite": "Shakespeare, Hamlet, act iii. sc. 2", "target": "shakespeare:hamlet.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:terror-of-france-the", "cite": "Shakespeare, 1 Henry VI. act ii. sc. 3", "target": "shakespeare:henry-vi-1.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:thyamis", "cite": "Shakespeare, Twelfth Night, act v. sc. 1", "target": "shakespeare:twelfth-night.5.1", "level": "scene"}
+{"from": "brewer-character-sketches:timons-banquet", "cite": "Shakespeare, Timon of Athens, act iii. sc. 6", "target": "shakespeare:timon-of-athens.3.6", "level": "scene"}
+{"from": "brewer-character-sketches:tuck", "cite": "Shakespeare, Hamlet, act iv. sc. 7", "target": "shakespeare:hamlet.4.7", "level": "scene"}
+{"from": "brewer-character-sketches:urchin", "cite": "Shakespeare, Merry Wives of Windsor, act iv. sc. 4", "target": "shakespeare:merry-wives-of-windsor.4.4", "level": "scene"}
+{"from": "brewer-character-sketches:vapians-the", "cite": "Shakespeare, Twelfth Night, act ii. sc. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
+{"from": "brewer-character-sketches:vulcans-badge", "cite": "Shakespeare, Titus Andronicus, act ii. sc. 1", "target": "shakespeare:titus-andronicus.2.1", "level": "scene"}
+{"from": "brewer-character-sketches:warning-givers", "cite": "Shakespeare, Richard II., act ii. sc. 4", "target": "shakespeare:richard-ii.2.4", "level": "scene"}
+{"from": "brewer-character-sketches:warning-givers", "cite": "Shakespeare, Julius Cæsar, act i. sc. 3", "target": "shakespeare:julius-caesar.1.3", "level": "scene"}
+{"from": "brewer-character-sketches:wart-thomas", "cite": "Shakespeare, 2 Henry IV., act iii. sc. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-character-sketches:white-surrey", "cite": "Shakespeare, Richard III. act v. sc. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-character-sketches:wild-huntsman-the", "cite": "Shakespeare, Merry Wives of Windsor, act iv. sc. 4", "target": "shakespeare:merry-wives-of-windsor.4.4", "level": "scene"}
+{"from": "brewer-character-sketches:witchs-blood", "cite": "Shakespeare, 1 Henry VI. act i. sc. 5", "target": "shakespeare:henry-vi-1.1.5", "level": "scene"}
+{"from": "brewer-dpf:a-b-c-book", "cite": "Shakespeare: King John, i, 1", "target": "shakespeare:king-john.1.1", "level": "scene"}
+{"from": "brewer-dpf:actaeon", "cite": "Shakespeare: Merry Wives, ii. 1", "target": "shakespeare:merry-wives-of-windsor.2.1", "level": "scene"}
+{"from": "brewer-dpf:adam~2", "cite": "Shakespeare: Comedy of Errors, iv. 3", "target": "shakespeare:comedy-of-errors.4.3", "level": "scene"}
+{"from": "brewer-dpf:aglaos", "cite": "Shakespeare: Othello iii. 3", "target": "shakespeare:othello.3.3", "level": "scene"}
+{"from": "brewer-dpf:aim", "cite": "Shakespeare: Titus Andronicus, v. 3", "target": "shakespeare:titus-andronicus.5.3", "level": "scene"}
+{"from": "brewer-dpf:aim", "cite": "Shakespeare: Merry Wives of Windsor , iii. 2", "target": "shakespeare:merry-wives-of-windsor.3.2", "level": "scene"}
+{"from": "brewer-dpf:alarum-bell", "cite": "Shakespeare: Macbeth, ii. 3", "target": "shakespeare:macbeth.2.3", "level": "scene"}
+{"from": "brewer-dpf:all-in-all", "cite": "Shakespeare: Hamlet, ii. 2", "target": "shakespeare:hamlet.2.2", "level": "scene"}
+{"from": "brewer-dpf:all-waters", "cite": "Shakespeare: Twelfth Night, iv. 2", "target": "shakespeare:twelfth-night.4.2", "level": "scene"}
+{"from": "brewer-dpf:amaimon", "cite": "Shakespeare: Merry Wives of Windsor , ii. 2", "target": "shakespeare:merry-wives-of-windsor.2.2", "level": "scene"}
+{"from": "brewer-dpf:amazonian-chin", "cite": "Shakespeare: Coriolanus, ii. 2", "target": "shakespeare:coriolanus.2.2", "level": "scene"}
+{"from": "brewer-dpf:andrew~2", "cite": "Shakespeare: Merchant of Venice, i. 1", "target": "shakespeare:merchant-of-venice.1.1", "level": "scene"}
+{"from": "brewer-dpf:ansarian", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:antipathy", "cite": "Shakespeare: Merchant of Venice, iv.", "target": "shakespeare:merchant-of-venice.4", "level": "act"}
+{"from": "brewer-dpf:ape", "cite": "Shakespeare: Much ado about Nothing, ii. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-dpf:apollo", "cite": "Shakespeare: Winter's Tale , iii. 2", "target": "shakespeare:winters-tale.3.2", "level": "scene"}
+{"from": "brewer-dpf:apple-john", "cite": "Shakespeare: 1 Henry IV. iii. 3", "target": "shakespeare:henry-iv-1.3.3", "level": "scene"}
+{"from": "brewer-dpf:arabian-bird", "cite": "Shakespeare: Antony and Cleopatra, iii. 2", "target": "shakespeare:antony-and-cleopatra.3.2", "level": "scene"}
+{"from": "brewer-dpf:argosy", "cite": "Shakespeare: Merchant of Venice , i. 3", "target": "shakespeare:merchant-of-venice.1.3", "level": "scene"}
+{"from": "brewer-dpf:ascapart", "cite": "Shakespeare: 2 Henry VI., act ii. 3", "target": "shakespeare:henry-vi-2.2.3", "level": "scene"}
+{"from": "brewer-dpf:aspersions", "cite": "Shakespeare: The Tempest , iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:assay", "cite": "Shakespeare: Hamlet, ii. 2", "target": "shakespeare:hamlet.2.2", "level": "scene"}
+{"from": "brewer-dpf:assinego", "cite": "Shakespeare: Troilus and Cressida, ii. 1", "target": "shakespeare:troilus-and-cressida.2.1", "level": "scene"}
+{"from": "brewer-dpf:assurance", "cite": "Shakespeare: Macbeth, iv. 1", "target": "shakespeare:macbeth.4.1", "level": "scene"}
+{"from": "brewer-dpf:ate", "cite": "Shakespeare: Julius Caesar, iii. 1", "target": "shakespeare:julius-caesar.3.1", "level": "scene"}
+{"from": "brewer-dpf:avoirdupois", "cite": "Shakespeare: Henry VIII , iii. 2", "target": "shakespeare:henry-viii.3.2", "level": "scene"}
+{"from": "brewer-dpf:baffle", "cite": "Shakespeare: Richard II, act i. 1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
+{"from": "brewer-dpf:barbary", "cite": "Shakespeare: Richard II, v. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-dpf:barbed-steed", "cite": "Shakespeare: Richard III, act i. 1", "target": "shakespeare:richard-iii.1.1", "level": "scene"}
+{"from": "brewer-dpf:bark", "cite": "Shakespeare: Julius Cæsar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:bay", "cite": "Shakespeare: Richard II., ii. 4", "target": "shakespeare:richard-ii.2.4", "level": "scene"}
+{"from": "brewer-dpf:bear~2", "cite": "Shakespeare: Othello, ii. 1", "target": "shakespeare:othello.2.1", "level": "scene"}
+{"from": "brewer-dpf:beaver~2", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:bed", "cite": "Shakespeare: Twelfth Night, iii. 2", "target": "shakespeare:twelfth-night.3.2", "level": "scene"}
+{"from": "brewer-dpf:beetle", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
+{"from": "brewer-dpf:beldam", "cite": "Shakespeare: King John, iv. 2", "target": "shakespeare:king-john.4.2", "level": "scene"}
+{"from": "brewer-dpf:bells", "cite": "Shakespeare: 3 Henry VI., i. 1", "target": "shakespeare:henry-vi-3.1.1", "level": "scene"}
+{"from": "brewer-dpf:bell-book-and-candle", "cite": "Shakespeare: King John, iii. 3", "target": "shakespeare:king-john.3.3", "level": "scene"}
+{"from": "brewer-dpf:benvolio", "cite": "Shakespeare: Romeo and Juliet, iii. 1", "target": "shakespeare:romeo-and-juliet.3.1", "level": "scene"}
+{"from": "brewer-dpf:bermoothes", "cite": "Shakespeare: The Tempest, i. 2", "target": "shakespeare:tempest.1.2", "level": "scene"}
+{"from": "brewer-dpf:bezonian", "cite": "Shakespeare: 2 Henry VI., act iv. 1", "target": "shakespeare:henry-vi-2.4.1", "level": "scene"}
+{"from": "brewer-dpf:bite~2", "cite": "Shakespeare: Romeo and Juliet, i. 1", "target": "shakespeare:romeo-and-juliet.1.1", "level": "scene"}
+{"from": "brewer-dpf:biting-remark", "cite": "Shakespeare: Richard III., act ii. 4", "target": "shakespeare:richard-iii.2.4", "level": "scene"}
+{"from": "brewer-dpf:black-monday", "cite": "Shakespeare: Merchant of Venice, ii. 5", "target": "shakespeare:merchant-of-venice.2.5", "level": "scene"}
+{"from": "brewer-dpf:blast~2", "cite": "Shakespeare: Hamlet, i. 1", "target": "shakespeare:hamlet.1.1", "level": "scene"}
+{"from": "brewer-dpf:blockhead", "cite": "Shakespeare Coriolanus, ii. 3", "target": "shakespeare:coriolanus.2.3", "level": "scene"}
+{"from": "brewer-dpf:blouse", "cite": "Shakespeare: Henry V., iii. 1", "target": "shakespeare:henry-v.3.1", "level": "scene"}
+{"from": "brewer-dpf:blue-caps", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:boar", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:board~2", "cite": "Shakespeare: Taming of the Shrew, i. 2", "target": "shakespeare:taming-of-the-shrew.1.2", "level": "scene"}
+{"from": "brewer-dpf:bob", "cite": "Shakespeare: As You Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:body", "cite": "Shakespeare: Midsummer Night's Dream, v.1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-dpf:bombast", "cite": "Shakespeare: Love's Labour's Lost, v. 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:bootless-errand", "cite": "Shakespeare: 1 Henry IV., iii. 1", "target": "shakespeare:henry-iv-1.3.1", "level": "scene"}
+{"from": "brewer-dpf:bore", "cite": "Shakespeare: Henry VIII., i. 1", "target": "shakespeare:henry-viii.1.1", "level": "scene"}
+{"from": "brewer-dpf:bottom", "cite": "Shakespeare: Merchant of Venice, i. 1", "target": "shakespeare:merchant-of-venice.1.1", "level": "scene"}
+{"from": "brewer-dpf:bought-and-sold", "cite": "Shakespeare: Richard III., act v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:bravery", "cite": "Shakespeare: As You Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:brazen-faced", "cite": "Shakespeare: King Lear, ii, 2", "target": "shakespeare:king-lear.2.2", "level": "scene"}
+{"from": "brewer-dpf:broach", "cite": "Shakespeare: Henry VIII., ii. 4", "target": "shakespeare:henry-viii.2.4", "level": "scene"}
+{"from": "brewer-dpf:brogue", "cite": "Shakespeare: Cymbeline, iv. 2", "target": "shakespeare:cymbeline.4.2", "level": "scene"}
+{"from": "brewer-dpf:broken-music", "cite": "Shakespeare: Troilus and Cressida, iii. 1", "target": "shakespeare:troilus-and-cressida.3.1", "level": "scene"}
+{"from": "brewer-dpf:brownists", "cite": "Shakespeare: Twelfth Night, iii. 2", "target": "shakespeare:twelfth-night.3.2", "level": "scene"}
+{"from": "brewer-dpf:bucklersbury", "cite": "Shakespeare: Merry Wives of Windsor, iii. 3", "target": "shakespeare:merry-wives-of-windsor.3.3", "level": "scene"}
+{"from": "brewer-dpf:budget", "cite": "Shakespeare: Merry Wives of Windsor, v. 2", "target": "shakespeare:merry-wives-of-windsor.5.2", "level": "scene"}
+{"from": "brewer-dpf:bum-bailiff", "cite": "Shakespeare: Twelfth Night, iii. 4", "target": "shakespeare:twelfth-night.3.4", "level": "scene"}
+{"from": "brewer-dpf:burn", "cite": "Shakespeare: Merry Wives of Windsor, ii. 1", "target": "shakespeare:merry-wives-of-windsor.2.1", "level": "scene"}
+{"from": "brewer-dpf:buss", "cite": "Shakespeare: Troilus and Cressida, iv. 5", "target": "shakespeare:troilus-and-cressida.4.5", "level": "scene"}
+{"from": "brewer-dpf:buttons", "cite": "Shakespeare: Merry Wives of Windsor, iii. 2", "target": "shakespeare:merry-wives-of-windsor.3.2", "level": "scene"}
+{"from": "brewer-dpf:buy-out", "cite": "Shakespeare: Comedy of Errors, i.2", "target": "shakespeare:comedy-of-errors.1.2", "level": "scene"}
+{"from": "brewer-dpf:buzz~2", "cite": "Shakespeare: King Lear, i. 4", "target": "shakespeare:king-lear.1.4", "level": "scene"}
+{"from": "brewer-dpf:cacodaemon", "cite": "Shakespeare: Richard III., i.3", "target": "shakespeare:richard-iii.1.3", "level": "scene"}
+{"from": "brewer-dpf:caddice", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:cade", "cite": "Shakespeare: 2 Henry VI., iv. 2", "target": "shakespeare:henry-vi-2.4.2", "level": "scene"}
+{"from": "brewer-dpf:caerleon", "cite": "Shakespeare: Merry Wives of Windsor, i.3", "target": "shakespeare:merry-wives-of-windsor.1.3", "level": "scene"}
+{"from": "brewer-dpf:cain-coloured-beard", "cite": "Shakespeare: Merry Wives of Windsor, i. 4", "target": "shakespeare:merry-wives-of-windsor.1.4", "level": "scene"}
+{"from": "brewer-dpf:calf-skin", "cite": "Shakespeare: King John, iii. 1", "target": "shakespeare:king-john.3.1", "level": "scene"}
+{"from": "brewer-dpf:cambric", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:camel", "cite": "Shakespeare: Richard II., v. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-dpf:candle-holder", "cite": "Shakespeare: Romeo and Juliet, i. 4", "target": "shakespeare:romeo-and-juliet.1.4", "level": "scene"}
+{"from": "brewer-dpf:canker", "cite": "Shakespeare: 1 Henry IV., i. 3", "target": "shakespeare:henry-iv-1.1.3", "level": "scene"}
+{"from": "brewer-dpf:canon", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:caora", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:cap", "cite": "Shakespeare: Love's Labour Lost, v 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:cap", "cite": "Shakespeare: Cymbeline, iii. 3", "target": "shakespeare:cymbeline.3.3", "level": "scene"}
+{"from": "brewer-dpf:cap-of-fools", "cite": "Shakespeare: Timon of Athens, iv. 3", "target": "shakespeare:timon-of-athens.4.3", "level": "scene"}
+{"from": "brewer-dpf:cap-a-pie", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:cap-a-pie", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:captious", "cite": "Shakespeare: All's Well that Ends Well, i. 3", "target": "shakespeare:alls-well-that-ends-well.1.3", "level": "scene"}
+{"from": "brewer-dpf:carat-of-gold", "cite": "Shakespeare: Comedy of Errors, iv. 1", "target": "shakespeare:comedy-of-errors.4.1", "level": "scene"}
+{"from": "brewer-dpf:caraway", "cite": "Shakespeare: 2 Henry IV., v. 3", "target": "shakespeare:henry-iv-2.5.3", "level": "scene"}
+{"from": "brewer-dpf:carbonado", "cite": "Shakespeare: 1 Henry IV., v. 3", "target": "shakespeare:henry-iv-1.5.3", "level": "scene"}
+{"from": "brewer-dpf:carcass", "cite": "Shakespeare: Merchant of Venice, iii. 1", "target": "shakespeare:merchant-of-venice.3.1", "level": "scene"}
+{"from": "brewer-dpf:card", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
+{"from": "brewer-dpf:carouse", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
+{"from": "brewer-dpf:cat-i-the-adage", "cite": "Shakespeare Macbeth, i.7", "target": "shakespeare:macbeth.1.7", "level": "scene"}
+{"from": "brewer-dpf:cat-proverbs", "cite": "Shakespeare: Romeo and Juliet, iii.", "target": "shakespeare:romeo-and-juliet.3", "level": "act"}
+{"from": "brewer-dpf:cataian", "cite": "Shakespeare: Merry Wives, ii.", "target": "shakespeare:merry-wives-of-windsor.2", "level": "act"}
+{"from": "brewer-dpf:caterwauling", "cite": "Shakespeare: Twelfth Night, ii. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
+{"from": "brewer-dpf:cautelous", "cite": "Shakespeare: Coriolanus, iv. 1", "target": "shakespeare:coriolanus.4.1", "level": "scene"}
+{"from": "brewer-dpf:cautelous", "cite": "Shakespeare Julius Cæsar, ii. 1", "target": "shakespeare:julius-caesar.2.1", "level": "scene"}
+{"from": "brewer-dpf:cephalus-and-procris", "cite": "Shakespeare: Midsummer Night's Dream. v. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-dpf:cess", "cite": "Shakespeare: 1 Henry IV., ii. 1", "target": "shakespeare:henry-iv-1.2.1", "level": "scene"}
+{"from": "brewer-dpf:chair-days", "cite": "Shakespeare: 2 Henry VI., act v. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-dpf:cham", "cite": "Shakespeare: Much Ado About Nothing, ii. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-dpf:changeling", "cite": "Shakespeare: 1 Henry IV., i. 1", "target": "shakespeare:henry-iv-1.1.1", "level": "scene"}
+{"from": "brewer-dpf:chanticleer", "cite": "Shakespeare: As you Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:chartism", "cite": "Shakespeare: Merchant of Venice, iii. 5", "target": "shakespeare:merchant-of-venice.3.5", "level": "scene"}
+{"from": "brewer-dpf:cheek~2", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
+{"from": "brewer-dpf:cheveril", "cite": "Shakespeare: Romeo and Juliet, ii. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-dpf:cheveril", "cite": "Shakespeare: Henry VIII., ii. 3", "target": "shakespeare:henry-viii.2.3", "level": "scene"}
+{"from": "brewer-dpf:child", "cite": "Shakespeare: Winter's Tale, iii. 3", "target": "shakespeare:winters-tale.3.3", "level": "scene"}
+{"from": "brewer-dpf:chop-house", "cite": "Shakespeare: Romeo and Juliet, iii. 5", "target": "shakespeare:romeo-and-juliet.3.5", "level": "scene"}
+{"from": "brewer-dpf:chronicle-small-beer", "cite": "Shakespeare: Othello, ii. 1", "target": "shakespeare:othello.2.1", "level": "scene"}
+{"from": "brewer-dpf:clerk", "cite": "Shakespeare: Henry VIII., ii. 2", "target": "shakespeare:henry-viii.2.2", "level": "scene"}
+{"from": "brewer-dpf:clerkly", "cite": "Shakespeare: Two Gentlemen of Verona, iii. 1", "target": "shakespeare:two-gentlemen-of-verona.3.1", "level": "scene"}
+{"from": "brewer-dpf:cock-and-pie", "cite": "Shakespeare: 2 Henry IV., act v. 1", "target": "shakespeare:henry-iv-2.5.1", "level": "scene"}
+{"from": "brewer-dpf:cock-crow", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:cock-sure", "cite": "Shakespeare: 1 Henry IV., ii. 1", "target": "shakespeare:henry-iv-1.2.1", "level": "scene"}
+{"from": "brewer-dpf:cockatrice", "cite": "Shakespeare: Twelfth Night, iii. 4", "target": "shakespeare:twelfth-night.3.4", "level": "scene"}
+{"from": "brewer-dpf:coffin", "cite": "Shakespeare: Titus Andronicus, v. 2", "target": "shakespeare:titus-andronicus.5.2", "level": "scene"}
+{"from": "brewer-dpf:coke-upon-littleton", "cite": "Shakespeare: Henry VIII., v. 4", "target": "shakespeare:henry-viii.5.4", "level": "scene"}
+{"from": "brewer-dpf:coloquintida", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:colossus", "cite": "Shakespeare: Julius Cæsar, i. 2", "target": "shakespeare:julius-caesar.1.2", "level": "scene"}
+{"from": "brewer-dpf:commandment", "cite": "Shakespeare: 2 Henry VI., i. 3", "target": "shakespeare:henry-vi-2.1.3", "level": "scene"}
+{"from": "brewer-dpf:commodity-of-brown-paper", "cite": "Shakespeare: Measure for Measure, iv. 3", "target": "shakespeare:measure-for-measure.4.3", "level": "scene"}
+{"from": "brewer-dpf:condign", "cite": "Shakespeare: Love's Labour's Lost, i. 2", "target": "shakespeare:loves-labours-lost.1.2", "level": "scene"}
+{"from": "brewer-dpf:confiscate", "cite": "Shakespeare: Merchant of Venice, iv. 1", "target": "shakespeare:merchant-of-venice.4.1", "level": "scene"}
+{"from": "brewer-dpf:consenting-stars", "cite": "Shakespeare: 1 Henry VI., i. 1", "target": "shakespeare:henry-vi-1.1.1", "level": "scene"}
+{"from": "brewer-dpf:consort", "cite": "Shakespeare: Two Gentlemen of Verona, iv. 1", "target": "shakespeare:two-gentlemen-of-verona.4.1", "level": "scene"}
+{"from": "brewer-dpf:convey", "cite": "Shakespeare: Merry Wives of Windsor, i. 3", "target": "shakespeare:merry-wives-of-windsor.1.3", "level": "scene"}
+{"from": "brewer-dpf:cophetua", "cite": "Shakespeare: Romeo and Juliet. ii. 1", "target": "shakespeare:romeo-and-juliet.2.1", "level": "scene"}
+{"from": "brewer-dpf:cordelias-gift", "cite": "Shakespeare: King Lear, v. 3", "target": "shakespeare:king-lear.5.3", "level": "scene"}
+{"from": "brewer-dpf:corinthian-tom", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:corner~3", "cite": "Shakespeare: Henry VIII., iii. 1", "target": "shakespeare:henry-viii.3.1", "level": "scene"}
+{"from": "brewer-dpf:coroner", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
+{"from": "brewer-dpf:costard~2", "cite": "Shakespeare: Richard III., i. 4", "target": "shakespeare:richard-iii.1.4", "level": "scene"}
+{"from": "brewer-dpf:countenance", "cite": "Shakespeare: Othello, i. 1", "target": "shakespeare:othello.1.1", "level": "scene"}
+{"from": "brewer-dpf:court-cupboard", "cite": "Shakespeare: Romeo and Juliet, i.5", "target": "shakespeare:romeo-and-juliet.1.5", "level": "scene"}
+{"from": "brewer-dpf:cousin-betsy", "cite": "Shakespeare: Merry Wives of Windsor, iv.5", "target": "shakespeare:merry-wives-of-windsor.4.5", "level": "scene"}
+{"from": "brewer-dpf:cows-tail", "cite": "Shakespeare: Much Ado about Nothing, iv.1", "target": "shakespeare:much-ado-about-nothing.4.1", "level": "scene"}
+{"from": "brewer-dpf:coxcomb", "cite": "Shakespeare: King Lear, i. 4", "target": "shakespeare:king-lear.1.4", "level": "scene"}
+{"from": "brewer-dpf:coystril", "cite": "Shakespeare: Twelfth Night, i.3", "target": "shakespeare:twelfth-night.1.3", "level": "scene"}
+{"from": "brewer-dpf:cozen", "cite": "Shakespeare: All's Well that Ends Well, iv.2", "target": "shakespeare:alls-well-that-ends-well.4.2", "level": "scene"}
+{"from": "brewer-dpf:crack", "cite": "Shakespeare: Coriolanus, i.3", "target": "shakespeare:coriolanus.1.3", "level": "scene"}
+{"from": "brewer-dpf:cressida", "cite": "Shakespeare: Troilus and Cressida, iii. 2", "target": "shakespeare:troilus-and-cressida.3.2", "level": "scene"}
+{"from": "brewer-dpf:crestfallen", "cite": "Shakespeare: Richard II., i.1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
+{"from": "brewer-dpf:crete", "cite": "Shakespeare: Henry V., ii. 1", "target": "shakespeare:henry-v.2.1", "level": "scene"}
+{"from": "brewer-dpf:crispin", "cite": "Shakespeare: Henry V., iv. 3", "target": "shakespeare:henry-v.4.3", "level": "scene"}
+{"from": "brewer-dpf:crocodiles-tears", "cite": "Shakespeare: 2 Henry VI., iii. 1", "target": "shakespeare:henry-vi-2.3.1", "level": "scene"}
+{"from": "brewer-dpf:crone", "cite": "Shakespeare: Winter's Tale, ii.", "target": "shakespeare:winters-tale.2", "level": "act"}
+{"from": "brewer-dpf:crotchet", "cite": "Shakespeare: Measure for Measure, iii. 2", "target": "shakespeare:measure-for-measure.3.2", "level": "scene"}
+{"from": "brewer-dpf:crow", "cite": "Shakespeare: Comedy of Errors, iii. 1", "target": "shakespeare:comedy-of-errors.3.1", "level": "scene"}
+{"from": "brewer-dpf:crowner", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
+{"from": "brewer-dpf:cruel~2", "cite": "Shakespeare: King Lear, ii. 4", "target": "shakespeare:king-lear.2.4", "level": "scene"}
+{"from": "brewer-dpf:crush", "cite": "Shakespeare: Romeo and Juliet, i. 2", "target": "shakespeare:romeo-and-juliet.1.2", "level": "scene"}
+{"from": "brewer-dpf:cry-cave", "cite": "Shakespeare: Julius Cæsar, iii. 1", "target": "shakespeare:julius-caesar.3.1", "level": "scene"}
+{"from": "brewer-dpf:cuckoo", "cite": "Shakespeare: Love's Labour's Lost, v. 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:cudgel-ones-brains", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
+{"from": "brewer-dpf:cue", "cite": "Shakespeare: Midsummer Night's Dream, iv. 1", "target": "shakespeare:a-midsummer-nights-dream.4.1", "level": "scene"}
+{"from": "brewer-dpf:cuishes", "cite": "Shakespeare: 1 Henry IV., iv. 1", "target": "shakespeare:henry-iv-1.4.1", "level": "scene"}
+{"from": "brewer-dpf:cur", "cite": "Shakespeare: Coriolanus, i. 1", "target": "shakespeare:coriolanus.1.1", "level": "scene"}
+{"from": "brewer-dpf:curst", "cite": "Shakespeare: Taming of the Shrew, ii. 1", "target": "shakespeare:taming-of-the-shrew.2.1", "level": "scene"}
+{"from": "brewer-dpf:customer", "cite": "Shakespeare: Measure for Measure, iv. 3", "target": "shakespeare:measure-for-measure.4.3", "level": "scene"}
+{"from": "brewer-dpf:cutlers-poetry", "cite": "Shakespeare: Merchant of Venice, v 1", "target": "shakespeare:merchant-of-venice.5.1", "level": "scene"}
+{"from": "brewer-dpf:cutpurse", "cite": "Shakespeare: Winter's Tale, iv 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:daggers", "cite": "Shakespeare: Hamlet, iii. 2", "target": "shakespeare:hamlet.3.2", "level": "scene"}
+{"from": "brewer-dpf:dance-of-death", "cite": "Shakespeare: Henry VIII., v. 2", "target": "shakespeare:henry-viii.5.2", "level": "scene"}
+{"from": "brewer-dpf:dead", "cite": "Shakespeare: 2 Henry VI., iv. 10", "target": "shakespeare:henry-vi-2.4.10", "level": "scene"}
+{"from": "brewer-dpf:dead", "cite": "Shakespeare: 2 Henry IV., v. 3", "target": "shakespeare:henry-iv-2.5.3", "level": "scene"}
+{"from": "brewer-dpf:dearest", "cite": "Shakespeare: Hamlet, i.2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:deck", "cite": "Shakespeare: 3 Henry VI., v. 1", "target": "shakespeare:henry-vi-3.5.1", "level": "scene"}
+{"from": "brewer-dpf:deck", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
+{"from": "brewer-dpf:deer", "cite": "Shakespeare: As You Like It, ii. 2", "target": "shakespeare:as-you-like-it.2.2", "level": "scene"}
+{"from": "brewer-dpf:defeat~2", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:demerit", "cite": "Shakespeare: Othello, i. 2", "target": "shakespeare:othello.1.2", "level": "scene"}
+{"from": "brewer-dpf:dicers-oaths", "cite": "Shakespeare: Hamlet, iii. 4", "target": "shakespeare:hamlet.3.4", "level": "scene"}
+{"from": "brewer-dpf:dick~2", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:dickens", "cite": "Shakespeare: Merry Wives of Windsor, iii. 2", "target": "shakespeare:merry-wives-of-windsor.3.2", "level": "scene"}
+{"from": "brewer-dpf:die", "cite": "Shakespeare: Richard III., v. 4", "target": "shakespeare:richard-iii.5.4", "level": "scene"}
+{"from": "brewer-dpf:dog", "cite": "Shakespeare: Julius Caesar, iii. 1", "target": "shakespeare:julius-caesar.3.1", "level": "scene"}
+{"from": "brewer-dpf:dog-cheap", "cite": "Shakespeare: 1 Henry IV., iii. 3", "target": "shakespeare:henry-iv-1.3.3", "level": "scene"}
+{"from": "brewer-dpf:doit", "cite": "Shakespeare: The Tempest, ii.2", "target": "shakespeare:tempest.2.2", "level": "scene"}
+{"from": "brewer-dpf:don", "cite": "Shakespeare: Hamlet, iv. 5", "target": "shakespeare:hamlet.4.5", "level": "scene"}
+{"from": "brewer-dpf:dout", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
+{"from": "brewer-dpf:dragon", "cite": "Shakespeare: Cymbeline, ii. 2", "target": "shakespeare:cymbeline.2.2", "level": "scene"}
+{"from": "brewer-dpf:drink-deep", "cite": "Shakespeare: Hamlet. i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:dumps", "cite": "Shakespeare: Taming of the Shrew, ii. 1", "target": "shakespeare:taming-of-the-shrew.2.1", "level": "scene"}
+{"from": "brewer-dpf:dun-in-the-mire", "cite": "Shakespeare: Romeo and Juliet, i. 4", "target": "shakespeare:romeo-and-juliet.1.4", "level": "scene"}
+{"from": "brewer-dpf:dungaree", "cite": "Shakespeare: King John, iv 3", "target": "shakespeare:king-john.4.3", "level": "scene"}
+{"from": "brewer-dpf:dunghill", "cite": "Shakespeare: Love's Labour's Lost, v.", "target": "shakespeare:loves-labours-lost.5", "level": "act"}
+{"from": "brewer-dpf:dutch-clocks", "cite": "Shakespeare: Love's Labour's Lost, iii.1", "target": "shakespeare:loves-labours-lost.3.1", "level": "scene"}
+{"from": "brewer-dpf:dyed-beards", "cite": "Shakespeare: Midsummer Night's Dream, i. 2", "target": "shakespeare:a-midsummer-nights-dream.1.2", "level": "scene"}
+{"from": "brewer-dpf:dyeing-scarlet", "cite": "Shakespeare: 1 Henry IV ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:eager", "cite": "Shakespeare: Hamlet, i. 5", "target": "shakespeare:hamlet.1.5", "level": "scene"}
+{"from": "brewer-dpf:ears", "cite": "Shakespeare: The Tempest, iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:eaves-dropper", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:ecce-signum", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:edge", "cite": "Shakespeare: 1 Henry IV., iii. 1", "target": "shakespeare:henry-iv-1.3.1", "level": "scene"}
+{"from": "brewer-dpf:egg-eggs", "cite": "Shakespeare: Winter's Tale, i. 2", "target": "shakespeare:winters-tale.1.2", "level": "scene"}
+{"from": "brewer-dpf:egg-eggs", "cite": "Shakespeare: Winter's Tale, i. 2", "target": "shakespeare:winters-tale.1.2", "level": "scene"}
+{"from": "brewer-dpf:elf-locks", "cite": "Shakespeare: Romeo and Juliet, i. 4", "target": "shakespeare:romeo-and-juliet.1.4", "level": "scene"}
+{"from": "brewer-dpf:elf-marked", "cite": "Shakespeare: Richard III., i. 3", "target": "shakespeare:richard-iii.1.3", "level": "scene"}
+{"from": "brewer-dpf:elvish", "cite": "Shakespeare: Richard III., i. 3", "target": "shakespeare:richard-iii.1.3", "level": "scene"}
+{"from": "brewer-dpf:empirics", "cite": "Shakespeare: All's Well That Ends Well, ii. 1", "target": "shakespeare:alls-well-that-ends-well.2.1", "level": "scene"}
+{"from": "brewer-dpf:empty-as-air", "cite": "Shakespeare: 2 Henry VI., v. 2", "target": "shakespeare:henry-vi-2.5.2", "level": "scene"}
+{"from": "brewer-dpf:encelados", "cite": "Shakespeare: Titus Andronicus, iv. 2", "target": "shakespeare:titus-andronicus.4.2", "level": "scene"}
+{"from": "brewer-dpf:end", "cite": "Shakespeare: 2 Henry IV., iv. 4", "target": "shakespeare:henry-iv-2.4.4", "level": "scene"}
+{"from": "brewer-dpf:endymion", "cite": "Shakespeare: Merchant of Venice, v. 1", "target": "shakespeare:merchant-of-venice.5.1", "level": "scene"}
+{"from": "brewer-dpf:ephesian", "cite": "Shakespeare: Merry Wives of Windsor, iv. 5", "target": "shakespeare:merry-wives-of-windsor.4.5", "level": "scene"}
+{"from": "brewer-dpf:epicurean", "cite": "Shakespeare: Antony and Cleopatra, ii. 1", "target": "shakespeare:antony-and-cleopatra.2.1", "level": "scene"}
+{"from": "brewer-dpf:erebus", "cite": "Shakespeare: Julius Cæsar, ii. 1", "target": "shakespeare:julius-caesar.2.1", "level": "scene"}
+{"from": "brewer-dpf:exhibition", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:exit", "cite": "Shakespeare: As You Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:fadge", "cite": "Shakespeare: Twelfth Night, ii. 2", "target": "shakespeare:twelfth-night.2.2", "level": "scene"}
+{"from": "brewer-dpf:fairing", "cite": "Shakespeare: Love's Labour's Lost, v. 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:fairy", "cite": "Shakespeare: Merry Wives of Windsor, v. 5", "target": "shakespeare:merry-wives-of-windsor.5.5", "level": "scene"}
+{"from": "brewer-dpf:fairy-rings", "cite": "Shakespeare: Tempest, v. 1", "target": "shakespeare:tempest.5.1", "level": "scene"}
+{"from": "brewer-dpf:falling-sickness", "cite": "Shakespeare: Julius Cæsar, i. 2", "target": "shakespeare:julius-caesar.1.2", "level": "scene"}
+{"from": "brewer-dpf:familiar-spirits", "cite": "Shakespeare: 2 Henry VI., iv. 7", "target": "shakespeare:henry-vi-2.4.7", "level": "scene"}
+{"from": "brewer-dpf:fancy", "cite": "Shakespeare: Merchant of Venice, iii. 2", "target": "shakespeare:merchant-of-venice.3.2", "level": "scene"}
+{"from": "brewer-dpf:fancy-free", "cite": "Shakespeare: Midsummer Night's Dream, ii. 2", "target": "shakespeare:a-midsummer-nights-dream.2.2", "level": "scene"}
+{"from": "brewer-dpf:fancy-sick", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
+{"from": "brewer-dpf:fault~2", "cite": "Shakespeare: Merry Wives, i. 4", "target": "shakespeare:merry-wives-of-windsor.1.4", "level": "scene"}
+{"from": "brewer-dpf:fault~2", "cite": "Shakespeare: Romeo and Juliet, ii. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-dpf:fault~2", "cite": "Shakespeare: Antony and Cleopatra, iii. 13", "target": "shakespeare:antony-and-cleopatra.3.13", "level": "scene"}
+{"from": "brewer-dpf:feather", "cite": "Shakespeare: Timon of Athens. i.1", "target": "shakespeare:timon-of-athens.1.1", "level": "scene"}
+{"from": "brewer-dpf:feeble", "cite": "Shakespeare: 2 Henry IV., iii. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-dpf:fenton", "cite": "Shakespeare: Merry Wives of Windsor. iii. 4", "target": "shakespeare:merry-wives-of-windsor.3.4", "level": "scene"}
+{"from": "brewer-dpf:fetches", "cite": "Shakespeare: King Lear, ii", "target": "shakespeare:king-lear.2", "level": "act"}
+{"from": "brewer-dpf:fico", "cite": "Shakespeare: Merry Wives of Windsor, i.3", "target": "shakespeare:merry-wives-of-windsor.1.3", "level": "scene"}
+{"from": "brewer-dpf:fig~2", "cite": "Shakespeare: Henry V., iii. 6", "target": "shakespeare:henry-v.3.6", "level": "scene"}
+{"from": "brewer-dpf:filch", "cite": "Shakespeare: Midsummer Night's Dream, i. 2", "target": "shakespeare:a-midsummer-nights-dream.1.2", "level": "scene"}
+{"from": "brewer-dpf:finger", "cite": "Shakespeare: Macbeth, iv.", "target": "shakespeare:macbeth.4", "level": "act"}
+{"from": "brewer-dpf:fingers-ends", "cite": "Shakespeare: Love's Labour's Lost, v.", "target": "shakespeare:loves-labours-lost.5", "level": "act"}
+{"from": "brewer-dpf:fire-brand", "cite": "Shakespeare: Troilus and Cressida, ii. 2", "target": "shakespeare:troilus-and-cressida.2.2", "level": "scene"}
+{"from": "brewer-dpf:fire-drake", "cite": "Shakespeare: Henry VIII., v. 3", "target": "shakespeare:henry-viii.5.3", "level": "scene"}
+{"from": "brewer-dpf:fire-new", "cite": "Shakespeare: Twelfth Night, iii. 2", "target": "shakespeare:twelfth-night.3.2", "level": "scene"}
+{"from": "brewer-dpf:fish~2", "cite": "Shakespeare: King Lear, i. 4", "target": "shakespeare:king-lear.1.4", "level": "scene"}
+{"from": "brewer-dpf:flap-dragons", "cite": "Shakespeare: 2 Henry IV., ii. 4", "target": "shakespeare:henry-iv-2.2.4", "level": "scene"}
+{"from": "brewer-dpf:fleur-de-luce", "cite": "Shakespeare: Merry Wives, i. 1", "target": "shakespeare:merry-wives-of-windsor.1.1", "level": "scene"}
+{"from": "brewer-dpf:foil", "cite": "Shakespeare: Hamlet, v. 2", "target": "shakespeare:hamlet.5.2", "level": "scene"}
+{"from": "brewer-dpf:foil", "cite": "Shakespeare: As You Like It, i. 2", "target": "shakespeare:as-you-like-it.1.2", "level": "scene"}
+{"from": "brewer-dpf:fond", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
+{"from": "brewer-dpf:fond", "cite": "Shakespeare: Troilus and Cressida, i. 1", "target": "shakespeare:troilus-and-cressida.1.1", "level": "scene"}
+{"from": "brewer-dpf:foot", "cite": "Shakespeare: King John, iv. 2", "target": "shakespeare:king-john.4.2", "level": "scene"}
+{"from": "brewer-dpf:forty-thieves", "cite": "Shakespeare: Othello, iii.", "target": "shakespeare:othello.3", "level": "act"}
+{"from": "brewer-dpf:fox~3", "cite": "Shakespeare: Henry V., iv. 4", "target": "shakespeare:henry-v.4.4", "level": "scene"}
+{"from": "brewer-dpf:frippery", "cite": "Shakespeare: Tempest iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:fulhams", "cite": "Shakespeare: Merry Wives of Windsor, i. 3", "target": "shakespeare:merry-wives-of-windsor.1.3", "level": "scene"}
+{"from": "brewer-dpf:funeral-banquet", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:fustian", "cite": "Shakespeare: Othello, ii. 3", "target": "shakespeare:othello.2.3", "level": "scene"}
+{"from": "brewer-dpf:gabardine", "cite": "Shakespeare: Merchant of Venice, i. 3", "target": "shakespeare:merchant-of-venice.1.3", "level": "scene"}
+{"from": "brewer-dpf:gad-steel", "cite": "Shakespeare: Titus Andronicus, iv. 1", "target": "shakespeare:titus-andronicus.4.1", "level": "scene"}
+{"from": "brewer-dpf:galathe", "cite": "Shakespeare: Troilus and Cressida, v. 5", "target": "shakespeare:troilus-and-cressida.5.5", "level": "scene"}
+{"from": "brewer-dpf:galimaufrey", "cite": "Shakespeare: Merry Wives, ii.1", "target": "shakespeare:merry-wives-of-windsor.2.1", "level": "scene"}
+{"from": "brewer-dpf:galloway", "cite": "Shakespeare: 2 Henry IV., ii. 4", "target": "shakespeare:henry-iv-2.2.4", "level": "scene"}
+{"from": "brewer-dpf:games-afoot", "cite": "Shakespeare: Henry V., iii. 1", "target": "shakespeare:henry-v.3.1", "level": "scene"}
+{"from": "brewer-dpf:garagantua", "cite": "Shakespeare: As You Like It, iii. 2", "target": "shakespeare:as-you-like-it.3.2", "level": "scene"}
+{"from": "brewer-dpf:gentle", "cite": "Shakespeare: Winter's Tale, v. 2", "target": "shakespeare:winters-tale.5.2", "level": "scene"}
+{"from": "brewer-dpf:george", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:gerda", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:gib-cat", "cite": "Shakespeare: 1 Henry IV., i. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:gig", "cite": "Shakespeare: Love's Labour's Lost, v. 1", "target": "shakespeare:loves-labours-lost.5.1", "level": "scene"}
+{"from": "brewer-dpf:gillyflower", "cite": "Shakespeare: Winter's Tale, iv. 2", "target": "shakespeare:winters-tale.4.2", "level": "scene"}
+{"from": "brewer-dpf:gimlet-eye", "cite": "Shakespeare: Henry V., iv. 2", "target": "shakespeare:henry-v.4.2", "level": "scene"}
+{"from": "brewer-dpf:glove", "cite": "Shakespeare: Troilus and Cressida, iv. 4", "target": "shakespeare:troilus-and-cressida.4.4", "level": "scene"}
+{"from": "brewer-dpf:go-through-fire-and-water-to-serve-you", "cite": "Shakespeare: Julius Cæsar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:godfathers", "cite": "Shakespeare: Merchant of Venice, iv.", "target": "shakespeare:merchant-of-venice.4", "level": "act"}
+{"from": "brewer-dpf:gold~2", "cite": "Shakespeare: Merchant of Venice, ii. 7", "target": "shakespeare:merchant-of-venice.2.7", "level": "scene"}
+{"from": "brewer-dpf:golden-opinions", "cite": "Shakespeare: Macbeth, i. 7", "target": "shakespeare:macbeth.1.7", "level": "scene"}
+{"from": "brewer-dpf:good-duke-humphrey", "cite": "Shakespeare: 2 Henry VI., iii. 2", "target": "shakespeare:henry-vi-2.3.2", "level": "scene"}
+{"from": "brewer-dpf:goodfellow", "cite": "Shakespeare: Midsummer Night's Dream, ii. 1", "target": "shakespeare:a-midsummer-nights-dream.2.1", "level": "scene"}
+{"from": "brewer-dpf:goose", "cite": "Shakespeare: Macbeth, ii. 3", "target": "shakespeare:macbeth.2.3", "level": "scene"}
+{"from": "brewer-dpf:gordian-knot", "cite": "Shakespeare: Henry V. i. 1", "target": "shakespeare:henry-v.1.1", "level": "scene"}
+{"from": "brewer-dpf:gossip", "cite": "Shakespeare: Two Gentlemen of Verona, iii.1", "target": "shakespeare:two-gentlemen-of-verona.3.1", "level": "scene"}
+{"from": "brewer-dpf:gourds", "cite": "Shakespeare: Merry Wives of Windsor, i. 3", "target": "shakespeare:merry-wives-of-windsor.1.3", "level": "scene"}
+{"from": "brewer-dpf:gravelled", "cite": "Shakespeare: As You Like It, iv. 1", "target": "shakespeare:as-you-like-it.4.1", "level": "scene"}
+{"from": "brewer-dpf:greek", "cite": "Shakespeare: Julius Caesar, i. 2", "target": "shakespeare:julius-caesar.1.2", "level": "scene"}
+{"from": "brewer-dpf:grise", "cite": "Shakespeare: Othello, i.3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:grizel", "cite": "Shakespeare: Taming of the Shrew, ii.", "target": "shakespeare:taming-of-the-shrew.2", "level": "act"}
+{"from": "brewer-dpf:groundlings", "cite": "Shakespeare: Hamlet, iii. 2", "target": "shakespeare:hamlet.3.2", "level": "scene"}
+{"from": "brewer-dpf:guinea-hen", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:guinever", "cite": "Shakespeare: Love's Labour's Lost, iv.", "target": "shakespeare:loves-labours-lost.4", "level": "act"}
+{"from": "brewer-dpf:gules", "cite": "Shakespeare: Timon of Athens, iv. 3", "target": "shakespeare:timon-of-athens.4.3", "level": "scene"}
+{"from": "brewer-dpf:gull", "cite": "Shakespeare: Twelfth Night, v. 1", "target": "shakespeare:twelfth-night.5.1", "level": "scene"}
+{"from": "brewer-dpf:guy-earl-of-warwick", "cite": "Shakespeare: Henry VIII., v. 3", "target": "shakespeare:henry-viii.5.3", "level": "scene"}
+{"from": "brewer-dpf:hag", "cite": "Shakespeare: Macbeth, iv.", "target": "shakespeare:macbeth.4", "level": "act"}
+{"from": "brewer-dpf:hail", "cite": "Shakespeare: Macbeth, i. 3", "target": "shakespeare:macbeth.1.3", "level": "scene"}
+{"from": "brewer-dpf:hair-hairs", "cite": "Shakespeare: Merry Wives of Windsor, ii. 3", "target": "shakespeare:merry-wives-of-windsor.2.3", "level": "scene"}
+{"from": "brewer-dpf:hair-brained", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:hair-of-a-dissembling-colour", "cite": "Shakespeare: As You Like It, iii. 4", "target": "shakespeare:as-you-like-it.3.4", "level": "scene"}
+{"from": "brewer-dpf:hand", "cite": "Shakespeare: 2 Henry IV., iii. 1", "target": "shakespeare:henry-iv-2.3.1", "level": "scene"}
+{"from": "brewer-dpf:hands~2", "cite": "Shakespeare: Taming of the Shrew, v. 1", "target": "shakespeare:taming-of-the-shrew.5.1", "level": "scene"}
+{"from": "brewer-dpf:happy-as-a-king", "cite": "Shakespeare: Henry V., iv. 1", "target": "shakespeare:henry-v.4.1", "level": "scene"}
+{"from": "brewer-dpf:harbinger", "cite": "Shakespeare: Macbeth, i. 4", "target": "shakespeare:macbeth.1.4", "level": "scene"}
+{"from": "brewer-dpf:hare", "cite": "Shakespeare: 1 Henry IV., i. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:hare-brained", "cite": "Shakespeare: 1 Henry VI., i. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:hare-lip", "cite": "Shakespeare: King Lear, iii. 4", "target": "shakespeare:king-lear.3.4", "level": "scene"}
+{"from": "brewer-dpf:harlot", "cite": "Shakespeare: Winter's Tale, ii. 3", "target": "shakespeare:winters-tale.2.3", "level": "scene"}
+{"from": "brewer-dpf:harp", "cite": "Shakespeare: Hamlet, ii. 1", "target": "shakespeare:hamlet.2.1", "level": "scene"}
+{"from": "brewer-dpf:harpies", "cite": "Shakespeare: Much Ado About Nothing, ii. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-dpf:hat", "cite": "Shakespeare: Hamlet, iv. 5", "target": "shakespeare:hamlet.4.5", "level": "scene"}
+{"from": "brewer-dpf:heart-of-midlothian", "cite": "Shakespeare: Midsummer Night's Dream, ii. 1", "target": "shakespeare:a-midsummer-nights-dream.2.1", "level": "scene"}
+{"from": "brewer-dpf:heel-heels", "cite": "Shakespeare: King Lear, ii. 2", "target": "shakespeare:king-lear.2.2", "level": "scene"}
+{"from": "brewer-dpf:henchman-henchboy", "cite": "Shakespeare: Midsummer Night's Dream. ii. 1", "target": "shakespeare:a-midsummer-nights-dream.2.1", "level": "scene"}
+{"from": "brewer-dpf:herod", "cite": "Shakespeare: Hamlet, iii. 2", "target": "shakespeare:hamlet.3.2", "level": "scene"}
+{"from": "brewer-dpf:herring", "cite": "Shakespeare: Merry Wives of Windsor, ii.2", "target": "shakespeare:merry-wives-of-windsor.2.2", "level": "scene"}
+{"from": "brewer-dpf:hesperus", "cite": "Shakespeare: All's Well that Ends Well, ii. 1", "target": "shakespeare:alls-well-that-ends-well.2.1", "level": "scene"}
+{"from": "brewer-dpf:hobbididance", "cite": "Shakespeare: King Lear, iv. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-dpf:hobgoblin", "cite": "Shakespeare: Midsummer Night's Dream, ii.", "target": "shakespeare:a-midsummer-nights-dream.2", "level": "act"}
+{"from": "brewer-dpf:hob-nob", "cite": "Shakespeare: Twelfth Night, iii. 4", "target": "shakespeare:twelfth-night.3.4", "level": "scene"}
+{"from": "brewer-dpf:hoist", "cite": "Shakespeare: Hamlet, iii. 4", "target": "shakespeare:hamlet.3.4", "level": "scene"}
+{"from": "brewer-dpf:hold", "cite": "Shakespeare: Macbeth, v. 8", "target": "shakespeare:macbeth.5.8", "level": "scene"}
+{"from": "brewer-dpf:holdfast", "cite": "Shakespeare: Henry V., ii. 3", "target": "shakespeare:henry-v.2.3", "level": "scene"}
+{"from": "brewer-dpf:homoeopathy", "cite": "Shakespeare: Romeo and Juliet, i.2", "target": "shakespeare:romeo-and-juliet.1.2", "level": "scene"}
+{"from": "brewer-dpf:hood", "cite": "Shakespeare: Henry VIII., iii. 1", "target": "shakespeare:henry-viii.3.1", "level": "scene"}
+{"from": "brewer-dpf:hoodman-blind", "cite": "Shakespeare: Hamlet, iii. 4", "target": "shakespeare:hamlet.3.4", "level": "scene"}
+{"from": "brewer-dpf:hooped-pots", "cite": "Shakespeare: 2 Henry VI., iv. 2", "target": "shakespeare:henry-vi-2.4.2", "level": "scene"}
+{"from": "brewer-dpf:hopkins", "cite": "Shakespeare: Henry VIII., ii. 1", "target": "shakespeare:henry-viii.2.1", "level": "scene"}
+{"from": "brewer-dpf:horse~5", "cite": "Shakespeare: Twelfth Night, iii. 4", "target": "shakespeare:twelfth-night.3.4", "level": "scene"}
+{"from": "brewer-dpf:horse~5", "cite": "Shakespeare: All's Well that Ends. Well, ii. 3", "target": "shakespeare:alls-well-that-ends-well.2.3", "level": "scene"}
+{"from": "brewer-dpf:horse~5", "cite": "Shakespeare: 1 Henry IV., act ii. 1", "target": "shakespeare:henry-iv-1.2.1", "level": "scene"}
+{"from": "brewer-dpf:horse~5", "cite": "Shakespeare: Richard II., v. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-dpf:horse~5", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:hose", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:house-and-home", "cite": "Shakespeare: 2 Henry IV., ii. 1", "target": "shakespeare:henry-iv-2.2.1", "level": "scene"}
+{"from": "brewer-dpf:icaros", "cite": "Shakespeare: 3 Henry VI., v.", "target": "shakespeare:henry-vi-3.5", "level": "act"}
+{"from": "brewer-dpf:ice", "cite": "Shakespeare: Taming of the Shrew, i. 2", "target": "shakespeare:taming-of-the-shrew.1.2", "level": "scene"}
+{"from": "brewer-dpf:ice-brook", "cite": "Shakespeare: Othello, v. 2", "target": "shakespeare:othello.5.2", "level": "scene"}
+{"from": "brewer-dpf:ides", "cite": "Shakespeare: Julius Caesar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:incarnadine", "cite": "Shakespeare: Macbeth, ii. 2", "target": "shakespeare:macbeth.2.2", "level": "scene"}
+{"from": "brewer-dpf:ingrain-colours", "cite": "Shakespeare: Twelfth Night, i. 5", "target": "shakespeare:twelfth-night.1.5", "level": "scene"}
+{"from": "brewer-dpf:iormungandur", "cite": "Shakespeare: Merchant of Venice. iv.", "target": "shakespeare:merchant-of-venice.4", "level": "act"}
+{"from": "brewer-dpf:iris", "cite": "Shakespeare: 2 Henry VI., iii. 2", "target": "shakespeare:henry-vi-2.3.2", "level": "scene"}
+{"from": "brewer-dpf:iron-age", "cite": "Shakespeare: King John, iv. 1", "target": "shakespeare:king-john.4.1", "level": "scene"}
+{"from": "brewer-dpf:itching-of-the-eye", "cite": "Shakespeare: Othello, iv. 3", "target": "shakespeare:othello.4.3", "level": "scene"}
+{"from": "brewer-dpf:jack", "cite": "Shakespeare: Cymbeline, ii. 1", "target": "shakespeare:cymbeline.2.1", "level": "scene"}
+{"from": "brewer-dpf:jack", "cite": "Shakespeare: 1 Henry VI., i. 1", "target": "shakespeare:henry-vi-1.1.1", "level": "scene"}
+{"from": "brewer-dpf:jack-ass-jack-baker", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
+{"from": "brewer-dpf:jack-ass-jack-baker", "cite": "Shakespeare: Tempest, iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:jack-a-napes", "cite": "Shakespeare: Merry Wives of Windsor, i. 4", "target": "shakespeare:merry-wives-of-windsor.1.4", "level": "scene"}
+{"from": "brewer-dpf:jack-o-the-clock", "cite": "Shakespeare: Richard III., iv. 2", "target": "shakespeare:richard-iii.4.2", "level": "scene"}
+{"from": "brewer-dpf:jay", "cite": "Shakespeare: Othello, v. 2", "target": "shakespeare:othello.5.2", "level": "scene"}
+{"from": "brewer-dpf:jerkin", "cite": "Shakespeare: The Tempest, iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:jerusalem-chamber", "cite": "Shakespeare: 2 Henry IV., iv. 5", "target": "shakespeare:henry-iv-2.4.5", "level": "scene"}
+{"from": "brewer-dpf:job", "cite": "Shakespeare: 2 Henry IV., i. 2", "target": "shakespeare:henry-iv-2.1.2", "level": "scene"}
+{"from": "brewer-dpf:john-i-of-sweden", "cite": "Shakespeare: Much Ado about Nothing, ii. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-dpf:john-a-dreams", "cite": "Shakespeare: Hamlet, ii. 2", "target": "shakespeare:hamlet.2.2", "level": "scene"}
+{"from": "brewer-dpf:john-drums-entertainment", "cite": "Shakespeare: All's Well that Ends Well, iii. 6", "target": "shakespeare:alls-well-that-ends-well.3.6", "level": "scene"}
+{"from": "brewer-dpf:jovial", "cite": "Shakespeare: Cymbeline, v. 4", "target": "shakespeare:cymbeline.5.4", "level": "scene"}
+{"from": "brewer-dpf:judas-kiss", "cite": "Shakespeare: 3 Henry VI., v.", "target": "shakespeare:henry-vi-3.5", "level": "act"}
+{"from": "brewer-dpf:judas-coloured-hair", "cite": "Shakespeare: As You Like It, iii. 4", "target": "shakespeare:as-you-like-it.3.4", "level": "scene"}
+{"from": "brewer-dpf:junket", "cite": "Shakespeare: Taming of the Shrew, iii. 2", "target": "shakespeare:taming-of-the-shrew.3.2", "level": "scene"}
+{"from": "brewer-dpf:kam", "cite": "Shakespeare: Coriolanus, iii. 1", "target": "shakespeare:coriolanus.3.1", "level": "scene"}
+{"from": "brewer-dpf:kendal-green", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:key-cold", "cite": "Shakespeare: Richard III., i. 2", "target": "shakespeare:richard-iii.1.2", "level": "scene"}
+{"from": "brewer-dpf:kin-kind", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:king-of-shreds-and-patches", "cite": "Shakespeare: Hamlet, iii. 4", "target": "shakespeare:hamlet.3.4", "level": "scene"}
+{"from": "brewer-dpf:knife~2", "cite": "Shakespeare: Macbeth, i. 5", "target": "shakespeare:macbeth.1.5", "level": "scene"}
+{"from": "brewer-dpf:knotgrass", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
+{"from": "brewer-dpf:lakin", "cite": "Shakespeare: A Midsummer Night's Dream, iii. 1", "target": "shakespeare:a-midsummer-nights-dream.3.1", "level": "scene"}
+{"from": "brewer-dpf:lambs-wool", "cite": "Shakespeare: Richard II., i. 1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
+{"from": "brewer-dpf:land-damn", "cite": "Shakespeare: Winter's Tale ii. 1", "target": "shakespeare:winters-tale.2.1", "level": "scene"}
+{"from": "brewer-dpf:lattice", "cite": "Shakespeare: 2 Henry IV., ii. 2", "target": "shakespeare:henry-iv-2.2.2", "level": "scene"}
+{"from": "brewer-dpf:leet", "cite": "Shakespeare: Othello, iii. 3", "target": "shakespeare:othello.3.3", "level": "scene"}
+{"from": "brewer-dpf:let-drive", "cite": "Shakespeare: 1 Henry IV., ii 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:lie-quarrelsome", "cite": "Shakespeare: As You Like It, v 4", "target": "shakespeare:as-you-like-it.5.4", "level": "scene"}
+{"from": "brewer-dpf:lifter", "cite": "Shakespeare: Troilus and Cressida, i.2", "target": "shakespeare:troilus-and-cressida.1.2", "level": "scene"}
+{"from": "brewer-dpf:limbus-fatuorum", "cite": "Shakespeare: Henry VIII., v. 4", "target": "shakespeare:henry-viii.5.4", "level": "scene"}
+{"from": "brewer-dpf:lion-sick", "cite": "Shakespeare: Troilus and Cressida, ii. 3", "target": "shakespeare:troilus-and-cressida.2.3", "level": "scene"}
+{"from": "brewer-dpf:lip", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:liver-vein", "cite": "Shakespeare: Love's Labour's Lost, iv. 3", "target": "shakespeare:loves-labours-lost.4.3", "level": "scene"}
+{"from": "brewer-dpf:livered", "cite": "Shakespeare: Macbeth v. 3", "target": "shakespeare:macbeth.5.3", "level": "scene"}
+{"from": "brewer-dpf:lodestar", "cite": "Shakespeare: Midsummer Night's Dream, i. 1", "target": "shakespeare:a-midsummer-nights-dream.1.1", "level": "scene"}
+{"from": "brewer-dpf:long-tail", "cite": "Shakespeare: Merry Wives of Windsor, iii. 4", "target": "shakespeare:merry-wives-of-windsor.3.4", "level": "scene"}
+{"from": "brewer-dpf:long-words", "cite": "Shakespeare: Love's Labour's Lost, v. 1", "target": "shakespeare:loves-labours-lost.5.1", "level": "scene"}
+{"from": "brewer-dpf:louvre", "cite": "Shakespeare: Henry V, ii. 4", "target": "shakespeare:henry-v.2.4", "level": "scene"}
+{"from": "brewer-dpf:love-in-idleness", "cite": "Shakespeare Midsummer Night's Dream, ii. 2", "target": "shakespeare:a-midsummer-nights-dream.2.2", "level": "scene"}
+{"from": "brewer-dpf:luce", "cite": "Shakespeare: 1 Henry VI., i. 1", "target": "shakespeare:henry-vi-1.1.1", "level": "scene"}
+{"from": "brewer-dpf:luds-town", "cite": "Shakespeare: Cymbeline, iv. 2", "target": "shakespeare:cymbeline.4.2", "level": "scene"}
+{"from": "brewer-dpf:magpie", "cite": "Shakespeare: Macbeth, iii. 4", "target": "shakespeare:macbeth.3.4", "level": "scene"}
+{"from": "brewer-dpf:mahomet", "cite": "Shakespeare: 1 Henry VI., i. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:mahu", "cite": "Shakespeare: King Lear, iv. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-dpf:maiden-assize", "cite": "Shakespeare: King John, iv. 2", "target": "shakespeare:king-john.4.2", "level": "scene"}
+{"from": "brewer-dpf:make", "cite": "Shakespeare: As You Like It, i. 1", "target": "shakespeare:as-you-like-it.1.1", "level": "scene"}
+{"from": "brewer-dpf:make-the-door", "cite": "Shakespeare: Comedy of Errors, iii. 1", "target": "shakespeare:comedy-of-errors.3.1", "level": "scene"}
+{"from": "brewer-dpf:make-the-door", "cite": "Shakespeare: As You Like It, iv. 1", "target": "shakespeare:as-you-like-it.4.1", "level": "scene"}
+{"from": "brewer-dpf:man-of-salt", "cite": "Shakespeare: King Lear, iv. 6", "target": "shakespeare:king-lear.4.6", "level": "scene"}
+{"from": "brewer-dpf:mandrake", "cite": "Shakespeare: Romeo and Juliet, iv. 3", "target": "shakespeare:romeo-and-juliet.4.3", "level": "scene"}
+{"from": "brewer-dpf:mandrake", "cite": "Shakespeare: Antony and Cleopatra, i. 5", "target": "shakespeare:antony-and-cleopatra.1.5", "level": "scene"}
+{"from": "brewer-dpf:mark", "cite": "Shakespeare: Merchant of Venice, ii. 2", "target": "shakespeare:merchant-of-venice.2.2", "level": "scene"}
+{"from": "brewer-dpf:marybuds", "cite": "Shakespeare: Cymbeline, ii. 3", "target": "shakespeare:cymbeline.2.3", "level": "scene"}
+{"from": "brewer-dpf:matters-afoot", "cite": "Shakespeare: Julius Caesar, iii. 2", "target": "shakespeare:julius-caesar.3.2", "level": "scene"}
+{"from": "brewer-dpf:measure", "cite": "Shakespeare: Much Ado About Nothing, i. 3", "target": "shakespeare:much-ado-about-nothing.1.3", "level": "scene"}
+{"from": "brewer-dpf:measure-swords", "cite": "Shakespeare: As You Like It, v. 4", "target": "shakespeare:as-you-like-it.5.4", "level": "scene"}
+{"from": "brewer-dpf:measure-ones-length-on-the-ground", "cite": "Shakespeare: King Lear, i. 4", "target": "shakespeare:king-lear.1.4", "level": "scene"}
+{"from": "brewer-dpf:melancholy-jacques", "cite": "Shakespeare, As You Like It, ii. 1", "target": "shakespeare:as-you-like-it.2.1", "level": "scene"}
+{"from": "brewer-dpf:men-in-buckram", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:mike", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:modo", "cite": "Shakespeare: King Lear, iv. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-dpf:months-mind", "cite": "Shakespeare: Two Gentlemen of Verona, i. 2", "target": "shakespeare:two-gentlemen-of-verona.1.2", "level": "scene"}
+{"from": "brewer-dpf:moon", "cite": "Shakespeare: Merchant of Venice, v. 1", "target": "shakespeare:merchant-of-venice.5.1", "level": "scene"}
+{"from": "brewer-dpf:moon-drop", "cite": "Shakespeare: Macbeth, iii. 5", "target": "shakespeare:macbeth.3.5", "level": "scene"}
+{"from": "brewer-dpf:moons-men", "cite": "Shakespeare: 1 Henry IV., i. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:more-one-has-the-more-he-desires", "cite": "Shakespeare: Macbeth, iv. 3", "target": "shakespeare:macbeth.4.3", "level": "scene"}
+{"from": "brewer-dpf:motley", "cite": "Shakespeare: As You Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:mulmutine-laws", "cite": "Shakespeare: Cymbeline, iii. 1", "target": "shakespeare:cymbeline.3.1", "level": "scene"}
+{"from": "brewer-dpf:mum~2", "cite": "Shakespeare: 2 Henry VI., i. 2", "target": "shakespeare:henry-vi-2.1.2", "level": "scene"}
+{"from": "brewer-dpf:name", "cite": "Shakespeare: Romeo and Juliet, ii. 2", "target": "shakespeare:romeo-and-juliet.2.2", "level": "scene"}
+{"from": "brewer-dpf:necessity", "cite": "Shakespeare: Two Gentlemen of Verona, iv. 1", "target": "shakespeare:two-gentlemen-of-verona.4.1", "level": "scene"}
+{"from": "brewer-dpf:needs-must-when-the-devil-drives", "cite": "Shakespeare: All's Well That Ends Well, i. 3", "target": "shakespeare:alls-well-that-ends-well.1.3", "level": "scene"}
+{"from": "brewer-dpf:newgate-fashion", "cite": "Shakespeare: 1 Henry IV., iii. 3", "target": "shakespeare:henry-iv-1.3.3", "level": "scene"}
+{"from": "brewer-dpf:nine-days-wonder", "cite": "Shakespeare: 3 Henry VI., iii. 2", "target": "shakespeare:henry-vi-3.3.2", "level": "scene"}
+{"from": "brewer-dpf:nothing", "cite": "Shakespeare: Tempest, iii. 2", "target": "shakespeare:tempest.3.2", "level": "scene"}
+{"from": "brewer-dpf:o-p-riot", "cite": "Shakespeare: Troilus and Cressida, iv. 5", "target": "shakespeare:troilus-and-cressida.4.5", "level": "scene"}
+{"from": "brewer-dpf:obidicut", "cite": "Shakespeare: King Lear, iv. 1", "target": "shakespeare:king-lear.4.1", "level": "scene"}
+{"from": "brewer-dpf:odd-numbers", "cite": "Shakespeare: Merry Wives of Windsor. v. 1", "target": "shakespeare:merry-wives-of-windsor.5.1", "level": "scene"}
+{"from": "brewer-dpf:one-touch-of-nature-makes-the-whole-world-kin", "cite": "Shakespeare: Troilus and Cressida, iii. 3", "target": "shakespeare:troilus-and-cressida.3.3", "level": "scene"}
+{"from": "brewer-dpf:or-ever", "cite": "Shakespeare: Hamlet, i. 2", "target": "shakespeare:hamlet.1.2", "level": "scene"}
+{"from": "brewer-dpf:oracle~3", "cite": "Shakespeare: Merchant of Venice, i. 1", "target": "shakespeare:merchant-of-venice.1.1", "level": "scene"}
+{"from": "brewer-dpf:palaver", "cite": "Shakespeare Much Ado about Nothing, iii. 4", "target": "shakespeare:much-ado-about-nothing.3.4", "level": "scene"}
+{"from": "brewer-dpf:palm", "cite": "Shakespeare: Julius Caesar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:pantaloon", "cite": "Shakespeare: Taming of the Shrew, iii. 1", "target": "shakespeare:taming-of-the-shrew.3.1", "level": "scene"}
+{"from": "brewer-dpf:paris-garden", "cite": "Shakespeare: Henry VIII., v. 3", "target": "shakespeare:henry-viii.5.3", "level": "scene"}
+{"from": "brewer-dpf:parlous", "cite": "Shakespeare: As You Like It, iii. 2", "target": "shakespeare:as-you-like-it.3.2", "level": "scene"}
+{"from": "brewer-dpf:parolles", "cite": "Shakespeare: All's Well that Ends Well, iv. 3", "target": "shakespeare:alls-well-that-ends-well.4.3", "level": "scene"}
+{"from": "brewer-dpf:parson", "cite": "Shakespeare: Love's Labour's Lost, iv. 2", "target": "shakespeare:loves-labours-lost.4.2", "level": "scene"}
+{"from": "brewer-dpf:parting", "cite": "Shakespeare: Romeo and Juliet, ii. 2", "target": "shakespeare:romeo-and-juliet.2.2", "level": "scene"}
+{"from": "brewer-dpf:passy-measure-pavin", "cite": "Shakespeare: Twelfth Night, v. 1", "target": "shakespeare:twelfth-night.5.1", "level": "scene"}
+{"from": "brewer-dpf:patch", "cite": "Shakespeare: The Tempest, iii. 2", "target": "shakespeare:tempest.3.2", "level": "scene"}
+{"from": "brewer-dpf:peascod", "cite": "Shakespeare: Midsummer Night's Dream, iii. 1", "target": "shakespeare:a-midsummer-nights-dream.3.1", "level": "scene"}
+{"from": "brewer-dpf:penthesilea", "cite": "Shakespeare: Twelfth Night, ii. 2", "target": "shakespeare:twelfth-night.2.2", "level": "scene"}
+{"from": "brewer-dpf:perpetual-motion", "cite": "Shakespeare: 2 Henry IV., i. 2", "target": "shakespeare:henry-iv-2.1.2", "level": "scene"}
+{"from": "brewer-dpf:perseus", "cite": "Shakespeare: Troilus and Cressida, i. 3", "target": "shakespeare:troilus-and-cressida.1.3", "level": "scene"}
+{"from": "brewer-dpf:phaeton", "cite": "Shakespeare: Romeo and Juliet, iii. 2", "target": "shakespeare:romeo-and-juliet.3.2", "level": "scene"}
+{"from": "brewer-dpf:philosopher", "cite": "Shakespeare: Much Ado About Nothing, v. 1", "target": "shakespeare:much-ado-about-nothing.5.1", "level": "scene"}
+{"from": "brewer-dpf:philter", "cite": "Shakespeare: Othello, i. 1", "target": "shakespeare:othello.1.1", "level": "scene"}
+{"from": "brewer-dpf:phoenix-tree", "cite": "Shakespeare: The Tempest, iii. 3", "target": "shakespeare:tempest.3.3", "level": "scene"}
+{"from": "brewer-dpf:pick", "cite": "Shakespeare: Henry VIII., v. 3", "target": "shakespeare:henry-viii.5.3", "level": "scene"}
+{"from": "brewer-dpf:pickers-and-stealers", "cite": "Shakespeare: Hamlet, iii. 3", "target": "shakespeare:hamlet.3.3", "level": "scene"}
+{"from": "brewer-dpf:pickle", "cite": "Shakespeare: Tempest, v. 1", "target": "shakespeare:tempest.5.1", "level": "scene"}
+{"from": "brewer-dpf:pilcher", "cite": "Shakespeare: Romeo and Juliet, iii. 1", "target": "shakespeare:romeo-and-juliet.3.1", "level": "scene"}
+{"from": "brewer-dpf:pin~2", "cite": "Shakespeare: Romeo and Juliet, ii. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-dpf:pitch-and-pay", "cite": "Shakespeare: Henry V., ii.", "target": "shakespeare:henry-v.2", "level": "act"}
+{"from": "brewer-dpf:point", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:point-blank", "cite": "Shakespeare: 2 Henry VI., iv. 7", "target": "shakespeare:henry-vi-2.4.7", "level": "scene"}
+{"from": "brewer-dpf:point-de-judas", "cite": "Shakespeare: As You Like It, iii. 2", "target": "shakespeare:as-you-like-it.3.2", "level": "scene"}
+{"from": "brewer-dpf:points", "cite": "Shakespeare: Midsummer Night's Dream, v. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-dpf:polack", "cite": "Shakespeare: Hamlet, i.", "target": "shakespeare:hamlet.1", "level": "act"}
+{"from": "brewer-dpf:prick-the-garter", "cite": "Shakespeare: As You Like It, ii. 7", "target": "shakespeare:as-you-like-it.2.7", "level": "scene"}
+{"from": "brewer-dpf:prick-the-garter", "cite": "Shakespeare: Comedy of Errors, iv. 3", "target": "shakespeare:comedy-of-errors.4.3", "level": "scene"}
+{"from": "brewer-dpf:prig", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
+{"from": "brewer-dpf:prometheus", "cite": "Shakespeare: Titus Andronicus, ii. 1", "target": "shakespeare:titus-andronicus.2.1", "level": "scene"}
+{"from": "brewer-dpf:promethean-fire", "cite": "Shakespeare: Othello, v. 2", "target": "shakespeare:othello.5.2", "level": "scene"}
+{"from": "brewer-dpf:proserpina", "cite": "Shakespeare: Winter's Tale, iv. 4", "target": "shakespeare:winters-tale.4.4", "level": "scene"}
+{"from": "brewer-dpf:public", "cite": "Shakespeare: Othello, i. 3", "target": "shakespeare:othello.1.3", "level": "scene"}
+{"from": "brewer-dpf:puff-ball", "cite": "Shakespeare: Tempest, v. 1", "target": "shakespeare:tempest.5.1", "level": "scene"}
+{"from": "brewer-dpf:purlieu", "cite": "Shakespeare: As You Like It, iv. 3", "target": "shakespeare:as-you-like-it.4.3", "level": "scene"}
+{"from": "brewer-dpf:quail", "cite": "Shakespeare: Troilus and Cressida, v. 1", "target": "shakespeare:troilus-and-cressida.5.1", "level": "scene"}
+{"from": "brewer-dpf:quarry~2", "cite": "Shakespeare: Macbeth, iv. 3", "target": "shakespeare:macbeth.4.3", "level": "scene"}
+{"from": "brewer-dpf:queubus", "cite": "Shakespeare: Twelfth Night, ii. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
+{"from": "brewer-dpf:quicksilver", "cite": "Shakespeare: Hamlet, i. 5", "target": "shakespeare:hamlet.1.5", "level": "scene"}
+{"from": "brewer-dpf:quietus", "cite": "Shakespeare: Hamlet, iii. 1", "target": "shakespeare:hamlet.3.1", "level": "scene"}
+{"from": "brewer-dpf:quillet", "cite": "Shakespeare: Love's Labour's Lost, iv. 3", "target": "shakespeare:loves-labours-lost.4.3", "level": "scene"}
+{"from": "brewer-dpf:quinapalus", "cite": "Shakespeare: Twelfth Night, i. 5", "target": "shakespeare:twelfth-night.1.5", "level": "scene"}
+{"from": "brewer-dpf:quorum", "cite": "Shakespeare Merry Wives of Windsor, i. 1", "target": "shakespeare:merry-wives-of-windsor.1.1", "level": "scene"}
+{"from": "brewer-dpf:r", "cite": "Shakespeare: Romeo and Juliet, ii. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-dpf:rack", "cite": "Shakespeare: Tempest, iv. 1", "target": "shakespeare:tempest.4.1", "level": "scene"}
+{"from": "brewer-dpf:radit-usque-ad-cutem", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:radit-usque-ad-cutem", "cite": "Shakespeare: Comedy of Errors, iv. 4", "target": "shakespeare:comedy-of-errors.4.4", "level": "scene"}
+{"from": "brewer-dpf:ragamuffin", "cite": "Shakespeare: 1 Henry IV., v. 3", "target": "shakespeare:henry-iv-1.5.3", "level": "scene"}
+{"from": "brewer-dpf:rampallian", "cite": "Shakespeare: 2 Henry IV., ii. 1", "target": "shakespeare:henry-iv-2.2.1", "level": "scene"}
+{"from": "brewer-dpf:rascal", "cite": "Shakespeare: 2 Henry IV., v. 4", "target": "shakespeare:henry-iv-2.5.4", "level": "scene"}
+{"from": "brewer-dpf:red-lattice-phrases", "cite": "Shakespeare: Merry Wives of Windsor, ii. 2", "target": "shakespeare:merry-wives-of-windsor.2.2", "level": "scene"}
+{"from": "brewer-dpf:richard-ii-s-horse", "cite": "Shakespeare: Richard II., v. 5", "target": "shakespeare:richard-ii.5.5", "level": "scene"}
+{"from": "brewer-dpf:rigol", "cite": "Shakespeare: 2 Henry IV., iv. 4", "target": "shakespeare:henry-iv-2.4.4", "level": "scene"}
+{"from": "brewer-dpf:robin-goodfellow", "cite": "Shakespeare: Midsummer Night's Dream, ii. 1", "target": "shakespeare:a-midsummer-nights-dream.2.1", "level": "scene"}
+{"from": "brewer-dpf:rogue-ingrain", "cite": "Shakespeare: Twelfth Night, i. 5", "target": "shakespeare:twelfth-night.1.5", "level": "scene"}
+{"from": "brewer-dpf:ronyon", "cite": "Shakespeare: Merry Wives of Windsor, iv. 2", "target": "shakespeare:merry-wives-of-windsor.4.2", "level": "scene"}
+{"from": "brewer-dpf:ronyon", "cite": "Shakespeare: Macbeth, i. 3", "target": "shakespeare:macbeth.1.3", "level": "scene"}
+{"from": "brewer-dpf:rooky-wood", "cite": "Shakespeare: Macbeth, iii. 2", "target": "shakespeare:macbeth.3.2", "level": "scene"}
+{"from": "brewer-dpf:roscius", "cite": "Shakespeare: 3 Henry VI., v. 6", "target": "shakespeare:henry-vi-3.5.6", "level": "scene"}
+{"from": "brewer-dpf:round~2", "cite": "Shakespeare: King John, ii. 1", "target": "shakespeare:king-john.2.1", "level": "scene"}
+{"from": "brewer-dpf:rouse", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
+{"from": "brewer-dpf:rowland", "cite": "Shakespeare: King Lear, iii. 4", "target": "shakespeare:king-lear.3.4", "level": "scene"}
+{"from": "brewer-dpf:royal-merchant", "cite": "Shakespeare: Merchant of Venice. iv. 1", "target": "shakespeare:merchant-of-venice.4.1", "level": "scene"}
+{"from": "brewer-dpf:rue~2", "cite": "Shakespeare: Hamlet, iv. 5", "target": "shakespeare:hamlet.4.5", "level": "scene"}
+{"from": "brewer-dpf:rumolt", "cite": "Shakespeare: Macbeth, i. 3", "target": "shakespeare:macbeth.1.3", "level": "scene"}
+{"from": "brewer-dpf:sable~2", "cite": "Shakespeare: Hamlet, iii. 2", "target": "shakespeare:hamlet.3.2", "level": "scene"}
+{"from": "brewer-dpf:sagittary", "cite": "Shakespeare: Troilus and Cressida, v. 5", "target": "shakespeare:troilus-and-cressida.5.5", "level": "scene"}
+{"from": "brewer-dpf:sail", "cite": "Shakespeare: Twelfth Night, i.5", "target": "shakespeare:twelfth-night.1.5", "level": "scene"}
+{"from": "brewer-dpf:salad-days", "cite": "Shakespeare: Antony and Cleopatra, i. 5", "target": "shakespeare:antony-and-cleopatra.1.5", "level": "scene"}
+{"from": "brewer-dpf:salamander", "cite": "Shakespeare: 1 Henry IV., iv. 3", "target": "shakespeare:henry-iv-1.4.3", "level": "scene"}
+{"from": "brewer-dpf:salic-law", "cite": "Shakespeare: Henry V., i. 2", "target": "shakespeare:henry-v.1.2", "level": "scene"}
+{"from": "brewer-dpf:sally", "cite": "Shakespeare: Macbeth, i. 7", "target": "shakespeare:macbeth.1.7", "level": "scene"}
+{"from": "brewer-dpf:sand-blind", "cite": "Shakespeare: Merchant of Venice, ii. 2", "target": "shakespeare:merchant-of-venice.2.2", "level": "scene"}
+{"from": "brewer-dpf:sands", "cite": "Shakespeare: Richard II., ii. 2", "target": "shakespeare:richard-ii.2.2", "level": "scene"}
+{"from": "brewer-dpf:sauce", "cite": "Shakespeare: Troilus and Cressida, i. 2", "target": "shakespeare:troilus-and-cressida.1.2", "level": "scene"}
+{"from": "brewer-dpf:scylla~2", "cite": "Shakespeare: Merchant of Venice, iii. 5", "target": "shakespeare:merchant-of-venice.3.5", "level": "scene"}
+{"from": "brewer-dpf:seel", "cite": "Shakespeare: Othello, iii. 3", "target": "shakespeare:othello.3.3", "level": "scene"}
+{"from": "brewer-dpf:setting-of-a-jewel", "cite": "Shakespeare: Richard II., ii. 1", "target": "shakespeare:richard-ii.2.1", "level": "scene"}
+{"from": "brewer-dpf:shadow", "cite": "Shakespeare: Macbeth, iii. 4", "target": "shakespeare:macbeth.3.4", "level": "scene"}
+{"from": "brewer-dpf:shafalus", "cite": "Shakespeare: Midsummer Night's Dream, v. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-dpf:shovel-board", "cite": "Shakespeare: Merry Wives of Windsor, i. 1", "target": "shakespeare:merry-wives-of-windsor.1.1", "level": "scene"}
+{"from": "brewer-dpf:shrimp", "cite": "Shakespeare: 1 Henry VI., ii. 3", "target": "shakespeare:henry-vi-1.2.3", "level": "scene"}
+{"from": "brewer-dpf:silence-gives-consent", "cite": "Shakespeare: Cymbeline, ii. 3", "target": "shakespeare:cymbeline.2.3", "level": "scene"}
+{"from": "brewer-dpf:six-and-eightpence", "cite": "Shakespeare: All's Well that Ends Well, ii. 2", "target": "shakespeare:alls-well-that-ends-well.2.2", "level": "scene"}
+{"from": "brewer-dpf:skains-mate", "cite": "Shakespeare: Romeo and Juliet, ii. 4", "target": "shakespeare:romeo-and-juliet.2.4", "level": "scene"}
+{"from": "brewer-dpf:skimble-skamble", "cite": "Shakespeare: 1 Henry IV., iii. 1", "target": "shakespeare:henry-iv-1.3.1", "level": "scene"}
+{"from": "brewer-dpf:snuff", "cite": "Shakespeare: Love's Labour's Lost, v. 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:snuff", "cite": "Shakespeare: 1 Henry IV., i. 3", "target": "shakespeare:henry-iv-1.1.3", "level": "scene"}
+{"from": "brewer-dpf:spade", "cite": "Shakespeare: Coriolanus ii.", "target": "shakespeare:coriolanus.2", "level": "act"}
+{"from": "brewer-dpf:spartan-dog", "cite": "Shakespeare: Othello, v.", "target": "shakespeare:othello.5", "level": "act"}
+{"from": "brewer-dpf:spider~2", "cite": "Shakespeare: Winter's Tale, ii.", "target": "shakespeare:winters-tale.2", "level": "act"}
+{"from": "brewer-dpf:square", "cite": "Shakespeare: Titus Andronicus, ii. 1", "target": "shakespeare:titus-andronicus.2.1", "level": "scene"}
+{"from": "brewer-dpf:staff", "cite": "Shakespeare: 2 Henry VI., ii. 3", "target": "shakespeare:henry-vi-2.2.3", "level": "scene"}
+{"from": "brewer-dpf:stalking-horse", "cite": "Shakespeare: As You Like It, v 4", "target": "shakespeare:as-you-like-it.5.4", "level": "scene"}
+{"from": "brewer-dpf:still-sow", "cite": "Shakespeare: Merry Wives of Windsor, iv. 2", "target": "shakespeare:merry-wives-of-windsor.4.2", "level": "scene"}
+{"from": "brewer-dpf:stomach", "cite": "Shakespeare Henry V., iv. 3", "target": "shakespeare:henry-v.4.3", "level": "scene"}
+{"from": "brewer-dpf:stomach", "cite": "Shakespeare: Antony and Cleopatra, iii. 4", "target": "shakespeare:antony-and-cleopatra.3.4", "level": "scene"}
+{"from": "brewer-dpf:stone-still", "cite": "Shakespeare: King John, iv. 1", "target": "shakespeare:king-john.4.1", "level": "scene"}
+{"from": "brewer-dpf:strappado", "cite": "Shakespeare: 1 Henry IV., ii. 4", "target": "shakespeare:henry-iv-1.2.4", "level": "scene"}
+{"from": "brewer-dpf:suckle", "cite": "Shakespeare: Othello, ii. 1", "target": "shakespeare:othello.2.1", "level": "scene"}
+{"from": "brewer-dpf:summer", "cite": "Shakespeare: 1 Henry VI., i. 2", "target": "shakespeare:henry-vi-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:summer", "cite": "Shakespeare: 1 Henry IV., i. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
+{"from": "brewer-dpf:swinge-buckler", "cite": "Shakespeare: 2 Henry IV., iii. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-dpf:sword", "cite": "Shakespeare: Antony and Cleopatra, ii.", "target": "shakespeare:antony-and-cleopatra.2", "level": "act"}
+{"from": "brewer-dpf:taffata", "cite": "Shakespeare: Love's Labour's Lost, v. 2", "target": "shakespeare:loves-labours-lost.5.2", "level": "scene"}
+{"from": "brewer-dpf:tall-men", "cite": "Shakespeare: Merry Wives of Windsor, ii. 2", "target": "shakespeare:merry-wives-of-windsor.2.2", "level": "scene"}
+{"from": "brewer-dpf:tarpeian-rock", "cite": "Shakespeare: Coriolanus, iii. 1", "target": "shakespeare:coriolanus.3.1", "level": "scene"}
+{"from": "brewer-dpf:tassel-gentle", "cite": "Shakespeare Romeo and Juliet, ii 2", "target": "shakespeare:romeo-and-juliet.2.2", "level": "scene"}
+{"from": "brewer-dpf:teeth", "cite": "Shakespeare: Merry Wives of Windsor, v. 4", "target": "shakespeare:merry-wives-of-windsor.5.4", "level": "scene"}
+{"from": "brewer-dpf:teeth", "cite": "Shakespeare: Julius Caesar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:ten-commandments~2", "cite": "Shakespeare: 2 Henry VI., i. 3", "target": "shakespeare:henry-vi-2.1.3", "level": "scene"}
+{"from": "brewer-dpf:tend-in-the-eyes", "cite": "Shakespeare: Antony and Cleopatra, ii. 2", "target": "shakespeare:antony-and-cleopatra.2.2", "level": "scene"}
+{"from": "brewer-dpf:termagant~2", "cite": "Shakespeare: 1 Henry IV., v. 4", "target": "shakespeare:henry-iv-1.5.4", "level": "scene"}
+{"from": "brewer-dpf:tester", "cite": "Shakespeare: 2 Henry IV., iii. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
+{"from": "brewer-dpf:throw-your-eye-on", "cite": "Shakespeare: King John. iii. 3", "target": "shakespeare:king-john.3.3", "level": "scene"}
+{"from": "brewer-dpf:thrums", "cite": "Shakespeare: Midsummer Night's Dream. v. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
+{"from": "brewer-dpf:thumb", "cite": "Shakespeare: Romeo and Juliet, i. 1", "target": "shakespeare:romeo-and-juliet.1.1", "level": "scene"}
+{"from": "brewer-dpf:thunderbolts", "cite": "Shakespeare: Julius Caesar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
+{"from": "brewer-dpf:titan", "cite": "Shakespeare: Romeo and Juliet, ii. 3", "target": "shakespeare:romeo-and-juliet.2.3", "level": "scene"}
+{"from": "brewer-dpf:tom", "cite": "Shakespeare: Coriolanus, i. 1", "target": "shakespeare:coriolanus.1.1", "level": "scene"}
+{"from": "brewer-dpf:tom-o-bedlams", "cite": "Shakespeare: King Lear, i. 2", "target": "shakespeare:king-lear.1.2", "level": "scene"}
+{"from": "brewer-dpf:trencher", "cite": "Shakespeare: Henry VIII., iii. 2", "target": "shakespeare:henry-viii.3.2", "level": "scene"}
+{"from": "brewer-dpf:unaneled", "cite": "Shakespeare: Hamlet, i. 5", "target": "shakespeare:hamlet.1.5", "level": "scene"}
+{"from": "brewer-dpf:vale-of-bonnet", "cite": "Shakespeare: Merchant of Venice, i. 1", "target": "shakespeare:merchant-of-venice.1.1", "level": "scene"}
+{"from": "brewer-dpf:venus", "cite": "Shakespeare: Romeo and Juliet, iv.", "target": "shakespeare:romeo-and-juliet.4", "level": "act"}
+{"from": "brewer-dpf:villain", "cite": "Shakespeare: As You Like It, i. 1", "target": "shakespeare:as-you-like-it.1.1", "level": "scene"}
+{"from": "brewer-dpf:violet~2", "cite": "Shakespeare: Hamlet, iv. 5", "target": "shakespeare:hamlet.4.5", "level": "scene"}
+{"from": "brewer-dpf:wall~2", "cite": "Shakespeare: Romeo and Juliet, i.", "target": "shakespeare:romeo-and-juliet.1", "level": "act"}
+{"from": "brewer-dpf:wall~2", "cite": "Shakespeare: Cymbeline, iii. 4", "target": "shakespeare:cymbeline.3.4", "level": "scene"}
+{"from": "brewer-dpf:wheel", "cite": "Shakespeare: 3 Henry VI., iv. 3", "target": "shakespeare:henry-vi-3.4.3", "level": "scene"}
+{"from": "brewer-dpf:whistle", "cite": "Shakespeare: King Lear, iv 2", "target": "shakespeare:king-lear.4.2", "level": "scene"}
+{"from": "brewer-dpf:white-surrey", "cite": "Shakespeare: Richard III., v. 3", "target": "shakespeare:richard-iii.5.3", "level": "scene"}
+{"from": "brewer-dpf:woodcock", "cite": "Shakespeare: Hamlet, i. 3", "target": "shakespeare:hamlet.1.3", "level": "scene"}
+{"from": "brewer-dpf:world", "cite": "Shakespeare: As You Like It, v. 3", "target": "shakespeare:as-you-like-it.5.3", "level": "scene"}
+{"from": "brewer-dpf:world", "cite": "Shakespeare: Much Ado About Nothing, ii. 1", "target": "shakespeare:much-ado-about-nothing.2.1", "level": "scene"}
+{"from": "brewer-dpf:xantippe", "cite": "Shakespeare: Taming of the Shrew. i 2", "target": "shakespeare:taming-of-the-shrew.1.2", "level": "scene"}

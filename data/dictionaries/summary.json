@@ -1,0 +1,64 @@
+{
+ "names": {
+  "rows": 3813,
+  "one_each": 3286,
+  "in_all_three": 254
+ },
+ "scripture": {
+  "rows": 831,
+  "dropped": {
+   "no such verse in the KJV": 35,
+   "no book number": 20
+  }
+ },
+ "shakespeare": {
+  "rows": 681,
+  "dropped": {
+   "play not recognised": 40,
+   "no such scene": 8
+  }
+ },
+ "classical": {
+  "rows": 35389,
+  "unresolved": 8478,
+  "top_unresolved_abbreviations": {
+   "Plut.": 1284,
+   "Strabo": 914,
+   "Just.": 639,
+   "Hyg.": 596,
+   "Dig.": 477,
+   "Serv.": 389,
+   "Zonar.": 358,
+   "Oros.": 322,
+   "Vell.": 308,
+   "passage not a number": 305,
+   "Eustath.": 268,
+   "Eutrop.": 248,
+   "Macr.": 216,
+   "Aristoph.": 199,
+   "Eur.": 190,
+   "Suet.": 189,
+   "Cic.": 150,
+   "Aristot.": 121,
+   "App.": 108,
+   "Phot.": 101,
+   "Ov.": 97,
+   "Xen.": 83,
+   "Verg.": 79,
+   "Ant.": 75,
+   "Clem.": 73
+  }
+ },
+ "pages-brewer-cs": {
+  "rows": 11905,
+  "of_entries": 14416,
+  "read": 11635
+ },
+ "sources": {
+  "smith-dgrbm": "d6462fbc94d66be83488c4c79d0f76fbd3e26a5ab8cb64c362f0348eaaaffa9a",
+  "brewer-character-sketches": "3c81480e45c0fe7c191e15a19b6995d62aad2fff19f2f6fa0c8461a759996ae2",
+  "brewer-dpf": "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
+  "kjv": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0",
+  "shakespeare": "eb61e33cab23dbe712ad57091ded6c7292ba91ac3bb2764f51a3223ec0068fe5"
+ }
+}

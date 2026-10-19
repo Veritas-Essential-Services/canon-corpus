@@ -636,5 +636,55 @@ check("brewer: three appendices keyed per item; preface and transcriber's note a
 check("brewer: [TN-n] transcriber pointers stripped and counted",
       _bu["mark-tapley"]["text"] == "=Mark Tapley=, a servant." and "1 [TN-n]" in _bb["scheme"]["note"])
 
+# ---- Brewer's Dictionary of Phrase and Fable 1894 (pdftohtml XML of the PDF)
+def _t(top, txt, w=200, font=1):
+    return f'<text top="{top}" left="108" width="{w}" height="15" font="{font}">{txt}</text>'
+_DPF = ('<pdf2xml>\n<page number="3" position="absolute">\n'
+        + _t(59, "Dictionary of Phrase and Fable", font=3)
+        + _t(92, '<a href="full.html#3">A</a>')
+        + _t(93, "<b>A</b>", font=7)
+        + _t(132, "Aim")
+        + _t(171, "To give aim, to stand aloof, as an <i>air—ship</i> does.", w=700)
+        + _t(191, "next line of the same paragraph.")
+        + _t(231, "To cry aim.")
+        + _t(271, "To applaud. (See Air.)")
+        + _t(311, "Air")
+        + _t(351, "(<i>See</i> Aim.) An element — so Anaxagoras.")
+        + _t(391, "But whosoever contrary doth prove")
+        + _t(431, "Ajax")
+        + _t(471, "A Greek, son of Telamon.")
+        + _t(511, "Alb")
+        + _t(551, "A white vestment.")
+        + _t(591, "Bodle A Scotch coin, worth the sixth of a penny.", w=700)
+        + _t(1082, "and this line runs on at the turn", w=700)
+        + _t(1122, "53", font=3)
+        + '</page>\n<page number="4" position="absolute">\n'
+        + _t(92, "to the next page.")
+        + _t(132, "Bodle")
+        + _t(171, "(<i>St.</i>) a second Bodle.")
+        + '</page>\n</pdf2xml>\n')
+_dd = _tf.mkdtemp()
+_dp = os.path.join(_dd, "x.pdf")
+open(_dp, "wb").write(b"%PDF-1.3 fixture")
+open(os.path.join(_dd, "x.xml"), "w", encoding="utf-8").write(_DPF)
+_db = st.convert_brewer_dpf(_dp)
+_du = {u["id"].split(":", 1)[1]: u for u in _db["units"]}
+check("dpf: a line of its own above its definition is a headword; running heads, folios, TOC go",
+      list(_du)[:2] == ["aim", "air"] and not any("Phrase and Fable" in u["text"] or "53" in u["text"]
+                                                  for u in _db["units"]))
+check("dpf: a sub-phrase ending in a full stop stays inside its entry",
+      "to-cry-aim" not in _du and "To cry aim." in _du["aim"]["text"])
+check("dpf: an em dash between letters is a hyphen; a spaced one is Brewer's dash; italics as _x_",
+      "_air-ship_" in _du["aim"]["text"] and "An element — so" in _du["air"]["text"])
+check("dpf: a verse line out of alphabetical order is folded in as a subhead",
+      _du["air"]["lex"]["subheads"] == ["But whosoever contrary doth prove"])
+check("dpf: a run-in headword is split from its definition, and a page turn on a full line runs on",
+      _du["bodle"]["lex"].get("run_in") and _du["bodle"]["text"].endswith("runs on at the turn to the next page."))
+check("dpf: a repeated headword is ~2, a qualifier is in the ref, See links name the right id",
+      _du["bodle~2"]["ref"] == "Bodle (St.)" and "qualifier" not in _du["air"]["lex"]
+      and {"kind": "see", "label": "Aim", "target": "brewer-dpf:aim"} in _du["air"]["links"]
+      and _du["aim"]["links"] == [{"kind": "see", "label": "Air", "target": "brewer-dpf:air"}])
+import shutil as _sh; _sh.rmtree(_dd)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

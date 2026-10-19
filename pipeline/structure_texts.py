@@ -1145,6 +1145,18 @@ def _brewer_appendix(text, vol):
     return out
 
 
+def _number_repeats(units):
+    """Give a repeated id `~2`, `~3` in book order -- what main() would do --
+    before links are drawn, so a link can name the right homonym."""
+    seen = {}
+    for u in units:
+        if u["id"] in seen:
+            seen[u["id"]] += 1
+            u["id"] = f"{u['id']}~{seen[u['id']]}"
+        else:
+            seen[u["id"]] = 1
+
+
 def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
     """Brewer, Character Sketches of Romance, Fiction and the Drama -- the
     revised American edition of THE READER'S HANDBOOK, ed. Marion Harland
@@ -1226,6 +1238,7 @@ def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
                           "paras": [text],
                           "lex": {"headword": name, "appendix": kind, "volume": 4,
                                   "subheads": []}})
+    _number_repeats(units)
     key = {}
     for u in units:
         if "appendix" not in u["lex"]:
@@ -1241,7 +1254,7 @@ def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
                 continue
             seen.add(k)
             cands = key.get(k, [])
-            if len(set(cands)) == 1:
+            if len(cands) == 1:
                 links.append({"kind": "see", "label": name, "target": cands[0]}); resolved += 1
             elif cands:
                 links.append({"kind": "see", "label": name, "candidates": sorted(set(cands)),
@@ -1282,6 +1295,229 @@ def convert_brewer_character_sketches(paths, slug="brewer-character-sketches"):
                                f"modernised nothing; vol. III's {tn_marks} [TN-n] pointers to "
                                f"kept printer's errors are stripped. Printed page numbers "
                                f"are not in the transcription, so no page is claimed."},
+            "units": units}
+
+
+BREWER_DPF_PDF = "brewer-dpf-1894.pdf"
+BREWER_DPF_SHA256 = "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c"
+RE_PDFXML_TEXT = re.compile(r'<text top="(\d+)" left="(\d+)" width="(\d+)" height="(\d+)" '
+                            r'font="(\d+)">(.*?)</text>')
+# words that keep a run-in headword going are capitalised; these join two of them
+_DPF_JOIN = {"of", "and", "the", "in", "on", "de", "du", "la", "le", "a", "an", "to"}
+
+
+def _dpf_xml(pdf):
+    """The PDF as poppler's positioned XML (`pdftohtml -xml -i`), cached beside it.
+    Needs poppler-utils only when the .xml is not already there."""
+    xml = pdf[:-4] + ".xml"
+    if not os.path.exists(xml):
+        import subprocess
+        stem = xml[:-4] + ".tmp"
+        subprocess.run(["pdftohtml", "-xml", "-i", "-q", "-nodrm", pdf, stem], check=True)
+        os.replace(stem + ".xml", xml)
+    return xml
+
+
+def _dpf_clean(t):
+    """One line of the PDF as text: italics as _x_ (the Gutenberg convention the
+    other dictionaries use), and the converter's dash restored. htmldoc printed
+    every hyphen as an em dash (`air—ship`, `Ag—no—i—tæ`); Brewer's own dashes
+    are spaced (` — `), so an em dash with a letter on both sides is a hyphen."""
+    t = re.sub(r"</?b>", "", t)
+    t = re.sub(r"<i>(\s*)", r"\1_", t)
+    t = re.sub(r"(\s*)</i>", r"_\1", t)
+    t = html.unescape(t).replace("__", "")
+    return re.sub(r"(?<=[^\W\d_])—(?=[^\W\d_])", "-", t)
+
+
+def _dpf_paragraphs(xml):
+    """[(pdf page, [line, ...]), ...] from the positioned XML. A gap of 40pt
+    between lines is a paragraph break, 20pt a line of the same paragraph. At a
+    page turn the layout says nothing, so the previous line decides: a full
+    line (600pt and wider) runs on, a short one ended its paragraph."""
+    x = open(xml, encoding="utf-8").read()
+    paras, cur, prev = [], None, None
+    for pn, body in re.findall(r'<page number="(\d+)"[^>]*>(.*?)</page>', x, re.S):
+        pn = int(pn)
+        for m in RE_PDFXML_TEXT.finditer(body):
+            top, w, f, t = int(m[1]), int(m[3]), m[5], m[6]
+            if f in ("0", "3", "4", "5", "10"):   # title page, running heads, folios, superscripts
+                continue
+            if f == "7":                          # the letter heading opening a section
+                prev = None
+                continue
+            if "<a href" in t or "blackmask.com" in t:
+                continue                          # the e-text's table of contents
+            t = _dpf_clean(t).strip()
+            if prev is None:
+                brk = True
+            elif prev[0] == pn:
+                brk = top - prev[1] >= 30 or top < prev[1]
+            else:
+                brk = prev[2] < 600
+            if brk or cur is None:
+                cur = (pn, [t]); paras.append(cur)
+            else:
+                cur[1].append(t)
+            prev = (pn, top, w)
+    return paras
+
+
+def _dpf_head_line(s):
+    """A one-line paragraph that can be a headword: short, no italics, a capital
+    first, no closing punctuation (that is a sub-phrase, `To cry aim.`, or the
+    end of a quotation), no spaced dash."""
+    return (len(s) <= 50 and "_" not in s and " — " not in s
+            and re.match(r"[A-ZÀ-ÞÆŒ0-9]", s) is not None
+            and not re.search(r"[.,;:”’!\")]$", s))
+
+
+def _dpf_run_in(s):
+    """The headword run into the first line of its definition (`Nickel Silver A
+    mixed metal`), or None. The PDF gives no boundary, so: the first word, and
+    each next capitalised word (or `of`, `and` ... before one) for as long as the
+    word AFTER it also opens with a capital or `(` -- the definition's first word
+    is the last capital before a lower-case one."""
+    w = s.split(" ")
+    if len(w) < 2 or not re.match(r"[A-ZÀ-ÞÆŒ][\w'’-]*$", w[0]):
+        return None
+    if not re.match(r"[A-Z(“]", w[1]):
+        return None
+    n = 1
+    while n + 1 < len(w):
+        a, b = w[n], w[n + 1]
+        if a in _DPF_JOIN and n + 2 < len(w) and re.match(r"[A-Z]", b) \
+                and re.match(r"[A-Z(“]", w[n + 2]):
+            n += 2; continue
+        if a in ("A", "An", "The"):           # `Bodle A Scotch coin`: the definition
+            break
+        if re.match(r"[A-ZÀ-ÞÆŒ][\w'’-]*$", a) and re.match(r"[A-Z(“]", b):
+            n += 1; continue
+        break
+    return " ".join(w[:n])
+
+
+def convert_brewer_dpf(path, slug="brewer-dpf"):
+    """Brewer, Dictionary of Phrase and Fable, the new and enlarged edition of
+    1894 (London: Cassell), as Blackmask Online keyed it (2003) and htmldoc set
+    it as a 2,971-page PDF; the copy used is pinned by sha256 (BREWER_DPF_SHA256).
+
+    Unit = one headword entry. The PDF marks nothing as a headword -- htmldoc
+    set the bold away -- so a headword is read from the layout: the e-text puts
+    it on a line of its own above the definition. Brewer's sub-phrases (`To cry
+    aim.`) and the lines of a quoted poem look the same, so the dictionary's own
+    alphabetical order decides (_brewer_in_order, as for Character Sketches):
+    the longest run of such lines that keeps the alphabet is the headwords, the
+    rest stay inside their entry under lex.subheads. Some 400 headwords are run
+    into the first line of their definition instead; one whose name falls
+    alphabetically between the headwords around it is split out by
+    _dpf_run_in's rule and marked lex.run_in."""
+    pdf_sha = sha256(path)
+    paras = _dpf_paragraphs(_dpf_xml(path))
+    one = [i for i, (_, ls) in enumerate(paras)
+           if len(ls) == 1 and i + 1 < len(paras) and _dpf_head_line(ls[0])]
+    keep = _brewer_in_order([_brewer_key(paras[i][1][0])[:3] for i in one])
+    heads = [one[n] for n in sorted(keep)]
+    sub = {one[n] for n in range(len(one)) if n not in keep}
+    run_in = {}
+    for a, b in zip(heads, heads[1:] + [len(paras)]):
+        ka = _brewer_key(paras[a][1][0])
+        kb = _brewer_key(paras[b][1][0]) if b < len(paras) else "zzz"
+        for i in range(a + 2, b):            # a + 1 is a's own definition
+            h = None if i in sub else _dpf_run_in(paras[i][1][0])
+            if not h:
+                continue
+            kh = _brewer_key(h)
+            if ka < kh <= kb and kh.split("-")[0] != ka.split("-")[0]:
+                run_in[i] = h
+                ka = kh
+    starts = sorted(set(heads) | set(run_in))
+    units, sub_n = [], 0
+    for n, i in enumerate(starts):
+        end = starts[n + 1] if n + 1 < len(starts) else len(paras)
+        pn, ls = paras[i]
+        if i in run_in:
+            head = run_in[i]
+            first = " ".join(ls)[len(head):].strip()
+            body = [first] if first else []
+        else:
+            head, body = ls[0], []
+        subheads = []
+        for j in range(i + 1, end):
+            if j in sub:
+                subheads.append(paras[j][1][0]); sub_n += 1
+            body.append(" ".join(paras[j][1]))
+        qual = ""
+        q = re.match(r"\(([^)]{1,30})\)[.,]?\s*", body[0]) if body else None
+        if q and not re.match(r"\d+ syl|_?See[_ ]", q.group(1)):
+            qual = q.group(1).replace("_", "").strip()
+        lex = {"headword": head, "pdf_page": pn}
+        if qual:
+            lex["qualifier"] = qual
+        if subheads:
+            lex["subheads"] = subheads
+        if i in run_in:
+            lex["run_in"] = True
+        units.append({"id": f"{slug}:{_brewer_key(head)}",
+                      "ref": head + (f" ({qual})" if qual else ""),
+                      "text": "\n\n".join([head] + body), "lex": lex})
+    _number_repeats(units)
+    key = {}
+    for u in units:
+        key.setdefault(_brewer_key(u["lex"]["headword"]), []).append(u["id"])
+    resolved = ambiguous = 0
+    for u in units:
+        links, seen = [], set()
+        body = u["text"].replace("_", "")
+        names = [m.group(1) for m in re.finditer(
+            r"\(See (?:also )?([A-Z][A-Za-zÆŒÀ-ÿ'’ .-]{1,40}?)\s*[).;,]", body)]
+        names += [m.group(1) for m in re.finditer(r"([A-Z][a-zà-ÿ'’-]+) \(q\.v\.\)", body)]
+        for name in names:
+            name = name.strip().rstrip(".")
+            k = _brewer_key(name)
+            if k in seen or k == _brewer_key(u["lex"]["headword"]):
+                continue
+            seen.add(k)
+            cands = key.get(k, [])
+            if len(cands) == 1:
+                links.append({"kind": "see", "label": name, "target": cands[0]}); resolved += 1
+            elif cands:
+                links.append({"kind": "see", "label": name, "candidates": cands,
+                              "resolved": False}); ambiguous += 1
+        u["links"] = links
+    return {"slug": slug,
+            "title": "Dictionary of Phrase and Fable (new and enlarged edition, 1894)",
+            "author": "E. Cobham Brewer (London: Cassell, 1894); e-text Blackmask Online, 2003",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "dictionary-pdf",
+                       "sha256": pdf_sha, "expected_sha256": BREWER_DPF_SHA256},
+            "scheme": {"citation": "headword as a slug; `~2` for a repeated headword",
+                       "resolution": "entry",
+                       "honesty": "entry boundaries inferred from the PDF's layout and the "
+                                  "alphabet; the edition's printed pages are not in the e-text",
+                       "note": f"{len(units):,} entries from a 2,971-page PDF that htmldoc "
+                               f"made from Blackmask Online's 2003 e-text of the 1894 edition. "
+                               f"The PDF marks no headword: one is a line of its own above "
+                               f"its definition, kept only where it holds the alphabet "
+                               f"({sub_n:,} such lines were Brewer's sub-phrases or verse and "
+                               f"stay inside their entry as lex.subheads); "
+                               f"{len(run_in):,} headwords run into their definition's first "
+                               f"line were split out by rule (lex.run_in) and their extent is "
+                               f"a guess. A real headword Brewer printed out of order, or one "
+                               f"ending in a full stop, is folded into the entry before it. "
+                               f"htmldoc printed every hyphen as an em dash; an em dash "
+                               f"between two letters is restored to a hyphen. Some accents "
+                               f"were lost in the keying (`dell árie`). lex.pdf_page is a "
+                               f"page of this PDF, not of the 1894 book. {resolved:,} `See X` "
+                               f"and `X (q.v.)` references resolved to a unique headword; "
+                               f"{ambiguous:,} left with their candidates."},
+            "rights": {"license": "public domain (US): the 1894 edition",
+                       "attribution": "E-text keyed by Blackmask Online (2003), whose page "
+                                      "notice claims a copyright in the page; a transcription "
+                                      "of a public-domain text carries none under US law, "
+                                      "and none is claimed here",
+                       "source_url": "a private copy of the Blackmask PDF (sha256 above); "
+                                     "no public mirror was found",
+                       "redistribute_whole": True},
             "units": units}
 
 
@@ -2196,6 +2432,9 @@ def main():
     if all(os.path.exists(x) for x in brewer):
         jobs.append(("brewer-character-sketches",
                      lambda: convert_brewer_character_sketches(brewer)))
+    dpf = os.path.join(CORPUS, "lexicons", BREWER_DPF_PDF)
+    if os.path.exists(dpf):
+        jobs.append(("brewer-dpf", lambda: convert_brewer_dpf(dpf)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
