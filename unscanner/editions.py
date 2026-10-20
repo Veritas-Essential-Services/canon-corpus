@@ -282,7 +282,7 @@ def collate(scans, base_scan, lexicon=frozenset()):
                 lo, hi = _core_span(t)
                 src = next(words[m[i]]["t"] for wit, (words, m) in maps.items() if i in m and rd[wit] == win) \
                     if any(rd.get(wit) == win for wit in maps) else win
-                letters = norm(src) or src
+                letters = norm(src) or src.strip()        # the Archive's words can carry a trailing space
                 t = t[:lo] + _recase(letters, t[lo:hi]) + t[hi:]
                 stats["mended"] += 1
                 item = "mend"
@@ -300,7 +300,8 @@ def collate(scans, base_scan, lexicon=frozenset()):
                        "line": " ".join(line), "readings": where}
                 (mends if item == "mend" else review).append(rec)
             out_words.append(t)
-        pages.append({"label": lab, "scans": ns, "words": len(bw), "text": " ".join(out_words)})
+        pages.append({"label": lab, "scans": ns, "words": len(bw), "text": " ".join(out_words),
+                      "tokens": out_words, "line_of": [w["line"] for w in bw]})
     stats["pages"] = len(pages)
     stats["words"] = sum(p["words"] for p in pages)
     return {"pages": pages, "mends": mends, "review": review, "stats": dict(stats)}
@@ -368,3 +369,126 @@ def review_data(result, scan_dirs, volume, spot=("lexicon", "attested")):
     auto = [{"page": m["page"], "from": m["base"], "to": m["result"]}
             for m in result["mends"] if m["verdict"] not in spot]
     return {"volume": volume, "stats": result["stats"], "items": items, "auto": auto}
+
+
+# ---------------------------------------------------------------- the merged text
+
+def page_lines(page, base=None, base_scan=None, mends=None):
+    """A collated page -> its lines, each a list of word strings (one per base-scan word).
+    A page from a collation older than `tokens`/`line_of` is rebuilt from the base scan
+    (base = load_tesseract(base dir)) and its mends ({(page, index): text}); splitting the old flat
+    text on spaces is not safe, a mend could hold one ("5. .")."""
+    if "tokens" in page:
+        words, line_of = page["tokens"], page["line_of"]
+    else:
+        bw = base[page["scans"][base_scan]]["words"]
+        words = [(mends or {}).get((page["label"], i), w["t"]) for i, w in enumerate(bw)]
+        line_of = [w["line"] for w in bw]
+    lines, last = [], object()
+    for w, li in zip(words, line_of):
+        if li != last:
+            lines.append([])
+            last = li
+        lines[-1].append(w)
+    return lines
+
+
+def _page_furniture(bp):
+    """Line indexes of a base-scan page (book.json page) that are page furniture: the Unscanner's own
+    `drop`, plus a short all-capitals first line near the top that its 12% band missed (this book's
+    running heads sit at 12-14%: "RABAGAS 2", "RICHARD III.")."""
+    out = set(bp.get("drop") or [])
+    if bp["lines"]:
+        ln = bp["lines"][0]
+        txt = " ".join(w["t"] for w in ln["words"])
+        letters = re.sub(r"[^A-Za-z]", "", txt)
+        if ln["bbox"][1] < 0.16 * bp["h"] and len(ln["words"]) <= 4 and letters and letters.isupper():
+            out.add(0)
+    return out
+
+
+def merged_text(result, answers, volume, base=None, base_scan=None, book=None):
+    """The volume's text with every answer put in place of its word, its page furniture (running
+    heads, folios) taken out, and every word broken at a margin, a column or a page ("Cuf-" / "fey",
+    "ex-" / "plained") made one word again by the Unscanner's own rule 6, and 6b for ranges, small
+    capitals and names (layout.join_tokens). Adam, 2026-10-20: "Fix all words split across lines."
+
+    Paragraphs come from the Unscanner's blocks (book = the base scan's book.json), in reading order,
+    a column at a time; a block marked `cont` (it starts unindented at the top of a column or a page)
+    continues the paragraph before it. A break is only rejoined inside a paragraph.
+
+    answers: {"v<vol>-p<page>-i<index>": text}, already ranked by the caller (Adam's pick over
+    Claude's read over a rule's clear). -> ([{"type", "pages", "text"}], rejoin log)."""
+    from . import layout as L
+    mends = {(m["page"], m["index"]): m["result"] for m in result.get("mends", [])}
+    bpages = {p["n"]: p for p in book["pages"]}
+    stream = []
+    for p in result["pages"]:
+        lines = page_lines(p, base, base_scan, mends)
+        i = 0
+        for ln in lines:
+            for j in range(len(ln)):
+                a = answers.get(f"v{volume}-p{p['label']}-i{i}")
+                if a is not None:
+                    ln[j] = a
+                i += 1
+        bp = bpages[p["scans"][base_scan]]
+        drop = set(bp.get("drop") or [])
+        at = {tuple(ln["bbox"]): li for li, ln in enumerate(bp["lines"])}
+        for bl in bp.get("blocks", []):
+            lis = [at.get(tuple(ln["bbox"])) for ln in bl["lines"]]
+            words = [[{"t": w} for w in lines[li] if w] for li in lis if li is not None and li not in drop]
+            words = [ws for ws in words if ws]
+            if not words:
+                continue
+            # continues the paragraph before: marked `cont` by the Unscanner, or (verse running on into
+            # the next column or page, which starts indented) it begins with a lower-case word right
+            # after a word broken at the margin. No paragraph of this book begins in lower case.
+            prev_end = stream[-1]["lines"][-1][-1]["t"] if stream and stream[-1]["lines"] else ""
+            run_on = prev_end.endswith("-") and not prev_end.endswith("--") and words[0][0]["t"][:1].islower()
+            if stream and (run_on or (bl.get("cont") and stream[-1]["type"] == "para" and bl["type"] == "para")):
+                stream[-1]["lines"] += words
+                if p["label"] not in stream[-1]["pages"]:
+                    stream[-1]["pages"].append(p["label"])
+            else:
+                stream.append({"type": bl["type"], "lines": words, "pages": [p["label"]]})
+    # the evidence is the whole volume, as the Unscanner's is (it reads lines as {"words": [...]})
+    hyph, whole = L.hyphen_evidence([{"lines": [{"words": ln} for g in stream for ln in g["lines"]]}])
+    log = L.new_log()
+    dictionary = L.load_dictionary(os.path.join(os.path.dirname(__file__), ".."))
+    out = []
+    for g in stream:
+        toks = L.join_tokens(g["lines"], hyph, whole, log, more=True, dictionary=dictionary)
+        out.append({"type": g["type"], "pages": g["pages"], "text": L.tokens_text(toks)})
+    authors = L.attribution_names(g["text"] for g in out)
+    log["dashes"] = {}
+    # at a block's edge: a quotation's source set on its own line ("- Tennyson, The Princess") takes
+    # the attribution dash; any other block opening with a lone "-" loses it (dirt); a number range
+    # broken across two blocks ("(1276-" / "1347).") is one range
+    k = 0
+    while k < len(out):
+        g = out[k]
+        if g["text"].endswith(" -") and k + 1 < len(out):   # a block ending in a lone dash: carry it on
+            g["text"] = g["text"][:-2]
+            out[k + 1]["text"] = "- " + out[k + 1]["text"]
+        if g["text"] in ("-", "—", "_"):                 # a block that is only a dash: carry it on
+            out.pop(k)
+            if k < len(out):
+                out[k]["text"] = "- " + out[k]["text"]
+            continue
+        if g["text"].startswith("- "):
+            name = re.sub(r"^[^\w]+", "", g["text"][2:].split(" ")[0]).split(",")[0].rstrip(".")
+            g["text"] = ("—" if name in authors else "") + g["text"][2:]
+            log["dashes"]["attribution dash" if name in authors else "stray hyphen dropped"] = \
+                log["dashes"].get("attribution dash" if name in authors else "stray hyphen dropped", 0) + 1
+        if k and re.search(r"\d-$", out[k - 1]["text"]) and re.match(r"\d", g["text"]):
+            out[k - 1]["text"] = out[k - 1]["text"][:-1] + "–" + g["text"]
+            out[k - 1]["pages"] += [x for x in g["pages"] if x not in out[k - 1]["pages"]]
+            out.pop(k)
+            continue
+        k += 1
+    for g in out:
+        g["text"], c = L.dashes(g["text"], authors)
+        for k, v in c.items():
+            log["dashes"][k] = log["dashes"].get(k, 0) + v
+    return out, log

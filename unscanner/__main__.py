@@ -202,9 +202,13 @@ def main(argv=None):
     r.add_argument("--to-corpus", action="store_true",
                    help="copy units.json into data/corpus/archive/ so structure_texts.py builds from it")
     r.add_argument("--jobs", type=int, default=max(1, (os.cpu_count() or 1)), help="pages OCR'd at once")
+    from . import editions_cli as EC
+    EC.add_parser(sub)
     a = ap.parse_args(argv)
     if a.cmd == "run":
         run(a)
+    elif a.cmd == "editions":
+        EC.dispatch(a)
 
 
 if __name__ == "__main__":
