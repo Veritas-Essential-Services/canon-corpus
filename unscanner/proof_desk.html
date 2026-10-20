@@ -1,0 +1,213 @@
+<title>Character Sketches Proof Desk</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a proofreader's desk. One column of slips, each a word in question with its two scans and the readings. */
+:root{
+  --paper:#f6f4ef; --slip:#fffdf8; --ink:#1f1d1a; --muted:#6b665d; --rule:#ddd8cc;
+  --proof:#b8322a; --proof-soft:#f3dcd8; --ok:#2f6b46; --ok-soft:#dcebe1; --focus:#2b5c8a;
+  --display:"Spectral", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#1a1916; --slip:#23211d; --ink:#ece8df; --muted:#a39d91; --rule:#3a3731;
+  --proof:#e2766c; --proof-soft:#3d2724; --ok:#7fbf95; --ok-soft:#22332a; --focus:#7fb2e0; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#1a1916; --slip:#23211d; --ink:#ece8df; --muted:#a39d91; --rule:#3a3731;
+  --proof:#e2766c; --proof-soft:#3d2724; --ok:#7fbf95; --ok-soft:#22332a; --focus:#7fb2e0; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:860px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header h1{font-family:var(--display);font-weight:600;font-size:clamp(26px,4vw,34px);line-height:1.15;margin:0 0 6px;text-wrap:balance}
+header p{margin:0 0 4px;color:var(--muted);max-width:64ch}
+.tally{display:flex;flex-wrap:wrap;gap:8px 18px;margin:16px 0 4px;font-variant-numeric:tabular-nums;font-size:14px}
+.tally b{font-weight:600}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--rule);margin:14px 0 16px;padding-block:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+.tab{font:inherit;font-size:14px;border:1px solid var(--rule);background:var(--slip);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tab .n{font-variant-numeric:tabular-nums;opacity:.75;margin-left:4px}
+.grow{flex:1}
+label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:center;cursor:pointer}
+.progress{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.status{font-size:13px;color:var(--muted);margin:0 0 12px}
+.status.warn{color:var(--proof)}
+.slips{display:flex;flex-direction:column;gap:12px}
+.slip{background:var(--slip);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:grid;gap:10px;content-visibility:auto;contain-intrinsic-size:auto 220px;outline:none}
+.slip:focus-visible,.slip.cur{border-color:var(--focus);box-shadow:0 0 0 2px color-mix(in srgb,var(--focus) 30%,transparent)}
+.slip.done{opacity:.55}
+.slip.done:hover,.slip.done.cur{opacity:1}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);letter-spacing:.02em;text-transform:uppercase}
+.meta .why{color:var(--proof)}
+.ctx{font-family:var(--display);font-size:17px;line-height:1.45;overflow-wrap:anywhere}
+.ctx mark{background:var(--proof-soft);color:var(--ink);padding:0 3px;border-radius:2px;font-weight:600}
+.scans{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:center}
+.scans .lab{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;line-height:1.1;text-align:right}
+.scans .img{overflow-x:auto;min-width:0}
+.scans img{height:96px;max-width:none;display:block;image-rendering:auto;border-radius:3px;background:#fff}
+.picks{display:flex;flex-wrap:wrap;gap:8px}
+.pick{font:inherit;font-family:var(--mono);font-size:15px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);padding:6px 10px;border-radius:4px;cursor:pointer;display:flex;gap:8px;align-items:baseline}
+.pick small{font-family:var(--body);font-size:11px;color:var(--muted)}
+.pick kbd{font-family:var(--body);font-size:11px;color:var(--muted);border:1px solid var(--rule);border-radius:3px;padding:0 4px}
+.pick:hover{border-color:var(--ink)}
+.pick[aria-pressed="true"]{background:var(--ok-soft);border-color:var(--ok);color:var(--ink)}
+.other{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.other input{font:inherit;font-family:var(--mono);font-size:14px;padding:5px 8px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);color:var(--ink);min-width:0;width:14em}
+.other button,.skip{font:inherit;font-size:13px;border:1px solid var(--rule);background:transparent;color:var(--muted);padding:5px 10px;border-radius:4px;cursor:pointer}
+.chosen{font-size:13px;color:var(--ok)}
+.auto{background:var(--slip);border:1px solid var(--rule);border-radius:6px;overflow-x:auto}
+.auto table{border-collapse:collapse;width:100%;font-size:14px;font-variant-numeric:tabular-nums}
+.auto th,.auto td{text-align:left;padding:5px 12px;border-bottom:1px solid var(--rule);white-space:nowrap}
+.auto td.from{font-family:var(--mono);color:var(--muted);text-decoration:line-through;text-decoration-color:var(--proof)}
+.auto td.to{font-family:var(--mono)}
+.keys{font-size:12px;color:var(--muted);margin-top:22px}
+@media (max-width:520px){.scans img{height:72px}.ctx{font-size:16px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+
+<div class="wrap">
+<header>
+  <h1>Character Sketches Proof Desk</h1>
+  <p id="lede">Each slip is one word the scans disagree on. The picture shows that word, boxed, on the Toronto scan (1892) above and the Cornell scan (1896 printing) below. Pick the reading the page actually prints.</p>
+  <div class="tally" id="tally"></div>
+</header>
+<div class="bar" role="toolbar" aria-label="Views">
+  <button class="tab" id="tab-review" aria-pressed="true">Your call<span class="n" id="n-review"></span></button>
+  <button class="tab" id="tab-spot" aria-pressed="false">Spot-check fixes<span class="n" id="n-spot"></span></button>
+  <button class="tab" id="tab-auto" aria-pressed="false">All other fixes<span class="n" id="n-auto"></span></button>
+  <span class="grow"></span>
+  <label class="hide"><input type="checkbox" id="hide-done"> Hide decided</label>
+  <span class="progress" id="progress"></span>
+</div>
+<p class="status" id="status">Connecting to your saved picks…</p>
+<div class="slips" id="slips"></div>
+<div class="auto" id="auto" hidden></div>
+<p class="keys">Keys: <b>j</b>/<b>k</b> next and previous slip · <b>1</b>–<b>4</b> pick a reading · <b>0</b> can't tell · on a spot-check, <b>y</b> the fix is right.</p>
+</div>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(function(){
+  const DATA = JSON.parse(document.getElementById('data').textContent);
+  const vol = DATA.volumes[0];
+  const items = DATA.volumes.flatMap(v => v.items);
+  const picks = {};            // id -> {pick}
+  let db = null, view = 'review', cur = -1;
+  const WIT = {'toronto.tess':'Toronto, new OCR','toronto.djvu':'Toronto, Archive OCR','cornell.tess':'Cornell, new OCR','cornell.djvu':'Cornell, Archive OCR'};
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  function fmt(n){ return n.toLocaleString('en-US'); }
+
+  const st = vol.stats;
+  $('tally').innerHTML = `<span><b>${fmt(st.words)}</b> words compared on ${fmt(st.pages)} pages of vol. ${vol.volume}</span>
+    <span><b>${fmt(st.agreed)}</b> agreed by every reading</span>
+    <span><b>${fmt(st.mended)}</b> fixed automatically</span>
+    <span><b>${fmt(items.filter(i=>i.kind==='review').length)}</b> need your call</span>`;
+  $('n-review').textContent = fmt(items.filter(i=>i.kind==='review').length);
+  $('n-spot').textContent = fmt(items.filter(i=>i.kind==='spot').length);
+  $('n-auto').textContent = fmt(DATA.volumes.reduce((a,v)=>a+v.auto.length,0));
+
+  function ctxHtml(c){
+    return esc(c).replace(/⟦(.*?)⟧/, (_, w) => `<mark>${w}</mark>`);
+  }
+  function slipHtml(it, k){
+    const chosen = picks[it.id];
+    const opts = it.readings.slice(0,4).map((r,i) => {
+      const on = chosen && chosen.pick === r.text;
+      const who = r.by.map(w => WIT[w] || w).join(', ');
+      return `<button class="pick" data-id="${it.id}" data-pick="${esc(r.text)}" aria-pressed="${on}" title="${esc(who)}"><kbd>${i+1}</kbd>${esc(r.text)}<small>${r.by.length} of 4</small></button>`;
+    }).join('');
+    const why = it.kind === 'spot'
+      ? `<span class="why">Fixed automatically: ${esc(it.base)} → ${esc(it.result)} (${it.verdict === 'lexicon' ? 'dictionary tiebreak' : 'attested elsewhere in the book'})</span>`
+      : `<span class="why">Readings split</span>`;
+    const ok = it.kind === 'spot'
+      ? `<button class="pick" data-id="${it.id}" data-pick="${esc(it.result)}" aria-pressed="${!!(chosen && chosen.pick === it.result)}"><kbd>y</kbd>Fix is right</button>` : '';
+    const img = it.img ? `<div class="scans"><span class="lab">Toronto<br>Cornell</span><div class="img"><img alt="The word on both scans" loading="lazy" src="data:image/jpeg;base64,${it.img}"></div></div>` : '';
+    const custom = chosen && !it.readings.some(r => r.text === chosen.pick) && chosen.pick !== it.result && chosen.pick !== '?';
+    return `<article class="slip${chosen ? ' done':''}" tabindex="-1" data-k="${k}" id="s-${it.id}">
+      <div class="meta"><span>Page ${esc(it.page)}</span>${why}</div>
+      <div class="ctx">${ctxHtml(it.context)}</div>
+      ${img}
+      <div class="picks">${ok}${opts}<button class="skip" data-id="${it.id}" data-pick="?"><kbd>0</kbd> Can't tell</button></div>
+      <div class="other"><input id="o-${it.id}" placeholder="Something else…" value="${custom ? esc(chosen.pick) : ''}" aria-label="Type the right reading"><button data-other="${it.id}">Save</button>
+      ${chosen ? `<span class="chosen">Saved: ${esc(chosen.pick === '?' ? "can't tell" : chosen.pick)}</span>` : ''}</div>
+    </article>`;
+  }
+  function visible(){
+    return items.filter(i => i.kind === view && !($('hide-done').checked && picks[i.id]));
+  }
+  function render(){
+    const auto = view === 'auto';
+    $('slips').hidden = auto; $('auto').hidden = !auto;
+    if (auto){
+      const rows = DATA.volumes.flatMap(v => v.auto.map(a => `<tr><td>${v.volume}</td><td>${esc(a.page)}</td><td class="from">${esc(a.from)}</td><td class="to">${esc(a.to)}</td></tr>`)).join('');
+      $('auto').innerHTML = `<table><thead><tr><th>Vol.</th><th>Page</th><th>Was</th><th>Now</th></tr></thead><tbody>${rows}</tbody></table>`;
+    } else {
+      const list = visible();
+      $('slips').innerHTML = list.length ? list.map((it,k) => slipHtml(it,k)).join('') : `<p class="status">Nothing left in this view.</p>`;
+    }
+    const total = items.length, done = items.filter(i => picks[i.id]).length;
+    $('progress').textContent = `${fmt(done)} of ${fmt(total)} decided`;
+  }
+  function rerenderOne(id){
+    const el = $('s-' + id); if (!el) return;
+    const it = items.find(i => i.id === id);
+    const tmp = document.createElement('div'); tmp.innerHTML = slipHtml(it, el.dataset.k);
+    const fresh = tmp.firstElementChild; if (el.classList.contains('cur')) fresh.classList.add('cur');
+    el.replaceWith(fresh);
+    const total = items.length, done = items.filter(i => picks[i.id]).length;
+    $('progress').textContent = `${fmt(done)} of ${fmt(total)} decided`;
+  }
+  async function save(id, pick){
+    picks[id] = {pick};
+    rerenderOne(id);
+    if (!db){ $('status').textContent = 'Not saved: your picks can only be kept when the page is opened signed in to Claude.'; $('status').className='status warn'; return; }
+    const it = items.find(i => i.id === id);
+    try { await db.collection('picks').doc(id).set({pick, kind: it.kind, page: it.page, base: it.base, at: Date.now()}); }
+    catch(e){ $('status').textContent = 'Could not save that pick (' + (e && e.code || 'error') + '). Try again in a moment.'; $('status').className='status warn'; }
+  }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-pick]');
+    if (b){ save(b.dataset.id, b.dataset.pick); return; }
+    const o = e.target.closest('[data-other]');
+    if (o){ const v = $('o-' + o.dataset.other).value.trim(); if (v) save(o.dataset.other, v); return; }
+    const s = e.target.closest('.slip'); if (s) focusSlip(+s.dataset.k, false);
+  });
+  document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT'){ if (e.key === 'Enter'){ const id = e.target.id.slice(2); const v = e.target.value.trim(); if (v) save(id, v); } return; }
+    const list = visible(); if (view === 'auto' || !list.length) return;
+    if (e.key === 'j'){ focusSlip(Math.min(list.length-1, cur+1)); e.preventDefault(); }
+    else if (e.key === 'k'){ focusSlip(Math.max(0, cur-1)); e.preventDefault(); }
+    else if (cur >= 0 && /^[0-4y]$/.test(e.key)){
+      const it = list[cur]; if (!it) return;
+      if (e.key === '0') save(it.id, '?');
+      else if (e.key === 'y'){ if (it.kind === 'spot') save(it.id, it.result); }
+      else { const r = it.readings[+e.key - 1]; if (r) save(it.id, r.text); }
+    }
+  });
+  function focusSlip(k, scroll = true){
+    document.querySelectorAll('.slip.cur').forEach(s => s.classList.remove('cur'));
+    cur = k; const el = document.querySelector(`.slip[data-k="${k}"]`);
+    if (el){ el.classList.add('cur'); if (scroll) el.scrollIntoView({block:'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); }
+  }
+  ['review','spot','auto'].forEach(v => $('tab-' + v).addEventListener('click', () => {
+    view = v; cur = -1;
+    ['review','spot','auto'].forEach(x => $('tab-' + x).setAttribute('aria-pressed', x === v));
+    render();
+  }));
+  $('hide-done').addEventListener('change', () => { cur = -1; render(); });
+  render();
+
+  (async () => {
+    try { db = await claude.use('db'); } catch(e){ db = null; }
+    if (!db){ $('status').textContent = 'Read-only here: open this page signed in to Claude to save picks.'; $('status').className = 'status warn'; return; }
+    $('status').textContent = 'Picks save as you click.';
+    db.collection('picks').onSnapshot(snap => {
+      let changed = false;
+      snap.docs.forEach(d => { const v = d.data(); if (v && (!picks[d.id] || picks[d.id].pick !== v.pick)){ picks[d.id] = {pick: v.pick}; changed = true; } });
+      if (changed) render();
+    }, e => { $('status').textContent = 'Lost the connection to saved picks (' + (e && e.code || 'error') + '). Reload to reconnect.'; $('status').className = 'status warn'; });
+  })();
+})();
+</script>

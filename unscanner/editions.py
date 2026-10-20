@@ -160,8 +160,31 @@ def pair_pages(scans):
 
 # ---------------------------------------------------------------- the vote
 
-def decide(readings, vocab, scan_of):
-    """readings: {witness: key}. -> (verdict, winning key or None)."""
+def load_lexicon(repo, brewer=None):
+    """Words known outside this book: Webster's 1913 headwords (data/lexicons, committed) and every
+    word of Brewer's Dictionary of Phrase and Fable that occurs twice (proper names, phrases)."""
+    import gzip
+    lex = set()
+    wp = os.path.join(repo, "data", "lexicons", "webster1913.json.gz")
+    if os.path.exists(wp):
+        for h in json.load(gzip.open(wp, "rt", encoding="utf-8")):
+            for part in h.split():
+                k = key(part)
+                if k:
+                    lex.add(k)
+    bp = brewer or os.path.join(repo, "data", "lexicons", "brewer-1894.paras.json.gz")
+    if os.path.exists(bp):
+        c = Counter()
+        for para in json.load(gzip.open(bp, "rt", encoding="utf-8"))["paras"]:
+            for line in para["lines"]:
+                c.update(key(t) for t in line.split())
+        lex |= {k for k, v in c.items() if v >= 2 and k}
+    return lex
+
+
+def decide(readings, vocab, scan_of, lexicon=frozenset(), joined=None):
+    """readings: {witness: key}. -> (verdict, winning key or None).
+    `joined`: {key: key joined with the next word}, for a word broken at the line end."""
     support = defaultdict(set)
     for wit, k in readings.items():
         if k:
@@ -184,10 +207,26 @@ def decide(readings, vocab, scan_of):
             return "attested", a
         if att[b] >= ATTESTED and att[a] < 2:
             return "attested", b
+    # Last: the language itself. Exactly one candidate a known word (Webster 1913, or twice in
+    # Brewer's Dictionary), with at least two witnesses behind it -> that one.
+    def word(k):
+        if len(k) < 3:
+            return False                  # a lone letter or pair proves nothing
+        if k in lexicon:
+            return True
+        for suf in ("s", "es", "d", "ed", "ing", "ly", "er", "est", "ness"):
+            stem = k[:-len(suf)]
+            if k.endswith(suf) and len(stem) >= 3 and (stem in lexicon or stem + "e" in lexicon):
+                return True               # Webster lists headwords: "flared" is "flare"
+        return False
+    known = lambda k: word(k) or bool(joined and joined.get(k) and word(joined[k]))
+    real = [k for k, ws in support.items() if known(k)]
+    if len(real) == 1 and len(support[real[0]]) >= 2:
+        return "lexicon", real[0]
     return "review", None
 
 
-def collate(scans, base_scan):
+def collate(scans, base_scan, lexicon=frozenset()):
     """scans: {name: {"tess": pages, "djvu": pages}} -> result dict (pages, mends, review, stats)."""
     wit_order = [(s, e) for s in scans for e in ("tess", "djvu")]
     scan_of = {f"{s}.{e}": s for s, e in wit_order}
@@ -227,11 +266,19 @@ def collate(scans, base_scan):
                 stats["thin"] += 1
                 out_words.append(w["t"])
                 continue
-            verdict, win = decide(rd, vocab, scan_of)
+            joined = None
+            if w["t"].rstrip().endswith("-") and i + 1 < len(bw):
+                nxt = key(bw[i + 1]["t"])
+                joined = {k: k + nxt for k in rd.values() if k}
+            verdict, win = decide(rd, vocab, scan_of, lexicon, joined)
+            base_k = rd[f"{base_scan}.tess"]
+            if win and win != base_k and len(base_k) >= 3 and len(win) < 0.6 * len(base_k):
+                verdict = "review"        # never cut a word short: that is a misaligned split
+                stats["shortened"] += 1
             stats[verdict] += 1
             t = w["t"]
             item = None
-            if verdict in ("majority", "attested") and win != rd[f"{base_scan}.tess"]:
+            if verdict in ("majority", "attested", "lexicon") and win != rd[f"{base_scan}.tess"]:
                 lo, hi = _core_span(t)
                 src = next(words[m[i]]["t"] for wit, (words, m) in maps.items() if i in m and rd[wit] == win) \
                     if any(rd.get(wit) == win for wit in maps) else win
@@ -259,28 +306,65 @@ def collate(scans, base_scan):
     return {"pages": pages, "mends": mends, "review": review, "stats": dict(stats)}
 
 
-# ---------------------------------------------------------------- crops for the review page
+# ---------------------------------------------------------------- the review page's data
 
-def crops(rec, scans_dirs, pad=(180, 18), height=46):
-    """Two small JPEGs (bytes) of the word in its line, one per scan, word boxed."""
+def crop_pair(rec, scan_dirs, pad=(150, 14), height=34, quality=62):
+    """One small JPEG: the word in its line on each scan, stacked (first scan on top), boxed red."""
     from PIL import Image, ImageDraw
     import io
-    out = {}
-    for wit, r in rec["readings"].items():
-        s = wit.split(".")[0]
-        if s in out or wit.endswith("djvu") and f"{s}.tess" in rec["readings"]:
+    strips = []
+    for s, d in scan_dirs.items():
+        r = rec["readings"].get(f"{s}.tess") or rec["readings"].get(f"{s}.djvu")
+        if not r:
             continue
-        png = os.path.join(scans_dirs[s], "gray", f"{r['n']:04d}.png")
+        png = os.path.join(d, "gray", f"{r['n']:04d}.png")
         if not os.path.exists(png):
             continue
-        im = Image.open(png).convert("RGB")
+        im = Image.open(png).convert("L")
         x0, y0, x1, y1 = r["bbox"]
         box = (max(0, x0 - pad[0]), max(0, y0 - pad[1]), min(im.width, x1 + pad[0]), min(im.height, y1 + pad[1]))
-        c = im.crop(box)
-        d = ImageDraw.Draw(c)
-        d.rectangle([x0 - box[0] - 3, y0 - box[1] - 3, x1 - box[0] + 3, y1 - box[1] + 3], outline=(200, 40, 40), width=3)
-        c = c.resize((max(1, round(c.width * height / c.height)), height))
-        buf = io.BytesIO()
-        c.save(buf, "JPEG", quality=72)
-        out[s] = buf.getvalue()
-    return out
+        c = im.crop(box).convert("RGB")
+        ImageDraw.Draw(c).rectangle([x0 - box[0] - 3, y0 - box[1] - 3, x1 - box[0] + 3, y1 - box[1] + 3],
+                                    outline=(196, 40, 40), width=3)
+        strips.append(c.resize((max(1, round(c.width * height / c.height)), height)))
+    if not strips:
+        return None
+    W = max(x.width for x in strips)
+    out = Image.new("RGB", (W, sum(x.height for x in strips) + 3 * (len(strips) - 1)), (255, 255, 255))
+    y = 0
+    for x in strips:
+        out.paste(x, (0, y))
+        y += x.height + 3
+    buf = io.BytesIO()
+    out.save(buf, "JPEG", quality=quality, optimize=True)
+    return buf.getvalue()
+
+
+def review_data(result, scan_dirs, volume, spot=("lexicon", "attested")):
+    """Items for the review page: every review word, and the riskier automatic fixes to spot-check."""
+    import base64
+    def readings(rec):
+        groups = {}
+        for wit, r in rec["readings"].items():
+            k = key(r["t"])
+            if not k:
+                continue
+            g = groups.setdefault(k, {"text": r["t"].strip(), "by": []})
+            g["by"].append(wit)
+        return sorted(groups.values(), key=lambda g: -len(g["by"]))
+    def context(rec):
+        line, w = rec["line"], rec["base"]
+        i = line.find(w)
+        return line if i < 0 else line[:i] + "⟦" + w + "⟧" + line[i + len(w):]
+    items = []
+    for kind, recs in (("review", result["review"]),
+                       ("spot", [m for m in result["mends"] if m["verdict"] in spot])):
+        for rec in recs:
+            img = crop_pair(rec, scan_dirs)
+            items.append({"id": f"v{volume}-p{rec['page']}-i{rec['index']}", "kind": kind, "page": rec["page"],
+                          "context": context(rec), "base": rec["base"], "result": rec["result"],
+                          "verdict": rec["verdict"], "readings": readings(rec),
+                          "img": base64.b64encode(img).decode() if img else None})
+    auto = [{"page": m["page"], "from": m["base"], "to": m["result"]}
+            for m in result["mends"] if m["verdict"] not in spot]
+    return {"volume": volume, "stats": result["stats"], "items": items, "auto": auto}
