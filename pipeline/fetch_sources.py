@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -150,6 +151,68 @@ LEXICONS = {
         "2.7MB abridged outline in OpenScriptures/HebrewLexicon)."),
 }
 
+
+# ------------------------------------------------- Local sources (not fetched)
+#
+# A source of record that is a file Adam supplied, not a URL. It cannot be
+# fetched, so it is PINNED: its sha256 is the identity, and the named script is
+# the recipe from that exact file to data/corpus/. A different copy of "the
+# same" book is refused by the script. Rights read per entry, as for every
+# other manifest here.
+#
+# A source that cannot be fetched also cannot be rebuilt on a fresh clone,
+# which is exactly what the hosted Armarium's rebuild is (clone -> this script
+# -> structure_texts.py). So the recipe's OUTPUT ships in the repo, gzipped,
+# under data/lexicons/ (PD text only), and this script unpacks it into
+# data/corpus/ like any other fetch -- after checking it is byte-for-byte what
+# the recipe made (paras sha256). Decided 2026-10-19 (Adam: "Can we get
+# around the deploy gap?").
+#
+# slug -> (sha256 of the supplied file, recipe, corpus file, shipped copy,
+#          sha256 of the unpacked corpus file, note)
+LOCAL_SOURCES = {
+    "brewer": (
+        "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
+        "pipeline/extract_brewer.py --pdf <the PDF>",
+        "lexicons/brewer-1894.paras.json",
+        "data/lexicons/brewer-1894.paras.json.gz",
+        "fb9e705796fd0f5dbb0725a6d0c2c74a754d05004a1ec871952152dfecd9ea6a",
+        "E. Cobham Brewer, Dictionary of Phrase and Fable, New and Enlarged "
+        "Edition of 1894 (Cassell). Brewer d. 1897; published 1894 -- public "
+        "domain in the US and UK; no translator or later editor in this text. "
+        "Supplied by Adam 2026-10-19 as a born-digital PDF (2,971pp, htmldoc "
+        "1.8.23, 2003; text, not a scan). Archive.org scans of the 1894-95 "
+        "printings exist (e.g. dictionaryofphra01brew, 1895) as a check copy; "
+        "their OCR text layers are a worse reading than this transcription."),
+}
+
+# Working text the Unscanner made from a scan (2026-10-19). Its output is
+# gitignored like the rest of data/corpus/, so a fresh clone (the hosted
+# rebuild) fell back to the Archive's weaker djvu text. Same ruling as
+# LOCAL_SOURCES: the working text of a PD book ships gzipped, and
+# unpack_local() puts it where structure_texts.py prefers it, after its
+# sha256 check. Regenerated 2026-10-19 from the same scans, and byte-identical
+# to the 2026-10-17 build (the manifest's recorded sha256).
+#
+# slug -> (source, recipe, corpus file, shipped copy, sha256 unpacked, note)
+SHIPPED_WORKING_TEXT = {
+    "church-iliad-boys": (
+        "archive.org iliadforboysgirl00chur_0",
+        "python3 -m unscanner run church-iliad-boys --to-corpus --rights <reason>",
+        "archive/church-iliad-boys.unscanned.json",
+        "data/unscanned/church-iliad-boys.unscanned.json.gz",
+        "d48108d4bb1e99d8776f29ab8ef370c3da936262945a44c43fcbd34831450e4e",
+        "Unscanner reading of the LoC scan; the Archive marks it 'unaware of any "
+        "copyright restrictions', so the run states the reason: first published "
+        "1907, this printing 1923, both before 1931 -- US public domain."),
+    "church-odyssey-boys": (
+        "archive.org odysseyforboysgi00chur",
+        "python3 -m unscanner run church-odyssey-boys --to-corpus",
+        "archive/church-odyssey-boys.unscanned.json",
+        "data/unscanned/church-odyssey-boys.unscanned.json.gz",
+        "0ff9026e0d3b750aa4f6ba0e54d1b1455549ca224aff209bf7f285d2bf475786",
+        "Unscanner reading of the NYPL scan (NOT_IN_COPYRIGHT)."),
+}
 
 # slug -> (author, work, note)  — all probed 200 on 2026-07-21
 CCEL = {
@@ -376,6 +439,30 @@ def fetch_lexicon(url, dest):
     return f"{biggest.file_size:,} bytes (unzipped {biggest.filename})"
 
 
+def unpack_local(spec, corpus=None, root=None):
+    """A LOCAL_SOURCES entry -> its corpus file. Present: left alone. Absent:
+    unpacked from the shipped copy, refused unless its sha256 is the pin."""
+    import gzip, hashlib
+    sha, recipe, fn, shipped, psha, note = spec
+    corpus = corpus or CORPUS
+    root = root or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    dest = os.path.join(corpus, fn)
+    if os.path.exists(dest):
+        return "present"
+    src = os.path.join(root, shipped)
+    if not os.path.exists(src):
+        raise RuntimeError(f"no shipped copy at {shipped}; run {recipe} (source sha256 {sha[:12]}...)")
+    raw = gzip.open(src, "rb").read()
+    got = hashlib.sha256(raw).hexdigest()
+    if got != psha:
+        raise RuntimeError(f"{shipped} unpacks to sha256 {got[:12]}..., not the pinned {psha[:12]}...")
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest + ".tmp", "wb") as f:      # atomic, rule 5
+        f.write(raw)
+    os.replace(dest + ".tmp", dest)
+    return f"{len(raw):,} bytes unpacked from {shipped} (sha256 checked)"
+
+
 def main():
     if "--list" in sys.argv:
         for slug, (repo, path, note) in PERSEUS.items():
@@ -388,6 +475,10 @@ def main():
             print(f"gutenberg/{slug}: pg{gid}")
         for slug, (ident, fn, note) in ARCHIVE_OCR.items():
             print(f"archive/{slug}: {ident} -- {note}")
+        for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
+            print(f"local/{slug}: {note}")
+        for slug, (src, recipe, fn, shipped, psha, note) in SHIPPED_WORKING_TEXT.items():
+            print(f"shipped/{slug}: {src} -- {note}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -426,6 +517,11 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
+    for slug, spec in list(LOCAL_SOURCES.items()) + list(SHIPPED_WORKING_TEXT.items()):
+        try:
+            print(f"local/{slug}: {unpack_local(spec)}")
+        except Exception as e:
+            failures.append(slug); print(f"local/{slug}: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":
