@@ -122,6 +122,13 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 -m unscanner editions collate --scan a=DIR --scan b=DIR --djvu a=XML --djvu b=XML --base a --volume N --out OUT  # several scans -> Proof Desk
+    python3 -m unscanner editions merge --collation OUT/collation.json --base-dir DIR --base a --volume N --answers R.json C.json A.json --out OUT  # -> merged text
+    python3 tests/editions_test.py                     # columns, running heads, signature marks, margin breaks, dashes (28)
+    python3 tests/smallcaps_test.py                    # small caps reread, abbreviations, ll/U, æ (21)
+    python3 -m unscanner fixes fetch && python3 -m unscanner fixes build   # the fix library (Guiguts GPL-2, Underwood unlicensed, ICDAR CC BY): local only, gitignored
+    python3 -m unscanner fixes profile --book data/unscanner/<slug>      # which fixes this typesetting has in play
+    python3 tests/fixes_test.py                        # the fix library's profile on a made-up book (13)
     python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
     python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
     python3 tests/brewer_plates_test.py                # the plates catalog, offline

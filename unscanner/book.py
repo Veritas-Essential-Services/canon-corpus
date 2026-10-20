@@ -99,6 +99,7 @@ def analyse(work, done, font_cache, dpi=300, log=print, match_fonts=True):
         p = S.parse_hocr(hocr)
         p["n"] = n
         p["specks"] = L.drop_specks(p)
+        p["columns"] = L.find_columns(p)
         pages.append(p)
     B = L.body_size(pages)
     meas = L.measures(pages)
@@ -123,8 +124,21 @@ def analyse(work, done, font_cache, dpi=300, log=print, match_fonts=True):
             style_counts["italic"] += c["italic"]
             style_counts["smallcaps"] += c["smallcaps"]
             Lm, Rm = meas[p["n"]]
-            p["blocks"] = L.build_blocks(p, B, Lm, Rm, set(p["drop"]))
-            p["measure"] = [Lm, Rm]
+            if p["columns"] == 2:
+                # each column is a page of its own for the blocks; left column first, then right.
+                # The right column's first paragraph, unindented, continues the left's last (`cont`).
+                p["blocks"], p["measure"] = [], []
+                for c in (0, 1):
+                    idx = [i for i, ln in enumerate(p["lines"]) if ln.get("col") == c]
+                    idx.sort(key=lambda i: p["lines"][i]["bbox"][1])
+                    sub = {"lines": [p["lines"][i] for i in idx]}
+                    cL, cR = L.column_measure(sub["lines"])
+                    drop = {k for k, i in enumerate(idx) if i in p["drop"]}
+                    p["blocks"] += L.build_blocks(sub, B, cL, cR, drop)
+                    p["measure"].append([cL, cR])
+            else:
+                p["blocks"] = L.build_blocks(p, B, Lm, Rm, set(p["drop"]))
+                p["measure"] = [Lm, Rm]
         else:
             p["blocks"] = []
     font_rank = []
