@@ -56,6 +56,7 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
 .other input{font:inherit;font-family:var(--mono);font-size:14px;padding:5px 8px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);color:var(--ink);min-width:0;width:14em}
 .other button,.skip{font:inherit;font-size:13px;border:1px solid var(--rule);background:transparent;color:var(--muted);padding:5px 10px;border-radius:4px;cursor:pointer}
 .chosen{font-size:13px;color:var(--ok)}
+.ruled{font-size:13px;color:var(--muted)}
 .auto{background:var(--slip);border:1px solid var(--rule);border-radius:6px;overflow-x:auto}
 .auto table{border-collapse:collapse;width:100%;font-size:14px;font-variant-numeric:tabular-nums}
 .auto th,.auto td{text-align:left;padding:5px 12px;border-bottom:1px solid var(--rule);white-space:nowrap}
@@ -69,15 +70,16 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
 <div class="wrap">
 <header>
   <h1>Character Sketches Proof Desk</h1>
-  <p id="lede">Each slip is one word the scans disagree on. The picture shows that word, boxed, on the Toronto scan (1892) above and the Cornell scan (1896 printing) below. Pick the reading the page actually prints.</p>
+  <p id="lede">Each slip is one word the scans disagree on. The picture shows that word, boxed, on the Toronto scan (1892) above and the Cornell scan (1896 printing) below. Pick the reading the page actually prints. Typing "ae" for æ is fine; marks over letters can be left off.</p>
   <div class="tally" id="tally"></div>
 </header>
 <div class="bar" role="toolbar" aria-label="Views">
   <button class="tab" id="tab-review" aria-pressed="true">Your call<span class="n" id="n-review"></span></button>
   <button class="tab" id="tab-spot" aria-pressed="false">Spot-check fixes<span class="n" id="n-spot"></span></button>
+  <button class="tab" id="tab-rules" aria-pressed="false">Cleared by rules<span class="n" id="n-rules"></span></button>
   <button class="tab" id="tab-auto" aria-pressed="false">All other fixes<span class="n" id="n-auto"></span></button>
   <span class="grow"></span>
-  <label class="hide"><input type="checkbox" id="hide-done"> Hide decided</label>
+  <label class="hide"><input type="checkbox" id="hide-done" checked> Hide decided</label>
   <span class="progress" id="progress"></span>
 </div>
 <p class="status" id="status">Connecting to your saved picks…</p>
@@ -92,8 +94,10 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
   const DATA = JSON.parse(document.getElementById('data').textContent);
   const vol = DATA.volumes[0];
   const items = DATA.volumes.flatMap(v => v.items);
-  const picks = {};            // id -> {pick}
+  const picks = {};            // id -> {pick}  (Adam's own)
+  const decided = it => picks[it.id] || it.rule;   // a rule's clearing counts until Adam overrules it
   let db = null, view = 'review', cur = -1;
+  const RULES = DATA.rules || {};
   const WIT = {'toronto.tess':'Toronto, new OCR','toronto.djvu':'Toronto, Archive OCR','cornell.tess':'Cornell, new OCR','cornell.djvu':'Cornell, Archive OCR'};
   const $ = id => document.getElementById(id);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -106,6 +110,7 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
     <span><b>${fmt(items.filter(i=>i.kind==='review').length)}</b> need your call</span>`;
   $('n-review').textContent = fmt(items.filter(i=>i.kind==='review').length);
   $('n-spot').textContent = fmt(items.filter(i=>i.kind==='spot').length);
+  $('n-rules').textContent = fmt(items.filter(i=>i.rule).length);
   $('n-auto').textContent = fmt(DATA.volumes.reduce((a,v)=>a+v.auto.length,0));
 
   function ctxHtml(c){
@@ -124,18 +129,21 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
     const ok = it.kind === 'spot'
       ? `<button class="pick" data-id="${it.id}" data-pick="${esc(it.result)}" aria-pressed="${!!(chosen && chosen.pick === it.result)}"><kbd>y</kbd>Fix is right</button>` : '';
     const img = it.img ? `<div class="scans"><span class="lab">Toronto<br>Cornell</span><div class="img"><img alt="The word on both scans" loading="lazy" src="data:image/jpeg;base64,${it.img}"></div></div>` : '';
+    const ruled = !chosen && it.rule;
     const custom = chosen && !it.readings.some(r => r.text === chosen.pick) && chosen.pick !== it.result && chosen.pick !== '?';
-    return `<article class="slip${chosen ? ' done':''}" tabindex="-1" data-k="${k}" id="s-${it.id}">
+    const ruleNote = ruled ? `<span class="ruled">Cleared by rule (${esc(RULES[it.rule.name] || it.rule.name)}): ${esc(it.rule.pick)}. Click another reading to overrule.</span>` : '';
+    return `<article class="slip${chosen || ruled ? ' done':''}" tabindex="-1" data-k="${k}" id="s-${it.id}">
       <div class="meta"><span>Page ${esc(it.page)}</span>${why}</div>
       <div class="ctx">${ctxHtml(it.context)}</div>
       ${img}
       <div class="picks">${ok}${opts}<button class="skip" data-id="${it.id}" data-pick="?"><kbd>0</kbd> Can't tell</button></div>
       <div class="other"><input id="o-${it.id}" placeholder="Something else…" value="${custom ? esc(chosen.pick) : ''}" aria-label="Type the right reading"><button data-other="${it.id}">Save</button>
-      ${chosen ? `<span class="chosen">Saved: ${esc(chosen.pick === '?' ? "can't tell" : chosen.pick)}</span>` : ''}</div>
+      ${chosen ? `<span class="chosen">Saved: ${esc(chosen.pick === '?' ? "can't tell" : chosen.pick)}</span>` : ruleNote}</div>
     </article>`;
   }
   function visible(){
-    return items.filter(i => i.kind === view && !($('hide-done').checked && picks[i.id]));
+    if (view === 'rules') return items.filter(i => i.rule && !picks[i.id]);
+    return items.filter(i => i.kind === view && !($('hide-done').checked && decided(i)));
   }
   function render(){
     const auto = view === 'auto';
@@ -147,8 +155,11 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
       const list = visible();
       $('slips').innerHTML = list.length ? list.map((it,k) => slipHtml(it,k)).join('') : `<p class="status">Nothing left in this view.</p>`;
     }
-    const total = items.length, done = items.filter(i => picks[i.id]).length;
-    $('progress').textContent = `${fmt(done)} of ${fmt(total)} decided`;
+    progress();
+  }
+  function progress(){
+    const total = items.length, mine = items.filter(i => picks[i.id]).length, rules = items.filter(i => i.rule && !picks[i.id]).length;
+    $('progress').textContent = `${fmt(mine)} yours · ${fmt(rules)} by rule · ${fmt(total - mine - rules)} left`;
   }
   function rerenderOne(id){
     const el = $('s-' + id); if (!el) return;
@@ -156,8 +167,7 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
     const tmp = document.createElement('div'); tmp.innerHTML = slipHtml(it, el.dataset.k);
     const fresh = tmp.firstElementChild; if (el.classList.contains('cur')) fresh.classList.add('cur');
     el.replaceWith(fresh);
-    const total = items.length, done = items.filter(i => picks[i.id]).length;
-    $('progress').textContent = `${fmt(done)} of ${fmt(total)} decided`;
+    progress();
   }
   async function save(id, pick){
     picks[id] = {pick};
@@ -191,9 +201,9 @@ label.hide{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:ce
     cur = k; const el = document.querySelector(`.slip[data-k="${k}"]`);
     if (el){ el.classList.add('cur'); if (scroll) el.scrollIntoView({block:'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); }
   }
-  ['review','spot','auto'].forEach(v => $('tab-' + v).addEventListener('click', () => {
+  ['review','spot','rules','auto'].forEach(v => $('tab-' + v).addEventListener('click', () => {
     view = v; cur = -1;
-    ['review','spot','auto'].forEach(x => $('tab-' + x).setAttribute('aria-pressed', x === v));
+    ['review','spot','rules','auto'].forEach(x => $('tab-' + x).setAttribute('aria-pressed', x === v));
     render();
   }));
   $('hide-done').addEventListener('change', () => { cur = -1; render(); });
