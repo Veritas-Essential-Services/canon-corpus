@@ -12,6 +12,9 @@ Every cleared item records which rule cleared it, and stays changeable on the pa
              Phsedrus/Phedrus -> Phædrus.
   smallcaps  a word in small capitals (case jumbled inside it: CaGLiostTRo) -> the dictionary word
              among the readings, in full capitals.
+  abbrev     one reading is a stock abbreviation of the book (etc., &c., viz., i.e., e.g., cf.,
+             ib., ibid., sc., q.v.) -> that one. Adam, 2026-10-20: "etc. is more likely to show up in
+             this book than ctc." Runs before c-for-e, which alone would pick ctc over etc.
   c-for-e    two readings differ only by c/e -> the one with c, unless only the e-form is a word.
   ll-for-U   two readings differ only by ll/U (the Archive's engine) -> ll.
   R-E-B-h    readings differ only by R~E/B/P or b~h -> our engine's reading (the Archive's misreads).
@@ -98,6 +101,15 @@ def smallcaps_rule(groups, lexicon, word):
     return None
 
 
+ABBREV = {"etc.", "&c.", "viz.", "i.e.", "e.g.", "cf.", "ib.", "ibid.", "sc.", "q.v."}
+
+
+def abbrev_rule(rd):
+    """The reading that is a stock abbreviation, kept with its own trailing punctuation."""
+    hits = {t.strip() for t in rd if re.sub(r"[,;:)]+$", "", t.strip()).lower() in ABBREV}
+    return hits.pop() if len(hits) == 1 else None
+
+
 def only_swaps(a, b, pairs):
     """True when a and b differ only by the given (x, y) substitutions; returns the direction map."""
     import difflib
@@ -149,6 +161,9 @@ def decide(item, word, lexicon=frozenset()):
     p = ligature_rule(rd)
     if p:
         return p, "ligature"
+    p = abbrev_rule(rd)
+    if p:
+        return p, "abbrev"
     p = smallcaps_rule(groups, lexicon, word)
     if p:
         return p, "smallcaps"
