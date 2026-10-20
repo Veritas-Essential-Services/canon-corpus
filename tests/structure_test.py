@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius converter checks)
 # fable_review: pending
 """Offline test suite for the structure layer (canon-corpus). No network,
 no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
@@ -532,6 +533,124 @@ st.CORPUS = _saved_corpus; os.unlink(_fh.name)
 check("unscanned: units, their scan pages and printed labels, and the Unscanner's honesty carried through",
       _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
       and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
+
+# ---------------------------------------------------------------- Aphthonius, three editions (2026-10-20)
+# Invented fixtures only: placeholder words, never a line of any edition.
+_KEYS = [k for k, _ in st.PROGYM_EXERCISES]
+_FILL = "lorem ipsum dolor sit amet consectetur adipiscing elit sed do"
+
+def _hocr(pages):
+    out = ["<html><body>"]
+    for lines in pages:
+        out.append("<div class='ocr_page' title='bbox 0 0 1000 1500'><p class='ocr_par'>")
+        for (x0, y0, xs, text) in lines:
+            ws = "".join(f"<span class='ocrx_word' title='bbox 0 0 1 1'>{w}</span> " for w in text.split())
+            out.append(f"<span class='ocr_line' title='bbox {x0} {y0} {x0 + 500} {y0 + 30}; x_size {xs}'>{ws}</span>")
+        out.append("</p></div>")
+    return "\n".join(out + ["</body></html>"])
+
+def _rabe_page(head, heading, text, app=True):
+    L = [] if head is None else [(300, 100, 23, head)]
+    y = 160
+    if heading:
+        L.append((300, y, 31, heading)); y += 50
+    for t in text:
+        L.append((100, y, 30, t)); y += 36
+    L.append((800, y - 36, 30, "5"))                 # Rabe's line number in the right margin
+    if app:
+        y += 60
+        for k in range(4):
+            L.append((100, y, 24, f"{k + 3} ΑΒ 12 ΓΔ 3")); y += 25
+    return L
+
+_rp = [[] for _ in range(st.RABE_PAGE_OFFSET + 2)]          # scan pages before the text
+_rp[-1] = [(200, 40, 48, "ΑΦΘΟΝΙΟΥ ΣΟΦΙΣΤΟΥ"), (200, 90, 48, "ΠΡΟΓΥΜΝΑΣΜΑΤΑ")] + \
+    _rabe_page(None, "Ι. ΠΕΡΙ ΜΥΘΟΥ", ["αλφα βητα γαμμα δελ-", "τα εψιλον ζητα."])
+for n, k in enumerate(_KEYS[1:], 2):
+    _rp.append(_rabe_page(f"ΠΡΟΓΥΜΝΑΣΜΑΤΑ (Ι) {n}", "ΧΙ. «ΠΕΡΙ ΤΙΝΟΣ.", ["ηθος καππα λαμβδα.", "μυ νυ ξι ομικρον."]))
+with _tf.NamedTemporaryFile("w", suffix=".hocr.html", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_hocr(_rp))
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_gb = st.convert_rabe_hocr(_fh.name, "g", "G", "A", "x")
+_rp[-1] = _rabe_page("ΠΡΟΓΥΜΝΑΣΜΑΤΑ (Ι) 14", None, ["ηθος καππα."])       # the law's heading lost
+with open(_fh.name, "w", encoding="utf-8") as _f2:
+    _f2.write(_hocr(_rp))
+try:
+    st.convert_rabe_hocr(_fh.name, "g", "G", "A", "x"); _miss = False
+except ValueError:
+    _miss = True
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+_g = {u["id"]: u for u in _gb["units"]}
+check("rabe: fourteen exercises in order, one unit per exercise per Rabe page",
+      [u["id"] for u in _gb["units"]][:3] == ["g:fable.1", "g:narrative.2", "g:chreia.3"]
+      and len(_gb["units"]) == 14 and _gb["units"][-1]["id"] == "g:law.14")
+check("rabe: the apparatus, running head, title and margin numbers are dropped; a broken word is mended",
+      _g["g:fable.1"]["text"] == "αλφα βητα γαμμα δελτα εψιλον ζητα." and "ΑΒ" not in _g["g:narrative.2"]["text"]
+      and "apparatus dropped by rule (56 lines)" in _gb["scheme"]["apparatus"])
+check("rabe: a citation resolves to Rabe's page, and says so", _g["g:chreia.3"]["ref"] == "Chreia, Rabe p. 3"
+      and _g["g:chreia.3"]["page"] == 3 and "never the line" in _gb["scheme"]["honesty"])
+check("rabe: a missing heading fails the build", _miss)
+
+def _djvu(pages):
+    out = ["<DjVuXML><BODY>"]
+    for lines in pages:
+        out.append('<OBJECT data="x" type="image/x.djvu">')
+        for (x0, y0, text) in lines:
+            ws, x = [], x0
+            for w in text.split():
+                ws.append(f'<WORD coords="{x},{y0 + 40},{x + 20 * len(w)},{y0}">{w}</WORD>'); x += 20 * len(w) + 15
+            out.append("<LINE>" + " ".join(ws) + "</LINE>")
+        out.append("</OBJECT>")
+    return "\n".join(out + ["</BODY></DjVuXML>"])
+
+_AH = ["Fabula.", "Narratio. II.", "Chria, fiue vfus. III.", "Sententia.", "Defirudio fiue fubuerfio. V.",
+       "Confirmatio fiue affeueratio. VI.", "Locus communis. VII.", "Laus. VIII.", "Vituperatio. IX.",
+       "Comparatio. X.", "Ethopoeia. XI.", "Deferiptio. XII.", "Thefis. XIII.", "Legillatio. XIIII."]
+_ap = [[(300, 300, "Fabula"), (300, 400, "Sententia")]]                            # the Censura's table
+for n, h in enumerate(_AH):
+    page = [(240, 400, _FILL), (240, 480, _FILL + " vnum."), (300, 560, _FILL + " duo"),
+            (1700, 560, "Nota."), (240, 640, _FILL), (400, 20, "APHTHONII SOPHISTAE")]
+    page.append((700, 320, h))
+    if n == 0:                                   # the title, set after the text in the file's own order
+        page.append((500, 200, "Rodolpho Agricola interprete."))
+    _ap.append(page)
+_ap.append([(240, 300, "AVTOR INNOMINATVS DE"), (240, 400, _FILL)])
+with _tf.NamedTemporaryFile("w", suffix=".djvu.xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_djvu(_ap))
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_lb = st.convert_agricola_djvu(_fh.name, "l", "L", "A", "x")
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+_l = {u["id"]: u for u in _lb["units"]}
+check("agricola: lines in reading order; the Censura skipped; fourteen exercises from misread headings",
+      [i for i in _l if i.endswith(".1")] == [f"l:{k}.1" for k in _KEYS] + ["l:appendix.1"])
+check("agricola: an indent opens a paragraph; side-notes and running heads dropped",
+      _l["l:fable.1"]["text"] == _FILL + " " + _FILL + " vnum." and _l["l:fable.2"]["text"].startswith(_FILL + " duo")
+      and "Nota" not in _l["l:fable.2"]["text"] and "APHTHONII" not in _l["l:law.2"]["text"]
+      and "side-notes (14 lines)" in _lb["scheme"]["apparatus"])
+
+_RN = ["*** START OF THE PROJECT GUTENBERG EBOOK X ***", "", "¶ A booke cal-", "led x.", "",
+       "¶ _To the right honorable and my singuler good Lorde,_", "", "Dedication words here.", "",
+       "¶ _The contentes of_", "", "A list.", "", "[Fol. j.r]", "", "Introduction words",
+       "[Sidenote: A note", "over two lines]", "go on here.", ""]
+for k, h, nth in st.RAINOLDE_HEADS:
+    if k == "comparison":
+        _RN += ["¶ A comparison.", "", "Inside the dispraise.", ""]
+    _RN += [h, "", f"Body of the {k}.", "", "¶ The praise.", "", "More words.", ""]
+_RN += ["       *       *       *       *       *", "", "Errata.", "*** END OF THE PROJECT GUTENBERG EBOOK X ***"]
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write("\n".join(_RN))
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_eb = st.convert_rainolde(_fh.name, "r", "R", "A")
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+_e = {u["id"]: u for u in _eb["units"]}
+check("rainolde: front matter kept without the title page or contents; side-notes and folios gone",
+      [u["text"] for u in _eb["units"] if u["id"].startswith("r:front.")] ==
+      ["¶ _To the right honorable and my singuler good Lorde,_", "Dedication words here.",
+       "Introduction words go on here."])
+check("rainolde: the exercise opens at the named occurrence of its heading, sub-headings are their own units",
+      _e["r:comparison.2"]["text"] == "Body of the comparison." and _e["r:comparison.3"].get("heading")
+      and "Inside the dispraise." in [_e[i]["text"] for i in _e if i.startswith("r:invective.")]
+      and _e["r:law.2"]["text"] == "Body of the law." and "Errata." not in [u["text"] for u in _eb["units"]])
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
