@@ -124,6 +124,9 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner editions merge --collation OUT/collation.json --base-dir DIR --base a --volume N --answers R.json C.json A.json --out OUT  # -> merged text
     python3 tests/editions_test.py                     # columns, running heads, signature marks, margin breaks, dashes (28)
     python3 tests/smallcaps_test.py                    # small caps reread, abbreviations, ll/U, æ (21)
+    python3 -m unscanner fixes fetch && python3 -m unscanner fixes build   # the fix library (Guiguts GPL-2, Underwood unlicensed, ICDAR CC BY): local only, gitignored
+    python3 -m unscanner fixes profile --book data/unscanner/<slug>      # which fixes this typesetting has in play
+    python3 tests/fixes_test.py                        # the fix library's profile on a made-up book (13)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)

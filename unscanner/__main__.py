@@ -125,6 +125,36 @@ def run(a):
         if os.path.exists(wpath):
             from . import collate as C
             coll = C.collate(pg, open(wpath, encoding="utf-8", errors="replace").read())
+    fixes_log = []
+    if getattr(a, "fixes", False):
+        # the fix library, profiled on this book's own words (no desk here), applied before assembly
+        from . import fixes as FX
+        from . import editions as ED
+        if not os.path.exists(os.path.join(FX.ROOT, "library.jsonl")):
+            sys.exit("no fix library: run `python3 -m unscanner fixes fetch` and `fixes build` first")
+        lexicon = {w.lower() for w in ED.load_lexicon(REPO)}
+        bk = {"pages": pg}
+        prof = FX.profile(bk, lexicon, FX.load_library())
+        json.dump(prof, open(work.p("fixes-profile.json"), "w"), ensure_ascii=False, indent=0)
+        fix = FX.fixer(prof, FX.Evidence(bk, lexicon))
+        for p in pg:
+            if p["kind"] != "text":
+                continue
+            drop = set(p.get("drop") or [])
+            prev_broken = False
+            for li, ln in enumerate(p["lines"]):
+                if li in drop:
+                    continue
+                for wi, w in enumerate(ln["words"]):
+                    frag = wi == 0 and prev_broken
+                    f = None if frag else fix(w["t"])
+                    if f:
+                        fixes_log.append({"page": p["n"], "from": w["t"], "to": f[0], "rule": f[1]})
+                        w.setdefault("was", w["t"])
+                        w["t"] = f[0]
+                prev_broken = bool(ln["words"]) and ln["words"][-1]["t"].endswith("-")
+        print(f"  fix library: {len(fixes_log)} words changed "
+              f"({sum(1 for t in prof['traits'] if t['state'] == 'on')} typeface confusions in play)")
     front, divisions, hy = BK.assemble(pg, a.slug, tuple(a.heading or ()) or k.get("extra_heads", ()),
                                      k.get("heading_fixes"))
     units = BK.units(divisions, a.slug)
@@ -141,6 +171,8 @@ def run(a):
               "hyphens": {k: v for k, v in hy.items()}, "fonts": rep["fonts"],
               "collation": coll, "archive_record": archive_check,
               "font_margin": round(rep["fonts"][0]["score"] - rep["fonts"][1]["score"], 4) if len(rep["fonts"]) > 1 else None}
+    if fixes_log:
+        report["fixes"] = {"changed": len(fixes_log), "sample": fixes_log[:40]}
     meta = {"slug": a.slug, "title": title, "author": author, "ident": ident, "source": source, "rights": rights,
             "pdf_sha256": sha256(pdf), "modified": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "pt": best["pt"] if best else 12,
@@ -201,14 +233,20 @@ def main(argv=None):
     r.add_argument("--quiet", action="store_true")
     r.add_argument("--to-corpus", action="store_true",
                    help="copy units.json into data/corpus/archive/ so structure_texts.py builds from it")
+    r.add_argument("--fixes", action="store_true",
+                   help="apply the fix library (python -m unscanner fixes fetch/build) as profiled for this book")
     r.add_argument("--jobs", type=int, default=max(1, (os.cpu_count() or 1)), help="pages OCR'd at once")
     from . import editions_cli as EC
+    from . import fixes as FX
     EC.add_parser(sub)
+    FX.add_parser(sub)
     a = ap.parse_args(argv)
     if a.cmd == "run":
         run(a)
     elif a.cmd == "editions":
         EC.dispatch(a)
+    elif a.cmd == "fixes":
+        FX.dispatch(a)
 
 
 if __name__ == "__main__":

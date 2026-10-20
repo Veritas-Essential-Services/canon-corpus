@@ -407,7 +407,7 @@ def _page_furniture(bp):
     return out
 
 
-def merged_text(result, answers, volume, base=None, base_scan=None, book=None):
+def merged_text(result, answers, volume, base=None, base_scan=None, book=None, fix=None):
     """The volume's text with every answer put in place of its word, its page furniture (running
     heads, folios) taken out, and every word broken at a margin, a column or a page ("Cuf-" / "fey",
     "ex-" / "plained") made one word again by the Unscanner's own rule 6, and 6b for ranges, small
@@ -423,6 +423,7 @@ def merged_text(result, answers, volume, base=None, base_scan=None, book=None):
     mends = {(m["page"], m["index"]): m["result"] for m in result.get("mends", [])}
     bpages = {p["n"]: p for p in book["pages"]}
     stream = []
+    fixes_log, prev_last = [], ""
     for p in result["pages"]:
         lines = page_lines(p, base, base_scan, mends)
         i = 0
@@ -431,6 +432,12 @@ def merged_text(result, answers, volume, base=None, base_scan=None, book=None):
                 a = answers.get(f"v{volume}-p{p['label']}-i{i}")
                 if a is not None:
                     ln[j] = a
+                elif fix is not None and ln[j] and not (j == 0 and i and str(prev_last).endswith("-")):
+                    f = fix(ln[j])               # the fix library, as profiled for this typeface
+                    if f:
+                        fixes_log.append({"page": p["label"], "index": i, "from": ln[j], "to": f[0], "rule": f[1]})
+                        ln[j] = f[0]
+                prev_last = ln[j] if j == len(ln) - 1 else prev_last
                 i += 1
         bp = bpages[p["scans"][base_scan]]
         drop = set(bp.get("drop") or [])
@@ -491,4 +498,5 @@ def merged_text(result, answers, volume, base=None, base_scan=None, book=None):
         g["text"], c = L.dashes(g["text"], authors)
         for k, v in c.items():
             log["dashes"][k] = log["dashes"].get(k, 0) + v
+    log["fixes"] = fixes_log
     return out, log

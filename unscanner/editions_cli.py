@@ -126,7 +126,13 @@ def merge(a):
         answers.update(_answers(path))
     base = E.load_tesseract(a.base_dir)
     book = json.load(open(os.path.join(a.base_dir, "book.json"), encoding="utf-8"))
-    paras, log = E.merged_text(result, answers, a.volume, base, a.base, book)
+    fix = None
+    if a.fixes:
+        from . import fixes as FX
+        prof = json.load(open(a.fixes, encoding="utf-8"))
+        lexicon = {w.lower() for w in E.load_lexicon(REPO, a.brewer)}
+        fix = FX.fixer(prof, FX.Evidence(book, lexicon))
+    paras, log = E.merged_text(result, answers, a.volume, base, a.base, book, fix)
     os.makedirs(a.out, exist_ok=True)
     json.dump({"volume": a.volume, "paragraphs": paras, "log": log},
               open(os.path.join(a.out, "merged.json"), "w"), ensure_ascii=False)
@@ -137,7 +143,7 @@ def merge(a):
     print(f"{len(paras)} paragraphs, {len(answers)} answers applied; rejoined "
           f"{log['joined'] + log.get('joined_webster', 0) + log['joined_unattested']}, "
           f"hyphens kept {log['kept'] + log.get('kept_webster', 0) + log.get('kept_unattested', 0)}; "
-          f"breaks still open: {len(left)} {left[:12]} -> {a.out}")
+          f"breaks still open: {len(left)} {left[:12]}; fix library changed {len(log.get('fixes', []))} words -> {a.out}")
 
 
 def add_parser(sub):
@@ -156,6 +162,8 @@ def add_parser(sub):
     m.add_argument("--base", required=True, help="the base scan's name, as at collate")
     m.add_argument("--volume", required=True)
     m.add_argument("--answers", nargs="+", required=True, help="answer files, lowest rank first")
+    m.add_argument("--fixes", help="a fixes-profile.json (python -m unscanner fixes profile): apply its rules in play")
+    m.add_argument("--brewer", help="Brewer's Dictionary paragraphs, added to the lexicon (with --fixes)")
     m.add_argument("--out", required=True)
     return e
 

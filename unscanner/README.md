@@ -145,3 +145,45 @@ Vol. 6 by the numbers: 105,947 words; 715 to the desk; 267 cleared by rule, 326 
 hyphens kept. Still open (column order the layout cannot see): "(1516-" / PLINY, "qui-" / fit,
 "Dra-" / Roland, "Pari-" / Schamir, "Ar-" / Smyrna, "suc-" / Seotch, "SHEP-" / Shepherd. And the base
 text outside the desk still carries tesseract's c-for-e misreads (seeretly, Neweastle): the next rule.
+
+## The fix library (2026-10-20)
+
+Adam: *"build a whole system that picks and chooses from a whole library of fixes and choose the
+elements that are actually in play with the particular typesetting that one is working from."*
+
+    python3 -m unscanner fixes fetch       # pinned sources -> data/fixes/src/ (gitignored)
+    python3 -m unscanner fixes build       # -> data/fixes/library.jsonl: 116,281 rules, each with its source
+    python3 -m unscanner fixes profile --book data/unscanner/<slug> [--review R.json --answers A.json ...]
+    python3 -m unscanner run <slug> ... --fixes                     # one scan: profile and apply
+    python3 -m unscanner editions merge ... --fixes <profile.json>  # several scans: apply to what the vote left
+
+**Sources** (none committed; the repo is public): Distributed Proofreaders' Guiguts scanno lists
+(GPL-2.0: 4,377 rules), Ted Underwood's OCR-normalizer rules (no licence stated, so local use only:
+98,381 corrections, 401 long-s pairs, 11,308 normalizations), and the ICDAR 2019 post-OCR competition's
+English data (CC BY 4.0, Rigaud, Doucet, Coustaty and Moreux), mined for 210 character confusions and
+1,658 word pairs. Normalizations (Underwood's syncope, fusing, hyphen and variant rules modernize the
+text) are kept and never applied to a faithful transcription.
+
+**How a rule earns its place in a book** (`fixes.profile`):
+1. *The typeface's confusions first*, learned from the scan's own words: every word that is no word is
+   tried with each known confusion; the confusion that turns many of them into words this book prints
+   cleanly is a trait of the face. Vol. 6 Toronto: e read for c (395 words, desk 100%), n for u, c for
+   e, e for o, u for n. The Cornell printing adds b for h ("bere", "bowever", "borses").
+2. *A borrowed word rule only on a confusion the face makes*: "chureh" -> "church" rests on c read as e,
+   in play; "foon" -> "soon" rests on the long s, which an 1892 book has not: it stays off without anyone
+   deciding so.
+3. *The book's own words decide what is real*: a dictionary word (with its endings) is never changed; a
+   word the book prints cleanly is what the page says ("enfants", "valeur") unless one confusion makes a
+   dictionary word the book prints three times as often ("ealled", read confidently 14 times, beside
+   "called" 182 times: a habit of the OCR, not a word). A name the book prints cleanly stays ("Hugo",
+   which a borrowed rule turns into "huge"). A four-letter word needs the corrected word to be the
+   book's habit ("loue" is love, not lone). Half a word at the margin is never fixed ("Anto-").
+4. *The desk*: where a rule fires on a word a person or Claude's eyes settled, its precision on this
+   typesetting; under 90% (3+ cases) it is off. The rules' own clears are never the truth.
+5. *States*: `on` (applied), `flag` (for a person: a stealth scanno, where both forms are words; a known
+   misspelling with no correction; a rule on a confusion this face does not show), `off`.
+
+**Measured on vol. 6**: against the 1,866 words the four-reading vote mended (independent of the
+library), the library alone, from the raw scan word, agrees on 446 and disagrees on none. Over 103,564
+undisputed words it changes 56, the misreadings every engine shared ("Chaueer", "Provenee", "vehiele",
+"Diekens"). The Cornell scan alone (no desk, no second scan): 105 words.
