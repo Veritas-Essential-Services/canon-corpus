@@ -3,7 +3,7 @@
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from unscanner import smallcaps as S
-from unscanner.learned import abbrev_rule
+from unscanner.learned import abbrev_rule, ll_rule
 
 ok = bad = 0
 def check(name, cond):
@@ -20,4 +20,9 @@ check("etc. beats ctc.", abbrev_rule(["ctc.", "etc."]) == "etc.")
 check("etc., keeps its comma", abbrev_rule(["ete.,", "etc.,"]) == "etc.,")
 check("i.e. beats ze.", abbrev_rule(["ze.", "i.e."]) == "i.e.")
 check("no abbreviation, no pick", abbrev_rule(["Rome", "Romc"]) is None)
+check("U inside a lowercase word is ll", ll_rule(["Rolla", "RoUa "]) == "Rolla")
+check("...or li", ll_rule(["LilUa-Bianca,", "Lillia-Bianca,"]) == "Lillia-Bianca,")
+check("...at the word's end", ll_rule(["ball,", "baU,"]) == "ball,")
+check("quote marks are not the question", ll_rule(['MotaUeb,"', "Motalleb,\u201d"]) == "Motalleb,\u201d")
+check("a capital U starting a word is left alone", ll_rule(["Use", "Uae"]) is None)
 print(f"{ok} passed, {bad} failed"); sys.exit(1 if bad else 0)

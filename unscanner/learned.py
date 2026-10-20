@@ -17,6 +17,9 @@ Every cleared item records which rule cleared it, and stays changeable on the pa
              this book than ctc." Runs before c-for-e, which alone would pick ctc over etc.
   c-for-e    two readings differ only by c/e -> the one with c, unless only the e-form is a word.
   ll-for-U   two readings differ only by ll/U (the Archive's engine) -> ll.
+  ll-in-word a capital U inside a lowercase word (RoUa, DurtaiUe, baU,) is ll, or li/il: Adam,
+             2026-10-20: "ll is more likely to show up in the middle of a lowercase word than the
+             uppercase letter U." Taken when another reading spells exactly that. Any number of readings.
   R-E-B-h    readings differ only by R~E/B/P or b~h -> our engine's reading (the Archive's misreads).
   same-scan  both engines on one scan agree, the other scan's two engines disagree with each
              other -> the agreeing pair, unless a rival is a word and the pair is not.
@@ -110,6 +113,26 @@ def abbrev_rule(rd):
     return hits.pop() if len(hits) == 1 else None
 
 
+IN_WORD_U = re.compile(r"(?<=[a-z])U(?=[a-z]|[^A-Za-z]*$)")
+
+
+def ll_rule(rd):
+    """Readings with a U inside a lowercase word, read as ll/li/il, matched against the others."""
+    bad = [t.strip() for t in rd if IN_WORD_U.search(t)]
+    q = lambda t: re.sub(r"[“”\"]", '"', re.sub(r"[‘’']", "'", t))     # quote marks are not the question
+    good = {q(t.strip()): t.strip() for t in rd if not IN_WORD_U.search(t) and "U" not in t[1:]}
+    if not bad or not good:
+        return None
+    hits = set()
+    for t in bad:
+        for rep in ("ll", "li", "il"):
+            c = q(IN_WORD_U.sub(rep, t))
+            if c in good:
+                hits.add(good[c])
+                break
+    return hits.pop() if len(hits) == 1 else None
+
+
 def only_swaps(a, b, pairs):
     """True when a and b differ only by the given (x, y) substitutions; returns the direction map."""
     import difflib
@@ -164,6 +187,9 @@ def decide(item, word, lexicon=frozenset()):
     p = abbrev_rule(rd)
     if p:
         return p, "abbrev"
+    p = ll_rule(rd)
+    if p:
+        return p, "ll-in-word"
     p = smallcaps_rule(groups, lexicon, word)
     if p:
         return p, "smallcaps"
