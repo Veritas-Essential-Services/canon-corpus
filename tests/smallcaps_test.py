@@ -3,7 +3,7 @@
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from unscanner import smallcaps as S
-from unscanner.learned import abbrev_rule, ll_rule
+from unscanner.learned import abbrev_rule, ll_rule, lig_garble_rule
 
 ok = bad = 0
 def check(name, cond):
@@ -25,4 +25,10 @@ check("...or li", ll_rule(["LilUa-Bianca,", "Lillia-Bianca,"]) == "Lillia-Bianca
 check("...at the word's end", ll_rule(["ball,", "baU,"]) == "ball,")
 check("quote marks are not the question", ll_rule(['MotaUeb,"', "Motalleb,\u201d"]) == "Motalleb,\u201d")
 check("a capital U starting a word is left alone", ll_rule(["Use", "Uae"]) is None)
+check("AngUae / AngHse / Angliz -> Angliæ", lig_garble_rule({"Angliew,": ["toronto.tess"], "AngUae,": ["toronto.djvu"], "Angliz,": ["cornell.tess"], "AngHse,": ["cornell.djvu"]}) == "Angliæ,")
+check("house in both scans stays house", lig_garble_rule({"house": ["toronto.tess", "cornell.tess"]}) is None)
+check("one scan alone is not enough", lig_garble_rule({"AngUae,": ["toronto.djvu"], "Angle,": ["cornell.tess"]}) is None)
+check("a headword before its bracket is small caps", S.heads_entry({"base": "Lone", "line": "Lone (St. John), born at Neweastle, began"}))
+check("a word mid-line is not a headword", not S.heads_entry({"base": "doctor", "line": "the influenza doctor (see above)"}))
+check("Cormae / Cormac is not a ligature", lig_garble_rule({"Cormae": ["toronto.tess", "toronto.djvu"], "Cormac": ["cornell.tess", "cornell.djvu"]}) is None)
 print(f"{ok} passed, {bad} failed"); sys.exit(1 if bad else 0)

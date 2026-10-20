@@ -20,6 +20,10 @@ Every cleared item records which rule cleared it, and stays changeable on the pa
   ll-in-word a capital U inside a lowercase word (RoUa, DurtaiUe, baU,) is ll, or li/il: Adam,
              2026-10-20: "ll is more likely to show up in the middle of a lowercase word than the
              uppercase letter U." Taken when another reading spells exactly that. Any number of readings.
+  lig-garble a capital U/H inside a lowercase word is "li", and a word-final se/ce/ae/ze/z/ew/ee is æ:
+             AngUae, AngHse, Angliew, Angliz -> Angliæ. Adam, 2026-10-20: these "could be cleared
+             automatically if you were looking at them as if they were capital letters". Taken when
+             readings from BOTH scans arrive at the same word, and only when that word has an æ.
   R-E-B-h    readings differ only by R~E/B/P or b~h -> our engine's reading (the Archive's misreads).
   same-scan  both engines on one scan agree, the other scan's two engines disagree with each
              other -> the agreeing pair, unless a rival is a word and the pair is not.
@@ -133,6 +137,26 @@ def ll_rule(rd):
     return hits.pop() if len(hits) == 1 else None
 
 
+IN_WORD_UH = re.compile(r"(?<=[a-z])[UH](?=[a-z])")
+END_AE = re.compile(r"(?<=[a-z])(se|ce|ae|ze|ew|ee|z|æ)(?=[^A-Za-z]*$)")
+
+
+def lig_garble_rule(groups):
+    """groups: {text: [witnesses]}. -> the æ word both scans arrive at, or None."""
+    # Only when there is the sign Adam named: a capital U/H inside a lowercase word. Without it,
+    # "house" in both scans would become "houæ", and Cormae/Cormac would become Cormæ (it is Cormac).
+    if not any(IN_WORD_UH.search(t) for t in groups):
+        return None
+    votes = {}
+    for t, ws in groups.items():
+        c = END_AE.sub("æ", IN_WORD_UH.sub("li", t.strip()))
+        if "æ" not in c or c == t.strip() and "æ" not in t:
+            continue
+        votes.setdefault(c, set()).update(w.split(".")[0] for w in ws)
+    both = [c for c, scans in votes.items() if len(scans) >= 2]
+    return both[0] if len(both) == 1 else None
+
+
 def only_swaps(a, b, pairs):
     """True when a and b differ only by the given (x, y) substitutions; returns the direction map."""
     import difflib
@@ -190,6 +214,9 @@ def decide(item, word, lexicon=frozenset()):
     p = ll_rule(rd)
     if p:
         return p, "ll-in-word"
+    p = lig_garble_rule(groups)
+    if p:
+        return p, "lig-garble"
     p = smallcaps_rule(groups, lexicon, word)
     if p:
         return p, "smallcaps"
