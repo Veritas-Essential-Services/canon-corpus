@@ -50,9 +50,11 @@
   }
  },
  "pages-brewer-cs": {
-  "rows": 11905,
+  "rows": 14219,
   "of_entries": 14416,
-  "read": 11635
+  "read": 11635,
+  "between": 1652,
+  "range": 662
  },
  "plates-brewer-cs": {
   "rows": 94,

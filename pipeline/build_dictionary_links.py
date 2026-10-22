@@ -332,15 +332,32 @@ def build_pages(books):
     chain, n = [], (tails_id[-1] if tails_id else None)
     while n:
         chain.append(n); n = prev[n]
-    rows = []
+    found = {}
     for i, p in sorted(chain):
         v, leaf, _ = seq[p]
         pm, read = maps[v]
         if leaf not in pm:
             continue
-        ia = CS_SCAN_IDS[v - 1]
-        rows.append({"id": U[i]["id"], "scan": ia, "volume": v, "leaf": leaf, "page": pm[leaf],
-                     "page_how": "read" if leaf in read else "counted"})
+        found[i] = {"id": U[i]["id"], "scan": CS_SCAN_IDS[v - 1], "volume": v, "leaf": leaf,
+                    "page": pm[leaf], "page_how": "read" if leaf in read else "counted"}
+    # An entry whose headword the scan's OCR garbled sits between two found
+    # ones: on their page when both are on one page ("between"), else on a
+    # page from the first's to the second's ("between, range").
+    rows, idx = [], sorted(found)
+    for i in range(len(U)):
+        if i in found:
+            rows.append(found[i]); continue
+        k = bisect.bisect_left(idx, i)
+        if k == 0 or k == len(idx):
+            continue
+        a, b = found[idx[k - 1]], found[idx[k]]
+        if a["volume"] != b["volume"] or b["page"] < a["page"]:
+            continue
+        row = {"id": U[i]["id"], "scan": a["scan"], "volume": a["volume"], "leaf": a["leaf"],
+               "page": a["page"], "page_how": "between"}
+        if b["page"] != a["page"]:
+            row.update(leaf_to=b["leaf"], page_to=b["page"], page_how="between, range")
+        rows.append(row)
     return rows
 
 
@@ -441,7 +458,9 @@ def build_all():
     files["pages-brewer-cs.jsonl"] = dump_jsonl(pages)
     summary["pages-brewer-cs"] = {"rows": len(pages),
                                   "of_entries": len(books["brewer-character-sketches"]["units"]),
-                                  "read": sum(r["page_how"] == "read" for r in pages)}
+                                  "read": sum(r["page_how"] == "read" for r in pages),
+                                  "between": sum(r["page_how"] == "between" for r in pages),
+                                  "range": sum(r["page_how"] == "between, range" for r in pages)}
     plates = build_plates(books, pages)
     if plates is not None:
         files["plates-brewer-cs.jsonl"] = dump_jsonl(plates)
