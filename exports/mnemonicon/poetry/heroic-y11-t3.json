@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cd64d8f3-93f6-5570-af2a-c00427b6fd6a",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "I Have a Rendezvous with Death",
+    "source": "Alan Seeger, The North American Review (periodical) (1916)",
+    "category": "Poetry",
+    "translation": "",
+    "text": " I have a rendezvous with Death\nAt some disputed barricade,\nWhen Spring comes back with rustling shade\nAnd apple-blossoms fill the air --\nI have a rendezvous with Death\nWhen Spring brings back blue days and fair.\n\n It may be he shall take my hand\nAnd lead me into his dark land\nAnd close my eyes and quench my breath --\nIt may be I shall pass him still.\nI have a rendezvous with Death\nOn some scarred slope of battered hill,\nWhen Spring comes round again this year\nAnd the first meadow-flowers appear.\n\n God knows 'twere better to be deep\nPillowed in silk and scented down,\nWhere Love throbs out in blissful sleep,\nPulse nigh to pulse, and breath to breath,\nWhere hushed awakenings are dear . . .\nBut I've a rendezvous with Death\nAt midnight in some flaming town,\nWhen Spring trips north again this year,\nAnd I to my pledged word am true,\nI shall not fail that rendezvous.",
+    "notes": "Heroic addendum (proposed), beside AO Year 11, Term 3.\nText: Poems (Alan Seeger) (1916), Project Gutenberg #617.\nUS public domain: the text hosted here is from Poems (Alan Seeger) (1916), published before 1931, so its 95-year US term has run out. Project Gutenberg #617.\nWord Hoard poetry:alan-seeger.i-have-a-rendezvous-with-death · wh-CWR8Z5RM0W",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-11",
+      "alan-seeger"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "66469ca4-a597-54b8-9871-bfaa733df5d9",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Epitaph on an Army of Mercenaries",
+    "source": "A. E. Housman, The Times (London) (1917)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "These, in the day when heaven was falling,\n    The hour when earth's foundations fled,\nFollowed their mercenary calling\n    And took their wages and are dead.\n\nTheir shoulders held the sky suspended;\n    They stood, and earth's foundations stay;\nWhat God abandoned, these defended,\n    And saved the sum of things for pay.",
+    "notes": "Heroic addendum (proposed), beside AO Year 11, Term 3.\nText: Last Poems (1922), Project Gutenberg #7848.\nUS public domain: the text hosted here is from Last Poems (1922), published before 1931, so its 95-year US term has run out. Project Gutenberg #7848. First published 1917 in The Times (London).\nWord Hoard poetry:a-e-housman.epitaph-on-an-army-of-mercenaries · wh-872R0BX4ZE",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-11",
+      "a-e-housman"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]

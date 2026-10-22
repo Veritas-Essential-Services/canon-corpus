@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
@@ -23,7 +24,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html
+import os, re, json, hashlib, html, unicodedata
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -656,6 +657,295 @@ def convert_thayer(path, slug="thayer"):
                                f"page, and Greek diacritics are where OCR errs most."},
             "units": units}
 
+# ---------------------------------------------------------------- Brewer (1894)
+#
+# Brewer's Dictionary of Phrase and Fable, "New and Enlarged Edition of 1894"
+# (E. Cobham Brewer, 1810-1897; PD). Source of record: Adam's PDF, pinned by
+# sha256 in pipeline/extract_brewer.py, which writes the page-anchored
+# paragraphs this reads. Added 2026-10-19.
+#
+# HOW A HEADWORD IS FOUND, and why this one IS segmented when Thayer's is not.
+# The typeset carries no bold and no markup: a headword is a paragraph like any
+# other. But Brewer's headwords have three properties the body text almost
+# never has together, and the rule requires all three:
+#   1. the paragraph is ONE line, under 70 characters, starting upper-case;
+#   2. it does not end in sentence punctuation (the transcription drops the
+#      headword's own full stop: "A.B", "A.U.C") -- unless it is a dotted
+#      abbreviation, and it holds no mid-line sentence ("Cato Major was so
+#      called. (B.C. ...)") and no "(See";
+#   3. its initial is the letter section it sits in (sections from the PDF's
+#      own bookmarks: the printed letter headings are missing for half the
+#      alphabet) AND it lies on the longest alphabetical run through that
+#      section's candidates, compared word-by-word on three letters, the way
+#      Brewer files ("Ca Ira" before "Cab"; abbreviations first; "St." as
+#      Saint, "Dr." as Doctor).
+# Rule 3 is what Thayer's OCR could not support: here the text is exact, so a
+# one-line verse quotation that passes 1 and 2 ("Full many a sprightly race")
+# falls out because it breaks the alphabet. What the rule misses is NOT lost:
+# a rejected line stays in the text of the entry before it, and the count is
+# reported. Headwords run into their own first sentence ("Abram-Man or
+# Abraham Cove. A Tom o' Bedlam...") are the known miss of this kind.
+BREWER_SAINT = re.compile(r"\bSt\.\s*")
+BREWER_DOCTOR = re.compile(r"\bDr\.\s*")
+BREWER_ABBR = re.compile(r"[A-Z][A-Z.,'’ &]*")
+BREWER_SENT = re.compile(r"[a-z)]\.\s|\(See|\(see")
+BREWER_SEE = re.compile(r"\((?:See|see)(?: also)?\s+([^()]{1,120}?)\s*\.?\s*\)")
+# A scripture citation the way Brewer prints one: "Rev. ix. 11", "1 Kings xviii.
+# 27", "Exodus vii. 10--12". Roman chapter, arabic verse.
+BREWER_SCRIP = re.compile(r"\b(?:(III|II|I|[123])\s?)?([A-Z][a-z]{1,13})\.?\s+([ivxlc]+)\.\s*(\d+)"
+                          r"(?:\s*[—–-]+\s*(\d+))?")
+BREWER_BOOKS = {   # spelling in Brewer -> (osis, takes a number prefix)
+    "gen": "Gen", "genesis": "Gen", "exod": "Exod", "exodus": "Exod", "ex": "Exod",
+    "lev": "Lev", "leviticus": "Lev", "num": "Num", "numb": "Num", "numbers": "Num",
+    "deut": "Deut", "deuteronomy": "Deut", "josh": "Josh", "joshua": "Josh",
+    "judg": "Judg", "judges": "Judg", "ruth": "Ruth", "sam": "Sam", "samuel": "Sam",
+    "kings": "Kgs", "kgs": "Kgs", "chron": "Chr", "chronicles": "Chr", "chr": "Chr",
+    "ezra": "Ezra", "neh": "Neh", "nehemiah": "Neh", "esth": "Esth", "esther": "Esth",
+    "job": "Job", "ps": "Ps", "psa": "Ps", "psalm": "Ps", "psalms": "Ps",
+    "prov": "Prov", "proverbs": "Prov", "eccl": "Eccl", "eccles": "Eccl", "ecc": "Eccl",
+    "ecl": "Eccl", "ecclesiastes": "Eccl", "cant": "Song", "song": "Song",
+    "isa": "Isa", "isaiah": "Isa", "jer": "Jer", "jeremiah": "Jer", "lam": "Lam",
+    "lamentations": "Lam", "ezek": "Ezek", "ezekiel": "Ezek", "dan": "Dan",
+    "daniel": "Dan", "hos": "Hos", "hosea": "Hos", "joel": "Joel", "amos": "Amos",
+    "obad": "Obad", "jonah": "Jonah", "mic": "Mic", "micah": "Mic", "nah": "Nah",
+    "hab": "Hab", "zeph": "Zeph", "hag": "Hag", "zech": "Zech", "mal": "Mal",
+    "malachi": "Mal", "matt": "Matt", "matthew": "Matt", "mark": "Mark",
+    "luke": "Luke", "john": "John", "acts": "Acts", "act": "Acts", "rom": "Rom",
+    "romans": "Rom", "cor": "Cor", "corinthians": "Cor", "gal": "Gal",
+    "galatians": "Gal", "eph": "Eph", "ephesians": "Eph", "phil": "Phil",
+    "philippians": "Phil", "col": "Col", "colossians": "Col", "thess": "Thess",
+    "tim": "Tim", "timothy": "Tim", "tit": "Titus", "titus": "Titus",
+    "philem": "Phlm", "heb": "Heb", "hebrews": "Heb", "jas": "Jas", "james": "Jas",
+    "pet": "Pet", "peter": "Pet", "jude": "Jude", "rev": "Rev", "revelation": "Rev",
+}
+BREWER_NUMBERED = {"Sam", "Kgs", "Chr", "Cor", "Thess", "Tim", "Pet"}
+# KJV chapters per book: a citation past the last chapter is a typo or an
+# Apocrypha book under a canonical abbreviation, and is refused, not linked.
+BREWER_CHAPTERS = dict(zip(
+    "Gen Exod Lev Num Deut Josh Judg Ruth 1Sam 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps "
+    "Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal "
+    "Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm "
+    "Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split(),
+    [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52,
+     5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5,
+     3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]))
+BREWER_ROMAN = {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}
+
+
+def _brewer_roman(r):
+    total, prev = 0, 0
+    for ch in reversed(r):
+        n = BREWER_ROMAN[ch]
+        total += -n if n < prev else n
+        prev = max(prev, n)
+    return total
+
+
+def _brewer_fold(s):
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c)).lower()
+    return s.replace("æ", "ae").replace("œ", "oe")
+
+
+def _brewer_sortkey(head, abbr):
+    if abbr:
+        return _brewer_fold(head)[0] + " "
+    h = BREWER_DOCTOR.sub("Doctor ", BREWER_SAINT.sub("Saint ", head))
+    return re.sub(r"[^a-z0-9 ]", "", re.sub(r"[—–\-]", " ", _brewer_fold(h)))[:3]
+
+
+def brewer_slug(head):
+    s = re.sub(r"[^a-z0-9]+", "-", _brewer_fold(head)).strip("-")
+    return s or "x"
+
+
+def _brewer_candidate(t, sec):
+    """(is it a headword-shaped line, is it a dotted abbreviation)."""
+    if not sec or len(t) > 70 or not t[:1].isupper():
+        return False, False
+    abbr = bool(BREWER_ABBR.fullmatch(t)) and "." in t
+    if t.endswith((".", ":", ";", ",", "”", '"', "!", "?")) and not abbr:
+        return False, abbr
+    body = re.sub(r"\b(St|Dr|Mr|Mrs|Mt|Gen|No|Sir|Ste|Messrs)\.", "", t)
+    if not abbr and BREWER_SENT.search(body):
+        return False, abbr
+    key = re.sub(r"[^a-z0-9]", "", _brewer_fold(t))
+    return bool(key) and key[0] == sec.lower(), abbr
+
+
+def _brewer_longest_run(keys):
+    """Indices of the longest non-decreasing subsequence of keys."""
+    import bisect
+    tails, tidx, prev = [], [], [None] * len(keys)
+    for j, k in enumerate(keys):
+        pos = bisect.bisect_right(tails, k)
+        if pos == len(tails):
+            tails.append(k); tidx.append(j)
+        else:
+            tails[pos] = k; tidx[pos] = j
+        prev[j] = tidx[pos - 1] if pos else None
+    keep, j = set(), (tidx[-1] if tidx else None)
+    while j is not None:
+        keep.add(j); j = prev[j]
+    return keep
+
+
+def brewer_scripture(text):
+    """Brewer's own citations -> links. Only canonical KJV books; the rest
+    (Ecclesiasticus, Esdras, Horace's Odes, Shakespeare) are not scripture
+    or not in the KJV build, and are left alone, not guessed."""
+    out, seen, unknown = [], set(), 0
+    for m in BREWER_SCRIP.finditer(text):
+        num, book, ch, v, v2 = m.groups()
+        osis = BREWER_BOOKS.get(book.lower())
+        if not osis:
+            continue
+        if osis in BREWER_NUMBERED or (osis == "John" and num):
+            if not num:
+                unknown += 1             # "Kings vi. 2" -- which Kings?
+                continue
+            osis = {"I": "1", "II": "2", "III": "3"}.get(num, num) + osis
+        c = _brewer_roman(ch)
+        if not 1 <= c <= BREWER_CHAPTERS.get(osis, 0) or int(v) < 1:
+            unknown += 1
+            continue
+        key = f"{osis}.{c}.{int(v)}"
+        if key in seen:
+            continue
+        seen.add(key)
+        link = {"kind": "scripture", "osis": key, "ref": m.group(0).strip(),
+                "target": f"kjv:{key}", "versification": "kjv", "resolved": True}
+        if v2 and int(v2) > int(v):
+            link["end"] = f"{osis}.{c}.{int(v2)}"
+        out.append(link)
+    return out, unknown
+
+
+def convert_brewer(path, slug="brewer"):
+    """Brewer's Dictionary of Phrase and Fable (1894). One unit per headword."""
+    data = json.load(open(path, encoding="utf-8"))
+    toc = sorted(data["toc"], key=lambda x: x[1])
+    paras = data["paras"]
+
+    def section(pg):
+        s = None
+        for letter, p0 in toc:
+            if pg >= p0:
+                s = letter
+        return s
+
+    by_sec = {}
+    for i, p in enumerate(paras):
+        if len(p["lines"]) != 1:
+            continue
+        t = p["lines"][0].strip()
+        sec = section(p["p"])
+        ok, abbr = _brewer_candidate(t, sec)
+        if ok:
+            by_sec.setdefault(sec, []).append((i, _brewer_sortkey(t, abbr)))
+    heads, offrun = set(), 0
+    for sec, cs in by_sec.items():
+        keep = _brewer_longest_run([k for _, k in cs])
+        heads |= {cs[j][0] for j in keep}
+        offrun += len(cs) - len(keep)
+
+    units, cur, joined, dashes = [], None, 0, 0
+    front = []                          # anything before the first headword
+    for i, p in enumerate(paras):
+        text = " ".join(l.strip() for l in p["lines"]).strip()
+        if not text:
+            continue
+        # Per-book rule (rule 2, never a hand edit): this transcription prints
+        # an en-dash range as a doubled em dash ("1440——1493").
+        dashes += text.count("——")
+        text = re.sub(r"\s+", " ", text.replace("——", "–"))
+        if i in heads:
+            cur = {"head": p["lines"][0].strip(), "page": p["p"], "pages": [p["p"]], "paras": []}
+            units.append(cur)
+            continue
+        if cur is None:
+            front.append(text)
+            continue
+        if p["p"] not in cur["pages"]:
+            cur["pages"].append(p["p"])
+        # A page break looks like a paragraph break. If the paragraph before
+        # it did not finish a sentence, this is that paragraph, continued.
+        if p.get("top") and cur["paras"] and not cur["paras"][-1].endswith(
+                (".", "!", "?", "”", '"', ":", ")")):
+            cur["paras"][-1] += " " + text
+            joined += 1
+        else:
+            cur["paras"].append(text)
+
+    # A "headword" with no body is a list line the rule promoted (e.g. a run of
+    # sword names under Sword): give it back to the entry before it, as text.
+    kept = []
+    for u in units:
+        if not u["paras"] and kept:
+            kept[-1]["paras"].append(u["head"])
+            offrun += 1
+        else:
+            kept.append(u)
+    units = kept
+    slugs = {brewer_slug(u["head"]) for u in units}
+
+    def see_target(t):
+        t = re.sub(r"^under\s+", "", t.strip().rstrip(".").strip())
+        for s in (brewer_slug(t), brewer_slug(t)[:-1] if t.endswith("s") else None):
+            if s and s in slugs:
+                return s
+        return None
+    out, see_ok, see_miss, scrip, kings = [], 0, 0, 0, 0
+    for u in units:
+        text = "\n\n".join(u["paras"])
+        links = []
+        for m in BREWER_SEE.finditer(text):
+            for tgt in re.split(r";|,| and ", m.group(1)):
+                s = see_target(tgt)
+                if s:
+                    if not any(l.get("target") == f"{slug}:{s}" for l in links):
+                        links.append({"kind": "see", "target": f"{slug}:{s}"})
+                    see_ok += 1
+                else:
+                    see_miss += 1
+        sl, unk = brewer_scripture(text)
+        links += sl; scrip += len(sl); kings += unk
+        out.append({"id": f"{slug}:{brewer_slug(u['head'])}",
+                    "ref": f"Brewer, s.v. {u['head']}",
+                    "text": text, "links": links,
+                    "lex": {"headword": u["head"], "page": u["page"], "pages": u["pages"]}})
+    return {"slug": slug,
+            "title": "Dictionary of Phrase and Fable",
+            "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "lexicon-pdf-text",
+                       "sha256": data["source_sha256"],
+                       "pdf_pages": data["pages"]},
+            "scheme": {"citation": "headword (Brewer, s.v.)", "resolution": "entry",
+                       "honesty": "entries segmented by rule from an exact (not OCR) text; "
+                                  "a headword the rule misses stays inside the entry before it",
+                       "note": f"{len(out):,} entries. Text is the born-digital PDF typeset "
+                               "(2003, htmldoc) of the 1894 edition, not proofread against a "
+                               "scan; check copy archive.org dictionaryofphra01brew (1895). "
+                               f"{offrun} headword-shaped lines fell off the alphabetical run "
+                               "or had no body, and were kept as text of the preceding entry. "
+                               "Italics are not "
+                               "carried. Compound hyphens print as em dashes in this "
+                               "transcription (first—rate) and are left as printed; "
+                               f"{dashes} doubled em dashes (ranges) set as en dashes. "
+                               f"{joined} paragraphs rejoined across page breaks. "
+                               f"'See' cross-references: {see_ok:,} resolved to an entry, "
+                               f"{see_miss:,} name no headword this build found -- mostly 'above', "
+                               "'below', 'Notes and Queries', years, page refs -- and are not linked. "
+                               f"{scrip:,} scripture citations parsed to kjv: verse ids "
+                               "(chapter checked against KJV chapter counts; verse not checked); "
+                               f"{kings} left out: no book number where one is needed (\"Kings\"), "
+                               "or a chapter past the book's last (typos, Apocrypha). "
+                               "Unit ids are headword slugs; repeated headwords take ~2, ~3 "
+                               "in page order. Front matter before the first headword: "
+                               f"{len(front)} paragraphs, not units."},
+            "units": out}
+
+
 RE_STEP_ROW = re.compile(r"^[GH]\d{4}\t")
 
 
@@ -827,6 +1117,29 @@ def _flush_verse(units, slug, abbr, div, lines):
 #                 names was sitting inside unit Beo XIV.217.
 
 BODY_RULES = {
+    # A Christmas Carol (PG 46): the title page and Leech credit come before the
+    # Preface, and the Contents (five "Stave" lines) sits between the Preface's
+    # signature and Stave I. Neither is Dickens's text.
+    "dickens-carol": {
+        "start_at": r"^PREFACE$",
+        "stop_at": r"^End of (the )?Project Gutenberg",   # the 2004 file's closing line
+        "scrub": [r"(?m)^CONTENTS[ \t]*\n(?:[ \t]*\n)*(?:Stave[^\n]*\n)+"],
+    },
+    # G. A. Henty (2026-10-16). Each keeps its Preface (Henty's own letter to "my dear lads") and stops at
+    # THE END. A chapter heading is two paragraphs in the source ("CHAPTER I." then "THE KING OF THE
+    # REBU."); `rewrite` joins them into one heading line, AFTER the scrubs, so the Contents scrub can
+    # still find the bare "CHAPTER I." line it stops at.
+    "henty-bubastes": {
+        "start_at": r"^PREFACE\.?$", "stop_at": r"^THE END\.?$",
+        "scrub": [r"(?m)^CONTENTS\.[ \t]*\n.*?(?=^CHAPTER I\.[ \t]*$)",   # the Contents (after the Preface here)
+                  r"\[Illustration[^\]]*\]"],
+        "rewrite": [(r"(?m)^[ \t]*(CHAPTER [IVXLC]+\.)[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1 \2")],
+    },
+    "henty-freedom": {
+        "start_at": r"^PREFACE\.?$", "stop_at": r"^THE END\.?$",   # the Contents comes before the Preface: cut
+        "scrub": [r"\[Illustration[^\]]*\]"],
+        "rewrite": [(r"(?m)^[ \t]*(Chapter [IVXLC]+)[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1. \2")],
+    },
     "beowulf": {
         "start_at": r"^I\.\s*$", "start_min_line": 900,
         "stop_at":  r"^ADDENDA\.",
@@ -889,6 +1202,8 @@ def apply_body_rules(raw, slug):
     text = "\n".join(lines)
     for pat in r.get("scrub", []):
         text = re.compile(pat, re.S).sub(" ", text)
+    for pat, rep in r.get("rewrite", []):     # (2026-10-16) reshape, never remove: e.g. join a two-line heading
+        text = re.compile(pat).sub(rep, text)
     lines = text.splitlines()
     note = (f"apparatus removed by BODY_RULES: kept {len(lines)} of {n0} source "
             f"lines; the remainder is front matter, glossary, appendix or "
@@ -932,23 +1247,55 @@ def convert_gutenberg_verse(path, slug, title, author, abbr, divre, cantica=None
                                   "(translation lineation), 12-line blocks"},
             "units": units}
 
+# A book whose headings make poor ids ("STAVE I:  MARLEY'S GHOST" would give
+# `dickens-carol:STAVE_I:_MARLEY'S_GHOST.3`, a colon and an apostrophe inside
+# an id) names its divisions here: heading -> (label for the ref, id key).
+# A book not listed keeps the default (heading, heading with "_" for " "),
+# so every existing id is unchanged.
+def _carol_division(h):
+    m = re.match(r"^STAVE\s+([IVX]+):\s*(.+)$", h, re.I)
+    if not m:
+        return "Preface", "preface"
+    small = {"a", "an", "and", "of", "the", "to", "in"}
+    words = m.group(2).lower().split()
+    title = " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
+    return f"Stave {m.group(1).upper()}: {title}", f"stave{sh_roman(m.group(1))}"
+
+# Title case for a heading printed in capitals ("HOME AT LAST." -> "Home at Last"); small words stay small.
+def _title_case(s):
+    small = {"a", "an", "and", "of", "the", "to", "in", "at", "on", "for", "by", "with", "from", "or"}
+    words = re.sub(r"\s+", " ", s).strip().rstrip(".").lower().split()
+    return " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
+
+# Henty (2026-10-16): "CHAPTER I. THE KING OF THE REBU." -> ("Chapter I: The King of the Rebu", "ch1").
+def _henty_division(h):
+    m = re.match(r"^CHAPTER\s+([IVXLC]+)\.?\s*(.*)$", h, re.I)
+    if not m:
+        return "Preface", "preface"
+    t = _title_case(m.group(2))
+    return (f"Chapter {m.group(1).upper()}: {t}" if t else f"Chapter {m.group(1).upper()}"), f"ch{sh_roman(m.group(1))}"
+
+PROSE_DIVISIONS = {"dickens-carol": _carol_division,
+                   "henty-bubastes": _henty_division, "henty-freedom": _henty_division}
+
 def convert_gutenberg_prose(path, slug, title, author, chapre):
     """Prose: paragraphs grouped under detected chapter headings."""
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
     raw, apparatus_note = apply_body_rules(raw, slug)
     CH = re.compile(chapre) if chapre else None
-    units, chap, pnum = [], None, 0
+    units, chap, key, pnum = [], None, None, 0
     for para in re.split(r"\n\s*\n", raw):
         p = re.sub(r"\s+", " ", para).strip()
         if not p:
             continue
         if CH and CH.match(p) and len(p) < 90:
             chap = re.sub(r"(\s*~)+$", "", p).rstrip(".")   # "Lamp-Posts ~ ~ ~" leaders
+            chap, key = PROSE_DIVISIONS[slug](chap) if slug in PROSE_DIVISIONS else (chap, chap.replace(' ', '_'))
             pnum = 0
             continue
         pnum += 1
         ref = f"{chap}, par. {pnum}" if chap else f"par. {pnum}"
-        cid = f"{slug}:{(chap or 'x').replace(' ', '_')}.{pnum}"
+        cid = f"{slug}:{key if chap else 'x'}.{pnum}"
         units.append({"id": cid, "ref": ref, "text": p, "links": []})
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
@@ -956,6 +1303,151 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
             "scheme": {"apparatus": apparatus_note, "citation": "chapter + paragraph", "resolution": "paragraph",
                        "honesty": "chapter headings detected; paragraph running within chapter"},
             "units": units}
+
+# ---------------------------------------------------------------- scans (archive.org OCR)
+# Alfred J. Church's "for Boys and Girls" Homer (2026-10-16) exists only as library scans. Their OCR
+# text carries every printed page's furniture: a page number, a running head in capitals (the book's
+# title on one page, the chapter's on the facing one), plate captions in capitals, and scanner specks.
+# The rules, in order:
+#   - the work starts at the first "CHAPTER" line (everything before is title page, Contents, plates);
+#   - a "CHAPTER <n>" line opens a chapter the FIRST time that number is seen; its title is the lines
+#     in capitals that follow it, up to the first line with a lower-case letter, another CHAPTER line,
+#     or the book's own running head (any line naming "BOYS" or "GIRLS"). A repeat of the same number
+#     (the half-title and the plate pages print the heading twice more) is skipped;
+#   - `extra_heads` names unnumbered sections ("THE END OF TROY"), opened the same way;
+#   - every other line with no lower-case letter is furniture and is dropped: page numbers, running
+#     heads, captions, specks. So is a line of four characters or fewer without two letters together;
+#   - paragraphs end at a blank line, and also at a line that ends a sentence while falling well short
+#     of the measure (under 3/4 of the median line): the scan's text often runs a page's paragraphs
+#     together with no blank line between them, and a paragraph's last line is the short one;
+#   - a heading's OCR specks (a trailing "*" or "»") are trimmed, and `heading_fixes` mends a misread
+#     word in a heading only (the text itself is left as read);
+#   - paragraphs are the blocks that remain. A page break cuts paragraphs mid-sentence, so a
+#     block that does not end a sentence (. ! ? or a closing quote or bracket) is joined to the next;
+#   - a line ending in "-" before a lower-case letter is a word broken at the margin and is rejoined.
+# What this cannot do (stated in the book's honesty field): correct the OCR's own misreadings, keep a
+# real one-word line in capitals ("O!"), or tell a paragraph that ends exactly at a page's foot from one
+# the page break cut. It is unproofread OCR and says so.
+RE_OCR_CHAPTER = re.compile(r"^CHAPTER\s+([IVXLC1l]+)\s*\.?$")
+
+def _ocr_join(lines):
+    out = ""
+    for ln in lines:
+        ln = re.sub(r"\s+", " ", ln).strip()
+        if not ln:
+            continue
+        if out.endswith("-") and ln[:1].islower():
+            out = out[:-1] + ln
+        else:
+            out = (out + " " + ln) if out else ln
+    return out
+
+def convert_archive_ocr_prose(path, slug, title, author, ident, extra_heads=(), heading_fixes=None):
+    raw = open(path, encoding="utf-8", errors="replace").read()
+    lines = raw.splitlines()
+    start = next((i for i, l in enumerate(lines) if RE_OCR_CHAPTER.match(re.sub(r"\s+", " ", l.strip()))), 0)
+    body = sorted(len(re.sub(r"\s+", " ", l.strip())) for l in lines[start:] if re.search(r"[a-z].*[a-z].*[a-z]", l))
+    short = 0.75 * body[len(body) // 2] if body else 0
+    TERMINAL = re.compile(r"[.!?\"\u201d\u2019')\]]$")
+    def fix_heading(t):
+        t = re.sub(r"[^A-Za-z]+$", "", t).strip()
+        for bad, good in (heading_fixes or {}).items():
+            t = re.sub(rf"\b{re.escape(bad)}\b", good, t)
+        return t
+    extras = {re.sub(r"\s+", " ", h).upper(): h for h in extra_heads}
+    divisions, seen = [], set()      # [ (label, key, [paragraph blocks]) ]
+    block, blocks = [], None
+    i, dropped = start, 0
+    def flush():
+        nonlocal block
+        if block and blocks is not None:
+            blocks.append(block)
+        block = []
+    while i < len(lines):
+        s = re.sub(r"\s+", " ", lines[i].strip())
+        m = RE_OCR_CHAPTER.match(s)
+        if m or s.upper() in extras:
+            flush()
+            if m:
+                num = sh_roman(m.group(1).replace("1", "I").replace("l", "I"))
+                tag = f"ch{num}"
+            else:
+                tag = re.sub(r"[^a-z]+", "-", s.lower()).strip("-")
+            j, tparts = i + 1, []
+            if m:
+                while j < len(lines):
+                    t = re.sub(r"\s+", " ", lines[j].strip())
+                    if not t:
+                        j += 1; continue
+                    if re.search(r"[a-z]", t) or RE_OCR_CHAPTER.match(t) or re.search(r"BOYS|GIRLS", t):
+                        break
+                    tparts.append(t); j += 1
+            if tag not in seen:
+                seen.add(tag)
+                if m:
+                    tt = fix_heading(_title_case(" ".join(tparts)))
+                    label = f"Chapter {sh_roman_to_str(num)}: {tt}" if tt else f"Chapter {sh_roman_to_str(num)}"
+                else:
+                    label = _title_case(extras[s.upper()])
+                blocks = []
+                divisions.append((label, tag, blocks))
+            i = j if m else i + 1
+            continue
+        if not s:
+            flush()
+        elif not re.search(r"[a-z]", s) or (len(s) <= 4 and not re.search(r"[A-Za-z]{2}", s)):
+            dropped += 1                  # page number, running head, caption, speck
+        else:
+            block.append(s)
+            if TERMINAL.search(s) and len(s) < short:
+                flush()                   # a short last line: the paragraph ends here
+        i += 1
+    flush()
+    units = []
+    for label, key, bl in divisions:
+        paras = []
+        for b in bl:
+            text = _ocr_join(b)
+            if paras and (not TERMINAL.search(paras[-1]) or text[:1].islower()):
+                paras[-1] = _ocr_join([paras[-1], text])   # a page break cut this paragraph
+            else:
+                paras.append(text)
+        for n, p in enumerate(paras, 1):
+            units.append({"id": f"{slug}:{key}.{n}", "ref": f"{label}, par. {n}", "text": p, "links": []})
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "archive-ocr",
+                       "archive_id": ident, "sha256": sha256(path)},
+            "scheme": {"apparatus": f"page furniture removed by rule ({dropped} lines: page numbers, running heads, "
+                                    f"plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+                       "citation": "chapter + paragraph", "resolution": "paragraph",
+                       "honesty": f"UNPROOFREAD OCR of a library scan (archive.org {ident}): the scanner's misreadings "
+                                  f"stand; a paragraph that ended exactly at a page's foot may be joined to the next "
+                                  f"or vice versa; chapter headings read from the scan, paragraph running within chapter"},
+            "units": units}
+
+def convert_unscanned(path, slug, title, author, ident):
+    """A scan the Unscanner (unscanner/, 2026-10-16) re-read: its units.json, copied into the corpus
+    with `python3 -m unscanner run <slug> --to-corpus`. Preferred over the Archive's djvu text when
+    present, because its paragraphs come from the printed indentation rather than a guess, and each
+    unit names the scan pages and printed page labels it came from. The scheme and honesty fields are
+    the Unscanner's own, carried through unchanged."""
+    book = json.load(open(path, encoding="utf-8"))
+    units = [{"id": u["id"], "ref": u["ref"], "text": u["text"], "links": u.get("links", []),
+              "pages": u.get("pages", []), "printed": u.get("printed", [])} for u in book["units"]]
+    src = dict(book.get("source", {}))
+    src.update({"path": os.path.relpath(path, CORPUS), "format": "unscanner", "archive_id": ident,
+                "sha256": sha256(path)})
+    return {"slug": slug, "title": title, "author": author, "source": src, "scheme": book["scheme"],
+            "units": units}
+
+def sh_roman_to_str(n):
+    vals = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"),
+            (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
+    out = ""
+    for v, r in vals:
+        while n >= v:
+            out += r; n -= v
+    return out
 
 RE_CONTENTS_HEAD = re.compile(r"^\s*(TABLE OF )?CONTENTS\.?\s*$", re.I | re.M)
 RE_CONTENTS_NUM = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:[IVXLC]+|\d+)?\s*[.:)]?\s*", re.I)
@@ -1447,6 +1939,18 @@ GUTEN_PROSE = {
                   r"^(TABLET|COLUMN|CHAPTER|PART)\b"),
     "treasure_island": ("Treasure Island", "Robert Louis Stevenson",
                         r"^(PART\s+\w+|Chapter\s+\d+|[0-9]+\.)"),
+    # Upper case only: the Contents spells the staves in title case and is scrubbed.
+    "dickens-carol": ("A Christmas Carol", "Charles Dickens", r"^(PREFACE|STAVE\s+[IVX]+:.*)$"),
+    "henty-bubastes": ("The Cat of Bubastes: A Tale of Ancient Egypt", "G. A. Henty",
+                       r"^(PREFACE\.?|CHAPTER\s+[IVXLC]+\.\s+\S.*)$"),
+    "henty-freedom": ("In Freedom's Cause: A Story of Wallace and Bruce", "G. A. Henty",
+                      r"^(PREFACE\.?|Chapter\s+[IVXLC]+\.\s+\S.*)$"),
+}
+# Scans (fetch_sources.ARCHIVE_OCR): slug -> (title, author, unnumbered section headings)
+ARCHIVE_PROSE = {
+    "church-iliad-boys": ("The Iliad for Boys and Girls", "Alfred J. Church", ("THE END OF TROY",),
+                          {"Phcenix": "Phoenix", "Phc:nix": "Phoenix"}),     # heading OCR fixes (rule 2: by rule, never by hand)
+    "church-odyssey-boys": ("The Odyssey for Boys and Girls", "Alfred J. Church", (), {}),
 }
 
 # ---------------------------------------------------------------- driver
@@ -1473,7 +1977,8 @@ def main():
     for slug, fn, conv in (("strongs-hebrew", "strongs-hebrew.xml", convert_strongs_hebrew),
                            ("strongs-greek",  "strongs-greek.xml",  convert_strongs_greek),
                            ("bdb-hebrew",     "bdb-hebrew.tsv",     convert_bdb),
-                           ("thayer",         "thayer-pages.json",  convert_thayer)):
+                           ("thayer",         "thayer-pages.json",  convert_thayer),
+                           ("brewer",         "brewer-1894.paras.json", convert_brewer)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
@@ -1521,6 +2026,18 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, c=chapre:
                          convert_gutenberg_prose(p, s, t, a, c)))
+    import fetch_sources as _fsa
+    for slug, (title, author, extra, hfix) in ARCHIVE_PROSE.items():
+        path = os.path.join(CORPUS, "archive", slug + ".txt")
+        unscanned = os.path.join(CORPUS, "archive", slug + ".unscanned.json")
+        if os.path.exists(unscanned):           # the Unscanner's reading wins over the Archive's text
+            ident = _fsa.ARCHIVE_OCR[slug][0]
+            jobs.append((slug, lambda p=unscanned, s=slug, t=title, a=author, i=ident:
+                         convert_unscanned(p, s, t, a, i)))
+        elif os.path.exists(path):
+            ident = _fsa.ARCHIVE_OCR[slug][0]
+            jobs.append((slug, lambda p=path, s=slug, t=title, a=author, i=ident, x=extra, h=hfix:
+                         convert_archive_ocr_prose(p, s, t, a, i, x, h)))
     # Author shelves declared in fetch_sources.py (Chesterton, 2026-09-29):
     # headings come from each book's own Contents, not a hand-written regex.
     import fetch_sources as _fs

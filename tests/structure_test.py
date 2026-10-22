@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # fable_review: pending
 """Offline test suite for the structure layer (canon-corpus). No network,
 no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
@@ -435,6 +436,179 @@ check("shelf: a book with no Contents falls back to the CAPS rule",
       st.contents_chapre.__doc__ and st.CAPS_HEADING in _rx)
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
+
+# A Christmas Carol (2026-10-16): the stave headings become clean ids and refs,
+# the Contents and the title page are not text, and the default id rule (the
+# Chesterton shelf above) is untouched. Fixture is invented text in PG 46's shape.
+_CAR = ("A CHRISTMAS CAROL\n\nby Charles Dickens\n\n\nPREFACE\n\nI HAVE endeavoured.\n\nC. D.\n\n\n"
+        "CONTENTS\n\nStave   I: Marley's Ghost\nStave  II: The First of the Three Spirits\n\n\n"
+        "STAVE I:  MARLEY'S GHOST\n\nMARLEY was dead.\n\nMind!\n\n"
+        "STAVE II:  THE FIRST OF THE THREE SPIRITS\n\nWhen Scrooge awoke.\n\n"
+        "End of the Project Gutenberg EBook of A Christmas Carol\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_CAR)
+_saved_corpus = st.CORPUS
+st.CORPUS = os.path.dirname(_fh.name)
+_cb = st.convert_gutenberg_prose(_fh.name, "dickens-carol", *st.GUTEN_PROSE["dickens-carol"])
+st.CORPUS = _saved_corpus
+os.unlink(_fh.name)
+check("carol: staves are clean ids, titled refs, no Contents or title page",
+      [(u["id"], u["ref"]) for u in _cb["units"]] == [
+          ("dickens-carol:preface.1", "Preface, par. 1"), ("dickens-carol:preface.2", "Preface, par. 2"),
+          ("dickens-carol:stave1.1", "Stave I: Marley's Ghost, par. 1"),
+          ("dickens-carol:stave1.2", "Stave I: Marley's Ghost, par. 2"),
+          ("dickens-carol:stave2.1", "Stave II: The First of the Three Spirits, par. 1")])
+check("carol: the default division ids are unchanged for every other book",
+      [u["id"] for u in _eb["units"]] == ["t:On_Lamps.1", "t:On_Lamps.2", "t:The_Mock_Goose.1"])
+
+# G. A. Henty (2026-10-16): a two-paragraph heading ("CHAPTER I." / "A TITLE.") becomes one titled
+# division; the Contents (after the Preface in one book, before it in the other) is not text; the
+# Preface is kept. Fixtures are invented text in the two PG files' shapes.
+def _prose(slug, body):
+    global _fh
+    with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+        _fh.write(body)
+    saved = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+    try:
+        return st.convert_gutenberg_prose(_fh.name, slug, *st.GUTEN_PROSE[slug])
+    finally:
+        st.CORPUS = saved; os.unlink(_fh.name)
+_hb = _prose("henty-bubastes", "TITLE PAGE\n\nPREFACE.\n\nMy dear lads, a letter.\n\nYours, G. A. H.\n\n\nCONTENTS.\n\n\n"
+             " CHAPTER I.                   PAGE\n The First Thing                7\n\n CHAPTER II.\n The Second    26\n\n\n"
+             "CHAPTER I.\n\nTHE FIRST THING.\n\nA paragraph.\n\nAnother.\n\nCHAPTER II.\n\nHOME AT LAST.\n\nThe end came.\n\nTHE END.\n\nAfter.\n")
+check("henty: preface kept, Contents gone, two-line headings become titled chapters",
+      [(u["id"], u["ref"]) for u in _hb["units"]] == [
+          ("henty-bubastes:preface.1", "Preface, par. 1"), ("henty-bubastes:preface.2", "Preface, par. 2"),
+          ("henty-bubastes:ch1.1", "Chapter I: The First Thing, par. 1"), ("henty-bubastes:ch1.2", "Chapter I: The First Thing, par. 2"),
+          ("henty-bubastes:ch2.1", "Chapter II: Home at Last, par. 1")])
+_hf = _prose("henty-freedom", "CONTENTS\n\n   I  Glen One\n  II  Glen Two\n\n\nPREFACE.\n\nMy dear lads.\n\n\n"
+             "Chapter I\n\nGlen One\n\n\nFirst words.\n\nChapter II\n\nThe King's Blood Hound\n\nMore words.\n\nTHE END\n")
+check("henty: title-case headings too; a Contents before the Preface is cut",
+      [(u["id"], u["ref"]) for u in _hf["units"]] == [
+          ("henty-freedom:preface.1", "Preface, par. 1"), ("henty-freedom:ch1.1", "Chapter I: Glen One, par. 1"),
+          ("henty-freedom:ch2.1", "Chapter II: The King's Blood Hound, par. 1")])
+
+# Alfred J. Church from archive.org OCR (2026-10-16): page furniture goes, headings repeated on the
+# half-title and plate pages open a chapter only once, a page break's cut paragraph is rejoined, a
+# word broken at the margin is mended, a short last line ends a paragraph, unnumbered sections open
+# by name, and a heading's speck is trimmed. Invented text in the scans' shape.
+_OCR = ("TITLE  PAGE\n\nCONTENTS\n\nI.  THE  FIRST  .  .  15\n\n"
+        "CHAPTER    I\nTHE    FIRST    TALE\n\n\nCHAPTER    I\nTHE    FIRST    TALE\n\n\n"
+        "THE    BOOK    FOR    BOYS\nAND    GIRLS\n\n\nCHAPTER    I\n\nTHE    FIRST    TALE   *\n\n"
+        "There  was  a  long  line  of  ships  upon  the\nshore  and  they  wept.\n"
+        "Then  the  king  spoke  to  them  all  and  he\nsaid  that  the  ships  must  go  over  the\n\n15\n\n\n"
+        "THE  BOOK  FOR  BOYS  AND  GIRLS\n\nj  j\n\nsea  to  the  far  and  distant  coun-\n"
+        "try  of  the  Trojans  and  so  they  all  did.\n\n"
+        "16\n\n\nTHE   FIRST   TALE\n\nThey  came  home  at  the  last  and  were  safe\nand  sound.\n\n"
+        "CHAPTER    II\n\nOF    PHCENIX\n\nA  second  tale  begins  here  and  goes  on.\n\n"
+        "THE  END  OF  TROY\n\nTHE  END  OF  TROY\n\nThe  last  words  are  these.\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_OCR)
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_ob = st.convert_archive_ocr_prose(_fh.name, "t", "T", "A", "x", ("THE END OF TROY",), {"Phcenix": "Phoenix"})
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+check("ocr: chapters once each, titled, specks trimmed, heading fixed, unnumbered section by name",
+      [(u["id"], u["ref"]) for u in _ob["units"]] == [
+          ("t:ch1.1", "Chapter I: The First Tale, par. 1"), ("t:ch1.2", "Chapter I: The First Tale, par. 2"),
+          ("t:ch1.3", "Chapter I: The First Tale, par. 3"),
+          ("t:ch2.1", "Chapter II: Of Phoenix, par. 1"), ("t:the-end-of-troy.1", "The End of Troy, par. 1")])
+check("ocr: a short last line ends a paragraph; running heads, page numbers and specks are gone",
+      _ob["units"][0]["text"] == "There was a long line of ships upon the shore and they wept."
+      and _ob["units"][1]["text"].startswith("Then the king"))
+check("ocr: a paragraph cut by a page break is one paragraph, and a word broken at the margin is mended",
+      _ob["units"][1]["text"].endswith("go over the sea to the far and distant country of the Trojans and so they all did."))
+check("ocr: the book says it is unproofread OCR", "UNPROOFREAD OCR" in _ob["scheme"]["honesty"])
+
+# ---------------------------------------------------------------- the Unscanner's reading of a scan
+_UN = {"slug": "t", "title": "T", "author": "A", "source": {"format": "unscanner", "font_match": "X"},
+       "scheme": {"apparatus": "a", "citation": "chapter + paragraph", "resolution": "paragraph",
+                  "honesty": "UNPROOFREAD OCR (tesseract) of a library scan"},
+       "units": [{"id": "t:ch1.1", "ref": "Chapter I: Of Things, par. 1", "text": "Once.", "links": [],
+                  "pages": [21, 22], "printed": ["15", "16"]}]}
+with _tf.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as _fh:
+    _json.dump(_UN, _fh)
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_ub = st.convert_unscanned(_fh.name, "t", "T", "A", "x")
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+check("unscanned: units, their scan pages and printed labels, and the Unscanner's honesty carried through",
+      _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
+      and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
+
+# ---------------------------------------------------------------- Brewer (1894)
+# Fixture shaped like extract_brewer.py's output. Every line is a case the
+# live build met (2026-10-19), written fresh -- not Brewer's text.
+_BR = {"source_sha256": "x", "pages": 3, "toc": [["A", 1], ["B", 3]], "furniture_lines": 0,
+       "paras": [
+    {"p": 1, "top": True, "lines": ["A"]},
+    {"p": 1, "top": False, "lines": ["The first letter."]},
+    {"p": 1, "top": False, "lines": ["A.B"]},
+    {"p": 1, "top": False, "lines": ["(See Abel.)"]},
+    {"p": 1, "top": False, "lines": ["Abel"]},
+    {"p": 1, "top": False, "lines": ["A shepherd (Gen. iv. 2——4). Also Psalm cliv. 1, and", "Kings vi. 2."]},
+    {"p": 1, "top": False, "lines": ["Fresh as a morning breeze in spring"]},
+    {"p": 2, "top": True, "lines": ["and so continued over the page."]},
+    {"p": 2, "top": False, "lines": ["Cato was so called. (B.C. 234.)"]},
+    {"p": 2, "top": False, "lines": ["Acorns"]},
+    {"p": 2, "top": False, "lines": ["Oak fruit. (See above.) (See under Abels.)"]},
+    {"p": 2, "top": False, "lines": ["Acre"]},
+    {"p": 3, "top": True, "lines": ["Bacon"]},
+    {"p": 3, "top": False, "lines": ["Bring home the bacon. 1 Sam. ii. 3."]},
+    {"p": 3, "top": False, "lines": ["Bacon"]},
+    {"p": 3, "top": False, "lines": ["The philosopher."]}]}
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as _fb:
+    _json.dump(_BR, _fb)
+_sc = st.CORPUS; st.CORPUS = os.path.dirname(_fb.name)
+_bb = st.convert_brewer(_fb.name); st.CORPUS = _sc; os.unlink(_fb.name)
+_bu = {u["id"]: u for u in _bb["units"]}
+check("brewer: headwords found; abbreviation (no full stop) kept; verse line and sentence are not headwords",
+      [u["id"] for u in _bb["units"]] == ["brewer:a", "brewer:a-b", "brewer:abel", "brewer:acorns",
+                                          "brewer:bacon", "brewer:bacon"])
+check("brewer: a missed line stays in the entry before it -- nothing lost",
+      "Fresh as a morning breeze" in _bu["brewer:abel"]["text"]
+      and "Cato was so called" in _bu["brewer:abel"]["text"])
+check("brewer: page-top paragraph rejoined to an unfinished one; entry spans both pages",
+      "spring and so continued" in _bu["brewer:abel"]["text"] and _bu["brewer:abel"]["lex"]["pages"] == [1, 2])
+check("brewer: a bodiless headword ('Acre') is folded back as text, not a unit",
+      "brewer:acre" not in _bu and _bu["brewer:acorns"]["text"].endswith("Acre"))
+_sl = [l for l in _bu["brewer:abel"]["links"] if l["kind"] == "scripture"]
+check("brewer: scripture parsed (range kept as end); Psalm 154 and number-less Kings refused",
+      [(l["target"], l.get("end")) for l in _sl] == [("kjv:Gen.4.2", "Gen.4.4")]
+      and "Gen. iv. 2–4" in _bu["brewer:abel"]["text"])
+check("brewer: numbered book takes its number (1 Sam. -> 1Sam)",
+      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][4]["links"]))
+check("brewer: 'See X' resolves (also 'under', plural); 'see above' is not a link",
+      _bu["brewer:a-b"]["links"] == [{"kind": "see", "target": "brewer:abel"}]
+      and _bu["brewer:acorns"]["links"] == [{"kind": "see", "target": "brewer:abel"}])
+check("brewer: honesty says segmented by rule, misses kept in text",
+      _bb["scheme"]["resolution"] == "entry" and "segmented by rule" in _bb["scheme"]["honesty"])
+
+# The shipped copy of a local source (2026-10-19): a fresh clone has no PDF,
+# so fetch_sources unpacks data/lexicons/<x>.gz -- and refuses a wrong one.
+import gzip as _gz, hashlib as _hl
+fs = load("fetch_sources")
+_td = tempfile.mkdtemp()
+_raw = b'{"paras":[]}'
+with _gz.open(os.path.join(_td, "s.gz"), "wb") as _g: _g.write(_raw)
+_spec = ("x", "recipe", "lexicons/out.json", "s.gz", _hl.sha256(_raw).hexdigest(), "n")
+_c = os.path.join(_td, "corpus")
+_r1 = fs.unpack_local(_spec, corpus=_c, root=_td)
+check("local source: shipped copy unpacked byte-for-byte, then left alone",
+      open(os.path.join(_c, "lexicons/out.json"), "rb").read() == _raw and "sha256 checked" in _r1
+      and fs.unpack_local(_spec, corpus=_c, root=_td) == "present")
+os.unlink(os.path.join(_c, "lexicons/out.json"))
+try:
+    fs.unpack_local(_spec[:4] + ("0" * 64, "n"), corpus=_c, root=_td); _refused = False
+except RuntimeError:
+    _refused = True
+check("local source: a shipped copy that is not the pinned bytes is refused",
+      _refused and not os.path.exists(os.path.join(_c, "lexicons/out.json")))
+check("local source: brewer's pins are declared (source PDF + unpacked paragraphs)",
+      len(fs.LOCAL_SOURCES["brewer"][0]) == 64 and len(fs.LOCAL_SOURCES["brewer"][4]) == 64
+      and fs.LOCAL_SOURCES["brewer"][3].startswith("data/lexicons/"))
+
+check("shipped working text: both Church Homers declared, pinned, shipped copies present",
+      all(len(fs.SHIPPED_WORKING_TEXT[x][4]) == 64 and os.path.exists(os.path.join(HERE, "..", fs.SHIPPED_WORKING_TEXT[x][3]))
+          for x in ("church-iliad-boys", "church-odyssey-boys")))
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

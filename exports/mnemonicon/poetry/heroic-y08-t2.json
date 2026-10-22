@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2188eaf9-9b72-5cbe-a1c9-c7adc3f7ca91",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Elixir",
+    "source": "George Herbert, The Temple (1633)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Teach me, my God and King,\n  In all things Thee to see,\nAnd what I do in anything,\n  To do it as for Thee.\n\n   *   *   *   *\n\nAll may of Thee partake:\n  Nothing can be so mean\nWhich with this tincture (for Thy sake)\n  Will not grow bright and clean.\n\nA servant with this clause\n  Makes drudgery divine:\nWho sweeps a room as for Thy laws,\n  Makes that and th' action fine.\n\nThis is the famous stone\n  That turneth all to gold;\nFor that which God doth touch and own\n  Cannot for less be told.",
+    "notes": "Heroic addendum (proposed), beside AO Year 8, Term 2.\nText: Golden Numbers: A Book of Verse for Youth, Project Gutenberg #34237.\nUS public domain: first published 1633 in The Temple, before 1931. The text is from Golden Numbers: A Book of Verse for Youth, Project Gutenberg #34237, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:george-herbert.the-elixir · wh-NSZQZE6GFW",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "vocational",
+      "year-8",
+      "george-herbert"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]
