@@ -1,0 +1,58 @@
+{
+ "corrections": [
+  {
+   "find": "twofold judgement",
+   "replace": "twofold judgment",
+   "count": 1,
+   "why": "the scan reads “judgment” (archive.org worksofjohnowen06owen, leaf 67, printed p. 54): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     67
+    ],
+    "page": [
+     "54"
+    ],
+    "ocr": "judgment",
+    "tesseract": "judgment"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "the judgement",
+   "replace": "the judgment",
+   "count": 1,
+   "why": "the scan reads “judgment” (archive.org worksofjohnowen06owen, leaf 67, printed p. 54): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     67
+    ],
+    "page": [
+     "54"
+    ],
+    "ocr": "judgment",
+    "tesseract": "judgment"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "the evidence",
+   "replace": "the evidences",
+   "count": 1,
+   "why": "the scan reads “evidences” (archive.org worksofjohnowen06owen, leaf 67, printed p. 54): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     67
+    ],
+    "page": [
+     "54"
+    ],
+    "ocr": "evidences",
+    "tesseract": "evidences"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

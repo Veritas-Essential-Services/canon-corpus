@@ -1,0 +1,130 @@
+{
+ "corrections": [
+  {
+   "find": "0f",
+   "replace": "OF",
+   "count": 1,
+   "why": "the scan reads “OF” (archive.org worksofjohnowe185013owen, leaf 64, printed p. 51): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     64
+    ],
+    "page": [
+     "51"
+    ],
+    "ocr": "OF",
+    "tesseract": "of"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "hazily",
+   "replace": "hardly",
+   "count": 1,
+   "why": "the scan reads “hardly” (archive.org worksofjohnowe185013owen, leaf 65, printed p. 52): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     65
+    ],
+    "page": [
+     "52"
+    ],
+    "ocr": "hardly",
+    "tesseract": "hardly"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and and",
+   "replace": "abound in abound in",
+   "count": 1,
+   "why": "the scan reads “abound in” (archive.org worksofjohnowe185013owen, leaf 75, printed p. 62): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     75
+    ],
+    "page": [
+     "62"
+    ],
+    "ocr": "abound in",
+    "tesseract": "abound in"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "troth",
+   "replace": "truth",
+   "count": 1,
+   "why": "the scan reads “truth” (archive.org worksofjohnowe185013owen, leaf 75, printed p. 62): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     75
+    ],
+    "page": [
+     "62"
+    ],
+    "ocr": "truth",
+    "tesseract": "truth"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "of net",
+   "replace": "of not",
+   "count": 1,
+   "why": "the scan reads “not” (archive.org worksofjohnowe185013owen, leaf 82, printed p. 69): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     82
+    ],
+    "page": [
+     "69"
+    ],
+    "ocr": "not",
+    "tesseract": "not"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "be double",
+   "replace": "be doubled",
+   "count": 1,
+   "why": "the scan reads “doubled” (archive.org worksofjohnowe185013owen, leaf 86, printed p. 73): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     86
+    ],
+    "page": [
+     "73"
+    ],
+    "ocr": "doubled",
+    "tesseract": "doubled"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "ungoldiness",
+   "replace": "ungodliness",
+   "count": 1,
+   "why": "the scan reads “ungodliness” (archive.org worksofjohnowe185013owen, leaf 89, printed p. 76): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185013owen",
+    "leaf": [
+     89
+    ],
+    "page": [
+     "76"
+    ],
+    "ocr": "ungodliness",
+    "tesseract": "ungodliness"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

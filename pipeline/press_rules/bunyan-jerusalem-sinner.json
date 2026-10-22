@@ -1,0 +1,1732 @@
+{
+ "corrections": [
+  {
+   "find": "gospel unto",
+   "replace": "gospel to",
+   "count": 1,
+   "why": "the scan reads “to” (archive.org worksofjohnbunya01buny, leaf 106, printed p. 69): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     106
+    ],
+    "page": [
+     "69"
+    ],
+    "ocr": "to",
+    "tesseract": "to"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "greatly backsliding",
+   "replace": "greatly backslidden",
+   "count": 1,
+   "why": "the scan reads “backslidden” (archive.org worksofjohnbunya01buny, leaf 106, printed p. 69): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     106
+    ],
+    "page": [
+     "69"
+    ],
+    "ocr": "backslidden",
+    "tesseract": "backslidden"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "thus shewed",
+   "replace": "thus showed",
+   "count": 1,
+   "why": "the scan reads “showed” (archive.org worksofjohnbunya01buny, leaf 108, printed p. 71): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     108
+    ],
+    "page": [
+     "71"
+    ],
+    "ocr": "showed",
+    "tesseract": "showed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "amongst",
+   "replace": "among",
+   "count": 1,
+   "why": "the scan reads “among” (archive.org worksofjohnbunya01buny, leaf 108, printed p. 71): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     108
+    ],
+    "page": [
+     "71"
+    ],
+    "ocr": "among",
+    "tesseract": "among"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "baptised",
+   "replace": "baptized",
+   "count": 1,
+   "why": "the scan reads “baptized” (archive.org worksofjohnbunya01buny, leaf 108, printed p. 71): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     108
+    ],
+    "page": [
+     "71"
+    ],
+    "ocr": "baptized",
+    "tesseract": "baptized"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "any where",
+   "replace": "to anywhere",
+   "count": 1,
+   "why": "the scan reads “to anywhere” (archive.org worksofjohnbunya01buny, leaf 111, printed p. 74): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "74"
+    ],
+    "ocr": "to anywhere",
+    "tesseract": "to anywhere"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "is farthest",
+   "replace": "is furthest",
+   "count": 1,
+   "why": "the scan reads “furthest” (archive.org worksofjohnbunya01buny, leaf 111, printed p. 74): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "74"
+    ],
+    "ocr": "furthest",
+    "tesseract": "furthest"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "saveth us",
+   "replace": "redeemed them",
+   "count": 1,
+   "why": "the scan reads “redeemed them” (archive.org worksofjohnbunya01buny, leaf 111, printed p. 74): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "74"
+    ],
+    "ocr": "redeemed them",
+    "tesseract": "redeemed them"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "lepers in",
+   "replace": "lepers of",
+   "count": 1,
+   "why": "the scan reads “of” (archive.org worksofjohnbunya01buny, leaf 111, printed p. 74): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "74"
+    ],
+    "ocr": "of",
+    "tesseract": "of"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and farthest",
+   "replace": "and furthest",
+   "count": 1,
+   "why": "the scan reads “furthest” (archive.org worksofjohnbunya01buny, leaf 111, printed p. 74): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "74"
+    ],
+    "ocr": "furthest",
+    "tesseract": "furthest"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "given off",
+   "replace": "given up",
+   "count": 1,
+   "why": "the scan reads “up” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "up",
+    "tesseract": "up"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "or pricking",
+   "replace": "or picking",
+   "count": 1,
+   "why": "the scan reads “picking” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "picking",
+    "tesseract": "picking"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "plaisters",
+   "replace": "plasters",
+   "count": 1,
+   "why": "the scan reads “plasters” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "plasters",
+    "tesseract": "plasters"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "begets of",
+   "replace": "begets for",
+   "count": 1,
+   "why": "the scan reads “for” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "for",
+    "tesseract": "for"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "shall turn",
+   "replace": "shall be",
+   "count": 1,
+   "why": "the scan reads “be” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "be",
+    "tesseract": "be"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "his salvations",
+   "replace": "his salvation",
+   "count": 1,
+   "why": "the scan reads “salvation” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "salvation",
+    "tesseract": "salvation"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "procured to",
+   "replace": "procured for",
+   "count": 1,
+   "why": "the scan reads “for” (archive.org worksofjohnbunya01buny, leaf 112, printed p. 75): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     112
+    ],
+    "page": [
+     "75"
+    ],
+    "ocr": "for",
+    "tesseract": "for"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "commendations",
+   "replace": "commendation",
+   "count": 1,
+   "why": "the scan reads “commendation” (archive.org worksofjohnbunya01buny, leaf 114, printed p. 77): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     114
+    ],
+    "page": [
+     "77"
+    ],
+    "ocr": "commendation",
+    "tesseract": "commendation"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "a blaspheme",
+   "replace": "a blasphemer",
+   "count": 1,
+   "why": "the scan reads “blasphemer” (archive.org worksofjohnbunya01buny, leaf 114, printed p. 77): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     114
+    ],
+    "page": [
+     "77"
+    ],
+    "ocr": "blasphemer",
+    "tesseract": "blasphemer"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Mich",
+   "replace": "Mi",
+   "count": 1,
+   "why": "the scan reads “Mi” (archive.org worksofjohnbunya01buny, leaf 114, printed p. 77): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     114
+    ],
+    "page": [
+     "77"
+    ],
+    "ocr": "Mi",
+    "tesseract": "mi"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "shewing",
+   "replace": "showing",
+   "count": 1,
+   "why": "the scan reads “showing” (archive.org worksofjohnbunya01buny, leaf 114, printed p. 77): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     114
+    ],
+    "page": [
+     "77"
+    ],
+    "ocr": "showing",
+    "tesseract": "showing"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "possessions",
+   "replace": "possession",
+   "count": 1,
+   "why": "the scan reads “possession” (archive.org worksofjohnbunya01buny, leaf 115, printed p. 78): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     115
+    ],
+    "page": [
+     "78"
+    ],
+    "ocr": "possession",
+    "tesseract": "possession"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "horribly verminous",
+   "replace": "horribly lousy and",
+   "count": 1,
+   "why": "the scan reads “lousy and” (archive.org worksofjohnbunya01buny, leaf 116, printed p. 79): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     116
+    ],
+    "page": [
+     "79"
+    ],
+    "ocr": "lousy and",
+    "tesseract": "lousy and"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "these verminous",
+   "replace": "these lousy",
+   "count": 1,
+   "why": "the scan reads “lousy” (archive.org worksofjohnbunya01buny, leaf 116, printed p. 79): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     116
+    ],
+    "page": [
+     "79"
+    ],
+    "ocr": "lousy",
+    "tesseract": "lousy"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "What is",
+   "replace": "What's",
+   "count": 1,
+   "why": "the scan reads “What's” (archive.org worksofjohnbunya01buny, leaf 116, printed p. 79): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     116
+    ],
+    "page": [
+     "79"
+    ],
+    "ocr": "What's",
+    "tesseract": "whats"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "commissions",
+   "replace": "commission",
+   "count": 1,
+   "why": "the scan reads “commission” (archive.org worksofjohnbunya01buny, leaf 116, printed p. 79): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     116
+    ],
+    "page": [
+     "79"
+    ],
+    "ocr": "commission",
+    "tesseract": "commission"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "am Magdalen",
+   "replace": "am Magdalene",
+   "count": 1,
+   "why": "the scan reads “Magdalene” (archive.org worksofjohnbunya01buny, leaf 117, printed p. 80): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     117
+    ],
+    "page": [
+     "80"
+    ],
+    "ocr": "Magdalene",
+    "tesseract": "magdalene"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "besettings",
+   "replace": "buffetings",
+   "count": 1,
+   "why": "the scan reads “buffetings” (archive.org worksofjohnbunya01buny, leaf 117, printed p. 80): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     117
+    ],
+    "page": [
+     "80"
+    ],
+    "ocr": "buffetings",
+    "tesseract": "buffetings"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "which times",
+   "replace": "which time",
+   "count": 1,
+   "why": "the scan reads “time” (archive.org worksofjohnbunya01buny, leaf 117, printed p. 80): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     117
+    ],
+    "page": [
+     "80"
+    ],
+    "ocr": "time",
+    "tesseract": "time"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "for helping",
+   "replace": "for helps for",
+   "count": 1,
+   "why": "the scan reads “helps for” (archive.org worksofjohnbunya01buny, leaf 117, printed p. 80): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     117
+    ],
+    "page": [
+     "80"
+    ],
+    "ocr": "helps for",
+    "tesseract": "helps for"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "they know",
+   "replace": "they knew",
+   "count": 1,
+   "why": "the scan reads “knew” (archive.org worksofjohnbunya01buny, leaf 118, printed p. 81): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     118
+    ],
+    "page": [
+     "81"
+    ],
+    "ocr": "knew",
+    "tesseract": "knew"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Jesus shews",
+   "replace": "Jesus shows",
+   "count": 1,
+   "why": "the scan reads “shows” (archive.org worksofjohnbunya01buny, leaf 118, printed p. 81): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     118
+    ],
+    "page": [
+     "81"
+    ],
+    "ocr": "shows",
+    "tesseract": "shows"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "made havock",
+   "replace": "made havoc",
+   "count": 1,
+   "why": "the scan reads “havoc” (archive.org worksofjohnbunya01buny, leaf 118, printed p. 81): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     118
+    ],
+    "page": [
+     "81"
+    ],
+    "ocr": "havoc",
+    "tesseract": "havoc"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "there has",
+   "replace": "there have",
+   "count": 1,
+   "why": "the scan reads “have” (archive.org worksofjohnbunya01buny, leaf 118, printed p. 81): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     118
+    ],
+    "page": [
+     "81"
+    ],
+    "ocr": "have",
+    "tesseract": "have"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and shewed",
+   "replace": "and showed",
+   "count": 1,
+   "why": "the scan reads “showed” (archive.org worksofjohnbunya01buny, leaf 119, printed p. 82): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     119
+    ],
+    "page": [
+     "82"
+    ],
+    "ocr": "showed",
+    "tesseract": "showed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "was shewed",
+   "replace": "was showed",
+   "count": 1,
+   "why": "the scan reads “showed” (archive.org worksofjohnbunya01buny, leaf 119, printed p. 82): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     119
+    ],
+    "page": [
+     "82"
+    ],
+    "ocr": "showed",
+    "tesseract": "showed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "into thy",
+   "replace": "into thine",
+   "count": 1,
+   "why": "the scan reads “thine” (archive.org worksofjohnbunya01buny, leaf 119, printed p. 82): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     119
+    ],
+    "page": [
+     "82"
+    ],
+    "ocr": "thine",
+    "tesseract": "thine"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "not shewn",
+   "replace": "not shown",
+   "count": 1,
+   "why": "the scan reads “shown” (archive.org worksofjohnbunya01buny, leaf 120, printed p. 83): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "83"
+    ],
+    "ocr": "shown",
+    "tesseract": "shown"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "11 Mark",
+   "replace": "11 Mar",
+   "count": 1,
+   "why": "the scan reads “Mar” (archive.org worksofjohnbunya01buny, leaf 120, printed p. 83): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "83"
+    ],
+    "ocr": "Mar",
+    "tesseract": "mar"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "29 Luke",
+   "replace": "29 Lu",
+   "count": 1,
+   "why": "the scan reads “Lu” (archive.org worksofjohnbunya01buny, leaf 120, printed p. 83): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "83"
+    ],
+    "ocr": "Lu",
+    "tesseract": "lu"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "things that they",
+   "replace": "things which he",
+   "count": 1,
+   "why": "the scan reads “which he” (archive.org worksofjohnbunya01buny, leaf 120, printed p. 83): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "83"
+    ],
+    "ocr": "which he",
+    "tesseract": "which he"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "2 Gen",
+   "replace": "2 Ge",
+   "count": 1,
+   "why": "the scan reads “Ge” (archive.org worksofjohnbunya01buny, leaf 120, printed p. 83): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "83"
+    ],
+    "ocr": "Ge",
+    "tesseract": "ge"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "hinder what",
+   "replace": "hinder that",
+   "count": 1,
+   "why": "the scan reads “that” (archive.org worksofjohnbunya01buny, leaf 121, printed p. 84): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     121
+    ],
+    "page": [
+     "84"
+    ],
+    "ocr": "that",
+    "tesseract": "that"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "when you",
+   "replace": "when ye",
+   "count": 1,
+   "why": "the scan reads “ye” (archive.org worksofjohnbunya01buny, leaf 122, printed p. 85): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     122
+    ],
+    "page": [
+     "85"
+    ],
+    "ocr": "ye",
+    "tesseract": "ye"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Corinthian",
+   "replace": "Corinthians",
+   "count": 1,
+   "why": "the scan reads “Corinthians” (archive.org worksofjohnbunya01buny, leaf 122, printed p. 85): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     122
+    ],
+    "page": [
+     "85"
+    ],
+    "ocr": "Corinthians",
+    "tesseract": "corinthians"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "theft",
+   "replace": "thefts",
+   "count": 1,
+   "why": "the scan reads “thefts” (archive.org worksofjohnbunya01buny, leaf 122, printed p. 85): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     122
+    ],
+    "page": [
+     "85"
+    ],
+    "ocr": "thefts",
+    "tesseract": "thefts"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "slew thee",
+   "replace": "slew the",
+   "count": 1,
+   "why": "the scan reads “the” (archive.org worksofjohnbunya01buny, leaf 122, printed p. 85): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     122
+    ],
+    "page": [
+     "85"
+    ],
+    "ocr": "the",
+    "tesseract": "the"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Sampson",
+   "replace": "Samson",
+   "count": 1,
+   "why": "the scan reads “Samson” (archive.org worksofjohnbunya01buny, leaf 122, printed p. 85): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     122
+    ],
+    "page": [
+     "85"
+    ],
+    "ocr": "Samson",
+    "tesseract": "samson"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "reasonings",
+   "replace": "reasons",
+   "count": 1,
+   "why": "the scan reads “reasons” (archive.org worksofjohnbunya01buny, leaf 123, printed p. 86): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     123
+    ],
+    "page": [
+     "86"
+    ],
+    "ocr": "reasons",
+    "tesseract": "reasons"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "it shews",
+   "replace": "it shows",
+   "count": 1,
+   "why": "the scan reads “shows” (archive.org worksofjohnbunya01buny, leaf 123, printed p. 86): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     123
+    ],
+    "page": [
+     "86"
+    ],
+    "ocr": "shows",
+    "tesseract": "shows"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and pare",
+   "replace": "and spare",
+   "count": 1,
+   "why": "the scan reads “spare” (archive.org worksofjohnbunya01buny, leaf 124, printed p. 87): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     124
+    ],
+    "page": [
+     "87"
+    ],
+    "ocr": "spare",
+    "tesseract": "spare"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "man shews",
+   "replace": "man shows",
+   "count": 1,
+   "why": "the scan reads “shows” (archive.org worksofjohnbunya01buny, leaf 124, printed p. 87): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     124
+    ],
+    "page": [
+     "87"
+    ],
+    "ocr": "shows",
+    "tesseract": "shows"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "oftentimes",
+   "replace": "oft times",
+   "count": 1,
+   "why": "the scan reads “oft times” (archive.org worksofjohnbunya01buny, leaf 124, printed p. 87): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     124
+    ],
+    "page": [
+     "87"
+    ],
+    "ocr": "oft times",
+    "tesseract": "oft times"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "a sport",
+   "replace": "a spurt",
+   "count": 1,
+   "why": "the scan reads “spurt” (archive.org worksofjohnbunya01buny, leaf 125, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     125
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "spurt",
+    "tesseract": "spurt"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "forgivenesses",
+   "replace": "forgiveness",
+   "count": 1,
+   "why": "the scan reads “forgiveness” (archive.org worksofjohnbunya01buny, leaf 125, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     125
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "forgiveness",
+    "tesseract": "forgiveness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "grey",
+   "replace": "gray",
+   "count": 1,
+   "why": "the scan reads “gray” (archive.org worksofjohnbunya01buny, leaf 125, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     125
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "gray",
+    "tesseract": "gray"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "betwixt he",
+   "replace": "betwixt hell",
+   "count": 1,
+   "why": "the scan reads “hell” (archive.org worksofjohnbunya01buny, leaf 125, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     125
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "hell",
+    "tesseract": "hell"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "incapable",
+   "replace": "not capable",
+   "count": 1,
+   "why": "the scan reads “not capable” (archive.org worksofjohnbunya01buny, leaf 125, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     125
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "not capable",
+    "tesseract": "not capable"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and mayst",
+   "replace": "and mayest",
+   "count": 1,
+   "why": "the scan reads “mayest” (archive.org worksofjohnbunya01buny, leaf 126, printed p. 89): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     126
+    ],
+    "page": [
+     "89"
+    ],
+    "ocr": "mayest",
+    "tesseract": "mayest"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "haste thou",
+   "replace": "haste thee",
+   "count": 1,
+   "why": "the scan reads “thee” (archive.org worksofjohnbunya01buny, leaf 126, printed p. 89): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     126
+    ],
+    "page": [
+     "89"
+    ],
+    "ocr": "thee",
+    "tesseract": "thee"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "with Magdalen",
+   "replace": "with Magdalene",
+   "count": 1,
+   "why": "the scan reads “Magdalene” (archive.org worksofjohnbunya01buny, leaf 126, printed p. 89): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     126
+    ],
+    "page": [
+     "89"
+    ],
+    "ocr": "Magdalene",
+    "tesseract": "magdalene"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "has shewed",
+   "replace": "has showed",
+   "count": 1,
+   "why": "the scan reads “showed” (archive.org worksofjohnbunya01buny, leaf 127, printed p. 90): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     127
+    ],
+    "page": [
+     "90"
+    ],
+    "ocr": "showed",
+    "tesseract": "showed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "burthen",
+   "replace": "burden",
+   "count": 1,
+   "why": "the scan reads “burden” (archive.org worksofjohnbunya01buny, leaf 128, printed p. 91): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     128
+    ],
+    "page": [
+     "91"
+    ],
+    "ocr": "burden",
+    "tesseract": "burden"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "all unreasonable",
+   "replace": "all reasonable",
+   "count": 1,
+   "why": "the scan reads “reasonable” (archive.org worksofjohnbunya01buny, leaf 128, printed p. 91): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     128
+    ],
+    "page": [
+     "91"
+    ],
+    "ocr": "reasonable",
+    "tesseract": "reasonable"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "foundations",
+   "replace": "foundation",
+   "count": 1,
+   "why": "the scan reads “foundation” (archive.org worksofjohnbunya01buny, leaf 128, printed p. 91): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     128
+    ],
+    "page": [
+     "91"
+    ],
+    "ocr": "foundation",
+    "tesseract": "foundation"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "his ways",
+   "replace": "his way",
+   "count": 1,
+   "why": "the scan reads “way” (archive.org worksofjohnbunya01buny, leaf 129, printed p. 92): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     129
+    ],
+    "page": [
+     "92"
+    ],
+    "ocr": "way",
+    "tesseract": "way"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "but sayst",
+   "replace": "but sayest",
+   "count": 1,
+   "why": "the scan reads “sayest” (archive.org worksofjohnbunya01buny, leaf 129, printed p. 92): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     129
+    ],
+    "page": [
+     "92"
+    ],
+    "ocr": "sayest",
+    "tesseract": "sayest"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Nahum",
+   "replace": "Na",
+   "count": 1,
+   "why": "the scan reads “Na” (archive.org worksofjohnbunya01buny, leaf 131, printed p. 94): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     131
+    ],
+    "page": [
+     "94"
+    ],
+    "ocr": "Na",
+    "tesseract": "na"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "they turned",
+   "replace": "they return",
+   "count": 1,
+   "why": "the scan reads “return” (archive.org worksofjohnbunya01buny, leaf 131, printed p. 94): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     131
+    ],
+    "page": [
+     "94"
+    ],
+    "ocr": "return",
+    "tesseract": "return"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "own sins",
+   "replace": "own sin",
+   "count": 1,
+   "why": "the scan reads “sin” (archive.org worksofjohnbunya01buny, leaf 131, printed p. 94): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     131
+    ],
+    "page": [
+     "94"
+    ],
+    "ocr": "sin",
+    "tesseract": "sin"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Ruben’s",
+   "replace": "Reuben's",
+   "count": 1,
+   "why": "the scan reads “Reuben's” (archive.org worksofjohnbunya01buny, leaf 132, printed p. 95): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     132
+    ],
+    "page": [
+     "95"
+    ],
+    "ocr": "Reuben's",
+    "tesseract": "reubens"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Father nor",
+   "replace": "Father or",
+   "count": 1,
+   "why": "the scan reads “or” (archive.org worksofjohnbunya01buny, leaf 132, printed p. 95): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     132
+    ],
+    "page": [
+     "95"
+    ],
+    "ocr": "or",
+    "tesseract": "or"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Ninthly",
+   "replace": "Ninth",
+   "count": 1,
+   "why": "the scan reads “Ninth” (archive.org worksofjohnbunya01buny, leaf 133, printed p. 96): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     133
+    ],
+    "page": [
+     "96"
+    ],
+    "ocr": "Ninth",
+    "tesseract": "ninth"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "now will",
+   "replace": "now would",
+   "count": 1,
+   "why": "the scan reads “would” (archive.org worksofjohnbunya01buny, leaf 133, printed p. 96): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     133
+    ],
+    "page": [
+     "96"
+    ],
+    "ocr": "would",
+    "tesseract": "would"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "believing it",
+   "replace": "believing is",
+   "count": 1,
+   "why": "the scan reads “is” (archive.org worksofjohnbunya01buny, leaf 134, printed p. 97): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     134
+    ],
+    "page": [
+     "97"
+    ],
+    "ocr": "is",
+    "tesseract": "is"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "said thee",
+   "replace": "said the",
+   "count": 1,
+   "why": "the scan reads “the” (archive.org worksofjohnbunya01buny, leaf 134, printed p. 97): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     134
+    ],
+    "page": [
+     "97"
+    ],
+    "ocr": "the",
+    "tesseract": "the"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "that mayst",
+   "replace": "that mayest",
+   "count": 1,
+   "why": "the scan reads “mayest” (archive.org worksofjohnbunya01buny, leaf 134, printed p. 97): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     134
+    ],
+    "page": [
+     "97"
+    ],
+    "ocr": "mayest",
+    "tesseract": "mayest"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "deed shewed",
+   "replace": "deed showed",
+   "count": 1,
+   "why": "the scan reads “showed” (archive.org worksofjohnbunya01buny, leaf 135, printed p. 98): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     135
+    ],
+    "page": [
+     "98"
+    ],
+    "ocr": "showed",
+    "tesseract": "showed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "then shewn",
+   "replace": "then shown",
+   "count": 1,
+   "why": "the scan reads “shown” (archive.org worksofjohnbunya01buny, leaf 136, printed p. 99): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     136
+    ],
+    "page": [
+     "99"
+    ],
+    "ocr": "shown",
+    "tesseract": "shown"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "that shew",
+   "replace": "which show",
+   "count": 1,
+   "why": "the scan reads “which show” (archive.org worksofjohnbunya01buny, leaf 136, printed p. 99): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     136
+    ],
+    "page": [
+     "99"
+    ],
+    "ocr": "which show",
+    "tesseract": "which show"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "2 Heb",
+   "replace": "2 He",
+   "count": 1,
+   "why": "the scan reads “He” (archive.org worksofjohnbunya01buny, leaf 136, printed p. 99): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     136
+    ],
+    "page": [
+     "99"
+    ],
+    "ocr": "He",
+    "tesseract": "he"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "viz",
+   "replace": "namely",
+   "count": 1,
+   "why": "the scan reads “namely” (archive.org worksofjohnbunya01buny, leaf 137, printed p. 100): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     137
+    ],
+    "page": [
+     "100"
+    ],
+    "ocr": "namely",
+    "tesseract": "namely"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "least while",
+   "replace": "least wise t",
+   "count": 1,
+   "why": "the scan reads “wise t” (archive.org worksofjohnbunya01buny, leaf 137, printed p. 100): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     137
+    ],
+    "page": [
+     "100"
+    ],
+    "ocr": "wise t",
+    "tesseract": "wise t"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "being loth",
+   "replace": "being loath",
+   "count": 1,
+   "why": "the scan reads “loath” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "loath",
+    "tesseract": "loath"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "he shews",
+   "replace": "he shows",
+   "count": 1,
+   "why": "the scan reads “shows” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "shows",
+    "tesseract": "shows"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Psalm lxxiii",
+   "replace": "Ps ixxiii",
+   "count": 1,
+   "why": "the scan reads “Ps ixxiii” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "Ps ixxiii",
+    "tesseract": "ps ixxiii"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Hast then",
+   "replace": "Hast thou",
+   "count": 1,
+   "why": "the scan reads “thou” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "thou",
+    "tesseract": "thou"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "enticing thoughts",
+   "replace": "enticing touches",
+   "count": 1,
+   "why": "the scan reads “touches” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "touches",
+    "tesseract": "touches"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "deliver to",
+   "replace": "deliver unto",
+   "count": 1,
+   "why": "the scan reads “unto” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "unto",
+    "tesseract": "unto"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "to they",
+   "replace": "to thy",
+   "count": 1,
+   "why": "the scan reads “thy” (archive.org worksofjohnbunya01buny, leaf 138, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "thy",
+    "tesseract": "thy"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "2 Pet",
+   "replace": "2 Pe",
+   "count": 1,
+   "why": "the scan reads “Pe” (archive.org worksofjohnbunya01buny, leaf 139, printed p. 102): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     139
+    ],
+    "page": [
+     "102"
+    ],
+    "ocr": "Pe",
+    "tesseract": "pe"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "these unreasonable",
+   "replace": "these unseasonable",
+   "count": 1,
+   "why": "the scan reads “unseasonable” (archive.org worksofjohnbunya01buny, leaf 139, printed p. 102): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     139
+    ],
+    "page": [
+     "102"
+    ],
+    "ocr": "unseasonable",
+    "tesseract": "unseasonable"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "remember then",
+   "replace": "remember that",
+   "count": 1,
+   "why": "the scan reads “that” (archive.org worksofjohnbunya01buny, leaf 139, printed p. 102): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     139
+    ],
+    "page": [
+     "102"
+    ],
+    "ocr": "that",
+    "tesseract": "that"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "frustrated",
+   "replace": "frustrate",
+   "count": 1,
+   "why": "the scan reads “frustrate” (archive.org worksofjohnbunya01buny, leaf 139, printed p. 102): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     139
+    ],
+    "page": [
+     "102"
+    ],
+    "ocr": "frustrate",
+    "tesseract": "frustrate"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Messiah",
+   "replace": "Messias",
+   "count": 1,
+   "why": "the scan reads “Messias” (archive.org worksofjohnbunya01buny, leaf 140, printed p. 103): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     140
+    ],
+    "page": [
+     "103"
+    ],
+    "ocr": "Messias",
+    "tesseract": "messias"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "What sayst",
+   "replace": "What sayest",
+   "count": 1,
+   "why": "the scan reads “sayest” (archive.org worksofjohnbunya01buny, leaf 140, printed p. 103): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     140
+    ],
+    "page": [
+     "103"
+    ],
+    "ocr": "sayest",
+    "tesseract": "sayest"
+   },
+   "by": "press_proof"
+  }
+ ]
+}
