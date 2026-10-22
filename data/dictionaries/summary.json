@@ -1,14 +1,14 @@
 {
  "names": {
-  "rows": 3813,
-  "one_each": 3286,
-  "in_all_three": 254
+  "rows": 3696,
+  "one_each": 3180,
+  "in_all_three": 244
  },
  "scripture": {
-  "rows": 831,
+  "rows": 801,
   "dropped": {
-   "no such verse in the KJV": 35,
-   "no book number": 20
+   "no such verse in the KJV": 24,
+   "no book number": 12
   }
  },
  "shakespeare": {
@@ -57,7 +57,7 @@
  "sources": {
   "smith-dgrbm": "d6462fbc94d66be83488c4c79d0f76fbd3e26a5ab8cb64c362f0348eaaaffa9a",
   "brewer-character-sketches": "3c81480e45c0fe7c191e15a19b6995d62aad2fff19f2f6fa0c8461a759996ae2",
-  "brewer-dpf": "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
+  "brewer": "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
   "kjv": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0",
   "shakespeare": "eb61e33cab23dbe712ad57091ded6c7292ba91ac3bb2764f51a3223ec0068fe5"
  }

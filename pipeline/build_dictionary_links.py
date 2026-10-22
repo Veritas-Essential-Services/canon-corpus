@@ -6,7 +6,7 @@
     python3 pipeline/build_dictionary_links.py --check   # rebuild in memory; files must be byte-identical
 
 Reads the built books (data/books/{smith-dgrbm,brewer-character-sketches,
-brewer-dpf,kjv,shakespeare}.json, gitignored; build them with
+brewer,kjv,shakespeare}.json, gitignored; build them with
 structure_texts.py first) and writes one JSONL file per kind of edge:
 
   names.jsonl        a headword that two or more of the dictionaries share.
@@ -15,7 +15,9 @@ structure_texts.py first) and writes one JSONL file per kind of edge:
                      Smith's nothing. Every row says `same: "headword"`.
   scripture.jsonl    Brewer's Bible references (`Prov. xxx. 8`, `1 _Sam._
                      xvii.`) -> KJV unit ids, kept only when the verse (or the
-                     chapter) exists in data/books/kjv.json.
+                     chapter) exists in data/books/kjv.json. Character Sketches
+                     is parsed here; Phrase and Fable's own links are carried
+                     over (`how: in-book`).
   shakespeare.jsonl  Brewer's Shakespeare references (`Shakespeare: Titus
                      Andronicus, v. 3`) -> the play, act and scene, kept only
                      when that scene exists in data/books/shakespeare.json.
@@ -42,7 +44,7 @@ CS_SCAN_IDS = [f"charactersketche0{i}brewuoft" for i in range(1, 9)]
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from structure_texts import _brewer_key  # noqa: E402
 
-DICTS = ("smith-dgrbm", "brewer-character-sketches", "brewer-dpf")
+DICTS = ("smith-dgrbm", "brewer-character-sketches", "brewer")
 
 
 def load(slug):
@@ -120,7 +122,18 @@ def build_scripture(books):
     kjv = {u["id"] for u in books["kjv"]["units"]}
     chapters = {i.rsplit(".", 1)[0] for i in kjv}
     rows, missed = [], collections.Counter()
-    for slug in ("brewer-character-sketches", "brewer-dpf"):
+    # Phrase and Fable's converter already parses its own citations into the
+    # book's links (structure_texts.brewer_scripture); they are carried over as
+    # they are, so one question never gets two answers.
+    for u in books["brewer"]["units"]:
+        for l in u["links"]:
+            if l.get("kind") == "scripture" and l.get("resolved"):
+                row = {"from": u["id"], "cite": l["ref"], "target": l["target"], "level": "verse",
+                       "how": "in-book"}
+                if l.get("end"):
+                    row["to"] = "kjv:" + l["end"]
+                rows.append(row)
+    for slug in ("brewer-character-sketches",):
         for u in books[slug]["units"]:
             for m in RE_BIBLE.finditer(u["text"]):
                 book, n = BIBLE[m["book"]], m["n"]
@@ -179,7 +192,7 @@ def build_shakespeare(books):
     plays = {i.split(":")[1].split(".")[0] for i in ids}
     scenes = {".".join(i.split(".")[:3]) for i in ids}
     rows, missed = [], collections.Counter()
-    for slug in ("brewer-character-sketches", "brewer-dpf"):
+    for slug in ("brewer-character-sketches", "brewer"):
         for u in books[slug]["units"]:
             for m in RE_SHAK.finditer(u["text"].replace("_", "")):
                 play = _play_key(m["t"].strip(" .,"))

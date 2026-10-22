@@ -24,3 +24,6 @@ build/
 
 # The Unscanner's working files (scans, page rasters, hOCR, outputs): rebuildable from the source.
 data/unscanner/
+
+# the fix library: fetched sources (GPL-2 / unlicensed / CC BY) and the built library, local only
+data/fixes/

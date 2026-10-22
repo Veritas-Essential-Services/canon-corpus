@@ -30,12 +30,14 @@ books = {
         u("smith-dgrbm:ajax-bio-2", lemma="Ajax")]},
     "brewer-character-sketches": {"units": [
         u("brewer-character-sketches:ajax", "AJAX, a Greek. (_Gen._ i. 1-3) 2 _Sam._ xvii. "
-          "Shakespeare, _Troilus and Cressida_ (1602), act ii. sc. 3.", headword="AJAX"),
+          "Shakespeare, _Troilus and Cressida_ (1602), act ii. sc. 3. King John, iii. 1. "
+          "Gen. lx. 2; Sam. iv. 1; Act i. 5.", headword="AJAX"),
         u("brewer-character-sketches:app1:x", "", headword="Ajax", appendix="app1")]},
-    "brewer-dpf": {"units": [
-        u("brewer-dpf:ajax", "Ajax\n\nKing John, iii. 1. Prov. xxx. 8; Gen. lx. 2; Sam. iv. 1; "
-          "Act i. 5. Shakespeare: 1 Henry IV., iii. 1. Shakespeare: Hamlet, ix. 1", headword="Ajax"),
-        u("brewer-dpf:air", "Air", headword="Air")]},
+    "brewer": {"units": [
+        u("brewer:ajax", "Prov. xxx. 8. Shakespeare: 1 Henry IV., iii. 1. Shakespeare: Hamlet, ix. 1",
+          headword="Ajax", links=[{"kind": "scripture", "ref": "Prov. xxx. 8", "target": "kjv:Prov.30.8",
+                                   "resolved": True}]),
+        u("brewer:air", "Air", headword="Air")]},
     "kjv": {"units": [u(f"kjv:{b}") for b in ("Gen.1.1", "Gen.1.3", "Prov.30.8", "2Sam.17.1", "John.3.1")]},
     "shakespeare": {"units": [u(f"shakespeare:{s}.1") for s in
                               ("troilus-and-cressida.2.3", "henry-iv-1.3.1", "hamlet.1.1", "king-john.3.1")]},
@@ -53,6 +55,9 @@ check("scripture: italic abbreviation, roman chapter, verse range",
       t["_Gen._ i. 1-3"]["target"] == "kjv:Gen.1.1" and t["_Gen._ i. 1-3"]["to"] == "kjv:Gen.1.3")
 check("scripture: a numbered book at chapter level", t["2 _Sam._ xvii."]["target"] == "kjv:2Sam.17"
       and t["2 _Sam._ xvii."]["level"] == "chapter")
+check("scripture: Phrase and Fable's own parsed links are carried over, not re-parsed",
+      {"from": "brewer:ajax", "cite": "Prov. xxx. 8", "target": "kjv:Prov.30.8", "level": "verse",
+       "how": "in-book"} in scr)
 check("scripture: a verse the KJV lacks is dropped and counted; `Sam.` without its number is not guessed",
       "Gen. lx. 2" not in t and miss == {"no such verse in the KJV": 1, "no book number": 1})
 check("scripture: `King John, iii.` and a play's `Act i. 5` are not the Bible",
