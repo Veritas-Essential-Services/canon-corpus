@@ -54,6 +54,10 @@
   "of_entries": 14416,
   "read": 11635
  },
+ "plates-brewer-cs": {
+  "rows": 94,
+  "resolved": 78
+ },
  "sources": {
   "smith-dgrbm": "d6462fbc94d66be83488c4c79d0f76fbd3e26a5ab8cb64c362f0348eaaaffa9a",
   "brewer-character-sketches": "3c81480e45c0fe7c191e15a19b6995d62aad2fff19f2f6fa0c8461a759996ae2",

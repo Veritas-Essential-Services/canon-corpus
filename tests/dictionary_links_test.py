@@ -25,7 +25,7 @@ books = {
         u("smith-dgrbm:ajax-bio-1", lemma="Ajax", links=[
             {"kind": "classical", "cite": "Hom. Il. 2.557"},
             {"kind": "classical", "cite": "Apollod. 3.10.8"},
-            {"kind": "classical", "cite": "Zonar. 7.1"},
+            {"kind": "classical", "cite": "Just. 7.1"},
             {"kind": "classical", "cite": "Apollod. fr. a"}]),
         u("smith-dgrbm:ajax-bio-2", lemma="Ajax")]},
     "brewer-character-sketches": {"units": [
@@ -73,12 +73,37 @@ check("classical: a known work's passage becomes a CTS URN",
       {"from": "smith-dgrbm:ajax-bio-1", "cite": "Apollod. 3.10.8",
        "urn": "urn:cts:greekLit:tlg0548.tlg001:3.10.8"} in cl)
 check("classical: an unknown abbreviation and a non-numeric passage stay unresolved, counted",
-      miss["unresolved"] >= 2 and "Zonar." in miss["top_unresolved_abbreviations"]
+      miss["unresolved"] >= 2 and "Just." in miss["top_unresolved_abbreviations"]
       and not any("fr." in r["cite"] for r in cl))
 
 pm, read = dl._page_map([["x"], ["1 HEAD"], ["PLATE"], ["2 HEAD"], ["nothing"], ["HEAD 4"], ["5 x"]])
 check("pages: folios chain through a plate; a leaf between read folios is counted only when they agree",
       pm[1] == 1 and pm[3] == 2 and pm[4] == 3 and pm[5] == 4 and 2 not in pm and 4 not in read)
+
+import json as _json, tempfile as _tf
+_pb = {"brewer-character-sketches": {"units": [
+    u("brewer-character-sketches:circe", headword="Circe"),
+    u("brewer-character-sketches:deans-douce-davie", headword="Deans", qualifier="Douce Davie"),
+    u("brewer-character-sketches:moses-rod", headword="Moses' Rod"),
+    u("brewer-character-sketches:far-away", headword="Faraway")]}}
+_pp = [{"id": "brewer-character-sketches:circe", "volume": 2, "leaf": 70},
+       {"id": "brewer-character-sketches:deans-douce-davie", "volume": 2, "leaf": 194},
+       {"id": "brewer-character-sketches:moses-rod", "volume": 2, "leaf": 300},
+       {"id": "brewer-character-sketches:far-away", "volume": 2, "leaf": 400}]
+with _tf.NamedTemporaryFile("w", suffix=".jsonl", delete=False) as _f:
+    for c, leaf in (("Circe and her Swine", 72), ("Ejffie Deans in the Prison", 196),
+                    ("Preparing Moses for the Fair", 302), ("Faraway", 300)):
+        _f.write(_json.dumps({"citation": f"brewer-sketches:v2.leaf{leaf}", "uid": "wh-X", "volume": 2,
+                              "leaf": leaf, "caption_ocr": c}) + "\n")
+_saved, dl.PLATES = dl.PLATES, _f.name
+_pr = {r["plate"]: r for r in dl.build_plates(_pb, _pp)}
+dl.PLATES = _saved; os.unlink(_f.name)
+check("plates: a caption naming a nearby headword links the plate to that entry",
+      _pr["brewer-sketches:v2.leaf72"]["target"] == "brewer-character-sketches:circe")
+check("plates: a headword whose qualifier is not in the caption stays a candidate",
+      _pr["brewer-sketches:v2.leaf196"]["resolved"] is False)
+check("plates: every word of the headword must be in the caption; distance is capped",
+      "brewer-sketches:v2.leaf302" not in _pr and "brewer-sketches:v2.leaf300" not in _pr)
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

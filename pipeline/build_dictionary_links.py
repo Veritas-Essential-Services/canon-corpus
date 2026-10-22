@@ -30,6 +30,9 @@ structure_texts.py first) and writes one JSONL file per kind of edge:
                      volumes, charactersketche0Nbrewuoft), found by aligning
                      headwords with the scans' own text layer. The leaf opens
                      at https://archive.org/details/<scan>/page/n<leaf>.
+  plates-brewer-cs.jsonl  each plate of that edition (data/art/brewer-sketches/
+                     plates.jsonl) -> the entry it illustrates, by its caption
+                     and its place in the volume.
 
 Nothing here is resolved by a guess the file does not own up to: every row
 carries how it was found.
@@ -341,6 +344,74 @@ def build_pages(books):
     return rows
 
 
+# ------------------------------------------------------------------ Character Sketches plates
+
+PLATES = os.path.join(ROOT, "data", "art", "brewer-sketches", "plates.jsonl")
+_PLATE_STOP = {"the", "and", "his", "her", "with", "from", "their", "there", "before", "after", "death", "sister", "daughter",
+               "lady", "king", "queen", "engraver", "artist", "painting"}
+
+
+def _plate_tokens(s):
+    s = unicodedata.normalize("NFKD", s or "")
+    s = "".join(c for c in s if not unicodedata.combining(c)).lower()
+    return [t for t in re.findall(r"[a-z]+", s)
+            if (len(t) >= 3 or re.fullmatch(r"[ivx]+", t)) and t not in _PLATE_STOP]
+
+
+def build_plates(books, pages):
+    """Each plate of the 1892 Hess edition (data/art/brewer-sketches, from the
+    plates thread) -> the Character Sketches entry it illustrates. A plate is
+    bound near its entry, so only entries within ten scan leaves of the plate
+    in the same volume are candidates (an entry with no read page takes the
+    leaf of the entry before it). Every word of the entry's headword must be
+    in the plate's caption as OCR read it. When the headword carries a
+    qualifier (`Deans (Douce Davie)`) and none of its words is in the caption,
+    the plate may show another bearer of the name, so the row keeps its
+    candidates, unresolved. Captions are unproofread OCR: a misread name finds
+    nothing, and nothing is guessed in its place."""
+    if not os.path.exists(PLATES):
+        return None
+    U = {u["id"]: u for u in books["brewer-character-sketches"]["units"]}
+    known = {r["id"]: r for r in pages}
+    order = [i for i in U if "appendix" not in U[i]["lex"]]
+    byvol, last = collections.defaultdict(list), None
+    for n, i in enumerate(order):
+        if i in known:
+            last = known[i]; byvol[last["volume"]].append((i, last["leaf"])); continue
+        nxt = next((known[j] for j in order[n + 1:n + 40] if j in known), None)
+        if last and nxt and last["volume"] == nxt["volume"]:
+            byvol[last["volume"]].append((i, last["leaf"]))
+    rows = []
+    for line in open(PLATES, encoding="utf-8"):
+        p = json.loads(line)
+        ct = set(_plate_tokens(p.get("caption_ocr")) + _plate_tokens(p.get("plate_title_ocr")))
+        if not ct:
+            continue
+        cands = []
+        for i, leaf in byvol.get(p["volume"], []):
+            d = abs(leaf - p["leaf"])
+            ht = _plate_tokens(U[i]["lex"]["headword"])
+            if d > 10 or not ht or not all(a in ct for a in ht):
+                continue
+            qt = _plate_tokens(U[i]["lex"].get("qualifier", "")) if not re.match(
+                r"\d+ syl", U[i]["lex"].get("qualifier", "")) else []
+            qm = sum(1 for a in qt if a in ct)
+            cands.append((len(ht), qm, -d, i, bool(qt)))
+        if not cands:
+            continue
+        cands.sort(reverse=True)
+        top = [c for c in cands if c[:2] == cands[0][:2]]
+        row = {"plate": p["citation"], "uid": p["uid"], "caption_ocr": p.get("caption_ocr", "")}
+        if len(top) == 1 and not (top[0][4] and top[0][1] == 0):
+            row.update(target=top[0][3], resolved=True,
+                       how="headword in caption" + (" + qualifier" if top[0][1] else ""))
+        else:
+            row.update(candidates=[c[3] for c in top], resolved=False,
+                       how="headword in caption; qualifier not" if len(top) == 1 else "several entries fit")
+        rows.append(row)
+    return rows
+
+
 # ------------------------------------------------------------------ main
 
 def dump_jsonl(rows):
@@ -364,13 +435,17 @@ def build_all():
     files["classical.jsonl"] = dump_jsonl(cl)
     summary["classical"] = dict(rows=len(cl), **miss)
     pages = build_pages(books)
-    if pages is not None:
-        files["pages-brewer-cs.jsonl"] = dump_jsonl(pages)
-        summary["pages-brewer-cs"] = {"rows": len(pages),
-                                      "of_entries": len(books["brewer-character-sketches"]["units"]),
-                                      "read": sum(r["page_how"] == "read" for r in pages)}
-    else:
-        print("note: Character Sketches scans not fetched (--fetch); pages-brewer-cs.jsonl left as is")
+    if pages is None:                    # scans not fetched: the committed rows stand
+        print("note: Character Sketches scans not fetched (--fetch); pages-brewer-cs.jsonl read as committed")
+        pages = [json.loads(l) for l in open(os.path.join(OUT, "pages-brewer-cs.jsonl"), encoding="utf-8")]
+    files["pages-brewer-cs.jsonl"] = dump_jsonl(pages)
+    summary["pages-brewer-cs"] = {"rows": len(pages),
+                                  "of_entries": len(books["brewer-character-sketches"]["units"]),
+                                  "read": sum(r["page_how"] == "read" for r in pages)}
+    plates = build_plates(books, pages)
+    if plates is not None:
+        files["plates-brewer-cs.jsonl"] = dump_jsonl(plates)
+        summary["plates-brewer-cs"] = {"rows": len(plates), "resolved": sum(r["resolved"] for r in plates)}
     summary["sources"] = {s: books[s]["source"].get("sha256") for s in DICTS + ("kjv", "shakespeare")}
     files["summary.json"] = json.dumps(summary, ensure_ascii=False, indent=1) + "\n"
     return files
