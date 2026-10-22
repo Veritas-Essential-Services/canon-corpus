@@ -105,5 +105,15 @@ check("plates: a headword whose qualifier is not in the caption stays a candidat
 check("plates: every word of the headword must be in the caption; distance is capped",
       "brewer-sketches:v2.leaf302" not in _pr and "brewer-sketches:v2.leaf300" not in _pr)
 
+_nb = {"smith-dgrbm": {"units": [u("smith-dgrbm:admetus-bio-1", "Admetus, king of Pherae in Thessaly, "
+                                   "husband of Alcestis, served by Apollo.", lemma="Admetus")]},
+       "brewer-character-sketches": {"units": [u("brewer-character-sketches:admetus",
+                                     "ADMETUS, whom Apollo served; Alcestis died for him.", headword="ADMETUS")]},
+       "brewer": {"units": [u("brewer:admetus", "Admetus. A king. See the Greek tale.", headword="Admetus")]}}
+_nr = dl.build_names(_nb)[0]
+check("names: a pair naming two of the same people is corroborated, with the names; one that names none is not",
+      _nr["corroborated"] == [{"a": "smith-dgrbm:admetus-bio-1", "b": "brewer-character-sketches:admetus",
+                               "shared": ["Alcestis", "Apollo"], "shared_n": 2}])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

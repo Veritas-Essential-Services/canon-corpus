@@ -2,7 +2,9 @@
  "names": {
   "rows": 3813,
   "one_each": 3292,
-  "in_all_three": 252
+  "in_all_three": 252,
+  "corroborated_rows": 2199,
+  "corroborated_pairs": 2374
  },
  "scripture": {
   "rows": 801,

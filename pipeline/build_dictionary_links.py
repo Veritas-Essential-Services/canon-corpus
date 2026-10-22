@@ -10,9 +10,11 @@ brewer,kjv,shakespeare}.json, gitignored; build them with
 structure_texts.py first) and writes one JSONL file per kind of edge:
 
   names.jsonl        a headword that two or more of the dictionaries share.
-                     A shared spelling is a LEAD, not an identity: Smith's
-                     Ajax and Brewer's Ajax are the same hero, Brewer's Air and
-                     Smith's nothing. Every row says `same: "headword"`.
+                     A shared spelling is a LEAD, not an identity, and every
+                     row says `same: "headword"`. Where two of its entries
+                     also name two or more of the same other people or places
+                     (three, when either entry is long), the pair is listed
+                     under `corroborated` with the names they share.
   scripture.jsonl    Brewer's Bible references (`Prov. xxx. 8`, `1 _Sam._
                      xvii.`) -> KJV unit ids, kept only when the verse (or the
                      chapter) exists in data/books/kjv.json. Character Sketches
@@ -72,14 +74,47 @@ def build_names(books):
             h = headword(slug, u)
             if h:
                 by[_brewer_key(h)][slug].append(u["id"])
+    text = {u["id"]: u["text"] for s in DICTS for u in books[s]["units"]}
     rows = []
     for k in sorted(by):
         if len(by[k]) < 2:
             continue
-        rows.append({"key": k, "same": "headword",
-                     "members": {s: by[k][s] for s in DICTS if s in by[k]},
-                     "one_each": all(len(v) == 1 for v in by[k].values())})
+        members = {s: by[k][s] for s in DICTS if s in by[k]}
+        row = {"key": k, "same": "headword", "members": members,
+               "one_each": all(len(v) == 1 for v in by[k].values())}
+        pairs = []
+        slugs = list(members)
+        for n, a in enumerate(slugs):
+            for b in slugs[n + 1:]:
+                for x in members[a]:
+                    for y in members[b]:
+                        shared = _names_in(text[x], k) & _names_in(text[y], k)
+                        need = 3 if max(len(text[x]), len(text[y])) > 5000 else 2
+                        if len(shared) >= need:
+                            pairs.append({"a": x, "b": y, "shared": sorted(shared)[:8],
+                                          "shared_n": len(shared)})
+        if pairs:
+            row["corroborated"] = pairs
+        rows.append(row)
     return rows
+
+
+_NAME_STOP = set("""This That These Those There Their They Then When Where Which While With From
+Into Upon About After Before Being Also Though Thus Some Other Such What Whom Whose However Hence
+Here Most More Many Much Every Each Both Either Neither Book Books Life Lives According Greek Greeks
+Roman Romans Latin English French German Italian Spanish Scotch Irish Saint Lord Lady King Queen
+Prince Princess Duke Earl Count Emperor Empress Pope Bishop Christ God Gods Jupiter""".split())
+
+
+def _names_in(t, key):
+    """The proper names an entry mentions, minus its own headword's words and
+    the words every entry uses (Greek, King, This ...). Two entries with the
+    same headword that name the same other people and places -- Smith's and
+    Brewer's Admetus both name Alcestis, Apollo, Thessaly -- are very likely
+    about the same figure; a shared spelling alone is only a lead."""
+    own = set(key.split("-"))
+    return {w for w in re.findall(r"\b[A-Z][a-zæœ]{3,}\b", t)
+            if w not in _NAME_STOP and w.lower() not in own}
 
 
 # ------------------------------------------------------------------ scripture
@@ -441,7 +476,9 @@ def build_all():
     names = build_names(books)
     files["names.jsonl"] = dump_jsonl(names)
     summary["names"] = {"rows": len(names), "one_each": sum(r["one_each"] for r in names),
-                        "in_all_three": sum(len(r["members"]) == 3 for r in names)}
+                        "in_all_three": sum(len(r["members"]) == 3 for r in names),
+                        "corroborated_rows": sum("corroborated" in r for r in names),
+                        "corroborated_pairs": sum(len(r.get("corroborated", [])) for r in names)}
     scr, miss = build_scripture(books)
     files["scripture.jsonl"] = dump_jsonl(scr)
     summary["scripture"] = {"rows": len(scr), "dropped": miss}
