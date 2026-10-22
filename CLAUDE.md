@@ -88,7 +88,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 93 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 109 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
@@ -135,6 +135,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
     python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
     python3 tests/brewer_plates_test.py                # the plates catalog, offline
+    python3 pipeline/build_dictionary_links.py --fetch # the dictionaries' edges (+ Character Sketches scans)
+    python3 pipeline/build_dictionary_links.py --check # data/dictionaries/ byte-identical
+    python3 tests/dictionary_links_test.py             # the edge parsers, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -276,6 +279,52 @@ flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
 
+## Dictionaries of names — the classical and the literary (2026-10-19)
+
+Adam asked for "a classical dictionary and a literary dictionary that are public
+domain". Both ingest through `LEXICONS` and `structure_texts.py`, keyed at ENTRY
+level, same `{id, ref, text, links[]}` contract, extras under `lex`:
+
+- **`smith-dgrbm`** — Smith, *Dictionary of Greek and Roman Biography and
+  Mythology* (London 1848, 1873 printing), Perseus TEI pinned to commit
+  `02768b0`. 19,893 entries + 8 sub-entries. The key is **Perseus's xml:id**
+  (`smith-dgrbm:abaris-bio-1`), not the headword: Smith has 19 Apolloniuses,
+  and Perseus already encoded Smith's cross-references against those ids, so
+  they resolve exactly. Printed `[NAME.]` cross-references are resolved by
+  headword only when one entry has it (`[X, No. 2]` picks the homonym); the
+  rest keep their candidates, `resolved: false`. 43,867 ancient-author
+  citations recorded as Perseus normalised them, NOT resolved to passages.
+  Text PD; **markup CC BY-SA 4.0 → `redistribute_whole: false`** like every
+  Perseus text here, pending Adam's ruling on CC BY-SA wholes.
+  Why not Lemprière: Smith is fuller, and the only machine-readable Lemprière
+  (PG 68769) expands the printed abbreviations, which lane B holds for Adam.
+- **`brewer-character-sketches`** — Brewer, *Character Sketches of Romance,
+  Fiction and the Drama*, the revised American edition of **The Reader's
+  Handbook**, ed. Marion Harland (Selmar Hess, 1892), PG 11431/58596/20851/58988.
+  ~10,200 entries A–Z plus ~4,200 appendix items (authors' works; foreign poems;
+  dramas and operas). Vol. I marks headwords in CAPITALS, II–IV in `=bold=`, and
+  vol. IV indents every paragraph two spaces from `=Theresa=` on. Brewer's list
+  entries (Dying Sayings, Errors of Authors) print their items like headwords;
+  they are told apart by the dictionary's own alphabetical order (a longest
+  non-decreasing run) and kept in `lex.list_items`. Brewer's *Dictionary of
+  Phrase and Fable* has no Gutenberg edition; it came from Adam's PDF as
+  `brewer`, below.
+
+**The edges (`pipeline/build_dictionary_links.py` → `data/dictionaries/`, COMMITTED):**
+`names.jsonl` (a headword two or more of the three share — a lead, not an
+identity), `scripture.jsonl` (Brewer's Bible refs → `kjv:` ids, each verified
+against kjv.json), `shakespeare.jsonl` (→ play.act.scene, verified),
+`classical.jsonl` (Smith's citations → CTS URNs through `cts-works.json`, whose
+every row was read from Perseus's own `__cts__.xml`; the rest are counted in
+`summary.json`, not guessed), `pages-brewer-cs.jsonl` (each Character Sketches
+entry → printed page and leaf of the 1892 Hess scans at archive.org,
+`charactersketche0{1-8}brewuoft`, by aligning headwords with the scans' text
+layer). Needs the built books, so run `structure_texts.py` first.
+
+The lane-B shelves `william-smith` and `anthon` hold Smith's other dictionaries
+and Anthon as raw IA OCR books; this is the entry-keyed layer, not a duplicate
+acquisition.
+
 **Brewer's Dictionary of Phrase and Fable (1894), added 2026-10-19, is the
 first lexicon from a file Adam supplied.** No fetchable machine-readable
 edition beat it: the archive.org scans of the 1894-95 printings carry OCR
@@ -291,7 +340,7 @@ sha256. So a fresh clone — the hosted Armarium's rebuild — builds Brewer's
 without the PDF. The PDF itself is kept in the vault,
 `9 - Projects/Armarium/sources/`.
 
-**Unlike Thayer's, it is segmented by entry — 16,750 units,
+**Unlike Thayer's, it is segmented by entry — 17,240 units,
 `brewer:<headword-slug>`** (repeats `~2`, `~3` in page order; `ref` is
 "Brewer, s.v. X"). The text carries no bold, so a headword is found by rule
 (converter docstring): a one-line paragraph, no closing full stop, in its
@@ -299,7 +348,10 @@ letter's section, AND on the longest alphabetical run through that section.
 The alphabet is what Thayer's OCR could not give: a one-line verse quotation
 looks exactly like a headword until it breaks Brewer's order. A line the rule
 misses is never dropped — it stays in the entry before it (149 such, counted
-in the honesty note). Known miss: headwords run into their own first sentence.
+in the honesty note). Headwords run into their own first sentence ("Agnus-castus
+A shrub…") are split out by `_brewer_run_in` when they fall alphabetically
+between their neighbours (490, `lex.run_in`, added 2026-10-22, 17,240 units);
+19 that share a found headword's name are left in place so no id moves.
 
 Edges: **2,125 "See" cross-references resolved, zero dangling**; 1,493 more
 name nothing that is a headword ("see above", *Notes and Queries*, years) and

@@ -168,6 +168,48 @@ LEXICONS = {
         "by Eliran Wong from Bible Analyzer data, scripture refs parsed by Stephen "
         "Ku et al. 10,022 entries, median 1,184 chars (the real thing, not the "
         "2.7MB abridged outline in OpenScriptures/HebrewLexicon)."),
+    # ---- dictionaries of NAMES, not words (2026-10-19, Adam: "a classical
+    # dictionary and a literary dictionary that are public domain") ----
+    # Smith's DGRBM: London 1848, the 1873 printing; US public domain. Perseus's
+    # TEI, pinned to a commit so the bytes cannot move under the manifest. The
+    # markup is CC BY-SA 4.0 (repo licence.md, read 2026-10-19): credit Perseus,
+    # share alike. Not one of Perseus's modernized texts -- its header records
+    # no modernization. Chosen over Lempriere: Smith is the fuller, later work,
+    # and the only machine-readable Lempriere (PG 68769) expands the printed
+    # abbreviations, which relay lane B is holding for Adam.
+    "smith-dgrbm": (
+        "https://raw.githubusercontent.com/PerseusDL/canonical-pdlrefwk/"
+        "02768b0c37d6102be4899fc0eb57f9d348195243/data/viaf88890045/003/"
+        "viaf88890045.003.perseus-eng1.xml",
+        "smith-dgrbm.xml",
+        "Smith, Dictionary of Greek and Roman Biography and Mythology (1848; 1873 "
+        "printing, PD). Perseus TEI, markup CC BY-SA 4.0. 19,893 entries + 8 "
+        "sub-entries, each with Perseus's xml:id."),
+    # Brewer's Character Sketches = the revised American edition of THE READER'S
+    # HANDBOOK, ed. Marion Harland (New York: Selmar Hess, 1892), 4 vols, A-Z.
+    # Each PG header read 2026-10-19: no COPYRIGHTED marker; Brewer d. 1897,
+    # Harland d. 1922, published 1892. Brewer's Dictionary of Phrase and Fable,
+    # the other natural pick, has no Gutenberg edition.
+    "brewer-character-sketches-1": (
+        "https://www.gutenberg.org/cache/epub/11431/pg11431.txt",
+        "brewer-character-sketches-1.txt",
+        "Brewer, Character Sketches of Romance, Fiction and the Drama, vol. I "
+        "(A-Faliero), PG 11431. Headwords in capitals."),
+    "brewer-character-sketches-2": (
+        "https://www.gutenberg.org/cache/epub/58596/pg58596.txt",
+        "brewer-character-sketches-2.txt",
+        "Brewer, Character Sketches, vol. II (Falkland-Mark), PG 58596. "
+        "Headwords in =bold=."),
+    "brewer-character-sketches-3": (
+        "https://www.gutenberg.org/cache/epub/20851/pg20851.txt",
+        "brewer-character-sketches-3.txt",
+        "Brewer, Character Sketches, vol. III (Mark Tapley-Sk), PG 20851. "
+        "Headwords in =bold=."),
+    "brewer-character-sketches-4": (
+        "https://www.gutenberg.org/cache/epub/58988/pg58988.txt",
+        "brewer-character-sketches-4.txt",
+        "Brewer, Character Sketches, vol. IV (Skeggs-Z, three appendices), "
+        "PG 58988. Headwords in =bold=."),
 }
 
 

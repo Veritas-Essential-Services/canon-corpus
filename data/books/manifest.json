@@ -1721,12 +1721,12 @@
   "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
   "format": "lexicon-pdf-text",
   "sha256": "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
-  "units": 16750,
+  "units": 17240,
   "scheme": {
    "citation": "headword (Brewer, s.v.)",
    "resolution": "entry",
    "honesty": "entries segmented by rule from an exact (not OCR) text; a headword the rule misses stays inside the entry before it",
-   "note": "16,750 entries. Text is the born-digital PDF typeset (2003, htmldoc) of the 1894 edition, not proofread against a scan; check copy archive.org dictionaryofphra01brew (1895). 149 headword-shaped lines fell off the alphabetical run or had no body, and were kept as text of the preceding entry. Italics are not carried. Compound hyphens print as em dashes in this transcription (first—rate) and are left as printed; 162 doubled em dashes (ranges) set as en dashes. 526 paragraphs rejoined across page breaks. 'See' cross-references: 2,125 resolved to an entry, 1,493 name no headword this build found -- mostly 'above', 'below', 'Notes and Queries', years, page refs -- and are not linked. 680 scripture citations parsed to kjv: verse ids (chapter checked against KJV chapter counts; verse not checked); 6 left out: no book number where one is needed (\"Kings\"), or a chapter past the book's last (typos, Apocrypha). Unit ids are headword slugs; repeated headwords take ~2, ~3 in page order. Front matter before the first headword: 5 paragraphs, not units."
+   "note": "17,240 entries. Text is the born-digital PDF typeset (2003, htmldoc) of the 1894 edition, not proofread against a scan; check copy archive.org dictionaryofphra01brew (1895). 149 headword-shaped lines fell off the alphabetical run or had no body, and were kept as text of the preceding entry. 490 headwords run into their own first sentence were split out by rule (lex.run_in); where the name ends is the rule's guess. 19 more share a name with an entry found the first way and stay inside the entry before them, so that no existing id moves. Italics are not carried. Compound hyphens print as em dashes in this transcription (first—rate) and are left as printed; 162 doubled em dashes (ranges) set as en dashes. 525 paragraphs rejoined across page breaks. 'See' cross-references: 2,176 resolved to an entry, 1,442 name no headword this build found -- mostly 'above', 'below', 'Notes and Queries', years, page refs -- and are not linked. 680 scripture citations parsed to kjv: verse ids (chapter checked against KJV chapter counts; verse not checked); 6 left out: no book number where one is needed (\"Kings\"), or a chapter past the book's last (typos, Apocrypha). Unit ids are headword slugs; repeated headwords take ~2, ~3 in page order. Front matter before the first headword: 5 paragraphs, not units."
   }
  },
  "aphthonius-rabe": {
@@ -1767,6 +1767,39 @@
    "citation": "exercise + paragraph (rainolde-foundacion:chreia.4); 'front' is the dedication, To the Reader and the introduction",
    "resolution": "paragraph; sub-headings are units of their own, marked heading: true",
    "honesty": "Gutenberg's transcription of the 1563 print, original spelling kept. Rainolde ADAPTS Aphthonius (by way of Lorichius's Latin), with his own model orations: a witness to each exercise's method, not a translation of Aphthonius's text."
+  }
+ },
+ "smith-dgrbm": {
+  "title": "A Dictionary of Greek and Roman Biography and Mythology",
+  "author": "ed. William Smith (London: John Murray, 1848; 1873 printing)",
+  "format": "dictionary-tei",
+  "sha256": "d6462fbc94d66be83488c4c79d0f76fbd3e26a5ab8cb64c362f0348eaaaffa9a",
+  "units": 19901,
+  "scheme": {
+   "citation": "Perseus xml:id of the entry (e.g. abaris-bio-1); printed page under lex.pages",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "19,901 entries and sub-entries, as Perseus delimited them. Cross-references: 672 encoded by Perseus and exact; 2,123 printed [SEE-NAME.] references resolved by a unique headword; 2,200 left unresolved with their candidates because the headword names several people; 85 encoded targets that match no entry, kept as encoded. 43,867 citations of ancient authors, and 517 references to a work by its PHI/TLG number, are recorded as Perseus normalised them and NOT resolved to passages. Accents printed as apostrophes (A'baris) are kept in the ref and dropped from lex.lemma."
+  },
+  "rights": {
+   "license": "text public domain (1848); Perseus markup CC BY-SA 4.0",
+   "attribution": "Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the NEH and Tufts University. Data accessed from https://github.com/PerseusDL/canonical-pdlrefwk/ on 2026-10-19.",
+   "source_url": "https://github.com/PerseusDL/canonical-pdlrefwk",
+   "redistribute_whole": false,
+   "note": "Smith's text is US public domain. Perseus's encoding of it is CC BY-SA 4.0, which asks for credit, share-alike and that changes be offered back to Perseus. Held like every other Perseus text here (redistribute_whole false) until Adam rules on CC BY-SA wholes; quote and cite with the credit line."
+  }
+ },
+ "brewer-character-sketches": {
+  "title": "Character Sketches of Romance, Fiction and the Drama (The Reader's Handbook, revised American edition)",
+  "author": "E. Cobham Brewer; ed. Marion Harland (New York: Selmar Hess, 1892)",
+  "format": "dictionary-gutenberg",
+  "sha256": "3c81480e45c0fe7c191e15a19b6995d62aad2fff19f2f6fa0c8461a759996ae2",
+  "units": 14416,
+  "scheme": {
+   "citation": "headword as a slug; `~2` for a repeated headword; `app1:`/`app2:`/`app3:` for the three appendices",
+   "resolution": "entry",
+   "honesty": "entry boundaries from the transcription's headword marks",
+   "note": "10,206 dictionary entries across four Gutenberg volumes (PG 11431, 58596, 20851, 58988) plus 4,210 appendix items (authors' works; dates of foreign poems and novels; dramas and operas). Volume I marks headwords in capitals, II-IV in bold, and Brewer's list entries (Dying Sayings, Dwarfs, court jesters) print their items the same way. 238 such items were told from headwords by the dictionary's own alphabetical order and kept inside their entry (lex.list_items). The same test would fold a real headword Brewer himself printed out of order; the folded names are kept in lex.list_items so that can be checked. Italic second senses ride inside their entry under lex.subheads. 334 `See X` references resolved to a unique headword; 4 left with their candidates. The text is the 1892 printing as the Gutenberg transcribers keyed it: they list their corrections at the end of each volume and modernised nothing; vol. III's 185 [TN-n] pointers to kept printer's errors are stripped. Printed page numbers are not in the transcription, so no page is claimed."
   }
  }
 }

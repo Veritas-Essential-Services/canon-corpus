@@ -1,0 +1,940 @@
+{
+ "_about": "Perseus abbreviations in Smith's DGRBM citations (<bibl n>) -> CTS work URN. Every row was read from the work's own __cts__.xml in the named PerseusDL catalog (canonical-greekLit 0189b9c8, canonical-latinLit 0700a6b7, read 2026-10-19 and 2026-10-22; Polyaenus from First1KGreek); perseus_title is that file's title, and a row whose title did not read back as the expected work was dropped. Left out on purpose: works Perseus does not hold (Justin, Hyginus, Velleius, Macrobius, Eutropius, Orosius, Servius, Photius, Antoninus Liberalis, the Digest, Eustathius); citations by page of a printed edition (Strabo's Casaubon pages, Clement's Stromata pages), whose numbers are not the CTS passage; and Plutarch's paired lives Perseus prints as one work (Agis and Cleomenes, the Gracchi), where a life's own chapter number would point into the wrong half.",
+ "works": {
+  "Ael. NA": {
+   "urn": "urn:cts:greekLit:tlg0545.tlg001",
+   "perseus_title": "De Natura Animalium",
+   "catalog": "canonical-greekLit"
+  },
+  "Ael. VH": {
+   "urn": "urn:cts:greekLit:tlg0545.tlg002",
+   "perseus_title": "Varia Historia",
+   "catalog": "canonical-greekLit"
+  },
+  "Aesch. Ag.": {
+   "urn": "urn:cts:greekLit:tlg0085.tlg005",
+   "perseus_title": "Agamemnon",
+   "catalog": "canonical-greekLit"
+  },
+  "Aesch. Eum.": {
+   "urn": "urn:cts:greekLit:tlg0085.tlg007",
+   "perseus_title": "Eumenides",
+   "catalog": "canonical-greekLit"
+  },
+  "Aesch. Pers.": {
+   "urn": "urn:cts:greekLit:tlg0085.tlg002",
+   "perseus_title": "Persians",
+   "catalog": "canonical-greekLit"
+  },
+  "Amm.": {
+   "urn": "urn:cts:latinLit:stoa0023.stoa001",
+   "perseus_title": "Res Gestae",
+   "catalog": "canonical-latinLit"
+  },
+  "Anth. Gr.": {
+   "urn": "urn:cts:greekLit:tlg7000.tlg001",
+   "perseus_title": "Greek Anthology",
+   "catalog": "canonical-greekLit"
+  },
+  "Apollod.": {
+   "urn": "urn:cts:greekLit:tlg0548.tlg001",
+   "perseus_title": "Library",
+   "catalog": "canonical-greekLit"
+  },
+  "Apollon.": {
+   "urn": "urn:cts:greekLit:tlg0001.tlg001",
+   "perseus_title": "Argonautica",
+   "catalog": "canonical-greekLit"
+  },
+  "App. BC": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg017",
+   "perseus_title": "Civil Wars",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Gall.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg005",
+   "perseus_title": "Gallic History",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Hisp.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg007",
+   "perseus_title": "Wars in Spain",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Ill.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg012",
+   "perseus_title": "Illyrian Wars",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Mac.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg011",
+   "perseus_title": "Macedonian Affairs",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Mith.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg014",
+   "perseus_title": "Mithridatic Wars",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Pun.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg009",
+   "perseus_title": "Punic Wars",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Sic.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg006",
+   "perseus_title": "Sicily and the Other Islands",
+   "catalog": "canonical-greekLit"
+  },
+  "App. Syr.": {
+   "urn": "urn:cts:greekLit:tlg0551.tlg013",
+   "perseus_title": "Syrian Wars",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Ach.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg001",
+   "perseus_title": "Acharnians",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Birds": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg006",
+   "perseus_title": "Birds",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Cl.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg003",
+   "perseus_title": "Clouds",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Eccl.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg010",
+   "perseus_title": "Ecclesiazusae",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Frogs": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg009",
+   "perseus_title": "Frogs",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Kn.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg002",
+   "perseus_title": "Knights",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Lys.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg007",
+   "perseus_title": "Lysistrata",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Peace": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg005",
+   "perseus_title": "Peace",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Pl.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg011",
+   "perseus_title": "Wealth",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Thes.": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg008",
+   "perseus_title": "Thesmophoriazusae",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristoph. Wasps": {
+   "urn": "urn:cts:greekLit:tlg0019.tlg004",
+   "perseus_title": "Wasps",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristot. Met.": {
+   "urn": "urn:cts:greekLit:tlg0086.tlg025",
+   "perseus_title": "Metaphysics",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristot. Nic. Eth.": {
+   "urn": "urn:cts:greekLit:tlg0086.tlg010",
+   "perseus_title": "Nicomachean Ethics",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristot. Poet.": {
+   "urn": "urn:cts:greekLit:tlg0086.tlg034",
+   "perseus_title": "Poetics",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristot. Pol.": {
+   "urn": "urn:cts:greekLit:tlg0086.tlg035",
+   "perseus_title": "Politics",
+   "catalog": "canonical-greekLit"
+  },
+  "Aristot. Rh.": {
+   "urn": "urn:cts:greekLit:tlg0086.tlg038",
+   "perseus_title": "Rhetoric",
+   "catalog": "canonical-greekLit"
+  },
+  "Arr. An.": {
+   "urn": "urn:cts:greekLit:tlg0074.tlg001",
+   "perseus_title": "Ἀλεξάνδρου Ἀνάβασις",
+   "catalog": "canonical-greekLit"
+  },
+  "Arr. Ind.": {
+   "urn": "urn:cts:greekLit:tlg0074.tlg002",
+   "perseus_title": "Indica",
+   "catalog": "canonical-greekLit"
+  },
+  "Ath.": {
+   "urn": "urn:cts:greekLit:tlg0008.tlg001",
+   "perseus_title": "Deipnosophistae",
+   "catalog": "canonical-greekLit"
+  },
+  "Caes. Civ.": {
+   "urn": "urn:cts:latinLit:phi0448.phi002",
+   "perseus_title": "Civil War",
+   "catalog": "canonical-latinLit"
+  },
+  "Caes. Gal.": {
+   "urn": "urn:cts:latinLit:phi0448.phi001",
+   "perseus_title": "Gallic War",
+   "catalog": "canonical-latinLit"
+  },
+  "Catul.": {
+   "urn": "urn:cts:latinLit:phi0472.phi001",
+   "perseus_title": "Carmina",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Ac.": {
+   "urn": "urn:cts:latinLit:phi0474.phi045",
+   "perseus_title": "Academica",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Att.": {
+   "urn": "urn:cts:latinLit:phi0474.phi057",
+   "perseus_title": "Letters to Atticus",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Brut.": {
+   "urn": "urn:cts:latinLit:phi0474.phi039",
+   "perseus_title": "Brutus",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Clu.": {
+   "urn": "urn:cts:latinLit:phi0474.phi010",
+   "perseus_title": "Pro A. Cluentio",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Fam.": {
+   "urn": "urn:cts:latinLit:phi0474.phi056",
+   "perseus_title": "Letters to his Friends",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Font.": {
+   "urn": "urn:cts:latinLit:phi0474.phi007",
+   "perseus_title": "Pro Fonteio",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Luc.": {
+   "urn": "urn:cts:latinLit:phi0474.phi046",
+   "perseus_title": "Lucullus",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Phil.": {
+   "urn": "urn:cts:latinLit:phi0474.phi035",
+   "perseus_title": "Philippicae",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. Ver.": {
+   "urn": "urn:cts:latinLit:phi0474.phi005",
+   "perseus_title": "In C. Verrem",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. ad Brut.": {
+   "urn": "urn:cts:latinLit:phi0474.phi059",
+   "perseus_title": "Letters to Brutus",
+   "catalog": "canonical-latinLit"
+  },
+  "Cic. de Orat.": {
+   "urn": "urn:cts:latinLit:phi0474.phi037",
+   "perseus_title": "On Oratory",
+   "catalog": "canonical-latinLit"
+  },
+  "Curt.": {
+   "urn": "urn:cts:latinLit:phi0860.phi001",
+   "perseus_title": "Historiarum Alexandri Magni",
+   "catalog": "canonical-latinLit"
+  },
+  "D. C.": {
+   "urn": "urn:cts:greekLit:tlg0385.tlg001",
+   "perseus_title": "Historia Romana",
+   "catalog": "canonical-greekLit"
+  },
+  "D. L.": {
+   "urn": "urn:cts:greekLit:tlg0004.tlg001",
+   "perseus_title": "Vitae philosophorum",
+   "catalog": "canonical-greekLit"
+  },
+  "Diod.": {
+   "urn": "urn:cts:greekLit:tlg0060.tlg001",
+   "perseus_title": "Historical Library",
+   "catalog": "canonical-greekLit"
+  },
+  "Dionys. A. R.": {
+   "urn": "urn:cts:greekLit:tlg0081.tlg001",
+   "perseus_title": "Antiquitates Romanae",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Alc.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg002",
+   "perseus_title": "Alcestis",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Andr.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg006",
+   "perseus_title": "Andromache",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Ba.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg017",
+   "perseus_title": "Bacchae",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Hec.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg007",
+   "perseus_title": "Hecuba",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Hel.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg014",
+   "perseus_title": "Helen",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Her.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg009",
+   "perseus_title": "Heracles",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Hipp.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg005",
+   "perseus_title": "Hippolytus",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. IA": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg018",
+   "perseus_title": "Iphigenia in Aulis",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. IT": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg013",
+   "perseus_title": "Iphigenia in Tauris",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Ion": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg010",
+   "perseus_title": "Ion",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Med.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg003",
+   "perseus_title": "Medea",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Orest.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg016",
+   "perseus_title": "Orestes",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Phoen.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg015",
+   "perseus_title": "Phoenissae",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Rh.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg019",
+   "perseus_title": "Rhesus",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Supp.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg008",
+   "perseus_title": "Suppliants",
+   "catalog": "canonical-greekLit"
+  },
+  "Eur. Tro.": {
+   "urn": "urn:cts:greekLit:tlg0006.tlg011",
+   "perseus_title": "The Trojan Women",
+   "catalog": "canonical-greekLit"
+  },
+  "Euseb. Hist. Eccl.": {
+   "urn": "urn:cts:greekLit:tlg2018.tlg002",
+   "perseus_title": "Ecclesiastical History",
+   "catalog": "canonical-greekLit"
+  },
+  "Flor.": {
+   "urn": "urn:cts:latinLit:phi1242.phi001",
+   "perseus_title": "Epitome Rerum Romanorum",
+   "catalog": "canonical-latinLit"
+  },
+  "Gel.": {
+   "urn": "urn:cts:latinLit:phi1254.phi001",
+   "perseus_title": "Noctes Atticae",
+   "catalog": "canonical-latinLit"
+  },
+  "Hdt.": {
+   "urn": "urn:cts:greekLit:tlg0016.tlg001",
+   "perseus_title": "Histories",
+   "catalog": "canonical-greekLit"
+  },
+  "Hes. Th.": {
+   "urn": "urn:cts:greekLit:tlg0020.tlg001",
+   "perseus_title": "Theogony",
+   "catalog": "canonical-greekLit"
+  },
+  "Hom. Il.": {
+   "urn": "urn:cts:greekLit:tlg0012.tlg001",
+   "perseus_title": "Iliad",
+   "catalog": "canonical-greekLit"
+  },
+  "Hom. Od.": {
+   "urn": "urn:cts:greekLit:tlg0012.tlg002",
+   "perseus_title": "Odyssey",
+   "catalog": "canonical-greekLit"
+  },
+  "Hor. Carm.": {
+   "urn": "urn:cts:latinLit:phi0893.phi001",
+   "perseus_title": "Carmina",
+   "catalog": "canonical-latinLit"
+  },
+  "Hor. Ep.": {
+   "urn": "urn:cts:latinLit:phi0893.phi005",
+   "perseus_title": "Epistulae",
+   "catalog": "canonical-latinLit"
+  },
+  "J. AJ": {
+   "urn": "urn:cts:greekLit:tlg0526.tlg001",
+   "perseus_title": "Jewish Antiquities",
+   "catalog": "canonical-greekLit"
+  },
+  "J. BJ": {
+   "urn": "urn:cts:greekLit:tlg0526.tlg004",
+   "perseus_title": "The Jewish War",
+   "catalog": "canonical-greekLit"
+  },
+  "Juv.": {
+   "urn": "urn:cts:latinLit:phi1276.phi001",
+   "perseus_title": "Saturae",
+   "catalog": "canonical-latinLit"
+  },
+  "Liv.": {
+   "urn": "urn:cts:latinLit:phi0914.phi001",
+   "perseus_title": "Ab urbe condita",
+   "catalog": "canonical-latinLit"
+  },
+  "Luc.": {
+   "urn": "urn:cts:latinLit:phi0917.phi001",
+   "perseus_title": "Civil War",
+   "catalog": "canonical-latinLit"
+  },
+  "Mart.": {
+   "urn": "urn:cts:latinLit:phi1294.phi002",
+   "perseus_title": "Epigrammata",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Am.": {
+   "urn": "urn:cts:latinLit:phi0959.phi001",
+   "perseus_title": "Amores",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Ep.": {
+   "urn": "urn:cts:latinLit:phi0959.phi002",
+   "perseus_title": "Epistulae",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Fast.": {
+   "urn": "urn:cts:latinLit:phi0959.phi007",
+   "perseus_title": "Fasti",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Met.": {
+   "urn": "urn:cts:latinLit:phi0959.phi006",
+   "perseus_title": "Metamorphoses",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Pont.": {
+   "urn": "urn:cts:latinLit:phi0959.phi009",
+   "perseus_title": "Ex Ponto",
+   "catalog": "canonical-latinLit"
+  },
+  "Ov. Tr.": {
+   "urn": "urn:cts:latinLit:phi0959.phi008",
+   "perseus_title": "Tristia",
+   "catalog": "canonical-latinLit"
+  },
+  "Paus.": {
+   "urn": "urn:cts:greekLit:tlg0525.tlg001",
+   "perseus_title": "Description of Greece",
+   "catalog": "canonical-greekLit"
+  },
+  "Pind. I.": {
+   "urn": "urn:cts:greekLit:tlg0033.tlg004",
+   "perseus_title": "Isthmean",
+   "catalog": "canonical-greekLit"
+  },
+  "Pind. N.": {
+   "urn": "urn:cts:greekLit:tlg0033.tlg003",
+   "perseus_title": "Nemean",
+   "catalog": "canonical-greekLit"
+  },
+  "Pind. O.": {
+   "urn": "urn:cts:greekLit:tlg0033.tlg001",
+   "perseus_title": "Olympian",
+   "catalog": "canonical-greekLit"
+  },
+  "Pind. P.": {
+   "urn": "urn:cts:greekLit:tlg0033.tlg002",
+   "perseus_title": "Pythian",
+   "catalog": "canonical-greekLit"
+  },
+  "Plb.": {
+   "urn": "urn:cts:greekLit:tlg0543.tlg001",
+   "perseus_title": "Histories",
+   "catalog": "canonical-greekLit"
+  },
+  "Plin. Ep.": {
+   "urn": "urn:cts:latinLit:phi1318.phi001",
+   "perseus_title": "Epistulae",
+   "catalog": "canonical-latinLit"
+  },
+  "Plin. Nat.": {
+   "urn": "urn:cts:latinLit:phi0978.phi001",
+   "perseus_title": "Naturalis Historia",
+   "catalog": "canonical-latinLit"
+  },
+  "Plut. Aem.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg019",
+   "perseus_title": "Aemilius Paulus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Ages.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg044",
+   "perseus_title": "Agesilaus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Alc.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg015",
+   "perseus_title": "Alcibiades",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Alex.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg047",
+   "perseus_title": "Alexander",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Ant.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg058",
+   "perseus_title": "Antony",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Arat.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg063",
+   "perseus_title": "Aratus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Arist.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg024",
+   "perseus_title": "Aristides",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Art.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg064",
+   "perseus_title": "Artaxerxes",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Brut.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg061",
+   "perseus_title": "Brutus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Caes.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg048",
+   "perseus_title": "Caesar",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cam.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg011",
+   "perseus_title": "Camillus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cat. Ma.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg025",
+   "perseus_title": "Marcus Cato",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cat. Mi.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg050",
+   "perseus_title": "Cato the Younger",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cic.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg055",
+   "perseus_title": "Cicero",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cim.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg035",
+   "perseus_title": "Cimon",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Cor.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg016",
+   "perseus_title": "Caius Marcius Coriolanus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Crass.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg039",
+   "perseus_title": "Crassus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Dem.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg054",
+   "perseus_title": "Demosthenes",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Demetr.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg057",
+   "perseus_title": "Demetrius",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Dio": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg060",
+   "perseus_title": "Dion",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Eum.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg041",
+   "perseus_title": "Eumenes",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Fab.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg013",
+   "perseus_title": "Fabius Maximus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Flam.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg028",
+   "perseus_title": "Titus Flamininus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Galb.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg065",
+   "perseus_title": "Galba",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Luc.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg036",
+   "perseus_title": "Lucullus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Lyc.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg004",
+   "perseus_title": "Lycurgus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Lys.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg032",
+   "perseus_title": "Lysander",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Mar.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg031",
+   "perseus_title": "Caius Marius",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Marc.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg022",
+   "perseus_title": "Marcellus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Nic.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg038",
+   "perseus_title": "Nicias",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Num.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg005",
+   "perseus_title": "Numa",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Oth.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg066",
+   "perseus_title": "Otho",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Pel.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg021",
+   "perseus_title": "Pelopidas",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Per.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg012",
+   "perseus_title": "Pericles",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Phil.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg027",
+   "perseus_title": "Philopoemen",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Phoc.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg049",
+   "perseus_title": "Phocion",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Pomp.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg045",
+   "perseus_title": "Pompey",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Publ.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg008",
+   "perseus_title": "Publicola",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Pyrrh.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg030",
+   "perseus_title": "Pyrrhus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Rom.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg002",
+   "perseus_title": "Romulus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Sert.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg042",
+   "perseus_title": "Sertorius",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Sol.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg007",
+   "perseus_title": "Solon",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Sull.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg033",
+   "perseus_title": "Sulla",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Them.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg010",
+   "perseus_title": "Themistocles",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Thes.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg001",
+   "perseus_title": "Theseus",
+   "catalog": "canonical-greekLit"
+  },
+  "Plut. Tim.": {
+   "urn": "urn:cts:greekLit:tlg0007.tlg018",
+   "perseus_title": "Timoleon",
+   "catalog": "canonical-greekLit"
+  },
+  "Polyaen.": {
+   "urn": "urn:cts:greekLit:tlg0616.tlg001",
+   "perseus_title": "Strategemata",
+   "catalog": "First1KGreek"
+  },
+  "Prop.": {
+   "urn": "urn:cts:latinLit:phi0620.phi001",
+   "perseus_title": "Elegiae",
+   "catalog": "canonical-latinLit"
+  },
+  "Quint. Inst.": {
+   "urn": "urn:cts:latinLit:phi1002.phi001",
+   "perseus_title": "Institutio Oratoria",
+   "catalog": "canonical-latinLit"
+  },
+  "Sal. Cat.": {
+   "urn": "urn:cts:latinLit:phi0631.phi001",
+   "perseus_title": "Catilinae Coniuratio",
+   "catalog": "canonical-latinLit"
+  },
+  "Sal. Jug.": {
+   "urn": "urn:cts:latinLit:phi0631.phi002",
+   "perseus_title": "Bellum Iugurthinum",
+   "catalog": "canonical-latinLit"
+  },
+  "Sil.": {
+   "urn": "urn:cts:latinLit:phi1345.phi001",
+   "perseus_title": "Punica",
+   "catalog": "canonical-latinLit"
+  },
+  "Sil. Ital.": {
+   "urn": "urn:cts:latinLit:phi1345.phi001",
+   "perseus_title": "Punica",
+   "catalog": "canonical-latinLit"
+  },
+  "Soph. Aj.": {
+   "urn": "urn:cts:greekLit:tlg0011.tlg003",
+   "perseus_title": "Ajax",
+   "catalog": "canonical-greekLit"
+  },
+  "Soph. Ant.": {
+   "urn": "urn:cts:greekLit:tlg0011.tlg002",
+   "perseus_title": "Antigone",
+   "catalog": "canonical-greekLit"
+  },
+  "Soph. Phil.": {
+   "urn": "urn:cts:greekLit:tlg0011.tlg006",
+   "perseus_title": "Philoctetes",
+   "catalog": "canonical-greekLit"
+  },
+  "Soph. Trach.": {
+   "urn": "urn:cts:greekLit:tlg0011.tlg001",
+   "perseus_title": "Trachiniae",
+   "catalog": "canonical-greekLit"
+  },
+  "Stat. Silv.": {
+   "urn": "urn:cts:latinLit:phi1020.phi002",
+   "perseus_title": "Silvae",
+   "catalog": "canonical-latinLit"
+  },
+  "Stat. Theb.": {
+   "urn": "urn:cts:latinLit:phi1020.phi001",
+   "perseus_title": "Thebais",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Aug.": {
+   "urn": "urn:cts:latinLit:phi1348.abo012",
+   "perseus_title": "Divus Augustus",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Cal.": {
+   "urn": "urn:cts:latinLit:phi1348.abo014",
+   "perseus_title": "Caligula",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Cl.": {
+   "urn": "urn:cts:latinLit:phi1348.abo015",
+   "perseus_title": "Divus Claudius",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Dom.": {
+   "urn": "urn:cts:latinLit:phi1348.abo022",
+   "perseus_title": "Domitianus",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Jul.": {
+   "urn": "urn:cts:latinLit:phi1348.abo011",
+   "perseus_title": "Divus Julius",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Nero": {
+   "urn": "urn:cts:latinLit:phi1348.abo016",
+   "perseus_title": "Nero",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Otho": {
+   "urn": "urn:cts:latinLit:phi1348.abo018",
+   "perseus_title": "Otho",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Tib.": {
+   "urn": "urn:cts:latinLit:phi1348.abo013",
+   "perseus_title": "Tiberius",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Tit.": {
+   "urn": "urn:cts:latinLit:phi1348.abo021",
+   "perseus_title": "Divus Titus",
+   "catalog": "canonical-latinLit"
+  },
+  "Suet. Vit.": {
+   "urn": "urn:cts:latinLit:phi1348.abo019",
+   "perseus_title": "Vitellius",
+   "catalog": "canonical-latinLit"
+  },
+  "Tac. Ann.": {
+   "urn": "urn:cts:latinLit:phi1351.phi005",
+   "perseus_title": "Annales",
+   "catalog": "canonical-latinLit"
+  },
+  "Tac. Hist.": {
+   "urn": "urn:cts:latinLit:phi1351.phi004",
+   "perseus_title": "Historiae",
+   "catalog": "canonical-latinLit"
+  },
+  "Theoc.": {
+   "urn": "urn:cts:greekLit:tlg0005.tlg001",
+   "perseus_title": "Εἰδύλλια",
+   "catalog": "canonical-greekLit"
+  },
+  "Thuc.": {
+   "urn": "urn:cts:greekLit:tlg0003.tlg001",
+   "perseus_title": "History of the Peloponnesian War",
+   "catalog": "canonical-greekLit"
+  },
+  "Tib.": {
+   "urn": "urn:cts:latinLit:phi0660.phi001",
+   "perseus_title": "Elegiae",
+   "catalog": "canonical-latinLit"
+  },
+  "V. Fl.": {
+   "urn": "urn:cts:latinLit:phi1035.phi001",
+   "perseus_title": "Argonautica",
+   "catalog": "canonical-latinLit"
+  },
+  "V. Max.": {
+   "urn": "urn:cts:latinLit:phi1038.phi001",
+   "perseus_title": "Facta et Dicta Memorabilia",
+   "catalog": "canonical-latinLit"
+  },
+  "Verg. A.": {
+   "urn": "urn:cts:latinLit:phi0690.phi003",
+   "perseus_title": "Aeneid",
+   "catalog": "canonical-latinLit"
+  },
+  "Verg. Ecl.": {
+   "urn": "urn:cts:latinLit:phi0690.phi001",
+   "perseus_title": "Eclogues",
+   "catalog": "canonical-latinLit"
+  },
+  "Verg. G.": {
+   "urn": "urn:cts:latinLit:phi0690.phi002",
+   "perseus_title": "Georgics",
+   "catalog": "canonical-latinLit"
+  },
+  "Vitr.": {
+   "urn": "urn:cts:latinLit:phi1056.phi001",
+   "perseus_title": "On Architecture",
+   "catalog": "canonical-latinLit"
+  },
+  "Xen. Ages.": {
+   "urn": "urn:cts:greekLit:tlg0032.tlg009",
+   "perseus_title": "Agesilaus",
+   "catalog": "canonical-greekLit"
+  },
+  "Xen. Anab.": {
+   "urn": "urn:cts:greekLit:tlg0032.tlg006",
+   "perseus_title": "Anabasis",
+   "catalog": "canonical-greekLit"
+  },
+  "Xen. Cyrop.": {
+   "urn": "urn:cts:greekLit:tlg0032.tlg007",
+   "perseus_title": "Cyropaedia",
+   "catalog": "canonical-greekLit"
+  },
+  "Xen. Hell.": {
+   "urn": "urn:cts:greekLit:tlg0032.tlg001",
+   "perseus_title": "Hellenica",
+   "catalog": "canonical-greekLit"
+  },
+  "Xen. Mem.": {
+   "urn": "urn:cts:greekLit:tlg0032.tlg002",
+   "perseus_title": "Memorabilia",
+   "catalog": "canonical-greekLit"
+  },
+  "Zonar.": {
+   "urn": "urn:cts:greekLit:tlg3135.tlg001",
+   "perseus_title": "Epitome historiarum (Vol. 1)",
+   "catalog": "canonical-greekLit"
+  }
+ }
+}
