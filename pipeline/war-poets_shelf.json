@@ -1,0 +1,51 @@
+{
+ "_about": "Poets of the First World War: Rupert Brooke's Collected Poems (1915) and Wilfred Owen's Poems (1920). Both died in the war; public domain in the US and UK. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Rupert Brooke; Wilfred Owen",
+ "_name_words": [
+  "rupert",
+  "brooke",
+  "wilfred",
+  "owen"
+ ],
+ "_surname": [
+  "rupert brooke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "brooke-collected-poems": [
+   262,
+   "The Collected Poems of Rupert Brooke"
+  ],
+  "owen-poems-1920": [
+   1034,
+   "Poems (1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "owen-poems-1920": [
+   "wilfred owen"
+  ]
+ },
+ "_checks": {
+  "brooke-collected-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rupert brooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "owen-poems-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wilfred owen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

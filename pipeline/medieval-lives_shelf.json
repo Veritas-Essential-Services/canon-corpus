@@ -1,0 +1,172 @@
+{
+ "_about": "Medieval chronicles and saints' lives on Callihan's and Omnibus's lists. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "various",
+ "_name_words": [
+  "asser",
+  "alfred",
+  "cook",
+  "columba",
+  "adamnan",
+  "villehardouin",
+  "joinville",
+  "geoffrey",
+  "monmouth",
+  "gregory",
+  "gardner",
+  "roper",
+  "more"
+ ],
+ "_surname": [
+  "asser"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "asser-life-of-alfred-cook": [
+   63384,
+   "Asser's Life of King Alfred, tr. Albert S. Cook (1906)"
+  ],
+  "villehardouin-fourth-crusade": [
+   6032,
+   "Villehardouin, Memoirs or Chronicle of the Fourth Crusade and the Conquest of Constantinople, tr. Frank T. Marzials (1908)"
+  ],
+  "bradford-plymouth-paget": [
+   69871,
+   "William Bradford, History of the Plymouth Settlement, 1608-1650, rendered into modern English by Harold Paget (1909)"
+  ]
+ },
+ "internet_archive": {
+  "geoffrey-histories-kings-britain-evans": [
+   "historiesoftheki037587mbp",
+   "Geoffrey of Monmouth, Histories of the Kings of Britain, tr. Sebastian Evans (Everyman, 1912)"
+  ],
+  "gregory-dialogues-gardner-1911": [
+   "dialoguesofsaint00greg",
+   "The Dialogues of Saint Gregory the Great, the 1608 translation (P. W.) revised by Edmund G. Gardner (1911)"
+  ],
+  "roper-life-of-more-1905": [
+   "lifeofsirthomasm00ropeuoft",
+   "William Roper, The Life of Sir Thomas More (Dent, 1905)"
+  ],
+  "adamnan-life-of-columba-huyshe": [
+   "lifeofsaintcolum00adam",
+   "Adamnan, The Life of Saint Columba (Columb-Kille), tr. Wentworth Huyshe (Routledge, 1905)"
+  ]
+ },
+ "_translators": {
+  "asser-life-of-alfred-cook": "Cook",
+  "villehardouin-fourth-crusade": "Marzials",
+  "geoffrey-histories-kings-britain-evans": "Evans",
+  "gregory-dialogues-gardner-1911": "Gardner",
+  "adamnan-life-of-columba-huyshe": "Huyshe"
+ },
+ "_surname_by_slug": {
+  "asser-life-of-alfred-cook": [
+   "asser"
+  ],
+  "villehardouin-fourth-crusade": [
+   "villehardouin"
+  ],
+  "bradford-plymouth-paget": [
+   "bradford"
+  ],
+  "geoffrey-histories-kings-britain-evans": [
+   "monmouth"
+  ],
+  "gregory-dialogues-gardner-1911": [
+   "gregory"
+  ],
+  "roper-life-of-more-1905": [
+   "roper"
+  ],
+  "adamnan-life-of-columba-huyshe": [
+   "adamnan"
+  ]
+ },
+ "_checks": {
+  "asser-life-of-alfred-cook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "asser",
+   "translator_claimed": "Cook",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Albert S. Cook",
+   "translator_match": true
+  },
+  "villehardouin-fourth-crusade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "villehardouin",
+   "translator_claimed": "Marzials",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bradford-plymouth-paget": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "geoffrey-histories-kings-britain-evans": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "monmouth",
+   "translator_claimed": "Evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gregory-dialogues-gardner-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "translator_claimed": "Gardner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "roper-life-of-more-1905": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "roper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "[1905]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adamnan-life-of-columba-huyshe": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adamnan",
+   "translator_claimed": "Huyshe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_excluded": {
+  "adamnan-life-of-columba (PG 38682)": "Gutenberg's 'Life of Saint Columba, Abbot' is an anonymous 19th-century life that quotes Adamnan, not Adamnan's Vita; Huyshe's translation of the Vita is used instead."
+ }
+}

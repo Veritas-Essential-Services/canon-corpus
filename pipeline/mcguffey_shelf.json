@@ -1,0 +1,112 @@
+{
+ "_about": "McGuffey's Eclectic Readers, revised edition (1879): the Primer and the First through Sixth Readers. Added for the short-pieces section (docs/short-pieces/): the readers and anthologies that hold the poems, stories and speeches classical and Christian curricula assign.",
+ "_author": "William Holmes McGuffey",
+ "_name_words": [
+  "william",
+  "holmes",
+  "mcguffey",
+  "mcguffey's",
+  "eclectic"
+ ],
+ "_surname": [
+  "mcguffey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mcguffey-primer": [
+   14642,
+   "McGuffey's Eclectic Primer, Revised Edition"
+  ],
+  "mcguffey-first-reader": [
+   14640,
+   "McGuffey's First Eclectic Reader, Revised Edition"
+  ],
+  "mcguffey-second-reader": [
+   14668,
+   "McGuffey's Second Eclectic Reader"
+  ],
+  "mcguffey-third-reader": [
+   14766,
+   "McGuffey's Third Eclectic Reader"
+  ],
+  "mcguffey-fourth-reader": [
+   14880,
+   "McGuffey's Fourth Eclectic Reader"
+  ],
+  "mcguffey-fifth-reader": [
+   15040,
+   "McGuffey's Fifth Eclectic Reader"
+  ],
+  "mcguffey-sixth-reader": [
+   16751,
+   "McGuffey's Sixth Eclectic Reader"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mcguffey-primer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-first-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-second-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-third-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-fourth-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-fifth-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcguffey-sixth-reader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mcguffey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

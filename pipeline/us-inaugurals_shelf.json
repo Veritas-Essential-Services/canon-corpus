@@ -1,0 +1,33 @@
+{
+ "_about": "United States Presidents' Inaugural Speeches, from Washington to George W. Bush (Gutenberg's compilation). Presidential addresses are US government works, free of copyright; the lists want Washington's first inaugural. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "United States. Presidents",
+ "_name_words": [
+  "united",
+  "states",
+  "presidents",
+  "inaugural"
+ ],
+ "_surname": [
+  "washington"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "us-presidents-inaugural-speeches": [
+   925,
+   "United States Presidents' Inaugural Speeches"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "us-presidents-inaugural-speeches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "washington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

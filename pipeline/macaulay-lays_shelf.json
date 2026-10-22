@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Babington Macaulay, Lays of Ancient Rome (1842), with Horatius. Distinct from G. C. Macaulay's Herodotus on Lane B. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Thomas Babington Macaulay",
+ "_name_words": [
+  "thomas",
+  "babington",
+  "macaulay"
+ ],
+ "_surname": [
+  "babington macaulay",
+  "macaulay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "macaulay-lays-of-ancient-rome": [
+   847,
+   "Lays of Ancient Rome (1842)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "macaulay-lays-of-ancient-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "babington macaulay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

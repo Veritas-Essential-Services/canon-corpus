@@ -1,0 +1,33 @@
+{
+ "_about": "Daniel Defoe's (c.1660-1731) Robinson Crusoe, the reading-list title. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Daniel Defoe",
+ "_name_words": [
+  "daniel",
+  "defoe"
+ ],
+ "_surname": [
+  "daniel defoe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "defoe-robinson-crusoe": [
+   521,
+   "The Life and Adventures of Robinson Crusoe (1719)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "defoe-crusoe-variants": "other Gutenberg transcriptions (21524, 70841) and the one-syllable adaptation (22445) are duplicates or abridgements"
+ },
+ "_checks": {
+  "defoe-robinson-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel defoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

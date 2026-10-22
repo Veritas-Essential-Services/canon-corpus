@@ -1,0 +1,37 @@
+{
+ "_about": "Erasmus's (1466-1536) The Praise of Folly, John Wilson's translation (1668). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Desiderius Erasmus",
+ "_name_words": [
+  "desiderius",
+  "erasmus"
+ ],
+ "_surname": [
+  "erasmus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "erasmus-praise-of-folly-wilson": [
+   9371,
+   "The Praise of Folly, tr. John Wilson (1668)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "erasmus-praise-of-folly-wilson": "Wilson"
+ },
+ "_checks": {
+  "erasmus-praise-of-folly-wilson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "erasmus",
+   "translator_claimed": "Wilson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Wilson",
+   "translator_match": true
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "_about": "The Poems of John Donne, ed. H. J. C. Grierson (Oxford, 1912), vols 1-2. Lane A's `john-donne` shelf holds the Devotions and sermons and excluded the poems. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "John Donne",
+ "_name_words": [
+  "john",
+  "donne"
+ ],
+ "_surname": [
+  "john donne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "donne-poems-grierson-1": [
+   48688,
+   "The Poems of John Donne, ed. Grierson (1912), vol. 1"
+  ],
+  "donne-poems-grierson-2": [
+   48772,
+   "The Poems of John Donne, ed. Grierson (1912), vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "donne-poems-grierson-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john donne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "donne-poems-grierson-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john donne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

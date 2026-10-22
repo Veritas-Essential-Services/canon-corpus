@@ -1,0 +1,32 @@
+{
+ "_about": "Marlowe's (1564-1593) Doctor Faustus, Dyce's text. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Christopher Marlowe",
+ "_name_words": [
+  "christopher",
+  "marlowe"
+ ],
+ "_surname": [
+  "christopher marlowe",
+  "marlowe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marlowe-doctor-faustus": [
+   779,
+   "The Tragical History of Doctor Faustus (c. 1592; ed. Dyce)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "marlowe-doctor-faustus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christopher marlowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

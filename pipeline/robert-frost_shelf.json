@@ -1,0 +1,31 @@
+{
+ "_about": "Robert Frost, New Hampshire (1923), which holds Stopping by Woods on a Snowy Evening. US public domain; Frost died 1963, so UK copyright runs to 2033. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Robert Frost",
+ "_name_words": [
+  "robert",
+  "frost"
+ ],
+ "_surname": [
+  "robert frost"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "frost-new-hampshire": [
+   58611,
+   "New Hampshire: A Poem with Notes and Grace Notes (1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "frost-new-hampshire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert frost",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

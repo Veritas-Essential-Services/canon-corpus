@@ -1,0 +1,33 @@
+{
+ "_about": "Petrarch's (1304-1374) sonnets, Triumphs and other poems in English, by various translators, ed. Thomas Campbell (Bohn, 1859). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Francesco Petrarca",
+ "_name_words": [
+  "petrarch",
+  "petrarca",
+  "francesco"
+ ],
+ "_surname": [
+  "petrarch",
+  "petrarca"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "petrarch-sonnets-triumphs-bohn": [
+   17650,
+   "The Sonnets, Triumphs, and Other Poems of Petrarch (Bohn, 1859)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "petrarch-sonnets-triumphs-bohn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "petrarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

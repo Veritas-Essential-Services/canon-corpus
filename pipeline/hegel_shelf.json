@@ -1,0 +1,40 @@
+{
+ "_about": "Hegel's Philosophy of Right, tr. S. W. Dyde (Bell, 1896). Raw IA OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "G. W. F. Hegel",
+ "_name_words": [
+  "g",
+  "w",
+  "f",
+  "hegel"
+ ],
+ "_surname": [
+  "hegel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hegel-philosophy-of-right-dyde": [
+   "cu31924014578979",
+   "Hegel's Philosophy of Right, tr. S. W. Dyde (1896)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "hegel-philosophy-of-right-dyde": "Dyde"
+ },
+ "_checks": {
+  "hegel-philosophy-of-right-dyde": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Dyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

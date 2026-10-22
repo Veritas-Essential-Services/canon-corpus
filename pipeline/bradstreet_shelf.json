@@ -1,0 +1,33 @@
+{
+ "_about": "The Works of Anne Bradstreet in Prose and Verse, ed. John Harvard Ellis (Charlestown, 1867). Internet Archive (Cornell) scan; raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Anne Bradstreet",
+ "_name_words": [
+  "anne",
+  "bradstreet"
+ ],
+ "_surname": [
+  "bradstreet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bradstreet-works-1867": [
+   "cu31924021996354",
+   "The Works of Anne Bradstreet in Prose and Verse, ed. Ellis (1867)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bradstreet-works-1867": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bradstreet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

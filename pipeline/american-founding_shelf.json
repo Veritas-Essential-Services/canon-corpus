@@ -1,0 +1,97 @@
+{
+ "_about": "Founding documents of the United States as Project Gutenberg's early etexts give them: the Mayflower Compact (1620), Patrick Henry's Liberty or Death speech (1775), the Declaration of Independence (1776), the Constitution (1787) and the Bill of Rights (1791). The Federalist is held elsewhere; Lincoln's speeches are on the `lincoln` shelf. Several authors: each item names the words it must show. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "various (United States founding documents)",
+ "_name_words": [
+  "united",
+  "states",
+  "america",
+  "mayflower",
+  "patrick",
+  "henry",
+  "jefferson"
+ ],
+ "_surname": [
+  "united states"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "founding-mayflower-compact": [
+   7,
+   "The Mayflower Compact (1620)"
+  ],
+  "founding-liberty-or-death": [
+   6,
+   "Give Me Liberty or Give Me Death (Patrick Henry, 1775)"
+  ],
+  "founding-declaration": [
+   1,
+   "The Declaration of Independence of the United States of America (1776)"
+  ],
+  "founding-constitution": [
+   5,
+   "The United States Constitution (1787)"
+  ],
+  "founding-bill-of-rights": [
+   2,
+   "The United States Bill of Rights (1791)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "founding-mayflower-compact": [
+   "new plymouth",
+   "king james"
+  ],
+  "founding-liberty-or-death": [
+   "patrick henry"
+  ]
+ },
+ "_checks": {
+  "founding-mayflower-compact": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "king james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "founding-liberty-or-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "patrick henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "founding-declaration": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "united states",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "founding-constitution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "united states",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "founding-bill-of-rights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "united states",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

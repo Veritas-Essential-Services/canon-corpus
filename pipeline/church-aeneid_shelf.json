@@ -1,0 +1,36 @@
+{
+ "_about": "Alfred J. Church, The Aeneid for Boys and Girls, Told from Virgil in Simple Language (Macmillan, 1908). IA scan, raw OCR. Lane D's `church` shelf holds his other retellings. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Alfred J. Church",
+ "_name_words": [
+  "alfred",
+  "church",
+  "virgil"
+ ],
+ "_surname": [
+  "alfred j. church",
+  "alfred john church",
+  "a. j. church"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "church-aeneid-boys-girls-1908": [
+   "neidforboysgir00virgrich",
+   "The Æneid for Boys and Girls, Told from Virgil in Simple Language (1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "church-aeneid-boys-girls-1908": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred j. church",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Oscar Wilde's (1854-1900) The Picture of Dorian Gray. His fairy tales (The Happy Prince, with The Selfish Giant; A House of Pomegranates) are Lane D's wilde-fairy-tales shelf. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Oscar Wilde",
+ "_name_words": [
+  "oscar",
+  "wilde"
+ ],
+ "_surname": [
+  "oscar wilde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilde-picture-of-dorian-gray": [
+   174,
+   "The Picture of Dorian Gray (1890; 1891 text)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "wilde-fairy-tales": "HELD elsewhere: Lane D's wilde-fairy-tales shelf"
+ },
+ "_checks": {
+  "wilde-picture-of-dorian-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oscar wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "_about": "Shaw's Pygmalion (1913), on Heidi White's list. US public domain by publication date. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "George Bernard Shaw",
+ "_name_words": [
+  "bernard",
+  "shaw"
+ ],
+ "_surname": [
+  "bernard shaw"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "shaw-pygmalion": [
+   3825,
+   "Pygmalion (1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "shaw-pygmalion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bernard shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
