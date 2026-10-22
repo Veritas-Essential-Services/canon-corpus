@@ -3,6 +3,7 @@
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-10-19 claude-opus-5-5 edited
+# prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius + Rainolde manifest entries)
 # fable_review: pending
 """fetch_sources.py — manifest-driven fetcher for the structured shelves.
 
@@ -23,7 +24,7 @@ Resumable: existing files are skipped.
 Run:  python3 pipeline/fetch_sources.py            # fetch everything missing
       python3 pipeline/fetch_sources.py --list     # show the manifests
 """
-import os, sys, time, urllib.request
+import os, sys, time, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CORPUS = os.path.join(HERE, "..", "data", "corpus")
@@ -62,6 +63,9 @@ GUTENBERG_EXTRA = {
     # favourite (AmblesideOnline). Both PG headers read as public domain; no translator.
     "henty-bubastes": 29756,      # The Cat of Bubastes: A Tale of Ancient Egypt (1889)
     "henty-freedom": 4792,        # In Freedom's Cause: A Story of Wallace and Bruce (1885)
+    # Richard Rainolde, The Foundacion of Rhetorike (1563): Aphthonius adapted into English, for the
+    # Word Hoard's ProGym room (2026-10-20). PG header reads public domain; transcribed from microfiche.
+    "rainolde-foundacion": 26056,
 }
 
 # Scans with no Gutenberg text (2026-10-16). Alfred J. Church (d. 1912) retold Homer "for Boys and
@@ -76,6 +80,21 @@ ARCHIVE_OCR = {
         "Alfred J. Church, The Odyssey for Boys and Girls (Macmillan, 1906; New York Public Library scan)"),
 }
 ARCHIVE_TXT = "https://archive.org/download/{id}/{fn}"
+
+# Scans read from their OCR's LAYOUT file (hOCR or djvu.xml), not the plain text, because the page's
+# parts must be told apart by position and type size (2026-10-20, Aphthonius for the ProGym room).
+# slug: (archive.org identifier, file, saved as archive/<slug><ext>, title, author)
+ARCHIVE_LAYOUT = {
+    # Rabe's Teubner (Rhetores Graeci X, Leipzig 1926; the file name says 1925): the Greek edition scholars
+    # cite. US public domain. The uploader tagged the scan CC BY-ND 4.0; Tesseract OCR, lang grc.
+    "aphthonius-rabe": ("aphthonii-progymnasmata-rabe",
+        "Rhetores Graeci vol. X. Aphthonius. Progymnasmata, ed. Rabe, H. [BT], Leipzig, Teubner, 1925_hocr.html",
+        ".hocr.html", "Aphthonius, Progymnasmata (Greek, ed. Hugo Rabe, Teubner 1926)", "Aphthonius (ed. Hugo Rabe)"),
+    # Rudolph Agricola's Latin (Paris: Michael Vascosan, 1540); Google Books scan, archive.org OCR.
+    "aphthonius-agricola": ("bub_gb_MTf8uXACTVYC", "bub_gb_MTf8uXACTVYC_djvu.xml", ".djvu.xml",
+        "Aphthonii Sophistae Progymnasmata, Rodolpho Agricola interprete (Paris, 1540)",
+        "Aphthonius (tr. Rudolph Agricola)"),
+}
 GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 
 CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
@@ -475,6 +494,8 @@ def main():
             print(f"gutenberg/{slug}: pg{gid}")
         for slug, (ident, fn, note) in ARCHIVE_OCR.items():
             print(f"archive/{slug}: {ident} -- {note}")
+        for slug, (ident, fn, ext, title, author) in ARCHIVE_LAYOUT.items():
+            print(f"archive/{slug}: {ident} -- {title}")
         for slug, (sha, recipe, fn, shipped, psha, note) in LOCAL_SOURCES.items():
             print(f"local/{slug}: {note}")
         for slug, (src, recipe, fn, shipped, psha, note) in SHIPPED_WORKING_TEXT.items():
@@ -507,6 +528,13 @@ def main():
         dest = os.path.join(CORPUS, "archive", slug + ".txt")
         try:
             print(f"archive/{slug}: {fetch(ARCHIVE_TXT.format(id=ident, fn=fn), dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"archive/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (ident, fn, ext, title, author) in ARCHIVE_LAYOUT.items():
+        dest = os.path.join(CORPUS, "archive", slug + ext)
+        try:
+            print(f"archive/{slug}: {fetch(ARCHIVE_TXT.format(id=ident, fn=urllib.parse.quote(fn)), dest)}")
         except Exception as e:
             failures.append(slug); print(f"archive/{slug}: FAIL {e}")
         time.sleep(0.5)

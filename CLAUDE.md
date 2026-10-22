@@ -6,6 +6,7 @@ model_log:
   - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-10-19 claude-opus-5-5 edited
+  - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
 fable_review: pending
 ---
 # canon-corpus — rules for AI sessions
@@ -87,12 +88,13 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 85 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 93 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
+    python3 pipeline/build_progym.py --check      # Aphthonius, 3 editions: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)

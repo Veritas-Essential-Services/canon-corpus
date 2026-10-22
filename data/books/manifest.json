@@ -1728,5 +1728,45 @@
    "honesty": "entries segmented by rule from an exact (not OCR) text; a headword the rule misses stays inside the entry before it",
    "note": "16,750 entries. Text is the born-digital PDF typeset (2003, htmldoc) of the 1894 edition, not proofread against a scan; check copy archive.org dictionaryofphra01brew (1895). 149 headword-shaped lines fell off the alphabetical run or had no body, and were kept as text of the preceding entry. Italics are not carried. Compound hyphens print as em dashes in this transcription (first—rate) and are left as printed; 162 doubled em dashes (ranges) set as en dashes. 526 paragraphs rejoined across page breaks. 'See' cross-references: 2,125 resolved to an entry, 1,493 name no headword this build found -- mostly 'above', 'below', 'Notes and Queries', years, page refs -- and are not linked. 680 scripture citations parsed to kjv: verse ids (chapter checked against KJV chapter counts; verse not checked); 6 left out: no book number where one is needed (\"Kings\"), or a chapter past the book's last (typos, Apocrypha). Unit ids are headword slugs; repeated headwords take ~2, ~3 in page order. Front matter before the first headword: 5 paragraphs, not units."
   }
+ },
+ "aphthonius-rabe": {
+  "title": "Aphthonius, Progymnasmata (Greek, ed. Hugo Rabe, Teubner 1926)",
+  "author": "Aphthonius (ed. Hugo Rabe)",
+  "format": "archive-hocr",
+  "sha256": "fa519a81cf654fe517892b96faac562fc13c6c5907ebac55493d8b9ce0ba8f49",
+  "units": 62,
+  "scheme": {
+   "apparatus": "Rabe's critical apparatus dropped by rule (736 lines), and page furniture (133 lines: running heads, margin line numbers, specks). Rabe's page = scan page - 31, as archive.org's page map has it; the running head's own number agreed on 27 of 43 pages where the OCR read one (the rest are misread digits, 3/8 and 5/9)",
+   "citation": "exercise + Rabe page (aphthonius-rabe:chreia.8)",
+   "resolution": "page",
+   "honesty": "UNPROOFREAD OCR (Tesseract, archive.org aphthonii-progymnasmata-rabe) of Rabe's Greek: accents, breathings and some letters are misread; Rabe's line numbers are not kept, so a citation resolves to the page, never the line. A line of apparatus that the rule missed, or a line of text it took for apparatus, is possible at a page's foot. Pages 1-51 only: the fragments and indices are not ingested."
+  },
+  "rights": "US public domain (Teubner, Leipzig, 1926). The archive.org uploader tagged the scan CC BY-ND 4.0; the text is Rabe's 1926 edition and its OCR is a mechanical reading."
+ },
+ "aphthonius-agricola": {
+  "title": "Aphthonii Sophistae Progymnasmata, Rodolpho Agricola interprete (Paris, 1540)",
+  "author": "Aphthonius (tr. Rudolph Agricola)",
+  "format": "archive-djvu-xml",
+  "sha256": "ef5366aaa05a860cb5177b94de981f52e9ae1d29483b1b9ca15f5e691be1fac9",
+  "units": 92,
+  "scheme": {
+   "apparatus": "page furniture dropped by rule (137 lines: running heads, catchwords, signatures, specks) and Agricola's printed side-notes (57 lines)",
+   "citation": "exercise + paragraph (aphthonius-agricola:chreia.3)",
+   "resolution": "paragraph",
+   "honesty": "UNPROOFREAD OCR of a Google Books scan (archive.org bub_gb_MTf8uXACTVYC): the long s reads as f and other misreadings stand; paragraphs are found by indentation, so a misjudged indent splits or joins one. The anonymous treatise bound after the Progymnasmata is kept as 'appendix'; the Censura's table is not ingested."
+  }
+ },
+ "rainolde-foundacion": {
+  "title": "A Booke Called the Foundacion of Rhetorike (1563)",
+  "author": "Richard Rainolde",
+  "format": "gutenberg-txt",
+  "sha256": "20f06b99e3146533adbc8901541844255ab45f5455fac696a070885334fcc4a6",
+  "units": 545,
+  "scheme": {
+   "apparatus": "folio marks and in-line side-notes dropped (558); the title page, table of contents and the transcriber's errata are not ingested",
+   "citation": "exercise + paragraph (rainolde-foundacion:chreia.4); 'front' is the dedication, To the Reader and the introduction",
+   "resolution": "paragraph; sub-headings are units of their own, marked heading: true",
+   "honesty": "Gutenberg's transcription of the 1563 print, original spelling kept. Rainolde ADAPTS Aphthonius (by way of Lorichius's Latin), with his own model orations: a witness to each exercise's method, not a translation of Aphthonius's text."
+  }
  }
 }
