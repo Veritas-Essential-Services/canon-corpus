@@ -37,7 +37,7 @@
 {"from": "brewer:apples-of-pyban", "cite": "Deut. xxxii. 3", "target": "kjv:Deut.32.3", "level": "verse", "how": "in-book"}
 {"from": "brewer:areopagus", "cite": "Acts xvii. 22", "target": "kjv:Acts.17.22", "level": "verse", "how": "in-book"}
 {"from": "brewer:asaph", "cite": "1 Chron. xxv. 1", "target": "kjv:1Chr.25.1", "level": "verse", "how": "in-book"}
-{"from": "brewer:ascapart", "cite": "Judges v. 20", "target": "kjv:Judg.5.20", "level": "verse", "how": "in-book"}
+{"from": "brewer:ascendant", "cite": "Judges v. 20", "target": "kjv:Judg.5.20", "level": "verse", "how": "in-book"}
 {"from": "brewer:ascodrogites", "cite": "Matt. ix. 17", "target": "kjv:Matt.9.17", "level": "verse", "how": "in-book"}
 {"from": "brewer:at", "cite": "Matt. xxiii. 24", "target": "kjv:Matt.23.24", "level": "verse", "how": "in-book"}
 {"from": "brewer:audeanism", "cite": "Gen. i. 26", "target": "kjv:Gen.1.26", "level": "verse", "how": "in-book"}
@@ -50,15 +50,15 @@
 {"from": "brewer:balaam", "cite": "Numb. xxii. 30", "target": "kjv:Num.22.30", "level": "verse", "how": "in-book"}
 {"from": "brewer:barefooted", "cite": "Luke x. 4", "target": "kjv:Luke.10.4", "level": "verse", "how": "in-book"}
 {"from": "brewer:barratry", "cite": "Psalm vii. 14", "target": "kjv:Ps.7.14", "level": "verse", "how": "in-book"}
-{"from": "brewer:bartolist", "cite": "2 Sam. xvii. 27–29", "target": "kjv:2Sam.17.27", "level": "verse", "how": "in-book", "to": "kjv:2Sam.17.29"}
+{"from": "brewer:barzillai", "cite": "2 Sam. xvii. 27–29", "target": "kjv:2Sam.17.27", "level": "verse", "how": "in-book", "to": "kjv:2Sam.17.29"}
 {"from": "brewer:bear~2", "cite": "Numbers xiv. 27", "target": "kjv:Num.14.27", "level": "verse", "how": "in-book"}
 {"from": "brewer:beat~2", "cite": "I Cor. ix. 26", "target": "kjv:1Cor.9.26", "level": "verse", "how": "in-book"}
 {"from": "brewer:beat~2", "cite": "John iv. 48", "target": "kjv:John.4.48", "level": "verse", "how": "in-book"}
 {"from": "brewer:beatific-vision", "cite": "Isaiah vi. 1—4", "target": "kjv:Isa.6.1", "level": "verse", "how": "in-book", "to": "kjv:Isa.6.4"}
 {"from": "brewer:beatific-vision", "cite": "Acts\n\nvii. 55", "target": "kjv:Acts.7.55", "level": "verse", "how": "in-book"}
 {"from": "brewer:behemoth", "cite": "Job xl. 15", "target": "kjv:Job.40.15", "level": "verse", "how": "in-book"}
-{"from": "brewer:belfry", "cite": "2 Cor. vi. 15", "target": "kjv:2Cor.6.15", "level": "verse", "how": "in-book"}
-{"from": "brewer:belfry", "cite": "1 Sam. ii. 12", "target": "kjv:1Sam.2.12", "level": "verse", "how": "in-book"}
+{"from": "brewer:belial", "cite": "2 Cor. vi. 15", "target": "kjv:2Cor.6.15", "level": "verse", "how": "in-book"}
+{"from": "brewer:belial", "cite": "1 Sam. ii. 12", "target": "kjv:1Sam.2.12", "level": "verse", "how": "in-book"}
 {"from": "brewer:bellerophon~2", "cite": "2 Sam. xi. 14", "target": "kjv:2Sam.11.14", "level": "verse", "how": "in-book"}
 {"from": "brewer:beloved-disciple", "cite": "John xiii. 23", "target": "kjv:John.13.23", "level": "verse", "how": "in-book"}
 {"from": "brewer:beloved-physician", "cite": "Col. iv. 14", "target": "kjv:Col.4.14", "level": "verse", "how": "in-book"}
@@ -248,8 +248,8 @@
 {"from": "brewer:father", "cite": "Heb. vii. 3", "target": "kjv:Heb.7.3", "level": "verse", "how": "in-book"}
 {"from": "brewer:father-of-his-country", "cite": "1 Chron. iv. 14", "target": "kjv:1Chr.4.14", "level": "verse", "how": "in-book"}
 {"from": "brewer:fatted-calf", "cite": "Luke xv. 30", "target": "kjv:Luke.15.30", "level": "verse", "how": "in-book"}
-{"from": "brewer:felo-de-se", "cite": "Gen.\n\nxxiv. 65", "target": "kjv:Gen.24.65", "level": "verse", "how": "in-book"}
-{"from": "brewer:felo-de-se", "cite": "Eph. v. 22", "target": "kjv:Eph.5.22", "level": "verse", "how": "in-book"}
+{"from": "brewer:feme-covert", "cite": "Gen.\n\nxxiv. 65", "target": "kjv:Gen.24.65", "level": "verse", "how": "in-book"}
+{"from": "brewer:feme-covert", "cite": "Eph. v. 22", "target": "kjv:Eph.5.22", "level": "verse", "how": "in-book"}
 {"from": "brewer:field-works", "cite": "Matt. xxvii. 5", "target": "kjv:Matt.27.5", "level": "verse", "how": "in-book"}
 {"from": "brewer:field-works", "cite": "Acts i. 19", "target": "kjv:Acts.1.19", "level": "verse", "how": "in-book"}
 {"from": "brewer:fire-and-water", "cite": "Rom. v. 7", "target": "kjv:Rom.5.7", "level": "verse", "how": "in-book"}
@@ -267,7 +267,7 @@
 {"from": "brewer:gall-of-bitterness", "cite": "Acts viii. 23", "target": "kjv:Acts.8.23", "level": "verse", "how": "in-book"}
 {"from": "brewer:gallicism", "cite": "Matt. xv. 32", "target": "kjv:Matt.15.32", "level": "verse", "how": "in-book"}
 {"from": "brewer:gallicism", "cite": "Mark viii. 2", "target": "kjv:Mark.8.2", "level": "verse", "how": "in-book"}
-{"from": "brewer:garagantuan", "cite": "Psalm xiv. 1", "target": "kjv:Ps.14.1", "level": "verse", "how": "in-book"}
+{"from": "brewer:garble", "cite": "Psalm xiv. 1", "target": "kjv:Ps.14.1", "level": "verse", "how": "in-book"}
 {"from": "brewer:genius", "cite": "Matt. xviii. 10", "target": "kjv:Matt.18.10", "level": "verse", "how": "in-book"}
 {"from": "brewer:ghost", "cite": "Ecc. xii. 7", "target": "kjv:Eccl.12.7", "level": "verse", "how": "in-book"}
 {"from": "brewer:ghost", "cite": "Job xiv. 10", "target": "kjv:Job.14.10", "level": "verse", "how": "in-book"}
@@ -353,8 +353,8 @@
 {"from": "brewer:hunger-seasons-food", "cite": "Prov. xxvii. 7", "target": "kjv:Prov.27.7", "level": "verse", "how": "in-book"}
 {"from": "brewer:hungry-dogs", "cite": "Prov. xxvii. 7", "target": "kjv:Prov.27.7", "level": "verse", "how": "in-book"}
 {"from": "brewer:hunter", "cite": "Gen. x. 9", "target": "kjv:Gen.10.9", "level": "verse", "how": "in-book"}
-{"from": "brewer:hyson", "cite": "Ps. li. 7", "target": "kjv:Ps.51.7", "level": "verse", "how": "in-book"}
-{"from": "brewer:hyson", "cite": "Numbers xix. 17", "target": "kjv:Num.19.17", "level": "verse", "how": "in-book"}
+{"from": "brewer:hyssop", "cite": "Ps. li. 7", "target": "kjv:Ps.51.7", "level": "verse", "how": "in-book"}
+{"from": "brewer:hyssop", "cite": "Numbers xix. 17", "target": "kjv:Num.19.17", "level": "verse", "how": "in-book"}
 {"from": "brewer:ill-got-ill-spent", "cite": "Prov. x. 2", "target": "kjv:Prov.10.2", "level": "verse", "how": "in-book"}
 {"from": "brewer:images-which-fell-from-heaven", "cite": "Acts xix. 35", "target": "kjv:Acts.19.35", "level": "verse", "how": "in-book"}
 {"from": "brewer:infallibility", "cite": "John xvi. 13", "target": "kjv:John.16.13", "level": "verse", "how": "in-book"}
@@ -381,7 +381,7 @@
 {"from": "brewer:keys~2", "cite": "Isa. xxii. 22", "target": "kjv:Isa.22.22", "level": "verse", "how": "in-book"}
 {"from": "brewer:keys~2", "cite": "Isa. ix. 6", "target": "kjv:Isa.9.6", "level": "verse", "how": "in-book"}
 {"from": "brewer:keys~2", "cite": "Matt. xvi. 19", "target": "kjv:Matt.16.19", "level": "verse", "how": "in-book"}
-{"from": "brewer:kiak-kiak", "cite": "Acts ix. 5", "target": "kjv:Acts.9.5", "level": "verse", "how": "in-book"}
+{"from": "brewer:kick", "cite": "Acts ix. 5", "target": "kjv:Acts.9.5", "level": "verse", "how": "in-book"}
 {"from": "brewer:kiss", "cite": "Ps. ii. 12", "target": "kjv:Ps.2.12", "level": "verse", "how": "in-book"}
 {"from": "brewer:kiss", "cite": "1 Sam. x. 1", "target": "kjv:1Sam.10.1", "level": "verse", "how": "in-book"}
 {"from": "brewer:kiss-the-book", "cite": "Psalm lxxii. 9", "target": "kjv:Ps.72.9", "level": "verse", "how": "in-book"}
@@ -447,7 +447,7 @@
 {"from": "brewer:mazikeen", "cite": "Psalm xci. 5", "target": "kjv:Ps.91.5", "level": "verse", "how": "in-book"}
 {"from": "brewer:meat-bread", "cite": "Genesis xliii. 3", "target": "kjv:Gen.43.3", "level": "verse", "how": "in-book"}
 {"from": "brewer:meat-bread", "cite": "Psalm civ. 27", "target": "kjv:Ps.104.27", "level": "verse", "how": "in-book"}
-{"from": "brewer:mercutio", "cite": "Matt. xxv. 35—40", "target": "kjv:Matt.25.35", "level": "verse", "how": "in-book", "to": "kjv:Matt.25.40"}
+{"from": "brewer:mercy", "cite": "Matt. xxv. 35—40", "target": "kjv:Matt.25.35", "level": "verse", "how": "in-book", "to": "kjv:Matt.25.40"}
 {"from": "brewer:michaelmas-day", "cite": "Rev. xv. 1", "target": "kjv:Rev.15.1", "level": "verse", "how": "in-book"}
 {"from": "brewer:milk-and-honey", "cite": "Joel iii. 18", "target": "kjv:Joel.3.18", "level": "verse", "how": "in-book"}
 {"from": "brewer:millennium", "cite": "Rev. xx. 2", "target": "kjv:Rev.20.2", "level": "verse", "how": "in-book"}
@@ -458,7 +458,7 @@
 {"from": "brewer:moses-horns", "cite": "Exodus xxxiv. 30", "target": "kjv:Exod.34.30", "level": "verse", "how": "in-book"}
 {"from": "brewer:mosstrooper", "cite": "Matt. vii. 3—5", "target": "kjv:Matt.7.3", "level": "verse", "how": "in-book", "to": "kjv:Matt.7.5"}
 {"from": "brewer:musicians", "cite": "Gen. iv. 21", "target": "kjv:Gen.4.21", "level": "verse", "how": "in-book"}
-{"from": "brewer:myrrophores", "cite": "Rev. xvii. 5", "target": "kjv:Rev.17.5", "level": "verse", "how": "in-book"}
+{"from": "brewer:myrtle", "cite": "Rev. xvii. 5", "target": "kjv:Rev.17.5", "level": "verse", "how": "in-book"}
 {"from": "brewer:nabo", "cite": "Isa. xlvi. 1", "target": "kjv:Isa.46.1", "level": "verse", "how": "in-book"}
 {"from": "brewer:naboth-s-vineyard", "cite": "1 Kings xxi. 1—10", "target": "kjv:1Kgs.21.1", "level": "verse", "how": "in-book", "to": "kjv:1Kgs.21.10"}
 {"from": "brewer:nadab", "cite": "Lev. x. 2", "target": "kjv:Lev.10.2", "level": "verse", "how": "in-book"}
@@ -544,8 +544,8 @@
 {"from": "brewer:ring", "cite": "Esther iii. 10—12", "target": "kjv:Esth.3.10", "level": "verse", "how": "in-book", "to": "kjv:Esth.3.12"}
 {"from": "brewer:ring", "cite": "Gen. xli. 42", "target": "kjv:Gen.41.42", "level": "verse", "how": "in-book"}
 {"from": "brewer:rome~2", "cite": "2 Kings v. 18", "target": "kjv:2Kgs.5.18", "level": "verse", "how": "in-book"}
-{"from": "brewer:saadia", "cite": "Exodus xvi. 29", "target": "kjv:Exod.16.29", "level": "verse", "how": "in-book"}
-{"from": "brewer:saadia", "cite": "Acts i. 12", "target": "kjv:Acts.1.12", "level": "verse", "how": "in-book"}
+{"from": "brewer:sabbath-day-s-journey", "cite": "Exodus xvi. 29", "target": "kjv:Exod.16.29", "level": "verse", "how": "in-book"}
+{"from": "brewer:sabbath-day-s-journey", "cite": "Acts i. 12", "target": "kjv:Acts.1.12", "level": "verse", "how": "in-book"}
 {"from": "brewer:sabbatical-year", "cite": "Exodus xxiii. 10", "target": "kjv:Exod.23.10", "level": "verse", "how": "in-book"}
 {"from": "brewer:sabbatical-year", "cite": "Leviticus xxv. 2—7", "target": "kjv:Lev.25.2", "level": "verse", "how": "in-book", "to": "kjv:Lev.25.7"}
 {"from": "brewer:sabbatical-year", "cite": "Deuteronomy xv. 1—11", "target": "kjv:Deut.15.1", "level": "verse", "how": "in-book", "to": "kjv:Deut.15.11"}
@@ -565,7 +565,7 @@
 {"from": "brewer:scribe", "cite": "2 Sam. viii. 17", "target": "kjv:2Sam.8.17", "level": "verse", "how": "in-book"}
 {"from": "brewer:sea", "cite": "2 Chronicles iv. 5", "target": "kjv:2Chr.4.5", "level": "verse", "how": "in-book"}
 {"from": "brewer:sea", "cite": "1 Kings vii. 26", "target": "kjv:1Kgs.7.26", "level": "verse", "how": "in-book"}
-{"from": "brewer:seljuks", "cite": "Rom. vii. 14", "target": "kjv:Rom.7.14", "level": "verse", "how": "in-book"}
+{"from": "brewer:sell", "cite": "Rom. vii. 14", "target": "kjv:Rom.7.14", "level": "verse", "how": "in-book"}
 {"from": "brewer:seraphim", "cite": "Isaiah vi. 2", "target": "kjv:Isa.6.2", "level": "verse", "how": "in-book"}
 {"from": "brewer:serpent", "cite": "Numb. xxi. 8", "target": "kjv:Num.21.8", "level": "verse", "how": "in-book"}
 {"from": "brewer:serpent", "cite": "Gen.\n\niii. 15", "target": "kjv:Gen.3.15", "level": "verse", "how": "in-book"}

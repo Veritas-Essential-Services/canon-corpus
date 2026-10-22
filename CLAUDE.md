@@ -88,7 +88,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 108 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 109 offline checks (no corpus needed)
     python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
     python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
@@ -307,8 +307,8 @@ level, same `{id, ref, text, links[]}` contract, extras under `lex`:
   entries (Dying Sayings, Errors of Authors) print their items like headwords;
   they are told apart by the dictionary's own alphabetical order (a longest
   non-decreasing run) and kept in `lex.list_items`. Brewer's *Dictionary of
-  Phrase and Fable* has no Gutenberg edition; Wikisource refuses this
-  environment's requests (HTTP 429).
+  Phrase and Fable* has no Gutenberg edition; it came from Adam's PDF as
+  `brewer`, below.
 
 **The edges (`pipeline/build_dictionary_links.py` → `data/dictionaries/`, COMMITTED):**
 `names.jsonl` (a headword two or more of the three share — a lead, not an
@@ -340,7 +340,7 @@ sha256. So a fresh clone — the hosted Armarium's rebuild — builds Brewer's
 without the PDF. The PDF itself is kept in the vault,
 `9 - Projects/Armarium/sources/`.
 
-**Unlike Thayer's, it is segmented by entry — 16,750 units,
+**Unlike Thayer's, it is segmented by entry — 17,240 units,
 `brewer:<headword-slug>`** (repeats `~2`, `~3` in page order; `ref` is
 "Brewer, s.v. X"). The text carries no bold, so a headword is found by rule
 (converter docstring): a one-line paragraph, no closing full stop, in its
@@ -348,7 +348,10 @@ letter's section, AND on the longest alphabetical run through that section.
 The alphabet is what Thayer's OCR could not give: a one-line verse quotation
 looks exactly like a headword until it breaks Brewer's order. A line the rule
 misses is never dropped — it stays in the entry before it (149 such, counted
-in the honesty note). Known miss: headwords run into their own first sentence.
+in the honesty note). Headwords run into their own first sentence ("Agnus-castus
+A shrub…") are split out by `_brewer_run_in` when they fall alphabetically
+between their neighbours (490, `lex.run_in`, added 2026-10-22, 17,240 units);
+19 that share a found headword's name are left in place so no id moves.
 
 Edges: **2,125 "See" cross-references resolved, zero dangling**; 1,493 more
 name nothing that is a headword ("see above", *Notes and Queries*, years) and

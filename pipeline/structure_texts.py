@@ -824,6 +824,34 @@ def brewer_scripture(text):
     return out, unknown
 
 
+_BREWER_JOIN = {"of", "and", "the", "in", "on", "de", "du", "la", "le", "a", "an", "to"}
+_BREWER_WORD = r"[A-ZÀ-ÞÆŒ][\w'’—-]*$"
+
+
+def _brewer_run_in(line):
+    """The headword run into the first line of its definition (`Nickel Silver A
+    mixed metal`), or None. This transcription gives no boundary, so: the first
+    word, then each next capitalised word (or `of`, `and` ... before one) for as
+    long as the word AFTER it also opens with a capital or `(` -- the
+    definition's first word is the last capital before a lower-case one -- but
+    never past `A`, `An` or `The`, which open a definition (`Bodle A Scotch coin`)."""
+    w = line.split(" ")
+    if len(w) < 2 or not re.match(_BREWER_WORD, w[0]) or not re.match(r"[A-Z(“]", w[1]):
+        return None
+    n = 1
+    while n + 1 < len(w):
+        a, b = w[n], w[n + 1]
+        if a in _BREWER_JOIN and n + 2 < len(w) and re.match(r"[A-Z]", b) \
+                and re.match(r"[A-Z(“]", w[n + 2]):
+            n += 2; continue
+        if a in ("A", "An", "The"):
+            break
+        if re.match(_BREWER_WORD, a) and re.match(r"[A-Z(“]", b):
+            n += 1; continue
+        break
+    return " ".join(w[:n])
+
+
 def convert_brewer(path, slug="brewer"):
     """Brewer's Dictionary of Phrase and Fable (1894). One unit per headword."""
     data = json.load(open(path, encoding="utf-8"))
@@ -852,11 +880,44 @@ def convert_brewer(path, slug="brewer"):
         heads |= {cs[j][0] for j in keep}
         offrun += len(cs) - len(keep)
 
+    # Headwords run into their own first sentence ("Agnus-castus A shrub of the
+    # Vitex tribe..."): a paragraph between two headwords whose opening words,
+    # cut by _brewer_run_in, fall alphabetically between them opens an entry of
+    # its own. a + 1 is a's own definition, so the search starts at a + 2.
+    # One that shares its name with a headword found the first way is left
+    # where it was: it would come first in page order and push that entry's id
+    # to ~2, and ids do not move (rule 3).
+    run_in, hl, run_in_same = {}, sorted(heads), 0
+    head_slugs = {brewer_slug(paras[i]["lines"][0]) for i in heads}
+    for a, b in zip(hl, hl[1:] + [len(paras)]):
+        ka = brewer_slug(paras[a]["lines"][0])
+        kb = brewer_slug(paras[b]["lines"][0]) if b < len(paras) else "zzz"
+        sec = section(paras[a]["p"])
+        for i in range(a + 2, b):
+            h = _brewer_run_in(paras[i]["lines"][0].strip())
+            if not h:
+                continue
+            kh = brewer_slug(h)
+            if (sec and kh[:1] == sec.lower() and ka < kh <= kb
+                    and kh.split("-")[0] != ka.split("-")[0]):
+                if kh in head_slugs:
+                    run_in_same += 1
+                    continue
+                run_in[i] = h
+                ka = kh
+
     units, cur, joined, dashes = [], None, 0, 0
     front = []                          # anything before the first headword
     for i, p in enumerate(paras):
         text = " ".join(l.strip() for l in p["lines"]).strip()
         if not text:
+            continue
+        if i in run_in:
+            rest = text[len(run_in[i]):].strip()
+            dashes += rest.count("——")
+            cur = {"head": run_in[i], "page": p["p"], "pages": [p["p"]], "run_in": True,
+                   "paras": [re.sub(r"\s+", " ", rest.replace("——", "–"))] if rest else []}
+            units.append(cur)
             continue
         # Per-book rule (rule 2, never a hand edit): this transcription prints
         # an en-dash range as a doubled em dash ("1440——1493").
@@ -916,7 +977,8 @@ def convert_brewer(path, slug="brewer"):
         out.append({"id": f"{slug}:{brewer_slug(u['head'])}",
                     "ref": f"Brewer, s.v. {u['head']}",
                     "text": text, "links": links,
-                    "lex": {"headword": u["head"], "page": u["page"], "pages": u["pages"]}})
+                    "lex": dict({"headword": u["head"], "page": u["page"], "pages": u["pages"]},
+                                **({"run_in": True} if u.get("run_in") else {}))})
     return {"slug": slug,
             "title": "Dictionary of Phrase and Fable",
             "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
@@ -931,6 +993,11 @@ def convert_brewer(path, slug="brewer"):
                                "scan; check copy archive.org dictionaryofphra01brew (1895). "
                                f"{offrun} headword-shaped lines fell off the alphabetical run "
                                "or had no body, and were kept as text of the preceding entry. "
+                               f"{len(run_in):,} headwords run into their own first sentence "
+                               "were split out by rule (lex.run_in); where the name ends is "
+                               f"the rule's guess. {run_in_same} more share a name with an "
+                               "entry found the first way and stay inside the entry before "
+                               "them, so that no existing id moves. "
                                "Italics are not "
                                "carried. Compound hyphens print as em dashes in this "
                                "transcription (first—rate) and are left as printed; "

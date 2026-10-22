@@ -772,6 +772,7 @@ _BR = {"source_sha256": "x", "pages": 3, "toc": [["A", 1], ["B", 3]], "furniture
     {"p": 2, "top": False, "lines": ["Cato was so called. (B.C. 234.)"]},
     {"p": 2, "top": False, "lines": ["Acorns"]},
     {"p": 2, "top": False, "lines": ["Oak fruit. (See above.) (See under Abels.)"]},
+    {"p": 2, "top": False, "lines": ["Acquit A verb of the law courts."]},
     {"p": 2, "top": False, "lines": ["Acre"]},
     {"p": 3, "top": True, "lines": ["Bacon"]},
     {"p": 3, "top": False, "lines": ["Bring home the bacon. 1 Sam. ii. 3."]},
@@ -784,20 +785,24 @@ _bb = st.convert_brewer(_fb.name); st.CORPUS = _sc; os.unlink(_fb.name)
 _bu = {u["id"]: u for u in _bb["units"]}
 check("brewer: headwords found; abbreviation (no full stop) kept; verse line and sentence are not headwords",
       [u["id"] for u in _bb["units"]] == ["brewer:a", "brewer:a-b", "brewer:abel", "brewer:acorns",
-                                          "brewer:bacon", "brewer:bacon"])
+                                          "brewer:acquit", "brewer:bacon", "brewer:bacon"])
+check("brewer: a headword run into its first sentence, alphabetically between its neighbours, "
+      "opens its own entry",
+      _bb["units"][4]["lex"].get("run_in") and _bb["units"][4]["text"].startswith("A verb of the law courts.")
+      and "Acquit" not in _bu["brewer:acorns"]["text"])
 check("brewer: a missed line stays in the entry before it -- nothing lost",
       "Fresh as a morning breeze" in _bu["brewer:abel"]["text"]
       and "Cato was so called" in _bu["brewer:abel"]["text"])
 check("brewer: page-top paragraph rejoined to an unfinished one; entry spans both pages",
       "spring and so continued" in _bu["brewer:abel"]["text"] and _bu["brewer:abel"]["lex"]["pages"] == [1, 2])
 check("brewer: a bodiless headword ('Acre') is folded back as text, not a unit",
-      "brewer:acre" not in _bu and _bu["brewer:acorns"]["text"].endswith("Acre"))
+      "brewer:acre" not in _bu and _bu["brewer:acquit"]["text"].endswith("Acre"))
 _sl = [l for l in _bu["brewer:abel"]["links"] if l["kind"] == "scripture"]
 check("brewer: scripture parsed (range kept as end); Psalm 154 and number-less Kings refused",
       [(l["target"], l.get("end")) for l in _sl] == [("kjv:Gen.4.2", "Gen.4.4")]
       and "Gen. iv. 2–4" in _bu["brewer:abel"]["text"])
 check("brewer: numbered book takes its number (1 Sam. -> 1Sam)",
-      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][4]["links"]))
+      any(l.get("target") == "kjv:1Sam.2.3" for l in _bb["units"][5]["links"]))
 check("brewer: 'See X' resolves (also 'under', plural); 'see above' is not a link",
       _bu["brewer:a-b"]["links"] == [{"kind": "see", "target": "brewer:abel"}]
       and _bu["brewer:acorns"]["links"] == [{"kind": "see", "target": "brewer:abel"}])

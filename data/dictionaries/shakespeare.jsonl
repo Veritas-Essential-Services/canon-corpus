@@ -213,7 +213,7 @@
 {"from": "brewer:carbonado", "cite": "Shakespeare: 1 Henry IV., v. 3", "target": "shakespeare:henry-iv-1.5.3", "level": "scene"}
 {"from": "brewer:carcass", "cite": "Shakespeare: Merchant of Venice, iii. 1", "target": "shakespeare:merchant-of-venice.3.1", "level": "scene"}
 {"from": "brewer:card", "cite": "Shakespeare: Hamlet, v. 1", "target": "shakespeare:hamlet.5.1", "level": "scene"}
-{"from": "brewer:carotid-artery", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
+{"from": "brewer:carouse", "cite": "Shakespeare: Hamlet, i. 4", "target": "shakespeare:hamlet.1.4", "level": "scene"}
 {"from": "brewer:cat-i-the-adage", "cite": "Shakespeare Macbeth, i.7", "target": "shakespeare:macbeth.1.7", "level": "scene"}
 {"from": "brewer:cat-proverbs", "cite": "Shakespeare: Romeo and Juliet, iii.", "target": "shakespeare:romeo-and-juliet.3", "level": "act"}
 {"from": "brewer:cataian", "cite": "Shakespeare: Merry Wives, ii.", "target": "shakespeare:merry-wives-of-windsor.2", "level": "act"}
@@ -266,7 +266,7 @@
 {"from": "brewer:crack", "cite": "Shakespeare: Coriolanus, i.3", "target": "shakespeare:coriolanus.1.3", "level": "scene"}
 {"from": "brewer:cressida", "cite": "Shakespeare: Troilus and Cressida, iii. 2", "target": "shakespeare:troilus-and-cressida.3.2", "level": "scene"}
 {"from": "brewer:crestfallen", "cite": "Shakespeare: Richard II., i.1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
-{"from": "brewer:crestfallen", "cite": "Shakespeare: Henry V., ii. 1", "target": "shakespeare:henry-v.2.1", "level": "scene"}
+{"from": "brewer:crete", "cite": "Shakespeare: Henry V., ii. 1", "target": "shakespeare:henry-v.2.1", "level": "scene"}
 {"from": "brewer:crispin", "cite": "Shakespeare: Henry V., iv. 3", "target": "shakespeare:henry-v.4.3", "level": "scene"}
 {"from": "brewer:crocodile-s-tears", "cite": "Shakespeare: 2 Henry VI., iii. 1", "target": "shakespeare:henry-vi-2.3.1", "level": "scene"}
 {"from": "brewer:crone", "cite": "Shakespeare: Winter's Tale, ii.", "target": "shakespeare:winters-tale.2", "level": "act"}
@@ -383,11 +383,11 @@
 {"from": "brewer:gerda", "cite": "Shakespeare: Winter's Tale, iv. 3", "target": "shakespeare:winters-tale.4.3", "level": "scene"}
 {"from": "brewer:gib-cat", "cite": "Shakespeare: 1 Henry IV., i. 2", "target": "shakespeare:henry-iv-1.1.2", "level": "scene"}
 {"from": "brewer:gig", "cite": "Shakespeare: Love's Labour's Lost, v. 1", "target": "shakespeare:loves-labours-lost.5.1", "level": "scene"}
-{"from": "brewer:gillies-hill", "cite": "Shakespeare: Winter's Tale, iv. 2", "target": "shakespeare:winters-tale.4.2", "level": "scene"}
+{"from": "brewer:gillyflower", "cite": "Shakespeare: Winter's Tale, iv. 2", "target": "shakespeare:winters-tale.4.2", "level": "scene"}
 {"from": "brewer:gimmer", "cite": "Shakespeare: Henry V., iv. 2", "target": "shakespeare:henry-v.4.2", "level": "scene"}
 {"from": "brewer:glove", "cite": "Shakespeare: Troilus and Cressida, iv. 4", "target": "shakespeare:troilus-and-cressida.4.4", "level": "scene"}
 {"from": "brewer:go-through-fire-and-water-to-serve-you", "cite": "Shakespeare: Julius Cæsar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
-{"from": "brewer:godfather", "cite": "Shakespeare: Merchant of Venice, iv.", "target": "shakespeare:merchant-of-venice.4", "level": "act"}
+{"from": "brewer:godfathers", "cite": "Shakespeare: Merchant of Venice, iv.", "target": "shakespeare:merchant-of-venice.4", "level": "act"}
 {"from": "brewer:gold~2", "cite": "Shakespeare: Merchant of Venice, ii. 7", "target": "shakespeare:merchant-of-venice.2.7", "level": "scene"}
 {"from": "brewer:golden-opinions", "cite": "Shakespeare: Macbeth, i. 7", "target": "shakespeare:macbeth.1.7", "level": "scene"}
 {"from": "brewer:good-duke-humphrey", "cite": "Shakespeare: 2 Henry VI., iii. 2", "target": "shakespeare:henry-vi-2.3.2", "level": "scene"}
@@ -481,7 +481,7 @@
 {"from": "brewer:knife~2", "cite": "Shakespeare: Macbeth, i. 5", "target": "shakespeare:macbeth.1.5", "level": "scene"}
 {"from": "brewer:knotgrass", "cite": "Shakespeare: Midsummer Night's Dream, iii. 2", "target": "shakespeare:a-midsummer-nights-dream.3.2", "level": "scene"}
 {"from": "brewer:lakin", "cite": "Shakespeare: A Midsummer Night's Dream, iii. 1", "target": "shakespeare:a-midsummer-nights-dream.3.1", "level": "scene"}
-{"from": "brewer:lamb-s-wool", "cite": "Shakespeare: Richard II., i. 1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
+{"from": "brewer:lambert-s-day", "cite": "Shakespeare: Richard II., i. 1", "target": "shakespeare:richard-ii.1.1", "level": "scene"}
 {"from": "brewer:land-damn", "cite": "Shakespeare: Winter's Tale ii. 1", "target": "shakespeare:winters-tale.2.1", "level": "scene"}
 {"from": "brewer:lattice", "cite": "Shakespeare: 2 Henry IV., ii. 2", "target": "shakespeare:henry-iv-2.2.2", "level": "scene"}
 {"from": "brewer:leet", "cite": "Shakespeare: Othello, iii. 3", "target": "shakespeare:othello.3.3", "level": "scene"}
@@ -580,7 +580,7 @@
 {"from": "brewer:purlieu", "cite": "Shakespeare: As You Like It, iv. 3", "target": "shakespeare:as-you-like-it.4.3", "level": "scene"}
 {"from": "brewer:quail", "cite": "Shakespeare: Troilus and Cressida, v. 1", "target": "shakespeare:troilus-and-cressida.5.1", "level": "scene"}
 {"from": "brewer:quarry~2", "cite": "Shakespeare: Macbeth, iv. 3", "target": "shakespeare:macbeth.4.3", "level": "scene"}
-{"from": "brewer:questions-and-commands", "cite": "Shakespeare: Twelfth Night, ii. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
+{"from": "brewer:queubus", "cite": "Shakespeare: Twelfth Night, ii. 3", "target": "shakespeare:twelfth-night.2.3", "level": "scene"}
 {"from": "brewer:quicksilver", "cite": "Shakespeare: Hamlet, i. 5", "target": "shakespeare:hamlet.1.5", "level": "scene"}
 {"from": "brewer:quietus", "cite": "Shakespeare: Hamlet, iii. 1", "target": "shakespeare:hamlet.3.1", "level": "scene"}
 {"from": "brewer:quillet", "cite": "Shakespeare: Love's Labour's Lost, iv. 3", "target": "shakespeare:loves-labours-lost.4.3", "level": "scene"}
@@ -659,7 +659,7 @@
 {"from": "brewer:tester", "cite": "Shakespeare: 2 Henry IV., iii. 2", "target": "shakespeare:henry-iv-2.3.2", "level": "scene"}
 {"from": "brewer:throw-your-eye-on", "cite": "Shakespeare: King John. iii. 3", "target": "shakespeare:king-john.3.3", "level": "scene"}
 {"from": "brewer:thrums", "cite": "Shakespeare: Midsummer Night's Dream. v. 1", "target": "shakespeare:a-midsummer-nights-dream.5.1", "level": "scene"}
-{"from": "brewer:thule", "cite": "Shakespeare: Romeo and Juliet, i. 1", "target": "shakespeare:romeo-and-juliet.1.1", "level": "scene"}
+{"from": "brewer:thumb", "cite": "Shakespeare: Romeo and Juliet, i. 1", "target": "shakespeare:romeo-and-juliet.1.1", "level": "scene"}
 {"from": "brewer:thunderbolts", "cite": "Shakespeare: Julius Caesar, iv. 3", "target": "shakespeare:julius-caesar.4.3", "level": "scene"}
 {"from": "brewer:titan", "cite": "Shakespeare: Romeo and Juliet, ii. 3", "target": "shakespeare:romeo-and-juliet.2.3", "level": "scene"}
 {"from": "brewer:tom", "cite": "Shakespeare: Coriolanus, i. 1", "target": "shakespeare:coriolanus.1.1", "level": "scene"}
