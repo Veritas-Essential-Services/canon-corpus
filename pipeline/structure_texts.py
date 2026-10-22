@@ -2,6 +2,7 @@
 # prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-19 claude-opus-5-5 edited
 # prov: 2026-10-20 claude-opus-5-5 edited (Aphthonius: three edition converters)
 # fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
@@ -24,7 +25,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html
+import os, re, json, hashlib, html, unicodedata
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -656,6 +657,295 @@ def convert_thayer(path, slug="thayer"):
                                f"Text is OCR output: it has not been proofread against the "
                                f"page, and Greek diacritics are where OCR errs most."},
             "units": units}
+
+# ---------------------------------------------------------------- Brewer (1894)
+#
+# Brewer's Dictionary of Phrase and Fable, "New and Enlarged Edition of 1894"
+# (E. Cobham Brewer, 1810-1897; PD). Source of record: Adam's PDF, pinned by
+# sha256 in pipeline/extract_brewer.py, which writes the page-anchored
+# paragraphs this reads. Added 2026-10-19.
+#
+# HOW A HEADWORD IS FOUND, and why this one IS segmented when Thayer's is not.
+# The typeset carries no bold and no markup: a headword is a paragraph like any
+# other. But Brewer's headwords have three properties the body text almost
+# never has together, and the rule requires all three:
+#   1. the paragraph is ONE line, under 70 characters, starting upper-case;
+#   2. it does not end in sentence punctuation (the transcription drops the
+#      headword's own full stop: "A.B", "A.U.C") -- unless it is a dotted
+#      abbreviation, and it holds no mid-line sentence ("Cato Major was so
+#      called. (B.C. ...)") and no "(See";
+#   3. its initial is the letter section it sits in (sections from the PDF's
+#      own bookmarks: the printed letter headings are missing for half the
+#      alphabet) AND it lies on the longest alphabetical run through that
+#      section's candidates, compared word-by-word on three letters, the way
+#      Brewer files ("Ca Ira" before "Cab"; abbreviations first; "St." as
+#      Saint, "Dr." as Doctor).
+# Rule 3 is what Thayer's OCR could not support: here the text is exact, so a
+# one-line verse quotation that passes 1 and 2 ("Full many a sprightly race")
+# falls out because it breaks the alphabet. What the rule misses is NOT lost:
+# a rejected line stays in the text of the entry before it, and the count is
+# reported. Headwords run into their own first sentence ("Abram-Man or
+# Abraham Cove. A Tom o' Bedlam...") are the known miss of this kind.
+BREWER_SAINT = re.compile(r"\bSt\.\s*")
+BREWER_DOCTOR = re.compile(r"\bDr\.\s*")
+BREWER_ABBR = re.compile(r"[A-Z][A-Z.,'’ &]*")
+BREWER_SENT = re.compile(r"[a-z)]\.\s|\(See|\(see")
+BREWER_SEE = re.compile(r"\((?:See|see)(?: also)?\s+([^()]{1,120}?)\s*\.?\s*\)")
+# A scripture citation the way Brewer prints one: "Rev. ix. 11", "1 Kings xviii.
+# 27", "Exodus vii. 10--12". Roman chapter, arabic verse.
+BREWER_SCRIP = re.compile(r"\b(?:(III|II|I|[123])\s?)?([A-Z][a-z]{1,13})\.?\s+([ivxlc]+)\.\s*(\d+)"
+                          r"(?:\s*[—–-]+\s*(\d+))?")
+BREWER_BOOKS = {   # spelling in Brewer -> (osis, takes a number prefix)
+    "gen": "Gen", "genesis": "Gen", "exod": "Exod", "exodus": "Exod", "ex": "Exod",
+    "lev": "Lev", "leviticus": "Lev", "num": "Num", "numb": "Num", "numbers": "Num",
+    "deut": "Deut", "deuteronomy": "Deut", "josh": "Josh", "joshua": "Josh",
+    "judg": "Judg", "judges": "Judg", "ruth": "Ruth", "sam": "Sam", "samuel": "Sam",
+    "kings": "Kgs", "kgs": "Kgs", "chron": "Chr", "chronicles": "Chr", "chr": "Chr",
+    "ezra": "Ezra", "neh": "Neh", "nehemiah": "Neh", "esth": "Esth", "esther": "Esth",
+    "job": "Job", "ps": "Ps", "psa": "Ps", "psalm": "Ps", "psalms": "Ps",
+    "prov": "Prov", "proverbs": "Prov", "eccl": "Eccl", "eccles": "Eccl", "ecc": "Eccl",
+    "ecl": "Eccl", "ecclesiastes": "Eccl", "cant": "Song", "song": "Song",
+    "isa": "Isa", "isaiah": "Isa", "jer": "Jer", "jeremiah": "Jer", "lam": "Lam",
+    "lamentations": "Lam", "ezek": "Ezek", "ezekiel": "Ezek", "dan": "Dan",
+    "daniel": "Dan", "hos": "Hos", "hosea": "Hos", "joel": "Joel", "amos": "Amos",
+    "obad": "Obad", "jonah": "Jonah", "mic": "Mic", "micah": "Mic", "nah": "Nah",
+    "hab": "Hab", "zeph": "Zeph", "hag": "Hag", "zech": "Zech", "mal": "Mal",
+    "malachi": "Mal", "matt": "Matt", "matthew": "Matt", "mark": "Mark",
+    "luke": "Luke", "john": "John", "acts": "Acts", "act": "Acts", "rom": "Rom",
+    "romans": "Rom", "cor": "Cor", "corinthians": "Cor", "gal": "Gal",
+    "galatians": "Gal", "eph": "Eph", "ephesians": "Eph", "phil": "Phil",
+    "philippians": "Phil", "col": "Col", "colossians": "Col", "thess": "Thess",
+    "tim": "Tim", "timothy": "Tim", "tit": "Titus", "titus": "Titus",
+    "philem": "Phlm", "heb": "Heb", "hebrews": "Heb", "jas": "Jas", "james": "Jas",
+    "pet": "Pet", "peter": "Pet", "jude": "Jude", "rev": "Rev", "revelation": "Rev",
+}
+BREWER_NUMBERED = {"Sam", "Kgs", "Chr", "Cor", "Thess", "Tim", "Pet"}
+# KJV chapters per book: a citation past the last chapter is a typo or an
+# Apocrypha book under a canonical abbreviation, and is refused, not linked.
+BREWER_CHAPTERS = dict(zip(
+    "Gen Exod Lev Num Deut Josh Judg Ruth 1Sam 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps "
+    "Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal "
+    "Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm "
+    "Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split(),
+    [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52,
+     5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5,
+     3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]))
+BREWER_ROMAN = {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}
+
+
+def _brewer_roman(r):
+    total, prev = 0, 0
+    for ch in reversed(r):
+        n = BREWER_ROMAN[ch]
+        total += -n if n < prev else n
+        prev = max(prev, n)
+    return total
+
+
+def _brewer_fold(s):
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c)).lower()
+    return s.replace("æ", "ae").replace("œ", "oe")
+
+
+def _brewer_sortkey(head, abbr):
+    if abbr:
+        return _brewer_fold(head)[0] + " "
+    h = BREWER_DOCTOR.sub("Doctor ", BREWER_SAINT.sub("Saint ", head))
+    return re.sub(r"[^a-z0-9 ]", "", re.sub(r"[—–\-]", " ", _brewer_fold(h)))[:3]
+
+
+def brewer_slug(head):
+    s = re.sub(r"[^a-z0-9]+", "-", _brewer_fold(head)).strip("-")
+    return s or "x"
+
+
+def _brewer_candidate(t, sec):
+    """(is it a headword-shaped line, is it a dotted abbreviation)."""
+    if not sec or len(t) > 70 or not t[:1].isupper():
+        return False, False
+    abbr = bool(BREWER_ABBR.fullmatch(t)) and "." in t
+    if t.endswith((".", ":", ";", ",", "”", '"', "!", "?")) and not abbr:
+        return False, abbr
+    body = re.sub(r"\b(St|Dr|Mr|Mrs|Mt|Gen|No|Sir|Ste|Messrs)\.", "", t)
+    if not abbr and BREWER_SENT.search(body):
+        return False, abbr
+    key = re.sub(r"[^a-z0-9]", "", _brewer_fold(t))
+    return bool(key) and key[0] == sec.lower(), abbr
+
+
+def _brewer_longest_run(keys):
+    """Indices of the longest non-decreasing subsequence of keys."""
+    import bisect
+    tails, tidx, prev = [], [], [None] * len(keys)
+    for j, k in enumerate(keys):
+        pos = bisect.bisect_right(tails, k)
+        if pos == len(tails):
+            tails.append(k); tidx.append(j)
+        else:
+            tails[pos] = k; tidx[pos] = j
+        prev[j] = tidx[pos - 1] if pos else None
+    keep, j = set(), (tidx[-1] if tidx else None)
+    while j is not None:
+        keep.add(j); j = prev[j]
+    return keep
+
+
+def brewer_scripture(text):
+    """Brewer's own citations -> links. Only canonical KJV books; the rest
+    (Ecclesiasticus, Esdras, Horace's Odes, Shakespeare) are not scripture
+    or not in the KJV build, and are left alone, not guessed."""
+    out, seen, unknown = [], set(), 0
+    for m in BREWER_SCRIP.finditer(text):
+        num, book, ch, v, v2 = m.groups()
+        osis = BREWER_BOOKS.get(book.lower())
+        if not osis:
+            continue
+        if osis in BREWER_NUMBERED or (osis == "John" and num):
+            if not num:
+                unknown += 1             # "Kings vi. 2" -- which Kings?
+                continue
+            osis = {"I": "1", "II": "2", "III": "3"}.get(num, num) + osis
+        c = _brewer_roman(ch)
+        if not 1 <= c <= BREWER_CHAPTERS.get(osis, 0) or int(v) < 1:
+            unknown += 1
+            continue
+        key = f"{osis}.{c}.{int(v)}"
+        if key in seen:
+            continue
+        seen.add(key)
+        link = {"kind": "scripture", "osis": key, "ref": m.group(0).strip(),
+                "target": f"kjv:{key}", "versification": "kjv", "resolved": True}
+        if v2 and int(v2) > int(v):
+            link["end"] = f"{osis}.{c}.{int(v2)}"
+        out.append(link)
+    return out, unknown
+
+
+def convert_brewer(path, slug="brewer"):
+    """Brewer's Dictionary of Phrase and Fable (1894). One unit per headword."""
+    data = json.load(open(path, encoding="utf-8"))
+    toc = sorted(data["toc"], key=lambda x: x[1])
+    paras = data["paras"]
+
+    def section(pg):
+        s = None
+        for letter, p0 in toc:
+            if pg >= p0:
+                s = letter
+        return s
+
+    by_sec = {}
+    for i, p in enumerate(paras):
+        if len(p["lines"]) != 1:
+            continue
+        t = p["lines"][0].strip()
+        sec = section(p["p"])
+        ok, abbr = _brewer_candidate(t, sec)
+        if ok:
+            by_sec.setdefault(sec, []).append((i, _brewer_sortkey(t, abbr)))
+    heads, offrun = set(), 0
+    for sec, cs in by_sec.items():
+        keep = _brewer_longest_run([k for _, k in cs])
+        heads |= {cs[j][0] for j in keep}
+        offrun += len(cs) - len(keep)
+
+    units, cur, joined, dashes = [], None, 0, 0
+    front = []                          # anything before the first headword
+    for i, p in enumerate(paras):
+        text = " ".join(l.strip() for l in p["lines"]).strip()
+        if not text:
+            continue
+        # Per-book rule (rule 2, never a hand edit): this transcription prints
+        # an en-dash range as a doubled em dash ("1440——1493").
+        dashes += text.count("——")
+        text = re.sub(r"\s+", " ", text.replace("——", "–"))
+        if i in heads:
+            cur = {"head": p["lines"][0].strip(), "page": p["p"], "pages": [p["p"]], "paras": []}
+            units.append(cur)
+            continue
+        if cur is None:
+            front.append(text)
+            continue
+        if p["p"] not in cur["pages"]:
+            cur["pages"].append(p["p"])
+        # A page break looks like a paragraph break. If the paragraph before
+        # it did not finish a sentence, this is that paragraph, continued.
+        if p.get("top") and cur["paras"] and not cur["paras"][-1].endswith(
+                (".", "!", "?", "”", '"', ":", ")")):
+            cur["paras"][-1] += " " + text
+            joined += 1
+        else:
+            cur["paras"].append(text)
+
+    # A "headword" with no body is a list line the rule promoted (e.g. a run of
+    # sword names under Sword): give it back to the entry before it, as text.
+    kept = []
+    for u in units:
+        if not u["paras"] and kept:
+            kept[-1]["paras"].append(u["head"])
+            offrun += 1
+        else:
+            kept.append(u)
+    units = kept
+    slugs = {brewer_slug(u["head"]) for u in units}
+
+    def see_target(t):
+        t = re.sub(r"^under\s+", "", t.strip().rstrip(".").strip())
+        for s in (brewer_slug(t), brewer_slug(t)[:-1] if t.endswith("s") else None):
+            if s and s in slugs:
+                return s
+        return None
+    out, see_ok, see_miss, scrip, kings = [], 0, 0, 0, 0
+    for u in units:
+        text = "\n\n".join(u["paras"])
+        links = []
+        for m in BREWER_SEE.finditer(text):
+            for tgt in re.split(r";|,| and ", m.group(1)):
+                s = see_target(tgt)
+                if s:
+                    if not any(l.get("target") == f"{slug}:{s}" for l in links):
+                        links.append({"kind": "see", "target": f"{slug}:{s}"})
+                    see_ok += 1
+                else:
+                    see_miss += 1
+        sl, unk = brewer_scripture(text)
+        links += sl; scrip += len(sl); kings += unk
+        out.append({"id": f"{slug}:{brewer_slug(u['head'])}",
+                    "ref": f"Brewer, s.v. {u['head']}",
+                    "text": text, "links": links,
+                    "lex": {"headword": u["head"], "page": u["page"], "pages": u["pages"]}})
+    return {"slug": slug,
+            "title": "Dictionary of Phrase and Fable",
+            "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "lexicon-pdf-text",
+                       "sha256": data["source_sha256"],
+                       "pdf_pages": data["pages"]},
+            "scheme": {"citation": "headword (Brewer, s.v.)", "resolution": "entry",
+                       "honesty": "entries segmented by rule from an exact (not OCR) text; "
+                                  "a headword the rule misses stays inside the entry before it",
+                       "note": f"{len(out):,} entries. Text is the born-digital PDF typeset "
+                               "(2003, htmldoc) of the 1894 edition, not proofread against a "
+                               "scan; check copy archive.org dictionaryofphra01brew (1895). "
+                               f"{offrun} headword-shaped lines fell off the alphabetical run "
+                               "or had no body, and were kept as text of the preceding entry. "
+                               "Italics are not "
+                               "carried. Compound hyphens print as em dashes in this "
+                               "transcription (first—rate) and are left as printed; "
+                               f"{dashes} doubled em dashes (ranges) set as en dashes. "
+                               f"{joined} paragraphs rejoined across page breaks. "
+                               f"'See' cross-references: {see_ok:,} resolved to an entry, "
+                               f"{see_miss:,} name no headword this build found -- mostly 'above', "
+                               "'below', 'Notes and Queries', years, page refs -- and are not linked. "
+                               f"{scrip:,} scripture citations parsed to kjv: verse ids "
+                               "(chapter checked against KJV chapter counts; verse not checked); "
+                               f"{kings} left out: no book number where one is needed (\"Kings\"), "
+                               "or a chapter past the book's last (typos, Apocrypha). "
+                               "Unit ids are headword slugs; repeated headwords take ~2, ~3 "
+                               "in page order. Front matter before the first headword: "
+                               f"{len(front)} paragraphs, not units."},
+            "units": out}
+
 
 RE_STEP_ROW = re.compile(r"^[GH]\d{4}\t")
 
@@ -2055,7 +2345,8 @@ def main():
     for slug, fn, conv in (("strongs-hebrew", "strongs-hebrew.xml", convert_strongs_hebrew),
                            ("strongs-greek",  "strongs-greek.xml",  convert_strongs_greek),
                            ("bdb-hebrew",     "bdb-hebrew.tsv",     convert_bdb),
-                           ("thayer",         "thayer-pages.json",  convert_thayer)):
+                           ("thayer",         "thayer-pages.json",  convert_thayer),
+                           ("brewer",         "brewer-1894.paras.json", convert_brewer)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))

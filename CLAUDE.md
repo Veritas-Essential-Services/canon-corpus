@@ -5,6 +5,7 @@ model_log:
   - 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
   - 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+  - 2026-10-19 claude-opus-5-5 edited
   - 2026-10-20 claude-opus-5-5 edited (Aphthonius commands)
 fable_review: pending
 ---
@@ -87,7 +88,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 81 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 93 offline checks (no corpus needed)
+    python3 tests/json_duplicate_keys_test.py # no committed JSON repeats a key (a git merge can)
+    python3 pipeline/extract_brewer.py --pdf P   # Brewer's 1894, from Adam's pinned PDF -> corpus
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -122,6 +125,16 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 -m unscanner editions collate --scan a=DIR --scan b=DIR --djvu a=XML --djvu b=XML --base a --volume N --out OUT  # several scans -> Proof Desk
+    python3 -m unscanner editions merge --collation OUT/collation.json --base-dir DIR --base a --volume N --answers R.json C.json A.json --out OUT  # -> merged text
+    python3 tests/editions_test.py                     # columns, running heads, signature marks, margin breaks, dashes (28)
+    python3 tests/smallcaps_test.py                    # small caps reread, abbreviations, ll/U, æ (21)
+    python3 -m unscanner fixes fetch && python3 -m unscanner fixes build   # the fix library (Guiguts GPL-2, Underwood unlicensed, ICDAR CC BY): local only, gitignored
+    python3 -m unscanner fixes profile --book data/unscanner/<slug>      # which fixes this typesetting has in play
+    python3 tests/fixes_test.py                        # the fix library's profile on a made-up book (13)
+    python3 pipeline/brewer_plates.py --fetch          # Brewer's Character Sketches: 8 vols' manifests, OCR, PDFs (gitignored)
+    python3 pipeline/brewer_plates.py [--check]        # -> data/art/brewer-sketches/plates.jsonl, 283 plates with uids (mint 0)
+    python3 tests/brewer_plates_test.py                # the plates catalog, offline
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -180,6 +193,11 @@ The living truth for project state is the Obsidian vault:
   gate first. Working files in data/unscanner/ (gitignored). `--to-corpus` writes
   data/corpus/archive/<slug>.unscanned.json, which structure_texts.py PREFERS over the Archive's djvu
   text for ARCHIVE_PROSE books. Both Church Homers are built from it. Rules: unscanner/README.md.
+  Their working text SHIPS (2026-10-19, Adam: commit the working text of PD books built from
+  his own files): data/unscanned/<slug>.unscanned.json.gz, declared in SHIPPED_WORKING_TEXT in
+  fetch_sources.py, unpacked into data/corpus/archive/ after a sha256 check, so the hosted
+  rebuild reads the Unscanner's text, not the djvu. Regenerated 2026-10-19 byte-identical to the
+  2026-10-17 build. A new Unscanner book that should reach the host needs an entry there too.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
@@ -257,6 +275,39 @@ against the scan — with detected headwords carried under `lex.headwords`,
 flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
+
+**Brewer's Dictionary of Phrase and Fable (1894), added 2026-10-19, is the
+first lexicon from a file Adam supplied.** No fetchable machine-readable
+edition beat it: the archive.org scans of the 1894-95 printings carry OCR
+text, while Adam's PDF is a born-digital typeset (2,971pp, htmldoc 2003) —
+exact text, no OCR. So it is declared in `LOCAL_SOURCES` in
+`fetch_sources.py`, **pinned by sha256**, and `pipeline/extract_brewer.py`
+is the recipe from that one file to `data/corpus/lexicons/brewer-1894.paras.json`.
+A different PDF is refused. **Its working text is committed** (Adam's ruling
+2026-10-19: commit the working text of public-domain books built from his own
+files): `data/lexicons/brewer-1894.paras.json.gz`, reproducible byte for byte,
+and `fetch_sources.py` unpacks it into `data/corpus/` after checking its pinned
+sha256. So a fresh clone — the hosted Armarium's rebuild — builds Brewer's
+without the PDF. The PDF itself is kept in the vault,
+`9 - Projects/Armarium/sources/`.
+
+**Unlike Thayer's, it is segmented by entry — 16,750 units,
+`brewer:<headword-slug>`** (repeats `~2`, `~3` in page order; `ref` is
+"Brewer, s.v. X"). The text carries no bold, so a headword is found by rule
+(converter docstring): a one-line paragraph, no closing full stop, in its
+letter's section, AND on the longest alphabetical run through that section.
+The alphabet is what Thayer's OCR could not give: a one-line verse quotation
+looks exactly like a headword until it breaks Brewer's order. A line the rule
+misses is never dropped — it stays in the entry before it (149 such, counted
+in the honesty note). Known miss: headwords run into their own first sentence.
+
+Edges: **2,125 "See" cross-references resolved, zero dangling**; 1,493 more
+name nothing that is a headword ("see above", *Notes and Queries*, years) and
+are left unlinked. **680 scripture citations** ("Rev. ix. 11") parsed to
+`kjv:` ids, ranges kept as `end`, chapters checked against KJV chapter counts
+(Psalm 154 and the like refused). Not proofread against the scan; italics
+not carried; compound hyphens print as em dashes in this transcription
+(first—rate) and are left as printed.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 

@@ -1651,6 +1651,19 @@
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
  },
+ "dickens-carol": {
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "format": "gutenberg-txt",
+  "sha256": "8c36b93723d454982df045ec0efdf2664e5a48e6b5e2f670e883575f75ad0cc8",
+  "units": 711,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 3830 of 3853 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
  "henty-bubastes": {
   "title": "The Cat of Bubastes: A Tale of Ancient Egypt",
   "author": "G. A. Henty",
@@ -1701,6 +1714,19 @@
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
    "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org odysseyforboysgi00chur), mean word confidence 93.28: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
+  }
+ },
+ "brewer": {
+  "title": "Dictionary of Phrase and Fable",
+  "author": "E. Cobham Brewer (New and Enlarged Edition, 1894)",
+  "format": "lexicon-pdf-text",
+  "sha256": "f575cef46c5a94fb2eaab194c0e19bfc740900ec73094b3980a0ebe8bf95fd5c",
+  "units": 16750,
+  "scheme": {
+   "citation": "headword (Brewer, s.v.)",
+   "resolution": "entry",
+   "honesty": "entries segmented by rule from an exact (not OCR) text; a headword the rule misses stays inside the entry before it",
+   "note": "16,750 entries. Text is the born-digital PDF typeset (2003, htmldoc) of the 1894 edition, not proofread against a scan; check copy archive.org dictionaryofphra01brew (1895). 149 headword-shaped lines fell off the alphabetical run or had no body, and were kept as text of the preceding entry. Italics are not carried. Compound hyphens print as em dashes in this transcription (first—rate) and are left as printed; 162 doubled em dashes (ranges) set as en dashes. 526 paragraphs rejoined across page breaks. 'See' cross-references: 2,125 resolved to an entry, 1,493 name no headword this build found -- mostly 'above', 'below', 'Notes and Queries', years, page refs -- and are not linked. 680 scripture citations parsed to kjv: verse ids (chapter checked against KJV chapter counts; verse not checked); 6 left out: no book number where one is needed (\"Kings\"), or a chapter past the book's last (typos, Apocrypha). Unit ids are headword slugs; repeated headwords take ~2, ~3 in page order. Front matter before the first headword: 5 paragraphs, not units."
   }
  },
  "aphthonius-rabe": {

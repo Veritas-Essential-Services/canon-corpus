@@ -42,3 +42,10 @@ Wikimedia Commons: 95 Rockwell Post cover dates matched to their catalog entries
     python3 pipeline/commons_covers.py --add            # match Commons Post covers; add the unlisted ones
 
 **Offline backup:** `python pipeline/download_illustrations.py <folder on your drive>` saves the largest copy of every `pd_us: true` work: IIIF at full size, the Library of Congress master files, and Commons originals. Internet Archive manifests are whole books, so expect many gigabytes. Resumable; `--artist Rackham` for one artist, `--dry-run` to see the plan.
+
+## Book plates: Brewer's *Character Sketches* (2026-10-19)
+
+`brewer-sketches/plates.jsonl`: 283 full-page plates from the 8-volume Hess edition of
+1892, each with its own Word Hoard uid (`wh-…`, for a later publishing project) and a
+link to its page image on archive.org's IIIF server. Caption, artist and engraver
+are unproofread OCR. Rules, counts and gaps: `brewer-sketches/README.md`.
