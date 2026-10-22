@@ -285,3 +285,4 @@
 - 23:26 co: Philosophical Classics for English Readers, 14 vols
 - 23:32 cp: Albee, Bonar, Brett, Boyce Gibson, J. S. Haldane, Wallace, Adamson, Whittaker (32 vols)
 - 23:34 PAUSED at Adam's request after cp. Resume point in LOCK-B.json: round cq (Farnell, Haigh, Tyrrell, Wight Duff, A. B. Cook, Nettleship, W. M. Lindsay), then cr (Evans, Hogarth, Ridgeway, Myres, H. R. Hall, Hartland).
+- 18:25 10/22 resumed, then BLOCKED: network policy refuses archive.org and gutenberg.org. Resume point corrected in LOCK-B.json (haigh, tyrrell, nettleship, ridgeway, farnell shelves already exist).
