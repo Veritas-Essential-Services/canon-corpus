@@ -1650,5 +1650,225 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "aquinas-st-en": {
+  "title": "Summa Theologiae (English, Fathers of the English Dominican Province, 2nd ed. 1920-22), keyed by article",
+  "author": "Thomas Aquinas (tr. Fathers of the English Dominican Province)",
+  "format": "thml",
+  "sha256": "550eb0b0758f119dfe50346e43072026e8c3070d806d4942025525fb24fb7f5b",
+  "units": 30377,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "exact: both editions print these divisions; where the two editions divide an article differently, data/aquinas/st-key.jsonl says so (status parts-differ) and nothing is forced to line up",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-la"
+  },
+  "source": "https://ccel.org/ccel/a/aquinas/summa.xml (DC.Rights: Public Domain)",
+  "rights": {
+   "license": "public-domain",
+   "basis": "the translation was published 1911-1925 (2nd revised ed. 1920-22), before 1931: US public domain. The digital text (Sandra K. Perry's, as on Gutenberg) was keyed from the Benziger Brothers 1947 printing; only the translation is used, none of that printing's added matter",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_st.py",
+  "note": "The same translation as the Gutenberg books aquinas-summa, -1-2, -2-2, -3 and aquinas-summa-supp, which keep their own ids; this book re-cuts CCEL's text at the article part so it can stand beside the Latin. 2669 of 3133 articles have a Latin witness. Scripture references are recorded as the source tagged them (Vulgate versification, resolved: false)."
+ },
+ "aquinas-st-la": {
+  "title": "Summa Theologiae (Latin, Leonine text via Corpus Thomisticum), keyed by article",
+  "author": "Thomas Aquinas",
+  "format": "corpus-thomisticum-html",
+  "sha256": "8ab7d0c06170a917e5de509119b8ef7d3dd6e04f8f6f0bdc02be5c11576dd21e",
+  "units": 23326,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "exact: both editions print these divisions; where the two editions divide an article differently, data/aquinas/st-key.jsonl says so (status parts-differ) and nothing is forced to line up",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-en"
+  },
+  "source": "https://www.corpusthomisticum.org/iopera.html (Textum Leoninum Romae 1888-1906 editum, ed. E. Alarcon)",
+  "rights": {
+   "license": "underlying text public domain (Leonine edition, Rome 1888-1906); electronic edition claimed by the publisher",
+   "attribution": "Corpus Thomisticum, ed. Enrique Alarcon, Fundacion Tomas de Aquino / Universidad de Navarra",
+   "source_url": "https://www.corpusthomisticum.org/",
+   "publisher_notice": "(c) Fundacion Tomas de Aquino quoad hanc editionem. Iura omnia asservantur",
+   "redistribute_whole": false,
+   "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"
+  },
+  "builder": "pipeline/build_aquinas_st.py",
+  "note": "No Supplement: Corpus Thomisticum prints the Supplement's source (Scriptum super Sententiis IV), not the Supplement itself."
+ },
+ "aquinas-st-la1894": {
+  "title": "Summa Theologiae (Latin, editio altera Romana, Rome: Forzani 1894), keyed by article; raw OCR",
+  "author": "Thomas Aquinas",
+  "format": "ia-djvu-ocr",
+  "sha256": "9f1aac6338c8892aba9ae408594381cbf4a55045630966cc91d135fea6720b7f",
+  "units": 29772,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "UNPROOFREAD OCR (the Internet Archive's text layer), cut by pipeline/aquinas_st_1894.py from the edition's own headings and formulas (Ad secundum sic proceditur, Praeterea, Sed contra, Respondeo, Ad primum ergo dicendum). Each part is checked against the Leonine part of the same key: 192 parts share under half their words with it and are listed as la1894_doubtful in the key file. A pre-Leonine text: its readings differ from the Leonine's by design",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-en"
+  },
+  "source": "https://archive.org/details/summatheologicae0001thom, summatheologicae0002thom, summatheologicae0003thom, summatheologicae0004thom, summatheologicae0005thom",
+  "rights": {
+   "license": "public-domain",
+   "basis": "printed Rome 1894; US public domain",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_st.py (parser: pipeline/aquinas_st_1894.py)",
+  "note": "The fully public-domain Latin witness, and the only Latin of the Supplement here. 3109 articles carry it."
+ },
+ "aquinas-scg-la": {
+  "title": "Summa contra Gentiles (Latin, Leonine text via Corpus Thomisticum)",
+  "author": "Thomas Aquinas",
+  "format": "corpus-thomisticum-html",
+  "sha256": "557fe1917bb8e53a0ba09a021435e5cc435cf3c25a6d054678e3f702f09ac2aa",
+  "units": 4745,
+  "scheme": {
+   "citation": "book and chapter (SCG.1.13 = Contra Gentiles I, 13); paragraphs numbered within the chapter",
+   "resolution": "chapter (paragraph within it)",
+   "key_file": "data/aquinas/scg-key.jsonl",
+   "honesty": "exact: the Leonine's own chapter and paragraph numbers"
+  },
+  "source": "https://www.corpusthomisticum.org/iopera.html (Leonine edition, Rome 1918-1930)",
+  "rights": {
+   "license": "underlying text public domain; electronic edition claimed by the publisher",
+   "publisher_notice": "(c) Fundacion Tomas de Aquino quoad hanc editionem. Iura omnia asservantur",
+   "redistribute_whole": false,
+   "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"
+  },
+  "builder": "pipeline/build_aquinas_scg.py",
+  "note": "455 chapters."
+ },
+ "aquinas-scg-en-dominican": {
+  "title": "The Summa contra Gentiles, Books I-III (English Dominican Fathers, 1923-28); raw OCR",
+  "author": "Thomas Aquinas (tr. English Dominican Fathers)",
+  "format": "ia-djvu-ocr",
+  "sha256": "103a32ffc5555541424061fb37354b50371cb10463008540ed26ecfcd0ec26f4",
+  "units": 4202,
+  "scheme": {
+   "citation": "book and chapter (SCG.1.13 = Contra Gentiles I, 13); paragraphs numbered within the chapter",
+   "resolution": "chapter (paragraph within it)",
+   "key_file": "data/aquinas/scg-key.jsonl",
+   "honesty": "chapter-exact (headings checked in sequence); paragraphs are the OCR's, unproofread, and do not always match the Leonine's numbering (paras_match in the key file); some page footnotes may survive in the text"
+  },
+  "source": "pipeline/aquinas_shelf.json (Internet Archive: aquinas-scg-dominican-b1, aquinas-scg-dominican-b2, aquinas-scg-dominican-b3p1, aquinas-scg-dominican-b3p2)",
+  "rights": {
+   "license": "public-domain",
+   "basis": "London: Burns Oates & Washbourne, 1923-1928; US public domain",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_scg.py",
+  "note": "Books I-III, 354 chapters. Book IV (1929) not found on the Archive.",
+  "repairs": [
+   "aquinas-scg-dominican-b1: chapter 13 heading not found; text runs into 14",
+   "aquinas-scg-dominican-b2: chapter 78 heading not found; text runs into 79",
+   "aquinas-scg-dominican-b3p1: chapter 63 heading not found; text runs into 64",
+   "aquinas-scg-dominican-b3p1: chapter 81 heading not found; text runs into 82"
+  ]
+ },
+ "aquinas-scg-en-rickaby": {
+  "title": "Of God and His Creatures (Contra Gentiles, abridged and annotated, 1905)",
+  "author": "Thomas Aquinas (tr. Joseph Rickaby)",
+  "format": "thml",
+  "sha256": "04d79f25b1e11db4e0d1e4a94f17e4b1ef01ff7bf9865a389c23ea7e2cd7cc5f",
+  "units": 2718,
+  "scheme": {
+   "citation": "book and chapter (SCG.1.13 = Contra Gentiles I, 13); paragraphs numbered within the chapter",
+   "resolution": "chapter (paragraph within it)",
+   "key_file": "data/aquinas/scg-key.jsonl",
+   "honesty": "he numbers as the 1894 Latin does (pre-Leonine); each chapter is placed on the Leonine number through the 1894 chapter of the same number, or, where the 1894 OCR lost that heading, by his title against the Dominican's; his own numbers kept as rickaby_numbered; ABRIDGED: chapters shortened, joined or left out, and his notes are mixed into the text"
+  },
+  "source": "https://ccel.org/ccel/a/aquinas/gentiles.xml",
+  "rights": {
+   "license": "public-domain",
+   "basis": "London: Burns & Oates, 1905; US public domain",
+   "redistribute_whole": true,
+   "ccel_terms": "CCEL asks non-commercial use of some prepared editions: check before republishing"
+  },
+  "builder": "pipeline/build_aquinas_scg.py",
+  "note": "383 chapters across all four books; placed by the Latin 370, by title 9, by his own number 1."
+ },
+ "aquinas-scg-la1894": {
+  "title": "Summa contra Gentiles (Latin, editio Romana 1894); raw OCR",
+  "author": "Thomas Aquinas",
+  "format": "ia-djvu-ocr",
+  "sha256": "64d67f6680f4e8f007a76f38b99f5df887a5c8299b31a779913858d83cfd45c5",
+  "units": 4818,
+  "scheme": {
+   "citation": "book and chapter (SCG.1.13 = Contra Gentiles I, 13); paragraphs numbered within the chapter",
+   "resolution": "chapter (paragraph within it)",
+   "key_file": "data/aquinas/scg-key.jsonl",
+   "honesty": "chapter placed on the Leonine number by its Latin (the opening of each chapter against the Leonine's text: la1894_fit in the key); its own pre-Leonine numbers kept as la1894_numbered where they differ; unproofread OCR, a pre-Leonine text; paragraphs are the OCR's"
+  },
+  "source": "https://archive.org/details/summaecontragent00thom",
+  "rights": {
+   "license": "public-domain",
+   "basis": "Rome: Forzani, 1894; US public domain",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_scg.py",
+  "note": "443 chapters; 13 headings lost by the OCR, their text in the chapter before (repairs, by its own numbers).",
+  "repairs": [
+   "1.26: heading not found by OCR; its text is in the chapter before",
+   "1.28: heading not found by OCR; its text is in the chapter before",
+   "1.69: heading not found by OCR; its text is in the chapter before",
+   "2.63: heading not found by OCR; its text is in the chapter before",
+   "2.81: heading not found by OCR; its text is in the chapter before",
+   "2.82: heading not found by OCR; its text is in the chapter before",
+   "3.11: heading not found by OCR; its text is in the chapter before",
+   "3.71: heading not found by OCR; its text is in the chapter before",
+   "3.73: heading not found by OCR; its text is in the chapter before",
+   "3.108: heading not found by OCR; its text is in the chapter before",
+   "3.112: heading not found by OCR; its text is in the chapter before",
+   "4.16: heading not found by OCR; its text is in the chapter before",
+   "4.41: heading not found by OCR; its text is in the chapter before"
+  ]
+ },
+ "aquinas-catena-la": {
+  "title": "Catena Aurea (Latin, via Corpus Thomisticum)",
+  "author": "Thomas Aquinas",
+  "format": "corpus-thomisticum-html",
+  "sha256": "787b0a9f331a9b3f61d49b5c657282122becb712bb2337558b4507540d07de69",
+  "units": 827,
+  "scheme": {
+   "citation": "gospel, chapter, lectio (CA.Mt.5.3 = Catena in Mt. cap. 5 l. 3)",
+   "key_file": "data/aquinas/catena-key.jsonl",
+   "resolution": "lectio",
+   "honesty": "exact: Corpus Thomisticum's own chapter and lectio"
+  },
+  "source": "https://www.corpusthomisticum.org/iopera.html",
+  "rights": {
+   "license": "underlying text public domain; electronic edition claimed by the publisher",
+   "publisher_notice": "(c) Fundacion Tomas de Aquino quoad hanc editionem. Iura omnia asservantur",
+   "redistribute_whole": false,
+   "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"
+  },
+  "builder": "pipeline/build_aquinas_catena.py",
+  "note": "827 lectiones."
+ },
+ "aquinas-catena-en": {
+  "title": "Catena Aurea (English, Oxford 1841-45)",
+  "author": "Thomas Aquinas (tr. J. H. Newman, ed.)",
+  "format": "thml + ia-djvu-ocr",
+  "sha256": "c17f855da76b552cc3801b28019a98c8aebafaf847f497e35db9cf4c8035d541",
+  "units": 20622,
+  "scheme": {
+   "citation": "gospel, chapter, lectio (CA.Mt.5.3 = Catena in Mt. cap. 5 l. 3)",
+   "key_file": "data/aquinas/catena-key.jsonl",
+   "resolution": "lectio (the English prints none; its sections are placed by the Fathers they quote, fit per row in the key)",
+   "honesty": "Matthew and Mark clean (CCEL); Luke and John raw OCR, unproofread, with margin notes left in the text. A section is placed on a lectio by the sequence of Fathers quoted, which survives translation; the fit is recorded and low fits are listed in docs/AQUINAS.md"
+  },
+  "source": "pipeline/aquinas_shelf.json (CCEL catena1, catena2; Internet Archive, Luke and John)",
+  "rights": {
+   "license": "public-domain",
+   "basis": "Oxford: J. H. Parker, 1841-1845; US public domain",
+   "redistribute_whole": true,
+   "ccel_terms": "CCEL asks non-commercial use of some prepared editions: check before republishing"
+  },
+  "builder": "pipeline/build_aquinas_catena.py",
+  "note": "Mt: 285 sections on 285 lectiones, 282 one to one; Mc: 105 sections on 105 lectiones, 105 one to one; Lc: 287 sections on 246 lectiones, 206 one to one; Io: 223 sections on 191 lectiones, 147 one to one"
  }
 }
