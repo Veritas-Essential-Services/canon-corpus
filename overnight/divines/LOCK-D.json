@@ -1,1 +1,1 @@
-{"status": "free", "paused": "2026-10-18T00:15-05:00", "resume": "Lane D paused at Adam's request after batch 50 (all pushed). Next: batch 51; see REPORT-D session-end entry and DIGEST-D items 24-26."}
+{"status": "free", "paused": "2026-10-22T18:25-05:00", "resume": "Lane D blocked: the cloud environment network now denies www.gutenberg.org, archive.org and ccel.org (proxy 403). Batch 51 (30 authors) is drafted in the session scratch area only; rerun the survey when the network is back."}
