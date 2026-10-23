@@ -18813,3 +18813,24 @@ Slugs `stackhouse-*`. Built from title pages read for round 128.
 | the 1743 and 1760 Body of Divinity and a second Woolston scan | excluded | |
 | his Greek grammar, a school book | excluded | |
 | completebodyofdi00stac: a partial scan that begins in Part III with no title page; the 1743 ECCO copy is taken instead | excluded | |
+
+## J. F. Ostervald (round 128, my pick, 2026-10-23)
+
+Slugs `ostervald-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The Grounds and principles of the Christian religion : explain'd in a catechetical discourse, for the instruction of young people (London : Printed by W. Sayes for William Hawes, 1704) | have-ocr | IA `groundsprinciple00oste` |
+| The Nature of uncleanness considered : to which is added, a discourse concerning the nature of chastity, and the means of obtaining it (London : Printed for R. Bonwicke [etc], 1708) | have-ocr | IA `natureofuncleann00oste` |
+| The arguments of the books and chapters of the Old and New Testament : with practical observations (London : Printed for the Society for Promoting Christian Knowledge, [171) | have-ocr | IA `argumentsbooksa00ostegoog` |
+| The preliminary discourse to the arguments on the books and chapters of the Old and New-Testament. Written by J. F. Ostervald, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-preliminary-discours_ostervald-jean-frdric_1722` |
+| An abridgment of the history of the Bible. By the Rev. Mr Ostervald.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_an-abridgment-of-the-his_ostervald-jean-frdric_1750` |
+| The necessity and usefulness of reading the Holy Scriptures; and the dispositions with which they ought to be read. Written originally in French, by the Rev. Mr. Ostervald: ... Translated by John Moore, A.B.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_the-necessity-and-useful_ostervald-jean-frdric_1750` |
+| Theologiae Christianae compendium; authore Johanne Friderico Osterwaldio, ...  1757 (catalogued 1757) | have-ocr | IA `bim_eighteenth-century_theologiae-christianae-c_ostervald-jean-frdric_1757` |
+| Lectures on the exercise of the sacred ministry. By the late J. F. Ostervald, ... Translated from the French, and enlarged with a preface, and occasional notes, by Thomas Stevens, ...  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_lectures-on-the-exercise_ostervald-jean-frdric_1781` |
+| A compendium of Christian theology (Strabane : Printed by John Bellew, 1785) | have-ocr | IA `compendiumofchri00oste` |
+| Collections and Observations concerning the Worship, Discipline, and Government of the Church (1770), IA collectionsando00ostegoog: authorship not confirmed from the text; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A treatise concerning the causes of the present corruption, ...  1700 (catalogued 1700) (IA bim_early-english-books-1641-1700_a-treatise-concerning-th_ostervald-jean-frederic_1700): the English title page of Part I names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his French Catechisme, Traité contre l'impureté and Bible | excluded | |
+| German translations and a geography by Friedrich Osterwald | excluded | |
+| other editions of the Grounds, Uncleanness, Arguments and Abridgment | excluded | |

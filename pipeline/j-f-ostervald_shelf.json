@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain J. F. Ostervald, pastor of Neuchâtel, for the Word Hoard, in the English versions of his day: The Grounds and Principles of the Christian Religion, The Nature of Uncleanness Considered, The Arguments of the Books and Chapters of the Old and New Testament, An Abridgment of the History of the Bible, The Necessity and Usefulness of Reading the Holy Scriptures, Lectures on the Exercise of the Sacred Ministry, and A Compendium of Christian Theology; also his Latin Theologiae Christianae Compendium. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 128 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. f. ostervald",
+  "john frederick ostervald",
+  "jean frederic ostervald",
+  "ostervald",
+  "osterwald",
+  "osterwaldio"
+ ],
+ "_surname": [
+  "ostervald",
+  "osterwald",
+  "osterwaldio"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ostervald-grounds-principles": [
+   "groundsprinciple00oste",
+   "The Grounds and principles of the Christian religion : explain'd in a catechetical discourse, for the instruction of young people (London : Printed by W. Sayes for William Hawes, 1704)"
+  ],
+  "ostervald-uncleanness": [
+   "natureofuncleann00oste",
+   "The Nature of uncleanness considered : to which is added, a discourse concerning the nature of chastity, and the means of obtaining it (London : Printed for R. Bonwicke [etc], 1708)"
+  ],
+  "ostervald-arguments": [
+   "argumentsbooksa00ostegoog",
+   "The arguments of the books and chapters of the Old and New Testament : with practical observations (London : Printed for the Society for Promoting Christian Knowledge, [171)"
+  ],
+  "ostervald-preliminary": [
+   "bim_eighteenth-century_the-preliminary-discours_ostervald-jean-frdric_1722",
+   "The preliminary discourse to the arguments on the books and chapters of the Old and New-Testament. Written by J. F. Ostervald, ...  1722 (catalogued 1722)"
+  ],
+  "ostervald-abridgment": [
+   "bim_eighteenth-century_an-abridgment-of-the-his_ostervald-jean-frdric_1750",
+   "An abridgment of the history of the Bible. By the Rev. Mr Ostervald.  1750 (catalogued 1750)"
+  ],
+  "ostervald-reading-scriptures": [
+   "bim_eighteenth-century_the-necessity-and-useful_ostervald-jean-frdric_1750",
+   "The necessity and usefulness of reading the Holy Scriptures; and the dispositions with which they ought to be read. Written originally in French, by the Rev. Mr. Ostervald: ... Translated by John Moore, A.B.  1750 (catalogued 1750)"
+  ],
+  "ostervald-compendium-latin": [
+   "bim_eighteenth-century_theologiae-christianae-c_ostervald-jean-frdric_1757",
+   "Theologiae Christianae compendium; authore Johanne Friderico Osterwaldio, ...  1757 (catalogued 1757)"
+  ],
+  "ostervald-sacred-ministry": [
+   "bim_eighteenth-century_lectures-on-the-exercise_ostervald-jean-frdric_1781",
+   "Lectures on the exercise of the sacred ministry. By the late J. F. Ostervald, ... Translated from the French, and enlarged with a preface, and occasional notes, by Thomas Stevens, ...  1781 (catalogued 1781)"
+  ],
+  "ostervald-compendium": [
+   "compendiumofchri00oste",
+   "A compendium of Christian theology (Strabane : Printed by John Bellew, 1785)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ostervald-french": "his French Catechisme, Traité contre l'impureté and Bible",
+  "ostervald-german": "German translations and a geography by Friedrich Osterwald",
+  "ostervald-dups": "other editions of the Grounds, Uncleanness, Arguments and Abridgment"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ostervald-grounds-principles": {
+   "author": "OCR of the title page: \"THE GROUNDS and PRINCIPLES OF THE Christian Religion Explain'd in a Catechetical Discourse ... Written in French by J. F. OSTERVAL D, Pastor of the Church of Neufchatel\"",
+   "title": "OCR of the title page: \"THE GROUNDS and PRINCIPLES OF THE Christian Religion Explain'd in a Catechetical Discourse ... Written in French by J. F. OSTERVAL D, Pastor of the Church of Neufchatel\""
+  },
+  "ostervald-reading-scriptures": {
+   "author": "OCR of the title page: \"[The] Necessity and Usefulness Of Reading the Holy SCRIPTURES ... By the Rev. Mr OSTERVALD Professor of Divinity, and one of the Ministers of the Church at Neufchatel, in Switzerland. Translated by JOHN MOORE\"",
+   "title": "OCR of the title page: \"[The] Necessity and Usefulness Of Reading the Holy SCRIPTURES ... By the Rev. Mr OSTERVALD Professor of Divinity, and one of the Ministers of the Church at Neufchatel, in Switzerland. Translated by JOHN MOORE\""
+  },
+  "ostervald-compendium": {
+   "author": "OCR of the title page: \"A COMPENDIUM [OF] CHRISTIAN THEOLOGY ... BY JOHN FREDERICK 0ST£RWAL[D], A CELEBRATED DIVINE OF SWITZERLAND ... Newly Translated into English\"",
+   "title": "OCR of the title page: \"A COMPENDIUM [OF] CHRISTIAN THEOLOGY ... BY JOHN FREDERICK 0ST£RWAL[D], A CELEBRATED DIVINE OF SWITZERLAND ... Newly Translated into English\""
+  },
+  "ostervald-preliminary": {
+   "author": "Title page read from the page image: \"The Preliminary Discourse to the Arguments on the Books and Chapters of the Old and New-Testament. Written by J. F. Ostervald, Pastor of the Church of Neufchatel. London ... 1722.\"",
+   "title": "Title page read from the page image: \"The Preliminary Discourse to the Arguments on the Books and Chapters of the Old and New-Testament. Written by J. F. Ostervald, Pastor of the Church of Neufchatel. London ... 1722.\""
+  },
+  "ostervald-abridgment": {
+   "author": "Title page read from the page image: \"An Abridgment of the History of the Bible. By the Rev. Mr Ostervald. London: Printed for B. Dod ... MDCCL.\"",
+   "title": "Title page read from the page image: \"An Abridgment of the History of the Bible. By the Rev. Mr Ostervald. London: Printed for B. Dod ... MDCCL.\""
+  }
+ },
+ "_pending": {
+  "ostervald-collections": "Collections and Observations concerning the Worship, Discipline, and Government of the Church (1770), IA collectionsando00ostegoog: authorship not confirmed from the text; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "ostervald-corruption": "A treatise concerning the causes of the present corruption, ...  1700 (catalogued 1700) (IA bim_early-english-books-1641-1700_a-treatise-concerning-th_ostervald-jean-frederic_1700): the English title page of Part I names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "ostervald-grounds-principles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ostervald-uncleanness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostervald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ostervald-arguments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostervald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "[171-]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ostervald-preliminary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1722",
+   "ia_date": "1722",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ostervald-abridgment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ostervald-reading-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostervald",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ostervald-compendium-latin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "osterwaldio",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ostervald-sacred-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ostervald",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1781",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ostervald-compendium": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
