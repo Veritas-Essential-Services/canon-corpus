@@ -1,0 +1,32 @@
+{
+ "_about": "F. W. Westaway (1864-1946), schools inspector, raw IA OCR of Quantity and Accent in the Pronunciation of Latin (1913); not K. M. Westaway, whose shelf is k-m-westaway. Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "F. W. Westaway",
+ "_name_words": [
+  "westaway"
+ ],
+ "_surname": [
+  "f. w. westaway"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-w-westaway-quantity-and-accent-1913": [
+   "quantityaccentin00west",
+   "Quantity and Accent in the Pronunciation of Latin, by F. W. Westaway (Cambridge: at the University Press; no year on the title page, the preface is dated August 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "f-w-westaway-quantity-and-accent-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. w. westaway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
