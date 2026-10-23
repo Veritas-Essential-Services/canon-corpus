@@ -17444,6 +17444,20 @@ Slugs `gerberding-*`. Built from title pages read for round 114.
 | Lutheran fundamentals, a simple system of Scripture truth with applications for the common man (Rock Island, Ill. : Augustana Book Concern, 1925) | have-ocr | IA `lutheranfundamen00gerb` |
 | Reminiscent reflections of a youthful octogenarian (Minneapolis, Minn. : Augsburg publishing house, 1928) | have-ocr | IA `reminiscentrefle00gerb` |
 | vgentillfrlsnin00gerbgoog (a Swedish translation) | excluded | |
+
+## David Magie (round 114, my pick, 2026-10-23)
+
+Slugs `dmagie-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Debts; the substance of three sermons, delivered in the Second Presbyterian Church, Elizabeth-town (Elizabeth-town [N.J.] : Printed by Sanderson and Brookfield, 1830) | have-ocr | IA `debtssubstanceof00magi` |
+| The ministry magnified (Newark, N.J., The Central Presbyterian church, 1837) | have-ocr | IA `ministrymagnifie00magi` |
+| God's voice, and the lessons it teaches : a sermon, preached on the occasion of the death of General Taylor, late President of the United States (New York : John F. Trow, printer, 1850) | have-ocr | IA `godsvoiceandless00magiiala` |
+| The spring-time of life; or, Advice to youth (New York, R. Carter & Brothers, 1853) | have-ocr | IA `springtimeoflife00magi` |
+| A discourse delivered in the Second Presbyterian Church, Elizabeth, N.J. August 6th, 1863 on occasion of the public thanksgiving appointed by Abraham Lincoln, President of the United States, to commemorate the signal victories vouchsafed to the Federal arms (New York : Printed by Francis Hart & Co., 1863) | have-ocr | IA `discoursedeliver00magi` |
+| The Roman-history books and Loeb Historia Augusta are by the classicist David Magie (1877-1960) | excluded | |
+| ourtrueencourage0000revd (a bound volume of several sermons) and ASPC0023580100 (an American Tract Society committee minute) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
