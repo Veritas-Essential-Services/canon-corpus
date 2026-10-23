@@ -17194,6 +17194,17 @@ Slugs `gwebber-*`. Built from title pages read for round 111.
 | Lectures and sermons (Charlottetown, [P.E.I.] : H. Cooper, 1875) | have-ocr | IA `cihm_49059` |
 | The pulpit the age needs (Toronto : W. Briggs; Montreal : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_49060` |
 | God in history (Toronto : W. Briggs; Montreal : C.W. Coates, 1888) | have-ocr | IA `cihm_25612` |
+
+## William Rintoul (round 111, my pick, 2026-10-23)
+
+Slugs `rintoul-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the claims of Scotsmen abroad, on the Christian sympathy and exertions of their countrymen at home (Edinburgh : printed for Waugh & Innes, 1826) | have-ocr | IA `remarksonclaimso00rint` |
+| A Sermon on Dancing, preached by a minister in Canada West (1843), IA cihm_40457: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Sermon and addresses, on the occasion of the admission, by the Presbytery of Toronto, of the Rev. John Barclay, A.M. to the pastoral charge of the congregation of St. Andrew's Church, Toronto, on the 6th December, 1842 (Toronto, Printed at the British Colonist Office, 1843), IA sermonaddresseso00rint: his sermon bound with addresses by James George and John Tawse (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| cihm_49446 (a pastoral letter of the Synod, a corporate document) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
