@@ -44157,3 +44157,15 @@ Shelf: `pipeline/arthur-d-howden-smith_shelf.json` (2026-10-22; added at the coo
 | The doom trail | have | PG 70683, `adhsmith-doom-trail` (3485 units) |
 | Porto Bello gold | have | PG 70777, `adhsmith-porto-bello-gold` (3830 units) |
 | Spears of destiny | have | PG 70872, `adhsmith-spears-of-destiny` (2722 units) |
+
+## William Gilmore Simms
+
+Shelf: `pipeline/william-gilmore-simms_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Francis Marion | have | PG 843, `wgsimms-life-of-francis-marion` (528 units) |
+| Charlemont; Or, The Pride of the Village. a Tale of Kentucky | have | PG 6012, `wgsimms-charlemont` (2161 units) |
+| Confession; Or, The Blind Heart. A Domestic Story | have | PG 6059, `wgsimms-confession` (1916 units) |
+| Guy Rivers: A Tale of Georgia | have | PG 16303, `wgsimms-guy-rivers` (2252 units) |
+| The Lily and the Totem; or, The Huguenots in Florida | have | PG 44337, `wgsimms-lily-and-the-totem` (1101 units) |

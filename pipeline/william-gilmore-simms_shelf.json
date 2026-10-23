@@ -1,0 +1,86 @@
+{
+ "_about": "William Gilmore Simms: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Gilmore Simms",
+ "_name_words": [
+  "gilmore",
+  "simms",
+  "william"
+ ],
+ "_surname": [
+  "william gilmore simms",
+  "simms"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wgsimms-life-of-francis-marion": [
+   843,
+   "The Life of Francis Marion"
+  ],
+  "wgsimms-charlemont": [
+   6012,
+   "Charlemont; Or, The Pride of the Village. a Tale of Kentucky"
+  ],
+  "wgsimms-confession": [
+   6059,
+   "Confession; Or, The Blind Heart. A Domestic Story"
+  ],
+  "wgsimms-guy-rivers": [
+   16303,
+   "Guy Rivers: A Tale of Georgia"
+  ],
+  "wgsimms-lily-and-the-totem": [
+   44337,
+   "The Lily and the Totem; or, The Huguenots in Florida"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wgsimms-life-of-francis-marion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gilmore simms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgsimms-charlemont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gilmore simms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgsimms-confession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gilmore simms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgsimms-guy-rivers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gilmore simms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgsimms-lily-and-the-totem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gilmore simms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
