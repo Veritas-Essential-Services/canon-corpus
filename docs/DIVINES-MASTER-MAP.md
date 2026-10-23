@@ -19035,6 +19035,15 @@ Shelf: `pipeline/rennell-rodd_shelf.json`. The Princes of Achaia, 2 vols. (1907)
 | The Princes of Achaia and the Chronicles of Morea, vol. I (1907) |  | `rodd-princes-of-achaia-vol-1` | have-raw (IA `princesofachaiac01rodd`) |
 | The Princes of Achaia and the Chronicles of Morea, vol. II (1907) |  | `rodd-princes-of-achaia-vol-2` | have-raw (IA `princesofachaiac02rodduoft`) |
 
+
+## Otto Seemann (1825-1901)
+
+Shelf: `pipeline/otto-seemann_shelf.json`. Mythology of Greece and Rome, ed. Bianchi. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Mythology of Greece and Rome, with Special Reference to its Use in Art, ed. G. H. Bianchi |  | `seemann-mythology-greece-rome` | have-raw (IA `mythologyofgreec01seem`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
