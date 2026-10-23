@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Benjamin Hoadly (1676-1761), Bishop of Bangor and Winchester, of the Bangorian controversy, for the Word Hoard: his Works (London: W. Bowyer and J. Nichols, 1773, three folio volumes), from Internet Archive scans of Eighteenth Century Collections Online. Added 2026-10-23 by lane A, round 44 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hoadly"
+ ],
+ "_surname": [
+  "benjamin hoadly",
+  "hoadly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoadly-works-1": [
+   "bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_1",
+   "The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 1 (London, catalogued 1773)"
+  ],
+  "hoadly-works-2": [
+   "bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_2",
+   "The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 2 (London, catalogued 1773)"
+  ],
+  "hoadly-works-3": [
+   "bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_3",
+   "The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 3 (London, catalogued 1773)"
+  ]
+ },
+ "_alternates": {
+  "hoadly-copies": "Separate Sermons (1744, 1749), Sixteen Sermons (1754) and Twenty Sermons (1755), all inside the Works"
+ },
+ "_excluded": {
+  "hoadly-other": "Sermons on the Mode and Subjects of Baptism (1803), by another Hoadly"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hoadly-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hoadly",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoadly-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hoadly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoadly-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hoadly",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

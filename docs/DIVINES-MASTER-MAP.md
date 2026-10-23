@@ -10531,6 +10531,18 @@ Slugs `atterbury-*`. Built from title pages read for round 44.
 | Sermons and Discourses on Several Subjects and Occasions, vol. 4 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_4` |
 | Other printings of the Sermons (1723-1774); the Epistolary Correspondence (Nichols, 1783-1787), letters to and from him with editorial notes, left for a later round | alternate | not shelved |
 | Lewis Atterbury's Sermons (his brother); the Virgil translation volumes; the Convocation pamphlets of 1700-1702 (church politics) | excluded | |
+
+## Benjamin Hoadly (round 44, my pick, 2026-10-22)
+
+Slugs `hoadly-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 1 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_1` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 2 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_2` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 3 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_3` |
+| Separate Sermons (1744, 1749), Sixteen Sermons (1754) and Twenty Sermons (1755), all inside the Works | alternate | not shelved |
+| Sermons on the Mode and Subjects of Baptism (1803), by another Hoadly | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
