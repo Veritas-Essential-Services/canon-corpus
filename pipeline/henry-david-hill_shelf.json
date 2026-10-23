@@ -1,0 +1,33 @@
+{
+ "_about": "Henry David Hill (d. 1837), professor of Greek at St Andrews, raw IA OCR of Essays on the Institutions, Government, and Manners of the States of Ancient Greece (1819); not G. F. Hill, whose shelf is g-f-hill. Greek political antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Henry David Hill",
+ "_name_words": [
+  "hill"
+ ],
+ "_surname": [
+  "henry david hill",
+  "hill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-david-hill-essays-ancient-greece-1819": [
+   "essaysoninstitut00hilluoft",
+   "Essays on the Institutions, Government, and Manners of the States of Ancient Greece, by Henry David Hill (London: Baldwin, Cradock, and Joy, 1819)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-david-hill-essays-ancient-greece-1819": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry david hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
