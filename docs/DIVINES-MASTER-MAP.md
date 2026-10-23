@@ -44591,3 +44591,15 @@ Shelf: `pipeline/eleanor-m-ingram_shelf.json` (2026-10-22; added at the coordina
 | The Flying Mercury | have | PG 29166, `emingram-flying-mercury` (877 units) |
 | The Game and the Candle | have | PG 35740, `emingram-game-and-the-candle` (1753 units) |
 | A Man's Hearth | have | PG 36503, `emingram-mans-hearth` (1508 units) |
+
+## Catherine-Anne Austen Hubback
+
+Shelf: `pipeline/hubback_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Younger Sister: A Novel, Vol. I. | have | PG 54010, `hubback-younger-sister` (1039 units) |
+| The Younger Sister: A Novel, Vol. II. | have | PG 54011, `hubback-younger-sister-54011` (1351 units) |
+| The Younger Sister: A Novel, Vol. III. | have | PG 54012, `hubback-younger-sister-54012` (1674 units) |
+| The Younger Sister: A Novel, Volumes 1-3 | have | PG 54066, `hubback-younger-sister-54066` (4052 units) |
+| The old vicarage | have | PG 70732, `hubback-old-vicarage` (2687 units) |
