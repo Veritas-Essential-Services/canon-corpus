@@ -12531,3 +12531,16 @@ Slugs `nadams-*`. Built from title pages read for round 60.
 | Catharine (Boston: J. E. Tilton and Company. New York: Sheldon & Co. London; Knight & Son, 1859) | have-ocr | IA `catharine00adamrich` |
 | remarksonunitari00adam (the same 1832 printing; its title page is garbled in the OCR) swapped for this Google scan, whose title page reads 'By Nehemiah Adams, Pastor of the First Church of Christ in Cambridge' | alternate | not shelved |
 | Thomas Shepard's Autobiography (1832), which he only edited; the 1859 Discussion of future punishment (a debate with others); the Essex Street memorial volume (by the church) | excluded | |
+
+## Ebenezer Porter (round 60, my pick, 2026-10-23)
+
+Slugs `eporter-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The duty of Christians to pray for the missionary cause : a sermon preached in Boston, November 1, 1827, before the Society for Propagating the Gospel among the Indians and Others in North America (Andover [Mass.] : Printed by Flagg and Gould, 1827) | have-ocr | IA `dutyofchristians00port` |
+| Analysis of the principles of rhetorical delivery as applied in reading and speaking (Andover, Mass., M. Newman; New York, J. Leavitt; [etc., etc.], 1827) | have-ocr | IA `analysisofprinc00port` |
+| Great effects from little causes : a sermon delivered at the anniversary of a moral society ([New York : American Tract Society, 1830) | have-ocr | IA `greateffectsfrom00port` |
+| Lectures on homiletics and preaching and on public prayer ; together with sermons and letters (London : Thomas Ward, 185-) | have-ocr | IA `lectureshomileti00portuoft` |
+| Lectures on Eloquence and Style (Gould and Newman ; Griffin, Wilcox, 1836) | have-ocr | IA `lecturesoneloqu00portgoog` |
+| The Young Preacher's Manual (treatises by Fenelon, Claude and others, which he collected); The Rhetorical Reader and The Biblical Reader (school readers of extracts); Ebenezer Porter Mason the astronomer | excluded | |

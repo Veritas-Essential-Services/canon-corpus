@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Ebenezer Porter (1772-1834), Congregational minister and President of Andover Theological Seminary, for the Word Hoard: The Duty of Christians to Pray for the Missionary Cause (1827), Analysis of the Principles of Rhetorical Delivery (1827), Great Effects from Little Causes (1830), Lectures on Homiletics and Preaching, and on Public Prayer (1834; 1850 printing) and Lectures on Eloquence and Style (1836). from Internet Archive scans. Added 2026-10-23 by lane A, round 60 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "porter"
+ ],
+ "_surname": [
+  "ebenezer porter",
+  "e. porter",
+  "ebenezer porter, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eporter-pray-missionary-cause": [
+   "dutyofchristians00port",
+   "The duty of Christians to pray for the missionary cause : a sermon preached in Boston, November 1, 1827, before the Society for Propagating the Gospel among the Indians and Others in North America (Andover [Mass.] : Printed by Flagg and Gould, 1827)"
+  ],
+  "eporter-rhetorical-delivery": [
+   "analysisofprinc00port",
+   "Analysis of the principles of rhetorical delivery as applied in reading and speaking (Andover, Mass., M. Newman; New York, J. Leavitt; [etc., etc.], 1827)"
+  ],
+  "eporter-great-effects": [
+   "greateffectsfrom00port",
+   "Great effects from little causes : a sermon delivered at the anniversary of a moral society ([New York : American Tract Society, 1830)"
+  ],
+  "eporter-homiletics": [
+   "lectureshomileti00portuoft",
+   "Lectures on homiletics and preaching and on public prayer ; together with sermons and letters (London : Thomas Ward, 185-)"
+  ],
+  "eporter-eloquence-style": [
+   "lecturesoneloqu00portgoog",
+   "Lectures on Eloquence and Style (Gould and Newman ; Griffin, Wilcox, 1836)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eporter-other": "The Young Preacher's Manual (treatises by Fenelon, Claude and others, which he collected); The Rhetorical Reader and The Biblical Reader (school readers of extracts); Ebenezer Porter Mason the astronomer"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "eporter-pray-missionary-cause": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eporter-rhetorical-delivery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "eporter-great-effects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eporter-homiletics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "185-?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eporter-eloquence-style": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer porter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -7390,6 +7390,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:23:15-05:00",
       "notes": "Essex Street, Boston; two anonymous books on quoted identity; South-Side View of Slavery shelved, Adam may veto. 0 uids minted."
+    },
+    {
+      "id": "ebenezer-porter",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:16-05:00",
+      "notes": "Andover President; compiled readers and the Young Preacher's Manual left out. 0 uids minted."
     }
   ]
 }
