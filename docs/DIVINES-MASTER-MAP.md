@@ -16236,6 +16236,28 @@ Slugs `aked-*`. Built from title pages read for round 100.
 | The lord's prayer : its meaning and message for to-day (catalogued 1910) | have-ocr | IA `lordsprayeritsme0000char` |
 | The divine drama of Job (New York, Scribner's, 1913) | have-ocr | IA `divinedramaofjob0000aked` |
 | Japan's message to (San Francisco [Japan society of America], 1915) | have-ocr | IA `japansmessageto00aked` |
+
+## W. T. Herridge (round 100, my pick, 2026-10-23)
+
+Slugs `herridge-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity in its relation to the state and the church (Ottawa, A.S. Woodburn, 1889) | have-ocr | IA `christianityinit00herr` |
+| Anniversary sermon, 1889, preached in St. Andrew's Church Sunday evening, Dec. 1st (Ottawa : A. S. Woodburn, 1889) | have-ocr | IA `anniversarysermo00herr` |
+| A sermon preached in St. Andrew's Church on the occasion of the Queen' s diamond jubilee ([S.l. : s.n., 1897) | have-ocr | IA `cihm_06990` |
+| "England's greatness" : anniversary sermon delivered to the members of St. George's Society of Ottawa and the Sons of England, St. Andrew's Church, Ottawa, April 23rd, 1899 ([Ottawa : s.n., 1899) | have-ocr | IA `cihm_05558` |
+| A sermon preached in St. Andrew's Church, Ottawa, to "Strathcona's Horse" previous to their departure for service in South Africa, on Sunday, the 11th March, 1900 ([Ottawa? : s.n., 1900) | have-ocr | IA `cihm_05559` |
+| In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, January 27th, 1901, to commemorate the death of Her Most Gracious Majesty, Queen Victoria ([Ottawa?] : Kirk Session, 1901) | have-ocr | IA `cihm_74595` |
+| A sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 25th, 1902 ([Ottawa? : s.n.], 1902) | have-ocr | IA `cihm_74601` |
+| The Ontario Liquor Act : a sermon preached in St. Andrew's Church, Ottawa, on Sunday evening Nov. 23rd, 1902 ([Ottawa? : s.n.], 1902) | have-ocr | IA `cihm_74613` |
+| The orbit of life; studies in human experience (New York, F. H. Revell company, 1906) | have-ocr | IA `orbitlifestudie00herrgoog` |
+| The coign of vantage (New York F.H. Revell company, [c19) | have-ocr | IA `coignofvantage00herruoft` |
+| In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 15th, 1910, to commemorate the death of His Most Gracious Majesty, King Edward VII / by W.T. Herridge ([Ottawa?] : Men's Association, 1910) | have-ocr | IA `inmemoriamsermon00herr` |
+| The call of the war : recruiting sermon preached in St. Andrew's Church, Ottawa, Sunday evening, June 27, 1915 (Ottawa : [s.n.], 1915) | have-ocr | IA `callofwarrecrui00herr` |
+| French and English in Canada and across the sea : a sermon (Ottawa : Canadian Printing, 1917) | have-ocr | IA `frenchenglishinc00herr` |
+| Appel aux armes (French translation of The Call of the War) | excluded | |
+| Recollections of Father Dawson (by Henry Morgan, with part of a sermon) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
