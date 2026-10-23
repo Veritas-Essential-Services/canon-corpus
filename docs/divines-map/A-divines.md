@@ -10120,3 +10120,13 @@ Slugs `acampbell-*`. Built from title pages read for round 41.
 | [Some primitive doctrines reviv'd]. The doctrines of a middle state between death and the resurrection:  .... To which is added, an appendix ... By the honourable Archibald Campbell.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_some-primitive-doctrine_campbell-archibald_1721` |
 | Some primitive doctrines reviv'd: or the intermediate or middle state of departed souls (as to happiness or misery) before the day of judgment. Plainly prov'd from the Holy Scriptures ... To which is prefix'd the judgment of the Reverend Dr. George Hickes concerning this book, ...  1713 (catalogued 1713) [bim_eighteenth-century_some-primitive-doctrines_campbell-archibald_1713]: title page read from the page image names no author, and Hickes's prefixed Judgment says the writer 'hath chosen modestly to conceal his Name'; the 1721 enlarged edition, which names him, is shelved | pending | not shelved |
 | Works by Archibald Campbell (1691-1756), professor at St Andrews (Arete-logia, 1728; The Authenticity of the Gospel-History, 1759), a different man; Dr. Brett's Vindication (1715), Brett's | excluded | |
+
+## Peter Sterry (round 41, my pick, 2026-10-22)
+
+Slugs `sterry-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The rise, race and royalty of the kingdom of God in the soul of man : Opened in several sermons ... As also the loveliness & love of Christ set forth in several other sermons ... sermons upon Ps. 45.1.2 : with an account of saint's soul and body in death (London : Printed for Thomas Cockerill, 1683) | have-ocr | IA `riseraceroo00ster` |
+| The appearance of God to man in the gospel, and the gospel change : together with several other discourses from Scripture, to which is added an explication of the Trinity; and a short catechism (London : [s.n.], 1710) | have-ocr | IA `appgodt00ster` |
+| A Discourse of the Freedom of the Will (1675): no scan found | pending | not shelved |
