@@ -11949,6 +11949,7 @@ Shelf: `pipeline/herodas_shelf.json`. Hugo Sharpley's verse Mimes, A Realist of 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Realist of the Aegean: a verse-translation of the Mimes of Herodas (London, 1906) | Hugo Sharpley | `herodas-sharpley-1906` | have-raw (IA `cu31924026669642`) |
+| Herodas, the Mimes and Fragments, with notes by Walter Headlam, edited by A. D. Knox (Cambridge, 1922); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `herodas-headlam-knox-1922` | have-raw (IA `herodasmimesfrag00hero`) |
 
 Pending (wishlist): Headlam and Knox (1922; Greek facing)
 
