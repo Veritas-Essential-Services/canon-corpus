@@ -9693,6 +9693,15 @@ Slugs `bucer-*`. Built from title pages read for round 39.
 | The Mynd and Exposition of that excellente learned man Martyn Bucer, uppon these wordes of S. Mathew: Woo be to the worlde bycause of offences, Math. xviii, faythfully translated into Englishe by a faythfull brother (Emden, 1566) | have-ocr | IA `bim_early-english-books-1475-1640_the-mynd-and-exposition-_martin-bucer_1566` |
 | The Gratulation of Martin Bucer unto the Church of England (1549) and his other English pieces of 1549-1550: no scan found on Internet Archive | pending | not shelved |
 | Latin, German and French printings (De Regno Christi 1577, the Enarrationes, De Concilio 1545 and others); Arthur Roberts's analysis of his Censura on the Prayer Book (1853); Milton's Judgement of Martin Bucer concerning Divorce (Milton's own abridgment); Goldyng's 1562 treatise on the burning of Bucer and Fagius; Harvey's Martin Bucer in England (1906) and other books about him | excluded | |
+
+## Johannes Brenz (round 39, my pick, 2026-10-22)
+
+Slugs `brenz-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Verye Fruitful Exposicion upon the Syxte Chapter of Saynte John, divided into x Homelies or Sermons, written in Latin by Master John Brencius and translated into Englishe by Richarde Shirrye, Londoner (catalogued 1550) | have-ocr | IA `bim_early-english-books-1475-1640_a-verye-fruitful-exposic_j-brentius_1550` |
+| His Latin, German, Dutch and Danish printings; Pressel's Anecdota Brentiana (1868); the Wurttemberg Confession (German, 1848) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

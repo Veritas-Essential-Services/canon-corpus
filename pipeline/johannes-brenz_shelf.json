@@ -1,0 +1,49 @@
+{
+ "_about": "Public-domain Johannes Brenz (1499-1570), reformer of Schwabisch Hall and Wurttemberg, for the Word Hoard: A Verye Fruitful Exposicion upon the Syxte Chapter of Saynte John, in ten homilies, translated by Richard Shirrye (catalogued 1550), from an Internet Archive scan of Early English Books (black letter, rough OCR). Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brentius",
+  "brentz",
+  "brenz",
+  "brencius"
+ ],
+ "_surname": [
+  "brentius",
+  "brentz",
+  "brenz",
+  "brencius",
+  "brentious"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brenz-exposicion-john-vi-1550": [
+   "bim_early-english-books-1475-1640_a-verye-fruitful-exposic_j-brentius_1550",
+   "A Verye Fruitful Exposicion upon the Syxte Chapter of Saynte John, divided into x Homelies or Sermons, written in Latin by Master John Brencius and translated into Englishe by Richarde Shirrye, Londoner (catalogued 1550)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "brenz-other": "His Latin, German, Dutch and Danish printings; Pressel's Anecdota Brentiana (1868); the Wurttemberg Confession (German, 1848)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "brenz-exposicion-john-vi-1550": "title page read from the page image: 'written in Latin by the ryghte excellent clarke Master John Brencius, & translated into Englishe by Richarde Shirrye, Londoner' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "brenz-exposicion-john-vi-1550": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1550",
+   "ia_date": "1550",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
