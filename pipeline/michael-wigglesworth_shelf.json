@@ -1,0 +1,61 @@
+{
+ "_about": "Public-domain Michael Wigglesworth (1631-1705), minister of Malden, Massachusetts, and New England's Puritan poet, for the Word Hoard: The Day of Doom with other poems (1867 reprint of the 1715 edition) and Meat out of the Eater (1689), from Internet Archive scans. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wigglesworth"
+ ],
+ "_surname": [
+  "michael wigglesworth",
+  "m. wigglesworth",
+  "wigglesworth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wigglesworth-day-of-doom": [
+   "dayofdoom00wigg",
+   "The day of doom (New York, American news company, 1867)"
+  ],
+  "wigglesworth-meat-out-of-eater": [
+   "bim_early-english-books-1641-1700_meat-out-of-the-eater-_wigglesworth-michael_1689",
+   "Meat out of the eater, ...  1689 (catalogued 1689)"
+  ]
+ },
+ "_alternates": {
+  "wigglesworth-copies": "The 1666, 1673 and 1687 London printings of The Day of Doom (Early English Books), the 1711 Boston printing, other 1867 copies, and the Gutenberg text (PG 56053)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wigglesworth-meat-out-of-eater": {
+   "author": "title page read from the page image: 'Meat out of the Eater, or Meditations concerning the Necessity, End, and Usefulness of Afflictions unto God's Children ... By Michael Wigglesworth. The fourth edition. Boston: printed by R. P. for John Usher, 1689' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'Meat out of the Eater, or Meditations concerning the Necessity, End, and Usefulness of Afflictions unto God's Children ... By Michael Wigglesworth. The fourth edition. Boston: printed by R. P. for John Usher, 1689' (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wigglesworth-day-of-doom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael wigglesworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wigglesworth-meat-out-of-eater": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

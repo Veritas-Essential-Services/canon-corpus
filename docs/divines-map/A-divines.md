@@ -11333,3 +11333,13 @@ Slugs `bulkeley-*`. Built from title pages read for round 51.
 |---|---|---|
 | The gospel-covenant; or, The covenant of grace opened. : Wherein are explained; 1. The differences betwixt the covenant of grace and covenant of workes. 2. The different administration of the covenant before and since Christ. 3. The benefits and blessings of it. 4. The condition. 5. The properties of it (London : printed by Matthew Simmons, dwelling in Aldersgate-street next doore to the Golden Lyon, 1651) | have-ocr | IA `gospelcovenantor00bulk` |
 | gospelcovenantor0000bulk (another 1651 copy) | alternate | not shelved |
+
+## Michael Wigglesworth (round 51, my pick, 2026-10-23)
+
+Slugs `wigglesworth-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The day of doom (New York, American news company, 1867) | have-ocr | IA `dayofdoom00wigg` |
+| Meat out of the eater, ...  1689 (catalogued 1689) | have-ocr | IA `bim_early-english-books-1641-1700_meat-out-of-the-eater-_wigglesworth-michael_1689` |
+| The 1666, 1673 and 1687 London printings of The Day of Doom (Early English Books), the 1711 Boston printing, other 1867 copies, and the Gutenberg text (PG 56053) | alternate | not shelved |
