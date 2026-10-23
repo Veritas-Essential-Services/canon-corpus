@@ -1,5 +1,5 @@
 {
- "_about": "Sir William Mitchell Ramsay (1851-1939), Aberdeen classical archaeologist of Asia Minor (not the Glasgow William Ramsay of the ramsay shelf): The Historical Geography of Asia Minor (1890), The Cities and Bishoprics of Phrygia (vol. I in 2 parts, 1895-97), The Church in the Roman Empire before A.D. 170 (1893), St. Paul the Traveller and the Roman Citizen (1895), Was Christ Born at Bethlehem? (1898), Galatians (1900), The Education of Christ (1902), The Letters to the Seven Churches (1904), Pauline and Other Studies (1906), The Cities of St. Paul (1907), Luke the Physician (1908), The Thousand and One Churches (with Gertrude Bell, 1909), The Teaching of Paul (1913), The Bearing of Recent Discovery on the Trustworthiness of the New Testament (1915), The Intermixture of Races in Asia Minor (1916), and Asianic Elements in Greek Civilisation (1927). His books on modern Turkey are outside lane B. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_about": "Sir William Mitchell Ramsay (1851-1939), Aberdeen classical archaeologist of Asia Minor (not the Glasgow William Ramsay of the ramsay shelf): The Historical Geography of Asia Minor (1890), The Cities and Bishoprics of Phrygia (vol. I in 2 parts, 1895-97), The Church in the Roman Empire before A.D. 170 (1893), St. Paul the Traveller and the Roman Citizen (1895), Was Christ Born at Bethlehem? (1898), Galatians (1900), The Education of Christ (1902), The Letters to the Seven Churches (1904), Pauline and Other Studies (1906), The Cities of St. Paul (1907), Luke the Physician (1908), The Thousand and One Churches (with Gertrude Bell, 1909), The Teaching of Paul (1913), The Bearing of Recent Discovery on the Trustworthiness of the New Testament (1915), The Intermixture of Races in Asia Minor (1916), and Asianic Elements in Greek Civilisation (1927). His books on modern Turkey are outside lane B. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted. Round dy (2026-10-23), raw IA: The First Christian Century (1911) and the 1913 Romanes Lecture The Imperial Peace. Not taken: The Making of a University (1915, on modern education). Also Pictures of the Apostolic Church (1910).",
  "_author": "Sir William Mitchell Ramsay (1851-1939)",
  "_name_words": [
   "ramsay",
@@ -88,6 +88,18 @@
   "ramsay-asianic-elements-1927": [
    "asianicelementsi00rams",
    "Asianic Elements in Greek Civilisation: the Gifford Lectures, 1915-16 (1927)"
+  ],
+  "ramsay-first-christian-century-1911": [
+   "firstchristiance00ramsuoft",
+   "The First Christian Century: Notes on Dr. Moffatt's Introduction to the Literature of the New Testament (London: Hodder and Stoughton, 1911)"
+  ],
+  "ramsay-imperial-peace-1913": [
+   "imperialpeaceide00ramsrich",
+   "The Imperial Peace: an Ideal in European History, the Romanes Lecture delivered 8 May 1913 (Oxford: at the Clarendon Press, 1913)"
+  ],
+  "ramsay-pictures-apostolic-church-1910": [
+   "picturesoftheapo00ramsuoft",
+   "Pictures of the Apostolic Church: its Life and Teaching (London: Hodder and Stoughton, 1910)"
   ]
  },
  "_excluded": {
@@ -280,6 +292,39 @@
    "ia_rights": "ok: published 1927",
    "ia_date": "1927",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ramsay-first-christian-century-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. ramsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ramsay-imperial-peace-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. ramsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ramsay-pictures-apostolic-church-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. m. ramsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
