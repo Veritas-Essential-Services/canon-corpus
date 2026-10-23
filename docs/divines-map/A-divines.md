@@ -13818,3 +13818,48 @@ Slugs `deems-*`. Built from title pages read for round 76.
 | Who Was Jesus? (1880) and The Light of the Nations (1884) are later retitled editions of Jesus (1868) | excluded | |
 | periodicals and annuals he edited (Southern Methodist Pulpit, Annals of Southern Methodism, Christian Thought) and compilations (Hymns for All Christians, Chips and Chunks) | excluded | |
 | pamphlets of under 60 pages; early verse (Triumph of Peace, 1840) | excluded | |
+
+## David James Burrell (round 76, my pick, 2026-10-23)
+
+Slugs `burrell-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The religions of the world (Philadelphia, Presbyterian board of publication and Sabbath-school work, [188) | have-ocr | IA `religionsofworld00burr` |
+| The gospel of gladness (New York, American Tract Society, 1892) | have-ocr | IA `gospelofgladness00burr` |
+| "The morning cometh." Talks for the times (New York, American tract society, 1893) | have-ocr | IA `themorningcometh00burr` |
+| The religion of the future [and other sermons] (New York, Collgiate Church, 1894) | have-ocr | IA `religionoffuture00burr` |
+| The spirit of the age, and other sermons (New York, Wilbur B. Ketcham, 1895) | have-ocr | IA `spiritofageother00burr` |
+| "For Christ's crown," and other sermons (New York, W. B. Ketcham, 1896) | have-ocr | IA `forchristscrowno00burr` |
+| The golden passional, and other sermons (New York, W. B. Ketcham, 1897) | have-ocr | IA `goldenpassionalo00burr` |
+| The wondrous cross, and other sermons (New York, W. B. Ketcham, 1898) | have-ocr | IA `wondrouscrossoth00burr` |
+| God and the people, and other sermons (New York, W.B. Ketcham, 1899) | have-ocr | IA `godpeopleotherse00burr` |
+| The gospel of certainty (London : Hodder and Stoughton, 1899) | have-ocr | IA `gospelofcertaint0000burr` |
+| The unaccountable man (New York, Chicago, Fleming H. Revell, 1900) | have-ocr | IA `unaccountableman00burr` |
+| The church in the fort; and other sermons (New York : Revell, 1901) | have-ocr | IA `churchinfortothe00burr` |
+| A quiver of arrows (New York and London, Funk & Wagnalls company, 1902) | have-ocr | IA `quiverofarrows00burr` |
+| The wonderful Teacher and what He taught (New York, Fleming H. Revell, 1902) | have-ocr | IA `wonderfulteacher00burr` |
+| Christ and progress; a discussion of problems of our time (New York, Chicago, Fleming H. Revell company, 1903) | have-ocr | IA `christprogressdi00burr` |
+| The verilies of Jesus (New York : American Tract Society, 1903) | have-ocr | IA `veriliesofjesus00burr` |
+| The teaching of Jesus concerning the Scriptures (New York, American tract society, 1904) | have-ocr | IA `teachingofjesusc00bur` |
+| Christ and men (New York, Chicago, Fleming H. Revell company, 1905) | have-ocr | IA `christmen00burr` |
+| The evolution of a Christian (Boston : American Tract society, 1906) | have-ocr | IA `evolutionofchris00burr` |
+| Wayfarers of the Bible, vol. c.1 (New York, Chicago, Fleming H. Revell, 1907) | have-ocr | IA `wayfarersofbible01burr` |
+| The cloister book : for shut-in worshipers and pastorless congregations (New York : American Tract Society, 1909) | have-ocr | IA `cloisterbook00burr` |
+| In David's town (New York : American Tract Society, 1910) | have-ocr | IA `indavidstown00burr` |
+| The home sanctuary: a companion volumne to the cloister book; completing a year of services for shut-in worshipers and pastorless congregations (New York: American Tract Society, 1911) | have-ocr | IA `homesanctuarycom00burr` |
+| At the gate beautiful : the story of a day (New York : American tract society, 1911) | have-ocr | IA `atgatebeautifu00burr` |
+| The old-time religion : or the foundations of our faith (New York : American Tract Society, c191) | have-ocr | IA `oldtimereligiono00burr` |
+| The sermon : its construction and delivery (New York : Fleming H. Revell, 1913) | have-ocr | IA `sermonitsconstru00burr` |
+| In the upper room : a practical exposition of John XIII-XVII (with related passages) (New York : C. Scribner's Sons, 1913) | have-ocr | IA `inupperroompract00burr` |
+| "We would see Jesus" (New York : American Tract Society, 1914) | have-ocr | IA `wewouldseejesus00burr` |
+| The Apostles' creed (New York, American Tract Society, 1915) | have-ocr | IA `apostlescreed00burr` |
+| Why I believe the Bible (New York : F.H. Revell, 1917) | have-ocr | IA `whyibelievebible00burr` |
+| The laughter of God and other sermons (expository) (New York : Fleming H. Revell, 1918) | have-ocr | IA `laughterofgodoth00burr` |
+| Paul's campaigns (New York, American tract society, 1918) | have-ocr | IA `paulscampaigns00burr` |
+| The Resurrection and The Life Beyond (catalogued 1920) | have-ocr | IA `resurrectionlife0000davi` |
+| Paul's companions (New York : American Tract Society, 1921) | have-ocr | IA `paulscompanions00burr` |
+| Paul's letters (New York, American tract society, 1921) | have-ocr | IA `paulsletters00burr` |
+| Life and letters of St. Paul (New York : American tract society, 1925) | have-ocr | IA `lifelettersofstp00burr` |
+| The golden parable (New York ; Chicago [etc.] : Fleming H. Revell company, 1926) | have-ocr | IA `goldenparable00burr_0` |
+| pamphlets of under 60 pages; Hints and Helps on the Sunday-school Lessons (1894), an annual written with others | excluded | |
