@@ -42452,3 +42452,17 @@ Shelf: `pipeline/lewis-wingfield_shelf.json` (2026-10-22; added at the coordinat
 | My Lords of Strogue, Vol. 3 (of 3) A Chronicle of Ireland, from the Convention to the Union | have | PG 38863, `lwingfield-my-lords-of-strogue-vol-3-of-3-a-chronicle-of-ire` (677 units) |
 | The Maid of Honour: A Tale of the Dark Days of France. Vol. 1 (of 3) | have | PG 38865, `lwingfield-maid-of-honour-38865` (523 units) |
 | The Maid of Honour: A Tale of the Dark Days of France. Vol. 2 (of 3) | have | PG 38875, `lwingfield-maid-of-honour-38875` (485 units) |
+
+## Katharine Tynan
+
+Shelf: `pipeline/katharine-tynan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of Bawn | have | PG 17784, `ktynan-story-of-bawn` (1376 units) |
+| Mary Gray | have | PG 20201, `ktynan-mary-gray` (1527 units) |
+| Love of Brothers | have | PG 27445, `ktynan-love-of-brothers` (1750 units) |
+| An Isle in the Water | have | PG 31391, `ktynan-isle-in-the-water` (360 units) |
+| The Great Captain: A Story of the Days of Sir Walter Raleigh | have | PG 35896, `ktynan-great-captain` (262 units) |
+| Peeps at Many Lands: Ireland | have | PG 43623, `ktynan-peeps-at-many-lands` (180 units) |
+| The handsome Brandons | have | PG 77100, `ktynan-handsome-brandons` (2520 units) |

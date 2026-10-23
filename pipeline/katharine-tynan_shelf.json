@@ -1,0 +1,109 @@
+{
+ "_about": "Katharine Tynan: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Katharine Tynan",
+ "_name_words": [
+  "tynan"
+ ],
+ "_surname": [
+  "tynan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ktynan-story-of-bawn": [
+   17784,
+   "The Story of Bawn"
+  ],
+  "ktynan-mary-gray": [
+   20201,
+   "Mary Gray"
+  ],
+  "ktynan-love-of-brothers": [
+   27445,
+   "Love of Brothers"
+  ],
+  "ktynan-isle-in-the-water": [
+   31391,
+   "An Isle in the Water"
+  ],
+  "ktynan-great-captain": [
+   35896,
+   "The Great Captain: A Story of the Days of Sir Walter Raleigh"
+  ],
+  "ktynan-peeps-at-many-lands": [
+   43623,
+   "Peeps at Many Lands: Ireland"
+  ],
+  "ktynan-handsome-brandons": [
+   77100,
+   "The handsome Brandons"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ktynan-story-of-bawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-mary-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-love-of-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-isle-in-the-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-great-captain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-peeps-at-many-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktynan-handsome-brandons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tynan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
