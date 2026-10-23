@@ -41323,3 +41323,19 @@ Shelf: `pipeline/henry-lawson_shelf.json` (2026-10-22; added at the coordinator'
 | The Rising of the Court | have | PG 7447, `hlawson-rising-of-the-court` (631 units) |
 | Verses popular and humorous | have | PG 52066, `hlawson-verses-popular-and-humorous` (918 units) |
 | pg-57706 | excluded | PG 57706: Gutenberg's index of the author's works, not a book. |
+
+## Elijah Kellogg
+
+Shelf: `pipeline/elijah-kellogg_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Boys' books. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Arthur Brown, The Young Captain | have | PG 48904, `ekellogg-arthur-brown-the-young-captain` (1592 units) |
+| The Young Deliverers of Pleasant Cove | have | PG 49745, `ekellogg-young-deliverers-of-pleasant-cove` (1522 units) |
+| The Young Ship-Builders of Elm Island | have | PG 50475, `ekellogg-young-ship-builders-of-elm-island` (1374 units) |
+| Lion Ben of Elm Island | have | PG 50993, `ekellogg-lion-ben-of-elm-island` (1121 units) |
+| Charlie Bell, The Waif of Elm Island | have | PG 51141, `ekellogg-charlie-bell-the-waif-of-elm-island` (1766 units) |
+| The Unseen Hand; or, James Renfew and His Boy Helpers | have | PG 53738, `ekellogg-unseen-hand` (2004 units) |
+| The Hard-Scrabble of Elm Island | have | PG 54767, `ekellogg-hard-scrabble-of-elm-island` (1577 units) |
+| The Turning of the Tide; Or, Radcliffe Rich and His Patients | have | PG 54772, `ekellogg-turning-of-the-tide` (1318 units) |
+| Forest Glen; or, The Mohawk's Friendship | have | PG 63160, `ekellogg-forest-glen` (1384 units) |
