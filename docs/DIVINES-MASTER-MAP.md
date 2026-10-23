@@ -43605,3 +43605,16 @@ Shelf: `pipeline/halliwell-sutcliffe_shelf.json` (2026-10-22; added at the coord
 | A Man of the Moors | have | PG 63476, `hsutcliffe-man-of-the-moors` (2513 units) |
 | Priscilla of the Good Intent: A Romance of the Grey Fells | have | PG 66737, `hsutcliffe-priscilla-of-the-good-intent` (2551 units) |
 | Storm | have | PG 69613, `hsutcliffe-storm` (2671 units) |
+
+## Cynthia Stockley
+
+Shelf: `pipeline/cynthia-stockley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Blue Aloes: Stories of South Africa | have | PG 22568, `cstockley-blue-aloes` (1885 units) |
+| Poppy: The Story of a South African Girl | have | PG 36138, `cstockley-poppy` (3038 units) |
+| The Claw | have | PG 37257, `cstockley-claw` (1972 units) |
+| Pink Gods and Blue Demons | have | PG 37258, `cstockley-pink-gods-and-blue-demons` (548 units) |
+| Wild Honey: Stories of South Africa | have | PG 37259, `cstockley-wild-honey` (1499 units) |
+| Wanderfoot (The Dream Ship) | have | PG 40059, `cstockley-wanderfoot-the-dream-ship` (1768 units) |

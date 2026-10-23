@@ -2492,3 +2492,6 @@
 
 ## 2026-10-22 23:13 CDT — halliwell-sutcliffe: done
 - halliwell-sutcliffe: new shelf, 6 Gutenberg books, 16,108 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:13 CDT — cynthia-stockley: done
+- cynthia-stockley: new shelf, 6 Gutenberg books, 10,710 units, 974 ~2 ids; verify 0 mismatches, 0 rights flags.
