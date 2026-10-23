@@ -1,0 +1,38 @@
+{
+ "_about": "Menander in English. Here: F. G. Allinson's Loeb, The Principal Fragments (1921); Greek facing, kept per Adam's 2026-10-23 ruling.",
+ "_author": "Menander (c.342-c.290 BC)",
+ "_name_words": [
+  "menander",
+  "fragments"
+ ],
+ "_surname": [
+  "menander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "menander-allinson-1921": [
+   "menanderprincipa00menauoft",
+   "Menander, the Principal Fragments, tr. Francis G. Allinson (Loeb, 1921); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "menander-allinson-1921": "Allinson"
+ },
+ "_checks": {
+  "menander-allinson-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "menander",
+   "translator_claimed": "Allinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

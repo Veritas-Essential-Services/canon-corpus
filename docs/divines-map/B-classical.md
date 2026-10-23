@@ -11056,3 +11056,12 @@ Shelf: `pipeline/josephus_shelf.json`. Josephus, tr. H. St. J. Thackeray, Loeb v
 
 Excluded: Thackeray, Loeb vols. IV-IX (1930-65) (first printed 1930 or later; not public domain in the US)
 
+
+## Menander (c.342-c.290 BC)
+
+Shelf: `pipeline/menander_shelf.json`. Menander, the Principal Fragments, tr. Francis G. Allinson (Loeb, 1921) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Menander, the Principal Fragments, tr. Francis G. Allinson (Loeb, 1921); Greek facing, kept per Adam's 2026-10-23 ruling |  | `menander-allinson-1921` | have-raw (IA `menanderprincipa00menauoft`) |
+
