@@ -1,5 +1,5 @@
 {
- "_about": "Basil L. Gildersleeve (1831-1924), Johns Hopkins Hellenist: essays, lectures and his Syntax of Classical Greek (with C. W. E. Miller, part I, 1900). His school Latin grammar and readers, and The Creed of the Old South, are not taken. Also raw IA: Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (American Book Company; copyright 1885, a later printing), Greek text with English commentary, kept per Adam's 2026-10-23 ruling.",
+ "_about": "Basil L. Gildersleeve (1831-1924), Johns Hopkins Hellenist: essays, lectures and his Syntax of Classical Greek (with C. W. E. Miller, part I, 1900). His school Latin grammar and readers, and The Creed of the Old South, are not taken. Also raw IA: Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (American Book Company; copyright 1885, a later printing), Greek text with English commentary, kept per Adam's 2026-10-23 ruling. Round eb adds the Gildersleeve-Lodge Latin Grammar, third edition (1894, printing of 1903); a St Martin's Press reprint scan was refused.",
  "_author": "Basil Lanneau Gildersleeve (1831-1924)",
  "_name_words": [
   "gildersleeve",
@@ -31,6 +31,10 @@
   "gildersleeve-pindar-olympian-pythian-1885": [
    "cu31924074825963",
    "Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (New York, Cincinnati, Chicago: American Book Company; copyright 1885, this copy a later printing, 1890 per IA); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "gildersleeve-lodge-latin-grammar-1903": [
+   "gildersleevesla01lodggoog",
+   "Gildersleeve's Latin Grammar, third edition, revised and enlarged, by B. L. Gildersleeve and Gonzalez Lodge (New York, Boston, New Orleans and London: University Publishing Company, 1903; copyright 1894)"
   ]
  },
  "_excluded": {},
@@ -77,6 +81,17 @@
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gildersleeve-lodge-latin-grammar-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gildersleeve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
