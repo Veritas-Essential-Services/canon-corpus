@@ -42648,3 +42648,17 @@ Shelf: `pipeline/louise-jordan-miln_shelf.json` (2026-10-22; added at the coordi
 | Mr. and Mrs. Sên | have | PG 59200, `ljmiln-mr-and-mrs-s-n` (2142 units) |
 | Mr. Wu Based on the Play "Mr. Wu" by H. M. Vernon and Harold Owen | have | PG 66877, `ljmiln-mr-wu-based-on-the-play-mr-wu-by-h-m-vernon-and-harol` (1763 units) |
 | Ruben and Ivy Sên | have | PG 77722, `ljmiln-ruben-and-ivy-s-n` (2725 units) |
+
+## Leonard Merrick
+
+Shelf: `pipeline/leonard-merrick_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Chair on the Boulevard | have | PG 9928, `lmerrick-chair-on-the-boulevard` (2238 units) |
+| The Quaint Companions With an Introduction by H. G. Wells | have | PG 43616, `lmerrick-quaint-companions-with-an-introduction-by-h-g-wells` (1236 units) |
+| To Tell You the Truth | have | PG 43742, `lmerrick-to-tell-you-the-truth` (1487 units) |
+| The Man Who Was Good | have | PG 43837, `lmerrick-man-who-was-good` (1721 units) |
+| One Man's View | have | PG 43971, `lmerrick-one-mans-view` (928 units) |
+| Cynthia With an Introduction by Maurice Hewlett | have | PG 44465, `lmerrick-cynthia-with-an-introduction-by-maurice-hewlett` (1593 units) |
+| Conrad in Quest of His Youth: An Extravagance of Temperament | have | PG 56226, `lmerrick-conrad-in-quest-of-his-youth` (1494 units) |

@@ -5509,6 +5509,14 @@
       "started": "2026-10-22T23:06:25-05:00",
       "finished": "2026-10-22T23:06:25-05:00",
       "notes": "louise-jordan-miln: new shelf, 7 Gutenberg books, 12,721 units, 197 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "leonard-merrick",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Leonard Merrick; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:26-05:00",
+      "finished": "2026-10-22T23:06:26-05:00",
+      "notes": "leonard-merrick: new shelf, 7 Gutenberg books, 10,697 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
