@@ -42522,3 +42522,17 @@ Shelf: `pipeline/john-reed-scott_shelf.json` (2026-10-22; added at the coordinat
 | The Princess Dehra | have | PG 40034, `jrscott-princess-dehra` (2693 units) |
 | The Impostor: A Tale of Old Annapolis | have | PG 59975, `jrscott-impostor` (2810 units) |
 | The Unforgiving Offender | have | PG 62036, `jrscott-unforgiving-offender` (3743 units) |
+
+## Marah Ellis Ryan
+
+Shelf: `pipeline/marah-ellis-ryan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| That Girl Montana | have | PG 27475, `meryan-that-girl-montana` (2459 units) |
+| The Bondwoman | have | PG 29581, `meryan-bondwoman` (2971 units) |
+| The Treasure Trail: A Romance of the Land of Gold and Sunshine | have | PG 29694, `meryan-treasure-trail` (2587 units) |
+| The Flute of the Gods | have | PG 30125, `meryan-flute-of-the-gods` (1922 units) |
+| Told in the Hills: A Novel | have | PG 36246, `meryan-told-in-the-hills` (2402 units) |
+| For the Soul of Rafael | have | PG 39995, `meryan-for-the-soul-of-rafael` (1997 units) |
+| The Druid Path | have | PG 77880, `meryan-druid-path` (2505 units) |
