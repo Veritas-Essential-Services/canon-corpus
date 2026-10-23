@@ -7588,6 +7588,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:51:04-05:00",
       "notes": "Unitarian, Boston and San Francisco. 0 uids minted."
+    },
+    {
+      "id": "john-cumming",
+      "status": "done",
+      "scope": "round 65",
+      "added": "2026-10-23T03:00:51-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:00:51-05:00",
+      "notes": "Crown Court, London; prophecy and anti-Roman lectures; Cumming garbled in OCR, 17 title pages quoted. 0 uids minted."
     }
   ]
 }

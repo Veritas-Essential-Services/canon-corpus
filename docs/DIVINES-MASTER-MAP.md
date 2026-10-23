@@ -12928,6 +12928,43 @@ Slugs `starrking-*`. Built from title pages read for round 64.
 | Christianity and humanity (Boston, J.R. Osgood and company, 1877) | have-ocr | IA `christianityhuma00king` |
 | Substance and show : and other lectures (Boston : Houghton, Osgood and company, 1879) | have-ocr | IA `substanceshowoth00kingrich` |
 | The New Discussion of the Trinity (1860, by several hands); Christian pamphlet volumes | excluded | |
+
+## John Cumming (round 65, my pick, 2026-10-23)
+
+Slugs `jcumming-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Is Christianity from God? ([n.p.], 1849) | have-ocr | IA `ischristianityfr00cumm` |
+| Tractarianism and popery : being a course of lectures delivered at Surrey chapel (London : D. Stroud, 1843) | have-ocr | IA `tractarianismpop00cummuoft` |
+| Apocalyptic sketches; lectures on the book of Revelation. 1st ser (Philadelphia Lindsay and Blakiston, 1854) | have-ocr | IA `apocalypticsketc00cummuoft` |
+| Voices of the night (London, New York, Virtue, Hall, and Virtue, 1850) | have-ocr | IA `voicesofnigh00cumm` |
+| God in history; or, Facts illustrative of the presence and providence of God in the affairs of men (New York, Lane & Scott for the Sunday-school union of the Methodist Episcopal church, 1852) | have-ocr | IA `godinhistoryorfa00cummrich` |
+| Lectures for the times, or, An exposition of tridentine and tractarian popery (London : A. Hall & Co, 1851) | have-ocr | IA `lecturesfortheti00cummuoft` |
+| Lectures on the seven churches of Asia Minor, vol. 3 (London : A. Hall, Virtue, 1852) | have-ocr | IA `lecturesonsevenc03cumm` |
+| The church before the flood (catalogued 1853) | have-ocr | IA `churchbeforefloo00cumm` |
+| Foreshadows : or, Lectures on Our Lord's miracles, as earnests of the age to come, vol. 1 (London : A. Hall, Virtue, 1853) | have-ocr | IA `foreshadowsorlec01cumm` |
+| Lectures on Romanism, being illustrations and refutations of the errors of Romanism and Tractarianism (Boston : J. P. Jewett and company; Cleveland, O. : Jewett, Proctor, and Worthington, 1854) | have-ocr | IA `lecturesonromani00cumm` |
+| Christ receiving sinnners (Philadelphia, Lindsay and Blakiston, 1854) | have-ocr | IA `christreceivings00cumm` |
+| The great sacrifice; or, The Gospel according to Leviticus (Philadelphia : Lindsay and Blakiston, 1854) | have-ocr | IA `thegreatsacrific00cummuoft` |
+| The comforter : or, Thoughts on the influence of the Holy Spirit (Philadelphia : Lindsay and Blakistin, 1854) | have-ocr | IA `comforterorthoug00cumm` |
+| Benedictions : or, The blessed life (Boston : John P. Jewett, 1854) | have-ocr | IA `benedictionsorblcj00cumm` |
+| The tent and the altar; or Sketches from patriarchal life (Boston : John P. Jewett, 1854) | have-ocr | IA `tentandthealtar00cummuoft` |
+| Signs of the times : or, Present, past, and future (Philadelphia : Lindsay and Blakiston, 1855) | have-ocr | IA `signsoftimesorpr00cummrich` |
+| The end; or, The proximate signs of the close of this dispensation (Boston : J.P. Jewett and company; Cleveland, O. : Jewett, Proctor and Worthington [etc., etc.], 1855) | have-ocr | IA `endorproximatesi00cumm` |
+| Urgent questions; twelve urgent questions, personal, practical, and pointed (Philadelphia, Lindsday & Blakiston, 1855) | have-ocr | IA `urgentquestionst00cummrich` |
+| Infant salvation (Philadelphia, Lindsay and Blakiston, 1855) | have-ocr | IA `infantsalvation00cumm` |
+| The last of the patriarchs : or, Lessons chiefly from the life of Joseph (Philadelphia : Lindsay and Blakiston, 1856) | have-ocr | IA `lastofpatriarchs00cummrich` |
+| Sabbath morning readings on the Old Testament : Book of Genesis (Boston : J.P. Jewett, 1854) | have-ocr | IA `sabbathmorningre00cumm` |
+| Sabbath morning readings on the Old Testament, Book of Exodus (Boston : J. P. Jewett, 1854) | have-ocr | IA `sabbathmorningexodus00cumm` |
+| Sabbath morning readings on the Old Testament, Book of Leviticus (Boston : J. P. Jewett, 1855) | have-ocr | IA `sabbathmorninglevi00cumm` |
+| Sabbath evening readings on the New Testament ... St. Matthew (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbathevening00cumm` |
+| Sabbath evening readings on the New Testament ... : St. Mark (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbatheven00cumm` |
+| Sabbath evening readings on the New Testament ... : St. Luke (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbatheveningjo00cumm` |
+| Moses right and Bishop Colenso wrong : being popular lectures on the Pentateuch (London : J.F. Shaw, 1827) | have-ocr | IA `mosesrightbishop00cumm` |
+| propheticstudies00cumm: Prophetic Studies, lectures on the Book of Daniel (Lindsay & Blakiston, 1854); the title-page author line is not legible in the OCR (only the publisher's advertisement names Cumming); to be read from the page image | pending | not shelved |
+| His editions of Knox's Liturgy and of the Psalter of the Blessed Virgin; The Hammersmith Protestant Discussion (a debate with Daniel French, both sides); other John Cummings | excluded | |
+| foreshadowslectu00cumm: catalogued as Foreshadows on the parables, but the scan is the miracles volume, already shelved as jcumming-foreshadows-miracles; the parables volume is not yet found | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
