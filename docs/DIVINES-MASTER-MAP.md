@@ -15487,6 +15487,19 @@ Slugs `coe-*`. Built from title pages read for round 93.
 | The motives of men (New York : Scribner's, 1929) | have-ocr | IA `motivesofmen00coeg` |
 | What is Christian education? (New York ; London : C. Scribner's sons, 1929) | have-ocr | IA `whatischristiane00coeg` |
 | his fraternity history, the memoir of his wife, a school-law book and a Sunday-school curriculum outline; everything printed from 1930 on | excluded | |
+
+## Edward Wix (round 93, my pick, 2026-10-23)
+
+Slugs `wix-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon (St. John's [Nfld.] : Printed by J. Ryan, King's printer, 1831) | have-ocr | IA `cihm_63251` |
+| Divine visitations : a sermon ([St. John's, Nfld. : s.n.], 1832) | have-ocr | IA `cihm_35256` |
+| The guilt of a denial of God's providence : a sermon on Zephaniah I, 12 (St. John's [Nfld.] : J. Ryer, King's Printer, 1832) | have-ocr | IA `cihm_63252` |
+| A retrospect of the operations of the Society for the Propagation of the Gospel in North America : a sermon preached Sunday, March 31, MDCCCXXXIII, at St. John's Church, Newfoundland ([St. John's, Nfld.? : s.n.], 1833) | have-ocr | IA `cihm_55715` |
+| Six months of a Newfoundland missionary's jounal (London, Smith, Elder and co., 1836) | have-ocr | IA `sixmonthsofnewfo00wixe` |
+| a Sunday-school examination address (1832) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
