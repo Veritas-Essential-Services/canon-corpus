@@ -18451,3 +18451,15 @@ Shelf: `pipeline/george-w-m-reynolds_shelf.json` (2026-10-22; added at the coord
 | The Mysteries of London, v. 2/4 | have | PG 51294, `gwmreynolds-mysteries-of-london-v-2-4` (10154 units) |
 | The Mysteries of London, v. 4/4 | have | PG 51649, `gwmreynolds-mysteries-of-london-v-4-4` (6751 units) |
 | The Mysteries of London, v. 3/4 | have | PG 52056, `gwmreynolds-mysteries-of-london-v-3-4` (7632 units) |
+
+## Baillie Reynolds
+
+Shelf: `pipeline/baillie-reynolds_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Daughter Pays | have | PG 35591, `breynolds-daughter-pays` (2529 units) |
+| The Tree of Knowledge: A Novel | have | PG 39366, `breynolds-tree-of-knowledge` (3887 units) |
+| The Lonely Stronghold | have | PG 42625, `breynolds-lonely-stronghold` (2724 units) |
+| The man who won | have | PG 72820, `breynolds-man-who-won` (2557 units) |
+| The girl from nowhere | have | PG 72969, `breynolds-girl-from-nowhere` (1962 units) |

@@ -1,0 +1,85 @@
+{
+ "_about": "Baillie Reynolds: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Baillie Reynolds",
+ "_name_words": [
+  "baillie",
+  "reynolds"
+ ],
+ "_surname": [
+  "baillie reynolds",
+  "reynolds"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "breynolds-daughter-pays": [
+   35591,
+   "The Daughter Pays"
+  ],
+  "breynolds-tree-of-knowledge": [
+   39366,
+   "The Tree of Knowledge: A Novel"
+  ],
+  "breynolds-lonely-stronghold": [
+   42625,
+   "The Lonely Stronghold"
+  ],
+  "breynolds-man-who-won": [
+   72820,
+   "The man who won"
+  ],
+  "breynolds-girl-from-nowhere": [
+   72969,
+   "The girl from nowhere"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "breynolds-daughter-pays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baillie reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "breynolds-tree-of-knowledge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baillie reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "breynolds-lonely-stronghold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baillie reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "breynolds-man-who-won": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baillie reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "breynolds-girl-from-nowhere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baillie reynolds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
