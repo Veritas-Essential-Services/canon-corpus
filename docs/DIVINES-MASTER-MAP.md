@@ -19487,6 +19487,16 @@ Shelf: `pipeline/w-r-lethaby_shelf.json`. Greek Buildings in the British Museum 
 |---|---|---|---|
 | Greek Buildings Represented by Fragments in the British Museum (1908) |  | `lethaby-greek-buildings-1908` | have-raw (IA `cu31924008732806`) |
 
+
+## Walther Amelung and Heinrich Holtzinger
+
+Shelf: `pipeline/walther-amelung_shelf.json`. The Museums and Ruins of Rome, 2 vols. (1906). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Museums and Ruins of Rome, vol. I: The Museums (1906; this printing 1912) |  | `amelung-museums-ruins-rome-vol-1` | have-raw (IA `museumsruinsofro01amel_0`) |
+| The Museums and Ruins of Rome, vol. II: The Ruins (1906; this printing 1912) |  | `amelung-museums-ruins-rome-vol-2` | have-raw (IA `museumsruinsofro02amel_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
