@@ -15798,6 +15798,27 @@ Slugs `morse-*`. Built from title pages read for round 96.
 | reviewofamerican00mors: Review of American Unitarianism, an anonymous Panoplist review; attribution is the catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | American Geography, Universal Geography, Gazetteers, Geography Made Easy: not theology | excluded | |
 | compendioushisto00morsuoft: Compendious History of New England, written with Elijah Parish | excluded | |
+
+## Abiel Abbot Livermore (round 96, my pick, 2026-10-23)
+
+Slugs `livermore-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The Four Gospels: With a Commentary (J. Monroe, 1841) | have-ocr | IA `fourgospelswith01livegoog` |
+| The four Gospels: with a commentary, Volume 2 (James Munroe and Co., 1842, 1842) | have-ocr | IA `fourgospelswith04livegoog` |
+| The Acts of the Apostles : with a commentary (Boston : J. Munroe, 1844) | have-ocr | IA `actsofapostleswi00live` |
+| Lectures to young men on their moral dangers and duties (Boston, J. Munroe and company, 1847) | have-ocr | IA `lecturestoyoungm00live` |
+| The faith once delivered to the saints : a discourse delivered at the dedication of the Unitarian meeting-house in Windsor, Vt., Wednesday, December 9, 1846 (Boston : W. Crosby and H.P. Nichols, 1847) | have-ocr | IA `faithoncedeliver00live` |
+| The ancient and honorable man. A discourse preached on the occasion of the death of Hon. John Quincy Adams, to the Unitarian church and congregation, Keene, N.H., on Sabbath afternoon, March 5, 1848 (Keene, Printed by J.W. Prentiss & co., 1848) | have-ocr | IA `ancienthonorable00live` |
+| The war with Mexico reviewed (Boston, American Peace Society, 1850) | have-ocr | IA `warwithmexico00liverich` |
+| Discourses (Boston : Crosby, Nichols, 1854) | have-ocr | IA `discourses00liverich` |
+| The Epistle of Paul to the Romans : with a commentary and rev. translation and introductory essays (Boston : Crosby, Nichols, 1854) | have-ocr | IA `epistleofpaultor00live` |
+| The Epistle to the Hebrews: The Epistles of James, Peter, John and Jude, and (Lockwood, Brooks, 1881) | have-ocr | IA `epistletohebrew00livegoog` |
+| Anti-tobacco (Boston : Roberts brothers, 1883) | have-ocr | IA `antitobacco00live` |
+| The Marriage Offering (a compilation) | excluded | |
+| History of Wilton (written with Sewall Putnam; local history) | excluded | |
+| Charles Henry Brigham memoir (by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
