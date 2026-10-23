@@ -16011,3 +16011,19 @@ Shelf: `pipeline/everett-t-tomlinson_shelf.json` (2026-10-22; added at the coord
 | Camping on the St. Lawrence; Or, On the Trail of the Early Discoverers | have | PG 42623, `ettomlinson-camping-on-the-st-lawrence` (2105 units) |
 | Ward Hill, the Senior | have | PG 52610, `ettomlinson-ward-hill-the-senior` (1494 units) |
 | The pennant | have | PG 72863, `ettomlinson-pennant` (2667 units) |
+
+## Frank H. Spearman
+
+Shelf: `pipeline/frank-h-spearman_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Railroad stories and Westerns. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Laramie Holds the Range | have | PG 23242, `fhspearman-laramie-holds-the-range` (2514 units) |
+| The Daughter of a Magnate | have | PG 24696, `fhspearman-daughter-of-a-magnate` (1429 units) |
+| Nan of Music Mountain | have | PG 29571, `fhspearman-nan-of-music-mountain` (1967 units) |
+| Whispering Smith | have | PG 29572, `fhspearman-whispering-smith` (1975 units) |
+| The Mountain Divide | have | PG 29656, `fhspearman-mountain-divide` (1084 units) |
+| The Nerve of Foley, and Other Railroad Stories | have | PG 33947, `fhspearman-nerve-of-foley-and-other-railroad-stories` (986 units) |
+| Held for Orders: Being Stories of Railroad Life | have | PG 34365, `fhspearman-held-for-orders` (1021 units) |
+| Robert Kimberly | have | PG 41433, `fhspearman-robert-kimberly` (2751 units) |
+| The marriage verdict | have | PG 79812, `fhspearman-marriage-verdict` (1888 units) |

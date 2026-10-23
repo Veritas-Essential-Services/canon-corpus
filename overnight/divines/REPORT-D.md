@@ -2138,3 +2138,6 @@
 
 ## 2026-10-22 22:45 CDT — everett-t-tomlinson: done
 - everett-t-tomlinson: new shelf, 9 Gutenberg books, 15,211 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — frank-h-spearman: done
+- frank-h-spearman: new shelf, 9 Gutenberg books, 15,615 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
