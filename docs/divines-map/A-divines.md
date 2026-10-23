@@ -11184,3 +11184,18 @@ Slugs `ghill-*`. Built from title pages read for round 49.
 | A view of the constitution of the Church of Scotland (Edinburgh : J. Waugh, 1835) | have-ocr | IA `viewofconstituti00hill` |
 | Later printings of the Lectures in Divinity (1837, 1844, 1851) and the 1796 Heads of Lectures | alternate | not shelved |
 | Single sermons of 1787-1792; Steuart's Compendium of the Laws of the Church of Scotland (another man's book) | excluded | |
+
+## Alexander Carson (round 49, my pick, 2026-10-23)
+
+Slugs `carson-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Reasons for Separating from the General Synod of Ulster (1805) | have-ocr | IA `10772816bsb` |
+| A reply to Mr. Brown's vindication of the Presbyterian form of church-government : in which the order of the apostolical churches is defended. In a series of letters to the author (Edinburgh : J. Ritchie, 1807) | have-ocr | IA `replytomrbrownsv00cars` |
+| History of providence, as manifested in scripture : or, Facts from scripture illustrative of the government of God (Edinburgh : William Whyte, 1840) | have-ocr | IA `historyofprovide00cars` |
+| Baptism in its mode and subjects (Philadelphia : American Baptist Publication Society, 1845) | have-ocr | IA `baptisminitsmo00cars` |
+| The Romish controversy; being a series of essays and letters on some of the leading doctrines of the church of Rome. To which is added, a sermon on the encouragements to the propagation of the Gospel, preached at Surrey Chapel, London (New York, Hanna & Carson, 1852) | have-ocr | IA `romishcontrovers00cars` |
+| The inspiration of the Scriptures : a review of the theories of the Reverend Daniel Wilson, Reverend Dr. Pye Smith, and the Reverend Dr. Dick, and other treaties (New York : Edward H. Fletcher, 1853) | have-ocr | IA `inspirationofscr00cars` |
+| Other printings of Baptism in its Mode and Subjects (1831-1860), the 1852 History of Providence and Providence Unfolded (1851) | alternate | not shelved |
+| The 1805 Mode and Subjects of Baptism examined (Daniel Merrill's book); Independent or Democratic Church Government (1868, another author) | excluded | |
