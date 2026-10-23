@@ -19094,3 +19094,20 @@ Slugs `whittingham-*`. Built from title pages read for round 131.
 | Correspondence between Bishop Whittingham and others (1852, IA correspondencebe00whit): letters by several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Jahn's Introduction, Jewel's Apology, the Apostolic Fathers, Ratramn, Palmer's Church History, Casaubon and Hill are other men's books he translated or edited | excluded | |
 | the catalogue of his liturgical library is a book list | excluded | |
+
+## Andrew C. Zenos (round 131, my pick, 2026-10-23)
+
+Slugs `zenos-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| The principles of the higher criticism and their practical value : a paper read before the Presbyterian Ministers' Association of Chicago, January 28, 1884 ([S.l. : s.n., 1884) | have-ocr | IA `principlesofhigh00zeno` |
+| The relations of New Testament study to the present age : Inaugural address of Andrew C. Zenos ... Hosmer professor of New Testament exegesis, January 16, 1889 ([Hartford] : Hartford theological seminary, 1889) | have-ocr | IA `relationsofnewte00zeno` |
+| The elements of the higher criticism (funk and wagnalls company, 1895) | have-ocr | IA `elementsofhigher0000andr` |
+| Compendium of church history (Philadelphia : Presbyterian Board of Publication and Sabbath-School Work, c189) | have-ocr | IA `compendiumofchur00zeno` |
+| The teaching of Jesus concerning Christian conduct (New York, American Tract Society, 1905) | have-ocr | IA `teachingofjesusc00zeno` |
+| The Son of Man : studies in the gospel of Mark (New York : Scribners, 1914) | have-ocr | IA `sonofmanstudiesi00zeno` |
+| The plastic age of the Gospel;: A manual of New Testament theology (The Macmillan company, 1927) | have-ocr | IA `plasticageofgosp0000andr` |
+| his Xenophon school edition and the Bible dictionaries and encyclopedias he helped edit | excluded | |
+| single journal articles | excluded | |
+| other scans of the same books | excluded | |
