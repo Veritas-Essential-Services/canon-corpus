@@ -20214,6 +20214,16 @@ Shelf: `pipeline/t-w-lumb_shelf.json`. Authors of Greece, with an introduction b
 |---|---|---|---|
 | Authors of Greece, with an introduction by Cyril Alington |  | `lumb-authors-of-greece` | have (PG 8115) |
 
+
+## William Gordon Holmes (1845-1927)
+
+Shelf: `pipeline/w-g-holmes_shelf.json`. The Age of Justinian and Theodora, vol. 1 of 2 (2nd ed., Bell, 1912); The Age of Justinian and Theodora, vol. 2 of 2 (2nd ed., Bell, 1912). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Age of Justinian and Theodora, vol. 1 of 2 (2nd ed., Bell, 1912) |  | `holmes-age-justinian-theodora-v1` | have (PG 65337) |
+| The Age of Justinian and Theodora, vol. 2 of 2 (2nd ed., Bell, 1912) |  | `holmes-age-justinian-theodora-v2` | have (PG 65717) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
