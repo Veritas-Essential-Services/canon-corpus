@@ -13686,3 +13686,37 @@ Slugs `hare-*`. Built from title pages read for round 74.
 | A Letter to the Dean of Chichester on the agitation over Dr. Hampden's appointment (1848): the only scan found (a586744000hannuoft) carries a German book's text | pending | not shelved |
 | Sermons Preacht in Herstmonceux Church, first volume (1841): every scan found under that title is the second volume | pending | not shelved |
 | his translation, with Thirlwall, of Niebuhr's History of Rome (on the niebuhr shelf); The Philological Museum (a journal he edited); Portions of the Psalms in English Verse (a compiled hymnal); Fragments of Two Essays in English Philology | excluded | |
+
+## Ashton Oxenden (round 74, my pick, 2026-10-23)
+
+Slugs `oxenden-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| Prayers for Private Use (New York: A. D. F. Randolph; undated, 1869 or later) | have-ocr | IA `prayersforpriva00oxen` |
+| The sacrament of baptism (London : J. Hatchard and Son, 1846) | have-ocr | IA `sacramentofbapti00oxen` |
+| Counsel to the awakened : or, The pathway to safety (Philadelphia : J.B. Lippincott, 1858) | have-ocr | IA `counseltoawakene00oxen` |
+| Fervent prayer (catalogued 1860) | have-ocr | IA `ferventprayer01oxengoog` |
+| Baptism simply explained (catalogued 1861) | have-ocr | IA `baptismsimplyex00oxengoog` |
+| The Lord's supper, simply explained (catalogued 1861) | have-ocr | IA `lordssuppersimp00oxengoog` |
+| God's message to the poor, 11 sermons (catalogued 1861) | have-ocr | IA `godsmessagetopo00oxengoog` |
+| Great truths in very plain language (catalogued 1861) | have-ocr | IA `greattruthsinve00oxengoog` |
+| Sermons on the Christian life (catalogued 1861) | have-ocr | IA `sermonsonchrist00oxengoog` |
+| The home beyond; or, A happy old age (catalogued 1861) | have-ocr | IA `homebeyondoraha00oxengoog` |
+| The story of Ruth (catalogued 1862) | have-ocr | IA `storyruth00oxengoog` |
+| The parables of our Lord (William Macintosh, 1864) | have-ocr | IA `parablesourlord00oxengoog` |
+| Cottage sermons; or, Plain words to the poor (catalogued 1866) | have-ocr | IA `cottagesermonso00oxengoog` |
+| Our Church and her services (E.P. Dutton, 1866) | have-ocr | IA `ourchurchandher00huntgoog` |
+| Decision (catalogued 1868) | have-ocr | IA `decision00oxengoog` |
+| The earnest communicant, a course of preparation for the Lord's table (Longmans, Green, 1871) | have-ocr | IA `earnestcommunic00oxengoog` |
+| My first year in Canada (London, Hatchards; New York, Pott & Amery, 1871) | have-ocr | IA `myfirstyearincan00oxen` |
+| Thoughts for Advent (catalogued 1872) | have-ocr | IA `thoughtsforadve00oxengoog` |
+| A Simple Exposition of the Psalms, vol. 1 (London: Hatchards, 1872) | have-ocr | IA `asimpleexpositi00oxengoog` |
+| Thoughts for Lent (catalogued 1873) | have-ocr | IA `thoughtsforlent00oxengoog` |
+| The Christian life (catalogued 1877) | have-ocr | IA `christianlife00oxengoog` |
+| The earnest churchman (catalogued 1879) | have-ocr | IA `earnestchurchma00oxengoog` |
+| Touchstones; or, Christian graces and characters tested (catalogued 1884) | have-ocr | IA `touchstonesorch00oxengoog` |
+| The history of my life: an autobiography (London Longmans, Green, 1891) | have-ocr | IA `thehistoryofmyli00oxenuoft` |
+| Short lectures on the Sunday Gospels : from Advent to Easter (London : Longmans, Green, 1902) | have-ocr | IA `shortlecturesont00oxenuoft` |
+| A Simple Exposition of the Psalms, vol. 2 (London: Hatchards, 1872) | have-ocr | IA `simpleexposition02oxen` |
+| Family Prayers (with C. H. Ramsden); The Cottage Library (series); tracts of under 60 pages; the Cree translation of The Pathway of Safety by John Mackay; later reprints of The Pathway of Safety (1859-1896), the same book as Counsel to the Awakened | excluded | |
