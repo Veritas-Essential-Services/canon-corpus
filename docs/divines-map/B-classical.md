@@ -9477,3 +9477,12 @@ Shelf: `pipeline/frederic-huidekoper_shelf.json`. Judaism at Rome (1876). Not mi
 |---|---|---|---|
 | Judaism at Rome, B.C. 76 to A.D. 140 (1876; this printing 1880) |  | `huidekoper-judaism-at-rome` | have-raw (IA `judaismatromeb00huid`) |
 
+
+## Jacob von Falke (1825-1897)
+
+Shelf: `pipeline/jacob-von-falke_shelf.json`. Greece and Rome, their Life and Art, tr. Hand Browne (1882). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greece and Rome: their Life and Art (1882), tr. William Hand Browne |  | `falke-greece-and-rome-1882` | have-raw (IA `greecerometheirl0000falk`) |
+
