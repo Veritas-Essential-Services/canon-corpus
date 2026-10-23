@@ -12783,6 +12783,9 @@ Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, L
 | History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868) |  | `merivale-romans-empire-v6-1868` | have-raw (IA `historyromansun07unkngoog`) |
 | History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904) |  | `merivale-romans-empire-v7-1904` | have-raw (IA `historyofromansu07meri`) |
 | History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872) |  | `merivale-romans-empire-v8-1872` | have-raw (IA `historyromansun15unkngoog`) |
+| A General History of Rome from the Foundation of the City to the Fall of Augustulus, B.C. 753-A.D. 476 (London: Longmans, 1875; this copy catalogued 1879) |  | `merivale-general-history-rome` | have-raw (IA `ageneralhistory01merigoog`) |
+| The Fall of the Roman Republic: a Short History of the Last Century of the Commonwealth (London: Longmans; first ed. 1853, this copy catalogued 1895) |  | `merivale-fall-roman-republic` | have-raw (IA `fallromanrepubl01merigoog`) |
+| The Roman Triumvirates (Epochs of Ancient History; London: Longmans, 1876; this copy catalogued 1889) |  | `merivale-roman-triumvirates` | have-raw (IA `romantriumvirate00meri_0`) |
 
 ## August Boeckh (scholarship)
 
@@ -13061,6 +13064,7 @@ Shelf: `pipeline/capes_shelf.json`. Roman History: The Early Empire (1876) and U
 |---|---|---|---|
 | Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876) |  | `capes-early-empire-1876` | have-raw (IA `romanhistoryearl00cape`) |
 | University Life in Ancient Athens (London: Longmans, Green, 1877) |  | `capes-university-life-athens-1877` | have-raw (IA `1877universityli00capeuoft`) |
+| The Roman Empire of the Second Century, or the Age of the Antonines (Epochs of Ancient History; London: Longmans, Green, 1876; this printing 1887) |  | `capes-roman-empire-second-century` | have-raw (IA `romanempireseco01unkngoog`) |
 
 ## J. L. Strachan-Davidson (scholarship)
 
