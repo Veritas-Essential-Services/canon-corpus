@@ -1,0 +1,50 @@
+{
+ "_about": "William Archer Butler (1814?-1848), Professor of Moral Philosophy at Dublin: Lectures on the History of Ancient Philosophy, edited from the author's manuscripts with notes by William Hepworth Thompson (Cambridge: Macmillan, 2 vols, 1856), raw IA OCR. His sermons and his Letters on Romanism are theology and are left to the divines lanes. Classical scholarship and the philosophy canon (lane B, round dv). No uids minted.",
+ "_author": "William Archer Butler (1814?-1848)",
+ "_name_words": [
+  "butler",
+  "philosophy"
+ ],
+ "_surname": [
+  "william archer butler",
+  "w. archer butler",
+  "butler, william archer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-archer-butler-ancient-philosophy-v1-1856": [
+   "lecturesonthehis01butluoft",
+   "Lectures on the History of Ancient Philosophy, edited by William Hepworth Thompson, vol. I (Cambridge: Macmillan, MDCCCLVI)"
+  ],
+  "w-archer-butler-ancient-philosophy-v2-1856": [
+   "lecturesonphilo02butluoft",
+   "Lectures on the History of Ancient Philosophy, edited by William Hepworth Thompson, vol. II (Cambridge: Macmillan, MDCCCLVI)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-archer-butler-ancient-philosophy-v1-1856": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william archer butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-archer-butler-ancient-philosophy-v2-1856": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william archer butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
