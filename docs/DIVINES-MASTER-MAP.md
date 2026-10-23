@@ -11452,6 +11452,23 @@ Slugs `sssmith-*`. Built from title pages read for round 51.
 | A Comprehensive view of the leading and most important principles of natural and revealed religion : digested in such order as to present to the pious and reflecting mind, a basis for the superstructure of the entire system of the doctrines of the gospel (New-Brunswick : Printed and published by Deare & Myer, 1815) | have-ocr | IA `comprehensivevi00smit` |
 | The 1787-1789 first edition of the Essay; other copies of the Sermons and the Comprehensive View | alternate | not shelved |
 | Ramsay's History of the United States (1816, Smith only continued it); single sermons 1791-1810 | excluded | |
+
+## Nathan Bangs (round 52, my pick, 2026-10-23)
+
+Slugs `bangs-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| The errors of Hopkinsianism detected and refuted (New York, Printed for the author, by John C. Totten, no. 9 Bowery, 1815) | have-ocr | IA `errorsofhopkinsi00bang` |
+| The reformer reformed: or, A second part of The errors of Hopkinsianism detected and refuted: Being an examination of Mr. Seth Williston's "Vindication of some of the most essential doctrines of the reformation." (New York, Printed by John C. Totten, no. 9 Bowery, 1818) | have-ocr | IA `reformerreformed00bang` |
+| Letters to young ministers of the gospel on the importance and method of study (New-York : N. Bangs and J. Emory, 1826) | have-ocr | IA `letterstoyoungmi00bang` |
+| The life of the Rev. Freeborn Garrettson : compiled from his printed and manuscript journals, and other authentic documents (New-York : J. Emory and B. Waugh, 1829) | have-ocr | IA `lifeofrevfreebor00bang2` |
+| An original church of Christ (New-York, Published by T. Mason and G. Lane, for the Methodist Episcopal church, 1837) | have-ocr | IA `originalchurchof00bang` |
+| A history of the Methodist Episcopal Church, vol. 1 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet01banguoft` |
+| A history of the Methodist Episcopal Church, vol. 2 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet02banguoft` |
+| A history of the Methodist Episcopal Church, vol. 3 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet03banguoft` |
+| A history of the Methodist Episcopal Church, vol. 4 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet04banguoft` |
+| The Methodist Review (a periodical he edited); Watson's Biblical and Theological Dictionary (1832, Watson's book, Bangs only revised it); the Authentic History of the Missions (1832) left for later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

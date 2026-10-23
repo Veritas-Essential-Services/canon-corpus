@@ -1,0 +1,160 @@
+{
+ "_about": "Public-domain Nathan Bangs (1778-1862), Methodist Episcopal minister, editor and historian, for the Word Hoard: The Errors of Hopkinsianism Detected and Refuted (1815), The Reformer Reformed (1818), Letters to Young Ministers (1826), The Life of the Rev. Freeborn Garrettson (1829), An Original Church of Christ (1837) and A History of the Methodist Episcopal Church (4 vols, 1839), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bangs"
+ ],
+ "_surname": [
+  "nathan bangs",
+  "n. bangs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bangs-hopkinsianism": [
+   "errorsofhopkinsi00bang",
+   "The errors of Hopkinsianism detected and refuted (New York, Printed for the author, by John C. Totten, no. 9 Bowery, 1815)"
+  ],
+  "bangs-reformer-reformed": [
+   "reformerreformed00bang",
+   "The reformer reformed: or, A second part of The errors of Hopkinsianism detected and refuted: Being an examination of Mr. Seth Williston's \"Vindication of some of the most essential doctrines of the reformation.\" (New York, Printed by John C. Totten, no. 9 Bowery, 1818)"
+  ],
+  "bangs-letters-young-ministers": [
+   "letterstoyoungmi00bang",
+   "Letters to young ministers of the gospel on the importance and method of study (New-York : N. Bangs and J. Emory, 1826)"
+  ],
+  "bangs-garrettson": [
+   "lifeofrevfreebor00bang2",
+   "The life of the Rev. Freeborn Garrettson : compiled from his printed and manuscript journals, and other authentic documents (New-York : J. Emory and B. Waugh, 1829)"
+  ],
+  "bangs-original-church": [
+   "originalchurchof00bang",
+   "An original church of Christ (New-York, Published by T. Mason and G. Lane, for the Methodist Episcopal church, 1837)"
+  ],
+  "bangs-history-mec-1": [
+   "ahistoryofthemet01banguoft",
+   "A history of the Methodist Episcopal Church, vol. 1 (New York T. Mason and G. Lane, 1839)"
+  ],
+  "bangs-history-mec-2": [
+   "ahistoryofthemet02banguoft",
+   "A history of the Methodist Episcopal Church, vol. 2 (New York T. Mason and G. Lane, 1839)"
+  ],
+  "bangs-history-mec-3": [
+   "ahistoryofthemet03banguoft",
+   "A history of the Methodist Episcopal Church, vol. 3 (New York T. Mason and G. Lane, 1839)"
+  ],
+  "bangs-history-mec-4": [
+   "ahistoryofthemet04banguoft",
+   "A history of the Methodist Episcopal Church, vol. 4 (New York T. Mason and G. Lane, 1839)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bangs-other": "The Methodist Review (a periodical he edited); Watson's Biblical and Theological Dictionary (1832, Watson's book, Bangs only revised it); the Authentic History of the Missions (1832) left for later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bangs-hopkinsianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bangs-reformer-reformed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bangs-letters-young-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bangs-garrettson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bangs-original-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bangs-history-mec-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bangs-history-mec-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bangs-history-mec-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bangs-history-mec-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan bangs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
