@@ -13472,6 +13472,30 @@ Slugs `rainsford-*`. Built from title pages read for round 71.
 | The mystery of his will (Hodder and Stoughton, 27 Paternoster Row., 1888) | have-ocr | IA `mysteryofhiswill0000marc` |
 | The Fulness of God, and other addresses (London: S. W. Partridge, 1898) | have-ocr | IA `fulnessgodandot00raingoog` |
 | Straight Paths for Your Feet (a modern print-on-demand reprint); The Tabernacle in the Wilderness (undated scan) | excluded | |
+
+## Hugh Black (round 72, my pick, 2026-10-23)
+
+Slugs `black-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Friendship (Chicago: Fleming H. Revell, copyright 1898) | have-ocr | IA `friendship00blacrich` |
+| Culture and restraint (New York : Fleming H. Revell, 1901) | have-ocr | IA `culturerestraint00blac` |
+| Work (Toronto, Revell, 1903) | have-ocr | IA `blackswork00blacuoft` |
+| The practice of self-culture (New York, The Macmillan company; London, Macmillan & co., ltd, 1904) | have-ocr | IA `practiceofselfcu00blac` |
+| Edinburgh sermons (London : Hodder and Stoughton, 1906) | have-ocr | IA `edinburghsermons00blacuoft` |
+| Christ's service of love (London, Hodder and Stoughton, 1907) | have-ocr | IA `christsserviceo00blac` |
+| The gift of influence (New York, Chicago [etc.] Fleming H. Revell company, 1908) | have-ocr | IA `giftofinfluence00blac` |
+| University sermons (London, Hodder and Stoughton, 1908) | have-ocr | IA `universitysermon00blac` |
+| Comfort (Chicago, New York [etc.] : Fleming H. Revell company, 1910) | have-ocr | IA `cu31924029349622` |
+| Happiness (Chicago and New York: Fleming H. Revell, copyright 1911) | have-ocr | IA `happiness00blac` |
+| Three dreams (New York, Chicago [etc.] Fleming H. Revell company, 1912) | have-ocr | IA `threedreams00blac` |
+| "According to my Gospel," (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `accordingtomyg00blac` |
+| The open door (New York, Revell, 1914) | have-ocr | IA `opendoor00blac` |
+| The new world (New York : F. H. Revell, 1915) | have-ocr | IA `newworld00blac` |
+| "Lest We Forget" (copyright 1920) | have-ocr | IA `lestweforget0000hugh` |
+| The Cleavage of the World (London: Hodder and Stoughton, 1920) | have-ocr | IA `cleavageofworldy00blacuoft` |
+| The adventure of being man (Garden City, N.Y. : Doubleday, Doran & Co., 1929) | have-ocr | IA `adventureofbeing00blac` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

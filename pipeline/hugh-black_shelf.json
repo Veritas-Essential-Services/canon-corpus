@@ -1,0 +1,280 @@
+{
+ "_about": "Public-domain Hugh Black (1868-1953), Free Church minister in Edinburgh and later professor at Union Theological Seminary, New York, for the Word Hoard: his books from Friendship (1898) to The Adventure of Being Man (1929), among them Culture and Restraint, Work, The Practice of Self-Culture, Edinburgh Sermons, Christ's Service of Love, The Gift of Influence, University Sermons, Comfort, Happiness, According to My Gospel, The Open Door, The New World and Lest We Forget. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 72 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "black"
+ ],
+ "_surname": [
+  "hugh black"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "black-friendship": [
+   "friendship00blacrich",
+   "Friendship (Chicago: Fleming H. Revell, copyright 1898)"
+  ],
+  "black-culture-and-restraint": [
+   "culturerestraint00blac",
+   "Culture and restraint (New York : Fleming H. Revell, 1901)"
+  ],
+  "black-work": [
+   "blackswork00blacuoft",
+   "Work (Toronto, Revell, 1903)"
+  ],
+  "black-practice-of-self-culture": [
+   "practiceofselfcu00blac",
+   "The practice of self-culture (New York, The Macmillan company; London, Macmillan & co., ltd, 1904)"
+  ],
+  "black-edinburgh-sermons": [
+   "edinburghsermons00blacuoft",
+   "Edinburgh sermons (London : Hodder and Stoughton, 1906)"
+  ],
+  "black-christs-service-of-love": [
+   "christsserviceo00blac",
+   "Christ's service of love (London, Hodder and Stoughton, 1907)"
+  ],
+  "black-gift-of-influence": [
+   "giftofinfluence00blac",
+   "The gift of influence (New York, Chicago [etc.] Fleming H. Revell company, 1908)"
+  ],
+  "black-university-sermons": [
+   "universitysermon00blac",
+   "University sermons (London, Hodder and Stoughton, 1908)"
+  ],
+  "black-comfort": [
+   "cu31924029349622",
+   "Comfort (Chicago, New York [etc.] : Fleming H. Revell company, 1910)"
+  ],
+  "black-happiness": [
+   "happiness00blac",
+   "Happiness (Chicago and New York: Fleming H. Revell, copyright 1911)"
+  ],
+  "black-three-dreams": [
+   "threedreams00blac",
+   "Three dreams (New York, Chicago [etc.] Fleming H. Revell company, 1912)"
+  ],
+  "black-according-to-my-gospel": [
+   "accordingtomyg00blac",
+   "\"According to my Gospel,\" (New York, Chicago [etc.] Fleming H. Revell company, 1913)"
+  ],
+  "black-open-door": [
+   "opendoor00blac",
+   "The open door (New York, Revell, 1914)"
+  ],
+  "black-new-world": [
+   "newworld00blac",
+   "The new world (New York : F. H. Revell, 1915)"
+  ],
+  "black-lest-we-forget": [
+   "lestweforget0000hugh",
+   "\"Lest We Forget\" (copyright 1920)"
+  ],
+  "black-cleavage-of-the-world": [
+   "cleavageofworldy00blacuoft",
+   "The Cleavage of the World (London: Hodder and Stoughton, 1920)"
+  ],
+  "black-adventure-of-being-man": [
+   "adventureofbeing00blac",
+   "The adventure of being man (Garden City, N.Y. : Doubleday, Doran & Co., 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "black-culture-and-restraint": "title page OCR reads 'CVLTVRE AND RESTRAINT ... HVGH BLACK ... FRIENDSHIP ... FLEMING H. REVELL COMPANY ... Copyright, 1901' (the title page sets U as V)",
+  "black-work": "title page OCR reads '-HUGH- N 5LACK-M-A ... TORONTO FLEMING H. REVELL COMPANY 1903' (OCR garbled); its list of 'works by the same author' names Friendship"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "black-friendship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "[c1898]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-culture-and-restraint": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-practice-of-self-culture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "black-edinburgh-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-christs-service-of-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "black-gift-of-influence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-university-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "black-comfort": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "black-happiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "[c1911]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-three-dreams": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-according-to-my-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "black-open-door": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "black-new-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-lest-we-forget": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "black-cleavage-of-the-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "black-adventure-of-being-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh black",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -7885,6 +7885,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:38:29-05:00",
       "notes": "4 books, 1870-1898; a modern print-on-demand reprint excluded."
+    },
+    {
+      "id": "hugh-black",
+      "status": "done",
+      "scope": "round 72",
+      "added": "2026-10-23T03:48:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:48:36-05:00",
+      "notes": "17 books, 1898-1929. Name form is 'hugh black' (bare 'black' is a common word)."
     }
   ]
 }
