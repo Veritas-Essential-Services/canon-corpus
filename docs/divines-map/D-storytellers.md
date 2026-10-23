@@ -17662,3 +17662,17 @@ Shelf: `pipeline/heman-white-chaplin_shelf.json` (2026-10-22; added at the coord
 | Eli First published in the "Century Magazine" | have | PG 23005, `hwchaplin-eli-first-published-in-the-century-magazine` (241 units) |
 | Five Hundred Dollars First published in the "Century Magazine" | have | PG 23006, `hwchaplin-five-hundred-dollars-first-published-in-the-centur` (214 units) |
 | The Village Convict First published in the "Century Magazine" | have | PG 23007, `hwchaplin-village-convict-first-published-in-the-century-mag` (194 units) |
+
+## Boyd Cable
+
+Shelf: `pipeline/boyd-cable_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Action Front | have | PG 11349, `bcable-action-front` (987 units) |
+| Between the Lines | have | PG 25076, `bcable-between-the-lines` (632 units) |
+| Grapes of wrath | have | PG 46787, `bcable-grapes-of-wrath` (769 units) |
+| Air Men o' War | have | PG 48422, `bcable-air-men-o-war` (692 units) |
+| By Blow and Kiss: The Love Story of a Man with a Bad Name. (Published serially under the title Unstable as Water). | have | PG 48756, `bcable-by-blow-and-kiss` (2200 units) |
+| Front Lines | have | PG 48891, `bcable-front-lines` (774 units) |
+| Doing Their Bit: War Work at Home | have | PG 49208, `bcable-doing-their-bit` (77 units) |
