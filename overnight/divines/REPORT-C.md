@@ -336,3 +336,5 @@
 - 2026-10-22T23:13-05:00: Round 129 (2026-10-23): 15 titles, Clara Bell on archive.org (Galdós, Loti, Ebers, Spitta x3 and others). War and Peace and Gloria pending for missing volumes. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:20-05:00: Round 130 (2026-10-23): 11 titles, Upton x5, Vizetelly x1, Koteliansky x5 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:27-05:00: Round 131 (2026-10-23): 26 titles, Bernard Miall on archive.org (Maeterlinck, Le Bon, Rolland, Alexinsky x3, travel, wartime). 0 mismatched, 0 rights flags, no uids.

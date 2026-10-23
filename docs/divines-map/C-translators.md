@@ -1427,7 +1427,7 @@ Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Bernard Miall (Nexø's Pelle, Rolland's Tolstoy, Maeterlinck's Poems, Fabre)
 
 Shelf: `pipeline/bernard-miall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bernard-miall` · titles `python3 pipeline/split_shelf_titles.py bernard-miall`.
-Round 20 (2026-10-10), vetoable. Only translations printed before 1931. Not converted to unit-id JSON; **no uids minted**.
+Round 20 (2026-10-10), vetoable. Only translations printed before 1931. Round 131 added twenty-six archive.org books Gutenberg lacks. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1441,6 +1441,32 @@ Round 20 (2026-10-10), vetoable. Only translations printed before 1931. Not conv
 | `bernard-miall-massart-belgians-under-the-german-eagle` | Jean Massart | Belgians Under the German Eagle | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 51716 |
 | `bernard-miall-nexo-pelle-the-conqueror` | Martin Andersen Nexø | Pelle the Conqueror (complete) | Bernard Miall (with Jessie Muir) | 1911-1921 (see the Gutenberg header) | have | PG 7795 |
 | `bernard-miall-rolland-tolstoy` | Romain Rolland | Tolstoy | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 49435 |
+| `bernard-miall-maeterlinck-sister-beatrice-and-ardiane-and-barbe-bleue` | Maurice Maeterlinck | Sister Beatrice and Ardiane and Barbe Bleue: Two Plays | Bernard Miall | 1901 | have-raw | IA `sisterbeatricear00maetiala` |
+| `bernard-miall-maeterlinck-the-great-secret` | Maurice Maeterlinck | The Great Secret | Bernard Miall | 1922 | have-raw | IA `greatsecret00maetiala` |
+| `bernard-miall-le-bon-the-psychology-of-revolution` | Gustave Le Bon | The Psychology of Revolution | Bernard Miall | 1913 | have-raw | IA `cu31924024309753` |
+| `bernard-miall-le-bon-the-world-in-revolt` | Gustave Le Bon | The World in Revolt: A Psychological Study of Our Times | Bernard Miall | 1921 | have-raw | IA `worldinrevoltpsy00lebo` |
+| `bernard-miall-rolland-a-musical-tour-through-the-land-of-the-past` | Romain Rolland | A Musical Tour through the Land of the Past | Bernard Miall | 1922 | have-raw | IA `musicaltourthrou00roll` |
+| `bernard-miall-france-on-life-and-letters-4` | Anatole France | On Life and Letters, Fourth Series | Bernard Miall | 1924 | have-raw | IA `onlifelettersbya0000mial` |
+| `bernard-miall-bismarck-new-chapters-of-his-autobiography` | Otto von Bismarck | New Chapters of Bismarck's Autobiography | Bernard Miall | 1920 | have-raw | IA `newchaptersofhis00bismuoft` |
+| `bernard-miall-bernstein-my-years-of-exile` | Eduard Bernstein | My Years of Exile: Reminiscences of a Socialist | Bernard Miall | 1921 | have-raw | IA `myyearsofexilere00bernuoft` |
+| `bernard-miall-alexinsky-modern-russia` | Gregor Alexinsky | Modern Russia | Bernard Miall | 1913 | have-raw | IA `modernrussia00alek` |
+| `bernard-miall-alexinsky-russia-and-the-great-war` | Gregor Alexinsky | Russia and the Great War | Bernard Miall | 1915 | have-raw | IA `russiagreatwar00alek` |
+| `bernard-miall-alexinsky-russia-and-europe` | Gregor Alexinsky | Russia and Europe | Bernard Miall | 1917 | have-raw | IA `russiaeurope00alekuoft` |
+| `bernard-miall-poincare-how-france-is-governed` | Raymond Poincaré | How France Is Governed | Bernard Miall | 1913 | have-raw | IA `howfranceisgover00poiniala` |
+| `bernard-miall-sabatier-a-frenchmans-thoughts-on-the-war` | Paul Sabatier | A Frenchman's Thoughts on the War | Bernard Miall | 1915 | have-raw | IA `frenchmansthough00sabauoft` |
+| `bernard-miall-hamon-lessons-of-the-world-war` | Augustin Hamon | Lessons of the World-War | Bernard Miall | 1919 | have-raw | IA `lessonsofworldwa00hamoiala` |
+| `bernard-miall-amar-the-physiology-of-industrial-organisation` | Jules Amar | The Physiology of Industrial Organisation and the Re-employment of the Disabled | Bernard Miall | 1918 | have-raw | IA `physiologyofindu00amariala` |
+| `bernard-miall-hericourt-the-social-diseases` | J. Héricourt | The Social Diseases: Tuberculosis, Syphilis, Alcoholism, Sterility | Bernard Miall | 1920 | have-raw | IA `socialdiseasestu00heriiala` |
+| `bernard-miall-muller-freienfels-mysteries-of-the-soul` | Richard Müller-Freienfels | Mysteries of the Soul | Bernard Miall | 1929 | have-raw | IA `in.ernet.dli.2015.218670` |
+| `bernard-miall-bertrand-the-kingdom-of-the-barotsi` | Alfred Bertrand | The Kingdom of the Barotsi, Upper Zambezia | Bernard Miall | 1899 | have-raw | IA `kingdomofbarotsi00bert` |
+| `bernard-miall-dollone-in-forbidden-china` | Henri d'Ollone | In Forbidden China: The D'Ollone Mission, 1906-1909 | Bernard Miall | 1912 | have-raw | IA `forbiddenchina00olloiala` |
+| `bernard-miall-cabaton-java-sumatra` | A. Cabaton | Java, Sumatra, and the Other Islands of the Dutch East Indies | Bernard Miall | 1911 | have-raw | IA `javasumatraother00cabauoft` |
+| `bernard-miall-walle-bolivia` | Paul Walle | Bolivia: Its People and Its Resources | Bernard Miall | 1914 | have-raw | IA `boliviaitspeople00walluoft` |
+| `bernard-miall-herubel-sea-fisheries` | Marcel A. Hérubel | Sea Fisheries: Their Treasures and Toilers | Bernard Miall | 1912 | have-raw | IA `seafisheriesthei00hrrich` |
+| `bernard-miall-barthez-the-empress-eugenie-and-her-circle` | E. Barthez | The Empress Eugénie and Her Circle | Bernard Miall | 1913 | have-raw | IA `empresseugnieh00bart` |
+| `bernard-miall-gerlache-belgium-in-war-time` | Adrien de Gerlache de Gomery | Belgium in War Time | Bernard Miall | 1917 | have-raw | IA `belgiuminwartime00gerlrich` |
+| `bernard-miall-massart-the-secret-press-in-belgium` | Jean Massart | The Secret Press in Belgium | Bernard Miall | 1918 | have-raw | IA `secretpressinbel00massrich` |
+| `bernard-miall-sauter-among-the-brahmins-and-pariahs` | J. A. Sauter | Among the Brahmins and Pariahs | Bernard Miall | 1924 | have-raw | IA `india.history.resource.89036` |
 | — | — | teixeira: The Wonders of Instinct (3754) and The Life of the Scorpion (66744), shared with Teixeira de Mattos, are on teixeira-de-mattos_shelf.json. | — | — | excluded | — |
 | — | — | pelle-volumes: Pelle the Conqueror's four Gutenberg part-files (7791-7794) are left out; the complete text (7795) is used. | — | — | excluded | — |
 
