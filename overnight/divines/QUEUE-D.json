@@ -5269,6 +5269,14 @@
       "started": "2026-10-22T22:59:04-05:00",
       "finished": "2026-10-22T22:59:04-05:00",
       "notes": "samuel-hopkins-adams: new shelf, 15 Gutenberg books, 38,545 units, 6387 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elizabeth-stuart-phelps",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elizabeth Stuart Phelps; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:06-05:00",
+      "finished": "2026-10-22T22:59:06-05:00",
+      "notes": "elizabeth-stuart-phelps: new shelf, 15 Gutenberg books, 11,795 units, 293 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

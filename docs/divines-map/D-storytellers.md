@@ -16778,3 +16778,26 @@ Shelf: `pipeline/samuel-hopkins-adams_shelf.json` (2026-10-22; added at the coor
 | Flaming Youth | have | PG 61582, `shadams-flaming-youth` (3859 units) |
 | pg-57676 | excluded | PG 57676: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 10008: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Elizabeth Stuart Phelps
+
+Shelf: `pipeline/elizabeth-stuart-phelps_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Men, Women, and Ghosts | have | PG 10744, `esphelps-men-women-and-ghosts` (1783 units) |
+| Gypsy Breynton | have | PG 18582, `esphelps-gypsy-breynton` (1114 units) |
+| Gypsy's Cousin Joy | have | PG 18646, `esphelps-gypsys-cousin-joy` (1293 units) |
+| A Lost Hero | have | PG 28059, `esphelps-lost-hero` (123 units) |
+| The Gates Between | have | PG 30540, `esphelps-gates-between` (686 units) |
+| Avery | have | PG 33393, `esphelps-avery` (439 units) |
+| Songs of the Silent World, and Other Poems | have | PG 33486, `esphelps-songs-of-the-silent-world-and-other-poems` (386 units) |
+| A Chariot of Fire | have | PG 34254, `esphelps-chariot-of-fire` (201 units) |
+| Comrades | have | PG 34255, `esphelps-comrades` (171 units) |
+| The Supply at Saint Agatha's | have | PG 34256, `esphelps-supply-at-saint-agathas` (133 units) |
+| Loveliness: A Story | have | PG 35966, `esphelps-loveliness` (215 units) |
+| A Singular Life | have | PG 48443, `esphelps-singular-life` (2472 units) |
+| Within the Gates | have | PG 53794, `esphelps-within-the-gates` (823 units) |
+| Beyond the Gates | have | PG 54060, `esphelps-beyond-the-gates` (810 units) |
+| The Gates Ajar | have | PG 54230, `esphelps-gates-ajar` (1146 units) |
+| held-elsewhere | excluded | PG 5066: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
