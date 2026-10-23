@@ -9686,3 +9686,12 @@ Shelf: `pipeline/leon-homo_shelf.json`. Primitive Italy, tr. Childe (1927), and 
 | Primitive Italy and the Beginnings of Roman Imperialism (1927), tr. V. Gordon Childe |  | `homo-primitive-italy-1927` | have-raw (IA `dli.ministry.18969`) |
 | Roman Political Institutions from City to State (1929), tr. M. R. Dobie |  | `homo-roman-political-institutions-1929` | have-raw (IA `dli.ernet.7961`) |
 
+
+## Arnold J. Toynbee (1889-1975)
+
+Shelf: `pipeline/arnold-j-toynbee_shelf.json`. Greek Civilisation and Character (1924). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Civilisation and Character: the Self-Revelation of Ancient Greek Society (1924) |  | `toynbee-greek-civilisation-character-1924` | have-raw (IA `greekcivilisatio0000unse`) |
+

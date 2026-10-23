@@ -1,0 +1,38 @@
+{
+ "_about": "Arnold J. Toynbee (1889-1975), historian: Greek Civilisation and Character, the Self-Revelation of Ancient Greek Society (Library of Greek Thought, 1924), his translations from Greek authors with an introduction. Its companion Greek Historical Thought (1924) is found only in 1950s reprints; his later works are not US public domain. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Arnold Joseph Toynbee (1889-1975)",
+ "_name_words": [
+  "toynbee",
+  "greek",
+  "civilisation",
+  "character"
+ ],
+ "_surname": [
+  "arnold j. toynbee",
+  "a. j. toynbee",
+  "arnold toynbee",
+  "toynbee"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "toynbee-greek-civilisation-character-1924": [
+   "greekcivilisatio0000unse",
+   "Greek Civilisation and Character: the Self-Revelation of Ancient Greek Society (1924)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "toynbee-greek-civilisation-character-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arnold j. toynbee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
