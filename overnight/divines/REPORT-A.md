@@ -2045,3 +2045,6 @@
 
 ## 2026-10-23 00:30 CDT — round 49 done
 - isaac-da-costa, matthias-loy, d-g-monrad, j-oswald-dykes, john-pye-smith, archibald-hall, george-hill-of-st-andrews, alexander-carson, george-burder, edward-williams-of-rotherham, james-morison-evangelical-union: 11 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 00:36 CDT — round 50 done
+- thomas-charles-of-bala, daniel-rowland, howell-harris, william-gadsby, john-kershaw-of-rochdale, joseph-irons, joseph-hussey: 7 shelves, 16 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
