@@ -2165,3 +2165,6 @@
 
 ## 2026-10-22 22:48 CDT — henry-leverage: done
 - henry-leverage: new shelf, 9 Gutenberg books, 7,282 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — tc-harbaugh: done
+- tc-harbaugh: new shelf, 9 Gutenberg books, 9,617 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.

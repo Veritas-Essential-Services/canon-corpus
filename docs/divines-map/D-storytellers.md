@@ -16138,3 +16138,19 @@ Shelf: `pipeline/henry-leverage_shelf.json` (2026-10-22; added at the coordinato
 | The gray brotherhood | have | PG 68951, `hleverage-gray-brotherhood` (398 units) |
 | The crimp | have | PG 68975, `hleverage-crimp` (187 units) |
 | The white cipher | have | PG 69204, `hleverage-white-cipher` (1939 units) |
+
+## T. C. Harbaugh
+
+Shelf: `pipeline/tc-harbaugh_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dime novels and boys' books. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Oskaloo; or, The White Whirlwind | have | PG 33352, `tcharbaugh-little-oskaloo` (973 units) |
+| Midnight Jack, or The road-agent | have | PG 52788, `tcharbaugh-midnight-jack-or-the-road-agent` (567 units) |
+| The Island Trapper; or, The Young White-Buffalo Hunters | have | PG 65528, `tcharbaugh-island-trapper` (1233 units) |
+| The Wolf Queen; or, The Giant Hermit of the Scioto | have | PG 65667, `tcharbaugh-wolf-queen` (1058 units) |
+| Wolf-Cap; or, The Night-Hawks of the Fire-Lands: A Tale of the Bloody Fort | have | PG 66231, `tcharbaugh-wolf-cap` (1178 units) |
+| Silver Rifle, the Girl Trailer; Or, The White Tigers of Lake Superior | have | PG 66310, `tcharbaugh-silver-rifle-the-girl-trailer` (1281 units) |
+| The Yellow Hunter; or, The Winding Trail of Death | have | PG 67958, `tcharbaugh-yellow-hunter` (1056 units) |
+| The Girl Avenger; or, The Beautiful Terror of the Maumee | have | PG 68016, `tcharbaugh-girl-avenger` (927 units) |
+| The squaw spy; or the rangers of the lava-beds | have | PG 68102, `tcharbaugh-squaw-spy` (1344 units) |
