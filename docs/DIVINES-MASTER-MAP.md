@@ -18970,6 +18970,15 @@ Shelf: `pipeline/arthur-fairbanks_shelf.json`. Greek myth, religion and vases, 1
 
 Excluded: The First Philosophers of Greece (1898) (held on the presocratics shelf)
 
+
+## H. B. Cotterill (1846-1924)
+
+Shelf: `pipeline/h-b-cotterill_shelf.json`. Ancient Greece, a sketch (1913). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient Greece: a Sketch of its Art, Literature and Philosophy Viewed in Connexion with its External History (1913) |  | `cotterill-ancient-greece-1913` | have-raw (IA `ancientgreeceske00cott_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
