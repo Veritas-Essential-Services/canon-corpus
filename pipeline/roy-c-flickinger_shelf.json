@@ -1,5 +1,5 @@
 {
- "_about": "Roy Caston Flickinger (1876-1942): The Greek Theater and its Drama (1918) and Plutarch as a Source of Information on the Greek Theater (1904).",
+ "_about": "Roy Caston Flickinger (1876-1942): The Greek Theater and its Drama (1918) and Plutarch as a Source of Information on the Greek Theater (1904). PG 69095 added (lane B, round dk: clean Gutenberg witness).",
  "_author": "Roy C. Flickinger (1876-1942)",
  "_name_words": [
   "flickinger",
@@ -12,7 +12,12 @@
   "flickinger"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "flickinger-greek-theater-pg": [
+   69095,
+   "The Greek Theater and its Drama (1918), clean Gutenberg text"
+  ]
+ },
  "internet_archive": {
   "flickinger-greek-theater-drama-1918": [
    "dli.ministry.02416",
@@ -26,6 +31,15 @@
  },
  "_excluded": {},
  "_checks": {
+  "flickinger-greek-theater-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "flickinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "flickinger-greek-theater-drama-1918": {
    "kind": "ia",
    "checked": "2026-10-23",
