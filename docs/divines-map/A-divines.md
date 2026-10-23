@@ -17917,3 +17917,13 @@ Slugs `alley-*`. Built from title pages read for round 119.
 | Observations on the government and constitution of Great Britain, including a vindication of both from the aspersions of some late writers, particularly Dr. Price, Dr. Priestley, and Mr. Paine; in a letter to the Right Honourable Lord Sheffield, by the Rev. Jerom Alley, ...  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_observations-on-the-gove_alley-jerom_1792` |
 | The judge : or, An estimate of the importance of the judicial character, occasioned by the death of the late Lord Clare, Lord Chancellor of Ireland. A poem, in three cantos (London : Printed by J. Swan ... for Vernor and Hood, Poultry, 1803) | have-ocr | IA `judgeorestimateo00alle` |
 | Vindiciae Christianae : a comparative estimate of the genius and temper of the Greek, the Roman, the Hindu, the Mahometan, and the Christian religions (London : Printed for T. Cadell ..., 1826) | have-ocr | IA `vindiciaechrist00allegoog` |
+
+## Pius Devine (round 119, my pick, 2026-10-23)
+
+Slugs `pdevine-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Eutropia: or, How to find a way out of darkness and doubt into light and certainty (catalogued 1880) | have-ocr | IA `eutropiaorhowto00devigoog` |
+| Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. III: St John (catalogued 1884) | have-ocr | IA `AuxiliumPraedicatorumV3` |
+| Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. II: St Mark and St Luke (catalogued 1884) | have-ocr | IA `ashortclassupon00devigoog` |
