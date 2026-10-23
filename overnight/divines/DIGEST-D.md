@@ -1019,4 +1019,4 @@ Second sweeps also fixed real-word slips (lie/he, bad/had, li/h), lost drop caps
 Open for Adam:
 - The Authors general index (pp. 259-266) is scrambled in both scans. It is left as is. Typing it would go past the word-level exception; the other choice is rebuilding it from the volumes' own contents.
 - This Authors scan lacks printed p. 50 (its leaf 55 is a faded reshoot of p. 48), so the twin scan's page stands in.
-- The other 12 Little Classics volumes scored A or B and were not swept.
+- The other 12 Little Classics volumes were not swept in this pass.
