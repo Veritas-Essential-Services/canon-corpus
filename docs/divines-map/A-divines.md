@@ -15447,3 +15447,20 @@ Slugs `crobbins-*`. Built from title pages read for round 93.
 | tributetomemoryo00robb: printed for private distribution with no author on the title page; catalogued under Robbins; needs a cited attribution | pending | not shelved |
 | hymn books and the Liturgy he compiled, Our Pastors' Offering (a compilation), the Appleton memoir, and Massachusetts Historical Society proceedings | excluded | |
 | works of Chandler Robbins (1738-1799) of Plymouth, a different man | excluded | |
+
+## Alexander Mathieson (round 93, my pick, 2026-10-23)
+
+Slugs `mathieson-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon occasioned by the death of the late Mr. Robert Watson, preached in St. Andrew's Church, Montreal, April 8th, 1827 (Montreal : Printed at the Herald Office, 1827) | have-ocr | IA `sermonoccasioned00math` |
+| A sermon, preached in St. Andrew's church, Montreal, on the thirtieth day of November, 1836, (St. Andrew's day) (Montreal, Printed by Starke & Co., 1837) | have-ocr | IA `sermonpreachedin00math` |
+| A discourse delivered on board the transport ship Java, off Quebec (Montreal : Starke, 1843) | have-ocr | IA `discoursedeliver00math` |
+| The Christian's death, no cause for sorrow : a sermon, preached in St. Andrew's Church, Montreal, on Sabbath, 21st May, 1848 (Montreal : Printed by J. Starke & Co., 1848) | have-ocr | IA `christiansdeathn00math` |
+| The moral and religious influences of autumn : a sermon, in three parts, preached in Saint Andrew's Church, Montreal, ("in the fall of the leaf,") 1849 (Montreal : Printed by J. Starke & Co., 1850) | have-ocr | IA `moralreligiousin00math` |
+| A tribute of respect to the memory of a good man (Montreal, Printed by Starke & Co., 1852) | have-ocr | IA `tributeofrespect00math` |
+| A sermon, preached in St. Andrew's church, Quebec, on the 29th May, 1861, at the opening of the Synod of the Presbyterian church of Canada in connection with the Church of Scotland (Montreal, Printed by John Lovell, 1861) | have-ocr | IA `sermonpreachedi00math` |
+| Anniversary sermon delivered by the Rev. Dr. Mathieson before the St. Andrew's society, Montreal, November 30th., 1863 ([Montreal, Becket], 1863) | have-ocr | IA `anniversarysermo00math` |
+| The vanity of earthly objects of attachment (Montreal, Printed by Lovell, 1864) | have-ocr | IA `vanityofearthlyo00math` |
+| Synod reports, the Weir v. Mathieson law reports, and Croil's Life of Mathieson | excluded | |
