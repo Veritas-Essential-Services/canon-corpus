@@ -2114,3 +2114,6 @@
 
 ## 2026-10-23 03:48 CDT — round 72 done
 - hugh-black, s-d-gordon, g-h-morrison, c-silvester-horne: 4 shelves, 53 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:55 CDT — round 73 done
+- charles-e-jefferson, i-m-haldeman, wilbur-fisk, andrew-thomson-edinburgh, george-c-needham, joseph-kinghorn: 6 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
