@@ -20915,6 +20915,10 @@ Shelf: `pipeline/w-w-merry_shelf.json`. Homer's Odyssey I-XII with James Riddell
 | Work | Author | Slug | Status |
 |---|---|---|---|
 | Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., by W. Walter Merry and James Riddell, second edition revised (Oxford: Clarendon Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-odyssey-i-xii-1886` | have-raw (IA `odysseyho01home`) |
+| Selections from Herodotus, edited by W. Walter Merry (Oxford: Clarendon Press, M DCCC XCII [1892]); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-selections-herodotus-1892` | have-raw (IA `selectionsfromhe00herorich`) |
+| Homer, Odyssey Books XIII-XXIV, school edition, by W. W. Merry, Clarendon Press Series (Oxford: Clarendon Press, M DCCC LXXXII [1882]); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-odyssey-xiii-xxiv-1882` | have-raw (IA `odysseybooksxiii00home`) |
+| Aristophanes, The Clouds, with introduction and notes by W. W. Merry, new edition, Clarendon Press Series (Oxford: Clarendon Press, M DCCC LXXXIX [1889]); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-clouds-1889` | have-raw (IA `cloudswithintrod00arisuoft`) |
+| Aristophanes, The Birds, with introduction and notes by W. W. Merry, part I, introduction and text, Clarendon Press Series (Oxford: Clarendon Press; London: Henry Frowde, M DCCC LXXXIX [1889]); Greek-dense, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-birds-1889` | have-raw (IA `birdswithintrodn00arisuoft`) |
 
 ## James S. Reid (1846-1926)
 
