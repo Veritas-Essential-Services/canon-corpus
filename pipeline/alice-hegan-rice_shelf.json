@@ -1,0 +1,153 @@
+{
+ "_about": "Alice Hegan Rice's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Alice Hegan Rice",
+ "_name_words": [
+  "alice",
+  "caldwell",
+  "hegan",
+  "rice"
+ ],
+ "_surname": [
+  "alice hegan rice",
+  "hegan rice",
+  "alice caldwell hegan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ahrice-mrs-wiggs-of-the-cabbage-patch": [
+   4377,
+   "Mrs. Wiggs of the Cabbage Patch"
+  ],
+  "ahrice-lovey-mary": [
+   5970,
+   "Lovey Mary"
+  ],
+  "ahrice-romance-of-billy-goat-hill": [
+   6635,
+   "A Romance of Billy-Goat Hill"
+  ],
+  "ahrice-calvary-alley": [
+   9794,
+   "Calvary Alley"
+  ],
+  "ahrice-sandy": [
+   14079,
+   "Sandy"
+  ],
+  "ahrice-honorable-percival": [
+   15180,
+   "The Honorable Percival"
+  ],
+  "ahrice-miss-minks-soldier-and-other-stories": [
+   15230,
+   "Miss Mink's Soldier and Other Stories"
+  ],
+  "ahrice-quin": [
+   20033,
+   "Quin"
+  ],
+  "ahrice-mr-opp": [
+   25070,
+   "Mr. Opp"
+  ],
+  "ahrice-captain-june": [
+   38228,
+   "Captain June"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ahrice-mrs-wiggs-of-the-cabbage-patch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-lovey-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-romance-of-billy-goat-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-calvary-alley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-sandy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-honorable-percival": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-miss-minks-soldier-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-quin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-mr-opp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahrice-captain-june": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice hegan rice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

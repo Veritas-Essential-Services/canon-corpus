@@ -15665,3 +15665,20 @@ Shelf: `pipeline/major-john-richardson_shelf.json` (2026-10-22; added at the coo
 | Hardscrabble; or, the fall of Chicago: a tale of Indian warfare | have | PG 5169, `jrichardson-hardscrabble` (856 units) |
 | Wau-nan-gee; Or, the Massacre at Chicago: A Romance of the American Revolution | have | PG 31745, `jrichardson-wau-nan-gee` (869 units) |
 | Matilda Montgomerie; Or, The Prophecy Fulfilled | have | PG 39758, `jrichardson-matilda-montgomerie` (1591 units) |
+
+## Alice Hegan Rice
+
+Shelf: `pipeline/alice-hegan-rice_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mrs. Wiggs of the Cabbage Patch | have | PG 4377, `ahrice-mrs-wiggs-of-the-cabbage-patch` (583 units) |
+| Lovey Mary | have | PG 5970, `ahrice-lovey-mary` (625 units) |
+| A Romance of Billy-Goat Hill | have | PG 6635, `ahrice-romance-of-billy-goat-hill` (2239 units) |
+| Calvary Alley | have | PG 9794, `ahrice-calvary-alley` (2582 units) |
+| Sandy | have | PG 14079, `ahrice-sandy` (1437 units) |
+| The Honorable Percival | have | PG 15180, `ahrice-honorable-percival` (1149 units) |
+| Miss Mink's Soldier and Other Stories | have | PG 15230, `ahrice-miss-minks-soldier-and-other-stories` (886 units) |
+| Quin | have | PG 20033, `ahrice-quin` (2531 units) |
+| Mr. Opp | have | PG 25070, `ahrice-mr-opp` (1214 units) |
+| Captain June | have | PG 38228, `ahrice-captain-june` (400 units) |

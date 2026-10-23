@@ -2075,3 +2075,6 @@
 
 ## 2026-10-22 22:43 CDT — major-john-richardson: done
 - major-john-richardson: new shelf, 10 Gutenberg books, 9,619 units, 1276 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — alice-hegan-rice: done
+- alice-hegan-rice: new shelf, 10 Gutenberg books, 13,646 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
