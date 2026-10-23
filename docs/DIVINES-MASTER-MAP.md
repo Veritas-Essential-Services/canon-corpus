@@ -9535,7 +9535,7 @@ Slugs `nwtaylor-*`. Built from title pages read for round 39.
 | Work | Status | Where |
 |---|---|---|
 | Correspondence between Rev. Dr. Taylor and Rev. Dr. Hawes (catalogued 1832) | have-ocr | IA `correspondencebe6atayl` |
-| Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (catalogued 1842) | have-ocr | IA `concioadclerumse00tayl` |
+| Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (New Haven: re-published by A. H. Maltby and Homan Hallock; catalogued 1842) | have-ocr | IA `concioadclerumse00tayl` |
 | Practical Sermons (New York: Clark, Austin & Smith, 1858) | have-ocr | IA `practicalsermons00tayl` |
 | Lectures on the Moral Government of God, vol. I (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg01tayl` |
 | Lectures on the Moral Government of God, vol. II (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg02tayl` |
