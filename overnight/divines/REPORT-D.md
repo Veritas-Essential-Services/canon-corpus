@@ -2693,3 +2693,6 @@
 
 ## 2026-10-22 23:23 CDT — william-hope-hodgson: done
 - william-hope-hodgson: new shelf, 5 Gutenberg books, 6,021 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — corra-harris: done
+- corra-harris: new shelf, 5 Gutenberg books, 3,936 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags.

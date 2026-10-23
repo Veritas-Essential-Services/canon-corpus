@@ -1,0 +1,85 @@
+{
+ "_about": "Corra Harris: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Corra Harris",
+ "_name_words": [
+  "corra",
+  "harris"
+ ],
+ "_surname": [
+  "corra harris",
+  "harris"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "charris-circuit-riders-wife": [
+   23607,
+   "A Circuit Rider's Wife"
+  ],
+  "charris-jessica-letters": [
+   26523,
+   "The Jessica Letters: An Editor's Romance"
+  ],
+  "charris-co-citizens": [
+   30891,
+   "The Co-Citizens"
+  ],
+  "charris-house-of-helen": [
+   60169,
+   "The House of Helen"
+  ],
+  "charris-as-a-woman-thinks": [
+   78847,
+   "As a woman thinks"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "charris-circuit-riders-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corra harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "charris-jessica-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corra harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "charris-co-citizens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corra harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "charris-house-of-helen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corra harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "charris-as-a-woman-thinks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "corra harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

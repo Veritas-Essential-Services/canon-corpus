@@ -44615,3 +44615,15 @@ Shelf: `pipeline/william-hope-hodgson_shelf.json` (2026-10-22; added at the coor
 | The Night Land | have | PG 10662, `whhodgson-night-land` (2283 units) |
 | Carnacki, the Ghost Finder | have | PG 10832, `whhodgson-carnacki-the-ghost-finder` (742 units) |
 | The Ghost Pirates | have | PG 10966, `whhodgson-ghost-pirates` (1800 units) |
+
+## Corra Harris
+
+Shelf: `pipeline/corra-harris_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Circuit Rider's Wife | have | PG 23607, `charris-circuit-riders-wife` (526 units) |
+| The Jessica Letters: An Editor's Romance | have | PG 26523, `charris-jessica-letters` (426 units) |
+| The Co-Citizens | have | PG 30891, `charris-co-citizens` (1112 units) |
+| The House of Helen | have | PG 60169, `charris-house-of-helen` (1056 units) |
+| As a woman thinks | have | PG 78847, `charris-as-a-woman-thinks` (816 units) |
