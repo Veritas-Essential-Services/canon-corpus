@@ -10667,3 +10667,12 @@ Shelf: `pipeline/mitchell-carroll_shelf.json`. Greek Women (copyright 1907). Cle
 |---|---|---|---|
 | Greek Women (copyright 1907) |  | `carroll-greek-women-1907` | have (PG 32318) |
 
+
+## Robert William Browne (1809-1895)
+
+Shelf: `pipeline/r-w-browne_shelf.json`. A History of Roman Classical Literature (London: Bentley, 1853). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Roman Classical Literature (London: Bentley, 1853) |  | `browne-history-roman-classical-literature-1853` | have (PG 59455) |
+

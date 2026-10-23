@@ -1,0 +1,36 @@
+{
+ "_about": "R. W. Browne (1809-1895), King's College London: A History of Roman Classical Literature (1853). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Robert William Browne (1809-1895)",
+ "_name_words": [
+  "browne",
+  "robert",
+  "william",
+  "roman",
+  "classical",
+  "literature"
+ ],
+ "_surname": [
+  "r. w. browne",
+  "robert william browne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "browne-history-roman-classical-literature-1853": [
+   59455,
+   "A History of Roman Classical Literature (London: Bentley, 1853)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "browne-history-roman-classical-literature-1853": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. w. browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
