@@ -1,0 +1,66 @@
+{
+ "_about": "A. S. Wilkins (1843-1905), Professor of Latin at Owens College, Manchester: M. Tulli Ciceronis De Oratore Libri Tres, with introduction and notes (Oxford: Clarendon Press), Liber I third edition (1895), Liber II (1881), Liber III (1892), raw IA; Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions.",
+ "_author": "Augustus Samuel Wilkins (1843-1905)",
+ "_name_words": [
+  "wilkins",
+  "oratore",
+  "cicero"
+ ],
+ "_surname": [
+  "augustus s. wilkins",
+  "a. s. wilkins",
+  "wilkins, augustus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-s-wilkins-de-oratore-i-1895": [
+   "deoratorelibri00cice",
+   "M. Tulli Ciceronis De Oratore, Liber I, with introduction and notes, third edition (Oxford: Clarendon Press, 1895)"
+  ],
+  "a-s-wilkins-de-oratore-ii-1881": [
+   "mtulliiciceroni00wilkgoog",
+   "M. Tullii Ciceronis De Oratore ad Quintum Fratrem, Liber II, with introduction and notes (Oxford: Clarendon Press, MDCCCLXXXI)"
+  ],
+  "a-s-wilkins-de-oratore-iii-1892": [
+   "mtulliciceronis00wilkgoog",
+   "M. Tulli Ciceronis De Oratore, Liber III, with introduction and notes (Oxford: Clarendon Press, MDCCCXCII)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "a-s-wilkins-de-oratore-i-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus s. wilkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "a-s-wilkins-de-oratore-ii-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus s. wilkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "a-s-wilkins-de-oratore-iii-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus s. wilkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
