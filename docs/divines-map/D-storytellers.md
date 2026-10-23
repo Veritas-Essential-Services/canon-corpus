@@ -21135,3 +21135,40 @@ Shelf: `pipeline/storytellers-tail-45_shelf.json` (2026-10-22; added at the coor
 | In Quest of Gold; Or, Under the Whanga Falls | have | PG 42829, `astjohnston-in-quest-of-gold` (1357 units) |
 | The Way of the Wild | have | PG 17567, `fstmars-way-of-the-wild` (1273 units) |
 | Thornley Colton | have | PG 78643, `chstagg-thornley-colton` (2433 units) |
+
+## Storytellers' tail, group 46 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-46_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: P.-J. Stahl, Roger Starbuck, Harriet Stark, Robert Steele, Eva Stern, George T. Stevens, Isaac Newton Stevens, W. Grant Stevenson, Cal Stewart, C. H. Stigand, Herbert Baird Stimpson, Lorimer Stoddard, James Madison Stone, Louis Stone, I. B. Stoughton Holborn, Marion Cook Stow, Lilyan Stratton, Jane Margaret Strickland, Idah Meacham Strobridge, Eleanor Stuart, Henry Longan Stuart, Sui Sin Far, George C. Sumner, E. G. Swain, Mark Swan, Alexander Sweeney, James Selwin Tait, Caroline Sturgis Tappan, Jemima Montgomery Tautphoeus, George A. Taylor. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Butterfly Chase | have | PG 54725, `pstahl-butterfly-chase` (131 units) |
+| The Golden Harpoon; Or, Lost Among the Floes: A Story of the Whaling Grounds | have | PG 64999, `rstarbuck-golden-harpoon` (788 units) |
+| The bacillus of beauty | have | PG 9081, `hstark-bacillus-of-beauty` (2475 units) |
+| The Story of Alexander | have | PG 64991, `rsteele-story-of-alexander` (404 units) |
+| The little immigrant | have | PG 7090, `estern-little-immigrant` (147 units) |
+| Three years in the Sixth Corps | have | PG 21976, `gtstevens-three-years-in-the-sixth-corps` (1428 units) |
+| An American Suffragette | have | PG 22285, `instevens-american-suffragette` (700 units) |
+| Wee Johnnie Paterson, & other humorous sketches | have | PG 76637, `wgstevenson-wee-johnnie-paterson-other-humorous-sketches` (544 units) |
+| Uncle Josh's Punkin Centre Stories | have | PG 970, `cstewart-uncle-josh-s-punkin-centre-stories` (306 units) |
+| Black Tales for White Children | have | PG 38992, `chstigand-black-tales-for-white-children` (1244 units) |
+| The Tory Maid | have | PG 20678, `hbstimpson-tory-maid` (828 units) |
+| The Indian's Hand 1892 | have | PG 23178, `lstoddard-indian-s-hand-1892` (102 units) |
+| Personal Recollections of the Civil War By One Who Took Part in It as a Private Soldier in the 21st Volunteer Regiment of Infantry from Massachusetts | have | PG 33179, `jmstone-personal-recollections-of-the-civil-war-by-one-who-t` (334 units) |
+| Jonah | have | PG 3678, `lstone-jonah` (1532 units) |
+| The Child of the Moat: A Story for Girls. 1557 A.D. | have | PG 53281, `ibstoughtonhol-child-of-the-moat` (2560 units) |
+| The Child and the Dream: A Christmas Story | have | PG 67034, `mcstow-child-and-the-dream` (125 units) |
+| Reno — a Book of Short Stories and Information | have | PG 5951, `lstratton-reno-a-book-of-short-stories-and-information` (817 units) |
+| Adonijah: A Tale of the Jewish Dispersion. | have | PG 49663, `jmstrickland-adonijah` (570 units) |
+| The Loom of the Desert | have | PG 67347, `imstrobridge-loom-of-the-desert` (700 units) |
+| Stonepastures | have | PG 69427, `estuart-stonepastures` (501 units) |
+| Fenella | have | PG 75372, `hlstuart-fenella` (2523 units) |
+| Mrs. Spring Fragrance | have | PG 62940, `suisinfar-mrs-spring-fragrance` (2110 units) |
+| Battery D First Rhode Island Light Artillery in the Civil War | have | PG 58833, `gcsumner-battery-d-first-rhode-island-light-artillery-in-the` (1083 units) |
+| The Stoneground Ghost Tales Compiled from the recollections of the Reverend Roland Batchel, Vicar of the parish. | have | PG 44581, `egswain-stoneground-ghost-tales-compiled-from-the-recollecti` (620 units) |
+| Top o' the World: A Once Upon a Time Tale | have | PG 59182, `mswan-top-o-the-world` (556 units) |
+| History of Company K of the 140th Regiment Pennsylvania Volunteers (1862-'65) | have | PG 45626, `asweeney-history-of-company-k-of-the-140th-regiment-pennsylv` (259 units) |
+| My Friend Pasquale, and Other Stories | have | PG 49484, `jstait-my-friend-pasquale-and-other-stories` (1285 units) |
+| The Magician's Show Box, and Other Stories | have | PG 8415, `cstappan-magician-s-show-box-and-other-stories` (696 units) |
+| The Initials: A Story of Modern Life | have | PG 58908, `jmtautphoeus-initials` (4807 units) |
+| The Sequel What the Great War will mean to Australia | have | PG 27382, `gataylor-sequel-what-the-great-war-will-mean-to-australia` (945 units) |
