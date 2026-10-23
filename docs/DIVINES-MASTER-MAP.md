@@ -12816,6 +12816,24 @@ Slugs `fclose-*`. Built from title pages read for round 63.
 | 556850100closuoft: The Restoration of Churches is the Restoration of Popery (1844), a sermon in the parish church of Cheltenham; the OCR of its title page is too garbled to show the preacher's name; to be read from the page image | pending | not shelved |
 | footstepserrort00closgoog: The Footsteps of Error (1863), a reply to Colenso catalogued under Close; nothing in the opening of the scan names him, so the attribution is unconfirmed | pending | not shelved |
 | Other Closes; the Cheltenham commemoration volumes by others | excluded | |
+
+## Orville Dewey (round 64, my pick, 2026-10-23)
+
+Slugs `odewey-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on various subjects (New York, D. Felt & co., 1835) | have-ocr | IA `discoursesonvari00dewe` |
+| The Old world and the New : or, A journal of reflections and observations made on a tour in Europe (New York : Harper & Brothers, 1836) | have-ocr | IA `cu31924104095579` |
+| Moral views of commerce society and politics in twelve discourses ([n.p.], 1838) | have-ocr | IA `moralviewsofcomm00dewe` |
+| The works of Orville Dewey, D.D (London : Simms and M'Intyre, 1844) | have-ocr | IA `worksoforvillede00dewe` |
+| Discourses on human nature, human life, and the nature of religion (New York, C. S. Francis & Co., 1847) | have-ocr | IA `discoursesonhuma00dewe_0` |
+| Discourses and Reviews Upon Questions in Controversial Theology and Practical Religion (C. S. Francis, 1852) | have-ocr | IA `discoursesandre00dewegoog` |
+| The laws of human progress and modern reforms. A lecture delivered before the Mercantile library (New York, C.S. Francis & Company ; Boston, Crosby & Nichols, 1852) | have-ocr | IA `lawsofhumanprogr00dewe` |
+| Discourses on the Nature of Religion: And on Commerce and Business; with (C. S. Francis and co., 1855) | have-ocr | IA `discoursesonnat00dewegoog` |
+| The problem of human destiny : or, The end of Providence in the world and man (New York : J. Miller, 1864) | have-ocr | IA `theproblemofhuma00deweuoft` |
+| The two great commandments: sermons (J. Miller, 1876, 1876) | have-ocr | IA `twogreatcommand00dewegoog` |
+| John Dewey and Melvil Dewey; The Pitts-Street Chapel Lectures and The New Discussion of the Trinity (several hands) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain Orville Dewey (1794-1882), Unitarian minister of the Church of the Messiah, New York, for the Word Hoard: Discourses on Various Subjects (1835), The Old World and the New (1836), Moral Views of Commerce, Society and Politics (1838), The Works of Orville Dewey (1844), Discourses on Human Nature, Human Life and the Nature of Religion (1847), Discourses and Reviews upon Questions in Controversial Theology (1852), The Laws of Human Progress (1852), Discourses on the Nature of Religion (1855), The Problem of Human Destiny (1864) and The Two Great Commandments (1876). John Dewey, on his own shelf, is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "dewey"
+ ],
+ "_surname": [
+  "orville dewey",
+  "o. dewey",
+  "orville dewey, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "odewey-various-subjects": [
+   "discoursesonvari00dewe",
+   "Discourses on various subjects (New York, D. Felt & co., 1835)"
+  ],
+  "odewey-old-world-new": [
+   "cu31924104095579",
+   "The Old world and the New : or, A journal of reflections and observations made on a tour in Europe (New York : Harper & Brothers, 1836)"
+  ],
+  "odewey-moral-views-commerce": [
+   "moralviewsofcomm00dewe",
+   "Moral views of commerce society and politics in twelve discourses ([n.p.], 1838)"
+  ],
+  "odewey-works-1844": [
+   "worksoforvillede00dewe",
+   "The works of Orville Dewey, D.D (London : Simms and M'Intyre, 1844)"
+  ],
+  "odewey-human-nature": [
+   "discoursesonhuma00dewe_0",
+   "Discourses on human nature, human life, and the nature of religion (New York, C. S. Francis & Co., 1847)"
+  ],
+  "odewey-controversial-theology": [
+   "discoursesandre00dewegoog",
+   "Discourses and Reviews Upon Questions in Controversial Theology and Practical Religion (C. S. Francis, 1852)"
+  ],
+  "odewey-human-progress": [
+   "lawsofhumanprogr00dewe",
+   "The laws of human progress and modern reforms. A lecture delivered before the Mercantile library (New York, C.S. Francis & Company ; Boston, Crosby & Nichols, 1852)"
+  ],
+  "odewey-nature-of-religion": [
+   "discoursesonnat00dewegoog",
+   "Discourses on the Nature of Religion: And on Commerce and Business; with (C. S. Francis and co., 1855)"
+  ],
+  "odewey-human-destiny": [
+   "theproblemofhuma00deweuoft",
+   "The problem of human destiny : or, The end of Providence in the world and man (New York : J. Miller, 1864)"
+  ],
+  "odewey-two-great-commandments": [
+   "twogreatcommand00dewegoog",
+   "The two great commandments: sermons (J. Miller, 1876, 1876)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "odewey-other": "John Dewey and Melvil Dewey; The Pitts-Street Chapel Lectures and The New Discussion of the Trinity (several hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "odewey-two-great-commandments": "title page (after the Google notice): 'The Two Great Commandments, sermons by the Rev. Obville [Orville] Dewey' (New York: James Miller, 1876)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "odewey-various-subjects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "odewey-old-world-new": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "odewey-moral-views-commerce": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "odewey-works-1844": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "odewey-human-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "odewey-controversial-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "odewey-human-progress": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "odewey-nature-of-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "odewey-human-destiny": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orville dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "odewey-two-great-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
