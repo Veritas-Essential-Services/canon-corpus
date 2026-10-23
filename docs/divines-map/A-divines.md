@@ -13490,3 +13490,28 @@ Slugs `black-*`. Built from title pages read for round 72.
 | "Lest We Forget" (copyright 1920) | have-ocr | IA `lestweforget0000hugh` |
 | The Cleavage of the World (London: Hodder and Stoughton, 1920) | have-ocr | IA `cleavageofworldy00blacuoft` |
 | The adventure of being man (Garden City, N.Y. : Doubleday, Doran & Co., 1929) | have-ocr | IA `adventureofbeing00blac` |
+
+## S. D. Gordon (round 72, my pick, 2026-10-23)
+
+Slugs `gordon-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Quiet talks on power (New York: Fleming H. Revell, copyright 1903) | have-ocr | IA `quiettalksonpowe00gordiala` |
+| Quiet talks on prayer (New York: Fleming H. Revell, copyright 1904) | have-ocr | IA `quiettalksonpray00gorduoft` |
+| Quiet talks about Jesus (New York : A.C. Armstrong, 1906) | have-ocr | IA `quiettalksaboutj00gord_0` |
+| Quiet talks on service (New York: Fleming H. Revell, copyright 1906) | have-ocr | IA `quiettalksonserv00gorduoft` |
+| Quiet talks on personal problems (New York, A. C. Armstrong & son, 1907) | have-ocr | IA `quiettalksonpers00gord` |
+| Quiet talks with world winners (London : Hodder and Stoughton, 1908) | have-ocr | IA `quiettalkswithwo0000gord` |
+| Quiet talks on home ideals (New York : Fleming H. Revell, 1909) | have-ocr | IA `quiettalksonhome00gord` |
+| Quiet talks about the tempter (New York: Fleming H. Revell, copyright 1910) | have-ocr | IA `quiettalksaboutt00gorduoft` |
+| Quiet talks about Our Lord's return (New York ; Chicago [etc.] : Fleming H. Revell company, 1912) | have-ocr | IA `quiettalksabouto00gord` |
+| Quiet talks on following the Christ (New York, Fleming H. Revell Co, 1913) | have-ocr | IA `quiettalksonfoll00gord` |
+| Quiet talks about the crowned Christ (New York, Chicago: Fleming H. Revell Co., 1914) | have-ocr | IA `quiettalksaboutc00gord` |
+| Quiet talks on John's Gospel (New York, Chicago [etc.] Fleming H. Revell Company, 1915) | have-ocr | IA `quiettalksonjohn00gord` |
+| A quiet talk with those who weep (New York, Chicago [etc.] Fleming H. Revell company, 1915) | have-ocr | IA `quiettalkwiththo00gord` |
+| The bent-knee time; a bit for every day of the year (Philadelphia, American Sunday-school union, 1918) | have-ocr | IA `bentkneetimebitf00gord` |
+| Quiet talks about life after death (New York : Fleming H. Revell Co., 1920) | have-ocr | IA `quiettalksaboutl00gord` |
+| Quiet talks about simple essentials and the present world outlook (New York : F.H. Revell, 1924) | have-ocr | IA `quiettalksabouts0000gord` |
+| Quiet talks about the healing Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1924) | have-ocr | IA `quiettalksabouth00gord` |
+| Quiet Talks on How to Pray (New York: Fleming H. Revell, copyright 1929) | have-ocr | IA `quiettalksonhowt0000gord` |
