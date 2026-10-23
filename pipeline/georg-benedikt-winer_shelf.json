@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Georg Benedikt Winer (1789-1858), Leipzig Lutheran biblical scholar, for the Word Hoard: A Comparative View of the Doctrines and Confessions of the Various Communities of Christendom (Clark, 1873), A Grammar of the Idiom of the New Testament (Thayer's revision, Andover 1869), A Treatise on the Grammar of New Testament Greek (Moulton's translation, Clark 1870) and the Grammar of the Chaldee Language (Andover 1845), from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "winer"
+ ],
+ "_surname": [
+  "g. b. winer",
+  "george benedict winer",
+  "georg benedikt winer",
+  "winer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "winer-comparative-view": [
+   "comparativeviewo00wineuoft",
+   "A comparative view of the doctrines and confessions of the various communities of Christendom, with illustrations from their original standards (Edinburgh, Clark, 1873)"
+  ],
+  "winer-grammar-thayer-1869": [
+   "grammarofidiomof00wine",
+   "A grammar of the idiom of the New Testament (Andover, W. F. Draper; Philadelphia, Smith, English, & co.; [etc., etc.], 1869)"
+  ],
+  "winer-grammar-moulton-1870": [
+   "atreatiseongram00moulgoog",
+   "A Treatise on the Grammar of New Testament Greek, regarded as the basis of New Testament exegesis (Edinburgh: T. & T. Clark, 1870)"
+  ],
+  "winer-chaldee-grammar": [
+   "grammarofchaldee00wine",
+   "Grammar of the Chaldee language :  as contained in the Bible and the Targums (Andover : Allen, Morrill and Wardwell, 1845)"
+  ]
+ },
+ "_alternates": {
+  "winer-copies": "Earlier English versions of the NT grammar (Stuart and Robinson 1825, Agnew and Ebbeke 1840, Masson 1859-1861) and later printings"
+ },
+ "_excluded": {
+  "winer-other": "German and Latin works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "winer-chaldee-grammar": "Hackett",
+  "winer-grammar-thayer-1869": "Thayer",
+  "winer-grammar-moulton-1870": "Moulton"
+ },
+ "_checks": {
+  "winer-comparative-view": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george benedict winer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "winer-grammar-thayer-1869": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george benedict winer",
+   "translator_claimed": "Thayer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "winer-grammar-moulton-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. b. winer",
+   "translator_claimed": "Moulton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "winer-chaldee-grammar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winer",
+   "translator_claimed": "Hackett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

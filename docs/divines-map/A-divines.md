@@ -10971,3 +10971,16 @@ Slugs `auberlen-*`. Built from title pages read for round 48.
 | The divine revelation : an essay in defence of the faith (Edinburgh, T. and T. Clark, 1867) | have-ocr | IA `divinerevelation00aube` |
 | The Prophecies of Daniel and the Revelation of St John (1856): its scan propheciesofdani00aube is already held on another branch, so not taken here | pending | not shelved |
 | The Foundations of our Faith (1863, ten papers by several authors); German works | excluded | |
+
+## Georg Benedikt Winer (round 48, my pick, 2026-10-23)
+
+Slugs `winer-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| A comparative view of the doctrines and confessions of the various communities of Christendom, with illustrations from their original standards (Edinburgh, Clark, 1873) | have-ocr | IA `comparativeviewo00wineuoft` |
+| A grammar of the idiom of the New Testament (Andover, W. F. Draper; Philadelphia, Smith, English, & co.; [etc., etc.], 1869) | have-ocr | IA `grammarofidiomof00wine` |
+| A Treatise on the Grammar of New Testament Greek, regarded as the basis of New Testament exegesis (Edinburgh: T. & T. Clark, 1870) | have-ocr | IA `atreatiseongram00moulgoog` |
+| Grammar of the Chaldee language :  as contained in the Bible and the Targums (Andover : Allen, Morrill and Wardwell, 1845) | have-ocr | IA `grammarofchaldee00wine` |
+| Earlier English versions of the NT grammar (Stuart and Robinson 1825, Agnew and Ebbeke 1840, Masson 1859-1861) and later printings | alternate | not shelved |
+| German and Latin works | excluded | |
