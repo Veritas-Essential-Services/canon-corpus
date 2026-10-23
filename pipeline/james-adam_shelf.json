@@ -1,12 +1,13 @@
 {
- "_about": "James Adam (1860-1907), Cambridge Platonist, editor of the Republic. Raw IA OCR: The Religious Teachers of Greece, Gifford lectures delivered in Aberdeen in 1904-06, edited with a memoir by his wife Adela Marion Adam (Edinburgh: T. & T. Clark; printed for the University of Aberdeen, 1908). His commentaries, taken 2026-10-23 under Adam's ruling on Greek-facing editions: The Republic of Plato, edited with critical notes, commentary and appendices (Cambridge, 2 vols., 1902) and the Protagoras (with A. M. Adam, 1893); also The Vitality of Platonism (1911) and The Nuptial Number of Plato (1891). US public domain. No uids minted.",
+ "_about": "James Adam (1860-1907), Cambridge Platonist, editor of the Republic. Raw IA OCR: The Religious Teachers of Greece, Gifford lectures delivered in Aberdeen in 1904-06, edited with a memoir by his wife Adela Marion Adam (Edinburgh: T. & T. Clark; printed for the University of Aberdeen, 1908). His commentaries, taken 2026-10-23 under Adam's ruling on Greek-facing editions: The Republic of Plato, edited with critical notes, commentary and appendices (Cambridge, 2 vols., 1902) and the Protagoras (with A. M. Adam, 1893); also The Vitality of Platonism (1911) and The Nuptial Number of Plato (1891). US public domain. No uids minted. Round dy (2026-10-23), raw IA: his Pitt Press Crito (second edition, 1893, taken over the 1888 first edition's scan because its English OCRs far cleaner, 0.96 against 0.80) and Apology (new edition, 1891), and the 1895 paper on the value of classical education.",
  "_author": "James Adam",
  "_name_words": [
   "james",
   "adam"
  ],
  "_surname": [
-  "james adam"
+  "james adam",
+  "j. adam"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -34,6 +35,18 @@
   "james-adam-protagoras-1893": [
    "protagoraswithin00platuoft",
    "Platonis Protagoras, with introduction, notes and appendices, by J. Adam and A. M. Adam (Cambridge: University Press, 1893; this copy a later printing); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "james-adam-crito-1893": [
+   "platoniscrito00plat",
+   "Platonis Crito, with introduction, notes and appendix by J. Adam, second edition (Pitt Press Series; Cambridge: at the University Press, 1893); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "james-adam-apology-1891": [
+   "platonisapologia00plat",
+   "Platonis Apologia Socratis, with introduction, notes and appendices by J. Adam, new edition (Pitt Press Series; Cambridge: at the University Press, 1891); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "james-adam-value-of-classical-education-1895": [
+   "intellectualethi00adam",
+   "The Intellectual and Ethical Value of Classical Education, by J. Adam (Cambridge: Deighton, Bell, 1895; from the Emmanuel College Magazine)"
   ]
  },
  "_excluded": {},
@@ -102,6 +115,39 @@
    "ia_rights": "ok: published 1893",
    "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "james-adam-crito-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "james-adam-apology-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "james-adam-value-of-classical-education-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
