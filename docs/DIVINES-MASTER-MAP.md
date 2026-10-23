@@ -21029,6 +21029,16 @@ Shelf: `pipeline/g-e-underhill_shelf.json`. New shelf, round dv. Raw IA OCR, eve
 |---|---|---|---|
 | A Commentary with introduction and appendix on the Hellenica of Xenophon, by G. E. Underhill (Oxford: Clarendon Press, M DCCCC [1900]) |  | `g-e-underhill-commentary-hellenica-1900` | have-raw (IA `cu31924091301238`) |
 
+## Herbert Weir Smyth (1857-1937)
+
+Shelf: `pipeline/h-w-smyth_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Dialects of North Greece, by Herbert Weir Smyth (Baltimore: Press of Isaac Friedenwald, 1887; reprinted from the American Journal of Philology) |  | `h-w-smyth-dialects-north-greece-1887` | have-raw (IA `dialectsofnorthg00smytrich`) |
+| The Sounds and Inflections of the Greek Dialects: Ionic, by Herbert Weir Smyth (Oxford: Clarendon Press, 1894) |  | `h-w-smyth-sounds-inflections-ionic-1894` | have-raw (IA `soundsinflection00smytuoft`) |
+| Greek Melic Poets, by Herbert Weir Smyth (London: Macmillan; New York: Macmillan, 1900) |  | `h-w-smyth-greek-melic-poets-1900` | have-raw (IA `greekmelicpoets00smytuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
