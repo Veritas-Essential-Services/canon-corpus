@@ -1,0 +1,33 @@
+{
+ "_about": "Edmund Henry Oliver (1882-1935), Canadian historian, raw IA OCR of Roman Economic Conditions to the Close of the Republic (University of Toronto, 1907). Ancient economic history (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Edmund Henry Oliver",
+ "_name_words": [
+  "oliver"
+ ],
+ "_surname": [
+  "edmund henry oliver",
+  "oliver"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-h-oliver-roman-economic-conditions-1907": [
+   "romaneconomiccon00olivuoft",
+   "Roman Economic Conditions to the Close of the Republic, by Edmund Henry Oliver (Toronto: University of Toronto Library, 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-h-oliver-roman-economic-conditions-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund henry oliver",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
