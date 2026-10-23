@@ -10713,3 +10713,12 @@ Shelf: `pipeline/wilton-w-blancke_shelf.json`. The Dramatic Values in Plautus (1
 |---|---|---|---|
 | The Dramatic Values in Plautus (1918) |  | `blancke-dramatic-values-plautus-1918` | have (PG 9970) |
 
+
+## Arthur Edward Romilly Boak (1888-1962)
+
+Shelf: `pipeline/a-e-r-boak_shelf.json`. A History of Rome to 565 A.D. (New York: Macmillan, 1921) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Rome to 565 A.D. (New York: Macmillan, 1921) |  | `boak-history-of-rome-565-1921` | have-raw (IA `cu31924028286726`) |
+
