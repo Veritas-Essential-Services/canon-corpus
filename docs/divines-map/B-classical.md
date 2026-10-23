@@ -9543,3 +9543,12 @@ Shelf: `pipeline/denton-j-snider_shelf.json`. Ancient European Philosophy (1903)
 |---|---|---|---|
 | Ancient European Philosophy: the History of Greek Philosophy Psychologically Treated (1903) |  | `snider-ancient-european-philosophy-1903` | have-raw (IA `ancienteuropeanp00sniduoft`) |
 
+
+## Renn Dickson Hampden (1793-1868)
+
+Shelf: `pipeline/r-d-hampden_shelf.json`. The Fathers of Greek Philosophy (1862). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Fathers of Greek Philosophy (1862) |  | `hampden-fathers-greek-philosophy-1862` | have-raw (IA `fathersgreekphi01hampgoog`) |
+
