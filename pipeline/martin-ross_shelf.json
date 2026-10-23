@@ -1,0 +1,201 @@
+{
+ "_about": "Martin Ross's (Violet Martin's) Irish stories and novels, most written with E. Œ. Somerville. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Martin Ross",
+ "_name_words": [
+  "martin",
+  "ross"
+ ],
+ "_surname": [
+  "martin ross"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mross-mount-music": [
+   14025,
+   "Mount Music"
+  ],
+  "mross-all-on-the-irish-shore": [
+   16766,
+   "All on the Irish Shore: Irish Sketches"
+  ],
+  "mross-some-experiences-of-an-irish-r-m": [
+   34630,
+   "Some Experiences of an Irish R.M."
+  ],
+  "mross-in-mr-knoxs-country": [
+   38062,
+   "In Mr. Knox's Country"
+  ],
+  "mross-further-experiences-of-an-irish-r-m": [
+   38108,
+   "Further Experiences of an Irish R.M."
+  ],
+  "mross-some-irish-yesterdays": [
+   53348,
+   "Some Irish Yesterdays"
+  ],
+  "mross-irish-cousin": [
+   58633,
+   "An Irish Cousin; vol. 1/2"
+  ],
+  "mross-irish-cousin-58634": [
+   58634,
+   "An Irish Cousin; vol. 2/2"
+  ],
+  "mross-real-charlotte": [
+   59138,
+   "The Real Charlotte"
+  ],
+  "mross-beggars-on-horseback": [
+   59158,
+   "Beggars on Horseback; A riding tour in North Wales"
+  ],
+  "mross-through-connemara-in-a-governess-cart": [
+   59349,
+   "Through Connemara in a governess cart"
+  ],
+  "mross-silver-fox": [
+   59370,
+   "The Silver Fox"
+  ],
+  "mross-in-the-vine-country": [
+   59454,
+   "In the vine country"
+  ],
+  "mross-irish-memories": [
+   61336,
+   "Irish Memories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mross-mount-music": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-all-on-the-irish-shore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-some-experiences-of-an-irish-r-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-in-mr-knoxs-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-further-experiences-of-an-irish-r-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-some-irish-yesterdays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-irish-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-irish-cousin-58634": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-real-charlotte": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-beggars-on-horseback": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-through-connemara-in-a-governess-cart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-silver-fox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-in-the-vine-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mross-irish-memories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

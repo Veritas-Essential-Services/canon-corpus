@@ -39904,3 +39904,24 @@ Shelf: `pipeline/laura-rountree-smith_shelf.json` (2026-10-22; added at the coor
 | The Roly-Poly book | have | PG 69076, `lrsmith-roly-poly-book` (778 units) |
 | Polite bunny | have | PG 70490, `lrsmith-polite-bunny` (754 units) |
 | Three little kittens who lost their mittens | have | PG 71710, `lrsmith-three-little-kittens-who-lost-their-mittens` (354 units) |
+
+## Martin Ross
+
+Shelf: `pipeline/martin-ross_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish stories (with E. Œ. Somerville). Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mount Music | have | PG 14025, `mross-mount-music` (1807 units) |
+| All on the Irish Shore: Irish Sketches | have | PG 16766, `mross-all-on-the-irish-shore` (1058 units) |
+| Some Experiences of an Irish R.M. | have | PG 34630, `mross-some-experiences-of-an-irish-r-m` (1277 units) |
+| In Mr. Knox's Country | have | PG 38062, `mross-in-mr-knoxs-country` (1535 units) |
+| Further Experiences of an Irish R.M. | have | PG 38108, `mross-further-experiences-of-an-irish-r-m` (1271 units) |
+| Some Irish Yesterdays | have | PG 53348, `mross-some-irish-yesterdays` (646 units) |
+| An Irish Cousin; vol. 1/2 | have | PG 58633, `mross-irish-cousin` (955 units) |
+| An Irish Cousin; vol. 2/2 | have | PG 58634, `mross-irish-cousin-58634` (1026 units) |
+| The Real Charlotte | have | PG 59138, `mross-real-charlotte` (2361 units) |
+| Beggars on Horseback; A riding tour in North Wales | have | PG 59158, `mross-beggars-on-horseback` (250 units) |
+| Through Connemara in a governess cart | have | PG 59349, `mross-through-connemara-in-a-governess-cart` (791 units) |
+| The Silver Fox | have | PG 59370, `mross-silver-fox` (471 units) |
+| In the vine country | have | PG 59454, `mross-in-the-vine-country` (299 units) |
+| Irish Memories | have | PG 61336, `mross-irish-memories` (1305 units) |
