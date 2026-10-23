@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain Nehemiah Adams (1806-1878), Congregational minister of the Essex Street Church, Boston, for the Word Hoard: Remarks on the Unitarian Belief (1832), The Baptized Child (1842), The Life of John Eliot (1847), The Friends of Christ in the New Testament (1853), Christ a Friend (1854), A South-Side View of Slavery (1854), The Communion Sabbath (1856), Agnes and the Key of her Little Coffin (1857), The Reasonableness of Future, Endless Punishment (1858), Why am I a Trinitarian Congregationalist? (1858) and Catharine (1859). from Internet Archive scans. Added 2026-10-23 by lane A, round 60 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "adams"
+ ],
+ "_surname": [
+  "nehemiah adams",
+  "n. adams",
+  "rev. nehemiah adams"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nadams-unitarian-belief": [
+   "remarksonunitar01adamgoog",
+   "Remarks on the Unitarian belief : with a letter to a Unitarian friend on the Lord's supper (Boston : Peirce and Parker, 1832)"
+  ],
+  "nadams-baptized-child": [
+   "baptizedchild00adamgoog",
+   "The Baptized Child (catalogued 1842)"
+  ],
+  "nadams-john-eliot": [
+   "lifeofjohneliotw00adamuoft",
+   "The life of John Eliot; with an account of the early missionary efforts among the Indians of New England (Boston, Massachusetts Sabbath School Society, 1847)"
+  ],
+  "nadams-friends-of-christ": [
+   "cu31924029328857",
+   "The friends of Christ in the New Testament: thirteen discourses (Boston : T.R. Marvin, 1853)"
+  ],
+  "nadams-christ-a-friend": [
+   "christfriendthir00adam",
+   "Christ a friend : thirteen discourses (Boston : John P. Jewett, 1855)"
+  ],
+  "nadams-south-side-view": [
+   "southsideviewofs00adamuoft",
+   "A South-side view of slavery; or, Three months at the South in 1854 (Boston, T.R. Marvin, 1855)"
+  ],
+  "nadams-communion-sabbath": [
+   "communionsabbath00adam",
+   "The communion sabbath (Boston : J.P. Jewett, 1856)"
+  ],
+  "nadams-agnes": [
+   "agneskeyofherlit00adam",
+   "Agnes and the key of her little coffin (Boston, S. K. Whipple and Company, 1857)"
+  ],
+  "nadams-endless-punishment": [
+   "reasonablenessof00adam",
+   "The reasonableness of future, endless punishment / by Nehemiah Adams (Gould and Lincoln, 1858)"
+  ],
+  "nadams-trinitarian": [
+   "whyamitrinitaria00adam",
+   "Why am I a Trinitarian Congregationalist? (catalogued 1858)"
+  ],
+  "nadams-catharine": [
+   "catharine00adamrich",
+   "Catharine (Boston: J. E. Tilton and Company. New York: Sheldon & Co. London; Knight & Son, 1859)"
+  ]
+ },
+ "_alternates": {
+  "nadams-unitarian-belief": "remarksonunitari00adam (the same 1832 printing; its title page is garbled in the OCR) swapped for this Google scan, whose title page reads 'By Nehemiah Adams, Pastor of the First Church of Christ in Cambridge'"
+ },
+ "_excluded": {
+  "nadams-other": "Thomas Shepard's Autobiography (1832), which he only edited; the 1859 Discussion of future punishment (a debate with others); the Essex Street memorial volume (by the church)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "nadams-baptized-child": "title page (after the Google notice): 'The Baptized Child, BrNEHEMIAH ADAMS [by Nehemiah Adams]', Massachusetts Sabbath School Society; copyright 'in the year 1836, by Nehemiah Adams'",
+  "nadams-john-eliot": "title page: 'The Life of John Eliot, with an account of the early missionary efforts among the Indians of New England, by Nehemlah [Nehemiah] Adams, Pastor of Essex Street Church, Boston'",
+  "nadams-agnes": "published anonymously, 'by her father' (Boston: S. K. Whipple, 1857); the Library of Congress copy is catalogued under Nehemiah Adams, and Catharine (also on this shelf) is 'by the author of Agnes and the Little Key'",
+  "nadams-catharine": "published anonymously: title page 'Catharine, by the author of \"Agnes and the Little Key\"' (Boston: J. E. Tilton, 1859), dedicated 'to the young ladies of my congregation'; catalogued under Nehemiah Adams"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nadams-unitarian-belief": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nadams-baptized-child": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nadams-john-eliot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nadams-friends-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nadams-christ-a-friend": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855, c1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nadams-south-side-view": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nadams-communion-sabbath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nadams-agnes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "nadams-endless-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nadams-trinitarian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nehemiah adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nadams-catharine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

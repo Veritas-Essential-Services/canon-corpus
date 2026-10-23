@@ -12511,3 +12511,23 @@ Slugs `cheever-*`. Built from title pages read for round 60.
 | God against slavery: and the freedom and duty of the pulpit to rebuke it, as a sin against God (Cincinnati: Am. Reform Tract and Book Society, 1857) | have-ocr | IA `godagainstslave00chee` |
 | The guilt of slavery and the crime of slaveholding, demonstrated from the Hebrew and Greek scriptures (Boston, J. P. Jewett & company, 1860) | have-ocr | IA `guiltofslaverycr00chee` |
 | Anthologies he compiled or edited (The American Common-Place Book of Poetry and of Prose, The Poets of America, The Prose Writers of America, Leighton's Select Works, The Journal of the Pilgrims, Christian Melodies); his brother Henry T. Cheever's books | excluded | |
+
+## Nehemiah Adams (round 60, my pick, 2026-10-23)
+
+Slugs `nadams-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the Unitarian belief : with a letter to a Unitarian friend on the Lord's supper (Boston : Peirce and Parker, 1832) | have-ocr | IA `remarksonunitar01adamgoog` |
+| The Baptized Child (catalogued 1842) | have-ocr | IA `baptizedchild00adamgoog` |
+| The life of John Eliot; with an account of the early missionary efforts among the Indians of New England (Boston, Massachusetts Sabbath School Society, 1847) | have-ocr | IA `lifeofjohneliotw00adamuoft` |
+| The friends of Christ in the New Testament: thirteen discourses (Boston : T.R. Marvin, 1853) | have-ocr | IA `cu31924029328857` |
+| Christ a friend : thirteen discourses (Boston : John P. Jewett, 1855) | have-ocr | IA `christfriendthir00adam` |
+| A South-side view of slavery; or, Three months at the South in 1854 (Boston, T.R. Marvin, 1855) | have-ocr | IA `southsideviewofs00adamuoft` |
+| The communion sabbath (Boston : J.P. Jewett, 1856) | have-ocr | IA `communionsabbath00adam` |
+| Agnes and the key of her little coffin (Boston, S. K. Whipple and Company, 1857) | have-ocr | IA `agneskeyofherlit00adam` |
+| The reasonableness of future, endless punishment / by Nehemiah Adams (Gould and Lincoln, 1858) | have-ocr | IA `reasonablenessof00adam` |
+| Why am I a Trinitarian Congregationalist? (catalogued 1858) | have-ocr | IA `whyamitrinitaria00adam` |
+| Catharine (Boston: J. E. Tilton and Company. New York: Sheldon & Co. London; Knight & Son, 1859) | have-ocr | IA `catharine00adamrich` |
+| remarksonunitari00adam (the same 1832 printing; its title page is garbled in the OCR) swapped for this Google scan, whose title page reads 'By Nehemiah Adams, Pastor of the First Church of Christ in Cambridge' | alternate | not shelved |
+| Thomas Shepard's Autobiography (1832), which he only edited; the 1859 Discussion of future punishment (a debate with others); the Essex Street memorial volume (by the church) | excluded | |
