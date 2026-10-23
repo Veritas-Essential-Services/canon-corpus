@@ -5487,10 +5487,12 @@
     },
     {
       "id": "john-eliot-of-roxbury",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:21:38-05:00",
+      "notes": "Rebuilt on resume: 14 English printings 1653-1683 with the 1904 Logic Primer and the 1915 Hanmer letters, all Internet Archive; verify --record 0 mismatched (six title pages or signatures read where OCR garbled the name, e.g. Fobn Eliot), 0 uids minted. The Massachusett Bible, primers and translations are excluded as not English."
     },
     {
       "id": "roger-williams",

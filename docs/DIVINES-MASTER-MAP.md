@@ -9620,6 +9620,31 @@ Slugs `wise-*`. Built from title pages read for round 39.
 | Two Narratives of the Expedition against Quebec, A.D. 1690, under Sir William Phips, the one by Rev. John Wise of Ipswich and the other by an unknown writer, with an introduction by Samuel A. Green (Cambridge: John Wilson and Son, 1902) | have-ocr | IA `twonarrativesofe00wise` |
 | Other scans of the 1860 edition: vindicationofgov0000wise_c2w8, vindicationofgov00wise, cu31924029454497; of the 1902 Narratives: twonarrativesex00wisegoog, twonarrativesex01wisegoog | alternate | not shelved |
 | The other narrative in the 1902 pamphlet (by an unknown writer), kept in the volume as printed; A Word of Comfort to a Melancholy Country (1721, signed Amicus Patriae; no scan found); John Wise the aeronaut (1808-1879), John R. Wise, John S. Wise and other Wises | excluded | |
+
+## John Eliot of Roxbury (round 39, my pick, 2026-10-22)
+
+Slugs `eliot-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Tears of Repentance: or, A Further Narrative of the Progress of the Gospel amongst the Indians in New-England, with Thomas Mayhew (London: Peter Cole, 1653) | have-ocr | IA `tearsofrepentanc00elio` |
+| A Late and Further Manifestation of the Progress of the Gospel amongst the Indians in New-England, published by the Corporation (London: M. Simmons, 1655) | have-ocr | IA `latefurthermanif00elio` |
+| The Christian Commonwealth: or, The Civil Policy of the Rising Kingdom of Jesus Christ (London: Livewell Chapman, 1659) | have-ocr | IA `christiancommonw00elio_0` |
+| A Further Accompt of the Progresse of the Gospel amongst the Indians in New England, set forth in certaine Letters (London: M. Simmons for the Corporation of New England, 1659) | have-ocr | IA `bim_early-english-books-1641-1700_a-further-accompt-of-the_eliot-john_1659` |
+| A Further Account of the Progress of the Gospel amongst the Indians in New England, being a Relation of the Confessions made by several Indians (London: John Macock, 1660) | have-ocr | IA `furtheraccountof00elio` |
+| Communion of Churches: or, The Divine Management of Gospel-Churches by the Ordinance of Councils (Cambridge: Marmaduke Johnson, catalogued 1665) | have-ocr | IA `bim_early-english-books-1641-1700_communion-of-churches-_eliot-john_1665` |
+| The Indian Grammar Begun: or, An Essay to bring the Indian Language into Rules (Cambridge: Marmaduke Johnson, 1666) | have-ocr | IA `indiangrammarbeg00elio` |
+| A Brief Narrative of the Progress of the Gospel amongst the Indians in New-England, in the Year 1670 (London: John Allen, 1671) | have-ocr | IA `briefnarrativeof00elio` |
+| Indian Dialogues, for their Instruction in that great Service of Christ, in calling home their Countrymen to the Knowledge of God (catalogued 1671) | have-ocr | IA `bim_early-english-books-1641-1700_indian-dialogues-_eliot-john_1671` |
+| The Harmony of the Gospels, in the Holy History of the Humiliation and Sufferings of Jesus Christ, from his Incarnation to his Death and Burial (Boston: John Foster, 1678) | have-ocr | IA `bim_early-english-books-1641-1700_the-harmony-of-the-gospe_eliot-john_1678` |
+| A Brief Answer to a Small Book written by John Norcot against Infant-Baptisme (catalogued 1679) | have-ocr | IA `bim_early-english-books-1641-1700_a-brief-ansvver-to-a-sma_eliot-john_1679` |
+| The Dying Speeches of Several Indians, translated by Eliot (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_the-dying-speeches-of-se_eliot-john_1683` |
+| The Logic Primer, reprinted from the unique original of 1672, with an introduction by Wilberforce Eames (Cleveland: The Burrows Brothers Company, 1904) | have-ocr | IA `logicprimerrepri00elio` |
+| John Eliot and the Indians, 1652-1657, being Letters addressed to Rev. Jonathan Hanmer of Barnstaple, ed. Wilberforce Eames (New York: The Adams & Grace Press, MCMXV) | have-ocr | IA `cu31924104076884` |
+| Other scans: tearsofrepentanc00elio_0, tearsofrepentanc00elio_1 and the bim copies of Tears of Repentance; the bim copies of the 1655 Manifestation, the 1660 Account, the 1666 Grammar and the 1671 Brief Narrative; the 1868 reprint of the Brief Narrative (gospelindians00eliorich); the 1672 Logick Primer (bim); A Grammar of the Massachusetts Indian Language (1822, the 1666 Grammar with notes by Pickering) | alternate | not shelved |
+| The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English | excluded | |
+| The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his | excluded | |
+| Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
