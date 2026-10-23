@@ -11916,3 +11916,20 @@ Slugs `jmmason-*`. Built from title pages read for round 56.
 | The Writings of the late John M. Mason (1832, 4 vols): the earlier collection, superseded by the 1849 Complete Works | alternate | not shelved |
 | Sermons, Lectures and Orations (1860), a selection from the same works | alternate | not shelved |
 | John Mason of Water-Stratford (1646-1694) and John Mason the Nonconformist (Self-Knowledge, 1745) are other men; Essays on the Church of God (1843) duplicates the Works | excluded | |
+
+## Nicholas Murray (Kirwan) (round 56, my pick, 2026-10-23)
+
+Slugs `nmurray-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Notes, historical and biographical, concerning Elizabethtown, its eminent men, churches, and ministers (Elizabeth-town [N.J.] E. Sanderson, 1844) | have-ocr | IA `noteshistoricalb00murr` |
+| Bishop Hughes confuted : reply to the Rt. Rev. John Hughes, Roman Catholic Bishop of New York (New York : Leavitt, Trow & Co., 1848) | have-ocr | IA `bishophughesconf00murr` |
+| Letters to the Rt. Rev. John Hughes, Roman Catholic Bishop of New York (Philadelphia, Presbyterian Board of Publication, [185) | have-ocr | IA `letterstortrevjo00murr` |
+| The decline of popery and its causes : an address delivered in the Broadway Tabernacle on Wednesday Evening, January 15, 1851 (New York : Harper & Brothers, 1851) | have-ocr | IA `declineofpoperyi00murr` |
+| Romanism at home : letters to the Hon. Roger B. Taney (New York : Harper, 1852) | have-ocr | IA `romanismathomele00murr` |
+| Men and things as I saw them in Europe (New York, Harper & brothers, 1853) | have-ocr | IA `menthingsasisawt00murr` |
+| Parish and other pencilings by Kirwan ([n.p.], 1854) | have-ocr | IA `parishotherpenci00murr` |
+| Preachers and preaching (New York, Harper & brothers, 1860) | have-ocr | IA `preacherspreachi00murr` |
+| Dying legacy to the people of his charge (New York : Harper & Brothers, 1861) | have-ocr | IA `dyinglegacytopeo00murr` |
+| Walter Blake Kirwan (1754-1805), the Irish preacher, is another man; other Nicholas Murrays (the 1872 Complaynt of Scotlande editor, the 1880s journal writer) | excluded | |
