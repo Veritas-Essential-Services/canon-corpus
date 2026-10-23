@@ -2183,3 +2183,6 @@
 
 ## 2026-10-23 06:19 CDT — round 95 done
 - milton-s-terry, frederic-henry-hedge, stephen-olin, theophilus-lindsey, george-putnam-roxbury, wayland-hoyt: 6 shelves, 58 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:27 CDT — round 96 done
+- thomas-bradbury, georg-joachim-zollikofer, jedidiah-morse, abiel-abbot-livermore, alfred-e-garvie, j-scott-lidgett: 6 shelves, 63 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
