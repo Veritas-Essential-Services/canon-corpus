@@ -20233,6 +20233,15 @@ Shelf: `pipeline/w-s-w-vaux_shelf.json`. Ancient History from the Monuments: Gre
 |---|---|---|---|
 | Ancient History from the Monuments: Greek Cities and Islands of Asia Minor (London, 1877) |  | `vaux-greek-cities-islands-asia-minor` | have (PG 66663) |
 
+
+## Wilton Wallace Blancke (1884-1949)
+
+Shelf: `pipeline/wilton-w-blancke_shelf.json`. The Dramatic Values in Plautus (1918). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Dramatic Values in Plautus (1918) |  | `blancke-dramatic-values-plautus-1918` | have (PG 9970) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
