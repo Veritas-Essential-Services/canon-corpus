@@ -11205,6 +11205,19 @@ Slugs `carson-*`. Built from title pages read for round 49.
 | The inspiration of the Scriptures : a review of the theories of the Reverend Daniel Wilson, Reverend Dr. Pye Smith, and the Reverend Dr. Dick, and other treaties (New York : Edward H. Fletcher, 1853) | have-ocr | IA `inspirationofscr00cars` |
 | Other printings of Baptism in its Mode and Subjects (1831-1860), the 1852 History of Providence and Providence Unfolded (1851) | alternate | not shelved |
 | The 1805 Mode and Subjects of Baptism examined (Daniel Merrill's book); Independent or Democratic Church Government (1868, another author) | excluded | |
+
+## George Burder (round 49, my pick, 2026-10-23)
+
+Slugs `burder-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Evangelical truth defended: or, a reply to a letter, containing strictures on a sermon, preached at Lancaster, by the Rev. Mr. Housman. ... By George Burder.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_evangelical-truth-defend_burder-george_1788` |
+| Village sermons; or, twelve plain and short discourses on the principal doctrines of the Gospel; intended for the use of families, Sunday-schools, or companies ... Volume I. Third edition revised. By George Burder.  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_village-sermons-or-twe_burder-george_1798` |
+| Early Piety, or Memoirs of Children eminently serious (2nd ed., London: H. Trapp, 1777): the title page, read from the page image, names no author ('Recommended by the Rev. Mr. Peckwell'); attributed to Burder by the catalogue only | pending | not shelved |
+| The Good Old Way, or the Religion of our Forefathers (4th ed., London, 1781): the title page, read from the page image, names no author; attributed to Burder by the catalogue only | pending | not shelved |
+| Later printings of The Good Old Way (1783-1792) and Village Sermons (1798-1799) | alternate | not shelved |
+| His 1797 single-sermon tracts; the Welsh Village Sermons (1799); The Welch Indians (1797, a compilation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
