@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain Karl Friedrich August Kahnis (1814-1888), Leipzig Lutheran theologian, for the Word Hoard: Internal History of German Protestantism since the middle of last century (Edinburgh, 1856), from an Internet Archive scan. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kahnis"
+ ],
+ "_surname": [
+  "k. f. a. kahnis",
+  "c. f. a. kahnis",
+  "kahnis"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kahnis-internal-history": [
+   "internalhistoryo00kahn",
+   "Internal history of German protestantism since the middle of last century ([n.p.], 1856)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kahnis-other": "German works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kahnis-internal-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kahnis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

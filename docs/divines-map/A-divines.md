@@ -11082,3 +11082,12 @@ Slugs `naville-*`. Built from title pages read for round 48.
 | The Christ : seven lectures (Edinburgh : T&T Clark, 1880) | have-ocr | IA `thechristsevenle00naviuoft` |
 | Modern Physics, studies historical and philosophical, translated by Henry Downton (1884) | have-ocr | IA `modernphysicsst00navigoog` |
 | Every Egyptological title (Pithom, Saft el Henneh, the Todtenbuch): Édouard Naville, another man; French originals | excluded | |
+
+## Karl Friedrich August Kahnis (round 48, my pick, 2026-10-23)
+
+Slugs `kahnis-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Internal history of German protestantism since the middle of last century ([n.p.], 1856) | have-ocr | IA `internalhistoryo00kahn` |
+| German works | excluded | |
