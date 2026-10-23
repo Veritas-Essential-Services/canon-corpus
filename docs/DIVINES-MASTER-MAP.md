@@ -18141,6 +18141,33 @@ Slugs `krebs-*`. Built from title pages read for round 121.
 | The American citizen : a discourse on the nature and extent of our religious subjection to the government under which we live: including an inquiry into the Scriptural authority of that provision of the Constitution of the United States, which requires the surrender of fugitive slaves (New York :, 1851) | have-ocr | IA `americancitizend00kreb` |
 | b1034830x, a sheet of music | excluded | |
 | wsb12f4_images_202308 has page images but no text | excluded | |
+
+## W. J. Sparrow-Simpson (round 121, my pick, 2026-10-23)
+
+Slugs `sparrow-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on S[aint] Bernard of Clairvaux (London : J. Masters, 1895) | have-ocr | IA `lecturesonsaintb00simpuoft` |
+| The church and the Bible (London ; New York : Longmans, Green, 1897) | have-ocr | IA `churchbible00spar` |
+| The claims of Jesus Christ : Lent lectures (London : Longmans, Green, 1899) | have-ocr | IA `claimsofjesuschr00spar` |
+| The Minor Festivals of the Anglican Calendar (Facsimile Publisher, 1901) | have-ocr | IA `minorfestivalsof0000wjsp` |
+| Our Lord's resurrection (London ; New York : Longmans, Green, 1905) | have-ocr | IA `ourlordsresurrec00spar` |
+| Roman Catholic opposition to papal infallibility (London : J. Murray, 1909) | have-ocr | IA `a608931100sparuoft` |
+| St. Augustine and African church divisions (London ; New York : Longmans, Green, 1910) | have-ocr | IA `staugustineafric00sparrich` |
+| The resurrection and modern thought (Longmans, Green, 1911) | have-ocr | IA `resurrectionmode0000wjsp` |
+| THE ATHANASIAN WARNINGS (Longmans, 1911) | have-ocr | IA `bwb_O6-AOY-871` |
+| Non-communicating attendance (London : Longmans, Green, 1913) | have-ocr | IA `noncommunicating00simpuoft` |
+| The catholic conception of the church : a study of the traditional idea of the nature and constitution of the church (London : Robert Scott, [191) | have-ocr | IA `catholicconcepti00spariala` |
+| The place of women in the church, vol. 10 (London : R. Scott ; Milwaukee : Young Churchman Co., 1917) | have-ocr | IA `placeofwomeninch10goud` |
+| French Catholics in the nineteenth century (London : S.P.C.K. ; New York : Macmillan, 1918) | have-ocr | IA `a608926200sparuoft` |
+| Place of the laity in the Church, vol. 8 (London : R. Scott ; Milwaukee : Young Churchman, 1918) | have-ocr | IA `placeoflaityinch08spar` |
+| Broad Church Theology (The Morehouse Publishing co., 1919) | have-ocr | IA `broadchurchtheol011124mbp` |
+| Modernism and the person of Christ (London : Robert Scott ; Milwaukee : Morehouse Publishing Co., 1923) | have-ocr | IA `modernismpersono00spar` |
+| The revelation of God, and other sermons (London : Society for Promoting Christian Knowledge; New York : Macmillan, 1925) | have-ocr | IA `revelationofgodo00spar` |
+| The prayer of consecration (London : Robert Scott ; Milwaukee, Wis. : The Young Churchman, 1917) (IA prayerofconsecra0000spar): archive.org returned HTTP 500 for the text file; retry later | pending | not shelved |
+| Chapters in the History of Old S. Paul's is by his father, W. Sparrow Simpson | excluded | |
+| his translations of Augustine's Letters and On the Spirit and the Letter, and the Dionysius he edited, are other men's works in English | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
