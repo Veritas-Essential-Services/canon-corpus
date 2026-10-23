@@ -12151,3 +12151,23 @@ Slugs `patton-*`. Built from title pages read for round 57.
 | A summary of Christian doctrine (Philadelphia : Westminster Press, 1898) | have-ocr | IA `summaryofchristi00patt_0` |
 | Fundamental Christianity (The Macmillan Company, 1926) | have-ocr | IA `fundamentalchris0000fran` |
 | The Patton vs. Swing trial volume (both sides, edited by others); Spanish translations; ethics syllabi (student notes of the same lectures) | excluded | |
+
+## Newman Hall (round 58, my pick, 2026-10-23)
+
+Slugs `nhall-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian philosopher triumphing over death. A narrative of the closing scenes of the life of the late William Gordon. To which is added a memoir of John D. Godman. By Thomas Sewall (Philadelphia, Presbyterian Board of publication, [185) | have-ocr | IA `christianphiloso00hallrich` |
+| Come to Jesus! (Confederate pamphlet printing, [1861]) | have-ocr | IA `cometojesus00hall` |
+| Now (catalogued 1859) | have-ocr | IA `now00hallgoog` |
+| Quench not the spirit (New York : Robert Carter & Brothers, 1861) | have-ocr | IA `quenchnotspirit00hall` |
+| The American war. By Newman Hall, LL.D, vol. 2 (New York, A.D.F. Randolph, 1862) | have-ocr | IA `americanwarbynew02hall` |
+| A sermon on the assassination of Abraham Lincoln : preached at Surrey Chapel, London, Sunday, May 14, 1865 (Boston : Bartlett and Halliday, 1865) | have-ocr | IA `sermononassassin00hall` |
+| Sermons (Gould and Lincoln, 1868) | have-ocr | IA `sermons00hallgoog` |
+| The reasonableness and efficacy of prayer (Boston : Noyes, Holmes, & Company, 1874) | have-ocr | IA `reasonablenessef00hall` |
+| The Lord's prayer : a practical meditation (Edinburgh : T. & T. Clark, 1883) | have-ocr | IA `lordsprayerpract00hall` |
+| Atonement : the fundamental fact of Christianity ([London] : Religious Tract Society, 1893) | have-ocr | IA `atonementfundame00hall` |
+| Newman Hall, an autobiography (New York, Thomas Y. Crowell, 1898) | have-ocr | IA `newmanhallautobi00hall` |
+| Translations of Come to Jesus (Japanese, Icelandic, Gaelic, Cherokee); his father John Vine Hall's autobiography, which he edited; travel books and verse | excluded | |
+| cometojesus00hall_0: the 1858 Creek-language translation (Cesvs a oh vtes), not the English text | excluded | |
