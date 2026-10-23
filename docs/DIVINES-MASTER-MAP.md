@@ -18840,6 +18840,24 @@ Slugs `ostervald-*`. Built from title pages read for round 128.
 | his French Catechisme, Traité contre l'impureté and Bible | excluded | |
 | German translations and a geography by Friedrich Osterwald | excluded | |
 | other editions of the Grounds, Uncleanness, Arguments and Abridgment | excluded | |
+
+## George Pretyman Tomline (round 128, my pick, 2026-10-23)
+
+Slugs `tomline-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Honourable House of Commons, at St. Margaret's, Westminster, on Thursday, July 29, 1784: ... By George Pretyman, ...  1784 (catalogued 1784) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1784` |
+| A sermon preached before the Lords ... in the abbey church of Westminster, on Friday, January 30, 1789. ... By George, Lord Bishop of Lincoln.  1789 (catalogued 1789) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1789` |
+| A sermon, preached at the cathedral church of St. Paul, London, before His Majesty, and both Houses of Parliament, on Tuesday, December 19th, 1797; ... By George, Lord Bishop of Lincoln. ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-th_pretyman-george_1798` |
+| Elements of christian Theology, vol. 1 (London : [publisher not identified], 1823) | have-ocr | IA `elementsofchrist01pret_1` |
+| Elements of christian theology :  with index to v. 1, vol. 2 (London : [s.n.], 1826) | have-ocr | IA `elementsofchrist02pret_0` |
+| A refutation of Calvinism : in which, the doctrines of original sin, grace, regeneration, justification, and universal redemption, are explained : and the peculiar tenets maintained by Calvin upon those points are proved to be contrary to scripture, to the writings of the ancient fathers of the Christian Church, and to the public formularies of the Church of England (London : T. Cadell and W. Davies, 1811) | have-ocr | IA `arefutationofcal00pretuoft` |
+| Memoirs of the life of the Right Honorable William Pitt (London : J. Murray, 1822) | have-ocr | IA `memoirsoflifeofr00pretuoft` |
+| An introduction to the study of the Bible: being the fourteenth edition of the first volume of the Elements of Christian theology (London, Printed for T. Cadell, 1822) | have-ocr | IA `introductiontost00pret` |
+| Reflections on the Cruelty of Inclosing Common-Field Lands is by another Pretyman | excluded | |
+| the Adair letters and the Remarks on the Refutation are by others | excluded | |
+| other editions and abridgements of the Elements and the Refutation | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
