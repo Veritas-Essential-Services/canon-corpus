@@ -10891,6 +10891,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:50:10-05:00",
       "notes": "7 books, 1852-1890; Design and Subjects of Baptism waits on the catalogue-attribution ruling."
+    },
+    {
+      "id": "a-john-shower",
+      "status": "done",
+      "scope": "round 134",
+      "added": "2026-10-23T09:59:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:59:15-05:00",
+      "notes": "26 sermons and discourses, 1681-1754; four title pages that name no author wait on the catalogue-attribution ruling."
     }
   ]
 }

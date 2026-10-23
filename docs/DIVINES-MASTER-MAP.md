@@ -19369,6 +19369,44 @@ Slugs `everts-*`. Built from title pages read for round 133.
 | Design and subjects of baptism ([Chicago : s.n., 1859) (IA designsubjectsof00ever): the scan has no title page naming him; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | the Bible Manual, Scripture School Reader, Pastor's Hand-book and Book of Worship are selections of Scripture and hymns | excluded | |
 | the John Foster, Manhood, Christian Womanhood and the life of Everts himself are by others | excluded | |
+
+## John Shower (round 134, my pick, 2026-10-23)
+
+Slugs `shower-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| An exhortation to youth to prepare for judgment.  1681 (catalogued 1681) | have-ocr | IA `bim_early-english-books-1475-1640_an-exhortation-to-youth-_shower-john_1681` |
+| The resignation to the divine good pleasure ...  1684 (catalogued 1684) | have-ocr | IA `bim_early-english-books-1641-1700_the-resignation-to-the-d_shower-john_1684` |
+| The present correction and reproof of sin,...  1685 (catalogued 1685) | have-ocr | IA `bim_early-english-books-1641-1700_the-present-correction-a_shower-john_1685` |
+| Serious reflections ...  1689 (catalogued 1689) | have-ocr | IA `bim_early-english-books-1641-1700_serious-reflections-_shower-john_1689` |
+| Seasonable advice to youth.  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1475-1640_seasonable-advice-to-you_shower-john_1692` |
+| St. Peter's sin, ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_st-peters-sin-_shower-john_1692` |
+| The mourners companion: ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_the-mourners-companion-_shower-john_1692` |
+| Death a deliverance.  1693 (catalogued 1693) | have-ocr | IA `bim_early-english-books-1641-1700_death-a-deliverance_shower-john_1693` |
+| Practical reflections on the late earthquakes ...  1693 (catalogued 1693) | have-ocr | IA `bim_early-english-books-1641-1700_practical-reflections-on_shower-john_1693` |
+| Sacramental Discourses, ...  1693 (catalogued 1693) | have-ocr | IA `bim_early-english-books-1641-1700_sacramental-discourses-_shower-john_1693` |
+| Family religion, ...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_family-religion-_shower-john_1694` |
+| No peace to the wicked.  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_no-peace-to-the-wicked_shower-john_1694` |
+| Of the day of grace, ...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_of-the-day-of-grace-_shower-john_1694` |
+| A discourse of tempting Christ.  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_a-discourse-of-tempting-_shower-john_1694` |
+| Winter meditations: ...  1695 (catalogued 1695) | have-ocr | IA `bim_early-english-books-1641-1700_winter-meditations-_shower-john_1695` |
+| A Thanksgiving sermon ...  1696 (catalogued 1696) | have-ocr | IA `bim_early-english-books-1641-1700_a-thanksgiving-sermon-_shower-john_1696` |
+| A Funeral sermon preached upon the death of the reverend ...  1697 (catalogued 1697) | have-ocr | IA `bim_early-english-books-1641-1700_a-funeral-sermon-preache_shower-john_1697` |
+| A sermon preach'd ...  1698 (catalogued 1698) | have-ocr | IA `bim_early-english-books-1641-1700_a-sermon-preachd-_shower-john_1698` |
+| Of long life and old age, ...  1698 (catalogued 1698) | have-ocr | IA `bim_early-english-books-1641-1700_of-long-life-and-old-age_shower-john_1698` |
+| God's thoughts and ways ...  1699 (catalogued 1699) | have-ocr | IA `bim_early-english-books-1641-1700_gods-thoughts-and-ways-_shower-john_1699` |
+| Heaven and hell; or the unchangeable state ...  1700 (catalogued 1700) | have-ocr | IA `bim_early-english-books-1641-1700_heaven-and-hell-or-the-_shower-john_1700` |
+| A funeral sermon, occasion'd by the sudden death of the Reverend Mr. Nathanael Taylor, ... By John Shower.  1702 (catalogued 1702) | have-ocr | IA `bim_eighteenth-century_a-funeral-sermon-occasi_shower-john_1702` |
+| A fast-sermon, on the account of the present war. By John Shower. The second edition.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_a-fast-sermon-on-the-ac_shower-john_1705` |
+| Divine supports under disquieting thoughts: in a sermon. From Psalm xciv.19. ... By John Shower.  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_divine-supports-under-di_shower-john_1711` |
+| Enoch's translation: a funeral sermon upon the sudden death of Dr. Nehemiah Grew, Fellow of the Royal College of Physicians, who died March 25th, 1712, preach'd at Old Jewry (London : Printed by J.R. for John Clark & E. Seadgel, 1712) | have-ocr | IA `b30509750` |
+| The character and trial of a real Christian; exemplify'd in the life and experience of Mr. Henry Gearing, late citizen of London. By John Shower, the third edition; with a preface by Samuel Hayward.  1754 (catalogued 1754) | have-ocr | IA `bim_eighteenth-century_the-character-and-trial-_shower-john_1754` |
+| A sermon preacht upon the death death of of Mrs Anne Barnardiston...  1682 (catalogued 1682) (IA bim_early-english-books-1641-1700_a-sermon-preacht-upon-th_shower-john_1682): the printed title page names no author; 'By John Shower' is written in by hand; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An exhortation to repentance, ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_an-exhortation-to-repent_shower-john_1688): the printed title page names no author (only a handwritten shelf label); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Some account of the holy life and death of ...  1694 (catalogued 1694) (IA bim_early-english-books-1641-1700_some-account-of-the-holy_shower-john_1694): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A New-Years-gift; containing serious reflections on time and eternity. ...  1699 (catalogued 1699) (IA bim_early-english-books-1641-1700_a-new-years-gift-contai_shower-john_1699): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| later editions of Resignation, Serious Reflections, Winter Meditations, Practical Reflections on the Earthquakes and Sacramental Discourses, and the second Holy Life and Death | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
