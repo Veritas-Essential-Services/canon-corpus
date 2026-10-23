@@ -17546,6 +17546,16 @@ Slugs `goodell-*`. Built from title pages read for round 115.
 | Motives and methods in modern evangelism (New York, Chicago Fleming H. Revell Company, 1926) | have-ocr | IA `motivesmethodsin0000good` |
 | Twilight Reveries life and how to live it (Fleming H. Revell Company, 1929) | have-ocr | IA `bwb_Y0-BAQ-432` |
 | sermonsaddresses00brod and pastorhisownevan0000jwil are by other men | excluded | |
+
+## Howard Allen Bridgman (round 115, my pick, 2026-10-23)
+
+Slugs `bridgman-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Steps Christward; counsels for young Christians (Boston, Chicago, The Pilgrim press, 1903) | have-ocr | IA `stepschristwardc00bri` |
+| Real religion; friendly talks to the average man on clean and useful living (Boston, New York, Pilgrim Press, 1910) | have-ocr | IA `realreligionfrie00brid` |
+| New England in the life of the world; a record of adventure and achievement (Boston, Chicago, The Pilgrim Press, 1910) | have-ocr | IA `newenglandinlife00brid` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
