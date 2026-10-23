@@ -135,50 +135,13 @@
   }
  },
  "_held": {
-  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921."
+  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921.",
+  "quintilian-perseus-butler-institutio-oratoria": "Perseus TEI phi1002.phi001.perseus-eng2 (Institutio Oratoria, tr. Harold Edgeworth Butler) is already in the PERSEUS manifest of fetch_sources.py on PR #7 (claude/project-thread-hxenem); not fetched twice (2026-10-23)"
  },
  "_rights_checked": {
   "quintilian-butler-v1-1921": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
  },
  "_translator_unchecked": {
   "quintilian-watson-v2-1856": "title page OCRs the name as 'JOHN SELBT ■W;ATS0N' (Bohn, 1856); the claim is not matched as written"
- },
- "perseus": {
-  "quintilian-perseus-butler-institutio-oratoria": [
-   "phi1002.phi001.perseus-eng2",
-   "Institutio Oratoria",
-   "Harold Edgeworth Butler",
-   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Quintilian. Institutio Oratoria, Volume 1-4. Butler, Harold Edgeworth, translator. Cambridge, Mass; London: Harvard University Press, William Heinemann Ltd., 1920-1922."
-  ]
- },
- "_perseus_licence": {
-  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
-  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
-  "attribution": "Perseus Digital Library, Tufts University",
-  "share_alike": true,
-  "redistribute_whole": false
- },
- "_perseus_checks": {
-  "quintilian-perseus-butler-institutio-oratoria": {
-   "checked": "2026-10-23",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi1002.phi001.perseus-eng2",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "Butler",
-   "author_seen": "quintilian",
-   "source_years": [
-    1920,
-    1922
-   ],
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
-   "rights": {
-    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
-    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1002/phi001/phi1002.phi001.perseus-eng2.xml",
-    "share_alike": true,
-    "redistribute_whole": false
-   }
-  }
  }
 }
