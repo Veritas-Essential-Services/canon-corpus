@@ -1,0 +1,105 @@
+{
+ "_about": "H. R. Hall (Harry Reginald Hall, 1873-1930), Keeper of Egyptian and Assyrian Antiquities at the British Museum. Classical scholarship, Aegean and Near Eastern history (lane B). Clean Gutenberg: History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery, with L. W. King (1906). Raw IA OCR: The Oldest Civilization of Greece (1901), Days Before History (revised ed., Harrap, 1908), The Ancient History of the Near East (Methuen, 1913, first edition) and Aegean Archaeology (1915). Not taken: the British Museum guides and catalogues he compiled under Budge, and the excavation memoirs with Naville. US public domain. No uids minted.",
+ "_author": "H. R. Hall",
+ "_name_words": [
+  "harry",
+  "reginald",
+  "hall"
+ ],
+ "_surname": [
+  "h. r. hall",
+  "harry reginald hall",
+  "h. r. h. hall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hall-king-history-egypt-chaldea-1906": [
+   17321,
+   "History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery (with L. W. King)"
+  ]
+ },
+ "internet_archive": {
+  "hall-oldest-civilization-of-greece-1901": [
+   "oldestcivilizati00halluoft",
+   "The Oldest Civilization of Greece, studies of the Mycenaean age (Nutt, 1901)"
+  ],
+  "hall-days-before-history-1908": [
+   "daysbeforehistor00hallrich",
+   "Days Before History, revised ed. (Harrap, 1908)"
+  ],
+  "hall-ancient-history-near-east-1913": [
+   "ancienthistoryo00hall",
+   "The Ancient History of the Near East (Methuen, 1913)"
+  ],
+  "hall-aegean-archaeology-1915": [
+   "cu31924028272379",
+   "Aegean Archaeology, an introduction to the archaeology of prehistoric Greece (Warner, 1915)"
+  ]
+ },
+ "_excluded": {
+  "British Museum guides and catalogues (1904-1929)": "institutional catalogues, not his own scholarship; wishlist"
+ },
+ "_identity_checked": {
+  "hall-oldest-civilization-of-greece-1901": {
+   "author": "Title page read 2026-10-23: 'H. R. Hall, M.A.' (OCR 'H. K. HALL'), preface signed 'H. R. Hall' (OCR 'H. II. HALL'); London: David Nutt, 1901"
+  },
+  "hall-days-before-history-1908": {
+   "author": "Title page read 2026-10-23: 'H. R. Hall' (OCR 'H'K'HALL'); Harrap, revised ed. September 1908"
+  }
+ },
+ "_checks": {
+  "hall-king-history-egypt-chaldea-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. r. hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hall-oldest-civilization-of-greece-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-days-before-history-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-ancient-history-near-east-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. r. hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hall-aegean-archaeology-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. r. hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
