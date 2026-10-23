@@ -15967,6 +15967,22 @@ Slugs `mudge-*`. Built from title pages read for round 97.
 | The perfect life in experience and doctrine; a restatement (Cincinnati, Jennings and Graham, 1911) | have-ocr | IA `perfectlifeinexp00mudg` |
 | Religious experience exemplified in the lives of illustrious Christians (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1913) | have-ocr | IA `religiousexperie0000mudg` |
 | Honey from Many Hives, Poems with Power (anthologies of other writers) | excluded | |
+
+## Samuel Kirkland Lothrop (round 97, my pick, 2026-10-23)
+
+Slugs `lothrop-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| The good man : a sermon, preached at the Church in Brattle Square, on the Sunday after the interment of George Bond, Esq., May 29, 1842 (Boston : W.W. Clapp & Son, 1842) | have-ocr | IA `goodmanasermonp00lothgoog` |
+| Life of Samuel Kirkland, Missionary to the Indians (Charles C. Little and James Brown, 1847) | have-ocr | IA `lifesamuelkirkl00spargoog` |
+| The stay and the staff taken away. A sermon preached at the church in Brattle Square, on the death of the Hon. Harrison Gray Otis, November 5, 1848 (Boston : Eastburn's Press, 1848) | have-ocr | IA `staystafftakenaw00loth` |
+| A history of the church in Brattle Street, Boston (Boston : Wm. Crosby and H.P. Nichols, 1851) | have-ocr | IA `brattlest00loth` |
+| The mature Christian ripe for the harvest (Boston : Printed by J. Wilson and son, 1861) | have-ocr | IA `maturechristianr00loth` |
+| Firmness and gentleness united in the Christian character : a sermon preached in the Brattle-Square Church, Dec. 15, 1861, the Sunday succeeding the death of Hon. Richard Sullivan (Boston : Printed by J. Wilson and Son, 1862) | have-ocr | IA `firmnessgentlene00loth` |
+| Memorial of the church in Brattle square. : A discourse preached in the church in Brattle square, on the last Sunday of its use for public worship, July 30, 1871 (Boston : Press of J. Wilson and son, 1871) | have-ocr | IA `memorialofchurch0000loth` |
+| A sermon preached at the dedication of the Church of the Brattle-Square Society, on the corner of Clarendon Street and Commonwealth Avenue, Dec. 22, 1873 (Boston : Press of John Wilson and Son., 1874) | have-ocr | IA `sermonpreachedat00loth_0` |
+| Proceedings of an Ecclesiastical Council (Hollis Street, many hands) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
