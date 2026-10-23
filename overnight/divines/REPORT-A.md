@@ -2120,3 +2120,6 @@
 
 ## 2026-10-23 04:01 CDT — round 74 done
 - joseph-bingham, julius-charles-hare, ashton-oxenden: 3 shelves, 49 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:09 CDT — round 75 done
+- anthony-w-thorold, francis-paget, stopford-a-brooke, w-morley-punshon: 4 shelves, 44 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
