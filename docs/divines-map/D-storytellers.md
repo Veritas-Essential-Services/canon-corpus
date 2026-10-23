@@ -17690,3 +17690,17 @@ Shelf: `pipeline/rhoda-broughton_shelf.json` (2026-10-22; added at the coordinat
 | Tales for Christmas Eve | have | PG 69297, `rbroughton-tales-for-christmas-eve` (508 units) |
 | Lavinia | have | PG 72772, `rbroughton-lavinia` (1897 units) |
 | A waif's progress | have | PG 73654, `rbroughton-waifs-progress` (2218 units) |
+
+## Hjalmar Hjorth Boyesen
+
+Shelf: `pipeline/hjalmar-hjorth-boyesen_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales from Two Hemispheres | have | PG 299, `hhboyesen-tales-from-two-hemispheres` (832 units) |
+| Boyhood in Norway: Stories of Boy-Life in the Land of the Midnight Sun | have | PG 784, `hhboyesen-boyhood-in-norway` (917 units) |
+| Ilka on the Hill-Top and Other Stories | have | PG 13929, `hhboyesen-ilka-on-the-hill-top-and-other-stories` (876 units) |
+| Essays on Scandinavian Literature | have | PG 19908, `hhboyesen-essays-on-scandinavian-literature` (485 units) |
+| A Good-For-Nothing 1876 | have | PG 23174, `hhboyesen-good-for-nothing-1876` (192 units) |
+| The Story of Norway | have | PG 34646, `hhboyesen-story-of-norway` (2384 units) |
+| The Modern Vikings: Stories of Life and Sport in the Norseland | have | PG 53070, `hhboyesen-modern-vikings` (977 units) |
