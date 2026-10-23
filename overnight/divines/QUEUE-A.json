@@ -5642,6 +5642,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T22:40:37-05:00",
       "notes": "LACT Works, 5 vols."
+    },
+    {
+      "id": "mark-frank",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:40:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:40:38-05:00",
+      "notes": "LACT Sermons, 2 vols."
     }
   ]
 }

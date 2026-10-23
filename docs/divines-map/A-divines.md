@@ -9768,3 +9768,14 @@ Slugs `bramhall-*`. Built from title pages read for round 40.
 | The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever05bram` |
 | Toronto (bramhallsworks0*bramuoft) and Google copies of the same set; the Google 1852 issue | alternate | not shelved |
 | The Rawdon Papers (1819, letters by many hands); The Story of Stanislaus (1914), by another Bramhall | excluded | |
+
+## Mark Frank (round 40, my pick, 2026-10-22)
+
+Slugs `frank-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons01fran` |
+| Sermons, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons02fran` |
+| sermons0000fran, sermons0002fran (other scans of the same edition); the 1672 LI Sermons (EEBO) | alternate | not shelved |
+| Other Franks | excluded | |
