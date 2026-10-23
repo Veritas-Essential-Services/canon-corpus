@@ -1929,6 +1929,9 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 | The Oath | Francis Adams | `hippocrates-perseus-adams-the-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng4`) |
 | The Law | Francis Adams | `hippocrates-perseus-adams-the-law` | have (Perseus TEI `tlg0627.tlg014.perseus-eng2`) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | have (Perseus TEI `tlg0627.tlg011.perseus-eng2`) |
+| Hippocrates, tr. W. H. S. Jones, vol. I (Loeb, 1923; this copy the 1957 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `hippocrates-jones-loeb-v1` | have-raw (IA `hippocrates01hippuoft`) |
+| Hippocrates, tr. W. H. S. Jones, vol. II (Loeb, 1923; this copy the 1959 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `hippocrates-jones-loeb-v2` | have-raw (IA `hippocrates02hippuoft`) |
+| Hippocrates, vol. III: On Wounds in the Head, In the Surgery, On Fractures, On Joints, Mochlicon, tr. E. T. Withington (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling |  | `hippocrates-withington-loeb-v3` | have-raw (IA `hippocratesvol3l0000etwi`) |
 
 Pending (wishlist): the Jones/Withington Loeb beyond the six 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
 

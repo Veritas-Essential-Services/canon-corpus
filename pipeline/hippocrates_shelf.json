@@ -18,11 +18,23 @@
    "b33291408_0004",
    "The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849)",
    "tr. Francis Adams"
+  ],
+  "hippocrates-jones-loeb-v1": [
+   "hippocrates01hippuoft",
+   "Hippocrates, tr. W. H. S. Jones, vol. I (Loeb, 1923; this copy the 1957 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "hippocrates-jones-loeb-v2": [
+   "hippocrates02hippuoft",
+   "Hippocrates, tr. W. H. S. Jones, vol. II (Loeb, 1923; this copy the 1959 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "hippocrates-withington-loeb-v3": [
+   "hippocratesvol3l0000etwi",
+   "Hippocrates, vol. III: On Wounds in the Head, In the Surgery, On Fractures, On Joints, Mochlicon, tr. E. T. Withington (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "genuineworksofhi02hippuoft": "empty text layer",
-  "Jones and Withington, Loeb (1923-31)": "held in part from Perseus: 6 texts (hippocrates-perseus-jones-*). Greek facing; pending",
+  "Jones and Withington, Loeb (1923-31)": "vols. I-III (1923-27) taken as hippocrates-jones-loeb-* and hippocrates-withington-loeb-v3; vol. IV (1931) is not public domain",
   "Eighteenth-century English Hippocrates: Upon Air, Water and Situation (1752); the Epidemics (1780); the Prognostics and Prorrhetics (1788)": "PD; the ECCO scans (bim_eighteenth-century_hippocrates-upon-air-wa_hippocrates-_1752, bim_eighteenth-century_epidemiorum-libri-engli_hippocrates_1780, bim_eighteenth-century_the-prognostics-and-pror_hippocrates_1788) read 0.740, 0.744 and 0.627; refused for OCR quality 2026-10-10"
  },
  "perseus": {
@@ -140,12 +152,15 @@
   "hippocrates-perseus-jones-ancient-medicine": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-oath": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-precepts": "William Henry Samuel Jones",
-  "hippocrates-perseus-jones-epidemics-1-3": "william henry samuel jones"
+  "hippocrates-perseus-jones-epidemics-1-3": "william henry samuel jones",
+  "hippocrates-jones-loeb-v1": "W. H. S. Jones",
+  "hippocrates-jones-loeb-v2": "W. H. S. Jones",
+  "hippocrates-withington-loeb-v3": "E. T. Withington"
  },
  "_checks": {
   "hippocrates-adams-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hippocrates",
    "translator_claimed": "Francis Adams",
@@ -157,7 +172,7 @@
   },
   "hippocrates-adams-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hippocrates",
    "translator_claimed": "Francis Adams",
@@ -165,6 +180,47 @@
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hippocrates-jones-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1995",
+   "ia_date": "1923-1995",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1957': an unrevised reprint of the 1923 Loeb"
+  },
+  "hippocrates-jones-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1995",
+   "ia_date": "1923-1995",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1959': an unrevised reprint of the 1923 Loeb"
+  },
+  "hippocrates-withington-loeb-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "E. T. Withington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -555,5 +611,9 @@
   "hippocrates-perseus-adams-the-oath": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg013.perseus-eng4 (The Oath, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-the-law": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg014.perseus-eng2 (The Law, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-mochlicus": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg011.perseus-eng2 (Mochlicus, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_rights_checked": {
+  "hippocrates-jones-loeb-v1": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1957': an unrevised reprint of the 1923 Loeb",
+  "hippocrates-jones-loeb-v2": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1959': an unrevised reprint of the 1923 Loeb"
  }
 }
