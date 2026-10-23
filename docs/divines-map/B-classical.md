@@ -9977,3 +9977,12 @@ Shelf: `pipeline/c-w-l-launspach_shelf.json`. State and Family in Early Rome (19
 |---|---|---|---|
 | State and Family in Early Rome (1908) |  | `launspach-state-family-early-rome-1908` | have-raw (IA `cu31924030431294`) |
 
+
+## E. F. Bojesen (1803-1864)
+
+Shelf: `pipeline/e-f-bojesen_shelf.json`. A Manual of Grecian and Roman Antiquities (1848). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Manual of Grecian and Roman Antiquities, translated from the German (1848) |  | `bojesen-manual-antiquities-1848` | have-raw (IA `amanualgreciana01bojegoog`) |
+

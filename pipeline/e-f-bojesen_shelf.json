@@ -1,0 +1,36 @@
+{
+ "_about": "E. F. Bojesen (1803-1864), Danish classicist: A Manual of Grecian and Roman Antiquities, translated from the German version, ed. T. K. Arnold (1848). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Ernst Frederik Bojesen (1803-1864)",
+ "_name_words": [
+  "bojesen",
+  "grecian",
+  "roman",
+  "antiquities",
+  "manual"
+ ],
+ "_surname": [
+  "bojesen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bojesen-manual-antiquities-1848": [
+   "amanualgreciana01bojegoog",
+   "A Manual of Grecian and Roman Antiquities, translated from the German (1848)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bojesen-manual-antiquities-1848": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bojesen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
