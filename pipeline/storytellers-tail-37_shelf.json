@@ -1,0 +1,530 @@
+{
+ "_about": "Storytellers' tail, group 37: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): H. Caldwell Lipsett, Grace Denio Litchfield, George Little, John Uri Lloyd, W. Reynolds Lloyd, Richard Adams Locke, John Lockwood, George Looms, William Thomas Lopp, Frederic W. Loring, Fitz Hugh Ludlow, Benjamin Lumley, G. Frank Lydston, A. Neil Lyons, James M'Govan, J. N. M'Jilton, Maarten Maartens, Elizabeth Roberts MacDonald, Ronald MacDonald, Peter Clark MacFarlane, Fred MacIsaac, Harold Steele MacKaye, Steele MacKaye, Robert William MacKenna, James Arthur MacKnight, William MacOubrey, C. R. Macauley, J. H. A. Macdonald, Henry S. Mackarness, John Mackie. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 37 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hclipsett-where-the-atlantic-meets-the-land": [
+   "h. caldwell lipsett",
+   "lipsett"
+  ],
+  "gdlitchfield-only-an-incident": [
+   "grace denio litchfield",
+   "litchfield"
+  ],
+  "glittle-history-of-lumsden-s-battery-c-s-a": [
+   "george little"
+  ],
+  "julloyd-etidorhpa": [
+   "john uri lloyd",
+   "lloyd"
+  ],
+  "wrlloyd-miles-lawson": [
+   "w. reynolds lloyd",
+   "lloyd"
+  ],
+  "ralocke-moon-hoax": [
+   "richard adams locke",
+   "locke"
+  ],
+  "jlockwood-our-campaign-around-gettysburg-being-a-memorial-of": [
+   "john lockwood",
+   "lockwood"
+  ],
+  "glooms-stubble": [
+   "george looms",
+   "looms"
+  ],
+  "wtlopp-white-sox-the-story-of-the-reindeer-in-alaska": [
+   "william thomas lopp"
+  ],
+  "fwloring-two-college-friends": [
+   "frederic w. loring",
+   "frederic wadsworth loring",
+   "loring"
+  ],
+  "fhludlow-brace-of-boys-1867-from-little-brother": [
+   "fitz hugh ludlow",
+   "ludlow"
+  ],
+  "blumley-another-world": [
+   "benjamin lumley",
+   "lumley"
+  ],
+  "gflydston-poker-jim-gentleman-and-other-tales-and-sketches": [
+   "g. frank lydston",
+   "george frank lydston",
+   "lydston"
+  ],
+  "anlyons-sixpenny-pieces": [
+   "a. neil lyons",
+   "albert neil lyons",
+   "lyons"
+  ],
+  "jmgovan-traced-and-tracked": [
+   "james m'govan",
+   "m'govan"
+  ],
+  "jnmjilton-washington-the-model-of-character-for-american-you": [
+   "j. n. m'jilton",
+   "john nelson m'jilton",
+   "m'jilton"
+  ],
+  "mmaartens-my-lady-nobody": [
+   "maarten maartens",
+   "maartens"
+  ],
+  "ermacdonald-our-little-canadian-cousin": [
+   "elizabeth roberts macdonald",
+   "macdonald"
+  ],
+  "rmacdonald-sword-of-the-king": [
+   "ronald macdonald",
+   "macdonald"
+  ],
+  "pcmacfarlane-held-to-answer": [
+   "peter clark macfarlane",
+   "macfarlane"
+  ],
+  "fmacisaac-impulsive-mr-morrison": [
+   "fred macisaac",
+   "macisaac"
+  ],
+  "hsmackaye-panchronicon": [
+   "harold steele mackaye",
+   "mackaye"
+  ],
+  "smackaye-representative-plays-by-american-dramatists": [
+   "steele mackaye",
+   "mackaye"
+  ],
+  "rwmackenna-flower-o-the-heather": [
+   "robert william mackenna",
+   "mackenna"
+  ],
+  "jamacknight-hagar": [
+   "james arthur macknight",
+   "macknight"
+  ],
+  "wmacoubrey-drake": [
+   "william macoubrey",
+   "macoubrey"
+  ],
+  "crmacauley-red-tavern": [
+   "c. r. macauley",
+   "charles raymond macauley",
+   "macauley"
+  ],
+  "jhamacdonald-our-trip-to-blunderland": [
+   "j. h. a. macdonald",
+   "john hay athole macdonald",
+   "macdonald"
+  ],
+  "hsmackarness-etiquette-for-little-folks": [
+   "henry s. mackarness",
+   "mackarness"
+  ],
+  "jmackie-rising-of-the-red-man-a-romance-of-the-louis-riel-re": [
+   "john mackie",
+   "mackie"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hclipsett-where-the-atlantic-meets-the-land": [
+   74865,
+   "Where the Atlantic meets the land"
+  ],
+  "gdlitchfield-only-an-incident": [
+   10780,
+   "Only an Incident"
+  ],
+  "glittle-history-of-lumsden-s-battery-c-s-a": [
+   26455,
+   "A history of Lumsden's Battery, C.S.A."
+  ],
+  "julloyd-etidorhpa": [
+   37775,
+   "Etidorhpa; or, The End of Earth. The Strange History of a Mysterious Being and the Account of a Remarkable Journey"
+  ],
+  "wrlloyd-miles-lawson": [
+   72740,
+   "Miles Lawson"
+  ],
+  "ralocke-moon-hoax": [
+   62779,
+   "The moon hoax"
+  ],
+  "jlockwood-our-campaign-around-gettysburg-being-a-memorial-of": [
+   31258,
+   "Our campaign around Gettysburg Being a memorial of what was endured, suffered and accomplished by the Twenty-third regiment (N. Y. S. N. G.) and other regiments associated with them, in their Pennsylvania and Maryland campaign, during the second rebel invasion of the loyal states in June-July, 1863"
+  ],
+  "glooms-stubble": [
+   25158,
+   "Stubble"
+  ],
+  "wtlopp-white-sox-the-story-of-the-reindeer-in-alaska": [
+   72294,
+   "White Sox, the story of the reindeer in Alaska"
+  ],
+  "fwloring-two-college-friends": [
+   57757,
+   "Two College Friends"
+  ],
+  "fhludlow-brace-of-boys-1867-from-little-brother": [
+   23170,
+   "A Brace Of Boys 1867, From \"Little Brother\""
+  ],
+  "blumley-another-world": [
+   16503,
+   "Another World: Fragments from the Star City of Montalluyah"
+  ],
+  "gflydston-poker-jim-gentleman-and-other-tales-and-sketches": [
+   59050,
+   "Poker Jim, Gentleman, and Other Tales and Sketches"
+  ],
+  "anlyons-sixpenny-pieces": [
+   44952,
+   "Sixpenny Pieces"
+  ],
+  "jmgovan-traced-and-tracked": [
+   58711,
+   "Traced and Tracked; Or, Memoirs of a City Detective"
+  ],
+  "jnmjilton-washington-the-model-of-character-for-american-you": [
+   58397,
+   "Washington the Model of Character for American Youth An Address Delivered to the Boys of the Public Schools"
+  ],
+  "mmaartens-my-lady-nobody": [
+   49903,
+   "My Lady Nobody: A Novel"
+  ],
+  "ermacdonald-our-little-canadian-cousin": [
+   43249,
+   "Our Little Canadian Cousin"
+  ],
+  "rmacdonald-sword-of-the-king": [
+   59873,
+   "The Sword of the King"
+  ],
+  "pcmacfarlane-held-to-answer": [
+   44633,
+   "Held to Answer: A Novel"
+  ],
+  "fmacisaac-impulsive-mr-morrison": [
+   79744,
+   "The impulsive Mr. Morrison"
+  ],
+  "hsmackaye-panchronicon": [
+   27682,
+   "The Panchronicon"
+  ],
+  "smackaye-representative-plays-by-american-dramatists": [
+   13006,
+   "Representative Plays by American Dramatists: 1856-1911: Paul Kauvar; or, Anarchy"
+  ],
+  "rwmackenna-flower-o-the-heather": [
+   46769,
+   "Flower o' the Heather: A Story of the Killing Times"
+  ],
+  "jamacknight-hagar": [
+   79095,
+   "Hagar"
+  ],
+  "wmacoubrey-drake": [
+   52582,
+   "Drake; or, the Transfer of the Trident: A National Drama"
+  ],
+  "crmacauley-red-tavern": [
+   44182,
+   "The Red Tavern"
+  ],
+  "jhamacdonald-our-trip-to-blunderland": [
+   74822,
+   "Our trip to Blunderland"
+  ],
+  "hsmackarness-etiquette-for-little-folks": [
+   67553,
+   "Etiquette for Little Folks"
+  ],
+  "jmackie-rising-of-the-red-man-a-romance-of-the-louis-riel-re": [
+   12827,
+   "The Rising of the Red Man A Romance of the Louis Riel Rebellion"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hclipsett-where-the-atlantic-meets-the-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. caldwell lipsett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdlitchfield-only-an-incident": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace denio litchfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glittle-history-of-lumsden-s-battery-c-s-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "julloyd-etidorhpa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john uri lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wrlloyd-miles-lawson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. reynolds lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ralocke-moon-hoax": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard adams locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlockwood-our-campaign-around-gettysburg-being-a-memorial-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john lockwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glooms-stubble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george looms",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wtlopp-white-sox-the-story-of-the-reindeer-in-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william thomas lopp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwloring-two-college-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic w. loring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhludlow-brace-of-boys-1867-from-little-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fitz hugh ludlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blumley-another-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin lumley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gflydston-poker-jim-gentleman-and-other-tales-and-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. frank lydston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anlyons-sixpenny-pieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. neil lyons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmgovan-traced-and-tracked": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james m'govan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnmjilton-washington-the-model-of-character-for-american-you": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. n. m'jilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmaartens-my-lady-nobody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maarten maartens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ermacdonald-our-little-canadian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth roberts macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmacdonald-sword-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcmacfarlane-held-to-answer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter clark macfarlane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmacisaac-impulsive-mr-morrison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred macisaac",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmackaye-panchronicon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold steele mackaye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smackaye-representative-plays-by-american-dramatists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "steele mackaye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwmackenna-flower-o-the-heather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert william mackenna",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jamacknight-hagar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james arthur macknight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmacoubrey-drake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william macoubrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmacauley-red-tavern": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. r. macauley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhamacdonald-our-trip-to-blunderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. a. macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsmackarness-etiquette-for-little-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry s. mackarness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmackie-rising-of-the-red-man-a-romance-of-the-louis-riel-re": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mackie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

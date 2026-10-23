@@ -20802,3 +20802,40 @@ Shelf: `pipeline/storytellers-tail-36_shelf.json` (2026-10-22; added at the coor
 | Indian Why Stories: Sparks from War Eagle's Lodge-Fire | have | PG 606, `fblinderman-indian-why-stories` (492 units) |
 | A Voyage to Arcturus | have | PG 1329, `dlindsay-voyage-to-arcturus` (3142 units) |
 | At Start and Finish | have | PG 39668, `wlindsey-at-start-and-finish` (835 units) |
+
+## Storytellers' tail, group 37 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-37_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: H. Caldwell Lipsett, Grace Denio Litchfield, George Little, John Uri Lloyd, W. Reynolds Lloyd, Richard Adams Locke, John Lockwood, George Looms, William Thomas Lopp, Frederic W. Loring, Fitz Hugh Ludlow, Benjamin Lumley, G. Frank Lydston, A. Neil Lyons, James M'Govan, J. N. M'Jilton, Maarten Maartens, Elizabeth Roberts MacDonald, Ronald MacDonald, Peter Clark MacFarlane, Fred MacIsaac, Harold Steele MacKaye, Steele MacKaye, Robert William MacKenna, James Arthur MacKnight, William MacOubrey, C. R. Macauley, J. H. A. Macdonald, Henry S. Mackarness, John Mackie. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Where the Atlantic meets the land | have | PG 74865, `hclipsett-where-the-atlantic-meets-the-land` (996 units) |
+| Only an Incident | have | PG 10780, `gdlitchfield-only-an-incident` (889 units) |
+| A history of Lumsden's Battery, C.S.A. | have | PG 26455, `glittle-history-of-lumsden-s-battery-c-s-a` (209 units) |
+| Etidorhpa; or, The End of Earth. The Strange History of a Mysterious Being and the Account of a Remarkable Journey | have | PG 37775, `julloyd-etidorhpa` (1984 units) |
+| Miles Lawson | have | PG 72740, `wrlloyd-miles-lawson` (370 units) |
+| The moon hoax | have | PG 62779, `ralocke-moon-hoax` (118 units) |
+| Our campaign around Gettysburg Being a memorial of what was endured, suffered and accomplished by the Twenty-third regiment (N. Y. S. N. G.) and other regiments associated with them, in their Pennsylvania and Maryland campaign, during the second rebel invasion of the loyal states in June-July, 1863 | have | PG 31258, `jlockwood-our-campaign-around-gettysburg-being-a-memorial-of` (344 units) |
+| Stubble | have | PG 25158, `glooms-stubble` (1325 units) |
+| White Sox, the story of the reindeer in Alaska | have | PG 72294, `wtlopp-white-sox-the-story-of-the-reindeer-in-alaska` (394 units) |
+| Two College Friends | have | PG 57757, `fwloring-two-college-friends` (408 units) |
+| A Brace Of Boys 1867, From "Little Brother" | have | PG 23170, `fhludlow-brace-of-boys-1867-from-little-brother` (204 units) |
+| Another World: Fragments from the Star City of Montalluyah | have | PG 16503, `blumley-another-world` (1237 units) |
+| Poker Jim, Gentleman, and Other Tales and Sketches | have | PG 59050, `gflydston-poker-jim-gentleman-and-other-tales-and-sketches` (1377 units) |
+| Sixpenny Pieces | have | PG 44952, `anlyons-sixpenny-pieces` (1632 units) |
+| Traced and Tracked; Or, Memoirs of a City Detective | have | PG 58711, `jmgovan-traced-and-tracked` (2345 units) |
+| Washington the Model of Character for American Youth An Address Delivered to the Boys of the Public Schools | have | PG 58397, `jnmjilton-washington-the-model-of-character-for-american-you` (86 units) |
+| My Lady Nobody: A Novel | have | PG 49903, `mmaartens-my-lady-nobody` (4007 units) |
+| Our Little Canadian Cousin | have | PG 43249, `ermacdonald-our-little-canadian-cousin` (444 units) |
+| The Sword of the King | have | PG 59873, `rmacdonald-sword-of-the-king` (1150 units) |
+| Held to Answer: A Novel | have | PG 44633, `pcmacfarlane-held-to-answer` (3205 units) |
+| The impulsive Mr. Morrison | have | PG 79744, `fmacisaac-impulsive-mr-morrison` (622 units) |
+| The Panchronicon | have | PG 27682, `hsmackaye-panchronicon` (2964 units) |
+| Representative Plays by American Dramatists: 1856-1911: Paul Kauvar; or, Anarchy | have | PG 13006, `smackaye-representative-plays-by-american-dramatists` (1923 units) |
+| Flower o' the Heather: A Story of the Killing Times | have | PG 46769, `rwmackenna-flower-o-the-heather` (1649 units) |
+| Hagar | have | PG 79095, `jamacknight-hagar` (2076 units) |
+| Drake; or, the Transfer of the Trident: A National Drama | have | PG 52582, `wmacoubrey-drake` (728 units) |
+| The Red Tavern | have | PG 44182, `crmacauley-red-tavern` (1367 units) |
+| Our trip to Blunderland | have | PG 74822, `jhamacdonald-our-trip-to-blunderland` (1259 units) |
+| Etiquette for Little Folks | have | PG 67553, `hsmackarness-etiquette-for-little-folks` (200 units) |
+| The Rising of the Red Man A Romance of the Louis Riel Rebellion | have | PG 12827, `jmackie-rising-of-the-red-man-a-romance-of-the-louis-riel-re` (945 units) |
