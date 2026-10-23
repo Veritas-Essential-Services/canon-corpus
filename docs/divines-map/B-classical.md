@@ -10140,3 +10140,12 @@ Shelf: `pipeline/robert-ogilvie_shelf.json`. Horae Latinae (1901); Latin-heavy. 
 |---|---|---|---|
 | Horae Latinae: Studies in Synonyms and Syntax (1901) |  | `ogilvie-horae-latinae-1901` | have-raw (IA `horaelatinaestud00ogiluoft`) |
 
+
+## Frank Granger (1864-1936)
+
+Shelf: `pipeline/frank-granger_shelf.json`. The Worship of the Romans (1895). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Worship of the Romans, Viewed in Relation to the Roman Temperament (1895) |  | `granger-worship-of-the-romans-1895` | have-raw (IA `worshipoftheroma00granuoft`) |
+
