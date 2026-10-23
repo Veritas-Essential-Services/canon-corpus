@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Isabel Florence Hapgood (1851-1928). Hugo's Les Misérables (1887), Gorky, Turgenev and Bunin. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Isabel Florence Hapgood (1851-1928). Hugo's Les Misérables (1887), Gorky, Turgenev and Bunin. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst. Round 120 (2026-10-23, vetoable) added Leskov's The Cathedral Folk (Knopf, 1924) from an archive.org scan.",
  "_name_words": [
   "hapgood"
  ],
@@ -61,7 +61,12 @@
    "The Steel Flea"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hapgood-leskov-cathedral-folk": [
+   "cathedralfolk0000nico",
+   "The Cathedral Folk (1924)"
+  ]
+ },
  "titles": {
   "hapgood-bunin-village": {
    "source": "hapgood-village",
@@ -172,6 +177,14 @@
    "translated": 1904,
    "translator": "Isabel F. Hapgood",
    "scan_edition": "Project Gutenberg 41201 (clean text)"
+  },
+  "hapgood-leskov-cathedral-folk": {
+   "source": "hapgood-leskov-cathedral-folk",
+   "of": "Nikolai Leskov",
+   "work": "The Cathedral Folk",
+   "translated": 1924,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Alfred A. Knopf, New York 1924 (published January 1924; introduction by Edward Garnett); archive.org scan"
   }
  },
  "_pending": {
@@ -184,7 +197,7 @@
  "_checks": {
   "hapgood-les-miserables": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -193,7 +206,7 @@
   },
   "hapgood-orloff": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -202,7 +215,7 @@
   },
   "hapgood-village": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -211,7 +224,7 @@
   },
   "hapgood-first-love": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -220,7 +233,7 @@
   },
   "hapgood-superfluous-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -229,7 +242,7 @@
   },
   "hapgood-reckless-character": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -238,7 +251,7 @@
   },
   "hapgood-nobleman": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -247,7 +260,7 @@
   },
   "hapgood-pg2610": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -256,7 +269,7 @@
   },
   "hapgood-pg3540": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -265,7 +278,7 @@
   },
   "hapgood-pg3541": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -274,7 +287,7 @@
   },
   "hapgood-pg3631": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -283,7 +296,7 @@
   },
   "hapgood-pg47197": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -292,12 +305,23 @@
   },
   "hapgood-pg61172": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-leskov-cathedral-folk": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -365,6 +389,20 @@
    "pg": 61172,
    "pg_copyrighted_marker": false,
    "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-leskov-cathedral-folk": {
+   "ia": "cathedralfolk0000nico",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1831,
+    1872,
+    1895,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ],
+   "post_1930_examined": "Examined in round 120: 2026 is the Internet Archive's digitising line; the title page reads Alfred A. Knopf, New York, 1924, published January 1924."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

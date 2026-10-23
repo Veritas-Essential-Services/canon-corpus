@@ -426,7 +426,7 @@ Round 5, lane C's choice; vetoable. Round 116 (2026-10-17) added Zagoskin's Tale
 ## Isabel Hapgood (Hugo, Gorky, Turgenev, Bunin)
 
 Shelf: `pipeline/hapgood_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hapgood` · titles `python3 pipeline/split_shelf_titles.py hapgood`.
-Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Round 120 (2026-10-23) added Leskov's The Cathedral Folk (Knopf, 1924). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -443,6 +443,7 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hapgood-turgenev-nobleman` | Turgenev | A Nobleman's Nest | Isabel F. Hapgood | 1903 | have | PG 25771 |
 | `hapgood-turgenev-reckless-character` | Turgenev | A Reckless Character, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 15994 |
 | `hapgood-turgenev-superfluous-man` | Turgenev | The Diary of a Superfluous Man, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 41201 |
+| `hapgood-leskov-cathedral-folk` | Nikolai Leskov | The Cathedral Folk | Isabel F. Hapgood | 1924 | have-raw | IA `cathedralfolk0000nico` |
 | `hapgood-tolstoy-childhood` | — | Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.) | — | — | pending | — |
 | — | — | pg-3630: What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541. | — | — | excluded | — |
 
@@ -4935,12 +4936,14 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## J. D. Duff (Aksakov; Herzen's Memoirs)
 
 Shelf: `pipeline/jd-duff_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jd-duff` · titles `python3 pipeline/split_shelf_titles.py jd-duff`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 120 (2026-10-23) added Aksakov's Years of Childhood (1916) and A Russian Schoolboy (1917). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `jd-duff-aksakov-a-russian-gentleman` | S. T. Aksakov | A Russian Gentleman | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 38781 |
 | `jd-duff-herzen-the-memoirs-of-alexander-herzen-parts-i` | Aleksandr Herzen | The Memoirs of Alexander Herzen, Parts I and II | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 67882 |
+| `jd-duff-aksakov-years-of-childhood` | Sergei Aksakov | Years of Childhood | J. D. Duff | 1916 | have-raw | IA `yearsofchildhood00aksa` |
+| `jd-duff-aksakov-a-russian-schoolboy` | Sergei Aksakov | A Russian Schoolboy | J. D. Duff | 1917 | have-raw | IA `russianschoolboy00aksauoft` |
 
 ## Bérengère Drillien's Anatole France
 
@@ -5610,7 +5613,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5654,13 +5657,15 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra` | anonymous (the Vajracchedikā Sūtra) | The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita | William Gemmell (from Kumārajīva's Chinese) | (see the Gutenberg header) | have | PG 64623 |
 | `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
 | `singles-plays-poetry-2-petofi-selections-phillips` | Sándor Petőfi | Selections from the Poems of Alexander Petőfi | Henry Phillips Jr. | 1885 | have-raw | IA `selectionsfrompo00petouoft` |
+| `singles-plays-poetry-2-krylov-fables-ralston` | Ivan Krylov | Krilof and His Fables | W. R. S. Ralston | 1869 | have-raw | IA `krilofhisfables00kryluoft` |
+| `singles-plays-poetry-2-krylov-fables-harrison` | Ivan Krylov | Kriloff's Original Fables | I. Henry Harrison | 1883 | have-raw | IA `cu31924026691612` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5745,6 +5750,8 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-lazhechnikov-the-heretic-vol-2` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans02lazhuoft` |
 | `singles-fiction-3-lazhechnikov-the-heretic-vol-3` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans03lazhuoft` |
 | `singles-fiction-3-pontoppidan-emanuel` | Henrik Pontoppidan | Emanuel, or Children of the Soil | Mrs. Edgar Lucas | 1896 | have-raw | IA `emanuelorchildre00pontiala` |
+| `singles-fiction-3-leskov-the-sentry` | Nikolai Leskov | The Sentry, and Other Stories | A. E. Chamot | 1923 | have-raw | IA `NikolaiLeskov-SentryAndOtherStories` |
+| `singles-fiction-3-turgenev-liza-ralston` | Ivan Turgenev | Liza (A Nest of Nobles) | W. R. S. Ralston | 1869 | have-raw | IA `lizaturg01turg` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -6141,7 +6148,7 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: history, travel, ideas and music from the first stretch of the list (De Orbe Novo, Morga's Philippines, Lobo's Abyssinia by Samuel Johnson, the Tudor Machiavelli, Lamartine's Girondists, Arago, Wagner On Conducting)
 
 Shelf: `pipeline/singles-nonfiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-nonfiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-nonfiction-2`.
-Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Round 111 added Martha Walker Cook's Krasiński, The Undivine Comedy (Lippincott 1875). Not converted to unit-id JSON; **no uids minted**.
+Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Round 111 added Martha Walker Cook's Krasiński, The Undivine Comedy (Lippincott 1875). Round 120 (2026-10-23) added Veresaev's In the War (Wiener, 1917) and The Confessions of a Physician (Linden, 1904). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6232,6 +6239,8 @@ Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vo
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-2` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II | H. T. Ryde | 1849 | have-raw | IA `historyofgirondi0002lama_z7v9` |
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-3` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III | H. T. Ryde | 1848 | have-raw | IA `historygirondist03lama` |
 | `singles-nonfiction-2-krasinski-undivine-comedy` | Zygmunt Krasiński | The Undivine Comedy, and Other Poems, with Klaczko's Polish Poetry in the Nineteenth Century and a short biography | Martha Walker Cook | 1875 | have-raw | IA `undivinecomedyot00kras` |
+| `singles-nonfiction-2-veresaev-in-the-war` | Vikenty Veresaev | In the War: Memoirs of V. Veresáev | Leo Wiener | 1917 | have-raw | IA `cu31924023038049` |
+| `singles-nonfiction-2-veresaev-confessions-of-a-physician` | Vikenty Veresaev | The Confessions of a Physician | Simeon Linden | 1904 | have-raw | IA `b21701970` |
 | — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
 | — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
 

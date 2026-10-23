@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: J. D. Duff (1860-1940): Aksakov's A Russian Gentleman (1917) and The Memoirs of Alexander Herzen, Parts I and II (1923). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: J. D. Duff (1860-1940): Aksakov's A Russian Gentleman (1917) and The Memoirs of Alexander Herzen, Parts I and II (1923). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Aksakov's Years of Childhood (1916) and A Russian Schoolboy (1917), both Edward Arnold, from archive.org scans.",
  "_name_words": [
   "j. d. duff"
  ],
@@ -18,7 +18,16 @@
    "The Memoirs of Alexander Herzen, Parts I and II"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jdd-aksakov-years-of-childhood": [
+   "yearsofchildhood00aksa",
+   "Years of Childhood (1916)"
+  ],
+  "jdd-aksakov-russian-schoolboy": [
+   "russianschoolboy00aksauoft",
+   "A Russian Schoolboy (1917)"
+  ]
+ },
  "titles": {
   "jd-duff-aksakov-a-russian-gentleman": {
    "source": "jdd-38781",
@@ -35,15 +44,33 @@
    "translated": "1917-1923 (see the Gutenberg header)",
    "translator": "J. D. Duff",
    "scan_edition": "Project Gutenberg 67882 (clean text)"
+  },
+  "jd-duff-aksakov-years-of-childhood": {
+   "source": "jdd-aksakov-years-of-childhood",
+   "of": "Sergei Aksakov",
+   "work": "Years of Childhood",
+   "translated": 1916,
+   "translator": "J. D. Duff",
+   "scan_edition": "Edward Arnold, London 1916; archive.org scan"
+  },
+  "jd-duff-aksakov-a-russian-schoolboy": {
+   "source": "jdd-aksakov-russian-schoolboy",
+   "of": "Sergei Aksakov",
+   "work": "A Russian Schoolboy",
+   "translated": 1917,
+   "translator": "J. D. Duff",
+   "scan_edition": "Edward Arnold, London 1917; University of Toronto scan"
   }
  },
- "_pending": {},
+ "_pending": {
+  "beverley-aksakov-chronicles": "Not Duff's: M. C. Beverley's Chronicles of a Russian Family (Routledge, Broadway Translations, introduction by Prince Mirsky; catalogued 1924), archive.org aksakovchronicle0000aksa. The scan prints no year, so it waits under the undated-printing rule."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "jdd-38781": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. d. duff",
    "identity": "ok",
@@ -52,12 +79,34 @@
   },
   "jdd-67882": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. d. duff",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "J. D. Duff"
+  },
+  "jdd-aksakov-years-of-childhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jdd-aksakov-russian-schoolboy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +119,39 @@
    "pg": 67882,
    "pg_copyrighted_marker": false,
    "pg_translator": "J. D. Duff"
+  },
+  "jdd-aksakov-years-of-childhood": {
+   "ia": "yearsofchildhood00aksa",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1799,
+    1807,
+    1808,
+    1816,
+    1839,
+    1858,
+    1859,
+    1906,
+    1908,
+    1915,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "jdd-aksakov-russian-schoolboy": {
+   "ia": "russianschoolboy00aksauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1799,
+    1807,
+    1856,
+    1858,
+    1859,
+    1900,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

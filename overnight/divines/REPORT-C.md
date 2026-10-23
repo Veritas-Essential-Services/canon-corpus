@@ -314,3 +314,5 @@
 - 2026-10-17T23:30-05:00: round 118: morris-magnusson +2 (Runeberg x2), scandinavian-classics +1 (Garborg). --verify --record 0 mismatched.
 
 - 2026-10-17T23:33-05:00: round 119: hispanic-classics +3 (Churton's Gongora x2, Lorente's Canaan). --verify --record 0 mismatched.
+
+- 2026-10-22T22:15-05:00: resumed (network back). Garnett recheck: 30081000790570 (W&P 1925, partial upload) to _pending. Round 120: hapgood +1, jd-duff +2, singles-fiction-3 +2, singles-nonfiction-2 +2, singles-plays-poetry-2 +2. --verify --record 0 mismatched.
