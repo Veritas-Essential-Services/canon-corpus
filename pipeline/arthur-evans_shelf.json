@@ -1,0 +1,220 @@
+{
+ "_about": "Sir Arthur Evans (Arthur John Evans, 1851-1941), excavator of Knossos, Keeper of the Ashmolean Museum. Classical scholarship and Aegean archaeology (lane B). Raw IA OCR: The Palace of Minos at Knossos, vol. I (London: Macmillan, 1921), vol. II parts I and II (1928) and vol. III (1930); The Mycenaean Tree and Pillar Cult (1901), Cretan Pictographs and Prae-Phoenician Script (1895), Scripta Minoa vol. I (Oxford, 1909), The Prehistoric Tombs of Knossos (1906), Through Bosnia and the Herzegovina on Foot (2nd ed., 1877), Antiquarian Researches in Illyricum (1883), The 'Horsemen' of Tarentum (1889) and Syracusan 'Medallions' and their Engravers (1892). Works published in 1930 became US public domain on 1 January 2026. Not taken: Palace of Minos vol. IV (1935) and the Index (1936), after the cutoff; the 1914 Smithsonian offprint of The Minoan and Mycenaean Element in Hellenic Life, whose scan carries more than the offprint. Not Christmas Evans (lane A). US public domain. No uids minted.",
+ "_author": "Arthur Evans",
+ "_name_words": [
+  "arthur",
+  "evans"
+ ],
+ "_surname": [
+  "arthur evans",
+  "arthur j. evans",
+  "arthur john evans"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "evans-palace-of-minos-1-1921": [
+   "palaceofminoscom01evanuoft",
+   "The Palace of Minos, vol. I (Macmillan, 1921)"
+  ],
+  "evans-palace-of-minos-2-1-1928": [
+   "palaceofminos0000arth",
+   "The Palace of Minos, vol. II part I (Macmillan, 1928)"
+  ],
+  "evans-palace-of-minos-2-2-1928": [
+   "palaceofminos0000unse_b0f9",
+   "The Palace of Minos, vol. II part II (Macmillan, 1928)"
+  ],
+  "evans-palace-of-minos-3-1930": [
+   "palaceofminoscom03evan",
+   "The Palace of Minos, vol. III (Macmillan, 1930)"
+  ],
+  "evans-mycenaean-tree-pillar-cult-1901": [
+   "mycenaeantreepil00evanuoft",
+   "The Mycenaean Tree and Pillar Cult and its Mediterranean Relations (Macmillan, 1901)"
+  ],
+  "evans-cretan-pictographs-1895": [
+   "cu31924028235038",
+   "Cretan Pictographs and Prae-Phoenician Script (Quaritch, 1895)"
+  ],
+  "evans-scripta-minoa-1-1909": [
+   "scriptaminoawrit01evanuoft",
+   "Scripta Minoa, the written documents of Minoan Crete, vol. I (Oxford, 1909)"
+  ],
+  "evans-prehistoric-tombs-knossos-1906": [
+   "prehistorictombs00evan",
+   "The Prehistoric Tombs of Knossos (Quaritch, 1906)"
+  ],
+  "evans-through-bosnia-1877": [
+   "throughbosniaher00evanrich",
+   "Through Bosnia and the Herzegovina on Foot during the Insurrection, 2nd ed. (Longmans, 1877)"
+  ],
+  "evans-antiquarian-researches-illyricum-1883": [
+   "antiquarianresea00evan",
+   "Antiquarian Researches in Illyricum, parts I-IV (Society of Antiquaries, 1883)"
+  ],
+  "evans-horsemen-of-tarentum-1889": [
+   "horsemenoftarent00evaniala",
+   "The 'Horsemen' of Tarentum (Quaritch, 1889)"
+  ],
+  "evans-syracusan-medallions-1892": [
+   "syracusanmedalli00evaniala",
+   "Syracusan 'Medallions' and their Engravers (Quaritch, 1892)"
+  ]
+ },
+ "_excluded": {
+  "Palace of Minos vol. IV (1935) and Index (1936)": "published after 1930",
+  "IA b24878959": "1914 Smithsonian offprint; the scan holds more than the 21-page article"
+ },
+ "_rights_checked": {
+  "evans-palace-of-minos-3-1930": "title page: Macmillan, 1930; 1930 publications are US public domain from 2026-01-01",
+  "evans-palace-of-minos-1-1921": "title page read 2026-10-23: Macmillan, 1921 (vol. I); IA's 1935 is a later volume's date"
+ },
+ "_identity_checked": {
+  "evans-cretan-pictographs-1895": {
+   "author": "Title page read 2026-10-23: 'Arthur J. Evans, M.A., F.S.A.', first name OCR'd 'AETHUR'"
+  },
+  "evans-prehistoric-tombs-knossos-1906": {
+   "author": "Title page read 2026-10-23: 'Arthur J. Evans, Esq., Litt.D., F.R.S., F.S.A.', first name OCR'd 'AliTIIUn'"
+  },
+  "evans-syracusan-medallions-1892": {
+   "author": "Title page read 2026-10-23: 'Arthur J. Evans, M.A., F.S.A.', first name OCR'd 'AETHUE'"
+  }
+ },
+ "_checks": {
+  "evans-palace-of-minos-1-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1935",
+   "ia_date": "1921-1935",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read 2026-10-23: Macmillan, 1921 (vol. I); IA's 1935 is a later volume's date"
+  },
+  "evans-palace-of-minos-2-1-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evans-palace-of-minos-2-2-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evans-palace-of-minos-3-1930": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page: Macmillan, 1930; 1930 publications are US public domain from 2026-01-01"
+  },
+  "evans-mycenaean-tree-pillar-cult-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-cretan-pictographs-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evans-scripta-minoa-1-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-prehistoric-tombs-knossos-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-through-bosnia-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-antiquarian-researches-illyricum-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1883-1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-horsemen-of-tarentum-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-syracusan-medallions-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
