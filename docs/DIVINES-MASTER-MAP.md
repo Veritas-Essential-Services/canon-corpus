@@ -19711,18 +19711,21 @@ Added at the coordinator's relay, vetoable. Not converted to unit-id JSON; **no 
 ## Burton (Arabian Nights, Camoens)
 
 Shelf: `pipeline/burton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burton` · titles `python3 pipeline/split_shelf_titles.py burton`.
-Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
+Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Round 139 (2026-10-23) added the Lyricks (1884, both parts), The Lands of Cazembe and Manuel de Moraes from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `burton-arabian-nights` | The Thousand and One Nights (Arabic) | The Book of the Thousand Nights and a Night, 10 vols | Richard Francis Burton | 1885 | have | PG 51252 … PG 58360 (10 vols) |
 | `burton-supplemental-nights` | The Thousand and One Nights (Arabic) | Supplemental Nights, 6 vols (vol. 3 in two PG parts) | Richard Francis Burton | 1886-88 | have | PG 59156 … PG 64384 (7 vols) |
 | `burton-lusiads` | Camoens | Os Lusiadas | Richard Francis Burton | 1880 | have | PG 77660 + PG 77661 |
+| `burton-camoens-the-lyricks-part-1` | Luís de Camões | The Lyricks, Part I (Sonnets, Canzons, Odes and Sextines) | Richard F. Burton | 1884 | have-raw | IA `lyrickssonnetsca01camuoft` |
+| `burton-camoens-the-lyricks-part-2` | Luís de Camões | The Lyricks, Part II (Sonnets, Canzons, Odes and Sextines) | Richard F. Burton | 1884 | have-raw | IA `india.history.resource.74606` |
+| `burton-lacerda-the-lands-of-cazembe` | Francisco José de Lacerda e Almeida (with the Pombeiros and Monteiro journals) | The Lands of Cazembe: Lacerda's Journey to Cazembe in 1798 | Richard F. Burton | 1873 | have-raw | IA `landsofcazembela00roya` |
+| `burton-pereira-da-silva-manuel-de-moraes` | J. M. Pereira da Silva | Manuel de Moraes: a Chronicle of the Seventeenth Century | Richard F. and Isabel Burton | 1886 | have-raw | IA `manueldemoraesch00pere` |
 | `burton-catullus` | — | The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights. | — | — | pending | — |
 | `burton-kama-sutra` | — | Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content. | — | — | pending | — |
 | `burton-pentamerone` | — | Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call. | — | — | pending | — |
 | `burton-vikram` | — | Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator. | — | — | pending | — |
-| `burton-camoens-lyricks` | — | Burton's Lyricks of Camoens (1884; IA scan): the only scan found (IA cu31924102142985) is a Cornell University Library replacement volume (2005), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | pg-3435..3450: Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used. | — | — | excluded | — |
 | — | — | pg-6036: The Kasidah: Burton's own poem presented as a translation (a literary mask). | — | — | excluded | — |
 | — | — | travel-books: Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them). | — | — | excluded | — |
@@ -20011,7 +20014,7 @@ Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Round
 ## H. A. and Lionel Giles (Chinese)
 
 Shelf: `pipeline/giles_shelf.json` · fetch `python3 pipeline/fetch_shelf.py giles` · titles `python3 pipeline/split_shelf_titles.py giles`.
-Round 5, vetoable. Lionel Giles is US PD only (UK until end-2028). Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Lionel Giles is US PD only (UK until end-2028). Round 139 (2026-10-23) added three Herbert A. Giles translations from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20019,13 +20022,16 @@ Round 5, vetoable. Lionel Giles is US PD only (UK until end-2028). Not converted
 | `giles-strange-stories` | Pu Songling | Strange Stories from a Chinese Studio | Herbert A. Giles | 1880 | have | PG 43629 |
 | `giles-art-of-war` | Sunzi | The Art of War | Lionel Giles | 1910 | have | PG 132 |
 | `giles-sayings-of-confucius` | Confucius | The Sayings of Confucius | Lionel Giles | 1907 | have | PG 46389 |
+| `giles-gems-of-chinese-literature` | various Chinese authors | Gems of Chinese Literature (revised and greatly enlarged) | Herbert A. Giles | 1922 | have-raw | IA `gemsofchineselit00gile` |
+| `giles-chinese-poetry-in-english-verse` | various Chinese poets | Chinese Poetry in English Verse | Herbert A. Giles | 1898 | have-raw | IA `cu31924008867222` |
+| `giles-wang-yinglin-san-tzu-ching` | Wang Yinglin (attributed) | Elementary Chinese: San Tzu Ching, translated and annotated | Herbert A. Giles | 1900 | have-raw | IA `elementarychines00wangrich` |
 | — | — | giles-own-works: H. A. Giles's History of Chinese Literature and China and the Chinese: his own works. | — | — | excluded | — |
 | — | — | art-of-war-other-files: PG 17405 and 66706 are two more Gutenberg files of Lionel Giles's 1910 Art of War, already shelved here from PG 132: duplicates, not shelved (round 39). | — | — | excluded | — |
 
 ## Arthur Waley (pre-1931 only)
 
 Shelf: `pipeline/waley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py waley` · titles `python3 pipeline/split_shelf_titles.py waley`.
-Round 5, vetoable. 🔴 US PD only: UK copyright runs to the end of 2036. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. 🔴 US PD only: UK copyright runs to the end of 2036. Round 139 (2026-10-23) added The Temple (1923) and Blue Trousers (1928) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20035,7 +20041,9 @@ Round 5, vetoable. 🔴 US PD only: UK copyright runs to the end of 2036. Not co
 | `waley-no-plays` | Zeami and others | The No Plays of Japan | Arthur Waley | 1921 | have | PG 43304 |
 | `waley-genji-1-3` | Murasaki Shikibu | The Tale of Genji, parts 1-3 (The Tale of Genji; The Sacred Tree; A Wreath of Cloud) | Arthur Waley | 1925-1927 | have | PG 66057 + PG 67111 + PG 75852 |
 | `waley-pillow-book` | Sei Shonagon | The Pillow-Book of Sei Shonagon | Arthur Waley | 1928 | have | PG 76016 |
-| `waley-genji-4-6` | — | Genji parts 4-6 (Blue Trousers 1928, The Lady of the Boat 1932, The Bridge of Dreams 1933): part 4 is US PD but not on Gutenberg; parts 5-6 are after 1930 and are refused. | — | — | pending | — |
+| `waley-the-temple-and-other-poems` | various Chinese poets | The Temple and Other Poems | Arthur Waley | 1923 | have-raw | IA `templeotherpoems0000arth_c5c7` |
+| `waley-murasaki-blue-trousers` | Murasaki Shikibu | Blue Trousers, being the fourth part of The Tale of Genji | Arthur Waley | 1928 | have-raw | IA `bluetrousersbein00mura` |
+| `waley-augustan-poems` | — | Poems from the Chinese (Augustan Books of English Poetry, Ernest Benn; archive.org poemsfromchinese00waleiala and arthurwaleypoems00walerich): a selection from his earlier books, but the printing carries no date (the series ran from 1925), so it waits under the undated-printing rule. Found 2026-10-23 (round 139). | — | — | pending | — |
 | — | — | waley-after-1930: The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright. | — | — | excluded | — |
 
 ## John Hoole (Tasso; Metastasio)

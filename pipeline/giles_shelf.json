@@ -1,7 +1,8 @@
 {
  "_about": "TRANSLATOR SHELF: Herbert Allen Giles (1845-1935) and his son Lionel Giles (1875-1958). Zhuangzi (H. A., 1889), Pu Songling's Strange Stories (H. A., 1880), Sunzi's Art of War (L., 1910) and the Sayings of Confucius (L., 1907). The translator is recorded per title. US PD (published before 1931). In the UK, H. A. Giles's work is PD (d. 1935) but Lionel Giles's stays in copyright until the end of 2028. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "giles"
+  "giles",
+  "a. giles"
  ],
  "_surname": [
   "a. giles",
@@ -27,7 +28,20 @@
    "The Sayings of Confucius"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "giles-ia-gems": [
+   "gemsofchineselit00gile",
+   "Gems of Chinese Literature"
+  ],
+  "giles-ia-chinese-poetry": [
+   "cu31924008867222",
+   "Chinese Poetry in English Verse"
+  ],
+  "giles-ia-san-tzu-ching": [
+   "elementarychines00wangrich",
+   "San Tzu Ching (Elementary Chinese)"
+  ]
+ },
  "titles": {
   "giles-chuang-tzu": {
    "source": "giles-chuang-tzu",
@@ -60,18 +74,43 @@
    "translated": 1907,
    "translator": "Lionel Giles",
    "scan_edition": "Project Gutenberg 46389 (clean text)"
+  },
+  "giles-gems-of-chinese-literature": {
+   "source": "giles-ia-gems",
+   "of": "various Chinese authors",
+   "work": "Gems of Chinese Literature (revised and greatly enlarged)",
+   "translated": 1922,
+   "translator": "Herbert A. Giles",
+   "scan_edition": "Kelly and Walsh, Shanghai 1922; archive.org scan (Wellesley College copy)"
+  },
+  "giles-chinese-poetry-in-english-verse": {
+   "source": "giles-ia-chinese-poetry",
+   "of": "various Chinese poets",
+   "work": "Chinese Poetry in English Verse",
+   "translated": 1898,
+   "translator": "Herbert A. Giles",
+   "scan_edition": "Bernard Quaritch, London, and Kelly and Walsh, Shanghai 1898; archive.org scan (Cornell University copy)"
+  },
+  "giles-wang-yinglin-san-tzu-ching": {
+   "source": "giles-ia-san-tzu-ching",
+   "of": "Wang Yinglin (attributed)",
+   "work": "Elementary Chinese: San Tzu Ching, translated and annotated",
+   "translated": 1900,
+   "translator": "Herbert A. Giles",
+   "scan_edition": "Kelly and Walsh, Shanghai 1900 (printed by E. J. Brill, Leyden); archive.org scan"
   }
  },
  "_pending": {},
  "_excluded": {
   "giles-own-works": "H. A. Giles's History of Chinese Literature and China and the Chinese: his own works.",
-  "art-of-war-other-files": "PG 17405 and 66706 are two more Gutenberg files of Lionel Giles's 1910 Art of War, already shelved here from PG 132: duplicates, not shelved (round 39)."
+  "art-of-war-other-files": "PG 17405 and 66706 are two more Gutenberg files of Lionel Giles's 1910 Art of War, already shelved here from PG 132: duplicates, not shelved (round 39).",
+  "giles-chinese-fairy-tales": "Chinese Fairy Tales (Gowans and Gray, 1911/1920): 'told in English by' Herbert A. Giles, a retelling for children rather than a named translation; left off like other retellings."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "giles-chuang-tzu": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. giles",
    "identity": "ok",
@@ -80,7 +119,7 @@
   },
   "giles-strange-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. giles",
    "identity": "ok",
@@ -89,7 +128,7 @@
   },
   "giles-art-of-war": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lionel giles",
    "identity": "ok",
@@ -98,12 +137,45 @@
   },
   "giles-sayings-of-confucius": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. giles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lionel Giles"
+  },
+  "giles-ia-gems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "giles-ia-chinese-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "giles-ia-san-tzu-ching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -126,6 +198,42 @@
    "pg": 46389,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lionel Giles"
+  },
+  "giles-ia-gems": {
+   "ia": "gemsofchineselit00gile",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1644,
+    1650,
+    1883,
+    1912,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "giles-ia-chinese-poetry": {
+   "ia": "cu31924008867222",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1898,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "giles-ia-san-tzu-ching": {
+   "ia": "elementarychines00wangrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1786,
+    1813,
+    1835,
+    1864,
+    1873,
+    1879,
+    1892,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
