@@ -15494,3 +15494,21 @@ Slugs `wix-*`. Built from title pages read for round 93.
 | A retrospect of the operations of the Society for the Propagation of the Gospel in North America : a sermon preached Sunday, March 31, MDCCCXXXIII, at St. John's Church, Newfoundland ([St. John's, Nfld.? : s.n.], 1833) | have-ocr | IA `cihm_55715` |
 | Six months of a Newfoundland missionary's jounal (London, Smith, Elder and co., 1836) | have-ocr | IA `sixmonthsofnewfo00wixe` |
 | a Sunday-school examination address (1832) | excluded | |
+
+## Henry Wilkes (round 93, my pick, 2026-10-23)
+
+Slugs `wilkes-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Lecture on freedom of mind, by the Reverend Henry Wilkes, A.M., and speech of His Excellency the Right Hon. the Earl of Elgin & Kincardine, K. T., &c. : delivered before the Mercantile Library Association of Montreal, at the opening of the winter's course of lectures of that institution, Nov. 16, 1848 ([Montreal? : s.n.], 1848) | have-ocr | IA `cihm_62449` |
+| Death in the city : address at the funeral of the late John Easton Mills, Esq., mayor of the city of Montreal, delivered in the American Presbyterian Church, November, 1847 ([Montreal? : s.n.], 1848) | have-ocr | IA `cihm_28957b` |
+| Who is Christ? or, Our Lord's teaching concerning his own person, A discourse preached in the Wesleyan Church, Great St. James Street, Montreal, on Christmas Day, 1850 (Montreal : John C. Becket, 1851) | have-ocr | IA `whoischristorour00wilk` |
+| Jesus, the Divine Messiah : an address to Jews ([Montreal? : s.n.], 1851) | have-ocr | IA `cihm_60234` |
+| "Knowing the time" : a discourse on the improvement of time, delivered in Zion Church, on the first Sabbath, (January 2) of 1853 ([Montréal? : s.n.], 1853) | have-ocr | IA `cihm_92337` |
+| Christianity the restorer, or, Man's dominion over the earth, disturbed by sin, restored by Christ : a sermon preached in Zion Church, Montreal, April 17, 1859 ([Montréal? : s.n.], 1859) | have-ocr | IA `cihm_89959` |
+| The internal administration of the churches; or, Congregational independency viewed from within (Montreal, Lovell, 1859) | have-ocr | IA `internaladminist00wilk` |
+| How to use this world : a discourse delivered in Zion Church, Montreal, January 16, 1859 ([Montreal? : s.n.], 1859) | have-ocr | IA `cihm_63957` |
+| Brief annals of Zion Church, Montreal, from 1832 to 10th May, 1871 : with lists of office-bearers and members and reports for 1870 ([Montreal? : s.n.], 1871) | have-ocr | IA `cihm_42749` |
+| cihm_89276: the author line of the title page is lost in the OCR; catalogued under Wilkes; needs a page-image check | pending | not shelved |
+| Jesuits' Estates in Canada (1850, attribution uncertain) | excluded | |
