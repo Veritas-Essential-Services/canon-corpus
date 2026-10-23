@@ -10365,3 +10365,12 @@ Shelf: `pipeline/thomas-east-lones_shelf.json`. Aristotle's Researches in Natura
 |---|---|---|---|
 | Aristotle's Researches in Natural Science (London, 1912) |  | `lones-aristotles-researches-natural-science-1912` | have-raw (IA `aristotlesresear00loneuoft`) |
 
+
+## Thomas Maguire (1831-1889)
+
+Shelf: `pipeline/thomas-maguire_shelf.json`. Essays on the Platonic Ethics (London: Longmans, 1870). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Essays on the Platonic Ethics (London: Longmans, 1870) |  | `maguire-essays-platonic-ethics-1870` | have-raw (IA `essaysonplatoni00magugoog`) |
+
