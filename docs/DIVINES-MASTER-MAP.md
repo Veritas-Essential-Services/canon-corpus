@@ -20066,7 +20066,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Isaac Goldberg (Baroja, Blasco Ibáñez, Brazilian Tales, Gourmont, Pinski)
 
 Shelf: `pipeline/isaac-goldberg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py isaac-goldberg` · titles `python3 pipeline/split_shelf_titles.py isaac-goldberg`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 127 added eight archive.org books: Asch, Pinski, the two Yiddish Theatre volumes and Plays of the Italian Theatre. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20079,6 +20079,14 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `isaac-goldberg-ibanez-luna-benamor` | Vicente Blasco Ibáñez | Luna Benamor | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 21870 |
 | `isaac-goldberg-ibanez-the-torrent-entre-naranjos` | Vicente Blasco Ibáñez | The Torrent (Entre Naranjos) | Isaac Goldberg (with Arthur Livingston) | 1917-1927 (see the Gutenberg header) | have | PG 11674 |
 | `isaac-goldberg-pinski-temptations` | David Pinski | Temptations | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 71439 |
+| `isaac-goldberg-asch-the-god-of-vengeance` | Sholom Asch | The God of Vengeance: Drama in Three Acts | Isaac Goldberg | 1918 | have-raw | IA `cu31924026883102` |
+| `isaac-goldberg-asch-uncle-moses` | Sholom Asch | Uncle Moses: A Novel | Isaac Goldberg | 1920 | have-raw | IA `unclemosesnovel00asch` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre` | David Pinski, Sholom Asch, Perez Hirschbein and Solomon J. Rabinowitsch (Sholom Aleichem) | Six Plays of the Yiddish Theatre | Isaac Goldberg | 1916 | have-raw | IA `sixplaysofyiddis00golduoft` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre-2` | David Pinski, Perez Hirschbein, Z. Levin and Leon Kobrin | Six Plays of the Yiddish Theatre, Second Series | Isaac Goldberg | 1918 | have-raw | IA `six00playsofyiddisgoldrich` |
+| `isaac-goldberg-pinski-three-plays` | David Pinski | Three Plays (Isaac Sheftel, The Last Jew, The Dumb Messiah) | Isaac Goldberg | 1918 | have-raw | IA `threeplays00pins` |
+| `isaac-goldberg-pinski-ten-plays` | David Pinski | Ten Plays | Isaac Goldberg | 1920 | have-raw | IA `tenplays00pinsiala` |
+| `isaac-goldberg-pinski-king-david-and-his-wives` | David Pinski | King David and His Wives | Isaac Goldberg | 1923 | have-raw | IA `kingdavidhiswive0000davi` |
+| `isaac-goldberg-plays-of-the-italian-theatre` | Giovanni Verga, Ercole Luigi Morselli, Sabatino Lopez and Luigi Pirandello | Plays of the Italian Theatre | Isaac Goldberg | 1921 | have-raw | IA `playsofitalianth00gold` |
 
 ## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
 
@@ -20641,7 +20649,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Ludwig Lewisohn (Wassermann, Sudermann)
 
 Shelf: `pipeline/lewisohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lewisohn` · titles `python3 pipeline/split_shelf_titles.py lewisohn`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 127 added Pinski's The Treasure. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20649,6 +20657,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lewisohn-wassermann-the-goose-man` | Jakob Wassermann | The Goose Man | Ludwig Lewisohn (with Allen Wilson Porterfield) | 1911-1922 (see the Gutenberg header) | have | PG 25345 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-1-of-2-eva` | Jakob Wassermann | The World's Illusion, Volume 1 (of 2): Eva | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 54794 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-2-of-2-ruth` | Jakob Wassermann | The World's Illusion, Volume 2 (of 2): Ruth | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 57847 |
+| `lewisohn-pinski-the-treasure` | David Pinski | The Treasure: A Drama in Four Acts | Ludwig Lewisohn | 1915 | have-raw | IA `treasureadramai00pinsgoog` |
 
 ## Henri Van Laun (Taine's History of English Literature; La Bruyère)
 
@@ -24001,7 +24010,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Round 126 added Undset's The Mistress of Husaby and Aho's Squire Hellman. Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Round 126 added Undset's The Mistress of Husaby and Aho's Squire Hellman. Round 127 added Asch's America. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24098,6 +24107,7 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-jensen-gradiva` | Wilhelm Jensen | Gradiva: a Pompeiian Fancy | Helen M. Downey | 1918 | have-raw | IA `gradivaapompeii00jensgoog` |
 | `singles-fiction-3-undset-the-mistress-of-husaby` | Sigrid Undset | The Mistress of Husaby (Kristin Lavransdatter II) | Charles Archer | 1925 | have-raw | IA `bwb_S0-BLO-546` |
 | `singles-fiction-3-aho-squire-hellman` | Juhani Aho | Squire Hellman, and Other Stories | R. Nisbet Bain | 1893 | have-raw | IA `squirehellmanoth00ahoj` |
+| `singles-fiction-3-asch-america` | Sholom Asch | America | James Fuchs | 1918 | have-raw | IA `america00asch` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
