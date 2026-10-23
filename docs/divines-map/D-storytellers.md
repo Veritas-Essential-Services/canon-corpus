@@ -20432,3 +20432,40 @@ Shelf: `pipeline/storytellers-tail-26_shelf.json` (2026-10-22; added at the coor
 | The story of Don Miff | have | PG 73601, `vdabney-story-of-don-miff` (4113 units) |
 | A Strange Discovery | have | PG 8665, `crdake-strange-discovery` (499 units) |
 | Wanted: A Cook Domestic Dialogues | have | PG 43983, `adale-wanted` (1441 units) |
+
+## Storytellers' tail, group 27 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-27_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Horace C. Dale, Richard Dallas, Emma Davenport, Oscar K. Davis, Alvin Davison, Edmund Day, A. C. Dayton, Henry De La Pasture, Herbert George De Lisser, Nelson H. DeLane, Andrew Dearborn, Karl Decker, Elizabeth Dejeans, Therese O. Deming, Samuel A. Derieux, Desiderius George Dery, Byrd Spilman Dewey, D. A. Dickert, Anna E. Dickinson, Florence Carpenter Dieudonné, Bessie Dill, Emma Louise Smith Dillingham, A. W. Dimock, Dorothea Lynde Dix, Frederick A. Dixon, Lee Wilson Dodd, Henry Irving Dodge, Edmund P. Dole, Anna Hanson Dorsey, Sarah P. Doughty. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Deacon: An Original Comedy Drama in Five Acts | have | PG 42581, `hcdale-deacon` (890 units) |
+| A master hand | have | PG 33228, `rdallas-master-hand` (995 units) |
+| Live toys | have | PG 42946, `edavenport-live-toys` (933 units) |
+| At the Emperor's Wish: A Tale of the New Japan | have | PG 66274, `okdavis-at-the-emperor-s-wish` (503 units) |
+| Health Lessons, Book 1 | have | PG 31616, `adavison-health-lessons-book-1` (1037 units) |
+| The Round-Up: A Romance of Arizona; Novelized from Edmund Day's Melodrama | have | PG 763, `eday-round-up` (1965 units) |
+| Theodosia Ernest | have | PG 77796, `acdayton-theodosia-ernest` (3121 units) |
+| Peter's Mother | have | PG 10452, `hdelapasture-peter-s-mother` (2262 units) |
+| Susan Proudleigh | have | PG 56335, `hgdelisser-susan-proudleigh` (1586 units) |
+| Roster of Company I, 24th Regiment, Massachusetts Volunteers | have | PG 36673, `nhdelane-roster-of-company-i-24th-regiment-massachusetts-vol` (168 units) |
+| Scarred Eagle; or, Moorooine, the sporting fawn. A story of lake and shore | have | PG 68601, `adearborn-scarred-eagle` (853 units) |
+| The framed fifty | have | PG 78650, `kdecker-framed-fifty` (54 units) |
+| Nobody's Child | have | PG 36531, `edejeans-nobody-s-child` (1541 units) |
+| Indian Child Life | have | PG 32301, `todeming-indian-child-life` (158 units) |
+| Frank of Freedom Hill | have | PG 25991, `saderieux-frank-of-freedom-hill` (1649 units) |
+| Under the Big Dipper | have | PG 59446, `dgdery-under-the-big-dipper` (2158 units) |
+| Bruno | have | PG 41514, `bsdewey-bruno` (521 units) |
+| History of Kershaw's Brigade With Complete Roll of Companies, Biographical Sketches, Incidents, Anecdotes, etc. | have | PG 13124, `dadickert-history-of-kershaw-s-brigade-with-complete-roll-of` (1841 units) |
+| What Answer? | have | PG 15402, `aedickinson-what-answer` (1372 units) |
+| Rondah; or, thirty-three years in a star | have | PG 69461, `fcdieudonne-rondah` (1271 units) |
+| The Silver Glen | have | PG 76963, `bdill-silver-glen` (1670 units) |
+| Six prize Hawaiian stories of the Kilohana Art League | have | PG 35437, `elsdillingham-six-prize-hawaiian-stories-of-the-kilohana-art` (243 units) |
+| Dick in the Everglades | have | PG 13168, `awdimock-dick-in-the-everglades` (1510 units) |
+| John Williams | have | PG 71036, `dldix-john-williams` (96 units) |
+| Maiden Mona the Mermaid: A Fairy Play for Fairy People | have | PG 62183, `fadixon-maiden-mona-the-mermaid` (415 units) |
+| The Book of Susan: A Novel | have | PG 33400, `lwdodd-book-of-susan` (1820 units) |
+| Skinner's Dress Suit | have | PG 26080, `hidodge-skinner-s-dress-suit` (1057 units) |
+| Hiwa: A Tale of Ancient Hawaii | have | PG 61148, `epdole-hiwa` (377 units) |
+| May Brooke | have | PG 16902, `ahdorsey-may-brooke` (1242 units) |
+| Playing Santa Claus, and Other Christmas Tales | have | PG 54803, `spdoughty-playing-santa-claus-and-other-christmas-tales` (925 units) |
