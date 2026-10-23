@@ -1,0 +1,79 @@
+{
+ "_about": "William Gardner Hale (1849-1928), Cornell and Chicago Latinist, raw IA OCR of The Cum-Constructions, their history and functions (Cornell Studies in Classical Philology I, 1887-1889, both parts), The Art of Reading Latin (1887) and Aims and Methods in Classical Study (1888). Two journal reprints (Sequence of Tenses 1887, Anticipatory Subjunctive 1894) were refused as offprints, and a 1965 Johnson reprint of Cum-Constructions part I was passed over for the 1887 printing. Latin grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Gardner Hale",
+ "_name_words": [
+  "hale"
+ ],
+ "_surname": [
+  "william gardner hale",
+  "w. g. hale",
+  "hale"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-gardner-hale-cum-constructions-1-1887": [
+   "cumconstruction02halegoog",
+   "The Cum-Constructions: their history and functions, by William Gardner Hale, part I: Critical (Cornell University Studies in Classical Philology, no. I; Ithaca, N.Y.: published by the University, 1887)"
+  ],
+  "william-gardner-hale-cum-constructions-2-1889": [
+   "cumconstruction00halegoog",
+   "The Cum-Constructions: their history and functions, by William Gardner Hale, part II: Constructive (Cornell University Studies in Classical Philology, no. I; Ithaca, N.Y.: published by the University, 1889)"
+  ],
+  "william-gardner-hale-art-of-reading-latin-1887": [
+   "cu31924021613637",
+   "The Art of Reading Latin: how to teach it, by William Gardner Hale (Boston: Ginn & Co., 1887)"
+  ],
+  "william-gardner-hale-aims-and-methods-1888": [
+   "aimsmethodsincla00hale",
+   "Aims and Methods in Classical Study, by William Gardner Hale (Boston: Ginn & Company, 1888)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-gardner-hale-cum-constructions-1-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gardner hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-gardner-hale-cum-constructions-2-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gardner hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-gardner-hale-art-of-reading-latin-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gardner hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "william-gardner-hale-aims-and-methods-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gardner hale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
