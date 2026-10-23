@@ -4029,6 +4029,14 @@
       "started": "2026-10-22T22:20:59-05:00",
       "finished": "2026-10-22T22:20:59-05:00",
       "notes": "st-george-rathborne: new shelf, 18 Gutenberg books, 29,677 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elinor-glyn",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elinor Glyn; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:21:16-05:00",
+      "finished": "2026-10-22T22:21:16-05:00",
+      "notes": "elinor-glyn: new shelf, 18 Gutenberg books, 25,513 units, 1236 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

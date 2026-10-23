@@ -13786,3 +13786,28 @@ Shelf: `pipeline/st-george-rathborne_shelf.json` (2026-10-22; added at the coord
 | The Hunter Hercules, or, The Champion Rider of the Plains: A Romance of the Prairies | have | PG 66249, `sgrathborne-hunter-hercules-or-the-champion-rider-of-the-pla` (1052 units) |
 | The spider's web | have | PG 72718, `sgrathborne-spiders-web` (1567 units) |
 | My Hildegarde | have | PG 74522, `sgrathborne-my-hildegarde` (2616 units) |
+
+## Elinor Glyn
+
+Shelf: `pipeline/elinor-glyn_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Point of View | have | PG 5310, `eglyn-point-of-view` (601 units) |
+| Three Weeks | have | PG 8899, `eglyn-three-weeks` (1182 units) |
+| His Hour | have | PG 9470, `eglyn-his-hour` (1616 units) |
+| The Price of Things | have | PG 9809, `eglyn-price-of-things` (2084 units) |
+| The Visits of Elizabeth | have | PG 10959, `eglyn-visits-of-elizabeth` (702 units) |
+| The reflections of Ambrosine | have | PG 11624, `eglyn-reflections-of-ambrosine` (2138 units) |
+| Elizabeth Visits America | have | PG 11900, `eglyn-elizabeth-visits-america` (491 units) |
+| The Reason Why | have | PG 12450, `eglyn-reason-why` (2295 units) |
+| Halcyone | have | PG 13530, `eglyn-halcyone` (1802 units) |
+| Beyond The Rocks: A Love Story | have | PG 16692, `eglyn-beyond-the-rocks` (1804 units) |
+| The Man and the Moment | have | PG 17048, `eglyn-man-and-the-moment` (1676 units) |
+| Red Hair | have | PG 17821, `eglyn-red-hair` (1471 units) |
+| Man and Maid | have | PG 20512, `eglyn-man-and-maid` (2605 units) |
+| The Damsel and the Sage: A Woman's Whimsies | have | PG 20718, `eglyn-damsel-and-the-sage` (241 units) |
+| Three Things | have | PG 25215, `eglyn-three-things` (202 units) |
+| The Career of Katherine Bush | have | PG 40893, `eglyn-career-of-katherine-bush` (2846 units) |
+| Your Affectionate Godmother | have | PG 49715, `eglyn-your-affectionate-godmother` (275 units) |
+| The Vicissitudes of Evangeline | have | PG 51644, `eglyn-vicissitudes-of-evangeline` (1482 units) |
