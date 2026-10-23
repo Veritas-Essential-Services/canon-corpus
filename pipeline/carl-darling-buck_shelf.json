@@ -1,0 +1,57 @@
+{
+ "_about": "Carl Darling Buck (1866-1955), Chicago comparative philologist: A Grammar of Oscan and Umbrian (1904) and Introduction to the Study of the Greek Dialects (1910). Inscription-heavy; kept per Adam's 2026-10-23 ruling. His school Latin grammar is excluded. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Carl Darling Buck (1866-1955)",
+ "_name_words": [
+  "buck",
+  "oscan",
+  "umbrian",
+  "greek",
+  "dialects",
+  "grammar",
+  "inscriptions"
+ ],
+ "_surname": [
+  "carl darling buck",
+  "carl d. buck",
+  "c. d. buck"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buck-grammar-oscan-umbrian-1904": [
+   "grammarofoscanum00buckuoft",
+   "A Grammar of Oscan and Umbrian, with a Collection of Inscriptions and a Glossary (1904)"
+  ],
+  "buck-greek-dialects-1910": [
+   "introductiontost00buckuoft",
+   "Introduction to the Study of the Greek Dialects: Grammar, Selected Inscriptions, Glossary (1910)"
+  ]
+ },
+ "_excluded": {
+  "A Latin Grammar (1903)": "school grammar, skipped by lane B rule"
+ },
+ "_checks": {
+  "buck-grammar-oscan-umbrian-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl darling buck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buck-greek-dialects-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carl darling buck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

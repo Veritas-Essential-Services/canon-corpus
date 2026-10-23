@@ -9300,3 +9300,15 @@ Shelf: `pipeline/jesse-benedict-carter_shelf.json`. Roman religion, 1906-1911. N
 | The Religion of Numa, and Other Essays on the Religion of Ancient Rome (1906) |  | `carter-religion-of-numa-pg` | have (PG 18222) |
 | The Religious Life of Ancient Rome: a Study in the Development of Religious Consciousness (1911) |  | `carter-religious-life-ancient-rome-1911` | have-raw (IA `religiouslifeofa00cartuoft`) |
 
+
+## Carl Darling Buck (1866-1955)
+
+Shelf: `pipeline/carl-darling-buck_shelf.json`. Oscan-Umbrian and Greek dialects, 1904-1910; inscription-heavy. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Grammar of Oscan and Umbrian, with a Collection of Inscriptions and a Glossary (1904) |  | `buck-grammar-oscan-umbrian-1904` | have-raw (IA `grammarofoscanum00buckuoft`) |
+| Introduction to the Study of the Greek Dialects: Grammar, Selected Inscriptions, Glossary (1910) |  | `buck-greek-dialects-1910` | have-raw (IA `introductiontost00buckuoft`) |
+
+Excluded: A Latin Grammar (1903) (school grammar, skipped by lane B rule)
+
