@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T07:59:32-05:00",
- "note": "Rounds cq-dx done 2026-10-23.",
- "resume_point": "Round dy: audit the remaining long-held scholar shelves for missing works (jebb, verrall, mahaffy, sandys, lewis-campbell, butcher, leaf, monro, burnet, adam, conington, nettleship, tyrrell, sayce, ramsay, rostovtzeff, bury) with tools/audit.py 'creator:(...)' --rebuild, then read each candidate's title page. Then a fifth IA subject sweep (subject:(classical philology) / (Greek literature -- history and criticism) / (Latin literature -- history and criticism), pre-1930, English). Check every title against all branches and run dupetitles.py before the ledger."
+ "heartbeat": "2026-10-23T08:49:26-05:00",
+ "note": "Rounds cq-dy done 2026-10-23.",
+ "resume_point": "Round dz: audit the new single-title shelves from round dy for their other classical works (r-s-conway: The Making of Latin, New Studies of a Great Inheritance; w-c-lawton; w-rhys-roberts; e-s-bouchier's Spain and Syria under the Romans; duane-reed-stuart), then a sixth IA subject sweep (subject:(Greek drama) / (Latin poetry) / (Rome -- antiquities) / (Greece -- antiquities), pre-1930, English; IA's language field is mostly empty, so filter titles by eye). Jowett's own writings are OUT (Adam, 2026-10-23 13:44Z). Check every title against all branches and run dupetitles.py before the ledger."
 }

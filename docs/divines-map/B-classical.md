@@ -11639,4 +11639,4 @@ Shelf: `pipeline/t-w-allen_shelf.json`. New shelf, round dx. Raw IA OCR, every t
 |---|---|---|---|
 | Notes on Abbreviations in Greek Manuscripts, by T. W. Allen, with eleven pages of facsimiles by photolithography (Oxford: Clarendon Press, M DCCC LXXXIX [1889]) |  | `t-w-allen-abbreviations-greek-manuscripts-1889` | have-raw (IA `notesonabbreviat00alle`) |
 | The Homeric Catalogue of Ships, edited with a commentary by Thomas W. Allen (Oxford: Clarendon Press, M DCCCC XXI [1921]; the OCR reads the year as 'M DCCCCXXxI') |  | `t-w-allen-homeric-catalogue-of-ships-1921` | have-raw (IA `homericcatalogue00homeuoft`) |
-
+- Round dy (2026-10-23): scholar-shelf audit (jebb, verrall, mahaffy, sandys, lewis-campbell, monro, walter-leaf, burnet, james-adam, conington, nettleship, tyrrell, w-m-ramsay) and new shelves mark-pattison, richard-bentley, richard-porson, w-rhys-roberts, george-haven-putnam, hermann-bender, robert-burn, victor-selden-clark, w-c-lawton, hugh-e-p-platt, archibald-geikie, e-s-bouchier, pierre-de-labriolle, duane-reed-stuart, r-s-conway, frederic-d-allen, william-w-marshall; r-w-browne, h-n-fowler, cruttwell and teuffel extended. 71 volumes.
