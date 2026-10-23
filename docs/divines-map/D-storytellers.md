@@ -17258,3 +17258,17 @@ Shelf: `pipeline/honore-morrow_shelf.json` (2026-10-22; added at the coordinator
 | Benefits Forgot: A Story of Lincoln and Mother Love | have | PG 18951, `hmorrow-benefits-forgot` (337 units) |
 | The Forbidden Trail | have | PG 22284, `hmorrow-forbidden-trail` (3063 units) |
 | Still Jim | have | PG 24458, `hmorrow-still-jim` (2775 units) |
+
+## Louise Jordan Miln
+
+Shelf: `pipeline/louise-jordan-miln_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels of China. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Green Goddess | have | PG 48112, `ljmiln-green-goddess` (2088 units) |
+| The Invisible Foe A Story Adapted from the Play by Walter Hackett | have | PG 50188, `ljmiln-invisible-foe-a-story-adapted-from-the-play-by-walter` (2081 units) |
+| When We Were Strolling Players in the East | have | PG 56262, `ljmiln-when-we-were-strolling-players-in-the-east` (1290 units) |
+| Quaint Korea | have | PG 56623, `ljmiln-quaint-korea` (632 units) |
+| Mr. and Mrs. Sên | have | PG 59200, `ljmiln-mr-and-mrs-s-n` (2142 units) |
+| Mr. Wu Based on the Play "Mr. Wu" by H. M. Vernon and Harold Owen | have | PG 66877, `ljmiln-mr-wu-based-on-the-play-mr-wu-by-h-m-vernon-and-harol` (1763 units) |
+| Ruben and Ivy Sên | have | PG 77722, `ljmiln-ruben-and-ivy-s-n` (2725 units) |
