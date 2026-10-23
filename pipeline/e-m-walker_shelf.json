@@ -1,0 +1,37 @@
+{
+ "_about": "Edward Mewburn Walker (1857-1941), Queen's College Oxford, raw IA OCR of Greek History: its problems and its meaning (1921). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "E. M. Walker",
+ "_name_words": [
+  "walker"
+ ],
+ "_surname": [
+  "e. m. walker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-m-walker-greek-history-problems-1921": [
+   "greekhistoryitsp00walkuoft",
+   "Greek History: its problems and its meaning, with appendices on the authorities and on 'The Constitution of Athens', by E. M. Walker (Oxford: Basil Blackwell, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-m-walker-greek-history-problems-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-m-walker-greek-history-problems-1921": {
+   "author": "EfMtWJLFiER (the OCR's reading; the title page image at archive.org page n4 reads E. M. WALKER, Basil Blackwell, MDCCCCXXI)"
+  }
+ }
+}
