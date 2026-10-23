@@ -9838,3 +9838,17 @@ Slugs `sparrow-*`. Built from title pages read for round 40.
 | A Collection of Articles, Injunctions, Canons, Orders, Ordinances, and (Printed for Blanch Pawlet ..., 1684) | have-ocr | IA `acollectionarti00spargoog` |
 | A sermon concerning confession of sinnes, ...  1637 (catalogued 1637) | have-ocr | IA `bim_early-english-books-1475-1640_a-sermon-concerning-conf_sparrow-anthony_1637_0` |
 | Other printings of the Rationale (1655-1722, 1840, 1843) and the Collection (1661, 1671, 1675) | alternate | not shelved |
+
+## William Sancroft (round 40, my pick, 2026-10-22)
+
+Slugs `sancroft-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Occasional sermons...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_occasional-sermons_sancroft-william_1694` |
+| Lex ignea: or the school of righteousness.  ...  1666 (catalogued 1666) | have-ocr | IA `bim_early-english-books-1641-1700_lex-ignea-or-the-school_sancroft-william-abp_1666` |
+| A sermon preach'd to the House of Peers, Novemb. 13th 1678. Being the fast=day Appointed by the King, to Implore the mercies of Almighty God in the Protection of His Majesties Sacred Person, and His Kingdoms ([London] In the Savoy, Printed by Tho. Newcomb, for Robert Beaumont, 1678) | have-ocr | IA `sermonpreachdtoh00sanc` |
+| Familiar letters of Dr. William Sancroft, late Lord Archbishop of Canterbury, to Mr. North, afterwards Sir Henry North of Mildenhall, Bart. ... To which is prefixed, some...  1757 (catalogued 1757) | have-ocr | IA `bim_eighteenth-century_familiar-letters-of-dr-_sancroft-william-archb_1757` |
+| Modern Policies (1652, many printings), published anonymously; the attribution is the catalogue's | pending | not shelved |
+| The 1703 Sermons; other copies of each | alternate | not shelved |
+| D'Oyly's Life of Sancroft (1821) and the Proceedings and Tryal of the Seven Bishops: works by others; Bishop Overall's Convocation Book (1690), which Sancroft published but did not write; one-page proclamations and articles | excluded | |
