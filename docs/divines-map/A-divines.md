@@ -13249,3 +13249,28 @@ Slugs `temple-*`. Built from title pages read for round 69.
 | The present relations of science to religion : a sermon preached on Act Sunday, July 1, 1860, before the University of Oxford, during the meeting of the British Association (Oxford : J.H. and Jas. Parker, 1860) | have-ocr | IA `b22327265` |
 | The relations between religion and science : eight lectures preached before the University of Oxford in the year 1884 (New York : Macmillan and Co., 1884) | have-ocr | IA `relationsbetween00temp` |
 | his essay 'The Education of the World' in Essays and Reviews (1860), a many-author volume | excluded | |
+
+## W. Robertson Nicoll (round 69, my pick, 2026-10-23)
+
+Slugs `nicoll-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lamb of God : expositions in the writings of St. John (New York : Macmillan, 1883) | have-ocr | IA `lambofgodexposit00nico` |
+| The key of the grave (London : Hodder and Stoughton, 1894) | have-ocr | IA `keyofgrave00nico` |
+| Ten-Minute Sermons (London: Isbister, 1895) | have-ocr | IA `bwb_P9-CSD-194` |
+| When the worst comes to the worst (New York, Dodd, Mead and company, 1896) | have-ocr | IA `whenworstcomesto00nico` |
+| The return to the cross (New York : Dodd Mead, 1897) | have-ocr | IA `returntocross00nico` |
+| The incarnate Saviour : a life of Jesus Christ (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `incarnatesaviour00nico` |
+| The Seven Words From the Cross (Hodder, 1901) | have-ocr | IA `sevenwordsfromcr0000wrob` |
+| The church's one foundation. Christ and recent criticism (London, Hodder and Stoughton, 1901) | have-ocr | IA `thechurch00nicouoft` |
+| The garden of nuts : mystical expositions with an essay on Christian mysticism (New York : A.C. Armstrong and son ; London : Hodder and Stoughton, 1905) | have-ocr | IA `thegardenofnuts00nicouoft` |
+| The lamp of sacrifice : sermons preached on special occasions (London : Hodder and Stoughton, 1906) | have-ocr | IA `thelampofsacrifi00nicouoft` |
+| "Ian Maclaren"; the life of the Rev. John Watson, D.D (New York, Dodd, Mead and company, 1908) | have-ocr | IA `ianmaclarenlifeo00nico` |
+| My father, an Aberdeenshire minister, 1812-1891 (London, Hodder and Stoughton, 1910) | have-ocr | IA `myfatheraberdeen00nico` |
+| The Difference Christ is Making, reprinted from The British Weekly (London: Hodder and Stoughton, undated; the papers are dated 1914) | have-ocr | IA `thedifferencechr00nicouoft` |
+| Prayer in war time (London : Hodder and Stoughton, 1916) | have-ocr | IA `prayerinwartime00nicouoft` |
+| Reunion in Eternity (New York: George H. Doran, copyright 1919) | have-ocr | IA `reunionineternit00nicouoft` |
+| Professor Elmslie: a Memoir (London: Hodder and Stoughton, undated reissue of the 1890 memoir; professorelmslie0000nico): its printing year cannot be read, so held; the 1890 Memoir and Sermons is co-edited with A. N. Macnicol | pending | not shelved |
+| works he edited (The Expositor, The Expositor's Bible, The Expositor's Greek Testament, The Theological Educator, Songs of Rest, Fox's Journal) | excluded | |
+| his literary books (the Claudius Clear essays, Letters on Life, The Round of the Clock, Literary Anecdotes, Edwin Drood, Stevenson, A Library for Five Pounds); books by Henry J. Nicoll, another author | excluded | |
