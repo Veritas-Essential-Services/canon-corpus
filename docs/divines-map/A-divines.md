@@ -13662,3 +13662,27 @@ Slugs `bingham-*`. Built from title pages read for round 74.
 | Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 7 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast07bing` |
 | Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 8 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast08bing` |
 | Latin translations of the Antiquities (1724, 1738-1751) and a German abridgement (1788); the 1726 folio Works and the 1840-1855 editions, duplicates of the 1834 set | excluded | |
+
+## Julius Charles Hare (round 74, my pick, 2026-10-23)
+
+Slugs `hare-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| Guesses at truth : by two brothers (London : Taylor and Walton, 1838) | have-ocr | IA `guessesattruthby00hareiala` |
+| Guesses at truth : second series (London : Printed for Taylor and Walton ; Cambridge [Eng.] : Sold by Macmillan, 1848) | have-ocr | IA `guessesattruthse00hare` |
+| The better prospects of the Church : a charge to the clergy of the Archdeaconry of Lewes (London : J.W. Parker ; Cambridge : J. and J.J. Deighton, 1840) | have-ocr | IA `betterprospectso00hareiala` |
+| The victory of faith, and other sermons (London, G.F. Okeden & Welsh, 1840) | have-ocr | IA `victoryoffaithot00hare` |
+| Sermons Preacht in Herstmonceux Church, second volume (London: John W. Parker, 1849) | have-ocr | IA `sermonspreachti00haregoog` |
+| The unity of the church : a sermon preacht at St. Peter's Church, Brighton, on Thursday, December 10, 1840, at the annual meeting of the Chichester Diocesan Association ; with some introductory remarks on uniformity (London : J.W. Parker, 1845) | have-ocr | IA `a586752600hareuoft` |
+| The means of unity : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1842; with notes (London : J. W. Parker, 1847) | have-ocr | IA `meansofunitychar00hareiala` |
+| The duty of the church in times of trial : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1848 ; with notes, especially on the controversy touching the management of schools, and on the Jewish question (London : J.W. Parker, 1848) | have-ocr | IA `a586771200hareuoft` |
+| The true remedy for the evils of the age : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1849 ; with notes, especially on the educational, matrimonial, and baptismal questions (London : J.W. Parker, 1850) | have-ocr | IA `a586775500hareuoft` |
+| The contest with Rome : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1851, with notes especially in answer to Dr. Newman's recent lectures (London : John W. Parker, 1852) | have-ocr | IA `contestwithromec00hareiala` |
+| The mission of the Comforter : with notes (Boston : Gould and Lincoln, 1854) | have-ocr | IA `missionofcomfort00hare_0` |
+| Miscellaneous pamphlets on some of the leading questions agitated in the church during the last ten years (Cambridge : Macmillan, 1855) | have-ocr | IA `miscellaneouspa00haregoog` |
+| Vindication of Luther Against His Recent English Assailants, 2nd Edition (catalogued 1855) | have-ocr | IA `bwb_S0-AGD-575` |
+| Sermons preacht on particular occasions (Cambridge : Macmillan, 1858) | have-ocr | IA `sermonspreachto00haregoog` |
+| A Letter to the Dean of Chichester on the agitation over Dr. Hampden's appointment (1848): the only scan found (a586744000hannuoft) carries a German book's text | pending | not shelved |
+| Sermons Preacht in Herstmonceux Church, first volume (1841): every scan found under that title is the second volume | pending | not shelved |
+| his translation, with Thirlwall, of Niebuhr's History of Rome (on the niebuhr shelf); The Philological Museum (a journal he edited); Portions of the Psalms in English Verse (a compiled hymnal); Fragments of Two Essays in English Philology | excluded | |
