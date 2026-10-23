@@ -4157,6 +4157,14 @@
       "started": "2026-10-22T22:24:46-05:00",
       "finished": "2026-10-22T22:24:46-05:00",
       "notes": "rolf-boldrewood: new shelf, 16 Gutenberg books, 26,164 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "constance-fenimore-woolson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Constance Fenimore Woolson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:48-05:00",
+      "finished": "2026-10-22T22:24:48-05:00",
+      "notes": "constance-fenimore-woolson: new shelf, 15 Gutenberg books, 24,823 units, 981 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -14168,3 +14168,25 @@ Shelf: `pipeline/rolf-boldrewood_shelf.json` (2026-10-22; added at the coordinat
 | A Colonial Reformer, Vol. 3 (of 3) | have | PG 54366, `rboldrewood-colonial-reformer-vol-3-of-3` (1021 units) |
 | A Colonial Reformer, Vol. 2 (of 3) | have | PG 55652, `rboldrewood-colonial-reformer-vol-2-of-3` (1128 units) |
 | The Last Chance: A Tale of the Golden West | have | PG 61385, `rboldrewood-last-chance` (1621 units) |
+
+## Constance Fenimore Woolson
+
+Shelf: `pipeline/constance-fenimore-woolson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Castle Nowhere | have | PG 6436, `cfwoolson-castle-nowhere` (818 units) |
+| The Old Stone House | have | PG 6679, `cfwoolson-old-stone-house` (1508 units) |
+| Stories by American Authors (Volume 4) | have | PG 22401, `cfwoolson-stories-by-american-authors-volume-4` (755 units) |
+| Anne: A Novel | have | PG 32707, `cfwoolson-anne` (3489 units) |
+| East Angels: A Novel | have | PG 33143, `cfwoolson-east-angels` (4487 units) |
+| Mentone, Cairo, and Corfu | have | PG 33367, `cfwoolson-mentone-cairo-and-corfu` (840 units) |
+| Rodman the Keeper: Southern Sketches | have | PG 33813, `cfwoolson-rodman-the-keeper` (1975 units) |
+| Jupiter Lights | have | PG 34282, `cfwoolson-jupiter-lights` (2751 units) |
+| The Front Yard, and Other Italian Stories | have | PG 38517, `cfwoolson-front-yard-and-other-italian-stories` (1778 units) |
+| For the Major: A Novelette | have | PG 38792, `cfwoolson-for-the-major` (719 units) |
+| Solomon | have | PG 38998, `cfwoolson-solomon` (829 units) |
+| Horace Chase | have | PG 39067, `cfwoolson-horace-chase` (1766 units) |
+| Dorothy, and Other Italian Stories | have | PG 39170, `cfwoolson-dorothy-and-other-italian-stories` (1980 units) |
+| The Ancient City | have | PG 52770, `cfwoolson-ancient-city` (829 units) |
+| Two Women, 1862; a Poem | have | PG 54017, `cfwoolson-two-women-1862` (299 units) |
