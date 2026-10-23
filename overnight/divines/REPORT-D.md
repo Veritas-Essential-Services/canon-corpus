@@ -1853,3 +1853,6 @@
 
 ## 2026-10-22 22:24 CDT — talbot-mundy: done
 - talbot-mundy: new shelf, 15 Gutenberg books, 27,969 units, 1038 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — s-weir-mitchell: done
+- s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -14212,3 +14212,25 @@ Shelf: `pipeline/talbot-mundy_shelf.json` (2026-10-22; added at the coordinator'
 | The Lion of Petra | have | PG 19307, `tmundy-lion-of-petra` (1495 units) |
 | Om: The secret of Ahbor Valley | have | PG 69586, `tmundy-om` (2437 units) |
 | Asoka's alibi | have | PG 77653, `tmundy-asokas-alibi` (751 units) |
+
+## S. Weir Mitchell
+
+Shelf: `pipeline/s-weir-mitchell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Autobiography of a Quack, and The Case of George Dedlow | have | PG 693, `swmitchell-autobiography-of-a-quack-and-the-case-of-george-d` (445 units) |
+| Hugh Wynne, Free Quaker Sometime Brevet Lieutenant-Colonel on the Staff of his Excellency General Washington | have | PG 6485, `swmitchell-hugh-wynne-free-quaker-sometime-brevet-lieutenant` (2682 units) |
+| Wear and Tear; Or, Hints for the Overworked | have | PG 13197, `swmitchell-wear-and-tear` (110 units) |
+| Westways: A Village Chronicle | have | PG 14153, `swmitchell-westways` (4467 units) |
+| Doctor and Patient | have | PG 15004, `swmitchell-doctor-and-patient` (260 units) |
+| Fat and Blood An Essay on the Treatment of Certain Forms of Neurasthenia and Hysteria | have | PG 16230, `swmitchell-fat-and-blood-an-essay-on-the-treatment-of-certai` (627 units) |
+| Mr. Kris Kringle: A Christmas Tale | have | PG 20180, `swmitchell-mr-kris-kringle` (180 units) |
+| A Diplomatic Adventure | have | PG 30585, `swmitchell-diplomatic-adventure` (664 units) |
+| The Red City: A Novel of the Second Administration of President Washington | have | PG 32942, `swmitchell-red-city` (2641 units) |
+| The Adventures of François Foundling, Thief, Juggler, and Fencing-Master during the French Revolution | have | PG 43241, `swmitchell-adventures-of-fran-ois-foundling-thief-juggler-an` (1768 units) |
+| A Madeira Party | have | PG 43242, `swmitchell-madeira-party` (478 units) |
+| The Wonderful Stories of Fuz-Buz the Fly and Mother Grabem the Spider | have | PG 52899, `swmitchell-wonderful-stories-of-fuz-buz-the-fly-and-mother-g` (583 units) |
+| When All the Woods Are Green: A Novel | have | PG 53120, `swmitchell-when-all-the-woods-are-green` (3826 units) |
+| The Youth of Washington: Told in the Form of an Autobiography | have | PG 65513, `swmitchell-youth-of-washington` (678 units) |
+| Constance Trescot | have | PG 77431, `swmitchell-constance-trescot` (2682 units) |

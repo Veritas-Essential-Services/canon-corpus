@@ -4173,6 +4173,14 @@
       "started": "2026-10-22T22:24:49-05:00",
       "finished": "2026-10-22T22:24:49-05:00",
       "notes": "talbot-mundy: new shelf, 15 Gutenberg books, 27,969 units, 1038 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "s-weir-mitchell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — S. Weir Mitchell; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:51-05:00",
+      "finished": "2026-10-22T22:24:51-05:00",
+      "notes": "s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
