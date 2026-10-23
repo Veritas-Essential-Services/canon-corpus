@@ -10850,6 +10850,17 @@ Slugs `magee-*`. Built from title pages read for round 47.
 | Christ the light of all Scripture (New York : T. Whitaker, 1892) | have-ocr | IA `christlightofall00mage` |
 | Growth in grace : and other sermons (New York : T. Whittaker, 1892) | have-ocr | IA `growthingraceoth00mage` |
 | Speeches and Addresses (1893, political); Christianity and Agnosticism (1889, a controversy by several hands) | excluded | |
+
+## Edwards Amasa Park (round 47, my pick, 2026-10-23)
+
+Slugs `park-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on some theological doctrines. as related to the religious character (Andover [Mass.] : Warren F. Draper, 1885) | have-ocr | IA `discoursesonsome00park` |
+| Memorial collection of sermons (Boston, Pilgrim Press, 1902) | have-ocr | IA `memorialcollect01parkgoog` |
+| Memoir of the life and character of Samuel Hopkins, D. D (Boston : Doctrinal Tract and Book Society, 1854) | have-ocr | IA `memlifecharsam00parkrich` |
+| The Atonement: discourses and treatises (1859), the Sabbath Hymn Book and the Works of Samuel Hopkins: collections he edited of other men's work; Selections from German Literature (with Edwards) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
