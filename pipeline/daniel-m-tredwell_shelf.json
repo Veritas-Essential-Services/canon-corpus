@@ -1,0 +1,35 @@
+{
+ "_about": "Daniel M. Tredwell (1826-1921): A Sketch of the Life of Apollonius of Tyana, or the First Ten Decades of our Era (New York, 1886). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Daniel Melancthon Tredwell (1826-1921)",
+ "_name_words": [
+  "tredwell",
+  "daniel",
+  "apollonius",
+  "tyana"
+ ],
+ "_surname": [
+  "tredwell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tredwell-apollonius-of-tyana-1886": [
+   "sketchoflifeofap00tred_0",
+   "A Sketch of the Life of Apollonius of Tyana (New York, 1886)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tredwell-apollonius-of-tyana-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tredwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -20269,6 +20269,15 @@ Shelf: `pipeline/chrestos-tsountas_shelf.json`. The Mycenaean Age (Boston, 1897)
 |---|---|---|---|
 | The Mycenaean Age (Boston, 1897) |  | `tsountas-manatt-mycenaean-age-1897` | have-raw (IA `cu31924028235285`) |
 
+
+## Daniel Melancthon Tredwell (1826-1921)
+
+Shelf: `pipeline/daniel-m-tredwell_shelf.json`. A Sketch of the Life of Apollonius of Tyana (New York, 1886) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Sketch of the Life of Apollonius of Tyana (New York, 1886) |  | `tredwell-apollonius-of-tyana-1886` | have-raw (IA `sketchoflifeofap00tred_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
