@@ -563,7 +563,8 @@
   }
  },
  "_held": {
-  "euripides-perseus-murray-rhesus": "same translation as euripides-murray-rhesus (PG 35170) on this shelf; Perseus TEI urn:cts:greekLit:tlg0006.tlg019.perseus-eng4 (Rhesus, tr. Gilbert Murray) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "euripides-perseus-murray-rhesus": "same translation as euripides-murray-rhesus (PG 35170) on this shelf; Perseus TEI urn:cts:greekLit:tlg0006.tlg019.perseus-eng4 (Rhesus, tr. Gilbert Murray) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "euripides-perseus-buckley-the-bacchae-modernized": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0006.tlg017.perseus-eng2 (The Bacchae, tr. Theodore Alois Buckley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_cross_ref": {
   "euripides-milman-bacchae-1865": "aeschylus shelf: aeschylus-milman-agamemnon-1865 (Milman's Agamemnon and Bacchanals, Murray 1865) holds Milman's Bacchae; not refetched here"
@@ -611,23 +612,11 @@
    "Edward P. Coleridge",
    "Translation published 1906: US public domain (in or before 1930). Perseus source line: Euripides. The Plays of Euripides, Vol. I. Coleridge, Edward P., translator. London: George Bell and Sons, 1906."
   ],
-  "euripides-perseus-murray-rhesus": [
-   "tlg0006.tlg019.perseus-eng4",
-   "Rhesus",
-   "Gilbert Murray",
-   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Euripides. The Rhesus of Euripides. Murray, Gilbert, translator. London: George Allen and Company, Ltd., 1913."
-  ],
   "euripides-perseus-coleridge-the-suppliants": [
    "tlg0006.tlg008.perseus-eng2",
    "The Suppliants",
    "Edward P. Coleridge",
    "Translation published 1906: US public domain (in or before 1930). Perseus source line: Euripides. The Plays of Euripides, Vol. I. Coleridge, Edward P., translator. London: George Bell and Sons, 1906."
-  ],
-  "euripides-perseus-buckley-the-bacchae-modernized": [
-   "tlg0006.tlg017.perseus-eng2",
-   "The Bacchae",
-   "Theodore Alois Buckley",
-   "Translation published 1850: US public domain (in or before 1930). Perseus source line: Euripides. The Tragedies of Euripides. Vol. I. Buckley, Theodore Alois, translator. London: Henry G. Bohn, 1850. (Modernized by Perseus.)"
   ],
   "euripides-perseus-coleridge-electra-modernized": [
    "tlg0006.tlg012.perseus-eng2",
@@ -698,7 +687,6 @@
   "redistribute_whole": false
  },
  "_rights_checked": {
-  "euripides-perseus-buckley-the-bacchae-modernized": "Perseus header: 'Modernized by Perseus' (archaisms removed by a Perseus editor). Kept as a modernized witness beside the printed text, on the Godley/Smyth precedent (DIGEST-B line 58), pending Adam's ruling on modernized texts.",
   "euripides-perseus-coleridge-electra-modernized": "Perseus header: 'Modernized by Perseus' (archaisms removed by a Perseus editor). Kept as a modernized witness beside the printed text, on the Godley/Smyth precedent (DIGEST-B line 58), pending Adam's ruling on modernized texts.",
   "euripides-perseus-coleridge-hecuba-modernized": "Perseus header: 'Modernized by Perseus' (archaisms removed by a Perseus editor). Kept as a modernized witness beside the printed text, on the Godley/Smyth precedent (DIGEST-B line 58), pending Adam's ruling on modernized texts.",
   "euripides-perseus-coleridge-helen-modernized": "Perseus header: 'Modernized by Perseus' (archaisms removed by a Perseus editor). Kept as a modernized witness beside the printed text, on the Godley/Smyth precedent (DIGEST-B line 58), pending Adam's ruling on modernized texts.",
@@ -858,27 +846,6 @@
     "redistribute_whole": false
    }
   },
-  "euripides-perseus-murray-rhesus": {
-   "checked": "2026-10-23",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0006.tlg019.perseus-eng4",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "Murray",
-   "author_seen": "euripides",
-   "source_years": [
-    1913
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
-   "rights": {
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
-    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0006/tlg019/tlg0006.tlg019.perseus-eng4.xml",
-    "share_alike": true,
-    "redistribute_whole": false
-   }
-  },
   "euripides-perseus-coleridge-the-suppliants": {
    "checked": "2026-10-23",
    "identity": "ok",
@@ -896,29 +863,6 @@
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
     "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0006/tlg008/tlg0006.tlg008.perseus-eng2.xml",
-    "share_alike": true,
-    "redistribute_whole": false
-   }
-  },
-  "euripides-perseus-buckley-the-bacchae-modernized": {
-   "checked": "2026-10-23",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0006.tlg017.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "Buckley",
-   "author_seen": "euripides",
-   "source_years": [
-    1850
-   ],
-   "rights_override": "Perseus header: 'Modernized by Perseus' (archaisms removed by a Perseus editor). Kept as a modernized witness beside the printed text, on the Godley/Smyth precedent (DIGEST-B line 58), pending Adam's ruling on modernized texts.",
-   "modernized": "Bacchae Modernized by Perseus Euripides T",
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
-   "rights": {
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
-    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0006/tlg017/tlg0006.tlg017.perseus-eng2.xml",
     "share_alike": true,
     "redistribute_whole": false
    }
