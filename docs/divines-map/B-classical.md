@@ -11422,3 +11422,12 @@ Shelf: `pipeline/b-h-kennedy_shelf.json`. Kennedy's Birds (verse translation), T
 | Studia Sophoclea, part I, being a critical examination of Professor Lewis Campbell's edition of Sophocles (Cambridge: Deighton, Bell; London: George Bell, 1874) |  | `b-h-kennedy-studia-sophoclea-1874` | have-raw (IA `studiasophocleap00kenn`) |
 | The Public School Latin Grammar, fifth edition (London: Longmans, Green, 1879); kept per Adam's 2026-10-23 ruling |  | `b-h-kennedy-public-school-latin-grammar-1879` | have-raw (IA `publiclatin00kennrich`) |
 
+## Henry Hayman (1823-1904)
+
+Shelf: `pipeline/henry-hayman_shelf.json`. Hayman's Odyssey with English notes, vols I-II. Round dv. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Odyssey of Homer, edited by Henry Hayman, vol. I, Books I-VI (London: David Nutt, 1866); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `henry-hayman-odyssey-v1-1866` | have-raw (IA `odysseyofhom01home`) |
+| The Odyssey of Homer, edited by Henry Hayman, vol. II, Books VII-XII (London: David Nutt, 1873); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `henry-hayman-odyssey-v2-1873` | have-raw (IA `odysseyofhom02home`) |
+
