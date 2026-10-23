@@ -1,0 +1,33 @@
+{
+ "_about": "Richard Porson (1759-1808), Regius Professor of Greek at Cambridge, raw IA OCR: Tracts and Miscellaneous Criticisms of the late Richard Porson, Esq., collected and arranged by the Rev. Thomas Kidd (London: Payne and Foss, 1815), English and Latin, with Greek. Not taken: the Adversaria (1812) and his Notae in Aristophanem (1820), Latin. Porson's texts of Euripides appear on the euripides shelf only as the basis of others' translations. Classical scholarship (lane B, round dy). No uids minted.",
+ "_author": "Richard Porson (1759-1808)",
+ "_name_words": [
+  "porson"
+ ],
+ "_surname": [
+  "richard porson",
+  "porson, richard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "richard-porson-tracts-1815": [
+   "tractsmiscellane00porsuoft",
+   "Tracts and Miscellaneous Criticisms of the late Richard Porson, Esq., Regius Greek Professor in the University of Cambridge, collected and arranged by the Rev. Thomas Kidd (London: printed by Richard and Arthur Taylor for Payne and Foss, 1815)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "richard-porson-tracts-1815": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard porson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
