@@ -10412,6 +10412,29 @@ Slugs `lardner-*`. Built from title pages read for round 43.
 | The works of Nathaniel Lardner, vol. 9 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel09lard` |
 | The works of Nathaniel Lardner, vol. 10 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel10lard` |
 | The 1788 eleven-volume Works (ECCO scans), the 1815 five-volume quarto, the 1829 and 1838 ten-volume sets | alternate | not shelved |
+
+## John Jortin (round 43, my pick, 2026-10-22)
+
+Slugs `jortin-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 1 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_1` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 2 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_2` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 3 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_3` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 4 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_4` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 5 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_5` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 6 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_6` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 7 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_7` |
+| Remarks on ecclesiastical history, vol. 1 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi01jort` |
+| Remarks on ecclesiastical history, vol. 2 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi02jort` |
+| Remarks on ecclesiastical history, vol. 3 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi03jort` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 1 (London : White, 1790) | have-ocr | IA `tractsphilologic01jortiala` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 2 (London : White, 1790) | have-ocr | IA `tractsphilologic02jortiala` |
+| The life of Erasmus, vol. 1 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasm01jort` |
+| The life of Erasmus, vol. 2 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus02jort` |
+| The life of Erasmus, vol. 3 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus03jort` |
+| Discourses concerning the Truth of the Christian Religion (1805, in the Works set); Subjects of Religion (1792, extracts); the 1824 Sermons | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
