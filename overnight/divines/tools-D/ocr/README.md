@@ -35,6 +35,27 @@ and network access to archive.org.
      second-edition page. Either can print before or after the number, so never strip a `*` as a
      leader dot.
 
+## Fix-list switches
+
+- `pages_from_twin`: rows of `[page, twin_id, twin_page]`. A page too damaged to repair takes the
+  twin scan's reading of the same plate, and this scan's own page then votes on the twin's slips.
+  `twinpages.py <id>` suggests rows; check each one against the images, since a reshoot or a
+  missing leaf shifts the twin's numbering.
+- `reocr_damaged_pages`: also re-OCR every page with three or more garbled tokens.
+- `vote_min_ratio` (default 0.6): lower it when damaged pages barely match their twin.
+- A hand reading is applied once per row. To fix the same slip twice on a page, give two rows.
+
+## Google scans: habits worth a sweep
+
+These are real words, so the vote and the garble test miss them:
+- `li` read as `h` and back (`liis`, `tlie`, `pubhshed`), `lie` for `he`, `bad` for `had`,
+  `Avas` for `was`, `iii`/`iu` for `in`;
+- a lone `P` or `F` for `?`;
+- capital headings in heavy type (`BOBEBT BTTCHAHAK` for ROBERT BUCHANAN);
+- italic lines (`Tkanatopsis`, `XIF.` for XIV.);
+- old-style figures: `6` read as `0` or `8` (`1810` for 1846). Compare each page's years with
+  tesseract's and read the disagreements off the image.
+
 ## The fix lists are the one place book words are committed
 
 Adam ruled on 2026-10-23 that a word-level fix list may be committed: each row is

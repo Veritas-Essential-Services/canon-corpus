@@ -1,0 +1,1750 @@
+{
+ "ia_id": "vol6littleclassi00john",
+ "shelf": "little-classics",
+ "witness": "little-classics-v06-love",
+ "collated_with": [
+  "littleclassicslo0000ross"
+ ],
+ "index_from_page": 0,
+ "note": "Hand readings from the page images, applied by overnight/divines/tools-D/ocr/run.sh. Each row is [page, OCR token(s), reading]; an empty reading deletes picture or ornament noise. Word-level fixes only, by Adam's ruling of 2026-10-23.",
+ "reads": [
+  [
+   1,
+   "hi >i ding",
+   "binding"
+  ],
+  [
+   1,
+   "gather tip the",
+   "gather up the"
+  ],
+  [
+   1,
+   "jafeglSaS s",
+   ""
+  ],
+  [
+   2,
+   "j=)utl)",
+   "Sixth"
+  ],
+  [
+   11,
+   "1:2",
+   "12"
+  ],
+  [
+   11,
+   "■*'",
+   "“"
+  ],
+  [
+   11,
+   "‘•We",
+   "“We"
+  ],
+  [
+   11,
+   "aU.”",
+   "all.”"
+  ],
+  [
+   19,
+   "i_ - .v’.: \" ,:S",
+   ""
+  ],
+  [
+   45,
+   "dow;n.",
+   "DOWN."
+  ],
+  [
+   46,
+   "come/’",
+   "come,”"
+  ],
+  [
+   46,
+   "t?o",
+   "to"
+  ],
+  [
+   56,
+   "ofF",
+   "off"
+  ],
+  [
+   57,
+   "woman.5’",
+   "woman.”"
+  ],
+  [
+   61,
+   "6£",
+   "62"
+  ],
+  [
+   92,
+   "orphan/’",
+   "orphan,”"
+  ],
+  [
+   124,
+   "'■",
+   ""
+  ],
+  [
+   156,
+   "t.lie",
+   "the"
+  ],
+  [
+   160,
+   "]6l",
+   "161"
+  ],
+  [
+   164,
+   "Lord1",
+   "Lord"
+  ],
+  [
+   191,
+   "ca:us,",
+   "cæus,"
+  ],
+  [
+   203,
+   "Nicse.us.",
+   "Nicæus."
+  ],
+  [
+   212,
+   "D.o",
+   "Do"
+  ],
+  [
+   213,
+   "lEschylus",
+   "Æschylus"
+  ],
+  [
+   223,
+   "t.ful",
+   "tiful"
+  ],
+  [
+   233,
+   "W niLE",
+   "WHILE"
+  ],
+  [
+   20,
+   "Q1",
+   "21"
+  ],
+  [
+   26,
+   "Q7",
+   "27"
+  ],
+  [
+   43,
+   "4A,",
+   "44"
+  ],
+  [
+   43,
+   "w/e,",
+   "wife,"
+  ],
+  [
+   56,
+   "oF",
+   "57"
+  ],
+  [
+   111,
+   "1a",
+   "112"
+  ],
+  [
+   6,
+   "bis",
+   "his"
+  ],
+  [
+   9,
+   "bis",
+   "his"
+  ],
+  [
+   17,
+   "bis",
+   "his"
+  ],
+  [
+   17,
+   "bis",
+   "his"
+  ],
+  [
+   17,
+   "bis",
+   "his"
+  ],
+  [
+   30,
+   "bis",
+   "his"
+  ],
+  [
+   37,
+   "bis",
+   "his"
+  ],
+  [
+   51,
+   "bis",
+   "his"
+  ],
+  [
+   51,
+   "bis",
+   "his"
+  ],
+  [
+   123,
+   "bis",
+   "his"
+  ],
+  [
+   142,
+   "bis",
+   "his"
+  ],
+  [
+   170,
+   "bis",
+   "his"
+  ],
+  [
+   170,
+   "bis",
+   "his"
+  ],
+  [
+   19,
+   "liis",
+   "his"
+  ],
+  [
+   55,
+   "liis",
+   "his"
+  ],
+  [
+   106,
+   "liis",
+   "his"
+  ],
+  [
+   119,
+   "liis",
+   "his"
+  ],
+  [
+   122,
+   "liis",
+   "his"
+  ],
+  [
+   122,
+   "liis",
+   "his"
+  ],
+  [
+   122,
+   "liis",
+   "his"
+  ],
+  [
+   171,
+   "liis",
+   "his"
+  ],
+  [
+   187,
+   "liis",
+   "his"
+  ],
+  [
+   188,
+   "liis",
+   "his"
+  ],
+  [
+   196,
+   "liis",
+   "his"
+  ],
+  [
+   231,
+   "liis",
+   "his"
+  ],
+  [
+   7,
+   "Dunderbuuk",
+   "Dunderbunk"
+  ],
+  [
+   7,
+   "Cliurm,",
+   "Churm,"
+  ],
+  [
+   14,
+   "Wliiffler",
+   "Whiffler"
+  ],
+  [
+   14,
+   "Wliiffler",
+   "Whiffler"
+  ],
+  [
+   14,
+   "Pnrtett.",
+   "Purtett."
+  ],
+  [
+   24,
+   "Purtctt.",
+   "Purtett."
+  ],
+  [
+   64,
+   "aud",
+   "and"
+  ],
+  [
+   109,
+   "aud",
+   "and"
+  ],
+  [
+   169,
+   "aud",
+   "and"
+  ],
+  [
+   115,
+   "Arnand",
+   "Amand"
+  ],
+  [
+   117,
+   "iu",
+   "in"
+  ],
+  [
+   120,
+   "Malincs",
+   "Malines"
+  ],
+  [
+   121,
+   "Tisscur",
+   "Tisseur"
+  ],
+  [
+   122,
+   "tlie",
+   "the"
+  ],
+  [
+   137,
+   "Mosleinin,",
+   "Moslemin,"
+  ],
+  [
+   140,
+   "Moslemiu",
+   "Moslemin"
+  ],
+  [
+   163,
+   "Crola,",
+   "Croia,"
+  ],
+  [
+   217,
+   "Iluuniades.",
+   "Hunniades."
+  ],
+  [
+   222,
+   "Huuniades",
+   "Hunniades"
+  ],
+  [
+   173,
+   "rephed",
+   "replied"
+  ],
+  [
+   173,
+   "yon",
+   "you"
+  ],
+  [
+   139,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   139,
+   "Nicseus,”",
+   "Nicæus,”"
+  ],
+  [
+   139,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   139,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   140,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   140,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   140,
+   "Nicseus;",
+   "Nicæus;"
+  ],
+  [
+   141,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   144,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   144,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   145,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   162,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   163,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   163,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   165,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   165,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   165,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   167,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   168,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   168,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   168,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   168,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   169,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   169,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   170,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   176,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   182,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   186,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   186,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   186,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   186,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   186,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   186,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   187,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   187,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   188,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   188,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   188,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   189,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   189,
+   "Nicseus,”",
+   "Nicæus,”"
+  ],
+  [
+   191,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   191,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   192,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   192,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   192,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   196,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   197,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   198,
+   "-Nicseus",
+   "-Nicæus"
+  ],
+  [
+   198,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   198,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   198,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   199,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   203,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   206,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   207,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   209,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   209,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   209,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   209,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   210,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   211,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   213,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   213,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   215,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   215,
+   "Nicseus,”",
+   "Nicæus,”"
+  ],
+  [
+   215,
+   "Nicseus.”",
+   "Nicæus.”"
+  ],
+  [
+   217,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   219,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   220,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   220,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   225,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   225,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   225,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   228,
+   "Nicseus,”",
+   "Nicæus,”"
+  ],
+  [
+   228,
+   "Nicseus.",
+   "Nicæus."
+  ],
+  [
+   228,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   228,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   228,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   230,
+   "Nicseus",
+   "Nicæus"
+  ],
+  [
+   233,
+   "Nicseus,",
+   "Nicæus,"
+  ],
+  [
+   143,
+   "Nicieus",
+   "Nicæus"
+  ],
+  [
+   143,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   164,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   166,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   166,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   166,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   169,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   175,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   178,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   181,
+   "Nicaeus.”",
+   "Nicæus.”"
+  ],
+  [
+   181,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   181,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   181,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   189,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   190,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   190,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   190,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   195,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   196,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   197,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   199,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   199,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   200,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   205,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   205,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   205,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   210,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   212,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   212,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   212,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   213,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   213,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   214,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   214,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   214,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   214,
+   "Nicaeus!”",
+   "Nicæus!”"
+  ],
+  [
+   214,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   216,
+   "Nicaeus",
+   "Nicæus"
+  ],
+  [
+   216,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   216,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   216,
+   "Nicaeus.",
+   "Nicæus."
+  ],
+  [
+   217,
+   "Nicaeus,",
+   "Nicæus,"
+  ],
+  [
+   227,
+   "Nicaeus,”",
+   "Nicæus,”"
+  ],
+  [
+   144,
+   "Nicams,",
+   "Nicæus,"
+  ],
+  [
+   164,
+   "Nicams",
+   "Nicæus"
+  ],
+  [
+   164,
+   "Nicams.",
+   "Nicæus."
+  ],
+  [
+   204,
+   "Nicams,",
+   "Nicæus,"
+  ],
+  [
+   164,
+   "Nicmus,",
+   "Nicæus,"
+  ],
+  [
+   167,
+   "Nicscus,",
+   "Nicæus,"
+  ],
+  [
+   177,
+   "Nieams",
+   "Nicæus"
+  ],
+  [
+   182,
+   "Nicceus,",
+   "Nicæus,"
+  ],
+  [
+   185,
+   "Nicajus,",
+   "Nicæus,"
+  ],
+  [
+   187,
+   "Niescus",
+   "Nicæus"
+  ],
+  [
+   196,
+   "Nicffius",
+   "Nicæus"
+  ],
+  [
+   205,
+   "Nicccus,",
+   "Nicæus,"
+  ],
+  [
+   206,
+   "Nicoeus",
+   "Nicæus"
+  ],
+  [
+   218,
+   "Nieseus,”",
+   "Nicæus,”"
+  ],
+  [
+   218,
+   "Nieseus,",
+   "Nicæus,"
+  ],
+  [
+   218,
+   "Nieseus.",
+   "Nicæus."
+  ],
+  [
+   231,
+   "Niceeus,",
+   "Nicæus,"
+  ],
+  [
+   9,
+   "Darner,",
+   "Damer,"
+  ],
+  [
+   56,
+   "Darner.”",
+   "Damer.”"
+  ],
+  [
+   59,
+   "Darner.”",
+   "Damer.”"
+  ],
+  [
+   59,
+   "Darner",
+   "Damer"
+  ],
+  [
+   60,
+   "Darner",
+   "Damer"
+  ],
+  [
+   60,
+   "Darner",
+   "Damer"
+  ],
+  [
+   61,
+   "Darner,",
+   "Damer,"
+  ],
+  [
+   61,
+   "Darner,",
+   "Damer,"
+  ],
+  [
+   62,
+   "Darner",
+   "Damer"
+  ],
+  [
+   65,
+   "Darner",
+   "Damer"
+  ],
+  [
+   73,
+   "Darner.",
+   "Damer."
+  ],
+  [
+   73,
+   "Darner,",
+   "Damer,"
+  ],
+  [
+   86,
+   "Darner",
+   "Damer"
+  ],
+  [
+   66,
+   "Darner’s",
+   "Damer’s"
+  ],
+  [
+   74,
+   "Darner’s",
+   "Damer’s"
+  ],
+  [
+   147,
+   "ns",
+   "“"
+  ],
+  [
+   14,
+   "goin’ P",
+   "goin’ ?"
+  ],
+  [
+   43,
+   "Belle P",
+   "Belle ?"
+  ],
+  [
+   43,
+   "Bill P",
+   "Bill ?"
+  ],
+  [
+   48,
+   "Point P",
+   "Point ?"
+  ],
+  [
+   91,
+   "Malines P",
+   "Malines ?"
+  ],
+  [
+   91,
+   "alone P",
+   "alone ?"
+  ],
+  [
+   98,
+   "attendance P",
+   "attendance ?"
+  ],
+  [
+   105,
+   "me P",
+   "me ?"
+  ],
+  [
+   113,
+   "redeemed P",
+   "redeemed ?"
+  ],
+  [
+   114,
+   "tone P",
+   "tone ?"
+  ],
+  [
+   130,
+   "daughter P",
+   "daughter ?"
+  ],
+  [
+   149,
+   "voice P",
+   "voice ?"
+  ],
+  [
+   151,
+   "you P",
+   "you ?"
+  ],
+  [
+   165,
+   "him P",
+   "him ?"
+  ],
+  [
+   166,
+   "Iduna P",
+   "Iduna ?"
+  ],
+  [
+   171,
+   "warriors P",
+   "warriors ?"
+  ],
+  [
+   182,
+   "boy P",
+   "boy ?"
+  ],
+  [
+   183,
+   "you P",
+   "you ?"
+  ],
+  [
+   205,
+   "us P",
+   "us ?"
+  ],
+  [
+   205,
+   "name P",
+   "name ?"
+  ],
+  [
+   205,
+   "thine P",
+   "thine ?"
+  ],
+  [
+   214,
+   "Themistocles P",
+   "Themistocles ?"
+  ],
+  [
+   215,
+   "freedom P",
+   "freedom ?"
+  ],
+  [
+   221,
+   "fert ile",
+   "fertile"
+  ],
+  [
+   47,
+   "pi quants,",
+   "piquants,"
+  ],
+  [
+   17,
+   "IS",
+   "18"
+  ],
+  [
+   51,
+   "KO",
+   "52"
+  ],
+  [
+   73,
+   "71-",
+   "74"
+  ],
+  [
+   73,
+   "little CLASSICS.",
+   "LITTLE CLASSICS."
+  ],
+  [
+   95,
+   "9 o",
+   "96"
+  ],
+  [
+   110,
+   "Ill",
+   "111"
+  ],
+  [
+   110,
+   "OP",
+   "OF"
+  ],
+  [
+   111,
+   "113",
+   "112"
+  ],
+  [
+   113,
+   "Ill",
+   "114"
+  ],
+  [
+   156,
+   "137",
+   "157"
+  ],
+  [
+   163,
+   "104.",
+   "164"
+  ],
+  [
+   89,
+   "MARINES.",
+   "MALINES."
+  ],
+  [
+   96,
+   "MAIJNES.",
+   "MALINES."
+  ],
+  [
+   222,
+   "ISKANPER.",
+   "ISKANDER."
+  ],
+  [
+   15,
+   "HYDBA",
+   "HYDRA"
+  ],
+  [
+   16,
+   "as lie",
+   "as he"
+  ],
+  [
+   17,
+   "They bad",
+   "They had"
+  ],
+  [
+   17,
+   "they bad",
+   "they had"
+  ],
+  [
+   17,
+   "Some bad",
+   "Some had"
+  ],
+  [
+   17,
+   "Some bad",
+   "Some had"
+  ],
+  [
+   23,
+   "; hut",
+   "; but"
+  ],
+  [
+   24,
+   "as lie",
+   "as he"
+  ],
+  [
+   33,
+   "jinks oil",
+   "jinks on"
+  ],
+  [
+   37,
+   "could Hr,",
+   "could fly,"
+  ],
+  [
+   38,
+   "hour, lie",
+   "hour, he"
+  ],
+  [
+   44,
+   "” lie",
+   "” he"
+  ],
+  [
+   51,
+   "Nature bad",
+   "Nature had"
+  ],
+  [
+   51,
+   "lady bad",
+   "lady had"
+  ],
+  [
+   51,
+   "She bad",
+   "She had"
+  ],
+  [
+   51,
+   "he bad",
+   "he had"
+  ],
+  [
+   55,
+   "I bad",
+   "I had"
+  ],
+  [
+   56,
+   "Dick? ’’lie",
+   "Dick? ’’he"
+  ],
+  [
+   63,
+   "ashamed cf",
+   "ashamed of"
+  ],
+  [
+   65,
+   "when lie",
+   "when he"
+  ],
+  [
+   71,
+   "brain, lie",
+   "brain, he"
+  ],
+  [
+   73,
+   "skater, hut",
+   "skater, but"
+  ],
+  [
+   78,
+   "office. lie",
+   "office. He"
+  ],
+  [
+   79,
+   "that Ills",
+   "that his"
+  ],
+  [
+   81,
+   "split, hut",
+   "split, but"
+  ],
+  [
+   102,
+   "” lie",
+   "” He"
+  ],
+  [
+   105,
+   "” lie",
+   "” he"
+  ],
+  [
+   105,
+   "Alas, lie",
+   "Alas, he"
+  ],
+  [
+   108,
+   "109 lie",
+   "109 he"
+  ],
+  [
+   115,
+   "it bad",
+   "it had"
+  ],
+  [
+   122,
+   "to Ills",
+   "to his"
+  ],
+  [
+   122,
+   "girded oil",
+   "girded on"
+  ],
+  [
+   122,
+   "nobler band",
+   "nobler hand"
+  ],
+  [
+   124,
+   "at band",
+   "at hand"
+  ],
+  [
+   126,
+   "checked, hut",
+   "checked, but"
+  ],
+  [
+   126,
+   "sunshine. lie",
+   "sunshine. He"
+  ],
+  [
+   131,
+   "risen np",
+   "risen up"
+  ],
+  [
+   132,
+   "merry, lie",
+   "merry, he"
+  ],
+  [
+   133,
+   "if lie",
+   "if he"
+  ],
+  [
+   134,
+   "And lie",
+   "And he"
+  ],
+  [
+   142,
+   "143 lie",
+   "143 he"
+  ],
+  [
+   144,
+   "by Ms",
+   "by his"
+  ],
+  [
+   147,
+   "and lie",
+   "and he"
+  ],
+  [
+   148,
+   "midnight lie",
+   "midnight he"
+  ],
+  [
+   148,
+   "keep oil',",
+   "keep off',"
+  ],
+  [
+   158,
+   "friends,” lie",
+   "friends,” he"
+  ],
+  [
+   167,
+   "place hut",
+   "place but"
+  ],
+  [
+   171,
+   "But tins",
+   "But this"
+  ],
+  [
+   185,
+   "that lie",
+   "that he"
+  ],
+  [
+   186,
+   "Iduna, lie",
+   "Iduna, he"
+  ],
+  [
+   187,
+   "when lie",
+   "when he"
+  ],
+  [
+   193,
+   "and lie",
+   "and he"
+  ],
+  [
+   195,
+   "rest bad",
+   "rest had"
+  ],
+  [
+   198,
+   "from tier",
+   "from her"
+  ],
+  [
+   198,
+   "thought tit",
+   "thought fit"
+  ],
+  [
+   202,
+   "without Ills",
+   "without His"
+  ],
+  [
+   204,
+   "gentle band.",
+   "gentle hand."
+  ],
+  [
+   211,
+   "resting oil",
+   "resting on"
+  ],
+  [
+   213,
+   "seneschal,” lie",
+   "seneschal,” he"
+  ],
+  [
+   219,
+   "; hut",
+   "; but"
+  ],
+  [
+   17,
+   "then- sleeves",
+   "their sleeves"
+  ],
+  [
+   51,
+   "never Lad",
+   "never had"
+  ],
+  [
+   226,
+   "hearing torches",
+   "bearing torches"
+  ],
+  [
+   127,
+   "Bethlehem -judali",
+   "Bethlehem-judah"
+  ],
+  [
+   219,
+   "Tiie Lady",
+   "The Lady"
+  ],
+  [
+   141,
+   "Moslcmiu",
+   "Moslemin"
+  ],
+  [
+   6,
+   "ON STERN ATION !",
+   "CONSTERNATION !"
+  ],
+  [
+   89,
+   "T was noonday",
+   "IT was noonday"
+  ],
+  [
+   127,
+   "came to pass,",
+   "IT came to pass,"
+  ],
+  [
+   136,
+   "sun had set",
+   "THE sun had set"
+  ],
+  [
+   136,
+   "i plain",
+   "plain"
+  ],
+  [
+   136,
+   "w of a Grecian",
+   "of a Grecian"
+  ],
+  [
+   12,
+   "n.",
+   "II."
+  ]
+ ],
+ "reocr_damaged_pages": true,
+ "pages_from_twin": [
+  [
+   69,
+   "littleclassicslo0000ross",
+   73
+  ]
+ ]
+}

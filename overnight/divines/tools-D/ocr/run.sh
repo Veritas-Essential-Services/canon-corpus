@@ -7,7 +7,8 @@ set -e
 I=$1; T=$(cd "$(dirname "$0")" && pwd); REPO=$(cd "$T/../../../.." && pwd)
 W=${2:-/tmp/ocr-$I}; mkdir -p "$W"; cd "$W"
 F=$REPO/data/ocr-fixes/$I.json
-read -r OTHERS IDX SHELF WIT < <(python3 -c "import json;m=json.load(open('$F'));print(','.join(m['collated_with']),m.get('index_from_page',0),m['shelf'],m['witness'])")
+read -r OTHERS IDX SHELF WIT < <(python3 -c "import json;m=json.load(open('$F'));print(','.join(m['collated_with']) or '-',m.get('index_from_page',0),m['shelf'],m['witness'])")
+[ "$OTHERS" = "-" ] && OTHERS=""
 for x in $I ${OTHERS//,/ }; do
   [ -f ${x}_djvu.xml ] || curl -sSfL -o ${x}_djvu.xml https://archive.org/download/$x/${x}_djvu.xml
   [ -f $x.pages.json ] || python3 "$T/pages.py" $x >/dev/null

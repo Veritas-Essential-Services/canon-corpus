@@ -3,7 +3,10 @@ import json,re,sys
 sys.path.insert(0,__import__('os').path.dirname(__import__('os').path.abspath(__file__))); from garble import strict
 I=sys.argv[1]; c=json.load(open(I+'.collated.json')); P=c['pages']; n=0
 import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import reads as RD
+import collections
+done=collections.Counter((k,t,u) for k,t,u,how in c['log'] if how=='read')   # applied by replay.py already
 for k,t,u in RD.load(I):
+  if done[(k,t,u)]>0: done[(k,t,u)]-=1; continue   # a reading is made once, never twice
   pat=r'(?<!\S)'+re.escape(t)+r'(?!\S)'
   if re.search(pat,P[k]): P[k]=re.sub(pat,lambda m:u,P[k],count=1); c['log'].append((k,t,u,'read')); n+=1
 for k in range(len(P)): P[k]=re.sub(r'[ ]{2,}',' ',P[k])

@@ -9,9 +9,9 @@ c=json.load(open(I+'.collated.json'))
 want=[(k,t) for k,t in c['left'] if strict(t) and MINP<=k<MAXP]
 items=[]
 for k,t in want:
-  o=objs[k]; W,H=map(int,re.search(r'width="(\d+)" height="(\d+)"',o).groups())
+  o=objs[k]; W=int(re.search(r'width="(\d+)"',o).group(1)); H=int(re.search(r'height="(\d+)"',o).group(1))
   for ln in re.findall(r'<LINE>(.*?)</LINE>',o,re.S):
-    ws=re.findall(r'<WORD coords="(\d+),(\d+),(\d+),(\d+)"[^>]*>(.*?)</WORD>',ln,re.S)
+    ws=re.findall(r'<WORD coords="(\d+),(\d+),(\d+),(\d+)(?:,\d+)?"[^>]*>(.*?)</WORD>',ln,re.S)
     hit=[w for w in ws if html.unescape(w[4]).strip()==t]
     if hit:
       x1=min(int(w[0]) for w in ws); x2=max(int(w[2]) for w in ws)

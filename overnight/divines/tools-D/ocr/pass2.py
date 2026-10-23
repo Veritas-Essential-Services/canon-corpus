@@ -1,11 +1,15 @@
 # pass2.py <id>: rule fixes + noise removal over every token of the collated pages; rebuild 'left'
 import json,re,sys
-sys.path.insert(0,__import__('os').path.dirname(__import__('os').path.abspath(__file__))); from garble import strict,rulefix,noise
+sys.path.insert(0,__import__('os').path.dirname(__import__('os').path.abspath(__file__))); from garble import strict,rulefix,noise,GOOGLE
 I=sys.argv[1]; c=json.load(open(I+'.collated.json')); pages=c['pages']
 st={'rule':0,'noise':0}; left=[]
 for k,p in enumerate(pages):
+  if sum(m in p for m in ('Book Search','books.google','non-commercial use','watermark','Maintain attribution'))>=3:   # Google's own notice page, not the book
+    c['log'].append((k,'(Google notice page)','','google-notice')); pages[k]=''; continue
   out=[]
   for ln in p.split('\n'):
+    if len(ln.split())<=4 and any(re.fullmatch(GOOGLE,t) for t in ln.split()):
+      st['noise']+=len(ln.split()); c['log'].append((k,ln,'','google-footer')); continue
     ws=[]
     for t in ln.split(' '):
       if not t: continue

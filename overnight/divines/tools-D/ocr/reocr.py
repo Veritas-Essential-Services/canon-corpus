@@ -10,6 +10,16 @@ def garble(t):
   return bool(re.search(r"[^A-Za-z'’\-]",core)) or bool(re.search(r"[a-z][A-Z]",core)) or (not isword(norm(core)) and len(core)>2 and core.islower())
 c=json.load(open(I+'.collated.json')); pages=c['pages']
 pg=sorted(set(k for k,t in c['residual'] if garble(t)))
+# and every page with three or more garbled tokens (a damaged page the twins could not help)
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); from garble import strict; import reads as RD
+WIDE=RD.meta(I).get('reocr_damaged_pages',False)   # off for fix lists made before 2026-10-23 evening
+if WIDE: pg=sorted(set(pg)|{k for k,p in enumerate(pages) if sum(1 for t in p.split() if strict(t))>=3})
+def ok(x,y):
+  if not WIDE: return garble(x)
+  if not garble(x) or re.fullmatch(r'[(*†]?[\dIVXLC:,.;*†–—)-]+',x): return False
+  a,b=norm(x),norm(y)
+  return difflib.SequenceMatcher(None,a,b).ratio()>=0.5 and (x[:1].isupper()==y[:1].isupper() or not x[:1].isalpha())
+held={(k,x) for k,t,u in RD.load(I) for x in t.split()}   # tokens a hand reading owns are left for it
 os.makedirs('img',exist_ok=True)
 def ocr(k):
   j=f'img/{I}_{k}.jpg'; o=f'img/{I}_{k}'
@@ -32,7 +42,7 @@ for k in pg:
   wi=0; out=[]
   for x in flat:
     if x and not x.isspace():
-      if garble(x) and wi in rep and isword(norm(rep[wi])) and not garble(rep[wi]):
+      if wi in rep and ok(x,rep[wi]) and (k,x) not in held and isword(norm(rep[wi])) and not strict(rep[wi]):
         out.append(rep[wi]); st['tess_fixed']+=1
       else:
         out.append(x)
