@@ -10429,3 +10429,16 @@ Slugs `jortin-*`. Built from title pages read for round 43.
 | The life of Erasmus, vol. 2 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus02jort` |
 | The life of Erasmus, vol. 3 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus03jort` |
 | Discourses concerning the Truth of the Christian Religion (1805, in the Works set); Subjects of Religion (1792, extracts); the 1824 Sermons | alternate | not shelved |
+
+## John Sharp (Archbishop of York) (round 43, my pick, 2026-10-22)
+
+Slugs `sharp-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 1 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks01shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 2 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks02shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 3 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks03shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 4 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks04shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 5 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks05shar` |
+| The Life of John Sharp by his son Thomas Sharp (1825): another man's book | excluded | |
