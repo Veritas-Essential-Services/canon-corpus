@@ -11333,6 +11333,15 @@ Shelf: `pipeline/dio-cassius_shelf.json`. Foster's Dio's Rome 1905-06 (Gutenberg
 | Dio's Rome, vol. 4 | Herbert Baldwin Foster | `dio-foster-v4` | have (PG 10883) |
 | Dio's Rome, vol. 5 | Herbert Baldwin Foster | `dio-foster-v5` | have (PG 10890) |
 | Dio's Rome, vol. 6 | Herbert Baldwin Foster | `dio-foster-v6` | have (PG 12061) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. I (Loeb, 1914; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v1` | have-raw (IA `dios-roman-history.-vol.-1-loeb-32`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. II (Loeb, 1914; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v2` | have-raw (IA `dios-roman-history.-vol.-2-loeb-37`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. III (Loeb, 1914; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v3` | have-raw (IA `dios-roman-history.-vol.-3-loeb-53`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. IV (Loeb, 1916; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v4` | have-raw (IA `dios-roman-history.-vol.-4-loeb-66`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. V (Loeb, 1917; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v5` | have-raw (IA `dios-roman-history.-vol.-5-loeb-82`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. VI (Loeb, 1917; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v6` | have-raw (IA `dios-roman-history.-vol.-6-loeb-83`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. VII (Loeb, 1924; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v7` | have-raw (IA `dios-roman-history.-vol.-7-loeb-175`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. VIII (Loeb, 1925; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v8` | have-raw (IA `dios-roman-history.-vol.-8-loeb-176`) |
+| Dio's Roman History, tr. Earnest Cary on the basis of H. B. Foster, vol. IX (Loeb, 1927; this copy an unrevised reprint of 1954-70); Greek facing, kept per Adam's 2026-10-23 ruling |  | `dio-cary-loeb-v9` | have-raw (IA `dios-roman-history.-vol.-9-loeb-177`) |
 
 Pending (wishlist): Cary Loeb (Greek facing)
 
