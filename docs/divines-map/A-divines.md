@@ -10615,3 +10615,16 @@ Slugs `stanhope-*`. Built from title pages read for round 45.
 | Sermons preach'd upon several occasions (London, catalogued 1705) | have-ocr | IA `bim_eighteenth-century_sermons-preachd-upon-se_stanhope-george_1705` |
 | The 1732 and 1817 Paraphrase; Twelve Sermons (1727) | alternate | not shelved |
 | His English versions of Thomas a Kempis, Charron, Epictetus, Augustine's Meditations and Andrewes's Devotions: other men's works | excluded | |
+
+## Charles Wheatly (round 45, my pick, 2026-10-22)
+
+Slugs `wheatly-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A rational Illustration of the Book of Common Prayer (catalogued 1720) | have-ocr | IA `rationalillustra00char_0` |
+| The Nicene and Athanasian creeds, so far as they are expressive of a co-equal and co-eternal Trinity in unity, and of perfect Godhead and manhood in one only Christ : explain'd and confirm'd by the Holy Scriptures ... in eight sermons preached in part at the Lady Moyer's lecture in the Cathedral of St. Paul, London, in the years 1733 and 1734 (London : Printed by John Nourse, 1738) | have-ocr | IA `niceneathanasian00whea` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 1 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_1` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 2 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_2` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 3 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_3` |
+| The 1820 and later Rational Illustration; the 1753 Fifty Sermons; Sermons and Tracts (1740) | alternate | not shelved |
