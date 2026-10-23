@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T00:15:31-05:00",
- "note": "Rounds cq-cu done 2026-10-23. Adam (04:21Z): keep Greek-heavy scans for a later Greek OCR pass; English as good as we can get it.",
- "resume_point": "Perseus census for primary texts is exhausted: what is left open is either a translation already held clean, or already in PR #7's PERSEUS manifest (do not add those; see OVERLAP-B-PR7.tsv). Next: the scholars wishlist, cleanest English copy each: A. H. Sayce, Rostovtzeff (1922-1930), W. W. Tarn, Rohde's Psyche (1925), Zielinski (1926), Wilamowitz (1908), Postgate, Munro, Robinson Ellis."
+ "heartbeat": "2026-10-23T00:27:31-05:00",
+ "note": "Rounds cq-cv done 2026-10-23.",
+ "resume_point": "Scholars wishlist done (round cv). Next: more classical scholars with pre-1930 English work not yet shelved (check all branches first): e.g. J. B. Bury, T. R. Glover, W. Warde Fowler, J. E. Sandys, R. C. Jebb's own essays, A. W. Verrall, W. Y. Sellar, Gilbert Norwood, E. A. Gardner, Percy Gardner. Prefer clean Gutenberg; do not add Perseus files that PR #7 holds."
 }
