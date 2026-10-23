@@ -1,0 +1,188 @@
+{
+ "_about": "John Fox Jr.'s Kentucky mountain novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Fox Jr.",
+ "_name_words": [
+  "fox",
+  "john"
+ ],
+ "_surname": [
+  "john fox"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jfoxjr-knight-of-the-cumberland": [
+   324,
+   "A Knight of the Cumberland"
+  ],
+  "jfoxjr-hell-fer-sartain-and-other-stories": [
+   410,
+   "Hell Fer Sartain and Other Stories"
+  ],
+  "jfoxjr-little-shepherd-of-kingdom-come": [
+   2059,
+   "The Little Shepherd of Kingdom Come"
+  ],
+  "jfoxjr-cumberland-vendetta": [
+   3022,
+   "A Cumberland Vendetta"
+  ],
+  "jfoxjr-last-stetson": [
+   3024,
+   "The Last Stetson"
+  ],
+  "jfoxjr-mountain-europa": [
+   3025,
+   "A Mountain Europa"
+  ],
+  "jfoxjr-trail-of-the-lonesome-pine": [
+   5122,
+   "The Trail of the Lonesome Pine"
+  ],
+  "jfoxjr-heart-of-the-hills": [
+   5145,
+   "The Heart of the Hills"
+  ],
+  "jfoxjr-christmas-eve-on-lonesome-and-other-stories": [
+   10735,
+   "Christmas Eve on Lonesome and Other Stories"
+  ],
+  "jfoxjr-crittenden": [
+   18318,
+   "Crittenden: A Kentucky Story of Love and War"
+  ],
+  "jfoxjr-in-happy-valley": [
+   20292,
+   "In Happy Valley"
+  ],
+  "jfoxjr-erskine-dale-pioneer": [
+   36390,
+   "Erskine Dale—Pioneer"
+  ],
+  "jfoxjr-following-the-sun-flag": [
+   56218,
+   "Following the Sun-Flag: A Vain Pursuit Through Manchuria"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jfoxjr-knight-of-the-cumberland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-hell-fer-sartain-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-little-shepherd-of-kingdom-come": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-cumberland-vendetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-last-stetson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-mountain-europa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-trail-of-the-lonesome-pine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-heart-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-christmas-eve-on-lonesome-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-crittenden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-in-happy-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-erskine-dale-pioneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfoxjr-following-the-sun-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

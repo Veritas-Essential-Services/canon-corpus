@@ -39409,3 +39409,23 @@ Shelf: `pipeline/rosa-nouchette-carey_shelf.json` (2026-10-22; added at the coor
 | Queenie's whim, Volume 1 (of 3) | have | PG 74805, `rncarey-queenies-whim-volume-1-of-3` (1115 units) |
 | Queenie's whim, Volume 2 (of 3) | have | PG 74806, `rncarey-queenies-whim-volume-2-of-3` (1188 units) |
 | Queenie's whim, Volume 3 (of 3) | have | PG 74807, `rncarey-queenies-whim-volume-3-of-3` (1311 units) |
+
+## John Fox Jr.
+
+Shelf: `pipeline/john-fox-jr_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kentucky mountain novels. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Knight of the Cumberland | have | PG 324, `jfoxjr-knight-of-the-cumberland` (423 units) |
+| Hell Fer Sartain and Other Stories | have | PG 410, `jfoxjr-hell-fer-sartain-and-other-stories` (137 units) |
+| The Little Shepherd of Kingdom Come | have | PG 2059, `jfoxjr-little-shepherd-of-kingdom-come` (1797 units) |
+| A Cumberland Vendetta | have | PG 3022, `jfoxjr-cumberland-vendetta` (342 units) |
+| The Last Stetson | have | PG 3024, `jfoxjr-last-stetson` (175 units) |
+| A Mountain Europa | have | PG 3025, `jfoxjr-mountain-europa` (376 units) |
+| The Trail of the Lonesome Pine | have | PG 5122, `jfoxjr-trail-of-the-lonesome-pine` (1992 units) |
+| The Heart of the Hills | have | PG 5145, `jfoxjr-heart-of-the-hills` (1546 units) |
+| Christmas Eve on Lonesome and Other Stories | have | PG 10735, `jfoxjr-christmas-eve-on-lonesome-and-other-stories` (406 units) |
+| Crittenden: A Kentucky Story of Love and War | have | PG 18318, `jfoxjr-crittenden` (997 units) |
+| In Happy Valley | have | PG 20292, `jfoxjr-in-happy-valley` (665 units) |
+| Erskine Dale—Pioneer | have | PG 36390, `jfoxjr-erskine-dale-pioneer` (1029 units) |
+| Following the Sun-Flag: A Vain Pursuit Through Manchuria | have | PG 56218, `jfoxjr-following-the-sun-flag` (542 units) |
