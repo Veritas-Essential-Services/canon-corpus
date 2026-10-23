@@ -10809,3 +10809,12 @@ Shelf: `pipeline/friedrich-lohr_shelf.json`. A Day in Ancient Rome, rev. Edgar S
 |---|---|---|---|
 | A Day in Ancient Rome, rev. Edgar S. Shumway (Boston: Heath, 1885) |  | `lohr-day-in-ancient-rome-1885` | have-raw (IA `cu31924028274029`) |
 
+
+## Helen Cox Bowerman (1878-)
+
+Shelf: `pipeline/helen-cox-bowerman_shelf.json`. Roman Sacrificial Altars (1913) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Roman Sacrificial Altars (1913) |  | `bowerman-roman-sacrificial-altars-1913` | have-raw (IA `romansacrificial01bowe`) |
+
