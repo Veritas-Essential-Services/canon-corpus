@@ -14279,3 +14279,20 @@ Slugs `jdjones-*`. Built from title pages read for round 80.
 | The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_i1z3` |
 | The king of love, meditations on the twenty-third psalm (New York, Revell, 1922) | have-ocr | IA `kingoflovemedita00jone` |
 | everything printed 1930 or later; a later printing of The Lord of Life and Death (1919) | excluded | |
+
+## John William Colenso (round 80, my pick, 2026-10-23)
+
+Slugs `colenso-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| Ten weeks in Natal. A journal of a first tour of visitation among the colonists and Zulu Kafirs of Natal (Cambridge [Eng.] : Macmillan & co., 1855) | have-ocr | IA `tenweeksinnatalj00cole` |
+| The Pentateuch and Book of Joshua critically examined (London : Longman, 1862) | have-ocr | IA `pentateuchbookof01coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 2 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof02coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 3 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof03coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 4 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof04coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 5 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof05coleuoft` |
+| St. Paul's Epistle to the Romans : newly translated and explained from a missionary point of view (New York : D. Appleton & Co., 1863) | have-ocr | IA `stpaulsepistleto00cole` |
+| Natal sermons (London, N. Trübner & co., 1866) | have-ocr | IA `natalsermonsase00colegoog` |
+| parts 6 and 7 (1871-1879) were not found as separate Internet Archive scans | pending | not shelved |
+| his school arithmetic, algebra and trigonometry and his Zulu-English dictionary (not theology); the many replies to him by others | excluded | |
