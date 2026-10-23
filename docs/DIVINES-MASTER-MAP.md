@@ -43187,3 +43187,16 @@ Shelf: `pipeline/frances-eleanor-trollope_shelf.json` (2026-10-22; added at the 
 | That Unfortunate Marriage, Vol. 1 | have | PG 35943, `fetrollope-that-unfortunate-marriage-vol-1` (1066 units) |
 | That Unfortunate Marriage, Vol. 2 | have | PG 35944, `fetrollope-that-unfortunate-marriage-vol-2` (1099 units) |
 | That Unfortunate Marriage, Vol. 3 | have | PG 35945, `fetrollope-that-unfortunate-marriage-vol-3` (1131 units) |
+
+## Meadows Taylor
+
+Shelf: `pipeline/meadows-taylor_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Noble Queen: A Romance of Indian History (Volume 1 of 3) | have | PG 44306, `mtaylor-noble-queen` (955 units) |
+| A Noble Queen: A Romance of Indian History (Volume 2 of 3) | have | PG 44583, `mtaylor-noble-queen-44583` (785 units) |
+| A Noble Queen: A Romance of Indian History (Volume 3 of 3) | have | PG 44789, `mtaylor-noble-queen-44789` (741 units) |
+| Confessions of a Thug | have | PG 44881, `mtaylor-confessions-of-a-thug` (3407 units) |
+| Tara: A Mahratta Tale | have | PG 45430, `mtaylor-tara` (4295 units) |
+| Tippoo Sultaun: A tale of the Mysore war | have | PG 51665, `mtaylor-tippoo-sultaun` (3609 units) |
