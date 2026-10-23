@@ -17641,3 +17641,22 @@ Slugs `scadding-*`. Built from title pages read for round 116.
 | On a sung service and its appurtenances : a lecture, delivered on the occasion of the first use of the organ, after reconstruction, in the Church of the Holy Trinity, Toronto, October 27, 1874 ([S.l. : s.n., 1874) | have-ocr | IA `cihm_13244` |
 | Toronto of old; collections and recollections illustrative of the early settlement and social life of the capital of Ontario (Toronto, Adam, Stevenson & co., 1873) | have-ocr | IA `torontoofoldcoll00scadrich` |
 | His many short antiquarian, numismatic and local-history papers are left to another lane; books he only owned or introduced (Pope, Horace, Franklin, Traill) are not his | excluded | |
+
+## James Henry Potts (round 116, my pick, 2026-10-23)
+
+Slugs `jhpotts-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Pastor and people ([n.p.], 1879) | have-ocr | IA `pastorpeople00pott` |
+| Spiritual life; its nature, urgency, and crowning excellence (New York, Phillips & Hunt; Cincinnati, Cranston & Stowe, 1884) | have-ocr | IA `spirituallifeits00pott` |
+| The golden dawn : or, Light on the great future: in this life, through the dark valley, and in the life eternal, as seen in the best thoughts of over three hundred leading authors and scholars (Philadelphia ; Chicago : P. W. Ziegler & Co., Publishers, 1886) | have-ocr | IA `goldendawnorligh00pott` |
+| Faith made easy; or, What to believe, and why. A popular statement of the doctrines and evidences of Christianity in the light of modern research and sound Biblical interpretation (Cincinnati, Cranston and Stowe; New York, Hunt and Eaton, 1888) | have-ocr | IA `cu31924075690226` |
+| Our thrones and crowns: or, The golden way to the highest attainments. A complete encyclopedia of life. Physical life, intellectual life, business life, home life, social life, moral life, religious life, dialy life, the discipline of life and the best preparation for the life beyond (Philadelphia, International Pub. Co, 1889) | have-ocr | IA `ourthronesandcr00pottgoog` |
+| The life beyond (Philadelphia and Chicago, P. W. Ziegler & co, 1899) | have-ocr | IA `lifebeyond00pott` |
+| Charles S. Francis, a personal tribute (Troy, New York : [s. n.], 1901) | have-ocr | IA `cu31924018820443` |
+| Back to Oxford,: A search for the essentials of Methodism (Jennings & Pye, 1903) | have-ocr | IA `backtooxfordsear0000jame` |
+| The upward leading; pulpit talks under various auspices (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `upwardleadingpul00pott` |
+| My gift to thee; present time verses (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1910) | have-ocr | IA `mygifttotheepres00pott` |
+| Every life a delight (New York, Cincinnati, The Abingdon Press, 1914) | have-ocr | IA `everylifedelight00pott` |
+| principlesofchur00perr_0 is by Perry; Asa Gray letters and agriculture papers are by others | excluded | |
