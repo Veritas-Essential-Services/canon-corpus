@@ -13958,3 +13958,27 @@ Shelf: `pipeline/alfred-henry-lewis_shelf.json` (2026-10-22; added at the coordi
 | The Black Lion Inn | have | PG 55471, `ahlewis-black-lion-inn` (1425 units) |
 | pg-57708 | excluded | PG 57708: Gutenberg's index of the author's works, not a book. |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 3667 Wolfville Days (copyright line 2001). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Ruth Lamb
+
+Shelf: `pipeline/ruth-lamb_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Too close fisted, and other stories | have | PG 70836, `rlamb-too-close-fisted-and-other-stories` (303 units) |
+| A wilful ward | have | PG 71061, `rlamb-wilful-ward` (1673 units) |
+| Holiday stories | have | PG 71661, `rlamb-holiday-stories` (1484 units) |
+| Aunt Milly's diamonds | have | PG 71760, `rlamb-aunt-millys-diamonds` (173 units) |
+| Arthur Glyn | have | PG 71907, `rlamb-arthur-glyn` (1847 units) |
+| Of no account | have | PG 73416, `rlamb-of-no-account` (1101 units) |
+| Comfortable Mrs. Crook, and other sketches | have | PG 73569, `rlamb-comfortable-mrs-crook-and-other-sketches` (399 units) |
+| Look on the sunny side | have | PG 75017, `rlamb-look-on-the-sunny-side` (299 units) |
+| Midsummer at Hay-Lodge | have | PG 77531, `rlamb-midsummer-at-hay-lodge` (518 units) |
+| Servants and service | have | PG 77633, `rlamb-servants-and-service` (439 units) |
+| Borrowed feathers | have | PG 78051, `rlamb-borrowed-feathers` (170 units) |
+| Grateful Peter's new year's gift | have | PG 78109, `rlamb-grateful-peters-new-years-gift` (249 units) |
+| Only a girl-wife | have | PG 78365, `rlamb-only-a-girl-wife` (1491 units) |
+| Taught by experience | have | PG 78930, `rlamb-taught-by-experience` (414 units) |
+| Joe Brennan's luck | have | PG 79175, `rlamb-joe-brennans-luck` (81 units) |
+| Mrs. Grey's strange silence | have | PG 79415, `rlamb-mrs-greys-strange-silence` (58 units) |
+| Work, wait, win | have | PG 79593, `rlamb-work-wait-win` (1754 units) |
