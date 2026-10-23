@@ -1,0 +1,137 @@
+{
+ "_about": "Jessie Fothergill: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Jessie Fothergill",
+ "_name_words": [
+  "fothergill",
+  "jessie"
+ ],
+ "_surname": [
+  "jessie fothergill",
+  "fothergill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jfothergill-first-violin": [
+   29219,
+   "The first violin: A novel"
+  ],
+  "jfothergill-wellfields": [
+   69428,
+   "The Wellfields: A novel. Vol. 1 of 3"
+  ],
+  "jfothergill-wellfields-69489": [
+   69489,
+   "The Wellfields: A novel. Vol. 3 of 3"
+  ],
+  "jfothergill-wellfields-69498": [
+   69498,
+   "The Wellfields: A novel. Vol. 2 of 3"
+  ],
+  "jfothergill-borderland": [
+   75051,
+   "Borderland"
+  ],
+  "jfothergill-probation": [
+   76077,
+   "Probation"
+  ],
+  "jfothergill-orioles-daughter-a-novel-volume-1-of-3": [
+   76215,
+   "Oriole's daughter, a novel, Volume 1 (of 3)"
+  ],
+  "jfothergill-orioles-daughter-a-novel-volume-2-of-3": [
+   76220,
+   "Oriole's daughter, a novel, Volume 2 (of 3)"
+  ],
+  "jfothergill-orioles-daughter-a-novel-volume-3-of-3": [
+   76769,
+   "Oriole's daughter, a novel, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jfothergill-first-violin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-wellfields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-wellfields-69489": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-wellfields-69498": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-borderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-probation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-orioles-daughter-a-novel-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-orioles-daughter-a-novel-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfothergill-orioles-daughter-a-novel-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jessie fothergill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -5613,6 +5613,14 @@
       "started": "2026-10-22T23:10:02-05:00",
       "finished": "2026-10-22T23:10:02-05:00",
       "notes": "william-pitt-scargill: new shelf, 9 Gutenberg books, 4,146 units, 618 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jessie-fothergill",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Jessie Fothergill; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:18-05:00",
+      "finished": "2026-10-22T23:10:18-05:00",
+      "notes": "jessie-fothergill: new shelf, 9 Gutenberg books, 15,123 units, 124 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

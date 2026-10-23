@@ -42865,3 +42865,19 @@ Shelf: `pipeline/william-pitt-scargill_shelf.json` (2026-10-22; added at the coo
 | Rank and Talent; A Novel, Vol. 3 (of 3) | have | PG 54864, `wpscargill-rank-and-talent-54864` (539 units) |
 | Blue-Stocking Hall, (Vol. 3 of 3) | have | PG 55407, `wpscargill-blue-stocking-hall-vol-3-of-3` (338 units) |
 | repeat-editions | excluded | PG 72432, 72660: second Gutenberg editions of titles already on the shelf. |
+
+## Jessie Fothergill
+
+Shelf: `pipeline/jessie-fothergill_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The first violin: A novel | have | PG 29219, `jfothergill-first-violin` (3672 units) |
+| The Wellfields: A novel. Vol. 1 of 3 | have | PG 69428, `jfothergill-wellfields` (1139 units) |
+| The Wellfields: A novel. Vol. 3 of 3 | have | PG 69489, `jfothergill-wellfields-69489` (879 units) |
+| The Wellfields: A novel. Vol. 2 of 3 | have | PG 69498, `jfothergill-wellfields-69498` (970 units) |
+| Borderland | have | PG 75051, `jfothergill-borderland` (2658 units) |
+| Probation | have | PG 76077, `jfothergill-probation` (3690 units) |
+| Oriole's daughter, a novel, Volume 1 (of 3) | have | PG 76215, `jfothergill-orioles-daughter-a-novel-volume-1-of-3` (618 units) |
+| Oriole's daughter, a novel, Volume 2 (of 3) | have | PG 76220, `jfothergill-orioles-daughter-a-novel-volume-2-of-3` (597 units) |
+| Oriole's daughter, a novel, Volume 3 (of 3) | have | PG 76769, `jfothergill-orioles-daughter-a-novel-volume-3-of-3` (900 units) |
