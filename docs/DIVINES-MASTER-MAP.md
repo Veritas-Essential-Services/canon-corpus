@@ -10383,6 +10383,17 @@ Slugs `johnson-*`. Built from title pages read for round 42.
 |---|---|---|
 | The elements of philosophy: containing, I. The most useful parts of logic, ... II. A brief view both of ... moral philosophy, ... By Samuel Johnson, D.D (London : printed for A. Millar, 1754) | have-ocr | IA `elementsofphilos00john` |
 | Beardsley's Life and Correspondence (1874, by another hand); Elementa Philosophica 1752 (the same work, earlier printing, kept off for now) | excluded | |
+
+## Thieleman van Braght (round 42, my pick, 2026-10-22)
+
+Slugs `braght-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The bloody theatre, or, Martyr's mirror, of the defenceless Christians, who suffered and were put to death for the testimony of Jesus, their Savior, from the time of Christ until the year 1660 (Lancster county, Pa. Published by David Miller, 1837) | have-ocr | IA `TheBloodyTheater` |
+| The bloody theatre, or Martyr's mirror (catalogued 1886) | have-ocr | IA `bloodytheatreorm00brag` |
+| The 1887 printing | alternate | not shelved |
+| Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
