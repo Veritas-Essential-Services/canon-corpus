@@ -10693,6 +10693,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:37:11-05:00",
       "notes": "6 books, 1890-1928."
+    },
+    {
+      "id": "a-jonathan-brierley",
+      "status": "done",
+      "scope": "round 130",
+      "added": "2026-10-23T09:37:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:37:11-05:00",
+      "notes": "14 books, 1893-1914."
     }
   ]
 }

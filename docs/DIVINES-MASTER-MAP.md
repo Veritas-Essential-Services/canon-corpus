@@ -19008,6 +19008,28 @@ Slugs `kilpatrick-*`. Built from title pages read for round 130.
 | Our Common Faith (catalogued 1928) | have-ocr | IA `bwb_C0-AUB-513` |
 | Butler's Sermons is Bishop Butler's book, which he edited | excluded | |
 | The Kootenay Campaign is a short campaign report | excluded | |
+
+## Jonathan Brierley (round 130, my pick, 2026-10-23)
+
+Slugs `brierley-*`. Built from title pages read for round 130.
+
+| Work | Status | Where |
+|---|---|---|
+| From Philistia: Essays on Church and World (J. Clarke & co., 1893) | have-ocr | IA `fromphilistiaes00briegoog` |
+| Studies of the soul (London : J. Clarke & Co., 1901) | have-ocr | IA `studiesofsoul00brierich` |
+| Ourselves and the universe : studies in life and religion (New York : Thomas Whitaker, 1902) | have-ocr | IA `ourselvesunivers00brie` |
+| Problems of living (London : Clarke, 1903) | have-ocr | IA `problemsofliving00brieuoft` |
+| The common life (London : James Clarke & Co, 1904) | have-ocr | IA `thecommonlife00brieuoft` |
+| The eternal religion (New York, T. Whittaker, 1905) | have-ocr | IA `eternalreligion0000brie` |
+| Religion & experience (Cincinnati : Jennings & Graham ; New York : Eaton & Mains, 1906) | have-ocr | IA `religionexperien00brieiala` |
+| Our city of God (New York : Thomas Whitaker, 1907) | have-ocr | IA `ourcityofgod00brie` |
+| Aspects of the spiritual (New York, T. Whittaker, 1909) | have-ocr | IA `aspectsofspiritu00brie` |
+| Life and the ideal (London : Clarke, 1910) | have-ocr | IA `lifeideal0000brie` |
+| The secret of living (London : J. Clarke & Co., 1911) | have-ocr | IA `secretofliving00brieuoft` |
+| The life of the soul (London : Clarke, 1912) | have-ocr | IA `lifeofsoul00brie` |
+| Religion and to-day (Boston, The Pilgrim press; London, J. Clarke & co., 1913) | have-ocr | IA `religiontoday00brie` |
+| Selections from Brierley ("J.B." of The Christian world) (Boston : Pilgrim Press, 1914) | have-ocr | IA `selectionsfrombr00brie` |
+| Faith's Certainties (1854), Lay Work in the Church, the Trinidad sketches and the parish registers are by other Brierleys | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
