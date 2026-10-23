@@ -1,0 +1,174 @@
+{
+ "_about": "D. G. Hogarth (David George Hogarth, 1862-1927), Keeper of the Ashmolean Museum, excavator at Ephesus and Carchemish. Classical scholarship, archaeology and the Near East (lane B). Raw IA OCR: Devia Cypria (1889), A Wandering Scholar in the Levant (1896), Philip and Alexander of Macedon (1897), Authority and Archaeology Sacred and Profane (ed., 1899; essays by Driver, Griffith, Gardner, Headlam, Haverfield and Hogarth), The Nearer East (1902), The Penetration of Arabia (1904), Ionia and the East (1909), Accidents of an Antiquary's Life (1910), The Ancient East (Home University Library, 1915) and Hittite Seals (Oxford, 1920). Not taken: The Life of Charles M. Doughty (1928), lending-library scan only; the Carchemish and Ephesus excavation reports, mostly plates. Not C. J. Hogarth (translator, cj-hogarth). US public domain. No uids minted.",
+ "_author": "D. G. Hogarth",
+ "_name_words": [
+  "david",
+  "george",
+  "hogarth"
+ ],
+ "_surname": [
+  "d. g. hogarth",
+  "david george hogarth",
+  "david g. hogarth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hogarth-devia-cypria-1889": [
+   "deviacyprianotes00hoga",
+   "Devia Cypria, notes of an archaeological journey in Cyprus in 1888 (Frowde, 1889)"
+  ],
+  "hogarth-wandering-scholar-levant-1896": [
+   "awanderingschol00hogagoog",
+   "A Wandering Scholar in the Levant (John Murray, 1896)"
+  ],
+  "hogarth-philip-and-alexander-1897": [
+   "philipandalexan01hogagoog",
+   "Philip and Alexander of Macedon, two essays in biography (John Murray, 1897)"
+  ],
+  "hogarth-authority-and-archaeology-1899": [
+   "authorityarchaeo00hogauoft",
+   "Authority and Archaeology Sacred and Profane, ed. Hogarth (John Murray, 1899)"
+  ],
+  "hogarth-nearer-east-1902": [
+   "nearerea00hoga",
+   "The Nearer East (Heinemann, 1902)"
+  ],
+  "hogarth-penetration-of-arabia-1904": [
+   "penetrationofar00hoga",
+   "The Penetration of Arabia (Lawrence and Bullen, 1904)"
+  ],
+  "hogarth-ionia-and-the-east-1909": [
+   "ioniaeastsixlec00hoga",
+   "Ionia and the East, six lectures (Oxford, 1909)"
+  ],
+  "hogarth-accidents-antiquarys-life-1910": [
+   "cu31924028519027",
+   "Accidents of an Antiquary's Life (Macmillan, 1910)"
+  ],
+  "hogarth-ancient-east-1915": [
+   "ancienteast00hoga",
+   "The Ancient East (Home University Library, 1915)"
+  ],
+  "hogarth-hittite-seals-1920": [
+   "hittitesealswith00hogauoft",
+   "Hittite Seals, with particular reference to the Ashmolean Collection (Oxford, 1920)"
+  ]
+ },
+ "_excluded": {
+  "The Life of Charles M. Doughty (1928)": "lending-library scan only (bwb)",
+  "IA awanderingschol01hogagoog": "its text file would not download (HTTP 500); the other Google scan of the same 1896 edition used"
+ },
+ "_checks": {
+  "hogarth-devia-cypria-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hogarth-wandering-scholar-levant-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hogarth-philip-and-alexander-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hogarth-authority-and-archaeology-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hogarth-nearer-east-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hogarth-penetration-of-arabia-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hogarth-ionia-and-the-east-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hogarth-accidents-antiquarys-life-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hogarth-ancient-east-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hogarth-hittite-seals-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
