@@ -20173,3 +20173,40 @@ Shelf: `pipeline/storytellers-tail-19_shelf.json` (2026-10-22; added at the coor
 | Little Wideawake: A story book for little children | have | PG 54050, `sbarker-little-wideawake` (1552 units) |
 | Company G | have | PG 43562, `arbarlow-company-g` (800 units) |
 | The Red Miriok | have | PG 34810, `ambarnes-red-miriok` (573 units) |
+
+## Storytellers' tail, group 20 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-20_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Will C. Barnes, Evelyn Snead Barnett, J. Stewart Barney, Eaton Stannard Barrett, James Francis Barrett, Orvey S. Barrett, Philip Barrett, S. B. Barron, Alice E. Bartlett, Samuel Barton, Caroline Crowninshield Bascom, May Bateman, Oric Bates, Wolf Ernst Hugo Emil Baudissin, Mary Addams Bayne, Barbara Baynton, Charles Beadle, Anne Beale, Frederic W. Beasley, John Beatty, Herbert Beeman, Thomas Beer, Joseph Lievesley Beeston, Dalrymple J. Belgrave, D. W. Belisle, George W. Bell, Elizabeth W. Bellamy, Emerson Bennett, Henry Holcomb Bennett, B. K. Benson. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales from the X-bar Horse Camp: The Blue-Roan "Outlaw" and Other Stories | have | PG 41529, `wcbarnes-tales-from-the-x-bar-horse-camp` (1176 units) |
+| Jerry's Reward | have | PG 20862, `esbarnett-jerry-s-reward` (335 units) |
+| L.P.M. : The End of the Great War | have | PG 7826, `jsbarney-l-p-m` (1661 units) |
+| The Heroine | have | PG 43065, `esbarrett-heroine` (2894 units) |
+| The Loyalist A Story of the American Revolution | have | PG 26217, `jfbarrett-loyalist-a-story-of-the-american-revolution` (2924 units) |
+| Reminiscences, Incidents, Battles, Marches and Camp Life of the Old 4th Michigan Infantry in War of Rebellion, 1861 to 1864 | have | PG 34889, `osbarrett-reminiscences-incidents-battles-marches-and-camp-l` (98 units) |
+| The Deaf Shoemaker: To Which Are Added Other Stories for the Young | have | PG 52296, `pbarrett-deaf-shoemaker` (816 units) |
+| The Lone Star Defenders | have | PG 50472, `sbbarron-lone-star-defenders` (513 units) |
+| A New Aristocracy | have | PG 67738, `aebartlett-new-aristocracy` (1581 units) |
+| The battle of the Swash and the capture of Canada | have | PG 68344, `sbarton-battle-of-the-swash-and-the-capture-of-canada` (426 units) |
+| The Bird Hospital | have | PG 48949, `ccbascom-bird-hospital` (300 units) |
+| Farquharson of Glune | have | PG 55296, `mbateman-farquharson-of-glune` (1283 units) |
+| A Madcap Cruise | have | PG 55950, `obates-madcap-cruise` (1783 units) |
+| Life in a German Crack Regiment | have | PG 46755, `wehebaudissin-life-in-a-german-crack-regiment` (1166 units) |
+| Crestlands: A Centennial Story of Cane Ridge | have | PG 31640, `mabayne-crestlands` (1083 units) |
+| Bush studies | have | PG 78420, `bbaynton-bush-studies` (640 units) |
+| Witch-Doctors | have | PG 22099, `cbeadle-witch-doctors` (1708 units) |
+| Gladys, the Reaper | have | PG 15315, `abeale-gladys-the-reaper` (4507 units) |
+| Papers from Overlook-House | have | PG 36980, `fwbeasley-papers-from-overlook-house` (695 units) |
+| The citizen-soldier | have | PG 20460, `jbeatty-citizen-soldier` (1360 units) |
+| Some Adventures of Mr. Surelock Keys | have | PG 47368, `hbeeman-some-adventures-of-mr-surelock-keys` (77 units) |
+| The Fair Rewards | have | PG 60885, `tbeer-fair-rewards` (1347 units) |
+| Five months at Anzac | have | PG 15896, `jlbeeston-five-months-at-anzac` (573 units) |
+| Luck at the Diamond Fields | have | PG 37619, `djbelgrave-luck-at-the-diamond-fields` (1153 units) |
+| The American family Robinson | have | PG 24621, `dwbelisle-american-family-robinson` (1352 units) |
+| Mr. Oseba's Last Discovery | have | PG 47663, `gwbell-mr-oseba-s-last-discovery` (1215 units) |
+| Ely's Automatic Housemaid | have | PG 59486, `ewbellamy-ely-s-automatic-housemaid` (93 units) |
+| Ella Barnwell: A historical romance of border life | have | PG 15424, `ebennett-ella-barnwell` (1068 units) |
+| Mason of Bar X Ranch | have | PG 42562, `hhbennett-mason-of-bar-x-ranch` (2113 units) |
+| Who goes there? | have | PG 12229, `bkbenson-who-goes-there` (4816 units) |

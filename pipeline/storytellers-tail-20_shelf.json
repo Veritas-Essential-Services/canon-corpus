@@ -1,0 +1,531 @@
+{
+ "_about": "Storytellers' tail, group 20: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Will C. Barnes, Evelyn Snead Barnett, J. Stewart Barney, Eaton Stannard Barrett, James Francis Barrett, Orvey S. Barrett, Philip Barrett, S. B. Barron, Alice E. Bartlett, Samuel Barton, Caroline Crowninshield Bascom, May Bateman, Oric Bates, Wolf Ernst Hugo Emil Baudissin, Mary Addams Bayne, Barbara Baynton, Charles Beadle, Anne Beale, Frederic W. Beasley, John Beatty, Herbert Beeman, Thomas Beer, Joseph Lievesley Beeston, Dalrymple J. Belgrave, D. W. Belisle, George W. Bell, Elizabeth W. Bellamy, Emerson Bennett, Henry Holcomb Bennett, B. K. Benson. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 20 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "wcbarnes-tales-from-the-x-bar-horse-camp": [
+   "will c. barnes",
+   "will croft barnes",
+   "barnes"
+  ],
+  "esbarnett-jerry-s-reward": [
+   "evelyn snead barnett",
+   "barnett"
+  ],
+  "jsbarney-l-p-m": [
+   "j. stewart barney",
+   "john stewart barney",
+   "barney"
+  ],
+  "esbarrett-heroine": [
+   "eaton stannard barrett",
+   "barrett"
+  ],
+  "jfbarrett-loyalist-a-story-of-the-american-revolution": [
+   "james francis barrett",
+   "barrett"
+  ],
+  "osbarrett-reminiscences-incidents-battles-marches-and-camp-l": [
+   "orvey s. barrett",
+   "barrett"
+  ],
+  "pbarrett-deaf-shoemaker": [
+   "philip barrett",
+   "barrett"
+  ],
+  "sbbarron-lone-star-defenders": [
+   "s. b. barron",
+   "samuel benton barron",
+   "barron"
+  ],
+  "aebartlett-new-aristocracy": [
+   "alice e. bartlett",
+   "alice elinor bartlett",
+   "bartlett"
+  ],
+  "sbarton-battle-of-the-swash-and-the-capture-of-canada": [
+   "samuel barton",
+   "barton"
+  ],
+  "ccbascom-bird-hospital": [
+   "caroline crowninshield bascom",
+   "bascom"
+  ],
+  "mbateman-farquharson-of-glune": [
+   "may bateman",
+   "bateman"
+  ],
+  "obates-madcap-cruise": [
+   "oric bates"
+  ],
+  "wehebaudissin-life-in-a-german-crack-regiment": [
+   "wolf ernst hugo emil baudissin",
+   "baudissin"
+  ],
+  "mabayne-crestlands": [
+   "mary addams bayne",
+   "bayne"
+  ],
+  "bbaynton-bush-studies": [
+   "barbara baynton",
+   "baynton"
+  ],
+  "cbeadle-witch-doctors": [
+   "charles beadle",
+   "beadle"
+  ],
+  "abeale-gladys-the-reaper": [
+   "anne beale",
+   "beale"
+  ],
+  "fwbeasley-papers-from-overlook-house": [
+   "frederic w. beasley",
+   "beasley"
+  ],
+  "jbeatty-citizen-soldier": [
+   "john beatty",
+   "beatty"
+  ],
+  "hbeeman-some-adventures-of-mr-surelock-keys": [
+   "herbert beeman",
+   "beeman"
+  ],
+  "tbeer-fair-rewards": [
+   "thomas beer"
+  ],
+  "jlbeeston-five-months-at-anzac": [
+   "joseph lievesley beeston",
+   "beeston"
+  ],
+  "djbelgrave-luck-at-the-diamond-fields": [
+   "dalrymple j. belgrave",
+   "belgrave"
+  ],
+  "dwbelisle-american-family-robinson": [
+   "d. w. belisle",
+   "david w. belisle",
+   "belisle"
+  ],
+  "gwbell-mr-oseba-s-last-discovery": [
+   "george w. bell",
+   "george william bell"
+  ],
+  "ewbellamy-ely-s-automatic-housemaid": [
+   "elizabeth w. bellamy",
+   "elizabeth whitfield bellamy",
+   "bellamy"
+  ],
+  "ebennett-ella-barnwell": [
+   "emerson bennett",
+   "bennett"
+  ],
+  "hhbennett-mason-of-bar-x-ranch": [
+   "henry holcomb bennett",
+   "bennett"
+  ],
+  "bkbenson-who-goes-there": [
+   "b. k. benson",
+   "blackwood ketcham benson",
+   "benson"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "wcbarnes-tales-from-the-x-bar-horse-camp": [
+   41529,
+   "Tales from the X-bar Horse Camp: The Blue-Roan \"Outlaw\" and Other Stories"
+  ],
+  "esbarnett-jerry-s-reward": [
+   20862,
+   "Jerry's Reward"
+  ],
+  "jsbarney-l-p-m": [
+   7826,
+   "L.P.M. : The End of the Great War"
+  ],
+  "esbarrett-heroine": [
+   43065,
+   "The Heroine"
+  ],
+  "jfbarrett-loyalist-a-story-of-the-american-revolution": [
+   26217,
+   "The Loyalist A Story of the American Revolution"
+  ],
+  "osbarrett-reminiscences-incidents-battles-marches-and-camp-l": [
+   34889,
+   "Reminiscences, Incidents, Battles, Marches and Camp Life of the Old 4th Michigan Infantry in War of Rebellion, 1861 to 1864"
+  ],
+  "pbarrett-deaf-shoemaker": [
+   52296,
+   "The Deaf Shoemaker: To Which Are Added Other Stories for the Young"
+  ],
+  "sbbarron-lone-star-defenders": [
+   50472,
+   "The Lone Star Defenders"
+  ],
+  "aebartlett-new-aristocracy": [
+   67738,
+   "A New Aristocracy"
+  ],
+  "sbarton-battle-of-the-swash-and-the-capture-of-canada": [
+   68344,
+   "The battle of the Swash and the capture of Canada"
+  ],
+  "ccbascom-bird-hospital": [
+   48949,
+   "The Bird Hospital"
+  ],
+  "mbateman-farquharson-of-glune": [
+   55296,
+   "Farquharson of Glune"
+  ],
+  "obates-madcap-cruise": [
+   55950,
+   "A Madcap Cruise"
+  ],
+  "wehebaudissin-life-in-a-german-crack-regiment": [
+   46755,
+   "Life in a German Crack Regiment"
+  ],
+  "mabayne-crestlands": [
+   31640,
+   "Crestlands: A Centennial Story of Cane Ridge"
+  ],
+  "bbaynton-bush-studies": [
+   78420,
+   "Bush studies"
+  ],
+  "cbeadle-witch-doctors": [
+   22099,
+   "Witch-Doctors"
+  ],
+  "abeale-gladys-the-reaper": [
+   15315,
+   "Gladys, the Reaper"
+  ],
+  "fwbeasley-papers-from-overlook-house": [
+   36980,
+   "Papers from Overlook-House"
+  ],
+  "jbeatty-citizen-soldier": [
+   20460,
+   "The citizen-soldier"
+  ],
+  "hbeeman-some-adventures-of-mr-surelock-keys": [
+   47368,
+   "Some Adventures of Mr. Surelock Keys"
+  ],
+  "tbeer-fair-rewards": [
+   60885,
+   "The Fair Rewards"
+  ],
+  "jlbeeston-five-months-at-anzac": [
+   15896,
+   "Five months at Anzac"
+  ],
+  "djbelgrave-luck-at-the-diamond-fields": [
+   37619,
+   "Luck at the Diamond Fields"
+  ],
+  "dwbelisle-american-family-robinson": [
+   24621,
+   "The American family Robinson"
+  ],
+  "gwbell-mr-oseba-s-last-discovery": [
+   47663,
+   "Mr. Oseba's Last Discovery"
+  ],
+  "ewbellamy-ely-s-automatic-housemaid": [
+   59486,
+   "Ely's Automatic Housemaid"
+  ],
+  "ebennett-ella-barnwell": [
+   15424,
+   "Ella Barnwell: A historical romance of border life"
+  ],
+  "hhbennett-mason-of-bar-x-ranch": [
+   42562,
+   "Mason of Bar X Ranch"
+  ],
+  "bkbenson-who-goes-there": [
+   12229,
+   "Who goes there?"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wcbarnes-tales-from-the-x-bar-horse-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will c. barnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbarnett-jerry-s-reward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn snead barnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsbarney-l-p-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. stewart barney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbarrett-heroine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eaton stannard barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfbarrett-loyalist-a-story-of-the-american-revolution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james francis barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "osbarrett-reminiscences-incidents-battles-marches-and-camp-l": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orvey s. barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pbarrett-deaf-shoemaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbbarron-lone-star-defenders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. b. barron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aebartlett-new-aristocracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice e. bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbarton-battle-of-the-swash-and-the-capture-of-canada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel barton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccbascom-bird-hospital": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline crowninshield bascom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbateman-farquharson-of-glune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "may bateman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "obates-madcap-cruise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oric bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wehebaudissin-life-in-a-german-crack-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wolf ernst hugo emil baudissin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mabayne-crestlands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary addams bayne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bbaynton-bush-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barbara baynton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbeadle-witch-doctors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles beadle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abeale-gladys-the-reaper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne beale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbeasley-papers-from-overlook-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic w. beasley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbeatty-citizen-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john beatty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbeeman-some-adventures-of-mr-surelock-keys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert beeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbeer-fair-rewards": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas beer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlbeeston-five-months-at-anzac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph lievesley beeston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "djbelgrave-luck-at-the-diamond-fields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dalrymple j. belgrave",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwbelisle-american-family-robinson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. w. belisle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwbell-mr-oseba-s-last-discovery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewbellamy-ely-s-automatic-housemaid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth w. bellamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebennett-ella-barnwell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emerson bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhbennett-mason-of-bar-x-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry holcomb bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bkbenson-who-goes-there": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. k. benson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
