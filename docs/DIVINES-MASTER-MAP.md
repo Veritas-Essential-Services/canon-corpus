@@ -15158,6 +15158,25 @@ Slugs `herron-*`. Built from title pages read for round 90.
 | Social meanings of religious experiences (New York : T.Y. Crowell, c189) | have-ocr | IA `socialmeaningsof00herruoft` |
 | Between Caesar and Jesus (New York : T. Y. Crowell, [c18) | have-ocr | IA `betweencaesarjes00herr` |
 | his political books (American Imperialism, Woodrow Wilson and the World's Peace, The Menace of Peace, Germanism and the American Crusade, The Greater War, The Revival of Italy) | excluded | |
+
+## Charles H. Parkhurst (round 90, my pick, 2026-10-23)
+
+Slugs `parkhurst-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The blind man's creed, and other sermons (New York, A. D. F. Randolph & company, 1883) | have-ocr | IA `blindmanscreedot00park` |
+| The pattern in the mount, and other sermons (New York, Randolph, 1885) | have-ocr | IA `patterninmountot0000park` |
+| Three gates on a side (New York, Chicago, Fleming H. Revell company, 1891) | have-ocr | IA `threegatesonside00park` |
+| Our fight with Tammany (New York : C. Scribner's sons, 1895) | have-ocr | IA `ourfightwithtamm0000park` |
+| Talks to young men (New York, The Century co., 1897) | have-ocr | IA `talkstoyoungmen00park` |
+| Talks to young women (New York, The Century co., 1897) | have-ocr | IA `talkstoyoungwome00park` |
+| The sunny side of Christianity (New York, Chicago [etc.] F.H. Revell co, 1901) | have-ocr | IA `sunnysideofchris0000park` |
+| A brief history of the Madison Square Presbyterian Church and its activities (New York : [s.n.], 1906) | have-ocr | IA `briefhistoryofma00park` |
+| A little lower than the angels (New York, Chicago [etc] Fleming H. Revell company, 1908) | have-ocr | IA `littlelowerthana00park` |
+| The pulpit and the pew : Lyman Beecher lectures delivered 1913, before the Divinity School of Yale University (New Haven, Conn. : Yale University Press, 1913) | have-ocr | IA `pulpitpewlymanbe00parkrich` |
+| My forty years in New York (New York : Macmillan, 1923) | have-ocr | IA `myfortyyearsinne00park` |
+| Analysis of the Latin Verb (philology); many-author books on municipal reform and New York | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
