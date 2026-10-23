@@ -1,0 +1,47 @@
+{
+ "_about": "Sir Thomas Wyse (1791-1862), British Minister at Athens, raw IA OCR of his posthumous Excursion in the Peloponnesus (2 vols., ed. Winifrede M. Wyse).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Thomas Wyse",
+ "_name_words": [
+  "wyse"
+ ],
+ "_surname": [
+  "thomas wyse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-wyse-excursion-in-the-peloponnesus-1": [
+   "excursioninpelop01wyse",
+   "An Excursion in the Peloponnesus in the Year 1858, volume I, by the late Sir Thomas Wyse, edited by his niece Winifrede M. Wyse (London: Day and Son; no year legible in the OCR, IA catalogues 1865)"
+  ],
+  "thomas-wyse-excursion-in-the-peloponnesus-2": [
+   "excursioninpelop02wyse",
+   "An Excursion in the Peloponnesus in the Year 1858, volume II, by the late Sir Thomas Wyse, edited by his niece Winifrede M. Wyse (London: Day and Son; no year legible in the OCR, IA catalogues 1865)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-wyse-excursion-in-the-peloponnesus-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas wyse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomas-wyse-excursion-in-the-peloponnesus-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas wyse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
