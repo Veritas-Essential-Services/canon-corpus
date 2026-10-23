@@ -14783,6 +14783,27 @@ Slugs `bigg-*`. Built from title pages read for round 86.
 | Wayside sketches in ecclesiastical history, nine lectures with notes and preface (London, Longmans, 1906) | have-ocr | IA `waysidesketchesi00bigguoft` |
 | The origins of Christianity (Oxford : Clarendon Press, 1909) | have-ocr | IA `theoriginsofchri00strouoft` |
 | his translations of the Imitation of Christ, Augustine's Confessions and the Didache (those authors' works); his Xenophon school editions | excluded | |
+
+## Stanley Leathes (round 86, my pick, 2026-10-23)
+
+Slugs `leathes-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The witness of the Old Testament to Christ : being the Boyle lectures for 1868 (London : Rivingtons, 1868) | have-ocr | IA `witnessoldtesta00leatgoog` |
+| The witness of St. Paul to Christ : being the Boyle lectures for 1869 (London : Rivingtons, 1869) | have-ocr | IA `witnessofstpault00leat` |
+| The witness of St. John to Christ : being the Boyle lectures for 1870 : with an appendix on the authorship and integrity of St. John's gospel and the unity of the Johannine writings (London ; Oxford, [etc.] : Rivingtons, 1870) | have-ocr | IA `witnessofstjohnt00leat` |
+| The cities visited by St. Paul (London : Society for promoting Christian knowledge, 1873) | have-ocr | IA `citiesvisitedbys00leat` |
+| The structure of the Old Testament : a series of popular essays (London : Hodder and Stoughton, 1873) | have-ocr | IA `structureofoldte00leat` |
+| The religion of the Christ, its historic and literary development considered as evidence of its origin : the Bampton lectures for 1874 (New York : Pott, Young and Co., 1874) | have-ocr | IA `religionofchrist00leat` |
+| The gospel its own witness : the Hulsean lectures for 1873 (London : H. S. King, 1874) | have-ocr | IA `gospelitsownwit00leat` |
+| The Christian creed : its theory and practice : with a preface on some present dangers of the English church (London : Hodder and Stoughton, 1877) | have-ocr | IA `christiancreedit00leat` |
+| Old Testament prophecy : its witness as a record of divine foreknowledge : the Warburton lectures for 1876-1880 : with notes on the genuineness of the book of Daniel and the prophecy of the seventy weeks (London : Hodder and Stoughton, 1880) | have-ocr | IA `oldtestamentprop00leat` |
+| The foundations of morality : being discourses on the Ten Commandments with special reference to their origin and authority (London : Hodder and Stoughton, 1882) | have-ocr | IA `foundationsofmor00leat` |
+| The law in the prophets (London : Eyre and Spottiswoode, 1891) | have-ocr | IA `lawinprophets00leat` |
+| The claims of the Old Testament; lectures delivered in connection with the sesquicentennial celebration of Princeton university (New York, Charles Scribner's sons, 1897) | have-ocr | IA `claimsofoldtesta00leat` |
+| books by Sir Stanley Mordaunt Leathes (1861-1938), the historian, a different man: Cambridge Modern History, What is Education?, etc. | excluded | |
+| Future Probation (a many-author symposium) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
