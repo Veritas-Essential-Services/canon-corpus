@@ -8847,3 +8847,24 @@ Shelf: `pipeline/robinson-ellis_shelf.json`. Catullus commentary, Aetna and Appe
 | Catullus in the XIVth Century (1905) |  | `ellis-catullus-xivth-century-1905` | have-raw (IA `catullusinxivthc00elli`) |
 | A Bodleian MS. of Copa, Moretum, and other poems of the Appendix Vergiliana (1906) |  | `ellis-bodleian-copa-1906` | have-raw (IA `bodleianmsofcopa00elli`) |
 
+
+## Thomas Hodgkin (1831-1913)
+
+Shelf: `pipeline/thomas-hodgkin_shelf.json`. Italy and her Invaders complete (8 vols.), Theodoric and the Dynasty of Theodosius (clean PG), Charles the Great. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Theodoric the Goth: the Barbarian Champion of Civilisation (1891) |  | `hodgkin-theodoric-pg` | have (PG 20063) |
+| The Dynasty of Theodosius, or Eighty Years' Struggle with the Barbarians (1889) |  | `hodgkin-dynasty-theodosius-pg` | have (PG 78826) |
+| Italy and her Invaders, vol. I: The Visigothic Invasion (1880; volume I per the scan) |  | `hodgkin-italy-invaders-v1` | have-raw (IA `italyherinvander01hodguoft`) |
+| Italy and her Invaders, vol. II: The Hunnish and Vandal Invasions |  | `hodgkin-italy-invaders-v2` | have-raw (IA `italyherinvander02hodg`) |
+| Italy and her Invaders, vol. III: The Ostrogothic Invasion (1885) |  | `hodgkin-italy-invaders-v3` | have-raw (IA `cu31924014608826`) |
+| Italy and her Invaders, vol. IV: The Imperial Restoration |  | `hodgkin-italy-invaders-v4` | have-raw (IA `italyherinvander04hodg`) |
+| Italy and her Invaders, vol. V: The Lombard Invasion (1895) |  | `hodgkin-italy-invaders-v5` | have-raw (IA `india.history.resource.86890`) |
+| Italy and her Invaders, vol. VI: The Lombard Kingdom |  | `hodgkin-italy-invaders-v6` | have-raw (IA `italyherinvader06hodg`) |
+| Italy and her Invaders, vol. VII: The Frankish Invasions |  | `hodgkin-italy-invaders-v7` | have-raw (IA `italyherinvander07hodguoft`) |
+| Italy and her Invaders, vol. VIII: The Frankish Empire (1899) |  | `hodgkin-italy-invaders-v8` | have-raw (IA `italyherinvander08hodguoft`) |
+| Charles the Great (1897; 1908 printing) |  | `hodgkin-charles-the-great-1897` | have-raw (IA `charlesgreat00hodguoft`) |
+
+Excluded: George Fox (1896), Human Progress and the Inward Light (1911) (Quaker writings, out of lane B scope (lane A may want them)); Letters of Cassiodorus (1886) (held on the cassiodorus shelf)
+

@@ -1,0 +1,189 @@
+{
+ "_about": "Thomas Hodgkin (1831-1913), historian of the barbarian invasions of the Roman Empire: Italy and her Invaders complete (8 vols., 1880-1899), Theodoric and The Dynasty of Theodosius from clean Gutenberg, Charles the Great. His Letters of Cassiodorus is on the cassiodorus shelf. His Quaker writings are out of lane B's scope.",
+ "_author": "Thomas Hodgkin (1831-1913)",
+ "_name_words": [
+  "hodgkin",
+  "italy",
+  "invaders",
+  "theodoric",
+  "theodosius",
+  "charles",
+  "great"
+ ],
+ "_surname": [
+  "hodgkin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hodgkin-theodoric-pg": [
+   20063,
+   "Theodoric the Goth: the Barbarian Champion of Civilisation (1891)"
+  ],
+  "hodgkin-dynasty-theodosius-pg": [
+   78826,
+   "The Dynasty of Theodosius, or Eighty Years' Struggle with the Barbarians (1889)"
+  ]
+ },
+ "internet_archive": {
+  "hodgkin-italy-invaders-v1": [
+   "italyherinvander01hodguoft",
+   "Italy and her Invaders, vol. I: The Visigothic Invasion (1880; volume I per the scan)"
+  ],
+  "hodgkin-italy-invaders-v2": [
+   "italyherinvander02hodg",
+   "Italy and her Invaders, vol. II: The Hunnish and Vandal Invasions"
+  ],
+  "hodgkin-italy-invaders-v3": [
+   "cu31924014608826",
+   "Italy and her Invaders, vol. III: The Ostrogothic Invasion (1885)"
+  ],
+  "hodgkin-italy-invaders-v4": [
+   "italyherinvander04hodg",
+   "Italy and her Invaders, vol. IV: The Imperial Restoration"
+  ],
+  "hodgkin-italy-invaders-v5": [
+   "india.history.resource.86890",
+   "Italy and her Invaders, vol. V: The Lombard Invasion (1895)",
+   "86890_djvu.txt"
+  ],
+  "hodgkin-italy-invaders-v6": [
+   "italyherinvader06hodg",
+   "Italy and her Invaders, vol. VI: The Lombard Kingdom"
+  ],
+  "hodgkin-italy-invaders-v7": [
+   "italyherinvander07hodguoft",
+   "Italy and her Invaders, vol. VII: The Frankish Invasions"
+  ],
+  "hodgkin-italy-invaders-v8": [
+   "italyherinvander08hodguoft",
+   "Italy and her Invaders, vol. VIII: The Frankish Empire (1899)"
+  ],
+  "hodgkin-charles-the-great-1897": [
+   "charlesgreat00hodguoft",
+   "Charles the Great (1897; 1908 printing)"
+  ]
+ },
+ "_excluded": {
+  "George Fox (1896), Human Progress and the Inward Light (1911)": "Quaker writings, out of lane B scope (lane A may want them)",
+  "Letters of Cassiodorus (1886)": "held on the cassiodorus shelf"
+ },
+ "_checks": {
+  "hodgkin-theodoric-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hodgkin-dynasty-theodosius-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hodgkin-italy-invaders-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880-99",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880-99",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgkin-italy-invaders-v8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880-99",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodgkin-charles-the-great-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hodgkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "c1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
