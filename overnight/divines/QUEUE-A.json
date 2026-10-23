@@ -5777,6 +5777,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:05:48-05:00",
       "notes": "Discourses, 1815 two-volume edition; the Westchester Farmer pamphlets pending (pseudonymous)."
+    },
+    {
+      "id": "william-white-bishop",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:49-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:49-05:00",
+      "notes": "Catechism lectures, Comparative Views, Objections, Memoirs 1820 and 1836, Ordination commentaries; the 1791/1808 baptism books are another William White."
     }
   ]
 }

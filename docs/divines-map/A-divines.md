@@ -9993,3 +9993,20 @@ Slugs `seabury-*`. Built from title pages read for round 40.
 | Free Thoughts on the Proceedings of the Continental Congress, A View of the Controversy, and An Alarm to the Legislature (1774-1775), published as by 'A. W. Farmer'; pseudonymous, and political rather than theological | pending | not shelved |
 | The 1798 New York printing of the Discourses (Princeton and John Carter Brown copies) and another 1815 copy | alternate | not shelved |
 | Beardsley's Life and Correspondence of Samuel Seabury (1881), a work by another; the Seabury papers' manuscript sermons; his son Samuel Seabury (1801-1872) | excluded | |
+
+## William White (bishop) (round 40, my pick, 2026-10-22)
+
+Slugs `wwhite-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Catechism of the Protestant Episcopal Church : with supplementary lectures, one on the ministry, the other on the publick service : and dissertations on select subjects in the lectures (Philadelphia : Bradford and Inskeep, at the Office of the United States' Gazette, 1813) | have-ocr | IA `lecturesoncatec00whitgoog` |
+| Comparative views of the controversy between Calvinists and the Arminians, vol. 1 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817) | have-ocr | IA `comparativeviews01whit` |
+| Comparative views of the controversy between Calvinists and the Arminians, vol. 2 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817) | have-ocr | IA `comparativeviews02whit` |
+| Objections against the position of a personal assurance of the pardon of sin by a direct communication of the Holy Spirit : with notes, occasioned by a pamphlet containing remarks on the essay, under the name of "A reply" (Philadelphia : Moses Thomas, 1817) | have-ocr | IA `objectionsagains00whit` |
+| Memoirs of the Protestant Episcopal church in the United States of America : containing, I. A narrative of the organization and of the early measures of the church: II. Additional statements and remarks: III. An appendix of original papers, vol. 1 (Philadelphia : S. Potter & Co., 1820) | have-ocr | IA `memoirsofprotest01whit` |
+| Memoirs of the Protestant Episcopal Church in the United States of America,from its organization up to the present day (New York : Swords, Stanford, and Co., 1836) | have-ocr | IA `memoirsofprotest00whit` |
+| Commentaries suited to occasions of ordination (New York : Stanford and Swords, 1848) | have-ocr | IA `commentariessuit00whituoft` |
+| The Case of the Episcopal Churches in the United States Considered (1782), published anonymously; not found as a scan | pending | not shelved |
+| Other scans of the Memoirs (1820, 1836, the 1880 De Costa edition) and of the Commentaries; Bishop White's Opinions (1846), a compilation from his works by another hand | alternate | not shelved |
+| Four Sermons on Christian Baptism (1791) and Christian Baptism (1808), by a different William White, a Baptist | excluded | |
