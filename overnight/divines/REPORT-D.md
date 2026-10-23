@@ -2933,3 +2933,6 @@
 
 ## 2026-10-23 09:22 CDT — pictured-knowledge: done
 - pictured-knowledge: new shelf, 0 Gutenberg books (0 units) and 5 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:27 CDT — book-of-knowledge: done
+- book-of-knowledge: new shelf, 0 Gutenberg books (0 units) and 20 Internet Archive scans; verify 0 mismatches, 0 rights flags.

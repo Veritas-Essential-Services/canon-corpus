@@ -47837,3 +47837,30 @@ Shelf: `pipeline/pictured-knowledge_shelf.json` (2026-10-23; at Adam's ask for o
 | Pictured Knowledge, vol. 3 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg03unse`, `pictured-knowledge-v3` |
 | Pictured Knowledge, vol. 4 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg04unse`, `pictured-knowledge-v4` |
 | Pictured Knowledge, vol. 5 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg05unse`, `pictured-knowledge-v5` |
+
+## Arthur Mee and Holland Thompson (editors)
+
+Shelf: `pipeline/book-of-knowledge_shelf.json` (2026-10-23; at Adam's ask for old children's sets). The Book of Knowledge: The Children's Encyclopedia (Grolier, 1918 printing, three volumes 1919/1923), all twenty volumes. 0 Gutenberg texts, 20 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Knowledge: The Children's Encyclopedia, vol. 1 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0000arth_r2z4`, `book-of-knowledge-v01` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 2 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0000arth`, `book-of-knowledge-v02` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 3 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0003arth`, `book-of-knowledge-v03` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 4 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0004arth`, `book-of-knowledge-v04` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 5 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0000arth_t5y1`, `book-of-knowledge-v05` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 6 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bwb_T5-ARE-234`, `book-of-knowledge-v06` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 7 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0007arth`, `book-of-knowledge-v07` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 8 (Grolier Society, 1923 printing) | have (raw OCR) | IA `bookofknowledgec0008arth`, `book-of-knowledge-v08` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 9 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0009arth`, `book-of-knowledge-v09` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 10 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0010arth`, `book-of-knowledge-v10` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 11 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0011arth`, `book-of-knowledge-v11` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 12 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0012arth_i9d1`, `book-of-knowledge-v12` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 13 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0000na`, `book-of-knowledge-v13` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 14 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0014arth`, `book-of-knowledge-v14` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 15 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledgec0015arth_g5j5`, `book-of-knowledge-v15` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 16 (Grolier Society, 1919 printing) | have (raw OCR) | IA `bookofknowledge0016arth`, `book-of-knowledge-v16` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 17 (Grolier Society, 1918 printing) | have (raw OCR) | IA `newbookofknowled0017arth`, `book-of-knowledge-v17` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 18 (Grolier Society, 1919 printing) | have (raw OCR) | IA `bookofknowledge0018arth`, `book-of-knowledge-v18` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 19 (Grolier Society, 1918 printing) | have (raw OCR) | IA `thebookofknowled0019na`, `book-of-knowledge-v19` |
+| The Book of Knowledge: The Children's Encyclopedia, vol. 20 (Grolier Society, 1918 printing) | have (raw OCR) | IA `bookofknowledge0000arth_p6m1`, `book-of-knowledge-v20` |

@@ -7005,6 +7005,14 @@
       "started": "2026-10-23T09:22:42-05:00",
       "finished": "2026-10-23T09:22:42-05:00",
       "notes": "pictured-knowledge: new shelf, 0 Gutenberg books (0 units) and 5 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "book-of-knowledge",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Arthur Mee and Holland Thompson (editors); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:27:00-05:00",
+      "finished": "2026-10-23T09:27:00-05:00",
+      "notes": "book-of-knowledge: new shelf, 0 Gutenberg books (0 units) and 20 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
