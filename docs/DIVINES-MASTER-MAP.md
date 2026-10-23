@@ -40590,3 +40590,21 @@ Shelf: `pipeline/homer-greene_shelf.json` (2026-10-22; added at the coordinator'
 | The Guardsman | have | PG 55768, `hgreene-guardsman` (1882 units) |
 | Coal and the coal mines | have | PG 69134, `hgreene-coal-and-the-coal-mines` (752 units) |
 | The unhallowed harvest | have | PG 70967, `hgreene-unhallowed-harvest` (3263 units) |
+
+## Fanny Fern (Sara Payson Willis)
+
+Shelf: `pipeline/fanny-fern_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Ferns For Fanny's Little Friends | have | PG 20561, `ffern-little-ferns-for-fannys-little-friends` (1044 units) |
+| Caper-Sauce: A Volume of Chit-Chat about Men, Women, and Things. | have | PG 39944, `ffern-caper-sauce` (628 units) |
+| Folly as It Flies; Hit at by Fanny Fern | have | PG 40263, `ffern-folly-as-it-flies` (593 units) |
+| Ginger-Snaps | have | PG 40504, `ffern-ginger-snaps` (588 units) |
+| Ruth Hall: A Domestic Tale of the Present Time | have | PG 40814, `ffern-ruth-hall` (1381 units) |
+| Rose Clark | have | PG 41542, `ffern-rose-clark` (2160 units) |
+| Fresh Leaves | have | PG 45172, `ffern-fresh-leaves` (1051 units) |
+| Fern Leaves from Fanny's Port-folio. Second Series | have | PG 45450, `ffern-fern-leaves-from-fannys-port-folio-second-series` (1100 units) |
+| A New Story Book for Children | have | PG 66655, `ffern-new-story-book-for-children` (321 units) |
+| The Play-day Book: New Stories for Little Folks | have | PG 67570, `ffern-play-day-book` (663 units) |
+| Shadows and sunbeams: Being a second series of Fern leaves from Fanny's portfolio | have | PG 69784, `ffern-shadows-and-sunbeams` (1316 units) |

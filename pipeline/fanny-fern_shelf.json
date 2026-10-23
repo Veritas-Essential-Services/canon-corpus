@@ -1,0 +1,162 @@
+{
+ "_about": "Fanny Fern (Sara Payson Willis)'s writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Fanny Fern (Sara Payson Willis)",
+ "_name_words": [
+  "fanny",
+  "fern"
+ ],
+ "_surname": [
+  "fanny fern"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ffern-little-ferns-for-fannys-little-friends": [
+   20561,
+   "Little Ferns For Fanny's Little Friends"
+  ],
+  "ffern-caper-sauce": [
+   39944,
+   "Caper-Sauce: A Volume of Chit-Chat about Men, Women, and Things."
+  ],
+  "ffern-folly-as-it-flies": [
+   40263,
+   "Folly as It Flies; Hit at by Fanny Fern"
+  ],
+  "ffern-ginger-snaps": [
+   40504,
+   "Ginger-Snaps"
+  ],
+  "ffern-ruth-hall": [
+   40814,
+   "Ruth Hall: A Domestic Tale of the Present Time"
+  ],
+  "ffern-rose-clark": [
+   41542,
+   "Rose Clark"
+  ],
+  "ffern-fresh-leaves": [
+   45172,
+   "Fresh Leaves"
+  ],
+  "ffern-fern-leaves-from-fannys-port-folio-second-series": [
+   45450,
+   "Fern Leaves from Fanny's Port-folio. Second Series"
+  ],
+  "ffern-new-story-book-for-children": [
+   66655,
+   "A New Story Book for Children"
+  ],
+  "ffern-play-day-book": [
+   67570,
+   "The Play-day Book: New Stories for Little Folks"
+  ],
+  "ffern-shadows-and-sunbeams": [
+   69784,
+   "Shadows and sunbeams: Being a second series of Fern leaves from Fanny's portfolio"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ffern-little-ferns-for-fannys-little-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-caper-sauce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-folly-as-it-flies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-ginger-snaps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-ruth-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-rose-clark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-fresh-leaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-fern-leaves-from-fannys-port-folio-second-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-new-story-book-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-play-day-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffern-shadows-and-sunbeams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fanny fern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

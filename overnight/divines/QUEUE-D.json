@@ -4621,6 +4621,14 @@
       "started": "2026-10-22T22:39:58-05:00",
       "finished": "2026-10-22T22:39:58-05:00",
       "notes": "homer-greene: new shelf, 11 Gutenberg books, 15,025 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "fanny-fern",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Fanny Fern (Sara Payson Willis); no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:00-05:00",
+      "finished": "2026-10-22T22:40:00-05:00",
+      "notes": "fanny-fern: new shelf, 11 Gutenberg books, 10,845 units, 151 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
