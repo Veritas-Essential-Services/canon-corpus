@@ -42881,3 +42881,18 @@ Shelf: `pipeline/jessie-fothergill_shelf.json` (2026-10-22; added at the coordin
 | Oriole's daughter, a novel, Volume 1 (of 3) | have | PG 76215, `jfothergill-orioles-daughter-a-novel-volume-1-of-3` (618 units) |
 | Oriole's daughter, a novel, Volume 2 (of 3) | have | PG 76220, `jfothergill-orioles-daughter-a-novel-volume-2-of-3` (597 units) |
 | Oriole's daughter, a novel, Volume 3 (of 3) | have | PG 76769, `jfothergill-orioles-daughter-a-novel-volume-3-of-3` (900 units) |
+
+## Allan Pinkerton
+
+Shelf: `pipeline/allan-pinkerton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Burglar's Fate, and The Detectives | have | PG 17762, `apinkerton-burglars-fate-and-the-detectives` (949 units) |
+| Bucholz and the Detectives | have | PG 20497, `apinkerton-bucholz-and-the-detectives` (1174 units) |
+| The Expressman and the Detective | have | PG 22155, `apinkerton-expressman-and-the-detective` (1160 units) |
+| The Somnambulist and the Detective; The Murderer and the Fortune Teller | have | PG 30636, `apinkerton-somnambulist-and-the-detective` (1060 units) |
+| The Spiritualists and the Detectives | have | PG 32007, `apinkerton-spiritualists-and-the-detectives` (1459 units) |
+| Mississippi Outlaws and the Detectives Don Pedro and the Detectives; Poisoner and the Detectives | have | PG 35686, `apinkerton-mississippi-outlaws-and-the-detectives-don-pedro` (1183 units) |
+| The Molly Maguires and the detectives | have | PG 76641, `apinkerton-molly-maguires-and-the-detectives` (2213 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 34973 The Spy of the Rebellion Being a True History of the Spy Sys (copyright line 1989). The text names a 1931 or later copyright, so it is not taken until Adam rules. |

@@ -1,0 +1,113 @@
+{
+ "_about": "Allan Pinkerton: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Allan Pinkerton",
+ "_name_words": [
+  "allan",
+  "pinkerton"
+ ],
+ "_surname": [
+  "allan pinkerton",
+  "pinkerton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "apinkerton-burglars-fate-and-the-detectives": [
+   17762,
+   "The Burglar's Fate, and The Detectives"
+  ],
+  "apinkerton-bucholz-and-the-detectives": [
+   20497,
+   "Bucholz and the Detectives"
+  ],
+  "apinkerton-expressman-and-the-detective": [
+   22155,
+   "The Expressman and the Detective"
+  ],
+  "apinkerton-somnambulist-and-the-detective": [
+   30636,
+   "The Somnambulist and the Detective; The Murderer and the Fortune Teller"
+  ],
+  "apinkerton-spiritualists-and-the-detectives": [
+   32007,
+   "The Spiritualists and the Detectives"
+  ],
+  "apinkerton-mississippi-outlaws-and-the-detectives-don-pedro": [
+   35686,
+   "Mississippi Outlaws and the Detectives Don Pedro and the Detectives; Poisoner and the Detectives"
+  ],
+  "apinkerton-molly-maguires-and-the-detectives": [
+   76641,
+   "The Molly Maguires and the detectives"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 34973 The Spy of the Rebellion Being a True History of the Spy Sys (copyright line 1989). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "apinkerton-burglars-fate-and-the-detectives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-bucholz-and-the-detectives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-expressman-and-the-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-somnambulist-and-the-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-spiritualists-and-the-detectives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-mississippi-outlaws-and-the-detectives-don-pedro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apinkerton-molly-maguires-and-the-detectives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
