@@ -18012,3 +18012,15 @@ Slugs `townson-*`. Built from title pages read for round 120.
 | A dialogue between Isaac Walton and Homologistes: in which the character of Bishop Sanderson is defended against the author of The confessional.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-dialogue-between-isaac_townson-thomas_1768): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | thomastownsonsa00towngoog, a German translation | excluded | |
 | b22415646 is by Robert Townson | excluded | |
+
+## Naphtali Daggett (round 120, my pick, 2026-10-23)
+
+Slugs `daggett-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| The faithful serving of God and our generation, the only way to a peaceful and happy death. A sermon occasioned by the death of the Reverend Thomas Clap, (president of Yale College, in New-Haven) who departed this life, Jan. 7th, 1767; delivered in the College-Chapel, Jan. 8th, by the Rev'd Naphtali Daggett, Livingstonian Professor of Divinity in Yale-College. [Three lines from Matthew].  1767 (catalogued 1767) | have-ocr | IA `bim_eighteenth-century_the-faithful-serving-of-_daggett-naphtali_1767` |
+| The excellency of a good name. A sermon, delivered in the chapel of Yale-College, in New-Haven, December 4th, 1768. Occasioned by the death of Mr. Job Lane, ... By the Reverend Naphtali Daggett, ...  1768 (catalogued 1768) | have-ocr | IA `bim_eighteenth-century_the-excellency-of-a-good_daggett-naphtali_1768` |
+| The great and tender concern of faithful ministers for the souls of their people, should powerfully excite them also, to labour after their own salvation. A sermon, preached at Danbury, September 19th, 1770, at the ordination of the Reverend Ebenezer Baldwin. By the Reverend Naphtali Daggett, president of Yale-College, in New-Haven, and professor of divinity in the same. [Three lines from II Corinthians].  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_the-great-and-tender-con_daggett-naphtali_1770` |
+| The testimony of conscience a most solid foundation of rejoicing. A sermon preached at the ordination of the Rev. Mr. Joseph Howe, to the pastoral care of the New-South church in Boston, May 19th, 1773. By the Rev. Naphtali Daggett, ... To which is added, The charge by the Rev. Aaron Brown, and the Right hand of fellowship by the Rev. Dr. ...  1773 (catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-testimony-of-conscie_daggett-naphtali_1773` |
+| yhm-spe-rob-n01h, a two-page manuscript certificate | excluded | |
