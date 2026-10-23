@@ -46858,3 +46858,40 @@ Shelf: `pipeline/storytellers-tail-29_shelf.json` (2026-10-22; added at the coor
 | Stories of a governess | have | PG 52572, `afisler-stories-of-a-governess` (673 units) |
 | Better days; or, A Millionaire of To-morrow | have | PG 67835, `amfitch-better-days` (1573 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 71806 Shuddering castle (copyright line 1936). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 30 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-30_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Robert Scott Fittis, S. J. Adair Fitz-Gerald, Michael Fitzgerald, W. D. Flatt, D. H. Fletcher, Henry Fletcher, Samuel H. Fletcher, Elliott Flower, Lawrence Daniel Fogg, Thomas J. Ford, Fanny Forester, William Bentinck Forfar, A. E. Forrest, Andrew Forrester, Arthur M. Forrester, Forrester, Louise Forsslund, Charles Foster, Maximilian Foster, William Dudley Foulke, Charles Henry Fowler, Mary Fox, Hector France, J. G. Francis, Ulrich Frank, Julia Frankau, Harry W. French, James Strange French, W. A. Frisbie, Richard J. Fulfer. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mosstrooper: A Legend of the Scottish Border | have | PG 41323, `rsfittis-mosstrooper` (514 units) |
+| The Zankiwank and The Bletherwitch: An Original Fantastic Fairy Extravaganza | have | PG 37111, `sjafitzgerald-zankiwank-and-the-bletherwitch` (586 units) |
+| 1812: A tale of Cape Cod | have | PG 69333, `mfitzgerald-1812` (663 units) |
+| The making of a man | have | PG 68921, `wdflatt-making-of-a-man` (277 units) |
+| The History of Company A, Second Illinois Cavalry | have | PG 35692, `dhfletcher-history-of-company-a-second-illinois-cavalry` (475 units) |
+| The North Shore Mystery | have | PG 67735, `hfletcher-north-shore-mystery` (1356 units) |
+| The History of Company A, Second Illinois Cavalry | have | PG 35692, `shfletcher-history-of-company-a-second-illinois-cavalry` (475 units) |
+| The Best Policy | have | PG 36393, `eflower-best-policy` (1513 units) |
+| The Asbestos Society of Sinners | have | PG 67190, `ldfogg-asbestos-society-of-sinners` (669 units) |
+| With the rank and file | have | PG 50410, `tjford-with-the-rank-and-file` (150 units) |
+| Effie Maurice Or What do I Love Best | have | PG 17467, `fforester-effie-maurice-or-what-do-i-love-best` (351 units) |
+| The Wizard of West Penwith: A Tale of the Land's-End | have | PG 41058, `wbforfar-wizard-of-west-penwith` (1592 units) |
+| Silent guests | have | PG 78254, `aeforrest-silent-guests` (1585 units) |
+| Secret Service; or, Recollections of a City Detective | have | PG 46520, `aforrester-secret-service` (1213 units) |
+| An Irish Crazy-Quilt: Smiles and tears, woven into song and story | have | PG 62180, `amforrester-irish-crazy-quilt` (974 units) |
+| Diana Carew | have | PG 79096, `forrester-diana-carew` (3092 units) |
+| Old Lady Number 31 | have | PG 10087, `lforsslund-old-lady-number-31` (684 units) |
+| New Lights on Old Paths | have | PG 51062, `cfoster-new-lights-on-old-paths` (1589 units) |
+| Rich Man, Poor Man | have | PG 46945, `mfoster-rich-man-poor-man` (1560 units) |
+| Masterpieces of the masters of fiction | have | PG 72848, `wdfoulke-masterpieces-of-the-masters-of-fiction` (650 units) |
+| Historical Romance of the American Negro | have | PG 35189, `chfowler-historical-romance-of-the-american-negro` (890 units) |
+| Account of an expedition to the interior of New Holland | have | PG 69476, `mfox-account-of-an-expedition-to-the-interior-of-new-holland` (380 units) |
+| The Grip of Desire: The Story of a Parish-Priest | have | PG 10963, `hfrance-grip-of-desire` (2711 units) |
+| A Book of Cheerful Cats and Other Animated Animals | have | PG 30328, `jgfrancis-book-of-cheerful-cats-and-other-animated-animals` (100 units) |
+| Simon Eichelkatz; The Patriarch. Two Stories of Jewish Life | have | PG 37419, `ufrank-simon-eichelkatz` (1196 units) |
+| Twilight | have | PG 55276, `jfrankau-twilight` (2303 units) |
+| The Lance of Kanana: A Story of Arabia | have | PG 39853, `hwfrench-lance-of-kanana` (684 units) |
+| Elkswatawa | have | PG 74401, `jsfrench-elkswatawa` (1722 units) |
+| The Pirate Frog, and Other Tales | have | PG 64360, `wafrisbie-pirate-frog-and-other-tales` (205 units) |
+| A history of the trials and hardships of the Twenty-fourth Indiana Volunteer Infantry | have | PG 62981, `rjfulfer-history-of-the-trials-and-hardships-of-the-twenty-f` (666 units) |
