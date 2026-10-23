@@ -41355,3 +41355,19 @@ Shelf: `pipeline/augusta-j-evans_shelf.json` (2026-10-22; added at the coordinat
 | Vashti; Or, Until Death Us Do Part | have | PG 31620, `ajevans-vashti` (3568 units) |
 | A Speckled Bird | have | PG 36029, `ajevans-speckled-bird` (2513 units) |
 | Devota | have | PG 43080, `ajevans-devota` (228 units) |
+
+## Dane Coolidge
+
+Shelf: `pipeline/dane-coolidge_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rimrock Jones | have | PG 20076, `dcoolidge-rimrock-jones` (1609 units) |
+| Hidden Water | have | PG 29642, `dcoolidge-hidden-water` (1808 units) |
+| Silver and Gold: A Story of Luck and Love in a Western Mining Camp | have | PG 30572, `dcoolidge-silver-and-gold` (1160 units) |
+| Shadow Mountain | have | PG 30574, `dcoolidge-shadow-mountain` (1405 units) |
+| Wunpost | have | PG 30578, `dcoolidge-wunpost` (1114 units) |
+| Bat Wing Bowles | have | PG 36134, `dcoolidge-bat-wing-bowles` (1268 units) |
+| The Texican | have | PG 50387, `dcoolidge-texican` (901 units) |
+| The Desert Trail | have | PG 52358, `dcoolidge-desert-trail` (1797 units) |
+| The man-killers | have | PG 70972, `dcoolidge-man-killers` (1072 units) |

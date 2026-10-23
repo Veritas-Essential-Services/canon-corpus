@@ -4909,6 +4909,14 @@
       "started": "2026-10-22T22:45:28-05:00",
       "finished": "2026-10-22T22:45:28-05:00",
       "notes": "augusta-j-evans: new shelf, 9 Gutenberg books, 24,864 units, 221 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "dane-coolidge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Dane Coolidge; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:30-05:00",
+      "finished": "2026-10-22T22:45:30-05:00",
+      "notes": "dane-coolidge: new shelf, 9 Gutenberg books, 12,134 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

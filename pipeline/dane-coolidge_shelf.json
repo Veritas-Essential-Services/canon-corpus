@@ -1,0 +1,136 @@
+{
+ "_about": "Dane Coolidge's writing at Gutenberg: westerns. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Dane Coolidge",
+ "_name_words": [
+  "coolidge",
+  "dane"
+ ],
+ "_surname": [
+  "dane coolidge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dcoolidge-rimrock-jones": [
+   20076,
+   "Rimrock Jones"
+  ],
+  "dcoolidge-hidden-water": [
+   29642,
+   "Hidden Water"
+  ],
+  "dcoolidge-silver-and-gold": [
+   30572,
+   "Silver and Gold: A Story of Luck and Love in a Western Mining Camp"
+  ],
+  "dcoolidge-shadow-mountain": [
+   30574,
+   "Shadow Mountain"
+  ],
+  "dcoolidge-wunpost": [
+   30578,
+   "Wunpost"
+  ],
+  "dcoolidge-bat-wing-bowles": [
+   36134,
+   "Bat Wing Bowles"
+  ],
+  "dcoolidge-texican": [
+   50387,
+   "The Texican"
+  ],
+  "dcoolidge-desert-trail": [
+   52358,
+   "The Desert Trail"
+  ],
+  "dcoolidge-man-killers": [
+   70972,
+   "The man-killers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dcoolidge-rimrock-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-hidden-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-silver-and-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-shadow-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-wunpost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-bat-wing-bowles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-texican": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-desert-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoolidge-man-killers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dane coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
