@@ -1,0 +1,197 @@
+{
+ "_about": "Public-domain John Daniel Jones (1865-1942), Congregational minister of Richmond Hill Church, Bournemouth, for the Word Hoard: his books printed before 1930: The Lord of Life and Death (1900), Paul's Certainties (1900), The Gospel of the Sovereignty (1900), The Glorious Company of the Apostles (1904), Things Most Surely Believed (1908), If a Man Die (1918), The Gospel according to St. Mark, a devotional commentary (4 vols., catalogued 1919) and The King of Love (1922). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 80 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. d. jones",
+  "john daniel jones",
+  "rev. j. d. jones"
+ ],
+ "_surname": [
+  "j. d. jones",
+  "john daniel jones"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jdjones-lord-of-life-death": [
+   "lordoflifedeath00joneiala",
+   "The Lord of life and death (New York : George H. Doran, [19-)"
+  ],
+  "jdjones-pauls-certainties": [
+   "paulscertainties00jone",
+   "Paul's certainties, and other sermons (New York : Fleming H. Revell, 1900)"
+  ],
+  "jdjones-gospel-sovereignty": [
+   "gospelofsovereig00jone",
+   "The gospel of the sovereignty and other sermons (George H. Doran Company, 1900)"
+  ],
+  "jdjones-glorious-company": [
+   "gloriouscompany00joneuoft",
+   "The glorious company of the Apostles : being studies in the characters of the twelve (Bournemouth : H.G. Commin, 1904)"
+  ],
+  "jdjones-things-surely-believed": [
+   "mostsurelybeliev00joneuoft",
+   "Things most surely believed (London : Clarke, pref)"
+  ],
+  "jdjones-if-a-man-die": [
+   "ifmandie00jone",
+   "If a man die (New York : G. H. Doran, 1918)"
+  ],
+  "jdjones-mark-1": [
+   "gospelaccordingt0000jone",
+   "The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919)"
+  ],
+  "jdjones-mark-2": [
+   "gospelaccordingt0000jone_y3m4",
+   "The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919)"
+  ],
+  "jdjones-mark-3": [
+   "gospelaccordingt0000jone_b3v0",
+   "The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919)"
+  ],
+  "jdjones-mark-4": [
+   "gospelaccordingt0000jone_i1z3",
+   "The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919)"
+  ],
+  "jdjones-king-of-love": [
+   "kingoflovemedita00jone",
+   "The king of love, meditations on the twenty-third psalm (New York, Revell, 1922)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jdjones-other": "everything printed 1930 or later; a later printing of The Lord of Life and Death (1919)"
+ },
+ "_rights_checked": {
+  "jdjones-lord-of-life-death": "undated American printing: title page 'BY J. D. JONES, M.A., D.D. ... NEW YORK GEORGE H. DORAN COMPANY'; Doran traded under that name 1908-1927, so printed before 1930"
+ },
+ "_identity_checked": {
+  "jdjones-pauls-certainties": "title page: 'PAUL'S CERTAINTIES AND OTHER SERMONS BY THE Rev. J. D. JONES, M.A., B.D. OF BOURNEMOUTH ... Fleming H. Revell' (OCR 'J. D. J_ONES')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jdjones-lord-of-life-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[19--]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "undated American printing: title page 'BY J. D. JONES, M.A., D.D. ... NEW YORK GEORGE H. DORAN COMPANY'; Doran traded under that name 1908-1927, so printed before 1930"
+  },
+  "jdjones-pauls-certainties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jdjones-gospel-sovereignty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-glorious-company": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jdjones-things-surely-believed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "pref. 1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jdjones-if-a-man-die": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-mark-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-mark-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-mark-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-mark-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdjones-king-of-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. d. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -14266,6 +14266,25 @@ Slugs `horner-*`. Built from title pages read for round 80.
 | The children of the Bible (Ottawa : R.C. Horner, 1903) | have-ocr | IA `cihm_74636` |
 | Revival sermons (Ottawa : Holiness Movement Pub. House, 1910) | have-ocr | IA `cihm_74657` |
 | Gospel Tent Hymns (a hymnal); The Feast of 1905, which mixes his addresses with others' testimonies | excluded | |
+
+## J. D. Jones (round 80, my pick, 2026-10-23)
+
+Slugs `jdjones-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lord of life and death (New York : George H. Doran, [19-) | have-ocr | IA `lordoflifedeath00joneiala` |
+| Paul's certainties, and other sermons (New York : Fleming H. Revell, 1900) | have-ocr | IA `paulscertainties00jone` |
+| The gospel of the sovereignty and other sermons (George H. Doran Company, 1900) | have-ocr | IA `gospelofsovereig00jone` |
+| The glorious company of the Apostles : being studies in the characters of the twelve (Bournemouth : H.G. Commin, 1904) | have-ocr | IA `gloriouscompany00joneuoft` |
+| Things most surely believed (London : Clarke, pref) | have-ocr | IA `mostsurelybeliev00joneuoft` |
+| If a man die (New York : G. H. Doran, 1918) | have-ocr | IA `ifmandie00jone` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_y3m4` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_b3v0` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_i1z3` |
+| The king of love, meditations on the twenty-third psalm (New York, Revell, 1922) | have-ocr | IA `kingoflovemedita00jone` |
+| everything printed 1930 or later; a later printing of The Lord of Life and Death (1919) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
