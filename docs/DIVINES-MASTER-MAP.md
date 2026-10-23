@@ -12437,6 +12437,22 @@ Slugs `rfhorton-*`. Built from title pages read for round 59.
 | The teaching of Jesus in eighteen sections (London : Isbister, 1895) | have-ocr | IA `teachingofjesusi00hort` |
 | Oliver Cromwell; a study in personal religion (London, J. Clarke, 1897) | have-ocr | IA `cu31924027976715` |
 | His autobiography (1917) and any work printed after 1929 | excluded | |
+
+## John Clifford (round 59, my pick, 2026-10-23)
+
+Slugs `jclifford-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Hints on Bible study (New York : F.H. Revell Co., 1890) | have-ocr | IA `hintsonbiblestud00clif` |
+| The Christian certainties : discourses and addresses in exposition and defence of the Christian faith (London : Isbister, 1893) | have-ocr | IA `christiancertain0000clif` |
+| The inspiration and authority of the Bible (London : J. Clarke, 1895) | have-ocr | IA `inspirationautho00clif` |
+| Typical Christian leaders (London, H. Marshall, 1898) | have-ocr | IA `typicalchristian0000clif` |
+| Social worship : an everlasting necessity (London : J. Clarke, 1899) | have-ocr | IA `socialworshipeve0000clif` |
+| The ultimate problems of Christianity :  eight lectures (London : Kingsgate Press, 1906) | have-ocr | IA `ultimateproblems00clif` |
+| The gospel of gladness and its meaning for us (Edinburgh : T. & T. Clark, 1912) | have-ocr | IA `thoughtsandteach00clifuoft` |
+| The gospel of world brotherhood according to Jesus (London : Hodder and Stoughton, 1920) | have-ocr | IA `gospelofworldbro0000clif` |
+| The English Baptists: Who They Are and What They Have Done (1881, essays by several hands); W. K. Clifford's works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain John Clifford (1836-1923), General Baptist minister of Westbourne Park and first President of the Baptist World Alliance, for the Word Hoard: Hints on Bible Study, The Christian Certainties (1893), The Inspiration and Authority of the Bible (1892), Typical Christian Leaders (1898), Social Worship an Everlasting Necessity (1899), The Ultimate Problems of Christianity (1906), The Gospel of Gladness (1912) and The Gospel of World Brotherhood (1920). W. K. Clifford, on his own shelf, is another man. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "clifford"
+ ],
+ "_surname": [
+  "john clifford",
+  "j. clifford",
+  "dr. clifford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jclifford-bible-study": [
+   "hintsonbiblestud00clif",
+   "Hints on Bible study (New York : F.H. Revell Co., 1890)"
+  ],
+  "jclifford-christian-certainties": [
+   "christiancertain0000clif",
+   "The Christian certainties : discourses and addresses in exposition and defence of the Christian faith (London : Isbister, 1893)"
+  ],
+  "jclifford-inspiration-authority": [
+   "inspirationautho00clif",
+   "The inspiration and authority of the Bible (London : J. Clarke, 1895)"
+  ],
+  "jclifford-typical-leaders": [
+   "typicalchristian0000clif",
+   "Typical Christian leaders (London, H. Marshall, 1898)"
+  ],
+  "jclifford-social-worship": [
+   "socialworshipeve0000clif",
+   "Social worship : an everlasting necessity (London : J. Clarke, 1899)"
+  ],
+  "jclifford-ultimate-problems": [
+   "ultimateproblems00clif",
+   "The ultimate problems of Christianity :  eight lectures (London : Kingsgate Press, 1906)"
+  ],
+  "jclifford-gospel-of-gladness": [
+   "thoughtsandteach00clifuoft",
+   "The gospel of gladness and its meaning for us (Edinburgh : T. & T. Clark, 1912)"
+  ],
+  "jclifford-world-brotherhood": [
+   "gospelofworldbro0000clif",
+   "The gospel of world brotherhood according to Jesus (London : Hodder and Stoughton, 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jclifford-other": "The English Baptists: Who They Are and What They Have Done (1881, essays by several hands); W. K. Clifford's works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jclifford-bible-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jclifford-christian-certainties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jclifford-inspiration-authority": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jclifford-typical-leaders": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jclifford-social-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jclifford-ultimate-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jclifford-gospel-of-gladness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jclifford-world-brotherhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john clifford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
