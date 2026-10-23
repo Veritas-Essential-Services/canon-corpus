@@ -9790,3 +9790,12 @@ Shelf: `pipeline/albert-grenier_shelf.json`. The Roman Spirit in Religion, Thoug
 |---|---|---|---|
 | The Roman Spirit in Religion, Thought, and Art (1926) |  | `grenier-roman-spirit-1926` | have-raw (IA `romanspiritinrel00gren`) |
 
+
+## W. C. Summers (1869-1937)
+
+Shelf: `pipeline/walter-c-summers_shelf.json`. The Silver Age of Latin Literature (1920). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Silver Age of Latin Literature from Tiberius to Trajan (1920) |  | `summers-silver-age-latin-literature-1920` | have-raw (IA `silverageoflatin00summuoft`) |
+
