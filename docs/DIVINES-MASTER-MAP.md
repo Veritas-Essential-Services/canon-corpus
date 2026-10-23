@@ -16523,6 +16523,23 @@ Slugs `tuckerman-*`. Built from title pages read for round 103.
 | Joseph Tuckerman on the Elevation of the Poor: A Selection from His Reports (catalogued 1874) | have-ocr | IA `josephtuckerman00tuckgoog` |
 | The Visitor of the Poor (Degerando's book, which Tuckerman introduced) | excluded | |
 | A Memorial of Rev. Joseph Tuckerman (by others) | excluded | |
+
+## James Caughey (round 103, my pick, 2026-10-23)
+
+Slugs `caughey-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters on various subjects (catalogued 1845) | have-ocr | IA `lettersonvariou01cauggoog` |
+| Methodism in earnest: being the history of a great revival in Great Britain; in which twenty thousand souls were justified, and ten thousand sanctified, in about six years, through the instrumentality of Rev. James Caughey; including an account of the mental and spiritual exercises which made him so eminent a revivalist (Boston, C. H. Peirce, 1850) | have-ocr | IA `methodisminearne00caug` |
+| Revival miscellanies, containing eleven revival sermons : and thoughts on entire sanctification (Boston : For sale by J.P. Magee, 1851) | have-ocr | IA `revivalmiscellan00caug` |
+| Helps to a life of holiness and usefulness (Boston, J. P. Magee, agent, 1852) | have-ocr | IA `helpstolifeofhol00caug` |
+| The triumph of truth, and continental letters and sketches, from the journal, letters, and sermons of the Rev. James Caughey (New York Carlton & Porter, 1857) | have-ocr | IA `thetriumphoftrut00cauguoft` |
+| Showers of blessing from clouds of mercy (Boston, J. P. Magee, 1860) | have-ocr | IA `showersofblessin00caug` |
+| Arrows from my quiver (New York, W. C. Palmer, jr., 1867) | have-ocr | IA `arrowsfrommyquiv00caug` |
+| Glimpses of life in soul-saving (New York, W. C. Palmer, jr., 1868) | have-ocr | IA `glimpsesoflifein00caug` |
+| Light in the dark, through the dominions Unbelief (W. C. Palmer, 1868) | have-ocr | IA `lightindarkthrou0000revj` |
+| A Brief Memoir... of the Rev. J. Caughey (by another hand) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
