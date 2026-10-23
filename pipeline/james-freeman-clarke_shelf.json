@@ -1,0 +1,210 @@
+{
+ "_about": "Public-domain James Freeman Clarke (1810-1888), Unitarian minister of the Church of the Disciples, Boston, for the Word Hoard: Eleven Weeks in Europe (1852), The Christian Doctrine of Prayer (1854), The Hour which Cometh (1864), Orthodoxy: its Truths and Errors (1866), Steps of Belief (1870), The Christian Doctrine of Forgiveness of Sin (1870), Go Up Higher (1877), Essentials and Non-Essentials in Religion (1878), Memorial and Biographical Sketches (1878), Ten Great Religions (1878 printing), Self-Culture (1880) and Anti-Slavery Days (1884 catalogued 1880). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "clarke",
+  "freeman"
+ ],
+ "_surname": [
+  "james freeman clarke",
+  "j. freeman clarke",
+  "james f. clarke",
+  "j. f. clarke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jfclarke-eleven-weeks-europe": [
+   "elevenweeksineu00clargoog",
+   "Eleven Weeks in Europe: And what May be Seen in that Time (Ticknor, Reed & Fields, 1852)"
+  ],
+  "jfclarke-doctrine-of-prayer": [
+   "christiandoctrine00clar",
+   "The Christian doctrine of prayer : an essay (Boston : Crosby, Nichols, 1854)"
+  ],
+  "jfclarke-hour-which-cometh": [
+   "hourwhichcomethn00clar_1",
+   "The hour which cometh, and now is ([n.p.], 1864)"
+  ],
+  "jfclarke-orthodoxy": [
+   "orthodoxyitstrut00clarrich",
+   "Orthodoxy: its truths and errors (Boston : American Unitarian Association, 1880)"
+  ],
+  "jfclarke-steps-of-belief": [
+   "stepsofbelieforr00clar",
+   "Steps of belief : or, rational Christianity maintained against atheism, free religion, and Romanism (Boston : American Unitarian Association, 1876)"
+  ],
+  "jfclarke-forgiveness-of-sin": [
+   "christiandoctrin00clar_2",
+   "The Christian doctrine of forgiveness of sin : an essay (Boston : American Unitarian Association, 1870)"
+  ],
+  "jfclarke-go-up-higher": [
+   "gouphigherorreli00jamerich",
+   "Go up higher; or, Religion in common life (catalogued 1877)"
+  ],
+  "jfclarke-essentials": [
+   "essentialsnoness01clar",
+   "Essentials and non-essentials in religion (Boston, American Unitarian association, 1878)"
+  ],
+  "jfclarke-memorial-sketches": [
+   "memorialbiograph00clar",
+   "Memorial and biographical sketches (Bost., 1878)"
+  ],
+  "jfclarke-ten-great-religions": [
+   "tengreatreligion00claruoft",
+   "Ten great religions: an essay in comparative theology (Boston, Houghton, 1878)"
+  ],
+  "jfclarke-self-culture": [
+   "cu31924031232170",
+   "Self-culture : physical, intellectual, moral, and spiritual; a course of lectures (Boston : J.R. Osgood, 1880)"
+  ],
+  "jfclarke-anti-slavery-days": [
+   "antislaverydayss00clar",
+   "Anti-slavery days, a sketch of the struggle which ended in the abolition of slavery in the United States (New York, Lovell, 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jfclarke-other": "Memoirs of Margaret Fuller Ossoli (with Emerson and W. H. Channing); his Book of Worship, Service Book and Disciples' Hymn Book (compiled); Exotics (verse translations); Christianity and Modern Thought and Unitarian Affirmations (lectures by several hands); Adam Clarke, Samuel Clarke and William Newton Clarke, on their own shelves"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jfclarke-common-sense": "commonsenseinrel00essarich: Common-Sense in Religion (1873); nothing in the opening of this scan names Clarke; another copy can replace it"
+ },
+ "_translators": {},
+ "_checks": {
+  "jfclarke-eleven-weeks-europe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-doctrine-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-hour-which-cometh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jfclarke-orthodoxy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880,c1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-steps-of-belief": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-forgiveness-of-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jfclarke-go-up-higher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-essentials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jfclarke-memorial-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jfclarke-ten-great-religions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jfclarke-self-culture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jfclarke-anti-slavery-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james freeman clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

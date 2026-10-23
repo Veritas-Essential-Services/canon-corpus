@@ -12872,3 +12872,24 @@ Slugs `hwarejr-*`. Built from title pages read for round 64.
 | The works of Henry Ware, Jr., D.D, vol. 2 (Boston : James Munroe, 1846) | have-ocr | IA `worksofhenryware02ware` |
 | recollectionsof00ware: The Recollections of Jotham Anderson, Minister of the Gospel (Boston, 1824), a story published anonymously; nothing in this scan names Ware, so it waits for a title page or catalogue that does | pending | not shelved |
 | His father Henry Ware Sr. (1764-1845); his brother William Ware's novels; Abiel Abbot's Sermons and Priestley's Views of Christian Truth, which he edited; The Christian Disciple (a journal) | excluded | |
+
+## James Freeman Clarke (round 64, my pick, 2026-10-23)
+
+Slugs `jfclarke-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Eleven Weeks in Europe: And what May be Seen in that Time (Ticknor, Reed & Fields, 1852) | have-ocr | IA `elevenweeksineu00clargoog` |
+| The Christian doctrine of prayer : an essay (Boston : Crosby, Nichols, 1854) | have-ocr | IA `christiandoctrine00clar` |
+| The hour which cometh, and now is ([n.p.], 1864) | have-ocr | IA `hourwhichcomethn00clar_1` |
+| Orthodoxy: its truths and errors (Boston : American Unitarian Association, 1880) | have-ocr | IA `orthodoxyitstrut00clarrich` |
+| Steps of belief : or, rational Christianity maintained against atheism, free religion, and Romanism (Boston : American Unitarian Association, 1876) | have-ocr | IA `stepsofbelieforr00clar` |
+| The Christian doctrine of forgiveness of sin : an essay (Boston : American Unitarian Association, 1870) | have-ocr | IA `christiandoctrin00clar_2` |
+| Go up higher; or, Religion in common life (catalogued 1877) | have-ocr | IA `gouphigherorreli00jamerich` |
+| Essentials and non-essentials in religion (Boston, American Unitarian association, 1878) | have-ocr | IA `essentialsnoness01clar` |
+| Memorial and biographical sketches (Bost., 1878) | have-ocr | IA `memorialbiograph00clar` |
+| Ten great religions: an essay in comparative theology (Boston, Houghton, 1878) | have-ocr | IA `tengreatreligion00claruoft` |
+| Self-culture : physical, intellectual, moral, and spiritual; a course of lectures (Boston : J.R. Osgood, 1880) | have-ocr | IA `cu31924031232170` |
+| Anti-slavery days, a sketch of the struggle which ended in the abolition of slavery in the United States (New York, Lovell, 1880) | have-ocr | IA `antislaverydayss00clar` |
+| commonsenseinrel00essarich: Common-Sense in Religion (1873); nothing in the opening of this scan names Clarke; another copy can replace it | pending | not shelved |
+| Memoirs of Margaret Fuller Ossoli (with Emerson and W. H. Channing); his Book of Worship, Service Book and Disciples' Hymn Book (compiled); Exotics (verse translations); Christianity and Modern Thought and Unitarian Affirmations (lectures by several hands); Adam Clarke, Samuel Clarke and William Newton Clarke, on their own shelves | excluded | |
