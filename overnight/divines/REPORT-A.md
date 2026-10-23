@@ -2168,3 +2168,6 @@
 
 ## 2026-10-23 05:48 CDT — round 90 done
 - george-d-herron, charles-h-parkhurst, henry-kollock, john-stark-ravenscroft, frank-w-gunsaulus, alexander-h-vinton: 6 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:52 CDT — round 91 done
+- george-t-purves, randolph-h-mckim, john-cordner, george-deshon: 4 shelves, 32 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
