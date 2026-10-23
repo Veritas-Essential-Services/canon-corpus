@@ -1546,3 +1546,8 @@
 ## 2026-10-23 — Round dt: Rennie, Paley, Sidgwick, Page, Shuckburgh
 - 27 volumes. Four new shelves: Rennie's Acharnians; Paley's Euripides (vols. II-III, two school plays) and his verse renderings of the Greek comic fragments; Arthur Sidgwick's Aeschylus (4 plays) and Cambridge Virgil (2 vols); T. E. Page's Horace, Virgil and Acts. Shuckburgh +9 (Divus Augustus, his histories of Rome and Greece, school editions). Tyrrell's Bacchae; Allen and Sikes's Homeric Hymns.
 - Not taken: Paley's Euripides vol. I (no scan), Sidgwick's Persae and Neil's Knights (English OCRs as Greek letters), Page's Aeneid (only 1950s reprints scanned).
+
+## 2026-10-23 — Round du: filling out the scholars already shelved
+- 58 volumes. Lewis Campbell +11 (his Plato and Sophocles editions, the Jowett-Campbell Republic, the Life of Jowett), Mahaffy +13, Evelyn Abbott +7, Verrall +4 (including the Ion the euripides shelf had refused on a bad scan), Sandys +5, Heitland's Roman Republic (3 vols) and Short History, Gow +2, Nettleship +3, Paley +1.
+- Zeller's Philosophy of the Greeks is now complete in English on the zeller shelf: Pre-Socratics (2), Socrates, Plato, Aristotle (2), Eclecticism, Outlines, besides the Stoics already held.
+- Not taken: four school editions whose English OCRs as Greek letters, and works outside the classical brief.

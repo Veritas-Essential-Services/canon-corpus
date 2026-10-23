@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T06:13:23-05:00",
- "note": "Rounds cq-dt done 2026-10-23.",
- "resume_point": "Round du: audit the existing scholar shelves for English commentaries they lack (verrall, lewis-campbell, sandys, heitland, w-y-sellar, nettleship, mahaffy, evelyn-abbott, gow), then new shelves for B. H. Kennedy, Blaydes, Hayman and other Victorian editors not yet held. Read every title page and imprint before writing the row title."
+ "heartbeat": "2026-10-23T06:45:49-05:00",
+ "note": "Rounds cq-du done 2026-10-23.",
+ "resume_point": "Round dv: the English histories of Greek philosophy beside Zeller, not held on any branch (Gomperz's Greek Thinkers tr. Magnus and Berry, Windelband's History of Ancient Philosophy, Ueberweg tr. Morris, Ritter tr. Morrison, Erdmann tr. Hough, Schwegler tr. Stirling, Benn's Greek Philosophers); then B. H. Kennedy, Blaydes, Hayman. Check every title against all branches (tools/heldia.py + unheld.py) and read every title page and imprint before writing the row title."
 }
