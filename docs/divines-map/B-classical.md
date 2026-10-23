@@ -9220,3 +9220,14 @@ Shelf: `pipeline/a-s-murray_shelf.json`. Greek sculpture, archaeology and mythol
 
 Excluded: A History of Greek Sculpture, 1st ed. vol. I (1880) (superseded by the revised 1890 edition); British Museum catalogues (gems, terracotta sarcophagi, weights) (catalogues, not monographs)
 
+
+## Charles Waldstein (Walston) (1856-1927)
+
+Shelf: `pipeline/charles-waldstein_shelf.json`. Pheidias, Herculaneum, Greek sculpture, 1885-1914. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Essays on the Art of Pheidias (1885) |  | `waldstein-art-of-pheidias-1885` | have-raw (IA `essaysonartofphe00walduoft`) |
+| Herculaneum: Past, Present and Future (1908), with Leonard Shoobridge |  | `waldstein-herculaneum-1908` | have-raw (IA `herculaneumpastp00wald_0`) |
+| Greek Sculpture and Modern Art: Two Lectures Delivered to the Students of the Royal Academy (1914) |  | `waldstein-greek-sculpture-modern-art-1914` | have-raw (IA `greeksculpturemo00waldrich`) |
+
