@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain Hugh Stowell (1799-1865), evangelical rector of Christ Church, Salford, hymn writer, for the Word Hoard: The Pleasures of Religion, with other poems (1832), Tractarianism Tested by Holy Scripture (vol. 2, 1845), The Divine Panoply (1846), and the posthumous Sermons Preached in Christ Church, Salford and The Passover and Other Sermons (1869). Hugh Stowell Brown, the Liverpool Baptist, is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 65 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stowell"
+ ],
+ "_surname": [
+  "hugh stowell",
+  "h. stowell",
+  "rev. hugh stowell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hstowell-pleasures-of-religion": [
+   "relig00stow",
+   "Pleasures of religion : with other poems (London : C.J.G. and F. Rivington [etc.], 1832)"
+  ],
+  "hstowell-tractarianism-tested-2": [
+   "tractarianismtes02stow",
+   "Tractarianism tested by Holy Scripture and the Church of England : in a series of sermons, vol. 2 (London : J. Hatchard and Son, 1845)"
+  ],
+  "hstowell-divine-panoply": [
+   "TheDivinePanoply",
+   "The Divine Panoply, Or, A Suit Of Armour For The Soldier Of Christ (London : Religious Tract Society, 56 Paternoster Row ; Philadelphia : American Sunday-School Union, 146 Chestnut street, 1846)"
+  ],
+  "hstowell-salford-sermons": [
+   "sermonspreachedi00stow",
+   "Sermons preached in Christ Church, Salford (London : William Tegg, 1869)"
+  ],
+  "hstowell-passover": [
+   "passoverotherser00stow",
+   "The passover : and other sermons preached in Christ Church, Salford (London : William Tegg, 1869)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hstowell-other": "Hugh Stowell Brown's works; Thomas Alfred Stowell's memoir of him"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hstowell-tractarianism-tested-2": "the library catalogue card at the head of the scan reads 'Stowell, Hugh, 1799-1865. Tractarianism tested by Holy Scripture and [the Church of England], v. 2' (1845); the OCR of the title page itself is not legible"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hstowell-pleasures-of-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. stowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hstowell-tractarianism-tested-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hstowell-divine-panoply": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hstowell-salford-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hstowell-passover": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

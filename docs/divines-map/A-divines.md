@@ -12978,3 +12978,16 @@ Slugs `hblunt-*`. Built from title pages read for round 65.
 | Eight lectures upon the history of Jacob: delivered during Lent, 1828, at the Church of St. Luke, Chelsea (London : J. Hatchard & Son, 1845) | have-ocr | IA `EightLectures` |
 | Posthumous sermons (Philadelphia : H. Hooker, 1852) | have-ocr | IA `posthumoussermon00blunrich` |
 | John James Blunt and John Henry Blunt (another shelf); the 1854 Abraham-Jacob-Elisha reissue (the same lectures) | excluded | |
+
+## Hugh Stowell (round 65, my pick, 2026-10-23)
+
+Slugs `hstowell-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Pleasures of religion : with other poems (London : C.J.G. and F. Rivington [etc.], 1832) | have-ocr | IA `relig00stow` |
+| Tractarianism tested by Holy Scripture and the Church of England : in a series of sermons, vol. 2 (London : J. Hatchard and Son, 1845) | have-ocr | IA `tractarianismtes02stow` |
+| The Divine Panoply, Or, A Suit Of Armour For The Soldier Of Christ (London : Religious Tract Society, 56 Paternoster Row ; Philadelphia : American Sunday-School Union, 146 Chestnut street, 1846) | have-ocr | IA `TheDivinePanoply` |
+| Sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `sermonspreachedi00stow` |
+| The passover : and other sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `passoverotherser00stow` |
+| Hugh Stowell Brown's works; Thomas Alfred Stowell's memoir of him | excluded | |
