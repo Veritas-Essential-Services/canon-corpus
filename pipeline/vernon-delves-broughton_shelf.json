@@ -1,0 +1,39 @@
+{
+ "_about": "Mrs. Vernon Delves-Broughton, raw IA OCR of her Handbook to the Antiquities of Athens (1896). Not Rhoda Broughton, whose shelf is rhoda-broughton.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Mrs. Vernon Delves-Broughton",
+ "_name_words": [
+  "broughton"
+ ],
+ "_surname": [
+  "delves-broughton",
+  "vernon delves-broughton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vernon-delves-broughton-handbook-antiquities-of-athens-1896": [
+   "cu31924028304792",
+   "Handbook to the Antiquities of Athens, by Mrs. Vernon Delves-Broughton, illustrated by S. C. Vlastos (London: Simpkin, Marshall, Hamilton, Kent and Co., 1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "vernon-delves-broughton-handbook-antiquities-of-athens-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "vernon-delves-broughton-handbook-antiquities-of-athens-1896": {
+   "author": "M^s VERNON DELVES -BROUGHTON"
+  }
+ }
+}
