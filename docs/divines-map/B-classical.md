@@ -9561,3 +9561,12 @@ Shelf: `pipeline/c-i-hemans_shelf.json`. Historic and Monumental Rome (1874). No
 |---|---|---|---|
 | Historic and Monumental Rome: a Handbook for the Students of Classical and Christian Antiquity in the Italian Capital (1874) |  | `hemans-historic-monumental-rome-1874` | have-raw (IA `historicandmonu01hemagoog`) |
 
+
+## Charles Sankey
+
+Shelf: `pipeline/charles-sankey_shelf.json`. The Spartan and Theban Supremacies (Epochs of Ancient History). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Spartan and Theban Supremacies (Epochs of Ancient History, 1877; this printing 1898) |  | `sankey-spartan-theban-supremacies` | have-raw (IA `spartanthebansup00sankuoft`) |
+
