@@ -5637,6 +5637,14 @@
       "started": "2026-10-22T23:10:35-05:00",
       "finished": "2026-10-22T23:10:35-05:00",
       "notes": "f-w-bain: new shelf, 8 Gutenberg books, 2,138 units, 238 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "f-colburn-adams",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — F. Colburn Adams; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:10:37-05:00",
+      "finished": "2026-10-22T23:10:37-05:00",
+      "notes": "f-colburn-adams: new shelf, 8 Gutenberg books, 7,288 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

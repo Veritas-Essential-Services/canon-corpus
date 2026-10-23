@@ -42911,3 +42911,18 @@ Shelf: `pipeline/f-w-bain_shelf.json` (2026-10-22; added at the coordinator's re
 | A Digit of the Moon: A Hindoo Love Story | have | PG 48910, `fwbain-digit-of-the-moon` (304 units) |
 | A Mine of Faults | have | PG 48911, `fwbain-mine-of-faults` (278 units) |
 | A Draught of the Blue, together with An Essence of the Dusk | have | PG 49033, `fwbain-draught-of-the-blue-together-with-an-essence-of-the-d` (397 units) |
+
+## F. Colburn Adams
+
+Shelf: `pipeline/f-colburn-adams_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Siege of Washington, D.C., written expressly for little people | have | PG 4668, `fcadams-siege-of-washington-d-c-written-expressly-for-little` (178 units) |
+| Our World; Or, the Slaveholder's Daughter | have | PG 4677, `fcadams-our-world` (1955 units) |
+| Manuel Pereira; Or, The Sovereign Rule of South Carolina | have | PG 4680, `fcadams-manuel-pereira` (851 units) |
+| Justice in the By-Ways, a Tale of Life | have | PG 4958, `fcadams-justice-in-the-by-ways-a-tale-of-life` (1067 units) |
+| The Life and Adventures of Maj. Roger Sherman Potter | have | PG 4959, `fcadams-life-and-adventures-of-maj-roger-sherman-potter` (1013 units) |
+| The Von Toodleburgs; Or, The History of a Very Distinguished Family | have | PG 18549, `fcadams-von-toodleburgs` (983 units) |
+| An Outcast; Or, Virtue and Faith | have | PG 20745, `fcadams-outcast` (1099 units) |
+| "White man bery unsartin": "Nigger haint got no friends, no how"; the blackest chapter in the history of the Republican Party; the men who robbed and combined to rob the freedmen of their hard earnings. | have | PG 63245, `fcadams-white-man-bery-unsartin` (142 units) |
