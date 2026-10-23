@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mary Morison: Georg Brandes's Main Currents in Nineteenth Century Literature (Heinemann, 1901-05, 6 vols, with Diana White) and William Shakespeare (1898, with William Archer and Diana White), and Bjørnson's Mary (1909). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary Morison: Georg Brandes's Main Currents in Nineteenth Century Literature (Heinemann, 1901-05, 6 vols, with Diana White) and William Shakespeare (1898, with William Archer and Diana White), and Bjørnson's Mary (1909). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted. From archive.org (2026-10-23): Hauptmann's Lonely Lives (Heinemann, 1898); the Letters of Henrik Ibsen (with John Nilsen Laurvik) held, its title page prints no year.",
  "_name_words": [
   "mary morison"
  ],
@@ -42,7 +42,12 @@
    "William Shakespeare: A Critical Study"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mmo-ia-hauptmann-lonely-lives": [
+   "lonelylivesadra00haupgoog",
+   "Hauptmann: Lonely Lives"
+  ]
+ },
  "titles": {
   "mary-morison-bjornson-mary": {
    "source": "mmo-33300",
@@ -107,17 +112,26 @@
    "translated": "1898-1909 (see the Gutenberg header)",
    "translator": "Mary Morison (with William Archer, Diana White)",
    "scan_edition": "Project Gutenberg 50724 (clean text)"
+  },
+  "mary-morison-hauptmann-lonely-lives": {
+   "source": "mmo-ia-hauptmann-lonely-lives",
+   "of": "Gerhart Hauptmann",
+   "work": "Lonely Lives: A Drama",
+   "translated": "1898",
+   "translator": "Mary Morison",
+   "scan_edition": "William Heinemann, London, 1898"
   }
  },
  "_pending": {
-  "ia-ruville-william-pitt": "Albert von Ruville's William Pitt, Earl of Chatham (Heinemann/Putnam, 1907, 3 vols; translated by H. J. Chaytor assisted by Mary Morison): vols. 1 and 3 are open with her name legible (cu31924087992164, cu31924087992180), but every vol. 2 scan found misreads her name or lacks the title page. Waits for a clean vol. 2, so the set goes in whole."
+  "ia-ruville-william-pitt": "Albert von Ruville's William Pitt, Earl of Chatham (Heinemann/Putnam, 1907, 3 vols; translated by H. J. Chaytor assisted by Mary Morison): vols. 1 and 3 are open with her name legible (cu31924087992164, cu31924087992180), but every vol. 2 scan found misreads her name or lacks the title page. Waits for a clean vol. 2, so the set goes in whole.",
+  "mary-morison-letters-of-henrik-ibsen": "Letters of Henrik Ibsen (Fox, Duffield and Company, New York; lettershenrikib00laurgoog), translated by John Nilsen Laurvik and Mary Morison. The title page year is unreadable in the OCR; archive.org dates it 1905."
  },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "mmo-33300": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -126,7 +140,7 @@
   },
   "mmo-47675": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -135,7 +149,7 @@
   },
   "mmo-47781": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -144,7 +158,7 @@
   },
   "mmo-47794": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -153,7 +167,7 @@
   },
   "mmo-47892": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -162,7 +176,7 @@
   },
   "mmo-47950": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -171,7 +185,7 @@
   },
   "mmo-48042": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
@@ -180,12 +194,23 @@
   },
   "mmo-50724": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary morison",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "William Archer; Mary Morison; Diana White"
+  },
+  "mmo-ia-hauptmann-lonely-lives": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -228,6 +253,14 @@
    "pg": 50724,
    "pg_copyrighted_marker": false,
    "pg_translator": "William Archer"
+  },
+  "mmo-ia-hauptmann-lonely-lives": {
+   "ia": "lonelylivesadra00haupgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

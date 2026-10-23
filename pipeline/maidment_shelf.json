@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: George Maidment: Funck-Brentano's Legends of the Bastille (1899) and Princes and Poisoners (1901). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: George Maidment: Funck-Brentano's Legends of the Bastille (1899) and Princes and Poisoners (1901). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): Funck-Brentano's Cagliostro and Company (Pott, 1902).",
  "_name_words": [
   "george maidment"
  ],
@@ -18,7 +18,12 @@
    "Princes and Poisoners: Studies of the Court of Louis XIV"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "gma-ia-funck-brentano-cagliostro": [
+   "cagliostroandco00maidgoog",
+   "Funck-Brentano: Cagliostro and Company"
+  ]
+ },
  "titles": {
   "maidment-funck-brentano-legends-of-the-bastille": {
    "source": "gma-43231",
@@ -35,6 +40,14 @@
    "translated": "1899-1901 (see the Gutenberg header)",
    "translator": "George Maidment",
    "scan_edition": "Project Gutenberg 43238 (clean text)"
+  },
+  "maidment-funck-brentano-cagliostro-and-company": {
+   "source": "gma-ia-funck-brentano-cagliostro",
+   "of": "Frantz Funck-Brentano",
+   "work": "Cagliostro and Company: A Sequel to the Story of the Diamond Necklace",
+   "translated": "1902",
+   "translator": "George Maidment",
+   "scan_edition": "James Pott and Co., New York, 1902"
   }
  },
  "_pending": {},
@@ -43,7 +56,7 @@
  "_checks": {
   "gma-43231": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george maidment",
    "identity": "ok",
@@ -52,12 +65,23 @@
   },
   "gma-43238": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george maidment",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "George Maidment"
+  },
+  "gma-ia-funck-brentano-cagliostro": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george maidment",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +94,17 @@
    "pg": 43238,
    "pg_copyrighted_marker": false,
    "pg_translator": "George Maidment"
+  },
+  "gma-ia-funck-brentano-cagliostro": {
+   "ia": "cagliostroandco00maidgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1786,
+    1899,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

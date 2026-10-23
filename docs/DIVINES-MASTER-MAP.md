@@ -23098,7 +23098,7 @@ Round 24 (2026-10-10), vetoable. A Doll's House held on adler_shelf.json. Not co
 ## Mary Morison (Brandes's Main Currents and Shakespeare; Bjørnson)
 
 Shelf: `pipeline/mary-morison_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-morison` · titles `python3 pipeline/split_shelf_titles.py mary-morison`.
-Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 24 (2026-10-10), vetoable. Round 157 (2026-10-23) added Lonely Lives from archive.org; Letters of Ibsen held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23110,6 +23110,8 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `mary-morison-brandes-main-currents-vol-5` | Georg Brandes | Main Currents in Nineteenth Century Literature - 5. The Romantic School in France | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47950 |
 | `mary-morison-brandes-main-currents-vol-6` | Georg Brandes | Main Currents in Nineteenth Century Literature - 6. Young Germany | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 48042 |
 | `mary-morison-brandes-william-shakespeare-a-critical-study` | Georg Brandes | William Shakespeare: A Critical Study | Mary Morison (with William Archer, Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 50724 |
+| `mary-morison-hauptmann-lonely-lives` | Gerhart Hauptmann | Lonely Lives: A Drama | Mary Morison | 1898 | have-raw | IA `lonelylivesadra00haupgoog` |
+| `mary-morison-letters-of-henrik-ibsen` | Henrik Ibsen | Letters of Henrik Ibsen (Fox, Duffield; year unreadable, archive.org 1905) | John Nilsen Laurvik and Mary Morison | 1905? | pending | — |
 
 ## Diana White (Dubois's Timbuctoo)
 
@@ -23447,12 +23449,14 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## M. L. McClure (Maspero's History of Egypt and the Ancient East)
 
 Shelf: `pipeline/mcclure_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mcclure` · titles `python3 pipeline/split_shelf_titles.py mcclure`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 157 (2026-10-23) added Duchesne's Christian Worship from archive.org; Naville held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `mcclure-maspero-history-of-egypt-chaldaea-syria-babyloni` | G. (Gaston) Maspero | History of Egypt, Chaldæa, Syria, Babylonia, and Assyria | M. L. McClure | 1903-1906 (see the Gutenberg header) | have | PG 28876 |
+| `mcclure-duchesne-christian-worship` | Louis Duchesne | Christian Worship: Its Origin and Evolution | M. L. McClure | 1903 (this printing 1920) | have-raw | IA `christianworship00duchuoft` |
 | — | — | maspero-volumes: Gutenberg's volume files are left out; the complete text (28876) is used. | — | — | excluded | — |
+| `mcclure-naville-discovery-of-the-book-of-the-law` | Édouard Naville | The Discovery of the Book of the Law under King Josiah (SPCK; no year, archive.org 1911) | M. L. McClure | 1911? | pending | — |
 
 ## Douglas Ainslie (Croce)
 
@@ -23545,7 +23549,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Lady Mary Loyd (Mérimée, Stendhal's Chartreuse of Parma)
 
 Shelf: `pipeline/mary-loyd_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-loyd` · titles `python3 pipeline/split_shelf_titles.py mary-loyd`.
-Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 28 (2026-10-10), vetoable. Round 157 (2026-10-23) added five from archive.org; Balzac's Two Young Brides held (undated Collier printing). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23553,6 +23557,12 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `mary-loyd-merimee-carmen` | Prosper Mérimée | Carmen | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 2465 |
 | `mary-loyd-merimee-colomba` | Prosper Mérimée | Colomba | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 2708 |
 | `mary-loyd-stendhal-the-chartreuse-of-parma` | Stendhal | The Chartreuse of Parma | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 57638 |
+| `mary-loyd-renan-brother-and-sister` | Ernest Renan | Brother and Sister: A Memoir and the Letters of Ernest and Henriette Renan | Lady Mary Loyd | 1896 | have-raw | IA `brotherandsiste00renagoog` |
+| `mary-loyd-huart-a-history-of-arabic-literature` | Clément Huart | A History of Arabic Literature | Lady Mary Loyd | 1903 | have-raw | IA `cu31924095908921` |
+| `mary-loyd-waliszewski-ivan-the-terrible` | K. Waliszewski | Ivan the Terrible | Lady Mary Loyd | 1904 | have-raw | IA `ivanterrible00loydgoog` |
+| `mary-loyd-new-letters-of-napoleon-i` | Napoleon I | New Letters of Napoleon I, Omitted from the Edition Published under the Auspices of Napoleon III | Lady Mary Loyd | 1897 | have-raw | IA `bwb_P9-EAG-836` |
+| `mary-loyd-pontavice-de-heussey-villiers-de-l-isle-adam` | Vicomte Robert du Pontavice de Heussey | Villiers de l'Isle Adam: His Life and Works | Lady Mary Loyd | 1894 | have-raw | IA `bwb_W9-AEZ-322` |
+| `mary-loyd-balzac-two-young-brides` | Honoré de Balzac | The Two Young Brides (Collier; copyright 1902, printing undated) | Lady Mary Loyd | 1902? | pending | — |
 
 ## H. E. Krehbiel (Thayer's Life of Beethoven; Kerst's Mozart)
 
@@ -25951,12 +25961,13 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## George Maidment's Funck-Brentano
 
 Shelf: `pipeline/maidment_shelf.json` · fetch `python3 pipeline/fetch_shelf.py maidment` · titles `python3 pipeline/split_shelf_titles.py maidment`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 157 (2026-10-23) added Cagliostro and Company from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `maidment-funck-brentano-legends-of-the-bastille` | Frantz Funck-Brentano | Legends of the Bastille | George Maidment | 1899-1901 (see the Gutenberg header) | have | PG 43231 |
 | `maidment-funck-brentano-princes-and-poisoners-studies-of-the-cou` | Frantz Funck-Brentano | Princes and Poisoners: Studies of the Court of Louis XIV | George Maidment | 1899-1901 (see the Gutenberg header) | have | PG 43238 |
+| `maidment-funck-brentano-cagliostro-and-company` | Frantz Funck-Brentano | Cagliostro and Company: A Sequel to the Story of the Diamond Necklace | George Maidment | 1902 | have-raw | IA `cagliostroandco00maidgoog` |
 
 ## Kenneth R. H. Mackenzie (Tyll Owlglass; Hesekiel's Bismarck)
 
