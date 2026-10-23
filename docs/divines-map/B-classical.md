@@ -9753,3 +9753,12 @@ Shelf: `pipeline/gaetano-negri_shelf.json`. Julian the Apostate, tr. Litta-Visco
 | Julian the Apostate, vol. I (1905), tr. the Duchess Litta-Visconti-Arese |  | `negri-julian-the-apostate-vol-1` | have-raw (IA `julianapostatetr01negr`) |
 | Julian the Apostate, vol. II (1905), tr. the Duchess Litta-Visconti-Arese |  | `negri-julian-the-apostate-vol-2` | have-raw (IA `julianapostate02negr`) |
 
+
+## John George Sheppard (1816-1869)
+
+Shelf: `pipeline/j-g-sheppard_shelf.json`. The Fall of Rome and the Rise of the New Nationalities (1861). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Fall of Rome and the Rise of the New Nationalities: a Series of Lectures (1861; this printing 1892) |  | `sheppard-fall-of-rome` | have-raw (IA `fallofromeriseof00shepuoft`) |
+
