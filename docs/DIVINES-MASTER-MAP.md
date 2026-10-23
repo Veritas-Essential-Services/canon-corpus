@@ -18988,6 +18988,15 @@ Shelf: `pipeline/pickard-cambridge_shelf.json`. Demosthenes and the Last Days of
 |---|---|---|---|
 | Demosthenes and the Last Days of Greek Freedom, 384-322 B.C. (1914) |  | `pickard-cambridge-demosthenes-1914` | have-raw (IA `demosthenesandl00pickgoog`) |
 
+
+## Maurice Pellisson (1850-1915)
+
+Shelf: `pipeline/maurice-pellisson_shelf.json`. Roman Life in Pliny's Time, tr. Wilkinson (1897). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Roman Life in Pliny's Time (1897), tr. Maud Wilkinson |  | `pellisson-roman-life-plinys-time-1897` | have-raw (IA `romanlifeinplin00pellgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
