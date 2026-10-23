@@ -9260,3 +9260,23 @@ Shelf: `pipeline/ronald-m-burrows_shelf.json`. The Discoveries in Crete (1907). 
 |---|---|---|---|
 | The Discoveries in Crete and their Bearing on the History of Ancient Civilisation (1907) |  | `burrows-discoveries-in-crete-1907` | have-raw (IA `discoveriesincre00burruoft`) |
 
+
+## James Baikie (1866-1931)
+
+Shelf: `pipeline/james-baikie_shelf.json`. Ancient Egypt, Crete and the Near East, 1910-1929; two Gutenberg texts. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Sea-Kings of Crete (1910) |  | `baikie-sea-kings-of-crete-pg` | have (PG 19328) |
+| A Century of Excavation in the Land of the Pharaohs (1924) |  | `baikie-century-of-excavation-pg` | have (PG 75684) |
+| A History of Egypt from the Earliest Times to the End of the XVIIIth Dynasty, vol. I (1929) |  | `baikie-history-of-egypt-vol-1` | have-raw (IA `historyofegyptfr01baik`) |
+| A History of Egypt from the Earliest Times to the End of the XVIIIth Dynasty, vol. II (1929) |  | `baikie-history-of-egypt-vol-2` | have-raw (IA `historyofegyptfr02baik`) |
+| The Life of the Ancient East: being some Chapters of the Romance of Modern Excavation (1923) |  | `baikie-life-of-ancient-east-1923` | have-raw (IA `lifeofancienteas00baikuoft`) |
+| The Amarna Age: a Study of the Crisis of the Ancient World (1926) |  | `baikie-amarna-age-1926` | have-raw (IA `amarnaage001462mbp`) |
+| Egyptian Papyri and Papyrus-Hunting (1925) |  | `baikie-egyptian-papyri-1925` | have-raw (IA `egyptianpapyripa0000baik`) |
+| The Story of the Pharaohs (1917) |  | `baikie-story-of-pharaohs-1917` | have-raw (IA `storyofpharaohs00jame`) |
+| The Ancient East and its Story (1912) |  | `baikie-ancient-east-and-its-story-1912` | have-raw (IA `in.ernet.dli.2015.101855`) |
+| The Glamour of Near East Excavation (1927) |  | `baikie-glamour-near-east-excavation-1927` | have-raw (IA `glamourofneareas0000jame`) |
+
+Excluded: Through the Telescope; Peeps at the Royal Navy; Lands and Peoples of the Bible; The Bible Story (outside lane B)
+

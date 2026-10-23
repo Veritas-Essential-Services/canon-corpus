@@ -1,0 +1,175 @@
+{
+ "_about": "James Baikie (1866-1931), Scottish minister and popular historian of the ancient Near East and Aegean: The Sea-Kings of Crete (Gutenberg), A Century of Excavation in the Land of the Pharaohs (Gutenberg), A History of Egypt (2 vols., 1929), The Life of the Ancient East (1923), The Amarna Age (1926), Egyptian Papyri and Papyrus-Hunting (1925), The Story of the Pharaohs (1917), The Ancient East and its Story (1912), and The Glamour of Near East Excavation (1927). His astronomy, navy and Bible books are outside lane B. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "James Baikie (1866-1931)",
+ "_name_words": [
+  "baikie",
+  "egypt",
+  "crete",
+  "pharaohs",
+  "ancient",
+  "east",
+  "amarna",
+  "papyri",
+  "excavation"
+ ],
+ "_surname": [
+  "baikie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baikie-sea-kings-of-crete-pg": [
+   19328,
+   "The Sea-Kings of Crete (1910)"
+  ],
+  "baikie-century-of-excavation-pg": [
+   75684,
+   "A Century of Excavation in the Land of the Pharaohs (1924)"
+  ]
+ },
+ "internet_archive": {
+  "baikie-history-of-egypt-vol-1": [
+   "historyofegyptfr01baik",
+   "A History of Egypt from the Earliest Times to the End of the XVIIIth Dynasty, vol. I (1929)"
+  ],
+  "baikie-history-of-egypt-vol-2": [
+   "historyofegyptfr02baik",
+   "A History of Egypt from the Earliest Times to the End of the XVIIIth Dynasty, vol. II (1929)"
+  ],
+  "baikie-life-of-ancient-east-1923": [
+   "lifeofancienteas00baikuoft",
+   "The Life of the Ancient East: being some Chapters of the Romance of Modern Excavation (1923)"
+  ],
+  "baikie-amarna-age-1926": [
+   "amarnaage001462mbp",
+   "The Amarna Age: a Study of the Crisis of the Ancient World (1926)"
+  ],
+  "baikie-egyptian-papyri-1925": [
+   "egyptianpapyripa0000baik",
+   "Egyptian Papyri and Papyrus-Hunting (1925)"
+  ],
+  "baikie-story-of-pharaohs-1917": [
+   "storyofpharaohs00jame",
+   "The Story of the Pharaohs (1917)"
+  ],
+  "baikie-ancient-east-and-its-story-1912": [
+   "in.ernet.dli.2015.101855",
+   "The Ancient East and its Story (1912)",
+   "2015.101855.The-Ancient-East-And-Its-Story_djvu.txt"
+  ],
+  "baikie-glamour-near-east-excavation-1927": [
+   "glamourofneareas0000jame",
+   "The Glamour of Near East Excavation (1927)"
+  ]
+ },
+ "_excluded": {
+  "Through the Telescope; Peeps at the Royal Navy; Lands and Peoples of the Bible; The Bible Story": "outside lane B"
+ },
+ "_checks": {
+  "baikie-sea-kings-of-crete-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baikie-century-of-excavation-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baikie-history-of-egypt-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-history-of-egypt-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-life-of-ancient-east-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-amarna-age-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "lendinglibrary_oop",
+   "ia_lending": null
+  },
+  "baikie-egyptian-papyri-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-story-of-pharaohs-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-ancient-east-and-its-story-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baikie-glamour-near-east-excavation-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
