@@ -17491,6 +17491,27 @@ Slugs `tomkins-*`. Built from title pages read for round 114.
 | Following Christ; practical thoughts for daily Christian living (Philadelphia, G.W. Jacobs & Co, 1901) | have-ocr | IA `followingchristp00tomk` |
 | The Christian life; what it is, and how to live it (New York, E.P. Dutton & Co., 1905) | have-ocr | IA `christianlifewha00tomk` |
 | Sunshine on life's way; being selections from his writings (New York, Dutton, 1913) | have-ocr | IA `sunshineonlifesw00tomk` |
+
+## W. B. Selbie (round 115, my pick, 2026-10-23)
+
+Slugs `selbie-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Aspects of Christ (New York ; and London : Hodder and Stoughton, 1900) | have-ocr | IA `aspectsofchrist00selb` |
+| The life and teaching of Jesus Christ, vol. 7 (New York : Hodder & Stoughton, 1909) | have-ocr | IA `lifeteachingofje07selb` |
+| Evangelical Christianity : its history and witness : a series of lectures delivered at Mansfield College, Oxford, in the Hilary term, 1911 (London, Hodder and Stoughton, [191) | have-ocr | IA `evangelicalchri00selbuoft` |
+| The servant of God and other sermons (London : Hodder and Stoughton, 1911) | have-ocr | IA `theservantofgod00selbuoft` |
+| Nonconformity, its origin and progress (London : Williams and Norgate, [191) | have-ocr | IA `nonconformityits00selbuoft` |
+| Schleiermacher : a critical and historical study (London : Chapman and Hall, 1913) | have-ocr | IA `schleiermacherac00selbuoft` |
+| The Life of Andrew Martin Fairbairn (catalogued 1914) | have-ocr | IA `lifeofandrewmart0000wbse` |
+| The war and theology (London ; Toronto : Oxford University Press, H. Milford, 1915) | have-ocr | IA `cihm_66982` |
+| The nature and message of the Bible (London : Student, 1916) | have-ocr | IA `thenatureandmess00selbuoft` |
+| Belief and life : studies in the thought of the fourth Gospel (New York : Charles Scribner's, 1917) | have-ocr | IA `belieflifestudie0000selb` |
+| The life of Charles Silvester Horne (London, Hodder and Stoughton, 1920) | have-ocr | IA `lifeofcharlessil00selb` |
+| The psychology of religion (Oxford, Clarendon Press, 1924) | have-ocr | IA `psychologyofreli0000selb` |
+| Congrationalism (london: methurn & co., ltd., 1927) | have-ocr | IA `congrationalism0000wbse` |
+| Other scans of the same books (English Sects is the American title of Nonconformity) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
