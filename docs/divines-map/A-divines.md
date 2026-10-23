@@ -18232,3 +18232,25 @@ Slugs `topp-*`. Built from title pages read for round 122.
 | The perpetuity of the reign of Christ : the last sermon preached by late Rev. Alexander Topp, D.D ([Toronto? : s.n.], 1879) | have-ocr | IA `cihm_64617` |
 | cihm_29804, a second scan of The River of Life | excluded | |
 | cihm_40307 is one of the New Year addresses, already in the collected volume | excluded | |
+
+## Robert Machray (round 122, my pick, 2026-10-23)
+
+Slugs `machray-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian privilege and duty: A sermon preached in St. John's Cathedral, Red River Settlement by the Right Rev. the Lord Bishop of Rupert's Land on Sunday morning, May 10th, 1868: Being the Sunday previous to his Lordship's departure from the settlement on a visit to the distant Moose missions (Printed at the Nor'Wester Office (Winnipeg), 1868) | have-ocr | IA `P000484` |
+| A pastoral letter ([Winnipeg? : s.n.], 1870) | have-ocr | IA `cihm_91155` |
+| Memorandum by the Bishop of Rupert's Land on the present state of the mission ([s.n.] ([London]?), 1873) | have-ocr | IA `P000675` |
+| Sermon of the most Rev. the Bishop of Rupert's Land (Winnipeg, Manitoba Free Press, 1883) | have-ocr | IA `sermonofmostrevb00mach` |
+| Some remarks on primary education ([S.l. : s.n.], 1889) | have-ocr | IA `cihm_30631` |
+| A Manual of Family Prayers (1869), IA cihm_16830: compiled with J. P. Gardiner (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Synod of the Diocese of Rupert's Land (1869), IA cihm_30097: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Second Conference of Clergy and Lay-Delegates (1867), IA P000475: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Diocese of Rupert's Land by the Bishop and Clergy (1867), IA P000457: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Sermon at the installation of Canon Grisdale, professor of systematic theology, as canon in St. John's Cathedral, by the Bishop of Rupert's Land, on Monday, November 2nd, 1874 ([Winnipeg? : s.n., 1874) (IA cihm_24741): the text names no preacher anywhere; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| To the Right Honourable and Most Reverend the Lord Archbishop of Canterbury ([Winnipeg? : s.n.], 1880) (IA cihm_89233): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| To the standing committee of the venerable Society for the Propagation of the Gospel ([Winnipeg? : s.n.], 1899) (IA cihm_89238): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Grace O'Malley, The Night Side of London, The Mystery of Lincoln's Inn, The Little Entente and The India Office are by his nephew Robert Machray | excluded | |
+| the Life of Robert Machray is by his nephew | excluded | |
+| the Cree prayer book is compiled by W. W. Kirkby | excluded | |
