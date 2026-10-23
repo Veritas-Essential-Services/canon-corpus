@@ -18799,3 +18799,15 @@ Shelf: `pipeline/w-bert-foster_shelf.json` (2026-10-22; added at the coordinator
 | The Trail Boys of the Plains; Or, The Hunt for the Big Buffalo | have | PG 44078, `wbfoster-trail-boys-of-the-plains` (2266 units) |
 | From Sea to Sea; Or, Clint Webb's Cruise on the Windjammer | have | PG 67495, `wbfoster-from-sea-to-sea` (1476 units) |
 | The quest of the Silver Swan: A land and sea tale for boys | have | PG 68182, `wbfoster-quest-of-the-silver-swan` (2325 units) |
+
+## George Allan England
+
+Shelf: `pipeline/george-allan-england_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Darkness and Dawn | have | PG 7463, `gaengland-darkness-and-dawn` (6251 units) |
+| The Flying Legion | have | PG 12265, `gaengland-flying-legion` (3092 units) |
+| The Air Trust | have | PG 12826, `gaengland-air-trust` (2023 units) |
+| Cursed | have | PG 48068, `gaengland-cursed` (2777 units) |
+| Underneath the Bough: A Book of Verses | have | PG 60870, `gaengland-underneath-the-bough` (264 units) |
