@@ -15105,3 +15105,17 @@ Slugs `jdana-*`. Built from title pages read for round 89.
 | Sermons to young people : preached A.D. 1803,1804 ... to which are added Prayers for young families (New Haven : From Sydney's Press, 1806) | have-ocr | IA `sermonstoyoungpe00dana` |
 | examinationoflat00dana: the 1770 Examination was printed without the author's name and its OCR never names Dana; attribution needs a cited source | pending | not shelved |
 | ASPC0005247700: OCR too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+
+## Daniel Dana (round 89, my pick, 2026-10-23)
+
+Slugs `ddana-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The deity of Christ. A sermon delivered July 31, 1810, before the Haverhill association; and published at their request (Newburyport, Printed by W. & J. Gilman, booksellers and stationers, no. 2, Middle-street, 1819) | have-ocr | IA `deityofchristser00dana` |
+| Evangelical preaching is rational preaching, vol. c.1 (Concord, N.H., Printed by Isaac Hill, 1826) | have-ocr | IA `evangelicalpreac01dana` |
+| Objections against the gospel refuted : a sermon preached March 4, 1829, at the installation of the Rev. John Brown, D.D. as pastor of Pine Street Church, Boston (Boston : T.R. Marvin, Printer, 1829) | have-ocr | IA `objectionsagains00dana` |
+| A sermon delivered at the annual election on Wednesday, January 4, 1837, before His Excellency Edward Everett, governor, His Honor George Hull, lieutenant governor, the honorable Council, and the legislature of Massachusetts (Boston, Dutton and Wentworth, Printers to the State, 1837) | have-ocr | IA `sermondelivereda00dana` |
+| Letters to the Rev. Professor Stuart : comprising remarks on his essay on sin, published in the American biblical repository for April and July, 1839 (Boston : Printed by Crocker & Brewster, 1839) | have-ocr | IA `letterstorevprof01dana` |
+| The New song : a sermon, delivered in Bowdoin-Street Church, Boston (Boston : Crocker and Brewster, 1849) | have-ocr | IA `newmondel00dana` |
+| Baptology (1860), by Daniel Dana Jr.; his Washington discourse (bound in a many-author volume); collections that only include a sermon of his | excluded | |
