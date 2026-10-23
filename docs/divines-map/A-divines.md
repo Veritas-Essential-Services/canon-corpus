@@ -17519,3 +17519,24 @@ Slugs `jhersey-*`. Built from title pages read for round 115.
 | The design, importance and validity of infant baptism : also, a few thoughts on the mode of administering that ordinance / by J. Hersey (Armstrong & Berry, 1855) | have-ocr | IA `designimportance00hers_0` |
 | The identity of the two Apocalyptic witnesses ; their character, death and resurrection, as connected with the introductiion of the millenium, to which is added Pious reflections (Baltimore : Armstrong & Berry ; Philadelphia : Higgins & Perkinpine, 1857) | have-ocr | IA `identityoftwoapo00hers` |
 | The privilege of those who are born of God, or, A plain rational view of the nature and extent of sanctification (Baltimore : Armstrong and Berry, 1840), IA privilegeofthose00hers: text file returned a server error | pending | not shelved |
+
+## Charles L. Goodell (round 115, my pick, 2026-10-23)
+
+Slugs `goodell-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pastor's vade mecum : containing the ritual for baptism, reception of members, the Lord's supper, matrimony, and burial of the dead : also hymns and scripture lessons for various occasions (New York : Eaton & Mains, 1886) | have-ocr | IA `pastorsvademecum00good` |
+| My mother's Bible, A memorial volume of addresses for the home ([n.p.], 1891) | have-ocr | IA `mymothersbibleme00good` |
+| The drillmaster of Methodism : principles and methods for the class leader and pastor (New York : Eaton & Mains; Cincinnati : Jennings & Pye, 1902) | have-ocr | IA `drillmasterofmet00good` |
+| Price of winning souls : an address delivered before the conference of Christian workers, East Northfield, Mass., Saturday afternoon, August 11, 1906 / by Charles L. Goodell (New York : Fleming H. Revell, 1906) | have-ocr | IA `priceofwinningso00good` |
+| Pathways to the best (Funk& Wagnalls Company, 1907) | have-ocr | IA `pathwaystobest0000char` |
+| Pastoral and personal evangelism (New York, Chicago [etc.] Fleming H. Revell Co., 1907) | have-ocr | IA `pastoralpersonal0000good` |
+| Followers of the gleam; or, Modern miracles of grace (New York and London, Funk & Wagnalls company, 1911) | have-ocr | IA `followersofgleam00good` |
+| Heralds of a passion (New York, George H. Doran, 1921) | have-ocr | IA `heraldsofpassion0000good` |
+| Cyclopedia of evangelism (Harper, 1921) | have-ocr | IA `cyclopediaofevan00good` |
+| Pastor and evangelist (New York, George H. Doran Company, 1922) | have-ocr | IA `pastorevangelist00good` |
+| What are you worth? Queries in personality (New York : George H. Doran Co., 1923) | have-ocr | IA `whatareyouworthq00good` |
+| Motives and methods in modern evangelism (New York, Chicago Fleming H. Revell Company, 1926) | have-ocr | IA `motivesmethodsin0000good` |
+| Twilight Reveries life and how to live it (Fleming H. Revell Company, 1929) | have-ocr | IA `bwb_Y0-BAQ-432` |
+| sermonsaddresses00brod and pastorhisownevan0000jwil are by other men | excluded | |
