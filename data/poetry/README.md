@@ -5,7 +5,7 @@ fable_review: pending
 ---
 # data/poetry — the Word Hoard poetry section
 
-Three layers of poems, one shape, and Mnemonicon memory packs built from them.
+Four layers of poems, one shape, and Mnemonicon memory packs built from them.
 Build: `pipeline/build_poetry.py`. Validator: `tests/poetry_test.py`.
 
 | Layer | Tag | What it is |
@@ -13,6 +13,7 @@ Build: `pipeline/build_poetry.py`. Validator: `tests/poetry_test.py`.
 | **AO** | `ao` | AmblesideOnline's poetry selections, Years 1–12 and the Canadian supplement, as AO schedules them (year, term, order). |
 | **Heroic addendum** | `addendum-heroic` | The house's own proposals: heroic, adventurous and vocational verse, plus a few songs. Same year/term slots so it sits **beside** the AO list, never inside it. Every row is `status: proposed` until Adam rules on it. |
 | **Treasury** | `treasury` | The Schoolroom Treasury's candidate pool: every verse candidate from the 55 old anthologies, readers and speakers in `pool/`, for Adam to cull. No year or term yet; every row is `status: candidate` and carries its `pool_id`. Selections are written by `pipeline/select_treasury.py`. |
+| **Collections** | `collections` | A whole book or set of one poet's, taken entire at Adam's ask. Each row names its `collection` (its tag and its pack) and keeps the book's order. The first is `cowper-guyon`: all 37 of Cowper's translations of Madame Guyon. |
 
 A poem in two layers is one poem: one citation (`poetry:<poet>.<title>`),
 one `wh-` uid, one Mnemonicon piece id.
@@ -26,6 +27,7 @@ one `wh-` uid, one Mnemonicon piece id.
 | `poets.json` | yes | curated: names, aliases, birth/death years (death year drives only the life+70 note) |
 | `sources.json` | yes | the Project Gutenberg books texts are cut from, with mirror URL and sha256 |
 | `selections/treasury.jsonl` | yes | **built** by `select_treasury.py`: every verse candidate in the pool, with its cut |
+| `selections/collections.jsonl` | yes | curated: whole collections, one row per poem in the book's order |
 | `catalog-ao.jsonl`, `catalog-addendum-heroic.jsonl`, `catalog-treasury-N.jsonl` | yes | **built**: one row per selection, with uid, rights and hosting decision |
 | `texts-N.jsonl` | yes | **built**: the hosted texts, public domain only, cut from the pinned books |
 
@@ -127,3 +129,14 @@ Adam asked for every poem in the candidate pool to be in the hoard. `pipeline/se
 - **Packs:** one per source book, `treasury-pg<n>.json`.
 
 Order of a rebuild: `build_poetry.py --fetch`, `select_treasury.py --fetch` (fetches and pins the pool's books), `build_poetry.py`, then `build_poetry.py --check`.
+
+## The collections layer (2026-10-23)
+
+When Adam wants a poet's book whole, it goes in `selections/collections.jsonl`. Every poem gets a row, in the book's order, and each row names its `collection` and `collection_title`. Each collection's poems are banked in one pack, `collection-<collection>.json`, and tagged with the collection's name.
+
+**`cowper-guyon`** holds Cowper's *Translations from the French of Madame de la Mothe Guion*. Cowper made them in 1782, and they were published after his death (Newport Pagnell, 1801). There are 37 poems, cut from Grimshawe's one-volume *Works* (PG #47790, already pinned), which prints them all in its section of that name. Every cut begins after that section's heading (`extract.after`).
+- The three night-season poems share a heading, "On the same", so the second and third carry `variant` `night-season-2` and `night-season-3`.
+- *The Soul that Loves God finds him everywhere* is printed "every where".
+- *A Figurative Description...* has a subtitle printed under its heading. The cut starts at the first line of verse, and the row's notes give the subtitle.
+
+The prose "Brief Account of Madame Guion", which opens the section, is not verse and is left out.

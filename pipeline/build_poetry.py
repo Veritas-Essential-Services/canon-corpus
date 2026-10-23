@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # prov: 2026-10-06 claude-opus-5-5 drafted
 # prov: 2026-10-17 claude-opus-5-5 added the treasury layer
+# prov: 2026-10-23 claude-opus-5-5 added the collections layer
 # fable_review: pending
 """
 build_poetry.py -- the Word Hoard poetry section: AmblesideOnline's poetry
@@ -15,11 +16,13 @@ as Mnemonicon memory packs a child can bank straight into memory work.
     Input:  data/poetry/selections/ao.jsonl               (AO's schedule, curated)
             data/poetry/selections/addendum-heroic.jsonl  (the house's proposals, curated)
             data/poetry/selections/treasury.jsonl         (the candidate pool; select_treasury.py)
+            data/poetry/selections/collections.jsonl      (whole books of a poet's, curated)
             data/poetry/sources.json                      (the Gutenberg books, pinned by sha256)
             data/corpus/gitenberg/<n>.txt                 (fetched; gitignored)
     Output: data/poetry/catalog-ao.jsonl                  (COMMITTED)
             data/poetry/catalog-addendum-heroic.jsonl     (COMMITTED)
             data/poetry/catalog-treasury[-N].jsonl        (COMMITTED)
+            data/poetry/catalog-collections.jsonl         (COMMITTED)
             data/poetry/texts[-N].jsonl                   (COMMITTED; public domain only)
             A file over SHARD bytes is cut into numbered parts (texts-1.jsonl, ...) to stay
             under the 5 MB cap; read them with read_parts().
@@ -35,7 +38,10 @@ THREE LAYERS, ONE SHAPE
     beside the AO list without mixing into it. The third layer, `treasury`, is
     the Schoolroom Treasury's candidate pool (selections written by
     select_treasury.py): every verse candidate from the old anthologies, with
-    no year or term until Adam culls and grades it. A poem in two layers is
+    no year or term until Adam culls and grades it. The fourth, `collections`,
+    is a whole book or set of a poet's, taken entire at Adam's ask (the first:
+    Cowper's translations of Madame Guyon); each row names its `collection`,
+    which is its tag and its pack. A poem in two layers is
     ONE poem: one citation, one uid, one Mnemonicon piece id.
 
 THE RIGHTS RULE (US, as of 1 January 2026)
@@ -95,7 +101,7 @@ _X = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_X)
 NAMESPACE = _X.NAMESPACE          # one namespace for every Word Hoard piece: never change it
 
-LAYERS = ("ao", "addendum-heroic", "treasury")
+LAYERS = ("ao", "addendum-heroic", "treasury", "collections")
 AS_OF = 2026                      # the year the rights rule is computed for
 PD_BEFORE = AS_OF - 95            # published before this year: US public domain
 LIFE70_BEFORE = AS_OF - 70        # died before this year: out of copyright in life+70 countries
@@ -532,6 +538,8 @@ def pack_name(row):
     if row["layer"] == "treasury":                  # one pack per source book
         n = (row.get("pd_source") or {}).get("gutenberg")
         return f"treasury-pg{n}"
+    if row["layer"] == "collections":               # one pack per collection
+        return f"collection-{row['collection']}"
     return f"heroic-y{int(row['year']):02d}-t{row['term']}"
 
 
@@ -545,6 +553,8 @@ def tags_for(row):
             t.append(f"{yt}-t{row['term']}")
     elif row["layer"] == "treasury":
         t.append(f"pg{(row.get('pd_source') or {}).get('gutenberg')}")
+    elif row["layer"] == "collections":
+        t.append(row["collection"])
     else:
         t.append(row.get("kind") or "heroic")
         t.append(f"year-{y}")
@@ -631,6 +641,8 @@ def build(reg, report=False):
             if layer == "treasury":
                 out["status"] = "candidate"
                 out["pool_id"], out["n_books"] = row.get("pool_id"), row.get("n_books")
+            if layer == "collections":
+                out["collection"], out["collection_title"] = row["collection"], row["collection_title"]
             catalogs[layer].append(out)
             if host == "full":
                 lines_n = text.count("\n") + 1
@@ -661,6 +673,8 @@ def pieces_for(cat_rows, texts, layer_title):
             where = f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
         elif row["layer"] == "treasury":
             where = f"Schoolroom Treasury candidate, printed in {row.get('n_books')} of the pool's old anthologies"
+        elif row["layer"] == "collections":
+            where = f"{row['collection_title']}, poem {row['order']}"
         else:
             where = f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}"
         ed = f" ({src['edition_year']})" if src.get("edition_year") else ""
