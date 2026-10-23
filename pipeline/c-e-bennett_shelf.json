@@ -1,5 +1,5 @@
 {
- "_about": "Charles Edwin Bennett (1858-1921), Professor of Latin at Cornell: New Latin Grammar (copyright 1895, 1908, 1918), clean Gutenberg. His Theophrastus translation is on the theophrastus shelf. Classical scholarship, reference (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Charles Edwin Bennett (1858-1921), Professor of Latin at Cornell: New Latin Grammar (copyright 1895, 1908, 1918), clean Gutenberg. His Theophrastus translation is on the theophrastus shelf. Classical scholarship, reference (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round eb adds Syntax of Early Latin (2 vols, 1910-1914; Latin-dense, kept as the Greek ruling's Latin counterpart) and the Appendix to Bennett's Latin Grammar (1895).",
  "_name_words": [
   "bennett"
  ],
@@ -15,16 +15,62 @@
    "New Latin Grammar"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "c-e-bennett-syntax-early-latin-1-1910": [
+   "syntaxearlylati01benngoog",
+   "Syntax of Early Latin, vol. I: The Verb, by Charles E. Bennett (Boston: Allyn and Bacon; Leipsic: Theodor Stauffer, 1910)"
+  ],
+  "c-e-bennett-syntax-early-latin-2-1914": [
+   "syntaxofearlylat02bennuoft",
+   "Syntax of Early Latin, vol. II: The Cases, by Charles E. Bennett (Boston: Allyn and Bacon; Leipsic: Theodor Stauffer, 1914)"
+  ],
+  "c-e-bennett-appendix-latin-grammar-1895": [
+   "appendixtobennet00bennuoft",
+   "Appendix to Bennett's Latin Grammar, for teachers and advanced students, by Charles E. Bennett (Boston and Chicago: Allyn and Bacon, copyright 1895)"
+  ]
+ },
  "_checks": {
   "c-e-bennett-new-latin-grammar": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles e. bennett",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "c-e-bennett-syntax-early-latin-1-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. bennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-e-bennett-syntax-early-latin-2-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. bennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1910-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-e-bennett-appendix-latin-grammar-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. bennett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "[1895]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
