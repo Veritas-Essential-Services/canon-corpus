@@ -11517,6 +11517,23 @@ Slugs `ralston-*`. Built from title pages read for round 52.
 |---|---|---|
 | Elements of divinity: or, A course of lectures, comprising ... the system of theology as taught in the Holy Scriptures (Louisville, Ky., E. Stevenson, 1851) | have-ocr | IA `elementsofdivini00rals` |
 | The 1924 revised Elements of Divinity (published 1924 but revised by others; left out); the Danish translation (1858). W. R. S. Ralston's Russian tales are the separate ralston shelf | excluded | |
+
+## Randolph S. Foster (round 52, my pick, 2026-10-23)
+
+Slugs `rsfoster-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Objections to Calvinism as it is : in a series of letters addressed to N.L. Rice (Cincinnati : Hitchcock and Walden, 1849) | have-ocr | IA `objectionstocalv00fost` |
+| Nature and blessedness of Christian purity (New York, Harper, 1851) | have-ocr | IA `natureblessednes00fost` |
+| Beyond the grave (N.Y., 1879) | have-ocr | IA `beyondgrave00fost` |
+| Studies in theology, vol. 1 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog01fost` |
+| Studies in theology, vol. 2 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog02fost` |
+| Studies in theology, vol. 3 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog03fost` |
+| Studies in theology, vol. 4 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog04fost` |
+| Studies in theology, vol. 5 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog05fost` |
+| Studies in theology, vol. 6 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog06fost` |
+| The Ingham Lectures (1872, several authors); memoirs of others he introduced | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
