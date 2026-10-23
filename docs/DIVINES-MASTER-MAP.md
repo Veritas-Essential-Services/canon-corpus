@@ -18308,6 +18308,19 @@ Shelf: `pipeline/m-rostovtzeff_shelf.json`. Ancient economic and social history,
 
 Excluded: Out of the Past of Greece and Rome (1932) (after 1930); AHistoryOfTheAncientWorldVolIi (IA) (the fetch failed (no usable text file); replaced by in.gov.ignca.34565)
 
+
+## W. W. Tarn (1869-1957)
+
+Shelf: `pipeline/w-w-tarn_shelf.json`. Hellenistic history: Antigonos Gonatas (1913), Hellenistic Civilisation (1927); his novel from Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Treasure of the Isle of Mist (1919), a children's novel |  | `tarn-treasure-isle-of-mist-pg` | have (PG 34410) |
+| Antigonos Gonatas (Oxford, 1913; 1969 lithographic reprint) |  | `tarn-antigonos-gonatas-1913` | have-raw (IA `antigonosgonatas0000wwta`) |
+| Hellenistic Civilisation (London: Arnold, 1927) |  | `tarn-hellenistic-civilisation-1927` | have-raw (IA `in.ernet.dli.2015.69382`) |
+
+Excluded: The Greeks in Bactria and India (1938) (after 1930 (IA's 1922 date is wrong)); Hellenistic Military and Naval Developments (1930) (no scan found)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
