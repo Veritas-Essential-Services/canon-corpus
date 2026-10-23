@@ -20939,6 +20939,18 @@ Shelf: `pipeline/edwin-wallace_shelf.json`. Wallace's Outlines of the Philosophy
 |---|---|---|---|
 | Outlines of the Philosophy of Aristotle, compiled by Edwin Wallace (Pitt Press Series; Cambridge: University Press, stereotyped edition; first edition 1883, reprinted 1887, 1890, 1894, 1898; the OCR reads the title-page year as 1808) |  | `edwin-wallace-outlines-aristotle` | have-raw (IA `outlinesofphilos00wall`) |
 
+## Benjamin Hall Kennedy (1804-1889)
+
+Shelf: `pipeline/b-h-kennedy_shelf.json`. Kennedy's Birds (verse translation), Theaetetus, Virgil, Studia Sophoclea and Latin Grammar. Round dv. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Birds of Aristophanes, translated into English verse, with introduction, notes and appendices, by Benjamin Hall Kennedy (London: Macmillan, 1874) |  | `b-h-kennedy-birds-1874` | have-raw (IA `birdsofaristoph00aris`) |
+| The Theaetetus of Plato, with translation and notes, by Benjamin Hall Kennedy (Cambridge: University Press; London: Cambridge Warehouse; Deighton, Bell; the OCR reads the year as 188I, i.e. 1881) |  | `b-h-kennedy-theaetetus-1881` | have-raw (IA `the00aetetusofplatplatrich`) |
+| Virgil, Bucolica, Georgica, Aeneis, with a commentary and appendices by Benjamin Hall Kennedy, third edition (London: Longmans, Green, 1881); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `b-h-kennedy-virgil-1881` | have-raw (IA `bucolicageorgica00virg`) |
+| Studia Sophoclea, part I, being a critical examination of Professor Lewis Campbell's edition of Sophocles (Cambridge: Deighton, Bell; London: George Bell, 1874) |  | `b-h-kennedy-studia-sophoclea-1874` | have-raw (IA `studiasophocleap00kenn`) |
+| The Public School Latin Grammar, fifth edition (London: Longmans, Green, 1879); kept per Adam's 2026-10-23 ruling |  | `b-h-kennedy-public-school-latin-grammar-1879` | have-raw (IA `publiclatin00kennrich`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

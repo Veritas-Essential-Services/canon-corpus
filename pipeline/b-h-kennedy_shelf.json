@@ -1,0 +1,105 @@
+{
+ "_about": "Benjamin Hall Kennedy (1804-1889), headmaster of Shrewsbury and Regius Professor of Greek at Cambridge, raw IA OCR: The Birds of Aristophanes translated into English verse (Macmillan, 1874); The Theaetetus of Plato with translation and notes (Cambridge University Press, 1881); Virgil, Bucolica, Georgica, Aeneis, with a commentary and appendices, third edition (Longmans, 1881); Studia Sophoclea, part I, a critical examination of Lewis Campbell's Sophocles (Deighton, Bell, 1874); The Public School Latin Grammar, fifth edition (Longmans, 1879). His Agamemnon (1882) is on the aeschylus shelf and his Oedipus Tyrannus (1885) on the sophocles shelf. Not taken: his sermons and English Psalter (theology, for the divines lanes). Latin-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Benjamin Hall Kennedy (1804-1889)",
+ "_name_words": [
+  "kennedy"
+ ],
+ "_surname": [
+  "benjamin hall kennedy",
+  "b. h. kennedy",
+  "kennedy, benjamin hall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "b-h-kennedy-birds-1874": [
+   "birdsofaristoph00aris",
+   "The Birds of Aristophanes, translated into English verse, with introduction, notes and appendices, by Benjamin Hall Kennedy (London: Macmillan, 1874)"
+  ],
+  "b-h-kennedy-theaetetus-1881": [
+   "the00aetetusofplatplatrich",
+   "The Theaetetus of Plato, with translation and notes, by Benjamin Hall Kennedy (Cambridge: University Press; London: Cambridge Warehouse; Deighton, Bell; the OCR reads the year as 188I, i.e. 1881)"
+  ],
+  "b-h-kennedy-virgil-1881": [
+   "bucolicageorgica00virg",
+   "Virgil, Bucolica, Georgica, Aeneis, with a commentary and appendices by Benjamin Hall Kennedy, third edition (London: Longmans, Green, 1881); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "b-h-kennedy-studia-sophoclea-1874": [
+   "studiasophocleap00kenn",
+   "Studia Sophoclea, part I, being a critical examination of Professor Lewis Campbell's edition of Sophocles (Cambridge: Deighton, Bell; London: George Bell, 1874)"
+  ],
+  "b-h-kennedy-public-school-latin-grammar-1879": [
+   "publiclatin00kennrich",
+   "The Public School Latin Grammar, fifth edition (London: Longmans, Green, 1879); kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "b-h-kennedy-birds-1874": "Benjamin Hall Kennedy"
+ },
+ "_checks": {
+  "b-h-kennedy-birds-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hall kennedy",
+   "translator_claimed": "Benjamin Hall Kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "b-h-kennedy-theaetetus-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "b-h-kennedy-virgil-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hall kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "b-h-kennedy-studia-sophoclea-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hall kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "b-h-kennedy-public-school-latin-grammar-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin hall kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "b-h-kennedy-theaetetus-1881": {
+   "author": "title page OCRs the name as 'BENJAMIN hXlL KENNEDY, D.D., REGIUS PROFESSOR OF GREEK, AND HONORARY FELLOW OF ST JOHN's COLLEGE, CAMHRlDlil•: CANON OF ELY' (Cambridge University Press, '188I')",
+   "translator": "same title page: 'THE THEAETETUS OF PLATO, WITH TRANSLATIQS-^ND NOTES' by Kennedy"
+  }
+ }
+}
