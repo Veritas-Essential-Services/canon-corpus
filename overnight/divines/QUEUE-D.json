@@ -3781,6 +3781,14 @@
       "started": "2026-10-22T22:09:27-05:00",
       "finished": "2026-10-22T22:09:27-05:00",
       "notes": "bl-farjeon: new shelf, 29 Gutenberg books, 61,676 units, 684 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ann-s-stephens",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ann S. Stephens; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:10:11-05:00",
+      "finished": "2026-10-22T22:10:11-05:00",
+      "notes": "ann-s-stephens: new shelf, 29 Gutenberg books, 87,204 units, 1709 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

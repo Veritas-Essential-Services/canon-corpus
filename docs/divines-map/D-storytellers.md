@@ -12878,3 +12878,39 @@ Shelf: `pipeline/bl-farjeon_shelf.json` (2026-10-22; added at the coordinator's 
 | The Duchess of Rosemary Lane: A Novel | have | PG 53558, `blfarjeon-duchess-of-rosemary-lane` (2934 units) |
 | The Shield of Love | have | PG 53598, `blfarjeon-shield-of-love` (1510 units) |
 | Jessie Trim | have | PG 53724, `blfarjeon-jessie-trim` (2947 units) |
+
+## Ann S. Stephens
+
+Shelf: `pipeline/ann-s-stephens_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). American popular novels and the first dime novel. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Homestead | have | PG 8078, `asstephens-old-homestead` (3570 units) |
+| The Old Countess; or, The Two Proposals | have | PG 29862, `asstephens-old-countess` (2399 units) |
+| A Noble Woman | have | PG 30111, `asstephens-noble-woman` (4950 units) |
+| Phemie Frost's Experiences | have | PG 30245, `asstephens-phemie-frosts-experiences` (3359 units) |
+| Mabel's Mistake | have | PG 30247, `asstephens-mabels-mistake` (3157 units) |
+| The Gold Brick | have | PG 34500, `asstephens-gold-brick` (3866 units) |
+| Silent Struggles | have | PG 36027, `asstephens-silent-struggles` (2790 units) |
+| Wives and Widows; or, The Broken Life | have | PG 36374, `asstephens-wives-and-widows` (3411 units) |
+| Norston's Rest | have | PG 37168, `asstephens-norstons-rest` (3617 units) |
+| High life in New York | have | PG 39645, `asstephens-high-life-in-new-york` (3088 units) |
+| Fashion and Famine | have | PG 40114, `asstephens-fashion-and-famine` (3257 units) |
+| Malaeska: The Indian Wife of the White Hunter | have | PG 46160, `asstephens-malaeska` (833 units) |
+| Sybil Chase; or, The Valley Ranche: A Tale of California Life | have | PG 47237, `asstephens-sybil-chase` (1364 units) |
+| The reigning belle | have | PG 70023, `asstephens-reigning-belle` (2804 units) |
+| The curse of gold | have | PG 70134, `asstephens-curse-of-gold` (3211 units) |
+| Myra | have | PG 70151, `asstephens-myra` (854 units) |
+| Mary Derwent | have | PG 70220, `asstephens-mary-derwent` (2590 units) |
+| The heiress of Greenhurst | have | PG 70851, `asstephens-heiress-of-greenhurst` (3547 units) |
+| Pictorial history of the war for the Union, volume 1 (of 2) | have | PG 72340, `asstephens-pictorial-history-of-the-war-for-the-union-volume` (2949 units) |
+| The ladies' complete guide to crochet, fancy knitting, and needlework | have | PG 73303, `asstephens-ladies-complete-guide-to-crochet-fancy-knitting-a` (972 units) |
+| Pictorial history of the war for the Union, volume 2 (of 2) | have | PG 74187, `asstephens-pictorial-history-of-the-war-for-the-union-volume-74187` (5172 units) |
+| Esther | have | PG 74746, `asstephens-esther` (1042 units) |
+| The Indian queen | have | PG 74912, `asstephens-indian-queen` (1410 units) |
+| The soldier's orphans | have | PG 75522, `asstephens-soldiers-orphans` (2754 units) |
+| Palaces and prisons | have | PG 76772, `asstephens-palaces-and-prisons` (4748 units) |
+| Doubly false | have | PG 77750, `asstephens-doubly-false` (4540 units) |
+| The rejected wife | have | PG 78470, `asstephens-rejected-wife` (3142 units) |
+| Bertha's engagement | have | PG 78552, `asstephens-berthas-engagement` (4440 units) |
+| The wife's secret | have | PG 79478, `asstephens-wifes-secret` (3368 units) |

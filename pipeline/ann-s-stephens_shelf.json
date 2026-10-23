@@ -1,0 +1,400 @@
+{
+ "_about": "Ann S. Stephens's novels, including Malaeska, the first Beadle dime novel. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ann S. Stephens",
+ "_name_words": [
+  "ann",
+  "sophia",
+  "stephens"
+ ],
+ "_surname": [
+  "ann s. stephens",
+  "ann sophia stephens",
+  "mrs. stephens",
+  "stephens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "asstephens-old-homestead": [
+   8078,
+   "The Old Homestead"
+  ],
+  "asstephens-old-countess": [
+   29862,
+   "The Old Countess; or, The Two Proposals"
+  ],
+  "asstephens-noble-woman": [
+   30111,
+   "A Noble Woman"
+  ],
+  "asstephens-phemie-frosts-experiences": [
+   30245,
+   "Phemie Frost's Experiences"
+  ],
+  "asstephens-mabels-mistake": [
+   30247,
+   "Mabel's Mistake"
+  ],
+  "asstephens-gold-brick": [
+   34500,
+   "The Gold Brick"
+  ],
+  "asstephens-silent-struggles": [
+   36027,
+   "Silent Struggles"
+  ],
+  "asstephens-wives-and-widows": [
+   36374,
+   "Wives and Widows; or, The Broken Life"
+  ],
+  "asstephens-norstons-rest": [
+   37168,
+   "Norston's Rest"
+  ],
+  "asstephens-high-life-in-new-york": [
+   39645,
+   "High life in New York"
+  ],
+  "asstephens-fashion-and-famine": [
+   40114,
+   "Fashion and Famine"
+  ],
+  "asstephens-malaeska": [
+   46160,
+   "Malaeska: The Indian Wife of the White Hunter"
+  ],
+  "asstephens-sybil-chase": [
+   47237,
+   "Sybil Chase; or, The Valley Ranche: A Tale of California Life"
+  ],
+  "asstephens-reigning-belle": [
+   70023,
+   "The reigning belle"
+  ],
+  "asstephens-curse-of-gold": [
+   70134,
+   "The curse of gold"
+  ],
+  "asstephens-myra": [
+   70151,
+   "Myra"
+  ],
+  "asstephens-mary-derwent": [
+   70220,
+   "Mary Derwent"
+  ],
+  "asstephens-heiress-of-greenhurst": [
+   70851,
+   "The heiress of Greenhurst"
+  ],
+  "asstephens-pictorial-history-of-the-war-for-the-union-volume": [
+   72340,
+   "Pictorial history of the war for the Union, volume 1 (of 2)"
+  ],
+  "asstephens-ladies-complete-guide-to-crochet-fancy-knitting-a": [
+   73303,
+   "The ladies' complete guide to crochet, fancy knitting, and needlework"
+  ],
+  "asstephens-pictorial-history-of-the-war-for-the-union-volume-74187": [
+   74187,
+   "Pictorial history of the war for the Union, volume 2 (of 2)"
+  ],
+  "asstephens-esther": [
+   74746,
+   "Esther"
+  ],
+  "asstephens-indian-queen": [
+   74912,
+   "The Indian queen"
+  ],
+  "asstephens-soldiers-orphans": [
+   75522,
+   "The soldier's orphans"
+  ],
+  "asstephens-palaces-and-prisons": [
+   76772,
+   "Palaces and prisons"
+  ],
+  "asstephens-doubly-false": [
+   77750,
+   "Doubly false"
+  ],
+  "asstephens-rejected-wife": [
+   78470,
+   "The rejected wife"
+  ],
+  "asstephens-berthas-engagement": [
+   78552,
+   "Bertha's engagement"
+  ],
+  "asstephens-wifes-secret": [
+   79478,
+   "The wife's secret"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "asstephens-old-homestead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-old-countess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-noble-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-phemie-frosts-experiences": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-mabels-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-gold-brick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-silent-struggles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-wives-and-widows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-norstons-rest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-high-life-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-fashion-and-famine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-malaeska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-sybil-chase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-reigning-belle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-curse-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-myra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-mary-derwent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-heiress-of-greenhurst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-pictorial-history-of-the-war-for-the-union-volume": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-ladies-complete-guide-to-crochet-fancy-knitting-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-pictorial-history-of-the-war-for-the-union-volume-74187": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-esther": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-indian-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-soldiers-orphans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-palaces-and-prisons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-doubly-false": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-rejected-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-berthas-engagement": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asstephens-wifes-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ann s. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
