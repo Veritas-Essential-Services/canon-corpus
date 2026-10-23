@@ -2657,3 +2657,6 @@
 
 ## 2026-10-22 23:20 CDT — w-c-morrow: done
 - w-c-morrow: new shelf, 5 Gutenberg books, 5,101 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — margaret-warner-morley: done
+- margaret-warner-morley: new shelf, 5 Gutenberg books, 5,071 units, 11 ~2 ids; verify 0 mismatches, 0 rights flags.

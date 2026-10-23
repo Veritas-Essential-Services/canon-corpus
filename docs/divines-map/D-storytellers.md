@@ -18559,3 +18559,15 @@ Shelf: `pipeline/w-c-morrow_shelf.json` (2026-10-22; added at the coordinator's 
 | Bohemian Paris of To-day Second Edition | have | PG 50495, `wcmorrow-bohemian-paris-of-to-day-second-edition` (800 units) |
 | Lentala of the South Seas: The Romantic Tale of a Lost Colony | have | PG 51915, `wcmorrow-lentala-of-the-south-seas` (2593 units) |
 | A Man: His Mark. A Romance Second Edition | have | PG 51954, `wcmorrow-man` (512 units) |
+
+## Margaret Warner Morley
+
+Shelf: `pipeline/margaret-warner-morley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Insect Folk | have | PG 18790, `mwmorley-insect-folk` (2178 units) |
+| The Renewal of Life; How and When to Tell the Story to the Young | have | PG 26280, `mwmorley-renewal-of-life` (437 units) |
+| Little Mitchell: The Story of a Mountain Squirrel | have | PG 47995, `mwmorley-little-mitchell` (617 units) |
+| Little Wanderers | have | PG 61295, `mwmorley-little-wanderers` (534 units) |
+| Flowers and their friends | have | PG 72776, `mwmorley-flowers-and-their-friends` (1305 units) |
