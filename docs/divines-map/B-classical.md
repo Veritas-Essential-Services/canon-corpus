@@ -9359,3 +9359,13 @@ Shelf: `pipeline/henry-osborn-taylor_shelf.json`. Ancient, medieval and sixteent
 
 Excluded: Prophets, Poets, and Philosophers of the Ancient World (1919) (reissue of Deliverance (1915) under a new title); Ancient Ideals, 1st ed. (1896) (superseded by the 1913 second edition)
 
+
+## Benjamin Ide Wheeler (1854-1927)
+
+Shelf: `pipeline/benjamin-ide-wheeler_shelf.json`. Alexander the Great (1900) and Dionysos and Immortality (1899). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Alexander the Great: the Merging of East and West in Universal History (1900) |  | `wheeler-alexander-the-great-1900` | have-raw (IA `alexandergreatm00whee`) |
+| Dionysos and Immortality: the Greek Faith in Immortality as Affected by the Rise of Individualism (1899) |  | `wheeler-dionysos-and-immortality-1899` | have-raw (IA `dionysosandimmor00wheeuoft`) |
+

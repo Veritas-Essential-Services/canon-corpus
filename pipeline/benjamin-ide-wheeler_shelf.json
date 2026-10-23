@@ -1,0 +1,52 @@
+{
+ "_about": "Benjamin Ide Wheeler (1854-1927), Cornell professor of Greek and later President of the University of California: Alexander the Great: the Merging of East and West in Universal History (1900) and Dionysos and Immortality (Ingersoll Lecture, 1899). Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Benjamin Ide Wheeler (1854-1927)",
+ "_name_words": [
+  "wheeler",
+  "alexander",
+  "dionysos",
+  "immortality"
+ ],
+ "_surname": [
+  "benjamin ide wheeler",
+  "b. i. wheeler",
+  "benjamin i. wheeler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wheeler-alexander-the-great-1900": [
+   "alexandergreatm00whee",
+   "Alexander the Great: the Merging of East and West in Universal History (1900)"
+  ],
+  "wheeler-dionysos-and-immortality-1899": [
+   "dionysosandimmor00wheeuoft",
+   "Dionysos and Immortality: the Greek Faith in Immortality as Affected by the Rise of Individualism (1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "wheeler-alexander-the-great-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin ide wheeler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheeler-dionysos-and-immortality-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin ide wheeler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
