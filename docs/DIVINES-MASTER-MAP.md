@@ -10054,6 +10054,17 @@ Slugs `griswold-*`. Built from title pages read for round 40.
 | Remarks on social prayer-meetings (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `remarksonsocial00grisgoog` |
 | Other scans of each | alternate | not shelved |
 | Works by Alexander V. G. Allen (Continuity of Christian Thought, Life of Phillips Brooks, and others), which the catalogue files under Griswold's name | excluded | |
+
+## Philander Chase (round 40, my pick, 2026-10-22)
+
+Slugs `chase-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Bishop Chase's Reminiscences: an autobiography, vol. 1 (Boston, J. B. Dow; [etc., etc.], 1848) | have-ocr | IA `bishopchasesremi01chas` |
+| Bishop Chase's Reminiscences: an autobiography, vol. 2 (Boston, J. B. Dow; [etc., etc.], 1848) | have-ocr | IA `bishopchasesremi02chas` |
+| The 1844 first edition (two volumes) and other 1848 scans | alternate | not shelved |
+| Books by Philander Chase Johnson and Philander Chase Knox | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
