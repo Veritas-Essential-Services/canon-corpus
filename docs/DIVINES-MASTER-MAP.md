@@ -11013,6 +11013,18 @@ Slugs `dillmann-*`. Built from title pages read for round 48.
 | Genesis critically and exegetically expounded, vol. 1 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall01dill` |
 | Genesis critically and exegetically expounded, vol. 2 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall02dill` |
 | The Book of Enoch (1893, R. H. Charles's translation from Dillmann's text, Charles's book); the Ethiopic Grammar (1907, a grammar, not theology; left for later); Latin and Ethiopic editions | excluded | |
+
+## Michael Baumgarten (round 48, my pick, 2026-10-23)
+
+Slugs `baumgarten-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 1 (Edinburgh : T. & T. Clark, 1854) | have-ocr | IA `actsofapostlesor01baum` |
+| The Acts of the Apostles, or The History of the Church in the Apostolic Age, vol. 2 (Edinburgh: T. & T. Clark, 1854) | have-ocr | IA `actsapostlesorh01baumgoog` |
+| The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 3 (Edinburgh : T. & T. Clark, 1854) | have-ocr | IA `actsofapostlesor03baum` |
+| Other copies of the 1854 set (actsapostlesorh00baumgoog, a second vol. 1; bwb_Y0-BSQ-077_1; actsofapostleson0000mbau) | alternate | not shelved |
+| Every other Baumgarten in the catalogue is another person (tapestry, medicine, seeds, Canada) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
