@@ -1,0 +1,317 @@
+{
+ "_about": "Mrs. George de Horne Vaizey's girls' stories (Pixie O'Shaughnessy and the rest). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mrs. George de Horne Vaizey",
+ "_name_words": [
+  "vaizey"
+ ],
+ "_surname": [
+  "vaizey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gdhvaizey-independence-of-claire": [
+   21098,
+   "The Independence of Claire"
+  ],
+  "gdhvaizey-more-about-peggy": [
+   21099,
+   "More About Peggy"
+  ],
+  "gdhvaizey-pixie-oshaughnessy": [
+   21101,
+   "Pixie O'Shaughnessy"
+  ],
+  "gdhvaizey-tom-and-some-other-girls": [
+   21102,
+   "Tom and Some Other Girls: A Public School Story"
+  ],
+  "gdhvaizey-sisters-three": [
+   21103,
+   "Sisters Three"
+  ],
+  "gdhvaizey-big-game": [
+   21109,
+   "Big Game: A Story for Girls"
+  ],
+  "gdhvaizey-college-girl": [
+   21110,
+   "A College Girl"
+  ],
+  "gdhvaizey-betty-trevor": [
+   21117,
+   "Betty Trevor"
+  ],
+  "gdhvaizey-etheldreda-the-ready": [
+   21118,
+   "Etheldreda the Ready: A School Story"
+  ],
+  "gdhvaizey-flaming-june": [
+   21119,
+   "Flaming June"
+  ],
+  "gdhvaizey-fortunes-of-the-farrells": [
+   21120,
+   "The Fortunes of the Farrells"
+  ],
+  "gdhvaizey-houseful-of-girls": [
+   21121,
+   "A Houseful of Girls"
+  ],
+  "gdhvaizey-more-about-pixie": [
+   21122,
+   "More about Pixie"
+  ],
+  "gdhvaizey-heart-of-una-sackville": [
+   21129,
+   "The Heart of Una Sackville"
+  ],
+  "gdhvaizey-lady-of-the-basement-flat": [
+   23124,
+   "The lady of the basement flat"
+  ],
+  "gdhvaizey-love-affairs-of-pixie": [
+   23125,
+   "The Love Affairs of Pixie"
+  ],
+  "gdhvaizey-about-peggy-saville": [
+   23622,
+   "About Peggy Saville"
+  ],
+  "gdhvaizey-lady-cassandra": [
+   32882,
+   "Lady Cassandra"
+  ],
+  "gdhvaizey-question-of-marriage": [
+   32920,
+   "A Question of Marriage"
+  ],
+  "gdhvaizey-daughters-of-a-genius": [
+   32933,
+   "The Daughters of a Genius"
+  ],
+  "gdhvaizey-what-a-man-wills": [
+   32935,
+   "What a Man Wills"
+  ],
+  "gdhvaizey-unknown-lover": [
+   32936,
+   "An Unknown Lover"
+  ],
+  "gdhvaizey-girl-in-spring-time": [
+   36874,
+   "A Girl in Spring-Time"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gdhvaizey-independence-of-claire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-more-about-peggy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-pixie-oshaughnessy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-tom-and-some-other-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-sisters-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-big-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-college-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-betty-trevor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-etheldreda-the-ready": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-flaming-june": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-fortunes-of-the-farrells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-houseful-of-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-more-about-pixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-heart-of-una-sackville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-lady-of-the-basement-flat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-love-affairs-of-pixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-about-peggy-saville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-lady-cassandra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-question-of-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-daughters-of-a-genius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-what-a-man-wills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-unknown-lover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdhvaizey-girl-in-spring-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaizey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

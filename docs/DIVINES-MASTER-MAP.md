@@ -38115,3 +38115,33 @@ Shelf: `pipeline/richard-marsh_shelf.json` (2026-10-22; added at the coordinator
 | The Joss: A Reversion | have | PG 64997, `rmarsh-joss` (2343 units) |
 | Expelled | have | PG 76920, `rmarsh-expelled` (1426 units) |
 | Judith Lee | have | PG 79142, `rmarsh-judith-lee` (2087 units) |
+
+## Mrs. George de Horne Vaizey
+
+Shelf: `pipeline/mrs-de-horne-vaizey_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for girls. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Independence of Claire | have | PG 21098, `gdhvaizey-independence-of-claire` (1761 units) |
+| More About Peggy | have | PG 21099, `gdhvaizey-more-about-peggy` (1129 units) |
+| Pixie O'Shaughnessy | have | PG 21101, `gdhvaizey-pixie-oshaughnessy` (1070 units) |
+| Tom and Some Other Girls: A Public School Story | have | PG 21102, `gdhvaizey-tom-and-some-other-girls` (941 units) |
+| Sisters Three | have | PG 21103, `gdhvaizey-sisters-three` (984 units) |
+| Big Game: A Story for Girls | have | PG 21109, `gdhvaizey-big-game` (1193 units) |
+| A College Girl | have | PG 21110, `gdhvaizey-college-girl` (1510 units) |
+| Betty Trevor | have | PG 21117, `gdhvaizey-betty-trevor` (1172 units) |
+| Etheldreda the Ready: A School Story | have | PG 21118, `gdhvaizey-etheldreda-the-ready` (1055 units) |
+| Flaming June | have | PG 21119, `gdhvaizey-flaming-june` (1287 units) |
+| The Fortunes of the Farrells | have | PG 21120, `gdhvaizey-fortunes-of-the-farrells` (1838 units) |
+| A Houseful of Girls | have | PG 21121, `gdhvaizey-houseful-of-girls` (1099 units) |
+| More about Pixie | have | PG 21122, `gdhvaizey-more-about-pixie` (1359 units) |
+| The Heart of Una Sackville | have | PG 21129, `gdhvaizey-heart-of-una-sackville` (896 units) |
+| The lady of the basement flat | have | PG 23124, `gdhvaizey-lady-of-the-basement-flat` (1629 units) |
+| The Love Affairs of Pixie | have | PG 23125, `gdhvaizey-love-affairs-of-pixie` (1342 units) |
+| About Peggy Saville | have | PG 23622, `gdhvaizey-about-peggy-saville` (1022 units) |
+| Lady Cassandra | have | PG 32882, `gdhvaizey-lady-cassandra` (1892 units) |
+| A Question of Marriage | have | PG 32920, `gdhvaizey-question-of-marriage` (1120 units) |
+| The Daughters of a Genius | have | PG 32933, `gdhvaizey-daughters-of-a-genius` (987 units) |
+| What a Man Wills | have | PG 32935, `gdhvaizey-what-a-man-wills` (1226 units) |
+| An Unknown Lover | have | PG 32936, `gdhvaizey-unknown-lover` (1453 units) |
+| A Girl in Spring-Time | have | PG 36874, `gdhvaizey-girl-in-spring-time` (671 units) |

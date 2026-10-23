@@ -3821,6 +3821,14 @@
       "started": "2026-10-22T22:12:21-05:00",
       "finished": "2026-10-22T22:12:21-05:00",
       "notes": "richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mrs-de-horne-vaizey",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mrs. George de Horne Vaizey; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:13:03-05:00",
+      "finished": "2026-10-22T22:13:03-05:00",
+      "notes": "mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

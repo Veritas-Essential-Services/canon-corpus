@@ -1716,3 +1716,6 @@
 
 ## 2026-10-22 22:12 CDT — richard-marsh: done
 - richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:13 CDT — mrs-de-horne-vaizey: done
+- mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
