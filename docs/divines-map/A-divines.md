@@ -18091,3 +18091,15 @@ Slugs `fremantle-*`. Built from title pages read for round 121.
 | the Jowett sermons he edited are Jowett's | excluded | |
 | the Privy Council ecclesiastical judgments are a law collection he co-edited | excluded | |
 | Aggressive Work in the Church of Christ is by another author | excluded | |
+
+## Alexander M'Leod (round 121, my pick, 2026-10-23)
+
+Slugs `mleod-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Negro slavery unjustifiable: a discourse (New York, Printed by T. & F. Swords, 1802) | have-ocr | IA `negroslaveryunju00mleo_0` |
+| A scriptural view of the character, causes, and ends of the present war (New York : Eastburn, Kirk, 1815) | have-ocr | IA `scripturalviewofcce00mleo` |
+| The life and power of true Godliness : described in a series of discourses (New York : R. Carter, 1847) | have-ocr | IA `lifepoweroftrueg00mleo` |
+| Conversations on the Mode of Christian Baptism is by Alexander W. M'Leod | excluded | |
+| the Westminster Larger Catechism | excluded | |
