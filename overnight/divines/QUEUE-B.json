@@ -1964,6 +1964,14 @@
    "started": "2026-10-23T00:00:45-05:00",
    "finished": "2026-10-23T00:00:45-05:00",
    "notes": "35 PG witnesses on 29 shelves; 6 TeX/PDF-only listed pending"
+  },
+  {
+   "id": "2026-10-23cu",
+   "status": "done",
+   "scope": "Finish the Perseus census gaps for primary texts; Plato/Bacon/Mill Gutenberg witnesses; audit Perseus rows against held translations and PR #7",
+   "started": "2026-10-23T00:15:31-05:00",
+   "finished": "2026-10-23T00:15:31-05:00",
+   "notes": "Net +4 Perseus (Heath's Euclid, Rolfe's Deified Julius kept as clean text of raw-OCR holdings) and +4 PG (Jowett Plato 1892 vol. 2, Bacon, Mill x2). Removed 12 earlier Perseus rows that duplicate a translation already held clean on Gutenberg. 190 shelf Perseus rows also sit in PR #7's PERSEUS manifest: OVERLAP-B-PR7.tsv."
   }
  ]
 }

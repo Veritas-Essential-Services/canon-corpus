@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T00:00:45-05:00",
- "note": "Rounds cq, cr, cs done 2026-10-23. Adam (04:21Z): keep Greek-heavy scans for a later Greek OCR pass; English as good as we can get it; work strategically.",
- "resume_point": "Strategy (Adam 10/23: work strategically, best English): Gutenberg audit done (round ct, exact title matches only; a looser pass for multi-volume and retitled works could find more). Next: the round-cs scholars list as wishlist: A. H. Sayce, Rostovtzeff (1922-1930), W. W. Tarn, Rohde's Psyche (1925), Zielinski (1926), Wilamowitz (1908), Postgate, Munro, Robinson Ellis."
+ "heartbeat": "2026-10-23T00:15:31-05:00",
+ "note": "Rounds cq-cu done 2026-10-23. Adam (04:21Z): keep Greek-heavy scans for a later Greek OCR pass; English as good as we can get it.",
+ "resume_point": "Perseus census for primary texts is exhausted: what is left open is either a translation already held clean, or already in PR #7's PERSEUS manifest (do not add those; see OVERLAP-B-PR7.tsv). Next: the scholars wishlist, cleanest English copy each: A. H. Sayce, Rostovtzeff (1922-1930), W. W. Tarn, Rohde's Psyche (1925), Zielinski (1926), Wilamowitz (1908), Postgate, Munro, Robinson Ellis."
 }

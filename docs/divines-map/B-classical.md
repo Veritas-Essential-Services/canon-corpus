@@ -103,6 +103,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891) | Ellen Francis Mason (from the catalogue; the volume names no translator) | `plato-mason-talks-1891` | have-raw (IA `talkswithathenia00platrich`) |
 | The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879; IA's catalogue says 1873, the title page reads 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
 | The Sophistes of Plato: a dialogue on true and false teaching, translated with explanatory notes and an introduction on ancient and modern sophistry (London: Williams and Norgate, 1868) | R. W. Mackay | `plato-mackay-sophistes-1868` | have-raw (IA `bub_gb_CZqC4O8wSdoC`) |
+| The Dialogues of Plato, 3rd ed. (1892), vol. 2 of 5, tr. Jowett |  | `plato-jowett-1892-v2-pg` | have (PG 76464, clean witness) |
 
 Pending (wishlist):
 
@@ -137,7 +138,6 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | De Mundo (Oxford, Clarendon Press, 1914; the separate issue later bound into vol. III) | E. S. Forster | `aristotle-forster-de-mundo-1914` | have-raw (IA `demundoarisrich`) |
 | The Poetics of Aristotle | S. H. Butcher | `aristotle-butcher-poetics-pg` | have (PG 1974) |
 | Aristotle on the Art of Poetry (Oxford, 1920), preface by Gilbert Murray | Ingram Bywater | `aristotle-bywater-poetics-pg` | have (PG 6763) |
-| Politics: A Treatise on Government | William Ellis (1776) | `aristotle-ellis-politics-pg` | held elsewhere: PG 6762 is already held on pipeline/adler_shelf.json as aristotle-politics |
 | The Nicomachean Ethics of Aristotle (Everyman), introduction by J. A. Smith | D. P. Chase; PG names no translator, identified by collating against the 1915 Everyman printing titled 'Translated by D. P. Chase' (IA nicomacheanethic00arisuoft): 167 of 200 sampled 8-word runs match | `aristotle-chase-ethics-pg` | held elsewhere: PG 8438 is already held on pipeline/adler_shelf.json as aristotle-ethics (labelled 'tr. Chase', which the collation agre |
 | The Athenian Constitution | Sir Frederic G. Kenyon (1891) | `aristotle-kenyon-athenian-constitution-pg` | have (PG 26095) |
 | Aristotle's History of Animals, in ten books (Bohn, 1862) | Richard Cresswell | `aristotle-cresswell-history-of-animals-pg` | have (PG 59058) |
@@ -425,7 +425,6 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Greek Tragic Theatre, vol. 3: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v3` | have-raw (IA `greektragictheat03pott`) |
 | The Greek Tragic Theatre, vol. 4: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v4` | have-raw (IA `greektragictheat04pott`) |
 | The Greek Tragic Theatre, vol. 5: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v5` | have-raw (IA `greektragicthea02wodhgoog`) |
-| Rhesus | Gilbert Murray | `euripides-perseus-murray-rhesus` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Euripides, translated by R. Potter, vol. 1 (Valpy, 1832) | Robert Potter | `euripides-potter-v1` | have-raw (IA `euripides00pottgoog`) |
 | Euripides, translated by R. Potter, vol. 2 (Valpy, 1832) | Robert Potter | `euripides-potter-v2` | have-raw (IA `euripides01pottgoog`) |
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
@@ -445,9 +444,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Hippolytus | Edward P. Coleridge | `euripides-perseus-coleridge-hippolytus` | have (Perseus TEI `tlg0006.tlg005.perseus-eng2`) |
 | Ion | Edward P. Coleridge | `euripides-perseus-coleridge-ion` | have (Perseus TEI `tlg0006.tlg010.perseus-eng2`) |
 | Medea | Edward P. Coleridge | `euripides-perseus-coleridge-medea` | have (Perseus TEI `tlg0006.tlg003.perseus-eng2`) |
-| Rhesus | Gilbert Murray | `euripides-perseus-murray-rhesus` | have (Perseus TEI `tlg0006.tlg019.perseus-eng4`) |
 | The Suppliants | Edward P. Coleridge | `euripides-perseus-coleridge-the-suppliants` | have (Perseus TEI `tlg0006.tlg008.perseus-eng2`) |
-| The Bacchae | Theodore Alois Buckley | `euripides-perseus-buckley-the-bacchae-modernized` | have (Perseus TEI `tlg0006.tlg017.perseus-eng2`, modernized) |
 | Electra | Edward P. Coleridge | `euripides-perseus-coleridge-electra-modernized` | have (Perseus TEI `tlg0006.tlg012.perseus-eng2`, modernized) |
 | Hecuba | Edward P. Coleridge | `euripides-perseus-coleridge-hecuba-modernized` | have (Perseus TEI `tlg0006.tlg007.perseus-eng2`, modernized) |
 | Helen | Edward P. Coleridge | `euripides-perseus-coleridge-helen-modernized` | have (Perseus TEI `tlg0006.tlg014.perseus-eng2`, modernized) |
@@ -702,96 +699,61 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Plutarch's Lives, translated from the original Greek, vol. 5 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v5` | have-raw (IA `livestranslatedf05plutuoft`) |
 | Plutarch's Lives, translated from the original Greek, vol. 6 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v6` | have-raw (IA `livestranslatedf06plutuoft`) |
 | — | — | `plutarch-lives` | cross-ref → Adler shelf: PG 674, the Dryden-and-others translation revised by A. H. Clough (1859); Adler labels it 'tr. Dryden/Clough' |
-| A discourse to an unlearned prince | John Kersey | `plutarch-perseus-kersey-a-discourse-to-an-unlearned-prince` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Against Colotes, the Disciple and Favorite of Epicurus. | A. G. | `plutarch-perseus-g-against-colotes-the-disciple-and-favorit` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Five Tragical Histories of Love | A.I. | `plutarch-perseus-ai-five-tragical-histories-of-love` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Love. | John Philips | `plutarch-perseus-philips-of-love` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Whether 'Twere Rightly Said, Live Concealed. | Charles Whitaker | `plutarch-perseus-whitaker-whether-twere-rightly-said-live-conceale` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| That Virtue May Be Taught | John Patrick | `plutarch-perseus-patrick-that-virtue-may-be-taught` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Whether an Aged Man Ought to Meddle in State Affairs. | F. Fetherston | `plutarch-perseus-fetherston-whether-an-aged-man-ought-to-meddle-in-s` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Whether vice is sufficient to render a man unhappy | Samuel White | `plutarch-perseus-white-whether-vice-is-sufficient-to-render-a-m` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Whether the Passions of the Soul or Diseases of the Body Are Worse | Samuel White | `plutarch-perseus-white-whether-the-passions-of-the-soul-or-dise` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Laconic Apophthegms; or Remarkable Sayings of the Spartans. | unnamed (as in the Perseus header) | `plutarch-perseus-anon-laconic-apophthegms-or-remarkable-saying` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Whether water or fire be most useful. | F. Fetherston | `plutarch-perseus-fetherston-whether-water-or-fire-be-most-useful` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | That brute beasts make use of reason | Sir A. J. | `plutarch-perseus-j-that-brute-beasts-make-use-of-reason` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | An Abstract of a Comparison Betwixt Aristophanes and Menander | William Baxter | `plutarch-perseus-baxter-an-abstract-of-a-comparison-betwixt-aris` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets. | William Baxter | `plutarch-perseus-baxter-a-breviate-of-a-discourse-showing-that-t` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Advice to Bride and Groom | Frank Cole Babbitt | `plutarch-perseus-babbitt-advice-to-bride-and-groom` | have (Perseus TEI `tlg0007.tlg078.perseus-eng3`; markup CC BY-SA 4.0) |
-| Conjugal Precepts | John Philips | `plutarch-perseus-philips-conjugal-precepts` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Plutarch's Consolatory Letter to His Wife | Thomas Creech | `plutarch-perseus-creech-plutarch-s-consolatory-letter-to-his-wif` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | A Letter of Condolence to Apollonius | Frank Cole Babbitt | `plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius` | have (Perseus TEI `tlg0007.tlg076.perseus-eng3`; markup CC BY-SA 4.0) |
-| Consolation to Apollonius | Matthew Morgan | `plutarch-perseus-morgan-consolation-to-apollonius` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Concerning the fortune or virtue of Alexander the Great. | John Phillips | `plutarch-perseus-phillips-concerning-the-fortune-or-virtue-of-alex` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Natural Affection Towards One's Offspring | R. Brown | `plutarch-perseus-brown-of-natural-affection-towards-one-s-offsp` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of the Love of Wealth | John Patrick | `plutarch-perseus-patrick-of-the-love-of-wealth` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Why the Oracles Cease to Give Answers | Robert Midgley | `plutarch-perseus-midgley-why-the-oracles-cease-to-give-answers` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of the word ΕΙ engraven over the gate of Apollo's temple at Delphi | R. Kippax | `plutarch-perseus-kippax-of-the-word-engraven-over-the-gate-of-ap` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of the Face Appearing Within the Orb Of the Moon | A.G. | `plutarch-perseus-ag-of-the-face-appearing-within-the-orb-of` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Fate. | A. G. | `plutarch-perseus-g-of-fate` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Garrulity, or Talkativeness | John Philips | `plutarch-perseus-philips-of-garrulity-or-talkativeness` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| A Discourse Concerning Socrates's Daemon | Thomas Creech | `plutarch-perseus-creech-a-discourse-concerning-socrates-s-daemon` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Herodotus's Malice. | A. G. | `plutarch-perseus-g-of-herodotus-s-malice` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Envy and Hatred | P. Lancaster | `plutarch-perseus-lancaster-of-envy-and-hatred` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Isis and Osiris, or of the Ancient Religion and Philosophy of Egypt. | William Baxter | `plutarch-perseus-baxter-of-isis-and-osiris-or-of-the-ancient-rel` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Wherefore the Pythian Priestess now Ceases to Deliver her Oracles in Verse | John Philips | `plutarch-perseus-philips-wherefore-the-pythian-priestess-now-ceas` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | How a Man May Inoffensively Praise Himself Without Being Liable to Envy | P. Lancaster | `plutarch-perseus-lancaster-how-a-man-may-inoffensively-praise-himse` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Concerning Such Whom God is Slow to Punish | John Philips | `plutarch-perseus-philips-concerning-such-whom-god-is-slow-to-puni` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The contradictions of the Stoics | E. Smith | `plutarch-perseus-smith-the-contradictions-of-the-stoics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Superstition | Frank Cole Babbitt | `plutarch-perseus-babbitt-superstition` | have (Perseus TEI `tlg0007.tlg080.perseus-eng3`; markup CC BY-SA 4.0) |
-| Of Superstition, or Indiscreet Devotion | William Baxter | `plutarch-perseus-baxter-of-superstition-or-indiscreet-devotion` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of the Tranquillity of the Mind. | Matthew Morgan | `plutarch-perseus-morgan-of-the-tranquillity-of-the-mind` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Moral Virtue | Matthew Morgan | `plutarch-perseus-morgan-of-moral-virtue` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Bashfulness | Thomas Hoy | `plutarch-perseus-hoy-of-bashfulness` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On Having Many Friends | Frank Cole Babbitt | `plutarch-perseus-babbitt-on-having-many-friends` | have (Perseus TEI `tlg0007.tlg073.perseus-eng3`; markup CC BY-SA 4.0) |
 | Of Large Acquaintance: or, an Essay to Prove the Folly of Seeking Many Friends | William W. Goodwin | `plutarch-perseus-goodwin-of-large-acquaintance-or-an-essay-to-pro` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Concerning the procreation of the soul as discoursed in Timaeus | John Philips | `plutarch-perseus-philips-concerning-the-procreation-of-the-soul-a` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | How To Profit By One's Enemies | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies` | have (Perseus TEI `tlg0007.tlg072.perseus-eng3`; markup CC BY-SA 4.0) |
 | How a man may receive advantage and profit from his enemies. | John Hartcliffe | `plutarch-perseus-hartcliffe-how-a-man-may-receive-advantage-and-prof` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Concerning the cure of anger: a dialogue | William Dillingham | `plutarch-perseus-dillingham-concerning-the-cure-of-anger-a-dialogue` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of common conceptions, against the Stoics. | Samuel White | `plutarch-perseus-white-of-common-conceptions-against-the-stoics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Curiosity, or an Over-Busy Inquisitiveness into Things Impertinent. | Maurice Wheeler | `plutarch-perseus-wheeler-of-curiosity-or-an-over-busy-inquisitive` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of eating of flesh: Tract I. | William Baxter | `plutarch-perseus-baxter-of-eating-of-flesh-tract-i` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of eating of flesh: Tract II. | William Baxter | `plutarch-perseus-baxter-of-eating-of-flesh-tract-ii` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Banishment, or Flying One's Country. | John Patrick | `plutarch-perseus-patrick-of-banishment-or-flying-one-s-country` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Chance | Frank Cole Babbitt | `plutarch-perseus-babbitt-chance` | have (Perseus TEI `tlg0007.tlg074.perseus-eng3`; markup CC BY-SA 4.0) |
-| Of Fortune | William Baxter | `plutarch-perseus-baxter-of-fortune` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Concerning the fortune of the Romans | John Oswald | `plutarch-perseus-oswald-concerning-the-fortune-of-the-romans` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Of Brotherly Love | John Thomson | `plutarch-perseus-thomson-of-brotherly-love` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Whether the Athenians Were More Renowned For Their Warlike Achievements or For Their Learning | R. Smith | `plutarch-perseus-smith-whether-the-athenians-were-more-renowned` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Education of Children | Frank Cole Babbitt | `plutarch-perseus-babbitt-the-education-of-children` | have (Perseus TEI `tlg0007.tlg067.perseus-eng3`; markup CC BY-SA 4.0) |
 | A Discourse Touching the Training of Children | Simon Ford | `plutarch-perseus-ford-a-discourse-touching-the-training-of-chi` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Concerning the First Principle of Cold | F. Fetherston | `plutarch-perseus-fetherston-concerning-the-first-principle-of-cold` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On Listening to Lectures | Frank Cole Babbitt | `plutarch-perseus-babbitt-on-listening-to-lectures` | have (Perseus TEI `tlg0007.tlg069.perseus-eng3`; markup CC BY-SA 4.0) |
-| Of Hearing | Thomas Hoy | `plutarch-perseus-hoy-of-hearing` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Which are the most crafty, water-animals or those creatures that breed upon the land? | John Philips | `plutarch-perseus-philips-which-are-the-most-crafty-water-animals` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Advice About Keeping Well | Frank Cole Babbitt | `plutarch-perseus-babbitt-advice-about-keeping-well` | have (Perseus TEI `tlg0007.tlg077.perseus-eng3`; markup CC BY-SA 4.0) |
 | Plutarch's Rules for the Preservation of Health | Matthew Poole | `plutarch-perseus-poole-plutarch-s-rules-for-the-preservation-of` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of the Three Sorts of Government, Monarchy, Democracy, and Oligarchy. | R. Smith | `plutarch-perseus-smith-of-the-three-sorts-of-government-monarch` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Virtue and Vice | Frank Cole Babbitt | `plutarch-perseus-babbitt-virtue-and-vice` | have (Perseus TEI `tlg0007.tlg075.perseus-eng3`; markup CC BY-SA 4.0) |
-| Of Virtue and Vice | William Baxter | `plutarch-perseus-baxter-of-virtue-and-vice` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Against Running in Debt, or Taking up Money Upon Usury | R. Smith | `plutarch-perseus-smith-against-running-in-debt-or-taking-up-mon` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | That a Philosopher Ought Chiefly to Converse with Great Men | Knightly Chetwood | `plutarch-perseus-chetwood-that-a-philosopher-ought-chiefly-to-conv` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Concerning the Virtues of Women | Isaac Chauncy | `plutarch-perseus-chauncy-concerning-the-virtues-of-women` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus | William Baxter | `plutarch-perseus-baxter-that-it-is-not-possible-to-live-pleasura` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Parallels, or a comparison between the Greek and Roman Histories. | John Oswald | `plutarch-perseus-oswald-parallels-or-a-comparison-between-the-gr` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Plutarch's Platonic questions | R. Brown | `plutarch-perseus-brown-plutarch-s-platonic-questions` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Political Precepts | Samuel White | `plutarch-perseus-white-political-precepts` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Symposiacs | Thomas Creech | `plutarch-perseus-creech-symposiacs` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Greek Questions | Isaac Chauncy | `plutarch-perseus-chauncy-greek-questions` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Plutarch's Natural Questions | R. Brown | `plutarch-perseus-brown-plutarch-s-natural-questions` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Roman Questions | Isaac Chauncy | `plutarch-perseus-chauncy-roman-questions` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | How the Young Man Should Study Poetry | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-the-young-man-should-study-poetry` | have (Perseus TEI `tlg0007.tlg068.perseus-eng3`; markup CC BY-SA 4.0) |
-| How a Young Man Ought to Hear Poems | Simon Ford | `plutarch-perseus-ford-how-a-young-man-ought-to-hear-poems` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | How to Tell a Flatterer from a Friend | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend` | have (Perseus TEI `tlg0007.tlg070.perseus-eng3`; markup CC BY-SA 4.0) |
-| How to Know a Flatterer from a Friend | George Tullie | `plutarch-perseus-tullie-how-to-know-a-flatterer-from-a-friend` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | How a Man May Become Aware of His Progress in Virtue | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre` | have (Perseus TEI `tlg0007.tlg071.perseus-eng3`; markup CC BY-SA 4.0) |
 | How a Man May Be Sensible of His Progress in Virtue. | Hugh Tod(d) | `plutarch-perseus-todd-how-a-man-may-be-sensible-of-his-progres` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The apophthegms or remarkable sayings of kings and great commanders. | Edward Hinton | `plutarch-perseus-hinton-the-apophthegms-or-remarkable-sayings-of` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Dinner of the Seven Wise Men | Frank Cole Babbitt | `plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men` | have (Perseus TEI `tlg0007.tlg079.perseus-eng3`; markup CC BY-SA 4.0) |
-| The Banquet of the Seven Wise Men | Roger Davis | `plutarch-perseus-davis-the-banquet-of-the-seven-wise-men` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Lives of the Ten Orators | Charles Barcroft | `plutarch-perseus-barcroft-lives-of-the-ten-orators` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein | R. White | `plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Concerning music | John Philips | `plutarch-perseus-philips-concerning-music` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Of Those Sentiments Concerning Nature with which Philosophers were Delighted | John Dowell | `plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), first part of the scan | Philemon Holland | `plutarch-holland-morals-1603-part1` | have-raw (IA `plutarchhollandmorals01`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), second part of the scan (from the Symposiaques) | Philemon Holland | `plutarch-holland-morals-1603-part2` | have-raw (IA `plutarchhollandmorals02`) |
@@ -909,13 +871,11 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Arrian's Discourses of Epictetus | George Long | `epictetus-perseus-long-arrian-s-discourses-of-epictetus` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Fragments | George Long | `epictetus-perseus-long-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI) | George Stanhope | `epictetus-stanhope-simplicius-1741` | have-raw (IA `bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741`) |
 | Arrian's Discourses of Epictetus | George Long | `epictetus-perseus-long-arrian-s-discourses-of-epictetus` | have (Perseus TEI `tlg0557.tlg001.perseus-eng3`) |
 | The Discourses of Epictetus | Thomas Wentworth Higginson | `epictetus-perseus-higginson-the-discourses-of-epictetus` | have (Perseus TEI `tlg0557.tlg001.perseus-eng4`) |
 | Fragments | George Long | `epictetus-perseus-long-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng3`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng4`) |
-| The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | have (Perseus TEI `tlg0557.tlg002.perseus-eng3`) |
 | The Enchiridion | Thomas Wentworth Higginson | `epictetus-perseus-higginson-the-enchiridion` | have (Perseus TEI `tlg0557.tlg002.perseus-eng4`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
@@ -1116,7 +1076,6 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Echoes from the Sabine Farm | Eugene and Roswell Martin Field (free versions) | `horace-field-sabine-farm` | have (PG 13885) |
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
-| Odes | John Conington | `horace-perseus-conington-odes` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
 | The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874) | James Lonsdale and Samuel Lee | `horace-lonsdale-lee-1874` | have-raw (IA `worksofhoraceren00hora`) |
 | The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866) | Theodore Martin | `horace-martin-odes-1866` | have-raw (IA `odesofhoracetran00horarich`) |
@@ -1166,7 +1125,6 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | The Poems and Fragments of Catullus translated in the metres of the original | Robinson Ellis (1871) | `catullus-ellis` | have (PG 18867) |
 | The Carmina of Caius Valerius Catullus | Sir Richard Burton (verse) and Leonard C. Smithers (prose) | `catullus-burton-smithers` | have (PG 20732) |
 | Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913) | F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium) | `catullus-tibullus-pervigilium-loeb` | have-raw (IA `catullustibullus00catu`) |
-| Carmina | Sir Richard Francis Burton | `catullus-perseus-burton-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 | The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
@@ -1239,7 +1197,6 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Asinaria, or The Ass-Dealer | Henry Thomas Riley | `plautus-perseus-riley-asinaria-or-the-ass-dealer` | have (Perseus TEI `phi0119.phi002.perseus-eng2`) |
 | Aulularia, or The Concealed Treasure | Henry Thomas Riley | `plautus-perseus-riley-aulularia-or-the-concealed-treasure` | have (Perseus TEI `phi0119.phi003.perseus-eng2`) |
 | Bacchides, or The Twin Sisters | Henry Thomas Riley | `plautus-perseus-riley-bacchides-or-the-twin-sisters` | have (Perseus TEI `phi0119.phi004.perseus-eng2`) |
-| Captivi: The Captives | Henry Thomas Riley | `plautus-perseus-riley-captivi-the-captives` | have (Perseus TEI `phi0119.phi005.perseus-eng2`) |
 | Casina, or The Stratagem Defeated | Henry Thomas Riley | `plautus-perseus-riley-casina-or-the-stratagem-defeated` | have (Perseus TEI `phi0119.phi006.perseus-eng2`) |
 | Cistellaria, or The Casket | Henry Thomas Riley | `plautus-perseus-riley-cistellaria-or-the-casket` | have (Perseus TEI `phi0119.phi007.perseus-eng2`) |
 | Curculio, or The Forgery | Henry Thomas Riley | `plautus-perseus-riley-curculio-or-the-forgery` | have (Perseus TEI `phi0119.phi008.perseus-eng2`) |
@@ -1247,7 +1204,6 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Menaechmi, or The Twin Brothers | Henry Thomas Riley | `plautus-perseus-riley-menaechmi-or-the-twin-brothers` | have (Perseus TEI `phi0119.phi010.perseus-eng2`) |
 | Mercator, or The Merchant | Henry Thomas Riley | `plautus-perseus-riley-mercator-or-the-merchant` | have (Perseus TEI `phi0119.phi011.perseus-eng2`) |
 | Miles Gloriosus, or The Braggart Captain | Henry Thomas Riley | `plautus-perseus-riley-miles-gloriosus-or-the-braggart-captain` | have (Perseus TEI `phi0119.phi012.perseus-eng2`) |
-| Mostellaria, or The Haunted House | Henry Thomas Riley | `plautus-perseus-riley-mostellaria-or-the-haunted-house` | have (Perseus TEI `phi0119.phi013.perseus-eng2`) |
 | Persa, or The Persian | Henry Thomas Riley | `plautus-perseus-riley-persa-or-the-persian` | have (Perseus TEI `phi0119.phi014.perseus-eng2`) |
 | Poenulus, or The Young Carthaginian | Henry Thomas Riley | `plautus-perseus-riley-poenulus-or-the-young-carthaginian` | have (Perseus TEI `phi0119.phi015.perseus-eng2`) |
 | Pseudolus, or The Cheat | Henry Thomas Riley | `plautus-perseus-riley-pseudolus-or-the-cheat` | have (Perseus TEI `phi0119.phi016.perseus-eng2`) |
@@ -1366,8 +1322,6 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | Philosophies for Sale | Austin Morris Harmon | `lucian-perseus-harmon-philosophies-for-sale` | have (Perseus TEI `tlg0062.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Sale of Lives | Emily James Smith | `lucian-perseus-smith-the-sale-of-lives` | have (Perseus TEI `tlg0062.tlg024.perseus-eng5`; markup CC BY-SA 4.0) |
 | Loukios, or the Ass | Emily James Smith | `lucian-perseus-smith-loukios-or-the-ass` | have (Perseus TEI `tlg0061.tlg001.perseus-eng1`; markup CC BY-SA 4.0) |
-| The Cynic | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-the-cynic` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Demosthenes: an Encomium | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-demosthenes-an-encomium` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Halcyon | Emily James Smith | `lucian-perseus-smith-the-halcyon` | have (Perseus TEI `tlg0061.tlg004.perseus-eng1`; markup CC BY-SA 4.0) |
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 1 | Thomas Francklin | `lucian-francklin-1780-v1` | have-raw (IA `worksoflucian01luci`) |
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
@@ -1445,7 +1399,6 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Divinatio against Q. Caecilius | Charles Duke Yonge | `cicero-perseus-yonge-divinatio-against-q-caecilius` | have (Perseus TEI `phi0474.phi004.perseus-eng2`) |
 | Against Verres | Charles Duke Yonge | `cicero-perseus-yonge-against-verres` | have (Perseus TEI `phi0474.phi005.perseus-eng2`) |
 | Against L. Catiline | Charles Duke Yonge | `cicero-perseus-yonge-against-l-catiline` | have (Perseus TEI `phi0474.phi013.perseus-eng2`) |
-| Philippics | Charles Duke Yonge | `cicero-perseus-yonge-philippics` | have (Perseus TEI `phi0474.phi035.perseus-eng1`) |
 | For Aulus Caecina | Charles Duke Yonge | `cicero-perseus-yonge-for-aulus-caecina` | have (Perseus TEI `phi0474.phi008.perseus-eng2`) |
 | For A. Cluentius | Charles Duke Yonge | `cicero-perseus-yonge-for-a-cluentius` | have (Perseus TEI `phi0474.phi010.perseus-eng2`) |
 | For A.L. Archias | Charles Duke Yonge | `cicero-perseus-yonge-for-a-l-archias` | have (Perseus TEI `phi0474.phi016.perseus-eng2`) |
@@ -1918,44 +1871,32 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 | The Genuine Works of Hippocrates, vol. 1 | Francis Adams | `hippocrates-adams-v1` | have (PG 72583) |
 | The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849) | Francis Adams | `hippocrates-adams-v2` | have-raw (IA `b33291408_0004`) |
 | Aphorisms | Francis Adams | `hippocrates-perseus-adams-aphorisms` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| Airs, Waters, and Places | Francis Adams | `hippocrates-perseus-adams-airs-waters-and-places` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Airs Waters Places | William Henry Samuel Jones | `hippocrates-perseus-jones-airs-waters-places` | have (Perseus TEI `tlg0627.tlg002.perseus-eng4`; markup CC BY-SA 4.0) |
 | Nutriment | William Henry Samuel Jones | `hippocrates-perseus-jones-nutriment` | have (Perseus TEI `tlg0627.tlg046.perseus-eng2`; markup CC BY-SA 4.0) |
 | On the Articulations | Francis Adams | `hippocrates-perseus-adams-on-the-articulations` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| On Injuries of the Head | Francis Adams | `hippocrates-perseus-adams-on-injuries-of-the-head` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| On Regimen in Acute Diseases | Francis Adams | `hippocrates-perseus-adams-on-regimen-in-acute-diseases` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On Fistulae | Francis Adams | `hippocrates-perseus-adams-on-fistulae` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On Fractures | Francis Adams | `hippocrates-perseus-adams-on-fractures` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On Hemorrhoids | Francis Adams | `hippocrates-perseus-adams-on-hemorrhoids` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On the Sacred Disease | Francis Adams | `hippocrates-perseus-adams-on-the-sacred-disease` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | On the Surgery | Francis Adams | `hippocrates-perseus-adams-on-the-surgery` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| On Ancient Medicine | Francis Adams | `hippocrates-perseus-adams-on-ancient-medicine` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Ancient Medicine | William Henry Samuel Jones | `hippocrates-perseus-jones-ancient-medicine` | have (Perseus TEI `tlg0627.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
 | On Ulcers | Francis Adams | `hippocrates-perseus-adams-on-ulcers` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| The Epidemics | Francis Adams | `hippocrates-perseus-adams-the-epidemics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Oath | Francis Adams | `hippocrates-perseus-adams-the-oath` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Oath | William Henry Samuel Jones | `hippocrates-perseus-jones-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng5`; markup CC BY-SA 4.0) |
 | The Law | Francis Adams | `hippocrates-perseus-adams-the-law` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Precepts | William Henry Samuel Jones | `hippocrates-perseus-jones-precepts` | have (Perseus TEI `tlg0627.tlg051.perseus-eng2`; markup CC BY-SA 4.0) |
-| Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Epidemics I and III | W. H. S. Jones (Loeb, 1923) | `hippocrates-perseus-jones-epidemics-1-3` | have (Perseus TEI `tlg0627.tlg006.perseus-eng4`; markup CC BY-SA 4.0) |
 | Aphorisms | Francis Adams | `hippocrates-perseus-adams-aphorisms` | have (Perseus TEI `tlg0627.tlg012.perseus-eng2`) |
-| Airs, Waters, and Places | Francis Adams | `hippocrates-perseus-adams-airs-waters-and-places` | have (Perseus TEI `tlg0627.tlg002.perseus-eng3`) |
 | On the Articulations | Francis Adams | `hippocrates-perseus-adams-on-the-articulations` | have (Perseus TEI `tlg0627.tlg010.perseus-eng2`) |
-| On Injuries of the Head | Francis Adams | `hippocrates-perseus-adams-on-injuries-of-the-head` | have (Perseus TEI `tlg0627.tlg007.perseus-eng2`) |
-| On Regimen in Acute Diseases | Francis Adams | `hippocrates-perseus-adams-on-regimen-in-acute-diseases` | have (Perseus TEI `tlg0627.tlg004.perseus-eng2`) |
 | On Fistulae | Francis Adams | `hippocrates-perseus-adams-on-fistulae` | have (Perseus TEI `tlg0627.tlg030.perseus-eng2`) |
 | On Fractures | Francis Adams | `hippocrates-perseus-adams-on-fractures` | have (Perseus TEI `tlg0627.tlg009.perseus-eng2`) |
 | On Hemorrhoids | Francis Adams | `hippocrates-perseus-adams-on-hemorrhoids` | have (Perseus TEI `tlg0627.tlg029.perseus-eng2`) |
 | On the Sacred Disease | Francis Adams | `hippocrates-perseus-adams-on-the-sacred-disease` | have (Perseus TEI `tlg0627.tlg027.perseus-eng2`) |
 | On the Surgery | Francis Adams | `hippocrates-perseus-adams-on-the-surgery` | have (Perseus TEI `tlg0627.tlg008.perseus-eng2`) |
-| On Ancient Medicine | Francis Adams | `hippocrates-perseus-adams-on-ancient-medicine` | have (Perseus TEI `tlg0627.tlg001.perseus-eng3`) |
 | On Ulcers | Francis Adams | `hippocrates-perseus-adams-on-ulcers` | have (Perseus TEI `tlg0627.tlg028.perseus-eng2`) |
-| The Epidemics | Francis Adams | `hippocrates-perseus-adams-the-epidemics` | have (Perseus TEI `tlg0627.tlg006.perseus-eng3`) |
 | The Oath | Francis Adams | `hippocrates-perseus-adams-the-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng4`) |
 | The Law | Francis Adams | `hippocrates-perseus-adams-the-law` | have (Perseus TEI `tlg0627.tlg014.perseus-eng2`) |
-| Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | have (Perseus TEI `tlg0627.tlg003.perseus-eng2`) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | have (Perseus TEI `tlg0627.tlg011.perseus-eng2`) |
 
 Pending (wishlist): the Jones/Withington Loeb beyond the six 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
@@ -1967,7 +1908,6 @@ Shelf: `pipeline/galen_shelf.json`. Brock's Natural Faculties 1916 (Gutenberg; f
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Galen: On the Natural Faculties | Arthur John Brock | `galen-brock-natural-faculties` | have (PG 43383) |
-| On the Natural Faculties | Arthur John Brock | `galen-perseus-brock-on-the-natural-faculties` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 
 ## Aretaeus
 
@@ -3766,6 +3706,7 @@ Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gut
 | The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. V (London: Longmans, Green, Reader, and Dyer, 1869) |  | `bacon-spedding-letters-and-life-v5` | have-raw (IA `lettersandlifef05spedgoog`) |
 | The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VI (London: Longmans, Green, Reader, and Dyer, 1872) |  | `bacon-spedding-letters-and-life-v6` | have-raw (IA `lettersandlifef09bacogoog`) |
 | The Letters and the Life of Francis Bacon, including all his occasional works, ed. James Spedding, vol. VII (London: Longmans, Green, Reader, and Dyer, 1874) |  | `bacon-spedding-letters-and-life-v7` | have-raw (IA `lettersandlifef00spedgoog`) |
+| Bacon's Essays, and Wisdom of the Ancients (Boston: Little, Brown, 1884) |  | `bacon-essays-wisdom-of-ancients-1884` | have (PG 56463, clean witness) |
 
 ## Machiavelli in English
 
@@ -3916,6 +3857,8 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
 | Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |
 | Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900) |  | `mill-principles-of-political-economy-1900` | have-raw (IA `principlesofpoli00milliala`) |
+| A System of Logic, 7th ed., vol. I |  | `mill-system-of-logic-7th-1-pg` | have (PG 35420, clean witness) |
+| A System of Logic, 7th ed., vol. II |  | `mill-system-of-logic-7th-2-pg` | have (PG 35421, clean witness) |
 
 ## Herbert Spencer
 
