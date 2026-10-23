@@ -8469,6 +8469,11 @@ Shelf: `pipeline/james-adam_shelf.json`. Gifford lectures, 1908.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Religious Teachers of Greece (1908) |  | `adam-religious-teachers-of-greece-1908` | have-raw (IA `religiousteache00unkngoog`) |
+| The Republic of Plato, edited with critical notes, commentary and appendices, vol. I: Books I-V (Cambridge: University Press, 1902); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `james-adam-republic-1902-v1` | have-raw (IA `republic01platuoft`) |
+| The Republic of Plato, edited with critical notes, commentary and appendices, vol. II: Books VI-X and indexes (Cambridge: University Press, 1902; this copy reprinted 1907); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `james-adam-republic-1902-v2` | have-raw (IA `republicplat02plat`) |
+| The Vitality of Platonism, and other essays, edited by Adela Marion Adam (Cambridge: University Press, 1911) |  | `james-adam-vitality-of-platonism-1911` | have-raw (IA `vitalityofplaton00adamrich`) |
+| The Nuptial Number of Plato: its solution and significance (London: C. J. Clay, 1891) |  | `james-adam-nuptial-number-1891` | have-raw (IA `nuptialnumberpl00adamgoog`) |
+| Platonis Protagoras, with introduction, notes and appendices, by J. Adam and A. M. Adam (Cambridge: University Press, 1893; this copy a later printing); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `james-adam-protagoras-1893` | have-raw (IA `protagoraswithin00platuoft`) |
 
 Pending (wishlist): The Vitality of Platonism (1911).
 

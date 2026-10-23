@@ -1,5 +1,5 @@
 {
- "_about": "James Adam (1860-1907), Cambridge Platonist, editor of the Republic. Raw IA OCR: The Religious Teachers of Greece, Gifford lectures delivered in Aberdeen in 1904-06, edited with a memoir by his wife Adela Marion Adam (Edinburgh: T. & T. Clark; printed for the University of Aberdeen, 1908). His Greek editions are texts with commentary and are not taken here. US public domain. No uids minted.",
+ "_about": "James Adam (1860-1907), Cambridge Platonist, editor of the Republic. Raw IA OCR: The Religious Teachers of Greece, Gifford lectures delivered in Aberdeen in 1904-06, edited with a memoir by his wife Adela Marion Adam (Edinburgh: T. & T. Clark; printed for the University of Aberdeen, 1908). His commentaries, taken 2026-10-23 under Adam's ruling on Greek-facing editions: The Republic of Plato, edited with critical notes, commentary and appendices (Cambridge, 2 vols., 1902) and the Protagoras (with A. M. Adam, 1893); also The Vitality of Platonism (1911) and The Nuptial Number of Plato (1891). US public domain. No uids minted.",
  "_author": "James Adam",
  "_name_words": [
   "james",
@@ -14,13 +14,33 @@
   "adam-religious-teachers-of-greece-1908": [
    "religiousteache00unkngoog",
    "The Religious Teachers of Greece (1908)"
+  ],
+  "james-adam-republic-1902-v1": [
+   "republic01platuoft",
+   "The Republic of Plato, edited with critical notes, commentary and appendices, vol. I: Books I-V (Cambridge: University Press, 1902); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "james-adam-republic-1902-v2": [
+   "republicplat02plat",
+   "The Republic of Plato, edited with critical notes, commentary and appendices, vol. II: Books VI-X and indexes (Cambridge: University Press, 1902; this copy reprinted 1907); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "james-adam-vitality-of-platonism-1911": [
+   "vitalityofplaton00adamrich",
+   "The Vitality of Platonism, and other essays, edited by Adela Marion Adam (Cambridge: University Press, 1911)"
+  ],
+  "james-adam-nuptial-number-1891": [
+   "nuptialnumberpl00adamgoog",
+   "The Nuptial Number of Plato: its solution and significance (London: C. J. Clay, 1891)"
+  ],
+  "james-adam-protagoras-1893": [
+   "protagoraswithin00platuoft",
+   "Platonis Protagoras, with introduction, notes and appendices, by J. Adam and A. M. Adam (Cambridge: University Press, 1893; this copy a later printing); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {},
  "_checks": {
   "adam-religious-teachers-of-greece-1908": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james adam",
    "identity": "ok",
@@ -28,6 +48,76 @@
    "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "james-adam-republic-1902-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "james-adam-republic-1902-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "james-adam-vitality-of-platonism-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "james-adam-nuptial-number-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "james-adam-protagoras-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_surname_by_slug": {
+  "james-adam-republic-1902-v2": [
+   "j. adam",
+   "james adam"
+  ],
+  "james-adam-protagoras-1893": [
+   "j. adam",
+   "james adam"
+  ]
+ },
+ "_identity_checked": {
+  "james-adam-republic-1902-v2": {
+   "author": "title page read in the OCR 2026-10-23: 'THE REPUBLIC OF PLATO EDITED WITH CRITICAL NOTES, COMMENTARY AND APPENDICES BY ΕΘ ADAM, MA. HON. LL.D. OF ABERDEEN UNIVERSITY, FELLOW AND SENIOR TUTOR OF EMMANUEL COLLEGE, CAMBRIDGE. VOLUME II BOOKS VI-X AND INDEXES', i.e. J. Adam, the initial garbled into Greek letters; 'Reprinted 1907' on the verso"
   }
  }
 }
