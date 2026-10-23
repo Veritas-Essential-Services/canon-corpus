@@ -330,3 +330,5 @@
 - 2026-10-22T22:53-05:00: Round 126 (2026-10-23): 7 titles, Scandinavian 1920s (Undset x2, Heidenstam x3, Bang, Aho). 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T22:58-05:00: Round 127 (2026-10-23): 10 titles, Isaac Goldberg on archive.org (8), Pinski's The Treasure (Lewisohn), Asch's America (Fuchs). 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:06-05:00: Round 128 (2026-10-23): 11 titles, Teixeira de Mattos on archive.org (Maeterlinck x3, memoirs, travel, Zola). 0 mismatched, 0 rights flags, no uids.

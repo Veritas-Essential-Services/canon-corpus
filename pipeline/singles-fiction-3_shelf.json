@@ -1795,7 +1795,8 @@
  "_pending": {
   "pg-79102": "Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
   "pg-79453": "Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
-  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran."
+  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "ia-asch-the-mother": "Sholom Asch's The Mother (Nathan Ausubel; Horace Liveright, 1930; mothertransbynat0000shol): a 1930 publication, so it waits on Adam's 1930 ruling."
  },
  "_excluded": {},
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",

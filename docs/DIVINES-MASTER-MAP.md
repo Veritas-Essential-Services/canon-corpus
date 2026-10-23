@@ -19787,7 +19787,7 @@ Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. N
 ## Alexander Teixeira de Mattos (Fabre, Maeterlinck, Couperus, Leblanc, Chateaubriand)
 
 Shelf: `pipeline/teixeira-de-mattos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py teixeira-de-mattos` · titles `python3 pipeline/split_shelf_titles.py teixeira-de-mattos`.
-Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Round 128 added eleven archive.org books Gutenberg lacks (Maeterlinck x3, Leblanc, Zola, Oudinot, Israëls, Kruger, Grenard, Marius, Castellane). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19850,6 +19850,17 @@ Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_sh
 | `teixeira-de-mattos-paoli-their-majesties-as-i-knew-them-personal` | Xavier Paoli | Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 45786 |
 | `teixeira-de-mattos-streuvels-the-path-of-life` | Stijn Streuvels | The Path of Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 8437 |
 | `teixeira-de-mattos-tocqueville-the-recollections-of-alexis-de-tocquevil` | Alexis de Tocqueville | The Recollections of Alexis de Tocqueville | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37892 |
+| `teixeira-de-mattos-maeterlinck-the-measure-of-the-hours` | Maurice Maeterlinck | The Measure of the Hours | Alexander Teixeira de Mattos | 1907 | have-raw | IA `cu31924052989138` |
+| `teixeira-de-mattos-maeterlinck-the-intelligence-of-the-flowers` | Maurice Maeterlinck | The Intelligence of the Flowers | Alexander Teixeira de Mattos | 1907 | have-raw | IA `intelligenceflo00maetgoog` |
+| `teixeira-de-mattos-maeterlinck-the-light-beyond` | Maurice Maeterlinck | The Light Beyond | Alexander Teixeira de Mattos | 1917 | have-raw | IA `cu31924028951719` |
+| `teixeira-de-mattos-leblanc-maeterlincks-dogs` | Georgette Leblanc | Maeterlinck's Dogs | Alexander Teixeira de Mattos | 1919 | have-raw | IA `maeterlincksdogs00leblrich` |
+| `teixeira-de-mattos-zola-the-heirs-of-rabourdin` | Émile Zola | The Heirs of Rabourdin: A Comedy in Three Acts | Alexander Teixeira de Mattos | 1894 | have-raw | IA `heirsofrabourdin00zolarich` |
+| `teixeira-de-mattos-oudinot-memoirs-of-marshal-oudinot` | Gaston Stiegler (ed.), from the reminiscences of the Duchesse de Reggio | Memoirs of Marshal Oudinot, Duc de Reggio | Alexander Teixeira de Mattos | 1896 | have-raw | IA `memoirsofmarshal00oudiuoft` |
+| `teixeira-de-mattos-israels-spain` | Jozef Israëls | Spain: The Story of a Journey | Alexander Teixeira de Mattos | 1900 | have-raw | IA `spainstoryajour00isragoog` |
+| `teixeira-de-mattos-kruger-the-memoirs-of-paul-kruger` | Paul Kruger (as told to H. C. Bredell and Piet Grobler; ed. A. Schowalter) | The Memoirs of Paul Kruger, Four Times President of the South African Republic | Alexander Teixeira de Mattos | 1902 | have-raw | IA `memoirsofpaulkr00krug` |
+| `teixeira-de-mattos-grenard-tibet` | Fernand Grenard | Tibet: The Country and Its Inhabitants | Alexander Teixeira de Mattos | 1904 | have-raw | IA `in.ernet.dli.2015.208773` |
+| `teixeira-de-mattos-marius-dutch-painting` | G. H. Marius | Dutch Painting in the Nineteenth Century | Alexander Teixeira de Mattos | 1908 | have-raw | IA `dutchpaintinginn00mari` |
+| `teixeira-de-mattos-castellane-men-and-things-of-my-time` | Boni de Castellane | Men and Things of My Time | Alexander Teixeira de Mattos | 1911 | have-raw | IA `menthingsofmytim00castuoft` |
 | — | — | pg-27991: The Blue Bird for Children: Perkins's retelling for schools, not the play. | — | — | excluded | — |
 | — | — | pg-45812: Insect Adventures: Louise Zimm's selection for children from the translation. | — | — | excluded | — |
 | — | — | pg-67000: Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself. | — | — | excluded | — |
