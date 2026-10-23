@@ -14828,3 +14828,24 @@ Shelf: `pipeline/george-gibbs_shelf.json` (2026-10-22; added at the coordinator'
 | The Silent Battle | have | PG 54544, `ggibbs-silent-battle` (3399 units) |
 | The Yellow Dove | have | PG 55077, `ggibbs-yellow-dove` (2967 units) |
 | pg-59164 | excluded | PG 59164: Gutenberg's index of the author's works, not a book. |
+
+## James Lane Allen
+
+Shelf: `pipeline/james-lane-allen_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kentucky novels and stories. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Choir Invisible | have | PG 2316, `jlallen-choir-invisible` (1020 units) |
+| The Reign of Law; a tale of the Kentucky hemp fields | have | PG 3791, `jlallen-reign-of-law` (1145 units) |
+| The Bride of the Mistletoe | have | PG 9179, `jlallen-bride-of-the-mistletoe` (615 units) |
+| A Kentucky Cardinal: A Story | have | PG 11532, `jlallen-kentucky-cardinal` (382 units) |
+| The Mettle of the Pasture | have | PG 12482, `jlallen-mettle-of-the-pasture` (1640 units) |
+| Aftermath Part second of "A Kentucky Cardinal" | have | PG 13554, `jlallen-aftermath-part-second-of-a-kentucky-cardinal` (431 units) |
+| A Cathedral Singer | have | PG 15385, `jlallen-cathedral-singer` (369 units) |
+| Sister Dolorosa, and Posthumous Fame | have | PG 34109, `jlallen-sister-dolorosa-and-posthumous-fame` (612 units) |
+| The Last Christmas Tree: An Idyl of Immortality | have | PG 42640, `jlallen-last-christmas-tree` (88 units) |
+| The Doctor's Christmas Eve | have | PG 42923, `jlallen-doctors-christmas-eve` (1241 units) |
+| The Blue-Grass Region of Kentucky, and Other Kentucky Articles | have | PG 43888, `jlallen-blue-grass-region-of-kentucky-and-other-kentucky-art` (503 units) |
+| The Kentucky Warbler | have | PG 46905, `jlallen-kentucky-warbler` (532 units) |
+| Flute and Violin, and Other Kentucky Tales and Romances | have | PG 50597, `jlallen-flute-and-violin-and-other-kentucky-tales-and-romanc` (1369 units) |
+| The Emblems of Fidelity: A Comedy in Letters | have | PG 60435, `jlallen-emblems-of-fidelity` (828 units) |
