@@ -16484,6 +16484,29 @@ Slugs `collyer-*`. Built from title pages read for round 103.
 | Things new and old, sermons (New York, Dutton, 1893) | have-ocr | IA `thingsnewold00colluoft` |
 | Ilkley, Ancient and Modern (local history, with J. Horsfall Turner) | excluded | |
 | Robert H. Collyer's phrenology and anaesthesia books (a different man) | excluded | |
+
+## George C. Lorimer (round 103, my pick, 2026-10-23)
+
+Slugs `lorimer-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| The great conflict (catalogued 1877) | have-ocr | IA `greatconflict00lori` |
+| Temple themes. Criminality of intemperance. Preached before the Massachusetts Total Abstinence Society, at Tremont temple, Feb. 22, 1879 (Boston, J.E. Simonds, 1879) | have-ocr | IA `templethemescrim00lori` |
+| Isms old and new ([n.p.], 1881) | have-ocr | IA `ismsoldnew00lori` |
+| Studies in social life: a review of the principles, practices, and problems of society (Chicago and New York : Belford, Clarke & co., 1886) | have-ocr | IA `studiesinsociall00lori` |
+| The Galilean, or Jesus, the world's Savior (Boston, Silver, Burdett, 1892) | have-ocr | IA `galileanorjesusw00lori` |
+| Charles Haddon Spurgeon (catalogued 1892) | have-ocr | IA `charleshaddonspu0000geor` |
+| The Baptists in history (catalogued 1893) | have-ocr | IA `baptistsinhistor0000unse` |
+| The argument for Christianity (Philadelphia : American Baptist Publication Society, 1894) | have-ocr | IA `argumentforchris00lori` |
+| Messages of today to the men of tomorrow (Cincinnati : Jennings and Graham, 1896) | have-ocr | IA `messagesoftodayt0000lori` |
+| Tremont Temple sketch book : containing a brief history of Tremont Temple Church (Boston : St. Botolph Press, 1896) | have-ocr | IA `tremonttempleske00lori` |
+| Christianity and the social state (catalogued 1898) | have-ocr | IA `christianitysoci0000geor` |
+| Christianity as a world-power (Philadelphia, American Baptist Publication Society, 1899) | have-ocr | IA `christianityasa00lorigoog` |
+| Christianity In The Nineteenth Century (catalogued 1900) | have-ocr | IA `christianityinni0000geor` |
+| The modern crisis in religion (New York, Chicago [etc.] Fleming H. Revell company, 1904) | have-ocr | IA `moderncrisisinr00lori` |
+| The Master of Millions and The False Gods (novels) | excluded | |
+| Under the Evergreens, Robert Burns, What I Know about Books (not theology); The People's Bible History (many contributors) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
