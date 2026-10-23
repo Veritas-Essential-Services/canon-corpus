@@ -1,5 +1,5 @@
 {
- "_about": "Sir Charles Thomas Newton (1816-1894), Keeper of Greek and Roman Antiquities at the British Museum, excavator of the Mausoleum, raw IA OCR of his Essays on Art and Archaeology (1880) and a paper on two Rhodian inscriptions (1878; Greek-dense, kept under the Greek-facing ruling). Not John Newton, whose shelf is newton.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_about": "Sir Charles Thomas Newton (1816-1894), Keeper of Greek and Roman Antiquities at the British Museum, excavator of the Mausoleum, raw IA OCR of his Essays on Art and Archaeology (1880) and a paper on two Rhodian inscriptions (1878; Greek-dense, kept under the Greek-facing ruling). Not John Newton, whose shelf is newton.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.  Round ea adds his Travels and Discoveries in the Levant (2 vols, 1865) and the text volume of his History of Discoveries at Halicarnassus, Cnidus and Branchidae (vol. II in two parts, 1862-63; the plates volume is left out).",
  "_author": "C. T. Newton",
  "_name_words": [
   "newton"
@@ -18,6 +18,22 @@
   "c-t-newton-essays-on-art-and-archaeology-1880": [
    "essaysonartanda00newtgoog",
    "Essays on Art and Archaeology, by Charles Thomas Newton, C.B. (London: Macmillan and Co., 1880)"
+  ],
+  "c-t-newton-travels-and-discoveries-in-the-levant-1-1865": [
+   "travelsdiscoveri01newt",
+   "Travels and Discoveries in the Levant, volume I, by C. T. Newton (London: Day and Son, 1865)"
+  ],
+  "c-t-newton-travels-and-discoveries-in-the-levant-2-1865": [
+   "travelsdiscoveri02newt",
+   "Travels and Discoveries in the Levant, volume II, by C. T. Newton (London: Day and Son; IA catalogues 1865)"
+  ],
+  "c-t-newton-halicarnassus-cnidus-branchidae-2-1-1862": [
+   "gri_33125008617553",
+   "A History of Discoveries at Halicarnassus, Cnidus and Branchidae, volume II part I, by C. T. Newton, assisted by R. P. Pullan (London: Day and Son, 1862)"
+  ],
+  "c-t-newton-halicarnassus-cnidus-branchidae-2-2-1863": [
+   "gri_33125008522654",
+   "A History of Discoveries at Halicarnassus, Cnidus and Branchidae, volume II part II, by C. T. Newton, assisted by R. P. Pullan (London: Day and Son, 1863)"
   ]
  },
  "_excluded": {},
@@ -41,6 +57,50 @@
    "identity": "ok",
    "ia_rights": "ok: published 1880",
    "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-t-newton-travels-and-discoveries-in-the-levant-1-1865": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "c-t-newton-travels-and-discoveries-in-the-levant-2-1865": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "c-t-newton-halicarnassus-cnidus-branchidae-2-1-1862": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-t-newton-halicarnassus-cnidus-branchidae-2-2-1863": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
