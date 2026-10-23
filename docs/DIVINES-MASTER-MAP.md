@@ -20070,6 +20070,15 @@ Shelf: `pipeline/elizabeth-hazelton-haight_shelf.json`. Essays on the Greek Roma
 |---|---|---|---|
 | Essays on the Greek Romances (New York: Longmans, Green, 1943) |  | `haight-essays-greek-romances-1943` | have (PG 47022) |
 
+
+## Frederick Adam Wright (1869-1946)
+
+Shelf: `pipeline/f-a-wright_shelf.json`. Feminism in Greek Literature from Homer to Aristotle (London: Routledge, 1923). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Feminism in Greek Literature from Homer to Aristotle (London: Routledge, 1923) |  | `wright-feminism-greek-literature-1923` | have (PG 59205) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
