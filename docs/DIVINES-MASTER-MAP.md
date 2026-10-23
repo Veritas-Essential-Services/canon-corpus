@@ -13460,6 +13460,18 @@ Slugs `peploe-*`. Built from title pages read for round 71.
 | The life of privilege : possession, peace, and power (New York : Fleming H. Revell, 1896) | have-ocr | IA `lifeofprivilegep00webb` |
 | The victorious life : the post-conference addresses delivered at East Northfield, Mass., August 17-25, 1895 (New York : The Baker & Taylor Co., 1896) | have-ocr | IA `victoriouslifepo00webb` |
 | The titles of Jehovah: A course of sermons (James Nisbet & Co., Limited, 1901) | have-ocr | IA `titlesofjehovahc0000unse` |
+
+## Marcus Rainsford (round 71, my pick, 2026-10-23)
+
+Slugs `rainsford-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Romans VI (London: W. F. Blackburn; notes of lectures begun on Ash Wednesday, 2 March 1870) | have-ocr | IA `lecturesonroman00raingoog` |
+| Lectures on St. John XVII (London : J. Hoby, 1882) | have-ocr | IA `lecturesonstjohn00rain` |
+| The mystery of his will (Hodder and Stoughton, 27 Paternoster Row., 1888) | have-ocr | IA `mysteryofhiswill0000marc` |
+| The Fulness of God, and other addresses (London: S. W. Partridge, 1898) | have-ocr | IA `fulnessgodandot00raingoog` |
+| Straight Paths for Your Feet (a modern print-on-demand reprint); The Tabernacle in the Wilderness (undated scan) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

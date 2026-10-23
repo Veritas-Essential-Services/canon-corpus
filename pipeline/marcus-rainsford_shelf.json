@@ -1,0 +1,84 @@
+{
+ "_about": "Public-domain Marcus Rainsford (1820-1897), evangelical minister of Belgrave Chapel, London, for the Word Hoard: Lectures on Romans VI (1870), Lectures on St. John XVII (1882), The Mystery of His Will (1888) and The Fulness of God, and other addresses (1898). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rainsford"
+ ],
+ "_surname": [
+  "rainsford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rainsford-romans-vi": [
+   "lecturesonroman00raingoog",
+   "Lectures on Romans VI (London: W. F. Blackburn; notes of lectures begun on Ash Wednesday, 2 March 1870)"
+  ],
+  "rainsford-st-john-xvii": [
+   "lecturesonstjohn00rain",
+   "Lectures on St. John XVII (London : J. Hoby, 1882)"
+  ],
+  "rainsford-mystery-of-his-will": [
+   "mysteryofhiswill0000marc",
+   "The mystery of his will (Hodder and Stoughton, 27 Paternoster Row., 1888)"
+  ],
+  "rainsford-fulness-of-god": [
+   "fulnessgodandot00raingoog",
+   "The Fulness of God, and other addresses (London: S. W. Partridge, 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rainsford-other": "Straight Paths for Your Feet (a modern print-on-demand reprint); The Tabernacle in the Wilderness (undated scan)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rainsford-romans-vi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rainsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rainsford-st-john-xvii": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rainsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rainsford-mystery-of-his-will": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rainsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rainsford-fulness-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rainsford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
