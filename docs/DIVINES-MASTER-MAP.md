@@ -15600,6 +15600,39 @@ Slugs `gwatkin-*`. Built from title pages read for round 94.
 | The eye for spiritual things, and other sermons (Edinburgh, T. & T. Clark, 1907) | have-ocr | IA `eyeforspiritualt00gwat` |
 | Early church history to A.D. 313 (London : Macmillan, 1912) | have-ocr | IA `earlychurchhisto0000gwat` |
 | Selections from Early Writers (sources he edited), The Church Past and Present and The Cambridge Medieval History (many authors) | excluded | |
+
+## Morgan Dix (round 94, my pick, 2026-10-23)
+
+Slugs `dix-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| A manual of prayers and A guide to the Christian life ([n.p.], 1856) | have-ocr | IA `manualofprayersa00dixm` |
+| The Holy Communion : a sense of unworthiness no ground for keeping back from it : a sermon, preached in St. Paul's Chapel, New York, the first Sunday after Epiphany, Jan. 11th, 1857, and Jan. 10th, 1858 (New York : Daniel Dana, Jr., 1859) | have-ocr | IA `holycommunionsen00dixm` |
+| God's mercies towards the nation. A sermon preached in St. Paul's chapel, New York, Thanksgiving day, 1861 (New York : F. J. Huntington, 1861) | have-ocr | IA `godsmerciestowar00dixm` |
+| Christ the light of the world (New York, E. O. Jenkins, printer, 1863) | have-ocr | IA `christlightofwor00dixm` |
+| Lectures on the pantheistic idea of an impersonal-substance-deity : as contrasted with the Christian faith concerning Almighty God (New York : Hurd and Houghton ; Boston : E.P. Dutton and company, 1864) | have-ocr | IA `lecturesonpanthe00dixm` |
+| An exposition of the Epistles of Saint Paul to the Galatians and Colossians : according to the analogy of the Catholic faith (New York : Published for the Author [by Rennie, Shea & Lindsay], 1864) | have-ocr | IA `expositionofepis00dixm` |
+| The death of President Lincoln : a sermon preached in Saint Paul's Chapel, New York, on Wednesday, April 19, 1865 (Cambridge [Mass.] : Printed at the Riverside Press, 1865) | have-ocr | IA `deathofpresident00dixm` |
+| Historical recollections of S. Paul's Chapel, New York (New York : F.J. Huntington and Co, 1867) | have-ocr | IA `historicalrecoll00dixmrich` |
+| The Communion of Saints, by Morgan Dix (1872) (catalogued 1872) | have-ocr | IA `dix_communion_saints_1872` |
+| Sermon preached in Trinity Church, New York, on the Feast of the Ascension, May 14, 1874 / by Morgan Dix (John W. Amerman, 1874) | have-ocr | IA `sermonpreachedin00dixm` |
+| Lectures on the calling of a Christian woman and her training to fulfil it (New York, Appleton, 1883) | have-ocr | IA `lecturesonthecal00dixuoft` |
+| The Oxford movement (Chicago : Living Church Co., 1884) | have-ocr | IA `oxfordmovement00dixmuoft` |
+| Christian education : a sermon preached in Christ Church, Hartford, Conn., on Trinity Sunday, June 20, 1886, before the graduating class of Trinity College (Hartford : Press of the Case, Lockwood & Brainard Company, 1886) | have-ocr | IA `christianeducati00dixm` |
+| The Gospel and philosophy (N.Y., 1886) | have-ocr | IA `gospelphilosophy00dixm` |
+| The seven deadly sins : sermons preached in Trinity Chapel, New York, during Lent, 1888 (New York : E. & J.B. Young, 1888) | have-ocr | IA `sevendeadlysinss00dixm` |
+| Columbia college commencement, 1888. Baccalaureate sermon preached in St. Thomas' church, New York, Sunday, June 10th, 1888 ([New York, 1888) | have-ocr | IA `columbiacollegec00dixmrich` |
+| The Sacramental system considered as the extension of the incarnation (New York, Longmans, Green, 1893) | have-ocr | IA `sacramentalsyste00dixm` |
+| Harriet Starr Cannon : first Mother Superior of the Sisterhood of St. Mary : a brief memoir (New York : Longmans, Green, 1896) | have-ocr | IA `harrietstarrcann00dixmuoft` |
+| A history of the parish of Trinity Church in the city of New York, vol. p1 (New York, Putnam, 1898) | have-ocr | IA `historyofparisho01dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 2 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho02dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 3 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho03dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 4 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho04dixm` |
+| Blessing and ban from the Cross of Christ; meditations on the Seven Words on the Cross (New York, J. Pott, 1898) | have-ocr | IA `blessingbanfromc00dixm` |
+| Three guardians of supernatural religion, vol. c.1 (New York, E. S. Gorham, 1901) | have-ocr | IA `threeguardiansof01dixm` |
+| bookofhours00dixm: The Book of Hours (1866) carries no author on its title page; attribution is the catalogue's | pending | not shelved |
+| Memoirs of John Adams Dix (his father, a political biography), his edition of the 1549 Book of Common Prayer, and a military-order address | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
