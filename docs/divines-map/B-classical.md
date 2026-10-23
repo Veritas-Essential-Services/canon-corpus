@@ -9895,3 +9895,12 @@ Shelf: `pipeline/w-a-heidel_shelf.json`. Two 1896 studies on Plato and Aristotle
 | Pseudo-Platonica (1896) |  | `heidel-pseudo-platonica-1896` | have-raw (IA `pseudoplatonica00heidrich`) |
 | The Necessary and the Contingent in the Aristotelian System (1896) |  | `heidel-necessary-contingent-aristotle-1896` | have-raw (IA `cu31924028999740`) |
 
+
+## A. E. Dobbs
+
+Shelf: `pipeline/a-e-dobbs_shelf.json`. Philosophy and Popular Morals in Ancient Greece (1907). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Philosophy and Popular Morals in Ancient Greece (1907) |  | `dobbs-philosophy-popular-morals-1907` | have-raw (IA `philosophyandpo01dobbgoog`) |
+
