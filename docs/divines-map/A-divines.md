@@ -11417,3 +11417,17 @@ Slugs `sewall-*`. Built from title pages read for round 51.
 | The Holy Spirit convincing the world of sin, of righteousness, and of judgment, considered in four sermons: the two former delivered at the Tuesday-evening lecture in Brattle-Street, January 20th & March 3: the other at the Old-South Church in Boston, April 17 & 26, 1741. By Joseph Sewall, D.D. [Three lines from Romans].  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_the-holy-spirit-convinci_sewall-joseph_1741` |
 | All flesh is as grass; but the word of the Lord endureth for ever. A sermon preached at the Thursday lecture in Boston, January 1st. 1740,1. ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_all-flesh-is-as-grass-b_sewall-joseph_1741` |
 | Samuel Sewall's works (his father, another man); the 1872 botany (another Sewall) | excluded | |
+
+## Edward Beecher (round 51, my pick, 2026-10-23)
+
+Slugs `ebeecher-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Narrative of riots at Alton: in connection with the death of Rev. Elijah P. Lovejoy (Alton [Ill.] G. Holton, 1838) | have-ocr | IA `narrativeofriot00beec` |
+| Baptism, with reference to its import and modes (New York, London, J. Wiley, 1849) | have-ocr | IA `baptismwithrefer00beec` |
+| The conflict of ages : or, The great debate on the moral relations of God and man (Boston : Phillips, Sampson, 1853) | have-ocr | IA `conflictages00beecrich` |
+| The papal conspiracy exposed ([n.p.], 1855) | have-ocr | IA `papalconspiracye00beec` |
+| History of opinions on the scriptural doctrine of retribution (New York : Appleton, 1878) | have-ocr | IA `historyofopinion00beec` |
+| Other printings of The Conflict of Ages (1853-1855) and Papal Conspiracy (1855) | alternate | not shelved |
+| The Lost Atlantis (1897, another Beecher); Ladies' Society report (1846, a society's) | excluded | |
