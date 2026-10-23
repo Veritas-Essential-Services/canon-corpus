@@ -16830,3 +16830,17 @@ Slugs `gbuist-*`. Built from title pages read for round 107.
 | Sermons by the Reverend George Buist, D. D. : minister of the Presbyterian Church and President of the College of Charleston, South Carolina, vol. 1 (New York : Printed for E. Sargeant, by D. & G. Bruce, 1809) | have-ocr | IA `sermonsbyreveren01buis` |
 | Sermons, vol. 2 (New York : E. Sargeant, 1809) | have-ocr | IA `sermons02buis` |
 | The Indian annals, Scinde narrative and science papers are by George Buist (1805-1860), the Bombay journalist, a different man | excluded | |
+
+## William Cogswell (round 107, my pick, 2026-10-23)
+
+Slugs `wcogswell-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A Valedictory Discourse, Preached to the South Church and Parish in Dedham, December 20, 1829 (Perkins & Marvin, 1830) | have-ocr | IA `avaledictorydis00cogsgoog` |
+| The theological class book; containing a system of divinity, in the form of question and answer, accompanied with Scripture proofs, designed for the benefit of theological classes, and the higher classes in Sabbath schools (Boston, Crocker and Brewster; New York, J. Leavitt, 1832) | have-ocr | IA `theologicalclass00cogs` |
+| The harbinger of the millennium; with an appendix (Boston, Peirce and Parker, 1833) | have-ocr | IA `harbingerofmille00cogs` |
+| Assistant to Family Religion, Or, Manual of Theology and Devotions (Published by Crocker & Brewster [etc.], 1836) | have-ocr | IA `assistanttofami01cogsgoog` |
+| Letters to young men preparing for the Christian ministry (Boston, Perkins & Marvin ; Philadelphia, H. Perkins, 1837) | have-ocr | IA `letterstoyoungme00cogs` |
+| The Christian philanthropist; or, Harbinger of the millennium (Boston, Perkins & Marvin [etc.], 1839) | have-ocr | IA `christianphilant00cogs` |
+| The Halifax, Nova Scotia lectures and sermons (CIHM microfiche) are by William Cogswell, curate of St Paul's, Halifax, a different man | excluded | |
