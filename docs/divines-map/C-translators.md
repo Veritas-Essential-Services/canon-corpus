@@ -3060,7 +3060,7 @@ Round 30 (2026-10-10), vetoable. Round 150 (2026-10-23) added three Calderón pl
 ## Hannibal Evans Lloyd (Prince Maximilian of Wied's Travels, 3 parts; Iffland)
 
 Shelf: `pipeline/hannibal-lloyd_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hannibal-lloyd` · titles `python3 pipeline/split_shelf_titles.py hannibal-lloyd`.
-Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. Round 155 (2026-10-23) added six from archive.org; Feuchtersleben held (imprint illegible). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -3068,6 +3068,13 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-1` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1 | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 38784 |
 | `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-2` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 2 | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 47392 |
 | `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-3` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 3 and appendix | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 48235 |
+| `hannibal-lloyd-puckler-muskau-egypt-under-mehemet-ali-2` | Prince Pückler-Muskau | Egypt under Mehemet Ali, vol. II | H. Evans Lloyd | 1845 | have-raw | IA `egyptundermehem00algoog` |
+| `hannibal-lloyd-raumer-england-in-1835` | Frederick von Raumer | England in 1835: A Series of Letters Written to Friends in Germany | Sarah Austin and H. E. Lloyd | 1836 | have-raw | IA `englandinbeinga01austgoog` |
+| `hannibal-lloyd-raumer-england-in-1841-1` | Frederick von Raumer | England in 1841, vol. I | H. Evans Lloyd | 1842 | have-raw | IA `englandin184101raumuoft` |
+| `hannibal-lloyd-raumer-england-in-1841-2` | Frederick von Raumer | England in 1841, vol. II | H. Evans Lloyd | 1842 | have-raw | IA `englandinbeinga01lloygoog` |
+| `hannibal-lloyd-spix-martius-travels-in-brazil-1` | J. B. von Spix and C. F. P. von Martius | Travels in Brazil, in the Years 1817-1820, vol. I | H. Evans Lloyd | 1824 | have-raw | IA `travelsinbrazil01lloygoog` |
+| `hannibal-lloyd-orlich-travels-in-india-1` | Leopold von Orlich | Travels in India, including Sinde and the Punjab, vol. I | H. Evans Lloyd | 1845 | have-raw | IA `travelsinindiat01orligoog` |
+| `hannibal-lloyd-feuchtersleben-medical-psychology` | Ernst von Feuchtersleben | The Principles of Medical Psychology (Sydenham Society; imprint illegible, archive.org 1847) | H. Evans Lloyd | 1847? | pending | — |
 
 ## John Cournos (Sologub's The Created Legend; The Old House)
 
@@ -4383,11 +4390,12 @@ Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Helen Zimmern beyond Nietzsche (Carmen Sylva's Pilgrim Sorrow)
 
 Shelf: `pipeline/helen-zimmern_shelf.json` · fetch `python3 pipeline/fetch_shelf.py helen-zimmern` · titles `python3 pipeline/split_shelf_titles.py helen-zimmern`.
-Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 36 (2026-10-10), vetoable. Round 155 (2026-10-23) added Lessing's Selected Prose Works (with Beasley) from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `helen-zimmern-sylva-pilgrim-sorrow-a-cycle-of-tales` | Carmen Sylva | Pilgrim Sorrow: A Cycle of Tales | Helen Zimmern | 1884 (see the Gutenberg header) | have | PG 46262 |
+| `helen-zimmern-lessing-selected-prose-works` | G. E. Lessing | Selected Prose Works: Laokoon, How the Ancients Represented Death, Dramatic Notes | E. C. Beasley and Helen Zimmern | 1890 (this printing) | have-raw | IA `selectedprosewo00lessgoog` |
 | — | — | pg-27799: De Amicis's Holland vol. 1: De Amicis has his own shelf (de-amicis_shelf.json, another lane); left for its owner. | — | — | excluded | — |
 
 ## Paul V. Cohn beyond Nietzsche (Bordeaux's Fort Vaux; Beyens)
@@ -4582,13 +4590,19 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Louise Seymour Houghton (Sabatier's St Francis; Bordeaux; Boylesve)
 
 Shelf: `pipeline/houghton-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py houghton-translations` · titles `python3 pipeline/split_shelf_titles.py houghton-translations`.
-Round 37 (2026-10-10), vetoable. Lane D's louise-houghton shelf holds her Russian Grandmother's Wonder Tales. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Lane D's louise-houghton shelf holds her Russian Grandmother's Wonder Tales. Round 155 (2026-10-23) added Stapfer's trilogy and Napoleon's Unpublished Correspondence (3 vols) from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `houghton-translations-bordeaux-the-house` | Henry Bordeaux | The house | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 72388 |
 | `houghton-translations-boylesve-you-no-longer-count-tu-n-es-plus-rien` | René Boylesve | You no longer count (Tu n'es plus rien!) | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 68557 |
 | `houghton-translations-sabatier-life-of-st-francis-of-assisi` | Paul Sabatier | Life of St. Francis of Assisi | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 18787 |
+| `houghton-translations-stapfer-jesus-christ-before-his-ministry` | Edmond Stapfer | Jesus Christ before His Ministry | Louise Seymour Houghton | 1896 | have-raw | IA `jesuschristbefo00houggoog` |
+| `houghton-translations-stapfer-jesus-christ-during-his-ministry` | Edmond Stapfer | Jesus Christ during His Ministry | Louise Seymour Houghton | 1897 | have-raw | IA `jesuschristduri00houggoog` |
+| `houghton-translations-stapfer-the-death-and-resurrection-of-jesus-christ` | Edmond Stapfer | The Death and Resurrection of Jesus Christ | Louise Seymour Houghton | 1898 | have-raw | IA `deathandresurre00houggoog` |
+| `houghton-translations-napoleon-unpublished-correspondence-1` | Napoleon I (ed. Ernest Picard and Louis Tuetey) | Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. I (1804-1807) | Louise Seymour Houghton | 1913 | have-raw | IA `unpublishedcorr00histgoog` |
+| `houghton-translations-napoleon-unpublished-correspondence-2` | Napoleon I (ed. Ernest Picard and Louis Tuetey) | Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. II (1808-1809) | Louise Seymour Houghton | 1913 | have-raw | IA `unpublishedcorre0002erne` |
+| `houghton-translations-napoleon-unpublished-correspondence-3` | Napoleon I (ed. Ernest Picard and Louis Tuetey) | Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. III (1809-1810) | Louise Seymour Houghton | 1913 | have-raw | IA `unpublishedcorre0003erne_s0c4` |
 
 ## Helena Frank (Yiddish Tales; Peretz; Rosenfeld)
 
