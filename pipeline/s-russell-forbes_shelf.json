@@ -1,0 +1,78 @@
+{
+ "_about": "S. Russell Forbes, archaeologist and guide resident in Rome, raw IA OCR of his guides to the antiquities of Rome and Naples (1885-1897).  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "S. Russell Forbes",
+ "_name_words": [
+  "forbes"
+ ],
+ "_surname": [
+  "s. russell forbes",
+  "russell forbes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "s-russell-forbes-roman-aqueducts-and-fountains": [
+   "romanaqueductsfo00forb",
+   "The Roman Aqueducts and Fountains, by S. Russell Forbes (Rome; no year in the OCR, IA catalogues 1885)"
+  ],
+  "s-russell-forbes-rambles-in-rome-1887": [
+   "ramblesinromearc00forb",
+   "Rambles in Rome: an archaeological and historical guide to the museums, galleries, villas, churches, and antiquities of Rome and the Campagna, by S. Russell Forbes (London, Edinburgh and New York: Thomas Nelson and Sons; Rome: S. Russell Forbes, 1887)"
+  ],
+  "s-russell-forbes-rambles-in-naples-4th-ed": [
+   "ramblesinnaplesa00forbuoft",
+   "Rambles in Naples: an archaeological and historical guide to the museums, galleries, villas, churches, and antiquities of Naples and its environs, by S. Russell Forbes, fourth edition, enlarged (London: T. Nelson and Sons; no year in the OCR, IA catalogues 1893)"
+  ],
+  "s-russell-forbes-footsteps-of-st-paul-in-rome-4th-ed": [
+   "footstepsofstpau00forb",
+   "The Footsteps of St. Paul in Rome, from the Apostle's landing at Puteoli to his death, by S. Russell Forbes, fourth edition, revised and enlarged (London: Thomas Nelson and Sons; no year in the OCR, IA catalogues 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "s-russell-forbes-roman-aqueducts-and-fountains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. russell forbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "s-russell-forbes-rambles-in-rome-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. russell forbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "s-russell-forbes-rambles-in-naples-4th-ed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. russell forbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "s-russell-forbes-footsteps-of-st-paul-in-rome-4th-ed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. russell forbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
