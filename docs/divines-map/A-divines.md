@@ -17065,3 +17065,22 @@ Slugs `mcclintock-*`. Built from title pages read for round 110.
 | His translation of Neander's Life of Jesus Christ and his editions of Olin and Watson are other men's works | excluded | |
 | The Cyclopaedia of Biblical, Theological and Ecclesiastical Literature, with James Strong, is a many-volume joint work; left for its own decision | excluded | |
 | John Beedle's Sleigh Ride is by another John McClintock | excluded | |
+
+## H. J. Wilmot-Buxton (round 110, my pick, 2026-10-23)
+
+Slugs `wbuxton-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Waterside mission sermons. Ser. 1, 3rd ed.; ser. 2 (catalogued 1875) | have-ocr | IA `watersidemissio00buxtgoog` |
+| Short sermons for children (catalogued 1876) | have-ocr | IA `shortsermonsfor00buxtgoog` |
+| The Lord's song: plain sermons on hymns (catalogued 1880) | have-ocr | IA `lordssongplains00buxtgoog` |
+| The life worth living, mission sermons (W. Skeffington & Son, 1882) | have-ocr | IA `lifeworthliving00buxtgoog` |
+| The children's bread; short sermons to children (New York : James Pott, 1883) | have-ocr | IA `childrensbreadsh00wilm` |
+| Parable sermons for children (New York, James Pott, 1884) | have-ocr | IA `parablesermonsfo00wilm` |
+| New and contrite hearts : forty brief meditations for Lent (New York : J. Pott, 1888) | have-ocr | IA `NewAndContriteHearts` |
+| The battle of life : a series of mission sermons, including courses of sermons on the parable of the ten virgins and the parable of the prodigal son (London : Skeffington, 1895) | have-ocr | IA `battleoflifeseri0000wilm` |
+| The tree of life : plain sermons on the fruits of the spirit (London : Skeffington, 1898) | have-ocr | IA `thetreeoflifepla00wilmuoft` |
+| Day by day duty : thirty plain sermons, including many for the principal church seasons (London : Skeffington & Son, 1905) | have-ocr | IA `daybydaydutythir0000wilm` |
+| God's heroes : a series of plain sermons (London : Skeffington & son, 1907) | have-ocr | IA `godsheroesaserie00wilmuoft` |
+| His art-history handbooks and the novel The Mysteries of Isis are left to other lanes; the anaesthetics books are by Dudley Wilmot Buxton and the history books by E. M. Wilmot-Buxton | excluded | |
