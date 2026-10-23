@@ -1,0 +1,176 @@
+{
+ "_about": "Public-domain Wayland Hoyt (1838-1910), Baptist pastor in Cincinnati, Brooklyn, Philadelphia and Minneapolis, for the Word Hoard: Hints and Helps for the Christian Life, a YMCA sermon, Present Lessons from Distant Days, Gleams from Paul's Prison, Along the Pilgrimage, The Brook in the Way, Saturday Afternoon, For Shine and Shade, Helps Upward, and The Teaching of Jesus concerning His own Person. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 95 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wayland hoyt",
+  "w. hoyt"
+ ],
+ "_surname": [
+  "wayland hoyt",
+  "w. hoyt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoyt-hints-helps": [
+   "hintshelpsforchr00hoyt",
+   "Hints and helps for the Christian life ([n.p.], 1830)"
+  ],
+  "hoyt-ymca-sermon": [
+   "sermondeliveredb00hoyt",
+   "A sermon delivered before the Young Men's Christian Association of Cincinnati...July 29, '66 ([n.p.], 1866)"
+  ],
+  "hoyt-present-lessons": [
+   "presentlessonsfr00hoyt",
+   "Present lessons from distant days ([n.p.], 1881)"
+  ],
+  "hoyt-pauls-prison": [
+   "gleamsfrompaulsp00hoyt",
+   "Gleams from Paul's prison ([n. p.], 1883)"
+  ],
+  "hoyt-along-pilgrimage": [
+   "alongpilgrimage00hoyt",
+   "Along the pilgrimage (catalogued 1885)"
+  ],
+  "hoyt-brook-in-way": [
+   "brookinway00hoyt",
+   "The brook in the way (New York : A. D. F. Randolph and Co., 1888)"
+  ],
+  "hoyt-saturday-afternoon": [
+   "saturdayafternoo00hoyt",
+   "Saturday afternoon; or, Conversations for the culture of the Christian life (Philadelphia, American Baptist publication society, 1889)"
+  ],
+  "hoyt-shine-and-shade": [
+   "forshineshade00hoyt",
+   "For shine and shade (Philadelphia, Amer. Baptist pub. society, 1899)"
+  ],
+  "hoyt-helps-upward": [
+   "helpsupward00hoyt",
+   "Helps upward (Boston and Chicago, United society of Christian endeavor, 1899)"
+  ],
+  "hoyt-teaching-of-jesus": [
+   "teachingofjesusc00hoyt",
+   "The teaching of Jesus concerning His own person (New York, American tract society, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hoyt-multi": "A Decade of Christian Endeavor (many authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hoyt-hints-helps": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-ymca-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-present-lessons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-pauls-prison": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-along-pilgrimage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-brook-in-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoyt-saturday-afternoon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-shine-and-shade": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-helps-upward": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoyt-teaching-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

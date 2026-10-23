@@ -15721,3 +15721,21 @@ Slugs `gputnam-*`. Built from title pages read for round 95.
 | Sermons preached in the church of the first religious society in Roxbury (catalogued 1878) | have-ocr | IA `sermonspreachedi00putn` |
 | remarksuponorati00putn: published 'BY A CITIZEN OF BOSTON'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | his Phi Beta Kappa oration, manuscript letters, and books by other George Putnams | excluded | |
+
+## Wayland Hoyt (round 95, my pick, 2026-10-23)
+
+Slugs `hoyt-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Hints and helps for the Christian life ([n.p.], 1830) | have-ocr | IA `hintshelpsforchr00hoyt` |
+| A sermon delivered before the Young Men's Christian Association of Cincinnati...July 29, '66 ([n.p.], 1866) | have-ocr | IA `sermondeliveredb00hoyt` |
+| Present lessons from distant days ([n.p.], 1881) | have-ocr | IA `presentlessonsfr00hoyt` |
+| Gleams from Paul's prison ([n. p.], 1883) | have-ocr | IA `gleamsfrompaulsp00hoyt` |
+| Along the pilgrimage (catalogued 1885) | have-ocr | IA `alongpilgrimage00hoyt` |
+| The brook in the way (New York : A. D. F. Randolph and Co., 1888) | have-ocr | IA `brookinway00hoyt` |
+| Saturday afternoon; or, Conversations for the culture of the Christian life (Philadelphia, American Baptist publication society, 1889) | have-ocr | IA `saturdayafternoo00hoyt` |
+| For shine and shade (Philadelphia, Amer. Baptist pub. society, 1899) | have-ocr | IA `forshineshade00hoyt` |
+| Helps upward (Boston and Chicago, United society of Christian endeavor, 1899) | have-ocr | IA `helpsupward00hoyt` |
+| The teaching of Jesus concerning His own person (New York, American tract society, 1907) | have-ocr | IA `teachingofjesusc00hoyt` |
+| A Decade of Christian Endeavor (many authors) | excluded | |
