@@ -15896,3 +15896,29 @@ Slugs `codman-*`. Built from title pages read for round 97.
 | A narrative of a visit to England (Boston, Perkins & Marvin: Philadelphia, H. Perkins, 1836) | have-ocr | IA `narrativeofvisit00codm` |
 | Review of the past : a sermon, delivered in Dorchester, December 7, 1845, being the thirty-seventh anniversary of the author's ordination (Boston : Press of T.R. Marvin, 1846) | have-ocr | IA `reviewofpastserm00codm` |
 | Books by later John Codmans (Sailors' Life, Ten Months in Brazil, The Mormon Country, free-ship pamphlets): a different man | excluded | |
+
+## W. B. Godbey (round 97, my pick, 2026-10-23)
+
+Slugs `godbey-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptism : mode and design (Louisville, Ky. : Pentecostal Pub. Co., 1883) | have-ocr | IA `baptismmodedesig0000godb` |
+| Sanctification ([n.p.], 1884) | have-ocr | IA `sanctification00godb` |
+| Light in darkness : or, missions and missionary heroes : an illustrated history of the missionary work now carried on by all Protestant denominations in heathen lands (Philadelphia : C.R. Parish, 1888) | have-ocr | IA `lightindarknesso0000godb` |
+| Spiritual gifts and graces ([n.p.], 1895) | have-ocr | IA `spiritualgiftsgr00godb` |
+| Holy Land (M.W. Knapp, 1895) | have-ocr | IA `holyland00godb` |
+| Commentary on the New Testament (M.W. Knapp, Revivalist Office, Cincinnati, Ohio., 1898) | have-ocr | IA `commentaryonnewt0000revw` |
+| Keswickism (Pentecostal Pub. Co., 1900) | have-ocr | IA `keswickism00godb` |
+| Translation of the New Testament from the original Greek (Cincinnati, Ohio : M.W. Knapp, 1902) | have-ocr | IA `translationofnew00godb` |
+| Glorification (God's Revivalist Office, 1902) | have-ocr | IA `glorification00godb` |
+| Work of the Holy Spirit (Pickett publishing co., 1902) | have-ocr | IA `workofholyspirit0000wbgo` |
+| Life of Jesus and His apostles (Louisville, Ky., Pentecostal pub. co, 1904) | have-ocr | IA `lifeofjesushisap00godb` |
+| Around the world, garden of Eden, latter day prophecies and missions (Cincinnati, Ohio : God's Revivalist office, 1907) | have-ocr | IA `aroundworldgarde00godb` |
+| Autobiography of Rev. W.B. Godbey (Cincinnati : God's Revivalist Office, 1909) | have-ocr | IA `autobiographyofr00godb` |
+| Divine healing (Apostolic Messenger Office, 1909) | have-ocr | IA `divinehealing00godb` |
+| Bible theology (God's Revivalist Office, 1911) | have-ocr | IA `bibletheology0000wbgo` |
+| The apocalyptic angel (Cincinnati, OH : God's Revivalist Press, 1914) | have-ocr | IA `apocalypticangel00godb` |
+| Great Disasters and Horrors, Stanley in Africa (popular subscription books, not theology) | excluded | |
+| Books and articles by J. E. Godbey and the Assyriologist Allen H. Godbey: different men | excluded | |
+| twowitnesses0000godb: the scan is a 1996 devotional of the same title, not Godbey's book; no other copy found | excluded | |

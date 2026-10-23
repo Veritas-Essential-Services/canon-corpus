@@ -1,0 +1,274 @@
+{
+ "_about": "Public-domain William Baxter Godbey (1833-1920), Methodist holiness evangelist and Greek scholar, for the Word Hoard: Baptism, Sanctification, Light in Darkness, Spiritual Gifts and Graces, Holy Land, Commentary on the New Testament, Keswickism, his Translation of the New Testament, Glorification, Work of the Holy Spirit, Life of Jesus and His Apostles, Around the World, Divine Healing, Bible Theology, The Apocalyptic Angel, and his Autobiography. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. b. godbey",
+  "william baxter godbey",
+  "w.b. godbey",
+  "godbey"
+ ],
+ "_surname": [
+  "w. b. godbey",
+  "william baxter godbey",
+  "w.b. godbey",
+  "godbey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "godbey-baptism": [
+   "baptismmodedesig0000godb",
+   "Baptism : mode and design (Louisville, Ky. : Pentecostal Pub. Co., 1883)"
+  ],
+  "godbey-sanctification": [
+   "sanctification00godb",
+   "Sanctification ([n.p.], 1884)"
+  ],
+  "godbey-light-in-darkness": [
+   "lightindarknesso0000godb",
+   "Light in darkness : or, missions and missionary heroes : an illustrated history of the missionary work now carried on by all Protestant denominations in heathen lands (Philadelphia : C.R. Parish, 1888)"
+  ],
+  "godbey-spiritual-gifts": [
+   "spiritualgiftsgr00godb",
+   "Spiritual gifts and graces ([n.p.], 1895)"
+  ],
+  "godbey-holy-land": [
+   "holyland00godb",
+   "Holy Land (M.W. Knapp, 1895)"
+  ],
+  "godbey-commentary-nt": [
+   "commentaryonnewt0000revw",
+   "Commentary on the New Testament (M.W. Knapp, Revivalist Office, Cincinnati, Ohio., 1898)"
+  ],
+  "godbey-keswickism": [
+   "keswickism00godb",
+   "Keswickism (Pentecostal Pub. Co., 1900)"
+  ],
+  "godbey-nt-translation": [
+   "translationofnew00godb",
+   "Translation of the New Testament from the original Greek (Cincinnati, Ohio : M.W. Knapp, 1902)"
+  ],
+  "godbey-glorification": [
+   "glorification00godb",
+   "Glorification (God's Revivalist Office, 1902)"
+  ],
+  "godbey-holy-spirit": [
+   "workofholyspirit0000wbgo",
+   "Work of the Holy Spirit (Pickett publishing co., 1902)"
+  ],
+  "godbey-life-of-jesus": [
+   "lifeofjesushisap00godb",
+   "Life of Jesus and His apostles (Louisville, Ky., Pentecostal pub. co, 1904)"
+  ],
+  "godbey-around-world": [
+   "aroundworldgarde00godb",
+   "Around the world, garden of Eden, latter day prophecies and missions (Cincinnati, Ohio : God's Revivalist office, 1907)"
+  ],
+  "godbey-autobiography": [
+   "autobiographyofr00godb",
+   "Autobiography of Rev. W.B. Godbey (Cincinnati : God's Revivalist Office, 1909)"
+  ],
+  "godbey-divine-healing": [
+   "divinehealing00godb",
+   "Divine healing (Apostolic Messenger Office, 1909)"
+  ],
+  "godbey-bible-theology": [
+   "bibletheology0000wbgo",
+   "Bible theology (God's Revivalist Office, 1911)"
+  ],
+  "godbey-apocalyptic-angel": [
+   "apocalypticangel00godb",
+   "The apocalyptic angel (Cincinnati, OH : God's Revivalist Press, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "godbey-popular": "Great Disasters and Horrors, Stanley in Africa (popular subscription books, not theology)",
+  "godbey-others": "Books and articles by J. E. Godbey and the Assyriologist Allen H. Godbey: different men",
+  "godbey-two-witnesses": "twowitnesses0000godb: the scan is a 1996 devotional of the same title, not Godbey's book; no other copy found"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "godbey-life-of-jesus": "Title page (OCR): 'Life of Jesus and His Apostles. Rev. W. B. Godbey, author of Holiness, or Hell, Jesus is Coming, Sanctification... Pentecostal Pub. Co., Louisville, Ky. Copyrighted by Pentecostal Publishing Co. 1904.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "godbey-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-sanctification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "godbey-light-in-darkness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-spiritual-gifts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "godbey-holy-land": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-commentary-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-keswickism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-nt-translation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-glorification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-life-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godbey-around-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "godbey-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godbey-divine-healing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-bible-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godbey-apocalyptic-angel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. godbey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
