@@ -19224,6 +19224,16 @@ Shelf: `pipeline/arnold-j-toynbee_shelf.json`. Greek Civilisation and Character 
 |---|---|---|---|
 | Greek Civilisation and Character: the Self-Revelation of Ancient Greek Society (1924) |  | `toynbee-greek-civilisation-character-1924` | have-raw (IA `greekcivilisatio0000unse`) |
 
+
+## Charles Burton Gulick (1868-1962)
+
+Shelf: `pipeline/charles-burton-gulick_shelf.json`. Daily life of the Greeks, 1902 and 1927. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Life of the Ancient Greeks, with Special Reference to Athens (1902) |  | `gulick-life-of-ancient-greeks-1902` | have-raw (IA `lifeofancientgre00guliuoft`) |
+| Modern Traits in Old Greek Life (Our Debt to Greece and Rome, 1927) |  | `gulick-modern-traits-old-greek-life` | have-raw (IA `in.gov.ignca.13567`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
