@@ -1,0 +1,32 @@
+{
+ "_about": "Lewis Richard Packard (1836-1884), Hillhouse Professor of Greek at Yale, raw IA OCR of his posthumous Studies in Greek Thought (1886). Not Frank Packard, whose shelf is frank-packard.  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Lewis R. Packard",
+ "_name_words": [
+  "packard"
+ ],
+ "_surname": [
+  "lewis r. packard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lewis-r-packard-studies-in-greek-thought-1886": [
+   "studiesingreekth00packiala",
+   "Studies in Greek Thought: essays selected from the papers of the late Lewis R. Packard (Boston: Ginn and Company, 1886)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lewis-r-packard-studies-in-greek-thought-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis r. packard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
