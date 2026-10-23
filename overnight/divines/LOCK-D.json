@@ -1,6 +1,6 @@
 {
- "status": "running",
- "holder": "2026-10-23T03:00Z Lane D thread",
- "heartbeat": "2026-10-23T09:30-05:00",
- "note": "children's sets (Adam 2026-10-23); author batches stopped at Adam's card"
+ "status": "free",
+ "holder": null,
+ "heartbeat": "2026-10-23T10:40-05:00",
+ "resume": "Author batches stopped at Adam's card (2026-10-23 13:53Z, 'Stop; switch to upkeep'). Children's sets done (12 shelves, DIGEST-D). Nothing queued."
 }
