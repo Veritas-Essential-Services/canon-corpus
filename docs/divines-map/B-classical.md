@@ -10559,3 +10559,12 @@ Shelf: `pipeline/f-g-allinson_shelf.json`. Greek Lands and Letters (Boston: Houg
 |---|---|---|---|
 | Greek Lands and Letters (Boston: Houghton Mifflin, 1909) |  | `allinson-greek-lands-letters-1909` | have (PG 67984) |
 
+
+## Frank Justus Miller (1858-1938)
+
+Shelf: `pipeline/frank-justus-miller_shelf.json`. Studies in the Poetry of Italy, Part I: Roman (Chautauqua, 1901). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Studies in the Poetry of Italy, Part I: Roman (Chautauqua, 1901) |  | `miller-studies-poetry-italy-roman-1901` | have (PG 35174) |
+
