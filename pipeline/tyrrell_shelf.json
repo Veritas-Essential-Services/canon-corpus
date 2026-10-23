@@ -1,5 +1,5 @@
 {
- "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also raw IA: The Correspondence of M. Tullius Cicero, with L. C. Purser (Dublin: Hodges, Figgis, 7 vols.), the latest edition found for each volume: I (3rd ed. 1904), II (1st ed. 1886), III (1st ed. 1890), IV (2nd ed. 1918), V (2nd ed. 1915), VI (1899), VII index (1901); Latin text with English commentary, kept per Adam's 2026-10-23 ruling. Round dt: his Bacchae (Macmillan, 1892).",
+ "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also raw IA: The Correspondence of M. Tullius Cicero, with L. C. Purser (Dublin: Hodges, Figgis, 7 vols.), the latest edition found for each volume: I (3rd ed. 1904), II (1st ed. 1886), III (1st ed. 1890), IV (2nd ed. 1918), V (2nd ed. 1915), VI (1899), VII index (1901); Latin text with English commentary, kept per Adam's 2026-10-23 ruling. Round dt: his Bacchae (Macmillan, 1892). Round dy (2026-10-23), raw IA: his Miles Gloriosus of Plautus (first edition, 1881), the Classical Series Troades (1897; taken over the 1882 Dublin school edition's scan, whose OCR is poorer), Cicero in his Letters (1891) and the Anthology of Latin Poetry (1901, the companion to his 1895 lectures). The Latin and Greek texts are kept under Adam's 2026-10-23 ruling and lane B's extension of it to Latin-dense volumes. Not taken: Kottabos and Echoes from Kottabos (Trinity College Dublin miscellanies, many contributors) and Dublin Translations into Greek and Latin Verse (many translators).",
  "_name_words": [
   "tyrrell"
  ],
@@ -50,6 +50,22 @@
   "tyrrell-bacchae-1892": [
    "bacchaeeuri00euri",
    "The Bacchae of Euripides, with a revision of the text and a commentary, by Robert Yelverton Tyrrell (London and New York: Macmillan, 1892; the second edition, 'after more than twenty years'); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-miles-gloriosus-1881": [
+   "milesgloriosusof00plaurich",
+   "The Miles Gloriosus of T. Maccius Plautus, a revised text, with notes, by Robert Yelverton Tyrrell (London: Macmillan, 1881; Dublin: University Press); Latin text with English notes"
+  ],
+  "tyrrell-troades-1897": [
+   "troadeswithrevte00euriuoft",
+   "The Troades of Euripides, with revised text and notes by Robert Yelverton Tyrrell (Classical Series; London and New York: Macmillan, 1897); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-cicero-in-his-letters-1891": [
+   "ciceroinhislette00ciceuoft",
+   "Cicero in his Letters, edited with notes by Robert Yelverton Tyrrell (London and New York: Macmillan, 1891); Latin text with English notes"
+  ],
+  "tyrrell-anthology-of-latin-poetry-1901": [
+   "anthologyoflatin00tyrrrich",
+   "Anthology of Latin Poetry, by Robert Yelverton Tyrrell (London and New York: Macmillan, 1901); Latin texts, the companion to his Latin Poetry lectures"
   ]
  },
  "_checks": {
@@ -161,6 +177,50 @@
    "ia_rights": "ok: published 1892",
    "ia_date": "1892",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tyrrell-miles-gloriosus-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-troades-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-cicero-in-his-letters-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. y. tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-anthology-of-latin-poetry-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. y. tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
