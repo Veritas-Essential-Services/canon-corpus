@@ -96,7 +96,59 @@
   }
  },
  "_held": {
-  "suetonius-perseus-rolfe-the-deified-julius": "same translation as suetonius-rolfe-v1/v2 (IA): Rolfe's Loeb on this shelf; Perseus TEI urn:cts:latinLit:phi1348.abo011.rolfe-eng1 (The Deified Julius, tr. John C. Rolfe) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "suetonius-rolfe-v1": "held back on rights, not fetched: the scan is the 1951 revised printing ('Revised and Reprinted 1951') with an 'Editor's Note (1979)': the text is not the 1913 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA suetonius01suet: Suetonius, vol. 1 (Loeb, 1913)"
+  "suetonius-rolfe-v1": "held back on rights, not fetched: the scan is the 1951 revised printing ('Revised and Reprinted 1951') with an 'Editor's Note (1979)': the text is not the 1913 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA suetonius01suet: Suetonius, vol. 1 (Loeb, 1913)",
+  "suetonius-perseus-thomson-c-caligula": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo014.perseus-eng2 (C. Caligula, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-augustus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo012.perseus-eng2 (Augustus, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-claudius": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo015.perseus-eng2 (Claudius, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-julius-caesar": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo011.perseus-eng2 (Julius Caesar, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-titus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo021.perseus-eng2 (Titus, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-vespasian": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo020.perseus-eng2 (Vespasian, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-domitian": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo022.perseus-eng2 (Domitian, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-galba": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo017.perseus-eng2 (Galba, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-nero": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo016.perseus-eng2 (Nero, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-otho": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo018.perseus-eng2 (Otho, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-tiberius": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo013.perseus-eng2 (Tiberius, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "suetonius-perseus-thomson-vitellius": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1348.abo019.perseus-eng2 (Vitellius, tr. Alexander Thomson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
+ },
+ "perseus": {
+  "suetonius-perseus-rolfe-the-deified-julius": [
+   "phi1348.abo011.rolfe-eng1",
+   "The Deified Julius",
+   "John C. Rolfe",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Suetonius. Rolfe, John C., translator. London: William Heineman; New York: The Macmillan Company, 1914."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "suetonius-perseus-rolfe-the-deified-julius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi1348.abo011.rolfe-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Rolfe",
+   "author_seen": "suetonius",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1348/abo011/phi1348.abo011.rolfe-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_held_released": {
+  "suetonius-perseus-rolfe-the-deified-julius": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as suetonius-rolfe-v1/v2 (IA): Rolfe's Loeb on this shelf; Perseus TEI urn:cts:latinLit:phi1348.abo011.rolfe-eng1 (The Deified Julius, tr. John C. Rolfe) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }
