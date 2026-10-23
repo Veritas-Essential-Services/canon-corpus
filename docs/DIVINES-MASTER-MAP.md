@@ -38777,3 +38777,28 @@ Shelf: `pipeline/florence-warden_shelf.json` (2026-10-22; added at the coordinat
 | The mis-rule of three | have | PG 72669, `fwarden-mis-rule-of-three` (2207 units) |
 | The mill house mystery | have | PG 73223, `fwarden-mill-house-mystery` (1949 units) |
 | Mystery of the inn by the shore | have | PG 73798, `fwarden-mystery-of-the-inn-by-the-shore` (1977 units) |
+
+## Mrs. Georgie Sheldon
+
+Shelf: `pipeline/georgie-sheldon_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular romances. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Katherine's Sheaves | have | PG 5008, `gsheldon-katherines-sheaves` (2403 units) |
+| Virgie's Inheritance | have | PG 11269, `gsheldon-virgies-inheritance` (1745 units) |
+| Mona; Or, The Secret of a Royal Mirror | have | PG 14425, `gsheldon-mona` (1856 units) |
+| True Love's Reward A Sequel to Mona | have | PG 14427, `gsheldon-true-loves-reward-a-sequel-to-mona` (1881 units) |
+| His Heart's Queen | have | PG 19259, `gsheldon-his-hearts-queen` (2057 units) |
+| The Masked Bridal | have | PG 29524, `gsheldon-masked-bridal` (3007 units) |
+| The Heatherford Fortune a sequel to the Magic Cameo | have | PG 38006, `gsheldon-heatherford-fortune-a-sequel-to-the-magic-cameo` (1373 units) |
+| The Golden Key; Or, A Heart's Silent Worship | have | PG 50909, `gsheldon-golden-key` (1600 units) |
+| Redeemed | have | PG 59277, `gsheldon-redeemed` (1418 units) |
+| The Magic Cameo: A Love Story | have | PG 64559, `gsheldon-magic-cameo` (1463 units) |
+| Threads gathered up | have | PG 70252, `gsheldon-threads-gathered-up` (1707 units) |
+| Geoffrey's victory; | have | PG 70479, `gsheldon-geoffreys-victory` (3600 units) |
+| Stella Rosevelt | have | PG 70696, `gsheldon-stella-rosevelt` (3405 units) |
+| Thrice wedded, but only once a wife | have | PG 70837, `gsheldon-thrice-wedded-but-only-once-a-wife` (2563 units) |
+| Earle Wayne's nobility | have | PG 70862, `gsheldon-earle-waynes-nobility` (4442 units) |
+| Brownie's triumph | have | PG 71118, `gsheldon-brownies-triumph` (3573 units) |
+| Wedded by fate | have | PG 76066, `gsheldon-wedded-by-fate` (3741 units) |
+| The lily of Mordaunt | have | PG 78682, `gsheldon-lily-of-mordaunt` (3291 units) |
