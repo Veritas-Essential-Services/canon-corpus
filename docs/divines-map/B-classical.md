@@ -9856,3 +9856,12 @@ Shelf: `pipeline/hugh-e-seebohm_shelf.json`. On the Structure of Greek Tribal So
 |---|---|---|---|
 | On the Structure of Greek Tribal Society: an Essay (1895) |  | `seebohm-greek-tribal-society-1895` | have-raw (IA `onstructureofgre00seebiala`) |
 
+
+## C. H. and H. B. Hawes
+
+Shelf: `pipeline/c-h-hawes_shelf.json`. Crete, the Forerunner of Greece (1909). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Crete, the Forerunner of Greece (1909; this printing 1911) |  | `hawes-crete-forerunner-of-greece` | have-raw (IA `creteforerunnero00haweuoft`) |
+
