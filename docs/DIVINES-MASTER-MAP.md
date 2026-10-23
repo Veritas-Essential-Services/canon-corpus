@@ -42466,3 +42466,17 @@ Shelf: `pipeline/katharine-tynan_shelf.json` (2026-10-22; added at the coordinat
 | The Great Captain: A Story of the Days of Sir Walter Raleigh | have | PG 35896, `ktynan-great-captain` (262 units) |
 | Peeps at Many Lands: Ireland | have | PG 43623, `ktynan-peeps-at-many-lands` (180 units) |
 | The handsome Brandons | have | PG 77100, `ktynan-handsome-brandons` (2520 units) |
+
+## J. T. Trowbridge
+
+Shelf: `pipeline/jt-trowbridge_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Boys' books and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Drummer Boy | have | PG 19999, `jttrowbridge-drummer-boy` (1992 units) |
+| The Man Who Stole A Meeting-House 1878, From "Coupon Bonds" | have | PG 23165, `jttrowbridge-man-who-stole-a-meeting-house-1878-from-coupon` (201 units) |
+| The Young Surveyor; Or, Jack on the Prairies | have | PG 28680, `jttrowbridge-young-surveyor` (2034 units) |
+| Cudjo's Cave | have | PG 31406, `jttrowbridge-cudjos-cave` (3085 units) |
+| Father Brighthopes; Or, An Old Clergyman's Vacation | have | PG 33221, `jttrowbridge-father-brighthopes` (1738 units) |
+| A Picture of the Desolated States, and the Work of Restoration. 1865-1868 | have | PG 55127, `jttrowbridge-picture-of-the-desolated-states-and-the-work-of` (3309 units) |
+| A Chance for Himself; or, Jack Hazard and His Treasure | have | PG 56759, `jttrowbridge-chance-for-himself` (1597 units) |

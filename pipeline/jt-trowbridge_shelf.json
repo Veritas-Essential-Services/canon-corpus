@@ -1,0 +1,109 @@
+{
+ "_about": "J. T. Trowbridge: Boys' books and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "J. T. Trowbridge",
+ "_name_words": [
+  "trowbridge"
+ ],
+ "_surname": [
+  "trowbridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jttrowbridge-drummer-boy": [
+   19999,
+   "The Drummer Boy"
+  ],
+  "jttrowbridge-man-who-stole-a-meeting-house-1878-from-coupon": [
+   23165,
+   "The Man Who Stole A Meeting-House 1878, From \"Coupon Bonds\""
+  ],
+  "jttrowbridge-young-surveyor": [
+   28680,
+   "The Young Surveyor; Or, Jack on the Prairies"
+  ],
+  "jttrowbridge-cudjos-cave": [
+   31406,
+   "Cudjo's Cave"
+  ],
+  "jttrowbridge-father-brighthopes": [
+   33221,
+   "Father Brighthopes; Or, An Old Clergyman's Vacation"
+  ],
+  "jttrowbridge-picture-of-the-desolated-states-and-the-work-of": [
+   55127,
+   "A Picture of the Desolated States, and the Work of Restoration. 1865-1868"
+  ],
+  "jttrowbridge-chance-for-himself": [
+   56759,
+   "A Chance for Himself; or, Jack Hazard and His Treasure"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jttrowbridge-drummer-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-man-who-stole-a-meeting-house-1878-from-coupon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-young-surveyor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-cudjos-cave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-father-brighthopes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-picture-of-the-desolated-states-and-the-work-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jttrowbridge-chance-for-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trowbridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
