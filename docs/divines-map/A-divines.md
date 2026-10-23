@@ -10512,3 +10512,16 @@ Slugs `cadogan-*`. Built from title pages read for round 43.
 | Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
 | The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
 | ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |
+
+## Francis Atterbury (round 44, my pick, 2026-10-22)
+
+Slugs `atterbury-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons and Discourses on Several Subjects and Occasions, vol. 1 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_1` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 2 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_2` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 3 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_3` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 4 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_4` |
+| Other printings of the Sermons (1723-1774); the Epistolary Correspondence (Nichols, 1783-1787), letters to and from him with editorial notes, left for a later round | alternate | not shelved |
+| Lewis Atterbury's Sermons (his brother); the Virgil translation volumes; the Convocation pamphlets of 1700-1702 (church politics) | excluded | |
