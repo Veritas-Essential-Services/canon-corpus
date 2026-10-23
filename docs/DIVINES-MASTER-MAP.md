@@ -14431,6 +14431,18 @@ Slugs `medley-*`. Built from title pages read for round 82.
 | Four charges to the clergy of the diocese, by John, Lord Bishop of Fredericton : at his triennial visitations, holden in Christ Church Cathedral, Fredericton, 1853, 1856, 1859, 1862 (Oxford : H. Hammans; London : Rivingtons, 1863) | have-ocr | IA `cihm_23054` |
 | The book of Job : with an introduction, a summary of each chapter, and brief notes in explanation of obscure passages (St. John, N.B. [s.n.], 1879) | have-ocr | IA `cihm_05195` |
 | his share in the Library of the Fathers translation of Chrysostom on 1 Corinthians (1839), which belongs with that series; pamphlets of under 60 pages | excluded | |
+
+## Edward Hartley Dewart (round 82, my pick, 2026-10-23)
+
+Slugs `dewart-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Living epistles, or, Christ's witnesses in the world : also, an essay on Christianity and skepticism (Toronto : Christian Guardian Office, 1878) | have-ocr | IA `livingepistlesor00dewa` |
+| Jesus the Messiah in prophecy and fulfilment : a review and refutation of the negative theory of messianic prophecy (Toronto : W. Briggs, 1891) | have-ocr | IA `jesusthemessiah00dewauoft` |
+| Essays for the times : studies of eminent men and important living questions (Toronto : W. Briggs, 1898) | have-ocr | IA `essaysforthetime00dewauoft` |
+| The Bible under higher criticism : a review of current evolution theories about the Old Testament (Toronto : W. Briggs, 1900) | have-ocr | IA `bibleunderhigher00dewa` |
+| Selections from Canadian Poets (an anthology he edited), his own verse (Songs of Life), The Canadian Speaker (a school reader) and The Canadian Methodist Pulpit (sermons by many) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
