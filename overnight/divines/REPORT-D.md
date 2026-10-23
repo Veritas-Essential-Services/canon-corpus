@@ -2144,3 +2144,6 @@
 
 ## 2026-10-22 22:45 CDT — florence-l-barclay: done
 - florence-l-barclay: new shelf, 8 Gutenberg books, 12,680 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:46 CDT — opie-read: one name-gate refusal cleared
+- opie-read: new shelf, 10 Gutenberg books, 16,281 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags (Up Terrapin River checks for his full name, as its Gutenberg header gives it).

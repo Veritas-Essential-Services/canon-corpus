@@ -15713,7 +15713,7 @@ Shelf: `pipeline/opie-read_shelf.json` (2026-10-22; added at the coordinator's r
 | The Jucklins: A Novel | have | PG 26499, `oread-jucklins` (1373 units) |
 | A Yankee from the West: A Novel | have | PG 33773, `oread-yankee-from-the-west` (1940 units) |
 | Bolanyo | have | PG 38826, `oread-bolanyo` (1204 units) |
-| Up Terrapin River | pending | PG 44879, `oread-up-terrapin-river` (fetch failed) |
+| Up Terrapin River | have | PG 44879, `oread-up-terrapin-river` (1194 units) |
 | Judge Elbridge | have | PG 46699, `oread-judge-elbridge` (1794 units) |
 | My Young Master: A Novel | have | PG 59834, `oread-my-young-master` (1333 units) |
 
