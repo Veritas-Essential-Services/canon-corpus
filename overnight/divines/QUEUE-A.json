@@ -10756,6 +10756,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:42:09-05:00",
       "notes": "4 books, 1910-1917."
+    },
+    {
+      "id": "a-samuel-zane-batten",
+      "status": "done",
+      "scope": "round 131",
+      "added": "2026-10-23T09:42:10-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:42:10-05:00",
+      "notes": "8 books, 1898-1923."
     }
   ]
 }

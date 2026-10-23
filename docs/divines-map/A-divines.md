@@ -19125,3 +19125,20 @@ Slugs `strahan-*`. Built from title pages read for round 131.
 | the law books are by James Andrew Strahan, a barrister | excluded | |
 | the Maréchale and Mary Crawford Brown biographies: not certain they are by the same James Strahan | excluded | |
 | the 1902 and 1906 editions of Hebrew Ideals | excluded | |
+
+## Samuel Zane Batten (round 131, my pick, 2026-10-23)
+
+Slugs `batten-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| The new citizenship; Christian character in its Biblical ideals, sources, and relations (Philadelphia, The Union press, 1898) | have-ocr | IA `newcitizenshipch00batt` |
+| The Christian state; the state, democracy and Christianity (Philadelphia, Griffith & Rowland Press, 1909) | have-ocr | IA `christianstatest00batt` |
+| The social task of Christianity; a summons to the new crusade (New York, F.H. Revell Co, 1911) | have-ocr | IA `socialtaskofchri00batt` |
+| The moral meaning of the war : a prophetic interpretation (Philadelphia : American Baptist Publication Society, 1918) | have-ocr | IA `moralmeaningofwa0000batt` |
+| The New World Order (catalogued 1919) | have-ocr | IA `newworldorder0000samu` |
+| If America fail; our national mission and our possible future (Philadelpia, Boston [etc.] The Judson Press, 1922) | have-ocr | IA `ifamericafailour00batt` |
+| Building a community (Philadelpia, Pa. : Judson Press, 1922) | have-ocr | IA `buildingcommuni00batt` |
+| Why not try Christianity? (New York, George H. Doran company, 1923) | have-ocr | IA `whynottrychristi00batt` |
+| single journal articles | excluded | |
+| microform and other scans of the same books | excluded | |
