@@ -16143,6 +16143,28 @@ Slugs `faunce-*`. Built from title pages read for round 99.
 | The social aspects of foreign missions (New York : Missionary Education Movement of the U.S. and Canada, 1914) | have-ocr | IA `thesocialaspects00faunuoft` |
 | Religion and war (New York, Cincinnati, The Abingdon press, 1918) | have-ocr | IA `religionwar00faun` |
 | The new horizon of state and church (New York : Macmillan, 1918) | have-ocr | IA `newhorizonofstat00faunrich` |
+
+## Cleland B. McAfee (round 99, my pick, 2026-10-23)
+
+Slugs `mcafee-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| Where He is (Chicago, New York [etc.], Fleming H. Revell Company, 1899) | have-ocr | IA `whereheis00mcaf` |
+| The growing church : a study for the times (Chicago : Winona Publishing Company, 1903) | have-ocr | IA `growingchurchstu00mcaf` |
+| The worth of a man (Chicago, Ill., Winona Lake, Ind., The Winona publishing company, 1903) | have-ocr | IA `worthofman00mcaf` |
+| The Mosaic law in modern life (New York : F.H. Revell, c190) | have-ocr | IA `mosaiclawinmoder00mcafrich` |
+| Studies in the Sermon On the Mount (catalogued 1910) | have-ocr | IA `studiesinsermono0000clel` |
+| The greatest English classic; a study of the King James version of the Bible and its influence on life and literature (New York, Harper, 1912) | have-ocr | IA `greatestenglishckjv00mcaf` |
+| "His peace," (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `hispeace00mcaf` |
+| The old and the new in theology : an address (New York : [publisher not identified], 1913) | have-ocr | IA `oldnewintheology00mcaf` |
+| The Westminster confession of faith and the present task of the church (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `westminsterconfe0000mcaf` |
+| Psalms of the social life (New York [etc.] Association press, 1917) | have-ocr | IA `psalmsofsocialli00mcaf` |
+| The Christian faith and the new day (New York : Macmillan, 1920) | have-ocr | IA `christianfaithne00mcaf` |
+| The Christian conviction: lectures on the Joseph Cook Foundation, 1924-25 (Macmillan, 1926) | have-ocr | IA `christianconvict0000clel` |
+| Changing foreign missions; a revaluation of the church's greatest enterprise (New York ; Chicago [etc.] : Fleming H. Revell company, 1927) | have-ocr | IA `changingforeignm00mcaf` |
+| Ministerial practices, some fraternal suggestions (New York, London, Harper & brothers, 1928) | have-ocr | IA `ministerialpract0000mcaf` |
+| The Christian message and program, twelve studies for class use or personal reading (Philadelphia : Printed for the Leadership training publishing association by the Westminster press, 1929) | have-ocr | IA `christianmessage00mcaf` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
