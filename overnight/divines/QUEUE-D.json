@@ -3893,6 +3893,14 @@
       "started": "2026-10-22T22:15:18-05:00",
       "finished": "2026-10-22T22:15:18-05:00",
       "notes": "the-duchess: new shelf, 20 Gutenberg books, 40,366 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch."
+    },
+    {
+      "id": "hall-caine",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hall Caine; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:21-05:00",
+      "finished": "2026-10-22T22:15:21-05:00",
+      "notes": "hall-caine: new shelf, 20 Gutenberg books, 60,656 units, 18926 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

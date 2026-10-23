@@ -13309,3 +13309,31 @@ Shelf: `pipeline/the-duchess_shelf.json` (2026-10-22; added at the coordinator's
 | The professor's experiment: A novel, Vol. 1 (of 3) | have | PG 69494, `duchess-professors-experiment` (2318 units) |
 | The professor's experiment: A novel, Vol. 2 (of 3) | have | PG 69495, `duchess-professors-experiment-69495` (1329 units) |
 | The professor's experiment: A novel, Vol. 3 (of 3) | have | PG 69496, `duchess-professors-experiment-69496` (1279 units) |
+
+## Hall Caine
+
+Shelf: `pipeline/hall-caine_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scapegoat | have | PG 1303, `hcaine-scapegoat` (1517 units) |
+| The Christian: A Story | have | PG 8407, `hcaine-christian` (4804 units) |
+| The Shadow of a Crime: A Cumbrian Romance | have | PG 14262, `hcaine-shadow-of-a-crime` (3770 units) |
+| The Woman Thou Gavest Me; Being the Story of Mary O'Neill | have | PG 14597, `hcaine-woman-thou-gavest-me` (6696 units) |
+| The Eternal City | have | PG 19732, `hcaine-eternal-city` (5755 units) |
+| The Manxman : a novel | have | PG 25570, `hcaine-manxman` (5497 units) |
+| The Little Manx Nation - 1891 | have | PG 25571, `hcaine-little-manx-nation-1891` (206 units) |
+| Capt'n Davy's Honeymoon | have | PG 25572, `hcaine-captn-davys-honeymoon` (1011 units) |
+| The Drama Of Three Hundred & Sixty-Five Days: Scenes In The Great War | have | PG 25573, `hcaine-drama-of-three-hundred-sixty-five-days` (236 units) |
+| Recollections of Dante Gabriel Rossetti | have | PG 25574, `hcaine-recollections-of-dante-gabriel-rossetti` (661 units) |
+| A Son of Hagar: A Romance of Our Time | have | PG 26088, `hcaine-son-of-hagar` (5212 units) |
+| The Bondman: A New Saga | have | PG 33999, `hcaine-bondman` (3439 units) |
+| The Blind Mother, and The Last Confession | have | PG 35140, `hcaine-blind-mother-and-the-last-confession` (663 units) |
+| The Deemster | have | PG 35781, `hcaine-deemster` (2933 units) |
+| She's All the World to Me | have | PG 35786, `hcaine-shes-all-the-world-to-me` (1142 units) |
+| The Prodigal Son | have | PG 51950, `hcaine-prodigal-son` (4429 units) |
+| The White Prophet, Volume 1 (of 2) | have | PG 52342, `hcaine-white-prophet-volume-1-of-2` (2698 units) |
+| The White Prophet, Volume 2 (of 2) | have | PG 52343, `hcaine-white-prophet-volume-2-of-2` (2819 units) |
+| The Master of Man: The Story of a Sin | have | PG 61865, `hcaine-master-of-man` (6076 units) |
+| The Woman of Knockaloe: A Parable | have | PG 66932, `hcaine-woman-of-knockaloe` (1092 units) |
+| pg-29430 | excluded | PG 29430: Gutenberg's index of the author's works, not a book. |

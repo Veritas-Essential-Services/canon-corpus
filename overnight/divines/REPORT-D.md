@@ -1743,3 +1743,6 @@
 
 ## 2026-10-22 22:15 CDT — the-duchess: done
 - the-duchess: new shelf, 20 Gutenberg books, 40,366 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.
+
+## 2026-10-22 22:15 CDT — hall-caine: done
+- hall-caine: new shelf, 20 Gutenberg books, 60,656 units, 18926 ~2 ids; verify 0 mismatches, 0 rights flags.
