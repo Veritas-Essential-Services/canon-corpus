@@ -18436,6 +18436,23 @@ Shelf: `pipeline/james-augustus-st-john_shelf.json`. Manners and Customs of Anci
 | The History of the Manners and Customs of Ancient Greece, vol. 2 |  | `st-john-manners-customs-greece-v2-pg` | have (PG 67637) |
 | The History of the Manners and Customs of Ancient Greece, vol. 3 |  | `st-john-manners-customs-greece-v3-pg` | have (PG 67707) |
 
+
+## George Finlay (1799-1875)
+
+Shelf: `pipeline/george-finlay_shelf.json`. History of Greece B.C. 146 to A.D. 1864, Tozer's 1877 edition, 7 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. I: Greece under the Romans (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v1-1877` | have-raw (IA `historyofgreecef01finl`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. II: The Byzantine Empire, part 1 (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v2-1877` | have-raw (IA `historyofgreecef02finl`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. III: The Byzantine Empire, part 2 (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v3-1877` | have-raw (IA `historyofgreecef03finl`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. IV: Mediaeval Greece and Trebizond (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v4-1877` | have-raw (IA `historyofgreecef04finl`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. V: Greece under Othoman and Venetian Domination (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v5-1877` | have-raw (IA `historyofgreecef05finl`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. VI: The Greek Revolution, part 1 (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v6-1877` | have-raw (IA `historyofgreecef06finluoft`) |
+| A History of Greece from its Conquest by the Romans to the Present Time, vol. VII: The Greek Revolution, part 2, and the Kingdom of Greece (ed. H. F. Tozer, Oxford, 1877) |  | `finlay-history-greece-v7-1877` | have-raw (IA `historyofgreecef07finluoft`) |
+
+Excluded: Greece under the Romans (1844), History of the Byzantine Empire (1853), Greek Revolution (1861) etc. (absorbed into the 1877 collected edition held here)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

@@ -1,0 +1,128 @@
+{
+ "_about": "George Finlay (1799-1875): A History of Greece from its Conquest by the Romans to the Present Time, B.C. 146 to A.D. 1864, the 1877 Oxford edition revised by H. F. Tozer, complete in 7 vols. The earlier separate histories it absorbed are not taken.",
+ "_author": "George Finlay (1799-1875)",
+ "_name_words": [
+  "finlay",
+  "greece",
+  "romans",
+  "byzantine",
+  "conquest"
+ ],
+ "_surname": [
+  "finlay"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "finlay-history-greece-v1-1877": [
+   "historyofgreecef01finl",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. I: Greece under the Romans (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v2-1877": [
+   "historyofgreecef02finl",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. II: The Byzantine Empire, part 1 (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v3-1877": [
+   "historyofgreecef03finl",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. III: The Byzantine Empire, part 2 (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v4-1877": [
+   "historyofgreecef04finl",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. IV: Mediaeval Greece and Trebizond (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v5-1877": [
+   "historyofgreecef05finl",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. V: Greece under Othoman and Venetian Domination (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v6-1877": [
+   "historyofgreecef06finluoft",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. VI: The Greek Revolution, part 1 (ed. H. F. Tozer, Oxford, 1877)"
+  ],
+  "finlay-history-greece-v7-1877": [
+   "historyofgreecef07finluoft",
+   "A History of Greece from its Conquest by the Romans to the Present Time, vol. VII: The Greek Revolution, part 2, and the Kingdom of Greece (ed. H. F. Tozer, Oxford, 1877)"
+  ]
+ },
+ "_excluded": {
+  "Greece under the Romans (1844), History of the Byzantine Empire (1853), Greek Revolution (1861) etc.": "absorbed into the 1877 collected edition held here"
+ },
+ "_checks": {
+  "finlay-history-greece-v1-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "finlay-history-greece-v2-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "finlay-history-greece-v3-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "finlay-history-greece-v4-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "finlay-history-greece-v5-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "finlay-history-greece-v6-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "finlay-history-greece-v7-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "finlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
