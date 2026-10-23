@@ -38877,3 +38877,28 @@ Shelf: `pipeline/elinor-glyn_shelf.json` (2026-10-22; added at the coordinator's
 | The Career of Katherine Bush | have | PG 40893, `eglyn-career-of-katherine-bush` (2846 units) |
 | Your Affectionate Godmother | have | PG 49715, `eglyn-your-affectionate-godmother` (275 units) |
 | The Vicissitudes of Evangeline | have | PG 51644, `eglyn-vicissitudes-of-evangeline` (1482 units) |
+
+## Ethel M. Dell
+
+Shelf: `pipeline/ethel-m-dell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bars of Iron | have | PG 10509, `emdell-bars-of-iron` (4771 units) |
+| The Obstacle Race | have | PG 11520, `emdell-obstacle-race` (3303 units) |
+| The Top of the World | have | PG 12360, `emdell-top-of-the-world` (3301 units) |
+| The Knave of Diamonds | have | PG 12484, `emdell-knave-of-diamonds` (3871 units) |
+| The Way of an Eagle | have | PG 12516, `emdell-way-of-an-eagle` (2927 units) |
+| Greatheart | have | PG 13497, `emdell-greatheart` (4404 units) |
+| The Rocks of Valpré | have | PG 13547, `emdell-rocks-of-valpr` (4929 units) |
+| The Tidal Wave and Other Stories | have | PG 13553, `emdell-tidal-wave-and-other-stories` (2649 units) |
+| The Lamp in the Desert | have | PG 13763, `emdell-lamp-in-the-desert` (3335 units) |
+| Rosa Mundi and Other Stories | have | PG 13774, `emdell-rosa-mundi-and-other-stories` (3288 units) |
+| Charles Rex | have | PG 13960, `emdell-charles-rex` (3327 units) |
+| The Keeper of the Door | have | PG 15013, `emdell-keeper-of-the-door` (6122 units) |
+| The Odds And Other Stories | have | PG 16380, `emdell-odds-and-other-stories` (3099 units) |
+| The Safety Curtain, and Other Stories | have | PG 16651, `emdell-safety-curtain-and-other-stories` (2956 units) |
+| The Swindler and Other Stories | have | PG 18644, `emdell-swindler-and-other-stories` (3726 units) |
+| The Hundredth Chance | have | PG 43069, `emdell-hundredth-chance` (4770 units) |
+| Tetherstones | have | PG 59181, `emdell-tetherstones` (3025 units) |
+| The gate marked "Private" | have | PG 79556, `emdell-gate-marked-private` (3131 units) |
