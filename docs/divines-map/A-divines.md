@@ -16359,3 +16359,27 @@ Slugs `wjdawson-*`. Built from title pages read for round 101.
 | The book of courage (New York, F. H. Revell, 1911) | have-ocr | IA `bookcourage00dawsgoog` |
 | The man Christ Jesus; a life of Christ (New York London : The Century co., 1925) | have-ocr | IA `manchristjesusli00daws` |
 | Poems, novels (A Prophet in Babylon, The War Eagle and others) and the Makers of English handbooks: not theology | excluded | |
+
+## John R. Mott (round 102, my pick, 2026-10-23)
+
+Slugs `mott-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| History of the Student Volunteer Movement for Foreign Missions ([Place of publication not identified] : [publisher not identified], 1892) | have-ocr | IA `historyofstudent00mott` |
+| Strategic points in the world's conquest (New York : Revell, 1897) | have-ocr | IA `strategicpointsi0000mott` |
+| Two hundred million young men in non-Christian lands / [John R. Mott] ([S.l.: s.n.], 1899) | have-ocr | IA `twohundredmillio00mott` |
+| The evangelization of the world in this generation (New York, Student volunteer movement for foreign missions, 1900) | have-ocr | IA `evangelizationw00goog` |
+| The power of Jesus Christ in the life of the student (New York : Board of Education of the Methodist Episcopal Church, 1900) | have-ocr | IA `powerofjesuschri00mott` |
+| The enlargement of the native arm of the service essential to the highest success of missions. : [Address given at the 93. annual meeting of the board, held at Oberlin, Ohio, 1902] (Boston : American Board of Commissioners for Foreign Missions, 1902) | have-ocr | IA `enlargementofnat00mott` |
+| The students of North American united (New York, International Committee of Young Men's Christian Associations, 1903) | have-ocr | IA `studentsofnortha00mott` |
+| The pastor and modern missions : a plea for leadership in world evangelization (New York : Student Volunteer Movement for Foreign Missions, 1904) | have-ocr | IA `pastormodernmis00mott` |
+| The world's evangelization : the obligation of the church of this generation ([Place of publication not identified] : [Laymen's Missionary Movement], 1907) | have-ocr | IA `worldsevangeliza00mott` |
+| The future leadership of the church (Student volunteer movement for foreign missions, 1908) | have-ocr | IA `futureleadership0000john` |
+| Chinese student migration to Tokyo (New York : Foreign Department, International Committee, Young Men's Christian Association, 1908) | have-ocr | IA `chinesestudentmi00mott_0` |
+| How may Jesus Christ be made a reality to me / John R. Mott (New York : Young Men's Christian Association Press, 1908) | have-ocr | IA `howmayjesuschris00mott` |
+| Consecration : an address delivered at the Student Volunteer Conference, held at Liverpool, England, Jan. 2-7, 1908 (New York : Student Volunteer Movement, 1908) | have-ocr | IA `consecrationaddr00mott` |
+| The urgency and crisis in the Far East (New York, Board of Foreign Missions of the Methodist Episcopal Church, 1908) | have-ocr | IA `urgencycrisis00mott` |
+| The decisive hour of Christian missions (New York : Student Volunteer Movement for Foreign Missions, 1910) | have-ocr | IA `decisivehourofch0000mott` |
+| The Continuation Committee (Edinburgh : International Missionary Council, 1910) | have-ocr | IA `continuationcomm00mott` |
+| Men and Religion (1911, several authors) | excluded | |
