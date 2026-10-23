@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Henry Rogers (1806-1877), Congregational apologist and essayist, for the Word Hoard: Reason and Faith (1850), The Life and Character of John Howe (1836; 1850 printing), Essays selected from the Edinburgh Review (1850), The Eclipse of Faith (1853), A Defence of the Eclipse of Faith (1854) and Selections from the Correspondence of R. E. H. Greyson (1857). from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rogers"
+ ],
+ "_surname": [
+  "henry rogers",
+  "h. rogers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hrogers-reason-and-faith": [
+   "reasonfaiththeir00roge",
+   "Reason and faith : their claims and conflicts, with an appendix, containing some additional remarks on the characteristics of Strauss' \"Life of Jesus (London : Longman, Brown, Green, and Longmans, 1850)"
+  ],
+  "hrogers-john-howe": [
+   "lifeandcharacte03rogegoog",
+   "The life and character of John Howe, with an analysis of his writings (London, 1850)"
+  ],
+  "hrogers-essays": [
+   "essaysselectedf00rogegoog",
+   "Essays, selected from contributions to the Edinburgh review (London, Longman, 1850)"
+  ],
+  "hrogers-eclipse-of-faith": [
+   "eclipseoffaithor00roge_0",
+   "The eclipse of faith, or, A visit to a religious sceptic (Boston : Crosby, Nichols, 1853)"
+  ],
+  "hrogers-defence-eclipse": [
+   "defenceoftheecli00roge",
+   "A defence of \"The eclipse of faith\" (Boston : Crosby, Nichols, 1854)"
+  ],
+  "hrogers-greyson-letters": [
+   "greysonlettersse00roge",
+   "The Greyson letters: selections from the correspondence of R. E. H. Greyson, esq. [pseud.] (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & Co.; [etc., etc.], 1857)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hrogers-other": "Henry Rogers the American geologist and other Henry Rogerses"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hrogers-defence-eclipse": "published anonymously: title page 'A Defence of \"The Eclipse of Faith,\" by its author'; the Princeton library card reads 'Rogers, Henry, 1806-1877', and The Eclipse of Faith on this shelf is his"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hrogers-reason-and-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrogers-john-howe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hrogers-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hrogers-eclipse-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrogers-defence-eclipse": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hrogers-greyson-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

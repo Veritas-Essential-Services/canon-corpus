@@ -12350,3 +12350,17 @@ Slugs `rvaughan-*`. Built from title pages read for round 59.
 | Essays on history, philosophy, and theology, vol. 1 (London : Jackson and Walford, 1849) | have-ocr | IA `essaysonhistoryp01vaug` |
 | John de Wycliffe : a monograph, with some account of the Wycliffe mss. in Oxford, Cambridge, the British museum, Lambeth palace, and Trinity college, Dublin (London : Seeleys, 1853) | have-ocr | IA `johndewycliffemo00vaug` |
 | His son Robert Alfred Vaughan (1823-1857): Hours with the Mystics and the Essays and Remains (with a memoir by his father) | excluded | |
+
+## Henry Rogers (1806-1877) (round 59, my pick, 2026-10-23)
+
+Slugs `hrogers-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Reason and faith : their claims and conflicts, with an appendix, containing some additional remarks on the characteristics of Strauss' "Life of Jesus (London : Longman, Brown, Green, and Longmans, 1850) | have-ocr | IA `reasonfaiththeir00roge` |
+| The life and character of John Howe, with an analysis of his writings (London, 1850) | have-ocr | IA `lifeandcharacte03rogegoog` |
+| Essays, selected from contributions to the Edinburgh review (London, Longman, 1850) | have-ocr | IA `essaysselectedf00rogegoog` |
+| The eclipse of faith, or, A visit to a religious sceptic (Boston : Crosby, Nichols, 1853) | have-ocr | IA `eclipseoffaithor00roge_0` |
+| A defence of "The eclipse of faith" (Boston : Crosby, Nichols, 1854) | have-ocr | IA `defenceoftheecli00roge` |
+| The Greyson letters: selections from the correspondence of R. E. H. Greyson, esq. [pseud.] (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & Co.; [etc., etc.], 1857) | have-ocr | IA `greysonlettersse00roge` |
+| Henry Rogers the American geologist and other Henry Rogerses | excluded | |
