@@ -1,0 +1,209 @@
+{
+ "_about": "Public-domain J. W. McGarvey (1829-1911), President of the College of the Bible, Lexington, Kentucky, and a leader of the Restoration Movement, for the Word Hoard: A Commentary on Acts of Apostles (1863), New Commentary on Acts of Apostles (2 vols., 1892), Lands of the Bible (1880; a printing of 1882), Evidences of Christianity (1886), Sermons Delivered in Louisville (1894), Jesus and Jonah (1896), A Guide to Bible Study (1897), The Authorship of the Book of Deuteronomy (1902), Short Essays in Biblical Criticism (1910), and, with Philip Y. Pendleton, The Fourfold Gospel (1914) and Thessalonians, Corinthians, Galatians, and Romans (1916). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 68 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mcgarvey",
+  "m'garvey"
+ ],
+ "_surname": [
+  "mcgarvey",
+  "m'garvey",
+  "garvey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcgarvey-acts-1863": [
+   "commentaryonacts00mcga",
+   "A Commentary on Acts of Apostles (Cincinnati: Wrightson, 1863)"
+  ],
+  "mcgarvey-new-acts-1892-v1": [
+   "newcommentaryona01mcga",
+   "New Commentary on Acts of Apostles, vol. 1 (Cincinnati: Standard, 1892)"
+  ],
+  "mcgarvey-new-acts-1892-v2": [
+   "newcommentaryona02mcga",
+   "New Commentary on Acts of Apostles, vol. 2 (Cincinnati: Standard, 1892)"
+  ],
+  "mcgarvey-lands-bible-1880": [
+   "landsofbible0000jwmc",
+   "Lands of the Bible, sixteenth thousand (title page: '... & Co. London: 16 Southampton Street, Strand. 1882'; first published 1880)"
+  ],
+  "mcgarvey-evidences-1886": [
+   "evidencesofchris00mcga",
+   "Evidences of Christianity (Cincinnati: Guide, 1886)"
+  ],
+  "mcgarvey-louisville-sermons-1894": [
+   "sermonsdelivered00mcga",
+   "Sermons Delivered in Louisville, Kentucky, June-September, 1893 (1894)"
+  ],
+  "mcgarvey-jesus-jonah-1896": [
+   "jesusjonah00mcga",
+   "Jesus and Jonah (Cincinnati: Standard, 1896)"
+  ],
+  "mcgarvey-guide-bible-study-1897": [
+   "aguidetobiblestu00mcgauoft",
+   "A Guide to Bible Study (Cleveland: Bethany C.E., 1897)"
+  ],
+  "mcgarvey-deuteronomy-1902": [
+   "authorshipofbook00mcga",
+   "The Authorship of the Book of Deuteronomy (Cincinnati: Standard, 1902)"
+  ],
+  "mcgarvey-short-essays-1910": [
+   "shortessaysinbib00mcga",
+   "Short Essays in Biblical Criticism (Cincinnati: Standard, 1910)"
+  ],
+  "mcgarvey-fourfold-gospel-1914": [
+   "fourfoldgospelor0000jwmc_m2n6",
+   "The Fourfold Gospel, or A Harmony of the Four Gospels, with Philip Y. Pendleton (Cincinnati: Standard, copyright 1914; this printing undated)"
+  ],
+  "mcgarvey-thessalonians-romans-1916": [
+   "thessalonianscor00mcga",
+   "Thessalonians, Corinthians, Galatians, and Romans, with Philip Y. Pendleton (Cincinnati: Standard, 1916)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcgarvey-other": "later reprints of the Acts commentaries (1887, 1909 and undated 0000 copies), duplicates of the printings shelved"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mcgarvey-jesus-jonah-1896": "title page OCR reads 'JESUS AND JONAH ... BY J. W. McGAEYEY President of the College of the Bible' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcgarvey-acts-1863": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcgarvey-new-acts-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-new-acts-1892-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-lands-bible-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcgarvey-evidences-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-louisville-sermons-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcgarvey-jesus-jonah-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-guide-bible-study-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-deuteronomy-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-short-essays-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcgarvey-fourfold-gospel-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcgarvey-thessalonians-romans-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcgarvey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

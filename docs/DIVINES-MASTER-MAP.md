@@ -13222,6 +13222,26 @@ Slugs `jenyns-*`. Built from title pages read for round 68.
 | A Free Inquiry into the Nature and Origin of Evil, in six letters, third edition, amended (London: R. and J. Dodsley, 1758) | have-ocr | IA `afreeinquiryint01jenygoog` |
 | Poems upon Various Subjects, Latin and English (London: J. Nourse, 1768) | have-ocr | IA `poemsuponvariou00jenygoog` |
 | Thoughts on the Causes and Consequences of the Present High Price of Provisions (London: J. Dodsley, 1767): anonymous, its title page names no author, and it is an economic pamphlet, not theology | excluded | |
+
+## J. W. McGarvey (round 68, my pick, 2026-10-23)
+
+Slugs `mcgarvey-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on Acts of Apostles (Cincinnati: Wrightson, 1863) | have-ocr | IA `commentaryonacts00mcga` |
+| New Commentary on Acts of Apostles, vol. 1 (Cincinnati: Standard, 1892) | have-ocr | IA `newcommentaryona01mcga` |
+| New Commentary on Acts of Apostles, vol. 2 (Cincinnati: Standard, 1892) | have-ocr | IA `newcommentaryona02mcga` |
+| Lands of the Bible, sixteenth thousand (title page: '... & Co. London: 16 Southampton Street, Strand. 1882'; first published 1880) | have-ocr | IA `landsofbible0000jwmc` |
+| Evidences of Christianity (Cincinnati: Guide, 1886) | have-ocr | IA `evidencesofchris00mcga` |
+| Sermons Delivered in Louisville, Kentucky, June-September, 1893 (1894) | have-ocr | IA `sermonsdelivered00mcga` |
+| Jesus and Jonah (Cincinnati: Standard, 1896) | have-ocr | IA `jesusjonah00mcga` |
+| A Guide to Bible Study (Cleveland: Bethany C.E., 1897) | have-ocr | IA `aguidetobiblestu00mcgauoft` |
+| The Authorship of the Book of Deuteronomy (Cincinnati: Standard, 1902) | have-ocr | IA `authorshipofbook00mcga` |
+| Short Essays in Biblical Criticism (Cincinnati: Standard, 1910) | have-ocr | IA `shortessaysinbib00mcga` |
+| The Fourfold Gospel, or A Harmony of the Four Gospels, with Philip Y. Pendleton (Cincinnati: Standard, copyright 1914; this printing undated) | have-ocr | IA `fourfoldgospelor0000jwmc_m2n6` |
+| Thessalonians, Corinthians, Galatians, and Romans, with Philip Y. Pendleton (Cincinnati: Standard, 1916) | have-ocr | IA `thessalonianscor00mcga` |
+| later reprints of the Acts commentaries (1887, 1909 and undated 0000 copies), duplicates of the printings shelved | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
