@@ -17863,3 +17863,22 @@ Slugs `eby-*`. Built from title pages read for round 118.
 | Methodism and the missionary problem (Toronto : W. Briggs; Toronto : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_59547` |
 | Sermon on the Mount : the charter of the Kingdom (Toronto : Canadian Citizens' League of the International Reform Bureau, 1907) | have-ocr | IA `cihm_86079` |
 | bwb_C0-BYJ-403 (1943, another Eby) | excluded | |
+
+## F. N. Peloubet (round 119, my pick, 2026-10-23)
+
+Slugs `peloubet-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Lord, increase our faith (Cook and Sons, 1876) | have-ocr | IA `lordincreaseourf00pelo` |
+| Select notes on the International Sabbath school lessons for 1877. Explanatory, illustrative, and practical, with maps and table of the signification and pronunciation of proper names (Boston : H. Hoyt, 1876) | have-ocr | IA `cu31924029340191` |
+| Peloubet's select notes on the International Bible lessons for Christian teching, uniform series (Boston [etc.] W. A. Wilde Co. [etc.], 1879) | have-ocr | IA `selectnotesonin01unkngoog` |
+| Suggestive illustrations on the Gospel according to Matthew; illustrations from all sources, picturesque Greek words, library references to further illustrations, photographs of celebrated pictures referred to, for the use of leaders of prayer-meetings, Christian endeavorers, Sunday-school teachers, pastors (New York, E. R. Herrick & company, 1897) | have-ocr | IA `suggestiveillu00pelo` |
+| Suggestive illustrations on the Gospel of John : illustrations from all sources, picturesque Greek words, library references to further illustrations, references to celebrated pictures : for the use of pastors, Sunday-school teachers, leaders of prayer-meetings, and the home (New York : E.R. Herrick, c189) | have-ocr | IA `suggestiveillust00pelouoft` |
+| Suggestive illustrations on the Acts of the Apostles (New York : E. R. Herrick & Co., 1898) | have-ocr | IA `suggestiveillust00pelo_0` |
+| SELECT NOTES ON THE INTERNATIONAL LESSONS FOR 1900 (catalogued 1899) | have-ocr | IA `bwb_T4-AKC-398` |
+| Peloubet's Select Notes on the International Sunday School Lessons 1901 (W. A. Wilde, 1900) | have-ocr | IA `peloubetsselectn0000fnpe` |
+| The teachers' commentary on the Acts of the Apostles (New York, Oxford University Press, 1901) | have-ocr | IA `teacherscomment00pelogoog` |
+| The teachers' commentary on the Gospel according to St. Matthew (New York : Oxford University Press, 1901) | have-ocr | IA `teacherscommenta0000pelo` |
+| The front line of the Sunday school movement; the line of the vanguard of Sunday school progress, with a glimpse of ideals beyond (Boston, W. A. Wilde, 1904) | have-ocr | IA `frontlineofsunda00pelo` |
+| His songbooks and his edition of Smith's Dictionary of the Bible collect other men's work; the Albanian and Russian Bibles are catalogue errors | excluded | |
