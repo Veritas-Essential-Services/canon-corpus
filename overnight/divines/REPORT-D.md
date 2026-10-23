@@ -2245,3 +2245,6 @@
 
 ## 2026-10-22 22:55 CDT — stoker-works: done
 - stoker-works: new shelf, 10 Gutenberg books, 15,338 units, 811 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — forster-works: done
+- forster-works: new shelf, 11 Gutenberg books, 12,778 units, 263 ~2 ids; verify 0 mismatches, 0 rights flags.

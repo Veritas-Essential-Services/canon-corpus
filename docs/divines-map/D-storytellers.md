@@ -16539,3 +16539,23 @@ Shelf: `pipeline/stoker-works_shelf.json` (2026-10-22; added at the coordinator'
 | pg-59671 | excluded | PG 59671: Gutenberg's index of the author's works, not a book. |
 | same-title-elsewhere | excluded | PG 45839 (stoker): another edition of a title already on the named shelf; not taken twice. |
 | held-elsewhere | excluded | PG 345: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## E. M. Forster
+
+Shelf: `pipeline/forster-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Longest Journey | have | PG 2604, `emforster-longest-journey` (2381 units) |
+| A Room with a View | have | PG 2641, `emforster-room-with-a-view` (2159 units) |
+| Howards End | have | PG 2891, `emforster-howards-end` (3146 units) |
+| Where Angels Fear to Tread | have | PG 2948, `emforster-where-angels-fear-to-tread` (1315 units) |
+| The Celestial Omnibus, and Other Stories | have | PG 34089, `emforster-celestial-omnibus-and-other-stories` (896 units) |
+| Alexandria: A History and a Guide | have | PG 57010, `emforster-alexandria` (1295 units) |
+| The Story of the Siren | have | PG 58581, `emforster-story-of-the-siren` (92 units) |
+| Pharos and Pharillon | have | PG 61116, `emforster-pharos-and-pharillon` (252 units) |
+| Aspects of the novel | have | PG 70492, `emforster-aspects-of-the-novel` (380 units) |
+| The eternal moment, and other stories | have | PG 72890, `emforster-eternal-moment-and-other-stories` (822 units) |
+| Anonymity | have | PG 74818, `emforster-anonymity` (40 units) |
+| repeat-editions | excluded | PG 2946: second Gutenberg editions of titles already on the shelf. |
+| held-elsewhere | excluded | PG 61221: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

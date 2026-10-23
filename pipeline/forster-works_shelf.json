@@ -1,0 +1,165 @@
+{
+ "_about": "E. M. Forster: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "E. M. Forster",
+ "_name_words": [
+  "forster"
+ ],
+ "_surname": [
+  "e. m. forster",
+  "forster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emforster-longest-journey": [
+   2604,
+   "The Longest Journey"
+  ],
+  "emforster-room-with-a-view": [
+   2641,
+   "A Room with a View"
+  ],
+  "emforster-howards-end": [
+   2891,
+   "Howards End"
+  ],
+  "emforster-where-angels-fear-to-tread": [
+   2948,
+   "Where Angels Fear to Tread"
+  ],
+  "emforster-celestial-omnibus-and-other-stories": [
+   34089,
+   "The Celestial Omnibus, and Other Stories"
+  ],
+  "emforster-alexandria": [
+   57010,
+   "Alexandria: A History and a Guide"
+  ],
+  "emforster-story-of-the-siren": [
+   58581,
+   "The Story of the Siren"
+  ],
+  "emforster-pharos-and-pharillon": [
+   61116,
+   "Pharos and Pharillon"
+  ],
+  "emforster-aspects-of-the-novel": [
+   70492,
+   "Aspects of the novel"
+  ],
+  "emforster-eternal-moment-and-other-stories": [
+   72890,
+   "The eternal moment, and other stories"
+  ],
+  "emforster-anonymity": [
+   74818,
+   "Anonymity"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 2946: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 61221: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "emforster-longest-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-room-with-a-view": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-howards-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-where-angels-fear-to-tread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-celestial-omnibus-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-alexandria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-story-of-the-siren": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-pharos-and-pharillon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Valassopoulo"
+  },
+  "emforster-aspects-of-the-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-eternal-moment-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emforster-anonymity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
