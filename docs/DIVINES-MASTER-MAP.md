@@ -16285,6 +16285,19 @@ Slugs `sclater-*`. Built from title pages read for round 100.
 | Modernist Fundamentalism (George H. Doran Company, 1926) | have-ocr | IA `modernistfundame0000jrps` |
 | The public worship of God (New York : George H. Doran company, 1927) | have-ocr | IA `publicworshipofg00scla` |
 | God and the Soldier (written with Norman Maclean) | excluded | |
+
+## Christoph Christian Sturm (round 101, my pick, 2026-10-23)
+
+Slugs `sturm-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The beauties of Sturm, in lessons on the works of God, and his providence : rendered familiar to the capacities of youth (London : Printed for James Scatchard [etc.], 1798) | have-ocr | IA `beautiesofsturmi00stur` |
+| Reflections on the works of God in nature and providence, for every day in the year (New York, A. Paul, 1824) | have-ocr | IA `reflectionsonwo00stur` |
+| Contemplations on the sufferings of Jesus Christ : in a series of devotional exercises, with an explanatory paraphrase of the gospel narrative (London : Printed for Baldwin, Cradock, and Joy, 1826) | have-ocr | IA `OnTheSufferingsOfJesus` |
+| bim_eighteenth-century_reflections-on-the-works_sturm-christoph-christi_1788_1: the scan has no title page and its OCR never names Sturm; another printing could replace it | pending | not shelved |
+| Mathesis Enucleata, by the mathematician Johann Christoph Sturm (a different man) | excluded | |
+| Considerations sur les oeuvres de Dieu (French translation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

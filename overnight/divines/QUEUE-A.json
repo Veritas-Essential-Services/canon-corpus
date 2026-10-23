@@ -9226,6 +9226,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T06:52:23-05:00",
       "notes": "Edinburgh and Toronto Presbyterian; three books printed 1911-1927."
+    },
+    {
+      "id": "christoph-christian-sturm",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:52-05:00",
+      "notes": "Lutheran preacher, English translations only. 1788 printing pending (no title page in scan)."
     }
   ]
 }
