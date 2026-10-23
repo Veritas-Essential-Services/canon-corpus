@@ -177,6 +177,19 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
+  "delitzsch-psalms-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Bolton",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
   "delitzsch-proverbs-1": {
    "kind": "ia",
    "checked": "2026-10-23",
