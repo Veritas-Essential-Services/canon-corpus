@@ -19858,6 +19858,15 @@ Shelf: `pipeline/j-j-eschenburg_shelf.json`. Manual of Classical Literature, tr.
 |---|---|---|---|
 | Manual of Classical Literature, tr. N. W. Fiske (Philadelphia: Biddle, 1841) |  | `eschenburg-manual-classical-literature-1841` | have-raw (IA `manualofclassica00eschrich`) |
 
+
+## James Hervey Hyslop (1854-1920)
+
+Shelf: `pipeline/james-h-hyslop_shelf.json`. The Ethics of the Greek Philosophers, Socrates, Plato and Aristotle (New York: Higgins, 1903). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Ethics of the Greek Philosophers, Socrates, Plato and Aristotle (New York: Higgins, 1903) |  | `hyslop-ethics-greek-philosophers-1903` | have-raw (IA `ethicsgreekphil00hysluoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
