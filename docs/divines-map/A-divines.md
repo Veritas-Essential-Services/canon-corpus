@@ -12099,3 +12099,26 @@ Slugs `jwchapman-*`. Built from title pages read for round 57.
 | And Judas Iscariot with other evangelistic sermons (Chicago, Winona pub. co., 1906) | have-ocr | IA `andjudasiscariot00chap` |
 | S. H. Hadley of Water Street; a miracle of grace (New York : F. H. Revell, [c19) | have-ocr | IA `shhadleyofwaters00chapiala` |
 | Hymn books he compiled (Christian Hymns, Choice Hymns, Songs of Praise); The Way of Life and The Spiritual Life of the Sunday School (several authors) | excluded | |
+
+## Henry Cowles (Oberlin) (round 57, my pick, 2026-10-23)
+
+Slugs `cowles-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The minor prophets : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : Appleton, 1871) | have-ocr | IA `minorprophetswit00cowl` |
+| Ezekiel and Daniel : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : D. Appleton, 1871) | have-ocr | IA `ezekieldanielwit00cowlrich` |
+| Isaiah : with notes, critical, explanitory [sic] and practical (New York : D. Appleton, 1869) | have-ocr | IA `isaiahwithnotes00cowlgoog` |
+| Jeremiah, and his lamentations : with notes, critical, explanatory and practical, designed for both pastors and people (New York : D. Appleton, 1869) | have-ocr | IA `jeremiahandhisla00cowluoft` |
+| The Psalms ([n.p.], 1872) | have-ocr | IA `psalms00cowl` |
+| The Pentateuch, in its progressive revelations of God to men : designed for both pastors and people (New York : D. Appleton, 1877) | have-ocr | IA `pentateuchinitsp00cowl` |
+| Hebrew history, from the death of Moses to the close of the Scripture narrative (New York, D. Appleton & co., 1875) | have-ocr | IA `hebrewhistoryfro00cowl` |
+| The book of Job : with notes, critical, explanatory and practical (New York : Appleton, 1877) | have-ocr | IA `bookofjobwithnot00cowl` |
+| Proverbs, Ecclesiastes, and the Song of Solomon : with notes, critical, explanatory and practical (New York : Appleton, 1878) | have-ocr | IA `proverbsecclesia00cowl` |
+| The Gospel and Epistles of John (New York, D. Appleton & co., 1876) | have-ocr | IA `gospelepistlesof00cowl` |
+| The Revelation of John with notes critical, explanatory and practical : designed for both pastors and people (New York : D. Appleton, 1877) | have-ocr | IA `revelationofjohn00cowl` |
+| The shorter Epistles; viz: of Paul to the Galatians; Ephesians; Philippians; Colossians; Thessalonians; Timothy; Titus and Philemon; also, of James, Peter, and Jude (New York, D. Appleton & company, 1879) | have-ocr | IA `shorterepistlesv00cowl` |
+| The longer Epistles of Paul (New York, D. Appleton & company, 1880) | have-ocr | IA `longerepistlesof00cowl` |
+| Acts of the Apostles : with notes, critical, explanatory, and practical, designed for both pastors and people (N. Y. : D. Appleton, 1883) | have-ocr | IA `actsofapostleswi00cowl` |
+| His Matthew and Mark, Luke, and Hebrews volumes: not found on Internet Archive in round 57 | pending | not shelved |
+| Manuscript letters; Henry Cowles of other dates | excluded | |

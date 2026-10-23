@@ -7147,6 +7147,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:50:45-05:00",
       "notes": "Presbyterian evangelist; hymn books left out. 0 uids minted."
+    },
+    {
+      "id": "henry-cowles-oberlin",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:45-05:00",
+      "notes": "Oberlin commentator, 14 volumes; Gospels and Hebrews pending. 0 uids minted."
     }
   ]
 }
