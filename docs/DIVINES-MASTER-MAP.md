@@ -10861,6 +10861,27 @@ Slugs `park-*`. Built from title pages read for round 47.
 | Memorial collection of sermons (Boston, Pilgrim Press, 1902) | have-ocr | IA `memorialcollect01parkgoog` |
 | Memoir of the life and character of Samuel Hopkins, D. D (Boston : Doctrinal Tract and Book Society, 1854) | have-ocr | IA `memlifecharsam00parkrich` |
 | The Atonement: discourses and treatises (1859), the Sabbath Hymn Book and the Works of Samuel Hopkins: collections he edited of other men's work; Selections from German Literature (with Edwards) | excluded | |
+
+## Joseph Augustus Seiss (round 47, my pick, 2026-10-23)
+
+Slugs `seiss-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apocalypse: A Series of Special Lectures on the Revelation of Jesus Christ, with Rev. Text (Charles C. Cook, 1865) | have-ocr | IA `apocalypseaseri01seisgoog` |
+| The gospel in Leviticus; or, an exposition of the Hebrew ritual (Philadelphia, Lindsay & Blakiston, 1860) | have-ocr | IA `gospelinleviticu00seis` |
+| Voices from Babylon : or, The records of Daniel the prophet (Philadelphia, Pa. : Porter & Coates, 1879) | have-ocr | IA `voicesfrombabylo00seis` |
+| Popular lectures on the Epistle of Paul, the apostle, to the Hebrews (Baltimore, Printed at the publication rooms [of the Lutheran book co.], 1846) | have-ocr | IA `popularlectureso00seis` |
+| The parable of the ten virgins : in six discourses, and a sermon on the judgeship of the saints (Philadelphia : Smith, English, 1862) | have-ocr | IA `parableoftenvirg00seis` |
+| The Baptist system examined, the church vindicated, the church vindicated, and sectarianism rebuked (Baltimore, T. N. Kurtz, 1854) | have-ocr | IA `baptistsystemexa01seis` |
+| The letters of Jesus (Philadelphia : Lutheran bookstore, 1889) | have-ocr | IA `lettersofjesus00seis` |
+| Beacon lights: a series of short sermons (Philadelphia, Board of publication of the General council of the Evangelical Lutheran church in North America, 1900) | have-ocr | IA `beaconlightsser00seis` |
+| Lectures on the epistles, for Sundays and the chief festivals (Philadelphia : General Council Publication House, 1906) | have-ocr | IA `lecturesonepistl0001seis` |
+| Miracle in stone (Philadelphia, Porter & Coates, 1877) | have-ocr | IA `miracleinstone00seis_0` |
+| The gospel in the stars : or, Prímeval astronomy (New York : C. C. Cook, 1910) | have-ocr | IA `gospelinstarsorp00seis` |
+| The Last Times: an earnest discussion of momentous themes (Philadelphia, catalogued 1859) | have-ocr | IA `lasttimesearnest00seisiala` |
+| The 1878 Google copy of The Last Times: its title leaf is not in the OCR | alternate | not shelved |
+| Hymnals he compiled (Evangelical Psalmist, Church Song); Luther and the Reformation (1883) left for later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
