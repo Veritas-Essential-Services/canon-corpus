@@ -2147,3 +2147,6 @@
 
 ## 2026-10-22 22:46 CDT — opie-read: one name-gate refusal cleared
 - opie-read: new shelf, 10 Gutenberg books, 16,281 units, 67 ~2 ids; verify 0 mismatches, 0 rights flags (Up Terrapin River checks for his full name, as its Gutenberg header gives it).
+
+## 2026-10-22 22:47 CDT — mabel-osgood-wright: done
+- mabel-osgood-wright: new shelf, 9 Gutenberg books, 13,197 units, 80 ~2 ids; verify 0 mismatches, 0 rights flags.

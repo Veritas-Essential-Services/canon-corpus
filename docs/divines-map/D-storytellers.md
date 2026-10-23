@@ -16042,3 +16042,19 @@ Shelf: `pipeline/florence-l-barclay_shelf.json` (2026-10-22; added at the coordi
 | The Following of the Star: A Romance | have | PG 40640, `flbarclay-following-of-the-star` (2120 units) |
 | The Wheels of Time | have | PG 56965, `flbarclay-wheels-of-time` (255 units) |
 | Returned Empty | have | PG 60307, `flbarclay-returned-empty` (998 units) |
+
+## Mabel Osgood Wright
+
+Shelf: `pipeline/mabel-osgood-wright_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature stories and novels. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| People of the Whirlpool From The Experience Book of a Commuter's Wife | have | PG 11561, `mowright-people-of-the-whirlpool-from-the-experience-book-of` (1116 units) |
+| Citizen Bird: Scenes from Bird-Life in Plain English for Beginners | have | PG 11896, `mowright-citizen-bird` (2605 units) |
+| The Garden, You, and I | have | PG 17514, `mowright-garden-you-and-i` (1040 units) |
+| Poppea of the Post-Office | have | PG 41440, `mowright-poppea-of-the-post-office` (1588 units) |
+| Aunt Jimmy's Will | have | PG 42437, `mowright-aunt-jimmys-will` (1027 units) |
+| The Open Window: Tales of the Months | have | PG 59964, `mowright-open-window` (1320 units) |
+| Gray Lady and the Birds: Stories of the Bird Year for Home and School | have | PG 62793, `mowright-gray-lady-and-the-birds` (2068 units) |
+| Dogtown Being Some Chapters from the Annals of the Waddles Family Set Down in the Language of Housepeople | have | PG 64041, `mowright-dogtown-being-some-chapters-from-the-annals-of-the` (1288 units) |
+| At the Sign of the Fox: A Romance | have | PG 64110, `mowright-at-the-sign-of-the-fox` (1145 units) |
