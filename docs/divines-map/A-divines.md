@@ -9779,3 +9779,24 @@ Slugs `frank-*`. Built from title pages read for round 40.
 | Sermons, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons02fran` |
 | sermons0000fran, sermons0002fran (other scans of the same edition); the 1672 LI Sermons (EEBO) | alternate | not shelved |
 | Other Franks | excluded | |
+
+## Peter Heylyn (round 40, my pick, 2026-10-22)
+
+Slugs `heylyn-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 1 (Cambridge: Ecclesiastical History Society, 1849) | have-ocr | IA `ecclesiarestaura01heyl` |
+| Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 2 (Cambridge: Ecclesiastical History Society, 1849) | have-ocr | IA `ecclesiarestaura02heyl` |
+| Cyprianus anglicus:, or, The history of the life and death, of the most reverend and renowned prelate William by divine providence, Lord Archbishop of Canterbury, Primate of all England, and Metropolitan, chancellor of the Universities of Oxon. and Dublin, and one of the Lords of the Privy Council to His late Most Sacred Majesty King Charles the First, second Monarch of Great Britain : Containing also the ecclesiastical history of the three kingdoms of England, Scotland, and Ireland from his first rising till his death (London : Printed by J[ohn]. M[acock]. for A. Seile, and are to be sold by George Sawbridge, J. Martyn, T. Williams, J. Place, E. Brewster, J. Starkey, T. Basset, R. Horne, H. Brome, J. Wright, R. Chiswell, R. Boulter, B. Took., 1671) | have-ocr | IA `cyprianusanglicu00heyl` |
+| Aerius redivivus; or, The history of the Presbyterians : containing the beginnings, progress and successes of that active sect, their oppositions to monarchical and episcopal government, their innovations in the church and their imbroylments of the kingdoms and estates of Christendom in the pursuit of their designes : from the year 1536 to the year 1647 (Oxford : Printed for John Crosley [etc.], 1670) | have-ocr | IA `aeriusredivivuso00heyl_0` |
+| Ecclesia vindicata, or, the Church of England justified : I. In the way and manner of her Reformation. II. In officiating by a publick liturgie. III. In prescribing a set form of prayer to be used by preachers before their sermons. IV. In her right and patrimony of tithes. V. In retaining the episcopal government. And therewith, VI. The canonical ordination of priests and deacons (London : Printed by E. Cotes [and Richard Hodgkinson] for Henry Seile over against St. Dunstans Church in Fleetstreet, 1657) | have-ocr | IA `ecclesiavindicat00heyl` |
+| Antidotvm Lincolniense, or, An answer to a book entitvled, The holy table, name, & thing, etc. Said to be written long agoe by a Minister in Lincolnshire, and printed for the Diocese of Lincolne, [Anno] 1637 (London : Printed for John Clark ..., 1637) | have-ocr | IA `antidotvmlincoln00heyluoft` |
+| The history of the sabbath.  1636 (England : Printed [by E. Purslowe, Thomas Harper, and Thomas Cotes] for Henry Seile, and are to bee sold at the signe of the Tygers-head in Saint Pauls Church-yard, 1636) | have-ocr | IA `bim_early-english-books-1475-1640_the-history-of-the-sabba_heylyn-peter_1636` |
+| Theologia veterum, or the summe. ...  1654 (catalogued 1654) | have-ocr | IA `bim_early-english-books-1641-1700_theologia-veterum-or-th_heylyn-peter_1654` |
+| The stumbling-block of disobedience and rebellion, cunningly laid by Calvin in the subjects way, discovered, censured, and removed (London : Printed by E. Cotes for H. Seile over St. Dunstans Church in Fleet Street, 1658) | have-ocr | IA `stumblingblockof00heyluoft` |
+| The historical and miscellaneous tracts ...  1681 (catalogued 1681) | have-ocr | IA `bim_early-english-books-1641-1700_the-historical-and-misce_heylyn-peter_1681` |
+| Memorial of Bishop Waynflete : founder of St. Mary Magdalen College, Oxford (London : Caxton Society, 1851) | have-ocr | IA `memorialofbishop00heyluoft` |
+| A Coale from the Altar (1636), printed as by 'a judicious and learned divine'; the attribution to Heylyn is the catalogue's, not the title page's | pending | not shelved |
+| Other printings of each work (1660-1674 Ecclesia Restaurata, 1668 and 1719 Cyprianus, 1672 Aerius, 1673 Theologia Veterum; the Google and Cambridge 1849 sets) | alternate | not shelved |
+| His geographies (Microcosmus 1621-1639, Cosmographie 1652-1703), A Help to English History, the Survey of France, the History of St George, Augustus, and his Civil War newsletters: secular works, outside lane A's theology scope; and sermons by John Heylyn (1685-1759), a different man | excluded | |

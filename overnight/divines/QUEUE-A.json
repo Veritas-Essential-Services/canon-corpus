@@ -5651,6 +5651,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T22:40:38-05:00",
       "notes": "LACT Sermons, 2 vols."
+    },
+    {
+      "id": "peter-heylyn",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:23-05:00",
+      "notes": "Church histories and controversy; secular geography excluded; Coale from the Altar pending (anonymous)."
     }
   ]
 }
