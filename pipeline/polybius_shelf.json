@@ -44,7 +44,8 @@
   "dryden-polybius-lucian": "Dryden shelf (lane C): Dryden's character of Polybius"
  },
  "_excluded": {
-  "W. R. Paton, Loeb (1922-27)": "on Perseus, US PD by date; pending"
+  "W. R. Paton, Loeb (1922-27)": "on Perseus, US PD by date; pending",
+  "Perseus tlg0543.tlg001.perseus-eng2 (Shuckburgh)": "Perseus header gives a 1962 reprint as its source (rights gate refused it); the same 1889 Shuckburgh text is already held here from Gutenberg"
  },
  "_surname": [
   "polybius"
