@@ -1,0 +1,98 @@
+{
+ "_about": "Albert W. Aiken: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Albert W. Aiken",
+ "_name_words": [
+  "aiken",
+  "albert"
+ ],
+ "_surname": [
+  "albert w. aiken",
+  "aiken"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awaiken-wolf-demon": [
+   58940,
+   "The Wolf Demon; or, The Queen of the Kanawha"
+  ],
+  "awaiken-ben-the-trapper": [
+   65087,
+   "Ben, the Trapper; Or, The Mountain Demon: A Tale of the Black Hills"
+  ],
+  "awaiken-dead-shot": [
+   65527,
+   "Dead Shot; Or, The White Vulture: A Romance of the Yellowstone"
+  ],
+  "awaiken-border-riflemen": [
+   66064,
+   "The Border Riflemen; or, The Forest Fiend. A Romance of the Black-Hawk Uprising"
+  ],
+  "awaiken-rival-trappers": [
+   67169,
+   "The Rival Trappers: or, Old Pegs, The Mountaineer"
+  ],
+  "awaiken-skeleton-scout": [
+   68538,
+   "The skeleton scout; or, The border block"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "awaiken-wolf-demon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaiken-ben-the-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaiken-dead-shot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaiken-border-riflemen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaiken-rival-trappers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaiken-skeleton-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert w. aiken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

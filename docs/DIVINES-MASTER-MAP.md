@@ -44034,3 +44034,16 @@ Shelf: `pipeline/walter-aimwell_shelf.json` (2026-10-22; added at the coordinato
 | Clinton | have | PG 72775, `waimwell-clinton` (892 units) |
 | Jerry; or, the sailor boy ashore | have | PG 74467, `waimwell-jerry` (641 units) |
 | Jessie | have | PG 75385, `waimwell-jessie` (960 units) |
+
+## Albert W. Aiken
+
+Shelf: `pipeline/albert-w-aiken_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wolf Demon; or, The Queen of the Kanawha | have | PG 58940, `awaiken-wolf-demon` (3501 units) |
+| Ben, the Trapper; Or, The Mountain Demon: A Tale of the Black Hills | have | PG 65087, `awaiken-ben-the-trapper` (936 units) |
+| Dead Shot; Or, The White Vulture: A Romance of the Yellowstone | have | PG 65527, `awaiken-dead-shot` (838 units) |
+| The Border Riflemen; or, The Forest Fiend. A Romance of the Black-Hawk Uprising | have | PG 66064, `awaiken-border-riflemen` (784 units) |
+| The Rival Trappers: or, Old Pegs, The Mountaineer | have | PG 67169, `awaiken-rival-trappers` (974 units) |
+| The skeleton scout; or, The border block | have | PG 68538, `awaiken-skeleton-scout` (871 units) |
