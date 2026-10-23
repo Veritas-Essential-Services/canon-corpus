@@ -11363,6 +11363,19 @@ Slugs `jnorton-*`. Built from title pages read for round 51.
 | Three choice and profitable sermons, ...  1664 (catalogued 1664) | have-ocr | IA `bim_early-english-books-1641-1700_three-choice-and-profita_norton-john_1664` |
 | The 1834 and 1842 reprints of Abel as Memoir of John Cotton | alternate | not shelved |
 | Responsio ad totam questionum syllogen (1648, Latin) | excluded | |
+
+## Urian Oakes (round 51, my pick, 2026-10-23)
+
+Slugs `oakes-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| New-England pleaded with, ...  1673 (catalogued 1673) | have-ocr | IA `bim_early-english-books-1641-1700_new-england-pleaded-with_oakes-urian_1673` |
+| The unconquerable, all-conqvering ... souldier: ...  1674 (catalogued 1674) | have-ocr | IA `bim_early-english-books-1641-1700_the-unconquerable-all-c_oakes-urian_1674` |
+| The soveraign efficacy, ...  1682 (catalogued 1682) | have-ocr | IA `bim_early-english-books-1641-1700_the-soveraign-efficacy-_oakes-urian_1682` |
+| A seasonable discourse, ...  1682 (catalogued 1682) | have-ocr | IA `bim_early-english-books-1641-1700_a-seasonable-discourse-_oakes-urian_1682` |
+| An Elegie upon the Death of the Reverend Mr. Thomas Shepard (Cambridge, 1677): the title page, read from the page image, says only 'By a great Admirer of his Worth'; attributed to Oakes by the catalogue and by later scholars | pending | not shelved |
+| His 1650 almanac; Eikon Basilike Trite (1697, the catalogue's attribution is doubtful) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
