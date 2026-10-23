@@ -1,5 +1,5 @@
 {
- "_about": "Sir Richard Winn Livingstone (1880-1960), Oxford classicist and educationist. Not David Livingstone (shelf david-livingstone). Raw IA OCR: The Greek Genius and its Meaning to Us (Oxford: Clarendon Press, 1912); A Defence of Classical Education (Macmillan, 1916). His edited volumes (The Legacy of Greece, 1921; The Pageant of Greece, 1923) are multi-author or anthologies of others' translations and are not taken. US public domain. No uids minted.",
+ "_about": "Sir Richard Winn Livingstone (1880-1960), Oxford classicist and educationist. Not David Livingstone (shelf david-livingstone). Raw IA OCR: The Greek Genius and its Meaning to Us (Oxford: Clarendon Press, 1912); A Defence of Classical Education (Macmillan, 1916). His edited volumes (The Legacy of Greece, 1921; The Pageant of Greece, 1923) are multi-author or anthologies of others' translations and are not taken. US public domain. No uids minted. The Legacy of Greece (PG 22259), which he edited, added by lane B, round dk.",
  "_author": "R. W. Livingstone",
  "_name_words": [
   "richard",
@@ -8,10 +8,17 @@
  ],
  "_surname": [
   "r. w. livingstone",
-  "livingstone"
+  "richard winn livingstone",
+  "livingstone, richard winn",
+  "livingstone, r. w"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "livingstone-legacy-of-greece-1921": [
+   22259,
+   "The Legacy of Greece, ed. R. W. Livingstone (Oxford, 1921): essays by Gilbert Murray, W. R. Inge, J. Burnet, T. L. Heath, D'Arcy Thompson, Charles Singer, Percy Gardner, Arnold Toynbee, A. E. Zimmern and others"
+  ]
+ },
  "internet_archive": {
   "livingstone-greek-genius-1912": [
    "greekgeniusitsme00liviuoft",
@@ -24,12 +31,21 @@
  },
  "_excluded": {},
  "_checks": {
+  "livingstone-legacy-of-greece-1921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. w. livingstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "livingstone-greek-genius-1912": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
-   "author_seen": "livingstone",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -37,7 +53,7 @@
   },
   "livingstone-defence-of-classical-education-1916": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "r. w. livingstone",
    "identity": "ok",
@@ -45,6 +61,11 @@
    "ia_date": "1916",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "livingstone-greek-genius-1912": {
+   "author": "2026-10-23: the bare surname 'livingstone' was dropped from the shelf's name forms (it is shared with david-livingstone). This scan's title page OCRs as 'N LIVINGSTONE' and its catalogue slip reads 'Livingstone, (Sir) Richard Winn'; Clarendon Press 1912, R. W. Livingstone's book"
   }
  }
 }
