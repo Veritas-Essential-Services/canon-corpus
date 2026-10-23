@@ -16307,3 +16307,15 @@ Slugs `rowe-*`. Built from title pages read for round 101.
 | bim_eighteenth-century_friendship-in-death-in-_rowe-elizabeth-singer_1728: published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | bim_eighteenth-century_letters-on-various-occas_rowe-elizabeth-singer_1729: 'by the author of Friendship in Death'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | German translations | excluded | |
+
+## Johannes Gossner (round 101, my pick, 2026-10-23)
+
+Slugs `gossner-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly visitant; or, Christ at the door of man's heart (catalogued 1865) | have-ocr | IA `heavenlyvisitan00gossgoog` |
+| The spiritual casket of daily Bible meditations ; for the furtherance of family godliness and devotion (London : J.F. Shaw & Co., 1864) | have-ocr | IA `MN41391ucmf_4` |
+| John Goszner's treasury : containing Bible meditations for each day in the year, with devotional songs to the futherance of family prayer and piety (Minneapolis : Augsburg Pub. House, 1906) | have-ocr | IA `johngosznerstrea00goss` |
+| heartofmaneither00goss: the 1851 Harrisburg printing names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Life of Martin Boos (Boos's own account, which Gossner edited) | excluded | |
