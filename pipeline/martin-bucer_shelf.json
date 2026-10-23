@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Martin Bucer (1491-1551), reformer of Strasbourg and Regius Professor of Divinity at Cambridge, for the Word Hoard: two Tudor English translations, A Treatise how by the Worde of God Christian Mens Almose ought to be distributed (1557, from De Regno Christi) and The Mynd and Exposition upon Matthew xviii (Emden, 1566), from Internet Archive scans of Early English Books (black letter, rough OCR). Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Martin Bucer (1491-1551), reformer of Strasbourg and Regius Professor of Divinity at Cambridge, for the Word Hoard: three Tudor English translations, The Gratulation unto the Church of England (against Stephen Gardiner), A Treatise how by the Worde of God Christian Mens Almose ought to be distributed (1557, from De Regno Christi) and The Mynd and Exposition upon Matthew xviii (Emden, 1566), from Internet Archive scans of Early English Books (black letter, rough OCR). Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
  "_name_words": [
   "bucer"
  ],
@@ -21,19 +21,26 @@
   "bucer-mynd-exposition-1566": [
    "bim_early-english-books-1475-1640_the-mynd-and-exposition-_martin-bucer_1566",
    "The Mynd and Exposition of that excellente learned man Martyn Bucer, uppon these wordes of S. Mathew: Woo be to the worlde bycause of offences, Math. xviii, faythfully translated into Englishe by a faythfull brother (Emden, 1566)"
+  ],
+  "bucer-gratulation": [
+   "bim_early-english-books-1475-1640_the-gratulation-of-the-m",
+   "The Gratulation of the mooste famous Clerke M. Martin Bucer unto the Churche of Englande for the restitucion of Christes religion, and his answere unto the two raylinge epistles of Steven, Bisshoppe of Winchester, concerninge the unmaried state of preestes, translated out of Latin into Englishe [by Thomas Hoby, who signs the dedication] (imprint not legible; the Latin original is of 1549)"
   ]
  },
  "_alternates": {},
  "_excluded": {
   "bucer-other": "Latin, German and French printings (De Regno Christi 1577, the Enarrationes, De Concilio 1545 and others); Arthur Roberts's analysis of his Censura on the Prayer Book (1853); Milton's Judgement of Martin Bucer concerning Divorce (Milton's own abridgment); Goldyng's 1562 treatise on the burning of Bucer and Fagius; Harvey's Martin Bucer in England (1906) and other books about him"
  },
- "_rights_checked": {},
+ "_rights_checked": {
+  "bucer-gratulation": "title page read from the page image: no year printed and the catalogue gives none; black-letter Tudor printing of Hoby's translation of Bucer's 1549 Latin Gratulatio (Bucer died 1551), so printed in the sixteenth century, long before 1930"
+ },
  "_identity_checked": {
-  "bucer-mynd-exposition-1566": "title page read from the page image: 'The mynd and exposition of that excellente learned man Martyn Bucer' (black letter; OCR garbled)"
+  "bucer-mynd-exposition-1566": "title page read from the page image: 'The mynd and exposition of that excellente learned man Martyn Bucer' (black letter; OCR garbled)",
+  "bucer-gratulation": {
+   "title": "title page read from the page image: 'The Gratulation of the mooste famous Clerke M. Martin Bucer ... unto the churche of Englande ... Translated out of Latin into Englishe' (black letter; OCR garbles the title words); the dedication is from Thomas Hobye to his brother Sir Philip Hoby"
+  }
  },
- "_pending": {
-  "bucer-gratulation-1549": "The Gratulation of Martin Bucer unto the Church of England (1549) and his other English pieces of 1549-1550: no scan found on Internet Archive"
- },
+ "_pending": {},
  "_translators": {},
  "_checks": {
   "bucer-almose-1557": {
@@ -59,6 +66,18 @@
    "ia_date": "1566",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "bucer-gratulation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bucer",
+   "identity": "identity_override",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read from the page image: no year printed and the catalogue gives none; black-letter Tudor printing of Hoby's translation of Bucer's 1549 Latin Gratulatio (Bucer died 1551), so printed in the sixteenth century, long before 1930"
   }
  }
 }
