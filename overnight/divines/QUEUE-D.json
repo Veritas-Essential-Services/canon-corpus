@@ -5157,6 +5157,14 @@
       "started": "2026-10-22T22:50:31-05:00",
       "finished": "2026-10-22T22:50:31-05:00",
       "notes": "j-storer-clouston: new shelf, 8 Gutenberg books, 16,833 units, 2498 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "jos-e-badger",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Joseph E. Badger; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:32-05:00",
+      "finished": "2026-10-22T22:50:32-05:00",
+      "notes": "jos-e-badger: new shelf, 8 Gutenberg books, 7,527 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

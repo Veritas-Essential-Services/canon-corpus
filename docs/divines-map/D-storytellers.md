@@ -16454,3 +16454,18 @@ Shelf: `pipeline/j-storer-clouston_shelf.json` (2026-10-22; added at the coordin
 | Simon | have | PG 26306, `jsclouston-simon` (2604 units) |
 | The Spy in Black | have | PG 33996, `jsclouston-spy-in-black` (1622 units) |
 | The Adventures of M. D'Haricot | have | PG 50273, `jsclouston-adventures-of-m-dharicot` (2682 units) |
+
+## Joseph E. Badger
+
+Shelf: `pipeline/jos-e-badger_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dime-novel Westerns. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lost City | have | PG 783, `jebadger-lost-city` (1557 units) |
+| Delaware Tom; or, The Traitor Guide | have | PG 66227, `jebadger-delaware-tom` (868 units) |
+| The Texas Hawks; or, The Strange Decoy | have | PG 66248, `jebadger-texas-hawks` (903 units) |
+| The Scarlet Shoulders; or, The Miner Rangers | have | PG 66407, `jebadger-scarlet-shoulders` (765 units) |
+| Redlaw, the half-breed; or, The tangled trail. A tale of the settlements | have | PG 68507, `jebadger-redlaw-the-half-breed` (911 units) |
+| Outlaw Jack; or, the mountain devil | have | PG 68673, `jebadger-outlaw-jack` (910 units) |
+| Dusky Dick: or, Old Toby Castor's great campaign A story of the last Sioux outbreak | have | PG 68699, `jebadger-dusky-dick` (841 units) |
+| The Wood King; or, Daniel Boone's last trail | have | PG 69490, `jebadger-wood-king` (772 units) |
