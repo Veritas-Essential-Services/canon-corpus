@@ -8729,3 +8729,37 @@ Shelf: `pipeline/ransome_shelf.json`. Ransome died in 1967, so nothing here is p
 | Swallows and Amazons (Cape, 1930; scan is the 1946 impression) | Arthur Ransome | `ransome-swallows-and-amazons-1930` | have-raw (IA `swallows-and-amazons`), US-only PD |
 
 Pending (US public domain on 1 January of): Swallowdale 2027, Peter Duck 2028, Winter Holiday 2029, Coot Club 2030, Pigeon Post 2032, We Didn't Mean to Go to Sea 2033, Secret Water 2035, The Big Six 2036, Missee Lee 2037, The Picts and the Martyrs 2039, Great Northern? 2043.
+
+## A. H. Sayce (1845-1933)
+
+Shelf: `pipeline/a-h-sayce_shelf.json`. Assyriology, Near-Eastern religion and philology, the monuments and Herodotus; 13 clean Gutenberg, 11 IA. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Early Israel and the Surrounding Nations (1899) |  | `sayce-early-israel-pg` | have (PG 12976) |
+| Patriarchal Palestine (1895) |  | `sayce-patriarchal-palestine-pg` | have (PG 14405) |
+| Babylonians and Assyrians: Life and Customs (1899) |  | `sayce-babylonians-and-assyrians-pg` | have (PG 25080) |
+| Fresh Light from the Ancient Monuments |  | `sayce-fresh-light-pg` | have (PG 32883) |
+| The Religions of Ancient Egypt and Babylonia (Gifford Lectures, 1902) |  | `sayce-religions-egypt-babylonia-pg` | have (PG 35856) |
+| A Primer of Assyriology |  | `sayce-primer-assyriology-pg` | have (PG 37411) |
+| The Egypt of the Hebrews and Herodotos |  | `sayce-egypt-of-the-hebrews-pg` | have (PG 38843) |
+| The Hittites: the Story of a Forgotten Empire |  | `sayce-hittites-pg` | have (PG 40243) |
+| Assyria: its Princes, Priests, and People |  | `sayce-assyria-pg` | have (PG 42033) |
+| The Archaeology of the Cuneiform Inscriptions |  | `sayce-archaeology-cuneiform-pg` | have (PG 67742) |
+| Introduction to the Science of Language, vol. 1 (of 2) |  | `sayce-science-of-language-v1-pg` | have (PG 73585) |
+| The Early History of the Hebrews |  | `sayce-early-history-hebrews-pg` | have (PG 75324) |
+| Social Life among the Assyrians and Babylonians |  | `sayce-social-life-assyrians-pg` | have (PG 77217) |
+| Introduction to the Science of Language, vol. 2 (1880) |  | `sayce-science-of-language-v2-1880` | have-raw (IA `india.history.resource.77510`) |
+| The Principles of Comparative Philology (1875) |  | `sayce-comparative-philology-1875` | have-raw (IA `cu31924026441711`) |
+| An Assyrian Grammar for Comparative Purposes (1872) |  | `sayce-assyrian-grammar-1872` | have-raw (IA `11009510bsb`) |
+| The Ancient Empires of the East: Herodotos I-III, with notes, introductions and appendices (1883) |  | `sayce-ancient-empires-herodotos-1883` | have-raw (IA `ancientempiresof00herouoft`) |
+| Lectures on the Origin and Growth of Religion as illustrated by the Religion of the Ancient Babylonians (Hibbert Lectures 1887; 1888 printing) |  | `sayce-hibbert-lectures-1887` | have-raw (IA `lecturesonorigin00saycrich`) |
+| The Life and Times of Isaiah as illustrated by Contemporary Monuments (1890) |  | `sayce-life-times-isaiah-1890` | have-raw (IA `lifetimesofisaia1890sayc`) |
+| The Races of the Old Testament (1891) |  | `sayce-races-old-testament-1891` | have-raw (IA `theracesoftheold00saycuoft`) |
+| The 'Higher Criticism' and the Verdict of the Monuments (1894) |  | `sayce-higher-criticism-monuments-1894` | have-raw (IA `highercriticism00saycgoog`) |
+| Creation's Dawn (1908) |  | `sayce-creations-dawn-1908` | have-raw (IA `b28070756`) |
+| The Religion of Ancient Egypt (2nd ed., 1913) |  | `sayce-religion-ancient-egypt-1913` | have-raw (IA `religionofancien00sayc`) |
+| Reminiscences (1923) |  | `sayce-reminiscences-1923` | have-raw (IA `bwb_Y0-BTL-761`) |
+
+Excluded: Records of the Past, new series (ed. Sayce, 1888-92) (many translators; a compilation, left for a separate ruling); Maspero, History of Egypt, Chaldaea... (ed. Sayce) (Maspero is the author; belongs on a Maspero shelf); Mahaffy, History of Classical Greek Literature (appendix by Sayce) (Mahaffy's book)
+
