@@ -360,3 +360,5 @@
 - 2026-10-23T00:45-05:00: Round 141 (2026-10-23): 12 titles, Ensor x3, Brooks x5, Frewer x4 from archive.org; Fleming Voltaire and Dutt volumes held for a ruling. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-23T00:53-05:00: Round 142: Mary Howitt +12 (Bremer, Paalzow), Eleanor Marx-Aveling +1, Colbron +2; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T00:59-05:00: Round 143: Duff Gordon +2, Jessie Muir +1, Hearn +1, Dowson +1; 0 mismatched, 0 rights flags.

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Lucie, Lady Duff Gordon (1821-1869): Meinhold's The Amber Witch (1844) and The French in Algiers (1845). Her own Letters from Egypt and from the Cape are not translations and are not shelved here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Lucie, Lady Duff Gordon (1821-1869): Meinhold's The Amber Witch (1844) The French in Algiers (1845), Feuerbach's Criminal Trials (1846) and Sybel's Crusades (1861). Her own Letters from Egypt and from the Cape are not translations and are not shelved here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
  "_name_words": [
   "duff gordon"
  ],
@@ -18,7 +18,16 @@
    "Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon."
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dgo-ia-feuerbach-trials": [
+   "narrativesofrema00feue",
+   "Feuerbach: Remarkable Criminal Trials"
+  ],
+  "dgo-ia-sybel-crusades": [
+   "historyandliter00sybegoog",
+   "Sybel: History and Literature of the Crusades"
+  ]
+ },
  "titles": {
   "duff-gordon-lamping-alby-the-french-in-algiers": {
    "source": "dgo-58081",
@@ -35,15 +44,33 @@
    "translated": "1844-1845 (see the Gutenberg header)",
    "translator": "Lucie Duff Gordon",
    "scan_edition": "Project Gutenberg 8743 (clean text)"
+  },
+  "duff-gordon-feuerbach-narratives-of-remarkable-criminal-trials": {
+   "source": "dgo-ia-feuerbach-trials",
+   "of": "Anselm Ritter von Feuerbach",
+   "work": "Narratives of Remarkable Criminal Trials",
+   "translated": "1846",
+   "translator": "Lucie, Lady Duff Gordon",
+   "scan_edition": "Harper & Brothers, New York, 1846"
+  },
+  "duff-gordon-sybel-history-and-literature-of-the-crusades": {
+   "source": "dgo-ia-sybel-crusades",
+   "of": "Heinrich von Sybel",
+   "work": "The History and Literature of the Crusades",
+   "translated": "1861",
+   "translator": "Lucie, Lady Duff Gordon",
+   "scan_edition": "Chapman and Hall, London, 1861 (Google scan)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "not-hers-or-unnamed": "2026-10-23: Sketches of German Life (Varnhagen, 1847) and Village Tales from Alsatia (Weill, 1848) are Sir Alexander Duff Gordon's translations, not Lucie's. The Russians in Bulgaria (Moltke, 1854) and Stella and Vanessa (Wailly, 1853) do not name the translator in their OCR. Crusades in Africa (39020016820014-crusadesinafric) offers no text."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "dgo-58081": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "duff gordon",
    "identity": "ok",
@@ -52,12 +79,34 @@
   },
   "dgo-8743": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "duff gordon",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lady Lucie Duff Gordon"
+  },
+  "dgo-ia-feuerbach-trials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duff gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dgo-ia-sybel-crusades": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duff gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +119,41 @@
    "pg": 8743,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lady Lucie Duff Gordon"
+  },
+  "dgo-ia-feuerbach-trials": {
+   "ia": "narrativesofrema00feue",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1751,
+    1806,
+    1813,
+    1827,
+    1845,
+    1846
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "dgo-ia-sybel-crusades": {
+   "ia": "historyandliter00sybegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1817,
+    1837,
+    1841,
+    1842,
+    1844,
+    1845,
+    1848,
+    1849,
+    1850,
+    1853,
+    1855,
+    1856,
+    1858,
+    1859,
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

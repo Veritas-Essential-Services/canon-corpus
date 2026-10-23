@@ -4104,6 +4104,14 @@
    "finished": "2026-10-23T00:53-05:00",
    "scope": "mary-howitt, eleanor-marx-aveling, colbron",
    "notes": "15 titles from archive.org; 3 Bremer items excluded (translator unnamed in OCR, or a duplicate omnibus)"
+  },
+  {
+   "id": "C-r143",
+   "status": "done",
+   "started": "2026-10-23T00:59-05:00",
+   "finished": "2026-10-23T00:59-05:00",
+   "scope": "duff-gordon, jessie-muir, hearn, dowson",
+   "notes": "5 titles from archive.org; 4 Duff Gordon and 2 Pelle scans excluded (other translator or unnamed)"
   }
  ]
 }

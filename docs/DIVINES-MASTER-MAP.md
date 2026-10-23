@@ -20762,12 +20762,13 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 ## Lafcadio Hearn as translator (Gautier, Flaubert)
 
 Shelf: `pipeline/hearn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hearn` · titles `python3 pipeline/split_shelf_titles.py hearn`.
-Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 8, vetoable. Round 143 (2026-10-23) added France's Sylvestre Bonnard (Harper, copyright 1890). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `hearn-gautier-cleopatras-nights` | Gautier | One of Cleopatra's Nights and Other Fantastic Romances | Lafcadio Hearn | 1882 | have | PG 39397 |
 | `hearn-flaubert-temptation` | Flaubert | The Temptation of St. Anthony | Lafcadio Hearn | 1910 | have | PG 52225 |
+| `hearn-france-the-crime-of-sylvestre-bonnard` | Anatole France | The Crime of Sylvestre Bonnard (Member of the Institute) | Lafcadio Hearn | 1890 | have-raw | IA `thecrimeofsylves00franiala` |
 | — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
 | — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |
 | — | — | pg-22660-22662: King Candaules, Clarimonde and The Mummy's Foot: single stories from One of Cleopatra's Nights (39397), already held whole. | — | — | excluded | — |
@@ -21465,12 +21466,14 @@ Round 19 (2026-10-10), vetoable. Her Andersen is on andersen_shelf.json. Round 1
 ## Lucie, Lady Duff Gordon (Meinhold's Amber Witch; The French in Algiers)
 
 Shelf: `pipeline/duff-gordon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py duff-gordon` · titles `python3 pipeline/split_shelf_titles.py duff-gordon`.
-Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Round 143 (2026-10-23) added Feuerbach's Criminal Trials (1846) and Sybel's Crusades (1861). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `duff-gordon-lamping-alby-the-french-in-algiers` | Clemens Lamping; Ernest Alby | The French in Algiers: The Soldier of the Foreign Legion; and The Prisoners of Abd-el-Kader | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 58081 |
 | `duff-gordon-meinhold-mary-schweidler-the-amber-witch-the-most` | Wilhelm Meinhold | Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon. | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 8743 |
+| `duff-gordon-feuerbach-narratives-of-remarkable-criminal-trials` | Anselm Ritter von Feuerbach | Narratives of Remarkable Criminal Trials | Lucie, Lady Duff Gordon | 1846 | have-raw | IA `narrativesofrema00feue` |
+| `duff-gordon-sybel-history-and-literature-of-the-crusades` | Heinrich von Sybel | The History and Literature of the Crusades | Lucie, Lady Duff Gordon | 1861 | have-raw | IA `historyandliter00sybegoog` |
 
 ## Bernard Miall (Nexø's Pelle, Rolland's Tolstoy, Maeterlinck's Poems, Fabre)
 
@@ -21521,7 +21524,7 @@ Round 20 (2026-10-10), vetoable. Only translations printed before 1931. Round 13
 ## Jessie Muir (Jonas Lie, Bojer, Fleuron)
 
 Shelf: `pipeline/jessie-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jessie-muir` · titles `python3 pipeline/split_shelf_titles.py jessie-muir`.
-Round 20 (2026-10-10), vetoable. Her half of Pelle is on bernard-miall. Not converted to unit-id JSON; **no uids minted**.
+Round 20 (2026-10-10), vetoable. Her half of Pelle is on bernard-miall. Round 143 (2026-10-23) added Brandes's Ibsen and Bjørnson (1899). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21529,6 +21532,7 @@ Round 20 (2026-10-10), vetoable. Her half of Pelle is on bernard-miall. Not conv
 | `jessie-muir-fleuron-grim-the-story-of-a-pike` | Svend Fleuron | Grim: The Story of a Pike | Jessie Muir (with J. Alexander) | 1894-1921 (see the Gutenberg header) | have | PG 40921 |
 | `jessie-muir-lie-one-of-life-s-slaves` | Jonas Lie | One of Life's Slaves | Jessie Muir | 1894-1921 (see the Gutenberg header) | have | PG 15853 |
 | `jessie-muir-lie-the-visionary-pictures-from-nordland` | Jonas Lie | The Visionary: Pictures From Nordland | Jessie Muir | 1894-1921 (see the Gutenberg header) | have | PG 13922 |
+| `jessie-muir-brandes-henrik-ibsen-bjornstjerne-bjornson` | Georg Brandes | Henrik Ibsen; Björnstjerne Björnson: Critical Studies | Jessie Muir | 1899 | have-raw | IA `henrikibsen00brangoog` |
 | — | — | pelle: Pelle the Conqueror (7795 complete; part-files 7791, 7794) is on bernard-miall_shelf.json. | — | — | excluded | — |
 
 ## Sir Lascelles Wraxall (Aimard's frontier tales; the 1862 Les Misérables)
@@ -21569,13 +21573,14 @@ Round 20 (2026-10-10), vetoable. Round 135 added four archive.org books (Esquiro
 ## Ernest Dowson (Les liaisons dangereuses; Balzac)
 
 Shelf: `pipeline/dowson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dowson` · titles `python3 pipeline/split_shelf_titles.py dowson`.
-Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 20 (2026-10-10), vetoable. Round 143 (2026-10-23) added Villeneuve's Beauty and the Beast (1908). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `dowson-balzac-a-passion-in-the-desert` | Honoré de Balzac | A Passion in the Desert | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 1555 |
 | `dowson-laclos-les-liaisons-dangereuses-volume-1-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 1 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69891 |
 | `dowson-laclos-les-liaisons-dangereuses-volume-2-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 2 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69913 |
+| `dowson-villeneuve-the-story-of-beauty-and-the-beast` | Madame de Villeneuve | The Story of Beauty & the Beast: the Complete Fairy Story | Ernest Dowson | 1908 | have-raw | IA `storyofbeautybea00dowsuoft` |
 
 ## Arthur Machen as translator (Casanova's Memoirs, 1894)
 
