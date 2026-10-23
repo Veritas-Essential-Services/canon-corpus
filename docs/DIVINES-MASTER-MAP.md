@@ -13583,6 +13583,23 @@ Slugs `jefferson-*`. Built from title pages read for round 73.
 | The character of Paul (New York : The Macmillan company, 1923) | have-ocr | IA `characterofpaul00jeff_0` |
 | Five Present-Day Controversies (New York: Fleming H. Revell, 1924) | have-ocr | IA `fivepresentdayco0000jeff_n2t1` |
 | addresses and sermons printed as pamphlets of under 80 pages (Essentials, Christmas Builders, Congregationalism, The Cause of the War, The Land of Enough and others) | excluded | |
+
+## I. M. Haldeman (round 73, my pick, 2026-10-23)
+
+Slugs `haldeman-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Friday night papers, second coming, and other expositions (New York, T. Audel, 1901) | have-ocr | IA `fridaynightpaper00hald` |
+| How to study the Bible, the second coming and other expositions (New York, C. C. Cook, 1904) | have-ocr | IA `howtostudybible00hald` |
+| The coming of Christ, both pre-millennial and imminent (Philadelphia, Philadelphia School of the Bible, 1906) | have-ocr | IA `comingofchristbo00hald` |
+| Christian science in the light of the Holy Scripture (New York ; Chicago [etc.] : Fleming H. Revell company, 1909) | have-ocr | IA `christianscience00hald` |
+| The signs of the times (Toronto : Evangelical Publishers, 1910) | have-ocr | IA `signsofthetimes00halduoft` |
+| Christ, Christianity and the Bible (New York: C. C. Cook, copyright 1912) | have-ocr | IA `christchristiani00hald` |
+| Ten sermons on the second coming of Our Lord Jesus Christ, preached in the First Baptist church, New York City, from October 15 to December 17, 1916 (New York, C.C. Cook, 1917) | have-ocr | IA `tensermonsonsec00hald` |
+| Why I Preach the Second Coming (New York: Fleming H. Revell, copyright 1919) | have-ocr | IA `whyipreachsecond00halduoft` |
+| Can the Dead Communicate with the Living? (New York: Fleming H. Revell, copyright 1920) | have-ocr | IA `candeadcommunica00haldiala` |
+| pamphlets of under 100 pages (Theosophy or Christianity, Mental Assassination, The Second Coming of Christ 1917, Why I Am Opposed to the Interchurch World Movement) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

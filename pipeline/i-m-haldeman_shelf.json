@@ -1,0 +1,159 @@
+{
+ "_about": "Public-domain Isaac Massey Haldeman (1845-1933), pastor of First Baptist Church, New York, and premillennial writer, for the Word Hoard: Friday Night Papers (1901), How to Study the Bible (1904), The Coming of Christ (1906), Christian Science in the Light of Holy Scripture (1909), The Signs of the Times (1910), Christ, Christianity and the Bible (1912), Ten Sermons on the Second Coming (1917), Why I Preach the Second Coming (1919) and Can the Dead Communicate with the Living? (1920). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 73 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "haldeman"
+ ],
+ "_surname": [
+  "haldeman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "haldeman-friday-night-papers": [
+   "fridaynightpaper00hald",
+   "Friday night papers, second coming, and other expositions (New York, T. Audel, 1901)"
+  ],
+  "haldeman-how-to-study-bible": [
+   "howtostudybible00hald",
+   "How to study the Bible, the second coming and other expositions (New York, C. C. Cook, 1904)"
+  ],
+  "haldeman-coming-of-christ": [
+   "comingofchristbo00hald",
+   "The coming of Christ, both pre-millennial and imminent (Philadelphia, Philadelphia School of the Bible, 1906)"
+  ],
+  "haldeman-christian-science": [
+   "christianscience00hald",
+   "Christian science in the light of the Holy Scripture (New York ; Chicago [etc.] : Fleming H. Revell company, 1909)"
+  ],
+  "haldeman-signs-of-times": [
+   "signsofthetimes00halduoft",
+   "The signs of the times (Toronto : Evangelical Publishers, 1910)"
+  ],
+  "haldeman-christ-christianity-bible": [
+   "christchristiani00hald",
+   "Christ, Christianity and the Bible (New York: C. C. Cook, copyright 1912)"
+  ],
+  "haldeman-ten-sermons-second-coming": [
+   "tensermonsonsec00hald",
+   "Ten sermons on the second coming of Our Lord Jesus Christ, preached in the First Baptist church, New York City, from October 15 to December 17, 1916 (New York, C.C. Cook, 1917)"
+  ],
+  "haldeman-why-i-preach": [
+   "whyipreachsecond00halduoft",
+   "Why I Preach the Second Coming (New York: Fleming H. Revell, copyright 1919)"
+  ],
+  "haldeman-can-the-dead-communicate": [
+   "candeadcommunica00haldiala",
+   "Can the Dead Communicate with the Living? (New York: Fleming H. Revell, copyright 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "haldeman-pamphlets": "pamphlets of under 100 pages (Theosophy or Christianity, Mental Assassination, The Second Coming of Christ 1917, Why I Am Opposed to the Interchurch World Movement)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "haldeman-friday-night-papers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldeman-how-to-study-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "haldeman-coming-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldeman-christian-science": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "haldeman-signs-of-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldeman-christ-christianity-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[c1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldeman-ten-sermons-second-coming": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "haldeman-why-i-preach": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "[1919]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldeman-can-the-dead-communicate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haldeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[c1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
