@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain Edward Harold Browne (1811-1891), Bishop of Ely and Winchester, for the Word Hoard: An Exposition of the Thirty-nine Articles (London: Parker, 1850) and Messiah as Foretold and Expected (1862), from Internet Archive scans. Added 2026-10-23 by lane A, round 47 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "browne"
+ ],
+ "_surname": [
+  "edward harold browne",
+  "harold browne",
+  "e. harold browne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hbrowne-thirty-nine-articles": [
+   "anexpositionthi00wincgoog",
+   "An exposition of the thirty-nine articles : historical and doctrical (London : John W. Parker, 1850)"
+  ],
+  "hbrowne-messiah-foretold": [
+   "messiahasforeto00browgoog",
+   "Messiah as foretold and expected, a course of sermons (catalogued 1862)"
+  ]
+ },
+ "_alternates": {
+  "hbrowne-copies": "Many later printings of the Exposition",
+  "hbrowne-inspiration": "The Inspiration of Holy Scripture (New York 1879): Browne's essay from Aids to Faith bound with a portion of an essay by Ellicott; two authors in one volume"
+ },
+ "_excluded": {
+  "hbrowne-other": "Aids to Faith (1862, many authors); examination question books on his Exposition by other hands"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hbrowne-thirty-nine-articles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbrowne-messiah-foretold": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold browne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

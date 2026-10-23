@@ -10826,6 +10826,18 @@ Slugs `ellicott-*`. Built from title pages read for round 47.
 | The Boston 1866 Commentaries (two volumes), Ellicott's Commentaries 1890, other printings of each | alternate | not shelved |
 | The Pastoral Epistles (1869; IA pastoralepistles1869elli): the scan's OCR read the English as Greek and is unusable; another copy is needed | alternate | not shelved |
 | The New and Old Testament Commentaries for English Readers, Aids to Faith and the Homiletical Lectures: volumes he edited, written by many hands | excluded | |
+
+## Edward Harold Browne (round 47, my pick, 2026-10-23)
+
+Slugs `hbrowne-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| An exposition of the thirty-nine articles : historical and doctrical (London : John W. Parker, 1850) | have-ocr | IA `anexpositionthi00wincgoog` |
+| Messiah as foretold and expected, a course of sermons (catalogued 1862) | have-ocr | IA `messiahasforeto00browgoog` |
+| Many later printings of the Exposition | alternate | not shelved |
+| The Inspiration of Holy Scripture (New York 1879): Browne's essay from Aids to Faith bound with a portion of an essay by Ellicott; two authors in one volume | alternate | not shelved |
+| Aids to Faith (1862, many authors); examination question books on his Exposition by other hands | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
