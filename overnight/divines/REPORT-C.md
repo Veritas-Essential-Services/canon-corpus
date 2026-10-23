@@ -324,3 +324,5 @@
 - 2026-10-22T22:31-05:00: round 123: alys-hallard +4 (Coulevain; name form hallard added), singles-continental-fiction +9 (Cherbuliez, Prevost x2, Karr, Rod x2, Barres x2, Halevy); ellen-marriage _pending +1 (Frederique, undated). --verify --record 0 mismatched.
 
 - 2026-10-22T22:40-05:00: round 124: italian-classics +3 (Neera, Barrili, Manzoni), hispanic-classics +2 (Alarcon, Dinis), singles-fiction-3 +2 (Vikelas x2), singles-plays-poetry-2 +1 (Rustaveli). --verify --record 0 mismatched.
+
+- 2026-10-22T22:48-05:00: round 125: new willa-edwin-muir (2: Feuchtwanger), lowe-porter +1 (Magic Mountain), scheffauer +1, singles-plays-poetry-2 +5 (Werfel x2, Toller x2, Kaiser), singles-fiction-3 +1 (Gradiva); Success (1930) to _pending. --verify --record 0 mismatched.

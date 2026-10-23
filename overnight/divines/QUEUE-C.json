@@ -3960,6 +3960,14 @@
    "finished": "2026-10-22T22:40-05:00",
    "scope": "GAP-FILL (round 124, lane C's choice; Adam may veto) -- italian-classics +3, hispanic-classics +2, singles-fiction-3 +2, singles-plays-poetry-2 +1; PD printings before 1931 only; no minting",
    "notes": "8 titles; ids checked across all branches. See DIGEST-C round 124. No uids minted."
+  },
+  {
+   "id": "gapfill-r125-german-moderns",
+   "status": "done",
+   "started": "2026-10-22T22:48-05:00",
+   "finished": "2026-10-22T22:48-05:00",
+   "scope": "GAP-FILL (round 125, lane C's choice; Adam may veto) -- new willa-edwin-muir (2), lowe-porter +1, scheffauer +1, singles-plays-poetry-2 +5, singles-fiction-3 +1; PD printings before 1931 only; no minting",
+   "notes": "10 titles; ids checked across all branches. Success (1930) to _pending. See DIGEST-C round 125. No uids minted."
   }
  ]
 }

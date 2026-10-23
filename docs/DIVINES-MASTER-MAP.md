@@ -20859,13 +20859,14 @@ Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 repr
 ## H. T. Lowe-Porter (Mann's Buddenbrooks, 2 vols; Three Essays)
 
 Shelf: `pipeline/lowe-porter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lowe-porter` · titles `python3 pipeline/split_shelf_titles.py lowe-porter`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 125 (2026-10-23) added The Magic Mountain (Secker, 1928 one-volume reprint). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `lowe-porter-mann-buddenbrooks-vol-1` | Thomas Mann | Buddenbrooks, volume 1 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72961 |
 | `lowe-porter-mann-buddenbrooks-vol-2` | Thomas Mann | Buddenbrooks, volume 2 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72962 |
 | `lowe-porter-mann-three-essays` | Thomas Mann | Three essays | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 76837 |
+| `lowe-porter-mann-the-magic-mountain` | Thomas Mann | The Magic Mountain | H. T. Lowe-Porter | 1927 | have-raw | IA `magicmountain0000thom_x1b4` |
 
 ## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub; Goldoni)
 
@@ -21612,12 +21613,13 @@ Round 32 (2026-10-10), vetoable. Three Plays is keyed from a post-1934 printing:
 ## Herman Scheffauer (Heine's Atta Troll; Mann's Bashan and I)
 
 Shelf: `pipeline/scheffauer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scheffauer` · titles `python3 pipeline/split_shelf_titles.py scheffauer`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 125 (2026-10-23) added Mann's Children and Fools (1928). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `scheffauer-heine-atta-troll` | Heinrich Heine | Atta Troll | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 31305 |
 | `scheffauer-mann-bashan-and-i` | Thomas Mann | Bashan and I | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 61284 |
+| `scheffauer-mann-children-and-fools` | Thomas Mann | Children and Fools | Herman George Scheffauer | 1928 | have-raw | IA `childrenfools0000thom` |
 
 ## Percy Pinkerton (Artsybashev's Sanine, The Millionaire, Tales of the Revolution and War; La Bohème libretto)
 
@@ -23859,7 +23861,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Round 124 added Rustaveli (Wardrop, 1912). Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Round 124 added Rustaveli (Wardrop, 1912). Round 125 added Werfel ×2, Toller ×2 and Kaiser. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23910,13 +23912,18 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-lermontov-demon-burness` | Mikhail Lermontov | The Demon | Robert Burness | 1918 | have-raw | IA `demonthe00lermrich` |
 | `singles-plays-poetry-2-rudzinsky-russian-poems` | Karamzin, Pushkin, Tyutchev, Lermontov, A. K. Tolstoy and others | Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy and others, with English translations and notes | B. A. Rudzinsky, assisted by Stella Gardiner | 1917 | have-raw | IA `poemsselectedfro00rudz` |
 | `singles-plays-poetry-2-rustaveli-man-in-the-panthers-skin` | Shota Rustaveli | The Man in the Panther's Skin: a Romantic Epic | Marjory Scott Wardrop | 1912 | have-raw | IA `maninpanthersski0000shot` |
+| `singles-plays-poetry-2-werfel-goat-song` | Franz Werfel | Goat Song: a Drama in Five Acts | Ruth Langner | 1926 | have-raw | IA `goatsong0000fran_w9f5` |
+| `singles-plays-poetry-2-werfel-juarez-and-maximilian` | Franz Werfel | Juarez and Maximilian: a Dramatic History in Three Phases and Thirteen Pictures | Ruth Langner | 1926 | have-raw | IA `juarezmaximilian0000fran` |
+| `singles-plays-poetry-2-toller-masses-and-man` | Ernst Toller | Masses and Man: a Fragment of the Social Revolution of the Twentieth Century | Vera Mendel | 1923 | have-raw | IA `massesmanfragmen0000toll` |
+| `singles-plays-poetry-2-toller-brokenbrow` | Ernst Toller | Brokenbrow: a Tragedy | Vera Mendel | 1926 | have-raw | IA `brokenbrowtraged00tolluoft` |
+| `singles-plays-poetry-2-kaiser-from-morn-to-midnight` | Georg Kaiser | From Morn to Midnight: a Play in Seven Scenes | Ashley Dukes | 1922 | have-raw | IA `frommorntomidnig00kais` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24010,6 +24017,7 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-pushkin-russian-romance-telfer` | Aleksandr Pushkin | Russian Romance (The Captain's Daughter and other tales) | Mrs. J. Buchan Telfer | 1875 | have-raw | IA `russianromance00pushiala` |
 | `singles-fiction-3-vikelas-loukis-laras` | Demetrios Vikelas | Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence | J. Gennadius | 1881 | have-raw | IA `loukislarasremin00vike` |
 | `singles-fiction-3-vikelas-tales-from-the-aegean` | Demetrios Vikelas | Tales from the Aegean | Leonard Eckstein Opdycke | 1894 | have-raw | IA `talesfromgean00opdygoog` |
+| `singles-fiction-3-jensen-gradiva` | Wilhelm Jensen | Gradiva: a Pompeiian Fancy | Helen M. Downey | 1918 | have-raw | IA `gradivaapompeii00jensgoog` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -25382,6 +25390,16 @@ Round 121 (2026-10-23), vetoable. Not converted to unit-id JSON; **no uids minte
 |---|---|---|---|---|---|---|
 | `eugene-schuyler-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | Eugene Schuyler | 1867 | have-raw | IA `fathersandsonsa00schugoog` |
 | `eugene-schuyler-tolstoy-the-cossacks` | Leo Tolstoy | The Cossacks: A Tale of the Caucasus in 1852 | Eugene Schuyler | 1878 | have-raw | IA `cossackstrbyesc00tolsgoog` |
+
+## Shelf: Willa and Edwin Muir (Feuchtwanger)
+
+Shelf: `pipeline/willa-edwin-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py willa-edwin-muir` · titles `python3 pipeline/split_shelf_titles.py willa-edwin-muir`.
+Round 125 (2026-10-23), vetoable. Success (1930) waits in _pending on the 1930 ruling. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `willa-edwin-muir-feuchtwanger-power` | Lion Feuchtwanger | Power (Jud Süß; in Britain, Jew Süss) | Willa and Edwin Muir | 1926 | have-raw | IA `power0000lion_a6p0` |
+| `willa-edwin-muir-feuchtwanger-the-ugly-duchess` | Lion Feuchtwanger | The Ugly Duchess | Willa and Edwin Muir | 1928 | have-raw | IA `bwb_C0-CEK-906` |
 # Storytellers
 
 ## Andrew Lang
