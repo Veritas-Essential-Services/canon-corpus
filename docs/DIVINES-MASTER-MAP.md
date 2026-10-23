@@ -38640,3 +38640,28 @@ Shelf: `pipeline/irving-bacheller_shelf.json` (2026-10-22; added at the coordina
 | Eben Holden's Last Day A-Fishing | have | PG 52454, `ibacheller-eben-holdens-last-day-a-fishing` (430 units) |
 | In Various Moods: Poems and Verses | have | PG 52457, `ibacheller-in-various-moods` (747 units) |
 | pg-57684 | excluded | PG 57684: Gutenberg's index of the author's works, not a book. |
+
+## Mrs. J. H. Riddell
+
+Shelf: `pipeline/mrs-jh-riddell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ghost stories and Victorian novels. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Uninhabited House | have | PG 8602, `jhriddell-uninhabited-house` (1253 units) |
+| Mortomley's Estate: A Novel. Vol. 2 (of 3) | have | PG 39552, `jhriddell-mortomleys-estate` (1446 units) |
+| Mortomley's Estate: A Novel. Vol. 1 (of 3) | have | PG 39611, `jhriddell-mortomleys-estate-39611` (1202 units) |
+| Mortomley's Estate: A Novel. Vol. 3 (of 3) | have | PG 39661, `jhriddell-mortomleys-estate-39661` (1370 units) |
+| The Earl's promise | have | PG 70755, `jhriddell-earls-promise` (1112 units) |
+| The Earl's promise (a volume of a set Gutenberg lists under one title) | have | PG 70756, `jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un` (1189 units) |
+| The Earl's promise (a volume of a set Gutenberg lists under one title) | have | PG 70757, `jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un-70757` (1295 units) |
+| Far above rubies (Vol. 1 of 3) | have | PG 71112, `jhriddell-far-above-rubies-vol-1-of-3` (1178 units) |
+| Far above rubies (Vol. 2 of 3) | have | PG 71113, `jhriddell-far-above-rubies-vol-2-of-3` (1176 units) |
+| Far above rubies (Vol. 3 of 3) | have | PG 71114, `jhriddell-far-above-rubies-vol-3-of-3` (1157 units) |
+| Phemie Keller | have | PG 71357, `jhriddell-phemie-keller` (981 units) |
+| Phemie Keller (a volume of a set Gutenberg lists under one title) | have | PG 71358, `jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un` (1041 units) |
+| Phemie Keller (a volume of a set Gutenberg lists under one title) | have | PG 71359, `jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un-71359` (1091 units) |
+| The moors and the fens, volume 1 (of 3) | have | PG 77931, `jhriddell-moors-and-the-fens-volume-1-of-3` (1012 units) |
+| The moors and the fens, volume 2 (of 3) | have | PG 78846, `jhriddell-moors-and-the-fens-volume-2-of-3` (1052 units) |
+| Maxwell Drewitt, vol. 1 of 2 | have | PG 78945, `jhriddell-maxwell-drewitt-vol-1-of-2` (2064 units) |
+| Maxwell Drewitt, vol. 2 of 2 | have | PG 79387, `jhriddell-maxwell-drewitt-vol-2-of-2` (2052 units) |
+| The moors and the fens, volume 3 (of 3) | have | PG 79751, `jhriddell-moors-and-the-fens-volume-3-of-3` (925 units) |
