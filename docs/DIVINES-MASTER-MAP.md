@@ -44047,3 +44047,16 @@ Shelf: `pipeline/albert-w-aiken_shelf.json` (2026-10-22; added at the coordinato
 | The Border Riflemen; or, The Forest Fiend. A Romance of the Black-Hawk Uprising | have | PG 66064, `awaiken-border-riflemen` (784 units) |
 | The Rival Trappers: or, Old Pegs, The Mountaineer | have | PG 67169, `awaiken-rival-trappers` (974 units) |
 | The skeleton scout; or, The border block | have | PG 68538, `awaiken-skeleton-scout` (871 units) |
+
+## Grace Aguilar
+
+Shelf: `pipeline/grace-aguilar_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mother's Recompense, Volume 1 A Sequel to Home Influence | have | PG 12361, `gaguilar-mothers-recompense-volume-1-a-sequel-to-home-influe` (995 units) |
+| The Mother's Recompense, Volume 2 A Sequel to Home Influence | have | PG 12362, `gaguilar-mothers-recompense-volume-2-a-sequel-to-home-influe` (1043 units) |
+| The Vale of Cedars; Or, The Martyr | have | PG 12725, `gaguilar-vale-of-cedars` (884 units) |
+| The Days of Bruce: A Story from Scottish History. Vol. 1 | have | PG 18387, `gaguilar-days-of-bruce` (1447 units) |
+| Home Influence: A Tale for Mothers and Daughters | have | PG 36648, `gaguilar-home-influence` (1875 units) |
+| Home Scenes and Heart Studies | have | PG 56722, `gaguilar-home-scenes-and-heart-studies` (1964 units) |

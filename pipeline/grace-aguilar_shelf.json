@@ -1,0 +1,98 @@
+{
+ "_about": "Grace Aguilar: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Grace Aguilar",
+ "_name_words": [
+  "aguilar",
+  "grace"
+ ],
+ "_surname": [
+  "grace aguilar",
+  "aguilar"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gaguilar-mothers-recompense-volume-1-a-sequel-to-home-influe": [
+   12361,
+   "The Mother's Recompense, Volume 1 A Sequel to Home Influence"
+  ],
+  "gaguilar-mothers-recompense-volume-2-a-sequel-to-home-influe": [
+   12362,
+   "The Mother's Recompense, Volume 2 A Sequel to Home Influence"
+  ],
+  "gaguilar-vale-of-cedars": [
+   12725,
+   "The Vale of Cedars; Or, The Martyr"
+  ],
+  "gaguilar-days-of-bruce": [
+   18387,
+   "The Days of Bruce: A Story from Scottish History. Vol. 1"
+  ],
+  "gaguilar-home-influence": [
+   36648,
+   "Home Influence: A Tale for Mothers and Daughters"
+  ],
+  "gaguilar-home-scenes-and-heart-studies": [
+   56722,
+   "Home Scenes and Heart Studies"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gaguilar-mothers-recompense-volume-1-a-sequel-to-home-influe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaguilar-mothers-recompense-volume-2-a-sequel-to-home-influe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaguilar-vale-of-cedars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaguilar-days-of-bruce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaguilar-home-influence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaguilar-home-scenes-and-heart-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace aguilar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
