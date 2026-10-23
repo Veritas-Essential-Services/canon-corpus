@@ -21475,3 +21475,21 @@ Shelf: `pipeline/scudder-childrens-book_shelf.json` (2026-10-23; at Adam's ask f
 | Work | Status | Where |
 |---|---|---|
 | The Children's Book: A Collection of the Best and Most Famous Stories and Poems in the English Language (Houghton, Mifflin, 1881) | have (raw OCR) | IA `childrensbookcol00scud`, `scudder-childrens-book-1881` |
+
+## The University Society (publisher)
+
+Shelf: `pipeline/bookshelf-for-boys-and-girls_shelf.json` (2026-10-23; at Adam's ask for old children's sets). The University Society's The Bookshelf for Boys and Girls (1912), 10 of its 21 volumes. 0 Gutenberg texts, 10 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bookshelf for Boys and Girls, volume 6: Book of Nature and Outdoor Life (Part II, as its title page reads) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ6`, `bookshelf-boys-girls-v06` |
+| The Bookshelf for Boys and Girls, volume 8: Historic Tales and Golden Deeds (Part II) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ08`, `bookshelf-boys-girls-v08` |
+| The Bookshelf for Boys and Girls, volume 9: Children's Book of Fact and Fancy (Part I) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ9`, `bookshelf-boys-girls-v09` |
+| The Bookshelf for Boys and Girls, volume 10: Children's Book of Fact and Fancy (Part II) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ10`, `bookshelf-boys-girls-v10` |
+| The Bookshelf for Boys and Girls, volume 13: Book of Nature and Outdoor Life (Part III) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ13`, `bookshelf-boys-girls-v13` |
+| The Bookshelf for Boys and Girls, volume 15: Book of Wonders and Curious Things (Part I) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ15`, `bookshelf-boys-girls-v15` |
+| The Bookshelf for Boys and Girls, volume 18: Historic Tales and Golden Deeds (Part IV) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ019`, `bookshelf-boys-girls-v18` |
+| The Bookshelf for Boys and Girls, volume 19: Little Journeys into Bookland (Part I) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys19univ19`, `bookshelf-boys-girls-v19` |
+| The Bookshelf for Boys and Girls, volume 20: Little Journeys into Bookland (Part II) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ20`, `bookshelf-boys-girls-v20` |
+| The Bookshelf for Boys and Girls, volume 21: General Index (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ21`, `bookshelf-boys-girls-v21` |
+| bookshelf-boys-girls-v04 | excluded | IA bookshelfforboys00univ4, catalogued as volume 4: its OCR has no title page and never names the publisher, so which volume it is cannot be checked; left out (2026-10-23). |

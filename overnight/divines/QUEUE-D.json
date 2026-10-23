@@ -6981,6 +6981,14 @@
       "started": "2026-10-23T09:16:12-05:00",
       "finished": "2026-10-23T09:16:12-05:00",
       "notes": "scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bookshelf-for-boys-and-girls",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — The University Society (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:19:10-05:00",
+      "finished": "2026-10-23T09:19:10-05:00",
+      "notes": "bookshelf-for-boys-and-girls: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

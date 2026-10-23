@@ -2924,3 +2924,6 @@
 
 ## 2026-10-23 09:16 CDT — scudder-childrens-book: done
 - scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:19 CDT — bookshelf-for-boys-and-girls: done
+- bookshelf-for-boys-and-girls: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags.
