@@ -1,0 +1,307 @@
+{
+ "_about": "David Graham Phillips's novels and his Treason of the Senate. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "David Graham Phillips",
+ "_name_words": [
+  "david",
+  "graham",
+  "phillips"
+ ],
+ "_surname": [
+  "david graham phillips",
+  "graham phillips"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dgphillips-grain-of-dust": [
+   430,
+   "The Grain of Dust: A Novel"
+  ],
+  "dgphillips-fortune-hunter": [
+   431,
+   "The Fortune Hunter"
+  ],
+  "dgphillips-conflict": [
+   433,
+   "The Conflict"
+  ],
+  "dgphillips-susan-lenox": [
+   450,
+   "Susan Lenox: Her Fall and Rise"
+  ],
+  "dgphillips-price-she-paid": [
+   457,
+   "The Price She Paid"
+  ],
+  "dgphillips-cost": [
+   478,
+   "The Cost"
+  ],
+  "dgphillips-fashionable-adventures-of-joshua-craig": [
+   4929,
+   "The Fashionable Adventures of Joshua Craig: A Novel"
+  ],
+  "dgphillips-deluge": [
+   7832,
+   "The Deluge"
+  ],
+  "dgphillips-great-god-success": [
+   7989,
+   "The Great God Success: A Novel"
+  ],
+  "dgphillips-second-generation": [
+   11614,
+   "The Second Generation"
+  ],
+  "dgphillips-plum-tree": [
+   20449,
+   "The Plum Tree"
+  ],
+  "dgphillips-light-fingered-gentry": [
+   48621,
+   "Light-Fingered Gentry"
+  ],
+  "dgphillips-hungry-heart": [
+   48699,
+   "The Hungry Heart: A Novel"
+  ],
+  "dgphillips-social-secretary": [
+   55719,
+   "The Social Secretary"
+  ],
+  "dgphillips-her-serene-highness": [
+   64128,
+   "Her Serene Highness: A Novel"
+  ],
+  "dgphillips-golden-fleece": [
+   64301,
+   "Golden Fleece: The American Adventures of a Fortune Hunting Earl"
+  ],
+  "dgphillips-reign-of-gilt": [
+   64402,
+   "The Reign of Gilt"
+  ],
+  "dgphillips-george-helm": [
+   64852,
+   "George Helm"
+  ],
+  "dgphillips-white-magic": [
+   65432,
+   "White Magic: A Novel"
+  ],
+  "dgphillips-master-rogue": [
+   67089,
+   "The Master Rogue: The Confessions of a Croesus"
+  ],
+  "dgphillips-woman-ventures": [
+   67130,
+   "A Woman Ventures: A Novel"
+  ],
+  "dgphillips-husbands-story": [
+   67406,
+   "The Husband's Story: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dgphillips-grain-of-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-fortune-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-conflict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-susan-lenox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-price-she-paid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-cost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-fashionable-adventures-of-joshua-craig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-deluge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-great-god-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-second-generation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-plum-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-light-fingered-gentry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-hungry-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-social-secretary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-her-serene-highness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-golden-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-reign-of-gilt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-george-helm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-white-magic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-master-rogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-woman-ventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgphillips-husbands-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david graham phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

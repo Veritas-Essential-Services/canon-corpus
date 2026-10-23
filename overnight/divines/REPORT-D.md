@@ -1728,3 +1728,6 @@
 
 ## 2026-10-22 22:14 CDT — harold-macgrath: done
 - harold-macgrath: new shelf, 22 Gutenberg books, 44,178 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:14 CDT — david-graham-phillips: done
+- david-graham-phillips: new shelf, 22 Gutenberg books, 43,827 units, 2624 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -38233,3 +38233,32 @@ Shelf: `pipeline/harold-macgrath_shelf.json` (2026-10-22; added at the coordinat
 | The Best Man | have | PG 45528, `hmacgrath-best-man` (906 units) |
 | Enchantment | have | PG 55162, `hmacgrath-enchantment` (1235 units) |
 | The Yellow Typhoon | have | PG 56945, `hmacgrath-yellow-typhoon` (1584 units) |
+
+## David Graham Phillips
+
+Shelf: `pipeline/david-graham-phillips_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Grain of Dust: A Novel | have | PG 430, `dgphillips-grain-of-dust` (2618 units) |
+| The Fortune Hunter | have | PG 431, `dgphillips-fortune-hunter` (853 units) |
+| The Conflict | have | PG 433, `dgphillips-conflict` (2314 units) |
+| Susan Lenox: Her Fall and Rise | have | PG 450, `dgphillips-susan-lenox` (6928 units) |
+| The Price She Paid | have | PG 457, `dgphillips-price-she-paid` (2436 units) |
+| The Cost | have | PG 478, `dgphillips-cost` (1740 units) |
+| The Fashionable Adventures of Joshua Craig: A Novel | have | PG 4929, `dgphillips-fashionable-adventures-of-joshua-craig` (1770 units) |
+| The Deluge | have | PG 7832, `dgphillips-deluge` (1850 units) |
+| The Great God Success: A Novel | have | PG 7989, `dgphillips-great-god-success` (1600 units) |
+| The Second Generation | have | PG 11614, `dgphillips-second-generation` (2043 units) |
+| The Plum Tree | have | PG 20449, `dgphillips-plum-tree` (1360 units) |
+| Light-Fingered Gentry | have | PG 48621, `dgphillips-light-fingered-gentry` (2545 units) |
+| The Hungry Heart: A Novel | have | PG 48699, `dgphillips-hungry-heart` (3419 units) |
+| The Social Secretary | have | PG 55719, `dgphillips-social-secretary` (503 units) |
+| Her Serene Highness: A Novel | have | PG 64128, `dgphillips-her-serene-highness` (708 units) |
+| Golden Fleece: The American Adventures of a Fortune Hunting Earl | have | PG 64301, `dgphillips-golden-fleece` (1551 units) |
+| The Reign of Gilt | have | PG 64402, `dgphillips-reign-of-gilt` (582 units) |
+| George Helm | have | PG 64852, `dgphillips-george-helm` (1164 units) |
+| White Magic: A Novel | have | PG 65432, `dgphillips-white-magic` (2524 units) |
+| The Master Rogue: The Confessions of a Croesus | have | PG 67089, `dgphillips-master-rogue` (836 units) |
+| A Woman Ventures: A Novel | have | PG 67130, `dgphillips-woman-ventures` (1669 units) |
+| The Husband's Story: A Novel | have | PG 67406, `dgphillips-husbands-story` (2814 units) |

@@ -3853,6 +3853,14 @@
       "started": "2026-10-22T22:14:29-05:00",
       "finished": "2026-10-22T22:14:29-05:00",
       "notes": "harold-macgrath: new shelf, 22 Gutenberg books, 44,178 units, 89 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "david-graham-phillips",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — David Graham Phillips; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:14:51-05:00",
+      "finished": "2026-10-22T22:14:51-05:00",
+      "notes": "david-graham-phillips: new shelf, 22 Gutenberg books, 43,827 units, 2624 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
