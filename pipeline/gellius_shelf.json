@@ -126,5 +126,42 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "perseus": {
+  "gellius-perseus-rolfe-attic-nights": [
+   "phi1254.phi001.perseus-eng1",
+   "Attic Nights",
+   "John C. Rolfe",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Gellius, Aulus. The Attic Nights of Aulus Gellius. Rolfe, John C., translator. Cambridge, Mass.; London: Harvard University Press; William Heinemann, 1927 (printing)."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "gellius-perseus-rolfe-attic-nights": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi1254.phi001.perseus-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Rolfe",
+   "author_seen": "gellius",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1254/phi001/phi1254.phi001.perseus-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
