@@ -1,0 +1,920 @@
+{
+ "_about": "Storytellers' tail, group 10: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): John Turvill Adams, Phoebe Allen, Young Ewing Allison, Joseph Bushnell Ames, Rebecca Agatha Armour, Edwin Lester Arnold, Eleanor Atkinson, Frank Aubrey, Mary Schell Hoke Bacon, Eustace Hale Ball, G. Linnaeus Banks, Nancy Huston Banks, M. H. Barker, Frank Barrett, Edward L. Beach, Charles Willing Beale, Cuthbert Bede, Lucia Chase Bell, Ottwell Binns, Edith Ferguson Black, Conrad von Bolanden, T. C. Bridges, Mary D. Brine, Andrew Cassels Brown, Edna A. Brown, William Perry Brown, Porter Emerson Browne. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 10 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jtadams-lost-hunter": [
+   "john turvill adams",
+   "adams"
+  ],
+  "jtadams-knight-of-the-golden-melice": [
+   "john turvill adams",
+   "adams"
+  ],
+  "pallen-forbidden-room": [
+   "phoebe allen"
+  ],
+  "pallen-peeps-at-heraldry": [
+   "phoebe allen"
+  ],
+  "yeallison-delicious-vice": [
+   "young ewing allison",
+   "allison"
+  ],
+  "yeallison-on-the-vice-of-novel-reading-being-a-brief-in-appe": [
+   "young ewing allison",
+   "allison"
+  ],
+  "jbames-shoe-bar-stratton": [
+   "joseph bushnell ames"
+  ],
+  "jbames-under-boy-scout-colors": [
+   "joseph bushnell ames"
+  ],
+  "raarmour-marguerite-verne": [
+   "rebecca agatha armour",
+   "armour"
+  ],
+  "raarmour-lady-rosamond-s-secret": [
+   "rebecca agatha armour",
+   "armour"
+  ],
+  "elarnold-gulliver-of-mars": [
+   "edwin lester arnold",
+   "arnold"
+  ],
+  "elarnold-wonderful-adventures-of-phra-the-phoenician": [
+   "edwin lester arnold",
+   "arnold"
+  ],
+  "eatkinson-greyfriars-bobby": [
+   "eleanor atkinson",
+   "atkinson"
+  ],
+  "eatkinson-lincoln-s-love-story": [
+   "eleanor atkinson",
+   "atkinson"
+  ],
+  "faubrey-devil-tree-of-el-dorado": [
+   "frank aubrey",
+   "aubrey"
+  ],
+  "faubrey-trip-to-mars": [
+   "frank aubrey",
+   "aubrey"
+  ],
+  "mshbacon-pictures-every-child-should-know-a-selection-of-the": [
+   "mary schell hoke bacon"
+  ],
+  "mshbacon-operas-every-child-should-know-descriptions-of-the": [
+   "mary schell hoke bacon"
+  ],
+  "ehball-voice-on-the-wire": [
+   "eustace hale ball"
+  ],
+  "ehball-traffic-in-souls": [
+   "eustace hale ball"
+  ],
+  "glbanks-making-of-william-edwards": [
+   "g. linnaeus banks",
+   "george linnaeus banks",
+   "banks"
+  ],
+  "glbanks-manchester-man": [
+   "g. linnaeus banks",
+   "george linnaeus banks",
+   "banks"
+  ],
+  "nhbanks-round-anvil-rock": [
+   "nancy huston banks",
+   "banks"
+  ],
+  "nhbanks-oldfield": [
+   "nancy huston banks",
+   "banks"
+  ],
+  "mhbarker-tough-yarns-vol-1-of-2": [
+   "m. h. barker",
+   "matthew henry barker"
+  ],
+  "mhbarker-tough-yarns-vol-2-of-2": [
+   "m. h. barker",
+   "matthew henry barker"
+  ],
+  "fbarrett-set-of-rogues-namely-christopher-sutton-john-dawson": [
+   "frank barrett",
+   "barrett"
+  ],
+  "fbarrett-admirable-lady-biddy-fane-her-surprising-curious-ad": [
+   "frank barrett",
+   "barrett"
+  ],
+  "elbeach-annapolis-first-classman": [
+   "edward l. beach",
+   "edward latimer beach",
+   "beach"
+  ],
+  "elbeach-ralph-osborn-midshipman-at-annapolis": [
+   "edward l. beach",
+   "edward latimer beach",
+   "beach"
+  ],
+  "cwbeale-ghost-of-guir-house": [
+   "charles willing beale",
+   "beale"
+  ],
+  "cwbeale-secret-of-the-earth": [
+   "charles willing beale",
+   "beale"
+  ],
+  "cbede-adventures-of-mr-verdant-green": [
+   "cuthbert bede"
+  ],
+  "cbede-further-adventures-of-mr-verdant-green-an-oxford-under": [
+   "cuthbert bede"
+  ],
+  "lcbell-obil-keeper-of-camels": [
+   "lucia chase bell"
+  ],
+  "lcbell-all-the-world-over": [
+   "lucia chase bell"
+  ],
+  "obinns-mating-in-the-wilds": [
+   "ottwell binns",
+   "binns"
+  ],
+  "obinns-lady-of-north-star": [
+   "ottwell binns",
+   "binns"
+  ],
+  "efblack-beautiful-possibility": [
+   "edith ferguson black"
+  ],
+  "efblack-princess-in-calico": [
+   "edith ferguson black"
+  ],
+  "cvbolanden-barbarossa": [
+   "conrad von bolanden",
+   "bolanden"
+  ],
+  "cvbolanden-progressionists-and-angela": [
+   "conrad von bolanden",
+   "bolanden"
+  ],
+  "tcbridges-on-land-and-sea-at-the-dardanelles": [
+   "t. c. bridges",
+   "thomas charles bridges"
+  ],
+  "tcbridges-life-story-of-a-squirrel": [
+   "t. c. bridges",
+   "thomas charles bridges"
+  ],
+  "mdbrine-grandma-s-memories": [
+   "mary d. brine",
+   "mary dow brine",
+   "brine"
+  ],
+  "mdbrine-how-a-dear-little-couple-went-abroad": [
+   "mary d. brine",
+   "mary dow brine",
+   "brine"
+  ],
+  "acbrown-book-of-artemas-concerning-men-and-the-things-that-m": [
+   "andrew cassels brown"
+  ],
+  "acbrown-artemasthe-second-book-concerning-men-and-the-things": [
+   "andrew cassels brown"
+  ],
+  "eabrown-spanish-chest": [
+   "edna a. brown"
+  ],
+  "eabrown-chinese-kitten": [
+   "edna a. brown"
+  ],
+  "wpbrown-our-pilots-in-the-air": [
+   "william perry brown"
+  ],
+  "wpbrown-ralph-granger-s-fortunes": [
+   "william perry brown"
+  ],
+  "pebrowne-fool-there-was": [
+   "porter emerson browne",
+   "browne"
+  ],
+  "pebrowne-bad-man": [
+   "porter emerson browne",
+   "browne"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jtadams-lost-hunter": [
+   15328,
+   "The lost hunter: A tale of early times"
+  ],
+  "jtadams-knight-of-the-golden-melice": [
+   16114,
+   "The Knight of the Golden Melice: A Historical Romance"
+  ],
+  "pallen-forbidden-room": [
+   49389,
+   "The Forbidden Room; Or, \"Mine Answer was My Deed\""
+  ],
+  "pallen-peeps-at-heraldry": [
+   55439,
+   "Peeps at Heraldry"
+  ],
+  "yeallison-delicious-vice": [
+   8686,
+   "The Delicious Vice"
+  ],
+  "yeallison-on-the-vice-of-novel-reading-being-a-brief-in-appe": [
+   24704,
+   "On the Vice of Novel Reading. Being a brief in appeal, pointing out errors of the lower tribunal."
+  ],
+  "jbames-shoe-bar-stratton": [
+   27355,
+   "Shoe-Bar Stratton"
+  ],
+  "jbames-under-boy-scout-colors": [
+   32173,
+   "Under Boy Scout Colors"
+  ],
+  "raarmour-marguerite-verne": [
+   6945,
+   "Marguerite Verne; Or, Scenes from Canadian Life"
+  ],
+  "raarmour-lady-rosamond-s-secret": [
+   18145,
+   "Lady Rosamond's Secret: A Romance of Fredericton"
+  ],
+  "elarnold-gulliver-of-mars": [
+   604,
+   "Gulliver of Mars"
+  ],
+  "elarnold-wonderful-adventures-of-phra-the-phoenician": [
+   67345,
+   "The Wonderful Adventures of Phra the Phoenician"
+  ],
+  "eatkinson-greyfriars-bobby": [
+   2693,
+   "Greyfriars Bobby"
+  ],
+  "eatkinson-lincoln-s-love-story": [
+   48233,
+   "Lincoln's Love Story"
+  ],
+  "faubrey-devil-tree-of-el-dorado": [
+   43944,
+   "The Devil-Tree of El Dorado: A Novel"
+  ],
+  "faubrey-trip-to-mars": [
+   44534,
+   "A Trip to Mars"
+  ],
+  "mshbacon-pictures-every-child-should-know-a-selection-of-the": [
+   6932,
+   "Pictures Every Child Should Know A Selection of the World's Art Masterpieces for Young People"
+  ],
+  "mshbacon-operas-every-child-should-know-descriptions-of-the": [
+   28711,
+   "Operas Every Child Should Know Descriptions of the Text and Music of Some of the Most Famous Masterpieces"
+  ],
+  "ehball-voice-on-the-wire": [
+   5672,
+   "The Voice on the Wire"
+  ],
+  "ehball-traffic-in-souls": [
+   29453,
+   "Traffic in Souls: A Novel of Crime and Its Cure"
+  ],
+  "glbanks-making-of-william-edwards": [
+   38212,
+   "The Making of William Edwards; or, The Story of the Bridge of Beauty"
+  ],
+  "glbanks-manchester-man": [
+   64320,
+   "The Manchester Man"
+  ],
+  "nhbanks-round-anvil-rock": [
+   11379,
+   "Round Anvil Rock: A Romance"
+  ],
+  "nhbanks-oldfield": [
+   35239,
+   "Oldfield: A Kentucky Tale of the Last Century"
+  ],
+  "mhbarker-tough-yarns-vol-1-of-2": [
+   72996,
+   "Tough yarns, vol. 1 (of 2)"
+  ],
+  "mhbarker-tough-yarns-vol-2-of-2": [
+   76867,
+   "Tough yarns, vol. 2 (of 2)"
+  ],
+  "fbarrett-set-of-rogues-namely-christopher-sutton-john-dawson": [
+   10727,
+   "A Set of Rogues Namely Christopher Sutton, John Dawson, the Señor Don Sanchez Del Castillo De Castelaña and Moll Dawson; Their Wicked Conspiracy, and a True Account of Their Travels and Adventures"
+  ],
+  "fbarrett-admirable-lady-biddy-fane-her-surprising-curious-ad": [
+   34476,
+   "The Admirable Lady Biddy Fane Her Surprising Curious Adventures In Strange Parts & Happy Deliverance From Pirates, Battle, Captivity, & Other Terrors; Together With Divers Romantic & Moving Accidents As Set Forth By Benet Pengilly (Her Companion In Misfortune & Joy), & Now First Done Into Print"
+  ],
+  "elbeach-annapolis-first-classman": [
+   40368,
+   "An Annapolis First Classman"
+  ],
+  "elbeach-ralph-osborn-midshipman-at-annapolis": [
+   61610,
+   "Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy"
+  ],
+  "cwbeale-ghost-of-guir-house": [
+   8182,
+   "The Ghost of Guir House"
+  ],
+  "cwbeale-secret-of-the-earth": [
+   44535,
+   "The Secret of the Earth"
+  ],
+  "cbede-adventures-of-mr-verdant-green": [
+   4644,
+   "The Adventures of Mr. Verdant Green"
+  ],
+  "cbede-further-adventures-of-mr-verdant-green-an-oxford-under": [
+   40338,
+   "The Further Adventures of Mr. Verdant Green, an Oxford Under-Graduate Being a Continuation of \"The Adventures of Mr. Verdant Green, an Oxford Freshman\""
+  ],
+  "lcbell-obil-keeper-of-camels": [
+   51006,
+   "Obil, Keeper of Camels"
+  ],
+  "lcbell-all-the-world-over": [
+   67560,
+   "All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life"
+  ],
+  "obinns-mating-in-the-wilds": [
+   21055,
+   "A Mating in the Wilds"
+  ],
+  "obinns-lady-of-north-star": [
+   48237,
+   "The Lady of North Star"
+  ],
+  "efblack-beautiful-possibility": [
+   10037,
+   "A Beautiful Possibility"
+  ],
+  "efblack-princess-in-calico": [
+   27630,
+   "A Princess in Calico"
+  ],
+  "cvbolanden-barbarossa": [
+   33487,
+   "Barbarossa; An Historical Novel of the XII Century."
+  ],
+  "cvbolanden-progressionists-and-angela": [
+   33573,
+   "The Progressionists, and Angela."
+  ],
+  "tcbridges-on-land-and-sea-at-the-dardanelles": [
+   11513,
+   "On Land and Sea at the Dardanelles"
+  ],
+  "tcbridges-life-story-of-a-squirrel": [
+   68252,
+   "The life story of a squirrel"
+  ],
+  "mdbrine-grandma-s-memories": [
+   9382,
+   "Grandma's Memories"
+  ],
+  "mdbrine-how-a-dear-little-couple-went-abroad": [
+   39806,
+   "How \"a dear little couple\" went abroad"
+  ],
+  "acbrown-book-of-artemas-concerning-men-and-the-things-that-m": [
+   69143,
+   "The book of Artemas concerning men, and the things that men did do, at the time when there was war"
+  ],
+  "acbrown-artemasthe-second-book-concerning-men-and-the-things": [
+   69144,
+   "Artemas—the second book concerning men, and the things that men did do, at the time when there was war"
+  ],
+  "eabrown-spanish-chest": [
+   6998,
+   "The Spanish Chest"
+  ],
+  "eabrown-chinese-kitten": [
+   57600,
+   "The Chinese kitten"
+  ],
+  "wpbrown-our-pilots-in-the-air": [
+   6082,
+   "Our Pilots in the Air"
+  ],
+  "wpbrown-ralph-granger-s-fortunes": [
+   18683,
+   "Ralph Granger's Fortunes"
+  ],
+  "pebrowne-fool-there-was": [
+   6305,
+   "A Fool There Was"
+  ],
+  "pebrowne-bad-man": [
+   16968,
+   "The Bad Man: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jtadams-lost-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john turvill adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtadams-knight-of-the-golden-melice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john turvill adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pallen-forbidden-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phoebe allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pallen-peeps-at-heraldry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "phoebe allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeallison-delicious-vice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "young ewing allison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeallison-on-the-vice-of-novel-reading-being-a-brief-in-appe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "young ewing allison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbames-shoe-bar-stratton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bushnell ames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbames-under-boy-scout-colors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph bushnell ames",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "raarmour-marguerite-verne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rebecca agatha armour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "raarmour-lady-rosamond-s-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rebecca agatha armour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elarnold-gulliver-of-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lester arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elarnold-wonderful-adventures-of-phra-the-phoenician": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lester arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eatkinson-greyfriars-bobby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eatkinson-lincoln-s-love-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "faubrey-devil-tree-of-el-dorado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank aubrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "faubrey-trip-to-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank aubrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mshbacon-pictures-every-child-should-know-a-selection-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary schell hoke bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mshbacon-operas-every-child-should-know-descriptions-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary schell hoke bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehball-voice-on-the-wire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eustace hale ball",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehball-traffic-in-souls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eustace hale ball",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glbanks-making-of-william-edwards": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. linnaeus banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glbanks-manchester-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. linnaeus banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhbanks-round-anvil-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nancy huston banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nhbanks-oldfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nancy huston banks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhbarker-tough-yarns-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. h. barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhbarker-tough-yarns-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. h. barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbarrett-set-of-rogues-namely-christopher-sutton-john-dawson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbarrett-admirable-lady-biddy-fane-her-surprising-curious-ad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elbeach-annapolis-first-classman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward l. beach",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elbeach-ralph-osborn-midshipman-at-annapolis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward l. beach",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwbeale-ghost-of-guir-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles willing beale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwbeale-secret-of-the-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles willing beale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbede-adventures-of-mr-verdant-green": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cuthbert bede",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbede-further-adventures-of-mr-verdant-green-an-oxford-under": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cuthbert bede",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcbell-obil-keeper-of-camels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucia chase bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcbell-all-the-world-over": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucia chase bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "obinns-mating-in-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottwell binns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "obinns-lady-of-north-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ottwell binns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efblack-beautiful-possibility": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith ferguson black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efblack-princess-in-calico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith ferguson black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cvbolanden-barbarossa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conrad von bolanden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cvbolanden-progressionists-and-angela": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conrad von bolanden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcbridges-on-land-and-sea-at-the-dardanelles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. c. bridges",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tcbridges-life-story-of-a-squirrel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. c. bridges",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdbrine-grandma-s-memories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary d. brine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdbrine-how-a-dear-little-couple-went-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary d. brine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acbrown-book-of-artemas-concerning-men-and-the-things-that-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew cassels brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acbrown-artemasthe-second-book-concerning-men-and-the-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew cassels brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eabrown-spanish-chest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna a. brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eabrown-chinese-kitten": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna a. brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpbrown-our-pilots-in-the-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william perry brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpbrown-ralph-granger-s-fortunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william perry brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pebrowne-fool-there-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "porter emerson browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pebrowne-bad-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "porter emerson browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

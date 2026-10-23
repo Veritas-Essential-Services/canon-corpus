@@ -19635,3 +19635,64 @@ Shelf: `pipeline/storytellers-tail-09_shelf.json` (2026-10-22; added at the coor
 | Cleo The Magnificent; Or, The Muse of the Real: A Novel | have | PG 29207, `lzangwill-cleo-the-magnificent` (1378 units) |
 | An Engagement of Convenience: A Novel | have | PG 33747, `lzangwill-engagement-of-convenience` (1409 units) |
 | The Beautiful Miss Brooke | have | PG 34404, `lzangwill-beautiful-miss-brooke` (376 units) |
+
+## Storytellers' tail, group 10 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-10_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: John Turvill Adams, Phoebe Allen, Young Ewing Allison, Joseph Bushnell Ames, Rebecca Agatha Armour, Edwin Lester Arnold, Eleanor Atkinson, Frank Aubrey, Mary Schell Hoke Bacon, Eustace Hale Ball, G. Linnaeus Banks, Nancy Huston Banks, M. H. Barker, Frank Barrett, Edward L. Beach, Charles Willing Beale, Cuthbert Bede, Lucia Chase Bell, Ottwell Binns, Edith Ferguson Black, Conrad von Bolanden, T. C. Bridges, Mary D. Brine, Andrew Cassels Brown, Edna A. Brown, William Perry Brown, Porter Emerson Browne. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The lost hunter: A tale of early times | have | PG 15328, `jtadams-lost-hunter` (2235 units) |
+| The Knight of the Golden Melice: A Historical Romance | have | PG 16114, `jtadams-knight-of-the-golden-melice` (2465 units) |
+| The Forbidden Room; Or, "Mine Answer was My Deed" | have | PG 49389, `pallen-forbidden-room` (1657 units) |
+| Peeps at Heraldry | have | PG 55439, `pallen-peeps-at-heraldry` (684 units) |
+| The Delicious Vice | have | PG 8686, `yeallison-delicious-vice` (268 units) |
+| On the Vice of Novel Reading. Being a brief in appeal, pointing out errors of the lower tribunal. | have | PG 24704, `yeallison-on-the-vice-of-novel-reading-being-a-brief-in-appe` (49 units) |
+| Shoe-Bar Stratton | have | PG 27355, `jbames-shoe-bar-stratton` (1784 units) |
+| Under Boy Scout Colors | have | PG 32173, `jbames-under-boy-scout-colors` (1150 units) |
+| Marguerite Verne; Or, Scenes from Canadian Life | have | PG 6945, `raarmour-marguerite-verne` (3092 units) |
+| Lady Rosamond's Secret: A Romance of Fredericton | have | PG 18145, `raarmour-lady-rosamond-s-secret` (627 units) |
+| Gulliver of Mars | have | PG 604, `elarnold-gulliver-of-mars` (898 units) |
+| The Wonderful Adventures of Phra the Phoenician | have | PG 67345, `elarnold-wonderful-adventures-of-phra-the-phoenician` (1617 units) |
+| Greyfriars Bobby | have | PG 2693, `eatkinson-greyfriars-bobby` (992 units) |
+| Lincoln's Love Story | have | PG 48233, `eatkinson-lincoln-s-love-story` (127 units) |
+| The Devil-Tree of El Dorado: A Novel | have | PG 43944, `faubrey-devil-tree-of-el-dorado` (1910 units) |
+| A Trip to Mars | have | PG 44534, `faubrey-trip-to-mars` (1555 units) |
+| Pictures Every Child Should Know A Selection of the World's Art Masterpieces for Young People | have | PG 6932, `mshbacon-pictures-every-child-should-know-a-selection-of-the` (1170 units) |
+| Operas Every Child Should Know Descriptions of the Text and Music of Some of the Most Famous Masterpieces | have | PG 28711, `mshbacon-operas-every-child-should-know-descriptions-of-the` (3222 units) |
+| The Voice on the Wire | have | PG 5672, `ehball-voice-on-the-wire` (1375 units) |
+| Traffic in Souls: A Novel of Crime and Its Cure | have | PG 29453, `ehball-traffic-in-souls` (1788 units) |
+| The Making of William Edwards; or, The Story of the Bridge of Beauty | have | PG 38212, `glbanks-making-of-william-edwards` (1603 units) |
+| The Manchester Man | have | PG 64320, `glbanks-manchester-man` (2537 units) |
+| Round Anvil Rock: A Romance | have | PG 11379, `nhbanks-round-anvil-rock` (896 units) |
+| Oldfield: A Kentucky Tale of the Last Century | have | PG 35239, `nhbanks-oldfield` (927 units) |
+| Tough yarns, vol. 1 (of 2) | have | PG 72996, `mhbarker-tough-yarns-vol-1-of-2` (425 units) |
+| Tough yarns, vol. 2 (of 2) | have | PG 76867, `mhbarker-tough-yarns-vol-2-of-2` (721 units) |
+| A Set of Rogues Namely Christopher Sutton, John Dawson, the Señor Don Sanchez Del Castillo De Castelaña and Moll Dawson; Their Wicked Conspiracy, and a True Account of Their Travels and Adventures | have | PG 10727, `fbarrett-set-of-rogues-namely-christopher-sutton-john-dawson` (1688 units) |
+| The Admirable Lady Biddy Fane Her Surprising Curious Adventures In Strange Parts & Happy Deliverance From Pirates, Battle, Captivity, & Other Terrors; Together With Divers Romantic & Moving Accidents As Set Forth By Benet Pengilly (Her Companion In Misfortune & Joy), & Now First Done Into Print | have | PG 34476, `fbarrett-admirable-lady-biddy-fane-her-surprising-curious-ad` (2297 units) |
+| An Annapolis First Classman | have | PG 40368, `elbeach-annapolis-first-classman` (1423 units) |
+| Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy | have | PG 61610, `elbeach-ralph-osborn-midshipman-at-annapolis` (1953 units) |
+| The Ghost of Guir House | have | PG 8182, `cwbeale-ghost-of-guir-house` (715 units) |
+| The Secret of the Earth | have | PG 44535, `cwbeale-secret-of-the-earth` (1386 units) |
+| The Adventures of Mr. Verdant Green | have | PG 4644, `cbede-adventures-of-mr-verdant-green` (1548 units) |
+| The Further Adventures of Mr. Verdant Green, an Oxford Under-Graduate Being a Continuation of "The Adventures of Mr. Verdant Green, an Oxford Freshman" | have | PG 40338, `cbede-further-adventures-of-mr-verdant-green-an-oxford-under` (591 units) |
+| Obil, Keeper of Camels | have | PG 51006, `lcbell-obil-keeper-of-camels` (102 units) |
+| All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life | have | PG 67560, `lcbell-all-the-world-over` (3971 units) |
+| A Mating in the Wilds | have | PG 21055, `obinns-mating-in-the-wilds` (2059 units) |
+| The Lady of North Star | have | PG 48237, `obinns-lady-of-north-star` (2055 units) |
+| A Beautiful Possibility | have | PG 10037, `efblack-beautiful-possibility` (1653 units) |
+| A Princess in Calico | have | PG 27630, `efblack-princess-in-calico` (463 units) |
+| Barbarossa; An Historical Novel of the XII Century. | have | PG 33487, `cvbolanden-barbarossa` (3001 units) |
+| The Progressionists, and Angela. | have | PG 33573, `cvbolanden-progressionists-and-angela` (2484 units) |
+| On Land and Sea at the Dardanelles | have | PG 11513, `tcbridges-on-land-and-sea-at-the-dardanelles` (2070 units) |
+| The life story of a squirrel | have | PG 68252, `tcbridges-life-story-of-a-squirrel` (742 units) |
+| Grandma's Memories | have | PG 9382, `mdbrine-grandma-s-memories` (142 units) |
+| How "a dear little couple" went abroad | have | PG 39806, `mdbrine-how-a-dear-little-couple-went-abroad` (156 units) |
+| The book of Artemas concerning men, and the things that men did do, at the time when there was war | have | PG 69143, `acbrown-book-of-artemas-concerning-men-and-the-things-that-m` (561 units) |
+| Artemas—the second book concerning men, and the things that men did do, at the time when there was war | have | PG 69144, `acbrown-artemasthe-second-book-concerning-men-and-the-things` (681 units) |
+| The Spanish Chest | have | PG 6998, `eabrown-spanish-chest` (1560 units) |
+| The Chinese kitten | have | PG 57600, `eabrown-chinese-kitten` (943 units) |
+| Our Pilots in the Air | have | PG 6082, `wpbrown-our-pilots-in-the-air` (1262 units) |
+| Ralph Granger's Fortunes | have | PG 18683, `wpbrown-ralph-granger-s-fortunes` (1653 units) |
+| A Fool There Was | have | PG 6305, `pebrowne-fool-there-was` (1515 units) |
+| The Bad Man: A Novel | have | PG 16968, `pebrowne-bad-man` (2102 units) |
