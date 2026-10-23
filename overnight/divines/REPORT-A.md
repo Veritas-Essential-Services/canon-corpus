@@ -2078,3 +2078,6 @@
 
 ## 2026-10-23 02:23 CDT — round 60 done
 - austin-phelps, george-b-cheever, nehemiah-adams, ebenezer-porter, heman-humphrey, john-todd-1800, herrick-johnson: 7 shelves, 57 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:31 CDT — round 61 done
+- george-w-bethune, arthur-cleveland-coxe, george-washington-doane, frederic-dan-huntington, henry-b-whipple: 5 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
