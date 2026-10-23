@@ -16706,3 +16706,19 @@ Slugs `williston-*`. Built from title pages read for round 105.
 | lecturesonmorali00will: the scan's title page is missing and the text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | The Columbian Preacher (sermons by several preachers) | excluded | |
 | The Errors of Hopkinsianism (Nathan Bangs's letters against him) | excluded | |
+
+## Alexander Proudfit (round 105, my pick, 2026-10-23)
+
+Slugs `proudfit-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Northern Missionary Society in the state of New-York, at their first annual meeting, in Troy, February 8; and, by particular request, in Albany, March 6, 1798, at a special meeting of the society: by Alexander Proudfit, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_proudfit-alexander-monc_1798` |
+| The spiritual steward (Lansingburgh [NY] G. Tracy, 1803) | have-ocr | IA `spiritualsteward00prou` |
+| The ruin and recovery of man : a series of discourses on the distinguishing doctrines of Christianity (Salem, N.Y. : Printed by Dodd and Rumsey, 1806) | have-ocr | IA `ruinrecoveryofma00prou` |
+| Practical Godliness : in thirteen discourses on the duties of the closet, and family, and sanctuary (Salem [N.Y.] : Printed by Dodd and Rumsey, 1813) | have-ocr | IA `practicalgodline00prou` |
+| A Series of Discourses on the Leading Doctrines and Duties of Christianity (Printed by Dodd, Rumsey and Stevenson, 1815) | have-ocr | IA `aseriesdiscours00prougoog` |
+| The universal extension of Messiah's kingdom : a sermon delivered in the North Church, New Haven, Con. Sept. 12, 1822, before the American Board of Commissioners for Foreign Missions at their thirteenth annual meeting (Crocker, 1822) | have-ocr | IA `universalextensi00prou` |
+| The agency of God in the elevation of man : a sermon commemorative of the eminent talents, and private virtues and public services of His Excellency De Witt Clinton, late governor of the state of New-York ; preached at Salem, N.Y. March 11, 1828 (Salem, N.Y. : Printed by Dodd & Stevenson, 1828) | have-ocr | IA `agencyofgodinele00prou` |
+| ourdangeranddut00prougoog: the scan's opening pages and title page do not show the author in OCR; another copy could replace it | pending | not shelved |
+| lectures-on-the-parables-proudfit-1820: no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
