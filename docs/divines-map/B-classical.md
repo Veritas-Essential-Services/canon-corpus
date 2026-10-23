@@ -1883,6 +1883,8 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 | The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication in vol. 1) | `chariton-1764-v2` | have-raw (IA `loveschrcasandc00chargoog`) |
 | Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727) | unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here | `xenophon-ephesius-1727` | have-raw (IA `gpl_1772898`) |
 | Daphnis and Chloe: the Elizabethan version from Amyot's translation by Angel Day (1587), reprinted from the unique original and edited by Joseph Jacobs (London: David Nutt, 1890) | Angel Day | `longus-day-1890` | have-raw (IA `daphnischloeeliz00long`) |
+| Achilles Tatius, tr. S. Gaselee (Loeb, 1917); Greek facing, kept per Adam's 2026-10-23 ruling |  | `achilles-tatius-gaselee-1917` | have-raw (IA `achillestatiuswi00achiuoft`) |
+| Daphnis and Chloe, Thornley's translation revised and augmented by J. M. Edmonds; Parthenius, tr. S. Gaselee (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling |  | `longus-thornley-edmonds-1916` | have-raw (IA `daphnischloewith00longuoft`) |
 
 Excluded: the 1733 Daphnis and Chloe (ECCO OCR 0.69)
 
