@@ -13924,6 +13924,27 @@ Slugs `labanks-*`. Built from title pages read for round 76.
 | Christ's soul-searching parables : evangelistic sermons on the parables of Jesus (New York ; Chicago [etc.] : Fleming H. Revell company, 1925) | have-ocr | IA `christssoulsearc00bank` |
 | books for boys and on American history and biography (An Oregon Boyhood, The Hall of Fame, Youth of Famous Americans, The Lincoln Legion, Capital Stories, Immortal Songs of Camp and Field), the prohibition handbook Ammunition for Final Drive on Booze, and pamphlets of under 60 pages | excluded | |
 | Spurgeon's Illustrative Anecdotes (1906) is Spurgeon's matter, which he only arranged | excluded | |
+
+## Jabez Burns (round 76, my pick, 2026-10-23)
+
+Slugs `jburns-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons chiefly designed for family reading and village worship (London : Houlston and Stoneman, 1842) | have-ocr | IA `sermonschieflyde00burn` |
+| The Christian's daily portion, or golden pot of manna : containing three hundred and sixty-five exercises on the person, offices, work, and glory of the redeemer (London : J. H. Starie, 1842) | have-ocr | IA `christiansdailyp00burn` |
+| Sketches of sermons on Christian missions, original and selected (London, Aylott and Jones, 1845) | have-ocr | IA `sketchesofsermon00burn` |
+| Christian philosophy : or, Materials for thought (London : Houlston and Stoneman, 1845) | have-ocr | IA `christianphiloso00burn` |
+| The pulpit cyclopaedia, and Christian minister's companion : containing three hundred and sixty skeletons and sketches of sermons (New York : D. Appleton & Co., 1845) | have-ocr | IA `pulpitcyclopaedi00burn` |
+| Sketches of sermons on the parables and miracles of Christ : the essentials of saving religion, etc (London : Houlston and Stoneman, 1847) | have-ocr | IA `sketchesofsermonparabl00burn` |
+| Mothers of the wise and good (Boston : Gould, Kendall and Lincoln, 1850) | have-ocr | IA `mothersofwisegoo00burn` |
+| Sermons designed for the sick room, family reading and village worship (catalogued 1854) | have-ocr | IA `sermonsdesigned00burngoog` |
+| A Retrospect of Forty-five Years' Christian Ministry: Public Work in Other Spheres of Benevolent (Houlston, 1875) | have-ocr | IA `aretrospectfort00burngoog` |
+| gift books and travel (Good Child's Gift Book, Marriage Gift Book, Help-Book for Travellers to the East, Notes of a Tour, 1848); every printing dated 1930 or later of his sermon outlines | excluded | |
+| sketchesofsermon01burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon02burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon03burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon04burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
