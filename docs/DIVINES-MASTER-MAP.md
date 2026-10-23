@@ -13641,6 +13641,16 @@ Slugs `needham-*`. Built from title pages read for round 73.
 | Preach the Word; conference addresses (Charlotte, N.C., W.P. Fife, 1892) | have-ocr | IA `preachwordconfer00need` |
 | The spiritual life (Philadelphia, American Baptist publication society, 1895) | have-ocr | IA `spirituallife00need` |
 | Shadow and substance. An exposition of the tabernacle types (Philadelphia, American Baptist publication society, 1896) | have-ocr | IA `shadowsubstancee00need` |
+
+## Joseph Kinghorn (round 73, my pick, 2026-10-23)
+
+Slugs `kinghorn-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Public Worship Considered and Enforced (Norwich: Bacon, 1800) | have-ocr | IA `bim_eighteenth-century_public-worship-considere_kinghorn-joseph_1800` |
+| A defence of "Baptism a term of communion" : in answer to the Rev. Robert Hall's Reply (Norwich : Wilkin and Youngman [etc.], 1820) | have-ocr | IA `defenceofbaptism00king` |
+| Baptism a Term of Communion at the Lord's Supper (1816), the book the Defence defends: no scan found this round | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
