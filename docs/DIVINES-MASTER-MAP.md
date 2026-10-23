@@ -12343,6 +12343,9 @@ Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in Engl
 | The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v1-1851` | have-raw (IA `historyrome03unkngoog`) |
 | The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v2-1855` | have-raw (IA `historyofrome02nieb`) |
 | The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly) | William Smith and Leonhard Schmitz | `niebuhr-history-rome-v3-new-ed` | have-raw (IA `historyrome02schmgoog`) |
+| Lectures on Ancient History, tr. Leonhard Schmitz, vol. I (London, 1852) | Leonhard Schmitz | `niebuhr-lectures-ancient-history-v1` | have-raw (IA `cu31924088051515`) |
+| Lectures on Ancient History, tr. Leonhard Schmitz, vol. II (London, 1852) | Leonhard Schmitz | `niebuhr-lectures-ancient-history-v2` | have-raw (IA `cu31924088051523`) |
+| Lectures on Ancient History, tr. Leonhard Schmitz, vol. III (London, 1852) | Leonhard Schmitz | `niebuhr-lectures-ancient-history-v3` | have-raw (IA `cu31924088051531`) |
 
 ## Kenneth J. Freeman (scholarship)
 
