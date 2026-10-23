@@ -20210,3 +20210,40 @@ Shelf: `pipeline/storytellers-tail-20_shelf.json` (2026-10-22; added at the coor
 | Ella Barnwell: A historical romance of border life | have | PG 15424, `ebennett-ella-barnwell` (1068 units) |
 | Mason of Bar X Ranch | have | PG 42562, `hhbennett-mason-of-bar-x-ranch` (2113 units) |
 | Who goes there? | have | PG 12229, `bkbenson-who-goes-there` (4816 units) |
+
+## Storytellers' tail, group 21 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-21_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Charles S. Bentley, Frank Benton, Frédéric Bernard, Tom Bevan, Austin Bierbower, Clifton Bingham, Edfrid A. Bingham, Arthur M. Binstead, Frederic Mayer Bird, Elizabeth G. Birkmaier, George P. Bissell, Alexandre Bisson, B. F. Blakeslee, Fernande Blaze de Bury, Henry Blossom, John Francis Bloxam, George H. Boker, Charles E. Bolton, Charlotte Selina Bompas, W. R. Bond, Edward T. Bouvé, C. E. Bowen, James L. Bowen, Sue Petigru Bowen, John Hugh Bowers, Thomas Boyd, Virginia Frazer Boyle, William Richard Bradshaw, Robert Brady, John Breslin. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The fifth of November | have | PG 30490, `csbentley-fifth-of-november` (1152 units) |
+| Cowboy life on the sidetrack | have | PG 39777, `fbenton-cowboy-life-on-the-sidetrack` (276 units) |
+| Wonderful escapes | have | PG 52304, `fbernard-wonderful-escapes` (968 units) |
+| Sea-dogs all! | have | PG 25670, `tbevan-sea-dogs-all` (1395 units) |
+| From Monkey to Man, or, Society in the Tertiary Age A Story of the Missing Link, Showing the First Steps in Industry, Commerce, Government, Religion and the Arts; With an Account of the Great Expedition From Cocoanut Hill and the Wars in Alligator Swamp | have | PG 63379, `abierbower-from-monkey-to-man-or-society-in-the-tertiary-age` (1039 units) |
+| The Animals' Rebellion | have | PG 17068, `cbingham-animals-rebellion` (143 units) |
+| The heart of Thunder Mountain | have | PG 29697, `eabingham-heart-of-thunder-mountain` (2612 units) |
+| Mop Fair | have | PG 77930, `ambinstead-mop-fair` (503 units) |
+| A Pessimist in Theory and Practice | have | PG 26847, `fmbird-pessimist-in-theory-and-practice` (1041 units) |
+| Poseidon's paradise: the romance of Atlantis | have | PG 67921, `egbirkmaier-poseidon-s-paradise` (2718 units) |
+| The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion | have | PG 24307, `gpbissell-twenty-fifth-regiment-connecticut-volunteers-in-th` (341 units) |
+| Madame X: a story of mother-love | have | PG 58502, `abisson-madame-x` (1888 units) |
+| History of the Sixteenth Connecticut Volunteers | have | PG 31867, `bfblakeslee-history-of-the-sixteenth-connecticut-volunteers` (272 units) |
+| The storm of London: a social rhapsody | have | PG 63939, `fblazedebury-storm-of-london` (1182 units) |
+| Checkers: A Hard-luck Story | have | PG 31813, `hblossom-checkers` (946 units) |
+| The Priest and the Acolyte With an Introductory Protest by Stuart Mason | have | PG 60229, `jfbloxam-priest-and-the-acolyte-with-an-introductory-protest` (170 units) |
+| Representative Plays by American Dramatists: 1856-1911: Francesca da Rimini | have | PG 13005, `ghboker-representative-plays-by-american-dramatists` (1139 units) |
+| The Harris-Ingram Experiment | have | PG 16834, `cebolton-harris-ingram-experiment` (1266 units) |
+| Owindia : a true tale of the MacKenzie River Indians, North-West America | have | PG 6658, `csbompas-owindia` (61 units) |
+| Pickett or Pettigrew? An Historical Essay | have | PG 57392, `wrbond-pickett-or-pettigrew-an-historical-essay` (284 units) |
+| The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance of the Union, from Richmond to Appomatox | have | PG 31977, `etbouve-fourth-massachusetts-cavalry-in-the-closing-scenes-o` (123 units) |
+| How a Farthing Made a Fortune; or "Honesty is the best policy" | have | PG 54961, `cebowen-how-a-farthing-made-a-fortune` (536 units) |
+| Scouting Dave: The Trail Hunter | have | PG 49785, `jlbowen-scouting-dave` (532 units) |
+| The Actress in High Life An Episode in Winter Quarters | have | PG 17191, `spbowen-actress-in-high-life-an-episode-in-winter-quarters` (1752 units) |
+| Life of Abraham Lincoln Little Blue Book Ten Cent Pocket Series No. 324 | have | PG 19404, `jhbowers-life-of-abraham-lincoln-little-blue-book-ten-cent-p` (162 units) |
+| Through the Wheat | have | PG 58796, `tboyd-through-the-wheat` (1335 units) |
+| Devil tales | have | PG 70436, `vfboyle-devil-tales` (833 units) |
+| The Goddess of Atvatabar Being the history of the discovery of the interior world and conquest of Atvatabar | have | PG 32825, `wrbradshaw-goddess-of-atvatabar-being-the-history-of-the-dis` (1838 units) |
+| Roster and Statistical Record of Company D, of the Eleventh Regiment Maine Infantry Volunteers With a Sketch of Its Services in the War of the Rebellion | have | PG 45503, `rbrady-roster-and-statistical-record-of-company-d-of-the-ele` (333 units) |
+| The Cruise of the Catalpa: A Poem | have | PG 61372, `jbreslin-cruise-of-the-catalpa` (62 units) |
