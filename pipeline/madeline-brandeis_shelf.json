@@ -1,0 +1,72 @@
+{
+ "_about": "Madeline Brandeis's writing at Gutenberg: children of the World books for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Madeline Brandeis",
+ "_name_words": [
+  "brandeis"
+ ],
+ "_surname": [
+  "brandeis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mbrandeis-little-indian-weaver": [
+   40277,
+   "The Little Indian Weaver"
+  ],
+  "mbrandeis-wee-scotch-piper": [
+   40664,
+   "The Wee Scotch Piper"
+  ],
+  "mbrandeis-little-jeanne-of-france": [
+   40806,
+   "Little Jeanne of France"
+  ],
+  "mbrandeis-shaun-oday-of-ireland": [
+   41015,
+   "Shaun O'Day of Ireland"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934); PG 40856 Little Philippe of Belgium (copyright line 1930). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "mbrandeis-little-indian-weaver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-wee-scotch-piper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-little-jeanne-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrandeis-shaun-oday-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brandeis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

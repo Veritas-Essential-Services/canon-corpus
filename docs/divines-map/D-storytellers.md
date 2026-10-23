@@ -16186,3 +16186,15 @@ Shelf: `pipeline/ge-farrow_shelf.json` (2026-10-22; added at the coordinator's r
 | Absurd Ditties | have | PG 53190, `gefarrow-absurd-ditties` (617 units) |
 | The Wallypug of Why | have | PG 61163, `gefarrow-wallypug-of-why` (1170 units) |
 | An A. B. C. of every-day people | have | PG 70150, `gefarrow-a-b-c-of-every-day-people` (132 units) |
+
+## Madeline Brandeis
+
+Shelf: `pipeline/madeline-brandeis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Children of the World books for young readers. Every English text under the name at Gutenberg that no other shelf holds (4 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Little Indian Weaver | have | PG 40277, `mbrandeis-little-indian-weaver` (442 units) |
+| The Wee Scotch Piper | have | PG 40664, `mbrandeis-wee-scotch-piper` (508 units) |
+| Little Jeanne of France | have | PG 40806, `mbrandeis-little-jeanne-of-france` (690 units) |
+| Shaun O'Day of Ireland | have | PG 41015, `mbrandeis-shaun-oday-of-ireland` (742 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934); PG 40856 Little Philippe of Belgium (copyright line 1930). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
