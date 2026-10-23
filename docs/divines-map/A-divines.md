@@ -16939,3 +16939,13 @@ Slugs `wsnodgrass-*`. Built from title pages read for round 108.
 | The sacredness of learning; address delivered at the opening of session 1864-65, Queen's college (Kingston, [s.n.], 1864) | have-ocr | IA `sacrednessoflear00snod` |
 | A minister's farewell (Montreal, Printed by J. Lovell, 1864) | have-ocr | IA `ministersfarewel00snod` |
 | The sanctification and apostolical-succession books are by William D. Snodgrass of New York (his own shelf) | excluded | |
+
+## John Service (round 108, my pick, 2026-10-23)
+
+Slugs `jservice-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| Salvation here and hereafter. Sermons and essays (London, Macmillan and co., 1877) | have-ocr | IA `salvationhereher00serv` |
+| Sermons (Macmillan, 1884) | have-ocr | IA `sermons00servgoog` |
+| Prayers for Public Worship (Macmillan and co., 1885) | have-ocr | IA `prayersforpubli00servgoog` |

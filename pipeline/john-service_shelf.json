@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain John Service (1833-1884), Church of Scotland minister of Inch and of Hyndland, Glasgow, for the Word Hoard: Salvation Here and Hereafter, his Sermons, and Prayers for Public Worship. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 108 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john service",
+  "j. service"
+ ],
+ "_surname": [
+  "john service",
+  "j. service"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jservice-salvation": [
+   "salvationhereher00serv",
+   "Salvation here and hereafter. Sermons and essays (London, Macmillan and co., 1877)"
+  ],
+  "jservice-sermons": [
+   "sermons00servgoog",
+   "Sermons (Macmillan, 1884)"
+  ],
+  "jservice-prayers": [
+   "prayersforpubli00servgoog",
+   "Prayers for Public Worship (Macmillan and co., 1885)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jservice-salvation": "Title page (OCR): \"SALVATION HERE AND HEREAFTER. SERMONS AND ESSAYS. BY REV. JOHN SERVIC'E MINISTER OF IN'CH. SECOND EDITION. London: Macmillan and Co. 1877.\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jservice-salvation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jservice-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john service",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jservice-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john service",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
