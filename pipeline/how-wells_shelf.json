@@ -1,5 +1,5 @@
 {
- "_about": "Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Commentary on Herodotus, clean Gutenberg. No uids minted.",
+ "_about": "Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Commentary on Herodotus, clean Gutenberg. No uids minted. Round dx (2026-10-23) added Joseph Wells's Studies in Herodotus (Blackwell, 1923), raw IA OCR.",
  "_name_words": [
   "wells",
   "wybergh"
@@ -7,7 +7,8 @@
  "_surname": [
   "w. w. how",
   "walter wybergh how",
-  "how, w. w"
+  "how, w. w",
+  "joseph wells"
  ],
  "ccel": {},
  "gutenberg": {
@@ -16,16 +17,32 @@
    "A Commentary on Herodotus"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "how-wells-wells-studies-herodotus-1923": [
+   "studiesinherodot00welluoft",
+   "Studies in Herodotus, by Joseph Wells (Oxford: Basil Blackwell, 1923)"
+  ]
+ },
  "_checks": {
   "how-wells-commentary-herodotus": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. how",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "how-wells-wells-studies-herodotus-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. how",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
