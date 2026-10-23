@@ -19024,3 +19024,18 @@ Slugs `brierley-*`. Built from title pages read for round 130.
 | Religion and to-day (Boston, The Pilgrim press; London, J. Clarke & co., 1913) | have-ocr | IA `religiontoday00brie` |
 | Selections from Brierley ("J.B." of The Christian world) (Boston : Pilgrim Press, 1914) | have-ocr | IA `selectionsfrombr00brie` |
 | Faith's Certainties (1854), Lay Work in the Church, the Trinidad sketches and the parish registers are by other Brierleys | excluded | |
+
+## James H. McConkey (round 130, my pick, 2026-10-23)
+
+Slugs `mcconkey-*`. Built from title pages read for round 130.
+
+| Work | Status | Where |
+|---|---|---|
+| The Threefold Secret Of The Holy Spirit (Moody Press:Chicago, 1897) | have-ocr | IA `threefoldsecreto0000unse` |
+| The end of the age : a series of prophetic Bible studies ; upon the end of the age (Pittsburgh, PA : Silver Publ. Co., 1897) | have-ocr | IA `endofageseriesof0000mcco` |
+| Believing is seeing (Harrisburg, 1900) | have-ocr | IA `believingisseein00mcco` |
+| Prayer ([Pittsburgh] : [Silver Publishing Co.], 1900) | have-ocr | IA `prayer00mcco` |
+| The surrendered life; Bible studies and addresses on the yielded life (Harrisburg, Pa., F. Kelker, 1903) | have-ocr | IA `surrenderedlifeb00mcco` |
+| Life talks; a series of Bible talks on the Christian life (Harrisburg, Pa., F. Kelker, 1911) | have-ocr | IA `lifetalksserieso00mcco` |
+| THE BOOK OF REVELATION (Silver Publishing Society, 1921) | have-ocr | IA `bookofrevelation0000jame_j4h9` |
+| other scans of Prayer and The Surrendered Life | excluded | |

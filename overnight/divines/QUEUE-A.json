@@ -10702,6 +10702,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:37:11-05:00",
       "notes": "14 books, 1893-1914."
+    },
+    {
+      "id": "a-james-h-mcconkey",
+      "status": "done",
+      "scope": "round 130",
+      "added": "2026-10-23T09:37:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:37:12-05:00",
+      "notes": "7 books, 1897-1922."
     }
   ]
 }
