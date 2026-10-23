@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer in hexameter verse",
+  "creator": "Homer",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "London",
+  "date": "1865",
+  "language": "eng",
+  "lccn": "unk82046326",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "9075655",
+  "identifier-bib": "00030602249",
+  "repub_state": "4",
+  "updatedate": "2012-09-28 17:51:43",
+  "updater": "associate-caitlin-markey",
+  "identifier": "iliadofhomerinhe00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-09-28 17:51:46",
+  "publicdate": "2012-09-28 17:51:49",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "notes": "NO TOC & COPYRIGHT PAGES.",
+  "repub_seconds": "3892",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-saw-thein@archive.org",
+  "scandate": "20121004232858",
+  "republisher": "associate-saw-thein@archive.org",
+  "imagecount": "582",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomerinhe00home",
+  "identifier-ark": "ark:/13960/t1sf41f5v",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_8",
+  "openlibrary_edition": "OL25097977M",
+  "openlibrary_work": "OL16266777W",
+  "external-identifier": "urn:oclc:record:1046518666",
+  "usl_hit": "auto",
+  "republisher_operator": "associate-saw-thein@archive.org",
+  "republisher_date": "20121005222216",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "description": "555 p",
+  "pdf_module_version": "0.0.20",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerinhe00home.pdf",
+   "format": "Text PDF",
+   "size": "42067715"
+  },
+  {
+   "name": "iliadofhomerinhe00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1344964"
+  },
+  {
+   "name": "iliadofhomerinhe00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16855483"
+  },
+  {
+   "name": "iliadofhomerinhe00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "367211414"
+  },
+  {
+   "name": "iliadofhomerinhe00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "98232"
+  },
+  {
+   "name": "iliadofhomerinhe00home_scandata.xml",
+   "format": "Scandata",
+   "size": "761173"
+  }
+ ]
+}

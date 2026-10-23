@@ -1,0 +1,68 @@
+{
+ "metadata": {
+  "publisher": "New York : Cosmopolitan Magazine",
+  "identifier": "treasureislands00harvgoog",
+  "scanner": "google",
+  "title": "Treasure Island : Strange case of Dr. Jekyll and Mr. Hyde",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "contributor": "University of Michigan",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1906",
+  "date": "1906",
+  "scandate": "20070529000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of Michigan, the Library of Congress and uploaded to the Internet Archive by user tpb.",
+   "457 pages, [48] : 17 cm"
+  ],
+  "source": "http://books.google.com/books?id=F2g1AAAAMAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "05908098",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/treasureislands00harvgoog",
+  "identifier-ark": "ark:/13960/t8bg30h2r",
+  "imagecount": "515",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-06 02:52:00",
+  "repub_state": "4",
+  "backup_location": "ia903602_27",
+  "addeddate": "2009-02-06 02:52:00",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "treasureislands00harvgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "839984"
+  },
+  {
+   "name": "treasureislands00harvgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10575074"
+  },
+  {
+   "name": "treasureislands00harvgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "88076"
+  },
+  {
+   "name": "treasureislands00harvgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "169633"
+  },
+  {
+   "name": "treasureislands00harvgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "20401513"
+  }
+ ]
+}

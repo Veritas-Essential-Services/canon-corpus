@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Treasure island : a play in four acts and ten scenes ; Dramatized from the story of Robert Louis Stevenson",
+  "creator": [
+   "Goodman, Jules Eckert, 1876-",
+   "Stevenson, Robert Louis, 1850-1894"
+  ],
+  "description": "26",
+  "publisher": "New York : S. French",
+  "date": "c1915",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-liz-ridolfo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-liz-ridolfo for item treasureislandpl00gooduoft on November 21, 2006: visible notice of copyright; stated date is 1915.",
+  "copyright-evidence-date": "20061121192426",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ADI-3230",
+  "identifier-access": "http://www.archive.org/details/treasureislandpl00gooduoft",
+  "updatedate": "2006-11-21 19:24:44",
+  "updater": "scanner-liz-ridolfo",
+  "identifier": "treasureislandpl00gooduoft",
+  "uploader": "liz@archive.org",
+  "addeddate": "2006-11-21 19:24:46",
+  "publicdate": "2006-11-21 11:24:49",
+  "imagecount": "116",
+  "ppi": "500",
+  "lcamid": "327166",
+  "rcamid": "331202",
+  "camera": "1Ds",
+  "operator": "scanner-august-bourre@archive.org",
+  "scanner": "ias6",
+  "scandate": "20061122004626",
+  "identifier-ark": "ark:/13960/t46q1tf3k",
+  "curation": "[curator]julie@archive.org[/curator][date]20061208000803[/date][state]approved[/state]",
+  "sponsordate": "20061130",
+  "filesxml": [
+   "Thu Mar 18 12:25:22 UTC 2010",
+   "Sat Dec 26 13:49:26 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_26",
+  "openlibrary_edition": "OL7127015M",
+  "openlibrary_work": "OL7644794W",
+  "external-identifier": "urn:oclc:record:1157930742",
+  "usl_hit": "auto",
+  "lccn": "15025106",
+  "associated-names": "Stevenson, Robert Louis, 1850-1894. Treasure Island",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "treasureislandpl00gooduoft.pdf",
+   "format": "Text PDF",
+   "size": "10120216"
+  },
+  {
+   "name": "treasureislandpl00gooduoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "184281"
+  },
+  {
+   "name": "treasureislandpl00gooduoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2368650"
+  },
+  {
+   "name": "treasureislandpl00gooduoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "58678789"
+  },
+  {
+   "name": "treasureislandpl00gooduoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "19048"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Pope's translation of Homer's Iliad, books I, VI, XXII, XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Tappan, William. [from old catalog]"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "Boston, Ginn & company",
+  "date": "1898",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "8700515",
+  "identifier-bib": "00030601762",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:40:49",
+  "updater": "ChristinaB",
+  "identifier": "popestranslation01home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:40:52",
+  "publicdate": "2011-11-09 16:40:55",
+  "scanner": "scribe8.capitolhill.archive.org",
+  "repub_seconds": "505",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-mang-pau@archive.org",
+  "scandate": "20111122170534",
+  "imagecount": "164",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popestranslation01home",
+  "identifier-ark": "ark:/13960/t8df7rn3x",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "130",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "external-identifier": "urn:oclc:record:1050846898",
+  "lccn": "12034346",
+  "description": "xxix p., 1 l., 114 p. 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Tappan, William. [from old catalog]",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popestranslation01home.pdf",
+   "format": "Text PDF",
+   "size": "11246556"
+  },
+  {
+   "name": "popestranslation01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "262720"
+  },
+  {
+   "name": "popestranslation01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3245091"
+  },
+  {
+   "name": "popestranslation01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "120719385"
+  },
+  {
+   "name": "popestranslation01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "27572"
+  },
+  {
+   "name": "popestranslation01home_scandata.xml",
+   "format": "Scandata",
+   "size": "162647"
+  }
+ ]
+}

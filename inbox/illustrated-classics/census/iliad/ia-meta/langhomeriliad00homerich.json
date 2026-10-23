@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Lang, Andrew, 1844-1912",
+   "Leaf, Walter, 1852-1927",
+   "Myers, Ernest, 1844-1921"
+  ],
+  "publisher": "London ; New York : Macmillan",
+  "date": "1893",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item langhomeriliad00homerich on February 1, 2008: no visible notice of copyright; stated date is 1892.",
+  "copyright-evidence-date": "20080201223631",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-33785755",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-33785755",
+  "updatedate": "2008-02-01 22:36:34",
+  "updater": "judyjordan",
+  "identifier": "langhomeriliad00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2008-02-01 22:35:05",
+  "publicdate": "2008-02-01 22:36:08",
+  "imagecount": "534",
+  "ppi": "500",
+  "lcamid": "315160",
+  "rcamid": "332287",
+  "camera": "1Ds",
+  "operator": "scanner-kevin-narine@archive.org",
+  "scanner": "rich3",
+  "scandate": "20080207010118",
+  "identifier-access": "http://www.archive.org/details/langhomeriliad00homerich",
+  "identifier-ark": "ark:/13960/t5h993q7c",
+  "bookplateleaf": "0006",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319042024[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Sun Mar 7 15:10:55 UTC 2010",
+   "Thu Dec 24 23:19:59 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7194746M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1157124373",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "oclc-id": "19080170",
+  "description": "vii, 506 p. ; 20 cm",
+  "associated-names": "Lang, Andrew, 1844-1912; Leaf, Walter, 1852-1927; Myers, Ernest, 1844-1921",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "langhomeriliad00homerich.pdf",
+   "format": "Text PDF",
+   "size": "25745990"
+  },
+  {
+   "name": "langhomeriliad00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1096416"
+  },
+  {
+   "name": "langhomeriliad00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13387173"
+  },
+  {
+   "name": "langhomeriliad00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "290354815"
+  },
+  {
+   "name": "langhomeriliad00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "90296"
+  }
+ ]
+}

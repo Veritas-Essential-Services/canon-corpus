@@ -1,0 +1,84 @@
+{
+ "metadata": {
+  "publisher": "Boston : Ginn & Co. : The Athenaeum Press",
+  "identifier": "firstsixbooksho03homegoog",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad : with introduction, commentary, and vocabulary for the use of the schools",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho03homegoog",
+  "year": "1896",
+  "date": "1904",
+  "oclc-id": "77748492",
+  "scandate": "20070410",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "lxxxv, 141, 180, 138 pages, 15 unnumbered leaves of plates : 20 cm",
+   "Includes bibliographical references"
+  ],
+  "identifier-ark": "ark:/13960/t6057k471",
+  "imagecount": "490",
+  "publicdate": "2008-03-07 14:27:32",
+  "source": "http://books.google.com/books?id=WAsBAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_26",
+  "openlibrary_edition": "OL20490112M",
+  "openlibrary_work": "OL13089712W",
+  "addeddate": "2008-03-07 14:27:32",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Achilles (Mythological character)",
+   "Greek language -- Readers",
+   "Trojan War -- Poetry",
+   "Guerre de Troie -- Poésie",
+   "Greek language"
+  ],
+  "associated-names": "Seymour, Thomas D. (Thomas Day), 1848-1907",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.3464",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.06",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho03homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1363813"
+  },
+  {
+   "name": "firstsixbooksho03homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15178564"
+  },
+  {
+   "name": "firstsixbooksho03homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "96243"
+  },
+  {
+   "name": "firstsixbooksho03homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "160948"
+  },
+  {
+   "name": "firstsixbooksho03homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "24664481"
+  }
+ ]
+}

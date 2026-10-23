@@ -1,0 +1,87 @@
+{
+ "metadata": {
+  "identifier": "bwb_P9-CSD-475",
+  "boxid": "IA41423420",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1930",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000453",
+  "operator": "associate-carltissa-barrientos@archive.org",
+  "page-progression": "lr",
+  "publisher": "windsor press",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20240903211120",
+  "scanner": "station68.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "P9-CSD-475",
+  "title": "treasure island",
+  "tts_version": "6.8-initial-140-g3ea0cfc6",
+  "uploader": "station68.cebu@archive.org",
+  "publicdate": "2024-09-03 20:09:46",
+  "identifier-access": "http://archive.org/details/bwb_P9-CSD-475",
+  "identifier-ark": "ark:/13960/s2910d1xvvd",
+  "imagecount": "266",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "notes": "cut off texts due to tight binding",
+  "ppi": "360",
+  "republisher_operator": "associate-mavanessa-cando@archive.org",
+  "republisher_date": "20240906171309",
+  "republisher_time": "755",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9896",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_P9-CSD-475:epub:c3eaf0bc-62cf-4230-9461-1405bef18a14",
+   "urn:lcp:bwb_P9-CSD-475:lcpdf:e51de18a-fa8a-4b90-8b0f-8cbe88282071",
+   "urn:acs6:bwb_P9-CSD-475:pdf:534f91a3-d011-4a2d-b0f0-9deee58f3c12"
+  ],
+  "page_number_confidence": "91",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2025-12-30 02:10:52"
+ },
+ "files": [
+  {
+   "name": "bwb_P9-CSD-475.pdf",
+   "format": "Text PDF",
+   "size": "11794998"
+  },
+  {
+   "name": "bwb_P9-CSD-475_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "412903"
+  },
+  {
+   "name": "bwb_P9-CSD-475_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5741829"
+  },
+  {
+   "name": "bwb_P9-CSD-475_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "95357081"
+  },
+  {
+   "name": "bwb_P9-CSD-475_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "44551"
+  },
+  {
+   "name": "bwb_P9-CSD-475_scandata.xml",
+   "format": "Scandata",
+   "size": "281646"
+  }
+ ]
+}

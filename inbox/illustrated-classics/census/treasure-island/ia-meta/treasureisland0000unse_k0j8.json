@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_k0j8",
+  "boxid": "IA40566621",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-2000631",
+  "operator": "associate-jennifer-cornesio@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station64.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "5.1-refactored-15-g1773b315",
+  "uploader": "station64.cebu@archive.org",
+  "publicdate": "2022-06-09 14:47:52",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_k0j8",
+  "identifier-ark": "ark:/13960/s2zxf7k9cg9",
+  "scandate": "20220609165531",
+  "imagecount": "310",
+  "autocrop_version": "0.0.13_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-teresita-fernandez@archive.org",
+  "republisher_date": "20220611194621",
+  "republisher_time": "515",
+  "foldoutcount": "0",
+  "bookplateleaf": "0002",
+  "page_number_confidence": "98",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20220630",
+  "title": "Treasure island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "London : Cassell and Co.",
+  "date": "1912",
+  "subject": [
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Buried treasure -- Fiction",
+   "Pirates -- Fiction",
+   "Adventure and adventurers -- Fiction",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc",
+   "Pirates",
+   "Treasure troves"
+  ],
+  "oclc-id": "49747346",
+  "description": [
+   "xii, 388 pages : 20 cm",
+   "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune",
+   "Illustrated 'Treasure Island' Availalbe at the Children's Literature Research Collections, University of Minnesota Libraries"
+  ],
+  "associated-names": "Paget, Walter, 1863-1935, illustrator",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9969",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": "urn:acs6:treasureisland0000unse_k0j8:pdf:84acaaab-6bca-475b-b0a9-bab1f4446fe4",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38627923M",
+  "addeddate": "2022-07-13 00:02:40",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_k0j8.pdf",
+   "format": "Text PDF",
+   "size": "11595618"
+  },
+  {
+   "name": "treasureisland0000unse_k0j8_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "390266"
+  },
+  {
+   "name": "treasureisland0000unse_k0j8_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5544903"
+  },
+  {
+   "name": "treasureisland0000unse_k0j8_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "132268662"
+  },
+  {
+   "name": "treasureisland0000unse_k0j8_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "52017"
+  },
+  {
+   "name": "treasureisland0000unse_k0j8_scandata.xml",
+   "format": "Scandata",
+   "size": "330431"
+  }
+ ]
+}

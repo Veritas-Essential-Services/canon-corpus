@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "Achilles & Hector : Iliad stories retold for boys and girls",
+  "creator": [
+   "Gale, Agnes Spofford Cook",
+   "Homer"
+  ],
+  "publisher": "Chicago ; New York : Rand, McNally",
+  "date": "1903",
+  "language": "eng",
+  "copyright-evidence-operator": "StacyA",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by StacyA for item achilleshectoril00gale on September 28, 2007: visible notice of copyright; stated date is 1903.",
+  "copyright-evidence-date": "20070928164506",
+  "sponsor": "MSN",
+  "contributor": "New York Public Library",
+  "scanningcenter": "nyc",
+  "mediatype": "texts",
+  "updatedate": "2007-09-28 16:45:37",
+  "updater": "StacyA",
+  "identifier": "achilleshectoril00gale",
+  "uploader": "stacy@archive.org",
+  "addeddate": "2007-09-28 16:45:39",
+  "publicdate": "2007-09-28 16:45:53",
+  "imagecount": "188",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-peter-rains@archive.org",
+  "scanner": "nycs6",
+  "scandate": "20071002095218",
+  "identifier-access": "http://www.archive.org/details/achilleshectoril00gale",
+  "identifier-ark": "ark:/13960/t6c24tn10",
+  "bookplateleaf": "0004",
+  "curation": "[curator]angela@archive.org[/curator][date]20071011061050[/date][state]approved[/state]",
+  "sponsordate": "20071031",
+  "filesxml": [
+   "Mon Aug 17 21:16:41 UTC 2009",
+   "Wed Dec 23 2:01:43 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "collection": [
+   "newyorkpubliclibrary",
+   "iacl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_9",
+  "openlibrary_edition": "OL7107142M",
+  "openlibrary_work": "OL232735W",
+  "external-identifier": "urn:oclc:record:1038733143",
+  "description": [
+   "176 p. : 18 cm",
+   "\"A reading list\": p. 171-172"
+  ],
+  "associated-names": "Homer. Iliad",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "achilleshectoril00gale.pdf",
+   "format": "Text PDF",
+   "size": "10571924"
+  },
+  {
+   "name": "achilleshectoril00gale_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "188057"
+  },
+  {
+   "name": "achilleshectoril00gale_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2390861"
+  },
+  {
+   "name": "achilleshectoril00gale_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "74157157"
+  },
+  {
+   "name": "achilleshectoril00gale_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "30975"
+  },
+  {
+   "name": "achilleshectoril00gale_scandata.xml",
+   "format": "Scandata",
+   "size": "95499"
+  }
+ ]
+}

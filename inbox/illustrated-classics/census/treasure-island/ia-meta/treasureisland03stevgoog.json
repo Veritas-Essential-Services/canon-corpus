@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "identifier": "treasureisland03stevgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1908",
+  "scandate": "20060308",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=7Z3TZe6_ZLcC&oe=UTF-8",
+  "uploader": "tpb",
+  "language": "eng",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/treasureisland03stevgoog",
+  "identifier-ark": "ark:/13960/t4zg71r0b",
+  "imagecount": "331",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-05-21 04:26:52",
+  "backup_location": "ia903603_5",
+  "addeddate": "2009-05-21 04:26:52",
+  "usl_hit": "auto",
+  "oclc-id": "27912135",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : C. Scribner's Sons",
+  "date": "1908",
+  "description": "viii, 290 pages : 19 cm",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL20531323M"
+ },
+ "files": [
+  {
+   "name": "treasureisland03stevgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "43651964"
+  },
+  {
+   "name": "treasureisland03stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "99427"
+  }
+ ]
+}

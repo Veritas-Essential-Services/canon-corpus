@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr. trl",
+   "Rhodes, Charles Elbert, ed. edt"
+  ],
+  "subject": [
+   "Homer",
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "description": "1",
+  "publisher": "New York : Macmillan",
+  "date": "1915",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "contributor": "Harold B. Lee Library",
+  "scanningcenter": "provo",
+  "mediatype": "texts",
+  "collection": [
+   "brigham_young_university",
+   "americana"
+  ],
+  "call_number": "ACW4585",
+  "repub_state": "4",
+  "updatedate": "2011-04-27 23:45:39",
+  "updater": "WhitneyYoung",
+  "identifier": "iliadofhomer1915home",
+  "uploader": "whitneyyoung@archive.org",
+  "addeddate": "2011-04-27 23:45:41",
+  "publicdate": "2011-04-27 23:45:44",
+  "scanner": "scribe4.provo.archive.org",
+  "repub_seconds": "60863",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-01@archive.org",
+  "scandate": "20110518160209",
+  "imagecount": "702",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer1915home",
+  "identifier-ark": "ark:/13960/t3xs6kk96",
+  "bookplateleaf": "0006",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "10",
+  "curation": "[curator]callie@archive.org[/curator][date]20110602183907[/date][state]approved[/state]",
+  "sponsordate": "20110531",
+  "backup_location": "ia903609_32",
+  "openlibrary_edition": "OL24649357M",
+  "openlibrary_work": "OL15738590W",
+  "external-identifier": "urn:oclc:record:1046536878",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:54 UTC 2020",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "associated-names": "Pope, Alexander, 1688-1744, tr; Rhodes, Charles Elbert, ed",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer1915home.pdf",
+   "format": "Text PDF",
+   "size": "45931291"
+  },
+  {
+   "name": "iliadofhomer1915home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1192601"
+  },
+  {
+   "name": "iliadofhomer1915home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14628577"
+  },
+  {
+   "name": "iliadofhomer1915home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "363482649"
+  },
+  {
+   "name": "iliadofhomer1915home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "119363"
+  },
+  {
+   "name": "iliadofhomer1915home_scandata.xml",
+   "format": "Scandata",
+   "size": "365011"
+  }
+ ]
+}

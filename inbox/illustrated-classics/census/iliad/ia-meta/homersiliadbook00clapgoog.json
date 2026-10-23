@@ -1,0 +1,64 @@
+{
+ "metadata": {
+  "publisher": "Boston, Ginn & Company",
+  "identifier": "homersiliadbook00clapgoog",
+  "scanner": "google",
+  "title": "Homer's Iliad, books xix-xxiv",
+  "creator": [
+   "Homer",
+   "Clapp, Edward Bull, 1856-1919"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1899",
+  "date": "1899",
+  "oclc-id": "8291617",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=NSQBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "lccn": "99004078",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "gre",
+   "eng"
+  ],
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook00clapgoog",
+  "identifier-ark": "ark:/13960/t9q24bn4k",
+  "imagecount": "473",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 17:36:56",
+  "backup_location": "ia903603_7",
+  "openlibrary_edition": "OL529420M",
+  "openlibrary_work": "OL16249584W",
+  "addeddate": "2009-06-09 17:36:56"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook00clapgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1399645"
+  },
+  {
+   "name": "homersiliadbook00clapgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11889955"
+  },
+  {
+   "name": "homersiliadbook00clapgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "101294590"
+  },
+  {
+   "name": "homersiliadbook00clapgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "142028"
+  }
+ ]
+}

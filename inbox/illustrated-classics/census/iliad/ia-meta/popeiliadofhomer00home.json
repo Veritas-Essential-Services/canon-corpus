@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "Pope; the Iliad of Homer, books I, VI, XXII, and XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr",
+   "Gentner, Philip, ed"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "description": [
+   "At head of title: Number 6",
+   "Lettered on cover: Pope's Iliad",
+   "Bibliography: p. lxxi-lxxii"
+  ],
+  "publisher": "Boston, B.H. Sanborn",
+  "date": "1899",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "9126015",
+  "identifier-bib": "0003060149A",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:42:36",
+  "updater": "ChristinaB",
+  "identifier": "popeiliadofhomer00home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:42:38",
+  "publicdate": "2011-11-09 16:42:41",
+  "scanner": "scribe3.capitolhill.archive.org",
+  "repub_seconds": "666",
+  "ppi": "650",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-david-van-dokkum@archive.org",
+  "scandate": "20111118162354",
+  "imagecount": "274",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popeiliadofhomer00home",
+  "identifier-ark": "ark:/13960/t7dr3vn9c",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111121142806[/date][state]approved[/state]",
+  "scanfee": "120",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "external-identifier": "urn:oclc:record:1050719243",
+  "usl_hit": "auto",
+  "filesxml": "Fri Dec 25 19:27:34 UTC 2020",
+  "lccn": "99005656",
+  "oclc-id": "7360307",
+  "associated-names": "Pope, Alexander, 1688-1744, tr; Gentner, Philip, ed",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popeiliadofhomer00home.pdf",
+   "format": "Text PDF",
+   "size": "16400900"
+  },
+  {
+   "name": "popeiliadofhomer00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "403481"
+  },
+  {
+   "name": "popeiliadofhomer00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4885671"
+  },
+  {
+   "name": "popeiliadofhomer00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "163241437"
+  },
+  {
+   "name": "popeiliadofhomer00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "46307"
+  },
+  {
+   "name": "popeiliadofhomer00home_scandata.xml",
+   "format": "Scandata",
+   "size": "270465"
+  }
+ ]
+}

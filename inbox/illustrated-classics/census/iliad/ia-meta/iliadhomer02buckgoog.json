@@ -1,0 +1,80 @@
+{
+ "metadata": {
+  "publisher": "Chicago, Belford, Clarke",
+  "identifier": "iliadhomer02buckgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer;",
+  "creator": "Homer",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1884",
+  "date": "1884",
+  "scandate": "20070927",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+   "500 pages 20 cm",
+   "Includes bibliographical references"
+  ],
+  "source": "http://books.google.com/books?id=XjgOAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "02498347",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/iliadhomer02buckgoog",
+  "identifier-ark": "ark:/13960/t8mc9dh4d",
+  "imagecount": "849",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 12:38:41",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL20531972M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-07-27 12:38:41",
+  "usl_hit": "auto",
+  "associated-names": "Pope, Alexander, 1688-1744, translator; Buckley, Theodore Alois, 1825-1856, editor",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "82",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadhomer02buckgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1735923"
+  },
+  {
+   "name": "iliadhomer02buckgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "21153122"
+  },
+  {
+   "name": "iliadhomer02buckgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "132596904"
+  },
+  {
+   "name": "iliadhomer02buckgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "144745"
+  },
+  {
+   "name": "iliadhomer02buckgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "281995"
+  },
+  {
+   "name": "iliadhomer02buckgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "42804824"
+  }
+ ]
+}

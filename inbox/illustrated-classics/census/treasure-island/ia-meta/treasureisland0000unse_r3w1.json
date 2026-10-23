@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_r3w1",
+  "boxid": "IA41472102",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1924-01-01",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-NS-0000419",
+  "openlibrary_edition": "OL59083577M",
+  "openlibrary_work": "OL43379776W",
+  "operator": "associate-jolane-monsanto@archive.org",
+  "page-progression": "lr",
+  "publisher": [
+   "Saalfield Publishing Co.",
+   "John C. Winston"
+  ],
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station60.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "W6-AEK-601",
+  "title": "Treasure Island",
+  "tts_version": "6.9-initial-206-gdccefbe2",
+  "uploader": "station60.cebu@archive.org",
+  "publicdate": "2024-10-09 00:17:07",
+  "force_republisher_postprocess": "true",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_r3w1",
+  "identifier-ark": "ark:/13960/s2tdhwt95gj",
+  "scandate": "20241010040549",
+  "imagecount": "338",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-reya-managing@archive.org",
+  "republisher_date": "20241108170813",
+  "republisher_time": "364",
+  "foldoutcount": "0",
+  "image_count": "336",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000unse_r3w1:epub:715496b2-107a-4aaa-a578-c6e3c6f615b3",
+   "urn:lcp:treasureisland0000unse_r3w1:lcpdf:bc1258c8-96b5-4865-b861-50d355166ee3",
+   "urn:acs6:treasureisland0000unse_r3w1:pdf:28105f31-7865-45ec-9fe2-0942b08b00c3"
+  ],
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.26",
+  "addeddate": "2025-01-01 15:41:06"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_r3w1.pdf",
+   "format": "Text PDF",
+   "size": "17126792"
+  },
+  {
+   "name": "treasureisland0000unse_r3w1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "409422"
+  },
+  {
+   "name": "treasureisland0000unse_r3w1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5812780"
+  },
+  {
+   "name": "treasureisland0000unse_r3w1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "146231867"
+  },
+  {
+   "name": "treasureisland0000unse_r3w1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56543"
+  },
+  {
+   "name": "treasureisland0000unse_r3w1_scandata.xml",
+   "format": "Scandata",
+   "size": "422872"
+  }
+ ]
+}

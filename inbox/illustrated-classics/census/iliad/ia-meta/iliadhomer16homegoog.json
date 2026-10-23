@@ -1,0 +1,51 @@
+{
+ "metadata": {
+  "publisher": "Allyn and Bacon",
+  "identifier": "iliadhomer16homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer16homegoog",
+  "year": "1883",
+  "date": "1883",
+  "oclc-id": "48306143",
+  "scandate": "20070412000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t3rv0s58p",
+  "imagecount": "393",
+  "publicdate": "2008-09-22 11:33:32",
+  "source": "http://books.google.com/books?id=NSUBAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "English",
+   "grc"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_13",
+  "addeddate": "2008-09-22 11:33:32",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer16homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "743710"
+  },
+  {
+   "name": "iliadhomer16homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7201878"
+  },
+  {
+   "name": "iliadhomer16homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "117994"
+  }
+ ]
+}

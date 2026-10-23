@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "Whetham",
+  "identifier": "iliadhomer00cowpgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  William Cowper",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer00cowpgoog",
+  "year": "1838",
+  "date": "1838",
+  "oclc-id": "71389969",
+  "scandate": "20060614",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t38058w5c",
+  "imagecount": "333",
+  "publicdate": "2008-08-31 09:58:52",
+  "source": "http://books.google.com/books?id=xnxvFBR_KhUC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_11",
+  "addeddate": "2008-08-31 09:58:52",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00cowpgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "518515"
+  },
+  {
+   "name": "iliadhomer00cowpgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4740573"
+  },
+  {
+   "name": "iliadhomer00cowpgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "99350"
+  }
+ ]
+}

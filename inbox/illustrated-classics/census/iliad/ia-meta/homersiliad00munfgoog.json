@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "publisher": "Boston, C. C. Little and J. Brown",
+  "identifier": "homersiliad00munfgoog",
+  "scanner": "google",
+  "title": "Homer's Iliad:",
+  "creator": [
+   "Homer",
+   "Munford, William, 1775-1825, tr"
+  ],
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "William Munford",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1846",
+  "date": "1846",
+  "scandate": "20070913",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=BlUNAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "02076483",
+  "lccn": "29015193",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "volume": "2",
+  "identifier-access": "http://www.archive.org/details/homersiliad00munfgoog",
+  "identifier-ark": "ark:/13960/t8kd2cm4q",
+  "imagecount": "541",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 04:40:32",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL6730213M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-07-27 04:40:32",
+  "foldoutcount": "0",
+  "page_number_confidence": "97.04",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9492",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliad00munfgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "832228"
+  },
+  {
+   "name": "homersiliad00munfgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11342519"
+  },
+  {
+   "name": "homersiliad00munfgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "69716664"
+  },
+  {
+   "name": "homersiliad00munfgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "104679"
+  },
+  {
+   "name": "homersiliad00munfgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "180656"
+  },
+  {
+   "name": "homersiliad00munfgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21766402"
+  }
+ ]
+}

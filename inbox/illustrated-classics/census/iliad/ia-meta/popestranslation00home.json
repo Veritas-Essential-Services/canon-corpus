@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "identifier": "popestranslation00home",
+  "title": "Pope's translation of Homer's Iliad, books I, VI, XXII, XXIV;",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Lawton, William Cranston, 1853-1941"
+  ],
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "date": "1900",
+  "year": "1900",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publicdate": "2011-11-09 16:25:54",
+  "addeddate": "2011-11-09 16:25:51",
+  "uploader": "christina.b@archive.org",
+  "updater": [
+   "ChristinaB",
+   "S Seronick"
+  ],
+  "updatedate": [
+   "2011-11-09 16:25:49",
+   "2011-11-21 13:52:37"
+  ],
+  "notes": "Pages 15/16 are missing.",
+  "contributor": "The Library of Congress",
+  "publisher": "New York and Chicago, Globe school book co",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "shiptracking": "LC043",
+  "call_number": "9129948",
+  "identifier-bib": "00030601610",
+  "repub_state": "4",
+  "scanner": "scribe3.capitolhill.archive.org",
+  "repub_seconds": "4493",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-david-van-dokkum@archive.org",
+  "scandate": "20111118130009",
+  "imagecount": "206",
+  "identifier-access": "http://www.archive.org/details/popestranslation00home",
+  "identifier-ark": "ark:/13960/t2f77c87z",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111121135501[/date][state]approved[/state][comment]199[/comment]",
+  "scanfee": "120",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "external-identifier": "urn:oclc:record:1050767008",
+  "filesxml": "Fri Dec 25 19:27:57 UTC 2020",
+  "lccn": "01029200",
+  "description": "xxix, 152 p. 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Lawton, William Cranston, 1853-1941",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popestranslation00home.pdf",
+   "format": "Text PDF",
+   "size": "11759141"
+  },
+  {
+   "name": "popestranslation00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "356684"
+  },
+  {
+   "name": "popestranslation00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4297886"
+  },
+  {
+   "name": "popestranslation00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "98689045"
+  },
+  {
+   "name": "popestranslation00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "34710"
+  },
+  {
+   "name": "popestranslation00home_scandata.xml",
+   "format": "Scandata",
+   "size": "205196"
+  }
+ ]
+}

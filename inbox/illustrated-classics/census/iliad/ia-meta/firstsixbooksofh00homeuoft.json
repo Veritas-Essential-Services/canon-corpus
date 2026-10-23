@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The first six books of Homer's Iliad;",
+  "creator": [
+   "Homer",
+   "Anthon, Charles, 1797-1867"
+  ],
+  "description": "26",
+  "publisher": "New York, Harper",
+  "date": "1860",
+  "language": "grc",
+  "copyright-evidence-operator": "AlexAitken",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by AlexAitken for item firstsixbooksofh00homeuoft on November 14, 2007: no visible notice of copyright; stated date is 1847.",
+  "copyright-evidence-date": "20071114021521",
+  "sponsor": "MSN",
+  "contributor": "Gerstein - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "gerstein",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0732",
+  "updatedate": "2007-11-14 02:15:28",
+  "updater": "AlexAitken",
+  "identifier": "firstsixbooksofh00homeuoft",
+  "uploader": "alexaitken@archive.org",
+  "addeddate": "2007-11-14 02:15:31",
+  "publicdate": "2007-11-14 02:15:36",
+  "imagecount": "930",
+  "ppi": "400",
+  "lcamid": "null",
+  "rcamid": "null",
+  "camera": "5D",
+  "operator": "scanner-shaunna-macleod@archive.org",
+  "scanner": "ias10",
+  "scandate": "20071115195206",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksofh00homeuoft",
+  "identifier-ark": "ark:/13960/t1sf2q943",
+  "bookplateleaf": "0008",
+  "curation": "[curator]marcus@archive.org[/curator][date]20080107175517[/date][state]approved[/state][comment]!eng msn [/comment]",
+  "foldoutcount": "0",
+  "scanfactors": "0",
+  "filesxml": [
+   "Wed Mar 17 23:12:37 UTC 2010",
+   "Thu Dec 24 7:43:16 UTC 2020"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_13",
+  "openlibrary_edition": "OL7174934M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1045534180",
+  "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8196",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "71",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "45717048"
+  },
+  {
+   "name": "firstsixbooksofh00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3726348"
+  },
+  {
+   "name": "firstsixbooksofh00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "29913439"
+  },
+  {
+   "name": "firstsixbooksofh00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "287955437"
+  },
+  {
+   "name": "firstsixbooksofh00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "158693"
+  }
+ ]
+}

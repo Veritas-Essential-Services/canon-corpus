@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "publisher": "New York London, Harper & Brothers",
+  "identifier": "treasureisland00rheagoog",
+  "scanner": "google",
+  "title": "Treasure Island",
+  "notes": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune.\n\n",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Rhead, Louis, 1857-1926, illus"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland00rheagoog",
+  "year": "1915",
+  "date": "1915",
+  "scandate": "20071010",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Title within illustrated border; decorated lining-papers"
+  ],
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t7wm1hg2t",
+  "imagecount": "323",
+  "publicdate": "2008-09-28 12:42:41",
+  "source": "http://books.google.com/books?id=5gIPAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "01932563",
+  "lccn": "15023639",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure-trove",
+   "Pirates"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_14",
+  "openlibrary_edition": "OL6581514M",
+  "openlibrary_work": "OL24034W",
+  "addeddate": "2008-09-28 12:42:41",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "treasureisland00rheagoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "389437"
+  },
+  {
+   "name": "treasureisland00rheagoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4020452"
+  },
+  {
+   "name": "treasureisland00rheagoog_scandata.xml",
+   "format": "Scandata",
+   "size": "96840"
+  }
+ ]
+}

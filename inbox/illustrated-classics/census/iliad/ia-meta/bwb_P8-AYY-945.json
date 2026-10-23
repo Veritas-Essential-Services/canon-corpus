@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "bwb_P8-AYY-945",
+  "boxid": "IA40882509",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-0001707",
+  "operator": "associate-radel-luchavez@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station15.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "5.5-initial-237-gc5cdb0bc",
+  "uploader": "station15.cebu@archive.org",
+  "publicdate": "2023-03-20 06:31:27",
+  "identifier-access": "http://archive.org/details/bwb_P8-AYY-945",
+  "identifier-ark": "ark:/13960/s2ndd93f3rq",
+  "scandate": "20230320082628",
+  "imagecount": "464",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+  "republisher_date": "20230330194433",
+  "republisher_time": "372",
+  "foldoutcount": "0",
+  "page_number_confidence": "100",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "title": "The Iliad of Homer",
+  "creator": "Homer, author",
+  "publisher": "New York: Hurst and Company",
+  "date": "1890",
+  "oclc-id": "2432559",
+  "description": "iv, 450 pages : 20 cm",
+  "associated-names": "Pope, Alexander, 1688-1744, translator",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9735",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_P8-AYY-945:epub:f4d580eb-6281-4f4f-9da9-68bd326e54f3",
+   "urn:acs6:bwb_P8-AYY-945:pdf:829c72a6-84be-4e18-bb72-2b9a22586ea9",
+   "urn:lcp:bwb_P8-AYY-945:lcpdf:8899ab5e-c53d-476c-a5af-dfde9252b558"
+  ],
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "addeddate": "2024-01-03 00:21:48",
+  "openlibrary_edition": "OL58655618M",
+  "openlibrary_work": "OL42926186W"
+ },
+ "files": [
+  {
+   "name": "bwb_P8-AYY-945.pdf",
+   "format": "Text PDF",
+   "size": "18454780"
+  },
+  {
+   "name": "bwb_P8-AYY-945_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "982815"
+  },
+  {
+   "name": "bwb_P8-AYY-945_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12818141"
+  },
+  {
+   "name": "bwb_P8-AYY-945_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "138458725"
+  },
+  {
+   "name": "bwb_P8-AYY-945_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "77993"
+  },
+  {
+   "name": "bwb_P8-AYY-945_scandata.xml",
+   "format": "Scandata",
+   "size": "493627"
+  }
+ ]
+}

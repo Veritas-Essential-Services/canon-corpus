@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "A choice collection of Gaelic poems : with the Third Book of Homer's Iliad, translated into Gaelic : to which are added Galgacus's speech to the Caledonians, Pyrrhus and Fabritius, etc",
+  "creator": [
+   "MacFarlane, Patrick, 1753-1832",
+   "Homer. Iliad. Book 3. Scottish Gaelic",
+   "Maclachlan, Ewen, 1773-1822"
+  ],
+  "subject": "Scottish Gaelic poetry",
+  "description": [
+   "Gaelic text",
+   "Translation of Book Three of Homer's Iliad by Eobhan Mac Lacainn, with title: An Treas Duan de Sgeulachd na Troidhe",
+   "Added t.p. in Gaelic, entitled: Co'-chruinneachadh de dh' orain agus de luinneagaibh thaghta Ghae'lach",
+   "HM",
+   "CAM",
+   "<b>Rights</b>: National Library of Scotland holds full rights in this digital resource and agrees to license the resource under the Creative Commons License: Attribution-Noncommercial-Share Alike 2.5 UK: Scotland"
+  ],
+  "publisher": "Edinburgh : C. Stewart",
+  "date": "1813",
+  "language": "gae",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "National Library of Scotland",
+  "contributor": "National Library of Scotland",
+  "scanningcenter": "edinburgh",
+  "mediatype": "texts",
+  "updatedate": "2008-12-17 16:09:40",
+  "updater": "Clara Shakespear",
+  "identifier": "choicecollection00macf",
+  "uploader": "clara.s@archive.org",
+  "addeddate": "2008-12-17 16:09:42",
+  "publicdate": "2008-12-17 16:09:52",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "clara.s@archive.org",
+  "scanner": "scribe1.edinburgh.archive.org",
+  "scandate": "20081218115859",
+  "imagecount": "238",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/choicecollection00macf",
+  "identifier-ark": "ark:/13960/t1kh0vw8c",
+  "scanfactors": "3",
+  "repub_state": "4",
+  "curation": "[curator]gemma@archive.org[/curator][date]20081222172418[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20081231",
+  "licenseurl": "http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/",
+  "collection": [
+   "gaelic",
+   "nationallibraryofscotland",
+   "europeanlibraries"
+  ],
+  "backup_location": "ia903602_22",
+  "openlibrary_edition": "OL22877875M",
+  "openlibrary_work": "OL13699089W",
+  "external-identifier": "urn:oclc:record:1041793035",
+  "filesxml": [
+   "Wed Dec 23 18:24:12 UTC 2020",
+   "Thu Dec 31 21:32:10 UTC 2020"
+  ],
+  "oclc-id": "12948127",
+  "associated-names": "Homer. Iliad. Book 3. Scottish Gaelic; Maclachlan, Ewen, 1773-1822",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "choicecollection00macf.pdf",
+   "format": "Text PDF",
+   "size": "7342861"
+  },
+  {
+   "name": "choicecollection00macf_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "268734"
+  },
+  {
+   "name": "choicecollection00macf_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3180916"
+  },
+  {
+   "name": "choicecollection00macf_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "57941341"
+  },
+  {
+   "name": "choicecollection00macf_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "39963"
+  },
+  {
+   "name": "choicecollection00macf_scandata.xml",
+   "format": "Scandata",
+   "size": "124242"
+  }
+ ]
+}

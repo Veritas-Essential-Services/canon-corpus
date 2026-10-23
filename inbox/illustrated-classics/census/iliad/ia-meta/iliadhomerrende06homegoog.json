@@ -1,0 +1,62 @@
+{
+ "metadata": {
+  "google-id": "DjkbAAAAYAAJ",
+  "identifier": "iliadhomerrende06homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer rendered into English blank verse",
+  "source": "http://books.google.com/books?id=DjkbAAAAYAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Derby, Edward Henry Stanley, Earl of, 1826-1893. tr"
+  ],
+  "publisher": "London, J. Murray",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerrende06homegoog",
+  "contributor": "Harvard University",
+  "oclc-id": "16150706",
+  "scandate": "20080524000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Vol. 1: Second thousand; v. 2: third thousand",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1864",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t9086w31w",
+  "imagecount": "427",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-12-18 21:23:53",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-18 21:23:53",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerrende06homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "434565"
+  },
+  {
+   "name": "iliadhomerrende06homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4427140"
+  },
+  {
+   "name": "iliadhomerrende06homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "266905999"
+  },
+  {
+   "name": "iliadhomerrende06homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "128228"
+  }
+ ]
+}

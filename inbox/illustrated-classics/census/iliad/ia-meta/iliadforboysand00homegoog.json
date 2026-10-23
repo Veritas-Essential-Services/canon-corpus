@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "google-id": "v8ERAAAAYAAJ",
+  "identifier": "iliadforboysand00homegoog",
+  "scanner": "google",
+  "title": "The Iliad for boys and girls ",
+  "source": "http://books.google.com/books?id=v8ERAAAAYAAJ&oe=UTF-8",
+  "creator": [
+   "Church, Alfred John, 1829-1912",
+   "Homer. Iliad"
+  ],
+  "publisher": "New York : The Macmillan Co.",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadforboysand00homegoog",
+  "year": "1907",
+  "date": "1907",
+  "contributor": "Harvard University",
+  "oclc-id": "4709469",
+  "scandate": "20071121",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "lccn": "07030639",
+  "subject": "Achilles (Greek mythology)",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t6c25ck13",
+  "imagecount": "337",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 09:44:04",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL6988594M",
+  "openlibrary_work": "OL5215821W",
+  "addeddate": "2009-07-27 09:44:04",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadforboysand00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "251483"
+  },
+  {
+   "name": "iliadforboysand00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2754478"
+  },
+  {
+   "name": "iliadforboysand00homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "183001471"
+  },
+  {
+   "name": "iliadforboysand00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "101228"
+  }
+ ]
+}

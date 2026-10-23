@@ -1,0 +1,81 @@
+{
+ "metadata": {
+  "google-id": "BKQNAAAAYAAJ",
+  "identifier": "iliadvolume00leafgoog",
+  "scanner": "google",
+  "title": "The Iliad; ed., with apparatus criticus, prolegomena, notes, and appendices",
+  "source": "http://books.google.com/books?id=BKQNAAAAYAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Leaf, Walter, 1852-1927, ed"
+  ],
+  "publisher": "London, Macmillan and co., limited; New York, The Macmillan company",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadvolume00leafgoog",
+  "contributor": "New York Public Library",
+  "oclc-id": "2920977",
+  "scandate": "20070919",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "lccn": "04015413",
+  "date": "1900",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t6qz2rs4q",
+  "imagecount": "477",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-10-12 04:52:14",
+  "backup_location": "ia903604_3",
+  "addeddate": "2009-10-12 04:52:14",
+  "usl_hit": "auto",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8332",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "87.82",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadvolume00leafgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1855945"
+  },
+  {
+   "name": "iliadvolume00leafgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "20554369"
+  },
+  {
+   "name": "iliadvolume00leafgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "666977436"
+  },
+  {
+   "name": "iliadvolume00leafgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "97394"
+  },
+  {
+   "name": "iliadvolume00leafgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "157750"
+  },
+  {
+   "name": "iliadvolume00leafgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "35379537"
+  }
+ ]
+}

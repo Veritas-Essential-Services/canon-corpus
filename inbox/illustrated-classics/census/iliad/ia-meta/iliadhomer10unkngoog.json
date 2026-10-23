@@ -1,0 +1,53 @@
+{
+ "metadata": {
+  "google-id": "3M9fAAAAMAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=3M9fAAAAMAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer10unkngoog",
+  "oclc-id": "25919724",
+  "identifier": "iliadhomer10unkngoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t2z326948",
+  "imagecount": "495",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-04-26 16:52:49",
+  "creator": "Homer,  Theodore Alois Buckley",
+  "repub_state": "4",
+  "backup_location": "ia903603_1",
+  "addeddate": "2009-04-26 16:52:49",
+  "usl_hit": "auto",
+  "date": "1877"
+ },
+ "files": [
+  {
+   "name": "iliadhomer10unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1089606"
+  },
+  {
+   "name": "iliadhomer10unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10438996"
+  },
+  {
+   "name": "iliadhomer10unkngoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "417187864"
+  },
+  {
+   "name": "iliadhomer10unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "148623"
+  }
+ ]
+}

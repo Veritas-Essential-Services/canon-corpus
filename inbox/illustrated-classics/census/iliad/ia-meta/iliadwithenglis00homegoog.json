@@ -1,0 +1,67 @@
+{
+ "metadata": {
+  "identifier": "iliadwithenglis00homegoog",
+  "scanner": "google",
+  "title": "Iliad. With English notes and grammatical references",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1852",
+  "date": "1852",
+  "scandate": "20060613",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "pages (4), 662, 38",
+   "Arnold's school classics"
+  ],
+  "source": "http://books.google.com/books?id=-DB45Lxv868C&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "81556953",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/iliadwithenglis00homegoog",
+  "identifier-ark": "ark:/13960/t4mk6p66g",
+  "imagecount": "721",
+  "ppi": "150",
+  "publicdate": "2009-03-09 09:25:55",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 09:25:55",
+  "publisher": "Lond.",
+  "associated-names": "Arnold, Thomas Kerchever, 1800-1853, editor",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.4098",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "67.36"
+ },
+ "files": [
+  {
+   "name": "iliadwithenglis00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1073102"
+  },
+  {
+   "name": "iliadwithenglis00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13631187"
+  },
+  {
+   "name": "iliadwithenglis00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "134684"
+  },
+  {
+   "name": "iliadwithenglis00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "246330"
+  }
+ ]
+}

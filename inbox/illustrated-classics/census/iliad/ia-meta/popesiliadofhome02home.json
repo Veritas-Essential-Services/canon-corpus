@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "title": "Pope's The Iliad of Homer, books I, VI, XXII and XXIV;",
+  "creator": "Homer",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "Richmond, B.F. Johnson pub. co.",
+  "date": "1901",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "9598160",
+  "identifier-bib": "00030601579",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:41:29",
+  "updater": "ChristinaB",
+  "identifier": "popesiliadofhome02home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:41:31",
+  "publicdate": "2011-11-09 16:41:35",
+  "scanner": "scribe8.capitolhill.archive.org",
+  "repub_seconds": "344",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-mang-pau@archive.org",
+  "scandate": "20111122183715",
+  "imagecount": "208",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popesiliadofhome02home",
+  "identifier-ark": "ark:/13960/t1pg2pp8z",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "120",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL25098064M",
+  "openlibrary_work": "OL16266910W",
+  "external-identifier": "urn:oclc:record:1050710988",
+  "usl_hit": "auto",
+  "lccn": "01024853",
+  "description": "2 p.l., 7-190 p. 17 cm",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popesiliadofhome02home.pdf",
+   "format": "Text PDF",
+   "size": "13761612"
+  },
+  {
+   "name": "popesiliadofhome02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "303708"
+  },
+  {
+   "name": "popesiliadofhome02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3739806"
+  },
+  {
+   "name": "popesiliadofhome02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "139483810"
+  },
+  {
+   "name": "popesiliadofhome02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "35072"
+  },
+  {
+   "name": "popesiliadofhome02home_scandata.xml",
+   "format": "Scandata",
+   "size": "207133"
+  }
+ ]
+}

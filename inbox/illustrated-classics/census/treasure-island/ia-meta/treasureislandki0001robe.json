@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "treasureislandki0001robe",
+  "boxid": "IA40827103",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1912",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-1200626",
+  "operator": "associate-girly-perez@archive.org",
+  "page-progression": "lr",
+  "publisher": "P. F. Collier and Son Company, New York",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station60.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "title": "Treasure Island Kidnapped",
+  "tts_version": "5.4-initial-3-gae281fbc",
+  "volume": "1",
+  "uploader": "station60.cebu@archive.org",
+  "publicdate": "2023-01-21 13:41:12",
+  "identifier-access": "http://archive.org/details/treasureislandki0001robe",
+  "identifier-ark": "ark:/13960/s235cjvr0d0",
+  "scandate": "20230121230344",
+  "imagecount": "472",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-noreenangelika-saberon@archive.org",
+  "republisher_date": "20230128072348",
+  "republisher_time": "122",
+  "foldoutcount": "0",
+  "bookplateleaf": "0006",
+  "ocr": "tesseract 5.3.0-1-gd3a4",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.18",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9730",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureislandki0001robe:epub:cd96bbc5-bf96-4fe7-b12a-24d5d0049a93",
+   "urn:acs6:treasureislandki0001robe:pdf:31ac5cd2-e580-4608-bb22-636631ccfb5c",
+   "urn:lcp:treasureislandki0001robe:lcpdf:8eab1aa6-68f8-4079-8b25-fcc3080b7c5b"
+  ],
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.20",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "addeddate": "2023-01-29 00:04:02",
+  "sponsordate": "20230131",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureislandki0001robe.pdf",
+   "format": "Text PDF",
+   "size": "25749888"
+  },
+  {
+   "name": "treasureislandki0001robe_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "863095"
+  },
+  {
+   "name": "treasureislandki0001robe_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12236283"
+  },
+  {
+   "name": "treasureislandki0001robe_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "243273792"
+  },
+  {
+   "name": "treasureislandki0001robe_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "79120"
+  },
+  {
+   "name": "treasureislandki0001robe_scandata.xml",
+   "format": "Scandata",
+   "size": "502732"
+  }
+ ]
+}

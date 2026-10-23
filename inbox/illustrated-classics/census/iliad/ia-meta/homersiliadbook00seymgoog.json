@@ -1,0 +1,47 @@
+{
+ "metadata": {
+  "publisher": "Ginn & Co.",
+  "scanner": "google",
+  "title": "Homer's Iliad: books I-III.",
+  "creator": "Homer,  Thomas Day Seymour",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook00seymgoog",
+  "year": "1887",
+  "date": "1887",
+  "oclc-id": "2832789",
+  "identifier": "homersiliadbook00seymgoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "language": "grc",
+  "identifier-ark": "ark:/13960/t58d05058",
+  "imagecount": "249",
+  "publicdate": "2008-10-06 04:22:50",
+  "source": "http://books.google.com/books?id=-Y8XAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "lccn": "12034468",
+  "repub_state": "4",
+  "backup_location": "ia903602_15",
+  "addeddate": "2008-10-06 04:22:50"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook00seymgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1028129"
+  },
+  {
+   "name": "homersiliadbook00seymgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6754979"
+  },
+  {
+   "name": "homersiliadbook00seymgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "74804"
+  }
+ ]
+}

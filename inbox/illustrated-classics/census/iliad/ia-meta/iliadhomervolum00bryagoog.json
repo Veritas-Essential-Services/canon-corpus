@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "google-id": "nM9fAAAAMAAJ",
+  "identifier": "iliadhomervolum00bryagoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=nM9fAAAAMAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878. tr"
+  ],
+  "publisher": "Boston, J. R. Osgood and company",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomervolum00bryagoog",
+  "contributor": "University of Michigan",
+  "oclc-id": "252245",
+  "scandate": "20080416",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1871",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t7jq1gx82",
+  "imagecount": "376",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-10-02 10:19:27",
+  "backup_location": "ia903604_0",
+  "openlibrary_edition": "OL23743113M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-10-02 10:19:27",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomervolum00bryagoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "481108"
+  },
+  {
+   "name": "iliadhomervolum00bryagoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4907486"
+  },
+  {
+   "name": "iliadhomervolum00bryagoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "258650528"
+  },
+  {
+   "name": "iliadhomervolum00bryagoog_scandata.xml",
+   "format": "Scandata",
+   "size": "112928"
+  }
+ ]
+}

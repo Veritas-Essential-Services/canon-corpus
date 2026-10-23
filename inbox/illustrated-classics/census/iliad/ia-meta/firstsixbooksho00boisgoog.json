@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "publisher": "S.C. Griggs and Co.",
+  "scanner": "google",
+  "title": "The First Six Books of Homer's Iliad: With Explanatory Notes, and References to the Grammar of ...",
+  "creator": "Homer,  James Robinson Boise",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1878",
+  "date": "1878",
+  "oclc-id": "80166444",
+  "identifier": "firstsixbooksho00boisgoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "curation": "[curator]malware@archive.org[/curator][date]20140318110115[/date][comment]checked for malware[/comment]",
+  "publicdate": "2014-03-18 11:01:15",
+  "source": "http://books.google.com/books?id=FosXAAAAIAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "language": [
+   "English",
+   "grc"
+  ],
+  "identifier-access": "http://archive.org/details/firstsixbooksho00boisgoog",
+  "identifier-ark": "ark:/13960/t7tm9t98m",
+  "imagecount": "279",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905805_21",
+  "addeddate": "2014-03-18 11:01:15"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho00boisgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "571240"
+  },
+  {
+   "name": "firstsixbooksho00boisgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5201143"
+  },
+  {
+   "name": "firstsixbooksho00boisgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "47703290"
+  },
+  {
+   "name": "firstsixbooksho00boisgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "83828"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "The first six books of Homer's Iliad : with English notes, critical and explanatory, a metrical index, and Homeric glossary",
+  "creator": [
+   "Homer",
+   "Anthon, Charles, 1797-1867"
+  ],
+  "description": "Greek text with English notes",
+  "publisher": "New York : Harper & Brothers",
+  "date": "1869",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University-Idaho",
+  "contributor": "Brigham Young University-Idaho, David O. McKay Library",
+  "scanningcenter": "rexburg",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "updatedate": "2012-08-08 20:09:27",
+  "updater": "Lynne Squires",
+  "identifier": "firstsixbooksofh01home",
+  "uploader": "scanner-lynne-squires@archive.org",
+  "addeddate": "2012-08-08 20:09:29",
+  "publicdate": "2012-08-08 20:09:34",
+  "scanner": "scribe1.rexburg.archive.org",
+  "notes": "No Table of Content Page",
+  "repub_seconds": "278237",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byui-01@archive.org",
+  "scandate": "20120816195328",
+  "republisher": "scanner-lynne-squires@archive.org",
+  "imagecount": "920",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/firstsixbooksofh01home",
+  "identifier-ark": "ark:/13960/t3dz1fx77",
+  "bookplateleaf": "0003",
+  "scanfee": "100",
+  "sponsordate": "20120831",
+  "collection": [
+   "family_history_library",
+   "brighamyounguniversityidaho",
+   "americana"
+  ],
+  "backup_location": "ia903905_20",
+  "external-identifier": "urn:oclc:record:1045593596",
+  "openlibrary_work": "OL16789719W",
+  "openlibrary_edition": "OL25410512M",
+  "republisher_operator": "scanner-lynne-squires@archive.org",
+  "republisher_date": "20120820203222",
+  "page_number_confidence": "99",
+  "oclc-id": "27412194",
+  "associated-names": "Anthon, Charles, 1797-1867",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9192",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh01home.pdf",
+   "format": "Text PDF",
+   "size": "57894553"
+  },
+  {
+   "name": "firstsixbooksofh01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2528711"
+  },
+  {
+   "name": "firstsixbooksofh01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "27674241"
+  },
+  {
+   "name": "firstsixbooksofh01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "359362741"
+  },
+  {
+   "name": "firstsixbooksofh01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "155942"
+  },
+  {
+   "name": "firstsixbooksofh01home_scandata.xml",
+   "format": "Scandata",
+   "size": "1202863"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "identifier": "isbn_9781276342551",
+  "boxid": "IA40839501",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Homer, James Robinson Boise",
+  "date": "1880",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-1300598",
+  "operator": "associate-girly-perez@archive.org",
+  "page-progression": "lr",
+  "publisher": "Chicago: S. C. Griggs and Company",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station60.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "isbn",
+  "scribe3_search_id": "9781276342551",
+  "title": "The first six books of homers iliad",
+  "tts_version": "5.4-initial-3-gae281fbc",
+  "uploader": "station60.cebu@archive.org",
+  "publicdate": "2023-01-31 12:13:46",
+  "identifier-access": "http://archive.org/details/isbn_9781276342551",
+  "identifier-ark": "ark:/13960/s2119mc1fh1",
+  "scandate": "20230201000639",
+  "imagecount": "276",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-shielamae-olmilla@archive.org",
+  "republisher_date": "20230206185430",
+  "republisher_time": "168",
+  "foldoutcount": "0",
+  "bookplateleaf": "0002",
+  "ocr": "tesseract 5.3.0-1-gd3a4",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.18",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6388",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:isbn_9781276342551:epub:2a1f4f1c-ec57-4257-a53f-1ed160edf34c",
+   "urn:acs6:isbn_9781276342551:pdf:17635ee8-3b88-4ade-a070-56edf39c9876",
+   "urn:lcp:isbn_9781276342551:lcpdf:a7e7230b-f6ba-45fb-b29c-01d8d288bfbd"
+  ],
+  "page_number_confidence": "95",
+  "pdf_module_version": "0.0.20",
+  "addeddate": "2023-02-07 00:02:54",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "sponsordate": "20230228",
+  "page_number_module_version": "1.0.5",
+  "openlibrary_edition": "OL58887667M",
+  "openlibrary_work": "OL43237289W"
+ },
+ "files": [
+  {
+   "name": "isbn_9781276342551.pdf",
+   "format": "Text PDF",
+   "size": "15669706"
+  },
+  {
+   "name": "isbn_9781276342551_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "588250"
+  },
+  {
+   "name": "isbn_9781276342551_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8243551"
+  },
+  {
+   "name": "isbn_9781276342551_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "134307728"
+  },
+  {
+   "name": "isbn_9781276342551_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "45984"
+  },
+  {
+   "name": "isbn_9781276342551_scandata.xml",
+   "format": "Scandata",
+   "size": "293571"
+  }
+ ]
+}

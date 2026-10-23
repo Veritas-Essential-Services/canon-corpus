@@ -1,0 +1,70 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_fzsTAAAAYAAJ",
+  "creator": [
+   "Homer",
+   "Cowper, William, 1731-1800",
+   "Homer. Iliad. English",
+   "Homer. Odyssey. English"
+  ],
+  "date": "1814",
+  "google-id": "fzsTAAAAYAAJ",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "Boston : Joseph T. Buckingham",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=fzsTAAAAYAAJ&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "The Iliad and Odyssey of Homer [microform]",
+  "year": "1814",
+  "publicdate": "2015-02-13 12:13:24",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2015-02-13 12:13:24",
+  "curation": "[curator]validator@archive.org[/curator][date]20150213121355[/date][comment]checked for malware[/comment]",
+  "oclc-id": "15437223",
+  "description": [
+   "Includes (v.4, p. [293]-309): The Battle of the frogs and mice, translated into English blank verse by the same hand",
+   "Shaw & Shoemaker",
+   "Microfiche",
+   "Mode of access: Internet"
+  ],
+  "contributor": "Harvard University",
+  "identifier-access": "http://archive.org/details/bub_gb_fzsTAAAAYAAJ",
+  "identifier-ark": "ark:/13960/t9m362m02",
+  "imagecount": "439",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905301_3",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "bub_gb_fzsTAAAAYAAJ.pdf",
+   "format": "Text PDF",
+   "size": "32619824"
+  },
+  {
+   "name": "bub_gb_fzsTAAAAYAAJ_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "586018"
+  },
+  {
+   "name": "bub_gb_fzsTAAAAYAAJ_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5684629"
+  },
+  {
+   "name": "bub_gb_fzsTAAAAYAAJ_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "196640365"
+  },
+  {
+   "name": "bub_gb_fzsTAAAAYAAJ_scandata.xml",
+   "format": "Scandata",
+   "size": "131503"
+  }
+ ]
+}

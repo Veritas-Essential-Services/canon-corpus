@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "Treasure island. A play in four acts and ten scenes",
+  "creator": [
+   "Goodman, Jules Eckert, b. 1876",
+   "Stevenson, Robert Louis, 1850-1894"
+  ],
+  "publisher": "New York : S. French; [etc., etc.]",
+  "date": "c1915",
+  "language": "eng",
+  "copyright-evidence-operator": "alyson-wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by alyson-wieczorek for item treasureislandpl00goodiala on April 11, 2007: visible notice of copyright; stated date is 1915.",
+  "copyright-evidence-date": "20070411152420",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "iala",
+  "mediatype": "texts",
+  "call_number": "srlf_ucla:LAGE-1405291",
+  "collection-library": "srlf_ucla",
+  "identifier-bib": "LAGE-1405291",
+  "identifier-access": "http://www.archive.org/details/treasureislandpl00goodiala",
+  "updatedate": "2007-04-11 15:24:42",
+  "updater": "alyson-wieczorek",
+  "identifier": "treasureislandpl00goodiala",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2007-04-11 15:24:44",
+  "publicdate": "2007-04-11 15:24:56",
+  "imagecount": "112",
+  "ppi": "400",
+  "lcamid": "1721201168",
+  "rcamid": "1020707296",
+  "camera": "5D",
+  "operator": "scanner-tom-workman@archive.org",
+  "scanner": "iala4",
+  "scandate": "20070416212050",
+  "identifier-ark": "ark:/13960/t81j99d5r",
+  "bookplateleaf": "0006",
+  "curation": "[curator]lajolla@archive.org[/curator][date]20070419180638[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070430",
+  "filesxml": [
+   "Thu Mar 18 12:24:48 UTC 2010",
+   "Sat Dec 26 13:49:26 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_34",
+  "openlibrary_edition": "OL7161749M",
+  "openlibrary_work": "OL7644794W",
+  "external-identifier": "urn:oclc:record:1157937233",
+  "usl_hit": "auto",
+  "lccn": "15025106",
+  "oclc-id": "361877",
+  "description": "102 p. 20 1/2 cm",
+  "associated-names": "Stevenson, Robert Louis, 1850-1894. Treasure Island",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislandpl00goodiala.pdf",
+   "format": "Text PDF",
+   "size": "4446446"
+  },
+  {
+   "name": "treasureislandpl00goodiala_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "184696"
+  },
+  {
+   "name": "treasureislandpl00goodiala_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2350398"
+  },
+  {
+   "name": "treasureislandpl00goodiala_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "38728501"
+  },
+  {
+   "name": "treasureislandpl00goodiala_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "18387"
+  }
+ ]
+}

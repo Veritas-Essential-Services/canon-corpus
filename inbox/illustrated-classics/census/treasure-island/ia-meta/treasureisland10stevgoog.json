@@ -1,0 +1,58 @@
+{
+ "metadata": {
+  "identifier": "treasureisland10stevgoog",
+  "scanner": "google",
+  "contributor": "Oxford University",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1884",
+  "scandate": "20070115000000",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=bAYGAAAAQAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/treasureisland10stevgoog",
+  "identifier-ark": "ark:/13960/t4th8tv15",
+  "imagecount": "325",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-15 15:37:21",
+  "repub_state": "4",
+  "backup_location": "ia903602_28",
+  "addeddate": "2009-02-15 15:37:21",
+  "usl_hit": "auto",
+  "oclc-id": "15998258",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Boston : Roberts Bros.",
+  "date": "1884",
+  "subject": [
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc",
+   "Pirates",
+   "Treasure Island (Imaginary place)",
+   "Treasure troves"
+  ],
+  "lccn": "50041391",
+  "description": [
+   "viii, 292 pages, 4 unnumbered leaves of plates : 19 cm",
+   "Originally published in Young folks, v. 19-20, Oct. 1, 1881-Jan. 28, 1882, as the work of Captain George North",
+   "First illustrated edition. Cf. McKay"
+  ],
+  "references": "McKay, G.L. Stevenson lib., 244",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL13443532M"
+ },
+ "files": [
+  {
+   "name": "treasureisland10stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "97590"
+  }
+ ]
+}

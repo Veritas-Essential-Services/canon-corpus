@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "publisher": "London, Longmans and Co.",
+  "identifier": "iliadhomerwitha00homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer with a verse translation",
+  "creator": [
+   "Homer",
+   "Green, W. C. (William Charles), 1832-1914"
+  ],
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "William Charles Green",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerwitha00homegoog",
+  "year": "1884",
+  "date": "1884",
+  "oclc-id": "23980078",
+  "scandate": "20060614000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Greek and English on opposite pages",
+   "No more published"
+  ],
+  "identifier-ark": "ark:/13960/t1zc81k6h",
+  "imagecount": "252",
+  "publicdate": "2008-06-09 22:30:34",
+  "source": "http://books.google.com/books?id=YbkZ1JBxG5kC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "lccn": "10000298",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_1",
+  "openlibrary_edition": "OL7015179M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2008-06-09 22:30:34",
+  "usl_hit": "auto",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.8693",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.71",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerwitha00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "475058"
+  },
+  {
+   "name": "iliadhomerwitha00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4821755"
+  },
+  {
+   "name": "iliadhomerwitha00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "46967"
+  },
+  {
+   "name": "iliadhomerwitha00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "82803"
+  },
+  {
+   "name": "iliadhomerwitha00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "7150822"
+  }
+ ]
+}

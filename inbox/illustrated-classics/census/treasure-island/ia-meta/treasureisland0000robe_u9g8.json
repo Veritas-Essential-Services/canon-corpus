@@ -1,0 +1,107 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000robe_u9g8",
+  "boxid": "IA40583820",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "language": "Eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-0001226",
+  "operator": "associate-jerelyn-gonzaga@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station20.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "5.2-initial-85-g854daec1",
+  "uploader": "station20.cebu@archive.org",
+  "publicdate": "2022-06-28 08:50:24",
+  "identifier-access": "http://archive.org/details/treasureisland0000robe_u9g8",
+  "identifier-ark": "ark:/13960/s2641tbbb4b",
+  "scandate": "20220628095752",
+  "imagecount": "322",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-louvette-cabusas@archive.org",
+  "republisher_date": "20220701195854",
+  "republisher_time": "323",
+  "foldoutcount": "0",
+  "bookplateleaf": "0006",
+  "page_number_confidence": "49",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "sponsordate": "20220630",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894, author",
+  "publisher": "New York : George H. Doran",
+  "date": "1927",
+  "subject": [
+   "Children's literature",
+   "Pirates -- Juvenile fiction",
+   "Treasure troves -- Juvenile fiction",
+   "Buried treasure -- Fiction",
+   "Pirates -- Fiction",
+   "Adventure and adventurers -- Fiction",
+   "Pirates -- Romans, nouvelles, etc. pour la jeunesse",
+   "Trésors -- Recherche -- Romans, nouvelles, etc. pour la jeunesse",
+   "Children's literature",
+   "Pirates",
+   "Treasure troves"
+  ],
+  "oclc-id": [
+   "1028815",
+   "43566447"
+  ],
+  "description": [
+   "287 pages, 12 unnumbered leaves of plates : 25 cm",
+   "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune"
+  ],
+  "associated-names": "Dulac, Edmund, 1882-1953, illustrator",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8854",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": "urn:acs6:treasureisland0000robe_u9g8:pdf:49aa212e-cb62-4931-beda-73595b772c2f",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38603472M",
+  "year": "1927",
+  "addeddate": "2024-03-22 00:08:07",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000robe_u9g8.pdf",
+   "format": "Text PDF",
+   "size": "14331434"
+  },
+  {
+   "name": "treasureisland0000robe_u9g8_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "393288"
+  },
+  {
+   "name": "treasureisland0000robe_u9g8_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5627479"
+  },
+  {
+   "name": "treasureisland0000robe_u9g8_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "128637234"
+  },
+  {
+   "name": "treasureisland0000robe_u9g8_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54564"
+  },
+  {
+   "name": "treasureisland0000robe_u9g8_scandata.xml",
+   "format": "Scandata",
+   "size": "343788"
+  }
+ ]
+}

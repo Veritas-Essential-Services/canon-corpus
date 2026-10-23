@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "An t-Iliad. Air chogadh na Tróighe. Aisdríghthe o Ghreag-Bhearla go ran Gaoidhilge, le Seághan, Árd-easbog Thúama",
+  "creator": [
+   "Homer",
+   "McHale, John, 1791-1881"
+  ],
+  "description": [
+   "Books I-VIII",
+   "Greek and Irish on opposite pages",
+   "26"
+  ],
+  "publisher": "Bháile Atha-Cliath, Gudmhain",
+  "date": "1844",
+  "language": [
+   "iri",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0811",
+  "repub_state": "4",
+  "updatedate": "2010-07-07 15:44:24",
+  "updater": "lexw@archive.org",
+  "identifier": "tiliadairchogadh00home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-07 15:44:26",
+  "publicdate": "2010-07-07 15:44:33",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-carrie-lounsbury@archive.org",
+  "scanner": "scribe17.toronto.archive.org",
+  "scandate": "20100708034848",
+  "imagecount": "492",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/tiliadairchogadh00home",
+  "identifier-ark": "ark:/13960/t1pg2db9n",
+  "bookplateleaf": "0004",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100804001648[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "openlibrary_edition": "OL24348017M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:848551751",
+  "filesxml": "Sat Dec 26 12:26:46 UTC 2020",
+  "associated-names": "McHale, John, 1791-1881",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+gle",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.6533",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "87",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "tiliadairchogadh00home.pdf",
+   "format": "Text PDF",
+   "size": "19019380"
+  },
+  {
+   "name": "tiliadairchogadh00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "883666"
+  },
+  {
+   "name": "tiliadairchogadh00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9591656"
+  },
+  {
+   "name": "tiliadairchogadh00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "111531530"
+  },
+  {
+   "name": "tiliadairchogadh00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "83233"
+  },
+  {
+   "name": "tiliadairchogadh00home_scandata.xml",
+   "format": "Scandata",
+   "size": "256070"
+  }
+ ]
+}

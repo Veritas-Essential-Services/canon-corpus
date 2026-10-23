@@ -1,0 +1,79 @@
+{
+ "metadata": {
+  "google-id": "JdJfAAAAMAAJ",
+  "identifier": "iliadhomer02caylgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer ",
+  "source": "http://books.google.com/books?id=JdJfAAAAMAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Cayley, C. B. (Charles Bagot), 1823-1876"
+  ],
+  "publisher": "London : Longmans",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer02caylgoog",
+  "contributor": "University of Michigan",
+  "oclc-id": "11167092",
+  "scandate": "20080416000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1877",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t8v98nv99",
+  "imagecount": "432",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-10-02 08:27:48",
+  "backup_location": "ia903604_0",
+  "openlibrary_edition": "OL23743068M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-10-02 08:27:48",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadhomer02caylgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1137927"
+  },
+  {
+   "name": "iliadhomer02caylgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13530766"
+  },
+  {
+   "name": "iliadhomer02caylgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "488311817"
+  },
+  {
+   "name": "iliadhomer02caylgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "73845"
+  },
+  {
+   "name": "iliadhomer02caylgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "143912"
+  },
+  {
+   "name": "iliadhomer02caylgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "26850488"
+  }
+ ]
+}

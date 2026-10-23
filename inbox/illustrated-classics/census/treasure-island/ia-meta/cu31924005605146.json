@@ -1,0 +1,75 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "Treasure island",
+  "identifier": "cu31924005605146",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-26 01:03:55",
+  "identifier-access": "http://www.archive.org/details/cu31924005605146",
+  "identifier-ark": "ark:/13960/t9z03pk8v",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "Illustrated end-papers"
+  ],
+  "lccn": "11025046",
+  "call_number": "PZ3.S848 T29",
+  "camera": "EOS-1D",
+  "lcamid": "337562",
+  "rcamid": "337626",
+  "operator": "Ben B",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Abbott, Elenore Plaisted"
+  ],
+  "publisher": "Philadelphia, G. W. Jacobs and Company",
+  "date": "1911",
+  "language": "eng",
+  "imagecount": "320",
+  "bookplateleaf": "0001",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20080103181410",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-10-27 02:35:30",
+  "filesxml": "Sun Mar 7 1:26:20 UTC 2010",
+  "backup_location": "ia903604_7",
+  "openlibrary_edition": "OL6535326M",
+  "openlibrary_work": "OL24034W",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "cu31924005605146.pdf",
+   "format": "Text PDF",
+   "size": "6382049"
+  },
+  {
+   "name": "cu31924005605146_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "383586"
+  },
+  {
+   "name": "cu31924005605146_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3854759"
+  },
+  {
+   "name": "cu31924005605146_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "123158399"
+  },
+  {
+   "name": "cu31924005605146_scandata.xml",
+   "format": "Scandata",
+   "size": "113379"
+  }
+ ]
+}

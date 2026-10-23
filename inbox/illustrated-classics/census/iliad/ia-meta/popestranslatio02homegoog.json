@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "google-id": "PQdLAAAAIAAJ",
+  "identifier": "popestranslatio02homegoog",
+  "scanner": "google",
+  "title": "Pope's translation of Homer's Iliad, books I, VI, XXII, XXIV",
+  "source": "http://books.google.com/books?id=PQdLAAAAIAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744. tr",
+   "Tappan, William"
+  ],
+  "publisher": "Boston, Ginn &amp; company",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/popestranslatio02homegoog",
+  "contributor": "University of California",
+  "oclc-id": "2475576",
+  "scandate": "20071210000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1898",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t8x92tj29",
+  "imagecount": "209",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-12-31 05:41:14",
+  "backup_location": "ia903604_22",
+  "openlibrary_edition": "OL16561102M",
+  "openlibrary_work": "OL415390W",
+  "addeddate": "2009-12-31 05:41:14"
+ },
+ "files": [
+  {
+   "name": "popestranslatio02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "322158"
+  },
+  {
+   "name": "popestranslatio02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3167732"
+  },
+  {
+   "name": "popestranslatio02homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "170962378"
+  },
+  {
+   "name": "popestranslatio02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "62828"
+  }
+ ]
+}

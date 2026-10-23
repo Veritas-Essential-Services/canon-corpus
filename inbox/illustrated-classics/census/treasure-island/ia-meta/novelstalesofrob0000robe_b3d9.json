@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "novelstalesofrob0000robe_b3d9",
+  "boxid": "IA41372622",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "col_number": "COL-2833",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1905",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-OL-0000206",
+  "operator": "associate-wilfredo-saladores@archive.org",
+  "page-progression": "lr",
+  "publisher": "new york: charles scribner's sons",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20240725102945",
+  "scanner": "station16.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T2-BCR-580",
+  "title": "the novels and tales of robert louis stevenson: treasure island",
+  "tts_version": "6.7-initial-115-g8e543b5f",
+  "uploader": "station16.cebu@archive.org",
+  "publicdate": "2024-07-25 09:30:37",
+  "identifier-access": "http://archive.org/details/novelstalesofrob0000robe_b3d9",
+  "identifier-ark": "ark:/13960/s21ssp21f2j",
+  "imagecount": "300",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mariejoy-gelves@archive.org",
+  "republisher_date": "20240808135959",
+  "republisher_time": "196",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9448",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:novelstalesofrob0000robe_b3d9:epub:16e46486-bf2b-47fa-91d6-4def9d4f8526",
+   "urn:lcp:novelstalesofrob0000robe_b3d9:lcpdf:b67ae1fb-8e91-4ac7-a4ec-160a464bac1a",
+   "urn:acs6:novelstalesofrob0000robe_b3d9:pdf:9d2178fe-1ad5-476d-8383-415c9e92064e"
+  ],
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2024-08-09 00:15:53",
+  "openlibrary_work": "OL43291002W",
+  "openlibrary_edition": "OL58965345M"
+ },
+ "files": [
+  {
+   "name": "novelstalesofrob0000robe_b3d9.pdf",
+   "format": "Text PDF",
+   "size": "10232337"
+  },
+  {
+   "name": "novelstalesofrob0000robe_b3d9_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "414788"
+  },
+  {
+   "name": "novelstalesofrob0000robe_b3d9_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5855701"
+  },
+  {
+   "name": "novelstalesofrob0000robe_b3d9_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "103597288"
+  },
+  {
+   "name": "novelstalesofrob0000robe_b3d9_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50306"
+  },
+  {
+   "name": "novelstalesofrob0000robe_b3d9_scandata.xml",
+   "format": "Scandata",
+   "size": "318655"
+  }
+ ]
+}

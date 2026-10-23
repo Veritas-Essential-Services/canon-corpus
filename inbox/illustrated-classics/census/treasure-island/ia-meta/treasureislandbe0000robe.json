@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "identifier": "treasureislandbe0000robe",
+  "boxid": "IA41227706",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1883",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-0000175",
+  "openlibrary_edition": "OL59083599M",
+  "openlibrary_work": "OL43379791W",
+  "operator": "associate-arianefaye-rodrigo@archive.org",
+  "page-progression": "lr",
+  "publisher": "Award Books, Inc.",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scandate": "20240202211033",
+  "scanner": "station14.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "O9-AUT-136",
+  "title": "Treasure Island [ Best Seller Classic Series ] Award Books, Inc.",
+  "tts_version": "6.5-initial-117-g859c1211",
+  "uploader": "station14.cebu@archive.org",
+  "publicdate": "2024-02-02 20:08:22",
+  "notes": "Cut-off text on some pages due to tight binding",
+  "identifier-access": "http://archive.org/details/treasureislandbe0000robe",
+  "identifier-ark": "ark:/13960/s2240n5q98d",
+  "imagecount": "262",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mae-mirafuentes@archive.org",
+  "republisher_date": "20240210043339",
+  "republisher_time": "149",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureislandbe0000robe:epub:24b38ffd-4aef-43c9-b3b7-397f2a641d6b",
+   "urn:acs6:treasureislandbe0000robe:pdf:e670ffc2-d74b-4819-bd4b-438546d7a230",
+   "urn:lcp:treasureislandbe0000robe:lcpdf:b8d4707c-80f0-4cad-ba75-5de8d436bbfd"
+  ],
+  "page_number_confidence": "88",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "addeddate": "2024-02-10 00:24:04",
+  "year": "1883"
+ },
+ "files": [
+  {
+   "name": "treasureislandbe0000robe.pdf",
+   "format": "Text PDF",
+   "size": "9632848"
+  },
+  {
+   "name": "treasureislandbe0000robe_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "346655"
+  },
+  {
+   "name": "treasureislandbe0000robe_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5136615"
+  },
+  {
+   "name": "treasureislandbe0000robe_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "85621504"
+  },
+  {
+   "name": "treasureislandbe0000robe_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "43637"
+  },
+  {
+   "name": "treasureislandbe0000robe_scandata.xml",
+   "format": "Scandata",
+   "size": "278454"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "metadata": {
+  "identifier": "iliadinenglhexa00homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, in English hexameter verse. By J.H. Dart. [Books I.-XXIV.]",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "translator": "Joseph Henry Dart",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadinenglhexa00homegoog",
+  "year": "1865",
+  "date": "1865",
+  "scandate": "20060811000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+   "xii, 551 pages ; (8º)"
+  ],
+  "identifier-ark": "ark:/13960/t17m07q36",
+  "imagecount": "571",
+  "publicdate": "2008-01-27 05:40:20",
+  "source": "http://books.google.com/books?id=5IcCAAAAQAAJ&oe=UTF-8",
+  "contributor": "Oxford University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903601_21",
+  "addeddate": "2008-01-27 05:40:20",
+  "oclc-id": "1064266230",
+  "publisher": "London : Longman, Green and Co",
+  "associated-names": "DART, Joseph Henry; Homer. Batrachomyomachia. Appendix",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "77",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadinenglhexa00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1336377"
+  },
+  {
+   "name": "iliadinenglhexa00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "17022708"
+  },
+  {
+   "name": "iliadinenglhexa00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "97845"
+  },
+  {
+   "name": "iliadinenglhexa00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "190488"
+  },
+  {
+   "name": "iliadinenglhexa00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "29591591"
+  }
+ ]
+}

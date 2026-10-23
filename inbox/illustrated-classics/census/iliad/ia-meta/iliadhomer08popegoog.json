@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "google-id": "xL5fAAAAMAAJ",
+  "identifier": "iliadhomer08popegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=xL5fAAAAMAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "London : Printed for J. Walker ... [et al]",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer08popegoog",
+  "contributor": "University of Michigan",
+  "oclc-id": "37688053",
+  "scandate": "20080415000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "599 pages, 1 unnumbered leaf of plates : 13 cm"
+  ],
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "identifier-ark": "ark:/13960/t53f5c851",
+  "imagecount": "536",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-12-18 22:31:59",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-18 22:31:59",
+  "usl_hit": "auto",
+  "date": "1808",
+  "subject": [
+   "Hofheimer, Henry and Hannah, donor",
+   "Shelley, Percy Bysshe, 1792-1822, autograph",
+   "Shelley, Percy Bysshe, 1792-1822"
+  ],
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "foldoutcount": "0",
+  "page_number_confidence": "89.35",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8090",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomer08popegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1397250"
+  },
+  {
+   "name": "iliadhomer08popegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15638380"
+  },
+  {
+   "name": "iliadhomer08popegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "528517695"
+  },
+  {
+   "name": "iliadhomer08popegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "105422"
+  },
+  {
+   "name": "iliadhomer08popegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "177441"
+  },
+  {
+   "name": "iliadhomer08popegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "29328267"
+  }
+ ]
+}

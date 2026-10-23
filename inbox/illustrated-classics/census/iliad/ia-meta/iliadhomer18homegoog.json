@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "publisher": "Boston, Allyn and Bacon",
+  "identifier": "iliadhomer18homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, books I-VI",
+  "notes": "Appended is \"Vocabulary\", by Samuel Thurber with special title-page and separate pagination.\n\n",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer18homegoog",
+  "year": "1883",
+  "date": "1891",
+  "oclc-id": "82473238",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Appended is \"Vocabulary\", by Samuel Thurber with special title page and separate pagination"
+  ],
+  "identifier-ark": "ark:/13960/t9959rv5x",
+  "imagecount": "553",
+  "publicdate": "2008-09-22 17:59:55",
+  "source": "http://books.google.com/books?id=dSUBAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "repub_state": "4",
+  "curation": "[curator]kaplan@archive.org[/curator][date]20110805181550[/date][comment]epub creation fail[/comment]",
+  "backup_location": "ia903602_14",
+  "addeddate": "2008-09-22 17:59:55",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "page_number_confidence": "86.62",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9204",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomer18homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1394159"
+  },
+  {
+   "name": "iliadhomer18homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15411383"
+  },
+  {
+   "name": "iliadhomer18homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "107671"
+  },
+  {
+   "name": "iliadhomer18homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "182551"
+  },
+  {
+   "name": "iliadhomer18homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "26280405"
+  }
+ ]
+}

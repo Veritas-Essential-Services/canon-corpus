@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "Pope's translation of Homer's Iliad, books I, VI, XXII, XXIV;",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Lawton, W. C."
+  ],
+  "publisher": "New York, Globe school book co.",
+  "date": "c1900",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item popestranslation00homerich on September 14, 2007: visible notice of copyright; stated date is 1900.",
+  "copyright-evidence-date": "20070914002706",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17139872",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17139872",
+  "updatedate": "2007-09-14 00:27:09",
+  "updater": "judyjordan",
+  "identifier": "popestranslation00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-09-14 00:27:11",
+  "publicdate": "2007-09-14 00:27:19",
+  "imagecount": "212",
+  "ppi": "600",
+  "lcamid": "319919",
+  "rcamid": "319556",
+  "camera": "1Ds",
+  "operator": "scanner-rachel-berhane@archive.org",
+  "scanner": "rich8",
+  "scandate": "20070918200459",
+  "identifier-access": "http://www.archive.org/details/popestranslation00homerich",
+  "identifier-ark": "ark:/13960/t3nv9d03z",
+  "bookplateleaf": "0004",
+  "curation": "[curator]ian@archive.org[/curator][date]20070925012303[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070930",
+  "filesxml": [
+   "Thu Mar 18 8:13:04 UTC 2010",
+   "Fri Dec 25 19:27:57 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_8",
+  "openlibrary_edition": "OL7247119M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1050817806",
+  "oclc-id": "8633661",
+  "description": "152 p. 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Lawton, W. C.",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popestranslation00homerich.pdf",
+   "format": "Text PDF",
+   "size": "14077904"
+  },
+  {
+   "name": "popestranslation00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "361957"
+  },
+  {
+   "name": "popestranslation00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4382181"
+  },
+  {
+   "name": "popestranslation00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "138973372"
+  },
+  {
+   "name": "popestranslation00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "35367"
+  }
+ ]
+}

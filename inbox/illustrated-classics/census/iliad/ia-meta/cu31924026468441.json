@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer : in English hexameter verse",
+  "identifier": "cu31924026468441",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-11-01 06:08:10",
+  "identifier-access": "http://www.archive.org/details/cu31924026468441",
+  "identifier-ark": "ark:/13960/t09w1166x",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "vii, 780 p. ; 23 cm"
+  ],
+  "camera": "EOS-1D",
+  "lcamid": "337562",
+  "rcamid": "337626",
+  "operator": "mandrews",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "publisher": "London : Longmans, Green",
+  "date": "1865",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "imagecount": "580",
+  "bookplateleaf": "0003",
+  "scandate": "20071012131417",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-10 21:56:38",
+  "filesxml": "Wed Mar 17 10:54:31 UTC 2010",
+  "backup_location": "ia903604_11",
+  "openlibrary_edition": "OL24180207M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto",
+  "page_number_confidence": "95.85",
+  "creator": "Homer",
+  "oclc-id": "4362484",
+  "associated-names": "Dart, J. Henry (Joseph Henry), 1817-1887",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9815",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "cu31924026468441.pdf",
+   "format": "Text PDF",
+   "size": "21609588"
+  },
+  {
+   "name": "cu31924026468441_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1181226"
+  },
+  {
+   "name": "cu31924026468441_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16387530"
+  },
+  {
+   "name": "cu31924026468441_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "275303104"
+  },
+  {
+   "name": "cu31924026468441_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "114128"
+  },
+  {
+   "name": "cu31924026468441_scandata.xml",
+   "format": "Scandata",
+   "size": "205616"
+  }
+ ]
+}

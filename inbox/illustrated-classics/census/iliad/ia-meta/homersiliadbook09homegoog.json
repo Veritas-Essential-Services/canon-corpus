@@ -1,0 +1,73 @@
+{
+ "metadata": {
+  "identifier": "homersiliadbook09homegoog",
+  "scanner": "google",
+  "title": "Homer's Iliad. Book XXII",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook09homegoog",
+  "year": "1879",
+  "date": "1879",
+  "scandate": "20060810000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+   "1 volume 8vo"
+  ],
+  "identifier-ark": "ark:/13960/t9d50q67g",
+  "imagecount": "71",
+  "publicdate": "2008-05-04 18:49:09",
+  "source": "http://books.google.com/books?id=5oACAAAAQAAJ&oe=UTF-8",
+  "contributor": "Oxford University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "repub_state": "4",
+  "backup_location": "ia903601_33",
+  "addeddate": "2008-05-04 18:49:09",
+  "oclc-id": [
+   "315430336",
+   "559662542"
+  ],
+  "publisher": "Dublin",
+  "language": "grc",
+  "associated-names": "Sandford, Philip, A.B",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.10",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook09homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "197543"
+  },
+  {
+   "name": "homersiliadbook09homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1652166"
+  },
+  {
+   "name": "homersiliadbook09homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "13282"
+  },
+  {
+   "name": "homersiliadbook09homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "23433"
+  },
+  {
+   "name": "homersiliadbook09homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "2732610"
+  }
+ ]
+}

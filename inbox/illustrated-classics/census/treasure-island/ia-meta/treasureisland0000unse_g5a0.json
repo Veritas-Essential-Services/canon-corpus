@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_g5a0",
+  "boxid": "IA40056506",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-2000242",
+  "operator": "associate-julieann-cabaltera@archive.org",
+  "ppi": "300",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station38.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.2-initial-96-gec740589",
+  "uploader": "station38.cebu@archive.org",
+  "publicdate": "2021-02-04 05:01:32",
+  "imagecount": "300",
+  "scandate": "20210204095405",
+  "republisher_operator": "associate-jesiemae-lauron@archive.org",
+  "republisher_date": "20210206185144",
+  "republisher_time": "476",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_g5a0",
+  "identifier-ark": "ark:/13960/t8wb5946t",
+  "page_number_confidence": "78",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20210228",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "London : Macmillan and Co.",
+  "date": "1928",
+  "subject": [
+   "Pirates -- Fiction",
+   "Treasure troves -- Fiction",
+   "Adventure stories",
+   "Pirates -- Romans, nouvelles, etc",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Adventure stories",
+   "Pirates",
+   "Treasure troves"
+  ],
+  "oclc-id": [
+   "38224221",
+   "504700643"
+  ],
+  "description": "ix, [239] pages, 18 unnumbered pages of plates : 18 cm",
+  "associated-names": "Brock, H. M. (Henry Matthew), 1875-1960",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8617",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:acs6:treasureisland0000unse_g5a0:pdf:b272737b-b2fa-4ec9-b29b-7f751d012bc5",
+   "urn:lcp:treasureisland0000unse_g5a0:lcpdf:573da8dc-ba09-4d1d-851f-7679e27af318",
+   "urn:lcp:treasureisland0000unse_g5a0:epub:370b7081-4b6a-4b12-a7e2-ddb752a8b9fe"
+  ],
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38608594M",
+  "addeddate": "2022-07-11 19:13:22",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_g5a0.pdf",
+   "format": "Text PDF",
+   "size": "10362727"
+  },
+  {
+   "name": "treasureisland0000unse_g5a0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "392124"
+  },
+  {
+   "name": "treasureisland0000unse_g5a0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5487341"
+  },
+  {
+   "name": "treasureisland0000unse_g5a0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "95839214"
+  },
+  {
+   "name": "treasureisland0000unse_g5a0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50345"
+  },
+  {
+   "name": "treasureisland0000unse_g5a0_scandata.xml",
+   "format": "Scandata",
+   "size": "328827"
+  }
+ ]
+}

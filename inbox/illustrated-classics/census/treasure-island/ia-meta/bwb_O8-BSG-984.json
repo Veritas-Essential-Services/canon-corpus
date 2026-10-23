@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "identifier": "bwb_O8-BSG-984",
+  "boxid": "IA40830507",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1915",
+  "language": "eng",
+  "mediatype": "texts",
+  "notes": "This book contains tight binding",
+  "old_pallet": "IA-WL-1200128",
+  "operator": "associate-elena-flores@archive.org",
+  "page-progression": "lr",
+  "publisher": "Harper & Brothers",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station07.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "O8-BSG-984",
+  "title": "Treasure Island",
+  "tts_version": "5.4-initial-3-gae281fbc",
+  "uploader": "station07.cebu@archive.org",
+  "publicdate": "2023-01-25 11:48:25",
+  "identifier-access": "http://archive.org/details/bwb_O8-BSG-984",
+  "identifier-ark": "ark:/13960/s2b3mvg06dd",
+  "scandate": "20230125131335",
+  "imagecount": "328",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-louvette-cabusas@archive.org",
+  "republisher_date": "20230207192825",
+  "republisher_time": "318",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-1-gd3a4",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.18",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7726",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_O8-BSG-984:epub:f72cf734-5502-4f77-8cd3-c15b192b952d",
+   "urn:acs6:bwb_O8-BSG-984:pdf:2de633e9-7c19-4895-b5cd-f21b8448a8c5",
+   "urn:lcp:bwb_O8-BSG-984:lcpdf:cefb430f-3136-46e5-9a7a-80a98a70b27a"
+  ],
+  "page_number_confidence": "15",
+  "pdf_module_version": "0.0.20",
+  "addeddate": "2023-02-08 00:00:34",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "sponsordate": "20230228",
+  "page_number_module_version": "1.0.5",
+  "openlibrary_work": "OL43045916W",
+  "openlibrary_edition": "OL58645434M"
+ },
+ "files": [
+  {
+   "name": "bwb_O8-BSG-984.pdf",
+   "format": "Text PDF",
+   "size": "18627692"
+  },
+  {
+   "name": "bwb_O8-BSG-984_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "330943"
+  },
+  {
+   "name": "bwb_O8-BSG-984_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4917491"
+  },
+  {
+   "name": "bwb_O8-BSG-984_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "176672457"
+  },
+  {
+   "name": "bwb_O8-BSG-984_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55683"
+  },
+  {
+   "name": "bwb_O8-BSG-984_scandata.xml",
+   "format": "Scandata",
+   "size": "349093"
+  }
+ ]
+}

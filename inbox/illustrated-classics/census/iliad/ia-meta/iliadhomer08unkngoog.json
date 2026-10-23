@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "google-id": "A8dLAAAAMAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=A8dLAAAAMAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer08unkngoog",
+  "oclc-id": "3094862",
+  "identifier": "iliadhomer08unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "xiii, 516 pages ; 20 cm",
+   "committed to retain 20170930"
+  ],
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "identifier-ark": "ark:/13960/t0qr55d3p",
+  "imagecount": "552",
+  "ppi": "600",
+  "publicdate": "2009-03-09 09:52:34",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 09:52:34",
+  "usl_hit": "auto",
+  "publisher": "Cambridge [England] : University Press",
+  "date": "1894",
+  "subject": [
+   "Epic poetry, Greek",
+   "Trojan War",
+   "Epic poetry, Greek",
+   "Epic poetry, Greek -- Translations into English"
+  ],
+  "lccn": "a  12001540",
+  "associated-names": "Platt, Arthur, 1860-1925, editor",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.4718",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.65"
+ },
+ "files": [
+  {
+   "name": "iliadhomer08unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1538745"
+  },
+  {
+   "name": "iliadhomer08unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11991288"
+  },
+  {
+   "name": "iliadhomer08unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "125797"
+  },
+  {
+   "name": "iliadhomer08unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "194375"
+  }
+ ]
+}

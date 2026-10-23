@@ -1,0 +1,64 @@
+{
+ "metadata": {
+  "publisher": "New York, D. Appleton and Co.",
+  "scanner": "google",
+  "title": "The Iliad of Homer, according to the text of wolf; with notes for the use of schools and colleges",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomeraccor00homegoog",
+  "year": "1873",
+  "date": "1872",
+  "identifier": "iliadhomeraccor00homegoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t70v8mc17",
+  "imagecount": "789",
+  "publicdate": "2008-07-01 23:20:52",
+  "source": "http://books.google.com/books?id=bIkXAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "oclc-id": "236221327",
+  "repub_state": "4",
+  "backup_location": "ia903602_4",
+  "addeddate": "2008-07-01 23:20:52",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6217",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94.17"
+ },
+ "files": [
+  {
+   "name": "iliadhomeraccor00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1683252"
+  },
+  {
+   "name": "iliadhomeraccor00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "21994350"
+  },
+  {
+   "name": "iliadhomeraccor00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "151210"
+  },
+  {
+   "name": "iliadhomeraccor00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "262406"
+  }
+ ]
+}

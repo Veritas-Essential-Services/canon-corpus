@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878, tr. trl",
+   "Simons, Sarah Emma, 1867- . edt"
+  ],
+  "subject": [
+   "Homer",
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "description": [
+   "Bibliography: p. [374]",
+   "1"
+  ],
+  "publisher": "Boston ; New York : Houghton Mifflin Company",
+  "date": "1916",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "contributor": "Harold B. Lee Library",
+  "scanningcenter": "provo",
+  "mediatype": "texts",
+  "collection": [
+   "brigham_young_university",
+   "americana"
+  ],
+  "call_number": "DFS9020",
+  "repub_state": "4",
+  "updatedate": "2011-05-09 23:26:49",
+  "updater": "WhitneyYoung",
+  "identifier": "iliadofhomer1916home",
+  "uploader": "whitneyyoung@archive.org",
+  "addeddate": "2011-05-09 23:26:52",
+  "publicdate": "2011-05-09 23:26:54",
+  "scanner": "scribe3.provo.archive.org",
+  "repub_seconds": "1160",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-13@archive.org",
+  "scandate": "20110516174651",
+  "imagecount": "538",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer1916home",
+  "identifier-ark": "ark:/13960/t7sn12g59",
+  "bookplateleaf": "0004",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "10",
+  "curation": "[curator]callie@archive.org[/curator][date]20110602183907[/date][state]approved[/state]",
+  "sponsordate": "20110531",
+  "backup_location": "ia903700_1",
+  "openlibrary_edition": "OL6583934M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046542110",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:56 UTC 2020",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "lccn": "16002249",
+  "associated-names": "Bryant, William Cullen, 1794-1878, tr; Simons, Sarah Emma, 1867-",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer1916home.pdf",
+   "format": "Text PDF",
+   "size": "33029303"
+  },
+  {
+   "name": "iliadofhomer1916home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "810802"
+  },
+  {
+   "name": "iliadofhomer1916home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10062148"
+  },
+  {
+   "name": "iliadofhomer1916home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "238001697"
+  },
+  {
+   "name": "iliadofhomer1916home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "91593"
+  },
+  {
+   "name": "iliadofhomer1916home_scandata.xml",
+   "format": "Scandata",
+   "size": "281476"
+  }
+ ]
+}

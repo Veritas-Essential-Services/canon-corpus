@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "Homer: Iliad. With an introd., a brief Homeric grammar and notes by D.B. Monro",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Monro, D. B. (David Binning), 1836-1905"
+  ],
+  "description": "26",
+  "publisher": "Oxford Clarendon Press",
+  "date": "1884",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "PIMS - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "pimslibrary",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3540",
+  "repub_state": "4",
+  "updatedate": "2011-09-13 14:15:44",
+  "updater": "KatieLawson",
+  "identifier": "homeriliadwithin02home",
+  "uploader": "katie@archive.org",
+  "addeddate": "2011-09-13 14:15:46",
+  "publicdate": "2011-09-13 14:15:48",
+  "scanner": "scribe17.toronto.archive.org",
+  "repub_seconds": "471",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-alicia-pryce@archive.org",
+  "scandate": "20110915011813",
+  "imagecount": "458",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homeriliadwithin02home",
+  "identifier-ark": "ark:/13960/t19k59m1w",
+  "bookplateleaf": "0004",
+  "scanfee": "105",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110930194043[/date][state]approved[/state]",
+  "sponsordate": "20110930",
+  "backup_location": "ia903703_4",
+  "openlibrary_edition": "OL24989699M",
+  "openlibrary_work": "OL16249582W",
+  "external-identifier": "urn:oclc:record:848157791",
+  "filesxml": "Thu Dec 24 16:17:37 UTC 2020",
+  "oclc-id": "221380479",
+  "associated-names": "Monro, D. B. (David Binning), 1836-1905",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.5109",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homeriliadwithin02home.pdf",
+   "format": "Text PDF",
+   "size": "27357392"
+  },
+  {
+   "name": "homeriliadwithin02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1334452"
+  },
+  {
+   "name": "homeriliadwithin02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13886923"
+  },
+  {
+   "name": "homeriliadwithin02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "184398507"
+  },
+  {
+   "name": "homeriliadwithin02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "76929"
+  },
+  {
+   "name": "homeriliadwithin02home_scandata.xml",
+   "format": "Scandata",
+   "size": "458212"
+  }
+ ]
+}

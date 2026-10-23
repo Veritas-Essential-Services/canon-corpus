@@ -1,0 +1,71 @@
+{
+ "metadata": {
+  "identifier": "homersiliadbook00homegoog",
+  "scanner": "google",
+  "title": "Iliad. Books I. II. III",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1856",
+  "date": "1856",
+  "scandate": "20060810000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+   "1 volume 8vo"
+  ],
+  "source": "http://books.google.com/books?id=YX4CAAAAQAAJ&oe=UTF-8",
+  "contributor": "Oxford University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook00homegoog",
+  "identifier-ark": "ark:/13960/t6xw4rx6d",
+  "imagecount": "181",
+  "ppi": "600",
+  "publicdate": "2009-03-09 01:33:45",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 01:33:45",
+  "oclc-id": "315430256",
+  "publisher": "Dublin",
+  "language": "grc",
+  "associated-names": "Wheeler, George B., A.M",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8119",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "71.64",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "792366"
+  },
+  {
+   "name": "homersiliadbook00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6178762"
+  },
+  {
+   "name": "homersiliadbook00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "34648"
+  },
+  {
+   "name": "homersiliadbook00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "61794"
+  },
+  {
+   "name": "homersiliadbook00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "11592781"
+  }
+ ]
+}

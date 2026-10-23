@@ -1,0 +1,55 @@
+{
+ "metadata": {
+  "publisher": "Munroe",
+  "identifier": "homrouiliasilia01homegoog",
+  "scanner": "google",
+  "title": "Homērou Ilias: The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1844",
+  "date": "1844",
+  "scandate": "20080324",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=v2IXAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "24396776",
+  "sponsor": "Google",
+  "language": "gre",
+  "identifier-access": "http://www.archive.org/details/homrouiliasilia01homegoog",
+  "identifier-ark": "ark:/13960/t0rr2b29b",
+  "imagecount": "447",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 05:14:12",
+  "backup_location": "ia903603_19",
+  "addeddate": "2009-07-27 05:14:12",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "homrouiliasilia01homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1414852"
+  },
+  {
+   "name": "homrouiliasilia01homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8261911"
+  },
+  {
+   "name": "homrouiliasilia01homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "77578741"
+  },
+  {
+   "name": "homrouiliasilia01homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "134229"
+  }
+ ]
+}

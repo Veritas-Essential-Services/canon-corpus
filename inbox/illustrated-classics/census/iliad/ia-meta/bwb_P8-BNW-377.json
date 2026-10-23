@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "identifier": "bwb_P8-BNW-377",
+  "boxid": "IA41064516",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1300254",
+  "operator": "associate-rhialyn-opena@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station13.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "P8-BNW-377",
+  "tts_version": "5.8-initial-109-gf9f3447a",
+  "uploader": "station13.cebu@archive.org",
+  "title": "The Iliad of Homer Translated Into English Blank Verse By Arthur Gardner Lewis",
+  "publicdate": "2023-08-07 13:41:20",
+  "identifier-access": "http://archive.org/details/bwb_P8-BNW-377",
+  "identifier-ark": "ark:/13960/s2xcxwgtvnj",
+  "scandate": "20230807200506",
+  "imagecount": "826",
+  "autocrop_version": "0.0.15_books-20220331-0.2",
+  "notes": "Cut-off text on front cover page.",
+  "sent_to_scribe": "station13.cebu.archive.org",
+  "ppi": "360",
+  "republisher_operator": "associate-mariejoy-gelves@archive.org;associate-kentvincent-yanong@archive.org",
+  "republisher_date": "20230811223345",
+  "republisher_time": "956",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9523",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_P8-BNW-377:epub:ba8cef58-ffc5-4872-ac4c-3f3b22e5fd13",
+   "urn:acs6:bwb_P8-BNW-377:pdf:19cb5910-9c94-4e0e-a878-37c64e477d69",
+   "urn:lcp:bwb_P8-BNW-377:lcpdf:51e711e3-03f3-48d8-95fd-5b4f65973cdb"
+  ],
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "force-update": "true",
+  "creator": "Όμηρος (Homer)",
+  "publisher": "Baker and Taylor / Doubleday",
+  "date": "1911",
+  "addeddate": "2024-02-14 00:22:18",
+  "openlibrary_edition": "OL58656788M",
+  "openlibrary_work": "OL43060244W"
+ },
+ "files": [
+  {
+   "name": "bwb_P8-BNW-377.pdf",
+   "format": "Text PDF",
+   "size": "24452753"
+  },
+  {
+   "name": "bwb_P8-BNW-377_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1036186"
+  },
+  {
+   "name": "bwb_P8-BNW-377_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13922579"
+  },
+  {
+   "name": "bwb_P8-BNW-377_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "216911850"
+  },
+  {
+   "name": "bwb_P8-BNW-377_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "139359"
+  },
+  {
+   "name": "bwb_P8-BNW-377_scandata.xml",
+   "format": "Scandata",
+   "size": "878532"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "metadata": {
+  "identifier": "iliad0001home_l4b0",
+  "associated-names": "Murray, A. T. (Augustus Taber), 1866-1940, translator; Homer. Iliad",
+  "boxid": "IA40079401",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": [
+   "claremont_school_of_theology",
+   "internetarchivebooks"
+  ],
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Homer, author",
+  "date": "1924",
+  "description": [
+   "2 volumes 17 cm",
+   "Greek and English on opposite pages",
+   "Includes bibliographical references (v. 1, pages xvi-xviii)",
+   "Vol. 1. Books 1-12 -- v. 2. Books 13-24"
+  ],
+  "isbn": [
+   "0674991885",
+   "9780674991880",
+   "0674991893",
+   "9780674991897",
+   "0434991716",
+   "9780434991716",
+   "0434991708",
+   "9780434991709"
+  ],
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "notes": "cute text some pages due to tight margin",
+  "old_pallet": "IA18560",
+  "openlibrary_edition": "OL7693969M",
+  "openlibrary_work": "OL61982W",
+  "operator": "associate-fritzijuls-quiroben@archive.org",
+  "publisher": "Cambridge, Mass., Harvard University Press; London, W. Heinemann",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station14.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "claremont",
+  "scribe3_search_id": "10017007455",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Achilles (Mythological character)",
+   "Epic poetry, Greek",
+   "Epic poetry, Greek -- Translations into English",
+   "Klassieke oudheid",
+   "Epen",
+   "Grieks"
+  ],
+  "title": "The Iliad",
+  "tts_version": "4.4-initial-98-g6696694c",
+  "volume": "1",
+  "uploader": "station14.cebu@archive.org",
+  "publicdate": "2021-03-14 23:18:40",
+  "imagecount": "622",
+  "scandate": "20210315004957",
+  "ppi": "360",
+  "republisher_operator": "associate-philfrancis-otadoy@archive.org;associate-alexander-delpuerto@archive.org",
+  "republisher_date": "20210322224513",
+  "republisher_time": "843",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliad0001home_l4b0",
+  "identifier-ark": "ark:/13960/t3hz1r77x",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.12",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.8893",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "pdf_module_version": "0.0.10",
+  "external-identifier": "urn:acs6:iliad0001home_l4b0:pdf:312d9749-fdf2-453c-ab43-1f5d7e1793b2",
+  "addeddate": "2021-03-22 22:19:16",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20210331",
+  "col_number": "COL-658",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliad0001home_l4b0.pdf",
+   "format": "Text PDF",
+   "size": "22350027"
+  },
+  {
+   "name": "iliad0001home_l4b0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1278782"
+  },
+  {
+   "name": "iliad0001home_l4b0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13759097"
+  },
+  {
+   "name": "iliad0001home_l4b0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "180221631"
+  },
+  {
+   "name": "iliad0001home_l4b0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "104287"
+  },
+  {
+   "name": "iliad0001home_l4b0_scandata.xml",
+   "format": "Scandata",
+   "size": "675212"
+  }
+ ]
+}

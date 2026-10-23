@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer",
+  "identifier": "cu31924026667174",
+  "uploader": "hank@archive.org",
+  "addeddate": "2012-08-21 21:41:56",
+  "publicdate": "2012-08-21 21:43:49",
+  "identifier-access": "http://archive.org/details/cu31924026667174",
+  "identifier-ark": "ark:/13960/t10p28d7s",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "v. 1. Books 1-12 -- v. 2. Books 13-24"
+  ],
+  "lccn": "04014077",
+  "camera": "EOS-IDS Mark II",
+  "lcamid": "333778",
+  "rcamid": "325888",
+  "operator": "mwoloszyn",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878, tr"
+  ],
+  "publisher": "Boston : Houghton, Osgood",
+  "date": "1879",
+  "subject": "Trojan War",
+  "language": "eng",
+  "imagecount": "712",
+  "bookplateleaf": "0003",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20071024002440",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903906_14",
+  "openlibrary_edition": "OL25521570M",
+  "openlibrary_work": "OL16901502W",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "cu31924026667174.pdf",
+   "format": "Text PDF",
+   "size": "16838962"
+  },
+  {
+   "name": "cu31924026667174_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1066958"
+  },
+  {
+   "name": "cu31924026667174_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12912853"
+  },
+  {
+   "name": "cu31924026667174_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "190170236"
+  },
+  {
+   "name": "cu31924026667174_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "121394"
+  },
+  {
+   "name": "cu31924026667174_scandata.xml",
+   "format": "Scandata",
+   "size": "251226"
+  }
+ ]
+}

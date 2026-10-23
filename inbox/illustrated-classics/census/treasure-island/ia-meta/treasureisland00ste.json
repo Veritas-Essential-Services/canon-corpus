@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "subject": [
+   "Pirates",
+   "Treasure troves"
+  ],
+  "description": "Added illustrated title page",
+  "publisher": "Philadelphia : Henry Altemus",
+  "date": "[188-?]",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of North Carolina at Chapel Hill",
+  "contributor": "Information and Library Science Library, University of North Carolina at Chapel Hill",
+  "scanningcenter": "chapelhill",
+  "mediatype": "texts",
+  "collection": [
+   "juvenilehistoricalcollection",
+   "unclibraries",
+   "americana"
+  ],
+  "shiptracking": "a0069",
+  "call_number": "b7092253",
+  "local_callnumber": "JH Stevenson",
+  "repub_state": "4",
+  "updatedate": "2012-05-15 21:11:02",
+  "updater": "associate-elizabeth-macleod@archive.org",
+  "identifier": "treasureisland00ste",
+  "uploader": "associate-elizabeth-macleod@archive.org",
+  "addeddate": "2012-05-15 21:11:04",
+  "publicdate": "2012-05-15 21:11:11",
+  "repub_seconds": "2577",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "associate-osamu-sueyoshi@archive.org",
+  "scanner": "scribe1.chapelhill.archive.org",
+  "scandate": "20120517192105",
+  "republisher": "associate-atlas-mclamb@archive.org",
+  "imagecount": "308",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland00ste",
+  "identifier-ark": "ark:/13960/t72v3p78c",
+  "bookplateleaf": "0005",
+  "scanfee": "100",
+  "sponsordate": "20120531",
+  "backup_location": "ia903803_17",
+  "openlibrary_edition": "OL25312488M",
+  "openlibrary_work": "OL24034W",
+  "unc_bib_record_id": "b7092253",
+  "external-identifier": "urn:oclc:record:1157969770",
+  "usl_hit": "auto",
+  "oclc-id": "789673176",
+  "republisher_operator": "associate-atlas-mclamb@archive.org",
+  "republisher_date": "20120518131333",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00ste.pdf",
+   "format": "Text PDF",
+   "size": "13308015"
+  },
+  {
+   "name": "treasureisland00ste_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "476465"
+  },
+  {
+   "name": "treasureisland00ste_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5918299"
+  },
+  {
+   "name": "treasureisland00ste_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "159689819"
+  },
+  {
+   "name": "treasureisland00ste_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "52226"
+  },
+  {
+   "name": "treasureisland00ste_scandata.xml",
+   "format": "Scandata",
+   "size": "401865"
+  }
+ ]
+}

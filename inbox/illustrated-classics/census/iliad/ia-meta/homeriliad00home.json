@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "description": [
+   "Translation of: Iliad",
+   "Spine title: Homer's Iliad"
+  ],
+  "publisher": "London : W. Suttaby : C. Corral, Printer",
+  "date": "1806",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Internet Archive",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-1760933",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760933",
+  "updatedate": "2008-10-08 14:37:18",
+  "updater": "Alyson-Wieczorek",
+  "identifier": "homeriliad00home",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2008-10-08 14:37:20",
+  "publicdate": "2008-10-08 14:37:25",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-ben-williams@archive.org",
+  "scanner": "scribe8.la.archive.org",
+  "scandate": "20081009152604",
+  "imagecount": "558",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homeriliad00home",
+  "identifier-ark": "ark:/13960/t2f76m10z",
+  "scanfactors": "3",
+  "repub_state": "4",
+  "notes": "Narrow margins throughout book",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20081023230156[/date][state]approved[/state]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_15",
+  "openlibrary_edition": "OL19367527M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046529475",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 16:17:32 UTC 2020",
+   "Thu Dec 31 23:15:19 UTC 2020"
+  ],
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "87",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "homeriliad00home.pdf",
+   "format": "Text PDF",
+   "size": "22308870"
+  },
+  {
+   "name": "homeriliad00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1149858"
+  },
+  {
+   "name": "homeriliad00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13566177"
+  },
+  {
+   "name": "homeriliad00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "128884626"
+  },
+  {
+   "name": "homeriliad00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "94945"
+  },
+  {
+   "name": "homeriliad00home_scandata.xml",
+   "format": "Scandata",
+   "size": "293051"
+  }
+ ]
+}

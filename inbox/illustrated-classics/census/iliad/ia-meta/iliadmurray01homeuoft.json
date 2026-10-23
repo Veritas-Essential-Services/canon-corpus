@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad",
+  "volume": "1",
+  "creator": [
+   "Homer",
+   "Murray, A. T. (Augustus Taber), 1866-1940"
+  ],
+  "description": [
+   "2:PA 4025 A2M85ROBA,3v.2,4v.1-2(1924-25)5# V.2",
+   "26 52"
+  ],
+  "publisher": "London Heinemann",
+  "date": "1925",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "possible-copyright-status": "Permission Granted to Digitize Item",
+  "sponsor": "Andrew W. Mellon Foundation",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3604",
+  "updatedate": "2008-09-18 14:50:19",
+  "updater": "andrea@archive.org",
+  "identifier": "iliadmurray01homeuoft",
+  "uploader": "andrea@archive.org",
+  "addeddate": "2008-09-18 14:50:21",
+  "publicdate": "2008-09-18 14:50:27",
+  "ppi": "400",
+  "lcamid": "325993",
+  "rcamid": "319802",
+  "camera": "1Ds",
+  "operator": "scanner-greg-deschamps@archive.org",
+  "scanner": "iasw5",
+  "scandate": "20080924172929",
+  "imagecount": "624",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadmurray01homeuoft",
+  "identifier-ark": "ark:/13960/t2r49vg31",
+  "scanfactors": "38",
+  "repub_state": "4",
+  "curation": "[curator]julie@archive.org[/curator][date]20081004190859[/date][state]approved[/state]",
+  "backup_location": "ia903602_13",
+  "openlibrary_edition": "OL17965931M",
+  "openlibrary_work": "OL61982W",
+  "external-identifier": "urn:oclc:record:697795419",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:47 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "page_number_confidence": "100",
+  "associated-names": "Murray, A. T. (Augustus Taber), 1866-1940",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9903",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadmurray01homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "25361501"
+  },
+  {
+   "name": "iliadmurray01homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1273890"
+  },
+  {
+   "name": "iliadmurray01homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13774083"
+  },
+  {
+   "name": "iliadmurray01homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "193907478"
+  },
+  {
+   "name": "iliadmurray01homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "104343"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "metadata": {
+  "identifier": "iliad0002home_z5h9",
+  "associated-names": "Homer. Iliad. English; Homer. Iliad. Greek; Murray, A. T. (Augustus Taber), 1866-1940; Wyatt, William F., 1932-",
+  "boxid": "IA41771102",
+  "camera": "USB PTP Class Camera",
+  "col_number": "COL-4025",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1925",
+  "description": [
+   "2 volumes ; 17 cm",
+   "Includes bibliographical references and index"
+  ],
+  "isbn": [
+   "0674995791",
+   "0674995805"
+  ],
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "lccn": "98040340",
+  "mediatype": "texts",
+  "oclc-id": "39739707",
+  "old_pallet": "IA416537",
+  "openlibrary_edition": "OL378287M",
+  "openlibrary_work": "OL61982W",
+  "operator": "associate-alvin-alicabo@archive.org",
+  "page-progression": "lr",
+  "publisher": "Cambridge, Mass. : Harvard University Press",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station36.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "isbn",
+  "scribe3_search_id": "0674995805",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry"
+  ],
+  "title": "Iliad",
+  "tts_version": "7.1-initial-80-gde0bfa46",
+  "volume": "2",
+  "uploader": "station36.cebu@archive.org",
+  "publicdate": "2025-11-24 15:32:59",
+  "identifier-access": "http://archive.org/details/iliad0002home_z5h9",
+  "identifier-ark": "ark:/13960/s26p83zgt2z",
+  "scandate": "20251125034947",
+  "imagecount": "682",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "foldoutcount": "0",
+  "republisher_operator": "associate-ruel-eldian@archive.org",
+  "republisher_date": "20251127180500",
+  "republisher_time": "426",
+  "image_count": "680",
+  "bookplateleaf": "0003",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.9106",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:iliad0002home_z5h9:epub:57f646a7-3a8d-4569-9424-261de4f8f398",
+   "urn:lcp:iliad0002home_z5h9:lcpdf:1aa329bc-7a28-458d-b4c5-95cf37b44086"
+  ],
+  "addeddate": "2025-11-28 00:03:46"
+ },
+ "files": [
+  {
+   "name": "iliad0002home_z5h9.pdf",
+   "format": "Text PDF",
+   "size": "22141541"
+  },
+  {
+   "name": "iliad0002home_z5h9_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1418393"
+  },
+  {
+   "name": "iliad0002home_z5h9_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16087972"
+  },
+  {
+   "name": "iliad0002home_z5h9_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "182380823"
+  },
+  {
+   "name": "iliad0002home_z5h9_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "114468"
+  },
+  {
+   "name": "iliad0002home_z5h9_scandata.xml",
+   "format": "Scandata",
+   "size": "828351"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1910",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Trojan War -- Legends -- Poetry"
+  ],
+  "title": "The Iliad of Homer",
+  "creator": [
+   "v.2",
+   "Homer"
+  ],
+  "lccn": "10029899",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "36",
+  "identifier_bib": "9.91377244813010E+016",
+  "call_number": "PA4025.A2 C8",
+  "publisher": "Boston, Little, Brown",
+  "associated-names": "Cummings, Prentiss, 1840- translator",
+  "description": "2 volumes 20 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:16:43",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "iliadofhomer00v2",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:16:45",
+  "scanner": "scribe1.boston.archive.org",
+  "operator": "associate-felix-colonjr@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "294",
+  "scandate": "20200218181006",
+  "ppi": "300",
+  "republisher_operator": "admin-tim-bigelow@archive.org",
+  "republisher_date": "20200219142919",
+  "republisher_time": "142",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer00v2",
+  "identifier-ark": "ark:/13960/t3jx6wp1c",
+  "addeddate": "2020-02-19 21:34:08",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL6524997M",
+  "openlibrary_work": "OL3992305W",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1157164067",
+  "usl_hit": "auto",
+  "backup_location": "ia907104_17",
+  "oclc-id": "1332721",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00v2.pdf",
+   "format": "Text PDF",
+   "size": "11937028"
+  },
+  {
+   "name": "iliadofhomer00v2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "297975"
+  },
+  {
+   "name": "iliadofhomer00v2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3823010"
+  },
+  {
+   "name": "iliadofhomer00v2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "145378740"
+  },
+  {
+   "name": "iliadofhomer00v2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "49194"
+  },
+  {
+   "name": "iliadofhomer00v2_scandata.xml",
+   "format": "Scandata",
+   "size": "301638"
+  }
+ ]
+}

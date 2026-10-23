@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878",
+   "Flaxman, John, 1755-1826, ill"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "description": [
+   "Epic poem in twenty-four books telling the story of the wrath of Achilles and its disastrous consequences in the Trojan War, which has been waged against Troy in order to recover Helen, wife of Menelaus, who has been abducted by Paris, son of Priam, king of Troy",
+   "Epic poem in twenty-four books telling the story of the wrath of Achilles and its disastrous consequences in the Trojan War, which has been waged against Troy in order to recover Helen, wife of Menelaus, who has been abducted by Paris, son of Priam, king of Troy"
+  ],
+  "publisher": "Boston : Houghton Mifflin",
+  "date": "c1898",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-nicole-deyo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-nicole-deyo for item iliadofhomer00home on July 16, 2007: visible notice of copyright; stated date is 1898.",
+  "copyright-evidence-date": "20070716142237",
+  "sponsor": "MSN",
+  "contributor": "New York Public Library",
+  "scanningcenter": "nyc",
+  "mediatype": "texts",
+  "collection": [
+   "newyorkpubliclibrary",
+   "americana"
+  ],
+  "call_number": "445502",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer00home",
+  "updatedate": "2007-07-16 10:22:51",
+  "updater": "scanner-nicole-deyo",
+  "identifier": "iliadofhomer00home",
+  "uploader": "scanner-nicole-deyo@archive.org",
+  "addeddate": "2007-07-16 14:21:30",
+  "publicdate": "2007-07-16 14:21:36",
+  "imagecount": "780",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-garcia-erik@archive.org",
+  "scanner": "nycs8",
+  "scandate": "20070720094138",
+  "identifier-ark": "ark:/13960/t6pz54382",
+  "bookplateleaf": "4",
+  "curation": "[curator]stacy@archive.org[/curator][date]20070723184138[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070731",
+  "filesxml": [
+   "Tue Aug 18 18:00:51 UTC 2009",
+   "Thu Dec 24 17:34:53 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_4",
+  "openlibrary_edition": "OL7200491M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046536877",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "82",
+  "lccn": "04014077",
+  "associated-names": "Bryant, William Cullen, 1794-1878; Flaxman, John, 1755-1826, ill",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00home.pdf",
+   "format": "Text PDF",
+   "size": "33755537"
+  },
+  {
+   "name": "iliadofhomer00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1096573"
+  },
+  {
+   "name": "iliadofhomer00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13552816"
+  },
+  {
+   "name": "iliadofhomer00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "239100814"
+  },
+  {
+   "name": "iliadofhomer00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "133037"
+  },
+  {
+   "name": "iliadofhomer00home_scandata.xml",
+   "format": "Scandata",
+   "size": "394071"
+  }
+ ]
+}

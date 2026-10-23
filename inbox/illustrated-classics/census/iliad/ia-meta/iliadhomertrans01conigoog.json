@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "W. Blackwood and Sons",
+  "identifier": "iliadhomertrans01conigoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer: Translated Into English Verse in the Spenserian Stanza",
+  "creator": "Homer,  Philip Stanhope Worsley,  John Conington",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomertrans01conigoog",
+  "year": "1868",
+  "date": "1868",
+  "scandate": "20070924",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t1jh3hr5t",
+  "imagecount": "367",
+  "publicdate": "2008-01-27 12:34:39",
+  "source": "http://books.google.com/books?id=o_QNAAAAYAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "oclc-id": "16202350",
+  "repub_state": "4",
+  "backup_location": "ia903601_21",
+  "addeddate": "2008-01-27 12:34:39",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomertrans01conigoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "444379"
+  },
+  {
+   "name": "iliadhomertrans01conigoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4147648"
+  },
+  {
+   "name": "iliadhomertrans01conigoog_scandata.xml",
+   "format": "Scandata",
+   "size": "110207"
+  }
+ ]
+}

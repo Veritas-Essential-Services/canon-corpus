@@ -1,0 +1,105 @@
+{
+ "metadata": {
+  "title": "The twenty-second book of the Iliad",
+  "creator": [
+   "Homer",
+   "Palles, Alexandros, 1851-1935"
+  ],
+  "publisher": "London, D. Nutt",
+  "date": "1909",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item twentysecondbook00homerich on December 6, 2007: no visible notice of copyright; stated date is 1909.",
+  "copyright-evidence-date": "20071206202205",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17142231",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17142231",
+  "updatedate": "2007-12-06 20:22:07",
+  "updater": "judyjordan",
+  "identifier": "twentysecondbook00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-12-06 20:22:09",
+  "publicdate": "2007-12-06 20:22:12",
+  "imagecount": "96",
+  "ppi": "500",
+  "lcamid": "324758",
+  "rcamid": "332287",
+  "camera": "1Ds",
+  "operator": "scanner-david-mccarthy@archive.org",
+  "scanner": "rich2",
+  "scandate": "20071207174131",
+  "identifier-access": "http://www.archive.org/details/twentysecondbook00homerich",
+  "identifier-ark": "ark:/13960/t2697351x",
+  "bookplateleaf": "0003",
+  "sponsordate": "20071231",
+  "curation": "[curator]marcus@archive.org[/curator][date]20080105212245[/date][state]approved[/state]",
+  "filesxml": [
+   "Thu Mar 18 12:38:19 UTC 2010",
+   "Sat Dec 26 14:38:36 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_16",
+  "openlibrary_edition": "OL14046446M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1158046816",
+  "usl_hit": "auto",
+  "oclc-id": "9865929",
+  "description": [
+   "84 p. 21 cm",
+   "Slip mounted on t.-p. bears imprint: London, Edinburgh [etc.] H. Milford, Oxford University Press",
+   "\"Spurious verses\": p. [35]-42"
+  ],
+  "associated-names": "Palles, Alexandros, 1851-1935",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8313",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "twentysecondbook00homerich.pdf",
+   "format": "Text PDF",
+   "size": "8168518"
+  },
+  {
+   "name": "twentysecondbook00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "188391"
+  },
+  {
+   "name": "twentysecondbook00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1975181"
+  },
+  {
+   "name": "twentysecondbook00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "38415064"
+  },
+  {
+   "name": "twentysecondbook00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "15510"
+  }
+ ]
+}

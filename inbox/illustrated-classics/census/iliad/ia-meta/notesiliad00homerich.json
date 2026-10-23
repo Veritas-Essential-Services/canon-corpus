@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "Iliad of Homer with notes.",
+  "creator": [
+   "Homer",
+   "Barter, W. G. T. (William George Thomas)"
+  ],
+  "publisher": "London, Longman",
+  "date": "1854",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "Internet Archive biblio tool",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item notesiliad00homerich on March 17, 2008: no visible notice of copyright; stated date is 1854.",
+  "copyright-evidence-date": "20080317221014",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-151514617",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-151514617",
+  "updatedate": "2008-03-17 22:10:16",
+  "updater": "judyjordan",
+  "identifier": "notesiliad00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2008-03-17 22:10:18",
+  "publicdate": "2008-03-17 22:11:30",
+  "imagecount": "734",
+  "ppi": "500",
+  "lcamid": "318502",
+  "rcamid": "332426",
+  "camera": "1Ds",
+  "operator": "scanner-rebecca-allard@archive.org",
+  "scanner": "rich3",
+  "scandate": "20080318211741",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/notesiliad00homerich",
+  "identifier-ark": "ark:/13960/t1qf8qt2h",
+  "bookplateleaf": "0004",
+  "curation": "[curator]julie@archive.org[/curator][date]20080518062903[/date][state]approved[/state]",
+  "sponsordate": "20080331",
+  "filesxml": [
+   "Thu Mar 18 6:42:41 UTC 2010",
+   "Fri Dec 25 13:05:49 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_27",
+  "openlibrary_edition": "OL14031035M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1049953077",
+  "page_number_confidence": "100",
+  "oclc-id": "12820737",
+  "description": "xxxiii, 688 p. ; 23 cm",
+  "associated-names": "Barter, W. G. T. (William George Thomas)",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "notesiliad00homerich.pdf",
+   "format": "Text PDF",
+   "size": "49783191"
+  },
+  {
+   "name": "notesiliad00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1118149"
+  },
+  {
+   "name": "notesiliad00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15188987"
+  },
+  {
+   "name": "notesiliad00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "401848806"
+  },
+  {
+   "name": "notesiliad00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "123375"
+  }
+ ]
+}

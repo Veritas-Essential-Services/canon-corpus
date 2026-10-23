@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000robe_e8f1",
+  "boxid": "IA41901222",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert louis stevenson",
+  "date": "1911",
+  "language": "Eng",
+  "mediatype": "texts",
+  "notes": "Obscured text due to sticker attached",
+  "old_pallet": "IA-CB-53138184",
+  "operator": "associate-mariamay-canama@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20260712123135",
+  "scanner": "station09.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "title",
+  "scribe3_search_id": "title=Treasure+island&author=Robert+louis+stevenson&date=1911",
+  "title": "Treasure island",
+  "tts_version": "7.4-initial-102-gccf38d26",
+  "uploader": "station09.cebu@archive.org",
+  "publicdate": "2026-07-12 11:21:41",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000robe_e8f1",
+  "identifier-ark": "ark:/13960/s2mprrfcdm9",
+  "imagecount": "322",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-rhegrace-oplas@archive.org",
+  "republisher_date": "20260717155841",
+  "republisher_time": "301",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8948",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000robe_e8f1:epub:ccfb2f72-eef9-4b48-b8e6-ea8494567193",
+   "urn:lcp:treasureisland0000robe_e8f1:lcpdf:22a1b4b6-b5bb-431b-8ad4-f46638d15676"
+  ],
+  "addeddate": "2026-07-18 03:32:25"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000robe_e8f1.pdf",
+   "format": "Text PDF",
+   "size": "14338136"
+  },
+  {
+   "name": "treasureisland0000robe_e8f1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "394456"
+  },
+  {
+   "name": "treasureisland0000robe_e8f1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5639342"
+  },
+  {
+   "name": "treasureisland0000robe_e8f1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "136731751"
+  },
+  {
+   "name": "treasureisland0000robe_e8f1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54051"
+  },
+  {
+   "name": "treasureisland0000robe_e8f1_scandata.xml",
+   "format": "Scandata",
+   "size": "402180"
+  }
+ ]
+}

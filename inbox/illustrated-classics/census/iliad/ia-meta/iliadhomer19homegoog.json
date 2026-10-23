@@ -1,0 +1,51 @@
+{
+ "metadata": {
+  "publisher": "R.W. Pomeroy",
+  "identifier": "iliadhomer19homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer19homegoog",
+  "year": "1840",
+  "date": "1840",
+  "scandate": "20070828000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t40r9x903",
+  "imagecount": "293",
+  "publicdate": "2008-07-20 11:58:21",
+  "source": "http://books.google.com/books?id=IFYMAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "oclc-id": "13429034",
+  "repub_state": "4",
+  "backup_location": "ia903602_6",
+  "openlibrary_edition": "OL20599966M",
+  "openlibrary_work": "OL16249584W",
+  "addeddate": "2008-07-20 11:58:21",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer19homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "471644"
+  },
+  {
+   "name": "iliadhomer19homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4487846"
+  },
+  {
+   "name": "iliadhomer19homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "87990"
+  }
+ ]
+}

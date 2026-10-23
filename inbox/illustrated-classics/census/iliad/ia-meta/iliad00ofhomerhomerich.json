@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "publisher": "New York, The Macmillan company",
+  "date": "1901",
+  "language": "eng",
+  "copyright-evidence-operator": "MarkGraves",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by MarkGraves for item iliad00ofhomerhomerich on July 29, 2008: visible notice of copyright; stated date is 1899.",
+  "copyright-evidence-date": "20080729144457",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-67346167",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-67346167",
+  "repub_state": "4",
+  "updatedate": "2008-07-29 14:45:00",
+  "updater": "MarkGraves",
+  "identifier": "iliad00ofhomerhomerich",
+  "uploader": "markg@archive.org",
+  "addeddate": "2008-07-29 14:44:52",
+  "publicdate": "2008-07-29 14:45:01",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-sokpheap-meas@archive.org",
+  "scanner": "scribe9.rich.archive.org",
+  "scandate": "20080730222542",
+  "imagecount": "252",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliad00ofhomerhomerich",
+  "identifier-ark": "ark:/13960/t04x5fn1m",
+  "scanfactors": "60",
+  "curation": "[curator]paul.n@archive.org[/curator][date]20091201181909[/date][state]approved[/state][comment]199[/comment]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_7",
+  "openlibrary_edition": "OL14014143M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": [
+   "urn:oclc:record:1046536876",
+   "urn:lcp:iliad00ofhomerhomerich:epub:5babb4ca-7e43-4b13-a913-61bb37170089"
+  ],
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:39 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "oclc-id": "18366733",
+  "description": [
+   "lv, 169 p. 15 cm",
+   "At head of title: Pope"
+  ],
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliad00ofhomerhomerich.pdf",
+   "format": "Text PDF",
+   "size": "9986450"
+  },
+  {
+   "name": "iliad00ofhomerhomerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "329897"
+  },
+  {
+   "name": "iliad00ofhomerhomerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3988173"
+  },
+  {
+   "name": "iliad00ofhomerhomerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "69411505"
+  },
+  {
+   "name": "iliad00ofhomerhomerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "42286"
+  },
+  {
+   "name": "iliad00ofhomerhomerich_scandata.xml",
+   "format": "Scandata",
+   "size": "129366"
+  }
+ ]
+}

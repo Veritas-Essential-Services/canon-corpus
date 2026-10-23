@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer [microform]",
+  "creator": [
+   "Homer",
+   "Morrice, James"
+  ],
+  "description": [
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80380-3",
+   "No. 3 on a reel of 5 titles"
+  ],
+  "publisher": "London, Printed for John White by Richard Taylor",
+  "date": "1809",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0852",
+  "call_number": "1236570",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-10 21:34:57",
+  "updater": "associate-malia-young",
+  "identifier": "iliadofhomer02ho",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-10 21:34:59",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/iliadofhomer02ho",
+  "identifier-ark": "ark:/13960/t9572nn3t",
+  "imagecount": "371",
+  "transcludes": "nncmn91803801",
+  "scandate": "20130315000000",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1046542842",
+  "usl_hit": "auto",
+  "oclc-id": "29284452",
+  "associated-names": "Morrice, James",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9849",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer02ho.pdf",
+   "format": "Text PDF",
+   "size": "107229295"
+  },
+  {
+   "name": "iliadofhomer02ho_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "782459"
+  },
+  {
+   "name": "iliadofhomer02ho_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10883129"
+  },
+  {
+   "name": "iliadofhomer02ho_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "311729595"
+  },
+  {
+   "name": "iliadofhomer02ho_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "64723"
+  },
+  {
+   "name": "iliadofhomer02ho_scandata.xml",
+   "format": "Scandata",
+   "size": "119191"
+  }
+ ]
+}

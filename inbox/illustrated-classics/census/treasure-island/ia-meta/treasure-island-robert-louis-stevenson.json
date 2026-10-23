@@ -1,0 +1,71 @@
+{
+ "metadata": {
+  "identifier": "treasure-island-robert-louis-stevenson",
+  "mediatype": "texts",
+  "collection": [
+   "opensource",
+   "community"
+  ],
+  "creator": "Robert Louis Stevenson",
+  "date": "1883-11-14",
+  "description": "Treasure Island (originally titled The Sea Cook: A Story for Boys) is an adventure novel by Scottish author Robert Louis Stevenson, telling a story of \"buccaneers and buried gold\". It is considered a coming-of-age story and is noted for its atmosphere, characters, and action.",
+  "language": "eng",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+   "Children",
+   "Adventure",
+   "Sea",
+   "Pirates",
+   "Treasure"
+  ],
+  "title": "Treasure Island",
+  "uploader": "sreekanth_j@yahoo.com",
+  "publicdate": "2022-02-12 14:29:22",
+  "addeddate": "2022-02-12 14:29:22",
+  "curation": "[curator]validator@archive.org[/curator][date]20220212142938[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/treasure-island-robert-louis-stevenson",
+  "identifier-ark": "ark:/13960/s24p6q90x5z",
+  "ppi": "300",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9887",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "Treasure Island_Robert Louis Stevenson.pdf",
+   "format": "Text PDF",
+   "size": "3604985"
+  },
+  {
+   "name": "Treasure Island_Robert Louis Stevenson_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "385539"
+  },
+  {
+   "name": "Treasure Island_Robert Louis Stevenson_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5508679"
+  },
+  {
+   "name": "Treasure Island_Robert Louis Stevenson_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "141238491"
+  },
+  {
+   "name": "Treasure Island_Robert Louis Stevenson_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "47495"
+  },
+  {
+   "name": "Treasure Island_Robert Louis Stevenson_scandata.xml",
+   "format": "Scandata",
+   "size": "89740"
+  }
+ ]
+}

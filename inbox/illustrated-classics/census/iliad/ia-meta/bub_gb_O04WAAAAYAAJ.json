@@ -1,0 +1,59 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_O04WAAAAYAAJ",
+  "creator": "Homer",
+  "date": "1861",
+  "google-id": "O04WAAAAYAAJ",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "L, Rivingtons",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=O04WAAAAYAAJ&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "Iliad",
+  "year": "1861",
+  "publicdate": "2014-12-25 08:28:06",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2014-12-25 08:28:06",
+  "curation": "[curator]validator@archive.org[/curator][date]20141225082830[/date][comment]checked for malware[/comment]",
+  "oclc-id": "79274465",
+  "description": "Mode of access: Internet",
+  "contributor": "Harvard University",
+  "identifier-access": "http://archive.org/details/bub_gb_O04WAAAAYAAJ",
+  "identifier-ark": "ark:/13960/t58d30v5j",
+  "imagecount": "75",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905908_25"
+ },
+ "files": [
+  {
+   "name": "bub_gb_O04WAAAAYAAJ.pdf",
+   "format": "Text PDF",
+   "size": "3492490"
+  },
+  {
+   "name": "bub_gb_O04WAAAAYAAJ_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "111622"
+  },
+  {
+   "name": "bub_gb_O04WAAAAYAAJ_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1100986"
+  },
+  {
+   "name": "bub_gb_O04WAAAAYAAJ_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "23081222"
+  },
+  {
+   "name": "bub_gb_O04WAAAAYAAJ_scandata.xml",
+   "format": "Scandata",
+   "size": "22328"
+  }
+ ]
+}

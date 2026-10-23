@@ -1,0 +1,52 @@
+{
+ "metadata": {
+  "identifier": "treasureisland02stevgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland02stevgoog",
+  "year": "1902",
+  "scandate": "20070124",
+  "copyright-region": "US",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t7gq75n8d",
+  "imagecount": "285",
+  "publicdate": "2008-10-21 20:31:17",
+  "source": "http://books.google.com/books?id=lZYnAAAAMAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "repub_state": "4",
+  "backup_location": "ia903602_17",
+  "addeddate": "2008-10-21 20:31:17",
+  "usl_hit": "auto",
+  "oclc-id": [
+   "679345562",
+   "656570081"
+  ],
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York, Macmillan Co.",
+  "date": "1914",
+  "subject": "Fiction (Scottish)",
+  "description": [
+   "1 online resource (4 preliminary leaves, vii-xxix (i), 229 pages)",
+   "Electronic reproduction. [Place of publication not identified] : HathiTrust Digital Library",
+   "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+   "digitized 2010",
+   "Print version record"
+  ],
+  "associated-names": "Vance, Hiram Albert, editor",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38583490M"
+ },
+ "files": [
+  {
+   "name": "treasureisland02stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "85594"
+  }
+ ]
+}

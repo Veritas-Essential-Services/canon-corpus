@@ -1,0 +1,44 @@
+{
+ "metadata": {
+  "identifier": "treasureisland04stevgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland04stevgoog",
+  "year": "1905",
+  "scandate": "20070529",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t6542rn17",
+  "imagecount": "328",
+  "publicdate": "2008-04-08 01:23:57",
+  "source": "http://books.google.com/books?id=UGc1AAAAMAAJ&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903601_30",
+  "addeddate": "2008-04-08 01:23:57",
+  "usl_hit": "auto",
+  "oclc-id": "493608843",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis (1850-1894)",
+  "publisher": "New York : Charles Scribner's",
+  "date": "1905",
+  "description": [
+   "1 vol. (viii, 290 p.) : in-8°",
+   "Autre tirage : 1897"
+  ],
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL6955945M"
+ },
+ "files": [
+  {
+   "name": "treasureisland04stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "98484"
+  }
+ ]
+}

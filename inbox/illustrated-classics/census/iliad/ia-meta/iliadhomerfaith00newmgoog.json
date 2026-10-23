@@ -1,0 +1,58 @@
+{
+ "metadata": {
+  "publisher": "Walton and Maberly",
+  "identifier": "iliadhomerfaith00newmgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer Faithfully Translated Into Unrhymed English Metre ...",
+  "creator": "Homer,  Francis William Newman",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Francis William Newman",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1856",
+  "date": "1856",
+  "scandate": "20070924000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=KvQNAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "09860158",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomerfaith00newmgoog",
+  "identifier-ark": "ark:/13960/t0wq0d744",
+  "imagecount": "477",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 16:46:26",
+  "backup_location": "ia903603_7",
+  "openlibrary_edition": "OL20467148M",
+  "openlibrary_work": "OL15112557W",
+  "addeddate": "2009-06-09 16:46:26",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerfaith00newmgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1033064"
+  },
+  {
+   "name": "iliadhomerfaith00newmgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9867085"
+  },
+  {
+   "name": "iliadhomerfaith00newmgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "92107010"
+  },
+  {
+   "name": "iliadhomerfaith00newmgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "143228"
+  }
+ ]
+}

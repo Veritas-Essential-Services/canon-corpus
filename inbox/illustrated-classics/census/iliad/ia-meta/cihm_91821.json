@@ -1,0 +1,121 @@
+{
+ "metadata": {
+  "title": "The Iliad, book VI [microform] : with English notes, critical and explanatory",
+  "creator": [
+   "Homer",
+   "Leary, T. H. L. (Thomas Humphrey Lindsay)"
+  ],
+  "subject": [
+   "Homer",
+   "Homer"
+  ],
+  "description": [
+   "At head of title: The works of Homer according to the text of Baeumlein",
+   "Includes publisher's list",
+   "Includes bibliographical references",
+   "Filmed from a copy of the original publication held by the University of Guelph",
+   "43"
+  ],
+  "publisher": "Toronto : Copp Clark",
+  "date": "1890",
+  "language": [
+   "gre",
+   "eng"
+  ],
+  "isbn": "0665918216",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "shiptracking": "alb",
+  "call_number": "CIHM 91821",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "6",
+  "updatedate": "2011-09-26 19:10:30",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_91821",
+  "uploader": "zack@archive.org",
+  "addeddate": "2011-09-26 19:10:32",
+  "publicdate": "2011-09-26 19:21:47",
+  "scanner": "microfiche01.alberta.archive.org",
+  "operator": "microfilm-processing@archive.org",
+  "scandate": "20111004163748",
+  "allowjpgs": "true",
+  "imagecount": "55",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_91821",
+  "identifier-ark": "ark:/13960/t3hx2b49m",
+  "scanfee": "100",
+  "curation": "[curator]gabe@archive.org[/curator][date]20111101184013[/date][state]approved[/state][comment]approved  Nov 1st 2011[/comment]",
+  "sponsordate": "20111031",
+  "collection": [
+   "university_of_alberta_libraries_microfilm",
+   "university_of_alberta_libraries",
+   "toronto",
+   "microfilm"
+  ],
+  "city": "Toronto",
+  "oclc-id": [
+   "470670942",
+   "53618003",
+   "77143073",
+   "867966463"
+  ],
+  "backup_location": "ia903703_14",
+  "openlibrary_edition": "OL17431450M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1042126346",
+  "usl_hit": "auto",
+  "page_number_confidence": "19",
+  "page_number_module_version": "1.0.5",
+  "col_number": "COL-1458",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+ell",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6882",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "cihm_91821.pdf",
+   "format": "Text PDF",
+   "size": "3786561"
+  },
+  {
+   "name": "cihm_91821_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "107465"
+  },
+  {
+   "name": "cihm_91821_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1149455"
+  },
+  {
+   "name": "cihm_91821_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "31753188"
+  },
+  {
+   "name": "cihm_91821_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "8588"
+  },
+  {
+   "name": "cihm_91821_scandata.xml",
+   "format": "Scandata",
+   "size": "30280"
+  },
+  {
+   "name": "history/files/cihm_91821_scandata.xml.~1~",
+   "format": "Scandata",
+   "size": "30276"
+  }
+ ]
+}

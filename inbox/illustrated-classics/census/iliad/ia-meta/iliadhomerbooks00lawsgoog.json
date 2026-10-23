@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "The University press",
+  "identifier": "iliadhomerbooks00lawsgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, books IX and X;",
+  "creator": "Homer,  John Cuthbert Lawson",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerbooks00lawsgoog",
+  "year": "1902",
+  "date": "1902",
+  "oclc-id": "10522249",
+  "scandate": "20060614",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t7vm4fp9w",
+  "imagecount": "153",
+  "publicdate": "2008-09-06 01:04:26",
+  "source": "http://books.google.com/books?id=XBgFqMmhePAC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "grc",
+  "repub_state": "4",
+  "backup_location": "ia903602_12",
+  "openlibrary_edition": "OL20492439M",
+  "openlibrary_work": "OL15112555W",
+  "addeddate": "2008-09-06 01:04:26",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerbooks00lawsgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "467176"
+  },
+  {
+   "name": "iliadhomerbooks00lawsgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2669244"
+  },
+  {
+   "name": "iliadhomerbooks00lawsgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "45751"
+  }
+ ]
+}

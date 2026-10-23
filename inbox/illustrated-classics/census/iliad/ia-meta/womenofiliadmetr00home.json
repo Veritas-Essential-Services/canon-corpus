@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The women of the Iliad; a metrical translation of the first book and of the other passages in which women appear",
+  "creator": [
+   "Homer",
+   "Taylor, Hugh Woodruff, [from old catalog] tr"
+  ],
+  "subject": [
+   "Women",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "New York [etc.] Broadway publishing co",
+  "date": "1912",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "6357336",
+  "identifier-bib": "0003060118A",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:41:59",
+  "updater": "ChristinaB",
+  "identifier": "womenofiliadmetr00home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:42:01",
+  "publicdate": "2011-11-09 16:42:05",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "repub_seconds": "118",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-annie-coates-@archive.org",
+  "scandate": "20111122194521",
+  "imagecount": "74",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/womenofiliadmetr00home",
+  "identifier-ark": "ark:/13960/t3cz47c01",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "140",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL25098065M",
+  "openlibrary_work": "OL16266911W",
+  "external-identifier": "urn:oclc:record:1102333672",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 19:05:26 UTC 2020",
+  "lccn": "12014625",
+  "description": "2 p.l., 7-66 p. 21 cm",
+  "associated-names": "Taylor, Hugh Woodruff, [from old catalog] tr",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "womenofiliadmetr00home.pdf",
+   "format": "Text PDF",
+   "size": "5123285"
+  },
+  {
+   "name": "womenofiliadmetr00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "111186"
+  },
+  {
+   "name": "womenofiliadmetr00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1361166"
+  },
+  {
+   "name": "womenofiliadmetr00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "56333710"
+  },
+  {
+   "name": "womenofiliadmetr00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "12060"
+  },
+  {
+   "name": "womenofiliadmetr00home_scandata.xml",
+   "format": "Scandata",
+   "size": "73705"
+  }
+ ]
+}

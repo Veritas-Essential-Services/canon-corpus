@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, done into English prose by Andrew Lang, Walter Leaf and Ernest Myers",
+  "creator": "Homer",
+  "description": "26",
+  "publisher": "London Macmillan",
+  "date": "1883",
+  "language": "eng",
+  "copyright-evidence-operator": "Pierre Custodio",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Pierre Custodio for item iliadofhomerdone00homeuoft on May 28, 2008: no visible notice of copyright; stated date is 1883.",
+  "copyright-evidence-date": "20080528234641",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3598",
+  "repub_state": "4",
+  "updatedate": "2008-05-28 23:47:08",
+  "updater": "Pierre Custodio",
+  "identifier": "iliadofhomerdone00homeuoft",
+  "uploader": "pierre@archive.org",
+  "addeddate": "2008-05-28 23:47:15",
+  "publicdate": "2008-05-28 23:47:22",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-dan-gorman@archive.org",
+  "scanner": "scribe22.toronto.archive.org",
+  "scandate": "20080530125956",
+  "imagecount": "544",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerdone00homeuoft",
+  "identifier-ark": "ark:/13960/t0sq8zx1c",
+  "scanfactors": "76",
+  "notes": "No+TOC+Page",
+  "curatestate": "approved",
+  "sponsordate": "20080531",
+  "curation": "[curator]julie@archive.org[/curator][date]20080603171040[/date][state]approved[/state]",
+  "backup_location": "ia903602_0",
+  "openlibrary_edition": "OL13510968M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:954130990",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:56 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerdone00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "25250651"
+  },
+  {
+   "name": "iliadofhomerdone00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1127823"
+  },
+  {
+   "name": "iliadofhomerdone00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13677787"
+  },
+  {
+   "name": "iliadofhomerdone00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "158181920"
+  },
+  {
+   "name": "iliadofhomerdone00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "92067"
+  },
+  {
+   "name": "iliadofhomerdone00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "282701"
+  }
+ ]
+}

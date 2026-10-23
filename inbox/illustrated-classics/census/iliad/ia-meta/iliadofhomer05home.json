@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "New York, Maynard, Merrill, & co",
+  "date": "1898",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "6359043",
+  "identifier-bib": "00211813921",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:21:01",
+  "updater": "ChristinaB",
+  "identifier": "iliadofhomer05home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:21:03",
+  "publicdate": "2011-11-09 16:21:06",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "repub_seconds": "1088",
+  "ppi": "650",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-aisha-harris@archive.org",
+  "scandate": "20111122205430",
+  "imagecount": "174",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer05home",
+  "identifier-ark": "ark:/13960/t9863j012",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "130",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL25098051M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046542109",
+  "lccn": "12034345",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:53 UTC 2020",
+  "description": "160 p. 18 cm",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer05home.pdf",
+   "format": "Text PDF",
+   "size": "12078173"
+  },
+  {
+   "name": "iliadofhomer05home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "309835"
+  },
+  {
+   "name": "iliadofhomer05home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3703818"
+  },
+  {
+   "name": "iliadofhomer05home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "98608706"
+  },
+  {
+   "name": "iliadofhomer05home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "29289"
+  },
+  {
+   "name": "iliadofhomer05home_scandata.xml",
+   "format": "Scandata",
+   "size": "172777"
+  }
+ ]
+}

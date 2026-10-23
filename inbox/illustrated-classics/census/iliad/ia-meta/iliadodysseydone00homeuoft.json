@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "title": "Iliad and Odyssey. Done into English prose by Andrew Lang, S.H. Butcher, Walter Leaf, and Ernest Myers",
+  "creator": [
+   "Homer",
+   "Butcher, S. H. (Samuel Henry), 1850-1910",
+   "Lang, Andrew, 1844-1912",
+   "Leaf, Walter, 1852-1927",
+   "Myers, Ernest, 1844-1921"
+  ],
+  "description": "26",
+  "publisher": "Chautauqua, N.Y. Chautauqua Press",
+  "date": "1909",
+  "language": "eng",
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item iliadodysseydone00homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1909.",
+  "copyright-evidence-date": "20080202020428",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ABC-9903",
+  "updatedate": "2008-02-02 02:04:38",
+  "updater": "Marlete Kurten",
+  "identifier": "iliadodysseydone00homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 02:04:47",
+  "publicdate": "2008-02-02 02:05:56",
+  "imagecount": "684",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "shaunnamacleod@archive.org",
+  "scanner": "scribe10",
+  "scandate": "20080204152926",
+  "identifier-access": "http://www.archive.org/details/iliadodysseydone00homeuoft",
+  "identifier-ark": "ark:/13960/t01z45r63",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153734[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 18:00:49 UTC 2009",
+   "Thu Dec 24 17:34:48 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7206543M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697795421",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "99",
+  "associated-names": "Butcher, S. H. (Samuel Henry), 1850-1910; Lang, Andrew, 1844-1912; Leaf, Walter, 1852-1927; Myers, Ernest, 1844-1921",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadodysseydone00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "30070387"
+  },
+  {
+   "name": "iliadodysseydone00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1465176"
+  },
+  {
+   "name": "iliadodysseydone00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "17960306"
+  },
+  {
+   "name": "iliadodysseydone00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "209155210"
+  },
+  {
+   "name": "iliadodysseydone00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "115540"
+  },
+  {
+   "name": "iliadodysseydone00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "364675"
+  }
+ ]
+}

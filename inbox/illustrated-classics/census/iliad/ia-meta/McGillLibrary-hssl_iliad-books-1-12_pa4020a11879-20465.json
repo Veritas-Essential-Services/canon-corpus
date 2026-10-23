@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "identifier": "McGillLibrary-hssl_iliad-books-1-12_pa4020a11879-20465",
+  "contributor": "McGill University Library",
+  "date": "1879",
+  "description": "16, 450 pages",
+  "language": [
+   "English",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "publisher": "London : [publisher not identified]",
+  "collection": [
+   "mcgilluniversity",
+   "mcgilluniversityrarebooks",
+   "toronto"
+  ],
+  "subject": [
+   "McGill University Library Digitized Title",
+   "Humanities and Social Sciences - Main Collection"
+  ],
+  "uploader": "digitization.library@mcgill.ca",
+  "publicdate": "2021-04-07 19:00:38",
+  "addeddate": "2021-04-07 19:00:38",
+  "title": "Iliad : books 1-12",
+  "creator": "Homer",
+  "associated-names": "Paley, F. A. (Frederick Apthorp), 1815-1888",
+  "identifier-access": "http://archive.org/details/McGillLibrary-hssl_iliad-books-1-12_pa4020a11879-20465",
+  "identifier-ark": "ark:/13960/t58f0f31b",
+  "ppi": "600",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.12",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5213",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94.48"
+ },
+ "files": [
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879.pdf",
+   "format": "Text PDF",
+   "size": "199126897"
+  },
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1656497"
+  },
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879_djvu.xml",
+   "format": "Djvu XML",
+   "size": "25069044"
+  },
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "277700333"
+  },
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "94507"
+  },
+  {
+   "name": "hssl_iliad-books-1-12_pa4020a11879_scandata.xml",
+   "format": "Scandata",
+   "size": "173492"
+  }
+ ]
+}

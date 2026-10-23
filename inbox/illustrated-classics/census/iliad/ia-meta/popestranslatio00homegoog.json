@@ -1,0 +1,55 @@
+{
+ "metadata": {
+  "publisher": "Globe school book co.",
+  "identifier": "popestranslatio00homegoog",
+  "scanner": "google",
+  "title": "Pope's Translation of Homer's Iliad, Books I, VI, XXII, XXIV",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1900",
+  "date": "1900",
+  "oclc-id": "2475576",
+  "scandate": "20070316000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=5XsAAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/popestranslatio00homegoog",
+  "identifier-ark": "ark:/13960/t1qf94v9p",
+  "imagecount": "209",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-15 11:37:17",
+  "backup_location": "ia903603_8",
+  "addeddate": "2009-06-15 11:37:17"
+ },
+ "files": [
+  {
+   "name": "popestranslatio00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "316764"
+  },
+  {
+   "name": "popestranslatio00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3101888"
+  },
+  {
+   "name": "popestranslatio00homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "31755905"
+  },
+  {
+   "name": "popestranslatio00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "62828"
+  }
+ ]
+}

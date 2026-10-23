@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "publisher": "New York, Cincinnati [etc.] American book company",
+  "identifier": "homersiliadfirs00stergoog",
+  "scanner": "google",
+  "title": "Homer's Iliad, first three books and selections;",
+  "creator": [
+   "Homer",
+   "Sterrett, J. R. Sitlington (John Robert Sitlington), 1851-1914"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1907",
+  "date": "1907",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "\"The text of this edition is based in great part on the Homeri Iliadis carmina by J. van Leeuwen and M. B. Mendes da Costa (Lugduni Batavorum, 1895) and to some extent on the Homeri Iliadis carmina by Wilhelm von Christ (Lipsiae, 1884)\"--Pref"
+  ],
+  "source": "http://books.google.com/books?id=nyYBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "24624825",
+  "lccn": "07025024",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/homersiliadfirs00stergoog",
+  "identifier-ark": "ark:/13960/t7gq7bm05",
+  "imagecount": "491",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 15:13:57",
+  "backup_location": "ia903603_7",
+  "openlibrary_edition": "OL20464299M",
+  "openlibrary_work": "OL15112551W",
+  "addeddate": "2009-06-09 15:13:57",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8480",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88.98",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadfirs00stergoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1383925"
+  },
+  {
+   "name": "homersiliadfirs00stergoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16174749"
+  },
+  {
+   "name": "homersiliadfirs00stergoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "113004227"
+  },
+  {
+   "name": "homersiliadfirs00stergoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "98008"
+  },
+  {
+   "name": "homersiliadfirs00stergoog_scandata.xml",
+   "format": "Scandata",
+   "size": "162106"
+  },
+  {
+   "name": "homersiliadfirs00stergoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "28520530"
+  }
+ ]
+}

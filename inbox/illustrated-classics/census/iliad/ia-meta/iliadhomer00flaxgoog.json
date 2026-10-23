@@ -1,0 +1,79 @@
+{
+ "metadata": {
+  "publisher": "Boston : James Munroe",
+  "identifier": "iliadhomer00flaxgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1847",
+  "date": "1847",
+  "scandate": "20071219",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "xv, 581 pages, 38 unnumbered leaves of plates : 25 cm",
+   "Designs by John Flaxman"
+  ],
+  "source": "http://books.google.com/books?id=yDkTAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "38755245",
+  "sponsor": "Google",
+  "volume": "2",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "identifier-access": "http://www.archive.org/details/iliadhomer00flaxgoog",
+  "identifier-ark": "ark:/13960/t16m3qp98",
+  "imagecount": "721",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 13:13:42",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL20599996M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-07-27 13:13:42",
+  "usl_hit": "auto",
+  "associated-names": "Wolf, F. A. (Friedrich August), 1759-1824; Felton, C. C. (Cornelius Conway), 1807-1862; Flaxman, John, 1755-1826",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.6597",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "62.38"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00flaxgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2029311"
+  },
+  {
+   "name": "iliadhomer00flaxgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "18704318"
+  },
+  {
+   "name": "iliadhomer00flaxgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "121926319"
+  },
+  {
+   "name": "iliadhomer00flaxgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "133155"
+  },
+  {
+   "name": "iliadhomer00flaxgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "227593"
+  }
+ ]
+}

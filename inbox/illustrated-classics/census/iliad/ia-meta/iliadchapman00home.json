@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "Iliad;",
+  "creator": [
+   "Homer",
+   "Chapman, George, 1559?-1634"
+  ],
+  "description": "26",
+  "publisher": "London, Routledge",
+  "date": "1884",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0734",
+  "repub_state": "4",
+  "updatedate": "2010-07-07 14:05:09",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadchapman00home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-07 14:05:12",
+  "publicdate": "2010-07-07 14:05:16",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-haley-freeman@archive.org",
+  "scanner": "scribe13.toronto.archive.org",
+  "scandate": "20100708054903",
+  "imagecount": "332",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadchapman00home",
+  "identifier-ark": "ark:/13960/t77s8dx5b",
+  "bookplateleaf": "0003",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100728010522[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "openlibrary_edition": "OL24348600M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697795415",
+  "filesxml": "Thu Dec 24 17:34:43 UTC 2020",
+  "associated-names": "Chapman, George, 1559?-1634",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadchapman00home.pdf",
+   "format": "Text PDF",
+   "size": "19889095"
+  },
+  {
+   "name": "iliadchapman00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "958300"
+  },
+  {
+   "name": "iliadchapman00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13024665"
+  },
+  {
+   "name": "iliadchapman00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "124411866"
+  },
+  {
+   "name": "iliadchapman00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55354"
+  },
+  {
+   "name": "iliadchapman00home_scandata.xml",
+   "format": "Scandata",
+   "size": "173499"
+  }
+ ]
+}

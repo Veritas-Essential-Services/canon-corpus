@@ -1,0 +1,80 @@
+{
+ "metadata": {
+  "google-id": "Qr5fAAAAMAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer, books I-VI, with an introduction and notes",
+  "source": "http://books.google.com/books?id=Qr5fAAAAMAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer12unkngoog",
+  "identifier": "iliadhomer12unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "xlii, 322 pages 20 cm"
+  ],
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "39365099",
+  "identifier-ark": "ark:/13960/t1pg2281r",
+  "imagecount": "387",
+  "ppi": "600",
+  "publicdate": "2009-04-26 17:25:06",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903603_1",
+  "addeddate": "2009-04-26 17:25:06",
+  "usl_hit": "auto",
+  "publisher": "Boston, J. Allyn",
+  "date": "1889",
+  "subject": [
+   "Homer. Iliad",
+   "Iliad (Homer)"
+  ],
+  "language": "eng",
+  "associated-names": "Keep, Robert Porter, 1844-1904",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9130",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.42",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomer12unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "733225"
+  },
+  {
+   "name": "iliadhomer12unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9594633"
+  },
+  {
+   "name": "iliadhomer12unkngoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "263093226"
+  },
+  {
+   "name": "iliadhomer12unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "75058"
+  },
+  {
+   "name": "iliadhomer12unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "127387"
+  },
+  {
+   "name": "iliadhomer12unkngoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "20242629"
+  }
+ ]
+}

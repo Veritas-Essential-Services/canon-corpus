@@ -1,0 +1,69 @@
+{
+ "metadata": {
+  "publisher": "Rand, McNally",
+  "scanner": "google",
+  "title": "Achilles & Hector: Iliad Stories Retold for Boys and Girls",
+  "creator": "Agnes Spofford Cook Gale,  Homer,  Helen Maitland Armstrong",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1903",
+  "date": "1903",
+  "oclc-id": "6316803",
+  "identifier": "achilleshectori01armsgoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=qkoXAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/achilleshectori01armsgoog",
+  "identifier-ark": "ark:/13960/t6sx6mr0g",
+  "imagecount": "185",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-17 15:25:39",
+  "repub_state": "4",
+  "backup_location": "ia903602_28",
+  "subject": [
+   "achilles",
+   "hector",
+   "greeks",
+   "thy",
+   "trojans",
+   "trojan",
+   "greek",
+   "odysseus",
+   "spear",
+   "gods",
+   "public domain",
+   "google book",
+   "long ago",
+   "greeks thought",
+   "book search",
+   "achilles sat",
+   "young men",
+   "send thee",
+   "reading list",
+   "poisoned arrow"
+  ],
+  "addeddate": "2009-02-17 15:25:39"
+ },
+ "files": [
+  {
+   "name": "achilleshectori01armsgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "159984"
+  },
+  {
+   "name": "achilleshectori01armsgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1639250"
+  },
+  {
+   "name": "achilleshectori01armsgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "55463"
+  }
+ ]
+}

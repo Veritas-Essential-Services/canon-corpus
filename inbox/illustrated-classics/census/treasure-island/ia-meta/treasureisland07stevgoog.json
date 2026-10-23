@@ -1,0 +1,55 @@
+{
+ "metadata": {
+  "identifier": "treasureisland07stevgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland07stevgoog",
+  "year": "1911",
+  "scandate": "20070319",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t50g3n48n",
+  "imagecount": "297",
+  "publicdate": "2008-02-01 10:39:19",
+  "source": "http://books.google.com/books?id=eoIAAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "addeddate": "2008-02-01 10:39:19",
+  "usl_hit": "auto",
+  "oclc-id": "1194308219",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Boston, New York : D.C. Heath & Company",
+  "date": "1911",
+  "subject": [
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc",
+   "Treasure troves",
+   "Treasure Island (Imaginary place)",
+   "Pirates"
+  ],
+  "description": [
+   "1 online resource (xx, 268 pages) :",
+   "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads to a pirate fortune as well as great danger"
+  ],
+  "associated-names": "Gaston, Charles Robert, 1874-; Gaston, Charles Robert, 1874- editor",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL6536432M"
+ },
+ "files": [
+  {
+   "name": "treasureisland07stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "89204"
+  }
+ ]
+}

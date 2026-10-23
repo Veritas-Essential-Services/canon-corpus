@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_x4a3",
+  "boxid": "IA41001901",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "contributor": "Internet Archive",
+  "date": "1906",
+  "isbn": "9780719600630",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA409871",
+  "openlibrary_edition": "OL46881310M",
+  "openlibrary_work": "OL34566459W",
+  "operator": "associate-felyn-tejas@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station18.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "isbn",
+  "scribe3_search_id": "0719600634",
+  "title": "Treasure Island ; Strange case of Dr. Jekyll and Mr. Hyde",
+  "tts_version": "5.7-initial-24-gde4a12cb",
+  "uploader": "station18.cebu@archive.org",
+  "publicdate": "2023-06-20 15:30:39",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_x4a3",
+  "identifier-ark": "ark:/13960/s2c3nhg9tng",
+  "scandate": "20230620170432",
+  "imagecount": "202",
+  "autocrop_version": "0.0.15_books-20220331-0.2",
+  "notes": "no page numbers",
+  "ppi": "360",
+  "republisher_operator": "associate-jeana-galido@archive.org",
+  "republisher_date": "20230623092555",
+  "republisher_time": "444",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9225",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000unse_x4a3:epub:0c20c230-7a7c-4ec3-b00e-fc22990181f1",
+   "urn:acs6:treasureisland0000unse_x4a3:pdf:9b1aac98-60b5-4a40-bead-eaa23215abe8",
+   "urn:lcp:treasureisland0000unse_x4a3:lcpdf:1bd2b8d5-a37b-40c2-89dc-e57162535807",
+   "urn:oclc:record:1606004953"
+  ],
+  "pdf_module_version": "0.0.22",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "collection": "internetarchivebooks",
+  "openlibrary": "OL46881310M",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Cosmopolitan magazine",
+  "oclc-id": "18755523",
+  "description": [
+   "vi, 457, lxiii pages : 17 cm",
+   "Microfilm. New York, N.Y. : Columbia University Libraries, 1 microfilm reel ; 35 mm"
+  ],
+  "page_number_confidence": "10",
+  "page_number_module_version": "1.0.5",
+  "addeddate": "2024-09-10 00:41:20"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_x4a3.pdf",
+   "format": "Text PDF",
+   "size": "10801998"
+  },
+  {
+   "name": "treasureisland0000unse_x4a3_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "333143"
+  },
+  {
+   "name": "treasureisland0000unse_x4a3_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4847681"
+  },
+  {
+   "name": "treasureisland0000unse_x4a3_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "89555123"
+  },
+  {
+   "name": "treasureisland0000unse_x4a3_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "34047"
+  },
+  {
+   "name": "treasureisland0000unse_x4a3_scandata.xml",
+   "format": "Scandata",
+   "size": "209249"
+  }
+ ]
+}

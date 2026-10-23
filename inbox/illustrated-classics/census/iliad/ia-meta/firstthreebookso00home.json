@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1889",
+  "title": "The first three books of Homer's Iliad",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "24",
+  "identifier_bib": "9.91241939000010E+016",
+  "call_number": "PA4020.A17",
+  "publisher": "New York, D. Appleton and company",
+  "associated-names": "Johnson, Henry Clark, 1851-1904, ed; Blake, Clarence E",
+  "description": "viii p., 1 l., [7] - 294, viii, [9] - 215 p. 19 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:15:50",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "firstthreebookso00home",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:15:52",
+  "scanner": "scribe5.boston.archive.org",
+  "operator": "associate-cristian-montas@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "notes": "Check-in notes:<br /><br />-Pages 19-20 missing from original material. <br /><br /><br />",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "526",
+  "scandate": "20200219171925",
+  "ppi": "300",
+  "republisher_operator": "associate-melanie-zapata@archive.org",
+  "republisher_date": "20200220154854",
+  "republisher_time": "1294",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/firstthreebookso00home",
+  "identifier-ark": "ark:/13960/t6vx8wb56",
+  "addeddate": "2020-02-20 14:19:38",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL27916566M",
+  "openlibrary_work": "OL20646908W",
+  "curation": "[curator]admin-tim-bigelow@archive.org[/curator][date]20200224150814[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1156368640",
+  "backup_location": "ia907104_17",
+  "page_number_confidence": "72",
+  "oclc-id": "2920953",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8460",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstthreebookso00home.pdf",
+   "format": "Text PDF",
+   "size": "31090932"
+  },
+  {
+   "name": "firstthreebookso00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1444067"
+  },
+  {
+   "name": "firstthreebookso00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16107816"
+  },
+  {
+   "name": "firstthreebookso00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "229497420"
+  },
+  {
+   "name": "firstthreebookso00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "88892"
+  },
+  {
+   "name": "firstthreebookso00home_scandata.xml",
+   "format": "Scandata",
+   "size": "538950"
+  }
+ ]
+}

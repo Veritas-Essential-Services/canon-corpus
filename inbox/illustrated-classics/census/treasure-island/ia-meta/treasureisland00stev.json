@@ -1,0 +1,102 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Wyeth, N. C. (Newell Convers), 1882-1945, ill"
+  ],
+  "subject": [
+   "Treasure troves",
+   "Pirates"
+  ],
+  "publisher": "New York",
+  "date": "c1911",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-nicole-deyo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-nicole-deyo for item treasureisland00stev on August 15, 2007: visible notice of copyright; stated date is 1911.",
+  "copyright-evidence-date": "20070815114250",
+  "sponsor": "MSN",
+  "contributor": "New York Public Library",
+  "scanningcenter": "nyc",
+  "mediatype": "texts",
+  "collection": [
+   "newyorkpubliclibrary",
+   "americana"
+  ],
+  "call_number": "784886",
+  "identifier-access": "http://www.archive.org/details/treasureisland00stev",
+  "updatedate": "2007-08-15 07:42:56",
+  "updater": "scanner-nicole-deyo",
+  "identifier": "treasureisland00stev",
+  "uploader": "scanner-nicole-deyo@archive.org",
+  "addeddate": "2007-08-15 11:40:33",
+  "publicdate": "2007-08-15 11:40:42",
+  "imagecount": "322",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-rebecca-memoli@archive.org",
+  "scanner": "nycs6",
+  "scandate": "20070821121802",
+  "identifier-ark": "ark:/13960/t2t43mg8w",
+  "bookplateleaf": "0006",
+  "curation": "[curator]angela@archive.org[/curator][date]20070822124542[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070831",
+  "filesxml": [
+   "Wed Aug 19 4:10:35 UTC 2009",
+   "Sat Dec 26 13:49:24 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_6",
+  "openlibrary_edition": "OL7041966M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157914390",
+  "usl_hit": "auto",
+  "description": [
+   "Includes reproduction of original t.-p., in color",
+   "Illustrations by N. C. Wyeth",
+   "Copyright renewed 1939",
+   "First published in 1881",
+   "Summary: While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads to a pirate fortune as well as great danger"
+  ],
+  "associated-names": "Wyeth, N. C. (Newell Convers), 1882-1945, ill",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "10",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev.pdf",
+   "format": "Text PDF",
+   "size": "15073197"
+  },
+  {
+   "name": "treasureisland00stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "450138"
+  },
+  {
+   "name": "treasureisland00stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5701645"
+  },
+  {
+   "name": "treasureisland00stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "118250029"
+  },
+  {
+   "name": "treasureisland00stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54099"
+  },
+  {
+   "name": "treasureisland00stev_scandata.xml",
+   "format": "Scandata",
+   "size": "162969"
+  }
+ ]
+}

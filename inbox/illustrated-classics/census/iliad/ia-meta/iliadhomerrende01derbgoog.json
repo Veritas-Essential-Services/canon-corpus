@@ -1,0 +1,73 @@
+{
+ "metadata": {
+  "google-id": "RPUNAAAAYAAJ",
+  "identifier": "iliadhomerrende01derbgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer rendered into English blank verse",
+  "source": "http://books.google.com/books?id=RPUNAAAAYAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "New York, C. Scribner",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerrende01derbgoog",
+  "year": "1871",
+  "date": "1871",
+  "contributor": "New York Public Library",
+  "oclc-id": "10218134",
+  "scandate": "20070924",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.",
+   "2 volumes in 1. 21 cm"
+  ],
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t1gh9z32w",
+  "imagecount": "927",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-01 09:33:45",
+  "backup_location": "ia903603_12",
+  "addeddate": "2009-07-01 09:33:45",
+  "usl_hit": "auto",
+  "subject": [
+   "Epic poetry, Greek -- Translations into English",
+   "Epic poetry, Greek"
+  ],
+  "associated-names": "Derby, Edward George Geoffrey Smith Stanley, 14th earl of, 1799-1869",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "93.78"
+ },
+ "files": [
+  {
+   "name": "iliadhomerrende01derbgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1072603"
+  },
+  {
+   "name": "iliadhomerrende01derbgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13468128"
+  },
+  {
+   "name": "iliadhomerrende01derbgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "563030922"
+  },
+  {
+   "name": "iliadhomerrende01derbgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "178792"
+  },
+  {
+   "name": "iliadhomerrende01derbgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "308400"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr",
+   "Buckley, Theodore Alois, 1825-1856, ed"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "description": "Bibliography: p. xxix",
+  "publisher": "New York, T.Y. Crowell & company",
+  "date": "1890",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "8668605",
+  "identifier-bib": "00030601816",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:37:43",
+  "updater": "ChristinaB",
+  "identifier": "iliadofhomer06home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:37:45",
+  "publicdate": "2011-11-09 16:37:48",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "repub_seconds": "722",
+  "ppi": "650",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-aisha-harris@archive.org",
+  "scandate": "20111118161954",
+  "imagecount": "512",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer06home",
+  "identifier-ark": "ark:/13960/t29897q0m",
+  "ocr": "ABBYY FineReader 8.0",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111121142806[/date][state]approved[/state]",
+  "scanfee": "100",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL6940976M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046543532",
+  "lccn": "04014076",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:53 UTC 2020",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "96",
+  "oclc-id": "8720503",
+  "associated-names": "Pope, Alexander, 1688-1744, tr; Buckley, Theodore Alois, 1825-1856, ed",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer06home.pdf",
+   "format": "Text PDF",
+   "size": "46562678"
+  },
+  {
+   "name": "iliadofhomer06home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1316534"
+  },
+  {
+   "name": "iliadofhomer06home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15905525"
+  },
+  {
+   "name": "iliadofhomer06home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "366998062"
+  },
+  {
+   "name": "iliadofhomer06home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "87283"
+  },
+  {
+   "name": "iliadofhomer06home_scandata.xml",
+   "format": "Scandata",
+   "size": "510310"
+  }
+ ]
+}

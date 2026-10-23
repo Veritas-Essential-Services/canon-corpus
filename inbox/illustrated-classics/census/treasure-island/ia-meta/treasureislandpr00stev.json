@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "Treasure Island. Prince Otto",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Stevenson, Robert Louis, 1850-1894"
+  ],
+  "publisher": "New York : A. L. Burt",
+  "date": "1900",
+  "language": "eng",
+  "copyright-evidence-operator": "tomworkman",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by tomworkman for item treasureislandpr00stev on September 13, 2008: no visible notice of copyright; exact publication date unknown.",
+  "copyright-evidence-date": "20080913051648",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCSB:LAGE-5397737",
+  "collection-library": "SRLF_UCSB",
+  "identifier-bib": "LAGE-5397737",
+  "updatedate": "2008-09-13 05:16:51",
+  "updater": "tomworkman",
+  "identifier": "treasureislandpr00stev",
+  "uploader": "tomworkman@archive.org",
+  "addeddate": "2008-09-13 05:16:53",
+  "publicdate": "2008-09-13 05:17:07",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-james-san@archive.org",
+  "scanner": "scribe7.la.archive.org",
+  "scandate": "20080917001729",
+  "imagecount": "320",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/treasureislandpr00stev",
+  "identifier-ark": "ark:/13960/t4bp0947s",
+  "scanfactors": "2",
+  "repub_state": "4",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20080919011026[/date][state]approved[/state]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_13",
+  "openlibrary_edition": "OL17980580M",
+  "openlibrary_work": "OL1833014W",
+  "external-identifier": "urn:oclc:record:1158012374",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Sat Dec 26 13:49:26 UTC 2020",
+   "Fri Jan 1 2:55:20 UTC 2021"
+  ],
+  "description": "157 p., 149 p",
+  "associated-names": "Stevenson, Robert Louis, 1850-1894. Prince Ott",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislandpr00stev.pdf",
+   "format": "Text PDF",
+   "size": "15276693"
+  },
+  {
+   "name": "treasureislandpr00stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "856236"
+  },
+  {
+   "name": "treasureislandpr00stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10458338"
+  },
+  {
+   "name": "treasureislandpr00stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "132427241"
+  },
+  {
+   "name": "treasureislandpr00stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "53765"
+  },
+  {
+   "name": "treasureislandpr00stev_scandata.xml",
+   "format": "Scandata",
+   "size": "192769"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad;",
+  "volume": "1",
+  "creator": [
+   "Homer",
+   "Derby, Edward George Geoffrey Smith Stanley, Earl of, 1799-1869"
+  ],
+  "description": [
+   "Vol 1. Bks. I-XII. Vol. 2. Bks. XIII-XXIV",
+   "26"
+  ],
+  "publisher": "London, Murray",
+  "date": "1864",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0754",
+  "repub_state": "4",
+  "updatedate": "2010-07-05 18:38:25",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadthe01home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-05 18:38:27",
+  "publicdate": "2010-07-05 18:38:33",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-emily-porta@archive.org",
+  "scanner": "scribe21.toronto.archive.org",
+  "scandate": "20100706032940",
+  "imagecount": "426",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadthe01home",
+  "identifier-ark": "ark:/13960/t1ng5cd6h",
+  "bookplateleaf": "0003",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100707191540[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "external-identifier": "urn:oclc:record:1046582365",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:35:02 UTC 2020",
+  "associated-names": "Derby, Edward George Geoffrey Smith Stanley, Earl of, 1799-1869",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadthe01home.pdf",
+   "format": "Text PDF",
+   "size": "17025949"
+  },
+  {
+   "name": "iliadthe01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "432307"
+  },
+  {
+   "name": "iliadthe01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6000342"
+  },
+  {
+   "name": "iliadthe01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "88471458"
+  },
+  {
+   "name": "iliadthe01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "70972"
+  },
+  {
+   "name": "iliadthe01home_scandata.xml",
+   "format": "Scandata",
+   "size": "222523"
+  }
+ ]
+}

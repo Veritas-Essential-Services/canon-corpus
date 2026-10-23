@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "publisher": "Chicago, S.C. Griggs & Co.",
+  "identifier": "firstsixbooksho05homegoog",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad, with explanatory notes, intended for beginners in the epic dialect; accompanied with numerous references to Hadley's Greek Grammar, to Kühner's larger Greek grammar, and to Goodwin's Greek Moods and Tenses",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1877",
+  "date": "1887",
+  "oclc-id": "82855460",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=_SMBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho05homegoog",
+  "identifier-ark": "ark:/13960/t87h2156n",
+  "imagecount": "271",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-06-08 01:23:21",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-08 01:23:21",
+  "language": "eng",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7618",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "85.93",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho05homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "563782"
+  },
+  {
+   "name": "firstsixbooksho05homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7574989"
+  },
+  {
+   "name": "firstsixbooksho05homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "44648545"
+  },
+  {
+   "name": "firstsixbooksho05homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50198"
+  },
+  {
+   "name": "firstsixbooksho05homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "89446"
+  },
+  {
+   "name": "firstsixbooksho05homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "14089103"
+  }
+ ]
+}

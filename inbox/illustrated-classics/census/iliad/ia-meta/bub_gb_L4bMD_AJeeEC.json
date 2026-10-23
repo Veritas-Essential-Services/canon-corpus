@@ -1,0 +1,67 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_L4bMD_AJeeEC",
+  "creator": [
+   "Homer",
+   "British Museum. Dept. of Manuscripts",
+   "Cureton, William, 1808-1864"
+  ],
+  "date": "1851",
+  "google-id": "L4bMD_AJeeEC",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "[London] Printed by order of the Trustees of the British museum, by R. Taylor",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=L4bMD_AJeeEC&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": [
+   "bub_upload",
+   "Achilles (Greek mythology)"
+  ],
+  "title": "Fragments of the Iliad of Homer from a Syriac palimpsest",
+  "year": "1851",
+  "publicdate": "2014-12-16 22:52:36",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2014-12-16 22:52:36",
+  "curation": "[curator]validator@archive.org[/curator][date]20141216225306[/date][comment]checked for malware[/comment]",
+  "oclc-id": "5087251",
+  "lccn": "11014403",
+  "contributor": "Harvard University",
+  "identifier-access": "http://archive.org/details/bub_gb_L4bMD_AJeeEC",
+  "identifier-ark": "ark:/13960/t4sj4ht7d",
+  "imagecount": "160",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905908_7",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "bub_gb_L4bMD_AJeeEC.pdf",
+   "format": "Text PDF",
+   "size": "6993649"
+  },
+  {
+   "name": "bub_gb_L4bMD_AJeeEC_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "209467"
+  },
+  {
+   "name": "bub_gb_L4bMD_AJeeEC_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1160269"
+  },
+  {
+   "name": "bub_gb_L4bMD_AJeeEC_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "52904886"
+  },
+  {
+   "name": "bub_gb_L4bMD_AJeeEC_scandata.xml",
+   "format": "Scandata",
+   "size": "47803"
+  }
+ ]
+}

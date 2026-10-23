@@ -1,0 +1,73 @@
+{
+ "metadata": {
+  "google-id": "y2pCAAAAIAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=y2pCAAAAIAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer03unkngoog",
+  "identifier": "iliadhomer03unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "2 volumes 23 cm"
+  ],
+  "contributor": "University of California",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "23980651",
+  "language": [
+   "eng",
+   "gre"
+  ],
+  "identifier-ark": "ark:/13960/t40s04465",
+  "imagecount": "531",
+  "ppi": "600",
+  "publicdate": "2009-03-09 10:03:21",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 10:03:21",
+  "usl_hit": "auto",
+  "publisher": "London, Kegan Paul, Trench",
+  "date": "1886",
+  "subject": [
+   "Homer. Iliad",
+   "Iliad (Homer)"
+  ],
+  "associated-names": "Cordery, J. G., ed. and tr",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l ell+eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.7220",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96.79"
+ },
+ "files": [
+  {
+   "name": "iliadhomer03unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1186319"
+  },
+  {
+   "name": "iliadhomer03unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12157711"
+  },
+  {
+   "name": "iliadhomer03unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "101172"
+  },
+  {
+   "name": "iliadhomer03unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "188431"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Treasure island",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Baden, Frances Henshaw, d. 1911. Flowers' work. 1900"
+  ],
+  "description": "\"The flowers' work, by Frances Henshaw Baden\" (11 p.) at end",
+  "publisher": "Chicago ; New York : M.A. Donohue",
+  "date": "1900",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of North Carolina at Chapel Hill",
+  "contributor": "Information and Library Science Library, University of North Carolina at Chapel Hill",
+  "scanningcenter": "chapelhill",
+  "mediatype": "texts",
+  "collection": [
+   "juvenilehistoricalcollection",
+   "unclibraries",
+   "americana"
+  ],
+  "shiptracking": "a0060",
+  "call_number": "b2352736",
+  "local_callnumber": "JH Stevenson",
+  "repub_state": "4",
+  "updatedate": "2012-04-12 16:35:06",
+  "updater": "associate-elizabeth-macleod@archive.org",
+  "identifier": "treasureislandstevens",
+  "uploader": "associate-elizabeth-macleod@archive.org",
+  "addeddate": "2012-04-12 16:35:08",
+  "publicdate": "2012-04-12 16:35:11",
+  "repub_seconds": "359",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "associate-lucas-darden@archive.org",
+  "scanner": "scribe2.chapelhill.archive.org",
+  "scandate": "20120417134019",
+  "republisher": "associate-lucas-darden@archive.org",
+  "imagecount": "258",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandstevens",
+  "identifier-ark": "ark:/13960/t1wd4zr83",
+  "scanfee": "100",
+  "sponsordate": "20120430",
+  "backup_location": "ia903801_25",
+  "openlibrary_edition": "OL25268973M",
+  "openlibrary_work": "OL24034W",
+  "unc_bib_record_id": "b2352736",
+  "external-identifier": "urn:oclc:record:1157982737",
+  "usl_hit": "auto",
+  "associated-names": "Baden, Frances Henshaw, d. 1911. Flowers' work. 1900",
+  "republisher_operator": "associate-lucas-darden@archive.org",
+  "republisher_date": "20120417175036",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "69",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislandstevens.pdf",
+   "format": "Text PDF",
+   "size": "17465396"
+  },
+  {
+   "name": "treasureislandstevens_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "464374"
+  },
+  {
+   "name": "treasureislandstevens_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5762947"
+  },
+  {
+   "name": "treasureislandstevens_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "189513849"
+  },
+  {
+   "name": "treasureislandstevens_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "43872"
+  },
+  {
+   "name": "treasureislandstevens_scandata.xml",
+   "format": "Scandata",
+   "size": "339464"
+  }
+ ]
+}

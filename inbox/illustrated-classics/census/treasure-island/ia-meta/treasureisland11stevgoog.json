@@ -1,0 +1,60 @@
+{
+ "metadata": {
+  "identifier": "treasureisland11stevgoog",
+  "scanner": "google",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1905",
+  "scandate": "20070124",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=zIgnAAAAMAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/treasureisland11stevgoog",
+  "identifier-ark": "ark:/13960/t9f483v81",
+  "imagecount": "375",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-19 09:21:38",
+  "backup_location": "ia903603_9",
+  "addeddate": "2009-06-19 09:21:38",
+  "usl_hit": "auto",
+  "oclc-id": "1260164674",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Charles Scribner's Sons",
+  "date": "1914",
+  "subject": [
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Adventure stories",
+   "Buried treasure -- Fiction",
+   "Pirates -- Fiction",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc",
+   "Adventure stories",
+   "Pirates",
+   "Treasure troves"
+  ],
+  "description": "viii, [2], 290 pages : 20 cm",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584584M"
+ },
+ "files": [
+  {
+   "name": "treasureisland11stevgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "45331818"
+  },
+  {
+   "name": "treasureisland11stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "112627"
+  }
+ ]
+}

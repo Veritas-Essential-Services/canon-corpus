@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "identifier": "the-iliad-of-homer-w.-g.-caldcleugh-translation",
+  "mediatype": "texts",
+  "collection": "opensource",
+  "creator": "Homer; W.G. Caldcleugh",
+  "date": "1870-01-01",
+  "description": "<div style=\"max-width:520px;margin:24px auto;padding:18px;background:#ffffff;border:1px solid #e2e2e2;text-align:center;font-family:Georgia, 'Times New Roman', serif;\">\n  <a href=\"https://aorubio.github.io/The-Home-Scholar-Library\" style=\"color:inherit;text-decoration:none;\" rel=\"ugc nofollow\">\n    <img src=\"https://archive.org/download/home-scholar-archive/home_scholar_feature_200kb.png\" alt=\"Visit The Home Scholar Library\" style=\"height:auto;\" />\n\n    </a><div style=\"padding:16px 8px 4px;font-size:22px;line-height:1.3;color:#333333;\"><a href=\"https://aorubio.github.io/The-Home-Scholar-Library\" style=\"color:inherit;text-decoration:none;\" rel=\"ugc nofollow\">\n      Click to Visit the Home Scholar Library\n    </a></div><a href=\"https://aorubio.github.io/The-Home-Scholar-Library\" style=\"color:inherit;text-decoration:none;\" rel=\"ugc nofollow\">\n  </a>\n</div>\n\n\n\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;text-indent:0.25in;\"><font face=\"Times New Roman, serif\" style=\"text-indent:24px;\"><span style=\"font-size:18.6667px;\"><b>NOTE: This post features Custom EPUB and PDF Downloads</b></span></font><span style=\"text-indent:24px;\"> </span> </p><span style=\"font-family:'Times New Roman', serif;text-indent:0.25in;\"> </span>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;text-indent:0.25in;\"><span style=\"font-size:14pt;line-height:115%;font-family:'Times New Roman', serif;\">THE HOME SCHOLAR PUBLIC DOMAIN EDITION</span></p><p></p><span style=\"margin:0px auto;border:0px dotted #FF0000;\"></span><span style=\"line-height:16px;font-size:16px;font-weight:400;color:#000000;background-color:transparent;padding:8px;border:4px double transparent;\"></span><span style=\"margin:0px auto;border:0px dotted #FF0000;\"></span><span style=\"line-height:16px;font-size:16px;font-weight:400;color:#000000;background-color:transparent;padding:8px;border:4px double transparent;\"></span>",
+  "language": "eng",
+  "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": "Homer; Iliad; Odyssey; Troy; Trojan War;",
+  "title": "The Iliad Of Homer, W. G. Caldcleugh Translation",
+  "uploader": "aorubio@gmail.com",
+  "publicdate": "2026-10-16 20:34:50",
+  "addeddate": "2026-10-16 20:34:50",
+  "curation": "[curator]validator@archive.org[/curator][date]20261016204240[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/the-iliad-of-homer-w.-g.-caldcleugh-translation",
+  "identifier-ark": "ark:/13960/s2zbg3s9sbv",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "pdf-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation.pdf",
+   "format": "Text PDF",
+   "size": "1327462"
+  },
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "711117"
+  },
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9989928"
+  },
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "212145365"
+  },
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "77084"
+  },
+  {
+   "name": "The Iliad of Homer, W. G. Caldcleugh Translation_scandata.xml",
+   "format": "Scandata",
+   "size": "145584"
+  }
+ ]
+}

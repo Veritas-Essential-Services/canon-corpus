@@ -1,0 +1,78 @@
+{
+ "metadata": {
+  "publisher": "New York, N.Y., U.S.A. : Viking",
+  "identifier": "iliad02homegoog",
+  "scanner": "google",
+  "title": "The Iliad ",
+  "creator": [
+   "Homer",
+   "Fagles, Robert",
+   "Knox, Bernard MacGregor Walker"
+  ],
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Theodore Alois Buckley",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliad02homegoog",
+  "year": "1851",
+  "date": "1851",
+  "scandate": "20060830",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+   "Includes bibliographical references (p. 635-637)"
+  ],
+  "identifier-ark": "ark:/13960/t5gb28c0z",
+  "imagecount": "498",
+  "publicdate": "2008-08-11 14:42:54",
+  "source": "http://books.google.com/books?id=-TgRAAAAIAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "66394447",
+  "language": "eng",
+  "lccn": "89070695",
+  "subject": [
+   "Epic poetry, Greek",
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_9",
+  "addeddate": "2008-08-11 14:42:54",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliad02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1255189"
+  },
+  {
+   "name": "iliad02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14836340"
+  },
+  {
+   "name": "iliad02homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85000"
+  },
+  {
+   "name": "iliad02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "165519"
+  },
+  {
+   "name": "iliad02homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "28746186"
+  }
+ ]
+}

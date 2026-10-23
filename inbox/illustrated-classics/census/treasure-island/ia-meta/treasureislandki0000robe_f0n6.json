@@ -1,0 +1,84 @@
+{
+ "metadata": {
+  "identifier": "treasureislandki0000robe_f0n6",
+  "boxid": "IA41901222",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1925",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-53138184",
+  "operator": "associate-joyme-dalagan@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20260712065609",
+  "scanner": "station07.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "title",
+  "scribe3_search_id": "title=Treasure+Island+and+Kidnapped&author=Robert+Louis+Stevenson&date=1925",
+  "title": "Treasure Island and Kidnapped",
+  "tts_version": "7.4-initial-102-gccf38d26",
+  "uploader": "station07.cebu@archive.org",
+  "publicdate": "2026-07-12 04:21:32",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandki0000robe_f0n6",
+  "identifier-ark": "ark:/13960/s2b6sz2bwrw",
+  "imagecount": "704",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-rosie-allanic@archive.org",
+  "republisher_date": "20260717010705",
+  "republisher_time": "412",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9473",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:treasureislandki0000robe_f0n6:epub:78a10b1a-4194-4bc0-a110-20b240edbd5d",
+   "urn:lcp:treasureislandki0000robe_f0n6:lcpdf:dd7510ca-03c2-4156-a330-65a25f30a728"
+  ],
+  "addeddate": "2026-07-17 05:01:29"
+ },
+ "files": [
+  {
+   "name": "treasureislandki0000robe_f0n6.pdf",
+   "format": "Text PDF",
+   "size": "33019507"
+  },
+  {
+   "name": "treasureislandki0000robe_f0n6_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "862483"
+  },
+  {
+   "name": "treasureislandki0000robe_f0n6_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12447637"
+  },
+  {
+   "name": "treasureislandki0000robe_f0n6_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "297045025"
+  },
+  {
+   "name": "treasureislandki0000robe_f0n6_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "118072"
+  },
+  {
+   "name": "treasureislandki0000robe_f0n6_scandata.xml",
+   "format": "Scandata",
+   "size": "883894"
+  }
+ ]
+}

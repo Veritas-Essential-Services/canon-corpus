@@ -1,0 +1,81 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomerrend0000home",
+  "collection": [
+   "printcollection",
+   "universityofvictorialibraries",
+   "toronto",
+   "globallibraries"
+  ],
+  "collection_set": "printcollection",
+  "contributor": "University of Victoria Libraries",
+  "creator": "Homer",
+  "date": "1871-01-01T00:00:00Z",
+  "language": "eng",
+  "mediatype": "texts",
+  "publisher": "London: J. Murray",
+  "repub_state": "19",
+  "scanner": "scribett0072",
+  "scanningcenter": "tt_victoria",
+  "sponsor": "University of Victoria Libraries",
+  "title": "The Iliad of Homer rendered into English blank verse, to which are appended translations of poems ancient and modern",
+  "publicdate": "2016-11-18 17:53:36",
+  "uploader": "scribett0072@archive.org",
+  "addeddate": "2016-11-18 17:53:36",
+  "imagecount": "366",
+  "scandate": "20161118185545",
+  "notes": "No copyright page.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomerrend0000home",
+  "identifier-ark": "ark:/13960/t3rv5k03f",
+  "scanfee": "40",
+  "invoice": "1006",
+  "sponsordate": "20161130",
+  "republisher_operator": "associate-tracey-gutierres@archive.org",
+  "republisher_date": "20161118112647",
+  "republisher_time": "1303",
+  "operator": "operator1.victoria@archive.org",
+  "backup_location": "ia906301_9",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.3",
+  "year": "1871",
+  "openlibrary_edition": "OL58877270M",
+  "openlibrary_work": "OL43229962W"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerrend0000home.pdf",
+   "format": "Text PDF",
+   "size": "12581216"
+  },
+  {
+   "name": "iliadofhomerrend0000home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "540804"
+  },
+  {
+   "name": "iliadofhomerrend0000home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6728877"
+  },
+  {
+   "name": "iliadofhomerrend0000home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "76902947"
+  },
+  {
+   "name": "iliadofhomerrend0000home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "61313"
+  },
+  {
+   "name": "iliadofhomerrend0000home_scandata.xml",
+   "format": "Scandata",
+   "size": "374988"
+  }
+ ]
+}

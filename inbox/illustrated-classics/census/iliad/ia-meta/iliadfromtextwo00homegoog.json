@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "identifier": "iliadfromtextwo00homegoog",
+  "scanner": "google",
+  "title": "The Iliad, from the Text of Wolf with English Notes",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadfromtextwo00homegoog",
+  "year": "1857",
+  "date": "1857",
+  "oclc-id": "80275885",
+  "scandate": "20060613",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "pages 12mo"
+  ],
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "identifier-ark": "ark:/13960/t8nc6692f",
+  "imagecount": "665",
+  "publicdate": "2008-10-03 00:28:05",
+  "source": "http://books.google.com/books?id=V7s7ibNa-NIC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "repub_state": "4",
+  "backup_location": "ia903602_15",
+  "addeddate": "2008-10-03 00:28:05",
+  "usl_hit": "auto",
+  "publisher": "Gr. B",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng+Fraktur",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.8512",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.83",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadfromtextwo00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1471872"
+  },
+  {
+   "name": "iliadfromtextwo00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "19012877"
+  },
+  {
+   "name": "iliadfromtextwo00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "123772"
+  },
+  {
+   "name": "iliadfromtextwo00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "221181"
+  },
+  {
+   "name": "iliadfromtextwo00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "31043629"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer [microform]",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878"
+  ],
+  "subject": "Trojan War",
+  "description": [
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80342-8",
+   "No. 8 on a reel of 14 titles"
+  ],
+  "publisher": "Boston, New York, Houghton Mifflin and company",
+  "date": "1898",
+  "language": "eng",
+  "lccn": "04001477 //r892",
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0851",
+  "call_number": "1085557",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-07 17:51:16",
+  "updater": "associate-malia-young",
+  "identifier": "iliadofhomer02hom",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-07 17:51:18",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/iliadofhomer02hom",
+  "identifier-ark": "ark:/13960/t4dn5cf0f",
+  "imagecount": "371",
+  "transcludes": "nncmn91803421",
+  "scanfee": "100",
+  "scandate": "20130315000000",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1046541695",
+  "usl_hit": "auto",
+  "oclc-id": "31576914",
+  "associated-names": "Bryant, William Cullen, 1794-1878",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "12",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer02hom.pdf",
+   "format": "Text PDF",
+   "size": "33167156"
+  },
+  {
+   "name": "iliadofhomer02hom_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1112196"
+  },
+  {
+   "name": "iliadofhomer02hom_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14308973"
+  },
+  {
+   "name": "iliadofhomer02hom_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "323695791"
+  },
+  {
+   "name": "iliadofhomer02hom_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "63077"
+  },
+  {
+   "name": "iliadofhomer02hom_scandata.xml",
+   "format": "Scandata",
+   "size": "111995"
+  }
+ ]
+}

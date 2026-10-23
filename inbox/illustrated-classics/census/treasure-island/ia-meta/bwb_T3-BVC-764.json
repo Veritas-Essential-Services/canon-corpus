@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_T3-BVC-764",
+  "boxid": "IA41641123",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson ",
+  "date": "1910",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000782",
+  "operator": "associate-eilontristanpat-roble@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250513030206",
+  "scanner": "station61.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T3-BVC-764",
+  "title": "treasure island ",
+  "tts_version": "6.11-initial-49-g0dbe7cdf",
+  "uploader": "station61.cebu@archive.org",
+  "publicdate": "2025-05-13 01:30:19",
+  "identifier-access": "http://archive.org/details/bwb_T3-BVC-764",
+  "identifier-ark": "ark:/13960/s28zj2cxrd3",
+  "imagecount": "332",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mervin-collantes@archive.org",
+  "republisher_date": "20250516121013",
+  "republisher_time": "528",
+  "foldoutcount": "0",
+  "image_count": "330",
+  "bookplateleaf": "0009",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9697",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_T3-BVC-764:epub:edfa3ba7-e804-4195-8248-7fc053ef758b",
+   "urn:lcp:bwb_T3-BVC-764:lcpdf:f1fc6793-f935-46b1-8035-d9eac30ea771"
+  ],
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2025-05-17 00:15:50"
+ },
+ "files": [
+  {
+   "name": "bwb_T3-BVC-764.pdf",
+   "format": "Text PDF",
+   "size": "11471989"
+  },
+  {
+   "name": "bwb_T3-BVC-764_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "393599"
+  },
+  {
+   "name": "bwb_T3-BVC-764_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5591763"
+  },
+  {
+   "name": "bwb_T3-BVC-764_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "102599970"
+  },
+  {
+   "name": "bwb_T3-BVC-764_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55641"
+  },
+  {
+   "name": "bwb_T3-BVC-764_scandata.xml",
+   "format": "Scandata",
+   "size": "397065"
+  }
+ ]
+}

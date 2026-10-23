@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "Sampson Low",
+  "identifier": "iliadhomerdonei01waygoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer Done Into English Verse",
+  "creator": "Homer,  Arthur Sanders Way",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerdonei01waygoog",
+  "year": "1886",
+  "date": "1886",
+  "scandate": "20060825000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6251qh6g",
+  "imagecount": "334",
+  "publicdate": "2008-06-01 19:15:09",
+  "source": "http://books.google.com/books?id=evgQAAAAIAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "oclc-id": "23983893",
+  "repub_state": "4",
+  "backup_location": "ia903602_0",
+  "addeddate": "2008-06-01 19:15:09",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerdonei01waygoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "528676"
+  },
+  {
+   "name": "iliadhomerdonei01waygoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5187201"
+  },
+  {
+   "name": "iliadhomerdonei01waygoog_scandata.xml",
+   "format": "Scandata",
+   "size": "100058"
+  }
+ ]
+}

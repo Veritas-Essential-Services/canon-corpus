@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "dli.rmrl.010523",
+  "archivist": "Kaniyam Anwar",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": [
+   "ServantsOfKnowledge",
+   "RojaMuthiah",
+   "JaiGyan"
+  ],
+  "collection_set": "RojaMuthiah",
+  "contributor": "Servants of Knowledge",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "language": "English",
+  "mediatype": "texts",
+  "operator": "carl+sok_maa@media.org",
+  "partner": "Kahle/Austin - Indian Academy of Sciences",
+  "publisher": "Thompson & Co,",
+  "rcs_key": "25204",
+  "repub_state": "19",
+  "scanner": "ttscribe2.sok.archive.org",
+  "scanningcenter": "tt_sok",
+  "title": "Treasure Island",
+  "tts_version": "4.5-initial-80-gce32ee1e",
+  "year": "1900",
+  "uploader": "ttscribe2.sok@archive.org",
+  "publicdate": "2021-12-03 10:59:01",
+  "imagecount": "114",
+  "scandate": "20211203112802",
+  "sent_to_scribe": "ttscribe2.sok.archive.org",
+  "ppi": "360",
+  "republisher_operator": "associate-melanie-zapata@archive.org",
+  "republisher_date": "20211213173510",
+  "republisher_time": "2122",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/dli.rmrl.010523",
+  "identifier-ark": "ark:/13960/s2hvwnfqzrp",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9897",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88",
+  "pdf_module_version": "0.0.17",
+  "addeddate": "2021-12-13 10:41:16",
+  "scanfee": "0;4;4",
+  "invoice": "1661",
+  "sponsordate": "20211231",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "dli.rmrl.010523.pdf",
+   "format": "Text PDF",
+   "size": "9442789"
+  },
+  {
+   "name": "dli.rmrl.010523_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "145591"
+  },
+  {
+   "name": "dli.rmrl.010523_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2166927"
+  },
+  {
+   "name": "dli.rmrl.010523_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "62171191"
+  },
+  {
+   "name": "dli.rmrl.010523_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "18928"
+  },
+  {
+   "name": "dli.rmrl.010523_scandata.xml",
+   "format": "Scandata",
+   "size": "124120"
+  }
+ ]
+}

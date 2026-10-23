@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer. Translated into English blank verse",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878"
+  ],
+  "description": "26",
+  "publisher": "Boston J.R. Osgood",
+  "date": "1875",
+  "language": "eng",
+  "copyright-evidence-operator": "Pierre Custodio",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Pierre Custodio for item iliadofhomertran02homeuoft on May 28, 2008: no visible notice of copyright; stated date is 1875.",
+  "copyright-evidence-date": "20080528234807",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AGA-5909",
+  "repub_state": "4",
+  "updatedate": "2008-05-28 23:48:33",
+  "updater": "Pierre Custodio",
+  "identifier": "iliadofhomertran02homeuoft",
+  "uploader": "pierre@archive.org",
+  "addeddate": "2008-05-28 23:48:40",
+  "publicdate": "2008-05-28 23:48:50",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-wendy-birt@archive.org",
+  "scanner": "scribe20.toronto.archive.org",
+  "scandate": "20080530184735",
+  "imagecount": "380",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomertran02homeuoft",
+  "identifier-ark": "ark:/13960/t3rv0nm6w",
+  "scanfactors": "88",
+  "curatestate": "approved",
+  "sponsordate": "20080531",
+  "curation": "[curator]julie@archive.org[/curator][date]20080603171040[/date][state]approved[/state]",
+  "backup_location": "ia903602_0",
+  "external-identifier": "urn:oclc:record:697802163",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:57 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "associated-names": "Bryant, William Cullen, 1794-1878",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomertran02homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "13402860"
+  },
+  {
+   "name": "iliadofhomertran02homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "553196"
+  },
+  {
+   "name": "iliadofhomertran02homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6793696"
+  },
+  {
+   "name": "iliadofhomertran02homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "93578461"
+  },
+  {
+   "name": "iliadofhomertran02homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "64037"
+  },
+  {
+   "name": "iliadofhomertran02homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "198206"
+  }
+ ]
+}

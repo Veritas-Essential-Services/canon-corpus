@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "title": "The first six books of the Iliad of Homer, : translated into fourteen-syllable verse ...",
+  "creator": "Homer",
+  "publisher": "London : Edward Stanford",
+  "date": "1873",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Internet Archive",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-1760840",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760840",
+  "updatedate": "2008-11-19 19:42:17",
+  "updater": "Alyson Wieczorek",
+  "identifier": "firstsixbooksili00home",
+  "uploader": "alyson@archive.org",
+  "addeddate": "2008-11-19 19:42:19",
+  "publicdate": "2008-11-19 19:42:23",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-my-hy@archive.org",
+  "scanner": "scribe9.la.archive.org",
+  "scandate": "20081121145509",
+  "imagecount": "182",
+  "foldoutcount": "1",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksili00home",
+  "identifier-ark": "ark:/13960/t11n8cc7t",
+  "scanfactors": "2",
+  "repub_state": "4",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20081202045530[/date][state]approved[/state]",
+  "sponsordate": "20081130",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_20",
+  "openlibrary_edition": "OL23299794M",
+  "openlibrary_work": "OL61904W",
+  "external-identifier": "urn:oclc:record:1045565588",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 7:43:08 UTC 2020",
+   "Thu Dec 31 22:35:33 UTC 2020"
+  ],
+  "description": "xiv, 150 p. :",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "28",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksili00home.pdf",
+   "format": "Text PDF",
+   "size": "9051356"
+  },
+  {
+   "name": "firstsixbooksili00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "335961"
+  },
+  {
+   "name": "firstsixbooksili00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4030558"
+  },
+  {
+   "name": "firstsixbooksili00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "60576080"
+  },
+  {
+   "name": "firstsixbooksili00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "30388"
+  },
+  {
+   "name": "firstsixbooksili00home_scandata.xml",
+   "format": "Scandata",
+   "size": "94546"
+  }
+ ]
+}

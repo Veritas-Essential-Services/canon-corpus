@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Scribner",
+  "date": "1907, c1894",
+  "language": "eng",
+  "copyright-evidence-operator": "ian frederick-rothwell",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by ian frederick-rothwell for item treasureisland00stevrich on January 22, 2008: visible notice of copyright; stated date is 1894.",
+  "copyright-evidence-date": "20080122185254",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "ucb_banc:GLAD-84140415",
+  "collection-library": "ucb_banc",
+  "identifier-bib": "GLAD-84140415",
+  "updatedate": "2008-01-22 18:52:57",
+  "updater": "ian frederick-rothwell",
+  "identifier": "treasureisland00stevrich",
+  "uploader": "ianf-r@archive.org",
+  "addeddate": "2008-01-22 18:52:04",
+  "publicdate": "2008-01-22 18:52:48",
+  "imagecount": "304",
+  "ppi": "500",
+  "lcamid": "332895",
+  "rcamid": "319346",
+  "camera": "1Ds",
+  "operator": "scanner-mark-graves@archive.org",
+  "scanner": "rich1",
+  "scandate": "20080122213022",
+  "identifier-access": "http://www.archive.org/details/treasureisland00stevrich",
+  "identifier-ark": "ark:/13960/t0vq2ws2k",
+  "bookplateleaf": "0007",
+  "curation": "[curator]marcus@archive.org[/curator][date]20080214033750[/date][state]approved[/state]",
+  "sponsordate": "20080131",
+  "foldoutcount": "0",
+  "scanfactors": "0",
+  "filesxml": [
+   "Sun Mar 7 1:41:09 UTC 2010",
+   "Sat Dec 26 13:49:26 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_20",
+  "openlibrary_edition": "OL7164715M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157955783",
+  "usl_hit": "auto",
+  "oclc-id": "17816949",
+  "description": "xxii, 266 p. : 22 cm",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stevrich.pdf",
+   "format": "Text PDF",
+   "size": "13262146"
+  },
+  {
+   "name": "treasureisland00stevrich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "468563"
+  },
+  {
+   "name": "treasureisland00stevrich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5959506"
+  },
+  {
+   "name": "treasureisland00stevrich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "160356845"
+  },
+  {
+   "name": "treasureisland00stevrich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50306"
+  }
+ ]
+}

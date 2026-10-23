@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "worksofrobertlou0009robe_g3v8",
+  "boxid": "IA41179127",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1924-01-01",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-2000104",
+  "openlibrary_edition": "OL46885175M",
+  "openlibrary_work": "OL34570158W",
+  "operator": "associate-madorothy-guaves@archive.org",
+  "page-progression": "lr",
+  "publisher": "William Heinemann Ltd, London",
+  "rcs_key": "26737",
+  "repub_state": "19",
+  "scanner": "station03.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KS-114-749",
+  "title": "The Works of Robert Louis Stevenson, Tusitala Edition, Vol. II. Treasure Island, Vol. III. The Dynamiter, Vol. VI. Kidnapped, Vol. VII. Catriona, Vol.",
+  "tts_version": "6.4-initial-3-g9590e5ec",
+  "volume": "9",
+  "uploader": "station03.cebu@archive.org",
+  "publicdate": "2023-12-01 13:25:49",
+  "identifier-access": "http://archive.org/details/worksofrobertlou0009robe_g3v8",
+  "identifier-ark": "ark:/13960/s21qp81wggh",
+  "scandate": "20231201171835",
+  "imagecount": "366",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-gigi-socias@archive.org",
+  "republisher_date": "20231211192118",
+  "republisher_time": "241",
+  "foldoutcount": "0",
+  "bookplateleaf": "0002",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9959",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:worksofrobertlou0009robe_g3v8:epub:f5116cc3-5006-4e21-ab21-23a2c93928d4",
+   "urn:acs6:worksofrobertlou0009robe_g3v8:pdf:4b3ba9e4-c2ec-4505-bef3-f9fb20e1f600",
+   "urn:lcp:worksofrobertlou0009robe_g3v8:lcpdf:7e2f8a51-6d74-4385-91d2-81c39d528cd5"
+  ],
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "addeddate": "2024-01-03 04:17:12"
+ },
+ "files": [
+  {
+   "name": "worksofrobertlou0009robe_g3v8.pdf",
+   "format": "Text PDF",
+   "size": "15807569"
+  },
+  {
+   "name": "worksofrobertlou0009robe_g3v8_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "455028"
+  },
+  {
+   "name": "worksofrobertlou0009robe_g3v8_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6634380"
+  },
+  {
+   "name": "worksofrobertlou0009robe_g3v8_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "135270784"
+  },
+  {
+   "name": "worksofrobertlou0009robe_g3v8_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "61334"
+  },
+  {
+   "name": "worksofrobertlou0009robe_g3v8_scandata.xml",
+   "format": "Scandata",
+   "size": "390264"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomertwov0001home",
+  "boxid": "IA41324310",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Όμηρος (Homer)",
+  "date": "1898",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-0000362",
+  "openlibrary_edition": "OL51016526M",
+  "openlibrary_work": "OL37735806W",
+  "operator": "associate-christyll-aton@archive.org",
+  "page-progression": "lr",
+  "publisher": "Houghton",
+  "rcs_key": "26737",
+  "repub_state": "19",
+  "scandate": "20240613124708",
+  "scanner": "station44.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "P9-CHK-958",
+  "title": "The Iliad of Homer: Two Volumes in One",
+  "tts_version": "6.6-initial-51-g87eeca82",
+  "volume": "1",
+  "uploader": "station44.cebu@archive.org",
+  "publicdate": "2024-06-13 08:29:24",
+  "identifier-access": "http://archive.org/details/iliadofhomertwov0001home",
+  "identifier-ark": "ark:/13960/s28czztmfsf",
+  "imagecount": "732",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-jullyann-guisadio@archive.org",
+  "republisher_date": "20240626112456",
+  "republisher_time": "395",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9679",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:iliadofhomertwov0001home:epub:044e8d14-af62-4196-b30f-18f840e36f9f",
+   "urn:lcp:iliadofhomertwov0001home:lcpdf:d6522450-add8-4ad5-99c9-b000038663be",
+   "urn:acs6:iliadofhomertwov0001home:pdf:b305e58e-3233-4102-9590-c9de21250418"
+  ],
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2024-06-27 00:04:32"
+ },
+ "files": [
+  {
+   "name": "iliadofhomertwov0001home.pdf",
+   "format": "Text PDF",
+   "size": "22904654"
+  },
+  {
+   "name": "iliadofhomertwov0001home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "939700"
+  },
+  {
+   "name": "iliadofhomertwov0001home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13277251"
+  },
+  {
+   "name": "iliadofhomertwov0001home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "199048857"
+  },
+  {
+   "name": "iliadofhomertwov0001home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "122545"
+  },
+  {
+   "name": "iliadofhomertwov0001home_scandata.xml",
+   "format": "Scandata",
+   "size": "780024"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "The story of the Iliad",
+  "creator": [
+   "Church, Alfred John, 1829-1912",
+   "Flaxman, John, 1755-1826. illus",
+   "Homer"
+  ],
+  "publisher": "New York, Macmillan and co.",
+  "date": "1891",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item storyofiliad00churrich on July 16, 2007: visible notice of copyright; stated date is 1892.",
+  "copyright-evidence-date": "20070716232754",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-301876",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-301876",
+  "updatedate": "2007-07-16 23:27:56",
+  "updater": "judyjordan",
+  "identifier": "storyofiliad00churrich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-07-16 23:27:58",
+  "publicdate": "2007-07-16 23:28:03",
+  "imagecount": "370",
+  "ppi": "500",
+  "lcamid": "326022",
+  "rcamid": "332127",
+  "camera": "1Ds",
+  "operator": "scanner-dustin-rogers@archive.org",
+  "scanner": "rich4",
+  "scandate": "20070719050903",
+  "identifier-access": "http://www.archive.org/details/storyofiliad00churrich",
+  "identifier-ark": "ark:/13960/t7br8q25f",
+  "bookplateleaf": "4",
+  "curation": "[curator]marcus@archive.org[/curator][date]20070807001601[/date][state]approved[/state]",
+  "sponsordate": "20070731",
+  "filesxml": [
+   "Thu Mar 18 11:12:53 UTC 2010",
+   "Sat Dec 26 8:47:35 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_4",
+  "openlibrary_edition": "OL7091549M",
+  "openlibrary_work": "OL5215811W",
+  "external-identifier": "urn:oclc:record:1085337779",
+  "usl_hit": "auto",
+  "lccn": "04014681",
+  "description": "vii, 314 p. 19 cm",
+  "associated-names": "Flaxman, John, 1755-1826. illus; Homer. Iliad",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "storyofiliad00churrich.pdf",
+   "format": "Text PDF",
+   "size": "16808245"
+  },
+  {
+   "name": "storyofiliad00churrich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "394276"
+  },
+  {
+   "name": "storyofiliad00churrich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5123415"
+  },
+  {
+   "name": "storyofiliad00churrich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "140885315"
+  },
+  {
+   "name": "storyofiliad00churrich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "62413"
+  }
+ ]
+}

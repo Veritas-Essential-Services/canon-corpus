@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "Macmillan",
+  "identifier": "iliadhomerdonei00homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer: Done Into English Prose",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Andrew Lang, Walter Leaf , Ernest Myers",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerdonei00homegoog",
+  "year": "1917",
+  "date": "1917",
+  "scandate": "20080220000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t4xg9tf65",
+  "imagecount": "361",
+  "publicdate": "2008-09-20 13:04:30",
+  "source": "http://books.google.com/books?id=_7kVAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "21494242",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_13",
+  "addeddate": "2008-09-20 13:04:30",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerdonei00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "687783"
+  },
+  {
+   "name": "iliadhomerdonei00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6789831"
+  },
+  {
+   "name": "iliadhomerdonei00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "108383"
+  }
+ ]
+}

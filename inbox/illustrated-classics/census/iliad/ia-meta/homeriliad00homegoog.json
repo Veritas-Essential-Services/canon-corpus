@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "Blackwood",
+  "identifier": "homeriliad00homegoog",
+  "scanner": "google",
+  "title": "Homer: The Iliad",
+  "creator": "William Lucas Collins ,  Homer",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homeriliad00homegoog",
+  "year": "1871",
+  "date": "1871",
+  "scandate": "20070926",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t4dn49f1q",
+  "imagecount": "173",
+  "publicdate": "2008-08-04 21:29:55",
+  "source": "http://books.google.com/books?id=2CEOAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "oclc-id": "9634151",
+  "repub_state": "4",
+  "backup_location": "ia903602_8",
+  "openlibrary_edition": "OL20458283M",
+  "openlibrary_work": "OL15232988W",
+  "addeddate": "2008-08-04 21:29:55",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "homeriliad00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "252925"
+  },
+  {
+   "name": "homeriliad00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2447388"
+  },
+  {
+   "name": "homeriliad00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "51994"
+  }
+ ]
+}

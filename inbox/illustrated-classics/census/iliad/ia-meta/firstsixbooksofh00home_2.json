@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "language": [
+   "grc",
+   "eng",
+   "grc"
+  ],
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1880",
+  "title": "The first six books of Homer's Iliad",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "23",
+  "identifier_bib": "9.91377224403010E+016",
+  "call_number": "PA4020.A15 1880",
+  "publisher": "Chicago : S.C. Griggs",
+  "associated-names": "Boise, James Robinson, 1815-1895",
+  "description": "ix, 127, 125 p., [1] leaves of plates : 20 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:15:45",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "firstsixbooksofh00home_2",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:15:47",
+  "scanner": "scribe5.boston.archive.org",
+  "operator": "associate-cristian-montas@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "276",
+  "scandate": "20200219155828",
+  "ppi": "300",
+  "republisher_operator": "associate-mae-mirafuentes@archive.org;admin-tim-bigelow@archive.org",
+  "republisher_date": "20200220164236",
+  "republisher_time": "221",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/firstsixbooksofh00home_2",
+  "identifier-ark": "ark:/13960/t11p6mp2x",
+  "addeddate": "2020-02-20 23:55:38",
+  "openlibrary_edition": "OL27916478M",
+  "openlibrary_work": "OL20646834W",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "curation": "[curator]admin-tim-bigelow@archive.org[/curator][date]20200224150814[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1156407940",
+  "backup_location": "ia907104_17",
+  "oclc-id": "25397546",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5577",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh00home_2.pdf",
+   "format": "Text PDF",
+   "size": "16637165"
+  },
+  {
+   "name": "firstsixbooksofh00home_2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "791408"
+  },
+  {
+   "name": "firstsixbooksofh00home_2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8706986"
+  },
+  {
+   "name": "firstsixbooksofh00home_2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "124091505"
+  },
+  {
+   "name": "firstsixbooksofh00home_2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "46099"
+  },
+  {
+   "name": "firstsixbooksofh00home_2_scandata.xml",
+   "format": "Scandata",
+   "size": "282435"
+  }
+ ]
+}

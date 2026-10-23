@@ -1,0 +1,84 @@
+{
+ "metadata": {
+  "publisher": "London, Percival",
+  "identifier": "iliadhomertrans00abbogoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "John Purves",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1891",
+  "date": "1891",
+  "scandate": "20071017000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "lvi, 441 pages 23 cm",
+   "With: Homerus Ilias ex recog. G. Dindorfii. Oxonii, 1856"
+  ],
+  "source": "http://books.google.com/books?id=CIEPAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "09705210",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/iliadhomertrans00abbogoog",
+  "identifier-ark": "ark:/13960/t8bg33x5t",
+  "imagecount": "506",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 16:18:11",
+  "backup_location": "ia903603_7",
+  "openlibrary_edition": "OL20468505M",
+  "openlibrary_work": "OL15112564W",
+  "addeddate": "2009-06-09 16:18:11",
+  "usl_hit": "auto",
+  "subject": [
+   "Homer. Iliad",
+   "Iliad (Homer)"
+  ],
+  "associated-names": "Purves, John, 1840-1890, translator; Abbott, Evelyn, 1843-1901, editor",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadhomertrans00abbogoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1115691"
+  },
+  {
+   "name": "iliadhomertrans00abbogoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13804355"
+  },
+  {
+   "name": "iliadhomertrans00abbogoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "93550857"
+  },
+  {
+   "name": "iliadhomertrans00abbogoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "86197"
+  },
+  {
+   "name": "iliadhomertrans00abbogoog_scandata.xml",
+   "format": "Scandata",
+   "size": "167196"
+  },
+  {
+   "name": "iliadhomertrans00abbogoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "27752421"
+  }
+ ]
+}

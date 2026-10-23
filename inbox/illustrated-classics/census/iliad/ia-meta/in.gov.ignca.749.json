@@ -1,0 +1,70 @@
+{
+ "metadata": {
+  "identifier": "in.gov.ignca.749",
+  "collection": [
+   "digitallibraryindia",
+   "JaiGyan"
+  ],
+  "creator": "Murray, Homer; Murray, A. T.",
+  "date": "1925",
+  "description": "Book from the <a href=\"http://www.ignca.nic.in/\" rel=\"ugc nofollow\">Archaeological Survey of India</a><br />Central Archaeological Library, New Delhi<p>Book Number: 749<br />Book Title: Homer the Iliad Vol_2<br />Book Author: Murray, Homer; Murray, A. T.<br />Book Language: English<br />Number of Pages: 668<br />Publisher: William Heinemann; London; 1925<br />Subject: Greek literature; Greek literature fiction; Greek epic prose<br />Source URL: <a href=\"http://asi.nic.in/asi_books/749.pdf\" rel=\"ugc nofollow\">http://asi.nic.in/asi_books/749.pdf</a><br />Year: 1925</p><p></p>",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "scanner": "Internet Archive Python library 1.7.3",
+  "subject": "Archeological Survey;Greek literature; Greek literature fiction; Greek epic prose",
+  "title": "Homer the Iliad Vol_2",
+  "publicdate": "2017-11-05 13:46:59",
+  "uploader": "carl@media.org",
+  "addeddate": "2017-11-05 13:46:59",
+  "identifier-access": "http://archive.org/details/in.gov.ignca.749",
+  "identifier-ark": "ark:/13960/t6j16cp9w",
+  "ppi": "100",
+  "backup_location": "ia906509_27",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.9699",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "749_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1279393"
+  },
+  {
+   "name": "749_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12833790"
+  },
+  {
+   "name": "749_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "37879396"
+  },
+  {
+   "name": "749_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "113635"
+  },
+  {
+   "name": "749_scandata.xml",
+   "format": "Scandata",
+   "size": "220216"
+  },
+  {
+   "name": "749_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "7635404"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer:",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Watson, J. S. (John Selby), 1804-1884",
+   "Flaxman, John, 1755-1826"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "London, G. Bell & sons",
+  "date": "1873",
+  "language": "eng",
+  "lccn": "33032470",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "9226962",
+  "identifier-bib": "00030602122",
+  "repub_state": "4",
+  "updatedate": "2012-09-28 17:58:58",
+  "updater": "associate-caitlin-markey",
+  "identifier": "iliadofh00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-09-28 17:59:01",
+  "publicdate": "2012-09-28 17:59:06",
+  "scanner": "scribe11.capitolhill.archive.org",
+  "repub_seconds": "1120",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-saidah-adams@archive.org",
+  "scandate": "20121004202712",
+  "republisher": "associate-marc-adona@archive.org",
+  "imagecount": "594",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofh00home",
+  "identifier-ark": "ark:/13960/t14n0fg10",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_8",
+  "openlibrary_edition": "OL25460533M",
+  "openlibrary_work": "OL16834534W",
+  "external-identifier": "urn:oclc:record:1046542121",
+  "usl_hit": "auto",
+  "republisher_operator": "associate-marc-adona@archive.org",
+  "republisher_date": "20121005150021",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "94",
+  "description": "xliv, 459 p. 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Watson, J. S. (John Selby), 1804-1884; Flaxman, John, 1755-1826",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofh00home.pdf",
+   "format": "Text PDF",
+   "size": "35532161"
+  },
+  {
+   "name": "iliadofh00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1330711"
+  },
+  {
+   "name": "iliadofh00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16431145"
+  },
+  {
+   "name": "iliadofh00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "267167241"
+  },
+  {
+   "name": "iliadofh00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "101177"
+  },
+  {
+   "name": "iliadofh00home_scandata.xml",
+   "format": "Scandata",
+   "size": "597463"
+  }
+ ]
+}

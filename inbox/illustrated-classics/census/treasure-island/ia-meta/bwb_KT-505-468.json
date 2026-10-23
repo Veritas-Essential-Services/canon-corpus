@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "identifier": "bwb_KT-505-468",
+  "boxid": "IA41428024",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1928",
+  "language": "Eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-2000348",
+  "operator": "associate-rolyn-respondo@archive.org",
+  "page-progression": "lr",
+  "publisher": "London Glasgow Collin's Clear-type Press",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station27.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KT-505-468",
+  "title": "Treasure Island",
+  "tts_version": "6.8-initial-140-g3ea0cfc6",
+  "uploader": "station27.cebu@archive.org",
+  "publicdate": "2024-09-13 16:19:41",
+  "identifier-access": "http://archive.org/details/bwb_KT-505-468",
+  "identifier-ark": "ark:/13960/s2s92dckmkw",
+  "scandate": "20240913175309",
+  "imagecount": "298",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-marycris-avenido@archive.org",
+  "republisher_date": "20240915014118",
+  "republisher_time": "266",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9624",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_KT-505-468:epub:0472160e-22ec-43f0-85b1-35f186d9433a",
+   "urn:lcp:bwb_KT-505-468:lcpdf:bcad3742-81fb-46ee-b7d1-2005dd248220",
+   "urn:acs6:bwb_KT-505-468:pdf:294f12ce-8fdf-43e6-bfa3-e38b877fe94f"
+  ],
+  "page_number_confidence": "92",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2024-09-15 00:02:30",
+  "openlibrary_work": "OL43039287W",
+  "openlibrary_edition": "OL58630291M"
+ },
+ "files": [
+  {
+   "name": "bwb_KT-505-468.pdf",
+   "format": "Text PDF",
+   "size": "11287867"
+  },
+  {
+   "name": "bwb_KT-505-468_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "404680"
+  },
+  {
+   "name": "bwb_KT-505-468_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5679670"
+  },
+  {
+   "name": "bwb_KT-505-468_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "88313669"
+  },
+  {
+   "name": "bwb_KT-505-468_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "49853"
+  },
+  {
+   "name": "bwb_KT-505-468_scandata.xml",
+   "format": "Scandata",
+   "size": "316407"
+  }
+ ]
+}

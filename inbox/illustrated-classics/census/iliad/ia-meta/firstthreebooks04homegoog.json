@@ -1,0 +1,54 @@
+{
+ "metadata": {
+  "google-id": "DyYBAAAAYAAJ",
+  "identifier": "firstthreebooks04homegoog",
+  "scanner": "google",
+  "title": "The first three books of Homer's Iliad: with introduction, commentary and ...",
+  "source": "http://books.google.com/books?id=DyYBAAAAYAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "Ginn &amp; co., 1898",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/firstthreebooks04homegoog",
+  "contributor": "Harvard University",
+  "oclc-id": "223149517",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t65439t8v",
+  "imagecount": "393",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-12-13 11:34:38",
+  "backup_location": "ia903604_19",
+  "addeddate": "2009-12-13 11:34:38",
+  "date": "1898"
+ },
+ "files": [
+  {
+   "name": "firstthreebooks04homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "950168"
+  },
+  {
+   "name": "firstthreebooks04homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8968781"
+  },
+  {
+   "name": "firstthreebooks04homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "456297920"
+  },
+  {
+   "name": "firstthreebooks04homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "118028"
+  }
+ ]
+}

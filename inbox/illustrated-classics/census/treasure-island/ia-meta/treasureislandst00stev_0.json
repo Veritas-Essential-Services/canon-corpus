@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "contributor": "The Library of Congress",
+  "date": "1898",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates",
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Spanish Main -- Fiction"
+  ],
+  "title": "Treasure island. A story of the Spanish main",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "lccn": "41035144",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST006357",
+  "call_number": "6915505",
+  "boxid": "00023123927",
+  "identifier_bib": "00023123927",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+  "publisher": "New York, A. L. Burt company",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2016-09-22 12:41:36",
+  "updatedate": "2016-09-22 13:46:30",
+  "updater": "associate-mike-saelee@archive.org",
+  "identifier": "treasureislandst00stev_0",
+  "uploader": "associate-mike-saelee@archive.org",
+  "addeddate": "2016-09-22 13:46:32",
+  "scanner": "scribe3.capitolhill.archive.org",
+  "operator": "associate-mike-saelee@archive.org",
+  "imagecount": "394",
+  "scandate": "20161013180640",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandst00stev_0",
+  "identifier-ark": "ark:/13960/t2896553z",
+  "scanfee": "100",
+  "invoice": "1263",
+  "sponsordate": "20161031",
+  "backup_location": "ia906207_16",
+  "republisher_operator": "associate-jillian-davis@archive.org",
+  "republisher_date": "20161020095442",
+  "republisher_time": "289",
+  "external-identifier": "urn:oclc:record:1157912887",
+  "usl_hit": "auto",
+  "description": "x p., 1 l., 20 cm",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL26256223M",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislandst00stev_0.pdf",
+   "format": "Text PDF",
+   "size": "126636571"
+  },
+  {
+   "name": "treasureislandst00stev_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "611851"
+  },
+  {
+   "name": "treasureislandst00stev_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7869724"
+  },
+  {
+   "name": "treasureislandst00stev_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "127819512"
+  },
+  {
+   "name": "treasureislandst00stev_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "65999"
+  },
+  {
+   "name": "treasureislandst00stev_0_scandata.xml",
+   "format": "Scandata",
+   "size": "403807"
+  }
+ ]
+}

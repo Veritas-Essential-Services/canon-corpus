@@ -1,0 +1,42 @@
+{
+ "metadata": {
+  "identifier": "robertlouisstev03hamigoog",
+  "scanner": "google",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/robertlouisstev03hamigoog",
+  "year": "1910",
+  "scandate": "20070319",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t52f7xj7n",
+  "imagecount": "297",
+  "publicdate": "2008-09-07 23:23:35",
+  "source": "http://books.google.com/books?id=oIIAAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903602_12",
+  "addeddate": "2008-09-07 23:23:35",
+  "usl_hit": "auto",
+  "associated-names": "Hamilton, Clayton Meeker, 1881-1946; Hamilton, Clayton Meeker, 1881-1946, editor",
+  "foldoutcount": "0",
+  "oclc-id": "48377886",
+  "title": "Treasure island;",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York, Longmans, Green",
+  "date": "1918",
+  "description": "1 volume",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38583482M"
+ },
+ "files": [
+  {
+   "name": "robertlouisstev03hamigoog_scandata.xml",
+   "format": "Scandata",
+   "size": "89203"
+  }
+ ]
+}

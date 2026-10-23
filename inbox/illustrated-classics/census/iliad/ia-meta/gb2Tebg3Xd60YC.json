@@ -1,0 +1,71 @@
+{
+ "metadata": {
+  "publisher": "J. Allyn",
+  "title": "The Iliad of Homer, books I-VI",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Google",
+  "year": "1888",
+  "date": "1897",
+  "oclc-id": "35260129",
+  "identifier": "gb2Tebg3Xd60YC",
+  "copyright-region": "US",
+  "scandate": "20060614000000",
+  "publicdate": "2013-04-08 17:54:15",
+  "source": "http://books.google.com/books?id=2Tebg3Xd60YC&oe=UTF-8",
+  "identifier-access": "http://archive.org/details/gb2Tebg3Xd60YC",
+  "identifier-ark": "ark:/13960/t8kd3fr75",
+  "ppi": "600",
+  "repub_state": "4",
+  "backup_location": "ia905609_6",
+  "addeddate": "2013-04-08 17:54:15",
+  "usl_hit": "auto",
+  "language": "eng",
+  "description": "volumes 20 cm",
+  "imagecount": "481",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9401",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "75.83",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "gb2Tebg3Xd60YC_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "627601"
+  },
+  {
+   "name": "gb2Tebg3Xd60YC_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8392781"
+  },
+  {
+   "name": "gb2Tebg3Xd60YC_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "126708201"
+  },
+  {
+   "name": "gb2Tebg3Xd60YC_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85972"
+  },
+  {
+   "name": "gb2Tebg3Xd60YC_scandata.xml",
+   "format": "Scandata",
+   "size": "157024"
+  },
+  {
+   "name": "gb2Tebg3Xd60YC_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "28343585"
+  }
+ ]
+}

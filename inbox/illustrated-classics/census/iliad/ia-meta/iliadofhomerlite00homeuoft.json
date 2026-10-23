@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, literally translated, with explanatory notes. By Theodore Alois Buckley",
+  "creator": [
+   "Homer",
+   "Buckley, Theodore Alois, 1825-1856"
+  ],
+  "description": "26",
+  "publisher": "London H.G. Bohn",
+  "date": "[1861]",
+  "language": "eng",
+  "copyright-evidence-operator": "Pierre Custodio",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Pierre Custodio for item iliadofhomerlite00homeuoft on May 29, 2008: no visible notice of copyright; stated date is 1861.",
+  "copyright-evidence-date": "20080529131322",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3590",
+  "repub_state": "4",
+  "updatedate": "2008-05-29 13:13:38",
+  "updater": "Pierre Custodio",
+  "identifier": "iliadofhomerlite00homeuoft",
+  "uploader": "pierre@archive.org",
+  "addeddate": "2008-05-29 13:13:45",
+  "publicdate": "2008-05-29 13:13:57",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-sergey-kuchiev@archive.org",
+  "scanner": "scribe22.toronto.archive.org",
+  "scandate": "20080530211431",
+  "imagecount": "484",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerlite00homeuoft",
+  "identifier-ark": "ark:/13960/t44q80f64",
+  "scanfactors": "65",
+  "curatestate": "approved",
+  "sponsordate": "20080531",
+  "curation": "[curator]julie@archive.org[/curator][date]20080603171040[/date][state]approved[/state]",
+  "backup_location": "ia903602_0",
+  "openlibrary_edition": "OL13510714M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697795423",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:57 UTC 2020",
+   "Thu Dec 31 23:19:13 UTC 2020"
+  ],
+  "associated-names": "Buckley, Theodore Alois, 1825-1856",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerlite00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "25543448"
+  },
+  {
+   "name": "iliadofhomerlite00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1261188"
+  },
+  {
+   "name": "iliadofhomerlite00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14645277"
+  },
+  {
+   "name": "iliadofhomerlite00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "167888737"
+  },
+  {
+   "name": "iliadofhomerlite00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "81834"
+  },
+  {
+   "name": "iliadofhomerlite00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "252398"
+  }
+ ]
+}

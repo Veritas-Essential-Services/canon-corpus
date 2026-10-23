@@ -1,0 +1,84 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "Homer's Iliad ",
+  "identifier": "cu31924032171831",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-31 23:13:56",
+  "identifier-access": "http://www.archive.org/details/cu31924032171831",
+  "identifier-ark": "ark:/13960/t6m04pb9n",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+  "lccn": "79305286",
+  "call_number": "PA4025.A2 C5 1887",
+  "camera": "EOS-IDS Mark II",
+  "lcamid": "343636",
+  "rcamid": "340713",
+  "operator": "dgage",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Chapman, George, 1559?-1634",
+   "Motte, Henri, 1846-"
+  ],
+  "publisher": "London ; New York : G. Routledge",
+  "date": "1887",
+  "subject": [
+   "Epic poetry, Greek",
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "language": "eng",
+  "imagecount": "504",
+  "bookplateleaf": "0002",
+  "ocr": "ABBYY FineReader 8.0",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-04 17:38:49",
+  "backup_location": "ia903604_9",
+  "openlibrary_edition": "OL4477537M",
+  "openlibrary_work": "OL16249584W",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "82",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "cu31924032171831.pdf",
+   "format": "Text PDF",
+   "size": "19734183"
+  },
+  {
+   "name": "cu31924032171831_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1092110"
+  },
+  {
+   "name": "cu31924032171831_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13118232"
+  },
+  {
+   "name": "cu31924032171831_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "231239629"
+  },
+  {
+   "name": "cu31924032171831_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85742"
+  },
+  {
+   "name": "cu31924032171831_scandata.xml",
+   "format": "Scandata",
+   "size": "172927"
+  }
+ ]
+}

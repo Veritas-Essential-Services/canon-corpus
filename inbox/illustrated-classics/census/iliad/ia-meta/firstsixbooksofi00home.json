@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The first six books of the Iliad of Homer, literally translated into English prose, with copious explanatory notes, and a preliminary dissertation on his life and writings",
+  "creator": [
+   "Homer",
+   "Cary, Henry, 1804-1870"
+  ],
+  "publisher": "Cambridge : Hall",
+  "date": "1828",
+  "language": "eng",
+  "copyright-evidence-operator": "Alyson-Wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Alyson-Wieczorek for item firstsixbooksofi00home on April 2, 2008: no visible notice of copyright; stated date is 1828.",
+  "copyright-evidence-date": "20080402175405",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-1760839",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760839",
+  "updatedate": "2008-04-02 17:54:35",
+  "updater": "Alyson-Wieczorek",
+  "identifier": "firstsixbooksofi00home",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2008-04-02 17:54:37",
+  "publicdate": "2008-04-02 17:54:45",
+  "imagecount": "250",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-jon-cunningham@archive.org",
+  "scanner": "scribe5.la.archive.org",
+  "scandate": "20080404000433",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksofi00home",
+  "identifier-ark": "ark:/13960/t8x927t78",
+  "bookplateleaf": "0002",
+  "curation": "[curator]julie@archive.org[/curator][date]20080522230919[/date][state]approved[/state]",
+  "sponsordate": "20080430",
+  "filesxml": [
+   "Tue Aug 18 17:11:50 UTC 2009",
+   "Thu Dec 24 7:43:16 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_29",
+  "openlibrary_edition": "OL23299796M",
+  "openlibrary_work": "OL61904W",
+  "external-identifier": "urn:oclc:record:262475787",
+  "usl_hit": "auto",
+  "oclc-id": "14971190",
+  "description": "liv, 176 p",
+  "associated-names": "Cary, Henry, 1804-1870",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofi00home.pdf",
+   "format": "Text PDF",
+   "size": "12856282"
+  },
+  {
+   "name": "firstsixbooksofi00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "521591"
+  },
+  {
+   "name": "firstsixbooksofi00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6023063"
+  },
+  {
+   "name": "firstsixbooksofi00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "81982501"
+  },
+  {
+   "name": "firstsixbooksofi00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "41388"
+  },
+  {
+   "name": "firstsixbooksofi00home_scandata.xml",
+   "format": "Scandata",
+   "size": "132802"
+  }
+ ]
+}

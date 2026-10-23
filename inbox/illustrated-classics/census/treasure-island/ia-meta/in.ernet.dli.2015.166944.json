@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "identifier": "in.ernet.dli.2015.166944",
+  "creator": "Robert Louis Stevenson",
+  "date": "1897",
+  "description": "<p><b>Book Source:</b> <a href=\"http://www.new.dli.ernet.in/handle/2015/166944\" rel=\"ugc nofollow\">Digital Library of India Item 2015.166944</a></p><p>dc.contributor.author: Robert Louis Stevenson<br />dc.date.accessioned: 2015-07-07T00:41:41Z<br />dc.date.available: 2015-07-07T00:41:41Z<br />dc.date.digitalpublicationdate: 2004-07-09<br />dc.date.citation: 1897<br />dc.identifier: RMSC, IIIT-H<br />dc.identifier.barcode: 2999990039053<br />dc.identifier.origpath: /data/upload/0039/058<br />dc.identifier.copyno: 1<br />dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/166944<br />dc.description.numberedpages: 266<br />dc.description.numberedpages: 32<br />dc.description.scanningcentre: RMSC, IIIT-H<br />dc.description.main: 1<br />dc.description.tagged: 0<br />dc.description.totalpages: 298<br />dc.format.mimetype: application/pdf<br />dc.language.iso: English<br />dc.publisher.digitalrepublisher: Universal Digital Library<br />dc.publisher: Charles Scribner’s<br />dc.rights: Public Domain<br />dc.title: Treasure Island<br />dc.rights.holder: Robert Louis Stevenson<br /></p>",
+  "language": "eng",
+  "mediatype": "texts",
+  "scanner": "Internet Archive Python library 1.2.0.dev4",
+  "subject": "RMSC",
+  "title": "Treasure Island",
+  "publicdate": "2017-01-19 21:13:50",
+  "uploader": "carl@media.org",
+  "addeddate": "2017-01-19 21:13:50",
+  "identifier-access": "http://archive.org/details/in.ernet.dli.2015.166944",
+  "identifier-ark": "ark:/13960/t9f53047b",
+  "ppi": "600",
+  "repub_state": "4",
+  "backup_location": "ia906305_6",
+  "collection": [
+   "digitallibraryindia",
+   "JaiGyan"
+  ],
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "2015.166944.Treasure-Island_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "470470"
+  },
+  {
+   "name": "2015.166944.Treasure-Island_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5986250"
+  },
+  {
+   "name": "2015.166944.Treasure-Island_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "226725161"
+  },
+  {
+   "name": "2015.166944.Treasure-Island_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50689"
+  },
+  {
+   "name": "2015.166944.Treasure-Island_scandata.xml",
+   "format": "Scandata",
+   "size": "99249"
+  },
+  {
+   "name": "2015.166944.Treasure-Island_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21188036"
+  }
+ ]
+}

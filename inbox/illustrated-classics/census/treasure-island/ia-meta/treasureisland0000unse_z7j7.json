@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_z7j7",
+  "boxid": "IA41485415",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1925-01-01",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-NS-0000718",
+  "openlibrary_edition": "OL59083586M",
+  "openlibrary_work": "OL43379776W",
+  "operator": "associate-kristyl-bacunador@archive.org",
+  "page-progression": "lr",
+  "publisher": "M. A. Donohue",
+  "rcs_key": "26737",
+  "repub_state": "19",
+  "scandate": "20241116134449",
+  "scanner": "station35.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "UR-866-310",
+  "title": "Treasure Island",
+  "tts_version": "6.9-initial-215-g7f688ebe",
+  "uploader": "station35.cebu@archive.org",
+  "publicdate": "2024-11-05 18:06:08",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_z7j7",
+  "identifier-ark": "ark:/13960/s2srfzg5291",
+  "imagecount": "282",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-teresita-fernandez@archive.org",
+  "republisher_date": "20241117144431",
+  "republisher_time": "251",
+  "foldoutcount": "0",
+  "image_count": "280",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000unse_z7j7:epub:8c1437b8-54e2-4daf-9b90-11768999f44b",
+   "urn:lcp:treasureisland0000unse_z7j7:lcpdf:c3831610-2da4-44e9-b18e-ec542afbc635",
+   "urn:acs6:treasureisland0000unse_z7j7:pdf:e1f679bf-9781-470e-a1cd-e4c906e8425b"
+  ],
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.26",
+  "addeddate": "2025-01-01 15:30:53"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_z7j7.pdf",
+   "format": "Text PDF",
+   "size": "12259892"
+  },
+  {
+   "name": "treasureisland0000unse_z7j7_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "398565"
+  },
+  {
+   "name": "treasureisland0000unse_z7j7_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5636113"
+  },
+  {
+   "name": "treasureisland0000unse_z7j7_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "136940416"
+  },
+  {
+   "name": "treasureisland0000unse_z7j7_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "47297"
+  },
+  {
+   "name": "treasureisland0000unse_z7j7_scandata.xml",
+   "format": "Scandata",
+   "size": "352390"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "google-id": "G-8VAAAAYAAJ",
+  "identifier": "treasureisland14stevgoog",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=G-8VAAAAYAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland14stevgoog",
+  "contributor": "Harvard University",
+  "scandate": "20080222",
+  "copyright-region": "US",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t5gb2qq0t",
+  "imagecount": "271",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2010-01-25 05:52:58",
+  "backup_location": "ia903604_26",
+  "addeddate": "2010-01-25 05:52:58",
+  "usl_hit": "auto",
+  "oclc-id": "1032646936",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York, etc., [The] Macmillan co.",
+  "date": "1919",
+  "description": "Cover: Macmillan's pocket classics",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584594M"
+ },
+ "files": [
+  {
+   "name": "treasureisland14stevgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "223364377"
+  },
+  {
+   "name": "treasureisland14stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "81427"
+  }
+ ]
+}

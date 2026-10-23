@@ -1,0 +1,53 @@
+{
+ "metadata": {
+  "identifier": "iliadhomer00derbgoog",
+  "scanner": "google",
+  "contributor": "University of California",
+  "mediatype": "texts",
+  "translator": "Alexander Pope, Edward Henry Stanley Derby",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1866",
+  "scandate": "20071127",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=0SlHAAAAIAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/iliadhomer00derbgoog",
+  "identifier-ark": "ark:/13960/t2j67w39g",
+  "imagecount": "475",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 15:36:06",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-09 15:36:06",
+  "usl_hit": "auto",
+  "oclc-id": "9860377",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "publisher": "New York, C. Scribner & Co.",
+  "date": "1866",
+  "description": [
+   "2 v. 21 cm",
+   "Vol. 2 is 2nd ed. (1965)"
+  ],
+  "foldoutcount": "0",
+  "volume": "Vol. II",
+  "collection": "americana",
+  "openlibrary_work": "OL36877565W",
+  "openlibrary_edition": "OL20536991M"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00derbgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "167393863"
+  },
+  {
+   "name": "iliadhomer00derbgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "142623"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer rendered into English blank verse",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Derby, Edward Henry Stanley, Earl of, 1826-1893"
+  ],
+  "publisher": "New York : C. Scribner & Co.",
+  "date": "1869",
+  "language": "eng",
+  "copyright-evidence-operator": "Alyson-Wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Alyson-Wieczorek for item iliadofhomerrend02home on April 2, 2008: no visible notice of copyright; stated date is 1869.",
+  "copyright-evidence-date": "20080402154445",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-1760985",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760985",
+  "updatedate": "2008-04-02 15:45:07",
+  "updater": "Alyson-Wieczorek",
+  "identifier": "iliadofhomerrend02home",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2008-04-02 15:45:09",
+  "publicdate": "2008-04-02 15:45:13",
+  "imagecount": "480",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-steven-drew@archive.org",
+  "scanner": "scribe6.la.archive.org",
+  "scandate": "20080402224738",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerrend02home",
+  "identifier-ark": "ark:/13960/t43r0wv9q",
+  "bookplateleaf": "0005",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20080405003944[/date][state]approved[/state]",
+  "sponsordate": "20080430",
+  "filesxml": [
+   "Wed May 28 3:45:47 UTC 2008",
+   "Tue Aug 18 18:00:49 UTC 2009",
+   "Thu Dec 24 17:34:57 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_29",
+  "external-identifier": [
+   "urn:oclc:record:1046532852",
+   "urn:lcp:iliadofhomerrend02home:epub:5c4fef8b-cedb-4e60-87b6-870a391e2c4c"
+  ],
+  "usl_hit": "auto",
+  "oclc-id": "16118658",
+  "description": [
+   "2 v. 19 cm",
+   "First English edition, 1864"
+  ],
+  "associated-names": "Derby, Edward Henry Stanley, Earl of, 1826-1893",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerrend02home.pdf",
+   "format": "Text PDF",
+   "size": "18031515"
+  },
+  {
+   "name": "iliadofhomerrend02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "543729"
+  },
+  {
+   "name": "iliadofhomerrend02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6705460"
+  },
+  {
+   "name": "iliadofhomerrend02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "106347144"
+  },
+  {
+   "name": "iliadofhomerrend02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "81164"
+  },
+  {
+   "name": "iliadofhomerrend02home_scandata.xml",
+   "format": "Scandata",
+   "size": "249237"
+  }
+ ]
+}

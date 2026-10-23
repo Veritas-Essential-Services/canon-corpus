@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1885",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "37",
+  "identifier_bib": "9.91150368600010E+016",
+  "call_number": "PA4025.A2 W3",
+  "publisher": "London, Sampson, Low, Marston, Searle & Rivington",
+  "associated-names": "Way, Arthur S. (Arthur Sanders), 1847-1930, tr",
+  "description": "162 p. 21 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:16:47",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "iliadofhomer00home_0",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:16:49",
+  "scanner": "scribe1.boston.archive.org",
+  "operator": "associate-felix-colonjr@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "180",
+  "scandate": "20200213221353",
+  "ppi": "300",
+  "republisher_operator": "associate-melanie-zapata@archive.org",
+  "republisher_date": "20200215131546",
+  "republisher_time": "828",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer00home_0",
+  "identifier-ark": "ark:/13960/t2t526q3m",
+  "addeddate": "2020-02-15 06:30:30",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL27914170M",
+  "openlibrary_work": "OL20440551W",
+  "curation": "[curator]associate-rozelda-lacoss@archive.org[/curator][date]20200219185623[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1157160569",
+  "usl_hit": "auto",
+  "backup_location": "ia907104_17",
+  "oclc-id": "14169195",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "92",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00home_0.pdf",
+   "format": "Text PDF",
+   "size": "7626010"
+  },
+  {
+   "name": "iliadofhomer00home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "328518"
+  },
+  {
+   "name": "iliadofhomer00home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4052140"
+  },
+  {
+   "name": "iliadofhomer00home_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "82307665"
+  },
+  {
+   "name": "iliadofhomer00home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "30097"
+  },
+  {
+   "name": "iliadofhomer00home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "184322"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "metadata": {
+  "identifier": "keytoiliadofhome00home",
+  "title": "Key to the Iliad of Homer. For the use of schools ..",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "date": "1872",
+  "year": "1872",
+  "subject": "Achilles (Greek mythology)",
+  "publicdate": "2011-11-09 16:21:37",
+  "addeddate": "2011-11-09 16:21:33",
+  "uploader": "christina.b@archive.org",
+  "updater": [
+   "ChristinaB",
+   "SheliaDeRoche"
+  ],
+  "updatedate": [
+   "2011-11-09 16:21:31",
+   "2011-11-22 20:37:07"
+  ],
+  "contributor": "The Library of Congress",
+  "publisher": "Philadelphia, Claxton, Remsen & Haffelfinger",
+  "language": [
+   "eng",
+   "grc",
+   "lat",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "shiptracking": "LC043",
+  "call_number": "10061883",
+  "identifier-bib": "00030601063",
+  "repub_state": "4",
+  "scanner": "scribe4.capitolhill.archive.org",
+  "repub_seconds": "4754",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-alexandra-blum@archive.org",
+  "scandate": "20111123212501",
+  "imagecount": "366",
+  "identifier-access": "http://www.archive.org/details/keytoiliadofhome00home",
+  "identifier-ark": "ark:/13960/t06x0c88z",
+  "curation": "[curator]shelia@archive.org[/curator][date]20111128193509[/date][state]approved[/state][comment]199[/comment]",
+  "foldoutcount": "0",
+  "scanfee": "100",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL25098052M",
+  "openlibrary_work": "OL16266893W",
+  "external-identifier": "urn:oclc:record:1047456365",
+  "lccn": "tmp92004673",
+  "usl_hit": "auto",
+  "description": "346 p. 23 cm",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng+lat",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9058",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "keytoiliadofhome00home.pdf",
+   "format": "Text PDF",
+   "size": "27162344"
+  },
+  {
+   "name": "keytoiliadofhome00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "714662"
+  },
+  {
+   "name": "keytoiliadofhome00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8761892"
+  },
+  {
+   "name": "keytoiliadofhome00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "185920785"
+  },
+  {
+   "name": "keytoiliadofhome00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "61633"
+  },
+  {
+   "name": "keytoiliadofhome00home_scandata.xml",
+   "format": "Scandata",
+   "size": "367377"
+  }
+ ]
+}

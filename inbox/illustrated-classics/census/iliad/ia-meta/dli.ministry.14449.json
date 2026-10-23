@@ -1,0 +1,105 @@
+{
+ "metadata": {
+  "identifier": "dli.ministry.14449",
+  "collection": [
+   "digitallibraryindia",
+   "JaiGyan"
+  ],
+  "creator": [
+   "Homer",
+   "Pope, Alexander"
+  ],
+  "date": "1853",
+  "identifier-bib": [
+   "Accession: E05806:E05808",
+   "Library: Salar Jung Museum, Hyderabad"
+  ],
+  "language": "eng",
+  "mediatype": "texts",
+  "publisher": "Ingram Cooke, London",
+  "scanner": "Internet Archive Python library 1.9.9",
+  "subject": [
+   "Language.Linguistics.Literature:Literature",
+   "MinistryOfCulture"
+  ],
+  "title": "Iliad of homer",
+  "uploader": "carl@media.org",
+  "publicdate": "2021-03-05 19:11:40",
+  "addeddate": "2021-03-05 19:11:40",
+  "original-source": "http://indianculture.gov.in/iliad-homer-1",
+  "identifier-access": "http://archive.org/details/dli.ministry.14449",
+  "identifier-ark": "ark:/13960/t6941bf99",
+  "ppi": "600",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.12",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9908",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95.97",
+  "pdf_module_version": "0.0.10"
+ },
+ "files": [
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "583522"
+  },
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7926722"
+  },
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "256877621"
+  },
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "63995"
+  },
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_scandata.xml",
+   "format": "Scandata",
+   "size": "116941"
+  },
+  {
+   "name": "E05806_Iliad_Of_Homer_Vol2_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21567446"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "630335"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8497690"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "266149734"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "66470"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_scandata.xml",
+   "format": "Scandata",
+   "size": "123378"
+  },
+  {
+   "name": "E05808_Iliad_Of_Homer_Vol1_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21745781"
+  }
+ ]
+}

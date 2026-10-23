@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "J. Murray",
+  "identifier": "iliadhomerrende00derbgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, Rendered Into English Blank Verse",
+  "creator": "Homer,  Edward George Geoffrey Smith Stanley Derby",
+  "contributor": "Oxford University",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "translator": "Edward George G.S. Stanley , Edward George Geoffrey Smith Stanley Derby",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1865",
+  "date": "1865",
+  "scandate": "20060411",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=uZNwsXPhMRcC&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomerrende00derbgoog",
+  "identifier-ark": "ark:/13960/t3223773j",
+  "imagecount": "445",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-10 19:16:31",
+  "repub_state": "4",
+  "backup_location": "ia903602_27",
+  "addeddate": "2009-02-10 19:16:31",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerrende00derbgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "453089"
+  },
+  {
+   "name": "iliadhomerrende00derbgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4633431"
+  },
+  {
+   "name": "iliadhomerrende00derbgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "133579"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "scanningcenter": "il",
+  "sponsor": "University of Illinois Urbana-Champaign Alternates",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "date": "1885",
+  "title": "The first six books of Homer's Iliad : with explanatory notes, and references to the grammars of Goodwin and Hadley",
+  "creator": [
+   "Homer",
+   "Boise, James Robinson, 1815-1895"
+  ],
+  "collection": [
+   "university_of_illinois_urbana-champaign",
+   "americana"
+  ],
+  "shiptracking": "ST007396",
+  "call_number": "881 H8I.BO1885",
+  "barcode": "30112115501170",
+  "copyright_statement": "In public domain. Work published prior to 1923.",
+  "local_id": "2113221",
+  "publisher": "Chicago : S.C. Griggs",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2017-05-18 12:21:29",
+  "updatedate": "2017-05-18 13:27:22",
+  "updater": "associate-lauretta-doellman@archive.org",
+  "identifier": "firstsixbooksofh00home_0",
+  "uploader": "lauretta@archive.org",
+  "addeddate": "2017-05-18 13:27:24",
+  "scanner": "scribe1.il.archive.org",
+  "notes": "No table of contents.",
+  "foldout_seconds": "457",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-anna-doolittle-barger@archive.org",
+  "scandate": "20170601163811",
+  "foldout-operator": "associate-john-macmullen@archive.org",
+  "republisher": "associate-karen-hoffman@archive.org",
+  "republisher_operator": "associate-karen-hoffman@archive.org",
+  "republisher_date": "20170602122237",
+  "imagecount": "282",
+  "foldoutcount": "1",
+  "identifier-access": "http://archive.org/details/firstsixbooksofh00home_0",
+  "identifier-ark": "ark:/13960/t9188rj52",
+  "bookplateleaf": "0008",
+  "scanfee": "100",
+  "invoice": "1112",
+  "sponsordate": "20170531",
+  "external-identifier": "urn:oclc:record:1045577727",
+  "backup_location": "ia906404_9",
+  "oclc-id": "17236755",
+  "description": "132 p. ; 20 cm",
+  "associated-names": "Boise, James Robinson, 1815-1895",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5515",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh00home_0.pdf",
+   "format": "Text PDF",
+   "size": "24260132"
+  },
+  {
+   "name": "firstsixbooksofh00home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "813066"
+  },
+  {
+   "name": "firstsixbooksofh00home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9023565"
+  },
+  {
+   "name": "firstsixbooksofh00home_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "152504019"
+  },
+  {
+   "name": "firstsixbooksofh00home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "47201"
+  },
+  {
+   "name": "firstsixbooksofh00home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "367227"
+  }
+ ]
+}

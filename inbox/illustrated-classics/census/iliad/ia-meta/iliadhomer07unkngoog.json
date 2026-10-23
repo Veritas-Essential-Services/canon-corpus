@@ -1,0 +1,75 @@
+{
+ "metadata": {
+  "google-id": "5yQBAAAAYAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer, books I-III;",
+  "source": "http://books.google.com/books?id=5yQBAAAAYAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer07unkngoog",
+  "oclc-id": "8523860",
+  "identifier": "iliadhomer07unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "1 volume (various pagings) 19 cm",
+   "Text in Greek"
+  ],
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "identifier-ark": "ark:/13960/t2q52z62k",
+  "imagecount": "390",
+  "ppi": "600",
+  "publicdate": "2009-03-09 08:10:21",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 08:10:21",
+  "usl_hit": "auto",
+  "publisher": "Boston, Chicago, Allyn and Bacon",
+  "date": "1883",
+  "associated-names": "Keep, Robert Porter, 1844-1904, editor",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8809",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "85.35",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomer07unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1023990"
+  },
+  {
+   "name": "iliadhomer07unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11634634"
+  },
+  {
+   "name": "iliadhomer07unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "75798"
+  },
+  {
+   "name": "iliadhomer07unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "136744"
+  },
+  {
+   "name": "iliadhomer07unkngoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21296609"
+  }
+ ]
+}

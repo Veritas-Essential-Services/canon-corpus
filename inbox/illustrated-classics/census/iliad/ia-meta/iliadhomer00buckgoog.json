@@ -1,0 +1,54 @@
+{
+ "metadata": {
+  "publisher": "Harper & Brothers",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  Theodore Alois Buckley",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1873",
+  "date": "1873",
+  "oclc-id": "71389969",
+  "identifier": "iliadhomer00buckgoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=89DNVnZcgz8C&oe=UTF-8",
+  "uploader": "tpb",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomer00buckgoog",
+  "identifier-ark": "ark:/13960/t9x06kf4q",
+  "imagecount": "486",
+  "ppi": "150",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 08:51:29",
+  "backup_location": "ia903603_19",
+  "addeddate": "2009-07-27 08:51:29",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00buckgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1088455"
+  },
+  {
+   "name": "iliadhomer00buckgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9657567"
+  },
+  {
+   "name": "iliadhomer00buckgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "41839508"
+  },
+  {
+   "name": "iliadhomer00buckgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "144953"
+  }
+ ]
+}

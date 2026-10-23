@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "publisher": "Hartford : S. Andrus",
+  "identifier": "translationilia00homegoog",
+  "scanner": "google",
+  "title": "Translation of the Iliad of Homer",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/translationilia00homegoog",
+  "year": "1849",
+  "date": "1848",
+  "oclc-id": "4454840",
+  "scandate": "20060613",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "544 pages ; 20 cm",
+   "\"With Gay's 'Welcome from Greece, ' addressed to Pope, on his having finished the Iliad.\""
+  ],
+  "identifier-ark": "ark:/13960/t2h70kk9d",
+  "imagecount": "557",
+  "publicdate": "2008-08-10 06:25:51",
+  "source": "http://books.google.com/books?id=UOH3SURAv2AC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903602_8",
+  "openlibrary_edition": "OL16800961M",
+  "openlibrary_work": "OL415420W",
+  "addeddate": "2008-08-10 06:25:51",
+  "usl_hit": "auto",
+  "subject": [
+   "Achilles (Mythological character)",
+   "Trojan War -- Poetry",
+   "Achilles (Greek mythology) -- Poetry"
+  ],
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "62",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "translationilia00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1145006"
+  },
+  {
+   "name": "translationilia00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13452445"
+  },
+  {
+   "name": "translationilia00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "95872"
+  },
+  {
+   "name": "translationilia00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "184471"
+  },
+  {
+   "name": "translationilia00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "17459083"
+  }
+ ]
+}

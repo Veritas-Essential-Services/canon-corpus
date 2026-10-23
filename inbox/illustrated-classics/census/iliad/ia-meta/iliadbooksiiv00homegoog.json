@@ -1,0 +1,70 @@
+{
+ "metadata": {
+  "identifier": "iliadbooksiiv00homegoog",
+  "scanner": "google",
+  "title": "Iliad, books I.-IV",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1856",
+  "date": "1856",
+  "scandate": "20060614000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "pages 12mo"
+  ],
+  "source": "http://books.google.com/books?id=mPLEX8bpMdwC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "80948709",
+  "identifier-access": "http://www.archive.org/details/iliadbooksiiv00homegoog",
+  "identifier-ark": "ark:/13960/t3cz3k26n",
+  "imagecount": "393",
+  "ppi": "600",
+  "publicdate": "2009-03-09 09:07:03",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 09:07:03",
+  "publisher": "London",
+  "language": "eng",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7007",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.62",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadbooksiiv00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "894777"
+  },
+  {
+   "name": "iliadbooksiiv00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11816726"
+  },
+  {
+   "name": "iliadbooksiiv00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "78851"
+  },
+  {
+   "name": "iliadbooksiiv00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "139018"
+  },
+  {
+   "name": "iliadbooksiiv00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "20974563"
+  }
+ ]
+}

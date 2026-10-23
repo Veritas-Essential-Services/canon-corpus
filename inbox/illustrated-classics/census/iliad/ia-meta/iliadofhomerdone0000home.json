@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomerdone0000home",
+  "boxid": "IA1371022",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection_set": "trent",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1892",
+  "description": "vii, 506 p. ; 19 cm",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA13893",
+  "openlibrary_edition": "OL26573046M",
+  "openlibrary_work": "OL17988579W",
+  "operator": "associate-jonalyn-templado@archive.org",
+  "ppi": "300",
+  "publisher": "London : Macmillan",
+  "repub_state": "19",
+  "scanner": "station07.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "trent",
+  "scribe3_search_id": "0116402398931",
+  "title": "The Iliad of Homer : done into English prose",
+  "tts_version": "2.1-final-6-g58a4a27",
+  "uploader": "station07.cebu@archive.org",
+  "addeddate": "2019-07-20 14:51:44",
+  "publicdate": "2019-07-20 14:51:57",
+  "imagecount": "522",
+  "scandate": "20190720164416",
+  "republisher_operator": "associate-criselyn-alicoben@archive.org",
+  "republisher_date": "20190723085600",
+  "republisher_time": "327",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomerdone0000home",
+  "identifier-ark": "ark:/13960/t9c61d33w",
+  "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+  "external-identifier": [
+   "urn:acs6:iliadofhomerdone0000home:epub:08fd99b6-2924-462b-906f-86024a5ba191",
+   "urn:acs6:iliadofhomerdone0000home:pdf:66e06ba3-1528-47e6-802d-5eb0ab184057",
+   "urn:oclc:record:1157158143"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20190731",
+  "collection": [
+   "trent_university",
+   "internetarchivebooks"
+  ],
+  "backup_location": "ia906907_27",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerdone0000home.pdf",
+   "format": "Text PDF",
+   "size": "17205444"
+  },
+  {
+   "name": "iliadofhomerdone0000home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1102657"
+  },
+  {
+   "name": "iliadofhomerdone0000home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13419807"
+  },
+  {
+   "name": "iliadofhomerdone0000home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "200211869"
+  },
+  {
+   "name": "iliadofhomerdone0000home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "87894"
+  },
+  {
+   "name": "iliadofhomerdone0000home_scandata.xml",
+   "format": "Scandata",
+   "size": "533668"
+  }
+ ]
+}

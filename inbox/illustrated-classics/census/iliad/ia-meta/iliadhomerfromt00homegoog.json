@@ -1,0 +1,71 @@
+{
+ "metadata": {
+  "publisher": "Hilliard, Gray, and Co.",
+  "identifier": "iliadhomerfromt00homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer: From the Text of Wolf. With English Notes",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerfromt00homegoog",
+  "year": "1833",
+  "date": "1833",
+  "oclc-id": "77252656",
+  "scandate": "20061213000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6445vp1r",
+  "imagecount": "652",
+  "publicdate": "2008-08-24 10:20:21",
+  "source": "http://books.google.com/books?id=-3ciAAAAMAAJ&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "French",
+   "grc"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_10",
+  "addeddate": "2008-08-24 10:20:21",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.3719",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "60.84",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerfromt00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1145179"
+  },
+  {
+   "name": "iliadhomerfromt00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14718100"
+  },
+  {
+   "name": "iliadhomerfromt00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "117316"
+  },
+  {
+   "name": "iliadhomerfromt00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "204965"
+  },
+  {
+   "name": "iliadhomerfromt00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "27623610"
+  }
+ ]
+}

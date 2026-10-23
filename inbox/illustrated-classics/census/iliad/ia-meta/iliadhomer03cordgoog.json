@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "Rivington",
+  "identifier": "iliadhomer03cordgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer.",
+  "creator": "Homer,  John Graham Cordery",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer03cordgoog",
+  "year": "1871",
+  "date": "1871",
+  "oclc-id": "71389969",
+  "scandate": "20061003",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t5n87cn2h",
+  "imagecount": "367",
+  "publicdate": "2008-07-02 02:11:17",
+  "source": "http://books.google.com/books?id=fZcZAAAAMAAJ&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_4",
+  "addeddate": "2008-07-02 02:11:17",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer03cordgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "442753"
+  },
+  {
+   "name": "iliadhomer03cordgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4517537"
+  },
+  {
+   "name": "iliadhomer03cordgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "110198"
+  }
+ ]
+}

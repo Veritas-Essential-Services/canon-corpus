@@ -1,0 +1,56 @@
+{
+ "metadata": {
+  "google-id": "JINBAAAAIAAJ",
+  "scanner": "google",
+  "title": "The Iliad and Odyssey",
+  "source": "http://books.google.com/books?id=JINBAAAAIAAJ&oe=UTF-8",
+  "notes": "Bound in red marble paper boards with red leather spine stamped in gold; top edge, gold.\n\n",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadandodyssey00unkngoog",
+  "oclc-id": "2208687",
+  "identifier": "iliadandodyssey00unkngoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "contributor": "University of California",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t75t4118s",
+  "imagecount": "351",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-04-26 14:59:01",
+  "creator": "Homer,  John Flaxman,  William Sotheby",
+  "repub_state": "4",
+  "backup_location": "ia903603_1",
+  "addeddate": "2009-04-26 14:59:01",
+  "usl_hit": "auto",
+  "volume": "4",
+  "date": "1834",
+  "publisher": "G. and W. Nicol, Pall Mall : J. Murray, Albemarle Street"
+ },
+ "files": [
+  {
+   "name": "iliadandodyssey00unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "324318"
+  },
+  {
+   "name": "iliadandodyssey00unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3466293"
+  },
+  {
+   "name": "iliadandodyssey00unkngoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "165998556"
+  },
+  {
+   "name": "iliadandodyssey00unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "105428"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer;",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Derby, Edward George Geoffrey Smith Stanley, Earl of, 1799-1869"
+  ],
+  "description": [
+   "Vol. 1. The Iliad, Bks. I-XIV.- Vol. 2. The Iliad, Bks. XV-XXIV; Translations from: Anacreon; Horace; Catullus; Bishop Lowth; The Marquis of Wellesley; Millevoye; Metastasio; Filicaia; Manzoni; Schiller",
+   "26"
+  ],
+  "publisher": "London, Murray",
+  "date": "1867",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0760",
+  "repub_state": "4",
+  "updatedate": "2010-07-06 17:52:26",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadofhome02home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-06 17:52:28",
+  "publicdate": "2010-07-06 17:52:34",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-liam-boland@archive.org",
+  "scanner": "scribe1.toronto.archive.org",
+  "scandate": "20100707054049",
+  "imagecount": "368",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhome02home",
+  "identifier-ark": "ark:/13960/t4qj84t3t",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100804001648[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "openlibrary_edition": "OL24348437M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:848612486",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:52 UTC 2020",
+  "associated-names": "Derby, Edward George Geoffrey Smith Stanley, Earl of, 1799-1869",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "99",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhome02home.pdf",
+   "format": "Text PDF",
+   "size": "15455249"
+  },
+  {
+   "name": "iliadofhome02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "474884"
+  },
+  {
+   "name": "iliadofhome02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6521398"
+  },
+  {
+   "name": "iliadofhome02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "84694577"
+  },
+  {
+   "name": "iliadofhome02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "61442"
+  },
+  {
+   "name": "iliadofhome02home_scandata.xml",
+   "format": "Scandata",
+   "size": "195904"
+  }
+ ]
+}

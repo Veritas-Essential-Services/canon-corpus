@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "title": "The Iliad",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Buckley, Theodore Alois, 1825-1856"
+  ],
+  "description": "26",
+  "publisher": "New York T.Y. Crowell",
+  "date": "[19--?]",
+  "language": "eng",
+  "copyright-evidence-operator": "Pierre Custodio",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Pierre Custodio for item iliadpope00homeuoft on May 29, 2008: no visible notice of copyright; exact publication date unknown.",
+  "copyright-evidence-date": "20080529130625",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAO-5231",
+  "repub_state": "4",
+  "updatedate": "2008-05-29 13:06:44",
+  "updater": "Pierre Custodio",
+  "identifier": "iliadpope00homeuoft",
+  "uploader": "pierre@archive.org",
+  "addeddate": "2008-05-29 13:06:51",
+  "publicdate": "2008-05-29 13:06:56",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-a-richmond@archive.org",
+  "scanner": "scribe21.toronto.archive.org",
+  "scandate": "20080530154206",
+  "imagecount": "518",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadpope00homeuoft",
+  "identifier-ark": "ark:/13960/t0dv1n354",
+  "scanfactors": "167",
+  "curatestate": "approved",
+  "sponsordate": "20080531",
+  "curation": "[curator]julie@archive.org[/curator][date]20080603171040[/date][state]approved[/state]",
+  "backup_location": "ia903602_0",
+  "openlibrary_edition": "OL13510720M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697795427",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:57 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "90",
+  "associated-names": "Pope, Alexander, 1688-1744; Buckley, Theodore Alois, 1825-1856",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadpope00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "20254973"
+  },
+  {
+   "name": "iliadpope00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1314657"
+  },
+  {
+   "name": "iliadpope00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15377081"
+  },
+  {
+   "name": "iliadpope00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "113262678"
+  },
+  {
+   "name": "iliadpope00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "87679"
+  },
+  {
+   "name": "iliadpope00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "272923"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Buckley, Theodore Alois, 1825-1856"
+  ],
+  "publisher": "New York : A.L. Burt",
+  "date": "[1902]",
+  "language": "eng",
+  "copyright-evidence-operator": "Alyson-Wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Alyson-Wieczorek for item theiliadofhomer00home on April 2, 2008: no visible notice of copyright; exact publication date unknown.",
+  "copyright-evidence-date": "20080402174939",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-1760969",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760969",
+  "updatedate": "2008-04-02 17:50:00",
+  "updater": "Alyson-Wieczorek",
+  "identifier": "theiliadofhomer00home",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2008-04-02 17:50:02",
+  "publicdate": "2008-04-02 17:50:08",
+  "imagecount": "566",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-may-sample@archive.org",
+  "scanner": "scribe8",
+  "scandate": "20080402230001",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/theiliadofhomer00home",
+  "identifier-ark": "ark:/13960/t3cz3840x",
+  "bookplateleaf": "0002",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20080405003944[/date][state]approved[/state]",
+  "sponsordate": "20080430",
+  "filesxml": [
+   "Wed May 28 3:45:41 UTC 2008",
+   "Wed Aug 19 4:05:37 UTC 2009",
+   "Sat Dec 26 11:33:45 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_29",
+  "openlibrary_edition": "OL22895148M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": [
+   "urn:oclc:record:1085616609",
+   "urn:lcp:theiliadofhomer00home:epub:0300d429-a77c-4447-abe7-29fba94c0241"
+  ],
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "oclc-id": "11945341",
+  "description": "548 p. : 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Buckley, Theodore Alois, 1825-1856",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "theiliadofhomer00home.pdf",
+   "format": "Text PDF",
+   "size": "28362189"
+  },
+  {
+   "name": "theiliadofhomer00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1317493"
+  },
+  {
+   "name": "theiliadofhomer00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15242030"
+  },
+  {
+   "name": "theiliadofhomer00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "173611050"
+  },
+  {
+   "name": "theiliadofhomer00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "95815"
+  },
+  {
+   "name": "theiliadofhomer00home_scandata.xml",
+   "format": "Scandata",
+   "size": "294596"
+  }
+ ]
+}

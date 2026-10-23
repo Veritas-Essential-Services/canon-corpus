@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "publisher": "Boston, Ginn & Company",
+  "identifier": "firstthreebooks02homegoog",
+  "scanner": "google",
+  "title": "The first three books of Homer's Iliad, with introduction, commentary, and vocabulary, for the use of schools",
+  "creator": [
+   "Homer",
+   "Seymour, Thomas D. (Thomas Day), 1848-1907"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1896",
+  "date": "1903",
+  "oclc-id": "24289433",
+  "scandate": "20070412000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "\"Bibliographical note\": p. lxxxv",
+   "Vocabulary to the first six books of the Iliad: 138 p. at end"
+  ],
+  "source": "http://books.google.com/books?id=9SUBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/firstthreebooks02homegoog",
+  "identifier-ark": "ark:/13960/t6n01k62d",
+  "imagecount": "392",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-06-07 12:42:54",
+  "lccn": "03029821",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-07 12:42:54",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7381",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "foldoutcount": "0",
+  "page_number_module_version": "1.0.5",
+  "external-identifier": "urn:lcp:firstthreebooks02homegoog:epub:6d44a283-05eb-4336-8403-fcf24e1cdfcf",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "firstthreebooks02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1119951"
+  },
+  {
+   "name": "firstthreebooks02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12892801"
+  },
+  {
+   "name": "firstthreebooks02homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "82802232"
+  },
+  {
+   "name": "firstthreebooks02homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "65935"
+  },
+  {
+   "name": "firstthreebooks02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "129084"
+  },
+  {
+   "name": "firstthreebooks02homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "24376266"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The Iliad;",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Wakefield, Gilbert, 1756-1801"
+  ],
+  "description": "26",
+  "publisher": "London, Rivington",
+  "date": "1817",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0840",
+  "repub_state": "4",
+  "updatedate": "2010-07-06 18:13:21",
+  "updater": "lexw@archive.org",
+  "identifier": "theiliadofhomer02home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-06 18:13:24",
+  "publicdate": "2010-07-06 18:13:37",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-august-bourre@archive.org",
+  "scanner": "scribe3.toronto.archive.org",
+  "scandate": "20100707022348",
+  "imagecount": "500",
+  "foldoutcount": "2",
+  "identifier-access": "http://www.archive.org/details/theiliadofhomer02home",
+  "identifier-ark": "ark:/13960/t0wq0ps6k",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100728010445[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "external-identifier": "urn:oclc:record:848551769",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 11:33:45 UTC 2020",
+  "page_number_confidence": "98",
+  "associated-names": "Pope, Alexander, 1688-1744; Wakefield, Gilbert, 1756-1801",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9487",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "theiliadofhomer02home.pdf",
+   "format": "Text PDF",
+   "size": "30685495"
+  },
+  {
+   "name": "theiliadofhomer02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "778391"
+  },
+  {
+   "name": "theiliadofhomer02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10761204"
+  },
+  {
+   "name": "theiliadofhomer02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "215401591"
+  },
+  {
+   "name": "theiliadofhomer02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "83719"
+  },
+  {
+   "name": "theiliadofhomer02home_scandata.xml",
+   "format": "Scandata",
+   "size": "262427"
+  }
+ ]
+}

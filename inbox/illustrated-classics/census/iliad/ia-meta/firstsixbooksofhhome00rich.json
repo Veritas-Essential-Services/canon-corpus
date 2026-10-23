@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "The first six books of Homer's Iliad",
+  "creator": [
+   "Homer",
+   "Seymour, Thomas D. (Thomas Day), 1848-1907"
+  ],
+  "description": "\"Bibliographical note\": p. lxxxv",
+  "publisher": "Boston : Ginn",
+  "date": "1903",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "MarkGraves",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by MarkGraves for item firstsixbooksofhhome00rich on July 28, 2008: no visible notice of copyright; stated date is 1898.",
+  "copyright-evidence-date": "20080728215434",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-168233256",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-168233256",
+  "repub_state": "-1",
+  "updatedate": "2008-07-28 21:54:36",
+  "updater": "MarkGraves",
+  "identifier": "firstsixbooksofhhome00rich",
+  "uploader": "markg@archive.org",
+  "addeddate": "2008-07-28 21:54:31",
+  "publicdate": "2008-07-28 21:54:37",
+  "ppi": "500",
+  "lcamid": "332906",
+  "rcamid": "324758",
+  "camera": "1Ds",
+  "operator": "scanner-kevin-narine@archive.org",
+  "scanner": "rich2",
+  "scandate": "20080731183939",
+  "imagecount": "490",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksofhhome00rich",
+  "identifier-ark": "ark:/13960/t2s46td9s",
+  "scanfactors": "0",
+  "curation": "[curator]paul.n@archive.org[/curator][date]20091201181909[/date][state]approved[/state][comment]199[/comment]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_7",
+  "external-identifier": "urn:oclc:record:1045534181",
+  "filesxml": [
+   "Thu Dec 24 7:43:16 UTC 2020",
+   "Thu Dec 31 22:35:34 UTC 2020"
+  ],
+  "oclc-id": "757237",
+  "associated-names": "Seymour, Thomas D. (Thomas Day), 1848-1907",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofhhome00rich.pdf",
+   "format": "Text PDF",
+   "size": "32808668"
+  },
+  {
+   "name": "firstsixbooksofhhome00rich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1499304"
+  },
+  {
+   "name": "firstsixbooksofhhome00rich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15106753"
+  },
+  {
+   "name": "firstsixbooksofhhome00rich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "439728574"
+  },
+  {
+   "name": "firstsixbooksofhhome00rich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "82258"
+  }
+ ]
+}

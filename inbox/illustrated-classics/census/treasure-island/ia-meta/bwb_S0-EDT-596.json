@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "bwb_S0-EDT-596",
+  "boxid": "IA41765227",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1924",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1200592",
+  "operator": "associate-ruel-eldian@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station39.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "S0-EDT-596",
+  "title": "Treasure Island",
+  "tts_version": "7.1-initial-80-gde0bfa46",
+  "uploader": "station39.cebu@archive.org",
+  "publicdate": "2025-11-13 19:11:38",
+  "identifier-access": "http://archive.org/details/bwb_S0-EDT-596",
+  "identifier-ark": "ark:/13960/s2s21twcfdj",
+  "scandate": "20251113212409",
+  "imagecount": "342",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mavanessa-cando@archive.org",
+  "republisher_date": "20251115013515",
+  "republisher_time": "455",
+  "foldoutcount": "0",
+  "image_count": "340",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9702",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_S0-EDT-596:epub:f3012b61-7401-43d2-91a1-da2745405ff7",
+   "urn:lcp:bwb_S0-EDT-596:lcpdf:1dccc9f8-98a2-4d4b-959a-2e5f760c25f6"
+  ],
+  "addeddate": "2025-11-15 00:07:36"
+ },
+ "files": [
+  {
+   "name": "bwb_S0-EDT-596.pdf",
+   "format": "Text PDF",
+   "size": "17608579"
+  },
+  {
+   "name": "bwb_S0-EDT-596_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "407611"
+  },
+  {
+   "name": "bwb_S0-EDT-596_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5731027"
+  },
+  {
+   "name": "bwb_S0-EDT-596_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "175608388"
+  },
+  {
+   "name": "bwb_S0-EDT-596_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "57141"
+  },
+  {
+   "name": "bwb_S0-EDT-596_scandata.xml",
+   "format": "Scandata",
+   "size": "408820"
+  }
+ ]
+}

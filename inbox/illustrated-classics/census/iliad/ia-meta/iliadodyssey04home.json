@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "title": "The Iliad and Odyssey;",
+  "volume": "4",
+  "creator": [
+   "Homer",
+   "Homer. Odyssey.English",
+   "Sotheby, William, 1757-1833"
+  ],
+  "description": "26",
+  "publisher": "London, Nicol",
+  "date": "1833",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0810",
+  "repub_state": "4",
+  "updatedate": "2010-07-06 18:42:08",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadodyssey04home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-06 18:42:10",
+  "publicdate": "2010-07-06 18:42:14",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-rosalie-villanueva@archive.org",
+  "scanner": "scribe15.toronto.archive.org",
+  "scandate": "20100707050315",
+  "imagecount": "330",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadodyssey04home",
+  "identifier-ark": "ark:/13960/t1jh48r6s",
+  "bookplateleaf": "0005",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100804001648[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "external-identifier": "urn:oclc:record:848551745",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:47 UTC 2020",
+  "associated-names": "Homer. Odyssey.English; Sotheby, William, 1757-1833",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9842",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadodyssey04home.pdf",
+   "format": "Text PDF",
+   "size": "12052080"
+  },
+  {
+   "name": "iliadodyssey04home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "325717"
+  },
+  {
+   "name": "iliadodyssey04home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4519924"
+  },
+  {
+   "name": "iliadodyssey04home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "74316342"
+  },
+  {
+   "name": "iliadodyssey04home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54899"
+  },
+  {
+   "name": "iliadodyssey04home_scandata.xml",
+   "format": "Scandata",
+   "size": "171827"
+  }
+ ]
+}

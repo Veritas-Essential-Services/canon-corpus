@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "identifier": "selectionsfromho0000home",
+  "associated-names": "Benner, Allen Rogers",
+  "boxid": "IA1251005",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": [
+   "trent_university",
+   "internetarchivebooks"
+  ],
+  "collection_set": "trent",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1903",
+  "description": [
+   "xxxvi, 522 p. : 20 cm. --",
+   "\"A brief selected bibliography\" :p. xxxiv-xxxvi"
+  ],
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "lccn": "03015261",
+  "mediatype": "texts",
+  "old_pallet": "IA13498",
+  "openlibrary_edition": "OL21062677M",
+  "openlibrary_work": "OL61981W",
+  "operator": "associate-jeneil-colonia@archive.org",
+  "ppi": "300",
+  "publisher": "New York : Appleton-Century-Crofts",
+  "repub_state": "19",
+  "scanner": "station03.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "trent",
+  "scribe3_search_id": "0116302326388",
+  "title": "Selections from Homer's Iliad",
+  "tts_version": "2.1-final-6-g58a4a27",
+  "uploader": "station03.cebu@archive.org",
+  "addeddate": "2019-06-10 09:45:26",
+  "publicdate": "2019-06-10 09:45:52",
+  "imagecount": "590",
+  "scandate": "20190610143620",
+  "sent_to_scribe": "station03.cebu.archive.org",
+  "republisher_operator": "associate-jannel-pelayre@archive.org",
+  "republisher_date": "20190613191241",
+  "republisher_time": "1093",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/selectionsfromho0000home",
+  "identifier-ark": "ark:/13960/t27b1vz3p",
+  "bookplateleaf": "0004",
+  "external-identifier": [
+   "urn:acs6:selectionsfromho0000home:epub:efa86288-9c1a-45ec-8bbc-830ef58801d6",
+   "urn:acs6:selectionsfromho0000home:pdf:53a006ca-d6f4-4e79-9e6c-8742e26bf0b6",
+   "urn:oclc:record:1157189160"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20190630",
+  "backup_location": "ia906905_13",
+  "page_number_confidence": "80",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7696",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "selectionsfromho0000home.pdf",
+   "format": "Text PDF",
+   "size": "29116702"
+  },
+  {
+   "name": "selectionsfromho0000home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2057973"
+  },
+  {
+   "name": "selectionsfromho0000home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "18053755"
+  },
+  {
+   "name": "selectionsfromho0000home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "216855218"
+  },
+  {
+   "name": "selectionsfromho0000home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "100619"
+  },
+  {
+   "name": "selectionsfromho0000home_scandata.xml",
+   "format": "Scandata",
+   "size": "604704"
+  }
+ ]
+}

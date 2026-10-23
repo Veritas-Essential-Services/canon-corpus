@@ -1,0 +1,87 @@
+{
+ "metadata": {
+  "identifier": "bwb_S0-EBV-812",
+  "boxid": "IA41732725",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1916",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1200577",
+  "operator": "associate-raquel-tonacao@archive.org",
+  "page-progression": "lr",
+  "publisher": "Rand McNally & Company",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250915131410",
+  "scanner": "station47.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "S0-EBV-812",
+  "title": "Treasure Island",
+  "tts_version": "6.12-initial-133-g70b4a4ad",
+  "uploader": "station47.cebu@archive.org",
+  "publicdate": "2025-09-15 11:00:15",
+  "identifier-access": "http://archive.org/details/bwb_S0-EBV-812",
+  "identifier-ark": "ark:/13960/s26zhvxbs8w",
+  "imagecount": "292",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-teresita-fernandez@archive.org",
+  "republisher_date": "20250916120959",
+  "republisher_time": "143",
+  "foldoutcount": "0",
+  "image_count": "290",
+  "bookplateleaf": "0007",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9116",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_S0-EBV-812:epub:ec34a271-f9fa-4e5f-ab2f-af0a1917b7a1",
+   "urn:lcp:bwb_S0-EBV-812:lcpdf:52179f9a-fc9f-4a80-b0a8-50b627a17ba0"
+  ],
+  "addeddate": "2025-09-17 00:17:08"
+ },
+ "files": [
+  {
+   "name": "bwb_S0-EBV-812.pdf",
+   "format": "Text PDF",
+   "size": "15023740"
+  },
+  {
+   "name": "bwb_S0-EBV-812_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "389606"
+  },
+  {
+   "name": "bwb_S0-EBV-812_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5544349"
+  },
+  {
+   "name": "bwb_S0-EBV-812_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "137056138"
+  },
+  {
+   "name": "bwb_S0-EBV-812_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "48859"
+  },
+  {
+   "name": "bwb_S0-EBV-812_scandata.xml",
+   "format": "Scandata",
+   "size": "348990"
+  }
+ ]
+}

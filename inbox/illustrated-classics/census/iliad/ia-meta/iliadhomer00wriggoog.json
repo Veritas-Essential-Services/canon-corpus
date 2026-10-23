@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "Deighton, Bell & Co.",
+  "identifier": "iliadhomer00wriggoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  Henry Smith Wright",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer00wriggoog",
+  "year": "1885",
+  "date": "1885",
+  "oclc-id": "11450419",
+  "scandate": "20060614000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6639v497",
+  "imagecount": "93",
+  "publicdate": "2008-06-03 01:49:21",
+  "source": "http://books.google.com/books?id=4Io7dEvWkGUC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_1",
+  "openlibrary_edition": "OL20592748M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2008-06-03 01:49:21",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00wriggoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "184418"
+  },
+  {
+   "name": "iliadhomer00wriggoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1801695"
+  },
+  {
+   "name": "iliadhomer00wriggoog_scandata.xml",
+   "format": "Scandata",
+   "size": "28011"
+  }
+ ]
+}

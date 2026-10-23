@@ -1,0 +1,60 @@
+{
+ "metadata": {
+  "publisher": "New York, London [etc.] Longmans, Green and co.",
+  "identifier": "popesiliadhomer02homegoog",
+  "scanner": "google",
+  "title": "Pope's The Iliad of Homer, books I, VI, XXII, and XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr",
+   "Maxwell, William Henry, 1852-1920",
+   "Chubb, Percival, 1860-1960"
+  ],
+  "contributor": "University of Michigan",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1896",
+  "date": "1896",
+  "oclc-id": "3603335",
+  "scandate": "20071008",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "source": "http://books.google.com/books?id=FdlLAAAAMAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/popesiliadhomer02homegoog",
+  "identifier-ark": "ark:/13960/t3rv0vr5p",
+  "imagecount": "230",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-03 13:37:14",
+  "repub_state": "4",
+  "lccn": "13012230",
+  "foldoutcount": "0",
+  "backup_location": "ia903602_26",
+  "addeddate": "2009-02-03 13:37:14",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "popesiliadhomer02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "403869"
+  },
+  {
+   "name": "popesiliadhomer02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3925038"
+  },
+  {
+   "name": "popesiliadhomer02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "69089"
+  }
+ ]
+}

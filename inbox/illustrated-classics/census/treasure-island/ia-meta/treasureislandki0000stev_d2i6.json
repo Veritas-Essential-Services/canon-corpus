@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "identifier": "treasureislandki0000stev_d2i6",
+  "associated-names": "Stevenson, Robert Louis, 1850-1894. Kidnapped",
+  "boxid": "IA1991819",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "date": "1900",
+  "description": [
+   "391 pages ; 24 cm",
+   "Treasure Island -- Kidnapped"
+  ],
+  "isbn": [
+   "0840768877",
+   "9780840768872"
+  ],
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA19699",
+  "operator": "associate-christyll-aton@archive.org",
+  "ppi": "300",
+  "publisher": "[Place of publication not identified] : Thomas Nelson",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station52.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "isbn",
+  "scribe3_search_id": "0840768877",
+  "subject": [
+   "Islands -- Fiction",
+   "Adventure and adventurers -- Juvenile fiction"
+  ],
+  "title": "Treasure Island ; Kidnapped",
+  "tts_version": "4.1-initial-7-g3c9b7b2b",
+  "uploader": "station52.cebu@archive.org",
+  "publicdate": "2020-10-30 02:54:07",
+  "imagecount": "418",
+  "scandate": "20201030042024",
+  "republisher_operator": "associate-rheamae-tayasan@archive.org",
+  "republisher_date": "20201103084949",
+  "republisher_time": "486",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandki0000stev_d2i6",
+  "identifier-ark": "ark:/13960/t45r4hs5g",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.5",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "90",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "external-identifier": [
+   "urn:acs6:treasureislandki0000stev_d2i6:pdf:36d4a4e5-810f-4f0a-9bbb-8dc80e6162db",
+   "urn:oclc:record:1435501064"
+  ],
+  "sponsordate": "20201231",
+  "addeddate": "2021-01-14 00:41:05",
+  "pdf_module_version": "0.0.6",
+  "openlibrary_edition": "OL32363404M",
+  "openlibrary_work": "OL24434247W",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureislandki0000stev_d2i6.pdf",
+   "format": "Text PDF",
+   "size": "24859887"
+  },
+  {
+   "name": "treasureislandki0000stev_d2i6_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "827286"
+  },
+  {
+   "name": "treasureislandki0000stev_d2i6_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11819820"
+  },
+  {
+   "name": "treasureislandki0000stev_d2i6_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "190040947"
+  },
+  {
+   "name": "treasureislandki0000stev_d2i6_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "69681"
+  },
+  {
+   "name": "treasureislandki0000stev_d2i6_scandata.xml",
+   "format": "Scandata",
+   "size": "224879"
+  }
+ ]
+}

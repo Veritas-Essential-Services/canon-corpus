@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "scanningcenter": "valencia",
+  "sponsor": "Getty Research Institute",
+  "contributor": "Getty Research Institute",
+  "date": "1894",
+  "subject": "Homer",
+  "title": "Homer, Iliad : books I-XII, with an introduction, a brief Homeric grammar, and notes",
+  "creator": [
+   "Homer",
+   "Monro, D. B. (David Binning), 1836-1905"
+  ],
+  "collection": [
+   "getty",
+   "americana"
+  ],
+  "shiptracking": "ST001797",
+  "call_number": "9924015320001551",
+  "publisher": "Oxford : Clarendon Press",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2014-06-20 19:04:15",
+  "updatedate": "2014-06-20 20:02:16",
+  "updater": "associate-ted-hornick@archive.org",
+  "identifier": "homeriliadbooksi00home",
+  "uploader": "associate-ted-hornick@archive.org",
+  "addeddate": "2014-06-20 20:02:18.346129",
+  "scanner": "scribe1.valencia.archive.org",
+  "notes": "-no copyright page found.",
+  "foldout_seconds": "195",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-ted-hornick@archive.org",
+  "scandate": "20140625154114",
+  "foldout-operator": "associate-ted-hornick@archive.org",
+  "republisher": "associate-ted-hornick@archive.org",
+  "imagecount": "492",
+  "foldoutcount": "1",
+  "identifier-access": "http://archive.org/details/homeriliadbooksi00home",
+  "identifier-ark": "ark:/13960/t45q7mq3n",
+  "scanfee": "100",
+  "invoice": "101",
+  "sponsordate": "20140630",
+  "backup_location": "ia905809_14",
+  "openlibrary_edition": "OL25610874M",
+  "openlibrary_work": "OL17041521W",
+  "external-identifier": "urn:oclc:record:1046525994",
+  "oclc-id": "77631164",
+  "associated-names": "Monro, D. B. (David Binning), 1836-1905",
+  "republisher_operator": "associate-ted-hornick@archive.org",
+  "republisher_date": "20140625184942",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5312",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homeriliadbooksi00home.pdf",
+   "format": "Text PDF",
+   "size": "37805411"
+  },
+  {
+   "name": "homeriliadbooksi00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1387413"
+  },
+  {
+   "name": "homeriliadbooksi00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14583288"
+  },
+  {
+   "name": "homeriliadbooksi00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "223898990"
+  },
+  {
+   "name": "homeriliadbooksi00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "82774"
+  },
+  {
+   "name": "homeriliadbooksi00home_scandata.xml",
+   "format": "Scandata",
+   "size": "642501"
+  }
+ ]
+}

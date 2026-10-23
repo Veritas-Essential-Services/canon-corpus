@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "treasislandyork00stev",
+  "title": "Treasure island",
+  "creator": [
+   "Stevenson, Robert Louis",
+   "Sheila Thibodeau Lambrinos Collection - York University"
+  ],
+  "mediatype": "texts",
+  "date": "[188?]",
+  "publicdate": "2010-04-21 15:51:01",
+  "addeddate": "2010-04-21 15:50:54",
+  "uploader": "andrea@archive.org",
+  "updater": [
+   "andrea@archive.org",
+   "andrea@archive.org"
+  ],
+  "updatedate": [
+   "2010-04-21 15:50:52",
+   "2010-04-23 13:15:13"
+  ],
+  "contributor": "ASC - York University Libraries",
+  "publisher": "New York : McLoughlin Bros.",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "York University Libraries",
+  "scanningcenter": "uoft",
+  "call_number": "YORK SC-SPCOLL STL493",
+  "repub_state": "4",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-gabriel-areay@archive.org",
+  "scanner": "scribe23.toronto.archive.org",
+  "scandate": "20100422043732",
+  "imagecount": "206",
+  "identifier-access": "http://www.archive.org/details/treasislandyork00stev",
+  "identifier-ark": "ark:/13960/t2891vx2q",
+  "bookplateleaf": "0005",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100423193816[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20100430",
+  "collection": [
+   "YorkUniversity",
+   "toronto"
+  ],
+  "backup_location": "ia903605_10",
+  "openlibrary_edition": "OL24195201M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157970132",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 13:48:45 UTC 2020",
+  "description": "192 p. :",
+  "associated-names": "Sheila Thibodeau Lambrinos Collection - York University",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "87",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasislandyork00stev.pdf",
+   "format": "Text PDF",
+   "size": "11101339"
+  },
+  {
+   "name": "treasislandyork00stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "414912"
+  },
+  {
+   "name": "treasislandyork00stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5138919"
+  },
+  {
+   "name": "treasislandyork00stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "76129984"
+  },
+  {
+   "name": "treasislandyork00stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "34592"
+  },
+  {
+   "name": "treasislandyork00stev_scandata.xml",
+   "format": "Scandata",
+   "size": "110920"
+  }
+ ]
+}

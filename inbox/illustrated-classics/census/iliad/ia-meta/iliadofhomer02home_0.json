@@ -1,0 +1,106 @@
+{
+ "metadata": {
+  "language": [
+   "grc",
+   "eng",
+   "grc"
+  ],
+  "scanningcenter": "il",
+  "sponsor": "University of Illinois Urbana-Champaign Alternates",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "date": "1884",
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Paley, F. A. (Frederick Apthorp), 1815-1888"
+  ],
+  "collection": [
+   "university_of_illinois_urbana-champaign",
+   "americana"
+  ],
+  "shiptracking": "ST007225",
+  "call_number": "881 H8I.PAL1884",
+  "barcode": "30112073489616",
+  "volume": "v.2",
+  "local_id": "3677012",
+  "publisher": "London : Whittaker & Co. : Geo. Bell and Sons",
+  "description": [
+   "Text in Greek; notes in English",
+   "Includes bibliographical references and indexes"
+  ],
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2017-04-11 16:26:52",
+  "updatedate": "2017-04-11 17:36:06",
+  "updater": "associate-lauretta-doellman@archive.org",
+  "identifier": "iliadofhomer02home_0",
+  "uploader": "associate-lauretta-doellman@archive.org",
+  "addeddate": "2017-04-11 17:36:08",
+  "scanner": "scribe4.il.archive.org",
+  "notes": "No copyright page or table of contents.",
+  "repub_seconds": "5216",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-karen-hoffman@archive.org",
+  "scandate": "20170420190933",
+  "republisher": "associate-karen-hoffman@archive.org",
+  "republisher_operator": "associate-lauretta-doellman@archive.org;associate-karen-hoffman@archive.org",
+  "republisher_date": "20170421154550",
+  "imagecount": "602",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer02home_0",
+  "identifier-ark": "ark:/13960/t24b8dr1c",
+  "bookplateleaf": "0004",
+  "scanfee": "100",
+  "invoice": "1112",
+  "sponsordate": "20170430",
+  "external-identifier": "urn:oclc:record:1046542962",
+  "backup_location": "ia906402_1",
+  "usl_hit": "auto",
+  "page_number_confidence": "99",
+  "oclc-id": "16150750",
+  "associated-names": "Paley, F. A. (Frederick Apthorp), 1815-1888",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9938",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer02home_0.pdf",
+   "format": "Text PDF",
+   "size": "57232938"
+  },
+  {
+   "name": "iliadofhomer02home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2314066"
+  },
+  {
+   "name": "iliadofhomer02home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "26031126"
+  },
+  {
+   "name": "iliadofhomer02home_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "358405740"
+  },
+  {
+   "name": "iliadofhomer02home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "101951"
+  },
+  {
+   "name": "iliadofhomer02home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "786034"
+  }
+ ]
+}

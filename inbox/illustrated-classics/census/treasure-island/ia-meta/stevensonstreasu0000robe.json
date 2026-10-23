@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "identifier": "stevensonstreasu0000robe",
+  "boxid": "IA41273421",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1908",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "notes": "cut off text on some pages due text runs to the gutter",
+  "old_pallet": "IA-CB-0000184",
+  "openlibrary_edition": "OL49811886M",
+  "openlibrary_work": "OL36877161W",
+  "operator": "associate-jonathan-gabito@archive.org",
+  "page-progression": "lr",
+  "publisher": "The Macmillan Company",
+  "rcs_key": "26737",
+  "repub_state": "19",
+  "scandate": "20240325145254",
+  "scanner": "station12.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "O9-BJK-564",
+  "title": "Stevenson's Treasure Island (Macmillan's Pocket Classics)",
+  "tts_version": "6.6-initial-51-g87eeca82",
+  "uploader": "station12.cebu@archive.org",
+  "publicdate": "2024-03-25 13:49:03",
+  "identifier-access": "http://archive.org/details/stevensonstreasu0000robe",
+  "identifier-ark": "ark:/13960/s2g9tdchtp7",
+  "imagecount": "282",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+  "republisher_date": "20240330094658",
+  "republisher_time": "559",
+  "foldoutcount": "0",
+  "bookplateleaf": "0009",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9827",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:stevensonstreasu0000robe:epub:9b5c7f31-c13a-437c-b29b-c77e997bed5c",
+   "urn:lcp:stevensonstreasu0000robe:lcpdf:70b0f4d9-6445-4533-bb79-120a22e53881",
+   "urn:acs6:stevensonstreasu0000robe:pdf:b21ba712-9a5a-44c5-8aac-bc7512f086a9"
+  ],
+  "page_number_confidence": "93",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23",
+  "addeddate": "2024-03-31 00:08:22"
+ },
+ "files": [
+  {
+   "name": "stevensonstreasu0000robe.pdf",
+   "format": "Text PDF",
+   "size": "9655051"
+  },
+  {
+   "name": "stevensonstreasu0000robe_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "455381"
+  },
+  {
+   "name": "stevensonstreasu0000robe_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6370035"
+  },
+  {
+   "name": "stevensonstreasu0000robe_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "70796378"
+  },
+  {
+   "name": "stevensonstreasu0000robe_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "47249"
+  },
+  {
+   "name": "stevensonstreasu0000robe_scandata.xml",
+   "format": "Scandata",
+   "size": "298128"
+  }
+ ]
+}

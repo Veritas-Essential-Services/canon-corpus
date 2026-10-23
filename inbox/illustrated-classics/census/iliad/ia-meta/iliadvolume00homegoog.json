@@ -1,0 +1,82 @@
+{
+ "metadata": {
+  "google-id": "NqNfAAAAMAAJ",
+  "identifier": "iliadvolume00homegoog",
+  "scanner": "google",
+  "title": "The Iliad; ed., with apparatus criticus, prolegomena, notes, and appendices",
+  "source": "http://books.google.com/books?id=NqNfAAAAMAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Leaf, Walter, 1852-1927, ed"
+  ],
+  "publisher": "London, Macmillan and co., limited; New York, The Macmillan company",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadvolume00homegoog",
+  "contributor": "University of Michigan",
+  "oclc-id": "2920977",
+  "scandate": "20080415",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "lccn": "04015413",
+  "date": "1900",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t6252787d",
+  "imagecount": "782",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-12-19 04:14:14",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-19 04:14:14",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "page_number_confidence": "91.42",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8659",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadvolume00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3160034"
+  },
+  {
+   "name": "iliadvolume00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "36759196"
+  },
+  {
+   "name": "iliadvolume00homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "1137236246"
+  },
+  {
+   "name": "iliadvolume00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "159200"
+  },
+  {
+   "name": "iliadvolume00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "259610"
+  },
+  {
+   "name": "iliadvolume00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "62868390"
+  }
+ ]
+}

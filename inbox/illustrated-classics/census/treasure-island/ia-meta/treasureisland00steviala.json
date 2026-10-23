@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : C. Scribner's Sons",
+  "date": "1911",
+  "language": "eng",
+  "copyright-evidence-operator": "alyson-wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by alyson-wieczorek for item treasureisland00steviala on November 30, 2006: visible notice of copyright; stated date is 1911.",
+  "copyright-evidence-date": "20061130193110",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "iala",
+  "mediatype": "texts",
+  "call_number": "srlf_ucla:LAGE-3115811",
+  "collection-library": "srlf_ucla",
+  "identifier-bib": "LAGE-3115811",
+  "identifier-access": "http://www.archive.org/details/treasureisland00steviala",
+  "updatedate": "2006-11-30 19:31:42",
+  "identifier": "treasureisland00steviala",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2006-11-30 19:31:44",
+  "publicdate": "2006-11-30 11:32:11",
+  "imagecount": "348",
+  "ppi": "500",
+  "lcamid": "1020705138",
+  "rcamid": "1020707449",
+  "camera": "5D",
+  "operator": "scanner-jon-cortez@archive.org",
+  "scanner": "iala3",
+  "scandate": "20061205050706",
+  "identifier-ark": "ark:/13960/t7dr2qg8m",
+  "curation": "[curator]marcus@archive.org[/curator][date]20070103205312[/date][state]approved[/state]",
+  "sponsordate": "20061231",
+  "filesxml": [
+   "Thu Mar 18 12:24:48 UTC 2010",
+   "Sat Dec 26 13:49:26 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_26",
+  "openlibrary_edition": "OL7130221M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157995295",
+  "usl_hit": "auto",
+  "lccn": "11025047",
+  "oclc-id": "361881",
+  "description": [
+   "xiv, 273 p. 24 cm",
+   "Illus. t.-p. and end-papers in colors"
+  ],
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00steviala.pdf",
+   "format": "Text PDF",
+   "size": "14183574"
+  },
+  {
+   "name": "treasureisland00steviala_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "452027"
+  },
+  {
+   "name": "treasureisland00steviala_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5733609"
+  },
+  {
+   "name": "treasureisland00steviala_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "188341160"
+  },
+  {
+   "name": "treasureisland00steviala_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "58533"
+  }
+ ]
+}

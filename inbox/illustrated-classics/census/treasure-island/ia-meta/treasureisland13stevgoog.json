@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "publisher": "New York, C. Scribner's Sons",
+  "identifier": "treasureisland13stevgoog",
+  "scanner": "google",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "contributor": "University of Michigan",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland13stevgoog",
+  "year": "1905",
+  "date": "1905",
+  "scandate": "20070926",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t53f50n9b",
+  "imagecount": "373",
+  "publicdate": "2008-10-09 11:18:34",
+  "source": "http://books.google.com/books?id=V55KAAAAMAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "4278370",
+  "lccn": "05016630",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure-trove",
+   "Pirates"
+  ],
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903602_15",
+  "openlibrary_edition": "OL38583488M",
+  "openlibrary_work": "OL24034W",
+  "addeddate": "2008-10-09 11:18:34",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "treasureisland13stevgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "490063"
+  },
+  {
+   "name": "treasureisland13stevgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6320517"
+  },
+  {
+   "name": "treasureisland13stevgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "63549"
+  },
+  {
+   "name": "treasureisland13stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "123235"
+  },
+  {
+   "name": "treasureisland13stevgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "12727503"
+  }
+ ]
+}

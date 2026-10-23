@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomerfirs00home",
+  "title": "The Iliad of Homer, the first three books : faithfully translated into English hexameters, according to the style and manner of the original",
+  "creator": "Homer. Iliad",
+  "mediatype": "texts",
+  "date": "1861",
+  "year": "1861",
+  "publicdate": "2008-10-24 03:31:04",
+  "addeddate": "2008-10-24 03:30:59",
+  "uploader": "tomworkman@archive.org",
+  "updater": [
+   "tomworkman",
+   "tomworkman",
+   "tomworkman"
+  ],
+  "updatedate": [
+   "2008-10-24 03:30:57",
+   "2008-10-24 03:36:27",
+   "2008-10-24 03:38:18"
+  ],
+  "contributor": "University of California Libraries",
+  "publisher": "London : Rivingtons",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Internet Archive",
+  "scanningcenter": "la",
+  "call_number": "SRLF_UCLA:LAGE-1760891",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-1760891",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerfirs00home",
+  "identifier-ark": "ark:/13960/t7dr3400t",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-phan-su@archive.org",
+  "scanner": "scribe10.la.archive.org",
+  "scandate": "20081024205852",
+  "imagecount": "80",
+  "foldoutcount": "0",
+  "scanfactors": "1",
+  "repub_state": "4",
+  "curation": "[curator]tomworkman@archive.org[/curator][date]20081028030253[/date][state]approved[/state]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_17",
+  "openlibrary_edition": "OL20423549M",
+  "openlibrary_work": "OL415316W",
+  "external-identifier": "urn:oclc:record:1046567395",
+  "usl_hit": "auto",
+  "filesxml": [
+   "Thu Dec 24 17:34:57 UTC 2020",
+   "Thu Dec 31 23:19:12 UTC 2020"
+  ],
+  "description": "62 p",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerfirs00home.pdf",
+   "format": "Text PDF",
+   "size": "2914600"
+  },
+  {
+   "name": "iliadofhomerfirs00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "130746"
+  },
+  {
+   "name": "iliadofhomerfirs00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1608838"
+  },
+  {
+   "name": "iliadofhomerfirs00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "19505052"
+  },
+  {
+   "name": "iliadofhomerfirs00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "12955"
+  },
+  {
+   "name": "iliadofhomerfirs00home_scandata.xml",
+   "format": "Scandata",
+   "size": "42395"
+  }
+ ]
+}

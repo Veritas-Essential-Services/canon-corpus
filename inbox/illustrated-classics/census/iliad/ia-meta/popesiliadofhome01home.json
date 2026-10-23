@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "Pope's The Iliad of Homer, books I, VI, XXII, and XXIV;",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Shorey, Paul, 1857-1934"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "Boston, D. C. Heath & co.",
+  "date": "1899",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "8189712",
+  "identifier-bib": "00030601452",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:25:21",
+  "updater": "ChristinaB",
+  "identifier": "popesiliadofhome01home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:25:23",
+  "publicdate": "2011-11-09 16:25:26",
+  "scanner": "scribe8.capitolhill.archive.org",
+  "repub_seconds": "984",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-mang-pau@archive.org",
+  "scandate": "20111122171401",
+  "imagecount": "202",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popesiliadofhome01home",
+  "identifier-ark": "ark:/13960/t4th9hv67",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "120",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL25098055M",
+  "openlibrary_work": "OL16266901W",
+  "external-identifier": "urn:oclc:record:1050763477",
+  "usl_hit": "auto",
+  "lccn": "00001117",
+  "description": "xxxi, 142 p. 17 cm",
+  "associated-names": "Pope, Alexander, 1688-1744; Shorey, Paul, 1857-1934",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "87",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popesiliadofhome01home.pdf",
+   "format": "Text PDF",
+   "size": "12907264"
+  },
+  {
+   "name": "popesiliadofhome01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "323818"
+  },
+  {
+   "name": "popesiliadofhome01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4001387"
+  },
+  {
+   "name": "popesiliadofhome01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "125911232"
+  },
+  {
+   "name": "popesiliadofhome01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "34013"
+  },
+  {
+   "name": "popesiliadofhome01home_scandata.xml",
+   "format": "Scandata",
+   "size": "200708"
+  }
+ ]
+}

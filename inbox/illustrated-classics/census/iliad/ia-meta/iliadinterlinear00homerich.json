@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "The first six books of Homer's Iliad, the original text reduced to the natural English order, with a literal interlinear translation",
+  "creator": "Homer",
+  "publisher": "New York, Hinds, Noble & Eldredge",
+  "date": "c1896",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item iliadinterlinear00homerich on December 6, 2007: visible notice of copyright; stated date is 1896.",
+  "copyright-evidence-date": "20071206213256",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17142232",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17142232",
+  "updatedate": "2007-12-06 21:33:04",
+  "updater": "judyjordan",
+  "identifier": "iliadinterlinear00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-12-06 21:33:06",
+  "publicdate": "2007-12-06 21:33:39",
+  "imagecount": "390",
+  "ppi": "500",
+  "lcamid": "332434",
+  "rcamid": "332236",
+  "camera": "1Ds",
+  "operator": "scanner-johanna-martinez@archive.org",
+  "scanner": "rich9",
+  "scandate": "20071207065624",
+  "identifier-access": "http://www.archive.org/details/iliadinterlinear00homerich",
+  "identifier-ark": "ark:/13960/t7vm46d7f",
+  "bookplateleaf": "0005",
+  "sponsordate": "20071231",
+  "curation": "[curator]marcus@archive.org[/curator][date]20080105212245[/date][state]approved[/state]",
+  "filesxml": [
+   "Thu Mar 18 2:08:37 UTC 2010",
+   "Thu Dec 24 17:34:48 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_16",
+  "openlibrary_edition": "OL14014145M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046531969",
+  "oclc-id": "11223842",
+  "description": "365 p",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9849",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadinterlinear00homerich.pdf",
+   "format": "Text PDF",
+   "size": "21062751"
+  },
+  {
+   "name": "iliadinterlinear00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "517292"
+  },
+  {
+   "name": "iliadinterlinear00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7110526"
+  },
+  {
+   "name": "iliadinterlinear00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "143571521"
+  },
+  {
+   "name": "iliadinterlinear00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "64847"
+  }
+ ]
+}

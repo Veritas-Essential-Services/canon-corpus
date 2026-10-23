@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "The first six books of Homer's Iliad",
+  "creator": [
+   "Homer",
+   "Seymour, Thomas Day, 1848-1907, ed"
+  ],
+  "publisher": "Boston, Ginn & co.",
+  "date": "1901",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item firstsixbooksofh00homerich on May 1, 2007: visible notice of copyright; stated date is 1903.",
+  "copyright-evidence-date": "20070501183618",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-268085",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-268085",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksofh00homerich",
+  "updatedate": "2007-05-01 18:36:20",
+  "updater": "judyjordan",
+  "identifier": "firstsixbooksofh00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-05-01 18:36:22",
+  "publicdate": "2007-05-01 18:36:30",
+  "imagecount": "594",
+  "ppi": "500",
+  "lcamid": "333388",
+  "rcamid": "332236",
+  "camera": "1Ds",
+  "operator": "scanner-aidan-oflynn@archive.org",
+  "scanner": "rich8",
+  "scandate": "20070502051212",
+  "identifier-ark": "ark:/13960/t2p55g85z",
+  "bookplateleaf": "0005",
+  "curation": "[curator]marcus@archive.org[/curator][date]20070605202333[/date][state]approved[/state]",
+  "sponsordate": "20070531",
+  "filesxml": [
+   "Wed Mar 17 23:12:37 UTC 2010",
+   "Thu Dec 24 7:43:16 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_35",
+  "openlibrary_edition": "OL7244263M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1045521812",
+  "page_number_confidence": "95",
+  "lccn": "01023034",
+  "description": "lxxxv, 141, 180, 138 p. 20 cm",
+  "associated-names": "Seymour, Thomas Day, 1848-1907, ed",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6978",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh00homerich.pdf",
+   "format": "Text PDF",
+   "size": "42424104"
+  },
+  {
+   "name": "firstsixbooksofh00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1513328"
+  },
+  {
+   "name": "firstsixbooksofh00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "17249374"
+  },
+  {
+   "name": "firstsixbooksofh00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "221518705"
+  },
+  {
+   "name": "firstsixbooksofh00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "99297"
+  }
+ ]
+}

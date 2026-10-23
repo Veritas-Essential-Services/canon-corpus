@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "title": "Pope's The Iliad of Homer : books I, VI, XXII, and XXIV",
+  "description": [
+   "Includes bibliographical references",
+   "xxxi, 142 p., [6] leaves of plates : 17 cm"
+  ],
+  "publisher": "Boston : D.C. Heath",
+  "date": "1899",
+  "language": "eng",
+  "page-progression": "lr",
+  "boxid": "IA119321",
+  "sponsor": "Internet Archive",
+  "contributor": "Internet Archive",
+  "scanningcenter": "sfdowntown",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "updatedate": "2010-05-20 16:59:15",
+  "updater": "scanner-lawraine-smith@archive.org",
+  "identifier": "popesiliadofhome00home",
+  "uploader": "scanner-lawraine-smith@archive.org",
+  "addeddate": "2010-05-20 16:59:17",
+  "publicdate": "2010-05-20 16:59:22",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-sokpheap-meas@archive.org",
+  "scanner": "scribe15.sfdowntown.archive.org",
+  "scandate": "20100528195257",
+  "imagecount": "194",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popesiliadofhome00home",
+  "identifier-ark": "ark:/13960/t4pk12w0t",
+  "bookplateleaf": "0003",
+  "curation": "[curator]paul.n@archive.org[/curator][date]20100604074659[/date][state]approved[/state]",
+  "donor": "friendsofthesanfranciscopubliclibrary",
+  "collection": [
+   "internetarchivebooks",
+   "americana"
+  ],
+  "backup_location": "ia903605_17",
+  "openlibrary_edition": "OL24557780M",
+  "openlibrary_work": "OL15607526W",
+  "external-identifier": "urn:oclc:record:1050797107",
+  "usl_hit": "auto",
+  "filesxml": "Fri Dec 25 19:27:52 UTC 2020",
+  "creator": "Homer",
+  "oclc-id": "13749050",
+  "associated-names": "Pope, Alexander, 1688-1744, tr; Shorey, Paul, 1857-1934, ed",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popesiliadofhome00home.pdf",
+   "format": "Text PDF",
+   "size": "9002776"
+  },
+  {
+   "name": "popesiliadofhome00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "313988"
+  },
+  {
+   "name": "popesiliadofhome00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3851781"
+  },
+  {
+   "name": "popesiliadofhome00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "56188883"
+  },
+  {
+   "name": "popesiliadofhome00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "32300"
+  },
+  {
+   "name": "popesiliadofhome00home_scandata.xml",
+   "format": "Scandata",
+   "size": "101255"
+  }
+ ]
+}

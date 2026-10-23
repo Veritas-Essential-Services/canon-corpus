@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "Stevenson's Treasure island",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Hersey, Frank Wilson Cheney, 1876- ed"
+  ],
+  "description": "Includes bibliographical references (p. lxxiii-lxxiv)",
+  "publisher": "Boston : Ginn",
+  "date": "c1911",
+  "language": "eng",
+  "copyright-evidence-operator": "evan99",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by evan99 for item stevensonstreasu00stevrich on May 9, 2008: visible notice of copyright; stated date is 1911.",
+  "copyright-evidence-date": "20080509060035",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-134227516",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-134227516",
+  "updatedate": "2008-05-09 06:00:39",
+  "updater": "evan99",
+  "identifier": "stevensonstreasu00stevrich",
+  "uploader": "evan@archive.org",
+  "addeddate": "2008-05-09 06:00:41",
+  "publicdate": "2008-05-09 06:00:46",
+  "imagecount": "348",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-jesse-korkki@archive.org",
+  "scanner": "richc8.rich.archive.org",
+  "scandate": "20080510042331",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/stevensonstreasu00stevrich",
+  "identifier-ark": "ark:/13960/t8df6tf7m",
+  "bookplateleaf": "0003",
+  "curation": "[curator]julie@archive.org[/curator][date]20080528054143[/date][state]approved[/state]",
+  "sponsordate": "20080531",
+  "filesxml": [
+   "Wed Aug 19 3:57:47 UTC 2009",
+   "Sat Dec 26 8:27:02 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_34",
+  "openlibrary_edition": "OL6532327M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1085341281",
+  "usl_hit": "auto",
+  "lccn": "11016561",
+  "associated-names": "Hersey, Frank Wilson Cheney, 1876- ed",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "89",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "stevensonstreasu00stevrich.pdf",
+   "format": "Text PDF",
+   "size": "18282907"
+  },
+  {
+   "name": "stevensonstreasu00stevrich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "708042"
+  },
+  {
+   "name": "stevensonstreasu00stevrich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8766454"
+  },
+  {
+   "name": "stevensonstreasu00stevrich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "143489811"
+  },
+  {
+   "name": "stevensonstreasu00stevrich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "58475"
+  },
+  {
+   "name": "stevensonstreasu00stevrich_scandata.xml",
+   "format": "Scandata",
+   "size": "178966"
+  }
+ ]
+}

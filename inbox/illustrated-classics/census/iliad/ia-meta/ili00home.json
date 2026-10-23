@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "Paris, Baudry's European library",
+  "date": "1852",
+  "language": "eng",
+  "lccn": "33031042",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "10163568",
+  "identifier-bib": "00006136886",
+  "repub_state": "4",
+  "updatedate": "2012-10-01 17:54:58",
+  "updater": "associate-caitlin-markey",
+  "identifier": "ili00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-10-01 17:55:00",
+  "publicdate": "2012-10-01 17:55:04",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "repub_seconds": "553",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-saw-thein@archive.org",
+  "scandate": "20121005204419",
+  "republisher": "associate-phillip-gordon@archive.org",
+  "imagecount": "538",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/ili00home",
+  "identifier-ark": "ark:/13960/t76t1xj2j",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_13",
+  "external-identifier": "urn:oclc:record:1046537366",
+  "usl_hit": "auto",
+  "openlibrary_work": "OL24957406W",
+  "openlibrary_edition": "OL33176369M",
+  "republisher_operator": "associate-phillip-gordon@archive.org",
+  "republisher_date": "20121009180634",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "66",
+  "description": "xv, [1], 509 p., 1 l., 17 cm",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "ili00home.pdf",
+   "format": "Text PDF",
+   "size": "40783662"
+  },
+  {
+   "name": "ili00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1091663"
+  },
+  {
+   "name": "ili00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13718105"
+  },
+  {
+   "name": "ili00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "316944663"
+  },
+  {
+   "name": "ili00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "92147"
+  },
+  {
+   "name": "ili00home_scandata.xml",
+   "format": "Scandata",
+   "size": "702778"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_Y0-BWE-953",
+  "boxid": "IA41719713",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1926",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1200511",
+  "operator": "associate-michaelkim-gozo@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250822202224",
+  "scanner": "station42.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "Y0-BWE-953",
+  "title": "TREASURE ISLAND",
+  "tts_version": "6.12-initial-133-g70b4a4ad",
+  "uploader": "station42.cebu@archive.org",
+  "publicdate": "2025-08-22 18:53:18",
+  "identifier-access": "http://archive.org/details/bwb_Y0-BWE-953",
+  "identifier-ark": "ark:/13960/s2dsswzfsdk",
+  "imagecount": "306",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mavanessa-cando@archive.org",
+  "republisher_date": "20250827031056",
+  "republisher_time": "115",
+  "foldoutcount": "0",
+  "image_count": "304",
+  "bookplateleaf": "0004",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9731",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_Y0-BWE-953:epub:5f6b8266-3f29-489e-b363-641fc2995ade",
+   "urn:lcp:bwb_Y0-BWE-953:lcpdf:1b677718-e82d-4d14-8b3e-369c6d83324e"
+  ],
+  "addeddate": "2025-08-27 00:10:49"
+ },
+ "files": [
+  {
+   "name": "bwb_Y0-BWE-953.pdf",
+   "format": "Text PDF",
+   "size": "15658271"
+  },
+  {
+   "name": "bwb_Y0-BWE-953_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "400804"
+  },
+  {
+   "name": "bwb_Y0-BWE-953_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5655879"
+  },
+  {
+   "name": "bwb_Y0-BWE-953_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "135779318"
+  },
+  {
+   "name": "bwb_Y0-BWE-953_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "51345"
+  },
+  {
+   "name": "bwb_Y0-BWE-953_scandata.xml",
+   "format": "Scandata",
+   "size": "365546"
+  }
+ ]
+}

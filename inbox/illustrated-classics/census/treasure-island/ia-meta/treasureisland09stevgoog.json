@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "identifier": "treasureisland09stevgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland09stevgoog",
+  "year": "1883",
+  "scandate": "20070816",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t48p6009w",
+  "imagecount": "338",
+  "publicdate": "2008-01-18 19:00:43",
+  "source": "http://books.google.com/books?id=8J8LAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903601_20",
+  "addeddate": "2008-01-18 19:00:43",
+  "usl_hit": "auto",
+  "oclc-id": [
+   "1154344116",
+   "903429490"
+  ],
+  "title": "Treasure island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": [
+   "Boston : Roberts Brothers",
+   "Cambridge : University Press, John Wilson and Son"
+  ],
+  "date": "1895",
+  "subject": [
+   "Pirates",
+   "Treasure troves",
+   "Treasure Island (Imaginary place)",
+   "Adventure stories",
+   "Sea stories",
+   "Pirates",
+   "Trésors -- Recherche",
+   "Récits de mer",
+   "pirates",
+   "Adventure stories",
+   "Pirates",
+   "Sea stories",
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Caribbean Area",
+   "Caraïbes (Région)",
+   "Caribbean Area"
+  ],
+  "description": [
+   "1 online resource (viii, 292 pages, 4 unnumbered leaves of plates) :",
+   "20 unnumbered pages of publisher's advertisements at end",
+   "Electronic reproduction. [Place of publication not identified]: HathiTrust Digital Library",
+   "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+   "digitized 2020",
+   "Print version record"
+  ],
+  "associated-names": "Roberts Brothers (Boston, Mass.), publisher; John Wilson and Son, printer",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38583437M"
+ },
+ "files": [
+  {
+   "name": "treasureisland09stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "101492"
+  }
+ ]
+}

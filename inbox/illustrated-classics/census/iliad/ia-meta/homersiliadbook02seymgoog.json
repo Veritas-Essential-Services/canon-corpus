@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "publisher": "Boston, London, Ginn & Company",
+  "identifier": "homersiliadbook02seymgoog",
+  "scanner": "google",
+  "title": "Homer's Iliad, books IV-VI",
+  "creator": [
+   "Homer",
+   "Seymour, Thomas D. (Thomas Day), 1848-1907"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1891",
+  "date": "1891",
+  "oclc-id": "11294521",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "\"Auxiliaries\": p. 198-200"
+  ],
+  "source": "http://books.google.com/books?id=zCUBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "lccn": "41030920",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook02seymgoog",
+  "identifier-ark": "ark:/13960/t8rb7gn3p",
+  "imagecount": "232",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 14:02:11",
+  "backup_location": "ia903603_7",
+  "openlibrary_edition": "OL6426297M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-06-09 14:02:11",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7255",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "92.64",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook02seymgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "747431"
+  },
+  {
+   "name": "homersiliadbook02seymgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8541304"
+  },
+  {
+   "name": "homersiliadbook02seymgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "45729543"
+  },
+  {
+   "name": "homersiliadbook02seymgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "46013"
+  },
+  {
+   "name": "homersiliadbook02seymgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "77110"
+  },
+  {
+   "name": "homersiliadbook02seymgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "14289290"
+  }
+ ]
+}

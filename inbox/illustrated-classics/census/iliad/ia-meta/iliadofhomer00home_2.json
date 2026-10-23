@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "indiana",
+  "sponsor": "American Printing House for the Blind, Inc.",
+  "contributor": "American Printing House for the Blind, Inc., M. C. Migel Library",
+  "date": "1910",
+  "subject": "Recreational Reading",
+  "title": "The Iliad of Homer",
+  "creator": "Homer, Translated by Edward Stanley Translator",
+  "collection": [
+   "aphmigel",
+   "medicalheritagelibrary",
+   "americana",
+   "medicallibrary"
+  ],
+  "shiptracking": "APH069",
+  "publisher": "E.P. Dutton & Co.",
+  "description": "The Iliad is an epic poem written by the ancient Greek poet Homer, detailing the events of the Trojan War.",
+  "call_number": "HV2335 .H66",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "mediatype": "texts",
+  "updatedate": "2024-07-15 15:23:47",
+  "updater": "admin-jeff-sharpe@archive.org",
+  "identifier": "iliadofhomer00home_2",
+  "uploader": "admin-jeff-sharpe@archive.org",
+  "publicdate": "2024-07-15 15:23:49",
+  "tts_version": "6.8-initial-131-g6b0abc54",
+  "camera": "USB PTP Class Camera",
+  "operator": "associate-valentina-montenegro@archive.org",
+  "notes": "No copyright/contents page\nTight or no margins\nCut off text\nSkewed pages",
+  "scanner": "scribe5.indiana.archive.org",
+  "imagecount": "474",
+  "scandate": "20240717151601",
+  "ppi": "500",
+  "republisher_operator": "associate-valentina-montenegro@archive.org",
+  "republisher_date": "20240718123143",
+  "republisher_time": "3323",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer00home_2",
+  "identifier-ark": "ark:/13960/s283w7bnkmr",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9685",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2024-07-18 22:18:06",
+  "scanfee": "300;14;270",
+  "invoice": "50",
+  "sponsordate": "20240731",
+  "openlibrary_edition": "OL58877252M",
+  "openlibrary_work": "OL43229953W"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00home_2.pdf",
+   "format": "Text PDF",
+   "size": "29635289"
+  },
+  {
+   "name": "iliadofhomer00home_2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "911190"
+  },
+  {
+   "name": "iliadofhomer00home_2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12058718"
+  },
+  {
+   "name": "iliadofhomer00home_2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "309417078"
+  },
+  {
+   "name": "iliadofhomer00home_2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "79745"
+  },
+  {
+   "name": "iliadofhomer00home_2_scandata.xml",
+   "format": "Scandata",
+   "size": "284711"
+  }
+ ]
+}

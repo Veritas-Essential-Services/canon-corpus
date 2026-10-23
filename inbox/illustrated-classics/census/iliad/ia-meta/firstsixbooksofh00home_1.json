@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "language": "gre",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1865",
+  "title": "The first six books of Homer's Iliad",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "22",
+  "identifier_bib": "9.91006667100010E+016",
+  "call_number": "PA4020.A15",
+  "publisher": "New York : Harper & Bros.",
+  "associated-names": "Anthon, Charles, 1797-1867, editor",
+  "description": "viii, 897 pages ; 20 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:15:40",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "firstsixbooksofh00home_1",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:15:42",
+  "scanner": "scribe5.boston.archive.org",
+  "operator": "associate-cristian-montas@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "920",
+  "scandate": "20200219165322",
+  "ppi": "300",
+  "republisher_operator": "admin-tim-bigelow@archive.org",
+  "republisher_date": "20200219125435",
+  "republisher_time": "465",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/firstsixbooksofh00home_1",
+  "identifier-ark": "ark:/13960/t6g24hk76",
+  "addeddate": "2020-02-20 00:39:16",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL27916477M",
+  "openlibrary_work": "OL20646834W",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1193386121",
+  "backup_location": "ia907104_17",
+  "ocr": "tesseract 5.0.0-rc1-12-g88b4",
+  "ocr_parameters": "-l ell",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9343",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "52",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksofh00home_1.pdf",
+   "format": "Text PDF",
+   "size": "53560848"
+  },
+  {
+   "name": "firstsixbooksofh00home_1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3626658"
+  },
+  {
+   "name": "firstsixbooksofh00home_1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "29057067"
+  },
+  {
+   "name": "firstsixbooksofh00home_1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "425131486"
+  },
+  {
+   "name": "firstsixbooksofh00home_1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "157747"
+  },
+  {
+   "name": "firstsixbooksofh00home_1_scandata.xml",
+   "format": "Scandata",
+   "size": "942595"
+  }
+ ]
+}

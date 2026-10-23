@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000robe_k2o7",
+  "boxid": "IA40716418",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1924",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-0001509",
+  "operator": "associate-jeneil-colonia@archive.org",
+  "publisher": "the john c. winston company",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station40.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "title": "treasure island",
+  "tts_version": "5.2-initial-110-g03913a31",
+  "uploader": "station40.cebu@archive.org",
+  "publicdate": "2022-09-24 08:09:48",
+  "identifier-access": "http://archive.org/details/treasureisland0000robe_k2o7",
+  "identifier-ark": "ark:/13960/s2txsjtmn9f",
+  "scandate": "20220924094359",
+  "imagecount": "338",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-mavanessa-cando@archive.org",
+  "republisher_date": "20220929224928",
+  "republisher_time": "248",
+  "foldoutcount": "0",
+  "bookplateleaf": "0002",
+  "ocr": "tesseract 5.2.0-1-gc42a",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.18",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9969",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "pdf_module_version": "0.0.20",
+  "external-identifier": [
+   "urn:acs6:treasureisland0000robe_k2o7:pdf:0d3f02fa-aa10-4e17-8589-41e82ab8b085",
+   "urn:lcp:treasureisland0000robe_k2o7:lcpdf:0c0fa534-3b20-42c8-8860-0dd48932894e"
+  ],
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "addeddate": "2022-09-30 00:03:49",
+  "sponsordate": "20220930",
+  "page_number_module_version": "1.0.5",
+  "openlibrary_work": "OL43379776W",
+  "openlibrary_edition": "OL59083603M"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000robe_k2o7.pdf",
+   "format": "Text PDF",
+   "size": "17341708"
+  },
+  {
+   "name": "treasureisland0000robe_k2o7_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "408851"
+  },
+  {
+   "name": "treasureisland0000robe_k2o7_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5784204"
+  },
+  {
+   "name": "treasureisland0000robe_k2o7_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "161057010"
+  },
+  {
+   "name": "treasureisland0000robe_k2o7_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56670"
+  },
+  {
+   "name": "treasureisland0000robe_k2o7_scandata.xml",
+   "format": "Scandata",
+   "size": "360561"
+  }
+ ]
+}

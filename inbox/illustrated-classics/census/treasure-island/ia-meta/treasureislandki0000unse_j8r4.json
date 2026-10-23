@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "treasureislandki0000unse_j8r4",
+  "boxid": "IA40093722",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-AS-2000007",
+  "operator": "associate-darius-subang@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station48.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.4-initial-129-g57db8e10",
+  "uploader": "station48.cebu@archive.org",
+  "publicdate": "2021-04-15 00:52:20",
+  "imagecount": "406",
+  "scandate": "20210415060136",
+  "ppi": "360",
+  "republisher_operator": "associate-michaeljoseph-durano@archive.org",
+  "republisher_date": "20210423162451",
+  "republisher_time": "461",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandki0000unse_j8r4",
+  "identifier-ark": "ark:/13960/t6r02wq82",
+  "page_number_confidence": "93",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20210430",
+  "title": "Treasure Island and Kidnapped",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "London & ; Toronto : J.M. Dent & Sons, Ltd. ; New York : E.P. Dutton & Co.",
+  "date": "1925",
+  "subject": "Novela inglesa -- s. XIX",
+  "oclc-id": "955342893",
+  "description": "xxiv, 370 p. ; 17 cm",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9441",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": "urn:acs6:treasureislandki0000unse_j8r4:pdf:a775cb3c-4781-48e9-9928-635b1ad53a92",
+  "addeddate": "2022-07-13 00:02:36",
+  "page_number_module_version": "1.0.5",
+  "openlibrary_edition": "OL59083581M",
+  "openlibrary_work": "OL43379778W"
+ },
+ "files": [
+  {
+   "name": "treasureislandki0000unse_j8r4.pdf",
+   "format": "Text PDF",
+   "size": "18024268"
+  },
+  {
+   "name": "treasureislandki0000unse_j8r4_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "846178"
+  },
+  {
+   "name": "treasureislandki0000unse_j8r4_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11852330"
+  },
+  {
+   "name": "treasureislandki0000unse_j8r4_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "153723140"
+  },
+  {
+   "name": "treasureislandki0000unse_j8r4_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "68100"
+  },
+  {
+   "name": "treasureislandki0000unse_j8r4_scandata.xml",
+   "format": "Scandata",
+   "size": "439198"
+  }
+ ]
+}

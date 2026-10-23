@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "publisher": "London : Longmans, Green",
+  "identifier": "iliadhomerineng00dartgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer : in English hexameter verse",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerineng00dartgoog",
+  "year": "1865",
+  "date": "1865",
+  "scandate": "20060919",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+   "xii, 555 pages ; 23 cm"
+  ],
+  "identifier-ark": "ark:/13960/t04x5f41w",
+  "imagecount": "580",
+  "publicdate": "2008-07-10 17:15:09",
+  "source": "http://books.google.com/books?id=_DYSAAAAIAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "oclc-id": "4362484",
+  "repub_state": "4",
+  "backup_location": "ia903602_5",
+  "openlibrary_edition": "OL20608272M",
+  "openlibrary_work": "OL15112561W",
+  "addeddate": "2008-07-10 17:15:09",
+  "usl_hit": "auto",
+  "subject": [
+   "Classical literature",
+   "Greek literature",
+   "Classical literature",
+   "Greek literature"
+  ],
+  "associated-names": "Dart, J. Henry (Joseph Henry), 1817-1887",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "78",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadhomerineng00dartgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1345249"
+  },
+  {
+   "name": "iliadhomerineng00dartgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "17003023"
+  },
+  {
+   "name": "iliadhomerineng00dartgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "99260"
+  },
+  {
+   "name": "iliadhomerineng00dartgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "193293"
+  },
+  {
+   "name": "iliadhomerineng00dartgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "29560398"
+  }
+ ]
+}

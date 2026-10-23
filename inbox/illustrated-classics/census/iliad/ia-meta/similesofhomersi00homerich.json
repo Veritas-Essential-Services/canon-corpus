@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "The similes of Homer's Iliad",
+  "creator": [
+   "Homer",
+   "Green, W. C. (William Charles), 1832-1914"
+  ],
+  "publisher": "London : Longmans",
+  "date": "1877",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "MarkGraves",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by MarkGraves for item similesofhomersi00homerich on September 10, 2008: no visible notice of copyright; stated date is 1877.",
+  "copyright-evidence-date": "20080910211050",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-50511430",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-50511430",
+  "updatedate": "2008-09-10 21:11:10",
+  "updater": "MarkGraves",
+  "identifier": "similesofhomersi00homerich",
+  "uploader": "markg@archive.org",
+  "addeddate": "2008-09-10 21:11:12",
+  "publicdate": "2008-09-10 21:11:16",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-james-norton@archive.org",
+  "scanner": "scribe5.rich.archive.org",
+  "scandate": "20080916193512",
+  "imagecount": "292",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/similesofhomersi00homerich",
+  "identifier-ark": "ark:/13960/t3vt1vn0w",
+  "scanfactors": "31",
+  "repub_state": "4",
+  "curation": "[curator]julie@archive.org[/curator][date]20081004184934[/date][state]approved[/state]",
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "backup_location": "ia903602_12",
+  "openlibrary_edition": "OL17988713M",
+  "openlibrary_work": "OL415402W",
+  "external-identifier": "urn:oclc:record:1084814852",
+  "filesxml": [
+   "Sat Dec 26 5:32:43 UTC 2020",
+   "Fri Jan 1 2:21:41 UTC 2021"
+  ],
+  "oclc-id": "215315734",
+  "description": [
+   "276 p. ; 22 cm",
+   "Greek and English on opposite pages"
+  ],
+  "associated-names": "Green, W. C. (William Charles), 1832-1914",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "similesofhomersi00homerich.pdf",
+   "format": "Text PDF",
+   "size": "13345981"
+  },
+  {
+   "name": "similesofhomersi00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "320943"
+  },
+  {
+   "name": "similesofhomersi00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3467040"
+  },
+  {
+   "name": "similesofhomersi00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "78181406"
+  },
+  {
+   "name": "similesofhomersi00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "49196"
+  },
+  {
+   "name": "similesofhomersi00homerich_scandata.xml",
+   "format": "Scandata",
+   "size": "153104"
+  }
+ ]
+}

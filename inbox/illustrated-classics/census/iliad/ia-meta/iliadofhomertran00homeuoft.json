@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer: translated by Alexander Pope",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "description": "26",
+  "publisher": "London Cassell",
+  "date": "1909",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-scott-cairns",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-scott-cairns for item iliadofhomertran00homeuoft on October 24, 2006: no visible notice of copyright; stated date is 1909.",
+  "copyright-evidence-date": "20061024192115",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3607",
+  "identifier-access": "http://www.archive.org/details/iliadofhomertran00homeuoft",
+  "updatedate": "2006-10-24 19:21:30",
+  "updater": "scanner-scott-cairns",
+  "identifier": "iliadofhomertran00homeuoft",
+  "uploader": "scanner-scott-cairns@archive.org",
+  "addeddate": "2006-10-24 19:21:32",
+  "publicdate": "2006-10-24 12:21:41",
+  "imagecount": "464",
+  "ppi": "500",
+  "lcamid": "332430",
+  "rcamid": "330933",
+  "camera": "1Ds",
+  "operator": "scanner-salomeh-nikzadeh@archive.org",
+  "scanner": "uoft1",
+  "scandate": "20061025152121",
+  "identifier-ark": "ark:/13960/t6k06xp5j",
+  "curation": "[curator]julie@archive.org[/curator][date]20061101085143[/date][state]approved[/state]",
+  "sponsordate": "20061031",
+  "filesxml": [
+   "Thu Mar 18 2:08:40 UTC 2010",
+   "Thu Dec 24 17:34:57 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_24",
+  "openlibrary_edition": "OL7057157M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046536669",
+  "usl_hit": "auto",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "iliadofhomertran00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "40832228"
+  },
+  {
+   "name": "iliadofhomertran00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1149440"
+  },
+  {
+   "name": "iliadofhomertran00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13812099"
+  },
+  {
+   "name": "iliadofhomertran00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "292157230"
+  },
+  {
+   "name": "iliadofhomertran00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "78398"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "identifier": "TreasureIsland_201905",
+  "mediatype": "texts",
+  "collection": [
+   "opensource",
+   "community"
+  ],
+  "creator": "Robert Louis Stevenson",
+  "date": "1883-11-14",
+  "description": "Famous adventure novel by Robert Louis Stevenson.<br />",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+   "treasure island",
+   "stevenson",
+   "robert louis stevenson",
+   "pirates",
+   "sailor",
+   "pirate",
+   "sea"
+  ],
+  "title": "Treasure Island",
+  "publicdate": "2019-05-10 13:36:02",
+  "uploader": "foardbingham@gmail.com",
+  "addeddate": "2019-05-10 13:36:02",
+  "curation": "[curator]jscott@archive.org[/curator][date]20251230182210[/date][state]un-dark[/state][comment]Undarked During Discussion[/comment]",
+  "identifier-access": "http://archive.org/details/TreasureIsland_201905",
+  "identifier-ark": "ark:/13960/t3pw44328",
+  "ppi": "600",
+  "backup_location": "ia906903_29",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "external-identifier": "urn:lcp:Treasure Island:epub:34b5e4c9-8221-46d6-b974-65817bfb8b05",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "noarchivetorrent": "true"
+ },
+ "files": [
+  {
+   "name": "Treasure Island.pdf",
+   "format": "Text PDF",
+   "size": "21749644"
+  },
+  {
+   "name": "Treasure Island_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "459187"
+  },
+  {
+   "name": "Treasure Island_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5702357"
+  },
+  {
+   "name": "Treasure Island_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "191246725"
+  },
+  {
+   "name": "Treasure Island_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55808"
+  },
+  {
+   "name": "Treasure Island_scandata.xml",
+   "format": "Scandata",
+   "size": "98564"
+  }
+ ]
+}

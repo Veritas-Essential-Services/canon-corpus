@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "google-id": "AdNfAAAAMAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=AdNfAAAAMAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer11unkngoog",
+  "identifier": "iliadhomer11unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "xx, 617 pages ; 20 cm"
+  ],
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "8404366",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t47p9c77f",
+  "imagecount": "659",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-04-26 17:16:35",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903603_1",
+  "addeddate": "2009-04-26 17:16:35",
+  "usl_hit": "auto",
+  "publisher": "New York : G. Putnam",
+  "date": "1850",
+  "subject": [
+   "Achilles (Mythological character)",
+   "Achilles (Greek mythology) -- Poetry",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry",
+   "Epic poetry, Greek"
+  ],
+  "associated-names": "Cowper, William, 1731-1800; Southey, Robert, 1774-1843",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "87.99"
+ },
+ "files": [
+  {
+   "name": "iliadhomer11unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1250954"
+  },
+  {
+   "name": "iliadhomer11unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15028630"
+  },
+  {
+   "name": "iliadhomer11unkngoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "369042530"
+  },
+  {
+   "name": "iliadhomer11unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "123848"
+  },
+  {
+   "name": "iliadhomer11unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "217986"
+  }
+ ]
+}

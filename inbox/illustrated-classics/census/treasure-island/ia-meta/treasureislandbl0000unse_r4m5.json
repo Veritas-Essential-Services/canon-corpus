@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "treasureislandbl0000unse_r4m5",
+  "boxid": "IA40340310",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-1300267",
+  "operator": "associate-mervin-collantes@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station45.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.5-initial-80-gce32ee1e",
+  "uploader": "station45.cebu@archive.org",
+  "publicdate": "2022-01-28 12:06:37",
+  "imagecount": "642",
+  "scandate": "20220128232210",
+  "ppi": "360",
+  "republisher_operator": "associate-cecelia-atil@archive.org",
+  "republisher_date": "20220202162934",
+  "republisher_time": "427",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandbl0000unse_r4m5",
+  "identifier-ark": "ark:/13960/s2ncmh0mdpr",
+  "bookplateleaf": "0008",
+  "page_number_confidence": "99",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20220131",
+  "title": "Treasure island. The black arrow",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York, C. Scribner's Sons",
+  "date": "1919",
+  "oclc-id": "18830124",
+  "description": [
+   "290, 322 pages",
+   "On spine: Stevenson, vol. 1"
+  ],
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9855",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": "urn:acs6:treasureislandbl0000unse_r4m5:pdf:a83a942d-c161-423e-8ba2-59b150ad61d5",
+  "openlibrary_work": "OL17621838W",
+  "openlibrary_edition": "OL38627990M",
+  "addeddate": "2022-07-13 00:02:37",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureislandbl0000unse_r4m5.pdf",
+   "format": "Text PDF",
+   "size": "23167434"
+  },
+  {
+   "name": "treasureislandbl0000unse_r4m5_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "857692"
+  },
+  {
+   "name": "treasureislandbl0000unse_r4m5_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12087955"
+  },
+  {
+   "name": "treasureislandbl0000unse_r4m5_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "191276805"
+  },
+  {
+   "name": "treasureislandbl0000unse_r4m5_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "108250"
+  },
+  {
+   "name": "treasureislandbl0000unse_r4m5_scandata.xml",
+   "format": "Scandata",
+   "size": "697696"
+  }
+ ]
+}

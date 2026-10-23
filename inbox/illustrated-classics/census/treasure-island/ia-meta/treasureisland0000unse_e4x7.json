@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_e4x7",
+  "boxid": "IA40431822",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-1300294",
+  "operator": "associate-marjoy-pepito@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station35.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.5-initial-95-gb2ad4f21",
+  "uploader": "station35.cebu@archive.org",
+  "publicdate": "2022-04-08 14:28:13",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_e4x7",
+  "identifier-ark": "ark:/13960/s25brr041t7",
+  "scandate": "20220408164610",
+  "imagecount": "328",
+  "autocrop_version": "0.0.11_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-louiemar-secuya@archive.org",
+  "republisher_date": "20220412192027",
+  "republisher_time": "433",
+  "foldoutcount": "0",
+  "bookplateleaf": "0006",
+  "page_number_confidence": "97",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "filesxml": "Wed Apr 13 10:58:46 UTC 2022",
+  "sponsordate": "20220430",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Scribner's",
+  "date": "1922",
+  "oclc-id": "11334384",
+  "description": "xxii, 266 pages : 20 cm",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9334",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": "urn:acs6:treasureisland0000unse_e4x7:pdf:4b8051e4-1b08-45c9-8acd-5817eddece7c",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL25527639M",
+  "addeddate": "2022-07-13 00:02:22",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_e4x7.pdf",
+   "format": "Text PDF",
+   "size": "11422972"
+  },
+  {
+   "name": "treasureisland0000unse_e4x7_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "430484"
+  },
+  {
+   "name": "treasureisland0000unse_e4x7_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6064739"
+  },
+  {
+   "name": "treasureisland0000unse_e4x7_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "114811659"
+  },
+  {
+   "name": "treasureisland0000unse_e4x7_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55216"
+  },
+  {
+   "name": "treasureisland0000unse_e4x7_scandata.xml",
+   "format": "Scandata",
+   "size": "349587"
+  }
+ ]
+}

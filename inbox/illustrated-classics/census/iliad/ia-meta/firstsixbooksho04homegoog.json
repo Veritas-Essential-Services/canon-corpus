@@ -1,0 +1,73 @@
+{
+ "metadata": {
+  "publisher": "Chicago, S.C. Griggs & Co.",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad, with explanatory notes, intended for beginners in the epic dialect; accompanied with numerous references to Hadley's Greek Grammar, to Kühner's larger Greek grammar, and to Goodwin's Greek Moods and Tenses",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1876",
+  "date": "1887",
+  "oclc-id": "82855460",
+  "identifier": "firstsixbooksho04homegoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=WosXAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho04homegoog",
+  "identifier-ark": "ark:/13960/t7mp5cm16",
+  "imagecount": "272",
+  "publicdate": "2009-03-02 18:13:39",
+  "repub_state": "4",
+  "backup_location": "ia903602_30",
+  "openlibrary_edition": "OL20473965M",
+  "openlibrary_work": "OL13089711W",
+  "addeddate": "2009-03-02 18:13:39",
+  "ppi": "600",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7524",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "81.92",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho04homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "562444"
+  },
+  {
+   "name": "firstsixbooksho04homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7628223"
+  },
+  {
+   "name": "firstsixbooksho04homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "224750207"
+  },
+  {
+   "name": "firstsixbooksho04homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "50028"
+  },
+  {
+   "name": "firstsixbooksho04homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "95121"
+  },
+  {
+   "name": "firstsixbooksho04homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "18754553"
+  }
+ ]
+}

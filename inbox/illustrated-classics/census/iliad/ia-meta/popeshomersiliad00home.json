@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "Pope's Homer's Iliad, books I., VI., XXII., and XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr",
+   "Twombly, Alexander S. (Alexander Stevenson), 1832-1907, ed"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "New York, Boston [etc.] Silver Burdett and company",
+  "date": "1897",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC043",
+  "call_number": "8700527",
+  "identifier-bib": "00030601609",
+  "repub_state": "4",
+  "updatedate": "2011-11-09 16:27:52",
+  "updater": "ChristinaB",
+  "identifier": "popeshomersiliad00home",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2011-11-09 16:27:54",
+  "publicdate": "2011-11-09 16:27:57",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "repub_seconds": "2621",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-annie-coates-@archive.org",
+  "scandate": "20111122152254",
+  "imagecount": "152",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/popeshomersiliad00home",
+  "identifier-ark": "ark:/13960/t59c7zc2w",
+  "curation": "[curator]stacey@archive.org[/curator][date]20111123162033[/date][state]approved[/state]",
+  "scanfee": "130",
+  "sponsordate": "20111130",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903705_16",
+  "openlibrary_edition": "OL6551186M",
+  "openlibrary_work": "OL415387W",
+  "external-identifier": "urn:oclc:record:1050821695",
+  "filesxml": "Fri Dec 25 19:27:52 UTC 2020",
+  "lccn": "12034486",
+  "oclc-id": "7534247",
+  "description": "128 p. 19 cm",
+  "associated-names": "Pope, Alexander, 1688-1744, tr; Twombly, Alexander S. (Alexander Stevenson), 1832-1907, ed",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popeshomersiliad00home.pdf",
+   "format": "Text PDF",
+   "size": "10784401"
+  },
+  {
+   "name": "popeshomersiliad00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "255032"
+  },
+  {
+   "name": "popeshomersiliad00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3161201"
+  },
+  {
+   "name": "popeshomersiliad00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "94851931"
+  },
+  {
+   "name": "popeshomersiliad00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "25509"
+  },
+  {
+   "name": "popeshomersiliad00home_scandata.xml",
+   "format": "Scandata",
+   "size": "150845"
+  }
+ ]
+}

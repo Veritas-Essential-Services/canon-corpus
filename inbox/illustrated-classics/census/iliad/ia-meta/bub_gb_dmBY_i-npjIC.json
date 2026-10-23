@@ -1,0 +1,65 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_dmBY_i-npjIC",
+  "creator": [
+   "Homer",
+   "Stone, Charles Wellington, 1853- tr"
+  ],
+  "date": "1880",
+  "google-id": "dmBY_i-npjIC",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "Cambridge, [Mass.] University Press, John Wilson and Son",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=dmBY_i-npjIC&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "Iliad I:",
+  "year": "1880",
+  "publicdate": "2015-01-23 07:52:46",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2015-01-23 07:52:46",
+  "curation": "[curator]validator@archive.org[/curator][date]20150123075306[/date][comment]checked for malware[/comment]",
+  "oclc-id": "20864039",
+  "description": [
+   "Large paper",
+   "Mode of access: Internet"
+  ],
+  "contributor": "Harvard University",
+  "identifier-access": "http://archive.org/details/bub_gb_dmBY_i-npjIC",
+  "identifier-ark": "ark:/13960/t44r13d73",
+  "imagecount": "64",
+  "ocr": "ABBYY FineReader 9.0",
+  "repub_state": "4",
+  "backup_location": "ia905300_4"
+ },
+ "files": [
+  {
+   "name": "bub_gb_dmBY_i-npjIC.pdf",
+   "format": "Text PDF",
+   "size": "1712076"
+  },
+  {
+   "name": "bub_gb_dmBY_i-npjIC_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "46184"
+  },
+  {
+   "name": "bub_gb_dmBY_i-npjIC_djvu.xml",
+   "format": "Djvu XML",
+   "size": "499659"
+  },
+  {
+   "name": "bub_gb_dmBY_i-npjIC_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "10862844"
+  },
+  {
+   "name": "bub_gb_dmBY_i-npjIC_scandata.xml",
+   "format": "Scandata",
+   "size": "19039"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "treasureislandab0000unse_m5z9",
+  "boxid": "IA41507713",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson ",
+  "date": "1883",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-1200163",
+  "openlibrary_edition": "OL59083598M",
+  "openlibrary_work": "OL43379790W",
+  "operator": "associate-sherwin-pasaylo@archive.org",
+  "page-progression": "lr",
+  "publisher": "a puffin book",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20241219204937",
+  "scanner": "station46.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "P9-BMP-327",
+  "title": "Treasure Island - Abridged and simplified by Roland John - bk1543",
+  "tts_version": "6.10-intial-145-g80f07ce5",
+  "uploader": "station46.cebu@archive.org",
+  "publicdate": "2024-12-19 12:02:39",
+  "identifier-access": "http://archive.org/details/treasureislandab0000unse_m5z9",
+  "identifier-ark": "ark:/13960/s2mp7h48zs8",
+  "imagecount": "246",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-jenisa-lucernas@archive.org",
+  "republisher_date": "20250105180647",
+  "republisher_time": "202",
+  "foldoutcount": "0",
+  "image_count": "244",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureislandab0000unse_m5z9:epub:3b4b0be3-90ab-43ed-ae87-4dfcbf11769a",
+   "urn:lcp:treasureislandab0000unse_m5z9:lcpdf:d24c5691-21b3-40c5-a5cd-8ab8e3a39780",
+   "urn:acs6:treasureislandab0000unse_m5z9:pdf:0b2da3eb-353b-464d-8a1a-eaeabf2dd9c9"
+  ],
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.26",
+  "addeddate": "2025-01-06 00:36:04"
+ },
+ "files": [
+  {
+   "name": "treasureislandab0000unse_m5z9.pdf",
+   "format": "Text PDF",
+   "size": "9387394"
+  },
+  {
+   "name": "treasureislandab0000unse_m5z9_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "360336"
+  },
+  {
+   "name": "treasureislandab0000unse_m5z9_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5280558"
+  },
+  {
+   "name": "treasureislandab0000unse_m5z9_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "79838569"
+  },
+  {
+   "name": "treasureislandab0000unse_m5z9_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "41205"
+  },
+  {
+   "name": "treasureislandab0000unse_m5z9_scandata.xml",
+   "format": "Scandata",
+   "size": "308796"
+  }
+ ]
+}

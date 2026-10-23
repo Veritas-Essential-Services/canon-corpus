@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "identifier": "treasureisland00vancgoog",
+  "scanner": "google",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/treasureisland00vancgoog",
+  "year": "1916",
+  "scandate": "20080221",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t1dj5nt38",
+  "imagecount": "285",
+  "publicdate": "2008-09-29 02:45:54",
+  "source": "http://books.google.com/books?id=2dgVAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903602_14",
+  "addeddate": "2008-09-29 02:45:54",
+  "usl_hit": "auto",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL20541408M",
+  "oclc-id": "894215652",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Macmillan",
+  "date": "1916",
+  "description": [
+   "1 online resource (xxix, 229 pages, 2 unnumbered leaves of plates) :",
+   "Includes bibliographical references (pages xxviii-xxix)",
+   "Bibliographical references included in \"Notes\" p. 219-229",
+   "Print version record",
+   "Electronic reproduction. [Place of publication not identified] : HathiTrust Digital Library",
+   "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+   "digitized 2014"
+  ],
+  "associated-names": "Vance, Hiram Albert, 1860-1906",
+  "foldoutcount": "0"
+ },
+ "files": [
+  {
+   "name": "treasureisland00vancgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "85582"
+  }
+ ]
+}

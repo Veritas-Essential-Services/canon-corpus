@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Homer's Iliad",
+  "creator": "Homer",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "London",
+  "date": "1865",
+  "language": "eng",
+  "lccn": "tmp92004619",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "7720032",
+  "identifier-bib": "00030601622",
+  "repub_state": "4",
+  "updatedate": "2012-09-28 18:00:34",
+  "updater": "associate-caitlin-markey",
+  "identifier": "homersiliad00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-09-28 18:00:36",
+  "publicdate": "2012-09-28 18:00:41",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "repub_seconds": "1025226",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-lian-kam@archive.org",
+  "scandate": "20121010125826",
+  "republisher": "associate-john-leonard@archive.org",
+  "imagecount": "504",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/homersiliad00home",
+  "identifier-ark": "ark:/13960/t4fn2fj18",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_8",
+  "external-identifier": "urn:oclc:record:1046534132",
+  "republisher_operator": "associate-john-leonard@archive.org;associate-kellen-goodwin@archive.org;associate-saw-thein@archive.org;associate-lian-kam@archive.org",
+  "republisher_date": "20121022144803",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "description": "483 p. 22 cm",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "homersiliad00home.pdf",
+   "format": "Text PDF",
+   "size": "37051859"
+  },
+  {
+   "name": "homersiliad00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1180668"
+  },
+  {
+   "name": "homersiliad00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14497042"
+  },
+  {
+   "name": "homersiliad00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "328510760"
+  },
+  {
+   "name": "homersiliad00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85588"
+  },
+  {
+   "name": "homersiliad00home_scandata.xml",
+   "format": "Scandata",
+   "size": "662818"
+  }
+ ]
+}

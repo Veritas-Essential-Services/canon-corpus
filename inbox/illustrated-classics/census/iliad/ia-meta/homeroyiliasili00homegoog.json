@@ -1,0 +1,70 @@
+{
+ "metadata": {
+  "publisher": "Boston : Hilliard, Gray",
+  "identifier": "homeroyiliasili00homegoog",
+  "scanner": "google",
+  "title": "Homeroy Ilias = The Iliad of Homer",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homeroyiliasili00homegoog",
+  "year": "1833",
+  "date": "1833",
+  "scandate": "20060614",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "xii, 478 pages, 40 unnumbered leaves of plates : 23 cm",
+   "Greek text; editorial matter in English",
+   "\"The text ... is an exact reprint of the Leipzig edition published by Tauchnitz in 1829\"--Preface"
+  ],
+  "identifier-ark": "ark:/13960/t74t6sg28",
+  "imagecount": "529",
+  "publicdate": "2008-08-24 11:40:34",
+  "source": "http://books.google.com/books?id=AQ6BkoCZcaQC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_10",
+  "addeddate": "2008-08-24 11:40:34",
+  "usl_hit": "auto",
+  "oclc-id": "28102818",
+  "associated-names": "Felton, C. C. (Cornelius Conway), 1807-1862; Flaxman, John, 1755-1826",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng+grc+Fraktur",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.7896",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000"
+ },
+ "files": [
+  {
+   "name": "homeroyiliasili00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "819058"
+  },
+  {
+   "name": "homeroyiliasili00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6587226"
+  },
+  {
+   "name": "homeroyiliasili00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "81173"
+  },
+  {
+   "name": "homeroyiliasili00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "158773"
+  }
+ ]
+}

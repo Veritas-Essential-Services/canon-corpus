@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "title": "The Iliad, books IX and X;",
+  "creator": [
+   "Homer",
+   "Lawson, John Cuthbert"
+  ],
+  "description": "26",
+  "publisher": "Cambridge, Univ. Press",
+  "date": "1902",
+  "language": [
+   "grc",
+   "eng",
+   "grc"
+  ],
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0797",
+  "updatedate": "2009-03-02 19:29:37",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadbooksixx00homeuoft",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2009-03-02 19:29:40",
+  "publicdate": "2009-03-02 19:29:51",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-wendy-birt@archive.org",
+  "scanner": "scribe20.toronto.archive.org",
+  "scandate": "20090305195234",
+  "imagecount": "152",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadbooksixx00homeuoft",
+  "identifier-ark": "ark:/13960/t5v69s85x",
+  "scanfactors": "0",
+  "repub_state": "4",
+  "curation": "[curator]naruta@archive.org[/curator][date]20090407193407[/date][state]approved[/state]",
+  "sponsordate": "20090331",
+  "backup_location": "ia903602_30",
+  "openlibrary_edition": "OL23305850M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046594326",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:43 UTC 2020",
+  "associated-names": "Lawson, John Cuthbert",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7518",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadbooksixx00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "6631952"
+  },
+  {
+   "name": "iliadbooksixx00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "340138"
+  },
+  {
+   "name": "iliadbooksixx00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3799841"
+  },
+  {
+   "name": "iliadbooksixx00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "34472495"
+  },
+  {
+   "name": "iliadbooksixx00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "24941"
+  },
+  {
+   "name": "iliadbooksixx00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "80295"
+  }
+ ]
+}

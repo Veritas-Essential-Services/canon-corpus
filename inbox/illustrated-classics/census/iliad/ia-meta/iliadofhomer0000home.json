@@ -1,0 +1,104 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomer0000home",
+  "associated-names": "Paley, F. A. (Frederick Apthorp), 1815-1888",
+  "boxid": "IA1354107",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection_set": "trent",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1866",
+  "description": [
+   "2 v. --",
+   "v.1. Books I.-XII"
+  ],
+  "language": [
+   "grc",
+   "eng",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "old_pallet": "IA13893",
+  "openlibrary_edition": "OL26569528M",
+  "openlibrary_work": "OL17982540W",
+  "operator": "associate-rowella-baroro@archive.org",
+  "ppi": "300",
+  "publisher": "London : Whittaker",
+  "repub_state": "19",
+  "scanner": "station13.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "trent",
+  "scribe3_search_id": "0116405236708",
+  "title": "The Iliad of Homer",
+  "tts_version": "2.1-final-6-g58a4a27",
+  "uploader": "station13.cebu@archive.org",
+  "addeddate": "2019-07-20 06:50:21",
+  "publicdate": "2019-07-20 06:50:32",
+  "imagecount": "538",
+  "scandate": "20190720082157",
+  "notes": "Tight binding.<br />",
+  "republisher_operator": "archivebooks08.cebu@archive.org",
+  "republisher_date": "20190722234229",
+  "republisher_time": "1127",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer0000home",
+  "identifier-ark": "ark:/13960/t6938mp6m",
+  "bookplateleaf": "0002",
+  "external-identifier": [
+   "urn:acs6:iliadofhomer0000home:epub:4e80c921-2704-49f1-be72-0a28d3141271",
+   "urn:acs6:iliadofhomer0000home:pdf:57619486-b575-4a94-8c8d-dab8d59dc251",
+   "urn:oclc:record:1157149339"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20190731",
+  "collection": [
+   "trent_university",
+   "internetarchivebooks"
+  ],
+  "backup_location": "ia906907_27",
+  "usl_hit": "auto",
+  "page_number_confidence": "100",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9725",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer0000home.pdf",
+   "format": "Text PDF",
+   "size": "37170372"
+  },
+  {
+   "name": "iliadofhomer0000home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2169967"
+  },
+  {
+   "name": "iliadofhomer0000home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "23875963"
+  },
+  {
+   "name": "iliadofhomer0000home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "256159449"
+  },
+  {
+   "name": "iliadofhomer0000home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "90535"
+  },
+  {
+   "name": "iliadofhomer0000home_scandata.xml",
+   "format": "Scandata",
+   "size": "550436"
+  }
+ ]
+}

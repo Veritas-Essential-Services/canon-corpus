@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The Iliad",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Leaf, Walter, 1852-1927"
+  ],
+  "description": "26 27",
+  "publisher": "London : Macmillan",
+  "date": "1886",
+  "language": "grc",
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "PIMS - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "pimslibrary",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "318186744",
+  "repub_state": "4",
+  "updatedate": "2011-08-24 15:31:37",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadhome02home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2011-08-24 15:31:39",
+  "publicdate": "2011-08-24 15:31:49",
+  "scanner": "scribe17.toronto.archive.org",
+  "repub_seconds": "370",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-alicia-pryce@archive.org",
+  "scandate": "20110826154319",
+  "imagecount": "542",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadhome02home",
+  "identifier-ark": "ark:/13960/t70v9f784",
+  "bookplateleaf": "0004",
+  "scanfee": "105",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110902151407[/date][state]approved[/state]",
+  "sponsordate": "20110831",
+  "backup_location": "ia903702_24",
+  "external-identifier": "urn:oclc:record:1046539077",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:44 UTC 2020",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9720",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadhome02home.pdf",
+   "format": "Text PDF",
+   "size": "55376284"
+  },
+  {
+   "name": "iliadhome02home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3167861"
+  },
+  {
+   "name": "iliadhome02home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "29625841"
+  },
+  {
+   "name": "iliadhome02home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "294243476"
+  },
+  {
+   "name": "iliadhome02home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "92236"
+  },
+  {
+   "name": "iliadhome02home_scandata.xml",
+   "format": "Scandata",
+   "size": "539827"
+  }
+ ]
+}

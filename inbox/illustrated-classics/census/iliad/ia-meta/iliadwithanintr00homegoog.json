@@ -1,0 +1,79 @@
+{
+ "metadata": {
+  "google-id": "evoYAAAAYAAJ",
+  "identifier": "iliadwithanintr00homegoog",
+  "scanner": "google",
+  "title": "Iliad, books I-XII, with an introduction, a brief Homeric grammar and notes",
+  "source": "http://books.google.com/books?id=evoYAAAAYAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "Oxford, Clarendon Press",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadwithanintr00homegoog",
+  "contributor": "Harvard University",
+  "scandate": "20080415",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "pages"
+  ],
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "identifier-ark": "ark:/13960/t19k4vs2v",
+  "imagecount": "503",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-10-12 10:23:14",
+  "backup_location": "ia903604_3",
+  "addeddate": "2009-10-12 10:23:14",
+  "oclc-id": "77928864",
+  "date": "1886",
+  "foldoutcount": "0",
+  "page_number_confidence": "80.88",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9924",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadwithanintr00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1339445"
+  },
+  {
+   "name": "iliadwithanintr00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13039865"
+  },
+  {
+   "name": "iliadwithanintr00homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "464392599"
+  },
+  {
+   "name": "iliadwithanintr00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "100215"
+  },
+  {
+   "name": "iliadwithanintr00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "165109"
+  },
+  {
+   "name": "iliadwithanintr00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "26351332"
+  }
+ ]
+}

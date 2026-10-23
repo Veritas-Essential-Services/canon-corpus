@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "publisher": "Boston : Allyn & Bacon",
+  "identifier": "iliadhomerbooks00keepgoog",
+  "scanner": "google",
+  "title": "Iliad of Homer : books I-VI ; with an introduction and notes by Robert P. Keep",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerbooks00keepgoog",
+  "year": "1883",
+  "date": "1897",
+  "scandate": "20070412000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "159 pages"
+  ],
+  "identifier-ark": "ark:/13960/t5t72ms0j",
+  "imagecount": "539",
+  "publicdate": "2008-09-22 11:34:02",
+  "source": "http://books.google.com/books?id=niUBAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "oclc-id": "19581099",
+  "repub_state": "4",
+  "backup_location": "ia903602_13",
+  "addeddate": "2008-09-22 11:34:02",
+  "associated-names": "Keep, Robert Porter, 1844-1904",
+  "foldoutcount": "0",
+  "page_number_confidence": "88.87",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6996",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerbooks00keepgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1395966"
+  },
+  {
+   "name": "iliadhomerbooks00keepgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15659439"
+  },
+  {
+   "name": "iliadhomerbooks00keepgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "106309"
+  },
+  {
+   "name": "iliadhomerbooks00keepgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "178354"
+  },
+  {
+   "name": "iliadhomerbooks00keepgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "26500350"
+  }
+ ]
+}

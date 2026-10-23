@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "D.C. Heath",
+  "identifier": "popesiliadhomer00homegoog",
+  "scanner": "google",
+  "title": "Pope's The Iliad of Homer: Books I, VI, XXII, and XXIV",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/popesiliadhomer00homegoog",
+  "year": "1899",
+  "date": "1899",
+  "oclc-id": "3603335",
+  "scandate": "20060614",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6251p43p",
+  "imagecount": "193",
+  "publicdate": "2008-04-13 14:15:14",
+  "source": "http://books.google.com/books?id=VmjkvfJBEOcC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_30",
+  "addeddate": "2008-04-13 14:15:14",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "popesiliadhomer00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "269042"
+  },
+  {
+   "name": "popesiliadhomer00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2373815"
+  },
+  {
+   "name": "popesiliadhomer00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "57737"
+  }
+ ]
+}

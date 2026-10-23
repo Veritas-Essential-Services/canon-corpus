@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "identifier": "treasureisland00broagoog",
+  "scanner": "google",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1904",
+  "scandate": "20070319",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=CokAAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/treasureisland00broagoog",
+  "identifier-ark": "ark:/13960/t0pr8774k",
+  "imagecount": "247",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-19 10:23:27",
+  "backup_location": "ia903603_9",
+  "addeddate": "2009-06-19 10:23:27",
+  "usl_hit": "auto",
+  "oclc-id": [
+   "903448294",
+   "1154445279"
+  ],
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Chicago : Scott, Foresman and Co.",
+  "date": "1907",
+  "subject": [
+   "Readers",
+   "Anglais (Langue) -- Lectures et morceaux choisis",
+   "Readers"
+  ],
+  "description": [
+   "1 online resource (239 pages)",
+   "Print version record",
+   "Electronic reproduction. [Place of publication not identified] : HathiTrust Digital Library",
+   "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+   "digitized 2015"
+  ],
+  "associated-names": "Broadus, Edmund Kemper, 1876-1936",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584588M"
+ },
+ "files": [
+  {
+   "name": "treasureisland00broagoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "40892734"
+  },
+  {
+   "name": "treasureisland00broagoog_scandata.xml",
+   "format": "Scandata",
+   "size": "74227"
+  }
+ ]
+}

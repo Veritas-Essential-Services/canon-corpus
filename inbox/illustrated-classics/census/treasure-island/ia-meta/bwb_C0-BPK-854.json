@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_C0-BPK-854",
+  "boxid": "IA41699011",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "robert louis stevenson",
+  "date": "1911",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000842",
+  "operator": "associate-sherwin-pasaylo@archive.org",
+  "page-progression": "lr",
+  "publisher": "new york: charles scribner's sons",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250723182725",
+  "scanner": "station46.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "C0-BPK-854",
+  "title": "treasure island ",
+  "tts_version": "6.12-initial-130-g273c8f53",
+  "uploader": "station46.cebu@archive.org",
+  "publicdate": "2025-07-23 06:26:17",
+  "identifier-access": "http://archive.org/details/bwb_C0-BPK-854",
+  "identifier-ark": "ark:/13960/s2d71r98v36",
+  "imagecount": "316",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-jonathan-balignot@archive.org;associate-mervin-collantes@archive.org",
+  "republisher_date": "20250730165350",
+  "republisher_time": "283",
+  "foldoutcount": "0",
+  "image_count": "314",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9185",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_C0-BPK-854:epub:c1e5289e-b5e8-4007-bc89-595744888bf9",
+   "urn:lcp:bwb_C0-BPK-854:lcpdf:37efa770-2b50-4643-b6ff-92e8183e6dbe"
+  ],
+  "addeddate": "2025-07-31 00:19:14"
+ },
+ "files": [
+  {
+   "name": "bwb_C0-BPK-854.pdf",
+   "format": "Text PDF",
+   "size": "15394234"
+  },
+  {
+   "name": "bwb_C0-BPK-854_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "394478"
+  },
+  {
+   "name": "bwb_C0-BPK-854_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5641254"
+  },
+  {
+   "name": "bwb_C0-BPK-854_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "148038042"
+  },
+  {
+   "name": "bwb_C0-BPK-854_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "53323"
+  },
+  {
+   "name": "bwb_C0-BPK-854_scandata.xml",
+   "format": "Scandata",
+   "size": "378694"
+  }
+ ]
+}

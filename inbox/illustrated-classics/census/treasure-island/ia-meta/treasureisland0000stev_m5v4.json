@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000stev_m5v4",
+  "boxid": "IA40918702",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Stevenson, Robert Louis; Charles Robert Gaston, editor",
+  "date": "1911-01-01",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA409066",
+  "openlibrary_edition": "OL59083629M",
+  "openlibrary_work": "OL43324383W",
+  "operator": "associate-fritzijuls-quiroben@archive.org",
+  "page-progression": "lr",
+  "publisher": "D. C. Heath & Co., Boston",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station14.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "P8-BXI-733",
+  "title": "Treasure Island",
+  "tts_version": "5.5-initial-237-gc5cdb0bc",
+  "uploader": "station14.cebu@archive.org",
+  "publicdate": "2023-04-28 05:11:49",
+  "identifier-access": "http://archive.org/details/treasureisland0000stev_m5v4",
+  "identifier-ark": "ark:/13960/s2gpv5kv660",
+  "scandate": "20230428080754",
+  "imagecount": "296",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-glennblair-beduya@archive.org",
+  "republisher_date": "20230503173942",
+  "republisher_time": "195",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000stev_m5v4:epub:b317494d-ecc1-42e3-a0ad-735c4c80b313",
+   "urn:acs6:treasureisland0000stev_m5v4:pdf:1dfbd3d9-6b2d-4084-9c62-ba443744ef9b",
+   "urn:lcp:treasureisland0000stev_m5v4:lcpdf:cdb5050d-719c-48ad-832a-d030ecb0cbaf"
+  ],
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.22",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "addeddate": "2023-05-04 00:05:03",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000stev_m5v4.pdf",
+   "format": "Text PDF",
+   "size": "11029704"
+  },
+  {
+   "name": "treasureisland0000stev_m5v4_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "439606"
+  },
+  {
+   "name": "treasureisland0000stev_m5v4_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6141285"
+  },
+  {
+   "name": "treasureisland0000stev_m5v4_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "94054009"
+  },
+  {
+   "name": "treasureisland0000stev_m5v4_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "49381"
+  },
+  {
+   "name": "treasureisland0000stev_m5v4_scandata.xml",
+   "format": "Scandata",
+   "size": "314999"
+  }
+ ]
+}

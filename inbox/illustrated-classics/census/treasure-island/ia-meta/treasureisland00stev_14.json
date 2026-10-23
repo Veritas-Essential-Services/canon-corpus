@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "language": "English",
+  "scanningcenter": "alberta",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "University of Alberta Libraries",
+  "date": "1926",
+  "subject": "English",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "collection": [
+   "ualberta_historical_school",
+   "ualbertawiedrick",
+   "toronto",
+   "university_of_alberta_libraries"
+  ],
+  "shiptracking": "20wied01",
+  "cat_key": "2743246",
+  "year": "1926",
+  "approval_statement": "Fiction; status: other; Reading (supplementary reading); level: Gr. 7; approved: 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. Fiction; status: other; Reading; (supplementary reading); level: Gr. 6; approved: 1936. No particular edition is recommended or required.",
+  "approval_date": "Approval: 1927-1936; 1944",
+  "level": "Elementary",
+  "level_subject": "Elementary English",
+  "publisher": "Toronto : Copp Clark Co.",
+  "description": "234 p. ; 19 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-03-05 16:59:01",
+  "updater": "associate-alex-white@archive.org",
+  "identifier": "treasureisland00stev_14",
+  "uploader": "associate-alex-white@archive.org",
+  "publicdate": "2020-03-05 16:59:04",
+  "scanner": "scribe2.alberta.archive.org",
+  "operator": "associate-raven-germain@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.4-initial-24-g43fd317",
+  "imagecount": "246",
+  "scandate": "20200306005222",
+  "ppi": "300",
+  "republisher_operator": "associate-julian-freeman@archive.org",
+  "republisher_date": "20200309140721",
+  "republisher_time": "655",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland00stev_14",
+  "identifier-ark": "ark:/13960/t9r29hv0m",
+  "addeddate": "2020-03-09 19:55:04",
+  "scanfee": "300;12;240",
+  "invoice": "1133",
+  "openlibrary_edition": "OL27925656M",
+  "openlibrary_work": "OL24034W",
+  "sponsordate": "20200331",
+  "external-identifier": "urn:oclc:record:1157940909",
+  "usl_hit": "auto",
+  "backup_location": "ia907106_31",
+  "oclc-id": "70615261",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.3",
+  "collection_added": "university_of_alberta_libraries"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev_14.pdf",
+   "format": "Text PDF",
+   "size": "11062865"
+  },
+  {
+   "name": "treasureisland00stev_14_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "486561"
+  },
+  {
+   "name": "treasureisland00stev_14_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6031105"
+  },
+  {
+   "name": "treasureisland00stev_14_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "149263912"
+  },
+  {
+   "name": "treasureisland00stev_14_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "41275"
+  },
+  {
+   "name": "treasureisland00stev_14_scandata.xml",
+   "format": "Scandata",
+   "size": "252413"
+  }
+ ]
+}

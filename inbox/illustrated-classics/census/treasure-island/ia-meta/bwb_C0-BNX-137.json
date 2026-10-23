@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "bwb_C0-BNX-137",
+  "boxid": "IA41694412",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "ROBERT LOUIS STEVENSON",
+  "date": "1907",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000934",
+  "operator": "associate-don-francisco@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station70.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "C0-BNX-137",
+  "title": "TREASURE ISLAND",
+  "tts_version": "6.12-initial-130-g273c8f53",
+  "uploader": "station70.cebu@archive.org",
+  "publicdate": "2025-07-15 11:44:09",
+  "identifier-access": "http://archive.org/details/bwb_C0-BNX-137",
+  "identifier-ark": "ark:/13960/s2n53gc83dm",
+  "scandate": "20250715130146",
+  "imagecount": "332",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-ritzell-pardillo@archive.org",
+  "republisher_date": "20250717204111",
+  "republisher_time": "365",
+  "foldoutcount": "0",
+  "image_count": "330",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9752",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_C0-BNX-137:epub:52562171-a708-45c3-b510-4d7a34542314",
+   "urn:lcp:bwb_C0-BNX-137:lcpdf:872b7b68-bc69-4893-bfa6-02ebe5820784"
+  ],
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2025-07-18 00:20:38"
+ },
+ "files": [
+  {
+   "name": "bwb_C0-BNX-137.pdf",
+   "format": "Text PDF",
+   "size": "10380748"
+  },
+  {
+   "name": "bwb_C0-BNX-137_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "392998"
+  },
+  {
+   "name": "bwb_C0-BNX-137_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5555484"
+  },
+  {
+   "name": "bwb_C0-BNX-137_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "95318285"
+  },
+  {
+   "name": "bwb_C0-BNX-137_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56157"
+  },
+  {
+   "name": "bwb_C0-BNX-137_scandata.xml",
+   "format": "Scandata",
+   "size": "396970"
+  }
+ ]
+}

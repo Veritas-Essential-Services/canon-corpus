@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "identifier": "treasureislandki0000rlst",
+  "boxid": "IA41712816",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "R.L. Stevenson",
+  "date": "1910",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-0000817",
+  "openlibrary_edition": "OL48584366M",
+  "openlibrary_work": "OL35991592W",
+  "operator": "associate-gigi-socias@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250811104404",
+  "scanner": "station23.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KS-523-402",
+  "title": "Treasure Island and Kidnapped",
+  "tts_version": "6.12-initial-133-g70b4a4ad",
+  "uploader": "station23.cebu@archive.org",
+  "publicdate": "2025-08-11 09:33:59",
+  "identifier-access": "http://archive.org/details/treasureislandki0000rlst",
+  "identifier-ark": "ark:/13960/s2vfrxvkh90",
+  "imagecount": "388",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-rosie-allanic@archive.org;associate-miraflor-gimena@archive.org;associate-ritzell-pardillo@archive.org",
+  "republisher_date": "20250821064908",
+  "republisher_time": "605",
+  "foldoutcount": "0",
+  "image_count": "386",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l kir+lat+eng+Cyrillic+Arabic+Latin",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": [
+   "Latin",
+   "Cyrillic",
+   "Arabic"
+  ],
+  "ocr_detected_script_conf": [
+   "0.9758",
+   "0.0107",
+   "0.0135"
+  ],
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:treasureislandki0000rlst:epub:5485b2d1-6e8f-4e62-9eb9-3b47b7c30d04",
+   "urn:lcp:treasureislandki0000rlst:lcpdf:4582d6aa-0c4a-48ef-8ae2-ff896ccd83f0"
+  ],
+  "addeddate": "2025-08-22 00:17:52"
+ },
+ "files": [
+  {
+   "name": "treasureislandki0000rlst.pdf",
+   "format": "Text PDF",
+   "size": "18662103"
+  },
+  {
+   "name": "treasureislandki0000rlst_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "827348"
+  },
+  {
+   "name": "treasureislandki0000rlst_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11898701"
+  },
+  {
+   "name": "treasureislandki0000rlst_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "147681446"
+  },
+  {
+   "name": "treasureislandki0000rlst_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "64876"
+  },
+  {
+   "name": "treasureislandki0000rlst_scandata.xml",
+   "format": "Scandata",
+   "size": "480049"
+  }
+ ]
+}

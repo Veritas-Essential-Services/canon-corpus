@@ -1,0 +1,69 @@
+{
+ "metadata": {
+  "identifier": "ost-english-6130-pdf",
+  "contributor": "hst",
+  "date": "1899",
+  "language": "eng",
+  "mediatype": "texts",
+  "publisher": "Project Gutenberg EBook",
+  "rights": "Public Domain",
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Alexander Pope, trans."
+  ],
+  "subject": [
+   "ancient greece",
+   "english",
+   "classics",
+   "mythology"
+  ],
+  "publicdate": "2012-11-13 03:22:03",
+  "uploader": "jake@archive.org",
+  "addeddate": "2012-11-13 03:22:03",
+  "identifier-access": "http://archive.org/details/ost-english-6130-pdf",
+  "identifier-ark": "ark:/13960/t8v99f94m",
+  "ppi": "300",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "curation": "[curator]malware@archive.org[/curator][date]20140325201705[/date][comment]checked for malware[/comment]",
+  "backup_location": "ia905601_16",
+  "usl_hit": "auto",
+  "collection_added": [
+   "the_stacks",
+   "additional_collections",
+   "patron-library-collection"
+  ],
+  "collection": [
+   "opentextbooklibrary",
+   "patron-library-collection"
+  ]
+ },
+ "files": [
+  {
+   "name": "6130-pdf.pdf",
+   "format": "Text PDF",
+   "size": "4544385"
+  },
+  {
+   "name": "6130-pdf_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1169985"
+  },
+  {
+   "name": "6130-pdf_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10918030"
+  },
+  {
+   "name": "6130-pdf_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "239180760"
+  },
+  {
+   "name": "6130-pdf_scandata.xml",
+   "format": "Scandata",
+   "size": "251523"
+  }
+ ]
+}

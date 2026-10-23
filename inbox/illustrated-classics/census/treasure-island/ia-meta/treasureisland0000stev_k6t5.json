@@ -1,0 +1,101 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000stev_k6t5",
+  "boxid": "IA41914808",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "date": "1883",
+  "description": [
+   "xi, 205 p. : 18 cm",
+   "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune",
+   "Includes bibliographical references (p. [203]-205)",
+   "Originally published: 1883"
+  ],
+  "isbn": "0553212494",
+  "language": "eng",
+  "mediatype": "texts",
+  "oclc-id": "56105652",
+  "old_pallet": "IA-NS-0001026",
+  "openlibrary_edition": "OL38600543M",
+  "openlibrary_work": "OL24034W",
+  "operator": "associate-jean-bonsukan@archive.org",
+  "page-progression": "lr",
+  "publisher": "New York : Bantam Books",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station27.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "isbn",
+  "scribe3_search_id": "9780553212495",
+  "subject": [
+   "Buried treasure -- Fiction",
+   "Pirates -- Fiction",
+   "Adventure and adventurers -- Fiction"
+  ],
+  "title": "Treasure Island",
+  "tts_version": "7.4-initial-102-gccf38d26",
+  "uploader": "station27.cebu@archive.org",
+  "publicdate": "2026-07-27 16:21:07",
+  "notes": "Cut off text due to tight binding.",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000stev_k6t5",
+  "identifier-ark": "ark:/13960/s25vxxp6mcx",
+  "scandate": "20260727180757",
+  "imagecount": "214",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-antonietta-paller@archive.org;associate-ritzell-pardillo@archive.org",
+  "republisher_date": "20260804040020",
+  "republisher_time": "500",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9211",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000stev_k6t5:epub:8fc26427-8e89-408b-b3dd-fc6bc428afed",
+   "urn:lcp:treasureisland0000stev_k6t5:lcpdf:aea369a8-fd94-48d6-82e3-86e8d07d9104"
+  ],
+  "addeddate": "2026-08-04 03:09:32"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000stev_k6t5.pdf",
+   "format": "Text PDF",
+   "size": "9280362"
+  },
+  {
+   "name": "treasureisland0000stev_k6t5_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "400962"
+  },
+  {
+   "name": "treasureisland0000stev_k6t5_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5474291"
+  },
+  {
+   "name": "treasureisland0000stev_k6t5_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "80636714"
+  },
+  {
+   "name": "treasureisland0000stev_k6t5_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "35740"
+  },
+  {
+   "name": "treasureisland0000stev_k6t5_scandata.xml",
+   "format": "Scandata",
+   "size": "267392"
+  }
+ ]
+}

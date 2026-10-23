@@ -1,0 +1,51 @@
+{
+ "metadata": {
+  "identifier": "homersiliadbook00popegoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook00popegoog",
+  "year": "1896",
+  "scandate": "20070316",
+  "copyright-region": "US",
+  "identifier-ark": "ark:/13960/t41r6v69f",
+  "imagecount": "135",
+  "publicdate": "2008-04-06 22:01:49",
+  "source": "http://books.google.com/books?id=sXsAAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903601_29",
+  "addeddate": "2008-04-06 22:01:49",
+  "oclc-id": "1833003",
+  "title": "Homer's iliad : (books I., VI., XXII., XXIV.)",
+  "creator": "Homer",
+  "publisher": "New York : American Book Company",
+  "date": "1896",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry"
+  ],
+  "lccn": "^^^12034485^",
+  "description": [
+   "120 p. ; 19 cm",
+   "Includes bibliographical references"
+  ],
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL15391264W",
+  "openlibrary_edition": "OL20623706M",
+  "collection": "americana"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook00popegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "40607"
+  }
+ ]
+}

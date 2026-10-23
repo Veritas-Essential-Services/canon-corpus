@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1894",
+  "title": "The twenty-fourth book of the Iliad",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "25",
+  "identifier_bib": "9.91188423800010E+016",
+  "call_number": "PA4019.A2",
+  "publisher": "London ; New York : Macmillan",
+  "associated-names": "Leaf, Walter, 1852-1927; Bayfield, M. A. (Matthew Albert), 1852-1922",
+  "description": [
+   "xxix, 101 p. 15 cm",
+   "committed to retain 20160630"
+  ],
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:15:54",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "twentyfourthbook00home",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:15:56",
+  "scanner": "scribe4.boston.archive.org",
+  "operator": "associate-rozelda-lacoss@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "146",
+  "scandate": "20200218164050",
+  "sent_to_scribe": "scribe4.boston.archive.org",
+  "ppi": "300",
+  "republisher_operator": "admin-tim-bigelow@archive.org;associate-rozelda-lacoss@archive.org",
+  "republisher_date": "20200220132604",
+  "republisher_time": "456",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/twentyfourthbook00home",
+  "identifier-ark": "ark:/13960/t5t80xq4w",
+  "addeddate": "2020-02-20 19:49:26",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL18353824M",
+  "openlibrary_work": "OL61981W",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1158063162",
+  "usl_hit": "auto",
+  "backup_location": "ia907104_17",
+  "oclc-id": "48946938",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9019",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "62",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "twentyfourthbook00home.pdf",
+   "format": "Text PDF",
+   "size": "6509714"
+  },
+  {
+   "name": "twentyfourthbook00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "381163"
+  },
+  {
+   "name": "twentyfourthbook00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3406001"
+  },
+  {
+   "name": "twentyfourthbook00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "46713344"
+  },
+  {
+   "name": "twentyfourthbook00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "24490"
+  },
+  {
+   "name": "twentyfourthbook00home_scandata.xml",
+   "format": "Scandata",
+   "size": "148989"
+  }
+ ]
+}

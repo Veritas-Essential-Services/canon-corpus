@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "iliad0000home_a6j6",
+  "boxid": "IA41359502",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Όμηρος (Homer)",
+  "date": "1909",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-2000333",
+  "openlibrary_edition": "OL58877236M",
+  "openlibrary_work": "OL43229941W",
+  "operator": "associate-jayann-eneldas@archive.org",
+  "page-progression": "lr",
+  "publisher": "Cassell and Company Ltd",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20240712021134",
+  "scanner": "station22.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KT-338-222",
+  "title": "The Iliad",
+  "tts_version": "6.7-initial-115-g8e543b5f",
+  "uploader": "station22.cebu@archive.org",
+  "publicdate": "2024-07-12 00:04:32",
+  "identifier-access": "http://archive.org/details/iliad0000home_a6j6",
+  "identifier-ark": "ark:/13960/s2p29313cp8",
+  "imagecount": "464",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-ronil-villaceran@archive.org",
+  "republisher_date": "20240802205928",
+  "republisher_time": "436",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:iliad0000home_a6j6:epub:cb9b2edd-fa43-421f-a238-8f3f33fa557c",
+   "urn:lcp:iliad0000home_a6j6:lcpdf:8536432c-7f4f-4abe-96cb-e3b7f991227a",
+   "urn:acs6:iliad0000home_a6j6:pdf:ce9898e8-de6b-4423-bb07-f41fe61c8c19"
+  ],
+  "page_number_confidence": "96",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2024-08-03 00:04:08"
+ },
+ "files": [
+  {
+   "name": "iliad0000home_a6j6.pdf",
+   "format": "Text PDF",
+   "size": "23275183"
+  },
+  {
+   "name": "iliad0000home_a6j6_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1016144"
+  },
+  {
+   "name": "iliad0000home_a6j6_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13547720"
+  },
+  {
+   "name": "iliad0000home_a6j6_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "193337712"
+  },
+  {
+   "name": "iliad0000home_a6j6_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "77564"
+  },
+  {
+   "name": "iliad0000home_a6j6_scandata.xml",
+   "format": "Scandata",
+   "size": "493879"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "volume": "1",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr. trl"
+  ],
+  "subject": [
+   "Homer",
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "description": "1",
+  "publisher": "London : [H. Baldwin & Son]",
+  "date": "1801",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "contributor": "Harold B. Lee Library",
+  "scanningcenter": "provo",
+  "mediatype": "texts",
+  "collection": [
+   "brigham_young_university",
+   "americana"
+  ],
+  "call_number": "ACW4584",
+  "repub_state": "4",
+  "updatedate": "2011-06-21 22:29:49",
+  "updater": "WhitneyYoung",
+  "identifier": "iliadofhomer1801home",
+  "uploader": "whitneyyoung@archive.org",
+  "addeddate": "2011-06-21 22:29:51",
+  "publicdate": "2011-06-21 22:29:55",
+  "shiptracking": "a0012",
+  "scanner": "scribe1.provo.archive.org",
+  "repub_seconds": "70848",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-22@archive.org",
+  "scandate": "20110701171354",
+  "imagecount": "432",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer1801home",
+  "identifier-ark": "ark:/13960/t1fj3c59w",
+  "scanfee": "100",
+  "curation": "[curator]paul.n@archive.org[/curator][date]20111005213749[/date][state]approved[/state]",
+  "sponsordate": "20110930",
+  "backup_location": "ia903700_32",
+  "openlibrary_edition": "OL24755760M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:53 UTC 2020",
+  "associated-names": "Pope, Alexander, 1688-1744, tr",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "89",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer1801home.pdf",
+   "format": "Text PDF",
+   "size": "29620817"
+  },
+  {
+   "name": "iliadofhomer1801home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "607045"
+  },
+  {
+   "name": "iliadofhomer1801home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7394300"
+  },
+  {
+   "name": "iliadofhomer1801home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "235126757"
+  },
+  {
+   "name": "iliadofhomer1801home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "73575"
+  },
+  {
+   "name": "iliadofhomer1801home_scandata.xml",
+   "format": "Scandata",
+   "size": "433934"
+  }
+ ]
+}

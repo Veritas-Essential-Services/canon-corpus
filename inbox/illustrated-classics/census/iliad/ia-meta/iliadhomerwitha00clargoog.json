@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "D. McKay",
+  "identifier": "iliadhomerwitha00clargoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer: With an Interlinear Translation, for the Use of Schools and Private Learners ...",
+  "creator": "Homer,  Thomas Clark",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerwitha00clargoog",
+  "year": "1888",
+  "date": "1888",
+  "oclc-id": "84450407",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t9x065v1p",
+  "imagecount": "377",
+  "publicdate": "2008-05-12 19:37:38",
+  "source": "http://books.google.com/books?id=SyQBAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_34",
+  "addeddate": "2008-05-12 19:37:38",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerwitha00clargoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "638211"
+  },
+  {
+   "name": "iliadhomerwitha00clargoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5478337"
+  },
+  {
+   "name": "iliadhomerwitha00clargoog_scandata.xml",
+   "format": "Scandata",
+   "size": "113211"
+  }
+ ]
+}

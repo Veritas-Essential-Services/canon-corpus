@@ -1,0 +1,53 @@
+{
+ "metadata": {
+  "identifier": "robert-louis-stevenson-treasure-island-1883-eng-www.-etoile.-app",
+  "mediatype": "texts",
+  "collection": "opensource",
+  "creator": "Robert Louis Stevenson",
+  "date": "1883",
+  "description": "<p>\"Treasure Island\" is an adventure novel written by Robert Louis Stevenson, first published in 1883. It tells the thrilling tale of pirates, buried treasure, and daring escapades on the high seas.</p><p>The story begins with Jim Hawkins, a young boy living at his family's inn in England, who discovers a treasure map in the chest of a deceased guest, Billy Bones. With the help of local doctor Dr. Livesey and the squire Trelawney, Jim sets off on a voyage aboard the Hispaniola to find the buried treasure on the remote Skeleton Island.</p><p>Onboard the ship, Jim encounters a crew led by the charismatic but treacherous Long John Silver, who quickly becomes a central figure in the unfolding adventure. As they sail towards the island, Jim learns of a mutinous plot among the crew to seize the treasure for themselves.</p><p>Once on the island, Jim and his companions face numerous challenges, including battles with pirates, navigating treacherous terrain, and uncovering the secrets of the buried treasure. Throughout the journey, Jim proves himself courageous and resourceful, while Long John Silver reveals his complex and morally ambiguous character.</p><p>\"Treasure Island\" is celebrated for its vivid portrayal of pirate life, its memorable characters, and its gripping plot filled with twists and turns. It captures the essence of swashbuckling adventure, with themes of loyalty, greed, and the allure of hidden riches.</p><p>The novel has remained a beloved classic of literature, inspiring countless adaptations and influencing popular culture's perception of pirates and treasure hunts. Robert Louis Stevenson's \"Treasure Island\" continues to captivate readers of all ages with its timeless tale of high seas adventure and the search for buried treasure.</p>",
+  "language": "english-handwritten",
+  "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": "book",
+  "title": "Robert Louis Stevenson - Treasure Island (1883) (ENG)",
+  "uploader": "editionetoile@gmail.com",
+  "publicdate": "2024-06-23 15:44:37",
+  "addeddate": "2024-06-23 15:44:37",
+  "curation": "[curator]validator@archive.org[/curator][date]20240623155012[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/robert-louis-stevenson-treasure-island-1883-eng-www.-etoile.-app",
+  "identifier-ark": "ark:/13960/s2hmbz1wrvh",
+  "ppi": "300",
+  "ocr": "tesseract 5.3.0-6-g76ae: language not currently OCRable",
+  "ocr_module_version": "0.0.21",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "Robert Louis Stevenson - Treasure Island (1883) (ENG) [Www.Etoile.App].pdf",
+   "format": "Text PDF",
+   "size": "762275"
+  },
+  {
+   "name": "Robert Louis Stevenson - Treasure Island (1883) (ENG) [Www.Etoile.App]_djvu.xml",
+   "format": "Djvu XML",
+   "size": "89"
+  },
+  {
+   "name": "Robert Louis Stevenson - Treasure Island (1883) (ENG) [Www.Etoile.App]_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "95902258"
+  },
+  {
+   "name": "Robert Louis Stevenson - Treasure Island (1883) (ENG) [Www.Etoile.App]_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "24231"
+  },
+  {
+   "name": "Robert Louis Stevenson - Treasure Island (1883) (ENG) [Www.Etoile.App]_scandata.xml",
+   "format": "Scandata",
+   "size": "45790"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "metadata": {
+  "publisher": "James R. Osgood",
+  "identifier": "iliadhomer04bryagoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  William Cullen Bryant",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1875",
+  "date": "1875",
+  "oclc-id": "71389969",
+  "scandate": "20070305",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=UOcsAAAAMAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "volume": "2",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomer04bryagoog",
+  "identifier-ark": "ark:/13960/t8pc3dv85",
+  "imagecount": "447",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 17:06:37",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-09 17:06:37",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer04bryagoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "476390"
+  },
+  {
+   "name": "iliadhomer04bryagoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4887239"
+  },
+  {
+   "name": "iliadhomer04bryagoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "88391946"
+  },
+  {
+   "name": "iliadhomer04bryagoog_scandata.xml",
+   "format": "Scandata",
+   "size": "134223"
+  }
+ ]
+}

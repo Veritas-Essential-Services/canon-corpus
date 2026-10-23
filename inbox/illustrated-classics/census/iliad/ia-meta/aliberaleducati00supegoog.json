@@ -1,0 +1,83 @@
+{
+ "metadata": {
+  "publisher": "London, Longmans and Co.",
+  "identifier": "aliberaleducati00supegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer with a verse translation",
+  "creator": [
+   "Homer",
+   "Green, W. C. (William Charles), 1832-1914"
+  ],
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/aliberaleducati00supegoog",
+  "year": "1907",
+  "date": "1884",
+  "oclc-id": "4415236",
+  "scandate": "20060426000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "Greek and English on opposite pages",
+   "No more published"
+  ],
+  "identifier-ark": "ark:/13960/t1wd42p9x",
+  "imagecount": "117",
+  "publicdate": "2008-09-14 00:55:17",
+  "source": "http://books.google.com/books?id=JpDUUrocsVQC&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "lccn": "10000298",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_13",
+  "addeddate": "2008-09-14 00:55:17",
+  "usl_hit": "auto",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9069",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.72",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "aliberaleducati00supegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "115359"
+  },
+  {
+   "name": "aliberaleducati00supegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1500835"
+  },
+  {
+   "name": "aliberaleducati00supegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "20168"
+  },
+  {
+   "name": "aliberaleducati00supegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "38393"
+  },
+  {
+   "name": "aliberaleducati00supegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "2385350"
+  }
+ ]
+}

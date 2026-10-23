@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_NqNfAAAAMAAJ",
+  "creator": "Homer",
+  "date": "1902",
+  "google-id": "NqNfAAAAMAAJ",
+  "language": [
+   "English",
+   "grc"
+  ],
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "publisher": "Macmillan and Company, limited",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=NqNfAAAAMAAJ&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "The Iliad",
+  "year": "1902",
+  "publicdate": "2015-01-25 14:29:39",
+  "collection": "americana",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2015-01-25 14:29:39",
+  "curation": "[curator]validator@archive.org[/curator][date]20150125143020[/date][comment]checked for malware[/comment]",
+  "oclc-id": "214110021",
+  "contributor": "University of Michigan",
+  "identifier-access": "http://archive.org/details/bub_gb_NqNfAAAAMAAJ",
+  "identifier-ark": "ark:/13960/t8tb49w0s",
+  "imagecount": "760",
+  "repub_state": "4",
+  "backup_location": "ia905300_7",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "page_number_confidence": "93.02",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9130",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "pdf_degraded": "invalid-page-size"
+ },
+ "files": [
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ.pdf",
+   "format": "Text PDF",
+   "size": "74744019"
+  },
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3182791"
+  },
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ_djvu.xml",
+   "format": "Djvu XML",
+   "size": "37313782"
+  },
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "511976434"
+  },
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "155138"
+  },
+  {
+   "name": "bub_gb_NqNfAAAAMAAJ_scandata.xml",
+   "format": "Scandata",
+   "size": "252863"
+  }
+ ]
+}

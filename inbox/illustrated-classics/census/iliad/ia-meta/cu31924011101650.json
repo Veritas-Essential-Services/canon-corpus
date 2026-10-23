@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad; ed., with apparatus criticus, prolegomena, notes, and appendices",
+  "identifier": "cu31924011101650",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-28 04:24:34",
+  "identifier-access": "http://www.archive.org/details/cu31924011101650",
+  "identifier-ark": "ark:/13960/t6d22gt7j",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+  "lccn": "04015413",
+  "call_number": "PA4019 .A2 1900",
+  "camera": "EOS-1Ds",
+  "lcamid": "335454",
+  "rcamid": "318640",
+  "operator": "dsheffield",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Leaf, Walter, 1852-1927"
+  ],
+  "publisher": "London, Macmillan and Co., limited ; New York, The Macmillian Company",
+  "date": "1900",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "imagecount": "700",
+  "bookplateleaf": "0003",
+  "scandate": "20080103182445",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-10-31 14:40:28",
+  "filesxml": "Sun Mar 7 0:58:21 UTC 2010",
+  "backup_location": "ia903604_8",
+  "usl_hit": "auto",
+  "page_number_confidence": "94.71",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7828",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "cu31924011101650.pdf",
+   "format": "Text PDF",
+   "size": "35594296"
+  },
+  {
+   "name": "cu31924011101650_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2872851"
+  },
+  {
+   "name": "cu31924011101650_djvu.xml",
+   "format": "Djvu XML",
+   "size": "33305383"
+  },
+  {
+   "name": "cu31924011101650_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "404306025"
+  },
+  {
+   "name": "cu31924011101650_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "143702"
+  },
+  {
+   "name": "cu31924011101650_scandata.xml",
+   "format": "Scandata",
+   "size": "247883"
+  }
+ ]
+}

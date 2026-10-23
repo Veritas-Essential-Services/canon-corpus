@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "subject": "Achilles (Greek mythology)",
+  "publisher": "Cambridge",
+  "date": "1866",
+  "language": "eng",
+  "lccn": "unk84023210",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC154",
+  "call_number": "9556553",
+  "identifier-bib": "00030602493",
+  "repub_state": "4",
+  "updatedate": "2012-09-27 00:50:38",
+  "updater": "ChristinaB",
+  "identifier": "iliadofhomer00ho",
+  "uploader": "christina.b@archive.org",
+  "addeddate": "2012-09-27 00:50:41",
+  "publicdate": "2012-09-27 00:50:44",
+  "repub_seconds": "358",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-lian-kam@archive.org",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "scandate": "20121002114546",
+  "republisher": "associate-phillip-gordon@archive.org",
+  "imagecount": "576",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer00ho",
+  "identifier-ark": "ark:/13960/t1kh1v18j",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_5",
+  "openlibrary_edition": "OL2860431M",
+  "openlibrary_work": "OL2007590W",
+  "external-identifier": "urn:oclc:record:1046534209",
+  "usl_hit": "auto",
+  "republisher_operator": "associate-phillip-gordon@archive.org",
+  "republisher_date": "20121002163042",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "99",
+  "description": "594 p",
+  "pdf_module_version": "0.0.20",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00ho.pdf",
+   "format": "Text PDF",
+   "size": "45932043"
+  },
+  {
+   "name": "iliadofhomer00ho_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1282631"
+  },
+  {
+   "name": "iliadofhomer00ho_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15007362"
+  },
+  {
+   "name": "iliadofhomer00ho_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "387707144"
+  },
+  {
+   "name": "iliadofhomer00ho_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "97817"
+  },
+  {
+   "name": "iliadofhomer00ho_scandata.xml",
+   "format": "Scandata",
+   "size": "755272"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "metadata": {
+  "google-id": "2WUNAAAAYAAJ",
+  "identifier": "iliadhomerliter00buckgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer: Literally Translated, with Explanatory Notes",
+  "source": "http://books.google.com/books?id=2WUNAAAAYAAJ&oe=UTF-8",
+  "creator": "Homer,  Theodore Alois Buckley",
+  "publisher": "Harper & Bros.",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerliter00buckgoog",
+  "year": "1876",
+  "date": "1876",
+  "contributor": "New York Public Library",
+  "oclc-id": "37739678",
+  "scandate": "20070914",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t0ht3331x",
+  "imagecount": "486",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-01 05:17:37",
+  "backup_location": "ia903603_12",
+  "addeddate": "2009-07-01 05:17:37",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerliter00buckgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1090223"
+  },
+  {
+   "name": "iliadhomerliter00buckgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10458499"
+  },
+  {
+   "name": "iliadhomerliter00buckgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "558884630"
+  },
+  {
+   "name": "iliadhomerliter00buckgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "145928"
+  }
+ ]
+}

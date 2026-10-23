@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomer0000unse_w1u7",
+  "boxid": "IA41362211",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "language": "gre",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA-CB-2000302",
+  "openlibrary_edition": "OL47736356M",
+  "openlibrary_work": "OL35322731W",
+  "operator": "associate-carltissa-barrientos@archive.org",
+  "page-progression": "lr",
+  "publisher": "London : Whittaker",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20240716222208",
+  "scanner": "station68.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KS-266-865",
+  "title": "The Iliad of Homer, with English notes",
+  "tts_version": "6.8-initial-131-g6b0abc54",
+  "uploader": "station68.cebu@archive.org",
+  "publicdate": "2024-07-16 19:53:30",
+  "identifier-access": "http://archive.org/details/iliadofhomer0000unse_w1u7",
+  "identifier-ark": "ark:/13960/s2jfv088n8q",
+  "imagecount": "440",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "sent_to_scribe": "station68.cebu.archive.org",
+  "oclc-id": "8527001",
+  "date": "1866",
+  "ppi": "360",
+  "republisher_operator": "associate-mavanessa-cando@archive.org;aababon@innodata.com",
+  "republisher_date": "20240808203222",
+  "republisher_time": "1328",
+  "foldoutcount": "0",
+  "bookplateleaf": "0006",
+  "external-identifier": [
+   "urn:lcp:iliadofhomer0000unse_w1u7:epub:55cbc085-ac49-4f77-92d4-ec24d76fff85",
+   "urn:lcp:iliadofhomer0000unse_w1u7:lcpdf:2eb65d6b-2ced-47ef-a80a-4d999eec604f",
+   "urn:acs6:iliadofhomer0000unse_w1u7:pdf:e3f839d0-82a7-4d15-93ff-84e4695b569c"
+  ],
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "addeddate": "2024-08-09 00:09:06",
+  "openlibrary": "OL47736356M",
+  "description": "2 volumes, 1 unnumbered leaf of plates ; 23 cm",
+  "associated-names": "Paley, F. A. (Frederick Apthorp), 1815-1888",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l ell",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9701",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer0000unse_w1u7.pdf",
+   "format": "Text PDF",
+   "size": "14802227"
+  },
+  {
+   "name": "iliadofhomer0000unse_w1u7_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1489905"
+  },
+  {
+   "name": "iliadofhomer0000unse_w1u7_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12446657"
+  },
+  {
+   "name": "iliadofhomer0000unse_w1u7_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "106222118"
+  },
+  {
+   "name": "iliadofhomer0000unse_w1u7_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "74414"
+  },
+  {
+   "name": "iliadofhomer0000unse_w1u7_scandata.xml",
+   "format": "Scandata",
+   "size": "469483"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "S.C. Griggs & company",
+  "identifier": "firstsixbooksho02homegoog",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho02homegoog",
+  "year": "1869",
+  "date": "1869",
+  "oclc-id": "8168083",
+  "scandate": "20060217000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "language": "grc",
+  "identifier-ark": "ark:/13960/t7dr33k4z",
+  "imagecount": "253",
+  "publicdate": "2008-10-14 11:18:26",
+  "source": "http://books.google.com/books?id=3dWJPW9lNucC&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "lccn": "41033548",
+  "repub_state": "4",
+  "backup_location": "ia903602_16",
+  "addeddate": "2008-10-14 11:18:26"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "876602"
+  },
+  {
+   "name": "firstsixbooksho02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4966021"
+  },
+  {
+   "name": "firstsixbooksho02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "75508"
+  }
+ ]
+}

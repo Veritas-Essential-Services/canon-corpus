@@ -1,0 +1,79 @@
+{
+ "metadata": {
+  "identifier": "bub_gb_nqeSGgk82HoC",
+  "date": "1819",
+  "google-id": "nqeSGgk82HoC",
+  "language": [
+   "lat",
+   "grc"
+  ],
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=nqeSGgk82HoC&hl=&source=gbs_api",
+  "sponsor": "Google",
+  "subject": "bub_upload",
+  "title": "Homeri Opera quæ exstant omnia [Iliad, Odyssey, and Hymns], Græce et Latine",
+  "year": "1819",
+  "publicdate": "2014-08-31 15:32:32",
+  "uploader": "tools.bub@tools.wmflabs.org",
+  "addeddate": "2014-08-31 15:32:32",
+  "curation": "[curator]validator@archive.org[/curator][date]20140831153352[/date][comment]checked for malware[/comment]",
+  "contributor": "National Central Library of Florence",
+  "identifier-access": "http://archive.org/details/bub_gb_nqeSGgk82HoC",
+  "identifier-ark": "ark:/13960/t03z12932",
+  "imagecount": "707",
+  "repub_state": "4",
+  "backup_location": "ia905903_16",
+  "collection": "europeanlibraries",
+  "foldoutcount": "0",
+  "page_number_confidence": "88.85",
+  "oclc-id": "1063218544",
+  "creator": "Homer",
+  "publisher": "Patavii : Ex Typographia Seminarii",
+  "description": [
+   "2 volumes ; (8º)",
+   "The titlepage of vol. 2 reads: \"Homeri Odyssea et Hymni fere omnes,\" etc"
+  ],
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+lat+Fraktur",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.8746",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "bub_gb_nqeSGgk82HoC.pdf",
+   "format": "Text PDF",
+   "size": "62211627"
+  },
+  {
+   "name": "bub_gb_nqeSGgk82HoC_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2172722"
+  },
+  {
+   "name": "bub_gb_nqeSGgk82HoC_djvu.xml",
+   "format": "Djvu XML",
+   "size": "20980742"
+  },
+  {
+   "name": "bub_gb_nqeSGgk82HoC_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "358199631"
+  },
+  {
+   "name": "bub_gb_nqeSGgk82HoC_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "134648"
+  },
+  {
+   "name": "bub_gb_nqeSGgk82HoC_scandata.xml",
+   "format": "Scandata",
+   "size": "232294"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "google-id": "PWJEAAAAIAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=PWJEAAAAIAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer06unkngoog",
+  "oclc-id": "19080170",
+  "identifier": "iliadhomer06unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "vii, 506 pages ; 20 cm"
+  ],
+  "contributor": "University of California",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t03x8m99w",
+  "imagecount": "531",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-03-09 09:06:17",
+  "creator": "Homer",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 09:06:17",
+  "usl_hit": "auto",
+  "publisher": "London ; New York : Macmillan",
+  "date": "1893",
+  "subject": [
+   "Homer -- Translations into English",
+   "Achilles (Mythological character) -- Poetry",
+   "Homer",
+   "Achilles (Mythological character)",
+   "Trojan War -- Poetry"
+  ],
+  "associated-names": "Lang, Andrew, 1844-1912; Leaf, Walter, 1852-1927; Myers, Ernest, 1844-1921",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadhomer06unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1108384"
+  },
+  {
+   "name": "iliadhomer06unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13663379"
+  },
+  {
+   "name": "iliadhomer06unkngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "90423"
+  },
+  {
+   "name": "iliadhomer06unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "187712"
+  },
+  {
+   "name": "iliadhomer06unkngoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "27402832"
+  }
+ ]
+}

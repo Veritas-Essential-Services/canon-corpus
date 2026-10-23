@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "contributor": "The Library of Congress",
+  "date": "1921",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates",
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction"
+  ],
+  "title": "Treasure Island",
+  "lccn": "22006610",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST005802",
+  "call_number": "9193056",
+  "identifier_bib": "00023124348",
+  "boxid": "00023124348",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "publisher": "Dansville, N.Y., F. A. Owen publishing company",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2016-05-19 10:17:18",
+  "updatedate": "2016-05-19 11:15:24",
+  "updater": "associate-mike-saelee@archive.org",
+  "identifier": "treasureisland00stev_11",
+  "uploader": "associate-mike-saelee@archive.org",
+  "addeddate": "2016-05-19 11:15:26",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "operator": "associate-katherine-olson@archive.org",
+  "imagecount": "246",
+  "scandate": "20160711181030",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland00stev_11",
+  "identifier-ark": "ark:/13960/t42r8m449",
+  "scanfee": "100",
+  "invoice": "1263",
+  "curation": "[curator]associate-annie-coates@archive.org[/curator][date]20160713132149[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20160731",
+  "backup_location": "ia906108_28",
+  "fadgi": "true",
+  "republisher_operator": "associate-jillian-davis@archive.org",
+  "republisher_date": "20160712100853",
+  "republisher_time": "1099",
+  "external-identifier": "urn:oclc:record:1157918814",
+  "usl_hit": "auto",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "description": "229, [1] p. 17 cm",
+  "associated-names": "Signor, Florence R., [from old catalog] ed",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL26304717M",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev_11.pdf",
+   "format": "Text PDF",
+   "size": "63106131"
+  },
+  {
+   "name": "treasureisland00stev_11_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "479829"
+  },
+  {
+   "name": "treasureisland00stev_11_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5953300"
+  },
+  {
+   "name": "treasureisland00stev_11_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "65199612"
+  },
+  {
+   "name": "treasureisland00stev_11_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "41356"
+  },
+  {
+   "name": "treasureisland00stev_11_scandata.xml",
+   "format": "Scandata",
+   "size": "249932"
+  }
+ ]
+}

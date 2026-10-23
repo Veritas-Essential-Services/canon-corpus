@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "bwb_T4-APR-614",
+  "boxid": "IA41701405",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert louis stevenson",
+  "date": "1875",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000833",
+  "operator": "associate-sherlyn-bentoy@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250725062639",
+  "scanner": "station02.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T4-APR-614",
+  "title": "Treasure island",
+  "tts_version": "6.12-initial-130-g273c8f53",
+  "uploader": "station02.cebu@archive.org",
+  "publicdate": "2025-07-24 19:03:53",
+  "identifier-access": "http://archive.org/details/bwb_T4-APR-614",
+  "identifier-ark": "ark:/13960/s2gzmn82jq6",
+  "imagecount": "254",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-hena-dalida@archive.org",
+  "republisher_date": "20250728200713",
+  "republisher_time": "393",
+  "foldoutcount": "0",
+  "image_count": "252",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+Latin",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9983",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "79",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_T4-APR-614:epub:73760725-f663-4d63-b850-346b09aa489d",
+   "urn:lcp:bwb_T4-APR-614:lcpdf:feb52128-da2d-49b3-ad12-8bd44f23bd3a"
+  ],
+  "addeddate": "2025-07-29 00:33:58"
+ },
+ "files": [
+  {
+   "name": "bwb_T4-APR-614.pdf",
+   "format": "Text PDF",
+   "size": "8985110"
+  },
+  {
+   "name": "bwb_T4-APR-614_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "388132"
+  },
+  {
+   "name": "bwb_T4-APR-614_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5453745"
+  },
+  {
+   "name": "bwb_T4-APR-614_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "70332381"
+  },
+  {
+   "name": "bwb_T4-APR-614_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "42669"
+  },
+  {
+   "name": "bwb_T4-APR-614_scandata.xml",
+   "format": "Scandata",
+   "size": "303449"
+  }
+ ]
+}

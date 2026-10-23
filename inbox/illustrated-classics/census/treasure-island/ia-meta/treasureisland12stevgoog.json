@@ -1,0 +1,54 @@
+{
+ "metadata": {
+  "identifier": "treasureisland12stevgoog",
+  "scanner": "google",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1907",
+  "scandate": "20080213000000",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=5GsVAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/treasureisland12stevgoog",
+  "identifier-ark": "ark:/13960/t84j0xx6x",
+  "imagecount": "305",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-19 08:37:35",
+  "backup_location": "ia903603_9",
+  "addeddate": "2009-06-19 08:37:35",
+  "usl_hit": "auto",
+  "oclc-id": "894208051",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Boston : Small, Maynard",
+  "date": "1907",
+  "description": [
+   "1 online resource (vi, 277 pages) :",
+   "Print version record",
+   "Electronic reproduction. [Place of publication not identified] : HathiTrust Digital Library",
+   "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+   "digitized 2014"
+  ],
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584582M"
+ },
+ "files": [
+  {
+   "name": "treasureisland12stevgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "38601757"
+  },
+  {
+   "name": "treasureisland12stevgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "91627"
+  }
+ ]
+}

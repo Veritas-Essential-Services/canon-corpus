@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "publisher": "Allyn and Bacon",
+  "identifier": "iliadhomerbooks01homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, books I-VI",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerbooks01homegoog",
+  "year": "1883",
+  "date": "1897",
+  "oclc-id": "35260129",
+  "scandate": "20070412",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "volumes 20 cm"
+  ],
+  "identifier-ark": "ark:/13960/t3gx4j177",
+  "imagecount": "541",
+  "publicdate": "2008-09-22 11:41:10",
+  "source": "http://books.google.com/books?id=tyQBAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_13",
+  "openlibrary_edition": "OL20582393M",
+  "openlibrary_work": "OL13089721W",
+  "addeddate": "2008-09-22 11:41:10",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "page_number_confidence": "88.91",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8048",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerbooks01homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1398492"
+  },
+  {
+   "name": "iliadhomerbooks01homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15633709"
+  },
+  {
+   "name": "iliadhomerbooks01homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "105979"
+  },
+  {
+   "name": "iliadhomerbooks01homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "179010"
+  },
+  {
+   "name": "iliadhomerbooks01homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "26540434"
+  }
+ ]
+}

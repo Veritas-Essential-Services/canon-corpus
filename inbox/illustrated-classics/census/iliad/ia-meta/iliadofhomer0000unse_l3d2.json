@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomer0000unse_l3d2",
+  "boxid": "IA41289719",
+  "camera": "USB PTP Class Camera",
+  "col_number": "COL-979",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "language": "eng",
+  "mediatype": "texts",
+  "metasource_catalog": "openlibrary",
+  "old_pallet": "IA411625",
+  "openlibrary_edition": "OL49643299M",
+  "openlibrary_work": "OL36756155W",
+  "operator": "associate-alvin-alicabo@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "26737",
+  "repub_state": "19",
+  "scandate": "20240423213930",
+  "scanner": "station61.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "O9-BDV-272",
+  "title": "The Iliad of Homer",
+  "tts_version": "6.6-initial-51-g87eeca82",
+  "uploader": "station61.cebu@archive.org",
+  "publicdate": "2024-04-23 19:27:31",
+  "identifier-access": "http://archive.org/details/iliadofhomer0000unse_l3d2",
+  "identifier-ark": "ark:/13960/s28rh3zx6gh",
+  "imagecount": "386",
+  "autocrop_version": "0.0.17_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-teresita-fernandez@archive.org",
+  "republisher_date": "20240428105605",
+  "republisher_time": "159",
+  "foldoutcount": "0",
+  "bookplateleaf": "0004",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9755",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:iliadofhomer0000unse_l3d2:epub:66e80f98-72d8-44c3-bcf6-ea644b65c233",
+   "urn:lcp:iliadofhomer0000unse_l3d2:lcpdf:ce9d7767-06f3-4eea-af55-9cd957bb44a6",
+   "urn:acs6:iliadofhomer0000unse_l3d2:pdf:2821231f-15f5-4397-80f8-ce31cf81094e"
+  ],
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23",
+  "collection": [
+   "internetarchivebooks",
+   "universityofarizonalib"
+  ],
+  "oclc-id": "37756030",
+  "publisher": "London : J. Sharpe",
+  "date": "1809",
+  "addeddate": "2025-07-26 00:36:50",
+  "openlibrary": "OL49643299M",
+  "description": [
+   "4 volumes in 2 : 14 cm",
+   "Each volume has separate t.-p"
+  ],
+  "associated-names": "Pope, Alexander, 1688-1744"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer0000unse_l3d2.pdf",
+   "format": "Text PDF",
+   "size": "14966443"
+  },
+  {
+   "name": "iliadofhomer0000unse_l3d2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "668567"
+  },
+  {
+   "name": "iliadofhomer0000unse_l3d2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "8269226"
+  },
+  {
+   "name": "iliadofhomer0000unse_l3d2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "114654870"
+  },
+  {
+   "name": "iliadofhomer0000unse_l3d2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "64987"
+  },
+  {
+   "name": "iliadofhomer0000unse_l3d2_scandata.xml",
+   "format": "Scandata",
+   "size": "411675"
+  }
+ ]
+}

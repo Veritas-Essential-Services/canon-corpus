@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "identifier": "bwb_KU-286-666",
+  "boxid": "IA41539716",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1883",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-2000401",
+  "operator": "associate-jessanen-becari@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250111074823",
+  "scanner": "station47.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KU-286-666",
+  "title": "Treasure Island",
+  "tts_version": "6.10-intial-145-g80f07ce5",
+  "uploader": "station47.cebu@archive.org",
+  "publicdate": "2025-01-11 05:15:47",
+  "identifier-access": "http://archive.org/details/bwb_KU-286-666",
+  "identifier-ark": "ark:/13960/s21txws3gcr",
+  "imagecount": "330",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-elena-descartin@archive.org",
+  "republisher_date": "20250117122249",
+  "republisher_time": "239",
+  "foldoutcount": "0",
+  "image_count": "328",
+  "bookplateleaf": "0002",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9621",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_KU-286-666:epub:dd4adbee-c3e0-4739-b38e-d7dc2f462f0b",
+   "urn:lcp:bwb_KU-286-666:lcpdf:03620513-0bc3-4f0f-9b10-bba60e78a214",
+   "urn:acs6:bwb_KU-286-666:pdf:885bff1f-8202-41db-a880-66d8aa84276d"
+  ],
+  "page_number_confidence": "96",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.26",
+  "addeddate": "2025-01-18 00:55:12",
+  "openlibrary_edition": "OL58634762M",
+  "openlibrary_work": "OL43042916W"
+ },
+ "files": [
+  {
+   "name": "bwb_KU-286-666.pdf",
+   "format": "Text PDF",
+   "size": "13559363"
+  },
+  {
+   "name": "bwb_KU-286-666_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "395841"
+  },
+  {
+   "name": "bwb_KU-286-666_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5661421"
+  },
+  {
+   "name": "bwb_KU-286-666_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "116153266"
+  },
+  {
+   "name": "bwb_KU-286-666_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55365"
+  },
+  {
+   "name": "bwb_KU-286-666_scandata.xml",
+   "format": "Scandata",
+   "size": "394622"
+  }
+ ]
+}

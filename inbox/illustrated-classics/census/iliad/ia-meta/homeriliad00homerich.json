@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Cayley, C. B. (Charles Bagot), 1823-1876"
+  ],
+  "publisher": "London : Longmans",
+  "date": "1877",
+  "language": "eng",
+  "copyright-evidence-operator": "Internet Archive biblio tool",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item homeriliad00homerich on March 17, 2008: no visible notice of copyright; stated date is 1877.",
+  "copyright-evidence-date": "20080317220915",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-151514618",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-151514618",
+  "updatedate": "2008-03-17 22:09:18",
+  "updater": "judyjordan",
+  "identifier": "homeriliad00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2008-03-17 22:09:20",
+  "publicdate": "2008-03-17 22:09:32",
+  "imagecount": "430",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-jennifer-mansfield@archive.org",
+  "scanner": "scribe10",
+  "scandate": "20080318223958",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homeriliad00homerich",
+  "identifier-ark": "ark:/13960/t6xw4ff7w",
+  "bookplateleaf": "0008",
+  "sponsordate": "20080331",
+  "curation": "[curator]julie@archive.org[/curator][date]20080513214321[/date][state]approved[/state]",
+  "filesxml": [
+   "Tue Aug 18 17:55:03 UTC 2009",
+   "Thu Dec 24 16:17:33 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_27",
+  "openlibrary_edition": "OL22882888M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046541315",
+  "usl_hit": "auto",
+  "oclc-id": "11167092",
+  "description": "413 p. ; 23 cm",
+  "associated-names": "Cayley, C. B. (Charles Bagot), 1823-1876",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "homeriliad00homerich.pdf",
+   "format": "Text PDF",
+   "size": "21378398"
+  },
+  {
+   "name": "homeriliad00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1120456"
+  },
+  {
+   "name": "homeriliad00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13022052"
+  },
+  {
+   "name": "homeriliad00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "144582733"
+  },
+  {
+   "name": "homeriliad00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "72796"
+  },
+  {
+   "name": "homeriliad00homerich_scandata.xml",
+   "format": "Scandata",
+   "size": "226284"
+  }
+ ]
+}

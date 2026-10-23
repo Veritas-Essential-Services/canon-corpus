@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "identifier": "firstbookhomers00homegoog",
+  "scanner": "google",
+  "title": "The first book of Homer's Iliad;",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/firstbookhomers00homegoog",
+  "year": "1876",
+  "date": "1892",
+  "oclc-id": "10899635",
+  "scandate": "20060810",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+   "141 pages"
+  ],
+  "identifier-ark": "ark:/13960/t04x5ct11",
+  "imagecount": "207",
+  "publicdate": "2008-05-26 04:17:07",
+  "source": "http://books.google.com/books?id=C4ACAAAAQAAJ&oe=UTF-8",
+  "contributor": "Oxford University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "repub_state": "4",
+  "backup_location": "ia903602_0",
+  "openlibrary_edition": "OL20473494M",
+  "openlibrary_work": "OL13096394W",
+  "addeddate": "2008-05-26 04:17:07",
+  "publisher": "London, Longmans, Green and Co.",
+  "language": "eng",
+  "associated-names": "White, John Talbot",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9064",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "73.43",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstbookhomers00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "411890"
+  },
+  {
+   "name": "firstbookhomers00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5587252"
+  },
+  {
+   "name": "firstbookhomers00homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "39438"
+  },
+  {
+   "name": "firstbookhomers00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "67367"
+  },
+  {
+   "name": "firstbookhomers00homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "9134140"
+  }
+ ]
+}

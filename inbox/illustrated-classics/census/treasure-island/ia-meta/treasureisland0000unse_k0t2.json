@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_k0t2",
+  "boxid": "IA40008624",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA19878",
+  "operator": "associate-louisdavid-randoy@archive.org",
+  "ppi": "300",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station02.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "title": "Treasure Island",
+  "tts_version": "4.2-initial-96-gec740589",
+  "uploader": "station02.cebu@archive.org",
+  "publicdate": "2020-11-25 07:42:30",
+  "imagecount": "262",
+  "scandate": "20201128011928",
+  "republisher_operator": "associate-rosie-allanic@archive.org;associate-glennblair-beduya@archive.org",
+  "republisher_date": "20201130120452",
+  "republisher_time": "823",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_k0t2",
+  "identifier-ark": "ark:/13960/t6sz6212r",
+  "bookplateleaf": "0008",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.7",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9400",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "external-identifier": [
+   "urn:acs6:treasureisland0000unse_k0t2:pdf:ace72871-e8f2-4f70-8d65-b135a25a38e8",
+   "urn:oclc:record:1435504350"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20201130",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Chicago, Scott, Foresman",
+  "date": "1904",
+  "lccn": "04026113",
+  "description": "239 pages 17 cm",
+  "associated-names": "Broadus, Edmund Kemper, 1876-1936",
+  "addeddate": "2021-02-10 00:01:07",
+  "pdf_module_version": "0.0.7",
+  "openlibrary_edition": "OL32363852M",
+  "openlibrary_work": "OL24034W",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_k0t2.pdf",
+   "format": "Text PDF",
+   "size": "11771487"
+  },
+  {
+   "name": "treasureisland0000unse_k0t2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "437828"
+  },
+  {
+   "name": "treasureisland0000unse_k0t2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6033149"
+  },
+  {
+   "name": "treasureisland0000unse_k0t2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "78151011"
+  },
+  {
+   "name": "treasureisland0000unse_k0t2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "43810"
+  },
+  {
+   "name": "treasureisland0000unse_k0t2_scandata.xml",
+   "format": "Scandata",
+   "size": "278673"
+  }
+ ]
+}

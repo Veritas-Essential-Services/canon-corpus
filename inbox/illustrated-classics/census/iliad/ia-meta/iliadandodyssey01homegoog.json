@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "G. and W. Nicol, Pall Mall : J. Murray , Albemarle Street",
+  "identifier": "iliadandodyssey01homegoog",
+  "scanner": "google",
+  "title": "The Iliad and Odyssey",
+  "notes": "Bound in red marble paper boards with red leather spine stamped in gold; top edge, gold.\n\n",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "William Sotheby",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadandodyssey01homegoog",
+  "year": "1834",
+  "date": "1834",
+  "oclc-id": "2208687",
+  "scandate": "20060830000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6542wm2x",
+  "imagecount": "477",
+  "publicdate": "2008-08-25 05:36:22",
+  "source": "http://books.google.com/books?id=wzcRAAAAIAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_10",
+  "addeddate": "2008-08-25 05:36:22",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadandodyssey01homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "459717"
+  },
+  {
+   "name": "iliadandodyssey01homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4673817"
+  },
+  {
+   "name": "iliadandodyssey01homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "143173"
+  }
+ ]
+}

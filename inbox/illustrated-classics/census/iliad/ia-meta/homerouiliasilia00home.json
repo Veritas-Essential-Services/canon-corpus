@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "Homerou Ilias = the Iliad of Homer, according to the text of Wolf : with notes for the use of schools and colleges",
+  "creator": [
+   "Homer",
+   "Owen, John Jason, 1808-1869. edt",
+   "Wolf, F. A. (Friedrich August), 1759-1824, ed. edt"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "description": [
+   "Includes bibliographical references",
+   "1"
+  ],
+  "publisher": "New York : D. Appleton & Co.",
+  "date": "1871",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "contributor": "Harold B. Lee Library",
+  "scanningcenter": "provo",
+  "mediatype": "texts",
+  "collection": [
+   "brigham_young_university",
+   "americana"
+  ],
+  "call_number": "ACW4594",
+  "repub_state": "4",
+  "updatedate": "2011-02-17 00:34:14",
+  "updater": "WhitneyYoung",
+  "identifier": "homerouiliasilia00home",
+  "uploader": "whitneyyoung@archive.org",
+  "addeddate": "2011-02-17 00:34:16",
+  "publicdate": "2011-02-17 00:34:20",
+  "notes": "some tight margins",
+  "ppi": "300",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-05sc@archive.org",
+  "scanner": "scribe1.provo.archive.org",
+  "scandate": "20110303030118",
+  "imagecount": "746",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homerouiliasilia00home",
+  "identifier-ark": "ark:/13960/t1xd1qr5x",
+  "scanfee": "10",
+  "curation": "[curator]callie@archive.org[/curator][date]20110404162946[/date][state]approved[/state]",
+  "sponsordate": "20110331",
+  "backup_location": "ia903608_32",
+  "openlibrary_edition": "OL24612938M",
+  "openlibrary_work": "OL15684659W",
+  "external-identifier": "urn:oclc:record:1046540251",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 16:17:46 UTC 2020",
+  "page_number_confidence": "100",
+  "associated-names": "Owen, John Jason, 1808-1869; Wolf, F. A. (Friedrich August), 1759-1824, ed",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6241",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homerouiliasilia00home.pdf",
+   "format": "Text PDF",
+   "size": "61530461"
+  },
+  {
+   "name": "homerouiliasilia00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2360273"
+  },
+  {
+   "name": "homerouiliasilia00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "24320866"
+  },
+  {
+   "name": "homerouiliasilia00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "538328886"
+  },
+  {
+   "name": "homerouiliasilia00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "126462"
+  },
+  {
+   "name": "homerouiliasilia00home_scandata.xml",
+   "format": "Scandata",
+   "size": "387989"
+  }
+ ]
+}

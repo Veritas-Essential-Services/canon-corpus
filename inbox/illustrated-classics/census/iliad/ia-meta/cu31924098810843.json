@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer with a verse translation",
+  "identifier": "cu31924098810843",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-11-07 12:02:48",
+  "identifier-access": "http://www.archive.org/details/cu31924098810843",
+  "identifier-ark": "ark:/13960/t5v701c15",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "Greek and English on opposite pages",
+   "No more published"
+  ],
+  "lccn": "10000298 //r",
+  "call_number": "PA4020 .A1 1884",
+  "camera": "EOS-1D",
+  "lcamid": "337562",
+  "rcamid": "337626",
+  "operator": "mandrews",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Green, W. C. (William Charles), 1832-1914, tr"
+  ],
+  "publisher": "London, Longmans and Co.",
+  "date": "1884",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "imagecount": "564",
+  "bookplateleaf": "0003",
+  "scandate": "20071012071931",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-24 08:19:57",
+  "filesxml": "Mon Mar 8 2:42:47 UTC 2010",
+  "backup_location": "ia903604_15",
+  "usl_hit": "auto",
+  "page_number_confidence": "95.20",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9882",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "cu31924098810843.pdf",
+   "format": "Text PDF",
+   "size": "15757233"
+  },
+  {
+   "name": "cu31924098810843_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1180406"
+  },
+  {
+   "name": "cu31924098810843_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12479774"
+  },
+  {
+   "name": "cu31924098810843_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "182061487"
+  },
+  {
+   "name": "cu31924098810843_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "109309"
+  },
+  {
+   "name": "cu31924098810843_scandata.xml",
+   "format": "Scandata",
+   "size": "199817"
+  }
+ ]
+}

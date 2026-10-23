@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "bwb_KR-402-880",
+  "boxid": "IA40849009",
+  "camera": "USB PTP Class Camera",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-2000834",
+  "operator": "associate-marjoy-pepito@archive.org",
+  "page-progression": "lr",
+  "publisher": "Ward lock & Co., Limited",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station35.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "KR-402-880",
+  "title": "Treasure Island",
+  "tts_version": "5.4-initial-25-ga9c0370c",
+  "uploader": "station35.cebu@archive.org",
+  "publicdate": "2023-02-07 13:12:48",
+  "identifier-access": "http://archive.org/details/bwb_KR-402-880",
+  "identifier-ark": "ark:/13960/s2858c8n1j0",
+  "scandate": "20230207163902",
+  "imagecount": "236",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "ppi": "360",
+  "republisher_operator": "associate-rochelle-sesaldo@archive.org",
+  "republisher_date": "20230211225149",
+  "republisher_time": "365",
+  "foldoutcount": "0",
+  "bookplateleaf": "0004",
+  "ocr": "tesseract 5.3.0-1-gd3a4",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.18",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9860",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_KR-402-880:epub:f30e47fc-1361-4baf-97d9-838d46a8f62a",
+   "urn:acs6:bwb_KR-402-880:pdf:574974fd-3aa0-4c5e-8219-7b5750889cd1",
+   "urn:lcp:bwb_KR-402-880:lcpdf:a1bcaf45-ae8f-4139-b662-415d534b30ad"
+  ],
+  "page_number_confidence": "100",
+  "pdf_module_version": "0.0.20",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "sponsordate": "20230228",
+  "collection": "internetarchivebooks",
+  "date": "1920-01-01",
+  "page_number_module_version": "1.0.5",
+  "addeddate": "2024-06-10 00:02:24",
+  "openlibrary_edition": "OL58622484M",
+  "openlibrary_work": "OL43032914W"
+ },
+ "files": [
+  {
+   "name": "bwb_KR-402-880.pdf",
+   "format": "Text PDF",
+   "size": "10083087"
+  },
+  {
+   "name": "bwb_KR-402-880_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "399517"
+  },
+  {
+   "name": "bwb_KR-402-880_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5567406"
+  },
+  {
+   "name": "bwb_KR-402-880_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "88423929"
+  },
+  {
+   "name": "bwb_KR-402-880_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "39473"
+  },
+  {
+   "name": "bwb_KR-402-880_scandata.xml",
+   "format": "Scandata",
+   "size": "251153"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "Iliad; books 13-24. With notes by D.B. Monro",
+  "volume": "13-24",
+  "creator": [
+   "Homer",
+   "Monro, D. B. (David Binning), 1836-1905"
+  ],
+  "description": "26",
+  "publisher": "Oxford Clarendon Press",
+  "date": "1903",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item iliadbooks1324wi1324homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1903.",
+  "copyright-evidence-date": "20080202021357",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3548",
+  "updatedate": "2008-02-02 02:14:35",
+  "updater": "Marlete Kurten",
+  "identifier": "iliadbooks1324wi1324homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 02:14:41",
+  "publicdate": "2008-02-02 02:15:34",
+  "imagecount": "472",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "becky@archive.org",
+  "scanner": "scribe14",
+  "scandate": "20080204185150",
+  "identifier-access": "http://www.archive.org/details/iliadbooks1324wi1324homeuoft",
+  "identifier-ark": "ark:/13960/t9b56jp6v",
+  "notes": "narrow margins",
+  "bookplateleaf": "0002",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153354[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 18:00:47 UTC 2009",
+   "Thu Dec 24 17:34:39 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7154872M",
+  "openlibrary_work": "OL61982W",
+  "external-identifier": "urn:oclc:record:697795412",
+  "associated-names": "Monro, D. B. (David Binning), 1836-1905",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.5332",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadbooks1324wi1324homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "21748033"
+  },
+  {
+   "name": "iliadbooks1324wi1324homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1349228"
+  },
+  {
+   "name": "iliadbooks1324wi1324homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13708055"
+  },
+  {
+   "name": "iliadbooks1324wi1324homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "137270667"
+  },
+  {
+   "name": "iliadbooks1324wi1324homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "78872"
+  },
+  {
+   "name": "iliadbooks1324wi1324homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "248278"
+  }
+ ]
+}

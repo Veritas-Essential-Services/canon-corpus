@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "identifier": "iliadofhomer00homeiala",
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Bryant, William Cullen, 1794-1878"
+  ],
+  "mediatype": "texts",
+  "date": "c1870",
+  "year": "1870",
+  "publicdate": "2006-09-05 14:01:40",
+  "addeddate": "2006-09-05 21:01:36",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "updater": [
+   "alyson-wieczorek",
+   "ARossi"
+  ],
+  "updatedate": [
+   "2006-09-05 21:01:34",
+   "2008-09-05 20:14:08"
+  ],
+  "contributor": "University of California Libraries",
+  "publisher": "Boston : Houghton, Mifflin",
+  "language": "eng",
+  "copyright-evidence-operator": "alyson-wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by alyson-wieczorek for item iliadofhomer00homeiala on September 5, 2006: no visible notice of copyright; stated date is 1870.",
+  "copyright-evidence-date": "20060905210126",
+  "sponsor": "MSN",
+  "scanningcenter": "iala",
+  "call_number": "srlf_ucla:LAGE-4066461",
+  "collection-library": "srlf_ucla",
+  "identifier-bib": "LAGE-4066461",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer00homeiala",
+  "imagecount": "732",
+  "ppi": "400",
+  "operator": "scanner-jacob-sallon@archive.org",
+  "scanner": "iala4",
+  "scandate": "20060906204841",
+  "identifier-ark": "ark:/13960/t0cv4bt5n",
+  "curation": "[curator]julie@archive.org[/curator][date]20061001030359[/date][state]approved[/state]",
+  "sponsordate": "20060930",
+  "lcamid": "1020707128",
+  "rcamid": "1020707123",
+  "camera": "5D",
+  "collection": [
+   "cdl",
+   "greatbooks",
+   "americana",
+   "greekclassicslist"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_20",
+  "openlibrary_edition": "OL7215633M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046542213",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:52 UTC 2020",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "description": "2 v. in 1 ; 21 cm",
+  "associated-names": "Bryant, William Cullen, 1794-1878",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00homeiala.pdf",
+   "format": "Text PDF",
+   "size": "23777663"
+  },
+  {
+   "name": "iliadofhomer00homeiala_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1093664"
+  },
+  {
+   "name": "iliadofhomer00homeiala_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13344953"
+  },
+  {
+   "name": "iliadofhomer00homeiala_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "690067081"
+  },
+  {
+   "name": "iliadofhomer00homeiala_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "124024"
+  }
+ ]
+}

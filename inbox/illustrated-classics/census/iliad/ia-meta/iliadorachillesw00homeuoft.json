@@ -1,0 +1,95 @@
+{
+ "metadata": {
+  "title": "The Iliad : or, Achilles' wrath; at the Siege of Ilion",
+  "creator": [
+   "Homer",
+   "Norgate, Thomas Starling, 1807-1893"
+  ],
+  "description": "26",
+  "publisher": "London : Williams",
+  "date": "1864",
+  "language": "eng",
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item iliadorachillesw00homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1864.",
+  "copyright-evidence-date": "20080202012311",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0834",
+  "updatedate": "2008-02-02 01:23:19",
+  "updater": "Marlete Kurten",
+  "identifier": "iliadorachillesw00homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 01:23:27",
+  "publicdate": "2008-02-02 01:24:31",
+  "imagecount": "720",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "aheins@archive.org",
+  "scanner": "scribe16",
+  "scandate": "20080204150022",
+  "identifier-access": "http://www.archive.org/details/iliadorachillesw00homeuoft",
+  "identifier-ark": "ark:/13960/t57d2vh28",
+  "bookplateleaf": "0003",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319152440[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 18:00:49 UTC 2009",
+   "Thu Dec 24 17:34:57 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7173618M",
+  "openlibrary_work": "OL61982W",
+  "external-identifier": "urn:oclc:record:1046593467",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "associated-names": "Norgate, Thomas Starling, 1807-1893",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadorachillesw00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "35201402"
+  },
+  {
+   "name": "iliadorachillesw00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1243086"
+  },
+  {
+   "name": "iliadorachillesw00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15409882"
+  },
+  {
+   "name": "iliadorachillesw00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "236109559"
+  },
+  {
+   "name": "iliadorachillesw00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "121958"
+  },
+  {
+   "name": "iliadorachillesw00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "379640"
+  }
+ ]
+}

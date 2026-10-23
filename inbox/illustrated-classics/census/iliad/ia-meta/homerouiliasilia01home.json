@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "title": "Homerou Ilias [microform]. The Iliad of Homer, from the text of Wolf, with English notes and Flaxman's designs",
+  "creator": "Homer",
+  "description": [
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80336-1",
+   "No. 1 on a reel of 3 titles"
+  ],
+  "publisher": "Boston",
+  "date": "1837",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0851",
+  "call_number": "1085543",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-07 17:20:00",
+  "updater": "associate-malia-young",
+  "identifier": "homerouiliasilia01home",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-07 17:20:02",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/homerouiliasilia01home",
+  "identifier-ark": "ark:/13960/t8gf21s28",
+  "imagecount": "300",
+  "transcludes": "nncmn91803361",
+  "scandate": "20130315000000",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1046489582",
+  "usl_hit": "auto",
+  "oclc-id": "31576094",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.5102",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homerouiliasilia01home.pdf",
+   "format": "Text PDF",
+   "size": "70420007"
+  },
+  {
+   "name": "homerouiliasilia01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1943884"
+  },
+  {
+   "name": "homerouiliasilia01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15318482"
+  },
+  {
+   "name": "homerouiliasilia01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "319808252"
+  },
+  {
+   "name": "homerouiliasilia01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "48865"
+  },
+  {
+   "name": "homerouiliasilia01home_scandata.xml",
+   "format": "Scandata",
+   "size": "96407"
+  }
+ ]
+}

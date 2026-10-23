@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "publisher": "London, Oxford Rivingtons",
+  "identifier": "iliadhomerfromt00reyngoog",
+  "scanner": "google",
+  "title": "Iliad of Homer, from the text of Dindorf, books I-XII",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerfromt00reyngoog",
+  "year": "1870",
+  "date": "1870",
+  "scandate": "20070914",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+   "xx, 352 pages 19 cm",
+   "Greek text"
+  ],
+  "identifier-ark": "ark:/13960/t3bz67t1s",
+  "imagecount": "417",
+  "publicdate": "2008-04-21 13:22:22",
+  "source": "http://books.google.com/books?id=i2UNAAAAYAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "14970847",
+  "repub_state": "4",
+  "backup_location": "ia903601_31",
+  "addeddate": "2008-04-21 13:22:22",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Achilles (Mythological character)",
+   "Trojan War -- Poetry",
+   "Guerre de Troie -- Poésie"
+  ],
+  "language": "gre",
+  "associated-names": "Reynolds, Samuel Harvey, 1831-1897, editor",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l ell",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9643",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83.69",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerfromt00reyngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1459759"
+  },
+  {
+   "name": "iliadhomerfromt00reyngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12270910"
+  },
+  {
+   "name": "iliadhomerfromt00reyngoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "82293"
+  },
+  {
+   "name": "iliadhomerfromt00reyngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "137309"
+  },
+  {
+   "name": "iliadhomerfromt00reyngoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21873290"
+  }
+ ]
+}

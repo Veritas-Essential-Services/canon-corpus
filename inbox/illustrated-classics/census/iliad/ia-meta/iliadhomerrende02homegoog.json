@@ -1,0 +1,60 @@
+{
+ "metadata": {
+  "publisher": "Philadelphia, Porter and Coates",
+  "identifier": "iliadhomerrende02homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer rendered into English blank verse",
+  "creator": [
+   "Homer",
+   "Derby, Edward George Geoffrey Smith Stanley, Earl of, 1799-1869",
+   "Mackenzie, R. Shelton (Robert Shelton), 1809-1880"
+  ],
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Edward Henry Stanley Derby",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1866",
+  "date": "1873",
+  "oclc-id": "2920929",
+  "scandate": "20051027",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=HnFQzBaBUZYC&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "lccn": "12036350",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": "eng",
+  "identifier-access": "http://www.archive.org/details/iliadhomerrende02homegoog",
+  "identifier-ark": "ark:/13960/t8tb1g26v",
+  "imagecount": "472",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-03-09 07:26:14",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 07:26:14",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerrende02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "458143"
+  },
+  {
+   "name": "iliadhomerrende02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4741951"
+  },
+  {
+   "name": "iliadhomerrende02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "141728"
+  }
+ ]
+}

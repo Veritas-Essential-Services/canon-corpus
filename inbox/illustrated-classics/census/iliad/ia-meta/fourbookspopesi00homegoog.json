@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "Houghton,Mifflin and co.",
+  "identifier": "fourbookspopesi00homegoog",
+  "scanner": "google",
+  "title": "Four Books of Pope's Iliad: I, VI, XXII, XXIV.",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/fourbookspopesi00homegoog",
+  "year": "1896",
+  "date": "1896",
+  "oclc-id": "1997909",
+  "scandate": "20070316000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t90869q1x",
+  "imagecount": "127",
+  "publicdate": "2008-04-07 02:06:30",
+  "source": "http://books.google.com/books?id=63sAAAAAYAAJ&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_29",
+  "addeddate": "2008-04-07 02:06:30"
+ },
+ "files": [
+  {
+   "name": "fourbookspopesi00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "194277"
+  },
+  {
+   "name": "fourbookspopesi00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1777846"
+  },
+  {
+   "name": "fourbookspopesi00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "38205"
+  }
+ ]
+}

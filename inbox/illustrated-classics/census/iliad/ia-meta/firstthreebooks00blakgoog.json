@@ -1,0 +1,81 @@
+{
+ "metadata": {
+  "publisher": "New York : American Book Co.",
+  "identifier": "firstthreebooks00blakgoog",
+  "scanner": "google",
+  "title": "The first three books of Homer's Iliad, with Lexicon : With notes critical and explanatory and references to Hadley's Crosby's, and Goodwin's Greek grammars and to Goodwin's Greek moods and tenses",
+  "creator": "Homer",
+  "contributor": "University of California",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1885",
+  "date": "1885",
+  "scandate": "20071210",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+   "294, 215 pages ; 19 cm",
+   "Text in Greek, preface and notes in English"
+  ],
+  "source": "http://books.google.com/books?id=HhNLAAAAIAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "08503223",
+  "sponsor": "Google",
+  "language": [
+   "gre",
+   "eng"
+  ],
+  "identifier-access": "http://www.archive.org/details/firstthreebooks00blakgoog",
+  "identifier-ark": "ark:/13960/t8df7719j",
+  "imagecount": "597",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-23 16:44:23",
+  "backup_location": "ia903603_18",
+  "addeddate": "2009-07-23 16:44:23",
+  "associated-names": "Johnson, Henry Clark, 1851-1904; Blake, Clarence E",
+  "foldoutcount": "0",
+  "page_number_confidence": "84.61",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng+ell",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5346",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.17"
+ },
+ "files": [
+  {
+   "name": "firstthreebooks00blakgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1591622"
+  },
+  {
+   "name": "firstthreebooks00blakgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "17576672"
+  },
+  {
+   "name": "firstthreebooks00blakgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "104648602"
+  },
+  {
+   "name": "firstthreebooks00blakgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "112039"
+  },
+  {
+   "name": "firstthreebooks00blakgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "195646"
+  },
+  {
+   "name": "firstthreebooks00blakgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "32497431"
+  }
+ ]
+}

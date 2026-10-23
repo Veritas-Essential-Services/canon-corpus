@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "stevensontreasur0000unse",
+  "boxid": "IA40240122",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-1200162",
+  "operator": "associate-jundale-gabutan@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station02.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.5-initial-68-gb9b4dcd8",
+  "uploader": "station02.cebu@archive.org",
+  "publicdate": "2021-09-17 01:45:39",
+  "imagecount": "334",
+  "scandate": "20210917164750",
+  "ppi": "360",
+  "republisher_operator": "associate-mayel-franco@archive.org",
+  "republisher_date": "20210921151155",
+  "republisher_time": "2063",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/stevensontreasur0000unse",
+  "identifier-ark": "ark:/13960/t06z1r37h",
+  "page_number_confidence": "86",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20210930",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "London : Collins Clear-type Press",
+  "date": "1894",
+  "oclc-id": "441661804",
+  "description": "296 str. ; 16 cm",
+  "associated-names": "Munro, Neil Gordon",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9461",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": "urn:acs6:stevensontreasur0000unse:pdf:f1f71cf5-9248-47c3-b1aa-049fa3890043",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38601417M",
+  "addeddate": "2022-07-12 00:02:32",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "stevensontreasur0000unse.pdf",
+   "format": "Text PDF",
+   "size": "10614326"
+  },
+  {
+   "name": "stevensontreasur0000unse_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "397600"
+  },
+  {
+   "name": "stevensontreasur0000unse_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5588707"
+  },
+  {
+   "name": "stevensontreasur0000unse_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "97952195"
+  },
+  {
+   "name": "stevensontreasur0000unse_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56014"
+  },
+  {
+   "name": "stevensontreasur0000unse_scandata.xml",
+   "format": "Scandata",
+   "size": "358437"
+  }
+ ]
+}

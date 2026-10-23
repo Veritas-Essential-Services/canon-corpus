@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "google-id": "ndgYAAAAYAAJ",
+  "identifier": "iliadhomertowhi00tibbgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer : to which is added an appendix containing poems selected from twenty-six languages",
+  "source": "http://books.google.com/books?id=ndgYAAAAYAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "Boston : R.G. Badger",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomertowhi00tibbgoog",
+  "contributor": "Harvard University",
+  "oclc-id": "16531634",
+  "scandate": "20080414000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "557 pages ; 20 cm"
+  ],
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t8nc6k507",
+  "imagecount": "569",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-12-18 21:31:15",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-18 21:31:15",
+  "usl_hit": "auto",
+  "date": "1907",
+  "subject": [
+   "English poetry -- Translations from foreign languages",
+   "English poetry"
+  ],
+  "associated-names": "Tibbetts, Edgar Alfred, 1848-1908",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "96.83"
+ },
+ "files": [
+  {
+   "name": "iliadhomertowhi00tibbgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1123848"
+  },
+  {
+   "name": "iliadhomertowhi00tibbgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13683953"
+  },
+  {
+   "name": "iliadhomertowhi00tibbgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "472741123"
+  },
+  {
+   "name": "iliadhomertowhi00tibbgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "115341"
+  },
+  {
+   "name": "iliadhomertowhi00tibbgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "189984"
+  }
+ ]
+}

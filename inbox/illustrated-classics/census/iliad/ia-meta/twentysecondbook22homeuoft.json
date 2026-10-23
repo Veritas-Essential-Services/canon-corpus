@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "The Twenty-Second Book of the Iliad with critical notes by Alex. Pallis",
+  "volume": "22",
+  "creator": [
+   "Homer",
+   "Palles, Alexandros, 1851-1935"
+  ],
+  "description": "26",
+  "publisher": "London D. Nutt",
+  "date": "1909",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item twentysecondbook22homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1909.",
+  "copyright-evidence-date": "20080202021602",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ABJ-1321",
+  "updatedate": "2008-02-02 02:16:14",
+  "updater": "Marlete Kurten",
+  "identifier": "twentysecondbook22homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 02:16:21",
+  "publicdate": "2008-02-02 02:17:29",
+  "imagecount": "96",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "aheins@archive.org",
+  "scanner": "scribe16",
+  "scandate": "20080206194020",
+  "identifier-access": "http://www.archive.org/details/twentysecondbook22homeuoft",
+  "identifier-ark": "ark:/13960/t8nc5xw1w",
+  "bookplateleaf": "0002",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153734[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Wed Aug 19 4:13:10 UTC 2009",
+   "Sat Dec 26 14:38:36 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL22895826M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1141293111",
+  "usl_hit": "auto",
+  "associated-names": "Palles, Alexandros, 1851-1935",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8934",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "twentysecondbook22homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "5068359"
+  },
+  {
+   "name": "twentysecondbook22homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "191257"
+  },
+  {
+   "name": "twentysecondbook22homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2023262"
+  },
+  {
+   "name": "twentysecondbook22homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "30265824"
+  },
+  {
+   "name": "twentysecondbook22homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "15495"
+  },
+  {
+   "name": "twentysecondbook22homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "51088"
+  }
+ ]
+}

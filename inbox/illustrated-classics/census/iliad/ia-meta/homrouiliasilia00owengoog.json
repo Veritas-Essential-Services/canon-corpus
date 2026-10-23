@@ -1,0 +1,70 @@
+{
+ "metadata": {
+  "publisher": "New York, D. Appleton",
+  "identifier": "homrouiliasilia00owengoog",
+  "scanner": "google",
+  "title": "Homērou Ilias. The Iliad of Homer, according to the text of Wolf;",
+  "creator": "Homer",
+  "contributor": "University of California",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homrouiliasilia00owengoog",
+  "year": "1872",
+  "date": "1869",
+  "scandate": "20071112000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+   "759 pages 19 cm",
+   "Notes (p. [489]-716) in English"
+  ],
+  "identifier-ark": "ark:/13960/t6057qk42",
+  "imagecount": "785",
+  "publicdate": "2008-08-06 14:10:39",
+  "source": "http://books.google.com/books?id=1GlEAAAAIAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "09906379",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_8",
+  "addeddate": "2008-08-06 14:10:39",
+  "usl_hit": "auto",
+  "associated-names": "Owen, John J. (John Jason), 1803-1869",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6808",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "92.99"
+ },
+ "files": [
+  {
+   "name": "homrouiliasilia00owengoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2354335"
+  },
+  {
+   "name": "homrouiliasilia00owengoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "22234504"
+  },
+  {
+   "name": "homrouiliasilia00owengoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "154028"
+  },
+  {
+   "name": "homrouiliasilia00owengoog_scandata.xml",
+   "format": "Scandata",
+   "size": "261074"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Homerou Ilias. The Iliad of Homer, with a carefully corrected text; with copious English notes, illustrating the grammatical construction, the manners and customs, the mythology and antiquities of the heroic ages; and preliminary observations on points of classical interest and importance connected with Homer and his writings. By William Trollope",
+  "creator": [
+   "Homer",
+   "Trollope, William, 1798-1863"
+  ],
+  "description": "26",
+  "publisher": "London J. & F.H. Rivington",
+  "date": "1866",
+  "language": "gre",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3539",
+  "updatedate": "2009-03-02 19:06:52",
+  "updater": "lexw@archive.org",
+  "identifier": "homerouiliasilia00homeuoft",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2009-03-02 19:06:54",
+  "publicdate": "2009-03-02 19:07:01",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-dale-haryett@archive.org",
+  "scanner": "scribe20.toronto.archive.org",
+  "scandate": "20090304225711",
+  "imagecount": "790",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homerouiliasilia00homeuoft",
+  "identifier-ark": "ark:/13960/t3nv9t319",
+  "scanfactors": "15",
+  "repub_state": "4",
+  "curation": "[curator]sharda@archive.org[/curator][date]20090316182713[/date][state]approved[/state]",
+  "sponsordate": "20090331",
+  "backup_location": "ia903602_30",
+  "openlibrary_edition": "OL23305246M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697793166",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 16:17:46 UTC 2020",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l ell",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8369",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homerouiliasilia00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "58722432"
+  },
+  {
+   "name": "homerouiliasilia00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "4496056"
+  },
+  {
+   "name": "homerouiliasilia00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "37826463"
+  },
+  {
+   "name": "homerouiliasilia00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "320787535"
+  },
+  {
+   "name": "homerouiliasilia00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "134174"
+  },
+  {
+   "name": "homerouiliasilia00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "410154"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_S0-DTL-420",
+  "boxid": "IA41748128",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1915",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1200488",
+  "operator": "associate-fhilver-amoin@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20251008120223",
+  "scanner": "station15.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "S0-DTL-420",
+  "title": "Treasure Island",
+  "tts_version": "7.1-initial-80-gde0bfa46",
+  "uploader": "station15.cebu@archive.org",
+  "publicdate": "2025-10-08 10:33:30",
+  "identifier-access": "http://archive.org/details/bwb_S0-DTL-420",
+  "identifier-ark": "ark:/13960/s2h9tf3j569",
+  "imagecount": "310",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-fritzijuls-quiroben@archive.org;associate-ritzell-pardillo@archive.org",
+  "republisher_date": "20251015190758",
+  "republisher_time": "730",
+  "foldoutcount": "0",
+  "image_count": "308",
+  "bookplateleaf": "0002",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9862",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_S0-DTL-420:epub:686f4daf-c817-4abe-ad52-36c7b6088e34",
+   "urn:lcp:bwb_S0-DTL-420:lcpdf:74b98c9c-249b-45b1-be1f-f090d6f12f83"
+  ],
+  "addeddate": "2025-10-16 00:05:58"
+ },
+ "files": [
+  {
+   "name": "bwb_S0-DTL-420.pdf",
+   "format": "Text PDF",
+   "size": "10054128"
+  },
+  {
+   "name": "bwb_S0-DTL-420_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "434998"
+  },
+  {
+   "name": "bwb_S0-DTL-420_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6112388"
+  },
+  {
+   "name": "bwb_S0-DTL-420_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "81142091"
+  },
+  {
+   "name": "bwb_S0-DTL-420_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "52000"
+  },
+  {
+   "name": "bwb_S0-DTL-420_scandata.xml",
+   "format": "Scandata",
+   "size": "370376"
+  }
+ ]
+}

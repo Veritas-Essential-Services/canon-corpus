@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "language": "English",
+  "scanningcenter": "nj",
+  "sponsor": "University of Pennsylvania Libraries",
+  "contributor": "University of Pennsylvania Libraries",
+  "title": "The Iliad of Homer, rendered into English blank verse / by Edward, Earl of Derby.",
+  "creator": "Homer.",
+  "shiptracking": "UPenn1",
+  "volume": "v.2",
+  "pub_date": "1865",
+  "box_number": "P.I.25",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "mediatype": "texts",
+  "updatedate": "2023-05-10 18:47:17",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "iliadofhomerrend02home_0",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2023-05-10 18:47:20",
+  "collection": [
+   "upenn",
+   "americana"
+  ],
+  "source": "special",
+  "scanner": "scribe1.nj.archive.org",
+  "tts_version": "5.8-initial-109-gf9f3447a",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "operator": "associate-steven-metzler@archive.org",
+  "identifier-access": "http://archive.org/details/iliadofhomerrend02home_0",
+  "identifier-ark": "ark:/13960/s2v5k1c588b",
+  "scandate": "20230721205227",
+  "imagecount": "490",
+  "autocrop_version": "0.0.15_books-20220331-0.2",
+  "ppi": "500",
+  "republisher_operator": "associate-merdiel-inocian@archive.org",
+  "republisher_date": "20230725110709",
+  "republisher_time": "1083",
+  "foldoutcount": "0",
+  "bookplateleaf": "0005",
+  "page_number_confidence": "85",
+  "page_number_module_version": "1.0.3",
+  "addeddate": "2023-07-18 05:51:49",
+  "scanfee": "300;25;240",
+  "invoice": "2285",
+  "force_republisher_postprocess": "true",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9750",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.23",
+  "sponsordate": "20230731",
+  "date": "1865"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerrend02home_0.pdf",
+   "format": "Text PDF",
+   "size": "21970556"
+  },
+  {
+   "name": "iliadofhomerrend02home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "479968"
+  },
+  {
+   "name": "iliadofhomerrend02home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6732484"
+  },
+  {
+   "name": "iliadofhomerrend02home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "83678"
+  },
+  {
+   "name": "iliadofhomerrend02home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "914298"
+  }
+ ]
+}

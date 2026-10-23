@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "michigan_books",
+   "americana"
+  ],
+  "title": "The Iliad of Homer, books I-VI",
+  "identifier": "afe7806.0001.001.umich.edu",
+  "uploader": "hank@archive.org",
+  "addeddate": "2011-12-21 19:54:34",
+  "publicdate": "2011-12-21 19:57:09",
+  "identifier-access": "http://www.archive.org/details/afe7806.0001.001.umich.edu",
+  "identifier-ark": "ark:/13960/t2j68h51b",
+  "contributor": "University of Michigan",
+  "sponsor": "University of Michigan",
+  "ppi": "600",
+  "creator": [
+   "Homer",
+   "Keep, Robert P. (Robert Porter), 1844-1904"
+  ],
+  "publisher": "Boston, J. Allyn",
+  "date": "1887",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "description": "Mode of access: Internet",
+  "imagecount": "370",
+  "scandate": "20050101000000",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903706_29",
+  "openlibrary_edition": "OL25528919M",
+  "openlibrary_work": "OL16909667W",
+  "usl_hit": "auto",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8920",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86.76",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "afe7806.0001.001.umich.edu.pdf",
+   "format": "Text PDF",
+   "size": "19898471"
+  },
+  {
+   "name": "afe7806.0001.001.umich.edu_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "969406"
+  },
+  {
+   "name": "afe7806.0001.001.umich.edu_djvu.xml",
+   "format": "Djvu XML",
+   "size": "10913883"
+  },
+  {
+   "name": "afe7806.0001.001.umich.edu_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "74193"
+  },
+  {
+   "name": "afe7806.0001.001.umich.edu_scandata.xml",
+   "format": "Scandata",
+   "size": "130030"
+  }
+ ]
+}

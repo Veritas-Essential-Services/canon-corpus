@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Diomede; from the Iliad of Homer",
+  "creator": "Homer",
+  "subject": [
+   "Diomedes (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "N.Y.",
+  "date": "1869",
+  "language": "eng",
+  "lccn": "unk83029011",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC135",
+  "call_number": "8146882",
+  "identifier-bib": "00030601075",
+  "repub_state": "4",
+  "updatedate": "2012-08-27 17:58:57",
+  "updater": "associate-caitlin-markey",
+  "identifier": "diomedefromiliad00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-08-27 17:58:59",
+  "publicdate": "2012-08-27 17:59:02",
+  "scanner": "scribe3.capitolhill.archive.org",
+  "repub_seconds": "462",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-alex-blum@archive.org",
+  "scandate": "20120828201651",
+  "republisher": "associate-phillip-gordon@archive.org",
+  "imagecount": "66",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/diomedefromiliad00home",
+  "identifier-ark": "ark:/13960/t9g45x71p",
+  "scanfee": "140",
+  "sponsordate": "20120930",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903906_24",
+  "openlibrary_edition": "OL25494495M",
+  "openlibrary_work": "OL16871570W",
+  "external-identifier": "urn:oclc:record:1043048249",
+  "usl_hit": "auto",
+  "description": "52 p",
+  "republisher_operator": "associate-phillip-gordon@archive.org",
+  "republisher_date": "20120829122445",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "84",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "diomedefromiliad00home.pdf",
+   "format": "Text PDF",
+   "size": "4380849"
+  },
+  {
+   "name": "diomedefromiliad00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "83813"
+  },
+  {
+   "name": "diomedefromiliad00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1017154"
+  },
+  {
+   "name": "diomedefromiliad00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "41142319"
+  },
+  {
+   "name": "diomedefromiliad00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "10934"
+  },
+  {
+   "name": "diomedefromiliad00home_scandata.xml",
+   "format": "Scandata",
+   "size": "86094"
+  }
+ ]
+}

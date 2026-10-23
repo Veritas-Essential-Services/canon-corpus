@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "identifier": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800",
+  "adaptive_ocr": "true",
+  "auditor": "associate-russelpamela-maglasang@archive.org",
+  "betterpdf": "true",
+  "boxid": "IA40316207",
+  "canister": "IA40316207-11",
+  "collection": [
+   "pub_eighteenth-century",
+   "bim_microfilm",
+   "microfilm"
+  ],
+  "collection-catalog-number": "t093141",
+  "contrast_max": "131",
+  "contrast_min": "21",
+  "contributor": "Internet Archive",
+  "copies": "2",
+  "creator": "Homer",
+  "date": "1800",
+  "derive_version": "0.0.22",
+  "description": "The whole works of Homer: translated by Alexander Pope, Esquire. Containing the Iliad ... The Odyssey ... The battle of the frogs and mice. ... Together with the Life of Homer. A new edition, revised and corrected. To which are added copious notes and commentaries; and embellished with elegant copper-plates. 1800..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40316207-11/page/n337\" rel=\"ugc nofollow\">IA40316207-11</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-fatal-discovery-a-t_home-john_1772\" rel=\"ugc nofollow\">bim_eighteenth-century_the-fatal-discovery-a-t_home-john_1772</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_ingratitude-a-poem-ins_1764_0\" rel=\"ugc nofollow\">bim_eighteenth-century_ingratitude-a-poem-ins_1764_0</a>.",
+  "language": "English",
+  "mediatype": "texts",
+  "metadata_operator": "associate-jannine-ompad@archive.org",
+  "next_item": "bim_eighteenth-century_ingratitude-a-poem-ins_1764_0",
+  "notes": "The notes to the Iliad are by P. Fourdrinier.",
+  "ppi": "800",
+  "previous_item": "bim_eighteenth-century_the-fatal-discovery-a-t_home-john_1772",
+  "pub_type": "Books",
+  "scanner": "microfilm03.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "sim_pubid": "24073",
+  "software_version": "nextStar 4.5.0.20626",
+  "source": [
+   "IA40316207-11",
+   "microfilm"
+  ],
+  "subject": [
+   "Language & Literature",
+   "Literary And Political Reviews",
+   "General Interest Periodicals--United Kingdom",
+   "Law",
+   "Philosophy & Religion",
+   "Fine & Performing Arts",
+   "Social Sciences",
+   "History",
+   "History--History of North And South America",
+   "Books",
+   "microfilm"
+  ],
+  "title": "The whole works of Homer: translated by Alexander Pope, Esquire. Containing the Iliad ... The Odyssey ... The battle of the frogs and mice. ... Together with the Life of Homer. A new edition, revised and corrected. To which are added copious notes and commentaries; and embellished with elegant copper-plates.  1800",
+  "uploader": "merlijn+microfilmderiver@archive.org",
+  "publicdate": "2023-10-01 23:39:46",
+  "addeddate": "2023-10-01 23:39:46",
+  "identifier-access": "http://archive.org/details/bim_eighteenth-century_the-whole-works-of-homer_homer_1800",
+  "identifier-ark": "ark:/13960/s2kz3pgjnp9",
+  "imagecount": "735",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l enm+Fraktur",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9520",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "25",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "foldoutcount": "0"
+ },
+ "files": [
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800.pdf",
+   "format": "Text PDF",
+   "size": "783296944"
+  },
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3424915"
+  },
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800_djvu.xml",
+   "format": "Djvu XML",
+   "size": "50902224"
+  },
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "3566100466"
+  },
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "125303"
+  },
+  {
+   "name": "bim_eighteenth-century_the-whole-works-of-homer_homer_1800_scandata.xml",
+   "format": "Scandata",
+   "size": "247334"
+  }
+ ]
+}

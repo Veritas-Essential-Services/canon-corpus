@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "identifier": "treasureisland190000stev",
+  "camera": "Nikon J4",
+  "collection": [
+   "historicaltexts",
+   "universityofvictorialibraries",
+   "toronto",
+   "globallibraries"
+  ],
+  "collection_set": "Historical Text-Books",
+  "contributor": "University of Victoria Libraries",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "date": "1930-01-01T00:00:00Z",
+  "language": "eng",
+  "mediatype": "texts",
+  "operator": "digitization@uvic.ca",
+  "page-progression": "lr",
+  "partner": "University of Victoria Libraries",
+  "rcs_key": "22676",
+  "repub_state": "19",
+  "scanner": "ttscribe1.victoria.archive.org",
+  "scanningcenter": "tt_victoria",
+  "sponsor": "University of Victoria Libraries",
+  "title": "Treasure Island",
+  "tts_version": "5.8-initial-109-gf9f3447a",
+  "uploader": "ttscribe1.victoria@archive.org",
+  "publicdate": "2023-07-19 19:17:12",
+  "imagecount": "406",
+  "scandate": "20230719211608",
+  "ppi": "360",
+  "republisher_operator": "associate-merdiel-inocian@archive.org",
+  "republisher_date": "20230720100024",
+  "republisher_time": "1870",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland190000stev",
+  "identifier-ark": "ark:/13960/s20068sppp1",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9499",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "addeddate": "2023-07-20 04:53:20",
+  "scanfee": "0;4;4",
+  "invoice": "1006",
+  "sponsordate": "20230731",
+  "year": [
+   "1930",
+   "1910"
+  ],
+  "subject": "Historical Texts;Historical Textbook;British Columbia Historical Textbooks;BC Historical Textbooks;Text-book",
+  "publisher": "London : Cassell and Company, Limited",
+  "openlibrary_edition": "OL59083596M",
+  "openlibrary_work": "OL43379787W"
+ },
+ "files": [
+  {
+   "name": "treasureisland190000stev.pdf",
+   "format": "Text PDF",
+   "size": "9797208"
+  },
+  {
+   "name": "treasureisland190000stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "417833"
+  },
+  {
+   "name": "treasureisland190000stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5913649"
+  },
+  {
+   "name": "treasureisland190000stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "66744091"
+  },
+  {
+   "name": "treasureisland190000stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "67915"
+  },
+  {
+   "name": "treasureisland190000stev_scandata.xml",
+   "format": "Scandata",
+   "size": "437819"
+  }
+ ]
+}

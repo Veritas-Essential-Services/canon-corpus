@@ -1,0 +1,58 @@
+{
+ "metadata": {
+  "publisher": "Murray",
+  "identifier": "iliadhomerrende05homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer Rendered Into English Blank Verse",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1864",
+  "date": "1864",
+  "scandate": "20060613",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=Pz2EbSOiAVMC&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "16150706",
+  "sponsor": "Google",
+  "volume": "1",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomerrende05homegoog",
+  "identifier-ark": "ark:/13960/t61552m9m",
+  "imagecount": "424",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 07:52:03",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL20432572M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-07-27 07:52:03",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerrende05homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "423617"
+  },
+  {
+   "name": "iliadhomerrende05homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4308193"
+  },
+  {
+   "name": "iliadhomerrende05homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "48754171"
+  },
+  {
+   "name": "iliadhomerrende05homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "127328"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "metadata": {
+  "identifier": "the-iliad-of-homer-done-into-english-prose",
+  "mediatype": "texts",
+  "creator": "Homer",
+  "date": "1911",
+  "description": "The Iliad Of Homer, Done Into English Prose",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+   "Homer",
+   "Classic"
+  ],
+  "title": "The Iliad Of Homer,",
+  "uploader": "webdeveloper5050@gmail.com",
+  "publicdate": "2021-04-23 18:29:13",
+  "addeddate": "2021-04-23 18:29:13",
+  "curation": "[curator]validator@archive.org[/curator][date]20210423183503[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/the-iliad-of-homer-done-into-english-prose",
+  "identifier-ark": "ark:/13960/t1vf7gz28",
+  "ppi": "600",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96.19",
+  "collection": [
+   "folkscanomy_miscellaneous",
+   "folkscanomy"
+  ],
+  "collection_added": "folkscanomy"
+ },
+ "files": [
+  {
+   "name": "The Iliad of Homer, done into English prose.pdf",
+   "format": "Text PDF",
+   "size": "20945050"
+  },
+  {
+   "name": "The Iliad of Homer, done into English prose_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "955632"
+  },
+  {
+   "name": "The Iliad of Homer, done into English prose_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13501838"
+  },
+  {
+   "name": "The Iliad of Homer, done into English prose_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "385636671"
+  },
+  {
+   "name": "The Iliad of Homer, done into English prose_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "97891"
+  },
+  {
+   "name": "The Iliad of Homer, done into English prose_scandata.xml",
+   "format": "Scandata",
+   "size": "186560"
+  }
+ ]
+}

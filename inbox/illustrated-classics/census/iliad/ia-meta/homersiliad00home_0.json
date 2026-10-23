@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Boston College",
+  "date": "1867",
+  "subject": [
+   "Greek poetry -- Translations into English",
+   "Greek poetry"
+  ],
+  "title": "Homer's Iliad",
+  "creator": "Homer",
+  "collection": [
+   "Boston_College_Library",
+   "blc",
+   "americana"
+  ],
+  "shiptracking": "ST012080",
+  "physical_item": "35",
+  "identifier_bib": "9.99790661000102E+015",
+  "call_number": "PA4025.A2 C6",
+  "publisher": "Edinburgh : [T. Constable, printer]",
+  "description": [
+   "xvi, [9]-412 pages : 24 cm",
+   "\"Printed for private circulation.\"",
+   "committed to retain 20160630"
+  ],
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2020-02-10 19:16:39",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "homersiliad00home_0",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2020-02-10 19:16:41",
+  "scanner": "scribe1.boston.archive.org",
+  "operator": "associate-felix-colonjr@archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "tts_version": "3.0-initial-172-ge33e7cb",
+  "imagecount": "442",
+  "scandate": "20200218210655",
+  "ppi": "300",
+  "republisher_operator": "associate-melanie-zapata@archive.org",
+  "republisher_date": "20200220131201",
+  "republisher_time": "1049",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/homersiliad00home_0",
+  "identifier-ark": "ark:/13960/t0kt57080",
+  "addeddate": "2020-02-20 09:25:06",
+  "scanfee": "300;10;200",
+  "invoice": "7",
+  "openlibrary_edition": "OL27916599M",
+  "openlibrary_work": "OL20646938W",
+  "sponsordate": "20200228",
+  "external-identifier": "urn:oclc:record:1157129900",
+  "backup_location": "ia907104_17",
+  "oclc-id": "80259051",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "homersiliad00home_0.pdf",
+   "format": "Text PDF",
+   "size": "32849304"
+  },
+  {
+   "name": "homersiliad00home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1262488"
+  },
+  {
+   "name": "homersiliad00home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14700626"
+  },
+  {
+   "name": "homersiliad00home_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "316792063"
+  },
+  {
+   "name": "homersiliad00home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "74513"
+  },
+  {
+   "name": "homersiliad00home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "451714"
+  }
+ ]
+}

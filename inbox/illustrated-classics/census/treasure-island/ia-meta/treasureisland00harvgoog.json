@@ -1,0 +1,60 @@
+{
+ "metadata": {
+  "identifier": "treasureisland00harvgoog",
+  "scanner": "google",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1906",
+  "scandate": "20070529000000",
+  "copyright-region": "US",
+  "source": "http://books.google.com/books?id=U2g1AAAAMAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "language": "eng",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/treasureisland00harvgoog",
+  "identifier-ark": "ark:/13960/t04x5pt08",
+  "imagecount": "325",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-05-21 03:57:10",
+  "backup_location": "ia903603_5",
+  "addeddate": "2009-05-21 03:57:10",
+  "usl_hit": "auto",
+  "oclc-id": "2201404",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Current Literature Pub. Co.",
+  "date": "1906",
+  "subject": [
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc",
+   "Pirates",
+   "Treasure Island (Imaginary place)",
+   "Treasure troves"
+  ],
+  "lccn": "06042924",
+  "description": "vi, 308 (1 leaf of plates) : 17 cm",
+  "associated-names": "Harvey, Alexander, 1868-1949",
+  "foldoutcount": "0",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL6977733M"
+ },
+ "files": [
+  {
+   "name": "treasureisland00harvgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "40414564"
+  },
+  {
+   "name": "treasureisland00harvgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "97627"
+  }
+ ]
+}

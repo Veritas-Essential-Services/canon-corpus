@@ -1,0 +1,58 @@
+{
+ "metadata": {
+  "google-id": "bghLAAAAIAAJ",
+  "identifier": "womeniliadametr00homegoog",
+  "scanner": "google",
+  "title": "The Women of the Iliad: A Metrical Translation of the First Book and of ...",
+  "source": "http://books.google.com/books?id=bghLAAAAIAAJ&oe=UTF-8",
+  "notes": "Female characters portrayed in the ILIAD include Helen, Cassandra, and Aphrodite.\n\n",
+  "creator": "Hugh Woodruff Taylor ,  Homer",
+  "publisher": "Broadway Pub. Co.",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Hugh Woodruff Taylor",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/womeniliadametr00homegoog",
+  "year": "1912",
+  "date": "1912",
+  "contributor": "University of California",
+  "oclc-id": "18547344",
+  "scandate": "20071210",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t7qn6mv35",
+  "imagecount": "73",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-08-15 22:17:53",
+  "backup_location": "ia903603_25",
+  "addeddate": "2009-08-15 22:17:53",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "womeniliadametr00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "102094"
+  },
+  {
+   "name": "womeniliadametr00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1018578"
+  },
+  {
+   "name": "womeniliadametr00homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "58043450"
+  },
+  {
+   "name": "womeniliadametr00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "22054"
+  }
+ ]
+}

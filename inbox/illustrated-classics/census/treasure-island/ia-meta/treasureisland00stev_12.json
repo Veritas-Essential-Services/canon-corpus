@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "contributor": "The Library of Congress",
+  "date": "1913",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates",
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction"
+  ],
+  "title": "Treasure Island",
+  "lccn": "13023418",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST005802",
+  "call_number": "5894003",
+  "identifier_bib": "00023124415",
+  "boxid": "00023124415",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "publisher": "New York, The A. S. Barnes company",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2016-05-19 10:17:37",
+  "updatedate": "2016-05-19 11:16:45",
+  "updater": "associate-mike-saelee@archive.org",
+  "identifier": "treasureisland00stev_12",
+  "uploader": "associate-mike-saelee@archive.org",
+  "addeddate": "2016-05-19 11:16:47",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "operator": "associate-katherine-olson@archive.org",
+  "imagecount": "298",
+  "scandate": "20160711194226",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland00stev_12",
+  "identifier-ark": "ark:/13960/t83j87m6b",
+  "scanfee": "100",
+  "invoice": "1263",
+  "sponsordate": "20160731",
+  "backup_location": "ia906108_28",
+  "fadgi": "true",
+  "republisher_operator": "associate-jillian-davis@archive.org",
+  "republisher_date": "20160714083801",
+  "republisher_time": "1910",
+  "external-identifier": "urn:oclc:record:1157906328",
+  "usl_hit": "auto",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "description": "275 p. 17 cm",
+  "associated-names": "Blanchard, Ferdinand Quincy, 1876- [from old catalog] ed",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL26304716M",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev_12.pdf",
+   "format": "Text PDF",
+   "size": "68907530"
+  },
+  {
+   "name": "treasureisland00stev_12_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "502929"
+  },
+  {
+   "name": "treasureisland00stev_12_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6303925"
+  },
+  {
+   "name": "treasureisland00stev_12_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "70966280"
+  },
+  {
+   "name": "treasureisland00stev_12_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "49761"
+  },
+  {
+   "name": "treasureisland00stev_12_scandata.xml",
+   "format": "Scandata",
+   "size": "303736"
+  }
+ ]
+}

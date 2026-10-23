@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Morrice, James"
+  ],
+  "publisher": "London, Printed for John White by Richard Taylor",
+  "date": "1809",
+  "language": "eng",
+  "copyright-evidence-operator": "ian frederick-rothwell",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by ian frederick-rothwell for item homeriliadof00homerich on April 30, 2008: no visible notice of copyright; stated date is 1809.",
+  "copyright-evidence-date": "20080430162422",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-50527036",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-50527036",
+  "updatedate": "2008-04-30 16:24:44",
+  "updater": "ian frederick-rothwell",
+  "identifier": "homeriliadof00homerich",
+  "uploader": "ianf-r@archive.org",
+  "addeddate": "2008-04-30 16:24:46",
+  "publicdate": "2008-04-30 16:24:50",
+  "imagecount": "702",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-jennifer-mansfield@archive.org",
+  "scanner": "richc4.rich.archive.org",
+  "scandate": "20080430191228",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homeriliadof00homerich",
+  "identifier-ark": "ark:/13960/t12n5669n",
+  "bookplateleaf": "0004",
+  "curation": "[curator]julie@archive.org[/curator][date]20080523060143[/date][state]approved[/state]",
+  "sponsordate": "20080430",
+  "filesxml": [
+   "Wed May 28 5:44:45 UTC 2008",
+   "Tue Aug 18 17:55:04 UTC 2009",
+   "Thu Dec 24 16:17:37 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_33",
+  "openlibrary_edition": "OL22882889M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046531521",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "oclc-id": "4362653",
+  "description": "2 v. 22 cm",
+  "associated-names": "Morrice, James",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "homeriliadof00homerich.pdf",
+   "format": "Text PDF",
+   "size": "31055639"
+  },
+  {
+   "name": "homeriliadof00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "882981"
+  },
+  {
+   "name": "homeriliadof00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11125765"
+  },
+  {
+   "name": "homeriliadof00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "261560613"
+  },
+  {
+   "name": "homeriliadof00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "119276"
+  },
+  {
+   "name": "homeriliadof00homerich_scandata.xml",
+   "format": "Scandata",
+   "size": "364926"
+  }
+ ]
+}

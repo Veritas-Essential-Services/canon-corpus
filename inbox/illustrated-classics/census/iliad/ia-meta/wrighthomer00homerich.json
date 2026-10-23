@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Wright, Ichabod Charles, 1795-1871"
+  ],
+  "description": [
+   "Includes bibliographical references",
+   "V. 1. Books I-XII --"
+  ],
+  "publisher": "London : Macmillan",
+  "date": "1861",
+  "language": "eng",
+  "copyright-evidence-operator": "Internet Archive biblio tool",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item wrighthomer00homerich on March 18, 2008: no visible notice of copyright; stated date is 1921.",
+  "copyright-evidence-date": "20080318000859",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-151514623",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-151514623",
+  "updatedate": "2008-03-18 00:09:02",
+  "updater": "judyjordan",
+  "identifier": "wrighthomer00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2008-03-18 00:09:04",
+  "publicdate": "2008-03-18 00:10:01",
+  "imagecount": "462",
+  "ppi": "500",
+  "lcamid": "315160",
+  "rcamid": "332287",
+  "camera": "1Ds",
+  "operator": "scanner-kevin-narine@archive.org",
+  "scanner": "rich3",
+  "scandate": "20080318054904",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/wrighthomer00homerich",
+  "identifier-ark": "ark:/13960/t56d5vw3h",
+  "bookplateleaf": "0003",
+  "curation": "[curator]julie@archive.org[/curator][date]20080518064509[/date][state]approved[/state]",
+  "sponsordate": "20080331",
+  "filesxml": [
+   "Thu Mar 18 15:01:43 UTC 2010",
+   "Sat Dec 26 19:54:24 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903601_27",
+  "openlibrary_edition": "OL14049460M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1158482154",
+  "usl_hit": "auto",
+  "associated-names": "Wright, Ichabod Charles, 1795-1871",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "wrighthomer00homerich.pdf",
+   "format": "Text PDF",
+   "size": "21517179"
+  },
+  {
+   "name": "wrighthomer00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "520379"
+  },
+  {
+   "name": "wrighthomer00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6367113"
+  },
+  {
+   "name": "wrighthomer00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "181594267"
+  },
+  {
+   "name": "wrighthomer00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "78096"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_W9-DIH-047",
+  "boxid": "IA41564515",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1912",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000680",
+  "operator": "associate-rechille-bonajos@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250124114050",
+  "scanner": "station17.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "W9-DIH-047",
+  "title": "Treasure Island ",
+  "tts_version": "6.10-intial-145-g80f07ce5",
+  "uploader": "station17.cebu@archive.org",
+  "publicdate": "2025-01-24 09:05:38",
+  "identifier-access": "http://archive.org/details/bwb_W9-DIH-047",
+  "identifier-ark": "ark:/13960/s20f517pvfs",
+  "imagecount": "332",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-louiseviktoria-saligumba@archive.org",
+  "republisher_date": "20250202094730",
+  "republisher_time": "465",
+  "foldoutcount": "0",
+  "image_count": "330",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9851",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_W9-DIH-047:epub:32afab37-1094-47e5-ba59-7a0f8b4a8248",
+   "urn:lcp:bwb_W9-DIH-047:lcpdf:c4a5e581-72e5-455f-b9d6-6450fe20d1bc"
+  ],
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.26",
+  "addeddate": "2025-02-03 00:51:13",
+  "openlibrary_work": "OL43116717W",
+  "openlibrary_edition": "OL58730337M"
+ },
+ "files": [
+  {
+   "name": "bwb_W9-DIH-047.pdf",
+   "format": "Text PDF",
+   "size": "10786285"
+  },
+  {
+   "name": "bwb_W9-DIH-047_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "395376"
+  },
+  {
+   "name": "bwb_W9-DIH-047_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5607861"
+  },
+  {
+   "name": "bwb_W9-DIH-047_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "91144315"
+  },
+  {
+   "name": "bwb_W9-DIH-047_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55725"
+  },
+  {
+   "name": "bwb_W9-DIH-047_scandata.xml",
+   "format": "Scandata",
+   "size": "399298"
+  }
+ ]
+}

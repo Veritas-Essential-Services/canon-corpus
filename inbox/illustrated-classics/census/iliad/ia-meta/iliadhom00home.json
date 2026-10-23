@@ -1,0 +1,94 @@
+{
+ "metadata": {
+  "title": "Iliad",
+  "creator": [
+   "Homer",
+   "Platt, Arthur, 1860-1925"
+  ],
+  "description": "52",
+  "publisher": "Cambridge Cambridge university press",
+  "date": "1894",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ABN-7728",
+  "repub_state": "4",
+  "updatedate": "2011-03-30 22:14:52",
+  "updater": "AlexAitken",
+  "identifier": "iliadhom00home",
+  "uploader": "alexaitken@archive.org",
+  "addeddate": "2011-03-30 22:14:53",
+  "publicdate": "2011-03-30 22:14:57",
+  "scanner": "scribe1.toronto.archive.org",
+  "notes": "no TOC",
+  "ppi": "300",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-s-bauder@archive.org",
+  "scandate": "20110404185800",
+  "imagecount": "524",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadhom00home",
+  "identifier-ark": "ark:/13960/t2g747g18",
+  "curation": "[curator]sharda@archive.org[/curator][date]20110405173743[/date][state]approved[/state][comment]199[/comment]",
+  "scanfee": "105",
+  "sponsordate": "20110430",
+  "backup_location": "ia903609_16",
+  "openlibrary_edition": "OL24627774M",
+  "openlibrary_work": "OL15703207W",
+  "external-identifier": "urn:oclc:record:1046538136",
+  "filesxml": "Thu Dec 24 17:34:43 UTC 2020",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.7690",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "99",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadhom00home.pdf",
+   "format": "Text PDF",
+   "size": "30478369"
+  },
+  {
+   "name": "iliadhom00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "978135"
+  },
+  {
+   "name": "iliadhom00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14389391"
+  },
+  {
+   "name": "iliadhom00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "183241378"
+  },
+  {
+   "name": "iliadhom00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "87944"
+  },
+  {
+   "name": "iliadhom00home_scandata.xml",
+   "format": "Scandata",
+   "size": "274244"
+  }
+ ]
+}

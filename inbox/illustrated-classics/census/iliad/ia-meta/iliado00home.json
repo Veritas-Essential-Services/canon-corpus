@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "subject": "Achilles (Greek mythology)",
+  "publisher": "London",
+  "date": "1856",
+  "language": "eng",
+  "lccn": "unk84034677",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "8620413",
+  "identifier-bib": "00030602031",
+  "repub_state": "4",
+  "updatedate": "2012-10-01 16:53:57",
+  "updater": "associate-caitlin-markey",
+  "identifier": "iliado00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-10-01 16:53:59",
+  "publicdate": "2012-10-01 16:54:03",
+  "scanner": "scribe9.capitolhill.archive.org",
+  "repub_seconds": "392",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-ganzorig-purevee@archive.org",
+  "scandate": "20121005124459",
+  "republisher": "associate-phillip-gordon@archive.org",
+  "imagecount": "480",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliado00home",
+  "identifier-ark": "ark:/13960/t9z04cw34",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_13",
+  "openlibrary_edition": "OL25460521M",
+  "openlibrary_work": "OL16834523W",
+  "external-identifier": "urn:oclc:record:1046597617",
+  "usl_hit": "auto",
+  "description": "435 p",
+  "republisher_operator": "associate-phillip-gordon@archive.org",
+  "republisher_date": "20121005155635",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliado00home.pdf",
+   "format": "Text PDF",
+   "size": "28616101"
+  },
+  {
+   "name": "iliado00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1218177"
+  },
+  {
+   "name": "iliado00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14095634"
+  },
+  {
+   "name": "iliado00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "318246831"
+  },
+  {
+   "name": "iliado00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "81257"
+  },
+  {
+   "name": "iliado00home_scandata.xml",
+   "format": "Scandata",
+   "size": "631089"
+  }
+ ]
+}

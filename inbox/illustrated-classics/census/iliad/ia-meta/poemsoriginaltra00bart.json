@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "Poems : original and translated, including the first Iliad of Homer",
+  "creator": [
+   "Barter, W. G. T. (William George Thomas)",
+   "Homer"
+  ],
+  "subject": [
+   "English poetry",
+   "Greek poetry"
+  ],
+  "publisher": "London : W. Pickering",
+  "date": "1850",
+  "language": "eng",
+  "copyright-evidence-operator": "Internet Archive biblio tool",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item poemsoriginaltra00bart on March 7, 2008: no visible notice of copyright; stated date is 1850.",
+  "copyright-evidence-date": "20080307041317",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "la",
+  "mediatype": "texts",
+  "call_number": "SRLF_UCLA:LAGE-557027",
+  "collection-library": "SRLF_UCLA",
+  "identifier-bib": "LAGE-557027",
+  "updatedate": "2008-03-07 04:13:19",
+  "updater": "tomworkman",
+  "identifier": "poemsoriginaltra00bart",
+  "uploader": "tomworkman@archive.org",
+  "addeddate": "2008-03-07 04:09:45",
+  "publicdate": "2008-03-07 04:11:46",
+  "imagecount": "140",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-my-hy@archive.org",
+  "scanner": "scribe9",
+  "scandate": "20080310193044",
+  "identifier-access": "http://www.archive.org/details/poemsoriginaltra00bart",
+  "identifier-ark": "ark:/13960/t9q23xm58",
+  "bookplateleaf": "0006",
+  "notes": "Narrow margins. Bad auto-deskew.",
+  "curation": "[curator]julie@archive.org[/curator][date]20080518052856[/date][state]approved[/state]",
+  "sponsordate": "20080331",
+  "filesxml": [
+   "Wed Aug 19 3:18:13 UTC 2009",
+   "Fri Dec 25 18:57:20 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_26",
+  "openlibrary_edition": "OL23326020M",
+  "openlibrary_work": "OL13793327W",
+  "external-identifier": "urn:oclc:record:1050821166",
+  "oclc-id": "5917720",
+  "description": [
+   "xiv, 111 p. ; 18 cm",
+   "Illus. t.-p",
+   "\"Corrigenda\" slip inserted"
+  ],
+  "associated-names": "Homer. Iliad",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "88",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "poemsoriginaltra00bart.pdf",
+   "format": "Text PDF",
+   "size": "3984234"
+  },
+  {
+   "name": "poemsoriginaltra00bart_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "145962"
+  },
+  {
+   "name": "poemsoriginaltra00bart_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1838434"
+  },
+  {
+   "name": "poemsoriginaltra00bart_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "26383258"
+  },
+  {
+   "name": "poemsoriginaltra00bart_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "23066"
+  },
+  {
+   "name": "poemsoriginaltra00bart_scandata.xml",
+   "format": "Scandata",
+   "size": "73036"
+  }
+ ]
+}

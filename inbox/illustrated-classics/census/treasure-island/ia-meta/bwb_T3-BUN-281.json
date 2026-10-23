@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "bwb_T3-BUN-281",
+  "boxid": "IA41661917",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1926",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000751",
+  "operator": "associate-adrian-coyoca@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250608163355",
+  "scanner": "station39.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T3-BUN-281",
+  "title": "Treasure Island",
+  "tts_version": "6.12-initial-90-gdc13b8ea",
+  "uploader": "station39.cebu@archive.org",
+  "publicdate": "2025-06-08 15:08:32",
+  "identifier-access": "http://archive.org/details/bwb_T3-BUN-281",
+  "identifier-ark": "ark:/13960/s2d6cm1d6pw",
+  "imagecount": "268",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-mervin-collantes@archive.org",
+  "republisher_date": "20250610141916",
+  "republisher_time": "169",
+  "foldoutcount": "0",
+  "image_count": "266",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+lat+Latin",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": [
+   "Latin",
+   "Arabic"
+  ],
+  "ocr_detected_script_conf": [
+   "0.9652",
+   "0.0309"
+  ],
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_T3-BUN-281:epub:68c9d970-f8cc-4373-80ce-332ae45d89ee",
+   "urn:lcp:bwb_T3-BUN-281:lcpdf:f27d6788-da77-4566-b8ea-dfc5343f79c9"
+  ],
+  "page_number_confidence": "84",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2025-06-11 00:21:03"
+ },
+ "files": [
+  {
+   "name": "bwb_T3-BUN-281.pdf",
+   "format": "Text PDF",
+   "size": "33098547"
+  },
+  {
+   "name": "bwb_T3-BUN-281_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "390633"
+  },
+  {
+   "name": "bwb_T3-BUN-281_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5615498"
+  },
+  {
+   "name": "bwb_T3-BUN-281_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "230477207"
+  },
+  {
+   "name": "bwb_T3-BUN-281_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "44954"
+  },
+  {
+   "name": "bwb_T3-BUN-281_scandata.xml",
+   "format": "Scandata",
+   "size": "320118"
+  }
+ ]
+}

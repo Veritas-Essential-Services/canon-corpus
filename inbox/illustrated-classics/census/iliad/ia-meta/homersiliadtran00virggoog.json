@@ -1,0 +1,47 @@
+{
+ "metadata": {
+  "publisher": "Chapman and Hall",
+  "scanner": "google",
+  "title": "Homer's Iliad: Translation of Book I; Also Passages from Virgil",
+  "creator": "Homer,  Virgil",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Matthew Piers Watt Boulton",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadtran00virggoog",
+  "year": "1875",
+  "date": "1875",
+  "oclc-id": "34113414",
+  "identifier": "homersiliadtran00virggoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t3fx7c41f",
+  "imagecount": "139",
+  "publicdate": "2008-05-15 11:12:31",
+  "source": "http://books.google.com/books?id=UKINAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_34",
+  "addeddate": "2008-05-15 11:12:31"
+ },
+ "files": [
+  {
+   "name": "homersiliadtran00virggoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "113488"
+  },
+  {
+   "name": "homersiliadtran00virggoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1146782"
+  },
+  {
+   "name": "homersiliadtran00virggoog_scandata.xml",
+   "format": "Scandata",
+   "size": "41807"
+  }
+ ]
+}

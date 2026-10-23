@@ -1,0 +1,101 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": [
+   "Stevenson, Robert Louis, 1850-1894",
+   "Rhead, Louis, 1857-1926, ill"
+  ],
+  "subject": [
+   "Treasure troves",
+   "Adventure stories",
+   "Pirates"
+  ],
+  "description": [
+   "After his mother finds a treasure map among the possessions of a deceased guest at her inn, Jim Hawkins manages to outwit crafty and cruel pirates to learn the location of the buried treasure",
+   "After his mother finds a treasure map among the possessions of a deceased guest at her inn, Jim Hawkins manages to outwit crafty and cruel pirates to learn the location of the buried treasure"
+  ],
+  "publisher": "New York : Harper & Brothers",
+  "date": "c1915",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-nicole-deyo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-nicole-deyo for item treasureisland00stev2 on September 6, 2007: visible notice of copyright; stated date is 1915.",
+  "copyright-evidence-date": "20070906120811",
+  "sponsor": "MSN",
+  "contributor": "New York Public Library",
+  "scanningcenter": "nyc",
+  "mediatype": "texts",
+  "collection": [
+   "newyorkpubliclibrary",
+   "americana"
+  ],
+  "call_number": "784863",
+  "identifier-access": "http://www.archive.org/details/treasureisland00stev2",
+  "updatedate": "2007-09-06 08:09:19",
+  "updater": "scanner-nicole-deyo",
+  "identifier": "treasureisland00stev2",
+  "uploader": "scanner-nicole-deyo@archive.org",
+  "addeddate": "2007-09-06 12:08:00",
+  "publicdate": "2007-09-06 12:08:10",
+  "imagecount": "332",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-peter-rains@archive.org",
+  "scanner": "nycs5",
+  "scandate": "20070910121558",
+  "identifier-ark": "ark:/13960/t8gf0qv4n",
+  "bookplateleaf": "0003",
+  "curation": "[curator]angela@archive.org[/curator][date]20070911233454[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070930",
+  "filesxml": [
+   "Wed Aug 19 4:10:34 UTC 2009",
+   "Sat Dec 26 13:49:24 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_8",
+  "openlibrary_edition": "OL7142171M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157941309",
+  "usl_hit": "auto",
+  "lccn": "15023639",
+  "associated-names": "Rhead, Louis, 1857-1926, ill",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "15",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev2.pdf",
+   "format": "Text PDF",
+   "size": "21821574"
+  },
+  {
+   "name": "treasureisland00stev2_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "452469"
+  },
+  {
+   "name": "treasureisland00stev2_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5679874"
+  },
+  {
+   "name": "treasureisland00stev2_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "162613882"
+  },
+  {
+   "name": "treasureisland00stev2_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55806"
+  },
+  {
+   "name": "treasureisland00stev2_scandata.xml",
+   "format": "Scandata",
+   "size": "168493"
+  }
+ ]
+}

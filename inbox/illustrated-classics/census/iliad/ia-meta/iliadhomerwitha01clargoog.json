@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "google-id": "kzBLAAAAMAAJ",
+  "identifier": "iliadhomerwitha01clargoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer : with an interlinear translation : for the use of schools and private learners on the Hamiltonian system",
+  "source": "http://books.google.com/books?id=kzBLAAAAMAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "Philadelphia : C. De Silver",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerwitha01clargoog",
+  "year": "1888",
+  "date": "1863",
+  "contributor": "University of Michigan",
+  "oclc-id": "10847686",
+  "scandate": "20071002000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "367 pages ; 20 cm"
+  ],
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "identifier-ark": "ark:/13960/t0000fg5v",
+  "imagecount": "381",
+  "publicdate": "2009-01-29 12:03:53",
+  "repub_state": "4",
+  "backup_location": "ia903602_26",
+  "addeddate": "2009-01-29 12:03:53",
+  "usl_hit": "auto",
+  "language": "eng",
+  "associated-names": "Clark, Thomas, 1787-1860",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.6402",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.96",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerwitha01clargoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "614928"
+  },
+  {
+   "name": "iliadhomerwitha01clargoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7380191"
+  },
+  {
+   "name": "iliadhomerwitha01clargoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "74597"
+  },
+  {
+   "name": "iliadhomerwitha01clargoog_scandata.xml",
+   "format": "Scandata",
+   "size": "126091"
+  },
+  {
+   "name": "iliadhomerwitha01clargoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "6902034"
+  }
+ ]
+}

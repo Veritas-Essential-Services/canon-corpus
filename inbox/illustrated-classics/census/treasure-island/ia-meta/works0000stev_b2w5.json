@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "identifier": "works0000stev_b2w5",
+  "boxid": "IA1373101",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": [
+   "trent_university",
+   "internetarchivebooks"
+  ],
+  "collection_set": "trent",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA13894",
+  "operator": "associate-johnpaul-hernandez@archive.org",
+  "ppi": "300",
+  "repub_state": "19",
+  "scanner": "station11.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "2.1-final-6-g58a4a27",
+  "uploader": "station11.cebu@archive.org",
+  "addeddate": "2019-07-24 06:59:30",
+  "publicdate": "2019-07-24 06:59:40",
+  "imagecount": "312",
+  "scandate": "20190724093738",
+  "republisher_operator": "associate-anarose-ytang@archive.org",
+  "republisher_date": "20190727084050",
+  "republisher_time": "888",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/works0000stev_b2w5",
+  "identifier-ark": "ark:/13960/t0hv0dz12",
+  "bookplateleaf": "0008",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20190731",
+  "backup_location": "ia906907_33",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : P. Collier",
+  "date": "1900",
+  "oclc-id": [
+   "10038593",
+   "57145826"
+  ],
+  "description": "252 pages, 26 unnumbered leaves of plates : 20 cm",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9325",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "pdf_module_version": "0.0.18",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584834M",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "works0000stev_b2w5.pdf",
+   "format": "Text PDF",
+   "size": "15027986"
+  },
+  {
+   "name": "works0000stev_b2w5_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "404146"
+  },
+  {
+   "name": "works0000stev_b2w5_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5631075"
+  },
+  {
+   "name": "works0000stev_b2w5_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "120179385"
+  },
+  {
+   "name": "works0000stev_b2w5_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "52179"
+  },
+  {
+   "name": "works0000stev_b2w5_scandata.xml",
+   "format": "Scandata",
+   "size": "171393"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "metadata": {
+  "publisher": "Boston, New York [etc.] Leach, Shewell, & Sanborn",
+  "identifier": "iliadhomerbooks01pricgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer (books I, VI, XXII, and XXIV)",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Price, Warwick James, 1870-1933"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1896",
+  "date": "1896",
+  "oclc-id": "11428373",
+  "scandate": "20070316",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=_XsAAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "lccn": "13026380",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/iliadhomerbooks01pricgoog",
+  "identifier-ark": "ark:/13960/t2697k57m",
+  "imagecount": "193",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 14:18:05",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-09 14:18:05",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomerbooks01pricgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "277525"
+  },
+  {
+   "name": "iliadhomerbooks01pricgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2745010"
+  },
+  {
+   "name": "iliadhomerbooks01pricgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "26280501"
+  },
+  {
+   "name": "iliadhomerbooks01pricgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "58028"
+  }
+ ]
+}

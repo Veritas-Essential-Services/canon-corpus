@@ -1,0 +1,84 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "Selections from Homer's Iliad: with an introduction, notes, a short Homeric grammar and a vocabulary by Allen Rogers Brenner ..",
+  "identifier": "cu31924011523093",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-15 14:51:57",
+  "identifier-access": "http://www.archive.org/details/cu31924011523093",
+  "identifier-ark": "ark:/13960/t1qf9837h",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "\"A brief selected bibliography\": p. xxxiv-xxxvi",
+   "Includes indexes"
+  ],
+  "lccn": "31005261",
+  "camera": "EOS 1Ds MKII",
+  "lcamid": "123456",
+  "rcamid": "123456",
+  "operator": "nahsan",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Brenner, Allen Rogers"
+  ],
+  "publisher": "New York, D. Appleton and company",
+  "date": "1903",
+  "language": "eng",
+  "imagecount": "76",
+  "bookplateleaf": "0003",
+  "scandate": "20080104140915",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-10-20 16:24:45",
+  "filesxml": "Sun Mar 7 1:34:34 UTC 2010",
+  "backup_location": "ia903604_5",
+  "openlibrary_edition": "OL24152719M",
+  "openlibrary_work": "OL61981W",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "43",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "cu31924011523093.pdf",
+   "format": "Text PDF",
+   "size": "2720426"
+  },
+  {
+   "name": "cu31924011523093_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "109011"
+  },
+  {
+   "name": "cu31924011523093_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1215671"
+  },
+  {
+   "name": "cu31924011523093_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "27104419"
+  },
+  {
+   "name": "cu31924011523093_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "13002"
+  },
+  {
+   "name": "cu31924011523093_scandata.xml",
+   "format": "Scandata",
+   "size": "25518"
+  }
+ ]
+}

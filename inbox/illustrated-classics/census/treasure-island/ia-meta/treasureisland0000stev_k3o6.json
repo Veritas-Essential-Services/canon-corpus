@@ -1,0 +1,107 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000stev_k3o6",
+  "associated-names": "Broadus, Edmund Kemper, 1876-1936",
+  "boxid": "IA1789807",
+  "camera": "USB PTP Class Camera",
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "date": "1919",
+  "description": [
+   "269 pages 18 cm",
+   "At head of title: Revised edition, with helps to study",
+   "Series title in part at head of t.p"
+  ],
+  "language": "eng",
+  "lccn": "19011566",
+  "mediatype": "texts",
+  "notes": "some text are close to the gutter.<br />",
+  "old_pallet": "IA17198",
+  "openlibrary_edition": "OL6617613M",
+  "openlibrary_work": "OL24034W",
+  "operator": "associate-jerelyn-gonzaga@archive.org",
+  "ppi": "300",
+  "publisher": "Chicago, New York, Scott, Foresman",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station37.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "marygrove",
+  "scribe3_search_id": "31927000468428",
+  "subject": [
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Pirates",
+   "Treasure Island (Imaginary place)",
+   "Treasure troves"
+  ],
+  "title": "Treasure Island",
+  "tts_version": "3.5-initial-88-gad68d72",
+  "uploader": "station37.cebu@archive.org",
+  "publicdate": "2020-03-04 04:33:04",
+  "imagecount": "282",
+  "scandate": "20200304052631",
+  "republisher_operator": "associate-sarahjane-togonon@archive.org",
+  "republisher_date": "20200307125552",
+  "republisher_time": "767",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000stev_k3o6",
+  "identifier-ark": "ark:/13960/t4fn9r850",
+  "external-identifier": [
+   "urn:acs6:treasureisland0000stev_k3o6:epub:aa510ad5-6a45-4b43-a4cb-ccb56da530ce",
+   "urn:acs6:treasureisland0000stev_k3o6:pdf:65bb8afe-6a76-43a6-910b-526b46d2b9ac",
+   "urn:oclc:record:1158009076"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "collection": [
+   "marygrovecollege",
+   "internetarchivebooks",
+   "americana"
+  ],
+  "addeddate": "2020-03-19 21:34:52",
+  "sponsordate": "20200331",
+  "usl_hit": "auto",
+  "backup_location": "ia907106_25",
+  "oclc-id": "7956180",
+  "ocr_module_version": "0.0.17",
+  "ocr_converted": "abbyy-to-hocr 1.1.20",
+  "page_number_confidence": "95",
+  "col_number": "COL-609",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000stev_k3o6.pdf",
+   "format": "Text PDF",
+   "size": "8254590"
+  },
+  {
+   "name": "treasureisland0000stev_k3o6_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "531564"
+  },
+  {
+   "name": "treasureisland0000stev_k3o6_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6550936"
+  },
+  {
+   "name": "treasureisland0000stev_k3o6_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "92684723"
+  },
+  {
+   "name": "treasureisland0000stev_k3o6_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "47105"
+  },
+  {
+   "name": "treasureisland0000stev_k3o6_scandata.xml",
+   "format": "Scandata",
+   "size": "151789"
+  }
+ ]
+}

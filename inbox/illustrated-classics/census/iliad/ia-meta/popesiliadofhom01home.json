@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "title": "Pope's The Iliad of Homer [microform], books I,VI,XXII, and XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744, tr"
+  ],
+  "description": [
+   "Series title also at head of t.-p",
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80342-7",
+   "No. 7 on a reel of 14 titles"
+  ],
+  "publisher": "New York, London [etc], Longmans, Green and co.",
+  "date": "1896",
+  "language": [
+   "eng",
+   "gre"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0851",
+  "call_number": "1085556",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-07 17:50:13",
+  "updater": "associate-malia-young",
+  "identifier": "popesiliadofhom01home",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-07 17:50:15",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/popesiliadofhom01home",
+  "identifier-ark": "ark:/13960/t2v41zb6t",
+  "imagecount": "124",
+  "transcludes": "nncmn91803421",
+  "scandate": "20130315000000",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1050822913",
+  "usl_hit": "auto",
+  "oclc-id": "502393952",
+  "associated-names": "Pope, Alexander, 1688-1744, tr",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "20",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "popesiliadofhom01home.pdf",
+   "format": "Text PDF",
+   "size": "13547643"
+  },
+  {
+   "name": "popesiliadofhom01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "479834"
+  },
+  {
+   "name": "popesiliadofhom01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5876014"
+  },
+  {
+   "name": "popesiliadofhom01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "107268320"
+  },
+  {
+   "name": "popesiliadofhom01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "21144"
+  },
+  {
+   "name": "popesiliadofhom01home_scandata.xml",
+   "format": "Scandata",
+   "size": "38104"
+  }
+ ]
+}

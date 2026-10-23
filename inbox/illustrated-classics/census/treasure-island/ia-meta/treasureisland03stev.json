@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates"
+  ],
+  "publisher": "Boston, Roberts Bros.",
+  "date": "1884",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC014",
+  "call_number": "7897629",
+  "identifier-bib": "00020992839",
+  "repub_state": "4",
+  "updatedate": "2011-07-13 16:18:42",
+  "updater": "Elizabeth K",
+  "identifier": "treasureisland03stev",
+  "uploader": "loader-elizabeth-kornegay@archive.org",
+  "addeddate": "2011-07-13 16:18:44",
+  "publicdate": "2011-07-13 16:18:49",
+  "scanner": "scribe6.capitolhill.archive.org",
+  "repub_seconds": "4359",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-ganzorig-purevee@archive.org",
+  "scandate": "20110719154500",
+  "imagecount": "326",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/treasureisland03stev",
+  "identifier-ark": "ark:/13960/t90875w88",
+  "curation": "[curator]abigail@archive.org[/curator][date]20110726195055[/date][state]approved[/state]",
+  "scanfee": "100",
+  "sponsordate": "20110731",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903701_20",
+  "openlibrary_edition": "OL24841353M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1158007722",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 13:49:26 UTC 2020",
+  "lccn": "50041391",
+  "description": "viii, 292 p. 19 cm",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland03stev.pdf",
+   "format": "Text PDF",
+   "size": "17181690"
+  },
+  {
+   "name": "treasureisland03stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "462815"
+  },
+  {
+   "name": "treasureisland03stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5918194"
+  },
+  {
+   "name": "treasureisland03stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "128389919"
+  },
+  {
+   "name": "treasureisland03stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55211"
+  },
+  {
+   "name": "treasureisland03stev_scandata.xml",
+   "format": "Scandata",
+   "size": "326440"
+  }
+ ]
+}

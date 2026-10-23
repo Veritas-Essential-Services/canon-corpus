@@ -1,0 +1,68 @@
+{
+ "metadata": {
+  "google-id": "p_xKAAAAMAAJ",
+  "identifier": "translationilia00gaygoog",
+  "scanner": "google",
+  "title": "Translation of the Iliad of Homer",
+  "source": "http://books.google.com/books?id=p_xKAAAAMAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "Hartford : S. Andrus",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Alexander Pope",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/translationilia00gaygoog",
+  "year": "1851",
+  "date": "1851",
+  "contributor": "University of Michigan",
+  "oclc-id": "34658548",
+  "scandate": "20071001",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
+   "544 pages : 20 cm",
+   "\"With Gay's 'Welcome from Greece, ' addressed to Pope, on his having finished the Iliad.\"",
+   "Publisher's advertisements: [5] p. at end"
+  ],
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t86h4vx8v",
+  "imagecount": "559",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-02-06 05:40:06",
+  "repub_state": "4",
+  "backup_location": "ia903602_27",
+  "openlibrary_edition": "OL20466176M",
+  "openlibrary_work": "OL415420W",
+  "addeddate": "2009-02-06 05:40:06",
+  "usl_hit": "auto",
+  "associated-names": "Pope, Alexander, 1688-1744; Armstrong, W. C; Gay, John, 1685-1732. Welcome from Greece",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "60.31"
+ },
+ "files": [
+  {
+   "name": "translationilia00gaygoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1148342"
+  },
+  {
+   "name": "translationilia00gaygoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13311145"
+  },
+  {
+   "name": "translationilia00gaygoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "103964"
+  },
+  {
+   "name": "translationilia00gaygoog_scandata.xml",
+   "format": "Scandata",
+   "size": "177956"
+  }
+ ]
+}

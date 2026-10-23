@@ -1,0 +1,47 @@
+{
+ "metadata": {
+  "publisher": "Penn Pub. Co.",
+  "scanner": "google",
+  "title": "The Story of the Iliad, Or, The Siege of Troy, for Boys and Girls",
+  "creator": "Edward Brooks,  Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/storyiliadorsie00homegoog",
+  "year": "1890",
+  "date": "1890",
+  "oclc-id": "37739631",
+  "identifier": "storyiliadorsie00homegoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t3jw8ck36",
+  "imagecount": "414",
+  "publicdate": "2008-03-02 12:17:20",
+  "source": "http://books.google.com/books?id=V4oXAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_25",
+  "addeddate": "2008-03-02 12:17:20",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "storyiliadorsie00homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "365255"
+  },
+  {
+   "name": "storyiliadorsie00homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3454418"
+  },
+  {
+   "name": "storyiliadorsie00homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "124295"
+  }
+ ]
+}

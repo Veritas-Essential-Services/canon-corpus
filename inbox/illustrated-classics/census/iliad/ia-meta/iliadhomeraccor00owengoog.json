@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "google-id": "U14XAAAAYAAJ",
+  "identifier": "iliadhomeraccor00owengoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, according to the text of Wolf",
+  "source": "http://books.google.com/books?id=U14XAAAAYAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Owen, John J. (John Jason), 1803-1869"
+  ],
+  "publisher": "New York, Leavitt &amp; Allen",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomeraccor00owengoog",
+  "contributor": "Harvard University",
+  "oclc-id": "11025260",
+  "scandate": "20080320000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1851",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t2v41bb2f",
+  "imagecount": "755",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-12-19 05:13:18",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-19 05:13:18",
+  "usl_hit": "auto",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5490",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94.61"
+ },
+ "files": [
+  {
+   "name": "iliadhomeraccor00owengoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1570154"
+  },
+  {
+   "name": "iliadhomeraccor00owengoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "20017939"
+  },
+  {
+   "name": "iliadhomeraccor00owengoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "765669768"
+  },
+  {
+   "name": "iliadhomeraccor00owengoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "141368"
+  },
+  {
+   "name": "iliadhomeraccor00owengoog_scandata.xml",
+   "format": "Scandata",
+   "size": "250447"
+  }
+ ]
+}

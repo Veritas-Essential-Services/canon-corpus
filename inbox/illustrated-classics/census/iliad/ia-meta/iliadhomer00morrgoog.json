@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "Printed for John Whiteby Richard Taylor",
+  "identifier": "iliadhomer00morrgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  James Morrice",
+  "contributor": "University of Michigan",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "James Morrice",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1809",
+  "date": "1809",
+  "scandate": "20070817000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=04ZGAAAAMAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "04362653",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomer00morrgoog",
+  "identifier-ark": "ark:/13960/t8pc3969w",
+  "imagecount": "345",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-01-29 05:52:22",
+  "repub_state": "4",
+  "backup_location": "ia903602_26",
+  "addeddate": "2009-01-29 05:52:22",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00morrgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "373659"
+  },
+  {
+   "name": "iliadhomer00morrgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3782894"
+  },
+  {
+   "name": "iliadhomer00morrgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "103600"
+  }
+ ]
+}

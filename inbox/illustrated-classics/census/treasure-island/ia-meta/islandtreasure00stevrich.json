@@ -1,0 +1,90 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "Cassell & Company, Limited: London ; Paris & New York",
+  "date": "1883",
+  "language": "eng",
+  "copyright-evidence-operator": "ian frederick-rothwell",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by ian frederick-rothwell for item islandtreasure00stevrich on January 24, 2008: no visible notice of copyright; stated date is 1883.",
+  "copyright-evidence-date": "20080124184028",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "ucb_banc:GLAD-83948070",
+  "collection-library": "ucb_banc",
+  "identifier-bib": "GLAD-83948070",
+  "updatedate": "2008-01-24 18:40:36",
+  "updater": "ian frederick-rothwell",
+  "identifier": "islandtreasure00stevrich",
+  "uploader": "ianf-r@archive.org",
+  "addeddate": "2008-01-24 18:39:36",
+  "publicdate": "2008-01-24 18:40:13",
+  "imagecount": "322",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-andy-wilcoxon@archive.org",
+  "scanner": "scribe11",
+  "scandate": "20080125194712",
+  "identifier-access": "http://www.archive.org/details/islandtreasure00stevrich",
+  "identifier-ark": "ark:/13960/t22b90413",
+  "bookplateleaf": "0007",
+  "curation": "[curator]marcus@archive.org[/curator][date]20080214033750[/date][state]approved[/state]",
+  "sponsordate": "20080131",
+  "filesxml": [
+   "Tue Aug 18 18:40:16 UTC 2009",
+   "Thu Dec 24 19:47:33 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_20",
+  "openlibrary_edition": "OL7116637M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1047516848",
+  "usl_hit": "auto",
+  "description": "viii, 292 p. 20 cm",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "islandtreasure00stevrich.pdf",
+   "format": "Text PDF",
+   "size": "15406181"
+  },
+  {
+   "name": "islandtreasure00stevrich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "471063"
+  },
+  {
+   "name": "islandtreasure00stevrich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5988226"
+  },
+  {
+   "name": "islandtreasure00stevrich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "99919017"
+  },
+  {
+   "name": "islandtreasure00stevrich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54244"
+  },
+  {
+   "name": "islandtreasure00stevrich_scandata.xml",
+   "format": "Scandata",
+   "size": "168211"
+  }
+ ]
+}

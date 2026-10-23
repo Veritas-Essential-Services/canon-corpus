@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "publisher": "Cambridge [England] : University Press",
+  "identifier": "iliadhomer00edwagoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "University of California",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1894",
+  "date": "1894",
+  "scandate": "20071211",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+   "xiii, 516 pages ; 20 cm",
+   "committed to retain 20170930"
+  ],
+  "source": "http://books.google.com/books?id=xoVLAAAAIAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "03094862",
+  "sponsor": "Google",
+  "volume": "bk. 24",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "identifier-access": "http://www.archive.org/details/iliadhomer00edwagoog",
+  "identifier-ark": "ark:/13960/t4qj7wp85",
+  "imagecount": "545",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 13:40:50",
+  "backup_location": "ia903603_19",
+  "openlibrary_edition": "OL20527528M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-07-27 13:40:50",
+  "usl_hit": "auto",
+  "subject": [
+   "Epic poetry, Greek",
+   "Trojan War",
+   "Epic poetry, Greek",
+   "Epic poetry, Greek -- Translations into English"
+  ],
+  "lccn": "a  12001540",
+  "associated-names": "Platt, Arthur, 1860-1925, editor",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.4451",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.66"
+ },
+ "files": [
+  {
+   "name": "iliadhomer00edwagoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1525095"
+  },
+  {
+   "name": "iliadhomer00edwagoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11872323"
+  },
+  {
+   "name": "iliadhomer00edwagoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "89263597"
+  },
+  {
+   "name": "iliadhomer00edwagoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "125104"
+  },
+  {
+   "name": "iliadhomer00edwagoog_scandata.xml",
+   "format": "Scandata",
+   "size": "180720"
+  }
+ ]
+}

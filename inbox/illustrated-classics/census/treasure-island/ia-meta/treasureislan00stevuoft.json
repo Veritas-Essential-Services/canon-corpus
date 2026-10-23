@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "description": "26",
+  "publisher": "New York : C. Scribner",
+  "date": "1912, c1894",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-liz-ridolfo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-liz-ridolfo for item treasureislan00stevuoft on November 22, 2006: visible notice of copyright; stated date is 1905.",
+  "copyright-evidence-date": "20061122134907",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ADI-6227",
+  "identifier-access": "http://www.archive.org/details/treasureislan00stevuoft",
+  "updatedate": "2006-11-22 13:50:38",
+  "identifier": "treasureislan00stevuoft",
+  "uploader": "liz@archive.org",
+  "addeddate": "2006-11-22 13:50:41",
+  "publicdate": "2006-11-22 05:50:45",
+  "imagecount": "370",
+  "ppi": "400",
+  "lcamid": "1020707127",
+  "rcamid": "1020705223",
+  "camera": "5D",
+  "operator": "scanner-katie-lawson@archive.org",
+  "scanner": "ias10",
+  "scandate": "20061122144059",
+  "identifier-ark": "ark:/13960/t6b27qt1t",
+  "curation": "[curator]julie@archive.org[/curator][date]20061208000803[/date][state]approved[/state]",
+  "sponsordate": "20061130",
+  "filesxml": [
+   "Thu Mar 18 12:25:22 UTC 2010",
+   "Sat Dec 26 13:49:24 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_26",
+  "openlibrary_edition": "OL7164683M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": "urn:oclc:record:1157905173",
+  "usl_hit": "auto",
+  "lccn": "05016630",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislan00stevuoft.pdf",
+   "format": "Text PDF",
+   "size": "11739039"
+  },
+  {
+   "name": "treasureislan00stevuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "483133"
+  },
+  {
+   "name": "treasureislan00stevuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6153131"
+  },
+  {
+   "name": "treasureislan00stevuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "109194136"
+  },
+  {
+   "name": "treasureislan00stevuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "62465"
+  }
+ ]
+}

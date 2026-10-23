@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The women of the Iliad, a metrical translation of the first book and of the other passages in which women appear ..",
+  "creator": [
+   "Taylor, Hugh Woodruff",
+   "Homer"
+  ],
+  "publisher": "New York",
+  "date": "[c1912]",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item womenofiliadmetr00taylrich on September 14, 2007: visible notice of copyright; stated date is 1912.",
+  "copyright-evidence-date": "20070914002746",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17139871",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17139871",
+  "updatedate": "2007-09-14 00:27:48",
+  "updater": "judyjordan",
+  "identifier": "womenofiliadmetr00taylrich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-09-14 00:27:50",
+  "publicdate": "2007-09-14 00:27:57",
+  "imagecount": "76",
+  "ppi": "600",
+  "lcamid": "319919",
+  "rcamid": "319556",
+  "camera": "1Ds",
+  "operator": "scanner-rachel-berhane@archive.org",
+  "scanner": "rich8",
+  "scandate": "20070918185158",
+  "identifier-access": "http://www.archive.org/details/womenofiliadmetr00taylrich",
+  "identifier-ark": "ark:/13960/t9s17ww4r",
+  "bookplateleaf": "0004",
+  "sponsordate": "20070930",
+  "curation": "[curator]marcus@archive.org[/curator][date]200710141058[/date][state]approved[/state]",
+  "filesxml": [
+   "Thu Mar 18 14:23:10 UTC 2010",
+   "Sat Dec 26 19:05:27 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_8",
+  "openlibrary_edition": "OL7043218M",
+  "openlibrary_work": "OL7873775W",
+  "external-identifier": "urn:oclc:record:1158489766",
+  "usl_hit": "auto",
+  "oclc-id": "18547344",
+  "description": "66 p. 20 cm",
+  "associated-names": "Homer",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "80",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "womenofiliadmetr00taylrich.pdf",
+   "format": "Text PDF",
+   "size": "5231559"
+  },
+  {
+   "name": "womenofiliadmetr00taylrich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "111614"
+  },
+  {
+   "name": "womenofiliadmetr00taylrich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1372203"
+  },
+  {
+   "name": "womenofiliadmetr00taylrich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "56784738"
+  },
+  {
+   "name": "womenofiliadmetr00taylrich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "12103"
+  }
+ ]
+}

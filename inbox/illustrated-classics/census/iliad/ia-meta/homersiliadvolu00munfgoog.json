@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "google-id": "CghCAAAAIAAJ",
+  "identifier": "homersiliadvolu00munfgoog",
+  "scanner": "google",
+  "title": "Homer's Iliad:",
+  "source": "http://books.google.com/books?id=CghCAAAAIAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Munford, William, 1775-1825, tr"
+  ],
+  "publisher": "Boston, C. C. Little and J. Brown",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadvolu00munfgoog",
+  "contributor": "University of California",
+  "oclc-id": "2076483",
+  "scandate": "20071010",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "lccn": "29015193",
+  "date": "1846",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t00z7pt7h",
+  "imagecount": "551",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-10-12 01:47:14",
+  "backup_location": "ia903604_3",
+  "addeddate": "2009-10-12 01:47:14",
+  "foldoutcount": "0",
+  "page_number_confidence": "95.27",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9500",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadvolu00munfgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "834364"
+  },
+  {
+   "name": "homersiliadvolu00munfgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11453195"
+  },
+  {
+   "name": "homersiliadvolu00munfgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "441141527"
+  },
+  {
+   "name": "homersiliadvolu00munfgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "106084"
+  },
+  {
+   "name": "homersiliadvolu00munfgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "183660"
+  },
+  {
+   "name": "homersiliadvolu00munfgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "25255212"
+  }
+ ]
+}

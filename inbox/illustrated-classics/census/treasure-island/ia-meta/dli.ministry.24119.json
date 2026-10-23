@@ -1,0 +1,74 @@
+{
+ "metadata": {
+  "identifier": "dli.ministry.24119",
+  "collection": [
+   "digitallibraryindia",
+   "JaiGyan"
+  ],
+  "creator": "Stevenson, Robert Louis",
+  "date": "1887",
+  "identifier-bib": [
+   "Accession Number: E07510",
+   "Library: Salar Jung Museum, Hyderabad"
+  ],
+  "language": "eng",
+  "mediatype": "texts",
+  "publisher": "Cassell and Company Limited, London",
+  "scanner": "Internet Archive Python library 1.9.9",
+  "subject": [
+   "Pirates:Treasure troves; Adventure stories",
+   "MinistryOfCulture"
+  ],
+  "title": "Treasure Island",
+  "uploader": "carl@media.org",
+  "publicdate": "2021-03-07 23:49:34",
+  "addeddate": "2021-03-07 23:49:34",
+  "original-source": "http://indianculture.gov.in/treasure-island",
+  "identifier-access": "http://archive.org/details/dli.ministry.24119",
+  "identifier-ark": "ark:/13960/t3sv82x0b",
+  "ppi": "600",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.12",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "E07510_Treasure_Island_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "440368"
+  },
+  {
+   "name": "E07510_Treasure_Island_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6299669"
+  },
+  {
+   "name": "E07510_Treasure_Island_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "227107888"
+  },
+  {
+   "name": "E07510_Treasure_Island_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "61730"
+  },
+  {
+   "name": "E07510_Treasure_Island_scandata.xml",
+   "format": "Scandata",
+   "size": "127015"
+  },
+  {
+   "name": "E07510_Treasure_Island_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "21037118"
+  }
+ ]
+}

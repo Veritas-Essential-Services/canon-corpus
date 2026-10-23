@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "description": "52",
+  "publisher": "London Collins",
+  "date": "1900",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ABQ-3102",
+  "repub_state": "4",
+  "updatedate": "2010-08-05 15:56:15",
+  "updater": "Marlete Kurten",
+  "identifier": "treasureisl00stev",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2010-08-05 15:56:17",
+  "publicdate": "2010-08-05 15:56:21",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-tim-reid@archive.org",
+  "scanner": "scribe19.toronto.archive.org",
+  "scandate": "20100810013215",
+  "imagecount": "338",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/treasureisl00stev",
+  "identifier-ark": "ark:/13960/t7rn3wz2h",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100830211902[/date][state]approved[/state]",
+  "sponsordate": "20100831",
+  "backup_location": "ia903606_1",
+  "openlibrary_edition": "OL24356862M",
+  "openlibrary_work": "OL24034W",
+  "external-identifier": [
+   "urn:oclc:record:848167613",
+   "urn:lcp:treasureisl00stev:epub:0077029d-f91b-4a18-9859-594da4d64c72"
+  ],
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 13:49:23 UTC 2020",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "treasureisl00stev.pdf",
+   "format": "Text PDF",
+   "size": "11483393"
+  },
+  {
+   "name": "treasureisl00stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "456751"
+  },
+  {
+   "name": "treasureisl00stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5725361"
+  },
+  {
+   "name": "treasureisl00stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "66177389"
+  },
+  {
+   "name": "treasureisl00stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56129"
+  },
+  {
+   "name": "treasureisl00stev_scandata.xml",
+   "format": "Scandata",
+   "size": "177960"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "google-id": "qXoVAAAAYAAJ",
+  "identifier": "homeriliadbooks00monrgoog",
+  "scanner": "google",
+  "title": "Iliad : books I-XII : with an introduction, a brief Homeric grammar, and notes ",
+  "source": "http://books.google.com/books?id=qXoVAAAAYAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Monro, D. B. (David Binning), 1836-1905"
+  ],
+  "publisher": "Oxford : Clarendon press",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homeriliadbooks00monrgoog",
+  "year": "1890",
+  "date": "1890",
+  "contributor": "Harvard University",
+  "oclc-id": "13960022",
+  "scandate": "20080214",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "lccn": "16007882",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Trojan War"
+  ],
+  "language": [
+   "gre",
+   "eng"
+  ],
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t7gq7c81k",
+  "imagecount": "517",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-30 19:00:13",
+  "backup_location": "ia903603_12",
+  "openlibrary_edition": "OL18029701M",
+  "openlibrary_work": "OL61982W",
+  "addeddate": "2009-06-30 19:00:13",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "80.43"
+ },
+ "files": [
+  {
+   "name": "homeriliadbooks00monrgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1421257"
+  },
+  {
+   "name": "homeriliadbooks00monrgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13621894"
+  },
+  {
+   "name": "homeriliadbooks00monrgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "473806303"
+  },
+  {
+   "name": "homeriliadbooks00monrgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "99624"
+  },
+  {
+   "name": "homeriliadbooks00monrgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "169649"
+  }
+ ]
+}

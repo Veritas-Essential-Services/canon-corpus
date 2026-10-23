@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "title": "The story of the Iliad",
+  "creator": [
+   "Church, Alfred John, 1829-1912",
+   "Homer. Iliad"
+  ],
+  "description": "1",
+  "publisher": "New York : Macmillan",
+  "date": "1891",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "contributor": "Harold B. Lee Library",
+  "scanningcenter": "provo",
+  "mediatype": "texts",
+  "collection": [
+   "brigham_young_university",
+   "americana"
+  ],
+  "shiptracking": "a0019",
+  "call_number": "ACW4562",
+  "repub_state": "4",
+  "updatedate": "2011-06-29 17:39:09",
+  "updater": "WhitneyYoung",
+  "identifier": "storyofiliad1891chur",
+  "uploader": "whitneyyoung@archive.org",
+  "addeddate": "2011-06-29 17:39:12",
+  "publicdate": "2011-06-29 17:39:18",
+  "scanner": "scribe4.provo.archive.org",
+  "repub_seconds": "56011",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-05sc@archive.org",
+  "scandate": "20110721150746",
+  "imagecount": "356",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/storyofiliad1891chur",
+  "identifier-ark": "ark:/13960/t3pv7dk34",
+  "bookplateleaf": "0003",
+  "scanfee": "100",
+  "curation": "[curator]paul.n@archive.org[/curator][date]20111005213749[/date][state]approved[/state]",
+  "sponsordate": "20110930",
+  "backup_location": "ia903701_4",
+  "openlibrary_edition": "OL24869534M",
+  "openlibrary_work": "OL5215811W",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 8:47:35 UTC 2020",
+  "lccn": "04014081",
+  "associated-names": "Homer. Iliad",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "88",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "storyofiliad1891chur.pdf",
+   "format": "Text PDF",
+   "size": "16608526"
+  },
+  {
+   "name": "storyofiliad1891chur_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "428787"
+  },
+  {
+   "name": "storyofiliad1891chur_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5494276"
+  },
+  {
+   "name": "storyofiliad1891chur_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "134800143"
+  },
+  {
+   "name": "storyofiliad1891chur_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "60567"
+  },
+  {
+   "name": "storyofiliad1891chur_scandata.xml",
+   "format": "Scandata",
+   "size": "365806"
+  }
+ ]
+}

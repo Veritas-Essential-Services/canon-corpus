@@ -1,0 +1,63 @@
+{
+ "metadata": {
+  "google-id": "Z2ZEAAAAIAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=Z2ZEAAAAIAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer01unkngoog",
+  "identifier": "iliadhomer01unkngoog",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+   "Paged continuously",
+   "v. 1. Book I-XII.--v. 2. Book XIII-XXIV. Notes on Homer"
+  ],
+  "contributor": "University of California",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "7881018",
+  "lccn": "10004312",
+  "creator": [
+   "Homer",
+   "Brandreth, Thomas Shaw, 1788-1873, tr"
+  ],
+  "publisher": "London, W. Pickering",
+  "date": "1846",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t9h422x3f",
+  "imagecount": "293",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-03-09 06:48:07",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "openlibrary_edition": "OL7016388M",
+  "openlibrary_work": "OL16249584W",
+  "addeddate": "2009-03-09 06:48:07",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer01unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "373240"
+  },
+  {
+   "name": "iliadhomer01unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3745590"
+  },
+  {
+   "name": "iliadhomer01unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "88023"
+  }
+ ]
+}

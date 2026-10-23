@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_S0-EMG-300",
+  "boxid": "IA41766907",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Robert Louis Stevenson",
+  "date": "1924",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-1200551",
+  "operator": "associate-joiceressean-fernandez@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station40.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "S0-EMG-300",
+  "title": "Treasure Island",
+  "tts_version": "7.1-initial-80-gde0bfa46",
+  "uploader": "station40.cebu@archive.org",
+  "publicdate": "2025-11-18 17:36:31",
+  "identifier-access": "http://archive.org/details/bwb_S0-EMG-300",
+  "identifier-ark": "ark:/13960/s2cn1m0d67n",
+  "scandate": "20251118201207",
+  "imagecount": "268",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-abigail-ruiz@archive.org",
+  "republisher_date": "20251120134708",
+  "republisher_time": "294",
+  "foldoutcount": "0",
+  "image_count": "266",
+  "bookplateleaf": "0009",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9864",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_S0-EMG-300:epub:d0f6c8c2-f534-4edc-9c0d-225bd0e79471",
+   "urn:lcp:bwb_S0-EMG-300:lcpdf:0fe64c8f-7582-4d1b-8d80-04146477e3ef"
+  ],
+  "addeddate": "2025-11-22 00:02:26"
+ },
+ "files": [
+  {
+   "name": "bwb_S0-EMG-300.pdf",
+   "format": "Text PDF",
+   "size": "12550378"
+  },
+  {
+   "name": "bwb_S0-EMG-300_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "390428"
+  },
+  {
+   "name": "bwb_S0-EMG-300_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5444778"
+  },
+  {
+   "name": "bwb_S0-EMG-300_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "110125723"
+  },
+  {
+   "name": "bwb_S0-EMG-300_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "44664"
+  },
+  {
+   "name": "bwb_S0-EMG-300_scandata.xml",
+   "format": "Scandata",
+   "size": "320155"
+  }
+ ]
+}

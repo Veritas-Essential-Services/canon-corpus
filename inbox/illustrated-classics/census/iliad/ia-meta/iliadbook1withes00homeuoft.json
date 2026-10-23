@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "Iliad, book 1. With an essay on Homeric grammar and notes by D.B. Monro",
+  "creator": [
+   "Homer",
+   "Monro, D. B. (David Binning), 1836-1905"
+  ],
+  "subject": "Greek language -- Grammar",
+  "description": "26",
+  "publisher": "Oxford Clarendon Press",
+  "date": "1878",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "Pierre Custodio",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Pierre Custodio for item iliadbook1withes00homeuoft on May 29, 2008: no visible notice of copyright; stated date is 1878.",
+  "copyright-evidence-date": "20080529131750",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3557",
+  "repub_state": "4",
+  "updatedate": "2008-05-29 13:18:04",
+  "updater": "Pierre Custodio",
+  "identifier": "iliadbook1withes00homeuoft",
+  "uploader": "pierre@archive.org",
+  "addeddate": "2008-05-29 13:18:12",
+  "publicdate": "2008-05-29 13:18:17",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-julie-pasila@archive.org",
+  "scanner": "scribe23.toronto.archive.org",
+  "scandate": "20080530190516",
+  "imagecount": "112",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadbook1withes00homeuoft",
+  "identifier-ark": "ark:/13960/t4dn47k7k",
+  "scanfactors": "8",
+  "curatestate": "approved",
+  "sponsordate": "20080531",
+  "curation": "[curator]julie@archive.org[/curator][date]20080603171040[/date][state]approved[/state]",
+  "backup_location": "ia903602_0",
+  "openlibrary_edition": "OL13510702M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046594713",
+  "filesxml": [
+   "Thu Dec 24 17:34:39 UTC 2020",
+   "Thu Dec 31 23:19:13 UTC 2020"
+  ],
+  "associated-names": "Monro, D. B. (David Binning), 1836-1905",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7202",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "81",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadbook1withes00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "5068750"
+  },
+  {
+   "name": "iliadbook1withes00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "248759"
+  },
+  {
+   "name": "iliadbook1withes00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2837266"
+  },
+  {
+   "name": "iliadbook1withes00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "26583988"
+  },
+  {
+   "name": "iliadbook1withes00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "18174"
+  },
+  {
+   "name": "iliadbook1withes00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "59040"
+  }
+ ]
+}

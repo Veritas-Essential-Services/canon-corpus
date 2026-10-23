@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "volume": "v.2",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "description": [
+   "Printed in Philadelphia by Fry and Kammerer",
+   "Added t.-p. engraved"
+  ],
+  "publisher": "Baltimore : Philip H. Nicklin",
+  "date": "1812",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of Pittsburgh Library System",
+  "contributor": "University of Pittsburgh Library System",
+  "scanningcenter": "indiana",
+  "mediatype": "texts",
+  "shiptracking": "Batch1027",
+  "call_number": "31735060433723",
+  "updatedate": "2010-03-08 19:50:40",
+  "updater": "CallieLamkin",
+  "identifier": "iliadofhomer02inhome",
+  "uploader": "callie@archive.org",
+  "addeddate": "2010-03-08 19:50:42",
+  "publicdate": "2010-03-08 19:50:46",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-becky-mcmanus@archive.org",
+  "scanner": "scribe2.indiana.archive.org",
+  "scandate": "20100315185248",
+  "imagecount": "324",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhomer02inhome",
+  "identifier-ark": "ark:/13960/t19k50d7c",
+  "bookplateleaf": "0004",
+  "notes": "Very tight margins; some text lost where it is printed too far into gutters.  No TOC.  Some skewed pages due to tight margins.",
+  "curation": "[curator]callie@archive.org[/curator][date]20100316154735[/date][state]approved[/state][comment]168[/comment]",
+  "repub_state": "4",
+  "sponsordate": "20100331",
+  "collection": [
+   "university_pittsburgh",
+   "americana"
+  ],
+  "backup_location": "ia903604_35",
+  "openlibrary_edition": "OL24166257M",
+  "openlibrary_work": "OL16249584W",
+  "external-identifier": "urn:oclc:record:1046594068",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:52 UTC 2020",
+  "oclc-id": "1808902",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer02inhome.pdf",
+   "format": "Text PDF",
+   "size": "11726567"
+  },
+  {
+   "name": "iliadofhomer02inhome_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "554876"
+  },
+  {
+   "name": "iliadofhomer02inhome_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6499169"
+  },
+  {
+   "name": "iliadofhomer02inhome_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "83728474"
+  },
+  {
+   "name": "iliadofhomer02inhome_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54656"
+  },
+  {
+   "name": "iliadofhomer02inhome_scandata.xml",
+   "format": "Scandata",
+   "size": "169365"
+  }
+ ]
+}

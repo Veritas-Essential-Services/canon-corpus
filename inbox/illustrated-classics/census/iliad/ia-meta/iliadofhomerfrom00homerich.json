@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, from the text of Wolf. With English notes",
+  "creator": [
+   "Homer",
+   "Felton, C. C. (Cornelius Conway), 1807-1862"
+  ],
+  "publisher": "Boston, Hilliard, Gray, and Co.",
+  "date": "1833",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item iliadofhomerfrom00homerich on September 13, 2007: no visible notice of copyright; stated date is 1833.",
+  "copyright-evidence-date": "20070913232155",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17142270",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17142270",
+  "updatedate": "2007-09-13 23:22:06",
+  "updater": "judyjordan",
+  "identifier": "iliadofhomerfrom00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-09-13 23:22:09",
+  "publicdate": "2007-09-13 23:22:18",
+  "imagecount": "508",
+  "ppi": "600",
+  "lcamid": "319919",
+  "rcamid": "319556",
+  "camera": "1Ds",
+  "operator": "scanner-morgan-delorenzo@archive.org",
+  "scanner": "rich8",
+  "scandate": "20070915005435",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerfrom00homerich",
+  "identifier-ark": "ark:/13960/t6c24tj1n",
+  "bookplateleaf": "0004",
+  "sponsordate": "20070930",
+  "curation": "[curator]marcus@archive.org[/curator][date]200710141058[/date][state]approved[/state]",
+  "filesxml": [
+   "Thu Mar 18 2:08:40 UTC 2010",
+   "Thu Dec 24 17:34:57 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_8",
+  "openlibrary_edition": "OL7028966M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046525621",
+  "usl_hit": "auto",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.6420",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.17",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerfrom00homerich.pdf",
+   "format": "Text PDF",
+   "size": "41151970"
+  },
+  {
+   "name": "iliadofhomerfrom00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1043296"
+  },
+  {
+   "name": "iliadofhomerfrom00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13821410"
+  },
+  {
+   "name": "iliadofhomerfrom00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "307983187"
+  },
+  {
+   "name": "iliadofhomerfrom00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85319"
+  }
+ ]
+}

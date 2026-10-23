@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "durham",
+  "sponsor": "Duke University Libraries",
+  "contributor": "Duke University Libraries",
+  "date": "1927",
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Lang, Andrew, 1844-1912",
+   "Leaf, Walter, 1852-1927",
+   "Myers, Ernest, 1844-1921"
+  ],
+  "collection": [
+   "duke_libraries",
+   "americana"
+  ],
+  "shiptracking": "ST008070",
+  "call_number": "883.1 H766I, L",
+  "volume": "c.1",
+  "barcode": "D00323955R",
+  "publisher": "London, The Macmillan Co.",
+  "description": [
+   "Books I-IX translated by W. Leaf: books X-XVI by A. Lang; books XVII-XXIV by E. Myers",
+   "\"First edition 1882...Globe edition 1914. Reprinted 1919.\""
+  ],
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2017-09-26 14:26:50",
+  "updatedate": "2017-09-26 15:23:14",
+  "updater": "associate-atlas-mclamb@archive.org",
+  "identifier": "iliadofhomer01home_0",
+  "uploader": "associate-atlas-mclamb@archive.org",
+  "addeddate": "2017-09-26 15:23:16",
+  "scanner": "scribe1.durham.archive.org",
+  "notes": "No table-of-contents pages found. Text falls into gutter in areas.",
+  "repub_seconds": "80991",
+  "ppi": "350",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-atlas-mclamb@archive.org",
+  "scandate": "20170927153536",
+  "republisher": "associate-atlas-mclamb@archive.org",
+  "republisher_operator": "associate-atlas-mclamb@archive.org",
+  "republisher_date": "20170928182022",
+  "imagecount": "526",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer01home_0",
+  "identifier-ark": "ark:/13960/t3908c13w",
+  "bookplateleaf": "0005",
+  "ocr": "ABBYY FineReader 11.0",
+  "scanfee": "100",
+  "invoice": "41",
+  "sponsordate": "20170930",
+  "external-identifier": "urn:oclc:record:1046541557",
+  "backup_location": "ia906506_2",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "99",
+  "oclc-id": "4854053",
+  "associated-names": "Lang, Andrew, 1844-1912; Leaf, Walter, 1852-1927; Myers, Ernest, 1844-1921",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer01home_0.pdf",
+   "format": "Text PDF",
+   "size": "17250572"
+  },
+  {
+   "name": "iliadofhomer01home_0_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1095083"
+  },
+  {
+   "name": "iliadofhomer01home_0_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13287810"
+  },
+  {
+   "name": "iliadofhomer01home_0_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "155475622"
+  },
+  {
+   "name": "iliadofhomer01home_0_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "88561"
+  },
+  {
+   "name": "iliadofhomer01home_0_scandata.xml",
+   "format": "Scandata",
+   "size": "683507"
+  }
+ ]
+}

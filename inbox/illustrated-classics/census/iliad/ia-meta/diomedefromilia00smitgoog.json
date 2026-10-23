@@ -1,0 +1,57 @@
+{
+ "metadata": {
+  "google-id": "DaVteEGj35YC",
+  "identifier": "diomedefromilia00smitgoog",
+  "scanner": "google",
+  "title": "Diomede: from the Iliad of Homer",
+  "source": "http://books.google.com/books?id=DaVteEGj35YC&oe=UTF-8",
+  "creator": "Homer,  William Russell Smith",
+  "publisher": "D. Appleton & Co.",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "William Russell Smith",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/diomedefromilia00smitgoog",
+  "year": "1869",
+  "date": "1869",
+  "contributor": "Harvard University",
+  "oclc-id": "01921166",
+  "scandate": "20060614000000",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t3320cz9p",
+  "imagecount": "63",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-27 12:11:02",
+  "backup_location": "ia903603_11",
+  "addeddate": "2009-06-27 12:11:02",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "diomedefromilia00smitgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "77732"
+  },
+  {
+   "name": "diomedefromilia00smitgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "763977"
+  },
+  {
+   "name": "diomedefromilia00smitgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "51924391"
+  },
+  {
+   "name": "diomedefromilia00smitgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "19064"
+  }
+ ]
+}

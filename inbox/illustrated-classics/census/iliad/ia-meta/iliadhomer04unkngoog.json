@@ -1,0 +1,52 @@
+{
+ "metadata": {
+  "google-id": "CjcVAAAAYAAJ",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "source": "http://books.google.com/books?id=CjcVAAAAYAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer04unkngoog",
+  "identifier": "iliadhomer04unkngoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "identifier-ark": "ark:/13960/t1rf6360k",
+  "imagecount": "321",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-03-09 07:04:33",
+  "oclc-id": "19212099",
+  "creator": [
+   "Homer",
+   "Alexander Pope"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 07:04:33",
+  "usl_hit": "auto",
+  "date": "1822",
+  "volume": "1"
+ },
+ "files": [
+  {
+   "name": "iliadhomer04unkngoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "485819"
+  },
+  {
+   "name": "iliadhomer04unkngoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4600624"
+  },
+  {
+   "name": "iliadhomer04unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "96423"
+  }
+ ]
+}

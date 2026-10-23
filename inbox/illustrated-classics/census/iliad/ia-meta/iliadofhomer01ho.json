@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer [microform]",
+  "creator": [
+   "Homer",
+   "Sidgwick, Arthur, 1840-1920, ed",
+   "Keep, Robert P. (Robert Porter), 1844-1904, ed"
+  ],
+  "description": [
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80379-4",
+   "No. 4 on a reel of 8 titles"
+  ],
+  "publisher": "Boston, Allyn and Bacon",
+  "date": "1883",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0852",
+  "call_number": "1236572",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-10 21:30:30",
+  "updater": "associate-malia-young",
+  "identifier": "iliadofhomer01ho",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-10 21:30:32",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/iliadofhomer01ho",
+  "identifier-ark": "ark:/13960/t84j1qv1h",
+  "imagecount": "281",
+  "transcludes": "nncmn91803791",
+  "scanfee": "100",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1046537367",
+  "usl_hit": "auto",
+  "oclc-id": "31578216",
+  "associated-names": "Sidgwick, Arthur, 1840-1920, ed; Keep, Robert P. (Robert Porter), 1844-1904, ed",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.2765",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer01ho.pdf",
+   "format": "Text PDF",
+   "size": "72511794"
+  },
+  {
+   "name": "iliadofhomer01ho_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1817477"
+  },
+  {
+   "name": "iliadofhomer01ho_djvu.xml",
+   "format": "Djvu XML",
+   "size": "18256520"
+  },
+  {
+   "name": "iliadofhomer01ho_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "237263873"
+  },
+  {
+   "name": "iliadofhomer01ho_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "44857"
+  },
+  {
+   "name": "iliadofhomer01ho_scandata.xml",
+   "format": "Scandata",
+   "size": "90302"
+  }
+ ]
+}

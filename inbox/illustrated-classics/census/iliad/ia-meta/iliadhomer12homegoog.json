@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "Fields, Osgood",
+  "identifier": "iliadhomer12homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "William Cullen Bryant",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer12homegoog",
+  "year": "1870",
+  "date": "1870",
+  "oclc-id": "51421562",
+  "scandate": "20060830",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t8tb17t4v",
+  "imagecount": "433",
+  "publicdate": "2008-07-06 00:05:15",
+  "source": "http://books.google.com/books?id=iTERAAAAIAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_4",
+  "addeddate": "2008-07-06 00:05:15",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer12homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "465501"
+  },
+  {
+   "name": "iliadhomer12homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4753415"
+  },
+  {
+   "name": "iliadhomer12homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "129992"
+  }
+ ]
+}

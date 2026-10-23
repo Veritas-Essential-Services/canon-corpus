@@ -1,0 +1,71 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer : rendered into English prose for the use of those who cannot read the original ",
+  "identifier": "cu31924026468417",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-11-01 06:08:08",
+  "identifier-access": "http://www.archive.org/details/cu31924026468417",
+  "identifier-ark": "ark:/13960/t1zc8h28j",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+  "lccn": "12031077",
+  "camera": "EOS-1D",
+  "lcamid": "337562",
+  "rcamid": "337626",
+  "operator": "mandrews",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "creator": [
+   "Homer",
+   "Butler, Samuel, 1835-1902, tr"
+  ],
+  "publisher": "London ; New York : Longman's, Green",
+  "date": "1898",
+  "language": "eng",
+  "imagecount": "482",
+  "bookplateleaf": "0003",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20071012124637",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-10 20:10:26",
+  "filesxml": "Wed Mar 17 10:55:00 UTC 2010",
+  "backup_location": "ia903604_11",
+  "openlibrary_edition": "OL24180228M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "cu31924026468417.pdf",
+   "format": "Text PDF",
+   "size": "11540920"
+  },
+  {
+   "name": "cu31924026468417_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "989120"
+  },
+  {
+   "name": "cu31924026468417_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9593142"
+  },
+  {
+   "name": "cu31924026468417_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "213555673"
+  },
+  {
+   "name": "cu31924026468417_scandata.xml",
+   "format": "Scandata",
+   "size": "170646"
+  }
+ ]
+}

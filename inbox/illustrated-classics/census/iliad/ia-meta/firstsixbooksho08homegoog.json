@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "google-id": "9dhGAAAAIAAJ",
+  "identifier": "firstsixbooksho08homegoog",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad, the original text reduced to the natural English order, with a literal interlinear translation",
+  "source": "http://books.google.com/books?id=9dhGAAAAIAAJ&oe=UTF-8",
+  "creator": "Homer",
+  "publisher": "New York, Hinds, Noble & Eldredge",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho08homegoog",
+  "year": "1896",
+  "date": "1896",
+  "contributor": "University of California",
+  "oclc-id": "11223842",
+  "scandate": "20071126",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+   "365 pages"
+  ],
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t1xd1cb9b",
+  "imagecount": "379",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-23 14:51:19",
+  "backup_location": "ia903603_18",
+  "addeddate": "2009-07-23 14:51:19",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93.65",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho08homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "501594"
+  },
+  {
+   "name": "firstsixbooksho08homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6864904"
+  },
+  {
+   "name": "firstsixbooksho08homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "245283043"
+  },
+  {
+   "name": "firstsixbooksho08homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "74441"
+  },
+  {
+   "name": "firstsixbooksho08homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "134073"
+  },
+  {
+   "name": "firstsixbooksho08homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "20251971"
+  }
+ ]
+}

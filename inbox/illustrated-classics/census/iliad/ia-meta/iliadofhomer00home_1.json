@@ -1,0 +1,102 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Public Library",
+  "contributor": "Boston Public Library",
+  "date": "1898",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Achilles (Mythological character)",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry",
+   "Epic poetry, Greek"
+  ],
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "lccn": "04014077",
+  "collection": [
+   "bplhoughton",
+   "bostonpubliclibrary",
+   "americana"
+  ],
+  "shiptracking": "ST012752",
+  "physical_id": "91",
+  "barcode": "39999088162241",
+  "publisher": "Boston, New York, Houghton Mifflin and company",
+  "associated-names": "Bryant, William Cullen, 1794-1878, tr",
+  "description": "2 v. in 1. 21 cm",
+  "mediatype": "texts",
+  "repub_state": "19",
+  "page-progression": "lr",
+  "updatedate": "2021-01-21 15:09:52",
+  "updater": "associate-rozelda-lacoss@archive.org",
+  "identifier": "iliadofhomer00home_1",
+  "uploader": "associate-rozelda-lacoss@archive.org",
+  "publicdate": "2021-01-21 15:09:55",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "scanner": "scribe1.boston.archive.org",
+  "operator": "associate-rozelda-lacoss@archive.org",
+  "tts_version": "4.2-initial-97-g35291955",
+  "imagecount": "778",
+  "scandate": "20210209003016",
+  "ppi": "300",
+  "republisher_operator": "associate-melanie-zapata@archive.org",
+  "republisher_date": "20210209101104",
+  "republisher_time": "967",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliadofhomer00home_1",
+  "identifier-ark": "ark:/13960/t5fc56c47",
+  "bookplateleaf": "0007",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.11",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9749",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "pdf_module_version": "0.0.7",
+  "external-identifier": [
+   "urn:acs6:iliadofhomer00home_1:pdf:c39b1092-357a-4504-8343-e56d92047627",
+   "urn:oclc:record:1435593073"
+  ],
+  "scanfee": "300;10;200",
+  "invoice": "8",
+  "sponsordate": "20210228",
+  "addeddate": "2021-09-03 04:04:06",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomer00home_1.pdf",
+   "format": "Text PDF",
+   "size": "36449969"
+  },
+  {
+   "name": "iliadofhomer00home_1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "941535"
+  },
+  {
+   "name": "iliadofhomer00home_1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13493414"
+  },
+  {
+   "name": "iliadofhomer00home_1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "329307331"
+  },
+  {
+   "name": "iliadofhomer00home_1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "130241"
+  },
+  {
+   "name": "iliadofhomer00home_1_scandata.xml",
+   "format": "Scandata",
+   "size": "848497"
+  }
+ ]
+}

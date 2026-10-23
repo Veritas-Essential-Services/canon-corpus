@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "contributor": "The Library of Congress",
+  "date": "1910",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates",
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction"
+  ],
+  "title": "Treasure Island, The black arrow",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "lccn": "24022219",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST005802",
+  "call_number": "7325786",
+  "identifier_bib": "00023123873",
+  "boxid": "00023123873",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "publisher": "Boston, New York, The Jefferson press",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2016-05-19 10:17:47",
+  "updatedate": "2016-05-19 11:17:26",
+  "updater": "associate-mike-saelee@archive.org",
+  "identifier": "treasureislandbl00stev",
+  "uploader": "associate-mike-saelee@archive.org",
+  "addeddate": "2016-05-19 11:17:28",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "operator": "associate-katherine-olson@archive.org",
+  "imagecount": "642",
+  "scandate": "20160712132338",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandbl00stev",
+  "identifier-ark": "ark:/13960/t24b7vb10",
+  "ocr": "ABBYY FineReader 11.0",
+  "scanfee": "100",
+  "invoice": "1263",
+  "sponsordate": "20160731",
+  "backup_location": "ia906108_28",
+  "fadgi": "true",
+  "republisher_operator": "associate-jillian-davis@archive.org",
+  "republisher_date": "20160714110740",
+  "republisher_time": "1696",
+  "external-identifier": "urn:oclc:record:1157935475",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "description": "5 p.l., 290 p., 2 l., 322 p. 22 cm",
+  "openlibrary_work": "OL17667640W",
+  "openlibrary_edition": "OL26271835M",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "treasureislandbl00stev.pdf",
+   "format": "Text PDF",
+   "size": "146765044"
+  },
+  {
+   "name": "treasureislandbl00stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "999483"
+  },
+  {
+   "name": "treasureislandbl00stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12813461"
+  },
+  {
+   "name": "treasureislandbl00stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "147799318"
+  },
+  {
+   "name": "treasureislandbl00stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "107786"
+  },
+  {
+   "name": "treasureislandbl00stev_scandata.xml",
+   "format": "Scandata",
+   "size": "656130"
+  }
+ ]
+}

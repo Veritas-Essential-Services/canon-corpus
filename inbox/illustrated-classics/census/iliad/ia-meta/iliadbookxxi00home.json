@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "title": "Iliad, book XXI;",
+  "creator": [
+   "Homer",
+   "Hailstone, Herbert"
+  ],
+  "description": "26",
+  "publisher": "Oxford, Clarendon Press",
+  "date": "1880",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0788",
+  "repub_state": "4",
+  "updatedate": "2011-06-27 15:57:26",
+  "updater": "KatieLawson",
+  "identifier": "iliadbookxxi00home",
+  "uploader": "katie@archive.org",
+  "addeddate": "2011-06-27 15:57:28",
+  "publicdate": "2011-06-27 15:57:31",
+  "scanner": "scribe23.toronto.archive.org",
+  "notes": "NO TOC",
+  "repub_seconds": "244",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-charlotte-singh@archive.org",
+  "scandate": "20110630230753",
+  "imagecount": "66",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadbookxxi00home",
+  "identifier-ark": "ark:/13960/t4jm35f3j",
+  "scanfee": "105",
+  "curation": "[curator]sharda@archive.org[/curator][date]20110705010422[/date][state]approved[/state]",
+  "sponsordate": "20110630",
+  "backup_location": "ia903701_2",
+  "openlibrary_edition": "OL24781222M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046545486",
+  "filesxml": "Thu Dec 24 17:34:43 UTC 2020",
+  "oclc-id": "43892274",
+  "associated-names": "Hailstone, Herbert",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5649",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "70",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadbookxxi00home.pdf",
+   "format": "Text PDF",
+   "size": "4154401"
+  },
+  {
+   "name": "iliadbookxxi00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "195866"
+  },
+  {
+   "name": "iliadbookxxi00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "1640472"
+  },
+  {
+   "name": "iliadbookxxi00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "18968750"
+  },
+  {
+   "name": "iliadbookxxi00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "10899"
+  },
+  {
+   "name": "iliadbookxxi00home_scandata.xml",
+   "format": "Scandata",
+   "size": "66430"
+  }
+ ]
+}

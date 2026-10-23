@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, done into English prose",
+  "creator": [
+   "Homer",
+   "Lang, Andrew, 1844-1912",
+   "Leaf, Walter, 1852-1927",
+   "Myers, Ernest, 1844-1921"
+  ],
+  "publisher": "London : Macmillan",
+  "date": "1911",
+  "language": "eng",
+  "copyright-evidence-operator": "scanner-nicole-deyo",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by scanner-nicole-deyo for item iliadofhomerdone00home on July 16, 2007: no visible notice of copyright; stated date is 1911.",
+  "copyright-evidence-date": "20070716142051",
+  "sponsor": "MSN",
+  "contributor": "New York Public Library",
+  "scanningcenter": "nyc",
+  "mediatype": "texts",
+  "collection": [
+   "newyorkpubliclibrary",
+   "americana"
+  ],
+  "call_number": "445500",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerdone00home",
+  "updatedate": "2007-07-16 10:21:21",
+  "updater": "scanner-nicole-deyo",
+  "identifier": "iliadofhomerdone00home",
+  "uploader": "scanner-nicole-deyo@archive.org",
+  "addeddate": "2007-07-16 14:20:00",
+  "publicdate": "2007-07-16 14:20:07",
+  "imagecount": "530",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-garcia-erik@archive.org",
+  "scanner": "nycs3",
+  "scandate": "20070718144436",
+  "identifier-ark": "ark:/13960/t24b30d8d",
+  "bookplateleaf": "4",
+  "curation": "[curator]stacy@archive.org[/curator][date]20070720124933[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20070731",
+  "filesxml": [
+   "Tue Aug 18 18:00:48 UTC 2009",
+   "Thu Dec 24 17:34:57 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_4",
+  "openlibrary_edition": "OL7082367M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046588087",
+  "usl_hit": "auto",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "90",
+  "description": [
+   "vii, 506 p",
+   "\"First edition, 1882. Reprinted ... with corrections, 1892.\""
+  ],
+  "associated-names": "Lang, Andrew, 1844-1912; Leaf, Walter, 1852-1927; Myers, Ernest, 1844-1921",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerdone00home.pdf",
+   "format": "Text PDF",
+   "size": "31933059"
+  },
+  {
+   "name": "iliadofhomerdone00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1083644"
+  },
+  {
+   "name": "iliadofhomerdone00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13208823"
+  },
+  {
+   "name": "iliadofhomerdone00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "211497948"
+  },
+  {
+   "name": "iliadofhomerdone00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "90093"
+  },
+  {
+   "name": "iliadofhomerdone00home_scandata.xml",
+   "format": "Scandata",
+   "size": "263262"
+  }
+ ]
+}

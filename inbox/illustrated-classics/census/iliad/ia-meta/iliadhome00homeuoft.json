@@ -1,0 +1,82 @@
+{
+ "metadata": {
+  "title": "Iliad",
+  "creator": [
+   "Homer",
+   "Chapman, George, 1559?-1634",
+   "Morley, Henry, 1822-1894"
+  ],
+  "description": "40",
+  "publisher": "London, G. Routledge",
+  "date": "1884",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Mississauga - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "utmississauga",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "ALH-7561",
+  "updatedate": "2009-07-21 03:14:33",
+  "updater": "AlexAitken",
+  "identifier": "iliadhome00homeuoft",
+  "uploader": "alexaitken@archive.org",
+  "addeddate": "2009-07-21 03:14:35",
+  "publicdate": "2009-07-21 03:14:43",
+  "ppi": "500",
+  "lcamid": "319253",
+  "rcamid": "330987",
+  "camera": "1Ds",
+  "operator": "scanner-sonya-haryett@archive.org",
+  "scanner": "iasw6.toronto.archive.org",
+  "scandate": "20090805131744",
+  "imagecount": "334",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadhome00homeuoft",
+  "identifier-ark": "ark:/13960/t2j67xt6v",
+  "repub_state": "4",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091103172250[/date][state]approved[/state]",
+  "sponsordate": "20090930",
+  "backup_location": "ia903603_17",
+  "openlibrary_edition": "OL24431569M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:697795415",
+  "filesxml": "Thu Dec 24 17:34:43 UTC 2020",
+  "associated-names": "Chapman, George, 1559?-1634; Morley, Henry, 1822-1894",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "iliadhome00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "22019735"
+  },
+  {
+   "name": "iliadhome00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1107843"
+  },
+  {
+   "name": "iliadhome00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13194607"
+  },
+  {
+   "name": "iliadhome00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "231785742"
+  },
+  {
+   "name": "iliadhome00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56252"
+  }
+ ]
+}

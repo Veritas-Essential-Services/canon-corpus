@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "title": "The Iliad;",
+  "creator": [
+   "Homer",
+   "Norgate, Thomas Starling, 1807-1893, [from old catalog] tr"
+  ],
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "publisher": "London [etc.] Williams and Norgate",
+  "date": "1864",
+  "language": "eng",
+  "lccn": "10000283",
+  "page-progression": "lr",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "scanningcenter": "capitolhill",
+  "mediatype": "texts",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "LC156",
+  "call_number": "9626797",
+  "identifier-bib": "00030601841",
+  "repub_state": "4",
+  "updatedate": "2012-09-28 18:00:07",
+  "updater": "associate-caitlin-markey",
+  "identifier": "ilia00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2012-09-28 18:00:10",
+  "publicdate": "2012-09-28 18:00:14",
+  "scanner": "scribe1.capitolhill.archive.org",
+  "notes": "NO TOC.",
+  "repub_seconds": "34272",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-saw-thein@archive.org",
+  "scandate": "20121004195619",
+  "republisher": "associate-saw-thein@archive.org",
+  "imagecount": "718",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/ilia00home",
+  "identifier-ark": "ark:/13960/t7pp0bz3z",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "100",
+  "sponsordate": "20121031",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "backup_location": "ia903908_8",
+  "openlibrary_edition": "OL25460525M",
+  "openlibrary_work": "OL16834527W",
+  "external-identifier": "urn:oclc:record:1046539069",
+  "usl_hit": "auto",
+  "republisher_operator": "associate-phillip-gordon@archive.org;admin-shelia-deroche@archive.org;associate-saw-thein@archive.org;associate-manuel-dennis@archive.org",
+  "republisher_date": "20121005214529",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "description": "vii, [1], 698 p. 22 cm",
+  "associated-names": "Norgate, Thomas Starling, 1807-1893, [from old catalog] tr",
+  "pdf_module_version": "0.0.20",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "ilia00home.pdf",
+   "format": "Text PDF",
+   "size": "62489223"
+  },
+  {
+   "name": "ilia00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1243271"
+  },
+  {
+   "name": "ilia00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15654932"
+  },
+  {
+   "name": "ilia00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "487613830"
+  },
+  {
+   "name": "ilia00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "121947"
+  },
+  {
+   "name": "ilia00home_scandata.xml",
+   "format": "Scandata",
+   "size": "950348"
+  }
+ ]
+}

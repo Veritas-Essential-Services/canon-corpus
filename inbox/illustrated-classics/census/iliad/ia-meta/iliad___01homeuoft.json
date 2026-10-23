@@ -1,0 +1,103 @@
+{
+ "metadata": {
+  "title": "The Iliad",
+  "volume": "1",
+  "creator": [
+   "Homer",
+   "Paley, F. A. (Frederick Apthorp), 1815-1888"
+  ],
+  "description": "26",
+  "publisher": "London Whittaker",
+  "date": "1866-71",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item iliad___01homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1866.",
+  "copyright-evidence-date": "20080202011755",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3538",
+  "updatedate": "2008-02-02 01:18:19",
+  "updater": "Marlete Kurten",
+  "identifier": "iliad___01homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 01:18:26",
+  "publicdate": "2008-02-02 01:19:40",
+  "imagecount": "536",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "xenia@archive.org",
+  "scanner": "scribe18",
+  "scandate": "20080204144104",
+  "identifier-access": "http://www.archive.org/details/iliad___01homeuoft",
+  "identifier-ark": "ark:/13960/t5j964j5r",
+  "bookplateleaf": "0002",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153354[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 18:00:50 UTC 2009",
+   "Thu Dec 24 17:34:39 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7106038M",
+  "openlibrary_work": "OL61982W",
+  "external-identifier": "urn:oclc:record:697795429",
+  "usl_hit": "auto",
+  "page_number_confidence": "100",
+  "associated-names": "Paley, F. A. (Frederick Apthorp), 1815-1888",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7705",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliad___01homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "37851593"
+  },
+  {
+   "name": "iliad___01homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2191336"
+  },
+  {
+   "name": "iliad___01homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "24259460"
+  },
+  {
+   "name": "iliad___01homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "199584257"
+  },
+  {
+   "name": "iliad___01homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "90363"
+  },
+  {
+   "name": "iliad___01homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "282946"
+  }
+ ]
+}

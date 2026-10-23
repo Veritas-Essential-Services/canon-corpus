@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000stev_c8b6",
+  "boxid": "IA41751506",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "date": "1924",
+  "description": "270 p. 22 cm",
+  "language": "eng",
+  "lccn": "57012790",
+  "mediatype": "texts",
+  "oclc-id": "8042068",
+  "old_pallet": "IA-CB-1200559",
+  "openlibrary_edition": "OL6226362M",
+  "openlibrary_work": "OL24034W",
+  "operator": "associate-cris-amador@archive.org",
+  "page-progression": "lr",
+  "publisher": "Philadelphia, Winston",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20251016191638",
+  "scanner": "station43.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "lccn",
+  "scribe3_search_id": "57012790",
+  "subject": [
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction"
+  ],
+  "title": "Treasure Island",
+  "tts_version": "7.1-initial-80-gde0bfa46",
+  "uploader": "station43.cebu@archive.org",
+  "publicdate": "2025-10-16 07:21:09",
+  "identifier-access": "http://archive.org/details/treasureisland0000stev_c8b6",
+  "identifier-ark": "ark:/13960/s2v202dj9f9",
+  "imagecount": "306",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-francislouie-gulfan@archive.org",
+  "republisher_date": "20251020195429",
+  "republisher_time": "272",
+  "foldoutcount": "0",
+  "image_count": "304",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9781",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:treasureisland0000stev_c8b6:epub:7fbd1ac4-31d1-421f-a493-55f79a55afd1",
+   "urn:lcp:treasureisland0000stev_c8b6:lcpdf:f1fe03ae-164a-41a5-bdb4-64a6b6d55b62",
+   "urn:oclc:record:1606007782"
+  ],
+  "addeddate": "2025-10-21 00:03:17"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000stev_c8b6.pdf",
+   "format": "Text PDF",
+   "size": "15258458"
+  },
+  {
+   "name": "treasureisland0000stev_c8b6_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "403015"
+  },
+  {
+   "name": "treasureisland0000stev_c8b6_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5665489"
+  },
+  {
+   "name": "treasureisland0000stev_c8b6_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "132222222"
+  },
+  {
+   "name": "treasureisland0000stev_c8b6_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "51161"
+  },
+  {
+   "name": "treasureisland0000stev_c8b6_scandata.xml",
+   "format": "Scandata",
+   "size": "382345"
+  }
+ ]
+}

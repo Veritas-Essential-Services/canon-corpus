@@ -1,0 +1,69 @@
+{
+ "metadata": {
+  "publisher": "New York, The Macmillan company; London, Macmillan & co., ltd.",
+  "identifier": "popeiliadhomerb00smytgoog",
+  "scanner": "google",
+  "title": "Pope; the Iliad of Homer, books I. VI. XXII. XXIV",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744",
+   "Smyth, Albert Henry, 1863-1907"
+  ],
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1899",
+  "date": "1899",
+  "oclc-id": "6831828",
+  "scandate": "20070316000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "Bibliography: p. lv"
+  ],
+  "source": "http://books.google.com/books?id=GnwAAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "lccn": "99001557",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek"
+  ],
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-access": "http://www.archive.org/details/popeiliadhomerb00smytgoog",
+  "identifier-ark": "ark:/13960/t85h7zp3c",
+  "imagecount": "243",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-15 11:23:39",
+  "backup_location": "ia903603_8",
+  "openlibrary_edition": "OL528758M",
+  "openlibrary_work": "OL415394W",
+  "addeddate": "2009-06-15 11:23:39",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "popeiliadhomerb00smytgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "284704"
+  },
+  {
+   "name": "popeiliadhomerb00smytgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2807240"
+  },
+  {
+   "name": "popeiliadhomerb00smytgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "31686712"
+  },
+  {
+   "name": "popeiliadhomerb00smytgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "73028"
+  }
+ ]
+}

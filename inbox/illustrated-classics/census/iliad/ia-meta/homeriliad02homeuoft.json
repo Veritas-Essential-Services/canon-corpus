@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "title": "Homer and the Iliad",
+  "volume": "2",
+  "creator": [
+   "Homer",
+   "Blackie, John Stuart, 1809-1895"
+  ],
+  "description": "26",
+  "publisher": "Edinburgh Edmonston and Douglas",
+  "date": "1866",
+  "language": "eng",
+  "copyright-evidence-operator": "Marlete Kurten",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by Marlete Kurten for item homeriliad02homeuoft on February 2, 2008: no visible notice of copyright; stated date is 1866.",
+  "copyright-evidence-date": "20080202012559",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3588",
+  "updatedate": "2008-02-02 01:26:05",
+  "updater": "Marlete Kurten",
+  "identifier": "homeriliad02homeuoft",
+  "uploader": "marlete@archive.org",
+  "addeddate": "2008-02-02 01:26:11",
+  "publicdate": "2008-02-02 01:29:35",
+  "imagecount": "422",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "chrisoud@archive.org",
+  "scanner": "scribe13",
+  "scandate": "20080204140855",
+  "identifier-access": "http://www.archive.org/details/homeriliad02homeuoft",
+  "identifier-ark": "ark:/13960/t22b90f52",
+  "bookplateleaf": "0004",
+  "notes": "Faint text throughout book",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153354[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 17:55:04 UTC 2009",
+   "Thu Dec 24 16:17:33 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "external-identifier": "urn:oclc:record:697799455",
+  "usl_hit": "auto",
+  "associated-names": "Blackie, John Stuart, 1809-1895",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "homeriliad02homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "17019902"
+  },
+  {
+   "name": "homeriliad02homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "587134"
+  },
+  {
+   "name": "homeriliad02homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "7150365"
+  },
+  {
+   "name": "homeriliad02homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "74905694"
+  },
+  {
+   "name": "homeriliad02homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "71591"
+  },
+  {
+   "name": "homeriliad02homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "220420"
+  }
+ ]
+}

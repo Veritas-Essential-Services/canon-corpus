@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, books I-III",
+  "creator": [
+   "Homer",
+   "Keep, Robert P. (Robert Porter), 1844-1904",
+   "Sidgwick, Arthur, 1840-1920"
+  ],
+  "publisher": "Boston, J. Allyn",
+  "date": "1879",
+  "language": "eng",
+  "copyright-evidence-operator": "judyjordan",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by judyjordan for item iliadofhomerbook00homerich on November 17, 2007: visible notice of copyright; stated date is 1879.",
+  "copyright-evidence-date": "20071117002918",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-17142247",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-17142247",
+  "updatedate": "2007-11-17 00:29:21",
+  "updater": "judyjordan",
+  "identifier": "iliadofhomerbook00homerich",
+  "uploader": "jordan@archive.org",
+  "addeddate": "2007-11-17 00:29:23",
+  "publicdate": "2007-11-17 00:29:30",
+  "imagecount": "240",
+  "ppi": "600",
+  "lcamid": "315160",
+  "rcamid": "319556",
+  "camera": "1Ds",
+  "operator": "scanner-chris-mendoza@archive.org",
+  "scanner": "rich8",
+  "scandate": "20071117035652",
+  "identifier-access": "http://www.archive.org/details/iliadofhomerbook00homerich",
+  "identifier-ark": "ark:/13960/t4dn43308",
+  "bookplateleaf": "0006",
+  "curation": "[curator]marcus@archive.org[/curator][date]20071219005308[/date][state]approved[/state]",
+  "sponsordate": "20071130",
+  "filesxml": [
+   "Thu Mar 18 2:08:37 UTC 2010",
+   "Thu Dec 24 17:34:56 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_14",
+  "openlibrary_edition": "OL7074762M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046539778",
+  "usl_hit": "auto",
+  "oclc-id": "7416431",
+  "description": "xvi, 203 p. 18 cm",
+  "associated-names": "Keep, Robert P. (Robert Porter), 1844-1904; Sidgwick, Arthur, 1840-1920",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8398",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerbook00homerich.pdf",
+   "format": "Text PDF",
+   "size": "17207117"
+  },
+  {
+   "name": "iliadofhomerbook00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "398047"
+  },
+  {
+   "name": "iliadofhomerbook00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5538174"
+  },
+  {
+   "name": "iliadofhomerbook00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "134096926"
+  },
+  {
+   "name": "iliadofhomerbook00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "39747"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "metadata": {
+  "publisher": "Boston : Ginn & Company",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad ",
+  "creator": [
+   "Homer",
+   "Seymour, Thomas D. (Thomas Day), 1848-1907"
+  ],
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1876",
+  "date": "1889",
+  "oclc-id": "8168083",
+  "identifier": "firstsixbooksho01homegoog",
+  "copyright-region": "US",
+  "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=C6gNAAAAIAAJ&oe=UTF-8",
+  "contributor": "unknown library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "lccn": "41033548",
+  "subject": "Achilles (Greek mythology)",
+  "language": [
+   "grc",
+   "eng",
+   "grc"
+  ],
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho01homegoog",
+  "identifier-ark": "ark:/13960/t4qj7rp71",
+  "imagecount": "928",
+  "publicdate": "2009-03-02 20:08:53",
+  "repub_state": "4",
+  "backup_location": "ia903602_30",
+  "openlibrary_edition": "OL6426894M",
+  "openlibrary_work": "OL61981W",
+  "addeddate": "2009-03-02 20:08:53",
+  "foldoutcount": "0",
+  "page_number_confidence": "87.76",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.4273",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho01homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2488007"
+  },
+  {
+   "name": "firstsixbooksho01homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "27455017"
+  },
+  {
+   "name": "firstsixbooksho01homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "173634"
+  },
+  {
+   "name": "firstsixbooksho01homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "304803"
+  },
+  {
+   "name": "firstsixbooksho01homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "45761276"
+  }
+ ]
+}

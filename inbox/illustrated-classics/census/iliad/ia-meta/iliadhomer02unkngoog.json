@@ -1,0 +1,56 @@
+{
+ "metadata": {
+  "google-id": "upcMAAAAYAAJ",
+  "scanner": "google",
+  "source": "http://books.google.com/books?id=upcMAAAAYAAJ&oe=UTF-8",
+  "mediatype": "texts",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer02unkngoog",
+  "identifier": "iliadhomer02unkngoog",
+  "copyright-region": "US",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "identifier-ark": "ark:/13960/t59c7930g",
+  "imagecount": "299",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "publicdate": "2009-03-09 07:04:49",
+  "repub_state": "4",
+  "backup_location": "ia903602_31",
+  "addeddate": "2009-03-09 07:04:49",
+  "usl_hit": "auto",
+  "oclc-id": [
+   "8633572",
+   "166595326",
+   "503444306",
+   "1150795718"
+  ],
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "publisher": "New York : Borradaile",
+  "date": "1825",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry"
+  ],
+  "description": [
+   "2 v. 13 cm",
+   "Added t.-p. engraved",
+   "V.1. Books I-XII -- v.2 Books XIII-XXIV"
+  ],
+  "associated-names": "Pope, Alexander, 1688-1744 translator",
+  "volume": "Vol. I",
+  "foldoutcount": "0",
+  "collection": "americana"
+ },
+ "files": [
+  {
+   "name": "iliadhomer02unkngoog_scandata.xml",
+   "format": "Scandata",
+   "size": "89823"
+  }
+ ]
+}

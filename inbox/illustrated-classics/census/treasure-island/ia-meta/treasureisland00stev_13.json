@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "contributor": "The Library of Congress",
+  "date": "1902",
+  "subject": [
+   "Treasure Island (Imaginary place)",
+   "Treasure troves",
+   "Pirates",
+   "Treasure Island (Imaginary place) -- Fiction",
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction"
+  ],
+  "title": "Treasure Island",
+  "lccn": "03000546",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST007524",
+  "call_number": "8664597",
+  "boxid": "0002312385A",
+  "identifier_bib": "0002312385A",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+  "publisher": "New York, London, The Macmillan company",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2017-06-19 10:26:49",
+  "updatedate": "2017-06-19 11:20:55",
+  "updater": "associate-mike-saelee@archive.org",
+  "identifier": "treasureisland00stev_13",
+  "uploader": "associate-mike-saelee@archive.org",
+  "addeddate": "2017-06-19 11:20:58",
+  "scanner": "scribe10.capitolhill.archive.org",
+  "operator": "associate-richard-greydanus@archive.org",
+  "imagecount": "276",
+  "scandate": "20170630125534",
+  "ppi": "300",
+  "republisher_operator": "associate-jillian-davis@archive.org",
+  "republisher_date": "20170703133536",
+  "republisher_time": "897",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland00stev_13",
+  "identifier-ark": "ark:/13960/t7sn5vp13",
+  "scanfee": "100",
+  "invoice": "1263",
+  "curation": "[curator]associate-denise-bentley@archive.org[/curator][date]20170705174127[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20170630",
+  "backup_location": "ia906406_35",
+  "external-identifier": "urn:oclc:record:1157990854",
+  "usl_hit": "auto",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "description": "xxix, [1], 229 p. 15 cm",
+  "associated-names": "Vance, Hiram Albert, [from old catalog] ed",
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38584751M",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland00stev_13.pdf",
+   "format": "Text PDF",
+   "size": "101493050"
+  },
+  {
+   "name": "treasureisland00stev_13_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "524445"
+  },
+  {
+   "name": "treasureisland00stev_13_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6617933"
+  },
+  {
+   "name": "treasureisland00stev_13_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "103717509"
+  },
+  {
+   "name": "treasureisland00stev_13_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "46058"
+  },
+  {
+   "name": "treasureisland00stev_13_scandata.xml",
+   "format": "Scandata",
+   "size": "282007"
+  }
+ ]
+}

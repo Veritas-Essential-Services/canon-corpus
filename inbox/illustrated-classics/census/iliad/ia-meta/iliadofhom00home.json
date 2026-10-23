@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "description": "45 52",
+  "publisher": "London Macmillan",
+  "date": "1883",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "PIMS - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "pimslibrary",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3598",
+  "repub_state": "4",
+  "updatedate": "2011-09-13 18:03:32",
+  "updater": "KatieLawson",
+  "identifier": "iliadofhom00home",
+  "uploader": "katie@archive.org",
+  "addeddate": "2011-09-13 18:03:34",
+  "publicdate": "2011-09-13 18:03:37",
+  "scanner": "scribe17.toronto.archive.org",
+  "notes": "no TOC",
+  "repub_seconds": "442",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-alicia-pryce@archive.org",
+  "scandate": "20110915012519",
+  "imagecount": "538",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadofhom00home",
+  "identifier-ark": "ark:/13960/t73v0jf35",
+  "bookplateleaf": "0004",
+  "ocr": "ABBYY FineReader 8.0",
+  "scanfee": "105",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110930194043[/date][state]approved[/state]",
+  "sponsordate": "20110930",
+  "backup_location": "ia903703_4",
+  "openlibrary_edition": "OL24989685M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046581617",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:52 UTC 2020",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "oclc-id": "56234924",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "iliadofhom00home.pdf",
+   "format": "Text PDF",
+   "size": "33466855"
+  },
+  {
+   "name": "iliadofhom00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1126928"
+  },
+  {
+   "name": "iliadofhom00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13749264"
+  },
+  {
+   "name": "iliadofhom00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "256476365"
+  },
+  {
+   "name": "iliadofhom00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "91301"
+  },
+  {
+   "name": "iliadofhom00home_scandata.xml",
+   "format": "Scandata",
+   "size": "539317"
+  }
+ ]
+}

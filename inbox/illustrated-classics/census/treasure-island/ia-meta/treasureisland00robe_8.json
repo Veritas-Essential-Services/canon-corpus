@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "identifier": "treasureisland00robe_8",
+  "betterpdf": "true",
+  "call_number": "HV2345 .St4",
+  "contributor": "American Printing House for the Blind, Inc., M. C. Migel Library",
+  "date": "1911",
+  "description": "\"Treasure Island\" by Robert Louis Stevenson is an adventure novel published in 1883. When young Jim Hawkins discovers a mysterious treasure map in a dead pirate's sea chest, he sets sail with a crew to find Captain Flint's legendary buried gold. But aboard the ship Hispaniola lurks danger: the charming one-legged cook Long John Silver leads a band of mutinous pirates with their own deadly plans. Chapter 5 is titled “The Last of the Blind Man” and describes an interaction between the main characters and a blind beggar.",
+  "language": "eng",
+  "mediatype": "texts",
+  "page-progression": "lr",
+  "publisher": "C. Scribner's Sons",
+  "repub_state": "19",
+  "scanningcenter": "indiana",
+  "shiptracking": "APH101",
+  "slip_order": "55",
+  "sponsor": "American Printing House for the Blind, Inc.",
+  "subject": "Fiction",
+  "title": "Treasure Island",
+  "collection": [
+   "aphmigel",
+   "medicalheritagelibrary",
+   "americana"
+  ],
+  "creator": [
+   "Robert Louis Stevenson",
+   "N.C. Wyeth"
+  ],
+  "uploader": "associate-rosa-guzman@archive.org",
+  "publicdate": "2026-08-03 11:35:20",
+  "operator": "associate-owen-sharpe@archive.org",
+  "scandate": "20260807170107",
+  "tts_version": "7.5-initial-73-g9c2a262d",
+  "scanner": "scribe7.indiana.archive.org",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "identifier-access": "http://archive.org/details/treasureisland00robe_8",
+  "identifier-ark": "ark:/13960/s20bt6h8977",
+  "imagecount": "328",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "foldoutcount": "0",
+  "republisher_operator": "associate-rosa-guzman@archive.org",
+  "republisher_date": "20260810135330",
+  "republisher_time": "1620",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9616",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "addeddate": "2026-08-10 20:32:58",
+  "scanfee": "300;14;270",
+  "invoice": "50",
+  "sponsordate": "20260831"
+ },
+ "files": [
+  {
+   "name": "treasureisland00robe_8.pdf",
+   "format": "Text PDF",
+   "size": "47874496"
+  },
+  {
+   "name": "treasureisland00robe_8_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "395560"
+  },
+  {
+   "name": "treasureisland00robe_8_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5682507"
+  },
+  {
+   "name": "treasureisland00robe_8_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "163732238"
+  },
+  {
+   "name": "treasureisland00robe_8_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54682"
+  },
+  {
+   "name": "treasureisland00robe_8_scandata.xml",
+   "format": "Scandata",
+   "size": "402349"
+  }
+ ]
+}

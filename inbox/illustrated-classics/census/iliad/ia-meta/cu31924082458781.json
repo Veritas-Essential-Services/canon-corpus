@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad;",
+  "identifier": "cu31924082458781",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-11-06 00:00:04",
+  "identifier-access": "http://www.archive.org/details/cu31924082458781",
+  "identifier-ark": "ark:/13960/t0cv53c78",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "xxii, 435 p. 20 cm"
+  ],
+  "camera": "EOS-1D",
+  "lcamid": "337562",
+  "rcamid": "337626",
+  "operator": "mandrews",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "publisher": "London, Walton and Maberly",
+  "date": "1856",
+  "language": "eng",
+  "imagecount": "482",
+  "bookplateleaf": "0003",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20071012140037",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-21 16:45:06",
+  "filesxml": "Mon Mar 8 2:48:12 UTC 2010",
+  "backup_location": "ia903604_14",
+  "openlibrary_edition": "OL24155429M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto",
+  "creator": "Homer",
+  "oclc-id": "41913103",
+  "associated-names": "Newman, Francis William, 1805-1897"
+ },
+ "files": [
+  {
+   "name": "cu31924082458781.pdf",
+   "format": "Text PDF",
+   "size": "11352025"
+  },
+  {
+   "name": "cu31924082458781_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1058760"
+  },
+  {
+   "name": "cu31924082458781_djvu.xml",
+   "format": "Djvu XML",
+   "size": "9697012"
+  },
+  {
+   "name": "cu31924082458781_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "227917812"
+  },
+  {
+   "name": "cu31924082458781_scandata.xml",
+   "format": "Scandata",
+   "size": "170646"
+  }
+ ]
+}

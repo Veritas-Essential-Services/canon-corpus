@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "bwb_C0-BIZ-535_h7z5",
+  "boxid": "IA41766811",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "RObert Louis STevenson",
+  "date": "1910",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0001030",
+  "operator": "associate-jobileeh-baguio@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20251112093612",
+  "scanner": "station23.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "C0-BIZ-535",
+  "title": "Treasure Island",
+  "tts_version": "7.1-initial-82-g0ff79b9d",
+  "uploader": "station23.cebu@archive.org",
+  "publicdate": "2025-11-12 07:24:48",
+  "identifier-access": "http://archive.org/details/bwb_C0-BIZ-535_h7z5",
+  "identifier-ark": "ark:/13960/s2cgms7v4bg",
+  "imagecount": "386",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-miraflor-gimena@archive.org;associate-ritzell-pardillo@archive.org",
+  "republisher_date": "20251122143830",
+  "republisher_time": "798",
+  "foldoutcount": "0",
+  "image_count": "384",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9943",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_C0-BIZ-535_h7z5:epub:e7640d39-8879-4b5d-aebf-e48e7db4d454",
+   "urn:lcp:bwb_C0-BIZ-535_h7z5:lcpdf:fa8c3ee8-0841-40f2-9cd2-1e9558202272"
+  ],
+  "addeddate": "2025-11-23 00:01:22"
+ },
+ "files": [
+  {
+   "name": "bwb_C0-BIZ-535_h7z5.pdf",
+   "format": "Text PDF",
+   "size": "11640789"
+  },
+  {
+   "name": "bwb_C0-BIZ-535_h7z5_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "451202"
+  },
+  {
+   "name": "bwb_C0-BIZ-535_h7z5_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6404167"
+  },
+  {
+   "name": "bwb_C0-BIZ-535_h7z5_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "95571533"
+  },
+  {
+   "name": "bwb_C0-BIZ-535_h7z5_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "65539"
+  },
+  {
+   "name": "bwb_C0-BIZ-535_h7z5_scandata.xml",
+   "format": "Scandata",
+   "size": "468516"
+  }
+ ]
+}

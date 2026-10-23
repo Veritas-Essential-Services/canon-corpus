@@ -1,0 +1,68 @@
+{
+ "metadata": {
+  "identifier": "in.gov.ignca.748",
+  "collection": [
+   "digitallibraryindia",
+   "JaiGyan"
+  ],
+  "creator": "Murray, Homer; Murray, A. T.",
+  "date": "1924",
+  "description": "Book from the <a href=\"http://www.ignca.nic.in/\" rel=\"ugc nofollow\">Archaeological Survey of India</a><br />Central Archaeological Library, New Delhi<p>Book Number: 748<br />Book Title: Homer the Iliad Vol_1<br />Book Author: Murray, Homer; Murray, A. T.<br />Book Language: English<br />Number of Pages: 614<br />Publisher: William Heinemann; London; 1924<br />Subject: Greek literature; Greek literature fiction; Greek epic prose<br />Source URL: <a href=\"http://asi.nic.in/asi_books/748.pdf\" rel=\"ugc nofollow\">http://asi.nic.in/asi_books/748.pdf</a><br />Year: 1924</p><p></p>",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "scanner": "Internet Archive Python library 1.7.3",
+  "subject": "Archeological Survey;Greek literature; Greek literature fiction; Greek epic prose",
+  "title": "Homer the Iliad Vol_1",
+  "publicdate": "2017-11-05 13:45:55",
+  "uploader": "carl@media.org",
+  "addeddate": "2017-11-05 13:45:55",
+  "identifier-access": "http://archive.org/details/in.gov.ignca.748",
+  "identifier-ark": "ark:/13960/t48q2br49",
+  "ppi": "100",
+  "backup_location": "ia906509_27",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.9779",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "79.76",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "748_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1177490"
+  },
+  {
+   "name": "748_djvu.xml",
+   "format": "Djvu XML",
+   "size": "11795109"
+  },
+  {
+   "name": "748_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "34825948"
+  },
+  {
+   "name": "748_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "116627"
+  },
+  {
+   "name": "748_scandata.xml",
+   "format": "Scandata",
+   "size": "198885"
+  },
+  {
+   "name": "748_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "7078655"
+  }
+ ]
+}

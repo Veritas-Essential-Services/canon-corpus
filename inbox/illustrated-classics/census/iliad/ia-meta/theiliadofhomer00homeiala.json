@@ -1,0 +1,91 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "publisher": "London ; New York : Frederick Warne",
+  "date": "[188-?]",
+  "language": "eng",
+  "copyright-evidence-operator": "alyson-wieczorek",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by alyson-wieczorek for item theiliadofhomer00homeiala on April 18, 2007: no visible notice of copyright; exact publication date unknown.",
+  "copyright-evidence-date": "20070418205830",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "iala",
+  "mediatype": "texts",
+  "call_number": "srlf_ucla:LAGE-1760973",
+  "collection-library": "srlf_ucla",
+  "identifier-bib": "LAGE-1760973",
+  "identifier-access": "http://www.archive.org/details/theiliadofhomer00homeiala",
+  "updatedate": "2007-04-18 20:58:48",
+  "updater": "alyson-wieczorek",
+  "identifier": "theiliadofhomer00homeiala",
+  "uploader": "scanner-alyson-wieczorek@archive.org",
+  "addeddate": "2007-04-18 20:58:50",
+  "publicdate": "2007-04-18 20:58:54",
+  "imagecount": "492",
+  "ppi": "400",
+  "lcamid": "1020705224",
+  "rcamid": "1020707126",
+  "camera": "5D",
+  "operator": "scanner-deborah-warner@archive.org",
+  "scanner": "iala10",
+  "scandate": "20070420023551",
+  "identifier-ark": "ark:/13960/t08w39p6z",
+  "bookplateleaf": "4",
+  "curation": "[curator]marcus@archive.org[/curator][date]20070503215337[/date][state]approved[/state]",
+  "sponsordate": "20070430",
+  "filesxml": [
+   "Thu Mar 18 11:53:23 UTC 2010",
+   "Sat Dec 26 11:33:45 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903600_34",
+  "openlibrary_edition": "OL7064867M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1085607915",
+  "usl_hit": "auto",
+  "description": "xxiv, 452 p. :",
+  "associated-names": "Pope, Alexander, 1688-1744",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "theiliadofhomer00homeiala.pdf",
+   "format": "Text PDF",
+   "size": "21719270"
+  },
+  {
+   "name": "theiliadofhomer00homeiala_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1239043"
+  },
+  {
+   "name": "theiliadofhomer00homeiala_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14835342"
+  },
+  {
+   "name": "theiliadofhomer00homeiala_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "185052596"
+  },
+  {
+   "name": "theiliadofhomer00homeiala_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "83279"
+  }
+ ]
+}

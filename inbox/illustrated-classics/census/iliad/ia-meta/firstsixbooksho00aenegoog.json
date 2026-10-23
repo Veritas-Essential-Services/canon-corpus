@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "publisher": "London : Printed for Taylor and Walton",
+  "identifier": "firstsixbooksho00aenegoog",
+  "scanner": "google",
+  "title": "The first six books of Homer's Iliad : with an interpaged translation line for line, and numerous notes",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1841",
+  "date": "1841",
+  "scandate": "20060614000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "271 pages ; 19 cm",
+   "Greek text and English translation on facing pages"
+  ],
+  "source": "http://books.google.com/books?id=hSbEa6lRPKoC&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": [
+   "24256210",
+   "987452905",
+   "1003870614",
+   "1063083712",
+   "1152768467",
+   "1231177908",
+   "1242844706",
+   "1275813840"
+  ],
+  "sponsor": "Google",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "identifier-access": "http://www.archive.org/details/firstsixbooksho00aenegoog",
+  "identifier-ark": "ark:/13960/t9c543221",
+  "imagecount": "291",
+  "ppi": "300",
+  "repub_state": "4",
+  "publicdate": "2009-07-23 15:48:59",
+  "backup_location": "ia903603_18",
+  "addeddate": "2009-07-23 15:48:59",
+  "subject": [
+   "Homer. Iliad -- Criticism and interpretation",
+   "Iliad (Homer)"
+  ],
+  "associated-names": "Author of The first six books of Virgil's Aeneid",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc+Fraktur",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.8769",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "92.41",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "firstsixbooksho00aenegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "640861"
+  },
+  {
+   "name": "firstsixbooksho00aenegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6484483"
+  },
+  {
+   "name": "firstsixbooksho00aenegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "64907903"
+  },
+  {
+   "name": "firstsixbooksho00aenegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56389"
+  },
+  {
+   "name": "firstsixbooksho00aenegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "96706"
+  },
+  {
+   "name": "firstsixbooksho00aenegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "9453724"
+  }
+ ]
+}

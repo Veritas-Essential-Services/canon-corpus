@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "A.S. Barnes & Burr",
+  "identifier": "iliad04homegoog",
+  "scanner": "google",
+  "title": "Iliad",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliad04homegoog",
+  "year": "1865",
+  "date": "1865",
+  "scandate": "20070829",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t13n29k52",
+  "imagecount": "297",
+  "publicdate": "2008-07-28 05:18:15",
+  "source": "http://books.google.com/books?id=P2QMAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "7683474",
+  "language": "English",
+  "volume": "1",
+  "repub_state": "4",
+  "backup_location": "ia903602_7",
+  "addeddate": "2008-07-28 05:18:15"
+ },
+ "files": [
+  {
+   "name": "iliad04homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "495393"
+  },
+  {
+   "name": "iliad04homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4633079"
+  },
+  {
+   "name": "iliad04homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "89181"
+  }
+ ]
+}

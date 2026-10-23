@@ -1,0 +1,50 @@
+{
+ "metadata": {
+  "publisher": "Longmans', Green, and Co .",
+  "identifier": "robertlouisstev02hamigoog",
+  "scanner": "google",
+  "title": "Robert Louis Stevenson's Treasure Island",
+  "creator": "Robert Louis Stevenson,  Clayton Meeker Hamilton",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/robertlouisstev02hamigoog",
+  "year": "1910",
+  "date": "1910",
+  "oclc-id": "61878365",
+  "scandate": "20070529",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan, the Library of Congress and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t0vq2zv48",
+  "imagecount": "293",
+  "publicdate": "2008-03-30 02:09:14",
+  "source": "http://books.google.com/books?id=CWk1AAAAMAAJ&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_28",
+  "openlibrary_edition": "OL7018796M",
+  "openlibrary_work": "OL24034W",
+  "addeddate": "2008-03-30 02:09:14",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "robertlouisstev02hamigoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "480186"
+  },
+  {
+   "name": "robertlouisstev02hamigoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4435294"
+  },
+  {
+   "name": "robertlouisstev02hamigoog_scandata.xml",
+   "format": "Scandata",
+   "size": "88007"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "metadata": {
+  "identifier": "bwb_T2-FOE-783",
+  "boxid": "IA40928301",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA409136",
+  "operator": "associate-diane-reyes@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station51.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T2-FOE-783",
+  "tts_version": "5.7-initial-13-g84c01244",
+  "uploader": "station51.cebu@archive.org",
+  "title": "Treasure Island (The Academy Classics)",
+  "publicdate": "2023-05-06 04:18:18",
+  "identifier-access": "http://archive.org/details/bwb_T2-FOE-783",
+  "identifier-ark": "ark:/13960/s2nw212r7kn",
+  "scandate": "20230506084608",
+  "imagecount": "308",
+  "autocrop_version": "0.0.14_books-20220331-0.2",
+  "sent_to_scribe": "station51.cebu.archive.org",
+  "ppi": "360",
+  "republisher_operator": "associate-elena-descartin@archive.org;supervisor-ria-gargoles@archive.org",
+  "republisher_date": "20230514134111",
+  "republisher_time": "741",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9884",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "external-identifier": [
+   "urn:lcp:bwb_T2-FOE-783:epub:ddb3885f-895a-48d6-903f-c655bd4cad04",
+   "urn:acs6:bwb_T2-FOE-783:pdf:665a96a5-5b70-4b78-a0d7-9988a207669a",
+   "urn:lcp:bwb_T2-FOE-783:lcpdf:03360303-59e5-4f0d-90b4-1834b908281b"
+  ],
+  "page_number_confidence": "55",
+  "scanfee": "0;1.00;1.00",
+  "invoice": "1652",
+  "force-update": "true",
+  "creator": "Robert Lewis Stevenson",
+  "publisher": "Allyn and Bacon",
+  "date": "1915-01-01",
+  "addeddate": "2024-01-19 01:05:17",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23"
+ },
+ "files": [
+  {
+   "name": "bwb_T2-FOE-783.pdf",
+   "format": "Text PDF",
+   "size": "11689900"
+  },
+  {
+   "name": "bwb_T2-FOE-783_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "432147"
+  },
+  {
+   "name": "bwb_T2-FOE-783_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6063604"
+  },
+  {
+   "name": "bwb_T2-FOE-783_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "98984445"
+  },
+  {
+   "name": "bwb_T2-FOE-783_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "52609"
+  },
+  {
+   "name": "bwb_T2-FOE-783_scandata.xml",
+   "format": "Scandata",
+   "size": "327559"
+  }
+ ]
+}

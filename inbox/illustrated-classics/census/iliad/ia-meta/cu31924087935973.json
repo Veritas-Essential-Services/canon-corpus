@@ -1,0 +1,73 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer : done into English verse by Arthur S. Way",
+  "identifier": "cu31924087935973",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-11-06 03:48:27",
+  "identifier-access": "http://www.archive.org/details/cu31924087935973",
+  "identifier-ark": "ark:/13960/t9v12ms3b",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "v. 1. Books 1-12.--v. 2. Books 13-24",
+   "2 v. ; 23 cm"
+  ],
+  "camera": "EOS-1D",
+  "lcamid": "343039",
+  "rcamid": "342966",
+  "operator": "bschultz",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "publisher": "London : Sampson Low, Marston, Searle & Rivington",
+  "date": "1886",
+  "language": "eng",
+  "imagecount": "356",
+  "bookplateleaf": "0003",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20071024081120",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-21 18:27:09",
+  "filesxml": "Mon Mar 8 2:53:39 UTC 2010",
+  "backup_location": "ia903604_14",
+  "openlibrary_edition": "OL24155595M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto",
+  "creator": "Homer",
+  "oclc-id": "3312973",
+  "associated-names": "Way, Arthur Sanders, 1847-1930, tr"
+ },
+ "files": [
+  {
+   "name": "cu31924087935973.pdf",
+   "format": "Text PDF",
+   "size": "7188777"
+  },
+  {
+   "name": "cu31924087935973_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "572493"
+  },
+  {
+   "name": "cu31924087935973_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5599726"
+  },
+  {
+   "name": "cu31924087935973_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "142947509"
+  },
+  {
+   "name": "cu31924087935973_scandata.xml",
+   "format": "Scandata",
+   "size": "126105"
+  }
+ ]
+}

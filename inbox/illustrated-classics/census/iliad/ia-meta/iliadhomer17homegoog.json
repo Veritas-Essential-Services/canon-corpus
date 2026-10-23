@@ -1,0 +1,55 @@
+{
+ "metadata": {
+  "publisher": "Sibley & Ducker",
+  "identifier": "iliadhomer17homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1896",
+  "date": "1896",
+  "oclc-id": "71389969",
+  "scandate": "20070316",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "source": "http://books.google.com/books?id=R3wAAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "sponsor": "Google",
+  "language": "English",
+  "identifier-access": "http://www.archive.org/details/iliadhomer17homegoog",
+  "identifier-ark": "ark:/13960/t3gx4r40p",
+  "imagecount": "193",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-06-09 13:04:12",
+  "backup_location": "ia903603_7",
+  "addeddate": "2009-06-09 13:04:12",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer17homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "266737"
+  },
+  {
+   "name": "iliadhomer17homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2629988"
+  },
+  {
+   "name": "iliadhomer17homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "24173663"
+  },
+  {
+   "name": "iliadhomer17homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "58023"
+  }
+ ]
+}

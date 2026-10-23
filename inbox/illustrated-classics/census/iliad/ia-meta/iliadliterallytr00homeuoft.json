@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "title": "The Iliad. Literally translated, with explanatory notes",
+  "creator": [
+   "Homer",
+   "Buckley, Theodore Alois, 1825-1856"
+  ],
+  "description": "26",
+  "publisher": "New York Harper",
+  "date": "1860",
+  "language": "eng",
+  "copyright-evidence-operator": "John McArdle",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by John McArdle for item iliadliterallytr00homeuoft on February 4, 2008: no visible notice of copyright; stated date is 1860.",
+  "copyright-evidence-date": "20080204150129",
+  "sponsor": "MSN",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AAM-3589",
+  "updatedate": "2008-02-04 15:01:38",
+  "updater": "John McArdle",
+  "identifier": "iliadliterallytr00homeuoft",
+  "uploader": "jean@archive.org",
+  "addeddate": "2008-02-04 15:01:46",
+  "publicdate": "2008-02-04 15:05:32",
+  "imagecount": "484",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "julie82@archive.org",
+  "scanner": "scribe23",
+  "scandate": "20080208140816",
+  "identifier-access": "http://www.archive.org/details/iliadliterallytr00homeuoft",
+  "identifier-ark": "ark:/13960/t2w37r01p",
+  "bookplateleaf": "0002",
+  "notes": "- no table of contents",
+  "curation": "[curator]julie@archive.org[/curator][date]20080319153354[/date][state]approved[/state]",
+  "sponsordate": "20080229",
+  "filesxml": [
+   "Tue Aug 18 18:00:48 UTC 2009",
+   "Thu Dec 24 17:34:47 UTC 2020"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_22",
+  "openlibrary_edition": "OL7040862M",
+  "openlibrary_work": "OL61982W",
+  "external-identifier": [
+   "urn:oclc:record:858695471",
+   "urn:lcp:iliadliterallytr00homeuoft:epub:0d537fcb-447c-4bce-8c58-63f511fa019a"
+  ],
+  "usl_hit": "auto",
+  "associated-names": "Buckley, Theodore Alois, 1825-1856",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadliterallytr00homeuoft.pdf",
+   "format": "Text PDF",
+   "size": "24940955"
+  },
+  {
+   "name": "iliadliterallytr00homeuoft_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1250828"
+  },
+  {
+   "name": "iliadliterallytr00homeuoft_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14612808"
+  },
+  {
+   "name": "iliadliterallytr00homeuoft_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "170640650"
+  },
+  {
+   "name": "iliadliterallytr00homeuoft_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "81820"
+  },
+  {
+   "name": "iliadliterallytr00homeuoft_scandata.xml",
+   "format": "Scandata",
+   "size": "252202"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "metadata": {
+  "identifier": "bwb_T5-CVI-095",
+  "boxid": "IA41723526",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "ROBERT LOUIE STEVENSON",
+  "date": "1903",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000955",
+  "operator": "associate-junalyn-hatamosa@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250901132332",
+  "scanner": "station48.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "T5-CVI-095",
+  "title": "treasure island",
+  "tts_version": "6.12-initial-133-g70b4a4ad",
+  "uploader": "station48.cebu@archive.org",
+  "publicdate": "2025-09-01 09:23:51",
+  "identifier-access": "http://archive.org/details/bwb_T5-CVI-095",
+  "identifier-ark": "ark:/13960/s2mbd3k7f39",
+  "imagecount": "338",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-francislouie-gulfan@archive.org",
+  "republisher_date": "20250902162342",
+  "republisher_time": "187",
+  "foldoutcount": "0",
+  "image_count": "336",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "87",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_T5-CVI-095:epub:d5b85874-2cbe-484a-a568-c816f1a6174c",
+   "urn:lcp:bwb_T5-CVI-095:lcpdf:a6240e0d-cdb0-43a6-97a1-10887a5a2be9"
+  ],
+  "addeddate": "2025-09-03 00:22:57"
+ },
+ "files": [
+  {
+   "name": "bwb_T5-CVI-095.pdf",
+   "format": "Text PDF",
+   "size": "13211138"
+  },
+  {
+   "name": "bwb_T5-CVI-095_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "462810"
+  },
+  {
+   "name": "bwb_T5-CVI-095_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6530760"
+  },
+  {
+   "name": "bwb_T5-CVI-095_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "122115801"
+  },
+  {
+   "name": "bwb_T5-CVI-095_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "56715"
+  },
+  {
+   "name": "bwb_T5-CVI-095_scandata.xml",
+   "format": "Scandata",
+   "size": "405024"
+  }
+ ]
+}

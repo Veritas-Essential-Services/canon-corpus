@@ -1,0 +1,110 @@
+{
+ "metadata": {
+  "identifier": "homeriliad0000unse",
+  "boxid": "IA1797611",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "contributor": "Internet Archive",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "mediatype": "texts",
+  "old_pallet": "IA17363",
+  "operator": "associate-elena-descartin@gmail.com",
+  "ppi": "300",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station28.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "title": "The Iliad",
+  "tts_version": "3.5-initial-88-gad68d72",
+  "uploader": "station28.cebu@archive.org",
+  "publicdate": "2020-03-19 07:47:00",
+  "notes": "inherent cut-off text some pages due to tight binding .<br />",
+  "imagecount": "672",
+  "scandate": "20200319131138",
+  "republisher_operator": "associate-loida-sulit@archive.org;associate-melanie-zapata@archive.org",
+  "republisher_date": "20200323181108",
+  "republisher_time": "2549",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/homeriliad0000unse",
+  "identifier-ark": "ark:/13960/t89h48h3z",
+  "external-identifier": [
+   "urn:acs6:homeriliad0000unse:epub:8ba236de-ddcb-492d-9444-b949e5556bb1",
+   "urn:acs6:homeriliad0000unse:pdf:5bb957e6-f0f6-4b52-9a77-4353b338f955",
+   "urn:oclc:record:1153312332",
+   "urn:lcp:homeriliad0000unse:lcpdf:6a53be80-c38f-409d-94b8-dddaca685bd2",
+   "urn:lcp:homeriliad0000unse:epub:bc783990-90a1-46de-8827-d82173bf9d4d"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "creator": "Homer",
+  "publisher": "London : W. Heinemann ; New York : Putnam",
+  "date": "1929",
+  "subject": [
+   "Achilles (Mythological character) -- Poetry",
+   "Achilles (Mythological character)",
+   "Trojan War",
+   "Epic poetry, Greek -- Translations into English",
+   "Trojan War -- Poetry",
+   "Epic poetry, Greek"
+  ],
+  "description": "2 volumes ; 17 cm",
+  "associated-names": "Murray, A. T. (Augustus Taber), 1866-1940, translator",
+  "addeddate": "2020-03-25 16:01:06",
+  "openlibrary_edition": "OL27932045M",
+  "openlibrary_work": "OL20657493W",
+  "sponsordate": "20200331",
+  "usl_hit": "auto",
+  "backup_location": "ia907108_17",
+  "page_number_confidence": "94",
+  "oclc-id": "7747688",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.8659",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "col_number": "COL-609",
+  "page_number_module_version": "1.0.5",
+  "collection": [
+   "marygrovecollege",
+   "internetarchivebooks",
+   "americana"
+  ]
+ },
+ "files": [
+  {
+   "name": "homeriliad0000unse.pdf",
+   "format": "Text PDF",
+   "size": "22651730"
+  },
+  {
+   "name": "homeriliad0000unse_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1973937"
+  },
+  {
+   "name": "homeriliad0000unse_djvu.xml",
+   "format": "Djvu XML",
+   "size": "16722182"
+  },
+  {
+   "name": "homeriliad0000unse_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "166598039"
+  },
+  {
+   "name": "homeriliad0000unse_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "114381"
+  },
+  {
+   "name": "homeriliad0000unse_scandata.xml",
+   "format": "Scandata",
+   "size": "685880"
+  }
+ ]
+}

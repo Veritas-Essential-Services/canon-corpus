@@ -1,0 +1,87 @@
+{
+ "metadata": {
+  "publisher": "Oxford : Clarendon Press",
+  "identifier": "iliadbooksixiib00monrgoog",
+  "scanner": "google",
+  "title": "Iliad, books I-XII",
+  "creator": "Homer",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1884",
+  "date": "1884",
+  "scandate": "20080318",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "lxxxiv, 392 pages : 17 cm"
+  ],
+  "source": "http://books.google.com/books?id=MzIXAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "oclc-id": "25559838",
+  "sponsor": "Google",
+  "language": [
+   "grc",
+   "eng"
+  ],
+  "identifier-access": "http://www.archive.org/details/iliadbooksixiib00monrgoog",
+  "identifier-ark": "ark:/13960/t52f86m8q",
+  "imagecount": "499",
+  "ppi": "600",
+  "repub_state": "4",
+  "publicdate": "2009-07-27 11:31:33",
+  "backup_location": "ia903603_19",
+  "addeddate": "2009-07-27 11:31:33",
+  "subject": [
+   "Homer",
+   "Homer",
+   "Epic poetry, Greek",
+   "Greek Poetry",
+   "Poésie épique grecque",
+   "Epic poetry, Greek"
+  ],
+  "associated-names": "Monro, D. B. (David Binning), 1836-1905",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9844",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "90.95",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadbooksixiib00monrgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1326804"
+  },
+  {
+   "name": "iliadbooksixiib00monrgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12842116"
+  },
+  {
+   "name": "iliadbooksixiib00monrgoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "189051422"
+  },
+  {
+   "name": "iliadbooksixiib00monrgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "99235"
+  },
+  {
+   "name": "iliadbooksixiib00monrgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "163942"
+  },
+  {
+   "name": "iliadbooksixiib00monrgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "25493159"
+  }
+ ]
+}

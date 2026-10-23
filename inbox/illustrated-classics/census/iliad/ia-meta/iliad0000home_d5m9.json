@@ -1,0 +1,97 @@
+{
+ "metadata": {
+  "identifier": "iliad0000home_d5m9",
+  "associated-names": "Chapman, George, 1559?-1634, translator; Motte, Henri, 1846- illustrator",
+  "boxid": "IA40080311",
+  "camera": "Sony Alpha-A6300 (Control)",
+  "collection": [
+   "claremont_school_of_theology",
+   "internetarchivebooks"
+  ],
+  "collection_set": "printdisabled",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1887",
+  "description": [
+   "xi, 387 pages : 30 cm",
+   "\"This edition is limited to five hundred copies of which this is no. 431.\""
+  ],
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA18560",
+  "openlibrary_edition": "OL28402502M",
+  "openlibrary_work": "OL61981W",
+  "operator": "associate-alexander-delpuerto@archive.org",
+  "publisher": "London ; New York : G. Routledge",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station23.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "claremont",
+  "scribe3_search_id": "10011383325",
+  "title": "Iliad",
+  "tts_version": "4.4-initial-98-g6696694c",
+  "uploader": "station23.cebu@archive.org",
+  "publicdate": "2021-03-15 14:58:26",
+  "imagecount": "506",
+  "scandate": "20210315180234",
+  "ppi": "360",
+  "republisher_operator": "associate-jayann-eneldas@archive.org",
+  "republisher_date": "20210322144811",
+  "republisher_time": "393",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/iliad0000home_d5m9",
+  "identifier-ark": "ark:/13960/t2w485631",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.12",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8765",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "84",
+  "pdf_module_version": "0.0.10",
+  "external-identifier": [
+   "urn:acs6:iliad0000home_d5m9:pdf:f66339ee-59a0-4d47-b852-86713e759d09",
+   "urn:oclc:record:1435592018"
+  ],
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20210331",
+  "addeddate": "2021-09-03 04:04:06",
+  "col_number": "COL-658",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliad0000home_d5m9.pdf",
+   "format": "Text PDF",
+   "size": "26645829"
+  },
+  {
+   "name": "iliad0000home_d5m9_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "958859"
+  },
+  {
+   "name": "iliad0000home_d5m9_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13254425"
+  },
+  {
+   "name": "iliad0000home_d5m9_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "205621456"
+  },
+  {
+   "name": "iliad0000home_d5m9_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "85300"
+  },
+  {
+   "name": "iliad0000home_d5m9_scandata.xml",
+   "format": "Scandata",
+   "size": "550433"
+  }
+ ]
+}

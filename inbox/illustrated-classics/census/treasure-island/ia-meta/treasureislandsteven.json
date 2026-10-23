@@ -1,0 +1,88 @@
+{
+ "metadata": {
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "New York : Scribner's",
+  "date": "1922",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of North Carolina at Chapel Hill",
+  "contributor": "University Library, University of North Carolina at Chapel Hill",
+  "scanningcenter": "chapelhill",
+  "mediatype": "texts",
+  "collection": [
+   "prscr",
+   "unclibraries",
+   "americana"
+  ],
+  "shiptracking": "a0155",
+  "call_number": "b42906957",
+  "local_callnumber": "PR5486 .A1 1894",
+  "repub_state": "4",
+  "updatedate": "2013-05-13 14:10:47",
+  "updater": "associate-elizabeth-macleod@archive.org",
+  "identifier": "treasureislandsteven",
+  "uploader": "associate-elizabeth-macleod@archive.org",
+  "addeddate": "2013-05-13 14:11:16",
+  "publicdate": "2013-05-13 14:11:19",
+  "scanner": "scribe1.chapelhill.archive.org",
+  "repub_seconds": "831",
+  "ppi": "650",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-lucas-darden@archive.org",
+  "scandate": "20130515184737",
+  "republisher": "associate-amy-coelho@archive.org",
+  "imagecount": "316",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureislandsteven",
+  "identifier-ark": "ark:/13960/t3418jx5c",
+  "bookplateleaf": "0006",
+  "scanfee": "100",
+  "sponsordate": "20130531",
+  "backup_location": "ia905700_25",
+  "openlibrary_edition": "OL38584725M",
+  "openlibrary_work": "OL24034W",
+  "unc_bib_record_id": "b4290695",
+  "external-identifier": "urn:oclc:record:1157996146",
+  "usl_hit": "auto",
+  "description": "xxii, 266 p. : 20 cm",
+  "republisher_operator": "associate-amy-coelho@archive.org",
+  "republisher_date": "20130516021604",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureislandsteven.pdf",
+   "format": "Text PDF",
+   "size": "28406087"
+  },
+  {
+   "name": "treasureislandsteven_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "471012"
+  },
+  {
+   "name": "treasureislandsteven_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6009405"
+  },
+  {
+   "name": "treasureislandsteven_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "372540565"
+  },
+  {
+   "name": "treasureislandsteven_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "53194"
+  },
+  {
+   "name": "treasureislandsteven_scandata.xml",
+   "format": "Scandata",
+   "size": "413210"
+  }
+ ]
+}

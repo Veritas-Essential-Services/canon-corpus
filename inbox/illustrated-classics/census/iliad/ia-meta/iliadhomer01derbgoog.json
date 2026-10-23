@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "J. Murray",
+  "identifier": "iliadhomer01derbgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "Homer,  Edward George Geoffrey Smith Stanley Derby,  Edward Stanley Derby",
+  "contributor": "New York Public Library",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer01derbgoog",
+  "year": "1865",
+  "date": "1865",
+  "scandate": "20070925",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t1vd7072q",
+  "imagecount": "429",
+  "publicdate": "2008-07-27 23:17:34",
+  "source": "http://books.google.com/books?id=0fkNAAAAYAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "15386814",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903602_7",
+  "addeddate": "2008-07-27 23:17:34",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer01derbgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "425521"
+  },
+  {
+   "name": "iliadhomer01derbgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4325735"
+  },
+  {
+   "name": "iliadhomer01derbgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "128802"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "metadata": {
+  "identifier": "iliad0000home_n4f1",
+  "boxid": "IA41833026",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "Homer",
+  "date": "1930",
+  "language": "Eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-47663423",
+  "operator": "associate-rico-cabillo@archive.org",
+  "page-progression": "lr",
+  "publisher": "The Macmillan Company",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scanner": "station41.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "title",
+  "scribe3_search_id": "title=The+Iliad+&author=Homer+&date=1930",
+  "title": "The Iliad",
+  "tts_version": "7.2-initial-119-g515bb23c",
+  "uploader": "station42.cebu@archive.org",
+  "publicdate": "2026-03-23 09:03:38",
+  "identifier-access": "http://archive.org/details/iliad0000home_n4f1",
+  "identifier-ark": "ark:/13960/s2x61gk4qgv",
+  "scandate": "20260323112748",
+  "imagecount": "492",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-teresita-fernandez@archive.org",
+  "republisher_date": "20260327094537",
+  "republisher_time": "278",
+  "foldoutcount": "0",
+  "image_count": "490",
+  "bookplateleaf": "0004",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9874",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:iliad0000home_n4f1:epub:58774a2a-d8d9-420b-94c2-edfe998d945f",
+   "urn:lcp:iliad0000home_n4f1:lcpdf:b1f481f3-bf33-46b5-b0f3-56cdd3786516"
+  ],
+  "addeddate": "2026-03-28 03:26:36"
+ },
+ "files": [
+  {
+   "name": "iliad0000home_n4f1.pdf",
+   "format": "Text PDF",
+   "size": "20292117"
+  },
+  {
+   "name": "iliad0000home_n4f1_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "962206"
+  },
+  {
+   "name": "iliad0000home_n4f1_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13154304"
+  },
+  {
+   "name": "iliad0000home_n4f1_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "183754633"
+  },
+  {
+   "name": "iliad0000home_n4f1_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "82358"
+  },
+  {
+   "name": "iliad0000home_n4f1_scandata.xml",
+   "format": "Scandata",
+   "size": "597224"
+  }
+ ]
+}

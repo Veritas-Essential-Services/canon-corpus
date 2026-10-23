@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "identifier": "india.history.resource.78365",
+  "collection": [
+   "IndiaHistory",
+   "JaiGyan"
+  ],
+  "creator": [
+   "Homer",
+   "Lang, Andrew",
+   "Leaf, Walter"
+  ],
+  "date": "1893",
+  "language": "eng",
+  "mediatype": "texts",
+  "publisher": "Macmillan and Co. (London)",
+  "scanner": "Internet Archive Python library 3.5.0",
+  "subject": [
+   "Book",
+   " Classical and Modern Greek Literatures"
+  ],
+  "title": "The Iliad of Homer, done into English Prose, Rev.ed.",
+  "uploader": "carl@media.org",
+  "collection_added": "JaiGyan",
+  "publicdate": "2026-07-22 04:28:40",
+  "addeddate": "2026-07-22 04:28:40",
+  "identifier-access": "http://archive.org/details/india.history.resource.78365",
+  "identifier-ark": "ark:/13960/s2cgv7f8bhv",
+  "ppi": "300",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "97",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "78365.pdf",
+   "format": "Text PDF",
+   "size": "15196807"
+  },
+  {
+   "name": "78365_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "947334"
+  },
+  {
+   "name": "78365_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12992159"
+  },
+  {
+   "name": "78365_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "195995438"
+  },
+  {
+   "name": "78365_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "87669"
+  },
+  {
+   "name": "78365_scandata.xml",
+   "format": "Scandata",
+   "size": "185197"
+  }
+ ]
+}

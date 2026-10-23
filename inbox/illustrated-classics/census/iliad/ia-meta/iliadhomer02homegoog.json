@@ -1,0 +1,49 @@
+{
+ "metadata": {
+  "publisher": "Little, Brown, and company",
+  "identifier": "iliadhomer02homegoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer",
+  "creator": "HOMER.",
+  "mediatype": "texts",
+  "collection": "americana",
+  "translator": "Prentiss Cummings",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomer02homegoog",
+  "year": "1910",
+  "date": "1910",
+  "oclc-id": "71389969",
+  "scandate": "20050805",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t37083h37",
+  "imagecount": "286",
+  "publicdate": "2008-03-30 15:11:59",
+  "source": "http://books.google.com/books?id=ZzyiYFuj48gC&oe=UTF-8",
+  "contributor": "University of Michigan",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_28",
+  "addeddate": "2008-03-30 15:11:59",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "iliadhomer02homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "260563"
+  },
+  {
+   "name": "iliadhomer02homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2410827"
+  },
+  {
+   "name": "iliadhomer02homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "85904"
+  }
+ ]
+}

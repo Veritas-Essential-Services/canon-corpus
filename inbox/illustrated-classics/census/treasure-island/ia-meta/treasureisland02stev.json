@@ -1,0 +1,102 @@
+{
+ "metadata": {
+  "identifier": "treasureisland02stev",
+  "title": "Treasure Island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "mediatype": "texts",
+  "description": [
+   "Listed as first edition, second printing",
+   "The \"7\" in pagination of p. 127 appears to have been stamped in",
+   "Publisher's advertisement, dated 5R-1083: p.1-8 at end",
+   "In the line, Fifteen men on the dead man's chest, on p. 2 and 7, Dead Man's Chest is not capitalized",
+   "First published in slightly different form in Young folks, 1 October 1881-22, January 1882, as by 'Captain George North'",
+   "Bleinecke, E.J. Robert Louis Stevenson",
+   "NCBEL",
+   "Magee, D. Victoria R.I.",
+   "cat",
+   "Black coated on white lining paper",
+   "Bound in original red silk-grained cloth",
+   "9"
+  ],
+  "date": "1883",
+  "year": "1883",
+  "publicdate": "2010-07-20 22:49:49",
+  "addeddate": "2010-07-20 22:49:46",
+  "uploader": "marisasnyder@archive.org",
+  "updater": [
+   "Marisa Snyder",
+   "Marisa Snyder"
+  ],
+  "updatedate": [
+   "2010-07-20 22:49:43",
+   "2010-07-28 17:07:18"
+  ],
+  "contributor": "Harold B. Lee Library",
+  "publisher": "London ; Paris ; New York : Cassell & Company, Limited",
+  "language": "eng",
+  "volume": "no. 2",
+  "page-progression": "lr",
+  "sponsor": "Brigham Young University",
+  "scanningcenter": "provo",
+  "call_number": "DDK2965",
+  "repub_state": "4",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-byu-15@archive.org",
+  "scanner": "scribe1.provo.archive.org",
+  "scandate": "20100726230448",
+  "imagecount": "324",
+  "identifier-access": "http://www.archive.org/details/treasureisland02stev",
+  "identifier-ark": "ark:/13960/t6qz2zw8g",
+  "curation": "[curator]marisasnyder@archive.org[/curator][date]20100729160640[/date][state]approved[/state][comment]199[/comment]",
+  "foldoutcount": "0",
+  "sponsordate": "20100731",
+  "collection": [
+   "victorianbrighamyounguniv",
+   "americana",
+   "brigham_young_university"
+  ],
+  "backup_location": "ia903605_32",
+  "openlibrary_edition": "OL24349249M",
+  "openlibrary_work": "OL24034W",
+  "usl_hit": "auto",
+  "filesxml": "Sat Dec 26 13:49:26 UTC 2020",
+  "references": "Bleinecke, E.J. Robert Louis Stevenson, 242; NCBEL III, 1005; Magee, D. Victoria R.I., no. 1012",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "treasureisland02stev.pdf",
+   "format": "Text PDF",
+   "size": "21642348"
+  },
+  {
+   "name": "treasureisland02stev_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "473406"
+  },
+  {
+   "name": "treasureisland02stev_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6011880"
+  },
+  {
+   "name": "treasureisland02stev_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "127409681"
+  },
+  {
+   "name": "treasureisland02stev_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "54295"
+  },
+  {
+   "name": "treasureisland02stev_scandata.xml",
+   "format": "Scandata",
+   "size": "169464"
+  }
+ ]
+}

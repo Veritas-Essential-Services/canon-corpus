@@ -1,0 +1,82 @@
+{
+ "metadata": {
+  "identifier": "homersiliadbook04homegoog",
+  "scanner": "google",
+  "title": "Homer's Iliad, Books I, II",
+  "creator": "Homer",
+  "mediatype": "texts",
+  "collection": "europeanlibraries",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliadbook04homegoog",
+  "year": "1877",
+  "date": "1877",
+  "scandate": "20060810000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+   "xi, 179 p",
+   "Includes bibliographical references and indexes"
+  ],
+  "identifier-ark": "ark:/13960/t4vh5n735",
+  "imagecount": "189",
+  "publicdate": "2008-05-31 20:37:01",
+  "source": "http://books.google.com/books?id=jX8CAAAAQAAJ&oe=UTF-8",
+  "contributor": "Oxford University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "repub_state": "4",
+  "backup_location": "ia903602_0",
+  "addeddate": "2008-05-31 20:37:01",
+  "oclc-id": [
+   "1132920650",
+   "315430321",
+   "1063124759",
+   "1181221317"
+  ],
+  "publisher": "London : Rivingtons",
+  "subject": [
+   "Achilles (Mythological character)",
+   "Achilles (Greek mythology) -- Poetry",
+   "Trojan War -- Poetry",
+   "Guerre de Troie -- Poésie"
+  ],
+  "language": "grc",
+  "associated-names": "Sidgwick, Arthur, 1840-1920",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8291",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88.89",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "homersiliadbook04homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "525845"
+  },
+  {
+   "name": "homersiliadbook04homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4361427"
+  },
+  {
+   "name": "homersiliadbook04homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "37573"
+  },
+  {
+   "name": "homersiliadbook04homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "62600"
+  },
+  {
+   "name": "homersiliadbook04homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "7098053"
+  }
+ ]
+}

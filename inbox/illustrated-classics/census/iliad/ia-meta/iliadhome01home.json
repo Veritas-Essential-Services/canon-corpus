@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "The Iliad",
+  "volume": "1",
+  "creator": [
+   "Homer",
+   "Leaf, Walter, 1852-1927"
+  ],
+  "description": "26 27",
+  "publisher": "London : Macmillan",
+  "date": "1886",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "PIMS - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "pimslibrary",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "318186744",
+  "repub_state": "4",
+  "updatedate": "2011-08-24 15:31:14",
+  "updater": "lexw@archive.org",
+  "identifier": "iliadhome01home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2011-08-24 15:31:16",
+  "publicdate": "2011-08-24 15:31:20",
+  "scanner": "scribe17.toronto.archive.org",
+  "notes": "no TOC",
+  "repub_seconds": "443",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-alicia-pryce@archive.org",
+  "scandate": "20110826124913",
+  "imagecount": "464",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/iliadhome01home",
+  "identifier-ark": "ark:/13960/t45q5w372",
+  "bookplateleaf": "0007",
+  "scanfee": "105",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110902151407[/date][state]approved[/state]",
+  "sponsordate": "20110831",
+  "backup_location": "ia903702_24",
+  "openlibrary_edition": "OL24981561M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046586177",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 17:34:44 UTC 2020",
+  "oclc-id": "318186744",
+  "associated-names": "Leaf, Walter, 1852-1927",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "iliadhome01home.pdf",
+   "format": "Text PDF",
+   "size": "46832642"
+  },
+  {
+   "name": "iliadhome01home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "2630667"
+  },
+  {
+   "name": "iliadhome01home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "24334685"
+  },
+  {
+   "name": "iliadhome01home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "247585838"
+  },
+  {
+   "name": "iliadhome01home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "78611"
+  },
+  {
+   "name": "iliadhome01home_scandata.xml",
+   "format": "Scandata",
+   "size": "464092"
+  }
+ ]
+}

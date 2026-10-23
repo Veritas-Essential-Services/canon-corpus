@@ -1,0 +1,78 @@
+{
+ "metadata": {
+  "publisher": "Boston, Hilliard, Gray, and Co.",
+  "identifier": "iliadhomerfromt00feltgoog",
+  "scanner": "google",
+  "title": "The Iliad of Homer, from the text of Wolf. With English notes",
+  "creator": "Homer",
+  "contributor": "University of California",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/iliadhomerfromt00feltgoog",
+  "year": "1833",
+  "date": "1833",
+  "scandate": "20071210",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+   "xii, 478 pages 19 cm",
+   "\"The text ... is an exact reprint of the Leipzig edition published by Tauchnitz in 1829\"--Preface"
+  ],
+  "identifier-ark": "ark:/13960/t8qc06j7b",
+  "imagecount": "589",
+  "publicdate": "2008-08-24 12:52:05",
+  "source": "http://books.google.com/books?id=RCRLAAAAIAAJ&oe=UTF-8",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "oclc-id": "00336307",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "repub_state": "4",
+  "backup_location": "ia903602_10",
+  "openlibrary_edition": "OL20434403M",
+  "openlibrary_work": "OL15112559W",
+  "addeddate": "2008-08-24 12:52:05",
+  "usl_hit": "auto",
+  "associated-names": "Wolf, F. A. (Friedrich August), 1759-1824; Felton, C. C. (Cornelius Conway), 1807-1862, editor",
+  "foldoutcount": "0",
+  "ocr": "tesseract 5.0.0-rc2-1-gf788",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.14",
+  "ocr_detected_script": "Greek",
+  "ocr_detected_script_conf": "0.6390",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "84.86",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadhomerfromt00feltgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1204076"
+  },
+  {
+   "name": "iliadhomerfromt00feltgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "15518324"
+  },
+  {
+   "name": "iliadhomerfromt00feltgoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "108951"
+  },
+  {
+   "name": "iliadhomerfromt00feltgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "193681"
+  },
+  {
+   "name": "iliadhomerfromt00feltgoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "30118726"
+  }
+ ]
+}

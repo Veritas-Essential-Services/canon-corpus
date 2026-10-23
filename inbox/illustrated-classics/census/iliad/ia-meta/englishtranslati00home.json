@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "language": "eng",
+  "scanningcenter": "capitolhill",
+  "sponsor": "The Library of Congress",
+  "contributor": "The Library of Congress",
+  "date": "1869",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Epic poetry, Greek",
+   "genealogy",
+   "Achilles (Greek mythology) -- Poetry",
+   "Epic poetry, Greek -- Translations into English"
+  ],
+  "title": "An English translation of the first eight books of the Iliad of Homer",
+  "lccn": "tmp92004615",
+  "collection": [
+   "library_of_congress",
+   "americana"
+  ],
+  "shiptracking": "ST000673",
+  "identifier_bib": "00030601750",
+  "call_number": "6783537",
+  "boxid": "00030601750",
+  "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+  "publisher": "Belfast",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2013-12-16 19:27:41",
+  "updatedate": "2013-12-16 20:35:01",
+  "updater": "associate-caitlin-markey@archive.org",
+  "identifier": "englishtranslati00home",
+  "uploader": "associate-caitlin-markey@archive.org",
+  "addeddate": "2013-12-16 20:35:03.957217",
+  "scanner": "scribe2.capitolhill.archive.org",
+  "notes": "No copyright page found. No table-of-contents pages found.",
+  "repub_seconds": "6036",
+  "ppi": "600",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "volunteer-sara-kendrick@archive.org",
+  "scandate": "20140106182314",
+  "republisher": "volunteer-sara-kendrick@archive.org",
+  "imagecount": "162",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/englishtranslati00home",
+  "identifier-ark": "ark:/13960/t3nw1x89z",
+  "scanfee": "100",
+  "invoice": "36",
+  "sponsordate": "20140131",
+  "backup_location": "ia905801_10",
+  "external-identifier": "urn:oclc:record:1045048970",
+  "usl_hit": "auto",
+  "creator": "Homer",
+  "description": "151 p. 19 cm",
+  "associated-names": "Gilchrist, James, A.M",
+  "republisher_operator": "volunteer-allen-kendrick@archive.org;volunteer-sara-kendrick@archive.org",
+  "republisher_date": "20140106202422",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.3"
+ },
+ "files": [
+  {
+   "name": "englishtranslati00home.pdf",
+   "format": "Text PDF",
+   "size": "13804110"
+  },
+  {
+   "name": "englishtranslati00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "361377"
+  },
+  {
+   "name": "englishtranslati00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "4348325"
+  },
+  {
+   "name": "englishtranslati00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "142495599"
+  },
+  {
+   "name": "englishtranslati00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "26838"
+  },
+  {
+   "name": "englishtranslati00home_scandata.xml",
+   "format": "Scandata",
+   "size": "84817"
+  }
+ ]
+}

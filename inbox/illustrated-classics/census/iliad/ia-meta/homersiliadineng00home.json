@@ -1,0 +1,96 @@
+{
+ "metadata": {
+  "title": "Homer's Iliad; in English rhymed verse",
+  "creator": [
+   "Homer",
+   "Merivale, Charles, 1808-1893"
+  ],
+  "description": "26",
+  "publisher": "London, Strahan",
+  "date": "1869",
+  "language": [
+   "eng",
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0815",
+  "repub_state": "4",
+  "updatedate": "2010-07-07 13:56:53",
+  "updater": "lexw@archive.org",
+  "identifier": "homersiliadineng00home",
+  "uploader": "lexw@archive.org",
+  "addeddate": "2010-07-07 13:56:55",
+  "publicdate": "2010-07-07 13:57:01",
+  "notes": "Very light text, loose pages, narrow margins.",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-g-deschamps@archive.org",
+  "scanner": "scribe11.toronto.archive.org",
+  "scandate": "20100707214255",
+  "imagecount": "614",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/homersiliadineng00home",
+  "identifier-ark": "ark:/13960/t20c5pc7m",
+  "bookplateleaf": "0010",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100728010445[/date][state]approved[/state]",
+  "sponsordate": "20100731",
+  "backup_location": "ia903605_28",
+  "openlibrary_edition": "OL24347580M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:858850536",
+  "filesxml": "Thu Dec 24 16:17:46 UTC 2020",
+  "page_number_confidence": "100",
+  "associated-names": "Merivale, Charles, 1808-1893",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng+grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9715",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homersiliadineng00home.pdf",
+   "format": "Text PDF",
+   "size": "23715851"
+  },
+  {
+   "name": "homersiliadineng00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "970931"
+  },
+  {
+   "name": "homersiliadineng00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "13399325"
+  },
+  {
+   "name": "homersiliadineng00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "140202887"
+  },
+  {
+   "name": "homersiliadineng00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "102876"
+  },
+  {
+   "name": "homersiliadineng00home_scandata.xml",
+   "format": "Scandata",
+   "size": "320634"
+  }
+ ]
+}

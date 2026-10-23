@@ -1,0 +1,98 @@
+{
+ "metadata": {
+  "identifier": "treasureisland0000unse_g2c7",
+  "boxid": "IA40420703",
+  "camera": "USB PTP Class Camera",
+  "contributor": "Internet Archive",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-NS-0001052",
+  "operator": "associate-elgen-castro@archive.org",
+  "rcs_key": "24143",
+  "repub_state": "19",
+  "scanner": "station50.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "tts_version": "4.5-initial-80-gce32ee1e",
+  "uploader": "station50.cebu@archive.org",
+  "publicdate": "2022-03-31 13:25:10",
+  "imagecount": "258",
+  "scandate": "20220331145724",
+  "ppi": "360",
+  "republisher_operator": "associate-jessa-lubiano@archive.org",
+  "republisher_date": "20220404062934",
+  "republisher_time": "463",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/treasureisland0000unse_g2c7",
+  "identifier-ark": "ark:/13960/s2spb2vjdxs",
+  "page_number_confidence": "95",
+  "scanfee": "0;1.00;200",
+  "invoice": "1652",
+  "sponsordate": "20220331",
+  "title": "Treasure island",
+  "creator": "Stevenson, Robert Louis, 1850-1894",
+  "publisher": "London ; New York : Standard Book Co.",
+  "date": "1930",
+  "subject": [
+   "Treasure troves -- Fiction",
+   "Pirates -- Fiction",
+   "Adventure stories",
+   "Trésors -- Recherche -- Romans, nouvelles, etc",
+   "Pirates -- Romans, nouvelles, etc"
+  ],
+  "oclc-id": "3660530",
+  "description": [
+   "iv, 241 pages ; 19 cm",
+   "The old buccaneer -- The sea cook -- My shore adventure -- The stockade -- My sea adventure -- Captain Silver"
+  ],
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "external-identifier": [
+   "urn:acs6:treasureisland0000unse_g2c7:pdf:64aac428-b489-4eb5-af7f-af5e6006d09b",
+   "urn:lcp:treasureisland0000unse_g2c7:lcpdf:b8b76a08-c72d-4ea6-b05d-b6e3ece942ec",
+   "urn:lcp:treasureisland0000unse_g2c7:epub:a711b12c-66ee-4d5b-bda4-174ab9cff582"
+  ],
+  "openlibrary_work": "OL24034W",
+  "openlibrary_edition": "OL38627891M",
+  "addeddate": "2022-07-12 14:01:30",
+  "page_number_module_version": "1.0.5",
+  "collection": "internetarchivebooks"
+ },
+ "files": [
+  {
+   "name": "treasureisland0000unse_g2c7.pdf",
+   "format": "Text PDF",
+   "size": "10246843"
+  },
+  {
+   "name": "treasureisland0000unse_g2c7_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "388695"
+  },
+  {
+   "name": "treasureisland0000unse_g2c7_djvu.xml",
+   "format": "Djvu XML",
+   "size": "5430037"
+  },
+  {
+   "name": "treasureisland0000unse_g2c7_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "90334782"
+  },
+  {
+   "name": "treasureisland0000unse_g2c7_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "43220"
+  },
+  {
+   "name": "treasureisland0000unse_g2c7_scandata.xml",
+   "format": "Scandata",
+   "size": "280609"
+  }
+ ]
+}

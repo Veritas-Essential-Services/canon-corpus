@@ -1,0 +1,82 @@
+{
+ "metadata": {
+  "publisher": "Boston, Ginn & Company",
+  "identifier": "firstthreebooks03homegoog",
+  "scanner": "google",
+  "title": "The first three books of Homer's Iliad, with introduction, commentary, and vocabulary, for the use of schools",
+  "contributor": "Harvard University",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "year": "1898",
+  "date": "1903",
+  "oclc-id": "24289433",
+  "scandate": "20070412000000",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+   "\"Bibliographical note\": p. lxxxv",
+   "Vocabulary to the first six books of the Iliad: 138 p. at end",
+   "lxxxv, 70, 136, 138 p. 21 cm"
+  ],
+  "curation": "[curator]malware@archive.org[/curator][date]20140318105124[/date][comment]checked for malware[/comment]",
+  "publicdate": "2014-03-18 10:51:25",
+  "source": "http://books.google.com/books?id=DyYBAAAAYAAJ&oe=UTF-8",
+  "uploader": "tpb",
+  "lccn": "03029821",
+  "subject": [
+   "Achilles (Greek mythology)",
+   "Achilles (Greek mythology) -- Poetry"
+  ],
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-access": "http://archive.org/details/firstthreebooks03homegoog",
+  "identifier-ark": "ark:/13960/t20c7k038",
+  "imagecount": "393",
+  "ppi": "600",
+  "repub_state": "4",
+  "backup_location": "ia905805_21",
+  "addeddate": "2014-03-18 10:51:25",
+  "creator": "Homer",
+  "associated-names": "Seymour, Thomas D. (Thomas Day), 1848-1907",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "firstthreebooks03homegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1061884"
+  },
+  {
+   "name": "firstthreebooks03homegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "12550910"
+  },
+  {
+   "name": "firstthreebooks03homegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "81194178"
+  },
+  {
+   "name": "firstthreebooks03homegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "65979"
+  },
+  {
+   "name": "firstthreebooks03homegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "129422"
+  },
+  {
+   "name": "firstthreebooks03homegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "24264684"
+  }
+ ]
+}

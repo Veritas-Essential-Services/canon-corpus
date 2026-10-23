@@ -1,0 +1,86 @@
+{
+ "metadata": {
+  "identifier": "bwb_S0-AOK-448",
+  "boxid": "IA41698311",
+  "camera": "USB PTP Class Camera",
+  "collection": "internetarchivebooks",
+  "contributor": "Internet Archive",
+  "creator": "ROBERT LOUIS STEVENSON",
+  "date": "1909",
+  "language": "eng",
+  "mediatype": "texts",
+  "old_pallet": "IA-CB-0000826",
+  "operator": "associate-adrian-coyoca@archive.org",
+  "page-progression": "lr",
+  "rcs_key": "27010",
+  "repub_state": "19",
+  "scandate": "20250721131453",
+  "scanner": "station31.cebu.archive.org",
+  "scanningcenter": "cebu",
+  "scribe3_search_catalog": "bwb",
+  "scribe3_search_id": "S0-AOK-448",
+  "title": "TREASURE ISLAND",
+  "tts_version": "6.12-initial-130-g273c8f53",
+  "uploader": "station31.cebu@archive.org",
+  "publicdate": "2025-07-21 11:53:45",
+  "identifier-access": "http://archive.org/details/bwb_S0-AOK-448",
+  "identifier-ark": "ark:/13960/s284jgd4nbg",
+  "imagecount": "334",
+  "autocrop_version": "0.0.18_books-serials-20230720-0.3",
+  "ppi": "360",
+  "republisher_operator": "associate-cristymae-caldino@archive.org",
+  "republisher_date": "20250725171325",
+  "republisher_time": "323",
+  "foldoutcount": "0",
+  "image_count": "332",
+  "bookplateleaf": "0007",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9392",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25",
+  "external-identifier": [
+   "urn:lcp:bwb_S0-AOK-448:epub:7d6b7978-5f0b-44c8-899e-c2e5a4618175",
+   "urn:lcp:bwb_S0-AOK-448:lcpdf:e846dea4-2b59-4ee4-89f8-9291acacb624"
+  ],
+  "addeddate": "2025-07-26 00:23:56"
+ },
+ "files": [
+  {
+   "name": "bwb_S0-AOK-448.pdf",
+   "format": "Text PDF",
+   "size": "11125057"
+  },
+  {
+   "name": "bwb_S0-AOK-448_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "433915"
+  },
+  {
+   "name": "bwb_S0-AOK-448_djvu.xml",
+   "format": "Djvu XML",
+   "size": "6141567"
+  },
+  {
+   "name": "bwb_S0-AOK-448_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "103378871"
+  },
+  {
+   "name": "bwb_S0-AOK-448_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "55978"
+  },
+  {
+   "name": "bwb_S0-AOK-448_scandata.xml",
+   "format": "Scandata",
+   "size": "398857"
+  }
+ ]
+}

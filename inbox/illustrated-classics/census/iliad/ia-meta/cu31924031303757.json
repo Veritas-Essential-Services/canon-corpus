@@ -1,0 +1,72 @@
+{
+ "metadata": {
+  "mediatype": "texts",
+  "collection": [
+   "cornell",
+   "americana"
+  ],
+  "title": "The Iliad of Homer, books I, VI, IX, rendered into English blank verse",
+  "identifier": "cu31924031303757",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-31 20:20:00",
+  "identifier-access": "http://www.archive.org/details/cu31924031303757",
+  "identifier-ark": "ark:/13960/t2d79wg8s",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+   "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+   "88 p. 19 cm"
+  ],
+  "camera": "EOS-1D",
+  "lcamid": "343058",
+  "rcamid": "328422",
+  "operator": "SBloss",
+  "scanner": "Kirtas APT 2400",
+  "ppi": "300",
+  "publisher": "Darlington, T.C.H. Bowser",
+  "date": "1895",
+  "language": "eng",
+  "imagecount": "104",
+  "bookplateleaf": "0003",
+  "ocr": "ABBYY FineReader 8.0",
+  "scandate": "20080606123027",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-11-04 13:21:21",
+  "filesxml": "Wed Mar 17 12:44:36 UTC 2010",
+  "backup_location": "ia903604_9",
+  "openlibrary_edition": "OL24185350M",
+  "openlibrary_work": "OL16249584W",
+  "usl_hit": "auto",
+  "creator": "Homer",
+  "oclc-id": "57443327",
+  "associated-names": "Cudworth, William John, tr"
+ },
+ "files": [
+  {
+   "name": "cu31924031303757.pdf",
+   "format": "Text PDF",
+   "size": "1715704"
+  },
+  {
+   "name": "cu31924031303757_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "99780"
+  },
+  {
+   "name": "cu31924031303757_djvu.xml",
+   "format": "Djvu XML",
+   "size": "989325"
+  },
+  {
+   "name": "cu31924031303757_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "24207254"
+  },
+  {
+   "name": "cu31924031303757_scandata.xml",
+   "format": "Scandata",
+   "size": "37023"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "metadata": {
+  "title": "The Iliad of Homer, books IX and X [microform]",
+  "creator": [
+   "Homer",
+   "Lawson, J. C. (John Cuthbert), b. 1874"
+  ],
+  "description": [
+   "Microfilm",
+   "Filmed;",
+   "Master negative: 91-80383-3",
+   "No. 3 on a reel of 7 titles"
+  ],
+  "publisher": "Cambridge, University press",
+  "date": "1902",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "Columbia University Libraries",
+  "contributor": "Columbia University Libraries",
+  "scanningcenter": "sanfrancisco",
+  "mediatype": "texts",
+  "collection": [
+   "ColumbiaUniversityLibraries",
+   "microfilm",
+   "americana"
+  ],
+  "shiptracking": "b0852",
+  "call_number": "1236573",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "-127",
+  "updatedate": "2012-09-10 21:52:34",
+  "updater": "associate-malia-young",
+  "identifier": "iliadofhomerbook01hom",
+  "uploader": "associate-malia-young@archive.org",
+  "addeddate": "2012-09-10 21:52:36",
+  "publicdate": "2013-03-15 00:00:00",
+  "identifier-access": "http://archive.org/details/iliadofhomerbook01hom",
+  "identifier-ark": "ark:/13960/t7sn1dx2t",
+  "imagecount": "80",
+  "transcludes": "nncmn91803831",
+  "scandate": "20130315000000",
+  "operator": "partner",
+  "backup_location": "ia905608_6",
+  "external-identifier": "urn:oclc:record:1046588968",
+  "usl_hit": "auto",
+  "oclc-id": "29284469",
+  "associated-names": "Lawson, J. C. (John Cuthbert), b. 1874",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.8185",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+ },
+ "files": [
+  {
+   "name": "iliadofhomerbook01hom.pdf",
+   "format": "Text PDF",
+   "size": "27822897"
+  },
+  {
+   "name": "iliadofhomerbook01hom_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "29742"
+  },
+  {
+   "name": "iliadofhomerbook01hom_djvu.xml",
+   "format": "Djvu XML",
+   "size": "401059"
+  },
+  {
+   "name": "iliadofhomerbook01hom_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "64144960"
+  },
+  {
+   "name": "iliadofhomerbook01hom_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "11292"
+  },
+  {
+   "name": "iliadofhomerbook01hom_scandata.xml",
+   "format": "Scandata",
+   "size": "25805"
+  }
+ ]
+}

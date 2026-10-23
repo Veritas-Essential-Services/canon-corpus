@@ -1,0 +1,78 @@
+{
+ "metadata": {
+  "google-id": "jRlyAAAAIAAJ",
+  "identifier": "homersiliad00popegoog",
+  "scanner": "google",
+  "title": "Homer's Iliad",
+  "source": "http://books.google.com/books?id=jRlyAAAAIAAJ&oe=UTF-8",
+  "creator": [
+   "Homer",
+   "Pope, Alexander, 1688-1744"
+  ],
+  "publisher": "New York, World Pub. House",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/homersiliad00popegoog",
+  "contributor": "University of California",
+  "oclc-id": "254648932",
+  "scandate": "20080223",
+  "copyright-region": "US",
+  "description": [
+   "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+   "Mode of access: Internet"
+  ],
+  "uploader": "tpb",
+  "date": "1877",
+  "language": "eng",
+  "sponsor": "Google",
+  "identifier-ark": "ark:/13960/t4qj81f3n",
+  "imagecount": "559",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "publicdate": "2009-12-18 09:32:19",
+  "backup_location": "ia903604_20",
+  "addeddate": "2009-12-18 09:32:19",
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "93",
+  "page_number_module_version": "1.0.5",
+  "external-identifier": "urn:lcp:homersiliad00popegoog:epub:16066eb7-61b9-44f9-b1b8-267c4b10fa1a",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+ },
+ "files": [
+  {
+   "name": "homersiliad00popegoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "1163283"
+  },
+  {
+   "name": "homersiliad00popegoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "14155641"
+  },
+  {
+   "name": "homersiliad00popegoog_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "553454709"
+  },
+  {
+   "name": "homersiliad00popegoog_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "95651"
+  },
+  {
+   "name": "homersiliad00popegoog_scandata.xml",
+   "format": "Scandata",
+   "size": "185882"
+  },
+  {
+   "name": "homersiliad00popegoog_text.pdf",
+   "format": "Additional Text PDF",
+   "size": "29351491"
+  }
+ ]
+}

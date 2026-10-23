@@ -1,0 +1,100 @@
+{
+ "metadata": {
+  "title": "Fragments of the Iliad, from a Syriac palimpsest;",
+  "creator": [
+   "Homer",
+   "Cureton, William, 1808-1864",
+   "British Museum. Dept. of Manuscripts"
+  ],
+  "description": "26",
+  "publisher": "[London] British Museum",
+  "date": "1851",
+  "language": [
+   "grc",
+   "grc"
+  ],
+  "page-progression": "lr",
+  "sponsor": "University of Toronto",
+  "contributor": "Robarts - University of Toronto",
+  "scanningcenter": "uoft",
+  "mediatype": "texts",
+  "collection": [
+   "robarts",
+   "toronto",
+   "university_of_toronto"
+  ],
+  "call_number": "AER-0746",
+  "repub_state": "4",
+  "updatedate": "2011-06-27 23:46:51",
+  "updater": "AlexAitken",
+  "identifier": "fragmentsofiliad00home",
+  "uploader": "alexaitken@archive.org",
+  "addeddate": "2011-06-27 23:46:53",
+  "publicdate": "2011-06-27 23:46:58",
+  "scanner": "scribe21.toronto.archive.org",
+  "notes": "no TOC",
+  "repub_seconds": "354",
+  "ppi": "300",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "scanner-jeremy-modell@archive.org",
+  "scandate": "20110704165622",
+  "imagecount": "168",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/fragmentsofiliad00home",
+  "identifier-ark": "ark:/13960/t56d6rh46",
+  "bookplateleaf": "0003",
+  "scanfee": "105",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110725193312[/date][state]approved[/state]",
+  "sponsordate": "20110731",
+  "backup_location": "ia903701_2",
+  "openlibrary_edition": "OL24759514M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1045611488",
+  "usl_hit": "auto",
+  "filesxml": "Thu Dec 24 8:51:24 UTC 2020",
+  "oclc-id": "29107911",
+  "associated-names": "Cureton, William, 1808-1864; British Museum. Dept. of Manuscripts",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l grc",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6567",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "88",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "fragmentsofiliad00home.pdf",
+   "format": "Text PDF",
+   "size": "12259293"
+  },
+  {
+   "name": "fragmentsofiliad00home_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "403809"
+  },
+  {
+   "name": "fragmentsofiliad00home_djvu.xml",
+   "format": "Djvu XML",
+   "size": "2495362"
+  },
+  {
+   "name": "fragmentsofiliad00home_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "74780442"
+  },
+  {
+   "name": "fragmentsofiliad00home_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "28222"
+  },
+  {
+   "name": "fragmentsofiliad00home_scandata.xml",
+   "format": "Scandata",
+   "size": "167137"
+  }
+ ]
+}

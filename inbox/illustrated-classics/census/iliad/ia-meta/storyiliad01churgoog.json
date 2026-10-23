@@ -1,0 +1,48 @@
+{
+ "metadata": {
+  "publisher": "Macmillan",
+  "identifier": "storyiliad01churgoog",
+  "scanner": "google",
+  "title": "The Story of the Iliad",
+  "creator": "Homer,  Alfred John Church",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/storyiliad01churgoog",
+  "year": "1891",
+  "date": "1891",
+  "oclc-id": "20387367",
+  "scandate": "20060614",
+  "copyright-region": "US",
+  "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+  "identifier-ark": "ark:/13960/t6rx98333",
+  "imagecount": "375",
+  "publicdate": "2008-02-17 07:02:39",
+  "source": "http://books.google.com/books?id=9pZZJ_WZWuMC&oe=UTF-8",
+  "contributor": "Harvard University",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "English",
+  "repub_state": "4",
+  "backup_location": "ia903601_23",
+  "addeddate": "2008-02-17 07:02:39",
+  "usl_hit": "auto"
+ },
+ "files": [
+  {
+   "name": "storyiliad01churgoog_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "357105"
+  },
+  {
+   "name": "storyiliad01churgoog_djvu.xml",
+   "format": "Djvu XML",
+   "size": "3443343"
+  },
+  {
+   "name": "storyiliad01churgoog_scandata.xml",
+   "format": "Scandata",
+   "size": "112556"
+  }
+ ]
+}

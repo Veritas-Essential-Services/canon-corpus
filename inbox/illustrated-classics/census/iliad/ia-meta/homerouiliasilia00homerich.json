@@ -1,0 +1,102 @@
+{
+ "metadata": {
+  "title": "Homerou Ilias : the Iliad of Homer, chiefly from the text of Heyne",
+  "creator": [
+   "Homer",
+   "Trollope, William",
+   "Heyne, Christian Gottlob, 1729-1812"
+  ],
+  "publisher": "London, Printed for J.G. & F. Rivington; Longman & Co. [etc.]",
+  "date": "1836",
+  "language": [
+   "eng",
+   "grc"
+  ],
+  "copyright-evidence-operator": "ian white",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "copyright-region": "US",
+  "copyright-evidence": "Evidence reported by ian white for item homerouiliasilia00homerich on June 22, 2007: no visible notice of copyright; stated date is 1836.",
+  "copyright-evidence-date": "20070622053205",
+  "sponsor": "MSN",
+  "contributor": "University of California Libraries",
+  "scanningcenter": "rich",
+  "mediatype": "texts",
+  "call_number": "nrlf_ucb:GLAD-268104",
+  "collection-library": "nrlf_ucb",
+  "identifier-bib": "GLAD-268104",
+  "updatedate": "2007-06-22 05:32:09",
+  "updater": "ian white",
+  "identifier": "homerouiliasilia00homerich",
+  "uploader": "ian@archive.org",
+  "addeddate": "2007-06-22 05:32:12",
+  "publicdate": "2007-06-22 05:32:16",
+  "imagecount": "728",
+  "ppi": "500",
+  "lcamid": "332906",
+  "rcamid": "319556",
+  "camera": "1Ds",
+  "operator": "scanner-aidan-oflynn@archive.org",
+  "scanner": "rich5",
+  "scandate": "20070622154314",
+  "identifier-access": "http://www.archive.org/details/homerouiliasilia00homerich",
+  "identifier-ark": "ark:/13960/t2v40n137",
+  "bookplateleaf": "0005",
+  "curation": "[curator]marcus@archive.org[/curator][date]20070706070741[/date][state]approved[/state]",
+  "sponsordate": "20070630",
+  "filesxml": [
+   "Thu Mar 18 1:50:28 UTC 2010",
+   "Thu Dec 24 16:17:46 UTC 2020"
+  ],
+  "collection": [
+   "cdl",
+   "americana"
+  ],
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "backup_location": "ia903601_2",
+  "openlibrary_edition": "OL14013574M",
+  "openlibrary_work": "OL61981W",
+  "external-identifier": "urn:oclc:record:1046596511",
+  "usl_hit": "auto",
+  "page_number_confidence": "100",
+  "oclc-id": "16118308",
+  "description": "xxxix, 672 p. 22 cm",
+  "associated-names": "Trollope, William; Heyne, Christian Gottlob, 1729-1812",
+  "ocr": "tesseract 5.0.0-1-g862e",
+  "ocr_parameters": "-l grc+eng",
+  "ocr_module_version": "0.0.15",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8011",
+  "ocr_detected_lang": "el",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18",
+  "page_number_module_version": "1.0.5"
+ },
+ "files": [
+  {
+   "name": "homerouiliasilia00homerich.pdf",
+   "format": "Text PDF",
+   "size": "73235099"
+  },
+  {
+   "name": "homerouiliasilia00homerich_djvu.txt",
+   "format": "DjVuTXT",
+   "size": "3174696"
+  },
+  {
+   "name": "homerouiliasilia00homerich_djvu.xml",
+   "format": "Djvu XML",
+   "size": "33181433"
+  },
+  {
+   "name": "homerouiliasilia00homerich_jp2.zip",
+   "format": "Single Page Processed JP2 ZIP",
+   "size": "447941840"
+  },
+  {
+   "name": "homerouiliasilia00homerich_page_numbers.json",
+   "format": "Page Numbers JSON",
+   "size": "122605"
+  }
+ ]
+}
