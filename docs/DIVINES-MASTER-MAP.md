@@ -10896,6 +10896,34 @@ Slugs `hejacobs-*`. Built from title pages read for round 47.
 | Martin Luther : the hero of the reformation 1483-1546 / by Henry Eyster Jacobs (Putnam, 1898) | have-ocr | IA `martinlutherhero00jaco_0` |
 | Annotations on the Epistles of Paul to the Romans and I. Corinthians : chaps. I-VI, vol. 7 (New York : Christian Literature Co., 1896) | have-ocr | IA `annotationsonepi07jaco` |
 | Translations and editions: Schmid's Doctrinal Theology (with Hay), the Book of Concord, the Works of Martin Luther, the Lutheran Cyclopedia | excluded | |
+
+## Carl Friedrich Keil (round 48, my pick, 2026-10-23)
+
+Slugs `keil-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pentateuch, vol. 1 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `thepentateuch01keiluoft` |
+| The Pentateuch, vol. 2 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `pentateuch02keiluoft` |
+| The Pentateuch, vol. 3 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `pentateuch03keiluoft` |
+| Joshua, Judges, Ruth (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `joshuajudgesruth1872keil` |
+| Biblical commentary on the books of Samuel (Edinburgh : T. & T. Clark, 1868); translated by James Martin (OCR reads 'MAETIN', so not claimed) | have-ocr | IA `biblicalcommenta68keil` |
+| The Books of the Kings (Edinburgh, T. [and] T. Clark, 1872) | have-ocr | IA `booksofkings00keil` |
+| The Books of the Chronicles (Edinburgh T. & T. Clark, 1872); translated by Andrew Harper (the scan's OCR does not show his name, so it is not claimed) | have-ocr | IA `booksofchronicle00keil` |
+| The Books of Ezra, Nehemiah, and Esther (Edinburgh : T.&T. Clark, 1873) | have-ocr | IA `booksofezranehem00keil` |
+| The prophecies of Jeremiah [and Lamentations], vol. 1 (Edinburgh : T. & T. Clark, 1874) | have-ocr | IA `propheciesofjere01keil` |
+| The prophecies of Jeremiah [and Lamentations], vol. 2 (Edinburgh : T. & T. Clark, 1874) | have-ocr | IA `propheciesofjere02keil` |
+| Biblical commentary on the prophecies of Ezekiel, vol. 1 (Edinburgh, T. [and] T. Clark, 1876) | have-ocr | IA `biblicalcommenta01keiluoft` |
+| Biblical commentary on the prophecies of Ezekiel, vol. 2 (Edinburgh : T. & T. Clark, 1876) | have-ocr | IA `biblicalcommenta02keiluoft` |
+| The Book of the prophet Daniel (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `bookofprophetdan00keil` |
+| The twelve Minor Prophets, vol. 1 (Edinburgh : T. [and] T. Clark, 1878) | have-ocr | IA `thetwelveminorp01keiluoft` |
+| The twelve Minor Prophets, vol. 2 (Edinburgh : T. [and] T. Clark, 1878) | have-ocr | IA `thetwelveminorpr02keiluoft` |
+| Manual of historico-critical introduction to the canonical scriptures of the old testament, vol. 1 (edinburgh, 1869) | have-ocr | IA `manualofhistoric0001karl` |
+| Manual of Historic-Critical Introduction to the Canonical Scriptures of The Old Testament, vol. 2 (Edinburgh: T & T. Clark, 33, George Street, 1870) | have-ocr | IA `manualofhistoric0002karl` |
+| Manual of Biblical archaeology, vol. 1 (Edinburgh : T. & T. Clark, 1887) | have-ocr | IA `manualofbiblical01keil` |
+| Manual of Biblical archaeology, vol. 2 (Edinburgh : T. & T. Clark, 1887) | have-ocr | IA `manualofbiblical02keil` |
+| The 1864-1865 first printings of the Pentateuch (pentateuch01keil, pentateuch03keil) and the Google copies of Kings, Ezra and Joshua; the 1866 Samuel | alternate | not shelved |
+| German editions (Biblischer Commentar, Einleitung, Handbuch der biblischen Archäologie); 1949-1990 reprints of the English set; the Books of the Maccabees commentary (never Englished) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
