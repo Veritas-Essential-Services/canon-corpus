@@ -8763,3 +8763,19 @@ Shelf: `pipeline/a-h-sayce_shelf.json`. Assyriology, Near-Eastern religion and p
 
 Excluded: Records of the Past, new series (ed. Sayce, 1888-92) (many translators; a compilation, left for a separate ruling); Maspero, History of Egypt, Chaldaea... (ed. Sayce) (Maspero is the author; belongs on a Maspero shelf); Mahaffy, History of Classical Greek Literature (appendix by Sayce) (Mahaffy's book)
 
+
+## M. Rostovtzeff (1870-1952)
+
+Shelf: `pipeline/m-rostovtzeff_shelf.json`. Ancient economic and social history, English books to 1928; History of the Ancient World tr. J. D. Duff. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Large Estate in Egypt in the Third Century B.C.: a Study in Economic History (Madison, 1922) |  | `rostovtzeff-large-estate-egypt-1922` | have-raw (IA `largeestateinegy00rost`) |
+| Iranians and Greeks in South Russia (Oxford, 1922) |  | `rostovtzeff-iranians-greeks-1922` | have-raw (IA `cu31924028575060`) |
+| The Social and Economic History of the Roman Empire (Oxford, 1926) |  | `rostovtzeff-social-economic-roman-empire-1926` | have-raw (IA `in.ernet.dli.2015.283766`) |
+| A History of the Ancient World, vol. I: The Orient and Greece (1926), tr. J. D. Duff |  | `rostovtzeff-ancient-world-v1-1926` | have-raw (IA `historyofancient0000mros`) |
+| A History of the Ancient World, vol. II: Rome (1928 corrected impression; this copy a 1933 reprint), tr. J. D. Duff |  | `rostovtzeff-ancient-world-v2-1928` | have-raw (IA `in.gov.ignca.34565`) |
+| Mystic Italy (New York, 1927) |  | `rostovtzeff-mystic-italy-1927` | have-raw (IA `mysticitaly00rost`) |
+
+Excluded: Out of the Past of Greece and Rome (1932) (after 1930); AHistoryOfTheAncientWorldVolIi (IA) (the fetch failed (no usable text file); replaced by in.gov.ignca.34565)
+
