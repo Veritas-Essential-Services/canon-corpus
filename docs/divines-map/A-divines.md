@@ -11880,3 +11880,23 @@ Slugs `bomberger-*`. Built from title pages read for round 56.
 | Five Years' Ministry in the German Reformed Church, in Race Street, Below Fourth, Philadelphia (Lindsay & Blakiston, 1860) | have-ocr | IA `fiveyearsminist00bombgoog` |
 | Reformed, not ritualistic : Apostolic, not patristic : a reply to Dr. Nevin's Vindication, etc (Philadelphia : [s.n.], 1867) | have-ocr | IA `reformednotritua00bomb` |
 | His condensed translation of Herzog's Protestant Theological Encyclopedia (1858-60, a translation of a multi-author work); Kurtz's Text-book of Church History (another author); Three Thousand Practical Illustrations (1909 compilation) | excluded | |
+
+## Henry Harbaugh (round 56, my pick, 2026-10-23)
+
+Slugs `harbaugh-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| The drunkard-maker taken from his bar to the bar of God, tried, found guilty, and condemned for murder (Office of the German Reformed Messenger, 1849) | have-ocr | IA `drunkardmakertak00harb` |
+| Heaven; or, An earnest and scriptural inquiry into the abode of the sainted dead (Philadelphia, Lindsay and Blakiston, 1853) | have-ocr | IA `heavenorearnests00harb` |
+| The heavenly recognition ; or, An earnest and scriptural discussion of the question, Will we know our friends in heaven? (Philadelphia : Lindsay and Blakiston, 1853) | have-ocr | IA `heavenlyrecognit00harb_2` |
+| Heavenly home; or, The employments & enjoyments of the saints in heaven (Philadelphia, Lindsay, 1853) | have-ocr | IA `heavenlyhomeorem00harb` |
+| Union with the church, the solemn duty, and the blessed privilege of all who would be saved (Philadelphia, Lindsay & Blakiston, 1856) | have-ocr | IA `unionwithchurchs00harb` |
+| The life of Rev. Michael Schlatter; with a full account of his travels and labors among the Germans in Pennsylvania, New Jersey, Maryland and Virginia; including his services as chaplain in the French and Indian War, and in the war of the revolution. 1716 to 1790 (Philadelphia, Lindsay and Blakiston, 1857) | have-ocr | IA `lifeofrevmichael00harb` |
+| The fathers of the German Reformed Church in Europe and America, vol. 1 (Lancaster : Sprenger & Westhaeffer, 1857) | have-ocr | IA `fathersofgermanr01harb` |
+| The fathers of the German Reformed Church in Europe and America, vol. 2 (Lancaster : Sprenger & Westhaeffer, 1857) | have-ocr | IA `fathersofgermanr02harb` |
+| The golden censer ([n. p.], 1860) | have-ocr | IA `goldencenser00harb` |
+| Poems (Philadelphia, Lindsay & Blakiston, 1860) | have-ocr | IA `poems00harb` |
+| Treason and law : a discourse, delivered at Clearspring, Maryland, June 1, 1865, the day of national mourning (Philadelphia : Jas. B. Rodgers, 1865) | have-ocr | IA `treasonlawdiscou00harb` |
+| Harbaugh's Harfe (1870), poems in Pennsylvania German dialect: pending Adam's ruling on non-English works | pending | not shelved |
+| Fathers of the German Reformed Church vols 3-6 (continued by D. Y. Heisler after his death); the Heidelberg Catechism edition and Sunday-school hymn books he edited | excluded | |
