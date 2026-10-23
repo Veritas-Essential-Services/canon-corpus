@@ -1,5 +1,5 @@
 {
- "_about": "Arrian in English: E. J. Chinnock's Anabasis of Alexander (1884), clean Gutenberg; William Dansey's Arrian on Coursing (1831); J. W. McCrindle's Invasion of India by Alexander the Great (Constable, 1893; IA's catalogue gives 1896, the second edition's year, but the scanned title page reads MDCCCXCIII and the book's own advertisements name nothing later than 1892), his translations of the Indian campaign from Arrian, Curtius, Diodoros, Plutarch and Justin (Cornell copy; the title page prints the name M'Crindle).",
+ "_about": "Arrian in English: E. J. Chinnock's Anabasis of Alexander (1884), clean Gutenberg; William Dansey's Arrian on Coursing (1831); J. W. McCrindle's Invasion of India by Alexander the Great (Constable, 1893; IA's catalogue gives 1896, the second edition's year, but the scanned title page reads MDCCCXCIII and the book's own advertisements name nothing later than 1892), his translations of the Indian campaign from Arrian, Curtius, Diodoros, Plutarch and Justin (Cornell copy; the title page prints the name M'Crindle). McCrindle's Invasion of India (PG 66388) added (lane B, round dk: clean Gutenberg witness).",
  "_name_words": [
   "arrian",
   "anabasis"
@@ -20,6 +20,10 @@
    55054,
    "The Commerce and Navigation of the Erythraean Sea, with Arrian's Account of the Voyage of Nearkhos (Indica, chs. 18-43; 1879)",
    "tr. J. W. McCrindle"
+  ],
+  "arrian-mccrindle-invasion-pg": [
+   66388,
+   "The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893), clean Gutenberg text"
   ]
  },
  "internet_archive": {
@@ -52,12 +56,13 @@
   "arrian-mccrindle-nearkhos": "John Watson McCrindle",
   "arrian-mccrindle-ancient-india": "J. W. McCrindle",
   "arrian-rooke-1729-v1": "John Rooke",
-  "arrian-mccrindle-invasion": "M'Crindle"
+  "arrian-mccrindle-invasion": "M'Crindle",
+  "arrian-mccrindle-invasion-pg": "M'Crindle"
  },
  "_checks": {
   "arrian-chinnock-anabasis": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "E. J. Chinnock",
@@ -69,7 +74,7 @@
   },
   "arrian-dansey-coursing": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "William Dansey",
@@ -81,7 +86,7 @@
   },
   "arrian-mccrindle-nearkhos": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "John Watson McCrindle",
@@ -91,9 +96,20 @@
    "pg_translator": "John Watson McCrindle",
    "translator_match": true
   },
+  "arrian-mccrindle-invasion-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "M'Crindle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "arrian-mccrindle-ancient-india": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "J. W. McCrindle",
@@ -106,7 +122,7 @@
   },
   "arrian-rooke-1729-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "John Rooke",
@@ -119,7 +135,7 @@
   },
   "arrian-mccrindle-invasion": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arrian",
    "translator_claimed": "M'Crindle",
