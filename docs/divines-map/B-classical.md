@@ -9525,3 +9525,12 @@ Shelf: `pipeline/angelo-mosso_shelf.json`. Prehistoric Crete and the Mediterrane
 | The Palaces of Crete and their Builders (1907) |  | `mosso-palaces-of-crete-1907` | have-raw (IA `palacesofcreteth00moss`) |
 | The Dawn of Mediterranean Civilisation (1910), tr. Marian C. Harrison |  | `mosso-dawn-mediterranean-civilisation-1910` | have-raw (IA `dawnofmediterran00mossuoft`) |
 
+
+## Louise Ropes Loomis (1874-1958)
+
+Shelf: `pipeline/louise-ropes-loomis_shelf.json`. Medieval Hellenism (1906). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Medieval Hellenism (1906) |  | `loomis-medieval-hellenism-1906` | have-raw (IA `medievalhellenis00loomrich`) |
+
