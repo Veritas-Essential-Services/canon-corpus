@@ -10253,6 +10253,19 @@ Slugs `junius-*`. Built from title pages read for round 39.
 | A Christian Letter, containing a grave and godly admonition to such as make separation from the Church assemblies in England, by Master Francis Iunius, Divinitie Reader at Leyden (for Robert Dexter; catalogued 1602) | have-ocr | IA `bim_early-english-books-1475-1640_a-christian-letter-cont_du-jon-franois-the-el_1602` |
 | Certayne Letters (1602), two by Junius and one by the exiled English church at Amsterdam, tr. R. G.: mixed authorship | alternate | not shelved |
 | His Latin works (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera); the 1599 Geneva-Tomson Bible; the younger Junius's Painting of the Ancients (a different man) | excluded | |
+
+## Beilby Porteus (round 42, my pick, 2026-10-22)
+
+Slugs `porteus-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Gospel of St. Matthew : delivered in the parish church of St. James, Westminster, in the years 1798, 1799, 1800, and 1801 (New Haven : Printed for I. Cooke, 1803) | have-ocr | IA `lecturesongospel00port` |
+| Sermons on several subjects (London : T. Cadell and W.Davies, 1810) | have-ocr | IA `sermonsonseveral00portuoft` |
+| A Summary of the Principal Evidences for the Truth & Divine Origin of the Christian Revelation (Printed for Isaiah Thomas, Jun., 1808) | have-ocr | IA `asummaryprincip00portgoog` |
+| The beneficial effects of Christianity : on the temporal concerns of mankind, proved from history and from facts (London : Printed by Luke Hansard ... for T. Cadell and W. Davies ... T. Payne ... and F.C. and J. Rivington ..., 1806) | have-ocr | IA `beneficialeffect0000port` |
+| Other printings of the Lectures (London 1802, two volumes) and of the Sermons (1783-1808, Hartford 1806) | alternate | not shelved |
+| The French translation Heureux effets (1808); the poetical anthologies that reprint his Death | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

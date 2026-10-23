@@ -5950,6 +5950,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:21:36-05:00",
       "notes": "Round 39 pickup: three English EEBO books; corrects the earlier note that none existed."
+    },
+    {
+      "id": "beilby-porteus",
+      "status": "done",
+      "scope": "round 42",
+      "added": "2026-10-22T23:32:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:32:36-05:00",
+      "notes": "4 items: Lectures on St Matthew (New Haven 1803), Sermons (London 1810), Summary of the Evidences (1808), Beneficial Effects of Christianity (1806)"
     }
   ]
 }
