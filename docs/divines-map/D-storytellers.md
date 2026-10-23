@@ -16964,3 +16964,20 @@ Shelf: `pipeline/harry-leon-wilson_shelf.json` (2026-10-22; added at the coordin
 | The Seeker | have | PG 15797, `hlwilson-seeker` (1628 units) |
 | Ewing's Lady | have | PG 32988, `hlwilson-ewings-lady` (1774 units) |
 | held-elsewhere | excluded | PG 13275, 15855: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Justin H. McCarthy
+
+Shelf: `pipeline/justin-h-mccarthy_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| If I Were King | have | PG 5351, `jhmccarthy-if-i-were-king` (1575 units) |
+| A History of the Four Georges and of William IV, Volume III | have | PG 23471, `jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol` (682 units) |
+| A History of the Four Georges and of William IV, Volume IV | have | PG 23472, `jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol-23472` (550 units) |
+| The God of Love | have | PG 24672, `jhmccarthy-god-of-love` (800 units) |
+| The Proud Prince | have | PG 25785, `jhmccarthy-proud-prince` (1407 units) |
+| Marjorie | have | PG 26057, `jhmccarthy-marjorie` (763 units) |
+| The Lady of Loyalty House: A Novel | have | PG 27929, `jhmccarthy-lady-of-loyalty-house` (1760 units) |
+| The Duke's Motto: A Melodrama | have | PG 28266, `jhmccarthy-dukes-motto` (1546 units) |
+| Hafiz in London | have | PG 51392, `jhmccarthy-hafiz-in-london` (185 units) |
+| The dryad | have | PG 76442, `jhmccarthy-dryad` (1209 units) |

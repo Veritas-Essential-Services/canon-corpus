@@ -1,0 +1,152 @@
+{
+ "_about": "Justin H. McCarthy: Historical romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Justin H. McCarthy",
+ "_name_words": [
+  "huntly",
+  "justin",
+  "mccarthy"
+ ],
+ "_surname": [
+  "justin huntly mccarthy",
+  "justin h. mccarthy",
+  "mccarthy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhmccarthy-if-i-were-king": [
+   5351,
+   "If I Were King"
+  ],
+  "jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol": [
+   23471,
+   "A History of the Four Georges and of William IV, Volume III"
+  ],
+  "jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol-23472": [
+   23472,
+   "A History of the Four Georges and of William IV, Volume IV"
+  ],
+  "jhmccarthy-god-of-love": [
+   24672,
+   "The God of Love"
+  ],
+  "jhmccarthy-proud-prince": [
+   25785,
+   "The Proud Prince"
+  ],
+  "jhmccarthy-marjorie": [
+   26057,
+   "Marjorie"
+  ],
+  "jhmccarthy-lady-of-loyalty-house": [
+   27929,
+   "The Lady of Loyalty House: A Novel"
+  ],
+  "jhmccarthy-dukes-motto": [
+   28266,
+   "The Duke's Motto: A Melodrama"
+  ],
+  "jhmccarthy-hafiz-in-london": [
+   51392,
+   "Hafiz in London"
+  ],
+  "jhmccarthy-dryad": [
+   76442,
+   "The dryad"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jhmccarthy-if-i-were-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-history-of-the-four-georges-and-of-william-iv-vol-23472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-god-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-proud-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-marjorie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-lady-of-loyalty-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-dukes-motto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-hafiz-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhmccarthy-dryad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justin huntly mccarthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
