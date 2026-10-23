@@ -12744,3 +12744,30 @@ Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then e
 | Work | Status | Where |
 |---|---|---|
 | Earlier fables work | pending | locate it: it may live in a sibling repo (armarium, wordhoard) or the vault, which this run cannot reach. Reconcile it with the Aesop shelf above before anything is minted |
+
+## William Carleton
+
+Shelf: `pipeline/william-carleton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish peasant tales and novels. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Willy Reilly The Works of William Carleton, Volume One | have | PG 16001, `wcarleton-willy-reilly-the-works-of-william-carleton-volume` (3089 units) |
+| Fardorougha, The Miser The Works of William Carleton, Volume One | have | PG 16002, `wcarleton-fardorougha-the-miser-the-works-of-william-carleto` (2256 units) |
+| The Black Baronet; or, The Chronicles Of Ballytrain The Works of William Carleton, Volume One | have | PG 16003, `wcarleton-black-baronet` (4890 units) |
+| The Evil Eye; Or, The Black Spector The Works of William Carleton, Volume One | have | PG 16004, `wcarleton-evil-eye` (2828 units) |
+| Jane Sinclair; Or, The Fawn Of Springvale The Works of William Carleton, Volume Two | have | PG 16005, `wcarleton-jane-sinclair` (971 units) |
+| Lha Dhu; Or, The Dark Day The Works of William Carleton, Volume Two | have | PG 16006, `wcarleton-lha-dhu` (121 units) |
+| The Dead Boxer The Works of William Carleton, Volume Two | have | PG 16007, `wcarleton-dead-boxer-the-works-of-william-carleton-volume-tw` (560 units) |
+| Ellen Duncan; And The Proctor's Daughter The Works of William Carleton, Volume Two | have | PG 16008, `wcarleton-ellen-duncan` (135 units) |
+| Valentine M'Clutchy, The Irish Agent The Works of William Carleton, Volume Two | have | PG 16009, `wcarleton-valentine-mclutchy-the-irish-agent-the-works-of-wi` (3521 units) |
+| The Tithe-Proctor The Works of William Carleton, Volume Two | have | PG 16010, `wcarleton-tithe-proctor-the-works-of-william-carleton-volume` (2007 units) |
+| The Emigrants Of Ahadarra The Works of William Carleton, Volume Two | have | PG 16011, `wcarleton-emigrants-of-ahadarra-the-works-of-william-carleto` (2642 units) |
+| The Ned M'Keown Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16012, `wcarleton-ned-mkeown-stories-traits-and-stories-of-the-irish` (1218 units) |
+| The Station; The Party Fight And Funeral; The Lough Derg Pilgrim Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16013, `wcarleton-station` (894 units) |
+| The Hedge School; The Midnight Mass; The Donagh Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16014, `wcarleton-hedge-school` (1276 units) |
+| Phil Purcel, The Pig-Driver; The Geography Of An Irish Oath; The Lianhan Shee Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16015, `wcarleton-phil-purcel-the-pig-driver` (1068 units) |
+| Going to Maynooth Traits and Stories of the Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16016, `wcarleton-going-to-maynooth-traits-and-stories-of-the-irish` (855 units) |
+| The Poor Scholar Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16017, `wcarleton-poor-scholar-traits-and-stories-of-the-irish-peasa` (873 units) |
+| The Black Prophet: A Tale Of Irish Famine Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16018, `wcarleton-black-prophet` (2617 units) |
+| Phelim Otoole's Courtship and Other Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16019, `wcarleton-phelim-otooles-courtship-and-other-stories-traits` (2274 units) |
+| pg-28896 | excluded | PG 28896: Gutenberg's index of the author's works, not a book. |
