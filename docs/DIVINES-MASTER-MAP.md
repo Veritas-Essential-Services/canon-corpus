@@ -10712,6 +10712,23 @@ Slugs `blackall-*`. Built from title pages read for round 45.
 | The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 2 (London, catalogued 1723) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_2` |
 | Fourteen Sermons (1706), Five Sermons (1717), the 1727 Lord's Prayer: in the Works | alternate | not shelved |
 | Theophilus Blackall's Works of Christ (1730, another man); the Welsh Pwyll y Pader (1733) | excluded | |
+
+## Samuel Chandler (round 46, my pick, 2026-10-22)
+
+Slugs `chandler-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| A vindication of the Christian religion (London, Chandler, 1725) | have-ocr | IA `avindicationofch00chanuoft` |
+| The history of persecution : in four parts. Viz. I. Amongst the heathens. II. Under the Christian emperors. III. Under the papacy and Inquisition. IV. Amongst Protestants (London: : Printed for J. Gray..., 1736) | have-ocr | IA `historyofpersecu1736chan` |
+| A vindication of the history of the Old Testament : in answer to the misrepresentations and calumnies of Thomas Morgan, M.D. and moral philosopher (London : Printed for J. Noon, at the White-Hart, 1741) | have-ocr | IA `vindicationofhis00chan` |
+| Sermons on the following subjects, vol. 1 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi01chan` |
+| Sermons on the following subjects, vol. 2 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi02chan` |
+| Sermons on the following subjects, vol. 3 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi03chan` |
+| Sermons on the following subjects, vol. 4 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi04chan` |
+| A critical history of the life of David (Oxford, The University press, 1853) | have-ocr | IA `acriticalhistor00changoog` |
+| The 1769 Sermons; the 1813 History of Persecution | alternate | not shelved |
+| Sermons against Popery (1735), a collection by several Salters' Hall ministers | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
