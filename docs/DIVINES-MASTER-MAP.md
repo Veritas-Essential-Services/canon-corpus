@@ -20347,6 +20347,15 @@ Shelf: `pipeline/helen-cox-bowerman_shelf.json`. Roman Sacrificial Altars (1913)
 |---|---|---|---|
 | Roman Sacrificial Altars (1913) |  | `bowerman-roman-sacrificial-altars-1913` | have-raw (IA `romansacrificial01bowe`) |
 
+
+## Herbert Cushing Tolman (1865-1923)
+
+Shelf: `pipeline/herbert-cushing-tolman_shelf.json`. Mycenaean Troy (New York: American Book Company, 1903) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Mycenaean Troy (New York: American Book Company, 1903) |  | `tolman-mycenaean-troy-1903` | have-raw (IA `cu31924028248650`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
