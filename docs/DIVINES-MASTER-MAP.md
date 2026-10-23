@@ -41620,3 +41620,18 @@ Shelf: `pipeline/allen-upward_shelf.json` (2026-10-22; added at the coordinator'
 | The Slaves of Society: A Comedy in Covers | have | PG 67606, `aupward-slaves-of-society` (1508 units) |
 | The club of masks | have | PG 69845, `aupward-club-of-masks` (1734 units) |
 | A crown of straw | have | PG 73325, `aupward-crown-of-straw` (2273 units) |
+
+## Catharine Parr Traill
+
+Shelf: `pipeline/catharine-parr-traill_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Backwoods of Canada books and stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lady Mary and Her Nurse; Or, A Peep into the Canadian Forest | have | PG 6479, `cptraill-lady-mary-and-her-nurse` (653 units) |
+| Lost in the Backwoods: A Tale of the Canadian Forest | have | PG 6813, `cptraill-lost-in-the-backwoods` (795 units) |
+| Canadian Crusoes: A Tale of the Rice Lake Plains | have | PG 8382, `cptraill-canadian-crusoes` (833 units) |
+| In the Forest; Or, Pictures of Life and Scenery in the Woods of Canada: A Tale | have | PG 8607, `cptraill-in-the-forest` (707 units) |
+| The Backwoods of Canada Being Letters from the Wife of an Emigrant Officer, Illustrative of the Domestic Economy of British America | have | PG 13559, `cptraill-backwoods-of-canada-being-letters-from-the-wife-of` (1102 units) |
+| Little Downy: The History of a Field-Mouse | have | PG 27239, `cptraill-little-downy` (108 units) |
+| The Tell-Tale: An Original Collection of Moral and Amusing Stories | have | PG 54480, `cptraill-tell-tale` (540 units) |
+| North American Wild Flowers | have | PG 56288, `cptraill-north-american-wild-flowers` (394 units) |

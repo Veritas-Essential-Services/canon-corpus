@@ -2186,3 +2186,6 @@
 
 ## 2026-10-22 22:49 CDT — allen-upward: done
 - allen-upward: new shelf, 8 Gutenberg books, 14,748 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — catharine-parr-traill: done
+- catharine-parr-traill: new shelf, 8 Gutenberg books, 5,132 units, 161 ~2 ids; verify 0 mismatches, 0 rights flags.
