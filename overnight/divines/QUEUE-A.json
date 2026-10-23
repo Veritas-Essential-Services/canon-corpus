@@ -9019,6 +9019,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T06:33:59-05:00",
       "notes": "Episcopal Bishop of New York; sermons and addresses 1873-1902. Tunis's Faith by which we Stand dropped (Potter wrote only its introduction)."
+    },
+    {
+      "id": "john-codman",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:33:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:33:59-05:00",
+      "notes": "Dorchester Congregationalist. Bare form 'codman' dropped (claimed by singles-nonfiction-2)."
     }
   ]
 }

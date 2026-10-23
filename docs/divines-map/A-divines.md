@@ -15880,3 +15880,19 @@ Slugs `hcpotter-*`. Built from title pages read for round 97.
 | Principles of Religious Education (lectures by several hands, with his introduction) | excluded | |
 | The Bible for Children (a compilation with his introduction) | excluded | |
 | faithbywhichwest00tuni: The Faith by which we Stand is John Tunis's sermons; Potter wrote only the introduction | excluded | |
+
+## John Codman (round 97, my pick, 2026-10-23)
+
+Slugs `codman-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Hymns for family worship : with prayers for every day in the week (Boston : Samuel T. Johnson, 1813) | have-ocr | IA `hymnsforfami00codm` |
+| The importance of spiritual knowledge : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, in the First Church, Boston, November 3, 1825 / by John Codman ; with the report of the Select Committee (From the University Press--Hilliard and Metcalf, 1825) | have-ocr | IA `importanceofspir00codm` |
+| The faith of the Pilgrims; a sermon delivered at Plymouth on the twenty-second of December, 1831 (Boston, Perkins & Marvin, 1832) | have-ocr | IA `faithofpilgrimss00codm` |
+| Sermons delivered on various occasions, : with addresses (Boston : Perkins, Marvin, & Co., 1834) | have-ocr | IA `sermonsdelivered00codm` |
+| The Hidden Life of a Christian: Exemplified in the Character and Writings of Mrs. Susannah H (Perkins, Marcin, & Co., 1835) | have-ocr | IA `hiddenlifeachri00codmgoog` |
+| Duty of American Christians to send the Gospel to the heathen : a sermon preached at Hartford, Sept. 14, 1836, before the American Board of Commissioners for Foreign Missions, at their twenty-seventy annual meeting (Printed by Crocker and Brewster, 1836) | have-ocr | IA `dutyofamericanch00codm` |
+| A narrative of a visit to England (Boston, Perkins & Marvin: Philadelphia, H. Perkins, 1836) | have-ocr | IA `narrativeofvisit00codm` |
+| Review of the past : a sermon, delivered in Dorchester, December 7, 1845, being the thirty-seventh anniversary of the author's ordination (Boston : Press of T.R. Marvin, 1846) | have-ocr | IA `reviewofpastserm00codm` |
+| Books by later John Codmans (Sailors' Life, Ten Months in Brazil, The Mormon Country, free-ship pamphlets): a different man | excluded | |

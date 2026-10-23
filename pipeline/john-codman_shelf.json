@@ -1,0 +1,148 @@
+{
+ "_about": "Public-domain John Codman (1782-1847), orthodox Congregational minister of the Second Church, Dorchester, for the Word Hoard: Hymns for Family Worship, The Importance of Spiritual Knowledge, The Faith of the Pilgrims, Sermons delivered on Various Occasions, The Hidden Life of a Christian, Duty of American Christians to send the Gospel to the Heathen, A Narrative of a Visit to England, and Review of the Past. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john codman",
+  "j. codman"
+ ],
+ "_surname": [
+  "john codman",
+  "j. codman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "codman-family-hymns": [
+   "hymnsforfami00codm",
+   "Hymns for family worship : with prayers for every day in the week (Boston : Samuel T. Johnson, 1813)"
+  ],
+  "codman-spiritual-knowledge": [
+   "importanceofspir00codm",
+   "The importance of spiritual knowledge : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, in the First Church, Boston, November 3, 1825 / by John Codman ; with the report of the Select Committee (From the University Press--Hilliard and Metcalf, 1825)"
+  ],
+  "codman-faith-of-pilgrims": [
+   "faithofpilgrimss00codm",
+   "The faith of the Pilgrims; a sermon delivered at Plymouth on the twenty-second of December, 1831 (Boston, Perkins & Marvin, 1832)"
+  ],
+  "codman-sermons": [
+   "sermonsdelivered00codm",
+   "Sermons delivered on various occasions, : with addresses (Boston : Perkins, Marvin, & Co., 1834)"
+  ],
+  "codman-hidden-life": [
+   "hiddenlifeachri00codmgoog",
+   "The Hidden Life of a Christian: Exemplified in the Character and Writings of Mrs. Susannah H (Perkins, Marcin, & Co., 1835)"
+  ],
+  "codman-duty-heathen": [
+   "dutyofamericanch00codm",
+   "Duty of American Christians to send the Gospel to the heathen : a sermon preached at Hartford, Sept. 14, 1836, before the American Board of Commissioners for Foreign Missions, at their twenty-seventy annual meeting (Printed by Crocker and Brewster, 1836)"
+  ],
+  "codman-visit-to-england": [
+   "narrativeofvisit00codm",
+   "A narrative of a visit to England (Boston, Perkins & Marvin: Philadelphia, H. Perkins, 1836)"
+  ],
+  "codman-review-of-past": [
+   "reviewofpastserm00codm",
+   "Review of the past : a sermon, delivered in Dorchester, December 7, 1845, being the thirty-seventh anniversary of the author's ordination (Boston : Press of T.R. Marvin, 1846)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "codman-others": "Books by later John Codmans (Sailors' Life, Ten Months in Brazil, The Mormon Country, free-ship pamphlets): a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "codman-faith-of-pilgrims": "Title page (OCR): 'Dr. Codman's [Discourse] 1831. The Faith of the Pilgrims. A Sermon delivered at Plymouth, twenty-second of December, 1831. By John Codman, D. D. Boston: Perkins & Marvin... 1832.' The Pilgrim Association's letter thanks 'the Rev. Dr. Codman'."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "codman-family-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "codman-spiritual-knowledge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "codman-faith-of-pilgrims": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "codman-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "codman-hidden-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "codman-duty-heathen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "codman-visit-to-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "codman-review-of-past": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john codman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
