@@ -1,0 +1,112 @@
+{
+ "_about": "Heman White Chaplin: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Heman White Chaplin",
+ "_name_words": [
+  "chaplin",
+  "heman",
+  "white"
+ ],
+ "_surname": [
+  "heman white chaplin",
+  "chaplin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hwchaplin-by-the-sea-1887": [
+   23001,
+   "By The Sea 1887"
+  ],
+  "hwchaplin-saint-patrick-1887": [
+   23002,
+   "Saint Patrick 1887"
+  ],
+  "hwchaplin-new-ministers-great-opportunity-first-published-in": [
+   23003,
+   "The New Minister's Great Opportunity First published in the \"Century Magazine\""
+  ],
+  "hwchaplin-in-madeira-place-1887": [
+   23004,
+   "In Madeira Place 1887"
+  ],
+  "hwchaplin-eli-first-published-in-the-century-magazine": [
+   23005,
+   "Eli First published in the \"Century Magazine\""
+  ],
+  "hwchaplin-five-hundred-dollars-first-published-in-the-centur": [
+   23006,
+   "Five Hundred Dollars First published in the \"Century Magazine\""
+  ],
+  "hwchaplin-village-convict-first-published-in-the-century-mag": [
+   23007,
+   "The Village Convict First published in the \"Century Magazine\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hwchaplin-by-the-sea-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-saint-patrick-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-new-ministers-great-opportunity-first-published-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-in-madeira-place-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-eli-first-published-in-the-century-magazine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-five-hundred-dollars-first-published-in-the-centur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwchaplin-village-convict-first-published-in-the-century-mag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heman white chaplin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

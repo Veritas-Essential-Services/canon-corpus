@@ -17648,3 +17648,17 @@ Shelf: `pipeline/christabel-r-coleridge_shelf.json` (2026-10-22; added at the co
 | The Constant Prince | have | PG 43150, `crcoleridge-constant-prince` (1050 units) |
 | Kingsworth; or, The Aim of a Life | have | PG 43158, `crcoleridge-kingsworth` (1109 units) |
 | Hugh Crichton's Romance | have | PG 43162, `crcoleridge-hugh-crichtons-romance` (2968 units) |
+
+## Heman White Chaplin
+
+Shelf: `pipeline/heman-white-chaplin_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| By The Sea 1887 | have | PG 23001, `hwchaplin-by-the-sea-1887` (153 units) |
+| Saint Patrick 1887 | have | PG 23002, `hwchaplin-saint-patrick-1887` (97 units) |
+| The New Minister's Great Opportunity First published in the "Century Magazine" | have | PG 23003, `hwchaplin-new-ministers-great-opportunity-first-published-in` (128 units) |
+| In Madeira Place 1887 | have | PG 23004, `hwchaplin-in-madeira-place-1887` (146 units) |
+| Eli First published in the "Century Magazine" | have | PG 23005, `hwchaplin-eli-first-published-in-the-century-magazine` (241 units) |
+| Five Hundred Dollars First published in the "Century Magazine" | have | PG 23006, `hwchaplin-five-hundred-dollars-first-published-in-the-centur` (214 units) |
+| The Village Convict First published in the "Century Magazine" | have | PG 23007, `hwchaplin-village-convict-first-published-in-the-century-mag` (194 units) |
