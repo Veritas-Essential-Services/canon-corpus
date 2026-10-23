@@ -14929,6 +14929,34 @@ Slugs `alstone-*`. Built from title pages read for round 87.
 | Plea for the monthly concert : a sermon / by Rev. A.L. Stone. -- ([s.l. : s.n.], 1870) | have-ocr | IA `pleaformonthlyco00ston` |
 | Leaves from a finished pastorate (New York : A.D.F. Randolph ; San Francisco : Samuel Carson, 1882) | have-ocr | IA `leavesfromfinish0000ston` |
 | his 1854 Fourth of July oration to the city of Boston | excluded | |
+
+## Samuel Stennett (round 88, my pick, 2026-10-23)
+
+Slugs `stennett-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on personal religion. In two volumes. By Samuel Stennett, D.D. ...  1769: Vol 1, vol. 1 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_discourses-on-personal-r_stennett-samuel_1769_1` |
+| Discourses on personal religion, vol. 2 (1801 edition; the 1769 scan of vol. 2 has unreadable OCR) | have-ocr | IA `discoursesonper00stengoog` |
+| Discourses on domestick duties (London : [s.n.], 1783) | have-ocr | IA `discoursesondome00steniala` |
+| Discourses on the parable of the sower (Bridgeton, N.J. : J. Davis & J. Bright, 1823) | have-ocr | IA `discoursesonpara00sten` |
+| Remarks on the Christian minister's reasons for administring baptism by sprinkling or pouring of water : in a series of letters to a friend (London : Printed for George Keith, 1772) | have-ocr | IA `remarksonchristi00sten` |
+| An answer to the Christian minister's Reasons for baptizing infants : in a series of letters to a friend (London : Printed for G. Buckland, 1775) | have-ocr | IA `answertochristia00sten` |
+| A sermon occasioned by the death of His most sacred Majesty King George the Second. Preached in Little Wild-Street, Nov. 2d. 1760.... By Samuel Stennett.  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_a-sermon-occasioned-by-t_stennett-samuel_1760` |
+| The various use of authority and experience in matters of religion. A sermon preached ... 13 June 1764. By Samuel Stennett, ...  1764 (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_the-various-use-of-autho_stennett-samuel_1764` |
+| The indispensable importance of real religion. A sermon preached at Shakespear's-Walk March 31, 1766. For the benefit of the charity-school in that place. By Samuel Stennett, ...  1766 (catalogued 1766) | have-ocr | IA `bim_eighteenth-century_the-indispensable-import_stennett-samuel_1766` |
+| The folly and danger of conforming to the world. A sermon preached at a monthly exercise at the Rev. Mr. Reynolds's Meeting-Place, near Cripplegate, March 21, 1771. By Samuel Stennett, D.D.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_the-folly-and-danger-of-_stennett-samuel_1771` |
+| The victorious Christian receiving the crown. A sermon occasioned by the death of the Rev. Dr. John Gill, who departed this life, October 14, ... Preached October 27, by Samuel Stennett, D.D. Together with the address at the interment by Benjamin Wallin, AM. ...  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_the-victorious-christian_stennett-samuel_1771` |
+| A free and dispassionate account of the late application of the Protestant dissenting ministers to Parliament. In a letter to a friend. By Samuel Stennett, D.D.  1772 (catalogued 1772) | have-ocr | IA `bim_eighteenth-century_a-free-and-dispassionate_stennett-samuel_1772` |
+| National calamities the effect of divine displeasure. A sermon, preached in Little Wild-Street, near Lincoln's-Inn-Fields, on occasion of the general fast, February 21, 1781. By Samuel Stennett, D.D.  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_national-calamities-the-_stennett-samuel_1781` |
+| A sermon in commemoration of the great storm of wind, Nov. 27, 1703; and of the more dreadful storm which threatened the destruction of British freedom, at the eve of the Revolution: preached... Nov.27, 1788. By Samuel Stennett, D.D. To which is annexed a poem to the memory of King William III. First published in 1702.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_a-sermon-in-commemoratio_stennett-samuel_1788` |
+| A sermon occasioned by the decease of John Howard, Esq. : preached in Little Wild-Street, near Lincoln's-Inn-Fields, March 21, 1790 (London : Printed for T. Cadell [etc.], 1790) | have-ocr | IA `sermed00sten` |
+| The mortality of ministers contrasted with the unchangeableness of Christ: in a sermon, occasioned by the decease of the Rev. Caleb Evans, D.D. who departed this life Aug. 9, 1791, ... preached at Broad-Mead, Bristol, ... by Samuel Stennett, D.D. To which is added the address delivered at the interment, by the Rev. John Tommas. ...  1791 (catalogued 1791) | have-ocr | IA `bim_eighteenth-century_the-mortality-of-ministe_stennett-samuel_1791` |
+| bim_eighteenth-century_a-sermon-occasioned-by-t_stennett-samuel_1768: the scan's readable text is William Clarke's address at Burford's interment (second edition); Stennett's sermon cannot be confirmed from the OCR | pending | not shelved |
+| bim_eighteenth-century_the-christian-aspiring-t_stennett-samuel_1773: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_the-faithful-minister-re_stennett-samuel_1782: OCR of the title page breaks off at 'By SAMUEL'; the pamphlet also carries Abraham Booth's address; needs a page-image check | pending | not shelved |
+| The Works of Samuel Stennett (1824), which reprints the same discourses | excluded | |
+| Memoirs of William Ward (1825), by his nephew Samuel Stennett (1772-?), a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
