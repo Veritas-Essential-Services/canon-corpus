@@ -1,0 +1,38 @@
+{
+ "_about": "William Archibald Dunning (1857-1922), Columbia: A History of Political Theories, Ancient and Mediaeval (1902), the classical volume. The two later volumes (Luther to Montesquieu, Rousseau to Spencer) are outside lane B. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "William Archibald Dunning (1857-1922)",
+ "_name_words": [
+  "dunning",
+  "william",
+  "archibald",
+  "political",
+  "theories"
+ ],
+ "_surname": [
+  "william archibald dunning",
+  "w. a. dunning",
+  "dunning"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dunning-political-theories-ancient-mediaeval-1902": [
+   "ahistorypolitic08dunngoog",
+   "A History of Political Theories, Ancient and Mediaeval (New York: Macmillan, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "dunning-political-theories-ancient-mediaeval-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william archibald dunning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

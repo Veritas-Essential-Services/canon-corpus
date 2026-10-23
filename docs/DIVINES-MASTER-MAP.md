@@ -19912,6 +19912,15 @@ Shelf: `pipeline/torsten-petersson_shelf.json`. Cicero: A Biography (Berkeley: U
 |---|---|---|---|
 | Cicero: A Biography (Berkeley: University of California Press, 1920) |  | `petersson-cicero-biography-1920` | have-raw (IA `cicerobiography00peteuoft`) |
 
+
+## William Archibald Dunning (1857-1922)
+
+Shelf: `pipeline/w-a-dunning_shelf.json`. A History of Political Theories, Ancient and Mediaeval (New York: Macmillan, 1902). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Political Theories, Ancient and Mediaeval (New York: Macmillan, 1902) |  | `dunning-political-theories-ancient-mediaeval-1902` | have-raw (IA `ahistorypolitic08dunngoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
