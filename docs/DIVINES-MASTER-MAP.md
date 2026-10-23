@@ -12321,6 +12321,19 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 | A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
 | Prolegomena to Ancient History (London: Longmans, Green, 1871) |  | `mahaffy-prolegomena-ancient-history-1871` | have-raw (IA `prolegomenatoanc00maharich`) |
 | The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890) |  | `mahaffy-greek-world-roman-sway-1890` | have-raw (IA `greekworldunder01mahagoog`) |
+| A Commentary on Kant's Critick of the Pure Reason, translated from the History of Modern Philosophy of Kuno Fischer, with an introduction, by John Pentland Mahaffy (London: Longmans, Green, 1866) |  | `mahaffy-fischer-commentary-kant-1866` | have-raw (IA `acommentaryonka00mahagoog`) |
+| Twelve Lectures on Primitive Civilizations and their Physical Conditions, delivered at the Alexandra College (London: Longmans, Green, 1869) |  | `mahaffy-twelve-lectures-primitive-civilizations-1869` | have-raw (IA `twelvelectureson00maharich`) |
+| Euripides (Classical Writers, ed. J. R. Green; London: Macmillan, 1879) |  | `mahaffy-euripides-classical-writers-1879` | have-raw (IA `dli.ministry.12605`) |
+| Old Greek Life (History Primers; London: Macmillan, 1880) |  | `mahaffy-old-greek-life-1880` | have-raw (IA `oldgreeklife00maha`) |
+| The Story of Alexander's Empire (The Story of the Nations; New York: G. P. Putnam's Sons; London: T. Fisher Unwin, 1887) |  | `mahaffy-alexanders-empire-1887` | have-raw (IA `storyofalexander00mahauoft`) |
+| Greek Antiquities (History Primers: Classical Antiquities I; London: Macmillan, 1889 printing; first edition 1876) |  | `mahaffy-greek-antiquities-1889` | have-raw (IA `greekantiquities00mahauoft`) |
+| Greek Pictures, Drawn with Pen and Pencil (London: The Religious Tract Society, 1890) |  | `mahaffy-greek-pictures-1890` | have-raw (IA `cu31924028241242`) |
+| On the Flinders Petrie Papyri, with transcriptions, commentaries and index (Cunningham Memoirs VIII; Dublin: Royal Irish Academy, 1891); Greek transcriptions with English commentary, kept per Adam's 2026-10-23 ruling |  | `mahaffy-flinders-petrie-papyri-i-1891` | have-raw (IA `flinderspetriepa01maha`) |
+| On the Flinders Petrie Papyri, part II (Cunningham Memoirs IX; Dublin: Royal Irish Academy, 1893); Greek transcriptions with English commentary, kept per Adam's 2026-10-23 ruling |  | `mahaffy-flinders-petrie-papyri-ii-1893` | have-raw (IA `flinderspetriepamaha`) |
+| The Empire of the Ptolemies (London: Macmillan, 1895) |  | `mahaffy-empire-of-the-ptolemies-1895` | have-raw (IA `india.history.resource.105850`) |
+| A Survey of Greek Civilization (London: Macmillan, 1897) |  | `mahaffy-survey-of-greek-civilization-1897` | have-raw (IA `india.history.resource.91983`) |
+| A History of Egypt under the Ptolemaic Dynasty (A History of Egypt, vol. IV; London: Methuen, 1899) |  | `mahaffy-egypt-ptolemaic-dynasty-1899` | have-raw (IA `ahistoryegyptun00mahagoog`) |
+| Kant's Critical Philosophy for English Readers, by John P. Mahaffy and John H. Bernard, a new and completed edition, vol. I (London: Macmillan, 1889) |  | `mahaffy-bernard-kants-critical-philosophy-v1-1889` | have-raw (IA `criticalphilosop01kant`) |
 
 Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
 
@@ -12357,6 +12370,14 @@ Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. O
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Stoics, Epicureans and Sceptics | Oswald J. Reichel | `zeller-stoics-epicureans-sceptics` | have (PG 77777) |
+| Socrates and the Socratic Schools, translated from the third German edition by Oswald J. Reichel, third edition, carefully revised (London: Longmans, Green, 1885) |  | `zeller-socrates-socratic-schools-1885` | have-raw (IA `socratesandsocr01zellgoog`) |
+| Plato and the Older Academy, translated by Sarah Frances Alleyne and Alfred Goodwin, new edition (London: Longmans, Green, 1888) |  | `zeller-plato-older-academy-1888` | have-raw (IA `platoandtheolder00zelluoft`) |
+| A History of Greek Philosophy from the Earliest Period to the Time of Socrates, translated by S. F. Alleyne, vol. I (London: Longmans, Green, 1881) |  | `zeller-pre-socratic-v1-1881` | have-raw (IA `cu31924032290920`) |
+| A History of Greek Philosophy from the Earliest Period to the Time of Socrates, translated by S. F. Alleyne, vol. II (London: Longmans, Green, 1881) |  | `zeller-pre-socratic-v2-1881` | have-raw (IA `trent_0116302121540_2`) |
+| A History of Eclecticism in Greek Philosophy, translated by S. F. Alleyne (London: Longmans, Green, 1883) |  | `zeller-eclecticism-1883` | have-raw (IA `zellershistoryof00zelluoft`) |
+| Outlines of the History of Greek Philosophy, translated by Sarah Frances Alleyne and Evelyn Abbott (London: Longmans, Green, 1886) |  | `zeller-outlines-greek-philosophy-1886` | have-raw (IA `outlinesofthehis00zelluoft`) |
+| Aristotle and the Earlier Peripatetics, translated by B. F. C. Costelloe and J. H. Muirhead, vol. I (London: Longmans, Green, 1897) |  | `zeller-aristotle-peripatetics-v1-1897` | have-raw (IA `aristotleandperi01zelluoft`) |
+| Aristotle and the Earlier Peripatetics, translated by B. F. C. Costelloe and J. H. Muirhead, vol. II (London: Longmans, Green, 1897) |  | `zeller-aristotle-peripatetics-v2-1897` | have-raw (IA `cu31924032291647`) |
 
 ## Jane Ellen Harrison (scholarship)
 
@@ -12857,6 +12878,9 @@ Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connect
 |---|---|---|---|
 | Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885) |  | `nettleship-lectures-essays-1885` | have-raw (IA `cu31924026479919`) |
 | Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895) |  | `nettleship-lectures-essays-second-series-1895` | have-raw (IA `cu31924021595669`) |
+| Ancient Lives of Vergil, with an Essay on the Poems of Vergil in connection with his Life and Times (Oxford: Clarendon Press, 1879) |  | `nettleship-ancient-lives-of-vergil-1879` | have-raw (IA `ancientlivesofve00nettrich`) |
+| Vergil (Classical Writers, ed. J. R. Green; London: Macmillan, 1879) |  | `nettleship-vergil-classical-writers-1879` | have-raw (IA `vergilnet00nett`) |
+| Contributions to Latin Lexicography (Oxford: Clarendon Press, 1889); Latin-dense, kept per Adam's 2026-10-23 ruling |  | `nettleship-contributions-latin-lexicography-1889` | have-raw (IA `cu31924007818044`) |
 
 ## R. Y. Tyrrell (scholarship)
 
@@ -12890,6 +12914,8 @@ Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Companion to School Classics, second edition, revised (London and New York: Macmillan, 1889) |  | `gow-companion-school-classics-1889` | have-raw (IA `companiontoschoo00gowjuoft`) |
+| A Short History of Greek Mathematics (Cambridge: University Press, 1884) |  | `gow-short-history-greek-mathematics-1884` | have-raw (IA `bub_gb_9d8DAAAAMAAJ`) |
+| Horace, Carminum Liber II, edited by James Gow (Cambridge: University Press, 1896); Latin text with English notes, kept per Adam's 2026-10-23 ruling |  | `gow-horace-odes-ii-1896` | have-raw (IA `carminumliberii00horauoft`) |
 
 ## C. T. Cruttwell (scholarship)
 
@@ -13017,6 +13043,13 @@ Shelf: `pipeline/evelyn-abbott_shelf.json`. A History of Greece, 3 parts (Putnam
 | A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v1-1901` | have-raw (IA `historyofgreece01abbo`) |
 | A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v2-1901` | have-raw (IA `historyofgreece02abbo_0`) |
 | A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900) |  | `evelyn-abbott-history-greece-v3-1900` | have-raw (IA `historyofgreece03abbo`) |
+| Hellenica: a Collection of Essays on Greek Poetry, Philosophy, History and Religion, edited by Evelyn Abbott (London: Rivingtons, 1880) |  | `evelyn-abbott-hellenica-1880` | have-raw (IA `hellenicacollect00abbouoft`) |
+| Pericles and the Golden Age of Athens (Heroes of the Nations; New York and London: G. P. Putnam's Sons, 1891) |  | `evelyn-abbott-pericles-1891` | have-raw (IA `periclesgoldenag00abbouoft`) |
+| A Skeleton Outline of Greek History, Chronologically Arranged (London: Rivingtons; no year in the OCR title page, IA dates it 1884) |  | `evelyn-abbott-skeleton-outline-greek-history` | have-raw (IA `skeletonoutlineo00abbouoft`) |
+| Herodotus, Book IX, with introduction and notes by Evelyn Abbott (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `evelyn-abbott-herodotus-ix-1887` | have-raw (IA `herodotusbookix12hero`) |
+| Herodotus, Books V and VI, Terpsichore and Erato, with introduction and notes by Evelyn Abbott (Oxford: Clarendon Press, 1893); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `evelyn-abbott-herodotus-v-vi-1893` | have-raw (IA `herodotusbooksvv00heroiala`) |
+| Demosthenes, Orations against Philip, with introduction and notes by Evelyn Abbott and P. E. Matheson, vol. I (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `evelyn-abbott-demosthenes-philippics-v1-1887` | have-raw (IA `orationsagainstp01demo`) |
+| Demosthenes, Orations against Philip, with introduction and notes by Evelyn Abbott and P. E. Matheson, vol. II, part I, introduction and text (Oxford: Clarendon Press, 1903); Greek text with English introduction, kept per Adam's 2026-10-23 ruling |  | `evelyn-abbott-demosthenes-philippics-v2-1903` | have-raw (IA `orationsagainstp02demo`) |
 
 ## Adolf Holm (scholarship)
 
