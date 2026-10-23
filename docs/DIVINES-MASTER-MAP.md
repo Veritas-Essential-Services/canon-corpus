@@ -18109,6 +18109,23 @@ Slugs `mleod-*`. Built from title pages read for round 121.
 | The life and power of true Godliness : described in a series of discourses (New York : R. Carter, 1847) | have-ocr | IA `lifepoweroftrueg00mleo` |
 | Conversations on the Mode of Christian Baptism is by Alexander W. M'Leod | excluded | |
 | the Westminster Larger Catechism | excluded | |
+
+## Elisha Lord Cleaveland (round 121, my pick, 2026-10-23)
+
+Slugs `cleaveland-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ the only foundation : a sermon, delivered at the dedication of the church-edifice in Court Street, erected by the Third Congregational Society in New Haven, December 7, 1841 (New Haven, Conn. : Printed by Hitchcock & Stafford, 1841) | have-ocr | IA `cu31924029457425` |
+| A discourse occasioned by the death of Hon. Daniel Webster, preached October 31 and repeated November 14, 1852 (New Haven, Printed by B.L. Hamlen, 1852) | have-ocr | IA `discourseoccasio00clea` |
+| Christ the central glory of the church : a sermon preached at the ordination of Rev. John Monteith, Jr., over the Congregational Church in Terryville, Conn., October 27, 1858 (Thomas H. Pease, 1858) | have-ocr | IA `christcentralglo00clea` |
+| The day of national prayer and fasting, Sept. 26, 1861 : appointed by the President on the recommendation of both Houses of Congress ([S.l.] : [American Tract Society], 1861) | have-ocr | IA `dayofnationalpra00clea` |
+| Motives to the missionary work : a sermon, before the American Board of Commissioners for Foreign Missions, at their meeting in Rochester, N.Y. October 6, 1863 (T.R. Marvin, 1863) | have-ocr | IA `motivestomission00clea` |
+| Our duty in regard to the rebellion : A fast day sermon, April 3, 1863 (New York, New York : Hall, Clayton & Medole, Printers, 46 Pine Street, 1863) | have-ocr | IA `ourdutyinregardt00clea` |
+| The patriot's song of victory. A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven, T. H. Pease, [186) | have-ocr | IA `patriotssongofvi00clea` |
+| A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven [Conn.] : T.H. Pease, 1864) | have-ocr | IA `thanksgivingdisc00clea` |
+| christianpamphl00dwiggoog, a bound volume of many authors' pamphlets | excluded | |
+| sermondelivereda00clea (1813) is by John Cleaveland and Elisha Fisk | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
