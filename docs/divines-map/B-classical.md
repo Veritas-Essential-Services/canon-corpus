@@ -536,6 +536,8 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Comedies of Aristophanes, vol. I (London, 1820) | Thomas Mitchell | `aristophanes-mitchell-1820-v1` | have-raw (IA `comediesaristop02mitcgoog`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. II: Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus (London: Henry G. Bohn, 1853) | William James Hickie | `aristophanes-hickie-1853-v2` | have-raw (IA `comediesaristop00hickgoog`) |
 | The Frogs and Other Plays of Aristophanes (Everyman's Library, The Plays of Aristophanes vol. II; first issued 1911, this scan the 1922 reprint): the Frogs tr. Frere, the Thesmophoriazusae tr. Hickie, the Clouds tr. Mitchell, the Wasps tr. Cumberland | J. Hookham Frere | `aristophanes-frere-frogs-everyman-1911` | have-raw (IA `frogsthreeotherp00aris`) |
+| Aristophanes, with the English translation of B. B. Rogers, vol. I (Loeb, 1924; this copy the 1930 reprint); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aristophanes-rogers-loeb-v1` | have-raw (IA `aristophaneswith01arisuoft`) |
+| Aristophanes, with the English translation of B. B. Rogers, vol. III (Loeb, 1924; this copy a reprint of 1927-46, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aristophanes-rogers-loeb-v3` | have-raw (IA `aristophaneswith03arisuoft`) |
 
 Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is now held above from Everyman vol. II. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
 

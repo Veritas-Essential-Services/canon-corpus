@@ -99,13 +99,21 @@
    "frogsthreeotherp00aris",
    "The Frogs and Other Plays of Aristophanes (Everyman's Library, The Plays of Aristophanes vol. II; first issued 1911, this scan the 1922 reprint): the Frogs tr. Frere, the Thesmophoriazusae tr. Hickie, the Clouds tr. Mitchell, the Wasps tr. Cumberland",
    "tr. J. Hookham Frere"
+  ],
+  "aristophanes-rogers-loeb-v1": [
+   "aristophaneswith01arisuoft",
+   "Aristophanes, with the English translation of B. B. Rogers, vol. I (Loeb, 1924; this copy the 1930 reprint); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aristophanes-rogers-loeb-v3": [
+   "aristophaneswith03arisuoft",
+   "Aristophanes, with the English translation of B. B. Rogers, vol. III (Loeb, 1924; this copy a reprint of 1927-46, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "pg3012": "The Acharnians: the Athenian Society translation (shingle overlap 0.87 with PG 8688)",
   "pg2571": "Peace: the Athenian Society translation (0.87 with PG 8688)",
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
-  "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
+  "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "Rogers's translation now held from the 1924 Loeb, vols. I and III (aristophanes-rogers-loeb-*); vol. II (Peace, Birds, Frogs) is on Internet Archive only as lending copies, and The Frogs is held clean from Gutenberg",
   "J. Hookham Frere (1840)": "three of the four plays held from the Morley volume (aristophanes-frere-morley, 1887); the fourth, the Frogs, is now held from Everyman vol. II (aristophanes-frere-frogs-everyman-1911)"
  },
  "_surname": [
@@ -126,7 +134,9 @@
   "aristophanes-tyrrell-acharnians-1883": "Robert Yelverton Tyrrell",
   "aristophanes-mitchell-1820-v1": "Mitchell",
   "aristophanes-hickie-1853-v2": "Hickie",
-  "aristophanes-frere-frogs-everyman-1911": "j. hookham frere"
+  "aristophanes-frere-frogs-everyman-1911": "j. hookham frere",
+  "aristophanes-rogers-loeb-v1": "Benjamin Bickley Rogers",
+  "aristophanes-rogers-loeb-v3": "Benjamin Bickley Rogers"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
@@ -136,7 +146,7 @@
  "_checks": {
   "aristophanes-athenian-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "identity": "ok",
@@ -145,7 +155,7 @@
   },
   "aristophanes-athenian-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "identity": "ok",
@@ -154,7 +164,7 @@
   },
   "aristophanes-hickie-clouds": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "W. J. Hickie",
@@ -166,7 +176,7 @@
   },
   "aristophanes-rogers-frogs": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "b b rogers",
@@ -177,7 +187,7 @@
   },
   "aristophanes-lindsay-lysistrata": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Jack Lindsay",
@@ -189,7 +199,7 @@
   },
   "aristophanes-frere-morley": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "John Hookham Frere",
@@ -202,7 +212,7 @@
   },
   "aristophanes-hickie-1887-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "William James Hickie",
@@ -215,7 +225,7 @@
   },
   "aristophanes-mitchell-1822-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "T. Mitchell",
@@ -228,7 +238,7 @@
   },
   "aristophanes-wheelwright-1837-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "C. A. Wheelwright",
@@ -241,7 +251,7 @@
   },
   "aristophanes-wheelwright-1837-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "C. A. Wheelwright",
@@ -254,7 +264,7 @@
   },
   "aristophanes-walsh-1848": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Benjamin Dann Walsh",
@@ -267,7 +277,7 @@
   },
   "aristophanes-valpy-1812": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "mr. cumberland",
@@ -280,7 +290,7 @@
   },
   "aristophanes-talboys-plutus-frogs-1822": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "identity": "ok",
@@ -291,7 +301,7 @@
   },
   "aristophanes-billson-acharnians-1882": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Charles James Billson",
@@ -304,7 +314,7 @@
   },
   "aristophanes-tyrrell-acharnians-1883": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Robert Yelverton Tyrrell",
@@ -317,7 +327,7 @@
   },
   "aristophanes-mitchell-1820-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Mitchell",
@@ -330,7 +340,7 @@
   },
   "aristophanes-hickie-1853-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "Hickie",
@@ -343,7 +353,7 @@
   },
   "aristophanes-frere-frogs-everyman-1911": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aristophanes",
    "translator_claimed": "j. hookham frere",
@@ -354,6 +364,32 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Everyman's Library, first issued 1911, this printing 1922 ('Reprinted 1917, 1922'): US PD by date. Every translator named (Frere d. 1846, Hickie, Mitchell, Cumberland) is nineteenth-century or earlier, and the introduction is Frere's own 1820 essay. The only other text is an unsigned short bibliography of English translations (the series is 'edited by Ernest Rhys'); UK status of that note was not checked"
+  },
+  "aristophanes-rogers-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Bickley Rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "aristophanes-rogers-loeb-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Bickley Rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
   }
  },
  "_rights_checked": {
