@@ -16274,3 +16274,18 @@ Shelf: `pipeline/mabell-sc-smith_shelf.json` (2026-10-22; added at the coordinat
 | Ethel Morton and the Christmas Ship | have | PG 36007, `mscsmith-ethel-morton-and-the-christmas-ship` (2036 units) |
 | Ethel Morton at Chautauqua | have | PG 36010, `mscsmith-ethel-morton-at-chautauqua` (1883 units) |
 | Twenty Centuries of Paris | have | PG 63570, `mscsmith-twenty-centuries-of-paris` (1148 units) |
+
+## Mary E. Ropes
+
+Shelf: `pipeline/mary-e-ropes_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Margie's venture | have | PG 73708, `meropes-margies-venture` (280 units) |
+| Two brave boys, and, The wrong twin | have | PG 74440, `meropes-two-brave-boys-and-the-wrong-twin` (604 units) |
+| Two little Finns | have | PG 74471, `meropes-two-little-finns` (420 units) |
+| What happened to Tad | have | PG 74793, `meropes-what-happened-to-tad` (759 units) |
+| On the face of the flood | have | PG 76666, `meropes-on-the-face-of-the-flood` (363 units) |
+| A child shall lead them | have | PG 77390, `meropes-child-shall-lead-them` (619 units) |
+| The story of Mary Jones and her Bible | have | PG 77715, `meropes-story-of-mary-jones-and-her-bible` (492 units) |
+| The mystery of Hoyle's Mouth | have | PG 79697, `meropes-mystery-of-hoyles-mouth` (742 units) |
