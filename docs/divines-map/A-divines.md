@@ -10662,3 +10662,15 @@ Slugs `smalridge-*`. Built from title pages read for round 45.
 |---|---|---|
 | Sixty Sermons: Preached On Several Occasions (Mary Smalridge, 1724) | have-ocr | IA `sixtysermonsprea0000geor` |
 | Twelve Sermons (1717); the ECCO copy of Sixty Sermons | alternate | not shelved |
+
+## Thomas Newton (Bishop of Bristol) (round 45, my pick, 2026-10-22)
+
+Slugs `tnewton-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 1 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp01newt` |
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 2 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp02newt` |
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 3 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp03newt` |
+| Many later printings of the Dissertations (1754-1808) | alternate | not shelved |
+| His edition of Milton (Milton's work) | excluded | |
