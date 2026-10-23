@@ -12264,3 +12264,19 @@ Slugs `angus-*`. Built from title pages read for round 58.
 | The Bible hand-book : an introduction to the study of Sacred Scripture (Philadelphia : W.S. & A. Martien, 1857) | have-ocr | IA `biblehandbookint00angu_0` |
 | Apostolic missions, the gospel for every creature : a sermon first preached before the Baptist Missionary Society, April 26, 1871 (London : James Nisbet & Co., 1871) | have-ocr | IA `apostolicmission00angu` |
 | His editions of Butler's Analogy (Butler's book); his Handbooks of the English Tongue and of English Literature (not divinity); Welsh and Italian translations of the Bible Hand-book | excluded | |
+
+## Samuel Cox (round 58, my pick, 2026-10-23)
+
+Slugs `scox-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The quest of the chief good : expository lectures on the book Ecclesiastes, with a new translation : a commenrary for laymen (London : A. Miall, 1868) | have-ocr | IA `questofchiefgood00coxs` |
+| Expository essays and discourses (London : Hodder and Stoughton, 1877) | have-ocr | IA `expositoryessays0000coxs` |
+| Salvator Mundi : or, Is Christ the Savior of all men ? (New York : Dutton, 1878) | have-ocr | IA `salvatormundiori00coxs` |
+| An expositor's note-book, or, Brief essays on obscure or misread Scriptures (London : Hodder and Stoughton, 1879) | have-ocr | IA `expositorsnotebo0000coxs` |
+| The genesis of evil, and other sermons, mainly expository (London : G. Kegan Paul & Co., 1880) | have-ocr | IA `genesisofeviloth00coxs` |
+| A commentary on the book of Job : with a translation (London : C. Kegan Paul & Co., 1880) | have-ocr | IA `ldpd_10824381_000` |
+| Miracles; an argument and a challenge (London, Kegan Paul, Trench & Co., 1884) | have-ocr | IA `MiraclesAnArgument` |
+| privatelettersof00coxs: The Private Letters of St. Paul and St. John (1867). This scan has lost its title page and nothing in the text names the author; pending a complete copy. | pending | not shelved |
+| The Expositor volumes he edited (many contributors) | excluded | |
