@@ -43735,3 +43735,16 @@ Shelf: `pipeline/william-magnay_shelf.json` (2026-10-22; added at the coordinato
 | The Master Spirit | have | PG 67703, `wmagnay-master-spirit` (1957 units) |
 | Count Zarka: A Romance | have | PG 67905, `wmagnay-count-zarka` (1891 units) |
 | A prince of lovers | have | PG 73269, `wmagnay-prince-of-lovers` (2411 units) |
+
+## S. Levett Yeats
+
+Shelf: `pipeline/s-levett-yeats_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Orrain: A Romance | have | PG 20192, `slevettyeats-orrain` (2160 units) |
+| The Honour of Savelli: A Romance | have | PG 38250, `slevettyeats-honour-of-savelli` (1768 units) |
+| The Heart of Denise, and Other Tales | have | PG 38284, `slevettyeats-heart-of-denise-and-other-tales` (1124 units) |
+| A Galahad of the Creeks; The Widow Lamport | have | PG 38306, `slevettyeats-galahad-of-the-creeks` (965 units) |
+| The Chevalier d'Auriac | have | PG 38323, `slevettyeats-chevalier-dauriac` (1718 units) |
+| The traitor's way | have | PG 68914, `slevettyeats-traitors-way` (1783 units) |
