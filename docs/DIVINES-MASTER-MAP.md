@@ -16850,6 +16850,23 @@ Slugs `wcogswell-*`. Built from title pages read for round 107.
 | Letters to young men preparing for the Christian ministry (Boston, Perkins & Marvin ; Philadelphia, H. Perkins, 1837) | have-ocr | IA `letterstoyoungme00cogs` |
 | The Christian philanthropist; or, Harbinger of the millennium (Boston, Perkins & Marvin [etc.], 1839) | have-ocr | IA `christianphilant00cogs` |
 | The Halifax, Nova Scotia lectures and sermons (CIHM microfiche) are by William Cogswell, curate of St Paul's, Halifax, a different man | excluded | |
+
+## Augustus Woodbury (round 107, my pick, 2026-10-23)
+
+Slugs `awoodbury-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| The divine unity (Boston : American Unitarian Association, [18-) | have-ocr | IA `divineunity00wood` |
+| The character and influence of American civilization (Lowell, S. J. Varney, printer, 1855) | have-ocr | IA `characterinfluen00wood` |
+| Plain Words to Young Men (E. C. Eastman, 1858) | have-ocr | IA `plainwordstoyou00woodgoog` |
+| Courage. A sermon which was to have been preached on Sunday morning, April 21, 1861 (Providence, Cooke & Danielson, printers, 1861) | have-ocr | IA `couragesermonwhi00wood` |
+| The preservation of the republic. An oration delivered before the municipal authorities and citizens of Providence, July 4, 1862 (Providence : Knowles, Anthony & Co., City Printers, 1862) | have-ocr | IA `preservationofre00wood` |
+| The Son of God calleth the dead to life (Providence, S. S. Rider and brother, 1865) | have-ocr | IA `sonofgodcallethd00wood` |
+| A sketch of the character of Abraham Lincoln : a discourse preached in the Westminster Church, Providence, R.I., Thursday, June 1, 1865 (Providence : S.S. Rider and Brother, 1865) | have-ocr | IA `sketchofcharacte00wood` |
+| The President and Congress. A discourse preached in the Westminster Congregational church, Sunday evening, May 6, 1866 (Providence, G. H. Whitney, 1866) | have-ocr | IA `presidentcongres00wood` |
+| A narrative of the campaign of the First Rhode Island regiment, in the spring and summer of 1861 (Providence : Sidney S. Rider, 1862) | have-ocr | IA `woodburynarrative00augurich` |
+| Major General Ambrose E. Burnside and the Ninth Army Corps : a narrative of campaigns in North Carolina, Maryland, Virginia, Ohio, Kentucky, Mississippi and Tennessee, during the war for the preservation of the Republic (Providence, S.S. Rider & Brother, 1867) | have-ocr | IA `ambroseburnside00woodrich` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
