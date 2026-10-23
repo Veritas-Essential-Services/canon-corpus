@@ -19930,6 +19930,16 @@ Shelf: `pipeline/wincenty-lutoslawski_shelf.json`. The Origin and Growth of Plat
 |---|---|---|---|
 | The Origin and Growth of Plato's Logic (London: Longmans, 1897; 1905 issue) |  | `lutoslawski-origin-growth-platos-logic` | have-raw (IA `origingrowthofpl0000winc`) |
 
+
+## Alice Gardner (1854-1927)
+
+Shelf: `pipeline/alice-gardner_shelf.json`. Julian, Philosopher and Emperor, and the Last Struggle of Paganism against Christianity (New York: Putnam, 1895); The Lascarids of Nicaea: The Story of an Empire in Exile (London: Methuen, 1912; 1964 Hakkert reprint). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Julian, Philosopher and Emperor, and the Last Struggle of Paganism against Christianity (New York: Putnam, 1895) |  | `gardner-julian-philosopher-emperor-1895` | have-raw (IA `julianphilosophe00gard`) |
+| The Lascarids of Nicaea: The Story of an Empire in Exile (London: Methuen, 1912; 1964 Hakkert reprint) |  | `gardner-lascarids-of-nicaea-1912` | have-raw (IA `lascaridsofnicae0000alic`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
