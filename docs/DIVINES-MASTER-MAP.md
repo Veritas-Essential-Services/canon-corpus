@@ -45985,3 +45985,64 @@ Shelf: `pipeline/storytellers-tail-13_shelf.json` (2026-10-22; added at the coor
 | Neva's choice A sequel to "Neva's three lovers" | have | PG 68439, `hlewis-neva-s-choice-a-sequel-to-neva-s-three-lovers` (1877 units) |
 | New York: Its Upper Ten and Lower Million | have | PG 57785, `glippard-new-york` (4847 units) |
 | The Mysteries of Florence | have | PG 62760, `glippard-mysteries-of-florence` (2764 units) |
+
+## Storytellers' tail, group 14 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-14_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: John Luther Long, Samuel Lover, Ruth Lynn, Charles MacFarlane, William Maginn, César Malan, Mary E. Mann, Edward Marshall, Jean N. McIlwraith, Maria J. McIntosh, William McLennan, Marian Hurd McNeely, Rufus Merrill, Miriam Michelson, Weymer Jay Mills, D. M. Moir, Dorothea Moore, John Trotwood Moore, Martha Morton, Louise Chandler Moulton, Frank Andrew Munsey, Charles Augustus Murray, Frank Lewis Nason, J. B. Naylor, Richard Newton, Frederick Niven, Philip Francis Nowlan. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Way of the Gods | have | PG 33616, `jllong-way-of-the-gods` (1352 units) |
+| Heimweh; The siren; The loaded gun; Liebereich; "Iupiter Tonans;" "Sis;" Thor's emerald; Guile | have | PG 74942, `jllong-heimweh` (2206 units) |
+| Handy Andy: A Tale of Irish Life. Volume 2 | have | PG 7180, `slover-handy-andy` (1929 units) |
+| Handy Andy: A Tale of Irish Life. Volume 1 | have | PG 21817, `slover-handy-andy-21817` (2542 units) |
+| Corrie | have | PG 75031, `rlynn-corrie` (540 units) |
+| The mysterious locket | have | PG 79291, `rlynn-mysterious-locket` (1465 units) |
+| A Legend of Reading Abbey | have | PG 41804, `cmacfarlane-legend-of-reading-abbey` (383 units) |
+| The Camp of Refuge: A Tale of the Conquest of the Isle of Ely | have | PG 46744, `cmacfarlane-camp-of-refuge` (1715 units) |
+| The Military Sketch-Book, Vol. 2 (of 2) Reminiscences of seventeen years in the service abroad and at home | have | PG 57327, `wmaginn-military-sketch-book-vol-2-of-2-reminiscences-of-sev` (807 units) |
+| The Military Sketch-Book. Vol. 1 (of 2) Reminiscences of seventeen years in the service abroad and at home | have | PG 58449, `wmaginn-military-sketch-book-vol-1-of-2-reminiscences-of-sev` (825 units) |
+| Theobald, the Iron-Hearted; Or, Love to Enemies | have | PG 11107, `cmalan-theobald-the-iron-hearted` (336 units) |
+| Stories from Switzerland | have | PG 62568, `cmalan-stories-from-switzerland` (940 units) |
+| Mrs. Day's Daughters | have | PG 7941, `memann-mrs-day-s-daughters` (2613 units) |
+| A Sheaf of Corn | have | PG 26417, `memann-sheaf-of-corn` (2220 units) |
+| In Old Kentucky | have | PG 13933, `emarshall-in-old-kentucky` (1849 units) |
+| The Old Flute-Player: A Romance of To-day | have | PG 17841, `emarshall-old-flute-player` (810 units) |
+| The Making of Mary | have | PG 19343, `jnmcilwraith-making-of-mary` (807 units) |
+| The Span o' Life: A Tale of Louisbourg & Quebec | have | PG 33731, `jnmcilwraith-span-o-life` (1937 units) |
+| Evenings at Donaldson Manor; Or, The Christmas Guest | have | PG 20018, `mjmcintosh-evenings-at-donaldson-manor` (1414 units) |
+| Aunt Kitty's Tales | have | PG 42837, `mjmcintosh-aunt-kitty-s-tales` (1699 units) |
+| The Span o' Life: A Tale of Louisbourg & Quebec | have | PG 33731, `wmclennan-span-o-life` (1937 units) |
+| Spanish John Being a Memoir, Now First Published in Complete Form, of the Early Life and Adventures of Colonel John McDonell, Known as "Spanish John," When a Lieutenant in the Company of St. James of the Regiment Irlandia, in the Service of the King of Spain Operating in Italy | have | PG 61224, `wmclennan-spanish-john-being-a-memoir-now-first-published-in` (984 units) |
+| When she came home from college | have | PG 54033, `mhmcneely-when-she-came-home-from-college` (1280 units) |
+| Miss Billy | have | PG 60495, `mhmcneely-miss-billy` (1528 units) |
+| Book about Animals | have | PG 10737, `rmerrill-book-about-animals` (18 units) |
+| Stories About Indians | have | PG 33142, `rmerrill-stories-about-indians` (47 units) |
+| In the Bishop's Carriage | have | PG 481, `mmichelson-in-the-bishop-s-carriage` (1730 units) |
+| The Madigans | have | PG 21243, `mmichelson-madigans` (1541 units) |
+| The ghosts of their ancestors | have | PG 36991, `wjmills-ghosts-of-their-ancestors` (280 units) |
+| Through the Gates of Old Romance | have | PG 47702, `wjmills-through-the-gates-of-old-romance` (470 units) |
+| The Life of Mansie Wauch Tailor in Dalkeith, written by himself | have | PG 20767, `dmmoir-life-of-mansie-wauch-tailor-in-dalkeith-written-by-hi` (880 units) |
+| The Life of Mansie Wauch tailor in Dalkeith | have | PG 23739, `dmmoir-life-of-mansie-wauch-tailor-in-dalkeith` (878 units) |
+| Head of the Lower School | have | PG 56594, `dmoore-head-of-the-lower-school` (1637 units) |
+| Sydney Lisle, the Heiress of St. Quentin | have | PG 61208, `dmoore-sydney-lisle-the-heiress-of-st-quentin` (1544 units) |
+| The Bishop of Cottontown: A Story of the Southern Cotton Mills | have | PG 23637, `jtmoore-bishop-of-cottontown` (4351 units) |
+| Jack Ballington, Forester | have | PG 45652, `jtmoore-jack-ballington-forester` (1737 units) |
+| Her Lord and Master | have | PG 48337, `mmorton-her-lord-and-master` (2326 units) |
+| Val Sinestra | have | PG 64282, `mmorton-val-sinestra` (2157 units) |
+| New Bed-Time Stories | have | PG 60418, `lcmoulton-new-bed-time-stories` (1033 units) |
+| More Bed-Time Stories | have | PG 60581, `lcmoulton-more-bed-time-stories` (865 units) |
+| Under Fire: A Tale of New England Village Life | have | PG 27935, `famunsey-under-fire` (1768 units) |
+| The Boy Broker; Or, Among the Kings of Wall Street | have | PG 28887, `famunsey-boy-broker` (1911 units) |
+| The Prairie-Bird | have | PG 47357, `camurray-prairie-bird` (3158 units) |
+| Hassan; or, The Child of the Pyramid: An Egyptian Tale | have | PG 50760, `camurray-hassan` (2053 units) |
+| The Blue Goose | have | PG 31485, `flnason-blue-goose` (1797 units) |
+| The Vision of Elijah Berl | have | PG 32107, `flnason-vision-of-elijah-berl` (1728 units) |
+| The Little Green Goblin | have | PG 61441, `jbnaylor-little-green-goblin` (1925 units) |
+| The sign of the prophet | have | PG 72275, `jbnaylor-sign-of-the-prophet` (3045 units) |
+| The Life of Jesus Christ for the Young, Vol. 3 | have | PG 11509, `rnewton-life-of-jesus-christ-for-the-young-vol-3` (947 units) |
+| The Life of Jesus Christ for the Young, Vol. 4 And His Life Depicted in a Gallery of Eighty Paintings | have | PG 67268, `rnewton-life-of-jesus-christ-for-the-young-vol-4-and-his-lif` (1338 units) |
+| The Lost Cabin Mine | have | PG 43975, `fniven-lost-cabin-mine` (1870 units) |
+| The S.S. Glory | have | PG 59343, `fniven-s-s-glory` (900 units) |
+| The Airlords of Han | have | PG 25438, `pfnowlan-airlords-of-han` (566 units) |
+| Armageddon—2419 A.D. | have | PG 32530, `pfnowlan-armageddon2419-a-d` (532 units) |
