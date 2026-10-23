@@ -19293,6 +19293,24 @@ Slugs `hscudder-*`. Built from title pages read for round 133.
 | The godly man's choice: ...  1644 (England : Printed by Matthew Simmons for Henry Overton ..., 1644) | have-ocr | IA `bim_early-english-books-1641-1700_the-godly-mans-choice-_scudder-henry_1644` |
 | the 1642 and 1664 editions and an undated later printing of the Daily Walk | excluded | |
 | other Scudders' books | excluded | |
+
+## Samuel M. Janney (round 133, my pick, 2026-10-23)
+
+Slugs `janney-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| Conversations on religious subjects between a father and his two sons (Philadelphia : printed by John Richards, 1843) | have-ocr | IA `conversationsonr00jann` |
+| An historical sketch of the Christian church during the Middle Ages (Philadelphia, J. Richards, Printer, 1847) | have-ocr | IA `historicalsketch00jann` |
+| The life of William Penn : with selections from his correspondence and autobiography (Philadelphia : Lippincott, Grambo, 1853) | have-ocr | IA `lifeofwilliamp00jann` |
+| The life of George Fox; with dissertations on his views concerning the doctrines, testimonies and discipline of the Christian church (Philadelphia Lippincott, Grambo, 1853) | have-ocr | IA `lifeofgeorgefox00jannuoft` |
+| History of the Religious Society of Friends, from Its Rise to the Year 1828 (Hayes & Zell, 1859) | have-ocr | IA `historyreligiou05janngoog` |
+| An examination of the causes which led to the separation of the Religious Society of Friends in America, in l827-28 (Philadelphia : T. Ellwood Zell, 1868) | have-ocr | IA `examinationofcau00jann` |
+| Summary of Christian Doctrines as Held by the Religious Society of Friends (Friends' Publication Association, 1871) | have-ocr | IA `summarychristia01janngoog` |
+| An American view of the causes which have led to the decline of the Society of Friends in Great Britain and Ireland (London : A. W. Bennett, 1860) (IA americanviewofca00jann): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Last of the Lenapé is poetry, outside this theology shelf | excluded | |
+| the Penn treaty addresses and delegates' report are by others | excluded | |
+| other scans of the same books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
