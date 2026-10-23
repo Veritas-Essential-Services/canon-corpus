@@ -38050,3 +38050,36 @@ Shelf: `pipeline/meredith-nicholson_shelf.json` (2026-10-22; added at the coordi
 | The hope of happiness | have | PG 68399, `mnicholson-hope-of-happiness` (2446 units) |
 | The man in the street: Papers on American topics | have | PG 69677, `mnicholson-man-in-the-street` (462 units) |
 | held-elsewhere | excluded | PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Francis Lynde
+
+Shelf: `pipeline/francis-lynde_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Railroad and Western adventure novels. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Fool for Love | have | PG 8073, `flynde-fool-for-love` (932 units) |
+| The Grafters | have | PG 11418, `flynde-grafters` (2566 units) |
+| The Taming of Red Butte Western | have | PG 14844, `flynde-taming-of-red-butte-western` (2031 units) |
+| The Honorable Senator Sage-Brush | have | PG 16573, `flynde-honorable-senator-sage-brush` (2120 units) |
+| Empire Builders | have | PG 16630, `flynde-empire-builders` (2128 units) |
+| The Quickening | have | PG 17357, `flynde-quickening` (2543 units) |
+| The Master of Appleby A Novel Tale Concerning Itself in Part with the Great Struggle in the Two Carolinas; but Chiefly with the Adventures Therein of Two Gentlemen Who Loved One and the Same Lady | have | PG 17690, `flynde-master-of-appleby-a-novel-tale-concerning-itself-in-p` (3198 units) |
+| The Price | have | PG 19462, `flynde-price` (2775 units) |
+| Branded | have | PG 19472, `flynde-branded` (1449 units) |
+| The King of Arcadia | have | PG 33306, `flynde-king-of-arcadia` (1747 units) |
+| A Romance in Transit | have | PG 33399, `flynde-romance-in-transit` (1270 units) |
+| Stranded in Arcady | have | PG 34009, `flynde-stranded-in-arcady` (1160 units) |
+| The Real Man | have | PG 36869, `flynde-real-man` (2049 units) |
+| The City of Numbered Days | have | PG 37249, `flynde-city-of-numbered-days` (1664 units) |
+| The Wreckers | have | PG 38846, `flynde-wreckers` (1739 units) |
+| The Helpers | have | PG 45133, `flynde-helpers` (2484 units) |
+| Pirates' Hope | have | PG 45141, `flynde-pirates-hope` (1795 units) |
+| Dick and Larry: Freshmen | have | PG 63499, `flynde-dick-and-larry` (1313 units) |
+| After the Manner of Men | have | PG 66631, `flynde-after-the-manner-of-men` (2163 units) |
+| David Vallory | have | PG 66754, `flynde-david-vallory` (2006 units) |
+| Scientific Sprague | have | PG 67748, `flynde-scientific-sprague` (2161 units) |
+| Mr. Arnold: A romance of the Revolution | have | PG 69849, `flynde-mr-arnold` (1801 units) |
+| A private chivalry | have | PG 72849, `flynde-private-chivalry` (2569 units) |
+| The tenderfoots | have | PG 73462, `flynde-tenderfoots` (2127 units) |
+| The Donovan chance | have | PG 74848, `flynde-donovan-chance` (1367 units) |
+| The golden spider | have | PG 75002, `flynde-golden-spider` (1258 units) |
