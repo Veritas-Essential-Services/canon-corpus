@@ -1,0 +1,513 @@
+{
+ "_about": "Storytellers' tail, group 29: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Allan Eric, Clayton H. Ernst, Caradoc Evans, Christopher Evans, Stanford Eveleth, Martha Lewis Beckwith Ewell, John Ewing, John Eyerman, Lanoe Falconer, William C. Falkner, Vesta J. Farnsworth, Reginald Farrer, Wilbur Finley Fauley, Samuel Fea, Charles Felix, James Fellom, A. S. Fenn, Earl Fenner, Kate Lee Ferguson, Samuel Ferguson, William John Ferrar, Susan Ferrier, Laura Dayton Fessenden, E. M. Field, Roswell Martin Field, Salisbury Field, Frederick Vining Fisher, Ralph Browning Fiske, Annie Fisler, Anna M. Fitch. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 29 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "aeric-boy-crusoe": [
+   "allan eric"
+  ],
+  "chernst-mark-of-the-knife": [
+   "clayton h. ernst",
+   "clayton holt ernst",
+   "ernst"
+  ],
+  "cevans-my-neighbors": [
+   "caradoc evans",
+   "evans"
+  ],
+  "cevans-eurasia": [
+   "christopher evans",
+   "evans"
+  ],
+  "seveleth-miss-dexie": [
+   "stanford eveleth",
+   "eveleth"
+  ],
+  "mlbewell-harvest-of-years": [
+   "martha lewis beckwith ewell",
+   "ewell"
+  ],
+  "jewing-history-of-the-9th-scottish-division-1914-1919": [
+   "john ewing",
+   "ewing"
+  ],
+  "jeyerman-peachmonk": [
+   "john eyerman",
+   "eyerman"
+  ],
+  "lfalconer-cecilia-de-noel": [
+   "lanoe falconer",
+   "falconer"
+  ],
+  "wcfalkner-white-rose-of-memphis": [
+   "william c. falkner",
+   "clark falkner",
+   "falkner"
+  ],
+  "vjfarnsworth-house-we-live-in": [
+   "vesta j. farnsworth",
+   "vesta jane farnsworth",
+   "farnsworth"
+  ],
+  "rfarrer-sundered-streams": [
+   "reginald farrer",
+   "farrer"
+  ],
+  "wffauley-shuddering-castle": [
+   "wilbur finley fauley",
+   "fauley"
+  ],
+  "sfea-irish-ned-the-winnipeg-newsy": [
+   "samuel fea"
+  ],
+  "cfelix-notting-hill-mystery": [
+   "charles felix",
+   "felix"
+  ],
+  "jfellom-rider-of-the-mohave": [
+   "james fellom",
+   "fellom"
+  ],
+  "asfenn-jack-s-two-sovereigns": [
+   "a. s. fenn",
+   "annie s. fenn"
+  ],
+  "efenner-history-of-battery-h-first-regiment-rhode-island-lig": [
+   "earl fenner",
+   "fenner"
+  ],
+  "klferguson-cliquot": [
+   "kate lee ferguson",
+   "ferguson"
+  ],
+  "sferguson-father-tom-and-the-pope": [
+   "samuel ferguson",
+   "ferguson"
+  ],
+  "wjferrar-fall-of-the-grand-sarrasin": [
+   "william john ferrar",
+   "ferrar"
+  ],
+  "sferrier-marriage": [
+   "susan ferrier",
+   "ferrier"
+  ],
+  "ldfessenden-hatsu": [
+   "laura dayton fessenden",
+   "fessenden"
+  ],
+  "emfield-mixed-pickles": [
+   "e. m. field"
+  ],
+  "rmfield-romance-of-an-old-fool": [
+   "roswell martin field"
+  ],
+  "sfield-cupid-s-understudy": [
+   "salisbury field"
+  ],
+  "fvfisher-transformation-of-job": [
+   "frederick vining fisher"
+  ],
+  "rbfiske-count-of-nideck-adapted-from-the-french-of-erckmann": [
+   "ralph browning fiske",
+   "fiske"
+  ],
+  "afisler-stories-of-a-governess": [
+   "annie fisler",
+   "fisler"
+  ],
+  "amfitch-better-days": [
+   "anna m. fitch",
+   "anna mariska fitch",
+   "fitch"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "aeric-boy-crusoe": [
+   45397,
+   "A Boy Crusoe; or, The Golden Treasure of the Virgin Islands"
+  ],
+  "chernst-mark-of-the-knife": [
+   30985,
+   "The Mark of the Knife"
+  ],
+  "cevans-my-neighbors": [
+   16823,
+   "My Neighbors: Stories of the Welsh People"
+  ],
+  "cevans-eurasia": [
+   2352,
+   "Eurasia"
+  ],
+  "seveleth-miss-dexie": [
+   16993,
+   "Miss Dexie"
+  ],
+  "mlbewell-harvest-of-years": [
+   18332,
+   "The Harvest of Years"
+  ],
+  "jewing-history-of-the-9th-scottish-division-1914-1919": [
+   75001,
+   "The history of the 9th (Scottish) Division, 1914-1919"
+  ],
+  "jeyerman-peachmonk": [
+   40253,
+   "Peachmonk"
+  ],
+  "lfalconer-cecilia-de-noel": [
+   15258,
+   "Cecilia de Noël"
+  ],
+  "wcfalkner-white-rose-of-memphis": [
+   41134,
+   "The White Rose of Memphis"
+  ],
+  "vjfarnsworth-house-we-live-in": [
+   65968,
+   "The house we live in"
+  ],
+  "rfarrer-sundered-streams": [
+   62469,
+   "The Sundered Streams: The History of a Memory That Had No Full Stops"
+  ],
+  "sfea-irish-ned-the-winnipeg-newsy": [
+   24309,
+   "Irish Ned The Winnipeg Newsy"
+  ],
+  "cfelix-notting-hill-mystery": [
+   46153,
+   "The Notting Hill Mystery"
+  ],
+  "jfellom-rider-of-the-mohave": [
+   67186,
+   "The rider of the Mohave"
+  ],
+  "asfenn-jack-s-two-sovereigns": [
+   59313,
+   "Jack's Two Sovereigns"
+  ],
+  "efenner-history-of-battery-h-first-regiment-rhode-island-lig": [
+   58681,
+   "The History of Battery H First Regiment Rhode Island Light Artillery in the War to Preserve the Union 1861-1865"
+  ],
+  "klferguson-cliquot": [
+   66587,
+   "Cliquot: A Racing Story of Ideal Beauty"
+  ],
+  "sferguson-father-tom-and-the-pope": [
+   71203,
+   "Father Tom and the Pope"
+  ],
+  "wjferrar-fall-of-the-grand-sarrasin": [
+   14245,
+   "The fall of the Grand Sarrasin"
+  ],
+  "sferrier-marriage": [
+   12669,
+   "Marriage"
+  ],
+  "ldfessenden-hatsu": [
+   58343,
+   "Hatsu"
+  ],
+  "emfield-mixed-pickles": [
+   79239,
+   "Mixed pickles"
+  ],
+  "rmfield-romance-of-an-old-fool": [
+   20661,
+   "The Romance of an Old Fool"
+  ],
+  "sfield-cupid-s-understudy": [
+   3602,
+   "Cupid's Understudy"
+  ],
+  "fvfisher-transformation-of-job": [
+   25688,
+   "The transformation of Job"
+  ],
+  "rbfiske-count-of-nideck-adapted-from-the-french-of-erckmann": [
+   34999,
+   "The Count of Nideck adapted from the French of Erckmann-Chartrian"
+  ],
+  "afisler-stories-of-a-governess": [
+   52572,
+   "Stories of a governess"
+  ],
+  "amfitch-better-days": [
+   67835,
+   "Better days; or, A Millionaire of To-morrow"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 71806 Shuddering castle (copyright line 1936). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "aeric-boy-crusoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allan eric",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chernst-mark-of-the-knife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clayton h. ernst",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cevans-my-neighbors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caradoc evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cevans-eurasia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christopher evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seveleth-miss-dexie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanford eveleth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlbewell-harvest-of-years": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha lewis beckwith ewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jewing-history-of-the-9th-scottish-division-1914-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jeyerman-peachmonk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john eyerman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfalconer-cecilia-de-noel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lanoe falconer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcfalkner-white-rose-of-memphis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william c. falkner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vjfarnsworth-house-we-live-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vesta j. farnsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfarrer-sundered-streams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "reginald farrer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfea-irish-ned-the-winnipeg-newsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel fea",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfelix-notting-hill-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles felix",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfellom-rider-of-the-mohave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fellom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asfenn-jack-s-two-sovereigns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. fenn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efenner-history-of-battery-h-first-regiment-rhode-island-lig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl fenner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "klferguson-cliquot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate lee ferguson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sferguson-father-tom-and-the-pope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel ferguson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjferrar-fall-of-the-grand-sarrasin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john ferrar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sferrier-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susan ferrier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ldfessenden-hatsu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "laura dayton fessenden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emfield-mixed-pickles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmfield-romance-of-an-old-fool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roswell martin field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sfield-cupid-s-understudy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "salisbury field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fvfisher-transformation-of-job": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick vining fisher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbfiske-count-of-nideck-adapted-from-the-french-of-erckmann": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph browning fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afisler-stories-of-a-governess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie fisler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amfitch-better-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna m. fitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

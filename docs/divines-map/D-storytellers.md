@@ -20506,3 +20506,40 @@ Shelf: `pipeline/storytellers-tail-28_shelf.json` (2026-10-22; added at the coor
 | The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion | have | PG 24307, `skellis-twenty-fifth-regiment-connecticut-volunteers-in-the` (341 units) |
 | A Dog Day; or, The Angel in the House | have | PG 51306, `wemanuel-dog-day` (157 units) |
 | Dungeon Rock; or, the pirate's cave, at Lynn | have | PG 72083, `nsemerson-dungeon-rock` (352 units) |
+
+## Storytellers' tail, group 29 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-29_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Allan Eric, Clayton H. Ernst, Caradoc Evans, Christopher Evans, Stanford Eveleth, Martha Lewis Beckwith Ewell, John Ewing, John Eyerman, Lanoe Falconer, William C. Falkner, Vesta J. Farnsworth, Reginald Farrer, Wilbur Finley Fauley, Samuel Fea, Charles Felix, James Fellom, A. S. Fenn, Earl Fenner, Kate Lee Ferguson, Samuel Ferguson, William John Ferrar, Susan Ferrier, Laura Dayton Fessenden, E. M. Field, Roswell Martin Field, Salisbury Field, Frederick Vining Fisher, Ralph Browning Fiske, Annie Fisler, Anna M. Fitch. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Boy Crusoe; or, The Golden Treasure of the Virgin Islands | have | PG 45397, `aeric-boy-crusoe` (570 units) |
+| The Mark of the Knife | have | PG 30985, `chernst-mark-of-the-knife` (879 units) |
+| My Neighbors: Stories of the Welsh People | have | PG 16823, `cevans-my-neighbors` (1019 units) |
+| Eurasia | have | PG 2352, `cevans-eurasia` (102 units) |
+| Miss Dexie | have | PG 16993, `seveleth-miss-dexie` (3545 units) |
+| The Harvest of Years | have | PG 18332, `mlbewell-harvest-of-years` (1911 units) |
+| The history of the 9th (Scottish) Division, 1914-1919 | have | PG 75001, `jewing-history-of-the-9th-scottish-division-1914-1919` (2318 units) |
+| Peachmonk | have | PG 40253, `jeyerman-peachmonk` (140 units) |
+| Cecilia de Noël | have | PG 15258, `lfalconer-cecilia-de-noel` (788 units) |
+| The White Rose of Memphis | have | PG 41134, `wcfalkner-white-rose-of-memphis` (4232 units) |
+| The house we live in | have | PG 65968, `vjfarnsworth-house-we-live-in` (1279 units) |
+| The Sundered Streams: The History of a Memory That Had No Full Stops | have | PG 62469, `rfarrer-sundered-streams` (1516 units) |
+| Irish Ned The Winnipeg Newsy | have | PG 24309, `sfea-irish-ned-the-winnipeg-newsy` (40 units) |
+| The Notting Hill Mystery | have | PG 46153, `cfelix-notting-hill-mystery` (431 units) |
+| The rider of the Mohave | have | PG 67186, `jfellom-rider-of-the-mohave` (1364 units) |
+| Jack's Two Sovereigns | have | PG 59313, `asfenn-jack-s-two-sovereigns` (632 units) |
+| The History of Battery H First Regiment Rhode Island Light Artillery in the War to Preserve the Union 1861-1865 | have | PG 58681, `efenner-history-of-battery-h-first-regiment-rhode-island-lig` (1487 units) |
+| Cliquot: A Racing Story of Ideal Beauty | have | PG 66587, `klferguson-cliquot` (1019 units) |
+| Father Tom and the Pope | have | PG 71203, `sferguson-father-tom-and-the-pope` (200 units) |
+| The fall of the Grand Sarrasin | have | PG 14245, `wjferrar-fall-of-the-grand-sarrasin` (653 units) |
+| Marriage | have | PG 12669, `sferrier-marriage` (2490 units) |
+| Hatsu | have | PG 58343, `ldfessenden-hatsu` (398 units) |
+| Mixed pickles | have | PG 79239, `emfield-mixed-pickles` (952 units) |
+| The Romance of an Old Fool | have | PG 20661, `rmfield-romance-of-an-old-fool` (322 units) |
+| Cupid's Understudy | have | PG 3602, `sfield-cupid-s-understudy` (330 units) |
+| The transformation of Job | have | PG 25688, `fvfisher-transformation-of-job` (892 units) |
+| The Count of Nideck adapted from the French of Erckmann-Chartrian | have | PG 34999, `rbfiske-count-of-nideck-adapted-from-the-french-of-erckmann` (1038 units) |
+| Stories of a governess | have | PG 52572, `afisler-stories-of-a-governess` (673 units) |
+| Better days; or, A Millionaire of To-morrow | have | PG 67835, `amfitch-better-days` (1573 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 71806 Shuddering castle (copyright line 1936). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
