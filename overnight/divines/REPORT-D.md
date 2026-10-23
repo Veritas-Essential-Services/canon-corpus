@@ -1904,3 +1904,6 @@
 
 ## 2026-10-22 22:31 CDT — sydney-c-grier: done
 - sydney-c-grier: new shelf, 15 Gutenberg books, 30,849 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:32 CDT — zona-gale: done
+- zona-gale: new shelf, 14 Gutenberg books, 20,206 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.

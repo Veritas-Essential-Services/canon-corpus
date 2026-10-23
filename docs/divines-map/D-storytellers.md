@@ -14574,3 +14574,25 @@ Shelf: `pipeline/sydney-c-grier_shelf.json` (2026-10-22; added at the coordinato
 | The Heritage | have | PG 66794, `scgrier-heritage` (1795 units) |
 | The Prize | have | PG 66851, `scgrier-prize` (2093 units) |
 | In furthest Ind | have | PG 74298, `scgrier-in-furthest-ind` (1305 units) |
+
+## Zona Gale
+
+Shelf: `pipeline/zona-gale_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Miss Lulu Bett | have | PG 10429, `zgale-miss-lulu-bett` (1734 units) |
+| Romance Island | have | PG 13731, `zgale-romance-island` (1801 units) |
+| Christmas: A Story | have | PG 20516, `zgale-christmas` (1014 units) |
+| Friendship Village | have | PG 26644, `zgale-friendship-village` (1537 units) |
+| A Daughter of the Morning | have | PG 51579, `zgale-daughter-of-the-morning` (1513 units) |
+| Neighborhood Stories | have | PG 52089, `zgale-neighborhood-stories` (1653 units) |
+| Heart's Kindred | have | PG 52317, `zgale-hearts-kindred` (1173 units) |
+| Peace in Friendship Village | have | PG 52410, `zgale-peace-in-friendship-village` (1981 units) |
+| Mothers to Men | have | PG 53650, `zgale-mothers-to-men` (1643 units) |
+| Friendship Village Love Stories | have | PG 54676, `zgale-friendship-village-love-stories` (1525 units) |
+| The Secret Way | have | PG 60146, `zgale-secret-way` (259 units) |
+| When I Was a Little Girl | have | PG 60457, `zgale-when-i-was-a-little-girl` (1868 units) |
+| The loves of Pelleas and Etarre | have | PG 68268, `zgale-loves-of-pelleas-and-etarre` (1907 units) |
+| Yellow gentians and blue | have | PG 78523, `zgale-yellow-gentians-and-blue` (598 units) |
+| repeat-editions | excluded | PG 77922: second Gutenberg editions of titles already on the shelf. |
