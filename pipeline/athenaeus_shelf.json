@@ -24,7 +24,16 @@
    "tr. Charles Duke Yonge"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "athenaeus-gulick-v2": [
+   "athenaeusdeipnos0000char",
+   "The Deipnosophists, tr. Charles Burton Gulick, vol. II (Loeb, 1928); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "athenaeus-gulick-v3": [
+   "athenaeus0000char",
+   "The Deipnosophists, tr. Charles Burton Gulick, vol. III (Loeb, 1929; this copy the 1967 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
  "_surname": [
   "athenaeus",
   "athenæus"
@@ -32,12 +41,14 @@
  "_translators": {
   "athenaeus-yonge-v1": "Charles Duke Yonge",
   "athenaeus-yonge-v2": "Charles Duke Yonge",
-  "athenaeus-yonge-v3": "Charles Duke Yonge"
+  "athenaeus-yonge-v3": "Charles Duke Yonge",
+  "athenaeus-gulick-v2": "Charles Burton Gulick",
+  "athenaeus-gulick-v3": "Charles Burton Gulick"
  },
  "_checks": {
   "athenaeus-yonge-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "athenaeus",
    "translator_claimed": "Charles Duke Yonge",
@@ -49,7 +60,7 @@
   },
   "athenaeus-yonge-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "athenaeus",
    "translator_claimed": "Charles Duke Yonge",
@@ -61,7 +72,7 @@
   },
   "athenaeus-yonge-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "athenaeus",
    "translator_claimed": "Charles Duke Yonge",
@@ -70,6 +81,32 @@
    "pg_copyrighted": false,
    "pg_translator": "Charles Duke Yonge",
    "translator_match": true
+  },
+  "athenaeus-gulick-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "Charles Burton Gulick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "athenaeus-gulick-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "Charles Burton Gulick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {

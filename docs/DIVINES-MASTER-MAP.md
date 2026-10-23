@@ -11380,6 +11380,8 @@ Shelf: `pipeline/athenaeus_shelf.json`. Yonge (Gutenberg, 3 vols.).
 | The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 1 | Charles Duke Yonge | `athenaeus-yonge-v1` | have (PG 36921) |
 | The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 2 | Charles Duke Yonge | `athenaeus-yonge-v2` | have (PG 65023) |
 | The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 3 | Charles Duke Yonge | `athenaeus-yonge-v3` | have (PG 66508) |
+| The Deipnosophists, tr. Charles Burton Gulick, vol. II (Loeb, 1928); Greek facing, kept per Adam's 2026-10-23 ruling |  | `athenaeus-gulick-v2` | have-raw (IA `athenaeusdeipnos0000char`) |
+| The Deipnosophists, tr. Charles Burton Gulick, vol. III (Loeb, 1929; this copy the 1967 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `athenaeus-gulick-v3` | have-raw (IA `athenaeus0000char`) |
 
 ## Procopius
 
