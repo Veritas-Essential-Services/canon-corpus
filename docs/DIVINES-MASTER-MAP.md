@@ -38562,3 +38562,29 @@ Shelf: `pipeline/emma-leslie_shelf.json` (2026-10-22; added at the coordinator's
 | Hetty's garden-party, and what came of it | have | PG 76619, `eleslie-hettys-garden-party-and-what-came-of-it` (267 units) |
 | Hidden seed | have | PG 76694, `eleslie-hidden-seed` (562 units) |
 | Esther's triumph | have | PG 79169, `eleslie-esthers-triumph` (636 units) |
+
+## Bernard Capes
+
+Shelf: `pipeline/bernard-capes_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ghost stories, romances and mysteries. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| At a Winter's Fire | have | PG 14045, `bcapes-at-a-winters-fire` (1527 units) |
+| A Jay of Italy | have | PG 44114, `bcapes-jay-of-italy` (2756 units) |
+| The Lake of Wine | have | PG 66415, `bcapes-lake-of-wine` (3874 units) |
+| Our Lady of Darkness | have | PG 66489, `bcapes-our-lady-of-darkness` (3271 units) |
+| The skeleton key | have | PG 68628, `bcapes-skeleton-key` (1651 units) |
+| A rogue's tragedy | have | PG 68667, `bcapes-rogues-tragedy` (2196 units) |
+| The mill of silence | have | PG 68688, `bcapes-mill-of-silence` (3956 units) |
+| The secret in the hill | have | PG 68712, `bcapes-secret-in-the-hill` (1784 units) |
+| Adventures of the Comte de la Muette during the Reign of Terror | have | PG 69579, `bcapes-adventures-of-the-comte-de-la-muette-during-the-reign` (2218 units) |
+| Where England sets her feet: a romance | have | PG 69651, `bcapes-where-england-sets-her-feet` (2076 units) |
+| Moll Davis: a comedy | have | PG 69720, `bcapes-moll-davis` (2053 units) |
+| The extraordinary confessions of Diana Please | have | PG 69885, `bcapes-extraordinary-confessions-of-diana-please` (2444 units) |
+| The great Skene mystery | have | PG 70048, `bcapes-great-skene-mystery` (2251 units) |
+| Gilead Balm, knight errant | have | PG 70105, `bcapes-gilead-balm-knight-errant` (1973 units) |
+| The pot of basil | have | PG 70265, `bcapes-pot-of-basil` (1980 units) |
+| Historical vignettes, 1st series | have | PG 70642, `bcapes-historical-vignettes-1st-series` (1351 units) |
+| Historical vignettes, 2nd series | have | PG 70685, `bcapes-historical-vignettes-2nd-series` (1095 units) |
+| The story of Fifine | have | PG 71461, `bcapes-story-of-fifine` (1972 units) |
+| Loaves and fishes | have | PG 71615, `bcapes-loaves-and-fishes` (2447 units) |
