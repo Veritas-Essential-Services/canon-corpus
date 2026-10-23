@@ -44519,3 +44519,15 @@ Shelf: `pipeline/katherine-mansfield_shelf.json` (2026-10-22; added at the coord
 | Bliss, and other stories | have | PG 44385, `kmansfield-bliss-and-other-stories` (1637 units) |
 | Poems | have | PG 59276, `kmansfield-poems` (288 units) |
 | The Doves' Nest, and Other Stories | have | PG 66871, `kmansfield-doves-nest-and-other-stories` (875 units) |
+
+## Julia Magruder
+
+Shelf: `pipeline/julia-magruder_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Beautiful Alien | have | PG 25989, `jmagruder-beautiful-alien` (712 units) |
+| A Manifest Destiny | have | PG 30464, `jmagruder-manifest-destiny` (834 units) |
+| The Princess Sonia | have | PG 62637, `jmagruder-princess-sonia` (787 units) |
+| Across the Chasm | have | PG 63250, `jmagruder-across-the-chasm` (1141 units) |
+| Miss Ayr of Virginia, & other stories | have | PG 74718, `jmagruder-miss-ayr-of-virginia-other-stories` (1020 units) |
