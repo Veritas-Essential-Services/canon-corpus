@@ -13047,6 +13047,23 @@ Slugs `ehbickersteth-*`. Built from title pages read for round 66.
 | Yesterday, to-day, and for ever : a poem, in twelve books (London : Rivingtons, 1866) | have-ocr | IA `todayfo00bick` |
 | The spirit of life : or Scripture testimony to the divine person and work of the Holy Ghost (London : The Religious Trat Society, 1869) | have-ocr | IA `thespiritoflifeo00bickuoft` |
 | His father's A Scripture Help (which he re-edited); The Hymnal Companion (compiled); Ocean Melodies (a collection by others) | excluded | |
+
+## Edward Garbett (round 66, my pick, 2026-10-23)
+
+Slugs `egarbett-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| The soul's life: its commencement, progress and maturity (London : The Religious Tract Society, [186) | have-ocr | IA `soulslifeitscomm00garbiala` |
+| The Divine plan of revelation : an argument from internal evidence in support of the structural unity of the Bible (London : Hamilton, Adams, 1864) | have-ocr | IA `divineplanofreve00garb` |
+| The family prayer book; or, Morning and evening prayers for every day in the year, with prayers and thanksgivings for special occasions (London, Cassell, Petter, and Galpin, 1864) | have-ocr | IA `familyprayerbook00garbrich` |
+| Religion in daily life (Religious Tract Society, 1865, 1865) | have-ocr | IA `religionindaily00garbgoog` |
+| God's word written : the doctrine of the inspiration of holy scripture explained and enforced (London : Religious tract society, 1866) | have-ocr | IA `godswordwrittend00garb` |
+| The dogmatic faith: an inquiry into the relation subsisting between revelation and dogma : in eight lectures preached before the University of Oxford in the year 1867 (London : Rivingtons, 1867) | have-ocr | IA `dogmaticfaithinq00garb` |
+| The obligations of truth in religious controversy: a critical examination of a pamphlet [by C.N (catalogued 1874) | have-ocr | IA `obligationstrut00garbgoog` |
+| Morning, noon, and night (catalogued 1880) | have-ocr | IA `morningnoonandn00garbgoog` |
+| pentateuchitsaut00garb: The Pentateuch and its Authority, a review of Colenso 'reprinted from the Record newspaper' (1863), published without the author's name; Garbett edited the Record, but nothing in the scan names him | pending | not shelved |
+| Edward Lacy Garbett's Rudimentary Treatise on Design in Architecture (1850) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
