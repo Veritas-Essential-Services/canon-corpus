@@ -11236,3 +11236,21 @@ Shelf: `pipeline/henry-furneaux_shelf.json`. Tacitus: Annals (2 vols), Germania,
 | Cornelii Taciti De Germania, edited with introduction, notes and map (Oxford: Clarendon Press, 1894) |  | `henry-furneaux-germania-1894` | have-raw (IA `degermaniaedited00taciuoft`) |
 | Cornelii Taciti Vita Agricolae, edited with introduction, notes and map (Oxford: Clarendon Press, 1898) |  | `henry-furneaux-agricola-1898` | have-raw (IA `vitaagricolaeedi00taciuoft`) |
 
+## W. J. M. Starkie (1860-1920)
+
+Shelf: `pipeline/w-j-m-starkie_shelf.json`. Aristophanes: Wasps (1897), Acharnians (1909) and Clouds (1911), the last two with English prose translation. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Wasps of Aristophanes, with introduction, metrical analysis, critical notes and commentary (London: Macmillan, 1897); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `w-j-m-starkie-wasps-1897` | have-raw (IA `waspsaris00aris`) |
+| The Acharnians of Aristophanes, with introduction, English prose translation, critical notes and commentary (London: Macmillan, 1909); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `w-j-m-starkie-acharnians-1909` | have-raw (IA `achar00niansofarisarisrich`) |
+| The Clouds of Aristophanes, with introduction, English prose translation, critical notes and commentary, including a new transcript of the scholia in the Codex Venetus Marcianus 474 (London: Macmillan, 1911); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `w-j-m-starkie-clouds-1911` | have-raw (IA `cloudsofaristoph00aris_0`) |
+
+## W. W. Merry (1835-1918)
+
+Shelf: `pipeline/w-w-merry_shelf.json`. Homer's Odyssey I-XII with James Riddell, 2nd ed. 1886. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., by W. Walter Merry and James Riddell, second edition revised (Oxford: Clarendon Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-odyssey-i-xii-1886` | have-raw (IA `odysseyho01home`) |
+
