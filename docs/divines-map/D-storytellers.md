@@ -13418,3 +13418,29 @@ Shelf: `pipeline/george-cary-eggleston_shelf.json` (2026-10-22; added at the coo
 | Dorothy South: A Love Story of Virginia Just Before the War | have | PG 52148, `gceggleston-dorothy-south` (1438 units) |
 | Westover of Wanalah: A story of love and life in Old Virginia | have | PG 60398, `gceggleston-westover-of-wanalah` (1580 units) |
 | Southern Soldier Stories | have | PG 67301, `gceggleston-southern-soldier-stories` (1324 units) |
+
+## Eglanton Thorne
+
+Shelf: `pipeline/eglanton-thorne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Religious Tract Society stories. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A tale of three weeks | have | PG 70935, `ethorne-tale-of-three-weeks` (282 units) |
+| The wizard's cave | have | PG 70936, `ethorne-wizards-cave` (381 units) |
+| Aunt Patty's paying guests | have | PG 71761, `ethorne-aunt-pattys-paying-guests` (1581 units) |
+| An elder brother | have | PG 71948, `ethorne-elder-brother` (597 units) |
+| As many as touched Him | have | PG 72273, `ethorne-as-many-as-touched-him` (534 units) |
+| Beryl's triumph | have | PG 72721, `ethorne-beryls-triumph` (1482 units) |
+| Worthy of his name | have | PG 73340, `ethorne-worthy-of-his-name` (1021 units) |
+| A sham princess | have | PG 73824, `ethorne-sham-princess` (698 units) |
+| Her own way | have | PG 74007, `ethorne-her-own-way` (1788 units) |
+| Aldyth's inheritance | have | PG 74544, `ethorne-aldyths-inheritance` (2422 units) |
+| The old Worcester jug | have | PG 75600, `ethorne-old-worcester-jug` (764 units) |
+| Reuben Roy's temptations | have | PG 76282, `ethorne-reuben-roys-temptations` (569 units) |
+| Ida Nicolari | have | PG 76917, `ethorne-ida-nicolari` (1752 units) |
+| A little Protestant in Rome | have | PG 77485, `ethorne-little-protestant-in-rome` (599 units) |
+| Maud Marian, artist | have | PG 77861, `ethorne-maud-marian-artist` (1971 units) |
+| My brother's friend | have | PG 77999, `ethorne-my-brothers-friend` (2006 units) |
+| "It's all real true" | have | PG 79227, `ethorne-its-all-real-true` (894 units) |
+| Phil's mother | have | PG 79355, `ethorne-phils-mother` (728 units) |
+| Midst granite hills | have | PG 79459, `ethorne-midst-granite-hills` (332 units) |

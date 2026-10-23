@@ -3925,6 +3925,14 @@
       "started": "2026-10-22T22:15:26-05:00",
       "finished": "2026-10-22T22:15:26-05:00",
       "notes": "george-cary-eggleston: new shelf, 20 Gutenberg books, 25,996 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "eglanton-thorne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Eglanton Thorne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:29-05:00",
+      "finished": "2026-10-22T22:15:29-05:00",
+      "notes": "eglanton-thorne: new shelf, 19 Gutenberg books, 20,401 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
