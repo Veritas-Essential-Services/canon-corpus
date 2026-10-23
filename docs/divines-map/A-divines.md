@@ -16461,3 +16461,20 @@ Slugs `crothers-*`. Built from title pages read for round 103.
 | The endless life (Boston : Houghton, Mifflin, 1905) | have-ocr | IA `endlesslife00crot_0` |
 | The Gentle Reader, The Pardoner's Wallet, Miss Muffet's Christmas Party (literary essays and a children's book) | excluded | |
 | Being and Doing (several authors) | excluded | |
+
+## Robert Collyer (round 103, my pick, 2026-10-23)
+
+Slugs `collyer-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| The fear of God : a sermon preached in Unity Church, Chicago on Sunday Morning, November 9, 1862 (Chicago : Tribune Book and Job Steam Printing Office, 1862) | have-ocr | IA `fearofgodsermonp00coll` |
+| Nature and life : sermons (Boston : Horace B. Fuller, 1868) | have-ocr | IA `naturelifesermon00colliala` |
+| A man in earnest: life of A. H. Conant (Boston, H. B. Fuller; Chicago, J. R. Walsh, 1868) | have-ocr | IA `maninearnestlife00coll` |
+| The Unity Church fraternity : a sermon (Chicago : Robert Fergus' Sons, 1869) | have-ocr | IA `unitychurchfrate00coll` |
+| The life that now is; sermons (Boston : Fuller, 1871) | have-ocr | IA `lifethatnowisser00colliala` |
+| The Simple Truth (Lee and Shepard Publishers, 1877) | have-ocr | IA `simpletruth0000robe` |
+| Talks to young men (with asides to young women) (Boston, Lee and Shepard; New York, C. T. Dillingham, 1888) | have-ocr | IA `talkstoyoungmenw00coll` |
+| Things new and old, sermons (New York, Dutton, 1893) | have-ocr | IA `thingsnewold00colluoft` |
+| Ilkley, Ancient and Modern (local history, with J. Horsfall Turner) | excluded | |
+| Robert H. Collyer's phrenology and anaesthesia books (a different man) | excluded | |
