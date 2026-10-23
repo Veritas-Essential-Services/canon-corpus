@@ -16769,6 +16769,19 @@ Slugs `macwhorter-*`. Built from title pages read for round 106.
 | A series of sermons, upon the most important principles of our holy religion, vol. 1 (Newark, Printed by Pennington & Gould, for the author, 1803) | have-ocr | IA `seriesofsermonsu01macw` |
 | Sermons on the most important principles of our holy religion, vol. 2 (Newark : Printed by Pennington & Gould, 1803) | have-ocr | IA `sermonsonmostimp02macw` |
 | Yahveh Christ (1857), by a later Alexander MacWhorter | excluded | |
+
+## Daniel Merrill (round 106, my pick, 2026-10-23)
+
+Slugs `dmerrill-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| Open communion with all who keep the ordinances as Christ delivered them to the saints : eight letters on open communion, addressed to Rufus Anderson (Boston : Printed and sold by Manning & Loring, 1805) | have-ocr | IA `opencommunionwit00merr` |
+| Twelve letters addressed to Rev. Samuel Austin, A.M. : in which his vindication of partial washing for Christian baptism, contained in ten letters, is reviewed and disproved (Boston : Printed by Manning & Loring, 1806) | have-ocr | IA `twelvelettersadd00merr` |
+| The mode and subjects of baptism examined in seven sermons ([n.p.], 1812) | have-ocr | IA `modesubjectsofba00merr` |
+| Balaam disappointed. A thanksgiving sermon, delivered at Nottingham-West, April 13, 1815. A day recommended by the national government, in which to rehearse God's mighty acts, and praise his name (Concord [N.H.] : Printed by Isaac & W.R. Hill, 1815) | have-ocr | IA `balaamdisappoint00merr` |
+| The gospel church vindicated by the Scriptures (Concord : Printed by Hill & Moore, 1819) | have-ocr | IA `gospelchurchvind00merr` |
+| A Thorough Method with Mr. Peter Edwards (by another hand) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
