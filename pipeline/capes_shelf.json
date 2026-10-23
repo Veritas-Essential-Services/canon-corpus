@@ -1,5 +1,5 @@
 {
- "_about": "William Wolfe Capes (1834-1914), Reader in Ancient History at Oxford: Roman History: The Early Empire (Longmans, 1876) and University Life in Ancient Athens (Longmans, 1877), raw IA OCR. His Stoicism (SPCK) is held back: the scan's imprint year is illegible. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "William Wolfe Capes (1834-1914), Reader in Ancient History at Oxford: Roman History: The Early Empire (Longmans, 1876) and University Life in Ancient Athens (Longmans, 1877), raw IA OCR. His Stoicism (SPCK) is held back: the scan's imprint year is illegible. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Added 2026-10-23 (round de): The Roman Empire of the Second Century (Epochs of Ancient History).",
  "_name_words": [
   "capes"
  ],
@@ -18,12 +18,16 @@
   "capes-university-life-athens-1877": [
    "1877universityli00capeuoft",
    "University Life in Ancient Athens (London: Longmans, Green, 1877)"
+  ],
+  "capes-roman-empire-second-century": [
+   "romanempireseco01unkngoog",
+   "The Roman Empire of the Second Century, or the Age of the Antonines (Epochs of Ancient History; London: Longmans, Green, 1876; this printing 1887)"
   ]
  },
  "_checks": {
   "capes-early-empire-1876": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. capes",
    "identity": "ok",
@@ -34,12 +38,23 @@
   },
   "capes-university-life-athens-1877": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. w. capes",
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "capes-roman-empire-second-century": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
