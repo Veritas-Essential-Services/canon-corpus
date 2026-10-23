@@ -1,0 +1,403 @@
+{
+ "_about": "Public-domain George Hodges (1856-1919), Episcopal priest and Dean of the Episcopal Theological School, Cambridge, Massachusetts, for the Word Hoard: his sermons and essays (Christianity between Sundays, The Heresy of Cain, The Human Nature of the Saints, The Battles of Peace, Everyman's Religion), church history (Fountains Abbey, Three Hundred Years of the Episcopal Church in America, Saints and Heroes, The Early Church), Bible stories and guides for children, and his life of Bishop Henry Codman Potter. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 86 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george hodges"
+ ],
+ "_surname": [
+  "george hodges",
+  "hodges"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hodges-christianity-between-sundays": [
+   "christianitybetw00hodg",
+   "Christianity between Sundays (New York, T. Whittaker, 1892)"
+  ],
+  "hodges-heresy-of-cain": [
+   "heresyofcain00hodgrich",
+   "The heresy of Cain (New York : Macmillan, 1914)"
+  ],
+  "hodges-human-nature-saints": [
+   "humannatureofsai00hodgrich",
+   "The human nature of the saints (New York : Macmillan, 1914)"
+  ],
+  "hodges-when-king-came": [
+   "whenkingcamestor00hodg",
+   "When the King came; stories from the four Gospels (Boston, New York : Houghton, Mifflin and company, 1904)"
+  ],
+  "hodges-fountains-abbey": [
+   "fountainsabbeyst00hodguoft",
+   "Fountains Abbey : the story of a mediaeval monastery (London, J. Murray, 1904)"
+  ],
+  "hodges-cross-passion": [
+   "crosspassiongoo00hodg",
+   "The cross and passion : Good Friday addresses (New York, T. Whittaker, 1904)"
+  ],
+  "hodges-three-hundred-years": [
+   "threehundredyear00hodg",
+   "Three hundred years of the Episcopal Church in America (Philadelphia, For the Missionary Thank Offering Committee by G.W. Jacobs & Co, [190)"
+  ],
+  "hodges-happy-family": [
+   "happyfamily00hodg",
+   "The happy family (New York : Thomas Y. Crowell & co. Publishers, 1906)"
+  ],
+  "hodges-pursuit-happiness": [
+   "pursuitofhappine00hodg",
+   "The pursuit of happiness (New York, Doubleday, Page & company, 1906)"
+  ],
+  "hodges-institutional-church": [
+   "administrationof00hodg",
+   "The administration of an institutional Church : a detailed account of the operation of St. George's Parish in the city of New York (New York ; London : Harper & Brothers, 1906)"
+  ],
+  "hodges-garden-of-eden": [
+   "gardenofedenstor00hodg",
+   "The garden of Eden, stories from the first nine books of the Old Testament (Boston, New York, Houghton Mifflin Company, 1909)"
+  ],
+  "hodges-everyman-religion": [
+   "everymansreligio0000hodg",
+   "Everyman's religion (The Macmillan company, 1911)"
+  ],
+  "hodges-saints-heroes-1": [
+   "saintsheroestoen00hodg",
+   "Saints and heroes to the end of the middle ages (New York, H. Holt and company, 1911)"
+  ],
+  "hodges-training-children": [
+   "trainingofchildr0000hodg",
+   "The training of children in religion (New York, Appleton, 1911)"
+  ],
+  "hodges-child-guide-bible": [
+   "childsguidetobib00hodg",
+   "A child's guide to the Bible (New York : Baker & Taylor, 1911)"
+  ],
+  "hodges-saints-heroes-2": [
+   "saintsheroessinc00hodg",
+   "Saints and heroes since the Middle Ages (New York : H. Holt, 1912)"
+  ],
+  "hodges-castle-of-zion": [
+   "castleofzionstor00hodg",
+   "The castle of Zion; stories from the Old Testament (Boston and New York : Houghton Mifflin company, 1912)"
+  ],
+  "hodges-classbook-ot": [
+   "classbookofoldte00hodg",
+   "Classbook of Old Testament history (New York, The Macmillan company, 1913)"
+  ],
+  "hodges-year-of-grace-2": [
+   "yearofgracetrini00hodg",
+   "The year of grace : Trinity to Advent (New York : The Macmillan Company, 1914)"
+  ],
+  "hodges-battles-of-peace": [
+   "battlesofpeace00hodg",
+   "The battles of peace (New York, Macmillan, 1914)"
+  ],
+  "hodges-henry-codman-potter": [
+   "henrycodmanpotte0000hodg",
+   "Henry Codman Potter, seventh bishop of New York (New York, Macmillan, 1915)"
+  ],
+  "hodges-early-church": [
+   "earlychurchfromi00hodg",
+   "The early church from Ignatius to Augustine (Boston and new York, Houghton Mifflin company, 1915)"
+  ],
+  "hodges-episcopal-church": [
+   "episcopalchurchi00hodg",
+   "The Episcopal church; its faith and order (New York, The Macmillan company, 1915)"
+  ],
+  "hodges-world-at-war": [
+   "religioninworlda00hodg",
+   "Religion in a world at war (New York, Macmillan, 1917)"
+  ],
+  "hodges-how-to-know-bible": [
+   "howtoknowbible0000hodg",
+   "How to know the Bible (Indianapolis : Bobbs-Merrill, 1918)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hodges-secular": "school readers (Golden Door Book, Golden Word Book), William Penn, Holderness, The Apprenticeship of Washington, temperance and philanthropy addresses",
+  "hodges-multi": "Organized Labor and Capital, The Religious History of New England, and the Sneath-Hodges school manuals (many authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hodges-year-of-grace-1": "The Year of Grace, Advent to Trinity: only a 29-image microfiche (MN41849ucmf_0) found; needs a full scan"
+ },
+ "_translators": {},
+ "_checks": {
+  "hodges-christianity-between-sundays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hodges-heresy-of-cain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914, c1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-human-nature-saints": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914, c1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-when-king-came": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-fountains-abbey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-cross-passion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-three-hundred-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-happy-family": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-pursuit-happiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hodges-institutional-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-garden-of-eden": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-everyman-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-saints-heroes-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-training-children": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-child-guide-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-saints-heroes-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-castle-of-zion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-classbook-ot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-year-of-grace-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-battles-of-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-henry-codman-potter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-early-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-episcopal-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodges-world-at-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodges-how-to-know-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hodges",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

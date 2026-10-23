@@ -14734,6 +14734,41 @@ Slugs `cheyne-*`. Built from title pages read for round 86.
 | The reconciliation of races and religions (London, A. and C. Black, 1914) | have-ocr | IA `reconciliationof0000chey` |
 | Fresh voyages on unfrequented waters (London : A. and C. Black, 1914) | have-ocr | IA `freshvoyagesonun00cheyrich` |
 | Encyclopaedia Biblica (many contributors) and the Variorum Teacher's Bible (edited); Das religiöse Leben der Juden (German translation by others); his journal articles | excluded | |
+
+## George Hodges (round 86, my pick, 2026-10-23)
+
+Slugs `hodges-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity between Sundays (New York, T. Whittaker, 1892) | have-ocr | IA `christianitybetw00hodg` |
+| The heresy of Cain (New York : Macmillan, 1914) | have-ocr | IA `heresyofcain00hodgrich` |
+| The human nature of the saints (New York : Macmillan, 1914) | have-ocr | IA `humannatureofsai00hodgrich` |
+| When the King came; stories from the four Gospels (Boston, New York : Houghton, Mifflin and company, 1904) | have-ocr | IA `whenkingcamestor00hodg` |
+| Fountains Abbey : the story of a mediaeval monastery (London, J. Murray, 1904) | have-ocr | IA `fountainsabbeyst00hodguoft` |
+| The cross and passion : Good Friday addresses (New York, T. Whittaker, 1904) | have-ocr | IA `crosspassiongoo00hodg` |
+| Three hundred years of the Episcopal Church in America (Philadelphia, For the Missionary Thank Offering Committee by G.W. Jacobs & Co, [190) | have-ocr | IA `threehundredyear00hodg` |
+| The happy family (New York : Thomas Y. Crowell & co. Publishers, 1906) | have-ocr | IA `happyfamily00hodg` |
+| The pursuit of happiness (New York, Doubleday, Page & company, 1906) | have-ocr | IA `pursuitofhappine00hodg` |
+| The administration of an institutional Church : a detailed account of the operation of St. George's Parish in the city of New York (New York ; London : Harper & Brothers, 1906) | have-ocr | IA `administrationof00hodg` |
+| The garden of Eden, stories from the first nine books of the Old Testament (Boston, New York, Houghton Mifflin Company, 1909) | have-ocr | IA `gardenofedenstor00hodg` |
+| Everyman's religion (The Macmillan company, 1911) | have-ocr | IA `everymansreligio0000hodg` |
+| Saints and heroes to the end of the middle ages (New York, H. Holt and company, 1911) | have-ocr | IA `saintsheroestoen00hodg` |
+| The training of children in religion (New York, Appleton, 1911) | have-ocr | IA `trainingofchildr0000hodg` |
+| A child's guide to the Bible (New York : Baker & Taylor, 1911) | have-ocr | IA `childsguidetobib00hodg` |
+| Saints and heroes since the Middle Ages (New York : H. Holt, 1912) | have-ocr | IA `saintsheroessinc00hodg` |
+| The castle of Zion; stories from the Old Testament (Boston and New York : Houghton Mifflin company, 1912) | have-ocr | IA `castleofzionstor00hodg` |
+| Classbook of Old Testament history (New York, The Macmillan company, 1913) | have-ocr | IA `classbookofoldte00hodg` |
+| The year of grace : Trinity to Advent (New York : The Macmillan Company, 1914) | have-ocr | IA `yearofgracetrini00hodg` |
+| The battles of peace (New York, Macmillan, 1914) | have-ocr | IA `battlesofpeace00hodg` |
+| Henry Codman Potter, seventh bishop of New York (New York, Macmillan, 1915) | have-ocr | IA `henrycodmanpotte0000hodg` |
+| The early church from Ignatius to Augustine (Boston and new York, Houghton Mifflin company, 1915) | have-ocr | IA `earlychurchfromi00hodg` |
+| The Episcopal church; its faith and order (New York, The Macmillan company, 1915) | have-ocr | IA `episcopalchurchi00hodg` |
+| Religion in a world at war (New York, Macmillan, 1917) | have-ocr | IA `religioninworlda00hodg` |
+| How to know the Bible (Indianapolis : Bobbs-Merrill, 1918) | have-ocr | IA `howtoknowbible0000hodg` |
+| The Year of Grace, Advent to Trinity: only a 29-image microfiche (MN41849ucmf_0) found; needs a full scan | pending | not shelved |
+| school readers (Golden Door Book, Golden Word Book), William Penn, Holderness, The Apprenticeship of Washington, temperance and philanthropy addresses | excluded | |
+| Organized Labor and Capital, The Religious History of New England, and the Sneath-Hodges school manuals (many authors) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
