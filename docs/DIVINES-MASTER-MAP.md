@@ -43108,3 +43108,17 @@ Shelf: `pipeline/robert-montgomery-bird_shelf.json` (2026-10-22; added at the co
 | Sheppard Lee, Written by Himself. Vol. 1 (of 2) | have | PG 46621, `rmbird-sheppard-lee-written-by-himself-vol-1-of-2` (865 units) |
 | Sheppard Lee, Written by Himself. Vol. 2 (of 2) | have | PG 46622, `rmbird-sheppard-lee-written-by-himself-vol-2-of-2` (811 units) |
 | The Hawks of Hawk-Hollow: A Tradition of Pennsylavania | have | PG 65637, `rmbird-hawks-of-hawk-hollow` (1872 units) |
+
+## W. L. Alden
+
+Shelf: `pipeline/w-l-alden_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Jimmy Brown | have | PG 57844, `wlalden-adventures-of-jimmy-brown` (511 units) |
+| The cruise of the Canoe Club | have | PG 68322, `wlalden-cruise-of-the-canoe-club` (517 units) |
+| Told by the Colonel | have | PG 68468, `wlalden-told-by-the-colonel` (246 units) |
+| The moral pirates | have | PG 68732, `wlalden-moral-pirates` (425 units) |
+| A new Robinson Crusoe | have | PG 70016, `wlalden-new-robinson-crusoe` (618 units) |
+| Christopher Columbus (1440-1506) | have | PG 71569, `wlalden-christopher-columbus-1440-1506` (494 units) |
+| The loss of the Swansea | have | PG 76536, `wlalden-loss-of-the-swansea` (567 units) |
