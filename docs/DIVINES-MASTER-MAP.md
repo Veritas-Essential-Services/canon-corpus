@@ -40922,3 +40922,20 @@ Shelf: `pipeline/frank-norris_shelf.json` (2026-10-22; added at the coordinator'
 | A man's woman | have | PG 16096, `fnorris-mans-woman` (1384 units) |
 | The Surrender of Santiago An Account of the Historic Surrender of Santiago to General Shafter, July 17, 1898 | have | PG 26026, `fnorris-surrender-of-santiago-an-account-of-the-historic-sur` (66 units) |
 | The Third Circle | have | PG 48620, `fnorris-third-circle` (943 units) |
+
+## Anne Warner
+
+Shelf: `pipeline/anne-warner_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Humorous novels and stories. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rejuvenation of Aunt Mary | have | PG 15775, `awarner-rejuvenation-of-aunt-mary` (2537 units) |
+| Susan Clegg and Her Friend Mrs. Lathrop | have | PG 15899, `awarner-susan-clegg-and-her-friend-mrs-lathrop` (729 units) |
+| Susan Clegg and Her Neighbors' Affairs | have | PG 18987, `awarner-susan-clegg-and-her-neighbors-affairs` (396 units) |
+| Susan Clegg and a Man in the House | have | PG 22872, `awarner-susan-clegg-and-a-man-in-the-house` (585 units) |
+| A Woman's Will | have | PG 27225, `awarner-womans-will` (3421 units) |
+| Seeing France with Uncle John | have | PG 35574, `awarner-seeing-france-with-uncle-john` (398 units) |
+| The Tigress | have | PG 37236, `awarner-tigress` (3086 units) |
+| Susan Clegg and Her Love Affairs | have | PG 37289, `awarner-susan-clegg-and-her-love-affairs` (776 units) |
+| In a Mysterious Way | have | PG 37515, `awarner-in-a-mysterious-way` (2290 units) |
+| Sunshine Jane | have | PG 37972, `awarner-sunshine-jane` (1516 units) |

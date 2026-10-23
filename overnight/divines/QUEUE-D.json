@@ -4701,6 +4701,14 @@
       "started": "2026-10-22T22:40:12-05:00",
       "finished": "2026-10-22T22:40:12-05:00",
       "notes": "frank-norris: new shelf, 10 Gutenberg books, 16,149 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "anne-warner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anne Warner; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:42:11-05:00",
+      "finished": "2026-10-22T22:42:11-05:00",
+      "notes": "anne-warner: new shelf, 10 Gutenberg books, 15,734 units, 152 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
