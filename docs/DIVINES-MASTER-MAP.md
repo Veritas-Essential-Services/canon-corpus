@@ -47524,3 +47524,40 @@ Shelf: `pipeline/storytellers-tail-47_shelf.json` (2026-10-22; added at the coor
 | The Angel Over the Right Shoulder; Or, The Beginning of a New Year | have | PG 11033, `htrusta-angel-over-the-right-shoulder` (75 units) |
 | The Wyoming Military Establishment. A History of the Twenty-fourth Regiment of Connecticut Militia An Address Before the Tioga Point Historical Society, Delivered December 3rd, 1901 | have | PG 60361, `ctubbs-wyoming-military-establishment-a-history-of-the-twent` (260 units) |
 | Hansford: A Tale of Bacon's Rebellion | have | PG 31866, `sgtucker-hansford` (1705 units) |
+
+## Storytellers' tail, group 48 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-48_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Margaret Turnbull, Cornelia L. Tuthill, Anna Cogswell Tyler, J. Aubrey Tyson, Mario Uchard, H. D. Umbstaetter, Edward F. Underhill, Bertha Upton, Charlotte M. Vaile, Juan Valera, Margaret Vandegrift, Alfred J. Vaughan, Frances Bowyer Vaux, Michel Verne, John Fulford Vicary, Herman Knickerbocker Vielé, Villamaria, Julius Vogel, F. Volkhovskii, Felix Voorhies, Blanche Elizabeth Wade, Mary T. Waggaman, Mary Spring Walker, W. W. Walker, William Sidney Walker, A. Stewart Walsh, Elizabeth H. Walshe, Arthur B. Waltermire, Wilfrid Ward, George Waring. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| W. A. G.'s Tale | have | PG 9844, `mturnbull-w-a-g-s-tale` (346 units) |
+| Hurrah for New England! Or, The Virginia Boy's Vacation | have | PG 11120, `cltuthill-hurrah-for-new-england-or-the-virginia-boy-s-vacat` (267 units) |
+| Twenty-Four Unusual Stories for Boys and Girls | have | PG 34618, `actyler-twenty-four-unusual-stories-for-boys-and-girls` (1143 units) |
+| The barge of haunted lives | have | PG 77879, `jatyson-barge-of-haunted-lives` (2368 units) |
+| French and Oriental Love in a Harem | have | PG 21868, `muchard-french-and-oriental-love-in-a-harem` (1590 units) |
+| The red-hot dollar, and other stories from the Black Cat | have | PG 75099, `hdumbstaetter-red-hot-dollar-and-other-stories-from-the-blac` (473 units) |
+| The History and Records of the Elephant Club | have | PG 32274, `efunderhill-history-and-records-of-the-elephant-club` (1228 units) |
+| The Adventure of Two Dutch Dolls and a 'Golliwogg' | have | PG 16770, `bupton-adventure-of-two-dutch-dolls-and-a-golliwogg` (121 units) |
+| Wheat and Huckleberries; Or, Dr. Northmore's Daughters | have | PG 41515, `cmvaile-wheat-and-huckleberries` (1326 units) |
+| Pepita Ximenez | have | PG 30236, `jvalera-pepita-ximenez` (948 units) |
+| Little Helpers | have | PG 63793, `mvandegrift-little-helpers` (1280 units) |
+| Personal record of the Thirteenth Regiment, Tennessee Infantry | have | PG 49898, `ajvaughan-personal-record-of-the-thirteenth-regiment-tenness` (1265 units) |
+| Domestic Pleasures, or, the Happy Fire-side | have | PG 7830, `fbvaux-domestic-pleasures-or-the-happy-fire-side` (882 units) |
+| In the year 2889 | have | PG 19362, `mverne-in-the-year-2889` (121 units) |
+| A Danish Parsonage | have | PG 30617, `jfvicary-danish-parsonage` (1653 units) |
+| On the Lightship | have | PG 40648, `hkviele-on-the-lightship` (1260 units) |
+| Fairy Circles Tales and Legends of Giants, Dwarfs, Fairies, Water-Sprites, and Hobgoblins | have | PG 39560, `villamaria-fairy-circles-tales-and-legends-of-giants-dwarfs` (1452 units) |
+| Anno Domini 2000; or, Woman's Destiny | have | PG 49207, `jvogel-anno-domini-2000` (601 units) |
+| A China cup, and other stories for children | have | PG 64606, `fvolkhovskii-china-cup-and-other-stories-for-children` (511 units) |
+| Acadian Reminiscences : The True Story of Evangeline | have | PG 31245, `fvoorhies-acadian-reminiscences` (217 units) |
+| Ant ventures | have | PG 76365, `bewade-ant-ventures` (552 units) |
+| Killykinick | have | PG 26985, `mtwaggaman-killykinick` (1253 units) |
+| Miss Elliot's Girls: Stories of Beasts, Birds, and Butterflies | have | PG 14610, `mswalker-miss-elliot-s-girls` (798 units) |
+| Alter Ego: A Tale | have | PG 37731, `wwwalker-alter-ego` (90 units) |
+| Gustavus Vasa and other poems | have | PG 17754, `wswalker-gustavus-vasa-and-other-poems` (443 units) |
+| Mary: The Queen of the House of David and Mother of Jesus The Story of Her Life | have | PG 60028, `aswalsh-mary` (3841 units) |
+| Cedar Creek: From the Shanty to the Settlement. A Tale of Canadian Life | have | PG 31091, `ehwalshe-cedar-creek` (1664 units) |
+| The Doors of Death | have | PG 32671, `abwaltermire-doors-of-death` (189 units) |
+| Great Possessions | have | PG 17952, `wward-great-possessions` (1879 units) |
+| The Squirrels and other animals Or, Illustrations of the habits and instincts of many of the smaller British quadrupeds | have | PG 33434, `gwaring-squirrels-and-other-animals-or-illustrations-of-the` (316 units) |
