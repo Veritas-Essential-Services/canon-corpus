@@ -18664,6 +18664,21 @@ Shelf: `pipeline/ettore-pais_shelf.json`. Early Rome and ancient Italy in Englis
 | Ancient Legends of Roman History (1905), tr. Mario E. Cosenza |  | `pais-ancient-legends-roman-history-1905` | have-raw (IA `ancientlegendsof00paisuoft`) |
 | Ancient Italy: Historical and Geographical Investigations in Central Italy, Magna Graecia, Sicily, and Sardinia (1908), tr. C. Densmore Curtis |  | `pais-ancient-italy-1908` | have-raw (IA `ancientitalyhist00paisuoft`) |
 
+
+## Henry John Roby (1830-1915)
+
+Shelf: `pipeline/h-j-roby_shelf.json`. Latin grammar (2 parts) and Roman private law, 1876-1902. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Grammar of the Latin Language from Plautus to Suetonius, Part I: Sounds, Inflexions, Word-formation (2nd ed., 1876) |  | `roby-latin-grammar-part-1` | have-raw (IA `agrammarlatinla01robygoog`) |
+| A Grammar of the Latin Language from Plautus to Suetonius, Part II: Syntax (1879) |  | `roby-latin-grammar-part-2` | have-raw (IA `agrammarlatinla02robygoog`) |
+| An Introduction to the Study of Justinian's Digest (1884) |  | `roby-introduction-justinians-digest-1884` | have-raw (IA `introductiontost00roby`) |
+| Roman Private Law in the Times of Cicero and of the Antonines, vol. I (1902) |  | `roby-roman-private-law-vol-1` | have-raw (IA `romanprivatelawi01robyuoft`) |
+| Roman Private Law in the Times of Cicero and of the Antonines, vol. II (1902) |  | `roby-roman-private-law-vol-2` | have-raw (IA `romanprivatelawi02robyuoft`) |
+
+Excluded: A Latin Grammar for Schools; An Elementary Latin Grammar (school grammars, skipped by lane B rule)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
