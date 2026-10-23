@@ -18732,6 +18732,15 @@ Slugs `vaill-*`. Built from title pages read for round 127.
 | the Litchfield County Choral Union history is by another Vaill | excluded | |
 | sonofgodmanifest00vail (1814) is the ordination sermon for him preached by his father, Joseph Vaill of East Haddam | excluded | |
 | memoiroflifechar00vail (1839), the memoir of his father, is by Isaac Parsons | excluded | |
+
+## Samuel H. Virgin (round 127, my pick, 2026-10-23)
+
+Slugs `virgin-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Mastership of the sea : a discourse before the American Seamen's Friend Society, at its sixty-sixth anniversary, Sunday evening, May 7th, 1894 in the Pilgrim Church, Madison Avenue and One Hundred and Twenty-First Street, New York City / by Samuel H. Virgin (New York : American Seamen's Friend Society, 1894) | have-ocr | IA `mastershipofsead00virg` |
+| Spiritual sanity and other sermons (New York, Boston [etc.] American tract society, 1905) | have-ocr | IA `spiritualsanityo00virg` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
