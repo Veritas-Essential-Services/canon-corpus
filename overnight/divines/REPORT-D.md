@@ -2081,3 +2081,6 @@
 
 ## 2026-10-22 22:44 CDT — helen-leah-reed: done
 - helen-leah-reed: new shelf, 10 Gutenberg books, 13,294 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:44 CDT — opie-read: done
+- opie-read: new shelf, 9 Gutenberg books, 15,087 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.

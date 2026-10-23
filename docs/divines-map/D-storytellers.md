@@ -15699,3 +15699,20 @@ Shelf: `pipeline/helen-leah-reed_shelf.json` (2026-10-22; added at the coordinat
 | Brenda's Bargain: A Story for Girls | have | PG 37335, `hlreed-brendas-bargain` (1459 units) |
 | Irma in Italy: A Travel Story | have | PG 39629, `hlreed-irma-in-italy` (1698 units) |
 | Brenda's cousin at Radcliffe | have | PG 48720, `hlreed-brendas-cousin-at-radcliffe` (1676 units) |
+
+## Opie Read
+
+Shelf: `pipeline/opie-read_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Humorous novels and stories. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Colossus: A Novel | have | PG 15073, `oread-colossus` (2027 units) |
+| The Starbucks | have | PG 18984, `oread-starbucks` (1934 units) |
+| An Arkansas Planter | have | PG 19107, `oread-arkansas-planter` (1599 units) |
+| Old Ebenezer | have | PG 23215, `oread-old-ebenezer` (1883 units) |
+| The Jucklins: A Novel | have | PG 26499, `oread-jucklins` (1373 units) |
+| A Yankee from the West: A Novel | have | PG 33773, `oread-yankee-from-the-west` (1940 units) |
+| Bolanyo | have | PG 38826, `oread-bolanyo` (1204 units) |
+| Up Terrapin River | pending | PG 44879, `oread-up-terrapin-river` (fetch failed) |
+| Judge Elbridge | have | PG 46699, `oread-judge-elbridge` (1794 units) |
+| My Young Master: A Novel | have | PG 59834, `oread-my-young-master` (1333 units) |

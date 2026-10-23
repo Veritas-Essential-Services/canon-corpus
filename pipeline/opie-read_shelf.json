@@ -1,0 +1,140 @@
+{
+ "_about": "Opie Read's writing at Gutenberg: humorous novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Opie Read",
+ "_name_words": [
+  "opie",
+  "read"
+ ],
+ "_surname": [
+  "opie read"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "oread-colossus": [
+   15073,
+   "The Colossus: A Novel"
+  ],
+  "oread-starbucks": [
+   18984,
+   "The Starbucks"
+  ],
+  "oread-arkansas-planter": [
+   19107,
+   "An Arkansas Planter"
+  ],
+  "oread-old-ebenezer": [
+   23215,
+   "Old Ebenezer"
+  ],
+  "oread-jucklins": [
+   26499,
+   "The Jucklins: A Novel"
+  ],
+  "oread-yankee-from-the-west": [
+   33773,
+   "A Yankee from the West: A Novel"
+  ],
+  "oread-bolanyo": [
+   38826,
+   "Bolanyo"
+  ],
+  "oread-up-terrapin-river": [
+   44879,
+   "Up Terrapin River"
+  ],
+  "oread-judge-elbridge": [
+   46699,
+   "Judge Elbridge"
+  ],
+  "oread-my-young-master": [
+   59834,
+   "My Young Master: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "oread-colossus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-starbucks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-arkansas-planter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-old-ebenezer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-jucklins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-yankee-from-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-bolanyo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-judge-elbridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "oread-my-young-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "opie read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
