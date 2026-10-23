@@ -1,0 +1,237 @@
+{
+ "_about": "Public-domain Joseph Agar Beet (1840-1924), Wesleyan Methodist theologian and commentator, for the Word Hoard: his commentaries on Romans, Corinthians, Galatians and Ephesians-Colossians, The Credentials of the Gospel, Through Christ to God, The New Life in Christ, The Last Things, The Immortality of the Soul, A Key to Unlock the Bible, A Manual of Theology, The New Testament: its Authorship, Holiness Symbolic and Real, and A Theologian's Workshop. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 84 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph agar beet",
+  "j. agar beet",
+  "agar beet"
+ ],
+ "_surname": [
+  "joseph agar beet",
+  "j. agar beet",
+  "agar beet",
+  "beet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beet-romans": [
+   "commentaryon00beet",
+   "A commentary on St. Paul's epistle to the Romans (London : Hodder and Stoughton, 1881)"
+  ],
+  "beet-corinthians": [
+   "commentaryonst00beet",
+   "A commentary on St. Paul's Epistles to the Corinthians (London : Hodder and Stoughton, 1882)"
+  ],
+  "beet-galatians": [
+   "commentaryonstpa0000beet",
+   "A commentary on St. Paul's Epistle to the Galatians (New York : Whittaker, 1885)"
+  ],
+  "beet-ephesians-colossians": [
+   "commentaryonstpa00beet",
+   "A commentary on St. Paul's Epistles to the Ephesians, Philippians, Colossians, and to Philemon (London : Hodder and Stoughton, 1890)"
+  ],
+  "beet-credentials": [
+   "credentialsofgos00beet",
+   "The credentials of the Gospel; a statement of the reason of the Christian hope (London : Wesleyan Methodist Book-Room, 1889)"
+  ],
+  "beet-through-christ": [
+   "throughchristtog0000beet",
+   "Through Christ to God; a study in scientific theology (London, Hodder and Stoughton, 1892)"
+  ],
+  "beet-new-life": [
+   "newlifeinchrists00beet",
+   "The new life in Christ : a study in personal religion (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895)"
+  ],
+  "beet-last-things": [
+   "lastthings00beet",
+   "The last things (New York : Methodist Book Concern, Eaton & Mains, 1897)"
+  ],
+  "beet-immortality": [
+   "immortalityofsou00beetuoft",
+   "The immortality of the soul : a protest (London : Hodder and Stoughton, 1901)"
+  ],
+  "beet-key-bible": [
+   "akeytounlocktheb00beetuoft",
+   "A key to unlock the Bible (London : Religious Tract Society, 1903)"
+  ],
+  "beet-manual-theology": [
+   "manualoftheology00beet",
+   "A manual of theology (New York ; London : [publisher not identified], 1906)"
+  ],
+  "beet-new-testament": [
+   "thenewtestamenti00beetuoft",
+   "The New Testament : its authorship, date and worth (London : Robert Culley, 1908)"
+  ],
+  "beet-holiness": [
+   "holinesssymbolic00beetuoft",
+   "Holiness, symbolic and real : a Bible study (London : R. Culley, 1910)"
+  ],
+  "beet-workshop": [
+   "theologiansworks00beet_0",
+   "A theologian's workshop, tools, and methods (London ; New York : Hodder and Stoughton, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "beet-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-corinthians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beet-ephesians-colossians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-credentials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beet-through-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beet-new-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-last-things": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beet-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-key-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-manual-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beet-new-testament": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "beet-workshop": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph agar beet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

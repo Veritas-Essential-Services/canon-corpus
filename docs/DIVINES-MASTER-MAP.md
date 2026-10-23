@@ -14524,6 +14524,27 @@ Slugs `jmashley-*`. Built from title pages read for round 83.
 | Cogitationes concionales : being 216 short sermon reflections on the dominical Gospels of the Church's year : founded upon selected readings from the Summa Theologica of S. Thomas Aquinas (London : J. Hodges, 1895) | have-ocr | IA `cogitationesconc00ashl` |
 | The minor acts of our lord and savior Jesus Christ : considered in a short course of practical sermons (London : John Hodges, 1900) | have-ocr | IA `minoractsofourlo00ashl` |
 | his translation of Ninety-nine Homilies of S. Thomas Aquinas (1867), which is Aquinas; A Festival Year with Great Preachers (sermons by many); The Battle of Senlac (verse) | excluded | |
+
+## Joseph Agar Beet (round 84, my pick, 2026-10-23)
+
+Slugs `beet-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| A commentary on St. Paul's epistle to the Romans (London : Hodder and Stoughton, 1881) | have-ocr | IA `commentaryon00beet` |
+| A commentary on St. Paul's Epistles to the Corinthians (London : Hodder and Stoughton, 1882) | have-ocr | IA `commentaryonst00beet` |
+| A commentary on St. Paul's Epistle to the Galatians (New York : Whittaker, 1885) | have-ocr | IA `commentaryonstpa0000beet` |
+| A commentary on St. Paul's Epistles to the Ephesians, Philippians, Colossians, and to Philemon (London : Hodder and Stoughton, 1890) | have-ocr | IA `commentaryonstpa00beet` |
+| The credentials of the Gospel; a statement of the reason of the Christian hope (London : Wesleyan Methodist Book-Room, 1889) | have-ocr | IA `credentialsofgos00beet` |
+| Through Christ to God; a study in scientific theology (London, Hodder and Stoughton, 1892) | have-ocr | IA `throughchristtog0000beet` |
+| The new life in Christ : a study in personal religion (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `newlifeinchrists00beet` |
+| The last things (New York : Methodist Book Concern, Eaton & Mains, 1897) | have-ocr | IA `lastthings00beet` |
+| The immortality of the soul : a protest (London : Hodder and Stoughton, 1901) | have-ocr | IA `immortalityofsou00beetuoft` |
+| A key to unlock the Bible (London : Religious Tract Society, 1903) | have-ocr | IA `akeytounlocktheb00beetuoft` |
+| A manual of theology (New York ; London : [publisher not identified], 1906) | have-ocr | IA `manualoftheology00beet` |
+| The New Testament : its authorship, date and worth (London : Robert Culley, 1908) | have-ocr | IA `thenewtestamenti00beetuoft` |
+| Holiness, symbolic and real : a Bible study (London : R. Culley, 1910) | have-ocr | IA `holinesssymbolic00beetuoft` |
+| A theologian's workshop, tools, and methods (London ; New York : Hodder and Stoughton, 1914) | have-ocr | IA `theologiansworks00beet_0` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
