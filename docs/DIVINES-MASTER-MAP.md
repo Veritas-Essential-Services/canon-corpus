@@ -19149,6 +19149,15 @@ Shelf: `pipeline/t-a-b-spratt_shelf.json`. Travels and Researches in Crete, 2 vo
 | Travels and Researches in Crete, vol. I (1865) |  | `spratt-travels-crete-vol-1` | have-raw (IA `travelsresearche01spra`) |
 | Travels and Researches in Crete, vol. II (1865) |  | `spratt-travels-crete-vol-2` | have-raw (IA `travelsandresea02spragoog`) |
 
+
+## B. F. Cocker (1821-1883)
+
+Shelf: `pipeline/b-f-cocker_shelf.json`. Christianity and Greek Philosophy (1870). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Christianity and Greek Philosophy, or the Relation between Spontaneous and Reflective Thought in Greece (1870) |  | `cocker-christianity-greek-philosophy-1870` | have-raw (IA `christianitygree00cockrich`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
