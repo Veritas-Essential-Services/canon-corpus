@@ -17118,3 +17118,17 @@ Shelf: `pipeline/wc-scully_shelf.json` (2026-10-22; added at the coordinator's r
 | By Veldt and Kopje | have | PG 36421, `wcscully-by-veldt-and-kopje` (1140 units) |
 | Lodges in the Wilderness | have | PG 36422, `wcscully-lodges-in-the-wilderness` (482 units) |
 | A Vendetta of the Desert | have | PG 36601, `wcscully-vendetta-of-the-desert` (908 units) |
+
+## Leroy Scott
+
+Shelf: `pipeline/leroy-scott_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Children of the Whirlwind | have | PG 3321, `lscott-children-of-the-whirlwind` (2449 units) |
+| No. 13 Washington Square | have | PG 13844, `lscott-no-13-washington-square` (2193 units) |
+| Counsel for the Defense | have | PG 28820, `lscott-counsel-for-the-defense` (3254 units) |
+| The Walking Delegate | have | PG 41154, `lscott-walking-delegate` (2524 units) |
+| To Him That Hath | have | PG 41180, `lscott-to-him-that-hath` (2804 units) |
+| Mary Regan | have | PG 71337, `lscott-mary-regan` (2443 units) |
+| The shears of destiny | have | PG 73803, `lscott-shears-of-destiny` (2700 units) |

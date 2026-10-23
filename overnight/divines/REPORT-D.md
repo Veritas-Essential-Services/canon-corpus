@@ -2339,3 +2339,6 @@
 
 ## 2026-10-22 23:05 CDT — wc-scully: done
 - wc-scully: new shelf, 7 Gutenberg books, 5,613 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — leroy-scott: done
+- leroy-scott: new shelf, 7 Gutenberg books, 18,367 units, 34 ~2 ids; verify 0 mismatches, 0 rights flags.
