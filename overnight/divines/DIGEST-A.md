@@ -2692,7 +2692,7 @@ Points you may want to veto or rule on:
 - Wrong scan caught: IA's "Revival Kindlings" for Knapp is a modern mathematics book (excluded).
 - Maskell's Ancient Liturgy and Monumenta Ritualia are his editions of the old English service books with his own dissertations; taken as his. His South Kensington handbooks on ivories and musical instruments are left out as outside a theology shelf; Adam may want them elsewhere.
 - The 1846 Monumenta volume's scan has no title page in its text, so two volumes of the 1882 second edition are taken instead.
-- Kilpatrick and McConkey lived past 1930; only pre-1930 printings are taken.
+- McConkey lived past 1930 and Kilpatrick died in 1930; only pre-1930 printings are taken.
 
 ## Round 131: Rawlinson, Whittingham, Zenos, Strahan, Batten, Jacox, Harsha (my picks)
 
