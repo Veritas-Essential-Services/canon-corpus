@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain William James Dawson (1854-1928), Wesleyan and then Congregational minister in London, later an American evangelist, for the Word Hoard: The Threshold of Manhood, The Church of To-morrow, The Endless Choice, The Life of Christ, The Reproach of Christ, The Evangelistic Note, The Forgotten Secret, The Empire of Love, The Divine Challenge, The Book of Courage, and The Man Christ Jesus. His poems, novels and literary handbooks are left out as not theology. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain William James Dawson (1854-1928), Wesleyan and then Congregational minister in London, later an American evangelist, for the Word Hoard: The Threshold of Manhood, The Church of To-morrow, The Endless Choice, The Comrade-Christ, The Life of Christ, The Reproach of Christ, The Evangelistic Note, The Forgotten Secret, The Empire of Love, The Divine Challenge, The Book of Courage, and The Man Christ Jesus. His poems, novels and literary handbooks are left out as not theology. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
  "_name_words": [
   "william james dawson",
   "william j. dawson",
@@ -57,6 +57,10 @@
   "wjdawson-man-christ-jesus": [
    "manchristjesusli00daws",
    "The man Christ Jesus; a life of Christ (New York London : The Century co., 1925)"
+  ],
+  "wjdawson-comrade-christ": [
+   "comradechristoth0000daws",
+   "The Comrade-Christ and other sermons (catalogued 1900)"
   ]
  },
  "_alternates": {},
@@ -186,6 +190,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1925",
    "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wjdawson-comrade-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. dawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
