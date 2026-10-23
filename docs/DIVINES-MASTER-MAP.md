@@ -20205,6 +20205,15 @@ Shelf: `pipeline/r-w-browne_shelf.json`. A History of Roman Classical Literature
 |---|---|---|---|
 | A History of Roman Classical Literature (London: Bentley, 1853) |  | `browne-history-roman-classical-literature-1853` | have (PG 59455) |
 
+
+## Thomas Wallace Lumb
+
+Shelf: `pipeline/t-w-lumb_shelf.json`. Authors of Greece, with an introduction by Cyril Alington. Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Authors of Greece, with an introduction by Cyril Alington |  | `lumb-authors-of-greece` | have (PG 8115) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
