@@ -11431,3 +11431,16 @@ Shelf: `pipeline/henry-hayman_shelf.json`. Hayman's Odyssey with English notes, 
 | The Odyssey of Homer, edited by Henry Hayman, vol. I, Books I-VI (London: David Nutt, 1866); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `henry-hayman-odyssey-v1-1866` | have-raw (IA `odysseyofhom01home`) |
 | The Odyssey of Homer, edited by Henry Hayman, vol. II, Books VII-XII (London: David Nutt, 1873); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `henry-hayman-odyssey-v2-1873` | have-raw (IA `odysseyofhom02home`) |
 
+## A. C. Pearson (1861-1935)
+
+Shelf: `pipeline/a-c-pearson_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Fragments of Zeno and Cleanthes, with introduction and explanatory notes, an essay which obtained the Hare Prize in 1889, by A. C. Pearson (London: C. J. Clay and Sons, Cambridge University Press Warehouse, 1891) |  | `a-c-pearson-zeno-cleanthes-1891` | have-raw (IA `thefragmentsofze00zenouoft`) |
+| The Helena of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1903) |  | `a-c-pearson-euripides-helena-1903` | have-raw (IA `helena__00euriuoft`) |
+| The Heraclidae of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1907) |  | `a-c-pearson-euripides-heraclidae-1907` | have-raw (IA `heraclidae00euri`) |
+| The Phoenissae of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1909) |  | `a-c-pearson-euripides-phoenissae-1909` | have-raw (IA `phoenissaeedited00euriuoft`) |
+
+Excluded: Fragments of Sophocles (1917), vols I-II (cuafragmentsofso01soph and cuafragmentsofso02soph OCR the English as Greek letters (clean 0.000); vol III not on IA. Revisit after the Greek re-OCR.)
+
