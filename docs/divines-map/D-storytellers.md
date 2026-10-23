@@ -15049,3 +15049,24 @@ Shelf: `pipeline/bloundelle-burton_shelf.json` (2026-10-22; added at the coordin
 | The Land of Bondage: A Romance | have | PG 52957, `jbburton-land-of-bondage` (1176 units) |
 | Servants of Sin: A Romance | have | PG 52970, `jbburton-servants-of-sin` (1334 units) |
 | The Sword of Gideon | have | PG 52979, `jbburton-sword-of-gideon` (1870 units) |
+
+## Arlo Bates
+
+Shelf: `pipeline/arlo-bates_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Puritans | have | PG 8522, `abates-puritans` (2866 units) |
+| The Philistines | have | PG 8570, `abates-philistines` (2004 units) |
+| The Pagans | have | PG 8671, `abates-pagans` (1529 units) |
+| Prince Vance: The Story of a Prince with a Court in His Box | have | PG 29005, `abates-prince-vance` (599 units) |
+| The Intoxicated Ghost, and other stories | have | PG 40312, `abates-intoxicated-ghost-and-other-stories` (1101 units) |
+| Mr. Jacobs: A Tale of the Drummer, the Reporter, and the Prestidigitateur | have | PG 41125, `abates-mr-jacobs` (120 units) |
+| A Book o' Nine Tales. | have | PG 41189, `abates-book-o-nine-tales` (1660 units) |
+| Albrecht | have | PG 41764, `abates-albrecht` (938 units) |
+| The Diary of a Saint | have | PG 41801, `abates-diary-of-a-saint` (1919 units) |
+| Talks on the study of literature. | have | PG 42773, `abates-talks-on-the-study-of-literature` (796 units) |
+| Love in a Cloud: A Comedy in Filigree | have | PG 42831, `abates-love-in-a-cloud` (2273 units) |
+| Talks on Writing English. First Series | have | PG 47494, `abates-talks-on-writing-english-first-series` (1087 units) |
+| Patty's Perversities | have | PG 48396, `abates-pattys-perversities` (2267 units) |
+| Talks on Teaching Literature | have | PG 50082, `abates-talks-on-teaching-literature` (825 units) |

@@ -4485,6 +4485,14 @@
       "started": "2026-10-22T22:36:49-05:00",
       "finished": "2026-10-22T22:36:49-05:00",
       "notes": "bloundelle-burton: new shelf, 14 Gutenberg books, 20,599 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arlo-bates",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arlo Bates; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:06-05:00",
+      "finished": "2026-10-22T22:37:06-05:00",
+      "notes": "arlo-bates: new shelf, 14 Gutenberg books, 19,984 units, 404 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

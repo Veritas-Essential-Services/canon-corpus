@@ -1973,3 +1973,6 @@
 
 ## 2026-10-22 22:36 CDT — bloundelle-burton: done
 - bloundelle-burton: new shelf, 14 Gutenberg books, 20,599 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — arlo-bates: done
+- arlo-bates: new shelf, 14 Gutenberg books, 19,984 units, 404 ~2 ids; verify 0 mismatches, 0 rights flags.
