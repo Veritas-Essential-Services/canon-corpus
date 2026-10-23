@@ -9316,6 +9316,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T07:01:33-05:00",
       "notes": "Presbyterian chaplain; From the Flag to the Cross and Life of Whitefield."
+    },
+    {
+      "id": "samuel-mcchord-crothers",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:00-05:00",
+      "notes": "Cambridge Unitarian; sermons only, literary essays left out."
     }
   ]
 }

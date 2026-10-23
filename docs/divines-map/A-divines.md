@@ -16447,3 +16447,17 @@ Slugs `billingsley-*`. Built from title pages read for round 102.
 |---|---|---|
 | From the flag to the cross (Philadelphia, Pa., Boston, Mass. [etc.] New York publishing Company, 1872) | have-ocr | IA `fromflagtocross00bill` |
 | Life of George Whitefield : "Prince of Pulpit Orators" : with specimens of his sermons (New York : J.B. Alden, 1889) | have-ocr | IA `lifeofgeorgewhit00billuoft` |
+
+## Samuel McChord Crothers (round 103, my pick, 2026-10-23)
+
+Slugs `crothers-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| Members of one body : six sermons (Boston : G.H. Ellis, 1892) | have-ocr | IA `membersofonebody00crotrich` |
+| Fortnightly sermons, vol. 1895-96 (Cambridge : Wilson, 1895) | have-ocr | IA `fortnightlysermo189596crot` |
+| The understanding heart (Boston, American Unitarian Association, 1903) | have-ocr | IA `understandinghea00crot` |
+| Love that casteth out fear (Cambridge : Caustic-Claflin Co., 1904) | have-ocr | IA `lovethatcastetho00crot` |
+| The endless life (Boston : Houghton, Mifflin, 1905) | have-ocr | IA `endlesslife00crot_0` |
+| The Gentle Reader, The Pardoner's Wallet, Miss Muffet's Christmas Party (literary essays and a children's book) | excluded | |
+| Being and Doing (several authors) | excluded | |
