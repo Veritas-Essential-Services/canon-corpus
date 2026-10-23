@@ -45049,3 +45049,90 @@ Shelf: `pipeline/storytellers-tail-02_shelf.json` (2026-10-22; added at the coor
 | A Century Too Soon: The Age of Tyranny | have | PG 10387, `jrmusick-century-too-soon` (2140 units) |
 | The Witch of Salem; or, Credulity Run Mad | have | PG 26282, `jrmusick-witch-of-salem` (2511 units) |
 | Brother Against Brother; or, The Tompkins Mystery. A Story of the Great American Rebellion. | have | PG 40541, `jrmusick-brother-against-brother` (2538 units) |
+
+## Storytellers' tail, group 3 (20 authors)
+
+Shelf: `pipeline/storytellers-tail-03_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 20 authors with 4 Gutenberg texts each: Charlotte Grace O'Brien, Marie Conway Oemler, Hugh Pendexter, Edward Prime-Stevenson, Morgan Robertson, George Augustus Sala, Richard Savage, Ruel Perley Smith, C. A. Stephens, Eleanor Stredder, Octave Thanet, Katherine Cecil Thurston, J. C. Tregarthen, Annie Vivanti, Cy Warman, Samuel Warren, Jesse Lynch Williams, C. J. Wills, Percival Christopher Wren, Julia McNair Wright. Every English text under the name at Gutenberg that no other shelf holds (77 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Frank Hardy's choice, and what came of it | have | PG 74651, `cgobrien-frank-hardy-s-choice-and-what-came-of-it` (547 units) |
+| The happiness of Hazelbrook | have | PG 78045, `cgobrien-happiness-of-hazelbrook` (393 units) |
+| Ben Holt's good name | have | PG 78291, `cgobrien-ben-holt-s-good-name` (417 units) |
+| Northcliffe boys | have | PG 78433, `cgobrien-northcliffe-boys` (382 units) |
+| The Purple Heights | have | PG 12596, `mcoemler-purple-heights` (1658 units) |
+| A Woman Named Smith | have | PG 15591, `mcoemler-woman-named-smith` (1917 units) |
+| Slippy McGee, Sometimes Known as the Butterfly Man | have | PG 15843, `mcoemler-slippy-mcgee-sometimes-known-as-the-butterfly-man` (1977 units) |
+| Where the young child was | have | PG 78711, `mcoemler-where-the-young-child-was` (774 units) |
+| A Virginia Scout | have | PG 26631, `hpendexter-virginia-scout` (2007 units) |
+| Red Belts | have | PG 48219, `hpendexter-red-belts` (2072 units) |
+| It Might Have Happened Otherwise | have | PG 65489, `hpendexter-it-might-have-happened-otherwise` (93 units) |
+| Red stripes | have | PG 68942, `hpendexter-red-stripes` (170 units) |
+| The Square of Sevens: An Authoritative Method of Cartomancy with a Prefatory Note | have | PG 19687, `eprimestevenso-square-of-sevens` (219 units) |
+| Left to Themselves: Being the Ordeal of Philip and Gerald | have | PG 57203, `eprimestevenso-left-to-themselves` (1182 units) |
+| Imre: A Memorandum | have | PG 66390, `eprimestevenso-imre` (406 units) |
+| White Cockades: An Incident of the "Forty-Five" | have | PG 67658, `eprimestevenso-white-cockades` (544 units) |
+| "Where Angels Fear to Tread" and Other Stories of the Sea | have | PG 23539, `mrobertson-where-angels-fear-to-tread-and-other-stories-of-t` (1099 units) |
+| The Wreck of the Titan or, Futility | have | PG 24880, `mrobertson-wreck-of-the-titan-or-futility` (1813 units) |
+| The Grain Ship | have | PG 26194, `mrobertson-grain-ship` (1215 units) |
+| Over the border | have | PG 69268, `mrobertson-over-the-border` (1618 units) |
+| The Strange Adventures of Captain Dangerous, Vol. 1 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors... | have | PG 26667, `gasala-strange-adventures-of-captain-dangerous-vol-1-who-was` (492 units) |
+| The Strange Adventures of Captain Dangerous, Vol. 2 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors... | have | PG 26668, `gasala-strange-adventures-of-captain-dangerous-vol-2-who-was` (345 units) |
+| The Strange Adventures of Captain Dangerous, Vol. 3 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors... | have | PG 26669, `gasala-strange-adventures-of-captain-dangerous-vol-3-who-was` (366 units) |
+| Twice round the clock; or, The hours of the day and night in London | have | PG 69402, `gasala-twice-round-the-clock` (604 units) |
+| A Fascinating Traitor: An Anglo-Indian Story | have | PG 5972, `rsavage-fascinating-traitor` (1734 units) |
+| The Midnight Passenger : A Novel | have | PG 6008, `rsavage-midnight-passenger` (2038 units) |
+| The Little Lady of Lagunitas: A Franco-Californian Romance | have | PG 6011, `rsavage-little-lady-of-lagunitas` (2752 units) |
+| In the swim | have | PG 71751, `rsavage-in-the-swim` (2739 units) |
+| The Rival Campers Ashore; or, The Mystery of the Mill | have | PG 28504, `rpsmith-rival-campers-ashore` (1841 units) |
+| Jack Harvey's Adventures; or, The Rival Campers Among the Oyster Pirates | have | PG 40396, `rpsmith-jack-harvey-s-adventures` (1941 units) |
+| The Rival Campers Afloat; or, The Prize Yacht Viking | have | PG 40547, `rpsmith-rival-campers-afloat` (2519 units) |
+| The Rival Campers; Or, The Adventures of Henry Burns | have | PG 40548, `rpsmith-rival-campers` (2480 units) |
+| A Busy Year at the Old Squire's | have | PG 19968, `castephens-busy-year-at-the-old-squire-s` (1965 units) |
+| Left on Labrador; or, The cruise of the Schooner-yacht "Curlew" As Recorded by "Wash" | have | PG 20242, `castephens-left-on-labrador` (1949 units) |
+| When Life Was Young: At the Old Farm in Maine | have | PG 26994, `castephens-when-life-was-young` (2666 units) |
+| The Ark of 1803: A Story of Louisiana Purchase Times | have | PG 61226, `castephens-ark-of-1803` (1177 units) |
+| Alive in the jungle | have | PG 43595, `estredder-alive-in-the-jungle` (789 units) |
+| Doing and daring | have | PG 43620, `estredder-doing-and-daring` (1653 units) |
+| Lost in the wilds | have | PG 43640, `estredder-lost-in-the-wilds` (1146 units) |
+| Jack and his ostrich | have | PG 75898, `estredder-jack-and-his-ostrich` (941 units) |
+| Stories of a Western Town | have | PG 2949, `othanet-stories-of-a-western-town` (769 units) |
+| Stories That End Well | have | PG 33499, `othanet-stories-that-end-well` (1100 units) |
+| The Missionary Sheriff Being incidents in the life of a plain man who tried to do his duty | have | PG 67357, `othanet-missionary-sheriff-being-incidents-in-the-life-of-a` (1015 units) |
+| The lion's share | have | PG 68875, `othanet-lion-s-share` (1409 units) |
+| The Masquerader | have | PG 5422, `kcthurston-masquerader` (2151 units) |
+| Max | have | PG 14054, `kcthurston-max` (2707 units) |
+| The Mystics: A Novel | have | PG 21127, `kcthurston-mystics` (742 units) |
+| The Gambler: A Novel | have | PG 33490, `kcthurston-gambler` (4613 units) |
+| Master Reynard: The History of a Fox | have | PG 44347, `jctregarthen-master-reynard` (251 units) |
+| The Story of a Hare | have | PG 48299, `jctregarthen-story-of-a-hare` (434 units) |
+| The Life Story of an Otter | have | PG 54872, `jctregarthen-life-story-of-an-otter` (430 units) |
+| Wild Life at the Land's End Observations of the Habits and Haunts of the Fox, Badger, Otter, Seal, Hare and of Their Pursuers in Cornwall | have | PG 57906, `jctregarthen-wild-life-at-the-land-s-end-observations-of-the` (682 units) |
+| The Devourers | have | PG 39145, `avivanti-devourers` (2645 units) |
+| The Outrage | have | PG 40949, `avivanti-outrage` (1491 units) |
+| A Journey to Crete, Costantinople, Naples and Florence: Three Months Abroad | have | PG 41246, `avivanti-journey-to-crete-costantinople-naples-and-florence` (311 units) |
+| Marie Tarnowska | have | PG 43058, `avivanti-marie-tarnowska` (1852 units) |
+| The last spike, and other railroad stories | have | PG 17572, `cwarman-last-spike-and-other-railroad-stories` (932 units) |
+| Snow on the headlight | have | PG 30447, `cwarman-snow-on-the-headlight` (848 units) |
+| The White Mail | have | PG 71261, `cwarman-white-mail` (706 units) |
+| The Prospector, and The Silver Queen | have | PG 74521, `cwarman-prospector-and-the-silver-queen` (694 units) |
+| The Experiences of a Barrister, and Confessions of an Attorney | have | PG 12371, `swarren-experiences-of-a-barrister-and-confessions-of-an-att` (1451 units) |
+| Ten Thousand a-Year. Volume 1. | have | PG 31004, `swarren-ten-thousand-a-year-volume-1` (2212 units) |
+| Ten Thousand a-Year. Volume 3. | have | PG 41247, `swarren-ten-thousand-a-year-volume-3` (1647 units) |
+| Ten Thousand a-Year. Volume 2. | have | PG 41332, `swarren-ten-thousand-a-year-volume-2` (1435 units) |
+| The Adventures of a Freshman | have | PG 34986, `jlwilliams-adventures-of-a-freshman` (961 units) |
+| Why Marry? | have | PG 35389, `jlwilliams-why-marry` (1871 units) |
+| New York Sketches | have | PG 42501, `jlwilliams-new-york-sketches` (402 units) |
+| Princeton Stories | have | PG 43587, `jlwilliams-princeton-stories` (1159 units) |
+| The Pit Town Coronet: A Family Mystery, Volume 1 (of 3) | have | PG 42167, `cjwills-pit-town-coronet` (648 units) |
+| The Pit Town Coronet: A Family Mystery, Volume 2 (of 3) | have | PG 42168, `cjwills-pit-town-coronet-42168` (783 units) |
+| The Pit Town Coronet: A Family Mystery, Volume 3 (of 3) | have | PG 42169, `cjwills-pit-town-coronet-42169` (505 units) |
+| In the land of the lion and sun, or, modern Persia | have | PG 72128, `cjwills-in-the-land-of-the-lion-and-sun-or-modern-persia` (3948 units) |
+| Snake and Sword: A Novel | have | PG 10667, `pcwren-snake-and-sword` (1697 units) |
+| Driftwood Spars The Stories of a Man, a Boy, a Woman, and Certain Other People Who Strangely Met Upon the Sea of Life | have | PG 11691, `pcwren-driftwood-spars-the-stories-of-a-man-a-boy-a-woman-an` (1710 units) |
+| Cupid in Africa | have | PG 37544, `pcwren-cupid-in-africa` (1832 units) |
+| The Wages of Virtue | have | PG 41652, `pcwren-wages-of-virtue` (1741 units) |
+| Nature readers | have | PG 71462, `jmwright-nature-readers` (902 units) |
+| pg-71843 | excluded | PG 71843: a second Gutenberg edition of Julia McNair Wright's Nature readers. |
+| pg-72044 | excluded | PG 72044: a second Gutenberg edition of Julia McNair Wright's Nature readers. |
+| pg-72508 | excluded | PG 72508: a second Gutenberg edition of Julia McNair Wright's Nature readers. |

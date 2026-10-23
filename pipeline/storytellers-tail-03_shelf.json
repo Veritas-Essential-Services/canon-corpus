@@ -1,0 +1,1329 @@
+{
+ "_about": "Storytellers' tail, group 3: 20 authors with 4 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Charlotte Grace O'Brien, Marie Conway Oemler, Hugh Pendexter, Edward Prime-Stevenson, Morgan Robertson, George Augustus Sala, Richard Savage, Ruel Perley Smith, C. A. Stephens, Eleanor Stredder, Octave Thanet, Katherine Cecil Thurston, J. C. Tregarthen, Annie Vivanti, Cy Warman, Samuel Warren, Jesse Lynch Williams, C. J. Wills, Percival Christopher Wren, Julia McNair Wright. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 3 (20 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "cgobrien-frank-hardy-s-choice-and-what-came-of-it": [
+   "charlotte grace o'brien",
+   "o'brien"
+  ],
+  "cgobrien-happiness-of-hazelbrook": [
+   "charlotte grace o'brien",
+   "o'brien"
+  ],
+  "cgobrien-ben-holt-s-good-name": [
+   "charlotte grace o'brien",
+   "o'brien"
+  ],
+  "cgobrien-northcliffe-boys": [
+   "charlotte grace o'brien",
+   "o'brien"
+  ],
+  "mcoemler-purple-heights": [
+   "marie conway oemler",
+   "oemler"
+  ],
+  "mcoemler-woman-named-smith": [
+   "marie conway oemler",
+   "oemler"
+  ],
+  "mcoemler-slippy-mcgee-sometimes-known-as-the-butterfly-man": [
+   "marie conway oemler",
+   "oemler"
+  ],
+  "mcoemler-where-the-young-child-was": [
+   "marie conway oemler",
+   "oemler"
+  ],
+  "hpendexter-virginia-scout": [
+   "hugh pendexter",
+   "pendexter"
+  ],
+  "hpendexter-red-belts": [
+   "hugh pendexter",
+   "pendexter"
+  ],
+  "hpendexter-it-might-have-happened-otherwise": [
+   "hugh pendexter",
+   "pendexter"
+  ],
+  "hpendexter-red-stripes": [
+   "hugh pendexter",
+   "pendexter"
+  ],
+  "eprimestevenso-square-of-sevens": [
+   "edward prime-stevenson",
+   "prime-stevenson"
+  ],
+  "eprimestevenso-left-to-themselves": [
+   "edward prime-stevenson",
+   "prime-stevenson"
+  ],
+  "eprimestevenso-imre": [
+   "edward prime-stevenson",
+   "prime-stevenson"
+  ],
+  "eprimestevenso-white-cockades": [
+   "edward prime-stevenson",
+   "prime-stevenson"
+  ],
+  "mrobertson-where-angels-fear-to-tread-and-other-stories-of-t": [
+   "morgan robertson",
+   "robertson"
+  ],
+  "mrobertson-wreck-of-the-titan-or-futility": [
+   "morgan robertson",
+   "robertson"
+  ],
+  "mrobertson-grain-ship": [
+   "morgan robertson",
+   "robertson"
+  ],
+  "mrobertson-over-the-border": [
+   "morgan robertson",
+   "robertson"
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-1-who-was": [
+   "george augustus sala"
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-2-who-was": [
+   "george augustus sala"
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-3-who-was": [
+   "george augustus sala"
+  ],
+  "gasala-twice-round-the-clock": [
+   "george augustus sala"
+  ],
+  "rsavage-fascinating-traitor": [
+   "richard savage",
+   "savage"
+  ],
+  "rsavage-midnight-passenger": [
+   "richard savage",
+   "savage"
+  ],
+  "rsavage-little-lady-of-lagunitas": [
+   "richard savage",
+   "savage"
+  ],
+  "rsavage-in-the-swim": [
+   "richard savage",
+   "savage"
+  ],
+  "rpsmith-rival-campers-ashore": [
+   "ruel perley smith"
+  ],
+  "rpsmith-jack-harvey-s-adventures": [
+   "ruel perley smith"
+  ],
+  "rpsmith-rival-campers-afloat": [
+   "ruel perley smith"
+  ],
+  "rpsmith-rival-campers": [
+   "ruel perley smith"
+  ],
+  "castephens-busy-year-at-the-old-squire-s": [
+   "c. a. stephens",
+   "charles asbury stephens",
+   "stephens"
+  ],
+  "castephens-left-on-labrador": [
+   "c. a. stephens",
+   "charles asbury stephens",
+   "stephens"
+  ],
+  "castephens-when-life-was-young": [
+   "c. a. stephens",
+   "charles asbury stephens",
+   "stephens"
+  ],
+  "castephens-ark-of-1803": [
+   "c. a. stephens",
+   "charles asbury stephens",
+   "stephens"
+  ],
+  "estredder-alive-in-the-jungle": [
+   "eleanor stredder",
+   "stredder"
+  ],
+  "estredder-doing-and-daring": [
+   "eleanor stredder",
+   "stredder"
+  ],
+  "estredder-lost-in-the-wilds": [
+   "eleanor stredder",
+   "stredder"
+  ],
+  "estredder-jack-and-his-ostrich": [
+   "eleanor stredder",
+   "stredder"
+  ],
+  "othanet-stories-of-a-western-town": [
+   "octave thanet",
+   "thanet"
+  ],
+  "othanet-stories-that-end-well": [
+   "octave thanet",
+   "thanet"
+  ],
+  "othanet-missionary-sheriff-being-incidents-in-the-life-of-a": [
+   "octave thanet",
+   "thanet"
+  ],
+  "othanet-lion-s-share": [
+   "octave thanet",
+   "thanet"
+  ],
+  "kcthurston-masquerader": [
+   "katherine cecil thurston",
+   "thurston"
+  ],
+  "kcthurston-max": [
+   "katherine cecil thurston",
+   "thurston"
+  ],
+  "kcthurston-mystics": [
+   "katherine cecil thurston",
+   "thurston"
+  ],
+  "kcthurston-gambler": [
+   "katherine cecil thurston",
+   "thurston"
+  ],
+  "jctregarthen-master-reynard": [
+   "j. c. tregarthen",
+   "john coulson tregarthen",
+   "tregarthen"
+  ],
+  "jctregarthen-story-of-a-hare": [
+   "j. c. tregarthen",
+   "john coulson tregarthen",
+   "tregarthen"
+  ],
+  "jctregarthen-life-story-of-an-otter": [
+   "j. c. tregarthen",
+   "john coulson tregarthen",
+   "tregarthen"
+  ],
+  "jctregarthen-wild-life-at-the-land-s-end-observations-of-the": [
+   "j. c. tregarthen",
+   "john coulson tregarthen",
+   "tregarthen"
+  ],
+  "avivanti-devourers": [
+   "annie vivanti",
+   "vivanti"
+  ],
+  "avivanti-outrage": [
+   "annie vivanti",
+   "vivanti"
+  ],
+  "avivanti-journey-to-crete-costantinople-naples-and-florence": [
+   "annie vivanti",
+   "vivanti"
+  ],
+  "avivanti-marie-tarnowska": [
+   "annie vivanti",
+   "vivanti"
+  ],
+  "cwarman-last-spike-and-other-railroad-stories": [
+   "cy warman",
+   "warman"
+  ],
+  "cwarman-snow-on-the-headlight": [
+   "cy warman",
+   "warman"
+  ],
+  "cwarman-white-mail": [
+   "cy warman",
+   "warman"
+  ],
+  "cwarman-prospector-and-the-silver-queen": [
+   "cy warman",
+   "warman"
+  ],
+  "swarren-experiences-of-a-barrister-and-confessions-of-an-att": [
+   "samuel warren",
+   "warren"
+  ],
+  "swarren-ten-thousand-a-year-volume-1": [
+   "samuel warren",
+   "warren"
+  ],
+  "swarren-ten-thousand-a-year-volume-3": [
+   "samuel warren",
+   "warren"
+  ],
+  "swarren-ten-thousand-a-year-volume-2": [
+   "samuel warren",
+   "warren"
+  ],
+  "jlwilliams-adventures-of-a-freshman": [
+   "jesse lynch williams",
+   "williams"
+  ],
+  "jlwilliams-why-marry": [
+   "jesse lynch williams",
+   "williams"
+  ],
+  "jlwilliams-new-york-sketches": [
+   "jesse lynch williams",
+   "williams"
+  ],
+  "jlwilliams-princeton-stories": [
+   "jesse lynch williams",
+   "williams"
+  ],
+  "cjwills-pit-town-coronet": [
+   "c. j. wills",
+   "charles james wills",
+   "wills"
+  ],
+  "cjwills-pit-town-coronet-42168": [
+   "c. j. wills",
+   "charles james wills",
+   "wills"
+  ],
+  "cjwills-pit-town-coronet-42169": [
+   "c. j. wills",
+   "charles james wills",
+   "wills"
+  ],
+  "cjwills-in-the-land-of-the-lion-and-sun-or-modern-persia": [
+   "c. j. wills",
+   "charles james wills",
+   "wills"
+  ],
+  "pcwren-snake-and-sword": [
+   "percival christopher wren"
+  ],
+  "pcwren-driftwood-spars-the-stories-of-a-man-a-boy-a-woman-an": [
+   "percival christopher wren"
+  ],
+  "pcwren-cupid-in-africa": [
+   "percival christopher wren"
+  ],
+  "pcwren-wages-of-virtue": [
+   "percival christopher wren"
+  ],
+  "jmwright-nature-readers": [
+   "julia mcnair wright",
+   "wright"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "cgobrien-frank-hardy-s-choice-and-what-came-of-it": [
+   74651,
+   "Frank Hardy's choice, and what came of it"
+  ],
+  "cgobrien-happiness-of-hazelbrook": [
+   78045,
+   "The happiness of Hazelbrook"
+  ],
+  "cgobrien-ben-holt-s-good-name": [
+   78291,
+   "Ben Holt's good name"
+  ],
+  "cgobrien-northcliffe-boys": [
+   78433,
+   "Northcliffe boys"
+  ],
+  "mcoemler-purple-heights": [
+   12596,
+   "The Purple Heights"
+  ],
+  "mcoemler-woman-named-smith": [
+   15591,
+   "A Woman Named Smith"
+  ],
+  "mcoemler-slippy-mcgee-sometimes-known-as-the-butterfly-man": [
+   15843,
+   "Slippy McGee, Sometimes Known as the Butterfly Man"
+  ],
+  "mcoemler-where-the-young-child-was": [
+   78711,
+   "Where the young child was"
+  ],
+  "hpendexter-virginia-scout": [
+   26631,
+   "A Virginia Scout"
+  ],
+  "hpendexter-red-belts": [
+   48219,
+   "Red Belts"
+  ],
+  "hpendexter-it-might-have-happened-otherwise": [
+   65489,
+   "It Might Have Happened Otherwise"
+  ],
+  "hpendexter-red-stripes": [
+   68942,
+   "Red stripes"
+  ],
+  "eprimestevenso-square-of-sevens": [
+   19687,
+   "The Square of Sevens: An Authoritative Method of Cartomancy with a Prefatory Note"
+  ],
+  "eprimestevenso-left-to-themselves": [
+   57203,
+   "Left to Themselves: Being the Ordeal of Philip and Gerald"
+  ],
+  "eprimestevenso-imre": [
+   66390,
+   "Imre: A Memorandum"
+  ],
+  "eprimestevenso-white-cockades": [
+   67658,
+   "White Cockades: An Incident of the \"Forty-Five\""
+  ],
+  "mrobertson-where-angels-fear-to-tread-and-other-stories-of-t": [
+   23539,
+   "\"Where Angels Fear to Tread\" and Other Stories of the Sea"
+  ],
+  "mrobertson-wreck-of-the-titan-or-futility": [
+   24880,
+   "The Wreck of the Titan or, Futility"
+  ],
+  "mrobertson-grain-ship": [
+   26194,
+   "The Grain Ship"
+  ],
+  "mrobertson-over-the-border": [
+   69268,
+   "Over the border"
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-1-who-was": [
+   26667,
+   "The Strange Adventures of Captain Dangerous, Vol. 1 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors..."
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-2-who-was": [
+   26668,
+   "The Strange Adventures of Captain Dangerous, Vol. 2 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors..."
+  ],
+  "gasala-strange-adventures-of-captain-dangerous-vol-3-who-was": [
+   26669,
+   "The Strange Adventures of Captain Dangerous, Vol. 3 Who was a sailor, a soldier, a merchant, a spy, a slave among the moors..."
+  ],
+  "gasala-twice-round-the-clock": [
+   69402,
+   "Twice round the clock; or, The hours of the day and night in London"
+  ],
+  "rsavage-fascinating-traitor": [
+   5972,
+   "A Fascinating Traitor: An Anglo-Indian Story"
+  ],
+  "rsavage-midnight-passenger": [
+   6008,
+   "The Midnight Passenger : A Novel"
+  ],
+  "rsavage-little-lady-of-lagunitas": [
+   6011,
+   "The Little Lady of Lagunitas: A Franco-Californian Romance"
+  ],
+  "rsavage-in-the-swim": [
+   71751,
+   "In the swim"
+  ],
+  "rpsmith-rival-campers-ashore": [
+   28504,
+   "The Rival Campers Ashore; or, The Mystery of the Mill"
+  ],
+  "rpsmith-jack-harvey-s-adventures": [
+   40396,
+   "Jack Harvey's Adventures; or, The Rival Campers Among the Oyster Pirates"
+  ],
+  "rpsmith-rival-campers-afloat": [
+   40547,
+   "The Rival Campers Afloat; or, The Prize Yacht Viking"
+  ],
+  "rpsmith-rival-campers": [
+   40548,
+   "The Rival Campers; Or, The Adventures of Henry Burns"
+  ],
+  "castephens-busy-year-at-the-old-squire-s": [
+   19968,
+   "A Busy Year at the Old Squire's"
+  ],
+  "castephens-left-on-labrador": [
+   20242,
+   "Left on Labrador; or, The cruise of the Schooner-yacht \"Curlew\" As Recorded by \"Wash\""
+  ],
+  "castephens-when-life-was-young": [
+   26994,
+   "When Life Was Young: At the Old Farm in Maine"
+  ],
+  "castephens-ark-of-1803": [
+   61226,
+   "The Ark of 1803: A Story of Louisiana Purchase Times"
+  ],
+  "estredder-alive-in-the-jungle": [
+   43595,
+   "Alive in the jungle"
+  ],
+  "estredder-doing-and-daring": [
+   43620,
+   "Doing and daring"
+  ],
+  "estredder-lost-in-the-wilds": [
+   43640,
+   "Lost in the wilds"
+  ],
+  "estredder-jack-and-his-ostrich": [
+   75898,
+   "Jack and his ostrich"
+  ],
+  "othanet-stories-of-a-western-town": [
+   2949,
+   "Stories of a Western Town"
+  ],
+  "othanet-stories-that-end-well": [
+   33499,
+   "Stories That End Well"
+  ],
+  "othanet-missionary-sheriff-being-incidents-in-the-life-of-a": [
+   67357,
+   "The Missionary Sheriff Being incidents in the life of a plain man who tried to do his duty"
+  ],
+  "othanet-lion-s-share": [
+   68875,
+   "The lion's share"
+  ],
+  "kcthurston-masquerader": [
+   5422,
+   "The Masquerader"
+  ],
+  "kcthurston-max": [
+   14054,
+   "Max"
+  ],
+  "kcthurston-mystics": [
+   21127,
+   "The Mystics: A Novel"
+  ],
+  "kcthurston-gambler": [
+   33490,
+   "The Gambler: A Novel"
+  ],
+  "jctregarthen-master-reynard": [
+   44347,
+   "Master Reynard: The History of a Fox"
+  ],
+  "jctregarthen-story-of-a-hare": [
+   48299,
+   "The Story of a Hare"
+  ],
+  "jctregarthen-life-story-of-an-otter": [
+   54872,
+   "The Life Story of an Otter"
+  ],
+  "jctregarthen-wild-life-at-the-land-s-end-observations-of-the": [
+   57906,
+   "Wild Life at the Land's End Observations of the Habits and Haunts of the Fox, Badger, Otter, Seal, Hare and of Their Pursuers in Cornwall"
+  ],
+  "avivanti-devourers": [
+   39145,
+   "The Devourers"
+  ],
+  "avivanti-outrage": [
+   40949,
+   "The Outrage"
+  ],
+  "avivanti-journey-to-crete-costantinople-naples-and-florence": [
+   41246,
+   "A Journey to Crete, Costantinople, Naples and Florence: Three Months Abroad"
+  ],
+  "avivanti-marie-tarnowska": [
+   43058,
+   "Marie Tarnowska"
+  ],
+  "cwarman-last-spike-and-other-railroad-stories": [
+   17572,
+   "The last spike, and other railroad stories"
+  ],
+  "cwarman-snow-on-the-headlight": [
+   30447,
+   "Snow on the headlight"
+  ],
+  "cwarman-white-mail": [
+   71261,
+   "The White Mail"
+  ],
+  "cwarman-prospector-and-the-silver-queen": [
+   74521,
+   "The Prospector, and The Silver Queen"
+  ],
+  "swarren-experiences-of-a-barrister-and-confessions-of-an-att": [
+   12371,
+   "The Experiences of a Barrister, and Confessions of an Attorney"
+  ],
+  "swarren-ten-thousand-a-year-volume-1": [
+   31004,
+   "Ten Thousand a-Year. Volume 1."
+  ],
+  "swarren-ten-thousand-a-year-volume-3": [
+   41247,
+   "Ten Thousand a-Year. Volume 3."
+  ],
+  "swarren-ten-thousand-a-year-volume-2": [
+   41332,
+   "Ten Thousand a-Year. Volume 2."
+  ],
+  "jlwilliams-adventures-of-a-freshman": [
+   34986,
+   "The Adventures of a Freshman"
+  ],
+  "jlwilliams-why-marry": [
+   35389,
+   "Why Marry?"
+  ],
+  "jlwilliams-new-york-sketches": [
+   42501,
+   "New York Sketches"
+  ],
+  "jlwilliams-princeton-stories": [
+   43587,
+   "Princeton Stories"
+  ],
+  "cjwills-pit-town-coronet": [
+   42167,
+   "The Pit Town Coronet: A Family Mystery, Volume 1 (of 3)"
+  ],
+  "cjwills-pit-town-coronet-42168": [
+   42168,
+   "The Pit Town Coronet: A Family Mystery, Volume 2 (of 3)"
+  ],
+  "cjwills-pit-town-coronet-42169": [
+   42169,
+   "The Pit Town Coronet: A Family Mystery, Volume 3 (of 3)"
+  ],
+  "cjwills-in-the-land-of-the-lion-and-sun-or-modern-persia": [
+   72128,
+   "In the land of the lion and sun, or, modern Persia"
+  ],
+  "pcwren-snake-and-sword": [
+   10667,
+   "Snake and Sword: A Novel"
+  ],
+  "pcwren-driftwood-spars-the-stories-of-a-man-a-boy-a-woman-an": [
+   11691,
+   "Driftwood Spars The Stories of a Man, a Boy, a Woman, and Certain Other People Who Strangely Met Upon the Sea of Life"
+  ],
+  "pcwren-cupid-in-africa": [
+   37544,
+   "Cupid in Africa"
+  ],
+  "pcwren-wages-of-virtue": [
+   41652,
+   "The Wages of Virtue"
+  ],
+  "jmwright-nature-readers": [
+   71462,
+   "Nature readers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-71843": "PG 71843: a second Gutenberg edition of Julia McNair Wright's Nature readers.",
+  "pg-72044": "PG 72044: a second Gutenberg edition of Julia McNair Wright's Nature readers.",
+  "pg-72508": "PG 72508: a second Gutenberg edition of Julia McNair Wright's Nature readers."
+ },
+ "_held": {},
+ "_checks": {
+  "cgobrien-frank-hardy-s-choice-and-what-came-of-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte grace o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgobrien-happiness-of-hazelbrook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte grace o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgobrien-ben-holt-s-good-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte grace o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgobrien-northcliffe-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte grace o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcoemler-purple-heights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie conway oemler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcoemler-woman-named-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie conway oemler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcoemler-slippy-mcgee-sometimes-known-as-the-butterfly-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie conway oemler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcoemler-where-the-young-child-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie conway oemler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpendexter-virginia-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh pendexter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpendexter-red-belts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh pendexter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpendexter-it-might-have-happened-otherwise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh pendexter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpendexter-red-stripes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh pendexter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eprimestevenso-square-of-sevens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward prime-stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eprimestevenso-left-to-themselves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward prime-stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eprimestevenso-imre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward prime-stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eprimestevenso-white-cockades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward prime-stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrobertson-where-angels-fear-to-tread-and-other-stories-of-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrobertson-wreck-of-the-titan-or-futility": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrobertson-grain-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrobertson-over-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasala-strange-adventures-of-captain-dangerous-vol-1-who-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george augustus sala",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasala-strange-adventures-of-captain-dangerous-vol-2-who-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george augustus sala",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasala-strange-adventures-of-captain-dangerous-vol-3-who-was": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george augustus sala",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gasala-twice-round-the-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george augustus sala",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsavage-fascinating-traitor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsavage-midnight-passenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsavage-little-lady-of-lagunitas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rsavage-in-the-swim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard savage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpsmith-rival-campers-ashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruel perley smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpsmith-jack-harvey-s-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruel perley smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpsmith-rival-campers-afloat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruel perley smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpsmith-rival-campers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruel perley smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castephens-busy-year-at-the-old-squire-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. a. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castephens-left-on-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. a. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castephens-when-life-was-young": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. a. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "castephens-ark-of-1803": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. a. stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estredder-alive-in-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stredder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estredder-doing-and-daring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stredder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estredder-lost-in-the-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stredder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "estredder-jack-and-his-ostrich": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stredder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "othanet-stories-of-a-western-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "octave thanet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "othanet-stories-that-end-well": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "octave thanet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "othanet-missionary-sheriff-being-incidents-in-the-life-of-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "octave thanet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "othanet-lion-s-share": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "octave thanet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcthurston-masquerader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine cecil thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcthurston-max": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine cecil thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcthurston-mystics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine cecil thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kcthurston-gambler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine cecil thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jctregarthen-master-reynard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jctregarthen-story-of-a-hare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jctregarthen-life-story-of-an-otter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jctregarthen-wild-life-at-the-land-s-end-observations-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. tregarthen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "avivanti-devourers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie vivanti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "avivanti-outrage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie vivanti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "avivanti-journey-to-crete-costantinople-naples-and-florence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie vivanti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "avivanti-marie-tarnowska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie vivanti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwarman-last-spike-and-other-railroad-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cy warman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwarman-snow-on-the-headlight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cy warman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwarman-white-mail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cy warman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwarman-prospector-and-the-silver-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cy warman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swarren-experiences-of-a-barrister-and-confessions-of-an-att": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swarren-ten-thousand-a-year-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swarren-ten-thousand-a-year-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swarren-ten-thousand-a-year-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlwilliams-adventures-of-a-freshman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse lynch williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlwilliams-why-marry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse lynch williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlwilliams-new-york-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse lynch williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlwilliams-princeton-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jesse lynch williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjwills-pit-town-coronet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. wills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjwills-pit-town-coronet-42168": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. wills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjwills-pit-town-coronet-42169": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. wills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjwills-in-the-land-of-the-lion-and-sun-or-modern-persia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. j. wills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcwren-snake-and-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival christopher wren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcwren-driftwood-spars-the-stories-of-a-man-a-boy-a-woman-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival christopher wren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcwren-cupid-in-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival christopher wren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcwren-wages-of-virtue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival christopher wren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmwright-nature-readers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia mcnair wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
