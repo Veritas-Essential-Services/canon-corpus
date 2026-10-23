@@ -1,0 +1,33 @@
+{
+ "_about": "Karl Friedrich Hermann (1804-1855), Heidelberg and Gottingen classicist, raw IA OCR of A Manual of the Political Antiquities of Greece, the anonymous Oxford translation (1836). Greek political antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "K. F. Hermann",
+ "_name_words": [
+  "hermann"
+ ],
+ "_surname": [
+  "k. f. hermann",
+  "hermann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "k-f-hermann-political-antiquities-of-greece-1836": [
+   "amanualpolitica00hermgoog",
+   "A Manual of the Political Antiquities of Greece, historically considered, from the German of Charles Frederick Hermann (Oxford: D. A. Talboys, 1836)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "k-f-hermann-political-antiquities-of-greece-1836": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hermann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
