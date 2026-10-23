@@ -16973,6 +16973,20 @@ Slugs `chappell-*`. Built from title pages read for round 108.
 | Sermons from the Miracles (1927): this scan is a printing from after 1949 (its jacket notes his retirement that year); a pre-1930 printing is wanted | pending | not shelved |
 | Familiar Failures (copyright 1927): this scan has a Garden City imprint and no printing date, so it may be a printing from after 1929; a dated pre-1930 printing is wanted | pending | not shelved |
 | Books printed in 1930 or later (The Sermon on the Mount and after) left out | excluded | |
+
+## John MacHale (round 109, my pick, 2026-10-23)
+
+Slugs `machale-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermoni cinque predicati in Roma : nel corrente anno ecclesiastico / dall' illmo e rmo monsig. Giovanni Mac-Hale, vescovo di Maronia e coadiutore di Killala in Irlanda ; e dall'inglese recati in italiano dall'Ab. Antonino De-Luca (nel Collegio Urbano, 1832) | have-ocr | IA `sermonicinquepre00mach` |
+| The letters of the Most Reverend John Mac Hale, D.D (Dublin : J. Duffy, 1847) | have-ocr | IA `lettersofmostrev00mach` |
+| Sermons and discourses (Dublin : Gill ; New York : Catholic Publication Society, 1883) | have-ocr | IA `sermonsanddiscou00machuoft` |
+| The evidences and doctrines of the Catholic Church : showing that the former are no less convincing than the latter are propitious to the happiness of society (catalogued 1885) | have-ocr | IA `evidencesdoctrin00mach` |
+| Letters of Hierophilos to the English People on the moral and political state of Ireland (1822), IA 10280103bsb: signed only "Hierophilos"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| 10775010bsb (a German translation by another hand) | excluded | |
+| His Irish translations of Moore's Melodies and the Ballad History are literary; left out | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
