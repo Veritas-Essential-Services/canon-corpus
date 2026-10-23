@@ -16259,3 +16259,18 @@ Shelf: `pipeline/catharine-parr-traill_shelf.json` (2026-10-22; added at the coo
 | Little Downy: The History of a Field-Mouse | have | PG 27239, `cptraill-little-downy` (108 units) |
 | The Tell-Tale: An Original Collection of Moral and Amusing Stories | have | PG 54480, `cptraill-tell-tale` (540 units) |
 | North American Wild Flowers | have | PG 56288, `cptraill-north-american-wild-flowers` (394 units) |
+
+## Mabell S. C. Smith
+
+Shelf: `pipeline/mabell-sc-smith_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ethel Morton's Enterprise | have | PG 11660, `mscsmith-ethel-mortons-enterprise` (1863 units) |
+| Ethel Morton at Rose House | have | PG 15550, `mscsmith-ethel-morton-at-rose-house` (881 units) |
+| Ethel Morton's Holidays | have | PG 19834, `mscsmith-ethel-mortons-holidays` (950 units) |
+| A Tar-Heel Baron | have | PG 26112, `mscsmith-tar-heel-baron` (2164 units) |
+| Ethel Morton at Sweetbrier Lodge | have | PG 35364, `mscsmith-ethel-morton-at-sweetbrier-lodge` (1701 units) |
+| Ethel Morton and the Christmas Ship | have | PG 36007, `mscsmith-ethel-morton-and-the-christmas-ship` (2036 units) |
+| Ethel Morton at Chautauqua | have | PG 36010, `mscsmith-ethel-morton-at-chautauqua` (1883 units) |
+| Twenty Centuries of Paris | have | PG 63570, `mscsmith-twenty-centuries-of-paris` (1148 units) |
