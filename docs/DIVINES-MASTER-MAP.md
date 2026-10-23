@@ -11349,6 +11349,20 @@ Slugs `wigglesworth-*`. Built from title pages read for round 51.
 | The day of doom (New York, American news company, 1867) | have-ocr | IA `dayofdoom00wigg` |
 | Meat out of the eater, ...  1689 (catalogued 1689) | have-ocr | IA `bim_early-english-books-1641-1700_meat-out-of-the-eater-_wigglesworth-michael_1689` |
 | The 1666, 1673 and 1687 London printings of The Day of Doom (Early English Books), the 1711 Boston printing, other 1867 copies, and the Gutenberg text (PG 56053) | alternate | not shelved |
+
+## John Norton (Puritan) (round 51, my pick, 2026-10-23)
+
+Slugs `jnorton-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The orthodox evangelist.  1657 (catalogued 1657) | have-ocr | IA `bim_early-english-books-1641-1700_the-orthodox-evangelist_norton-john_1657` |
+| Abel being dead yet speaketh; or, The life & death of that deservedly famous man of God, Mr John Cotton, : late teacher of the church of Christ, at Boston in New-England (London : printed by Tho. Newcomb for Lodowick Lloyd, and are to be sold at his shop next the Castle-Tavern in Cornhill, 1658) | have-ocr | IA `abelbeingdeadyet00nort` |
+| The heart of N-England rent ...  1659 (catalogued 1659) | have-ocr | IA `bim_early-english-books-1641-1700_the-heart-of-n-england-r_norton-john_1659` |
+| A brief catechisme containing the doctrine of godlines, ...  1660 (catalogued 1660) | have-ocr | IA `bim_early-english-books-1641-1700_a-brief-catechisme-conta_norton-john_1660` |
+| Three choice and profitable sermons, ...  1664 (catalogued 1664) | have-ocr | IA `bim_early-english-books-1641-1700_three-choice-and-profita_norton-john_1664` |
+| The 1834 and 1842 reprints of Abel as Memoir of John Cotton | alternate | not shelved |
+| Responsio ad totam questionum syllogen (1648, Latin) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

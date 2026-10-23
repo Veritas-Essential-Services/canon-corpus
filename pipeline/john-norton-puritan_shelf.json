@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain John Norton (1606-1663), minister of Ipswich and then of the First Church, Boston, for the Word Hoard: The Orthodox Evangelist (1657), Abel being Dead yet Speaketh, his life of John Cotton (1658), The Heart of N-England Rent (1659), A Brief Catechisme (1660) and Three Choice and Profitable Sermons (1664), from Internet Archive scans. Charles Eliot Norton's Dante is the separate norton shelf. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "norton"
+ ],
+ "_surname": [
+  "john norton",
+  "j. norton",
+  "jo. norton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jnorton-orthodox-evangelist": [
+   "bim_early-english-books-1641-1700_the-orthodox-evangelist_norton-john_1657",
+   "The orthodox evangelist.  1657 (catalogued 1657)"
+  ],
+  "jnorton-abel": [
+   "abelbeingdeadyet00nort",
+   "Abel being dead yet speaketh; or, The life & death of that deservedly famous man of God, Mr John Cotton, : late teacher of the church of Christ, at Boston in New-England (London : printed by Tho. Newcomb for Lodowick Lloyd, and are to be sold at his shop next the Castle-Tavern in Cornhill, 1658)"
+  ],
+  "jnorton-heart-of-new-england": [
+   "bim_early-english-books-1641-1700_the-heart-of-n-england-r_norton-john_1659",
+   "The heart of N-England rent ...  1659 (catalogued 1659)"
+  ],
+  "jnorton-catechisme": [
+   "bim_early-english-books-1641-1700_a-brief-catechisme-conta_norton-john_1660",
+   "A brief catechisme containing the doctrine of godlines, ...  1660 (catalogued 1660)"
+  ],
+  "jnorton-three-sermons": [
+   "bim_early-english-books-1641-1700_three-choice-and-profita_norton-john_1664",
+   "Three choice and profitable sermons, ...  1664 (catalogued 1664)"
+  ]
+ },
+ "_alternates": {
+  "jnorton-copies": "The 1834 and 1842 reprints of Abel as Memoir of John Cotton"
+ },
+ "_excluded": {
+  "jnorton-other": "Responsio ad totam questionum syllogen (1648, Latin)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jnorton-orthodox-evangelist": {
+   "author": "title page read from the page image: 'The Orthodox Evangelist, or a Treatise wherein many great Evangelical Truths ... are briefly discussed ... By John Norton, Teacher of the Church at Ipswich in New-England. London' (dark scan) (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Orthodox Evangelist, or a Treatise wherein many great Evangelical Truths ... are briefly discussed ... By John Norton, Teacher of the Church at Ipswich in New-England. London' (dark scan) (OCR of the scan is unreadable)"
+  },
+  "jnorton-heart-of-new-england": {
+   "author": "title page read from the page image: 'The Heart of N-England rent at the Blasphemies of the present Generation, or a brief tractate concerning the doctrine of the Quakers ... By John Norton, Teacher of the Church of Christ at Boston ... Cambridge: printed by Samuel Green, 1659' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Heart of N-England rent at the Blasphemies of the present Generation, or a brief tractate concerning the doctrine of the Quakers ... By John Norton, Teacher of the Church of Christ at Boston ... Cambridge: printed by Samuel Green, 1659' (OCR of the scan is unreadable)"
+  },
+  "jnorton-catechisme": {
+   "author": "title page read from the page image: 'A Brief Catechisme containing the Doctrine of Godlines, or of Living unto God. By John Norton, Teacher of the Church at Boston in New-England. Cambridge: printed by S. G. and M. J., 1660' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'A Brief Catechisme containing the Doctrine of Godlines, or of Living unto God. By John Norton, Teacher of the Church at Boston in New-England. Cambridge: printed by S. G. and M. J., 1660' (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jnorton-orthodox-evangelist": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jnorton-abel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john norton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jnorton-heart-of-new-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jnorton-catechisme": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jnorton-three-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1664",
+   "ia_date": "1664",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
