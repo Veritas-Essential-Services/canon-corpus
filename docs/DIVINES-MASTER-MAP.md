@@ -11108,6 +11108,18 @@ Slugs `dacosta-*`. Built from title pages read for round 49.
 | The four witnesses: being a harmony of the Gospels on a new principle (London, J. Nisbet & co., 1851) | have-ocr | IA `fourwitnessesbe00cost` |
 | The 1855 printing of The Four Witnesses | alternate | not shelved |
 | Dutch poems and works (De Perzen, Vijf en twintig jaren, the Bilderdijk volumes, Israël en de volken) | excluded | |
+
+## Matthias Loy (round 49, my pick, 2026-10-23)
+
+Slugs `loy-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The doctrine of justification (Columbus, O., The Lutheran Book Concern, 1882) | have-ocr | IA `doctrineofjustif00loym` |
+| Sermons on the Gospels for the Sundays and CHief Festivals of the Church Year (catalogued 1888) | have-ocr | IA `sermonsongospels0000mloy` |
+| Story of my life (Columbus, O., Lutheran book concern, 1905) | have-ocr | IA `storyofmylife00loym` |
+| The Sermon on the mount : a practical study of chapters V-VII of St. Matthew's Gospel (Columbus, Ohio : Lutheran Book Concern, 1909) | have-ocr | IA `sermononmountpra00loym` |
+| The Life and Deeds of Dr. Martin Luther (1869, Fick's book, Loy only translated) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
