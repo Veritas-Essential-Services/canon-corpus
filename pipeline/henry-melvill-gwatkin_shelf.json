@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Henry Melvill Gwatkin (1844-1916), Dixie Professor of Ecclesiastical History at Cambridge, for the Word Hoard: The Arian Controversy, Studies of Arianism, The Knowledge of God and its Historical Development (Gifford Lectures), The Eye for Spiritual Things (sermons) and Early Church History to A.D. 313. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry melvill gwatkin",
+  "h. m. gwatkin",
+  "henry m. gwatkin"
+ ],
+ "_surname": [
+  "henry melvill gwatkin",
+  "h. m. gwatkin",
+  "henry m. gwatkin",
+  "gwatkin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gwatkin-arian-controversy": [
+   "ariancontroversy00gwat",
+   "The Arian controversy (New York : Anson D.F. Randoplh [sic], 1880)"
+  ],
+  "gwatkin-studies-arianism": [
+   "studiesofarianis0000gwat",
+   "Studies of Arianism : chiefly referring to the character and chronology of the reaction which followed the council of Nicæa (Cambridge : Deighton, Bell, and Co. ; London : G. Bell, 1882)"
+  ],
+  "gwatkin-knowledge-of-god": [
+   "knowledgeofgodit0000gwat",
+   "The knowledge of God and its historical development (Edinburgh, T. & T. Clark, 1906)"
+  ],
+  "gwatkin-eye-spiritual-things": [
+   "eyeforspiritualt00gwat",
+   "The eye for spiritual things, and other sermons (Edinburgh, T. & T. Clark, 1907)"
+  ],
+  "gwatkin-early-church": [
+   "earlychurchhisto0000gwat",
+   "Early church history to A.D. 313 (London : Macmillan, 1912)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gwatkin-edited": "Selections from Early Writers (sources he edited), The Church Past and Present and The Cambridge Medieval History (many authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gwatkin-arian-controversy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. m. gwatkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwatkin-studies-arianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry melvill gwatkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwatkin-knowledge-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry melvill gwatkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwatkin-eye-spiritual-things": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry melvill gwatkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwatkin-early-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gwatkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

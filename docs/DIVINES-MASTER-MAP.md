@@ -15587,6 +15587,19 @@ Slugs `jenkin-*`. Built from title pages read for round 94.
 | the 1688-1700 political tracts and first printings (Early English Books) | excluded | |
 | Defensio S. Augustini (Latin, 1728) | excluded | |
 | A Plain and Easy Introduction (1795), a later compilation | excluded | |
+
+## Henry Melvill Gwatkin (round 94, my pick, 2026-10-23)
+
+Slugs `gwatkin-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The Arian controversy (New York : Anson D.F. Randoplh [sic], 1880) | have-ocr | IA `ariancontroversy00gwat` |
+| Studies of Arianism : chiefly referring to the character and chronology of the reaction which followed the council of Nicæa (Cambridge : Deighton, Bell, and Co. ; London : G. Bell, 1882) | have-ocr | IA `studiesofarianis0000gwat` |
+| The knowledge of God and its historical development (Edinburgh, T. & T. Clark, 1906) | have-ocr | IA `knowledgeofgodit0000gwat` |
+| The eye for spiritual things, and other sermons (Edinburgh, T. & T. Clark, 1907) | have-ocr | IA `eyeforspiritualt00gwat` |
+| Early church history to A.D. 313 (London : Macmillan, 1912) | have-ocr | IA `earlychurchhisto0000gwat` |
+| Selections from Early Writers (sources he edited), The Church Past and Present and The Cambridge Medieval History (many authors) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
