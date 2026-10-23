@@ -10918,3 +10918,32 @@ Slugs `keil-*`. Built from title pages read for round 48.
 | Manual of Biblical archaeology, vol. 2 (Edinburgh : T. & T. Clark, 1887) | have-ocr | IA `manualofbiblical02keil` |
 | The 1864-1865 first printings of the Pentateuch (pentateuch01keil, pentateuch03keil) and the Google copies of Kings, Ezra and Joshua; the 1866 Samuel | alternate | not shelved |
 | German editions (Biblischer Commentar, Einleitung, Handbuch der biblischen Archäologie); 1949-1990 reprints of the English set; the Books of the Maccabees commentary (never Englished) | excluded | |
+
+## Franz Delitzsch (round 48, my pick, 2026-10-23)
+
+Slugs `delitzsch-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical commentary on the Book of Job, vol. 1 (Edinburgh, Clark, 1866) | have-ocr | IA `biblicalcommejob01deliuoft` |
+| Biblical commentary on the Book of Job, vol. 2 (Edinburgh, Clark, 1866) | have-ocr | IA `biblicalcommejob02deliuoft` |
+| Biblical commentary on the Psalms, vol. 1 (Edinburgh : T. & T. Clark, 1871) | have-ocr | IA `biblicalcommenta187101deli` |
+| Biblical commentary on the Psalms, vol. 2 (Edinburgh : T. & T. Clark, 1871) | have-ocr | IA `biblicalcommenta187102deli` |
+| Biblical Commentary on the Psalms, vol. 3 (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `biblicalcomment02unkngoog` |
+| Biblical commentary on the Proverbs of Solomon, vol. 1 (Edinburgh : T. [and] T. Clark, 1874) | have-ocr | IA `biblicalcommentary01deli` |
+| Biblical commentary on the Proverbs of Solomon, vol. 2 (Edinburgh : T. [and] T. Clark, 1874) | have-ocr | IA `biblicalcommentary02deli` |
+| Biblical commentary on the prophecies of Isaiah, vol. 1 (Edinburgh : T. [and] T. Clark, 1884) | have-ocr | IA `isaiahsprophecie01deliuoft` |
+| Biblical commentary on the prophecies of Isaiah, vol. 2 (Edinburgh : T. [and] T. Clark, 1884) | have-ocr | IA `isaiahsprophecie02deliuoft` |
+| Commentary on the epistle to the Hebrews, vol. 1 (Edinburgh : T. & T. Clark, 1874); translated by Thomas L. Kingsbury (OCR reads 'KINGSBUKY', so not claimed for this volume) | have-ocr | IA `epistlecomment01deliuoft` |
+| Commentary on the epistle to the Hebrews, vol. 2 (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `commentaryonepis02deli` |
+| A new commentary on Genesis, vol. 1 (New York : Scribner & Welfrod, 1889) | have-ocr | IA `newcommentaryong01deli` |
+| A new commentary on Genesis, vol. 2 (New York : Scribner & Welfrod, 1889); translated by Sophia Taylor (OCR reads 'TAYLOE', so not claimed for this volume) | have-ocr | IA `newcommentaryong02deli` |
+| A System of Biblical Psychology (Edinburgh: T. & T. Clark, 1867) | have-ocr | IA `asystembiblical01wallgoog` |
+| Messianic prophecies : lectures (Edinburgh : T. & T. Clark, 1880) | have-ocr | IA `messianicprophec00deliuoft` |
+| Messianic Prophecies in Historical Succession (Edinburgh: T. & T. Clark, 1891) | have-ocr | IA `messianicprophe01deligoog` |
+| Old Testament history of redemption : lectures (Edinburgh : T. & T. Clark, 1881) | have-ocr | IA `historyofredemp00deliuoft` |
+| Jewish artisan life in the time of our Lord. : To which is appended a critical comparison between Jesus and Hillel (London : Samuel Bagster and sons, 1877) | have-ocr | IA `jewishartisanlif00deli` |
+| A day in Capernaum (Philadelphia, Lutheran board of publication, 1873) | have-ocr | IA `dayincapernaum02deli` |
+| Iris: Studies in Colour and Talks about Flowers (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `irisstudiesinco00deligoog` |
+| The 1890 fourth edition of Isaiah (cu31924063722031, cu31924063722023) and the 1880 Proverbs reprint; other copies of Job, the Psychology (1869, 1879, 1885) and Jewish Artisan Life (1883, 1902) | alternate | not shelved |
+| German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round | excluded | |

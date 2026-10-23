@@ -1,0 +1,372 @@
+{
+ "_about": "Public-domain Franz Delitzsch (1813-1890), Lutheran Hebraist of Erlangen and Leipzig, for the Word Hoard: his volumes of the Keil and Delitzsch Biblical Commentary on the Old Testament (Job, Psalms, Proverbs, Isaiah), his Commentary on Hebrews, A New Commentary on Genesis, A System of Biblical Psychology, Messianic Prophecies (1880 and 1891), Old Testament History of Redemption, Jewish Artisan Life, A Day in Capernaum and Iris, in their nineteenth-century English translations, from Internet Archive scans. Keil's volumes of the same series are on the carl-friedrich-keil shelf. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "delitzsch"
+ ],
+ "_surname": [
+  "franz delitzsch",
+  "f. delitzsch",
+  "delitzsch"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "delitzsch-job-1": [
+   "biblicalcommejob01deliuoft",
+   "Biblical commentary on the Book of Job, vol. 1 (Edinburgh, Clark, 1866)"
+  ],
+  "delitzsch-job-2": [
+   "biblicalcommejob02deliuoft",
+   "Biblical commentary on the Book of Job, vol. 2 (Edinburgh, Clark, 1866)"
+  ],
+  "delitzsch-psalms-1": [
+   "biblicalcommenta187101deli",
+   "Biblical commentary on the Psalms, vol. 1 (Edinburgh : T. & T. Clark, 1871)"
+  ],
+  "delitzsch-psalms-2": [
+   "biblicalcommenta187102deli",
+   "Biblical commentary on the Psalms, vol. 2 (Edinburgh : T. & T. Clark, 1871)"
+  ],
+  "delitzsch-psalms-3": [
+   "biblicalcomment02unkngoog",
+   "Biblical Commentary on the Psalms, vol. 3 (Edinburgh: T. & T. Clark, 1871)"
+  ],
+  "delitzsch-proverbs-1": [
+   "biblicalcommentary01deli",
+   "Biblical commentary on the Proverbs of Solomon, vol. 1 (Edinburgh : T. [and] T. Clark, 1874)"
+  ],
+  "delitzsch-proverbs-2": [
+   "biblicalcommentary02deli",
+   "Biblical commentary on the Proverbs of Solomon, vol. 2 (Edinburgh : T. [and] T. Clark, 1874)"
+  ],
+  "delitzsch-isaiah-1": [
+   "isaiahsprophecie01deliuoft",
+   "Biblical commentary on the prophecies of Isaiah, vol. 1 (Edinburgh : T. [and] T. Clark, 1884)"
+  ],
+  "delitzsch-isaiah-2": [
+   "isaiahsprophecie02deliuoft",
+   "Biblical commentary on the prophecies of Isaiah, vol. 2 (Edinburgh : T. [and] T. Clark, 1884)"
+  ],
+  "delitzsch-hebrews-1": [
+   "epistlecomment01deliuoft",
+   "Commentary on the epistle to the Hebrews, vol. 1 (Edinburgh : T. & T. Clark, 1874); translated by Thomas L. Kingsbury (OCR reads 'KINGSBUKY', so not claimed for this volume)"
+  ],
+  "delitzsch-hebrews-2": [
+   "commentaryonepis02deli",
+   "Commentary on the epistle to the Hebrews, vol. 2 (Edinburgh : T. & T. Clark, 1872)"
+  ],
+  "delitzsch-new-genesis-1": [
+   "newcommentaryong01deli",
+   "A new commentary on Genesis, vol. 1 (New York : Scribner & Welfrod, 1889)"
+  ],
+  "delitzsch-new-genesis-2": [
+   "newcommentaryong02deli",
+   "A new commentary on Genesis, vol. 2 (New York : Scribner & Welfrod, 1889); translated by Sophia Taylor (OCR reads 'TAYLOE', so not claimed for this volume)"
+  ],
+  "delitzsch-biblical-psychology": [
+   "asystembiblical01wallgoog",
+   "A System of Biblical Psychology (Edinburgh: T. & T. Clark, 1867)"
+  ],
+  "delitzsch-messianic-prophecies-1880": [
+   "messianicprophec00deliuoft",
+   "Messianic prophecies : lectures (Edinburgh : T. & T. Clark, 1880)"
+  ],
+  "delitzsch-messianic-prophecies-1891": [
+   "messianicprophe01deligoog",
+   "Messianic Prophecies in Historical Succession (Edinburgh: T. & T. Clark, 1891)"
+  ],
+  "delitzsch-history-of-redemption": [
+   "historyofredemp00deliuoft",
+   "Old Testament history of redemption : lectures (Edinburgh : T. & T. Clark, 1881)"
+  ],
+  "delitzsch-jewish-artisan-life": [
+   "jewishartisanlif00deli",
+   "Jewish artisan life in the time of our Lord. : To which is appended a critical comparison between Jesus and Hillel (London : Samuel Bagster and sons, 1877)"
+  ],
+  "delitzsch-day-in-capernaum": [
+   "dayincapernaum02deli",
+   "A day in Capernaum (Philadelphia, Lutheran board of publication, 1873)"
+  ],
+  "delitzsch-iris": [
+   "irisstudiesinco00deligoog",
+   "Iris: Studies in Colour and Talks about Flowers (Edinburgh: T. & T. Clark, 1889)"
+  ]
+ },
+ "_alternates": {
+  "delitzsch-copies": "The 1890 fourth edition of Isaiah (cu31924063722031, cu31924063722023) and the 1880 Proverbs reprint; other copies of Job, the Psychology (1869, 1879, 1885) and Jewish Artisan Life (1883, 1902)"
+ },
+ "_excluded": {
+  "delitzsch-other": "German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "delitzsch-psalms-3": "title page read from the page image: 'Biblical Commentary on the Psalms. By Franz Delitzsch, D.D. ... translated from the German (from the second edition, revised throughout) by the Rev. Francis Bolton, B.A. Vol. III. Edinburgh: T. & T. Clark, 1871' (Google scan opens with publisher's lists; the OCR never prints the name)"
+ },
+ "_pending": {},
+ "_translators": {
+  "delitzsch-job-1": "Francis Bolton",
+  "delitzsch-job-2": "Francis Bolton",
+  "delitzsch-psalms-1": "Francis Bolton",
+  "delitzsch-psalms-2": "Francis Bolton",
+  "delitzsch-psalms-3": "Bolton",
+  "delitzsch-proverbs-1": "Easton",
+  "delitzsch-proverbs-2": "Easton",
+  "delitzsch-isaiah-1": "James Martin",
+  "delitzsch-isaiah-2": "James Martin",
+  "delitzsch-hebrews-2": "Kingsbury",
+  "delitzsch-new-genesis-1": "Sophia Taylor",
+  "delitzsch-biblical-psychology": "Wallis",
+  "delitzsch-messianic-prophecies-1880": "Curtiss",
+  "delitzsch-messianic-prophecies-1891": "Curtiss",
+  "delitzsch-history-of-redemption": "Curtiss",
+  "delitzsch-jewish-artisan-life": "Monkhouse",
+  "delitzsch-day-in-capernaum": "Morris",
+  "delitzsch-iris": "Cusin"
+ },
+ "_checks": {
+  "delitzsch-job-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "translator_claimed": "Francis Bolton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-job-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "translator_claimed": "Francis Bolton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Francis Bolton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Francis Bolton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-proverbs-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Easton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-proverbs-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Easton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-isaiah-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-isaiah-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "James Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-hebrews-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1874-1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-hebrews-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "translator_claimed": "Kingsbury",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-new-genesis-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Sophia Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-new-genesis-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-biblical-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Wallis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-messianic-prophecies-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Curtiss",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-messianic-prophecies-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Curtiss",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-history-of-redemption": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Curtiss",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-jewish-artisan-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "translator_claimed": "Monkhouse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "delitzsch-day-in-capernaum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "translator_claimed": "Morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "delitzsch-iris": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "translator_claimed": "Cusin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
