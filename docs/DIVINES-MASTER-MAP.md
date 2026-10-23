@@ -42896,3 +42896,18 @@ Shelf: `pipeline/allan-pinkerton_shelf.json` (2026-10-22; added at the coordinat
 | Mississippi Outlaws and the Detectives Don Pedro and the Detectives; Poisoner and the Detectives | have | PG 35686, `apinkerton-mississippi-outlaws-and-the-detectives-don-pedro` (1183 units) |
 | The Molly Maguires and the detectives | have | PG 76641, `apinkerton-molly-maguires-and-the-detectives` (2213 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 34973 The Spy of the Rebellion Being a True History of the Spy Sys (copyright line 1989). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## F. W. Bain
+
+Shelf: `pipeline/f-w-bain_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| An Essence of the Dusk, 5th Edition | have | PG 11499, `fwbain-essence-of-the-dusk-5th-edition` (163 units) |
+| Bubbles of the Foam | have | PG 19874, `fwbain-bubbles-of-the-foam` (245 units) |
+| The Substance of a Dream | have | PG 20935, `fwbain-substance-of-a-dream` (308 units) |
+| A Syrup of the Bees | have | PG 35928, `fwbain-syrup-of-the-bees` (238 units) |
+| The Ashes of a God | have | PG 48909, `fwbain-ashes-of-a-god` (205 units) |
+| A Digit of the Moon: A Hindoo Love Story | have | PG 48910, `fwbain-digit-of-the-moon` (304 units) |
+| A Mine of Faults | have | PG 48911, `fwbain-mine-of-faults` (278 units) |
+| A Draught of the Blue, together with An Essence of the Dusk | have | PG 49033, `fwbain-draught-of-the-blue-together-with-an-essence-of-the-d` (397 units) |

@@ -2417,3 +2417,6 @@
 
 ## 2026-10-22 23:10 CDT — allan-pinkerton: done
 - allan-pinkerton: new shelf, 7 Gutenberg books, 9,198 units, 870 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:10 CDT — f-w-bain: done
+- f-w-bain: new shelf, 8 Gutenberg books, 2,138 units, 238 ~2 ids; verify 0 mismatches, 0 rights flags.
