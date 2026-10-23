@@ -17933,6 +17933,18 @@ Slugs `pdevine-*`. Built from title pages read for round 119.
 | Eutropia: or, How to find a way out of darkness and doubt into light and certainty (catalogued 1880) | have-ocr | IA `eutropiaorhowto00devigoog` |
 | Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. III: St John (catalogued 1884) | have-ocr | IA `AuxiliumPraedicatorumV3` |
 | Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. II: St Mark and St Luke (catalogued 1884) | have-ocr | IA `ashortclassupon00devigoog` |
+
+## Joseph Longking (round 119, my pick, 2026-10-23)
+
+Slugs `longking-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Questions on the Gospels : the lessons in historical and chronological order, according to the arrangement of Townsend's Chronological New Testament / by Joseph Longking ; revised by the editors (Carlton & Porter, 1838) | have-ocr | IA `questionsongospe00long` |
+| NOTES ILLUSTRATIVE AND EXPLANATORY ON THE HOLY GOSPELS, vol. 1 (catalogued 1841) | have-ocr | IA `notesillustrativ0001jose` |
+| Sunday School Tracts (Lane & Scott, 1849) | have-ocr | IA `sundayschooltrac0000jose` |
+| Notes on the Epistles of Paul the apostle to the Galatians and Ephesians (New York, Carlton & Porter, Sunday-school union, 1863) | have-ocr | IA `notesonepistleso00long` |
+| questionsongospe0000jose (a 2017 reprint) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
