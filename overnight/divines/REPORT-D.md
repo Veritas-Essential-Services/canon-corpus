@@ -1832,3 +1832,6 @@
 
 ## 2026-10-22 22:24 CDT — marion-ames-taggart: done
 - marion-ames-taggart: new shelf, 16 Gutenberg books, 20,885 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — randall-parrish: done
+- randall-parrish: new shelf, 15 Gutenberg books, 27,234 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags.

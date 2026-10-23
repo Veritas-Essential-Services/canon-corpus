@@ -4117,6 +4117,14 @@
       "started": "2026-10-22T22:24:36-05:00",
       "finished": "2026-10-22T22:24:36-05:00",
       "notes": "marion-ames-taggart: new shelf, 16 Gutenberg books, 20,885 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "randall-parrish",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Randall Parrish; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:38-05:00",
+      "finished": "2026-10-22T22:24:38-05:00",
+      "notes": "randall-parrish: new shelf, 15 Gutenberg books, 27,234 units, 17 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -14053,3 +14053,26 @@ Shelf: `pipeline/marion-ames-taggart_shelf.json` (2026-10-22; added at the coord
 | Beth's wonder-winter | have | PG 75689, `mataggart-beths-wonder-winter` (1768 units) |
 | Three girls and especially one | have | PG 78414, `mataggart-three-girls-and-especially-one` (666 units) |
 | The queer little man | have | PG 78419, `mataggart-queer-little-man` (1253 units) |
+
+## Randall Parrish
+
+Shelf: `pipeline/randall-parrish_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frontier and historical romances. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| My Lady of the North | have | PG 6846, `rparrish-my-lady-of-the-north` (2167 units) |
+| Keith of the Border: A Tale of the Plains | have | PG 7510, `rparrish-keith-of-the-border` (1469 units) |
+| Wolves of the Sea Being a Tale of the Colonies from the Manuscript of One Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which Befell Him Aboard the Pirate Craft "Namur" | have | PG 10210, `rparrish-wolves-of-the-sea-being-a-tale-of-the-colonies-from` (1878 units) |
+| Love under Fire | have | PG 12015, `rparrish-love-under-fire` (1973 units) |
+| The Case and the Girl | have | PG 12357, `rparrish-case-and-the-girl` (1508 units) |
+| Beth Norvell: A Romance of the West | have | PG 17598, `rparrish-beth-norvell` (1593 units) |
+| Bob Hampton of Placer | have | PG 17614, `rparrish-bob-hampton-of-placer` (1783 units) |
+| The Strange Case of Cavendish | have | PG 17647, `rparrish-strange-case-of-cavendish` (2205 units) |
+| The Devil's Own: A Romance of the Black Hawk War | have | PG 17710, `rparrish-devils-own` (1736 units) |
+| Gordon Craig, Soldier of Fortune | have | PG 17765, `rparrish-gordon-craig-soldier-of-fortune` (1810 units) |
+| Molly McDonald: A Tale of the Old Frontier | have | PG 17789, `rparrish-molly-mcdonald` (1706 units) |
+| Prisoners of Chance The Story of What Befell Geoffrey Benteen, Borderman, through His Love for a Lady of France | have | PG 17856, `rparrish-prisoners-of-chance-the-story-of-what-befell-geoffr` (1815 units) |
+| When Wilderness Was King A Tale of the Illinois Country | have | PG 17890, `rparrish-when-wilderness-was-king-a-tale-of-the-illinois-cou` (1666 units) |
+| My Lady of Doubt | have | PG 18633, `rparrish-my-lady-of-doubt` (1756 units) |
+| Beyond the Frontier: A Romance of Early Days in the Middle West | have | PG 30319, `rparrish-beyond-the-frontier` (2169 units) |
+| repeat-editions | excluded | PG 59617: second Gutenberg editions of titles already on the shelf. |
