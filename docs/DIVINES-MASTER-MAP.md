@@ -15711,6 +15711,22 @@ Slugs `lindsey-*`. Built from title pages read for round 95.
 | bim_eighteenth-century_a-farewel-address-to-the_lindsey-theophilus_1773: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; the 1774 printing could replace it | pending | not shelved |
 | examinationofmrr00lind: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | The Polish Partition (satire, attribution doubtful), Letters of Theophilus Lindsey (1920 selection, edited), Unitarian Society tracts (many authors), and reprints of the Apology | excluded | |
+
+## George Putnam (Roxbury) (round 95, my pick, 2026-10-23)
+
+Slugs `gputnam-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse, on the occasion of the death of William Henry Harrison, ninth president of the United States : delivered at Roxbury, April 16th, 1841 (Boston : W. Crosby and Co., 1841) | have-ocr | IA `discourseonoccas00putn` |
+| Spiritual renewal the great work of the Christian Church and ministry : a sermon delivered at the ordination of Rev. Frederic D. Huntington, as pastor of the South Congregational Church in Boston, October 19, 1842 (Boston : William Crosby, 1842) | have-ocr | IA `spiritualrenewal00putn` |
+| A sermon delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council (Boston : Dutton and Wentworth, printers to the state, 1846) | have-ocr | IA `sermondeliveredb00putniala` |
+| God and our country : a discourse delivered in the First Congregational Church in Roxbury, on Fast Day, April 8, 1847 (catalogued 1847) | have-ocr | IA `ASPC0001937100` |
+| An address, delivered before the city government and citizens of Roxbury, on the life and character of the late Henry A. S. Dearborn, mayor of the city. September 3d, 1851 (Roxbury : Norfolk county journal press, 1851) | have-ocr | IA `addressdelivere00putn` |
+| An address spoken in the college chapel, Cambridge, October 28, 1864, at the funeral of Brig.-Gen ([Boston?, 1864) | have-ocr | IA `addressspokeninc00putn` |
+| Sermons preached in the church of the first religious society in Roxbury (catalogued 1878) | have-ocr | IA `sermonspreachedi00putn` |
+| remarksuponorati00putn: published 'BY A CITIZEN OF BOSTON'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his Phi Beta Kappa oration, manuscript letters, and books by other George Putnams | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
