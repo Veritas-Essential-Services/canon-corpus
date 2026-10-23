@@ -11630,3 +11630,12 @@ Slugs `cathcart-*`. Built from title pages read for round 53.
 | The Baptists and the American revolution (Philadelphia, S. A. George, 1876) | have-ocr | IA `baptistsamerican00cath` |
 | The baptism of the ages and of the nations (Philadelphia, American Baptist publication society, 1878) | have-ocr | IA `baptismofagesofn00cath` |
 | The Baptist Encyclopaedia (1881, many contributors; he edited it) | excluded | |
+
+## Andrew Broaddus (round 53, my pick, 2026-10-23)
+
+Slugs `broaddus-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The sermons and other writings of the Rev. Andrew Broaddus : with a memoir of his life (New York : Lewis Colby, 1852) | have-ocr | IA `sermonsotherwrit00broa` |
+| The Virginia Selection of Psalms, Hymns and Spiritual Songs (1840, his compilation); the Broaddus family history (1888, another author) | excluded | |

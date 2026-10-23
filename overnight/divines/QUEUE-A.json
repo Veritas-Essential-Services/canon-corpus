@@ -6886,6 +6886,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:03:03-05:00",
       "notes": "Philadelphia Baptist pastor; Papal System title page quoted (OCR garbles the name). 0 uids minted."
+    },
+    {
+      "id": "andrew-broaddus",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:04-05:00",
+      "notes": "Virginia Baptist preacher. 0 uids minted."
     }
   ]
 }
