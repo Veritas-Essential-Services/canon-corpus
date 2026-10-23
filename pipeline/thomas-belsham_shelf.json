@@ -1,0 +1,206 @@
+{
+ "_about": "Public-domain Thomas Belsham (1750-1829), Unitarian minister of Essex Street Chapel, London, for the Word Hoard: A Review of Mr. Wilberforce's Treatise (1798), Elements of the Philosophy of the Mind (1801), A Summary View of the Evidence of the Christian Revelation (1809), A Calm Inquiry into the Scripture Doctrine concerning the Person of Christ (1817), A Plea for Infant Baptism (1817), Memoirs of Theophilus Lindsey (1820), The Epistles of Paul translated with an exposition (4 vols., 1822) and his Discourses, doctrinal and practical (1826). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 77 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas belsham"
+ ],
+ "_surname": [
+  "belsham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "belsham-review-wilberforce": [
+   "areviewmrwilber00belsgoog",
+   "A Review of Mr. Wilberforce's Treatise: Entitled \"A Practical View of the Prevailing Religious (J. Johnson, 1805)"
+  ],
+  "belsham-philosophy-of-mind": [
+   "elementsofphilos00belsuoft",
+   "Elements of the philosophy of the mind, and of moral philosophy : to which is prefixed a compendium of logic (London : Printed for J. Johnson by Taylor and Wilks, 1801)"
+  ],
+  "belsham-summary-view": [
+   "cu31924029374117",
+   "A summary view of the evidence and practical importance of the Christian revelation: in a series of discourses addressed to young persons (London : Johnson, 1809)"
+  ],
+  "belsham-calm-inquiry": [
+   "calminquiryintos00bels",
+   "A calm inquiry into the Scripture doctrine concerning the person of Christ : to which are annexed a brief review of the controversy between Bishop Horsley and Dr. Priestley (London : Printed for the Unitarian Society, 1817)"
+  ],
+  "belsham-infant-baptism": [
+   "pleaforinfantbap00bels",
+   "A plea for infant baptism : to which is annexed an appendix containing two forms of administering the rite (London : Printed for Rowland Hunter, 1817)"
+  ],
+  "belsham-memoirs-lindsey": [
+   "memoirsoflaterev00bels",
+   "Memoirs of the late Reverend Theophilus Lindsey, M.A., including a brief analysis of his works; together with anecdotes and letters of eminent persons, his friends and correspondents; also a general view of the progress of the Unitarian doctrine in England and America (London, Printed for R. Hunter, 1820)"
+  ],
+  "belsham-epistles-paul-1": [
+   "epistlesofpaulap01bels",
+   "The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 1 (London : Printed for R. Hunter, 1822)"
+  ],
+  "belsham-epistles-paul-2": [
+   "epistlesofpaulap02bels",
+   "The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 2 (London : Printed for R. Hunter, 1822)"
+  ],
+  "belsham-epistles-paul-3": [
+   "epistlesofpaulap03bels",
+   "The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 3 (London : Printed for R. Hunter, 1822)"
+  ],
+  "belsham-epistles-paul-4": [
+   "epistlesofpaulap04bels",
+   "The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 4 (London : Printed for R. Hunter, 1822)"
+  ],
+  "belsham-discourses-1": [
+   "discoursesdoctr00belsgoog",
+   "Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826)"
+  ],
+  "belsham-discourses-2": [
+   "discoursesdoctr01belsgoog",
+   "Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "belsham-other": "the Unitarian Society Tracts (many authors); the Improved Version of the New Testament (1808), a committee work; pamphlets of under 60 pages"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "belsham-summary-view": "title page: 'A SUMMARY VIEW OF THE EVIDENCE AND PRACTICAL IMPORTANCE OF THE CHRISTIAN REVELATION ... BY THOMAS BELSHAM, MINISTER OF THE UNITARIAN CHAPEL IN ESSEX STREET, THE SECOND EDITION' (OCR 'ELSHAM')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "belsham-review-wilberforce": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-philosophy-of-mind": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "belsham-summary-view": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "belsham-calm-inquiry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-infant-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "belsham-memoirs-lindsey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "belsham-epistles-paul-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-epistles-paul-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-epistles-paul-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-epistles-paul-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-discourses-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "belsham-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "belsham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

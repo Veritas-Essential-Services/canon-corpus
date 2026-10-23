@@ -13988,3 +13988,23 @@ Slugs `sears-*`. Built from title pages read for round 77.
 | Sermons and songs of Christian life ([n.p.], 1875) | have-ocr | IA `sermonssongsofch00sear` |
 | Christ in the life : sermons, with a selection of poems (Boston : Lockwood, Brooks, 1877) | have-ocr | IA `christinlifeserm00sear` |
 | Foregleams and Foreshadows of Immortality (1873) is the enlarged later edition of Athanasia; Pictures of the Olden Time (1857) is a family history of his Pilgrim forebears; The Religious Magazine is a periodical he co-edited | excluded | |
+
+## Thomas Belsham (round 77, my pick, 2026-10-23)
+
+Slugs `belsham-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| A Review of Mr. Wilberforce's Treatise: Entitled "A Practical View of the Prevailing Religious (J. Johnson, 1805) | have-ocr | IA `areviewmrwilber00belsgoog` |
+| Elements of the philosophy of the mind, and of moral philosophy : to which is prefixed a compendium of logic (London : Printed for J. Johnson by Taylor and Wilks, 1801) | have-ocr | IA `elementsofphilos00belsuoft` |
+| A summary view of the evidence and practical importance of the Christian revelation: in a series of discourses addressed to young persons (London : Johnson, 1809) | have-ocr | IA `cu31924029374117` |
+| A calm inquiry into the Scripture doctrine concerning the person of Christ : to which are annexed a brief review of the controversy between Bishop Horsley and Dr. Priestley (London : Printed for the Unitarian Society, 1817) | have-ocr | IA `calminquiryintos00bels` |
+| A plea for infant baptism : to which is annexed an appendix containing two forms of administering the rite (London : Printed for Rowland Hunter, 1817) | have-ocr | IA `pleaforinfantbap00bels` |
+| Memoirs of the late Reverend Theophilus Lindsey, M.A., including a brief analysis of his works; together with anecdotes and letters of eminent persons, his friends and correspondents; also a general view of the progress of the Unitarian doctrine in England and America (London, Printed for R. Hunter, 1820) | have-ocr | IA `memoirsoflaterev00bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 1 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap01bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 2 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap02bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 3 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap03bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 4 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap04bels` |
+| Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr00belsgoog` |
+| Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr01belsgoog` |
+| the Unitarian Society Tracts (many authors); the Improved Version of the New Testament (1808), a committee work; pamphlets of under 60 pages | excluded | |
