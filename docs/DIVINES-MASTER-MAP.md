@@ -11079,6 +11079,7 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
 | Odes of Pindar, translated from the Greek, with notes and illustrations, vol. I (West's Dissertation on the Olympic Games) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v1` | have-raw (IA `bub_gb_DYwO8aCM97YC`) |
 | Odes of Pindar, translated from the Greek, with notes and illustrations, vol. II (the odes) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v2` | have-raw (IA `bub_gb_rkvNgCnbfGQC`) |
+| The Odes of Pindar, including the principal fragments, tr. Sir John Sandys (Loeb, 1915); Greek facing, kept per Adam's 2026-10-23 ruling |  | `pindar-sandys-loeb-1915` | have-raw (IA `odesofpindarsand00pinduoft`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 
