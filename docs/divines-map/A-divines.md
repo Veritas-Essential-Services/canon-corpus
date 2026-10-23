@@ -19436,3 +19436,24 @@ Slugs `bogue-*`. Built from title pages read for round 134.
 | the travel guides, catalogues and children's books are from David Bogue the London publisher | excluded | |
 | the German translation of the Essay | excluded | |
 | other scans of the Essay and of the 1811 sermon | excluded | |
+
+## Jonathan Mayhew Wainwright (round 134, my pick, 2026-10-23)
+
+Slugs `wainwright-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse, on the occasion of forming the African Mission School Society : delivered in Christ Church, in Hartford, Connecticut, on Sunday evening, Aug. 10, 1828 (catalogued 1828) | have-ocr | IA `ASPC0001986000` |
+| Sermon, preached before the Board of Directors of the Domestic and Foreign Missionary Society of the Protestant Episcopal Church in the United States of America, in St. James' Church, Philadelphia, on Tuesday, May 13, 1828 / published at the request of the Board (New-York: Printed by J. Seymour .., 1828) | have-ocr | IA `sermonpreachedbe00wain` |
+| A Sermon Preached on the Anniversary of the Boston Female Society for Destitute Orphans (Dutton and Wentworth, 1835) | have-ocr | IA `asermonpreached00waingoog` |
+| Inequality of Individual Wealth the Ordinance of Providence, and Essential to Civilization: A (Dutton and Wentworth , printers to the State, 1835) | have-ocr | IA `inequalityindiv00conggoog` |
+| Collegiate education (Hartford, Press of Case, Tiffany & Burnham, 1847) | have-ocr | IA `collegiateeducat00wain` |
+| Short family prayers for every morning &amp; evening of the week, &amp; for particular occasions (New York, E.P. Dutton & co., 1850) | have-ocr | IA `ajf8982.0001.001.umich.edu` |
+| The pathways and abiding places of Our Lord : illustrated in the journal of a tour through the land of promise (New-York : D. Appleton & Company ; Philadelphia : Geo. S. Appleton, 1851) | have-ocr | IA `pathwaysabidingp00wain` |
+| The land of bondage; its ancient monuments and present condition: being the journal of a tour in Egypt (New York : D. Appleton, 1852) | have-ocr | IA `landofbondageits00wain` |
+| Thirty four sermons (New York : D. Appleton and Co., 1856) | have-ocr | IA `thirtyfoursermon00wain` |
+| Can there be a Church without a Bishop? (1844, IA cantherebechurch00wain): a controversy written with George Potts (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The Women in the Bible (1850, IA thewomeninthebib00unknuoft): sketches by several clergymen that he edited (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| the chant and tune books are music he arranged | excluded | |
+| Marsh's Notes on the Episcopal Polity, the Choir and Family Psalter and the New York legislature reports are by others | excluded | |
+| other scans of the same books | excluded | |
