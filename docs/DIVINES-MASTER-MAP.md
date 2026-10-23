@@ -10448,6 +10448,20 @@ Slugs `sharp-*`. Built from title pages read for round 43.
 | The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 4 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks04shar` |
 | The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 5 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks05shar` |
 | The Life of John Sharp by his son Thomas Sharp (1825): another man's book | excluded | |
+
+## Philip Skelton (round 43, my pick, 2026-10-22)
+
+Slugs `skelton-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 1 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl01skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 2 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl02skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 3 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl03skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 4 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl04skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 5 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl05skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 6 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl06skel` |
+| The Google copies and the _0 duplicates of the same 1824 set | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
