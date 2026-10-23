@@ -11546,6 +11546,17 @@ Slugs `miley-*`. Built from title pages read for round 52.
 | Systematic theology, vol. 1 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo01mile` |
 | Systematic theology, vol. 2 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo02mile` |
 | The Rev. John Miley of Dublin (Rome under Paganism 1843, History of the Papal States 1850): another man | excluded | |
+
+## Matthew Simpson (round 52, my pick, 2026-10-23)
+
+Slugs `msimpson-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Funeral address delivered at the burial of President Lincoln (New York, Carlton & Porter, 1865) | have-ocr | IA `funeraladdressde00simp` |
+| A hundred years of Methodism (New York : Hunt & Eaton, 1876) | have-ocr | IA `hundredyearsofme00simp` |
+| Lectures on preaching, delivered before the Theological department of Yale college (New York, Nelson & Philips; Cincinnati, Hitchcock & Walden, 1879) | have-ocr | IA `lecturesonpreac00simp` |
+| The Cyclopaedia of Methodism (1878, many contributors, he edited it); Our Martyr President (1865, many preachers) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

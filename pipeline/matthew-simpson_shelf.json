@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Matthew Simpson (1811-1884), Methodist Episcopal bishop, for the Word Hoard: his Funeral Address at the burial of President Lincoln (1865), A Hundred Years of Methodism (1876) and Lectures on Preaching (1879), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "simpson"
+ ],
+ "_surname": [
+  "matthew simpson",
+  "m. simpson",
+  "bishop simpson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "msimpson-lincoln-funeral": [
+   "funeraladdressde00simp",
+   "Funeral address delivered at the burial of President Lincoln (New York, Carlton & Porter, 1865)"
+  ],
+  "msimpson-hundred-years": [
+   "hundredyearsofme00simp",
+   "A hundred years of Methodism (New York : Hunt & Eaton, 1876)"
+  ],
+  "msimpson-lectures-on-preaching": [
+   "lecturesonpreac00simp",
+   "Lectures on preaching, delivered before the Theological department of Yale college (New York, Nelson & Philips; Cincinnati, Hitchcock & Walden, 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "msimpson-other": "The Cyclopaedia of Methodism (1878, many contributors, he edited it); Our Martyr President (1865, many preachers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "msimpson-lincoln-funeral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "msimpson-hundred-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "msimpson-lectures-on-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
