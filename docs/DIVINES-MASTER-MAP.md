@@ -43800,3 +43800,16 @@ Shelf: `pipeline/florence-finch-kelly_shelf.json` (2026-10-22; added at the coor
 | The Delafield Affair | have | PG 34996, `ffkelly-delafield-affair` (1216 units) |
 | Rhoda of the Underground | have | PG 69435, `ffkelly-rhoda-of-the-underground` (1535 units) |
 | What America did | have | PG 72543, `ffkelly-what-america-did` (615 units) |
+
+## Frederic Stewart Isham
+
+Shelf: `pipeline/frederic-stewart-isham_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Man and His Money | have | PG 10402, `fsisham-man-and-his-money` (1412 units) |
+| Half A Chance | have | PG 14249, `fsisham-half-a-chance` (1569 units) |
+| Under the Rose | have | PG 23675, `fsisham-under-the-rose` (2307 units) |
+| The Strollers | have | PG 29726, `fsisham-strollers` (2931 units) |
+| The Lady of the Mount | have | PG 36083, `fsisham-lady-of-the-mount` (1959 units) |
+| Nothing But the Truth | have | PG 43916, `fsisham-nothing-but-the-truth` (2162 units) |
