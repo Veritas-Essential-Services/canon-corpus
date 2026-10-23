@@ -11730,6 +11730,18 @@ Slugs `hitchcock-*`. Built from title pages read for round 54.
 | Διδαχη των δωδεκα ̓αποστολων Teaching of the Twelve Apostles (Charles Scribner's Sons, 1884) | have-ocr | IA `teachingoftwelve00hitc` |
 | Eternal atonement (New York, C. Scribner's sons, 1888) | have-ocr | IA `eternalatonement00hitc` |
 | Hymn books he co-edited (Hymns and Songs of Praise, Carmina Sanctorum); the Tauler life and East of the Jordan, which he only introduced; the 1881 Revised New Testament reprint; the 1952 Topical Bible reissues | excluded | |
+
+## Benjamin Kurtz (round 54, my pick, 2026-10-23)
+
+Slugs `kurtz-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The "ministerial appeal", a valedictory sermon delivered in the Evangelic Lutheran church in Hagers-town, Md., on Sunday the 4th of September, 1831 ([Hagerstown, Md.] : Printed at the "Free press" office, 1831) | have-ocr | IA `ministerialappea00kurt` |
+| Arguments, derived from sacred scripture and sound reason, exhibiting the necessity and advantages of infant baptism, and proving sprinkling or affusion to be the most scriptural and appropriate mode of administering it, together with a number of essays on important subjects connected with baptism / by Benjamin Kurtz (Baltimore : Printed at the Publication Rooms, 1840) | have-ocr | IA `argumentsderived00kurt` |
+| Why are you a Lutheran? or, A series of dissertations, explanatory of the doctrines, government, discipline, liturgical economy, distinctive traits, etc., of the Evangelical Lutheran Church in the United States (Baltimore, Evangelical Lutheran Church, 1843) | have-ocr | IA `whyareyouluthera00kurt` |
+| Year-book of the Reformation (Baltimore: Printed at Publication Rooms, 1844) | have-ocr | IA `yearbookofreform00kurt` |
+| Lutheran Prayer Book (1866, a compilation); Benjamin Putnam Kurtz (1878-1950), the literary critic, is another man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

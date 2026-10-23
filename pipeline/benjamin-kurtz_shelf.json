@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Benjamin Kurtz (1795-1865), American Lutheran pastor and editor of the Lutheran Observer, leader of the 'American Lutheran' party, for the Word Hoard: The Ministerial Appeal (1831), Arguments ... on Infant Baptism (1840), Why are you a Lutheran? (1843) and the Year-Book of the Reformation (1844), from Internet Archive scans. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kurtz"
+ ],
+ "_surname": [
+  "benjamin kurtz",
+  "b. kurtz"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kurtz-ministerial-appeal": [
+   "ministerialappea00kurt",
+   "The \"ministerial appeal\", a valedictory sermon delivered in the Evangelic Lutheran church in Hagers-town, Md., on Sunday the 4th of September, 1831 ([Hagerstown, Md.] : Printed at the \"Free press\" office, 1831)"
+  ],
+  "kurtz-infant-baptism": [
+   "argumentsderived00kurt",
+   "Arguments, derived from sacred scripture and sound reason, exhibiting the necessity and advantages of infant baptism, and proving sprinkling or affusion to be the most scriptural and appropriate mode of administering it, together with a number of essays on important subjects connected with baptism / by Benjamin Kurtz (Baltimore : Printed at the Publication Rooms, 1840)"
+  ],
+  "kurtz-why-lutheran": [
+   "whyareyouluthera00kurt",
+   "Why are you a Lutheran? or, A series of dissertations, explanatory of the doctrines, government, discipline, liturgical economy, distinctive traits, etc., of the Evangelical Lutheran Church in the United States (Baltimore, Evangelical Lutheran Church, 1843)"
+  ],
+  "kurtz-year-book": [
+   "yearbookofreform00kurt",
+   "Year-book of the Reformation (Baltimore: Printed at Publication Rooms, 1844)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kurtz-other": "Lutheran Prayer Book (1866, a compilation); Benjamin Putnam Kurtz (1878-1950), the literary critic, is another man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "kurtz-ministerial-appeal": "The church council's request is addressed to 'Rev. B. Kurrz' and his reply is signed 'B. KURTZ', Hagers-town, September 5, 1831; Benjamin Kurtz was Lutheran pastor at Hagerstown until 1831.",
+  "kurtz-infant-baptism": "Title page OCR reads 'ARGUMENTS, DERIVED FROM SACRED SCRIPTURE AND SOUND REASON, EXHIBITING THE NECESSITY AND ADVANTAGES OF INFANT BAPTISM ... BY BENJAMIN'KURTZ, D.D BALTIMORE ... 1840' (apostrophe joins the words)."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kurtz-ministerial-appeal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kurtz-infant-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kurtz-why-lutheran": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. kurtz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kurtz-year-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. kurtz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "Item is in the public domain",
+   "ia_lending": null
+  }
+ }
+}
