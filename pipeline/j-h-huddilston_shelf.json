@@ -1,0 +1,68 @@
+{
+ "_about": "John Homer Huddilston: Greek tragedy and Greek vase-painting, 1898-1902. His New Testament Greek primers are out of lane B's scope.",
+ "_author": "John Homer Huddilston (1869-?)",
+ "_name_words": [
+  "huddilston",
+  "greek",
+  "tragedy",
+  "vase",
+  "pottery",
+  "tragedians",
+  "art"
+ ],
+ "_surname": [
+  "huddilston"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "huddilston-tragedians-toward-art-1898": [
+   "cu31924022692986",
+   "The Attitude of the Greek Tragedians toward Art (1898)"
+  ],
+  "huddilston-tragedy-vase-paintings-1898": [
+   "greektragedyinli00hudd",
+   "Greek Tragedy in the Light of Vase Paintings (1898)"
+  ],
+  "huddilston-lessons-greek-pottery-1902": [
+   "lessonsfromgree00huddgoog",
+   "Lessons from Greek Pottery, with a Bibliography of Greek Ceramics (1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "huddilston-tragedians-toward-art-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "huddilston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "huddilston-tragedy-vase-paintings-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "huddilston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huddilston-lessons-greek-pottery-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "huddilston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

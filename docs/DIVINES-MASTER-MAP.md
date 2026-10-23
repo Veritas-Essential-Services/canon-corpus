@@ -18643,6 +18643,17 @@ Shelf: `pipeline/emanuel-loewy_shelf.json`. The Rendering of Nature in Early Gre
 |---|---|---|---|
 | The Rendering of Nature in Early Greek Art (1907), tr. John Fothergill |  | `loewy-rendering-nature-1907` | have-raw (IA `renderingnature01loewgoog`) |
 
+
+## John Homer Huddilston
+
+Shelf: `pipeline/j-h-huddilston_shelf.json`. Greek tragedy and vase-painting, 1898-1902. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Attitude of the Greek Tragedians toward Art (1898) |  | `huddilston-tragedians-toward-art-1898` | have-raw (IA `cu31924022692986`) |
+| Greek Tragedy in the Light of Vase Paintings (1898) |  | `huddilston-tragedy-vase-paintings-1898` | have-raw (IA `greektragedyinli00hudd`) |
+| Lessons from Greek Pottery, with a Bibliography of Greek Ceramics (1902) |  | `huddilston-lessons-greek-pottery-1902` | have-raw (IA `lessonsfromgree00huddgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
