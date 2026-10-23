@@ -10079,3 +10079,15 @@ Slugs `dirk-*`. Built from title pages read for round 40.
 |---|---|---|
 | Enchiridion, or, Hand book of the Christian doctrine and religion, by Dietrich Philip, translated from the German and compared with the Dutch by A. B. Kolb (Elkhart, Ind.: Mennonite Publishing Co., 1910) | have-ocr | IA `enchiridionorhan00phil` |
 | A second scan of the 1910 Enchiridion | alternate | not shelved |
+
+## Peter Canisius (round 40, my pick, 2026-10-22)
+
+Slugs `canisius-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Certayne necessarie principles of religion, which may be entituled, a catechisme conteyning all the partes of the Christian and Catholique fayth, written in Latin by P. Canisius, and now amplified and Englished by T. I. (Duaci [Douai]: Joannes Bogardus, 1579) | have-ocr | IA `bim_early-english-books-1475-1640_certayne-necessarie-prin_canisius-petrus-saint_1579` |
+| Ane cathechisme or schort instruction of Christian religion, drawen out of the Scriptures and ancient doctours, compyled be the godlie and learned father Peter Canisius, Doctour of Theologie [translated into Scots by Adam King] (Paris: Peter Hury, 1588) | have-ocr | IA `bim_early-english-books-1475-1640_ane-cathechisme-or-short_p-canisius_1588` |
+| A summe of Christian doctrine, composed in Latin by the R. Father Petrus Canisius of the Society of Jesus, with an appendix of the fall of man and justification, translated into English (St. Omer: for John Heigham, 1622) | have-ocr | IA `bim_early-english-books-1475-1640_a-summe-of-christian-doc_canisius-petrus_1622` |
+| The Latin originals: Summa doctrinae christianae (1565-1623 printings), Opus catechisticum (1577-1618), Commentarii de verbi Dei corruptelis (1571, 1584), De Maria virgine (1577), Notae in evangelicas lectiones (1591-1595); German, French (Peltier, 1856-1873), Italian, Czech, Slovene and Greek versions | alternate | not shelved |
+| Works by his nephew Henricus Canisius (canon law, Antiquae lectiones); Canisius College catalogues; the 1865 biographical sketch, by another | excluded | |
