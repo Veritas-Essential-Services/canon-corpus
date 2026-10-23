@@ -1,5 +1,5 @@
 {
- "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also raw IA: The Correspondence of M. Tullius Cicero, with L. C. Purser (Dublin: Hodges, Figgis, 7 vols.), the latest edition found for each volume: I (3rd ed. 1904), II (1st ed. 1886), III (1st ed. 1890), IV (2nd ed. 1918), V (2nd ed. 1915), VI (1899), VII index (1901); Latin text with English commentary, kept per Adam's 2026-10-23 ruling.",
  "_name_words": [
   "tyrrell"
  ],
@@ -18,6 +18,34 @@
   "tyrrell-essays-greek-literature-1909": [
    "essaysongreeklit00tyrruoft",
    "Essays on Greek Literature (Macmillan, 1909)"
+  ],
+  "tyrrell-purser-cicero-v1-1904": [
+   "correspondenceof01cice",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. I, third edition (Dublin: Hodges, Figgis; London: Longmans, Green, 1904); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v2-1886": [
+   "correspondenceof02ciceuoft",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. II (Dublin: Hodges, Foster and Figgis; London: Longmans, Green, 1886; first edition, chosen over a 1906 second-edition scan that is not cleaner); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v3-1890": [
+   "correspondenceof03cice",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. III (Dublin: Hodges, Figgis; London: Longmans, Green, 1890); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v4-1918": [
+   "correspondenceof04ciceuoft",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. IV, second edition (Dublin: Hodges, Figgis, 1918); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v5-1915": [
+   "correspondenceof05ciceuoft",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. V, second edition (Dublin: Hodges, Figgis, 1915); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v6-1899": [
+   "correspondencem04cicegoog",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. VI (Dublin: Hodges, Figgis; London: Longmans, Green, 1899); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "tyrrell-purser-cicero-v7-index-1901": [
+   "correspondencem00unkngoog",
+   "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. VII: Index (Dublin: Hodges, Figgis, 1901)"
   ]
  },
  "_checks": {
@@ -40,6 +68,83 @@
    "identity": "ok",
    "ia_rights": "ok: published 1909",
    "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v1-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v2-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1879-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v3-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v4-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1885-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v5-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1904-1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v6-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-purser-cicero-v7-index-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
