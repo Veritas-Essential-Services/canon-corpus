@@ -1,0 +1,56 @@
+{
+ "_about": "E. C. Wickham (1834-1910), Headmaster of Wellington College and Dean of Lincoln: Quinti Horatii Flacci Opera Omnia, The Works of Horace with a commentary (Oxford: Clarendon Press), vol. I the Odes, Carmen Saeculare and Epodes, third edition (1896), vol. II the Satires, Epistles and De Arte Poetica (1891), raw IA; Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions. His prose Horace for English Readers (1903) is held back on the horace shelf for want of a readable title page.",
+ "_author": "Edward Charles Wickham (1834-1910)",
+ "_name_words": [
+  "wickham",
+  "horace",
+  "horati"
+ ],
+ "_surname": [
+  "e. c. wickham",
+  "edward charles wickham",
+  "wickham, e. c"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-c-wickham-horace-1896-v1": [
+   "quintihoratifla00wickgoog",
+   "The Works of Horace with a commentary, vol. I: the Odes, Carmen Saeculare and Epodes, third edition (Oxford: Clarendon Press, 1896); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "e-c-wickham-horace-1891-v2": [
+   "quintihoratiifl02wickgoog",
+   "The Works of Horace with a commentary, vol. II: the Satires, Epistles and De Arte Poetica (Oxford: Clarendon Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-c-wickham-horace-1896-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. c. wickham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-c-wickham-horace-1891-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-c-wickham-horace-1891-v2": {
+   "author": "title page read in the OCR 2026-10-23: the editor appears as 'E. C WICKHAM, M.A.' (no stop after the C, so the gate's 'e. c. wickham' misses it), vol. II the Satires, Epistles and De Arte Poetica, Clarendon Press 1891; the publisher's list at the end reads 'By E. C. Wickham, D.D.'"
+  }
+ }
+}

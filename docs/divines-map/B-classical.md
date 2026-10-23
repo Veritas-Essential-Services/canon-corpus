@@ -3188,6 +3188,7 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
 | A History of Freedom of Thought (1913) |  | `bury-history-of-freedom-of-thought` | have (PG 10684) |
 | The Idea of Progress (1920) |  | `bury-idea-of-progress` | have (PG 4557) |
+| The Nemean Odes of Pindar, edited with introductions and commentary (London: Macmillan, 1890); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `bury-pindar-nemean-odes-1890` | have-raw (IA `nemeanodesofpind00pind`) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
@@ -9097,6 +9098,7 @@ Shelf: `pipeline/gildersleeve_shelf.json`. Essays, lectures and the Syntax of Cl
 | Essays and Studies, Educational and Literary (1890) |  | `gildersleeve-essays-studies-1890` | have-raw (IA `essaysstudiesedu00gild`) |
 | Hellas and Hesperia, or The Vitality of Greek Studies in America (1909) |  | `gildersleeve-hellas-hesperia-1909` | have-raw (IA `cu31924021600295`) |
 | Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller |  | `gildersleeve-syntax-classical-greek-1900` | have-raw (IA `syntaxclassical00millgoog`) |
+| Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (New York: Harper, 1885; this copy the 1890 printing); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `gildersleeve-pindar-olympian-pythian-1885` | have-raw (IA `cu31924074825963`) |
 
 
 ## W. S. Teuffel (1820-1878)
@@ -10614,6 +10616,7 @@ Shelf: `pipeline/w-g-rutherford_shelf.json`. The New Phrynichus (London: Macmill
 | Work | Author | Slug | Status |
 |---|---|---|---|
 | The New Phrynichus (London: Macmillan, 1881) |  | `rutherford-new-phrynichus-1881` | have-raw (IA `newphrynichusbei00phryuoft`) |
+| Babrius, edited with introductory dissertations, critical notes, commentary and lexicon (London: Macmillan, 1883); Greek text with English commentary, Greek-heavy, kept per Adam's 2026-10-23 ruling |  | `w-g-rutherford-babrius-1883` | have-raw (IA `babriuseditedwit00babruoft`) |
 
 
 ## Agnes Mary Clerke (1842-1907)
@@ -11212,4 +11215,24 @@ Shelf: `pipeline/a-s-wilkins_shelf.json`. Cicero, De Oratore, with introduction 
 | M. Tulli Ciceronis De Oratore, Liber I, with introduction and notes, third edition (Oxford: Clarendon Press, 1895) |  | `a-s-wilkins-de-oratore-i-1895` | have-raw (IA `deoratorelibri00cice`) |
 | M. Tullii Ciceronis De Oratore ad Quintum Fratrem, Liber II, with introduction and notes (Oxford: Clarendon Press, MDCCCLXXXI) |  | `a-s-wilkins-de-oratore-ii-1881` | have-raw (IA `mtulliiciceroni00wilkgoog`) |
 | M. Tulli Ciceronis De Oratore, Liber III, with introduction and notes (Oxford: Clarendon Press, MDCCCXCII) |  | `a-s-wilkins-de-oratore-iii-1892` | have-raw (IA `mtulliciceronis00wilkgoog`) |
+
+## E. C. Wickham (1834-1910)
+
+Shelf: `pipeline/e-c-wickham_shelf.json`. The Works of Horace with a commentary, 2 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Works of Horace with a commentary, vol. I: the Odes, Carmen Saeculare and Epodes, third edition (Oxford: Clarendon Press, 1896); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `e-c-wickham-horace-1896-v1` | have-raw (IA `quintihoratifla00wickgoog`) |
+| The Works of Horace with a commentary, vol. II: the Satires, Epistles and De Arte Poetica (Oxford: Clarendon Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `e-c-wickham-horace-1891-v2` | have-raw (IA `quintihoratiifl02wickgoog`) |
+
+## Henry Furneaux (1829-1900)
+
+Shelf: `pipeline/henry-furneaux_shelf.json`. Tacitus: Annals (2 vols), Germania, Agricola, with introduction and notes. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Annals of Tacitus, edited with introduction and notes, vol. I: Books I-VI, second edition (Oxford: Clarendon Press, 1896); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `henry-furneaux-annals-1896-v1` | have-raw (IA `india.history.resource.105791`) |
+| The Annals of Tacitus, edited with introduction and notes, vol. II: Books XI-XVI (Oxford: Clarendon Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `henry-furneaux-annals-1891-v2` | have-raw (IA `annaliumabexcess02taci`) |
+| Cornelii Taciti De Germania, edited with introduction, notes and map (Oxford: Clarendon Press, 1894) |  | `henry-furneaux-germania-1894` | have-raw (IA `degermaniaedited00taciuoft`) |
+| Cornelii Taciti Vita Agricolae, edited with introduction, notes and map (Oxford: Clarendon Press, 1898) |  | `henry-furneaux-agricola-1898` | have-raw (IA `vitaagricolaeedi00taciuoft`) |
 
