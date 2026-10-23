@@ -19212,3 +19212,76 @@ Shelf: `pipeline/storytellers-tail-03_shelf.json` (2026-10-22; added at the coor
 | pg-71843 | excluded | PG 71843: a second Gutenberg edition of Julia McNair Wright's Nature readers. |
 | pg-72044 | excluded | PG 72044: a second Gutenberg edition of Julia McNair Wright's Nature readers. |
 | pg-72508 | excluded | PG 72508: a second Gutenberg edition of Julia McNair Wright's Nature readers. |
+
+## Storytellers' tail, group 4 (22 authors)
+
+Shelf: `pipeline/storytellers-tail-04_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 22 authors with 3 Gutenberg texts each: Edith Allonby, Jane Andrews, Stacy Aumonier, F. Britten Austin, Jean K. Baird, Charles H. Bennett, William Bowen, Eleanor Hoyt Brainerd, Miles J. Breuer, Elbridge S. Brooks, Sarah Warner Brooks, H. A. Bryden, Florence E. Burch, Donn Byrne, Wadsworth Camp, Sarah Pratt Carr, William Alexander Caruthers, Harriet S. Caswell, Georgiana Chatterton, William P. Chipman, Thomas Cobb, Richard Cobbold. Every English text under the name at Gutenberg that no other shelf holds (66 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jewel sowers: a novel | have | PG 64223, `eallonby-jewel-sowers` (3588 units) |
+| The fulfilment | have | PG 75316, `eallonby-fulfilment` (3413 units) |
+| Marigold | have | PG 76409, `eallonby-marigold` (2208 units) |
+| The Stories Mother Nature Told Her Children | have | PG 5792, `jandrews-stories-mother-nature-told-her-children` (228 units) |
+| The Seven Little Sisters Who Live on the Round Ball That Floats in the Air | have | PG 12631, `jandrews-seven-little-sisters-who-live-on-the-round-ball-tha` (323 units) |
+| Child's Health Primer For Primary Classes With Special Reference to the Effects of Alcoholic Drinks, Stimulants, and Narcotics upon The Human System | have | PG 25646, `jandrews-child-s-health-primer-for-primary-classes-with-spec` (808 units) |
+| The golden windmill, and other stories | have | PG 74926, `saumonier-golden-windmill-and-other-stories` (1305 units) |
+| The friends, and other stories | have | PG 77648, `saumonier-friends-and-other-stories` (517 units) |
+| Miss Bracegirdle and others | have | PG 78481, `saumonier-miss-bracegirdle-and-others` (1509 units) |
+| Battlewrack | have | PG 60530, `fbaustin-battlewrack` (1397 units) |
+| On the Borderland | have | PG 65837, `fbaustin-on-the-borderland` (2512 units) |
+| Into the blue | have | PG 73541, `fbaustin-into-the-blue` (198 units) |
+| Elizabeth Hobart at Exeter Hall | have | PG 26258, `jkbaird-elizabeth-hobart-at-exeter-hall` (1345 units) |
+| Hester's Counterpart: A Story of Boarding School Life | have | PG 26973, `jkbaird-hester-s-counterpart` (1465 units) |
+| That Little Girl of Miss Eliza's: A Story for Young People | have | PG 35822, `jkbaird-that-little-girl-of-miss-eliza-s` (833 units) |
+| The Frog Who Would A Wooing Go | have | PG 20579, `chbennett-frog-who-would-a-wooing-go` (84 units) |
+| The Faithless Parrot | have | PG 21884, `chbennett-faithless-parrot` (65 units) |
+| The Nine Lives of A Cat: A Tale of Wonder | have | PG 23318, `chbennett-nine-lives-of-a-cat` (53 units) |
+| The Old Tobacco Shop A True Account of What Befell a Little Boy in Search of Adventure | have | PG 26977, `wbowen-old-tobacco-shop-a-true-account-of-what-befell-a-litt` (1754 units) |
+| Merrimeg | have | PG 59819, `wbowen-merrimeg` (969 units) |
+| Solario the Tailor: His Tales of the Magic Doublet | have | PG 60162, `wbowen-solario-the-tailor` (1684 units) |
+| Concerning Belinda | have | PG 35008, `ehbrainerd-concerning-belinda` (1155 units) |
+| In Vanity Fair: A Tale of Frocks and Femininity | have | PG 45791, `ehbrainerd-in-vanity-fair` (630 units) |
+| Pegeen | have | PG 59935, `ehbrainerd-pegeen` (1290 units) |
+| The Einstein See-Saw | have | PG 29060, `mjbreuer-einstein-see-saw` (221 units) |
+| The Oversight | have | PG 64797, `mjbreuer-oversight` (188 units) |
+| The Gostak and the Doshes | have | PG 77989, `mjbreuer-gostak-and-the-doshes` (157 units) |
+| The True Story of Christopher Columbus, Called the Great Admiral | have | PG 1488, `esbrooks-true-story-of-christopher-columbus-called-the-great` (326 units) |
+| Historic Girls: Stories Of Girls Who Have Influenced The History Of Their Times | have | PG 1574, `esbrooks-historic-girls` (769 units) |
+| Historic Boys: Their Endeavours, Their Achievements, and Their Times | have | PG 27157, `esbrooks-historic-boys` (1703 units) |
+| My Fire Opal, and Other Tales | have | PG 39815, `swbrooks-my-fire-opal-and-other-tales` (440 units) |
+| A Garden with House Attached | have | PG 40183, `swbrooks-garden-with-house-attached` (480 units) |
+| Alamo Ranch: A Story of New Mexico | have | PG 40471, `swbrooks-alamo-ranch` (582 units) |
+| Tales of South Africa | have | PG 32914, `habryden-tales-of-south-africa` (589 units) |
+| From Veldt Camp Fires | have | PG 38168, `habryden-from-veldt-camp-fires` (816 units) |
+| The Gold Kloof | have | PG 43114, `habryden-gold-kloof` (1018 units) |
+| Farmer Bluff's dog Blazer | have | PG 74082, `feburch-farmer-bluff-s-dog-blazer` (1163 units) |
+| No royal road | have | PG 76667, `feburch-no-royal-road` (556 units) |
+| Two ways of facing life | have | PG 78567, `feburch-two-ways-of-facing-life` (1061 units) |
+| Messer Marco Polo | have | PG 2058, `dbyrne-messer-marco-polo` (462 units) |
+| The Wind Bloweth | have | PG 21999, `dbyrne-wind-bloweth` (1810 units) |
+| Changeling, and Other Stories | have | PG 59892, `dbyrne-changeling-and-other-stories` (2328 units) |
+| The Abandoned Room | have | PG 10869, `wcamp-abandoned-room` (2927 units) |
+| The Gray Mask | have | PG 33230, `wcamp-gray-mask` (2523 units) |
+| The Guarded Heights | have | PG 33733, `wcamp-guarded-heights` (4510 units) |
+| Billy To-morrow's Chums | have | PG 54749, `spcarr-billy-to-morrow-s-chums` (1062 units) |
+| Billy To-morrow Stands the Test | have | PG 56169, `spcarr-billy-to-morrow-stands-the-test` (1552 units) |
+| Billy To-morrow | have | PG 62288, `spcarr-billy-to-morrow` (1004 units) |
+| The Cavaliers of Virginia, vol. 1 of 2 or, The Recluse of Jamestown; An historical romance of the Old Dominion | have | PG 35645, `wacaruthers-cavaliers-of-virginia-vol-1-of-2-or-the-recluse` (549 units) |
+| The Kentuckian in New-York; or, The Adventures of Three Southerns. Volume 1 (of 2) | have | PG 36613, `wacaruthers-kentuckian-in-new-york` (763 units) |
+| The Cavaliers of Virginia, vol. 2 of 2 or, The Recluse of Jamestown; An historical romance of the Old Dominion | have | PG 36753, `wacaruthers-cavaliers-of-virginia-vol-2-of-2-or-the-recluse` (474 units) |
+| Walter Harland | have | PG 15799, `hscaswell-walter-harland` (121 units) |
+| The Path of Duty, and Other Stories | have | PG 18181, `hscaswell-path-of-duty-and-other-stories` (592 units) |
+| Stories and Sketches | have | PG 20493, `hscaswell-stories-and-sketches` (75 units) |
+| The lost bride; vol. 1 | have | PG 78575, `gchatterton-lost-bride` (658 units) |
+| The lost bride; vol. 2 | have | PG 78576, `gchatterton-lost-bride-78576` (669 units) |
+| The lost bride; vol. 3 | have | PG 78577, `gchatterton-lost-bride-78577` (574 units) |
+| Budd Boyd's Triumph; or, The Boy-Firm of Fox Island | have | PG 39732, `wpchipman-budd-boyd-s-triumph` (1595 units) |
+| In ship and prison | have | PG 74251, `wpchipman-in-ship-and-prison` (1332 units) |
+| The Black Forge Mills | have | PG 74601, `wpchipman-black-forge-mills` (1374 units) |
+| Enter Bridget | have | PG 18280, `tcobb-enter-bridget` (1798 units) |
+| The Bountiful Lady Or, How Mary was changed from a very Miserable Little Girl to a very Happy One | have | PG 30446, `tcobb-bountiful-lady-or-how-mary-was-changed-from-a-very-mis` (699 units) |
+| The Little Clown | have | PG 31371, `tcobb-little-clown` (658 units) |
+| Geoffery Gambado | have | PG 39115, `rcobbold-geoffery-gambado` (666 units) |
+| The History of Margaret Catchpole, a Suffolk Girl | have | PG 39326, `rcobbold-history-of-margaret-catchpole-a-suffolk-girl` (2460 units) |
+| Freston Tower | have | PG 76999, `rcobbold-freston-tower` (2104 units) |
