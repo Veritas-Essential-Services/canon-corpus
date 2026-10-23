@@ -14032,6 +14032,55 @@ Slugs `swing-*`. Built from title pages read for round 77.
 | Truths leaf by leaf (Chicago : [The Lakeside press, R.R. Donnelley & Sons Co.], 1905) | have-ocr | IA `truthsleafbyleaf00swin` |
 | The message of David Swing to his generation; addresses and papers (New York, Chicago [etc] Fleming H. Revell company, [c19) | have-ocr | IA `messageofdavidsw00swin` |
 | Club Essays (literary essays); the record of his heresy trial, Patton vs. Swing (both sides, many hands) | excluded | |
+
+## Robert E. Speer (round 78, my pick, 2026-10-23)
+
+Slugs `speer-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Studies in the book of Acts (New York, The International committee of Young men's Christian associations, 1892) | have-ocr | IA `studiesinbookofa00spee` |
+| Studies of the Man Christ Jesus (New York, Chicago [etc.] Fleming H. Revell company, 1896) | have-ocr | IA `studiesofmanchri00spee` |
+| Missions and  Politics in Asia (Fleming H. Revell Company, 1898) | have-ocr | IA `missionspolitics0000robe` |
+| A memorial of a true life : a biography of Hugh McAllister Beaver (New York : Revell, c189) | have-ocr | IA `memorialoftrueli00spee` |
+| "Remember Jesus Christ" and other talks about Christ and the Christian life (New York, Chicago [etc.] Fleming H. Revell company, 1899) | have-ocr | IA `rememberjesuschr00spee` |
+| Studies of the man Paul (New York : Fleming H. Revell, c190) | have-ocr | IA `studiesofthemanp00speeuoft` |
+| Christ and life (New York [etc.] Fleming H. Revell company, 1901) | have-ocr | IA `christlife00spee` |
+| Presbyterian foreign missions : an account of the foreign missions of the Presbyterian Church in the U.S.A (Philadelphia : Presbyterian Board of Publication and Sabbath-School Work, 1901) | have-ocr | IA `presbyterianfore00speeuoft` |
+| Missionary principles and practice : a discussion of Christian missions and of some criticisms upon them (New York : F.H. Revell, 1902) | have-ocr | IA `missionaryprinc00speeuoft` |
+| The principles of Jesus : applied to some questions of today (New York ; Chicago : Fleming H. Revell, 1902) | have-ocr | IA `principlesofjesu00spee` |
+| A young man's questions (New York, Chicago, Fleming H. Revell Co, 1903) | have-ocr | IA `youngmansquestio00spee` |
+| A memorial of Horace Tracy Pitkin (New York, Fleming H. Revell, 1903) | have-ocr | IA `memorialofhorace00spee` |
+| Missions and modern history; a study of the missionary aspects of some great movements of the nineteenth century, vol. 1 (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `missionsmodernhi01spee` |
+| Missions and modern history; a study of the missionary aspects of some great movements of the nineteenth century, vol. 2 (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `missionsmodernhi02spee` |
+| Young men who overcame (New York, Chicago [etc.] Fleming H. Revell company, 1905) | have-ocr | IA `youngmenwhooverc00spee` |
+| The marks of a man; or, The essentials of Christian character (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1907) | have-ocr | IA `marksofmanoresse00spee` |
+| The Master of the heart (New York : F.H. Revell, 1908) | have-ocr | IA `masterofheart00spee` |
+| A memorial of Alice Jackson (New York, Chicago [etc.] F.H. Revell company, [c19) | have-ocr | IA `memorialofalicej00spee` |
+| Servants of the King (New York, Young people's missionary movement of the United States and Canada, New York, 1909) | have-ocr | IA `servantsofking00spee` |
+| Paul, the all-round man (New York, Fleming H. Revell, 1909; this printing lists his books to 1912) | have-ocr | IA `paulallaroundman0000robe` |
+| Christianity and the nations (New York, Chicago [etc.] Fleming H. Revell company, 1910) | have-ocr | IA `christianitynati00spee` |
+| Some great leaders in the world movement (New York, Chicago [etc.] : Fleming H. Revell Co., 1911) | have-ocr | IA `somegreatleaders00spee` |
+| The light of the world : a brief comparative study of Christianity and non-Christian religions (West Medford, Mass. : Central Committee on the United Study of Missions, 1911) | have-ocr | IA `lightofworldbrie00spee` |
+| A Christian's habits (Philadelphia : Westminster Press, 1911) | have-ocr | IA `christianshabits00spee` |
+| "The Hakim Sahib," the foreign doctor; a biography of Joseph Plumb Cochran, M.D., of Persia (New York, F.H. Revell, 1911) | have-ocr | IA `thehakimsahibfor00spee` |
+| Men who were found faithful (New York, Chicago [etc.] Fleming H. Revel company, 1912) | have-ocr | IA `menwhowerefoundf00spee` |
+| South American problems (New York, Student volunteer movement for foreign missions, 1912) | have-ocr | IA `southamericanpro00spee` |
+| Studies of missionary leadership. The Smyth lectures for 1913, delivered before the Columbia theological seminary, Columbia, South Carolina (Philadelphia, The Westminster press, 1914) | have-ocr | IA `studiesofmission00spee` |
+| John's Gospel, the greatest book in the world; suggestions for the study of the Gospel by individuals and in groups (New York ; Chicago [etc.] : Fleming H. Revell company, 1915) | have-ocr | IA `johnsgospelgreat00spee` |
+| One girl's influence; a memorial of Louise Stockton Andrews (Plainfield, N. J., F. H. Andrews, [191) | have-ocr | IA `onegirlsinfluenc00spee` |
+| The stuff of manhood : some needed notes in American character (New York ; Chicago : Fleming H. Revell, 1917) | have-ocr | IA `stuffofmanhoods00spee` |
+| The Christian man, the church and the war (New York, The Macmillan company, 1918) | have-ocr | IA `christianmanchur00spee` |
+| The Gospel and the new world (New York, Chicago [etc.] Fleming H. Revell company, 1919) | have-ocr | IA `gospelnewworld00spee` |
+| The new opportunity of the church (New York, The Macmillan company, 1919) | have-ocr | IA `newopportunityof00spee` |
+| Race and race relations; a Christian view of human contacts (New York ; Chicago [etc.] : Fleming H. Revell company, 1924) | have-ocr | IA `raceracerelation00spee` |
+| Of one blood, a short study of the race problem (New York, Council of women for home missions and missionary education movement of the United States and Canada, 1924) | have-ocr | IA `ofonebloodshorts0000spee` |
+| The church and missions (New York : George H. Doran company, 1926) | have-ocr | IA `churchmissions00spee_0` |
+| The unfinished task of foreign missions (New York, Chicago Fleming H. Revell Co, 1926) | have-ocr | IA `unfinishedtaskof0000spee` |
+| Seeking the mind of Christ (New York : Fleming H. Revell company, 1926) | have-ocr | IA `seekingmindofchr0000spee` |
+| "Are foreign missions done for?" ([New York City] : [Board of foreign missions of the Presbyterian church in the U.S.A.], 1928) | have-ocr | IA `areforeignmissio00spee` |
+| Sir James Ewing; a biography of Sir James C.R. Ewing (New York, Chicago [etc.] Fleming H. Revell company, 1928) | have-ocr | IA `sirjamesewingbio00spee` |
+| board deputation reports and his archival folders of sermon outlines; The Unity of the Americas (1916), on politics and trade; Christian Work in South America (1925), a congress report by many hands; pamphlets of under 100 pages; everything printed 1930 or later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
