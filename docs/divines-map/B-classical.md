@@ -9251,3 +9251,12 @@ Shelf: `pipeline/barclay-v-head_shelf.json`. Historia Numorum, 2nd ed. (1911); G
 
 Excluded: Historia Numorum, 1st ed. (1887) (superseded by the 1911 edition)
 
+
+## Ronald M. Burrows (1867-1920)
+
+Shelf: `pipeline/ronald-m-burrows_shelf.json`. The Discoveries in Crete (1907). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Discoveries in Crete and their Bearing on the History of Ancient Civilisation (1907) |  | `burrows-discoveries-in-crete-1907` | have-raw (IA `discoveriesincre00burruoft`) |
+
