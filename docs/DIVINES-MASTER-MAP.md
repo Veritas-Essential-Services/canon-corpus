@@ -14652,6 +14652,34 @@ Slugs `moffatt-*`. Built from title pages read for round 85.
 | books he only edited or translated from others: Harnack's Expansion of Christianity, The Golden Book of John Owen, The Golden Book of Tillotson, Letters of Principal Denney, The Expositor volumes | excluded | |
 | George Meredith primer and school editions of Burke and Shakespeare (not theology) | excluded | |
 | everything printed from 1930 on, including his 1 Corinthians commentary (1938) | excluded | |
+
+## Arthur S. Peake (round 85, my pick, 2026-10-23)
+
+Slugs `peake-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| A guide to Biblical study (London : Hodder and Stoughton, 1897) | have-ocr | IA `guidetobiblicals00peakuoft` |
+| The problem of suffering in the Old Testament (London : Robert Bryant, 1904) | have-ocr | IA `problemofsufferi00peakrich` |
+| Job. Introd., rev. version with notes and index (Edinburgh T.C. & E.C. Jack, 1904) | have-ocr | IA `jobintrodrevvers00peakuoft` |
+| Hebrews : introduction, authorized version, revised version with notes and index, vol. 58 (Edinburgh : T.C. & E.C. Jack, 1906) | have-ocr | IA `hebrewsintroduct58peak` |
+| Reform in Sunday school teaching (London, Clarke, 1906) | have-ocr | IA `reforminsundaysc00peakuoft` |
+| Christianity : its nature and its truth (New York : Crowell, 1908) | have-ocr | IA `christianityitsn0000peak` |
+| The religion of Israel (London : T. C. & E. C. Jack, 1908) | have-ocr | IA `religionofisrael00peak` |
+| A critical introduction to the New Testament (London, Duckworth, 1909) | have-ocr | IA `criticalintroduc0000peak` |
+| Jeremiah and Lamentations, vol. 1: Jeremiah I-XXIV (Century Bible; New York : Henry Frowde, 1910) | have-ocr | IA `jeremiahlamentat241peak` |
+| Jeremiah and Lamentations, vol. 2: Jeremiah XXV-LII and Lamentations (Century Bible; New York : Henry Frowde, 1910) | have-ocr | IA `jeremiahlamentat242peak` |
+| The Bible : its origin, its significance, and its abiding worth (New York ; London : Hodder and Stoughton, 1913) | have-ocr | IA `biblesignificance00peakuoft` |
+| The quintessence of Paulinism : a lecture delivered at the John Rylands library on the 11th of October, 1916 (Manchester : The University Press ; New York : Longmans, Green, 1918) | have-ocr | IA `quintessenceofpa00peak` |
+| Prisoners of hope : the problem of the conscientious objector (London : Allen & Unwin, 1918) | have-ocr | IA `prisonersofhopep00peakiala` |
+| The Revelation of John (London : Joseph Johnson, Primitive Methodist Pub. House, 1919) | have-ocr | IA `therevelationofj00peakuoft` |
+| The nature of Scripture (London : Hodder and Stoughton, 1922) | have-ocr | IA `natureofscriptur00peakuoft` |
+| Brotherhood in the old testament (catalogued 1923) | have-ocr | IA `brotherhoodinold0000arth` |
+| The life of sir william hartley (hodder and stoughton limited london, 1926) | have-ocr | IA `lifeofsirwilliam0000arth` |
+| Recent developments in Old Testament criticism (Manchester : University Press, 1928) | have-ocr | IA `recentdevelopmen00peak` |
+| Paul the apostle : his personality and achievement / by A. S. Peake (Manchester : University Press ; London ; New York : Longmans, Green, 1928) | have-ocr | IA `paulapostlehispe00peak` |
+| A Commentary on the Bible (1919) and The People and the Book (1925), both written by many contributors under his editorship; Inaugural Lectures (Manchester faculty) | excluded | |
+| The Servant of Yahweh (1931) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
