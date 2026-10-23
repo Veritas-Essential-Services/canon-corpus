@@ -1,0 +1,98 @@
+{
+ "_about": "Leo Edwards: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Leo Edwards",
+ "_name_words": [
+  "edwards",
+  "leo"
+ ],
+ "_surname": [
+  "leo edwards",
+  "edwards"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ledwards-jerry-todd-and-the-talking-frog": [
+   67564,
+   "Jerry Todd and the Talking Frog"
+  ],
+  "ledwards-jerry-todd-and-the-oak-island-treasure": [
+   67582,
+   "Jerry Todd and the Oak Island Treasure"
+  ],
+  "ledwards-poppy-otts-pedigreed-pickles": [
+   71240,
+   "Poppy Ott's pedigreed pickles"
+  ],
+  "ledwards-poppy-ott-and-the-galloping-snail": [
+   71367,
+   "Poppy Ott and the galloping snail"
+  ],
+  "ledwards-poppy-ott-and-the-stuttering-parrot": [
+   75550,
+   "Poppy Ott and the stuttering parrot"
+  ],
+  "ledwards-jerry-todd-and-the-rose-colored-cat": [
+   77687,
+   "Jerry Todd and the rose-colored cat"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ledwards-jerry-todd-and-the-talking-frog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ledwards-jerry-todd-and-the-oak-island-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ledwards-poppy-otts-pedigreed-pickles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ledwards-poppy-ott-and-the-galloping-snail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ledwards-poppy-ott-and-the-stuttering-parrot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ledwards-jerry-todd-and-the-rose-colored-cat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

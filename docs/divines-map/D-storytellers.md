@@ -18123,3 +18123,16 @@ Shelf: `pipeline/izola-l-forrester_shelf.json` (2026-10-22; added at the coordin
 | The Polly Page Yacht Club | have | PG 56834, `ilforrester-polly-page-yacht-club` (1625 units) |
 | Jean of Greenacres | have | PG 60526, `ilforrester-jean-of-greenacres` (1204 units) |
 | The dangerous inheritance | have | PG 75383, `ilforrester-dangerous-inheritance` (1246 units) |
+
+## Leo Edwards
+
+Shelf: `pipeline/leo-edwards_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jerry Todd and the Talking Frog | have | PG 67564, `ledwards-jerry-todd-and-the-talking-frog` (1967 units) |
+| Jerry Todd and the Oak Island Treasure | have | PG 67582, `ledwards-jerry-todd-and-the-oak-island-treasure` (1690 units) |
+| Poppy Ott's pedigreed pickles | have | PG 71240, `ledwards-poppy-otts-pedigreed-pickles` (1615 units) |
+| Poppy Ott and the galloping snail | have | PG 71367, `ledwards-poppy-ott-and-the-galloping-snail` (1634 units) |
+| Poppy Ott and the stuttering parrot | have | PG 75550, `ledwards-poppy-ott-and-the-stuttering-parrot` (1813 units) |
+| Jerry Todd and the rose-colored cat | have | PG 77687, `ledwards-jerry-todd-and-the-rose-colored-cat` (1843 units) |
