@@ -17839,3 +17839,14 @@ Slugs `toy-*`. Built from title pages read for round 118.
 | The Book of the Prophet Ezekiel: A New English Translation, with Explanatory Notes and Pictorial (Dodd, 1899) | have-ocr | IA `bookprophetezek03toygoog` |
 | The book of the prophet Ezekiel: Critical Edition of the Hebrew Text with Notes (John Hopkins Press, 1899) | have-ocr | IA `bookprophetezek01toygoog` |
 | booksofsamuel05erdm (Erdmann's commentary in Lange's series, which Toy translated) | excluded | |
+
+## W. H. Fitchett (round 118, my pick, 2026-10-23)
+
+Slugs `fitchett-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| The unrealized logic of religion : a study in credibilities (New York : Eaton & Mains, 1905) | have-ocr | IA `unrealizedlogico00fitc` |
+| Wesley and his century : a study in spiritual forces (Toronto : W. Briggs, 1906) | have-ocr | IA `wesleyhiscentu00fitc` |
+| The beliefs of unbelief : studies in the alternatives to faith (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1907) | have-ocr | IA `beliefsofunbelie00fitc` |
+| His popular military histories (Deeds that Won the Empire, How England Saved Europe, Nelson, the Mutiny) and his novels are left to other lanes | excluded | |
