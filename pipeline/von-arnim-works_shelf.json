@@ -1,0 +1,223 @@
+{
+ "_about": "Elizabeth von Arnim: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elizabeth von Arnim",
+ "_name_words": [
+  "and",
+  "arnim",
+  "elizabeth",
+  "garden",
+  "german",
+  "her",
+  "von"
+ ],
+ "_surname": [
+  "elizabeth von arnim",
+  "von arnim",
+  "elizabeth and her german garden"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "evonarnim-elizabeth-and-her-german-garden": [
+   1327,
+   "Elizabeth and Her German Garden"
+  ],
+  "evonarnim-solitary-summer": [
+   5991,
+   "The Solitary Summer"
+  ],
+  "evonarnim-christine": [
+   12683,
+   "Christine"
+  ],
+  "evonarnim-princess-priscillas-fortnight": [
+   13141,
+   "The Princess Priscilla's Fortnight"
+  ],
+  "evonarnim-christopher-and-columbus": [
+   14646,
+   "Christopher and Columbus"
+  ],
+  "evonarnim-benefactress": [
+   30302,
+   "The Benefactress"
+  ],
+  "evonarnim-adventures-of-elizabeth-in-r-gen": [
+   33762,
+   "The Adventures of Elizabeth in Rügen"
+  ],
+  "evonarnim-vera": [
+   34366,
+   "Vera"
+  ],
+  "evonarnim-in-the-mountains": [
+   35072,
+   "In the Mountains"
+  ],
+  "evonarnim-fr-ulein-schmidt-and-mr-anstruther": [
+   35282,
+   "Fräulein Schmidt and Mr. Anstruther"
+  ],
+  "evonarnim-pastors-wife": [
+   36295,
+   "The Pastor's Wife"
+  ],
+  "evonarnim-april-babys-book-of-tunes-with-the-story-of-how-th": [
+   59307,
+   "The April Baby's Book of Tunes with the story of how they came to be written"
+  ],
+  "evonarnim-caravaners": [
+   72356,
+   "The caravaners"
+  ],
+  "evonarnim-introduction-to-sally": [
+   72979,
+   "Introduction to Sally"
+  ],
+  "evonarnim-love": [
+   73308,
+   "Love"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 16389: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "evonarnim-elizabeth-and-her-german-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-solitary-summer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-christine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-princess-priscillas-fortnight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-christopher-and-columbus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-benefactress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-adventures-of-elizabeth-in-r-gen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-vera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-fr-ulein-schmidt-and-mr-anstruther": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-pastors-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-april-babys-book-of-tunes-with-the-story-of-how-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-caravaners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-introduction-to-sally": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evonarnim-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth von arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

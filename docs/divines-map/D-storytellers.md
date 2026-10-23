@@ -16642,3 +16642,26 @@ Shelf: `pipeline/eggleston-works_shelf.json` (2026-10-22; added at the coordinat
 | Mr. Blake's Walking-Stick: A Christmas Story for Boys and Girls | have | PG 52935, `eeggleston-mr-blakes-walking-stick` (188 units) |
 | The circuit rider | have | PG 74840, `eeggleston-circuit-rider` (1239 units) |
 | held-elsewhere | excluded | PG 10070: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Elizabeth von Arnim
+
+Shelf: `pipeline/von-arnim-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Elizabeth and Her German Garden | have | PG 1327, `evonarnim-elizabeth-and-her-german-garden` (593 units) |
+| The Solitary Summer | have | PG 5991, `evonarnim-solitary-summer` (372 units) |
+| Christine | have | PG 12683, `evonarnim-christine` (648 units) |
+| The Princess Priscilla's Fortnight | have | PG 13141, `evonarnim-princess-priscillas-fortnight` (1768 units) |
+| Christopher and Columbus | have | PG 14646, `evonarnim-christopher-and-columbus` (2482 units) |
+| The Benefactress | have | PG 30302, `evonarnim-benefactress` (2442 units) |
+| The Adventures of Elizabeth in Rügen | have | PG 33762, `evonarnim-adventures-of-elizabeth-in-r-gen` (1284 units) |
+| Vera | have | PG 34366, `evonarnim-vera` (1736 units) |
+| In the Mountains | have | PG 35072, `evonarnim-in-the-mountains` (1299 units) |
+| Fräulein Schmidt and Mr. Anstruther | have | PG 35282, `evonarnim-fr-ulein-schmidt-and-mr-anstruther` (1332 units) |
+| The Pastor's Wife | have | PG 36295, `evonarnim-pastors-wife` (2863 units) |
+| The April Baby's Book of Tunes with the story of how they came to be written | have | PG 59307, `evonarnim-april-babys-book-of-tunes-with-the-story-of-how-th` (342 units) |
+| The caravaners | have | PG 72356, `evonarnim-caravaners` (1547 units) |
+| Introduction to Sally | have | PG 72979, `evonarnim-introduction-to-sally` (1887 units) |
+| Love | have | PG 73308, `evonarnim-love` (2645 units) |
+| held-elsewhere | excluded | PG 16389: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
