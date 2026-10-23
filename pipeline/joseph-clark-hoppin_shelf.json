@@ -1,0 +1,66 @@
+{
+ "_about": "Joseph Clark Hoppin (1870-1925), Bryn Mawr archaeologist: A Handbook of Attic Red-Figured Vases Signed by or Attributed to the Various Masters (2 vols., 1919) and Euthymides and his Fellows (1917). Vol. II is catalogue-heavy with Greek inscriptions; kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round de). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Joseph Clark Hoppin (1870-1925)",
+ "_name_words": [
+  "hoppin",
+  "attic",
+  "red-figured",
+  "vases",
+  "euthymides"
+ ],
+ "_surname": [
+  "hoppin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoppin-attic-red-figured-vases-vol-1": [
+   "handbookofatticr01hopp_0",
+   "A Handbook of Attic Red-Figured Vases, vol. I (1919)"
+  ],
+  "hoppin-attic-red-figured-vases-vol-2": [
+   "handbookofatticr02hopp_0",
+   "A Handbook of Attic Red-Figured Vases, vol. II (1919)"
+  ],
+  "hoppin-euthymides-and-his-fellows-1917": [
+   "euthymideshisfel00hoppuoft",
+   "Euthymides and his Fellows (1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hoppin-attic-red-figured-vases-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hoppin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoppin-attic-red-figured-vases-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hoppin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoppin-euthymides-and-his-fellows-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hoppin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

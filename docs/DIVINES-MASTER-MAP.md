@@ -19555,6 +19555,17 @@ Shelf: `pipeline/napoleon-iii_shelf.json`. History of Julius Caesar, 2 vols. (Gu
 | History of Julius Caesar, vol. 1 of 2 (1865) |  | `napoleon-iii-julius-caesar-vol-1-pg` | have (PG 45456) |
 | History of Julius Caesar, vol. 2 of 2 (1866) |  | `napoleon-iii-julius-caesar-vol-2-pg` | have (PG 45532) |
 
+
+## Joseph Clark Hoppin (1870-1925)
+
+Shelf: `pipeline/joseph-clark-hoppin_shelf.json`. Attic red-figured vases, 1917-1919. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Handbook of Attic Red-Figured Vases, vol. I (1919) |  | `hoppin-attic-red-figured-vases-vol-1` | have-raw (IA `handbookofatticr01hopp_0`) |
+| A Handbook of Attic Red-Figured Vases, vol. II (1919) |  | `hoppin-attic-red-figured-vases-vol-2` | have-raw (IA `handbookofatticr02hopp_0`) |
+| Euthymides and his Fellows (1917) |  | `hoppin-euthymides-and-his-fellows-1917` | have-raw (IA `euthymideshisfel00hoppuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
