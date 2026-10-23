@@ -18883,3 +18883,15 @@ Shelf: `pipeline/george-cupples_shelf.json` (2026-10-22; added at the coordinato
 | The Cockatoo's Story | have | PG 21685, `gcupples-cockatoos-story` (413 units) |
 | My Pretty Scrap-Book: Picture Pages and Pleasant Stories for Little Readers | have | PG 45302, `gcupples-my-pretty-scrap-book` (241 units) |
 | The Stocking-Knitter's Manual: A Handy Book for the Work-Table | have | PG 57273, `gcupples-stocking-knitters-manual` (180 units) |
+
+## Stephen Angus Douglas Cox
+
+Shelf: `pipeline/stephen-angus-douglas-cox_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dare Boys of 1776 | have | PG 9112, `sadcox-dare-boys-of-1776` (1077 units) |
+| The Dare Boys in Virginia | have | PG 44478, `sadcox-dare-boys-in-virginia` (1104 units) |
+| The Dare Boys with General Greene | have | PG 44631, `sadcox-dare-boys-with-general-greene` (1028 units) |
+| The Dare Boys in Vincennes | have | PG 64017, `sadcox-dare-boys-in-vincennes` (1044 units) |
+| Harry's newspaper | have | PG 77984, `sadcox-harrys-newspaper` (600 units) |
