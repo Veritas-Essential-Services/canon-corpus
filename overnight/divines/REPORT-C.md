@@ -342,3 +342,5 @@
 - 2026-10-22T23:33-05:00: Round 132 (2026-10-23): 15 titles, Eden and Cedar Paul on archive.org (Ludwig x3, Masaryk x2, Michels, Baudouin x2, Rathenau, Stalin and others). 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:40-05:00: Round 133 (2026-10-23): 16 titles, Hogarth x6 (Kluchevsky x4), Bernstein x2, Allinson x4, Worster x4 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:46-05:00: Round 134 (2026-10-23): 17 titles, Wister x8 and Safford x9 from archive.org. 0 mismatched, 0 rights flags, no uids.
