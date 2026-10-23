@@ -1,5 +1,5 @@
 {
- "_about": "John Bagnell Bury (1861-1927), Regius Professor of Modern History at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of the Later Roman Empire from Arcadius to Irene (2 vols., 1889), A History of the Eastern Roman Empire (1912) and The Constitution of the Later Roman Empire (Creighton lecture, 1910), raw IA OCR. Added in round 2026-10-18bx: A History of Freedom of Thought and The Idea of Progress from Gutenberg. No uids minted. Also A History of Greece to the Death of Alexander the Great, first edition (Macmillan, 1900), raw IA OCR. Also The Ancient Greek Historians (Harvard Lectures, Macmillan, 1909), raw IA OCR.",
+ "_about": "John Bagnell Bury (1861-1927), Regius Professor of Modern History at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of the Later Roman Empire from Arcadius to Irene (2 vols., 1889), A History of the Eastern Roman Empire (1912) and The Constitution of the Later Roman Empire (Creighton lecture, 1910), raw IA OCR. Added in round 2026-10-18bx: A History of Freedom of Thought and The Idea of Progress from Gutenberg. No uids minted. Also A History of Greece to the Death of Alexander the Great, first edition (Macmillan, 1900), raw IA OCR. Also The Ancient Greek Historians (Harvard Lectures, Macmillan, 1909), raw IA OCR. Also raw IA: The Nemean Odes of Pindar, edited with introductions and commentary (Macmillan, 1890), Greek text with English commentary, kept per Adam's 2026-10-23 ruling. Not taken: his Isthmian Odes (1892), whose open scans OCR the English as Greek letters.",
  "_name_words": [
   "bury"
  ],
@@ -43,6 +43,10 @@
   "bury-ancient-greek-historians-1909": [
    "cu31924028260317",
    "The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909)"
+  ],
+  "bury-pindar-nemean-odes-1890": [
+   "nemeanodesofpind00pind",
+   "The Nemean Odes of Pindar, edited with introductions and commentary (London: Macmillan, 1890); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -52,7 +56,7 @@
  "_checks": {
   "bury-history-of-freedom-of-thought": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -61,7 +65,7 @@
   },
   "bury-idea-of-progress": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -70,7 +74,7 @@
   },
   "bury-later-roman-empire-v1-1889": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -81,7 +85,7 @@
   },
   "bury-later-roman-empire-v2-1889": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -92,7 +96,7 @@
   },
   "bury-eastern-roman-empire-1912": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -103,7 +107,7 @@
   },
   "bury-constitution-later-roman-empire-1910": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -114,7 +118,7 @@
   },
   "bury-history-greece-1900": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -125,7 +129,7 @@
   },
   "bury-ancient-greek-historians-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. b. bury",
    "identity": "ok",
@@ -133,6 +137,22 @@
    "ia_date": "1909",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "bury-pindar-nemean-odes-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "bury-pindar-nemean-odes-1890": {
+   "author": "title page read in the OCR 2026-10-23: 'NEMEAN ODES OF PINDAR EDITED, WITH INTRODUCTIONS AND COMMENTARY, BY oBe BURY. MA. FELLOW OF TRINITY COLLEGE, DUBLIN. London: MACMILLAN AND CO. AND NEW YORK. 1890', i.e. J. B. Bury, the initials garbled"
   }
  }
 }
