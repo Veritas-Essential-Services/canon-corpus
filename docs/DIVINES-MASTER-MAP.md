@@ -16955,6 +16955,24 @@ Slugs `jservice-*`. Built from title pages read for round 108.
 | Salvation here and hereafter. Sermons and essays (London, Macmillan and co., 1877) | have-ocr | IA `salvationhereher00serv` |
 | Sermons (Macmillan, 1884) | have-ocr | IA `sermons00servgoog` |
 | Prayers for Public Worship (Macmillan and co., 1885) | have-ocr | IA `prayersforpubli00servgoog` |
+
+## Clovis G. Chappell (round 108, my pick, 2026-10-23)
+
+Slugs `chappell-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| More sermons on Biblical characters (New York, George H. Doran company, 1923) | have-ocr | IA `moresermonsonbib00chap` |
+| Sermons on new testament characters (george h. doran company, 1924) | have-ocr | IA `sermonsonnewtest0000revc` |
+| Home Folks (catalogued 1926) | have-ocr | IA `homefolks0000clov` |
+| Christ and the new women (Nashville, Tenn. : Cokesbury press, 1928) | have-ocr | IA `christnewwomen00chap` |
+| Men that count (doubleday, doran & company, inc., 1929) | have-ocr | IA `menthatcount0000clov` |
+| Sermons on Biblical Characters (copyright 1922): this scan is a later Harper printing (printing code D-R, which by Harper's letter code is not the 1922 first printing); a pre-1930 printing is wanted | pending | not shelved |
+| Sermons on Old Testament Characters (copyright 1925): this scan is a later Harper printing (printing code H-N, which by Harper's letter code is not the 1925 first printing); a pre-1930 printing is wanted | pending | not shelved |
+| The Village Tragedy (copyright 1925): this scan carries the Abingdon-Cokesbury imprint, so it was printed in 1940 or later; a pre-1930 printing is wanted | pending | not shelved |
+| Sermons from the Miracles (1927): this scan is a printing from after 1949 (its jacket notes his retirement that year); a pre-1930 printing is wanted | pending | not shelved |
+| Familiar Failures (copyright 1927): this scan has a Garden City imprint and no printing date, so it may be a printing from after 1929; a dated pre-1930 printing is wanted | pending | not shelved |
+| Books printed in 1930 or later (The Sermon on the Mount and after) left out | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

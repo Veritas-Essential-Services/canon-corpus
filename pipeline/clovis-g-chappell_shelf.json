@@ -1,0 +1,109 @@
+{
+ "_about": "Public-domain Clovis G. Chappell (1882-1972), Methodist preacher of Washington, Memphis and Houston, for the Word Hoard: his books of sermons printed before 1930, in printings whose imprints date them before 1930: More Sermons on Biblical Characters (1923), Sermons on New Testament Characters (1924), Home Folks (1926), Christ and the New Woman (1928) and Men that Count (1929). He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 108 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "clovis g. chappell",
+  "clovis chappell",
+  "chappell"
+ ],
+ "_surname": [
+  "clovis g. chappell",
+  "clovis chappell",
+  "chappell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chappell-more-biblical": [
+   "moresermonsonbib00chap",
+   "More sermons on Biblical characters (New York, George H. Doran company, 1923)"
+  ],
+  "chappell-nt-characters": [
+   "sermonsonnewtest0000revc",
+   "Sermons on new testament characters (george h. doran company, 1924)"
+  ],
+  "chappell-home-folks": [
+   "homefolks0000clov",
+   "Home Folks (catalogued 1926)"
+  ],
+  "chappell-new-woman": [
+   "christnewwomen00chap",
+   "Christ and the new women (Nashville, Tenn. : Cokesbury press, 1928)"
+  ],
+  "chappell-men-that-count": [
+   "menthatcount0000clov",
+   "Men that count (doubleday, doran & company, inc., 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "chappell-1930-on": "Books printed in 1930 or later (The Sermon on the Mount and after) left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "chappell-biblical-characters": "Sermons on Biblical Characters (copyright 1922): this scan is a later Harper printing (printing code D-R, which by Harper's letter code is not the 1922 first printing); a pre-1930 printing is wanted",
+  "chappell-ot-characters": "Sermons on Old Testament Characters (copyright 1925): this scan is a later Harper printing (printing code H-N, which by Harper's letter code is not the 1925 first printing); a pre-1930 printing is wanted",
+  "chappell-village-tragedy": "The Village Tragedy (copyright 1925): this scan carries the Abingdon-Cokesbury imprint, so it was printed in 1940 or later; a pre-1930 printing is wanted",
+  "chappell-miracles": "Sermons from the Miracles (1927): this scan is a printing from after 1949 (its jacket notes his retirement that year); a pre-1930 printing is wanted",
+  "chappell-familiar-failures": "Familiar Failures (copyright 1927): this scan has a Garden City imprint and no printing date, so it may be a printing from after 1929; a dated pre-1930 printing is wanted"
+ },
+ "_translators": {},
+ "_checks": {
+  "chappell-more-biblical": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clovis g. chappell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "chappell-nt-characters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clovis g. chappell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chappell-home-folks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clovis g. chappell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chappell-new-woman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clovis g. chappell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chappell-men-that-count": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clovis g. chappell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
