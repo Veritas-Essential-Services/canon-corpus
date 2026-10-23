@@ -18787,3 +18787,15 @@ Shelf: `pipeline/m-e-francis_shelf.json` (2026-10-22; added at the coordinator's
 | Fiander's Widow: A Novel | have | PG 66622, `mefrancis-fianders-widow` (1753 units) |
 | Stepping Westward | have | PG 66833, `mefrancis-stepping-westward` (2042 units) |
 | Dorset dear | have | PG 75281, `mefrancis-dorset-dear` (2308 units) |
+
+## W. Bert Foster
+
+Shelf: `pipeline/w-bert-foster_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Swept Out to Sea; Or, Clint Webb Among the Whalers | have | PG 23674, `wbfoster-swept-out-to-sea` (1191 units) |
+| With Ethan Allen at Ticonderoga | have | PG 30952, `wbfoster-with-ethan-allen-at-ticonderoga` (985 units) |
+| The Trail Boys of the Plains; Or, The Hunt for the Big Buffalo | have | PG 44078, `wbfoster-trail-boys-of-the-plains` (2266 units) |
+| From Sea to Sea; Or, Clint Webb's Cruise on the Windjammer | have | PG 67495, `wbfoster-from-sea-to-sea` (1476 units) |
+| The quest of the Silver Swan: A land and sea tale for boys | have | PG 68182, `wbfoster-quest-of-the-silver-swan` (2325 units) |

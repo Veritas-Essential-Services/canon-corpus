@@ -6421,6 +6421,14 @@
       "started": "2026-10-22T23:24:06-05:00",
       "finished": "2026-10-22T23:24:06-05:00",
       "notes": "m-e-francis: new shelf, 5 Gutenberg books, 9,521 units, 373 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "w-bert-foster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — W. Bert Foster; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:07-05:00",
+      "finished": "2026-10-22T23:24:07-05:00",
+      "notes": "w-bert-foster: new shelf, 5 Gutenberg books, 8,243 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
