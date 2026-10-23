@@ -10658,3 +10658,12 @@ Shelf: `pipeline/mary-sturgeon_shelf.json`. Women of the Classics (London: Harra
 |---|---|---|---|
 | Women of the Classics (London: Harrap) |  | `sturgeon-women-of-the-classics` | have (PG 53487) |
 
+
+## Mitchell Carroll (1870-1925)
+
+Shelf: `pipeline/mitchell-carroll_shelf.json`. Greek Women (copyright 1907). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Women (copyright 1907) |  | `carroll-greek-women-1907` | have (PG 32318) |
+

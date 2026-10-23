@@ -1,0 +1,33 @@
+{
+ "_about": "Mitchell Carroll (1870-1925), George Washington University: Greek Women (copyright 1907). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Mitchell Carroll (1870-1925)",
+ "_name_words": [
+  "carroll",
+  "mitchell",
+  "greek",
+  "women"
+ ],
+ "_surname": [
+  "mitchell carroll"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carroll-greek-women-1907": [
+   32318,
+   "Greek Women (copyright 1907)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "carroll-greek-women-1907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mitchell carroll",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
