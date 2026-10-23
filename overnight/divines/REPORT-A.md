@@ -2270,3 +2270,6 @@
 
 ## 2026-10-23 09:08 CDT — round 124 done
 - luke-milbourne, benjamin-wallin, nicholas-snethen, aaron-bancroft, j-m-cramp: 5 shelves, 84 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:10 CDT — round 125 done
+- benjamin-b-wisner, george-w-truett, leighton-parks, camden-m-cobern, frederic-a-noble: 5 shelves, 29 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
