@@ -11019,3 +11019,12 @@ Slugs `baumgarten-*`. Built from title pages read for round 48.
 | The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 3 (Edinburgh : T. & T. Clark, 1854) | have-ocr | IA `actsofapostlesor03baum` |
 | Other copies of the 1854 set (actsapostlesorh00baumgoog, a second vol. 1; bwb_Y0-BSQ-077_1; actsofapostleson0000mbau) | alternate | not shelved |
 | Every other Baumgarten in the catalogue is another person (tapestry, medicine, seeds, Canada) | excluded | |
+
+## Karl Immanuel Nitzsch (round 48, my pick, 2026-10-23)
+
+Slugs `nitzsch-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| System of Christian doctrine (Edinburgh : T. & T. Clark, 1849) | have-ocr | IA `systemofchristia00nitz` |
+| Nitzsch's Pterylography (1867, by the ornithologist C. L. Nitzsch, another man) | excluded | |
