@@ -17617,6 +17617,18 @@ Slugs `icrook-*`. Built from title pages read for round 116.
 | The earnest expectation (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `earnestexpectati00croo` |
 | John Knox: the reformer (Cincinnati, Jennings and Graham, 1906) | have-ocr | IA `johnknoxreformer00croo` |
 | The great five : the first faculty of the Ohio Wesleyan University (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1908) | have-ocr | IA `greatfivefirstfa00croo` |
+
+## Robert Cooney (round 116, my pick, 2026-10-23)
+
+Slugs `rcooney-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| A compendious history of the northern part of the province of New Brunswick, and of the district of Gaspe (Halifax, N.S., Printed by J. Howe, 1832) | have-ocr | IA `compendioushist00coon` |
+| The glory of the God of Israel displayed : being the substance of a sermon preached at Liverpool before the Wesleyan ministers of the Nova Scotia district, on Monday, 26th of May, 1834 ([Halifax, N.S. : s.n.], 1836) | have-ocr | IA `cihm_57327` |
+| The judgment seat of Christ : a sermon preached in the Wesleyan Chapel at Guysborough, on Sunday 7th of January, 1838 ([Halifax, N.S.? : s.n.], 1838) | have-ocr | IA `cihm_58245` |
+| The Lord is on our side : a sermon, delivered in the Wesleyan Chapel, Odelltown, on Saturday, November 9, 1839 : being the first anniversary of the battle, fought at the above place, between the insurgents and the loyal volunteers ([Montreal : s.n.], 1840) | have-ocr | IA `cihm_58246` |
+| The autobiography of a Wesleyan Methodist missionary, (formerly a Roman Catholic) : containing an account of his conversion from Romanism, and his reception into the Wesleyan ministry ; also, reminiscences of nearly twenty-five years' itinerancy in the North American provinces, 1st thousand (Montreal : E. Pickup, 1856) | have-ocr | IA `autobiographyofw0000coon` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
