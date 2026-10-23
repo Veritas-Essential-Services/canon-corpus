@@ -5560,10 +5560,12 @@
     },
     {
       "id": "nathaniel-w-taylor",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:06:40-05:00",
+      "notes": "Rebuilt on resume: Concio ad Clerum, Practical Sermons, Moral Government (2 vols), Essays and Lectures, Hawes correspondence; verify --record 0 mismatched (two title pages read where OCR garbled the name), 0 uids minted. The unsigned 1830 Review of Tyler is pending."
     },
     {
       "id": "william-b-sprague",

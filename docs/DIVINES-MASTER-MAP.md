@@ -9527,6 +9527,22 @@ Slugs `rfurman-*`. Built from title pages read for round 39.
 | Humble Submission to Divine Sovereignty the Duty of a Bereaved Nation, on the death of General George Washington (Charleston: W. P. Young, M.DCCC) | have-ocr | IA `bim_eighteenth-century_humble-submission-to-div_furman-richard_1800` |
 | Death's Dominion over Man Considered, on the death of Alexander Hamilton (Charleston: W. P. Young; sermon dated 1804) | have-ocr | IA `deathsdominionov00furm` |
 | His son Richard Furman's books (1843, 1859) | excluded | |
+
+## Nathaniel W. Taylor (round 39, my pick, 2026-10-22)
+
+Slugs `nwtaylor-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Correspondence between Rev. Dr. Taylor and Rev. Dr. Hawes (catalogued 1832) | have-ocr | IA `correspondencebe6atayl` |
+| Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (catalogued 1842) | have-ocr | IA `concioadclerumse00tayl` |
+| Practical Sermons (New York: Clark, Austin & Smith, 1858) | have-ocr | IA `practicalsermons00tayl` |
+| Lectures on the Moral Government of God, vol. I (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg01tayl` |
+| Lectures on the Moral Government of God, vol. II (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg02tayl` |
+| Essays, Lectures, etc. upon Select Topics in Revealed Theology (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `essayslectureset00tayl` |
+| Review of Dr. Tyler's Strictures (New Haven, 1830, MN41642ucmf_4): first printed unsigned in the Christian Spectator; the title page names no author, the catalogue credits Taylor | pending | not shelved |
+| Other scans: practicalsermons00tayl_0, cu31924031765633, practicalsermon00taylgoog; moralgovernment01taylrich, moralgovernment02taylrich, lecturesonmoral04taylgoog; essayslecturese01taylgoog, essayslectureset00tayl_0 | alternate | not shelved |
+| Timothy Dwight's ordination sermon for him (1812, dignityexcellen00dwig); MacWhorter's Yahveh Christ (1857); two manuscript letters (1831); Jeremy Taylor and other Taylors | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain Nathaniel William Taylor (1786-1858), Dwight professor of didactic theology at Yale and author of the New Haven Theology, for the Word Hoard: the Concio ad Clerum (preached 1828, this printing 1842), the Practical Sermons (1858), the Lectures on the Moral Government of God (1859, two volumes), the Essays, Lectures, etc. upon Select Topics in Revealed Theology (1859), and his correspondence with Joel Hawes (1832), from Internet Archive scans. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "taylor"
+ ],
+ "_surname": [
+  "nathaniel w. taylor",
+  "nathaniel william taylor",
+  "n. w. taylor",
+  "nathaniel taylor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nwtaylor-hawes-correspondence-1832": [
+   "correspondencebe6atayl",
+   "Correspondence between Rev. Dr. Taylor and Rev. Dr. Hawes (catalogued 1832)"
+  ],
+  "nwtaylor-concio-ad-clerum": [
+   "concioadclerumse00tayl",
+   "Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (catalogued 1842)"
+  ],
+  "nwtaylor-practical-sermons-1858": [
+   "practicalsermons00tayl",
+   "Practical Sermons (New York: Clark, Austin & Smith, 1858)"
+  ],
+  "nwtaylor-moral-government-1": [
+   "lecturesonmoralg01tayl",
+   "Lectures on the Moral Government of God, vol. I (New York: Clark, Austin & Smith, 1859)"
+  ],
+  "nwtaylor-moral-government-2": [
+   "lecturesonmoralg02tayl",
+   "Lectures on the Moral Government of God, vol. II (New York: Clark, Austin & Smith, 1859)"
+  ],
+  "nwtaylor-essays-lectures-1859": [
+   "essayslectureset00tayl",
+   "Essays, Lectures, etc. upon Select Topics in Revealed Theology (New York: Clark, Austin & Smith, 1859)"
+  ]
+ },
+ "_alternates": {
+  "nwtaylor-copies": "Other scans: practicalsermons00tayl_0, cu31924031765633, practicalsermon00taylgoog; moralgovernment01taylrich, moralgovernment02taylrich, lecturesonmoral04taylgoog; essayslecturese01taylgoog, essayslectureset00tayl_0"
+ },
+ "_excluded": {
+  "nwtaylor-other": "Timothy Dwight's ordination sermon for him (1812, dignityexcellen00dwig); MacWhorter's Yahveh Christ (1857); two manuscript letters (1831); Jeremy Taylor and other Taylors"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "nwtaylor-practical-sermons-1858": "title page read: 'Practical Sermons by Nathaniel W. Taylor, D.D., late Dwight Professor of Didactic Theology in Yale College', New York: Clark, Austin & Smith, 1858 (OCR 'NATHANIEL W, TAYLOR')",
+  "nwtaylor-essays-lectures-1859": "title page read: 'Essays, Lectures, etc. upon Select Topics in Revealed Theology, by Nathaniel W. Taylor, D.D.', New York: Clark, Austin & Smith, 1859 (OCR 'NATHANIEL ¥. TAYLOR')"
+ },
+ "_pending": {
+  "nwtaylor-tyler-review-1830": "Review of Dr. Tyler's Strictures (New Haven, 1830, MN41642ucmf_4): first printed unsigned in the Christian Spectator; the title page names no author, the catalogue credits Taylor"
+ },
+ "_translators": {},
+ "_checks": {
+  "nwtaylor-hawes-correspondence-1832": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel w. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nwtaylor-concio-ad-clerum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel w. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nwtaylor-practical-sermons-1858": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nwtaylor-moral-government-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel w. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nwtaylor-moral-government-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel w. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nwtaylor-essays-lectures-1859": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
