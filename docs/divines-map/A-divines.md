@@ -17178,3 +17178,13 @@ Slugs `carry-*`. Built from title pages read for round 111.
 | cihm_00493 (another scan of the Exposure) | excluded | |
 | essayonsubjectof00nico (an essay by another hand) | excluded | |
 | cihm_92034 (King William III's prayers, which Carry edited) | excluded | |
+
+## George Webber (round 111, my pick, 2026-10-23)
+
+Slugs `gwebber-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures and sermons (Charlottetown, [P.E.I.] : H. Cooper, 1875) | have-ocr | IA `cihm_49059` |
+| The pulpit the age needs (Toronto : W. Briggs; Montreal : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_49060` |
+| God in history (Toronto : W. Briggs; Montreal : C.W. Coates, 1888) | have-ocr | IA `cihm_25612` |

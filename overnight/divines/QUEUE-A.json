@@ -9739,6 +9739,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T07:43:35-05:00",
       "notes": "Woodbridge mission, Diocese of Toronto. William III's prayers (edited) and an essay by another hand left out."
+    },
+    {
+      "id": "a-george-webber",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:35-05:00",
+      "notes": "Canadian Methodist (CIHM microfiche)."
     }
   ]
 }
