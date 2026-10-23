@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Isabel Florence Hapgood (1851-1928). Hugo's Les Misérables (1887), Gorky, Turgenev and Bunin. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst. Round 120 (2026-10-23, vetoable) added Leskov's The Cathedral Folk (Knopf, 1924) from an archive.org scan.",
+ "_about": "TRANSLATOR SHELF: Isabel Florence Hapgood (1851-1928). Hugo's Les Misérables (1887), Gorky, Turgenev and Bunin. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst. Round 120 (2026-10-23, vetoable) added Leskov's The Cathedral Folk (Knopf, 1924) from an archive.org scan. Round 121 (2026-10-23, vetoable) added Gogol's Taras Bulba (Knopf, 1916 printing).",
  "_name_words": [
   "hapgood"
  ],
@@ -65,6 +65,10 @@
   "hapgood-leskov-cathedral-folk": [
    "cathedralfolk0000nico",
    "The Cathedral Folk (1924)"
+  ],
+  "hapgood-gogol-taras-bulba": [
+   "tarasbulbataleof00gogouoft",
+   "Taras Bulba: a Tale of the Cossacks (1916)"
   ]
  },
  "titles": {
@@ -185,6 +189,15 @@
    "translated": 1924,
    "translator": "Isabel F. Hapgood",
    "scan_edition": "Alfred A. Knopf, New York 1924 (published January 1924; introduction by Edward Garnett); archive.org scan"
+  },
+  "hapgood-gogol-taras-bulba": {
+   "source": "hapgood-gogol-taras-bulba",
+   "of": "Nikolai Gogol",
+   "work": "Taras Bulba: a Tale of the Cossacks",
+   "translated": 1886,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Alfred A. Knopf, New York, copyright 1915, second printing April 1916; University of Toronto scan",
+   "note": "Her version was first published by Crowell, New York, in 1886."
   }
  },
  "_pending": {
@@ -322,6 +335,17 @@
    "ia_date": "1924",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "hapgood-gogol-taras-bulba": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -403,6 +427,21 @@
     2026
    ],
    "post_1930_examined": "Examined in round 120: 2026 is the Internet Archive's digitising line; the title page reads Alfred A. Knopf, New York, 1924, published January 1924."
+  },
+  "hapgood-gogol-taras-bulba": {
+   "ia": "tarasbulbataleof00gogouoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1508,
+    1552,
+    1592,
+    1672,
+    1730,
+    1740,
+    1915,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

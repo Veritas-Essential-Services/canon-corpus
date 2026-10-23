@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of plays and poetry: Gorky's The Lower Depths (Covan, Moscow Art Theatre), Schnitzler's Hands Around (1920), Claudel's Tête-d'Or, Brieux's Three Plays (with Shaw's preface), Echegaray ×2 (The Great Galeoto, The Son of Don Juan), Sardou's The Sorceress, Heijermans's The Good Hope, Cervantes's Numantia, Mitra's Nil Darpan (Madhusudan Dutt, 1861), the Chushingura, Roswitha's plays (Christopher St. John), Mascagni's Cavalleria Rusticana; and verse: Petrarch's sonnets (Higginson), Garcilaso (Wiffen, 1823), Leopardi (Cliffe), Mistral's Mirèio (Harriet Preston), Boiardo's Orlando Innamorato (W. S. Rose), La Fontaine's Fables (Thornbury), Oehlenschläger's Gods of the North, Pushkin's poems (Panin), Arthur Way's Lay of the Nibelung Men, the Orkneyinga Saga, The King's Mirror, the Dean of Lismore's Book, Antar, Abu'l-Ala's Luzumiyat (Rihani), Rumi's Mesnevi (Redhouse), Sadi's Bustān, Iqbal's Secrets of the Self (Nicholson, 1920), the Childers Jātaka, the Diamond Sutra (Gemmell), Sumerian Hymns, Fir-Flower Tablets (Ayscough and Amy Lowell), Diaries of Court Ladies of Old Japan, Halper's Post-Biblical Hebrew Literature, Christine de Pisan's Othea (Scrope) and The Babees' Book. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883).",
+ "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of plays and poetry: Gorky's The Lower Depths (Covan, Moscow Art Theatre), Schnitzler's Hands Around (1920), Claudel's Tête-d'Or, Brieux's Three Plays (with Shaw's preface), Echegaray ×2 (The Great Galeoto, The Son of Don Juan), Sardou's The Sorceress, Heijermans's The Good Hope, Cervantes's Numantia, Mitra's Nil Darpan (Madhusudan Dutt, 1861), the Chushingura, Roswitha's plays (Christopher St. John), Mascagni's Cavalleria Rusticana; and verse: Petrarch's sonnets (Higginson), Garcilaso (Wiffen, 1823), Leopardi (Cliffe), Mistral's Mirèio (Harriet Preston), Boiardo's Orlando Innamorato (W. S. Rose), La Fontaine's Fables (Thornbury), Oehlenschläger's Gods of the North, Pushkin's poems (Panin), Arthur Way's Lay of the Nibelung Men, the Orkneyinga Saga, The King's Mirror, the Dean of Lismore's Book, Antar, Abu'l-Ala's Luzumiyat (Rihani), Rumi's Mesnevi (Redhouse), Sadi's Bustān, Iqbal's Secrets of the Self (Nicholson, 1920), the Childers Jātaka, the Diamond Sutra (Gemmell), Sumerian Hymns, Fir-Flower Tablets (Ayscough and Amy Lowell), Diaries of Court Ladies of Old Japan, Halper's Post-Biblical Hebrew Literature, Christine de Pisan's Othea (Scrope) and The Babees' Book. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 (2026-10-23, vetoable) added Lermontov's The Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Poems selected from Karamzin to Nadson (1917).",
  "_name_words": [
   "a. hart edwards",
   "ameen fares rihani",
@@ -58,7 +58,11 @@
   "henry phillips jr",
   "w. r. s. ralston",
   "i. henry harrison",
-  "henry harrison"
+  "henry harrison",
+  "condie stephen",
+  "francis storr",
+  "robert burness",
+  "rudzinsky"
  ],
  "_surname": [
   "a. hart edwards",
@@ -118,7 +122,11 @@
   "henry phillips jr",
   "w. r. s. ralston",
   "i. henry harrison",
-  "henry harrison"
+  "henry harrison",
+  "condie stephen",
+  "francis storr",
+  "robert burness",
+  "rudzinsky"
  ],
  "_surname_by_slug": {
   "sp2-46992": [
@@ -307,6 +315,18 @@
   "sp2-krylov-fables-harrison": [
    "i. henry harrison",
    "henry harrison"
+  ],
+  "sp2-lermontov-demon-stephen": [
+   "condie stephen"
+  ],
+  "sp2-lermontov-demon-storr": [
+   "francis storr"
+  ],
+  "sp2-lermontov-demon-burness": [
+   "robert burness"
+  ],
+  "sp2-rudzinsky-russian-poems": [
+   "rudzinsky"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -481,6 +501,22 @@
   "sp2-krylov-fables-harrison": [
    "cu31924026691612",
    "Kriloff's Original Fables (1883)"
+  ],
+  "sp2-lermontov-demon-stephen": [
+   "demonapoemtrbya00lermgoog",
+   "The Demon: a Poem (1875)"
+  ],
+  "sp2-lermontov-demon-storr": [
+   "demonoflermontof00lerm",
+   "The Demon of Lermontoff (1894)"
+  ],
+  "sp2-lermontov-demon-burness": [
+   "demonthe00lermrich",
+   "The Demon (1918)"
+  ],
+  "sp2-rudzinsky-russian-poems": [
+   "poemsselectedfro00rudz",
+   "Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov and others (1917)"
   ]
  },
  "titles": {
@@ -820,6 +856,39 @@
    "translated": 1883,
    "translator": "I. Henry Harrison",
    "scan_edition": "Remington & Co., London 1883; Cornell scan"
+  },
+  "singles-plays-poetry-2-lermontov-demon-stephen": {
+   "source": "sp2-lermontov-demon-stephen",
+   "of": "Mikhail Lermontov",
+   "work": "The Demon: a Poem",
+   "translated": 1875,
+   "translator": "Alexander Condie Stephen",
+   "scan_edition": "London 1875; Google scan"
+  },
+  "singles-plays-poetry-2-lermontov-demon-storr": {
+   "source": "sp2-lermontov-demon-storr",
+   "of": "Mikhail Lermontov",
+   "work": "The Demon of Lermontoff",
+   "translated": 1894,
+   "translator": "Francis Storr",
+   "scan_edition": "Rivington, Percival & Co., London 1894; archive.org scan"
+  },
+  "singles-plays-poetry-2-lermontov-demon-burness": {
+   "source": "sp2-lermontov-demon-burness",
+   "of": "Mikhail Lermontov",
+   "work": "The Demon",
+   "translated": 1918,
+   "translator": "Robert Burness",
+   "scan_edition": "Douglas & Foulis, Edinburgh 1918; UC Berkeley scan (a \"Preservation copy added, original to be retained\" stamp: the scan is the retained original)"
+  },
+  "singles-plays-poetry-2-rudzinsky-russian-poems": {
+   "source": "sp2-rudzinsky-russian-poems",
+   "of": "Karamzin, Pushkin, Tyutchev, Lermontov, A. K. Tolstoy and others",
+   "work": "Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy and others, with English translations and notes",
+   "translated": 1917,
+   "translator": "B. A. Rudzinsky, assisted by Stella Gardiner",
+   "scan_edition": "H. S. Marshall, London; John Menzies, Edinburgh and Glasgow (preface dated Glasgow, April 1917); archive.org scan",
+   "note": "Russian text with facing English translations."
   }
  },
  "_pending": {
@@ -1213,6 +1282,50 @@
    "ia_date": "1883",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sp2-lermontov-demon-stephen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "condie stephen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sp2-lermontov-demon-storr": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis storr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sp2-lermontov-demon-burness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert burness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sp2-rudzinsky-russian-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rudzinsky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "[1917?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1440,6 +1553,71 @@
     1809,
     1883,
     1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sp2-lermontov-demon-stephen": {
+   "ia": "demonapoemtrbya00lermgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1826,
+    1829,
+    1832,
+    1833,
+    1834,
+    1837,
+    1838,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sp2-lermontov-demon-storr": {
+   "ia": "demonoflermontof00lerm",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sp2-lermontov-demon-burness": {
+   "ia": "demonthe00lermrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1834,
+    1837,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sp2-rudzinsky-russian-poems": {
+   "ia": "poemsselectedfro00rudz",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1765,
+    1766,
+    1792,
+    1796,
+    1799,
+    1802,
+    1803,
+    1814,
+    1817,
+    1824,
+    1825,
+    1826,
+    1837,
+    1841,
+    1861,
+    1862,
+    1864,
+    1873,
+    1875,
+    1878,
+    1887,
+    1894,
+    1916,
+    1917
    ],
    "post_1930_years_in_front_15k": []
   }

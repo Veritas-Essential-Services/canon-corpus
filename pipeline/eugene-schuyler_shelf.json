@@ -1,0 +1,108 @@
+{
+ "_about": "TRANSLATOR SHELF: Eugene Schuyler (1840-1890), American diplomat and scholar, the first to put Turgenev and Tolstoy into English from the Russian: Turgenev's Fathers and Sons (Leypoldt & Holt, New York, 1867) and Tolstoy's The Cossacks (Sampson Low, London, 1878). US public domain. Added 2026-10-23 by lane C (round 121); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eugene schuyler"
+ ],
+ "_surname": [
+  "eugene schuyler"
+ ],
+ "_surname_note": "Full name only; bare 'schuyler' is a common American surname.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schuyler-turgenev-fathers-and-sons": [
+   "fathersandsonsa00schugoog",
+   "Fathers and Sons (1867)"
+  ],
+  "schuyler-tolstoy-cossacks": [
+   "cossackstrbyesc00tolsgoog",
+   "The Cossacks (1878)"
+  ]
+ },
+ "titles": {
+  "eugene-schuyler-turgenev-fathers-and-sons": {
+   "source": "schuyler-turgenev-fathers-and-sons",
+   "of": "Ivan Turgenev",
+   "work": "Fathers and Sons",
+   "translated": 1867,
+   "translator": "Eugene Schuyler",
+   "scan_edition": "Leypoldt & Holt, New York 1867; Google scan of a Harvard copy",
+   "note": "The first English translation. Hogarth's Fathers and Sons and Garnett's Fathers and Children are on their own shelves."
+  },
+  "eugene-schuyler-tolstoy-the-cossacks": {
+   "source": "schuyler-tolstoy-cossacks",
+   "of": "Leo Tolstoy",
+   "work": "The Cossacks: A Tale of the Caucasus in 1852",
+   "translated": 1878,
+   "translator": "Eugene Schuyler",
+   "scan_edition": "Sampson Low, Marston, Searle, & Rivington, London 1878 (preface dated July 9, 1878); Google scan",
+   "note": "The Maudes' Cossacks is on the maude shelf."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "schuyler-turgenev-fathers-and-sons": {
+   "ia": "fathersandsonsa00schugoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1799,
+    1808,
+    1811,
+    1818,
+    1837,
+    1838,
+    1841,
+    1843,
+    1846,
+    1851,
+    1852,
+    1855,
+    1867
+   ],
+   "post_1930_years_in_front_15k": [
+    1941
+   ],
+   "post_1930_examined": "Examined in round 121: 1941 is a Harvard library accession stamp (Mar 5 1941, Amey Richmond Sheldon Fund); the title page reads New York, Leypoldt & Holt, 1867."
+  },
+  "schuyler-tolstoy-cossacks": {
+   "ia": "cossackstrbyesc00tolsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1851,
+    1852,
+    1868,
+    1875,
+    1877,
+    1878
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_checks": {
+  "schuyler-turgenev-fathers-and-sons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene schuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schuyler-tolstoy-cossacks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene schuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869).",
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 (2026-10-23, vetoable) added Butts and Browne's Turgenev, Spring Floods and A Lear of the Steppe (1874), Pasvolsky's Kuprin, The Bracelet of Garnets (1917), Tollemache's Russian Sketches (1913), Baskerville's Gogol, Taras Bulba (1907), and Telfer's Pushkin, Russian Romance (1875).",
  "_name_words": [
   "a. e. chamot",
   "a. w. wheen",
@@ -109,7 +109,15 @@
   "thomas b. shaw",
   "mrs. edgar lucas",
   "edgar lucas",
-  "w. r. s. ralston"
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer"
  ],
  "_surname": [
   "a. e. chamot",
@@ -220,7 +228,15 @@
   "thomas b. shaw",
   "mrs. edgar lucas",
   "edgar lucas",
-  "w. r. s. ralston"
+  "w. r. s. ralston",
+  "sophie michell butts",
+  "william hand browne",
+  "leo pasvolsky",
+  "beatrix l. tollemache",
+  "tollemache",
+  "b. c. baskerville",
+  "baskerville",
+  "buchan telfer"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -579,6 +595,24 @@
   ],
   "sf3-turgenev-liza-ralston": [
    "w. r. s. ralston"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "sophie michell butts",
+   "william hand browne"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "leo pasvolsky"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "beatrix l. tollemache",
+   "tollemache"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "b. c. baskerville",
+   "baskerville"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "buchan telfer"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -917,6 +951,26 @@
   "sf3-turgenev-liza-ralston": [
    "lizaturg01turg",
    "Liza (1869)"
+  ],
+  "sf3-turgenev-spring-floods-butts": [
+   "springfloods00buttgoog",
+   "Spring Floods; A Lear of the Steppe (1874)"
+  ],
+  "sf3-kuprin-bracelet-of-garnets": [
+   "braceletgarnets00kuprgoog",
+   "The Bracelet of Garnets, and Other Stories (1917)"
+  ],
+  "sf3-tollemache-russian-sketches": [
+   "russiansketchesc00tolliala",
+   "Russian Sketches, Chiefly of Peasant Life (1913)"
+  ],
+  "sf3-gogol-taras-bulba-baskerville": [
+   "tarasbulbaastor00baskgoog",
+   "Taras Bulba: a Story of the Dnieper Cossacks (1907)"
+  ],
+  "sf3-pushkin-russian-romance-telfer": [
+   "russianromance00pushiala",
+   "Russian Romance (1875)"
   ]
  },
  "titles": {
@@ -1592,6 +1646,47 @@
    "translator": "W. R. S. Ralston",
    "scan_edition": "Chapman and Hall, London 1869; archive.org scan",
    "note": "A second witness beside Garnett's A House of Gentlefolk; Ralston's folk-tale books are on the ralston shelf (lane D), which left Liza out as outside its ask."
+  },
+  "singles-fiction-3-turgenev-spring-floods-butts": {
+   "source": "sf3-turgenev-spring-floods-butts",
+   "of": "Ivan Turgenev",
+   "work": "Spring Floods (tr. Sophie Michell Butts) and A Lear of the Steppe (tr. William Hand Browne)",
+   "translated": 1874,
+   "translator": "Sophie Michell Butts; William Hand Browne",
+   "scan_edition": "Thomas Y. Crowell & Co., New York (copyright 1874; the printing is undated); Google scan"
+  },
+  "singles-fiction-3-kuprin-the-bracelet-of-garnets": {
+   "source": "sf3-kuprin-bracelet-of-garnets",
+   "of": "Aleksandr Kuprin",
+   "work": "The Bracelet of Garnets, and Other Stories",
+   "translated": 1917,
+   "translator": "Leo Pasvolsky",
+   "scan_edition": "Charles Scribner's Sons, New York 1917; Google scan"
+  },
+  "singles-fiction-3-tollemache-russian-sketches": {
+   "source": "sf3-tollemache-russian-sketches",
+   "of": "Nikolai Leskov and others",
+   "work": "Russian Sketches, Chiefly of Peasant Life",
+   "translated": 1913,
+   "translator": "Beatrix L. Tollemache",
+   "scan_edition": "Smith, Elder, London 1913 (preface dated Bordighera, March 1913); UCLA scan"
+  },
+  "singles-fiction-3-gogol-taras-bulba-baskerville": {
+   "source": "sf3-gogol-taras-bulba-baskerville",
+   "of": "Nikolai Gogol",
+   "work": "Taras Bulba: a Story of the Dnieper Cossacks",
+   "translated": 1907,
+   "translator": "B. C. Baskerville",
+   "scan_edition": "The Walter Scott Publishing Co., London and Felling-on-Tyne; New York 1907; Google scan",
+   "note": "Hapgood's Taras Bulba is on the hapgood shelf."
+  },
+  "singles-fiction-3-pushkin-russian-romance-telfer": {
+   "source": "sf3-pushkin-russian-romance-telfer",
+   "of": "Aleksandr Pushkin",
+   "work": "Russian Romance (The Captain's Daughter and other tales)",
+   "translated": 1875,
+   "translator": "Mrs. J. Buchan Telfer",
+   "scan_edition": "Henry S. King & Co., London 1875; UCLA scan"
   }
  },
  "_pending": {
@@ -2378,6 +2473,61 @@
    "ia_date": "1869",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophie michell butts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leo pasvolsky",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-tollemache-russian-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beatrix l. tollemache",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. c. baskerville",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buchan telfer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2877,6 +3027,60 @@
     1862,
     1867,
     1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-turgenev-spring-floods-butts": {
+   "ia": "springfloods00buttgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1874
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-kuprin-bracelet-of-garnets": {
+   "ia": "braceletgarnets00kuprgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1855,
+    1860,
+    1870,
+    1904,
+    1908,
+    1910,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-tollemache-russian-sketches": {
+   "ia": "russiansketchesc00tolliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1822,
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    1997
+   ],
+   "post_1930_examined": "Examined in round 121: 1997 sits in a library barcode block at the head of the scan; the preface is dated Bordighera, March 1913."
+  },
+  "sf3-gogol-taras-bulba-baskerville": {
+   "ia": "tarasbulbaastor00baskgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1654,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-pushkin-russian-romance-telfer": {
+   "ia": "russianromance00pushiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1683,
+    1767,
+    1875
    ],
    "post_1930_years_in_front_15k": []
   }
