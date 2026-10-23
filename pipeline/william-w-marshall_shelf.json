@@ -1,0 +1,32 @@
+{
+ "_about": "William W. Marshall, of the Inner Temple, formerly Scholar of Hertford College, Oxford, translator of Plutarch's Lives of the Gracchi, raw IA OCR of Cruces and Criticisms: an examination of certain passages in Greek and Latin texts (London: Elliot Stock; no year legible in the OCR, IA catalogues 1886). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "William W. Marshall",
+ "_name_words": [
+  "marshall"
+ ],
+ "_surname": [
+  "william w. marshall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-w-marshall-cruces-and-criticisms": [
+   "crucescriticisms00mars",
+   "Cruces and Criticisms: an examination of certain passages in Greek and Latin texts, by William W. Marshall (London: Elliot Stock; the year is not legible in the OCR, IA catalogues 1886)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-w-marshall-cruces-and-criticisms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william w. marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
