@@ -7534,6 +7534,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:51:02-05:00",
       "notes": "Unitarian, Church of the Messiah, New York; John Dewey kept apart. 0 uids minted."
+    },
+    {
+      "id": "joseph-stevens-buckminster",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Brattle Street, Boston; posthumous sermons and works. 0 uids minted."
     }
   ]
 }

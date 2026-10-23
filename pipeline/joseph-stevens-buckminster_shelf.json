@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Joseph Stevens Buckminster (1784-1812), minister of the Brattle Street Church, Boston, for the Word Hoard: Sermons by the late Rev. J. S. Buckminster (1814), a second volume of Sermons now first published (1829) and The Works of Joseph Stevens Buckminster, with memoirs of his life (1839). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "buckminster"
+ ],
+ "_surname": [
+  "j. s. buckminster",
+  "joseph s. buckminster",
+  "joseph stevens buckminster",
+  "rev. j. s. buckminster"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buckminster-sermons-1814": [
+   "sermonsbylaterev00buck",
+   "Sermons by the late Rev. J. S. Buckminster (Boston, Printed by J. Eliot, 1814)"
+  ],
+  "buckminster-sermons-1829": [
+   "sermonsbylatere00buck",
+   "Sermons by the late Rev. Joseph S. Buckminster : now first published from the author's manuscripts (Boston : Carter and Hendee, 1829)"
+  ],
+  "buckminster-works": [
+   "worksjosephstev00buckgoog",
+   "The Works of Joseph Stevens Buckminster: With Memoirs of His Life, vol. 2 (J. Munroe, 1839)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "buckminster-other": "His father Joseph Buckminster (1751-1812) of Portsmouth; Eliza Buckminster Lee's memoirs of both"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "buckminster-works": "the OCR has lost the title-page author line; the editors' advertisement opens 'The wish has been often expressed by the friends of Mr. Buckminster ... [for a] collection of [his] sermons', and the volume is the 1839 Munroe collection catalogued by Harvard as The Works of Joseph Stevens Buckminster"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "buckminster-sermons-1814": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. s. buckminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buckminster-sermons-1829": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. s. buckminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buckminster-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -12828,3 +12828,14 @@ Slugs `odewey-*`. Built from title pages read for round 64.
 | The problem of human destiny : or, The end of Providence in the world and man (New York : J. Miller, 1864) | have-ocr | IA `theproblemofhuma00deweuoft` |
 | The two great commandments: sermons (J. Miller, 1876, 1876) | have-ocr | IA `twogreatcommand00dewegoog` |
 | John Dewey and Melvil Dewey; The Pitts-Street Chapel Lectures and The New Discussion of the Trinity (several hands) | excluded | |
+
+## Joseph Stevens Buckminster (round 64, my pick, 2026-10-23)
+
+Slugs `buckminster-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons by the late Rev. J. S. Buckminster (Boston, Printed by J. Eliot, 1814) | have-ocr | IA `sermonsbylaterev00buck` |
+| Sermons by the late Rev. Joseph S. Buckminster : now first published from the author's manuscripts (Boston : Carter and Hendee, 1829) | have-ocr | IA `sermonsbylatere00buck` |
+| The Works of Joseph Stevens Buckminster: With Memoirs of His Life, vol. 2 (J. Munroe, 1839) | have-ocr | IA `worksjosephstev00buckgoog` |
+| His father Joseph Buckminster (1751-1812) of Portsmouth; Eliza Buckminster Lee's memoirs of both | excluded | |
