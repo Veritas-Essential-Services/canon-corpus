@@ -38175,3 +38175,32 @@ Shelf: `pipeline/harvey-ralphson_shelf.json` (2026-10-22; added at the coordinat
 | Boy Scouts with Joffre; Or, In the Trenches in Belgium | have | PG 60370, `ghralphson-boy-scouts-with-joffre` (1852 units) |
 | Over There with the Marines at Chateau Thierry | have | PG 63462, `ghralphson-over-there-with-the-marines-at-chateau-thierry` (839 units) |
 | Boy Scouts in California; or, The Flag on the Cliff | have | PG 65418, `ghralphson-boy-scouts-in-california` (1746 units) |
+
+## Lillian Elizabeth Roy
+
+Shelf: `pipeline/lillian-elizabeth-roy_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Polly of Pebbly Pit | have | PG 6001, `leroy-polly-of-pebbly-pit` (1916 units) |
+| The Blue Birds' Winter Nest | have | PG 23693, `leroy-blue-birds-winter-nest` (1826 units) |
+| Polly and Eleanor | have | PG 25419, `leroy-polly-and-eleanor` (1745 units) |
+| Polly's Business Venture | have | PG 25778, `leroy-pollys-business-venture` (1578 units) |
+| Girl Scouts in the Adirondacks | have | PG 26345, `leroy-girl-scouts-in-the-adirondacks` (1712 units) |
+| Five Little Starrs in the Canadian Forest | have | PG 31786, `leroy-five-little-starrs-in-the-canadian-forest` (842 units) |
+| The Woodcraft Girls in the City | have | PG 35600, `leroy-woodcraft-girls-in-the-city` (2316 units) |
+| Polly and Her Friends Abroad | have | PG 37429, `leroy-polly-and-her-friends-abroad` (1754 units) |
+| Natalie: A Garden Scout | have | PG 37458, `leroy-natalie` (1466 units) |
+| Polly in New York | have | PG 37459, `leroy-polly-in-new-york` (1822 units) |
+| Girl Scouts at Dandelion Camp | have | PG 37800, `leroy-girl-scouts-at-dandelion-camp` (1940 units) |
+| Girl Scouts in the Rockies | have | PG 38018, `leroy-girl-scouts-in-the-rockies` (1467 units) |
+| The Little Washingtons' Travels | have | PG 39518, `leroy-little-washingtons-travels` (715 units) |
+| The Little Washington's Relatives | have | PG 41236, `leroy-little-washingtons-relatives` (673 units) |
+| Polly's Southern Cruise | have | PG 42934, `leroy-pollys-southern-cruise` (1213 units) |
+| The Woodcraft Girls at Camp | have | PG 47279, `leroy-woodcraft-girls-at-camp` (2385 units) |
+| Woodcraft Boys at Sunset Island | have | PG 51319, `leroy-woodcraft-boys-at-sunset-island` (2064 units) |
+| Girl Scouts in Arizona and New Mexico | have | PG 59490, `leroy-girl-scouts-in-arizona-and-new-mexico` (1340 units) |
+| The Blue Birds at Happy Hills | have | PG 64978, `leroy-blue-birds-at-happy-hills` (1443 units) |
+| Janet: A Stock-Farm Scout | have | PG 67053, `leroy-janet` (1394 units) |
+| Polly in the Southwest | have | PG 67057, `leroy-polly-in-the-southwest` (1148 units) |
+| Norma: A Flower Scout | have | PG 67091, `leroy-norma` (1236 units) |
