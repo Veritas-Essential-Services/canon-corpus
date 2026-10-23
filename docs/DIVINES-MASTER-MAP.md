@@ -10462,6 +10462,18 @@ Slugs `skelton-*`. Built from title pages read for round 43.
 | The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 5 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl05skel` |
 | The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 6 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl06skel` |
 | The Google copies and the _0 duplicates of the same 1824 set | alternate | not shelved |
+
+## John Hales of Eton (round 43, my pick, 2026-10-22)
+
+Slugs `hales-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Golden remains of the ever memorable Mr. John Hales of Eton College &c (London : Printed for Tim. Garthwait, 1659) | have-ocr | IA `goldenremainsofe00hale` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 1 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_1` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 2 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_2` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 3 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_3` |
+| Golden Remains 1673 and 1688 (EEBO) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
