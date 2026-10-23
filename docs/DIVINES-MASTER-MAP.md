@@ -13981,6 +13981,19 @@ Slugs `savage-*`. Built from title pages read for round 77.
 | Pillars of the temple (Boston, American Unitarian Association, 1904) | have-ocr | IA `pillarsoftemple00sava` |
 | Life's dark problems : or, is this a good world? (New York ; London : G. P. Putnam's Sons, 1905) | have-ocr | IA `lifesdarkproblem00sava` |
 | Bluffton (a novel), his Poems and America to England (verse), Sacred Songs (a hymnal he compiled), the Ministers' Hand-book, Unity Pulpit (a serial), "Show us the Father" (a many-author volume), Living by the Day (selections made by others), and pamphlets of under 60 pages | excluded | |
+
+## Edmund H. Sears (round 77, my pick, 2026-10-23)
+
+Slugs `sears-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Regeneration (Boston : Crosby, Nichols, 1853) | have-ocr | IA `regeneration00sear` |
+| Athanasia: or, Foregleams of immortality (Boston, American Unitarian Association, 1858) | have-ocr | IA `athanasiaorforeg00sear` |
+| The Fourth gospel : the heart of Christ (Boston : Noyes, Holmes, and Co., 1872) | have-ocr | IA `fourthgospelhear00sear` |
+| Sermons and songs of Christian life ([n.p.], 1875) | have-ocr | IA `sermonssongsofch00sear` |
+| Christ in the life : sermons, with a selection of poems (Boston : Lockwood, Brooks, 1877) | have-ocr | IA `christinlifeserm00sear` |
+| Foregleams and Foreshadows of Immortality (1873) is the enlarged later edition of Athanasia; Pictures of the Olden Time (1857) is a family history of his Pilgrim forebears; The Religious Magazine is a periodical he co-edited | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
