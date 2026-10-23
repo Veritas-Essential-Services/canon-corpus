@@ -15004,3 +15004,27 @@ Slugs `weninger-*`. Built from title pages read for round 88.
 | Original, short and practical sermons for every Sunday of the ecclesiastical year (Cincinnati : C. J. H. Lowen, 1881) | have-ocr | IA `originalshortand00weniuoft` |
 | Original, short and practical conferences : containing thirty-six conferences ... intended as a three year's course (Cincinnati, OH : [s.n, 1883) | have-ocr | IA `originalconferen00weniuoft` |
 | his German and French books (Ostern im Himmel, Die Unfehlbarkeit des Papstes, Der Monat Maria, Fest-Predigten, catechisms, Catholicisme protestantisme et infidélité) | excluded | |
+
+## Robert Stuart MacArthur (round 88, my pick, 2026-10-23)
+
+Slugs `macarthur-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| The calvary pulpit : Christ and Him crucified (New York : Funk & Wagnalls, 1890) | have-ocr | IA `calvarypulpitchr00maca` |
+| The attractive Christ : and other sermons (Philadelphia : American Baptist publication society, 1898) | have-ocr | IA `attractivechrist00maca` |
+| Current questions for thinking men (Philadelphia : American Baptist Publication Society, 1898) | have-ocr | IA `currentquestions00maca` |
+| Bible difficulties and their alleviative interpretation ... Old Testament (New York : E.B. Treat, 1899) | have-ocr | IA `bibledifficultie00maca` |
+| The celestial lamp, and other sermons (Philadelphia: American Publication Society, 1899) | have-ocr | IA `celestiallampoth00maca` |
+| Sunday night lectures on "the Land and the Book," (Philadelphia, A. J. Rowland, 1900) | have-ocr | IA `sundaynightlectu00maca` |
+| The old book and the old faith : reviewed in a series of lectures (New York : E.B. Treat, 1900) | have-ocr | IA `cihm_37838` |
+| The question of the centuries. Some sermons on personal relationship of the disciple of the kingdom of heaven (Cleveland, O., F.M. Barton, 1905) | have-ocr | IA `questionofcentur00maca` |
+| Quick truths in quaint texts. 2d series (Philadelphia, New York [etc.] American Baptist publication society, 1907) | have-ocr | IA `quicktruthsinqua00maca` |
+| Advent (Philadelphia, New York [etc.] American Baptist publication society, 1908) | have-ocr | IA `advent00maca` |
+| The Christic reign, and other sermons (Philadelphia, New York [etc.] American Baptist publication society, 1908) | have-ocr | IA `christicreignoth00maca` |
+| Royal messages of cheer and comfort beautifully told (New York, E. B. Treat and Company, 1909) | have-ocr | IA `royalmessagesofc00maca` |
+| Abraham Lincoln, his mystery, making and mastery : sermon preached in Calvary Baptist Church, New York, Sunday morning, February 14, 1909, in memory of the centennary anniversary of Abraham Lincoln's birth ([New York?] : [s.n.], 1909) | have-ocr | IA `abrahamlincolnhi00maca` |
+| A foundation builder; sketches in the life of Rev. James B. Simmons, D. D (New York : F. H. Revell, 1911) | have-ocr | IA `foundationbuilde00maca` |
+| The Baptists : their principle, their progress, their prospect (Philadelphia : American Baptist Pub. Society, c191) | have-ocr | IA `baptiststheirpri00macarich` |
+| hymnals and orders of worship he compiled (In Excelsis, Calvary Hymnal, The People's Worship and Psalter) | excluded | |
+| Around the World due West to the Far East (travel) | excluded | |
