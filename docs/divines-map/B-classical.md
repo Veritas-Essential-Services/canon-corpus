@@ -10881,3 +10881,12 @@ Shelf: `pipeline/lucian-muller_shelf.json`. Greek and Roman Versification, tr. S
 |---|---|---|---|
 | Greek and Roman Versification, tr. S. B. Platner (1892) |  | `muller-greek-roman-versification-1892` | have-raw (IA `cu31924021599935`) |
 
+
+## Matteo Della Corte (1875-1962)
+
+Shelf: `pipeline/matteo-della-corte_shelf.json`. Pompeii: the New Excavations (Houses and Inhabitants) (Valle di Pompei, 1925) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Pompeii: the New Excavations (Houses and Inhabitants) (Valle di Pompei, 1925) |  | `della-corte-pompeii-new-excavations-1925` | have-raw (IA `pompeiinewexcava00dell`) |
+
