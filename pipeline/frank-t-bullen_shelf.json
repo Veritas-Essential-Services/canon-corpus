@@ -1,0 +1,187 @@
+{
+ "_about": "Frank T. Bullen's sea stories and books of sea life, The Cruise of the Cachalot and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frank T. Bullen",
+ "_name_words": [
+  "bullen"
+ ],
+ "_surname": [
+  "bullen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ftbullen-cruise-of-the-cachalot-round-the-world-after-sperm": [
+   1356,
+   "The Cruise of the \"Cachalot\" Round the World After Sperm Whales"
+  ],
+  "ftbullen-log-of-a-sea-waif": [
+   36657,
+   "The Log of a Sea-Waif: Being Recollections of the First Four Years of My Sea Life"
+  ],
+  "ftbullen-frank-brown-sea-apprentice": [
+   61682,
+   "Frank Brown, Sea Apprentice"
+  ],
+  "ftbullen-deep-sea-plunderings": [
+   63270,
+   "Deep-Sea Plunderings"
+  ],
+  "ftbullen-confessions-of-a-tradesman": [
+   63556,
+   "Confessions of a Tradesman"
+  ],
+  "ftbullen-sack-of-shakings": [
+   63559,
+   "A Sack of Shakings"
+  ],
+  "ftbullen-advance-australasia": [
+   64060,
+   "Advance Australasia: A Day-to-Day Record of a Recent Visit to Australasia. Second Edition."
+  ],
+  "ftbullen-idylls-of-the-sea-and-other-marine-sketches": [
+   64161,
+   "Idylls of the Sea, and Other Marine Sketches"
+  ],
+  "ftbullen-men-of-the-merchant-service-being-the-polity-of-the": [
+   64896,
+   "The Men of the Merchant Service Being the polity of the mercantile marine for 'longshore readers"
+  ],
+  "ftbullen-bounty-boy-being-some-adventures-of-a-christian-bar": [
+   65476,
+   "A Bounty Boy Being Some Adventures of a Christian Barbarian on an Unpremeditated Trip Round the World"
+  ],
+  "ftbullen-whalemans-wife": [
+   65718,
+   "A Whaleman's Wife"
+  ],
+  "ftbullen-light-ho-sir": [
+   65737,
+   "\"Light Ho, Sir!\""
+  ],
+  "ftbullen-recollections-the-reminiscences-of-the-busy-life-of": [
+   67673,
+   "Recollections The Reminiscences of the Busy Life of One Who Has Played the Varied Parts of Sailor, Author & Lecturer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ftbullen-cruise-of-the-cachalot-round-the-world-after-sperm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-log-of-a-sea-waif": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-frank-brown-sea-apprentice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-deep-sea-plunderings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-confessions-of-a-tradesman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-sack-of-shakings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-advance-australasia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-idylls-of-the-sea-and-other-marine-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-men-of-the-merchant-service-being-the-polity-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-bounty-boy-being-some-adventures-of-a-christian-bar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-whalemans-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-light-ho-sir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftbullen-recollections-the-reminiscences-of-the-busy-life-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bullen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

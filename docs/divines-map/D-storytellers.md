@@ -14949,3 +14949,23 @@ Shelf: `pipeline/hulbert-footner_shelf.json` (2026-10-22; added at the coordinat
 | Thieves' Wit: An Everyday Detective Story | have | PG 57236, `hfootner-thieves-wit` (2385 units) |
 | Antennae | have | PG 69701, `hfootner-antennae` (2647 units) |
 | A backwoods princess | have | PG 69702, `hfootner-backwoods-princess` (2193 units) |
+
+## Frank T. Bullen
+
+Shelf: `pipeline/frank-t-bullen_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea stories and sea life. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cruise of the "Cachalot" Round the World After Sperm Whales | have | PG 1356, `ftbullen-cruise-of-the-cachalot-round-the-world-after-sperm` (695 units) |
+| The Log of a Sea-Waif: Being Recollections of the First Four Years of My Sea Life | have | PG 36657, `ftbullen-log-of-a-sea-waif` (300 units) |
+| Frank Brown, Sea Apprentice | have | PG 61682, `ftbullen-frank-brown-sea-apprentice` (1009 units) |
+| Deep-Sea Plunderings | have | PG 63270, `ftbullen-deep-sea-plunderings` (763 units) |
+| Confessions of a Tradesman | have | PG 63556, `ftbullen-confessions-of-a-tradesman` (491 units) |
+| A Sack of Shakings | have | PG 63559, `ftbullen-sack-of-shakings` (413 units) |
+| Advance Australasia: A Day-to-Day Record of a Recent Visit to Australasia. Second Edition. | have | PG 64060, `ftbullen-advance-australasia` (266 units) |
+| Idylls of the Sea, and Other Marine Sketches | have | PG 64161, `ftbullen-idylls-of-the-sea-and-other-marine-sketches` (353 units) |
+| The Men of the Merchant Service Being the polity of the mercantile marine for 'longshore readers | have | PG 64896, `ftbullen-men-of-the-merchant-service-being-the-polity-of-the` (551 units) |
+| A Bounty Boy Being Some Adventures of a Christian Barbarian on an Unpremeditated Trip Round the World | have | PG 65476, `ftbullen-bounty-boy-being-some-adventures-of-a-christian-bar` (1201 units) |
+| A Whaleman's Wife | have | PG 65718, `ftbullen-whalemans-wife` (575 units) |
+| "Light Ho, Sir!" | have | PG 65737, `ftbullen-light-ho-sir` (49 units) |
+| Recollections The Reminiscences of the Busy Life of One Who Has Played the Varied Parts of Sailor, Author & Lecturer | have | PG 67673, `ftbullen-recollections-the-reminiscences-of-the-busy-life-of` (572 units) |

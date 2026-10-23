@@ -1958,3 +1958,6 @@
 
 ## 2026-10-22 22:33 CDT — hulbert-footner: done
 - hulbert-footner: new shelf, 13 Gutenberg books, 33,668 units, 1175 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — frank-t-bullen: done
+- frank-t-bullen: new shelf, 13 Gutenberg books, 7,238 units, 84 ~2 ids; verify 0 mismatches, 0 rights flags.
