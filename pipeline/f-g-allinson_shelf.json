@@ -1,0 +1,39 @@
+{
+ "_about": "Francis Greenleaf Allinson (1856-1931), Brown University, and Anne C. E. Allinson: Greek Lands and Letters (Boston: Houghton Mifflin, 1909). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Francis Greenleaf Allinson (1856-1931) and Anne C. E. Allinson",
+ "_name_words": [
+  "allinson",
+  "francis",
+  "greenleaf",
+  "anne",
+  "greek",
+  "lands",
+  "letters"
+ ],
+ "_surname": [
+  "francis greenleaf allinson",
+  "f. g. allinson",
+  "anne c. e. allinson",
+  "francis g. allinson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "allinson-greek-lands-letters-1909": [
+   67984,
+   "Greek Lands and Letters (Boston: Houghton Mifflin, 1909)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "allinson-greek-lands-letters-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis greenleaf allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

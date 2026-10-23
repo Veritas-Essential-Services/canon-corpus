@@ -10550,3 +10550,12 @@ Shelf: `pipeline/f-a-wright_shelf.json`. Feminism in Greek Literature from Homer
 |---|---|---|---|
 | Feminism in Greek Literature from Homer to Aristotle (London: Routledge, 1923) |  | `wright-feminism-greek-literature-1923` | have (PG 59205) |
 
+
+## Francis Greenleaf Allinson (1856-1931) and Anne C. E. Allinson
+
+Shelf: `pipeline/f-g-allinson_shelf.json`. Greek Lands and Letters (Boston: Houghton Mifflin, 1909). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Lands and Letters (Boston: Houghton Mifflin, 1909) |  | `allinson-greek-lands-letters-1909` | have (PG 67984) |
+
