@@ -19983,6 +19983,17 @@ Shelf: `pipeline/h-stuart-jones_shelf.json`. Select Passages from Ancient Writer
 | Companion to Roman History (Oxford: Clarendon Press, 1912) |  | `jones-companion-roman-history-1912` | have-raw (IA `companiontoroman00jone`) |
 | Fresh Light on Roman Bureaucracy (Oxford, 1920) |  | `jones-fresh-light-roman-bureaucracy-1920` | have-raw (IA `freshlightonroma0000jone`) |
 
+
+## James Alexander Kerr Thomson (1879-1959)
+
+Shelf: `pipeline/j-a-k-thomson_shelf.json`. Studies in the Odyssey (Oxford: Clarendon Press, 1914); The Greek Tradition: Essays in the Reconstruction of Ancient Thought (London: Allen and Unwin, 1915); Greeks and Barbarians (London: Allen and Unwin, 1921). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Studies in the Odyssey (Oxford: Clarendon Press, 1914) |  | `thomson-studies-in-the-odyssey-1914` | have-raw (IA `studiesinodyssey0000thom`) |
+| The Greek Tradition: Essays in the Reconstruction of Ancient Thought (London: Allen and Unwin, 1915) |  | `thomson-greek-tradition-1915` | have-raw (IA `greektraditiones00thomuoft`) |
+| Greeks and Barbarians (London: Allen and Unwin, 1921) |  | `thomson-greeks-and-barbarians-1921` | have-raw (IA `greeksbarbarians00thomuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

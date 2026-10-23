@@ -1,0 +1,67 @@
+{
+ "_about": "J. A. K. Thomson (1879-1959), Aberdeen and King's College London: Studies in the Odyssey (1914), The Greek Tradition (1915, preface by Gilbert Murray) and Greeks and Barbarians (1921). Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "James Alexander Kerr Thomson (1879-1959)",
+ "_name_words": [
+  "thomson",
+  "james",
+  "alexander",
+  "kerr",
+  "greek"
+ ],
+ "_surname": [
+  "j. a. k. thomson",
+  "kerr thomson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomson-studies-in-the-odyssey-1914": [
+   "studiesinodyssey0000thom",
+   "Studies in the Odyssey (Oxford: Clarendon Press, 1914)"
+  ],
+  "thomson-greek-tradition-1915": [
+   "greektraditiones00thomuoft",
+   "The Greek Tradition: Essays in the Reconstruction of Ancient Thought (London: Allen and Unwin, 1915)"
+  ],
+  "thomson-greeks-and-barbarians-1921": [
+   "greeksbarbarians00thomuoft",
+   "Greeks and Barbarians (London: Allen and Unwin, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomson-studies-in-the-odyssey-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. k. thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-greek-tradition-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. k. thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomson-greeks-and-barbarians-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. k. thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
