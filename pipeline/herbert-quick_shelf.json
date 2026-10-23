@@ -1,0 +1,85 @@
+{
+ "_about": "Herbert Quick: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Herbert Quick",
+ "_name_words": [
+  "herbert",
+  "quick"
+ ],
+ "_surname": [
+  "herbert quick",
+  "quick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hquick-vandemarks-folly": [
+   12179,
+   "Vandemark's Folly"
+  ],
+  "hquick-double-trouble": [
+   19451,
+   "Double Trouble; Or, Every Hero His Own Villain"
+  ],
+  "hquick-aladdin-co": [
+   23745,
+   "Aladdin & Co.: A Romance of Yankee Magic"
+  ],
+  "hquick-brown-mouse": [
+   26987,
+   "The Brown Mouse"
+  ],
+  "hquick-yellowstone-nights": [
+   40587,
+   "Yellowstone Nights"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hquick-vandemarks-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert quick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hquick-double-trouble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert quick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hquick-aladdin-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert quick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hquick-brown-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert quick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hquick-yellowstone-nights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert quick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

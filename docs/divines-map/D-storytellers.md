@@ -18475,3 +18475,15 @@ Shelf: `pipeline/arthur-j-rees_shelf.json` (2026-10-22; added at the coordinator
 | The Shrieking Pit | have | PG 20494, `ajrees-shrieking-pit` (1755 units) |
 | The Hand in the Dark | have | PG 20546, `ajrees-hand-in-the-dark` (2208 units) |
 | The Mystery of the Downs | have | PG 45658, `ajrees-mystery-of-the-downs` (1897 units) |
+
+## Herbert Quick
+
+Shelf: `pipeline/herbert-quick_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Vandemark's Folly | have | PG 12179, `hquick-vandemarks-folly` (1949 units) |
+| Double Trouble; Or, Every Hero His Own Villain | have | PG 19451, `hquick-double-trouble` (1402 units) |
+| Aladdin & Co.: A Romance of Yankee Magic | have | PG 23745, `hquick-aladdin-co` (1638 units) |
+| The Brown Mouse | have | PG 26987, `hquick-brown-mouse` (1272 units) |
+| Yellowstone Nights | have | PG 40587, `hquick-yellowstone-nights` (1414 units) |
