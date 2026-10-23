@@ -15426,3 +15426,24 @@ Slugs `ingram-*`. Built from title pages read for round 93.
 | Thoughts on love and death; a series of short meditations (New York, Frederick A. Stokes Company, 1918) | have-ocr | IA `thoughtsonlovede00winn` |
 | The sword of Goliath (London : Wells Gardner, Darton, 1926) | have-ocr | IA `swordofgoliath0000winn` |
 | The Universities and the Social Problem (many authors), The Early English Colonies (lecture summary), and everything printed from 1930 on | excluded | |
+
+## Chandler Robbins (1810-1882) (round 93, my pick, 2026-10-23)
+
+Slugs `crobbins-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons, delivered before the Second Church and Society, Sunday, March 10, 1844, on the occasion of taking down their ancient place of worship (Boston : Printed by Isaac R. Butts, 1844) | have-ocr | IA `twosermo00robb` |
+| Address delivered at the laying of the corner-stone of the Second Church on Thursday morning, May 30, 1844 (Boston : I.R. Butts, 1844) | have-ocr | IA `addressdelivere00robbgoog` |
+| A sermon delivered before the proprietors of the Second Church : Wednesday, September 17, 1845, at the dedication of their new house of worship (Boston : Printed by Isaac R. Butts, 1845) | have-ocr | IA `sermondeliveredb00robb` |
+| A sermon preached at the installation of Rev. A. M. Bridge : as colleague pastor of the First Congregational Church and Society in Bernardston, Mass. Feb. 18, 1846 (Crosby, Nichols, and Co., 1846) | have-ocr | IA `sermonpreachedat00robb` |
+| A sermon preached after the death of Mrs. Eliza Frothingham and Mrs. Cornelia F. Wolcott, mother and daughter : the latter of whom died June 1, and the former June 5, 1850 (Printed by John Wilson, 1850) | have-ocr | IA `sermonpreachedaf00robb` |
+| A history of the Second Church, or Old North, in Boston : to which is added a History of the New Brick Church (Boston : Published by a committee of the Society, 1852) | have-ocr | IA `historyofsecondch00robb` |
+| A sermon preached after the funeral of Noah Lincoln : who died in Boston, July 31, 1856, aged eighty-four (Boston : Printed by John Wilson and Son, 1856) | have-ocr | IA `sermonpreacheda00robb` |
+| A discourse in commemoration of Rev. William Parsons Lunt, D.D. : delivered at Quincy, Mass., on Sunday, June 7, 1857 (Boston : Little, Brown and Company, 1857) | have-ocr | IA `adiscourse00robbrich` |
+| Portrait of a Christian, drawn from life: a memoir of Maria Elizabeth Clapp (Boston, Printed for the Sunday-School Society, 1858) | have-ocr | IA `portraitofchrist00robbrich` |
+| The central power of the gospel : a sermon preached at the installation of Rev. Grindall Reynolds, as pastor of the First Church in Concord, Mass., July 8, 1858 (John Wilson and Son, 1858) | have-ocr | IA `centralpowerofgo00robb` |
+| A sermon preached at the dedication of the Second Church : Boylston Street, November 4th, 1874 (Boston : Press of Gribben & Co., 1875) | have-ocr | IA `sermonpreachedat00robb_0` |
+| tributetomemoryo00robb: printed for private distribution with no author on the title page; catalogued under Robbins; needs a cited attribution | pending | not shelved |
+| hymn books and the Liturgy he compiled, Our Pastors' Offering (a compilation), the Appleton memoir, and Massachusetts Historical Society proceedings | excluded | |
+| works of Chandler Robbins (1738-1799) of Plymouth, a different man | excluded | |
