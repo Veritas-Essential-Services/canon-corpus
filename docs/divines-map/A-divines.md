@@ -11607,3 +11607,15 @@ Slugs `jleland-*`. Built from title pages read for round 53.
 | Work | Status | Where |
 |---|---|---|
 | The writings of the late Elder John Leland : including some events in his life (New York : Printed by G.W. Wood, 1845) | have-ocr | IA `writingsoflateel00lela` |
+
+## Thomas Armitage (round 53, my pick, 2026-10-23)
+
+Slugs `armitage-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The funeral sermon on the death of Rev. Spencer Houghton Cone, D.D., late pastor of the First Baptist church, New York (New York, Holman & Gray, printers, 1855) | have-ocr | IA `funeralsermonond00armi` |
+| The past, present and future of the United States: a discourse (New York : Printed and published by T. Holman, 1862) | have-ocr | IA `pastpresentfutur00armi` |
+| A history of the Baptists : traced by their vital principles and practices : from the time of Our Lord and Saviour Jesus Christ to the year 1886 (New York : Bryan, Taylor, 1887) | have-ocr | IA `cu31924029451782` |
+| The two-volume issue of the History (historyofbaptist01armi, 02armi) and the 1893 printing | alternate | not shelved |
+| The Education and Employment of the Blind (1886, by Thomas Rhodes Armitage, another man) | excluded | |
