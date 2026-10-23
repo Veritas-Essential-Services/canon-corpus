@@ -18193,6 +18193,20 @@ Slugs `tuttle-*`. Built from title pages read for round 122.
 | Egypt to Canaan : lectures on the spiritual meanings of the Exodus (New York : Eaton & Mains, 1912) | have-ocr | IA `egypttocanaanlec0000tutt` |
 | History of the Roseville Methodist Episcopal Church of the Newark Annual Conference of the Methodist Episcopal Church, Newark, New Jersey, 1857-1927 ([New Jersey?] : [publisher not identified], 1927) | have-ocr | IA `historyofrosevil0000tutt` |
 | Mary Porter Gamewell and her Story of the Siege in Peking (1907), IA cu31924023085594: Tuttle's memoir joined to Mary Gamewell's own narrative (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+
+## Robert W. Patterson (round 122, my pick, 2026-10-23)
+
+Slugs `patterson-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The place where God records his name : a discourse, at the dedication of the Second Presbyterian Church, on Friday evening, Jan. 24, 1851, at Chicago, Ill (Chicago : Published by S.C. Griggs & Co., 1851) | have-ocr | IA `placewheregodrec00patt` |
+| A sermon on prayer for rulers, delivered in the Second Presbyterian Church in Chicago, on Sabbath morning, June 8, 1856 (Chicago : S.C. Griggs and Co., 1856) | have-ocr | IA `sermononprayerfo00patt` |
+| Elements of Christianity that tend to secure its diffusion and universal prevalence : a sermon, before the American Board of Commissioners for Foreign Missions, at the meeting in Philadelphia, Pa. October 2, 1859 (Press of T. R. Marvin, 1859) | have-ocr | IA `elementsofchrist00patt` |
+| Addresses at the Induction of Rev. Francis L. Patton (1873), IA addressesatindu00pattgoog: addresses by three men (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Biographical Sketches of some of the Early Settlers of the City of Chicago (1876), IA biographicalsket12patt: written with James Taylor and others (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Fables of Infidelity is by Robert Patterson (1829-1885), another man | excluded | |
+| Early Illinois and The West from the Census of 1880 are by Robert Porter | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
