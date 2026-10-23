@@ -12421,6 +12421,22 @@ Slugs `raffles-*`. Built from title pages read for round 59.
 | Memoirs of the life and ministry of the late Rev. Thomas Spencer, of Liverpool : with an appendix, containing a selection from his papers, &c (Boston ; Published by C. Williams, 1813) | have-ocr | IA `memoirsoflifemin00raff` |
 | Purgatory and prayers for the dead : a lecture delivered in Grinshaw-Street and Lune-Street chapels, Preston, March 22nd and 29th, 1821 (Liverpool : Thomas Taylor, 1821) | have-ocr | IA `PurgatoryAndPrayersForTheDead` |
 | Sir Thomas Stamford Raffles, his cousin, and the memoir of Thomas Raffles by his son | excluded | |
+
+## R. F. Horton (round 59, my pick, 2026-10-23)
+
+Slugs `rfhorton-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Inspiration and the Bible : an inquiry (London : T. F. Unwin, 1888) | have-ocr | IA `inspirationbible00hort` |
+| The book of Proverbs (Toronto : Willard Tract Depository and Bible Depot, 1891) | have-ocr | IA `thebookofproverb00hortuoft` |
+| Revelation and the Bible : an attempt at reconstruction (New York : Macmillan, 1892) | have-ocr | IA `revelationbiblea0000hort` |
+| Verbum Dei. The Yale lectures on preaching, 1893 (New York, London, Macmillan & co., 1893) | have-ocr | IA `verbumdeiyalelec00hort` |
+| The cartoons of St. Mark (London, J. Clarke, 1894) | have-ocr | IA `cartoonsofstmark00hort` |
+| John Howe (London : Methuen, 1895) | have-ocr | IA `johnho00hort` |
+| The teaching of Jesus in eighteen sections (London : Isbister, 1895) | have-ocr | IA `teachingofjesusi00hort` |
+| Oliver Cromwell; a study in personal religion (London, J. Clarke, 1897) | have-ocr | IA `cu31924027976715` |
+| His autobiography (1917) and any work printed after 1929 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,147 @@
+{
+ "_about": "Public-domain R. F. Horton (1855-1934), Congregational minister of Lyndhurst Road, Hampstead, for the Word Hoard: Inspiration and the Bible (1888), The Book of Proverbs (Expositor's Bible, 1891), Revelation and the Bible (1892), Verbum Dei (Yale lectures, 1893), Cartoons of St. Mark (1894), John Howe (1895), The Teaching of Jesus (1895) and Oliver Cromwell (1897). Only printings before 1930 are taken. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "horton"
+ ],
+ "_surname": [
+  "r. f. horton",
+  "robert f. horton",
+  "robert forman horton",
+  "r.f. horton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rfhorton-inspiration-bible": [
+   "inspirationbible00hort",
+   "Inspiration and the Bible : an inquiry (London : T. F. Unwin, 1888)"
+  ],
+  "rfhorton-proverbs": [
+   "thebookofproverb00hortuoft",
+   "The book of Proverbs (Toronto : Willard Tract Depository and Bible Depot, 1891)"
+  ],
+  "rfhorton-revelation-bible": [
+   "revelationbiblea0000hort",
+   "Revelation and the Bible : an attempt at reconstruction (New York : Macmillan, 1892)"
+  ],
+  "rfhorton-verbum-dei": [
+   "verbumdeiyalelec00hort",
+   "Verbum Dei. The Yale lectures on preaching, 1893 (New York, London, Macmillan & co., 1893)"
+  ],
+  "rfhorton-cartoons-st-mark": [
+   "cartoonsofstmark00hort",
+   "The cartoons of St. Mark (London, J. Clarke, 1894)"
+  ],
+  "rfhorton-john-howe": [
+   "johnho00hort",
+   "John Howe (London : Methuen, 1895)"
+  ],
+  "rfhorton-teaching-of-jesus": [
+   "teachingofjesusi00hort",
+   "The teaching of Jesus in eighteen sections (London : Isbister, 1895)"
+  ],
+  "rfhorton-cromwell": [
+   "cu31924027976715",
+   "Oliver Cromwell; a study in personal religion (London, J. Clarke, 1897)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rfhorton-other": "His autobiography (1917) and any work printed after 1929"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rfhorton-inspiration-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rfhorton-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rfhorton-revelation-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rfhorton-verbum-dei": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rfhorton-cartoons-st-mark": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rfhorton-john-howe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rfhorton-teaching-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rfhorton-cromwell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. f. horton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
