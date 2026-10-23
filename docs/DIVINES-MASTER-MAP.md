@@ -19433,6 +19433,15 @@ Shelf: `pipeline/a-e-dobbs_shelf.json`. Philosophy and Popular Morals in Ancient
 |---|---|---|---|
 | Philosophy and Popular Morals in Ancient Greece (1907) |  | `dobbs-philosophy-popular-morals-1907` | have-raw (IA `philosophyandpo01dobbgoog`) |
 
+
+## J. I. Beare (d. 1918)
+
+Shelf: `pipeline/john-i-beare_shelf.json`. Greek Theories of Elementary Cognition (1906). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Theories of Elementary Cognition from Alcmaeon to Aristotle (1906) |  | `beare-greek-theories-elementary-cognition-1906` | have-raw (IA `greektheoriesel00beargoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
