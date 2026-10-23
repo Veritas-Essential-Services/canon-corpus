@@ -16776,3 +16776,16 @@ Slugs `dmerrill-*`. Built from title pages read for round 106.
 | Balaam disappointed. A thanksgiving sermon, delivered at Nottingham-West, April 13, 1815. A day recommended by the national government, in which to rehearse God's mighty acts, and praise his name (Concord [N.H.] : Printed by Isaac & W.R. Hill, 1815) | have-ocr | IA `balaamdisappoint00merr` |
 | The gospel church vindicated by the Scriptures (Concord : Printed by Hill & Moore, 1819) | have-ocr | IA `gospelchurchvind00merr` |
 | A Thorough Method with Mr. Peter Edwards (by another hand) | excluded | |
+
+## Warren Fay (round 106, my pick, 2026-10-23)
+
+Slugs `wfay-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, delivered July 17, 1812, in Monson, at the funeral of Mrs. Nancy Ely, wife of the Rev. Alfred Ely, who died July 15th, in the 34th year of her age (Printed by Peter B. Gleason, ) | have-ocr | IA `sermondeliveredj00fayw` |
+| A sermon, delivered April 24, 1822, at the ordination of the Rev. Nathanael Cogswell, as colleague pastor of the Congregational church and society in Yarmouth, Mass (Boston : Crocker & Brewster, Printers, 1822) | have-ocr | IA `sermondelivereda00fayw_1` |
+| A Sermon, Delivered January 1, 1822, at the Ordination of the Rev. Joseph Bennet [i.e. Bennett (Crocker & Brewster , printers ..., 1822) | have-ocr | IA `asermondelivere00massgoog` |
+| Obligations of Christians to the heathen world. A sermon delivered at the Old South Church in Boston, before the Auxiliary Foreign Mission Society of Boston and vicinity, at their annual meeting, January 3, 1825 (Boston [Mass.]: Printed by Crocker and Brewster .., 1825) | have-ocr | IA `obligationsofchr00fayw` |
+| Importance of the last promise of Jesus Christ to Christian missionaries. A sermon, delivered at Springfield, May 10, 1826, at the ordination of the Rev. Rufus Anderson, as an evangelist, and of the Rev. Messrs. Josiah Brewer, Eli Smith, Cyrus Stone, and (Boston [Mass.]: Printed by Crocker & Brewster .., 1826) | have-ocr | IA `importanceoflast00fayw` |
+| A sermon, delivered at the funeral of the Rev. Benjamin B. Wisner, D.D. : one of the secretaries of the American Board of Commissioners for Foreign Missions, and formerly pastor of the Old South Church in Boston (Boston : Printed by Crocker and Brewster, 1835) | have-ocr | IA `sermondelivereda00fayw_0` |
