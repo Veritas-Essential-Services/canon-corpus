@@ -11863,6 +11863,17 @@ Slugs `milnor-*`. Built from title pages read for round 55.
 | Plea for the American colonization society: a sermon, preached in St. George's church, New-York, on Sunday, July 9, 1826 (New-York, J. P. Haven, 1826) | have-ocr | IA `pleaforamericanc00miln` |
 | Sermon occasioned by the death of His Excellency DeWitt Clinton, late governor of the State of New-York. Preached in St. George's church, N.Y., on Sunday, February 24, 1828 (New York : Printed by Gray and Bunce, 1828) | have-ocr | IA `sermonoccasioned00miln` |
 | John S. Stone's Memoir of the Life of James Milnor (1849, another author) | excluded | |
+
+## John B. Adger (round 55, my pick, 2026-10-23)
+
+Slugs `adger-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The religious instruction of the colored population. A sermon (Charleston, T. W. Haynes, 1847) | have-ocr | IA `religiousinstruc00adge` |
+| Christian missions and African colonization (catalogued 1857) | have-ocr | IA `ASPC0001913800` |
+| My life and times, 1810-1899 (Richmond, Va. : The Presbyterian Committee of Publication, 1899) | have-ocr | IA `mylifetimes00adge` |
+| The Collected Writings of J. H. Thornwell he co-edited (on the thornwell shelf); uploaded transcriptions of his Southern Presbyterian Review articles, which have no scan | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
