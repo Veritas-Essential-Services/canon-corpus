@@ -9657,3 +9657,12 @@ Shelf: `pipeline/maurice-platnauer_shelf.json`. Septimius Severus (1918). Not mi
 |---|---|---|---|
 | The Life and Reign of the Emperor Lucius Septimius Severus (1918) |  | `platnauer-septimius-severus-1918` | have-raw (IA `lifereignofemper00plat`) |
 
+
+## Charles Mills Gayley (1858-1932)
+
+Shelf: `pipeline/charles-mills-gayley_shelf.json`. The Classic Myths in English Literature and in Art, 2nd ed. (Gutenberg). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Classic Myths in English Literature and in Art, 2nd ed. (1911) |  | `gayley-classic-myths-pg` | have (PG 46063) |
+

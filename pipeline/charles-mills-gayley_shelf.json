@@ -1,0 +1,34 @@
+{
+ "_about": "Charles Mills Gayley (1858-1932), Berkeley professor of English: The Classic Myths in English Literature and in Art, 2nd ed. (1911), clean on Gutenberg. Based on Bulfinch but Gayley's own book, which is why the bulfinch shelf excludes it. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Charles Mills Gayley (1858-1932)",
+ "_name_words": [
+  "gayley",
+  "classic",
+  "myths",
+  "english",
+  "literature"
+ ],
+ "_surname": [
+  "gayley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gayley-classic-myths-pg": [
+   46063,
+   "The Classic Myths in English Literature and in Art, 2nd ed. (1911)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gayley-classic-myths-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gayley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
