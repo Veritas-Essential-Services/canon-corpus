@@ -18301,3 +18301,23 @@ Slugs `bright-*`. Built from title pages read for round 123.
 | his editions of Athanasius's Orations, Augustine's anti-Pelagian treatises and De spiritu et littera, the Canons of the first four councils and the Definitions of the Catholic Faith are Greek and Latin texts he edited | excluded | |
 | the 1549 Prayer Book reprint | excluded | |
 | historyofchurchf0000brig, agefathersbeing01briggoog and MN41820ucmf_5 are second scans | excluded | |
+
+## Andrew Snape (round 123, my pick, 2026-10-23)
+
+Slugs `snape-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preach'd before the Princess Sophia at Hannover, the 13/24th of May, 1706. By Andrew Snape, ...  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_snape-andrew_1706` |
+| Of the relative engagement between ancestry and posterity. A sermon preach'd before the University of Cambridge, in King's College Chappel, on the 25th of March 1707. ... By Andrew Snape, ...  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_of-the-relative-engageme_snape-andrew_1707` |
+| A sermon preach'd before the Right Honourable the Lord Mayor ... at the cathedral church of St. Paul, on Monday the 30th of Jan. 1709/10 (London : Printed for Jonah Bowyer at the sign of the Rose in Ludgate Street, 1710) | have-ocr | IA `sermonpreachdbef00snapuoft` |
+| A sermon preach'd in the parish-church of St. Sepulchre, May the 24th, 1711. ... at the anniversary meeting of the children educated in the charity schools in and about the cities of London and Westminster. ... By Andrew Snape, ...  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-in-the_snape-andrew_1711` |
+| A sermon preach'd before the Honourable House of Commons.  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_snape-andrew-dd_1711` |
+| A letter to the Bishop of Bangor, occasion'd by his Lordship's sermon preach'd before the King at S. James's, March 31st, 1717. By Andrew Snape, ... The fifth edition.  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-letter-to-the-bishop-o_snape-andrew_1717` |
+| A second letter to the Lord Bishop of Bangor, in vindication of the former (London : Printed for Jonas Bowyer ..., 1717) | have-ocr | IA `secondlettertolo00snapuoft` |
+| A vindication of a passage in Dr. Snape's second letter to the Lord Bishop of Bangor, relating to Mr. Pillonniere. By Andrew Snape, ...  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-a-passa_snape-andrew_1717_0` |
+| A sermon preach'd at the parish church of St. Mary at Hill, on Sunday December 31. 1716. ... By Andrew Snape, ...  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-the_snape-andrew-dd_1717` |
+| Forty five sermons on several subjects, vol. 1 (London : Printed by S. Birt and R. Manby, and H.S. Cox, 1745) | have-ocr | IA `fortyfivesermons01snap` |
+| Forty five sermons on several subjects. In three volumes. By Andrew Snape, ... Prepared for the press by the author, and now first published from his original manuscripts, (except ten that were printed in his life-time.) By John Chapman, ... And Will, vol. 3 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_forty-five-sermons-on-se_snape-andrew_1745_3` |
+| The Anatomy of an Horse is by Andrew Snape the farrier | excluded | |
+| The Convocation Anatomized is by another hand | excluded | |
