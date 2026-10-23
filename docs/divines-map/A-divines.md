@@ -18024,3 +18024,13 @@ Slugs `daggett-*`. Built from title pages read for round 120.
 | The great and tender concern of faithful ministers for the souls of their people, should powerfully excite them also, to labour after their own salvation. A sermon, preached at Danbury, September 19th, 1770, at the ordination of the Reverend Ebenezer Baldwin. By the Reverend Naphtali Daggett, president of Yale-College, in New-Haven, and professor of divinity in the same. [Three lines from II Corinthians].  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_the-great-and-tender-con_daggett-naphtali_1770` |
 | The testimony of conscience a most solid foundation of rejoicing. A sermon preached at the ordination of the Rev. Mr. Joseph Howe, to the pastoral care of the New-South church in Boston, May 19th, 1773. By the Rev. Naphtali Daggett, ... To which is added, The charge by the Rev. Aaron Brown, and the Right hand of fellowship by the Rev. Dr. ...  1773 (catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-testimony-of-conscie_daggett-naphtali_1773` |
 | yhm-spe-rob-n01h, a two-page manuscript certificate | excluded | |
+
+## Samuel Lavington (round 120, my pick, 2026-10-23)
+
+Slugs `lavington-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| God the giver of victory : a sermon, preached at Bideford, Devon, on the 29th of November, 1759, being the day appointed for a general thanksgiving, for the success of His Majesty's arms (London : Printed for J. Buckland ... [and 2 others], 1760) | have-ocr | IA `cihm_20289` |
+| Sermons, and other discourses, vol. 2 (London : Printed for Gale, Curtis, and Fenner, 1815) | have-ocr | IA `sermonsandother01lavigoog` |
+| Sacramental meditations (catalogued 1833) | have-ocr | IA `sacramentalmedi00lavigoog` |

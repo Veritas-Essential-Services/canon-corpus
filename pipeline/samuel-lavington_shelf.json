@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain Samuel Lavington, Independent minister of Bideford, for the Word Hoard: God the Giver of Victory, his Sermons and Other Discourses, and his Sacramental Meditations. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 120 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel lavington",
+  "s. lavington",
+  "lavington"
+ ],
+ "_surname": [
+  "lavington"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lavington-giver-of-victory": [
+   "cihm_20289",
+   "God the giver of victory : a sermon, preached at Bideford, Devon, on the 29th of November, 1759, being the day appointed for a general thanksgiving, for the success of His Majesty's arms (London : Printed for J. Buckland ... [and 2 others], 1760)"
+  ],
+  "lavington-sermons": [
+   "sermonsandother01lavigoog",
+   "Sermons, and other discourses, vol. 2 (London : Printed for Gale, Curtis, and Fenner, 1815)"
+  ],
+  "lavington-sacramental": [
+   "sacramentalmedi00lavigoog",
+   "Sacramental meditations (catalogued 1833)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lavington-giver-of-victory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lavington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lavington-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lavington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lavington-sacramental": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lavington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
