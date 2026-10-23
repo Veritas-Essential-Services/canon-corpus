@@ -79,7 +79,7 @@
    "translator": "Alys Hallard",
    "scan_edition": "Project Gutenberg 36199 (clean text)"
   },
-  "alys-hallard-coulevain-he-branch": {
+  "alys-hallard-coulevain-on-the-branch": {
    "source": "aha-coulevain-on-the-branch",
    "of": "Pierre de Coulevain",
    "work": "On the Branch",
@@ -87,7 +87,7 @@
    "translator": "Alys Hallard",
    "scan_edition": "E. P. Dutton, New York, copyright 1909; UC Berkeley scan"
   },
-  "alys-hallard-coulevain-own-isle": {
+  "alys-hallard-coulevain-unknown-isle": {
    "source": "aha-coulevain-unknown-isle",
    "of": "Pierre de Coulevain",
    "work": "The Unknown Isle",
@@ -95,7 +95,7 @@
    "translator": "Alys Hallard",
    "scan_edition": "Cassell, London and New York 1911; Cornell scan"
   },
-  "alys-hallard-coulevain-ican-nobility": {
+  "alys-hallard-coulevain-american-nobility": {
    "source": "aha-coulevain-american-nobility",
    "of": "Pierre de Coulevain",
    "work": "American Nobility",
@@ -103,7 +103,7 @@
    "translator": "Alys Hallard",
    "scan_edition": "E. P. Dutton, New York, copyright 1913; UCLA scan"
   },
-  "alys-hallard-coulevain-erful-romance": {
+  "alys-hallard-coulevain-wonderful-romance": {
    "source": "aha-coulevain-wonderful-romance",
    "of": "Pierre de Coulevain",
    "work": "The Wonderful Romance",
