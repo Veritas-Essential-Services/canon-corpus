@@ -1035,5 +1035,562 @@
   "cicero-grose-hodge-pro-lege-manilia-etc": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain.",
   "cicero-freese-pro-quinctio-etc": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text.",
   "cicero-moor-de-oratore-i-1892": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
+ },
+ "perseus": {
+  "cicero-perseus-yonge-in-the-senate-after-his-return": [
+   "phi0474.phi019.perseus-eng2",
+   "In the Senate after his Return",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Vol. 3. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-second-oration-after-cicero-s-return-addressed-to-the-people": [
+   "phi0474.phi018.perseus-eng2",
+   "Second Oration After Cicero's Return: Addressed to the People.",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-falconer-laelius-on-friendship": [
+   "phi0474.phi052.perseus-eng2",
+   "Laelius on Friendship",
+   "William Armistead Falconer",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Cicero. De Senectute, De Amicitia, De Divinatione. Falconer, William Armistead, translator. Cambridge, MA: Harvard University Press. London: William Heinemann Ltd. 1923 (printing)."
+  ],
+  "cicero-perseus-yonge-in-defense-of-the-proposed-manilian-law": [
+   "phi0474.phi009.perseus-eng2",
+   "In Defense of the Proposed Manilian Law",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-on-the-agrarian-law": [
+   "phi0474.phi011.perseus-eng2",
+   "On the Agrarian Law",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-divinatio-against-q-caecilius": [
+   "phi0474.phi004.perseus-eng2",
+   "Divinatio against Q. Caecilius",
+   "Charles Duke Yonge",
+   "Translation published 1903: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 1. Yonge, Charles Duke, translator. London: Bell, 1903."
+  ],
+  "cicero-perseus-yonge-against-verres": [
+   "phi0474.phi005.perseus-eng2",
+   "Against Verres",
+   "Charles Duke Yonge",
+   "Translation published 1903: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 1. Yonge, Charles Duke, translator. London: Bell, 1903."
+  ],
+  "cicero-perseus-yonge-against-l-catiline": [
+   "phi0474.phi013.perseus-eng2",
+   "Against L. Catiline",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-philippics": [
+   "phi0474.phi035.perseus-eng1",
+   "Philippics",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Vol. 4. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-aulus-caecina": [
+   "phi0474.phi008.perseus-eng2",
+   "For Aulus Caecina",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-a-cluentius": [
+   "phi0474.phi010.perseus-eng2",
+   "For A. Cluentius",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-a-l-archias": [
+   "phi0474.phi016.perseus-eng2",
+   "For A.L. Archias",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-c-rabirius": [
+   "phi0474.phi012.perseus-eng3",
+   "For C. Rabirius",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-m-fonteius": [
+   "phi0474.phi007.perseus-eng2",
+   "For M. Fonteius",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-l-flaccus": [
+   "phi0474.phi017.perseus-eng2",
+   "For L. Flaccus",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-l-murena": [
+   "phi0474.phi014.perseus-eng2",
+   "For L. Murena",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-m-tullius": [
+   "phi0474.phi006.perseus-eng2",
+   "For M. Tullius",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-publius-quinctius": [
+   "phi0474.phi001.perseus-eng2",
+   "For Publius Quinctius",
+   "Charles Duke Yonge",
+   "Translation published 1903: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 1. Yonge, Charles Duke, translator. London: Bell, 1903."
+  ],
+  "cicero-perseus-yonge-for-p-sulla": [
+   "phi0474.phi015.perseus-eng2",
+   "For P. Sulla",
+   "Charles Duke Yonge",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 2. Yonge, Charles Duke, translator. London: Bell, 1856."
+  ],
+  "cicero-perseus-yonge-for-quintus-roscius-the-actor": [
+   "phi0474.phi003.perseus-eng2",
+   "For Quintus Roscius the Actor",
+   "Charles Duke Yonge",
+   "Translation published 1903: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 1. Yonge, Charles Duke, translator. London: Bell, 1903."
+  ],
+  "cicero-perseus-yonge-for-sextus-roscius-of-ameria": [
+   "phi0474.phi002.perseus-eng2",
+   "For Sextus Roscius of Ameria",
+   "Charles Duke Yonge",
+   "Translation published 1903: US public domain (in or before 1930). Perseus source line: Cicero. The Orations of Marcus Tullius Cicero, Volume 1. Yonge, Charles Duke, translator. London: Bell, 1903."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "cicero-perseus-yonge-in-the-senate-after-his-return": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi019.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi019/phi0474.phi019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-second-oration-after-cicero-s-return-addressed-to-the-people": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi018.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi018/phi0474.phi018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-falconer-laelius-on-friendship": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi052.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Falconer",
+   "author_seen": "cicero",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi052/phi0474.phi052.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-in-defense-of-the-proposed-manilian-law": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi009.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi009/phi0474.phi009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-on-the-agrarian-law": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi011.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi011/phi0474.phi011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-divinatio-against-q-caecilius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi004.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi004/phi0474.phi004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-against-verres": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi005.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-against-l-catiline": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi013.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi013/phi0474.phi013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-philippics": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi035.perseus-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-aulus-caecina": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi008.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi008/phi0474.phi008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-a-cluentius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi010.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi010/phi0474.phi010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-a-l-archias": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi016.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi016/phi0474.phi016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-c-rabirius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi012.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi012/phi0474.phi012.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-m-fonteius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi007.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi007/phi0474.phi007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-l-flaccus": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi017.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi017/phi0474.phi017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-l-murena": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi014.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi014/phi0474.phi014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-m-tullius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi006.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi006/phi0474.phi006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-publius-quinctius": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi001.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi001/phi0474.phi001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-p-sulla": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi015.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi015/phi0474.phi015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-quintus-roscius-the-actor": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi003.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi003/phi0474.phi003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "cicero-perseus-yonge-for-sextus-roscius-of-ameria": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0474.phi002.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Yonge",
+   "author_seen": "cicero",
+   "source_years": [
+    1903
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi002/phi0474.phi002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
