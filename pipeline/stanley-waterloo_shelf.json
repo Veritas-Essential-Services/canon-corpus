@@ -1,0 +1,85 @@
+{
+ "_about": "Stanley Waterloo: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Stanley Waterloo",
+ "_name_words": [
+  "stanley",
+  "waterloo"
+ ],
+ "_surname": [
+  "stanley waterloo",
+  "waterloo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "swaterloo-story-of-ab": [
+   8644,
+   "The Story of Ab: A Tale of the Time of the Cave Man"
+  ],
+  "swaterloo-wolfs-long-howl": [
+   10391,
+   "The Wolf's Long Howl"
+  ],
+  "swaterloo-man-and-a-woman": [
+   16143,
+   "A Man and a Woman"
+  ],
+  "swaterloo-cassowary": [
+   37509,
+   "The Cassowary; What Chanced in the Cleft Mountains"
+  ],
+  "swaterloo-son-of-the-ages": [
+   67590,
+   "A Son of the Ages: The Reincarnations and Adventures of Scar, the Link A Story of Man From the Beginning"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "swaterloo-story-of-ab": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley waterloo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swaterloo-wolfs-long-howl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley waterloo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swaterloo-man-and-a-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley waterloo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swaterloo-cassowary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley waterloo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swaterloo-son-of-the-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stanley waterloo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

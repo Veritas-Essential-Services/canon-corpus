@@ -44085,3 +44085,15 @@ Shelf: `pipeline/william-allen-white_shelf.json` (2026-10-22; added at the coord
 | A Certain Rich Man | have | PG 18684, `wawhite-certain-rich-man` (1671 units) |
 | In Our Town | have | PG 26207, `wawhite-in-our-town` (555 units) |
 | In the Heart of a Fool | have | PG 30627, `wawhite-in-the-heart-of-a-fool` (3119 units) |
+
+## Stanley Waterloo
+
+Shelf: `pipeline/stanley-waterloo_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of Ab: A Tale of the Time of the Cave Man | have | PG 8644, `swaterloo-story-of-ab` (458 units) |
+| The Wolf's Long Howl | have | PG 10391, `swaterloo-wolfs-long-howl` (675 units) |
+| A Man and a Woman | have | PG 16143, `swaterloo-man-and-a-woman` (981 units) |
+| The Cassowary; What Chanced in the Cleft Mountains | have | PG 37509, `swaterloo-cassowary` (1160 units) |
+| A Son of the Ages: The Reincarnations and Adventures of Scar, the Link A Story of Man From the Beginning | have | PG 67590, `swaterloo-son-of-the-ages` (701 units) |
