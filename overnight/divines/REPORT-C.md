@@ -340,3 +340,5 @@
 - 2026-10-22T23:27-05:00: Round 131 (2026-10-23): 26 titles, Bernard Miall on archive.org (Maeterlinck, Le Bon, Rolland, Alexinsky x3, travel, wartime). 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:33-05:00: Round 132 (2026-10-23): 15 titles, Eden and Cedar Paul on archive.org (Ludwig x3, Masaryk x2, Michels, Baudouin x2, Rathenau, Stalin and others). 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:40-05:00: Round 133 (2026-10-23): 16 titles, Hogarth x6 (Kluchevsky x4), Bernstein x2, Allinson x4, Worster x4 from archive.org. 0 mismatched, 0 rights flags, no uids.

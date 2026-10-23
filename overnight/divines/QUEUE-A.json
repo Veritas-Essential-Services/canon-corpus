@@ -6049,6 +6049,87 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:32:40-05:00",
       "notes": "2 items: Martyrs Mirror in English, Rupp translation 1837 and Sohm translation 1886"
+    },
+    {
+      "id": "nathaniel-lardner",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:12-05:00",
+      "notes": "10 items: Works 1835 (10 vols)"
+    },
+    {
+      "id": "john-jortin",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:12-05:00",
+      "notes": "15 items: Sermons 1787 (7 vols; 4 title pages read from images), Remarks on Ecclesiastical History 1805 (3), Tracts 1790 (2), Life of Erasmus 1808 (3)"
+    },
+    {
+      "id": "john-sharp-archbishop",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:13-05:00",
+      "notes": "5 items: Theological Works 1829 (5 vols)"
+    },
+    {
+      "id": "philip-skelton",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:13-05:00",
+      "notes": "6 items: Complete Works 1824 (6 vols)"
+    },
+    {
+      "id": "john-hales-of-eton",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:13-05:00",
+      "notes": "4 items: Golden Remains 1659, Works 1765 (3 vols; vol 2 title page read from image)"
+    },
+    {
+      "id": "isaac-milner",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:13-05:00",
+      "notes": "2 items: Sermons 1820 (2 vols)"
+    },
+    {
+      "id": "thomas-haweis",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:14-05:00",
+      "notes": "5 items: Impartial History of the Church 1800 (3 vols), Evangelical Principles 1803, Life of Romaine 1797"
+    },
+    {
+      "id": "samuel-walker-of-truro",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:14-05:00",
+      "notes": "3 items: Christ the Purifier 1817, The Christian 1825, Fifty-two Lectures on the Catechism 1836 (with four added sermons by John Lawson)"
+    },
+    {
+      "id": "william-bromley-cadogan",
+      "status": "done",
+      "scope": "round 43",
+      "added": "2026-10-22T23:40:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:40:14-05:00",
+      "notes": "2 items: Discourses 1798, Life of Romaine 1796"
     }
   ]
 }

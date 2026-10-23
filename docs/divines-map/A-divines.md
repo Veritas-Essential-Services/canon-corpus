@@ -10388,3 +10388,127 @@ Slugs `braght-*`. Built from title pages read for round 42.
 | The bloody theatre, or Martyr's mirror (catalogued 1886) | have-ocr | IA `bloodytheatreorm00brag` |
 | The 1887 printing | alternate | not shelved |
 | Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint | excluded | |
+
+## Nathaniel Lardner (round 43, my pick, 2026-10-22)
+
+Slugs `lardner-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Nathaniel Lardner, vol. 1 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel01lard` |
+| The works of Nathaniel Lardner, vol. 2 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel02lard` |
+| The works of Nathaniel Lardner, vol. 3 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel03lard` |
+| The works of Nathaniel Lardner, vol. 4 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel04lard` |
+| The works of Nathaniel Lardner, vol. 5 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel05lard` |
+| The works of Nathaniel Lardner, vol. 6 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel06lard` |
+| The works of Nathaniel Lardner, vol. 7 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel07lard` |
+| The works of Nathaniel Lardner, vol. 8 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel08lard` |
+| The works of Nathaniel Lardner, vol. 9 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel09lard` |
+| The works of Nathaniel Lardner, vol. 10 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel10lard` |
+| The 1788 eleven-volume Works (ECCO scans), the 1815 five-volume quarto, the 1829 and 1838 ten-volume sets | alternate | not shelved |
+
+## John Jortin (round 43, my pick, 2026-10-22)
+
+Slugs `jortin-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 1 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_1` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 2 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_2` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 3 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_3` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 4 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_4` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 5 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_5` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 6 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_6` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 7 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_7` |
+| Remarks on ecclesiastical history, vol. 1 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi01jort` |
+| Remarks on ecclesiastical history, vol. 2 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi02jort` |
+| Remarks on ecclesiastical history, vol. 3 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi03jort` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 1 (London : White, 1790) | have-ocr | IA `tractsphilologic01jortiala` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 2 (London : White, 1790) | have-ocr | IA `tractsphilologic02jortiala` |
+| The life of Erasmus, vol. 1 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasm01jort` |
+| The life of Erasmus, vol. 2 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus02jort` |
+| The life of Erasmus, vol. 3 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus03jort` |
+| Discourses concerning the Truth of the Christian Religion (1805, in the Works set); Subjects of Religion (1792, extracts); the 1824 Sermons | alternate | not shelved |
+
+## John Sharp (Archbishop of York) (round 43, my pick, 2026-10-22)
+
+Slugs `sharp-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 1 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks01shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 2 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks02shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 3 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks03shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 4 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks04shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 5 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks05shar` |
+| The Life of John Sharp by his son Thomas Sharp (1825): another man's book | excluded | |
+
+## Philip Skelton (round 43, my pick, 2026-10-22)
+
+Slugs `skelton-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 1 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl01skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 2 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl02skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 3 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl03skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 4 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl04skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 5 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl05skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 6 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl06skel` |
+| The Google copies and the _0 duplicates of the same 1824 set | alternate | not shelved |
+
+## John Hales of Eton (round 43, my pick, 2026-10-22)
+
+Slugs `hales-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Golden remains of the ever memorable Mr. John Hales of Eton College &c (London : Printed for Tim. Garthwait, 1659) | have-ocr | IA `goldenremainsofe00hale` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 1 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_1` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 2 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_2` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 3 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_3` |
+| Golden Remains 1673 and 1688 (EEBO) | alternate | not shelved |
+
+## Isaac Milner (round 43, my pick, 2026-10-22)
+
+Slugs `isaac-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (T. Cadell, 1820) | have-ocr | IA `sermons01milngoog` |
+| Sermons, vol. 2 (T. Cadell, 1820) | have-ocr | IA `sermons00milngoog` |
+| Essay on Human Liberty (1824), authorship to confirm; Animadversions on Dr Haweis's History (1800) | alternate | not shelved |
+| A Plan of a Course of Chemical Lectures (1784, 1788) | excluded | |
+
+## Thomas Haweis (round 43, my pick, 2026-10-22)
+
+Slugs `haweis-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 1 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_1` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 2 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_2` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 3 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_3` |
+| Evangelical principles and practice: being fourteen sermons, preached in the parish-church of St. Mary Magdalen in Oxford. To which is added, The communicant's spiritual companion; or, An evangelical preparation for the Lord's Supper ... With meditations and helps for prayer, suitable to the subject (Newburyport, Printed by Edmund M. Blunt, 1803) | have-ocr | IA `evangelicalprinc00hawe` |
+| The life of William Romaine, M.A (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_the-life-of-william-roma_haweis-thomas_1797` |
+| The Google copies of the History (1800, 1807); Essays on the Evidence (1790, 1791) | alternate | not shelved |
+
+## Samuel Walker of Truro (round 43, my pick, 2026-10-22)
+
+Slugs `walker-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ the purifier : ten discourses upon the sanctification of believers, through the love and grace of Jesus Christ (London : Printed for L.B. Seeley, 1817) | have-ocr | IA `christpurifierte00walk` |
+| The Christian : a course of practical sermons (Glasgow : Printed for Chalmers and Collins, 1825) | have-ocr | IA `christiancourseo00walk` |
+| Fifty-two lectures on the church catechism ; including the creed, the ten commandments, and other important subjects of practical religion (London : Hamilton, Adams, & Co., 1836) | have-ocr | IA `fiftytwolecture00lawsgoog` |
+
+## William Bromley Cadogan (round 43, my pick, 2026-10-22)
+
+Slugs `cadogan-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
+| The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
+| ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |

@@ -2024,3 +2024,6 @@
 ## 2026-10-22 23:33 CDT — round 39 pickups and round 42 done
 - Round 39 pickups: franciscus-junius-elder (3 IA, new), martin-bucer +1 (bucer-gratulation), johannes-brenz +1 (Tymme's Newes from Niniue 1570). The earlier note that no English Junius was on the Archive is corrected in DIGEST-A.
 - Round 42: beilby-porteus, richard-hurd, robert-lowth, richard-field, thomas-bisse, thomas-comber, george-horne, william-jones-of-nayland, john-hey, samuel-johnson-of-connecticut, thieleman-van-braght: 11 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:40 CDT — round 43 done
+- nathaniel-lardner, john-jortin, john-sharp-archbishop, philip-skelton, john-hales-of-eton, isaac-milner, thomas-haweis, samuel-walker-of-truro, william-bromley-cadogan: 9 shelves, 52 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.

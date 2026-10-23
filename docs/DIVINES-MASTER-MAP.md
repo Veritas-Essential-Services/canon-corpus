@@ -10394,6 +10394,130 @@ Slugs `braght-*`. Built from title pages read for round 42.
 | The bloody theatre, or Martyr's mirror (catalogued 1886) | have-ocr | IA `bloodytheatreorm00brag` |
 | The 1887 printing | alternate | not shelved |
 | Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint | excluded | |
+
+## Nathaniel Lardner (round 43, my pick, 2026-10-22)
+
+Slugs `lardner-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Nathaniel Lardner, vol. 1 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel01lard` |
+| The works of Nathaniel Lardner, vol. 2 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel02lard` |
+| The works of Nathaniel Lardner, vol. 3 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel03lard` |
+| The works of Nathaniel Lardner, vol. 4 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel04lard` |
+| The works of Nathaniel Lardner, vol. 5 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel05lard` |
+| The works of Nathaniel Lardner, vol. 6 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel06lard` |
+| The works of Nathaniel Lardner, vol. 7 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel07lard` |
+| The works of Nathaniel Lardner, vol. 8 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel08lard` |
+| The works of Nathaniel Lardner, vol. 9 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel09lard` |
+| The works of Nathaniel Lardner, vol. 10 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel10lard` |
+| The 1788 eleven-volume Works (ECCO scans), the 1815 five-volume quarto, the 1829 and 1838 ten-volume sets | alternate | not shelved |
+
+## John Jortin (round 43, my pick, 2026-10-22)
+
+Slugs `jortin-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 1 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_1` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 2 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_2` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 3 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_3` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 4 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_4` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 5 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_5` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 6 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_6` |
+| Sermons on different subjects, by the late Reverend John Jortin, ... vol. 7 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_sermons-on-different-sub_jortin-john_1787_7` |
+| Remarks on ecclesiastical history, vol. 1 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi01jort` |
+| Remarks on ecclesiastical history, vol. 2 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi02jort` |
+| Remarks on ecclesiastical history, vol. 3 (London, Sold by Lackington, Allen; Edinburgh, T. Turnbull, printer, 1805) | have-ocr | IA `remarksonecclesi03jort` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 1 (London : White, 1790) | have-ocr | IA `tractsphilologic01jortiala` |
+| Tracts, philological, critical, and miscellaneous : consisting of pieces many before published separately, several annexed to the works of learned friends, and others now first printed from the author's manuscripts / John Jortin, vol. 2 (London : White, 1790) | have-ocr | IA `tractsphilologic02jortiala` |
+| The life of Erasmus, vol. 1 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasm01jort` |
+| The life of Erasmus, vol. 2 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus02jort` |
+| The life of Erasmus, vol. 3 (London, Printed by R. Taylor and co. for J. White [etc.], 1808) | have-ocr | IA `lifeoferasmus03jort` |
+| Discourses concerning the Truth of the Christian Religion (1805, in the Works set); Subjects of Religion (1792, extracts); the 1824 Sermons | alternate | not shelved |
+
+## John Sharp (Archbishop of York) (round 43, my pick, 2026-10-22)
+
+Slugs `sharp-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 1 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks01shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 2 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks02shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 3 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks03shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 4 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks04shar` |
+| The theological works of the Most Reverend John Sharp, D.D., late Archbishop of York, vol. 5 (Oxford : At the University Press, 1829) | have-ocr | IA `theologicalworks05shar` |
+| The Life of John Sharp by his son Thomas Sharp (1825): another man's book | excluded | |
+
+## Philip Skelton (round 43, my pick, 2026-10-22)
+
+Slugs `skelton-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 1 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl01skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 2 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl02skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 3 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl03skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 4 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl04skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 5 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl05skel` |
+| The complete works of the late Rev. Philip Skelton, rector of Fintona, to which is prefixed Burdy's Life of the author, vol. 6 (London : R. Baynes, 1824) | have-ocr | IA `completeworksofl06skel` |
+| The Google copies and the _0 duplicates of the same 1824 set | alternate | not shelved |
+
+## John Hales of Eton (round 43, my pick, 2026-10-22)
+
+Slugs `hales-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Golden remains of the ever memorable Mr. John Hales of Eton College &c (London : Printed for Tim. Garthwait, 1659) | have-ocr | IA `goldenremainsofe00hale` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 1 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_1` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 2 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_2` |
+| The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 3 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_3` |
+| Golden Remains 1673 and 1688 (EEBO) | alternate | not shelved |
+
+## Isaac Milner (round 43, my pick, 2026-10-22)
+
+Slugs `isaac-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (T. Cadell, 1820) | have-ocr | IA `sermons01milngoog` |
+| Sermons, vol. 2 (T. Cadell, 1820) | have-ocr | IA `sermons00milngoog` |
+| Essay on Human Liberty (1824), authorship to confirm; Animadversions on Dr Haweis's History (1800) | alternate | not shelved |
+| A Plan of a Course of Chemical Lectures (1784, 1788) | excluded | |
+
+## Thomas Haweis (round 43, my pick, 2026-10-22)
+
+Slugs `haweis-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 1 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_1` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 2 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_2` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 3 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_3` |
+| Evangelical principles and practice: being fourteen sermons, preached in the parish-church of St. Mary Magdalen in Oxford. To which is added, The communicant's spiritual companion; or, An evangelical preparation for the Lord's Supper ... With meditations and helps for prayer, suitable to the subject (Newburyport, Printed by Edmund M. Blunt, 1803) | have-ocr | IA `evangelicalprinc00hawe` |
+| The life of William Romaine, M.A (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_the-life-of-william-roma_haweis-thomas_1797` |
+| The Google copies of the History (1800, 1807); Essays on the Evidence (1790, 1791) | alternate | not shelved |
+
+## Samuel Walker of Truro (round 43, my pick, 2026-10-22)
+
+Slugs `walker-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ the purifier : ten discourses upon the sanctification of believers, through the love and grace of Jesus Christ (London : Printed for L.B. Seeley, 1817) | have-ocr | IA `christpurifierte00walk` |
+| The Christian : a course of practical sermons (Glasgow : Printed for Chalmers and Collins, 1825) | have-ocr | IA `christiancourseo00walk` |
+| Fifty-two lectures on the church catechism ; including the creed, the ten commandments, and other important subjects of practical religion (London : Hamilton, Adams, & Co., 1836) | have-ocr | IA `fiftytwolecture00lawsgoog` |
+
+## William Bromley Cadogan (round 43, my pick, 2026-10-22)
+
+Slugs `cadogan-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
+| The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
+| ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -20397,7 +20521,7 @@ Round 21 (2026-10-10), vetoable. Portraits added round 97 (2026-10-17). Not conv
 ## C. J. Hogarth (Tolstoy's trilogy, Dostoevsky, Oblomov, Turgenev)
 
 Shelf: `pipeline/cj-hogarth_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cj-hogarth` · titles `python3 pipeline/split_shelf_titles.py cj-hogarth`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Round 133 added Kluchevsky's History of Russia (4 vols), Soloviev's Dostoievsky and Shmelov's The Sun of the Dead. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20411,12 +20535,18 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `cj-hogarth-tolstoy-childhood` | Leo Tolstoy | Childhood | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2142 |
 | `cj-hogarth-tolstoy-youth` | Leo Tolstoy | Youth | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2637 |
 | `cj-hogarth-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 47935 |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-1` | V. O. Kluchevsky | A History of Russia, vol. 1 | C. J. Hogarth | 1911 | have-raw | IA `in.ernet.dli.2015.79986` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-2` | V. O. Kluchevsky | A History of Russia, vol. 2 | C. J. Hogarth | 1912 | have-raw | IA `india.history.resource.87849` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-3` | V. O. Kluchevsky | A History of Russia, vol. 3 | C. J. Hogarth | 1913 | have-raw | IA `historyofrussia03kliu` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-4` | V. O. Kluchevsky | A History of Russia, vol. 4 | C. J. Hogarth | 1926 | have-raw | IA `historyofrussia04kliuuoft` |
+| `cj-hogarth-soloviev-dostoievsky` | Evgenii Soloviev | Dostoievsky: His Life and Literary Activity | C. J. Hogarth | 1916 | have-raw | IA `in.ernet.dli.2015.173824` |
+| `cj-hogarth-shmelov-the-sun-of-the-dead` | Ivan Shmelov | The Sun of the Dead | C. J. Hogarth | 1927 | have-raw | IA `the-sun-of-the-dead` |
 | — | — | pg-19680: A second Gutenberg copy of Childhood; 2142 is used. | — | — | excluded | — |
 
 ## Herman Bernstein (Andreyev, Gorky, Chekhov)
 
 Shelf: `pipeline/herman-bernstein_shelf.json` · fetch `python3 pipeline/fetch_shelf.py herman-bernstein` · titles `python3 pipeline/split_shelf_titles.py herman-bernstein`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Round 133 added Foma Gordeyev and Samson in Chains. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20429,6 +20559,8 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `herman-bernstein-chekhov-the-slanderer` | Anton Chekhov | The Slanderer | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23055 |
 | `herman-bernstein-gorky-the-man-who-was-afraid` | Maksim Gorky | The Man Who Was Afraid | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 2709 |
 | `herman-bernstein-turgenev-the-rendezvous` | Ivan Turgenev | The Rendezvous | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23056 |
+| `herman-bernstein-gorky-foma-gordeyev` | Maxim Gorky | Foma Gordeyev | Herman Bernstein | 1901 | have-raw | IA `fomagordeyevnove00gork` |
+| `herman-bernstein-andreyev-samson-in-chains` | Leonid Andreyev | Samson in Chains: A Posthumous Tragedy | Herman Bernstein | 1923 | have-raw | IA `samsoninchainspo00andruoft` |
 
 ## Eleanor Marx Aveling (Madame Bovary, Ibsen, Lissagaray)
 
@@ -20522,7 +20654,7 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## A. R. Allinson (Anatole France, Brantôme, Fantômas)
 
 Shelf: `pipeline/allinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py allinson` · titles `python3 pipeline/split_shelf_titles.py allinson`.
-Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Round 133 added four archive.org books (France x2, Dumas, Fleischmann). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20535,11 +20667,15 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `allinson-france-the-well-of-saint-clare` | Anatole France | The Well of Saint Clare | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 18728 |
 | `allinson-lemonnier-birds-and-beasts` | Camille Lemonnier | Birds and Beasts | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 51847 |
 | `allinson-souvestre-the-long-arm-of-fantomas` | Pierre Souvestre | The long arm of Fantômas | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 71587 |
+| `allinson-france-the-garden-of-epicurus` | Anatole France | The Garden of Epicurus | Alfred Allinson | 1908 | have-raw | IA `dli.ministry.13283` |
+| `allinson-france-the-human-tragedy` | Anatole France | The Human Tragedy | Alfred Allinson | 1916 | have-raw | IA `india.history.resource.117537` |
+| `allinson-dumas-my-pets` | Alexandre Dumas | My Pets | Alfred Allinson | 1909 | have-raw | IA `mypetspets00dumarich` |
+| `allinson-fleischmann-an-unknown-son-of-napoleon` | Hector Fleischmann | An Unknown Son of Napoleon | A. R. Allinson | 1914 | have-raw | IA `unknownsonofnapo00fleiiala` |
 
 ## W. W. Worster (Hamsun, Bojer, Gunnarsson)
 
 Shelf: `pipeline/worster_shelf.json` · fetch `python3 pipeline/fetch_shelf.py worster` · titles `python3 pipeline/split_shelf_titles.py worster`.
-Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelves. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelves. Round 133 added four archive.org books (Lagerlöf, Linnankoski, Buchholtz, Kreutz). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20551,6 +20687,10 @@ Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelv
 | `worster-hamsun-pan` | Knut Hamsun | Pan | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7214 |
 | `worster-hamsun-wanderers` | Knut Hamsun | Wanderers | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7762 |
 | `worster-nilsen-dry-fish-and-wet` | Anthon Bernhard Elias Nilsen (Elias Kræmmer) | Dry fish and wet | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 35918 |
+| `worster-lagerlof-the-outcast` | Selma Lagerlöf | The Outcast | W. Worster | 1922 | have-raw | IA `outcast00worsgoog` |
+| `worster-linnankoski-the-song-of-the-blood-red-flower` | Johannes Linnankoski | The Song of the Blood-Red Flower | W. Worster | 1921 | have-raw | IA `songofbloodredfl00linn` |
+| `worster-buchholtz-the-miracles-of-clara-van-haag` | Johannes Buchholtz | The Miracles of Clara van Haag | W. W. Worster | 1922 | have-raw | IA `miraclesofclarav00buch` |
+| `worster-kreutzer-captain-zillner` | Rudolf Jeremias Kreutz | Captain Zillner: A Human Document | W. J. Alexander Worster | 1919 | have-raw | IA `captainzillnerhu00kreuiala` |
 | — | — | pg-28932: Rasmussen's Eskimo Folk-Tales is on rasmussen_shelf.json (another lane). | — | — | excluded | — |
 | — | — | pg-71086: Lagerlöf's The Outcast (1922) is left for lagerlof_shelf.json (another lane), which does not hold it yet. | — | — | excluded | — |
 

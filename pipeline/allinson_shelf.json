@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Alfred Richard Allinson (1852-1929): Anatole France for John Lane (1909-24), Brantôme's Lives of Fair and Gallant Ladies (1901), Dumas's The Wolf-Leader, Lemonnier, and Souvestre and Allain's Fantômas. He died in 1929, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Alfred Richard Allinson (1852-1929): Anatole France for John Lane (1909-24), Brantôme's Lives of Fair and Gallant Ladies (1901), Dumas's The Wolf-Leader, Lemonnier, and Souvestre and Allain's Fantômas. He died in 1929, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 133 (2026-10-23, vetoable) added from archive.org Anatole France's The Garden of Epicurus (1908) and The Human Tragedy (1916), Dumas's My Pets (1909) and Fleischmann's An Unknown Son of Napoleon (1914).",
  "_name_words": [
   "alfred allinson",
   "a. r. allinson",
@@ -50,7 +50,26 @@
    "The long arm of Fantômas"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "all-france-garden-of-epicurus": [
+   "dli.ministry.13283",
+   "The Garden of Epicurus",
+   "E07847_The_Garden_Of_Epicurus_djvu.txt"
+  ],
+  "all-france-human-tragedy": [
+   "india.history.resource.117537",
+   "The Human Tragedy",
+   "117537_djvu.txt"
+  ],
+  "all-dumas-my-pets": [
+   "mypetspets00dumarich",
+   "My Pets"
+  ],
+  "all-fleischmann-unknown-son-of-napoleon": [
+   "unknownsonofnapo00fleiiala",
+   "An Unknown Son of Napoleon"
+  ]
+ },
  "titles": {
   "allinson-brantome-lives-of-fair-and-gallant-ladies-vol-1": {
    "source": "all-67025",
@@ -123,15 +142,49 @@
    "translated": "1901-1924 (see the Gutenberg header)",
    "translator": "A. R. Allinson",
    "scan_edition": "Project Gutenberg 71587 (clean text)"
+  },
+  "allinson-france-the-garden-of-epicurus": {
+   "source": "all-france-garden-of-epicurus",
+   "of": "Anatole France",
+   "work": "The Garden of Epicurus",
+   "translated": 1908,
+   "translator": "Alfred Allinson",
+   "scan_edition": "John Lane, The Bodley Head, London and New York, MCMVIII; archive.org scan (Digital Library of India copy)"
+  },
+  "allinson-france-the-human-tragedy": {
+   "source": "all-france-human-tragedy",
+   "of": "Anatole France",
+   "work": "The Human Tragedy",
+   "translated": 1916,
+   "translator": "Alfred Allinson",
+   "scan_edition": "John Lane, The Bodley Head (first published 1916; reprinted 1924); archive.org scan"
+  },
+  "allinson-dumas-my-pets": {
+   "source": "all-dumas-my-pets",
+   "of": "Alexandre Dumas",
+   "work": "My Pets",
+   "translated": 1909,
+   "translator": "Alfred Allinson",
+   "scan_edition": "Methuen, London (this translation first published 1909); archive.org scan"
+  },
+  "allinson-fleischmann-an-unknown-son-of-napoleon": {
+   "source": "all-fleischmann-unknown-son-of-napoleon",
+   "of": "Hector Fleischmann",
+   "work": "An Unknown Son of Napoleon",
+   "translated": 1914,
+   "translator": "A. R. Allinson",
+   "scan_edition": "Eveleigh Nash, London 1914; archive.org scan"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ia-dumas-georges": "Dumas's Georges, or The Isle of France (Methuen; georgesorisleoff00duma): the scan prints no year, so it waits under the undated-printing rule."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "all-11060": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred allinson",
    "identity": "ok",
@@ -140,7 +193,7 @@
   },
   "all-18728": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred allinson",
    "identity": "ok",
@@ -149,7 +202,7 @@
   },
   "all-25407": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
@@ -158,7 +211,7 @@
   },
   "all-25408": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
@@ -167,7 +220,7 @@
   },
   "all-51054": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred allinson",
    "identity": "ok",
@@ -176,7 +229,7 @@
   },
   "all-51847": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
@@ -185,7 +238,7 @@
   },
   "all-67025": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
@@ -194,7 +247,7 @@
   },
   "all-67026": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
@@ -203,12 +256,56 @@
   },
   "all-71587": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. r. allinson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "A. R. Allinson"
+  },
+  "all-france-garden-of-epicurus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "all-france-human-tragedy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "all-dumas-my-pets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "[1909]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "all-fleischmann-unknown-son-of-napoleon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -256,6 +353,40 @@
    "pg": 71587,
    "pg_copyrighted_marker": false,
    "pg_translator": "A. R. Allinson"
+  },
+  "all-france-garden-of-epicurus": {
+   "ia": "dli.ministry.13283",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "all-france-human-tragedy": {
+   "ia": "india.history.resource.117537",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ],
+   "post_1930_examined": "2020 is the digitising line"
+  },
+  "all-dumas-my-pets": {
+   "ia": "mypetspets00dumarich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "all-fleischmann-unknown-son-of-napoleon": {
+   "ia": "unknownsonofnapo00fleiiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1773,
+    1793,
+    1838,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
