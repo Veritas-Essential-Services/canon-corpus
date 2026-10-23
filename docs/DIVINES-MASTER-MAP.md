@@ -43080,3 +43080,17 @@ Shelf: `pipeline/hjalmar-hjorth-boyesen_shelf.json` (2026-10-22; added at the co
 | A Good-For-Nothing 1876 | have | PG 23174, `hhboyesen-good-for-nothing-1876` (192 units) |
 | The Story of Norway | have | PG 34646, `hhboyesen-story-of-norway` (2384 units) |
 | The Modern Vikings: Stories of Life and Sport in the Norseland | have | PG 53070, `hhboyesen-modern-vikings` (977 units) |
+
+## Kate Langley Bosher
+
+Shelf: `pipeline/kate-langley-bosher_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Miss Gibbie Gault | have | PG 6075, `klbosher-miss-gibbie-gault` (1300 units) |
+| The Man in Lonely Land | have | PG 12971, `klbosher-man-in-lonely-land` (670 units) |
+| People Like That: A Novel | have | PG 12972, `klbosher-people-like-that` (1118 units) |
+| How It Happened | have | PG 14723, `klbosher-how-it-happened` (509 units) |
+| Mary Cary: "Frequently Martha" | have | PG 15571, `klbosher-mary-cary` (745 units) |
+| Kitty Canary: A Novel | have | PG 16946, `klbosher-kitty-canary` (231 units) |
+| "Bobbie", a Story of the Confederacy | have | PG 67150, `klbosher-bobbie-a-story-of-the-confederacy` (193 units) |
