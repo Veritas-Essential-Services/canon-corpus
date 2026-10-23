@@ -15580,3 +15580,20 @@ Shelf: `pipeline/amy-walton_shelf.json` (2026-10-22; added at the coordinator's 
 | Black, White and Gray: A Story of Three Homes | have | PG 23130, `awalton-black-white-and-gray` (1183 units) |
 | A Pair of Clogs | have | PG 23501, `awalton-pair-of-clogs` (900 units) |
 | The Kitchen Cat and Other Stories | have | PG 24751, `awalton-kitchen-cat-and-other-stories` (262 units) |
+
+## Eva March Tappan
+
+Shelf: `pipeline/eva-march-tappan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Histories, legends and stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Children's Hour, v 5. Stories From Seven Old Favorites | have | PG 13685, `emtappan-childrens-hour-v-5-stories-from-seven-old-favorites` (1288 units) |
+| Diggers in the Earth | have | PG 24762, `emtappan-diggers-in-the-earth` (235 units) |
+| Makers of Many Things | have | PG 28569, `emtappan-makers-of-many-things` (178 units) |
+| The Little Book of the Flag | have | PG 30893, `emtappan-little-book-of-the-flag` (546 units) |
+| In the Days of Queen Victoria | have | PG 35576, `emtappan-in-the-days-of-queen-victoria` (777 units) |
+| In the Days of Queen Elizabeth | have | PG 47006, `emtappan-in-the-days-of-queen-elizabeth` (964 units) |
+| Dixie Kitten | have | PG 67433, `emtappan-dixie-kitten` (105 units) |
+| Ella, a little schoolgirl of the sixties | have | PG 70282, `emtappan-ella-a-little-schoolgirl-of-the-sixties` (788 units) |
+| The house with the silver door | have | PG 77025, `emtappan-house-with-the-silver-door` (618 units) |
+| Hero stories of France | have | PG 79765, `emtappan-hero-stories-of-france` (490 units) |
