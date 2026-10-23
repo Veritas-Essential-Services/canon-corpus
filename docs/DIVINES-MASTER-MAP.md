@@ -16346,6 +16346,25 @@ Slugs `cobbe-*`. Built from title pages read for round 101.
 | essayonintuitive0000cobb: An Essay on Intuitive Morals, published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | The Collected Works of Theodore Parker (which she edited) | excluded | |
 | Italics, Cities of the Past, Hours of Work and Play, False Beasts and True, vivisection papers (not theology) | excluded | |
+
+## W. J. Dawson (round 101, my pick, 2026-10-23)
+
+Slugs `wjdawson-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The threshold of manhood, a young man's words to young men (New York, Armstrong, 1889) | have-ocr | IA `thresholdofmanho0000will` |
+| The church of to-morrow : a series of addresses delivered in America, Canada, and Great Britain (London : J. Clarke, 1892) | have-ocr | IA `churchoftomorrow0000daws` |
+| The endless choice, and other sermons (London : J. Nisbet, 1897) | have-ocr | IA `endlesschoiceoth0000daws` |
+| The life of Christ (Philadelphia, G. W. Jacobs & co, 1901) | have-ocr | IA `lifeofchris00daws` |
+| The reproach of Christ, and other sermons (New York, Chicago, Fleming H. Revell Co, 1903) | have-ocr | IA `reproachofchrist0000daws` |
+| The evangelistic note (New York ; Chicago : Fleming H. Revell company, 1905) | have-ocr | IA `evangelisticnote00daws` |
+| The forgotten secret (New York : Revell, 1906) | have-ocr | IA `forgottensecret00daws` |
+| The empire of love (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `empireoflove00dawsrich` |
+| The divine challenge (New York : Hodder & Stoughton : George H. Doran, 1910) | have-ocr | IA `divinechallenge00daws` |
+| The book of courage (New York, F. H. Revell, 1911) | have-ocr | IA `bookcourage00dawsgoog` |
+| The man Christ Jesus; a life of Christ (New York London : The Century co., 1925) | have-ocr | IA `manchristjesusli00daws` |
+| Poems, novels (A Prophet in Babylon, The War Eagle and others) and the Makers of English handbooks: not theology | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
