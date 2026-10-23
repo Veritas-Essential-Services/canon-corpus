@@ -17928,3 +17928,16 @@ Shelf: `pipeline/cleveland-moffett_shelf.json` (2026-10-22; added at the coordin
 | Careers of Danger and Daring | have | PG 33146, `cmoffett-careers-of-danger-and-daring` (1421 units) |
 | True Detective Stories from the Archives of the Pinkertons | have | PG 33922, `cmoffett-true-detective-stories-from-the-archives-of-the-pin` (354 units) |
 | The Bishop's purse | have | PG 73472, `cmoffett-bishops-purse` (2716 units) |
+
+## Christy Mathewson
+
+Shelf: `pipeline/christy-mathewson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Pitching in a Pinch; or, Baseball from the Inside | have | PG 33291, `cmathewson-pitching-in-a-pinch` (1018 units) |
+| Won in the ninth | have | PG 49568, `cmathewson-won-in-the-ninth` (1257 units) |
+| Pitcher Pollock | have | PG 50761, `cmathewson-pitcher-pollock` (1216 units) |
+| Second Base Sloan | have | PG 52407, `cmathewson-second-base-sloan` (1099 units) |
+| Catcher Craig | have | PG 56337, `cmathewson-catcher-craig` (1282 units) |
+| First Base Faulkner | have | PG 64435, `cmathewson-first-base-faulkner` (1329 units) |
