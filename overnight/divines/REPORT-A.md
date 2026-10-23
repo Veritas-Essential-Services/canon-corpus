@@ -2156,3 +2156,6 @@
 
 ## 2026-10-23 05:26 CDT — round 86 done
 - t-k-cheyne, george-hodges, charles-bigg, stanley-leathes, frank-ballard: 5 shelves, 86 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:33 CDT — round 87 done
+- william-berriman, peter-gandolphy, edward-nares, william-derham, george-w-burnap, andrew-leete-stone: 6 shelves, 47 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
