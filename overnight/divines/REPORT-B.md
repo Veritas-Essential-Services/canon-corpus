@@ -1445,3 +1445,10 @@
 - New shelves: charles-seignobos 1 (Ancient Civilization, tr. Wilde), martinengo-cesaresco 1, ernest-g-sihler 4 (1908-1923), roy-c-flickinger 2, ph-e-legrand 1 (New Greek Comedy, tr. James Loeb), emanuel-loewy 1 (tr. Fothergill), j-h-huddilston 3, ettore-pais 2 (tr. Cosenza; tr. Curtis).
 - Title pages read: Flickinger's 1904 dissertation (the OCR reads the signature as 'Pliokinger'); Pais's Ancient Italy names its translator as '[C.] Densmore Curtis'.
 - Skipped: Perrot and Chipiez's History of Art. Lane C's walter-armstrong shelf holds the Egypt and Assyria volumes, and the remaining volumes are translator work for lane C. Also skipped: Powell and Barber's New Chapters (many authors) and Greswell's calendars (mostly tables).
+
+## 2026-10-23 — Round da: Roman law, archaeology, numismatics
+- A wider IA subject sweep (21 subjects: Roman law, Philosophy Ancient, Byzantine history, inscriptions, numismatics, grammars, antiquities, sculpture, religion and more) gave a fresh list of creators on no shelf on any branch. This round took the first half.
+- Roman law: h-j-roby 5 (Latin Grammar in 2 parts, Justinian's Digest 1884, Roman Private Law 2 vols. 1902), james-hadley 2, rudolph-sohm 1 (Institutes, tr. Ledlie, 3rd ed. 1907), w-w-buckland 3, sheldon-amos 1, rudolf-von-jhering 3 (tr. Lalor, Husik, Drucker).
+- Archaeology and art: a-s-murray 6 (Greek Sculpture rev. ed. 2 vols., Handbook of Greek Archaeology, Bronzes, Parthenon, Manual of Mythology), charles-waldstein 3, adolf-furtwangler 1 (Masterpieces, tr. Sellers), barclay-v-head 1 (Historia Numorum 1911), ronald-m-burrows 1, james-baikie 10 (Egypt, Crete, the Near East; 2 Gutenberg), w-w-hyde 2, jesse-benedict-carter 2, carl-darling-buck 2.
+- All 43 fetched and verified with no failures. Murray, Head, Buck, Carter, Hyde, Amos and Burrows are common words or shared surnames, so those shelves match only on full-name forms (e.g. "a. s. murray", "barclay v. head").
+- Greek- or inscription-heavy and kept per Adam's ruling: Head's Historia Numorum, Buck's two grammars, Roby's Grammar (Latin-heavy). Their English is clean.

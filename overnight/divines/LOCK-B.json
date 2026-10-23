@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T01:01:51-05:00",
- "note": "Rounds cq-cz done 2026-10-23.",
- "resume_point": "Re-run the IA subject sweep with more subjects (Greek philosophy, Philosophy Ancient, Roman law, Byzantine Empire History, Inscriptions Greek/Latin, Numismatics, Greek language Grammar, Latin language Grammar, Archaeology Greece/Italy), keep creators with no shelf on any branch, and work them as in rounds cx-cz."
+ "heartbeat": "2026-10-23T01:18:07-05:00",
+ "note": "Rounds cq-da done 2026-10-23.",
+ "resume_point": "Round db: the rest of the wider sweep list, checked on all branches first: W. M. Ramsay (Asia Minor, Pauline geography), H. O. Taylor (Ancient Ideals, Classical Heritage, Mediaeval Mind PG 43880-1), B. I. Wheeler (Alexander, Dionysos), Edwin Pears (PG 58119, Fall of Constantinople), William Miller (Latins in the Levant, PG 69026), Edwin Hatch (PG 72255), Sterrett, J. B. Mayor. Then a fresh subject sweep."
 }
