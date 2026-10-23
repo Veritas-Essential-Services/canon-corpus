@@ -11956,6 +11956,23 @@ Slugs `storrs-*`. Built from title pages read for round 56.
 | The Puritan spirit : an oration delivered before the Congregational club in Tremont temple, Boston, 18th December 1889 (Boston : Congregational Sunday-school and Pub. Society, 1890) | have-ocr | IA `puritanspiritora00stor` |
 | Bernard of Clairvaux, the times, the man, and his work : an historical study in eight lectures (New York : C. Scribner's Sons, 1892) | have-ocr | IA `bernardofclairva00stor` |
 | His father Richard Salter Storrs (1787-1873) of Braintree, Mass.; the Lincoln and Brooklyn Bridge orations and the Garfield poetry anthology | excluded | |
+
+## George Duffield (1794-1868) (round 56, my pick, 2026-10-23)
+
+Slugs `gduffield-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual life, or, Regeneration : illustrated in a series of disquisitions : relative to its author, subject, nature, means, etc (Carlisle : George Gleming, 1832) | have-ocr | IA `spirituallifeorr00duff` |
+| Dissertations on the prophecies relative to the second coming of Jesus Christ (New York, Dayton & Newman, 1842) | have-ocr | IA `dissertationsonp00duff` |
+| The claims of "Episcopal bishops," examined in a series of letters : addressed to the Rev. S.A. McCoskry, D.D., bishop of the Protestant Episcopal church of Michigan (New York : Dayton & Newman, 1842) | have-ocr | IA `claimsofepiscopa00duff` |
+| Millenarianism defended : reply to Prof. Stuart's "Strictures on the Rev. G. Duffield's recent work on the second coming of Christ," (New York : M.H. Newman, 1843) | have-ocr | IA `millenarianismde00duffrich` |
+| Faithful rebuke, not "Unreasonable bitterness" : shown in a reply to the "Reverend Dr. Tyng's" pastoral letter of the Synod of Michigan (Printed by A.S. Williams, 1844) | have-ocr | IA `faithfulrebukeno00duff` |
+| The veteran hero (Detroit, A. McFarren, 1851) | have-ocr | IA `veteranhero00duff` |
+| One hundred years ago : an historical discourse delivered by Rev. George Duffield, D.D., during the centenary celebration of the First Presbyterian Church of Carlisle, Pa., July 1st, 1857 (Carlisle, Pa. : Printed at the Herald Office, 1858) | have-ocr | IA `onehundredyearsa00duff` |
+| A Thanksgiving discourse. The rule of Divine Providence applicable to the present circumstances of our country, delivered in the First Presbyterian church of Detroit, Thursday, November 28, 1860 (Detroit, Free press mammoth book and job printing house, 1861) | have-ocr | IA `thanksgivingdisc00duff` |
+| The nation's wail : a discourse delivered in the First Presbyterian Church of Detroit, on Sabbath, the 16th of April, 1865, the day after receiving the intelligence of the brutal murder of President Abraham Lincoln, by a brutal assassin (Detroit : Advertiser & Tribune Print., 1865) | have-ocr | IA `nationswaildisco00duff` |
+| George Duffield Jr. (1818-1888), hymn writer, and the elder George Duffield (1732-1790), Revolutionary chaplain, are other men | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
