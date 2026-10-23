@@ -44205,3 +44205,15 @@ Shelf: `pipeline/baillie-reynolds_shelf.json` (2026-10-22; added at the coordina
 | The Lonely Stronghold | have | PG 42625, `breynolds-lonely-stronghold` (2724 units) |
 | The man who won | have | PG 72820, `breynolds-man-who-won` (2557 units) |
 | The girl from nowhere | have | PG 72969, `breynolds-girl-from-nowhere` (1962 units) |
+
+## Arthur J. Rees
+
+Shelf: `pipeline/arthur-j-rees_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hampstead Mystery | have | PG 10082, `ajrees-hampstead-mystery` (2086 units) |
+| The Moon Rock | have | PG 12509, `ajrees-moon-rock` (2215 units) |
+| The Shrieking Pit | have | PG 20494, `ajrees-shrieking-pit` (1755 units) |
+| The Hand in the Dark | have | PG 20546, `ajrees-hand-in-the-dark` (2208 units) |
+| The Mystery of the Downs | have | PG 45658, `ajrees-mystery-of-the-downs` (1897 units) |
