@@ -1,5 +1,5 @@
 {
- "_about": "Sir Samuel Dill (1844-1924). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Roman Society from Nero to Marcus Aurelius, clean Gutenberg. No uids minted.",
+ "_about": "Sir Samuel Dill (1844-1924). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Roman Society from Nero to Marcus Aurelius, clean Gutenberg. No uids minted. Round eb adds Roman Society in the Last Century of the Western Empire (2nd ed., 1899).",
  "_name_words": [
   "dill"
  ],
@@ -14,16 +14,32 @@
    "Roman Society from Nero to Marcus Aurelius"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "samuel-dill-roman-society-last-century-1899": [
+   "romansocietyinl01dillgoog",
+   "Roman Society in the Last Century of the Western Empire, by Samuel Dill, second edition, revised (London: Macmillan and Co.; New York: The Macmillan Company, 1899)"
+  ]
+ },
  "_checks": {
   "dill-roman-society-nero-marcus-aurelius": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "samuel dill",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "samuel-dill-roman-society-last-century-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel dill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
