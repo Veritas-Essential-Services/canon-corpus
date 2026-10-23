@@ -1,0 +1,199 @@
+{
+ "_about": "Public-domain Frances Power Cobbe (1822-1904), Irish theist writer, editor of Theodore Parker and campaigner, for the Word Hoard: Thanksgiving, Religious Demands of the Age, Broken Lights, Religious Duty, Studies New and Old, Dawning Lights, Alone to the Alone, Darwinism in Morals, The Hopes of the Human Race, The Duties of Women, and The Peak in Darien. Her books are religious and ethical; her travel and animal-welfare writings are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frances power cobbe",
+  "f. p. cobbe",
+  "cobbe"
+ ],
+ "_surname": [
+  "frances power cobbe",
+  "f. p. cobbe",
+  "cobbe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cobbe-thanksgiving": [
+   "thanksgivingach00cobbgoog",
+   "Thanksgiving, a chapter of religious duty (catalogued 1863)"
+  ],
+  "cobbe-religious-demands": [
+   "religiousdemand00cobbgoog",
+   "Religious Demands of the Age: A Reprint of the Preface to the London Edition (Walker Wise & Co., 1863)"
+  ],
+  "cobbe-broken-lights": [
+   "brokenlightsani02cobbgoog",
+   "Broken Lights: An Inquiry Into the Present Condition & Future Prospects of (Trübner & Co., 1864)"
+  ],
+  "cobbe-religious-duty": [
+   "religiousduty00cobbuoft",
+   "Religious duty (London : Trübner, 1864)"
+  ],
+  "cobbe-studies-new-old": [
+   "studiesnewandol00cobbgoog",
+   "Studies New and Old of Ethical and Social Subjects (W.V. Spencer, 1866)"
+  ],
+  "cobbe-dawning-lights": [
+   "dawninglights0000fran",
+   "Dawning Lights (catalogued 1868)"
+  ],
+  "cobbe-alone-to-alone": [
+   "alonetothealonep00cobbuoft",
+   "Alone to the alone : prayers for theists (London : Williams, 1872)"
+  ],
+  "cobbe-darwinism-morals": [
+   "darwinisminmoral00cobbuoft",
+   "Darwinism in morals : and other essays. Reprinted from the Theological and Fortnightly reviews, Fraser's and Macmillan's magazines, and the Manchester friend (London : Williams and Norgate, 1872)"
+  ],
+  "cobbe-hopes-human-race": [
+   "hopesofhumanrace00cobb",
+   "The hopes of the human race, hereafter and here (London, Williams and Norgate, 1874)"
+  ],
+  "cobbe-duties-of-women": [
+   "dutiesofwomencou00cobbuoft",
+   "The duties of women; a course of lectures (Boston G.H. Ellis, 1881)"
+  ],
+  "cobbe-peak-in-darien": [
+   "peakindarienocta00cobbrich",
+   "The peak in Darien : an octave of essays (Boston : Geo. H. Ellis, 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cobbe-parker": "The Collected Works of Theodore Parker (which she edited)",
+  "cobbe-other": "Italics, Cities of the Past, Hours of Work and Play, False Beasts and True, vivisection papers (not theology)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cobbe-thanksgiving": "Title page image: 'Thanksgiving. A Chapter of Religious Duty. By Frances Power Cobbe... London: Trubner and Co., Paternoster Row. 1863.'",
+  "cobbe-broken-lights": "Title page image: 'Broken Lights: an Inquiry into the Present Condition & Future Prospects of Religious Faith... By Frances Power Cobbe, author of an Essay on Intuitive Morals... London: Trubner & Co.... 1864.'"
+ },
+ "_pending": {
+  "cobbe-intuitive-morals": "essayonintuitive0000cobb: An Essay on Intuitive Morals, published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "cobbe-thanksgiving": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-religious-demands": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-broken-lights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-religious-duty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-studies-new-old": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-dawning-lights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cobbe-alone-to-alone": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-darwinism-morals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-hopes-human-race": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cobbe-duties-of-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobbe-peak-in-darien": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances power cobbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

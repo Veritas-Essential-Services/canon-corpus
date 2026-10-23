@@ -16319,3 +16319,24 @@ Slugs `gossner-*`. Built from title pages read for round 101.
 | John Goszner's treasury : containing Bible meditations for each day in the year, with devotional songs to the futherance of family prayer and piety (Minneapolis : Augsburg Pub. House, 1906) | have-ocr | IA `johngosznerstrea00goss` |
 | heartofmaneither00goss: the 1851 Harrisburg printing names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | The Life of Martin Boos (Boos's own account, which Gossner edited) | excluded | |
+
+## Frances Power Cobbe (round 101, my pick, 2026-10-23)
+
+Slugs `cobbe-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| Thanksgiving, a chapter of religious duty (catalogued 1863) | have-ocr | IA `thanksgivingach00cobbgoog` |
+| Religious Demands of the Age: A Reprint of the Preface to the London Edition (Walker Wise & Co., 1863) | have-ocr | IA `religiousdemand00cobbgoog` |
+| Broken Lights: An Inquiry Into the Present Condition & Future Prospects of (Trübner & Co., 1864) | have-ocr | IA `brokenlightsani02cobbgoog` |
+| Religious duty (London : Trübner, 1864) | have-ocr | IA `religiousduty00cobbuoft` |
+| Studies New and Old of Ethical and Social Subjects (W.V. Spencer, 1866) | have-ocr | IA `studiesnewandol00cobbgoog` |
+| Dawning Lights (catalogued 1868) | have-ocr | IA `dawninglights0000fran` |
+| Alone to the alone : prayers for theists (London : Williams, 1872) | have-ocr | IA `alonetothealonep00cobbuoft` |
+| Darwinism in morals : and other essays. Reprinted from the Theological and Fortnightly reviews, Fraser's and Macmillan's magazines, and the Manchester friend (London : Williams and Norgate, 1872) | have-ocr | IA `darwinisminmoral00cobbuoft` |
+| The hopes of the human race, hereafter and here (London, Williams and Norgate, 1874) | have-ocr | IA `hopesofhumanrace00cobb` |
+| The duties of women; a course of lectures (Boston G.H. Ellis, 1881) | have-ocr | IA `dutiesofwomencou00cobbuoft` |
+| The peak in Darien : an octave of essays (Boston : Geo. H. Ellis, 1882) | have-ocr | IA `peakindarienocta00cobbrich` |
+| essayonintuitive0000cobb: An Essay on Intuitive Morals, published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Collected Works of Theodore Parker (which she edited) | excluded | |
+| Italics, Cities of the Past, Hours of Work and Play, False Beasts and True, vivisection papers (not theology) | excluded | |
