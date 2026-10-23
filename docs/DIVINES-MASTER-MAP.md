@@ -41725,3 +41725,18 @@ Shelf: `pipeline/lucy-foster-madison_shelf.json` (2026-10-22; added at the coord
 | Peggy Owen, Patriot: A Story for Girls | have | PG 36740, `lfmadison-peggy-owen-patriot` (2086 units) |
 | Peggy Owen at Yorktown | have | PG 36744, `lfmadison-peggy-owen-at-yorktown` (1725 units) |
 | A Maid at King Alfred's Court: A Story for Girls | have | PG 37405, `lfmadison-maid-at-king-alfreds-court` (1911 units) |
+
+## Robert Leighton
+
+Shelf: `pipeline/robert-leighton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Boys' adventure books. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Olaf the Glorious: A Story of the Viking Age | have | PG 9415, `rleighton-olaf-the-glorious` (1272 units) |
+| Dogs and All about Them | have | PG 10991, `rleighton-dogs-and-all-about-them` (1145 units) |
+| The Thirsty Sword: A Story of the Norse Invasion of Scotland (1262-1263) | have | PG 12981, `rleighton-thirsty-sword` (1508 units) |
+| The Pilots of Pomona: A Story of the Orkney Islands | have | PG 14149, `rleighton-pilots-of-pomona` (1903 units) |
+| Kiddie the Scout | have | PG 23924, `rleighton-kiddie-the-scout` (1510 units) |
+| Sergeant Silk, the Prairie Scout | have | PG 35180, `rleighton-sergeant-silk-the-prairie-scout` (1100 units) |
+| The Golden Galleon Being a Narrative of the Adventures of Master Gilbert Oglander, and of how, in the Year 1591, he fought under the gallant Sir Richard Grenville in the Great Sea-fight off Flores, on board her Majesty's Ship the Revenge | have | PG 35940, `rleighton-golden-galleon-being-a-narrative-of-the-adventures` (1790 units) |
+| Dreadnoughts of the Dogger: A Story of the War on the North Sea | have | PG 50914, `rleighton-dreadnoughts-of-the-dogger` (1542 units) |
