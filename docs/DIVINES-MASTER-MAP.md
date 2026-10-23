@@ -20987,6 +20987,20 @@ Shelf: `pipeline/e-g-hardy_shelf.json`. New shelf, round dv. Raw IA OCR, every t
 | Studies in Roman History, second series, by E. G. Hardy (London: Swan Sonnenschein, 1909) |  | `e-g-hardy-studies-roman-history-2-1909` | have-raw (IA `studiesinromanhi00hard`) |
 | Six Roman Laws, translated with introduction and notes by E. G. Hardy (Oxford: Clarendon Press; London: Henry Frowde, 1911) |  | `e-g-hardy-six-roman-laws-1911` | have-raw (IA `sixromanlaws00harduoft`) |
 
+## Arthur Palmer (1841-1897)
+
+Shelf: `pipeline/arthur-palmer_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| P. Ovidii Nasonis Heroides XIV, edited by Arthur Palmer (London: George Bell; Cambridge: Deighton, Bell; Dublin: E. Ponsonby, 1874) |  | `arthur-palmer-ovid-heroides-xiv-1874` | have-raw (IA `heroidesxivedite00oviduoft`) |
+| The Satires of Horace, edited with notes by Arthur Palmer, third edition (London and New York: Macmillan, 1888) |  | `arthur-palmer-horace-satires-1888` | have-raw (IA `satiresofhorace0000arth_g6e3`) |
+| The Amphitruo of Plautus, edited with introduction and notes by Arthur Palmer (London and New York: Macmillan, 1890) |  | `arthur-palmer-plautus-amphitruo-1890` | have-raw (IA `amphitruoeditedw00plauuoft`) |
+| Catulli Veronensis Liber, edited by Arthur Palmer, Parnassus Library of Greek and Latin Texts (London: Macmillan; New York: Macmillan, 1896) |  | `arthur-palmer-catullus-1896` | have-raw (IA `catulliveronen00catu`) |
+| P. Ovidi Nasonis Heroides, with the Greek translation of Planudes, edited by the late Arthur Palmer (Oxford: Clarendon Press; London: Henry Frowde, 1898; completed by L. C. Purser, preface August 1898) |  | `arthur-palmer-ovid-heroides-1898` | have-raw (IA `heroideswithgree00oviduoft`) |
+
+Excluded: Propertius, Elegiarum libri IV (1880) (elegiarumlibrii00palmgoog: a Latin recension with Latin preface, no English text; out of scope for an English shelf.)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

@@ -1,0 +1,101 @@
+{
+ "_about": "Arthur Palmer (1841-1897), Professor of Latin at Trinity College Dublin, raw IA OCR: Ovid, Heroides XIV (London: George Bell, 1874); The Satires of Horace edited with notes, third edition (Macmillan, 1888); The Amphitruo of Plautus with introduction and notes (Macmillan, 1890); Catulli Veronensis Liber (Macmillan, 1896); Ovid's Heroides with the Greek translation of Planudes (Oxford: Clarendon Press, 1898), finished after his death by L. C. Purser, whose preface is dated August 1898. Not taken: his Propertius (Elegiarum libri IV, 1880), a Latin recension with Latin preface and no English. Latin-dense commentaries kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Arthur Palmer (1841-1897)",
+ "_name_words": [
+  "palmer"
+ ],
+ "_surname": [
+  "arthur palmer",
+  "a. palmer",
+  "palmer, arthur"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arthur-palmer-ovid-heroides-xiv-1874": [
+   "heroidesxivedite00oviduoft",
+   "P. Ovidii Nasonis Heroides XIV, edited by Arthur Palmer (London: George Bell; Cambridge: Deighton, Bell; Dublin: E. Ponsonby, 1874)"
+  ],
+  "arthur-palmer-horace-satires-1888": [
+   "satiresofhorace0000arth_g6e3",
+   "The Satires of Horace, edited with notes by Arthur Palmer, third edition (London and New York: Macmillan, 1888)"
+  ],
+  "arthur-palmer-plautus-amphitruo-1890": [
+   "amphitruoeditedw00plauuoft",
+   "The Amphitruo of Plautus, edited with introduction and notes by Arthur Palmer (London and New York: Macmillan, 1890)"
+  ],
+  "arthur-palmer-catullus-1896": [
+   "catulliveronen00catu",
+   "Catulli Veronensis Liber, edited by Arthur Palmer, Parnassus Library of Greek and Latin Texts (London: Macmillan; New York: Macmillan, 1896)"
+  ],
+  "arthur-palmer-ovid-heroides-1898": [
+   "heroideswithgree00oviduoft",
+   "P. Ovidi Nasonis Heroides, with the Greek translation of Planudes, edited by the late Arthur Palmer (Oxford: Clarendon Press; London: Henry Frowde, 1898; completed by L. C. Purser, preface August 1898)"
+  ]
+ },
+ "_excluded": {
+  "Propertius, Elegiarum libri IV (1880)": "elegiarumlibrii00palmgoog: a Latin recension with Latin preface, no English text; out of scope for an English shelf."
+ },
+ "_checks": {
+  "arthur-palmer-ovid-heroides-xiv-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-palmer-horace-satires-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arthur-palmer-plautus-amphitruo-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arthur-palmer-catullus-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arthur-palmer-ovid-heroides-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "arthur-palmer-ovid-heroides-1898": {
+   "author": "title page OCRs the editor as 'A, PALMER' (Henry Frowde, Publisher to the University of Oxford); L. C. Purser's preface (Trinity College, Dublin, August 1898) says the work was begun by 'Professor Palmer'"
+  }
+ }
+}
