@@ -1,0 +1,313 @@
+{
+ "_about": "Public-domain Charles Edward Jefferson (1860-1937), minister of Broadway Tabernacle, New York, for the Word Hoard: his books of sermons, lectures on preaching and the pastorate, studies of the character of Jesus and of Paul, and his writings on Christianity and international peace, from Quiet Talks with Earnest People (1898) to Five Present-Day Controversies (1924). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 73 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jefferson"
+ ],
+ "_surname": [
+  "charles e. jefferson",
+  "charles edward jefferson",
+  "c. e. jefferson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jefferson-quiet-talks-earnest-people": [
+   "quiettalkswithea00jeff",
+   "Quiet talks with earnest people in my study (New York and Boston, T.Y. Crowell, 1898)"
+  ],
+  "jefferson-quiet-hints-preachers": [
+   "quiethintstogrow00jeff",
+   "Quiet hints to growing preachers in my study (New York, T. Y. Crowell & company, 1901)"
+  ],
+  "jefferson-doctrine-and-deed": [
+   "DoctrineAndDeed",
+   "Doctrine and deed : expounded and illustrated in seventeen sermons (New York : Crowell, 1901)"
+  ],
+  "jefferson-things-fundamental": [
+   "thingsfundamenta00jeff",
+   "Things fundamental; a course of thirteen discourses in modern apologetics (New York, T.Y. Crowell & company, 1903)"
+  ],
+  "jefferson-minister-as-prophet": [
+   "ministerasprophe00jeff",
+   "The minister as prophet (New York, Thomas Y. Crowell Co, 1905)"
+  ],
+  "jefferson-new-crusade": [
+   "newcrusadeoccasi00jeff",
+   "The new crusade, occasional sermons and addresses (New York, T. Y. Crowell & Company, 1907)"
+  ],
+  "jefferson-character-of-jesus": [
+   "cu31924029312224",
+   "The character of Jesus (New York : T.Y. Crowell & Company, 1908)"
+  ],
+  "jefferson-my-fathers-business": [
+   "myfathersbusines00jeff",
+   "My Father's business; a series of sermons to children (New York, T.Y. Crowell, 1909)"
+  ],
+  "jefferson-talks-high-themes": [
+   "talksonhighthem00jeff",
+   "Talks on high themes for young Christians (Boston, New York [etc.] The Pilgrim press, 1909)"
+  ],
+  "jefferson-building-of-church": [
+   "buildingchurch01jeffgoog",
+   "The Building of the Church (New York: Macmillan, 1910)"
+  ],
+  "jefferson-life-after-death": [
+   "whywemaybelievei00jeff_1",
+   "Why we may believe in life after death (Boston And New York, Houghton Mifflin Co., 1911)"
+  ],
+  "jefferson-ministering-shepherd": [
+   "ministeringsheph00jeff",
+   "The ministering shepherd (London ; New York : Hodder and Stoughton, 1912)"
+  ],
+  "jefferson-international-peace": [
+   "christianityinte00jeff",
+   "Christianity and international peace; six lectures at Grinnell college, Grinnell, Iowa, in February, 1915, on the George A. Gates memorial foundation (New York, Thomas Y. Crowell company, 1915)"
+  ],
+  "jefferson-quiet-talks-family": [
+   "quiettalkswithf00jeffgoog",
+   "Quiet Talks with the Family (Thomas Y. Crowell Co, 1916)"
+  ],
+  "jefferson-what-war-is-teaching": [
+   "whatwaristeachi01jeffgoog",
+   "What the War is Teaching, the Merrick Lectures, 1916 (New York: Fleming H. Revell, copyright 1916)"
+  ],
+  "jefferson-forefathers-day": [
+   "forefathersdayse00jeff",
+   "Forefathers' day sermons (Boston, Chicago, The Pilgrim Press, 1917)"
+  ],
+  "jefferson-old-truths-new-facts": [
+   "oldtruthsnewfact00jeff",
+   "Old truths and new facts (New York, Chicago [etc.] Fleming H. Revell company, 1918)"
+  ],
+  "jefferson-character-of-paul": [
+   "characterofpaul00jeff_0",
+   "The character of Paul (New York : The Macmillan company, 1923)"
+  ],
+  "jefferson-five-controversies": [
+   "fivepresentdayco0000jeff_n2t1",
+   "Five Present-Day Controversies (New York: Fleming H. Revell, 1924)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jefferson-pamphlets": "addresses and sermons printed as pamphlets of under 80 pages (Essentials, Christmas Builders, Congregationalism, The Cause of the War, The Land of Enough and others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jefferson-what-war-is-teaching": "title page OCR reads 'WHAT THE WAR IS TEACHING BY CHARLES B. JEFFERSON Pastor of the Broadway Tabernacle New York ... Copyright, 1916, by FLEMING H. REVELL COMPANY' (E read as B; OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jefferson-quiet-talks-earnest-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-quiet-hints-preachers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-doctrine-and-deed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jefferson-things-fundamental": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-minister-as-prophet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-new-crusade": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jefferson-character-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jefferson-my-fathers-business": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-talks-high-themes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jefferson-building-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-life-after-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jefferson-ministering-shepherd": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-international-peace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-quiet-talks-family": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-what-war-is-teaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-forefathers-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jefferson-old-truths-new-facts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jefferson-character-of-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles edward jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jefferson-five-controversies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. jefferson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "['1924', '1924', '1924']",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

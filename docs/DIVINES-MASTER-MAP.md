@@ -13556,6 +13556,33 @@ Slugs `horne-*`. Built from title pages read for round 72.
 | Pulpit, platform and parliament (London : Hodder and Stoughton, 1913) | have-ocr | IA `pulpitplatformpa00horniala` |
 | The romance of preaching (New York, Chicago [etc.] Fleming H. Revell Company, 1914) | have-ocr | IA `romanceofpreachi00horn` |
 | Let Us Pray (1897, a compiled book of collects); the 1914 In Memoriam booklet and W. B. Selbie's Life (1920), both about him | excluded | |
+
+## Charles E. Jefferson (round 73, my pick, 2026-10-23)
+
+Slugs `jefferson-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Quiet talks with earnest people in my study (New York and Boston, T.Y. Crowell, 1898) | have-ocr | IA `quiettalkswithea00jeff` |
+| Quiet hints to growing preachers in my study (New York, T. Y. Crowell & company, 1901) | have-ocr | IA `quiethintstogrow00jeff` |
+| Doctrine and deed : expounded and illustrated in seventeen sermons (New York : Crowell, 1901) | have-ocr | IA `DoctrineAndDeed` |
+| Things fundamental; a course of thirteen discourses in modern apologetics (New York, T.Y. Crowell & company, 1903) | have-ocr | IA `thingsfundamenta00jeff` |
+| The minister as prophet (New York, Thomas Y. Crowell Co, 1905) | have-ocr | IA `ministerasprophe00jeff` |
+| The new crusade, occasional sermons and addresses (New York, T. Y. Crowell & Company, 1907) | have-ocr | IA `newcrusadeoccasi00jeff` |
+| The character of Jesus (New York : T.Y. Crowell & Company, 1908) | have-ocr | IA `cu31924029312224` |
+| My Father's business; a series of sermons to children (New York, T.Y. Crowell, 1909) | have-ocr | IA `myfathersbusines00jeff` |
+| Talks on high themes for young Christians (Boston, New York [etc.] The Pilgrim press, 1909) | have-ocr | IA `talksonhighthem00jeff` |
+| The Building of the Church (New York: Macmillan, 1910) | have-ocr | IA `buildingchurch01jeffgoog` |
+| Why we may believe in life after death (Boston And New York, Houghton Mifflin Co., 1911) | have-ocr | IA `whywemaybelievei00jeff_1` |
+| The ministering shepherd (London ; New York : Hodder and Stoughton, 1912) | have-ocr | IA `ministeringsheph00jeff` |
+| Christianity and international peace; six lectures at Grinnell college, Grinnell, Iowa, in February, 1915, on the George A. Gates memorial foundation (New York, Thomas Y. Crowell company, 1915) | have-ocr | IA `christianityinte00jeff` |
+| Quiet Talks with the Family (Thomas Y. Crowell Co, 1916) | have-ocr | IA `quiettalkswithf00jeffgoog` |
+| What the War is Teaching, the Merrick Lectures, 1916 (New York: Fleming H. Revell, copyright 1916) | have-ocr | IA `whatwaristeachi01jeffgoog` |
+| Forefathers' day sermons (Boston, Chicago, The Pilgrim Press, 1917) | have-ocr | IA `forefathersdayse00jeff` |
+| Old truths and new facts (New York, Chicago [etc.] Fleming H. Revell company, 1918) | have-ocr | IA `oldtruthsnewfact00jeff` |
+| The character of Paul (New York : The Macmillan company, 1923) | have-ocr | IA `characterofpaul00jeff_0` |
+| Five Present-Day Controversies (New York: Fleming H. Revell, 1924) | have-ocr | IA `fivepresentdayco0000jeff_n2t1` |
+| addresses and sermons printed as pamphlets of under 80 pages (Essentials, Christmas Builders, Congregationalism, The Cause of the War, The Land of Enough and others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
