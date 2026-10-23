@@ -39000,3 +39000,27 @@ Shelf: `pipeline/arthur-b-reeve_shelf.json` (2026-10-22; added at the coordinato
 | The Soul Scar: A Craig Kennedy Scientific Mystery Novel | have | PG 56902, `abreeve-soul-scar` (2115 units) |
 | The adventuress | have | PG 73414, `abreeve-adventuress` (1955 units) |
 | repeat-editions | excluded | PG 5007: second Gutenberg editions of titles already on the shelf. |
+
+## Alfred Henry Lewis
+
+Shelf: `pipeline/alfred-henry-lewis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Wolfville Western tales. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wolfville | have | PG 3732, `ahlewis-wolfville` (1491 units) |
+| Wolfville Nights | have | PG 13709, `ahlewis-wolfville-nights` (1137 units) |
+| The President: A Novel | have | PG 18572, `ahlewis-president` (1982 units) |
+| How The Raven Died 1902, From "Wolfville Nights" | have | PG 23173, `ahlewis-how-the-raven-died-1902-from-wolfville-nights` (39 units) |
+| The Mormon Menace: The Confessions of John Doyle Lee, Danite | have | PG 23519, `ahlewis-mormon-menace` (1363 units) |
+| Faro Nell and Her Friends: Wolfville Stories | have | PG 29485, `ahlewis-faro-nell-and-her-friends` (1425 units) |
+| The Sunset Trail | have | PG 41235, `ahlewis-sunset-trail` (1616 units) |
+| The Apaches of New York | have | PG 51909, `ahlewis-apaches-of-new-york` (1334 units) |
+| An American Patrician, or The Story of Aaron Burr Illustrated | have | PG 51911, `ahlewis-american-patrician-or-the-story-of-aaron-burr-illust` (1256 units) |
+| The Boss, and How He Came to Rule New York | have | PG 51912, `ahlewis-boss-and-how-he-came-to-rule-new-york` (1722 units) |
+| When Men Grew Tall, or The Story of Andrew Jackson | have | PG 51914, `ahlewis-when-men-grew-tall-or-the-story-of-andrew-jackson` (932 units) |
+| Sandburrs | have | PG 51981, `ahlewis-sandburrs` (1973 units) |
+| The Story of Paul Jones: An Historical Romance | have | PG 53990, `ahlewis-story-of-paul-jones` (1142 units) |
+| Peggy O'Neal | have | PG 53992, `ahlewis-peggy-oneal` (1871 units) |
+| The Black Lion Inn | have | PG 55471, `ahlewis-black-lion-inn` (1425 units) |
+| pg-57708 | excluded | PG 57708: Gutenberg's index of the author's works, not a book. |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 3667 Wolfville Days (copyright line 2001). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
