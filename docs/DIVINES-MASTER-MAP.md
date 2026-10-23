@@ -12294,6 +12294,13 @@ Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxf
 | Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
 | The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
 | Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892) |  | `warde-fowler-julius-caesar-1892` | have-raw (IA `cu31924028312290`) |
+| The City-State of the Greeks and Romans, a survey introductory to the study of ancient history, by W. Warde Fowler (London and New York: Macmillan, 1893) |  | `warde-fowler-city-state-1893` | have-raw (IA `citystateofgreek00fowlrich`) |
+| Virgil's Messianic Eclogue, its meaning, occasion and sources, three studies by Joseph B. Mayor, W. Warde Fowler and R. S. Conway, with the text of the Eclogue and a verse translation by R. S. Conway (London: John Murray, 1907) |  | `warde-fowler-mayor-conway-messianic-eclogue-1907` | have-raw (IA `virgilsmessianic00mayouoft`) |
+| Roman Ideas of Deity in the last century before the Christian era, lectures delivered in Oxford for the Common University Fund, by W. Warde Fowler (London: Macmillan, 1914) |  | `warde-fowler-roman-ideas-of-deity-1914` | have-raw (IA `romanideasofdeit00fowluoft`) |
+| Virgil's 'Gathering of the Clans', being observations on Aeneid VII. 601-817, by W. Warde Fowler (Oxford: B. H. Blackwell; New York: Longmans, Green, 1916) |  | `warde-fowler-gathering-of-the-clans-1916` | have-raw (IA `virgilsgathering00fowluoft`) |
+| Aeneas at the Site of Rome, observations on the eighth book of the Aeneid, by W. Warde Fowler (Oxford: B. H. Blackwell; New York: Longmans, Green, MCMXVIII [1918]) |  | `warde-fowler-aeneas-site-of-rome-1918` | have-raw (IA `aeneasatsiteofro00fowluoft`) |
+| The Death of Turnus, observations on the twelfth book of the Aeneid, by W. Warde Fowler (Oxford: B. H. Blackwell, MDCCCCXIX [1919]) |  | `warde-fowler-death-of-turnus-1919` | have-raw (IA `deathofturnus00fowliala`) |
+| Roman Essays and Interpretations, by W. Warde Fowler (Oxford: Clarendon Press, 1920) |  | `warde-fowler-roman-essays-1920` | have-raw (IA `romanessaysinter00fowluoft`) |
 
 Pending (wishlist): The City-State of the Greeks and Romans (1893) in a scan whose imprint year is legible.
 

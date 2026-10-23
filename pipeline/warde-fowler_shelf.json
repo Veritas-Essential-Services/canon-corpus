@@ -1,5 +1,5 @@
 {
- "_about": "William Warde Fowler (1847-1921), Oxford historian of Roman religion. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Social Life at Rome in the Age of Cicero, The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus, Rome (Home University Library), The Roman Festivals of the Period of the Republic, clean Gutenberg. His bird books are outside the brief. No uids minted. Also Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892), raw IA OCR.",
+ "_about": "William Warde Fowler (1847-1921), Oxford historian of Roman religion. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Social Life at Rome in the Age of Cicero, The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus, Rome (Home University Library), The Roman Festivals of the Period of the Republic, clean Gutenberg. His bird books are outside the brief. No uids minted. Also Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892), raw IA OCR. Round dw (2026-10-23) added, raw IA OCR with title pages read: The City-State of the Greeks and Romans (1893); Virgil's Messianic Eclogue (1907, three studies with J. B. Mayor and R. S. Conway); Roman Ideas of Deity (1914); Virgil's Gathering of the Clans (1916); Aeneas at the Site of Rome (1918); The Death of Turnus (1919); Roman Essays and Interpretations (1920). Not taken: his books on birds (outside lane B's scope).",
  "_name_words": [
   "fowler",
   "warde"
@@ -32,12 +32,40 @@
   "warde-fowler-julius-caesar-1892": [
    "cu31924028312290",
    "Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892)"
+  ],
+  "warde-fowler-city-state-1893": [
+   "citystateofgreek00fowlrich",
+   "The City-State of the Greeks and Romans, a survey introductory to the study of ancient history, by W. Warde Fowler (London and New York: Macmillan, 1893)"
+  ],
+  "warde-fowler-mayor-conway-messianic-eclogue-1907": [
+   "virgilsmessianic00mayouoft",
+   "Virgil's Messianic Eclogue, its meaning, occasion and sources, three studies by Joseph B. Mayor, W. Warde Fowler and R. S. Conway, with the text of the Eclogue and a verse translation by R. S. Conway (London: John Murray, 1907)"
+  ],
+  "warde-fowler-roman-ideas-of-deity-1914": [
+   "romanideasofdeit00fowluoft",
+   "Roman Ideas of Deity in the last century before the Christian era, lectures delivered in Oxford for the Common University Fund, by W. Warde Fowler (London: Macmillan, 1914)"
+  ],
+  "warde-fowler-gathering-of-the-clans-1916": [
+   "virgilsgathering00fowluoft",
+   "Virgil's 'Gathering of the Clans', being observations on Aeneid VII. 601-817, by W. Warde Fowler (Oxford: B. H. Blackwell; New York: Longmans, Green, 1916)"
+  ],
+  "warde-fowler-aeneas-site-of-rome-1918": [
+   "aeneasatsiteofro00fowluoft",
+   "Aeneas at the Site of Rome, observations on the eighth book of the Aeneid, by W. Warde Fowler (Oxford: B. H. Blackwell; New York: Longmans, Green, MCMXVIII [1918])"
+  ],
+  "warde-fowler-death-of-turnus-1919": [
+   "deathofturnus00fowliala",
+   "The Death of Turnus, observations on the twelfth book of the Aeneid, by W. Warde Fowler (Oxford: B. H. Blackwell, MDCCCCXIX [1919])"
+  ],
+  "warde-fowler-roman-essays-1920": [
+   "romanessaysinter00fowluoft",
+   "Roman Essays and Interpretations, by W. Warde Fowler (Oxford: Clarendon Press, 1920)"
   ]
  },
  "_checks": {
   "warde-fowler-social-life-rome-cicero": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. warde fowler",
    "identity": "ok",
@@ -46,7 +74,7 @@
   },
   "warde-fowler-religious-experience-roman-people": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. warde fowler",
    "identity": "ok",
@@ -55,7 +83,7 @@
   },
   "warde-fowler-rome": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. warde fowler",
    "identity": "ok",
@@ -64,7 +92,7 @@
   },
   "warde-fowler-roman-festivals": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "w. warde fowler",
    "identity": "ok",
@@ -73,7 +101,7 @@
   },
   "warde-fowler-julius-caesar-1892": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -81,11 +109,91 @@
    "ia_date": "1891",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "warde-fowler-city-state-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "[c1893]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-mayor-conway-messianic-eclogue-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-roman-ideas-of-deity-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-gathering-of-the-clans-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-aeneas-site-of-rome-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-death-of-turnus-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warde-fowler-roman-essays-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "warde-fowler-julius-caesar-1892": {
    "author": "title page read 2026-10-10: OCR gives 'W. WARDE roWLER, M.A. SUB-RECTOR OF LINCOLN COLLEGE OXFORD', Putnam 1892 (W. Warde Fowler); the OCR misreads FOWLER"
+  },
+  "warde-fowler-roman-essays-1920": {
+   "author": "title page OCRs the author as 'W: WARDE FOWLER M.A.' (Oxford: Clarendon Press, 1920)"
   }
  }
 }
