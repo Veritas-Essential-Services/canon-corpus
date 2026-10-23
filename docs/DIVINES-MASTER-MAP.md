@@ -47413,3 +47413,40 @@ Shelf: `pipeline/storytellers-tail-44_shelf.json` (2026-10-22; added at the coor
 | My New Curate | have | PG 20295, `pasheehan-my-new-curate` (2627 units) |
 | The "Twenty-Seventh" | have | PG 61312, `wdsheldon-twenty-seventh` (409 units) |
 | My dear Cornelia | have | PG 71050, `spsherman-my-dear-cornelia` (801 units) |
+
+## Storytellers' tail, group 45 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-45_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Livingston Robert Shewell, William Simpson, Florence Alice Sitwell, John Sherburne Sleeper, John A. Sloan, Hawley Smart, Alice Prescott Smith, Arthur Cosslett Smith, Elizabeth Oakes Prince Smith, F. Clifford Smith, Gustavus Woodson Smith, Harry James Smith, Horace Smith, Jeanie Oliver Davidson Smith, John Talbot Smith, Thomas Smith, Thorne Smith, William Hawley Smith, Clifford Smyth, E. Louise Smythe, Charles O. Solberg, Charles Somerville, Henry S. Spalding, Phebe Estelle Spalding, Andrew Learmont Spedon, Erle Spencer, M. H. Spielmann, Alfred St. Johnston, F. St. Mars, Clinton H. Stagg. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The shadows of a great city: A romantic story | have | PG 69224, `lrshewell-shadows-of-a-great-city` (1413 units) |
+| The Man from Mars: His Morals, Politics and Religion | have | PG 56979, `wsimpson-man-from-mars` (298 units) |
+| Daybreak: A Story for Girls | have | PG 20260, `fasitwell-daybreak` (186 units) |
+| Jack in the Forecastle; or, Incidents in the Early Life of Hawser Martingale | have | PG 8638, `jssleeper-jack-in-the-forecastle` (1580 units) |
+| Reminiscences of the Guilford Grays, Co. B., 27th N.C. Regiment | have | PG 44124, `jasloan-reminiscences-of-the-guilford-grays-co-b-27th-n-c-re` (565 units) |
+| Belles and Ringers | have | PG 20529, `hsmart-belles-and-ringers` (721 units) |
+| Montlivet | have | PG 16733, `apsmith-montlivet` (2320 units) |
+| The Turquoise Cup, and, the Desert | have | PG 10608, `acsmith-turquoise-cup-and-the-desert` (885 units) |
+| The Sagamore of Saco | have | PG 56007, `eopsmith-sagamore-of-saco` (1127 units) |
+| A Lover in Homespun And Other Stories | have | PG 16860, `fcsmith-lover-in-homespun-and-other-stories` (810 units) |
+| Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war | have | PG 31113, `gwsmith-company-a-corps-of-engineers-u-s-a-1846-48-in-the-me` (357 units) |
+| Cape Breton Tales | have | PG 44257, `hjsmith-cape-breton-tales` (629 units) |
+| Interludes being Two Essays, a Story, and Some Verses | have | PG 17065, `hsmith-interludes-being-two-essays-a-story-and-some-verses` (541 units) |
+| The Story of Zephyr: A Christmas Story | have | PG 67255, `jodsmith-story-of-zephyr` (99 units) |
+| The Art of Disappearing | have | PG 27925, `jtsmith-art-of-disappearing` (2416 units) |
+| The Life of a Fox, Written by Himself | have | PG 58769, `tsmith-life-of-a-fox-written-by-himself` (237 units) |
+| Biltmore Oswald | have | PG 16634, `tsmith-biltmore-oswald` (816 units) |
+| The Evolution of "Dodd" A pedagogical story giving his struggle for the survival of the fittest, tracing his chances, his changes, and how he came out | have | PG 13398, `whsmith-evolution-of-dodd-a-pedagogical-story-giving-his-str` (804 units) |
+| The Gilded Man: A Romance of the Andes | have | PG 42699, `csmyth-gilded-man` (1766 units) |
+| A primary reader | have | PG 7841, `elsmythe-primary-reader` (651 units) |
+| Blind Tim, and other Christmas stories written for children | have | PG 72713, `cosolberg-blind-tim-and-other-christmas-stories-written-for` (412 units) |
+| The Shriek: A Satirical Burlesque | have | PG 40934, `csomerville-shriek` (1088 units) |
+| The Cave by the Beech Fork: A Story of Kentucky—1815 | have | PG 36042, `hsspalding-cave-by-the-beech-fork` (1429 units) |
+| The Tahquitch Maiden: A Tale of the San Jacintos | have | PG 61577, `pespalding-tahquitch-maiden` (89 units) |
+| The Black-Sealed Letter Or, The Misfortunes of a Canadian Cockney. | have | PG 18514, `alspedon-black-sealed-letter-or-the-misfortunes-of-a-canadia` (424 units) |
+| Contraband: A Tale of Modern Smugglers | have | PG 67826, `espencer-contraband` (1065 units) |
+| The Rainbow Book: Tales of Fun & Fancy | have | PG 37455, `mhspielmann-rainbow-book` (1552 units) |
+| In Quest of Gold; Or, Under the Whanga Falls | have | PG 42829, `astjohnston-in-quest-of-gold` (1357 units) |
+| The Way of the Wild | have | PG 17567, `fstmars-way-of-the-wild` (1273 units) |
+| Thornley Colton | have | PG 78643, `chstagg-thornley-colton` (2433 units) |
