@@ -11747,3 +11747,26 @@ Slugs `wjmann-*`. Built from title pages read for round 54.
 | Lutheranism in America: An Essay on the Present Condition of the Lutheran (Lindsay & Blakiston, 1857) | have-ocr | IA `lutheranisminam00manngoog` |
 | Life and times of Henry Melchior Muhlenberg. By William J. Mann (Philadelphia, G. W. Frederick, 1887) | have-ocr | IA `lifetimesofhenry00mannrich` |
 | German-language works (Heilsbotschaft sermons, Die gute alte Zeit in Pennsylvanien, Muhlenbergs Leben, Ein Aufgang im Abendland, Leben William Penns): pending Adam's ruling on non-English works | pending | not shelved |
+
+## B. M. Palmer (round 54, my pick, 2026-10-23)
+
+Slugs `bmpalmer-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| Baconianism and the Bible: an address delivered before the Eumenean and Philanthropic Societies of Davidson College, N.C. August 11, 1852 (Columbia, S.C.: A.S. Johnston, 1852) | have-ocr | IA `baconianismbible00palm` |
+| Christianity, the only religion for man : a discourse delivered before the graduating class of the University of North Carolina, June 4, 1855 ([S.l. : s.n.], 1855) | have-ocr | IA `christianityonly00palm` |
+| The South: her peril, and her duty. A discourse (New Orleans, Printed at the office of the True witness and sentinel, 1860) | have-ocr | IA `southherperilher00palm` |
+| A vindication of secession and the South from the strictures of Rev. R. J. Breckinridge ... in the Danville Quarterly Review (Columbia, S. C., Southern Guardian Steam-Power Press, 1861) | have-ocr | IA `vindicationofsec00palm` |
+| A discourse commemorative of the life, character, and genius of the late Rev. J. H. Thornwell (Columbia, S. C., Southern Guardian, 1862) | have-ocr | IA `discoursecommemo00palm` |
+| The oath of allegiance to the United States ([S.l. : s.n.], 1863) | have-ocr | IA `oathofallegiance01palm` |
+| The life and letters of James Henley Thornwell (Richmond : Whittet & Shepperson, 1875) | have-ocr | IA `lifelettersofjam00palm` |
+| Weekly publication containing sermons by Rev. B.M. Palmer, Volume 1 (catalogued 1875) | have-ocr | IA `sermons-by-rev.-b.-m.-palmer-volume-1-1875` |
+| The family in its civil and churchly aspects; an essay in two parts (Richmond : Richmond Presbyterian Committee of Publication, 1876) | have-ocr | IA `familyinitscivil00palm` |
+| Formation of character. Twelve lectures delivered in the first Presbyterian church, New Orleans, La (New Orleans, Religious book depository, 1889) | have-ocr | IA `formationofchara00palm` |
+| The broken home ; or, Lessons in sorrow (New Orleans : E.S. Upton, 1891) | have-ocr | IA `brokenhomeorless00palm` |
+| Theology of prayer, as viewed in the religion of nature and in the system of grace (Richmond, Va. : Presbyterian Committee of Publication, 1894) | have-ocr | IA `theologyofprayer0000bmpa` |
+| The threefold fellowship and the threefold assurance: an essay in two parts (Richmond, Va. : The Presbyterian committee of publication, 1902) | have-ocr | IA `threefoldfellows00palm` |
+| Benjamin Morgan Palmer (1781-1847), his uncle, pastor of the Independent or Congregational Church, Charleston: The Dejected Christian Encouraged (1816), Importance of the Ministerial Office (1820), The Upright Character (1822), A Plain and Easy Catechism (1828) are the uncle's | excluded | |
+| Temperance Teachings of Science (1886) and the medical reports are by other Palmers | excluded | |
+| theology-of-prayer: a 1980 Sprinkle Publications reprint with a new preface still in copyright; the 1894 printing is shelved instead | excluded | |

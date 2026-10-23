@@ -6967,6 +6967,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:15:00-05:00",
       "notes": "Confessional Lutheran, Philadelphia; German-language works pending Adam. 0 uids minted."
+    },
+    {
+      "id": "b-m-palmer",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:15:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:15:13-05:00",
+      "notes": "New Orleans Presbyterian; his uncle of the same name kept apart; Theology of Prayer is the 1894 printing, not the 1980 reprint. 0 uids minted."
     }
   ]
 }
