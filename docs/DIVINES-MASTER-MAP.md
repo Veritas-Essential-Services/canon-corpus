@@ -12258,6 +12258,18 @@ Slugs `mgpearse-*`. Built from title pages read for round 58.
 | The gentleness of jesus (Horace Marshall & Son, 1898) | have-ocr | IA `gentlenessofjesu0000mark` |
 | The god of our pleasures (catalogued 1898) | have-ocr | IA `godofourpleasure0000mark` |
 | Egerton Young's By Canoe and Dog-Train (he only introduced it); the Thompson memoir (another author); a Gaelic tract | excluded | |
+
+## Joseph Angus (round 58, my pick, 2026-10-23)
+
+Slugs `angus-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The voluntary system: a prize essay, in reply to the lectures of Dr. Chalmers on church establishments (London, Jackson and Walford, 1839) | have-ocr | IA `voluntarysystemp00angu` |
+| Christ our life: in its origin, law, and end (Philadelphia, American Baptist publication society, 1853) | have-ocr | IA `christourlifeini00angu` |
+| The Bible hand-book : an introduction to the study of Sacred Scripture (Philadelphia : W.S. & A. Martien, 1857) | have-ocr | IA `biblehandbookint00angu_0` |
+| Apostolic missions, the gospel for every creature : a sermon first preached before the Baptist Missionary Society, April 26, 1871 (London : James Nisbet & Co., 1871) | have-ocr | IA `apostolicmission00angu` |
+| His editions of Butler's Analogy (Butler's book); his Handbooks of the English Tongue and of English Literature (not divinity); Welsh and Italian translations of the Bible Hand-book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

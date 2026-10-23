@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain Joseph Angus (1816-1902), Baptist minister and president of Stepney (later Regent's Park) College, for the Word Hoard: The Voluntary System (1839), Christ our Life (1853), The Bible Hand-book (1857 printing) and Apostolic Missions (1871), from Internet Archive scans. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "angus"
+ ],
+ "_surname": [
+  "joseph angus",
+  "j. angus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "angus-voluntary-system": [
+   "voluntarysystemp00angu",
+   "The voluntary system: a prize essay, in reply to the lectures of Dr. Chalmers on church establishments (London, Jackson and Walford, 1839)"
+  ],
+  "angus-christ-our-life": [
+   "christourlifeini00angu",
+   "Christ our life: in its origin, law, and end (Philadelphia, American Baptist publication society, 1853)"
+  ],
+  "angus-bible-handbook": [
+   "biblehandbookint00angu_0",
+   "The Bible hand-book : an introduction to the study of Sacred Scripture (Philadelphia : W.S. & A. Martien, 1857)"
+  ],
+  "angus-apostolic-missions": [
+   "apostolicmission00angu",
+   "Apostolic missions, the gospel for every creature : a sermon first preached before the Baptist Missionary Society, April 26, 1871 (London : James Nisbet & Co., 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "angus-other": "His editions of Butler's Analogy (Butler's book); his Handbooks of the English Tongue and of English Literature (not divinity); Welsh and Italian translations of the Bible Hand-book"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "angus-voluntary-system": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph angus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "angus-christ-our-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph angus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "angus-bible-handbook": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph angus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "angus-apostolic-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph angus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
