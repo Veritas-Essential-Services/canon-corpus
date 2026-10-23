@@ -382,3 +382,5 @@
 - 2026-10-23T01:42-05:00: Round 152: Eleanor Stimson Brooks +3, Ellen Frothingham +1, Emily Hill +1, F. A. Holt +2; 2 pending (undated); 0 mismatched, 0 rights flags.
 
 - 2026-10-23T01:51-05:00: Round 153: archive.org sweep fe-cox..freese. +15 titles (florence-simmonds +6, frances-hoey +5, frederic-whyte +3, fitzwater-wray +1); 3 held undated; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:57-05:00: Round 154: archive.org sweep friedlaender..guest. +8 titles (guerney +3, gilbert-cannan +2, gillies +1, gorfinkle +1, greenstreet +1); 2 held; 0 mismatched, 0 rights flags.

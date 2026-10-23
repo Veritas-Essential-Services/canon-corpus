@@ -22958,7 +22958,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## R. P. Gillies (Hoffmann's Devil's Elixir; Fouqué's Magic Ring)
 
 Shelf: `pipeline/gillies_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gillies` · titles `python3 pipeline/split_shelf_titles.py gillies`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 154 (2026-10-23) added German Stories vol. I from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22967,6 +22967,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `gillies-motte-fouque-the-magic-ring-vol-1-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 1 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77097 |
 | `gillies-motte-fouque-the-magic-ring-vol-2-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 2 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77098 |
 | `gillies-motte-fouque-the-magic-ring-vol-3-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 3 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77099 |
+| `gillies-german-stories-1` | Hoffmann, La Motte Fouqué, Pichler, Kruse and others | German Stories, vol. I of 3 | R. P. Gillies | 1826 | have-raw | IA `germanstories121gill` |
 
 ## Christina Tyrrell (E. Werner)
 
@@ -23158,7 +23159,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Gilbert Cannan (Rolland's Jean-Christophe)
 
 Shelf: `pipeline/gilbert-cannan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gilbert-cannan` · titles `python3 pipeline/split_shelf_titles.py gilbert-cannan`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 154 (2026-10-23) added Heine's Memoirs, 2 vols, from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23166,6 +23167,8 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `gilbert-cannan-rolland-jean-christophe-in-paris-the-market-plac` | Romain Rolland | Jean-Christophe in Paris: The Market-Place, Antoinette, the House | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 8149 |
 | `gilbert-cannan-rolland-jean-christophe-journey-s-end` | Romain Rolland | Jean-Christophe Journey's End | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 7967 |
 | `gilbert-cannan-rolland-jean-christophe-volume-i` | Romain Rolland | Jean-Christophe, Volume I | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 7979 |
+| `gilbert-cannan-heine-memoirs-1` | Heinrich Heine (ed. Gustav Karpeles) | Heinrich Heine's Memoirs, from his Works, Letters, and Conversations, vol. I | Gilbert Cannan | 1910 | have-raw | IA `heinrichheinesme00heinuoft` |
+| `gilbert-cannan-heine-memoirs-2` | Heinrich Heine (ed. Gustav Karpeles) | Heinrich Heine's Memoirs, from his Works, Letters, and Conversations, vol. II | Gilbert Cannan | 1910 | have-raw | IA `heinrichheinesme02heinuoft` |
 
 ## Ludwig Lewisohn (Wassermann, Sudermann)
 
@@ -23458,13 +23461,18 @@ Round 29 (2026-10-10), vetoable. Round 153 (2026-10-23) added six from archive.o
 ## Bernard Guilbert Guerney (Bunin; Kuprin's Sulamith and Yama)
 
 Shelf: `pipeline/guerney_shelf.json` · fetch `python3 pipeline/fetch_shelf.py guerney` · titles `python3 pipeline/split_shelf_titles.py guerney`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 154 (2026-10-23) added three from archive.org; Leonardo (undated printing) and Bystander (1930) held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `guerney-bunin-the-dreams-of-chang-and-other-stories` | Ivan Alekseevich Bunin | The dreams of Chang and other stories | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 78224 |
 | `guerney-kuprin-sulamith-a-romance-of-antiquity` | A. I. (Aleksandr Ivanovich) Kuprin | Sulamith: A Romance of Antiquity | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 33444 |
 | `guerney-kuprin-yama-the-pit-a-novel-in-three-parts` | A. I. (Aleksandr Ivanovich) Kuprin | Yama [The Pit], a Novel in Three Parts | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 4706 |
+| `guerney-kuprin-gambrinus-and-other-stories` | Alexandre Kuprin | Gambrinus and Other Stories | Bernard Guilbert Guerney | 1925 | have-raw | IA `bwb_S0-BQD-561` |
+| `guerney-merezhkovsky-the-menace-of-the-mob` | Dmitri Merejkovski | The Menace of the Mob | Bernard Guilbert Guerney | 1921 | have-raw | IA `menaceofmob00mere` |
+| `guerney-merezhkovsky-the-death-of-the-gods` | Dmitri Merejkowski | The Death of the Gods (Julian the Apostate) | Bernard Guilbert Guerney | 1929 | have-raw | IA `bwb_S0-DQT-469` |
+| `guerney-merezhkovsky-romance-of-leonardo` | Dmitri Merejkowski | The Romance of Leonardo da Vinci (Modern Library; copyright 1928, printing undated) | Bernard Guilbert Guerney | 1928? | pending | — |
+| `guerney-gorky-bystander` | Maxim Gorky | Bystander (Literary Guild, 1930) | Bernard Guilbert Guerney | 1930 | pending | — |
 
 ## Else C. M. Benecke (three volumes of Polish tales; the Chronicle of Dino Compagni, with A. G. Ferrers Howell)
 
@@ -24009,11 +24017,12 @@ Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## W. J. Greenstreet (Dastre's Life and Death)
 
 Shelf: `pipeline/greenstreet_shelf.json` · fetch `python3 pipeline/fetch_shelf.py greenstreet` · titles `python3 pipeline/split_shelf_titles.py greenstreet`.
-Round 31 (2026-10-10), vetoable. His Poincaré is pending (PDF only on Gutenberg). Not converted to unit-id JSON; **no uids minted**.
+Round 31 (2026-10-10), vetoable. His Poincaré is pending (PDF only on Gutenberg). Round 154 (2026-10-23) added Rignano from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `greenstreet-dastre-life-and-death` | A. (Albert) Dastre | Life and death | W. J. Greenstreet | 1905-1911 (see the Gutenberg header) | have | PG 65699 |
+| `greenstreet-rignano-essays-in-scientific-synthesis` | Eugenio Rignano | Essays in Scientific Synthesis | W. J. Greenstreet | 1918 | have-raw | IA `scientificsynth00rigniala` |
 | `pg-37157` | — | Poincaré's Science and Hypothesis: Gutenberg publishes it only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan. | — | — | pending | — |
 
 ## Patrick James Stirling (Bastiat's Economic Sophisms; Harmonies)
@@ -25776,11 +25785,12 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Joseph I. Gorfinkle's Pirke Avot
 
 Shelf: `pipeline/gorfinkle_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gorfinkle` · titles `python3 pipeline/split_shelf_titles.py gorfinkle`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 154 (2026-10-23) added the Eight Chapters of Maimonides from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `gorfinkle-pirke-avot-the-sayings-of-the-jewish-fat` | the Mishnah (tractate Avot) | Pirke Avot: The Sayings of the Jewish Fathers | Joseph I. Gorfinkle | 1913 (see the Gutenberg header) | have | PG 8547 |
+| `gorfinkle-maimonides-eight-chapters-on-ethics` | Moses Maimonides | The Eight Chapters of Maimonides on Ethics (Shemonah Perakim) | Joseph I. Gorfinkle | 1912 | have-raw | IA `cu31924029203119` |
 | — | — | pg-8548: Another Gutenberg file of the same translation: duplicate, not shelved. | — | — | excluded | — |
 
 ## Sir Home Gordon's Faguet
