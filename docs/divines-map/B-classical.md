@@ -10347,3 +10347,12 @@ Shelf: `pipeline/john-marshall-classicist_shelf.json`. A Short History of Greek 
 |---|---|---|---|
 | A Short History of Greek Philosophy (London: Percival, 1891) |  | `marshall-short-history-greek-philosophy-1891` | have-raw (IA `ashorthistoryofg00marsuoft`) |
 
+
+## Lauchlan MacLean Watt (1867-1957)
+
+Shelf: `pipeline/lauchlan-maclean-watt_shelf.json`. Attic and Elizabethan Tragedy (London: Dent, 1908). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Attic and Elizabethan Tragedy (London: Dent, 1908) |  | `watt-attic-elizabethan-tragedy-1908` | have-raw (IA `atticandelizabe02wattgoog`) |
+
