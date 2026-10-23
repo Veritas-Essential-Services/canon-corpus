@@ -1,5 +1,5 @@
 {
- "_about": "David Binning Monro (1836-1905), Provost of Oriel. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Modes of Ancient Greek Music, clean Gutenberg. No uids minted. A Grammar of the Homeric Dialect, second edition (Clarendon Press, 1891), and Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Clarendon Press, MDCCCCI), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; raw IA.",
+ "_about": "David Binning Monro (1836-1905), Provost of Oriel. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Modes of Ancient Greek Music, clean Gutenberg. No uids minted. A Grammar of the Homeric Dialect, second edition (Clarendon Press, 1891), and Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Clarendon Press, MDCCCCI), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; raw IA. Round dy (2026-10-23), raw IA: his school Iliad, Book I with the essay on Homeric grammar (1878) and the two-volume Iliad (Books I-XII, fourth edition 1894; Books XIII-XXIV, fourth edition 1897), taken in those dated issues rather than the 1928-29 Oxford impressions.",
  "_name_words": [
   "monro"
  ],
@@ -23,6 +23,18 @@
   "monro-odyssey-xiii-xxiv-1901": [
    "homersodyssey00homeiala",
    "Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Oxford: Clarendon Press, MDCCCCI); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "monro-iliad-i-homeric-grammar-1878": [
+   "iliadbook1withes00homeuoft",
+   "Homer, Iliad, Book I, with an essay on Homeric grammar and notes (Clarendon Press Series; Oxford: at the Clarendon Press, 1878); Greek text with English essay and notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "monro-iliad-i-xii-1894": [
+   "homeriliadbooksi00home",
+   "Homer, Iliad, Books I-XII, with an introduction, a brief Homeric grammar, and notes, fourth edition, revised (Oxford: at the Clarendon Press, 1894); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "monro-iliad-xiii-xxiv-1897": [
+   "homeriliadbooksx00home",
+   "Homer, Iliad, Books XIII-XXIV, with notes, fourth edition, revised (Oxford: at the Clarendon Press, 1897); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
@@ -56,6 +68,44 @@
    "ia_date": "1901",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "monro-iliad-i-homeric-grammar-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monro-iliad-i-xii-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "monro-iliad-xiii-xxiv-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "monro-iliad-xiii-xxiv-1897": {
+   "author": "title page OCR 'BY We ΟΝ WE. PROVOST OF ORIEL COLLEGE, OXFORD' (D. B. Monro was Provost of Oriel; vol. II of the Iliad edition whose vol. I, homeriliadbooksi00home, reads 'MONRO')"
   }
  }
 }
