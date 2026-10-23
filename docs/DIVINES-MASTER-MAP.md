@@ -17629,6 +17629,24 @@ Slugs `rcooney-*`. Built from title pages read for round 116.
 | The judgment seat of Christ : a sermon preached in the Wesleyan Chapel at Guysborough, on Sunday 7th of January, 1838 ([Halifax, N.S.? : s.n.], 1838) | have-ocr | IA `cihm_58245` |
 | The Lord is on our side : a sermon, delivered in the Wesleyan Chapel, Odelltown, on Saturday, November 9, 1839 : being the first anniversary of the battle, fought at the above place, between the insurgents and the loyal volunteers ([Montreal : s.n.], 1840) | have-ocr | IA `cihm_58246` |
 | The autobiography of a Wesleyan Methodist missionary, (formerly a Roman Catholic) : containing an account of his conversion from Romanism, and his reception into the Wesleyan ministry ; also, reminiscences of nearly twenty-five years' itinerancy in the North American provinces, 1st thousand (Montreal : E. Pickup, 1856) | have-ocr | IA `autobiographyofw0000coon` |
+
+## Henry Scadding (round 116, my pick, 2026-10-23)
+
+Slugs `scadding-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| A memorial of the Reverend William Honywood Ripley, Bachelor of Arts of University College ... of the Diocese of Toronto : (being, with additions and notes, the sermon preached in Trinity Church ... the 21st Sunday after Trinity, and the Festival of St. Simon and St. Jude, October the 28th, 1849) ([Toronto? : s.n.], 1849) | have-ocr | IA `cihm_40663` |
+| Cleanliness akin to Godliness ([Toronto? : s.n.], 1850) | have-ocr | IA `cihm_50682` |
+| A dead Christendom reviving : a lecture delivered in the Church of the Holy Trinity, Toronto, on the day of public thanksgiving for the restoration of peace, (Wednesday, June 4th, 1856) (Toronto : Maclear, 1856) | have-ocr | IA `cihm_34371` |
+| English civilization undemonstrative : the address to the St. George's Society, in the Cathedral of St. James, Toronto, April 23rd, 1860 (Toronto : Rowsell & Hutchinson, 1860) | have-ocr | IA `englishcivilizat00scad` |
+| Christian pantheism : an address on Thanksgiving Day, 1865 (Toronto : Rollo & Adam, 1865) | have-ocr | IA `christianpanthei00scad` |
+| Truth's resurrections : a memorial of Easter, 1865 (Toronto : Rollo & Adam, 1865) | have-ocr | IA `cihm_36158` |
+| The first bishop of Toronto : a review and a study (Toronto : W. C. Chewett, 1868) | have-ocr | IA `firstbishopoftor00scad` |
+| To the choirs of the church and parish of the Holy Trinity, Toronto ([Toronto? : s.n.], 1871) | have-ocr | IA `cihm_28774` |
+| On a sung service and its appurtenances : a lecture, delivered on the occasion of the first use of the organ, after reconstruction, in the Church of the Holy Trinity, Toronto, October 27, 1874 ([S.l. : s.n., 1874) | have-ocr | IA `cihm_13244` |
+| Toronto of old; collections and recollections illustrative of the early settlement and social life of the capital of Ontario (Toronto, Adam, Stevenson & co., 1873) | have-ocr | IA `torontoofoldcoll00scadrich` |
+| His many short antiquarian, numismatic and local-history papers are left to another lane; books he only owned or introduced (Pope, Horace, Franklin, Traill) are not his | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
