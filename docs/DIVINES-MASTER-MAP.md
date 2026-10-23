@@ -42940,3 +42940,17 @@ Shelf: `pipeline/lurana-sheldon_shelf.json` (2026-10-22; added at the coordinato
 | My Queen: A Weekly Journal for Young Women. Issue 4, October 20, 1900 Marion Marlowe's Noble Work; or, The Tragedy at the Hospital | have | PG 58021, `lsheldon-my-queen-58021` (710 units) |
 | My Queen: A Weekly Journal for Young Women. Issue 5, October 27, 1900 Marion Marlowe Entrapped; or, The Victim of Professional Jealousy | have | PG 58022, `lsheldon-my-queen-58022` (688 units) |
 | Death to the Inquisitive! A story of sinful love | have | PG 58387, `lsheldon-death-to-the-inquisitive-a-story-of-sinful-love` (742 units) |
+
+## William John Hopkins
+
+Shelf: `pipeline/william-john-hopkins_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doers | have | PG 27650, `wjhopkins-doers` (1117 units) |
+| The Sandman: His Sea Stories | have | PG 28748, `wjhopkins-sandman` (707 units) |
+| The Sandman: His Farm Stories | have | PG 36185, `wjhopkins-sandman-36185` (388 units) |
+| Concerning Sally | have | PG 37118, `wjhopkins-concerning-sally` (3155 units) |
+| The clammer and the submarine | have | PG 39456, `wjhopkins-clammer-and-the-submarine` (1027 units) |
+| She Blows! And Sparm at That! | have | PG 58028, `wjhopkins-she-blows-and-sparm-at-that` (1458 units) |
+| The clammer | have | PG 70399, `wjhopkins-clammer` (821 units) |

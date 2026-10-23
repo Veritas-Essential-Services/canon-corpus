@@ -5653,6 +5653,14 @@
       "started": "2026-10-22T23:10:52-05:00",
       "finished": "2026-10-22T23:10:52-05:00",
       "notes": "lurana-sheldon: new shelf, 7 Gutenberg books, 6,727 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-john-hopkins",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — William John Hopkins; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:08-05:00",
+      "finished": "2026-10-22T23:11:08-05:00",
+      "notes": "william-john-hopkins: new shelf, 7 Gutenberg books, 8,673 units, 1218 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
