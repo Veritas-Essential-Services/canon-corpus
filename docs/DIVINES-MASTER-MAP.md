@@ -14978,6 +14978,19 @@ Slugs `gurney-*`. Built from title pages read for round 88.
 | Thoughts on habit and discipline (Philadelphia : H. Longstreth, 1871) | have-ocr | IA `thoughtsonhabitd00gurn` |
 | papalhierarchica00gurn: the OCR never shows the author's name (title page garbled); needs a page-image check | pending | not shelved |
 | A Winter in the West Indies (travel letters to Henry Clay), the prison notes written with Elizabeth Fry, his anti-slavery speech and his Irish report; Braithwaite's Memoirs of Gurney (by another author) | excluded | |
+
+## James Meikle (round 88, my pick, 2026-10-23)
+
+Slugs `meikle-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Metaphysical maxims: or, thoughts on the nature of the soul, free will, and the divine prescience. By James Meikle, ...  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_metaphysical-maxims-or-_meikle-james_1797` |
+| The miscellaneous works of Mr. James Meikle, late surgeon in Carnwath (Edinburgh, Ogle & Aikman; London, R. Ogle; [etc., etc.], 1807) | have-ocr | IA `miscellaneouswor00meik` |
+| Solitude sweetened : or miscellaneous mediatations on various religious subjects written in distant parts of the world (New York : Printed for S. Dodge by Geo. Forman, 1811) | have-ocr | IA `solitudesweetene00meik` |
+| The traveller; or, Meditations on various subjects. Written on board a man of war. To which is added, Converse with the world unseen (Albany, E.Torrey and W.Seaver; E. & E. Hosford, printers, 1812) | have-ocr | IA `travellerormedit00meik` |
+| The select remains of Mr. James Meikle, late surgeon in Carnwath, or, Extracts from manuscripts found among his papers (Pittsburgh : R. Patterson & Lambdin, 1818) | have-ocr | IA `selectremainsofm00meik` |
+| The Nature of the Mediatorial Dispensation (1853), by Rev. James Meikle of Beith, a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
