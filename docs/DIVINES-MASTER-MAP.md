@@ -45235,3 +45235,76 @@ Shelf: `pipeline/storytellers-tail-04_shelf.json` (2026-10-22; added at the coor
 | Geoffery Gambado | have | PG 39115, `rcobbold-geoffery-gambado` (666 units) |
 | The History of Margaret Catchpole, a Suffolk Girl | have | PG 39326, `rcobbold-history-of-margaret-catchpole-a-suffolk-girl` (2460 units) |
 | Freston Tower | have | PG 76999, `rcobbold-freston-tower` (2104 units) |
+
+## Storytellers' tail, group 5 (22 authors)
+
+Shelf: `pipeline/storytellers-tail-05_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 22 authors with 3 Gutenberg texts each: Harry Coghill, E. Burke Collins, Matthew M. Colton, Nathaniel Conklin, Marvin Dana, J. Frank Davis, W. W. Denslow, Dowdall, Byron A. Dunn, J. Allan Dunn, Harry Stillwell Edwards, Alfred Elwes, Hal G. Evarts, William R. Eyster, Justus Miles Forman, Ellen Thorneycroft Fowler, Alexander Fraser, James A. Frye, Anna Fuller, Hugh S. Fullerton, Nathan Gallizier, Rosa M. Gilbert. Every English text under the name at Gutenberg that no other shelf holds (66 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Canadian Heroine, Volume 1 A Novel | have | PG 18002, `hcoghill-canadian-heroine-volume-1-a-novel` (1102 units) |
+| A Canadian Heroine, Volume 2 A Novel | have | PG 18122, `hcoghill-canadian-heroine-volume-2-a-novel` (1067 units) |
+| A Canadian Heroine, Volume 3 A Novel | have | PG 18132, `hcoghill-canadian-heroine-volume-3-a-novel` (1393 units) |
+| Her Dark Inheritance | have | PG 46363, `ebcollins-her-dark-inheritance` (1277 units) |
+| A bitter reckoning; | have | PG 70139, `ebcollins-bitter-reckoning` (1388 units) |
+| Lillian's vow | have | PG 76634, `ebcollins-lillian-s-vow` (1516 units) |
+| Frank Armstrong at College | have | PG 47966, `mmcolton-frank-armstrong-at-college` (1479 units) |
+| Frank Armstrong at Queens | have | PG 48848, `mmcolton-frank-armstrong-at-queens` (1450 units) |
+| Frank Armstrong, Drop Kicker | have | PG 48849, `mmcolton-frank-armstrong-drop-kicker` (1385 units) |
+| Miss Prudence: A Story of Two Girls' Lives. | have | PG 10322, `nconklin-miss-prudence` (3317 units) |
+| Tessa Wadsworth's Discipline: A Story of the Development of a Young Girl's Life | have | PG 37003, `nconklin-tessa-wadsworth-s-discipline` (3171 units) |
+| Growing Up: A Story of the Girlhood of Judith Mackenzie | have | PG 42408, `nconklin-growing-up` (2724 units) |
+| Within the Law: From the Play of Bayard Veiller | have | PG 905, `mdana-within-the-law` (2361 units) |
+| The Shooting of Dan McGrew, A Novel. Based on the Famous Poem of Robert Service | have | PG 36232, `mdana-shooting-of-dan-mcgrew-a-novel-based-on-the-famous-poe` (948 units) |
+| The Lake Mystery | have | PG 59790, `mdana-lake-mystery` (1122 units) |
+| Back home | have | PG 73567, `jfdavis-back-home` (133 units) |
+| Splashes of red | have | PG 73618, `jfdavis-splashes-of-red` (208 units) |
+| Conversation | have | PG 77793, `jfdavis-conversation` (63 units) |
+| Denslow's Three Bears | have | PG 19772, `wwdenslow-denslow-s-three-bears` (38 units) |
+| Denslow's Humpty Dumpty | have | PG 25883, `wwdenslow-denslow-s-humpty-dumpty` (49 units) |
+| Billy Bounce | have | PG 48537, `wwdenslow-billy-bounce` (2199 units) |
+| Three Loving Ladies | have | PG 67610, `dowdall-three-loving-ladies` (1603 units) |
+| Joking apart | have | PG 70958, `dowdall-joking-apart` (1048 units) |
+| The book of Martha | have | PG 71196, `dowdall-book-of-martha` (1061 units) |
+| Raiding with Morgan | have | PG 29786, `badunn-raiding-with-morgan` (1883 units) |
+| The Courier of the Ozarks | have | PG 35207, `badunn-courier-of-the-ozarks` (2339 units) |
+| General Nelson's Scout | have | PG 49529, `badunn-general-nelson-s-scout` (1902 units) |
+| A Man to His Mate | have | PG 28597, `jadunn-man-to-his-mate` (1366 units) |
+| Rimrock Trail | have | PG 28638, `jadunn-rimrock-trail` (2172 units) |
+| The gray god | have | PG 77501, `jadunn-gray-god` (366 units) |
+| Eneas Africanus | have | PG 33594, `hsedwards-eneas-africanus` (131 units) |
+| Sons and Fathers | have | PG 36112, `hsedwards-sons-and-fathers` (2758 units) |
+| Just sweethearts: A Christmas love story | have | PG 69685, `hsedwards-just-sweethearts` (460 units) |
+| The Adventures of a Dog, and a Good Dog Too | have | PG 20741, `aelwes-adventures-of-a-dog-and-a-good-dog-too` (202 units) |
+| The Adventures of a Bear, and a Great Bear Too | have | PG 28671, `aelwes-adventures-of-a-bear-and-a-great-bear-too` (156 units) |
+| The Adventures of a Cat, and a Fine Cat Too! | have | PG 32518, `aelwes-adventures-of-a-cat-and-a-fine-cat-too` (178 units) |
+| The Settling of the Sage | have | PG 18856, `hgevarts-settling-of-the-sage` (1597 units) |
+| The Yellow Horde | have | PG 25082, `hgevarts-yellow-horde` (389 units) |
+| Tumbleweeds | have | PG 72909, `hgevarts-tumbleweeds` (1332 units) |
+| Free Trapper's Pass; or, the Gold-seeker's Daughter! | have | PG 53422, `wreyster-free-trapper-s-pass` (437 units) |
+| Wild Nat, the Trooper; or, The Cedar Swamp Brigade | have | PG 65587, `wreyster-wild-nat-the-trooper` (712 units) |
+| The luckless trapper; or, The haunted hunter | have | PG 68371, `wreyster-luckless-trapper` (580 units) |
+| Jason: A Romance | have | PG 13261, `jmforman-jason` (1905 units) |
+| The Quest: A Romance | have | PG 43527, `jmforman-quest` (2034 units) |
+| The Island of Enchantment | have | PG 47723, `jmforman-island-of-enchantment` (288 units) |
+| The Farringdons | have | PG 19798, `etfowler-farringdons` (2174 units) |
+| Ten Degrees Backward | have | PG 57464, `etfowler-ten-degrees-backward` (1844 units) |
+| Concerning Isabel Carnaby | have | PG 74380, `etfowler-concerning-isabel-carnaby` (2865 units) |
+| Daughters of Belgravia; vol. 1 of 3 | have | PG 52243, `afraser-daughters-of-belgravia` (725 units) |
+| Daughters of Belgravia; vol. 2 of 3 | have | PG 52505, `afraser-daughters-of-belgravia-52505` (742 units) |
+| Daughters of Belgravia; vol. 3 of 3 | have | PG 52606, `afraser-daughters-of-belgravia-52606` (756 units) |
+| Fables of Field and Staff | have | PG 48545, `jafrye-fables-of-field-and-staff` (589 units) |
+| From Headquarters: Odd Tales Picked up in the Volunteer Service | have | PG 48821, `jafrye-from-headquarters` (552 units) |
+| The First regiment Massachusetts heavy artillery, United States volunteers, in the Spanish-American war of 1898 | have | PG 51510, `jafrye-first-regiment-massachusetts-heavy-artillery-united-s` (315 units) |
+| Peak and Prairie From a Colorado Sketch-book | have | PG 22231, `afuller-peak-and-prairie-from-a-colorado-sketch-book` (1715 units) |
+| A Venetian June | have | PG 23859, `afuller-venetian-june` (1084 units) |
+| A Bookful of Girls | have | PG 28538, `afuller-bookful-of-girls` (1150 units) |
+| Jimmy Kirkland and the Plot for a Pennant | have | PG 32044, `hsfullerton-jimmy-kirkland-and-the-plot-for-a-pennant` (1713 units) |
+| Jimmy Kirkland of the Cascade College Team | have | PG 62989, `hsfullerton-jimmy-kirkland-of-the-cascade-college-team` (1160 units) |
+| Tales of the turf | have | PG 75271, `hsfullerton-tales-of-the-turf` (362 units) |
+| The Hill of Venus | have | PG 39970, `ngallizier-hill-of-venus` (2738 units) |
+| The Sorceress of Rome | have | PG 43938, `ngallizier-sorceress-of-rome` (3335 units) |
+| Under the Witches' Moon: A Romantic Tale of Mediaeval Rome | have | PG 44827, `ngallizier-under-the-witches-moon` (4095 units) |
+| Hetty Gray; | have | PG 15538, `rmgilbert-hetty-gray` (1251 units) |
+| The Late Miss Hollingford | have | PG 18991, `rmgilbert-late-miss-hollingford` (493 units) |
+| Terry; Or, She ought to have been a Boy | have | PG 20492, `rmgilbert-terry` (657 units) |
