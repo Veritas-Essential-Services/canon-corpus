@@ -799,5 +799,68 @@
   "horace-baring-lyrics-1870": {
    "author": "title page read: 'THE LYRICS OF HORACE ... By THOMAS CHARLES BARING, M.A. ... RIVINGTONS ... MDCCCLXX'; the book names its author only as 'Horace', which the shelf's full-name surname list does not include"
   }
+ },
+ "perseus": {
+  "horace-perseus-smart-the-art-of-poetry-to-the-pisos": [
+   "phi0893.phi006.perseus-eng2",
+   "The Art of Poetry: To the Pisos",
+   "Christopher Smart",
+   "Translation published 1862: US public domain (in or before 1930). Perseus source line: Horace. The Works of Horace. Smart, Christopher, translator. Buckley, Theodoore Alois, editor. New York: Harper and Brothers, 1862."
+  ],
+  "horace-perseus-smart-satires": [
+   "phi0893.phi004.perseus-eng2",
+   "Satires",
+   "Christopher Smart",
+   "Translation published 1862: US public domain (in or before 1930). Perseus source line: Horace. The Works of Horace. Vol. II. Smart, Christopher, translator. Buckley, Theodoore Alois, editor. New York: Harper and Brothers, 1862."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "horace-perseus-smart-the-art-of-poetry-to-the-pisos": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0893.phi006.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Smart",
+   "author_seen": "horatius flaccus",
+   "source_years": [
+    1863
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0893/phi006/phi0893.phi006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "horace-perseus-smart-satires": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0893.phi004.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Smart",
+   "author_seen": "horatius flaccus",
+   "source_years": [
+    1863
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0893/phi004/phi0893.phi004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
