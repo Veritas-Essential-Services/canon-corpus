@@ -20796,6 +20796,19 @@ Shelf: `pipeline/j-s-reid_shelf.json`. Municipalities of the Roman Empire (1913)
 | M. Tulli Ciceronis Pro L. Cornelio Balbo Oratio ad Iudices, edited for schools and colleges (Cambridge: University Press, 1890); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-balbo-1890` | have-raw (IA `prolcorneliobalb00ciceuoft`) |
 | M. Tulli Ciceronis Pro T. Annio Milone ad Iudices Oratio, edited for schools and colleges, stereotyped edition (Cambridge: University Press, 1897); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-milone-1897` | have-raw (IA `protanniomilonea00cice`) |
 
+## Hubert Ashton Holden (1822-1896)
+
+Shelf: `pipeline/h-a-holden_shelf.json`. Cicero and Plutarch editions with English notes. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| M. Tulli Ciceronis De Officiis Libri Tres, with introduction, analysis and commentary, third edition (Cambridge: at the University Press, 1879); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-de-officiis-1879` | have-raw (IA `deofficiislibrit00cice_0`) |
+| M. Tulli Ciceronis Pro Gnaeo Plancio Oratio ad Iudices, edited with introduction and notes (Cambridge: University Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-pro-plancio-1891` | have-raw (IA `mtvlliciceronis01holdgoog`) |
+| M. Tulli Ciceronis Pro Publio Sestio Oratio ad Iudices, with introduction, critical and explanatory notes and indexes third edition (London and New York: Macmillan, 1889; first impression 1883); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-pro-sestio-1889` | have-raw (IA `propubliosestioo00ciceuoft`) |
+| Plutarch's Life of Themistocles, with introduction, critical and explanatory notes, indices and map, third edition (London and New York: Macmillan, 1892 on the title page; the OCR also shows 1907, perhaps a later impression); Greek text with English commentary, Greek-heavy, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-themistocles-1892` | have-raw (IA `lifethemistocle00holdgoog`) |
+| Plutarch's Life of Lucius Cornelius Sulla, with introduction, notes and lexicon (Cambridge: University Press, 1886); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-sulla-1886` | have-raw (IA `plutarchslifeofl00plut`) |
+| Plutarch's Life of Pericles, with introduction, critical and explanatory notes and indices (London: Macmillan, 1894); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-pericles-1894` | have-raw (IA `lifeofpericleswi00plut`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
