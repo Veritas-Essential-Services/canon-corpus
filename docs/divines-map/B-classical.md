@@ -9096,3 +9096,12 @@ Shelf: `pipeline/roy-c-flickinger_shelf.json`. The Greek theater, 1904 and 1918.
 | The Greek Theater and its Drama (Chicago, 1918) |  | `flickinger-greek-theater-drama-1918` | have-raw (IA `dli.ministry.02416`) |
 | Plutarch as a Source of Information on the Greek Theater (1904) |  | `flickinger-plutarch-greek-theater-1904` | have-raw (IA `plutarchasasour01flicgoog`) |
 
+
+## Ph.-E. Legrand (1866-1953)
+
+Shelf: `pipeline/ph-e-legrand_shelf.json`. The New Greek Comedy, tr. James Loeb (1917). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The New Greek Comedy (1917), tr. James Loeb |  | `legrand-new-greek-comedy-1917` | have-raw (IA `newgreekcomedy0000unse`) |
+
