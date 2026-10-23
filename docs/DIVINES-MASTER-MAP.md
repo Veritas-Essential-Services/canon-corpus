@@ -38802,3 +38802,28 @@ Shelf: `pipeline/georgie-sheldon_shelf.json` (2026-10-22; added at the coordinat
 | Brownie's triumph | have | PG 71118, `gsheldon-brownies-triumph` (3573 units) |
 | Wedded by fate | have | PG 76066, `gsheldon-wedded-by-fate` (3741 units) |
 | The lily of Mordaunt | have | PG 78682, `gsheldon-lily-of-mordaunt` (3291 units) |
+
+## Luis Senarens
+
+Shelf: `pipeline/luis-senarens_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dime-novel invention stories. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jack Wright and His Electric Stage; or, Leagued Against the James Boys | have | PG 22670, `lsenarens-jack-wright-and-his-electric-stage` (2572 units) |
+| Frank Reade and His Steam Horse | have | PG 49638, `lsenarens-frank-reade-and-his-steam-horse` (3004 units) |
+| Frank Reade, Jr., and his new steam man; or, the young inventor's trip to the far west | have | PG 53932, `lsenarens-frank-reade-jr-and-his-new-steam-man` (2284 units) |
+| Frank Reade Jr.'s Submarine Boat; or, to the North Pole Under the Ice. | have | PG 54073, `lsenarens-frank-reade-jr-s-submarine-boat` (1944 units) |
+| Frank Reade Jr.'s Air Wonder, The "Kite"; Or, A Six Weeks' Flight Over the Andes | have | PG 54256, `lsenarens-frank-reade-jr-s-air-wonder-the-kite` (1575 units) |
+| Frank Reade, Jr., and His Electric Ice Ship; or, Driven Adrift in the Frozen Sky. | have | PG 54629, `lsenarens-frank-reade-jr-and-his-electric-ice-ship` (1751 units) |
+| Frank Reade Jr. and His Engine of the Clouds Or, Chased Around the World in the Sky | have | PG 54648, `lsenarens-frank-reade-jr-and-his-engine-of-the-clouds-or-cha` (1969 units) |
+| The Sunken Isthmus; or, Frank Reade, Jr., in the Yucatan Channel. | have | PG 54654, `lsenarens-sunken-isthmus` (1457 units) |
+| The Galleon's Gold; or, Frank Reade, Jr.'s Deep Sea Search. | have | PG 54709, `lsenarens-galleons-gold` (1691 units) |
+| Frank Reade, Jr., Fighting the Terror of the Coast | have | PG 55374, `lsenarens-frank-reade-jr-fighting-the-terror-of-the-coast` (1711 units) |
+| The Transient Lake; or, Frank Reade, Jr.'s Adventures in a Mysterious Country | have | PG 55556, `lsenarens-transient-lake` (1577 units) |
+| Frank Reade, Jr.'s Search for the Silver Whale Or, Under the Ocean in the Electric "Dolphin" | have | PG 55562, `lsenarens-frank-reade-jr-s-search-for-the-silver-whale-or-un` (1808 units) |
+| Lost in the Atlantic Valley; Or, Frank Reade, Jr., and His Wonder, the "Dart" | have | PG 56058, `lsenarens-lost-in-the-atlantic-valley` (1831 units) |
+| From Zone to Zone Or, The Wonderful Trip of Frank Reade, Jr., with His Latest Air-Ship | have | PG 56062, `lsenarens-from-zone-to-zone-or-the-wonderful-trip-of-frank-r` (1716 units) |
+| The Abandoned Country; or, Frank Reade, Jr., Exploring a New Continent. | have | PG 56198, `lsenarens-abandoned-country` (1526 units) |
+| Frank Reade, Jr., With His New Steam Man in Central America | have | PG 66206, `lsenarens-frank-reade-jr-with-his-new-steam-man-in-central-a` (1542 units) |
+| Frank Reade, Jr., with his new steam horse in the great American desert or, The sandy trail of death | have | PG 68067, `lsenarens-frank-reade-jr-with-his-new-steam-horse-in-the-gre` (1552 units) |
+| Frank Reade, Jr., with his new steam man in Mexico or, hot work among the greasers | have | PG 68349, `lsenarens-frank-reade-jr-with-his-new-steam-man-in-mexico-or` (1635 units) |
