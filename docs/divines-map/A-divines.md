@@ -18515,3 +18515,20 @@ Slugs `cramp-*`. Built from title pages read for round 124.
 | counciltrentabr00cramgoog, an abridgement by another hand | excluded | |
 | the botanical Annales and the Society of Arts journal are not his | excluded | |
 | reformationineur0000cram and centenaryofbapti00cram (its OCR lacks the title page) are second scans | excluded | |
+
+## Benjamin B. Wisner (round 125, my pick, 2026-10-23)
+
+Slugs `wisner-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon occasioned by the death of Mrs. Miriam Phillips, consort of His Honor William Phillips, delivered on the 18th of May, being the Sabbath after the funeral (Cambridge : Printed by Hilliard & Metcalf, 1823) | have-ocr | IA `sermonoccasioned00wisn` |
+| Memoirs of the late Mrs. Susan Huntington, of Boston, Mass., consisting principally of extracts from her journal and letters; with the sermon occasioned by her death (Boston, Crocker & Brewster, 1826) | have-ocr | IA `memoirsoflatemrs00wisn` |
+| A sermon occasioned by the death of the Hon. William Phillips : preached on the third of June, 1827, being the Sabbath after the funeral (Boston : Hilliard, Gray, Little, and Wilkins, 1827) | have-ocr | IA `sermonoccasioned01wisn` |
+| The proper mode of conducting missions to the heathen : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, November 5, 1829 (Boston : Putnam & Hunt, 1829) | have-ocr | IA `propermodeofcond00wisn` |
+| The history of the Old South Church in Boston : in four sermons, delivered May 9, & 16, 1830, being the first and second Sabbaths after the completion of a century from the first occupancy of the present meeting house (Boston : Crocker & Brewster, 47, Washington Street, 1830) | have-ocr | IA `historyofoldsout0000wisn` |
+| Benefits and claims of sabbath schools. A sermon delivered in the Old South Church, in Boston, on the morning and afternoon of the sabbath, January 17, 1830 (Boston [Mass.] : Perkins & Marvin .., 1830) | have-ocr | IA `benefitsclaimsof00wisn` |
+| Influence of religion on liberty. A discourse in commemoration of the landing of the Pilgrims, delivered at Plymouth, December 22, 1830 (Boston : Perkins & Marvin, 1831) | have-ocr | IA `influenceofrelig00wisn` |
+| two short manuscript letters | excluded | |
+| cihm_42798, a second scan of the missions sermon | excluded | |
+| the Pentateuch studies are by Benjamin Wisner Bacon; the Hanover Church review is by Lyman Beecher | excluded | |

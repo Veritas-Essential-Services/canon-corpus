@@ -10414,6 +10414,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:08:04-05:00",
       "notes": "Acadia Baptist. Text-Book of Popery, Council of Trent, Reformation, Canadian addresses."
+    },
+    {
+      "id": "a-benjamin-b-wisner",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "Old South Church, Boston. Seven sermons and memoirs."
     }
   ]
 }
