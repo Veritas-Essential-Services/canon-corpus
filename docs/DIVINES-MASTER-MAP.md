@@ -13742,6 +13742,24 @@ Slugs `thorold-*`. Built from title pages read for round 75.
 | On money (N.Y. : Dodd, Mead and co., 1896) | have-ocr | IA `onmoneythorold00thoriala` |
 | On Letter Writing (Isbister & company , limited, 1896) | have-ocr | IA `onletterwriting00thorgoog` |
 | diocesan charges and pastoral letters under about 120 pages; Selections from the Works of Bishop Thorold (1898, compiled by others) | excluded | |
+
+## Francis Paget (round 75, my pick, 2026-10-23)
+
+Slugs `paget-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| Concerning spiritual gifts, 3 addresses, together with a sermon (catalogued 1881) | have-ocr | IA `concerningspiri00pagegoog` |
+| The redemption of work, addresses (catalogued 1882) | have-ocr | IA `redemptionworka00pagegoog` |
+| Faculties and difficulties for belief and disbelief (London : Rivingtons, 1889) | have-ocr | IA `facultiesdifficu00page_0` |
+| The spirit of discipline, sermons preached by Francis Paget (London : Longmans, Green, 1891) | have-ocr | IA `spiritofdiscipli00pageiala` |
+| The Hallowing of Work: Addresses Given at Eton January 16-18, 1888 (Longmans Green, 1892) | have-ocr | IA `hallowingworkad00pagegoog` |
+| Studies in the Christian character : sermons : with an introductory essay (London ; New York : Longmans, Green, 1895) | have-ocr | IA `studiesinchristi00page` |
+| An introduction to the fifth book of Hooker's treatise Of the laws of ecclesiastical polity (Clarendon Press - Oxford, 1899) | have-ocr | IA `introductiontofi0000fran` |
+| Christ the way : four addresses (London ; New York : Longmans, Green, 1902) | have-ocr | IA `christwayfouradd0000page` |
+| single sermons of under 40 pages; the Life and Letters of Dean Church (1894, edited by Mary C. Church, Paget wrote the preface); other men named Francis Paget | excluded | |
+| helpsandhindran00pagegoog: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
+| plainvillageserm0001fran: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

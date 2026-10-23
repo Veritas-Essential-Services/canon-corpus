@@ -1,0 +1,152 @@
+{
+ "_about": "Public-domain Francis Paget (1851-1911), Dean of Christ Church and Bishop of Oxford, for the Word Hoard: Concerning Spiritual Gifts (1881), The Redemption of Work (1882), Faculties and Difficulties for Belief and Disbelief (1889), The Spirit of Discipline (1891), The Hallowing of Work (1892), Studies in the Christian Character (1895), An Introduction to the Fifth Book of Hooker's Ecclesiastical Polity (1899), and Christ the Way (1902). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 75 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "paget"
+ ],
+ "_surname": [
+  "francis paget",
+  "f. paget",
+  "bishop of oxford",
+  "dean of christ church"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "paget-spiritual-gifts": [
+   "concerningspiri00pagegoog",
+   "Concerning spiritual gifts, 3 addresses, together with a sermon (catalogued 1881)"
+  ],
+  "paget-redemption-of-work": [
+   "redemptionworka00pagegoog",
+   "The redemption of work, addresses (catalogued 1882)"
+  ],
+  "paget-faculties-and-difficulties": [
+   "facultiesdifficu00page_0",
+   "Faculties and difficulties for belief and disbelief (London : Rivingtons, 1889)"
+  ],
+  "paget-spirit-of-discipline": [
+   "spiritofdiscipli00pageiala",
+   "The spirit of discipline, sermons preached by Francis Paget (London : Longmans, Green, 1891)"
+  ],
+  "paget-hallowing-of-work": [
+   "hallowingworkad00pagegoog",
+   "The Hallowing of Work: Addresses Given at Eton January 16-18, 1888 (Longmans Green, 1892)"
+  ],
+  "paget-studies-christian-character": [
+   "studiesinchristi00page",
+   "Studies in the Christian character : sermons : with an introductory essay (London ; New York : Longmans, Green, 1895)"
+  ],
+  "paget-hooker-book-v": [
+   "introductiontofi0000fran",
+   "An introduction to the fifth book of Hooker's treatise Of the laws of ecclesiastical polity (Clarendon Press - Oxford, 1899)"
+  ],
+  "paget-christ-the-way": [
+   "christwayfouradd0000page",
+   "Christ the way : four addresses (London ; New York : Longmans, Green, 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "paget-other": "single sermons of under 40 pages; the Life and Letters of Dean Church (1894, edited by Mary C. Church, Paget wrote the preface); other men named Francis Paget",
+  "paget-helps-and-hindrances": "helpsandhindran00pagegoog: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD'",
+  "paget-plain-village-sermons": "plainvillageserm0001fran: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD'"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "paget-redemption-of-work": "title page: 'FRANCIS PAGET, M.A. SENIOR STUDENT OF CHRIST CHURCH, OXFORD' (1882)",
+  "paget-hallowing-of-work": "front matter: 'WORKS BY THE REV. FRANCIS PAGET, D.D., Dean of Christ Church, Oxford'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "paget-spiritual-gifts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paget-redemption-of-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paget-faculties-and-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "paget-spirit-of-discipline": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paget-hallowing-of-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paget-studies-christian-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "paget-hooker-book-v": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "paget-christ-the-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis paget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
