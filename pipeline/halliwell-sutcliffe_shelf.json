@@ -1,0 +1,98 @@
+{
+ "_about": "Halliwell Sutcliffe: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Halliwell Sutcliffe",
+ "_name_words": [
+  "halliwell",
+  "sutcliffe"
+ ],
+ "_surname": [
+  "halliwell sutcliffe",
+  "sutcliffe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hsutcliffe-white-horses": [
+   43551,
+   "The White Horses"
+  ],
+  "hsutcliffe-shameless-wayne": [
+   47674,
+   "Shameless Wayne: A Romance of the last Feud of Wayne and Ratcliffe"
+  ],
+  "hsutcliffe-lone-adventure": [
+   62899,
+   "The Lone Adventure"
+  ],
+  "hsutcliffe-man-of-the-moors": [
+   63476,
+   "A Man of the Moors"
+  ],
+  "hsutcliffe-priscilla-of-the-good-intent": [
+   66737,
+   "Priscilla of the Good Intent: A Romance of the Grey Fells"
+  ],
+  "hsutcliffe-storm": [
+   69613,
+   "Storm"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hsutcliffe-white-horses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsutcliffe-shameless-wayne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsutcliffe-lone-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsutcliffe-man-of-the-moors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsutcliffe-priscilla-of-the-good-intent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsutcliffe-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliwell sutcliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

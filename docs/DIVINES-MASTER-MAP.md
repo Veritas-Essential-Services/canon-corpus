@@ -43592,3 +43592,16 @@ Shelf: `pipeline/annie-s-swan_shelf.json` (2026-10-22; added at the coordinator'
 | Courtship and Marriage, and the Gentle Art of Home-Making | have | PG 35963, `asswan-courtship-and-marriage-and-the-gentle-art-of-home-mak` (237 units) |
 | The Last of Their Race | have | PG 42926, `asswan-last-of-their-race` (2761 units) |
 | Adam Hepburn's Vow: A Tale of Kirk and Covenant | have | PG 46966, `asswan-adam-hepburns-vow` (1058 units) |
+
+## Halliwell Sutcliffe
+
+Shelf: `pipeline/halliwell-sutcliffe_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The White Horses | have | PG 43551, `hsutcliffe-white-horses` (2286 units) |
+| Shameless Wayne: A Romance of the last Feud of Wayne and Ratcliffe | have | PG 47674, `hsutcliffe-shameless-wayne` (3305 units) |
+| The Lone Adventure | have | PG 62899, `hsutcliffe-lone-adventure` (2782 units) |
+| A Man of the Moors | have | PG 63476, `hsutcliffe-man-of-the-moors` (2513 units) |
+| Priscilla of the Good Intent: A Romance of the Grey Fells | have | PG 66737, `hsutcliffe-priscilla-of-the-good-intent` (2551 units) |
+| Storm | have | PG 69613, `hsutcliffe-storm` (2671 units) |

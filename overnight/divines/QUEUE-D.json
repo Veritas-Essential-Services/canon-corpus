@@ -5821,6 +5821,14 @@
       "started": "2026-10-22T23:13:36-05:00",
       "finished": "2026-10-22T23:13:36-05:00",
       "notes": "annie-s-swan: new shelf, 6 Gutenberg books, 7,942 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "halliwell-sutcliffe",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Halliwell Sutcliffe; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:13:52-05:00",
+      "finished": "2026-10-22T23:13:52-05:00",
+      "notes": "halliwell-sutcliffe: new shelf, 6 Gutenberg books, 16,108 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
