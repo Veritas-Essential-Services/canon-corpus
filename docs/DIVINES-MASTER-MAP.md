@@ -12708,6 +12708,24 @@ Slugs `wmtaylor-*`. Built from title pages read for round 62.
 | The boy Jesus; and other sermons (New York, Armstrong, 1893) | have-ocr | IA `boyjesusotherser00tayl` |
 | elijahprophet00tayl (a 1903 printing whose scan has lost its title page) swapped for this copy, whose title page reads 'by the Rev. William M. Taylor, D.D., Minister of the Broadway Tabernacle, New York City' | alternate | not shelved |
 | Other William Taylors (of Norwich, the arithmetic teachers, Bishop William Taylor the Methodist missionary); funeral addresses for others in which he spoke among several speakers | excluded | |
+
+## Howard Crosby (round 62, my pick, 2026-10-23)
+
+Slugs `crosby-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Lands of the Moslem : a narrative of oriental travel (New York : Carter and Brothers, 1851) | have-ocr | IA `landsofmoslemnar00cros` |
+| The New Testament, with brief explanatory notes or scholia (New York : Charles Scribner, 1863) | have-ocr | IA `newtestament00crosgoog` |
+| The healthy Christian : an appeal to the church (New York, American Tract Society, c187) | have-ocr | IA `healthychristian00crosrich` |
+| Jesus: his life and work (University Publishing Company, 1871) | have-ocr | IA `jesushislifework0000unse` |
+| Thoughts on the decalogue (Philadelphia, Penn. : Presbyterian Board of Publication, 1873) | have-ocr | IA `thoughtsondecal00cros` |
+| The Bible on the Side of Science: A Lecture : Delivered in New York (J.F. Trow & Son, printers, 1875) | have-ocr | IA `bibleonsidescie00crosgoog` |
+| Expository notes on the book of Joshua (New York : R. Carter, 1875) | have-ocr | IA `expositorynoteso00cros` |
+| The book of Nehemiah, vol. 7 no.3 (New York, Scribner, Armstrong & co, 1877) | have-ocr | IA `bookofnehemiah73cros` |
+| The Christian preacher (New York, A. D. F. Randolph & company, 1880) | have-ocr | IA `christianpreach00cros` |
+| The true humanity of Christ (New York : Anson D. F. Randolph & Company, 1880) | have-ocr | IA `truehumanityofch00cros` |
+| His school edition of Sophocles' Oedipus Tyrannus (1858); Moderation vs. Total Abstinence (1881, his address bound with his reviewers' replies); Fanny Crosby and other Crosbys | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
