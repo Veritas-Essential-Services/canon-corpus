@@ -8792,3 +8792,13 @@ Shelf: `pipeline/w-w-tarn_shelf.json`. Hellenistic history: Antigonos Gonatas (1
 
 Excluded: The Greeks in Bactria and India (1938) (after 1930 (IA's 1922 date is wrong)); Hellenistic Military and Naval Developments (1930) (no scan found)
 
+
+## Tadeusz Zielinski (1859-1944)
+
+Shelf: `pipeline/tadeusz-zielinski_shelf.json`. His two pre-1930 books in English translation. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Our Debt to Antiquity (1909), tr. H. A. Strong and Hugh Stewart |  | `zielinski-our-debt-to-antiquity-1909` | have-raw (IA `ourdebttoantiqui00zieluoft`) |
+| The Religion of Ancient Greece (1926), tr. George Rapall Noyes |  | `zielinski-religion-ancient-greece-1926` | have-raw (IA `religionofancien0000ziel_e5q1`) |
+
