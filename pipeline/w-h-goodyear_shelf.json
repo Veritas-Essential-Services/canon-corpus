@@ -1,5 +1,5 @@
 {
- "_about": "W. H. Goodyear (1846-1923), Brooklyn Museum curator: Greek Refinements, Studies in Temperamental Architecture (1912). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_about": "W. H. Goodyear (1846-1923), Brooklyn Museum curator: Greek Refinements, Studies in Temperamental Architecture (1912). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.  Round ea adds Roman and Medieval Art (revised, 1905 printing).",
  "_author": "William Henry Goodyear (1846-1923)",
  "_name_words": [
   "goodyear",
@@ -18,6 +18,10 @@
   "goodyear-greek-refinements-1912": [
    "greekrefinement02goodgoog",
    "Greek Refinements: Studies in Temperamental Architecture (1912)"
+  ],
+  "w-h-goodyear-roman-and-medieval-art-rev-1905": [
+   "romanmedievalart00gooduoft",
+   "Roman and Medieval Art, by W. H. Goodyear, revised and enlarged (New York: The Macmillan Company; copyright 1893, 1897, this printing July 1905)"
   ]
  },
  "_excluded": {},
@@ -30,6 +34,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-h-goodyear-roman-and-medieval-art-rev-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. goodyear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
