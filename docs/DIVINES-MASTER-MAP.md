@@ -12965,6 +12965,25 @@ Slugs `jcumming-*`. Built from title pages read for round 65.
 | propheticstudies00cumm: Prophetic Studies, lectures on the Book of Daniel (Lindsay & Blakiston, 1854); the title-page author line is not legible in the OCR (only the publisher's advertisement names Cumming); to be read from the page image | pending | not shelved |
 | His editions of Knox's Liturgy and of the Psalter of the Blessed Virgin; The Hammersmith Protestant Discussion (a debate with Daniel French, both sides); other John Cummings | excluded | |
 | foreshadowslectu00cumm: catalogued as Foreshadows on the parables, but the scan is the miracles volume, already shelved as jcumming-foreshadows-miracles; the parables volume is not yet found | excluded | |
+
+## Henry Blunt (round 65, my pick, 2026-10-23)
+
+Slugs `hblunt-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve lectures upon the history of Abraham (London : J. Hatchard, 1833) | have-ocr | IA `twelvelecturesu02blungoog` |
+| Nine lectures upon the history of Saint Peter (London : J. Hatchard & Son, 1836) | have-ocr | IA `ninelecturesupon00blun` |
+| A practical exposition of the Epistles to the seven churches of Asia (Philadelphia :4bHooker & Claxton, 1839) | have-ocr | IA `practicalexposit00blun` |
+| Discourses on some of the doctrinal articles of the church of England; also lectures on the history of Saint Peter (Philadelphia, Hooker and Claxton, 1839) | have-ocr | IA `discoursesonsome00blun` |
+| Lectures on the history of Elisha. By the Rev. Henry Blunt (London : J. Hatchard & son [etc.], 1840) | have-ocr | IA `lecturesonhistor00blun` |
+| Lectures upon the history of Our Lord and Saviour Jesus Christ (Philadelphia, H. Hooker, 1840) | have-ocr | IA `lecturesuponhist01blun` |
+| Sermons preached in Trinity Church, Upper Chelsea (Philadelphia : Herman Hooker, 1840) | have-ocr | IA `sermonspreachedi00blun` |
+| Lectures upon the history of St. Paul : delivered during Lent, at the Church of the Holy Trinity, Upper Chelsea (Philadelphia : Hooker & Agnew, 1841) | have-ocr | IA `LecturesUponTheHistoryOfStPaul` |
+| A family exposition of the Pentateuch, vol. 3 (Philadelphia : Hooker & Agnew, 1841) | have-ocr | IA `familyexposition03blun` |
+| Eight lectures upon the history of Jacob: delivered during Lent, 1828, at the Church of St. Luke, Chelsea (London : J. Hatchard & Son, 1845) | have-ocr | IA `EightLectures` |
+| Posthumous sermons (Philadelphia : H. Hooker, 1852) | have-ocr | IA `posthumoussermon00blunrich` |
+| John James Blunt and John Henry Blunt (another shelf); the 1854 Abraham-Jacob-Elisha reissue (the same lectures) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

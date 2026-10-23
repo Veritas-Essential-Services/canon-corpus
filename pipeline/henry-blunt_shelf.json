@@ -1,0 +1,191 @@
+{
+ "_about": "Public-domain Henry Blunt (1794-1843), evangelical incumbent of Holy Trinity, Upper Chelsea, and rector of Streatham, for the Word Hoard: his Lent lectures on Abraham, Jacob, Elisha, St Peter, St Paul and the history of our Lord, A Practical Exposition of the Epistles to the Seven Churches (1839), Discourses on the Doctrinal Articles (1839), Sermons Preached in Trinity Church, Upper Chelsea (1840), A Family Exposition of the Pentateuch (vol. 3) and Posthumous Sermons (1852). J. J. Blunt and J. H. Blunt are other men. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 65 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "blunt"
+ ],
+ "_surname": [
+  "henry blunt",
+  "h. blunt",
+  "rev. henry blunt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hblunt-abraham": [
+   "twelvelecturesu02blungoog",
+   "Twelve lectures upon the history of Abraham (London : J. Hatchard, 1833)"
+  ],
+  "hblunt-st-peter": [
+   "ninelecturesupon00blun",
+   "Nine lectures upon the history of Saint Peter (London : J. Hatchard & Son, 1836)"
+  ],
+  "hblunt-seven-churches": [
+   "practicalexposit00blun",
+   "A practical exposition of the Epistles to the seven churches of Asia (Philadelphia :4bHooker & Claxton, 1839)"
+  ],
+  "hblunt-doctrinal-articles": [
+   "discoursesonsome00blun",
+   "Discourses on some of the doctrinal articles of the church of England; also lectures on the history of Saint Peter (Philadelphia, Hooker and Claxton, 1839)"
+  ],
+  "hblunt-elisha": [
+   "lecturesonhistor00blun",
+   "Lectures on the history of Elisha. By the Rev. Henry Blunt (London : J. Hatchard & son [etc.], 1840)"
+  ],
+  "hblunt-our-lord-1": [
+   "lecturesuponhist01blun",
+   "Lectures upon the history of Our Lord and Saviour Jesus Christ (Philadelphia, H. Hooker, 1840)"
+  ],
+  "hblunt-chelsea-sermons": [
+   "sermonspreachedi00blun",
+   "Sermons preached in Trinity Church, Upper Chelsea (Philadelphia : Herman Hooker, 1840)"
+  ],
+  "hblunt-st-paul": [
+   "LecturesUponTheHistoryOfStPaul",
+   "Lectures upon the history of St. Paul : delivered during Lent, at the Church of the Holy Trinity, Upper Chelsea (Philadelphia : Hooker & Agnew, 1841)"
+  ],
+  "hblunt-pentateuch-3": [
+   "familyexposition03blun",
+   "A family exposition of the Pentateuch, vol. 3 (Philadelphia : Hooker & Agnew, 1841)"
+  ],
+  "hblunt-jacob": [
+   "EightLectures",
+   "Eight lectures upon the history of Jacob: delivered during Lent, 1828, at the Church of St. Luke, Chelsea (London : J. Hatchard & Son, 1845)"
+  ],
+  "hblunt-posthumous-sermons": [
+   "posthumoussermon00blunrich",
+   "Posthumous sermons (Philadelphia : H. Hooker, 1852)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hblunt-other": "John James Blunt and John Henry Blunt (another shelf); the 1854 Abraham-Jacob-Elisha reissue (the same lectures)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hblunt-abraham": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hblunt-st-peter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hblunt-seven-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hblunt-doctrinal-articles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hblunt-elisha": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hblunt-our-lord-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hblunt-chelsea-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hblunt-st-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hblunt-pentateuch-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hblunt-jacob": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hblunt-posthumous-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blunt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
