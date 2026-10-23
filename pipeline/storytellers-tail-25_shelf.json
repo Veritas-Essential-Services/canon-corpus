@@ -1,0 +1,533 @@
+{
+ "_about": "Storytellers' tail, group 25: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): J. Maclaren Cobban, Sarah Johnson Cocke, Mary L. Code, Desmond Coke, Annie T. Colcock, E. W. Cole, John Collins, Colman, Amelia Stratton Comfield, Benjamin F. Comfort, Elizabeth B. Comins, Daniel Webster Comstock, W. Bourne Cooke, Asenath Carver Coolidge, Bryan Cooper, J. E. Copus, Mary Ann Mann Cornelius, L. Cope Cornford, Mary Taylor Cornish, Charles B. Cory, John Russell Coryell, F. H. Costello, Sallie Southall Cotten, Alphonse Courlander, Penrhyn Wingfield Coussens, James Cowan, Robert Cowdin, Florence Tinsley Cox, Samuel Woodworth Cozzens, B. F. Craig. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 25 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jmcobban-master-of-his-fate": [
+   "j. maclaren cobban",
+   "james maclaren cobban",
+   "cobban"
+  ],
+  "sjcocke-bypaths-in-dixie": [
+   "sarah johnson cocke",
+   "cocke"
+  ],
+  "mlcode-left-at-home": [
+   "mary l. code",
+   "mary louisa code"
+  ],
+  "dcoke-helena-brett-s-career": [
+   "desmond coke"
+  ],
+  "atcolcock-margaret-tudor": [
+   "annie t. colcock",
+   "annie toomer colcock",
+   "colcock"
+  ],
+  "ewcole-cole-s-funny-picture-book-no-1": [
+   "e. w. cole",
+   "edward william cole"
+  ],
+  "jcollins-1970": [
+   "john collins",
+   "collins"
+  ],
+  "colman-pearl-story-book-a-collection-of-tales-original-and-s": [
+   "colman",
+   "pamela chandler colman",
+   "colman"
+  ],
+  "ascomfield-alida": [
+   "amelia stratton comfield",
+   "comfield"
+  ],
+  "bfcomfort-arnold-s-tempter": [
+   "benjamin f. comfort",
+   "benjamin freeman comfort",
+   "comfort"
+  ],
+  "ebcomins-marion-berkley": [
+   "elizabeth b. comins",
+   "elizabeth barker comins",
+   "comins"
+  ],
+  "dwcomstock-ninth-cavalry": [
+   "daniel webster comstock",
+   "comstock"
+  ],
+  "wbcooke-black-box": [
+   "w. bourne cooke",
+   "cooke"
+  ],
+  "accoolidge-independence-day-horror-at-killsbury": [
+   "asenath carver coolidge",
+   "coolidge"
+  ],
+  "bcooper-tenth-irish-division-in-gallipoli": [
+   "bryan cooper",
+   "cooper"
+  ],
+  "jecopus-as-gold-in-the-furnace": [
+   "j. e. copus",
+   "john edwin copus",
+   "copus"
+  ],
+  "mamcornelius-little-wolf": [
+   "mary ann mann cornelius",
+   "cornelius"
+  ],
+  "lccornford-last-buccaneer": [
+   "l. cope cornford",
+   "leslie cope cornford",
+   "cornford"
+  ],
+  "mtcornish-tommy-s-thanksgiving-dinner": [
+   "mary taylor cornish",
+   "cornish"
+  ],
+  "cbcory-montezuma-s-castle-and-other-weird-tales": [
+   "charles b. cory",
+   "charles barney cory"
+  ],
+  "jrcoryell-diego-pinzon-and-the-fearful-voyage-he-took-into-t": [
+   "john russell coryell",
+   "coryell"
+  ],
+  "fhcostello-sure-dart": [
+   "f. h. costello",
+   "frederick hankerson costello",
+   "costello"
+  ],
+  "sscotten-white-doe": [
+   "sallie southall cotten",
+   "cotten"
+  ],
+  "acourlander-mightier-than-the-sword": [
+   "alphonse courlander",
+   "courlander"
+  ],
+  "pwcoussens-jade-story-book": [
+   "penrhyn wingfield coussens",
+   "coussens"
+  ],
+  "jcowan-daybreak": [
+   "james cowan",
+   "cowan"
+  ],
+  "rcowdin-gen-cowdin-and-the-first-massachusetts-regiment-of-v": [
+   "robert cowdin",
+   "cowdin"
+  ],
+  "ftcox-chronicles-of-rhoda": [
+   "florence tinsley cox"
+  ],
+  "swcozzens-young-trail-hunters-or-the-wild-riders-of-the-plai": [
+   "samuel woodworth cozzens",
+   "cozzens"
+  ],
+  "bfcraig-pen-pictures-of-eventful-scenes-and-struggles-of-lif": [
+   "b. f. craig",
+   "benjamin franklin craig",
+   "craig"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jmcobban-master-of-his-fate": [
+   13931,
+   "Master of His Fate"
+  ],
+  "sjcocke-bypaths-in-dixie": [
+   41598,
+   "Bypaths in Dixie: Folk Tales of the South"
+  ],
+  "mlcode-left-at-home": [
+   22916,
+   "Left at home"
+  ],
+  "dcoke-helena-brett-s-career": [
+   33103,
+   "Helena Brett's Career"
+  ],
+  "atcolcock-margaret-tudor": [
+   24335,
+   "Margaret Tudor: A Romance of Old St. Augustine"
+  ],
+  "ewcole-cole-s-funny-picture-book-no-1": [
+   30726,
+   "Cole's Funny Picture Book No. 1"
+  ],
+  "jcollins-1970": [
+   63980,
+   "1970: A Vision of the Coming Age"
+  ],
+  "colman-pearl-story-book-a-collection-of-tales-original-and-s": [
+   11333,
+   "The Pearl Story Book A Collection of Tales, Original and Selected"
+  ],
+  "ascomfield-alida": [
+   33647,
+   "Alida"
+  ],
+  "bfcomfort-arnold-s-tempter": [
+   62181,
+   "Arnold's Tempter"
+  ],
+  "ebcomins-marion-berkley": [
+   41524,
+   "Marion Berkley: A Story for Girls"
+  ],
+  "dwcomstock-ninth-cavalry": [
+   60363,
+   "Ninth Cavalry: One Hundred and Twenty-first Regiment Indiana Volunteers"
+  ],
+  "wbcooke-black-box": [
+   53641,
+   "The Black Box: A Tale of Monmouth's Rebellion"
+  ],
+  "accoolidge-independence-day-horror-at-killsbury": [
+   39479,
+   "The Independence Day Horror at Killsbury"
+  ],
+  "bcooper-tenth-irish-division-in-gallipoli": [
+   74163,
+   "The Tenth (Irish) Division in Gallipoli"
+  ],
+  "jecopus-as-gold-in-the-furnace": [
+   37926,
+   "\"As Gold in the Furnace\" : A College Story"
+  ],
+  "mamcornelius-little-wolf": [
+   31837,
+   "Little Wolf: A Tale of the Western Frontier"
+  ],
+  "lccornford-last-buccaneer": [
+   74835,
+   "The last buccaneer"
+  ],
+  "mtcornish-tommy-s-thanksgiving-dinner": [
+   77302,
+   "Tommy's Thanksgiving dinner"
+  ],
+  "cbcory-montezuma-s-castle-and-other-weird-tales": [
+   26995,
+   "Montezuma's Castle, and Other Weird Tales"
+  ],
+  "jrcoryell-diego-pinzon-and-the-fearful-voyage-he-took-into-t": [
+   50281,
+   "Diego Pinzon and the Fearful Voyage He Took Into the Unknown Ocean A.D. 1492"
+  ],
+  "fhcostello-sure-dart": [
+   78561,
+   "Sure-dart"
+  ],
+  "sscotten-white-doe": [
+   28796,
+   "The white doe"
+  ],
+  "acourlander-mightier-than-the-sword": [
+   55535,
+   "Mightier than the Sword"
+  ],
+  "pwcoussens-jade-story-book": [
+   65965,
+   "The Jade Story Book; Stories from the Orient"
+  ],
+  "jcowan-daybreak": [
+   7814,
+   "Daybreak: A Romance of an Old World"
+  ],
+  "rcowdin-gen-cowdin-and-the-first-massachusetts-regiment-of-v": [
+   33139,
+   "Gen. Cowdin and the First Massachusetts Regiment of Volunteers"
+  ],
+  "ftcox-chronicles-of-rhoda": [
+   40526,
+   "The Chronicles of Rhoda"
+  ],
+  "swcozzens-young-trail-hunters-or-the-wild-riders-of-the-plai": [
+   10810,
+   "The Young Trail Hunters Or, the Wild Riders of the Plains. The Veritable Adventures of Hal Hyde and Ned Brown, on Their Journey Across the Great Plains of the South-West"
+  ],
+  "bfcraig-pen-pictures-of-eventful-scenes-and-struggles-of-lif": [
+   47558,
+   "Pen Pictures, of Eventful Scenes and Struggles of Life"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jmcobban-master-of-his-fate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. maclaren cobban",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjcocke-bypaths-in-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah johnson cocke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlcode-left-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary l. code",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcoke-helena-brett-s-career": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "desmond coke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "atcolcock-margaret-tudor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie t. colcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewcole-cole-s-funny-picture-book-no-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. w. cole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcollins-1970": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colman-pearl-story-book-a-collection-of-tales-original-and-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ascomfield-alida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelia stratton comfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bfcomfort-arnold-s-tempter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin f. comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebcomins-marion-berkley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth b. comins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwcomstock-ninth-cavalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel webster comstock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbcooke-black-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. bourne cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "accoolidge-independence-day-horror-at-killsbury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "asenath carver coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcooper-tenth-irish-division-in-gallipoli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bryan cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecopus-as-gold-in-the-furnace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. copus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mamcornelius-little-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary ann mann cornelius",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lccornford-last-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. cope cornford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtcornish-tommy-s-thanksgiving-dinner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary taylor cornish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbcory-montezuma-s-castle-and-other-weird-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles b. cory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrcoryell-diego-pinzon-and-the-fearful-voyage-he-took-into-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john russell coryell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fhcostello-sure-dart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. h. costello",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sscotten-white-doe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sallie southall cotten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acourlander-mightier-than-the-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alphonse courlander",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pwcoussens-jade-story-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "penrhyn wingfield coussens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcowan-daybreak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james cowan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcowdin-gen-cowdin-and-the-first-massachusetts-regiment-of-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert cowdin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ftcox-chronicles-of-rhoda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence tinsley cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swcozzens-young-trail-hunters-or-the-wild-riders-of-the-plai": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel woodworth cozzens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bfcraig-pen-pictures-of-eventful-scenes-and-struggles-of-lif": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. f. craig",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -46604,3 +46604,40 @@ Shelf: `pipeline/storytellers-tail-24_shelf.json` (2026-10-22; added at the coor
 | The Bull-Run Rout Scenes Attending the First Clash of Volunteers in the Civil War | have | PG 32951, `ehclement-bull-run-rout-scenes-attending-the-first-clash-of` (48 units) |
 | How little Bessie kept the wolf from the door | have | PG 74108, `coates-how-little-bessie-kept-the-wolf-from-the-door` (712 units) |
 | The Smuggler of King's Cove; or, The Old Chapel Mystery | have | PG 49860, `scobb-smuggler-of-king-s-cove` (1774 units) |
+
+## Storytellers' tail, group 25 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-25_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: J. Maclaren Cobban, Sarah Johnson Cocke, Mary L. Code, Desmond Coke, Annie T. Colcock, E. W. Cole, John Collins, Colman, Amelia Stratton Comfield, Benjamin F. Comfort, Elizabeth B. Comins, Daniel Webster Comstock, W. Bourne Cooke, Asenath Carver Coolidge, Bryan Cooper, J. E. Copus, Mary Ann Mann Cornelius, L. Cope Cornford, Mary Taylor Cornish, Charles B. Cory, John Russell Coryell, F. H. Costello, Sallie Southall Cotten, Alphonse Courlander, Penrhyn Wingfield Coussens, James Cowan, Robert Cowdin, Florence Tinsley Cox, Samuel Woodworth Cozzens, B. F. Craig. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Master of His Fate | have | PG 13931, `jmcobban-master-of-his-fate` (590 units) |
+| Bypaths in Dixie: Folk Tales of the South | have | PG 41598, `sjcocke-bypaths-in-dixie` (1086 units) |
+| Left at home | have | PG 22916, `mlcode-left-at-home` (797 units) |
+| Helena Brett's Career | have | PG 33103, `dcoke-helena-brett-s-career` (1445 units) |
+| Margaret Tudor: A Romance of Old St. Augustine | have | PG 24335, `atcolcock-margaret-tudor` (825 units) |
+| Cole's Funny Picture Book No. 1 | have | PG 30726, `ewcole-cole-s-funny-picture-book-no-1` (5425 units) |
+| 1970: A Vision of the Coming Age | have | PG 63980, `jcollins-1970` (7 units) |
+| The Pearl Story Book A Collection of Tales, Original and Selected | have | PG 11333, `colman-pearl-story-book-a-collection-of-tales-original-and-s` (279 units) |
+| Alida | have | PG 33647, `ascomfield-alida` (2419 units) |
+| Arnold's Tempter | have | PG 62181, `bfcomfort-arnold-s-tempter` (2315 units) |
+| Marion Berkley: A Story for Girls | have | PG 41524, `ebcomins-marion-berkley` (1644 units) |
+| Ninth Cavalry: One Hundred and Twenty-first Regiment Indiana Volunteers | have | PG 60363, `dwcomstock-ninth-cavalry` (222 units) |
+| The Black Box: A Tale of Monmouth's Rebellion | have | PG 53641, `wbcooke-black-box` (1640 units) |
+| The Independence Day Horror at Killsbury | have | PG 39479, `accoolidge-independence-day-horror-at-killsbury` (1114 units) |
+| The Tenth (Irish) Division in Gallipoli | have | PG 74163, `bcooper-tenth-irish-division-in-gallipoli` (1015 units) |
+| "As Gold in the Furnace" : A College Story | have | PG 37926, `jecopus-as-gold-in-the-furnace` (1766 units) |
+| Little Wolf: A Tale of the Western Frontier | have | PG 31837, `mamcornelius-little-wolf` (1729 units) |
+| The last buccaneer | have | PG 74835, `lccornford-last-buccaneer` (1010 units) |
+| Tommy's Thanksgiving dinner | have | PG 77302, `mtcornish-tommy-s-thanksgiving-dinner` (103 units) |
+| Montezuma's Castle, and Other Weird Tales | have | PG 26995, `cbcory-montezuma-s-castle-and-other-weird-tales` (708 units) |
+| Diego Pinzon and the Fearful Voyage He Took Into the Unknown Ocean A.D. 1492 | have | PG 50281, `jrcoryell-diego-pinzon-and-the-fearful-voyage-he-took-into-t` (1419 units) |
+| Sure-dart | have | PG 78561, `fhcostello-sure-dart` (1140 units) |
+| The white doe | have | PG 28796, `sscotten-white-doe` (259 units) |
+| Mightier than the Sword | have | PG 55535, `acourlander-mightier-than-the-sword` (1977 units) |
+| The Jade Story Book; Stories from the Orient | have | PG 65965, `pwcoussens-jade-story-book` (1541 units) |
+| Daybreak: A Romance of an Old World | have | PG 7814, `jcowan-daybreak` (1933 units) |
+| Gen. Cowdin and the First Massachusetts Regiment of Volunteers | have | PG 33139, `rcowdin-gen-cowdin-and-the-first-massachusetts-regiment-of-v` (68 units) |
+| The Chronicles of Rhoda | have | PG 40526, `ftcox-chronicles-of-rhoda` (1235 units) |
+| The Young Trail Hunters Or, the Wild Riders of the Plains. The Veritable Adventures of Hal Hyde and Ned Brown, on Their Journey Across the Great Plains of the South-West | have | PG 10810, `swcozzens-young-trail-hunters-or-the-wild-riders-of-the-plai` (1287 units) |
+| Pen Pictures, of Eventful Scenes and Struggles of Life | have | PG 47558, `bfcraig-pen-pictures-of-eventful-scenes-and-struggles-of-lif` (420 units) |
