@@ -15292,6 +15292,15 @@ Slugs `cordner-*`. Built from title pages read for round 91.
 | Is Protestantism a failure? : the question considered in five lectures : also a discourse on Christian monotheism ([S.l. : s.n.], 1869) | have-ocr | IA `cihm_00237` |
 | his civic orations before the New England Society of Montreal (The Vision of the Pilgrim Fathers, The American Conflict, Canada and the United States) | excluded | |
 | Who is Christ? by Henry Wilkes, the sermon he answered | excluded | |
+
+## George Deshon (round 91, my pick, 2026-10-23)
+
+Slugs `deshon-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| Guide for Catholic young women, especially for those who earn their own living (New York : Columbus Pub. Co., 1892) | have-ocr | IA `guideforcatholic00desh` |
+| Sermons for all the Sundays of the ecclesiastical year and the principal festivals : for the use of parish priests and for private reading (New York : Catholic Book Exchange, 1902) | have-ocr | IA `sermonsforallthe00deshuoft` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
