@@ -113,5 +113,9 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_held": {
+  "sallust-perseus-watson-jugurthine-war": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0631.phi002.perseus-eng2 (Jugurthine War, tr. J. S. Watson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "sallust-perseus-watson-conspiracy-of-catiline": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0631.phi001.perseus-eng2 (Conspiracy of Catiline, tr. J. S. Watson) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  }
 }
