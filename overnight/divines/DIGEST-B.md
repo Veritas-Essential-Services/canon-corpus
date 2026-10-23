@@ -297,3 +297,4 @@
 - 10/23 round cz: 8 more scholar shelves, 15 works (Sihler 4, Huddilston 3, Flickinger 2, Pais 2, Seignobos, Martinengo-Cesaresco, Legrand, Loewy).
 - 10/23 round da: 15 new shelves, 43 works: Roman law (Roby, Hadley, Sohm, Buckland, Amos, Jhering) and archaeology (A. S. Murray, Waldstein, Furtwängler, Head, Burrows, Baikie, Hyde, J. B. Carter, Buck). No failures. Next: Ramsay, H. O. Taylor, Wheeler, Pears, Miller, Hatch.
 - 10/23 round db: 8 new shelves, 42 works: W. M. Ramsay 17, H. O. Taylor 10, William Miller 5, Wheeler, Pears, Hatch, Sterrett, J. B. Mayor 2 each. Next: a fresh subject sweep (round dc).
+- 10/23 round dc: fresh 20-subject sweep; 25 new shelves, 36 works (Fairbanks 5, Timayenis 3, Rodd, Mosso, Spratt, Platner, Hambidge 2 each, 18 singles). Next: round dd, the rest of the list (Glotz, Homo, Toynbee, Gulick, Duncker and others).

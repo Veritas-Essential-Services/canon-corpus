@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T01:30:31-05:00",
- "note": "Rounds cq-db done 2026-10-23.",
- "resume_point": "Round dc: a fresh IA subject sweep over subjects not yet swept (Greece History, Rome History, Greek literature History and criticism, Latin literature History and criticism, Mythology Classical, Art Greek, Rome Antiquities, Athens Antiquities, Pompeii, Excavations Archaeology Greece, Hellenism, Philosophy Ancient), keep creators with no shelf on any branch, work them as in rounds da-db."
+ "heartbeat": "2026-10-23T01:45:21-05:00",
+ "note": "Rounds cq-dc done 2026-10-23.",
+ "resume_point": "Round dd: rest of the round-dc sweep list (scratchpad list is gone with the session, so re-run tools-free: IA subject search on the same 20 subjects), checked on all branches: Glotz and Homo (History of Civilization volumes, left for lane B by lane C), Toynbee (Greek Civilisation and Character, Greek Historical Thought, both 1924), Gulick, Duncker (tr. Alleyne), Trever, Crees, Tarver, Negri (Julian), Sheppard, Rushforth, Whibley (Greek Oligarchies, Political Parties), Grenier, Summers, Ashby, Monnier, Wace, Elderkin, Diehl, Seebohm (Greek tribal society), Hawes, Jouguet, Bentwich, Heidel, Dobbs, Beare, Papillon, Hardie, Marquand, Goodyear, Lethaby, Amelung, Ferriman, Launspach, Kelsey (Fifty Topics), Wyse, Bojesen; the Epochs of Ancient History series (Capes, Cox, Curteis) if unheld."
 }
