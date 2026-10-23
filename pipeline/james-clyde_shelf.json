@@ -1,0 +1,33 @@
+{
+ "_about": "James Clyde (1816-1882?), classical master at the Edinburgh Academy, raw IA OCR of Greek Syntax with a Rationale of the Constructions, sixth edition (1881). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "James Clyde",
+ "_name_words": [
+  "clyde"
+ ],
+ "_surname": [
+  "james clyde",
+  "clyde"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-clyde-greek-syntax-1881": [
+   "greeksyntaxwith00clydgoog",
+   "Greek Syntax, with a rationale of the constructions, by James Clyde, with prefatory notice by John S. Blackie, sixth edition, revised (Edinburgh: Oliver and Boyd; London: Simpkin, Marshall, and Co., 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-clyde-greek-syntax-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james clyde",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
