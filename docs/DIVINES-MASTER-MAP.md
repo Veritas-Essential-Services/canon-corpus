@@ -18603,6 +18603,18 @@ Shelf: `pipeline/martinengo-cesaresco_shelf.json`. The Outdoor Life in Greek and
 |---|---|---|---|
 | The Outdoor Life in Greek and Roman Poets and Kindred Studies (1911) |  | `martinengo-outdoor-life-greek-roman-poets-1911` | have-raw (IA `outdoorlifeingre0000evel`) |
 
+
+## Ernest G. Sihler (1853-1942)
+
+Shelf: `pipeline/ernest-g-sihler_shelf.json`. Caesar, Cicero, and paganism and Christianity, 1908-1923. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Testimonium Animae, or Greek and Roman before Jesus Christ (1908) |  | `sihler-testimonium-animae-1908` | have-raw (IA `cu31924028238115`) |
+| Annals of Caesar: a Critical Biography with a Survey of the Sources (1911) |  | `sihler-annals-of-caesar-1911` | have-raw (IA `annalscsaracrit00sihlgoog`) |
+| Cicero of Arpinum: a Political and Literary Biography (1914) |  | `sihler-cicero-of-arpinum-1914` | have-raw (IA `ciceroarpinumap00sihlgoog`) |
+| From Augustus to Augustine: Essays and Studies dealing with the Contact and Conflict of Classic Paganism and Christianity (1923) |  | `sihler-augustus-to-augustine-1923` | have-raw (IA `fromaugustustoau0000erne_j4p1`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
