@@ -14008,3 +14008,21 @@ Slugs `belsham-*`. Built from title pages read for round 77.
 | Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr00belsgoog` |
 | Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr01belsgoog` |
 | the Unitarian Society Tracts (many authors); the Improved Version of the New Testament (1808), a committee work; pamphlets of under 60 pages | excluded | |
+
+## David Swing (round 77, my pick, 2026-10-23)
+
+Slugs `swing-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Truths for to-day, spoken in the past winter (Chicago, Jansen, McClurg and company, 1874) | have-ocr | IA `truthsfortodaysp00swing` |
+| Truths for to-day : Second series (Chicago : Jansen, McClurg and company, 1876) | have-ocr | IA `cu31924031246741` |
+| David Swing's sermons (Chicago, W. B. Keen, Cooke & Co, 1874) | have-ocr | IA `davidswingssermo00swigrich` |
+| Motives of life (Chicago, Jansen, McClurg & company, 1879) | have-ocr | IA `motivesoflife00swi` |
+| Sermons (Chicago : Jansen, McClurg, 1884) | have-ocr | IA `sermons00swin` |
+| Echoes from Central Music Hall : selections from the recent sermons of Professor David Swing (Chicago : Donohue, Henneberry, c189) | have-ocr | IA `echoesfromcentra00swin` |
+| Old pictures of life, vol. 1 (Chicago, Stone and Kimball, 1894) | have-ocr | IA `oldpictureslife00swingoog` |
+| David Swing: a memorial volume : ten sermons, selected and prepared for publication by himself (Chicago : F. Tennyson Neely, 1894) | have-ocr | IA `davidswingmemori00swin` |
+| Truths leaf by leaf (Chicago : [The Lakeside press, R.R. Donnelley & Sons Co.], 1905) | have-ocr | IA `truthsleafbyleaf00swin` |
+| The message of David Swing to his generation; addresses and papers (New York, Chicago [etc] Fleming H. Revell company, [c19) | have-ocr | IA `messageofdavidsw00swin` |
+| Club Essays (literary essays); the record of his heresy trial, Patton vs. Swing (both sides, many hands) | excluded | |

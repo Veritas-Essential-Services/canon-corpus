@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain David Swing (1830-1894), Presbyterian and then independent preacher of Central Music Hall, Chicago, for the Word Hoard: Truths for To-day (two series, 1874 and 1876), David Swing's Sermons (1874), Motives of Life (1879), his Sermons (1884), Echoes from Central Music Hall (1894), Old Pictures of Life (1894), the memorial volume of ten sermons he chose himself (1894), Truths Leaf by Leaf (1905) and The Message of David Swing to his Generation (1913). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 77 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "david swing",
+  "prof. swing",
+  "professor swing"
+ ],
+ "_surname": [
+  "david swing",
+  "professor swing",
+  "swing"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "swing-truths-for-today": [
+   "truthsfortodaysp00swing",
+   "Truths for to-day, spoken in the past winter (Chicago, Jansen, McClurg and company, 1874)"
+  ],
+  "swing-truths-second-series": [
+   "cu31924031246741",
+   "Truths for to-day : Second series (Chicago : Jansen, McClurg and company, 1876)"
+  ],
+  "swing-sermons-1874": [
+   "davidswingssermo00swigrich",
+   "David Swing's sermons (Chicago, W. B. Keen, Cooke & Co, 1874)"
+  ],
+  "swing-motives-of-life": [
+   "motivesoflife00swi",
+   "Motives of life (Chicago, Jansen, McClurg & company, 1879)"
+  ],
+  "swing-sermons-1884": [
+   "sermons00swin",
+   "Sermons (Chicago : Jansen, McClurg, 1884)"
+  ],
+  "swing-echoes-central-music-hall": [
+   "echoesfromcentra00swin",
+   "Echoes from Central Music Hall : selections from the recent sermons of Professor David Swing (Chicago : Donohue, Henneberry, c189)"
+  ],
+  "swing-old-pictures-of-life": [
+   "oldpictureslife00swingoog",
+   "Old pictures of life, vol. 1 (Chicago, Stone and Kimball, 1894)"
+  ],
+  "swing-memorial-volume": [
+   "davidswingmemori00swin",
+   "David Swing: a memorial volume : ten sermons, selected and prepared for publication by himself (Chicago : F. Tennyson Neely, 1894)"
+  ],
+  "swing-truths-leaf-by-leaf": [
+   "truthsleafbyleaf00swin",
+   "Truths leaf by leaf (Chicago : [The Lakeside press, R.R. Donnelley & Sons Co.], 1905)"
+  ],
+  "swing-message": [
+   "messageofdavidsw00swin",
+   "The message of David Swing to his generation; addresses and papers (New York, Chicago [etc] Fleming H. Revell company, [c19)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "swing-other": "Club Essays (literary essays); the record of his heresy trial, Patton vs. Swing (both sides, many hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "swing-truths-for-today": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swing-truths-second-series": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swing-sermons-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swing-motives-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swing-sermons-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "swing-echoes-central-music-hall": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "c1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swing-old-pictures-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swing-memorial-volume": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swing-truths-leaf-by-leaf": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "swing-message": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david swing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[c1913]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
