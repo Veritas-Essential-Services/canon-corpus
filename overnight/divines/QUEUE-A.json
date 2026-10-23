@@ -10819,6 +10819,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:46:20-05:00",
       "notes": "8 books, 1823-1865."
+    },
+    {
+      "id": "a-l-a-lambert",
+      "status": "done",
+      "scope": "round 132",
+      "added": "2026-10-23T09:46:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:46:20-05:00",
+      "notes": "4 books, 1880-1898."
     }
   ]
 }

@@ -19248,3 +19248,16 @@ Slugs `pike-*`. Built from title pages read for round 132.
 | Useful and Happy is by another writer | excluded | |
 | other scans of the same books | excluded | |
 | an undated American Tract Society copy; the 1865 scan is taken instead | excluded | |
+
+## L. A. Lambert (round 132, my pick, 2026-10-23)
+
+Slugs `lambert-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| Notes on Ingersoll ([n.p.], 1883) | have-ocr | IA `notesoningersol00lamb` |
+| Tactics of infidels (Buffalo : Peter Paul & Brother, 1887) | have-ocr | IA `tacticsofinfidel0000lamb` |
+| Ingersoll's Christmas sermon (Akron, O., Chicago [etc.] D. H. McBride & company, 1898) | have-ocr | IA `ingersollschrist00lamb` |
+| Thesaurus biblicus : or, Hand-book of Scripture reference (Waterloo [Ont.] : Observer Book Pub. Co., 1880) | have-ocr | IA `thesaurusbiblicu00lamb` |
+| the Languedoc songs, the Analysis of the Gospels and Christian Science before the Bar of Reason are by others | excluded | |
+| microform and French copies of Notes on Ingersoll | excluded | |
