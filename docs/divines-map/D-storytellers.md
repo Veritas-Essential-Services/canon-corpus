@@ -17104,3 +17104,17 @@ Shelf: `pipeline/jt-trowbridge_shelf.json` (2026-10-22; added at the coordinator
 | Father Brighthopes; Or, An Old Clergyman's Vacation | have | PG 33221, `jttrowbridge-father-brighthopes` (1738 units) |
 | A Picture of the Desolated States, and the Work of Restoration. 1865-1868 | have | PG 55127, `jttrowbridge-picture-of-the-desolated-states-and-the-work-of` (3309 units) |
 | A Chance for Himself; or, Jack Hazard and His Treasure | have | PG 56759, `jttrowbridge-chance-for-himself` (1597 units) |
+
+## W. C. Scully
+
+Shelf: `pipeline/wc-scully_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). South African stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kafir Stories: Seven Short Stories | have | PG 20491, `wcscully-kafir-stories` (681 units) |
+| Reminiscences of a South African Pioneer | have | PG 23638, `wcscully-reminiscences-of-a-south-african-pioneer` (702 units) |
+| The White Hecatomb, and Other Stories | have | PG 36419, `wcscully-white-hecatomb-and-other-stories` (776 units) |
+| Between Sun and Sand: A Tale of an African Desert | have | PG 36420, `wcscully-between-sun-and-sand` (924 units) |
+| By Veldt and Kopje | have | PG 36421, `wcscully-by-veldt-and-kopje` (1140 units) |
+| Lodges in the Wilderness | have | PG 36422, `wcscully-lodges-in-the-wilderness` (482 units) |
+| A Vendetta of the Desert | have | PG 36601, `wcscully-vendetta-of-the-desert` (908 units) |

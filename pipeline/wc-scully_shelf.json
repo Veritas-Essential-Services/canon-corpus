@@ -1,0 +1,109 @@
+{
+ "_about": "W. C. Scully: South African stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. C. Scully",
+ "_name_words": [
+  "scully"
+ ],
+ "_surname": [
+  "scully"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wcscully-kafir-stories": [
+   20491,
+   "Kafir Stories: Seven Short Stories"
+  ],
+  "wcscully-reminiscences-of-a-south-african-pioneer": [
+   23638,
+   "Reminiscences of a South African Pioneer"
+  ],
+  "wcscully-white-hecatomb-and-other-stories": [
+   36419,
+   "The White Hecatomb, and Other Stories"
+  ],
+  "wcscully-between-sun-and-sand": [
+   36420,
+   "Between Sun and Sand: A Tale of an African Desert"
+  ],
+  "wcscully-by-veldt-and-kopje": [
+   36421,
+   "By Veldt and Kopje"
+  ],
+  "wcscully-lodges-in-the-wilderness": [
+   36422,
+   "Lodges in the Wilderness"
+  ],
+  "wcscully-vendetta-of-the-desert": [
+   36601,
+   "A Vendetta of the Desert"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wcscully-kafir-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-reminiscences-of-a-south-african-pioneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-white-hecatomb-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-between-sun-and-sand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-by-veldt-and-kopje": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-lodges-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wcscully-vendetta-of-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scully",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

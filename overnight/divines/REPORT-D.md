@@ -2336,3 +2336,6 @@
 
 ## 2026-10-22 23:05 CDT — jt-trowbridge: done
 - jt-trowbridge: new shelf, 7 Gutenberg books, 13,956 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — wc-scully: done
+- wc-scully: new shelf, 7 Gutenberg books, 5,613 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
