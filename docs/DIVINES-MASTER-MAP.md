@@ -17017,6 +17017,20 @@ Slugs `genung-*`. Built from title pages read for round 109.
 | The Hebrew literature of wisdom in the light of to-day; a synthesis (Boston and New York, Houghton, Mifflin and company, 1906) | have-ocr | IA `hebrewliterature00genu` |
 | A guidebook to the Biblical literature (Boston, New York [etc.] Ginn and company, 1919) | have-ocr | IA `guidebooktobibli00genu` |
 | His rhetoric textbooks and the Tennyson study are not theology; left out | excluded | |
+
+## S. Reynolds Hole (round 109, my pick, 2026-10-23)
+
+Slugs `hole-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Addresses spoken to workingmen from pulpit and platform (New York : Thomas Whittaker, [189) | have-ocr | IA `addressesspokent00holerich` |
+| Our duty in danger, vol. Talbot Collection of British Pamphlets (London : Printed for the Church Defence Institution, 9, Bridge Street, Westminster, 1883) | have-ocr | IA `ourdutyindanger00hole` |
+| The memories of Dean Hole (New York : Macm., 1892) | have-ocr | IA `memoriesofdeanho0000hole` |
+| More memories; being thoughts about England spoken in America (New York and London, Macmillan and Co., 1894) | have-ocr | IA `morememoriesbein0000hole` |
+| Then and now (London : Hutchinson, 1901) | have-ocr | IA `thenandnow00holeuoft` |
+| A little tour in America (London : E. Arnold, 1895) | have-ocr | IA `littletourinamer00holeuoft` |
+| His rose and garden books and Irish and Riviera travel books are left to another lane | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
