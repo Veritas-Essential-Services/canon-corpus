@@ -18411,6 +18411,17 @@ Shelf: `pipeline/tenney-frank_shelf.json`. Roman history and Latin poets, 1914-1
 | A History of Rome (1923) |  | `frank-history-of-rome-1923` | have-raw (IA `in.ernet.dli.2015.169106`) |
 | Catullus and Horace: Two Poets in their Environment (1928) |  | `frank-catullus-horace-1928` | have-raw (IA `catullushorace0000unse`) |
 
+
+## John Colin Dunlop (1785-1842)
+
+Shelf: `pipeline/john-colin-dunlop_shelf.json`. History of Roman Literature complete (vols. I-II clean PG). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| History of Roman Literature from its Earliest Period to the Augustan Age, vol. I |  | `dunlop-roman-literature-v1-pg` | have (PG 35750) |
+| History of Roman Literature from its Earliest Period to the Augustan Age, vol. II |  | `dunlop-roman-literature-v2-pg` | have (PG 35751) |
+| History of Roman Literature during the Augustan Age, vol. III (1828) |  | `dunlop-roman-literature-augustan-v3-1828` | have-raw (IA `historyofromanli03dunluoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
