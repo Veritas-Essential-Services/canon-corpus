@@ -16789,3 +16789,18 @@ Slugs `wfay-*`. Built from title pages read for round 106.
 | Obligations of Christians to the heathen world. A sermon delivered at the Old South Church in Boston, before the Auxiliary Foreign Mission Society of Boston and vicinity, at their annual meeting, January 3, 1825 (Boston [Mass.]: Printed by Crocker and Brewster .., 1825) | have-ocr | IA `obligationsofchr00fayw` |
 | Importance of the last promise of Jesus Christ to Christian missionaries. A sermon, delivered at Springfield, May 10, 1826, at the ordination of the Rev. Rufus Anderson, as an evangelist, and of the Rev. Messrs. Josiah Brewer, Eli Smith, Cyrus Stone, and (Boston [Mass.]: Printed by Crocker & Brewster .., 1826) | have-ocr | IA `importanceoflast00fayw` |
 | A sermon, delivered at the funeral of the Rev. Benjamin B. Wisner, D.D. : one of the secretaries of the American Board of Commissioners for Foreign Missions, and formerly pastor of the Old South Church in Boston (Boston : Printed by Crocker and Brewster, 1835) | have-ocr | IA `sermondelivereda00fayw_0` |
+
+## John Pierce (round 106, my pick, 2026-10-23)
+
+Slugs `jpierce-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A valedictory sermon, on leaving the old meeting house in Brookline, 8 June, 1806; and a dedicatory sermon, on entering the new house of worship, 11 June, 1806 (Cambridge [Mass.] William Hilliard, printer, 1806) | have-ocr | IA `valedictorysermo00pier_0` |
+| A discourse delivered, 9 November, 1817 : the Lord's day after the completion of a century from the gathering of the church in Brookline (Boston : Printed by John Eliot ..., 1818) | have-ocr | IA `discoursedeliver00pier` |
+| The right of private judgment in religion, vindicated against the claims of the Romish Church and all kindred usurpations, in a Dudleian lecture, delivered before the University in Cambridge, 24 October, 1821 (Cambridge [Mass.] : Printed by Hilliard and Metcalf, 1821) | have-ocr | IA `rightofprivateju00pier` |
+| A discourse delivered at Dorchester, on 17 June, 1830 : to commemorate the completion of the second century from its settlement by our Pilgrim fathers (Boston : From the Office of the Daily Advertiser, 1830) | have-ocr | IA `discoursedeliver00pier_2` |
+| Reminiscences of forty years, delivered, 19 March, 1837, the Lord's day after the completion of forty years from his settlement in the ministry, in Brookline (Boston, M. Pratt, printer, 1837) | have-ocr | IA `reminiscencesoff00pier` |
+| Brookline Jubilee : a discourse delivered in Brookline, at the request of its inhabitants, on 15 March, 1847, the day, which completed half a century from his ordination (Boston : [publisher not identified]; (Boston : Thurston, Torry and Company), 1847) | have-ocr | IA `brooklinejubilee00pier` |
+| Requisites to our country's glory (Boston : Dutton and Wentworth, state printers, 1849) | have-ocr | IA `requisitestoourc00pieriala` |
+| sermondelivereda00pier (a 532-page bound volume of pamphlets by several hands) | excluded | |
