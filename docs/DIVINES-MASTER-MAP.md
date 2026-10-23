@@ -12479,6 +12479,23 @@ Slugs `amfairbairn-*`. Built from title pages read for round 59.
 | Christ in the centuries and other sermons (London, S. Low, Marston, 1893) | have-ocr | IA `christincenturie00fair` |
 | Religion in history and in modern life; together with an essay on the church and the working classes (New York, Anson D. F. Randolph & Co., 1894) | have-ocr | IA `religioninhis00fair` |
 | Patrick Fairbairn's works (fairbairn shelf); the Life of R. W. Dale is by Dale's son, with Fairbairn only contributing | excluded | |
+
+## Austin Phelps (round 60, my pick, 2026-10-23)
+
+Slugs `aphelps-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The still hour; or, Communion with God (Boston, Gould and Lincoln; New York, Sheldon and company; [etc.,], 1860) | have-ocr | IA `stillhourorcommu00phel` |
+| The relations of the Bible to the civilization of the future (Boston : W. White, printer to the state, 1861) | have-ocr | IA `relationsofbible00phel` |
+| The new birth, or, The work of the Holy Spirit (Boston : Gould and Lincoln ; New York : Sheldon and Co., 1867) | have-ocr | IA `newbirthorworkof00phel` |
+| Studies of the Old Testament (Boston : Congregational Pub. Society, 1878) | have-ocr | IA `studiesofoldtestam00phel` |
+| The theory of preaching : lectures on homiletics (New York : Scribner, 1881) | have-ocr | IA `theoryofpreachin00pheluoft` |
+| Men and books, or, Studies in homiletics : lectures introductory to The theory of preaching (New York : C. Scribner's Sons, 1882) | have-ocr | IA `menbooksorstudi00phel` |
+| My portfolio : a collection of essays (New York : C. Scribner' Sons, 1882) | have-ocr | IA `myportfoliocolle00phel` |
+| English style in public discourse with special reference to the usages of the pulpit (New York : C. Scribner's sons, 1883) | have-ocr | IA `englishstyleinpu00phel` |
+| My note-book : fragmentary studies in theology, and subjects adjacent thereto (New York : C. Scribner's Sons, 1891) | have-ocr | IA `mynotebookfragment00phel` |
+| The Sabbath Hymn Book (1858) and Hymns and Choirs (1860), both made with E. A. Park and others; the 1895 Rhetoric abridgement by Henry Allyn Frink; the 1947 abridged Theory of Preaching | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

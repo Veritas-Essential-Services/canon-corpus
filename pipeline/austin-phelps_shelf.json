@@ -1,0 +1,163 @@
+{
+ "_about": "Public-domain Austin Phelps (1820-1890), Congregational professor of sacred rhetoric at Andover Seminary, for the Word Hoard: The Still Hour (1860), The Relations of the Bible to the Civilization of the Future (1861), The New Birth (1867), Studies of the Old Testament (1878), The Theory of Preaching (1881), Men and Books (1882), My Portfolio (1882), English Style in Public Discourse (1883) and My Note-Book (1891). His daughter Elizabeth Stuart Phelps has her own shelf. from Internet Archive scans. Added 2026-10-23 by lane A, round 60 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "phelps"
+ ],
+ "_surname": [
+  "austin phelps",
+  "a. phelps",
+  "prof. austin phelps"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aphelps-still-hour": [
+   "stillhourorcommu00phel",
+   "The still hour; or, Communion with God (Boston, Gould and Lincoln; New York, Sheldon and company; [etc.,], 1860)"
+  ],
+  "aphelps-bible-civilization": [
+   "relationsofbible00phel",
+   "The relations of the Bible to the civilization of the future (Boston : W. White, printer to the state, 1861)"
+  ],
+  "aphelps-new-birth": [
+   "newbirthorworkof00phel",
+   "The new birth, or, The work of the Holy Spirit (Boston : Gould and Lincoln ; New York : Sheldon and Co., 1867)"
+  ],
+  "aphelps-old-testament": [
+   "studiesofoldtestam00phel",
+   "Studies of the Old Testament (Boston : Congregational Pub. Society, 1878)"
+  ],
+  "aphelps-theory-of-preaching": [
+   "theoryofpreachin00pheluoft",
+   "The theory of preaching : lectures on homiletics (New York : Scribner, 1881)"
+  ],
+  "aphelps-men-and-books": [
+   "menbooksorstudi00phel",
+   "Men and books, or, Studies in homiletics : lectures introductory to The theory of preaching (New York : C. Scribner's Sons, 1882)"
+  ],
+  "aphelps-my-portfolio": [
+   "myportfoliocolle00phel",
+   "My portfolio : a collection of essays (New York : C. Scribner' Sons, 1882)"
+  ],
+  "aphelps-english-style": [
+   "englishstyleinpu00phel",
+   "English style in public discourse with special reference to the usages of the pulpit (New York : C. Scribner's sons, 1883)"
+  ],
+  "aphelps-my-note-book": [
+   "mynotebookfragment00phel",
+   "My note-book : fragmentary studies in theology, and subjects adjacent thereto (New York : C. Scribner's Sons, 1891)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "aphelps-other": "The Sabbath Hymn Book (1858) and Hymns and Choirs (1860), both made with E. A. Park and others; the 1895 Rhetoric abridgement by Henry Allyn Frink; the 1947 abridged Theory of Preaching"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "aphelps-old-testament": "title page: 'Studies of the Old Testament, by AusTiiSr Phelps [Austin Phelps], D.D., Professor at Andover Theological Seminary, author of \"The Still Hour\"' (New York: Anson D. F. Randolph, 1878)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "aphelps-still-hour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-bible-civilization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-new-birth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aphelps-old-testament": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-theory-of-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-men-and-books": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-my-portfolio": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-english-style": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aphelps-my-note-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin phelps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
