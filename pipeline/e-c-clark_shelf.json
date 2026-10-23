@@ -1,0 +1,32 @@
+{
+ "_about": "Edwin Charles Clark (1835-1917), Regius Professor of Civil Law at Cambridge, raw IA OCR of Early Roman Law: the regal period (1872). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "E. C. Clark",
+ "_name_words": [
+  "clark"
+ ],
+ "_surname": [
+  "e. c. clark"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-c-clark-early-roman-law-1872": [
+   "earlyromanlawreg00claruoft",
+   "Early Roman Law: the regal period, by E. C. Clark (London: Macmillan and Co., 1872)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-c-clark-early-roman-law-1872": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. c. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
