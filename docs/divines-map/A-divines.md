@@ -12405,3 +12405,13 @@ Slugs `stoughton-*`. Built from title pages read for round 59.
 | Ages of Christendom before the Reformation (London, England : Jackson and Walford, 1857) | have-ocr | IA `agesofchristend00stouuoft` |
 | His Ecclesiastical History of England (1867-1884) and History of Religion in England: volumes to be gathered as a set in a later round | pending | not shelved |
 | John Stoughton the Puritan (d. 1639); Hodder & Stoughton imprints by other authors | excluded | |
+
+## Thomas Raffles (round 59, my pick, 2026-10-23)
+
+Slugs `raffles-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoirs of the life and ministry of the late Rev. Thomas Spencer, of Liverpool : with an appendix, containing a selection from his papers, &c (Boston ; Published by C. Williams, 1813) | have-ocr | IA `memoirsoflifemin00raff` |
+| Purgatory and prayers for the dead : a lecture delivered in Grinshaw-Street and Lune-Street chapels, Preston, March 22nd and 29th, 1821 (Liverpool : Thomas Taylor, 1821) | have-ocr | IA `PurgatoryAndPrayersForTheDead` |
+| Sir Thomas Stamford Raffles, his cousin, and the memoir of Thomas Raffles by his son | excluded | |

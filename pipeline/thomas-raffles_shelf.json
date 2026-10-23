@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Thomas Raffles (1788-1863), Congregational minister of Great George Street Chapel, Liverpool, for the Word Hoard: Memoirs of the Life and Ministry of the Rev. Thomas Spencer (1813) and a lecture on Purgatory and Prayers for the Dead. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "raffles"
+ ],
+ "_surname": [
+  "thomas raffles",
+  "t. raffles",
+  "rev. thomas raffles"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "raffles-thomas-spencer": [
+   "memoirsoflifemin00raff",
+   "Memoirs of the life and ministry of the late Rev. Thomas Spencer, of Liverpool : with an appendix, containing a selection from his papers, &c (Boston ; Published by C. Williams, 1813)"
+  ],
+  "raffles-purgatory": [
+   "PurgatoryAndPrayersForTheDead",
+   "Purgatory and prayers for the dead : a lecture delivered in Grinshaw-Street and Lune-Street chapels, Preston, March 22nd and 29th, 1821 (Liverpool : Thomas Taylor, 1821)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "raffles-other": "Sir Thomas Stamford Raffles, his cousin, and the memoir of Thomas Raffles by his son"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "raffles-thomas-spencer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas raffles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "raffles-purgatory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas raffles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
