@@ -2039,3 +2039,6 @@
 
 ## 2026-10-22 22:40 CDT — harriet-t-comstock: done
 - harriet-t-comstock: new shelf, 11 Gutenberg books, 22,281 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — mary-cholmondeley: done
+- mary-cholmondeley: new shelf, 11 Gutenberg books, 16,883 units, 936 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -15457,3 +15457,21 @@ Shelf: `pipeline/harriet-t-comstock_shelf.json` (2026-10-22; added at the coordi
 | A Little Dusky Hero | have | PG 31366, `htcomstock-little-dusky-hero` (470 units) |
 | Mam'selle Jo | have | PG 49361, `htcomstock-mamselle-jo` (2885 units) |
 | Molly, the Drummer Boy: A Story of the Revolution | have | PG 62589, `htcomstock-molly-the-drummer-boy` (480 units) |
+
+## Mary Cholmondeley
+
+Shelf: `pipeline/mary-cholmondeley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Red Pottage | have | PG 14885, `mcholmondeley-red-pottage` (2939 units) |
+| Prisoners: Fast Bound In Misery And Iron | have | PG 18834, `mcholmondeley-prisoners` (2257 units) |
+| The Danvers Jewels, and Sir Charles Danvers | have | PG 19020, `mcholmondeley-danvers-jewels-and-sir-charles-danvers` (2721 units) |
+| The Lowest Rung Together with The Hand on the Latch, St. Luke's Summer and The Understudy | have | PG 24587, `mcholmondeley-lowest-rung-together-with-the-hand-on-the-latc` (775 units) |
+| Notwithstanding | have | PG 37781, `mcholmondeley-notwithstanding` (1998 units) |
+| Diana Tempest, Volume I | have | PG 37973, `mcholmondeley-diana-tempest-volume-i` (869 units) |
+| Diana Tempest, Volume II | have | PG 37974, `mcholmondeley-diana-tempest-volume-ii` (774 units) |
+| Diana Tempest, Volume III | have | PG 37975, `mcholmondeley-diana-tempest-volume-iii` (903 units) |
+| A Devotee: An Episode in the Life of a Butterfly | have | PG 40408, `mcholmondeley-devotee` (762 units) |
+| Moth and Rust; Together with Geoffrey's Wife and The Pitfall | have | PG 40566, `mcholmondeley-moth-and-rust` (1399 units) |
+| The Romance of His Life, and Other Romances | have | PG 40947, `mcholmondeley-romance-of-his-life-and-other-romances` (1486 units) |
