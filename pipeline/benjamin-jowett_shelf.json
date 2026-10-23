@@ -1,0 +1,113 @@
+{
+ "_about": "Benjamin Jowett (1817-1893), Regius Professor of Greek and Master of Balliol College, Oxford: his own writings, as distinct from his translations (Plato, Thucydides, Aristotle's Politics), which are on those authors' shelves. Raw IA OCR: The Epistles of St. Paul to the Thessalonians, Galatians, Romans, with critical notes and dissertations, second edition (London: John Murray, 1859), 2 vols; the three posthumous sermon volumes edited by W. H. Fremantle, Dean of Ripon (died 1916): College Sermons (1895), Sermons Biographical and Miscellaneous (1899) and Sermons on Faith and Doctrine (1901); and The Interpretation of Scripture and Other Essays (London Library; London: George Routledge; New York: E. P. Dutton; no year printed in the OCR), which reprints his Essays and Reviews essay from the fifth edition (1861) and the dissertations from the 1859 Epistles, with Leslie Stephen's 1897 essay on his life (Stephen died 1904). Also held, on the lewis-campbell shelf: the Jowett-Campbell Republic (1894, 3 vols), the Life and Letters by Abbott and Campbell (1897, 2 vols), the Letters (1899) and Campbell's Select Passages from his theological writings (1902). Not taken: Essays and Reviews (1860) itself, a seven-author volume; a 2020 Quadriga reprint of the Interpretation essay; Statements of Christian Doctrine and Practice (1861), extracts made by another hand; De Etruscorum Cultu (1841), Latin. Added at Adam's request, 2026-10-23 (lane B, round dy). No uids minted.",
+ "_author": "Benjamin Jowett (1817-1893)",
+ "_name_words": [
+  "jowett"
+ ],
+ "_surname": [
+  "benjamin jowett",
+  "b. jowett",
+  "jowett, benjamin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "benjamin-jowett-epistles-of-st-paul-v1-1859": [
+   "epistlesofstpaul01jowe",
+   "The Epistles of St. Paul to the Thessalonians, Galatians, Romans, with critical notes and dissertations, by the Rev. Benjamin Jowett, second edition, vol. I (London: John Murray, 1859)"
+  ],
+  "benjamin-jowett-epistles-of-st-paul-v2-1859": [
+   "a588536902joweuoft",
+   "The Epistles of St. Paul to the Thessalonians, Galatians, Romans, with critical notes and dissertations, by the Rev. Benjamin Jowett, second edition, vol. II (London: John Murray, 1859)"
+  ],
+  "benjamin-jowett-college-sermons-1895": [
+   "collegesermons00joweuoft",
+   "College Sermons, by the late Benjamin Jowett, edited by W. H. Fremantle, Dean of Ripon (London: John Murray, 1895)"
+  ],
+  "benjamin-jowett-sermons-biographical-1899": [
+   "sermonsbiographi00joweuoft",
+   "Sermons Biographical and Miscellaneous, by the late Benjamin Jowett, edited by W. H. Fremantle, Dean of Ripon (London: John Murray, 1899)"
+  ],
+  "benjamin-jowett-sermons-faith-doctrine-1901": [
+   "sermonsonfaithdo0000jowe",
+   "Sermons on Faith and Doctrine, by the late Benjamin Jowett, edited by W. H. Fremantle, Dean of Ripon (London: John Murray, 1901)"
+  ],
+  "benjamin-jowett-interpretation-of-scripture-essays": [
+   "a588541900joweuoft",
+   "The Interpretation of Scripture and Other Essays, by Benjamin Jowett, with the essay on Jowett's life by Sir Leslie Stephen (The London Library; London: George Routledge; New York: E. P. Dutton; no year in the OCR)"
+  ]
+ },
+ "_excluded": {
+  "Essays and Reviews (1860)": "seven-author volume; Jowett's essay is taken through the London Library reprint",
+  "IA jowett-on-the-interpretation-of-scripture": "Quadriga, Oxford, 2020: a modern reset edition, not a period scan",
+  "Statements of Christian Doctrine and Practice (1861)": "extracts from his writings compiled by another hand"
+ },
+ "_checks": {
+  "benjamin-jowett-epistles-of-st-paul-v1-1859": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benjamin-jowett-epistles-of-st-paul-v2-1859": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benjamin-jowett-college-sermons-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benjamin-jowett-sermons-biographical-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benjamin-jowett-sermons-faith-doctrine-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benjamin-jowett-interpretation-of-scripture-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin jowett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "between 1897 and 1907?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
