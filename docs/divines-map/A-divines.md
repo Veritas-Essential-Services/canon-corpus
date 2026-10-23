@@ -14323,3 +14323,16 @@ Slugs `wyclif-*`. Built from title pages read for round 81.
 | An Apology for Lollard Doctrines (1842) and The Last Age of the Church (1840), both only attributed to him and now generally denied to him | excluded | |
 | the Wycliffite Bible (Forshall and Madden, 1850) and the 1879 New Testament, which belong with the English Bibles | excluded | |
 | lives of him by Vaughan, Le Bas, Lechler and others | excluded | |
+
+## Huldreich Zwingli (round 81, my pick, 2026-10-23)
+
+Slugs `zwingli-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian education of youth (Collegeville, Pa., Thompson bros., 1899) | have-ocr | IA `christianeducati00zwin` |
+| Selected works of Huldreich Zwingli (1484-1531) : the reformer of German Switzerland (Philadelphia : University of Pennsylvian ; New York : sold by Longmans, Green, 1901) | have-ocr | IA `selectedworksofh00zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 1 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres01zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 2 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres02zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli :  together with selections from his German works, vol. 3 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres03zwin` |
+| lives of him by Christoffel, Jackson and others | excluded | |
