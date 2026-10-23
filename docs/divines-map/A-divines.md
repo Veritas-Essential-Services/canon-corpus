@@ -17111,3 +17111,17 @@ Slugs `zincke-*`. Built from title pages read for round 110.
 | Swiss allmends and a walk to see them, being a second month in Switzerland (London, Eng. : Smith, Elder, 1874) | have-ocr | IA `swissallmendsand00zincrich` |
 | A walk in the Grisons, being a third month in Switzerland (London, Smith, 1875) | have-ocr | IA `walkingrisonsbei00zincuoft` |
 | Some materials for the history of Wherstead (Ipswich : Read & Barrett, 1887) | have-ocr | IA `somematerialsfor00zinc` |
+
+## John Frederick Schroeder (round 110, my pick, 2026-10-23)
+
+Slugs `jfschroeder-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| The intellectual and moral resources of horticulture (New York, [E. Conrad, printer], 1828) | have-ocr | IA `intellectualmora00schr` |
+| The great man in Israel : a discourse on the character of the Right Reverend John Henry Hobart, D. D., delivered in Trinity Church, and St. Paul's and St. John's Chapels, in the city of New-York, September, A.D. MDCCCXXX [1830] (New-York : Printed at the Protestant Episcopal Press, 1830) | have-ocr | IA `greatmaninisrael00schr` |
+| Plea for the industrious poor and strangers, in sickness : an address delivered at the opening of an edifice erected by the trustees of the New-York D (New York : Printed at the Protestant Episcopal Press, 1830) | have-ocr | IA `pleaforindustrio00schr` |
+| Memoir of the life and character of Mrs. Mary Anna Boardman, with a historical account of her forefathers, and biographical and genealogical notices of many of her kindred and relatives (New Haven, Printed for private distribution, 1849) | have-ocr | IA `memoiroflifechar00schr` |
+| Life and times of Washington: containing a particular account of national principles and events, and of the illustrious men of the revolution, vol. 02 (New York : Johnson, Fry, and Company, 1857), IA lifetimeswashcon02schrrich: text file returned a server error | pending | not shelved |
+| Memorial of Bishop Hobart. A collection of sermons on the death of the Right Reverend John Henry Hobart, with a memoir of his life and writings (New York, T. and J. Swords, 1831), IA memorialofbishop00schr: sermons by several preachers on Hobart's death, which he collected with a memoir (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Maxims of Washington (maximsofwashingt00wash): Washington's own words, which Schroeder only compiled | excluded | |
