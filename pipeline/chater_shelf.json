@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Arthur G. Chater (1866-1951): Amundsen's The South Pole (1912), Nansen's In Northern Mists (1911), Brandes's Nietzsche (1914), Ellen Key's Love and Marriage (1911), Hamsun's Victoria (1923) and Duun's The Trough of the Wave (Knopf, 1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Arthur G. Chater (1866-1951): Amundsen's The South Pole (1912), Nansen's In Northern Mists (1911), Brandes's Nietzsche (1914), Ellen Key's Love and Marriage (1911), Hamsun's Victoria (1923) and Duun's The Trough of the Wave (Knopf, 1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 126 (2026-10-23, vetoable) added Undset's The Axe (1928), Heidenstam's The Tree of the Folkungs (1925) and Herman Bang's Ida Brandt (1929).",
  "_name_words": [
   "arthur g. chater",
   "a. g. chater",
@@ -42,7 +42,20 @@
    "The trough of the wave"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cha-undset-the-axe": [
+   "axetranslatedfro0000unse",
+   "The Axe (1928)"
+  ],
+  "cha-heidenstam-tree-of-the-folkungs": [
+   "treeoffolkungs0000vern",
+   "The Tree of the Folkungs (1925)"
+  ],
+  "cha-bang-ida-brandt": [
+   "bwb_S0-BGE-232",
+   "Ida Brandt (1929)"
+  ]
+ },
  "titles": {
   "chater-amundsen-the-south-pole-an-account-of-the-norwegi": {
    "source": "cha-4229",
@@ -100,6 +113,30 @@
    "translated": "1911-1930 (see the Gutenberg header)",
    "translator": "Arthur G. Chater",
    "scan_edition": "Project Gutenberg 40634 (clean text)"
+  },
+  "chater-undset-the-axe": {
+   "source": "cha-undset-the-axe",
+   "of": "Sigrid Undset",
+   "work": "The Axe (The Master of Hestviken I)",
+   "translated": 1928,
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Alfred A. Knopf, New York 1928; archive.org scan"
+  },
+  "chater-heidenstam-the-tree-of-the-folkungs": {
+   "source": "cha-heidenstam-tree-of-the-folkungs",
+   "of": "Verner von Heidenstam",
+   "work": "The Tree of the Folkungs",
+   "translated": 1925,
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Alfred A. Knopf, New York 1925; archive.org scan"
+  },
+  "chater-bang-ida-brandt": {
+   "source": "cha-bang-ida-brandt",
+   "of": "Herman Bang",
+   "work": "Ida Brandt",
+   "translated": 1929,
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Alfred A. Knopf, New York 1929; archive.org scan"
   }
  },
  "_pending": {},
@@ -110,7 +147,7 @@
  "_checks": {
   "cha-40633": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -119,7 +156,7 @@
   },
   "cha-40634": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -128,7 +165,7 @@
   },
   "cha-4229": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -137,7 +174,7 @@
   },
   "cha-47588": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -146,7 +183,7 @@
   },
   "cha-57592": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -155,7 +192,7 @@
   },
   "cha-74458": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
@@ -164,12 +201,45 @@
   },
   "cha-79140": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur g. chater",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Arthur G. Chater"
+  },
+  "cha-undset-the-axe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cha-heidenstam-tree-of-the-folkungs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. g. chater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cha-bang-ida-brandt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -207,6 +277,42 @@
    "pg": 79140,
    "pg_copyrighted_marker": false,
    "pg_translator": "Arthur G. Chater"
+  },
+  "cha-undset-the-axe": {
+   "ia": "axetranslatedfro0000unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cha-heidenstam-tree-of-the-folkungs": {
+   "ia": "treeoffolkungs0000vern",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1920,
+    1925
+   ],
+   "post_1930_years_in_front_15k": [
+    1983,
+    1992,
+    1993,
+    1994
+   ],
+   "post_1930_examined": "1983 and 1992-1994 are library date stamps on the scan, not printing dates"
+  },
+  "cha-bang-ida-brandt": {
+   "ia": "bwb_S0-BGE-232",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896,
+    1927,
+    1928,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

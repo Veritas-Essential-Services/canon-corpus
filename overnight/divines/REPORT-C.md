@@ -326,3 +326,5 @@
 - 2026-10-22T22:40-05:00: round 124: italian-classics +3 (Neera, Barrili, Manzoni), hispanic-classics +2 (Alarcon, Dinis), singles-fiction-3 +2 (Vikelas x2), singles-plays-poetry-2 +1 (Rustaveli). --verify --record 0 mismatched.
 
 - 2026-10-22T22:48-05:00: round 125: new willa-edwin-muir (2: Feuchtwanger), lowe-porter +1 (Magic Mountain), scheffauer +1, singles-plays-poetry-2 +5 (Werfel x2, Toller x2, Kaiser), singles-fiction-3 +1 (Gradiva); Success (1930) to _pending. --verify --record 0 mismatched.
+
+- 2026-10-22T22:53-05:00: Round 126 (2026-10-23): 7 titles, Scandinavian 1920s (Undset x2, Heidenstam x3, Bang, Aho). 0 mismatched, 0 rights flags, no uids.

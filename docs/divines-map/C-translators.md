@@ -1668,7 +1668,7 @@ Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelv
 ## Arthur G. Chater (Amundsen, Nansen, Brandes, Hamsun)
 
 Shelf: `pipeline/chater_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chater` · titles `python3 pipeline/split_shelf_titles.py chater`.
-Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Round 126 added Undset's The Axe, Heidenstam's The Tree of the Folkungs and Bang's Ida Brandt. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1679,6 +1679,9 @@ Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not convert
 | `chater-key-love-and-marriage` | Ellen Key | Love and Marriage | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 57592 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-1` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40633 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-2` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40634 |
+| `chater-undset-the-axe` | Sigrid Undset | The Axe (The Master of Hestviken I) | Arthur G. Chater | 1928 | have-raw | IA `axetranslatedfro0000unse` |
+| `chater-heidenstam-the-tree-of-the-folkungs` | Verner von Heidenstam | The Tree of the Folkungs | Arthur G. Chater | 1925 | have-raw | IA `treeoffolkungs0000vern` |
+| `chater-bang-ida-brandt` | Herman Bang | Ida Brandt | Arthur G. Chater | 1929 | have-raw | IA `bwb_S0-BGE-232` |
 | — | — | south-pole-volumes: The South Pole's two Gutenberg volume files (3414, 3415) are left out; 4229 holds both volumes. | — | — | excluded | — |
 
 ## Daniel De Leon (Sue's Mysteries of the People; Bebel)
@@ -3587,7 +3590,7 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920; Fröding's Selected Poems, 1916)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Round 126 added Heidenstam's The Charles Men II and The Swedes and Their Chieftains. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -3595,6 +3598,8 @@ Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. T
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
 | `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
 | `cw-stork-froding-selected-poems` | Gustaf Fröding | Selected Poems | Charles Wharton Stork | 1916 | have-raw | IA `selectedpoems00frodiala` |
+| `cw-stork-heidenstam-charles-men-2` | Verner von Heidenstam | The Charles Men (Karolinerna), Part II | Charles Wharton Stork | 1920 | have-raw | IA `charlesmenv20000vern` |
+| `cw-stork-heidenstam-the-swedes-and-their-chieftains` | Verner von Heidenstam | The Swedes and Their Chieftains | Charles Wharton Stork | 1925 | have-raw | IA `swedestheirchief0000heid` |
 | `cw-stork-anthology-of-swedish-lyrics` | — | Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
@@ -5701,7 +5706,7 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Round 126 added Undset's The Mistress of Husaby and Aho's Squire Hellman. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5796,6 +5801,8 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-vikelas-loukis-laras` | Demetrios Vikelas | Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence | J. Gennadius | 1881 | have-raw | IA `loukislarasremin00vike` |
 | `singles-fiction-3-vikelas-tales-from-the-aegean` | Demetrios Vikelas | Tales from the Aegean | Leonard Eckstein Opdycke | 1894 | have-raw | IA `talesfromgean00opdygoog` |
 | `singles-fiction-3-jensen-gradiva` | Wilhelm Jensen | Gradiva: a Pompeiian Fancy | Helen M. Downey | 1918 | have-raw | IA `gradivaapompeii00jensgoog` |
+| `singles-fiction-3-undset-the-mistress-of-husaby` | Sigrid Undset | The Mistress of Husaby (Kristin Lavransdatter II) | Charles Archer | 1925 | have-raw | IA `bwb_S0-BLO-546` |
+| `singles-fiction-3-aho-squire-hellman` | Juhani Aho | Squire Hellman, and Other Stories | R. Nisbet Bain | 1893 | have-raw | IA `squirehellmanoth00ahoj` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |

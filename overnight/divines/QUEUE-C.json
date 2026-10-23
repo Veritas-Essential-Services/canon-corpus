@@ -3968,6 +3968,14 @@
    "finished": "2026-10-22T22:48-05:00",
    "scope": "GAP-FILL (round 125, lane C's choice; Adam may veto) -- new willa-edwin-muir (2), lowe-porter +1, scheffauer +1, singles-plays-poetry-2 +5, singles-fiction-3 +1; PD printings before 1931 only; no minting",
    "notes": "10 titles; ids checked across all branches. Success (1930) to _pending. See DIGEST-C round 125. No uids minted."
+  },
+  {
+   "id": "gapfill-r126-scandinavian",
+   "status": "done",
+   "started": "2026-10-22T22:53-05:00",
+   "finished": "2026-10-22T22:53-05:00",
+   "scope": "Scandinavian novels of the 1920s: Undset, Heidenstam, Bang, Aho",
+   "notes": "7 titles on chater, cw-stork, singles-fiction-3; 0 mismatched, 0 rights flags"
   }
  ]
 }
