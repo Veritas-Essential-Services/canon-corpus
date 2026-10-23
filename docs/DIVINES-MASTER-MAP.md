@@ -11290,6 +11290,16 @@ Slugs `kershaw-*`. Built from title pages read for round 50.
 |---|---|---|
 | Memorials of the mercies of a covenant God while travelling through the wilderness being the autobiography of John Kershaw, of Rochdale, to which is added, an account of his last days, by his widow (London : [s.n, 1876) | have-ocr | IA `johnkershaw00kersuoft` |
 | Every other Kershaw in the catalogue is another person (chemistry, fuel, Charleston history) | excluded | |
+
+## Joseph Irons (round 50, my pick, 2026-10-23)
+
+Slugs `irons-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Zion's hymns ([London] : Printed for the Author, 1827) | have-ocr | IA `zionshymns00iron` |
+| Judah : the book of Psalms paraphrased in spiritual songs for public worship (London : Sold at the Author's house, 1847) | have-ocr | IA `judahblm00iron` |
+| William Josiah Irons's books (On the Holy Catholic Church 1837, the Prayer-book pamphlet 1863): another man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
