@@ -1,0 +1,189 @@
+{
+ "_about": "Public-domain Alfred Williams Momerie (1848-1900), Anglican priest, professor of logic at King's College London and preacher at the Foundling Hospital, for the Word Hoard: The Origin of Evil (1879), The Basis of Religion (1886), Belief in God (1886), Defects of Modern Christianity (1888), Agnosticism (1889), Personality, the Beginning and End of Metaphysics (1889), Inspiration (1889), Church and Creed (1890), Preaching and Hearing (1890), The Religion of the Future (1893) and Immortality (1901). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 79 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alfred williams momerie",
+  "a. w. momerie",
+  "momerie"
+ ],
+ "_surname": [
+  "momerie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "momerie-origin-of-evil": [
+   "originofevilothe00mome",
+   "The origin of evil and other sermons preached in St. Peter's, Cranley Gardens (catalogued 1888)"
+  ],
+  "momerie-basis-of-religion": [
+   "basisofreligionb00mome_0",
+   "The basis of religion, being an examination of \"Natural religion\" (Edinburgh, London, W. Blackwood and sons, 1886)"
+  ],
+  "momerie-belief-in-god": [
+   "beliefingod00mome",
+   "Belief in God (Edinburgh ; London : W. Blackwood, 1886)"
+  ],
+  "momerie-defects-modern-christianity": [
+   "defectsofmodernc00mome",
+   "Defects of modern Christianity : and other sermons ; preached in St. Peter's, Cranley Gardens, 1881-2 (Edinburgh : William Blackwood and Sons, 1888)"
+  ],
+  "momerie-agnosticism": [
+   "agnosticismsermo00mome",
+   "Agnosticism : sermons preached in St. Peter's, Cranley gardens, 1883-4 (Edinburgh ; London : William Blackwood and Sons, 1889)"
+  ],
+  "momerie-personality": [
+   "personalitythebe00momeuoft",
+   "Personality, the beginning and end of metaphysics, and a necessary assumption in all positive philosophy (Edinburgh, Blackwood, 1889)"
+  ],
+  "momerie-inspiration": [
+   "inspirationother00mome",
+   "Inspiration, and other sermons : delivered in the chapel of the Foundling hospital (Edinburgh ; London : William Blackwood, 1889)"
+  ],
+  "momerie-church-and-creed": [
+   "churchcreedsermo00mome",
+   "Church and creed; sermons preached in the chapel of the Foundling Hospital (Edinburgh, Blackwood, 1890)"
+  ],
+  "momerie-preaching-and-hearing": [
+   "preachinghearing00momeiala",
+   "Preaching and hearing : and other sermons (Edinburgh : William Blackwood and Sons, 1890)"
+  ],
+  "momerie-religion-of-future": [
+   "religionoffuture0000mome",
+   "The religion of the future : and other essays (Edinburgh ; London : W. Blackwood, 1893)"
+  ],
+  "momerie-immortality": [
+   "immortalityother00mome",
+   "Immortality and other sermons (Edinburgh : W. Blackwood and Sons, 1901)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "momerie-origin-of-evil": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-basis-of-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "momerie-belief-in-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-defects-modern-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-agnosticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-personality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "momerie-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "momerie-church-and-creed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-preaching-and-hearing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "momerie-religion-of-future": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "momerie-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "momerie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

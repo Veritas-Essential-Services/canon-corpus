@@ -14159,6 +14159,24 @@ Slugs `mcdowell-*`. Built from title pages read for round 79.
 | That I may save some (New York : Abingdon Press, 1928) | have-ocr | IA `thatimaysavesome0000mcdo` |
 | Them He also called (New York ; Cincinnati [etc.] : The Abingdon Press, 1929) | have-ocr | IA `themhealsocalled00mcdo` |
 | The Picket Line of Missions, Effective Workers in Needy Fields and The Revival, a Symposium are many-author volumes; everything printed 1930 or later | excluded | |
+
+## Alfred Williams Momerie (round 79, my pick, 2026-10-23)
+
+Slugs `momerie-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| The origin of evil and other sermons preached in St. Peter's, Cranley Gardens (catalogued 1888) | have-ocr | IA `originofevilothe00mome` |
+| The basis of religion, being an examination of "Natural religion" (Edinburgh, London, W. Blackwood and sons, 1886) | have-ocr | IA `basisofreligionb00mome_0` |
+| Belief in God (Edinburgh ; London : W. Blackwood, 1886) | have-ocr | IA `beliefingod00mome` |
+| Defects of modern Christianity : and other sermons ; preached in St. Peter's, Cranley Gardens, 1881-2 (Edinburgh : William Blackwood and Sons, 1888) | have-ocr | IA `defectsofmodernc00mome` |
+| Agnosticism : sermons preached in St. Peter's, Cranley gardens, 1883-4 (Edinburgh ; London : William Blackwood and Sons, 1889) | have-ocr | IA `agnosticismsermo00mome` |
+| Personality, the beginning and end of metaphysics, and a necessary assumption in all positive philosophy (Edinburgh, Blackwood, 1889) | have-ocr | IA `personalitythebe00momeuoft` |
+| Inspiration, and other sermons : delivered in the chapel of the Foundling hospital (Edinburgh ; London : William Blackwood, 1889) | have-ocr | IA `inspirationother00mome` |
+| Church and creed; sermons preached in the chapel of the Foundling Hospital (Edinburgh, Blackwood, 1890) | have-ocr | IA `churchcreedsermo00mome` |
+| Preaching and hearing : and other sermons (Edinburgh : William Blackwood and Sons, 1890) | have-ocr | IA `preachinghearing00momeiala` |
+| The religion of the future : and other essays (Edinburgh ; London : W. Blackwood, 1893) | have-ocr | IA `religionoffuture0000mome` |
+| Immortality and other sermons (Edinburgh : W. Blackwood and Sons, 1901) | have-ocr | IA `immortalityother00mome` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
