@@ -126,7 +126,7 @@ def make():
     json.dump(shelf, open(path, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     print(f"{path}: {len(gut)} books, {len(rep)} repeats, {len(elsewhere)} held elsewhere, {other_lang} not English")
 
-COPY = re.compile(r"(?i)(?:copyright(?:ed)?|\(c\)|©)[^\n]{0,60}?\b(19[3-9]\d|20\d\d)\b")
+COPY = re.compile(r"(?i)(?:copyright(?:ed)?|\(c\)|©)[^\n]{0,60}?\b(193[1-9]|19[4-9]\d|20\d\d)\b")
 def scan():
     path = f"pipeline/{a.shelf}_shelf.json"
     shelf = json.load(open(path, encoding="utf-8"))

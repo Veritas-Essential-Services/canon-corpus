@@ -16189,7 +16189,7 @@ Shelf: `pipeline/ge-farrow_shelf.json` (2026-10-22; added at the coordinator's r
 
 ## Madeline Brandeis
 
-Shelf: `pipeline/madeline-brandeis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Children of the World books for young readers. Every English text under the name at Gutenberg that no other shelf holds (4 books). Not in the manifest; no uids minted.
+Shelf: `pipeline/madeline-brandeis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Children of the World books for young readers. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -16197,7 +16197,8 @@ Shelf: `pipeline/madeline-brandeis_shelf.json` (2026-10-22; added at the coordin
 | The Wee Scotch Piper | have | PG 40664, `mbrandeis-wee-scotch-piper` (508 units) |
 | Little Jeanne of France | have | PG 40806, `mbrandeis-little-jeanne-of-france` (690 units) |
 | Shaun O'Day of Ireland | have | PG 41015, `mbrandeis-shaun-oday-of-ireland` (742 units) |
-| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934); PG 40856 Little Philippe of Belgium (copyright line 1930). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+| Little Philippe of Belgium | have | PG 40856, `mbrandeis-little-philippe-of-belgium` (864 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
 
 ## Frederick Orin Bartlett
 
@@ -16387,7 +16388,7 @@ Shelf: `pipeline/herbert-jenkins_shelf.json` (2026-10-22; added at the coordinat
 | Work | Status | Where |
 |---|---|---|
 | The Life of George Borrow | have | PG 3481, `hgjenkins-life-of-george-borrow` (2239 units) |
-| Malcolm Sage, Detective | pending | PG 28084, `hgjenkins-malcolm-sage-detective` (fetch failed) |
+| Malcolm Sage, Detective | have | PG 28084, `hgjenkins-malcolm-sage-detective` (2341 units) |
 | Adventures of Bindle | have | PG 32285, `hgjenkins-adventures-of-bindle` (2398 units) |
 | Bindle: Some Chapters in the Life of Joseph Bindle | have | PG 33261, `hgjenkins-bindle` (2086 units) |
 | John Dene of Toronto: A Comedy of Whitehall | have | PG 33277, `hgjenkins-john-dene-of-toronto` (2694 units) |

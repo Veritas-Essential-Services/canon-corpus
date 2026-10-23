@@ -2234,3 +2234,8 @@
 
 ## 2026-10-22 22:50 CDT — emily-ponsonby: done
 - emily-ponsonby: new shelf, 11 Gutenberg books, 10,535 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:51 CDT — batch 56 follow-ups
+- herbert-jenkins: new shelf, 8 Gutenberg books, 18,512 units, 952 ~2 ids; verify 0 mismatches, 0 rights flags (Malcolm Sage, Detective checks for his full name, as its Gutenberg header gives it).
+- madeline-brandeis: new shelf, 5 Gutenberg books, 3,246 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags (Little Philippe of Belgium (copyright 1930) taken after the scan was corrected to let 1930 through).
+- The post-1930 scan now treats 1930 as public domain (it had held a 1930 book); no earlier batch had held a 1930 book.

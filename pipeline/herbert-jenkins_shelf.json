@@ -56,6 +56,15 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "hgjenkins-malcolm-sage-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert george jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "hgjenkins-adventures-of-bindle": {
    "kind": "gutenberg",
    "checked": "2026-10-23",
@@ -110,5 +119,11 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_surname_by_slug": {
+  "hgjenkins-malcolm-sage-detective": [
+   "herbert george jenkins",
+   "herbert jenkins"
+  ]
  }
 }

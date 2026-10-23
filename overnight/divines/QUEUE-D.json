@@ -5020,7 +5020,7 @@
       "status": "done",
       "started": "2026-10-22T22:49:24-05:00",
       "finished": "2026-10-22T22:49:24-05:00",
-      "notes": "madeline-brandeis: new shelf, 4 Gutenberg books, 2,382 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+      "notes": "madeline-brandeis: new shelf, 5 Gutenberg books, 3,246 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags (Little Philippe of Belgium (copyright 1930) taken after the scan was corrected to let 1930 through)."
     },
     {
       "id": "frederick-orin-bartlett",
@@ -5121,10 +5121,10 @@
     {
       "id": "herbert-jenkins",
       "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Herbert Jenkins; no minting",
-      "status": "done-with-defects",
+      "status": "done",
       "started": "2026-10-22T22:50:26-05:00",
       "finished": "2026-10-22T22:50:26-05:00",
-      "notes": "herbert-jenkins: new shelf, 7 Gutenberg books, 16,171 units, 873 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch."
+      "notes": "herbert-jenkins: new shelf, 8 Gutenberg books, 18,512 units, 952 ~2 ids; verify 0 mismatches, 0 rights flags (Malcolm Sage, Detective checks for his full name, as its Gutenberg header gives it)."
     },
     {
       "id": "cutcliffe-hyne",
