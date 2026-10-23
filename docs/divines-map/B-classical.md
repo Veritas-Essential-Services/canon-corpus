@@ -9734,3 +9734,12 @@ Shelf: `pipeline/j-h-e-crees_shelf.json`. Claudian (1908) and the Emperor Probus
 | Claudian as an Historical Authority (1908) |  | `crees-claudian-historical-authority-1908` | have-raw (IA `claudianashistor00creeuoft`) |
 | The Reign of the Emperor Probus (1911) |  | `crees-reign-emperor-probus-1911` | have-raw (IA `reignofemperorpr00creerich`) |
 
+
+## J. C. Tarver (1854-1926)
+
+Shelf: `pipeline/j-c-tarver_shelf.json`. Tiberius the Tyrant (1902). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Tiberius the Tyrant (1902) |  | `tarver-tiberius-the-tyrant-1902` | have-raw (IA `cu31924028300550`) |
+
