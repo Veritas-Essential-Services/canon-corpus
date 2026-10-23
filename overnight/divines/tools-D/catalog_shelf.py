@@ -60,7 +60,8 @@ def held(out):
             for sec in ("_excluded", "_held"):
                 v = d.get(sec) or {}
                 txt = json.dumps(v)
-                for m in re.findall(r"\bpg-(\d+)", txt, re.I) + re.findall(r"\bPG (\d+)", txt):
+                lists = re.findall(r"\bPG ((?:\d+(?:, (?:and )?|,? and ))*\d+)", txt)  # "PG 545, 29405 and 69338"
+                for m in re.findall(r"\bpg-(\d+)", txt, re.I) + [i for l in lists for i in re.findall(r"\d+", l)]:
                     add(m, f"{name}:{sec}")
         elif name.endswith(".py"):
             t = body.decode("utf-8", "replace")
