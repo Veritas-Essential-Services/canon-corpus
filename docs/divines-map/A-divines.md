@@ -10588,3 +10588,16 @@ Slugs `jscott-*`. Built from title pages read for round 45.
 | The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 4 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro04scot` |
 | The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 5 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro05scot` |
 | The Works (1718 and the Oxford 1826 set, Google copies) | alternate | not shelved |
+
+## Richard Lucas (round 45, my pick, 2026-10-22)
+
+Slugs `lucas-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| An enquiry after happiness in three parts, vol. 1 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764) | have-ocr | IA `enquiryafterhapp01luca` |
+| An enquiry after happiness in three parts, vol. 2 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764) | have-ocr | IA `enquiryafterhapp02luca` |
+| Religious perfection : or, a third part of the enquiry after happiness (London : Printed for W. Innys, 1749) | have-ocr | IA `religiousperfect00luca` |
+| Twelve sermons preached on several occasions (Printed for Sam. Smith and B. Walford, 1699) | have-ocr | IA `twelvesermonspr00lucagoog` |
+| Practical Christianity (1677, EEBO): the scan's OCR is unreadable and its title page was not checked; a later, clearer printing would be a better copy | pending | not shelved |
+| Many other printings of the Enquiry, the Duty of Servants, the Influence of Conversation, and the Fifteen Sermons on Death and Judgment | alternate | not shelved |
