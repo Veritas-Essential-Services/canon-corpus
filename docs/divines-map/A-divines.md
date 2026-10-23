@@ -12735,3 +12735,33 @@ Slugs `jhall-*`. Built from title pages read for round 62.
 | Four lectures on the religious use of property (Cleveland : Leader Printing Co., 1883) | have-ocr | IA `fourlecturesonre00hall` |
 | familiartalkstob0000hall: Familiar Talks to Boys (Dodd, Mead, 1876); the OCR of its title page has lost the author line ('By the ...'), and nothing else in the opening names John Hall; to be read from the page image | pending | not shelved |
 | The American Evangelists, D. L. Moody and Ira D. Sankey (1875, with George H. Stuart); Godet on St. Luke and Sampson's Beacon-Lights of the Reformation, which he introduced; other John Halls | excluded | |
+
+## A. K. H. Boyd (round 63, my pick, 2026-10-23)
+
+Slugs `akhboyd-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| The recreations of a country parson (London, Strahan, 1866) | have-ocr | IA `recreationsofcou00boyduoft` |
+| The recreations of a country parson. 2d series (Boston, J.R. Osgood and Co., 1873) | have-ocr | IA `recreationsofcou0000boyd_u3b6` |
+| The graver thoughts of a country parson (Boston, J. R. Osgood and company, 1873) | have-ocr | IA `graverthoughtsof00boyd_1` |
+| Leisure hours in town (Boston. J. R. Osgood and company, 1874) | have-ocr | IA `leisurehoursinto01boyd` |
+| The every-day philosopher in town and country (Boston, Fields, Osgood, & co., 1869) | have-ocr | IA `everydayphilosop01boyd` |
+| The autumn holidays of a country parson (Boston, Fields, Osgood, & co., 1869) | have-ocr | IA `autumnholidaysof01boyd` |
+| Counsel and comfort : spoken from a city pulpit (London : Strahan & Co., 1868) | have-ocr | IA `counselandcomfor00boyduoft` |
+| The critical essays of a country parson (London, Longmans, Green, and co., 1867) | have-ocr | IA `criticalessaysof00boyd` |
+| Lessons of middle age, with some account of various cities and men (London, Longmans, Green, & co., 1869) | have-ocr | IA `lessonsofmiddlea00boyd` |
+| Sunday afternoons at the parish church of a university city (London, Longmans, Green, and co., 1869) | have-ocr | IA `sundayafternoons00boyd` |
+| The commonplace philosopher in town and country (London, Longmans, Green & Co., 1871) | have-ocr | IA `commonplacephilo00boydrich` |
+| Present-day thoughts, memorials of St. Andrews Sundays (London, Longmans, Green, & co., 1874) | have-ocr | IA `presentdaythough00boyd` |
+| A Scotch Communion Sunday: To which are Added Certain Discourses from a University City / by the (Henry S. King, 1873) | have-ocr | IA `ascotchcommunio00boydgoog` |
+| From a quiet place: some discourses (C. Kegan Paul, 1879, 1879) | have-ocr | IA `fromaquietplace00boydgoog` |
+| Our Little Life: Essays Consolatory and Domestic with Some Others (Longmans, Green, 1882) | have-ocr | IA `OurLittleLife` |
+| East coast days; and memories (London, Longmans, Green, 1889) | have-ocr | IA `eastcoastdaysmem00boyd` |
+| Twenty-five years of St. Andrews, September 1865 to September 1890, vol. 1 (London, New York : Longmans, Green, 1892) | have-ocr | IA `twentyfiveyearso0001boyd` |
+| Twenty-five years of St. Andrews, September 1865 to September, 1890, vol. 2 (London : Longmans, Green, 1892) | have-ocr | IA `twentyfiveyearso02yyybuoft` |
+| St. Andrews and elsewhere : glimpses of some gone and of things left (London : Longmans, Green, 1894) | have-ocr | IA `standrewselsewhe00boyd` |
+| Occasional and immemorial days (London and New York, Longmans, Green and co., 1895) | have-ocr | IA `occasionalimmemo00boyd` |
+| The last years of St. Andrews : September 1890 to September 1895 (London : Longmans, Green, 1896) | have-ocr | IA `lastyearsofstand00boyduoft` |
+| ourlittlelifees00boydgoog has no text file on Internet Archive (404); swapped for this upload of the same Longmans printing | alternate | not shelved |
+| Nagananda, the Buddhist drama translated by Palmer Boyd (another man); legal and other books by other Boyds | excluded | |
