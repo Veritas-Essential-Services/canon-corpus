@@ -1,0 +1,32 @@
+{
+ "_about": "F. E. Thompson, assistant master at Marlborough College, raw IA OCR of A Syntax of Attic Greek (1883). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "F. E. Thompson",
+ "_name_words": [
+  "thompson"
+ ],
+ "_surname": [
+  "f. e. thompson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-e-thompson-syntax-of-attic-greek-1883": [
+   "asyntaxatticgre00thomgoog",
+   "A Syntax of Attic Greek, by F. E. Thompson (London: Rivingtons, 1883)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "f-e-thompson-syntax-of-attic-greek-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. e. thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
