@@ -1,0 +1,33 @@
+{
+ "_about": "H. T. Inman, raw IA OCR of Rome the Cradle of Western Civilisation as illustrated by existing monuments (1912). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "H. T. Inman",
+ "_name_words": [
+  "inman"
+ ],
+ "_surname": [
+  "h. t. inman",
+  "inman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-t-inman-rome-cradle-of-western-civilisation-1912": [
+   "romecradleofwest00inmauoft",
+   "Rome the Cradle of Western Civilisation as illustrated by existing monuments, by H. T. Inman (London: Edward Stanford, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "h-t-inman-rome-cradle-of-western-civilisation-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. t. inman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
