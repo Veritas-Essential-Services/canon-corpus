@@ -9162,3 +9162,14 @@ Shelf: `pipeline/james-hadley_shelf.json`. Roman law lectures (1874) and philolo
 
 Excluded: A Greek Grammar for Schools and Colleges (school grammar, skipped by lane B rule)
 
+
+## Rudolph Sohm (1841-1917)
+
+Shelf: `pipeline/rudolph-sohm_shelf.json`. The Institutes of Roman private law, tr. Ledlie, 3rd ed. (1907). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Institutes: a Textbook of the History and System of Roman Private Law, 3rd ed. (1907), tr. James Crawford Ledlie |  | `sohm-institutes-1907` | have-raw (IA `institutesatext01grgoog`) |
+
+Excluded: The Institutes of Roman Law (1892), 2nd ed. (1901) (superseded by the 3rd English edition of 1907)
+
