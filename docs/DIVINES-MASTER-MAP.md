@@ -20482,6 +20482,24 @@ Shelf: `pipeline/w-j-woodhouse_shelf.json`. Aetolia: its Geography, Topography, 
 |---|---|---|---|
 | Aetolia: its Geography, Topography, and Antiquities (Oxford: Clarendon Press, 1897) |  | `woodhouse-aetolia-1897` | have-raw (IA `cu31924028301962`) |
 
+
+## Sir William Gell (1777-1836)
+
+Shelf: `pipeline/william-gell_shelf.json`. The Topography of Troy and its Vicinity (London, 1804); The Geography and Antiquities of Ithaca (London, 1807); The Itinerary of Greece, with a Commentary on Pausanias and Strabo (London, 1810); Itinerary of the Morea (London, 1817); Pompeiana: the Topography, Edifices, and Ornaments of Pompeii, with J. P. Gandy (London, 1817-19); Narrative of a Journey in the Morea (London, 1823); Pompeiana, the result of excavations since 1819, vol. I; Pompeiana, the result of excavations since 1819, vol. II; The Topography of Rome and its Vicinity, vol. I (London, 1834); The Topography of Rome and its Vicinity, vol. II (London, 1834) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Topography of Troy and its Vicinity (London, 1804) |  | `gell-topography-of-troy-1804` | have-raw (IA `gri_33125011205669`) |
+| The Geography and Antiquities of Ithaca (London, 1807) |  | `gell-geography-antiquities-ithaca-1807` | have-raw (IA `geographyantiqui00gell`) |
+| The Itinerary of Greece, with a Commentary on Pausanias and Strabo (London, 1810) |  | `gell-itinerary-of-greece-1810` | have-raw (IA `gri_33125008698132`) |
+| Itinerary of the Morea (London, 1817) |  | `gell-itinerary-of-the-morea-1817` | have-raw (IA `india.history.resource.71304`) |
+| Pompeiana: the Topography, Edifices, and Ornaments of Pompeii, with J. P. Gandy (London, 1817-19) |  | `gell-gandy-pompeiana-1817` | have-raw (IA `pompeianaedifice00gell`) |
+| Narrative of a Journey in the Morea (London, 1823) |  | `gell-narrative-journey-morea-1823` | have-raw (IA `10466866bsb`) |
+| Pompeiana, the result of excavations since 1819, vol. I |  | `gell-pompeiana-new-series-v1` | have-raw (IA `pompeianatopogra01gell`) |
+| Pompeiana, the result of excavations since 1819, vol. II |  | `gell-pompeiana-new-series-v2` | have-raw (IA `pompeianatopogra02gell`) |
+| The Topography of Rome and its Vicinity, vol. I (London, 1834) |  | `gell-topography-rome-v1-1834` | have-raw (IA `topographyromevicin01gell`) |
+| The Topography of Rome and its Vicinity, vol. II (London, 1834) |  | `gell-topography-rome-v2-1834` | have-raw (IA `topographyromevicin02gell`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

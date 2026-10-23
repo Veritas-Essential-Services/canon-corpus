@@ -1,0 +1,180 @@
+{
+ "_about": "Sir William Gell (1777-1836), classical topographer: The Topography of Troy (1804), The Geography and Antiquities of Ithaca (1807), The Itinerary of Greece (1810), The Itinerary of the Morea (1817), Pompeiana (with J. P. Gandy, 1817-19), Narrative of a Journey in the Morea (1823), Pompeiana, the new series (2 vols), and The Topography of Rome and its Vicinity (1834, 2 vols). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Sir William Gell (1777-1836)",
+ "_name_words": [
+  "gell",
+  "william",
+  "pompeiana",
+  "topography",
+  "itinerary"
+ ],
+ "_surname": [
+  "gell",
+  "william gell",
+  "w. gell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gell-topography-of-troy-1804": [
+   "gri_33125011205669",
+   "The Topography of Troy and its Vicinity (London, 1804)"
+  ],
+  "gell-geography-antiquities-ithaca-1807": [
+   "geographyantiqui00gell",
+   "The Geography and Antiquities of Ithaca (London, 1807)"
+  ],
+  "gell-itinerary-of-greece-1810": [
+   "gri_33125008698132",
+   "The Itinerary of Greece, with a Commentary on Pausanias and Strabo (London, 1810)"
+  ],
+  "gell-itinerary-of-the-morea-1817": [
+   "india.history.resource.71304",
+   "Itinerary of the Morea (London, 1817)",
+   "71304_djvu.txt"
+  ],
+  "gell-gandy-pompeiana-1817": [
+   "pompeianaedifice00gell",
+   "Pompeiana: the Topography, Edifices, and Ornaments of Pompeii, with J. P. Gandy (London, 1817-19)"
+  ],
+  "gell-narrative-journey-morea-1823": [
+   "10466866bsb",
+   "Narrative of a Journey in the Morea (London, 1823)"
+  ],
+  "gell-pompeiana-new-series-v1": [
+   "pompeianatopogra01gell",
+   "Pompeiana, the result of excavations since 1819, vol. I"
+  ],
+  "gell-pompeiana-new-series-v2": [
+   "pompeianatopogra02gell",
+   "Pompeiana, the result of excavations since 1819, vol. II"
+  ],
+  "gell-topography-rome-v1-1834": [
+   "topographyromevicin01gell",
+   "The Topography of Rome and its Vicinity, vol. I (London, 1834)"
+  ],
+  "gell-topography-rome-v2-1834": [
+   "topographyromevicin02gell",
+   "The Topography of Rome and its Vicinity, vol. II (London, 1834)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gell-topography-of-troy-1804": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-geography-antiquities-ithaca-1807": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gell-itinerary-of-greece-1810": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-itinerary-of-the-morea-1817": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gell-gandy-pompeiana-1817": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-narrative-journey-morea-1823": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gell-pompeiana-new-series-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-pompeiana-new-series-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-topography-rome-v1-1834": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gell-topography-rome-v2-1834": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "gell-itinerary-of-greece-1810": {
+   "author": "engraved title page image (n6) read 2026-10-23: 'The Itinerary of Greece, with a commentary on Pausanias and Strabo ... by W. Gell Esq ... London printed for T. Payne 1810' (Argolis); engraved lettering defeats OCR"
+  }
+ }
+}
