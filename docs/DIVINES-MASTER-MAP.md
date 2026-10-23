@@ -16507,6 +16507,22 @@ Slugs `lorimer-*`. Built from title pages read for round 103.
 | The modern crisis in religion (New York, Chicago [etc.] Fleming H. Revell company, 1904) | have-ocr | IA `moderncrisisinr00lori` |
 | The Master of Millions and The False Gods (novels) | excluded | |
 | Under the Evergreens, Robert Burns, What I Know about Books (not theology); The People's Bible History (many contributors) | excluded | |
+
+## Joseph Tuckerman (round 103, my pick, 2026-10-23)
+
+Slugs `tuckerman-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| A funeral oration. Occasioned by the death of General George Washington. Written at the request of the Boston Mechanic Association, and delivered before them, on the 22d of Feb. 1800. By Joseph Tuckerman. [Four lines in Latin from Seneca].  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_a-funeral-oration-occas_tuckerman-joseph_1800` |
+| Ministers Reports (catalogued 1827) | have-ocr | IA `ministersreports0000jose` |
+| Mr. Tuckerman's seventh semiannual report of his service as a minister at large in Boston (Boston : Gray and Bowen : printed for the American Unitarian Association, 1831) | have-ocr | IA `mrtuckermansseve00tuck` |
+| A sermon preached on Sunday evening, Nov. 2, 1834 : at the ordination of Charles F. Barnard and Frederick T. Gray, as ministers at large in Boston (Boston : Russell, Odiorne and Metcalf and James Munroe and Co., 1834) | have-ocr | IA `sermonpreachedon00tuck` |
+| Gleams of Truth: Or, Scenes from Real Life (James Munroe and Company, 1835) | have-ocr | IA `gleamstruthorsc00tuckgoog` |
+| The principles and results of the ministry at large in Boston (n.p, n.d) | have-ocr | IA `principlesresult00tuck` |
+| Joseph Tuckerman on the Elevation of the Poor: A Selection from His Reports (catalogued 1874) | have-ocr | IA `josephtuckerman00tuckgoog` |
+| The Visitor of the Poor (Degerando's book, which Tuckerman introduced) | excluded | |
+| A Memorial of Rev. Joseph Tuckerman (by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
