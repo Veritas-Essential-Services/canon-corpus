@@ -12612,6 +12612,30 @@ Slugs `bethune-*`. Built from title pages read for round 61.
 | Expository lectures on the Heidelberg catechism, vol. 1 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect01beth` |
 | Expository lectures on the Heidelberg catechism, vol. 2 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect02beth` |
 | The British Female Poets (1848, an anthology he edited); his edition of Walton's Complete Angler (1847); The Living Pulpit (sermons by several hands) | excluded | |
+
+## A. Cleveland Coxe (round 61, my pick, 2026-10-23)
+
+Slugs `coxe-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Advent, a mystery (New York : John S. Taylor, 1837) | have-ocr | IA `adventmy00coxe` |
+| Christian ballads (New York : Wiley and Putnam, 1840) | have-ocr | IA `christianballads00coxe` |
+| Athanasion (New York, Wiley and Putnam, 1842) | have-ocr | IA `athanasion00coxe` |
+| Saul, a mystery (New York : D. Appleton & Co., 1845) | have-ocr | IA `saul00coxe` |
+| Halloween; a romaunt, with lays, meditative and devotional (Hartford, H. S. Parsons, 1845) | have-ocr | IA `halloweenromaunt00coxe` |
+| Sermons on doctrine and duty (Philadelphia, Hooker, 1855) | have-ocr | IA `sermonsondoctrin00coxeuoft` |
+| Impressions of England : or, Sketches of English scenery and society (New York : Dana and Company, 1856) | have-ocr | IA `sketcheng00coxe` |
+| An apology for the common English Bible : and a review of the extraordinary changes made in it by managers of the American Bible Society (Baltimore [Md.] : Joseph Robinson, 1857) | have-ocr | IA `apologyforcommon00coxe` |
+| The church and the press: or, Christian literature the inheritance of the church, and the press an educator and an evangelist (New York, General Protestant Episcopal S.S. Union and Church Book Society, 1859) | have-ocr | IA `cu31924031433497` |
+| Thoughts on the services : designed as an introduction to the liturgy, and an aid to its devout use (New York : F. D. Harriman, agent, 1861) | have-ocr | IA `thoughtsonservic00coxe` |
+| The criterion : a means of distinguishing truth from error, in questions of our times : with four letters on the Eirenicon of Dr. Pusey (New York : H.B. Durand, 1866) | have-ocr | IA `thecriterionamea00coxeuoft` |
+| Moral reforms suggested in a pastoral letter. With remarks on practical religion (Philadelphia, J.B. Lippincott, and co., 1869) | have-ocr | IA `moralreformssugg00coxe` |
+| Apollos, Or, The Way of God: A Plea for the Religion of Scripture (J. Parker, 1874) | have-ocr | IA `apollosorwaygod00coxegoog` |
+| Institutes of Christian history; an introduction to historic reading and study (Chicago : A.C. McClung and company, 1887) | have-ocr | IA `institutesofchri00coxe` |
+| The Paschal : poems for passion-tide and Easter (New York : James Pott & Co., 1889) | have-ocr | IA `paschalp00coxe` |
+| Holy writ and modern thought : a review of times and teachers (New York : Dutton, 1892) | have-ocr | IA `holywritmodernth00coxe` |
+| The American edition of the Ante-Nicene Fathers, which he edited (translations by others); Guettee's The Papacy, which he introduced; William Croswell's Poems, which he edited | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

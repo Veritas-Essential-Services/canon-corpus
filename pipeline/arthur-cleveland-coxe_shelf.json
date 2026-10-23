@@ -1,0 +1,282 @@
+{
+ "_about": "Public-domain Arthur Cleveland Coxe (1818-1896), Episcopal Bishop of Western New York, poet and controversialist, for the Word Hoard: Advent, a Mystery (1837), Christian Ballads (1840), Athanasion (1842), Saul, a Mystery (1845), Halloween, a Romaunt (1845), Sermons on Doctrine and Duty (1855), Impressions of England (1856), An Apology for the Common English Bible (1857), The Church and the Press (1859), Thoughts on the Services (1861), The Criterion (1866), Moral Reforms (1869), Apollos, or the Way of God (1874), Institutes of Christian History (1887), The Paschal (1889) and Holy Writ and Modern Thought (1892). from Internet Archive scans. Added 2026-10-23 by lane A, round 61 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "coxe",
+  "cox",
+  "cleveland"
+ ],
+ "_surname": [
+  "a. cleveland coxe",
+  "arthur cleveland coxe",
+  "a. c. coxe",
+  "cleveland coxe",
+  "bishop coxe",
+  "arthur cleveland cox",
+  "a. cleveland cox",
+  "cleveland cox"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "coxe-advent": [
+   "adventmy00coxe",
+   "Advent, a mystery (New York : John S. Taylor, 1837)"
+  ],
+  "coxe-christian-ballads": [
+   "christianballads00coxe",
+   "Christian ballads (New York : Wiley and Putnam, 1840)"
+  ],
+  "coxe-athanasion": [
+   "athanasion00coxe",
+   "Athanasion (New York, Wiley and Putnam, 1842)"
+  ],
+  "coxe-saul": [
+   "saul00coxe",
+   "Saul, a mystery (New York : D. Appleton & Co., 1845)"
+  ],
+  "coxe-halloween": [
+   "halloweenromaunt00coxe",
+   "Halloween; a romaunt, with lays, meditative and devotional (Hartford, H. S. Parsons, 1845)"
+  ],
+  "coxe-sermons-doctrine-duty": [
+   "sermonsondoctrin00coxeuoft",
+   "Sermons on doctrine and duty (Philadelphia, Hooker, 1855)"
+  ],
+  "coxe-impressions-of-england": [
+   "sketcheng00coxe",
+   "Impressions of England : or, Sketches of English scenery and society (New York : Dana and Company, 1856)"
+  ],
+  "coxe-apology-english-bible": [
+   "apologyforcommon00coxe",
+   "An apology for the common English Bible : and a review of the extraordinary changes made in it by managers of the American Bible Society (Baltimore [Md.] : Joseph Robinson, 1857)"
+  ],
+  "coxe-church-and-press": [
+   "cu31924031433497",
+   "The church and the press: or, Christian literature the inheritance of the church, and the press an educator and an evangelist (New York, General Protestant Episcopal S.S. Union and Church Book Society, 1859)"
+  ],
+  "coxe-thoughts-on-services": [
+   "thoughtsonservic00coxe",
+   "Thoughts on the services : designed as an introduction to the liturgy, and an aid to its devout use (New York : F. D. Harriman, agent, 1861)"
+  ],
+  "coxe-criterion": [
+   "thecriterionamea00coxeuoft",
+   "The criterion : a means of distinguishing truth from error, in questions of our times : with four letters on the Eirenicon of Dr. Pusey (New York : H.B. Durand, 1866)"
+  ],
+  "coxe-moral-reforms": [
+   "moralreformssugg00coxe",
+   "Moral reforms suggested in a pastoral letter. With remarks on practical religion (Philadelphia, J.B. Lippincott, and co., 1869)"
+  ],
+  "coxe-apollos": [
+   "apollosorwaygod00coxegoog",
+   "Apollos, Or, The Way of God: A Plea for the Religion of Scripture (J. Parker, 1874)"
+  ],
+  "coxe-institutes": [
+   "institutesofchri00coxe",
+   "Institutes of Christian history; an introduction to historic reading and study (Chicago : A.C. McClung and company, 1887)"
+  ],
+  "coxe-paschal": [
+   "paschalp00coxe",
+   "The Paschal : poems for passion-tide and Easter (New York : James Pott & Co., 1889)"
+  ],
+  "coxe-holy-writ": [
+   "holywritmodernth00coxe",
+   "Holy writ and modern thought : a review of times and teachers (New York : Dutton, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "coxe-other": "The American edition of the Ante-Nicene Fathers, which he edited (translations by others); Guettee's The Papacy, which he introduced; William Croswell's Poems, which he edited"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "coxe-christian-ballads": "published anonymously: the title page (read from the page image) reads only 'Christian Ballads ... New-York: Wiley and Putnam, 1840', with a dedication to John Henry Hobart; Coxe's acknowledged first collection, catalogued under him by Princeton, and the later printings (1849 onward) carry his name",
+  "coxe-athanasion": "published anonymously: title page 'Athanasion, second edition, with notes and corrections, also miscellaneous poems, by the author of \"Christian Ballads\"' (New York: Wiley and Putnam, 1842)",
+  "coxe-saul": "published anonymously: title page 'Saul, a Mystery, by the author of \"Christian Ballads,\" \"Athanasion,\" etc.' (New York: D. Appleton, 1845)",
+  "coxe-halloween": "published anonymously: title page 'Halloween, a Romaunt, with lays meditative and devotional, by the author of \"Christian Ballads\"' (Hartford: H. S. Parsons, 1845)",
+  "coxe-impressions-of-england": "title page: 'Impressions of England; or, Sketches of English Scenery and Society, by A. Cl e veland C o x r [A. Cleveland Coxe], Rector of Grace Church, Baltimore' (letters spaced in the OCR)",
+  "coxe-apology-english-bible": "title page read from the page image: 'An Apology for the Common English Bible ... third edition, Baltimore: Joseph Robinson, 1857'; the preface is signed 'A. C. C.' from Baltimore, and the Princeton copy has 'by Arthur Cleveland Coxe' written on the title page",
+  "coxe-church-and-press": "title page: 'The Church and the Press: or, Christian literature the inheritance of the Church ... a sermon preached in Richmond, at St. Paul's Church, October 12, 1859 ... by A. Cleveland C^oxe [Coxe], Rector of Grace Church, Baltimore'",
+  "coxe-apollos": "title page (after the Google notice): 'Apollos; or, the Way of God: a plea for the religion of Scripture, by A. Cleveiiand [Cleveland] Coxe, Bishop of Western New York' (Oxford and London: James Parker, 1874)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "coxe-advent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur cleveland cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-christian-ballads": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-athanasion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "coxe-saul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-halloween": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "coxe-sermons-doctrine-duty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-impressions-of-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-apology-english-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-church-and-press": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-thoughts-on-services": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-criterion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-moral-reforms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "coxe-apollos": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-institutes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coxe-paschal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coxe-holy-writ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. cleveland coxe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
