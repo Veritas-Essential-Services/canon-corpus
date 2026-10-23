@@ -18608,6 +18608,19 @@ Slugs `diman-*`. Built from title pages read for round 126.
 | Orations and essays : with selected parish sermons (Boston : Houghton, Mifflin, and Co., 1882) | have-ocr | IA `orationsessayswi00dima` |
 | Ceremonies at the Unveiling of the Monument to Roger Williams (1877), IA ceremoniesatunv00coungoog: his oration with other men's addresses (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | bwb_Y0-CQH-907, a later printing of The Theistic Argument | excluded | |
+
+## Thomas A. Jaggar (round 126, my pick, 2026-10-23)
+
+Slugs `jaggar-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon (New York : R.C. Root, Anthony & Co., Printers, 1865) | have-ocr | IA `sermon00jagg` |
+| Good stewards : a sermon preached in St. Paul's Church, Cheltenham, Pa., Sunday Evening, December 17th, 1871 / by the Rev. Thomas A. Jaggar (Cheltenham Press, Wm. P. Hallowell, Pr., 1872) | have-ocr | IA `goodstewardsserm00jagg` |
+| Sermons preached in Christ Church Cathedral, Montreal : "the presence of the comforter in the particular or national church" ([Montreal? : s.n.], 1883) | have-ocr | IA `cihm_64800` |
+| The man of the ages, and other recent sermons (New York, J. Pott & co., 1898) | have-ocr | IA `manofagesother00jagg` |
+| The personality of truth (New York : T. Whittaker, 1900) | have-ocr | IA `bub_gb_6XwwAAAAYAAJ` |
+| the geological works are by his son, the volcanologist Thomas A. Jaggar Jr. | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
