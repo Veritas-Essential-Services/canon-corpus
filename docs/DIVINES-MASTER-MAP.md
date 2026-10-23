@@ -18868,6 +18868,26 @@ Shelf: `pipeline/w-m-ramsay_shelf.json`. Asia Minor, Phrygia, and Paul in his Ro
 
 Excluded: Impressions of Turkey (1897); The Revolution in Constantinople and Turkey (1909) (modern Turkey, outside lane B); Studies in the History and Art of the Eastern Provinces (1906) (multi-author volume he edited)
 
+
+## Henry Osborn Taylor (1856-1941)
+
+Shelf: `pipeline/henry-osborn-taylor_shelf.json`. Ancient, medieval and sixteenth-century thought, 1901-1923; Mediaeval Mind on Gutenberg. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Mediaeval Mind, vol. 1 of 2 |  | `taylor-mediaeval-mind-vol-1-pg` | have (PG 43880) |
+| The Mediaeval Mind, vol. 2 of 2 |  | `taylor-mediaeval-mind-vol-2-pg` | have (PG 43881) |
+| Ancient Ideals: a Study of Intellectual and Spiritual Growth from Early Times to the Establishment of Christianity, 2nd ed., vol. I (1913) |  | `taylor-ancient-ideals-vol-1-1913` | have-raw (IA `ancientidealsstu01tayluoft`) |
+| Ancient Ideals, 2nd ed., vol. II (1913) |  | `taylor-ancient-ideals-vol-2-1913` | have-raw (IA `ancientidealsstu02tayl`) |
+| The Classical Heritage of the Middle Ages (1901) |  | `taylor-classical-heritage-middle-ages-1901` | have-raw (IA `classicalage00tayl`) |
+| Deliverance: the Freeing of the Spirit in the Ancient World (1915) |  | `taylor-deliverance-1915` | have-raw (IA `deliverancefreei00taylrich`) |
+| Thought and Expression in the Sixteenth Century, vol. I (1920) |  | `taylor-thought-expression-16th-century-vol-1` | have-raw (IA `thoughtexpressio01tayl_0`) |
+| Thought and Expression in the Sixteenth Century, vol. II (1920) |  | `taylor-thought-expression-16th-century-vol-2` | have-raw (IA `thoughtexpressio0002tayl`) |
+| Greek Biology and Medicine (1922) |  | `taylor-greek-biology-medicine-1922` | have-raw (IA `greekbiologymedi00tayl`) |
+| Freedom of the Mind in History (1923) |  | `taylor-freedom-of-the-mind-1923` | have-raw (IA `freedomofmindinh0000tayl_p1k2`) |
+
+Excluded: Prophets, Poets, and Philosophers of the Ancient World (1919) (reissue of Deliverance (1915) under a new title); Ancient Ideals, 1st ed. (1896) (superseded by the 1913 second edition)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
