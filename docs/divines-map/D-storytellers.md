@@ -16581,3 +16581,24 @@ Shelf: `pipeline/christie-works_shelf.json` (2026-10-22; added at the coordinato
 | Partners in crime | have | PG 78342, `achristie-partners-in-crime` (2908 units) |
 | held-elsewhere | excluded | PG 863: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 70114 The Big Four (copyright line 1955); PG 75288 The Seven Dials mystery (copyright line 1957); PG 78084 The mysterious Mr. Quin (copyright line 1958). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Albert Payson Terhune
+
+Shelf: `pipeline/terhune-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bruce | have | PG 2391, `apterhune-bruce` (792 units) |
+| Further Adventures of Lad | have | PG 2392, `apterhune-further-adventures-of-lad` (1481 units) |
+| His Dog | have | PG 2393, `apterhune-his-dog` (564 units) |
+| Black Caesar's Clan : A Florida Mystery Story | have | PG 4789, `apterhune-black-caesars-clan` (1327 units) |
+| Superwomen | have | PG 39339, `apterhune-superwomen` (1294 units) |
+| Buff: A Collie, and Other Dog-Stories | have | PG 42804, `apterhune-buff` (1537 units) |
+| The Heart of a Dog | have | PG 61429, `apterhune-heart-of-a-dog` (1282 units) |
+| Dad | have | PG 65641, `apterhune-dad` (2410 units) |
+| Treve | have | PG 65777, `apterhune-treve` (1377 units) |
+| The Fighter | have | PG 66697, `apterhune-fighter` (2046 units) |
+| Caleb Conover, Railroader | have | PG 67374, `apterhune-caleb-conover-railroader` (1532 units) |
+| The Amateur Inn | have | PG 67531, `apterhune-amateur-inn` (1388 units) |
+| The girl in the crowd | have | PG 69030, `apterhune-girl-in-the-crowd` (162 units) |
+| held-elsewhere | excluded | PG 38777: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

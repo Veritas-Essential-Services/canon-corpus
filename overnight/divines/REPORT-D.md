@@ -2251,3 +2251,6 @@
 
 ## 2026-10-22 22:56 CDT — christie-works: done
 - christie-works: new shelf, 13 Gutenberg books, 31,468 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — terhune-works: done
+- terhune-works: new shelf, 13 Gutenberg books, 17,192 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
