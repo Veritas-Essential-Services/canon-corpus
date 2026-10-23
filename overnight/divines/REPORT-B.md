@@ -1511,3 +1511,14 @@
 - Singles include Bonitz's Origin of the Homeric Poems, Decharme's Euripides, Hackforth's Platonic Epistles, Tsountas and Manatt's Mycenaean Age, Grandgent's Vulgar Latin, Fling's Source Book of Greek History, Boak's History of Rome, Della Corte's Pompeii, and Freshfield's Hannibal Once More.
 - Two title pages read where OCR missed the name (Kenyon vol. II; Gell's engraved 1810 title).
 - IA call numbers are sparse, so this source is nearly used up. Next: Loebs of 1912-1929 not yet held.
+
+## 2026-10-23 — Round dm: the Greek-facing editions, per Adam's ruling
+- Adam ruled on 10/23 that volumes failing the OCR bar only because of their Greek are kept. Every lane B entry held back for that reason was revisited, the cleanest-English scan chosen, and reprint printing lines read. 52 volumes on 21 shelves.
+- Complete or near-complete sets now held: Cary's Dio (9), Paton's Greek Anthology (5), Paton's Polybius (II-VI), Edmonds's Lyra Graeca (3), Oldfather's Epictetus (2), Hort's Theophrastus (2), Jones's Hippocrates I-II with Withington's III.
+- Also Jones's Pausanias I-II, Strabo I-II (VI-XIV already clean from Perseus), Dewing's Procopius IV-V (Wars now complete), Rogers's Aristophanes I and III, Mair's Callimachus and Oppian (moved to late-greek-poets), Scott's Hermetica I, Haines's Marcus Aurelius, Sandys's Pindar, Storr's Sophocles II, Julian III, Hicks's De Anima, Butcher's Theory of Poetry, Demetrius On Style, two Agamemnons.
+- Avoided: later printings that were revised (Pindar 1937, Marcus Aurelius 1930). Polybius I's only open scan never names Paton in its OCR, so the gate refuses it; recorded.
+
+## 2026-10-23 — Round dn: other pre-1930 Loebs
+- 16 volumes not held anywhere: Thackeray's Josephus I-III and Allinson's Menander and the Illinois Greek Club's Aeneas Tacticus (three new shelves), Colson's Philo I-II, Gulick's Athenaeus II-III, Gaselee's Achilles Tatius, the Thornley-Edmonds Daphnis and Chloe, Wright's Lives of the Sophists, Edmonds's Characters, Robson's Arrian I, Nixon's Plautus III and Rolfe's Suetonius I (both from first printings, clearing two old rights holds).
+- Refused after reading the printing lines: Livy II (the 1939 impression corrected the translation), Ovid Metamorphoses I (1921 second edition), Cicero's Tusculans (1945 revision).
+- Next: other entries refused for Greek-heavy OCR, then Polybius I, Babbitt's Moralia, Harmon's Lucian.

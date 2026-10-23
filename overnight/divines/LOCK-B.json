@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T03:53:48-05:00",
- "note": "Rounds cq-dl done 2026-10-23.",
- "resume_point": "Round dm: Loebs of 1912-1929 not yet held. List Loeb Classical Library volumes published 1912-1929 (IA search: collection or title 'Loeb classical library', date 1912-1929), check each against every branch by IA id and by author shelf, and add the unheld ones to the author's shelf with the translator per row. Greek-facing volumes are kept per Adam's 10/23 ruling. Leave church fathers (Apostolic Fathers, Augustine, Eusebius) to lane A."
+ "heartbeat": "2026-10-23T04:35:56-05:00",
+ "note": "Rounds cq-dn done 2026-10-23.",
+ "resume_point": "Round do: the rest of Adam's 10/23 ruling. Search every lane B shelf's _excluded and _held for entries refused for OCR because of Greek (words like 'Greek', 'bilingual', 'under the bar', 'OCR 0.') that are not Greek-facing Loebs, re-probe, and take those whose English reads cleanly. Then Polybius vol. I from a scan that names Paton, Plutarch's Moralia I-II (Babbitt 1927-28) where Perseus is partial, and the Harmon Lucian vols. I-IV against the Perseus rows."
 }

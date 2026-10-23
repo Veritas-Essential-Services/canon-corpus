@@ -2108,6 +2108,22 @@
    "started": "2026-10-23T03:34:38-05:00",
    "finished": "2026-10-23T03:53:48-05:00",
    "notes": "28 new shelves, 44 works. f-g-kenyon 7 (Classical Texts from Papyri 1891, Palaeography of Greek Papyri 1899, Greek Papyri in the British Museum I-V; IV-V edited by H. I. Bell), william-gell 10 (Troy, Ithaca, Itinerary of Greece, Morea, Pompeiana, Topography of Rome 2 vols and others), william-l-snyder 2 (Military Annals of Greece), and 25 singles: Bonitz (tr. Packard), Decharme (tr. Loeb), Klotsche, Dalton, Hackforth, Peile, Lucian Muller (tr. Platner), Bredif, Woodhouse, Foord, Tsountas and Manatt, Grandgent, Westaway, Tredwell, Fling, T. J. Lacey, Dempsey, Tolman, Lohr, Van Santvoord, Boak, Della Corte, Bowerman, Freshfield, R. H. Lacey. Two title pages read where OCR missed the name: Kenyon's BM Papyri vol. II and Gell's engraved Itinerary of Greece title (1810). The call_number field is sparse on IA (about 3,300 records in these classes), so this sweep is close to exhausted. Next: Loebs of 1912-1929 not yet held."
+  },
+  {
+   "id": "2026-10-23dm",
+   "status": "done",
+   "scope": "every _excluded entry on lane B shelves held back because the Greek (or Latin) text faces the English, now kept per Adam's 2026-10-23 ruling; cleanest-English scan chosen per volume, printing line read for reprints",
+   "started": "2026-10-23T03:53:30-05:00",
+   "finished": "2026-10-23T04:35:56-05:00",
+   "notes": "52 volumes on 21 shelves: dio-cassius 9 (Cary's Loeb complete), polybius 5 (Paton II-VI; vol. I's only open scan never names Paton in its OCR, recorded in _excluded), greek-lyric 10 (Paton's Greek Anthology 5, Edmonds's Lyra Graeca 3, Fry's Century of Greek Epigrams, Cromer's Paraphrases), late-greek-poets 2 (Mair's Callimachus/Lycophron/Aratus and Oppian/Colluthus/Tryphiodorus, moved there because that shelf owns those names), hippocrates 3, pausanias 2, strabo 2, epictetus 2 (Oldfather), theophrastus 2 (Hort), procopius 2 (Wars VI.16-VIII), aristophanes 2 (Rogers's Loeb I and III; II exists only as lending copies), aeschylus 2 (Davies, Kennedy), and one each: Hicks's De Anima, Butcher's Theory of Poetry, Scott's Hermetica I, Julian III, Demetrius On Style, Haines's Marcus Aurelius, Sandys's Pindar, Storr's Sophocles II, Edmonds's Bucolic Poets. Reprints used are unrevised by their printing lines; Pindar's later printings (revised 1937) and Marcus Aurelius's 1930+ printings avoided. Left excluded with reasons: Euripides (Way), Hesiod and Demosthenes (clean copies held), Lucian and Lysias (Perseus; Lysias 1930), Cebes (school text, translation unconfirmed)."
+  },
+  {
+   "id": "2026-10-23dn",
+   "status": "done",
+   "scope": "pre-1930 Loeb volumes not held on any branch, by IA search and translator against each author shelf",
+   "started": "2026-10-23T04:35:56-05:00",
+   "finished": "2026-10-23T04:35:56-05:00",
+   "notes": "16 volumes: new shelves josephus 3 (Thackeray I-III, 1926-28), menander 1 (Allinson 1921), aeneas-tacticus 1 (Illinois Greek Club 1923); and philo-judaeus 2 (Colson and Whitaker I-II, 1929), athenaeus 2 (Gulick II-III), greek-romances 2 (Gaselee's Achilles Tatius 1917; Thornley-Edmonds Daphnis and Chloe 1916), plautus-nixon-v3 on roman-comedy (1924 printing; clears the old rights hold), suetonius-rolfe-v1 (1914 printing; clears the old hold), Wright's Lives of the Sophists, Edmonds's Theophrastus Characters 1929, Robson's Arrian I 1929. Refused: Livy II (both open scans are the 1939 impression, whose preface says errors of translation were corrected), Ovid Metamorphoses I (only the 1921 second edition in a 1971 printing), Cicero's Tusculans (only the 1945 revision), Athenaeus I (no open scan). Not lane B: Apostolic Fathers, Clement, Augustine, Basil, Bede (lane A)."
   }
  ]
 }
