@@ -10474,6 +10474,17 @@ Slugs `hales-*`. Built from title pages read for round 43.
 | The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 2 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_2` |
 | The works of the ever memorable Mr. John Hales of Eaton. Now first collected together. In three volumes. ... vol. 3 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-ever-me_hales-john_1765_3` |
 | Golden Remains 1673 and 1688 (EEBO) | alternate | not shelved |
+
+## Isaac Milner (round 43, my pick, 2026-10-22)
+
+Slugs `isaac-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (T. Cadell, 1820) | have-ocr | IA `sermons01milngoog` |
+| Sermons, vol. 2 (T. Cadell, 1820) | have-ocr | IA `sermons00milngoog` |
+| Essay on Human Liberty (1824), authorship to confirm; Animadversions on Dr Haweis's History (1800) | alternate | not shelved |
+| A Plan of a Course of Chemical Lectures (1784, 1788) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
