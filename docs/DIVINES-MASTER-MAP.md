@@ -12595,6 +12595,23 @@ Slugs `hjohnson-*`. Built from title pages read for round 60.
 | The ideal ministry (New York, Chicago [etc.] Fleming H. Revell Company, 1908) | have-ocr | IA `idealministry00john` |
 | Douglas W. Johnson's New Mexico geology papers (catalogued under the same name); Civil War thanksgiving sermons, a Lincoln discourse and memorial addresses (short pamphlets) | excluded | |
 | comfortkath00johnrich: Comfort (1877, signed 'H. J.'); the enlarged 1888 edition names its author as 'Mrs. Herrick Johnson', his wife, so it is not his | excluded | |
+
+## George W. Bethune (round 61, my pick, 2026-10-23)
+
+Slugs `bethune-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| The fruit of the spirit (Philadelphia, Mentz & Rovoudt, 1845) | have-ocr | IA `fruitofspirit00beth` |
+| Sermons (Mentz & Rovoudt, 1846) | have-ocr | IA `sermons00bethgoog` |
+| Lays of love and faith, with other fugitive poems (Philadelphia, Lindsay & Blakiston, 1847) | have-ocr | IA `laysoflovefaithw00beth` |
+| The history of a penitent : a guide for the inquiring in a commentary on the one hundred and thirtieth psalm (Philadelphia : Perkins, 1848) | have-ocr | IA `historyofpeniten00beth` |
+| Orations and occasional discourses (New York ; London : G. P. Putnam, 1850) | have-ocr | IA `orationsoccasion00beth` |
+| Early lost, early saved. an argument for the salvation of infants, with consolations for bereaved parents, to which are added, original and selected poems, on the same subject (New York, Board of Publication of the Reformed Protestant Dutch Church, 1859) | have-ocr | IA `earlylostearlysa00beth` |
+| Memoirs of Mrs. Joanna Bethune (New York, Harper & brothers, 1863) | have-ocr | IA `memoirsmrsjoann01bethgoog` |
+| Expository lectures on the Heidelberg catechism, vol. 1 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect01beth` |
+| Expository lectures on the Heidelberg catechism, vol. 2 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect02beth` |
+| The British Female Poets (1848, an anthology he edited); his edition of Walton's Complete Angler (1847); The Living Pulpit (sermons by several hands) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

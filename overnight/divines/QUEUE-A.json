@@ -7426,6 +7426,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:23:17-05:00",
       "notes": "McCormick Seminary; Comfort is by Mrs. Herrick Johnson and excluded. 0 uids minted."
+    },
+    {
+      "id": "george-w-bethune",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:02-05:00",
+      "notes": "Reformed Dutch; Heidelberg Catechism lectures; anthologies he edited left out. 0 uids minted."
     }
   ]
 }

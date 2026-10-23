@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain George Washington Bethune (1805-1862), Reformed Dutch minister of Philadelphia and Brooklyn, for the Word Hoard: The Fruit of the Spirit (1839; 1845 printing), Sermons (1846), Lays of Love and Faith (1847), The History of a Penitent (1848), Orations and Occasional Discourses (1850), Early Lost, Early Saved (1846; 1859 printing), the Memoirs of his mother Joanna Bethune (1863) and Expository Lectures on the Heidelberg Catechism (1864, two volumes). from Internet Archive scans. Added 2026-10-23 by lane A, round 61 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bethune"
+ ],
+ "_surname": [
+  "george w. bethune",
+  "g. w. bethune",
+  "george washington bethune",
+  "geo. w. bethune"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bethune-fruit-of-spirit": [
+   "fruitofspirit00beth",
+   "The fruit of the spirit (Philadelphia, Mentz & Rovoudt, 1845)"
+  ],
+  "bethune-sermons": [
+   "sermons00bethgoog",
+   "Sermons (Mentz & Rovoudt, 1846)"
+  ],
+  "bethune-lays-of-love": [
+   "laysoflovefaithw00beth",
+   "Lays of love and faith, with other fugitive poems (Philadelphia, Lindsay & Blakiston, 1847)"
+  ],
+  "bethune-history-of-penitent": [
+   "historyofpeniten00beth",
+   "The history of a penitent : a guide for the inquiring in a commentary on the one hundred and thirtieth psalm (Philadelphia : Perkins, 1848)"
+  ],
+  "bethune-orations": [
+   "orationsoccasion00beth",
+   "Orations and occasional discourses (New York ; London : G. P. Putnam, 1850)"
+  ],
+  "bethune-early-lost": [
+   "earlylostearlysa00beth",
+   "Early lost, early saved. an argument for the salvation of infants, with consolations for bereaved parents, to which are added, original and selected poems, on the same subject (New York, Board of Publication of the Reformed Protestant Dutch Church, 1859)"
+  ],
+  "bethune-joanna-bethune": [
+   "memoirsmrsjoann01bethgoog",
+   "Memoirs of Mrs. Joanna Bethune (New York, Harper & brothers, 1863)"
+  ],
+  "bethune-heidelberg-1": [
+   "expositorylect01beth",
+   "Expository lectures on the Heidelberg catechism, vol. 1 (New York, Sheldon and company, 1864)"
+  ],
+  "bethune-heidelberg-2": [
+   "expositorylect02beth",
+   "Expository lectures on the Heidelberg catechism, vol. 2 (New York, Sheldon and company, 1864)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bethune-other": "The British Female Poets (1848, an anthology he edited); his edition of Walton's Complete Angler (1847); The Living Pulpit (sermons by several hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bethune-fruit-of-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bethune-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bethune-lays-of-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bethune-history-of-penitent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bethune-orations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bethune-early-lost": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bethune-joanna-bethune": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bethune-heidelberg-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bethune-heidelberg-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. bethune",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
