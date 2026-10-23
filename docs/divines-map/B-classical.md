@@ -10532,3 +10532,12 @@ Shelf: `pipeline/edward-m-plummer_shelf.json`. Athletics and Games of the Ancien
 |---|---|---|---|
 | Athletics and Games of the Ancient Greeks |  | `plummer-athletics-games-ancient-greeks` | have (PG 64627) |
 
+
+## Elizabeth Hazelton Haight (1872-1964)
+
+Shelf: `pipeline/elizabeth-hazelton-haight_shelf.json`. Essays on the Greek Romances (New York: Longmans, Green, 1943). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Essays on the Greek Romances (New York: Longmans, Green, 1943) |  | `haight-essays-greek-romances-1943` | have (PG 47022) |
+

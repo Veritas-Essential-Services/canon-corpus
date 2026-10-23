@@ -1,0 +1,34 @@
+{
+ "_about": "Elizabeth Hazelton Haight (1872-1964), Vassar: Essays on the Greek Romances (Longmans, 1943). Later than the lane's usual run; Gutenberg publishes it as US public domain (copyright not renewed), which is the only test. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Elizabeth Hazelton Haight (1872-1964)",
+ "_name_words": [
+  "haight",
+  "elizabeth",
+  "hazelton",
+  "greek",
+  "romances"
+ ],
+ "_surname": [
+  "haight"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "haight-essays-greek-romances-1943": [
+   47022,
+   "Essays on the Greek Romances (New York: Longmans, Green, 1943)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "haight-essays-greek-romances-1943": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "haight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
