@@ -1,0 +1,35 @@
+{
+ "_about": "Maurice Platnauer (1887-1974), Oxford classicist: The Life and Reign of the Emperor Lucius Septimius Severus (1918). His Loeb Claudian is on the claudian shelf. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Maurice Platnauer (1887-1974)",
+ "_name_words": [
+  "platnauer",
+  "septimius",
+  "severus",
+  "emperor"
+ ],
+ "_surname": [
+  "platnauer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "platnauer-septimius-severus-1918": [
+   "lifereignofemper00plat",
+   "The Life and Reign of the Emperor Lucius Septimius Severus (1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "platnauer-septimius-severus-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "platnauer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

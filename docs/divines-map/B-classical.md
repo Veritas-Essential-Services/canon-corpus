@@ -9648,3 +9648,12 @@ Shelf: `pipeline/samuel-ball-platner_shelf.json`. Topography of ancient Rome (19
 | The Topography and Monuments of Ancient Rome, 2nd ed. (1911) |  | `platner-topography-monuments-rome-1911` | have-raw (IA `topographymonume00platiala`) |
 | A Topographical Dictionary of Ancient Rome (1929), completed and revised by Thomas Ashby |  | `platner-topographical-dictionary-1929` | have-raw (IA `topographical-dictionary-of-ancient-rome-a-samuel-ball-platner-and-thomas-ashby`) |
 
+
+## Maurice Platnauer (1887-1974)
+
+Shelf: `pipeline/maurice-platnauer_shelf.json`. Septimius Severus (1918). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Life and Reign of the Emperor Lucius Septimius Severus (1918) |  | `platnauer-septimius-severus-1918` | have-raw (IA `lifereignofemper00plat`) |
+
