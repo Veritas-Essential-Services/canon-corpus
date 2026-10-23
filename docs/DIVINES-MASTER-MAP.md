@@ -19566,6 +19566,15 @@ Shelf: `pipeline/joseph-clark-hoppin_shelf.json`. Attic red-figured vases, 1917-
 | A Handbook of Attic Red-Figured Vases, vol. II (1919) |  | `hoppin-attic-red-figured-vases-vol-2` | have-raw (IA `handbookofatticr02hopp_0`) |
 | Euthymides and his Fellows (1917) |  | `hoppin-euthymides-and-his-fellows-1917` | have-raw (IA `euthymideshisfel00hoppuoft`) |
 
+
+## A. M. Curteis
+
+Shelf: `pipeline/a-m-curteis_shelf.json`. Rise of the Macedonian Empire (Epochs of Ancient History). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Rise of the Macedonian Empire (Epochs of Ancient History, 1878; this copy 1890) |  | `curteis-rise-macedonian-empire` | have-raw (IA `risemacedoniane00curtgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
