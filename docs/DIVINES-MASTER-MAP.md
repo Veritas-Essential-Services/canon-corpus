@@ -14466,6 +14466,24 @@ Slugs `ehawkins-*`. Built from title pages read for round 83.
 | Sermons on the church, preached before the University of Oxford (London B. Fellowes and J.H. Parker, 1847) | have-ocr | IA `sermonsonthechur00hawkuoft` |
 | Sermons on Scriptural types and sacraments, preached before the University of Oxford : with observations upon some recent theories (London : B. Fellowes, 1851) | have-ocr | IA `sermonsonscriptu00hawk` |
 | A dissertation upon the use and importance of unauthoritative tradition (London : Society for Promoting Christian Knowledge ; New York : J.B. Young, 1889) | have-ocr | IA `a587077100hawkuoft` |
+
+## Frederick F. Shannon (round 83, my pick, 2026-10-23)
+
+Slugs `shannon-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The soul's atlas and other sermons (New York, Chicago Fleming H. Revell Company, 1911) | have-ocr | IA `soulsatlasothers0000shan` |
+| The new personality and other sermons (fleming h. revell company, 1915) | have-ocr | IA `newpersonalityot0000fred` |
+| The enchanted universe, and other sermons (New York, Chicago [etc.] Fleming H. Revell Company, 1916) | have-ocr | IA `enchantedunivers00shan` |
+| The breath in the winds and other sermons (Fleming H. Revell company, 1918) | have-ocr | IA `breathinwindsoth0000fred` |
+| God's faith in man : and other sermons (New York ; Chicago : Fleming H. Revell, 1919) | have-ocr | IA `godsfaithinmanot00shan` |
+| The infinite artist, and other sermons (New York, The Macmillan company, 1921) | have-ocr | IA `infiniteartistot00shan` |
+| The country faith (New York, The Macmillan company, 1922) | have-ocr | IA `countryfaith00shan` |
+| The New Greatness (The Macmillan Company, 1923) | have-ocr | IA `newgreatness011962mbp` |
+| A moneyless magnate, and other essays (New York, George H. Doran, 1923) | have-ocr | IA `moneylessmagnate00shan` |
+| The unfathomable Christ, and other sermons (New York ; Chicago : Fleming H. Revell, 1926) | have-ocr | IA `unfathomablechri00shan` |
+| Nature's Secrets Revealed (1916), a sex-hygiene book by another Shannon; everything printed 1930 or later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
