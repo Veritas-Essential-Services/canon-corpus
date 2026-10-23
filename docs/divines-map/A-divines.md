@@ -10564,3 +10564,14 @@ Slugs `wsherlock-*`. Built from title pages read for round 44.
 | The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684) | have-ocr | IA `caseofr00sher` |
 | Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700 | alternate | not shelved |
 | Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others) | excluded | |
+
+## Edward Fowler (round 45, my pick, 2026-10-22)
+
+Slugs `fowler-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| The Design of Christianity (London, catalogued 1671) | have-ocr | IA `bim_early-english-books-1641-1700_the-design-of-christiani_fowler-edward_1671` |
+| Libertas Evangelica: or, a discourse of Christian liberty (London, catalogued 1680) | have-ocr | IA `bim_early-english-books-1641-1700_libertas-evangelica_fowler-edward_1680` |
+| The Design of Christianity, 1676, 1699 and 1760 | alternate | not shelved |
+| Pamphlets on the Trinity and the Bunyan controversy (Dirt wipt off, 1672), left for a later round | excluded | |
