@@ -20043,6 +20043,15 @@ Shelf: `pipeline/david-m-robinson_shelf.json`. Sappho and her Influence (Boston:
 |---|---|---|---|
 | Sappho and her Influence (Boston: Marshall Jones, 1924) |  | `robinson-sappho-and-her-influence-1924` | have (PG 61505) |
 
+
+## Edward Felix Mendelssohn Benecke (1870-1895)
+
+Shelf: `pipeline/e-f-m-benecke_shelf.json`. Antimachus of Colophon and the Position of Women in Greek Poetry (London: Swan Sonnenschein, 1896). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Antimachus of Colophon and the Position of Women in Greek Poetry (London: Swan Sonnenschein, 1896) |  | `benecke-antimachus-colophon-1896` | have (PG 67573) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
