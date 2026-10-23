@@ -1862,3 +1862,6 @@
 
 ## 2026-10-22 22:24 CDT — julian-hawthorne: done
 - julian-hawthorne: new shelf, 15 Gutenberg books, 13,184 units, 616 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — john-habberton: done
+- john-habberton: new shelf, 14 Gutenberg books, 18,744 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags.

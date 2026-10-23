@@ -14278,3 +14278,25 @@ Shelf: `pipeline/julian-hawthorne_shelf.json` (2026-10-22; added at the coordina
 | Rumpty-Dudget's Tower: A Fairy Tale | have | PG 62408, `jhawthorne-rumpty-dudgets-tower` (191 units) |
 | The Cosmic Courtship | have | PG 66349, `jhawthorne-cosmic-courtship` (1108 units) |
 | Ellice Quentin, and other stories | have | PG 76710, `jhawthorne-ellice-quentin-and-other-stories` (1488 units) |
+
+## John Habberton
+
+Shelf: `pipeline/john-habberton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Helen's Babies | have | PG 4281, `jhabberton-helens-babies` (1020 units) |
+| Romance of California Life Illustrated by Pacific Slope Stories, Thrilling, Pathetic and Humorous | have | PG 13832, `jhabberton-romance-of-california-life-illustrated-by-pacific` (3462 units) |
+| All He Knew: A Story | have | PG 14895, `jhabberton-all-he-knew` (891 units) |
+| Caleb Wright: A Story of the West | have | PG 43994, `jhabberton-caleb-wright` (1659 units) |
+| Trif and Trixy A story of a dreadfully delightful little girl and her adoring and tormented parents, relations, and friends | have | PG 51788, `jhabberton-trif-and-trixy-a-story-of-a-dreadfully-delightful` (1865 units) |
+| Budge & Toddie; Or, Helen's Babies at Play | have | PG 52298, `jhabberton-budge-toddie` (2133 units) |
+| Canoeing in Kanuckia Or, Haps and Mishaps Afloat and Ashore of the Statesman, the Editor, the Artist, and the Scribbler | have | PG 52338, `jhabberton-canoeing-in-kanuckia-or-haps-and-mishaps-afloat-a` (939 units) |
+| Country Luck | have | PG 52480, `jhabberton-country-luck` (1256 units) |
+| Who Was Paul Grayson? | have | PG 52644, `jhabberton-who-was-paul-grayson` (408 units) |
+| The Barton Experiment | have | PG 53031, `jhabberton-barton-experiment` (519 units) |
+| The Scripture Club of Valley Rest; or, Sketches of Everybody's Neighbours | have | PG 54627, `jhabberton-scripture-club-of-valley-rest` (524 units) |
+| The Worst Boy in Town | have | PG 55080, `jhabberton-worst-boy-in-town` (674 units) |
+| Little Guzzy, and other stories | have | PG 67985, `jhabberton-little-guzzy-and-other-stories` (2829 units) |
+| Strange stories of the Civil War | have | PG 68798, `jhabberton-strange-stories-of-the-civil-war` (565 units) |
+| repeat-editions | excluded | PG 51085: second Gutenberg editions of titles already on the shelf. |
