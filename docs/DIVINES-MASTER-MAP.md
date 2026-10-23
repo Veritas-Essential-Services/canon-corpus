@@ -11738,6 +11738,7 @@ Shelf: `pipeline/longinus_shelf.json`. Havell (1890), William Smith (1739; 1752 
 | Longinus on the Sublime, a new translation for English readers in general, by a Master of Arts of the University of Oxford (imprint lost in the OCR; IA gives 1841) | anonymous (a Master of Arts of Oxford) | `longinus-oxford-ma-1841` | have-raw (IA `longinusonsublim00long_0`) |
 | Longinus on the Sublime (Oxford: T. and G. Shrimpton; London: Whittaker, MDCCCLXVII) | Thomas R. R. Stebbing | `longinus-stebbing-1867` | have-raw (IA `longinusonsubli00longgoog`) |
 | Demetrius On Style, the Greek text with an English translation by W. Rhys Roberts (Cambridge, 1902); Greek facing, kept per Adam's 2026-10-23 ruling |  | `demetrius-roberts-on-style-1902` | have-raw (IA `demetriusonstyle01deme`) |
+| Longinus on the Sublime, the Greek text edited after the Paris manuscript, with introduction, translation and notes by W. Rhys Roberts, 2nd ed. (Cambridge, 1907); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `longinus-roberts-sublime-1907` | have-raw (IA `cu31924012529800`) |
 
 Pending (wishlist): Fyfe's Loeb (1927; Greek facing); the earlier English versions Smith's preface names (London, 1650s; Oxford, 1698), not located.
 
