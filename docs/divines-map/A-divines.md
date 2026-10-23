@@ -14378,3 +14378,24 @@ Slugs `henson-*`. Built from title pages read for round 81.
 | The Book and the Vote (Hodder and Stoughton, 1928) | have-ocr | IA `bookvote0000herb` |
 | Disestablishment (catalogued 1929) | have-ocr | IA `disestablishment0000herb` |
 | volumes he only edited with many contributors (Church Problems, 1900; Criticism of the New Testament, 1902); pamphlets and single sermons of under 100 pages; everything printed 1930 or later, including his Retrospect of an Unimportant Life | excluded | |
+
+## Franz Hunolt (round 82, my pick, 2026-10-23)
+
+Slugs `hunolt-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Hunolt's Sermons, vol. 1: The Christian State of Life, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thechristianstat01hunouoft` |
+| Hunolt's Sermons, vol. 2: The Christian State of Life, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thechristianstat02hunouoft` |
+| Hunolt's Sermons, vol. 3: The Bad Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thebadchristian03hunouoft` |
+| Hunolt's Sermons, vol. 4: The Bad Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thebadchristian04hunouoft` |
+| Hunolt's Sermons, vol. 5: The Penitent Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `penitentchristia05hunouoft` |
+| Hunolt's Sermons, vol. 6: The Penitent Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `HunoltsSermonsVol06` |
+| Hunolt's Sermons, vol. 7: The Good Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thegoodchristian07hunouoft` |
+| Hunolt's Sermons, vol. 8: The Good Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thegoodchristian08hunouoft` |
+| Hunolt's Sermons, vol. 9: The Christian's Last End, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadapted01hunouoft` |
+| Hunolt's Sermons, vol. 10: The Christian's Last End, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadaptedto10hunouoft` |
+| Hunolt's Sermons, vol. 11: The Christian's Model, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadaptedto11hunouoft` |
+| Hunolt's Sermons, vol. 12: The Christian's Model, vol. 2 (sermons on Our Lord, His Blessed Mother and the Saints), translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadapted02hunouoft` |
+| Short Sermons (1896) and Sermons on the Different States of Life (1897), further Allen translations whose IA volumes still need matching | pending | not shelved |
+| the German Christliche Sittenlehre (Munich printings), left for a lane that takes German | excluded | |

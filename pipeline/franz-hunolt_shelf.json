@@ -1,0 +1,209 @@
+{
+ "_about": "Public-domain Franz Hunolt (1691-1746), Jesuit preacher at the cathedral of Trier, in English for the Word Hoard: Hunolt's Sermons, adapted to all the Sundays and holydays of the year, translated by the Rev. J. Allen (12 vols., New York: Benziger, 1886-1897): The Christian State of Life, The Bad Christian, The Penitent Christian, The Good Christian, The Christian's Last End and The Christian's Model, two volumes each. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 82 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis hunolt",
+  "franz hunolt",
+  "father francis hunolt",
+  "hunolt"
+ ],
+ "_surname": [
+  "hunolt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hunolt-sermons-01": [
+   "thechristianstat01hunouoft",
+   "Hunolt's Sermons, vol. 1: The Christian State of Life, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-02": [
+   "thechristianstat02hunouoft",
+   "Hunolt's Sermons, vol. 2: The Christian State of Life, vol. 2, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-03": [
+   "thebadchristian03hunouoft",
+   "Hunolt's Sermons, vol. 3: The Bad Christian, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-04": [
+   "thebadchristian04hunouoft",
+   "Hunolt's Sermons, vol. 4: The Bad Christian, vol. 2, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-05": [
+   "penitentchristia05hunouoft",
+   "Hunolt's Sermons, vol. 5: The Penitent Christian, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-06": [
+   "HunoltsSermonsVol06",
+   "Hunolt's Sermons, vol. 6: The Penitent Christian, vol. 2, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-07": [
+   "thegoodchristian07hunouoft",
+   "Hunolt's Sermons, vol. 7: The Good Christian, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-08": [
+   "thegoodchristian08hunouoft",
+   "Hunolt's Sermons, vol. 8: The Good Christian, vol. 2, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-09": [
+   "sermonsadapted01hunouoft",
+   "Hunolt's Sermons, vol. 9: The Christian's Last End, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-10": [
+   "sermonsadaptedto10hunouoft",
+   "Hunolt's Sermons, vol. 10: The Christian's Last End, vol. 2, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-11": [
+   "sermonsadaptedto11hunouoft",
+   "Hunolt's Sermons, vol. 11: The Christian's Model, vol. 1, translated by J. Allen (New York: Benziger)"
+  ],
+  "hunolt-sermons-12": [
+   "sermonsadapted02hunouoft",
+   "Hunolt's Sermons, vol. 12: The Christian's Model, vol. 2 (sermons on Our Lord, His Blessed Mother and the Saints), translated by J. Allen (New York: Benziger)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hunolt-german": "the German Christliche Sittenlehre (Munich printings), left for a lane that takes German"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "hunolt-short-sermons": "Short Sermons (1896) and Sermons on the Different States of Life (1897), further Allen translations whose IA volumes still need matching"
+ },
+ "_translators": {},
+ "_checks": {
+  "hunolt-sermons-01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-02": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-03": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-04": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-05": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hunolt-sermons-07": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "c1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hunolt-sermons-12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hunolt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "c1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
