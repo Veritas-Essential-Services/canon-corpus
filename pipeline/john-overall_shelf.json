@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain John Overall (1559-1619), Bishop of Norwich, author of the sacramental part of the Prayer Book catechism, for the Word Hoard: the Convocation Book of 1606, commonly called Bishop Overall's Convocation Book (Library of Anglo-Catholic Theology, Oxford: Parker, 1844), from an Internet Archive scan. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "overall"
+ ],
+ "_surname": [
+  "john overall",
+  "bishop overall",
+  "overall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "overall-convocation-book-1844": [
+   "convocationbooko00overuoft",
+   "The convocation book of MDCVI ... concerning the government of God's Catholic Church and the kingdom of the whole world (Oxford, Parker, 1844)"
+  ]
+ },
+ "_alternates": {
+  "overall-copies": "Sancroft's 1690 first printing and other scans of the 1844 edition"
+ },
+ "_excluded": {
+  "overall-other": "A Catechism of the Constitution of the United States (1892-1895), by a later Overall"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "overall-convocation-book-1844": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john overall",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

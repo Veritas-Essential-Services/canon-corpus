@@ -2016,3 +2016,7 @@
 - Resumed by a new lane A thread (network restored). Round 39's ten held shelves with a qualifying book rebuilt from scratch: nathaniel-w-taylor, jonathan-mayhew, charles-chauncy, john-wise, john-eliot-of-roxbury, thomas-hooker-of-hartford, martin-bucer, johannes-brenz, martin-chemnitz, girolamo-zanchi (95 IA items). Osiander and Junius closed with nothing shelved.
 - Round 40: william-laud, herbert-thorndike, john-bramhall, mark-frank, peter-heylyn, simon-patrick, anthony-sparrow, william-sancroft, george-hickes, charles-leslie, john-kettlewell, henry-dodwell, robert-nelson, jeremy-collier, thomas-brett, john-johnson-of-cranbrook, thomas-deacon, samuel-seabury, william-white-bishop, john-henry-hobart, alexander-viets-griswold, philander-chase, menno-simons, dirk-philips, plus peter-canisius from round 35: 25 shelves, 143 IA items.
 - Every shelf `--verify --record`: 0 mismatched. 0 uids minted. Title pages that OCR garbles were read from the page images and quoted in `_identity_checked`; anonymous title pages went to `_pending`. Veto points in DIGEST-A.
+
+## 2026-10-22 23:18 CDT — round 41 closed; lane A stopped
+- alexander-jolly, thomas-rattray, archibald-campbell-nonjuror, peter-sterry, john-wilkins, john-overall, richard-montagu, john-hacket, william-wake, edmund-gibson, thomas-secker, william-van-mildert: 12 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted.
+- Lane A stopped at the end of this thread's run; LOCK-A released (status free). Nothing queued; round 42 candidates in DIGEST-A.

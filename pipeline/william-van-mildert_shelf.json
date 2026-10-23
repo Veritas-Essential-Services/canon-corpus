@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain William Van Mildert (1765-1836), Bishop of Durham and founder of Durham University, for the Word Hoard: his Theological Works (Oxford: John Henry Parker, 1838, six volumes: the Boyle Lectures on the rise and progress of infidelity, the Bampton Lectures on Scripture interpretation, sermons and charges), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mildert"
+ ],
+ "_surname": [
+  "van mildert",
+  "william van mildert"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vanmildert-works-1": [
+   "theologicalworks01vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 1 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ],
+  "vanmildert-works-2": [
+   "theologicalworks02vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 2 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ],
+  "vanmildert-works-3": [
+   "theologicalworks03vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 3 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ],
+  "vanmildert-works-4": [
+   "theologicalworks04vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 4 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ],
+  "vanmildert-works-5": [
+   "theologicalworks05vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 5 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ],
+  "vanmildert-works-6": [
+   "theologicalworks06vanm",
+   "The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 6 (Oxford : S. Collingwood for John Henry Parker, 1838)"
+  ]
+ },
+ "_alternates": {
+  "vanmildert-copies": "The separate printings of the Historical View of Infidelity (1831, 1839), the Inquiry into Scripture Interpretation (1815) and the Lincoln's Inn Sermons (1831-1832)"
+ },
+ "_excluded": {
+  "vanmildert-other": "His edition of Waterland's Works (1823, 1856), on the waterland shelf"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "vanmildert-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vanmildert-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vanmildert-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vanmildert-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vanmildert-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vanmildert-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van mildert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -10091,3 +10091,147 @@ Slugs `canisius-*`. Built from title pages read for round 40.
 | A summe of Christian doctrine, composed in Latin by the R. Father Petrus Canisius of the Society of Jesus, with an appendix of the fall of man and justification, translated into English (St. Omer: for John Heigham, 1622) | have-ocr | IA `bim_early-english-books-1475-1640_a-summe-of-christian-doc_canisius-petrus_1622` |
 | The Latin originals: Summa doctrinae christianae (1565-1623 printings), Opus catechisticum (1577-1618), Commentarii de verbi Dei corruptelis (1571, 1584), De Maria virgine (1577), Notae in evangelicas lectiones (1591-1595); German, French (Peltier, 1856-1873), Italian, Czech, Slovene and Greek versions | alternate | not shelved |
 | Works by his nephew Henricus Canisius (canon law, Antiquae lectiones); Canisius College catalogues; the 1865 biographical sketch, by another | excluded | |
+
+## Alexander Jolly (round 41, my pick, 2026-10-22)
+
+Slugs `jolly-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian sacrifice in the eucharist; considered as it is the doctrine of holy Scripture (catalogued 1831) | have-ocr | IA `christiansacrif00jollgoog` |
+| Observations upon the several Sunday services and principal holydays prescribed by the Liturgy throughout the year; with a few general remarks upon the design of the inferior holydays; being a humble attempt to illustrate the doctrinal as well as devotional tendency of each ... to which is prefixed (Edinburgh, Grant, 1840) | have-ocr | IA `observationsupon00jolluoft` |
+| The 1847 printing of the Christian Sacrifice | alternate | not shelved |
+
+## Thomas Rattray (round 41, my pick, 2026-10-22)
+
+Slugs `rattray-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The ancient liturgy of the Church of Jerusalem, : being the liturgy of St. James, freed from all latter additions and interpolations ... and so restored to it's original purity: by comparing it with the account (London, : Printed by J. Bettenham, 1744) | have-ocr | IA `ancientliturgyc01churgoog` |
+| Later Rattrays (poets, travellers, physicians) | excluded | |
+
+## Archibald Campbell (nonjuror) (round 41, my pick, 2026-10-22)
+
+Slugs `acampbell-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| [Some primitive doctrines reviv'd]. The doctrines of a middle state between death and the resurrection:  .... To which is added, an appendix ... By the honourable Archibald Campbell.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_some-primitive-doctrine_campbell-archibald_1721` |
+| Some primitive doctrines reviv'd: or the intermediate or middle state of departed souls (as to happiness or misery) before the day of judgment. Plainly prov'd from the Holy Scriptures ... To which is prefix'd the judgment of the Reverend Dr. George Hickes concerning this book, ...  1713 (catalogued 1713) [bim_eighteenth-century_some-primitive-doctrines_campbell-archibald_1713]: title page read from the page image names no author, and Hickes's prefixed Judgment says the writer 'hath chosen modestly to conceal his Name'; the 1721 enlarged edition, which names him, is shelved | pending | not shelved |
+| Works by Archibald Campbell (1691-1756), professor at St Andrews (Arete-logia, 1728; The Authenticity of the Gospel-History, 1759), a different man; Dr. Brett's Vindication (1715), Brett's | excluded | |
+
+## Peter Sterry (round 41, my pick, 2026-10-22)
+
+Slugs `sterry-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The rise, race and royalty of the kingdom of God in the soul of man : Opened in several sermons ... As also the loveliness & love of Christ set forth in several other sermons ... sermons upon Ps. 45.1.2 : with an account of saint's soul and body in death (London : Printed for Thomas Cockerill, 1683) | have-ocr | IA `riseraceroo00ster` |
+| The appearance of God to man in the gospel, and the gospel change : together with several other discourses from Scripture, to which is added an explication of the Trinity; and a short catechism (London : [s.n.], 1710) | have-ocr | IA `appgodt00ster` |
+| A Discourse of the Freedom of the Will (1675): no scan found | pending | not shelved |
+
+## John Wilkins (round 41, my pick, 2026-10-22)
+
+Slugs `wilkins-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons preach'd upon several occasions (London : Printed for Ri. Chiswell, Will. Battersby, and Will. Rogers, 1701) | have-ocr | IA `sermonspreachdup00wilk` |
+| A Discourse concerning the gift of prayer : shewing what it is, wherein it consists, and how far it is attainable by industry ; with divers useful and proper directions to that purpose, both in respect of matter, method, expression (London : Printed for J. Lawrence [etc.], 1704) | have-ocr | IA `discourseconcern00wilk` |
+| Of the principles and duties of natural religion : two books (London : Printed for J. Walthoe, J. Knapton [etc.], 1734) | have-ocr | IA `ofprinciplesduti00wilk` |
+| Other printings of each (1718 Gift of Prayer and others) | alternate | not shelved |
+| His natural philosophy (The Discovery of a World in the Moone 1638, Mathematicall Magick 1648, Mercury 1641/1694, the Mathematical and Philosophical Works 1708, 1802): outside lane A's theology scope | excluded | |
+
+## John Overall (round 41, my pick, 2026-10-22)
+
+Slugs `overall-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The convocation book of MDCVI ... concerning the government of God's Catholic Church and the kingdom of the whole world (Oxford, Parker, 1844) | have-ocr | IA `convocationbooko00overuoft` |
+| Sancroft's 1690 first printing and other scans of the 1844 edition | alternate | not shelved |
+| A Catechism of the Constitution of the United States (1892-1895), by a later Overall | excluded | |
+
+## Richard Montagu (round 41, my pick, 2026-10-22)
+
+Slugs `montagu-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| A gagg for the new gospell? No. A new gagg for an old goose.  1624 (catalogued 1624) | have-ocr | IA `bim_early-english-books-1475-1640_a-gagg-for-the-new-gospe_montagu-richard-bp_1624` |
+| Immediate addresse unto God alone.  1624 (England : Printed by William Stansby, for Matthew Lownes and William Barret, 1624) | have-ocr | IA `bim_early-english-books-1475-1640_immediate-addresse-unto-_montagu-richard-bp_1624` |
+| Appello Caesarem : a iust appeale from two vniust informers (London : Printed by H[umphrey]. L[ownes]. for Mathew Lownes, 1625) | have-ocr | IA `appellocaesaremi00mont` |
+| Diatribæ upon the first part of the late history of tithes ...  1621 (catalogued 1621) | have-ocr | IA `bim_early-english-books-1475-1640_diatrib-upon-the-first-_montagu-richard-bp_1621` |
+| The acts and monuments of the church ...  1642 (catalogued 1642) | have-ocr | IA `bim_early-english-books-1641-1700_the-acts-and-monuments-o_montagu-richard-bp_1642` |
+| The EEBO copies of Appello Caesarem (1625) | alternate | not shelved |
+| His Latin works (Analecta 1622, De originibus ecclesiasticis 1635-1640, Theanthropikon 1640, the Photius edition 1651) | excluded | |
+
+## John Hacket (round 41, my pick, 2026-10-22)
+
+Slugs `hacket-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| A century of sermons, ...  1675 (catalogued 1675) | have-ocr | IA `bim_early-english-books-1641-1700_a-century-of-sermons-_hacket-john-bp_1675` |
+| Bishop Hacket's memoirs of the life of Archbishop Williams, Lord Keeper of the Great Seal of England, abridg'd. With the most remarkable occurrences and transactions in church and state.  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_bishop-hackets-memoirs-_hacket-john_1715` |
+| Loiola (1648), his Latin comedy; Divers Voyages (1850), Hakluyt's | excluded | |
+
+## William Wake (round 41, my pick, 2026-10-22)
+
+Slugs `wake-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The genuine epistles of the Apostolical Fathers, : St. Barnabas, St. Clement, St. Ignatius, St. Polycarp; the Shepherd of Hermas, and the martyrdoms of St. Ignatius and St. Polycarp, written by those who were present at their sufferings (London: : Printed by W.B. for Richard Sare..., 1719) | have-ocr | IA `genuineepistleso1719wake` |
+| The principles of the Christian religion explained, in a brief commentary upon the church catechism (London, Printed for T. Cadell, 1827) | have-ocr | IA `principlesofchri00wakerich` |
+| A brief discourse of the real presence of the body and blood of Christ in the celebration of the Holy Eucharist : wherein the witty artifices of the Bishop of Meaux and of Monsieur Maimbourg are obviated, whereby they would draw in the Protestants to imbrace the doctrine of transubstantiation (London : Printed for Walter Kettilby, 1686) [breof00more]: a bound volume of three tracts; only a binder's handwritten contents list gives them to 'Abp Wake', and the printed title page carries no author, only the imprimatur | pending | not shelved |
+| Other printings of the Apostolical Fathers (1693-1893) and the 1909 Burton edition | alternate | not shelved |
+| Hone's Apocryphal New Testament (1820-1901), a compilation that reprints some of Wake's translations; the Speculum Dioeceseos Lincolniensis (1913), his diocesan records edited by others | excluded | |
+
+## Edmund Gibson (round 41, my pick, 2026-10-22)
+
+Slugs `gibson-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 1 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713) | have-ocr | IA `codexjuriseccles01chur` |
+| Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 2 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713) | have-ocr | IA `codexjuriseccles02chur` |
+| Synodus Anglicana (Oxford, Univ. Press, 1854) | have-ocr | IA `synodusanglicana00gibsuoft` |
+| A Preservative against Popery (1738; Cumming's 1848 edition in 18 volumes): a collection of discourses by many divines that Gibson compiled, held with the other many-author compilations for Adam's ruling | pending | not shelved |
+| His Saxon Chronicle (1692) and Camden edition (philology and antiquities); the Speculum Dioeceseos Lincolniensis (1913, records edited by others) | excluded | |
+
+## Thomas Secker (round 41, my pick, 2026-10-22)
+
+Slugs `secker-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Works of Thomas Secker, vol. 1 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker01seckiala` |
+| Works of Thomas Secker, vol. 2 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker02seckiala` |
+| Works of Thomas Secker, vol. 3 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker03seckiala` |
+| Works of Thomas Secker, vol. 4 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker04seckiala` |
+| Works of Thomas Secker, vol. 5 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker05seckiala` |
+| Works of Thomas Secker, vol. 6 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker06seckiala` |
+| Works of Thomas Secker, vol. 7 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker07seckiala` |
+| Works of Thomas Secker, vol. 8 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker08seckiala` |
+| Works of Thomas Secker, vol. 9 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker09seckiala` |
+| Works of Thomas Secker, vol. 10 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker10seckiala` |
+| Works of Thomas Secker, vol. 11: Lectures on the Catechism of the Church of England, vol. I, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker11seckiala` |
+| Works of Thomas Secker, vol. 12: Lectures on the Catechism of the Church of England, vol. II, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker12seckiala` |
+| The separate Sermons on Several Subjects (1771, seven volumes) and Lectures on the Catechism (1771), both inside the Works; the Nine Sermons (1758) | alternate | not shelved |
+
+## William Van Mildert (round 41, my pick, 2026-10-22)
+
+Slugs `vanmildert-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 1 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks01vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 2 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks02vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 3 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks03vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 4 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks04vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 5 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks05vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 6 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks06vanm` |
+| The separate printings of the Historical View of Infidelity (1831, 1839), the Inquiry into Scripture Interpretation (1815) and the Lincoln's Inn Sermons (1831-1832) | alternate | not shelved |
+| His edition of Waterland's Works (1823, 1856), on the waterland shelf | excluded | |
