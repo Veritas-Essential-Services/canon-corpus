@@ -1,0 +1,281 @@
+{
+ "_about": "Public-domain John Wilbur Chapman (1859-1918), Presbyterian evangelist, for the Word Hoard: The Ivory Palaces of the King (1893), Received Ye the Holy Ghost? (1894), And Peter (1896), The Lost Crown (1898), The Life of Blessing (1899), The Surrendered Life (1899), The Secret of a Happy Day (1899), Revivals and Missions (1900), The Personal Touch (1900), From Life to Life (1900), The Life and Work of Dwight L. Moody (1900), Day by Day (1901), The Man Who Said He Would (1902), Present-Day Evangelism (1903), Fishing for Men (1904), And Judas Iscariot (1906) and S. H. Hadley of Water Street (1906), from Internet Archive scans. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chapman"
+ ],
+ "_surname": [
+  "j. wilbur chapman",
+  "john wilbur chapman",
+  "wilbur chapman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jwchapman-ivory-palaces": [
+   "ivorypalacesofki00chap",
+   "The ivory palaces of the King (catalogued 1893)"
+  ],
+  "jwchapman-holy-ghost": [
+   "receivedyeholygh00chap",
+   "Received ye the Holy Ghost? (New York, Chicago [etc.] Fleming H. Revell company, 1894)"
+  ],
+  "jwchapman-and-peter": [
+   "andpeterotherser00chap",
+   "\"And Peter\" : and other sermons (Bible Institute Colportage Association, 1896)"
+  ],
+  "jwchapman-lost-crown": [
+   "lostcrown00chap",
+   "The lost crown (Fleming H. Revell, 1898)"
+  ],
+  "jwchapman-life-of-blessing": [
+   "lifeofblessing00chap",
+   "The life of blessing (W. R. Funk, Pub., 1899)"
+  ],
+  "jwchapman-surrendered-life": [
+   "surrenderedlifeq00chap",
+   "The surrendered life; quiet hour meditations (United Society of Christian endeavor, 1899)"
+  ],
+  "jwchapman-happy-day": [
+   "secretofhappyday00chap",
+   "The secret of a happy day: quiet hour meditations (United Societies of Christian Endeavor, 1899)"
+  ],
+  "jwchapman-revivals-missions": [
+   "revivalsmissions01chap",
+   "Revivals and missions (New York, Lentilhon, 1900)"
+  ],
+  "jwchapman-personal-touch": [
+   "personaltouch00chap",
+   "The personal touch (New York : Fleming H. Revell, 1900)"
+  ],
+  "jwchapman-life-to-life": [
+   "fromlifetolifeil00chap",
+   "From life to life; illustrations and anecdotes for the use of religious workers and for private meditation (Boston, Chicago, United society of Christian endeavor, 1900)"
+  ],
+  "jwchapman-moody": [
+   "lifeworkofdwight00chap",
+   "The life and work of Dwight L. Moody, presented to the Christian world as a tribute to the memory of the greatest apostle of the age (Philadelphia, Universal Pub, 1900)"
+  ],
+  "jwchapman-day-by-day": [
+   "daybydayormedita00chap",
+   "Day by day; or, Meditations for the morning watch (Boston and Chicago, United society of Christian endeavor, 1901)"
+  ],
+  "jwchapman-man-who-said": [
+   "manwhosaidhewoul00chap",
+   "The man who said he would (Boston and Chicago, United society of Christian endeavor, 1902)"
+  ],
+  "jwchapman-evangelism": [
+   "presentdayevange0000jwil",
+   "Present-day evangelism (catalogued 1903)"
+  ],
+  "jwchapman-fishing-for-men": [
+   "fishingformen00chap",
+   "Fishing for men (Chicago, Winona Publishing. Co., 1904)"
+  ],
+  "jwchapman-judas": [
+   "andjudasiscariot00chap",
+   "And Judas Iscariot with other evangelistic sermons (Chicago, Winona pub. co., 1906)"
+  ],
+  "jwchapman-hadley": [
+   "shhadleyofwaters00chapiala",
+   "S. H. Hadley of Water Street; a miracle of grace (New York : F. H. Revell, [c19)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jwchapman-other": "Hymn books he compiled (Christian Hymns, Choice Hymns, Songs of Praise); The Way of Life and The Spiritual Life of the Sunday School (several authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jwchapman-ivory-palaces": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jwchapman-holy-ghost": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-and-peter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-lost-crown": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-life-of-blessing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-surrendered-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-happy-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-revivals-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jwchapman-personal-touch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-life-to-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-moody": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-day-by-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jwchapman-man-who-said": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jwchapman-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jwchapman-fishing-for-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-judas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwchapman-hadley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wilbur chapman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[c1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

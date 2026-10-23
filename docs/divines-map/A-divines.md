@@ -12074,3 +12074,28 @@ Slugs `nsmyth-*`. Built from title pages read for round 57.
 | Through science to faith (New York : C. Scribner's Sons, 1902) | have-ocr | IA `throughscienceto00smyt` |
 | Passing Protestantism and coming Catholicism (New York : C. Scribner's sons, 1908) | have-ocr | IA `passingprotestan00smyt` |
 | His translation of Dorner on the Future State (1883, Dorner's book); a Berlin guidebook miscatalogued under his name | excluded | |
+
+## J. Wilbur Chapman (round 57, my pick, 2026-10-23)
+
+Slugs `jwchapman-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The ivory palaces of the King (catalogued 1893) | have-ocr | IA `ivorypalacesofki00chap` |
+| Received ye the Holy Ghost? (New York, Chicago [etc.] Fleming H. Revell company, 1894) | have-ocr | IA `receivedyeholygh00chap` |
+| "And Peter" : and other sermons (Bible Institute Colportage Association, 1896) | have-ocr | IA `andpeterotherser00chap` |
+| The lost crown (Fleming H. Revell, 1898) | have-ocr | IA `lostcrown00chap` |
+| The life of blessing (W. R. Funk, Pub., 1899) | have-ocr | IA `lifeofblessing00chap` |
+| The surrendered life; quiet hour meditations (United Society of Christian endeavor, 1899) | have-ocr | IA `surrenderedlifeq00chap` |
+| The secret of a happy day: quiet hour meditations (United Societies of Christian Endeavor, 1899) | have-ocr | IA `secretofhappyday00chap` |
+| Revivals and missions (New York, Lentilhon, 1900) | have-ocr | IA `revivalsmissions01chap` |
+| The personal touch (New York : Fleming H. Revell, 1900) | have-ocr | IA `personaltouch00chap` |
+| From life to life; illustrations and anecdotes for the use of religious workers and for private meditation (Boston, Chicago, United society of Christian endeavor, 1900) | have-ocr | IA `fromlifetolifeil00chap` |
+| The life and work of Dwight L. Moody, presented to the Christian world as a tribute to the memory of the greatest apostle of the age (Philadelphia, Universal Pub, 1900) | have-ocr | IA `lifeworkofdwight00chap` |
+| Day by day; or, Meditations for the morning watch (Boston and Chicago, United society of Christian endeavor, 1901) | have-ocr | IA `daybydayormedita00chap` |
+| The man who said he would (Boston and Chicago, United society of Christian endeavor, 1902) | have-ocr | IA `manwhosaidhewoul00chap` |
+| Present-day evangelism (catalogued 1903) | have-ocr | IA `presentdayevange0000jwil` |
+| Fishing for men (Chicago, Winona Publishing. Co., 1904) | have-ocr | IA `fishingformen00chap` |
+| And Judas Iscariot with other evangelistic sermons (Chicago, Winona pub. co., 1906) | have-ocr | IA `andjudasiscariot00chap` |
+| S. H. Hadley of Water Street; a miracle of grace (New York : F. H. Revell, [c19) | have-ocr | IA `shhadleyofwaters00chapiala` |
+| Hymn books he compiled (Christian Hymns, Choice Hymns, Songs of Praise); The Way of Life and The Spiritual Life of the Sunday School (several authors) | excluded | |
