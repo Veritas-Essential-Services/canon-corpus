@@ -11330,6 +11330,15 @@ Slugs `prince-*`. Built from title pages read for round 51.
 | The Divine Promises Considered ... a Funeral Discourse occasion'd by the death of Mrs. Hannah Williams (Boston, 1746): the title page, read from the page image, names no author; attributed to Prince by the catalogue only | pending | not shelved |
 | Other copies of Extraordinary Events (1746-1747, several printings) | alternate | not shelved |
 | Other single sermons of 1727-1747 left for later; Mayhew's Indian Converts, Mason's Pequot War and Willard's Compleat Body of Divinity (Prince only wrote prefaces or edited) | excluded | |
+
+## Peter Bulkeley (round 51, my pick, 2026-10-23)
+
+Slugs `bulkeley-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The gospel-covenant; or, The covenant of grace opened. : Wherein are explained; 1. The differences betwixt the covenant of grace and covenant of workes. 2. The different administration of the covenant before and since Christ. 3. The benefits and blessings of it. 4. The condition. 5. The properties of it (London : printed by Matthew Simmons, dwelling in Aldersgate-street next doore to the Golden Lyon, 1651) | have-ocr | IA `gospelcovenantor00bulk` |
+| gospelcovenantor0000bulk (another 1651 copy) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
