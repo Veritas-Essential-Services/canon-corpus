@@ -14969,3 +14969,22 @@ Shelf: `pipeline/frank-t-bullen_shelf.json` (2026-10-22; added at the coordinato
 | A Whaleman's Wife | have | PG 65718, `ftbullen-whalemans-wife` (575 units) |
 | "Light Ho, Sir!" | have | PG 65737, `ftbullen-light-ho-sir` (49 units) |
 | Recollections The Reminiscences of the Busy Life of One Who Has Played the Varied Parts of Sailor, Author & Lecturer | have | PG 67673, `ftbullen-recollections-the-reminiscences-of-the-busy-life-of` (572 units) |
+
+## May Agnes Fleming
+
+Shelf: `pipeline/may-agnes-fleming_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular romances. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Midnight Queen | have | PG 2950, `mafleming-midnight-queen` (2071 units) |
+| A Terrible Secret: A Novel | have | PG 7063, `mafleming-terrible-secret` (3289 units) |
+| The Baronet's Bride; Or, A Woman's Vengeance | have | PG 15317, `mafleming-baronets-bride` (2668 units) |
+| The Unseen Bridegroom; Or, Wedded For a Week | have | PG 15875, `mafleming-unseen-bridegroom` (2975 units) |
+| Kate Danton, or, Captain Danton's Daughters: A Novel | have | PG 19512, `mafleming-kate-danton-or-captain-dantons-daughters` (3321 units) |
+| Norine's Revenge, and, Sir Noel's Heir | have | PG 33664, `mafleming-norines-revenge-and-sir-noels-heir` (2745 units) |
+| The Actress' Daughter: A Novel | have | PG 35035, `mafleming-actress-daughter` (2633 units) |
+| Sharing Her Crime: A Novel | have | PG 35462, `mafleming-sharing-her-crime` (3066 units) |
+| Sir Noel's Heir: A Novel | have | PG 35931, `mafleming-sir-noels-heir` (957 units) |
+| A Changed Heart: A Novel | have | PG 41672, `mafleming-changed-heart` (3778 units) |
+| The Gypsy Queen's Vow | have | PG 43489, `mafleming-gypsy-queens-vow` (3631 units) |
+| The queen of the isle | have | PG 72860, `mafleming-queen-of-the-isle` (3015 units) |
