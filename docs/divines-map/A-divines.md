@@ -18589,3 +18589,16 @@ Slugs `noble-*`. Built from title pages read for round 125.
 | The Pilgrims (Boston, The Pilgrim Press, 1907) | have-ocr | IA `pilgrims00noblrich` |
 | Spiritual culture (New York, Hodder & Stoughton, George H. Doran Company, 1914) | have-ocr | IA `spiritualculture0000unse` |
 | MN41573ucmf_0, a partial scan of Spiritual Culture | excluded | |
+
+## J. Lewis Diman (round 126, my pick, 2026-10-23)
+
+Slugs `diman-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| The nation and the Constitution. An oration delivered before the city authorities and citizens of Providence, July 4, 1866 (Providence : Providence Press Company, 1866) | have-ocr | IA `nationconstituti00dima` |
+| The alienation of the educated class from politics (Providence, S. S. Rider, 1876) | have-ocr | IA `alienationofeduc00dima` |
+| The theistic argument as affected by recent theories (Boston : Houghton, Mifflin, 1881) | have-ocr | IA `theisticargument0000dima` |
+| Orations and essays : with selected parish sermons (Boston : Houghton, Mifflin, and Co., 1882) | have-ocr | IA `orationsessayswi00dima` |
+| Ceremonies at the Unveiling of the Monument to Roger Williams (1877), IA ceremoniesatunv00coungoog: his oration with other men's addresses (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| bwb_Y0-CQH-907, a later printing of The Theistic Argument | excluded | |
