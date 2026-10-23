@@ -14302,6 +14302,17 @@ Slugs `colenso-*`. Built from title pages read for round 80.
 | Natal sermons (London, N. Trübner & co., 1866) | have-ocr | IA `natalsermonsase00colegoog` |
 | parts 6 and 7 (1871-1879) were not found as separate Internet Archive scans | pending | not shelved |
 | his school arithmetic, algebra and trigonometry and his Zulu-English dictionary (not theology); the many replies to him by others | excluded | |
+
+## Jean-Pierre de Caussade (round 80, my pick, 2026-10-23)
+
+Slugs `caussade-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| Abandonment, or, Absolute surrender to divine providence (New York, Cincinnati and St. Louis Benziger brothers, 1887), translated by Ella McMahon | have-ocr | IA `abandonmentorabs00caus` |
+| Abandonment to divine providence, edited by J. Ramière, translated by E. J. Strickland (Exeter : Catholic Records Press ; St. Louis : Herder, 1921; imprimatur 7 March 1921) | have-ocr | IA `abandonmenttodiv00causrich` |
+| the French texts (1874 and later); everything printed 1930 or later | excluded | |
+| the undated 'Third English Edition' of Strickland's translation; it may have been printed after 1930, so the 1921 first edition is used instead | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

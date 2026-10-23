@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Jean-Pierre de Caussade (1675-1751), French Jesuit spiritual director, in English for the Word Hoard: his Abandonment to Divine Providence (L'Abandon a la Providence divine) in two translations: Ella McMahon's, Abandonment, or Absolute Surrender to Divine Providence (New York, 1887), and E. J. Strickland's, Abandonment to Divine Providence (Exeter, 1921). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 80 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "caussade",
+  "de caussade",
+  "p. j. p. de caussade"
+ ],
+ "_surname": [
+  "caussade"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "caussade-abandonment-mcmahon": [
+   "abandonmentorabs00caus",
+   "Abandonment, or, Absolute surrender to divine providence (New York, Cincinnati and St. Louis Benziger brothers, 1887), translated by Ella McMahon"
+  ],
+  "caussade-abandonment-strickland": [
+   "abandonmenttodiv00causrich",
+   "Abandonment to divine providence, edited by J. Ramière, translated by E. J. Strickland (Exeter : Catholic Records Press ; St. Louis : Herder, 1921; imprimatur 7 March 1921)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "caussade-other": "the French texts (1874 and later); everything printed 1930 or later",
+  "abandonmenttodiv00causuoft": "the undated 'Third English Edition' of Strickland's translation; it may have been printed after 1930, so the 1921 first edition is used instead"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "caussade-abandonment-mcmahon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caussade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caussade-abandonment-strickland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caussade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[introd. 1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
