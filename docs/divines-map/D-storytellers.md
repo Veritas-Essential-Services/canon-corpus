@@ -17837,3 +17837,16 @@ Shelf: `pipeline/netta-syrett_shelf.json` (2026-10-22; added at the coordinator'
 | The day's journey | have | PG 71317, `nsyrett-days-journey` (1645 units) |
 | Nobody's fault | have | PG 71360, `nsyrett-nobodys-fault` (1319 units) |
 | Anne Page | have | PG 73015, `nsyrett-anne-page` (2448 units) |
+
+## Annie S. Swan
+
+Shelf: `pipeline/annie-s-swan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Thankful Rest | have | PG 12998, `asswan-thankful-rest` (735 units) |
+| The Guinea Stamp: A Tale of Modern Glasgow | have | PG 17442, `asswan-guinea-stamp` (2647 units) |
+| An Englishwoman's Home | have | PG 22193, `asswan-englishwomans-home` (504 units) |
+| Courtship and Marriage, and the Gentle Art of Home-Making | have | PG 35963, `asswan-courtship-and-marriage-and-the-gentle-art-of-home-mak` (237 units) |
+| The Last of Their Race | have | PG 42926, `asswan-last-of-their-race` (2761 units) |
+| Adam Hepburn's Vow: A Tale of Kirk and Covenant | have | PG 46966, `asswan-adam-hepburns-vow` (1058 units) |
