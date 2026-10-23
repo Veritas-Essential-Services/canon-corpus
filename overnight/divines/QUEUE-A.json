@@ -6175,6 +6175,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:53:20-05:00",
       "notes": "2 items: Design of Christianity 1671, Libertas Evangelica 1680"
+    },
+    {
+      "id": "john-scott-christian-life",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:21-05:00",
+      "notes": "5 items: The Christian Life 1757 (5 vols)"
     }
   ]
 }

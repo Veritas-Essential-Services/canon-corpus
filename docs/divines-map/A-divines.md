@@ -10575,3 +10575,16 @@ Slugs `fowler-*`. Built from title pages read for round 45.
 | Libertas Evangelica: or, a discourse of Christian liberty (London, catalogued 1680) | have-ocr | IA `bim_early-english-books-1641-1700_libertas-evangelica_fowler-edward_1680` |
 | The Design of Christianity, 1676, 1699 and 1760 | alternate | not shelved |
 | Pamphlets on the Trinity and the Bunyan controversy (Dirt wipt off, 1672), left for a later round | excluded | |
+
+## John Scott (The Christian Life) (round 45, my pick, 2026-10-22)
+
+Slugs `jscott-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 1 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro01scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 2 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro02scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 3 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro03scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 4 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro04scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 5 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro05scot` |
+| The Works (1718 and the Oxford 1826 set, Google copies) | alternate | not shelved |
