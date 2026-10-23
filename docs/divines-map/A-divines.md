@@ -16662,3 +16662,18 @@ Slugs `eastburn-*`. Built from title pages read for round 105.
 | moderationofprot00east: The Moderation of the Protestant Episcopal Church (1849); the text file returned HTTP 500 | pending | not shelved |
 | Tributes to the Memory of Henry Anthon (several hands) | excluded | |
 | Consecration of St. John's Memorial Chapel (proceedings) | excluded | |
+
+## Henry U. Onderdonk (round 105, my pick, 2026-10-23)
+
+Slugs `onderdonk-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| The rule of faith : a charge to the clergy of the Protestant Episcopal Church in the commonwealth of Pennsylvania, delivered in St. James' Church, Philadelphia, May 22, 1833, at the opening of the convention / by Henry U. Onderdonk (s.n., 1833) | have-ocr | IA `ruleoffaithcharg00onde` |
+| An essay on regeneration (Philadelphia : John C. Pechin, 1835) | have-ocr | IA `essayonregenerat00onde` |
+| Episcopacy examined and re-examined, comprising the tract "Episcopacy tested by Scripture", and the controversy concerning that publication (New York, Protestant Episcopal tract society, 1835) | have-ocr | IA `episcopacyexamin00onde` |
+| The atonement : a charge to the clergy of the Protestant Episcopal Church in Pennsylvania : delivered in St. Andrew's Church, Philadelphia, May 16th, 1838 : at the opening of the Convention (Philadelphia : J. Harding, 1838) | have-ocr | IA `atonementcharget00onde` |
+| A sermon delivered in Christ church, Philadelphia (Philadelphia, J. Crissy, printer, 1841) | have-ocr | IA `sermondeliveredi00onde` |
+| Refuge in God : a sermon delivered in the Church of the Ascension, Philadelphia, on Sunday morning, October 26, 1856 / by the Right Rev. Henry U. Onderdonk (C. Sherman & Son, 1856) | have-ocr | IA `refugeingodsermo00onde` |
+| Episcopacy tested by Scripture (New York : The Protestant Episcopal tract society, 1860) | have-ocr | IA `episcopacytested00onde` |
+| Inaugural dissertation on stone in the bladder (1810, medicine) | excluded | |
