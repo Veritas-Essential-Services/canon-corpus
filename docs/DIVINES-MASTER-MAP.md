@@ -18352,6 +18352,18 @@ Shelf: `pipeline/j-p-postgate_shelf.json`. English essays and the Lucan VII-VIII
 | Lucan, De Bello Civili Liber VII, with introduction, notes and critical appendix (Cambridge, 1896) |  | `postgate-lucan-vii-1896` | have-raw (IA `debellocivililib00lucauoft`) |
 | Lucan, De Bello Civili Liber VIII, with introduction and notes (Cambridge, 1917) |  | `postgate-lucan-viii-1917` | have-raw (IA `debellocivilil00luca`) |
 
+
+## H. A. J. Munro (1819-1885)
+
+Shelf: `pipeline/h-a-j-munro_shelf.json`. English criticism; his Lucretius is held elsewhere. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Criticisms and Elucidations of Catullus (1878) |  | `munro-catullus-criticisms-1878` | have-raw (IA `criticismselucid00munriala`) |
+| A Few Remarks on the Pronunciation of Latin, with a postscript (1871) |  | `munro-pronunciation-latin-1871` | have-raw (IA `fewremarksonpron00munrrich`) |
+
+Excluded: Munro's Lucretius (1864-1886) (held elsewhere (Lucretius tr. Munro); not refetched)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

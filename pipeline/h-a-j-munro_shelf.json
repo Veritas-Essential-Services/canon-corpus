@@ -1,0 +1,55 @@
+{
+ "_about": "Hugh Andrew Johnstone Munro (1819-1885), Cambridge Latinist. His English criticism; his Lucretius (text, notes, translation) is held elsewhere and not refetched.",
+ "_author": "H. A. J. Munro (1819-1885)",
+ "_name_words": [
+  "munro",
+  "catullus",
+  "criticisms",
+  "elucidations",
+  "pronunciation",
+  "latin"
+ ],
+ "_surname": [
+  "munro"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "munro-catullus-criticisms-1878": [
+   "criticismselucid00munriala",
+   "Criticisms and Elucidations of Catullus (1878)"
+  ],
+  "munro-pronunciation-latin-1871": [
+   "fewremarksonpron00munrrich",
+   "A Few Remarks on the Pronunciation of Latin, with a postscript (1871)"
+  ]
+ },
+ "_excluded": {
+  "Munro's Lucretius (1864-1886)": "held elsewhere (Lucretius tr. Munro); not refetched"
+ },
+ "_checks": {
+  "munro-catullus-criticisms-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "munro-pronunciation-latin-1871": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munro",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
