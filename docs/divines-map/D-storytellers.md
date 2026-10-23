@@ -16998,3 +16998,20 @@ Shelf: `pipeline/robert-grant_shelf.json` (2026-10-22; added at the coordinator'
 | The Orchid | have | PG 53711, `rgrant-orchid` (589 units) |
 | The Undercurrent | have | PG 56310, `rgrant-undercurrent` (1569 units) |
 | Jack Hall | have | PG 77143, `rgrant-jack-hall` (1277 units) |
+
+## Eliza Lee Cabot Follen
+
+Shelf: `pipeline/eliza-follen_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and verse for children. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Songs | have | PG 4027, `elcfollen-little-songs` (183 units) |
+| True Stories about Dogs and Cats | have | PG 4029, `elcfollen-true-stories-about-dogs-and-cats` (258 units) |
+| Travellers' Stories | have | PG 4030, `elcfollen-travellers-stories` (112 units) |
+| Who Spoke Next | have | PG 4033, `elcfollen-who-spoke-next` (237 units) |
+| The Pedler of Dust Sticks | have | PG 4040, `elcfollen-pedler-of-dust-sticks` (205 units) |
+| Conscience | have | PG 4041, `elcfollen-conscience` (244 units) |
+| What the Animals Do and Say | have | PG 4044, `elcfollen-what-the-animals-do-and-say` (171 units) |
+| The Talkative Wig | have | PG 4048, `elcfollen-talkative-wig` (242 units) |
+| Two Festivals | have | PG 4056, `elcfollen-two-festivals` (187 units) |
+| Hymns, Songs, and Fables, for Young People | have | PG 16688, `elcfollen-hymns-songs-and-fables-for-young-people` (572 units) |

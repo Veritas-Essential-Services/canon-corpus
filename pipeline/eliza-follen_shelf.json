@@ -1,0 +1,148 @@
+{
+ "_about": "Eliza Lee Cabot Follen: Stories and verse for children. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Eliza Lee Cabot Follen",
+ "_name_words": [
+  "follen"
+ ],
+ "_surname": [
+  "follen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elcfollen-little-songs": [
+   4027,
+   "Little Songs"
+  ],
+  "elcfollen-true-stories-about-dogs-and-cats": [
+   4029,
+   "True Stories about Dogs and Cats"
+  ],
+  "elcfollen-travellers-stories": [
+   4030,
+   "Travellers' Stories"
+  ],
+  "elcfollen-who-spoke-next": [
+   4033,
+   "Who Spoke Next"
+  ],
+  "elcfollen-pedler-of-dust-sticks": [
+   4040,
+   "The Pedler of Dust Sticks"
+  ],
+  "elcfollen-conscience": [
+   4041,
+   "Conscience"
+  ],
+  "elcfollen-what-the-animals-do-and-say": [
+   4044,
+   "What the Animals Do and Say"
+  ],
+  "elcfollen-talkative-wig": [
+   4048,
+   "The Talkative Wig"
+  ],
+  "elcfollen-two-festivals": [
+   4056,
+   "Two Festivals"
+  ],
+  "elcfollen-hymns-songs-and-fables-for-young-people": [
+   16688,
+   "Hymns, Songs, and Fables, for Young People"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "elcfollen-little-songs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-true-stories-about-dogs-and-cats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-travellers-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-who-spoke-next": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-pedler-of-dust-sticks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-conscience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-what-the-animals-do-and-say": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-talkative-wig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-two-festivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elcfollen-hymns-songs-and-fables-for-young-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "follen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
