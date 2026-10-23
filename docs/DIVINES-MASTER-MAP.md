@@ -40409,3 +40409,22 @@ Shelf: `pipeline/will-levington-comfort_shelf.json` (2026-10-22; added at the co
 | Lot & Company | have | PG 69038, `wlcomfort-lot-company` (1596 units) |
 | Somewhere south in Sonora | have | PG 70867, `wlcomfort-somewhere-south-in-sonora` (1392 units) |
 | Routledge rides alone | have | PG 73334, `wlcomfort-routledge-rides-alone` (1377 units) |
+
+## Geraldine Bonner
+
+Shelf: `pipeline/geraldine-bonner_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Treasure and Trouble Therewith: A Tale of California | have | PG 9775, `gbonner-treasure-and-trouble-therewith` (2310 units) |
+| The Emigrant Trail | have | PG 19113, `gbonner-emigrant-trail` (2314 units) |
+| The Black Eagle Mystery | have | PG 35484, `gbonner-black-eagle-mystery` (1624 units) |
+| The Girl at Central | have | PG 35503, `gbonner-girl-at-central` (1297 units) |
+| Miss Maitland, Private Secretary | have | PG 35504, `gbonner-miss-maitland-private-secretary` (1703 units) |
+| Hard-Pan: A Story of Bonanza Fortunes | have | PG 63911, `gbonner-hard-pan` (1317 units) |
+| The Castlecourt Diamond Mystery | have | PG 64934, `gbonner-castlecourt-diamond-mystery` (441 units) |
+| Rich men's children | have | PG 67454, `gbonner-rich-mens-children` (2030 units) |
+| Tomorrow's tangle | have | PG 67521, `gbonner-tomorrows-tangle` (2866 units) |
+| The book of Evelyn | have | PG 68941, `gbonner-book-of-evelyn` (1817 units) |
+| The leading lady | have | PG 69322, `gbonner-leading-lady` (1201 units) |
+| The pioneer | have | PG 73040, `gbonner-pioneer` (2101 units) |

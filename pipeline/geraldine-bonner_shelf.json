@@ -1,0 +1,175 @@
+{
+ "_about": "Geraldine Bonner's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Geraldine Bonner",
+ "_name_words": [
+  "bonner",
+  "geraldine"
+ ],
+ "_surname": [
+  "geraldine bonner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gbonner-treasure-and-trouble-therewith": [
+   9775,
+   "Treasure and Trouble Therewith: A Tale of California"
+  ],
+  "gbonner-emigrant-trail": [
+   19113,
+   "The Emigrant Trail"
+  ],
+  "gbonner-black-eagle-mystery": [
+   35484,
+   "The Black Eagle Mystery"
+  ],
+  "gbonner-girl-at-central": [
+   35503,
+   "The Girl at Central"
+  ],
+  "gbonner-miss-maitland-private-secretary": [
+   35504,
+   "Miss Maitland, Private Secretary"
+  ],
+  "gbonner-hard-pan": [
+   63911,
+   "Hard-Pan: A Story of Bonanza Fortunes"
+  ],
+  "gbonner-castlecourt-diamond-mystery": [
+   64934,
+   "The Castlecourt Diamond Mystery"
+  ],
+  "gbonner-rich-mens-children": [
+   67454,
+   "Rich men's children"
+  ],
+  "gbonner-tomorrows-tangle": [
+   67521,
+   "Tomorrow's tangle"
+  ],
+  "gbonner-book-of-evelyn": [
+   68941,
+   "The book of Evelyn"
+  ],
+  "gbonner-leading-lady": [
+   69322,
+   "The leading lady"
+  ],
+  "gbonner-pioneer": [
+   73040,
+   "The pioneer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gbonner-treasure-and-trouble-therewith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-emigrant-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-black-eagle-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-girl-at-central": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-miss-maitland-private-secretary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-hard-pan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-castlecourt-diamond-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-rich-mens-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-tomorrows-tangle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-book-of-evelyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-leading-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbonner-pioneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geraldine bonner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
