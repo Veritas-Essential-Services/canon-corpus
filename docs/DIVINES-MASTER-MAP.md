@@ -42564,3 +42564,17 @@ Shelf: `pipeline/nina-rhoades_shelf.json` (2026-10-22; added at the coordinator'
 | A real Cinderella | have | PG 74904, `nrhoades-real-cinderella` (1240 units) |
 | Maisie's merry Christmas | have | PG 75482, `nrhoades-maisies-merry-christmas` (1551 units) |
 | Nora's twin sister | have | PG 76955, `nrhoades-noras-twin-sister` (1370 units) |
+
+## Melville Davisson Post
+
+Shelf: `pipeline/melville-davisson-post_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery stories (Uncle Abner, Randolph Mason). Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sleuth of St. James's Square | have | PG 2861, `mdpost-sleuth-of-st-jamess-square` (2376 units) |
+| Dwellers in the Hills | have | PG 29851, `mdpost-dwellers-in-the-hills` (1061 units) |
+| The Gilded Chair: A Novel | have | PG 51941, `mdpost-gilded-chair` (1147 units) |
+| The Man of Last Resort; Or, The Clients of Randolph Mason | have | PG 51955, `mdpost-man-of-last-resort` (858 units) |
+| The Strange Schemes of Randolph Mason | have | PG 51956, `mdpost-strange-schemes-of-randolph-mason` (834 units) |
+| The Mountain School-Teacher | have | PG 51958, `mdpost-mountain-school-teacher` (989 units) |
+| Walker of the Secret Service | have | PG 62740, `mdpost-walker-of-the-secret-service` (1894 units) |

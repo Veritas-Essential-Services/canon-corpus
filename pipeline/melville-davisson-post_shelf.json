@@ -1,0 +1,112 @@
+{
+ "_about": "Melville Davisson Post: Mystery stories (Uncle Abner, Randolph Mason). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Melville Davisson Post",
+ "_name_words": [
+  "davisson",
+  "melville",
+  "post"
+ ],
+ "_surname": [
+  "melville davisson post",
+  "davisson post"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mdpost-sleuth-of-st-jamess-square": [
+   2861,
+   "The Sleuth of St. James's Square"
+  ],
+  "mdpost-dwellers-in-the-hills": [
+   29851,
+   "Dwellers in the Hills"
+  ],
+  "mdpost-gilded-chair": [
+   51941,
+   "The Gilded Chair: A Novel"
+  ],
+  "mdpost-man-of-last-resort": [
+   51955,
+   "The Man of Last Resort; Or, The Clients of Randolph Mason"
+  ],
+  "mdpost-strange-schemes-of-randolph-mason": [
+   51956,
+   "The Strange Schemes of Randolph Mason"
+  ],
+  "mdpost-mountain-school-teacher": [
+   51958,
+   "The Mountain School-Teacher"
+  ],
+  "mdpost-walker-of-the-secret-service": [
+   62740,
+   "Walker of the Secret Service"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mdpost-sleuth-of-st-jamess-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-dwellers-in-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-gilded-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-man-of-last-resort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-strange-schemes-of-randolph-mason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-mountain-school-teacher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdpost-walker-of-the-secret-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "melville davisson post",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
