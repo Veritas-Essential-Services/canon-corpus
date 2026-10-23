@@ -20973,6 +20973,20 @@ Shelf: `pipeline/a-c-pearson_shelf.json`. New shelf, round dv. Raw IA OCR, every
 
 Excluded: Fragments of Sophocles (1917), vols I-II (cuafragmentsofso01soph and cuafragmentsofso02soph OCR the English as Greek letters (clean 0.000); vol III not on IA. Revisit after the Greek re-OCR.)
 
+## E. G. Hardy
+
+Shelf: `pipeline/e-g-hardy_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| C. Plinii Caecilii Secundi Epistulae ad Traianum Imperatorem cum eiusdem responsis, edited with notes and introductory essays by E. G. Hardy (London and New York: Macmillan; the OCR reads the year as '1989', IA dates it 1889) |  | `e-g-hardy-pliny-trajan-1889` | have-raw (IA `epistulaeadtraia00plin`) |
+| The Satires of Juvenal (Saturae XIII), edited for the use of schools with notes, introduction and appendices by E. G. Hardy, second edition (London and New York: Macmillan, 1893) |  | `e-g-hardy-juvenal-satires-1893` | have-raw (IA `satireseditedfor00juveuoft`) |
+| Christianity and the Roman Government, a study in imperial administration, by E. G. Hardy (London: Longmans, Green, 1894) |  | `e-g-hardy-christianity-roman-government-1894` | have-raw (IA `christianityroma00hard`) |
+| Jesus College, by E. G. Hardy, Oxford College Histories (London: F. E. Robinson, 1899) |  | `e-g-hardy-jesus-college-1899` | have-raw (IA `jesuscollege00hardrich`) |
+| Studies in Roman History, by E. G. Hardy (London: Swan Sonnenschein; New York: Macmillan, 1906) |  | `e-g-hardy-studies-roman-history-1906` | have-raw (IA `studiesinromanhi00hardrich`) |
+| Studies in Roman History, second series, by E. G. Hardy (London: Swan Sonnenschein, 1909) |  | `e-g-hardy-studies-roman-history-2-1909` | have-raw (IA `studiesinromanhi00hard`) |
+| Six Roman Laws, translated with introduction and notes by E. G. Hardy (Oxford: Clarendon Press; London: Henry Frowde, 1911) |  | `e-g-hardy-six-roman-laws-1911` | have-raw (IA `sixromanlaws00harduoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
