@@ -18579,6 +18579,22 @@ Slugs `cobern-*`. Built from title pages read for round 125.
 | The new archaeological discoveries and their bearing upon the New Testament and upon the life and times of the primitive Church (New York, Funk, 1917) | have-ocr | IA `newarchaeologica00cobeuoft` |
 | his journal articles | excluded | |
 | other scans and the 1921 printing of The New Archeological Discoveries | excluded | |
+
+## Frederic A. Noble (round 125, my pick, 2026-10-23)
+
+Slugs `noble-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| The need and the value of Christian schools in the present exigency of the New West; a discourse delivered in the Old South Church, Boston, Mass., Sunday morning, May 24, 1885 (Chicago Jameson & Morse, Printers, 1885) | have-ocr | IA `theneedandtheval00nobluoft` |
+| Right conceptions of the kingdom of God and their motive value : a sermon before the American Board of Commissioners for Foreign Missions, at the seventy-eighth annual meeting, held at Springfield, Mass., October 4, 1887 (Thomas Todd, Printer, 1887) | have-ocr | IA `rightconceptions00nobl` |
+| Ten years of ministry in Chicago. An anniversary sermon preached to the Union Park Congregational Church, Chicago, Ill ([Chicago? Ill.], 1889) | have-ocr | IA `tenyearsofminist00nobl` |
+| Discourses on the epistle of Paul to the Philippians (New York : Fleming H. Revell Company, 1896) | have-ocr | IA `discoursesonepis0000unse` |
+| Typical New Testament conversions (Chicago ; New York [etc.] : Fleming H. Revell company, 1901) | have-ocr | IA `typicalnewtestam0000nobl` |
+| Abraham Lincoln : an address ([Chicago], 1901) | have-ocr | IA `abrahamlincolnad00nobl` |
+| The Pilgrims (Boston, The Pilgrim Press, 1907) | have-ocr | IA `pilgrims00noblrich` |
+| Spiritual culture (New York, Hodder & Stoughton, George H. Doran Company, 1914) | have-ocr | IA `spiritualculture0000unse` |
+| MN41573ucmf_0, a partial scan of Spiritual Culture | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
