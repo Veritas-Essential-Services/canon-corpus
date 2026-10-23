@@ -16092,6 +16092,26 @@ Slugs `twells-*`. Built from title pages read for round 99.
 | theologicalworks01pocouoft: Pocock's Theological Works, which Twells edited | excluded | |
 | John Twells (grammars, Bank Charter Act) and Henry Twells (Colloquies on Preaching): different men | excluded | |
 | livesdredwardpo00cgoog: the 1816 Lives of Pocock, Pearce, Newton and Skelton (several authors in one volume) | excluded | |
+
+## Joseph Berington (round 99, my pick, 2026-10-23)
+
+Slugs `berington-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A letter to Dr. Fordyce, in answer to his sermon on the delusive and persecuting spirit of popery (London : Printed for G. Robinson ... and J. Fisk ..., 1779) | have-ocr | IA `lettertodrfordyc00beriiala` |
+| Reflections addressed to the Rev. John Hawkins. : To which is added, an exposition of Roman Catholic principles, in reference to God and the country (Birmingham : Printed by M. Swinney: for T. Booker ... London, 1785) | have-ocr | IA `reflectionsaddre00beri` |
+| An address to the Protestant Dissenters, who have lately petitioned for a repeal of the Corporation and test acts. By ... Joseph Berington.  1787 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_an-address-to-the-protes_berington-joseph_1787` |
+| The history of the lives of Abeillard and Heloisa; comprising a period of eighty-four years, from 1079 to 1163, vol. 2 (Birmingham [Eng.] Printed by M. Swinney for G.G.J. and J. Robinson, London, 1787) | have-ocr | IA `historylivesabe00hlgoog` |
+| An essay on the depravity of the nation, with a view to the promotion of Sunday schools, &c. of which a more extended plan is proposed. By the Rev. Joseph Berington.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_an-essay-on-the-depravit_berington-joseph_1788` |
+| The rights of dissenters from the established church, in relation, principally, to English Catholics. By the Rev. Joseph Berington.  1789 (catalogued 1789) | have-ocr | IA `bim_eighteenth-century_the-rights-of-dissenters_berington-joseph_1789` |
+| bim_eighteenth-century_an-examination-of-events_berington-joseph_1796 (catalogued ) | have-ocr | IA `bim_eighteenth-century_an-examination-of-events_berington-joseph_1796` |
+| A letter to the Right Reverend John Douglas, ... By the Rev. Joseph Berington.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_a-letter-to-the-right-re_berington-joseph_1797` |
+| lettersonmateria00beriuoft: Letters on Materialism, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| statebehaviourof00beri: The State and Behaviour of English Catholics, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| History of the Reign of Henry the Second (secular history) | excluded | |
+| Memoirs of Gregorio Panzani (Panzani's memoir, which Berington translated) | excluded | |
+| The Faith of Catholics (1813, written with John Kirk) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

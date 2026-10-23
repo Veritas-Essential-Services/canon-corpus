@@ -1,0 +1,157 @@
+{
+ "_about": "Public-domain Joseph Berington (1746-1827), English Catholic priest and Cisalpine controversialist, for the Word Hoard: A Letter to Dr. Fordyce, Reflections addressed to John Hawkins, An Address to the Protestant Dissenters, An Essay on the Depravity of the Nation, The Rights of Dissenters, The History of Abeillard and Heloisa, An Examination of Events termed Miraculous, and A Letter to Bishop Douglas. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 99 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph berington",
+  "j. berington",
+  "berington"
+ ],
+ "_surname": [
+  "joseph berington",
+  "j. berington",
+  "berington"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "berington-fordyce": [
+   "lettertodrfordyc00beriiala",
+   "A letter to Dr. Fordyce, in answer to his sermon on the delusive and persecuting spirit of popery (London : Printed for G. Robinson ... and J. Fisk ..., 1779)"
+  ],
+  "berington-hawkins": [
+   "reflectionsaddre00beri",
+   "Reflections addressed to the Rev. John Hawkins. : To which is added, an exposition of Roman Catholic principles, in reference to God and the country (Birmingham : Printed by M. Swinney: for T. Booker ... London, 1785)"
+  ],
+  "berington-protestant-dissenters": [
+   "bim_eighteenth-century_an-address-to-the-protes_berington-joseph_1787",
+   "An address to the Protestant Dissenters, who have lately petitioned for a repeal of the Corporation and test acts. By ... Joseph Berington.  1787 (catalogued 1787)"
+  ],
+  "berington-abeillard": [
+   "historylivesabe00hlgoog",
+   "The history of the lives of Abeillard and Heloisa; comprising a period of eighty-four years, from 1079 to 1163, vol. 2 (Birmingham [Eng.] Printed by M. Swinney for G.G.J. and J. Robinson, London, 1787)"
+  ],
+  "berington-depravity": [
+   "bim_eighteenth-century_an-essay-on-the-depravit_berington-joseph_1788",
+   "An essay on the depravity of the nation, with a view to the promotion of Sunday schools, &c. of which a more extended plan is proposed. By the Rev. Joseph Berington.  1788 (catalogued 1788)"
+  ],
+  "berington-rights-dissenters": [
+   "bim_eighteenth-century_the-rights-of-dissenters_berington-joseph_1789",
+   "The rights of dissenters from the established church, in relation, principally, to English Catholics. By the Rev. Joseph Berington.  1789 (catalogued 1789)"
+  ],
+  "berington-miraculous-events": [
+   "bim_eighteenth-century_an-examination-of-events_berington-joseph_1796",
+   "bim_eighteenth-century_an-examination-of-events_berington-joseph_1796 (catalogued )"
+  ],
+  "berington-letter-douglas": [
+   "bim_eighteenth-century_a-letter-to-the-right-re_berington-joseph_1797",
+   "A letter to the Right Reverend John Douglas, ... By the Rev. Joseph Berington.  1797 (catalogued 1797)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "berington-henry-ii": "History of the Reign of Henry the Second (secular history)",
+  "berington-panzani": "Memoirs of Gregorio Panzani (Panzani's memoir, which Berington translated)",
+  "berington-faith-catholics": "The Faith of Catholics (1813, written with John Kirk)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "berington-materialism": "lettersonmateria00beriuoft: Letters on Materialism, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "berington-english-catholics": "statebehaviourof00beri: The State and Behaviour of English Catholics, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "berington-fordyce": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "berington-hawkins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "berington-protestant-dissenters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "berington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "berington-abeillard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "berington-depravity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "berington-rights-dissenters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "berington-miraculous-events": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "berington-letter-douglas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph berington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
