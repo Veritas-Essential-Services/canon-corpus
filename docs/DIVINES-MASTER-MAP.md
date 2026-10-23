@@ -14207,6 +14207,23 @@ Slugs `nevins-*`. Built from title pages read for round 79.
 | Select remains of the Rev. William Nevins : with a memoir (New York : J. S. Taylor, 1836) | have-ocr | IA `selectremainsofr00nevi` |
 | Sermons (New York : John S. Taylor, 1837) | have-ocr | IA `sermons00nevi` |
 | Earnest appeals (catalogued 1867) | have-ocr | IA `earnestappeals00nevigoog` |
+
+## J. B. Waterbury (round 79, my pick, 2026-10-23)
+
+Slugs `waterbury-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| Advice to a young Christian : On the importance of aiming at an elevated standard of piety (New York : [s.n.], 1843) | have-ocr | IA `advicetoyoungchr00wate` |
+| The happy Christian ([n, p.], 1839) | have-ocr | IA `happychristian00wate` |
+| A book for the Sabbath; in three parts (London, Religious Tract Soc., 1840) | have-ocr | IA `bookforsabbath00wate` |
+| The Voyage of Life: Suggested by Cole's Celebrated Allegorical Paintings (Massachusetts Sabbath School Society, 1852) | have-ocr | IA `voyagelifesugge00wategoog` |
+| The sceptic refuted, and the Bible vindicated ([n.p.], 1853) | have-ocr | IA `scepticrefutedbi00wate` |
+| The child of the covenant (catalogued 1855) | have-ocr | IA `childofcovenant00wate` |
+| Taking up the cross, or, Why should I not make a profession of religion? (Boston : Massachusetts Sabbath School Society, 1855) | have-ocr | IA `takingupcrossorw00wate` |
+| Sketches of eloquent preachers (New York : The American Tract Society, 1864) | have-ocr | IA `sketchesofeloque00wate` |
+| Memoir of the Rev. John Scudder, M.D., thirty-six years missionary in India (New York : Harper, 1870) | have-ocr | IA `memoirofrevjohns00wateiala` |
+| The Brighter Age (1830), a poem; Who are the Happy? (1851), a retitled edition of The Happy Christian; hymn and tune books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

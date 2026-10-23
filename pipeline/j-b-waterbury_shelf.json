@@ -1,0 +1,167 @@
+{
+ "_about": "Public-domain Jared Bell Waterbury (1799-1876), Presbyterian and Reformed minister of Hudson, Portsmouth, Boston and Brooklyn, for the Word Hoard: Advice to a Young Christian (1843), The Happy Christian (1839), A Book for the Sabbath (1840), The Voyage of Life (1852), The Sceptic Refuted (1853), The Child of the Covenant (1855), Taking up the Cross (1855), Sketches of Eloquent Preachers (1864) and his Memoir of John Scudder, missionary in India (1870). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 79 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. b. waterbury",
+  "jared bell waterbury",
+  "rev. j. b. waterbury",
+  "jared b. waterbury"
+ ],
+ "_surname": [
+  "j. b. waterbury",
+  "jared b. waterbury",
+  "waterbury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "waterbury-advice-young-christian": [
+   "advicetoyoungchr00wate",
+   "Advice to a young Christian : On the importance of aiming at an elevated standard of piety (New York : [s.n.], 1843)"
+  ],
+  "waterbury-happy-christian": [
+   "happychristian00wate",
+   "The happy Christian ([n, p.], 1839)"
+  ],
+  "waterbury-book-for-sabbath": [
+   "bookforsabbath00wate",
+   "A book for the Sabbath; in three parts (London, Religious Tract Soc., 1840)"
+  ],
+  "waterbury-voyage-of-life": [
+   "voyagelifesugge00wategoog",
+   "The Voyage of Life: Suggested by Cole's Celebrated Allegorical Paintings (Massachusetts Sabbath School Society, 1852)"
+  ],
+  "waterbury-sceptic-refuted": [
+   "scepticrefutedbi00wate",
+   "The sceptic refuted, and the Bible vindicated ([n.p.], 1853)"
+  ],
+  "waterbury-child-of-covenant": [
+   "childofcovenant00wate",
+   "The child of the covenant (catalogued 1855)"
+  ],
+  "waterbury-taking-up-cross": [
+   "takingupcrossorw00wate",
+   "Taking up the cross, or, Why should I not make a profession of religion? (Boston : Massachusetts Sabbath School Society, 1855)"
+  ],
+  "waterbury-eloquent-preachers": [
+   "sketchesofeloque00wate",
+   "Sketches of eloquent preachers (New York : The American Tract Society, 1864)"
+  ],
+  "waterbury-memoir-scudder": [
+   "memoirofrevjohns00wateiala",
+   "Memoir of the Rev. John Scudder, M.D., thirty-six years missionary in India (New York : Harper, 1870)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "waterbury-other": "The Brighter Age (1830), a poem; Who are the Happy? (1851), a retitled edition of The Happy Christian; hymn and tune books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "waterbury-child-of-covenant": "title page: 'THE CHILD OF THE COVENANT ... BY REV. J. B. WATERBURY, D. D. BOSTON ... 1855' (OCR 'WATEEBURY')",
+  "waterbury-eloquent-preachers": "title page: 'SKETCHES OF ELOQUENT PREACHERS. BY REV. J. B. WATERBURY, D. D. ... AMERICAN TRACT SOCIETY ... 1864' (OCR 'JTB?\\VATEEBUEY')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "waterbury-advice-young-christian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "waterbury-happy-christian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "waterbury-book-for-sabbath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "waterbury-voyage-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "waterbury-sceptic-refuted": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "waterbury-child-of-covenant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "waterbury-taking-up-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterbury-eloquent-preachers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "waterbury-memoir-scudder": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. waterbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

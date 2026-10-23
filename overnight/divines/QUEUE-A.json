@@ -8191,6 +8191,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T04:37:20-05:00",
       "notes": "5 books (Baltimore Presbyterian, 1797-1835)."
+    },
+    {
+      "id": "j-b-waterbury=j-b-waterbury",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:20-05:00",
+      "notes": "9 books. Two OCR'd title pages are quoted on the shelf."
     }
   ]
 }
