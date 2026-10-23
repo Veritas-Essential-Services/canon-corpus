@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Sylvester Joseph Hunter (1829-1896), English Jesuit, for the Word Hoard: Outlines of Dogmatic Theology (3 vols., London: Longmans, Green; New York: Benziger, 1894-1896), a manual of Catholic doctrine in English. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 83 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sylvester joseph hunter",
+  "sylvester j. hunter",
+  "s. j. hunter",
+  "sylvester hunter"
+ ],
+ "_surname": [
+  "sylvester joseph hunter",
+  "sylvester j. hunter",
+  "sylvester hunter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sjhunter-dogmatic-1": [
+   "outlinesofdogmat01hunt",
+   "Outlines of dogmatic theology, vol. 1 (New York : Benziger Brothers, 1895)"
+  ],
+  "sjhunter-dogmatic-2": [
+   "outlinesofdogmat02hunt",
+   "Outlines of dogmatic theology, vol. 2 (New York : Benziger Brothers, 1895)"
+  ],
+  "sjhunter-dogmatic-3": [
+   "outlinesofdogmat03hunt",
+   "Outlines of dogmatic theology, vol. 3 (New York : Benziger Brothers, 1895)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sjhunter-other": "the second edition (1909), a later printing of the same work"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sjhunter-dogmatic-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester joseph hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sjhunter-dogmatic-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester joseph hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sjhunter-dogmatic-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester joseph hunter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -14484,6 +14484,17 @@ Slugs `shannon-*`. Built from title pages read for round 83.
 | A moneyless magnate, and other essays (New York, George H. Doran, 1923) | have-ocr | IA `moneylessmagnate00shan` |
 | The unfathomable Christ, and other sermons (New York ; Chicago : Fleming H. Revell, 1926) | have-ocr | IA `unfathomablechri00shan` |
 | Nature's Secrets Revealed (1916), a sex-hygiene book by another Shannon; everything printed 1930 or later | excluded | |
+
+## Sylvester Joseph Hunter (round 83, my pick, 2026-10-23)
+
+Slugs `sjhunter-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of dogmatic theology, vol. 1 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat01hunt` |
+| Outlines of dogmatic theology, vol. 2 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat02hunt` |
+| Outlines of dogmatic theology, vol. 3 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat03hunt` |
+| the second edition (1909), a later printing of the same work | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
