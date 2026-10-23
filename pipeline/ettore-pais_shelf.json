@@ -1,0 +1,60 @@
+{
+ "_about": "Ettore Pais (1856-1939), Italian historian of early Rome, in English translation: Ancient Legends of Roman History (tr. Mario E. Cosenza, 1905) and Ancient Italy (tr. C. Densmore Curtis, 1908).",
+ "_author": "Ettore Pais (1856-1939)",
+ "_name_words": [
+  "pais",
+  "ancient",
+  "legends",
+  "roman",
+  "history",
+  "italy"
+ ],
+ "_surname": [
+  "pais"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pais-ancient-legends-roman-history-1905": [
+   "ancientlegendsof00paisuoft",
+   "Ancient Legends of Roman History (1905), tr. Mario E. Cosenza"
+  ],
+  "pais-ancient-italy-1908": [
+   "ancientitalyhist00paisuoft",
+   "Ancient Italy: Historical and Geographical Investigations in Central Italy, Magna Graecia, Sicily, and Sardinia (1908), tr. C. Densmore Curtis"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pais-ancient-legends-roman-history-1905": "Mario E. Cosenza",
+  "pais-ancient-italy-1908": "Densmore Curtis"
+ },
+ "_checks": {
+  "pais-ancient-legends-roman-history-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pais",
+   "translator_claimed": "Mario E. Cosenza",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pais-ancient-italy-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pais",
+   "translator_claimed": "Densmore Curtis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

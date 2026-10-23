@@ -18654,6 +18654,16 @@ Shelf: `pipeline/j-h-huddilston_shelf.json`. Greek tragedy and vase-painting, 18
 | Greek Tragedy in the Light of Vase Paintings (1898) |  | `huddilston-tragedy-vase-paintings-1898` | have-raw (IA `greektragedyinli00hudd`) |
 | Lessons from Greek Pottery, with a Bibliography of Greek Ceramics (1902) |  | `huddilston-lessons-greek-pottery-1902` | have-raw (IA `lessonsfromgree00huddgoog`) |
 
+
+## Ettore Pais (1856-1939)
+
+Shelf: `pipeline/ettore-pais_shelf.json`. Early Rome and ancient Italy in English translation (1905, 1908). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient Legends of Roman History (1905), tr. Mario E. Cosenza |  | `pais-ancient-legends-roman-history-1905` | have-raw (IA `ancientlegendsof00paisuoft`) |
+| Ancient Italy: Historical and Geographical Investigations in Central Italy, Magna Graecia, Sicily, and Sardinia (1908), tr. C. Densmore Curtis |  | `pais-ancient-italy-1908` | have-raw (IA `ancientitalyhist00paisuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
