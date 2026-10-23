@@ -11988,6 +11988,20 @@ Slugs `enkirk-*`. Built from title pages read for round 56.
 | The waiting Saviour (Boston : The American tract society, 1865) | have-ocr | IA `waitingsaviour00kirk` |
 | His translations of Gaussen's Theopneusty and Astie's Louis Fourteenth and the Writers of his Age (other authors); hymn books and joint addresses | excluded | |
 | usefulhappyaddre00kirk: Useful and Happy (1841) binds his address to the young with pieces by J. G. Pike and J. A. James; a multi-author volume | excluded | |
+
+## Eliphalet Nott (round 56, my pick, 2026-10-23)
+
+Slugs `nott-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse, delivered in the North Dutch Church, in the city of Albany, occasioned by the ever to be lamented death of General Alexander Hamilton, July 29, 1804 (Salem, Printed by J. Cushing, 1804) | have-ocr | IA `discoursedeliver01nott` |
+| Sermon preached before the General Assembly of the Presbyterian Church in the United States of America, by appointment of their Standing Committee of Missions, May 19, 1806 / by Eliphalet Nott (Philadelphia : Printed by Jane Aitken, 1806) | have-ocr | IA `sermonpreachedbe00nott_0` |
+| Miscellaneous works (Schenectady: Published by Wm. J. M'Cartee, book-seller. Ryer Schermerhorn, printer, 1810) | have-ocr | IA `miscellaneousworne00nott` |
+| Counsels to young men on the formation of character, and the principles which lead to success and happiness in life : being addresses principally delivered at the anniversary commencements in Union College (New York, Harper & Brothers, 1840) | have-ocr | IA `counselstoyoungm00nott` |
+| Lectures on temperance (Hamilton, C.W., A. M. Moffat & co., 1858) | have-ocr | IA `lecturesontempe00nott` |
+| The resurrection of Christ : a series of discourses (New York : Scribner, Armstrong, 1872) | have-ocr | IA `resurrectionofch00nott` |
+| Union College inauguration proceedings and Potter's commemorative discourses (other authors) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
