@@ -14233,3 +14233,15 @@ Slugs `blackburne-*`. Built from title pages read for round 80.
 | The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 6 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological06blac` |
 | The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 7 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological07blac` |
 | separate eighteenth-century printings of pieces collected in the Works; the Memoirs of Thomas Hollis (1780), a life of his patron | excluded | |
+
+## George J. Mountain (round 80, my pick, 2026-10-23)
+
+Slugs `mountain-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The journal of the Bishop of Montreal, during a visit to the Church Missionary Society's North-West America mission. To which is added, by the secretaries, an appendix giving an account of the formation of the mission and its progress to the present time (London, Seeley, Burnside and Seeley [etc, 1845) | have-ocr | IA `bishopofmontreal00mounuoft` |
+| Songs of the wilderness : being a collection of poems, written in some different parts of the territory of the Hudson's Bay Company, and in the wilds of Canada, on the route to that territory, in the spring and summer of 1844, interspersed with some illustrative notes (London : Rivington, 1846) | have-ocr | IA `songsofwildernes00moun` |
+| A journal of visitation in a portion of the Diocese of Quebec (London : Society for the Propagation of the Gospel; sold by Rivingtons ..., 1847) | have-ocr | IA `journalofvisitat00moun` |
+| Sermons (London : Bell and Daldy, 1865) | have-ocr | IA `mountainssermons00mounuoft` |
+| the 1866 memoir of him by his son Armine W. Mountain; pamphlets of under 60 pages | excluded | |
