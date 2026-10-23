@@ -4317,6 +4317,14 @@
       "started": "2026-10-22T22:32:25-05:00",
       "finished": "2026-10-22T22:32:25-05:00",
       "notes": "holman-day: new shelf, 14 Gutenberg books, 36,916 units, 4417 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "whyte-melville",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. J. Whyte-Melville; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:32:43-05:00",
+      "finished": "2026-10-22T22:32:43-05:00",
+      "notes": "whyte-melville: new shelf, 14 Gutenberg books, 20,696 units, 61 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

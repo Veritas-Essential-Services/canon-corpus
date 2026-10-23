@@ -1910,3 +1910,6 @@
 
 ## 2026-10-22 22:32 CDT — holman-day: done
 - holman-day: new shelf, 14 Gutenberg books, 36,916 units, 4417 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:32 CDT — whyte-melville: done
+- whyte-melville: new shelf, 14 Gutenberg books, 20,696 units, 61 ~2 ids; verify 0 mismatches, 0 rights flags.

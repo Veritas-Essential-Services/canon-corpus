@@ -14618,3 +14618,24 @@ Shelf: `pipeline/holman-day_shelf.json` (2026-10-22; added at the coordinator's 
 | Where Your Treasure Is: Being the Personal Narrative of Ross Sidney, Diver | have | PG 55360, `hday-where-your-treasure-is` (3726 units) |
 | Salvage—extra special | have | PG 75075, `hday-salvage-extra-special` (202 units) |
 | pg-57488 | excluded | PG 57488: Gutenberg's index of the author's works, not a book. |
+
+## G. J. Whyte-Melville
+
+Shelf: `pipeline/whyte-melville_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hunting and historical novels. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| M. or N. "Similia similibus curantur." | have | PG 11085, `gjwmelville-m-or-n-similia-similibus-curantur` (1558 units) |
+| Kate Coventry: An Autobiography | have | PG 21759, `gjwmelville-kate-coventry` (742 units) |
+| Riding Recollections, 5th ed. | have | PG 35521, `gjwmelville-riding-recollections-5th-ed` (1068 units) |
+| The Interpreter: A Tale of the War | have | PG 40660, `gjwmelville-interpreter` (1521 units) |
+| Katerfelto: A Story of Exmoor | have | PG 40883, `gjwmelville-katerfelto` (1290 units) |
+| Contraband; Or, A Losing Hazard | have | PG 41418, `gjwmelville-contraband` (1573 units) |
+| General Bounce; Or, The Lady and the Locusts | have | PG 41828, `gjwmelville-general-bounce` (861 units) |
+| Sarchedon: A Legend of the Great Queen | have | PG 42393, `gjwmelville-sarchedon` (2482 units) |
+| The Gladiators. A Tale of Rome and Judæa | have | PG 47822, `gjwmelville-gladiators-a-tale-of-rome-and-jud-a` (1813 units) |
+| The Queen's Maries: A Romance of Holyrood | have | PG 49953, `gjwmelville-queens-maries` (2051 units) |
+| Satanella: A Story of Punchestown | have | PG 56753, `gjwmelville-satanella` (1537 units) |
+| Market Harborough, and Inside the Bar | have | PG 56862, `gjwmelville-market-harborough-and-inside-the-bar` (1316 units) |
+| Cerise: A Tale of the Last Century | have | PG 65619, `gjwmelville-cerise` (2452 units) |
+| Bones and I | have | PG 71789, `gjwmelville-bones-and-i` (432 units) |
