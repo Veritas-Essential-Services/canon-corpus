@@ -1,0 +1,47 @@
+{
+ "_about": "Hugh E. P. Platt, Fellow of Lincoln College, Oxford, raw IA OCR of his classical miscellanies: Byways in the Classics, including Alia (Oxford: B. H. Blackwell, 1905) and A Last Ramble in the Classics (Oxford: B. H. Blackwell, 1906), proverbial phrases, parallels and notes on Greek and Latin authors (US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Hugh Edward Pigott Platt (1859-1940)",
+ "_name_words": [
+  "platt"
+ ],
+ "_surname": [
+  "hugh e. p. platt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hugh-e-p-platt-byways-in-the-classics-1905": [
+   "bywaysinclassics00platuoft",
+   "Byways in the Classics, including Alia, by Hugh E. P. Platt (Oxford: B. H. Blackwell; London: Simpkin, Marshall, 1905)"
+  ],
+  "hugh-e-p-platt-last-ramble-in-the-classics-1906": [
+   "lastrambleinclas00platuoft",
+   "A Last Ramble in the Classics, by Hugh E. P. Platt (Oxford: B. H. Blackwell; London: Simpkin, Marshall, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hugh-e-p-platt-byways-in-the-classics-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh e. p. platt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hugh-e-p-platt-last-ramble-in-the-classics-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh e. p. platt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
