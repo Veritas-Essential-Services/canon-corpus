@@ -12786,3 +12786,27 @@ Slugs `bwnoel-*`. Built from title pages read for round 63.
 | England and India (London, J. Nisbet, 1859) | have-ocr | IA `englandindia00noel` |
 | The rebellion in America (London : J. Nesbet, 1863) | have-ocr | IA `rebellioninameri00noel` |
 | A Selection of Psalms and Hymns (1853, compiled); The Christian Sabbath (1850, prize essays by several ministers); the Counter-Plea for the Poor (a reply to him by others); Roden Noel, his nephew | excluded | |
+
+## Francis Close (round 63, my pick, 2026-10-23)
+
+Slugs `fclose-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| The Protestant faith : or, The way called heresy ; being the substance of a sermon preached in the parish church, Cheltenham, on Sunday, December 13th, 1835 (London : J. Hatchard, 1836) | have-ocr | IA `a556830900closuoft` |
+| Nine sermons illustrative of some of the typical persons of the Old Testament (catalogued 1838) | have-ocr | IA `ninesermonsillu00closgoog` |
+| Divine and human knowledge (catalogued 1841) | have-ocr | IA `divineandhumank00closgoog` |
+| The written tradition : or, The only divine rule of faith and practice ; vindicated against the Tractarians ; a sermon preached in the parish church, Cheltenham, November 5th, 1842 (London : Hatchard, betw) | have-ocr | IA `a556839500closuoft` |
+| The tendency of "church principles," so called, to Romanism : proved and illustrated from the recent pamphlet of Rev. William Palmer, and from Dr. Hook's "Church dictionary" (London : Hatchard, 1843) | have-ocr | IA `a556845400closuoft` |
+| Church architecture : scripturally considered, from the earliest ages to the present time (London : Hatchard and Son, 1844) | have-ocr | IA `churcharchitectu00clos` |
+| Priestly usurpation, its cause and consequences : a sermon preached in St. Thomas's, Birmingham, February 11th, 1845 ; on behalf of the Church Pastoral Aid Society, and published at the request of the clergy and others of the congregation assembled on that occasion ; also preached in the parish church, Cheltenham, on Sunday, March 30th, 1845 (London : Hatchard, 1845) | have-ocr | IA `a556889700closuoft` |
+| The mystery of iniquity : being the substance of a sermon preached in the parish church, Cheltenham, on November 5th, 1845 (London : Hatchard, 1845) | have-ocr | IA `a556855600closuoft` |
+| Semper idem : or, Popery everywhere and always the same ; a sermon preached in the parish church, Cheltenham, on November 5th, 1851 (London : Hatchard, 1851) | have-ocr | IA `a556893100closuoft` |
+| Tobacco: Its Influences, Physical, Moral, and Religious (Hatchard, 1859) | have-ocr | IA `tobaccoitsinflu00closgoog` |
+| Eighty sketches of sermons (catalogued 1861) | have-ocr | IA `eightysketchess00closgoog` |
+| Ritualism : a lecture, at St. James's Hall, Piccadilly, London, February 19, 1867 (London : W. Macintosh, 1867) | have-ocr | IA `a626206600closuoft` |
+| Our family likeness, illustrative of our origin and descent (catalogued 1871) | have-ocr | IA `ourfamilylikene00closgoog` |
+| The Stage, Ancient and Modern; Its Tendencies on Morals and Religion,: A (Hatchard, Piccadilly. Carlisle: C. Thurnam& Sons, 1877) | have-ocr | IA `stageancientand00closgoog` |
+| 556850100closuoft: The Restoration of Churches is the Restoration of Popery (1844), a sermon in the parish church of Cheltenham; the OCR of its title page is too garbled to show the preacher's name; to be read from the page image | pending | not shelved |
+| footstepserrort00closgoog: The Footsteps of Error (1863), a reply to Colenso catalogued under Close; nothing in the opening of the scan names him, so the attribution is unconfirmed | pending | not shelved |
+| Other Closes; the Cheltenham commemoration volumes by others | excluded | |

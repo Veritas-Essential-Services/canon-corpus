@@ -1,0 +1,242 @@
+{
+ "_about": "Public-domain Francis Close (1797-1882), evangelical incumbent of Cheltenham and Dean of Carlisle, for the Word Hoard: The Protestant Faith (1836), Nine Sermons on Typical Persons of the Old Testament (1838), Divine and Human Knowledge (1841), The Written Tradition (1842), The Tendency of Church Principles to Romanism (1843), Church Architecture Scripturally Considered (1844), Priestly Usurpation (1845), The Mystery of Iniquity (1845), Semper Idem (1851), Tobacco (1859), Eighty Sketches of Sermons (1861), Ritualism (1867), Our Family Likeness (1871) and The Stage, Ancient and Modern (1877). from Internet Archive scans. Added 2026-10-23 by lane A, round 63 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "close"
+ ],
+ "_surname": [
+  "francis close",
+  "f. close",
+  "rev. francis close",
+  "dean of carlisle",
+  "the dean of carlisle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fclose-protestant-faith": [
+   "a556830900closuoft",
+   "The Protestant faith : or, The way called heresy ; being the substance of a sermon preached in the parish church, Cheltenham, on Sunday, December 13th, 1835 (London : J. Hatchard, 1836)"
+  ],
+  "fclose-typical-persons": [
+   "ninesermonsillu00closgoog",
+   "Nine sermons illustrative of some of the typical persons of the Old Testament (catalogued 1838)"
+  ],
+  "fclose-divine-human-knowledge": [
+   "divineandhumank00closgoog",
+   "Divine and human knowledge (catalogued 1841)"
+  ],
+  "fclose-written-tradition": [
+   "a556839500closuoft",
+   "The written tradition : or, The only divine rule of faith and practice ; vindicated against the Tractarians ; a sermon preached in the parish church, Cheltenham, November 5th, 1842 (London : Hatchard, betw)"
+  ],
+  "fclose-church-principles": [
+   "a556845400closuoft",
+   "The tendency of \"church principles,\" so called, to Romanism : proved and illustrated from the recent pamphlet of Rev. William Palmer, and from Dr. Hook's \"Church dictionary\" (London : Hatchard, 1843)"
+  ],
+  "fclose-church-architecture": [
+   "churcharchitectu00clos",
+   "Church architecture : scripturally considered, from the earliest ages to the present time (London : Hatchard and Son, 1844)"
+  ],
+  "fclose-priestly-usurpation": [
+   "a556889700closuoft",
+   "Priestly usurpation, its cause and consequences : a sermon preached in St. Thomas's, Birmingham, February 11th, 1845 ; on behalf of the Church Pastoral Aid Society, and published at the request of the clergy and others of the congregation assembled on that occasion ; also preached in the parish church, Cheltenham, on Sunday, March 30th, 1845 (London : Hatchard, 1845)"
+  ],
+  "fclose-mystery-of-iniquity": [
+   "a556855600closuoft",
+   "The mystery of iniquity : being the substance of a sermon preached in the parish church, Cheltenham, on November 5th, 1845 (London : Hatchard, 1845)"
+  ],
+  "fclose-semper-idem": [
+   "a556893100closuoft",
+   "Semper idem : or, Popery everywhere and always the same ; a sermon preached in the parish church, Cheltenham, on November 5th, 1851 (London : Hatchard, 1851)"
+  ],
+  "fclose-tobacco": [
+   "tobaccoitsinflu00closgoog",
+   "Tobacco: Its Influences, Physical, Moral, and Religious (Hatchard, 1859)"
+  ],
+  "fclose-eighty-sketches": [
+   "eightysketchess00closgoog",
+   "Eighty sketches of sermons (catalogued 1861)"
+  ],
+  "fclose-ritualism": [
+   "a626206600closuoft",
+   "Ritualism : a lecture, at St. James's Hall, Piccadilly, London, February 19, 1867 (London : W. Macintosh, 1867)"
+  ],
+  "fclose-family-likeness": [
+   "ourfamilylikene00closgoog",
+   "Our family likeness, illustrative of our origin and descent (catalogued 1871)"
+  ],
+  "fclose-the-stage": [
+   "stageancientand00closgoog",
+   "The Stage, Ancient and Modern; Its Tendencies on Morals and Religion,: A (Hatchard, Piccadilly. Carlisle: C. Thurnam& Sons, 1877)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fclose-other": "Other Closes; the Cheltenham commemoration volumes by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "fclose-restoration-of-churches": "556850100closuoft: The Restoration of Churches is the Restoration of Popery (1844), a sermon in the parish church of Cheltenham; the OCR of its title page is too garbled to show the preacher's name; to be read from the page image",
+  "fclose-footsteps-of-error": "footstepserrort00closgoog: The Footsteps of Error (1863), a reply to Colenso catalogued under Close; nothing in the opening of the scan names him, so the attribution is unconfirmed"
+ },
+ "_translators": {},
+ "_checks": {
+  "fclose-protestant-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-typical-persons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-divine-human-knowledge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-written-tradition": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "between 1842 and 1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-church-principles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-church-architecture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-priestly-usurpation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-mystery-of-iniquity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-semper-idem": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. close",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fclose-tobacco": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-eighty-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-ritualism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-family-likeness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dean of carlisle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fclose-the-stage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis close",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
