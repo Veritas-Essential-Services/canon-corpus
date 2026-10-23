@@ -2342,3 +2342,6 @@
 
 ## 2026-10-22 23:05 CDT — leroy-scott: done
 - leroy-scott: new shelf, 7 Gutenberg books, 18,367 units, 34 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:05 CDT — john-reed-scott: done
+- john-reed-scott: new shelf, 7 Gutenberg books, 21,042 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags.

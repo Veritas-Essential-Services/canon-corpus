@@ -42508,3 +42508,17 @@ Shelf: `pipeline/leroy-scott_shelf.json` (2026-10-22; added at the coordinator's
 | To Him That Hath | have | PG 41180, `lscott-to-him-that-hath` (2804 units) |
 | Mary Regan | have | PG 71337, `lscott-mary-regan` (2443 units) |
 | The shears of destiny | have | PG 73803, `lscott-shears-of-destiny` (2700 units) |
+
+## John Reed Scott
+
+Shelf: `pipeline/john-reed-scott_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cab of the Sleeping Horse | have | PG 15094, `jrscott-cab-of-the-sleeping-horse` (2414 units) |
+| Beatrix of Clare | have | PG 17100, `jrscott-beatrix-of-clare` (2727 units) |
+| The Colonel of the Red Huzzars | have | PG 17131, `jrscott-colonel-of-the-red-huzzars` (3645 units) |
+| In Her Own Right | have | PG 27454, `jrscott-in-her-own-right` (3010 units) |
+| The Princess Dehra | have | PG 40034, `jrscott-princess-dehra` (2693 units) |
+| The Impostor: A Tale of Old Annapolis | have | PG 59975, `jrscott-impostor` (2810 units) |
+| The Unforgiving Offender | have | PG 62036, `jrscott-unforgiving-offender` (3743 units) |
