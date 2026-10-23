@@ -11874,6 +11874,18 @@ Slugs `adger-*`. Built from title pages read for round 55.
 | Christian missions and African colonization (catalogued 1857) | have-ocr | IA `ASPC0001913800` |
 | My life and times, 1810-1899 (Richmond, Va. : The Presbyterian Committee of Publication, 1899) | have-ocr | IA `mylifetimes00adge` |
 | The Collected Writings of J. H. Thornwell he co-edited (on the thornwell shelf); uploaded transcriptions of his Southern Presbyterian Review articles, which have no scan | excluded | |
+
+## J. H. A. Bomberger (round 56, my pick, 2026-10-23)
+
+Slugs `bomberger-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual libertinism : an address delivered before the alumni association of Marshall College, September 8th, 1846 / by J.H.A. Bomberger (Printed at the Office of the Ger. Reformed Church, 1846) | have-ocr | IA `spiritualliberti00bomb` |
+| Infant salvation : in its relation to infant depravity, infant regeneration, and infant baptism (Philadelphia : Lindsay & Blakiston, 1859) | have-ocr | IA `infantsalvationi00bomb` |
+| Five Years' Ministry in the German Reformed Church, in Race Street, Below Fourth, Philadelphia (Lindsay & Blakiston, 1860) | have-ocr | IA `fiveyearsminist00bombgoog` |
+| Reformed, not ritualistic : Apostolic, not patristic : a reply to Dr. Nevin's Vindication, etc (Philadelphia : [s.n.], 1867) | have-ocr | IA `reformednotritua00bomb` |
+| His condensed translation of Herzog's Protestant Theological Encyclopedia (1858-60, a translation of a multi-author work); Kurtz's Text-book of Church History (another author); Three Thousand Practical Illustrations (1909 compilation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
