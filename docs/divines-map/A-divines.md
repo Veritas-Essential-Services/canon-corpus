@@ -18615,3 +18615,24 @@ Slugs `jaggar-*`. Built from title pages read for round 126.
 | The man of the ages, and other recent sermons (New York, J. Pott & co., 1898) | have-ocr | IA `manofagesother00jagg` |
 | The personality of truth (New York : T. Whittaker, 1900) | have-ocr | IA `bub_gb_6XwwAAAAYAAJ` |
 | the geological works are by his son, the volcanologist Thomas A. Jaggar Jr. | excluded | |
+
+## John Huntley Skrine (round 126, my pick, 2026-10-23)
+
+Slugs `skrine-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| A memory of Edward Thring (London New York, Macmillan, 1889) | have-ocr | IA `memoryofedwardth00skri` |
+| A goodly heritage. A term's sermons at Glenalmond (Westminster, 1896) | have-ocr | IA `goodlyheritagete0000skri` |
+| The heart counsel and other sermons (Skeffington and Sons, Piccadilly, W. Publishers, 1899) | have-ocr | IA `heartcounselothe0000john` |
+| The mountain mother : Glenalmond sermons (London : Skeffington & Son, 1902) | have-ocr | IA `mountainmothergl0000skri` |
+| Pastor agnorum : a schoolmaster's afterthoughts (London ; New York : Longmans, Green, 1902) | have-ocr | IA `pastoragnorumsch00skririch` |
+| What is faith? : a hermit's epistle to some that are without (London ; New York, Bombay, and Calcutta : Longmans, Green, 1907) | have-ocr | IA `whatisfaithhermi0000skri` |
+| Pastor ovium. The day-book of a country parson (London, New York, 1909) | have-ocr | IA `pastoroviumdaybo0000skri` |
+| Sermons to pastors and masters (London ; New York : Longmans, Green, and Co., 1910) | have-ocr | IA `sermonstopastors0000skri` |
+| Creed and the creeds, their function in religion :  being the Bampton lectures of 1911 (London ; New York : Longmans, Green, and Co., 1911) | have-ocr | IA `creedcreedstheir00skri` |
+| Miracle and history : a study in the virgin birth and the resurrection (London : Longmans, Green, 1912) | have-ocr | IA `miraclehistoryst0000skri` |
+| PASTOR FUTURUS (catalogued 1914) | have-ocr | IA `pastorfuturus0000john` |
+| The survival of Jesus; a priest's study in divine telepathy (New York, Hodder & Stoughton, George H. Doran company, 1917) | have-ocr | IA `survivalofjesusp00skri` |
+| Columba, Joan the Maid, Songs of the Maid, The Queen's Highway and Under Two Queens are verse; Uppingham by the Sea is a school narrative; the Virgil is a school edition | excluded | |
+| second scans of Pastor Agnorum | excluded | |
