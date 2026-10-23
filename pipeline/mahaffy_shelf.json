@@ -1,5 +1,5 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR. Round du (2026-10-23), raw IA: Kant's Critical Philosophy for English Readers vol. I with J. H. Bernard (1889; vol. II, the Prolegomena translated, is on the kant shelf), Twelve Lectures on Primitive Civilizations (1869), the Euripides primer (1879), Old Greek Life (1880), Greek Antiquities (1889 printing), Alexander's Empire (1887), Greek Pictures (1890), the Flinders Petrie Papyri I-II (1891, 1893), The Empire of the Ptolemies (1895), A Survey of Greek Civilization (1897), A History of Egypt under the Ptolemaic Dynasty (1899). Not taken: his translation of Kuno Fischer's Commentary on Kant's Critick (1866), already on the kuno-fischer shelf; The Decay of Modern Preaching (1882), outside the classical brief.",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR. Round du (2026-10-23), raw IA: Kant's Critical Philosophy for English Readers vol. I with J. H. Bernard (1889; vol. II, the Prolegomena translated, is on the kant shelf), Twelve Lectures on Primitive Civilizations (1869), the Euripides primer (1879), Old Greek Life (1880), Greek Antiquities (1889 printing), Alexander's Empire (1887), Greek Pictures (1890), the Flinders Petrie Papyri I-II (1891, 1893), The Empire of the Ptolemies (1895), A Survey of Greek Civilization (1897), A History of Egypt under the Ptolemaic Dynasty (1899). Not taken: his translation of Kuno Fischer's Commentary on Kant's Critick (1866), already on the kuno-fischer shelf; The Decay of Modern Preaching (1882), outside the classical brief. Round dy (2026-10-23), raw IA: The Progress of Hellenism in Alexander's Empire (Chicago lectures, 1905), The Silver Age of the Greek World (1906; his rewriting of The Greek World under Roman Sway, held separately as the 1890 edition), and part III of the Flinders Petrie Papyri (Cunningham Memoirs XI, 1905, with J. Gilbart Smyly, died 1948; US public domain by date; a HathiTrust-catalogued Cornell scan of part III alone; Greek transcriptions, English commentary).",
  "_name_words": [
   "mahaffy"
  ],
@@ -103,6 +103,19 @@
   "mahaffy-bernard-kants-critical-philosophy-v1-1889": [
    "criticalphilosop01kant",
    "Kant's Critical Philosophy for English Readers, by John P. Mahaffy and John H. Bernard, a new and completed edition, vol. I (London: Macmillan, 1889)"
+  ],
+  "mahaffy-progress-of-hellenism-1905": [
+   "progressofhellen00mahauoft",
+   "The Progress of Hellenism in Alexander's Empire (Chicago: The University of Chicago Press; London: T. Fisher Unwin, 1905)"
+  ],
+  "mahaffy-silver-age-greek-world-1906": [
+   "silverageofgreek00mahauoft",
+   "The Silver Age of the Greek World (Chicago: The University of Chicago Press; London: T. Fisher Unwin, 1906)"
+  ],
+  "mahaffy-flinders-petrie-papyri-iii-1905": [
+   "coo.31924032402236",
+   "On the Flinders Petrie Papyri, part III, by John P. Mahaffy and J. Gilbart Smyly (Cunningham Memoirs XI; Dublin: Academy House, 1905); Greek transcriptions with English commentary, kept per Adam's 2026-10-23 ruling",
+   "coo.31924032402236-1581628571_djvu.txt"
   ]
  },
  "_excluded": {
@@ -340,6 +353,39 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-progress-of-hellenism-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pentland mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-silver-age-greek-world-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pentland mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-flinders-petrie-papyri-iii-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
