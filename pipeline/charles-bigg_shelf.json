@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Charles Bigg (1840-1908), Regius Professor of Ecclesiastical History at Oxford, for the Word Hoard: The Christian Platonists of Alexandria (Bampton Lectures 1886), Neoplatonism, the ICC commentary on St Peter and St Jude, The Church's Task under the Roman Empire, Wayside Sketches in Ecclesiastical History, and The Origins of Christianity (1909). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 86 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles bigg",
+  "c. bigg"
+ ],
+ "_surname": [
+  "charles bigg",
+  "c. bigg",
+  "bigg"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bigg-christian-platonists": [
+   "christianplatoni00bigg",
+   "The Christian Platonists of Alexandria : Eight lectures preached before the University of Oxford in the year 1886 on the foundation of the late Rev. John Bampton (Oxford : Clarendon Press, 1886)"
+  ],
+  "bigg-neoplatonism": [
+   "neoplatonism00bigguoft",
+   "Neoplatonism (London : SPCK, 1895)"
+  ],
+  "bigg-peter-jude-icc": [
+   "criticalexegetic00bigg",
+   "A critical and exegetical commentary on the epistles of St. Peter and St. Jude (New York, C. Scribner's sons, 1901)"
+  ],
+  "bigg-churchs-task": [
+   "churchstaskunder00biggrich",
+   "The church's task under the Roman empire; four lectures with preface, notes, and an excursus (Oxford : Clarendon press, 1905)"
+  ],
+  "bigg-wayside-sketches": [
+   "waysidesketchesi00bigguoft",
+   "Wayside sketches in ecclesiastical history, nine lectures with notes and preface (London, Longmans, 1906)"
+  ],
+  "bigg-origins-christianity": [
+   "theoriginsofchri00strouoft",
+   "The origins of Christianity (Oxford : Clarendon Press, 1909)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bigg-translations": "his translations of the Imitation of Christ, Augustine's Confessions and the Didache (those authors' works); his Xenophon school editions"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bigg-christian-platonists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bigg-neoplatonism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bigg-peter-jude-icc": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bigg-churchs-task": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bigg-wayside-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bigg-origins-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles bigg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

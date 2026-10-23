@@ -14763,3 +14763,17 @@ Slugs `hodges-*`. Built from title pages read for round 86.
 | The Year of Grace, Advent to Trinity: only a 29-image microfiche (MN41849ucmf_0) found; needs a full scan | pending | not shelved |
 | school readers (Golden Door Book, Golden Word Book), William Penn, Holderness, The Apprenticeship of Washington, temperance and philanthropy addresses | excluded | |
 | Organized Labor and Capital, The Religious History of New England, and the Sneath-Hodges school manuals (many authors) | excluded | |
+
+## Charles Bigg (round 86, my pick, 2026-10-23)
+
+Slugs `bigg-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Platonists of Alexandria : Eight lectures preached before the University of Oxford in the year 1886 on the foundation of the late Rev. John Bampton (Oxford : Clarendon Press, 1886) | have-ocr | IA `christianplatoni00bigg` |
+| Neoplatonism (London : SPCK, 1895) | have-ocr | IA `neoplatonism00bigguoft` |
+| A critical and exegetical commentary on the epistles of St. Peter and St. Jude (New York, C. Scribner's sons, 1901) | have-ocr | IA `criticalexegetic00bigg` |
+| The church's task under the Roman empire; four lectures with preface, notes, and an excursus (Oxford : Clarendon press, 1905) | have-ocr | IA `churchstaskunder00biggrich` |
+| Wayside sketches in ecclesiastical history, nine lectures with notes and preface (London, Longmans, 1906) | have-ocr | IA `waysidesketchesi00bigguoft` |
+| The origins of Christianity (Oxford : Clarendon Press, 1909) | have-ocr | IA `theoriginsofchri00strouoft` |
+| his translations of the Imitation of Christ, Augustine's Confessions and the Didache (those authors' works); his Xenophon school editions | excluded | |
