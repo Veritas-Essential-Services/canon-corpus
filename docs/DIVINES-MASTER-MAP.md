@@ -15087,6 +15087,17 @@ Slugs `parish-*`. Built from title pages read for round 89.
 | Sermons practical and doctrinal (Boston : Crocker & Brewster, 1826) | have-ocr | IA `sermonspractical00pari` |
 | bim_eighteenth-century_the-excellence-of-the-go_parish-elijah_1798: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
 | the geography and New England history written with Jedidiah Morse, his 1799 Fourth of July oration, the Hubbard eulogy, and the Wheelock memoirs written with David McClure | excluded | |
+
+## Christopher Sutton (round 89, my pick, 2026-10-23)
+
+Slugs `sutton-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| Disce mori = Learn to die (Oxford : J.H. Parker, 1839) | have-ocr | IA `a609311800suttuoft` |
+| Disce vivere = Learn to live (Oxford : John Henry Parker, 1841) | have-ocr | IA `a678713100suttuoft` |
+| Godly meditations upon the most holy Sacrament of the Lord's Supper (New York : D. Appleton, 1841) | have-ocr | IA `a678703000suttuoft` |
+| the 1600-1662 printings on Internet Archive (Early English Books): the same three works; left for the EEBO first-editions work | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
