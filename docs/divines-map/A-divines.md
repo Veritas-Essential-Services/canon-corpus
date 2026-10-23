@@ -13058,3 +13058,15 @@ Slugs `egarbett-*`. Built from title pages read for round 66.
 | Morning, noon, and night (catalogued 1880) | have-ocr | IA `morningnoonandn00garbgoog` |
 | pentateuchitsaut00garb: The Pentateuch and its Authority, a review of Colenso 'reprinted from the Record newspaper' (1863), published without the author's name; Garbett edited the Record, but nothing in the scan names him | pending | not shelved |
 | Edward Lacy Garbett's Rudimentary Treatise on Design in Architecture (1850) | excluded | |
+
+## Hugh Stowell Brown (round 66, my pick, 2026-10-23)
+
+Slugs `hsbrown-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pilgrim fathers (Manchester, T. Agnew and Sons, 1854) | have-ocr | IA `pilgrimfathers00browgoog` |
+| Lectures for the people (Philadelphia, G. G. Evans, 1860) | have-ocr | IA `lecturesforpeopl00brow` |
+| Lectures to working men (Philip, 1870) | have-ocr | IA `lecturestoworki00browgoog` |
+| Manliness and other Sermons (catalogued 1889) | have-ocr | IA `manlinessotherse0000hugh` |
+| His uncle Hugh Stowell's works (hugh-stowell shelf); memoirs of him by others | excluded | |
