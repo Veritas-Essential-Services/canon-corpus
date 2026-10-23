@@ -43995,3 +43995,16 @@ Shelf: `pipeline/jane-barlow_shelf.json` (2026-10-22; added at the coordinator's
 | A creel of Irish stories | have | PG 75587, `jbarlow-creel-of-irish-stories` (586 units) |
 | By beach and bog-land | have | PG 75823, `jbarlow-by-beach-and-bog-land` (886 units) |
 | Mrs. Martin's company | have | PG 79670, `jbarlow-mrs-martins-company` (364 units) |
+
+## Willis Boyd Allen
+
+Shelf: `pipeline/willis-boyd-allen_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Around the Yule Log | have | PG 43008, `wballen-around-the-yule-log` (762 units) |
+| Gulf and Glacier; or, The Percivals in Alaska | have | PG 43374, `wballen-gulf-and-glacier` (1215 units) |
+| The North Pacific: A Story of the Russo-Japanese War | have | PG 45413, `wballen-north-pacific` (1405 units) |
+| Christmas on Wheels | have | PG 64094, `wballen-christmas-on-wheels` (47 units) |
+| Silver Rags | have | PG 66956, `wballen-silver-rags` (1092 units) |
+| In the Morning | have | PG 67246, `wballen-in-the-morning` (323 units) |
