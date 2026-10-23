@@ -18468,3 +18468,14 @@ Slugs `wallin-*`. Built from title pages read for round 124.
 | The ancient believers transition from mortality to life. A sermon occasioned by the decease of Mrs. Hannah Munn, late of Watford, Herts, who departed this life, October 1, 1779, in the eighty-fourth year of her age. By Benjamin Wallin, A.M.  1779 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_the-ancient-believers-tr_wallin-benjamin_1779` |
 | The Humble address to the churches of Christ: or, an earnest exhortation to Christian professors, not to forsake the assembling of themselves together; ...  1750 (catalogued 1750) (IA bim_eighteenth-century_the-humble-address-to-th_wallin-benjamin_1750): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | lecturesonprimit01wall, a later edition of the Lectures on Primitive Christianity | excluded | |
+
+## Nicholas Snethen (round 124, my pick, 2026-10-23)
+
+Slugs `snethen-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| An answer to James O'Kelly's vindication of his apology, &c. : and an explanation of the reply / by Nicholas Snethen (Printed by S.W. Conrad, 1802) | have-ocr | IA `ananswertojameso00snet` |
+| Snethen on Lay Representation: Or, Essays on Lay Representation and Church Government, Collected (J.J. Harrod, 1835) | have-ocr | IA `snethenonlayrep00snetgoog` |
+| Sermons of the late Nicholas Snethen, minister ... in the Methodist Protestant church (Washington, DC : U. Ward, 1846) | have-ocr | IA `sermonsoflatenic0000snet` |
+| snethanonlayrepr00snet, a second scan of Lay Representation | excluded | |
