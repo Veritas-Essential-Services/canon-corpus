@@ -11793,6 +11793,25 @@ Slugs `mcilvaine-*`. Built from title pages read for round 55.
 | The truth and life : twenty-two sermons (New York : R. Carter, 1854) | have-ocr | IA `truthlifetwentyt00mcilrich` |
 | The temple of God; or, The Holy Catholic church and communion of saints, in its nature, structure, and unity (Philadelphia, Protestant Episcopal book society, 1860) | have-ocr | IA `templeofgodorhol00mcil` |
 | Select Family and Parish Sermons (1838, sermons by many authors he selected); the Memoirs of Charles Simeon (Carus's, he only introduced it); the joint Reply of Bishops Meade, McIlvaine and Burgess | excluded | |
+
+## Stephen H. Tyng (round 55, my pick, 2026-10-23)
+
+Slugs `tyng-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoir of the Rev. Gregory T. Bedell (Philadelphia, H. Perkins; Boston, Perkins & Marvin, 1836) | have-ocr | IA `memoirofrevgregor00tyng` |
+| Sermons preached in the Church of the Epiphany, Philadelphia (Philadelphia : Printed by William Stavely, 1839) | have-ocr | IA `sermonspreachedi00tyng` |
+| Lectures on the law and the gospel (Philadelphia, Stavely and M'Calla, 1844) | have-ocr | IA `lecturesonlawgos00tyng` |
+| The Israel of God (New York, R. Carter & brothers, 1849) | have-ocr | IA `israelofgod00tyng` |
+| Christ is all (New York, R. Carter, 1849) | have-ocr | IA `christisall00tyng` |
+| Christian titles : a series of practical meditations (New York : R. Carter & Brothers, 1853) | have-ocr | IA `christiantitless00tyng` |
+| Lessons on the Acts of the apostles (Philadelphia, New York [etc.] American Sunday-school union, 1853) | have-ocr | IA `lessonsonactsofa00tyng_0` |
+| The rich kinsman. The history of Ruth the Moabitess (New York, Protestant Episcopal Society, 1855) | have-ocr | IA `richkinsmanhis00tyng` |
+| The captive orphan; Esther, the queen of Persia (New York: Robert Carter & bros, 1860) | have-ocr | IA `thecaptiveorphan00tynguoft` |
+| Forty years' experience in Sunday-schools (New York : Sheldon ; Boston : Gould & Lincoln, 1860) | have-ocr | IA `fortyyearsexperi00tyngrich` |
+| The office and duty of a Christian pastor (New York : Harper & Brothers, 1874) | have-ocr | IA `officedutyofchri00tyng` |
+| The Christian's Own Book (1832, meditations compiled from older writers); Masonic addresses; his son Stephen H. Tyng Jr. (1839-1898), whose 1867 Liberty of Preaching sermons are his, is another man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

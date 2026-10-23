@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain Stephen Higginson Tyng (1800-1885), evangelical Episcopal rector of St. George's, New York, for the Word Hoard: Memoir of Gregory T. Bedell (1836), Sermons preached in the Church of the Epiphany (1839), Lectures on the Law and the Gospel (1844), The Israel of God (1849), Christ is All (1849), Christian Titles (1853), Lessons on the Acts (1853), The Rich Kinsman (1855), The Captive Orphan (1860), Forty Years' Experience in Sunday-Schools (1860) and The Office and Duty of a Christian Pastor (1874), from Internet Archive scans. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "tyng"
+ ],
+ "_surname": [
+  "stephen h. tyng",
+  "stephen higginson tyng",
+  "s. h. tyng"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tyng-memoir-bedell": [
+   "memoirofrevgregor00tyng",
+   "Memoir of the Rev. Gregory T. Bedell (Philadelphia, H. Perkins; Boston, Perkins & Marvin, 1836)"
+  ],
+  "tyng-epiphany-sermons": [
+   "sermonspreachedi00tyng",
+   "Sermons preached in the Church of the Epiphany, Philadelphia (Philadelphia : Printed by William Stavely, 1839)"
+  ],
+  "tyng-law-and-gospel": [
+   "lecturesonlawgos00tyng",
+   "Lectures on the law and the gospel (Philadelphia, Stavely and M'Calla, 1844)"
+  ],
+  "tyng-israel-of-god": [
+   "israelofgod00tyng",
+   "The Israel of God (New York, R. Carter & brothers, 1849)"
+  ],
+  "tyng-christ-is-all": [
+   "christisall00tyng",
+   "Christ is all (New York, R. Carter, 1849)"
+  ],
+  "tyng-christian-titles": [
+   "christiantitless00tyng",
+   "Christian titles : a series of practical meditations (New York : R. Carter & Brothers, 1853)"
+  ],
+  "tyng-lessons-on-acts": [
+   "lessonsonactsofa00tyng_0",
+   "Lessons on the Acts of the apostles (Philadelphia, New York [etc.] American Sunday-school union, 1853)"
+  ],
+  "tyng-rich-kinsman": [
+   "richkinsmanhis00tyng",
+   "The rich kinsman. The history of Ruth the Moabitess (New York, Protestant Episcopal Society, 1855)"
+  ],
+  "tyng-captive-orphan": [
+   "thecaptiveorphan00tynguoft",
+   "The captive orphan; Esther, the queen of Persia (New York: Robert Carter & bros, 1860)"
+  ],
+  "tyng-forty-years": [
+   "fortyyearsexperi00tyngrich",
+   "Forty years' experience in Sunday-schools (New York : Sheldon ; Boston : Gould & Lincoln, 1860)"
+  ],
+  "tyng-office-of-pastor": [
+   "officedutyofchri00tyng",
+   "The office and duty of a Christian pastor (New York : Harper & Brothers, 1874)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "tyng-other": "The Christian's Own Book (1832, meditations compiled from older writers); Masonic addresses; his son Stephen H. Tyng Jr. (1839-1898), whose 1867 Liberty of Preaching sermons are his, is another man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "tyng-israel-of-god": "Title page reads 'THE ISRAEL OF GOD. BY STEPHEN H. TYNG, D.D., RECTOR OF ST. GEORGE'S CHURCH, NEW YORK' (OCR 'TYiye'), Robert Carter 1849.",
+  "tyng-christ-is-all": "Title page reads 'CHRIST IS ALL. BY STEPHEN H. TYNG, D.D. RECTOR OF ST. GEORGE'S CHURCH, NEW YORK' (OCR 'TYW'), Robert Carter 1849.",
+  "tyng-office-of-pastor": "Title page reads 'THE OFFICE AND DUTY OF A CHRISTIAN PASTOR, By STEPHEN H. TYNG, D.D., RECTOR OF ST. GEORGE'S CHURCH IN THE CITY OF NEW YORK' (OCR 'STEPHE]^ IL TYI^G'), Harper 1874."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tyng-memoir-bedell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-epiphany-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-law-and-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-israel-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-christ-is-all": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-christian-titles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-lessons-on-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tyng-rich-kinsman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-captive-orphan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-forty-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen h. tyng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyng-office-of-pastor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
