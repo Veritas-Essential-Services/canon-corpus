@@ -7750,6 +7750,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:23:11-05:00",
       "notes": "5 books, all anonymous 'by the author of The Whole Duty of Man'; attribution is scholarly consensus. Whole Duty first edition (1658); 1659 printing and the almanac-maker excluded."
+    },
+    {
+      "id": "soame-jenyns",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:12-05:00",
+      "notes": "3 books: Internal Evidence (1776), Free Inquiry into Evil (anonymous, 1758), Poems (1768). The anonymous 1767 provisions pamphlet excluded."
     }
   ]
 }

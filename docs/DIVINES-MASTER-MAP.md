@@ -13211,6 +13211,17 @@ Slugs `allestree-*`. Built from title pages read for round 68.
 | almanacs of 1617-1643 under the name Richard Allestree: by the Derbyshire almanac-maker of that name, not the divine | excluded | |
 | Forty Sermons (1684) not found in a usable scan this round | excluded | |
 | The Whole Duty of Man (London: T. Garthwait, 1659; bim_early-english-books-1641-1700_the-whole-duty-of-man-_allestree-richard_1659): a later printing of the 1658 first edition shelved | excluded | |
+
+## Soame Jenyns (round 68, my pick, 2026-10-23)
+
+Slugs `jenyns-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| A View of the Internal Evidence of the Christian Religion, third edition (London: J. Dodsley, 1776) | have-ocr | IA `aviewinternalev00jenygoog` |
+| A Free Inquiry into the Nature and Origin of Evil, in six letters, third edition, amended (London: R. and J. Dodsley, 1758) | have-ocr | IA `afreeinquiryint01jenygoog` |
+| Poems upon Various Subjects, Latin and English (London: J. Nourse, 1768) | have-ocr | IA `poemsuponvariou00jenygoog` |
+| Thoughts on the Causes and Consequences of the Present High Price of Provisions (London: J. Dodsley, 1767): anonymous, its title page names no author, and it is an economic pamphlet, not theology | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
