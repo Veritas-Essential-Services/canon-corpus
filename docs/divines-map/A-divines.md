@@ -16575,3 +16575,27 @@ Slugs `mcfadyen-*`. Built from title pages read for round 104.
 | Jeremiah in modern speech (London, Clarke, [191) | have-ocr | IA `jeremiahinmodern00mcfauoft` |
 | The use of the Old Testament in the light of modern knowledge (London : J. Clarke, pref) | have-ocr | IA `useoftheoldtesta00mcfauoft` |
 | An Introductory Hebrew Grammar (A. B. Davidson's, which he revised) | excluded | |
+
+## Archibald Campbell Tait (round 104, my pick, 2026-10-23)
+
+Slugs `tait-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Suggestions offered to the theological student, under present difficulties : five discourses preached before the University of Oxford (London : John Murray, 1846) | have-ocr | IA `suggestionsoffer00tait` |
+| Dangers and safeguards of modern theology : containing suggestions offered to the theological student under present difficulties (London : John Murray, 1861) | have-ocr | IA `dangerssafeguard00tait` |
+| A letter to the Ven. Archdeacons Hale and Sinclair : being the Bishop of London's reply to an address from a large body of his clergy on the subject of subscription to formularies (London : J. Murray, 1863) | have-ocr | IA `a626062800taituoft` |
+| The Word of God and the ground of faith : six discourses (London : J. Murray, 1863) | have-ocr | IA `a626054700taituoft` |
+| The present condition of the Church of England (London : Macmillan, 1872) | have-ocr | IA `thepresentcondit00taituoft` |
+| Some thoughts on the duties of the established Church of England as a national Church, 7 (Macmillan, 1876) | have-ocr | IA `somethoughtsond00taitgoog` |
+| The church and law : a letter in answer to the Rev. Canon Carter of Clewer : to which is appended a sermon preached at St. Margaret's, Westminster, vol. Talbot collection of British pamphlets (London : Macmillan and Co., 1877) | have-ocr | IA `churchlawletteri00tait` |
+| Address of the president, the Lord Archbishop of Canterbury, at a meeting of the Society for Training Teachers of the Deaf and diffusion of the "German" system in the United Kingdom, held by His Grace's permission in the Library, Lambeth Palace, June 28th, 1877, vol. Talbot collection of British pamphlets. ([London : James Martin, printer, 9, Lisson Grove, N.W., 1877) | have-ocr | IA `addressofpreside00tait` |
+| Pastoral letter of the Archbishop of Canterbury : on the national church and the work of the church defence institution, vol. Talbot Collection of British Pamphlets ([s.l. : s.n., 1881) | have-ocr | IA `pastoralletterof00chur` |
+| The church of the future (New York, Macmillan, 1881) | have-ocr | IA `churchoffuture00tait` |
+| Catharine and Craufurd Tait, wife and son of Archibald Cambpell, archbishop of Canterbury : a memoir (London : Macmillan and co., 1879) | have-ocr | IA `catharinecraufur00tait` |
+| Correspondence with Francis H. Murray and others (two-sided) | excluded | |
+| Letters addressed to the archbishop by others (Indian missions, cathedral reform) | excluded | |
+| Lambeth Conference encyclical (many bishops) | excluded | |
+| difficultiesofch00tait: a letter TO the Bishop of London by a lay member of the London Diocesan Church Building Society, not by Tait | excluded | |
+| chargedeliveredi00tait: the scan opens with Alfred Ollivant's 1860 Llandaff charge (a bound volume of several charges); not safely Tait's alone | excluded | |
+| spiritualwantsof00tait: missionaries' letters on the foreign parts of the Empire, not Tait's own text | excluded | |
