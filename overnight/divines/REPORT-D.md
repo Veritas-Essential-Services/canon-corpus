@@ -2561,3 +2561,6 @@
 
 ## 2026-10-22 23:17 CDT — l-dougall: done
 - l-dougall: new shelf, 6 Gutenberg books, 9,529 units, 2257 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — a-d-crake: done
+- a-d-crake: new shelf, 6 Gutenberg books, 14,094 units, 212 ~2 ids; verify 0 mismatches, 0 rights flags.

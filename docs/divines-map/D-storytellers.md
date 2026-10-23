@@ -18162,3 +18162,16 @@ Shelf: `pipeline/l-dougall_shelf.json` (2026-10-22; added at the coordinator's r
 | A Dozen Ways Of Love | have | PG 18086, `ldougall-dozen-ways-of-love` (1571 units) |
 | The Mermaid: A Love Tale | have | PG 20054, `ldougall-mermaid` (1359 units) |
 | The Summit House Mystery; Or, The Earthly Purgatory | have | PG 55189, `ldougall-summit-house-mystery` (1625 units) |
+
+## A. D. Crake
+
+Shelf: `pipeline/a-d-crake_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Edwy the Fair or the First Chronicle of Aescendune A Tale of the Days of Saint Dunstan | have | PG 13215, `adcrake-edwy-the-fair-or-the-first-chronicle-of-aescendune-a` (1961 units) |
+| Alfgar the Dane or the Second Chronicle of Aescendune A Tale of the Days of Edmund Ironside | have | PG 13305, `adcrake-alfgar-the-dane-or-the-second-chronicle-of-aescendun` (2194 units) |
+| The Rival Heirs; being the Third and Last Chronicle of Aescendune | have | PG 13375, `adcrake-rival-heirs` (2361 units) |
+| The House of Walderne A Tale of the Cloister and the Forest in the Days of the Barons' Wars | have | PG 17012, `adcrake-house-of-walderne-a-tale-of-the-cloister-and-the-for` (2376 units) |
+| The Last Abbot of Glastonbury: A Tale of the Dissolution of the Monasteries | have | PG 53010, `adcrake-last-abbot-of-glastonbury` (1714 units) |
+| Brian Fitz-Count: A Story of Wallingford Castle and Dorchester Abbey | have | PG 54583, `adcrake-brian-fitz-count` (3488 units) |
