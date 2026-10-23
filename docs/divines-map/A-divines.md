@@ -16397,3 +16397,25 @@ Slugs `weatherford-*`. Built from title pages read for round 102.
 | Christian life a normal experience : a study in the reality and growth of Christian experience (New York : Association Press, 1919) | have-ocr | IA `christianlifenor00weat` |
 | The Negro from Africa to America (1924, history) and books after 1930 | excluded | |
 | Present Forces in Negro Progress and Interracial Cooperation (several authors) | excluded | |
+
+## J. W. Dawson (round 102, my pick, 2026-10-23)
+
+Slugs `jwdawson-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| Archaia, or, Studies of the cosmogony and natural history of the Hebrew scriptures (Montreal : B. Dawson; London : S. Low, 1860) | have-ocr | IA `cihm_44371` |
+| Nature and the Bible : a course of lectures delivered in New York, in December, 1874, on the Morse foundation of the Union Theological Seminary (New York : R. Carter, 1875) | have-ocr | IA `cihm_09788` |
+| Fictions and errors in a book on "The origin of the world according to revelation and science by J.W. Dawson, L.L.D., principal of McGill University, Montreal" : exposed and condemned on the authority of divine revelation ([Halifax, N.S.? : s.n.], 1877) | have-ocr | IA `cihm_09922` |
+| The origin of the world, according to revelation and science (Montreal : Dawson, 1877) | have-ocr | IA `cihm_02605` |
+| Points of contact between revelation and natural science ([London] : Religious Tract Society, 1885) | have-ocr | IA `pointsofcontac00daws` |
+| Facts and fancies in modern science : studies of the relations of science to prevalent speculations and religious belief : being the lectures of the Samuel A. Crozer Foundation in connection with the Crozer Theological Seminary, for 1881 (Philadelphia : American Baptist Publication Society, 1882) | have-ocr | IA `cihm_05814` |
+| Egypt and Syria : their physical features in relation to Bible history (London : Religious Tract Society, 1885) | have-ocr | IA `cihm_04209` |
+| Modern science in Bible lands (Montreal : Dawson, 1888) | have-ocr | IA `cihm_02626` |
+| The historical deluge in its relation to scientific discovery and to present questions ([London] : Religious Tract Society, 1888) | have-ocr | IA `cihm_12544` |
+| Modern ideas of evolution as related to revelation and science (London : Religious Tract Society, 1890) | have-ocr | IA `cihm_02625` |
+| The day of rest in relation to the world that now is and that which is to come ([London] : Religious Tract Society, 1889) | have-ocr | IA `cihm_28167` |
+| Eden lost and won : studies of the early history and final destiny of man as taught in nature and revelation (London : Hodder and Stoughton, 1895) | have-ocr | IA `cihm_06829` |
+| Science, the ally of religion ([S.l. : s.n., 1896) | have-ocr | IA `cihm_06870` |
+| cihm_34869: The Testimony of the Holy Scriptures respecting Wine and Strong Drink (Pictou, 1858); its readable text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Geology, zoology and McGill University papers: not theology | excluded | |
