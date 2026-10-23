@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain Richard Fuller (1804-1876), Baptist minister of Beaufort and Baltimore, for the Word Hoard: Our Duty to the African Race (1851), Sermons (1860), The Christian Delivered from the Fear of Death (1861) and Mercy Remembered in Wrath (1861), from Internet Archive scans. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fuller"
+ ],
+ "_surname": [
+  "richard fuller",
+  "r. fuller"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rfuller-african-race": [
+   "ourdutytoafrican00full",
+   "Our duty to the African race. An address delivered at Washington, D. C., January 21, 1851 (Baltimore : Printed by W.M. Innes, 1851)"
+  ],
+  "rfuller-sermons": [
+   "sermons00full",
+   "Sermons (New York, Sheldon & company; Baltimore, Giteau & Sullivan, 1860)"
+  ],
+  "rfuller-fear-of-death": [
+   "christiandeliver1861full",
+   "The Christian delivered from the fear of death : a discourse (Baltimore : Printed by W.M. Innes, 1861)"
+  ],
+  "rfuller-mercy-remembered": [
+   "mercyrememberedi00full",
+   "Mercy remembered in wrath : a sermon preached by the Rev. Dr. Fuller, on Thursday, September 26, 1861, being the day of national fasting, humiliation and prayer (Henry Taylor, 1861)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rfuller-other": "The Psalmist hymn book (1843, he co-edited); Chaplain Fuller (1863, about Arthur Fuller, another man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "rfuller-african-race": "Title page OCR reads 'Our Duty to the African Race. An Address Delivered at Washington, D. C., January 21, 1851, BY R^IOHA-JiilJ FULLER' (Richard garbled); the preface names 'Rev. Dr. Fuller' introduced by Mr. Clay. Baltimore: W. M. Innes.",
+  "rfuller-mercy-remembered": "Title page reads 'Preached by the Rev. Dr. Fuller ... BALTIMORE: PUBLISHED BY HENRY TAYLOR ... 1861. W. M. INNES, Printer'. Richard Fuller was the Baltimore Baptist pastor in 1861; same printer as his signed 1851 address. Not Thomas Fuller (d. 1661)."
+ },
+ "_pending": {
+  "rfuller-domestic-slavery": "Domestic Slavery considered as a Scriptural Institution (1845), his correspondence with Francis Wayland: already held on the francis-wayland shelf"
+ },
+ "_translators": {},
+ "_checks": {
+  "rfuller-african-race": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rfuller-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rfuller-fear-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rfuller-mercy-remembered": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

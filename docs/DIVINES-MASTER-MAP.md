@@ -11577,6 +11577,19 @@ Slugs `manly-*`. Built from title pages read for round 53.
 |---|---|---|
 | The Bible doctrine of inspiration explained and vindicated (New York : A.C. Armstrong, 1888) | have-ocr | IA `bibledoctrineofi00manl` |
 | His father Basil Manly Sr.'s Mercy and Judgment (1837) and sermons; the Baptist Psalmody (1850, compiled by both); Civil War tracts; Basil M. Manly's industrial-relations reports (1915-1916, another man) | excluded | |
+
+## Richard Fuller (Baptist) (round 53, my pick, 2026-10-23)
+
+Slugs `rfuller-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Our duty to the African race. An address delivered at Washington, D. C., January 21, 1851 (Baltimore : Printed by W.M. Innes, 1851) | have-ocr | IA `ourdutytoafrican00full` |
+| Sermons (New York, Sheldon & company; Baltimore, Giteau & Sullivan, 1860) | have-ocr | IA `sermons00full` |
+| The Christian delivered from the fear of death : a discourse (Baltimore : Printed by W.M. Innes, 1861) | have-ocr | IA `christiandeliver1861full` |
+| Mercy remembered in wrath : a sermon preached by the Rev. Dr. Fuller, on Thursday, September 26, 1861, being the day of national fasting, humiliation and prayer (Henry Taylor, 1861) | have-ocr | IA `mercyrememberedi00full` |
+| Domestic Slavery considered as a Scriptural Institution (1845), his correspondence with Francis Wayland: already held on the francis-wayland shelf | pending | not shelved |
+| The Psalmist hymn book (1843, he co-edited); Chaplain Fuller (1863, about Arthur Fuller, another man) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
