@@ -18898,6 +18898,18 @@ Shelf: `pipeline/benjamin-ide-wheeler_shelf.json`. Alexander the Great (1900) an
 | Alexander the Great: the Merging of East and West in Universal History (1900) |  | `wheeler-alexander-the-great-1900` | have-raw (IA `alexandergreatm00whee`) |
 | Dionysos and Immortality: the Greek Faith in Immortality as Affected by the Rise of Individualism (1899) |  | `wheeler-dionysos-and-immortality-1899` | have-raw (IA `dionysosandimmor00wheeuoft`) |
 
+
+## Sir Edwin Pears (1835-1919)
+
+Shelf: `pipeline/edwin-pears_shelf.json`. The fall of Byzantium, 1886 and 1903 (Gutenberg). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Destruction of the Greek Empire and the Story of the Capture of Constantinople by the Turks (1903) |  | `pears-destruction-of-greek-empire-pg` | have (PG 58119) |
+| The Fall of Constantinople, being the Story of the Fourth Crusade (1886) |  | `pears-fall-of-constantinople-1886` | have-raw (IA `fallconstantino02peargoog`) |
+
+Excluded: Forty Years in Constantinople; Life of Abdul Hamid; Turkey and its People (modern Turkey, outside lane B)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
