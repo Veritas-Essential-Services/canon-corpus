@@ -1,0 +1,84 @@
+{
+ "_about": "John Percival Postgate (1853-1926), Latinist. English essays, and his Lucan editions with English introduction and notes (Latin text). His Loeb Tibullus is held on the catullus shelf. Latin-text editions without English apparatus (Corpus Poetarum Latinorum, the Propertius and Catullus texts) not taken.",
+ "_author": "J. P. Postgate (1853-1926)",
+ "_name_words": [
+  "postgate",
+  "classical",
+  "research",
+  "dead",
+  "language",
+  "lucan",
+  "bello",
+  "civili"
+ ],
+ "_surname": [
+  "postgate"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "postgate-flaws-classical-research-1908": [
+   "flawsinclassical00postuoft",
+   "Flaws in Classical Research (1908)"
+  ],
+  "postgate-dead-language-1910": [
+   "deadlanguagedead00postrich",
+   "Dead Language and Dead Languages, with special reference to Latin (Liverpool inaugural lecture, 1910)"
+  ],
+  "postgate-lucan-vii-1896": [
+   "debellocivililib00lucauoft",
+   "Lucan, De Bello Civili Liber VII, with introduction, notes and critical appendix (Cambridge, 1896)"
+  ],
+  "postgate-lucan-viii-1917": [
+   "debellocivilil00luca",
+   "Lucan, De Bello Civili Liber VIII, with introduction and notes (Cambridge, 1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "postgate-flaws-classical-research-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "postgate-dead-language-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "postgate-lucan-vii-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "postgate-lucan-viii-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

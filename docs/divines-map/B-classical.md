@@ -8811,3 +8811,15 @@ Shelf: `pipeline/wilamowitz_shelf.json`. The 1908 Oxford lectures in Gilbert Mur
 |---|---|---|---|
 | Greek Historical Writing, and Apollo: two lectures delivered before the University of Oxford, June 3 and 4, 1908, tr. Gilbert Murray |  | `wilamowitz-greek-historical-writing-apollo-1908` | have-raw (IA `greekhistoricalw00wilauoft`) |
 
+
+## J. P. Postgate (1853-1926)
+
+Shelf: `pipeline/j-p-postgate_shelf.json`. English essays and the Lucan VII-VIII commentaries (Latin text, English notes); Loeb Tibullus held on the catullus shelf. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Flaws in Classical Research (1908) |  | `postgate-flaws-classical-research-1908` | have-raw (IA `flawsinclassical00postuoft`) |
+| Dead Language and Dead Languages, with special reference to Latin (Liverpool inaugural lecture, 1910) |  | `postgate-dead-language-1910` | have-raw (IA `deadlanguagedead00postrich`) |
+| Lucan, De Bello Civili Liber VII, with introduction, notes and critical appendix (Cambridge, 1896) |  | `postgate-lucan-vii-1896` | have-raw (IA `debellocivililib00lucauoft`) |
+| Lucan, De Bello Civili Liber VIII, with introduction and notes (Cambridge, 1917) |  | `postgate-lucan-viii-1917` | have-raw (IA `debellocivilil00luca`) |
+
