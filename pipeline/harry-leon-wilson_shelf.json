@@ -1,0 +1,166 @@
+{
+ "_about": "Harry Leon Wilson: Comic novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Harry Leon Wilson",
+ "_name_words": [
+  "harry",
+  "leon",
+  "wilson"
+ ],
+ "_surname": [
+  "harry leon wilson",
+  "leon wilson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hlwilson-merton-of-the-movies": [
+   3472,
+   "Merton of the Movies"
+  ],
+  "hlwilson-ruggles-of-red-gap": [
+   9151,
+   "Ruggles of Red Gap"
+  ],
+  "hlwilson-spenders": [
+   9981,
+   "The Spenders: A Tale of the Third Generation"
+  ],
+  "hlwilson-boss-of-little-arcady": [
+   10358,
+   "The Boss of Little Arcady"
+  ],
+  "hlwilson-lions-of-the-lord": [
+   11534,
+   "The Lions of the Lord: A Tale of the Old West"
+  ],
+  "hlwilson-wrong-twin": [
+   11625,
+   "The Wrong Twin"
+  ],
+  "hlwilson-ma-pettengill": [
+   14348,
+   "Ma Pettengill"
+  ],
+  "hlwilson-somewhere-in-red-gap": [
+   14376,
+   "Somewhere in Red Gap"
+  ],
+  "hlwilson-bunker-bean": [
+   15743,
+   "Bunker Bean"
+  ],
+  "hlwilson-seeker": [
+   15797,
+   "The Seeker"
+  ],
+  "hlwilson-ewings-lady": [
+   32988,
+   "Ewing's Lady"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 13275, 15855: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "hlwilson-merton-of-the-movies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-ruggles-of-red-gap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-spenders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-boss-of-little-arcady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-lions-of-the-lord": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-wrong-twin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-ma-pettengill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-somewhere-in-red-gap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-bunker-bean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-seeker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlwilson-ewings-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry leon wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

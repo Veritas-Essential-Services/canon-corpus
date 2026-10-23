@@ -96,6 +96,11 @@ def make():
     mine = [r for r in rows if any(x in a.author for x in r["Authors"].split("; "))]
     mine.sort(key=lambda r: int(r["Text#"]))
     gut, exc, seen, other_lang = {}, {}, {}, 0
+    # a title another shelf already holds under a different id is a second
+    # edition of a book on that shelf, not a new book (completing an author)
+    held_titles = {norm(" ".join(r["Title"].split())): H["ids"][r["Text#"]]
+                   for r in mine if r["Text#"] in H["ids"] and r["Language"] == "en"}
+    same_title = []
     rep, elsewhere = [], []
     for r in mine:
         pg, title = int(r["Text#"]), " ".join(r["Title"].split())
@@ -106,6 +111,8 @@ def make():
         if re.search(r"\bindex\b", title, re.I) and re.search(r"works|gutenberg", title, re.I):
             exc[f"pg-{pg}"] = f"PG {pg}: Gutenberg's index of the author's works, not a book."; continue
         k = norm(title)
+        if k in held_titles:
+            same_title.append(f"{pg} ({held_titles[k].split(':')[0][:-11]})"); continue
         if k in seen and seen[k][1] != r["Issued"]:
             rep.append(pg); continue
         if k in seen:   # same title, same release day: the volumes of one set
@@ -115,6 +122,8 @@ def make():
         gut[slug] = [pg, title]
     if rep:
         exc["repeat-editions"] = "PG " + ", ".join(map(str, rep)) + ": second Gutenberg editions of titles already on the shelf."
+    if same_title:
+        exc["same-title-elsewhere"] = "PG " + ", ".join(same_title) + ": another edition of a title already on the named shelf; not taken twice."
     if elsewhere:
         exc["held-elsewhere"] = "PG " + ", ".join(map(str, elsewhere)) + ": already on another shelf or in fetch_sources.py on some branch; not taken twice."
     names = sorted({w for s in a.surname for w in s.split() if len(w) > 2 and "." not in w})

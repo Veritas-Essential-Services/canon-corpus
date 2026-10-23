@@ -42263,3 +42263,78 @@ Shelf: `pipeline/kathleen-norris_shelf.json` (2026-10-22; added at the coordinat
 | The Beloved Woman | have | PG 28301, `ktnorris-beloved-woman` (1898 units) |
 | The black Flemings | have | PG 71929, `ktnorris-black-flemings` (1890 units) |
 | held-elsewhere | excluded | PG 40718: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Elsie Singmaster
+
+Shelf: `pipeline/elsie-singmaster_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Pennsylvania novels and stories. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Basil Everman | have | PG 46405, `esingmaster-basil-everman` (1941 units) |
+| When Sarah Went to School | have | PG 47614, `esingmaster-when-sarah-went-to-school` (870 units) |
+| Katy Gaumer | have | PG 48501, `esingmaster-katy-gaumer` (1819 units) |
+| The Long Journey | have | PG 50470, `esingmaster-long-journey` (868 units) |
+| Ellen Levis: A Novel | have | PG 52019, `esingmaster-ellen-levis` (2637 units) |
+| When Sarah Saved the Day | have | PG 52257, `esingmaster-when-sarah-saved-the-day` (776 units) |
+| Gettysburg: Stories of the Red Harvest and the Aftermath | have | PG 54358, `esingmaster-gettysburg` (727 units) |
+| Emmeline | have | PG 55627, `esingmaster-emmeline` (575 units) |
+| Under Many Flags | have | PG 55701, `esingmaster-under-many-flags` (710 units) |
+| The Story of Lutheran Missions | have | PG 55819, `esingmaster-story-of-lutheran-missions` (760 units) |
+| John Baring's House | have | PG 56416, `esingmaster-john-barings-house` (938 units) |
+| held-elsewhere | excluded | PG 40718: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Edna Lyall
+
+Shelf: `pipeline/edna-lyall_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Autobiography of a Slander | have | PG 1273, `elyall-autobiography-of-a-slander` (307 units) |
+| Derrick Vaughan, Novelist | have | PG 1665, `elyall-derrick-vaughan-novelist` (519 units) |
+| We Two: A Novel | have | PG 2007, `elyall-we-two` (3384 units) |
+| Wayfaring Men: A Novel | have | PG 54100, `elyall-wayfaring-men` (3075 units) |
+| In Spite of All: A Novel | have | PG 55324, `elyall-in-spite-of-all` (4125 units) |
+| A Hardy Norseman | have | PG 55825, `elyall-hardy-norseman` (3167 units) |
+| Donovan, Volume 1 (of 3) | have | PG 78456, `elyall-donovan-volume-1-of-3` (1201 units) |
+| Donovan, Volume 2 (of 3) | have | PG 78457, `elyall-donovan-volume-2-of-3` (1230 units) |
+| Donovan, Volume 3 (of 3) | have | PG 78458, `elyall-donovan-volume-3-of-3` (1450 units) |
+| Knight-errant | have | PG 78660, `elyall-knight-errant` (3367 units) |
+| held-elsewhere | excluded | PG 36641: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Max Beerbohm
+
+Shelf: `pipeline/max-beerbohm_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Zuleika Dobson, stories, essays and parodies. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| James Pethel | have | PG 759, `mbeerbohm-james-pethel` (118 units) |
+| Enoch Soames: A Memory of the Eighteen-Nineties | have | PG 760, `mbeerbohm-enoch-soames` (218 units) |
+| A. V. Laider | have | PG 761, `mbeerbohm-a-v-laider` (163 units) |
+| Seven Men [Excerpts] | have | PG 1306, `mbeerbohm-seven-men-excerpts` (490 units) |
+| Zuleika Dobson; Or, An Oxford Love Story | have | PG 1845, `mbeerbohm-zuleika-dobson` (1462 units) |
+| And Even Now | have | PG 1956, `mbeerbohm-and-even-now` (308 units) |
+| Yet Again | have | PG 2292, `mbeerbohm-yet-again` (305 units) |
+| A Christmas Garland | have | PG 14667, `mbeerbohm-christmas-garland` (494 units) |
+| The Happy Hypocrite: A Fairy Tale for Tired Men | have | PG 36497, `mbeerbohm-happy-hypocrite` (226 units) |
+| A Peep Into the Past | have | PG 67604, `mbeerbohm-peep-into-the-past` (23 units) |
+| The dreadful dragon of Hay Hill | have | PG 75341, `mbeerbohm-dreadful-dragon-of-hay-hill` (307 units) |
+| held-elsewhere | excluded | PG 1859: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Harry Leon Wilson
+
+Shelf: `pipeline/harry-leon-wilson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic novels. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Merton of the Movies | have | PG 3472, `hlwilson-merton-of-the-movies` (1779 units) |
+| Ruggles of Red Gap | have | PG 9151, `hlwilson-ruggles-of-red-gap` (1780 units) |
+| The Spenders: A Tale of the Third Generation | have | PG 9981, `hlwilson-spenders` (2748 units) |
+| The Boss of Little Arcady | have | PG 10358, `hlwilson-boss-of-little-arcady` (1725 units) |
+| The Lions of the Lord: A Tale of the Old West | have | PG 11534, `hlwilson-lions-of-the-lord` (2288 units) |
+| The Wrong Twin | have | PG 11625, `hlwilson-wrong-twin` (2741 units) |
+| Ma Pettengill | have | PG 14348, `hlwilson-ma-pettengill` (1334 units) |
+| Somewhere in Red Gap | have | PG 14376, `hlwilson-somewhere-in-red-gap` (1371 units) |
+| Bunker Bean | have | PG 15743, `hlwilson-bunker-bean` (1891 units) |
+| The Seeker | have | PG 15797, `hlwilson-seeker` (1628 units) |
+| Ewing's Lady | have | PG 32988, `hlwilson-ewings-lady` (1774 units) |
+| held-elsewhere | excluded | PG 13275, 15855: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

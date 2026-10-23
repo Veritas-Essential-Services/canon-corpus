@@ -2290,3 +2290,16 @@
 
 ## 2026-10-22 22:59 CDT — kathleen-norris: done
 - kathleen-norris: new shelf, 13 Gutenberg books, 25,228 units, 5735 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+
+## 2026-10-22 22:59 CDT — elsie-singmaster: done
+- elsie-singmaster: new shelf, 11 Gutenberg books, 12,621 units, 143 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — edna-lyall: done
+- edna-lyall: new shelf, 10 Gutenberg books, 21,825 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — max-beerbohm: done
+- max-beerbohm: new shelf, 11 Gutenberg books, 4,114 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — harry-leon-wilson: done
+- harry-leon-wilson: new shelf, 11 Gutenberg books, 21,059 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.

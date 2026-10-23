@@ -1,0 +1,163 @@
+{
+ "_about": "Elsie Singmaster: Pennsylvania novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elsie Singmaster",
+ "_name_words": [
+  "singmaster"
+ ],
+ "_surname": [
+  "singmaster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "esingmaster-basil-everman": [
+   46405,
+   "Basil Everman"
+  ],
+  "esingmaster-when-sarah-went-to-school": [
+   47614,
+   "When Sarah Went to School"
+  ],
+  "esingmaster-katy-gaumer": [
+   48501,
+   "Katy Gaumer"
+  ],
+  "esingmaster-long-journey": [
+   50470,
+   "The Long Journey"
+  ],
+  "esingmaster-ellen-levis": [
+   52019,
+   "Ellen Levis: A Novel"
+  ],
+  "esingmaster-when-sarah-saved-the-day": [
+   52257,
+   "When Sarah Saved the Day"
+  ],
+  "esingmaster-gettysburg": [
+   54358,
+   "Gettysburg: Stories of the Red Harvest and the Aftermath"
+  ],
+  "esingmaster-emmeline": [
+   55627,
+   "Emmeline"
+  ],
+  "esingmaster-under-many-flags": [
+   55701,
+   "Under Many Flags"
+  ],
+  "esingmaster-story-of-lutheran-missions": [
+   55819,
+   "The Story of Lutheran Missions"
+  ],
+  "esingmaster-john-barings-house": [
+   56416,
+   "John Baring's House"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 40718: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "esingmaster-basil-everman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-when-sarah-went-to-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-katy-gaumer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-long-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-ellen-levis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-when-sarah-saved-the-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-gettysburg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-emmeline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-under-many-flags": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-story-of-lutheran-missions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esingmaster-john-barings-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "singmaster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -5309,6 +5309,38 @@
       "started": "2026-10-22T22:59:11-05:00",
       "finished": "2026-10-22T22:59:11-05:00",
       "notes": "kathleen-norris: new shelf, 13 Gutenberg books, 25,228 units, 5735 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "elsie-singmaster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Elsie Singmaster; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:14-05:00",
+      "finished": "2026-10-22T22:59:14-05:00",
+      "notes": "elsie-singmaster: new shelf, 11 Gutenberg books, 12,621 units, 143 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edna-lyall",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edna Lyall; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:16-05:00",
+      "finished": "2026-10-22T22:59:16-05:00",
+      "notes": "edna-lyall: new shelf, 10 Gutenberg books, 21,825 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "max-beerbohm",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Max Beerbohm; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:17-05:00",
+      "finished": "2026-10-22T22:59:17-05:00",
+      "notes": "max-beerbohm: new shelf, 11 Gutenberg books, 4,114 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harry-leon-wilson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harry Leon Wilson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:19-05:00",
+      "finished": "2026-10-22T22:59:19-05:00",
+      "notes": "harry-leon-wilson: new shelf, 11 Gutenberg books, 21,059 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
