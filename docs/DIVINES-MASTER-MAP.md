@@ -18858,6 +18858,24 @@ Slugs `tomline-*`. Built from title pages read for round 128.
 | Reflections on the Cruelty of Inclosing Common-Field Lands is by another Pretyman | excluded | |
 | the Adair letters and the Remarks on the Refutation are by others | excluded | |
 | other editions and abridgements of the Elements and the Refutation | excluded | |
+
+## Jacob Duché (round 128, my pick, 2026-10-23)
+
+Slugs `duche-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and death of the righteous.  1763 (catalogued 1763) | have-ocr | IA `bim_early-english-books-1641-1700_jacob-duche_1763` |
+| Human life a pilgrimage: or the Christian a stranger and sojourner upon earth: a sermon occasioned by the death of ... Richard Penn, ... By ... Jacob Duche, M.A.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_human-life-a-pilgrimage_duche-jacob_1771` |
+| The duty of standing fast in our spiritual and temporal liberties, a sermon, preached in Christ-church, July 7th, 1775, before the First battalion of the city and liberties of Philadelphia; ... By the Reverend Jacob Duché, M.A.  1775 (catalogued 1775) | have-ocr | IA `bim_eighteenth-century_the-duty-of-standing-fas_duch-jacob_1775` |
+| Discourses on various subjects, by Jacob Duché, vol. 1 (London : printed by J. Phillips; and sold by T. Cadell; H. Payne; C. Dilly; and J. Phillips, 1779) | have-ocr | IA `discoursesonvari01duch_0` |
+| Discourses on various subjects, by Jacob Duché, ...  1779: Vol 2, vol. 2 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_discourses-on-various-su_duch-jacob_1779_2` |
+| A sermon preached at St. Dunstan's in the West, on Sunday, April 29, and at St. Mary Abbotts, Kensington, on Sunday, July 15, 1781, for the benefit of the Humane Society, instituted for the recovery of persons apparently dead by drowning. By Jacob Duché, M.A. ...  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-st_duch-jacob_1781` |
+| The Duché letter to General Washington ([Philadelphia : s.n., 1892) | have-ocr | IA `duchlettertoge00duch` |
+| Observations on a Variety of Subjects / Caspipina's Letters (1774, 1777), IA bim_eighteenth-century_observations-on-a-variet_duch-jacob_1774: published under the pen-name Tamoc Caspipina; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| wsb4f13_images has page images but no text | excluded | |
+| Anti-Paedo-Rantism is by Abel Morgan; Washington at Valley Forge is a collection | excluded | |
+| other scans and the second edition of the Discourses | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
