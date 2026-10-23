@@ -39165,3 +39165,26 @@ Shelf: `pipeline/r-austin-freeman_shelf.json` (2026-10-22; added at the coordina
 | A silent witness | have | PG 76796, `rafreeman-silent-witness` (2159 units) |
 | The golden pool | have | PG 76845, `rafreeman-golden-pool` (2202 units) |
 | The magic casket | have | PG 76919, `rafreeman-magic-casket` (1630 units) |
+
+## Ralph Connor
+
+Shelf: `pipeline/ralph-connor_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Canadian frontier novels. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail | have | PG 3241, `rconnor-corporal-cameron-of-the-north-west-mounted-police` (3606 units) |
+| The Doctor : A Tale of the Rockies | have | PG 3242, `rconnor-doctor` (2233 units) |
+| Glengarry School Days: A Story of Early Days in Glengarry | have | PG 3243, `rconnor-glengarry-school-days` (1526 units) |
+| To Him That Hath: A Tale of the West of Today | have | PG 3244, `rconnor-to-him-that-hath` (2292 units) |
+| Black Rock: A Tale of the Selkirks | have | PG 3245, `rconnor-black-rock` (1368 units) |
+| The Patrol of the Sun Dance Trail | have | PG 3247, `rconnor-patrol-of-the-sun-dance-trail` (2752 units) |
+| The Sky Pilot: A Tale of the Foothills | have | PG 3248, `rconnor-sky-pilot` (1221 units) |
+| The Major | have | PG 3249, `rconnor-major` (2924 units) |
+| The Man from Glengarry: A Tale of the Ottawa | have | PG 3287, `rconnor-man-from-glengarry` (2976 units) |
+| The Sky Pilot in No Man's Land | have | PG 3288, `rconnor-sky-pilot-in-no-mans-land` (3392 units) |
+| The Foreigner: A Tale of Saskatchewan | have | PG 3466, `rconnor-foreigner` (2424 units) |
+| The Prospector: A Tale of the Crow's Nest Pass | have | PG 3658, `rconnor-prospector` (2902 units) |
+| Michael McGrath, Postmaster | have | PG 19257, `rconnor-michael-mcgrath-postmaster` (233 units) |
+| Beyond the Marshes | have | PG 24724, `rconnor-beyond-the-marshes` (67 units) |
+| The Gaspards of Pine Croft: A Romance of the Windermere | have | PG 59499, `rconnor-gaspards-of-pine-croft` (2534 units) |
+| pg-59408 | excluded | PG 59408: Gutenberg's index of the author's works, not a book. |
