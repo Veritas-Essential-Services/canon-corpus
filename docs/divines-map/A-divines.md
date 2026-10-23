@@ -14307,3 +14307,19 @@ Slugs `caussade-*`. Built from title pages read for round 80.
 | Abandonment to divine providence, edited by J. Ramière, translated by E. J. Strickland (Exeter : Catholic Records Press ; St. Louis : Herder, 1921; imprimatur 7 March 1921) | have-ocr | IA `abandonmenttodiv00causrich` |
 | the French texts (1874 and later); everything printed 1930 or later | excluded | |
 | the undated 'Third English Edition' of Strickland's translation; it may have been printed after 1930, so the 1921 first edition is used instead | excluded | |
+
+## John Wyclif (round 81, my pick, 2026-10-23)
+
+Slugs `wyclif-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Select English works of John Wyclif, vol. 1 (Oxford : Clarendon Press, 1869) | have-ocr | IA `selectenglishworks01wycl` |
+| Select English works of John Wyclif, vol. 2 (Oxford, Clarendon Press, 1869) | have-ocr | IA `selectenglishwor02wycl` |
+| Select English works of John Wyclif, vol. 3 (Oxford : Clarendon Press, 1869) | have-ocr | IA `selectenglishworks03wycl` |
+| The English works of Wyclif : Hitherto Unprinted (London : Published for the Early English text society, by Kegan Paul, Trübner & Co., Ltd., 1880) | have-ocr | IA `englishworksofwy00wycl` |
+| Tracts and treatises of John de Wycliffe : with selections and translations from his manuscripts, and Latin works (London : Printed for the Society by Blackburn and Pardon, 1845) | have-ocr | IA `tractstreatiseso00wycl` |
+| the Wyclif Society Latin Works (about 35 volumes, 1883-1922) and the Trialogus (1869): a large set whose volumes still have to be matched to titles; a separate decision | pending | not shelved |
+| An Apology for Lollard Doctrines (1842) and The Last Age of the Church (1840), both only attributed to him and now generally denied to him | excluded | |
+| the Wycliffite Bible (Forshall and Madden, 1850) and the 1879 New Testament, which belong with the English Bibles | excluded | |
+| lives of him by Vaughan, Le Bas, Lechler and others | excluded | |
