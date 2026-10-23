@@ -44639,3 +44639,15 @@ Shelf: `pipeline/arthur-preston-hankins_shelf.json` (2026-10-22; added at the co
 | The valley of Arcana | have | PG 69880, `aphankins-valley-of-arcana` (1405 units) |
 | Falcon, of Squawtooth | have | PG 70785, `aphankins-falcon-of-squawtooth` (2249 units) |
 | Cole of Spyglass Mountain | have | PG 74690, `aphankins-cole-of-spyglass-mountain` (1952 units) |
+
+## Grace Greenwood
+
+Shelf: `pipeline/grace-greenwood_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Queen Victoria, her girlhood and womanhood | have | PG 6469, `ggreenwood-queen-victoria-her-girlhood-and-womanhood` (696 units) |
+| Stories and Legends of Travel and History, for Children | have | PG 26735, `ggreenwood-stories-and-legends-of-travel-and-history-for-chi` (647 units) |
+| Stories of Many Lands | have | PG 26736, `ggreenwood-stories-of-many-lands` (712 units) |
+| Old Wonder-Eyes, and Other Stories for Children | have | PG 48290, `ggreenwood-old-wonder-eyes-and-other-stories-for-children` (332 units) |
+| History of my pets | have | PG 71523, `ggreenwood-history-of-my-pets` (203 units) |
