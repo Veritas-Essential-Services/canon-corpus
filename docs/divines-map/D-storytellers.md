@@ -15349,3 +15349,21 @@ Shelf: `pipeline/george-griffith_shelf.json` (2026-10-22; added at the coordinat
 | In an Unknown Prison Land An account of convicts and colonists in New Caledonia with jottings out and home | have | PG 60960, `ggriffith-in-an-unknown-prison-land-an-account-of-convicts-a` (1035 units) |
 | Men Who Have Made the Empire | have | PG 63148, `ggriffith-men-who-have-made-the-empire` (905 units) |
 | The virgin of the sun | have | PG 73683, `ggriffith-virgin-of-the-sun` (1429 units) |
+
+## Homer Greene
+
+Shelf: `pipeline/homer-greene_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Burnham Breaker | have | PG 10449, `hgreene-burnham-breaker` (2902 units) |
+| The Flag | have | PG 25188, `hgreene-flag` (1440 units) |
+| The Blind Brother: A Story of the Pennsylvania Coal Mines | have | PG 45232, `hgreene-blind-brother` (797 units) |
+| Pickett's Gap | have | PG 45405, `hgreene-picketts-gap` (1109 units) |
+| The Riverpark Rebellion | have | PG 46146, `hgreene-riverpark-rebellion` (659 units) |
+| A Tale of the Tow-Path | have | PG 46172, `hgreene-tale-of-the-tow-path` (676 units) |
+| Whispering Tongues | have | PG 46528, `hgreene-whispering-tongues` (620 units) |
+| A Lincoln Conscript | have | PG 49677, `hgreene-lincoln-conscript` (925 units) |
+| The Guardsman | have | PG 55768, `hgreene-guardsman` (1882 units) |
+| Coal and the coal mines | have | PG 69134, `hgreene-coal-and-the-coal-mines` (752 units) |
+| The unhallowed harvest | have | PG 70967, `hgreene-unhallowed-harvest` (3263 units) |
