@@ -15997,6 +15997,23 @@ Slugs `bloomfield-*`. Built from title pages read for round 98.
 | Greek testament with English notes, critical, philological and exegetical, vol. 1 (Lond., Longman, 1855) | have-ocr | IA `greektestamentw00bloogoog` |
 | Critical annotations, additional and supplementary [&c.] (catalogued 1860) | have-ocr | IA `criticalannotat00bloogoog` |
 | historythucydid00bloogoog: his Thucydides translation (classical, not theology) | excluded | |
+
+## Philip S. Moxom (round 98, my pick, 2026-10-23)
+
+Slugs `moxom-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian ministry : a sermon at the ordination of Mr. Woodman Bradbury, in Melrose, Mass., June 2, 1891 (catalogued ) | have-ocr | IA `christianministr00moxo` |
+| The industrial revolution : a sermon (Boston : C.H. Simonds, [188) | have-ocr | IA `industrialrevolu00moxoiala` |
+| American common schools vs. secterian parochial schools (Boston : Published by the Committee of One Hundred, 1889) | have-ocr | IA `cihm_40558` |
+| Phillips Brooks : a tribute, being a sermon preached in the first Baptist meeting-house, Clarendon Street and Commonwealth Avenue, Boston, Sunday morning, January 29th, 1893 (Boston : Damrell &amp; Upham, 1893) | have-ocr | IA `MN5124ucmf_0` |
+| The aim of life : plain talks to young men and women (Boston : Roberts, 1894) | have-ocr | IA `aimoflifeplainta00moxo` |
+| From Jerusalem to Nicaea : the church in the first three centuries (Boston : Roberts brothers, 1896) | have-ocr | IA `fromjerusalemton00moxo` |
+| The religion of hope (Boston : Roberts Bros., 1896) | have-ocr | IA `religionofhope00moxo` |
+| Mary Lyon centennial and the higher education of women (Springfield, Massachusetts, Press of Springfield industrial institute, 1897) | have-ocr | IA `marylyoncentenni00moxo` |
+| Belief in God the essential condition of national permanence and prosperity : a sermon preached at the Seventy-fourth Annual Meeting of the Congregational Home Missionary Society, at Detroit, Michigan, June 5th, 1900 ([S.l.] : Congregational Home Missionary Society, 1900) | have-ocr | IA `cihm_40559` |
+| Two Masters: Browning and Turgenief (literary criticism, not theology) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

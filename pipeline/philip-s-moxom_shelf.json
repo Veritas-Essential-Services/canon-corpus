@@ -1,0 +1,168 @@
+{
+ "_about": "Public-domain Philip Stafford Moxom (1848-1923), Baptist and then Congregational minister in Boston and Springfield, for the Word Hoard: The Aim of Life, From Jerusalem to Nicaea, The Religion of Hope, and his sermons and addresses. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 98 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "philip s. moxom",
+  "philip stafford moxom",
+  "p. s. moxom",
+  "moxom"
+ ],
+ "_surname": [
+  "philip s. moxom",
+  "philip stafford moxom",
+  "p. s. moxom",
+  "moxom"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moxom-christian-ministry": [
+   "christianministr00moxo",
+   "The Christian ministry : a sermon at the ordination of Mr. Woodman Bradbury, in Melrose, Mass., June 2, 1891 (catalogued )"
+  ],
+  "moxom-industrial-revolution": [
+   "industrialrevolu00moxoiala",
+   "The industrial revolution : a sermon (Boston : C.H. Simonds, [188)"
+  ],
+  "moxom-common-schools": [
+   "cihm_40558",
+   "American common schools vs. secterian parochial schools (Boston : Published by the Committee of One Hundred, 1889)"
+  ],
+  "moxom-phillips-brooks": [
+   "MN5124ucmf_0",
+   "Phillips Brooks : a tribute, being a sermon preached in the first Baptist meeting-house, Clarendon Street and Commonwealth Avenue, Boston, Sunday morning, January 29th, 1893 (Boston : Damrell &amp; Upham, 1893)"
+  ],
+  "moxom-aim-of-life": [
+   "aimoflifeplainta00moxo",
+   "The aim of life : plain talks to young men and women (Boston : Roberts, 1894)"
+  ],
+  "moxom-jerusalem-nicaea": [
+   "fromjerusalemton00moxo",
+   "From Jerusalem to Nicaea : the church in the first three centuries (Boston : Roberts brothers, 1896)"
+  ],
+  "moxom-religion-of-hope": [
+   "religionofhope00moxo",
+   "The religion of hope (Boston : Roberts Bros., 1896)"
+  ],
+  "moxom-mary-lyon": [
+   "marylyoncentenni00moxo",
+   "Mary Lyon centennial and the higher education of women (Springfield, Massachusetts, Press of Springfield industrial institute, 1897)"
+  ],
+  "moxom-belief-in-god": [
+   "cihm_40559",
+   "Belief in God the essential condition of national permanence and prosperity : a sermon preached at the Seventy-fourth Annual Meeting of the Congregational Home Missionary Society, at Detroit, Michigan, June 5th, 1900 ([S.l.] : Congregational Home Missionary Society, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "moxom-two-masters": "Two Masters: Browning and Turgenief (literary criticism, not theology)"
+ },
+ "_rights_checked": {
+  "moxom-christian-ministry": "Title page (OCR): 'The Christian Ministry. A Sermon preached at the ordination of Mr. Woodman Bradbury, in Melrose, Mass., June 2, 1891, by Rev. Philip S. Moxom, Pastor of the First Baptist Church, Boston.' Dated 1891 by its text."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "moxom-christian-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page (OCR): 'The Christian Ministry. A Sermon preached at the ordination of Mr. Woodman Bradbury, in Melrose, Mass., June 2, 1891, by Rev. Philip S. Moxom, Pastor of the First Baptist Church, Boston.' Dated 1891 by its text."
+  },
+  "moxom-industrial-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "[1886]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moxom-common-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moxom-phillips-brooks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip stafford moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moxom-aim-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip stafford moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moxom-jerusalem-nicaea": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moxom-religion-of-hope": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moxom-mary-lyon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip stafford moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moxom-belief-in-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip s. moxom",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
