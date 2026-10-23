@@ -7975,6 +7975,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:54:57-05:00",
       "notes": "2 books (1800, 1820); Baptism a Term of Communion (1816) pending, no scan found."
+    },
+    {
+      "id": "joseph-bingham",
+      "status": "done",
+      "scope": "round 74",
+      "added": "2026-10-23T04:01:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:01:57-05:00",
+      "notes": "9 items: the 1834 Straker Works with the Origines Ecclesiasticae (8 vols. found) and the French Churches Apology (1706)."
     }
   ]
 }

@@ -13651,6 +13651,23 @@ Slugs `kinghorn-*`. Built from title pages read for round 73.
 | Public Worship Considered and Enforced (Norwich: Bacon, 1800) | have-ocr | IA `bim_eighteenth-century_public-worship-considere_kinghorn-joseph_1800` |
 | A defence of "Baptism a term of communion" : in answer to the Rev. Robert Hall's Reply (Norwich : Wilkin and Youngman [etc.], 1820) | have-ocr | IA `defenceofbaptism00king` |
 | Baptism a Term of Communion at the Lord's Supper (1816), the book the Defence defends: no scan found this round | pending | not shelved |
+
+## Joseph Bingham (round 74, my pick, 2026-10-23)
+
+Slugs `bingham-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| The French Churches Apology for the Church of England: or, the Objections of Dissenters against the Articles, Homilies, Liturgy and Canons of the English Church, consider'd and answer'd upon the principles of the Reformed Church of France (London: R. Knaplock, 1706) | have-ocr | IA `bim_eighteenth-century_the-french-churches-apol_bingham-joseph_1706` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 1 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast01bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 2 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast02bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 3 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast03bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 4 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast04bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 5 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast05bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 6 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast06bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 7 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast07bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 8 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast08bing` |
+| Latin translations of the Antiquities (1724, 1738-1751) and a German abridgement (1788); the 1726 folio Works and the 1840-1855 editions, duplicates of the 1834 set | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
