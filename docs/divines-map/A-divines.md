@@ -16804,3 +16804,18 @@ Slugs `jpierce-*`. Built from title pages read for round 106.
 | Brookline Jubilee : a discourse delivered in Brookline, at the request of its inhabitants, on 15 March, 1847, the day, which completed half a century from his ordination (Boston : [publisher not identified]; (Boston : Thurston, Torry and Company), 1847) | have-ocr | IA `brooklinejubilee00pier` |
 | Requisites to our country's glory (Boston : Dutton and Wentworth, state printers, 1849) | have-ocr | IA `requisitestoourc00pieriala` |
 | sermondelivereda00pier (a 532-page bound volume of pamphlets by several hands) | excluded | |
+
+## Phineas D. Gurley (round 107, my pick, 2026-10-23)
+
+Slugs `gurley-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A funeral sermon on occasion of the death of Mrs. Harriet S. McGuffey, who died at Woodside, near Dayton, O., July 3, 1850 (B.F. Ells, ) | have-ocr | IA `funeralsermonono00gurl` |
+| Incentives to duty in the work of missions: a sermon: preached for the Board of Foreign Missions of the Presbyterian church in New York, May 4, 1856 / by Phineas D. Gurley (New York: Mission house, 1856) | have-ocr | IA `incentivestoduty00gurl_0` |
+| Funeral address delivered by Rev. Dr. Gurley, on the occasion of the death of William Wallace Lincoln, February 24, 1862 ([Washington, D.C.] : [s.n.], 1862) | have-ocr | IA `funeraladdressde00gurl` |
+| Man's projects and God's results. A sermon (Washington, D.C., W. Ballantyne, 1863) | have-ocr | IA `mansprojectsgods00gurl` |
+| The assassination of Abraham Lincoln, vol. Assassination - Gurley's Funeral Address (catalogued 1865) | have-ocr | IA `assassinationofa00gurl` |
+| The voice of the rod : a sermon preached on Thursday, June 1, 1865, in the New York Avenue Presbyterian Church, Washington, D.C (Washington, D.C. : W. Ballantyne, 1865) | have-ocr | IA `voiceofrodsermon00gurl` |
+| faithingoddrgurl00gurl (a 1940 printing) | excluded | |
+| proceedingsofcal00gurl (minutes of a ministers meeting, many hands) | excluded | |
