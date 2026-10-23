@@ -15092,3 +15092,16 @@ Slugs `sutton-*`. Built from title pages read for round 89.
 | Disce vivere = Learn to live (Oxford : John Henry Parker, 1841) | have-ocr | IA `a678713100suttuoft` |
 | Godly meditations upon the most holy Sacrament of the Lord's Supper (New York : D. Appleton, 1841) | have-ocr | IA `a678703000suttuoft` |
 | the 1600-1662 printings on Internet Archive (Early English Books): the same three works; left for the EEBO first-editions work | excluded | |
+
+## James Dana (round 89, my pick, 2026-10-23)
+
+Slugs `jdana-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The "Examination of the late Rev'd President Edwards's Enquiry on freedom of will," continued. Sec. I. On self-determination. II. On the influence of motives in moral volitions. III. On necessity. IV. On the origin of evil. V. On the connection between the nature and cause of volition. Sec. VI. Moral evil not best for the world. VII. On fore-knowledge. VIII. On texts of scripture misconstrued. IX. Objections considered. X. On metaphysical reasoning. XI. Recapitulation. To which are subjoined, strictures on the Rev'd Mr. West's "Essay on moral agency," &c. By James Dana, D.D. Pastor of the First Church in Wallingford. [Four lines of quotations] (New-Haven : Printed by Thomas and Samuel Green, 1773) | have-ocr | IA `examinationoflat00dana_0` |
+| Two discourses, I. On the commencement of a New Year: II. On the completion of the eighteenth century; delivered ([n.p.], 1801) | have-ocr | IA `twodiscoursesion00dana` |
+| A sermon on the much lamented death of Mr. Ebenezer Grant Marsh, vol. c.1 (Hartford: Printed by Hudson & Goodwin, 1803) | have-ocr | IA `sermononmuchlame01dana` |
+| Sermons to young people : preached A.D. 1803,1804 ... to which are added Prayers for young families (New Haven : From Sydney's Press, 1806) | have-ocr | IA `sermonstoyoungpe00dana` |
+| examinationoflat00dana: the 1770 Examination was printed without the author's name and its OCR never names Dana; attribution needs a cited source | pending | not shelved |
+| ASPC0005247700: OCR too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
