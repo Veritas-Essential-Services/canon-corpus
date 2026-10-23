@@ -45527,3 +45527,61 @@ Shelf: `pipeline/storytellers-tail-08_shelf.json` (2026-10-22; added at the coor
 | The Rangers; or, The Tory's Daughter A Tale Illustrative of the Revolutionary History of Vermont and the Northern Campaign of 1777 | have | PG 6947, `dpthompson-rangers` (1681 units) |
 | Gaut Gurley; Or, the Trappers of Umbagog: A Tale of Border Life | have | PG 7087, `dpthompson-gaut-gurley` (1308 units) |
 | The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests | have | PG 67759, `dpthompson-demon-trapper-of-umbagog` (1325 units) |
+
+## Storytellers' tail, group 9 (17 authors)
+
+Shelf: `pipeline/storytellers-tail-09_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 17 authors with 3 Gutenberg texts each: I. T. Thurston, Elizabeth Weston Timlow, George Van Schaick, Mary E. Waller, William Davy Watson, David Dwight Wells, Lily F. Wesselhoeft, Edward L. Wheeler, Herman Whitaker, Edward Lucas White, Elliott Whitney, Robert Folkestone Williams, Daniel Wise, Joanna E. Wood, Theodore Wood, Wilson Woodrow, Louis Zangwill. Every English text under the name at Gutenberg that no other shelf holds (51 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bishop's Shadow | have | PG 8413, `itthurston-bishop-s-shadow` (1799 units) |
+| The Torch Bearer: A Camp Fire Girls' Story | have | PG 23987, `itthurston-torch-bearer` (1958 units) |
+| Boys of the Central: A High-School Story | have | PG 63156, `itthurston-boys-of-the-central` (1650 units) |
+| Cricket at the Seashore | have | PG 24513, `ewtimlow-cricket-at-the-seashore` (1884 units) |
+| Eunice and Cricket | have | PG 66091, `ewtimlow-eunice-and-cricket` (1509 units) |
+| Cricket | have | PG 67430, `ewtimlow-cricket` (1597 units) |
+| Sweetapple Cove | have | PG 13396, `gvanschaick-sweetapple-cove` (1623 units) |
+| The Peace of Roaring River | have | PG 30349, `gvanschaick-peace-of-roaring-river` (1138 units) |
+| A Top-Floor Idyl | have | PG 33218, `gvanschaick-top-floor-idyl` (1590 units) |
+| Flamsted quarries | have | PG 23664, `mewaller-flamsted-quarries` (3158 units) |
+| A Cry in the Wilderness | have | PG 34396, `mewaller-cry-in-the-wilderness` (3213 units) |
+| A Daughter of the Rich | have | PG 40661, `mewaller-daughter-of-the-rich` (2469 units) |
+| Trevethlan: A Cornish Story. Volume 1 (of 3) | have | PG 32981, `wdwatson-trevethlan` (741 units) |
+| Trevethlan: A Cornish Story. Volume 2 (of 3) | have | PG 36107, `wdwatson-trevethlan-36107` (667 units) |
+| Trevethlan: A Cornish Story. Volume 3 (of 3) | have | PG 36108, `wdwatson-trevethlan-36108` (620 units) |
+| Her Ladyship's Elephant | have | PG 28149, `ddwells-her-ladyship-s-elephant` (1440 units) |
+| His Lordship's Leopard: A Truthful Narration of Some Impossible Facts | have | PG 30873, `ddwells-his-lordship-s-leopard` (1873 units) |
+| Parlous Times: A Novel of Modern Diplomacy | have | PG 34925, `ddwells-parlous-times` (3589 units) |
+| Jack, the Fire Dog | have | PG 48861, `lfwesselhoeft-jack-the-fire-dog` (1108 units) |
+| Sparrow the tramp: A fable for children | have | PG 68899, `lfwesselhoeft-sparrow-the-tramp` (1166 units) |
+| Old Rough the miser | have | PG 77858, `lfwesselhoeft-old-rough-the-miser` (1112 units) |
+| Deadwood Dick, the Prince of the Road; or, The Black Rider of the Black Hills | have | PG 14902, `elwheeler-deadwood-dick-the-prince-of-the-road` (1071 units) |
+| Fritz to the Front, or, the Ventriloquist Scamp-Hunter | have | PG 37149, `elwheeler-fritz-to-the-front-or-the-ventriloquist-scamp-hunt` (1017 units) |
+| Deadwood Dick Jr. Branded; or, Red Rover at Powder Pocket. | have | PG 45618, `elwheeler-deadwood-dick-jr-branded` (1326 units) |
+| The Mystery of The Barranca | have | PG 36198, `hwhitaker-mystery-of-the-barranca` (1229 units) |
+| Over the Border: A Novel | have | PG 40600, `hwhitaker-over-the-border` (2482 units) |
+| The Settler | have | PG 43450, `hwhitaker-settler` (2036 units) |
+| The Unwilling Vestal | have | PG 6070, `elwhite-unwilling-vestal` (1880 units) |
+| Andivius Hedulio: Adventures of a Roman Nobleman in the Days of the Empire | have | PG 8532, `elwhite-andivius-hedulio` (3655 units) |
+| Lukundoo, and other stories | have | PG 75827, `elwhite-lukundoo-and-other-stories` (2089 units) |
+| The pirate shark | have | PG 21052, `ewhitney-pirate-shark` (959 units) |
+| The rogue elephant | have | PG 25450, `ewhitney-rogue-elephant` (1131 units) |
+| The blind lion of the Congo | have | PG 32508, `ewhitney-blind-lion-of-the-congo` (1201 units) |
+| Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 1 | have | PG 42491, `rfwilliams-lady-eureka` (714 units) |
+| Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 2 | have | PG 42492, `rfwilliams-lady-eureka-42492` (791 units) |
+| Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 3 | have | PG 42493, `rfwilliams-lady-eureka-42493` (846 units) |
+| Aunt Amy; or, How Minnie Brown learned to be a Sunbeam | have | PG 24991, `dwise-aunt-amy` (187 units) |
+| Jessie Carlton The Story of a Girl who Fought with Little Impulse, the Wizard, and Conquered Him | have | PG 26953, `dwise-jessie-carlton-the-story-of-a-girl-who-fought-with-lit` (1241 units) |
+| Minnie Brown; or, The Gentle Girl | have | PG 44081, `dwise-minnie-brown` (220 units) |
+| Judith Moore; or, Fashioning a Pipe | have | PG 58876, `jewood-judith-moore` (879 units) |
+| The Untempered Wind | have | PG 58987, `jewood-untempered-wind` (1696 units) |
+| A Daughter of Witches: A Romance | have | PG 64510, `jewood-daughter-of-witches` (1835 units) |
+| The Animal World, A Book of Natural History Young Folks' Treasury (Volume V) | have | PG 42414, `twood-animal-world-a-book-of-natural-history-young-folks-tre` (2350 units) |
+| Butterflies and Moths, Shown to the Children | have | PG 66668, `twood-butterflies-and-moths-shown-to-the-children` (407 units) |
+| The Sea-Shore, Shown to the Children | have | PG 66669, `twood-sea-shore-shown-to-the-children` (487 units) |
+| The Black Pearl | have | PG 17418, `wwoodrow-black-pearl` (1598 units) |
+| The Silver Butterfly | have | PG 25820, `wwoodrow-silver-butterfly` (1088 units) |
+| The beauty | have | PG 37549, `wwoodrow-beauty` (1076 units) |
+| Cleo The Magnificent; Or, The Muse of the Real: A Novel | have | PG 29207, `lzangwill-cleo-the-magnificent` (1378 units) |
+| An Engagement of Convenience: A Novel | have | PG 33747, `lzangwill-engagement-of-convenience` (1409 units) |
+| The Beautiful Miss Brooke | have | PG 34404, `lzangwill-beautiful-miss-brooke` (376 units) |

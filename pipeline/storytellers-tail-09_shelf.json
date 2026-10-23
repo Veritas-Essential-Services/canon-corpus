@@ -1,0 +1,877 @@
+{
+ "_about": "Storytellers' tail, group 9: 17 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): I. T. Thurston, Elizabeth Weston Timlow, George Van Schaick, Mary E. Waller, William Davy Watson, David Dwight Wells, Lily F. Wesselhoeft, Edward L. Wheeler, Herman Whitaker, Edward Lucas White, Elliott Whitney, Robert Folkestone Williams, Daniel Wise, Joanna E. Wood, Theodore Wood, Wilson Woodrow, Louis Zangwill. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 9 (17 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "itthurston-bishop-s-shadow": [
+   "i. t. thurston",
+   "ida treadwell thurston",
+   "thurston"
+  ],
+  "itthurston-torch-bearer": [
+   "i. t. thurston",
+   "ida treadwell thurston",
+   "thurston"
+  ],
+  "itthurston-boys-of-the-central": [
+   "i. t. thurston",
+   "ida treadwell thurston",
+   "thurston"
+  ],
+  "ewtimlow-cricket-at-the-seashore": [
+   "elizabeth weston timlow",
+   "timlow"
+  ],
+  "ewtimlow-eunice-and-cricket": [
+   "elizabeth weston timlow",
+   "timlow"
+  ],
+  "ewtimlow-cricket": [
+   "elizabeth weston timlow",
+   "timlow"
+  ],
+  "gvanschaick-sweetapple-cove": [
+   "george van schaick"
+  ],
+  "gvanschaick-peace-of-roaring-river": [
+   "george van schaick"
+  ],
+  "gvanschaick-top-floor-idyl": [
+   "george van schaick"
+  ],
+  "mewaller-flamsted-quarries": [
+   "mary e. waller",
+   "mary ella waller",
+   "waller"
+  ],
+  "mewaller-cry-in-the-wilderness": [
+   "mary e. waller",
+   "mary ella waller",
+   "waller"
+  ],
+  "mewaller-daughter-of-the-rich": [
+   "mary e. waller",
+   "mary ella waller",
+   "waller"
+  ],
+  "wdwatson-trevethlan": [
+   "william davy watson",
+   "watson"
+  ],
+  "wdwatson-trevethlan-36107": [
+   "william davy watson",
+   "watson"
+  ],
+  "wdwatson-trevethlan-36108": [
+   "william davy watson",
+   "watson"
+  ],
+  "ddwells-her-ladyship-s-elephant": [
+   "david dwight wells"
+  ],
+  "ddwells-his-lordship-s-leopard": [
+   "david dwight wells"
+  ],
+  "ddwells-parlous-times": [
+   "david dwight wells"
+  ],
+  "lfwesselhoeft-jack-the-fire-dog": [
+   "lily f. wesselhoeft",
+   "wesselhoeft"
+  ],
+  "lfwesselhoeft-sparrow-the-tramp": [
+   "lily f. wesselhoeft",
+   "wesselhoeft"
+  ],
+  "lfwesselhoeft-old-rough-the-miser": [
+   "lily f. wesselhoeft",
+   "wesselhoeft"
+  ],
+  "elwheeler-deadwood-dick-the-prince-of-the-road": [
+   "edward l. wheeler",
+   "edward lytton wheeler",
+   "wheeler"
+  ],
+  "elwheeler-fritz-to-the-front-or-the-ventriloquist-scamp-hunt": [
+   "edward l. wheeler",
+   "edward lytton wheeler",
+   "wheeler"
+  ],
+  "elwheeler-deadwood-dick-jr-branded": [
+   "edward l. wheeler",
+   "edward lytton wheeler",
+   "wheeler"
+  ],
+  "hwhitaker-mystery-of-the-barranca": [
+   "herman whitaker",
+   "whitaker"
+  ],
+  "hwhitaker-over-the-border": [
+   "herman whitaker",
+   "whitaker"
+  ],
+  "hwhitaker-settler": [
+   "herman whitaker",
+   "whitaker"
+  ],
+  "elwhite-unwilling-vestal": [
+   "edward lucas white"
+  ],
+  "elwhite-andivius-hedulio": [
+   "edward lucas white"
+  ],
+  "elwhite-lukundoo-and-other-stories": [
+   "edward lucas white"
+  ],
+  "ewhitney-pirate-shark": [
+   "elliott whitney",
+   "whitney"
+  ],
+  "ewhitney-rogue-elephant": [
+   "elliott whitney",
+   "whitney"
+  ],
+  "ewhitney-blind-lion-of-the-congo": [
+   "elliott whitney",
+   "whitney"
+  ],
+  "rfwilliams-lady-eureka": [
+   "robert folkestone williams",
+   "williams"
+  ],
+  "rfwilliams-lady-eureka-42492": [
+   "robert folkestone williams",
+   "williams"
+  ],
+  "rfwilliams-lady-eureka-42493": [
+   "robert folkestone williams",
+   "williams"
+  ],
+  "dwise-aunt-amy": [
+   "daniel wise"
+  ],
+  "dwise-jessie-carlton-the-story-of-a-girl-who-fought-with-lit": [
+   "daniel wise"
+  ],
+  "dwise-minnie-brown": [
+   "daniel wise"
+  ],
+  "jewood-judith-moore": [
+   "joanna e. wood",
+   "joanna ellen wood"
+  ],
+  "jewood-untempered-wind": [
+   "joanna e. wood",
+   "joanna ellen wood"
+  ],
+  "jewood-daughter-of-witches": [
+   "joanna e. wood",
+   "joanna ellen wood"
+  ],
+  "twood-animal-world-a-book-of-natural-history-young-folks-tre": [
+   "theodore wood"
+  ],
+  "twood-butterflies-and-moths-shown-to-the-children": [
+   "theodore wood"
+  ],
+  "twood-sea-shore-shown-to-the-children": [
+   "theodore wood"
+  ],
+  "wwoodrow-black-pearl": [
+   "wilson woodrow",
+   "woodrow"
+  ],
+  "wwoodrow-silver-butterfly": [
+   "wilson woodrow",
+   "woodrow"
+  ],
+  "wwoodrow-beauty": [
+   "wilson woodrow",
+   "woodrow"
+  ],
+  "lzangwill-cleo-the-magnificent": [
+   "louis zangwill",
+   "zangwill"
+  ],
+  "lzangwill-engagement-of-convenience": [
+   "louis zangwill",
+   "zangwill"
+  ],
+  "lzangwill-beautiful-miss-brooke": [
+   "louis zangwill",
+   "zangwill"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "itthurston-bishop-s-shadow": [
+   8413,
+   "The Bishop's Shadow"
+  ],
+  "itthurston-torch-bearer": [
+   23987,
+   "The Torch Bearer: A Camp Fire Girls' Story"
+  ],
+  "itthurston-boys-of-the-central": [
+   63156,
+   "Boys of the Central: A High-School Story"
+  ],
+  "ewtimlow-cricket-at-the-seashore": [
+   24513,
+   "Cricket at the Seashore"
+  ],
+  "ewtimlow-eunice-and-cricket": [
+   66091,
+   "Eunice and Cricket"
+  ],
+  "ewtimlow-cricket": [
+   67430,
+   "Cricket"
+  ],
+  "gvanschaick-sweetapple-cove": [
+   13396,
+   "Sweetapple Cove"
+  ],
+  "gvanschaick-peace-of-roaring-river": [
+   30349,
+   "The Peace of Roaring River"
+  ],
+  "gvanschaick-top-floor-idyl": [
+   33218,
+   "A Top-Floor Idyl"
+  ],
+  "mewaller-flamsted-quarries": [
+   23664,
+   "Flamsted quarries"
+  ],
+  "mewaller-cry-in-the-wilderness": [
+   34396,
+   "A Cry in the Wilderness"
+  ],
+  "mewaller-daughter-of-the-rich": [
+   40661,
+   "A Daughter of the Rich"
+  ],
+  "wdwatson-trevethlan": [
+   32981,
+   "Trevethlan: A Cornish Story. Volume 1 (of 3)"
+  ],
+  "wdwatson-trevethlan-36107": [
+   36107,
+   "Trevethlan: A Cornish Story. Volume 2 (of 3)"
+  ],
+  "wdwatson-trevethlan-36108": [
+   36108,
+   "Trevethlan: A Cornish Story. Volume 3 (of 3)"
+  ],
+  "ddwells-her-ladyship-s-elephant": [
+   28149,
+   "Her Ladyship's Elephant"
+  ],
+  "ddwells-his-lordship-s-leopard": [
+   30873,
+   "His Lordship's Leopard: A Truthful Narration of Some Impossible Facts"
+  ],
+  "ddwells-parlous-times": [
+   34925,
+   "Parlous Times: A Novel of Modern Diplomacy"
+  ],
+  "lfwesselhoeft-jack-the-fire-dog": [
+   48861,
+   "Jack, the Fire Dog"
+  ],
+  "lfwesselhoeft-sparrow-the-tramp": [
+   68899,
+   "Sparrow the tramp: A fable for children"
+  ],
+  "lfwesselhoeft-old-rough-the-miser": [
+   77858,
+   "Old Rough the miser"
+  ],
+  "elwheeler-deadwood-dick-the-prince-of-the-road": [
+   14902,
+   "Deadwood Dick, the Prince of the Road; or, The Black Rider of the Black Hills"
+  ],
+  "elwheeler-fritz-to-the-front-or-the-ventriloquist-scamp-hunt": [
+   37149,
+   "Fritz to the Front, or, the Ventriloquist Scamp-Hunter"
+  ],
+  "elwheeler-deadwood-dick-jr-branded": [
+   45618,
+   "Deadwood Dick Jr. Branded; or, Red Rover at Powder Pocket."
+  ],
+  "hwhitaker-mystery-of-the-barranca": [
+   36198,
+   "The Mystery of The Barranca"
+  ],
+  "hwhitaker-over-the-border": [
+   40600,
+   "Over the Border: A Novel"
+  ],
+  "hwhitaker-settler": [
+   43450,
+   "The Settler"
+  ],
+  "elwhite-unwilling-vestal": [
+   6070,
+   "The Unwilling Vestal"
+  ],
+  "elwhite-andivius-hedulio": [
+   8532,
+   "Andivius Hedulio: Adventures of a Roman Nobleman in the Days of the Empire"
+  ],
+  "elwhite-lukundoo-and-other-stories": [
+   75827,
+   "Lukundoo, and other stories"
+  ],
+  "ewhitney-pirate-shark": [
+   21052,
+   "The pirate shark"
+  ],
+  "ewhitney-rogue-elephant": [
+   25450,
+   "The rogue elephant"
+  ],
+  "ewhitney-blind-lion-of-the-congo": [
+   32508,
+   "The blind lion of the Congo"
+  ],
+  "rfwilliams-lady-eureka": [
+   42491,
+   "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 1"
+  ],
+  "rfwilliams-lady-eureka-42492": [
+   42492,
+   "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 2"
+  ],
+  "rfwilliams-lady-eureka-42493": [
+   42493,
+   "Lady Eureka; or, The Mystery: A Prophecy of the Future. Volume 3"
+  ],
+  "dwise-aunt-amy": [
+   24991,
+   "Aunt Amy; or, How Minnie Brown learned to be a Sunbeam"
+  ],
+  "dwise-jessie-carlton-the-story-of-a-girl-who-fought-with-lit": [
+   26953,
+   "Jessie Carlton The Story of a Girl who Fought with Little Impulse, the Wizard, and Conquered Him"
+  ],
+  "dwise-minnie-brown": [
+   44081,
+   "Minnie Brown; or, The Gentle Girl"
+  ],
+  "jewood-judith-moore": [
+   58876,
+   "Judith Moore; or, Fashioning a Pipe"
+  ],
+  "jewood-untempered-wind": [
+   58987,
+   "The Untempered Wind"
+  ],
+  "jewood-daughter-of-witches": [
+   64510,
+   "A Daughter of Witches: A Romance"
+  ],
+  "twood-animal-world-a-book-of-natural-history-young-folks-tre": [
+   42414,
+   "The Animal World, A Book of Natural History Young Folks' Treasury (Volume V)"
+  ],
+  "twood-butterflies-and-moths-shown-to-the-children": [
+   66668,
+   "Butterflies and Moths, Shown to the Children"
+  ],
+  "twood-sea-shore-shown-to-the-children": [
+   66669,
+   "The Sea-Shore, Shown to the Children"
+  ],
+  "wwoodrow-black-pearl": [
+   17418,
+   "The Black Pearl"
+  ],
+  "wwoodrow-silver-butterfly": [
+   25820,
+   "The Silver Butterfly"
+  ],
+  "wwoodrow-beauty": [
+   37549,
+   "The beauty"
+  ],
+  "lzangwill-cleo-the-magnificent": [
+   29207,
+   "Cleo The Magnificent; Or, The Muse of the Real: A Novel"
+  ],
+  "lzangwill-engagement-of-convenience": [
+   33747,
+   "An Engagement of Convenience: A Novel"
+  ],
+  "lzangwill-beautiful-miss-brooke": [
+   34404,
+   "The Beautiful Miss Brooke"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "itthurston-bishop-s-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. t. thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "itthurston-torch-bearer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. t. thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "itthurston-boys-of-the-central": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "i. t. thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewtimlow-cricket-at-the-seashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth weston timlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewtimlow-eunice-and-cricket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth weston timlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewtimlow-cricket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth weston timlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvanschaick-sweetapple-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george van schaick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvanschaick-peace-of-roaring-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george van schaick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvanschaick-top-floor-idyl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george van schaick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewaller-flamsted-quarries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewaller-cry-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mewaller-daughter-of-the-rich": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdwatson-trevethlan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william davy watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdwatson-trevethlan-36107": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william davy watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdwatson-trevethlan-36108": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william davy watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ddwells-her-ladyship-s-elephant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david dwight wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ddwells-his-lordship-s-leopard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david dwight wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ddwells-parlous-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david dwight wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfwesselhoeft-jack-the-fire-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily f. wesselhoeft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfwesselhoeft-sparrow-the-tramp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily f. wesselhoeft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lfwesselhoeft-old-rough-the-miser": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily f. wesselhoeft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwheeler-deadwood-dick-the-prince-of-the-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward l. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwheeler-fritz-to-the-front-or-the-ventriloquist-scamp-hunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward l. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwheeler-deadwood-dick-jr-branded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward l. wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwhitaker-mystery-of-the-barranca": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman whitaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwhitaker-over-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman whitaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwhitaker-settler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herman whitaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwhite-unwilling-vestal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward lucas white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwhite-andivius-hedulio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward lucas white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elwhite-lukundoo-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward lucas white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhitney-pirate-shark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elliott whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhitney-rogue-elephant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elliott whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhitney-blind-lion-of-the-congo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elliott whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfwilliams-lady-eureka": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert folkestone williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfwilliams-lady-eureka-42492": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert folkestone williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfwilliams-lady-eureka-42493": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert folkestone williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwise-aunt-amy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel wise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwise-jessie-carlton-the-story-of-a-girl-who-fought-with-lit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel wise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwise-minnie-brown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel wise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jewood-judith-moore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joanna e. wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jewood-untempered-wind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joanna e. wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jewood-daughter-of-witches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joanna e. wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twood-animal-world-a-book-of-natural-history-young-folks-tre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twood-butterflies-and-moths-shown-to-the-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twood-sea-shore-shown-to-the-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwoodrow-black-pearl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilson woodrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwoodrow-silver-butterfly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilson woodrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwoodrow-beauty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilson woodrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lzangwill-cleo-the-magnificent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lzangwill-engagement-of-convenience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lzangwill-beautiful-miss-brooke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
