@@ -16033,6 +16033,20 @@ Slugs `hurrion-*`. Built from title pages read for round 98.
 | The whole works of the Rev. John Hurrion, late minister of the Gospel in London : now first collected; to which is prefixed, The Life of the Author, vol. 3 (London : Printed for Richard Baynes by J. Henman, 1823) | have-ocr | IA `wholeworksofrevj03hurr` |
 | bim_eighteenth-century_judah-preserved-and-inv_hurrion-john_1744: preached at Gosport in 1744, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
 | bim_eighteenth-century_a-serious-enquiry-into-n_hurrion-john_1741: preached at Gosport in 1741, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
+
+## William Gahan (round 98, my pick, 2026-10-23)
+
+Slugs `gahan-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| A compendious abstract of the history of the church of Christ (New-York, Printed by J. Seymour, 1814) | have-ocr | IA `compendiousabst00gaha` |
+| The Intrepid and Truly Orthodox Testimony given by the Rev. William Gahan, at the Trim Assizes, Aug. 24th. 1802. Wherein the lessee of Catherine O'Brien Butler was plaintiff, and the Rev. A. Dunn ... defendant [With a portrait.] (Dublin : T. & M. Haydock, 1823) | have-ocr | IA `TheIntrepidAndTrulyOrthodoxTestimony` |
+| The Christian's guide to heaven; or, a complete manual of Catholic piety (catalogued 1824) | have-ocr | IA `christiansguidet00gaha` |
+| The complete manual of Catholic piety; containing a selection of fervent prayers, pious reflections and solid instructions, adapted to every state of life (Dublin, Duffy, 1844) | have-ocr | IA `CompleteManualOfCatholicPiety1844` |
+| Sermons and moral discourses : for all the Sundays and principal festivals of the year, on the most important truths and maxims of the gospel (Dublin : Printed by Richard Grace and Sons, 1846) | have-ocr | IA `sermonsmoraldisc00gaha` |
+| Sermons for every Sunday in the year and for the leading holidays of obligation / by William Gahan ; with a preface by Bishop Walsh ; edited by James O'Leary (New York, N.Y. : D. & J. Sadlier & Co., 1875) | have-ocr | IA `SermonsForEverySundayInTheYear` |
+| LHistoireDuVieux: A History of the Holy Bible, translated from the French by Joseph Reeve; Gahan only revised it | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
