@@ -11431,3 +11431,18 @@ Slugs `ebeecher-*`. Built from title pages read for round 51.
 | History of opinions on the scriptural doctrine of retribution (New York : Appleton, 1878) | have-ocr | IA `historyofopinion00beec` |
 | Other printings of The Conflict of Ages (1853-1855) and Papal Conspiracy (1855) | alternate | not shelved |
 | The Lost Atlantis (1897, another Beecher); Ladies' Society report (1846, a society's) | excluded | |
+
+## Samuel Stanhope Smith (round 51, my pick, 2026-10-23)
+
+Slugs `sssmith-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| An essay on the causes of the variety of complexion and figure in the human species (New Brunswick, N.J., J. Simpson, L. Deare, printer, 1810) | have-ocr | IA `essayoncausesofv00sm` |
+| Sermons (Newark, New-Jersey : Printed and sold by Jacob Halsey and Co. near the Episcopal Church, 1799) | have-ocr | IA `sermons00smit` |
+| The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 1 (New York : Whiting and Watson, 1812) | have-ocr | IA `lecturescorrecte01smit` |
+| The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 2 (New York : Whiting and Watson, 1812) | have-ocr | IA `lecturescorrecte02smit` |
+| The New Jersey preacher : or, Sermons on plain and practical subjects (Trenton : D. Fenton [etc.], 1813) | have-ocr | IA `newjerseypreache00smit` |
+| A Comprehensive view of the leading and most important principles of natural and revealed religion : digested in such order as to present to the pious and reflecting mind, a basis for the superstructure of the entire system of the doctrines of the gospel (New-Brunswick : Printed and published by Deare & Myer, 1815) | have-ocr | IA `comprehensivevi00smit` |
+| The 1787-1789 first edition of the Essay; other copies of the Sermons and the Comprehensive View | alternate | not shelved |
+| Ramsay's History of the United States (1816, Smith only continued it); single sermons 1791-1810 | excluded | |

@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain Samuel Stanhope Smith (1751-1819), Presbyterian minister and president of the College of New Jersey (Princeton), for the Word Hoard: An Essay on the Causes of the Variety of Complexion and Figure in the Human Species (1810 edition), Sermons (1799), The Lectures corrected and improved, on moral and political philosophy (2 vols, 1812), The New Jersey Preacher (1813) and A Comprehensive View of the Leading and Most Important Principles of Natural and Revealed Religion (1815), from Internet Archive scans. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "smith"
+ ],
+ "_surname": [
+  "samuel stanhope smith",
+  "samuel s. smith",
+  "s. stanhope smith",
+  "stanhope smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sssmith-complexion": [
+   "essayoncausesofv00sm",
+   "An essay on the causes of the variety of complexion and figure in the human species (New Brunswick, N.J., J. Simpson, L. Deare, printer, 1810)"
+  ],
+  "sssmith-sermons-1799": [
+   "sermons00smit",
+   "Sermons (Newark, New-Jersey : Printed and sold by Jacob Halsey and Co. near the Episcopal Church, 1799)"
+  ],
+  "sssmith-lectures-1": [
+   "lecturescorrecte01smit",
+   "The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 1 (New York : Whiting and Watson, 1812)"
+  ],
+  "sssmith-lectures-2": [
+   "lecturescorrecte02smit",
+   "The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 2 (New York : Whiting and Watson, 1812)"
+  ],
+  "sssmith-new-jersey-preacher": [
+   "newjerseypreache00smit",
+   "The New Jersey preacher : or, Sermons on plain and practical subjects (Trenton : D. Fenton [etc.], 1813)"
+  ],
+  "sssmith-comprehensive-view": [
+   "comprehensivevi00smit",
+   "A Comprehensive view of the leading and most important principles of natural and revealed religion : digested in such order as to present to the pious and reflecting mind, a basis for the superstructure of the entire system of the doctrines of the gospel (New-Brunswick : Printed and published by Deare & Myer, 1815)"
+  ]
+ },
+ "_alternates": {
+  "sssmith-copies": "The 1787-1789 first edition of the Essay; other copies of the Sermons and the Comprehensive View"
+ },
+ "_excluded": {
+  "sssmith-other": "Ramsay's History of the United States (1816, Smith only continued it); single sermons 1791-1810"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sssmith-complexion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel stanhope smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sssmith-sermons-1799": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel stanhope smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sssmith-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel stanhope smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sssmith-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel stanhope smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sssmith-new-jersey-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel s. smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sssmith-comprehensive-view": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel stanhope smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
