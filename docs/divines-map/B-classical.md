@@ -10845,3 +10845,12 @@ Shelf: `pipeline/j-f-dalton_shelf.json`. Horace and his Age (London: Longmans, 1
 |---|---|---|---|
 | Horace and his Age (London: Longmans, 1917) |  | `dalton-horace-and-his-age-1917` | have-raw (IA `cu31924026491344`) |
 
+
+## John Peile (1838-1910)
+
+Shelf: `pipeline/john-peile_shelf.json`. An Introduction to Greek and Latin Etymology (London: Macmillan, 1875) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| An Introduction to Greek and Latin Etymology (London: Macmillan, 1875) |  | `peile-greek-latin-etymology-1875` | have-raw (IA `cu31924021600022`) |
+
