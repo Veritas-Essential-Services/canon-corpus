@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Gregory Townsend Bedell (1793-1834), evangelical Episcopal rector of St. Andrew's, Philadelphia, for the Word Hoard: The Life and Travels of St. Paul (1830), The Life of Moses (1832) and his Sermons (2 vols, 1835), from Internet Archive scans. His son Gregory Thurston Bedell has his own shelf. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bedell"
+ ],
+ "_surname": [
+  "gregory townsend bedell",
+  "gregory t. bedell",
+  "g. t. bedell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gtbedell-life-of-paul": [
+   "lifetravelsofstp00bede",
+   "The life and travels of St. Paul (Philadelphia, American Sunday School Union, 1830)"
+  ],
+  "gtbedell-life-of-moses": [
+   "lifeofmoses00bede",
+   "The life of Moses (Philadelphia : American Sunday-School Union, 1832)"
+  ],
+  "gtbedell-sermons-1": [
+   "sermons01bede",
+   "Sermons, vol. 1 (Philadelphia, W. Stavely-J. C. Pechin, 1835)"
+  ],
+  "gtbedell-sermons-2": [
+   "sermons02bede",
+   "Sermons, vol. 2 (Philadelphia, W. Stavely-J. C. Pechin, 1835)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gtbedell-other": "The Religious Souvenir annuals he edited (many authors); Bickersteth's Treatise on the Lord's Supper, which he adapted; The Basket of Flowers (Schmid's tale)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gtbedell-sermons-2": "Title page reads 'SERMONS BY REV. GREGORY T BEDELL, D. D, RECTOR OF ST. ANDREW'S CHURCH, PHILADELPHIA. VOL. II.' (period lost after T), 1835."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gtbedell-life-of-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. t. bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gtbedell-life-of-moses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. t. bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gtbedell-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gregory townsend bedell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gtbedell-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

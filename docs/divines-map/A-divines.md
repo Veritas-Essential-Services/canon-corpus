@@ -11824,3 +11824,15 @@ Slugs `meade-*`. Built from title pages read for round 55.
 | Old churches, ministers and families of Virginia : in two volumes, vol. 2 (Philadelphia : J. B. Lippincott & Co., 1861) | have-ocr | IA `oldchurchesminis02meaduoft` |
 | familyprayers00mead: Family Prayers (Washington, 1834). Neither title page nor preface names the compiler (catalogued as Meade), and the prayers are largely drawn from the Prayer Book; pending a better-attested copy. | pending | not shelved |
 | Selections from the Homilies (1809, the Church's homilies with his preface); the joint Reply of Bishops Meade, McIlvaine and Burgess; Wise's 1910 index to Old Churches (another author) | excluded | |
+
+## Gregory Townsend Bedell (round 55, my pick, 2026-10-23)
+
+Slugs `gtbedell-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and travels of St. Paul (Philadelphia, American Sunday School Union, 1830) | have-ocr | IA `lifetravelsofstp00bede` |
+| The life of Moses (Philadelphia : American Sunday-School Union, 1832) | have-ocr | IA `lifeofmoses00bede` |
+| Sermons, vol. 1 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons01bede` |
+| Sermons, vol. 2 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons02bede` |
+| The Religious Souvenir annuals he edited (many authors); Bickersteth's Treatise on the Lord's Supper, which he adapted; The Basket of Flowers (Schmid's tale) | excluded | |
