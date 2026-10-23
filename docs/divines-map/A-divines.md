@@ -14503,3 +14503,18 @@ Slugs `cochrane-*`. Built from title pages read for round 83.
 | The church and the commonwealth. Discussions and orations on questions of the day, practical, biographical, educational and doctrinal (Brantford, Ont., Bradley, Garretson & Co., 1887) | have-ocr | IA `churchcommonweal00coch` |
 | Memoirs and remains of the Reverend Walter Inglis : African missionary and Canadian pastor (Toronto, C.B. Robinson [etc., etc.], 1887) | have-ocr | IA `memoirsremainsof00coch` |
 | The Canadian Album: Men of Canada (1891-1896), a biographical dictionary he edited | excluded | |
+
+## John M. Ashley (round 83, my pick, 2026-10-23)
+
+Slugs `jmashley-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| A promptuary for preachers, vol. 1 (London : J. T. Hayes, 1876) | have-ocr | IA `promptuaryforpre01ashl` |
+| A promptuary for preachers, vol. 2 (London : J. T. Hayes, 1876) | have-ocr | IA `promptuaryforpre02ashl` |
+| S. Augustine the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J.T. Hayes, 1877) | have-ocr | IA `saugustinepreach00ashl` |
+| Origen the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J. T. Hayes, 1878) | have-ocr | IA `origenpreacherbe00ashl` |
+| The pulpit lectionary, sermon notes upon the Old Testament Sunday lessons (catalogued 1884) | have-ocr | IA `pulpitlectionar00ashlgoog` |
+| Cogitationes concionales : being 216 short sermon reflections on the dominical Gospels of the Church's year : founded upon selected readings from the Summa Theologica of S. Thomas Aquinas (London : J. Hodges, 1895) | have-ocr | IA `cogitationesconc00ashl` |
+| The minor acts of our lord and savior Jesus Christ : considered in a short course of practical sermons (London : John Hodges, 1900) | have-ocr | IA `minoractsofourlo00ashl` |
+| his translation of Ninety-nine Homilies of S. Thomas Aquinas (1867), which is Aquinas; A Festival Year with Great Preachers (sermons by many); The Battle of Senlac (verse) | excluded | |
