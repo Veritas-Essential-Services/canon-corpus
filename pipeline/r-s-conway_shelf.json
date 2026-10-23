@@ -1,5 +1,5 @@
 {
- "_about": "Robert Seymour Conway (1864-1933), Hulme Professor of Latin at Manchester, raw IA OCR of Harvard Lectures on the Vergilian Age (Cambridge: Harvard University Press; London: Humphrey Milford, 1928; US public domain by date). His other books are not yet audited. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_about": "Robert Seymour Conway (1864-1933), Hulme Professor of Latin at Manchester, raw IA OCR of Harvard Lectures on the Vergilian Age (Cambridge: Harvard University Press; London: Humphrey Milford, 1928; US public domain by date). His other books are not yet audited. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted. Round dz (2026-10-23), raw IA: Verner's Law in Italy (1887), The Italic Dialects (Cambridge, 1897, 2 vols), his Pitt Press Livy II (1902), The Youth of Vergil (1915), New Studies of a Great Inheritance (1921) and The Making of Latin (1923). Not taken: Scenes from the Rudens of Plautus (1906), translated by members of the Manchester Classical Society, which he only arranged; his Oxford Livy text (Latin only); the Brugmann Comparative Grammar he co-translated (Indo-European linguistics); the Melandra Castle excavation report (many contributors).",
  "_author": "Robert Seymour Conway (1864-1933)",
  "_name_words": [
   "conway"
@@ -14,6 +14,34 @@
   "r-s-conway-harvard-lectures-vergilian-age-1928": [
    "vergilianage0000unse",
    "Harvard Lectures on the Vergilian Age, by Robert Seymour Conway (Cambridge: Harvard University Press; London: Humphrey Milford, 1928)"
+  ],
+  "r-s-conway-verners-law-in-italy-1887": [
+   "vernerslawinita00conwgoog",
+   "Verner's Law in Italy: an Essay in the History of the Indo-European Sibilants, by R. Seymour Conway (London: Trübner, 1887)"
+  ],
+  "r-s-conway-italic-dialects-v1-1897": [
+   "italicdialects01conwgoog",
+   "The Italic Dialects, edited with a grammar and glossary by R. S. Conway, vol. I: the records of Oscan, Umbrian and the minor dialects (Cambridge: at the University Press, 1897)"
+  ],
+  "r-s-conway-italic-dialects-v2-1897": [
+   "italicdialects02conw",
+   "The Italic Dialects, edited with a grammar and glossary by R. S. Conway, vol. II: an outline of the grammar of the dialects, appendix, indices and glossary (Cambridge: at the University Press, 1897)"
+  ],
+  "r-s-conway-livy-ii-1902": [
+   "livybookii00livyrich",
+   "Livy, Book II, edited with introduction and notes by R. S. Conway (Pitt Press Series; Cambridge: at the University Press, 1902); Latin text with English notes"
+  ],
+  "r-s-conway-youth-of-vergil-1915": [
+   "youthofvergillec00conwrich",
+   "The Youth of Vergil, a lecture delivered in the John Rylands Library on 9 December 1914, by R. S. Conway (reprinted from the Bulletin of the John Rylands Library, July 1915)"
+  ],
+  "r-s-conway-new-studies-great-inheritance-1921": [
+   "newstudiesofgrea00conwuoft",
+   "New Studies of a Great Inheritance, being lectures on the modern worth of some ancient writers, by R. S. Conway (London: John Murray, 1921)"
+  ],
+  "r-s-conway-making-of-latin-1923": [
+   "makingoflatinint00conw",
+   "The Making of Latin: an Introduction to Latin, Greek and English Etymology, by R. S. Conway (London: John Murray, 1923)"
   ]
  },
  "_excluded": {},
@@ -28,6 +56,88 @@
    "ia_date": "1928",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "r-s-conway-verners-law-in-italy-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "r-s-conway-italic-dialects-v1-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "r-s-conway-italic-dialects-v2-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert seymour conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "r-s-conway-livy-ii-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "r-s-conway-youth-of-vergil-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "r-s-conway-new-studies-great-inheritance-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "r-s-conway-making-of-latin-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "r-s-conway-italic-dialects-v1-1897": {
+   "author": "title page OCR 'R^^SV CONWAY, M.A., PROFESSOR OF LATIN IN UNIVERSITY COLLEGE, CARDIFF' (vol. II of the same edition reads 'R. S. CONWAY')"
   }
  }
 }
