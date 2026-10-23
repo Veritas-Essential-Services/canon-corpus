@@ -4251,7 +4251,7 @@ Round 34 (2026-10-10), vetoable. Gutenberg's single-parva files are left out as 
 ## Manmatha Nath Dutt (prose Ramayana, 4 vols; Harivamsha; Vishnupuranam)
 
 Shelf: `pipeline/mn-dutt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mn-dutt` · titles `python3 pipeline/split_shelf_titles.py mn-dutt`.
-Round 34 (2026-10-10), vetoable. Not R. C. Dutt (Lane D's dutt shelf). Not converted to unit-id JSON; **no uids minted**.
+Round 34 (2026-10-10), vetoable. Not R. C. Dutt (Lane D's dutt shelf). Round 162 (2026-10-23): nine Calcutta volumes credited 'edited and published by', shelved on Adam's ruling. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -4261,6 +4261,15 @@ Round 34 (2026-10-10), vetoable. Not R. C. Dutt (Lane D's dutt shelf). Not conve
 | `mn-dutt-valmiki-the-ramayana-vol-3` | Valmiki (attributed) | The Rāmāyana, Volume 3. Yuddhakāndam | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 60188 |
 | `mn-dutt-valmiki-the-ramayana-vol-4` | Valmiki (attributed) | The Rāmāyana, Volume 4. Uttara Kānda | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 62496 |
 | `mn-dutt-vishnupuranam` | Anonymous (the Vishnu Purana) | A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.) | Manmatha Nath Dutt (after H. H. Wilson) | 1891-1897 (see the Gutenberg header) | have | PG 66208 |
+| `mnd-mahabharata-adi` | Vyasa (the Mahabharata) | A Prose English Translation of the Mahabharata (translated literally from the original Sanskrit text): Adi Parva | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1895 | have-raw | IA `dli.ministry.19298` |
+| `mnd-mahabharata-shanti` | Vyasa (the Mahabharata) | A Prose English Translation of the Mahabharata: Shanti Parva | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1903 | have-raw | IA `in.ernet.dli.2015.134505` |
+| `mnd-mahabharata-anushasana` | Vyasa (the Mahabharata) | A Prose English Translation of the Mahabharata, vol. XIII: Anushasana Parva (with the Mahaprasthanika and Swargarohanika Parvas) | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1905 | have-raw | IA `in.ernet.dli.2015.134527` |
+| `mnd-bhagavatam-1` | Anonymous (the Bhagavata Purana) | A Prose English Translation of Srimadbhagabatam, Book I | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1895 | have-raw | IA `proseenglishtran12dutt` |
+| `mnd-bhagavatam-7-12` | Anonymous (the Bhagavata Purana) | A Prose English Translation of Srimadbhagabatam, Books VII to XII | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1895 | have-raw | IA `india.history.resource.40625` |
+| `mnd-mahanirvana` | Anonymous (the Mahanirvana Tantra) | A Prose English Translation of Mahanirvana Tantram | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1900 | have-raw | IA `in.ernet.dli.2015.61798` |
+| `mnd-kamandakiya` | Kamandaka | Kamandakiya Nitisara, or the Elements of Polity, in English | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1896 | have-raw | IA `dli.ministry.15844` |
+| `mnd-garuda` | Anonymous (the Garuda Purana) | The Garuda Puranam | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1908 | have-raw | IA `garudapuranam00duttgoog` |
+| `mnd-harita` | Harita (the Dharma Sastra) | Harita Samhita, with a literal prose English translation | Manmatha Nath Dutt (credited on the title page as editor and publisher) | 1906 | have-raw | IA `samhitaoriginalt00duttuoft` |
 | `mn-dutt-edited-and-published` | — | About twenty more of Dutt's Calcutta volumes are on archive.org: the Mahabharata parvas (Adi 1895, Bhishma, Shanti 1903, Anushasana 1905), the Srimadbhagavatam (1895-96), the Agni (1903-04), Garuda (1908) and Markandeya (1896) Puranas, the Mahanirvana Tantram (1900), the Kamandakiya Nitisara (1896), the Manu Samhita (1909), and the Dharma Sastra samhitas (1902-08). Every title page read says 'a prose English translation ... edited and published by Manmatha Nath Dutt'. It does not say 'translated by': he is named as editor and publisher, and he is known to have employed translators. The lane's rule leaves off books where a person is named only as editor, so these wait for a ruling. Shelving them would credit Dutt as the catalogues and Gutenberg already do (the Ramayana, Harivamsha and Vishnupuranam on this shelf rest on that credit). The DLI scans of Agni Puranam vols. 2-4 (in.ernet.dli.2015.33600-33602) are modern reprints with a Calcutta PIN code and are refused either way. Found 2026-10-23 (round 141). | — | — | pending | — |
 
 ## George Saintsbury (Marguerite of Navarre's Heptameron, 5 vols)

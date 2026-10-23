@@ -396,3 +396,5 @@
 - 2026-10-23T02:36-05:00: Round 159: archive.org sweep sa-eliot..zilboorg. +10 titles (van-laun +4, swanwick, schierbrand, vandam, theodore-martin, thomasina-ross, ziegler +1 each); 5 held; 0 mismatched, 0 rights flags. Alphabetical sweep of lane C translator shelves complete.
 
 - 2026-10-23T02:38-05:00: Round 160: thomas-roscoe +2 (Cellini, Colburn 1822, 2 vols). Lazarillo already in Spanish Novelists; Dent Balzac vols 21/26/31/33/39 have no files on archive.org. 0 mismatched, 0 rights flags.
+
+- 2026-10-23T08:53-05:00: Round 162: mn-dutt +9 (Mahabharata Adi/Shanti/Anushasana, Bhagavata I and VII-XII, Mahanirvana, Kamandakiya, Garuda, Harita), on Adam's 2026-10-23 ruling.
