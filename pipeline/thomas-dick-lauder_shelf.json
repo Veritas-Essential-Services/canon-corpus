@@ -1,0 +1,86 @@
+{
+ "_about": "Thomas Dick Lauder: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Thomas Dick Lauder",
+ "_name_words": [
+  "dick",
+  "lauder",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas dick lauder",
+  "lauder"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tdlauder-highland-legends": [
+   58694,
+   "Highland Legends"
+  ],
+  "tdlauder-legendary-tales-of-the-highlands-volume-1-of-3-a-se": [
+   58913,
+   "Legendary Tales of the Highlands (Volume 1 of 3) A sequel to Highland Rambles"
+  ],
+  "tdlauder-legendary-tales-of-the-highlands-volume-2-of-3-a-se": [
+   58931,
+   "Legendary Tales of the Highlands (Volume 2 of 3) A sequel to Highland Rambles"
+  ],
+  "tdlauder-legendary-tales-of-the-highlands-volume-3-of-3-a-se": [
+   59202,
+   "Legendary Tales of the Highlands (Volume 3 of 3) A sequel to Highland Rambles"
+  ],
+  "tdlauder-wolfe-of-badenoch": [
+   66763,
+   "The Wolfe of Badenoch: A Historical Romance of the Fourteenth Century"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "tdlauder-highland-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dick lauder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdlauder-legendary-tales-of-the-highlands-volume-1-of-3-a-se": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dick lauder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdlauder-legendary-tales-of-the-highlands-volume-2-of-3-a-se": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dick lauder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdlauder-legendary-tales-of-the-highlands-volume-3-of-3-a-se": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dick lauder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdlauder-wolfe-of-badenoch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dick lauder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

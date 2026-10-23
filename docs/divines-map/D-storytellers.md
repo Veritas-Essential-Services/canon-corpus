@@ -18655,3 +18655,15 @@ Shelf: `pipeline/ottilie-a-liljencrantz_shelf.json` (2026-10-22; added at the co
 | The Vinland Champions | have | PG 41098, `oaliljencrantz-vinland-champions` (1034 units) |
 | A Viking's love: and other tales of the North | have | PG 69907, `oaliljencrantz-vikings-love` (391 units) |
 | Randvar the songsmith | have | PG 70472, `oaliljencrantz-randvar-the-songsmith` (1506 units) |
+
+## Thomas Dick Lauder
+
+Shelf: `pipeline/thomas-dick-lauder_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Highland Legends | have | PG 58694, `tdlauder-highland-legends` (1824 units) |
+| Legendary Tales of the Highlands (Volume 1 of 3) A sequel to Highland Rambles | have | PG 58913, `tdlauder-legendary-tales-of-the-highlands-volume-1-of-3-a-se` (769 units) |
+| Legendary Tales of the Highlands (Volume 2 of 3) A sequel to Highland Rambles | have | PG 58931, `tdlauder-legendary-tales-of-the-highlands-volume-2-of-3-a-se` (699 units) |
+| Legendary Tales of the Highlands (Volume 3 of 3) A sequel to Highland Rambles | have | PG 59202, `tdlauder-legendary-tales-of-the-highlands-volume-3-of-3-a-se` (771 units) |
+| The Wolfe of Badenoch: A Historical Romance of the Fourteenth Century | have | PG 66763, `tdlauder-wolfe-of-badenoch` (3716 units) |
