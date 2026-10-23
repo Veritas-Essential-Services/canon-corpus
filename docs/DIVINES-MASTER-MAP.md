@@ -46168,3 +46168,40 @@ Shelf: `pipeline/storytellers-tail-16_shelf.json` (2026-10-22; added at the coor
 | Aurelian; or, Rome in the Third Century | have | PG 21953, `wware-aurelian` (1799 units) |
 | Miriam Monfort A Novel | have | PG 12453, `cawarfield-miriam-monfort-a-novel` (2744 units) |
 | Sea and Shore A Sequel to "Miriam's Memoirs" | have | PG 15117, `cawarfield-sea-and-shore-a-sequel-to-miriam-s-memoirs` (1620 units) |
+
+## Storytellers' tail, group 17 (15 authors)
+
+Shelf: `pipeline/storytellers-tail-17_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 15 authors with 2 Gutenberg texts each: H. B. Marriott Watson, Sydney Watson, J. B. Webb, Marion St. John Webb, Mary Webb, Edward Noyes Westcott, Evelyn Whitaker, Henry S. Whitehead, Frederick Whittaker, Edward Willett, Theodore Winthrop, Henry Wood, Elizabeth Strong Worthington, Edith Ayrton Zangwill, Gulielma Zollinger. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hurricane Island | have | PG 28387, `hbmwatson-hurricane-island` (2593 units) |
+| The High Toby Being further chapters in the life and fortunes of Dick Ryder, otherwise Galloping Dick, sometime gentleman of the road | have | PG 53133, `hbmwatson-high-toby-being-further-chapters-in-the-life-and-f` (1725 units) |
+| "In the twinkling of an eye" | have | PG 68722, `swatson-in-the-twinkling-of-an-eye` (1725 units) |
+| The Pilgrims of New England A Tale of the Early American Settlers | have | PG 10222, `jbwebb-pilgrims-of-new-england-a-tale-of-the-early-american` (1034 units) |
+| Naomi | have | PG 70520, `jbwebb-naomi` (1109 units) |
+| Knock Three Times! | have | PG 45802, `msjwebb-knock-three-times` (1173 units) |
+| The Girls of Chequertrees | have | PG 47471, `msjwebb-girls-of-chequertrees` (1136 units) |
+| Gone to Earth | have | PG 7055, `mwebb-gone-to-earth` (2992 units) |
+| Precious bane | have | PG 78542, `mwebb-precious-bane` (2344 units) |
+| David Harum A Story of American Life | have | PG 17617, `enwestcott-david-harum-a-story-of-american-life` (2177 units) |
+| The Christmas Story from David Harum | have | PG 25927, `enwestcott-christmas-story-from-david-harum` (344 units) |
+| Zoe | have | PG 30366, `ewhitaker-zoe` (315 units) |
+| Laddie, and Miss Toosey's mission | have | PG 73760, `ewhitaker-laddie-and-miss-toosey-s-mission` (406 units) |
+| The trap | have | PG 73243, `hswhitehead-trap` (126 units) |
+| The thin match | have | PG 73558, `hswhitehead-thin-match` (42 units) |
+| Ruby Roland, the Girl Spy; or, Simon Kenton's Protege | have | PG 56620, `fwhittaker-ruby-roland-the-girl-spy` (998 units) |
+| Black Nick, the hermit of the hills; or, The expiated crime A story of Burgoyne's surrender | have | PG 69323, `fwhittaker-black-nick-the-hermit-of-the-hills` (811 units) |
+| The Gray Scalp; Or, The Blackfoot Brave | have | PG 56175, `ewillett-gray-scalp` (857 units) |
+| Silverspur; or, The Mountain Heroine: A Tale of the Arapaho Country | have | PG 57589, `ewillett-silverspur` (872 units) |
+| Mr. Waddy's Return | have | PG 63321, `twinthrop-mr-waddy-s-return` (1121 units) |
+| John Brent | have | PG 73738, `twinthrop-john-brent` (1739 units) |
+| Victor Serenus: A Story of the Pauline Era | have | PG 55225, `hwood-victor-serenus` (2757 units) |
+| Edward Burton | have | PG 77430, `hwood-edward-burton` (1482 units) |
+| The Gentle Art of Cooking Wives | have | PG 26187, `esworthington-gentle-art-of-cooking-wives` (1182 units) |
+| How to Cook Husbands | have | PG 26210, `esworthington-how-to-cook-husbands` (677 units) |
+| The barbarous babes | have | PG 77065, `eazangwill-barbarous-babes` (354 units) |
+| The rise of a star | have | PG 78520, `eazangwill-rise-of-a-star` (1538 units) |
+| A Boy's Ride | have | PG 7806, `gzollinger-boy-s-ride` (1451 units) |
+| The Widow O'Callaghan's Boys | have | PG 9329, `gzollinger-widow-o-callaghan-s-boys` (1240 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 18815 The Mark of the Beast (copyright line 1933). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
