@@ -16519,3 +16519,23 @@ Shelf: `pipeline/mary-shelley-works_shelf.json` (2026-10-22; added at the coordi
 | Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 2 of 2 | have | PG 74301, `mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843-74301` (563 units) |
 | same-title-elsewhere | excluded | PG 41445 (mshelley), 42324 (mshelley): another edition of a title already on the named shelf; not taken twice. |
 | held-elsewhere | excluded | PG 84: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Bram Stoker
+
+Shelf: `pipeline/stoker-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lair of the White Worm | have | PG 1188, `bstoker-lair-of-the-white-worm` (865 units) |
+| The Man | have | PG 2520, `bstoker-man` (1834 units) |
+| The Lady of the Shroud | have | PG 3095, `bstoker-lady-of-the-shroud` (1425 units) |
+| The Jewel of Seven Stars | have | PG 3781, `bstoker-jewel-of-seven-stars` (1217 units) |
+| Dracula's Guest | have | PG 10150, `bstoker-draculas-guest` (737 units) |
+| The Mystery of the Sea | have | PG 42455, `bstoker-mystery-of-the-sea` (1768 units) |
+| Famous Impostors | have | PG 51391, `bstoker-famous-impostors` (652 units) |
+| Lady Athlyne | have | PG 65799, `bstoker-lady-athlyne` (1604 units) |
+| Personal reminiscences of Henry Irving | have | PG 68779, `bstoker-personal-reminiscences-of-henry-irving` (3255 units) |
+| The Snake's Pass | have | PG 68966, `bstoker-snakes-pass` (1981 units) |
+| pg-59671 | excluded | PG 59671: Gutenberg's index of the author's works, not a book. |
+| same-title-elsewhere | excluded | PG 45839 (stoker): another edition of a title already on the named shelf; not taken twice. |
+| held-elsewhere | excluded | PG 345: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

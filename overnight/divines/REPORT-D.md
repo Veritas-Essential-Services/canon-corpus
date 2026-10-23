@@ -2242,3 +2242,6 @@
 
 ## 2026-10-22 22:55 CDT — mary-shelley-works: done
 - mary-shelley-works: new shelf, 22 Gutenberg books, 15,728 units, 2677 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:55 CDT — stoker-works: done
+- stoker-works: new shelf, 10 Gutenberg books, 15,338 units, 811 ~2 ids; verify 0 mismatches, 0 rights flags.
