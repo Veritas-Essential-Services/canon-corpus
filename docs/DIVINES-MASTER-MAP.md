@@ -19346,6 +19346,15 @@ Shelf: `pipeline/marc-monnier_shelf.json`. The Wonders of Pompeii (1870). Not mi
 |---|---|---|---|
 | The Wonders of Pompeii (1870) |  | `monnier-wonders-of-pompeii-1870` | have-raw (IA `wondersofpompeii00monn`) |
 
+
+## A. J. B. Wace (1879-1957)
+
+Shelf: `pipeline/a-j-b-wace_shelf.json`. Prehistoric Thessaly, with M. S. Thompson (1912). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Prehistoric Thessaly, being some Account of Recent Excavations and Explorations in North-Eastern Greece (1912), with M. S. Thompson |  | `wace-prehistoric-thessaly-1912` | have-raw (IA `prehistoricthess00waceuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
