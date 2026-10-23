@@ -14138,3 +14138,18 @@ Slugs `palfrey-*`. Built from title pages read for round 78.
 | The relation between Judaism and Christianity : illustrated in notes on passages in the New Testament containing quotations from, or references to, the Old (Boston : Crosby, Nichols, and Co., 1854) | have-ocr | IA `cu31924029302076` |
 | the later volumes of the Academical Lectures are on IA only as Google scans whose volume numbers are not catalogued; to be matched against their title pages | pending | not shelved |
 | his History of New England and political papers (Papers on the Slave Power) are history and politics, not theology; Harmony of the Gospels is Lant Carpenter's | excluded | |
+
+## William F. McDowell (round 79, my pick, 2026-10-23)
+
+Slugs `mcdowell-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| In the school of Christ (New York : Revell, 1910) | have-ocr | IA `inschoolofchrist00mcdo` |
+| A man's religion; letters to men (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1913) | have-ocr | IA `mansreligionlett00mcdo` |
+| Good ministers of Jesus Christ (New York : Abingdon, c191) | have-ocr | IA `goodministersofj00mcdouoft` |
+| This mind (New York, Cincinnati : The Methodist book concern, 1922) | have-ocr | IA `thismind00mcdo` |
+| Making a personal faith (New York, Abingdon, 1924) | have-ocr | IA `makingpersonalfa0000mcdo` |
+| That I may save some (New York : Abingdon Press, 1928) | have-ocr | IA `thatimaysavesome0000mcdo` |
+| Them He also called (New York ; Cincinnati [etc.] : The Abingdon Press, 1929) | have-ocr | IA `themhealsocalled00mcdo` |
+| The Picket Line of Missions, Effective Workers in Needy Fields and The Revival, a Symposium are many-author volumes; everything printed 1930 or later | excluded | |
