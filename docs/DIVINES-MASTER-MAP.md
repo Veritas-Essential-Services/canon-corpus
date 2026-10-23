@@ -37871,3 +37871,40 @@ Shelf: `pipeline/bertram-mitford_shelf.json` (2026-10-22; added at the coordinat
 | The Ruby Sword: A Romance of Baluchistan | have | PG 36606, `bmitford-ruby-sword` (1403 units) |
 | Dorrien of Cranston | have | PG 36623, `bmitford-dorrien-of-cranston` (2443 units) |
 | The Heath Hover Mystery | have | PG 38169, `bmitford-heath-hover-mystery` (1605 units) |
+
+## Louis Tracy
+
+Shelf: `pipeline/louis-tracy_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure and mystery novels. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Number Seventeen | have | PG 4996, `ltracy-number-seventeen` (1852 units) |
+| The Wheel O' Fortune | have | PG 8596, `ltracy-wheel-o-fortune` (1798 units) |
+| The Postmaster's Daughter | have | PG 10110, `ltracy-postmasters-daughter` (2263 units) |
+| The Stowmarket Mystery; Or, A Legacy of Hate | have | PG 14853, `ltracy-stowmarket-mystery` (2439 units) |
+| The Wings of the Morning | have | PG 14917, `ltracy-wings-of-the-morning` (2497 units) |
+| The Stowaway Girl | have | PG 19539, `ltracy-stowaway-girl` (1790 units) |
+| The Captain of the Kansas | have | PG 19649, `ltracy-captain-of-the-kansas` (1786 units) |
+| One Wonderful Night: A Romance of New York | have | PG 19707, `ltracy-one-wonderful-night` (2059 units) |
+| The Albert Gate Mystery Being Further Adventures of Reginald Brett, Barrister Detective | have | PG 23150, `ltracy-albert-gate-mystery-being-further-adventures-of-regin` (2063 units) |
+| A Son of the Immortals | have | PG 25017, `ltracy-son-of-the-immortals` (1723 units) |
+| The Strange Case of Mortimer Fenley | have | PG 26447, `ltracy-strange-case-of-mortimer-fenley` (2112 units) |
+| Cynthia's Chauffeur | have | PG 31472, `ltracy-cynthias-chauffeur` (2307 units) |
+| The Silent Barrier | have | PG 31635, `ltracy-silent-barrier` (1843 units) |
+| The Bartlett Mystery | have | PG 31949, `ltracy-bartlett-mystery` (1968 units) |
+| The Day of Wrath: A Story of 1914 | have | PG 33622, `ltracy-day-of-wrath` (1387 units) |
+| The Great Mogul | have | PG 34134, `ltracy-great-mogul` (1934 units) |
+| A Mysterious Disappearance | have | PG 34277, `ltracy-mysterious-disappearance` (2881 units) |
+| His Unknown Wife | have | PG 35074, `ltracy-his-unknown-wife` (1855 units) |
+| The Revellers | have | PG 35393, `ltracy-revellers` (2888 units) |
+| The Late Tenant | have | PG 35691, `ltracy-late-tenant` (1679 units) |
+| The Red Year: A Story of the Indian Mutiny | have | PG 36478, `ltracy-red-year` (1593 units) |
+| The House 'Round the Corner | have | PG 39432, `ltracy-house-round-the-corner` (1754 units) |
+| The King of Diamonds: A Tale of Mystery and Adventure | have | PG 40493, `ltracy-king-of-diamonds` (2659 units) |
+| The Pillar of Light | have | PG 40912, `ltracy-pillar-of-light` (2482 units) |
+| The Terms of Surrender | have | PG 41859, `ltracy-terms-of-surrender` (2181 units) |
+| Flower of the Gorse | have | PG 46178, `ltracy-flower-of-the-gorse` (1854 units) |
+| The Message | have | PG 47113, `ltracy-message` (1870 units) |
+| The de Bercy Affair | have | PG 50705, `ltracy-de-bercy-affair` (2248 units) |
+| Minkie | have | PG 58434, `ltracy-minkie` (801 units) |
+| Karl Grier | have | PG 76603, `ltracy-karl-grier` (1343 units) |
