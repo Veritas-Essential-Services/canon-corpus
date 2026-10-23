@@ -11789,6 +11789,8 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin) | Edwin Arnold | `musaeus-arnold-hero-leander` | have-raw (IA `heroleanderfromg00musaiala`) |
 | Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
 | Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806) | Philip Yorke, Viscount Royston | `lycophron-royston-1806` | have-raw (IA `cassandra00lyco`) |
+| Callimachus and Lycophron, tr. A. W. Mair; Aratus, tr. G. R. Mair (Loeb, 1921); Greek facing, kept per Adam's 2026-10-23 ruling |  | `callimachus-lycophron-aratus-mair-1921` | have-raw (IA `callimachuslycop00calluoft`) |
+| Oppian, Colluthus, Tryphiodorus, tr. A. W. Mair (Loeb, 1928); Greek facing, kept per Adam's 2026-10-23 ruling |  | `oppian-colluthus-tryphiodorus-mair-1928` | have-raw (IA `oppiancolluthust00oppiuoft`) |
 
 Pending (wishlist): Tytler's Callimachus (1793) from a cleaner scan (worksofcallimach00call reads 0.767); Mair's Loebs (Greek facing).
 
