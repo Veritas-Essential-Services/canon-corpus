@@ -15949,6 +15949,24 @@ Slugs `newcomb-*`. Built from title pages read for round 97.
 | The harvest and the reapers; homework for all, and how to do it (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `harvestreapersho00newc` |
 | Kind words for children to guide them in the path of peace ([n.p.], 1859) | have-ocr | IA `kindwordsforchil00newc` |
 | Anecdotes for boys : entertaining narratives and anecdotes, illustrative of principles and character (Boston : Gould and Lincoln, 1853) | have-ocr | IA `anecdotesforboys00newc` |
+
+## James Mudge (round 97, my pick, 2026-10-23)
+
+Slugs `mudge-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| The pastor's missionary manual (New York : Missionary Society, Methodist Episcopal Church, 1891) | have-ocr | IA `pastorsmissionar00mudg` |
+| Growth in holiness toward perfection, or progressive sanctification (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `growthinholiness0000mudg` |
+| The land of faith (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1903) | have-ocr | IA `landoffaith00mudg` |
+| The saintly calling (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1905) | have-ocr | IA `saintlycalling00mudg` |
+| The life ecstatic (New York, Boston [etc.] American tract society, 1906) | have-ocr | IA `lifeecstatic00mudg` |
+| Fénelon: the mystic (Cincinnati : Jennings and Graham, [c19) | have-ocr | IA `fenelonmystic00mudgiala` |
+| The riches of His grace ; a portion for every Sunday (New York, Eaton & Mains ; Cincinnati, Jennings & Graham, 1909) | have-ocr | IA `richesofhisgrace00mudg` |
+| History of the New England Conference of the Methodist Episcopal Church. 1796-1910 (Boston : Published by the Conference, 1910) | have-ocr | IA `historyofnewengl00mudg` |
+| The perfect life in experience and doctrine; a restatement (Cincinnati, Jennings and Graham, 1911) | have-ocr | IA `perfectlifeinexp00mudg` |
+| Religious experience exemplified in the lives of illustrious Christians (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1913) | have-ocr | IA `religiousexperie0000mudg` |
+| Honey from Many Hives, Poems with Power (anthologies of other writers) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

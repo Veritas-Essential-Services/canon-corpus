@@ -9046,6 +9046,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T06:34:00-05:00",
       "notes": "Congregational writer for the young and on missions."
+    },
+    {
+      "id": "james-mudge",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:34:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:34:01-05:00",
+      "notes": "Methodist writer on holiness and Fenelon; anthologies excluded."
     }
   ]
 }
