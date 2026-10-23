@@ -1,0 +1,215 @@
+{
+ "_about": "Sydney C. Grier's (Hilda Gregg's) novels of the Balkans and India. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Sydney C. Grier",
+ "_name_words": [
+  "grier",
+  "sydney"
+ ],
+ "_surname": [
+  "sydney c. grier",
+  "grier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "scgrier-path-to-honour": [
+   24535,
+   "The Path to Honour"
+  ],
+  "scgrier-flag-of-the-adventurer": [
+   65844,
+   "The Flag of the Adventurer"
+  ],
+  "scgrier-advanced-guard": [
+   65895,
+   "The Advanced-Guard"
+  ],
+  "scgrier-peace-with-honour": [
+   66076,
+   "Peace with Honour"
+  ],
+  "scgrier-his-excellencys-english-governess": [
+   66115,
+   "His Excellency's English Governess"
+  ],
+  "scgrier-warden-of-the-marches": [
+   66229,
+   "The Warden of the Marches"
+  ],
+  "scgrier-uncrowned-king": [
+   66280,
+   "An Uncrowned King: A Romance of High Politics"
+  ],
+  "scgrier-crowned-queen": [
+   66325,
+   "A Crowned Queen: The Romance of a Minister of State"
+  ],
+  "scgrier-kings-of-the-east": [
+   66383,
+   "The Kings of the East: A Romance of the Near Future"
+  ],
+  "scgrier-like-another-helen": [
+   66471,
+   "Like Another Helen"
+  ],
+  "scgrier-prince-of-the-captivity": [
+   66558,
+   "The Prince of the Captivity: The Epilogue to a Romance"
+  ],
+  "scgrier-heir": [
+   66751,
+   "The Heir"
+  ],
+  "scgrier-heritage": [
+   66794,
+   "The Heritage"
+  ],
+  "scgrier-prize": [
+   66851,
+   "The Prize"
+  ],
+  "scgrier-in-furthest-ind": [
+   74298,
+   "In furthest Ind"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "scgrier-path-to-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-flag-of-the-adventurer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-advanced-guard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-peace-with-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-his-excellencys-english-governess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-warden-of-the-marches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-uncrowned-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-crowned-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-kings-of-the-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-like-another-helen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-prince-of-the-captivity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-heritage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-prize": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scgrier-in-furthest-ind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney c. grier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

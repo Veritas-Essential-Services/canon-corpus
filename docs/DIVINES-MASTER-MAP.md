@@ -39775,3 +39775,25 @@ Shelf: `pipeline/samuel-merwin_shelf.json` (2026-10-22; added at the coordinator
 | His Little World: The Story of Hunch Badeau | have | PG 54103, `smerwin-his-little-world` (1040 units) |
 | pg-57716 | excluded | PG 57716: Gutenberg's index of the author's works, not a book. |
 | repeat-editions | excluded | PG 30431: second Gutenberg editions of titles already on the shelf. |
+
+## Sydney C. Grier
+
+Shelf: `pipeline/sydney-c-grier_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical and adventure novels. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Path to Honour | have | PG 24535, `scgrier-path-to-honour` (1611 units) |
+| The Flag of the Adventurer | have | PG 65844, `scgrier-flag-of-the-adventurer` (2075 units) |
+| The Advanced-Guard | have | PG 65895, `scgrier-advanced-guard` (1694 units) |
+| Peace with Honour | have | PG 66076, `scgrier-peace-with-honour` (2228 units) |
+| His Excellency's English Governess | have | PG 66115, `scgrier-his-excellencys-english-governess` (1428 units) |
+| The Warden of the Marches | have | PG 66229, `scgrier-warden-of-the-marches` (2450 units) |
+| An Uncrowned King: A Romance of High Politics | have | PG 66280, `scgrier-uncrowned-king` (2238 units) |
+| A Crowned Queen: The Romance of a Minister of State | have | PG 66325, `scgrier-crowned-queen` (3365 units) |
+| The Kings of the East: A Romance of the Near Future | have | PG 66383, `scgrier-kings-of-the-east` (2076 units) |
+| Like Another Helen | have | PG 66471, `scgrier-like-another-helen` (2631 units) |
+| The Prince of the Captivity: The Epilogue to a Romance | have | PG 66558, `scgrier-prince-of-the-captivity` (2082 units) |
+| The Heir | have | PG 66751, `scgrier-heir` (1778 units) |
+| The Heritage | have | PG 66794, `scgrier-heritage` (1795 units) |
+| The Prize | have | PG 66851, `scgrier-prize` (2093 units) |
+| In furthest Ind | have | PG 74298, `scgrier-in-furthest-ind` (1305 units) |
