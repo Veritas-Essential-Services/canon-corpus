@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Joseph Mede (1586-1639), Fellow of Christ's College, Cambridge, biblical scholar and interpreter of the Apocalypse, for the Word Hoard: The Works (fourth edition, 1677), The Apostasy of the Latter Times (1642), The Key of the Revelation (English, 1650), The Name Altar (1637) and The Reverence of Gods House (1638). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 68 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mede"
+ ],
+ "_surname": [
+  "mede",
+  "meade",
+  "medes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mede-works-1677": [
+   "bim_early-english-books-1641-1700_the-works-of-_mede-joseph_1677",
+   "The Works of the Pious and Profoundly-Learned Joseph Mede, B.D. (London, 1677)"
+  ],
+  "mede-apostasy-1642": [
+   "bim_early-english-books-1641-1700_the-apostasy-of-the-latt_mede-joseph_1642",
+   "The Apostasy of the Latter Times (London, 1642)"
+  ],
+  "mede-key-revelation-1650": [
+   "bim_early-english-books-1641-1700_the-key-of-the-revelatio_mede-joseph_1650",
+   "The Key of the Revelation, searched and demonstrated, translated by Richard More (London, 1650)"
+  ],
+  "mede-name-altar-1637": [
+   "bim_early-english-books-1475-1640_the-name-altar-or-_mede-joseph_1637",
+   "The Name Altar, or Thusiasterion, anciently given to the Holy Table (London, 1637)"
+  ],
+  "mede-reverence-gods-house-1638": [
+   "bim_early-english-books-1475-1640_the-reverence-of-gods-ho_mede-joseph_1638",
+   "The Reverence of Gods House (London: M. Flesher for John Clark, 1638)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mede-works-1672": "The Works, 1672 printing (bim_early-english-books-1641-1700_the-vvorks-of-_mede-joseph_1672): an earlier edition of the same collected works; the 1677 edition is shelved",
+  "mede-other": "Latin works (Clavis Apocalyptica 1627 and 1632); Cooper's 1833 translation of the Clavis (translator's English, kept off a Mede shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mede-name-altar-1637": "title page read from the page image: 'By Joseph Mede B.D. and Fellow of Christs Colledge in Cambridge' (London: M.F. for John Clark, 1637; OCR garbled)",
+  "mede-reverence-gods-house-1638": "title page read from the page image: 'A Sermon preached at St. Maries in Cambridge ... By Joseph Mede B.D. and late Fellow of Christs Colledge in Cambridge' (London: M.F. for John Clark, 1638; OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mede-works-1677": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mede",
+   "identity": "ok",
+   "ia_rights": "ok: published 1677",
+   "ia_date": "1677",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mede-apostasy-1642": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mede",
+   "identity": "ok",
+   "ia_rights": "ok: published 1642",
+   "ia_date": "1642",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mede-key-revelation-1650": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mede",
+   "identity": "ok",
+   "ia_rights": "ok: published 1650",
+   "ia_date": "1650",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mede-name-altar-1637": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1637",
+   "ia_date": "1637",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mede-reverence-gods-house-1638": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1638",
+   "ia_date": "1638",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

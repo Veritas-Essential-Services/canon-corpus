@@ -13159,3 +13159,17 @@ Slugs `nevius-*`. Built from title pages read for round 67.
 | Methods of mission work (New York, Foreign mission library, 1895) | have-ocr | IA `methodsofmission00nevi` |
 | The planting and development of missionary churches (New York : Foreign mission library, 1899) | have-ocr | IA `plantingdevelopm00nevi` |
 | The Life of John Livingston Nevius (1895, by his wife Helen S. C. Nevius); his Chinese-language works | excluded | |
+
+## Joseph Mede (round 68, my pick, 2026-10-23)
+
+Slugs `mede-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Pious and Profoundly-Learned Joseph Mede, B.D. (London, 1677) | have-ocr | IA `bim_early-english-books-1641-1700_the-works-of-_mede-joseph_1677` |
+| The Apostasy of the Latter Times (London, 1642) | have-ocr | IA `bim_early-english-books-1641-1700_the-apostasy-of-the-latt_mede-joseph_1642` |
+| The Key of the Revelation, searched and demonstrated, translated by Richard More (London, 1650) | have-ocr | IA `bim_early-english-books-1641-1700_the-key-of-the-revelatio_mede-joseph_1650` |
+| The Name Altar, or Thusiasterion, anciently given to the Holy Table (London, 1637) | have-ocr | IA `bim_early-english-books-1475-1640_the-name-altar-or-_mede-joseph_1637` |
+| The Reverence of Gods House (London: M. Flesher for John Clark, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-reverence-of-gods-ho_mede-joseph_1638` |
+| The Works, 1672 printing (bim_early-english-books-1641-1700_the-vvorks-of-_mede-joseph_1672): an earlier edition of the same collected works; the 1677 edition is shelved | excluded | |
+| Latin works (Clavis Apocalyptica 1627 and 1632); Cooper's 1833 translation of the Clavis (translator's English, kept off a Mede shelf) | excluded | |
