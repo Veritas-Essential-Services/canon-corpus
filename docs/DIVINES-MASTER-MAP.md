@@ -16258,6 +16258,22 @@ Slugs `herridge-*`. Built from title pages read for round 100.
 | French and English in Canada and across the sea : a sermon (Ottawa : Canadian Printing, 1917) | have-ocr | IA `frenchenglishinc00herr` |
 | Appel aux armes (French translation of The Call of the War) | excluded | |
 | Recollections of Father Dawson (by Henry Morgan, with part of a sermon) | excluded | |
+
+## W. B. Riley (round 100, my pick, 2026-10-23)
+
+Slugs `riley-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The finality of the higher criticism; OR, The theory of evolution and false theology ([Minneapolis?, c190) | have-ocr | IA `finalityofhigher00rileiala` |
+| The perennial revival : a plea for evangelism (Chicago : American Baptist Publication Society, 1916) | have-ocr | IA `perennialrevival0000rile` |
+| Christ the incomparable (New York : Fleming H. Revell Co., 1924) | have-ocr | IA `christincomparab00rile` |
+| The Bible of the expositor and the evangelist : New Testament (Cleveland, O. : Union Gospel Press, 1925) | have-ocr | IA `bibleofexpositor00rile` |
+| Inspiration or evolution (catalogued 1926) | have-ocr | IA `inspirationorevo0000wbri` |
+| The Bible of the expositor and the evangelist : Old Testament, vol. 2 (Cleveland, O. : Union Gospel Press, 1926) | have-ocr | IA `bibleofexpositor02rile_0` |
+| The bible of the expositor and the evangelist, vol. 9 (catalogued 1927) | have-ocr | IA `bibleofexpositor0009wbri` |
+| The Bible of the Expositor and teh Evangelist, vol. 10 (Union Gospel Press, 1929) | have-ocr | IA `bibleofexpositor0010wbri` |
+| Windyridge (a novel by the English writer Willie Riley) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
