@@ -1,0 +1,59 @@
+{
+ "_about": "Maxime Collignon (1849-1917), French archaeologist, in English translation: A Manual of Greek Archaeology (tr. John Henry Wright, 1886) and Manual of Mythology in Relation to Greek Art (tr. Jane E. Harrison, 1890; 1899 printing).",
+ "_author": "Maxime Collignon (1849-1917)",
+ "_name_words": [
+  "collignon",
+  "greek",
+  "archaeology",
+  "mythology",
+  "art"
+ ],
+ "_surname": [
+  "collignon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "collignon-greek-archaeology-1886": [
+   "manualofgreekarc00coll",
+   "A Manual of Greek Archaeology (1886), tr. John Henry Wright"
+  ],
+  "collignon-mythology-greek-art-1899": [
+   "manualofmytholog00colluoft",
+   "Manual of Mythology in Relation to Greek Art (1899 printing), tr. Jane E. Harrison"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "collignon-greek-archaeology-1886": "John Henry Wright",
+  "collignon-mythology-greek-art-1899": "Jane E. Harrison"
+ },
+ "_checks": {
+  "collignon-greek-archaeology-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "collignon",
+   "translator_claimed": "John Henry Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "collignon-mythology-greek-art-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "collignon",
+   "translator_claimed": "Jane E. Harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

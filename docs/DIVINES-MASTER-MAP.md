@@ -18462,6 +18462,16 @@ Shelf: `pipeline/alfred-gudeman_shelf.json`. Outlines of the History of Classica
 |---|---|---|---|
 | Outlines of the History of Classical Philology (3rd ed., Boston, 1902) |  | `gudeman-outlines-classical-philology-1902` | have-raw (IA `outlinesofhistor00gude`) |
 
+
+## Maxime Collignon (1849-1917)
+
+Shelf: `pipeline/maxime-collignon_shelf.json`. Greek archaeology and mythology in art, English translations. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Manual of Greek Archaeology (1886), tr. John Henry Wright |  | `collignon-greek-archaeology-1886` | have-raw (IA `manualofgreekarc00coll`) |
+| Manual of Mythology in Relation to Greek Art (1899 printing), tr. Jane E. Harrison |  | `collignon-mythology-greek-art-1899` | have-raw (IA `manualofmytholog00colluoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
