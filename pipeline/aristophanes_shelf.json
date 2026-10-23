@@ -1,5 +1,5 @@
 {
- "_about": "Aristophanes in English, translator per title. Complete: The Eleven Comedies, 'now for the first time literally and completely translated' (anonymous, The Athenian Society, 1912), 2 vols. Single plays: W. J. Hickie's prose Clouds (Bohn), B. B. Rogers's verse Frogs, Jack Lindsay's Lysistrata (1926; Gutenberg treats it as US public domain; Lindsay d. 1990, so not PD in life+70 countries). PG 3012, 2571 and 3013 were checked by 8-word shingle overlap (0.85-0.87) and are the Athenian Society translation split out, so they are excluded as duplicates. Added 2026-10-03, raw IA OCR: B. D. Walsh's Acharnians, Knights and Clouds (Bohn, 1848); the 1812 Valpy Comedies (Clouds, Plutus, Frogs, Birds; the volume names Cumberland and Dunster, the rest unnamed); an anonymous Oxford literal Plutus and Frogs (Talboys, 1822); and the Acharnians in verse by C. J. Billson (1882) and R. Y. Tyrrell (1883). Added 2026-10-03 (later), raw IA OCR from Google scans: Thomas Mitchell's Comedies vol. I (London, 1820), completing his set with vol. II above; and W. J. Hickie's Bohn vol. II (title page MDCCCLIII, 1853; IA's record says 1822, which is wrong), completing aristophanes-hickie-1887-v1 with the five later plays.",
+ "_about": "Aristophanes in English, translator per title. Complete: The Eleven Comedies, 'now for the first time literally and completely translated' (anonymous, The Athenian Society, 1912), 2 vols. Single plays: W. J. Hickie's prose Clouds (Bohn), B. B. Rogers's verse Frogs, Jack Lindsay's Lysistrata (1926; Gutenberg treats it as US public domain; Lindsay d. 1990, so not PD in life+70 countries). PG 3012, 2571 and 3013 were checked by 8-word shingle overlap (0.85-0.87) and are the Athenian Society translation split out, so they are excluded as duplicates. Added 2026-10-03, raw IA OCR: B. D. Walsh's Acharnians, Knights and Clouds (Bohn, 1848); the 1812 Valpy Comedies (Clouds, Plutus, Frogs, Birds; the volume names Cumberland and Dunster, the rest unnamed); an anonymous Oxford literal Plutus and Frogs (Talboys, 1822); and the Acharnians in verse by C. J. Billson (1882) and R. Y. Tyrrell (1883). Added 2026-10-03 (later), raw IA OCR from Google scans: Thomas Mitchell's Comedies vol. I (London, 1820), completing his set with vol. II above; and W. J. Hickie's Bohn vol. II (title page MDCCCLIII, 1853; IA's record says 1822, which is wrong), completing aristophanes-hickie-1887-v1 with the five later plays. B. B. Rogers's Bell editions, Greek facing: the Clouds (1852, his first version), Peace (1913) and Birds (1906), filling the Loeb vol. II gap; and his free Lysistrata, The Revolt of the Women (1878), raw IA.",
  "_name_words": [
   "aristophanes",
   "comedies",
@@ -107,13 +107,29 @@
   "aristophanes-rogers-loeb-v3": [
    "aristophaneswith03arisuoft",
    "Aristophanes, with the English translation of B. B. Rogers, vol. III (Loeb, 1924; this copy a reprint of 1927-46, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aristophanes-rogers-clouds-1852": [
+   "cu31924026466403",
+   "The Clouds of Aristophanes, the Greek text with a translation into corresponding metres, and original notes (Oxford: Francis Macpherson; London: Pickering and Bell, MDCCCLII; title page anonymous, Benjamin Bickley Rogers by the Cornell catalogue; his first Clouds, before the 1916 revision); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aristophanes-rogers-peace-1913": [
+   "cu31924096977875",
+   "The Peace of Aristophanes, the Greek text revised, with a translation into corresponding metres, introduction and commentary (London: G. Bell and Sons, 1913); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aristophanes-rogers-birds-1906": [
+   "cu31924026465751",
+   "The Birds of Aristophanes, the Greek text revised, with a translation into corresponding metres, introduction and commentary (London: George Bell and Sons, 1906); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aristophanes-rogers-revolt-of-the-women-1878": [
+   "revoltofwomen00aris",
+   "The Revolt of the Women, a free translation of the Lysistrata of Aristophanes (London: George Bell and Sons; preface dated April 1878), the bare translation without text"
   ]
  },
  "_excluded": {
   "pg3012": "The Acharnians: the Athenian Society translation (shingle overlap 0.87 with PG 8688)",
   "pg2571": "Peace: the Athenian Society translation (0.87 with PG 8688)",
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
-  "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "Rogers's translation now held from the 1924 Loeb, vols. I and III (aristophanes-rogers-loeb-*); vol. II (Peace, Birds, Frogs) is on Internet Archive only as lending copies, and The Frogs is held clean from Gutenberg",
+  "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "Rogers's translation is held from the 1924 Loeb, vols. I and III (aristophanes-rogers-loeb-*). Vol. II (Peace, Birds, Frogs) is on Internet Archive only as lending copies, so Peace and Birds are now held from the Bell editions (1913, 1906) and the Frogs is held clean from Gutenberg. The other Bell editions (Wasps 1875, Plutus 1907, Ecclesiazusae 1917, Lysistrata and Thesmophoriazusae 1911, Frogs 1919) were scanned cleanly but not added: their translation duplicates the Loeb, and their extra matter is Greek text and commentary. Add them if the commentary is wanted.",
   "J. Hookham Frere (1840)": "three of the four plays held from the Morley volume (aristophanes-frere-morley, 1887); the fourth, the Frogs, is now held from Everyman vol. II (aristophanes-frere-frogs-everyman-1911)"
  },
  "_surname": [
@@ -136,12 +152,16 @@
   "aristophanes-hickie-1853-v2": "Hickie",
   "aristophanes-frere-frogs-everyman-1911": "j. hookham frere",
   "aristophanes-rogers-loeb-v1": "Benjamin Bickley Rogers",
-  "aristophanes-rogers-loeb-v3": "Benjamin Bickley Rogers"
+  "aristophanes-rogers-loeb-v3": "Benjamin Bickley Rogers",
+  "aristophanes-rogers-peace-1913": "Benjamin Bickley Rogers",
+  "aristophanes-rogers-birds-1906": "Benjamin Bickley Rogers",
+  "aristophanes-rogers-revolt-of-the-women-1878": "Benjamin Bickley Rogers"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
   "aristophanes-athenian-v2": "no single translator to check: anonymous (The Athenian Society, 1912)",
-  "aristophanes-talboys-plutus-frogs-1822": "the title page names no translator: an anonymous Oxford literal prose version"
+  "aristophanes-talboys-plutus-frogs-1822": "the title page names no translator: an anonymous Oxford literal prose version",
+  "aristophanes-rogers-clouds-1852": "title page names no translator (read in the OCR 2026-10-23); Benjamin Bickley Rogers by the Cornell catalogue"
  },
  "_checks": {
   "aristophanes-athenian-v1": {
@@ -389,6 +409,56 @@
    "ia_rights": "ok: published 1924",
    "ia_date": "1924",
    "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "aristophanes-rogers-clouds-1852": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristophanes-rogers-peace-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Bickley Rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristophanes-rogers-birds-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Bickley Rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristophanes-rogers-revolt-of-the-women-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Bickley Rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
