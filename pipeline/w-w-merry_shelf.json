@@ -1,0 +1,36 @@
+{
+ "_about": "W. W. Merry (1835-1918), Rector of Lincoln College, Oxford: Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., with James Riddell (1823-1866), second edition revised (Oxford: Clarendon Press, 1886), raw IA; Greek text with English commentary, kept per Adam's 2026-10-23 ruling. Its companion volume, Books XIII-XXIV by D. B. Monro (1901), is on the monro shelf.",
+ "_author": "William Walter Merry (1835-1918)",
+ "_name_words": [
+  "merry",
+  "odyssey",
+  "homer"
+ ],
+ "_surname": [
+  "w. walter merry",
+  "w. w. merry",
+  "merry, w. w"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-w-merry-odyssey-i-xii-1886": [
+   "odysseyho01home",
+   "Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., by W. Walter Merry and James Riddell, second edition revised (Oxford: Clarendon Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-w-merry-odyssey-i-xii-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. walter merry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
