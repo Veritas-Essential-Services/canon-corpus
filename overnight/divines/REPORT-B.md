@@ -1440,3 +1440,8 @@
 - victor-duruy 16: A History of Greece and of the Greek People (Boston, 1892; 4 vols. in 8 sections, complete) and History of Rome and of the Roman People (Boston, 1883; vols. I-III, IV section I, V-VIII). Each section identified from its title page, because IA's volume fields are inconsistent.
 - Gap: Rome vol. IV section II. The only Boston scan has no text layer, and the London (Kelly) edition divides its parts differently (its IV.2 covers Nero to Trajan), so it cannot stand in. Recorded under _excluded.
 - The Greece scans never name the translator, so no translator is claimed for them. Rome vols. III and VI print the surname 'pURUY' in OCR; title pages read and recorded under _identity_checked.
+
+## 2026-10-23 — Round cz: the rest of the sweep list
+- New shelves: charles-seignobos 1 (Ancient Civilization, tr. Wilde), martinengo-cesaresco 1, ernest-g-sihler 4 (1908-1923), roy-c-flickinger 2, ph-e-legrand 1 (New Greek Comedy, tr. James Loeb), emanuel-loewy 1 (tr. Fothergill), j-h-huddilston 3, ettore-pais 2 (tr. Cosenza; tr. Curtis).
+- Title pages read: Flickinger's 1904 dissertation (the OCR reads the signature as 'Pliokinger'); Pais's Ancient Italy names its translator as '[C.] Densmore Curtis'.
+- Skipped: Perrot and Chipiez's History of Art. Lane C's walter-armstrong shelf holds the Egypt and Assyria volumes, and the remaining volumes are translator work for lane C. Also skipped: Powell and Barber's New Chapters (many authors) and Greswell's calendars (mostly tables).

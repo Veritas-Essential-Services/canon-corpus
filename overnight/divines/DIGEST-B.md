@@ -294,3 +294,4 @@
 - 10/23 round cw: unheld Gutenberg classics: Hodgkin 11 (Italy and her Invaders complete), Tenney Frank 6, Dunlop 3, St. John 3, ACER +3 clean PG; ACER Ovid fetch fixed. Notes left for lanes C and D (Symonds's Greek Poets; Church, Jennie Hall).
 - 10/23 round cx: IA subject sweep, 11 new scholar shelves, 31 works (Finlay complete 7 vols, Gildersleeve, Teuffel, Simcox, Bussell, Norwood, Stobart, Capps, Collignon, Croiset, Gudeman). Next: Duruy's Greece and Rome.
 - 10/23 round cy: Duruy 16 sections (Greece complete; Rome less vol. IV section II, which has no usable scan).
+- 10/23 round cz: 8 more scholar shelves, 15 works (Sihler 4, Huddilston 3, Flickinger 2, Pais 2, Seignobos, Martinengo-Cesaresco, Legrand, Loewy).
