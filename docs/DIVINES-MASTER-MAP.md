@@ -10967,6 +10967,16 @@ Slugs `bengel-*`. Built from title pages read for round 48.
 | Gnomon of the New Testament, vol. 5 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350531` |
 | The 1857-1859 first printing (gnomonofthenewte01benguoft etc.) and the American Lewis and Vincent translation (1860-1864, 1873) | alternate | not shelved |
 | The Latin Gnomon (Tübingen 1850); Blackley's Critical English Testament (1873, an adaptation by others); Burk's Memoir of Bengel (a life by another) | excluded | |
+
+## Carl August Auberlen (round 48, my pick, 2026-10-23)
+
+Slugs `auberlen-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The divine revelation : an essay in defence of the faith (Edinburgh, T. and T. Clark, 1867) | have-ocr | IA `divinerevelation00aube` |
+| The Prophecies of Daniel and the Revelation of St John (1856): its scan propheciesofdani00aube is already held on another branch, so not taken here | pending | not shelved |
+| The Foundations of our Faith (1863, ten papers by several authors); German works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
