@@ -18472,6 +18472,17 @@ Shelf: `pipeline/maxime-collignon_shelf.json`. Greek archaeology and mythology i
 | A Manual of Greek Archaeology (1886), tr. John Henry Wright |  | `collignon-greek-archaeology-1886` | have-raw (IA `manualofgreekarc00coll`) |
 | Manual of Mythology in Relation to Greek Art (1899 printing), tr. Jane E. Harrison |  | `collignon-mythology-greek-art-1899` | have-raw (IA `manualofmytholog00colluoft`) |
 
+
+## Basil L. Gildersleeve (1831-1924)
+
+Shelf: `pipeline/gildersleeve_shelf.json`. Essays, lectures and the Syntax of Classical Greek. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Essays and Studies, Educational and Literary (1890) |  | `gildersleeve-essays-studies-1890` | have-raw (IA `essaysstudiesedu00gild`) |
+| Hellas and Hesperia, or The Vitality of Greek Studies in America (1909) |  | `gildersleeve-hellas-hesperia-1909` | have-raw (IA `cu31924021600295`) |
+| Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller |  | `gildersleeve-syntax-classical-greek-1900` | have-raw (IA `syntaxclassical00millgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

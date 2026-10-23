@@ -1,0 +1,68 @@
+{
+ "_about": "Basil L. Gildersleeve (1831-1924), Johns Hopkins Hellenist: essays, lectures and his Syntax of Classical Greek (with C. W. E. Miller, part I, 1900). His school Latin grammar and readers, and The Creed of the Old South, are not taken.",
+ "_author": "Basil Lanneau Gildersleeve (1831-1924)",
+ "_name_words": [
+  "gildersleeve",
+  "essays",
+  "studies",
+  "hellas",
+  "hesperia",
+  "syntax",
+  "greek"
+ ],
+ "_surname": [
+  "gildersleeve"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gildersleeve-essays-studies-1890": [
+   "essaysstudiesedu00gild",
+   "Essays and Studies, Educational and Literary (1890)"
+  ],
+  "gildersleeve-hellas-hesperia-1909": [
+   "cu31924021600295",
+   "Hellas and Hesperia, or The Vitality of Greek Studies in America (1909)"
+  ],
+  "gildersleeve-syntax-classical-greek-1900": [
+   "syntaxclassical00millgoog",
+   "Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gildersleeve-essays-studies-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gildersleeve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gildersleeve-hellas-hesperia-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gildersleeve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gildersleeve-syntax-classical-greek-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gildersleeve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
