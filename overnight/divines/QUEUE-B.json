@@ -1948,6 +1948,14 @@
    "started": "2026-10-22T22:35:19-05:00",
    "finished": "2026-10-22T22:35:19-05:00",
    "notes": "5 new shelves, 46 works"
+  },
+  {
+   "id": "2026-10-23cs",
+   "status": "done",
+   "scope": "Perseus clean witnesses for translations held only as raw OCR, plus Brownson's Xenophon",
+   "started": "2026-10-22T23:25:00-05:00",
+   "finished": "2026-10-22T23:26:43-05:00",
+   "notes": "143 Perseus TEI texts on 11 shelves; 18 are Perseus-modernized (Jebb, Coleridge), kept on the Godley/Smyth precedent"
   }
  ]
 }

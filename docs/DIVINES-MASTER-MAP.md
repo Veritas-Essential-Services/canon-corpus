@@ -9967,6 +9967,26 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
 | The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
+| Alcestis | Edward P. Coleridge | `euripides-perseus-coleridge-alcestis` | have (Perseus TEI `tlg0006.tlg002.perseus-eng2`) |
+| Andromache | Edward P. Coleridge | `euripides-perseus-coleridge-andromache` | have (Perseus TEI `tlg0006.tlg006.perseus-eng2`) |
+| The Cyclops | Edward P. Coleridge | `euripides-perseus-coleridge-the-cyclops` | have (Perseus TEI `tlg0006.tlg001.perseus-eng2`) |
+| Heracleidae | Edward P. Coleridge | `euripides-perseus-coleridge-heracleidae` | have (Perseus TEI `tlg0006.tlg004.perseus-eng2`) |
+| Hippolytus | Edward P. Coleridge | `euripides-perseus-coleridge-hippolytus` | have (Perseus TEI `tlg0006.tlg005.perseus-eng2`) |
+| Ion | Edward P. Coleridge | `euripides-perseus-coleridge-ion` | have (Perseus TEI `tlg0006.tlg010.perseus-eng2`) |
+| Medea | Edward P. Coleridge | `euripides-perseus-coleridge-medea` | have (Perseus TEI `tlg0006.tlg003.perseus-eng2`) |
+| Rhesus | Gilbert Murray | `euripides-perseus-murray-rhesus` | have (Perseus TEI `tlg0006.tlg019.perseus-eng4`) |
+| The Suppliants | Edward P. Coleridge | `euripides-perseus-coleridge-the-suppliants` | have (Perseus TEI `tlg0006.tlg008.perseus-eng2`) |
+| The Bacchae | Theodore Alois Buckley | `euripides-perseus-buckley-the-bacchae-modernized` | have (Perseus TEI `tlg0006.tlg017.perseus-eng2`, modernized) |
+| Electra | Edward P. Coleridge | `euripides-perseus-coleridge-electra-modernized` | have (Perseus TEI `tlg0006.tlg012.perseus-eng2`, modernized) |
+| Hecuba | Edward P. Coleridge | `euripides-perseus-coleridge-hecuba-modernized` | have (Perseus TEI `tlg0006.tlg007.perseus-eng2`, modernized) |
+| Helen | Edward P. Coleridge | `euripides-perseus-coleridge-helen-modernized` | have (Perseus TEI `tlg0006.tlg014.perseus-eng2`, modernized) |
+| Heracles Mad | Edward P. Coleridge | `euripides-perseus-coleridge-heracles-mad-modernized` | have (Perseus TEI `tlg0006.tlg009.perseus-eng2`, modernized) |
+| Iphigenia at Aulis | Edward P. Coleridge | `euripides-perseus-coleridge-iphigenia-at-aulis-modernized` | have (Perseus TEI `tlg0006.tlg018.perseus-eng2`, modernized) |
+| Iphigenia Among the Tauri | Edward P. Coleridge | `euripides-perseus-coleridge-iphigenia-among-the-tauri-modernized` | have (Perseus TEI `tlg0006.tlg013.perseus-eng2`, modernized) |
+| Orestes | Edward P. Coleridge | `euripides-perseus-coleridge-orestes-modernized` | have (Perseus TEI `tlg0006.tlg016.perseus-eng2`, modernized) |
+| Rhesus | Edward P. Coleridge | `euripides-perseus-coleridge-rhesus-modernized` | have (Perseus TEI `tlg0006.tlg019.perseus-eng3`, modernized) |
+| The Phoenician Maidens | Edward P. Coleridge | `euripides-perseus-coleridge-the-phoenician-maidens-modernized` | have (Perseus TEI `tlg0006.tlg015.perseus-eng2`, modernized) |
+| The Trojan Women | Edward P. Coleridge | `euripides-perseus-coleridge-the-trojan-women-modernized` | have (Perseus TEI `tlg0006.tlg011.perseus-eng2`, modernized) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -10009,6 +10029,13 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
 | The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
 | The Tragedies of Sophocles, translated from the Greek (a new edition, 1818) | George Adams | `sophocles-george-adams-1818` | have-raw (IA `tragediesofso00soph`) |
+| Ajax | Richard Claverhouse Jebb | `sophocles-perseus-jebb-ajax-modernized` | have (Perseus TEI `tlg0011.tlg003.perseus-eng2`, modernized) |
+| Antigone | Richard Claverhouse Jebb | `sophocles-perseus-jebb-antigone-modernized` | have (Perseus TEI `tlg0011.tlg002.perseus-eng2`, modernized) |
+| Electra | Richard Claverhouse Jebb | `sophocles-perseus-jebb-electra-modernized` | have (Perseus TEI `tlg0011.tlg005.perseus-eng2`, modernized) |
+| Oedipus Tyrannus | Richard Claverhouse Jebb | `sophocles-perseus-jebb-oedipus-tyrannus-modernized` | have (Perseus TEI `tlg0011.tlg004.perseus-eng2`, modernized) |
+| Oedipus at Colonus | Richard Claverhouse Jebb | `sophocles-perseus-jebb-oedipus-at-colonus-modernized` | have (Perseus TEI `tlg0011.tlg007.perseus-eng2`, modernized) |
+| Philoctetes | Richard Claverhouse Jebb | `sophocles-perseus-jebb-philoctetes-modernized` | have (Perseus TEI `tlg0011.tlg006.perseus-eng2`, modernized) |
+| Trachiniae | Richard Claverhouse Jebb | `sophocles-perseus-jebb-trachiniae-modernized` | have (Perseus TEI `tlg0011.tlg001.perseus-eng3`, modernized) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -10133,6 +10160,8 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | On Hunting | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-hunting` | have (Perseus TEI `tlg0032.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Minor Works of Xenophon: Memoirs of Socrates, The Banquet, Hiero, Economics, translated from the Greek by several hands (London: Walker and others, 1813) | several hands: the Banquet by James Welwood, the Economics by R. Bradley; the Memoirs and Hiero unnamed in the volume | `xenophon-several-hands-minor-works-1813` | have-raw (IA `minorworksofxeno00xenouoft`) |
 | Cyropaedia | Walter Miller (Loeb 1914) | `xenophon-perseus-miller-cyropaedia` | have (Perseus TEI `tlg0032.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Anabasis | Carleton L. Brownson | `xenophon-perseus-brownson-anabasis` | have (Perseus TEI `tlg0032.tlg006.perseus-eng2`) |
+| Hellenica | Carleton L. Brownson | `xenophon-perseus-brownson-hellenica` | have (Perseus TEI `tlg0032.tlg001.perseus-eng2`) |
 
 Pending (wishlist): none here. Marchant's and Todd's Loebs (1923-25) are held above as Perseus TEI; Brownson's Hellenica and Anabasis and Miller's Cyropaedia are on PR #7 as Perseus TEI.
 
@@ -10411,6 +10440,12 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI) | George Stanhope | `epictetus-stanhope-simplicius-1741` | have-raw (IA `bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741`) |
+| Arrian's Discourses of Epictetus | George Long | `epictetus-perseus-long-arrian-s-discourses-of-epictetus` | have (Perseus TEI `tlg0557.tlg001.perseus-eng3`) |
+| The Discourses of Epictetus | Thomas Wentworth Higginson | `epictetus-perseus-higginson-the-discourses-of-epictetus` | have (Perseus TEI `tlg0557.tlg001.perseus-eng4`) |
+| Fragments | George Long | `epictetus-perseus-long-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng3`) |
+| Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng4`) |
+| The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | have (Perseus TEI `tlg0557.tlg002.perseus-eng3`) |
+| The Enchiridion | Thomas Wentworth Higginson | `epictetus-perseus-higginson-the-enchiridion` | have (Perseus TEI `tlg0557.tlg002.perseus-eng4`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
@@ -10509,6 +10544,8 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | The Eyght Bookes of Caius Julius Caesar, conteyning his Martiall Exploytes in the Realme of Gallia (London, Willyam Seres, 1565) | Arthur Golding | `caesar-golding-1565` | have-raw (IA `bim_early-english-books-1475-1640_the-eyght-bookes-of-caiu_caesar-caino-julius_1565`) |
 | The Commentaries of Caesar, translated into English, with a discourse concerning the Roman art of war (1753; Philadelphia stereotype, 1837) | William Duncan | `caesar-duncan-1837` | have-raw (IA `commentariesofc00caes`) |
 | Caesar's Commentaries on the Gallic War, translated into English (London: Macmillan, 1908) | T. Rice Holmes | `caesar-holmes-gallic-war-1908` | have-raw (IA `commentariesonga00caesuoft`) |
+| The Civil Wars | Arthur George Peskett | `caesar-perseus-peskett-the-civil-wars` | have (Perseus TEI `phi0448.phi002.perseus-eng2`) |
+| Commentaries on the Civil War | William Duncan | `caesar-perseus-duncan-commentaries-on-the-civil-war` | have (Perseus TEI `phi0448.phi002.perseus-eng3`) |
 
 Pending (wishlist): none known (Golding's Caesar, 1565, is held above).
 
@@ -10644,6 +10681,8 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
 | The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
 | The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
+| The Art of Poetry: To the Pisos | Christopher Smart | `horace-perseus-smart-the-art-of-poetry-to-the-pisos` | have (Perseus TEI `phi0893.phi006.perseus-eng2`) |
+| Satires | Christopher Smart | `horace-perseus-smart-satires` | have (Perseus TEI `phi0893.phi004.perseus-eng2`) |
 
 Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
@@ -10725,6 +10764,26 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v1` | have-raw (IA `comediesplautus02colmgoog`) |
 | Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v2` | have-raw (IA `comediesplautus01colmgoog`) |
 | The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894) | Morris Hicky Morgan | `terence-morgan-phormio-1894` | have-raw (IA `phormiotranslate00tereuoft`) |
+| Amphitryon, or Jupiter in Disguise | Henry Thomas Riley | `plautus-perseus-riley-amphitryon-or-jupiter-in-disguise` | have (Perseus TEI `phi0119.phi001.perseus-eng2`) |
+| Asinaria, or The Ass-Dealer | Henry Thomas Riley | `plautus-perseus-riley-asinaria-or-the-ass-dealer` | have (Perseus TEI `phi0119.phi002.perseus-eng2`) |
+| Aulularia, or The Concealed Treasure | Henry Thomas Riley | `plautus-perseus-riley-aulularia-or-the-concealed-treasure` | have (Perseus TEI `phi0119.phi003.perseus-eng2`) |
+| Bacchides, or The Twin Sisters | Henry Thomas Riley | `plautus-perseus-riley-bacchides-or-the-twin-sisters` | have (Perseus TEI `phi0119.phi004.perseus-eng2`) |
+| Captivi: The Captives | Henry Thomas Riley | `plautus-perseus-riley-captivi-the-captives` | have (Perseus TEI `phi0119.phi005.perseus-eng2`) |
+| Casina, or The Stratagem Defeated | Henry Thomas Riley | `plautus-perseus-riley-casina-or-the-stratagem-defeated` | have (Perseus TEI `phi0119.phi006.perseus-eng2`) |
+| Cistellaria, or The Casket | Henry Thomas Riley | `plautus-perseus-riley-cistellaria-or-the-casket` | have (Perseus TEI `phi0119.phi007.perseus-eng2`) |
+| Curculio, or The Forgery | Henry Thomas Riley | `plautus-perseus-riley-curculio-or-the-forgery` | have (Perseus TEI `phi0119.phi008.perseus-eng2`) |
+| Epidicus, or The Fortunate Discovery | Henry Thomas Riley | `plautus-perseus-riley-epidicus-or-the-fortunate-discovery` | have (Perseus TEI `phi0119.phi009.perseus-eng2`) |
+| Menaechmi, or The Twin Brothers | Henry Thomas Riley | `plautus-perseus-riley-menaechmi-or-the-twin-brothers` | have (Perseus TEI `phi0119.phi010.perseus-eng2`) |
+| Mercator, or The Merchant | Henry Thomas Riley | `plautus-perseus-riley-mercator-or-the-merchant` | have (Perseus TEI `phi0119.phi011.perseus-eng2`) |
+| Miles Gloriosus, or The Braggart Captain | Henry Thomas Riley | `plautus-perseus-riley-miles-gloriosus-or-the-braggart-captain` | have (Perseus TEI `phi0119.phi012.perseus-eng2`) |
+| Mostellaria, or The Haunted House | Henry Thomas Riley | `plautus-perseus-riley-mostellaria-or-the-haunted-house` | have (Perseus TEI `phi0119.phi013.perseus-eng2`) |
+| Persa, or The Persian | Henry Thomas Riley | `plautus-perseus-riley-persa-or-the-persian` | have (Perseus TEI `phi0119.phi014.perseus-eng2`) |
+| Poenulus, or The Young Carthaginian | Henry Thomas Riley | `plautus-perseus-riley-poenulus-or-the-young-carthaginian` | have (Perseus TEI `phi0119.phi015.perseus-eng2`) |
+| Pseudolus, or The Cheat | Henry Thomas Riley | `plautus-perseus-riley-pseudolus-or-the-cheat` | have (Perseus TEI `phi0119.phi016.perseus-eng2`) |
+| Rudens, or The Fisherman's Rope | Henry Thomas Riley | `plautus-perseus-riley-rudens-or-the-fisherman-s-rope` | have (Perseus TEI `phi0119.phi017.perseus-eng2`) |
+| Stichus, or The Parasite Rebuffed | Henry Thomas Riley | `plautus-perseus-riley-stichus-or-the-parasite-rebuffed` | have (Perseus TEI `phi0119.phi018.perseus-eng2`) |
+| Trinummus: The Three Pieces of Money | Henry Thomas Riley | `plautus-perseus-riley-trinummus-the-three-pieces-of-money` | have (Perseus TEI `phi0119.phi019.perseus-eng2`) |
+| Truculentus, or The Churl | Henry Thomas Riley | `plautus-perseus-riley-truculentus-or-the-churl` | have (Perseus TEI `phi0119.phi020.perseus-eng2`) |
 
 Pending (wishlist): Thornton's verse Plautus vols. III-V (1772-74); vols. I-II are held from the revised second edition (1769).
 
@@ -10907,6 +10966,27 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
 | Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892) | E. N. P. Moor | `cicero-moor-de-oratore-i-1892` | have-raw (IA `deoratorebook1tr00ciceuoft`) |
 | The Speech of Cicero in Defence of Cluentius, translated into English with an introduction and notes (London: Macmillan, 1895) | William Peterson | `cicero-peterson-pro-cluentio-1895` | have-raw (IA `speechindefenceo00ciceuoft`) |
+| In the Senate after his Return | Charles Duke Yonge | `cicero-perseus-yonge-in-the-senate-after-his-return` | have (Perseus TEI `phi0474.phi019.perseus-eng2`) |
+| Second Oration After Cicero's Return: Addressed to the People. | Charles Duke Yonge | `cicero-perseus-yonge-second-oration-after-cicero-s-return-addressed-to-the-people` | have (Perseus TEI `phi0474.phi018.perseus-eng2`) |
+| Laelius on Friendship | William Armistead Falconer | `cicero-perseus-falconer-laelius-on-friendship` | have (Perseus TEI `phi0474.phi052.perseus-eng2`) |
+| In Defense of the Proposed Manilian Law | Charles Duke Yonge | `cicero-perseus-yonge-in-defense-of-the-proposed-manilian-law` | have (Perseus TEI `phi0474.phi009.perseus-eng2`) |
+| On the Agrarian Law | Charles Duke Yonge | `cicero-perseus-yonge-on-the-agrarian-law` | have (Perseus TEI `phi0474.phi011.perseus-eng2`) |
+| Divinatio against Q. Caecilius | Charles Duke Yonge | `cicero-perseus-yonge-divinatio-against-q-caecilius` | have (Perseus TEI `phi0474.phi004.perseus-eng2`) |
+| Against Verres | Charles Duke Yonge | `cicero-perseus-yonge-against-verres` | have (Perseus TEI `phi0474.phi005.perseus-eng2`) |
+| Against L. Catiline | Charles Duke Yonge | `cicero-perseus-yonge-against-l-catiline` | have (Perseus TEI `phi0474.phi013.perseus-eng2`) |
+| Philippics | Charles Duke Yonge | `cicero-perseus-yonge-philippics` | have (Perseus TEI `phi0474.phi035.perseus-eng1`) |
+| For Aulus Caecina | Charles Duke Yonge | `cicero-perseus-yonge-for-aulus-caecina` | have (Perseus TEI `phi0474.phi008.perseus-eng2`) |
+| For A. Cluentius | Charles Duke Yonge | `cicero-perseus-yonge-for-a-cluentius` | have (Perseus TEI `phi0474.phi010.perseus-eng2`) |
+| For A.L. Archias | Charles Duke Yonge | `cicero-perseus-yonge-for-a-l-archias` | have (Perseus TEI `phi0474.phi016.perseus-eng2`) |
+| For C. Rabirius | Charles Duke Yonge | `cicero-perseus-yonge-for-c-rabirius` | have (Perseus TEI `phi0474.phi012.perseus-eng3`) |
+| For M. Fonteius | Charles Duke Yonge | `cicero-perseus-yonge-for-m-fonteius` | have (Perseus TEI `phi0474.phi007.perseus-eng2`) |
+| For L. Flaccus | Charles Duke Yonge | `cicero-perseus-yonge-for-l-flaccus` | have (Perseus TEI `phi0474.phi017.perseus-eng2`) |
+| For L. Murena | Charles Duke Yonge | `cicero-perseus-yonge-for-l-murena` | have (Perseus TEI `phi0474.phi014.perseus-eng2`) |
+| For M. Tullius | Charles Duke Yonge | `cicero-perseus-yonge-for-m-tullius` | have (Perseus TEI `phi0474.phi006.perseus-eng2`) |
+| For Publius Quinctius | Charles Duke Yonge | `cicero-perseus-yonge-for-publius-quinctius` | have (Perseus TEI `phi0474.phi001.perseus-eng2`) |
+| For P. Sulla | Charles Duke Yonge | `cicero-perseus-yonge-for-p-sulla` | have (Perseus TEI `phi0474.phi015.perseus-eng2`) |
+| For Quintus Roscius the Actor | Charles Duke Yonge | `cicero-perseus-yonge-for-quintus-roscius-the-actor` | have (Perseus TEI `phi0474.phi003.perseus-eng2`) |
+| For Sextus Roscius of Ameria | Charles Duke Yonge | `cicero-perseus-yonge-for-sextus-roscius-of-ameria` | have (Perseus TEI `phi0474.phi002.perseus-eng2`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -11249,6 +11329,21 @@ Shelf: `pipeline/appian_shelf.json`. Horace White 1899 (IA, 0.90-0.92).
 |---|---|---|---|
 | The Roman History of Appian of Alexandria, vol. 1: The Foreign Wars (1899) | Horace White | `appian-white-v1` | have-raw (IA `romanhistoryapp03whitgoog`) |
 | The Roman History of Appian of Alexandria, vol. 2: The Civil Wars (1899) | Horace White | `appian-white-v2` | have-raw (IA `romanhistoryapp02whitgoog`) |
+| The Roman History: The Civil Wars | Horace White | `appian-perseus-white-the-roman-history-the-civil-wars` | have (Perseus TEI `tlg0551.tlg017.perseus-eng2`) |
+| The Roman History: The Gallic History | Horace White | `appian-perseus-white-the-roman-history-the-gallic-history` | have (Perseus TEI `tlg0551.tlg005.perseus-eng2`) |
+| The Roman History: The Hannibalic War | Horace White | `appian-perseus-white-the-roman-history-the-hannibalic-war` | have (Perseus TEI `tlg0551.tlg008.perseus-eng2`) |
+| The Roman History: The Illyrian Wars | Horace White | `appian-perseus-white-the-roman-history-the-illyrian-wars` | have (Perseus TEI `tlg0551.tlg012.perseus-eng2`) |
+| The Roman History: Concerning Italy | Horace White | `appian-perseus-white-the-roman-history-concerning-italy` | have (Perseus TEI `tlg0551.tlg003.perseus-eng2`) |
+| The Roman History: Concerning the Kings | Horace White | `appian-perseus-white-the-roman-history-concerning-the-kings` | have (Perseus TEI `tlg0551.tlg002.perseus-eng2`) |
+| The Roman History: Macedonian Affairs | Horace White | `appian-perseus-white-the-roman-history-macedonian-affairs` | have (Perseus TEI `tlg0551.tlg011.perseus-eng2`) |
+| The Roman History: The Mithridatic Wars | Horace White | `appian-perseus-white-the-roman-history-the-mithridatic-wars` | have (Perseus TEI `tlg0551.tlg014.perseus-eng2`) |
+| The Roman History: Numidian Affairs | Horace White | `appian-perseus-white-the-roman-history-numidian-affairs` | have (Perseus TEI `tlg0551.tlg010.perseus-eng2`) |
+| The Roman History: Author's Preface | Horace White | `appian-perseus-white-the-roman-history-author-s-preface` | have (Perseus TEI `tlg0551.tlg001.perseus-eng2`) |
+| The Roman History: The Punic Wars | Horace White | `appian-perseus-white-the-roman-history-the-punic-wars` | have (Perseus TEI `tlg0551.tlg009.perseus-eng2`) |
+| The Roman History: The Samnite History | Horace White | `appian-perseus-white-the-roman-history-the-samnite-history` | have (Perseus TEI `tlg0551.tlg004.perseus-eng2`) |
+| The Roman History: Of Sicily and the Other Islands | Horace White | `appian-perseus-white-the-roman-history-of-sicily-and-the-other-islands` | have (Perseus TEI `tlg0551.tlg006.perseus-eng2`) |
+| The Roman History: The Syrian Wars | Horace White | `appian-perseus-white-the-roman-history-the-syrian-wars` | have (Perseus TEI `tlg0551.tlg013.perseus-eng2`) |
+| The Roman History: The Wars in Spain | Horace White | `appian-perseus-white-the-roman-history-the-wars-in-spain` | have (Perseus TEI `tlg0551.tlg007.perseus-eng2`) |
 
 ## Diodorus Siculus
 
@@ -11372,6 +11467,23 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 | Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Epidemics I and III | W. H. S. Jones (Loeb, 1923) | `hippocrates-perseus-jones-epidemics-1-3` | have (Perseus TEI `tlg0627.tlg006.perseus-eng4`; markup CC BY-SA 4.0) |
+| Aphorisms | Francis Adams | `hippocrates-perseus-adams-aphorisms` | have (Perseus TEI `tlg0627.tlg012.perseus-eng2`) |
+| Airs, Waters, and Places | Francis Adams | `hippocrates-perseus-adams-airs-waters-and-places` | have (Perseus TEI `tlg0627.tlg002.perseus-eng3`) |
+| On the Articulations | Francis Adams | `hippocrates-perseus-adams-on-the-articulations` | have (Perseus TEI `tlg0627.tlg010.perseus-eng2`) |
+| On Injuries of the Head | Francis Adams | `hippocrates-perseus-adams-on-injuries-of-the-head` | have (Perseus TEI `tlg0627.tlg007.perseus-eng2`) |
+| On Regimen in Acute Diseases | Francis Adams | `hippocrates-perseus-adams-on-regimen-in-acute-diseases` | have (Perseus TEI `tlg0627.tlg004.perseus-eng2`) |
+| On Fistulae | Francis Adams | `hippocrates-perseus-adams-on-fistulae` | have (Perseus TEI `tlg0627.tlg030.perseus-eng2`) |
+| On Fractures | Francis Adams | `hippocrates-perseus-adams-on-fractures` | have (Perseus TEI `tlg0627.tlg009.perseus-eng2`) |
+| On Hemorrhoids | Francis Adams | `hippocrates-perseus-adams-on-hemorrhoids` | have (Perseus TEI `tlg0627.tlg029.perseus-eng2`) |
+| On the Sacred Disease | Francis Adams | `hippocrates-perseus-adams-on-the-sacred-disease` | have (Perseus TEI `tlg0627.tlg027.perseus-eng2`) |
+| On the Surgery | Francis Adams | `hippocrates-perseus-adams-on-the-surgery` | have (Perseus TEI `tlg0627.tlg008.perseus-eng2`) |
+| On Ancient Medicine | Francis Adams | `hippocrates-perseus-adams-on-ancient-medicine` | have (Perseus TEI `tlg0627.tlg001.perseus-eng3`) |
+| On Ulcers | Francis Adams | `hippocrates-perseus-adams-on-ulcers` | have (Perseus TEI `tlg0627.tlg028.perseus-eng2`) |
+| The Epidemics | Francis Adams | `hippocrates-perseus-adams-the-epidemics` | have (Perseus TEI `tlg0627.tlg006.perseus-eng3`) |
+| The Oath | Francis Adams | `hippocrates-perseus-adams-the-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng4`) |
+| The Law | Francis Adams | `hippocrates-perseus-adams-the-law` | have (Perseus TEI `tlg0627.tlg014.perseus-eng2`) |
+| Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | have (Perseus TEI `tlg0627.tlg003.perseus-eng2`) |
+| Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | have (Perseus TEI `tlg0627.tlg011.perseus-eng2`) |
 
 Pending (wishlist): the Jones/Withington Loeb beyond the six 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
 
@@ -17665,6 +17777,37 @@ Shelf: `pipeline/philo-judaeus_shelf.json`. Yonge's Bohn translation, 4 vols., 1
 | The Works of Philo Judaeus, vol. II (Bohn, 1854) | C. D. Yonge | `philo-yonge-works-1854-v2` | have-raw (IA `worksphilojudaeu02philuoft`) |
 | The Works of Philo Judaeus, vol. III (Bohn, 1855) | C. D. Yonge | `philo-yonge-works-1855-v3` | have-raw (IA `theworksofphiloj03yonguoft`) |
 | The Works of Philo Judaeus, vol. IV (Bohn, 1855) | C. D. Yonge | `philo-yonge-works-1855-v4` | have-raw (IA `theworksofphiloj04yonguoft`) |
+| On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham | C. D. Yonge | `philo-perseus-yonge-on-the-life-of-the-wise-man-made-perfect-by-instruction-or-o` | have (Perseus TEI `tlg0018.tlg020.1st1K-eng1`) |
+| On the Incorruptibility of the World | C. D. Yonge | `philo-perseus-yonge-on-the-incorruptibility-of-the-world` | have (Perseus TEI `tlg0018.tlg029.1st1K-eng1`) |
+| On the Tilling of the Earth by Noah | C. D. Yonge | `philo-perseus-yonge-on-the-tilling-of-the-earth-by-noah` | have (Perseus TEI `tlg0018.tlg009.1st1K-eng1`) |
+| On the Cherubim; and on the Flaming Sword; and on the First-Born Child of Man, Cain | C. D. Yonge | `philo-perseus-yonge-on-the-cherubim-and-on-the-flaming-sword-and-on-the-first-bo` | have (Perseus TEI `tlg0018.tlg003.1st1K-eng1`) |
+| On the Confusion of Languages | C. D. Yonge | `philo-perseus-yonge-on-the-confusion-of-languages` | have (Perseus TEI `tlg0018.tlg013.1st1K-eng1`) |
+| On the Meeting for the sake of seeking Instruction | C. D. Yonge | `philo-perseus-yonge-on-the-meeting-for-the-sake-of-seeking-instruction` | have (Perseus TEI `tlg0018.tlg016.1st1K-eng1`) |
+| Concerning the Ten Commandments, which are the Heads of the Law | C. D. Yonge | `philo-perseus-yonge-concerning-the-ten-commandments-which-are-the-heads-of-the-l` | have (Perseus TEI `tlg0018.tlg023.1st1K-eng1`) |
+| On Drunkenness | C. D. Yonge | `philo-perseus-yonge-on-drunkenness` | have (Perseus TEI `tlg0018.tlg011.1st1K-eng1`) |
+| On Fugitives | C. D. Yonge | `philo-perseus-yonge-on-fugitives` | have (Perseus TEI `tlg0018.tlg017.1st1K-eng1`) |
+| On the Giants | C. D. Yonge | `philo-perseus-yonge-on-the-giants` | have (Perseus TEI `tlg0018.tlg007.1st1K-eng1`) |
+| On the Life of a Man occupied with Affairs of State, or on Joseph | C. D. Yonge | `philo-perseus-yonge-on-the-life-of-a-man-occupied-with-affairs-of-state-or-on-jo` | have (Perseus TEI `tlg0018.tlg021.1st1K-eng1`) |
+| On the Migration of Abraham | C. D. Yonge | `philo-perseus-yonge-on-the-migration-of-abraham` | have (Perseus TEI `tlg0018.tlg014.1st1K-eng1`) |
+| On the question why certain Names in the Holy Scriptures are changed | C. D. Yonge | `philo-perseus-yonge-on-the-question-why-certain-names-in-the-holy-scriptures-are` | have (Perseus TEI `tlg0018.tlg018.1st1K-eng1`) |
+| On the Creation of the World | C. D. Yonge | `philo-perseus-yonge-on-the-creation-of-the-world` | have (Perseus TEI `tlg0018.tlg001.1st1K-eng1`) |
+| About the Planting of Noah | C. D. Yonge | `philo-perseus-yonge-about-the-planting-of-noah` | have (Perseus TEI `tlg0018.tlg010.1st1K-eng1`) |
+| On the Posterity of Cain | C. D. Yonge | `philo-perseus-yonge-on-the-posterity-of-cain` | have (Perseus TEI `tlg0018.tlg006.1st1K-eng1`) |
+| On Rewards and Punishments | C. D. Yonge | `philo-perseus-yonge-on-rewards-and-punishments` | have (Perseus TEI `tlg0018.tlg026.1st1K-eng1`) |
+| On the Sacrifice of Abel and Cain | C. D. Yonge | `philo-perseus-yonge-on-the-sacrifice-of-abel-and-cain` | have (Perseus TEI `tlg0018.tlg004.1st1K-eng1`) |
+| On Sobriety | C. D. Yonge | `philo-perseus-yonge-on-sobriety` | have (Perseus TEI `tlg0018.tlg012.1st1K-eng1`) |
+| On the doctrine that Dreams are sent from God, Books 1-2 | C. D. Yonge | `philo-perseus-yonge-on-the-doctrine-that-dreams-are-sent-from-god-books-1-2` | have (Perseus TEI `tlg0018.tlg019.1st1K-eng1`) |
+| On the Creation of Magistrates | C. D. Yonge | `philo-perseus-yonge-on-the-creation-of-magistrates` | have (Perseus TEI `tlg0018.tlg024.1st1K-eng1`) |
+| On Three Virtues, that is to say, on Courage, Humanity, and Repentance | C. D. Yonge | `philo-perseus-yonge-on-three-virtues-that-is-to-say-on-courage-humanity-and-repe` | have (Perseus TEI `tlg0018.tlg025.1st1K-eng1`) |
+| On the Contemplative Life, or on the Virtues of Suppliants | C. D. Yonge | `philo-perseus-yonge-on-the-contemplative-life-or-on-the-virtues-of-suppliants` | have (Perseus TEI `tlg0018.tlg028.1st1K-eng1`) |
+| On the Life of Moses: Books 1-3 | C. D. Yonge | `philo-perseus-yonge-on-the-life-of-moses-books-1-3` | have (Perseus TEI `tlg0018.tlg022.1st1K-eng1`) |
+| Against Flaccus | C. D. Yonge | `philo-perseus-yonge-against-flaccus` | have (Perseus TEI `tlg0018.tlg030.1st1K-eng1`) |
+| On the Virtues and on the Office of Ambassadors. Adressed to Caius | C. D. Yonge | `philo-perseus-yonge-on-the-virtues-and-on-the-office-of-ambassadors-adressed-to` | have (Perseus TEI `tlg0018.tlg031.1st1K-eng1`) |
+| On the Allegories of the Sacred Laws | C. D. Yonge | `philo-perseus-yonge-on-the-allegories-of-the-sacred-laws` | have (Perseus TEI `tlg0018.tlg002.1st1K-eng1`) |
+| On the question, Who is the Heir of Divine Things | C. D. Yonge | `philo-perseus-yonge-on-the-question-who-is-the-heir-of-divine-things` | have (Perseus TEI `tlg0018.tlg015.1st1K-eng1`) |
+| On the Principle that the Worse is accustomed to be always plotting against the Better | C. D. Yonge | `philo-perseus-yonge-on-the-principle-that-the-worse-is-accustomed-to-be-always-p` | have (Perseus TEI `tlg0018.tlg005.1st1K-eng1`) |
+| On the Unchangeableness of God | C. D. Yonge | `philo-perseus-yonge-on-the-unchangeableness-of-god` | have (Perseus TEI `tlg0018.tlg008.1st1K-eng1`) |
+| To Prove that every Man who is virtuous is also free | C. D. Yonge | `philo-perseus-yonge-to-prove-that-every-man-who-is-virtuous-is-also-free` | have (Perseus TEI `tlg0018.tlg027.1st1K-eng1`) |
 
 ## Babrius (Greek verse fables)
 

@@ -1397,3 +1397,10 @@
 - OCR note: this session measured clean-word share with a wordfreq English lexicon over Latin-letter words only (Greek ignored); its numbers run higher than the 0.78-bar measure earlier rounds used, so they are not comparable. Counting Greek tokens as unclean, five Greek-heavy volumes fall under 0.78: Cope's Rhetoric vols. II-III (0.76, 0.66), Cook's Plato's Ethics (0.69) and Zeus II.1-2 (0.78, 0.77); their English reads 0.94-0.97. Same question as the Greek-facing Loebs (DIGEST 06:33): kept, flagged here.
 - Held: Hartland's English Fairy and Other Folk Tales (undated Scott Library scan)
 - Commits pushed to claude/project-thread-yu0x73 (draft PR into claude/armarium-divines), not to the relay branch directly.
+
+## 2026-10-23 — Round cs: clean Perseus witnesses (strategy change at Adam's prompt)
+- Adam: keep Greek-heavy scans (Greek re-OCR later); English as good as we can get it; work strategically.
+- Re-measured the Perseus census against all branches: 341 likely-PD rows still open, but most are translations already held. The value is clean text where lane B held only raw OCR.
+- Added 143 Perseus TEI texts on 11 shelves: Philo/Yonge 31, Plautus/Riley 20, Cicero/Yonge+Falconer 21, Euripides 20, Appian/White 15, Hippocrates/Adams 17, Sophocles/Jebb 7, Epictetus/Long+Higginson 6, Caesar 2, Horace/Smart 2, Xenophon/Brownson Loeb 2 (new translation). All passed fetch_perseus.py identity and rights gates; _perseus_checks recorded.
+- 18 rows are 'Modernized by Perseus' (Jebb's 7, Coleridge's 11): kept with _rights_checked on the Godley/Smyth precedent; same open decision.
+- Skipped as already clean elsewhere: Plutarch/Goodwin and Lucian/Fowler (PG), Josephus (whiston shelf), Thucydides/Crawley, Terence/Riley, Conington's Odes, McDevitte's Caesar.
