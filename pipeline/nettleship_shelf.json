@@ -1,11 +1,12 @@
 {
- "_about": "Henry Nettleship (1839-1893), Corpus Professor of Latin at Oxford: Lectures and Essays on Subjects connected with Latin Literature and Scholarship (1885) and the second series, ed. F. Haverfield (1895): Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885); Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Henry Nettleship (1839-1893), Corpus Professor of Latin at Oxford: Lectures and Essays on Subjects connected with Latin Literature and Scholarship (1885) and the second series, ed. F. Haverfield (1895): Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885); Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round du (2026-10-23), raw IA: Ancient Lives of Vergil (Clarendon, 1879), the Vergil primer (Classical Writers, 1879), Contributions to Latin Lexicography (Clarendon, 1889). Not taken: The Roman Satura (1878; the scan's title page does not OCR) and his revision of Conington's Persius (1893), since Conington's Persius is held.",
  "_name_words": [
   "nettleship"
  ],
  "_surname": [
   "henry nettleship",
-  "nettleship, henry"
+  "nettleship, henry",
+  "h. nettleship"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -17,12 +18,24 @@
   "nettleship-lectures-essays-second-series-1895": [
    "cu31924021595669",
    "Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895)"
+  ],
+  "nettleship-ancient-lives-of-vergil-1879": [
+   "ancientlivesofve00nettrich",
+   "Ancient Lives of Vergil, with an Essay on the Poems of Vergil in connection with his Life and Times (Oxford: Clarendon Press, 1879)"
+  ],
+  "nettleship-vergil-classical-writers-1879": [
+   "vergilnet00nett",
+   "Vergil (Classical Writers, ed. J. R. Green; London: Macmillan, 1879)"
+  ],
+  "nettleship-contributions-latin-lexicography-1889": [
+   "cu31924007818044",
+   "Contributions to Latin Lexicography (Oxford: Clarendon Press, 1889); Latin-dense, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
   "nettleship-lectures-essays-1885": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry nettleship",
    "identity": "ok",
@@ -33,12 +46,45 @@
   },
   "nettleship-lectures-essays-second-series-1895": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry nettleship",
    "identity": "ok",
    "ia_rights": "ok: published 1895",
    "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nettleship-ancient-lives-of-vergil-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. nettleship",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nettleship-vergil-classical-writers-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. nettleship",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nettleship-contributions-latin-lexicography-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry nettleship",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
