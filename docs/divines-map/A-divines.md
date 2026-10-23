@@ -15668,3 +15668,15 @@ Slugs `hedge-*`. Built from title pages read for round 95.
 | owenomananything00hedg: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Prose Writers of Germany, Hours with German Classics, his Goethe translations, metrical translations and a Fourth of July oration | excluded | |
 | Hymns for the Church of Christ (compiled) and Recent Inquiries in Theology (the English Essays and Reviews, which he edited) | excluded | |
+
+## Stephen Olin (round 95, my pick, 2026-10-23)
+
+Slugs `olin-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Stephen Olin, vol. 1 (New York, Harper & Brothers, 1852) | have-ocr | IA `worksofstephenol01olin` |
+| The works of Stephen Olin (New York, Harper & Brothers, 1852) | have-ocr | IA `worksofstephenol00olin` |
+| Inaugural address delivered by the Rev. Stephen Olin, president of Randolph-Macon College, on the occasion of his induction into office, 5th March, 1834 (Richmond : Printed by Nesbitt & Walker, 1834) | have-ocr | IA `inauguraladdress00olin` |
+| College life; its theory and practice (New York : Harper & Brothers, Publishers, 1867) | have-ocr | IA `collegelifeitsth00olin` |
+| Travels in Egypt, Arabia Petraea and the Holy Land and Greece and the Golden Horn (travel); his Life and Letters (by others); separate printings of discourses gathered in the Works; 1918 addresses by a later Stephen Olin | excluded | |
