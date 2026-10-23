@@ -1931,3 +1931,6 @@
 
 ## 2026-10-22 22:33 CDT — thomas-a-janvier: done
 - thomas-a-janvier: new shelf, 14 Gutenberg books, 4,101 units, 376 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — will-n-harben: done
+- will-n-harben: new shelf, 14 Gutenberg books, 23,077 units, 2768 ~2 ids; verify 0 mismatches, 0 rights flags.

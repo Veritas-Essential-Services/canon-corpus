@@ -39988,3 +39988,24 @@ Shelf: `pipeline/thomas-a-janvier_shelf.json` (2026-10-22; added at the coordina
 | Santa Fé's Partner Being Some Memorials of Events in a New-Mexican Track-end Town | have | PG 30352, `tajanvier-santa-f-s-partner-being-some-memorials-of-events-i` (476 units) |
 | Legends of the City of Mexico | have | PG 45852, `tajanvier-legends-of-the-city-of-mexico` (313 units) |
 | In Great Waters: Four Stories | have | PG 60811, `tajanvier-in-great-waters` (510 units) |
+
+## Will N. Harben
+
+Shelf: `pipeline/will-n-harben_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Georgia novels and stories. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Land of the Changing Sun | have | PG 3046, `wnharben-land-of-the-changing-sun` (1200 units) |
+| The Desired Woman | have | PG 6056, `wnharben-desired-woman` (2048 units) |
+| Westerfelt | have | PG 17178, `wnharben-westerfelt` (1697 units) |
+| Dixie Hart | have | PG 19818, `wnharben-dixie-hart` (1551 units) |
+| The Cottage of Delight: A Novel | have | PG 33715, `wnharben-cottage-of-delight` (2240 units) |
+| The Hills of Refuge: A Novel | have | PG 35785, `wnharben-hills-of-refuge` (2070 units) |
+| Ann Boyd: A Novel | have | PG 37551, `wnharben-ann-boyd` (1585 units) |
+| Abner Daniel: A Novel | have | PG 50494, `wnharben-abner-daniel` (2043 units) |
+| Northern Georgia Sketches | have | PG 50896, `wnharben-northern-georgia-sketches` (1232 units) |
+| Paul Rundel: A Novel | have | PG 50898, `wnharben-paul-rundel` (1873 units) |
+| Mam' Linda | have | PG 50899, `wnharben-mam-linda` (1897 units) |
+| Pole Baker: A Novel | have | PG 51918, `wnharben-pole-baker` (1860 units) |
+| The Redemption of Kenneth Galt | have | PG 54104, `wnharben-redemption-of-kenneth-galt` (1737 units) |
+| In the Year Ten Thousand | have | PG 67122, `wnharben-in-the-year-ten-thousand` (44 units) |
