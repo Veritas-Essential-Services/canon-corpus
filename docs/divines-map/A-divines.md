@@ -13146,3 +13146,16 @@ Slugs `hcfish-*`. Built from title pages read for round 67.
 | Harry's conflicts : life sketches (Philadelphia : Bible and Publication Society, 1872) | have-ocr | IA `harrysconflictsl00fish` |
 | Handbook of revivals : for the use of winners of souls (Boston : J. H. Earle, 1874) | have-ocr | IA `handbookofreviva00fish` |
 | Anthologies he edited: History and Repository of Pulpit Eloquence, Pulpit Eloquence of the Nineteenth Century, Select Discourses by Monod, Krummacher and others, Heaven in Song; The Agent's Manual of Life Assurance (another Fish) | excluded | |
+
+## John L. Nevius (round 67, my pick, 2026-10-23)
+
+Slugs `nevius-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| China and the Chinese : a general description of the country and its inhabitants, its civilization and form of government, its religious and social institutions, its intercourse with other nations, and its present condition and prospects (New York : Harper & brothers, 1868) | have-ocr | IA `chinachinesegene00nevi` |
+| San-Poh, or, North of the hills. : A narrative of missionary work in an outstation in China (Philadelphia : Presbyterian Board of Publication, 1869) | have-ocr | IA `sanpohornorthofh00nevi` |
+| Demon possession and allied themes : being an inductive study of phenomena of our own times (Chicago : F. H. Revell, 1894) | have-ocr | IA `demonpossessiona00nevi` |
+| Methods of mission work (New York, Foreign mission library, 1895) | have-ocr | IA `methodsofmission00nevi` |
+| The planting and development of missionary churches (New York : Foreign mission library, 1899) | have-ocr | IA `plantingdevelopm00nevi` |
+| The Life of John Livingston Nevius (1895, by his wife Helen S. C. Nevius); his Chinese-language works | excluded | |
