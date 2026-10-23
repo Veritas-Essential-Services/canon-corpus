@@ -1020,7 +1020,7 @@ Veto points in round 41:
 
 ## Lane A stopped 2026-10-23 (end of this thread's run)
 
-Rounds 39 (completed), 40 and 41 are pushed. Nothing is queued in QUEUE-A.json. To resume, pick round 42 from the lists above. Candidate themes not yet covered: the remaining Hanoverian bishops (Sherlock the elder, Porteus, Hurd, Lowth, Bishop Wilson of Sodor and Man), more Scottish Episcopalians (Skinner of Linshart's sons, Bishop Forbes, Torry), and early American Lutheran and Reformed (Muhlenberg, Schlatter). Check each against all branches first.
+Rounds 39 (completed), 40 and 41 are pushed. Nothing is queued in QUEUE-A.json. To resume, pick round 42 from the lists above. Candidate themes not yet covered: Georgian bishops with no shelf on any branch as of 2026-10-23 (Porteus, Hurd, Lowth), more Scottish Episcopalians (Bishop Robert Forbes, Patrick Torry), and early American Lutheran and Reformed (Muhlenberg, Schlatter); William Sherlock the elder and Thomas Wilson may be on the thomas-sherlock and thomas-wilson shelves already. Check each against all branches first.
 
 ## Paused 2026-10-10 15:12 CDT
 
