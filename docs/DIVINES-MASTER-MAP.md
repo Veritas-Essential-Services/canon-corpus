@@ -14855,6 +14855,22 @@ Slugs `berriman-*`. Built from title pages read for round 87.
 | bim_eighteenth-century_family-religion-recommen_berriman-william_1735: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
 | bim_eighteenth-century_human-learning-recommend_berriman-william_1727: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later | pending | not shelved |
 | Concio ad clerum (1742), Latin | excluded | |
+
+## Peter Gandolphy (round 87, my pick, 2026-10-23)
+
+Slugs `gandolphy-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A defence of the ancient faith ; or, Five sermons in proof of the Christian religion (London : Keating, 1811) | have-ocr | IA `a582811700ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 1 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `a582814101ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 2 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `a582814102ganduoft` |
+| A defence of the ancient faith : in four volumes, or a full exposition of the christian sermons Volume 3 (London : Keating, Brown and Keating, 1813) | have-ocr | IA `ancientfaith03ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons, vol. 4 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `ra582814104ganduoft` |
+| A congratulatory letter to the Rev. Herbert Marsh, D.D.F.R.S., Margaret Professor of Divinity in Cambridge, on his judicious Inquiry into the consequences of neglecting to give the Prayer-book with the Bible (<London? : s.n.>, 1812) | have-ocr | IA `congratulatoryle00ganduoft` |
+| A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome (<London? : s.n.>, 1813) | have-ocr | IA `secondlettertore00ganduoft` |
+| his Liturgy (1812), a translation of Catholic service books | excluded | |
+| Correspondence on the Roman Catholic Bible Society (many hands) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
