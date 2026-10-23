@@ -9601,3 +9601,12 @@ Shelf: `pipeline/oskar-weise_shelf.json`. Language and Character of the Roman Pe
 |---|---|---|---|
 | Language and Character of the Roman People (1909), tr. H. A. Strong and A. Y. Campbell |  | `weise-language-character-roman-people-1909` | have-raw (IA `gpl_1795586`) |
 
+
+## Jessie May Tatlock (1878-1961)
+
+Shelf: `pipeline/jessie-may-tatlock_shelf.json`. Greek and Roman Mythology (1917). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek and Roman Mythology (1917) |  | `tatlock-greek-roman-mythology-1917` | have-raw (IA `greekromanmythol00tatl`) |
+
