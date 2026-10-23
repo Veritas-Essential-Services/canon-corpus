@@ -1,0 +1,38 @@
+{
+ "_about": "Pierre de Labriolle (1874-1940), Professor at Poitiers, raw IA OCR of History and Literature of Christianity from Tertullian to Boethius, translated from the French by Herbert Wilson, with a foreword by Cardinal Gasquet (London: Kegan Paul, Trench, Trubner; New York: Alfred A. Knopf, 1924; the translation US public domain by date). Latin Christian literature as literary history. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Pierre de Labriolle (1874-1940)",
+ "_name_words": [
+  "labriolle"
+ ],
+ "_surname": [
+  "pierre de labriolle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pierre-de-labriolle-tertullian-to-boethius-1924": [
+   "historyliteratur00labr",
+   "History and Literature of Christianity from Tertullian to Boethius, by Pierre de Labriolle, translated from the French by Herbert Wilson, with an introductory foreword by Cardinal Gasquet (London: Kegan Paul, Trench, Trubner; New York: Alfred A. Knopf, 1924)",
+   "tr. Herbert Wilson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pierre-de-labriolle-tertullian-to-boethius-1924": "Herbert Wilson"
+ },
+ "_checks": {
+  "pierre-de-labriolle-tertullian-to-boethius-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pierre de labriolle",
+   "translator_claimed": "Herbert Wilson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
