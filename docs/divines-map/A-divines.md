@@ -9696,3 +9696,13 @@ Slugs `brenz-*`. Built from title pages read for round 39.
 |---|---|---|
 | A Verye Fruitful Exposicion upon the Syxte Chapter of Saynte John, divided into x Homelies or Sermons, written in Latin by Master John Brencius and translated into Englishe by Richarde Shirrye, Londoner (catalogued 1550) | have-ocr | IA `bim_early-english-books-1475-1640_a-verye-fruitful-exposic_j-brentius_1550` |
 | His Latin, German, Dutch and Danish printings; Pressel's Anecdota Brentiana (1868); the Wurttemberg Confession (German, 1848) | excluded | |
+
+## Martin Chemnitz (round 39, my pick, 2026-10-22)
+
+Slugs `chemnitz-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discouerie and Batterie of the Great Fort of Unwritten Traditions: otherwise, An Examination of the Counsell of Trent touching the Decree of Traditions, done by Martinus Chemnitius in Latine and translated into English by R. V. (London: Thomas Purfoot and William Pounsonbie, 1582) | have-ocr | IA `bim_early-english-books-1475-1640_a-discouerie-and-batteri_martinus-chemnitius_1582` |
+| A Substantial and Godly Exposition of the Praier commonly called the Lords Praier, written in Latin by D. Martine Chemnitius, newly translated out of Latine into English (Cambridge: John Legate; catalogued 1598) | have-ocr | IA `bim_early-english-books-1475-1640_a-substantial-and-godly-_martinus-chemnitius_1598` |
+| His Latin works (De Duabus Naturis 1580, the Examen ed. Preuss 1861); Christian and Bogislav Philipp von Chemnitz; the 1971-89 Concordia translations (in copyright); a mislabelled 'Concordia' item dated 1537 | excluded | |
