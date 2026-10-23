@@ -15682,3 +15682,20 @@ Shelf: `pipeline/alice-hegan-rice_shelf.json` (2026-10-22; added at the coordina
 | Quin | have | PG 20033, `ahrice-quin` (2531 units) |
 | Mr. Opp | have | PG 25070, `ahrice-mr-opp` (1214 units) |
 | Captain June | have | PG 38228, `ahrice-captain-june` (400 units) |
+
+## Helen Leah Reed
+
+Shelf: `pipeline/helen-leah-reed_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for girls. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Brenda, Her School and Her Club | have | PG 34944, `hlreed-brenda-her-school-and-her-club` (1725 units) |
+| Napoleon's Young Neighbor | have | PG 35037, `hlreed-napoleons-young-neighbor` (1191 units) |
+| Serbia: A Sketch | have | PG 35231, `hlreed-serbia` (208 units) |
+| Miss Theodora: A West End Story | have | PG 35337, `hlreed-miss-theodora` (629 units) |
+| Amy in Acadia: A Story for Girls | have | PG 35985, `hlreed-amy-in-acadia` (2232 units) |
+| Brenda's Ward A Sequel to 'Amy in Acadia' | have | PG 36133, `hlreed-brendas-ward-a-sequel-to-amy-in-acadia` (2193 units) |
+| Memorial Day, and Other Verse (Original and Translated) | have | PG 36153, `hlreed-memorial-day-and-other-verse-original-and-translated` (283 units) |
+| Brenda's Bargain: A Story for Girls | have | PG 37335, `hlreed-brendas-bargain` (1459 units) |
+| Irma in Italy: A Travel Story | have | PG 39629, `hlreed-irma-in-italy` (1698 units) |
+| Brenda's cousin at Radcliffe | have | PG 48720, `hlreed-brendas-cousin-at-radcliffe` (1676 units) |
