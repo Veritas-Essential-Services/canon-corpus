@@ -7669,6 +7669,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:04:46-05:00",
       "notes": "Paddington evangelical; small shelf. 0 uids minted."
+    },
+    {
+      "id": "w-e-boardman",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:32-05:00",
+      "notes": "Higher Christian Life; holiness/Keswick. 0 uids minted."
     }
   ]
 }

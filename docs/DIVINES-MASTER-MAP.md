@@ -13086,6 +13086,18 @@ Slugs `molyneux-*`. Built from title pages read for round 66.
 | Baptismal regeneration compared with the word of God and the standards of the Church of England (catalogued 1842) | have-ocr | IA `baptismalregene00molygoog` |
 | Gethsemane, lectures (catalogued 1854) | have-ocr | IA `gethsemanelectu00molygoog` |
 | Other Molyneuxes (William Molyneux of Dublin and others) | excluded | |
+
+## W. E. Boardman (round 67, my pick, 2026-10-23)
+
+Slugs `boardman-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| The Higher Christian Life (D. Appleton & co., 1859) | have-ocr | IA `higherchristian01boargoog` |
+| He that overcometh; or, A conquering gospel ([?], 1869) | have-ocr | IA `hethatovercomet00boargoog` |
+| Faith work under Dr. Cullis, in Boston (Boston ; New York : Willard Tract Repository, 1874) | have-ocr | IA `faithworkunderdr00boar` |
+| In the power of the spirit ([n.p.], 1876) | have-ocr | IA `inpowerofspirit00boar` |
+| Life and Labours of the Rev. W. E. Boardman (1887, by his wife) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
