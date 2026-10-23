@@ -9940,3 +9940,12 @@ Shelf: `pipeline/allan-marquand_shelf.json`. Greek Architecture (1909). Not mint
 |---|---|---|---|
 | Greek Architecture (1909) |  | `marquand-greek-architecture-1909` | have-raw (IA `greekarchitectur00marq_0`) |
 
+
+## W. H. Goodyear (1846-1923)
+
+Shelf: `pipeline/w-h-goodyear_shelf.json`. Greek Refinements (1912). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Refinements: Studies in Temperamental Architecture (1912) |  | `goodyear-greek-refinements-1912` | have-raw (IA `greekrefinement02goodgoog`) |
+

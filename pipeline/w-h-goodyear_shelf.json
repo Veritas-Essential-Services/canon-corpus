@@ -1,0 +1,37 @@
+{
+ "_about": "W. H. Goodyear (1846-1923), Brooklyn Museum curator: Greek Refinements, Studies in Temperamental Architecture (1912). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "William Henry Goodyear (1846-1923)",
+ "_name_words": [
+  "goodyear",
+  "greek",
+  "refinements",
+  "architecture"
+ ],
+ "_surname": [
+  "william henry goodyear",
+  "w. h. goodyear",
+  "goodyear"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "goodyear-greek-refinements-1912": [
+   "greekrefinement02goodgoog",
+   "Greek Refinements: Studies in Temperamental Architecture (1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "goodyear-greek-refinements-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry goodyear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
