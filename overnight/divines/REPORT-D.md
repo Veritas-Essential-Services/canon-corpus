@@ -2066,3 +2066,6 @@
 
 ## 2026-10-22 22:43 CDT — robert-neilson-stephens: done
 - robert-neilson-stephens: new shelf, 10 Gutenberg books, 17,156 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — charles-alden-seltzer: done
+- charles-alden-seltzer: new shelf, 10 Gutenberg books, 16,713 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags.

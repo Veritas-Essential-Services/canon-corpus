@@ -15614,3 +15614,20 @@ Shelf: `pipeline/robert-neilson-stephens_shelf.json` (2026-10-22; added at the c
 | The Road to Paris: A Story of Adventure | have | PG 35488, `rnstephens-road-to-paris` (1963 units) |
 | Captain Ravenshaw; Or, The Maid of Cheapside. A Romance of Elizabethan London | have | PG 47738, `rnstephens-captain-ravenshaw` (1999 units) |
 | The Flight of Georgiana: A Story of Love and Peril in England in 1746 | have | PG 56364, `rnstephens-flight-of-georgiana` (1451 units) |
+
+## Charles Alden Seltzer
+
+Shelf: `pipeline/charles-alden-seltzer_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Square Deal Sanderson | have | PG 16597, `caseltzer-square-deal-sanderson` (2016 units) |
+| The Trail Horde | have | PG 17477, `caseltzer-trail-horde` (2088 units) |
+| The Two-Gun Man | have | PG 19012, `caseltzer-two-gun-man` (1380 units) |
+| The Boss of the Lazy Y | have | PG 19026, `caseltzer-boss-of-the-lazy-y` (1411 units) |
+| The Range Boss | have | PG 25754, `caseltzer-range-boss` (1594 units) |
+| 'Drag' Harlan | have | PG 25779, `caseltzer-drag-harlan` (1807 units) |
+| 'Firebrand' Trevison | have | PG 26951, `caseltzer-firebrand-trevison` (1678 units) |
+| The Trail to Yesterday | have | PG 27051, `caseltzer-trail-to-yesterday` (1480 units) |
+| The Coming of the Law | have | PG 31512, `caseltzer-coming-of-the-law` (1407 units) |
+| The Ranchman | have | PG 37204, `caseltzer-ranchman` (1852 units) |

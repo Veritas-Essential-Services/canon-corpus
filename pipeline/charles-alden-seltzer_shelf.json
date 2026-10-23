@@ -1,0 +1,148 @@
+{
+ "_about": "Charles Alden Seltzer's writing at Gutenberg: westerns. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles Alden Seltzer",
+ "_name_words": [
+  "seltzer"
+ ],
+ "_surname": [
+  "seltzer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "caseltzer-square-deal-sanderson": [
+   16597,
+   "Square Deal Sanderson"
+  ],
+  "caseltzer-trail-horde": [
+   17477,
+   "The Trail Horde"
+  ],
+  "caseltzer-two-gun-man": [
+   19012,
+   "The Two-Gun Man"
+  ],
+  "caseltzer-boss-of-the-lazy-y": [
+   19026,
+   "The Boss of the Lazy Y"
+  ],
+  "caseltzer-range-boss": [
+   25754,
+   "The Range Boss"
+  ],
+  "caseltzer-drag-harlan": [
+   25779,
+   "'Drag' Harlan"
+  ],
+  "caseltzer-firebrand-trevison": [
+   26951,
+   "'Firebrand' Trevison"
+  ],
+  "caseltzer-trail-to-yesterday": [
+   27051,
+   "The Trail to Yesterday"
+  ],
+  "caseltzer-coming-of-the-law": [
+   31512,
+   "The Coming of the Law"
+  ],
+  "caseltzer-ranchman": [
+   37204,
+   "The Ranchman"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "caseltzer-square-deal-sanderson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-trail-horde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-two-gun-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-boss-of-the-lazy-y": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-range-boss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-drag-harlan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-firebrand-trevison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-trail-to-yesterday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-coming-of-the-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "caseltzer-ranchman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
