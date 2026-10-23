@@ -18955,6 +18955,21 @@ Shelf: `pipeline/j-b-mayor_shelf.json`. Ancient philosophy sketch (1881) and a g
 | A Sketch of Ancient Philosophy from Thales to Cicero (Pitt Press, 1st ed. 1881; IA dates this copy 1885) |  | `mayor-sketch-ancient-philosophy-1881` | have-raw (IA `sketchofancientp00mayouoft`) |
 | A Guide to the Choice of Classical Books (1874) |  | `mayor-guide-choice-classical-books-1874` | have-raw (IA `guidetochoicecl00mayogoog`) |
 
+
+## Arthur Fairbanks (1864-1944)
+
+Shelf: `pipeline/arthur-fairbanks_shelf.json`. Greek myth, religion and vases, 1900-1915. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Mythology of Greece and Rome, presented with special reference to its influence on literature (1907) |  | `fairbanks-mythology-greece-rome-1907` | have-raw (IA `mythologyofgreec00fair`) |
+| A Handbook of Greek Religion (1910) |  | `fairbanks-handbook-greek-religion-1910` | have-raw (IA `handbookofgreekr00fairiala`) |
+| Athenian Lekythoi with Outline Drawing in Glaze Varnish on a White Ground (1907) |  | `fairbanks-athenian-lekythoi-1907` | have-raw (IA `athenianlekythoi00fair`) |
+| A Study of the Greek Paean (1900) |  | `fairbanks-greek-paean-1900` | have-raw (IA `astudygreekpanw00fairgoog`) |
+| Greek Gods and Heroes as Represented in the Classical Collections of the Museum of Fine Arts (1915) |  | `fairbanks-greek-gods-heroes-1915` | have-raw (IA `greekgodsandher00fairgoog`) |
+
+Excluded: The First Philosophers of Greece (1898) (held on the presocratics shelf)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
