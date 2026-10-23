@@ -39639,3 +39639,27 @@ Shelf: `pipeline/hugh-walpole_shelf.json` (2026-10-22; added at the coordinator'
 | Portrait of a Man with Red Hair: A Romantic Macabre | have | PG 66837, `hwalpole-portrait-of-a-man-with-red-hair` (1456 units) |
 | pg-58382 | excluded | PG 58382: Gutenberg's index of the author's works, not a book. |
 | repeat-editions | excluded | PG 52453: second Gutenberg editions of titles already on the shelf. |
+
+## Anne Douglas Sedgwick
+
+Shelf: `pipeline/anne-douglas-sedgwick_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Fountain Sealed | have | PG 8087, `adsedgwick-fountain-sealed` (1894 units) |
+| Franklin Kane | have | PG 18886, `adsedgwick-franklin-kane` (1752 units) |
+| Amabel Channice | have | PG 28631, `adsedgwick-amabel-channice` (932 units) |
+| Tante | have | PG 30115, `adsedgwick-tante` (2626 units) |
+| The Nest, The White Pagoda, The Suicide, A Forsaken Temple, Miss Jones and the Masterpiece | have | PG 33519, `adsedgwick-nest-the-white-pagoda-the-suicide-a-forsaken-temp` (1193 units) |
+| Atlantic Narratives: Modern Short Stories | have | PG 38172, `adsedgwick-atlantic-narratives` (2397 units) |
+| Christmas Roses and Other Stories | have | PG 40650, `adsedgwick-christmas-roses-and-other-stories` (1367 units) |
+| A Childhood in Brittany Eighty Years Ago | have | PG 40699, `adsedgwick-childhood-in-brittany-eighty-years-ago` (259 units) |
+| The Confounding of Camelia | have | PG 41917, `adsedgwick-confounding-of-camelia` (1754 units) |
+| Paths of Judgement | have | PG 42012, `adsedgwick-paths-of-judgement` (1842 units) |
+| The Dull Miss Archinard | have | PG 42109, `adsedgwick-dull-miss-archinard` (1892 units) |
+| The Rescue | have | PG 42194, `adsedgwick-rescue` (747 units) |
+| The Third Window | have | PG 42233, `adsedgwick-third-window` (640 units) |
+| Adrienne Toner: A Novel | have | PG 42428, `adsedgwick-adrienne-toner` (1704 units) |
+| The Shadow of Life | have | PG 42965, `adsedgwick-shadow-of-life` (1824 units) |
+| The Little French Girl | have | PG 65386, `adsedgwick-little-french-girl` (2349 units) |
+| Dark Hester | have | PG 78779, `adsedgwick-dark-hester` (947 units) |
