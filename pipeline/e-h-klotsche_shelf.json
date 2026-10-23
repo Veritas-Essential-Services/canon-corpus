@@ -1,0 +1,36 @@
+{
+ "_about": "E. H. Klotsche (1875-1937): The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams, and Visions (1919). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Ernest Heinrich Klotsche (1875-1937)",
+ "_name_words": [
+  "klotsche",
+  "ernest",
+  "heinrich",
+  "supernatural",
+  "euripides"
+ ],
+ "_surname": [
+  "klotsche"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "klotsche-supernatural-euripides-1919": [
+   "cu31924026667802",
+   "The Supernatural in the Tragedies of Euripides (1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "klotsche-supernatural-euripides-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "klotsche",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

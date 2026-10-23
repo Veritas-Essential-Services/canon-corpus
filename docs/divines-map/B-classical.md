@@ -10758,3 +10758,12 @@ Shelf: `pipeline/douglas-freshfield_shelf.json`. Hannibal Once More (London, 191
 |---|---|---|---|
 | Hannibal Once More (London, 1914) |  | `freshfield-hannibal-once-more-1914` | have-raw (IA `cu31924028293656`) |
 
+
+## Ernest Heinrich Klotsche (1875-1937)
+
+Shelf: `pipeline/e-h-klotsche_shelf.json`. The Supernatural in the Tragedies of Euripides (1919) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Supernatural in the Tragedies of Euripides (1919) |  | `klotsche-supernatural-euripides-1919` | have-raw (IA `cu31924026667802`) |
+
