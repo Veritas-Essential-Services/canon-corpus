@@ -12171,3 +12171,17 @@ Slugs `nhall-*`. Built from title pages read for round 58.
 | Newman Hall, an autobiography (New York, Thomas Y. Crowell, 1898) | have-ocr | IA `newmanhallautobi00hall` |
 | Translations of Come to Jesus (Japanese, Icelandic, Gaelic, Cherokee); his father John Vine Hall's autobiography, which he edited; travel books and verse | excluded | |
 | cometojesus00hall_0: the 1858 Creek-language translation (Cesvs a oh vtes), not the English text | excluded | |
+
+## Alexander Raleigh (round 58, my pick, 2026-10-23)
+
+Slugs `araleigh-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The story of Jonah the prophet (Edinburgh : Adam and Charles Black, 1867) | have-ocr | IA `storyofjonahprop00ralerich` |
+| Quiet Resting Places and Other Sermons (Adam and Charles Black, 1873) | have-ocr | IA `quietrestingpla00ralegoog` |
+| The Little Sanctuary and other Meditation (catalogued 1873) | have-ocr | IA `littlesanctuaryo0000alex` |
+| The Book of Esther : its practical lessons and dramatic scenes (Edinburgh : A. and C. Black, 1880) | have-ocr | IA `bookofestheritsp00rale` |
+| Thoughts for the weary and the sorrowful (Edinburgh, 1882) | have-ocr | IA `ThoughtsForTheWeary` |
+| From Dawn to The Perfect Day (catalogued 1883) | have-ocr | IA `fromdawntoperfec0000alex` |
+| Sir Walter Raleigh (1861-1922), the literary critic, and Sir Walter Raleigh (d. 1618) | excluded | |

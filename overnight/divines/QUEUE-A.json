@@ -7183,6 +7183,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:03:19-05:00",
       "notes": "Surrey Chapel, London; Come to Jesus is the English text (the Creek translation was swapped out). 0 uids minted."
+    },
+    {
+      "id": "alexander-raleigh",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:20-05:00",
+      "notes": "Canonbury Congregationalist; Sir Walter Raleigh the critic kept apart. 0 uids minted."
     }
   ]
 }
