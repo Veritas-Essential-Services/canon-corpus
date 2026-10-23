@@ -41307,3 +41307,19 @@ Shelf: `pipeline/don-marquis_shelf.json` (2026-10-22; added at the coordinator's
 | The Old Soak, and Hail And Farewell | have | PG 51920, `dmarquis-old-soak-and-hail-and-farewell` (417 units) |
 | pg-57714 | excluded | PG 57714: Gutenberg's index of the author's works, not a book. |
 | repeat-editions | excluded | PG 51925: second Gutenberg editions of titles already on the shelf. |
+
+## Henry Lawson
+
+Shelf: `pipeline/henry-lawson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Australian bush stories and verse. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In the Days When the World Was Wide, and Other Verses | have | PG 214, `hlawson-in-the-days-when-the-world-was-wide-and-other-verses` (616 units) |
+| Joe Wilson and His Mates | have | PG 1036, `hlawson-joe-wilson-and-his-mates` (1830 units) |
+| On the Track | have | PG 1231, `hlawson-on-the-track` (909 units) |
+| Over the Sliprails | have | PG 1313, `hlawson-over-the-sliprails` (937 units) |
+| Children of the Bush | have | PG 7065, `hlawson-children-of-the-bush` (1669 units) |
+| While the Billy Boils | have | PG 7144, `hlawson-while-the-billy-boils` (1956 units) |
+| The Rising of the Court | have | PG 7447, `hlawson-rising-of-the-court` (631 units) |
+| Verses popular and humorous | have | PG 52066, `hlawson-verses-popular-and-humorous` (918 units) |
+| pg-57706 | excluded | PG 57706: Gutenberg's index of the author's works, not a book. |

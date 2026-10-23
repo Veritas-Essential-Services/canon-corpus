@@ -4885,6 +4885,14 @@
       "started": "2026-10-22T22:45:24-05:00",
       "finished": "2026-10-22T22:45:24-05:00",
       "notes": "don-marquis: new shelf, 7 Gutenberg books, 8,144 units, 39 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-lawson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Lawson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:25-05:00",
+      "finished": "2026-10-22T22:45:25-05:00",
+      "notes": "henry-lawson: new shelf, 8 Gutenberg books, 9,466 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
