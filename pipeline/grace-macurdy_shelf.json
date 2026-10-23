@@ -1,0 +1,32 @@
+{
+ "_about": "Grace Harriet Macurdy (1866-1946), Vassar, raw IA OCR of Troy and Paeonia (1925); published before 1930, so US public domain.  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Grace Harriet Macurdy",
+ "_name_words": [
+  "macurdy"
+ ],
+ "_surname": [
+  "grace harriet macurdy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grace-macurdy-troy-and-paeonia-1925": [
+   "troypaeoniawithg0000macu",
+   "Troy and Paeonia, with glimpses of ancient Balkan history and religion, by Grace Harriet Macurdy (New York: Columbia University Press, 1925)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "grace-macurdy-troy-and-paeonia-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grace harriet macurdy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
