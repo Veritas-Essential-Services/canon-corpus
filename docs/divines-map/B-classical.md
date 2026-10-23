@@ -10523,3 +10523,12 @@ Shelf: `pipeline/e-f-m-benecke_shelf.json`. Antimachus of Colophon and the Posit
 |---|---|---|---|
 | Antimachus of Colophon and the Position of Women in Greek Poetry (London: Swan Sonnenschein, 1896) |  | `benecke-antimachus-colophon-1896` | have (PG 67573) |
 
+
+## Edward Marwick Plummer
+
+Shelf: `pipeline/edward-m-plummer_shelf.json`. Athletics and Games of the Ancient Greeks. Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Athletics and Games of the Ancient Greeks |  | `plummer-athletics-games-ancient-greeks` | have (PG 64627) |
+
