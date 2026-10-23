@@ -31,6 +31,14 @@
    "theworksofphiloj04yonguoft",
    "The Works of Philo Judaeus, vol. IV (Bohn, 1855)",
    "tr. C. D. Yonge"
+  ],
+  "philo-colson-whitaker-v1": [
+   "philo0001fhco",
+   "Philo, tr. F. H. Colson and G. H. Whitaker, vol. I (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "philo-colson-whitaker-v2": [
+   "philo0002fhco",
+   "Philo, tr. F. H. Colson and G. H. Whitaker, vol. II (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {},
@@ -38,12 +46,14 @@
   "philo-yonge-works-1854-v1": "Yonge",
   "philo-yonge-works-1854-v2": "Yonge",
   "philo-yonge-works-1855-v3": "YONaE",
-  "philo-yonge-works-1855-v4": "Yonge"
+  "philo-yonge-works-1855-v4": "Yonge",
+  "philo-colson-whitaker-v1": "Colson",
+  "philo-colson-whitaker-v2": "Colson"
  },
  "_checks": {
   "philo-yonge-works-1854-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philo",
    "translator_claimed": "Yonge",
@@ -56,7 +66,7 @@
   },
   "philo-yonge-works-1854-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philo",
    "translator_claimed": "Yonge",
@@ -69,7 +79,7 @@
   },
   "philo-yonge-works-1855-v3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philo",
    "translator_claimed": "YONaE",
@@ -82,7 +92,7 @@
   },
   "philo-yonge-works-1855-v4": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philo",
    "translator_claimed": "Yonge",
@@ -91,6 +101,32 @@
    "ia_rights": "ok: published 1855",
    "ia_date": "1854-1855",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "philo-colson-whitaker-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "Colson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "philo-colson-whitaker-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philo",
+   "translator_claimed": "Colson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },

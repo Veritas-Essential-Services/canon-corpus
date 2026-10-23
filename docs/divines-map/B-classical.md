@@ -8320,6 +8320,8 @@ Shelf: `pipeline/philo-judaeus_shelf.json`. Yonge's Bohn translation, 4 vols., 1
 | On the Principle that the Worse is accustomed to be always plotting against the Better | C. D. Yonge | `philo-perseus-yonge-on-the-principle-that-the-worse-is-accustomed-to-be-always-p` | have (Perseus TEI `tlg0018.tlg005.1st1K-eng1`) |
 | On the Unchangeableness of God | C. D. Yonge | `philo-perseus-yonge-on-the-unchangeableness-of-god` | have (Perseus TEI `tlg0018.tlg008.1st1K-eng1`) |
 | To Prove that every Man who is virtuous is also free | C. D. Yonge | `philo-perseus-yonge-to-prove-that-every-man-who-is-virtuous-is-also-free` | have (Perseus TEI `tlg0018.tlg027.1st1K-eng1`) |
+| Philo, tr. F. H. Colson and G. H. Whitaker, vol. I (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling |  | `philo-colson-whitaker-v1` | have-raw (IA `philo0001fhco`) |
+| Philo, tr. F. H. Colson and G. H. Whitaker, vol. II (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling |  | `philo-colson-whitaker-v2` | have-raw (IA `philo0002fhco`) |
 
 ## Babrius (Greek verse fables)
 
