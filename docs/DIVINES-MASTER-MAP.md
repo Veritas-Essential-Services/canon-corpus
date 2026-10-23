@@ -39256,3 +39256,25 @@ Shelf: `pipeline/constance-fenimore-woolson_shelf.json` (2026-10-22; added at th
 | Dorothy, and Other Italian Stories | have | PG 39170, `cfwoolson-dorothy-and-other-italian-stories` (1980 units) |
 | The Ancient City | have | PG 52770, `cfwoolson-ancient-city` (829 units) |
 | Two Women, 1862; a Poem | have | PG 54017, `cfwoolson-two-women-1862` (299 units) |
+
+## Talbot Mundy
+
+Shelf: `pipeline/talbot-mundy_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure novels. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hira Singh : when India came to fight in Flanders | have | PG 4400, `tmundy-hira-singh` (1496 units) |
+| Rung Ho! A Novel | have | PG 5153, `tmundy-rung-ho-a-novel` (2032 units) |
+| The Ivory Trail | have | PG 5194, `tmundy-ivory-trail` (3278 units) |
+| The Eye of Zeitoon | have | PG 5241, `tmundy-eye-of-zeitoon` (2457 units) |
+| Told in the East | have | PG 5315, `tmundy-told-in-the-east` (2022 units) |
+| Guns of the Gods: A Story of Yasmini's Youth | have | PG 5606, `tmundy-guns-of-the-gods` (2299 units) |
+| King--of the Khyber Rifles: A Romance of Adventure | have | PG 6066, `tmundy-king-of-the-khyber-rifles` (2885 units) |
+| The Winds of the World | have | PG 6751, `tmundy-winds-of-the-world` (1741 units) |
+| Caesar Dies | have | PG 10422, `tmundy-caesar-dies` (1052 units) |
+| Affair in Araby | have | PG 10551, `tmundy-affair-in-araby` (1157 units) |
+| Jimgrim and Allah's Peace | have | PG 11357, `tmundy-jimgrim-and-allahs-peace` (1844 units) |
+| Caves of Terror | have | PG 18970, `tmundy-caves-of-terror` (1023 units) |
+| The Lion of Petra | have | PG 19307, `tmundy-lion-of-petra` (1495 units) |
+| Om: The secret of Ahbor Valley | have | PG 69586, `tmundy-om` (2437 units) |
+| Asoka's alibi | have | PG 77653, `tmundy-asokas-alibi` (751 units) |

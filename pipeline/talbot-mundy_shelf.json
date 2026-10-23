@@ -1,0 +1,214 @@
+{
+ "_about": "Talbot Mundy's adventure novels of India and Africa. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Talbot Mundy",
+ "_name_words": [
+  "mundy",
+  "talbot"
+ ],
+ "_surname": [
+  "talbot mundy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tmundy-hira-singh": [
+   4400,
+   "Hira Singh : when India came to fight in Flanders"
+  ],
+  "tmundy-rung-ho-a-novel": [
+   5153,
+   "Rung Ho! A Novel"
+  ],
+  "tmundy-ivory-trail": [
+   5194,
+   "The Ivory Trail"
+  ],
+  "tmundy-eye-of-zeitoon": [
+   5241,
+   "The Eye of Zeitoon"
+  ],
+  "tmundy-told-in-the-east": [
+   5315,
+   "Told in the East"
+  ],
+  "tmundy-guns-of-the-gods": [
+   5606,
+   "Guns of the Gods: A Story of Yasmini's Youth"
+  ],
+  "tmundy-king-of-the-khyber-rifles": [
+   6066,
+   "King--of the Khyber Rifles: A Romance of Adventure"
+  ],
+  "tmundy-winds-of-the-world": [
+   6751,
+   "The Winds of the World"
+  ],
+  "tmundy-caesar-dies": [
+   10422,
+   "Caesar Dies"
+  ],
+  "tmundy-affair-in-araby": [
+   10551,
+   "Affair in Araby"
+  ],
+  "tmundy-jimgrim-and-allahs-peace": [
+   11357,
+   "Jimgrim and Allah's Peace"
+  ],
+  "tmundy-caves-of-terror": [
+   18970,
+   "Caves of Terror"
+  ],
+  "tmundy-lion-of-petra": [
+   19307,
+   "The Lion of Petra"
+  ],
+  "tmundy-om": [
+   69586,
+   "Om: The secret of Ahbor Valley"
+  ],
+  "tmundy-asokas-alibi": [
+   77653,
+   "Asoka's alibi"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "tmundy-hira-singh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-rung-ho-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-ivory-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-eye-of-zeitoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-told-in-the-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-guns-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-king-of-the-khyber-rifles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-winds-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-caesar-dies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-affair-in-araby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-jimgrim-and-allahs-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-caves-of-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-lion-of-petra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-om": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tmundy-asokas-alibi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "talbot mundy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
