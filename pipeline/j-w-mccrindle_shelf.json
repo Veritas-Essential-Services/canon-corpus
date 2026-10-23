@@ -1,0 +1,105 @@
+{
+ "_about": "J. W. McCrindle (1825-1913), translator of the Greek and Latin writers on India: Ancient India as Described by Ktesias the Knidian (1882), Ancient India as Described by Ptolemy (1885), The Commerce and Navigation of the Erythraean Sea (the Periplus and Arrian's Indika part 2, 1879; this scan a 1966 microfilm-xerographic reprint of that edition, no new matter), The Christian Topography of Cosmas (Hakluyt Society, 1897), and Ancient India as Described in Classical Literature (1901). His Megasthenes and his Invasion of India by Alexander are on the arrian shelf. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "John Watson McCrindle (1825-1913)",
+ "_name_words": [
+  "crindle",
+  "india",
+  "ancient",
+  "ktesias",
+  "ptolemy",
+  "erythraean",
+  "topography"
+ ],
+ "_surname": [
+  "mccrindle",
+  "m'crindle",
+  "crindle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mccrindle-ktesias-1882": [
+   "dli.ministry.00252",
+   "Ancient India as Described by Ktesias the Knidian (1882)",
+   "1264.168%20F%209_djvu.txt"
+  ],
+  "mccrindle-ptolemy-1885": [
+   "ancientindiaasd00mccrgoog",
+   "Ancient India as Described by Ptolemy (1885)"
+  ],
+  "mccrindle-erythraean-sea-1879": [
+   "commercenavigati00mccruoft",
+   "The Commerce and Navigation of the Erythraean Sea (1879; 1966 xerographic reprint)"
+  ],
+  "mccrindle-cosmas-christian-topography-1897": [
+   "in.ernet.dli.2015.47307",
+   "The Christian Topography of Cosmas, an Egyptian Monk (Hakluyt Society, 1897)",
+   "2015.47307.The-Christian-Topography_djvu.txt"
+  ],
+  "mccrindle-ancient-india-classical-literature-1901": [
+   "in.ernet.dli.2015.279542",
+   "Ancient India as Described in Classical Literature (1901)",
+   "2015.279542.Ancient-India_djvu.txt"
+  ]
+ },
+ "_excluded": {
+  "Ancient India as Described by Megasthenes and Arrian; The Invasion of India by Alexander the Great": "held on the arrian shelf"
+ },
+ "_checks": {
+  "mccrindle-ktesias-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mccrindle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mccrindle-ptolemy-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mccrindle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccrindle-erythraean-sea-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mccrindle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mccrindle-cosmas-christian-topography-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mccrindle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mccrindle-ancient-india-classical-literature-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m'crindle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

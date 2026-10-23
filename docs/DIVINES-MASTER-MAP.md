@@ -19579,6 +19579,21 @@ Shelf: `pipeline/a-m-curteis_shelf.json`. Rise of the Macedonian Empire (Epochs 
 |---|---|---|---|
 | Rise of the Macedonian Empire (Epochs of Ancient History, 1878; this copy 1890) |  | `curteis-rise-macedonian-empire` | have-raw (IA `risemacedoniane00curtgoog`) |
 
+
+## J. W. McCrindle (1825-1913)
+
+Shelf: `pipeline/j-w-mccrindle_shelf.json`. Classical writers on India in translation, 1879-1901. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient India as Described by Ktesias the Knidian (1882) |  | `mccrindle-ktesias-1882` | have-raw (IA `dli.ministry.00252`) |
+| Ancient India as Described by Ptolemy (1885) |  | `mccrindle-ptolemy-1885` | have-raw (IA `ancientindiaasd00mccrgoog`) |
+| The Commerce and Navigation of the Erythraean Sea (1879; 1966 xerographic reprint) |  | `mccrindle-erythraean-sea-1879` | have-raw (IA `commercenavigati00mccruoft`) |
+| The Christian Topography of Cosmas, an Egyptian Monk (Hakluyt Society, 1897) |  | `mccrindle-cosmas-christian-topography-1897` | have-raw (IA `in.ernet.dli.2015.47307`) |
+| Ancient India as Described in Classical Literature (1901) |  | `mccrindle-ancient-india-classical-literature-1901` | have-raw (IA `in.ernet.dli.2015.279542`) |
+
+Excluded: Ancient India as Described by Megasthenes and Arrian; The Invasion of India by Alexander the Great (held on the arrian shelf)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
