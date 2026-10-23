@@ -20178,6 +20178,15 @@ Shelf: `pipeline/mary-rosaria_shelf.json`. The Nurse in Greek Life (1917). Clean
 |---|---|---|---|
 | The Nurse in Greek Life (1917) |  | `rosaria-nurse-in-greek-life-1917` | have (PG 64215) |
 
+
+## Mary Sturgeon (d. 1925)
+
+Shelf: `pipeline/mary-sturgeon_shelf.json`. Women of the Classics (London: Harrap). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Women of the Classics (London: Harrap) |  | `sturgeon-women-of-the-classics` | have (PG 53487) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
