@@ -9583,3 +9583,12 @@ Shelf: `pipeline/t-t-timayenis_shelf.json`. History of Greece, 2 vols., and Gree
 
 Excluded: The Original Mr. Jacobs (1888) and similar (antisemitic pamphlets, not scholarship)
 
+
+## A. H. Beesly (1839-1909)
+
+Shelf: `pipeline/a-h-beesly_shelf.json`. The Gracchi, Marius, and Sulla (Epochs of Ancient History). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Gracchi, Marius, and Sulla (Epochs of Ancient History, 1877; this printing 1889) |  | `beesly-gracchi-marius-sulla` | have-raw (IA `gracchimariussul00beesuoft`) |
+
