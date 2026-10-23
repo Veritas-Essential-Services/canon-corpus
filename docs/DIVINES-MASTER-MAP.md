@@ -13381,6 +13381,20 @@ Slugs `lumby-*`. Built from title pages read for round 70.
 | The Epistles of St. Peter, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `epistlesofstpete00lumb` |
 | his editions of medieval and early-modern texts (Higden's Polychronicon, King Horn, Ratis Raving, Be Domes Daege, Knighton, Bede, More's Utopia and Richard III, Bacon's Henry VII, Cowley's prose): other authors' works; The Cambridge Companion to the Bible (many hands) | excluded | |
 | Compendium of English Church History from 1688 to 1830 (1883): by an unnamed author; Lumby wrote only the preface and saw it through the press | excluded | |
+
+## J. J. Stewart Perowne (round 71, my pick, 2026-10-23)
+
+Slugs `perowne-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 1 (Andover : W. F. Draper, 1876) | have-ocr | IA `bookofpsalmsnewt01pero` |
+| The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 2 (Andover : W. F. Draper, 1876) | have-ocr | IA `bookofpsalmsnewt02pero` |
+| The Godhead of Jesus : four sermons (being the Hulsean lectures for 1866) (Cambridge : Deighton, Bell, and Co., 1867) | have-ocr | IA `godheadofjesusfo00pero` |
+| Immortality: four sermons preached before the University of Cambridge, being the Hulsean Lectures for 1868 (Cambridge, 1869) | have-ocr | IA `immortality00pero` |
+| Sermons, preached chiefly in the chapel of St. David's College, Lampeter, and in Llandaff Cathedral (London: W. Isbister, 1874) | have-ocr | IA `sermons0000jjst` |
+| The church, the ministry, the sacraments, five sermons preached in Peterborough Cathedral (London : J. Nisbet & Co., 1883) | have-ocr | IA `churchministrysa00perouoft` |
+| Cambridge Bible volumes he edited as general editor and those by his brothers T. T. and E. H. Perowne; the Memoir of T. G. Ragland (1861, by T. T. Perowne); his edition of Thirlwall's Remains and Letters | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
