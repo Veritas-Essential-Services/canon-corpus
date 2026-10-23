@@ -17894,3 +17894,13 @@ Slugs `grasty-*`. Built from title pages read for round 119.
 | The Way to Zion (catalogued 1861) | have-ocr | IA `the-way-to-zion` |
 | Faith's battles and victories, or, Thoughts for troublous times (catalogued 1869) | have-ocr | IA `faiths-battles-and-victories` |
 | Memoir of Rev. Samuel B. McPheeters, D.D (Saint Louis : Southwestern Book and Pub. Co. ; Louisville : Davidson Bros. & Co., 1871) | have-ocr | IA `memoirofrevsamuel00gras` |
+
+## P. A. Halpin (round 119, my pick, 2026-10-23)
+
+Slugs `halpin-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Apologetica : elementary apologetics for pulpit and pew (New York, N.Y. : J.F. Wagner, 1904) | have-ocr | IA `apologeticaeleme00halprich` |
+| A young woman's problems (J. F. Wagner, 1905) | have-ocr | IA `youngwomansprobl0000paha` |
+| christianpedagog00halp (catalogued ) | have-ocr | IA `christianpedagog00halp` |
