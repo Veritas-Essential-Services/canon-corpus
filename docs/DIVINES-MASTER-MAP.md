@@ -20320,6 +20320,15 @@ Shelf: `pipeline/f-g-kenyon_shelf.json`. Classical Texts from Papyri in the Brit
 | Greek Papyri in the British Museum, vol. IV: The Aphrodito Papyri, ed. H. I. Bell (1910) |  | `bell-greek-papyri-british-museum-v4-1910` | have-raw (IA `cu31924022695112`) |
 | Greek Papyri in the British Museum, vol. V, ed. H. I. Bell (1917) |  | `bell-greek-papyri-british-museum-v5-1917` | have-raw (IA `cu31924022695120`) |
 
+
+## Fred Morrow Fling (1860-1934)
+
+Shelf: `pipeline/fred-morrow-fling_shelf.json`. A Source Book of Greek History (Boston: Heath, 1907) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Source Book of Greek History (Boston: Heath, 1907) |  | `fling-source-book-greek-history-1907` | have-raw (IA `cu31924028262859`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

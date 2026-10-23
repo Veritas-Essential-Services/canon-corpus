@@ -1,0 +1,38 @@
+{
+ "_about": "Fred Morrow Fling (1860-1934), Nebraska: A Source Book of Greek History (Boston: Heath, 1907). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Fred Morrow Fling (1860-1934)",
+ "_name_words": [
+  "fling",
+  "fred",
+  "morrow",
+  "source",
+  "greek",
+  "history"
+ ],
+ "_surname": [
+  "fling",
+  "fred morrow fling"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fling-source-book-greek-history-1907": [
+   "cu31924028262859",
+   "A Source Book of Greek History (Boston: Heath, 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fling-source-book-greek-history-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fling",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
