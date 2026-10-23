@@ -1,0 +1,48 @@
+{
+ "_about": "Sir Charles Thomas Newton (1816-1894), Keeper of Greek and Roman Antiquities at the British Museum, excavator of the Mausoleum, raw IA OCR of his Essays on Art and Archaeology (1880) and a paper on two Rhodian inscriptions (1878; Greek-dense, kept under the Greek-facing ruling). Not John Newton, whose shelf is newton.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "C. T. Newton",
+ "_name_words": [
+  "newton"
+ ],
+ "_surname": [
+  "charles thomas newton",
+  "c. t. newton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "c-t-newton-two-greek-inscriptions-rhodes-1878": [
+   "ontwogreekinscri00newt",
+   "On Two Greek Inscriptions, from Kamiros and Ialysos, in Rhodes, respectively, by C. T. Newton (offprint; IA catalogues 1878)"
+  ],
+  "c-t-newton-essays-on-art-and-archaeology-1880": [
+   "essaysonartanda00newtgoog",
+   "Essays on Art and Archaeology, by Charles Thomas Newton, C.B. (London: Macmillan and Co., 1880)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "c-t-newton-two-greek-inscriptions-rhodes-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-t-newton-essays-on-art-and-archaeology-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles thomas newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
