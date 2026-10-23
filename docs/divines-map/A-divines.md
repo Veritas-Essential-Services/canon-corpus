@@ -18956,3 +18956,13 @@ Slugs `valentine-*`. Built from title pages read for round 129.
 | Theoretical ethics (Chicago, Scott, Foresman & co., 1897) | have-ocr | IA `theoreticalethi01valegoog` |
 | Christian theology (Philadelphia : Lutheran publication Society, 1906) | have-ocr | IA `christiantheolog0000vale` |
 | pamphlet scans from other Valentines, and books on poultry and on Paris by others of the name | excluded | |
+
+## Christopher Bethell (round 129, my pick, 2026-10-23)
+
+Slugs `bethell-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| A general view of the doctrine of regeneration in baptism (London : J.G. & F. Rivington, 1836) | have-ocr | IA `ageneralviewofth00bethuoft` |
+| Charge to the clergy of the Diocese of Bangor : delivered in the month of September, 1843, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. & J. Rivington, St. Paul's Churchyard, and Waterloo Place, Pall Mall, 1843) | have-ocr | IA `chargetoclergyof00chur` |
+| A Concise View of the Doctrine of Regeneration is an abridgement by another hand | excluded | |
