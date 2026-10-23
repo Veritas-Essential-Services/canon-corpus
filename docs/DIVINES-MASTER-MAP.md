@@ -18485,6 +18485,19 @@ Slugs `snethen-*`. Built from title pages read for round 124.
 | Snethen on Lay Representation: Or, Essays on Lay Representation and Church Government, Collected (J.J. Harrod, 1835) | have-ocr | IA `snethenonlayrep00snetgoog` |
 | Sermons of the late Nicholas Snethen, minister ... in the Methodist Protestant church (Washington, DC : U. Ward, 1846) | have-ocr | IA `sermonsoflatenic0000snet` |
 | snethanonlayrepr00snet, a second scan of Lay Representation | excluded | |
+
+## Aaron Bancroft (round 124, my pick, 2026-10-23)
+
+Slugs `bancroft-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| The importance of a religious education illustrated and enforced : a sermon, delivered at Worcester, October 31, 1793, occasioned by the execution of Samuel Frost, on that day, for the murder of Captain Elisha Allen, of Princeton, on the 16th day of July, 1793 (Printed at Worcester, Massachusetts : by Isaiah Thomas. Sold at the Worcester bookstore, 1793) | have-ocr | IA `cu31924104014844` |
+| An eulugy on the character of the late Gen. George Washington. Delivered before the inhabitants of the town of Worcester, ... Massachusetts, on Saturday the 22d of February 1800. By Aaron Bancroft. ...  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-eulugy-on-the-charact_bancroft-aaron_1800` |
+| An essay on the life of George Washington (Worcester [Mass.] Printed by Thomas & Sturtevant, 1807) | have-ocr | IA `essayonlifeofgeo00banc` |
+| Sermons on those doctrines of the gospel, and on those constituent principles of the church, which Christian professors have made the subject of controversy (Worcester [Mass.]: Printed by William Manning & Son, 1822) | have-ocr | IA `sermonsonthosedo00banc` |
+| later editions and second scans of the Life of Washington | excluded | |
+| lettertomydearsi00banc, a four-page manuscript | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
