@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Abby Langdon Alger (1850-1917): Judith Gautier's The Usurper (1884) and, with Frances A. Shaw, the Delsarte System of Oratory (1887). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Abby Langdon Alger (1850-1917): Judith Gautier's The Usurper (1884) and, with Frances A. Shaw, the Delsarte System of Oratory (1887); from archive.org, Legouvé, Coquelin, Renan and Saintine (1879-1902). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
  "_name_words": [
-  "abby langdon alger"
+  "abby langdon alger",
+  "abby l. alger"
  ],
  "_surname": [
-  "abby langdon alger"
+  "abby langdon alger",
+  "abby l. alger"
  ],
- "_surname_note": "Full name only.",
+ "_surname_note": "Full name only. 'abby l. alger' is the form on her Ginn and Roberts title pages (2026-10-23).",
  "ccel": {},
  "gutenberg": {
   "aal-12200": [
@@ -18,7 +20,24 @@
    "The Usurper: An Episode in Japanese History"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "aal-ia-renan-henrietta": [
+   "mysisterhenriet00renagoog",
+   "Renan: My Sister Henrietta"
+  ],
+  "aal-ia-legouve-reading": [
+   "readingasafinea00algegoog",
+   "Legouvé: Reading as a Fine Art"
+  ],
+  "aal-ia-saintine-picciola": [
+   "picciola00algegoog",
+   "Saintine: Picciola"
+  ],
+  "aal-ia-coquelin-art-actor": [
+   "artandactor00algegoog",
+   "Coquelin: Art and the Actor"
+  ]
+ },
  "titles": {
   "abby-alger-delaumosne-delsarte-system-of-oratory": {
    "source": "aal-12200",
@@ -35,15 +54,49 @@
    "translated": "1884-1887 (see the Gutenberg header)",
    "translator": "Abby Langdon Alger",
    "scan_edition": "Project Gutenberg 47002 (clean text)"
+  },
+  "abby-alger-renan-my-sister-henrietta": {
+   "source": "aal-ia-renan-henrietta",
+   "of": "Ernest Renan",
+   "work": "My Sister Henrietta",
+   "translated": "1895",
+   "translator": "Abby Langdon Alger",
+   "scan_edition": "Roberts Brothers, Boston, 1895 (Google scan)"
+  },
+  "abby-alger-legouve-reading-as-a-fine-art": {
+   "source": "aal-ia-legouve-reading",
+   "of": "Ernest Legouvé",
+   "work": "Reading as a Fine Art",
+   "translated": "1879",
+   "translator": "Abby Langdon Alger",
+   "scan_edition": "Roberts Brothers, Boston, 1879 (Google scan); 1915 is a New York Public Library accession stamp"
+  },
+  "abby-alger-saintine-picciola": {
+   "source": "aal-ia-saintine-picciola",
+   "of": "X. B. Saintine",
+   "work": "Picciola",
+   "translated": "1899",
+   "translator": "Abby Langdon Alger",
+   "scan_edition": "Ginn & Company, Boston, 1902, copyright 1899; title page: \"translated and edited by Abby L. Alger\""
+  },
+  "abby-alger-coquelin-art-and-the-actor": {
+   "source": "aal-ia-coquelin-art-actor",
+   "of": "Constant Coquelin",
+   "work": "Art and the Actor",
+   "translated": "1881",
+   "translator": "Abby Langdon Alger",
+   "scan_edition": "Dramatic Museum of Columbia University, New York, 1915, which reprints her translation of 1881 (Roberts Brothers) by permission and says so"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Actor and His Art (actorandhisart00algegoog) lacks its title page, so her credit there is unread; Art and the Actor (1915) is shelved instead. The Art of Oratory (Arnaud, 1884) does not name her. Fouqué's Undine (Ginn; undineatale00algegoog) garbles her name on the title page and fails the identity gate."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "aal-12200": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "abby langdon alger",
    "identity": "ok",
@@ -52,12 +105,56 @@
   },
   "aal-47002": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "abby langdon alger",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Abby Langdon Alger"
+  },
+  "aal-ia-renan-henrietta": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abby l. alger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aal-ia-legouve-reading": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abby langdon alger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aal-ia-saintine-picciola": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abby l. alger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aal-ia-coquelin-art-actor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "abby langdon alger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +167,58 @@
    "pg": 47002,
    "pg_copyrighted_marker": false,
    "pg_translator": "Abby Langdon Alger"
+  },
+  "aal-ia-renan-henrietta": {
+   "ia": "mysisterhenriet00renagoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1811,
+    1815,
+    1823,
+    1828,
+    1862,
+    1895,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aal-ia-legouve-reading": {
+   "ia": "readingasafinea00algegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1878,
+    1879,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aal-ia-saintine-picciola": {
+   "ia": "picciola00algegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1627,
+    1632,
+    1677,
+    1704,
+    1789,
+    1804,
+    1836,
+    1899,
+    1902,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aal-ia-coquelin-art-actor": {
+   "ia": "artandactor00algegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1841,
+    1859,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

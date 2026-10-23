@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Adele Szold Seltzer (1876-1940): Hauptmann's Atlantis (1912), Liber's Rashi (1906), Sudermann's Iolanthe's Wedding (1918), Magdeleine Marx's Woman (1920) and Bonsels's The Adventures of Maya the Bee (1922, verses by Arthur Guiterman). Her husband Thomas Seltzer's translations are on seltzer_shelf.json. US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Adele Szold Seltzer (1876-1940): Hauptmann's Atlantis (1912), Liber's Rashi (1906), Sudermann's Iolanthe's Wedding (1918), Magdeleine Marx's Woman (1920) and Bonsels's The Adventures of Maya the Bee (1922, verses by Arthur Guiterman); from archive.org, Tillier's My Uncle Benjamin (1917), Krause's What Is the German Nation Dying For? (1918) and Maran's Batouala (1922). Her husband Thomas Seltzer's translations are on seltzer_shelf.json. US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
  "_name_words": [
   "adele szold seltzer",
   "adele seltzer",
@@ -36,7 +36,20 @@
    "Iolanthe's Wedding"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "asz-ia-maran-batouala": [
+   "batouala0000mara",
+   "Maran: Batouala"
+  ],
+  "asz-ia-tillier-uncle-benjamin": [
+   "myunclebenjamin00tilliala",
+   "Tillier: My Uncle Benjamin"
+  ],
+  "asz-ia-krause-german-nation": [
+   "cu31924027829492",
+   "Krause: What Is the German Nation Dying For?"
+  ]
+ },
  "titles": {
   "adele-seltzer-bonsels-the-adventures-of-maya-the-bee": {
    "source": "asz-22354",
@@ -78,6 +91,30 @@
    "translated": "1918",
    "translator": "Adele Szold Seltzer",
    "scan_edition": "Project Gutenberg 34358 (clean text)"
+  },
+  "adele-seltzer-maran-batouala": {
+   "source": "asz-ia-maran-batouala",
+   "of": "René Maran",
+   "work": "Batouala",
+   "translated": "1922",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Thomas Seltzer, New York, copyright 1922; \"the translation of this book was made by Adele Szold Seltzer\""
+  },
+  "adele-seltzer-tillier-my-uncle-benjamin": {
+   "source": "asz-ia-tillier-uncle-benjamin",
+   "of": "Claude Tillier",
+   "work": "My Uncle Benjamin",
+   "translated": "1917",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Boni and Liveright, New York, copyright 1917"
+  },
+  "adele-seltzer-krause-what-is-the-german-nation-dying-for": {
+   "source": "asz-ia-krause-german-nation",
+   "of": "Karl Ludwig Krause",
+   "work": "What Is the German Nation Dying For?",
+   "translated": "1918",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Boni and Liveright, New York, 1918 (Cornell scan; 1924 is part of the Cornell barcode)"
   }
  },
  "_pending": {},
@@ -86,7 +123,7 @@
  "_checks": {
   "asz-17241": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adele szold seltzer",
    "identity": "ok",
@@ -95,7 +132,7 @@
   },
   "asz-22354": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adele szold seltzer",
    "identity": "ok",
@@ -104,16 +141,16 @@
   },
   "asz-3165": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
-   "author_seen": "adele szold",
+   "author_seen": "adele szold seltzer",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": null
+   "pg_translator": "Adele Szold Seltzer"
   },
   "asz-33943": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adele szold seltzer",
    "identity": "ok",
@@ -122,12 +159,45 @@
   },
   "asz-34358": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adele szold seltzer",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Adele Szold Seltzer"
+  },
+  "asz-ia-maran-batouala": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asz-ia-tillier-uncle-benjamin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "asz-ia-krause-german-nation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -156,6 +226,35 @@
    "pg": 34358,
    "pg_copyrighted_marker": false,
    "pg_translator": "Adele Szold Seltzer"
+  },
+  "asz-ia-maran-batouala": {
+   "ia": "batouala0000mara",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918,
+    1920,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asz-ia-tillier-uncle-benjamin": {
+   "ia": "myunclebenjamin00tilliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "asz-ia-krause-german-nation": {
+   "ia": "cu31924027829492",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1916,
+    1918,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

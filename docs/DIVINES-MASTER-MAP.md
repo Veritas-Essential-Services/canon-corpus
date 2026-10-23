@@ -22638,7 +22638,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Douglas Ainslie (Croce)
 
 Shelf: `pipeline/ainslie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ainslie` · titles `python3 pipeline/split_shelf_titles.py ainslie`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 145 (2026-10-23) added Croce's Hegel (1915). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22648,6 +22648,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ainslie-croce-logic-as-the-science-of-the-pure-concept` | Benedetto Croce | Logic as the Science of the Pure Concept | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54137 |
 | `ainslie-croce-the-philosophy-of-the-practical-economic` | Benedetto Croce | The Philosophy of the Practical: Economic and Ethic | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54938 |
 | `ainslie-croce-theory-history-of-historiography` | Benedetto Croce | Theory & History of Historiography | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54642 |
+| `ainslie-croce-what-is-living-and-what-is-dead-of-the-philosophy-of-hegel` | Benedetto Croce | What Is Living and What Is Dead of the Philosophy of Hegel | Douglas Ainslie | 1915 | have-raw | IA `in.ernet.dli.2015.175520` |
 
 ## Charles E. Derbyshire (Rizal)
 
@@ -23800,12 +23801,15 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## M. Prichard Agnetti (Fogazzaro's The Patriot; Leila)
 
 Shelf: `pipeline/agnetti_shelf.json` · fetch `python3 pipeline/fetch_shelf.py agnetti` · titles `python3 pipeline/split_shelf_titles.py agnetti`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 145 (2026-10-23) added The Saint and The Sinner; Papini's Story of Christ is held undated. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `agnetti-fogazzaro-leila` | Antonio Fogazzaro | Leila | M. Prichard Agnetti | 1906-1911 (see the Gutenberg header) | have | PG 78258 |
 | `agnetti-fogazzaro-the-patriot-piccolo-mondo-antico` | Antonio Fogazzaro | The Patriot (Piccolo Mondo Antico) | M. Prichard Agnetti | 1906-1911 (see the Gutenberg header) | have | PG 33778 |
+| `agnetti-fogazzaro-the-saint` | Antonio Fogazzaro | The Saint (Il Santo) | Mary Prichard Agnetti | 1906 | have-raw | IA `saintilsanto00agnegoog` |
+| `agnetti-fogazzaro-the-sinner` | Antonio Fogazzaro | The Sinner (Piccolo mondo moderno) | Mary Prichard Agnetti | 1907 | have-raw | IA `thesinner00fogaiala` |
+| `agnetti-papini-story-of-christ` | Giovanni Papini | The Story of Christ (Hodder and Stoughton, 'third edition'; in.ernet.dli.2015.220638). The title page names her but prints no year; another scan's impression list runs to 1933. Waits for a dated pre-1931 printing. Found 2026-10-23 (round 145). | Mary Prichard Agnetti | 1923 | pending | — |
 
 ## Mamah Bouton Borthwick (Ellen Key)
 
@@ -24371,7 +24375,7 @@ Round 35 (2026-10-10), vetoable. Lane D's borrow shelf keeps the Turkish Jester.
 ## Adele Szold Seltzer (Hauptmann's Atlantis; Rashi; Sudermann; Maya the Bee)
 
 Shelf: `pipeline/adele-seltzer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py adele-seltzer` · titles `python3 pipeline/split_shelf_titles.py adele-seltzer`.
-Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 35 (2026-10-10), vetoable. Round 145 (2026-10-23) added Tillier (1917), Krause (1918) and Maran's Batouala (1922). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24380,6 +24384,9 @@ Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `adele-seltzer-liber-rashi` | Maurice Liber | Rashi | Adele Szold Seltzer | 1906 | have | PG 3165 |
 | `adele-seltzer-magdeleine-marx-woman` | Magdeleine Marx | Woman | Adele Szold Seltzer | 1920 | have | PG 33943 |
 | `adele-seltzer-sudermann-iolanthes-wedding` | Hermann Sudermann | Iolanthe's Wedding | Adele Szold Seltzer | 1918 | have | PG 34358 |
+| `adele-seltzer-maran-batouala` | René Maran | Batouala | Adele Szold Seltzer | 1922 | have-raw | IA `batouala0000mara` |
+| `adele-seltzer-tillier-my-uncle-benjamin` | Claude Tillier | My Uncle Benjamin | Adele Szold Seltzer | 1917 | have-raw | IA `myunclebenjamin00tilliala` |
+| `adele-seltzer-krause-what-is-the-german-nation-dying-for` | Karl Ludwig Krause | What Is the German Nation Dying For? | Adele Szold Seltzer | 1918 | have-raw | IA `cu31924027829492` |
 
 ## Claud Field beyond Strindberg (Gogol; Al Ghazzali; Gunnarsson; Russian peasant tales)
 
@@ -25439,12 +25446,16 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Abby Langdon Alger (Judith Gautier; Delsarte)
 
 Shelf: `pipeline/abby-alger_shelf.json` · fetch `python3 pipeline/fetch_shelf.py abby-alger` · titles `python3 pipeline/split_shelf_titles.py abby-alger`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 145 (2026-10-23) added Legouvé, Renan, Saintine and Coquelin from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `abby-alger-delaumosne-delsarte-system-of-oratory` | Delaumosne and Angélique Arnaud (on François Delsarte) | Delsarte System of Oratory | Abby Langdon Alger (with Frances A. Shaw) | 1884-1887 (see the Gutenberg header) | have | PG 12200 |
 | `abby-alger-gautier-the-usurper-an-episode-in-japanese-histo` | Judith Gautier | The Usurper: An Episode in Japanese History | Abby Langdon Alger | 1884-1887 (see the Gutenberg header) | have | PG 47002 |
+| `abby-alger-renan-my-sister-henrietta` | Ernest Renan | My Sister Henrietta | Abby Langdon Alger | 1895 | have-raw | IA `mysisterhenriet00renagoog` |
+| `abby-alger-legouve-reading-as-a-fine-art` | Ernest Legouvé | Reading as a Fine Art | Abby Langdon Alger | 1879 | have-raw | IA `readingasafinea00algegoog` |
+| `abby-alger-saintine-picciola` | X. B. Saintine | Picciola | Abby Langdon Alger | 1899 | have-raw | IA `picciola00algegoog` |
+| `abby-alger-coquelin-art-and-the-actor` | Constant Coquelin | Art and the Actor | Abby Langdon Alger | 1881 | have-raw | IA `artandactor00algegoog` |
 
 ## John C. Ager's Swedenborg
 
