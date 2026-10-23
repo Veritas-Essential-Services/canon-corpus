@@ -9978,6 +9978,15 @@ Slugs `jjohnson-*`. Built from title pages read for round 40.
 | The theological works of the Rev. John Johnson, vol. 1 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks01john` |
 | The theological works of the Rev. John Johnson, vol. 2 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks02john` |
 | Other scans of the 1847 Works; Brett's Life of the Late Reverend John Johnson (1748) | alternate | not shelved |
+
+## Thomas Deacon (round 40, my pick, 2026-10-22)
+
+Slugs `deacon-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| An essay to procure Catholic communion upon Catholic principles, reprinted from Deacon's Complete Collection of Devotions, 1734 (Tracts on Catholic Unity; London: James Darling, catalogued 1860) | have-ocr | IA `essaytoprocureca00deac` |
+| A Complete Collection of Devotions (1734) and his catechism: no scan found on the Archive | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

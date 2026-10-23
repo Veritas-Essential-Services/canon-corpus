@@ -5759,6 +5759,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:00:41-05:00",
       "notes": "LACT Theological Works, 2 vols (Unbloody Sacrifice)."
+    },
+    {
+      "id": "thomas-deacon",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:42-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:42-05:00",
+      "notes": "Only the 1860 reprint of his Essay; the 1734 Devotions not found on the Archive."
     }
   ]
 }
