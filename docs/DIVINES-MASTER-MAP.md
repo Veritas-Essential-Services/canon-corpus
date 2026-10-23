@@ -21089,6 +21089,14 @@ Shelf: `pipeline/walter-headlam_shelf.json`. New shelf, round dw. Raw IA OCR, ev
 | Restorations of Menander, by Walter Headlam (Cambridge: Bowes and Bowes, 1908) |  | `walter-headlam-restorations-of-menander-1908` | have-raw (IA `restorationsofme00headrich`) |
 | Walter Headlam, his letters and poems, with a memoir by Cecil Headlam and a bibliography by L. Haward (London: Duckworth, 1910) |  | `walter-headlam-letters-and-poems-1910` | have-raw (IA `walterheadlamhis00headuoft`) |
 
+## L. C. Purser (1854-1932)
+
+Shelf: `pipeline/l-c-purser_shelf.json`. New shelf, round dw. Raw IA OCR, title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Story of Cupid and Psyche as related by Apuleius, edited by Louis C. Purser (London: George Bell, 1910) |  | `l-c-purser-cupid-and-psyche-1910` | have-raw (IA `storyofcupidpsyc00apulrich`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

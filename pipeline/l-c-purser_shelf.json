@@ -1,0 +1,34 @@
+{
+ "_about": "L. C. Purser (1854-1932), Fellow of Trinity College Dublin, raw IA OCR: The Story of Cupid and Psyche as related by Apuleius, edited with introduction and notes (London: George Bell, 1910). His Correspondence of Cicero with Tyrrell is on the tyrrell shelf; his completion of Palmer's Heroides (1898) is on arthur-palmer. Latin text with English commentary, kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dw). No uids minted.",
+ "_author": "Louis Claude Purser (1854-1932)",
+ "_name_words": [
+  "purser"
+ ],
+ "_surname": [
+  "louis c. purser",
+  "l. c. purser",
+  "louis claude purser"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "l-c-purser-cupid-and-psyche-1910": [
+   "storyofcupidpsyc00apulrich",
+   "The Story of Cupid and Psyche as related by Apuleius, edited by Louis C. Purser (London: George Bell, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "l-c-purser-cupid-and-psyche-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis c. purser",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
