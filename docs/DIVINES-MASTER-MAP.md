@@ -44735,3 +44735,15 @@ Shelf: `pipeline/finley-peter-dunne_shelf.json` (2026-10-22; added at the coordi
 | Mr. Dooley: In the Hearts of His Countrymen | have | PG 13784, `fpdunne-mr-dooley` (564 units) |
 | Mr. Dooley Says | have | PG 14684, `fpdunne-mr-dooley-says` (321 units) |
 | Mr. Dooley in Peace and in War | have | PG 22537, `fpdunne-mr-dooley-in-peace-and-in-war` (458 units) |
+
+## Alfred W. Drayson
+
+Shelf: `pipeline/alfred-w-drayson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The White Chief of the Caffres | have | PG 32543, `awdrayson-white-chief-of-the-caffres` (616 units) |
+| Sporting Scenes amongst the Kaffirs of South Africa | have | PG 32558, `awdrayson-sporting-scenes-amongst-the-kaffirs-of-south-afric` (715 units) |
+| Adventures of Hans Sterk: The South African Hunter and Pioneer | have | PG 32559, `awdrayson-adventures-of-hans-sterk` (1120 units) |
+| The Gentleman Cadet His Career and Adventures at the Royal Military Academy Woolwich | have | PG 37254, `awdrayson-gentleman-cadet-his-career-and-adventures-at-the-r` (1217 units) |
+| The Young Dragoon: Every Day Life of a Soldier | have | PG 37255, `awdrayson-young-dragoon` (580 units) |

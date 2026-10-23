@@ -1,0 +1,87 @@
+{
+ "_about": "Alfred W. Drayson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Alfred W. Drayson",
+ "_name_words": [
+  "alfred",
+  "drayson",
+  "wilks"
+ ],
+ "_surname": [
+  "alfred w. drayson",
+  "alfred wilks drayson",
+  "drayson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awdrayson-white-chief-of-the-caffres": [
+   32543,
+   "The White Chief of the Caffres"
+  ],
+  "awdrayson-sporting-scenes-amongst-the-kaffirs-of-south-afric": [
+   32558,
+   "Sporting Scenes amongst the Kaffirs of South Africa"
+  ],
+  "awdrayson-adventures-of-hans-sterk": [
+   32559,
+   "Adventures of Hans Sterk: The South African Hunter and Pioneer"
+  ],
+  "awdrayson-gentleman-cadet-his-career-and-adventures-at-the-r": [
+   37254,
+   "The Gentleman Cadet His Career and Adventures at the Royal Military Academy Woolwich"
+  ],
+  "awdrayson-young-dragoon": [
+   37255,
+   "The Young Dragoon: Every Day Life of a Soldier"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "awdrayson-white-chief-of-the-caffres": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred w. drayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awdrayson-sporting-scenes-amongst-the-kaffirs-of-south-afric": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred w. drayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awdrayson-adventures-of-hans-sterk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred w. drayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awdrayson-gentleman-cadet-his-career-and-adventures-at-the-r": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred w. drayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awdrayson-young-dragoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred w. drayson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
