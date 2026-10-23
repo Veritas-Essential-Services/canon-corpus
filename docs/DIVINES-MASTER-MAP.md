@@ -19885,6 +19885,15 @@ Shelf: `pipeline/lauchlan-maclean-watt_shelf.json`. Attic and Elizabethan Traged
 |---|---|---|---|
 | Attic and Elizabethan Tragedy (London: Dent, 1908) |  | `watt-attic-elizabethan-tragedy-1908` | have-raw (IA `atticandelizabe02wattgoog`) |
 
+
+## Thomas East Lones
+
+Shelf: `pipeline/thomas-east-lones_shelf.json`. Aristotle's Researches in Natural Science (London, 1912). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Aristotle's Researches in Natural Science (London, 1912) |  | `lones-aristotles-researches-natural-science-1912` | have-raw (IA `aristotlesresear00loneuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

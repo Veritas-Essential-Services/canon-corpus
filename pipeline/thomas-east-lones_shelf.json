@@ -1,0 +1,39 @@
+{
+ "_about": "Thomas East Lones: Aristotle's Researches in Natural Science (London: West, Newman, 1912). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Thomas East Lones",
+ "_name_words": [
+  "lones",
+  "thomas",
+  "east",
+  "aristotle",
+  "natural",
+  "science"
+ ],
+ "_surname": [
+  "thomas east lones",
+  "t. e. lones",
+  "lones"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lones-aristotles-researches-natural-science-1912": [
+   "aristotlesresear00loneuoft",
+   "Aristotle's Researches in Natural Science (London, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lones-aristotles-researches-natural-science-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas east lones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
