@@ -1,0 +1,37 @@
+{
+ "_about": "Emil Braun (1809-1856), secretary of the German Archaeological Institute in Rome, raw IA OCR of his Introduction to the Study of Art-Mythology in English translation (1856).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Emil Braun",
+ "_name_words": [
+  "braun"
+ ],
+ "_surname": [
+  "emil braun"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "emil-braun-introduction-to-art-mythology-1856": [
+   "introductiontost00brauuoft",
+   "Introduction to the Study of Art-Mythology, by Dr. Emil Braun, translated from the German (the translator's name is garbled in the OCR; reading under _identity_checked) (Gotha: Justus Perthes; Philadelphia: John Weik, 1856)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "emil-braun-introduction-to-art-mythology-1856": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emil braun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "emil-braun-introduction-to-art-mythology-1856": {
+   "translator": "T K A N S L A T E D BY JOHN GRAN T."
+  }
+ }
+}
