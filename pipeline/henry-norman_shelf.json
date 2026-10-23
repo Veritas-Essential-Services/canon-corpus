@@ -1,0 +1,32 @@
+{
+ "_about": "Henry Norman (1858-1939), journalist, raw IA OCR of An Account of the Harvard Greek Play (the 1881 Oedipus Tyrannus), with a prefatory note by W. W. Goodwin (Boston: James R. Osgood, 1882; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Henry Norman (1858-1939)",
+ "_name_words": [
+  "norman"
+ ],
+ "_surname": [
+  "henry norman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-norman-harvard-greek-play-1882": [
+   "anaccountharvar00normgoog",
+   "An Account of the Harvard Greek Play, by Henry Norman (Boston: James R. Osgood, 1882)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-norman-harvard-greek-play-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry norman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
