@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Anthony Sparrow (1612-1685), Bishop of Exeter and then of Norwich, for the Word Hoard: his Rationale upon the Book of Common Prayer with his Caution (Oxford, 1839), his Collection of Articles, Injunctions, Canons (1684) and his Cambridge sermon on confession and absolution (1637), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sparrow"
+ ],
+ "_surname": [
+  "anthony sparrow",
+  "sparrow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sparrow-rationale-1839": [
+   "a678495700sparuoft",
+   "A rationale upon the Book of common prayer of the Church of England (Oxford : John Henry Parker, 1839)"
+  ],
+  "sparrow-collection-of-articles-1684": [
+   "acollectionarti00spargoog",
+   "A Collection of Articles, Injunctions, Canons, Orders, Ordinances, and (Printed for Blanch Pawlet ..., 1684)"
+  ],
+  "sparrow-confession-sermon-1637": [
+   "bim_early-english-books-1475-1640_a-sermon-concerning-conf_sparrow-anthony_1637_0",
+   "A sermon concerning confession of sinnes, ...  1637 (catalogued 1637)"
+  ]
+ },
+ "_alternates": {
+  "sparrow-copies": "Other printings of the Rationale (1655-1722, 1840, 1843) and the Collection (1661, 1671, 1675)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sparrow-confession-sermon-1637": "title page read from the page image: 'Preached by Mr. Sp. of Queenes Colledge in Cambridge' (a contemporary hand completes it 'Sparrow'); London: R. Bishop for John Clark, 1637. Read from the image of the other EEBO copy of the same printing; this copy's OCR gives 'Preached by WW. [ol of Queenes'. Initials only on the title page: a veto point"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sparrow-rationale-1839": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anthony sparrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sparrow-collection-of-articles-1684": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sparrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1684",
+   "ia_date": "1684",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sparrow-confession-sermon-1637": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1637",
+   "ia_date": "1637",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

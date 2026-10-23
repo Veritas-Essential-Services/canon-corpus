@@ -9827,3 +9827,14 @@ Slugs `patrick-*`. Built from title pages read for round 40.
 | A commentary upon the two Books of Kings (London : Printed for Ri. Chiswell, 1705) | have-ocr | IA `towbooksking00patruoft` |
 | Other scans of the 1858 Works (Princeton, Illinois, Google) and of the commentaries (1695-1705 printings); the 1822 and 1845 Patrick-Lowth-Arnald-Whitby Critical Commentary, a joint work in which his part is the Old Testament historical books; separate 19th-century reprints of the Heart's Ease, Discourse concerning Prayer, Treatise of Repentance and Advice to a Friend, all contained in the Works | alternate | not shelved |
 | John Smith's Select Discourses (1660, 1859), which Patrick edited and preached the funeral sermon for; on john-smith-platonist | excluded | |
+
+## Anthony Sparrow (round 40, my pick, 2026-10-22)
+
+Slugs `sparrow-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A rationale upon the Book of common prayer of the Church of England (Oxford : John Henry Parker, 1839) | have-ocr | IA `a678495700sparuoft` |
+| A Collection of Articles, Injunctions, Canons, Orders, Ordinances, and (Printed for Blanch Pawlet ..., 1684) | have-ocr | IA `acollectionarti00spargoog` |
+| A sermon concerning confession of sinnes, ...  1637 (catalogued 1637) | have-ocr | IA `bim_early-english-books-1475-1640_a-sermon-concerning-conf_sparrow-anthony_1637_0` |
+| Other printings of the Rationale (1655-1722, 1840, 1843) and the Collection (1661, 1671, 1675) | alternate | not shelved |
