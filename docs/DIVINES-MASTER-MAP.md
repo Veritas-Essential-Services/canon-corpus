@@ -19339,6 +19339,19 @@ Slugs `maas-*`. Built from title pages read for round 133.
 | The Gospel according to Saint Matthew with an explanatory and critical commentary (St. Louis : Herder, 1898) | have-ocr | IA `gospelofmatthew00maasuoft` |
 | The Proper Object of the Devotion to the Sacred Heart is Vermeersch's | excluded | |
 | other scans of the same books | excluded | |
+
+## Cecil John Cadoux (round 133, my pick, 2026-10-23)
+
+Slugs `cadoux-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| The early Christian attitude to war : a contribution to the history of Christian ethics (London : Headley, 1919) | have-ocr | IA `earlychristianat00cadouoft` |
+| The guidance of Jesus for to-day : being an account of the teaching of Jesus from the standpoint of modern personal and social need (London : George Allen & Unwin Ltd, 1920) | have-ocr | IA `theguidanceofjes00cadouoft` |
+| The Message about the Cross (George Allen & Unwin, Ltd., 1924) | have-ocr | IA `messageaboutcros0000ceci` |
+| Catholicism and Christianity : a vindication of progressive Protestantism (London : Allen & Unwin, 1928) | have-ocr | IA `catholicismchris0000cado` |
+| An Appeal to the People of the Christian Church (1903) is not certainly his | excluded | |
+| microform and other scans of the same books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
