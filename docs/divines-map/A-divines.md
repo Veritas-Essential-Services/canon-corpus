@@ -18071,3 +18071,23 @@ Slugs `welldon-*`. Built from title pages read for round 121.
 | saureliiaugustin0001jecw, his edition of the Latin De Civitate Dei (1924) | excluded | |
 | Patriotic Song, an anthology of other poets | excluded | |
 | Thirteen Essays on Education, many authors | excluded | |
+
+## W. H. Fremantle (round 121, my pick, 2026-10-23)
+
+Slugs `fremantle-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The Influence of Commerce Upon Christianity: A Prize Essay, Read in the Theatre, Oxford, June 28 (T. and G. Shrimpton, 1854) | have-ocr | IA `influencecommer00fremgoog` |
+| The Gospel of the secular life, sermons preached at Oxford : with a prefatory essay (London : Cassell, 1882) | have-ocr | IA `thegospelofthese00fremuoft` |
+| Sermon on the universal priesthood of believers (Oxford, 1882) | have-ocr | IA `sermononuniversa00frem` |
+| The world as the subject of redemption : being an attempt to set forth the functions of the church as designed to embrace the whole race of mankind : eight lectures delivered before the University of Oxford in the year 1883 on the foundation of the late Rev. John Bampton (London : Rivington's, 1885) | have-ocr | IA `worldassubjectof0000frem` |
+| Church Reform (S. Sonnenschein, Lowrey, 1888) | have-ocr | IA `churchreform00fremgoog` |
+| Canterbury cathedral (Isbister &amp; co., ltd., 1897, 1897) | have-ocr | IA `canterburycathe00fremgoog` |
+| Patriotism and cosmopolitanism, a sermon for the Peace Conference, preached in the English Church at the Hague, Sunday, May 28th, 1899 (Ripon, Thirlway, 1899) | have-ocr | IA `patriotismcosmop00frem` |
+| Christian ordinances and social progress (Boston ; New York : Houghton, Mifflin and Company, 1901) | have-ocr | IA `christianordinan0000frem` |
+| Natural Christianity (London ; New York : Harper and Brothers, 1911) | have-ocr | IA `naturalchristian00fremrich` |
+| Recollections of Dean Fremantle, chiefly by himself (London, New York : Cassell, 1921) | have-ocr | IA `recollectionsofd00frem` |
+| the Jowett sermons he edited are Jowett's | excluded | |
+| the Privy Council ecclesiastical judgments are a law collection he co-edited | excluded | |
+| Aggressive Work in the Church of Christ is by another author | excluded | |
