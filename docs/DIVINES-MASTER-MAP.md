@@ -20365,6 +20365,15 @@ Shelf: `pipeline/hermann-bonitz_shelf.json`. The Origin of the Homeric Poems, tr
 |---|---|---|---|
 | The Origin of the Homeric Poems, tr. Lewis R. Packard (1880) |  | `bonitz-origin-homeric-poems-1880` | have-raw (IA `originofhomericp00boni_0`) |
 
+
+## John Francis D'Alton (1882-1963)
+
+Shelf: `pipeline/j-f-dalton_shelf.json`. Horace and his Age (London: Longmans, 1917) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Horace and his Age (London: Longmans, 1917) |  | `dalton-horace-and-his-age-1917` | have-raw (IA `cu31924026491344`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
