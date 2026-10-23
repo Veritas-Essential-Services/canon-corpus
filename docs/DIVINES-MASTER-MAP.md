@@ -17426,6 +17426,24 @@ Slugs `snowden-*`. Built from title pages read for round 114.
 | The meaning of education (New York, Cincinnati, The Abington press, 1921) | have-ocr | IA `meaningofeducati00snow` |
 | Jesus as judged by his enemies : a study of the criticisms and attacks made on Jesus by his enemies (New York ; Cincinnati : The Abingdon Press, 1922) | have-ocr | IA `jesusasjudgedbyh00snow` |
 | The making and meaning of the New Testament (New York, The Macmillan company, 1923) | have-ocr | IA `makingmeaningofn0000snow` |
+
+## G. H. Gerberding (round 114, my pick, 2026-10-23)
+
+Slugs `gerberding-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| The way of salvation in the Lutheran church (Philadelphia, Pa., Pub. for the author, Lutheran publication society, 1887) | have-ocr | IA `wayofsalvationi00gerb` |
+| New Testament conversions : a series of sermons (Philadelphia, Pa. : Pub. for the author, Lutheran publication society, 1889) | have-ocr | IA `newtestamentconv00gerb` |
+| The Lutheran pastor (Philadelphia, Pa. : Lutheran Publication Society, 1902) | have-ocr | IA `lutheranpastor00gerb` |
+| Life and letters of W. A. Passavant, D. D (Greenville, Pa., The Young Lutheran co., 1906) | have-ocr | IA `lifelettersofwap0000gerb` |
+| The Lutheran church in the country; a study, an explanation, an attempted solution (Philadelphia, General council publication board, 1916) | have-ocr | IA `lutheranchurch00gerb` |
+| R. F. Weidner, D.D. LL.D. : a character sketch, an appreciation, a tribute (Waverly, Iowa : Wartburg Press, 1916) | have-ocr | IA `rfweidnerddlldch00gerb` |
+| What's Wrong with the World?: A Candid Inquiry Into the Underlying Spirit (Gerberding, 1919) | have-ocr | IA `whatswrongwithw00gerbgoog` |
+| The Priesthood of Believers in Its Relation to Inner Mission Work of (The Inner Mission Boardof the United LutheranChurch in America, 1920) | have-ocr | IA `priesthoodbelie00gerbgoog` |
+| Lutheran fundamentals, a simple system of Scripture truth with applications for the common man (Rock Island, Ill. : Augustana Book Concern, 1925) | have-ocr | IA `lutheranfundamen00gerb` |
+| Reminiscent reflections of a youthful octogenarian (Minneapolis, Minn. : Augsburg publishing house, 1928) | have-ocr | IA `reminiscentrefle00gerb` |
+| vgentillfrlsnin00gerbgoog (a Swedish translation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
