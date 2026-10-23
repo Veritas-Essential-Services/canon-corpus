@@ -15231,3 +15231,16 @@ Slugs `vinton-*`. Built from title pages read for round 90.
 | The duties of peace : the nation's third thanksgiving, a sermon preached in St. Mark's Church in the Bowerie, on December 7, 1865 / by the Rev. Alexander H. Vinton (J.A. Gray & Green, 1865) | have-ocr | IA `dutiesofpeacenat00vint` |
 | Four lectures delivered in the Church of the Holy Trinity, Philadelphia, in the year 1877, on the foundation of the late John Bohlen, esq (New York, T. Whittaker, 1887) | have-ocr | IA `fourlecturesdel00vint` |
 | Addresses (1909), a memorial service shared with William Lawrence | excluded | |
+
+## George T. Purves (round 91, my pick, 2026-10-23)
+
+Slugs `purves-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| The testimony of Justin Martyr to early Christianity (London : J. Nisbet & Co., 1888) | have-ocr | IA `testimonyofjusti0000purv` |
+| Christianity in the apostolic age (New York : C. Scribner's Sons, 1900) | have-ocr | IA `christianityinap00purv` |
+| Joy in service : forgetting and pressing onward until the day dawn / by George T. Purves. The teacher and pastor / F. L. Patton (New York : American Tract Society, 1901) | have-ocr | IA `joyinserviceforg00purv` |
+| Faith and life (Philadelphia, Presbyterian Board of Publication and Sabbath-School Work, 1902) | have-ocr | IA `faithlif00purv` |
+| The sinless Christ (Philadelphia, Presbyterian board of publication and Sabbath-school work, 1902) | have-ocr | IA `sinlesschrist00purv` |
+| the 1892 inauguration pamphlet (several speakers) | excluded | |

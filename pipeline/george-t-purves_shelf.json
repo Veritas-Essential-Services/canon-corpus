@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain George Tybout Purves (1852-1901), Princeton Seminary professor of New Testament and pastor of Fifth Avenue Presbyterian Church, New York, for the Word Hoard: The Testimony of Justin Martyr to Early Christianity (1888), Christianity in the Apostolic Age (1900), Joy in Service (1901), Faith and Life (1902) and The Sinless Christ (1902). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 91 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george t. purves",
+  "george tybout purves",
+  "g. t. purves"
+ ],
+ "_surname": [
+  "george t. purves",
+  "george tybout purves",
+  "g. t. purves",
+  "purves"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "purves-justin-martyr": [
+   "testimonyofjusti0000purv",
+   "The testimony of Justin Martyr to early Christianity (London : J. Nisbet & Co., 1888)"
+  ],
+  "purves-apostolic-age": [
+   "christianityinap00purv",
+   "Christianity in the apostolic age (New York : C. Scribner's Sons, 1900)"
+  ],
+  "purves-joy-in-service": [
+   "joyinserviceforg00purv",
+   "Joy in service : forgetting and pressing onward until the day dawn / by George T. Purves. The teacher and pastor / F. L. Patton (New York : American Tract Society, 1901)"
+  ],
+  "purves-faith-and-life": [
+   "faithlif00purv",
+   "Faith and life (Philadelphia, Presbyterian Board of Publication and Sabbath-School Work, 1902)"
+  ],
+  "purves-sinless-christ": [
+   "sinlesschrist00purv",
+   "The sinless Christ (Philadelphia, Presbyterian board of publication and Sabbath-school work, 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "purves-inauguration": "the 1892 inauguration pamphlet (several speakers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "purves-justin-martyr": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. purves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "purves-apostolic-age": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. purves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "purves-joy-in-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. purves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "purves-faith-and-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george t. purves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "purves-sinless-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george tybout purves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
