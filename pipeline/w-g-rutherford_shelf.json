@@ -1,0 +1,38 @@
+{
+ "_about": "W. G. Rutherford (1853-1907), headmaster of Westminster: The New Phrynichus (1881), a revised text of the Atticist grammarian's Ecloga with introductions and an English commentary. Greek-heavy; kept per Adam's 2026-10-23 ruling. His Babrius scan has an empty text layer; his grammars, sermons and St Paul translations are outside lane B. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "William Gunion Rutherford (1853-1907)",
+ "_name_words": [
+  "rutherford",
+  "william",
+  "gunion",
+  "phrynichus"
+ ],
+ "_surname": [
+  "w. g. rutherford",
+  "william gunion rutherford",
+  "gunion rutherford",
+  "w. gunion rutherford"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rutherford-new-phrynichus-1881": [
+   "newphrynichusbei00phryuoft",
+   "The New Phrynichus (London: Macmillan, 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rutherford-new-phrynichus-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gunion rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

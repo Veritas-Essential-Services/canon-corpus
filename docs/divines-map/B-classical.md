@@ -10465,3 +10465,12 @@ Shelf: `pipeline/j-a-k-thomson_shelf.json`. Studies in the Odyssey (Oxford: Clar
 | The Greek Tradition: Essays in the Reconstruction of Ancient Thought (London: Allen and Unwin, 1915) |  | `thomson-greek-tradition-1915` | have-raw (IA `greektraditiones00thomuoft`) |
 | Greeks and Barbarians (London: Allen and Unwin, 1921) |  | `thomson-greeks-and-barbarians-1921` | have-raw (IA `greeksbarbarians00thomuoft`) |
 
+
+## William Gunion Rutherford (1853-1907)
+
+Shelf: `pipeline/w-g-rutherford_shelf.json`. The New Phrynichus (London: Macmillan, 1881). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The New Phrynichus (London: Macmillan, 1881) |  | `rutherford-new-phrynichus-1881` | have-raw (IA `newphrynichusbei00phryuoft`) |
+
