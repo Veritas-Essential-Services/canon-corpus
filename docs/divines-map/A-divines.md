@@ -12560,3 +12560,17 @@ Slugs `humphrey-*`. Built from title pages read for round 60.
 | Revival sketches and manual (New York, American Tract Society, 1859) | have-ocr | IA `revivalsketches00hump` |
 | Great Britain, France and Belgium, a travel book (1838); his edition of The New England Primer; short addresses and funeral sermons | excluded | |
 | christianmemoirs00hump: Christian Memoirs (1836), lives of Bunyan, Halyburton, Baxter and others gathered from earlier writers; this scan has lost its title page and nothing in it names Humphrey | excluded | |
+
+## John Todd (1800-1873) (round 60, my pick, 2026-10-23)
+
+Slugs `jtodd-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures to children : familiarly illustrating important truth (Northampton : J.H. Butler, 1844) | have-ocr | IA `lecturestochildr00todd` |
+| The young man. Hints addressed to the young men of the United States (Northampton, J.H. Butler; Buffalo, J.H. Butler & Co., 1845) | have-ocr | IA `youngmanhintsadd00todd` |
+| The student's manual : designed, by specific directions, to aid in forming and strengthening the intellectual and moral character and habits of the student (Northampton, [Mass] : Hopkins, Bridgman & Co., 1850) | have-ocr | IA `studentsmanualde00todd` |
+| Summer gleanings, or, Sketches and incidents of a pastor's vacation (Northampton : Hopkins, Bridgman, 1852) | have-ocr | IA `summergleaningso00todduoft` |
+| The daughter at school (Northampton [Mass.] Hopkins, Bridgman and company, 1854) | have-ocr | IA `daughteratschool00todd` |
+| The Sabbath school teacher : designed to aid in elevating and perfecting the Sabbath school system (Northampton, Mass. : Hopkins, Bridgman & co., 1856) | have-ocr | IA `sabbathschooltea00toddrich` |
+| Index Rerum (a blank commonplace-book index, 1839); The Lost Sister of Wyoming (a tale, 1842); Robert Bentley Todd's Cyclopaedia of Anatomy and other John Todds | excluded | |
