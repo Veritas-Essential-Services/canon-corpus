@@ -20016,6 +20016,15 @@ Shelf: `pipeline/w-g-rutherford_shelf.json`. The New Phrynichus (London: Macmill
 |---|---|---|---|
 | The New Phrynichus (London: Macmillan, 1881) |  | `rutherford-new-phrynichus-1881` | have-raw (IA `newphrynichusbei00phryuoft`) |
 
+
+## Agnes Mary Clerke (1842-1907)
+
+Shelf: `pipeline/agnes-m-clerke_shelf.json`. Familiar Studies in Homer (London: Longmans, 1892). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Familiar Studies in Homer (London: Longmans, 1892) |  | `clerke-familiar-studies-homer-1892` | have (PG 65000) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

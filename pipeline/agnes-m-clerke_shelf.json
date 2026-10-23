@@ -1,0 +1,36 @@
+{
+ "_about": "Agnes M. Clerke (1842-1907), historian of astronomy: Familiar Studies in Homer (Longmans, 1892). Her astronomy books are outside lane B. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Agnes Mary Clerke (1842-1907)",
+ "_name_words": [
+  "clerke",
+  "agnes",
+  "mary",
+  "homer",
+  "studies"
+ ],
+ "_surname": [
+  "agnes m. clerke",
+  "agnes mary clerke",
+  "a. m. clerke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clerke-familiar-studies-homer-1892": [
+   65000,
+   "Familiar Studies in Homer (London: Longmans, 1892)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "clerke-familiar-studies-homer-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes m. clerke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
