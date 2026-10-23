@@ -12012,6 +12012,29 @@ Slugs `nott-*`. Built from title pages read for round 56.
 | Lectures on temperance (Hamilton, C.W., A. M. Moffat & co., 1858) | have-ocr | IA `lecturesontempe00nott` |
 | The resurrection of Christ : a series of discourses (New York : Scribner, Armstrong, 1872) | have-ocr | IA `resurrectionofch00nott` |
 | Union College inauguration proceedings and Potter's commemorative discourses (other authors) | excluded | |
+
+## Henry Ward Beecher (round 57, my pick, 2026-10-23)
+
+Slugs `hwbeecher-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven lectures to young men on various important subjects : delivered before the young men of Indianapolis, Indiana, during the winter of 1843-4 (Indianapolis : Thomas B. Culter ; Cincinnati : Wm. H. Moore & Co., 1844) | have-ocr | IA `sevenlecturestoy00beec` |
+| Star papers : or, Experiences of art and nature (New York : J.C. Derby ; Boston : Phillips, Sampson, 1855) | have-ocr | IA `starpapersorexpe00inbeec` |
+| New star papers; or, Views and experiences of religious subjects (New York, Derby, 1859) | have-ocr | IA `newstarpapersorv00beec` |
+| Eyes and ears (Boston, Ticknor and Fields, 1862) | have-ocr | IA `eyesearshenry00beecrich` |
+| Freedom and war : discourses on topics suggested by the times (Boston : Ticknor and Fields, 1863) | have-ocr | IA `freedomwardiscou00beec` |
+| American rebellion : report of the speeches of the Rev. Henry Ward Beecher, delivered at public meetings in Manchester, Glasgow, Edinburgh, Liverpool, and London; and at the farewell breakfasts in London, Manchester, and Liverpool (Manchester : Union and Emancipation Society, 1864) | have-ocr | IA `americanrebellio00beec` |
+| Prayers in the congregation (catalogued 1868) | have-ocr | IA `prayersincongre01beecgoog` |
+| Norwood : or, Village life in New England (New York : C. Scribner & Co., 1868) | have-ocr | IA `norwoodorvillage00beec` |
+| Lecture-room talks : a series of familiar discourses on themes of general Christian experience (New York : J.B. Ford, 1870) | have-ocr | IA `lectureroomtal00beec` |
+| The life of Jesus the Christ ... [Vol. 1], vol. 1 (New York : J.B. Ford, 1871) | have-ocr | IA `lifeofjesuschri01beec` |
+| Yale lectures on preaching (New York : Fords, Howard, and Hulbert, 1872) | have-ocr | IA `yalelecturesonpr00beecuoft` |
+| Evolution and religion ... (New York : Fords, Howard & Hulbert, 1885) | have-ocr | IA `cu31924029074701` |
+| Patriotic addresses in America and England, from 1850 to 1885, on slavery, the Civil war, and the development of civil liberty in the United States, by Henry Ward Beecher (New York, Fords, Howard & Hulbert, 1887) | have-ocr | IA `patrioticaddress00beecrich` |
+| The Plymouth Pulpit and Sermons in Plymouth Church series (1868-1875, many volumes): left for a later round, scans need sorting by series and volume | pending | not shelved |
+| The Life of Jesus the Christ, vol. 2 (1891, completed by his sons): not yet located | pending | not shelved |
+| Selections others gathered from his sermons (Life Thoughts, Royal Truths, Notes from Plymouth Pulpit, 595 Pulpit Pungencies, Beecher as a Humorist, the Beecher Book of Days); the Plymouth Collection hymn books; Plain and Pleasant Talk about Fruits, Flowers and Farming (not divinity); Mrs. Beecher's Motherly Talks; biographies of him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

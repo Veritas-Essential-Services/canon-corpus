@@ -1,0 +1,227 @@
+{
+ "_about": "Public-domain Henry Ward Beecher (1813-1887), Congregational pastor of Plymouth Church, Brooklyn, for the Word Hoard: Seven Lectures to Young Men (1844), Star Papers (1855), New Star Papers (1859), Eyes and Ears (1862), Freedom and War (1863), the American Rebellion speeches (1864), Prayers in the Congregation (1868), Norwood (1868), Lecture-Room Talks (1870), The Life of Jesus the Christ, vol. 1 (1871), Yale Lectures on Preaching (1872-1874), Evolution and Religion (1885) and Patriotic Addresses (1887), from Internet Archive scans. The many volumes of Plymouth Pulpit sermons are left for a later round. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "beecher"
+ ],
+ "_surname": [
+  "henry ward beecher",
+  "h. w. beecher",
+  "henry w. beecher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hwbeecher-lectures-young-men": [
+   "sevenlecturestoy00beec",
+   "Seven lectures to young men on various important subjects : delivered before the young men of Indianapolis, Indiana, during the winter of 1843-4 (Indianapolis : Thomas B. Culter ; Cincinnati : Wm. H. Moore & Co., 1844)"
+  ],
+  "hwbeecher-star-papers": [
+   "starpapersorexpe00inbeec",
+   "Star papers : or, Experiences of art and nature (New York : J.C. Derby ; Boston : Phillips, Sampson, 1855)"
+  ],
+  "hwbeecher-new-star-papers": [
+   "newstarpapersorv00beec",
+   "New star papers; or, Views and experiences of religious subjects (New York, Derby, 1859)"
+  ],
+  "hwbeecher-eyes-and-ears": [
+   "eyesearshenry00beecrich",
+   "Eyes and ears (Boston, Ticknor and Fields, 1862)"
+  ],
+  "hwbeecher-freedom-and-war": [
+   "freedomwardiscou00beec",
+   "Freedom and war : discourses on topics suggested by the times (Boston : Ticknor and Fields, 1863)"
+  ],
+  "hwbeecher-american-rebellion": [
+   "americanrebellio00beec",
+   "American rebellion : report of the speeches of the Rev. Henry Ward Beecher, delivered at public meetings in Manchester, Glasgow, Edinburgh, Liverpool, and London; and at the farewell breakfasts in London, Manchester, and Liverpool (Manchester : Union and Emancipation Society, 1864)"
+  ],
+  "hwbeecher-prayers": [
+   "prayersincongre01beecgoog",
+   "Prayers in the congregation (catalogued 1868)"
+  ],
+  "hwbeecher-norwood": [
+   "norwoodorvillage00beec",
+   "Norwood : or, Village life in New England (New York : C. Scribner & Co., 1868)"
+  ],
+  "hwbeecher-lecture-room-talks": [
+   "lectureroomtal00beec",
+   "Lecture-room talks : a series of familiar discourses on themes of general Christian experience (New York : J.B. Ford, 1870)"
+  ],
+  "hwbeecher-life-of-jesus-1": [
+   "lifeofjesuschri01beec",
+   "The life of Jesus the Christ ... [Vol. 1], vol. 1 (New York : J.B. Ford, 1871)"
+  ],
+  "hwbeecher-yale-lectures": [
+   "yalelecturesonpr00beecuoft",
+   "Yale lectures on preaching (New York : Fords, Howard, and Hulbert, 1872)"
+  ],
+  "hwbeecher-evolution-religion": [
+   "cu31924029074701",
+   "Evolution and religion ... (New York : Fords, Howard & Hulbert, 1885)"
+  ],
+  "hwbeecher-patriotic-addresses": [
+   "patrioticaddress00beecrich",
+   "Patriotic addresses in America and England, from 1850 to 1885, on slavery, the Civil war, and the development of civil liberty in the United States, by Henry Ward Beecher (New York, Fords, Howard & Hulbert, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hwbeecher-other": "Selections others gathered from his sermons (Life Thoughts, Royal Truths, Notes from Plymouth Pulpit, 595 Pulpit Pungencies, Beecher as a Humorist, the Beecher Book of Days); the Plymouth Collection hymn books; Plain and Pleasant Talk about Fruits, Flowers and Farming (not divinity); Mrs. Beecher's Motherly Talks; biographies of him"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hwbeecher-life-of-jesus-1": "Title page OCR reads 'THE LIFE OF JESUS, THE CHRIST. BY HENRY WAED BEECHER' (Ward garbled), New York: J. B. Ford and Company, entered 1871."
+ },
+ "_pending": {
+  "hwbeecher-plymouth-pulpit": "The Plymouth Pulpit and Sermons in Plymouth Church series (1868-1875, many volumes): left for a later round, scans need sorting by series and volume",
+  "hwbeecher-life-of-jesus-2": "The Life of Jesus the Christ, vol. 2 (1891, completed by his sons): not yet located"
+ },
+ "_translators": {},
+ "_checks": {
+  "hwbeecher-lectures-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-star-papers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hwbeecher-new-star-papers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-eyes-and-ears": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-freedom-and-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-american-rebellion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hwbeecher-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-norwood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-lecture-room-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hwbeecher-life-of-jesus-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-yale-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hwbeecher-evolution-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hwbeecher-patriotic-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry ward beecher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
