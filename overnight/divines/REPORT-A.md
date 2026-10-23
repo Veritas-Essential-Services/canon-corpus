@@ -2180,3 +2180,6 @@
 
 ## 2026-10-23 06:13 CDT — round 94 done
 - oliver-heywood, james-janeway, anne-dutton, robert-jenkin, henry-melvill-gwatkin, morgan-dix: 6 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:19 CDT — round 95 done
+- milton-s-terry, frederic-henry-hedge, stephen-olin, theophilus-lindsey, george-putnam-roxbury, wayland-hoyt: 6 shelves, 58 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
