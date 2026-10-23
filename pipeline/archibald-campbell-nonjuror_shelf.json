@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Archibald Campbell (died 1744), nonjuring Scottish bishop, for the Word Hoard: The Doctrines of a Middle State between Death and the Resurrection (1721), the enlarged and signed edition of his anonymous Some Primitive Doctrines Reviv'd (1713), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "campbell"
+ ],
+ "_surname": [
+  "archibald campbell",
+  "arch. campbell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "acampbell-middle-state-1721": [
+   "bim_eighteenth-century_some-primitive-doctrine_campbell-archibald_1721",
+   "[Some primitive doctrines reviv'd]. The doctrines of a middle state between death and the resurrection:  .... To which is added, an appendix ... By the honourable Archibald Campbell.  1721 (catalogued 1721)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "acampbell-other": "Works by Archibald Campbell (1691-1756), professor at St Andrews (Arete-logia, 1728; The Authenticity of the Gospel-History, 1759), a different man; Dr. Brett's Vindication (1715), Brett's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "acampbell-middle-state-1721": "title page read from the page image: 'The Doctrines of a Middle State between Death and the Resurrection ... By the Honourable Archibald Campbell', London: printed for the author, MDCCXXI (the OCR of this film is noise)"
+ },
+ "_pending": {
+  "acampbell-primitive-doctrines-1713": "Some primitive doctrines reviv'd: or the intermediate or middle state of departed souls (as to happiness or misery) before the day of judgment. Plainly prov'd from the Holy Scriptures ... To which is prefix'd the judgment of the Reverend Dr. George Hickes concerning this book, ...  1713 (catalogued 1713) [bim_eighteenth-century_some-primitive-doctrines_campbell-archibald_1713]: title page read from the page image names no author, and Hickes's prefixed Judgment says the writer 'hath chosen modestly to conceal his Name'; the 1721 enlarged edition, which names him, is shelved"
+ },
+ "_translators": {},
+ "_checks": {
+  "acampbell-middle-state-1721": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

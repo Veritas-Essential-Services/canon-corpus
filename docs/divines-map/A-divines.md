@@ -10110,3 +10110,13 @@ Slugs `rattray-*`. Built from title pages read for round 41.
 |---|---|---|
 | The ancient liturgy of the Church of Jerusalem, : being the liturgy of St. James, freed from all latter additions and interpolations ... and so restored to it's original purity: by comparing it with the account (London, : Printed by J. Bettenham, 1744) | have-ocr | IA `ancientliturgyc01churgoog` |
 | Later Rattrays (poets, travellers, physicians) | excluded | |
+
+## Archibald Campbell (nonjuror) (round 41, my pick, 2026-10-22)
+
+Slugs `acampbell-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| [Some primitive doctrines reviv'd]. The doctrines of a middle state between death and the resurrection:  .... To which is added, an appendix ... By the honourable Archibald Campbell.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_some-primitive-doctrine_campbell-archibald_1721` |
+| Some primitive doctrines reviv'd: or the intermediate or middle state of departed souls (as to happiness or misery) before the day of judgment. Plainly prov'd from the Holy Scriptures ... To which is prefix'd the judgment of the Reverend Dr. George Hickes concerning this book, ...  1713 (catalogued 1713) [bim_eighteenth-century_some-primitive-doctrines_campbell-archibald_1713]: title page read from the page image names no author, and Hickes's prefixed Judgment says the writer 'hath chosen modestly to conceal his Name'; the 1721 enlarged edition, which names him, is shelved | pending | not shelved |
+| Works by Archibald Campbell (1691-1756), professor at St Andrews (Arete-logia, 1728; The Authenticity of the Gospel-History, 1759), a different man; Dr. Brett's Vindication (1715), Brett's | excluded | |
