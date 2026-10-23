@@ -599,7 +599,7 @@
  },
  "_perseus_checks": {
   "lucian-perseus-harmon-the-ignorant-book-collector": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg028.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -610,7 +610,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -620,7 +620,7 @@
    }
   },
   "lucian-perseus-harmon-alexander-the-false-prophet": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg038.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -631,7 +631,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -641,7 +641,7 @@
    }
   },
   "lucian-perseus-harmon-anacharsis-or-athletics": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg034.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -652,7 +652,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -662,7 +662,7 @@
    }
   },
   "lucian-perseus-harmon-dionysus-an-introduction": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg003.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -673,7 +673,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -683,7 +683,7 @@
    }
   },
   "lucian-perseus-harmon-the-double-indictment": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg026.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -694,7 +694,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -704,7 +704,7 @@
    }
   },
   "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg013.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -714,7 +714,7 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -724,7 +724,7 @@
    }
   },
   "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg016.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -735,7 +735,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -745,7 +745,7 @@
    }
   },
   "lucian-perseus-smith-the-ferry": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg016.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -756,7 +756,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -766,7 +766,7 @@
    }
   },
   "lucian-perseus-harmon-charon-or-the-inspectors": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg023.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -777,7 +777,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -787,7 +787,7 @@
    }
   },
   "lucian-perseus-harmon-the-hall": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg009.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -798,7 +798,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -808,7 +808,7 @@
    }
   },
   "lucian-perseus-harmon-on-sacrifices": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg027.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -819,7 +819,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -829,7 +829,7 @@
    }
   },
   "lucian-perseus-harmon-the-goddesse-of-surrye": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg041.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -840,7 +840,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -850,7 +850,7 @@
    }
   },
   "lucian-perseus-harmon-on-funerals": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg036.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -861,7 +861,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -871,7 +871,7 @@
    }
   },
   "lucian-perseus-harmon-on-salaried-posts-in-great-houses": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg033.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -882,7 +882,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -892,7 +892,7 @@
    }
   },
   "lucian-perseus-harmon-the-parasite-tychiades": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg030.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -903,7 +903,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -913,7 +913,7 @@
    }
   },
   "lucian-perseus-harmon-the-judgement-of-the-goddesses": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg032.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -924,7 +924,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -934,7 +934,7 @@
    }
   },
   "lucian-perseus-harmon-demonax": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg008.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -945,7 +945,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -955,7 +955,7 @@
    }
   },
   "lucian-perseus-harmon-amber-or-the-swan": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg005.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -966,7 +966,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -976,7 +976,7 @@
    }
   },
   "lucian-perseus-harmon-the-dream-or-the-cock": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg019.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -987,7 +987,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -997,7 +997,7 @@
    }
   },
   "lucian-perseus-smith-the-cock": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg019.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1008,7 +1008,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1018,7 +1018,7 @@
    }
   },
   "lucian-perseus-harmon-heracles-an-introduction": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg004.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1029,7 +1029,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1039,7 +1039,7 @@
    }
   },
   "lucian-perseus-harmon-hippias-or-the-bath": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg002.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1050,7 +1050,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1060,7 +1060,7 @@
    }
   },
   "lucian-perseus-harmon-icaromenippus-or-the-sky-man": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg021.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1071,7 +1071,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1081,7 +1081,7 @@
    }
   },
   "lucian-perseus-harmon-essays-in-portraiture": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg039.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1092,7 +1092,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1102,7 +1102,7 @@
    }
   },
   "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg014.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1112,7 +1112,7 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1122,7 +1122,7 @@
    }
   },
   "lucian-perseus-harmon-zeus-catechized": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg017.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1133,7 +1133,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1143,7 +1143,7 @@
    }
   },
   "lucian-perseus-harmon-zeus-rants": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg018.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1154,7 +1154,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1164,7 +1164,7 @@
    }
   },
   "lucian-perseus-smith-zeus-the-tragedian": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg018.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1175,7 +1175,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1185,7 +1185,7 @@
    }
   },
   "lucian-perseus-harmon-octogenerians": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg011.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1196,7 +1196,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1206,7 +1206,7 @@
    }
   },
   "lucian-perseus-harmon-the-fly": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg006.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1217,7 +1217,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1227,7 +1227,7 @@
    }
   },
   "lucian-perseus-harmon-menippus-or-the-descent-into-hades": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg035.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1238,7 +1238,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1248,7 +1248,7 @@
    }
   },
   "lucian-perseus-harmon-nigrinus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg007.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1259,7 +1259,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1269,7 +1269,7 @@
    }
   },
   "lucian-perseus-harmon-my-native-land": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg010.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1280,7 +1280,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1290,7 +1290,7 @@
    }
   },
   "lucian-perseus-harmon-phalaris": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg001.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1301,7 +1301,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1311,7 +1311,7 @@
    }
   },
   "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg031.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1322,7 +1322,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1332,7 +1332,7 @@
    }
   },
   "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg025.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1343,7 +1343,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1353,7 +1353,7 @@
    }
   },
   "lucian-perseus-harmon-essays-in-portraiture-defended": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg040.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1364,7 +1364,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1374,7 +1374,7 @@
    }
   },
   "lucian-perseus-harmon-prometheus": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg020.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1385,7 +1385,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1395,7 +1395,7 @@
    }
   },
   "lucian-perseus-harmon-a-professor-of-public-speaking": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg037.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1406,7 +1406,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1416,7 +1416,7 @@
    }
   },
   "lucian-perseus-harmon-the-dream-or-lucian-s-career": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg029.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1427,7 +1427,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1437,7 +1437,7 @@
    }
   },
   "lucian-perseus-smith-the-dream": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg029.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1448,7 +1448,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1458,7 +1458,7 @@
    }
   },
   "lucian-perseus-harmon-the-carousal-or-the-lapiths": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg015.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1468,7 +1468,7 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1478,7 +1478,7 @@
    }
   },
   "lucian-perseus-harmon-timon-or-the-misanthrope": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg022.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1489,7 +1489,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1499,7 +1499,7 @@
    }
   },
   "lucian-perseus-smith-toxaris-or-friendship": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg044.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1510,7 +1510,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1520,7 +1520,7 @@
    }
   },
   "lucian-perseus-harmon-a-true-story": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg012.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1531,7 +1531,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1541,7 +1541,7 @@
    }
   },
   "lucian-perseus-smith-a-true-history": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg012.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1552,7 +1552,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1562,7 +1562,7 @@
    }
   },
   "lucian-perseus-harmon-philosophies-for-sale": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg024.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1573,7 +1573,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1583,7 +1583,7 @@
    }
   },
   "lucian-perseus-smith-the-sale-of-lives": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg024.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1594,7 +1594,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1604,7 +1604,7 @@
    }
   },
   "lucian-perseus-smith-loukios-or-the-ass": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0061.tlg001.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1615,7 +1615,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1625,7 +1625,7 @@
    }
   },
   "lucian-perseus-smith-the-halcyon": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0061.tlg004.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
@@ -1636,7 +1636,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -1648,7 +1648,70 @@
  },
  "_held": {
   "lucian-perseus-fowler-the-cynic": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg006.perseus-eng1 (The Cynic, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "lucian-perseus-fowler-demosthenes-an-encomium": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg003.perseus-eng1 (Demosthenes: an Encomium, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "lucian-perseus-fowler-demosthenes-an-encomium": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg003.perseus-eng1 (Demosthenes: an Encomium, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "lucian-perseus-fowler-the-disinherited": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg052.perseus-eng4 (The Disinherited, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-remarks-addressed-to-an-illiterate-book-fancier": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg028.perseus-eng4 (Remarks Addressed To an Illiterate Book-fancier, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-alexander-the-oracle-monger": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg038.perseus-eng4 (Alexander the Oracle-monger, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-anacharsis-a-discussion-of-physical-training": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg034.perseus-eng4 (Anacharsis, a Discussion of Physical Training, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-apology-for-the-dependent-scholar": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg059.perseus-eng4 (Apology For ‘the Dependent Scholar’, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dionysus-an-introductory-lecture": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg003.perseus-eng4 (Dionysus, an Introductory Lecture, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-double-indictment": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg026.perseus-eng4 (The Double Indictment, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-slander-a-warning": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg013.perseus-eng4 (Slander, a Warning, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-voyage-to-the-lower-world": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg016.perseus-eng4 (Voyage To the Lower World, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-charon": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg023.perseus-eng4 (Charon, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-hall": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg009.perseus-eng4 (The Hall, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-death-of-peregrine": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg042.perseus-eng4 (The Death of Peregrine, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-of-sacrifice": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg027.perseus-eng4 (Of Sacrifice, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-of-mourning": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg036.perseus-eng4 (Of Mourning, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-dependent-scholar": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg033.perseus-eng4 (The Dependent Scholar, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-parasite-a-demonstration-that-sponging-is-a-profess": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg030.perseus-eng4 (The Parasite: a Demonstration that Sponging is a Profession, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-of-pantomime": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg045.perseus-eng4 (Of Pantomime, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-life-of-demonax": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg008.perseus-eng4 (Life of Demonax, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-gods-in-council": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg050.perseus-eng4 (The Gods in Council, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dialogues-of-the-sea-gods": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg067.perseus-eng4 (Dialogues of the Sea-gods:, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dialogues-of-the-gods": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg068.perseus-eng4 (Dialogues of the Gods, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dialogues-of-the-hetaerae": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg069.perseus-eng4 (Dialogues of the Hetaerae, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dialogues-of-the-dead": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg066.perseus-eng4 (Dialogues of the Dead, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-dipsas-the-thirst-snake": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg054.perseus-eng4 (Dipsas, the Thirst-snake, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-swans-and-amber": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg005.perseus-eng4 (Swans and Amber, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-runaways": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg043.perseus-eng4 (The Runaways, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-cock": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg019.perseus-eng4 (The Cock, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-harmonides": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg060.perseus-eng4 (Harmonides, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-heracles-an-introductory-lecture": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg004.perseus-eng4 (Heracles, an Introductory Lecture, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-hermotimus-or-the-rival-philosophies": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg063.perseus-eng4 (Hermotimus, or the Rival Philosophies, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-herodotus-and-aetion": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg056.perseus-eng4 (Herodotus and Aetion, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-word-with-hesiod": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg061.perseus-eng4 (A Word with Hesiod, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-icaromenippus-an-aerial-expedition": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg021.perseus-eng4 (Icaromenippus, an Aerial Expedition, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-portrait-study": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg039.perseus-eng4 (A Portrait-study, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-trial-in-the-court-of-vowels": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg014.perseus-eng4 (Trial in the Court of Vowels, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-zeus-cross-examined": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg017.perseus-eng4 (Zeus Cross-examined, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-zeus-tragoedus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg018.perseus-eng4 (Zeus Tragoedus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-lexiphanes": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg046.perseus-eng4 (Lexiphanes, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-fly-an-appreciation": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg006.perseus-eng4 (The Fly, an Appreciation, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-ship-or-the-wishes": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg065.perseus-eng4 (The Ship: Or, the Wishes, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-menippus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg035.perseus-eng4 (Menippus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-nigrinus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg007.perseus-eng4 (Nigrinus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-patriotism": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg010.perseus-eng4 (Patriotism, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-phalaris-i": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg001.perseus-eng4 (Phalaris, I, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-liar": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg031.perseus-eng4 (The Liar, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-fisher": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg025.perseus-eng4 (The Fisher, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-defence-of-the-portrait-study": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg040.perseus-eng4 (Defence of the ‘portrait-study’, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-slip-of-the-tongue-in-salutation": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg058.perseus-eng4 (A Slip of the Tongue in Salutation, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-prometheus-on-caucasus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg020.perseus-eng4 (Prometheus on Caucasus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-literary-prometheus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg064.perseus-eng4 (A Literary Prometheus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-way-to-write-history": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg053.perseus-eng4 (The Way To Write History, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-rhetorician-s-vade-mecum": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg037.perseus-eng4 (The Rhetorician’s Vade Mecum, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-saturnalia": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg055.perseus-eng4 (Saturnalia, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-scythian": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg062.perseus-eng4 (The Scythian, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-purist-purized": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg070.perseus-eng4 (The Purist Purized, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-chapter-of-autobiography": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg029.perseus-eng4 (A Chapter of Autobiography, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-a-feast-of-lapithae": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg015.perseus-eng4 (A Feast of Lapithae, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-timon-the-misanthrope": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg022.perseus-eng4 (Timon the Misanthrope, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-toxaris-a-dialogue-of-friendship": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg044.perseus-eng4 (Toxaris: a Dialogue of Friendship, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-tyrannicide": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg051.perseus-eng4 (The Tyrannicide, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-the-true-history": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg012.perseus-eng4 (The True History, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-sale-of-creeds": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg024.perseus-eng4 (Sale of Creeds, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "lucian-perseus-fowler-zeuxis-and-antiochus": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0062.tlg057.perseus-eng4 (Zeuxis and Antiochus, tr. Francis George Fowler) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_rights_checked": {
   "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
