@@ -1,0 +1,32 @@
+{
+ "_about": "Albert Curtis Clark (1859-1937), Corpus Professor of Latin at Oxford, raw IA OCR of The Cursus in Mediaeval and Vulgar Latin (1910). Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Albert C. Clark",
+ "_name_words": [
+  "clark"
+ ],
+ "_surname": [
+  "albert c. clark"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "albert-c-clark-cursus-1910": [
+   "cursusinmediaeva00claruoft",
+   "The Cursus in Mediaeval and Vulgar Latin, by Albert C. Clark, a paper read to the Oxford Philological Society on February 18, 1910 (Oxford: at the Clarendon Press, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "albert-c-clark-cursus-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert c. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
