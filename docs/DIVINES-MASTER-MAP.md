@@ -11590,6 +11590,21 @@ Slugs `rfuller-*`. Built from title pages read for round 53.
 | Mercy remembered in wrath : a sermon preached by the Rev. Dr. Fuller, on Thursday, September 26, 1861, being the day of national fasting, humiliation and prayer (Henry Taylor, 1861) | have-ocr | IA `mercyrememberedi00full` |
 | Domestic Slavery considered as a Scriptural Institution (1845), his correspondence with Francis Wayland: already held on the francis-wayland shelf | pending | not shelved |
 | The Psalmist hymn book (1843, he co-edited); Chaplain Fuller (1863, about Arthur Fuller, another man) | excluded | |
+
+## Jeremiah B. Jeter (round 53, my pick, 2026-10-23)
+
+Slugs `jeter-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| A memoir of Abner W. Clopton (Richmond, Yale & Wyatt, 1837) | have-ocr | IA `memoirofabnerwcl00jete` |
+| A memoir of Mrs. Henrietta Shuck, the first American female missionary to China (Boston : Gould, Kendall & Lincoln, 1849) | have-ocr | IA `memoirofmrshenri00jeteiala` |
+| Campbellism examined (New York : Sheldon, Blakeman, 1858) | have-ocr | IA `campbellismexami00jeteiala` |
+| The mirror; or, A delineation of different classes of Christians, in a series of lectures (New York, Sheldon, Lamport, & Blakeman, 1855) | have-ocr | IA `mirrorordelineat00jete` |
+| The seal of heaven ([n.p.], 1871) | have-ocr | IA `sealofheaven00jete` |
+| Life and times of James B. Taylor (Philadelphia, The Bible and Publication Society, 1872) | have-ocr | IA `cu31924011500182` |
+| The life of Rev. Daniel Witt, D. D., of Prince Edward County, Virginia (Richmond, J. T. Ellyson, 1875) | have-ocr | IA `lifeofrevdanielw00jete` |
+| The Psalmist hymn book (co-edited); Civil War tracts; Taylor's Virginia Baptist Ministers (another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
