@@ -1,0 +1,85 @@
+{
+ "_about": "Henry Blake Fuller: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry Blake Fuller",
+ "_name_words": [
+  "blake",
+  "fuller",
+  "henry"
+ ],
+ "_surname": [
+  "henry blake fuller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hbfuller-bertram-copes-year": [
+   8101,
+   "Bertram Cope's Year"
+  ],
+  "hbfuller-under-the-skylights": [
+   8196,
+   "Under the Skylights"
+  ],
+  "hbfuller-with-the-procession": [
+   8891,
+   "With the Procession"
+  ],
+  "hbfuller-on-the-stairs": [
+   21613,
+   "On the Stairs"
+  ],
+  "hbfuller-cliff-dwellers": [
+   57782,
+   "The Cliff-Dwellers: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hbfuller-bertram-copes-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blake fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbfuller-under-the-skylights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blake fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbfuller-with-the-procession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blake fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbfuller-on-the-stairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blake fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbfuller-cliff-dwellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blake fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

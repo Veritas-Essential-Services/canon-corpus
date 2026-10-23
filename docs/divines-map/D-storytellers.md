@@ -18763,3 +18763,15 @@ Shelf: `pipeline/jacques-futrelle_shelf.json` (2026-10-22; added at the coordina
 | The Leak | have | PG 37146, `jfutrelle-leak` (163 units) |
 | The Chase of the Golden Plate | have | PG 38981, `jfutrelle-chase-of-the-golden-plate` (1333 units) |
 | The problem of Cell 13 | have | PG 57669, `jfutrelle-problem-of-cell-13` (2722 units) |
+
+## Henry Blake Fuller
+
+Shelf: `pipeline/henry-blake-fuller_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bertram Cope's Year | have | PG 8101, `hbfuller-bertram-copes-year` (1860 units) |
+| Under the Skylights | have | PG 8196, `hbfuller-under-the-skylights` (1642 units) |
+| With the Procession | have | PG 8891, `hbfuller-with-the-procession` (1653 units) |
+| On the Stairs | have | PG 21613, `hbfuller-on-the-stairs` (817 units) |
+| The Cliff-Dwellers: A Novel | have | PG 57782, `hbfuller-cliff-dwellers` (1738 units) |
