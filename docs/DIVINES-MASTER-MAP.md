@@ -17762,6 +17762,17 @@ Slugs `orchard-*`. Built from title pages read for round 117.
 | The present crisis in religion (New York, London, Harper & Brothers, 1929) | have-ocr | IA `presentcrisisinr0000orch` |
 | Books printed in 1930 or later (What is Hell?, Prayer, From Faith to Faith) left out | excluded | |
 | jstor-41224351 is by another Orchard | excluded | |
+
+## John McNeill (round 117, my pick, 2026-10-23)
+
+Slugs `jmcneill-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (New York : F.H. Revell, 1890) | have-ocr | IA `sermons0001mcne` |
+| Regent Square pulpit: sermons (James Nisbet &amp; Co., 1891, 1891) | have-ocr | IA `regentsquarepul00mcnegoog` |
+| The twenty-third Psalm (New York, Chicago Fleming H. Revell Company, 1927) | have-ocr | IA `twentythirdpsalm0000mcne` |
+| wayoflife00spur (a Spurgeon compilation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
