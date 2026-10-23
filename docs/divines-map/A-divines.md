@@ -14554,3 +14554,16 @@ Slugs `keith-*`. Built from title pages read for round 84.
 | Land of Israel : according to the covenant with Abraham, with Isaac, and Jacob (Edinburgh : William Whyte, 1844) | have-ocr | IA `landofisraelacco00keit` |
 | Isaiah as it is : or, Judah and Jerusalem the subjects of Isaiah's prophesying (Edinburgh : W. Whyte, 1850) | have-ocr | IA `isaiahasitisorju00keit` |
 | The Harmony of Prophecy, Or, Scriptural Illustrations of the Apocalypse (Harper, 1855) | have-ocr | IA `harmonyprophecy00keitgoog` |
+
+## Reginald Heber (round 84, my pick, 2026-10-23)
+
+Slugs `heber-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| The personality and office of the Christian Comforter asserted and explained : in a course of sermons on John XVI.7., preached before the University of Oxford, in the year MDCCCXV (Oxford : University Press, 1816) | have-ocr | IA `personalityoffic00hebe` |
+| Hymns, written and adapted to the weekly church service of the year (New York : G. & C. Carvill, 1827) | have-ocr | IA `hymnsw00hebe` |
+| The life of the Right Rev. Jeremy Taylor, D.D., Lord Bishop of Down, Connor, and Dromore : with a critical examination of his writings (London : Printed for C. and J. Rivington [etc.], 1828) | have-ocr | IA `lifeofrightrevje00hebe` |
+| Sermons preached in India (London : John Murray, 1829) | have-ocr | IA `sermonspreachedi00hebe` |
+| Sermons preached in England (New-York, 1829) | have-ocr | IA `sermonspreachedi00hebe_0` |
+| his Narrative of a Journey through India (travel) and his Poetical Works (verse beyond the hymns) | excluded | |
