@@ -18835,3 +18835,15 @@ Shelf: `pipeline/alfred-w-drayson_shelf.json` (2026-10-22; added at the coordina
 | Adventures of Hans Sterk: The South African Hunter and Pioneer | have | PG 32559, `awdrayson-adventures-of-hans-sterk` (1120 units) |
 | The Gentleman Cadet His Career and Adventures at the Royal Military Academy Woolwich | have | PG 37254, `awdrayson-gentleman-cadet-his-career-and-adventures-at-the-r` (1217 units) |
 | The Young Dragoon: Every Day Life of a Soldier | have | PG 37255, `awdrayson-young-dragoon` (580 units) |
+
+## Emma C. Dowd
+
+Shelf: `pipeline/emma-c-dowd_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Polly and the Princess | have | PG 11259, `ecdowd-polly-and-the-princess` (2954 units) |
+| Polly of the Hospital Staff | have | PG 15971, `ecdowd-polly-of-the-hospital-staff` (1954 units) |
+| Polly of Lady Gay Cottage | have | PG 29088, `ecdowd-polly-of-lady-gay-cottage` (1613 units) |
+| Doodles, the Sunshine Boy | have | PG 58164, `ecdowd-doodles-the-sunshine-boy` (2290 units) |
+| When Polly Was Eighteen | have | PG 58512, `ecdowd-when-polly-was-eighteen` (2278 units) |
