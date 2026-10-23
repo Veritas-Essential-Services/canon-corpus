@@ -6989,6 +6989,22 @@
       "started": "2026-10-23T09:19:10-05:00",
       "finished": "2026-10-23T09:19:10-05:00",
       "notes": "bookshelf-for-boys-and-girls: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "our-wonder-world",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Geo. L. Shuman & Co. (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:21:28-05:00",
+      "finished": "2026-10-23T09:21:28-05:00",
+      "notes": "our-wonder-world: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "pictured-knowledge",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Compton-Johnson Company (publisher); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:22:42-05:00",
+      "finished": "2026-10-23T09:22:42-05:00",
+      "notes": "pictured-knowledge: new shelf, 0 Gutenberg books (0 units) and 5 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

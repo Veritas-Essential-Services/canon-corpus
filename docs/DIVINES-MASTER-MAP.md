@@ -47808,3 +47808,32 @@ Shelf: `pipeline/bookshelf-for-boys-and-girls_shelf.json` (2026-10-23; at Adam's
 | The Bookshelf for Boys and Girls, volume 20: Little Journeys into Bookland (Part II) (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ20`, `bookshelf-boys-girls-v20` |
 | The Bookshelf for Boys and Girls, volume 21: General Index (The University Society, 1912) | have (raw OCR) | IA `bookshelfforboys00univ21`, `bookshelf-boys-girls-v21` |
 | bookshelf-boys-girls-v04 | excluded | IA bookshelfforboys00univ4, catalogued as volume 4: its OCR has no title page and never names the publisher, so which volume it is cannot be checked; left out (2026-10-23). |
+
+## Geo. L. Shuman & Co. (publisher)
+
+Shelf: `pipeline/our-wonder-world_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Our Wonder World: A Library of Knowledge (Shuman, 1914), all ten volumes. 0 Gutenberg texts, 10 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 1: The World and Its Peoples (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal01unse`, `our-wonder-world-v01` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 2: Invention and Industry (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal02unse`, `our-wonder-world-v02` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 3: The Nature Book (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal03unse`, `our-wonder-world-v03` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 4: Exploration, Adventure, and Achievement (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal04unse`, `our-wonder-world-v04` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 5: Every Child's Story Book (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal05unse`, `our-wonder-world-v05` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 6: Sports and Pastimes (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal06unse`, `our-wonder-world-v06` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 7: Amateur Handicraft (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal07unse`, `our-wonder-world-v07` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 8: Story and History (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal08unse`, `our-wonder-world-v08` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 9: The Mother's Home Book (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal09unse`, `our-wonder-world-v09` |
+| Our Wonder World: A Library of Knowledge in Ten Volumes, vol. 10: The Quiz Book, and Index (Chicago: Geo. L. Shuman, 1914) | have (raw OCR) | IA `ourwonderworldal10unse`, `our-wonder-world-v10` |
+
+## Compton-Johnson Company (publisher)
+
+Shelf: `pipeline/pictured-knowledge_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Pictured Knowledge (Compton-Johnson, 1919 printing), all five volumes. 0 Gutenberg texts, 5 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Pictured Knowledge, vol. 1 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg01unse_0`, `pictured-knowledge-v1` |
+| Pictured Knowledge, vol. 2 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg02unse_0`, `pictured-knowledge-v2` |
+| Pictured Knowledge, vol. 3 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg03unse`, `pictured-knowledge-v3` |
+| Pictured Knowledge, vol. 4 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg04unse`, `pictured-knowledge-v4` |
+| Pictured Knowledge, vol. 5 (Compton-Johnson, 1919 printing) | have (raw OCR) | IA `picturedknowledg05unse`, `pictured-knowledge-v5` |
