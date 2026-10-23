@@ -17062,3 +17062,17 @@ Shelf: `pipeline/arthur-colton_shelf.json` (2026-10-22; added at the coordinator
 | The Cruise of The Violetta | have | PG 50272, `acolton-cruise-of-the-violetta` (1240 units) |
 | Harps Hung up in Babylon | have | PG 52456, `acolton-harps-hung-up-in-babylon` (1444 units) |
 | pg-57478 | excluded | PG 57478: Gutenberg's index of the author's works, not a book. |
+
+## Lewis Wingfield
+
+Shelf: `pipeline/lewis-wingfield_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Curse of Koshiu: A Chronicle of Old Japan | have | PG 38853, `lwingfield-curse-of-koshiu` (757 units) |
+| The Maid of Honour: A Tale of the Dark Days of France. Vol. 3 (of 3) | have | PG 38854, `lwingfield-maid-of-honour` (547 units) |
+| My Lords of Strogue, Vol. 1 (of 3) A Chronicle of Ireland, from the Convention to the Union | have | PG 38861, `lwingfield-my-lords-of-strogue-vol-1-of-3-a-chronicle-of-ire` (785 units) |
+| My Lords of Strogue, Vol. 2 (of 3) A Chronicle of Ireland, from the Convention to the Union | have | PG 38862, `lwingfield-my-lords-of-strogue-vol-2-of-3-a-chronicle-of-ire` (776 units) |
+| My Lords of Strogue, Vol. 3 (of 3) A Chronicle of Ireland, from the Convention to the Union | have | PG 38863, `lwingfield-my-lords-of-strogue-vol-3-of-3-a-chronicle-of-ire` (677 units) |
+| The Maid of Honour: A Tale of the Dark Days of France. Vol. 1 (of 3) | have | PG 38865, `lwingfield-maid-of-honour-38865` (523 units) |
+| The Maid of Honour: A Tale of the Dark Days of France. Vol. 2 (of 3) | have | PG 38875, `lwingfield-maid-of-honour-38875` (485 units) |

@@ -1,0 +1,110 @@
+{
+ "_about": "Lewis Wingfield: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lewis Wingfield",
+ "_name_words": [
+  "lewis",
+  "wingfield"
+ ],
+ "_surname": [
+  "lewis wingfield"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lwingfield-curse-of-koshiu": [
+   38853,
+   "The Curse of Koshiu: A Chronicle of Old Japan"
+  ],
+  "lwingfield-maid-of-honour": [
+   38854,
+   "The Maid of Honour: A Tale of the Dark Days of France. Vol. 3 (of 3)"
+  ],
+  "lwingfield-my-lords-of-strogue-vol-1-of-3-a-chronicle-of-ire": [
+   38861,
+   "My Lords of Strogue, Vol. 1 (of 3) A Chronicle of Ireland, from the Convention to the Union"
+  ],
+  "lwingfield-my-lords-of-strogue-vol-2-of-3-a-chronicle-of-ire": [
+   38862,
+   "My Lords of Strogue, Vol. 2 (of 3) A Chronicle of Ireland, from the Convention to the Union"
+  ],
+  "lwingfield-my-lords-of-strogue-vol-3-of-3-a-chronicle-of-ire": [
+   38863,
+   "My Lords of Strogue, Vol. 3 (of 3) A Chronicle of Ireland, from the Convention to the Union"
+  ],
+  "lwingfield-maid-of-honour-38865": [
+   38865,
+   "The Maid of Honour: A Tale of the Dark Days of France. Vol. 1 (of 3)"
+  ],
+  "lwingfield-maid-of-honour-38875": [
+   38875,
+   "The Maid of Honour: A Tale of the Dark Days of France. Vol. 2 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lwingfield-curse-of-koshiu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-maid-of-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-my-lords-of-strogue-vol-1-of-3-a-chronicle-of-ire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-my-lords-of-strogue-vol-2-of-3-a-chronicle-of-ire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-my-lords-of-strogue-vol-3-of-3-a-chronicle-of-ire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-maid-of-honour-38865": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwingfield-maid-of-honour-38875": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis wingfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
