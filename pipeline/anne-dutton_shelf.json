@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Anne Dutton (1692-1765), Particular Baptist writer of Great Gransden and correspondent of Whitefield, for the Word Hoard: A Narration of the Wonders of Grace (verse, 1734), her discourses on walking with God, adoption, the new birth and justification, her letters to John Wesley, to all the saints, and to Whitefield, Letters on Spiritual Subjects, Hints of the Glory of Christ, her autobiographical Brief Account, and later letters (1734-1778). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "anne dutton",
+  "a. dutton",
+  "mrs. dutton"
+ ],
+ "_surname": [
+  "anne dutton",
+  "a. dutton",
+  "mrs. dutton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dutton-wonders-of-grace": [
+   "nawonde00dutt",
+   "Narration of the wonders of grace, in verse (London : Printed for the Author, 1734)"
+  ],
+  "dutton-letters-8": [
+   "lettersonspiritu08dutt",
+   "Letters on spiritual subjects and divers occasions : sent to relations and friends, vol. 8 (London : Printed by John Oswald [etc.], 1740)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dutton-reprints": "later reprints of the same works (1734 bim copy of the Narration; the 1778 Treatise on Justification)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "dutton-walking-with-god": "bim_eighteenth-century_a-discourse-upon-walking_dutton-anne_1735: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-adoption": "bim_eighteenth-century_a-discourse-concerning-g_dutton-anne_1737: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-new-birth": "bim_eighteenth-century_a-discourse-concerning-t_dutton-anne_1740: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letter-wesley": "bim_eighteenth-century_a-letter-to-the-reverend_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letter-saints": "bim_eighteenth-century_a-letter-to-all-the-sain_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-justification-1743": "bim_eighteenth-century_a-discourse-upon-justifi_dutton-anne_1743: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letters-1": "lettersonspiritu01dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letters-4": "lettersonspiritu04dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letters-6": "lettersonspiritu06dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letters-whitefield": "lettersonspiritu00dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-letters-1748": "bim_eighteenth-century_letters-on-spiritual-sub_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-glory-of-christ": "bim_eighteenth-century_hints-of-the-glory-of-ch_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-brief-account": "bim_eighteenth-century_a-brief-account-of-the-g_dutton-anne_1750: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-eternal-sonship": "bim_eighteenth-century_a-letter-on-the-divine-e_dutton-anne_1757: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions",
+  "dutton-three-letters": "bim_eighteenth-century_three-letters-on-i-the-_dutton-anne_1761: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions"
+ },
+ "_translators": {},
+ "_checks": {
+  "dutton-wonders-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne dutton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dutton-letters-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mrs. dutton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

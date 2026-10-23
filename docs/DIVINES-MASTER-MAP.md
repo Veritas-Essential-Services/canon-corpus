@@ -15548,6 +15548,31 @@ Slugs `janeway-*`. Built from title pages read for round 94.
 | bim_eighteenth-century_a-token-for-youth-contai_janeway-james_1720: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's | pending | not shelved |
 | the 1667-1680 first printings (Early English Books), left for the EEBO first-editions work | excluded | |
 | extracts and abridgements by John Wesley and James Wheatley | excluded | |
+
+## Anne Dutton (round 94, my pick, 2026-10-23)
+
+Slugs `dutton-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| Narration of the wonders of grace, in verse (London : Printed for the Author, 1734) | have-ocr | IA `nawonde00dutt` |
+| Letters on spiritual subjects and divers occasions : sent to relations and friends, vol. 8 (London : Printed by John Oswald [etc.], 1740) | have-ocr | IA `lettersonspiritu08dutt` |
+| bim_eighteenth-century_a-discourse-upon-walking_dutton-anne_1735: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-concerning-g_dutton-anne_1737: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-concerning-t_dutton-anne_1740: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-to-the-reverend_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-to-all-the-sain_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-upon-justifi_dutton-anne_1743: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu01dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu04dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu06dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu00dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_letters-on-spiritual-sub_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_hints-of-the-glory-of-ch_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-brief-account-of-the-g_dutton-anne_1750: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-on-the-divine-e_dutton-anne_1757: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_three-letters-on-i-the-_dutton-anne_1761: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| later reprints of the same works (1734 bim copy of the Narration; the 1778 Treatise on Justification) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
