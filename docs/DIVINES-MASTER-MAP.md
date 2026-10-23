@@ -44723,3 +44723,15 @@ Shelf: `pipeline/george-allan-england_shelf.json` (2026-10-22; added at the coor
 | The Air Trust | have | PG 12826, `gaengland-air-trust` (2023 units) |
 | Cursed | have | PG 48068, `gaengland-cursed` (2777 units) |
 | Underneath the Bough: A Book of Verses | have | PG 60870, `gaengland-underneath-the-bough` (264 units) |
+
+## Finley Peter Dunne
+
+Shelf: `pipeline/finley-peter-dunne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Observations By Mr. Dooley | have | PG 4729, `fpdunne-observations-by-mr-dooley` (434 units) |
+| Mr. Dooley's Philosophy | have | PG 7976, `fpdunne-mr-dooleys-philosophy` (499 units) |
+| Mr. Dooley: In the Hearts of His Countrymen | have | PG 13784, `fpdunne-mr-dooley` (564 units) |
+| Mr. Dooley Says | have | PG 14684, `fpdunne-mr-dooley-says` (321 units) |
+| Mr. Dooley in Peace and in War | have | PG 22537, `fpdunne-mr-dooley-in-peace-and-in-war` (458 units) |

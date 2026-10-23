@@ -6437,6 +6437,14 @@
       "started": "2026-10-22T23:24:08-05:00",
       "finished": "2026-10-22T23:24:08-05:00",
       "notes": "george-allan-england: new shelf, 5 Gutenberg books, 14,407 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "finley-peter-dunne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Finley Peter Dunne; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:10-05:00",
+      "finished": "2026-10-22T23:24:10-05:00",
+      "notes": "finley-peter-dunne: new shelf, 5 Gutenberg books, 2,276 units, 58 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
