@@ -1,0 +1,38 @@
+{
+ "_about": "H. Rushton Fairclough (1862-1938), of Stanford, later the Loeb translator of Virgil and Horace, raw IA OCR of his Johns Hopkins thesis The Attitude of the Greek Tragedians toward Nature (Toronto: Rowsell and Hutchison, 1897; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Henry Rushton Fairclough (1862-1938)",
+ "_name_words": [
+  "fairclough"
+ ],
+ "_surname": [
+  "h. rushton fairclough",
+  "henry rushton fairclough"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-r-fairclough-greek-tragedians-toward-nature-1897": [
+   "attitudegreektr00fairgoog",
+   "The Attitude of the Greek Tragedians toward Nature, by H. Rushton Fairclough (Johns Hopkins thesis; Toronto: Rowsell and Hutchison, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "h-r-fairclough-greek-tragedians-toward-nature-1897": {
+   "author": "title page OCR 'By I H.^ RUSHTON FAIRCLOUGH, Stanford University, California'"
+  }
+ },
+ "_checks": {
+  "h-r-fairclough-greek-tragedians-toward-nature-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. rushton fairclough",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
