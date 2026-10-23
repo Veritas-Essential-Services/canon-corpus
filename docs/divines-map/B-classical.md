@@ -9381,3 +9381,18 @@ Shelf: `pipeline/edwin-pears_shelf.json`. The fall of Byzantium, 1886 and 1903 (
 
 Excluded: Forty Years in Constantinople; Life of Abdul Hamid; Turkey and its People (modern Turkey, outside lane B)
 
+
+## William Miller (1864-1945)
+
+Shelf: `pipeline/william-miller-historian_shelf.json`. Frankish Greece, medieval Rome and the Latin Orient, 1902-1921. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Essays on the Latin Orient (1921) |  | `miller-essays-latin-orient-pg` | have (PG 69026) |
+| The Latins in the Levant: a History of Frankish Greece (1204-1566) (1908) |  | `miller-latins-in-the-levant-1908` | have-raw (IA `latinsinlevanthi00mill`) |
+| Mediaeval Rome, from Hildebrand to Clement VIII, 1073-1600 (1902) |  | `miller-mediaeval-rome-1902` | have-raw (IA `mediaevalromefro00mill_0`) |
+| The Latin Orient (Helps for Students of History 37, 1920) |  | `miller-latin-orient-1920` | have-raw (IA `latinorien00mill`) |
+| The Turkish Restoration in Greece, 1718-1797 (Helps for Students of History 38, 1921) |  | `miller-turkish-restoration-greece-1921` | have-raw (IA `turkishrestorat00millgoog`) |
+
+Excluded: The Balkans (1896); The Ottoman Empire (1913, 1923); A History of the Greek People 1821-1921; Travels and Politics in the Near East; Greek Life in Town and Country (modern Balkan and Ottoman history, outside lane B)
+
