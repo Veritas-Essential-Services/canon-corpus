@@ -9914,3 +9914,17 @@ Slugs `dodwell-*`. Built from title pages read for round 40.
 | A defence of the vindication of the deprived bishops. ...  1695 (catalogued 1695) [bim_early-english-books-1641-1700_a-defence-of-the-vindica_dodwell-henry_1695]: title page (OCR) says only 'By the Author of the Vindication', which itself names no author | pending | not shelved |
 | Other printings of the Two Letters of Advice (1672, 1680, 1691) and the Epistolary Discourse (1706, 1707); the Preliminary Defence (1707), A Further Prospect of the Case in View (1707), the Case in View now in Fact (1711) | alternate | not shelved |
 | His Latin works (Dissertationes Cyprianicae, Dissertationes in Irenaeum, De Jure Laicorum, Praelectiones, the classical annals and chronology); Christianity not Founded on Argument (1741-1746), by his son Henry Dodwell the younger | excluded | |
+
+## Robert Nelson (round 40, my pick, 2026-10-22)
+
+Slugs `nelson-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion for the festivals and fasts of the Church of England (London : SPCK, 1841) | have-ocr | IA `companionforfest00nelsuoft` |
+| The great duty of frequenting the Christian sacrifice : and the nature of the preparation required : with suitable devotions, partly collected from the ancient liturgies, to which are prefixed instructions for confirmation (New-York : Printed and sold by T. & J. Swords, 1811) | have-ocr | IA `greatdutyoffrequ00nels` |
+| The practice of true devotion, in relation to the end, as well as the means of religion; with an office for the Holy Communion (London : Dod, 1764) | have-ocr | IA `practiceoftruede00nelsiala` |
+| The life of Dr. George Bull, late Lord Bishop of St. David's : with the history of those controversies in which he was engaged (London : R. Smith, 1713) | have-ocr | IA `lifeofdrgeorgebu00nelsiala` |
+| An address to persons of quality and estate (London : Printed by G. James, for R. S. and sold by Charles Rivington, at the Bible and Crown in St. Paul's Church-yard, 1715) | have-ocr | IA `b30528343` |
+| Other printings of the Companion (1773-1843) and of each other work | alternate | not shelved |
+| Hobart's American adaptation of the Companion for the Protestant Episcopal Church (1804-1851), shelved with Hobart if anywhere; other Robert Nelsons | excluded | |
