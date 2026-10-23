@@ -16274,6 +16274,17 @@ Slugs `riley-*`. Built from title pages read for round 100.
 | The bible of the expositor and the evangelist, vol. 9 (catalogued 1927) | have-ocr | IA `bibleofexpositor0009wbri` |
 | The Bible of the Expositor and teh Evangelist, vol. 10 (Union Gospel Press, 1929) | have-ocr | IA `bibleofexpositor0010wbri` |
 | Windyridge (a novel by the English writer Willie Riley) | excluded | |
+
+## J. R. P. Sclater (round 100, my pick, 2026-10-23)
+
+Slugs `sclater-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The enterprise of life : being addresses delivered from an Edinburgh pulpit to audiences composed, for the most part, of those who stand at the beginning of the enterprise (London : Hodder and Stoughton, pref) | have-ocr | IA `enterpriseoflife00sclauoft` |
+| Modernist Fundamentalism (George H. Doran Company, 1926) | have-ocr | IA `modernistfundame0000jrps` |
+| The public worship of God (New York : George H. Doran company, 1927) | have-ocr | IA `publicworshipofg00scla` |
+| God and the Soldier (written with Norman Maclean) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

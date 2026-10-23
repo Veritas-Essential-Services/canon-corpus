@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain John Robert Paterson Sclater (1876-1949), minister of New North Church, Edinburgh, and Old St Andrew's, Toronto, for the Word Hoard: The Enterprise of Life, Modernist Fundamentalism, and The Public Worship of God. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. r. p. sclater",
+  "john robert paterson sclater",
+  "sclater"
+ ],
+ "_surname": [
+  "j. r. p. sclater",
+  "john robert paterson sclater",
+  "sclater"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sclater-enterprise-of-life": [
+   "enterpriseoflife00sclauoft",
+   "The enterprise of life : being addresses delivered from an Edinburgh pulpit to audiences composed, for the most part, of those who stand at the beginning of the enterprise (London : Hodder and Stoughton, pref)"
+  ],
+  "sclater-modernist-fundamentalism": [
+   "modernistfundame0000jrps",
+   "Modernist Fundamentalism (George H. Doran Company, 1926)"
+  ],
+  "sclater-public-worship": [
+   "publicworshipofg00scla",
+   "The public worship of God (New York : George H. Doran company, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sclater-god-and-soldier": "God and the Soldier (written with Norman Maclean)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sclater-enterprise-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. r. p. sclater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "pref. 1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sclater-modernist-fundamentalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. r. p. sclater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sclater-public-worship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sclater",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
