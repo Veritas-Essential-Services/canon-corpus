@@ -1537,3 +1537,8 @@
 - 34 volumes: James Adam's Republic (2 vols) and Protagoras with two of his books; Mayor's Juvenal (2 vols, new shelf); Munro's Lucretius text and notes; Burnet 8 (Thales to Plato, the Ethics and Phaedo editions, Platonism and lectures); Stewart's Notes on the Nicomachean Ethics (2 vols) and Myths of Plato; Grant's Ethics (2 vols, new shelf); Newman's Politics (4 vols, new shelf); Tyrrell and Purser's Correspondence of Cicero complete (7 vols).
 - Latin-dense commentaries score low on the English-word measure though they read well; kept on the reasoning of Adam's Greek ruling.
 - Next: Conington's Virgil, Thompson's Phaedrus and Gorgias, Archer-Hind's Phaedo, Sandys's Bacchae and other commentaries.
+
+## 2026-10-23 — Round ds: more commentaries
+- 36 volumes. Conington's Virgil (3 vols), Wickham's Horace (2), Furneaux's Tacitus (4), Wilkins's De Oratore (3), Thompson's Phaedrus and Gorgias, Archer-Hind's Phaedo, Starkie's Aristophanes (3, two with translation), Merry and Riddell's Odyssey I-XII, J. S. Reid (6, with The Municipalities of the Roman Empire), Holden's Cicero and Plutarch (6), Susemihl and Hicks's Politics, Paley's prose Aeschylus, Bury's Nemean Odes, Gildersleeve's Pindar, Rutherford's Babrius. Nine new shelves.
+- Some scans OCR the English as Greek letters and cannot be used: Bury's Isthmian Odes, Sandys's Bacchae, five Holden school editions.
+- Two imprints I wrote from the catalogue before reading the title page were wrong and are fixed. From here every imprint is read first.
