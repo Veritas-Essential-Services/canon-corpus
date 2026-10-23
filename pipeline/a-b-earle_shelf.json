@@ -1,0 +1,58 @@
+{
+ "_about": "Public-domain Absalom Backus Earle (1812-1895), Baptist revivalist, for the Word Hoard: Bringing in Sheaves (1868) and The Rest of Faith (1871). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "earle"
+ ],
+ "_surname": [
+  "a. b. earle",
+  "rev. a. b. earle",
+  "absalom b. earle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "abearle-bringing-in-sheaves": [
+   "bringinginsheave00inearl",
+   "Bringing in sheaves (J.H. Earle, 1870)"
+  ],
+  "abearle-rest-of-faith": [
+   "restoffaith00earl",
+   "The rest of faith ([n.p.], 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "abearle-other": "Revival Hymns (compiled); other Earles"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "abearle-rest-of-faith": "title page: 'The Rest of Faith, by Rev. A. B. Eaele [Earle]'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "abearle-bringing-in-sheaves": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. b. earle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870, c1868",
+   "ia_possible_copyright_status": "Public Domain",
+   "ia_lending": null
+  },
+  "abearle-rest-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

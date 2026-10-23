@@ -13098,6 +13098,16 @@ Slugs `boardman-*`. Built from title pages read for round 67.
 | Faith work under Dr. Cullis, in Boston (Boston ; New York : Willard Tract Repository, 1874) | have-ocr | IA `faithworkunderdr00boar` |
 | In the power of the spirit ([n.p.], 1876) | have-ocr | IA `inpowerofspirit00boar` |
 | Life and Labours of the Rev. W. E. Boardman (1887, by his wife) | excluded | |
+
+## A. B. Earle (round 67, my pick, 2026-10-23)
+
+Slugs `abearle-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Bringing in sheaves (J.H. Earle, 1870) | have-ocr | IA `bringinginsheave00inearl` |
+| The rest of faith ([n.p.], 1871) | have-ocr | IA `restoffaith00earl` |
+| Revival Hymns (compiled); other Earles | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
