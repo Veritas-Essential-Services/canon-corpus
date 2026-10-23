@@ -9735,3 +9735,22 @@ Slugs `laud-*`. Built from title pages read for round 40.
 | The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 7 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos07lauduoft` |
 | Other scans of the LACT Works (Toronto Robarts, Illinois, Google and Princeton copies); the separate Oxford printings of the Private Devotions (1838), the Conference with Fisher (1839), the three speeches (1840) and the Sermons (1829), all contained in the Works; his 1621-1628 sermons and 1637 Star-Chamber speech in first printings (EEBO) | alternate | not shelved |
 | The 1637 Scottish Book of Common Prayer (a liturgy of the Church of Scotland, not his work); Original Letters on his benefactions (1841, documents by others); biographies | excluded | |
+
+## Herbert Thorndike (round 40, my pick, 2026-10-22)
+
+Slugs `thorndike-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological works, vol. 1, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `thorndikesworkp101thoruoft` |
+| Theological works, vol. 1, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `thorndikesworkp201thoruoft` |
+| The Theological Works of Herbert Thorndike, vol. II, the part opening with the Epilogue's preface and Book I, The Principles of Christian Truth (Oxford: John Henry Parker; catalogued as part 2) | have-ocr | IA `theologicalpt202thoruoft` |
+| The Theological Works of Herbert Thorndike, vol. II, the other part, continuing the Epilogue (Oxford: John Henry Parker, MDCCCXLV; catalogued as vol. 1, part 2) | have-ocr | IA `theologicalpt102thoruoft` |
+| Theological works, vol. 3 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt103thoruoft` |
+| Theological works, vol. 3 pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt203thoruoft` |
+| Theological works, vol. 4 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt104thoruoft` |
+| Theological works, vol. 4 pt 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalp204thoruoft` |
+| Theological works, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalworks05thoruoft` |
+| Theological works, vol. 6 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalworks06thoruoft` |
+| Other scans of the LACT set: the Robarts and Google copies and the theologicalworks0000thor_* scans; the 1841 Right of the Church (BSB) | alternate | not shelved |
+| Edward L. Thorndike the psychologist and other Thorndikes | excluded | |
