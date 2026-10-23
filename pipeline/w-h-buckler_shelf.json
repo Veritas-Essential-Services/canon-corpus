@@ -1,0 +1,33 @@
+{
+ "_about": "William Hepburn Buckler (1867-1952), later an epigraphist of Asia Minor, raw IA OCR of The Origin and History of Contract in Roman Law down to the end of the Republican period (Yorke Prize Essay for 1893; 1895). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "W. H. Buckler",
+ "_name_words": [
+  "buckler"
+ ],
+ "_surname": [
+  "w. h. buckler",
+  "buckler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-h-buckler-contract-in-roman-law-1895": [
+   "cu31924021131366",
+   "The Origin and History of Contract in Roman Law down to the end of the Republican period, being the Yorke Prize Essay for the year 1893, by W. H. Buckler (London: C. J. Clay and Sons, 1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-h-buckler-contract-in-roman-law-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buckler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
