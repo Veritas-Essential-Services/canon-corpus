@@ -1527,3 +1527,13 @@
 - do: Murphy's Select Dialogues of Lucian (1804) and Innes's Verse Translations (1894) taken back. Harmon's Lucian and Babbitt's Moralia turned out to be complete already from Perseus.
 - dp: 18 scholarly editions that print the Greek with an English translation: Jebb's Sophocles complete in seven parts, Kennedy's Oedipus, Verrall's Agamemnon, Choephori and Eumenides, Tucker's Supplices and Choephori, Rhys Roberts's Longinus and Dionysius, Archer-Hind's Timaeus, Jebb's Bacchylides, Headlam and Knox's Herodas.
 - Eight of these OCR the editor's name as Greek, so the gate cannot see it; the title pages were read and recorded, and no translator is claimed to the gate for them.
+
+## 2026-10-23 — Round dq: Bohn gaps and more editions with translation
+- Bohn gaps closed: the Oxford translation of Tacitus revised (2 vols, 1854), Sewell's Horace (1850), Middleton's Life of Cicero (1819, 2 vols, new shelf), C. R. Kennedy's Specimens of Greek and Latin Verse (1853, new shelf).
+- Rogers's Bell Aristophanes: the Clouds (1852), Peace (1913) and Birds (1906), which fill the Loeb vol. II gap, and The Revolt of the Women (1878). The other Bell plays repeat the Loeb translation and were left; they are listed under `_excluded` in case the commentary is wanted.
+- Tucker's Seven against Thebes (1908), Headlam's verse Agamemnon (1910), Leaf's Companion to the Iliad and his Iliad commentary (3), Monro's Homeric Grammar and Odyssey XIII-XXIV, Jebb's Selections from the Attic Orators.
+
+## 2026-10-23 — Round dr: the great English commentaries
+- 34 volumes: James Adam's Republic (2 vols) and Protagoras with two of his books; Mayor's Juvenal (2 vols, new shelf); Munro's Lucretius text and notes; Burnet 8 (Thales to Plato, the Ethics and Phaedo editions, Platonism and lectures); Stewart's Notes on the Nicomachean Ethics (2 vols) and Myths of Plato; Grant's Ethics (2 vols, new shelf); Newman's Politics (4 vols, new shelf); Tyrrell and Purser's Correspondence of Cicero complete (7 vols).
+- Latin-dense commentaries score low on the English-word measure though they read well; kept on the reasoning of Adam's Greek ruling.
+- Next: Conington's Virgil, Thompson's Phaedrus and Gorgias, Archer-Hind's Phaedo, Sandys's Bacchae and other commentaries.

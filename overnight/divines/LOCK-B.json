@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T04:50:56-05:00",
- "note": "Rounds cq-dp done 2026-10-23.",
- "resume_point": "Round dq: small Bohn-era gaps found by the Bohn sweep (Sewell's Horace Odes 1850, the Bohn Tacitus 2 vols 1854, C. R. Kennedy's Specimens of Greek and Latin Verse 1853, Middleton's Life of Cicero), then more Greek-text-with-translation editions (Paley? no translation; check Sandys, Headlam's Agamemnon, Wedd, Shuckburgh) and Latin-text-with-translation editions (Mayor, Conington's Persius is held)."
+ "heartbeat": "2026-10-23T05:32:19-05:00",
+ "note": "Rounds cq-dr done 2026-10-23.",
+ "resume_point": "Round ds: more English commentaries not held on any branch: Conington and Nettleship's Virgil (vol. III was refused at OCR 0.73 for dense line references; revisit under the dr reasoning), Thompson's Phaedrus (1868) and Gorgias (1871), Archer-Hind's Phaedo (1883), Sandys's Bacchae (1880), Susemihl and Hicks's Politics (1894), Wilkins's De Oratore, Palmer's Heroides (1898), Paley's prose Aeschylus, Sidgwick's Aeschylus, Postgate's Propertius; check every branch first."
 }

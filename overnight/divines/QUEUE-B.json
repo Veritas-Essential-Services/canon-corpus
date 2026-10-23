@@ -2140,6 +2140,22 @@
    "started": "2026-10-23T04:50:56-05:00",
    "finished": "2026-10-23T04:50:56-05:00",
    "notes": "18 volumes on 7 shelves: Jebb's Sophocles, the Plays and Fragments, all seven parts (Cambridge, 1883-96, in printings to 1924); Kennedy's Oedipus Tyrannus (1885); Verrall's Agamemnon (1889), Choephori (1893) and Eumenides (1908); Tucker's Supplices (1889) and Choephori (1901); Rhys Roberts's Longinus (1907) and Dionysius's Three Literary Letters (1901); Archer-Hind's Timaeus (1888); Jebb's Bacchylides (1905); Headlam and Knox's Herodas (1922). Eight of these render the editor's name as Greek in their OCR, so no translator is claimed to the gate for them; each title page was read and recorded under _identity_checked.translator. Not found: Verrall's Seven against Thebes (1887)."
+  },
+  {
+   "id": "2026-10-23dq",
+   "status": "done",
+   "scope": "small Bohn-era gaps from the Bohn sweep, then more Greek-text-with-translation editions",
+   "started": "2026-10-23T04:50:56-05:00",
+   "finished": "2026-10-23T05:32:19-05:00",
+   "notes": "16 volumes. Bohn gaps: the Oxford translation of Tacitus revised (Bohn, 2 vols, 1854; vol. I in its 1864 printing for cleaner OCR), Sewell's Odes and Epodes of Horace (Bohn, 1850), Middleton's Life of Cicero (1819, 2 vols, new shelf conyers-middleton), C. R. Kennedy's Specimens of Greek and Latin Verse (Bohn, 1853, new shelf charles-rann-kennedy). Editions with translation: Rogers's Bell Aristophanes, Clouds (1852, his first version, title page anonymous), Peace (1913) and Birds (1906), filling the Loeb vol. II gap, plus his free Lysistrata, The Revolt of the Women (1878); the other Bell plays duplicate the Loeb translation and were left, recorded in _excluded. Tucker's Seven against Thebes (1908); Headlam's verse Agamemnon, ed. Pearson (1910). Commentaries: Leaf's Companion to the Iliad (1892) and Iliad, 2nd ed. (2 vols, 1900-02); Monro's Homeric Grammar (1891) and Odyssey XIII-XXIV (1901); Jebb's Selections from the Attic Orators (1888)."
+  },
+  {
+   "id": "2026-10-23dr",
+   "status": "done",
+   "scope": "the great English commentaries on Greek and Latin authors not held on any branch",
+   "started": "2026-10-23T05:32:19-05:00",
+   "finished": "2026-10-23T05:32:19-05:00",
+   "notes": "34 volumes. James Adam: the Republic, edited with critical notes, commentary and appendices (2 vols, 1902), the Protagoras (1893), The Vitality of Platonism (1911), The Nuptial Number of Plato (1891). J. E. B. Mayor: Thirteen Satires of Juvenal, 4th ed. (2 vols, 1886-88; new shelf j-e-b-mayor). Munro's Lucretius vols. I-II, text and explanatory notes (1900 printing; vol. III, the translation, already on lucretius). Burnet 8: Greek Philosophy, Thales to Plato (1914), the Ethics (1900) and the Phaedo (1911), Aristotle on Education (1903), The Socratic Doctrine of the Soul (1916), The Greek Strain in English Literature (1920), Aristotle (1924), Platonism (1928). J. A. Stewart: Notes on the Nicomachean Ethics (2 vols, 1892), The Myths of Plato (1905), The English Manuscripts of the Ethics (1882). Sir Alexander Grant: The Ethics of Aristotle, 4th ed. (2 vols, 1885; new shelf alexander-grant). W. L. Newman: The Politics of Aristotle (4 vols, 1887-1902; new shelf w-l-newman). Tyrrell and Purser: The Correspondence of M. Tullius Cicero, complete in 7 vols (latest edition found for each). Commentaries dense with Latin or Greek score low on the English-word measure (Mayor 0.73-0.78) though the text reads; kept on the same reasoning as Adam's Greek ruling. Six title pages read where the OCR garbled the editor's name, recorded under _identity_checked."
   }
  ]
 }
