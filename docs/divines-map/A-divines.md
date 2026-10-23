@@ -15567,3 +15567,17 @@ Slugs `dutton-*`. Built from title pages read for round 94.
 | bim_eighteenth-century_a-letter-on-the-divine-e_dutton-anne_1757: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
 | bim_eighteenth-century_three-letters-on-i-the-_dutton-anne_1761: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
 | later reprints of the same works (1734 bim copy of the Narration; the 1778 Treatise on Justification) | excluded | |
+
+## Robert Jenkin (round 94, my pick, 2026-10-23)
+
+Slugs `jenkin-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The reasonableness and certainty of the Christian religion, vol. 1, third edition (London : Richard Sare, 1708) | have-ocr | IA `reasonablenessa00jenkgoog` |
+| The reasonableness and certainty of the Christian religion, vol. 2, second edition (London : Richard Sare, early 1700s) | have-ocr | IA `reasonablenessa01jenkgoog` |
+| Remarks on some books lately publish'd, viz. Mr. Basnage's History of the Jews. Whiston's Eight sermons. Lock's Paraphrase and notes on St. Paul's epistles. Le Clerc's Bibliotheque choisie.  1709 (catalogued 1709) | have-ocr | IA `bim_eighteenth-century_remarks-on-some-books-la_jenkin-robert_1709` |
+| b33024340: printed without the author's name (London, 1702); attribution is the catalogue's | pending | not shelved |
+| the 1688-1700 political tracts and first printings (Early English Books) | excluded | |
+| Defensio S. Augustini (Latin, 1728) | excluded | |
+| A Plain and Easy Introduction (1795), a later compilation | excluded | |

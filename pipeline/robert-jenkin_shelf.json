@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Robert Jenkin (1656-1727), nonjuring Master of St John's College, Cambridge, and Lady Margaret Professor of Divinity, for the Word Hoard: The Reasonableness and Certainty of the Christian Religion (2 vols., 1708 edition), A Brief Confutation of the Pretences against Natural and Revealed Religion (1702), and Remarks on Basnage, Whiston and others (1709). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert jenkin",
+  "r. jenkin"
+ ],
+ "_surname": [
+  "robert jenkin",
+  "r. jenkin",
+  "jenkin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jenkin-reasonableness-1": [
+   "reasonablenessa00jenkgoog",
+   "The reasonableness and certainty of the Christian religion, vol. 1, third edition (London : Richard Sare, 1708)"
+  ],
+  "jenkin-reasonableness-2": [
+   "reasonablenessa01jenkgoog",
+   "The reasonableness and certainty of the Christian religion, vol. 2, second edition (London : Richard Sare, early 1700s)"
+  ],
+  "jenkin-remarks": [
+   "bim_eighteenth-century_remarks-on-some-books-la_jenkin-robert_1709",
+   "Remarks on some books lately publish'd, viz. Mr. Basnage's History of the Jews. Whiston's Eight sermons. Lock's Paraphrase and notes on St. Paul's epistles. Le Clerc's Bibliotheque choisie.  1709 (catalogued 1709)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jenkin-early": "the 1688-1700 political tracts and first printings (Early English Books)",
+  "jenkin-latin": "Defensio S. Augustini (Latin, 1728)",
+  "jenkin-other": "A Plain and Easy Introduction (1795), a later compilation"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jenkin-brief-confutation": "b33024340: printed without the author's name (London, 1702); attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "jenkin-reasonableness-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jenkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jenkin-reasonableness-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jenkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jenkin-remarks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jenkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
