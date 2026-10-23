@@ -17149,6 +17149,27 @@ Slugs `wtleach-*`. Built from title pages read for round 111.
 | Sermon preached in St. George's Chapel, Montreal, on Advent Sunday, 1851 : appointed by authority, for the celebration of the third semi-centennial jubilee of the Society for the Propagation of the Gospel in Foreign Parts ([Montéal? : s.n.], 1993) | have-ocr | IA `cihm_93540` |
 | discoursedeliver00leac (another scan of the 1837 sermon) | excluded | |
 | proceedingsofpr00pres (the Presbytery of Toronto's record of his case) | excluded | |
+
+## Caleb D. Bradlee (round 111, my pick, 2026-10-23)
+
+Slugs `bradlee-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| The life, writings, and character of Rev. Thomas Starr King (Boston, Press of J. Wilson and son, 1870) | have-ocr | IA `lifewritingschar00brad` |
+| Christ all in all: A sermon (Boston, 1872) | have-ocr | IA `christallinallse00brad` |
+| Farewell: A sermon ([n. p.], 1872) | have-ocr | IA `farewellsermon00brad` |
+| Death and the Resurrection: A Sermon Preached on Sunday, March 15, 1874 (Press of John Wilson andSon, 1874) | have-ocr | IA `deathandresurre00conggoog` |
+| The grand hereafter. A sermon (Cambridge, 1877) | have-ocr | IA `grandhereafterse00brad` |
+| Thirtieth anniversary of the foundation of the Harrison Square Church, Dorchester District, Boston, Mass., Oct. 13, 1878 : a sermon (Boston : F.W. Barry, 1878) | have-ocr | IA `thirtiethanniver00brad` |
+| Brief Memoir of Dr. Geo. H. Gay, H.C. 1842 ([s.n.], 1879) | have-ocr | IA `briefmemoirdrge00bradgoog` |
+| A few poems ([Boston], 1880) | have-ocr | IA `fewpoems00brad` |
+| Psalm XXXVII, 23 (Boston, Press of N. Sawyer & son, 1881) | have-ocr | IA `psalmxxxvii2300brad` |
+| History of the Ordination of Caleb D. Bradlee: Also History of the Thirtieth Anniversary of His (Printed for the Author , D. Clapp & Son , Printers, 1885) | have-ocr | IA `historyordinati00bradgoog` |
+| Sermons for all sects (Bost., 1888) | have-ocr | IA `sermonsforallsec00brad` |
+| Sermons for the church (Boston, G. H. Ellis, 1893) | have-ocr | IA `sermonsforchurch00bradrich` |
+| Recollections of a Ministry of Forty Years: Dec. 11, 1854--Dec. 11, 1894 (Geo. H. Ellis, 1895) | have-ocr | IA `recollectionsam03bradgoog` |
+| mozartpoem0000brad (1962, another Bradlee) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
