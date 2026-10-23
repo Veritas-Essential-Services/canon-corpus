@@ -5277,6 +5277,14 @@
       "started": "2026-10-22T22:59:06-05:00",
       "finished": "2026-10-22T22:59:06-05:00",
       "notes": "elizabeth-stuart-phelps: new shelf, 15 Gutenberg books, 11,795 units, 293 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "owen-wister",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Owen Wister; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:07-05:00",
+      "finished": "2026-10-22T22:59:07-05:00",
+      "notes": "owen-wister: new shelf, 14 Gutenberg books, 14,375 units, 342 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

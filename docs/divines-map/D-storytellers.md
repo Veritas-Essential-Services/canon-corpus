@@ -16801,3 +16801,25 @@ Shelf: `pipeline/elizabeth-stuart-phelps_shelf.json` (2026-10-22; added at the c
 | Beyond the Gates | have | PG 54060, `esphelps-beyond-the-gates` (810 units) |
 | The Gates Ajar | have | PG 54230, `esphelps-gates-ajar` (1146 units) |
 | held-elsewhere | excluded | PG 5066: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Owen Wister
+
+Shelf: `pipeline/owen-wister_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Philosophy 4: A Story of Harvard University | have | PG 862, `owister-philosophy-4` (251 units) |
+| The Virginian: A Horseman of the Plains | have | PG 1298, `owister-virginian` (3175 units) |
+| A Straight Deal; Or, The Ancient Grudge | have | PG 1379, `owister-straight-deal` (450 units) |
+| Lin McLean | have | PG 1385, `owister-lin-mclean` (1735 units) |
+| Lady Baltimore | have | PG 1386, `owister-lady-baltimore` (2018 units) |
+| Mother | have | PG 1387, `owister-mother` (178 units) |
+| Padre Ignacio; Or, The Song of Temptation | have | PG 1388, `owister-padre-ignacio` (186 units) |
+| The Jimmyjohn Boss, and Other Stories | have | PG 1390, `owister-jimmyjohn-boss-and-other-stories` (1430 units) |
+| How Doth the Simple Spelling Bee | have | PG 23923, `owister-how-doth-the-simple-spelling-bee` (403 units) |
+| The Dragon of Wantley: His Tale | have | PG 26448, `owister-dragon-of-wantley` (890 units) |
+| Red Men and White | have | PG 28675, `owister-red-men-and-white` (1596 units) |
+| The Pentecost of Calamity | have | PG 32098, `owister-pentecost-of-calamity` (196 units) |
+| Members of the Family | have | PG 56717, `owister-members-of-the-family` (1469 units) |
+| A journey in search of Christmas | have | PG 71547, `owister-journey-in-search-of-christmas` (398 units) |
+| held-elsewhere | excluded | PG 48694: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
