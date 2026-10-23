@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T02:45:00-05:00",
- "note": "Rounds cq-dg done 2026-10-23.",
- "resume_point": "Round dh: unheld standard histories, checked against every branch first: Niebuhr's Lectures on Ancient History (tr. Schmitz, 3 vols, if not already on the niebuhr shelf), Wachsmuth's Historical Antiquities of the Greeks (tr. Woolrych), Nathaniel Hooke's Roman History, Thomas Arnold's History of Rome; then a fourth IA subject sweep (Greek drama criticism, Roman literature histories, the Homeric question, numismatics, classical geography, Byzantine literature)."
+ "heartbeat": "2026-10-23T03:03:45-05:00",
+ "note": "Rounds cq-di done 2026-10-23.",
+ "resume_point": "Round dj: the IA subject sweeps now return mostly held names. Next, sweep by publisher series instead of subject (Macmillan's Classical Library and Handbooks of Archaeology and Antiquities, Bohn's Classical Library, Longmans' Epochs of Ancient History, Murray's Student's Manuals, Ancient Classics for English Readers gaps, Heroes of the Nations classical volumes, Loeb volumes of 1912-1929 not yet held), checking every name against all branches."
 }

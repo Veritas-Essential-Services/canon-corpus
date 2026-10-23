@@ -2068,6 +2068,22 @@
    "started": "2026-10-23T02:20:03-05:00",
    "finished": "2026-10-23T02:45:00-05:00",
    "notes": "2 new shelves, 57 works. grenfell-hunt 28: The Oxyrhynchus Papyri Parts I-XVII complete (1898-1927; part numbers checked against each title page, not IA's volume field), New Classical Fragments (1897), Revenue Laws of Ptolemy Philadelphus (1896), Fayum Towns (1900), Amherst Papyri I-II, Tebtunis I-II, the Cairo Greek Papyri catalogue (1903), Hibeh I, Logia Iesou, New Sayings of Jesus. Greek-heavy, kept per Adam's ruling. Tebtunis II exists on IA only as the 1970 EES photographic reprint (title page: Frowde 1907; IA metadata wrongly says 1938), recorded in _rights_checked. charles-rollin 29: Ancient History in six volumes (Vol. I clean PG 28558 from the 1850 Longman printing; II, IV-VI the same printing; III from Tegg's 1851 issue, whose book divisions match exactly), Roman History 16 vols (1754; IX-XVI by Crevier), Arts and Sciences of the Antients 3 vols (1768), Belles Lettres 4 vols (1778). Three title pages read from images (Roman History VI and XIII, Belles Lettres IV). Excluded: Greek Papyri Series I (empty text layer), Tebtunis III (1933)."
+  },
+  {
+   "id": "2026-10-23dh",
+   "status": "done",
+   "scope": "Unheld standard histories: Niebuhr's Lectures, Wachsmuth, Hooke, Thomas Arnold",
+   "started": "2026-10-23T02:45:00-05:00",
+   "finished": "2026-10-23T03:05:00-05:00",
+   "notes": "2 new shelves and 2 extended, 12 works: niebuhr +3 (Lectures on Ancient History, tr. Schmitz, 1852, Cornell scans), thomas-arnold +2 (History of the Later Roman Commonwealth, 1845; his History of Rome was already held), nathaniel-hooke 6 (Roman History, 1821 six-volume edition, BSB scans; the 1830 Rivington set lacks Vol. I on IA), wilhelm-wachsmuth 1 (Historical Antiquities of the Greeks, tr. Woolrych, 1837, both volumes in one Columbia microfilm scan)."
+  },
+  {
+   "id": "2026-10-23di",
+   "status": "done",
+   "scope": "Fourth IA subject sweep (Greek drama, Latin and Greek literary history, Homer, numismatics, ancient geography, Byzantine literature, antiquities, philology, Vergil, Cicero, Plato, Aristotle, social life, mythology)",
+   "started": "2026-10-23T03:05:00-05:00",
+   "finished": "2026-10-23T03:03:45-05:00",
+   "notes": "14 new shelves, 15 works: Marshall (Short History of Greek Philosophy), Weissenborn (Homeric Life, tr. Scoggin and Burkitt), Hyslop (Ethics of the Greek Philosophers), Petersson (Cicero, 1920), Lutoslawski (Plato's Logic), Ackermann (Christian Element in Plato, tr. Asbury), Eschenburg (Manual of Classical Literature, tr. Fiske), Maguire (Platonic Ethics), Gwynn (Roman Education, 1926), B. C. Burt (Brief History of Greek Philosophy), L. M. Watt (Attic and Elizabethan Tragedy), Munk 2 (Greek Tragedy ed. Verrall; Student's Cicero adapted by Fausset), Dunning (Political Theories, Ancient and Mediaeval), Lones (Aristotle's Researches in Natural Science). Skipped: Autenrieth's Homeric Dictionary (a lexicon; the dictionaries thread's ground), Thomas Davidson (already held), journals and society serials. Most names the sweep turned up are now held: the sweeps are running dry."
   }
  ]
 }
