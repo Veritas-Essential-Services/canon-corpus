@@ -1,0 +1,57 @@
+{
+ "_about": "Martin P. Nilsson (1874-1967), Lund historian of Greek religion, in English: Primitive Time-Reckoning (tr. F. J. Fielden, 1920) and The Minoan-Mycenaean Religion and its Survival in Greek Religion (1927). His History of Greek Religion (1925) and Imperial Rome (1926) were found only in later printings. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Martin Persson Nilsson (1874-1967)",
+ "_name_words": [
+  "nilsson",
+  "minoan",
+  "mycenaean",
+  "religion",
+  "time",
+  "reckoning"
+ ],
+ "_surname": [
+  "nilsson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nilsson-primitive-time-reckoning-1920": [
+   "primitivetimerec00nilsrich",
+   "Primitive Time-Reckoning (1920), tr. F. J. Fielden"
+  ],
+  "nilsson-minoan-mycenaean-religion-1927": [
+   "minoanmycenaeanr0000nils",
+   "The Minoan-Mycenaean Religion and its Survival in Greek Religion (1927)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "nilsson-primitive-time-reckoning-1920": "Fielden"
+ },
+ "_checks": {
+  "nilsson-primitive-time-reckoning-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nilsson",
+   "translator_claimed": "Fielden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nilsson-minoan-mycenaean-religion-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nilsson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

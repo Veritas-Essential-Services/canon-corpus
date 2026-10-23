@@ -10112,3 +10112,13 @@ Shelf: `pipeline/max-ohnefalsch-richter_shelf.json`. Kypros, the Bible and Homer
 
 Excluded: Kypros, the Bible and Homer, vol. II (plates only)
 
+
+## Martin P. Nilsson (1874-1967)
+
+Shelf: `pipeline/martin-p-nilsson_shelf.json`. Time-reckoning (1920) and Minoan-Mycenaean religion (1927). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Primitive Time-Reckoning (1920), tr. F. J. Fielden |  | `nilsson-primitive-time-reckoning-1920` | have-raw (IA `primitivetimerec00nilsrich`) |
+| The Minoan-Mycenaean Religion and its Survival in Greek Religion (1927) |  | `nilsson-minoan-mycenaean-religion-1927` | have-raw (IA `minoanmycenaeanr0000nils`) |
+
