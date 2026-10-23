@@ -10788,3 +10788,14 @@ Slugs `lowman-*`. Built from title pages read for round 46.
 | A paraphrase and notes on the Revelation of St. John (London : Printed for John Noon ..., 1745) | have-ocr | IA `paraphrasenoteso00lowm` |
 | A Dissertation on the Civil Government of the Hebrews (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_a-dissertation-on-the-ci_lowman-moses_1740` |
 | A Rational of the Ritual of the Hebrew Worship (London, catalogued 1748) | have-ocr | IA `bim_eighteenth-century_a-rational-of-the-ritual_lowman-moses_1748` |
+
+## John Maclaurin (round 46, my pick, 2026-10-22)
+
+Slugs `maclaurin-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Rev. John Maclaurin, vol. 1 (Edinburgh : J. Maclaren, 1860) | have-ocr | IA `worksofrevjohnma01macl` |
+| The works of the Rev. John Maclaurin, vol. 2 (Edinburgh : J. Maclaren, 1860) | have-ocr | IA `worksofrevjohnma02macl` |
+| An essay on the prophecies relating to the Messiah (Edinburgh, W. Gray, 1773) | have-ocr | IA `anessayonprophe00maclgoog` |
+| The 1798, 1818 and 1830 Works; Sermons and Essays (1800, 1811) | alternate | not shelved |
