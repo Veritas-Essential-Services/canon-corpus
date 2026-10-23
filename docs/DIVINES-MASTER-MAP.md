@@ -18767,6 +18767,17 @@ Slugs `cowie-*`. Built from title pages read for round 127.
 | Reminiscences of a city church : including an account of the missionary services in the Church of S. Lawrence and S. Mary Magdalen, September 1867, vol. Talbot collection of British pamphlets (London : Dalton & Lucy, booksellers to the Queen and to H.R.H. the Prince of Wales, 28 Cockspur Street, Charing Cross, 1867) | have-ocr | IA `reminiscencesofc00cowi` |
 | his catalogue of St John's College manuscripts is bibliography | excluded | |
 | a collection of examination questions | excluded | |
+
+## Robert Easton (round 127, my pick, 2026-10-23)
+
+Slugs `easton-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Reasons for joy and praise : a sermon preached April 6, 1815 : being the day of general thanksgiving for peace with the United States : in the Presbyterian Church, St. Peter's Street, Montreal (Montreal : Printed by Nahum Mower, 1815) | have-ocr | IA `cihm_92319` |
+| A sermon, delivered before the members of the Female Benevolent Society, in Montreal, September 8, 1816 (Montreal : Printed by Nahum Mower, 1816) | have-ocr | IA `cihm_55046` |
+| A sermon on the imperfection of the present state (Montreal : Printed by Nahum Mower, 1820) | have-ocr | IA `cihm_92335` |
+| the description of pictures (1752), the chemistry papers and the division-courts letter are by other men | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

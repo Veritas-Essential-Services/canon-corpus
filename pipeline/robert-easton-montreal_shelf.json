@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Robert Easton, Presbyterian minister in Montreal, for the Word Hoard: Reasons for Joy and Praise (1815), a sermon before the Female Benevolent Society of Montreal, and a sermon on the imperfection of the present state. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert easton",
+  "r. easton",
+  "easton"
+ ],
+ "_surname": [
+  "easton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "easton-joy-and-praise": [
+   "cihm_92319",
+   "Reasons for joy and praise : a sermon preached April 6, 1815 : being the day of general thanksgiving for peace with the United States : in the Presbyterian Church, St. Peter's Street, Montreal (Montreal : Printed by Nahum Mower, 1815)"
+  ],
+  "easton-female-benevolent": [
+   "cihm_55046",
+   "A sermon, delivered before the members of the Female Benevolent Society, in Montreal, September 8, 1816 (Montreal : Printed by Nahum Mower, 1816)"
+  ],
+  "easton-imperfection": [
+   "cihm_92335",
+   "A sermon on the imperfection of the present state (Montreal : Printed by Nahum Mower, 1820)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "easton-others": "the description of pictures (1752), the chemistry papers and the division-courts letter are by other men"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "easton-joy-and-praise": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "easton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "easton-female-benevolent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "easton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "easton-imperfection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "easton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
