@@ -23241,7 +23241,7 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Frances Cashel Hoey (Rémusat's Memoirs; Verne)
 
 Shelf: `pipeline/frances-hoey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frances-hoey` · titles `python3 pipeline/split_shelf_titles.py frances-hoey`.
-Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 28 (2026-10-10), vetoable. Round 153 (2026-10-23) added five from archive.org, three with John Lillie. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23249,6 +23249,11 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `frances-hoey-remusat-memoirs-vol-1` | Madame de Rémusat | Memoirs of the Empress Josephine, Vol. 1 of 2 | Frances Cashel Hoey (with John Lillie) | 1880-1898 (see the Gutenberg header) | have | PG 49175 |
 | `frances-hoey-remusat-memoirs-vol-2` | Madame de Rémusat | Memoirs of the Empress Josephine, Vol. 2 of 2 | Frances Cashel Hoey (with John Lillie) | 1880-1898 (see the Gutenberg header) | have | PG 49176 |
 | `frances-hoey-verne-an-antarctic-mystery` | Jules Verne | An Antarctic Mystery | Frances Cashel Hoey | 1880-1898 (see the Gutenberg header) | have | PG 10339 |
+| `frances-hoey-havard-the-heart-of-holland` | Henry Havard | The Heart of Holland | Frances Cashel Hoey | 1880 | have-raw | IA `hearthollandtrb00havagoog` |
+| `frances-hoey-gaulot-a-friend-of-the-queen` | Paul Gaulot | A Friend of the Queen (Marie Antoinette and Count Fersen) | Frances Cashel Hoey | 1895 | have-raw | IA `afriendqueenmar00hoeygoog` |
+| `frances-hoey-broglie-frederick-the-great-and-maria-theresa-2` | Duc de Broglie | Frederick the Great and Maria Theresa, vol. II | Frances Cashel Hoey and John Lillie | 1883 | have-raw | IA `frederickgreata00hoeygoog` |
+| `frances-hoey-miot-de-melito-memoirs` | Count Miot de Melito | Memoirs of Count Miot de Melito | Frances Cashel Hoey and John Lillie | 1881 | have-raw | IA `memoirscountmio00meligoog` |
+| `frances-hoey-celiere-startling-exploits-of-dr-quies` | Paul Célière | The Startling Exploits of Dr. J. B. Quiès | Frances Cashel Hoey and John Lillie | 1887 | have-raw | IA `startlingexploit00celiiala` |
 
 ## H. W. Dulcken (Ida Pfeiffer's travels)
 
@@ -23436,13 +23441,19 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Florence Simmonds (Corroyer's Gothic Architecture; Duhamel; Le Goffic)
 
 Shelf: `pipeline/florence-simmonds_shelf.json` · fetch `python3 pipeline/fetch_shelf.py florence-simmonds` · titles `python3 pipeline/split_shelf_titles.py florence-simmonds`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 153 (2026-10-23) added six from archive.org: Gómez Carrillo, Ricci, Reinach (2), Meier-Graefe vol. I (with Chrystal), Destrée. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `florence-simmonds-corroyer-gothic-architecture` | Édouard Corroyer | Gothic Architecture | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 54701 |
 | `florence-simmonds-duhamel-the-new-book-of-martyrs` | Georges Duhamel | The New Book of Martyrs | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 4325 |
 | `florence-simmonds-goffic-dixmude-the-epic-of-the-french-marines-o` | Charles Le Goffic | Dixmude: The epic of the French marines (October 17-November 10, 1914) | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 33929 |
+| `florence-simmonds-gomez-carrillo-among-the-ruins` | Enrique Gómez Carrillo | Among the Ruins | Florence Simmonds | 1915 | have-raw | IA `amongruins00gome_1` |
+| `florence-simmonds-ricci-correggio` | Corrado Ricci | Antonio Allegri da Correggio: His Life, his Friends, and his Time | Florence Simmonds | 1896 | have-raw | IA `antonioallegrida00riccuoft` |
+| `florence-simmonds-reinach-apollo` | Salomon Reinach | Apollo: An Illustrated Manual of the History of Art throughout the Ages | Florence Simmonds | 1917 (this printing) | have-raw | IA `apolloanillustr00reingoog` |
+| `florence-simmonds-meier-graefe-modern-art-1` | Julius Meier-Graefe | Modern Art, vol. I | Florence Simmonds and George W. Chrystal | 1908 | have-raw | IA `modernartbeinga00meiegoog` |
+| `florence-simmonds-reinach-orpheus` | Salomon Reinach | Orpheus: A General History of Religions | Florence Simmonds | 1909 | have-raw | IA `orpheusageneral00simmgoog` |
+| `florence-simmonds-destree-renaissance-of-sculpture-in-belgium` | Olivier Georges Destrée | The Renaissance of Sculpture in Belgium | Florence Simmonds | 1895 | have-raw | IA `renaissanceofscu00dest` |
 
 ## Bernard Guilbert Guerney (Bunin; Kuprin's Sulamith and Yama)
 
@@ -23871,6 +23882,7 @@ Round 31 (2026-10-10), vetoable. Tragic Sense is keyed from a 1954 Dover reprint
 |---|---|---|---|---|---|---|
 | `flitch-unamuno-essays-and-soliloquies` | Miguel de Unamuno | Essays and soliloquies | J. E. Crawford Flitch | 1921-1925 (see the Gutenberg header) | have | PG 71260 |
 | `flitch-unamuno-tragic-sense-of-life` | Miguel de Unamuno | Tragic Sense Of Life | J. E. Crawford Flitch | 1921-1925 (see the Gutenberg header) | have | PG 14636 |
+| `flitch-duret-manet` | Théodore Duret | Manet and the French Impressionists (Grant Richards; no year printed, archive.org 1910) | J. E. Crawford Flitch | 1910? | pending | — |
 
 ## Benjamin F. Glazer (Molnár's Liliom; Fashions for Men and The Swan)
 
@@ -24170,12 +24182,14 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## W. Fitzwater Wray (Barbusse's Under Fire; Light)
 
 Shelf: `pipeline/fitzwater-wray_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fitzwater-wray` · titles `python3 pipeline/split_shelf_titles.py fitzwater-wray`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 153 (2026-10-23) added Berger's A Life at Stake; Barbusse's We Others held (no year). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `fitzwater-wray-barbusse-light` | Henri Barbusse | Light | W. Fitzwater Wray | 1917-1919 (see the Gutenberg header) | have | PG 12904 |
 | `fitzwater-wray-barbusse-under-fire-the-story-of-a-squad` | Henri Barbusse | Under Fire: The Story of a Squad | W. Fitzwater Wray | 1917-1919 (see the Gutenberg header) | have | PG 4380 |
+| `fitzwater-wray-berger-a-life-at-stake` | Marcel Berger | A Life at Stake | Fitzwater Wray | 1919 | have-raw | IA `alifeatstake00wraygoog` |
+| `fitzwater-wray-barbusse-we-others` | Henri Barbusse | We Others (Dutton; no year printed, archive.org 1918) | Fitzwater Wray | 1918? | pending | — |
 
 ## Otto Wenckstern (Eötvös's The Village Notary; Schlesinger)
 
@@ -25087,13 +25101,17 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Frederic Whyte (Filon's The English Stage; Schillings's In Wildest Africa)
 
 Shelf: `pipeline/frederic-whyte_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frederic-whyte` · titles `python3 pipeline/split_shelf_titles.py frederic-whyte`.
-Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Round 153 (2026-10-23) added three from archive.org; Sarfatti's Mussolini held (no year). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `frederic-whyte-filon-the-english-stage-being-an-account-of-th` | Augustin Filon | The English Stage: Being an Account of the Victorian Drama | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 36590 |
 | `frederic-whyte-schillings-in-wildest-africa-vol-1` | C. G. Schillings | In Wildest Africa, Vol. 1 | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 54922 |
 | `frederic-whyte-schillings-in-wildest-africa-vol-2` | C. G. Schillings | In Wildest Africa, Vol. 2 | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 54923 |
+| `frederic-whyte-lenz-napoleon` | Max Lenz | Napoleon: A Biography | Frederic Whyte | 1907 | have-raw | IA `napoleonabiogra00lenzgoog` |
+| `frederic-whyte-schillings-flashlights-in-the-jungle` | C. G. Schillings | Flashlights in the Jungle | Frederic Whyte | 1905 | have-raw | IA `flashlightsinju00whytgoog` |
+| `frederic-whyte-waldersee-a-field-marshals-memoirs` | Count Alfred von Waldersee | A Field-Marshal's Memoirs (condensed and translated) | Frederic Whyte | 1924 | have-raw | IA `fieldmarshalsmem0000fred` |
+| `frederic-whyte-sarfatti-mussolini` | Margherita G. Sarfatti | The Life of Benito Mussolini (Stokes; no year printed, archive.org 1925) | Frederic Whyte | 1925? | pending | — |
 
 ## Emilie Poulsson's Zwilgmeyer (Inger Johanne; Johnny Blossom)
 

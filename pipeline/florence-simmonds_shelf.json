@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Florence Simmonds: Duhamel's The New Book of Martyrs (1918), Le Goffic's Dixmude (1916) and Corroyer's Gothic Architecture (1893, ed. Walter Armstrong). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Florence Simmonds: Duhamel's The New Book of Martyrs (1918), Le Goffic's Dixmude (1916) and Corroyer's Gothic Architecture (1893, ed. Walter Armstrong). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Gómez Carrillo's Among the Ruins (1915), Ricci's Correggio (1896), Reinach's Apollo (1917 printing) and Orpheus (1909), Meier-Graefe's Modern Art vol. I (1908, with George W. Chrystal) and Destrée's Renaissance of Sculpture in Belgium (1895).",
  "_name_words": [
   "florence simmonds"
  ],
@@ -22,7 +22,32 @@
    "Gothic Architecture"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "fsi-ia-gomez-among-ruins": [
+   "amongruins00gome_1",
+   "Gómez Carrillo: Among the Ruins"
+  ],
+  "fsi-ia-ricci-correggio": [
+   "antonioallegrida00riccuoft",
+   "Ricci: Correggio"
+  ],
+  "fsi-ia-reinach-apollo": [
+   "apolloanillustr00reingoog",
+   "Reinach: Apollo"
+  ],
+  "fsi-ia-meier-graefe-modern-art-1": [
+   "modernartbeinga00meiegoog",
+   "Meier-Graefe: Modern Art 1"
+  ],
+  "fsi-ia-reinach-orpheus": [
+   "orpheusageneral00simmgoog",
+   "Reinach: Orpheus"
+  ],
+  "fsi-ia-destree-sculpture-belgium": [
+   "renaissanceofscu00dest",
+   "Destrée: Renaissance of Sculpture in Belgium"
+  ]
+ },
  "titles": {
   "florence-simmonds-corroyer-gothic-architecture": {
    "source": "fsi-54701",
@@ -47,6 +72,54 @@
    "translated": "1893-1918 (see the Gutenberg header)",
    "translator": "Florence Simmonds",
    "scan_edition": "Project Gutenberg 33929 (clean text)"
+  },
+  "florence-simmonds-gomez-carrillo-among-the-ruins": {
+   "source": "fsi-ia-gomez-among-ruins",
+   "of": "Enrique Gómez Carrillo",
+   "work": "Among the Ruins",
+   "translated": "1915",
+   "translator": "Florence Simmonds",
+   "scan_edition": "William Heinemann, London, 1915"
+  },
+  "florence-simmonds-ricci-correggio": {
+   "source": "fsi-ia-ricci-correggio",
+   "of": "Corrado Ricci",
+   "work": "Antonio Allegri da Correggio: His Life, his Friends, and his Time",
+   "translated": "1896",
+   "translator": "Florence Simmonds",
+   "scan_edition": "William Heinemann, London, 1896"
+  },
+  "florence-simmonds-reinach-apollo": {
+   "source": "fsi-ia-reinach-apollo",
+   "of": "Salomon Reinach",
+   "work": "Apollo: An Illustrated Manual of the History of Art throughout the Ages",
+   "translated": "1917 (this printing)",
+   "translator": "Florence Simmonds",
+   "scan_edition": "William Heinemann, London, 1917"
+  },
+  "florence-simmonds-meier-graefe-modern-art-1": {
+   "source": "fsi-ia-meier-graefe-modern-art-1",
+   "of": "Julius Meier-Graefe",
+   "work": "Modern Art, vol. I",
+   "translated": "1908",
+   "translator": "Florence Simmonds and George W. Chrystal",
+   "scan_edition": "William Heinemann, London, 1908"
+  },
+  "florence-simmonds-reinach-orpheus": {
+   "source": "fsi-ia-reinach-orpheus",
+   "of": "Salomon Reinach",
+   "work": "Orpheus: A General History of Religions",
+   "translated": "1909",
+   "translator": "Florence Simmonds",
+   "scan_edition": "William Heinemann, London, 1909"
+  },
+  "florence-simmonds-destree-renaissance-of-sculpture-in-belgium": {
+   "source": "fsi-ia-destree-sculpture-belgium",
+   "of": "Olivier Georges Destrée",
+   "work": "The Renaissance of Sculpture in Belgium",
+   "translated": "1895",
+   "translator": "Florence Simmonds",
+   "scan_edition": "Seeley and Co., London; Macmillan, New York, 1895 (credit in the front matter)"
   }
  },
  "_pending": {},
@@ -55,7 +128,7 @@
  "_checks": {
   "fsi-33929": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "florence simmonds",
    "identity": "ok",
@@ -64,7 +137,7 @@
   },
   "fsi-4325": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "florence simmonds",
    "identity": "ok",
@@ -73,12 +146,78 @@
   },
   "fsi-54701": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "florence simmonds",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Florence Simmonds"
+  },
+  "fsi-ia-gomez-among-ruins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fsi-ia-ricci-correggio": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fsi-ia-reinach-apollo": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fsi-ia-meier-graefe-modern-art-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fsi-ia-reinach-orpheus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fsi-ia-destree-sculpture-belgium": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +235,87 @@
    "pg": 54701,
    "pg_copyrighted_marker": false,
    "pg_translator": "Florence Simmonds"
+  },
+  "fsi-ia-gomez-among-ruins": {
+   "ia": "amongruins00gome_1",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1914,
+    1915
+   ],
+   "post_1930_years_in_front_15k": [
+    2014
+   ],
+   "post_1930_examined": "2014 is the scan's digitization line"
+  },
+  "fsi-ia-ricci-correggio": {
+   "ia": "antonioallegrida00riccuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1681,
+    1871,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fsi-ia-reinach-apollo": {
+   "ia": "apolloanillustr00reingoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1480,
+    1880,
+    1902,
+    1903,
+    1904,
+    1907,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fsi-ia-meier-graefe-modern-art-1": {
+   "ia": "modernartbeinga00meiegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1838,
+    1851,
+    1852,
+    1861,
+    1865,
+    1870,
+    1874,
+    1875,
+    1876,
+    1879,
+    1883,
+    1884,
+    1890,
+    1901,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fsi-ia-reinach-orpheus": {
+   "ia": "orpheusageneral00simmgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900,
+    1904,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fsi-ia-destree-sculpture-belgium": {
+   "ia": "renaissanceofscu00dest",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1895
+   ],
+   "post_1930_years_in_front_15k": [
+    2014
+   ],
+   "post_1930_examined": "2014 is the scan's digitization line"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

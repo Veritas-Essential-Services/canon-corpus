@@ -1,14 +1,16 @@
 {
- "_about": "TRANSLATOR SHELF: Frances Cashel Hoey (1830-1908): Madame de Rémusat's Memoirs (1880, 2 vols, with John Lillie), Challamel's History of Fashion in France (1882, with Lillie) and Verne's An Antarctic Mystery (1898). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Frances Cashel Hoey (1830-1908): Madame de Rémusat's Memoirs (1880, 2 vols, with John Lillie), Challamel's History of Fashion in France (1882, with Lillie) and Verne's An Antarctic Mystery (1898). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted. From archive.org (2026-10-23): Havard's The Heart of Holland (1880), Gaulot's A Friend of the Queen (1895), and three with John Lillie: Broglie's Frederick the Great and Maria Theresa vol. II (1883), Miot de Melito's Memoirs (1881) and Célière's Startling Exploits of Dr. Quiès (1887).",
  "_name_words": [
   "frances cashel hoey",
   "cashel hoey",
-  "mrs. cashel hoey"
+  "mrs. cashel hoey",
+  "gashel hoey"
  ],
  "_surname": [
   "frances cashel hoey",
   "cashel hoey",
-  "mrs. cashel hoey"
+  "mrs. cashel hoey",
+  "gashel hoey"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -30,7 +32,28 @@
    "The history of fashion in France"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "fho-ia-havard-heart-holland": [
+   "hearthollandtrb00havagoog",
+   "Havard: The Heart of Holland"
+  ],
+  "fho-ia-broglie-frederick-2": [
+   "frederickgreata00hoeygoog",
+   "Broglie: Frederick the Great and Maria Theresa 2"
+  ],
+  "fho-ia-miot-memoirs": [
+   "memoirscountmio00meligoog",
+   "Miot de Melito: Memoirs"
+  ],
+  "fho-ia-celiere-dr-quies": [
+   "startlingexploit00celiiala",
+   "Célière: Startling Exploits of Dr. Quiès"
+  ],
+  "fho-ia-gaulot-friend-queen": [
+   "afriendqueenmar00hoeygoog",
+   "Gaulot: A Friend of the Queen"
+  ]
+ },
  "titles": {
   "frances-hoey-challamel-the-history-of-fashion-in-france": {
    "source": "fho-76717",
@@ -63,15 +86,57 @@
    "translated": "1880-1898 (see the Gutenberg header)",
    "translator": "Frances Cashel Hoey",
    "scan_edition": "Project Gutenberg 10339 (clean text)"
+  },
+  "frances-hoey-havard-the-heart-of-holland": {
+   "source": "fho-ia-havard-heart-holland",
+   "of": "Henry Havard",
+   "work": "The Heart of Holland",
+   "translated": "1880",
+   "translator": "Frances Cashel Hoey",
+   "scan_edition": "Richard Bentley and Son, London, 1880"
+  },
+  "frances-hoey-broglie-frederick-the-great-and-maria-theresa-2": {
+   "source": "fho-ia-broglie-frederick-2",
+   "of": "Duc de Broglie",
+   "work": "Frederick the Great and Maria Theresa, vol. II",
+   "translated": "1883",
+   "translator": "Frances Cashel Hoey and John Lillie",
+   "scan_edition": "Sampson Low, Marston, Searle, & Rivington, London, 1883"
+  },
+  "frances-hoey-miot-de-melito-memoirs": {
+   "source": "fho-ia-miot-memoirs",
+   "of": "Count Miot de Melito",
+   "work": "Memoirs of Count Miot de Melito",
+   "translated": "1881",
+   "translator": "Frances Cashel Hoey and John Lillie",
+   "scan_edition": "Charles Scribner's Sons, New York, 1881 (American edition, edited by General Fleischmann)"
+  },
+  "frances-hoey-celiere-startling-exploits-of-dr-quies": {
+   "source": "fho-ia-celiere-dr-quies",
+   "of": "Paul Célière",
+   "work": "The Startling Exploits of Dr. J. B. Quiès",
+   "translated": "1887",
+   "translator": "Frances Cashel Hoey and John Lillie",
+   "scan_edition": "Harper & Brothers, New York, 1887"
+  },
+  "frances-hoey-gaulot-a-friend-of-the-queen": {
+   "source": "fho-ia-gaulot-friend-queen",
+   "of": "Paul Gaulot",
+   "work": "A Friend of the Queen (Marie Antoinette and Count Fersen)",
+   "translated": "1895",
+   "translator": "Frances Cashel Hoey",
+   "scan_edition": "William Heinemann, London, 1895 (second edition, one volume)"
   }
  },
  "_pending": {},
- "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Life of Mme. de la Rochefoucauld (Houghton, Osgood, Boston, 1878; lifemmedelaroch00hoeygoog) says only 'translated from the French', with no translator named."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'gashel hoey' is the OCR of the Broglie Frederick the Great vol. II title page (2026-10-23).",
  "_checks": {
   "fho-10339": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances cashel hoey",
    "identity": "ok",
@@ -80,7 +145,7 @@
   },
   "fho-49175": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances cashel hoey",
    "identity": "ok",
@@ -89,7 +154,7 @@
   },
   "fho-49176": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances cashel hoey",
    "identity": "ok",
@@ -98,12 +163,67 @@
   },
   "fho-76717": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances cashel hoey",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Frances Cashel Hoey; John Lillie"
+  },
+  "fho-ia-havard-heart-holland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cashel hoey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fho-ia-broglie-frederick-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gashel hoey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fho-ia-miot-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cashel hoey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fho-ia-celiere-dr-quies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cashel hoey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fho-ia-gaulot-friend-queen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cashel hoey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -126,6 +246,64 @@
    "pg": 76717,
    "pg_copyrighted_marker": false,
    "pg_translator": "Frances Cashel Hoey"
+  },
+  "fho-ia-havard-heart-holland": {
+   "ia": "hearthollandtrb00havagoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1540,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fho-ia-broglie-frederick-2": {
+   "ia": "frederickgreata00hoeygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1740,
+    1741,
+    1742,
+    1743,
+    1830,
+    1883
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fho-ia-miot-memoirs": {
+   "ia": "memoirscountmio00meligoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1783,
+    1788,
+    1815,
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fho-ia-celiere-dr-quies": {
+   "ia": "startlingexploit00celiiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1886,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fho-ia-gaulot-friend-queen": {
+   "ia": "afriendqueenmar00hoeygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1774,
+    1783,
+    1784,
+    1788,
+    1791,
+    1796,
+    1810,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
