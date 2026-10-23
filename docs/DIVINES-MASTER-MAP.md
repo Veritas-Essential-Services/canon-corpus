@@ -19830,6 +19830,15 @@ Shelf: `pipeline/constantin-ackermann_shelf.json`. The Christian Element in Plat
 |---|---|---|---|
 | The Christian Element in Plato and the Platonic Philosophy, tr. S. R. Asbury (1861) |  | `ackermann-christian-element-plato-1861` | have-raw (IA `christianelement00acke`) |
 
+
+## Edmund Weissenborn
+
+Shelf: `pipeline/edmund-weissenborn_shelf.json`. Homeric Life, tr. G. C. Scoggin and C. G. Burkitt (New York: American Book Company, 1903). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Homeric Life, tr. G. C. Scoggin and C. G. Burkitt (New York: American Book Company, 1903) |  | `weissenborn-homeric-life-1903` | have-raw (IA `homericlife00weisuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

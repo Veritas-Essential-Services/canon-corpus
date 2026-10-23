@@ -1,0 +1,40 @@
+{
+ "_about": "Edmund Weissenborn: Homeric Life (Vanderbilt Oriental Series, 1903), translated and adapted for American students by Gilbert Campbell Scoggin and Charles Gray Burkitt. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Edmund Weissenborn",
+ "_name_words": [
+  "weissenborn",
+  "edmund",
+  "homeric",
+  "life"
+ ],
+ "_surname": [
+  "weissenborn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "weissenborn-homeric-life-1903": [
+   "homericlife00weisuoft",
+   "Homeric Life, tr. G. C. Scoggin and C. G. Burkitt (New York: American Book Company, 1903)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "weissenborn-homeric-life-1903": "Scoggin and Burkitt"
+ },
+ "_checks": {
+  "weissenborn-homeric-life-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weissenborn",
+   "translator_claimed": "Scoggin and Burkitt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "[1903]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
