@@ -3122,6 +3122,15 @@ Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Augustus: the Life and Times of the Founder of the Roman Empire |  | `shuckburgh-augustus` | have (PG 66609) |
+| Suetonius, Divus Augustus, edited with historical introduction, commentary, appendices and indices, by Evelyn S. Shuckburgh (Cambridge: University Press, 1896); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `shuckburgh-divus-augustus-1896` | have-raw (IA `divusaugustus00shucgoog`) |
+| A History of Rome to the Battle of Actium (New York and London: Macmillan, 1894) |  | `shuckburgh-history-of-rome-to-actium-1894` | have-raw (IA `ahistoryrometob00shucgoog`) |
+| Greece, from the Coming of the Hellenes to A.D. 14 (The Story of the Nations; New York: G. P. Putnam's Sons; London: T. Fisher Unwin, 1906) |  | `shuckburgh-greece-1906` | have-raw (IA `greecefromcomin00shucgoog`) |
+| A History of Rome for Beginners, from the Foundation of the City to the Death of Augustus (London: Macmillan, 1897) |  | `shuckburgh-history-of-rome-for-beginners-1897` | have-raw (IA `historyofromefor00shucrich`) |
+| Lysiae Orationes XVI, with analysis, notes, appendices and indices, by Evelyn S. Shuckburgh (London: Macmillan, 1882); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `shuckburgh-lysias-xvi-1882` | have-raw (IA `orationes16witha00lysiuoft`) |
+| Herodotos VIII 1-90 (Artemisium and Salamis), with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1887); Greek text with English notes |  | `shuckburgh-herodotus-viii-1887` | have-raw (IA `herodotus8190art08herouoft`) |
+| Herodotos IX 1-89 (Plataea), with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1887); Greek text with English notes |  | `shuckburgh-herodotus-ix-1887` | have-raw (IA `herodotus9189pla00herouoft`) |
+| The Epistles of Horace, Book I, with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1888); Latin text with English notes |  | `shuckburgh-horace-epistles-i-1888` | have-raw (IA `epistleshorace00shucgoog`) |
+| Terence, Hauton Timorumenos, with introduction and notes, and The Self-Tormentor translated from the Hauton Timorumenos of Terence, by E. S. Shuckburgh (London: Macmillan, 1877) |  | `shuckburgh-terence-hauton-1877` | have-raw (IA `hautontimorumeno00tereuoft`) |
 
 ## Gaston Boissier (scholarship)
 

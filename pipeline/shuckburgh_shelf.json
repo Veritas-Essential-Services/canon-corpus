@@ -1,12 +1,13 @@
 {
- "_about": "Evelyn Shirley Shuckburgh (1843-1906). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Augustus: the Life and Times of the Founder of the Roman Empire, clean Gutenberg. His translations (Polybius, Cicero's letters) are on those shelves. No uids minted.",
+ "_about": "Evelyn Shirley Shuckburgh (1843-1906). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Augustus: the Life and Times of the Founder of the Roman Empire, clean Gutenberg. His translations (Polybius, Cicero's letters) are on those shelves. Round dt (2026-10-23), raw IA: his histories (A History of Rome to the Battle of Actium, 1894; A History of Rome for Beginners, 1897; Greece from the Coming of the Hellenes, 1906) and his school and college editions with English commentary (Suetonius's Divus Augustus, 1896; Lysias XVI, 1882; Herodotus VIII and IX, 1887; Horace's Epistles I, 1888; Terence's Hauton Timorumenos with his translation, 1877); the Latin and Greek text editions are kept per Adam's 2026-10-23 ruling. No uids minted.",
  "_name_words": [
   "shuckburgh"
  ],
  "_surname": [
   "evelyn s. shuckburgh",
   "evelyn shirley shuckburgh",
-  "shuckburgh, evelyn"
+  "shuckburgh, evelyn",
+  "e. s. shuckburgh"
  ],
  "ccel": {},
  "gutenberg": {
@@ -15,16 +16,166 @@
    "Augustus: the Life and Times of the Founder of the Roman Empire"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "shuckburgh-divus-augustus-1896": [
+   "divusaugustus00shucgoog",
+   "Suetonius, Divus Augustus, edited with historical introduction, commentary, appendices and indices, by Evelyn S. Shuckburgh (Cambridge: University Press, 1896); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "shuckburgh-history-of-rome-to-actium-1894": [
+   "ahistoryrometob00shucgoog",
+   "A History of Rome to the Battle of Actium (New York and London: Macmillan, 1894)"
+  ],
+  "shuckburgh-greece-1906": [
+   "greecefromcomin00shucgoog",
+   "Greece, from the Coming of the Hellenes to A.D. 14 (The Story of the Nations; New York: G. P. Putnam's Sons; London: T. Fisher Unwin, 1906)"
+  ],
+  "shuckburgh-history-of-rome-for-beginners-1897": [
+   "historyofromefor00shucrich",
+   "A History of Rome for Beginners, from the Foundation of the City to the Death of Augustus (London: Macmillan, 1897)"
+  ],
+  "shuckburgh-lysias-xvi-1882": [
+   "orationes16witha00lysiuoft",
+   "Lysiae Orationes XVI, with analysis, notes, appendices and indices, by Evelyn S. Shuckburgh (London: Macmillan, 1882); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "shuckburgh-herodotus-viii-1887": [
+   "herodotus8190art08herouoft",
+   "Herodotos VIII 1-90 (Artemisium and Salamis), with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1887); Greek text with English notes"
+  ],
+  "shuckburgh-herodotus-ix-1887": [
+   "herodotus9189pla00herouoft",
+   "Herodotos IX 1-89 (Plataea), with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1887); Greek text with English notes"
+  ],
+  "shuckburgh-horace-epistles-i-1888": [
+   "epistleshorace00shucgoog",
+   "The Epistles of Horace, Book I, with introduction and notes by E. S. Shuckburgh (Cambridge: University Press, 1888); Latin text with English notes"
+  ],
+  "shuckburgh-terence-hauton-1877": [
+   "hautontimorumeno00tereuoft",
+   "Terence, Hauton Timorumenos, with introduction and notes, and The Self-Tormentor translated from the Hauton Timorumenos of Terence, by E. S. Shuckburgh (London: Macmillan, 1877)"
+  ]
+ },
  "_checks": {
   "shuckburgh-augustus": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "evelyn s. shuckburgh",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "shuckburgh-divus-augustus-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-history-of-rome-to-actium-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn shirley shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-greece-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-history-of-rome-for-beginners-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-lysias-xvi-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-herodotus-viii-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-herodotus-ix-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-horace-epistles-i-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. shuckburgh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shuckburgh-terence-hauton-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. shuckburgh",
+   "translator_claimed": "E. S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_translators": {
+  "shuckburgh-terence-hauton-1877": "E. S. Shuckburgh"
+ },
+ "_identity_checked": {
+  "shuckburgh-herodotus-viii-1887": {
+   "author": "title page OCRs the editor as 'Eo. sFLUCK BURGH, MA: LATE FELLOW OF EMMANUEL COLLEGE CAMBRIDGE, FORMERLY MASTER AT ETON' (Cambridge University Press, 1887)"
+  },
+  "shuckburgh-lysias-xvi-1882": {
+   "author": "title page OCRs the editor as 'EVELYN 8. SHUCKBURGH, M.A., ASSISTANT MASTER AT ETON; LATE FELLOW AND ASSISTANT TUTOR OF EMMANUEL COLLEGE, CAMBRIDGE' (London: Macmillan, 1882)"
   }
  }
 }
