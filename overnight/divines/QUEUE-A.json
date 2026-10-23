@@ -7543,6 +7543,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:51:03-05:00",
       "notes": "Brattle Street, Boston; posthumous sermons and works. 0 uids minted."
+    },
+    {
+      "id": "e-h-chapin",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Universalist, New York; Humanity in the City pending. 0 uids minted."
     }
   ]
 }

@@ -1,0 +1,172 @@
+{
+ "_about": "Public-domain Edwin Hubbell Chapin (1814-1880), Universalist minister of the Church of the Divine Paternity, New York, for the Word Hoard: Duties of Young Men (1840), Discourses on Various Subjects (1841), Duties of Young Women (1848), Hours of Communion (1848), Discourses on the Lord's Prayer (1850), Characters in the Gospels (1852), Discourses on the Beatitudes (1853), Moral Aspects of City Life (1853) and Christianity the Perfection of True Manliness (1856). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chapin"
+ ],
+ "_surname": [
+  "e. h. chapin",
+  "edwin h. chapin",
+  "edwin hubbell chapin",
+  "rev. e. h. chapin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chapin-young-men": [
+   "dutiesyoungmene00chapgoog",
+   "Duties of young men, exhibited in six lectures; with an Anniversary address, delivered before the Richmond Lyceum (Boston, A. Tompkins, and B. B. Mussey, 1840)"
+  ],
+  "chapin-various-subjects": [
+   "discoursesonvar01chapgoog",
+   "Discourses on Various Subjects (A. Tompkins, 1841)"
+  ],
+  "chapin-young-women": [
+   "dutiesyoungwome02chapgoog",
+   "Duties of Young Women (G.W. Briggs, 1848)"
+  ],
+  "chapin-hours-of-communion": [
+   "hoursofcommunion00chap",
+   "Hours of communion (Boston : A. Tompkins, 1848)"
+  ],
+  "chapin-lords-prayer": [
+   "discoursesonlord00chap",
+   "Discourses on the Lord's Prayer (Boston, A. Tompkins, 1850)"
+  ],
+  "chapin-characters-gospels": [
+   "characteringospe00chap",
+   "Character in the Gospels (New York, Redfield, 1852)"
+  ],
+  "chapin-beatitudes": [
+   "discoursesonbea01chapgoog",
+   "Discourses on the Beatitudes (A. Tompkins, 1853)"
+  ],
+  "chapin-city-life": [
+   "moralaspectsofci00chap",
+   "Moral aspects of city life: a series of lectures (Kiggins, 1854)"
+  ],
+  "chapin-true-manliness": [
+   "christianityper00chapgoog",
+   "Christianity the perfection of true manliness (New York : H. Lyon, 1856)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "chapin-other": "Hymns for Christian Devotion (1846, with J. G. Adams) and The Fountain (a temperance annual he co-edited); Universalist collections by several hands"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "chapin-various-subjects": "title page (after the Google notice): 'Discourses on Various Subjects, by E. H. C h api n [E. H. Chapin]' (Boston: Abel Tompkins, 1841)",
+  "chapin-hours-of-communion": "title page: 'Hours of Communion, by Edwin H. 'Chapin' (Boston: A. Tompkins and B. B. Mussey, 1848)",
+  "chapin-lords-prayer": "title page: 'Discourses on the Lord's Prayer, by E. H- Chaj>in [E. H. Chapin]' (Boston: A. Tompkins, 1850)",
+  "chapin-characters-gospels": "title page: 'Characters in the Gospels, illustrating phases of character at the present day, by Rev. E.VH. Chapin [E. H. Chapin]' (New York: Redfield, 1852)",
+  "chapin-beatitudes": "title page (after the Google notice): 'Discourses on the Beatitudes, by E. H. Ohapin [Chapin]' (Boston: Abel Tompkins, 1853)",
+  "chapin-city-life": "title page: 'Moral Aspects of City Life, a series of lectures by Rev. E. H. Chapijst [Chapin]' (New York: Kiggins & Kellogg, 1854)",
+  "chapin-true-manliness": "title page (after the Google notice): 'Christianity the Perfection of True Manliness, [by] Rev. E. H.' Chapin' (New York: Henry Lyon)"
+ },
+ "_pending": {
+  "chapin-humanity-city": "humanityinthecity00chaprich: Humanity in the City (New York: De Witt & Davenport, 1854); the OCR of the title page breaks off at 'by the Rev. E. -if.', so the name is not legible; to be read from the page image"
+ },
+ "_translators": {},
+ "_checks": {
+  "chapin-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. h. chapin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-various-subjects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-young-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. h. chapin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-hours-of-communion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-characters-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "chapin-beatitudes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chapin-city-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "IN PUBLIC DOMAIN",
+   "ia_lending": null
+  },
+  "chapin-true-manliness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

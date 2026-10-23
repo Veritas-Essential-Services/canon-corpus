@@ -12845,6 +12845,24 @@ Slugs `buckminster-*`. Built from title pages read for round 64.
 | Sermons by the late Rev. Joseph S. Buckminster : now first published from the author's manuscripts (Boston : Carter and Hendee, 1829) | have-ocr | IA `sermonsbylatere00buck` |
 | The Works of Joseph Stevens Buckminster: With Memoirs of His Life, vol. 2 (J. Munroe, 1839) | have-ocr | IA `worksjosephstev00buckgoog` |
 | His father Joseph Buckminster (1751-1812) of Portsmouth; Eliza Buckminster Lee's memoirs of both | excluded | |
+
+## E. H. Chapin (round 64, my pick, 2026-10-23)
+
+Slugs `chapin-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Duties of young men, exhibited in six lectures; with an Anniversary address, delivered before the Richmond Lyceum (Boston, A. Tompkins, and B. B. Mussey, 1840) | have-ocr | IA `dutiesyoungmene00chapgoog` |
+| Discourses on Various Subjects (A. Tompkins, 1841) | have-ocr | IA `discoursesonvar01chapgoog` |
+| Duties of Young Women (G.W. Briggs, 1848) | have-ocr | IA `dutiesyoungwome02chapgoog` |
+| Hours of communion (Boston : A. Tompkins, 1848) | have-ocr | IA `hoursofcommunion00chap` |
+| Discourses on the Lord's Prayer (Boston, A. Tompkins, 1850) | have-ocr | IA `discoursesonlord00chap` |
+| Character in the Gospels (New York, Redfield, 1852) | have-ocr | IA `characteringospe00chap` |
+| Discourses on the Beatitudes (A. Tompkins, 1853) | have-ocr | IA `discoursesonbea01chapgoog` |
+| Moral aspects of city life: a series of lectures (Kiggins, 1854) | have-ocr | IA `moralaspectsofci00chap` |
+| Christianity the perfection of true manliness (New York : H. Lyon, 1856) | have-ocr | IA `christianityper00chapgoog` |
+| humanityinthecity00chaprich: Humanity in the City (New York: De Witt & Davenport, 1854); the OCR of the title page breaks off at 'by the Rev. E. -if.', so the name is not legible; to be read from the page image | pending | not shelved |
+| Hymns for Christian Devotion (1846, with J. G. Adams) and The Fountain (a temperance annual he co-edited); Universalist collections by several hands | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
