@@ -134,6 +134,39 @@
   "sophocles-storr-loeb-v2": [
    "sophocleswitheng02soph",
    "Sophocles, tr. F. Storr, vol. II: Ajax, Electra, Trachiniae, Philoctetes (Loeb, 1913; this copy the 1919 reprint); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p1": [
+   "playsfragmentswi01sophuoft",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part I: The Oedipus Tyrannus, 3rd ed. (Cambridge, 1893; this copy the 1914 reprint); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p2": [
+   "SophoclesThePlaysAndFragmentsPart2",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part II: The Oedipus Coloneus, 3rd ed. (Cambridge, 1900); Greek text facing, kept per Adam's 2026-10-23 ruling",
+   "Sophocles_ThePlaysAndFragments_Part2_djvu.txt"
+  ],
+  "sophocles-jebb-plays-fragments-p3": [
+   "sophoclesplaysfr03soph",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part III: The Antigone, 2nd ed. (Cambridge); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p4": [
+   "playsfragmentswi04sophuoft",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part IV: The Philoctetes (Cambridge); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p5": [
+   "playsfragmentswi05sophuoft",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part V: The Trachiniae (Cambridge, 1892); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p6": [
+   "sophoclesplaysfr06soph",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part VI: The Electra (Cambridge, 1894; this copy a 1924 reprint); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-jebb-plays-fragments-p7": [
+   "playsfragmentswi07sophuoft",
+   "Sophocles, the Plays and Fragments, with critical notes, commentary and translation in English prose by R. C. Jebb, Part VII: The Ajax (Cambridge, 1896); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "sophocles-kennedy-oedipus-tyrannus-1885": [
+   "ahx3490.0001.001.umich.edu",
+   "The Oedipus Tyrannus of Sophocles, with a translation in verse by B. H. Kennedy (1885); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_cross_ref": {
@@ -177,7 +210,10 @@
   "sophocles-doyle-oedipus-1849": "francis hastings doyle",
   "sophocles-potter-1820": "r. potter",
   "sophocles-george-adams-1818": "george adams",
-  "sophocles-storr-loeb-v2": "F. Storr"
+  "sophocles-storr-loeb-v2": "F. Storr",
+  "sophocles-jebb-plays-fragments-p3": "Jebb",
+  "sophocles-jebb-plays-fragments-p4": "Jebb",
+  "sophocles-kennedy-oedipus-tyrannus-1885": "Kennedy"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -499,6 +535,100 @@
    "ia_date": "1912",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1892-1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1892-1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-jebb-plays-fragments-p7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-kennedy-oedipus-tyrannus-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
@@ -718,6 +848,23 @@
     "share_alike": true,
     "redistribute_whole": false
    }
+  }
+ },
+ "_identity_checked": {
+  "sophocles-jebb-plays-fragments-p1": {
+   "translator": "title page image read 2026-10-23: 'Sophocles, the Plays and Fragments, with critical notes, commentary, and translation in English prose, by Sir Richard C. Jebb ... Part I. The Oedipus Tyrannus. Cambridge, 1914'; verso: First Edition 1883, Second 1887, Third (stereotyped) 1893, Reprinted 1902, 1914; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
+  },
+  "sophocles-jebb-plays-fragments-p2": {
+   "translator": "title page image read 2026-10-23: '... by R. C. Jebb, Litt.D. ... Part II. The Oedipus Coloneus. Third edition. Cambridge, 1900'; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
+  },
+  "sophocles-jebb-plays-fragments-p5": {
+   "translator": "half-title image read 2026-10-23: 'Sophocles, the Plays and Fragments. Part V. The Trachiniae', C. J. Clay & Sons imprint: Jebb's Cambridge edition; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
+  },
+  "sophocles-jebb-plays-fragments-p6": {
+   "translator": "title page image read 2026-10-23: '... by Sir Richard C. Jebb ... Part VI. The Electra. Cambridge, 1924'; verso: First Edition 1894, Reprinted 1907, 1924; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
+  },
+  "sophocles-jebb-plays-fragments-p7": {
+   "translator": "half-title image read 2026-10-23: 'Sophocles, the Plays and Fragments. Part VII. The Ajax', C. J. Clay and Sons imprint: Jebb's Cambridge edition; the gate's translator check is not claimed for this row because the OCR renders the editor's name as Greek"
   }
  }
 }
