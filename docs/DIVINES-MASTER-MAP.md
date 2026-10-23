@@ -44021,3 +44021,16 @@ Shelf: `pipeline/deborah-alcock_shelf.json` (2026-10-22; added at the coordinato
 | Under the Southern Cross | have | PG 77308, `dalcock-under-the-southern-cross` (1939 units) |
 | The dark year of Dundee | have | PG 77324, `dalcock-dark-year-of-dundee` (1325 units) |
 | repeat-editions | excluded | PG 44262: second Gutenberg editions of titles already on the shelf. |
+
+## Walter Aimwell
+
+Shelf: `pipeline/walter-aimwell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Oscar; Or, The Boy Who Had His Own Way | have | PG 18153, `waimwell-oscar` (1063 units) |
+| Whistler; or, The Manly Boy | have | PG 67723, `waimwell-whistler` (1369 units) |
+| Marcus; or, The Boy-Tamer | have | PG 67950, `waimwell-marcus` (1372 units) |
+| Clinton | have | PG 72775, `waimwell-clinton` (892 units) |
+| Jerry; or, the sailor boy ashore | have | PG 74467, `waimwell-jerry` (641 units) |
+| Jessie | have | PG 75385, `waimwell-jessie` (960 units) |
