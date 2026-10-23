@@ -1,0 +1,32 @@
+{
+ "_about": "Lucia C. G. Grieve, raw IA OCR of her Columbia dissertation Death and Burial in Attic Tragedy, Part I: Death and the Dead (New York, 1898). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Lucia Catherine Graeme Grieve",
+ "_name_words": [
+  "grieve"
+ ],
+ "_surname": [
+  "lucia catherine graeme grieve"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lucia-grieve-death-burial-attic-tragedy-1898": [
+   "deathburialinatt00grierich",
+   "Death and Burial in Attic Tragedy, Part I: Death and the Dead, by Lucia Catherine Graeme Grieve (Columbia dissertation; New York, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lucia-grieve-death-burial-attic-tragedy-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucia catherine graeme grieve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
