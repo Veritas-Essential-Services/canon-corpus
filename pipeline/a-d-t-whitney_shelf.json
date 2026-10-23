@@ -1,0 +1,101 @@
+{
+ "_about": "A. D. T. Whitney: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "A. D. T. Whitney",
+ "_name_words": [
+  "adeline",
+  "dutton",
+  "train",
+  "whitney"
+ ],
+ "_surname": [
+  "a. d. t. whitney",
+  "adeline dutton train whitney",
+  "whitney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adtwhitney-summer-in-leslie-goldthwaites-life": [
+   11141,
+   "A Summer in Leslie Goldthwaite's Life."
+  ],
+  "adtwhitney-we-girls": [
+   12224,
+   "We Girls: a Home Story"
+  ],
+  "adtwhitney-real-folks": [
+   13997,
+   "Real Folks"
+  ],
+  "adtwhitney-other-girls": [
+   16329,
+   "The Other Girls"
+  ],
+  "adtwhitney-faith-gartneys-girlhood": [
+   18896,
+   "Faith Gartney's Girlhood"
+  ],
+  "adtwhitney-mother-goose-for-grown-folks": [
+   45301,
+   "Mother Goose for Grown Folks"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "adtwhitney-summer-in-leslie-goldthwaites-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adtwhitney-we-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adtwhitney-real-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adtwhitney-other-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adtwhitney-faith-gartneys-girlhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adtwhitney-mother-goose-for-grown-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. d. t. whitney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -43122,3 +43122,16 @@ Shelf: `pipeline/w-l-alden_shelf.json` (2026-10-22; added at the coordinator's r
 | A new Robinson Crusoe | have | PG 70016, `wlalden-new-robinson-crusoe` (618 units) |
 | Christopher Columbus (1440-1506) | have | PG 71569, `wlalden-christopher-columbus-1440-1506` (494 units) |
 | The loss of the Swansea | have | PG 76536, `wlalden-loss-of-the-swansea` (567 units) |
+
+## A. D. T. Whitney
+
+Shelf: `pipeline/a-d-t-whitney_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Summer in Leslie Goldthwaite's Life. | have | PG 11141, `adtwhitney-summer-in-leslie-goldthwaites-life` (1039 units) |
+| We Girls: a Home Story | have | PG 12224, `adtwhitney-we-girls` (1305 units) |
+| Real Folks | have | PG 13997, `adtwhitney-real-folks` (2113 units) |
+| The Other Girls | have | PG 16329, `adtwhitney-other-girls` (2731 units) |
+| Faith Gartney's Girlhood | have | PG 18896, `adtwhitney-faith-gartneys-girlhood` (2173 units) |
+| Mother Goose for Grown Folks | have | PG 45301, `adtwhitney-mother-goose-for-grown-folks` (2765 units) |
