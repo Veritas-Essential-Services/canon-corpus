@@ -13389,3 +13389,18 @@ Slugs `perowne-*`. Built from title pages read for round 71.
 | Sermons, preached chiefly in the chapel of St. David's College, Lampeter, and in Llandaff Cathedral (London: W. Isbister, 1874) | have-ocr | IA `sermons0000jjst` |
 | The church, the ministry, the sacraments, five sermons preached in Peterborough Cathedral (London : J. Nisbet & Co., 1883) | have-ocr | IA `churchministrysa00perouoft` |
 | Cambridge Bible volumes he edited as general editor and those by his brothers T. T. and E. H. Perowne; the Memoir of T. G. Ragland (1861, by T. T. Perowne); his edition of Thirlwall's Remains and Letters | excluded | |
+
+## W. M. Clow (round 71, my pick, 2026-10-23)
+
+Slugs `clow-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cross in Christian Experience (New York: Hodder and Stoughton; undated, catalogued 1908; the copy was given from the books of Edward Blake, who died in 1912) | have-ocr | IA `crossinchristian00clowuoft` |
+| The day of the cross ; a course of sermons on the men and women and some of the notable things of the day of the crucifixion of Jesus (London : Hodder and Stoughton, 1909) | have-ocr | IA `dayofcrosscourse00clow` |
+| The secret of the Lord (New York : Hodder & Stoughton, 1910) | have-ocr | IA `secretofthelord00clowuoft` |
+| Christ in the social order (New York : Hodder & Stoughton : George H. Doran company, 1913) | have-ocr | IA `christinsocialor00clow` |
+| The evangel of the strait gate (London, New York [etc.] Hodder and Stoughton, 1916) | have-ocr | IA `evangelofstraitg00clow` |
+| The Christian Message in the Light of the War (London, Edinburgh and New York: Marshall Brothers; undated, written during the 1914-1918 war, catalogued 1918) | have-ocr | IA `christianmessage0000clow` |
+| The quest of industrial peace (London, Hodder and Stoughton, 1921) | have-ocr | IA `questofindustria00clowuoft` |
+| Dr. George Reith: a Scottish ministry (London, Hodder and Stoughton, 1928) | have-ocr | IA `drgeorgereithsco0000clow` |
