@@ -9570,3 +9570,16 @@ Shelf: `pipeline/charles-sankey_shelf.json`. The Spartan and Theban Supremacies 
 |---|---|---|---|
 | The Spartan and Theban Supremacies (Epochs of Ancient History, 1877; this printing 1898) |  | `sankey-spartan-theban-supremacies` | have-raw (IA `spartanthebansup00sankuoft`) |
 
+
+## T. T. Timayenis (1853-1918)
+
+Shelf: `pipeline/t-t-timayenis_shelf.json`. History of Greece, 2 vols., and Greece in the Times of Homer, 1881-1885. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greece from the Earliest Times to the Present, vol. I |  | `timayenis-history-of-greece-vol-1` | have-raw (IA `historyofgreecef0001tima`) |
+| A History of Greece from the Earliest Times to the Present, vol. II |  | `timayenis-history-of-greece-vol-2` | have-raw (IA `historyofgreecef0002tima`) |
+| Greece in the Times of Homer (1885) |  | `timayenis-greece-in-times-of-homer-1885` | have-raw (IA `greeceintimesofh00timauoft`) |
+
+Excluded: The Original Mr. Jacobs (1888) and similar (antisemitic pamphlets, not scholarship)
+
