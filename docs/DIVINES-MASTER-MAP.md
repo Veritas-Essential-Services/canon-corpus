@@ -19921,6 +19921,15 @@ Shelf: `pipeline/w-a-dunning_shelf.json`. A History of Political Theories, Ancie
 |---|---|---|---|
 | A History of Political Theories, Ancient and Mediaeval (New York: Macmillan, 1902) |  | `dunning-political-theories-ancient-mediaeval-1902` | have-raw (IA `ahistorypolitic08dunngoog`) |
 
+
+## Wincenty Lutoslawski (1863-1954)
+
+Shelf: `pipeline/wincenty-lutoslawski_shelf.json`. The Origin and Growth of Plato's Logic (London: Longmans, 1897; 1905 issue). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Origin and Growth of Plato's Logic (London: Longmans, 1897; 1905 issue) |  | `lutoslawski-origin-growth-platos-logic` | have-raw (IA `origingrowthofpl0000winc`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
