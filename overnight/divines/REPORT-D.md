@@ -2579,3 +2579,6 @@
 
 ## 2026-10-22 23:18 CDT — l-adams-beck: done
 - l-adams-beck: new shelf, 6 Gutenberg books, 9,582 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:18 CDT — jane-barlow: done
+- jane-barlow: new shelf, 6 Gutenberg books, 2,879 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags.

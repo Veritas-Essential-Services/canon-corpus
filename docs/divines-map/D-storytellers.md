@@ -18240,3 +18240,16 @@ Shelf: `pipeline/l-adams-beck_shelf.json` (2026-10-22; added at the coordinator'
 | The Divine Lady: A Romance of Nelson and Emma Hamilton | have | PG 65312, `labeck-divine-lady` (2063 units) |
 | Dreams and delights | have | PG 69786, `labeck-dreams-and-delights` (1578 units) |
 | The splendour of Asia: The story and teaching of the Buddha | have | PG 69787, `labeck-splendour-of-asia` (1729 units) |
+
+## Jane Barlow
+
+Shelf: `pipeline/jane-barlow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Strangers at Lisconnel | have | PG 18957, `jbarlow-strangers-at-lisconnel` (761 units) |
+| The End of Elfintown | have | PG 67883, `jbarlow-end-of-elfintown` (130 units) |
+| Bog-land studies | have | PG 75538, `jbarlow-bog-land-studies` (152 units) |
+| A creel of Irish stories | have | PG 75587, `jbarlow-creel-of-irish-stories` (586 units) |
+| By beach and bog-land | have | PG 75823, `jbarlow-by-beach-and-bog-land` (886 units) |
+| Mrs. Martin's company | have | PG 79670, `jbarlow-mrs-martins-company` (364 units) |

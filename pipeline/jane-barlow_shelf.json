@@ -1,0 +1,98 @@
+{
+ "_about": "Jane Barlow: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Jane Barlow",
+ "_name_words": [
+  "barlow",
+  "jane"
+ ],
+ "_surname": [
+  "jane barlow",
+  "barlow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jbarlow-strangers-at-lisconnel": [
+   18957,
+   "Strangers at Lisconnel"
+  ],
+  "jbarlow-end-of-elfintown": [
+   67883,
+   "The End of Elfintown"
+  ],
+  "jbarlow-bog-land-studies": [
+   75538,
+   "Bog-land studies"
+  ],
+  "jbarlow-creel-of-irish-stories": [
+   75587,
+   "A creel of Irish stories"
+  ],
+  "jbarlow-by-beach-and-bog-land": [
+   75823,
+   "By beach and bog-land"
+  ],
+  "jbarlow-mrs-martins-company": [
+   79670,
+   "Mrs. Martin's company"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jbarlow-strangers-at-lisconnel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbarlow-end-of-elfintown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbarlow-bog-land-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbarlow-creel-of-irish-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbarlow-by-beach-and-bog-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbarlow-mrs-martins-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane barlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
