@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T03:09:20-05:00",
- "note": "Rounds cq-dj done 2026-10-23.",
- "resume_point": "Round dk: the IA subject sweeps now return mostly held names. Next, sweep by publisher series instead of subject (Macmillan's Classical Library and Handbooks of Archaeology and Antiquities, Bohn's Classical Library, Longmans' Epochs of Ancient History, Murray's Student's Manuals, Ancient Classics for English Readers gaps, Heroes of the Nations classical volumes, Loeb volumes of 1912-1929 not yet held), checking every name against all branches."
+ "heartbeat": "2026-10-23T03:34:38-05:00",
+ "note": "Rounds cq-dk done 2026-10-23.",
+ "resume_point": "Round dl: do for Internet Archive what round dk did for Gutenberg: an advancedsearch sweep on LoC call numbers (lcc or callnumber fields starting PA, DE, DF, DG) for English texts dated 1850-1929, keeping only creators unheld on every branch. Then Loebs of 1912-1929 not yet held, per author shelf, translator per row."
 }

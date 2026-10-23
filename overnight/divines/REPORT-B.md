@@ -1497,3 +1497,10 @@
 - Checked a list of well-known British classical scholars against every branch; seven were unheld. New shelves: h-stuart-jones 5, j-a-k-thomson 3, e-e-sikes 2, e-maunde-thompson 2 (the palaeography handbooks), h-j-rose 2, alice-gardner 2, w-g-rutherford 1. 17 works.
 - The Lascarids of Nicaea survives on IA only as Hakkert's 1964 photographic reprint of the 1912 edition; recorded in _rights_checked.
 - Next: sweep by publisher series.
+
+## 2026-10-23 — Round dk: the Gutenberg catalogue, checked class by class
+- Downloaded Gutenberg's catalogue and kept English texts in the classics classes (PA, DE, DF, ancient DG, ancient philosophy, classical myth) whose numbers no branch holds: 150. Most were children's retellings, travel books, split volumes of texts already held complete, or not lane B's.
+- 13 rows added to existing lane B shelves, among them Butler's Iliad (missing until now), Wright's Julian vol. 1, the 1907 Attic Theatre, Oman's Byzantine Empire, The Legacy of Greece, and clean texts for six books held only as raw OCR.
+- 25 new shelves, 26 works, all clean Gutenberg: W. G. Holmes's Age of Justinian and Theodora, Dobson's Greek Orators, Baldwin's Ancient Rhetoric and Poetic, Haight's Greek Romances, Treston's Poine, Allinson's Greek Lands and Letters, Robinson's Sappho, and others.
+- For lane C: Symonds's Studies of the Greek Poets (PG 47157, 47236) is unheld and fits its symonds shelf.
+- Next: the same check against Internet Archive call numbers.

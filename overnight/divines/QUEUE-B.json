@@ -2092,6 +2092,14 @@
    "started": "2026-10-23T03:03:45-05:00",
    "finished": "2026-10-23T03:09:20-05:00",
    "notes": "7 new shelves, 17 works: H. Stuart Jones 5 (Greek sculpture passages, Roman Empire, Classical Rome, Companion to Roman History, Fresh Light on Roman Bureaucracy), J. A. K. Thomson 3, Sikes 2, Maunde Thompson 2 (palaeography handbooks), H. J. Rose 2 (Primitive Culture in Italy; Handbook of Greek Mythology, Dutton 1929), Alice Gardner 2 (Julian; Lascarids of Nicaea from the 1964 Hakkert photographic reprint, _rights_checked), Rutherford 1 (New Phrynichus, Greek-heavy). Bare 'rutherford' dropped (shared with the rutherford shelf). Left: Gardner's Theodore of Studium (lane A), Rutherford's Babrius (empty text layer)."
+  },
+  {
+   "id": "2026-10-23dk",
+   "status": "done",
+   "scope": "Gutenberg catalogue (pg_catalog.csv) filtered to classics LoC classes (PA, DE, DF, DG to 365, B108-708, BL700-899), English, against every PG id held on any branch",
+   "started": "2026-10-23T03:09:20-05:00",
+   "finished": "2026-10-23T03:34:38-05:00",
+   "notes": "150 unheld titles found; most of the rest are children's retellings, travel, split volumes of complete texts already held, or Erasmus and Abelard (not lane B). Added 13 Gutenberg rows to existing lane B shelves (homer: Butler's Iliad; julian: Wright vol. 1; haigh: The Attic Theatre 3rd ed. 1907; clean witnesses for McCrindle's Invasion on arrian, Seebohm, Norwood, Flickinger, Stobart and J. A. K. Thomson; oman: The Byzantine Empire; snider: Homer's Odyssey commentary; r-w-livingstone: The Legacy of Greece; greek-lyric: Sappho by O'Hara and Stacpoole). 25 new shelves, 26 works: W. G. Holmes 2 (Age of Justinian and Theodora), Dobson, C. S. Baldwin, Haight (1943, PG-cleared), F. A. Wright, Treston, Vaux, F. P. Graves, Mitchell Carroll, Plummer, Agnes Clerke, R. W. Browne, D. M. Robinson, Oakesmith, F. G. Allinson, E. F. M. Benecke, Blancke, J. W. Ross, F. J. Miller, Middleton and Mills, Lumb, Mary Sturgeon, Helen McClees, George Glasgow, Sister Mary Rosaria. Bare 'livingstone' dropped from r-w-livingstone (shared with david-livingstone); The Greek Genius title page read and recorded. Left for lane C: Symonds's Studies of the Greek Poets (PG 47157, 47236) belongs on its symonds shelf. Left: McCabe's Empresses of Constantinople (PG 60938; the mccabe shelf is lane C's), Lempriere and Carleton's dictionaries (the dictionaries thread's ground)."
   }
  ]
 }
