@@ -12399,6 +12399,18 @@ Slugs `halley-*`. Built from title pages read for round 59.
 | Lancashire, its Puritanism and Nonconformity (Manchester, Tubbs, 1872) | have-ocr | IA `lancashireitspu00hall` |
 | The relation of the Church to the State (catalogued 1870) | have-ocr | IA `relationchurcht00hallgoog` |
 | Edmond Halley the astronomer; Robert Halley's own memoir by his son | excluded | |
+
+## John Stoughton (round 59, my pick, 2026-10-23)
+
+Slugs `stoughton-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual heroes, or, Sketches of the Puritans : their character and times (New York : M.W. Dodd, 1848) | have-ocr | IA `spiritualheroeso00stou` |
+| Philip Doddridge, his life and labours : a centenary memorial (London : Jackson and Walford, 1851) | have-ocr | IA `philipdoddridge00stouuoft` |
+| Ages of Christendom before the Reformation (London, England : Jackson and Walford, 1857) | have-ocr | IA `agesofchristend00stouuoft` |
+| His Ecclesiastical History of England (1867-1884) and History of Religion in England: volumes to be gathered as a set in a later round | pending | not shelved |
+| John Stoughton the Puritan (d. 1639); Hodder & Stoughton imprints by other authors | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
