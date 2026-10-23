@@ -19678,6 +19678,15 @@ Shelf: `pipeline/frank-granger_shelf.json`. The Worship of the Romans (1895). No
 |---|---|---|---|
 | The Worship of the Romans, Viewed in Relation to the Roman Temperament (1895) |  | `granger-worship-of-the-romans-1895` | have-raw (IA `worshipoftheroma00granuoft`) |
 
+
+## W. R. Halliday (1886-1966)
+
+Shelf: `pipeline/w-r-halliday_shelf.json`. Roman religion from Numa to Augustus (1922). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Lectures on the History of Roman Religion from Numa to Augustus (1922) |  | `halliday-roman-religion-1922` | have-raw (IA `lecturesonhistor00halluoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

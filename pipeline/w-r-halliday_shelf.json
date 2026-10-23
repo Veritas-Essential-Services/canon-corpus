@@ -1,0 +1,36 @@
+{
+ "_about": "W. R. Halliday (1886-1966), Liverpool classicist: Lectures on the History of Roman Religion from Numa to Augustus (1922). Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "William Reginald Halliday (1886-1966)",
+ "_name_words": [
+  "halliday",
+  "roman",
+  "religion",
+  "numa",
+  "augustus"
+ ],
+ "_surname": [
+  "halliday"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "halliday-roman-religion-1922": [
+   "lecturesonhistor00halluoft",
+   "Lectures on the History of Roman Religion from Numa to Augustus (1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "halliday-roman-religion-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "halliday",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
