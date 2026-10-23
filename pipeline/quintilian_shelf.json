@@ -142,5 +142,43 @@
  },
  "_translator_unchecked": {
   "quintilian-watson-v2-1856": "title page OCRs the name as 'JOHN SELBT ■W;ATS0N' (Bohn, 1856); the claim is not matched as written"
+ },
+ "perseus": {
+  "quintilian-perseus-butler-institutio-oratoria": [
+   "phi1002.phi001.perseus-eng2",
+   "Institutio Oratoria",
+   "Harold Edgeworth Butler",
+   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Quintilian. Institutio Oratoria, Volume 1-4. Butler, Harold Edgeworth, translator. Cambridge, Mass; London: Harvard University Press, William Heinemann Ltd., 1920-1922."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "quintilian-perseus-butler-institutio-oratoria": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi1002.phi001.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Butler",
+   "author_seen": "quintilian",
+   "source_years": [
+    1920,
+    1922
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi1002/phi001/phi1002.phi001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
