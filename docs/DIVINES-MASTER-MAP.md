@@ -19337,6 +19337,15 @@ Shelf: `pipeline/thomas-ashby_shelf.json`. The Roman Campagna in Classical Times
 |---|---|---|---|
 | The Roman Campagna in Classical Times (1927) |  | `ashby-roman-campagna-1927` | have-raw (IA `romancampagnainc0000ashb_c4u5`) |
 
+
+## Marc Monnier (1827-1885)
+
+Shelf: `pipeline/marc-monnier_shelf.json`. The Wonders of Pompeii (1870). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Wonders of Pompeii (1870) |  | `monnier-wonders-of-pompeii-1870` | have-raw (IA `wondersofpompeii00monn`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
