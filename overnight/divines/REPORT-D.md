@@ -2198,3 +2198,6 @@
 
 ## 2026-10-22 22:50 CDT — roger-pocock: done
 - roger-pocock: new shelf, 8 Gutenberg books, 13,494 units, 1316 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — old-sleuth: done
+- old-sleuth: new shelf, 8 Gutenberg books, 13,026 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.

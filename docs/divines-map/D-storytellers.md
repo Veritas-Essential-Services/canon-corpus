@@ -16304,3 +16304,18 @@ Shelf: `pipeline/roger-pocock_shelf.json` (2026-10-22; added at the coordinator'
 | The cheerful blackguard | have | PG 70400, `rpocock-cheerful-blackguard` (2013 units) |
 | Captains of adventure | have | PG 72176, `rpocock-captains-of-adventure` (1184 units) |
 | Horses | have | PG 73259, `rpocock-horses` (1449 units) |
+
+## Old Sleuth (Harlan Page Halsey)
+
+Shelf: `pipeline/old-sleuth_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dime-novel detective stories. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The "Dock Rats" of New York; Or, The Smuggler Band's Last Stand | have | PG 5248, `oldsleuth-dock-rats-of-new-york` (3659 units) |
+| A Desperate Chance; Or, The Wizard Tramp's Revelation, a Thrilling Narrative | have | PG 10690, `oldsleuth-desperate-chance` (1011 units) |
+| Oscar the Detective; Or, Dudie Dunne, The Exquisite Detective | have | PG 19335, `oldsleuth-oscar-the-detective` (1593 units) |
+| Cad Metti, The Female Detective Strategist; Or, Dudie Dunne Again in the Field | have | PG 19929, `oldsleuth-cad-metti-the-female-detective-strategist` (1406 units) |
+| Two Wonderful Detectives; Or, Jack and Gil's Marvelous Skill | have | PG 26155, `oldsleuth-two-wonderful-detectives` (1081 units) |
+| A Successful Shadow; Or, A Detective's Successful Quest | have | PG 26175, `oldsleuth-successful-shadow` (1012 units) |
+| The Twin Ventriloquists; or, Nimble Ike and Jack the Juggler A Tale of Strategy and Jugglery | have | PG 43765, `oldsleuth-twin-ventriloquists` (1248 units) |
+| Nimble Ike, the Trick Ventriloquist: A Rousing Tale of Fun and Frolic | have | PG 67179, `oldsleuth-nimble-ike-the-trick-ventriloquist` (2016 units) |
