@@ -1,5 +1,5 @@
 {
- "_about": "John Dewey (1859-1952), American works published before 1931 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). In raw IA OCR: Dewey and James H. Tufts, Ethics (American Science Series; Holt, 1909, copyright 1908). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; PG 39551, the Dewey-Tufts Ethics, would not download, so the IA scan stands in for it. Added in round ae: The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930). Added in round az: Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95). Added in round az: The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94). Added in round az: Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93). Added in round 2026-10-18cj/ck, raw IA OCR: Psychology, third revised edition (Harper, 1894; copyright 1886 and 1891); The Psychology of Number, written with James A. McLellan, who is the lead author (Appleton, 1895); The Educational Situation (University of Chicago Press, 1902); Interest and Effort in Education (Houghton Mifflin, Riverside Educational Monographs; the verso copyright year 1913 is the only date); Letters from China and Japan, with Alice Chipman Dewey (Dutton, 1920); Characters and Events, popular essays, ed. Joseph Ratner (Holt, 1929, 2 vols.; the copyright line is the only date, and the OCR reads it as 1920 in vol. I and 1929 in vol. II); Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929); The Sources of a Science of Education (Horace Liveright, second printing October 1929). Held: The Public and its Problems (1927), as every scan found is a Swallow paperback printed after the 1954 renewal. No uids minted.",
+ "_about": "John Dewey (1859-1952), American works published before 1931 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). In raw IA OCR: Dewey and James H. Tufts, Ethics (American Science Series; Holt, 1909, copyright 1908). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; PG 39551, the Dewey-Tufts Ethics, would not download, so the IA scan stands in for it. Added in round ae: The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930). Added in round az: Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95). Added in round az: The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94). Added in round az: Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93). Added in round 2026-10-18cj/ck, raw IA OCR: Psychology, third revised edition (Harper, 1894; copyright 1886 and 1891); The Psychology of Number, written with James A. McLellan, who is the lead author (Appleton, 1895); The Educational Situation (University of Chicago Press, 1902); Interest and Effort in Education (Houghton Mifflin, Riverside Educational Monographs; the verso copyright year 1913 is the only date); Letters from China and Japan, with Alice Chipman Dewey (Dutton, 1920); Characters and Events, popular essays, ed. Joseph Ratner (Holt, 1929, 2 vols.; the copyright line is the only date, and the OCR reads it as 1920 in vol. I and 1929 in vol. II); Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929); The Sources of a Science of Education (Horace Liveright, second printing October 1929). Held: The Public and its Problems (1927), as every scan found is a Swallow paperback printed after the 1954 renewal. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "John Dewey",
  "_name_words": [
   "john",
@@ -69,6 +69,10 @@
   "dewey-human-nature-and-conduct-1922": [
    41386,
    "Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922)"
+  ],
+  "dewey-child-and-curriculum-pg": [
+   29259,
+   "The Child and the Curriculum"
   ]
  },
  "internet_archive": {
@@ -133,7 +137,7 @@
  "_checks": {
   "dewey-critical-theory-of-ethics-1891": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -142,7 +146,7 @@
   },
   "dewey-leibniz-new-essays-1902": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -151,7 +155,7 @@
   },
   "dewey-school-and-society-1900": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -160,7 +164,7 @@
   },
   "dewey-psychology-and-social-practice-1901": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -169,7 +173,7 @@
   },
   "dewey-studies-in-logical-theory-1903": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -178,7 +182,7 @@
   },
   "dewey-moral-principles-in-education-1909": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -187,7 +191,7 @@
   },
   "dewey-how-we-think-1910": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -196,7 +200,7 @@
   },
   "dewey-influence-of-darwin-1910": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -205,7 +209,7 @@
   },
   "dewey-german-philosophy-and-politics-1915": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -214,7 +218,7 @@
   },
   "dewey-schools-of-to-morrow-1915": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -223,7 +227,7 @@
   },
   "dewey-essays-in-experimental-logic-1916": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -232,7 +236,7 @@
   },
   "dewey-democracy-and-education": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -241,7 +245,7 @@
   },
   "dewey-creative-intelligence-1917": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -250,7 +254,7 @@
   },
   "dewey-reconstruction-in-philosophy-1920": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -259,7 +263,16 @@
   },
   "dewey-human-nature-and-conduct-1922": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-child-and-curriculum-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -268,7 +281,7 @@
   },
   "dewey-tufts-ethics-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -279,7 +292,7 @@
   },
   "dewey-child-and-the-curriculum-1930": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -290,7 +303,7 @@
   },
   "dewey-experience-and-nature-1929": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -301,7 +314,7 @@
   },
   "dewey-quest-for-certainty-1929": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -312,7 +325,7 @@
   },
   "dewey-individualism-old-and-new-1930": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -324,7 +337,7 @@
   },
   "dewey-psychology-1894": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -335,7 +348,7 @@
   },
   "dewey-mclellan-psychology-of-number-1895": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -346,7 +359,7 @@
   },
   "dewey-educational-situation-1902": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -357,7 +370,7 @@
   },
   "dewey-interest-and-effort-1913": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -368,7 +381,7 @@
   },
   "dewey-letters-from-china-and-japan-1920": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -379,7 +392,7 @@
   },
   "dewey-characters-and-events-1929-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -390,18 +403,7 @@
   },
   "dewey-characters-and-events-1929-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "john dewey",
-   "identity": "ok",
-   "ia_rights": "ok: published 1929",
-   "ia_date": "1929",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "dewey-impressions-of-soviet-russia-1929": {
-   "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",
@@ -412,7 +414,7 @@
   },
   "dewey-sources-of-a-science-of-education-1929": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john dewey",
    "identity": "ok",

@@ -1,5 +1,5 @@
 {
- "_about": "Norman Kemp Smith (1872-1958), Kant and Hume scholar. Raw IA OCR: Studies in the Cartesian Philosophy (London and New York: Macmillan, 1902; title page 'Norman Smith', before he added Kemp), clean 0.90; A Commentary to Kant's 'Critique of Pure Reason' (London: Macmillan, 1918), clean 0.92. His translation of the Critique of Pure Reason (1929) stands on the kant shelf. US public domain. Added in round 2026-10-17bs: Prolegomena to an Idealist Theory of Knowledge (London: Macmillan, 1924), clean 0.92. No uids minted.",
+ "_about": "Norman Kemp Smith (1872-1958), Kant and Hume scholar. Raw IA OCR: Studies in the Cartesian Philosophy (London and New York: Macmillan, 1902; title page 'Norman Smith', before he added Kemp), clean 0.90; A Commentary to Kant's 'Critique of Pure Reason' (London: Macmillan, 1918), clean 0.92. His translation of the Critique of Pure Reason (1929) stands on the kant shelf. US public domain. Added in round 2026-10-17bs: Prolegomena to an Idealist Theory of Knowledge (London: Macmillan, 1924), clean 0.92. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Norman Kemp Smith",
  "_name_words": [
   "norman",
@@ -12,7 +12,12 @@
   "norman smith"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "kemp-smith-commentary-critique-pg": [
+   43572,
+   "A Commentary to Kant's 'Critique of Pure Reason'"
+  ]
+ },
  "internet_archive": {
   "kemp-smith-cartesian-philosophy-1902": [
    "studiesincartes00smitgoog",
@@ -29,9 +34,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "kemp-smith-commentary-critique-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kemp smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "kemp-smith-cartesian-philosophy-1902": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "norman smith",
    "identity": "ok",
@@ -42,24 +56,13 @@
   },
   "kemp-smith-commentary-kant-1918": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "kemp smith",
    "identity": "ok",
    "ia_rights": "ok: published 1918",
    "ia_date": "1918",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "kemp-smith-prolegomena-idealist-theory-1924": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "kemp smith",
-   "identity": "ok",
-   "ia_rights": "ok: published 1924",
-   "ia_date": "1924",
-   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

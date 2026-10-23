@@ -1,5 +1,5 @@
 {
- "_about": "Charles Hubbard Judd (1873-1946), Wundt's student, psychologist of education at Yale and Chicago. Raw IA OCR: Genetic Psychology for Teachers (Appleton, 1903); Psychology, General Introduction (Scribner, 1907); The Psychology of High-School Subjects (Ginn, copyright 1916; the verso year is the only one printed); Introduction to the Scientific Study of Education (Ginn, copyright 1918). US public domain. No uids minted.",
+ "_about": "Charles Hubbard Judd (1873-1946), Wundt's student, psychologist of education at Yale and Chicago. Raw IA OCR: Genetic Psychology for Teachers (Appleton, 1903); Psychology, General Introduction (Scribner, 1907); The Psychology of High-School Subjects (Ginn, copyright 1916; the verso year is the only one printed); Introduction to the Scientific Study of Education (Ginn, copyright 1918). US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Charles Hubbard Judd",
  "_name_words": [
   "charles",
@@ -10,7 +10,12 @@
   "judd"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "judd-scientific-study-education-pg": [
+   56903,
+   "Introduction to the Scientific Study of Education"
+  ]
+ },
  "internet_archive": {
   "judd-genetic-psychology-for-teachers-1903": [
    "geneticpsycholog00judduoft",
@@ -31,9 +36,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "judd-scientific-study-education-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "judd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "judd-genetic-psychology-for-teachers-1903": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "judd",
    "identity": "ok",
@@ -44,7 +58,7 @@
   },
   "judd-psychology-general-introduction-1907": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "judd",
    "identity": "ok",
@@ -53,20 +67,9 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "judd-psychology-of-high-school-subjects-1916": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "judd",
-   "identity": "ok",
-   "ia_rights": "ok: published 1915",
-   "ia_date": "1915",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
   "judd-introduction-to-scientific-study-of-education-1918": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "judd",
    "identity": "ok",

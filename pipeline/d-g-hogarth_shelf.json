@@ -1,5 +1,5 @@
 {
- "_about": "D. G. Hogarth (David George Hogarth, 1862-1927), Keeper of the Ashmolean Museum, excavator at Ephesus and Carchemish. Classical scholarship, archaeology and the Near East (lane B). Raw IA OCR: Devia Cypria (1889), A Wandering Scholar in the Levant (1896), Philip and Alexander of Macedon (1897), Authority and Archaeology Sacred and Profane (ed., 1899; essays by Driver, Griffith, Gardner, Headlam, Haverfield and Hogarth), The Nearer East (1902), The Penetration of Arabia (1904), Ionia and the East (1909), Accidents of an Antiquary's Life (1910), The Ancient East (Home University Library, 1915) and Hittite Seals (Oxford, 1920). Not taken: The Life of Charles M. Doughty (1928), lending-library scan only; the Carchemish and Ephesus excavation reports, mostly plates. Not C. J. Hogarth (translator, cj-hogarth). US public domain. No uids minted.",
+ "_about": "D. G. Hogarth (David George Hogarth, 1862-1927), Keeper of the Ashmolean Museum, excavator at Ephesus and Carchemish. Classical scholarship, archaeology and the Near East (lane B). Raw IA OCR: Devia Cypria (1889), A Wandering Scholar in the Levant (1896), Philip and Alexander of Macedon (1897), Authority and Archaeology Sacred and Profane (ed., 1899; essays by Driver, Griffith, Gardner, Headlam, Haverfield and Hogarth), The Nearer East (1902), The Penetration of Arabia (1904), Ionia and the East (1909), Accidents of an Antiquary's Life (1910), The Ancient East (Home University Library, 1915) and Hittite Seals (Oxford, 1920). Not taken: The Life of Charles M. Doughty (1928), lending-library scan only; the Carchemish and Ephesus excavation reports, mostly plates. Not C. J. Hogarth (translator, cj-hogarth). US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "D. G. Hogarth",
  "_name_words": [
   "david",
@@ -12,7 +12,16 @@
   "david g. hogarth"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "hogarth-accidents-antiquarys-life-pg": [
+   70857,
+   "Accidents of an Antiquary's Life"
+  ],
+  "hogarth-ancient-east-pg": [
+   7474,
+   "The Ancient East"
+  ]
+ },
  "internet_archive": {
   "hogarth-devia-cypria-1889": [
    "deviacyprianotes00hoga",
@@ -60,6 +69,24 @@
   "IA awanderingschol01hogagoog": "its text file would not download (HTTP 500); the other Google scan of the same 1896 edition used"
  },
  "_checks": {
+  "hogarth-accidents-antiquarys-life-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hogarth-ancient-east-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "hogarth-devia-cypria-1889": {
    "kind": "ia",
    "checked": "2026-10-23",

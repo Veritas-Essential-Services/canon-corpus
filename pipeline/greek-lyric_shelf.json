@@ -1,5 +1,5 @@
 {
- "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing.",
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_name_words": [
   "anthology",
   "epigrams",
@@ -23,6 +23,10 @@
    38230,
    "The Odes of Anacreon",
    "tr. Thomas Moore"
+  ],
+  "rodd-love-worship-death-pg": [
+   35907,
+   "Love, Worship and Death: renderings from the Greek Anthology"
   ]
  },
  "internet_archive": {
@@ -122,7 +126,7 @@
  "_checks": {
   "greek-anthology-mackail": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "greek anthology",
    "translator_claimed": "J. W. Mackail",
@@ -134,7 +138,7 @@
   },
   "sappho-wharton": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "henry thornton wharton",
@@ -145,7 +149,7 @@
   },
   "anacreon-moore": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Thomas Moore",
@@ -154,9 +158,18 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "rodd-love-worship-death-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "bacchylides-poste": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bacchylides",
    "translator_claimed": "poste",
@@ -169,7 +182,7 @@
   },
   "greek-anthology-burges-1854": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "George Burges",
@@ -182,7 +195,7 @@
   },
   "anacreon-fawkes-1760": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Fawkes",
@@ -196,7 +209,7 @@
   },
   "anacreon-girdlestone-1804": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Girdlestone",
@@ -209,7 +222,7 @@
   },
   "anacreon-arnold-1869": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "thomas james arnold",
@@ -222,7 +235,7 @@
   },
   "greek-anthology-macgregor": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "robert guthrie macgregor",
@@ -236,7 +249,7 @@
   },
   "anacreon-stanley-1815": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "thomas stanley",
@@ -249,7 +262,7 @@
   },
   "greek-anthology-bland-1813": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "robert bland",
@@ -262,7 +275,7 @@
   },
   "greek-anthology-perry-garden-of-hellas-1891": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "lilla cabot perry",
@@ -276,7 +289,7 @@
   },
   "greek-anthology-benson-reed-of-pan-1922": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "a. c. benson",
@@ -290,7 +303,7 @@
   },
   "greek-anthology-rodd-love-worship-death-1916": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "rennell rodd",

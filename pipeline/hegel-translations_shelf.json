@@ -1,5 +1,5 @@
 {
- "_about": "G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted.",
+ "_about": "G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "G. W. F. Hegel",
  "_name_words": [
   "g",
@@ -44,6 +44,18 @@
    55731,
    "The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920)",
    "tr. F. P. B. Osmaston"
+  ],
+  "hegel-haldane-history-philosophy-1-pg": [
+   51635,
+   "Lectures on the History of Philosophy, vol. 1"
+  ],
+  "hegel-haldane-history-philosophy-2-pg": [
+   51636,
+   "Lectures on the History of Philosophy, vol. 2"
+  ],
+  "hegel-haldane-history-philosophy-3-pg": [
+   58169,
+   "Lectures on the History of Philosophy, vol. 3"
   ]
  },
  "internet_archive": {
@@ -113,7 +125,7 @@
  "_checks": {
   "hegel-wallace-logic-1892": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Wallace",
@@ -125,7 +137,7 @@
   },
   "hegel-wallace-philosophy-of-mind-1894": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Wallace",
@@ -137,7 +149,7 @@
   },
   "hegel-osmaston-fine-art-1920-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Osmaston",
@@ -149,7 +161,7 @@
   },
   "hegel-osmaston-fine-art-1920-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Osmaston",
@@ -161,7 +173,7 @@
   },
   "hegel-osmaston-fine-art-1920-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Osmaston",
@@ -173,7 +185,7 @@
   },
   "hegel-osmaston-fine-art-1920-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Osmaston",
@@ -183,9 +195,36 @@
    "pg_translator": "Francis Plumptre Beresford Osmaston",
    "translator_match": true
   },
+  "hegel-haldane-history-philosophy-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Sanderson Haldane"
+  },
+  "hegel-haldane-history-philosophy-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Sanderson Haldane; Frances H. Simson"
+  },
+  "hegel-haldane-history-philosophy-3-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Sanderson Haldane; Frances H. Simson"
+  },
   "hegel-haldane-history-of-philosophy-1892-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Haldane",
@@ -198,7 +237,7 @@
   },
   "hegel-haldane-history-of-philosophy-1894-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Simson",
@@ -211,7 +250,7 @@
   },
   "hegel-haldane-history-of-philosophy-1896-v3": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Simson",
@@ -224,7 +263,7 @@
   },
   "hegel-sibree-philosophy-of-history-1881": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "identity": "ok",
@@ -235,7 +274,7 @@
   },
   "hegel-baillie-phenomenology-1910-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Baillie",
@@ -248,7 +287,7 @@
   },
   "hegel-baillie-phenomenology-1910-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Baillie",
@@ -261,7 +300,7 @@
   },
   "hegel-speirs-philosophy-of-religion-1895-v1": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Speirs",
@@ -274,7 +313,7 @@
   },
   "hegel-speirs-philosophy-of-religion-1895-v2": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Sanderson",
@@ -287,7 +326,7 @@
   },
   "hegel-speirs-philosophy-of-religion-1895-v3": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hegel",
    "translator_claimed": "Speirs",

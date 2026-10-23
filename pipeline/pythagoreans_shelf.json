@@ -1,5 +1,5 @@
 {
- "_about": "Minor Pythagorean texts in Thomas Taylor's translation, clean Gutenberg: Ocellus Lucanus on the Nature of the Universe, with Taurus, Julius Firmicus Maternus and Proclus pieces (1831). Also Taylor's Sallust on the Gods and the World with the Pythagoric Sentences of Demophilus (Jeffery, 1793), raw IA OCR; the title page names no translator.",
+ "_about": "Minor Pythagorean texts in Thomas Taylor's translation, clean Gutenberg: Ocellus Lucanus on the Nature of the Universe, with Taurus, Julius Firmicus Maternus and Proclus pieces (1831). Also Taylor's Sallust on the Gods and the World with the Pythagoric Sentences of Demophilus (Jeffery, 1793), raw IA OCR; the title page names no translator. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_name_words": [
   "ocellus",
   "lucanus",
@@ -13,6 +13,10 @@
    75391,
    "Ocellus Lucanus on the Nature of the Universe",
    "tr. Thomas Taylor"
+  ],
+  "taylor-political-fragments-pythagoreans-pg": [
+   75184,
+   "Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans"
   ]
  },
  "internet_archive": {
@@ -42,7 +46,7 @@
  "_checks": {
   "ocellus-taylor": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ocellus",
    "translator_claimed": "Thomas Taylor",
@@ -52,9 +56,18 @@
    "pg_translator": "Thomas Taylor",
    "translator_match": true
   },
+  "taylor-political-fragments-pythagoreans-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pythagoras",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor"
+  },
   "pythagoreans-taylor-political-fragments-1822": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "archytas",
    "translator_claimed": "Thomas Taylor",
@@ -67,7 +80,7 @@
   },
   "sallustius-demophilus-taylor-1793": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sallust on the gods",
    "identity": "ok",

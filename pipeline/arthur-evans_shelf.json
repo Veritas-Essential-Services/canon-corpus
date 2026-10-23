@@ -1,5 +1,5 @@
 {
- "_about": "Sir Arthur Evans (Arthur John Evans, 1851-1941), excavator of Knossos, Keeper of the Ashmolean Museum. Classical scholarship and Aegean archaeology (lane B). Raw IA OCR: The Palace of Minos at Knossos, vol. I (London: Macmillan, 1921), vol. II parts I and II (1928) and vol. III (1930); The Mycenaean Tree and Pillar Cult (1901), Cretan Pictographs and Prae-Phoenician Script (1895), Scripta Minoa vol. I (Oxford, 1909), The Prehistoric Tombs of Knossos (1906), Through Bosnia and the Herzegovina on Foot (2nd ed., 1877), Antiquarian Researches in Illyricum (1883), The 'Horsemen' of Tarentum (1889) and Syracusan 'Medallions' and their Engravers (1892). Works published in 1930 became US public domain on 1 January 2026. Not taken: Palace of Minos vol. IV (1935) and the Index (1936), after the cutoff; the 1914 Smithsonian offprint of The Minoan and Mycenaean Element in Hellenic Life, whose scan carries more than the offprint. Not Christmas Evans (lane A). US public domain. No uids minted.",
+ "_about": "Sir Arthur Evans (Arthur John Evans, 1851-1941), excavator of Knossos, Keeper of the Ashmolean Museum. Classical scholarship and Aegean archaeology (lane B). Raw IA OCR: The Palace of Minos at Knossos, vol. I (London: Macmillan, 1921), vol. II parts I and II (1928) and vol. III (1930); The Mycenaean Tree and Pillar Cult (1901), Cretan Pictographs and Prae-Phoenician Script (1895), Scripta Minoa vol. I (Oxford, 1909), The Prehistoric Tombs of Knossos (1906), Through Bosnia and the Herzegovina on Foot (2nd ed., 1877), Antiquarian Researches in Illyricum (1883), The 'Horsemen' of Tarentum (1889) and Syracusan 'Medallions' and their Engravers (1892). Works published in 1930 became US public domain on 1 January 2026. Not taken: Palace of Minos vol. IV (1935) and the Index (1936), after the cutoff; the 1914 Smithsonian offprint of The Minoan and Mycenaean Element in Hellenic Life, whose scan carries more than the offprint. Not Christmas Evans (lane A). US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Arthur Evans",
  "_name_words": [
   "arthur",
@@ -11,7 +11,12 @@
   "arthur john evans"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "evans-through-bosnia-pg": [
+   73712,
+   "Through Bosnia and the Herzegovina on Foot during the Insurrection"
+  ]
+ },
  "internet_archive": {
   "evans-palace-of-minos-1-1921": [
    "palaceofminoscom01evanuoft",
@@ -82,6 +87,15 @@
   }
  },
  "_checks": {
+  "evans-through-bosnia-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "evans-palace-of-minos-1-1921": {
    "kind": "ia",
    "checked": "2026-10-23",

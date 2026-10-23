@@ -1,5 +1,5 @@
 {
- "_about": "H. R. Hall (Harry Reginald Hall, 1873-1930), Keeper of Egyptian and Assyrian Antiquities at the British Museum. Classical scholarship, Aegean and Near Eastern history (lane B). Clean Gutenberg: History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery, with L. W. King (1906). Raw IA OCR: The Oldest Civilization of Greece (1901), Days Before History (revised ed., Harrap, 1908), The Ancient History of the Near East (Methuen, 1913, first edition) and Aegean Archaeology (1915). Not taken: the British Museum guides and catalogues he compiled under Budge, and the excavation memoirs with Naville. US public domain. No uids minted.",
+ "_about": "H. R. Hall (Harry Reginald Hall, 1873-1930), Keeper of Egyptian and Assyrian Antiquities at the British Museum. Classical scholarship, Aegean and Near Eastern history (lane B). Clean Gutenberg: History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery, with L. W. King (1906). Raw IA OCR: The Oldest Civilization of Greece (1901), Days Before History (revised ed., Harrap, 1908), The Ancient History of the Near East (Methuen, 1913, first edition) and Aegean Archaeology (1915). Not taken: the British Museum guides and catalogues he compiled under Budge, and the excavation memoirs with Naville. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "H. R. Hall",
  "_name_words": [
   "harry",
@@ -16,6 +16,10 @@
   "hall-king-history-egypt-chaldea-1906": [
    17321,
    "History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery (with L. W. King)"
+  ],
+  "hall-days-before-history-pg": [
+   49304,
+   "Days Before History"
   ]
  },
  "internet_archive": {
@@ -49,6 +53,15 @@
  },
  "_checks": {
   "hall-king-history-egypt-chaldea-1906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. r. hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hall-days-before-history-pg": {
    "kind": "gutenberg",
    "checked": "2026-10-23",
    "name_check": "surname",

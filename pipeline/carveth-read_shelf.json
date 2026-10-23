@@ -1,5 +1,5 @@
 {
- "_about": "Carveth Read (1848-1931), English logician and evolutionary psychologist, Grote Professor of Philosophy of Mind and Logic at University College London. Raw IA OCR: On the Theory of Logic, an essay (Kegan Paul, 1878); Logic, Deductive and Inductive (3rd edition, revised and enlarged, Alexander Moring, reprinted 1908); Natural and Social Morals (1909); The Origin of Man and of his Superstitions (Cambridge, 1920); Man and his Superstitions (Cambridge, 1925). Held: The Metaphysics of Nature (A. & C. Black), whose only scan shows no printed year. His surname is a common English word, so only the full name form is used. US public domain. No uids minted.",
+ "_about": "Carveth Read (1848-1931), English logician and evolutionary psychologist, Grote Professor of Philosophy of Mind and Logic at University College London. Raw IA OCR: On the Theory of Logic, an essay (Kegan Paul, 1878); Logic, Deductive and Inductive (3rd edition, revised and enlarged, Alexander Moring, reprinted 1908); Natural and Social Morals (1909); The Origin of Man and of his Superstitions (Cambridge, 1920); Man and his Superstitions (Cambridge, 1925). Held: The Metaphysics of Nature (A. & C. Black), whose only scan shows no printed year. His surname is a common English word, so only the full name form is used. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Carveth Read",
  "_name_words": [
   "carveth",
@@ -9,7 +9,16 @@
   "carveth read"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "read-logic-deductive-inductive-pg": [
+   18440,
+   "Logic: Deductive and Inductive"
+  ],
+  "read-origin-of-man-pg": [
+   46884,
+   "The Origin of Man and of His Superstitions"
+  ]
+ },
  "internet_archive": {
   "read-on-the-theory-of-logic-1878": [
    "ontheorylogican00readgoog",
@@ -34,9 +43,27 @@
  },
  "_excluded": {},
  "_checks": {
+  "read-logic-deductive-inductive-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carveth read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "read-origin-of-man-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carveth read",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "read-on-the-theory-of-logic-1878": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carveth read",
    "identity": "ok",
@@ -47,7 +74,7 @@
   },
   "read-logic-deductive-and-inductive-1908": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carveth read",
    "identity": "ok",
@@ -56,31 +83,9 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "read-natural-and-social-morals-1909": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": "carveth read",
-   "identity": "ok",
-   "ia_rights": "ok: published 1909",
-   "ia_date": "1909",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "read-origin-of-man-1920": {
-   "kind": "ia",
-   "checked": "2026-10-18",
-   "name_check": "surname",
-   "author_seen": null,
-   "identity": "identity_override",
-   "ia_rights": "ok: published 1920",
-   "ia_date": "1920",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
   "read-man-and-his-superstitions-1925": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carveth read",
    "identity": "ok",

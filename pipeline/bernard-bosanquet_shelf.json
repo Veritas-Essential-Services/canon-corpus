@@ -1,5 +1,5 @@
 {
- "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. Added in round ac: Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885); The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912). Added in round ae: Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911); Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911). Added in round aw 2026-10-17: The Essentials of Logic (London and New York: Macmillan, 1895), clean Gutenberg text. US public domain. No uids minted.",
+ "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. Added in round ac: Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885); The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912). Added in round ae: Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911); Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911). Added in round aw 2026-10-17: The Essentials of Logic (London and New York: Macmillan, 1895), clean Gutenberg text. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Bernard Bosanquet",
  "_name_words": [
   "bernard",
@@ -13,6 +13,10 @@
   "bosanquet-essentials-of-logic-1895": [
    63598,
    "The Essentials of Logic, ten lectures on judgment and inference (London and New York: Macmillan, 1895)"
+  ],
+  "bosanquet-philosophical-theory-state-pg": [
+   63249,
+   "The Philosophical Theory of the State"
   ]
  },
  "internet_archive": {
@@ -45,7 +49,16 @@
  "_checks": {
   "bosanquet-essentials-of-logic-1895": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bosanquet-philosophical-theory-state-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -54,7 +67,7 @@
   },
   "bosanquet-theory-of-the-state-1899": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -65,7 +78,7 @@
   },
   "bosanquet-history-of-aesthetic-1892": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -76,7 +89,7 @@
   },
   "bosanquet-knowledge-and-reality-1885": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -87,7 +100,7 @@
   },
   "bosanquet-individuality-and-value-1912": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -98,7 +111,7 @@
   },
   "bosanquet-logic-2nd-ed-1911-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",
@@ -109,7 +122,7 @@
   },
   "bosanquet-logic-2nd-ed-1911-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bosanquet",
    "identity": "ok",

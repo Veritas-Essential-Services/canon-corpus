@@ -1,5 +1,5 @@
 {
- "_about": "Karl Otfried Müller (1797-1840), A History of the Literature of Ancient Greece, translated by George Cornewall Lewis and continued after the author's death by John William Donaldson (1811-1861): A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also The History and Antiquities of the Doric Race, tr. Henry Tufnell (died 1854) and George Cornewall Lewis, second edition, revised, 2 vols. (John Murray, 1839), raw IA OCR.",
+ "_about": "Karl Otfried Müller (1797-1840), A History of the Literature of Ancient Greece, translated by George Cornewall Lewis and continued after the author's death by John William Donaldson (1811-1861): A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also The History and Antiquities of the Doric Race, tr. Henry Tufnell (died 1854) and George Cornewall Lewis, second edition, revised, 2 vols. (John Murray, 1839), raw IA OCR. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_name_words": [
   "muller",
   "müller"
@@ -13,7 +13,16 @@
   "c. o. muller"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "muller-doric-race-1-pg": [
+   33743,
+   "The History and Antiquities of the Doric Race, vol. 1"
+  ],
+  "muller-doric-race-2-pg": [
+   34010,
+   "The History and Antiquities of the Doric Race, vol. 2"
+  ]
+ },
  "internet_archive": {
   "k-o-muller-literature-ancient-greece-v1-1858": [
    "historyofliterat01mluoft",
@@ -49,9 +58,27 @@
   "k-o-muller-doric-race-v2-1839": "Tufnell"
  },
  "_checks": {
+  "muller-doric-race-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "karl otfried müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir George Cornewall Lewis; Henry Tufnell"
+  },
+  "muller-doric-race-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "karl otfried müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir George Cornewall Lewis; Henry Tufnell"
+  },
   "k-o-muller-literature-ancient-greece-v1-1858": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "k. o. muller",
    "translator_claimed": "Donaldson",
@@ -64,7 +91,7 @@
   },
   "k-o-muller-literature-ancient-greece-v2-1858": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Donaldson",
@@ -77,7 +104,7 @@
   },
   "k-o-muller-literature-ancient-greece-v3-1858": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Donaldson",
@@ -90,7 +117,7 @@
   },
   "k-o-muller-doric-race-v1-1839": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. o. müller",
    "translator_claimed": "Tufnell",
@@ -103,7 +130,7 @@
   },
   "k-o-muller-doric-race-v2-1839": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. o. muller",
    "translator_claimed": "Tufnell",
