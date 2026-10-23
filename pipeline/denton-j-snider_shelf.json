@@ -1,5 +1,5 @@
 {
- "_about": "Denton J. Snider (1841-1925), St. Louis Hegelian: Ancient European Philosophy, the History of Greek Philosophy Psychologically Treated (1903). His many other books are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_about": "Denton J. Snider (1841-1925), St. Louis Hegelian: Ancient European Philosophy, the History of Greek Philosophy Psychologically Treated (1903). His many other books are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted. Homer's Odyssey: A Commentary (PG 26275) added by lane B, round dk.",
  "_author": "Denton Jaques Snider (1841-1925)",
  "_name_words": [
   "snider",
@@ -12,7 +12,12 @@
   "snider"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "snider-homers-odyssey-commentary": [
+   26275,
+   "Homer's Odyssey: A Commentary (1895)"
+  ]
+ },
  "internet_archive": {
   "snider-ancient-european-philosophy-1903": [
    "ancienteuropeanp00sniduoft",
@@ -21,6 +26,15 @@
  },
  "_excluded": {},
  "_checks": {
+  "snider-homers-odyssey-commentary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snider",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "snider-ancient-european-philosophy-1903": {
    "kind": "ia",
    "checked": "2026-10-23",
