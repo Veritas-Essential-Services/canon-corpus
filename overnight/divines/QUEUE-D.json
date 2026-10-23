@@ -5141,6 +5141,14 @@
       "started": "2026-10-22T22:50:29-05:00",
       "finished": "2026-10-22T22:50:29-05:00",
       "notes": "thomas-w-hanshew: new shelf, 8 Gutenberg books, 12,450 units, 646 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "edith-k-dunton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edith K. Dunton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:30-05:00",
+      "finished": "2026-10-22T22:50:30-05:00",
+      "notes": "edith-k-dunton: new shelf, 8 Gutenberg books, 11,731 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

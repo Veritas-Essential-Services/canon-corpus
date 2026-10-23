@@ -16424,3 +16424,18 @@ Shelf: `pipeline/thomas-w-hanshew_shelf.json` (2026-10-22; added at the coordina
 | The Riddle of the Spinning Wheel | have | PG 33279, `twhanshew-riddle-of-the-spinning-wheel` (1252 units) |
 | The Riddle of the Mysterious Light | have | PG 42802, `twhanshew-riddle-of-the-mysterious-light` (1595 units) |
 | The Riddle of the Purple Emperor | have | PG 43135, `twhanshew-riddle-of-the-purple-emperor` (1621 units) |
+
+## Edith K. Dunton
+
+Shelf: `pipeline/edith-k-dunton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Girls' books (some as Caroline E. Jacobs). Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Betty Wales, Sophomore: A Story for Girls | have | PG 6432, `ekdunton-betty-wales-sophomore` (1500 units) |
+| Betty Wales, Senior | have | PG 20821, `ekdunton-betty-wales-senior` (1610 units) |
+| Betty Wales, Freshman | have | PG 31387, `ekdunton-betty-wales-freshman` (1620 units) |
+| Betty Wales, Junior: A Story for Girls | have | PG 64033, `ekdunton-betty-wales-junior` (1495 units) |
+| Betty Wales, B. A.: A story for girls | have | PG 68240, `ekdunton-betty-wales-b-a` (1514 units) |
+| Betty Wales & Co.: A story for girls | have | PG 68551, `ekdunton-betty-wales-co` (1350 units) |
+| Betty Wales on the campus | have | PG 69132, `ekdunton-betty-wales-on-the-campus` (1380 units) |
+| Betty Wales decides | have | PG 73169, `ekdunton-betty-wales-decides` (1262 units) |
