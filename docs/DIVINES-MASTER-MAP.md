@@ -10744,6 +10744,19 @@ Slugs `foster-*`. Built from title pages read for round 46.
 | Discourses on all the principal branches of natural religion and social virtue, vol. 1 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp01fost` |
 | Discourses on all the principal branches of natural religion and social virtue, vol. 2 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp02fost` |
 | The 1745 Sermons | alternate | not shelved |
+
+## Henry Grove (round 46, my pick, 2026-10-22)
+
+Slugs `grove-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 1 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl01grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 2 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl02grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 3 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl03grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 4 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl04grov` |
+| A system of moral philosophy (London : Printed and sold by J. Waugh ..., 1749) | have-ocr | IA `systemofmoralphi00grov` |
+| The separate Sermons (1740), Tracts, Wisdom the First Spring of Action (1734), Lord's Supper (1738), Secret Prayer (1752) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
