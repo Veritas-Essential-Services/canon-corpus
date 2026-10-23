@@ -16728,6 +16728,21 @@ Slugs `proudfit-*`. Built from title pages read for round 105.
 | The agency of God in the elevation of man : a sermon commemorative of the eminent talents, and private virtues and public services of His Excellency De Witt Clinton, late governor of the state of New-York ; preached at Salem, N.Y. March 11, 1828 (Salem, N.Y. : Printed by Dodd & Stevenson, 1828) | have-ocr | IA `agencyofgodinele00prou` |
 | ourdangeranddut00prougoog: the scan's opening pages and title page do not show the author in OCR; another copy could replace it | pending | not shelved |
 | lectures-on-the-parables-proudfit-1820: no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+
+## Philip Lindsley (round 106, my pick, 2026-10-23)
+
+Slugs `lindsley-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A plea for the theological seminary at Princeton, N.J, vol. c.1 (Trenton : Printed by George Sherman, 1821) | have-ocr | IA `pleafortheologic01lind` |
+| A sermon, delivered in the chapel of the College of New-Jersey, August 15, 1824 (catalogued 1824) | have-ocr | IA `ASPC0002363100` |
+| The cause of education in Tennessee (catalogued 1833) | have-ocr | IA `causeofeducation00lind` |
+| Educational discourses (Philadelphia, J.B. Lippincott & Co.; Nashville, W.T. Berry & Co., 1859) | have-ocr | IA `educationaldisco00lindrich` |
+| The works of Philip Lindsley (Philadelphia : J.B. Lippincott, 1866) | have-ocr | IA `worksphiliplind02lindgoog` |
+| The works of Philip Lindsley D.D., late president of the University of Nashville, vol. 1 (Philadelphia, J.B. Lippincott & Co.; Nashville, W.T. Berry & Co., 1859) | have-ocr | IA `worksphiliplind03lindgoog` |
+| The works of Philip Lindsley, D.D., formerly Vice-President and President Elect of the College of New Jersey, Princeton; and late President of the University of Nashville, Tennessee (Philadelphia : J.B. Lippincott, 1866) | have-ocr | IA `worksphiliplind04lindgoog` |
+| Tachygraphy and takigrafy manuals by David Philip Lindsley (a different man) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
