@@ -16866,3 +16866,24 @@ Shelf: `pipeline/ford-madox-ford_shelf.json` (2026-10-22; added at the coordinat
 | No enemy | have | PG 77802, `fmford-no-enemy` (703 units) |
 | The English novel | have | PG 78426, `fmford-english-novel` (225 units) |
 | held-elsewhere | excluded | PG 14888, 17642, 75172: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Kathleen Norris
+
+Shelf: `pipeline/kathleen-norris_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mother: A Story | have | PG 3635, `ktnorris-mother` (557 units) |
+| The Treasure | have | PG 4211, `ktnorris-treasure` (607 units) |
+| The Rich Mrs. Burgoyne | have | PG 4288, `ktnorris-rich-mrs-burgoyne` (751 units) |
+| Poor, Dear Margaret Kirby | have | PG 4348, `ktnorris-poor-dear-margaret-kirby` (2627 units) |
+| Martie, the Unconquered | have | PG 4392, `ktnorris-martie-the-unconquered` (2685 units) |
+| Saturday's Child | have | PG 4687, `ktnorris-saturdays-child` (3781 units) |
+| The Story of Julia Page | have | PG 4787, `ktnorris-story-of-julia-page` (2982 units) |
+| The Heart of Rachael | have | PG 4915, `ktnorris-heart-of-rachael` (2652 units) |
+| Undertow | have | PG 4916, `ktnorris-undertow` (698 units) |
+| Sisters | have | PG 4947, `ktnorris-sisters` (2164 units) |
+| Harriet and the Piper | have | PG 5006, `ktnorris-harriet-and-the-piper` (1936 units) |
+| The Beloved Woman | have | PG 28301, `ktnorris-beloved-woman` (1898 units) |
+| The black Flemings | have | PG 71929, `ktnorris-black-flemings` (1890 units) |
+| held-elsewhere | excluded | PG 40718: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

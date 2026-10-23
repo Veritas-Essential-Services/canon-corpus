@@ -5301,6 +5301,14 @@
       "started": "2026-10-22T22:59:09-05:00",
       "finished": "2026-10-22T22:59:09-05:00",
       "notes": "ford-madox-ford: new shelf, 13 Gutenberg books, 17,172 units, 4416 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "kathleen-norris",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Kathleen Norris; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:59:11-05:00",
+      "finished": "2026-10-22T22:59:11-05:00",
+      "notes": "kathleen-norris: new shelf, 13 Gutenberg books, 25,228 units, 5735 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
