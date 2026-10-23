@@ -44169,3 +44169,15 @@ Shelf: `pipeline/william-gilmore-simms_shelf.json` (2026-10-22; added at the coo
 | Confession; Or, The Blind Heart. A Domestic Story | have | PG 6059, `wgsimms-confession` (1916 units) |
 | Guy Rivers: A Tale of Georgia | have | PG 16303, `wgsimms-guy-rivers` (2252 units) |
 | The Lily and the Totem; or, The Huguenots in Florida | have | PG 44337, `wgsimms-lily-and-the-totem` (1101 units) |
+
+## Douglass Sherley
+
+Shelf: `pipeline/douglass-sherley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Spray of Kentucky Pine Placed at the Feet of the Dead Poet James Whitcomb Riley | have | PG 14821, `dsherley-spray-of-kentucky-pine-placed-at-the-feet-of-the-de` (71 units) |
+| A Few Short Sketches | have | PG 14855, `dsherley-few-short-sketches` (116 units) |
+| The Story of a Picture | have | PG 15095, `dsherley-story-of-a-picture` (45 units) |
+| The Inner Sisterhood A Social Study in High Colors | have | PG 15179, `dsherley-inner-sisterhood-a-social-study-in-high-colors` (181 units) |
+| Love Instigated: The Story of a Carved Ivory Umbrella Handle | have | PG 19122, `dsherley-love-instigated` (79 units) |
