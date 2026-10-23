@@ -11605,6 +11605,14 @@ Slugs `jeter-*`. Built from title pages read for round 53.
 | Life and times of James B. Taylor (Philadelphia, The Bible and Publication Society, 1872) | have-ocr | IA `cu31924011500182` |
 | The life of Rev. Daniel Witt, D. D., of Prince Edward County, Virginia (Richmond, J. T. Ellyson, 1875) | have-ocr | IA `lifeofrevdanielw00jete` |
 | The Psalmist hymn book (co-edited); Civil War tracts; Taylor's Virginia Baptist Ministers (another author) | excluded | |
+
+## John Leland (Baptist) (round 53, my pick, 2026-10-23)
+
+Slugs `jleland-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The writings of the late Elder John Leland : including some events in his life (New York : Printed by G.W. Wood, 1845) | have-ocr | IA `writingsoflateel00lela` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
