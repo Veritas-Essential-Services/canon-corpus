@@ -17941,3 +17941,16 @@ Shelf: `pipeline/christy-mathewson_shelf.json` (2026-10-22; added at the coordin
 | Second Base Sloan | have | PG 52407, `cmathewson-second-base-sloan` (1099 units) |
 | Catcher Craig | have | PG 56337, `cmathewson-catcher-craig` (1282 units) |
 | First Base Faulkner | have | PG 64435, `cmathewson-first-base-faulkner` (1329 units) |
+
+## Bessie Marchant
+
+Shelf: `pipeline/bessie-marchant_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Countess from Canada: A Story of Life in the Backwoods | have | PG 11110, `bmarchant-countess-from-canada` (1797 units) |
+| The Adventurous Seven: Their Hazardous Undertaking | have | PG 22744, `bmarchant-adventurous-seven` (1053 units) |
+| Daughters of the Dominion: A Story of the Canadian Frontier | have | PG 48265, `bmarchant-daughters-of-the-dominion` (2244 units) |
+| A Canadian Farm Mystery; Or, Pam the Pioneer | have | PG 48372, `bmarchant-canadian-farm-mystery` (1434 units) |
+| The Youngest Sister: A Tale of Manitoba | have | PG 48942, `bmarchant-youngest-sister` (1790 units) |
+| By Honour Bound: A School Story for Girls | have | PG 65558, `bmarchant-by-honour-bound` (1217 units) |
