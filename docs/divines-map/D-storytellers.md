@@ -15439,3 +15439,21 @@ Shelf: `pipeline/margaret-deland_shelf.json` (2026-10-22; added at the coordinat
 | Dr. Lavendar's People | have | PG 34427, `mdeland-dr-lavendars-people` (1649 units) |
 | The Wisdom of Fools | have | PG 53579, `mdeland-wisdom-of-fools` (986 units) |
 | The Rising Tide | have | PG 54910, `mdeland-rising-tide` (1875 units) |
+
+## Harriet T. Comstock
+
+Shelf: `pipeline/harriet-t-comstock_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Man Thou Gavest | have | PG 14858, `htcomstock-man-thou-gavest` (2253 units) |
+| Then Marched the Brave | have | PG 16156, `htcomstock-then-marched-the-brave` (616 units) |
+| The Shield of Silence | have | PG 18225, `htcomstock-shield-of-silence` (3417 units) |
+| The Place Beyond the Winds | have | PG 18488, `htcomstock-place-beyond-the-winds` (2478 units) |
+| Joyce of the North Woods | have | PG 19225, `htcomstock-joyce-of-the-north-woods` (2650 units) |
+| A Son of the Hills | have | PG 20424, `htcomstock-son-of-the-hills` (2383 units) |
+| Janet of the Dunes | have | PG 22998, `htcomstock-janet-of-the-dunes` (1755 units) |
+| At the Crossroads | have | PG 30095, `htcomstock-at-the-crossroads` (2894 units) |
+| A Little Dusky Hero | have | PG 31366, `htcomstock-little-dusky-hero` (470 units) |
+| Mam'selle Jo | have | PG 49361, `htcomstock-mamselle-jo` (2885 units) |
+| Molly, the Drummer Boy: A Story of the Revolution | have | PG 62589, `htcomstock-molly-the-drummer-boy` (480 units) |

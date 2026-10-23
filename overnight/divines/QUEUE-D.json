@@ -4653,6 +4653,14 @@
       "started": "2026-10-22T22:40:04-05:00",
       "finished": "2026-10-22T22:40:04-05:00",
       "notes": "margaret-deland: new shelf, 11 Gutenberg books, 16,645 units, 1302 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harriet-t-comstock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Harriet T. Comstock; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:05-05:00",
+      "finished": "2026-10-22T22:40:05-05:00",
+      "notes": "harriet-t-comstock: new shelf, 11 Gutenberg books, 22,281 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

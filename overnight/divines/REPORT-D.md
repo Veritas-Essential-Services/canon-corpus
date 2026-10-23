@@ -2036,3 +2036,6 @@
 
 ## 2026-10-22 22:40 CDT — margaret-deland: done
 - margaret-deland: new shelf, 11 Gutenberg books, 16,645 units, 1302 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — harriet-t-comstock: done
+- harriet-t-comstock: new shelf, 11 Gutenberg books, 22,281 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
