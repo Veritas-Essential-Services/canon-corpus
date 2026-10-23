@@ -13910,3 +13910,27 @@ Shelf: `pipeline/sarah-tytler_shelf.json` (2026-10-22; added at the coordinator'
 | Saint Mungo's city; vol. 2 [of 3] | have | PG 79372, `stytler-saint-mungos-city-79372` (586 units) |
 | Saint Mungo's city; vol. 3 [of 3] | have | PG 79373, `stytler-saint-mungos-city-79373` (653 units) |
 | Buried diamonds, Vol. 1 (of 3) | have | PG 79799, `stytler-buried-diamonds-vol-1-of-3` (477 units) |
+
+## Arthur B. Reeve
+
+Shelf: `pipeline/arthur-b-reeve_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Craig Kennedy detective stories. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Poisoned Pen | have | PG 1923, `abreeve-poisoned-pen` (1889 units) |
+| The Silent Bullet | have | PG 2454, `abreeve-silent-bullet` (1949 units) |
+| The Dream Doctor | have | PG 5054, `abreeve-dream-doctor` (2167 units) |
+| The War Terror | have | PG 5073, `abreeve-war-terror` (2866 units) |
+| The Treasure-Train | have | PG 5087, `abreeve-treasure-train` (2197 units) |
+| The Romance of Elaine Sequel to "Exploits of Elaine" | have | PG 5094, `abreeve-romance-of-elaine-sequel-to-exploits-of-elaine` (3194 units) |
+| Gold of the Gods | have | PG 5149, `abreeve-gold-of-the-gods` (2015 units) |
+| The Ear in the Wall | have | PG 5150, `abreeve-ear-in-the-wall` (2001 units) |
+| The Exploits of Elaine | have | PG 5151, `abreeve-exploits-of-elaine` (3304 units) |
+| Guy Garrick | have | PG 5163, `abreeve-guy-garrick` (1655 units) |
+| Constance Dunlap | have | PG 5261, `abreeve-constance-dunlap` (2218 units) |
+| The Film Mystery | have | PG 5270, `abreeve-film-mystery` (1963 units) |
+| The Master Mystery | have | PG 16168, `abreeve-master-mystery` (1993 units) |
+| The Social Gangster | have | PG 33466, `abreeve-social-gangster` (2426 units) |
+| The Soul Scar: A Craig Kennedy Scientific Mystery Novel | have | PG 56902, `abreeve-soul-scar` (2115 units) |
+| The adventuress | have | PG 73414, `abreeve-adventuress` (1955 units) |
+| repeat-editions | excluded | PG 5007: second Gutenberg editions of titles already on the shelf. |
