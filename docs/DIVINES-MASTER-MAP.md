@@ -38510,3 +38510,29 @@ Shelf: `pipeline/eglanton-thorne_shelf.json` (2026-10-22; added at the coordinat
 | "It's all real true" | have | PG 79227, `ethorne-its-all-real-true` (894 units) |
 | Phil's mother | have | PG 79355, `ethorne-phils-mother` (728 units) |
 | Midst granite hills | have | PG 79459, `ethorne-midst-granite-hills` (332 units) |
+
+## J. C. Snaith
+
+Shelf: `pipeline/jc-snaith_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mrs. Fitz | have | PG 34398, `jcsnaith-mrs-fitz` (2474 units) |
+| The Wayfarers | have | PG 34776, `jcsnaith-wayfarers` (1077 units) |
+| The Sailor | have | PG 38186, `jcsnaith-sailor` (3276 units) |
+| The Undefeated | have | PG 63546, `jcsnaith-undefeated` (1451 units) |
+| The Council of Seven | have | PG 67679, `jcsnaith-council-of-seven` (1624 units) |
+| Anne Feversham | have | PG 67774, `jcsnaith-anne-feversham` (1841 units) |
+| The principal girl | have | PG 68069, `jcsnaith-principal-girl` (1822 units) |
+| The time spirit: A romantic tale | have | PG 68398, `jcsnaith-time-spirit` (2178 units) |
+| The Van Roon | have | PG 68520, `jcsnaith-van-roon` (2241 units) |
+| Lady Barbarity: A Romance | have | PG 68858, `jcsnaith-lady-barbarity` (1605 units) |
+| The coming | have | PG 69050, `jcsnaith-coming` (1816 units) |
+| The adventurous lady | have | PG 69271, `jcsnaith-adventurous-lady` (1402 units) |
+| Willow the king | have | PG 73075, `jcsnaith-willow-the-king` (1603 units) |
+| William Jordan, Junior | have | PG 73096, `jcsnaith-william-jordan-junior` (2697 units) |
+| Henry Northcote | have | PG 73110, `jcsnaith-henry-northcote` (2227 units) |
+| Araminta | have | PG 73133, `jcsnaith-araminta` (3084 units) |
+| There is a tide | have | PG 73250, `jcsnaith-there-is-a-tide` (1875 units) |
+| Fortune | have | PG 73402, `jcsnaith-fortune` (1724 units) |
+| Patricia at the inn | have | PG 73409, `jcsnaith-patricia-at-the-inn` (886 units) |

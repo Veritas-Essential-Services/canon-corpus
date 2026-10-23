@@ -1758,3 +1758,6 @@
 
 ## 2026-10-22 22:15 CDT — eglanton-thorne: done
 - eglanton-thorne: new shelf, 19 Gutenberg books, 20,401 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — jc-snaith: done
+- jc-snaith: new shelf, 19 Gutenberg books, 36,903 units, 2745 ~2 ids; verify 0 mismatches, 0 rights flags.
