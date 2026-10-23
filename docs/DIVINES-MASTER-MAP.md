@@ -19630,6 +19630,17 @@ Shelf: `pipeline/w-f-tamblyn_shelf.json`. The Establishment of Roman Power in Br
 |---|---|---|---|
 | The Establishment of Roman Power in Britain (1899) |  | `tamblyn-roman-power-britain-1899` | have-raw (IA `establishmentofr00tamb`) |
 
+
+## Max Ohnefalsch-Richter (1850-1917)
+
+Shelf: `pipeline/max-ohnefalsch-richter_shelf.json`. Kypros, the Bible and Homer, text volume (1893). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Kypros, the Bible and Homer: Oriental Civilization, Art and Religion in Ancient Times, vol. I, text (1893) |  | `ohnefalsch-richter-kypros-bible-homer-1893` | have-raw (IA `kyprosbiblehomer01ohneuoft`) |
+
+Excluded: Kypros, the Bible and Homer, vol. II (plates only)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

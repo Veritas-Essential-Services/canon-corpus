@@ -1,0 +1,40 @@
+{
+ "_about": "Max Ohnefalsch-Richter (1850-1917), excavator in Cyprus: Kypros, the Bible and Homer (1893), text volume. Vol. II is plates only (30k characters of OCR) and is not taken. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Max Hermann Ohnefalsch-Richter (1850-1917)",
+ "_name_words": [
+  "ohnefalsch",
+  "richter",
+  "kypros",
+  "bible",
+  "homer"
+ ],
+ "_surname": [
+  "ohnefalsch-richter",
+  "ohnefalsch richter",
+  "ohnefalsch"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ohnefalsch-richter-kypros-bible-homer-1893": [
+   "kyprosbiblehomer01ohneuoft",
+   "Kypros, the Bible and Homer: Oriental Civilization, Art and Religion in Ancient Times, vol. I, text (1893)"
+  ]
+ },
+ "_excluded": {
+  "Kypros, the Bible and Homer, vol. II": "plates only"
+ },
+ "_checks": {
+  "ohnefalsch-richter-kypros-bible-homer-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ohnefalsch-richter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
