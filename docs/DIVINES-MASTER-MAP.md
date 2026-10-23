@@ -11076,6 +11076,18 @@ Slugs `bersier-*`. Built from title pages read for round 48.
 | The Gospel in Paris : sermons (London : J. Nisbet, 1883) | have-ocr | IA `gospelinparisser00bers` |
 | Coligny; the earlier life of the great Huguenot (London Hodder and Stoughton, 1884) | have-ocr | IA `colignyearlierli00bersuoft` |
 | Margaret Muller (1872, a story by Mme Bersier); Sermons (1885) and Twelve Sermons (1891) left for a later look; French originals | excluded | |
+
+## Ernest Naville (round 48, my pick, 2026-10-23)
+
+Slugs `naville-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly Father : lectures on modern atheism (London : Macmillan, 1865) | have-ocr | IA `heavenlyfatherle00navi` |
+| The problem of evil; seven lectures (Edinburgh, T. & T. Clark, 1871) | have-ocr | IA `problemofevilsev00navi` |
+| The Christ : seven lectures (Edinburgh : T&T Clark, 1880) | have-ocr | IA `thechristsevenle00naviuoft` |
+| Modern Physics, studies historical and philosophical, translated by Henry Downton (1884) | have-ocr | IA `modernphysicsst00navigoog` |
+| Every Egyptological title (Pithom, Saft el Henneh, the Todtenbuch): Édouard Naville, another man; French originals | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
