@@ -10441,3 +10441,16 @@ Shelf: `pipeline/h-j-rose_shelf.json`. Primitive Culture in Italy (London: Methu
 | Primitive Culture in Italy (London: Methuen, 1926) |  | `rose-primitive-culture-italy-1926` | have-raw (IA `in.ernet.dli.2015.79665`) |
 | A Handbook of Greek Mythology, including its Extension to Rome (New York: Dutton, 1929) |  | `rose-handbook-greek-mythology-1929` | have-raw (IA `handbookofgreekm0000rose_d4r2`) |
 
+
+## Sir Henry Stuart Jones (1867-1939)
+
+Shelf: `pipeline/h-stuart-jones_shelf.json`. Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture (London: Macmillan, 1895); The Roman Empire, B.C. 29-A.D. 476 (London: Fisher Unwin, 1908); Classical Rome (Grant Allen's Historical Guides, 1910); Companion to Roman History (Oxford: Clarendon Press, 1912); Fresh Light on Roman Bureaucracy (Oxford, 1920). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture (London: Macmillan, 1895) |  | `jones-select-passages-greek-sculpture-1895` | have-raw (IA `selectpassagesfr00joneuoft`) |
+| The Roman Empire, B.C. 29-A.D. 476 (London: Fisher Unwin, 1908) |  | `jones-roman-empire-1908` | have-raw (IA `in.ernet.dli.2015.170963`) |
+| Classical Rome (Grant Allen's Historical Guides, 1910) |  | `jones-classical-rome-1910` | have-raw (IA `classicalrome00jonerich`) |
+| Companion to Roman History (Oxford: Clarendon Press, 1912) |  | `jones-companion-roman-history-1912` | have-raw (IA `companiontoroman00jone`) |
+| Fresh Light on Roman Bureaucracy (Oxford, 1920) |  | `jones-fresh-light-roman-bureaucracy-1920` | have-raw (IA `freshlightonroma0000jone`) |
+
