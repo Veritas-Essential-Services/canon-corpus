@@ -14592,3 +14592,26 @@ Slugs `sadler-*`. Built from title pages read for round 84.
 | The General epistles of Ss. James, Peter, John, and Jude : with notes critical and practical (London : G. Bell, 1895) | have-ocr | IA `generalepistleso00sadl` |
 | revelationofstjo00sadl, The Revelation of St. John the Divine : with notes critical and practical (London : G. Bell, 1894): Internet Archive's text file returned HTTP 500 on every try (2026-10-23); retry later | pending | not shelved |
 | French textbooks and other works by different Sadlers | excluded | |
+
+## Harry Emerson Fosdick (round 85, my pick, 2026-10-23)
+
+Slugs `fosdick-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| The second mile (New York : Young Men's Christian Association Press, 1909) | have-ocr | IA `thesecondmile00fosduoft` |
+| The assurance of immortality (New York : Macmillan, 1913) | have-ocr | IA `assuranceofimmor00fosduoft` |
+| The manhood of the Master (New York : Association Press, 1913) | have-ocr | IA `manhoodofmaster00fosd_0` |
+| The meaning of prayer (New York : Association Press, 1915) | have-ocr | IA `themeaningofpray00fosduoft` |
+| The meaning of faith (New York : Association Press, 1918) | have-ocr | IA `themeaningoffai00fosduoft` |
+| The Challenge of the Present Crisis (Association Press, 1917) | have-ocr | IA `challengepresen00fosdgoog` |
+| The meaning of service (New York : Association Press, c192) | have-ocr | IA `meaningofservice00fosduoft` |
+| Christianity and progress (New York : Association Press, c192) | have-ocr | IA `christianityprog192200fosd` |
+| Shall the fundamentalists win (Harry Emerson Fosdick, 1922) | have-ocr | IA `shallfundamental0000harr` |
+| Twelve tests of character (New York : Association Press, 1923) | have-ocr | IA `twelvetestsofcha00fosd_1` |
+| The modern use of the bible (the macmillan company, 1924) | have-ocr | IA `modernuseofbible0000harr` |
+| Adventurous Religion and Other Essays (catalogued 1926) | have-ocr | IA `adventurousrelig0000harr` |
+| A pilgrimage to Palestine (New York : Macmillan, 1927; first printing) | have-ocr | IA `pilgrimagetopale0000harr_q1p8` |
+| Spiritual values and eternal life (Cambridge : Harvard University Press, 1927) | have-ocr | IA `spiritualvaluese00fosd` |
+| everything he published from 1930 on (still in copyright in the US) | excluded | |
+| The American Hymnal (Dawson ed.), many authors | excluded | |

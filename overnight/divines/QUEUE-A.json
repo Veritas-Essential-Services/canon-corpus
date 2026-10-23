@@ -8416,6 +8416,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T05:10:40-05:00",
       "notes": "16 items. Doctrinal books and the New Testament commentaries; Revelation pending because Internet Archive's text file returns an error. One title page is quoted."
+    },
+    {
+      "id": "harry-emerson-fosdick=harry-emerson-fosdick",
+      "status": "done",
+      "scope": "round 85",
+      "added": "2026-10-23T05:18:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:18:20-05:00",
+      "notes": "14 items, 1908-1927 only. Pilgrimage to Palestine and Twelve Tests were swapped from 1930-31 reprints to first printings."
     }
   ]
 }
