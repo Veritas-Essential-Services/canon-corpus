@@ -11037,3 +11037,24 @@ Slugs `harless-*`. Built from title pages read for round 48.
 |---|---|---|
 | System of Christian ethics (Edinburgh, Clark, 1868) | have-ocr | IA `christianethics00harluoft` |
 | German medical tracts of 1804-1805 (another Harless) | excluded | |
+
+## Edmond de Pressense (round 48, my pick, 2026-10-23)
+
+Slugs `pressense-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The religions before Christ: being an introduction to the history of the first three centuries of the church (Edinburgh, Clark, 1862) | have-ocr | IA `religionsbeforec00pres` |
+| The Redeemer : discourses (Edinburgh : T.&T, Clark, 1864) | have-ocr | IA `theredeemerdisco00presuoft` |
+| Jesus Christ, his times, life, and work (London, Jackson, 1866) | have-ocr | IA `jesuschristhisti00pres` |
+| The Mystery of Suffering, and other discourses (London: Hodder and Stoughton, 1868) | have-ocr | IA `mysterysufferin00presgoog` |
+| The church and the French revolution : a history of the relations of church and state, from 1789-1802 (London : Hodder and Stoughton, 1869) | have-ocr | IA `churchfrenchrevo00pres` |
+| The Early Years of Christianity: The Apostolic Era (New York: Scribner, 1870) | have-ocr | IA `earlyyearsofchri1870pres` |
+| The Early Years of Christianity: Martyrs and Apologists (New York: Scribner, 1871); translated by Annie Harwood (OCR reads 'HA R WOOD', so not claimed) | have-ocr | IA `earlyyearsofchri1871pres` |
+| The Early Years of Christianity: Heresy and Christian Doctrine (London: Hodder and Stoughton, 1873) | have-ocr | IA `heresychristiand00pres` |
+| The Early Years of Christianity: Christian Life and Practice in the Early Church (London: Hodder and Stoughton, 1877) | have-ocr | IA `christianlifean00presgoog` |
+| Contemporary portraits : Thiers, Strauss compared with Voltaire, Arnaud de l'Ariège, Dupanloup, Adolphe Monod, Vinet, Verny, Robertson (London : Hodder and Stoughton, 1880) | have-ocr | IA `contemporaryport00presuoft` |
+| A study of origins; or, The problems of knowledge, of being and of duty (New York, Potts, 1884) | have-ocr | IA `astudyoforiginso00presuoft` |
+| The ancient world and Christianity (New York : A.C. Armstrong, [188) | have-ocr | IA `ancientworldchri00pres` |
+| Other printings of the Early Years series (1870-1886) and the 1871 abridged Jesus Christ | alternate | not shelved |
+| French originals; the works of his son Francis de Pressensé (Cardinal Manning 1897, the Russian pamphlets), another man | excluded | |
