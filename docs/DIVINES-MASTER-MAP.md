@@ -40554,3 +40554,21 @@ Shelf: `pipeline/annette-lyster_shelf.json` (2026-10-22; added at the coordinato
 | My Honourbright | have | PG 79109, `alyster-my-honourbright` (1563 units) |
 | Mrs. Rule's foundlings | have | PG 79549, `alyster-mrs-rules-foundlings` (1261 units) |
 | Twilight | have | PG 79755, `alyster-twilight` (1791 units) |
+
+## George Griffith
+
+Shelf: `pipeline/george-griffith_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Early science fiction and future-war romances. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The mummy and Miss Nitocris : a phantasy of the fourth dimension | have | PG 19231, `ggriffith-mummy-and-miss-nitocris` (1285 units) |
+| A Honeymoon in Space | have | PG 19476, `ggriffith-honeymoon-in-space` (1167 units) |
+| The Romance of Golden Star ... | have | PG 20173, `ggriffith-romance-of-golden-star` (946 units) |
+| The World Peril of 1910 | have | PG 24764, `ggriffith-world-peril-of-1910` (1535 units) |
+| The Missionary | have | PG 29743, `ggriffith-missionary` (1501 units) |
+| The Angel of the Revolution: A Tale of the Coming Terror | have | PG 31324, `ggriffith-angel-of-the-revolution` (2393 units) |
+| The World Masters | have | PG 38028, `ggriffith-world-masters` (1383 units) |
+| Olga Romanoff | have | PG 54096, `ggriffith-olga-romanoff` (2208 units) |
+| In an Unknown Prison Land An account of convicts and colonists in New Caledonia with jottings out and home | have | PG 60960, `ggriffith-in-an-unknown-prison-land-an-account-of-convicts-a` (1035 units) |
+| Men Who Have Made the Empire | have | PG 63148, `ggriffith-men-who-have-made-the-empire` (905 units) |
+| The virgin of the sun | have | PG 73683, `ggriffith-virgin-of-the-sun` (1429 units) |
