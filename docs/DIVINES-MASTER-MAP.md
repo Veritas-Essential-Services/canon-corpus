@@ -40092,3 +40092,23 @@ Shelf: `pipeline/arthur-train_shelf.json` (2026-10-22; added at the coordinator'
 | Courts, Criminals and the Camorra | have | PG 61628, `atrain-courts-criminals-and-the-camorra` (577 units) |
 | The hermit of Turkey Hollow | have | PG 77895, `atrain-hermit-of-turkey-hollow` (861 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 65438 The Moon Maker (copyright line 1958). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Garrett P. Serviss
+
+Shelf: `pipeline/garrett-p-serviss_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Early science fiction and astronomy. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Curiosities of the Sky | have | PG 6630, `gpserviss-curiosities-of-the-sky` (291 units) |
+| The Moon Metal | have | PG 8199, `gpserviss-moon-metal` (507 units) |
+| A Columbus of Space | have | PG 8673, `gpserviss-columbus-of-space` (1242 units) |
+| The Second Deluge | have | PG 9194, `gpserviss-second-deluge` (1981 units) |
+| Other Worlds Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries | have | PG 18431, `gpserviss-other-worlds-their-nature-possibilities-and-habita` (626 units) |
+| Edison's Conquest of Mars | have | PG 19141, `gpserviss-edisons-conquest-of-mars` (1681 units) |
+| Pleasures of the telescope An Illustrated Guide for Amateur Astronomers and a Popular Description of the Chief Wonders of the Heavens for General Readers | have | PG 28752, `gpserviss-pleasures-of-the-telescope-an-illustrated-guide-fo` (504 units) |
+| Astronomy with an Opera-glass A Popular Introduction to the Study of the Starry Heavens with the Simplest of Optical Instruments | have | PG 36741, `gpserviss-astronomy-with-an-opera-glass-a-popular-introducti` (658 units) |
+| How to Use the Popular Science Library; History of Science; General Index | have | PG 51133, `gpserviss-how-to-use-the-popular-science-library` (9665 units) |
+| The Moon: A Popular Treatise | have | PG 66510, `gpserviss-moon` (861 units) |
+| Round the year with the stars The chief beauties of the starry heavens as seen with the naked eye | have | PG 68391, `gpserviss-round-the-year-with-the-stars-the-chief-beauties-o` (538 units) |
+| Astronomy in a nutshell | have | PG 72521, `gpserviss-astronomy-in-a-nutshell` (566 units) |
+| repeat-editions | excluded | PG 21670: second Gutenberg editions of titles already on the shelf. |
