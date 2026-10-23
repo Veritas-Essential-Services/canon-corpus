@@ -10648,6 +10648,17 @@ Slugs `whitby-*`. Built from title pages read for round 45.
 | The Protestant Reconciler (1683): the title page reads only 'By a Well-wisher to the Churches Peace, and a Lamenter of her sad Divisions'. It is Whitby's by universal attribution, but the page names nobody | pending | not shelved |
 | The 1718 and 1727 Paraphrase on the New Testament (only volume 2 found); Six Discourses 1801 | alternate | not shelved |
 | Ethices compendium, the Tractatus and the Dissertatio (Latin) | excluded | |
+
+## William Nicholls (round 45, my pick, 2026-10-22)
+
+Slugs `nicholls-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 1 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723) | have-ocr | IA `conferencewithth01nich` |
+| A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 2 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723) | have-ocr | IA `conferencewithth02nich` |
+| A Comment on the Book of Common-Prayer, and Administration of the Sacraments (London, catalogued 1710) | have-ocr | IA `bim_eighteenth-century_a-comment-on-the-book-of_nicholls-william_1710` |
+| Defensio Ecclesiae Anglicanae (1708, Latin) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
