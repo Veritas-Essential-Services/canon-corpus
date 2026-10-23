@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T09:30:13-05:00",
- "note": "Rounds cq-dz done 2026-10-23.",
- "resume_point": "Round ea: audit round dz's single-title shelves for their other English classical works (h-e-butler, kirby-flower-smith, helen-waddell's Mediaeval Latin Lyrics if pre-1930, w-h-d-rouse, c-t-newton's Travels and Discoveries in the Levant, f-h-marshall, a-l-frothingham, louis-dyer, lane-cooper's other Aristotle books, w-c-lawton's Soul of the Anthology), then a seventh IA subject sweep (subject:(Greek art) / (Roman art) / (Classical mythology) / (Greek religion) / (Greek inscriptions), pre-1930, English; filter titles by eye). Jowett's own writings are OUT. Check every title against all branches and run dupetitles.py before the ledger."
+ "heartbeat": "2026-10-23T09:57:23-05:00",
+ "note": "Rounds cq-ea done 2026-10-23.",
+ "resume_point": "Round eb: audit round ea's single-title shelves for their other English classical works (gisela-richter, rhys-carpenter, ellis-h-minns, grace-macurdy, edmund-von-mach, j-c-lawson, frederik-poulsen, w-watkiss-lloyd, charles-fellows's Lycia journals, c-a-hutton), then an eighth IA subject sweep (subject:(Greek language) / (Latin language) grammars and histories of the language in English; (Rome -- history) and (Greece -- history) split by date range, since advancedsearch returns at most 300 rows; filter titles by eye). Jowett's own writings are OUT. Check every title against all branches and run dupetitles.py before the ledger."
 }
