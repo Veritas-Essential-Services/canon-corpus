@@ -4637,6 +4637,14 @@
       "started": "2026-10-22T22:40:01-05:00",
       "finished": "2026-10-22T22:40:01-05:00",
       "notes": "sara-jeannette-duncan: new shelf, 11 Gutenberg books, 12,338 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "norman-duncan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Norman Duncan; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:02-05:00",
+      "finished": "2026-10-22T22:40:02-05:00",
+      "notes": "norman-duncan: new shelf, 11 Gutenberg books, 16,364 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

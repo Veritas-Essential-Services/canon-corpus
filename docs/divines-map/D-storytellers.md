@@ -15403,3 +15403,21 @@ Shelf: `pipeline/sara-jeannette-duncan_shelf.json` (2026-10-22; added at the coo
 | His Honour, and a Lady | have | PG 53036, `sjduncan-his-honour-and-a-lady` (1056 units) |
 | The Simple Adventures of a Memsahib | have | PG 56513, `sjduncan-simple-adventures-of-a-memsahib` (1345 units) |
 | The crow's-nest | have | PG 73588, `sjduncan-crows-nest` (364 units) |
+
+## Norman Duncan
+
+Shelf: `pipeline/norman-duncan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Newfoundland and Labrador stories. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Doctor Luke of the Labrador | have | PG 19981, `nduncan-doctor-luke-of-the-labrador` (2165 units) |
+| Harbor Tales Down North With an Appreciation by Wilfred T. Grenfell, M.D. | have | PG 24520, `nduncan-harbor-tales-down-north-with-an-appreciation-by-wilf` (2013 units) |
+| The Mother | have | PG 27550, `nduncan-mother` (975 units) |
+| Christmas Eve at Swamp's End | have | PG 27612, `nduncan-christmas-eve-at-swamps-end` (138 units) |
+| Billy Topsail & Company: A Story for Boys | have | PG 29130, `nduncan-billy-topsail-company` (1928 units) |
+| The Cruise of the Shining Light | have | PG 29696, `nduncan-cruise-of-the-shining-light` (2365 units) |
+| Higgins, a Man's Christian | have | PG 34194, `nduncan-higgins-a-mans-christian` (370 units) |
+| Every Man for Himself | have | PG 36998, `nduncan-every-man-for-himself` (1987 units) |
+| Dr. Grenfell's Parish: The Deep Sea Fisherman | have | PG 39130, `nduncan-dr-grenfells-parish` (542 units) |
+| The Adventures of Billy Topsail | have | PG 44037, `nduncan-adventures-of-billy-topsail` (1766 units) |
+| Billy Topsail, M.D.: A Tale of Adventure With Doctor Luke of the Labrador | have | PG 47128, `nduncan-billy-topsail-m-d` (2115 units) |
