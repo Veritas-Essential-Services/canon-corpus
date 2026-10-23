@@ -1,5 +1,5 @@
 {
- "_about": "Edward Falkener (1814-1896), architect and archaeologist, raw IA OCR of Ephesus and the Temple of Diana (preface dated 1 May 1862).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_about": "Edward Falkener (1814-1896), architect and archaeologist, raw IA OCR of Ephesus and the Temple of Diana (preface dated 1 May 1862).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.  Round ea adds Daedalus.",
  "_author": "Edward Falkener",
  "_name_words": [
   "falkener"
@@ -13,6 +13,10 @@
   "edward-falkener-ephesus-and-the-temple-of-diana-1862": [
    "ephesustempleofd00falkuoft",
    "Ephesus, and the Temple of Diana, by Edward Falkener (London: Day and Son, 1862)"
+  ],
+  "edward-falkener-daedalus-greek-sculpture": [
+   "daedalusorcauses00falk",
+   "Daedalus; or, the Causes and Principles of the Excellence of Greek Sculpture, by Edward Falkener (London: Longman, Green, Longman, and Roberts; no year in the OCR, IA catalogues 1860)"
   ]
  },
  "_excluded": {},
@@ -26,6 +30,17 @@
    "ia_rights": "ok: published 1862",
    "ia_date": "1862",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edward-falkener-daedalus-greek-sculpture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward falkener",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
