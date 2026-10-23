@@ -2312,3 +2312,6 @@
 
 ## 2026-10-22 23:03 CDT — justin-h-mccarthy: done
 - justin-h-mccarthy: new shelf, 10 Gutenberg books, 10,477 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — robert-grant: done
+- robert-grant: new shelf, 10 Gutenberg books, 9,959 units, 1256 ~2 ids; verify 0 mismatches, 0 rights flags.

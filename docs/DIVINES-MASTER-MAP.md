@@ -42357,3 +42357,20 @@ Shelf: `pipeline/justin-h-mccarthy_shelf.json` (2026-10-22; added at the coordin
 | The Duke's Motto: A Melodrama | have | PG 28266, `jhmccarthy-dukes-motto` (1546 units) |
 | Hafiz in London | have | PG 51392, `jhmccarthy-hafiz-in-london` (185 units) |
 | The dryad | have | PG 76442, `jhmccarthy-dryad` (1209 units) |
+
+## Robert Grant
+
+Shelf: `pipeline/robert-grant_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Law-Breakers and Other Stories | have | PG 7763, `rgrant-law-breakers-and-other-stories` (741 units) |
+| Unleavened Bread | have | PG 14645, `rgrant-unleavened-bread` (1302 units) |
+| The King's Men: A Tale of To-morrow | have | PG 18960, `rgrant-kings-men` (1684 units) |
+| The Opinions of a Philosopher | have | PG 19509, `rgrant-opinions-of-a-philosopher` (572 units) |
+| A Romantic Young Lady | have | PG 28236, `rgrant-romantic-young-lady` (1386 units) |
+| Search-Light Letters | have | PG 37613, `rgrant-search-light-letters` (433 units) |
+| The Art of Living | have | PG 53040, `rgrant-art-of-living` (406 units) |
+| The Orchid | have | PG 53711, `rgrant-orchid` (589 units) |
+| The Undercurrent | have | PG 56310, `rgrant-undercurrent` (1569 units) |
+| Jack Hall | have | PG 77143, `rgrant-jack-hall` (1277 units) |
