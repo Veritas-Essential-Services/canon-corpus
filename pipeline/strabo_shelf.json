@@ -22,9 +22,18 @@
    "tr. H. C. Hamilton and W. Falconer"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "strabo-jones-loeb-v1": [
+   "geographyofstrab01strauoft",
+   "The Geography of Strabo, tr. H. L. Jones on the basis of J. R. S. Sterrett, vol. I: Books I-II (Loeb, 1917); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "strabo-jones-loeb-v2": [
+   "geographyofstrab0002hora_t0e4",
+   "The Geography of Strabo, tr. H. L. Jones, vol. II: Books III-V (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
  "_excluded": {
-  "Jones, Loeb (1917-32)": "held in part from Perseus: 1 texts (strabo-perseus-jones-*). Greek facing; later vols. not PD; pending"
+  "Jones, Loeb (1917-32)": "vols. I-II (1917, 1923) taken as strabo-jones-loeb-*; Books VI-XIV are held clean from Perseus; vols. VII-VIII (1930-32) are not public domain"
  },
  "perseus": {
   "strabo-perseus-jones-geography-books-6-14": [
@@ -41,12 +50,14 @@
   "strabo-hamilton-falconer-v1": "Hans Claude Hamilton",
   "strabo-hamilton-falconer-v2": "Hans Claude Hamilton",
   "strabo-hamilton-falconer-v3": "Hans Claude Hamilton",
-  "strabo-perseus-jones-geography-books-6-14": "Horace Leonard Jones"
+  "strabo-perseus-jones-geography-books-6-14": "Horace Leonard Jones",
+  "strabo-jones-loeb-v1": "Horace Leonard Jones",
+  "strabo-jones-loeb-v2": "Horace Leonard Jones"
  },
  "_checks": {
   "strabo-hamilton-falconer-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "strabo",
    "translator_claimed": "Hans Claude Hamilton",
@@ -58,7 +69,7 @@
   },
   "strabo-hamilton-falconer-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "strabo",
    "translator_claimed": "Hans Claude Hamilton",
@@ -70,7 +81,7 @@
   },
   "strabo-hamilton-falconer-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "strabo",
    "translator_claimed": "Hans Claude Hamilton",
@@ -79,6 +90,32 @@
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
    "translator_match": true
+  },
+  "strabo-jones-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "Horace Leonard Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917-33",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strabo-jones-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "Horace Leonard Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
