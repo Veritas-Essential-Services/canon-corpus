@@ -9874,3 +9874,14 @@ Shelf: `pipeline/pierre-jouguet_shelf.json`. Macedonian Imperialism and the Hell
 |---|---|---|---|
 | Macedonian Imperialism and the Hellenization of the East (1928), tr. M. R. Dobie |  | `jouguet-macedonian-imperialism-1928` | have-raw (IA `macedonianimperi0000pier`) |
 
+
+## Norman Bentwich (1883-1971)
+
+Shelf: `pipeline/norman-bentwich_shelf.json`. Philo, Josephus and Hellenism, 1910-1919. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Philo-Judaeus of Alexandria (1910) |  | `bentwich-philo-judaeus-1910` | have-raw (IA `philojudaeusofal00bentuoft`) |
+| Josephus (1914) |  | `bentwich-josephus-1914` | have-raw (IA `josephus00bentiala`) |
+| Hellenism (1919) |  | `bentwich-hellenism-1919` | have-raw (IA `hellenism01bentgoog`) |
+

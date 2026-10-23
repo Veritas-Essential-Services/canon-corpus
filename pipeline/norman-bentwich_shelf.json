@@ -1,0 +1,65 @@
+{
+ "_about": "Norman Bentwich (1883-1971), English lawyer and Jewish historian: Philo-Judaeus of Alexandria (1910), Josephus (1914), and Hellenism (1919), on the meeting of Greek and Jewish thought. His later works are not US public domain. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Norman Bentwich (1883-1971)",
+ "_name_words": [
+  "bentwich",
+  "hellenism",
+  "philo",
+  "josephus"
+ ],
+ "_surname": [
+  "bentwich"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bentwich-philo-judaeus-1910": [
+   "philojudaeusofal00bentuoft",
+   "Philo-Judaeus of Alexandria (1910)"
+  ],
+  "bentwich-josephus-1914": [
+   "josephus00bentiala",
+   "Josephus (1914)"
+  ],
+  "bentwich-hellenism-1919": [
+   "hellenism01bentgoog",
+   "Hellenism (1919)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bentwich-philo-judaeus-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bentwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentwich-josephus-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bentwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentwich-hellenism-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bentwich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
