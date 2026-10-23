@@ -13359,3 +13359,19 @@ Slugs `findlay-*`. Built from title pages read for round 70.
 | The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 4 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya04finduoft` |
 | The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 5 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya05find` |
 | Fellowship in the Life Eternal (1909, on the Epistles of John): only a 1955 reprint and undated scans were found | pending | not shelved |
+
+## J. Rawson Lumby (round 70, my pick, 2026-10-23)
+
+Slugs `lumby-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| Early dissent, modern dissent and the Church of England (Deighton, Bell, 1870) | have-ocr | IA `earlydissentmod00lumbgoog` |
+| The history of the creeds; (i) ante-Nicene, (ii) Nicene and Constantinopolitan, (iii) the apostolic creed, (iv) the quicunque, commonly called the creed of St. Athanasius (Cambridge [Eng.] : Deighton, Bell, and Co. ; London : George Bell and Sons, 1873) | have-ocr | IA `historyofcreedsi00lumb_0` |
+| A popular introduction to the New Testament (London : Hodder and Stoughton, 1883) | have-ocr | IA `popularintroduct00lumb` |
+| The Acts of the Apostles; with maps. introduction and notes (Cambridge, Univ. Press, 1890) | have-ocr | IA `actsofapostleswi00lumb` |
+| The first book of Kings : with maps, introduction and notes (Cambridge [Eng.] : University Press, 1890) | have-ocr | IA `firstbookofkings1890lumb` |
+| The second book of the Kings : with introduction and notes (Cambridge [Eng.] : University Press, 1887) | have-ocr | IA `secondbookofking00lumb` |
+| The Epistles of St. Peter, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `epistlesofstpete00lumb` |
+| his editions of medieval and early-modern texts (Higden's Polychronicon, King Horn, Ratis Raving, Be Domes Daege, Knighton, Bede, More's Utopia and Richard III, Bacon's Henry VII, Cowley's prose): other authors' works; The Cambridge Companion to the Bible (many hands) | excluded | |
+| Compendium of English Church History from 1688 to 1830 (1883): by an unnamed author; Lumby wrote only the preface and saw it through the press | excluded | |

@@ -1,0 +1,130 @@
+{
+ "_about": "Public-domain Joseph Rawson Lumby (1831-1895), Norrisian and Lady Margaret's Professor of Divinity at Cambridge, for the Word Hoard: Early Dissent, Modern Dissent and the Church of England (1870), The History of the Creeds (1873), A Popular Introduction to the New Testament (1883), his Cambridge Bible commentaries on the Acts and the two Books of Kings, and his Expositor's Bible volume on the Epistles of St. Peter (1893). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 70 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lumby"
+ ],
+ "_surname": [
+  "lumby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lumby-early-dissent": [
+   "earlydissentmod00lumbgoog",
+   "Early dissent, modern dissent and the Church of England (Deighton, Bell, 1870)"
+  ],
+  "lumby-history-of-creeds": [
+   "historyofcreedsi00lumb_0",
+   "The history of the creeds; (i) ante-Nicene, (ii) Nicene and Constantinopolitan, (iii) the apostolic creed, (iv) the quicunque, commonly called the creed of St. Athanasius (Cambridge [Eng.] : Deighton, Bell, and Co. ; London : George Bell and Sons, 1873)"
+  ],
+  "lumby-popular-introduction-nt": [
+   "popularintroduct00lumb",
+   "A popular introduction to the New Testament (London : Hodder and Stoughton, 1883)"
+  ],
+  "lumby-acts": [
+   "actsofapostleswi00lumb",
+   "The Acts of the Apostles; with maps. introduction and notes (Cambridge, Univ. Press, 1890)"
+  ],
+  "lumby-first-kings": [
+   "firstbookofkings1890lumb",
+   "The first book of Kings : with maps, introduction and notes (Cambridge [Eng.] : University Press, 1890)"
+  ],
+  "lumby-second-kings": [
+   "secondbookofking00lumb",
+   "The second book of the Kings : with introduction and notes (Cambridge [Eng.] : University Press, 1887)"
+  ],
+  "lumby-epistles-st-peter": [
+   "epistlesofstpete00lumb",
+   "The Epistles of St. Peter, The Expositor's Bible (New York: A. C. Armstrong, 1893)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "lumby-editions": "his editions of medieval and early-modern texts (Higden's Polychronicon, King Horn, Ratis Raving, Be Domes Daege, Knighton, Bede, More's Utopia and Richard III, Bacon's Henry VII, Cowley's prose): other authors' works; The Cambridge Companion to the Bible (many hands)",
+  "lumby-compendium": "Compendium of English Church History from 1688 to 1830 (1883): by an unnamed author; Lumby wrote only the preface and saw it through the press"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lumby-early-dissent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lumby-history-of-creeds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lumby-popular-introduction-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lumby-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lumby-first-kings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lumby-second-kings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lumby-epistles-st-peter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
