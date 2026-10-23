@@ -15401,3 +15401,28 @@ Slugs `grafton-*`. Built from title pages read for round 92.
 | The works of the Rt. Rev. Charles C. Grafton, vol. 7 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305807grafuoft` |
 | The works of the Rt. Rev. Charles C. Grafton, vol. 8 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305808grafuoft` |
 | separate printings of books gathered in the Works (Christian and Catholic, Catholic Atlas, Lineage, Journey Godward, Pusey and the Church Revival, Self-Consecration, etc.); The Church's Ministry of Grace (a many-author volume) | excluded | |
+
+## A. F. Winnington-Ingram (round 93, my pick, 2026-10-23)
+
+Slugs `ingram-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Work in great cities ; six lectures on pastoral theology (London, Gardner, 1897) | have-ocr | IA `workingreatcitie00winn` |
+| New Testament difficulties : (Second series), historical and scientific (London : Society for Promoting Christian Knowledge, 1902) | have-ocr | IA `newtestamentdiff0000winn` |
+| Addresses given in St. Paul's Cathedral : during Holy Week, 1902 (London : Society for Promoting Christian Knowledge ; New York : E. & J.B. Young, 1902) | have-ocr | IA `addressesgivenin0000winn` |
+| Under the dome (London : Wells, Gardner, Darton, 1902) | have-ocr | IA `underdome0000winn` |
+| The Church of England, a goodly heritage : sermon preached at the Weymouth Church Congress, 1905, vol. Talbot Collection of British Pamphlets ([London] ; Brighton : Society for Promoting Christian Knowledge ... ; New York : E. S. Gorham, [190) | have-ocr | IA `churchofenglandg00chur` |
+| The Gospel in action (Milwaukee, Wis. : Young Churchman Co., 1906) | have-ocr | IA `MN41822ucmf_4` |
+| A mission of the Spirit (Milwaukie, Wis. : The Young Churchmen Co., 1906) | have-ocr | IA `missionofspirit0000winn` |
+| The Call of the Father (London: Wells Gardner, Darton and Co., Ltd., 1907) | have-ocr | IA `calloffather0000winn` |
+| Joy in God (London : Wells Gardner, Darton, 1909) | have-ocr | IA `joyingod0000winn` |
+| The mysteries of God (Milwaukee, Wis. : Young Churchman Co, 1910) | have-ocr | IA `MN41826ucmf_2` |
+| Secrets of strength (London : Wells Gardner, Darton & Co., 1911) | have-ocr | IA `secretsofstrengt0000winn` |
+| The attractiveness of goodness (Milwaukee, Wis. : Young Churchman Co., 1913) | have-ocr | IA `MN41821ucmf_2` |
+| "Life for ever and ever" (London : W. Gardner, Darton, 1915) | have-ocr | IA `lifeforeverever00winn` |
+| The church in time of war (London, Wells, Gardner, Darton, 1915) | have-ocr | IA `churchintimeofwa0000winn` |
+| Rays of dawn (London : Wells Gardner, Darton, 1918) | have-ocr | IA `raysofdawn0000winn` |
+| Thoughts on love and death; a series of short meditations (New York, Frederick A. Stokes Company, 1918) | have-ocr | IA `thoughtsonlovede00winn` |
+| The sword of Goliath (London : Wells Gardner, Darton, 1926) | have-ocr | IA `swordofgoliath0000winn` |
+| The Universities and the Social Problem (many authors), The Early English Colonies (lecture summary), and everything printed from 1930 on | excluded | |
