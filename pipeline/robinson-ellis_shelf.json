@@ -1,0 +1,83 @@
+{
+ "_about": "Robinson Ellis (1834-1913), Corpus Professor of Latin at Oxford. Works with English commentary or prose; his verse Catullus is held on the catullus shelf (PG 18867). Latin-only editions (Noctes Manilianae, Appendix Vergiliana, Ibis) not taken.",
+ "_author": "Robinson Ellis (1834-1913)",
+ "_name_words": [
+  "ellis",
+  "catullus",
+  "commentary",
+  "aetna",
+  "copa",
+  "century"
+ ],
+ "_surname": [
+  "ellis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ellis-commentary-catullus-1889": [
+   "commentaryoncatu00elliuoft",
+   "A Commentary on Catullus (2nd ed., Oxford, 1889)"
+  ],
+  "ellis-aetna-1901": [
+   "cu31924026475602",
+   "Aetna: a critical recension of the text, with prolegomena, translation, commentary (Oxford, 1901)"
+  ],
+  "ellis-catullus-xivth-century-1905": [
+   "catullusinxivthc00elli",
+   "Catullus in the XIVth Century (1905)"
+  ],
+  "ellis-bodleian-copa-1906": [
+   "bodleianmsofcopa00elli",
+   "A Bodleian MS. of Copa, Moretum, and other poems of the Appendix Vergiliana (1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ellis-commentary-catullus-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ellis-aetna-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ellis-catullus-xivth-century-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ellis-bodleian-copa-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

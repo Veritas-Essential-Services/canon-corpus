@@ -8835,3 +8835,15 @@ Shelf: `pipeline/h-a-j-munro_shelf.json`. English criticism; his Lucretius is he
 
 Excluded: Munro's Lucretius (1864-1886) (held elsewhere (Lucretius tr. Munro); not refetched)
 
+
+## Robinson Ellis (1834-1913)
+
+Shelf: `pipeline/robinson-ellis_shelf.json`. Catullus commentary, Aetna and Appendix Vergiliana studies with English apparatus; verse Catullus on the catullus shelf. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Commentary on Catullus (2nd ed., Oxford, 1889) |  | `ellis-commentary-catullus-1889` | have-raw (IA `commentaryoncatu00elliuoft`) |
+| Aetna: a critical recension of the text, with prolegomena, translation, commentary (Oxford, 1901) |  | `ellis-aetna-1901` | have-raw (IA `cu31924026475602`) |
+| Catullus in the XIVth Century (1905) |  | `ellis-catullus-xivth-century-1905` | have-raw (IA `catullusinxivthc00elli`) |
+| A Bodleian MS. of Copa, Moretum, and other poems of the Appendix Vergiliana (1906) |  | `ellis-bodleian-copa-1906` | have-raw (IA `bodleianmsofcopa00elli`) |
+
