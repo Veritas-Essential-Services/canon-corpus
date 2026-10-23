@@ -10172,6 +10172,16 @@ Slugs `montagu-*`. Built from title pages read for round 41.
 | The acts and monuments of the church ...  1642 (catalogued 1642) | have-ocr | IA `bim_early-english-books-1641-1700_the-acts-and-monuments-o_montagu-richard-bp_1642` |
 | The EEBO copies of Appello Caesarem (1625) | alternate | not shelved |
 | His Latin works (Analecta 1622, De originibus ecclesiasticis 1635-1640, Theanthropikon 1640, the Photius edition 1651) | excluded | |
+
+## John Hacket (round 41, my pick, 2026-10-22)
+
+Slugs `hacket-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| A century of sermons, ...  1675 (catalogued 1675) | have-ocr | IA `bim_early-english-books-1641-1700_a-century-of-sermons-_hacket-john-bp_1675` |
+| Bishop Hacket's memoirs of the life of Archbishop Williams, Lord Keeper of the Great Seal of England, abridg'd. With the most remarkable occurrences and transactions in church and state.  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_bishop-hackets-memoirs-_hacket-john_1715` |
+| Loiola (1648), his Latin comedy; Divers Voyages (1850), Hakluyt's | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

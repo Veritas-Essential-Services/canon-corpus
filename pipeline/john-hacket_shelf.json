@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain John Hacket (1592-1670), Bishop of Lichfield and Coventry, for the Word Hoard: A Century of Sermons upon Several Remarkable Subjects (1675) and his memoirs of Archbishop John Williams (1715, abridged), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hacket"
+ ],
+ "_surname": [
+  "john hacket",
+  "hacket",
+  "hackett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hacket-century-of-sermons-1675": [
+   "bim_early-english-books-1641-1700_a-century-of-sermons-_hacket-john-bp_1675",
+   "A century of sermons, ...  1675 (catalogued 1675)"
+  ],
+  "hacket-memoirs-williams-1715": [
+   "bim_eighteenth-century_bishop-hackets-memoirs-_hacket-john_1715",
+   "Bishop Hacket's memoirs of the life of Archbishop Williams, Lord Keeper of the Great Seal of England, abridg'd. With the most remarkable occurrences and transactions in church and state.  1715 (catalogued 1715)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hacket-other": "Loiola (1648), his Latin comedy; Divers Voyages (1850), Hakluyt's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hacket-century-of-sermons-1675": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hacket",
+   "identity": "ok",
+   "ia_rights": "ok: published 1675",
+   "ia_date": "1675",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hacket-memoirs-williams-1715": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hacket",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

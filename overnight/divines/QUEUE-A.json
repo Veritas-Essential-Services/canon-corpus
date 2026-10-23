@@ -5896,6 +5896,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:18:07-05:00",
       "notes": "English controversial works 1621-1642; Latin excluded."
+    },
+    {
+      "id": "john-hacket",
+      "status": "done",
+      "scope": "round 41",
+      "added": "2026-10-22T23:18:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:18:08-05:00",
+      "notes": "Century of Sermons 1675, memoirs of Williams 1715."
     }
   ]
 }
