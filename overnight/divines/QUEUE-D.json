@@ -5893,6 +5893,14 @@
       "started": "2026-10-22T23:16:08-05:00",
       "finished": "2026-10-22T23:16:08-05:00",
       "notes": "lucas-malet: new shelf, 6 Gutenberg books, 11,194 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "charles-major",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Charles Major; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:16:25-05:00",
+      "finished": "2026-10-22T23:16:25-05:00",
+      "notes": "charles-major: new shelf, 6 Gutenberg books, 11,469 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

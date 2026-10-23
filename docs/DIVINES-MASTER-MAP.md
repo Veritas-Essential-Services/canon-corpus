@@ -43709,3 +43709,16 @@ Shelf: `pipeline/lucas-malet_shelf.json` (2026-10-22; added at the coordinator's
 | The Gateless Barrier | have | PG 34619, `lmalet-gateless-barrier` (816 units) |
 | Little Peter: A Christmas Morality for Children of any Age | have | PG 45666, `lmalet-little-peter` (541 units) |
 | Adrian Savage: A Novel | have | PG 56577, `lmalet-adrian-savage` (1909 units) |
+
+## Charles Major
+
+Shelf: `pipeline/charles-major_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Yolanda: Maid of Burgundy | have | PG 12057, `cmajor-yolanda` (2185 units) |
+| The Touchstone of Fortune Being the Memoir of Baron Clyde, Who Lived, Thrived, and Fell in the Doleful Reign of the So-called Merry Monarch, Charles II | have | PG 14242, `cmajor-touchstone-of-fortune-being-the-memoir-of-baron-clyde` (2298 units) |
+| Dorothy Vernon of Haddon Hall | have | PG 14671, `cmajor-dorothy-vernon-of-haddon-hall` (2578 units) |
+| When Knighthood Was in Flower or, the Love Story of Charles Brandon and Mary Tudor the King's Sister, and Happening in the Reign of His August Majesty King Henry the Eighth | have | PG 17498, `cmajor-when-knighthood-was-in-flower-or-the-love-story-of-ch` (1525 units) |
+| A Forest Hearth: A Romance of Indiana in the Thirties | have | PG 29486, `cmajor-forest-hearth` (2048 units) |
+| The Bears of Blue River | have | PG 54915, `cmajor-bears-of-blue-river` (835 units) |
