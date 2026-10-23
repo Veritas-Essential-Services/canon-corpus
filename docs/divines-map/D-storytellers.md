@@ -13548,3 +13548,29 @@ Shelf: `pipeline/ep-roe_shelf.json` (2026-10-22; added at the coordinator's rela
 | Barriers Burned Away | have | PG 6627, `eproe-barriers-burned-away` (2855 units) |
 | The Earth Trembled | have | PG 6719, `eproe-earth-trembled` (2664 units) |
 | A Young Girl's Wooing | have | PG 12876, `eproe-young-girls-wooing` (2241 units) |
+
+## Irving Bacheller
+
+Shelf: `pipeline/irving-bacheller_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Eben Holden: A Tale of the North Country | have | PG 2799, `ibacheller-eben-holden` (2222 units) |
+| The Master of Silence: A Romance | have | PG 7486, `ibacheller-master-of-silence` (547 units) |
+| Keeping up with Lizzie | have | PG 11503, `ibacheller-keeping-up-with-lizzie` (602 units) |
+| Darrel of the Blessed Isles | have | PG 12102, `ibacheller-darrel-of-the-blessed-isles` (2404 units) |
+| D'Ri and I: A Tale of Daring Deeds in the Second War with the British. Being the Memoirs of Colonel Ramon Bell, U.S.A. | have | PG 12440, `ibacheller-dri-and-i` (1577 units) |
+| The Light in the Clearing: A Tale of the North Country in the Time of Silas Wright | have | PG 14150, `ibacheller-light-in-the-clearing` (2435 units) |
+| In the Days of Poor Richard | have | PG 15608, `ibacheller-in-the-days-of-poor-richard` (2468 units) |
+| Vergilius: A Tale of the Coming of Christ | have | PG 16491, `ibacheller-vergilius` (1285 units) |
+| A Man for the Ages: A Story of the Builders of Democracy | have | PG 17237, `ibacheller-man-for-the-ages` (2640 units) |
+| 'Charge It': Keeping Up With Harry | have | PG 29568, `ibacheller-charge-it` (790 units) |
+| The Prodigal Village: A Christmas Tale | have | PG 44796, `ibacheller-prodigal-village` (567 units) |
+| The Hand-Made Gentleman: A Tale of the Battles of Peace | have | PG 50002, `ibacheller-hand-made-gentleman` (2064 units) |
+| The Turning of Griggsby: Being a Story of Keeping up with Dan'l Webster | have | PG 50087, `ibacheller-turning-of-griggsby` (566 units) |
+| The Marryers: A History Gathered from a Brief of the Honorable Socrates Potter | have | PG 50088, `ibacheller-marryers` (1167 units) |
+| Silas Strong, Emperor of the Woods | have | PG 50091, `ibacheller-silas-strong-emperor-of-the-woods` (2115 units) |
+| Keeping Up with William In which the Honorable Socrates Potter Talks of the Relative Merits of Sense Common and Preferred | have | PG 50093, `ibacheller-keeping-up-with-william-in-which-the-honorable-so` (370 units) |
+| Eben Holden's Last Day A-Fishing | have | PG 52454, `ibacheller-eben-holdens-last-day-a-fishing` (430 units) |
+| In Various Moods: Poems and Verses | have | PG 52457, `ibacheller-in-various-moods` (747 units) |
+| pg-57684 | excluded | PG 57684: Gutenberg's index of the author's works, not a book. |
