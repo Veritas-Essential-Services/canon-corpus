@@ -19734,6 +19734,45 @@ Shelf: `pipeline/grenfell-hunt_shelf.json`. The Oxyrhynchus Papyri I-XVII (1898-
 
 Excluded: alexandrianeroti00unse (Greek Papyri Series I (An Alexandrian Erotic Fragment, 1896): the only scan's text layer is empty); tebtunispapyrivo0003arth (Tebtunis Papyri III.1 (1933): published 1930 or later)
 
+
+## Charles Rollin (1661-1741)
+
+Shelf: `pipeline/charles-rollin_shelf.json`. Ancient History (6 vols, 1850-51; Vol. I clean Gutenberg), Roman History (16 vols, 1754, Vols. IX-XVI by Crevier), Arts and Sciences of the Antients (1768), Belles Lettres (1778). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. I (London: Longman and Co., 1850), Books I-III |  | `rollin-ancient-history-v1` | have (PG 28558) |
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. II (London: Longman and Co., 1850), Books IV-VII |  | `rollin-ancient-history-v2` | have-raw (IA `ancienthistorye05unkngoog`) |
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. III (London: William Tegg and Co., 1851), Books VIII-XII |  | `rollin-ancient-history-v3` | have-raw (IA `ancienthistorye28rollgoog`) |
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. IV (London: Longman and Co., 1850), Books XIII-XVI |  | `rollin-ancient-history-v4` | have-raw (IA `ancienthistorye45rollgoog`) |
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. V (London: Longman and Co., 1850), Books XVII-XIX |  | `rollin-ancient-history-v5` | have-raw (IA `ancienthistorye34rollgoog`) |
+| The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. VI (London: Longman and Co., 1850), Books XX-XXIV |  | `rollin-ancient-history-v6` | have-raw (IA `ancienthistorye36rollgoog`) |
+| The History of the Arts and Sciences of the Antients, Vol. 1 of 3 (London: Rivington, 1768) |  | `rollin-arts-sciences-antients-v1` | have-raw (IA `bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_1`) |
+| The History of the Arts and Sciences of the Antients, Vol. 2 of 3 (London: Rivington, 1768) |  | `rollin-arts-sciences-antients-v2` | have-raw (IA `bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_2`) |
+| The History of the Arts and Sciences of the Antients, Vol. 3 of 3 (London: Rivington, 1768) |  | `rollin-arts-sciences-antients-v3` | have-raw (IA `bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_3`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 1 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v01` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_1`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 2 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v02` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_2`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 3 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v03` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_3`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 4 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v04` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_4`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 5 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v05` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_5`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 6 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v06` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_6`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 7 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v07` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_7`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 8 of 16 (London: Knapton, 1754) |  | `rollin-roman-history-v08` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_8`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 9 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v09` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_9`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 10 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v10` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_10`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 11 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v11` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_11`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 12 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v12` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_12`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 13 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v13` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_13`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 14 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v14` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_14`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 15 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v15` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_15`) |
+| The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 16 of 16 (London: Knapton, 1754) (continued by Crevier) |  | `rollin-roman-history-v16` | have-raw (IA `bim_eighteenth-century_the-roman-history_rollin-charles_1754_16`) |
+| The Method of Teaching and Studying the Belles Lettres, Vol. 1 of 4 (1778; Vol. IV's imprint reads Dublin) |  | `rollin-method-teaching-belles-lettres-v1` | have-raw (IA `bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_1`) |
+| The Method of Teaching and Studying the Belles Lettres, Vol. 2 of 4 (1778; Vol. IV's imprint reads Dublin) |  | `rollin-method-teaching-belles-lettres-v2` | have-raw (IA `bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_2`) |
+| The Method of Teaching and Studying the Belles Lettres, Vol. 3 of 4 (1778; Vol. IV's imprint reads Dublin) |  | `rollin-method-teaching-belles-lettres-v3` | have-raw (IA `bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_3`) |
+| The Method of Teaching and Studying the Belles Lettres, Vol. 4 of 4 (1778; Vol. IV's imprint reads Dublin) |  | `rollin-method-teaching-belles-lettres-v4` | have-raw (IA `bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_4`) |
+
+Excluded: ancienthistorye40rollgoog (1850 Longman Vol. I: Gutenberg 28558 is the clean text of the same printing); romanhistoryfrom01roll (1768 Rivington Roman History (John Adams's set): Vol. 7 is missing on IA and its OCR is weaker than the 1754 set's)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
