@@ -13805,6 +13805,25 @@ Slugs `punshon-*`. Built from title pages read for round 75.
 | Lectures (London : Woolmer, 1882) | have-ocr | IA `lectures00punsiala` |
 | Sermons [ed. by W. Arthur] (catalogued 1882) | have-ocr | IA `sermonsedbywart00punsgoog` |
 | pamphlets of under 60 pages; memoirs and sketches of him by others (1871, 1881, 1883) | excluded | |
+
+## Charles F. Deems (round 76, my pick, 2026-10-23)
+
+Slugs `deems-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The home-alter ([n.p.], 1850) | have-ocr | IA `homealter00deem` |
+| Jesus (New York, United States publishing company, 1868) | have-ocr | IA `jesus00deem` |
+| What now? For young ladies (New York : American Tract Society, [c18) | have-ocr | IA `whatnowforyoungl00deemrich` |
+| Dr. Deem's sermons : forty-eight discourses comprising every Sunday morning sermon preached from the pulpit of "The Church of the Strangers" (New York : Funk & Wagnall, 1885) | have-ocr | IA `drdeemssermonsfo00deem` |
+| A Scotch verdict in re evolution (New York, J. W. Lovell company, 1885) | have-ocr | IA `ascotchverdicti00deemgoog` |
+| The gospel of common sense as contained in the canonical Epistle of James (New York, W. B. Ketcham; Edinburgh, J. Gemmell, 1888) | have-ocr | IA `gospelofcommonse00deem` |
+| The Gospel of spiritual insight (New York, W. B. Ketcam, 1891) | have-ocr | IA `gospelofspiritua00deem` |
+| My septuagint ([n.p.], 1892) | have-ocr | IA `myseptuagint00deem` |
+| Autobiography of Charles Force Deems (New York, Chicago [etc.] : Fleming H. Revell company, [189) | have-ocr | IA `autobiographyofc00deem` |
+| Who Was Jesus? (1880) and The Light of the Nations (1884) are later retitled editions of Jesus (1868) | excluded | |
+| periodicals and annuals he edited (Southern Methodist Pulpit, Annals of Southern Methodism, Christian Thought) and compilations (Hymns for All Christians, Chips and Chunks) | excluded | |
+| pamphlets of under 60 pages; early verse (Triumph of Peace, 1840) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
