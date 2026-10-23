@@ -1241,6 +1241,7 @@ Points you may want to veto or rule on:
 - Reading the title pages caught a wrong book: the scan catalogued as Colman's Fifteen Sermons (1794) is George Whitefield's. It is excluded.
 - Two items are pending because their title pages name no author: Prince's funeral sermon The Divine Promises Considered (1746) and Oakes's Elegie upon Thomas Shepard (1677, "By a great Admirer of his Worth").
 - Prince's The Sovereign God Acknowledged is signed only "By her Father" (it is for his daughter Deborah Prince). Four of Foxcroft's items and Colman's Genesis are identified by their half-titles ("Mr. Foxcroft's Sermon...", "Dr. Colman's Dissertation"). Veto these if a half-title is not enough for you.
+- Two of Joseph Sewall's sermons (the 1724 election sermon, the 1727 earthquake discourse) are also identified only by half-titles reading "Mr. Sewall's". The bare name "sewall" is shared with another shelf, so these were checked by eye after the first push.
 - The early printings (Norton, Oakes, Wigglesworth's Meat out of the Eater, Prince's Chronological History) have rough long-s OCR. The text can be read, but it is not clean.
 - Samuel Stanhope Smith's Essay on the Variety of Complexion is an eighteenth-century treatise on human races and is dated in its science. It is shelved as his work, not endorsed.
 - Edward Beecher's Narrative of Riots at Alton is a history of the Lovejoy murder, not divinity.
