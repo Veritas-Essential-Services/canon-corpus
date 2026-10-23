@@ -9184,3 +9184,12 @@ Shelf: `pipeline/w-w-buckland_shelf.json`. Roman law, 1911-1921. Not minted. Not
 | Elementary Principles of the Roman Private Law (1912) |  | `buckland-elementary-principles-roman-private-law-1912` | have-raw (IA `elementaryprinci00buckuoft`) |
 | Equity in Roman Law: Lectures Delivered in the University of London (1911) |  | `buckland-equity-in-roman-law-1911` | have-raw (IA `equityinromanlaw00buck`) |
 
+
+## Sheldon Amos (1835-1886)
+
+Shelf: `pipeline/sheldon-amos_shelf.json`. The civil law of Rome (1883). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The History and Principles of the Civil Law of Rome: an Aid to the Study of Scientific and Comparative Jurisprudence (1883) |  | `amos-civil-law-of-rome-1883` | have-raw (IA `historyandprinc00amosgoog`) |
+

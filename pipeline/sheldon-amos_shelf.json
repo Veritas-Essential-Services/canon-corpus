@@ -1,0 +1,36 @@
+{
+ "_about": "Sheldon Amos (1835-1886), English jurist: The History and Principles of the Civil Law of Rome (1883). His English constitutional and political works are outside lane B. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Sheldon Amos (1835-1886)",
+ "_name_words": [
+  "amos",
+  "civil",
+  "law",
+  "rome",
+  "jurisprudence"
+ ],
+ "_surname": [
+  "sheldon amos"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "amos-civil-law-of-rome-1883": [
+   "historyandprinc00amosgoog",
+   "The History and Principles of the Civil Law of Rome: an Aid to the Study of Scientific and Comparative Jurisprudence (1883)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "amos-civil-law-of-rome-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sheldon amos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
