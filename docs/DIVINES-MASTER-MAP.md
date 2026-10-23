@@ -16825,6 +16825,17 @@ Slugs `gurley-*`. Built from title pages read for round 107.
 | The voice of the rod : a sermon preached on Thursday, June 1, 1865, in the New York Avenue Presbyterian Church, Washington, D.C (Washington, D.C. : W. Ballantyne, 1865) | have-ocr | IA `voiceofrodsermon00gurl` |
 | faithingoddrgurl00gurl (a 1940 printing) | excluded | |
 | proceedingsofcal00gurl (minutes of a ministers meeting, many hands) | excluded | |
+
+## George Buist (round 107, my pick, 2026-10-23)
+
+Slugs `gbuist-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| An oration delivered at the orphan-house of Charleston, South-Carolina, October 18th, 1795, being the sixth anniversary of the institution. By the Reverend George Buist, ...  1795 (catalogued 1795) | have-ocr | IA `bim_eighteenth-century_an-oration-delivered-at-_buist-george-rev-min_1795` |
+| Sermons by the Reverend George Buist, D. D. : minister of the Presbyterian Church and President of the College of Charleston, South Carolina, vol. 1 (New York : Printed for E. Sargeant, by D. & G. Bruce, 1809) | have-ocr | IA `sermonsbyreveren01buis` |
+| Sermons, vol. 2 (New York : E. Sargeant, 1809) | have-ocr | IA `sermons02buis` |
+| The Indian annals, Scinde narrative and science papers are by George Buist (1805-1860), the Bombay journalist, a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
