@@ -1,0 +1,115 @@
+{
+ "_about": "Public-domain George Horne (1730-1792), Bishop of Norwich and President of Magdalen, for the Word Hoard: his Works (London: J. Johnson, 1809, six volumes, with memoirs by William Jones of Nayland: the Commentary on the Psalms, discourses and tracts), from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "horne"
+ ],
+ "_surname": [
+  "george horne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "horne-works-1": [
+   "worksrightrever02jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 1 (London, Printed for J. Johnson, 1809)"
+  ],
+  "horne-works-2": [
+   "worksrightrever04jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 2 (London, Printed for J. Johnson, 1809)"
+  ],
+  "horne-works-3": [
+   "worksrightrever00jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 3 (London, Printed for J. Johnson, 1809)"
+  ],
+  "horne-works-4": [
+   "worksrightrever01jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 4 (London, Printed for J. Johnson, 1809)"
+  ],
+  "horne-works-5": [
+   "worksrightrever03jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 5 (London, Printed for J. Johnson, 1809)"
+  ],
+  "horne-works-6": [
+   "worksrightrever05jonegoog",
+   "The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 6 (London, Printed for J. Johnson, 1809)"
+  ]
+ },
+ "_alternates": {
+  "horne-copies": "Separate Commentary on the Psalms (1792 onward), Discourses (1812), Considerations on St John the Baptist (1806): all in the Works"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "horne-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horne-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george horne",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

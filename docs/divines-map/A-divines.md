@@ -10325,3 +10325,17 @@ Slugs `comber-*`. Built from title pages read for round 42.
 | A companion to the temple, or A help to devotion, in the daily use of the common prayer : in two parts : part I containing the morning and evening prayer (London : Printed by Andrew Clark for Henry Brome ..., 1676) | have-ocr | IA `acompaniontotem00combgoog` |
 | A companion to the altar, or, An help to the worthy receiving of the Lords Supper by discourses and meditations upon the whole communion office : to which is added an essay upon the offices of baptism and confirmation (London : Printed by J. Macock for John Martyn ... and Richard Lambert ..., 1675) | have-ocr | IA `acompaniontoalt00combgoog` |
 | The other 1676 copy; the Oxford 1841 Companion to the Temple; the 1906 Exposition of Morning and Evening Prayer (an extract) | alternate | not shelved |
+
+## George Horne (round 42, my pick, 2026-10-22)
+
+Slugs `horne-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 1 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever02jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 2 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever04jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 3 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever00jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 4 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever01jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 5 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever03jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 6 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever05jonegoog` |
+| Separate Commentary on the Psalms (1792 onward), Discourses (1812), Considerations on St John the Baptist (1806): all in the Works | alternate | not shelved |
