@@ -40152,3 +40152,23 @@ Shelf: `pipeline/basil-king_shelf.json` (2026-10-22; added at the coordinator's 
 | Going West | have | PG 60395, `bking-going-west` (216 units) |
 | The Happy Isles | have | PG 61344, `bking-happy-isles` (2960 units) |
 | The City of Comrades | have | PG 64255, `bking-city-of-comrades` (3125 units) |
+
+## Hulbert Footner
+
+Shelf: `pipeline/hulbert-footner_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery and northern adventure novels. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fur Bringers: A Story of the Canadian Northwest | have | PG 16289, `hfootner-fur-bringers` (3303 units) |
+| Two on the Trail: A Story of the Far Northwest | have | PG 25159, `hfootner-two-on-the-trail` (1884 units) |
+| The Woman from Outside [On Swan River] | have | PG 25875, `hfootner-woman-from-outside-on-swan-river` (2439 units) |
+| The Huntress | have | PG 26283, `hfootner-huntress` (3391 units) |
+| The Deaves Affair | have | PG 31361, `hfootner-deaves-affair` (2739 units) |
+| Jack Chanty: A Story of Athabasca | have | PG 56999, `hfootner-jack-chanty` (2316 units) |
+| The Owl Taxi | have | PG 57088, `hfootner-owl-taxi` (2324 units) |
+| Ramshackle House | have | PG 57138, `hfootner-ramshackle-house` (2648 units) |
+| The Sealed Valley | have | PG 57139, `hfootner-sealed-valley` (2288 units) |
+| The Substitute Millionaire | have | PG 57210, `hfootner-substitute-millionaire` (3111 units) |
+| Thieves' Wit: An Everyday Detective Story | have | PG 57236, `hfootner-thieves-wit` (2385 units) |
+| Antennae | have | PG 69701, `hfootner-antennae` (2647 units) |
+| A backwoods princess | have | PG 69702, `hfootner-backwoods-princess` (2193 units) |

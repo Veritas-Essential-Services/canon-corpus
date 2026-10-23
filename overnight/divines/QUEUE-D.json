@@ -4437,6 +4437,14 @@
       "started": "2026-10-22T22:33:50-05:00",
       "finished": "2026-10-22T22:33:50-05:00",
       "notes": "basil-king: new shelf, 13 Gutenberg books, 28,315 units, 1064 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hulbert-footner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hulbert Footner; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:52-05:00",
+      "finished": "2026-10-22T22:33:52-05:00",
+      "notes": "hulbert-footner: new shelf, 13 Gutenberg books, 33,668 units, 1175 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

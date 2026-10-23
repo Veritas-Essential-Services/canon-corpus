@@ -1,0 +1,187 @@
+{
+ "_about": "Hulbert Footner's mystery and Canadian north-woods novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Hulbert Footner",
+ "_name_words": [
+  "footner"
+ ],
+ "_surname": [
+  "footner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hfootner-fur-bringers": [
+   16289,
+   "The Fur Bringers: A Story of the Canadian Northwest"
+  ],
+  "hfootner-two-on-the-trail": [
+   25159,
+   "Two on the Trail: A Story of the Far Northwest"
+  ],
+  "hfootner-woman-from-outside-on-swan-river": [
+   25875,
+   "The Woman from Outside [On Swan River]"
+  ],
+  "hfootner-huntress": [
+   26283,
+   "The Huntress"
+  ],
+  "hfootner-deaves-affair": [
+   31361,
+   "The Deaves Affair"
+  ],
+  "hfootner-jack-chanty": [
+   56999,
+   "Jack Chanty: A Story of Athabasca"
+  ],
+  "hfootner-owl-taxi": [
+   57088,
+   "The Owl Taxi"
+  ],
+  "hfootner-ramshackle-house": [
+   57138,
+   "Ramshackle House"
+  ],
+  "hfootner-sealed-valley": [
+   57139,
+   "The Sealed Valley"
+  ],
+  "hfootner-substitute-millionaire": [
+   57210,
+   "The Substitute Millionaire"
+  ],
+  "hfootner-thieves-wit": [
+   57236,
+   "Thieves' Wit: An Everyday Detective Story"
+  ],
+  "hfootner-antennae": [
+   69701,
+   "Antennae"
+  ],
+  "hfootner-backwoods-princess": [
+   69702,
+   "A backwoods princess"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hfootner-fur-bringers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-two-on-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-woman-from-outside-on-swan-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-huntress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-deaves-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-jack-chanty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-owl-taxi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-ramshackle-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-sealed-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-substitute-millionaire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-thieves-wit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-antennae": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfootner-backwoods-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "footner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
