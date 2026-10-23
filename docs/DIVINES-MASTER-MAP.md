@@ -12238,6 +12238,26 @@ Slugs `guinness-*`. Built from title pages read for round 58.
 | Creation centred in Christ, vol. 1 (London, Hodder & Stoughton, 1896) | have-ocr | IA `creationcentred01guingoog` |
 | History unveiling prophecy : or, Time as an interpreter (New York : F.H. Revell, 1905) | have-ocr | IA `HistoryUnveilingProphecy` |
 | Congo-language scripture epitome; Congo reform pamphlets and books by his children (Not unto Us, Bokwala); uploads without scans | excluded | |
+
+## Mark Guy Pearse (round 58, my pick, 2026-10-23)
+
+Slugs `mgpearse-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Praise : meditations in the one hundred and third Psalm (Cincinnati : Jennings & Pye, 1862) | have-ocr | IA `praisemeditation00pear` |
+| Mister Horn and his friends, or, Givers and giving (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877) | have-ocr | IA `misterhornhisfri00peariala` |
+| Daniel Quorm; and his religious notions (London : Wesleyan Conference Office, 1875) | have-ocr | IA `danielquormhisre00pear` |
+| Sermons for children (Wesleyan-Methodist Sunday School Union, 1876) | have-ocr | IA `sermonsforchild01peargoog` |
+| John Tregenoweth, his mark (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877) | have-ocr | IA `johntregenowethh00pear` |
+| Homely talks (Wesleyan Conference Office, 1880) | have-ocr | IA `homelytalks00peargoog` |
+| Thoughts on Holiness (catalogued 1884) | have-ocr | IA `Thoughts_on_Holiness_by_Mark_Guy_Pearse` |
+| Some aspects of the blessed life (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `someaspectsofbl00pear` |
+| Short talks for the times (Charles H. Kelly, 1889) | have-ocr | IA `shorttalksfortim0000mark` |
+| Parables an pictures (london: charles h. kelly, 1897) | have-ocr | IA `parablespictures0000mark` |
+| The gentleness of jesus (Horace Marshall & Son, 1898) | have-ocr | IA `gentlenessofjesu0000mark` |
+| The god of our pleasures (catalogued 1898) | have-ocr | IA `godofourpleasure0000mark` |
+| Egerton Young's By Canoe and Dog-Train (he only introduced it); the Thompson memoir (another author); a Gaelic tract | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
