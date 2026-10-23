@@ -15171,3 +15171,13 @@ Slugs `parkhurst-*`. Built from title pages read for round 90.
 | The pulpit and the pew : Lyman Beecher lectures delivered 1913, before the Divinity School of Yale University (New Haven, Conn. : Yale University Press, 1913) | have-ocr | IA `pulpitpewlymanbe00parkrich` |
 | My forty years in New York (New York : Macmillan, 1923) | have-ocr | IA `myfortyyearsinne00park` |
 | Analysis of the Latin Verb (philology); many-author books on municipal reform and New York | excluded | |
+
+## Henry Kollock (round 90, my pick, 2026-10-23)
+
+Slugs `kollock-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on various subjects (Savannah : Seymour and Williams, 1811) | have-ocr | IA `sermonsonvarious00koll` |
+| Sermons (London : R.D. Dickinson, 1871) | have-ocr | IA `sermons00kollgoog` |
+| State of New York (1883), by a different Kollock | excluded | |

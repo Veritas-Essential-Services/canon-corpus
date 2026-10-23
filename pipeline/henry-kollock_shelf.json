@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Henry Kollock (1778-1819), Presbyterian minister of the Independent Presbyterian Church, Savannah, for the Word Hoard: Sermons on Various Subjects (Savannah, 1811) and his posthumous Sermons (London, 1871). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry kollock",
+  "h. kollock"
+ ],
+ "_surname": [
+  "henry kollock",
+  "h. kollock",
+  "kollock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kollock-sermons-1811": [
+   "sermonsonvarious00koll",
+   "Sermons on various subjects (Savannah : Seymour and Williams, 1811)"
+  ],
+  "kollock-sermons-1871": [
+   "sermons00kollgoog",
+   "Sermons (London : R.D. Dickinson, 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "kollock-other": "State of New York (1883), by a different Kollock"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kollock-sermons-1811": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry kollock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kollock-sermons-1871": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry kollock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
