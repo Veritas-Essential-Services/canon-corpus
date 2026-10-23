@@ -15372,3 +15372,16 @@ Slugs `gannett-*`. Built from title pages read for round 92.
 | Discourses in memory of Robert Waterston (Boston, 1869) | have-ocr | IA `discoursesinmemo00gann` |
 | valueofnaturalre0000gann: an offprint from a periodical (begins at p. 288) with no author named in the text; the catalogue attributes it to Gannett; needs a cited attribution | pending | not shelved |
 | The Essential Faith of the Universal Church (by James Martineau), Channing's discourse on Joseph Tuckerman, The Christian Examiner (a journal he edited), manuscript letters and occasional addresses | excluded | |
+
+## Basil W. Maturin (round 92, my pick, 2026-10-23)
+
+Slugs `maturin-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| Some principles and practices of the spiritual life (London, Longmans, Green and Co., 1896) | have-ocr | IA `someprinciplespr0000matu` |
+| Practical studies on the parables of Our Lord (London : Longmans, Green, 1903) | have-ocr | IA `practicalstudies00matuuoft` |
+| Laws of the spiritual life (London : Longmans, 1908) | have-ocr | IA `lawsofspirituall00matuuoft` |
+| Self-knowledge and self-discipline (London, New York [etc.] : Longmans, Green and co, 1909) | have-ocr | IA `selfknowledge00matuuoft` |
+| The price of unity (London, New York Longmans, Green and Co., 1912) | have-ocr | IA `priceofunity0000matu` |
+| Sermons and sermon notes (London : Longmans, 1917) | have-ocr | IA `sermonssermonnot00matuuoft` |

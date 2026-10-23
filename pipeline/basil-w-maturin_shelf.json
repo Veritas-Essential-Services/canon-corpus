@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Basil William Maturin (1847-1915), Cowley Father, then Catholic priest and Westminster preacher, lost on the Lusitania, for the Word Hoard: Some Principles and Practices of the Spiritual Life, Practical Studies on the Parables of our Lord, Laws of the Spiritual Life, Self-Knowledge and Self-Discipline, The Price of Unity, and Sermons and Sermon Notes (1917). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 92 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "basil w. maturin",
+  "b. w. maturin",
+  "basil william maturin"
+ ],
+ "_surname": [
+  "basil w. maturin",
+  "b. w. maturin",
+  "basil william maturin",
+  "maturin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maturin-spiritual-life": [
+   "someprinciplespr0000matu",
+   "Some principles and practices of the spiritual life (London, Longmans, Green and Co., 1896)"
+  ],
+  "maturin-parables": [
+   "practicalstudies00matuuoft",
+   "Practical studies on the parables of Our Lord (London : Longmans, Green, 1903)"
+  ],
+  "maturin-laws-spiritual-life": [
+   "lawsofspirituall00matuuoft",
+   "Laws of the spiritual life (London : Longmans, 1908)"
+  ],
+  "maturin-self-knowledge": [
+   "selfknowledge00matuuoft",
+   "Self-knowledge and self-discipline (London, New York [etc.] : Longmans, Green and co, 1909)"
+  ],
+  "maturin-price-of-unity": [
+   "priceofunity0000matu",
+   "The price of unity (London, New York Longmans, Green and Co., 1912)"
+  ],
+  "maturin-sermons-notes": [
+   "sermonssermonnot00matuuoft",
+   "Sermons and sermon notes (London : Longmans, 1917)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maturin-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maturin-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maturin-laws-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maturin-self-knowledge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maturin-price-of-unity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maturin-sermons-notes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. w. maturin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
