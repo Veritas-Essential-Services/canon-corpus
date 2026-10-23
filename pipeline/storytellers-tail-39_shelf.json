@@ -1,0 +1,530 @@
+{
+ "_about": "Storytellers' tail, group 39: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Harriet B. McKeever, Florence McLandburgh, Everett McNeil, A. Garland Mears, Mary M. Mears, William Brown Meloney, Thomas Edward Merchant, Arthur L. Meserve, Augustus Meyers, Richard Michaelis, Jeremiah Marion Mickley, Lydia Miller Middleton, Alfred H. Miles, George H. Miles, Hamish Miles, George Noyes Miller, John Miller, M. E. Miller, James Burt Miner, H. N. Minnigh, Anne M. Mitchell, Edmund Mitchell, John Monash, W. T. Moncrieff, Florence Montgomery, R. S. H. Moody, Lorna Moon, Jane Newell Moore, Julia A. Moore, W. H. Morgan. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 39 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hbmckeever-woodcliff": [
+   "harriet b. mckeever",
+   "harriet burn mckeever",
+   "mckeever"
+  ],
+  "fmclandburgh-automaton-ear-and-other-sketches": [
+   "florence mclandburgh",
+   "mclandburgh"
+  ],
+  "emcneil-cave-of-gold-a-tale-of-california-in-49": [
+   "everett mcneil",
+   "mcneil"
+  ],
+  "agmears-mercia-the-astronomer-royal": [
+   "a. garland mears",
+   "mears"
+  ],
+  "mmmears-bird-in-the-box": [
+   "mary m. mears",
+   "mary martha mears",
+   "mears"
+  ],
+  "wbmeloney-girl-of-the-golden-gate": [
+   "william brown meloney",
+   "meloney"
+  ],
+  "temerchant-eighty-fourth-regiment-pennsylvania-volunteers-in": [
+   "thomas edward merchant",
+   "merchant"
+  ],
+  "almeserve-death-dealer-the-shawnee-scourge": [
+   "arthur l. meserve",
+   "arthur livermore meserve",
+   "meserve"
+  ],
+  "ameyers-ten-years-in-the-ranks-u-s-army": [
+   "augustus meyers",
+   "meyers"
+  ],
+  "rmichaelis-looking-further-forward-an-answer-to-looking-back": [
+   "richard michaelis",
+   "michaelis"
+  ],
+  "jmmickley-forty-third-regiment-united-states-colored-troops": [
+   "jeremiah marion mickley",
+   "mickley"
+  ],
+  "lmmiddleton-happy-adventurers": [
+   "lydia miller middleton",
+   "middleton"
+  ],
+  "ahmiles-fifty-two-stories-of-the-british-navy-from-damme-to": [
+   "alfred h. miles",
+   "alfred henry miles",
+   "miles"
+  ],
+  "ghmiles-truce-of-god": [
+   "george h. miles",
+   "george henry miles",
+   "miles"
+  ],
+  "hmiles-oxford-circus": [
+   "hamish miles",
+   "miles"
+  ],
+  "gnmiller-strike-of-a-sex": [
+   "george noyes miller"
+  ],
+  "jmiller-workingman-s-paradise": [
+   "john miller"
+  ],
+  "memiller-julia-cary-and-her-kitten": [
+   "m. e. miller",
+   "mary esther miller"
+  ],
+  "jbminer-deficiency-and-delinquency": [
+   "james burt miner",
+   "miner"
+  ],
+  "hnminnigh-history-of-company-k-1st-inft-penn-a-reserves": [
+   "h. n. minnigh",
+   "henry n. minnigh",
+   "minnigh"
+  ],
+  "ammitchell-freed-boy-in-alabama": [
+   "anne m. mitchell",
+   "mitchell"
+  ],
+  "emitchell-tales-of-destiny": [
+   "edmund mitchell",
+   "mitchell"
+  ],
+  "jmonash-australian-victories-in-france-in-1918": [
+   "john monash",
+   "monash"
+  ],
+  "wtmoncrieff-true-history-of-tom-jerry-or-the-day-and-night-s": [
+   "w. t. moncrieff",
+   "william thomas moncrieff",
+   "moncrieff"
+  ],
+  "fmontgomery-misunderstood": [
+   "florence montgomery",
+   "montgomery"
+  ],
+  "rshmoody-historical-records-of-the-buffs-east-kent-regiment": [
+   "r. s. h. moody",
+   "richard stanley hawks moody",
+   "moody"
+  ],
+  "lmoon-doorways-in-drumorty": [
+   "lorna moon"
+  ],
+  "jnmoore-outlines-of-lessons-in-botany-part-i": [
+   "jane newell moore"
+  ],
+  "jamoore-sunshine-and-shadow-or-paul-burton-s-surprise": [
+   "julia a. moore"
+  ],
+  "whmorgan-personal-reminiscences-of-the-war-of-1861-5-in-camp": [
+   "w. h. morgan",
+   "william henry morgan",
+   "morgan"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hbmckeever-woodcliff": [
+   76570,
+   "Woodcliff"
+  ],
+  "fmclandburgh-automaton-ear-and-other-sketches": [
+   67476,
+   "The Automaton Ear, and Other Sketches"
+  ],
+  "emcneil-cave-of-gold-a-tale-of-california-in-49": [
+   20126,
+   "The Cave of Gold A Tale of California in '49"
+  ],
+  "agmears-mercia-the-astronomer-royal": [
+   69550,
+   "Mercia, the astronomer royal: A romance"
+  ],
+  "mmmears-bird-in-the-box": [
+   55816,
+   "The Bird in the Box"
+  ],
+  "wbmeloney-girl-of-the-golden-gate": [
+   60124,
+   "The Girl of the Golden Gate"
+  ],
+  "temerchant-eighty-fourth-regiment-pennsylvania-volunteers-in": [
+   46344,
+   "Eighty-fourth Regiment, Pennsylvania Volunteers (Infantry.)"
+  ],
+  "almeserve-death-dealer-the-shawnee-scourge": [
+   66203,
+   "Death-Dealer, the Shawnee Scourge; or The Wizard of the Cliffs"
+  ],
+  "ameyers-ten-years-in-the-ranks-u-s-army": [
+   45949,
+   "Ten years in the ranks, U.S. Army"
+  ],
+  "rmichaelis-looking-further-forward-an-answer-to-looking-back": [
+   59330,
+   "Looking Further Forward An Answer to Looking Backward by Edward Bellamy"
+  ],
+  "jmmickley-forty-third-regiment-united-states-colored-troops": [
+   46181,
+   "The Forty-third regiment United States Colored Troops"
+  ],
+  "lmmiddleton-happy-adventurers": [
+   6901,
+   "The Happy Adventurers"
+  ],
+  "ahmiles-fifty-two-stories-of-the-british-navy-from-damme-to": [
+   40871,
+   "Fifty-two Stories of the British Navy, from Damme to Trafalgar."
+  ],
+  "ghmiles-truce-of-god": [
+   15289,
+   "The truce of God: A tale of the eleventh century"
+  ],
+  "hmiles-oxford-circus": [
+   50358,
+   "The Oxford Circus: A Novel of Oxford and Youth"
+  ],
+  "gnmiller-strike-of-a-sex": [
+   76051,
+   "The strike of a sex"
+  ],
+  "jmiller-workingman-s-paradise": [
+   16366,
+   "The Workingman's Paradise: An Australian Labour Novel"
+  ],
+  "memiller-julia-cary-and-her-kitten": [
+   71668,
+   "Julia Cary and her kitten"
+  ],
+  "jbminer-deficiency-and-delinquency": [
+   52826,
+   "Deficiency and Delinquency: An Interpretation of Mental Testing"
+  ],
+  "hnminnigh-history-of-company-k-1st-inft-penn-a-reserves": [
+   47274,
+   "History of Company K. 1st (Inft,) Penn'a Reserves"
+  ],
+  "ammitchell-freed-boy-in-alabama": [
+   74773,
+   "The freed boy in Alabama"
+  ],
+  "emitchell-tales-of-destiny": [
+   19017,
+   "Tales of Destiny"
+  ],
+  "jmonash-australian-victories-in-france-in-1918": [
+   51163,
+   "The Australian Victories in France in 1918"
+  ],
+  "wtmoncrieff-true-history-of-tom-jerry-or-the-day-and-night-s": [
+   43504,
+   "The True History of Tom & Jerry or, The Day and Night Scenes, of Life in London from the Start to the Finish!"
+  ],
+  "fmontgomery-misunderstood": [
+   55222,
+   "Misunderstood"
+  ],
+  "rshmoody-historical-records-of-the-buffs-east-kent-regiment": [
+   73159,
+   "Historical records of the Buffs, East Kent Regiment (3rd Foot)"
+  ],
+  "lmoon-doorways-in-drumorty": [
+   79252,
+   "Doorways in Drumorty"
+  ],
+  "jnmoore-outlines-of-lessons-in-botany-part-i": [
+   10726,
+   "Outlines of Lessons in Botany, Part I; from Seed to Leaf For the Use of Teachers, or Mothers Studying with Their Children"
+  ],
+  "jamoore-sunshine-and-shadow-or-paul-burton-s-surprise": [
+   71783,
+   "Sunshine and shadow, or, Paul Burton's surprise"
+  ],
+  "whmorgan-personal-reminiscences-of-the-war-of-1861-5-in-camp": [
+   51838,
+   "Personal Reminiscences of the War of 1861-5 In Camp—en Bivouac—on the March—on Picket—on the Skirmish Line—on the Battlefield—and in Prison"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hbmckeever-woodcliff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet b. mckeever",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmclandburgh-automaton-ear-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence mclandburgh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emcneil-cave-of-gold-a-tale-of-california-in-49": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett mcneil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "agmears-mercia-the-astronomer-royal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. garland mears",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmmears-bird-in-the-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary m. mears",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbmeloney-girl-of-the-golden-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william brown meloney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "temerchant-eighty-fourth-regiment-pennsylvania-volunteers-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas edward merchant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "almeserve-death-dealer-the-shawnee-scourge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur l. meserve",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ameyers-ten-years-in-the-ranks-u-s-army": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus meyers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmichaelis-looking-further-forward-an-answer-to-looking-back": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard michaelis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmmickley-forty-third-regiment-united-states-colored-troops": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeremiah marion mickley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmmiddleton-happy-adventurers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lydia miller middleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahmiles-fifty-two-stories-of-the-british-navy-from-damme-to": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred h. miles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghmiles-truce-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. miles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmiles-oxford-circus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hamish miles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gnmiller-strike-of-a-sex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george noyes miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmiller-workingman-s-paradise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "memiller-julia-cary-and-her-kitten": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbminer-deficiency-and-delinquency": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james burt miner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hnminnigh-history-of-company-k-1st-inft-penn-a-reserves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. n. minnigh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ammitchell-freed-boy-in-alabama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne m. mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emitchell-tales-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmonash-australian-victories-in-france-in-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john monash",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wtmoncrieff-true-history-of-tom-jerry-or-the-day-and-night-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmontgomery-misunderstood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rshmoody-historical-records-of-the-buffs-east-kent-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. h. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmoon-doorways-in-drumorty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorna moon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnmoore-outlines-of-lessons-in-botany-part-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane newell moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jamoore-sunshine-and-shadow-or-paul-burton-s-surprise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia a. moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whmorgan-personal-reminiscences-of-the-war-of-1861-5-in-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

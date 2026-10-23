@@ -20876,3 +20876,40 @@ Shelf: `pipeline/storytellers-tail-38_shelf.json` (2026-10-22; added at the coor
 | Overland tales | have | PG 42308, `jcmccrackin-overland-tales` (1524 units) |
 | Officer 666 | have | PG 30228, `amchugh-officer-666` (2506 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 64251 This Finer Shadow (copyright line 1941). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 39 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-39_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Harriet B. McKeever, Florence McLandburgh, Everett McNeil, A. Garland Mears, Mary M. Mears, William Brown Meloney, Thomas Edward Merchant, Arthur L. Meserve, Augustus Meyers, Richard Michaelis, Jeremiah Marion Mickley, Lydia Miller Middleton, Alfred H. Miles, George H. Miles, Hamish Miles, George Noyes Miller, John Miller, M. E. Miller, James Burt Miner, H. N. Minnigh, Anne M. Mitchell, Edmund Mitchell, John Monash, W. T. Moncrieff, Florence Montgomery, R. S. H. Moody, Lorna Moon, Jane Newell Moore, Julia A. Moore, W. H. Morgan. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Woodcliff | have | PG 76570, `hbmckeever-woodcliff` (4222 units) |
+| The Automaton Ear, and Other Sketches | have | PG 67476, `fmclandburgh-automaton-ear-and-other-sketches` (962 units) |
+| The Cave of Gold A Tale of California in '49 | have | PG 20126, `emcneil-cave-of-gold-a-tale-of-california-in-49` (1563 units) |
+| Mercia, the astronomer royal: A romance | have | PG 69550, `agmears-mercia-the-astronomer-royal` (1316 units) |
+| The Bird in the Box | have | PG 55816, `mmmears-bird-in-the-box` (1799 units) |
+| The Girl of the Golden Gate | have | PG 60124, `wbmeloney-girl-of-the-golden-gate` (1529 units) |
+| Eighty-fourth Regiment, Pennsylvania Volunteers (Infantry.) | have | PG 46344, `temerchant-eighty-fourth-regiment-pennsylvania-volunteers-in` (670 units) |
+| Death-Dealer, the Shawnee Scourge; or The Wizard of the Cliffs | have | PG 66203, `almeserve-death-dealer-the-shawnee-scourge` (1048 units) |
+| Ten years in the ranks, U.S. Army | have | PG 45949, `ameyers-ten-years-in-the-ranks-u-s-army` (1064 units) |
+| Looking Further Forward An Answer to Looking Backward by Edward Bellamy | have | PG 59330, `rmichaelis-looking-further-forward-an-answer-to-looking-back` (420 units) |
+| The Forty-third regiment United States Colored Troops | have | PG 46181, `jmmickley-forty-third-regiment-united-states-colored-troops` (144 units) |
+| The Happy Adventurers | have | PG 6901, `lmmiddleton-happy-adventurers` (1378 units) |
+| Fifty-two Stories of the British Navy, from Damme to Trafalgar. | have | PG 40871, `ahmiles-fifty-two-stories-of-the-british-navy-from-damme-to` (979 units) |
+| The truce of God: A tale of the eleventh century | have | PG 15289, `ghmiles-truce-of-god` (975 units) |
+| The Oxford Circus: A Novel of Oxford and Youth | have | PG 50358, `hmiles-oxford-circus` (968 units) |
+| The strike of a sex | have | PG 76051, `gnmiller-strike-of-a-sex` (300 units) |
+| The Workingman's Paradise: An Australian Labour Novel | have | PG 16366, `jmiller-workingman-s-paradise` (1597 units) |
+| Julia Cary and her kitten | have | PG 71668, `memiller-julia-cary-and-her-kitten` (119 units) |
+| Deficiency and Delinquency: An Interpretation of Mental Testing | have | PG 52826, `jbminer-deficiency-and-delinquency` (1189 units) |
+| History of Company K. 1st (Inft,) Penn'a Reserves | have | PG 47274, `hnminnigh-history-of-company-k-1st-inft-penn-a-reserves` (560 units) |
+| The freed boy in Alabama | have | PG 74773, `ammitchell-freed-boy-in-alabama` (453 units) |
+| Tales of Destiny | have | PG 19017, `emitchell-tales-of-destiny` (914 units) |
+| The Australian Victories in France in 1918 | have | PG 51163, `jmonash-australian-victories-in-france-in-1918` (2088 units) |
+| The True History of Tom & Jerry or, The Day and Night Scenes, of Life in London from the Start to the Finish! | have | PG 43504, `wtmoncrieff-true-history-of-tom-jerry-or-the-day-and-night-s` (2286 units) |
+| Misunderstood | have | PG 55222, `fmontgomery-misunderstood` (1510 units) |
+| Historical records of the Buffs, East Kent Regiment (3rd Foot) | have | PG 73159, `rshmoody-historical-records-of-the-buffs-east-kent-regiment` (1735 units) |
+| Doorways in Drumorty | have | PG 79252, `lmoon-doorways-in-drumorty` (519 units) |
+| Outlines of Lessons in Botany, Part I; from Seed to Leaf For the Use of Teachers, or Mothers Studying with Their Children | have | PG 10726, `jnmoore-outlines-of-lessons-in-botany-part-i` (523 units) |
+| Sunshine and shadow, or, Paul Burton's surprise | have | PG 71783, `jamoore-sunshine-and-shadow-or-paul-burton-s-surprise` (480 units) |
+| Personal Reminiscences of the War of 1861-5 In Camp—en Bivouac—on the March—on Picket—on the Skirmish Line—on the Battlefield—and in Prison | have | PG 51838, `whmorgan-personal-reminiscences-of-the-war-of-1861-5-in-camp` (1327 units) |
