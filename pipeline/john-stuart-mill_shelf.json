@@ -42,6 +42,14 @@
   "mill-contest-in-america-1862": [
    5123,
    "The Contest in America, reprinted from Fraser's Magazine (1862; the etext names no printing)"
+  ],
+  "mill-system-of-logic-7th-1-pg": [
+   35420,
+   "A System of Logic, 7th ed., vol. I"
+  ],
+  "mill-system-of-logic-7th-2-pg": [
+   35421,
+   "A System of Logic, 7th ed., vol. II"
   ]
  },
  "internet_archive": {
@@ -66,7 +74,7 @@
  "_checks": {
   "mill-system-of-logic-1882": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -75,7 +83,7 @@
   },
   "mill-representative-government": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -84,7 +92,7 @@
   },
   "mill-autobiography": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -93,7 +101,7 @@
   },
   "mill-unsettled-questions-1844": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -102,7 +110,7 @@
   },
   "mill-subjection-of-women-1869": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -111,7 +119,7 @@
   },
   "mill-socialism-1879": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -120,7 +128,7 @@
   },
   "mill-auguste-comte-positivism-1865": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -129,7 +137,25 @@
   },
   "mill-contest-in-america-1862": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-system-of-logic-7th-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mill-system-of-logic-7th-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -138,7 +164,7 @@
   },
   "mill-examination-of-hamilton-1865-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -149,7 +175,7 @@
   },
   "mill-examination-of-hamilton-1865-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -160,7 +186,7 @@
   },
   "mill-three-essays-on-religion-1874": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
@@ -171,7 +197,7 @@
   },
   "mill-principles-of-political-economy-1900": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mill",
    "identity": "ok",
