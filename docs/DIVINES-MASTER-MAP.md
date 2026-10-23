@@ -16112,6 +16112,23 @@ Slugs `berington-*`. Built from title pages read for round 99.
 | History of the Reign of Henry the Second (secular history) | excluded | |
 | Memoirs of Gregorio Panzani (Panzani's memoir, which Berington translated) | excluded | |
 | The Faith of Catholics (1813, written with John Kirk) | excluded | |
+
+## Isaac Hellmuth (round 99, my pick, 2026-10-23)
+
+Slugs `hellmuth-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A reply to a letter of the Rt. Rev. the Lord Bishop of Montreal, and Metropolitan of Canada : addressed to the bishops and clergy of the United Church of England and Ireland in Canada / by I. Hellmuth. To which is appended "The letter" of the Lord Bishop of Montreal ([Quebec? : s.n.], 1862) | have-ocr | IA `cihm_35389` |
+| Reply to a second letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland inCanada...to which is appended "The second letter" of the Lord Bishop of Montreal (Quebec, Canada Gazette off., 1862) | have-ocr | IA `replytosecondlet00hell` |
+| Reply to a third letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland in Canada...to which is appended "the third letter" of the Lord Bishop of Montreal (Quebec, Middleton; Montreal, Lovell, 1862) | have-ocr | IA `replytothirdlett00hell` |
+| "Justification by faith" : a sermon preached on Sunday morning, Jan. 24th, 1864, in St. Paul's Cathedral, London, C. W ([London, Ont.? : s.n.], 1864) | have-ocr | IA `cihm_63549` |
+| The divine dispensations and their gradual development : eight discourses preached in Huron College Chapel during Michaelmas term, 1865 (London : J. Nisbet ; Toronto : J. Campbell, 1866) | have-ocr | IA `divinedispensati00helluoft` |
+| In the Shadow (catalogued 1870) | have-ocr | IA `inshadow00hellgoog` |
+| The primary address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron : delivered before the Synod of the Diocese, in the "Bishop Cronyn Hall," London, Ont., June 5, 1872 ([London, Ont.? : s.n.], 1872) | have-ocr | IA `chim_06983` |
+| The annual address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron, delivered before the synod of the diocese, in "Bishop Cronyn Hall," London, Ont., June 4, 1873 ([London, Ont.? : s.n.], 1873) | have-ocr | IA `cihm_13185` |
+| Hellmuth College prospectuses, programmes and concert bills (ephemera) | excluded | |
+| The Doctrine and Practice of Indulgences (a two-sided controversy) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
