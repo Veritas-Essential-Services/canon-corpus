@@ -13521,6 +13521,26 @@ Slugs `gordon-*`. Built from title pages read for round 72.
 | Quiet talks about simple essentials and the present world outlook (New York : F.H. Revell, 1924) | have-ocr | IA `quiettalksabouts0000gord` |
 | Quiet talks about the healing Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1924) | have-ocr | IA `quiettalksabouth00gord` |
 | Quiet Talks on How to Pray (New York: Fleming H. Revell, copyright 1929) | have-ocr | IA `quiettalksonhowt0000gord` |
+
+## G. H. Morrison (round 72, my pick, 2026-10-23)
+
+Slugs `morrison-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Sun-rise : addresses from a city pulpit (New York : Hodder and Stoughton, 1903) | have-ocr | IA `sunriseaddresses00morr` |
+| The footsteps of the flock : scripture studies for every Sunday of the year (London : Hodder and Stoughton, 1904) | have-ocr | IA `footstepsofflock0000morr` |
+| The wings of the morning : addresses from a Glasgow pulpit (A.C. Armstrong and Son, 1907) | have-ocr | IA `wingsofmorningad00morr` |
+| The return of the angels : Sunday evenings in a Glasgow pulpit (London : Hodder and Stoughton, 1909) | have-ocr | IA `returnoftheangel00morruoft` |
+| Flood-tide : Sunday evenings in a city pulpit (London : Hodder and Stoughton, 1910) | have-ocr | IA `floodtidesundaye00morr` |
+| The Unlighted Lustre: addresses from a Glasgow pulpit (New York and London: Hodder and Stoughton; undated, catalogued as 191-) | have-ocr | IA `unlightedlustrea0000morr` |
+| The Afterglow of God: Sunday evenings in a Glasgow pulpit (London: Hodder and Stoughton, 1912) | have-ocr | IA `afterglowgodsun00morrgoog` |
+| The weaving of glory : Sunday evening addresses from a city pulpit (London : Hodder & Stoughton, 1913) | have-ocr | IA `weavingofglorysu0000morr` |
+| The wind on the heath : Sunday evening addresses from a Glasgow pulpit (London : Hodder and Soughton, 1916) | have-ocr | IA `windonheathsunda0000morr` |
+| The significance of the cross : a New Testament study (New York : George H. Doran, 1924) | have-ocr | IA `significanceofcr0000morr` |
+| Highways of the heart : a series of addresses (New York : Doran, 1926) | have-ocr | IA `highwaysofhearts0000morr` |
+| The Ever Open Door (London: Hodder and Stoughton, first published March 1929): the only scan found (everopendoor0000morr) is a reprint of October 1930 or later, so it breaks this shelf's 'printed before 1930' line; the text itself is the 1929 one. Held for Adam | pending | not shelved |
+| The Restfulness of Christ and the Unseen Vision (1912), a 42-page pamphlet of two addresses | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
