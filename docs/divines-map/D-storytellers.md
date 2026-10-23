@@ -16154,3 +16154,19 @@ Shelf: `pipeline/tc-harbaugh_shelf.json` (2026-10-22; added at the coordinator's
 | The Yellow Hunter; or, The Winding Trail of Death | have | PG 67958, `tcharbaugh-yellow-hunter` (1056 units) |
 | The Girl Avenger; or, The Beautiful Terror of the Maumee | have | PG 68016, `tcharbaugh-girl-avenger` (927 units) |
 | The squaw spy; or the rangers of the lava-beds | have | PG 68102, `tcharbaugh-squaw-spy` (1344 units) |
+
+## Elizabeth Gordon
+
+Shelf: `pipeline/elizabeth-gordon_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and verse for young children. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Flower Children: The Little Cousins of the Field and Garden | have | PG 46934, `egordon-flower-children` (184 units) |
+| Mother Earth's Children: The Frolics of the Fruits and Vegetables | have | PG 47252, `egordon-mother-earths-children` (376 units) |
+| Bird Children: The Little Playmates of the Flower Children | have | PG 47293, `egordon-bird-children` (373 units) |
+| A Sheaf of Roses | have | PG 48215, `egordon-sheaf-of-roses` (64 units) |
+| Buddy Jim | have | PG 50553, `egordon-buddy-jim` (582 units) |
+| Dolly and Molly and the Farmer Man | have | PG 50862, `egordon-dolly-and-molly-and-the-farmer-man` (62 units) |
+| What We Saw at Madame World's Fair Being a Series of Letters from the Twins at the Panama-Pacific International Exposition to Their Cousins at Home | have | PG 51599, `egordon-what-we-saw-at-madame-worlds-fair-being-a-series-of` (366 units) |
+| Watermelon Pete and Others | have | PG 52828, `egordon-watermelon-pete-and-others` (149 units) |
+| Really so stories | have | PG 68902, `egordon-really-so-stories` (583 units) |
