@@ -14256,3 +14256,25 @@ Shelf: `pipeline/helen-hunt-jackson_shelf.json` (2026-10-22; added at the coordi
 | A Century of Dishonor A Sketch of the United States Government's Dealings with Some of the Indian Tribes | have | PG 50560, `hhjackson-century-of-dishonor-a-sketch-of-the-united-states` (1930 units) |
 | Zeph | have | PG 78249, `hhjackson-zeph` (693 units) |
 | repeat-editions | excluded | PG 29699: second Gutenberg editions of titles already on the shelf. |
+
+## Julian Hawthorne
+
+Shelf: `pipeline/julian-hawthorne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Golden Fleece: A Romance | have | PG 1614, `jhawthorne-golden-fleece` (587 units) |
+| Hawthorne and His Circle | have | PG 6982, `jhawthorne-hawthorne-and-his-circle` (393 units) |
+| David Poindexter's Disappearance, and Other Tales | have | PG 7057, `jhawthorne-david-poindexters-disappearance-and-other-tales` (514 units) |
+| The History of the United States from 1492 to 1910, Volume 1 From Discovery of America October 12, 1492 to Battle of Lexington April 19, 1775 | have | PG 7131, `jhawthorne-history-of-the-united-states-from-1492-to-1910-vo` (592 units) |
+| Archibald Malmaison | have | PG 7344, `jhawthorne-archibald-malmaison` (450 units) |
+| Confessions and Criticisms | have | PG 7431, `jhawthorne-confessions-and-criticisms` (199 units) |
+| The Subterranean Brotherhood | have | PG 8406, `jhawthorne-subterranean-brotherhood` (601 units) |
+| Bressant: A Novel | have | PG 15596, `jhawthorne-bressant` (1422 units) |
+| Idolatry: A Romance | have | PG 16283, `jhawthorne-idolatry` (1223 units) |
+| Yellow-Cap and Other Fairy-Stories For Children | have | PG 31795, `jhawthorne-yellow-cap-and-other-fairy-stories-for-children` (1212 units) |
+| The Laughing Mill, and Other Stories | have | PG 41592, `jhawthorne-laughing-mill-and-other-stories` (1087 units) |
+| Dust: A Novel | have | PG 47905, `jhawthorne-dust` (2117 units) |
+| Rumpty-Dudget's Tower: A Fairy Tale | have | PG 62408, `jhawthorne-rumpty-dudgets-tower` (191 units) |
+| The Cosmic Courtship | have | PG 66349, `jhawthorne-cosmic-courtship` (1108 units) |
+| Ellice Quentin, and other stories | have | PG 76710, `jhawthorne-ellice-quentin-and-other-stories` (1488 units) |

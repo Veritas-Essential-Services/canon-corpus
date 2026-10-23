@@ -1859,3 +1859,6 @@
 
 ## 2026-10-22 22:24 CDT — helen-hunt-jackson: done
 - helen-hunt-jackson: new shelf, 14 Gutenberg books, 14,725 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — julian-hawthorne: done
+- julian-hawthorne: new shelf, 15 Gutenberg books, 13,184 units, 616 ~2 ids; verify 0 mismatches, 0 rights flags.
