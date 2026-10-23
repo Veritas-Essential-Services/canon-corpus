@@ -1486,7 +1486,7 @@ Round 20 (2026-10-10), vetoable. Her half of Pelle is on bernard-miall. Not conv
 ## Sir Lascelles Wraxall (Aimard's frontier tales; the 1862 Les Misérables)
 
 Shelf: `pipeline/wraxall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wraxall` · titles `python3 pipeline/split_shelf_titles.py wraxall`.
-Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 20 (2026-10-10), vetoable. Round 135 added four archive.org books (Esquiros x2, Recollections of Russia, Schamyl). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1513,6 +1513,10 @@ Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `wraxall-hugo-les-miserables-v-3-5-marius` | Victor Hugo | Les Misérables, v. 3/5: Marius | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48733 |
 | `wraxall-hugo-les-miserables-v-4-5-the-idyll-and-the-e` | Victor Hugo | Les Misérables, v. 4/5: The Idyll and the Epic | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48734 |
 | `wraxall-hugo-les-miserables-v-5-5-jean-valjean` | Victor Hugo | Les Misérables, v. 5/5: Jean Valjean | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48735 |
+| `wraxall-esquiros-the-dutch-at-home-vol-1` | Alphonse Esquiros | The Dutch at Home, vol. 1 of 2 | Lascelles Wraxall | 1861 | have-raw | IA `india.history.resource.74225` |
+| `wraxall-esquiros-the-dutch-at-home-vol-2` | Alphonse Esquiros | The Dutch at Home, vol. 2 of 2 | Lascelles Wraxall | 1861 | have-raw | IA `india.history.resource.74213` |
+| `wraxall-recollections-of-russia` | a German nobleman (Kolb) | Recollections of Russia during Thirty-three Years' Residence | Lascelles Wraxall | 1855 | have-raw | IA `recollectionsofr08kolbuoft` |
+| `wraxall-wagner-bodenstedt-schamyl` | F. Wagner and F. Bodenstedt | Schamyl, the Sultan, Warrior and Prophet of the Caucasus | Lascelles Wraxall | 1854 | have-raw | IA `schamylsultanwar00wrax` |
 
 ## Ernest Dowson (Les liaisons dangereuses; Balzac)
 
@@ -1778,7 +1782,7 @@ Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Round 126 a
 ## Daniel De Leon (Sue's Mysteries of the People; Bebel)
 
 Shelf: `pipeline/de-leon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py de-leon` · titles `python3 pipeline/split_shelf_titles.py de-leon`.
-Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Round 135 added Kautsky's The Working Class. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1801,6 +1805,7 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `de-leon-sue-the-poniard-s-hilt-or-karadeucq-and-rona` | Eugène Sue | The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 31782 |
 | `de-leon-sue-the-silver-cross-or-the-carpenter-of-naz` | Eugène Sue | The Silver Cross; Or, The Carpenter of Nazareth | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 32743 |
 | `de-leon-sue-the-sword-of-honor-or-the-foundation-of` | Eugène Sue | The Sword of Honor; or, The Foundation of the French Republic | Daniel De Leon (with Solon De Leon) | 1904-1911 (see the Gutenberg header) | have | PG 35633 |
+| `de-leon-kautsky-the-working-class` | Karl Kautsky | The Working Class (The Proletariat), translated and adapted to America | Daniel De Leon | 1900 | have-raw | IA `workingclassthep00kaut` |
 
 ## George P. Upton (McClurg's Life Stories for Young People; Nohl's composer lives)
 
@@ -2063,7 +2068,7 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Joseph McCabe (Haeckel, Voltaire, Ferrer)
 
 Shelf: `pipeline/mccabe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mccabe` · titles `python3 pipeline/split_shelf_titles.py mccabe`.
-Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 24 (2026-10-10), vetoable. Round 135 added Guenther and Eucken. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2076,6 +2081,8 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `mccabe-haeckel-the-wonders-of-life-a-popular-study-of-b` | Ernst Haeckel | The Wonders of Life: A Popular Study of Biological Philosophy | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 46652 |
 | `mccabe-nordmann-einstein-and-the-universe-a-popular-expo` | Charles Nordmann | Einstein and the universe: A popular exposition of the famous theory | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 68462 |
 | `mccabe-voltaire-toleration-and-other-essays` | Voltaire | Toleration and other essays | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 64858 |
+| `mccabe-guenther-darwinism-and-the-problems-of-life` | Konrad Guenther | Darwinism and the Problems of Life | Joseph McCabe | 1906 | have-raw | IA `cu31924003052598` |
+| `mccabe-eucken-his-life-work-and-travels` | Rudolf Eucken | Rudolf Eucken: His Life, Work and Travels, by Himself | Joseph McCabe | 1921 | have-raw | IA `rudolfeuckenhisl00euckiala` |
 
 ## R. Farquharson Sharp (Ibsen and Bjørnson for Everyman)
 
@@ -4087,7 +4094,7 @@ Round 34 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Rasmus B. Anderson (Bjørnson; Rydberg's Teutonic Mythology, 3 vols; Brandes; Lumholtz)
 
 Shelf: `pipeline/rasmus-anderson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rasmus-anderson` · titles `python3 pipeline/split_shelf_titles.py rasmus-anderson`.
-Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 35 (2026-10-10), vetoable. Round 135 added three Bjørnson volumes (Bickers, 1884). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -4099,6 +4106,9 @@ Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rasmus-anderson-rydberg-teutonic-mythology-vol-1` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 1 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 37876 |
 | `rasmus-anderson-rydberg-teutonic-mythology-vol-2` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 2 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 58829 |
 | `rasmus-anderson-rydberg-teutonic-mythology-vol-3` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 3 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 58830 |
+| `rasmus-anderson-bjornson-synnove-solbakken` | Bjørnstjerne Bjørnson | Synnøve Solbakken | Rasmus B. Anderson | 1881 | have-raw | IA `synnvesolbakken00bjgoog` |
+| `rasmus-anderson-bjornson-the-bridal-march-and-other-stories` | Bjørnstjerne Bjørnson | The Bridal March, and Other Stories | Rasmus B. Anderson | 1882 | have-raw | IA `bridalmarchando00bjgoog` |
+| `rasmus-anderson-bjornson-the-fisher-maiden` | Bjørnstjerne Bjørnson | The Fisher Maiden | Rasmus B. Anderson | 1882 | have-raw | IA `fishermaiden00bj` |
 
 ## William Archer beyond Ibsen (Nansen's Eskimo Life; Kielland)
 
