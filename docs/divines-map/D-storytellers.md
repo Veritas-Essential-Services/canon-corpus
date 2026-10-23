@@ -21172,3 +21172,40 @@ Shelf: `pipeline/storytellers-tail-46_shelf.json` (2026-10-22; added at the coor
 | The Magician's Show Box, and Other Stories | have | PG 8415, `cstappan-magician-s-show-box-and-other-stories` (696 units) |
 | The Initials: A Story of Modern Life | have | PG 58908, `jmtautphoeus-initials` (4807 units) |
 | The Sequel What the Great War will mean to Australia | have | PG 27382, `gataylor-sequel-what-the-great-war-will-mean-to-australia` (945 units) |
+
+## Storytellers' tail, group 47 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-47_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Susie King Taylor, William Alexander Taylor, Crona Temple, Hallam Tennyson Tennyson, J. Newton Terrill, Hampton Sidney Thomas, John W. Thomason, William Henry Thomes, Adele E. Thompson, Charles Miner Thompson, H. Alfarata Chapman Thompson, Seymour D. Thompson, Lucy M. Thruston, Václav Tille, Mary Agnes Tincker, M. B. M. Toland, Marcus B. Toney, L. Frank Tooker, Albion Winegar Tourgée, Mary Ashley Townsend, Patrick Traherne, Katrina Trask, Robert Tressell, Melvin E. Trotter, L. S. Trowbridge, John Preston True, Joaquín Telesforo de Trueba y Cosío, H. Trusta, Charles Tubbs, St. George Tucker. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Reminiscences of my life in camp with the 33d United States colored troops, late 1st S. C. Volunteers | have | PG 73499, `sktaylor-reminiscences-of-my-life-in-camp-with-the-33d-unite` (204 units) |
+| Intermere | have | PG 53193, `wataylor-intermere` (439 units) |
+| The Glorious Return: A Story of the Vaudois in 1689 | have | PG 50122, `ctemple-glorious-return` (525 units) |
+| Jack and the Bean-Stalk: English Hexameters | have | PG 45288, `httennyson-jack-and-the-bean-stalk` (347 units) |
+| Campaign of the Fourteenth Regiment New Jersey Volunteers | have | PG 37550, `jnterrill-campaign-of-the-fourteenth-regiment-new-jersey-vol` (221 units) |
+| Some Personal Reminiscences of Service in the Cavalry of the Army of the Potomac | have | PG 32650, `hsthomas-some-personal-reminiscences-of-service-in-the-caval` (81 units) |
+| Fix bayonets! | have | PG 75092, `jwthomason-fix-bayonets` (616 units) |
+| The Gold Hunters' Adventures; Or, Life in Australia | have | PG 16050, `whthomes-gold-hunters-adventures` (7533 units) |
+| Nobody's Rose | have | PG 72011, `aethompson-nobody-s-rose` (905 units) |
+| The Calico Cat | have | PG 20010, `cmthompson-calico-cat` (625 units) |
+| Idealia, a Utopian Dream; or, Resthaven | have | PG 67641, `hacthompson-idealia-a-utopian-dream` (194 units) |
+| Recollections with the Third Iowa Regiment | have | PG 47795, `sdthompson-recollections-with-the-third-iowa-regiment` (819 units) |
+| A Girl of Virginia | have | PG 54439, `lmthruston-girl-of-virginia` (1508 units) |
+| Little Tom | have | PG 35126, `vtille-little-tom` (503 units) |
+| San Salvador | have | PG 69594, `matincker-san-salvador` (1795 units) |
+| Ægle and the elf, a fantasy | have | PG 69842, `mbmtoland-gle-and-the-elf-a-fantasy` (66 units) |
+| The privations of a private | have | PG 78204, `mbtoney-privations-of-a-private` (267 units) |
+| Under Rocking Skies | have | PG 55721, `lftooker-under-rocking-skies` (1171 units) |
+| Bricks Without Straw: A Novel | have | PG 6058, `awtourgee-bricks-without-straw` (2517 units) |
+| The brother clerks | have | PG 18958, `matownsend-brother-clerks` (2454 units) |
+| A Schoolmaster's Diary Being Extracts from the Journal of Patrick Traherne, M.A., Sometime Assistant Master at Radchester and Marlton. | have | PG 51633, `ptraherne-schoolmaster-s-diary-being-extracts-from-the-journ` (803 units) |
+| Under King Constantine | have | PG 10495, `ktrask-under-king-constantine` (245 units) |
+| The Ragged Trousered Philanthropists | have | PG 3608, `rtressell-ragged-trousered-philanthropists` (4549 units) |
+| Jimmie Moore of Bucktown | have | PG 35359, `metrotter-jimmie-moore-of-bucktown` (678 units) |
+| A brief history of the Tenth Michigan Cavalry | have | PG 76434, `lstrowbridge-brief-history-of-the-tenth-michigan-cavalry` (160 units) |
+| The Iron Star — And What It Saw on Its Journey Through the Ages From Myth to History | have | PG 6030, `jptrue-iron-star-and-what-it-saw-on-its-journey-through-the` (396 units) |
+| Gómez Arias Or, The Moors of the Alpujarras, A Spanish Historical Romance. | have | PG 29916, `jtdtruebaycosi-gomez-arias-or-the-moors-of-the-alpujarras-a` (2312 units) |
+| The Angel Over the Right Shoulder; Or, The Beginning of a New Year | have | PG 11033, `htrusta-angel-over-the-right-shoulder` (75 units) |
+| The Wyoming Military Establishment. A History of the Twenty-fourth Regiment of Connecticut Militia An Address Before the Tioga Point Historical Society, Delivered December 3rd, 1901 | have | PG 60361, `ctubbs-wyoming-military-establishment-a-history-of-the-twent` (260 units) |
+| Hansford: A Tale of Bacon's Rebellion | have | PG 31866, `sgtucker-hansford` (1705 units) |
