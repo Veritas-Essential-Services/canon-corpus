@@ -13264,6 +13264,8 @@ Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gu
 | The Origin of Metallic Currency and Weight Standards |  | `ridgeway-metallic-currency` | have (PG 66160) |
 | The Early Age of Greece, vol. I (Cambridge: University Press, 1901) |  | `ridgeway-early-age-greece-v1-1901` | have-raw (IA `earlyageofgreece0001will`) |
 | The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910) |  | `ridgeway-origin-tragedy-1910` | have-raw (IA `cu31924022692853`) |
+| Who were the Romans? by William Ridgeway, read 24 April 1907, from the Proceedings of the British Academy vol. III (London: published for the British Academy by Henry Frowde, Oxford University Press) |  | `ridgeway-who-were-the-romans-1907` | have-raw (IA `whowereromans00ridggoog`) |
+| The Dramas and Dramatic Dances of Non-European Races, in special reference to the origin of Greek tragedy, by William Ridgeway (Cambridge: University Press, 1915) |  | `ridgeway-dramas-dramatic-dances-1915` | have-raw (IA `dramasdramaticda00ridguoft`) |
 
 ## T. Rice Holmes (scholarship)
 
