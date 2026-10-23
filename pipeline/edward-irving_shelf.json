@@ -1,0 +1,176 @@
+{
+ "_about": "Public-domain Edward Irving (1792-1834), Scottish minister of the National Scotch Church, Regent Square, London, for the Word Hoard: For the Oracles of God (1824), For Missionaries after the Apostolical School (1825), Sermons, Lectures and Occasional Discourses (1828), The Last Days (1828), The Church and State Responsible to Christ (1829) and The Collected Writings (ed. G. Carlyle, 1864-65, five volumes). Washington Irving, on the irving shelf, is another man. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "irving"
+ ],
+ "_surname": [
+  "edward irving",
+  "e. irving",
+  "rev. edward irving"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eirving-oracles-of-god": [
+   "fororaclesofgodf00irvi",
+   "For the oracles of God, four orations : for judgment to come, an argument, in nine parts (Philadelphia : A. Sherman, 1824)"
+  ],
+  "eirving-for-missionaries": [
+   "formissionariesa00irvi",
+   "For missionaries after the apostolical school : a series of orations (New York : E. Bliss & E. White, 1825)"
+  ],
+  "eirving-sermons-lectures-1": [
+   "sermonslectures00irvigoog",
+   "Sermons, lectures, and occasional discourses, vol. 1 (London : R.B. Seeley and W. Burnside, 1828)"
+  ],
+  "eirving-last-days": [
+   "lastdaysdiscours00irviuoft",
+   "The last days: a discourse on the evil character of these our times, proving them to be the \"Perilous times\" of the \"Last days\" (London, Seeley, 1828)"
+  ],
+  "eirving-church-and-state": [
+   "churchstaterespo00irviuoft",
+   "The Church and state responsible to Christ, and to one another; a series of discourses on Daniel's vision of the four beasts (London, Nisbet, 1829)"
+  ],
+  "eirving-collected-writings-1": [
+   "collectedwriting01irvi",
+   "The collected writings of Edward Irving, vol. 1 (London ; New York : A. Strahan, 1866)"
+  ],
+  "eirving-collected-writings-2": [
+   "collectedwriting02irvi",
+   "The collected writings of Edward Irving, vol. 2 (London ; New York : A. Strahan, 1866)"
+  ],
+  "eirving-collected-writings-3": [
+   "collectedwriting03irvi",
+   "The collected writings of Edward Irving, vol. 3 (London ; New York : A. Strahan, 1866)"
+  ],
+  "eirving-collected-writings-4": [
+   "collectedwriting04irvi",
+   "The collected writings of Edward Irving, vol. 4 (London ; New York : A. Strahan, 1866)"
+  ],
+  "eirving-collected-writings-5": [
+   "collectedwriting05irvi",
+   "The collected writings of Edward Irving, vol. 5 (London ; New York : A. Strahan, 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "eirving-other": "The trial before the Presbytery of London (proceedings compiled by others); histories of Irvingism and the Catholic Apostolic Church by others; Mrs Oliphant's Life of Edward Irving"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "eirving-oracles-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eirving-for-missionaries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eirving-sermons-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eirving-last-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eirving-church-and-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eirving-collected-writings-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eirving-collected-writings-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eirving-collected-writings-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eirving-collected-writings-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eirving-collected-writings-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward irving",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

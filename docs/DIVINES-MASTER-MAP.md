@@ -12322,6 +12322,24 @@ Slugs `hmcneile-*`. Built from title pages read for round 58.
 | A lecture on the life of Dr. Franklin (New York : Henderson Greene ; Philadelphia : Carey and Hart, 1841) | have-ocr | IA `lectureonlifeofd00mcne` |
 | The Church and the churches : The Church of God in Christ, and the churches of Christ militant here on earth (London : J. Hatchard, 1846) | have-ocr | IA `churchchurchesch00mcne` |
 | A. H. McNeile (1871-1933): his Ecclesiastes, Exodus and Numbers commentaries (1904-1911); letters to and about him by others; the Jezebel speech volume (miscatalogued compilation) | excluded | |
+
+## Edward Irving (round 59, my pick, 2026-10-23)
+
+Slugs `eirving-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| For the oracles of God, four orations : for judgment to come, an argument, in nine parts (Philadelphia : A. Sherman, 1824) | have-ocr | IA `fororaclesofgodf00irvi` |
+| For missionaries after the apostolical school : a series of orations (New York : E. Bliss & E. White, 1825) | have-ocr | IA `formissionariesa00irvi` |
+| Sermons, lectures, and occasional discourses, vol. 1 (London : R.B. Seeley and W. Burnside, 1828) | have-ocr | IA `sermonslectures00irvigoog` |
+| The last days: a discourse on the evil character of these our times, proving them to be the "Perilous times" of the "Last days" (London, Seeley, 1828) | have-ocr | IA `lastdaysdiscours00irviuoft` |
+| The Church and state responsible to Christ, and to one another; a series of discourses on Daniel's vision of the four beasts (London, Nisbet, 1829) | have-ocr | IA `churchstaterespo00irviuoft` |
+| The collected writings of Edward Irving, vol. 1 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting01irvi` |
+| The collected writings of Edward Irving, vol. 2 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting02irvi` |
+| The collected writings of Edward Irving, vol. 3 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting03irvi` |
+| The collected writings of Edward Irving, vol. 4 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting04irvi` |
+| The collected writings of Edward Irving, vol. 5 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting05irvi` |
+| The trial before the Presbytery of London (proceedings compiled by others); histories of Irvingism and the Catholic Apostolic Church by others; Mrs Oliphant's Life of Edward Irving | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
