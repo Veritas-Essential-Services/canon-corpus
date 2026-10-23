@@ -1,0 +1,273 @@
+{
+ "_about": "Public-domain Michael Ferrebee Sadler (1819-1895), Anglican prebendary and commentator, for the Word Hoard: The Second Adam and the New Birth, Emmanuel, The Church Teacher's Manual, The Communicant's Manual, The Lost Gospel, Church Doctrine Bible Truth, and his commentaries on the Gospels, Romans, Corinthians, the Pauline epistles, Hebrews, the General Epistles and the Revelation. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 84 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "m. f. sadler",
+  "michael ferrebee sadler",
+  "m.f. sadler"
+ ],
+ "_surname": [
+  "m. f. sadler",
+  "michael ferrebee sadler",
+  "m.f. sadler",
+  "sadler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sadler-second-adam": [
+   "secondadamnewbir00sadl",
+   "The second Adam and the new birth : or, The doctrine of baptism as contained in Holy Scripture (London : Bell & Daldy, 1867)"
+  ],
+  "sadler-emmanuel": [
+   "emmanuelorincarn00sadl",
+   "Emmanuel : or, The incarnation of the Son of God the foundation of immutable truth (London : Bell and Daldy, 1867)"
+  ],
+  "sadler-church-teacher": [
+   "churchteachersma00sadlrich",
+   "churchteachersma00sadlrich (catalogued )"
+  ],
+  "sadler-communicant": [
+   "communicantsmanu00sadluoft",
+   "The communicant's manual (London : George Bell and Sons, 1874)"
+  ],
+  "sadler-lost-gospel": [
+   "lostgospelitscon00sadl",
+   "The lost Gospel and its contents : or, The author of \"Supernatural religion\" refuted by himself (London : G. Bell, 1876)"
+  ],
+  "sadler-church-doctrine": [
+   "churchdoctrinebi00sadl_0",
+   "Church doctrine, Bible truth (London : G. Bell and Sons, 1888)"
+  ],
+  "sadler-matthew": [
+   "gospelaccordingt0000sadl",
+   "The gospel according to St. Matthew (New York : James Pott, 1885)"
+  ],
+  "sadler-mark": [
+   "gospelaccordingt00sadl",
+   "The Gospel according to St. Mark : with notes critical and practical (London : G. Bell, 1892)"
+  ],
+  "sadler-luke": [
+   "MN41511ucmf_0",
+   "The gospel according to St. Luke : with notes critical and practical (New York : James Pott, 1890)"
+  ],
+  "sadler-john": [
+   "gospelaccordin00sadl",
+   "The Gospel according to St. John : with notes critical and practical (London : G. Bell, 1899)"
+  ],
+  "sadler-romans": [
+   "theepistletother00sadluoft",
+   "The Epistle to the Romans : with notes critical and practical (London : George Bell and Sons, 1888)"
+  ],
+  "sadler-corinthians": [
+   "firstsecondepist00sadl",
+   "The First and Second epistles to the Corinthians : with notes critical and practical (London : G. Bell, 1898)"
+  ],
+  "sadler-gal-eph-phil": [
+   "epistlesofstp00sadl",
+   "The Epistles of St. Paul to the Galatians, Ephesians and Philippians : with notes critical and practical (London : G. Bell, 1898)"
+  ],
+  "sadler-col-thess-tim": [
+   "epistlesofstpaul00sadl",
+   "The Epistles of St. Paul to the Colossians, Thessalonians and Timothy : with notes critical and practical (London : G. Bell, 1898)"
+  ],
+  "sadler-titus-hebrews": [
+   "epistlesofstpaultotitus00sadl",
+   "The Epistles of St. Paul to Titus, Philemon and the Hebrews : with notes critical and practical (London : G. Bell, 1898)"
+  ],
+  "sadler-general-epistles": [
+   "generalepistleso00sadl",
+   "The General epistles of Ss. James, Peter, John, and Jude : with notes critical and practical (London : G. Bell, 1895)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sadler-other": "French textbooks and other works by different Sadlers"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sadler-second-adam": "title page: 'THE SECOND ADAM, AND THE NEW BIRTH ; OR, THE DOCTRINE OF BAPTISM ... BY THE REV. M. F. SADLER, M.A. PREBENDARY OF WELLS ; VICAR OF ST. PAUL'S, BEDFORD ; AUTHOR OF ... EMMANUEL ... CHURCH DOCTRINE, BIBLE TRUTH' (OCR 'M. F.- SAD LEE')"
+ },
+ "_pending": {
+  "sadler-revelation": "revelationofstjo00sadl, The Revelation of St. John the Divine : with notes critical and practical (London : G. Bell, 1894): Internet Archive's text file returned HTTP 500 on every try (2026-10-23); retry later"
+ },
+ "_translators": {},
+ "_checks": {
+  "sadler-second-adam": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-emmanuel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sadler-church-teacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-communicant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-lost-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-church-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sadler-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sadler-mark": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-luke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m.f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sadler-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-corinthians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-gal-eph-phil": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-col-thess-tim": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-titus-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sadler-general-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. f. sadler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

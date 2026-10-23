@@ -14573,6 +14573,31 @@ Slugs `heber-*`. Built from title pages read for round 84.
 | Sermons preached in India (London : John Murray, 1829) | have-ocr | IA `sermonspreachedi00hebe` |
 | Sermons preached in England (New-York, 1829) | have-ocr | IA `sermonspreachedi00hebe_0` |
 | his Narrative of a Journey through India (travel) and his Poetical Works (verse beyond the hymns) | excluded | |
+
+## M. F. Sadler (round 84, my pick, 2026-10-23)
+
+Slugs `sadler-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| The second Adam and the new birth : or, The doctrine of baptism as contained in Holy Scripture (London : Bell & Daldy, 1867) | have-ocr | IA `secondadamnewbir00sadl` |
+| Emmanuel : or, The incarnation of the Son of God the foundation of immutable truth (London : Bell and Daldy, 1867) | have-ocr | IA `emmanuelorincarn00sadl` |
+| churchteachersma00sadlrich (catalogued ) | have-ocr | IA `churchteachersma00sadlrich` |
+| The communicant's manual (London : George Bell and Sons, 1874) | have-ocr | IA `communicantsmanu00sadluoft` |
+| The lost Gospel and its contents : or, The author of "Supernatural religion" refuted by himself (London : G. Bell, 1876) | have-ocr | IA `lostgospelitscon00sadl` |
+| Church doctrine, Bible truth (London : G. Bell and Sons, 1888) | have-ocr | IA `churchdoctrinebi00sadl_0` |
+| The gospel according to St. Matthew (New York : James Pott, 1885) | have-ocr | IA `gospelaccordingt0000sadl` |
+| The Gospel according to St. Mark : with notes critical and practical (London : G. Bell, 1892) | have-ocr | IA `gospelaccordingt00sadl` |
+| The gospel according to St. Luke : with notes critical and practical (New York : James Pott, 1890) | have-ocr | IA `MN41511ucmf_0` |
+| The Gospel according to St. John : with notes critical and practical (London : G. Bell, 1899) | have-ocr | IA `gospelaccordin00sadl` |
+| The Epistle to the Romans : with notes critical and practical (London : George Bell and Sons, 1888) | have-ocr | IA `theepistletother00sadluoft` |
+| The First and Second epistles to the Corinthians : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `firstsecondepist00sadl` |
+| The Epistles of St. Paul to the Galatians, Ephesians and Philippians : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstp00sadl` |
+| The Epistles of St. Paul to the Colossians, Thessalonians and Timothy : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstpaul00sadl` |
+| The Epistles of St. Paul to Titus, Philemon and the Hebrews : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstpaultotitus00sadl` |
+| The General epistles of Ss. James, Peter, John, and Jude : with notes critical and practical (London : G. Bell, 1895) | have-ocr | IA `generalepistleso00sadl` |
+| revelationofstjo00sadl, The Revelation of St. John the Divine : with notes critical and practical (London : G. Bell, 1894): Internet Archive's text file returned HTTP 500 on every try (2026-10-23); retry later | pending | not shelved |
+| French textbooks and other works by different Sadlers | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
