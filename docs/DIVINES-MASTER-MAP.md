@@ -19164,6 +19164,24 @@ Slugs `jacox-*`. Built from title pages read for round 131.
 | At nightfall and midnight: musings after dark (catalogued 1873) | have-ocr | IA `atnightfallandm00jacogoog` |
 | Recreations of a Recluse, Cues from All Quarters, Aspects of Authorship and Shakespeare Diversions are literary essays, outside this theology shelf | excluded | |
 | other scans of Bible Music | excluded | |
+
+## D. A. Harsha (round 131, my pick, 2026-10-23)
+
+Slugs `harsha-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoughts on the love of Christ (Albany, E. H. Pease & co., 1851) | have-ocr | IA `thoughtsonloveof00hars` |
+| Wanderings of a pilgrim (Philadelphia : Presbyterian Board of Publication, 1854) | have-ocr | IA `wanderingsofpilg00hars` |
+| The Heavenly token: a gift book for Christians (Indianapolis, Asher & Adams, [185) | have-ocr | IA `heavenlytokengif00harsrich` |
+| Life of Philip Doddridge, D.D. : with notices of some of his contemporaries, and specimens of his style (Albany : J. Munsell, 1865) | have-ocr | IA `lifeofphilipdodd00hars` |
+| Life of the Rev. James Hervey (Albany : J. Munsell, 1865) | have-ocr | IA `lifeofrevjameshe00hars` |
+| Life of the Rev. George Whitefield (J. Munsell, 1866, 1866) | have-ocr | IA `liferevgeorgewh00harsgoog` |
+| The Christian's Present for All Seasons (1866, IA christianspresen00hars): devotional thoughts of many divines that he gathered (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The Most Eminent Orators and Statesmen and the Life of Charles Sumner are outside this theology shelf | excluded | |
+| The Life and Choice Works of Isaac Watts is mostly Watts | excluded | |
+| the hydropathy book and later Harsha items are by others | excluded | |
+| other scans of the Doddridge life | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
