@@ -2597,3 +2597,6 @@
 
 ## 2026-10-22 23:19 CDT — grace-aguilar: done
 - grace-aguilar: new shelf, 6 Gutenberg books, 8,208 units, 555 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — andy-adams: done
+- andy-adams: new shelf, 6 Gutenberg books, 4,020 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.

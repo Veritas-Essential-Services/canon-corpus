@@ -44060,3 +44060,16 @@ Shelf: `pipeline/grace-aguilar_shelf.json` (2026-10-22; added at the coordinator
 | The Days of Bruce: A Story from Scottish History. Vol. 1 | have | PG 18387, `gaguilar-days-of-bruce` (1447 units) |
 | Home Influence: A Tale for Mothers and Daughters | have | PG 36648, `gaguilar-home-influence` (1875 units) |
 | Home Scenes and Heart Studies | have | PG 56722, `gaguilar-home-scenes-and-heart-studies` (1964 units) |
+
+## Andy Adams
+
+Shelf: `pipeline/andy-adams_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Outlet | have | PG 1987, `aadams-outlet` (492 units) |
+| Cattle Brands: A Collection of Western Camp-Fire Stories | have | PG 12281, `aadams-cattle-brands` (752 units) |
+| Wells Brothers: The Young Cattle Kings | have | PG 12791, `aadams-wells-brothers` (1189 units) |
+| The Log of a Cowboy: A Narrative of the Old Trail Days | have | PG 12797, `aadams-log-of-a-cowboy` (647 units) |
+| Reed Anthony, Cowman: An Autobiography | have | PG 12884, `aadams-reed-anthony-cowman` (355 units) |
+| A Texas Matchmaker | have | PG 12919, `aadams-texas-matchmaker` (585 units) |
