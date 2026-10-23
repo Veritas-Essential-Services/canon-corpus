@@ -19504,3 +19504,76 @@ Shelf: `pipeline/storytellers-tail-07_shelf.json` (2026-10-22; added at the coor
 | The young pioneers of the North-west | have | PG 78432, `chpearson-young-pioneers-of-the-north-west` (1830 units) |
 | pg-72353 | excluded | PG 72353: a second Gutenberg edition of John K. Leys's The Lindsays. |
 | pg-72354 | excluded | PG 72354: a second Gutenberg edition of John K. Leys's The Lindsays. |
+
+## Storytellers' tail, group 8 (22 authors)
+
+Shelf: `pipeline/storytellers-tail-08_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 22 authors with 3 Gutenberg texts each: Edward Peple, Charles Felton Pidgin, Josephine Pollard, Frederick Ponsonby, Janet Milne Rae, Allen Raine, Christian Reid, Amélie Rives, F. W. Robinson, James Malcolm Rymer, Michael Scott, Catharine Maria Sedgwick, Penn Shirley, J. H. Shorthouse, Henry A. Shute, E. Boyd Smith, Augusta de Grasse Stevens, Charles B. Stilson, Robert Smith Surtees, Van Tassel Sutphen, Ethel Talbot, Daniel P. Thompson. Every English text under the name at Gutenberg that no other shelf holds (66 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Night Out | have | PG 9295, `epeple-night-out` (118 units) |
+| The Littlest Rebel | have | PG 15414, `epeple-littlest-rebel` (1521 units) |
+| Semiramis: A Tale of Battle and of Love | have | PG 42822, `epeple-semiramis` (1556 units) |
+| Further Adventures of Quincy Adams Sawyer and Mason Corner Folks | have | PG 7497, `cfpidgin-further-adventures-of-quincy-adams-sawyer-and-mason` (2487 units) |
+| Quincy Adams Sawyer and Mason's Corner Folks A Picture of New England Home Life | have | PG 16414, `cfpidgin-quincy-adams-sawyer-and-mason-s-corner-folks-a-pict` (3638 units) |
+| The Corsican Lovers | have | PG 67412, `cfpidgin-corsican-lovers` (2742 units) |
+| The Life of George Washington. In Words of One Syllable | have | PG 36183, `jpollard-life-of-george-washington-in-words-of-one-syllable` (756 units) |
+| Young Folks' Bible in Words of Easy Reading The Sweet Stories of God's Word in the Language of Childhood | have | PG 39431, `jpollard-young-folks-bible-in-words-of-easy-reading-the-swee` (1845 units) |
+| Elfin Land | have | PG 70491, `jpollard-elfin-land` (158 units) |
+| The Grenadier Guards in the Great War of 1914-1918, Vol. 1 of 3 | have | PG 60677, `fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol` (1487 units) |
+| The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3 | have | PG 61216, `fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-61216` (1426 units) |
+| The Grenadier Guards in the Great War of 1914-1918, Vol. 3 of 3 | have | PG 63111, `fponsonby-grenadier-guards-in-the-great-war-of-1914-1918-vol-63111` (1749 units) |
+| Geordie's Tryst: A Tale of Scottish Life | have | PG 12765, `jmrae-geordie-s-tryst` (247 units) |
+| A Bottle in the Smoke: A Tale of Anglo-Indian Life | have | PG 40517, `jmrae-bottle-in-the-smoke` (1760 units) |
+| Morag: A Tale of the Highlands of Scotland | have | PG 42093, `jmrae-morag` (1064 units) |
+| By Berwen Banks | have | PG 18758, `araine-by-berwen-banks` (2182 units) |
+| Garthowen: A Story of a Welsh Homestead | have | PG 18778, `araine-garthowen` (1929 units) |
+| Torn Sails: A Tale of a Welsh Village | have | PG 63502, `araine-torn-sails` (1672 units) |
+| Fairy Gold | have | PG 54926, `creid-fairy-gold` (1840 units) |
+| A Comedy of Elopement | have | PG 62890, `creid-comedy-of-elopement` (921 units) |
+| "The land of the sky" | have | PG 76690, `creid-the-land-of-the-sky` (2173 units) |
+| A brother to dragons, and other old-time tales | have | PG 26356, `arives-brother-to-dragons-and-other-old-time-tales` (728 units) |
+| Shadows of Flames: A Novel | have | PG 33234, `arives-shadows-of-flames` (6343 units) |
+| Virginia of Virginia: A Story | have | PG 53838, `arives-virginia-of-virginia` (716 units) |
+| Mattie:—A Stray (Vol 3 of 3) | have | PG 35278, `fwrobinson-mattie` (1745 units) |
+| Mattie:—A Stray (Vol 1 of 3) | have | PG 35290, `fwrobinson-mattie-35290` (1590 units) |
+| Mattie:—A Stray (Vol 2 of 3) | have | PG 35291, `fwrobinson-mattie-35291` (1609 units) |
+| Varney the vampyre; or, the feast of blood | have | PG 14833, `jmrymer-varney-the-vampyre` (21182 units) |
+| Ada, the Betrayed; Or, The Murder at the Old Smithy. A Romance of Passion | have | PG 48938, `jmrymer-ada-the-betrayed` (8539 units) |
+| The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance. | have | PG 59828, `jmrymer-string-of-pearls` (12794 units) |
+| Tom Cringle's Log | have | PG 7281, `mscott-tom-cringle-s-log` (3186 units) |
+| The Cruise of the Midge (Vol. 1 of 2) | have | PG 44875, `mscott-cruise-of-the-midge-vol-1-of-2` (1635 units) |
+| The Cruise of the Midge (Vol. 2 of 2) | have | PG 44876, `mscott-cruise-of-the-midge-vol-2-of-2` (2126 units) |
+| The Travellers: A Tale, Designed for Young People. | have | PG 31832, `cmsedgwick-travellers` (509 units) |
+| Hope Leslie: or, early times in the Massachusetts, volume 2 (of 2) | have | PG 76018, `cmsedgwick-hope-leslie` (1009 units) |
+| Hope Leslie: or, early times in the Massachusetts, volume 1 (of 2) | have | PG 76028, `cmsedgwick-hope-leslie-76028` (1014 units) |
+| The happy six | have | PG 73914, `pshirley-happy-six` (838 units) |
+| The Merry Five | have | PG 74313, `pshirley-merry-five` (892 units) |
+| Little Miss Weezy | have | PG 76122, `pshirley-little-miss-weezy` (677 units) |
+| The Little Schoolmaster Mark: A Spiritual Romance | have | PG 33401, `jhshorthouse-little-schoolmaster-mark` (970 units) |
+| John Inglesant: A Romance (Volume 1 of 2) | have | PG 44587, `jhshorthouse-john-inglesant` (715 units) |
+| John Inglesant: A Romance (Volume 2 of 2) | have | PG 44588, `jhshorthouse-john-inglesant-44588` (892 units) |
+| The Real Diary of a Real Boy | have | PG 5111, `hashute-real-diary-of-a-real-boy` (547 units) |
+| "Sequil"; Or, Things Whitch Aint Finished in the First | have | PG 20022, `hashute-sequil` (322 units) |
+| Brite and Fair | have | PG 26335, `hashute-brite-and-fair` (585 units) |
+| The story of Pocahontas and Captain John Smith | have | PG 24487, `ebsmith-story-of-pocahontas-and-captain-john-smith` (104 units) |
+| The Seashore Book: Bob and Betty's Summer with Captain Hawes | have | PG 44629, `ebsmith-seashore-book` (130 units) |
+| The Story of Noah's Ark | have | PG 56270, `ebsmith-story-of-noah-s-ark` (104 units) |
+| Miss Hildreth: A Novel, Volume 1 | have | PG 40431, `adgstevens-miss-hildreth` (681 units) |
+| Miss Hildreth: A Novel, Volume 2 | have | PG 40432, `adgstevens-miss-hildreth-40432` (754 units) |
+| Miss Hildreth: A Novel, Volume 3 | have | PG 40433, `adgstevens-miss-hildreth-40433` (778 units) |
+| Polaris of the Snows | have | PG 35426, `cbstilson-polaris-of-the-snows` (1199 units) |
+| Minos of Sardanes | have | PG 67029, `cbstilson-minos-of-sardanes` (1058 units) |
+| Polaris and the Goddess Glorian | have | PG 67121, `cbstilson-polaris-and-the-goddess-glorian` (1709 units) |
+| Jorrocks' Jaunts and Jollities | have | PG 15387, `rssurtees-jorrocks-jaunts-and-jollities` (549 units) |
+| Mr. Sponge's Sporting Tour | have | PG 16957, `rssurtees-mr-sponge-s-sporting-tour` (4044 units) |
+| "Ask Mamma"; or, The Richest Commoner In England | have | PG 44822, `rssurtees-ask-mamma` (2619 units) |
+| The Gates of Chance | have | PG 3758, `vtsutphen-gates-of-chance` (1333 units) |
+| The Doomsman | have | PG 27730, `vtsutphen-doomsman` (1390 units) |
+| In Jeopardy | have | PG 38477, `vtsutphen-in-jeopardy` (1344 units) |
+| The Island Camp | have | PG 59705, `etalbot-island-camp` (266 units) |
+| The Bravest Girl in School | have | PG 65205, `etalbot-bravest-girl-in-school` (961 units) |
+| Betty at St. Benedick's | have | PG 71201, `etalbot-betty-at-st-benedick-s` (671 units) |
+| The Rangers; or, The Tory's Daughter A Tale Illustrative of the Revolutionary History of Vermont and the Northern Campaign of 1777 | have | PG 6947, `dpthompson-rangers` (1681 units) |
+| Gaut Gurley; Or, the Trappers of Umbagog: A Tale of Border Life | have | PG 7087, `dpthompson-gaut-gurley` (1308 units) |
+| The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests | have | PG 67759, `dpthompson-demon-trapper-of-umbagog` (1325 units) |
