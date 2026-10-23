@@ -17096,3 +17096,18 @@ Slugs `jccochran-*`. Built from title pages read for round 110.
 | A New Year's address to the congregation of the Bishop's Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1861) | have-ocr | IA `cihm_67272` |
 | Correspondence between the Bishop of Nova Scotia and the Reverend Canon Cochran, M.A., touching the dismissal of the latter from the pastoral charge of Salem Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1866) | have-ocr | IA `cihm_23366` |
 | A New Year's address to the congregation of "Trinity Church", Halifax, N.S. (Halifax, N.S. : J. Bowes, 1867), IA cihm_64130: the address is unsigned in the scan; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+
+## F. Barham Zincke (round 110, my pick, 2026-10-23)
+
+Slugs `zincke-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Some thoughts about the school of the future: a sketch of the solution which time appears to be preparing for the difficult educational questions of the day (London, Longmans, 1852) | have-ocr | IA `somethoughtsabou00zincrich` |
+| The duty and the discipline of extemporary preaching (New York, C. Scribner & Co., 1867) | have-ocr | IA `dutydisciplineof00zinc` |
+| Last winter in the United States; being table talk collected during a tour through the late Southern Confederation, the Far West, the Rocky Mountains, &c (London, J. Murray, 1868) | have-ocr | IA `lastwinterin00zincrich` |
+| Egypt of the Pharaohs and of the kedivé (London Smith, Elder, 1873) | have-ocr | IA `egyptofpharaohso00zinc` |
+| A month in Switzerland (London, Smith, 1873) | have-ocr | IA `monthinswitzerla00zincuoft` |
+| Swiss allmends and a walk to see them, being a second month in Switzerland (London, Eng. : Smith, Elder, 1874) | have-ocr | IA `swissallmendsand00zincrich` |
+| A walk in the Grisons, being a third month in Switzerland (London, Smith, 1875) | have-ocr | IA `walkingrisonsbei00zincuoft` |
+| Some materials for the history of Wherstead (Ipswich : Read & Barrett, 1887) | have-ocr | IA `somematerialsfor00zinc` |
