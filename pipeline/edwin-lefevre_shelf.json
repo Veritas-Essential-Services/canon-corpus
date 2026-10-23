@@ -1,0 +1,110 @@
+{
+ "_about": "Edwin Lefevre: Wall Street stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edwin Lefevre",
+ "_name_words": [
+  "edwin",
+  "lefevre"
+ ],
+ "_surname": [
+  "edwin lefevre"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elefevre-tipster-1901-from-wall-street-stories": [
+   23171,
+   "The Tipster 1901, From \"Wall Street Stories\""
+  ],
+  "elefevre-h-r": [
+   33314,
+   "H. R."
+  ],
+  "elefevre-golden-flood": [
+   51943,
+   "The Golden Flood"
+  ],
+  "elefevre-last-penny": [
+   51966,
+   "The Last Penny"
+  ],
+  "elefevre-plunderers": [
+   51970,
+   "The Plunderers: A Novel"
+  ],
+  "elefevre-wall-street-stories": [
+   54130,
+   "Wall Street stories"
+  ],
+  "elefevre-reminiscences-of-a-stock-operator": [
+   60979,
+   "Reminiscences of a Stock Operator"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "elefevre-tipster-1901-from-wall-street-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-h-r": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-golden-flood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-last-penny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-plunderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-wall-street-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elefevre-reminiscences-of-a-stock-operator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin lefevre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

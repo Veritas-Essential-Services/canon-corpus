@@ -17300,3 +17300,17 @@ Shelf: `pipeline/laura-jean-libbey_shelf.json` (2026-10-22; added at the coordin
 | Kidnapped at the Altar; Or, The Romance of that Saucy Jessie Bain | have | PG 30980, `ljlibbey-kidnapped-at-the-altar` (1976 units) |
 | A Dangerous Flirtation; Or, Did Ida May Sin? | have | PG 53676, `ljlibbey-dangerous-flirtation` (2714 units) |
 | Betrothed for a day: Or, Queenie Trevalyn's love test | have | PG 68760, `ljlibbey-betrothed-for-a-day` (2068 units) |
+
+## Edwin Lefevre
+
+Shelf: `pipeline/edwin-lefevre_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Wall Street stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Tipster 1901, From "Wall Street Stories" | have | PG 23171, `elefevre-tipster-1901-from-wall-street-stories` (101 units) |
+| H. R. | have | PG 33314, `elefevre-h-r` (3098 units) |
+| The Golden Flood | have | PG 51943, `elefevre-golden-flood` (765 units) |
+| The Last Penny | have | PG 51966, `elefevre-last-penny` (2010 units) |
+| The Plunderers: A Novel | have | PG 51970, `elefevre-plunderers` (2745 units) |
+| Wall Street stories | have | PG 54130, `elefevre-wall-street-stories` (831 units) |
+| Reminiscences of a Stock Operator | have | PG 60979, `elefevre-reminiscences-of-a-stock-operator` (1477 units) |
