@@ -18594,6 +18594,15 @@ Shelf: `pipeline/charles-seignobos_shelf.json`. History of Ancient Civilization,
 |---|---|---|---|
 | History of Ancient Civilization (1906), ed. and tr. Arthur Herbert Wilde |  | `seignobos-ancient-civilization-1906` | have-raw (IA `historyofancient00seiguoft`) |
 
+
+## Evelyn Martinengo-Cesaresco (1852-1931)
+
+Shelf: `pipeline/martinengo-cesaresco_shelf.json`. The Outdoor Life in Greek and Roman Poets (1911). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Outdoor Life in Greek and Roman Poets and Kindred Studies (1911) |  | `martinengo-outdoor-life-greek-roman-poets-1911` | have-raw (IA `outdoorlifeingre0000evel`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
