@@ -5093,6 +5093,14 @@
       "started": "2026-10-22T22:50:21-05:00",
       "finished": "2026-10-22T22:50:21-05:00",
       "notes": "hc-mcneile: new shelf, 8 Gutenberg books, 10,532 units, 2173 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "lucy-foster-madison",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Lucy Foster Madison; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:22-05:00",
+      "finished": "2026-10-22T22:50:22-05:00",
+      "notes": "lucy-foster-madison: new shelf, 8 Gutenberg books, 15,071 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

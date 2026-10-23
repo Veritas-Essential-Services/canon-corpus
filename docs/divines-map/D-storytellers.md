@@ -16334,3 +16334,18 @@ Shelf: `pipeline/hc-mcneile_shelf.json` (2026-10-22; added at the coordinator's 
 | The Dinner Club | have | PG 60525, `hcmcneile-dinner-club` (1764 units) |
 | The Valley of the Shadow | have | PG 61669, `hcmcneile-valley-of-the-shadow` (200 units) |
 | The seven missionaries | have | PG 74118, `hcmcneile-seven-missionaries` (154 units) |
+
+## Lucy Foster Madison
+
+Shelf: `pipeline/lucy-foster-madison_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In Doublet and Hose: A Story for Girls | have | PG 28037, `lfmadison-in-doublet-and-hose` (1621 units) |
+| Peggy Owen and Liberty | have | PG 30940, `lfmadison-peggy-owen-and-liberty` (2054 units) |
+| A Daughter of the Union | have | PG 32993, `lfmadison-daughter-of-the-union` (1878 units) |
+| Bee and Butterfly: A Tale of Two Cousins | have | PG 33407, `lfmadison-bee-and-butterfly` (1715 units) |
+| Joan of Arc, the Warrior Maid | have | PG 34474, `lfmadison-joan-of-arc-the-warrior-maid` (2081 units) |
+| Peggy Owen, Patriot: A Story for Girls | have | PG 36740, `lfmadison-peggy-owen-patriot` (2086 units) |
+| Peggy Owen at Yorktown | have | PG 36744, `lfmadison-peggy-owen-at-yorktown` (1725 units) |
+| A Maid at King Alfred's Court: A Story for Girls | have | PG 37405, `lfmadison-maid-at-king-alfreds-court` (1911 units) |
