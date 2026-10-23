@@ -410,6 +410,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Choephori of Aeschylus, with critical notes, commentary, translation and a recension of the scholia by T. G. Tucker (1901); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-choephori-1901` | have-raw (IA `choephoriofaesch0000tgtu`) |
 | The Seven against Thebes of Aeschylus, with introduction, critical notes, commentary, translation and a recension of the Medicean scholia (Cambridge: at the University Press, 1908); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-seven-1908` | have-raw (IA `sevenagainsttheb0000edtr`) |
 | The Agamemnon of Aeschylus, with verse translation, introduction and notes by the late Walter Headlam, edited by A. C. Pearson (Cambridge: at the University Press, 1910); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-headlam-pearson-agamemnon-1910` | have-raw (IA `agamemnonwithver00aescuoft`) |
+| Aeschylus translated into English prose (Cambridge: Deighton, Bell; London: Bell and Daldy, 1864) |  | `aeschylus-paley-prose-1864` | have-raw (IA `aeschylus00aescuoft`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -8474,6 +8475,7 @@ Shelf: `pipeline/r-d-hicks_shelf.json`. One book, 1910.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Stoic and Epicurean (Scribner, 1910) |  | `hicks-stoic-and-epicurean-1910` | have-raw (IA `stoicepicurean00hick`) |
+| The Politics of Aristotle, a revised text, with introduction, analysis and commentary, Books I-V, by Franz Susemihl and R. D. Hicks (London and New York: Macmillan, 1894); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `r-d-hicks-susemihl-politics-1894` | have-raw (IA `cu31924071172922`) |
 
 ## E. Vernon Arnold (Roman Stoicism)
 
@@ -11183,4 +11185,31 @@ Shelf: `pipeline/w-l-newman_shelf.json`. The Politics of Aristotle, 4 vols., 188
 | The Politics of Aristotle, vol. II: Prefatory Essays, Books I and II, text and notes (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1887-v2` | have-raw (IA `cu31924005693605`) |
 | The Politics of Aristotle, vol. III: Two Essays, Books III, IV and V, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1902-v3` | have-raw (IA `politicsofaristo03aris`) |
 | The Politics of Aristotle, vol. IV: Essay on Constitutions, Books VI-VIII, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1902-v4` | have-raw (IA `politicsofaristo04arisuoft`) |
+
+## W. H. Thompson (1810-1886)
+
+Shelf: `pipeline/w-h-thompson_shelf.json`. Plato's Phaedrus (1868) and Gorgias (1871) with English notes. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Phaedrus of Plato, with English notes and dissertations (Bibliotheca Classica; London: Whittaker; George Bell, 1868) |  | `w-h-thompson-phaedrus-1868` | have-raw (IA `phaedrusofplato00plat`) |
+| The Gorgias of Plato, with English notes, introduction and appendix (Bibliotheca Classica; London: Whittaker; George Bell, 1871) |  | `w-h-thompson-gorgias-1871` | have-raw (IA `gorgiaswithengli00platuoft`) |
+
+## R. D. Archer-Hind (1849-1910)
+
+Shelf: `pipeline/r-d-archer-hind_shelf.json`. The Phaedo of Plato (1883); his Timaeus is on the plato shelf. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Phaedo of Plato, edited with introduction, notes and appendices (London: Macmillan, 1883) |  | `r-d-archer-hind-phaedo-1883` | have-raw (IA `cu31924026679435`) |
+
+## A. S. Wilkins (1843-1905)
+
+Shelf: `pipeline/a-s-wilkins_shelf.json`. Cicero, De Oratore, with introduction and notes, 3 books. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| M. Tulli Ciceronis De Oratore, Liber I, with introduction and notes, third edition (Oxford: Clarendon Press, 1895) |  | `a-s-wilkins-de-oratore-i-1895` | have-raw (IA `deoratorelibri00cice`) |
+| M. Tullii Ciceronis De Oratore ad Quintum Fratrem, Liber II, with introduction and notes (Oxford: Clarendon Press, MDCCCLXXXI) |  | `a-s-wilkins-de-oratore-ii-1881` | have-raw (IA `mtulliiciceroni00wilkgoog`) |
+| M. Tulli Ciceronis De Oratore, Liber III, with introduction and notes (Oxford: Clarendon Press, MDCCCXCII) |  | `a-s-wilkins-de-oratore-iii-1892` | have-raw (IA `mtulliciceronis00wilkgoog`) |
 
