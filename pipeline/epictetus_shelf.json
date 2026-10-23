@@ -217,5 +217,176 @@
   "epictetus-perseus-higginson-fragments": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4 (Fragments, tr. Thomas Wentworth Higginson) is not taken as a second witness (moved here on review, 2026-10-02)",
   "epictetus-perseus-long-the-encheiridion-or-manual": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg002.perseus-eng3 (The Encheiridion, or Manual, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)"
  },
- "_translator_unchecked": {}
+ "_translator_unchecked": {},
+ "perseus": {
+  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": [
+   "tlg0557.tlg001.perseus-eng3",
+   "Arrian's Discourses of Epictetus",
+   "George Long",
+   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
+  ],
+  "epictetus-perseus-higginson-the-discourses-of-epictetus": [
+   "tlg0557.tlg001.perseus-eng4",
+   "The Discourses of Epictetus",
+   "Thomas Wentworth Higginson",
+   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
+  ],
+  "epictetus-perseus-long-fragments": [
+   "tlg0557.tlg003a.perseus-eng3",
+   "Fragments",
+   "George Long",
+   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
+  ],
+  "epictetus-perseus-higginson-fragments": [
+   "tlg0557.tlg003a.perseus-eng4",
+   "Fragments",
+   "Thomas Wentworth Higginson",
+   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
+  ],
+  "epictetus-perseus-long-the-encheiridion-or-manual": [
+   "tlg0557.tlg002.perseus-eng3",
+   "The Encheiridion, or Manual",
+   "George Long",
+   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
+  ],
+  "epictetus-perseus-higginson-the-enchiridion": [
+   "tlg0557.tlg002.perseus-eng4",
+   "The Enchiridion",
+   "Thomas Wentworth Higginson",
+   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg001/tlg0557.tlg001.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "epictetus-perseus-higginson-the-discourses-of-epictetus": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg001.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Higginson",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg001/tlg0557.tlg001.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "epictetus-perseus-long-fragments": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg003a/tlg0557.tlg003a.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "epictetus-perseus-higginson-fragments": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Higginson",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg003a/tlg0557.tlg003a.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "epictetus-perseus-long-the-encheiridion-or-manual": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg002.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "epictetus-perseus-higginson-the-enchiridion": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg002.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Higginson",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ }
 }
