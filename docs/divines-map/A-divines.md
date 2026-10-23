@@ -10549,3 +10549,18 @@ Slugs `tenison-*`. Built from title pages read for round 44.
 | Popery not founded on Scripture (1688), a collection of tracts by several divines that he is said to have organised: a compilation | pending | not shelved |
 | A Discourse concerning a Guide in Matters of Faith (1683; IA adiscourseconce01tenigoog): the Archive returned a server error for its text on 2026-10-23, so its title page could not be checked. Retry later | pending | not shelved |
 | His edition of Bacon's Baconiana (Bacon's remains); single sermons and the 1687-1688 conference pamphlets, left for a later round; Richard Tenison's sermons (another man) | excluded | |
+
+## William Sherlock (Dean of St Paul's) (round 44, my pick, 2026-10-22)
+
+Slugs `wsherlock-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical Discourse Concerning Death: By William Sherlock (printed for J. Osborn, 1751) | have-ocr | IA `apracticaldisco00shergoog` |
+| A practical discourse concerning a future judgment (London Printed for R. Ware [and others, 1749) | have-ocr | IA `practicaldiscour00sheruoft` |
+| A discourse concerning the divine providence: By William Sherlock (printed by J.R. for D . Brown, J. Walthoe, J . Nicholson, B. Tooke, J . Pemberton, and T. Ward, 1715) | have-ocr | IA `adiscourseconce01shergoog` |
+| A Vindication of the Doctrine of the Holy and Ever Blessed Trinity, and the Incarnation of the (Printed for W. Rogers, 1690) | have-ocr | IA `avindicationdoc00shergoog` |
+| A discourse concerning the knowledge of Jesus Christ, and our union and communion with Him, &c (London, Printed by J.M. for W. Kettilby, 1674) | have-ocr | IA `discoursejesus00sheruoft` |
+| The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684) | have-ocr | IA `caseofr00sher` |
+| Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700 | alternate | not shelved |
+| Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others) | excluded | |
