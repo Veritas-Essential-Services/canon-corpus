@@ -2096,3 +2096,6 @@
 
 ## 2026-10-22 22:45 CDT — john-oxenham: done
 - john-oxenham: new shelf, 10 Gutenberg books, 20,971 units, 897 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — neil-munro: done
+- neil-munro: new shelf, 9 Gutenberg books, 12,334 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -15784,3 +15784,20 @@ Shelf: `pipeline/john-oxenham_shelf.json` (2026-10-22; added at the coordinator'
 | The Coil of Carne | have | PG 53819, `joxenham-coil-of-carne` (3845 units) |
 | "1914" | have | PG 66846, `joxenham-1914` (2701 units) |
 | Hearts in exile | have | PG 76194, `joxenham-hearts-in-exile` (1706 units) |
+
+## Neil Munro
+
+Shelf: `pipeline/neil-munro_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Highland novels and the Para Handy tales. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Doom Castle | have | PG 21333, `nmunro-doom-castle` (1824 units) |
+| Gilian The Dreamer: His Fancy, His Love and Adventure | have | PG 22211, `nmunro-gilian-the-dreamer` (1794 units) |
+| John Splendid: The Tale of a Poor Gentleman, and the Little Wars of Lorn | have | PG 22321, `nmunro-john-splendid` (1990 units) |
+| The Lost Pibroch, and other Sheiling Stories | have | PG 43729, `nmunro-lost-pibroch-and-other-sheiling-stories` (961 units) |
+| Bud: A Novel | have | PG 43731, `nmunro-bud` (1633 units) |
+| The Shoes of Fortune | have | PG 43732, `nmunro-shoes-of-fortune` (1811 units) |
+| Erchie, My Droll Friend | have | PG 47991, `nmunro-erchie-my-droll-friend` (1191 units) |
+| The daft days | have | PG 49906, `nmunro-daft-days` (270 units) |
+| Jaunty Jock, and Other Stories | have | PG 50438, `nmunro-jaunty-jock-and-other-stories` (860 units) |
+| pg-57542 | excluded | PG 57542: Gutenberg's index of the author's works, not a book. |
