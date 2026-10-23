@@ -1,0 +1,85 @@
+{
+ "_about": "Frances Little: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frances Little",
+ "_name_words": [
+  "frances",
+  "little"
+ ],
+ "_surname": [
+  "frances little",
+  "little"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "flittle-little-sister-snow": [
+   5960,
+   "Little Sister Snow"
+  ],
+  "flittle-lady-of-the-decoration": [
+   7523,
+   "The Lady of the Decoration"
+  ],
+  "flittle-lady-and-sada-san-a-sequel-to-the-lady-of-the-decora": [
+   12240,
+   "The Lady and Sada San A Sequel to the Lady of the Decoration"
+  ],
+  "flittle-house-of-the-misty-star-a-romance-of-youth-and-hope": [
+   17108,
+   "The House of the Misty Star A Romance of Youth and Hope and Love in Old Japan"
+  ],
+  "flittle-mr-bamboo-and-the-honorable-little-god-a-christmas-s": [
+   17387,
+   "Mr. Bamboo and the Honorable Little God A Christmas Story"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "flittle-little-sister-snow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flittle-lady-of-the-decoration": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flittle-lady-and-sada-san-a-sequel-to-the-lady-of-the-decora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flittle-house-of-the-misty-star-a-romance-of-youth-and-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flittle-mr-bamboo-and-the-honorable-little-god-a-christmas-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances little",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

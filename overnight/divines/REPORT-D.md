@@ -2675,3 +2675,6 @@
 
 ## 2026-10-22 23:22 CDT — james-m-ludlow: done
 - james-m-ludlow: new shelf, 5 Gutenberg books, 7,360 units, 110 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — frances-little: done
+- frances-little: new shelf, 5 Gutenberg books, 2,473 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.

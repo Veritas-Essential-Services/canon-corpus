@@ -18631,3 +18631,15 @@ Shelf: `pipeline/james-m-ludlow_shelf.json` (2026-10-22; added at the coordinato
 | Deborah: A tale of the times of Judas Maccabaeus | have | PG 53851, `jmludlow-deborah` (2430 units) |
 | The Baritone's Parish; or, "All Things to All Men" | have | PG 59724, `jmludlow-baritones-parish` (212 units) |
 | The age of the crusades | have | PG 72852, `jmludlow-age-of-the-crusades` (1432 units) |
+
+## Frances Little
+
+Shelf: `pipeline/frances-little_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Sister Snow | have | PG 5960, `flittle-little-sister-snow` (321 units) |
+| The Lady of the Decoration | have | PG 7523, `flittle-lady-of-the-decoration` (514 units) |
+| The Lady and Sada San A Sequel to the Lady of the Decoration | have | PG 12240, `flittle-lady-and-sada-san-a-sequel-to-the-lady-of-the-decora` (522 units) |
+| The House of the Misty Star A Romance of Youth and Hope and Love in Old Japan | have | PG 17108, `flittle-house-of-the-misty-star-a-romance-of-youth-and-hope` (1085 units) |
+| Mr. Bamboo and the Honorable Little God A Christmas Story | have | PG 17387, `flittle-mr-bamboo-and-the-honorable-little-god-a-christmas-s` (31 units) |
