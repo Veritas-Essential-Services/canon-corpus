@@ -11034,6 +11034,15 @@ Slugs `nitzsch-*`. Built from title pages read for round 48.
 |---|---|---|
 | System of Christian doctrine (Edinburgh : T. & T. Clark, 1849) | have-ocr | IA `systemofchristia00nitz` |
 | Nitzsch's Pterylography (1867, by the ornithologist C. L. Nitzsch, another man) | excluded | |
+
+## Adolf Harless (round 48, my pick, 2026-10-23)
+
+Slugs `harless-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| System of Christian ethics (Edinburgh, Clark, 1868) | have-ocr | IA `christianethics00harluoft` |
+| German medical tracts of 1804-1805 (another Harless) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
