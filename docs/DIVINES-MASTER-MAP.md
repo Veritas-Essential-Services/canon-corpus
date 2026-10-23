@@ -19081,6 +19081,15 @@ Shelf: `pipeline/r-d-hampden_shelf.json`. The Fathers of Greek Philosophy (1862)
 |---|---|---|---|
 | The Fathers of Greek Philosophy (1862) |  | `hampden-fathers-greek-philosophy-1862` | have-raw (IA `fathersgreekphi01hampgoog`) |
 
+
+## Charles Isidore Hemans (1817-1876)
+
+Shelf: `pipeline/c-i-hemans_shelf.json`. Historic and Monumental Rome (1874). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Historic and Monumental Rome: a Handbook for the Students of Classical and Christian Antiquity in the Italian Capital (1874) |  | `hemans-historic-monumental-rome-1874` | have-raw (IA `historicandmonu01hemagoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
