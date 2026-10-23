@@ -38706,3 +38706,49 @@ Shelf: `pipeline/williamsons_shelf.json` (2026-10-22; added at the coordinator's
 | The Adventure of Princess Sylvia | have | PG 42357, `cnamwilliamson-adventure-of-princess-sylvia` (1159 units) |
 | Angel Unawares: A Story of Christmas Eve | have | PG 42919, `cnamwilliamson-angel-unawares` (196 units) |
 | The Great Pearl Secret | have | PG 56470, `cnamwilliamson-great-pearl-secret` (1228 units) |
+
+## Mrs. Alex. McVeigh Miller
+
+Shelf: `pipeline/alex-mcveigh-miller_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular romances. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dainty's Cruel Rivals; Or, The Fatal Birthday | have | PG 31257, `amcmiller-daintys-cruel-rivals` (1465 units) |
+| The Bride of the Tomb, and Queenie's Terrible Secret | have | PG 42100, `amcmiller-bride-of-the-tomb-and-queenies-terrible-secret` (4416 units) |
+| Guy Kenmore's Wife, and The Rose and the Lily | have | PG 43037, `amcmiller-guy-kenmores-wife-and-the-rose-and-the-lily` (3648 units) |
+| They Looked and Loved; Or, Won by Faith | have | PG 43471, `amcmiller-they-looked-and-loved` (1781 units) |
+| A dreadful temptation | have | PG 43911, `amcmiller-dreadful-temptation` (1487 units) |
+| Little Golden's Daughter; or, The Dream of a Life Time | have | PG 44803, `amcmiller-little-goldens-daughter` (2585 units) |
+| Kathleen's Diamonds; or, She Loved a Handsome Actor | have | PG 44819, `amcmiller-kathleens-diamonds` (2640 units) |
+| Pretty Geraldine, the New York Salesgirl; or, Wedded to Her Choice | have | PG 45872, `amcmiller-pretty-geraldine-the-new-york-salesgirl` (2996 units) |
+| Little Nobody | have | PG 46958, `amcmiller-little-nobody` (2022 units) |
+| Lancaster's Choice | have | PG 47685, `amcmiller-lancasters-choice` (1847 units) |
+| Countess Vera; or, The Oath of Vengeance | have | PG 48824, `amcmiller-countess-vera` (2308 units) |
+| Laurel Vane; or, The Girls' Conspiracy | have | PG 49111, `amcmiller-laurel-vane` (2289 units) |
+| My Pretty Maid; or, Liane Lester | have | PG 51996, `amcmiller-my-pretty-maid` (2150 units) |
+| The Senator's Bride | have | PG 54134, `amcmiller-senators-bride` (2022 units) |
+| An Old Man's Darling | have | PG 54570, `amcmiller-old-mans-darling` (1966 units) |
+| The Senator's Favorite | have | PG 55237, `amcmiller-senators-favorite` (2100 units) |
+| Jaquelina | have | PG 56564, `amcmiller-jaquelina` (2295 units) |
+| Flower and Jewel; or, Daisy Forrest's Daughter | have | PG 59223, `amcmiller-flower-and-jewel` (1786 units) |
+| The Mystery of Suicide Place | have | PG 60451, `amcmiller-mystery-of-suicide-place` (2098 units) |
+| Let Us Kiss and Part; or, A Shattered Tie | have | PG 66774, `amcmiller-let-us-kiss-and-part` (2357 units) |
+| All for Love; or, Her Heart's Sacrifice | have | PG 67646, `amcmiller-all-for-love` (1766 units) |
+| Love conquers pride; or, Where peace dwelt | have | PG 67869, `amcmiller-love-conquers-pride` (1491 units) |
+| Loved you better than you knew | have | PG 69071, `amcmiller-loved-you-better-than-you-knew` (2000 units) |
+| The wooing of Leola | have | PG 69569, `amcmiller-wooing-of-leola` (904 units) |
+| The shadow between them; | have | PG 70010, `amcmiller-shadow-between-them` (2229 units) |
+| Sweet Violet | have | PG 70727, `amcmiller-sweet-violet` (1968 units) |
+| The man she hated | have | PG 71024, `amcmiller-man-she-hated` (1468 units) |
+| The strength of love | have | PG 71376, `amcmiller-strength-of-love` (1850 units) |
+| Molly's treachery | have | PG 73856, `amcmiller-mollys-treachery` (1990 units) |
+| Little sweetheart | have | PG 74006, `amcmiller-little-sweetheart` (2472 units) |
+| The minstrel's curse | have | PG 74635, `amcmiller-minstrels-curse` (186 units) |
+| Viola's vanity | have | PG 74796, `amcmiller-violas-vanity` (1869 units) |
+| The unbidden guest | have | PG 76151, `amcmiller-unbidden-guest` (1799 units) |
+| Slighted love | have | PG 76413, `amcmiller-slighted-love` (2180 units) |
+| Sworn to silence | have | PG 77775, `amcmiller-sworn-to-silence` (2455 units) |
+| Nina's peril | have | PG 78525, `amcmiller-ninas-peril` (1744 units) |
+| Thorns of regret | have | PG 79130, `amcmiller-thorns-of-regret` (1915 units) |
+| A little southern beauty | have | PG 79414, `amcmiller-little-southern-beauty` (1368 units) |
+| Mrs. Mayo's second husband | have | PG 79570, `amcmiller-mrs-mayos-second-husband` (81 units) |

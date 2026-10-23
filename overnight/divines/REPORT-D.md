@@ -1784,3 +1784,6 @@
 - harvey-ralphson: new shelf, 23 Gutenberg books, 37,387 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
 - mary-hazelton-wade: new shelf, 21 Gutenberg books, 11,792 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
 - the-duchess: new shelf, 21 Gutenberg books, 44,271 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 1, see _surname_by_slug).
+
+## 2026-10-22 22:19 CDT — alex-mcveigh-miller: done
+- alex-mcveigh-miller: new shelf, 39 Gutenberg books, 77,993 units, 3628 ~2 ids; verify 0 mismatches, 0 rights flags.
