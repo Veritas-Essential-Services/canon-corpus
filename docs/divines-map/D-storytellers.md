@@ -18571,3 +18571,15 @@ Shelf: `pipeline/margaret-warner-morley_shelf.json` (2026-10-22; added at the co
 | Little Mitchell: The Story of a Mountain Squirrel | have | PG 47995, `mwmorley-little-mitchell` (617 units) |
 | Little Wanderers | have | PG 61295, `mwmorley-little-wanderers` (534 units) |
 | Flowers and their friends | have | PG 72776, `mwmorley-flowers-and-their-friends` (1305 units) |
+
+## Philip Verrill Mighels
+
+Shelf: `pipeline/philip-verrill-mighels_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bruvver Jim's Baby | have | PG 16608, `pvmighels-bruvver-jims-baby` (1280 units) |
+| The Furnace of Gold | have | PG 16629, `pvmighels-furnace-of-gold` (2649 units) |
+| As It Was in the Beginning | have | PG 22554, `pvmighels-as-it-was-in-the-beginning` (2258 units) |
+| The Crystal Sceptre: A Story of Adventure | have | PG 60860, `pvmighels-crystal-sceptre` (1019 units) |
+| When a witch is young: a historical novel | have | PG 68249, `pvmighels-when-a-witch-is-young` (2484 units) |
