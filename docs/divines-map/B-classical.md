@@ -11481,3 +11481,14 @@ Shelf: `pipeline/henry-jackson_shelf.json`. New shelf, round dv. Raw IA OCR, eve
 | The Fifth Book of the Nicomachean Ethics of Aristotle, edited for the Syndics of the University Press by Henry Jackson (Cambridge: University Press; London: Cambridge Warehouse; Cambridge: Deighton, Bell, 1879) |  | `henry-jackson-nicomachean-ethics-v-1879` | have-raw (IA `thefifthbookofth00arisuoft`) |
 | Texts to illustrate a course of elementary lectures on the history of Greek philosophy from Thales to Aristotle, by Henry Jackson (London: Macmillan; New York: Macmillan, 1901; the OCR reads the year as 'IQOI'); Greek-dense, kept for the later Greek re-OCR |  | `henry-jackson-texts-greek-philosophy-1901` | have-raw (IA `textstoillustra00jackgoog`) |
 
+## E. A. Sonnenschein (1851-1929)
+
+Shelf: `pipeline/e-a-sonnenschein_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| T. Macci Plauti Captivi, with an introduction, critical apparatus, explanatory notes and an appendix of Bentley's notes, edited by Edward A. Sonnenschein, new edition (London: W. Swan Sonnenschein and Allen, 1880) |  | `e-a-sonnenschein-plautus-captivi-1880` | have-raw (IA `captivip00plauuoft`) |
+| Bentley's Plautine Emendations from his copy of Gronovius, by E. A. Sonnenschein, Anecdota Oxoniensia, Classical Series vol. I part IV (Oxford: Clarendon Press, 1883) |  | `e-a-sonnenschein-bentley-plautine-emendations-1883` | have-raw (IA `bentleysplautine00bentrich`) |
+| T. Macci Plauti Mostellaria, with notes critical and exegetical and an introduction by E. A. Sonnenschein (Cambridge: Deighton, Bell; London: George Bell, 1884) |  | `e-a-sonnenschein-plautus-mostellaria-1884` | have-raw (IA `mostellari00plau`) |
+| T. Macci Plauti Rudens, edited with critical and explanatory notes by Edward A. Sonnenschein (Oxford: Clarendon Press, 1891) |  | `e-a-sonnenschein-plautus-rudens-1891` | have-raw (IA `rudenspl00plau`) |
+
