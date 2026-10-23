@@ -47635,3 +47635,13 @@ Shelf: `pipeline/storytellers-tail-50_shelf.json` (2026-10-22; added at the coor
 | Through Hell with Hiprah Hunt A Series of Pictures and Notes of Travel Illustrating the Adventures of a Modern Dante in the Infernal Regions; Also Other Pictures of the Same Subterranean World | have | PG 58131, `ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an` (422 units) |
 | Confederate wizards of the saddle | have | PG 70204, `bhyoung-confederate-wizards-of-the-saddle` (1660 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 47342 Gadsby (copyright line 1939). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 51 (3 authors)
+
+Shelf: `pipeline/storytellers-tail-51_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 3 authors with 1 Gutenberg texts each: Lot D. Young, Rose E. Young, William Young. Every English text under the name at Gutenberg that no other shelf holds (3 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Reminiscences of a Soldier of the Orphan Brigade | have | PG 50483, `ldyoung-reminiscences-of-a-soldier-of-the-orphan-brigade` (296 units) |
+| Sally of Missouri | have | PG 23391, `reyoung-sally-of-missouri` (936 units) |
+| Mathieu Ropars: et cetera | have | PG 39132, `wyoung-mathieu-ropars` (882 units) |
