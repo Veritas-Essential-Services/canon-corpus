@@ -19355,6 +19355,18 @@ Shelf: `pipeline/a-j-b-wace_shelf.json`. Prehistoric Thessaly, with M. S. Thomps
 |---|---|---|---|
 | Prehistoric Thessaly, being some Account of Recent Excavations and Explorations in North-Eastern Greece (1912), with M. S. Thompson |  | `wace-prehistoric-thessaly-1912` | have-raw (IA `prehistoricthess00waceuoft`) |
 
+
+## G. W. Elderkin (1879-1965)
+
+Shelf: `pipeline/g-w-elderkin_shelf.json`. Periclean buildings (1912, Gutenberg) and Dionysiac cult (1924). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Problems in Periclean Buildings (1912) |  | `elderkin-periclean-buildings-pg` | have (PG 37197) |
+| Kantharos: Studies in Dionysiac and Kindred Cult (1924) |  | `elderkin-kantharos-1924` | have-raw (IA `kantharosstudies00elde`) |
+
+Excluded: Problems in Periclean Buildings, IA cu31924096785328 (title page read 2026-10-23 (page images): only a half-title, no author named; the clean Gutenberg text is used instead)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
