@@ -1542,3 +1542,7 @@
 - 36 volumes. Conington's Virgil (3 vols), Wickham's Horace (2), Furneaux's Tacitus (4), Wilkins's De Oratore (3), Thompson's Phaedrus and Gorgias, Archer-Hind's Phaedo, Starkie's Aristophanes (3, two with translation), Merry and Riddell's Odyssey I-XII, J. S. Reid (6, with The Municipalities of the Roman Empire), Holden's Cicero and Plutarch (6), Susemihl and Hicks's Politics, Paley's prose Aeschylus, Bury's Nemean Odes, Gildersleeve's Pindar, Rutherford's Babrius. Nine new shelves.
 - Some scans OCR the English as Greek letters and cannot be used: Bury's Isthmian Odes, Sandys's Bacchae, five Holden school editions.
 - Two imprints I wrote from the catalogue before reading the title page were wrong and are fixed. From here every imprint is read first.
+
+## 2026-10-23 — Round dt: Rennie, Paley, Sidgwick, Page, Shuckburgh
+- 27 volumes. Four new shelves: Rennie's Acharnians; Paley's Euripides (vols. II-III, two school plays) and his verse renderings of the Greek comic fragments; Arthur Sidgwick's Aeschylus (4 plays) and Cambridge Virgil (2 vols); T. E. Page's Horace, Virgil and Acts. Shuckburgh +9 (Divus Augustus, his histories of Rome and Greece, school editions). Tyrrell's Bacchae; Allen and Sikes's Homeric Hymns.
+- Not taken: Paley's Euripides vol. I (no scan), Sidgwick's Persae and Neil's Knights (English OCRs as Greek letters), Page's Aeneid (only 1950s reprints scanned).
