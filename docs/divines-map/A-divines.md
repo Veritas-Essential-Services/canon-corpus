@@ -9568,3 +9568,36 @@ Slugs `mayhew-*`. Built from title pages read for round 39.
 | The Snare Broken: a Thanksgiving Discourse preached at the Desire of the West Church in Boston, Friday May 23, 1766, occasioned by the Repeal of the Stamp Act (Boston: R. & S. Draper, 1766) | have-ocr | IA `snarebrokenthank00mayh` |
 | Other scans: the bim_eighteenth-century_ copies of the 1749, 1750, 1755, 1759, 1760, 1761, 1763, 1765 and 1766 printings; wsb/wsp image-only copies; cihm microfiche of the 1759 Two Discourses; the 1818 reprints of the 1750 Discourse; Sermons to Young Men (London, 1767, 2 vols, a reprint of Christian Sobriety) | alternate | not shelved |
 | Secker's Answer to Dr. Mayhew's Observations (1764); Experience Mayhew, Thomas Mayhew and other Mayhews; Chauncy's sermon on his death (on the Charles Chauncy shelf) | excluded | |
+
+## Charles Chauncy (round 39, my pick, 2026-10-22)
+
+Slugs `chauncy-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The New Creature described and considered, as the Sure Characteristick of a Man's being in Christ: a Sermon preached at the Boston Thursday-Lecture, June 4, 1741 (Boston printed; Edinburgh: reprinted for Samuel Clark, MDCCXLII) | have-ocr | IA `thenewcreature00chauuoft` |
+| The Out-pouring of the Holy Ghost: a Sermon preach'd in Boston, May 13, 1742, on a Day of Prayer observed by the First Church there (Boston: T. Fleet, for D. Henchman and S. Eliot, 1742) | have-ocr | IA `outpouringofholy00chaurich` |
+| Seasonable Thoughts on the State of Religion in New-England: a Treatise in Five Parts (Boston: Rogers and Fowle, for Samuel Eliot, 1743) | have-ocr | IA `seasonablethough00chau` |
+| Ministers cautioned against the Occasions of Contempt: a Sermon preached before the Ministers of the Province of the Massachusetts-Bay at their Annual Convention, May 31, 1744 (Boston: Rogers and Fowle, for Samuel Eliot, 1744) | have-ocr | IA `ministerscaution00chaurich` |
+| Marvellous Things done by the right Hand and holy Arm of God in getting him the Victory: a Sermon preached the 18th of July, 1745, a Day of Thanksgiving for the Reduction of Cape-Breton (Boston: Fleet, 1745) | have-ocr | IA `sermonpreached1800chauuoft` |
+| Earthquakes a Token of the Righteous Anger of God: a Sermon preached at the Old-Brick-Meeting-House in Boston, the Lord's-Day after the Earthquake of 18 November 1755 (Boston: Edes and Gill, MDCCLV) | have-ocr | IA `earthquakestoken00chau` |
+| All Nations of the Earth blessed in Christ, the Seed of Abraham: a Sermon preached at Boston, at the Ordination of the Rev. Mr. Joseph Bowman, to the Work of the Gospel-Ministry, more especially among the Mohawk-Indians, August 31, 1762 (Boston: John Draper, 1762) | have-ocr | IA `bim_eighteenth-century_all-nations-of-the-earth_chauncy-charles-dd-_1762` |
+| The Validity of Presbyterian Ordination asserted and maintained: a Discourse delivered at the Anniversary Dudleian-Lecture at Harvard-College, May 12, 1762, with an Appendix on the Epistles ascribed to Ignatius (Boston: Richard Draper and Thomas Leverett, 1762) | have-ocr | IA `validityofpresby00chau` |
+| Twelve Sermons on the following Seasonable and Important Subjects: Justification impossible by the Works of the Law, and others (Boston: D. and J. Kneeland, for Thomas Leverett, MDCCLXV) | have-ocr | IA `twelvesermonsonf00chau` |
+| A Discourse occasioned by the Death of the Reverend Jonathan Mayhew, D.D., late Pastor of the West-Church in Boston (Boston: R. and S. Draper, Edes and Gill, and T. and J. Fleet, MDCCLXVI) | have-ocr | IA `discourseoccasio00chaurich` |
+| A Letter to a Friend, containing Remarks on certain Passages in a Sermon preached by the Right Reverend John, Lord Bishop of Landaff, before the Society for the Propagation of the Gospel (Boston: Kneeland and Adams, 1767) | have-ocr | IA `lettertofriendco00chau` |
+| The Appeal to the Public answered, in Behalf of the Non-Episcopal Churches in America, containing Remarks on what Dr. Thomas Bradbury Chandler has advanced (Boston: Kneeland and Adams, 1768) | have-ocr | IA `appealtopublica00chau` |
+| A Reply to Dr. Chandler's Appeal Defended, wherein his Mistakes are rectified, his False Arguing refuted, and the Objections against the Planned American Episcopate shewn to remain in full Force (Boston: D. Kneeland, 1770) | have-ocr | IA `replytodrchandle00chau` |
+| Trust in God, the Duty of a People in a Day of Trouble: a Sermon preached May 30th, 1770 (Boston: Daniel Kneeland, for Thomas Leverett, 1770) | have-ocr | IA `trustingoddutyof00chaurich` |
+| A Compleat View of Episcopacy, as exhibited from the Fathers of the Christian Church, until the Close of the Second Century (Boston: Daniel Kneeland, for Thomas Leverett, 1771) | have-ocr | IA `compleatviewofep00chau` |
+| 'Breaking of Bread,' in Remembrance of the Dying Love of Christ, a Gospel Institution: Five Sermons (Boston: D. Kneeland, 1772) | have-ocr | IA `breakingofbreadi00chau` |
+| The Benevolence of the Deity, fairly and impartially considered, in Three Parts (Boston: Powars & Willis, MDCCLXXXIV) | have-ocr | IA `benevolenceofdei00chau` |
+| Five Dissertations on the Scripture Account of the Fall, and its Consequences (London: C. Dilly, 1785) | have-ocr | IA `fivedissertation00chau` |
+| A Sermon delivered at the First Church in Boston, March 13th, 1785, occasioned by the Return of the Society to their House of Worship (Boston: Greenleaf and Freeman, MDCCLXXXV) | have-ocr | IA `sermondelivereda00chaurich` |
+| A Letter from a Gentleman in Boston to Mr. George Wishart (Edinburgh, MDCCXLII, letterfromgentle00chau): the title page and text name no author, the catalogue credits Chauncy | pending | not shelved |
+| A Letter to a Friend, giving an Account of the Ohio Defeat (Boston: Edes and Gill, MDCCLV, lettertofriendgi00chau) and its Second Letter (cihm_58238): signed only T. W., the catalogue credits Chauncy | pending | not shelved |
+| Divine Glory brought to View in the Final Salvation of All Men (Boston: T. and J. Fleet, 1783, divineglory00chaurich): signed 'one who wishes well to all mankind', no name | pending | not shelved |
+| The Mystery hid from Ages and Generations, or The Salvation of All Men (London: C. Dilly, 1784, mysteryhidfromag00chau): the title page names no author | pending | not shelved |
+| Other scans: seasonablethough00unkn, seasonablethou00chaurich and the bim 1743 copy; cihm_29573 and cihm_33495 (the London reprint of the Cape-Breton sermon); twelvesermonsonf00chau_0; replytodrchandle00chau_0; the four other Compleat View scans; appealtopublican00chau; mysteryhidfromag00chau_0; fivedissertation01chau; Breaking of Bread (1816, breakingofbreadibr00chau) | alternate | not shelved |
+| allnationsofeart00chau: its text layer is a 1916 German libretto, not the sermon (wrong-book OCR); the bim scan is shelved instead | excluded | |
+| Chandler's Appeal to the Public (1767); the younger Edwards's Salvation of All Men Strictly Examined (1790), an answer to him; image-only scans with no text layer (wsb); manuscript letters; Charles Chauncy (1592-1672), president of Harvard | excluded | |
