@@ -46345,3 +46345,40 @@ Shelf: `pipeline/storytellers-tail-17_shelf.json` (2026-10-22; added at the coor
 | A Boy's Ride | have | PG 7806, `gzollinger-boy-s-ride` (1451 units) |
 | The Widow O'Callaghan's Boys | have | PG 9329, `gzollinger-widow-o-callaghan-s-boys` (1240 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 18815 The Mark of the Beast (copyright line 1933). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 18 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-18_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Belle K. Abbott, Keene Abbott, Alex. St. Clair Abrams, Ellinor Davenport Adams, Frederick Upham Adams, J. S. Adams, John S. Adams, William Adams, Sarah Addington, Cyrus Adler, Anna Adolph, Effie Afton, George L. Aiken, Robert Aitken, Cynthia May Westover Alden, Ellen Tracy Alden, Anne Reeve Aldrich, Charles Wesley Alexander, James B. Alexander, Abby Langdon Alger, Frank Waller Allen, James M. Allerton, N. Ames, Charles Bean Amory, Rasmus Björn Anderson, Albert d' Anethan, Charles J. Archard, Annie E. Armstrong, F. C. Armstrong, James Armstrong. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Leah Mordecai: A Novel | have | PG 4955, `bkabbott-leah-mordecai` (1153 units) |
+| A Melody in Silver | have | PG 18434, `kabbott-melody-in-silver` (480 units) |
+| The Trials of the Soldier's Wife: A Tale of the Second American Revolution | have | PG 17955, `ascabrams-trials-of-the-soldier-s-wife` (1360 units) |
+| A Girl of To-day | have | PG 66382, `edadams-girl-of-to-day` (2135 units) |
+| John Henry Smith: A humorous romance of outdoor life | have | PG 15247, `fuadams-john-henry-smith` (2070 units) |
+| Allegories of Life | have | PG 15895, `jsadams-allegories-of-life` (663 units) |
+| Town and Country; Or, Life at Home and Abroad, Without and Within Us | have | PG 4669, `jsadams-town-and-country` (1512 units) |
+| The old man's home | have | PG 75652, `wadams-old-man-s-home` (188 units) |
+| Round the year in Pudding Lane | have | PG 78322, `saddington-round-the-year-in-pudding-lane` (1229 units) |
+| Told in the Coffee House: Turkish Tales | have | PG 30577, `cadler-told-in-the-coffee-house` (522 units) |
+| Arqtiq: A Study of the Marvels at the North Pole | have | PG 56696, `aadolph-arqtiq` (781 units) |
+| Eventide A Series of Tales and Poems | have | PG 20185, `eafton-eventide-a-series-of-tales-and-poems` (3001 units) |
+| The Antelope Boy; or, Smoholler the Medicine Man A Tale of Indian Adventure and Mystery | have | PG 66190, `glaiken-antelope-boy` (1305 units) |
+| The White Blackbird | have | PG 39066, `raitken-white-blackbird` (2255 units) |
+| Bushy | have | PG 78043, `cmwalden-bushy` (1497 units) |
+| Stories and ballads for young folks | have | PG 68926, `etalden-stories-and-ballads-for-young-folks` (1156 units) |
+| A Village Ophelia, and Other Stories | have | PG 14978, `araldrich-village-ophelia-and-other-stories` (379 units) |
+| Angel Agnes The Heroine of the Yellow Fever Plague in Shreveport | have | PG 17200, `cwalexander-angel-agnes-the-heroine-of-the-yellow-fever-plag` (324 units) |
+| The Lunarian Professor and His Remarkable Revelations Concerning the Earth, the Moon and Mars Together with An Account of the Cruise of the Sally Ann | have | PG 60059, `jbalexander-lunarian-professor-and-his-remarkable-revelation` (664 units) |
+| In Indian Tents Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger | have | PG 51908, `alalger-in-indian-tents-stories-told-by-penobscot-passamaquo` (555 units) |
+| The Golden Road | have | PG 35509, `fwallen-golden-road` (729 units) |
+| Hawk's Nest; or, The Last of the Cahoonshees. A Tale of the Delaware Valley and Historical Romance of 1690. | have | PG 57358, `jmallerton-hawk-s-nest` (2163 units) |
+| An Old Sailor's Yarns | have | PG 29323, `names-old-sailor-s-yarns` (1065 units) |
+| Roster of Company I, 24th Regiment, Massachusetts Volunteers | have | PG 36673, `cbamory-roster-of-company-i-24th-regiment-massachusetts-volu` (168 units) |
+| Norse mythology; or, The religion of our forefathers, containing all the myths of the Eddas, systematized and interpreted | have | PG 65910, `rbanderson-norse-mythology` (2664 units) |
+| It Happened in Japan | have | PG 58930, `adanethan-it-happened-in-japan` (1141 units) |
+| The Portland Peerage Romance | have | PG 14371, `cjarchard-portland-peerage-romance` (443 units) |
+| Three Bright Girls: A Story of Chance and Mischance | have | PG 62631, `aearmstrong-three-bright-girls` (1478 units) |
+| The sailor hero | have | PG 72170, `fcarmstrong-sailor-hero` (2737 units) |
+| Roster of Company I, 24th Regiment, Massachusetts Volunteers | have | PG 36673, `jarmstrong-roster-of-company-i-24th-regiment-massachusetts-v` (168 units) |
