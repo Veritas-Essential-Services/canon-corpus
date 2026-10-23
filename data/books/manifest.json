@@ -4,7 +4,7 @@
   "author": "—",
   "format": "gutenberg-txt",
   "sha256": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0",
-  "units": 30682,
+  "units": 31102,
   "scheme": {
    "citation": "Book chapter:verse (OSIS ids)",
    "resolution": "verse",
@@ -784,10 +784,10 @@
   "author": "William Shakespeare",
   "format": "gutenberg-txt",
   "sha256": "3cf4b3d44ee14cff4e14e78e2ad3318eff76f3f7f2afc3cee6bb925879110a37",
-  "units": 39360,
+  "units": 39491,
   "scheme": {
-   "citation": "play.act.scene.line (e.g. shakespeare:macbeth.5.5.17)",
-   "resolution": "speech-block, with its line range",
+   "citation": "plays play.act.scene.line (shakespeare:macbeth.5.5.17); poems poem.section.line (shakespeare:sonnets.18.1, shakespeare:venus-and-adonis.0.145)",
+   "resolution": "speech-block or stanza, with its line range; a sonnet is one unit, so the poem is copied whole",
    "honesty": "act/scene from headings; lineation preserved from the source; lines numbered per scene, counting spoken lines only (speaker names and stage directions excluded, as an editor excludes them). This Gutenberg text is our edition of record: numbers land within a line or two of standard editions where verse is unshared, and drift further where editors join a verse line split between speakers. Verify against a printed edition before any number is published as exact."
   }
  },
@@ -1646,6 +1646,31 @@
   "units": 104,
   "scheme": {
    "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "aquinas-summa-supp": {
+  "title": "Summa Theologica, Supplement to the Third Part",
+  "author": "Saint Thomas Aquinas",
+  "format": "thml",
+  "sha256": "89d2b8ff7ed2823402b589c0f62ad2fd65c6bfc78b0a08c396966016086272ca",
+  "units": 5244,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "dickens-carol": {
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "format": "gutenberg-txt",
+  "sha256": "8c36b93723d454982df045ec0efdf2664e5a48e6b5e2f670e883575f75ad0cc8",
+  "units": 711,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 3830 of 3853 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
