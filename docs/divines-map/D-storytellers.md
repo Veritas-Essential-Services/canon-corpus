@@ -19696,3 +19696,64 @@ Shelf: `pipeline/storytellers-tail-10_shelf.json` (2026-10-22; added at the coor
 | Ralph Granger's Fortunes | have | PG 18683, `wpbrown-ralph-granger-s-fortunes` (1653 units) |
 | A Fool There Was | have | PG 6305, `pebrowne-fool-there-was` (1515 units) |
 | The Bad Man: A Novel | have | PG 16968, `pebrowne-bad-man` (2102 units) |
+
+## Storytellers' tail, group 11 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-11_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: J. E. Buckrose, Hayden Carruth, Charles E. Carryl, J. André Castaigne, Arthur Chapman, Henry Clarke, Michael Clarke, William Wallace Cook, Grace MacGowan Cooke, Oll Coomes, Henry St. John Cooper, Corner, Julia Darrow Cowles, E. E. Cowper, Frank Cowper, Gertrude Crownfield, David A. Curtis, Mary Stewart Daggett, William Dalton, Foxcroft Davis, Charles Turner Dazey, James S. De Benneville, John De Morgan, Edna Groff Deihl, Ellen Douglas Deland, Burford Delannoy, C. Despard. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Privet Hedge | have | PG 24333, `jebuckrose-privet-hedge` (1303 units) |
+| A Bachelor's Comedy | have | PG 49861, `jebuckrose-bachelor-s-comedy` (2350 units) |
+| The Voyage of the Rattletrap | have | PG 16586, `hcarruth-voyage-of-the-rattletrap` (715 units) |
+| Track's End Being the Narrative of Judson Pitcher's Strange Winter Spent There as Told by Himself and Edited by Hayden Carruth Including an Accurate Account of His Numerous Adventures, and the Facts Concerning His Several Surprising Escapes from Death Now First Printed in Full | have | PG 28873, `hcarruth-track-s-end-being-the-narrative-of-judson-pitcher-s` (657 units) |
+| The Admiral's Caravan | have | PG 24379, `cecarryl-admiral-s-caravan` (518 units) |
+| Davy and the Goblin What Followed Reading 'Alice's Adventures in Wonderland' | have | PG 25031, `cecarryl-davy-and-the-goblin-what-followed-reading-alice-s-a` (684 units) |
+| The Bill-Toppers | have | PG 26242, `jacastaigne-bill-toppers` (2230 units) |
+| Fata Morgana: A Romance of Art Student Life in Paris | have | PG 59052, `jacastaigne-fata-morgana` (2743 units) |
+| Mystery Ranch | have | PG 30989, `achapman-mystery-ranch` (1086 units) |
+| Rustlers beware! | have | PG 68554, `achapman-rustlers-beware` (460 units) |
+| Miss Merivale's Mistake | have | PG 8151, `hclarke-miss-merivale-s-mistake` (689 units) |
+| The Bushranger's Secret | have | PG 38791, `hclarke-bushranger-s-secret` (910 units) |
+| Story of Aeneas | have | PG 6003, `mclarke-story-of-aeneas` (494 units) |
+| The Story of Troy | have | PG 16990, `mclarke-story-of-troy` (941 units) |
+| Adrift in the Unknown; or, Queer Adventures in a Queer Realm | have | PG 44404, `wwcook-adrift-in-the-unknown` (1717 units) |
+| The Fiction Factory Being the experience of a writer who, for twenty-two years, has kept a story-mill grinding successfully | have | PG 47455, `wwcook-fiction-factory-being-the-experience-of-a-writer-who` (1059 units) |
+| The Power and the Glory | have | PG 10068, `gmcooke-power-and-the-glory` (1872 units) |
+| The Girls of Silver Spur Ranch | have | PG 44576, `gmcooke-girls-of-silver-spur-ranch` (843 units) |
+| Rainbolt, the Ranger; or, The Aerial Demon of the Mountain | have | PG 59847, `ocoomes-rainbolt-the-ranger` (1127 units) |
+| The Boy Ranger; or, The Heiress of the Golden Horn | have | PG 65629, `ocoomes-boy-ranger` (984 units) |
+| The Imaginary Marriage | have | PG 15103, `hsjcooper-imaginary-marriage` (2541 units) |
+| The Garden of Memories | have | PG 49074, `hsjcooper-garden-of-memories` (2437 units) |
+| More Seeds of Knowledge; Or, Another Peep at Charles | have | PG 11099, `corner-more-seeds-of-knowledge` (142 units) |
+| The Child's Pictorial History of England From the Earliest Period to the Present Time | have | PG 64905, `corner-child-s-pictorial-history-of-england-from-the-earlies` (1028 units) |
+| The Art of Story-Telling, with nearly half a hundred stories | have | PG 66303, `jdcowles-art-of-story-telling-with-nearly-half-a-hundred-sto` (1315 units) |
+| Indian Nature Myths | have | PG 70318, `jdcowles-indian-nature-myths` (603 units) |
+| Two on the Trail: A Story of Canada Snows | have | PG 40663, `eecowper-two-on-the-trail` (756 units) |
+| Pam and the Countess | have | PG 53468, `eecowper-pam-and-the-countess` (2248 units) |
+| Cædwalla; or, The Saxons in the Isle of Wight: A Tale | have | PG 53726, `fcowper-cdwalla` (1556 units) |
+| The Captain of the Wight: A Romance of Carisbrooke Castle in 1488 | have | PG 53754, `fcowper-captain-of-the-wight` (2220 units) |
+| The Shadow Witch | have | PG 25005, `gcrownfield-shadow-witch` (663 units) |
+| Princess White Flame | have | PG 58042, `gcrownfield-princess-white-flame` (626 units) |
+| Stand Pat; Or, Poker Stories from the Mississippi | have | PG 51760, `dacurtis-stand-pat` (1052 units) |
+| Queer Luck: Poker Stories from the New York Sun | have | PG 57751, `dacurtis-queer-luck` (451 units) |
+| The Higher Court | have | PG 36509, `msdaggett-higher-court` (656 units) |
+| Mariposilla: A Novel | have | PG 39709, `msdaggett-mariposilla` (1022 units) |
+| The War Tiger Or, Adventures and Wonderful Fortunes of the Young Sea Chief and His Lad Chow: A Tale of the Conquest of China | have | PG 39163, `wdalton-war-tiger-or-adventures-and-wonderful-fortunes-of-th` (1308 units) |
+| A royal smuggler | have | PG 74489, `wdalton-royal-smuggler` (1813 units) |
+| The Whirl: A Romance of Washington Society | have | PG 45100, `fdavis-whirl` (860 units) |
+| Mrs. Darrell | have | PG 47378, `fdavis-mrs-darrell` (1057 units) |
+| In Old Kentucky | have | PG 13933, `ctdazey-in-old-kentucky` (1849 units) |
+| The Old Flute-Player: A Romance of To-day | have | PG 17841, `ctdazey-old-flute-player` (810 units) |
+| The Yotsuya Kwaidan or O'Iwa Inari Tales of the Tokugawa, Volume 1 (of 2) | have | PG 19944, `jsdebenneville-yotsuya-kwaidan-or-o-iwa-inari-tales-of-the-t` (629 units) |
+| Bakemono Yashiki (The Haunted House), Retold from the Japanese Originals Tales of the Tokugawa, Volume 2 (of 2) | have | PG 19945, `jsdebenneville-bakemono-yashiki-the-haunted-house-retold-fro` (435 units) |
+| The Hero of Ticonderoga; or, Ethan Allen and His Green Mountain Boys | have | PG 25708, `jdemorgan-hero-of-ticonderoga` (2900 units) |
+| The Cruise of the "Lively Bee"; Or, A Boy's Adventures in the War of 1812 | have | PG 46371, `jdemorgan-cruise-of-the-lively-bee` (3040 units) |
+| My twin kitties | have | PG 68248, `egdeihl-my-twin-kitties` (76 units) |
+| My twin puppies | have | PG 68254, `egdeihl-my-twin-puppies` (68 units) |
+| A successful venture | have | PG 68799, `eddeland-successful-venture` (1474 units) |
+| Oakleigh | have | PG 76126, `eddeland-oakleigh` (1967 units) |
+| £19,000 | have | PG 34934, `bdelannoy-19-000` (2807 units) |
+| Prince Charlie | have | PG 40611, `bdelannoy-prince-charlie` (2153 units) |
+| Chaste as Ice, Pure as Snow: A Novel | have | PG 58324, `cdespard-chaste-as-ice-pure-as-snow` (2709 units) |
+| The Rajah's Heir A Novel in 3 volumes | have | PG 58486, `cdespard-rajah-s-heir-a-novel-in-3-volumes` (3286 units) |
