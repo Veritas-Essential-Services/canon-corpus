@@ -17364,6 +17364,24 @@ Slugs `stall-*`. Built from title pages read for round 113.
 | With the Children on Sundays (The Uplift Publishing Company, 1911) | have-ocr | IA `withchildrenonsu0000sylv` |
 | What parents should teach their children (Philadelphia, Boston [etc.] American Baptist publication society, 1912) | have-ocr | IA `whatparentsshoul00stal` |
 | What a Young Girl Ought to Know is by Mary Wood-Allen; the Finnish and Armenian translations and his salesmen's manual are left out | excluded | |
+
+## Thomas Hopkins Gallaudet (round 113, my pick, 2026-10-23)
+
+Slugs `gallaudet-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on various points of Christian faith and practice : most of which were delivered in the Chapel of the Oratoire, in Paris, in the Spring of M.DCCC.XVI (London : Printed by Ellerton and Henderson, for J. Hatchard, 1818) | have-ocr | IA `discoursesonvar00gall` |
+| Plan of a seminary for the education of instructors of youth (Boston : Cummings, Hilliard and Co., 1825) | have-ocr | IA `planofseminaryfo00gall` |
+| An address on female education (Hartford, H. & F. J. Huntington, 1828) | have-ocr | IA `addressonfemalee00gall` |
+| The youth's book on natural theology; illustrated in familiar dialogues, with numerous engravings (New York, The American Tract Society, 1832) | have-ocr | IA `youthsbookonnatu00gall` |
+| The child's book on the soul (catalogued 1832) | have-ocr | IA `childsbookonsou01gallgoog` |
+| The history of Jonah, for children and youth (Boston, Crocker & Brewster; New York, J. Leavitt, 1833) | have-ocr | IA `historyofjonahfo00gall` |
+| The history of Joseph, for children and youth; designed also as an aid to familiar Biblical exposition in families, Sabbath schools, and Bible classes (New York, American Tract Society, 1834) | have-ocr | IA `historyofjosephf00gall` |
+| The child's book of Bible stories : with practical illustrations and remarks on the fall (New York : American Tract Society, 1834) | have-ocr | IA `childsbookofbibl00gall` |
+| A Sermon on the Duty and Advantages of Affording Instruction to the Deaf and Dumb (Hill, 1824), IA asermonondutyan00gallgoog: no author readable in the Google OCR and the text file now returns a server error; recheck | pending | not shelved |
+| His spelling books, picture-defining books and dictionary, the foreign-language translations, Clerc's address, and books by others he introduced, are left out | excluded | |
+| childsbookonsoul00gall (a Marathi translation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
