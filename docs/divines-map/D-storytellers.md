@@ -20765,3 +20765,40 @@ Shelf: `pipeline/storytellers-tail-35_shelf.json` (2026-10-22; added at the coor
 | Dreams and Dream Stories | have | PG 5651, `abkingsford-dreams-and-dream-stories` (972 units) |
 | History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service | have | PG 24906, `jrkinnear-history-of-the-eighty-sixth-regiment-illinois-volu` (516 units) |
 | The Golden Dog | have | PG 2735, `wkirby-golden-dog` (4195 units) |
+
+## Storytellers' tail, group 36 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-36_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Marshall M. Kirkman, Thomas Kirwan, Frank Koester, Nathan C. Kouns, Joseph Martin Kronheim, Frederick Landis, Angela Langer, Mary A. Lathbury, Andreas Latzko, C. E. Lawrence, Alice D. Le Plongeon, Homer Lea, William Harvey Leathem, Mary Elizabeth Southwell Dudley Leathley, C. Lee, Day Kellogg Lee, Eliza Buckminster Lee, Holme Lee, M. Lee, Minnie Mary Lee, R. Lee, Félicité Lefèvre, John Lespérance, Bruno Lessing, Charlton M. Lewis, G. W. Lewis, Jeanie Gould Lincoln, Frank Bird Linderman, David Lindsay, William Lindsey. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Romance of Gilbert Holmes: An Historical Novel | have | PG 53006, `mmkirkman-romance-of-gilbert-holmes` (2417 units) |
+| Soldiering in North Carolina Being the experiences of a 'typo' in the pines, swamps, fields, sandy roads, towns, cities, and among the fleas, wood-ticks, 'gray-backs,' mosquitoes, blue-tail flies, moccasin snakes, lizards, scorpions, rebels, and other reptiles, pests, and vermin of the 'Old North State.' Embracing an account of the three-years and nine-months Massachusetts regiments in the department, the freedmen, etc., etc., etc. | have | PG 45894, `tkirwan-soldiering-in-north-carolina-being-the-experiences-o` (535 units) |
+| Under the desert stars | have | PG 73080, `fkoester-under-the-desert-stars` (1480 units) |
+| Arius the Libyan: A Romance of the Primitive Church | have | PG 42895, `nckouns-arius-the-libyan` (1036 units) |
+| My First Picture Book With Thirty-six Pages of Pictures Printed in Colours by Kronheim | have | PG 18937, `jmkronheim-my-first-picture-book-with-thirty-six-pages-of-pi` (108 units) |
+| The Angel of Lonesome Hill; A Story of a President | have | PG 9193, `flandis-angel-of-lonesome-hill` (154 units) |
+| Rue and Roses | have | PG 63947, `alanger-rue-and-roses` (1072 units) |
+| Child's Story of the Bible | have | PG 25309, `malathbury-child-s-story-of-the-bible` (1905 units) |
+| Men in War | have | PG 8440, `alatzko-men-in-war` (546 units) |
+| Much Ado About Something | have | PG 52101, `celawrence-much-ado-about-something` (1504 units) |
+| Queen Moo's Talisman: The Fall of the Maya Empire | have | PG 47842, `adleplongeon-queen-moo-s-talisman` (279 units) |
+| The Vermilion Pencil: A Romance of China | have | PG 54950, `hlea-vermilion-pencil` (1879 units) |
+| The Comrade in White | have | PG 9384, `whleathem-comrade-in-white` (87 units) |
+| Mamma's Stories about Birds | have | PG 24378, `mesdleathley-mamma-s-stories-about-birds` (87 units) |
+| The oak staircase | have | PG 72455, `clee-oak-staircase` (962 units) |
+| Summerfield or, Life on a Farm | have | PG 23832, `dklee-summerfield-or-life-on-a-farm` (905 units) |
+| Delusion; or, The Witch of New England | have | PG 39176, `eblee-delusion` (577 units) |
+| The Vicissitudes of Bessie Fairfax | have | PG 17086, `hlee-vicissitudes-of-bessie-fairfax` (2111 units) |
+| The oak staircase | have | PG 72455, `mlee-oak-staircase` (962 units) |
+| Hubert's Wife A Story for You | have | PG 21949, `mmlee-hubert-s-wife-a-story-for-you` (1110 units) |
+| Anecdotes of the Habits and Instinct of Animals | have | PG 21973, `rlee-anecdotes-of-the-habits-and-instinct-of-animals` (853 units) |
+| The cock, the mouse, and the little red hen | have | PG 29980, `flefevre-cock-the-mouse-and-the-little-red-hen` (240 units) |
+| The Bastonnais Tale of the American Invasion of Canada in 1775-76 | have | PG 18967, `jlesperance-bastonnais-tale-of-the-american-invasion-of-cana` (1972 units) |
+| Children of Men | have | PG 54761, `blessing-children-of-men` (983 units) |
+| Gawayne and the Green Knight: A Fairy Tale | have | PG 14410, `cmlewis-gawayne-and-the-green-knight` (71 units) |
+| The Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and Roll of Honor | have | PG 52223, `gwlewis-campaigns-of-the-124th-regiment-ohio-volunteer-infan` (377 units) |
+| An Unwilling Maid Being the History of Certain Episodes during the American Revolution in the Early Life of Mistress Betty Yorke, born Wolcott | have | PG 10958, `jglincoln-unwilling-maid-being-the-history-of-certain-episod` (925 units) |
+| Indian Why Stories: Sparks from War Eagle's Lodge-Fire | have | PG 606, `fblinderman-indian-why-stories` (492 units) |
+| A Voyage to Arcturus | have | PG 1329, `dlindsay-voyage-to-arcturus` (3142 units) |
+| At Start and Finish | have | PG 39668, `wlindsey-at-start-and-finish` (835 units) |
