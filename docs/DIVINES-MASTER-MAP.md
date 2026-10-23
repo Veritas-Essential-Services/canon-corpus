@@ -18503,6 +18503,18 @@ Shelf: `pipeline/g-a-simcox_shelf.json`. History of Latin Literature (1883), 2 v
 | A History of Latin Literature from Ennius to Boethius, vol. I (1883) |  | `simcox-latin-literature-v1-1883` | have-raw (IA `historyoflatinli01simcuoft`) |
 | A History of Latin Literature from Ennius to Boethius, vol. II (1883) |  | `simcox-latin-literature-v2-1883` | have-raw (IA `historyoflatinli02simcuoft`) |
 
+
+## F. W. Bussell (1862-1944)
+
+Shelf: `pipeline/f-w-bussell_shelf.json`. School of Plato, later Stoics, Roman constitutional history. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The School of Plato: its Origin, Development, and Revival under the Roman Empire (1896) |  | `bussell-school-of-plato-1896` | have-raw (IA `cu31924029000433`) |
+| Marcus Aurelius and the Later Stoics (1910) |  | `bussell-marcus-aurelius-later-stoics-1910` | have-raw (IA `in.ernet.dli.2015.154112`) |
+| The Roman Empire: Essays on the Constitutional History from the Accession of Domitian (81 A.D.) to the Retirement of Nicephorus III (1081 A.D.), vol. I (1910) |  | `bussell-roman-empire-v1-1910` | have-raw (IA `romanempireessay01bussuoft`) |
+| The Roman Empire: Essays on the Constitutional History, vol. II (1910) |  | `bussell-roman-empire-v2-1910` | have-raw (IA `romanempireessay02bussuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

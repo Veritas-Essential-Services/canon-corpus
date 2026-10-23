@@ -1,0 +1,85 @@
+{
+ "_about": "Frederick William Bussell (1862-1944): The School of Plato (1896), Marcus Aurelius and the Later Stoics (1910), The Roman Empire: essays on the constitutional history 81-1081 (1910, 2 vols.). His theology is out of lane B's scope.",
+ "_author": "F. W. Bussell (1862-1944)",
+ "_name_words": [
+  "bussell",
+  "plato",
+  "school",
+  "stoics",
+  "marcus",
+  "aurelius",
+  "roman",
+  "empire"
+ ],
+ "_surname": [
+  "bussell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bussell-school-of-plato-1896": [
+   "cu31924029000433",
+   "The School of Plato: its Origin, Development, and Revival under the Roman Empire (1896)"
+  ],
+  "bussell-marcus-aurelius-later-stoics-1910": [
+   "in.ernet.dli.2015.154112",
+   "Marcus Aurelius and the Later Stoics (1910)",
+   "2015.154112.Marcus-Aurelius-And-The-Later-Stoics_djvu.txt"
+  ],
+  "bussell-roman-empire-v1-1910": [
+   "romanempireessay01bussuoft",
+   "The Roman Empire: Essays on the Constitutional History from the Accession of Domitian (81 A.D.) to the Retirement of Nicephorus III (1081 A.D.), vol. I (1910)"
+  ],
+  "bussell-roman-empire-v2-1910": [
+   "romanempireessay02bussuoft",
+   "The Roman Empire: Essays on the Constitutional History, vol. II (1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bussell-school-of-plato-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bussell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bussell-marcus-aurelius-later-stoics-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bussell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bussell-roman-empire-v1-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bussell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bussell-roman-empire-v2-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bussell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
