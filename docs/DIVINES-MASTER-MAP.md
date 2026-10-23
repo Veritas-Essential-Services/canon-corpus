@@ -17382,6 +17382,17 @@ Slugs `gallaudet-*`. Built from title pages read for round 113.
 | A Sermon on the Duty and Advantages of Affording Instruction to the Deaf and Dumb (Hill, 1824), IA asermonondutyan00gallgoog: no author readable in the Google OCR and the text file now returns a server error; recheck | pending | not shelved |
 | His spelling books, picture-defining books and dictionary, the foreign-language translations, Clerc's address, and books by others he introduced, are left out | excluded | |
 | childsbookonsoul00gall (a Marathi translation) | excluded | |
+
+## Archibald Alison (round 113, my pick, 2026-10-23)
+
+Slugs `aalison-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, chiefly on particular occasions, vol. 1 (Boston : Wells and Lilly, 1815) | have-ocr | IA `sermonschieflyon01alis` |
+| A discourse preached in the Episcopal Chapel, Cowgate, Edinburgh, Feb. 9, 1809; being the day approved by His Majesty for a general fast (Edinburgh : G. Ramsay for A. Constable, etc., 1810) | have-ocr | IA `b3187566x` |
+| Essays on the nature and principles of taste (Edinburgh : Printed by J. J. G. and G. Robinson, London; and Bell and Bradfute, Edinburgh, 1790) | have-ocr | IA `essaysonnaturepr00alis` |
+| The histories of Europe are by his son Sir Archibald Alison | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
