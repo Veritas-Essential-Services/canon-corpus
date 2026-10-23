@@ -8964,3 +8964,13 @@ Shelf: `pipeline/teuffel_shelf.json`. History of Roman Literature, tr. Wagner (1
 | A History of Roman Literature, vol. I: The Republican Period (1873), tr. Wilhelm Wagner |  | `teuffel-roman-literature-v1-1873` | have-raw (IA `india.history.resource.78413`) |
 | A History of Roman Literature, vol. II: The Imperial Period (1873), tr. Wilhelm Wagner |  | `teuffel-roman-literature-v2-1873` | have-raw (IA `india.history.resource.78412`) |
 
+
+## George Augustus Simcox (1841-1905)
+
+Shelf: `pipeline/g-a-simcox_shelf.json`. History of Latin Literature (1883), 2 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Latin Literature from Ennius to Boethius, vol. I (1883) |  | `simcox-latin-literature-v1-1883` | have-raw (IA `historyoflatinli01simcuoft`) |
+| A History of Latin Literature from Ennius to Boethius, vol. II (1883) |  | `simcox-latin-literature-v2-1883` | have-raw (IA `historyoflatinli02simcuoft`) |
+
