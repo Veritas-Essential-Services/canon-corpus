@@ -10249,3 +10249,19 @@ Shelf: `pipeline/charles-rollin_shelf.json`. Ancient History (6 vols, 1850-51; V
 
 Excluded: ancienthistorye40rollgoog (1850 Longman Vol. I: Gutenberg 28558 is the clean text of the same printing); romanhistoryfrom01roll (1768 Rivington Roman History (John Adams's set): Vol. 7 is missing on IA and its OCR is weaker than the 1754 set's)
 
+
+## Nathaniel Hooke (d. 1763)
+
+Shelf: `pipeline/nathaniel-hooke_shelf.json`. The Roman History, from the Building of Rome to the Ruin of the Commonwealth (1821, 6 vols). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. I (London, 1821) |  | `hooke-roman-history-v1` | have-raw (IA `10433218bsb`) |
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. II (London, 1821) |  | `hooke-roman-history-v2` | have-raw (IA `10433219bsb`) |
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. III (London, 1821) |  | `hooke-roman-history-v3` | have-raw (IA `10433220bsb`) |
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. IV (London, 1821) |  | `hooke-roman-history-v4` | have-raw (IA `10433221bsb`) |
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. V (London, 1821) |  | `hooke-roman-history-v5` | have-raw (IA `10433222bsb`) |
+| The Roman History, from the Building of Rome to the Ruin of the Commonwealth, a new edition in six volumes, vol. VI (London, 1821) |  | `hooke-roman-history-v6` | have-raw (IA `10433223bsb`) |
+
+Excluded: romanhistoryfro00unkngoog (1830 Rivington six-volume edition: Vol. I has no scan on IA, so the complete 1821 set was taken instead)
+
