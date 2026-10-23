@@ -39612,3 +39612,30 @@ Shelf: `pipeline/max-brand_shelf.json` (2026-10-22; added at the coordinator's r
 | Bulldog | have | PG 68868, `mbrand-bulldog` (102 units) |
 | repeat-editions | excluded | PG 20044: second Gutenberg editions of titles already on the shelf. |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 33066 The Garden of Eden (copyright line 1950). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Hugh Walpole
+
+Shelf: `pipeline/hugh-walpole_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jeremy | have | PG 3474, `hwalpole-jeremy` (1627 units) |
+| The Captives | have | PG 3601, `hwalpole-captives` (3826 units) |
+| Fortitude | have | PG 7887, `hwalpole-fortitude` (3711 units) |
+| The Cathedral: A Novel | have | PG 8135, `hwalpole-cathedral` (3218 units) |
+| The Secret City | have | PG 12349, `hwalpole-secret-city` (2525 units) |
+| The Golden Scarecrow | have | PG 14201, `hwalpole-golden-scarecrow` (1068 units) |
+| The Prelude to Adventure | have | PG 19085, `hwalpole-prelude-to-adventure` (1409 units) |
+| The Dark Forest | have | PG 19614, `hwalpole-dark-forest` (1344 units) |
+| The Wooden Horse | have | PG 27180, `hwalpole-wooden-horse` (1657 units) |
+| The Duchess of Wrexe, Her Decline and Death; A Romantic Commentary | have | PG 33086, `hwalpole-duchess-of-wrexe-her-decline-and-death` (4175 units) |
+| Joseph Conrad | have | PG 49436, `hwalpole-joseph-conrad` (230 units) |
+| The Gods and Mr. Perrin: A Tragi-Comedy | have | PG 52211, `hwalpole-gods-and-mr-perrin` (1354 units) |
+| The Thirteen Travellers | have | PG 60278, `hwalpole-thirteen-travellers` (1335 units) |
+| The Young Enchanted: A Romantic Story | have | PG 60324, `hwalpole-young-enchanted` (2471 units) |
+| Jeremy and Hamlet A Chronicle of Certain Incidents in the Lives of a Boy, a Dog, and a Country Town | have | PG 60325, `hwalpole-jeremy-and-hamlet-a-chronicle-of-certain-incidents` (1564 units) |
+| Maradick at Forty: A Transition | have | PG 60326, `hwalpole-maradick-at-forty` (2747 units) |
+| The Green Mirror: A Quiet Story | have | PG 60327, `hwalpole-green-mirror` (2661 units) |
+| Portrait of a Man with Red Hair: A Romantic Macabre | have | PG 66837, `hwalpole-portrait-of-a-man-with-red-hair` (1456 units) |
+| pg-58382 | excluded | PG 58382: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 52453: second Gutenberg editions of titles already on the shelf. |

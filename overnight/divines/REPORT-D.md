@@ -1880,3 +1880,6 @@
 
 ## 2026-10-22 22:29 CDT — max-brand: done
 - max-brand: new shelf, 17 Gutenberg books, 28,769 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:29 CDT — hugh-walpole: done
+- hugh-walpole: new shelf, 18 Gutenberg books, 38,378 units, 6416 ~2 ids; verify 0 mismatches, 0 rights flags.
