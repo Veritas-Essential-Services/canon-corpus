@@ -16683,6 +16683,18 @@ Slugs `onderdonk-*`. Built from title pages read for round 105.
 | Refuge in God : a sermon delivered in the Church of the Ascension, Philadelphia, on Sunday morning, October 26, 1856 / by the Right Rev. Henry U. Onderdonk (C. Sherman & Son, 1856) | have-ocr | IA `refugeingodsermo00onde` |
 | Episcopacy tested by Scripture (New York : The Protestant Episcopal tract society, 1860) | have-ocr | IA `episcopacytested00onde` |
 | Inaugural dissertation on stone in the bladder (1810, medicine) | excluded | |
+
+## Theodore Dehon (round 105, my pick, 2026-10-23)
+
+Slugs `dehon-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse delivered before the General Convention of the Protestant Episcopal Church in the United States : in St. James's Church, Philadelphia, on the 21st of May, 1814 (Philadelphia : Bradford and Inskeep, 1814) | have-ocr | IA `discoursedeliver00deho` |
+| Sermons, on the public means of grace : the fasts and festivals of the church ; on scripture characters ; and various practical subjects, vol. 2 (Charleston : Published by E. Thayer, 1821) | have-ocr | IA `sermonsonpublicm02deho` |
+| Sermons on the public means of grace, on the fasts & festivals of the church, scripture characters, & various practical subjects (New York, T.N. Stanford, 1856) | have-ocr | IA `sermonsonpublic00dehogoog` |
+| Sermons on confirmation : and an address delivered after administering that holy and apostolic rite (New York : T. and J. Swords, 1831) | have-ocr | IA `sermonsonconfirm00deho` |
+| Books by Theodore Dehon Jervey (a later Charleston historian) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
