@@ -17699,3 +17699,13 @@ Slugs `chrust-*`. Built from title pages read for round 117.
 | Practical ideals in evangelism (Philadelphia : Griffith & Rowland Press, 1906) | have-ocr | IA `practicalidealsi00rust` |
 | The church a field of service (catalogued 1914) | have-ocr | IA `churchfieldofser0000char` |
 | Personal religion (Boston, Mass. : Gorham Press, 1915) | have-ocr | IA `personalreligion00rust` |
+
+## Edward E. Keedy (round 117, my pick, 2026-10-23)
+
+Slugs `keedy-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| Moral leadership and the ministry (Boston, Horace Worth company, 1912) | have-ocr | IA `moralleadershipm00keed` |
+| The exceeding worth of joining the church (Boston : Horace Worth, 1918) | have-ocr | IA `exceedingworthof00keed` |
+| naturalnessofchr0000edwa (a 2009 printing) | excluded | |
