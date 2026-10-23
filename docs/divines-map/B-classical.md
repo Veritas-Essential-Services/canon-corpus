@@ -9715,3 +9715,12 @@ Shelf: `pipeline/max-duncker_shelf.json`. History of Greece, tr. Alleyne, 2 vols
 | History of Greece from the Earliest Times to the End of the Persian War, vol. I (1883), tr. S. F. Alleyne |  | `duncker-history-of-greece-vol-1` | have-raw (IA `historyofgreecef01duncuoft`) |
 | History of Greece, vol. II (1886), tr. S. F. Alleyne and Evelyn Abbott |  | `duncker-history-of-greece-vol-2` | have-raw (IA `historyofgreecef02dunc`) |
 
+
+## Albert A. Trever (1874-1940)
+
+Shelf: `pipeline/albert-a-trever_shelf.json`. A History of Greek Economic Thought (1916). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greek Economic Thought (1916) |  | `trever-greek-economic-thought-1916` | have-raw (IA `historyofgreekec01trev`) |
+
