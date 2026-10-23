@@ -15421,3 +15421,21 @@ Shelf: `pipeline/norman-duncan_shelf.json` (2026-10-22; added at the coordinator
 | Dr. Grenfell's Parish: The Deep Sea Fisherman | have | PG 39130, `nduncan-dr-grenfells-parish` (542 units) |
 | The Adventures of Billy Topsail | have | PG 44037, `nduncan-adventures-of-billy-topsail` (1766 units) |
 | Billy Topsail, M.D.: A Tale of Adventure With Doctor Luke of the Labrador | have | PG 47128, `nduncan-billy-topsail-m-d` (2115 units) |
+
+## Margaret Deland
+
+Shelf: `pipeline/margaret-deland_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Voice | have | PG 2387, `mdeland-voice` (256 units) |
+| The Way to Peace | have | PG 2685, `mdeland-way-to-peace` (270 units) |
+| The Awakening of Helena Richie | have | PG 6315, `mdeland-awakening-of-helena-richie` (2533 units) |
+| The Iron Woman | have | PG 6474, `mdeland-iron-woman` (2702 units) |
+| The Vehement Flame | have | PG 15927, `mdeland-vehement-flame` (2601 units) |
+| John Ward, Preacher | have | PG 18478, `mdeland-john-ward-preacher` (2678 units) |
+| An Encore | have | PG 29284, `mdeland-encore` (343 units) |
+| An Old Chester Secret | have | PG 31792, `mdeland-old-chester-secret` (752 units) |
+| Dr. Lavendar's People | have | PG 34427, `mdeland-dr-lavendars-people` (1649 units) |
+| The Wisdom of Fools | have | PG 53579, `mdeland-wisdom-of-fools` (986 units) |
+| The Rising Tide | have | PG 54910, `mdeland-rising-tide` (1875 units) |
