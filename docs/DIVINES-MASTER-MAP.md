@@ -41007,3 +41007,20 @@ Shelf: `pipeline/charles-alden-seltzer_shelf.json` (2026-10-22; added at the coo
 | The Trail to Yesterday | have | PG 27051, `caseltzer-trail-to-yesterday` (1480 units) |
 | The Coming of the Law | have | PG 31512, `caseltzer-coming-of-the-law` (1407 units) |
 | The Ranchman | have | PG 37204, `caseltzer-ranchman` (1852 units) |
+
+## H. L. Sayler
+
+Shelf: `pipeline/hl-sayler_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Air Ship Boys : Or, the Quest of the Aztec Treasure | have | PG 6908, `hlsayler-air-ship-boys` (1478 units) |
+| On the Edge of the Arctic; Or, An Aeroplane in Snowland | have | PG 25787, `hlsayler-on-the-edge-of-the-arctic` (1048 units) |
+| The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours | have | PG 49416, `hlsayler-airship-boys-ocean-flyer` (1708 units) |
+| In the Clouds for Uncle Sam; or, Morey Marshall of the Signal Corps | have | PG 54056, `hlsayler-in-the-clouds-for-uncle-sam` (1500 units) |
+| The Stolen Aeroplane; or, How Bud Wilson Made Good | have | PG 54579, `hlsayler-stolen-aeroplane` (1317 units) |
+| The Aeroplane Express; or, The Boy Aeronaut's Grit | have | PG 55534, `hlsayler-aeroplane-express` (1328 units) |
+| The Boy Aeronauts' Club; or, Flying for Fun | have | PG 57000, `hlsayler-boy-aeronauts-club` (1382 units) |
+| A Cruise in the Sky; or, The Legend of the Great Pink Pearl | have | PG 57882, `hlsayler-cruise-in-the-sky` (1356 units) |
+| Battling the Bighorn; or, The Aeroplane in the Rockies | have | PG 58381, `hlsayler-battling-the-bighorn` (1301 units) |
+| When Scout Meets Scout; or, The Aeroplane Spy | have | PG 58709, `hlsayler-when-scout-meets-scout` (1302 units) |
