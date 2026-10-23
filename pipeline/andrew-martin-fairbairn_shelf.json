@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain A. M. Fairbairn (1838-1912), Congregational theologian and first Principal of Mansfield College, Oxford, for the Word Hoard: Studies in the Philosophy of Religion and History (1876), Studies in the Life of Christ (1880), The City of God (1883), The Place of Christ in Modern Theology (1893), Christ in the Centuries (1893) and Religion in History and in Modern Life (1894). Patrick Fairbairn, on the fairbairn shelf, is another man. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fairbairn"
+ ],
+ "_surname": [
+  "a. m. fairbairn",
+  "andrew martin fairbairn",
+  "a.m. fairbairn",
+  "andrew m. fairbairn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "amfairbairn-philosophy-religion": [
+   "studiesinphiloso00fair",
+   "Studies in the philosophy of religion and the history (London : W. Mullan, 1877)"
+  ],
+  "amfairbairn-life-of-christ": [
+   "studieslifechris00fairuoft",
+   "Studies in the life of Christ (London : Hodder and Stoughton, 1882)"
+  ],
+  "amfairbairn-city-of-god": [
+   "citygodaseriesd00fairgoog",
+   "The city of God: a series of discussions in religion (Hodder and Stoughton, 1883)"
+  ],
+  "amfairbairn-place-of-christ": [
+   "placeofchristinm00fairuoft",
+   "The place of Christ in modern theology (London, Hodder, 1893)"
+  ],
+  "amfairbairn-christ-centuries": [
+   "christincenturie00fair",
+   "Christ in the centuries and other sermons (London, S. Low, Marston, 1893)"
+  ],
+  "amfairbairn-religion-history": [
+   "religioninhis00fair",
+   "Religion in history and in modern life; together with an essay on the church and the working classes (New York, Anson D. F. Randolph & Co., 1894)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "amfairbairn-other": "Patrick Fairbairn's works (fairbairn shelf); the Life of R. W. Dale is by Dale's son, with Fairbairn only contributing"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "amfairbairn-philosophy-religion": "title page: 'Studies in the Philosophy of Religion and History, by a. M. F a I R B a I R N' (letters spaced in the OCR); Princeton card 'Fairbairn, A. M. 1838-1912'",
+  "amfairbairn-place-of-christ": "title page: 'The Place of Christ in Modern Theology, by aTm. Fairbairn [A. M. Fairbairn], M.A., D.D., Principal of Mansfield College, Oxford' (London: Hodder and Stoughton, 1893)",
+  "amfairbairn-religion-history": "title page: 'Religion in History and in Modern Life, together with an essay on the Church and the working classes, by A. M. Fai'rbairn [Fairbairn], D.D., Principal of Mansfield College, Oxford' (New York: Anson D. F. Randolph)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "amfairbairn-philosophy-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "amfairbairn-life-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. m. fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "amfairbairn-city-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. m. fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "amfairbairn-place-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "amfairbairn-christ-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. m. fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "amfairbairn-religion-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

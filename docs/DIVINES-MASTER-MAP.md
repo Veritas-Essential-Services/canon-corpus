@@ -12465,6 +12465,20 @@ Slugs `hphughes-*`. Built from title pages read for round 59.
 | Ethical Christianity : a series of sermons (London : Sampson Low, Marston & Company Limited, 1892) | have-ocr | IA `ethicalchrist00hughuoft` |
 | Essential Christianity (New York, Chicago, Toronto, Fleming H. Revell company, 1894) | have-ocr | IA `essentialchristi00hugh` |
 | The Life of Hugh Price Hughes by his daughter (1904) | excluded | |
+
+## A. M. Fairbairn (round 59, my pick, 2026-10-23)
+
+Slugs `amfairbairn-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Studies in the philosophy of religion and the history (London : W. Mullan, 1877) | have-ocr | IA `studiesinphiloso00fair` |
+| Studies in the life of Christ (London : Hodder and Stoughton, 1882) | have-ocr | IA `studieslifechris00fairuoft` |
+| The city of God: a series of discussions in religion (Hodder and Stoughton, 1883) | have-ocr | IA `citygodaseriesd00fairgoog` |
+| The place of Christ in modern theology (London, Hodder, 1893) | have-ocr | IA `placeofchristinm00fairuoft` |
+| Christ in the centuries and other sermons (London, S. Low, Marston, 1893) | have-ocr | IA `christincenturie00fair` |
+| Religion in history and in modern life; together with an essay on the church and the working classes (New York, Anson D. F. Randolph & Co., 1894) | have-ocr | IA `religioninhis00fair` |
+| Patrick Fairbairn's works (fairbairn shelf); the Life of R. W. Dale is by Dale's son, with Fairbairn only contributing | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
