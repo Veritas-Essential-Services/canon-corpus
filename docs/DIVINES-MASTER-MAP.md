@@ -44181,3 +44181,15 @@ Shelf: `pipeline/douglass-sherley_shelf.json` (2026-10-22; added at the coordina
 | The Story of a Picture | have | PG 15095, `dsherley-story-of-a-picture` (45 units) |
 | The Inner Sisterhood A Social Study in High Colors | have | PG 15179, `dsherley-inner-sisterhood-a-social-study-in-high-colors` (181 units) |
 | Love Instigated: The Story of a Carved Ivory Umbrella Handle | have | PG 19122, `dsherley-love-instigated` (79 units) |
+
+## George W. M. Reynolds
+
+Shelf: `pipeline/george-w-m-reynolds_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wagner, the Wehr-Wolf | have | PG 27202, `gwmreynolds-wagner-the-wehr-wolf` (2974 units) |
+| The Mysteries of London, v. 1/4 | have | PG 47312, `gwmreynolds-mysteries-of-london-v-1-4` (10576 units) |
+| The Mysteries of London, v. 2/4 | have | PG 51294, `gwmreynolds-mysteries-of-london-v-2-4` (10154 units) |
+| The Mysteries of London, v. 4/4 | have | PG 51649, `gwmreynolds-mysteries-of-london-v-4-4` (6751 units) |
+| The Mysteries of London, v. 3/4 | have | PG 52056, `gwmreynolds-mysteries-of-london-v-3-4` (7632 units) |

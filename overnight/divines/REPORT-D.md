@@ -2627,3 +2627,6 @@
 
 ## 2026-10-22 23:20 CDT — douglass-sherley: done
 - douglass-sherley: new shelf, 5 Gutenberg books, 492 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:20 CDT — george-w-m-reynolds: done
+- george-w-m-reynolds: new shelf, 5 Gutenberg books, 38,087 units, 74 ~2 ids; verify 0 mismatches, 0 rights flags.
