@@ -15655,6 +15655,25 @@ Slugs `terry-*`. Built from title pages read for round 95.
 | Baccalaureate sermons and addresses (New York : Methodist Book Concern, 1914) | have-ocr | IA `baccalaureateser00terr` |
 | miraculousbirtho00terr: a journal offprint (Art. IV, 1901) whose readable text never names the author; attribution is the catalogue's | pending | not shelved |
 | his translation of the Sibylline Oracles (an ancient text) and Rambles in the Old World (travel) | excluded | |
+
+## Frederic Henry Hedge (round 95, my pick, 2026-10-23)
+
+Slugs `hedge-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourse on Edward Everett (Boston, Press of G.C. Rand & Avery, 1856) | have-ocr | IA `discourseonedwar00hedg` |
+| The national weakness : a discourse delivered in the First Church, Brookline, on Fast day, Sept. 26, 1861 (Boston : Walker, Wise, and Co., 1861) | have-ocr | IA `nationalweakness00hedg` |
+| Reason in religion (Boston, Walker, Fuller and company, 1865) | have-ocr | IA `reasoninreligion00hedg` |
+| The primeval world of Hebrew tradition. (Boston, Roberts Brothers, 1870) | have-ocr | IA `primevalworldofh00hedgrich` |
+| Ways of the spirit, and other essays (Boston, Roberts brothers, 1877) | have-ocr | IA `waysofspiritothe00hedg` |
+| Unitarian affirmations: seven discourses given in Washington, D.C (Boston, American Unitarian association, 1879) | have-ocr | IA `unitarianaffirma00hedg` |
+| Our liberal movement in theology, chiefly as shown in recollections of the history of Unitarianism in New England, being a closing course of lectures given in the Harvard Divinity School (Boston, Roberts, 1882) | have-ocr | IA `ourliberalmovem01hedggoog` |
+| Atheism in philosophy, and other essays (Boston, Roberts brothers, 1884) | have-ocr | IA `atheisminphilo00hedguoft` |
+| Martin Luther, and other essays (Boston, Roberts, 1888) | have-ocr | IA `martinlutherothe00hedg` |
+| owenomananything00hedg: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Prose Writers of Germany, Hours with German Classics, his Goethe translations, metrical translations and a Fourth of July oration | excluded | |
+| Hymns for the Church of Christ (compiled) and Recent Inquiries in Theology (the English Essays and Reviews, which he edited) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
