@@ -1,0 +1,529 @@
+{
+ "_about": "Storytellers' tail, group 40: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Alexander Morrison, Marion Morrison, Lawrence Mott, J. E. Muddock, Isla May Mullins, Emily F. Murphy, Charles Theodore Murray, Hilda Murray, Frank M. Myers, Sarah A. Myers, Henry M. Neil, Perry Newberry, Anna Nicholas, James Moses Nichols, J. Shield Nicholson, Henry Thayer Niles, M. M. Noah, Augusta Noel, Charles G. Norris, David Wright O'Brien, Seumas O'Kelly, Daniel Oakey, John Oakley, E. V. Odle, Julia M. Olin, Charles H. Olmstead, Duffield Osborne, William H. Osborne, Sarah Elizabeth Birdsall Otis, F. M. Owen. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 40 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "amorrison-crookshaven-murder": [
+   "alexander morrison",
+   "morrison"
+  ],
+  "mmorrison-history-of-the-ninth-regiment-illinois-volunteer-i": [
+   "marion morrison",
+   "morrison"
+  ],
+  "lmott-jules-of-the-great-heart": [
+   "lawrence mott"
+  ],
+  "jemuddock-great-white-hand": [
+   "j. e. muddock",
+   "joyce emmerson muddock",
+   "muddock"
+  ],
+  "immullins-boy-from-hollow-hut-a-story-of-the-kentucky-mounta": [
+   "isla may mullins",
+   "mullins"
+  ],
+  "efmurphy-seeds-of-pine": [
+   "emily f. murphy",
+   "emily ferguson murphy",
+   "murphy"
+  ],
+  "ctmurray-mlle-fouchette": [
+   "charles theodore murray",
+   "murray"
+  ],
+  "hmurray-flower-legends-for-children": [
+   "hilda murray",
+   "murray"
+  ],
+  "fmmyers-comanches": [
+   "frank m. myers",
+   "myers"
+  ],
+  "samyers-watchworkwait-or-the-orphan-s-victory": [
+   "sarah a. myers",
+   "sarah ann myers",
+   "myers"
+  ],
+  "hmneil-battery-at-close-quarters": [
+   "henry m. neil",
+   "henry moore neil"
+  ],
+  "pnewberry-million-dollar-suitcase": [
+   "perry newberry",
+   "newberry"
+  ],
+  "anicholas-idyl-of-the-wabash-and-other-stories": [
+   "anna nicholas",
+   "nicholas"
+  ],
+  "jmnichols-perry-s-saints": [
+   "james moses nichols",
+   "nichols"
+  ],
+  "jsnicholson-thoth": [
+   "j. shield nicholson",
+   "joseph shield nicholson",
+   "nicholson"
+  ],
+  "htniles-dawn-and-the-day": [
+   "henry thayer niles",
+   "niles"
+  ],
+  "mmnoah-she-would-be-a-soldier": [
+   "m. m. noah",
+   "mordecai manuel noah"
+  ],
+  "anoel-story-of-wandering-willie": [
+   "augusta noel"
+  ],
+  "cgnorris-bread": [
+   "charles g. norris",
+   "charles gilman norris",
+   "norris"
+  ],
+  "dwobrien-rats-in-the-belfry": [
+   "david wright o'brien",
+   "o'brien"
+  ],
+  "sokelly-waysiders-stories-of-connacht": [
+   "seumas o'kelly",
+   "o'kelly"
+  ],
+  "doakey-history-of-the-second-massachusetts-regiment-of-infan": [
+   "daniel oakey",
+   "oakey"
+  ],
+  "joakley-clevedon-case": [
+   "john oakley",
+   "oakley"
+  ],
+  "evodle-clockwork-man": [
+   "e. v. odle",
+   "edwin vincent odle"
+  ],
+  "jmolin-what-norman-saw-in-the-west": [
+   "julia m. olin",
+   "julia matilda olin"
+  ],
+  "cholmstead-reminiscences-of-service-with-the-first-volunteer": [
+   "charles h. olmstead",
+   "olmstead"
+  ],
+  "dosborne-lion-s-brood": [
+   "duffield osborne",
+   "osborne"
+  ],
+  "whosborne-history-of-the-twenty-ninth-regiment-of-massachuse": [
+   "william h. osborne",
+   "william henry osborne",
+   "osborne"
+  ],
+  "sebotis-six-giants-and-a-griffin-and-other-stories": [
+   "sarah elizabeth birdsall otis"
+  ],
+  "fmowen-boy-artist": [
+   "f. m. owen",
+   "frances mary owen"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "amorrison-crookshaven-murder": [
+   79666,
+   "The Crookshaven murder"
+  ],
+  "mmorrison-history-of-the-ninth-regiment-illinois-volunteer-i": [
+   44116,
+   "A History of the Ninth Regiment, Illinois Volunteer Infantry"
+  ],
+  "lmott-jules-of-the-great-heart": [
+   56389,
+   "Jules of the great heart"
+  ],
+  "jemuddock-great-white-hand": [
+   68330,
+   "The Great White Hand; Or, the Tiger of Cawnpore: A story of the Indian Mutiny"
+  ],
+  "immullins-boy-from-hollow-hut-a-story-of-the-kentucky-mounta": [
+   30356,
+   "The Boy from Hollow Hut A Story of the Kentucky Mountains"
+  ],
+  "efmurphy-seeds-of-pine": [
+   32409,
+   "Seeds of Pine"
+  ],
+  "ctmurray-mlle-fouchette": [
+   30041,
+   "Mlle. Fouchette: A Novel of French Life"
+  ],
+  "hmurray-flower-legends-for-children": [
+   78952,
+   "Flower legends for children"
+  ],
+  "fmmyers-comanches": [
+   57890,
+   "The Comanches"
+  ],
+  "samyers-watchworkwait-or-the-orphan-s-victory": [
+   16367,
+   "Watch—Work—Wait Or, The Orphan's Victory"
+  ],
+  "hmneil-battery-at-close-quarters": [
+   31048,
+   "A battery at close quarters"
+  ],
+  "pnewberry-million-dollar-suitcase": [
+   29877,
+   "The Million-Dollar Suitcase"
+  ],
+  "anicholas-idyl-of-the-wabash-and-other-stories": [
+   78253,
+   "An idyl of the Wabash, and other stories"
+  ],
+  "jmnichols-perry-s-saints": [
+   58480,
+   "Perry's Saints; Or, The Fighting Parson's Regiment in the War of the Rebellion"
+  ],
+  "jsnicholson-thoth": [
+   56975,
+   "Thoth: A Romance"
+  ],
+  "htniles-dawn-and-the-day": [
+   14360,
+   "The Dawn and the Day; Or, The Buddha and the Christ, Part I"
+  ],
+  "mmnoah-she-would-be-a-soldier": [
+   29231,
+   "She Would Be a Soldier; Or, The Plains of Chippewa"
+  ],
+  "anoel-story-of-wandering-willie": [
+   74368,
+   "The story of Wandering Willie"
+  ],
+  "cgnorris-bread": [
+   65944,
+   "Bread"
+  ],
+  "dwobrien-rats-in-the-belfry": [
+   32900,
+   "Rats in the Belfry"
+  ],
+  "sokelly-waysiders-stories-of-connacht": [
+   13472,
+   "Waysiders, Stories of Connacht"
+  ],
+  "doakey-history-of-the-second-massachusetts-regiment-of-infan": [
+   22586,
+   "History of the Second Massachusetts Regiment of Infantry: Beverly Ford."
+  ],
+  "joakley-clevedon-case": [
+   68091,
+   "The Clevedon Case"
+  ],
+  "evodle-clockwork-man": [
+   60374,
+   "The Clockwork Man"
+  ],
+  "jmolin-what-norman-saw-in-the-west": [
+   57854,
+   "What Norman Saw in the West"
+  ],
+  "cholmstead-reminiscences-of-service-with-the-first-volunteer": [
+   34566,
+   "Reminiscences of Service with the First Volunteer Regiment of Georgia, Charleston Harbor, in 1863 An address delivered before the Georgia Historical Society, March 3, 1879"
+  ],
+  "dosborne-lion-s-brood": [
+   20219,
+   "The Lion's Brood"
+  ],
+  "whosborne-history-of-the-twenty-ninth-regiment-of-massachuse": [
+   50687,
+   "The History of the Twenty-ninth Regiment of Massachusetts Volunteer Infantry in the Late War of the Rebellion"
+  ],
+  "sebotis-six-giants-and-a-griffin-and-other-stories": [
+   61619,
+   "Six giants and a griffin, and other stories"
+  ],
+  "fmowen-boy-artist": [
+   25478,
+   "The boy-artist"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amorrison-crookshaven-murder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmorrison-history-of-the-ninth-regiment-illinois-volunteer-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marion morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmott-jules-of-the-great-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lawrence mott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jemuddock-great-white-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. muddock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "immullins-boy-from-hollow-hut-a-story-of-the-kentucky-mounta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isla may mullins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efmurphy-seeds-of-pine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emily f. murphy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ctmurray-mlle-fouchette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles theodore murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmurray-flower-legends-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hilda murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmmyers-comanches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank m. myers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "samyers-watchworkwait-or-the-orphan-s-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah a. myers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmneil-battery-at-close-quarters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry m. neil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pnewberry-million-dollar-suitcase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "perry newberry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anicholas-idyl-of-the-wabash-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna nicholas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmnichols-perry-s-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moses nichols",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsnicholson-thoth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. shield nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "htniles-dawn-and-the-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry thayer niles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmnoah-she-would-be-a-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. m. noah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anoel-story-of-wandering-willie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta noel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgnorris-bread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles g. norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwobrien-rats-in-the-belfry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david wright o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sokelly-waysiders-stories-of-connacht": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seumas o'kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "doakey-history-of-the-second-massachusetts-regiment-of-infan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel oakey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joakley-clevedon-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john oakley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evodle-clockwork-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. odle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmolin-what-norman-saw-in-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia m. olin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cholmstead-reminiscences-of-service-with-the-first-volunteer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles h. olmstead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dosborne-lion-s-brood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duffield osborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whosborne-history-of-the-twenty-ninth-regiment-of-massachuse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william h. osborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sebotis-six-giants-and-a-griffin-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah elizabeth birdsall otis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmowen-boy-artist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. m. owen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

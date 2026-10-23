@@ -20913,3 +20913,40 @@ Shelf: `pipeline/storytellers-tail-39_shelf.json` (2026-10-22; added at the coor
 | Outlines of Lessons in Botany, Part I; from Seed to Leaf For the Use of Teachers, or Mothers Studying with Their Children | have | PG 10726, `jnmoore-outlines-of-lessons-in-botany-part-i` (523 units) |
 | Sunshine and shadow, or, Paul Burton's surprise | have | PG 71783, `jamoore-sunshine-and-shadow-or-paul-burton-s-surprise` (480 units) |
 | Personal Reminiscences of the War of 1861-5 In Camp—en Bivouac—on the March—on Picket—on the Skirmish Line—on the Battlefield—and in Prison | have | PG 51838, `whmorgan-personal-reminiscences-of-the-war-of-1861-5-in-camp` (1327 units) |
+
+## Storytellers' tail, group 40 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-40_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Alexander Morrison, Marion Morrison, Lawrence Mott, J. E. Muddock, Isla May Mullins, Emily F. Murphy, Charles Theodore Murray, Hilda Murray, Frank M. Myers, Sarah A. Myers, Henry M. Neil, Perry Newberry, Anna Nicholas, James Moses Nichols, J. Shield Nicholson, Henry Thayer Niles, M. M. Noah, Augusta Noel, Charles G. Norris, David Wright O'Brien, Seumas O'Kelly, Daniel Oakey, John Oakley, E. V. Odle, Julia M. Olin, Charles H. Olmstead, Duffield Osborne, William H. Osborne, Sarah Elizabeth Birdsall Otis, F. M. Owen. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Crookshaven murder | have | PG 79666, `amorrison-crookshaven-murder` (2201 units) |
+| A History of the Ninth Regiment, Illinois Volunteer Infantry | have | PG 44116, `mmorrison-history-of-the-ninth-regiment-illinois-volunteer-i` (438 units) |
+| Jules of the great heart | have | PG 56389, `lmott-jules-of-the-great-heart` (1146 units) |
+| The Great White Hand; Or, the Tiger of Cawnpore: A story of the Indian Mutiny | have | PG 68330, `jemuddock-great-white-hand` (2107 units) |
+| The Boy from Hollow Hut A Story of the Kentucky Mountains | have | PG 30356, `immullins-boy-from-hollow-hut-a-story-of-the-kentucky-mounta` (982 units) |
+| Seeds of Pine | have | PG 32409, `efmurphy-seeds-of-pine` (1147 units) |
+| Mlle. Fouchette: A Novel of French Life | have | PG 30041, `ctmurray-mlle-fouchette` (4042 units) |
+| Flower legends for children | have | PG 78952, `hmurray-flower-legends-for-children` (114 units) |
+| The Comanches | have | PG 57890, `fmmyers-comanches` (967 units) |
+| Watch—Work—Wait Or, The Orphan's Victory | have | PG 16367, `samyers-watchworkwait-or-the-orphan-s-victory` (399 units) |
+| A battery at close quarters | have | PG 31048, `hmneil-battery-at-close-quarters` (77 units) |
+| The Million-Dollar Suitcase | have | PG 29877, `pnewberry-million-dollar-suitcase` (2362 units) |
+| An idyl of the Wabash, and other stories | have | PG 78253, `anicholas-idyl-of-the-wabash-and-other-stories` (620 units) |
+| Perry's Saints; Or, The Fighting Parson's Regiment in the War of the Rebellion | have | PG 58480, `jmnichols-perry-s-saints` (381 units) |
+| Thoth: A Romance | have | PG 56975, `jsnicholson-thoth` (737 units) |
+| The Dawn and the Day; Or, The Buddha and the Christ, Part I | have | PG 14360, `htniles-dawn-and-the-day` (275 units) |
+| She Would Be a Soldier; Or, The Plains of Chippewa | have | PG 29231, `mmnoah-she-would-be-a-soldier` (531 units) |
+| The story of Wandering Willie | have | PG 74368, `anoel-story-of-wandering-willie` (2173 units) |
+| Bread | have | PG 65944, `cgnorris-bread` (2446 units) |
+| Rats in the Belfry | have | PG 32900, `dwobrien-rats-in-the-belfry` (294 units) |
+| Waysiders, Stories of Connacht | have | PG 13472, `sokelly-waysiders-stories-of-connacht` (644 units) |
+| History of the Second Massachusetts Regiment of Infantry: Beverly Ford. | have | PG 22586, `doakey-history-of-the-second-massachusetts-regiment-of-infan` (93 units) |
+| The Clevedon Case | have | PG 68091, `joakley-clevedon-case` (2110 units) |
+| The Clockwork Man | have | PG 60374, `evodle-clockwork-man` (913 units) |
+| What Norman Saw in the West | have | PG 57854, `jmolin-what-norman-saw-in-the-west` (609 units) |
+| Reminiscences of Service with the First Volunteer Regiment of Georgia, Charleston Harbor, in 1863 An address delivered before the Georgia Historical Society, March 3, 1879 | have | PG 34566, `cholmstead-reminiscences-of-service-with-the-first-volunteer` (88 units) |
+| The Lion's Brood | have | PG 20219, `dosborne-lion-s-brood` (1327 units) |
+| The History of the Twenty-ninth Regiment of Massachusetts Volunteer Infantry in the Late War of the Rebellion | have | PG 50687, `whosborne-history-of-the-twenty-ninth-regiment-of-massachuse` (1544 units) |
+| Six giants and a griffin, and other stories | have | PG 61619, `sebotis-six-giants-and-a-griffin-and-other-stories` (327 units) |
+| The boy-artist | have | PG 25478, `fmowen-boy-artist` (616 units) |
