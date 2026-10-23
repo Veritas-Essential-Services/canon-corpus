@@ -1,0 +1,32 @@
+{
+ "_about": "Kelley Rees, raw IA OCR of his Chicago dissertation The So-called Rule of Three Actors in the Classical Greek Drama (Chicago: The University of Chicago Press, 1908; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Kelley Rees (1878-1955)",
+ "_name_words": [
+  "rees"
+ ],
+ "_surname": [
+  "kelley rees"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kelley-rees-rule-of-three-actors-1908": [
+   "socalledruleofth00reesrich",
+   "The So-called Rule of Three Actors in the Classical Greek Drama, by Kelley Rees (Chicago dissertation; Chicago: The University of Chicago Press, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "kelley-rees-rule-of-three-actors-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kelley rees",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
