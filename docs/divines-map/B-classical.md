@@ -8986,3 +8986,12 @@ Shelf: `pipeline/f-w-bussell_shelf.json`. School of Plato, later Stoics, Roman c
 | The Roman Empire: Essays on the Constitutional History from the Accession of Domitian (81 A.D.) to the Retirement of Nicephorus III (1081 A.D.), vol. I (1910) |  | `bussell-roman-empire-v1-1910` | have-raw (IA `romanempireessay01bussuoft`) |
 | The Roman Empire: Essays on the Constitutional History, vol. II (1910) |  | `bussell-roman-empire-v2-1910` | have-raw (IA `romanempireessay02bussuoft`) |
 
+
+## Alfred and Maurice Croiset
+
+Shelf: `pipeline/croiset_shelf.json`. Abridged History of Greek Literature, tr. Heffelbower (1904). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| An Abridged History of Greek Literature (1904), tr. George F. Heffelbower |  | `croiset-abridged-greek-literature-1904` | have-raw (IA `anabridgedhisto00croigoog`) |
+
