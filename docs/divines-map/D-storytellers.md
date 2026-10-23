@@ -20001,3 +20001,64 @@ Shelf: `pipeline/storytellers-tail-15_shelf.json` (2026-10-22; added at the coor
 | The Squaw Man: A Novel | have | PG 52804, `emroyle-squaw-man` (1609 units) |
 | pg-50332 | excluded | PG 50332: a second Gutenberg edition of Fitz James O'Brien's The Diamond Lens. |
 | pg-18891 | excluded | PG 18891: a second Gutenberg edition of Ethel C. Pedley's Dot and the Kangaroo. |
+
+## Storytellers' tail, group 16 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-16_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: Steele Rudd, Gregor Samarow, Epes Sargent, Scott, H. K. Shackleford, George C. Shedd, Elizabeth Sara Sheppard, Moyle Sherer, Annie Trumbull Slosson, A. De Herries Smith, Caroline Abbot Stanley, Kay Cleaver Strahan, Esmè Stuart, Howard Overing Sturgis, Ernest R. Suffling, Arabella Jane Sullivan, Adah Louise Sutton, Sophie Swett, Godfrey Sweven, Edward William Thomson, Charles E. Van Loan, Margaret Veley, Earle Ashley Walcott, Charles Edmonds Walk, Gertrude Warden, William Ware, Catherine A. Warfield. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| On Our Selection | have | PG 3677, `srudd-on-our-selection` (1051 units) |
+| The Dashwoods | have | PG 78216, `srudd-dashwoods` (948 units) |
+| For Sceptre and Crown: A Romance of the Present Time. Vol. 1 (of 2) | have | PG 37723, `gsamarow-for-sceptre-and-crown` (2427 units) |
+| For Sceptre and Crown: A Romance of the Present Time. Vol. 2 (of 2) | have | PG 37724, `gsamarow-for-sceptre-and-crown-37724` (3479 units) |
+| The Woman Who Dared | have | PG 27457, `esargent-woman-who-dared` (374 units) |
+| Peculiar: A Tale of the Great Transition | have | PG 67872, `esargent-peculiar` (4198 units) |
+| A Marriage in High Life, Volume I | have | PG 67669, `scott-marriage-in-high-life-volume-i` (571 units) |
+| A Marriage in High Life, Volume II | have | PG 67670, `scott-marriage-in-high-life-volume-ii` (505 units) |
+| Fred Fearnot's New Ranch and How He and Terry Managed It | have | PG 21795, `hkshackleford-fred-fearnot-s-new-ranch-and-how-he-and-terry` (885 units) |
+| Halsey & Co. or, The Young Bankers and Speculators | have | PG 21963, `hkshackleford-halsey-co-or-the-young-bankers-and-speculators` (967 units) |
+| The Iron Furrow | have | PG 17088, `gcshedd-iron-furrow` (1807 units) |
+| In the Shadow of the Hills | have | PG 30037, `gcshedd-in-the-shadow-of-the-hills` (2279 units) |
+| Charles Auchester, Volume 1 (of 2) | have | PG 38949, `essheppard-charles-auchester-volume-1-of-2` (1737 units) |
+| Charles Auchester, Volume 2 (of 2) | have | PG 40259, `essheppard-charles-auchester-volume-2-of-2` (1639 units) |
+| The Broken Font: A Story of the Civil War, Vol. 1 (of 2) | have | PG 43261, `msherer-broken-font` (906 units) |
+| The Broken Font: A Story of the Civil War, Vol. 2 (of 2) | have | PG 43262, `msherer-broken-font-43262` (568 units) |
+| Fishin' Jimmy | have | PG 12417, `atslosson-fishin-jimmy` (40 units) |
+| Story-Tell Lib | have | PG 19989, `atslosson-story-tell-lib` (87 units) |
+| Arctic angels | have | PG 73460, `adhsmith-arctic-angels` (100 units) |
+| The Arctic legions | have | PG 76834, `adhsmith-arctic-legions` (72 units) |
+| A Modern Madonna | have | PG 57418, `castanley-modern-madonna` (2985 units) |
+| The First Church's Christmas barrel | have | PG 70294, `castanley-first-church-s-christmas-barrel` (212 units) |
+| The Desert Moon mystery | have | PG 75436, `kcstrahan-desert-moon-mystery` (2207 units) |
+| Footprints | have | PG 75577, `kcstrahan-footprints` (1675 units) |
+| Carried Off: A Story of Pirate Times | have | PG 23892, `estuart-carried-off` (1122 units) |
+| Harum Scarum's Fortune | have | PG 45281, `estuart-harum-scarum-s-fortune` (2369 units) |
+| Belchamber | have | PG 77826, `hosturgis-belchamber` (1862 units) |
+| Tim | have | PG 77847, `hosturgis-tim` (766 units) |
+| Jethou; or, Crusoe Life in the Channel Isles | have | PG 17618, `ersuffling-jethou` (1026 units) |
+| The story hunter | have | PG 76622, `ersuffling-story-hunter` (1228 units) |
+| Tales of the peerage and the peasantry | have | PG 75709, `ajsullivan-tales-of-the-peerage-and-the-peasantry` (2596 units) |
+| Recollections of a chaperon | have | PG 75982, `ajsullivan-recollections-of-a-chaperon` (2682 units) |
+| Teddy Bears | have | PG 51199, `alsutton-teddy-bears` (607 units) |
+| A Little Maid in Toyland | have | PG 52047, `alsutton-little-maid-in-toyland` (490 units) |
+| Sonny Boy | have | PG 26255, `sswett-sonny-boy` (263 units) |
+| The young ship builder | have | PG 71346, `sswett-young-ship-builder` (1202 units) |
+| Riallaro: The Archipelago of Exiles | have | PG 67575, `gsweven-riallaro` (776 units) |
+| Limanora | have | PG 76533, `gsweven-limanora` (1157 units) |
+| Old Man Savarin, and Other Stories | have | PG 20345, `ewthomson-old-man-savarin-and-other-stories` (1168 units) |
+| Old Man Savarin Stories: Tales of Canada and Canadians | have | PG 55431, `ewthomson-old-man-savarin-stories` (1467 units) |
+| Old Man Curry: Race Track Stories | have | PG 29093, `cevanloan-old-man-curry` (1792 units) |
+| Fore! | have | PG 36682, `cevanloan-fore` (2041 units) |
+| Mitchelhurst Place: A Novel. Vol. 1 (of 2) | have | PG 39345, `mveley-mitchelhurst-place` (856 units) |
+| Mitchelhurst Place: A Novel. Vol. 2 (of 2) | have | PG 52002, `mveley-mitchelhurst-place-52002` (847 units) |
+| Blindfolded | have | PG 7788, `eawalcott-blindfolded` (3155 units) |
+| The Apple of Discord | have | PG 52180, `eawalcott-apple-of-discord` (2919 units) |
+| The Paternoster Ruby | have | PG 22212, `cewalk-paternoster-ruby` (1858 units) |
+| The silver blade: The true chronicle of a double mystery | have | PG 69106, `cewalk-silver-blade` (2489 units) |
+| Her fairy prince | have | PG 70582, `gwarden-her-fairy-prince` (1842 units) |
+| The gray wolf's daughter | have | PG 73734, `gwarden-gray-wolf-s-daughter` (1489 units) |
+| Zenobia; or, the Fall of Palmyra | have | PG 8938, `wware-zenobia` (1678 units) |
+| Aurelian; or, Rome in the Third Century | have | PG 21953, `wware-aurelian` (1799 units) |
+| Miriam Monfort A Novel | have | PG 12453, `cawarfield-miriam-monfort-a-novel` (2744 units) |
+| Sea and Shore A Sequel to "Miriam's Memoirs" | have | PG 15117, `cawarfield-sea-and-shore-a-sequel-to-miriam-s-memoirs` (1620 units) |
