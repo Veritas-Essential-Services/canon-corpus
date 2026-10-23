@@ -10431,3 +10431,13 @@ Shelf: `pipeline/e-maunde-thompson_shelf.json`. Handbook of Greek and Latin Pala
 | Handbook of Greek and Latin Palaeography (London: Kegan Paul, 1893) |  | `thompson-handbook-greek-latin-palaeography-1893` | have-raw (IA `handbookgreekan01thomgoog`) |
 | An Introduction to Greek and Latin Palaeography (Oxford: Clarendon Press, 1912) |  | `thompson-introduction-greek-latin-palaeography-1912` | have-raw (IA `greeklatin00thomuoft`) |
 
+
+## Herbert Jennings Rose (1883-1961)
+
+Shelf: `pipeline/h-j-rose_shelf.json`. Primitive Culture in Italy (London: Methuen, 1926); A Handbook of Greek Mythology, including its Extension to Rome (New York: Dutton, 1929). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Primitive Culture in Italy (London: Methuen, 1926) |  | `rose-primitive-culture-italy-1926` | have-raw (IA `in.ernet.dli.2015.79665`) |
+| A Handbook of Greek Mythology, including its Extension to Rome (New York: Dutton, 1929) |  | `rose-handbook-greek-mythology-1929` | have-raw (IA `handbookofgreekm0000rose_d4r2`) |
+
