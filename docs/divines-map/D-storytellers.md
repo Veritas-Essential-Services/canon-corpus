@@ -16665,3 +16665,38 @@ Shelf: `pipeline/von-arnim-works_shelf.json` (2026-10-22; added at the coordinat
 | Introduction to Sally | have | PG 72979, `evonarnim-introduction-to-sally` (1887 units) |
 | Love | have | PG 73308, `evonarnim-love` (2645 units) |
 | held-elsewhere | excluded | PG 16389: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## William Morris
+
+Shelf: `pipeline/william-morris-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His prose romances, poems and lectures. His translations are left to their own shelves. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Well at the World's End: A Tale | have | PG 169, `wmorris-well-at-the-worlds-end` (2443 units) |
+| Child Christopher and Goldilind the Fair | have | PG 234, `wmorris-child-christopher-and-goldilind-the-fair` (673 units) |
+| A Dream of John Ball; and, A King's Lesson | have | PG 357, `wmorris-dream-of-john-ball` (367 units) |
+| The Story of the Glittering Plain Which Has Been Also Called the Land of Living Men or the Acre of the Undying | have | PG 2565, `wmorris-story-of-the-glittering-plain-which-has-been-also-ca` (715 units) |
+| The House of the Wolfings A Tale of the House of the Wolfings and All the Kindreds of the Mark Written in Prose and in Verse | have | PG 2885, `wmorris-house-of-the-wolfings-a-tale-of-the-house-of-the-wol` (1006 units) |
+| Signs of Change | have | PG 3053, `wmorris-signs-of-change` (348 units) |
+| The Wood Beyond the World | have | PG 3055, `wmorris-wood-beyond-the-world` (660 units) |
+| Chants for Socialists | have | PG 3170, `wmorris-chants-for-socialists` (110 units) |
+| News from Nowhere; Or, An Epoch of Rest Being Some Chapters from a Utopian Romance | have | PG 3261, `wmorris-news-from-nowhere` (1121 units) |
+| The Pilgrims of Hope and Chants for Socialists | have | PG 3262, `wmorris-pilgrims-of-hope-and-chants-for-socialists` (232 units) |
+| Poems By the Way | have | PG 3468, `wmorris-poems-by-the-way` (1335 units) |
+| Hopes and Fears for Art | have | PG 3773, `wmorris-hopes-and-fears-for-art` (504 units) |
+| The Roots of the Mountains Wherein Is Told Somewhat of the Lives of the Men of Burgdale, Their Friends, Their Neighbours, Their Foemen, and Their Fellows in Arms | have | PG 6050, `wmorris-roots-of-the-mountains-wherein-is-told-somewhat-of-t` (2312 units) |
+| The Water of the Wondrous Isles | have | PG 8778, `wmorris-water-of-the-wondrous-isles` (1360 units) |
+| The Story of Sigurd the Volsung | have | PG 13486, `wmorris-story-of-sigurd-the-volsung` (953 units) |
+| Poems By The Way & Love Is Enough | have | PG 15311, `wmorris-poems-by-the-way-love-is-enough` (1543 units) |
+| The Hollow Land | have | PG 15948, `wmorris-hollow-land` (269 units) |
+| The Tables Turned; or, Nupkins Awakened. A Socialist Interlude | have | PG 16897, `wmorris-tables-turned` (492 units) |
+| The World of Romance being Contributions to The Oxford and Cambridge Magazine, 1856 | have | PG 17973, `wmorris-world-of-romance-being-contributions-to-the-oxford-a` (407 units) |
+| The Story of Sigurd the Volsung and the Fall of the Niblungs | have | PG 18328, `wmorris-story-of-sigurd-the-volsung-and-the-fall-of-the-nibl` (1387 units) |
+| The Defence of Guenevere and Other Poems | have | PG 22650, `wmorris-defence-of-guenevere-and-other-poems` (949 units) |
+| The Sundering Flood | have | PG 25547, `wmorris-sundering-flood` (794 units) |
+| The Earthly Paradise: A Poem (Part II) | have | PG 30332, `wmorris-earthly-paradise` (510 units) |
+| The Art and Craft of Printing | have | PG 31596, `wmorris-art-and-craft-of-printing` (252 units) |
+| A Selection from the Poems of William Morris | have | PG 35227, `wmorris-selection-from-the-poems-of-william-morris` (1236 units) |
+| Some Notes on Early Woodcut Books, with a Chapter on Illuminated Manuscripts | have | PG 46241, `wmorris-some-notes-on-early-woodcut-books-with-a-chapter-on` (120 units) |
+| Pygmalion and the Image | have | PG 49827, `wmorris-pygmalion-and-the-image` (128 units) |
+| held-elsewhere | excluded | PG 5988: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

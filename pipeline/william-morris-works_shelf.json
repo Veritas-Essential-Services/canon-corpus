@@ -1,0 +1,372 @@
+{
+ "_about": "William Morris: His prose romances, poems and lectures. His translations are left to their own shelves. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Morris",
+ "_name_words": [
+  "morris",
+  "william"
+ ],
+ "_surname": [
+  "william morris"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wmorris-well-at-the-worlds-end": [
+   169,
+   "The Well at the World's End: A Tale"
+  ],
+  "wmorris-child-christopher-and-goldilind-the-fair": [
+   234,
+   "Child Christopher and Goldilind the Fair"
+  ],
+  "wmorris-dream-of-john-ball": [
+   357,
+   "A Dream of John Ball; and, A King's Lesson"
+  ],
+  "wmorris-story-of-the-glittering-plain-which-has-been-also-ca": [
+   2565,
+   "The Story of the Glittering Plain Which Has Been Also Called the Land of Living Men or the Acre of the Undying"
+  ],
+  "wmorris-house-of-the-wolfings-a-tale-of-the-house-of-the-wol": [
+   2885,
+   "The House of the Wolfings A Tale of the House of the Wolfings and All the Kindreds of the Mark Written in Prose and in Verse"
+  ],
+  "wmorris-signs-of-change": [
+   3053,
+   "Signs of Change"
+  ],
+  "wmorris-wood-beyond-the-world": [
+   3055,
+   "The Wood Beyond the World"
+  ],
+  "wmorris-chants-for-socialists": [
+   3170,
+   "Chants for Socialists"
+  ],
+  "wmorris-news-from-nowhere": [
+   3261,
+   "News from Nowhere; Or, An Epoch of Rest Being Some Chapters from a Utopian Romance"
+  ],
+  "wmorris-pilgrims-of-hope-and-chants-for-socialists": [
+   3262,
+   "The Pilgrims of Hope and Chants for Socialists"
+  ],
+  "wmorris-poems-by-the-way": [
+   3468,
+   "Poems By the Way"
+  ],
+  "wmorris-hopes-and-fears-for-art": [
+   3773,
+   "Hopes and Fears for Art"
+  ],
+  "wmorris-roots-of-the-mountains-wherein-is-told-somewhat-of-t": [
+   6050,
+   "The Roots of the Mountains Wherein Is Told Somewhat of the Lives of the Men of Burgdale, Their Friends, Their Neighbours, Their Foemen, and Their Fellows in Arms"
+  ],
+  "wmorris-water-of-the-wondrous-isles": [
+   8778,
+   "The Water of the Wondrous Isles"
+  ],
+  "wmorris-story-of-sigurd-the-volsung": [
+   13486,
+   "The Story of Sigurd the Volsung"
+  ],
+  "wmorris-poems-by-the-way-love-is-enough": [
+   15311,
+   "Poems By The Way & Love Is Enough"
+  ],
+  "wmorris-hollow-land": [
+   15948,
+   "The Hollow Land"
+  ],
+  "wmorris-tables-turned": [
+   16897,
+   "The Tables Turned; or, Nupkins Awakened. A Socialist Interlude"
+  ],
+  "wmorris-world-of-romance-being-contributions-to-the-oxford-a": [
+   17973,
+   "The World of Romance being Contributions to The Oxford and Cambridge Magazine, 1856"
+  ],
+  "wmorris-story-of-sigurd-the-volsung-and-the-fall-of-the-nibl": [
+   18328,
+   "The Story of Sigurd the Volsung and the Fall of the Niblungs"
+  ],
+  "wmorris-defence-of-guenevere-and-other-poems": [
+   22650,
+   "The Defence of Guenevere and Other Poems"
+  ],
+  "wmorris-sundering-flood": [
+   25547,
+   "The Sundering Flood"
+  ],
+  "wmorris-earthly-paradise": [
+   30332,
+   "The Earthly Paradise: A Poem (Part II)"
+  ],
+  "wmorris-art-and-craft-of-printing": [
+   31596,
+   "The Art and Craft of Printing"
+  ],
+  "wmorris-selection-from-the-poems-of-william-morris": [
+   35227,
+   "A Selection from the Poems of William Morris"
+  ],
+  "wmorris-some-notes-on-early-woodcut-books-with-a-chapter-on": [
+   46241,
+   "Some Notes on Early Woodcut Books, with a Chapter on Illuminated Manuscripts"
+  ],
+  "wmorris-pygmalion-and-the-image": [
+   49827,
+   "Pygmalion and the Image"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 5988: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "wmorris-well-at-the-worlds-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-child-christopher-and-goldilind-the-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-dream-of-john-ball": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-story-of-the-glittering-plain-which-has-been-also-ca": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-house-of-the-wolfings-a-tale-of-the-house-of-the-wol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-signs-of-change": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-wood-beyond-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-chants-for-socialists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-news-from-nowhere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-pilgrims-of-hope-and-chants-for-socialists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-poems-by-the-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-hopes-and-fears-for-art": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-roots-of-the-mountains-wherein-is-told-somewhat-of-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-water-of-the-wondrous-isles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-story-of-sigurd-the-volsung": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-poems-by-the-way-love-is-enough": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-hollow-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-tables-turned": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-world-of-romance-being-contributions-to-the-oxford-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-story-of-sigurd-the-volsung-and-the-fall-of-the-nibl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-defence-of-guenevere-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-sundering-flood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-earthly-paradise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-art-and-craft-of-printing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-selection-from-the-poems-of-william-morris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-some-notes-on-early-woodcut-books-with-a-chapter-on": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmorris-pygmalion-and-the-image": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

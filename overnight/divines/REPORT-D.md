@@ -2263,3 +2263,6 @@
 
 ## 2026-10-22 22:57 CDT — von-arnim-works: done
 - von-arnim-works: new shelf, 15 Gutenberg books, 23,240 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:58 CDT — william-morris-works: done
+- william-morris-works: new shelf, 27 Gutenberg books, 22,226 units, 933 ~2 ids; verify 0 mismatches, 0 rights flags.
