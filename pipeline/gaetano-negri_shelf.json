@@ -1,0 +1,57 @@
+{
+ "_about": "Gaetano Negri (1838-1902), Italian statesman and essayist: Julian the Apostate, tr. the Duchess Litta-Visconti-Arese (2 vols., 1905). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Gaetano Negri (1838-1902)",
+ "_name_words": [
+  "negri",
+  "julian",
+  "apostate"
+ ],
+ "_surname": [
+  "negri"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "negri-julian-the-apostate-vol-1": [
+   "julianapostatetr01negr",
+   "Julian the Apostate, vol. I (1905), tr. the Duchess Litta-Visconti-Arese"
+  ],
+  "negri-julian-the-apostate-vol-2": [
+   "julianapostate02negr",
+   "Julian the Apostate, vol. II (1905), tr. the Duchess Litta-Visconti-Arese"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "negri-julian-the-apostate-vol-1": "Litta",
+  "negri-julian-the-apostate-vol-2": "Litta"
+ },
+ "_checks": {
+  "negri-julian-the-apostate-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "negri",
+   "translator_claimed": "Litta",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "negri-julian-the-apostate-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "negri",
+   "translator_claimed": "Litta",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

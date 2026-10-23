@@ -9743,3 +9743,13 @@ Shelf: `pipeline/j-c-tarver_shelf.json`. Tiberius the Tyrant (1902). Not minted.
 |---|---|---|---|
 | Tiberius the Tyrant (1902) |  | `tarver-tiberius-the-tyrant-1902` | have-raw (IA `cu31924028300550`) |
 
+
+## Gaetano Negri (1838-1902)
+
+Shelf: `pipeline/gaetano-negri_shelf.json`. Julian the Apostate, tr. Litta-Visconti-Arese, 2 vols. (1905). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Julian the Apostate, vol. I (1905), tr. the Duchess Litta-Visconti-Arese |  | `negri-julian-the-apostate-vol-1` | have-raw (IA `julianapostatetr01negr`) |
+| Julian the Apostate, vol. II (1905), tr. the Duchess Litta-Visconti-Arese |  | `negri-julian-the-apostate-vol-2` | have-raw (IA `julianapostate02negr`) |
+
