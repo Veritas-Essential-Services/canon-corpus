@@ -581,11 +581,12 @@ Round 6, vetoable. Round 79 (2026-10-17), vetoable: six titles added. Not conver
 ## J. M. Rodwell (Koran)
 
 Shelf: `pipeline/rodwell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rodwell` · titles `python3 pipeline/split_shelf_titles.py rodwell`.
-Round 6, vetoable. Suras in his chronological order. Not converted to unit-id JSON; **no uids minted**.
+Round 6, vetoable. Suras in his chronological order. Round 158 (2026-10-23) added his Isaiah from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `rodwell-koran` | The Qur'an | The Koran | J. M. Rodwell | 1861 | have | PG 2800 |
+| `rodwell-the-prophecies-of-isaiah` | Isaiah (Hebrew Bible) | The Prophecies of Isaiah, translated from the Hebrew | J. M. Rodwell | 1886 (second edition) | have-raw | IA `propheciesofisai00rodw` |
 | — | — | pg-3434: Gutenberg 3434 is the same Rodwell translation (an older file); not fetched twice. | — | — | excluded | — |
 
 ## George Sale (Koran)
@@ -2741,12 +2742,13 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## John Oxenford (Goethe's Autobiography; Tales from the German)
 
 Shelf: `pipeline/oxenford_shelf.json` · fetch `python3 pipeline/fetch_shelf.py oxenford` · titles `python3 pipeline/split_shelf_titles.py oxenford`.
-Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 28 (2026-10-10), vetoable. Round 158 (2026-10-23) added Goethe on the Theater from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `oxenford-goethe-the-autobiography-of-goethe` | Johann Wolfgang von Goethe | The Autobiography of Goethe | John Oxenford (with A. J. W. Morrison) | 1844-1848 (see the Gutenberg header) | have | PG 52654 |
 | `oxenford-tales-from-the-german` | Various (Hauff, Hoffmann and others) | Tales from the German, comprising specimens from the most celebrated authors | John Oxenford (with C. A. Feiling) | 1844-1848 (see the Gutenberg header) | have | PG 32046 |
+| `oxenford-goethe-on-the-theater` | Johann Wolfgang von Goethe (Eckermann) | Goethe on the Theater: Selections from the Conversations with Eckermann | John Oxenford | 1919 (this printing) | have-raw | IA `goetheontheaters00goetuoft` |
 | — | — | pg-5733: Truth and Fiction (5733) is Oxenford's part alone, about half the text of the full Bohn Autobiography (52654), which is used. | — | — | excluded | — |
 
 ## Sir Monier Monier-Williams (Sakoontala; the Siksha-Patri)
@@ -4422,12 +4424,13 @@ Round 36 (2026-10-10), vetoable. Round 155 (2026-10-23) added Lessing's Selected
 ## Paul V. Cohn beyond Nietzsche (Bordeaux's Fort Vaux; Beyens)
 
 Shelf: `pipeline/paul-cohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py paul-cohn` · titles `python3 pipeline/split_shelf_titles.py paul-cohn`.
-Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 36 (2026-10-10), vetoable. Round 158 (2026-10-23) added Gobineau's Renaissance from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `paul-cohn-beyens-germany-before-the-war` | Baron Eugène Beyens | Germany before the war | Paul V. Cohn | 1916-1917 (see the Gutenberg header) | have | PG 48572 |
 | `paul-cohn-bordeaux-the-last-days-of-fort-vaux` | Henry Bordeaux | The Last Days of Fort Vaux, March 9-June 7, 1916 | Paul V. Cohn | 1916-1917 (see the Gutenberg header) | have | PG 48532 |
+| `paul-cohn-gobineau-the-renaissance` | Arthur, Count Gobineau | The Renaissance: Savonarola, Cesare Borgia, Julius II, Leo X, Michael Angelo | Paul V. Cohn | 1913 | have-raw | IA `renaissancesavon00gobi` |
 
 ## Horace B. Samuel beyond Nietzsche (Stendhal's The Red and the Black; Schnitzler)
 
@@ -4694,12 +4697,13 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Robert Willis's Harvey
 
 Shelf: `pipeline/robert-willis_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robert-willis` · titles `python3 pipeline/split_shelf_titles.py robert-willis`.
-Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Round 158 (2026-10-23) added Spurzheim from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `robert-willis-harvey-an-anatomical-disquisition-on-the-motion` | William Harvey | An anatomical disquisition on the motion of the heart & blood in animals | Robert Willis | 1847 (see the Gutenberg header) | have | PG 67065 |
 | `robert-willis-harvey-the-works-of-william-harvey-m-d-translat` | William Harvey | The Works of William Harvey M.D. Translated from the Latin with a life of the author | Robert Willis | 1847 (see the Gutenberg header) | have | PG 58857 |
+| `robert-willis-spurzheim-the-anatomy-of-the-brain` | G. Spurzheim | The Anatomy of the Brain, with a General View of the Nervous System | Robert Willis | 1826 | have-raw | IA `anatomybrainwit00spurgoog` |
 
 ## L. Williams: Bruno's Heroic Enthusiasts
 

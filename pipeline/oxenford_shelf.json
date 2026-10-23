@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: John Oxenford (1812-1877): Goethe's Autobiography, Truth and Fiction (Bohn, 1848, the later books with A. J. W. Morrison), and Tales from the German (1844, with C. A. Feiling). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: John Oxenford (1812-1877): Goethe's Autobiography, Truth and Fiction (Bohn, 1848, the later books with A. J. W. Morrison), and Tales from the German (1844, with C. A. Feiling). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted. From archive.org (2026-10-23): Goethe on the Theater, selections from his Eckermann (Dramatic Museum of Columbia University, 1919).",
  "_name_words": [
   "john oxenford"
  ],
@@ -18,7 +18,12 @@
    "The Autobiography of Goethe"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "oxe-ia-goethe-on-the-theater": [
+   "goetheontheaters00goetuoft",
+   "Goethe on the Theater"
+  ]
+ },
  "titles": {
   "oxenford-goethe-the-autobiography-of-goethe": {
    "source": "oxe-52654",
@@ -35,6 +40,14 @@
    "translated": "1844-1848 (see the Gutenberg header)",
    "translator": "John Oxenford (with C. A. Feiling)",
    "scan_edition": "Project Gutenberg 32046 (clean text)"
+  },
+  "oxenford-goethe-on-the-theater": {
+   "source": "oxe-ia-goethe-on-the-theater",
+   "of": "Johann Wolfgang von Goethe (Eckermann)",
+   "work": "Goethe on the Theater: Selections from the Conversations with Eckermann",
+   "translated": "1919 (this printing)",
+   "translator": "John Oxenford",
+   "scan_edition": "Dramatic Museum of Columbia University, New York, 1919 (introduction by William Witherle Lawrence)"
   }
  },
  "_pending": {},
@@ -45,7 +58,7 @@
  "_checks": {
   "oxe-32046": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john oxenford",
    "identity": "ok",
@@ -54,12 +67,23 @@
   },
   "oxe-52654": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john oxenford",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "A. J. W. Morrison; John Oxenford"
+  },
+  "oxe-ia-goethe-on-the-theater": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john oxenford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +96,20 @@
    "pg": 52654,
    "pg_copyrighted_marker": false,
    "pg_translator": "A. J. W. Morrison"
+  },
+  "oxe-ia-goethe-on-the-theater": {
+   "ia": "goetheontheaters00goetuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1774,
+    1775,
+    1800,
+    1823,
+    1825,
+    1831,
+    1854
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

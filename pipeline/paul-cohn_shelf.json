@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Paul V. Cohn beyond the Levy Nietzsche: Henry Bordeaux's The Last Days of Fort Vaux (1917) and Baron Beyens's Germany before the War (1916). US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Paul V. Cohn beyond the Levy Nietzsche: Henry Bordeaux's The Last Days of Fort Vaux (1917) and Baron Beyens's Germany before the War (1916). US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted. From archive.org (2026-10-23): Gobineau's The Renaissance (Putnam, 1913). Its title page OCRs him as 'Paul V. Corn' in both scans; that form is recorded.",
  "_name_words": [
   "paul v. cohn",
-  "cohn"
+  "cohn",
+  "paul v. corn"
  ],
  "_surname": [
   "paul v. cohn",
-  "cohn"
+  "cohn",
+  "paul v. corn"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -20,7 +22,12 @@
    "Germany before the war"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "pco-ia-gobineau-renaissance": [
+   "renaissancesavon00gobi",
+   "Gobineau: The Renaissance"
+  ]
+ },
  "titles": {
   "paul-cohn-beyens-germany-before-the-war": {
    "source": "pco-48572",
@@ -37,15 +44,23 @@
    "translated": "1916-1917 (see the Gutenberg header)",
    "translator": "Paul V. Cohn",
    "scan_edition": "Project Gutenberg 48532 (clean text)"
+  },
+  "paul-cohn-gobineau-the-renaissance": {
+   "source": "pco-ia-gobineau-renaissance",
+   "of": "Arthur, Count Gobineau",
+   "work": "The Renaissance: Savonarola, Cesare Borgia, Julius II, Leo X, Michael Angelo",
+   "translated": "1913",
+   "translator": "Paul V. Cohn",
+   "scan_edition": "G. P. Putnam's Sons, New York, 1913 (English edition ed. Oscar Levy; printed in England)"
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'paul v. corn' is the OCR of the Gobineau Renaissance title page (2026-10-23).",
  "_checks": {
   "pco-48532": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paul v. cohn",
    "identity": "ok",
@@ -54,12 +69,23 @@
   },
   "pco-48572": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "paul v. cohn",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Paul V. Cohn"
+  },
+  "pco-ia-gobineau-renaissance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul v. corn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +98,18 @@
    "pg": 48572,
    "pg_copyrighted_marker": false,
    "pg_translator": "Paul V. Cohn"
+  },
+  "pco-ia-gobineau-renaissance": {
+   "ia": "renaissancesavon00gobi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1560,
+    1848,
+    1853,
+    1854,
+    1855
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
