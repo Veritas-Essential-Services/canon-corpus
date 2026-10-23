@@ -18789,3 +18789,27 @@ Slugs `burkitt-*`. Built from title pages read for round 128.
 | the 1697, 1705 and 1795 Poor Man's Help and the 1832 Expository Notes are other editions | excluded | |
 | Criticism of the New Testament (1902) is F. C. Burkitt and others | excluded | |
 | bim_eighteenth-century_family-instruction-or-_burkitt-william_1704_0: the scan is a different book, a 1751 Oxford sermon by Henry Whitfield | excluded | |
+
+## Thomas Stackhouse (round 128, my pick, 2026-10-23)
+
+Slugs `stackhouse-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The honour and dignity of the true ministers of Christ. In a sermon preach'd at Richmond, in the county of Surrey, on the 22d day of May, 1726. Being the Sunday after the decease of the Reverend Dr. Brady. By Tho. Stackhouse, A.M.  1726 (catalogued 1726) | have-ocr | IA `bim_eighteenth-century_the-honour-and-dignity-o_stackhouse-thomas_1726` |
+| Fair state of the controversy between Mr. Woolston and his adversaries : containing the substance of what he asserts in his six dsocourses against the literal sense of our Blessed Saviour's miracles (London : Printed for Edward Symon, 1730) | have-ocr | IA `fairstateofcontr00stac` |
+| Reflections on the nature and property of languages in general, and on the advantages, defects, and manner of improving the English tongue in particular. By the Reverend Mr. Thomas Stackhouse, ...  1731 (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_reflections-on-the-natur_stackhouse-thomas_1731` |
+| A new history of the Holy Bible : from the beginning of the world, to the establishment of Christianity : With answers to most of the controverted questions, dissertations upon the most remarkable passages, and a connection of profane history all along. : To which are added, notes explaining difficult texts, rectifying mis-translations, and reconciling seeming contradictions : The whole illustrated with proper maps and sculptures, vol. 1 (London : Printed and sold, for the author, at J. Huggonson's ..., 1733) | have-ocr | IA `newhistoryofholy0001stac` |
+| A defence of the Christian religion from the several objections of modern antiscripturists. ... In which is included the whole state of the controversy between Mr. Woolston and his adversaries. By the Reverend Mr. Thomas Stackhouse, ...  1733 (catalogued 1733) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-christi_stackhouse-thomas_1733` |
+| A new and practical exposition of the Apostles Creed, Wherein each article is fully explained, ... Together with an introduction containing a short historical account of the design and origin of creeds. By Thomas Stackhouse, ...  1747 (catalogued 1747) | have-ocr | IA `bim_eighteenth-century_a-new-and-practical-expo_stackhouse-thomas_1747` |
+| Vana doctrinæ emolumenta, et varia studiorum incommoda. In sermonem breviter digesta et versu hexametro exarata. A tenuis parochiæ vicario, ... T. S.  1752 (catalogued 1752) | have-ocr | IA `bim_eighteenth-century_vana-doctrin-emolumenta_stackhouse-thomas_1752` |
+| The life of Our Lord and Saviour Jesus Christ. With the lives of the apostles and evangelists. Containing, I. The genealogy of our Lord ... II. Of the birth, life, imprisonment, and death of the Messiah's great fore-runner, John the Baptist. III. The calling of the twelve apostles ... IV. Of their travels ... By the Rev. Thomas Stackhouse, ...  1754 (catalogued 1754) | have-ocr | IA `bim_eighteenth-century_the-life-of-our-lord-and_stackhouse-thomas_1754` |
+| A system of practical duties, moral and evangelical. By the Rev. Thomas Stackhouse, ...  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_a-system-of-practical-du_stackhouse-thomas_1760` |
+| A compleat body of speculative and practical divinity, consisting of five parts (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-compleat-body-of-specu_stackhouse-thomas_1743` |
+| Memoirs of the Life and Conduct of Dr. Francis Atterbury (1723), IA memoirsoflifecon00stac: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Life of Mr. Woolston (1733), IA bub_gb_aw_qv0upwTAC: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The miseries and great hardships of the inferiour clergy, in and about London. And a modest plea for their rights, and better usage; ... By a clergyman of the Church of England.  1722 (catalogued 1722) (IA bim_eighteenth-century_the-miseries-and-great-h_stackhouse-thomas_1722): signed only "By a Clergyman of the Church of England" (a later hand wrote "T. Stackhouse" above); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| German and French translations | excluded | |
+| the 1743 and 1760 Body of Divinity and a second Woolston scan | excluded | |
+| his Greek grammar, a school book | excluded | |
+| completebodyofdi00stac: a partial scan that begins in Part III with no title page; the 1743 ECCO copy is taken instead | excluded | |
