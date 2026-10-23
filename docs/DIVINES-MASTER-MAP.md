@@ -12201,6 +12201,25 @@ Slugs `allon-*`. Built from title pages read for round 58.
 | The vision of God, and other sermons (London : Hodder and Stoughton, 1876) | have-ocr | IA `visionofgodother00allo` |
 | The Indwelling Christ and Other Sermons (T. Whittaker, 1892) | have-ocr | IA `indwellingchris00allogoog` |
 | The Congregational Psalmist and other hymn and tune books he edited; British Quarterly Review volumes; the Memorial volume (by others) | excluded | |
+
+## J. Baldwin Brown (round 58, my pick, 2026-10-23)
+
+Slugs `jbbrown-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Aids to the development of the divine life [sermons] (catalogued 1861) | have-ocr | IA `aidstodevelopme00browgoog` |
+| The soul's exodus and pilgrimage ([n.p.], 1862) | have-ocr | IA `soulsexoduspilgr00brow` |
+| The divine treatment of sin (Jackson, 1864) | have-ocr | IA `divinetreatment00browgoog` |
+| The home life, in the light of its divine idea (New York : D. Appleton, 1867) | have-ocr | IA `homelifeinlighto00browrich` |
+| Idolatries, old & new: their cause and cure (catalogued 1867) | have-ocr | IA `idolatriesoldne00browgoog` |
+| Misread Passages of Scripture (Carlton & Lanahan, 1869) | have-ocr | IA `misreadpassages01browgoog` |
+| The Divine Mysteries: The Divine Treatment of Sin and The Divine Mystery of Peace (Carlton & Lanahan, 1869) | have-ocr | IA `divinemysteries00browgoog` |
+| The Sunday afternoon; 52 brief sermons (catalogued 1871) | have-ocr | IA `sundayafternoon00browgoog` |
+| First principles of ecclesiastical truth : essays on the church and society (London : Hodder and Stoughton, 1871) | have-ocr | IA `firstprincipleso00brow` |
+| The higher life, its reality, experiences and destiny (London, King, 1874) | have-ocr | IA `higherlifeitsrea00browuoft` |
+| The doctrine of annihilation in the light of the gospel of love (London, H. S. King & co., 1875) | have-ocr | IA `doctrineofannihi00brow` |
+| His father James Baldwin Brown (1785-1843): Memoirs of Howard and The Investigator; Our Morals and Manners (1872, a short tract) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
