@@ -42662,3 +42662,17 @@ Shelf: `pipeline/leonard-merrick_shelf.json` (2026-10-22; added at the coordinat
 | One Man's View | have | PG 43971, `lmerrick-one-mans-view` (928 units) |
 | Cynthia With an Introduction by Maurice Hewlett | have | PG 44465, `lmerrick-cynthia-with-an-introduction-by-maurice-hewlett` (1593 units) |
 | Conrad in Quest of His Youth: An Extravagance of Temperament | have | PG 56226, `lmerrick-conrad-in-quest-of-his-youth` (1494 units) |
+
+## Laura Jean Libbey
+
+Shelf: `pipeline/laura-jean-libbey_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular romances. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mischievous Maid Faynie | have | PG 13740, `ljlibbey-mischievous-maid-faynie` (1271 units) |
+| Jolly Sally Pendleton; Or, the Wife Who Was Not a Wife | have | PG 29544, `ljlibbey-jolly-sally-pendleton` (2144 units) |
+| Pretty Madcap Dorothy; Or, How She Won a Lover | have | PG 29776, `ljlibbey-pretty-madcap-dorothy` (2049 units) |
+| Daisy Brooks; Or, A Perilous Love | have | PG 30137, `ljlibbey-daisy-brooks` (2333 units) |
+| Kidnapped at the Altar; Or, The Romance of that Saucy Jessie Bain | have | PG 30980, `ljlibbey-kidnapped-at-the-altar` (1976 units) |
+| A Dangerous Flirtation; Or, Did Ida May Sin? | have | PG 53676, `ljlibbey-dangerous-flirtation` (2714 units) |
+| Betrothed for a day: Or, Queenie Trevalyn's love test | have | PG 68760, `ljlibbey-betrothed-for-a-day` (2068 units) |
