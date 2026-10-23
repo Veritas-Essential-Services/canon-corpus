@@ -1,0 +1,285 @@
+{
+ "_about": "The Duchess (Margaret Wolfe Hungerford)'s Victorian romances, Molly Bawn and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "The Duchess (Margaret Wolfe Hungerford)",
+ "_name_words": [
+  "duchess",
+  "hungerford",
+  "the"
+ ],
+ "_surname": [
+  "the duchess",
+  "hungerford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "duchess-haunted-chamber": [
+   16053,
+   "The Haunted Chamber: A Novel"
+  ],
+  "duchess-hoyden": [
+   16137,
+   "The Hoyden"
+  ],
+  "duchess-little-rebel": [
+   16186,
+   "A Little Rebel"
+  ],
+  "duchess-little-rebel-19175": [
+   19175,
+   "A Little Rebel: A Novel"
+  ],
+  "duchess-aprils-lady": [
+   21641,
+   "April's Lady: A Novel"
+  ],
+  "duchess-molly-bawn": [
+   22214,
+   "Molly Bawn"
+  ],
+  "duchess-how-i-write-my-novels": [
+   27621,
+   "How I write my novels"
+  ],
+  "duchess-story-of-my-first-novel": [
+   27622,
+   "The story of my first novel; How a novel is written"
+  ],
+  "duchess-how-to-marry-well": [
+   27624,
+   "How to Marry Well"
+  ],
+  "duchess-bachelors-dream": [
+   27838,
+   "A Bachelor's Dream"
+  ],
+  "duchess-only-an-irish-girl": [
+   27839,
+   "Only an Irish Girl"
+  ],
+  "duchess-rossmoyne": [
+   31492,
+   "Rossmoyne"
+  ],
+  "duchess-portia": [
+   31825,
+   "Portia; Or, By Passions Rocked"
+  ],
+  "duchess-faith-and-unfaith": [
+   33312,
+   "Faith and Unfaith: A Novel"
+  ],
+  "duchess-airy-fairy-lilian": [
+   35228,
+   "Airy Fairy Lilian"
+  ],
+  "duchess-mrs-geoffrey": [
+   35384,
+   "Mrs. Geoffrey"
+  ],
+  "duchess-red-house-mystery-the-piccadilly-novels": [
+   54847,
+   "The Red House Mystery The Piccadilly Novels"
+  ],
+  "duchess-phyllis": [
+   55398,
+   "Phyllis"
+  ],
+  "duchess-professors-experiment": [
+   69494,
+   "The professor's experiment: A novel, Vol. 1 (of 3)"
+  ],
+  "duchess-professors-experiment-69495": [
+   69495,
+   "The professor's experiment: A novel, Vol. 2 (of 3)"
+  ],
+  "duchess-professors-experiment-69496": [
+   69496,
+   "The professor's experiment: A novel, Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "duchess-haunted-chamber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-hoyden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-little-rebel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-little-rebel-19175": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-aprils-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-molly-bawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-how-i-write-my-novels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hungerford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-story-of-my-first-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-how-to-marry-well": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-bachelors-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-only-an-irish-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-portia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-faith-and-unfaith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-airy-fairy-lilian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-mrs-geoffrey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-red-house-mystery-the-piccadilly-novels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hungerford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-phyllis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-professors-experiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-professors-experiment-69495": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "the duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duchess-professors-experiment-69496": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hungerford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

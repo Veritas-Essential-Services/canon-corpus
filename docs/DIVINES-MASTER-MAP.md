@@ -38347,3 +38347,31 @@ Shelf: `pipeline/mary-hazelton-wade_shelf.json` (2026-10-22; added at the coordi
 | Our Little Porto Rican Cousin | have | PG 45995, `mhwade-our-little-porto-rican-cousin` (357 units) |
 | Our Little Eskimo Cousin | have | PG 46484, `mhwade-our-little-eskimo-cousin` (488 units) |
 | The Coming of the White Men: Stories of How Our Country Was Discovered | have | PG 55959, `mhwade-coming-of-the-white-men` (1025 units) |
+
+## The Duchess (Margaret Wolfe Hungerford)
+
+Shelf: `pipeline/the-duchess_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian romances. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Haunted Chamber: A Novel | have | PG 16053, `duchess-haunted-chamber` (918 units) |
+| The Hoyden | have | PG 16137, `duchess-hoyden` (4430 units) |
+| A Little Rebel | have | PG 16186, `duchess-little-rebel` (938 units) |
+| A Little Rebel: A Novel | have | PG 19175, `duchess-little-rebel-19175` (962 units) |
+| April's Lady: A Novel | have | PG 21641, `duchess-aprils-lady` (3549 units) |
+| Molly Bawn | have | PG 22214, `duchess-molly-bawn` (4381 units) |
+| How I write my novels | have | PG 27621, `duchess-how-i-write-my-novels` (19 units) |
+| The story of my first novel; How a novel is written | have | PG 27622, `duchess-story-of-my-first-novel` (14 units) |
+| How to Marry Well | have | PG 27624, `duchess-how-to-marry-well` (18 units) |
+| A Bachelor's Dream | have | PG 27838, `duchess-bachelors-dream` (621 units) |
+| Only an Irish Girl | have | PG 27839, `duchess-only-an-irish-girl` (787 units) |
+| Rossmoyne | pending | PG 31492, `duchess-rossmoyne` (fetch failed) |
+| Portia; Or, By Passions Rocked | have | PG 31825, `duchess-portia` (3201 units) |
+| Faith and Unfaith: A Novel | have | PG 33312, `duchess-faith-and-unfaith` (3169 units) |
+| Airy Fairy Lilian | have | PG 35228, `duchess-airy-fairy-lilian` (3792 units) |
+| Mrs. Geoffrey | have | PG 35384, `duchess-mrs-geoffrey` (3343 units) |
+| The Red House Mystery The Piccadilly Novels | have | PG 54847, `duchess-red-house-mystery-the-piccadilly-novels` (1696 units) |
+| Phyllis | have | PG 55398, `duchess-phyllis` (3602 units) |
+| The professor's experiment: A novel, Vol. 1 (of 3) | have | PG 69494, `duchess-professors-experiment` (2318 units) |
+| The professor's experiment: A novel, Vol. 2 (of 3) | have | PG 69495, `duchess-professors-experiment-69495` (1329 units) |
+| The professor's experiment: A novel, Vol. 3 (of 3) | have | PG 69496, `duchess-professors-experiment-69496` (1279 units) |
