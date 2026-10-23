@@ -17320,3 +17320,21 @@ Slugs `carradine-*`. Built from title pages read for round 113.
 | Graphic scenes (Cincinnati, Ohio, God's revivalist office, 1911) | have-ocr | IA `graphicscenes00carr` |
 | lotterylouisiana0000carr (a 1997 reprint) | excluded | |
 | bestofallcomplet00carr: Best of All is a songbook of hymns by many hands | excluded | |
+
+## Alexander Smellie (round 113, my pick, 2026-10-23)
+
+Slugs `smellie-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Men of the Covenant : the story of the Scottish church in the years of the persecution. -- (New York : F. H. Revell, 1877) | have-ocr | IA `menofcovenantsto0000smel` |
+| In the hour of silence : a book of daily meditations for a year (London : A. Melrose, 1899) | have-ocr | IA `OnTheHourOfSilence` |
+| Torch-bearers of the faith : a book of Christian heroes (London : A. Melrose, 1900) | have-ocr | IA `torchbearersoffa0000smel` |
+| In the secret place a book of daily devotional meditations (Andrew Melrose, 1910) | have-ocr | IA `insecretplaceboo0000alex` |
+| Robert Murray McCheyne (London, 1913) | have-ocr | IA `robertmurraymcch0000smel` |
+| Evan Henry Hopkins : a memoir (London : Marshall Bros., 1920) | have-ocr | IA `evanhenryhopkins0000smel` |
+| His Glory (catalogued 1923) | have-ocr | IA `hisglory0000smel` |
+| Sunset glory : Sermons preached in Carluke Original Secession Church (London ; New York : Andrew Melrose Ltd., 1924) | have-ocr | IA `sunsetglorysermo00smel` |
+| The Reformation in its literature (London and New York : A. Melrose, 1925) | have-ocr | IA `reformationinits00smel` |
+| The natural-history, anatomy and Lives of Gregory, Kames and Hume are by the eighteenth-century William and Alexander Smellie | excluded | |
+| menofcovenant0000alex (a 1960 reprint) | excluded | |
