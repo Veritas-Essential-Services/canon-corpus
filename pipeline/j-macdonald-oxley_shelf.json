@@ -1,0 +1,148 @@
+{
+ "_about": "J. Macdonald Oxley's writing at Gutenberg: adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "J. Macdonald Oxley",
+ "_name_words": [
+  "oxley"
+ ],
+ "_surname": [
+  "oxley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jmoxley-young-woodsman": [
+   9968,
+   "The Young Woodsman; Or, Life in the Forests of Canada"
+  ],
+  "jmoxley-bert-lloyds-boyhood": [
+   25358,
+   "Bert Lloyd's Boyhood: A Story from Nova Scotia"
+  ],
+  "jmoxley-wreckers-of-sable-island": [
+   33714,
+   "The Wreckers of Sable Island"
+  ],
+  "jmoxley-donalblane-of-darien": [
+   33722,
+   "Donalblane of Darien"
+  ],
+  "jmoxley-ti-ti-pu": [
+   33740,
+   "Ti-Ti-Pu: A Boy of Red River"
+  ],
+  "jmoxley-in-paths-of-peril": [
+   33753,
+   "In Paths of Peril: A Boy's Adventures in Nova Scotia"
+  ],
+  "jmoxley-terrys-trials-and-triumphs": [
+   33754,
+   "Terry's Trials and Triumphs"
+  ],
+  "jmoxley-my-strange-rescue-and-other-stories-of-sport-and-adv": [
+   51308,
+   "My Strange Rescue, and Other Stories of Sport and Adventure in Canada"
+  ],
+  "jmoxley-with-rogers-on-the-frontier": [
+   53560,
+   "With Rogers on the Frontier: A Story of 1756"
+  ],
+  "jmoxley-family-on-wheels": [
+   55891,
+   "The Family on Wheels"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jmoxley-young-woodsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-bert-lloyds-boyhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-wreckers-of-sable-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-donalblane-of-darien": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-ti-ti-pu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-in-paths-of-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-terrys-trials-and-triumphs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-my-strange-rescue-and-other-stories-of-sport-and-adv": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-with-rogers-on-the-frontier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmoxley-family-on-wheels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -15750,3 +15750,20 @@ Shelf: `pipeline/mabel-quiller-couch_shelf.json` (2026-10-22; added at the coord
 | Anxious Audrey | have | PG 31173, `mqcouch-anxious-audrey` (1412 units) |
 | Better than Play | have | PG 31836, `mqcouch-better-than-play` (887 units) |
 | The Mean-Wells | have | PG 64258, `mqcouch-mean-wells` (1022 units) |
+
+## J. Macdonald Oxley
+
+Shelf: `pipeline/j-macdonald-oxley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Young Woodsman; Or, Life in the Forests of Canada | have | PG 9968, `jmoxley-young-woodsman` (429 units) |
+| Bert Lloyd's Boyhood: A Story from Nova Scotia | have | PG 25358, `jmoxley-bert-lloyds-boyhood` (1427 units) |
+| The Wreckers of Sable Island | have | PG 33714, `jmoxley-wreckers-of-sable-island` (505 units) |
+| Donalblane of Darien | have | PG 33722, `jmoxley-donalblane-of-darien` (380 units) |
+| Ti-Ti-Pu: A Boy of Red River | have | PG 33740, `jmoxley-ti-ti-pu` (376 units) |
+| In Paths of Peril: A Boy's Adventures in Nova Scotia | have | PG 33753, `jmoxley-in-paths-of-peril` (391 units) |
+| Terry's Trials and Triumphs | have | PG 33754, `jmoxley-terrys-trials-and-triumphs` (818 units) |
+| My Strange Rescue, and Other Stories of Sport and Adventure in Canada | have | PG 51308, `jmoxley-my-strange-rescue-and-other-stories-of-sport-and-adv` (1595 units) |
+| With Rogers on the Frontier: A Story of 1756 | have | PG 53560, `jmoxley-with-rogers-on-the-frontier` (1286 units) |
+| The Family on Wheels | have | PG 55891, `jmoxley-family-on-wheels` (1165 units) |
