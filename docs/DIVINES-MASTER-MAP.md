@@ -13036,6 +13036,8 @@ Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greec
 | The History of Sicily from the Earliest Times, vol. II (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v2-1891` | have-raw (IA `historyofsicilyf02free`) |
 | The History of Sicily from the Earliest Times, vol. III (Oxford: Clarendon Press, 1892) |  | `e-a-freeman-sicily-v3-1892` | have-raw (IA `historysicilyfr02freegoog`) |
 | The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894) |  | `e-a-freeman-sicily-v4-1894` | have-raw (IA `historyofsicilyf04free`) |
+| Historical Essays, second series, by Edward A. Freeman (London: Macmillan, 1873); essays on Greek and Roman history, including The Historians of Athens and Alexander the Great |  | `e-a-freeman-historical-essays-2-1873` | have-raw (IA `historicalessay01freegoog`) |
+| Greater Greece and Greater Britain, and George Washington the Expander of England, by Edward A. Freeman (London: Macmillan, 1886) |  | `e-a-freeman-greater-greece-1886` | have-raw (IA `greatergreecegre00freeuoft`) |
 
 ## W. T. Arnold (scholarship)
 
