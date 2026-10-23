@@ -13242,6 +13242,19 @@ Slugs `mcgarvey-*`. Built from title pages read for round 68.
 | The Fourfold Gospel, or A Harmony of the Four Gospels, with Philip Y. Pendleton (Cincinnati: Standard, copyright 1914; this printing undated) | have-ocr | IA `fourfoldgospelor0000jwmc_m2n6` |
 | Thessalonians, Corinthians, Galatians, and Romans, with Philip Y. Pendleton (Cincinnati: Standard, 1916) | have-ocr | IA `thessalonianscor00mcga` |
 | later reprints of the Acts commentaries (1887, 1909 and undated 0000 copies), duplicates of the printings shelved | excluded | |
+
+## Frederick Temple (round 69, my pick, 2026-10-23)
+
+Slugs `temple-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons preached in Rugby School Chapel, in 1858, 1859, 1860 (London : Macmillan, 1870) | have-ocr | IA `sermonspreachedi00temp` |
+| Sermons Preached in Rugby School Chapel in 1862-1867 (Macmillan, 1871) | have-ocr | IA `sermonspreached05tempgoog` |
+| Sermons Preached in Rugby School Chapel in 1867-1869 (Macmillan, 1872) | have-ocr | IA `sermonspreached06tempgoog` |
+| The present relations of science to religion : a sermon preached on Act Sunday, July 1, 1860, before the University of Oxford, during the meeting of the British Association (Oxford : J.H. and Jas. Parker, 1860) | have-ocr | IA `b22327265` |
+| The relations between religion and science : eight lectures preached before the University of Oxford in the year 1884 (New York : Macmillan and Co., 1884) | have-ocr | IA `relationsbetween00temp` |
+| his essay 'The Education of the World' in Essays and Reviews (1860), a many-author volume | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Frederick Temple (1821-1902), Headmaster of Rugby, Bishop of Exeter and London, and Archbishop of Canterbury, for the Word Hoard: the three series of Sermons Preached in Rugby School Chapel (1858-1869), The Present Relations of Science to Religion (1860) and his Bampton Lectures, The Relations between Religion and Science (1884). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 69 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "temple"
+ ],
+ "_surname": [
+  "temple"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "temple-rugby-sermons-1": [
+   "sermonspreachedi00temp",
+   "Sermons preached in Rugby School Chapel, in 1858, 1859, 1860 (London : Macmillan, 1870)"
+  ],
+  "temple-rugby-sermons-2": [
+   "sermonspreached05tempgoog",
+   "Sermons Preached in Rugby School Chapel in 1862-1867 (Macmillan, 1871)"
+  ],
+  "temple-rugby-sermons-3": [
+   "sermonspreached06tempgoog",
+   "Sermons Preached in Rugby School Chapel in 1867-1869 (Macmillan, 1872)"
+  ],
+  "temple-science-religion-sermon-1860": [
+   "b22327265",
+   "The present relations of science to religion : a sermon preached on Act Sunday, July 1, 1860, before the University of Oxford, during the meeting of the British Association (Oxford : J.H. and Jas. Parker, 1860)"
+  ],
+  "temple-religion-science-1884": [
+   "relationsbetween00temp",
+   "The relations between religion and science : eight lectures preached before the University of Oxford in the year 1884 (New York : Macmillan and Co., 1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "temple-essays-and-reviews": "his essay 'The Education of the World' in Essays and Reviews (1860), a many-author volume"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "temple-rugby-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "temple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "temple-rugby-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "temple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "temple-rugby-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "temple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "temple-science-religion-sermon-1860": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "temple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "temple-religion-science-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "temple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
