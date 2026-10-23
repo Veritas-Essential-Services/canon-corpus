@@ -1635,6 +1635,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Lyra Graeca, ed. and tr. J. M. Edmonds, vol. III (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling |  | `lyra-graeca-edmonds-v3` | have-raw (IA `lyragraecabeingr03edmouoft`) |
 | A Century of Greek Epigrams, tr. Edward Fry, Lady Fry and Agnes Fry (privately printed, 1915); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-fry-century-epigrams-1915` | have-raw (IA `centuryofgreekep00fryerich`) |
 | Paraphrases and Translations from the Greek, by the Earl of Cromer (1903); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-cromer-paraphrases-1903` | have-raw (IA `paraphrasestrans00cromrich`) |
+| Verse Translations from Greek and Latin Poets, by Arthur D. Innes (1894); Greek text with the translation, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-innes-verse-translations-1894` | have-raw (IA `versetranslation00innerich`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 

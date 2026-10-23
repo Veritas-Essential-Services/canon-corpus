@@ -135,14 +135,17 @@
   "greek-anthology-cromer-paraphrases-1903": [
    "paraphrasestrans00cromrich",
    "Paraphrases and Translations from the Greek, by the Earl of Cromer (1903); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-innes-verse-translations-1894": [
+   "versetranslation00innerich",
+   "Verse Translations from Greek and Latin Poets, by Arthur D. Innes (1894); Greek text with the translation, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "Musaeus": "held on the late-greek-poets shelf (Arnold's Hero and Leander, musaeus-arnold-hero-leander)",
   "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken",
   "bub_gb_3QevpbXOklcC": "Fawkes's Anacreon, Sappho and Musaeus, 1810 reprint (Suttaby); the 1760 edition is held as anacreon-fawkes-1760.",
-  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar.",
-  "Arthur D. Innes, Verse Translations from Greek and Latin Poets (1894)": "IA versetranslation00innerich reads 0.625; refused for OCR quality 2026-10-10"
+  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar."
  },
  "_surname": [
   "sappho",
@@ -179,7 +182,8 @@
   "lyra-graeca-edmonds-v2": "J. M. Edmonds",
   "lyra-graeca-edmonds-v3": "J. M. Edmonds",
   "greek-anthology-fry-century-epigrams-1915": "Edward Fry",
-  "greek-anthology-cromer-paraphrases-1903": "Earl of Cromer"
+  "greek-anthology-cromer-paraphrases-1903": "Earl of Cromer",
+  "greek-anthology-innes-verse-translations-1894": "Innes"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -524,6 +528,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1903",
    "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-innes-verse-translations-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacchylides",
+   "translator_claimed": "Innes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
