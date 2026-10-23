@@ -18938,6 +18938,18 @@ Slugs `dearmer-*`. Built from title pages read for round 129.
 | Essays on Ceremonial (IA essaysonceremoni00atch): essays by several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | The English Liturgy and The Booklet of the Mass are service books he edited | excluded | |
 | Highways and Byways in Normandy is a travel book | excluded | |
+
+## John Pulsford (round 129, my pick, 2026-10-23)
+
+Slugs `pulsford-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| Quiet hours (catalogued 1857) | have-ocr | IA `quiethours01pulsgoog` |
+| Morgenröthe: a book of the age, for the children of the age. (A supplement to the "Supremacy of man (London : Hamilton, Adams & Co., 1881) | have-ocr | IA `morgenrothebooko00puls` |
+| Infoldings and unfoldings of the divine genius in nature and man (London : Hamilton, Adams, 1887) | have-ocr | IA `infoldingsunfold00puls` |
+| Stray thoughts of a life-time : reflections, suggestions, aspirations, etc (London : Simpkin Marshall, Hamilton, Kent, 1896) | have-ocr | IA `straythoughtsofl0000puls` |
+| other scans of the same books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
