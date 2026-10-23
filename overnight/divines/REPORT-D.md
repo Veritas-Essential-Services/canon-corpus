@@ -2711,3 +2711,6 @@
 
 ## 2026-10-22 23:24 CDT — henry-blake-fuller: done
 - henry-blake-fuller: new shelf, 5 Gutenberg books, 7,710 units, 1177 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — m-e-francis: done
+- m-e-francis: new shelf, 5 Gutenberg books, 9,521 units, 373 ~2 ids; verify 0 mismatches, 0 rights flags.

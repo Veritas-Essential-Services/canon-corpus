@@ -1,0 +1,84 @@
+{
+ "_about": "M. E. Francis: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "M. E. Francis",
+ "_name_words": [
+  "francis"
+ ],
+ "_surname": [
+  "m. e. francis",
+  "francis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mefrancis-north-south-and-over-the-sea": [
+   12150,
+   "North, South and Over the Sea"
+  ],
+  "mefrancis-pastorals-of-dorset": [
+   65076,
+   "Pastorals of Dorset"
+  ],
+  "mefrancis-fianders-widow": [
+   66622,
+   "Fiander's Widow: A Novel"
+  ],
+  "mefrancis-stepping-westward": [
+   66833,
+   "Stepping Westward"
+  ],
+  "mefrancis-dorset-dear": [
+   75281,
+   "Dorset dear"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mefrancis-north-south-and-over-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mefrancis-pastorals-of-dorset": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mefrancis-fianders-widow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mefrancis-stepping-westward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mefrancis-dorset-dear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. e. francis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

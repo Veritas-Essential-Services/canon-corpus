@@ -44687,3 +44687,15 @@ Shelf: `pipeline/henry-blake-fuller_shelf.json` (2026-10-22; added at the coordi
 | With the Procession | have | PG 8891, `hbfuller-with-the-procession` (1653 units) |
 | On the Stairs | have | PG 21613, `hbfuller-on-the-stairs` (817 units) |
 | The Cliff-Dwellers: A Novel | have | PG 57782, `hbfuller-cliff-dwellers` (1738 units) |
+
+## M. E. Francis
+
+Shelf: `pipeline/m-e-francis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| North, South and Over the Sea | have | PG 12150, `mefrancis-north-south-and-over-the-sea` (1874 units) |
+| Pastorals of Dorset | have | PG 65076, `mefrancis-pastorals-of-dorset` (1544 units) |
+| Fiander's Widow: A Novel | have | PG 66622, `mefrancis-fianders-widow` (1753 units) |
+| Stepping Westward | have | PG 66833, `mefrancis-stepping-westward` (2042 units) |
+| Dorset dear | have | PG 75281, `mefrancis-dorset-dear` (2308 units) |
