@@ -15899,3 +15899,19 @@ Shelf: `pipeline/barry-pain_shelf.json` (2026-10-22; added at the coordinator's 
 | In a Canadian Canoe; The Nine Muses Minus One, and Other Stories | have | PG 67322, `bpain-in-a-canadian-canoe` (1213 units) |
 | Wilhelmina in London | have | PG 71322, `bpain-wilhelmina-in-london` (582 units) |
 | The Problem Club | have | PG 75598, `bpain-problem-club` (579 units) |
+
+## Arthur Morrison
+
+Shelf: `pipeline/arthur-morrison_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). East End stories and Martin Hewitt detective stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Martin Hewitt, Investigator | have | PG 11252, `amorrison-martin-hewitt-investigator` (1097 units) |
+| The Red Triangle: Being Some Further Chronicles of Martin Hewitt, Investigator | have | PG 28071, `amorrison-red-triangle` (1017 units) |
+| The Hole in the Wall | have | PG 34538, `amorrison-hole-in-the-wall` (1149 units) |
+| A Child of the Jago | have | PG 36958, `amorrison-child-of-the-jago` (788 units) |
+| Chronicles of Martin Hewitt | have | PG 37820, `amorrison-chronicles-of-martin-hewitt` (1288 units) |
+| Tales of Mean Streets | have | PG 40569, `amorrison-tales-of-mean-streets` (589 units) |
+| The Dorrington Deed-Box | have | PG 53341, `amorrison-dorrington-deed-box` (893 units) |
+| To London Town | have | PG 58282, `amorrison-to-london-town` (900 units) |
+| Adventures of Martin Hewitt, Third Series | have | PG 59319, `amorrison-adventures-of-martin-hewitt-third-series` (1051 units) |
