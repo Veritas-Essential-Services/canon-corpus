@@ -1,0 +1,85 @@
+{
+ "_about": "William Allen White: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Allen White",
+ "_name_words": [
+  "allen",
+  "white",
+  "william"
+ ],
+ "_surname": [
+  "william allen white"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wawhite-martial-adventures-of-henry-and-me": [
+   5633,
+   "The Martial Adventures of Henry and Me"
+  ],
+  "wawhite-court-of-boyville": [
+   12377,
+   "The Court of Boyville"
+  ],
+  "wawhite-certain-rich-man": [
+   18684,
+   "A Certain Rich Man"
+  ],
+  "wawhite-in-our-town": [
+   26207,
+   "In Our Town"
+  ],
+  "wawhite-in-the-heart-of-a-fool": [
+   30627,
+   "In the Heart of a Fool"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wawhite-martial-adventures-of-henry-and-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william allen white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wawhite-court-of-boyville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william allen white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wawhite-certain-rich-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william allen white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wawhite-in-our-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william allen white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wawhite-in-the-heart-of-a-fool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william allen white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

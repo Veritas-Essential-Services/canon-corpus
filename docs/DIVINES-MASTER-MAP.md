@@ -44073,3 +44073,15 @@ Shelf: `pipeline/andy-adams_shelf.json` (2026-10-22; added at the coordinator's 
 | The Log of a Cowboy: A Narrative of the Old Trail Days | have | PG 12797, `aadams-log-of-a-cowboy` (647 units) |
 | Reed Anthony, Cowman: An Autobiography | have | PG 12884, `aadams-reed-anthony-cowman` (355 units) |
 | A Texas Matchmaker | have | PG 12919, `aadams-texas-matchmaker` (585 units) |
+
+## William Allen White
+
+Shelf: `pipeline/william-allen-white_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Martial Adventures of Henry and Me | have | PG 5633, `wawhite-martial-adventures-of-henry-and-me` (478 units) |
+| The Court of Boyville | have | PG 12377, `wawhite-court-of-boyville` (492 units) |
+| A Certain Rich Man | have | PG 18684, `wawhite-certain-rich-man` (1671 units) |
+| In Our Town | have | PG 26207, `wawhite-in-our-town` (555 units) |
+| In the Heart of a Fool | have | PG 30627, `wawhite-in-the-heart-of-a-fool` (3119 units) |

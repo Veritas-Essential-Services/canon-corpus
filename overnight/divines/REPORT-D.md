@@ -2600,3 +2600,6 @@
 
 ## 2026-10-22 23:19 CDT — andy-adams: done
 - andy-adams: new shelf, 6 Gutenberg books, 4,020 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:19 CDT — william-allen-white: done
+- william-allen-white: new shelf, 5 Gutenberg books, 6,315 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags.
