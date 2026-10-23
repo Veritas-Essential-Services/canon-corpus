@@ -15028,3 +15028,21 @@ Slugs `macarthur-*`. Built from title pages read for round 88.
 | The Baptists : their principle, their progress, their prospect (Philadelphia : American Baptist Pub. Society, c191) | have-ocr | IA `baptiststheirpri00macarich` |
 | hymnals and orders of worship he compiled (In Excelsis, Calvary Hymnal, The People's Worship and Psalter) | excluded | |
 | Around the World due West to the Far East (travel) | excluded | |
+
+## Alexander McKenzie (round 88, my pick, 2026-10-23)
+
+Slugs `mckenzie-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the history of the First church in Cambridge (Boston : Congregational Publishing Society, 1873) | have-ocr | IA `lecturesonhist00mcke` |
+| The one lawgiver. A sermon delivered before the executive and legislative departments of the government of Massachusetts, at the annual election, Wednesday, Jan. 1, 1879 (Boston, Rand, Avery & co., printers, 1879) | have-ocr | IA `onelawgiveraser00mckegoog` |
+| Other sheep I have : a sermon / preached in the Shepherd Memorial Church, Cambridge, October 15, 1882 by Alexander McKenzie (Cambridge, Mass. : s.n., 1882) | have-ocr | IA `othersheepihaves00mcke` |
+| Cambridge sermons (Boston : D. Lothrop, 1883) | have-ocr | IA `cambridgesermons00mcke` |
+| Christ himself (Boston : D. Lothrop Company, 1891) | have-ocr | IA `christhimself00mcke` |
+| A door opened (Boston : Houghton, 1898) | have-ocr | IA `dooropened00mcke` |
+| The divine force in the life of the world (New York, London, Lamson, Wolffe and company, 1898) | have-ocr | IA `divineforceinlif00mcke` |
+| Now (Boston : L.C. Page & Co., 1900) | have-ocr | IA `now00mcke` |
+| Getting One's Bearings, etc. [Essays.] (New York : Fleming H. Revell Co, 1903) | have-ocr | IA `gettingonesbeari0000mcke` |
+| Address on some Cambridge men I have known ([Cambridge, The Society, 1908) | have-ocr | IA `addressonsomecam00mcke` |
+| Some Things Abroad (travel); Sunday-school lesson notes; books by other Alexander McKenzies (A Stage Baby, The Physiology of the Senses) | excluded | |

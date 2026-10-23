@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain Alexander McKenzie (1830-1914), minister of the First Church in Cambridge, Massachusetts, for the Word Hoard: Lectures on the History of the First Church in Cambridge, The One Lawgiver (election sermon), Other Sheep I Have, Cambridge Sermons, Christ Himself, A Door Opened, The Divine Force in the Life of the World, Now, Getting One's Bearings and Some Cambridge Men I have Known. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 88 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander mckenzie",
+  "a. mckenzie"
+ ],
+ "_surname": [
+  "alexander mckenzie",
+  "a. mckenzie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mckenzie-first-church": [
+   "lecturesonhist00mcke",
+   "Lectures on the history of the First church in Cambridge (Boston : Congregational Publishing Society, 1873)"
+  ],
+  "mckenzie-one-lawgiver": [
+   "onelawgiveraser00mckegoog",
+   "The one lawgiver. A sermon delivered before the executive and legislative departments of the government of Massachusetts, at the annual election, Wednesday, Jan. 1, 1879 (Boston, Rand, Avery & co., printers, 1879)"
+  ],
+  "mckenzie-other-sheep": [
+   "othersheepihaves00mcke",
+   "Other sheep I have : a sermon / preached in the Shepherd Memorial Church, Cambridge, October 15, 1882 by Alexander McKenzie (Cambridge, Mass. : s.n., 1882)"
+  ],
+  "mckenzie-cambridge-sermons": [
+   "cambridgesermons00mcke",
+   "Cambridge sermons (Boston : D. Lothrop, 1883)"
+  ],
+  "mckenzie-christ-himself": [
+   "christhimself00mcke",
+   "Christ himself (Boston : D. Lothrop Company, 1891)"
+  ],
+  "mckenzie-door-opened": [
+   "dooropened00mcke",
+   "A door opened (Boston : Houghton, 1898)"
+  ],
+  "mckenzie-divine-force": [
+   "divineforceinlif00mcke",
+   "The divine force in the life of the world (New York, London, Lamson, Wolffe and company, 1898)"
+  ],
+  "mckenzie-now": [
+   "now00mcke",
+   "Now (Boston : L.C. Page & Co., 1900)"
+  ],
+  "mckenzie-bearings": [
+   "gettingonesbeari0000mcke",
+   "Getting One's Bearings, etc. [Essays.] (New York : Fleming H. Revell Co, 1903)"
+  ],
+  "mckenzie-cambridge-men": [
+   "addressonsomecam00mcke",
+   "Address on some Cambridge men I have known ([Cambridge, The Society, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mckenzie-other": "Some Things Abroad (travel); Sunday-school lesson notes; books by other Alexander McKenzies (A Stage Baby, The Physiology of the Senses)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mckenzie-cambridge-sermons": "title page: 'CAMBRIDGE SERMONS BY ALEXANDER McKENZIE. BOSTON: D. LOTHROP AND COMPANY ... COPYRIGHT, 1883' (OCR 'ALEXANDER \"'McKENZIE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mckenzie-first-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-one-lawgiver": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckenzie-other-sheep": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-cambridge-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-christ-himself": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-door-opened": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckenzie-divine-force": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mckenzie-now": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-bearings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mckenzie-cambridge-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mckenzie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
