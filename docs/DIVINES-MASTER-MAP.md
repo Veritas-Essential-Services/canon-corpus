@@ -20594,6 +20594,15 @@ Shelf: `pipeline/menander_shelf.json`. Menander, the Principal Fragments, tr. Fr
 |---|---|---|---|
 | Menander, the Principal Fragments, tr. Francis G. Allinson (Loeb, 1921); Greek facing, kept per Adam's 2026-10-23 ruling |  | `menander-allinson-1921` | have-raw (IA `menanderprincipa00menauoft`) |
 
+
+## Aeneas Tacticus, Asclepiodotus, Onasander
+
+Shelf: `pipeline/aeneas-tacticus_shelf.json`. Aeneas Tacticus, Asclepiodotus, Onasander, tr. the Illinois Greek Club (Loeb, 1923) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Aeneas Tacticus, Asclepiodotus, Onasander, tr. the Illinois Greek Club (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeneas-tacticus-illinois-greek-club-1923` | have-raw (IA `aeneastacticusas00aene_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
