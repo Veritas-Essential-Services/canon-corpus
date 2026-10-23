@@ -14218,3 +14218,18 @@ Slugs `waterbury-*`. Built from title pages read for round 79.
 | Sketches of eloquent preachers (New York : The American Tract Society, 1864) | have-ocr | IA `sketchesofeloque00wate` |
 | Memoir of the Rev. John Scudder, M.D., thirty-six years missionary in India (New York : Harper, 1870) | have-ocr | IA `memoirofrevjohns00wateiala` |
 | The Brighter Age (1830), a poem; Who are the Happy? (1851), a retitled edition of The Happy Christian; hymn and tune books | excluded | |
+
+## Francis Blackburne (round 80, my pick, 2026-10-23)
+
+Slugs `blackburne-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 1 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological01blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 2 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological02blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 3 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological03blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 4 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological04blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 5 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological05blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 6 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological06blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 7 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological07blac` |
+| separate eighteenth-century printings of pieces collected in the Works; the Memoirs of Thomas Hollis (1780), a life of his patron | excluded | |

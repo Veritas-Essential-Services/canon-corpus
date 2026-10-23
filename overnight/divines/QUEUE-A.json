@@ -8200,6 +8200,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T04:37:20-05:00",
       "notes": "9 books. Two OCR'd title pages are quoted on the shelf."
+    },
+    {
+      "id": "francis-blackburne=francis-blackburne",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:15-05:00",
+      "notes": "His 1804 Works in 7 volumes, which hold The Confessional."
     }
   ]
 }

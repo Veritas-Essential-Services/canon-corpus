@@ -1,0 +1,130 @@
+{
+ "_about": "Public-domain Francis Blackburne (1705-1787), Archdeacon of Cleveland and author of The Confessional, the case against clerical subscription to the Thirty-nine Articles, for the Word Hoard: his Works, Theological and Miscellaneous, with an account of his life written by himself (7 vols., 1804), which hold The Confessional, his history of the controversy over the intermediate state, his writings against popery and his charges and sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 80 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis blackburne",
+  "archdeacon blackburne"
+ ],
+ "_surname": [
+  "blackburne"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blackburne-works-1": [
+   "workstheological01blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 1 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-2": [
+   "workstheological02blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 2 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-3": [
+   "workstheological03blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 3 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-4": [
+   "workstheological04blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 4 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-5": [
+   "workstheological05blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 5 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-6": [
+   "workstheological06blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 6 (Cambridge : B. Flower, 1804)"
+  ],
+  "blackburne-works-7": [
+   "workstheological07blac",
+   "The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 7 (Cambridge : B. Flower, 1804)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "blackburne-other": "separate eighteenth-century printings of pieces collected in the Works; the Memoirs of Thomas Hollis (1780), a life of his patron"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "blackburne-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackburne-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackburne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
