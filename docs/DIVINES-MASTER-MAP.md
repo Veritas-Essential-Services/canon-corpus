@@ -9884,6 +9884,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
 | An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869) | James Gilchrist | `homer-gilchrist-iliad-1869` | have-raw (IA `englishtranslati00home`) |
 | The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861) | Frederick H. J. Ritso | `homer-ritso-iliad-i-iii-1861` | have-raw (IA `iliadofhomerfirs00home`) |
+| The Iliad, tr. Samuel Butler (1898) |  | `homer-butler-iliad` | have (PG 2199, clean witness) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -10192,6 +10193,7 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 | Ancient India as described by Megasthenes and Arrian: the fragments of Megasthenes and the first part of Arrian's Indika (chs. 1-17; 1877) | J. W. McCrindle | `arrian-mccrindle-ancient-india` | have-raw (IA `b29352290`) |
 | Arrian's History of Alexander's Expedition, with notes (London, 1729), vol. 1 (Books I-IV) | John Rooke | `arrian-rooke-1729-v1` | have-raw (IA `arrianshistorya00rookgoog`) |
 | The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893) | J. W. McCrindle | `arrian-mccrindle-invasion` | have-raw (IA `cu31924028252546`) |
+| The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893), clean Gutenberg text |  | `arrian-mccrindle-invasion-pg` | have (PG 66388, clean witness) |
 
 Pending (wishlist): Chinnock's Indica (Bohn, 1893) as a second witness; vol. 2 of Rooke's 1729 Arrian (vol. 1 is held above; no scan of vol. 2 found). The whole Indica is held in McCrindle's two books above (chs. 1-17 in Ancient India, 18-43 in the Voyage of Nearkhos).
 
@@ -11131,6 +11133,8 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Reed of Pan: English renderings of Greek epigrams and lyrics (1922) | A. C. Benson | `greek-anthology-benson-reed-of-pan-1922` | have-raw (IA `reedofpanenglish00bensuoft`) |
 | Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916) | Rennell Rodd | `greek-anthology-rodd-love-worship-death-1916` | have-raw (IA `loveworshipdeath00roddrich`) |
 | Love, Worship and Death: renderings from the Greek Anthology |  | `rodd-love-worship-death-pg` | have (PG 35907, clean witness) |
+| The Poems of Sappho: An Interpretative Rendition into English, by John Myers O'Hara (1910) |  | `sappho-ohara-1910` | have (PG 42166, clean witness) |
+| Sappho: A New Rendering, by H. De Vere Stacpoole (1920) |  | `sappho-stacpoole-1920` | have (PG 42543, clean witness) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -12720,6 +12724,7 @@ Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre (Clarendon Press, 1889) an
 |---|---|---|---|
 | The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889) |  | `haigh-attic-theatre-1889` | have-raw (IA `attictheatredesc00haiguoft`) |
 | The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896) |  | `haigh-tragic-drama-greeks-1896` | have-raw (IA `tragicdramaofgre00haiguoft`) |
+| The Attic Theatre, 3rd edition revised by A. W. Pickard-Cambridge (Oxford, 1907) |  | `haigh-attic-theatre-3rd-ed-1907` | have (PG 76555, clean witness) |
 
 ## Henry Nettleship (scholarship)
 
@@ -13097,6 +13102,7 @@ Shelf: `pipeline/oman_shelf.json`. Seven Roman Statesmen of the Later Republic (
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Seven Roman Statesmen of the Later Republic (London: Edward Arnold, 1902; impression of 1929) |  | `oman-seven-roman-statesmen-1929` | have-raw (IA `cu31924028296345`) |
+| The Byzantine Empire (Story of the Nations, 1892) |  | `oman-byzantine-empire-1892` | have (PG 37756, clean witness) |
 
 ## C. E. Bennett (reference)
 
@@ -17915,6 +17921,7 @@ Shelf: `pipeline/r-w-livingstone_shelf.json`. Two books, 1912-1916.
 |---|---|---|---|
 | The Greek Genius and its Meaning to Us (Clarendon Press, 1912) |  | `livingstone-greek-genius-1912` | have-raw (IA `greekgeniusitsme00liviuoft`) |
 | A Defence of Classical Education (Macmillan, 1916) |  | `livingstone-defence-of-classical-education-1916` | have-raw (IA `defenceofclassic00liviuoft`) |
+| The Legacy of Greece, ed. R. W. Livingstone (Oxford, 1921): essays by Gilbert Murray, W. R. Inge, J. Burnet, T. L. Heath, D'Arcy Thompson, Charles Singer, Percy Gardner, Arnold Toynbee, A. E. Zimmern and others |  | `livingstone-legacy-of-greece-1921` | have (PG 22259, clean witness) |
 
 ## F. M. Cornford (origins of Greek thought)
 
@@ -18545,6 +18552,7 @@ Shelf: `pipeline/gilbert-norwood_shelf.json`. Greek and Latin drama, 1908-1925. 
 | Euripides and Shaw, with Other Essays (1921) |  | `norwood-euripides-and-shaw-1921` | have-raw (IA `cu31924085469827`) |
 | The Art of Terence (1923) |  | `norwood-art-of-terence-1923` | have-raw (IA `artofterence00norwuoft`) |
 | The Writers of Greece (1925) |  | `norwood-writers-of-greece-1925` | have-raw (IA `in.ernet.dli.2015.123894`) |
+| Greek Tragedy (1920), clean Gutenberg text |  | `norwood-greek-tragedy-pg` | have (PG 74167, clean witness) |
 
 
 ## J. C. Stobart (1878-1933)
@@ -18555,6 +18563,7 @@ Shelf: `pipeline/j-c-stobart_shelf.json`. The Glory that was Greece; The Grandeu
 |---|---|---|---|
 | The Glory that was Greece: a Survey of Hellenic Culture and Civilisation (1911) |  | `stobart-glory-that-was-greece-1911` | have-raw (IA `cu31924028257255`) |
 | The Grandeur that was Rome: a Survey of Roman Culture and Civilisation (1920 printing) |  | `stobart-grandeur-that-was-rome-1920` | have-raw (IA `cu31924028254377`) |
+| The Glory that was Greece (1911), clean Gutenberg text |  | `stobart-glory-greece-pg` | have (PG 59532, clean witness) |
 
 
 ## Edward Capps (1866-1950)
@@ -18633,6 +18642,7 @@ Shelf: `pipeline/roy-c-flickinger_shelf.json`. The Greek theater, 1904 and 1918.
 |---|---|---|---|
 | The Greek Theater and its Drama (Chicago, 1918) |  | `flickinger-greek-theater-drama-1918` | have-raw (IA `dli.ministry.02416`) |
 | Plutarch as a Source of Information on the Greek Theater (1904) |  | `flickinger-plutarch-greek-theater-1904` | have-raw (IA `plutarchasasour01flicgoog`) |
+| The Greek Theater and its Drama (1918), clean Gutenberg text |  | `flickinger-greek-theater-pg` | have (PG 69095, clean witness) |
 
 
 ## Ph.-E. Legrand (1866-1953)
@@ -19080,6 +19090,7 @@ Shelf: `pipeline/denton-j-snider_shelf.json`. Ancient European Philosophy (1903)
 | Work | Author | Slug | Status |
 |---|---|---|---|
 | Ancient European Philosophy: the History of Greek Philosophy Psychologically Treated (1903) |  | `snider-ancient-european-philosophy-1903` | have-raw (IA `ancienteuropeanp00sniduoft`) |
+| Homer's Odyssey: A Commentary (1895) |  | `snider-homers-odyssey-commentary` | have (PG 26275, clean witness) |
 
 
 ## Renn Dickson Hampden (1793-1868)
@@ -19393,6 +19404,7 @@ Shelf: `pipeline/hugh-e-seebohm_shelf.json`. On the Structure of Greek Tribal So
 | Work | Author | Slug | Status |
 |---|---|---|---|
 | On the Structure of Greek Tribal Society: an Essay (1895) |  | `seebohm-greek-tribal-society-1895` | have-raw (IA `onstructureofgre00seebiala`) |
+| On the Structure of Greek Tribal Society: an Essay (1895), clean Gutenberg text |  | `seebohm-greek-tribal-society-pg` | have (PG 26341, clean witness) |
 
 
 ## C. H. and H. B. Hawes
@@ -19993,6 +20005,7 @@ Shelf: `pipeline/j-a-k-thomson_shelf.json`. Studies in the Odyssey (Oxford: Clar
 | Studies in the Odyssey (Oxford: Clarendon Press, 1914) |  | `thomson-studies-in-the-odyssey-1914` | have-raw (IA `studiesinodyssey0000thom`) |
 | The Greek Tradition: Essays in the Reconstruction of Ancient Thought (London: Allen and Unwin, 1915) |  | `thomson-greek-tradition-1915` | have-raw (IA `greektraditiones00thomuoft`) |
 | Greeks and Barbarians (London: Allen and Unwin, 1921) |  | `thomson-greeks-and-barbarians-1921` | have-raw (IA `greeksbarbarians00thomuoft`) |
+| Greeks and Barbarians (1921), clean Gutenberg text |  | `thomson-greeks-barbarians-pg` | have (PG 55792, clean witness) |
 
 
 ## William Gunion Rutherford (1853-1907)
