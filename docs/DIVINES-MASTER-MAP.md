@@ -19367,6 +19367,15 @@ Shelf: `pipeline/g-w-elderkin_shelf.json`. Periclean buildings (1912, Gutenberg)
 
 Excluded: Problems in Periclean Buildings, IA cu31924096785328 (title page read 2026-10-23 (page images): only a half-title, no author named; the clean Gutenberg text is used instead)
 
+
+## Charles Diehl (1859-1944)
+
+Shelf: `pipeline/charles-diehl_shelf.json`. Excursions in Greece, tr. Perkins (1893). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Excursions in Greece to Recently Explored Sites of Classical Interest (1893), tr. Emma R. Perkins |  | `diehl-excursions-in-greece-1893` | have-raw (IA `cu31924028258022`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
