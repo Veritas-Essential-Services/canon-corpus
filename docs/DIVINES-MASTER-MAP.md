@@ -14697,6 +14697,43 @@ Slugs `streeter-*`. Built from title pages read for round 85.
 | The primitive church (catalogued 1929) | have-ocr | IA `primitivechurch0000burn` |
 | Foundations (1912), Concerning Prayer, Immortality (1917), The Spirit (1919), God and the Struggle for Existence (1919) and Adventure (1927): many-author volumes he edited or contributed to | excluded | |
 | The Buddha and the Christ (1932) and later | excluded | |
+
+## T. K. Cheyne (round 86, my pick, 2026-10-23)
+
+Slugs `cheyne-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The book of Isaiah chronologically arranged : an amended version with historical and critical introductions and explanatory notes (London : Macmillan, 1870) | have-ocr | IA `bookofisaiahchro00chey` |
+| The Christian point of view in the study of the Bible : a sermon preached in Balliol College Chapel on Trinity Sunday, June 8, 1879 (London : Printed for private circulation by E. Faithful, 1879) | have-ocr | IA `christianpointof00chey` |
+| The prophecies of Isaiah; a new translation with commentary and appendices, vol. 1 (London, Paul, 1880) | have-ocr | IA `propheciesofisai01cheyuoft` |
+| The prophecies of Isaiah; a new translation with commentary and appendices, vol. 2 (London, Paul, 1880) | have-ocr | IA `propheciesofisai02cheyuoft` |
+| Micah, with notes and introduction (Cambridge [Eng.] : University Press, 1882) | have-ocr | IA `micahwithnotesin00chey` |
+| The book of Psalms (London : Kegan Paul, Trench, 1884) | have-ocr | IA `bookofpsalms00chey` |
+| Hosea, with notes and introduction (Cambridge, Univ. Press, 1889) | have-ocr | IA `hoseawithnotesin00cheyuoft` |
+| Job and Solomon; or, The wisdom of the Old Testament (New York, Whittaker, 1889) | have-ocr | IA `jobsolomonorwisd00cheyuoft` |
+| Jeremiah, his life and times (New York, F.H. Revell Co, 1888) | have-ocr | IA `jeremiahhislifet00chey` |
+| The hallowing of criticism: nine sermons on Elijah preached in Rochester Cathedral, with an essay read at the Church Congress, Manchester, October 2nd, 1888 (London, Hodder and Stoughton, 1888) | have-ocr | IA `hallowingofcriti00chey` |
+| The Book of Psalms; or, The praises of Israel (London, Paul, 1888) | have-ocr | IA `bookofpsalmsorpr00cheyuoft` |
+| The origin and religious contents of the Psalter in the light of Old Testament criticism and the history of religions, with an introduction and appendices : eight lectures preached before the University of Oxford in the year 1889 (London : Kegan Paul, Trench, Trübner & Co., 1891) | have-ocr | IA `originreligiousc00chey` |
+| Aids to the devout study of criticism : part I : the David-narratives : part II : the book of Psalms (New York : Thomas Whittaker, 1892) | have-ocr | IA `aidstothedevouts00cheyuoft` |
+| Founders of Old Testament criticism: biographical, descriptive, and critical (London, Methuen, 1893) | have-ocr | IA `foundersoldtest00cheyuoft` |
+| Introduction to the book of Isaiah : with an appendix containing the undoubted portions of the two chief prophetic writers in a translation (London, A. and C. Black, 1895) | have-ocr | IA `introbookisaiah00cheyuoft` |
+| Jewish religious life after the exile (New York : G.P. Putnam's, 1898) | have-ocr | IA `jewishreligiousl0000unse` |
+| The Book of the Prophet Isaiah, a new English translation; printed in colors exhibiting the composite structure of the books, with explanatory notes and pictorial illustrations (New York, Dodd, 1898) | have-ocr | IA `bookofprophetisa00cheyuoft` |
+| The Christian use of the Psalms : with essays on the proper psalms in the Anglican prayer book (London : Isbister and Co., 1899) | have-ocr | IA `christianuseofps0000chey` |
+| Critica biblica : or, Critical notes on the text of the Old Testament writings (London : A. and C. Black, 1904) | have-ocr | IA `cu31924029281306` |
+| The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 1 (New York : T. Whittaker, 1904) | have-ocr | IA `bookofpsalmstran01chey` |
+| The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 2 (New York : T. Whittaker, 1904) | have-ocr | IA `bookofpsalmstran02chey` |
+| Bible problems and the new material for their solution; a plea for thoroughness of investigation, addressed to churchmen and scholars (New York, G.P. Putmans Sons; London, Williams and Norgate, 1904) | have-ocr | IA `bibleproblemsnew00cheyrich` |
+| Traditions & beliefs of ancient Israel (London : A. and C. Black, 1907) | have-ocr | IA `traditionsbelief00cheyuoft` |
+| The decline and fall of the Kingdom of Judah (London, A. and C. Black, 1908) | have-ocr | IA `declinefallofkin0000unse` |
+| The two religions of Israel; with re-examination of the prophetic narratives and utterances (London, A. and C. Black, 1911) | have-ocr | IA `thetworeligionso00cheyuoft` |
+| The mines of Isaiah re-explored (London : A. & C. Black, 1912) | have-ocr | IA `minesofisaiahree0000chey` |
+| The veil of Hebrew history; a further attempt to lift it (London, A. and C. Black, 1913) | have-ocr | IA `veilofhebrewhist0000chey` |
+| The reconciliation of races and religions (London, A. and C. Black, 1914) | have-ocr | IA `reconciliationof0000chey` |
+| Fresh voyages on unfrequented waters (London : A. and C. Black, 1914) | have-ocr | IA `freshvoyagesonun00cheyrich` |
+| Encyclopaedia Biblica (many contributors) and the Variorum Teacher's Bible (edited); Das religiöse Leben der Juden (German translation by others); his journal articles | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
