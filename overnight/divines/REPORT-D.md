@@ -1752,3 +1752,6 @@
 
 ## 2026-10-22 22:15 CDT — edwin-l-sabin: done
 - edwin-l-sabin: new shelf, 20 Gutenberg books, 37,030 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — george-cary-eggleston: done
+- george-cary-eggleston: new shelf, 20 Gutenberg books, 25,996 units, 85 ~2 ids; verify 0 mismatches, 0 rights flags.

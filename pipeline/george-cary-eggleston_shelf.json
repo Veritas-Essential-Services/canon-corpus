@@ -1,0 +1,281 @@
+{
+ "_about": "George Cary Eggleston's boys' books, novels and A Rebel's Recollections. Not Edward Eggleston (the eggleston shelf). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Cary Eggleston",
+ "_name_words": [
+  "cary",
+  "eggleston",
+  "george"
+ ],
+ "_surname": [
+  "george cary eggleston",
+  "eggleston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gceggleston-captain-sam": [
+   18622,
+   "Captain Sam: The Boy Scouts of 1814"
+  ],
+  "gceggleston-big-brother": [
+   20849,
+   "The Big Brother: A Story of Indian War"
+  ],
+  "gceggleston-strange-stories-from-history-for-young-people": [
+   23887,
+   "Strange Stories from History for Young People"
+  ],
+  "gceggleston-captain-in-the-ranks": [
+   30263,
+   "A Captain in the Ranks: A Romance of Affairs"
+  ],
+  "gceggleston-red-eagle-and-the-wars-with-the-creek-indians-of": [
+   34677,
+   "Red Eagle and the Wars With the Creek Indians of Alabama."
+  ],
+  "gceggleston-recollections-of-a-varied-life": [
+   36720,
+   "Recollections of a Varied Life"
+  ],
+  "gceggleston-man-of-honor": [
+   37563,
+   "A Man of Honor"
+  ],
+  "gceggleston-juggernaut": [
+   39922,
+   "Juggernaut: A Veiled Record"
+  ],
+  "gceggleston-master-of-warlock": [
+   40013,
+   "The Master of Warlock: A Virginia War Story"
+  ],
+  "gceggleston-wreck-of-the-red-bird": [
+   40941,
+   "The Wreck of the Red Bird: A Story of the Carolina Coast"
+  ],
+  "gceggleston-camp-venture": [
+   41919,
+   "Camp Venture: A Story of the Virginia Mountains"
+  ],
+  "gceggleston-last-of-the-flatboats-a-story-of-the-mississippi": [
+   44922,
+   "The Last of the Flatboats A Story of the Mississippi and Its Interesting Family of Rivers"
+  ],
+  "gceggleston-history-of-the-confederate-war-its-causes-and-it": [
+   45609,
+   "The History of the Confederate War, Its Causes and Its Conduct, Volume 1 (of 2) A Narrative and Critical History"
+  ],
+  "gceggleston-history-of-the-confederate-war-its-causes-and-it-46175": [
+   46175,
+   "The History of the Confederate War, Its Causes and Its Conduct, Volume 2 (of 2) A Narrative and Critical History"
+  ],
+  "gceggleston-what-happened-at-quasi": [
+   50811,
+   "What Happened at Quasi: The Story of a Carolina Cruise"
+  ],
+  "gceggleston-rebels-recollections": [
+   51211,
+   "A Rebel's Recollections"
+  ],
+  "gceggleston-evelyn-byrd": [
+   51883,
+   "Evelyn Byrd"
+  ],
+  "gceggleston-dorothy-south": [
+   52148,
+   "Dorothy South: A Love Story of Virginia Just Before the War"
+  ],
+  "gceggleston-westover-of-wanalah": [
+   60398,
+   "Westover of Wanalah: A story of love and life in Old Virginia"
+  ],
+  "gceggleston-southern-soldier-stories": [
+   67301,
+   "Southern Soldier Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gceggleston-captain-sam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-big-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-strange-stories-from-history-for-young-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-captain-in-the-ranks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-red-eagle-and-the-wars-with-the-creek-indians-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-recollections-of-a-varied-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-man-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-juggernaut": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-master-of-warlock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-wreck-of-the-red-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-camp-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-last-of-the-flatboats-a-story-of-the-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-history-of-the-confederate-war-its-causes-and-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-history-of-the-confederate-war-its-causes-and-it-46175": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-what-happened-at-quasi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-rebels-recollections": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-evelyn-byrd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-dorothy-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-westover-of-wanalah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gceggleston-southern-soldier-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cary eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

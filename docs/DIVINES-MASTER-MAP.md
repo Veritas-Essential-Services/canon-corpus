@@ -38457,3 +38457,30 @@ Shelf: `pipeline/edwin-l-sabin_shelf.json` (2026-10-22; added at the coordinator
 | Opening the iron trail | have | PG 73521, `elsabin-opening-the-iron-trail` (2092 units) |
 | The other half | have | PG 73550, `elsabin-other-half` (125 units) |
 | With George Washington into the wilderness | have | PG 74602, `elsabin-with-george-washington-into-the-wilderness` (2167 units) |
+
+## George Cary Eggleston
+
+Shelf: `pipeline/george-cary-eggleston_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Boys' books, novels and Civil War memoir. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Captain Sam: The Boy Scouts of 1814 | have | PG 18622, `gceggleston-captain-sam` (1064 units) |
+| The Big Brother: A Story of Indian War | have | PG 20849, `gceggleston-big-brother` (494 units) |
+| Strange Stories from History for Young People | have | PG 23887, `gceggleston-strange-stories-from-history-for-young-people` (441 units) |
+| A Captain in the Ranks: A Romance of Affairs | have | PG 30263, `gceggleston-captain-in-the-ranks` (1669 units) |
+| Red Eagle and the Wars With the Creek Indians of Alabama. | have | PG 34677, `gceggleston-red-eagle-and-the-wars-with-the-creek-indians-of` (591 units) |
+| Recollections of a Varied Life | have | PG 36720, `gceggleston-recollections-of-a-varied-life` (2353 units) |
+| A Man of Honor | have | PG 37563, `gceggleston-man-of-honor` (1026 units) |
+| Juggernaut: A Veiled Record | have | PG 39922, `gceggleston-juggernaut` (1874 units) |
+| The Master of Warlock: A Virginia War Story | have | PG 40013, `gceggleston-master-of-warlock` (1378 units) |
+| The Wreck of the Red Bird: A Story of the Carolina Coast | have | PG 40941, `gceggleston-wreck-of-the-red-bird` (1060 units) |
+| Camp Venture: A Story of the Virginia Mountains | have | PG 41919, `gceggleston-camp-venture` (1692 units) |
+| The Last of the Flatboats A Story of the Mississippi and Its Interesting Family of Rivers | have | PG 44922, `gceggleston-last-of-the-flatboats-a-story-of-the-mississippi` (1580 units) |
+| The History of the Confederate War, Its Causes and Its Conduct, Volume 1 (of 2) A Narrative and Critical History | have | PG 45609, `gceggleston-history-of-the-confederate-war-its-causes-and-it` (1269 units) |
+| The History of the Confederate War, Its Causes and Its Conduct, Volume 2 (of 2) A Narrative and Critical History | have | PG 46175, `gceggleston-history-of-the-confederate-war-its-causes-and-it-46175` (1291 units) |
+| What Happened at Quasi: The Story of a Carolina Cruise | have | PG 50811, `gceggleston-what-happened-at-quasi` (1911 units) |
+| A Rebel's Recollections | have | PG 51211, `gceggleston-rebels-recollections` (384 units) |
+| Evelyn Byrd | have | PG 51883, `gceggleston-evelyn-byrd` (1577 units) |
+| Dorothy South: A Love Story of Virginia Just Before the War | have | PG 52148, `gceggleston-dorothy-south` (1438 units) |
+| Westover of Wanalah: A story of love and life in Old Virginia | have | PG 60398, `gceggleston-westover-of-wanalah` (1580 units) |
+| Southern Soldier Stories | have | PG 67301, `gceggleston-southern-soldier-stories` (1324 units) |
