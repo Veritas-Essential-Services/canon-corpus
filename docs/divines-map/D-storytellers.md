@@ -16074,3 +16074,19 @@ Shelf: `pipeline/frances-mary-peard_shelf.json` (2026-10-22; added at the coordi
 | The Swing of the Pendulum | have | PG 43157, `fmpeard-swing-of-the-pendulum` (3093 units) |
 | Two Studios | have | PG 43159, `fmpeard-two-studios` (678 units) |
 | Prentice Hugh | have | PG 43170, `fmpeard-prentice-hugh` (1396 units) |
+
+## Roy Norton
+
+Shelf: `pipeline/roy-norton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns and adventure novels. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mixed Faces | have | PG 29657, `rnorton-mixed-faces` (992 units) |
+| The Plunderer | have | PG 29818, `rnorton-plunderer` (1460 units) |
+| To the lights | have | PG 69063, `rnorton-to-the-lights` (132 units) |
+| "A Cathcart or a Riggs?" | have | PG 70360, `rnorton-a-cathcart-or-a-riggs` (155 units) |
+| The man who talked too much | have | PG 71388, `rnorton-man-who-talked-too-much` (142 units) |
+| The lost charm | have | PG 71816, `rnorton-lost-charm` (118 units) |
+| Gratitude | have | PG 71939, `rnorton-gratitude` (137 units) |
+| Salvage | have | PG 73244, `rnorton-salvage` (145 units) |
+| "Old Harmless" | have | PG 73247, `rnorton-old-harmless` (160 units) |
