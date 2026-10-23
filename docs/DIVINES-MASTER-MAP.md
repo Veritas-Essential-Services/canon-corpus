@@ -17512,6 +17512,19 @@ Slugs `selbie-*`. Built from title pages read for round 115.
 | The psychology of religion (Oxford, Clarendon Press, 1924) | have-ocr | IA `psychologyofreli0000selb` |
 | Congrationalism (london: methurn & co., ltd., 1927) | have-ocr | IA `congrationalism0000wbse` |
 | Other scans of the same books (English Sects is the American title of Nonconformity) | excluded | |
+
+## John Hersey (round 115, my pick, 2026-10-23)
+
+Slugs `jhersey-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| An appeal to Christians, on the subject of slavery (Baltimore, Armstrong & Plaskitt, 1833) | have-ocr | IA `appealtochristia00hers` |
+| An inquiry into the character and condition of our children : and their claim to a participation in the privileges and blessings of the Redeemer's kingdom on earth examined and established ; also, some remarks on the mode of administering the ordinance of baptism (Raleigh : Printed by Thos. J. Lemay, 1839) | have-ocr | IA `inquiryintochara00hers` |
+| The importance of small things : or, A plain course of self-examination to which is added, Signs of the times / by John Hersey (Armstrong & Berry, 1839) | have-ocr | IA `importanceofsmal00hers` |
+| The design, importance and validity of infant baptism : also, a few thoughts on the mode of administering that ordinance / by J. Hersey (Armstrong & Berry, 1855) | have-ocr | IA `designimportance00hers_0` |
+| The identity of the two Apocalyptic witnesses ; their character, death and resurrection, as connected with the introductiion of the millenium, to which is added Pious reflections (Baltimore : Armstrong & Berry ; Philadelphia : Higgins & Perkinpine, 1857) | have-ocr | IA `identityoftwoapo00hers` |
+| The privilege of those who are born of God, or, A plain rational view of the nature and extent of sanctification (Baltimore : Armstrong and Berry, 1840), IA privilegeofthose00hers: text file returned a server error | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
