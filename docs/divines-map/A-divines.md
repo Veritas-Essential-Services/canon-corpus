@@ -12364,3 +12364,19 @@ Slugs `hrogers-*`. Built from title pages read for round 59.
 | A defence of "The eclipse of faith" (Boston : Crosby, Nichols, 1854) | have-ocr | IA `defenceoftheecli00roge` |
 | The Greyson letters: selections from the correspondence of R. E. H. Greyson, esq. [pseud.] (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & Co.; [etc., etc.], 1857) | have-ocr | IA `greysonlettersse00roge` |
 | Henry Rogers the American geologist and other Henry Rogerses | excluded | |
+
+## John Harris (1802-1856) (round 59, my pick, 2026-10-23)
+
+Slugs `jharris-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Mammon; or, Covetousness the sin of the Christian church (London, T. Ward and co., 1836) | have-ocr | IA `mammonorcovet00harr` |
+| The Great Teacher: characteristics of Our Lord's ministry (Amherst, J. S. and C. Adams, 1836) | have-ocr | IA `greatteacherch00harr` |
+| Union : or, the divided church made one (London : T. Ward and co., 1837) | have-ocr | IA `unionordividedch00harr` |
+| Zebulon : or, The moral claims of seamen stated and enforced (Boston : Gould, Kendall & Lincoln, 1837) | have-ocr | IA `zebulonormoralcl00harriala` |
+| The great commission: or, The Christian church constituted and charged to convey the gospel to the world (Boston, Gould, Kendall and Lincoln, 1842) | have-ocr | IA `greatcommissioncco00harr` |
+| Miscellanies : consisting principally of sermons and essays (Boston : Gould, Kendall and Lincoln, 1844) | have-ocr | IA `miscellaniescons00harrrich` |
+| The pre-adamite earth; contributions to theological science (London : Ward, [184) | have-ocr | IA `preadamiteearthc00harr` |
+| Man primeval: or, The constitution and primitive condition of the human being. A contribution to theological science (Botson, Gould, Kendall and Lincoln, 1850, 1850) | have-ocr | IA `manprimevalorcon01harr` |
+| Other John Harrises: the lexicographer (1666-1719), the Bishop of Llandaff, the Australian and American writers of that name | excluded | |
