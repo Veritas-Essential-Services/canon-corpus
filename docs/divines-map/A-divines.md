@@ -17599,3 +17599,15 @@ Slugs `gbfhallock-*`. Built from title pages read for round 116.
 | The first hundred years of the brick church in rochester (henry conolly company, 1925) | have-ocr | IA `firsthundredyear0000gbfh` |
 | His cyclopedias of illustrations, sermons and outlines, the Hundred Best Sermons volumes, and Doran's Ministers Manual collect other men's work; left for the many-author ruling | excluded | |
 | American Game Fishes is by other hands | excluded | |
+
+## Isaac Crook (round 116, my pick, 2026-10-23)
+
+Slugs `icrook-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Hon. C. C. White (Cincinnati, Ohio, Printed by Curts & Jennings, 1896) | have-ocr | IA `honccwhite00croo` |
+| Jonathan Edwards (Cincinnati, Jennings and Pye, 1903) | have-ocr | IA `jonathanedwards00croo` |
+| The earnest expectation (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `earnestexpectati00croo` |
+| John Knox: the reformer (Cincinnati, Jennings and Graham, 1906) | have-ocr | IA `johnknoxreformer00croo` |
+| The great five : the first faculty of the Ohio Wesleyan University (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1908) | have-ocr | IA `greatfivefirstfa00croo` |
