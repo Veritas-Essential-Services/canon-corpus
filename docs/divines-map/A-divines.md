@@ -14448,3 +14448,15 @@ Slugs `gay-*`. Built from title pages read for round 83.
 | The Christian life and virtues considered in the religious state, vol. 2 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife02gayuoft` |
 | The Christian life and virtues considered in the religious state, vol. 3 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife03gayuoft` |
 | the French originals (De la vie et des vertus chrétiennes; Élévations), left for a lane that takes French | excluded | |
+
+## Edward Hawkins (round 83, my pick, 2026-10-23)
+
+Slugs `ehawkins-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses upon some of the principal objects and uses of the historical Scriptures of the Old Testament : preached before the University of Oxford (Oxford : J.H. Parker, 1833) | have-ocr | IA `a587072400hawkuoft` |
+| An inquiry into the connected uses of the principal means of attaining Christian truth : in eight sermons preached before the University of Oxford at the Bampton lecture for the year MDCCCXL (Oxford : John Henry Parker [etc.], 1840) | have-ocr | IA `inquiryintoconn00hawk` |
+| Sermons on the church, preached before the University of Oxford (London B. Fellowes and J.H. Parker, 1847) | have-ocr | IA `sermonsonthechur00hawkuoft` |
+| Sermons on Scriptural types and sacraments, preached before the University of Oxford : with observations upon some recent theories (London : B. Fellowes, 1851) | have-ocr | IA `sermonsonscriptu00hawk` |
+| A dissertation upon the use and importance of unauthoritative tradition (London : Society for Promoting Christian Knowledge ; New York : J.B. Young, 1889) | have-ocr | IA `a587077100hawkuoft` |
