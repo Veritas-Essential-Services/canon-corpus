@@ -13410,6 +13410,23 @@ Slugs `clow-*`. Built from title pages read for round 71.
 | The Christian Message in the Light of the War (London, Edinburgh and New York: Marshall Brothers; undated, written during the 1914-1918 war, catalogued 1918) | have-ocr | IA `christianmessage0000clow` |
 | The quest of industrial peace (London, Hodder and Stoughton, 1921) | have-ocr | IA `questofindustria00clowuoft` |
 | Dr. George Reith: a Scottish ministry (London, Hodder and Stoughton, 1928) | have-ocr | IA `drgeorgereithsco0000clow` |
+
+## John Kelman (round 71, my pick, 2026-10-23)
+
+Slugs `kelman-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Holy Land (London : A. & C. Black, 1902) | have-ocr | IA `holyland00kelmuoft` |
+| The faith of Robert Louis Stevenson (Edinburgh, Oliphant, Anderson and Ferrier, 1903) | have-ocr | IA `faithofrobertlou00kelmuoft` |
+| From Damascus to Palmyra (London : Black, 1908) | have-ocr | IA `fromdamascustopa00kelm` |
+| Ephemera Eternitatis: a book of short studies in life here and hereafter, arranged for the Sundays of the Christian year (New York: Hodder and Stoughton, 1910) | have-ocr | IA `ephemeraeternita00kelm` |
+| The road of life, a study of Pilgrim's journey as far as Vanity Fair ([London] Hodder & Stoughton; New York, Doran, 1911) | have-ocr | IA `roadoflifestudyo0000kelm` |
+| Among famous books (London : Hodder and Stoughton, 1912) | have-ocr | IA `amongfamousbooks00kelmuoft` |
+| The war and preaching (New Haven : Yale University Press, 1919) | have-ocr | IA `warpreaching00kelmuoft` |
+| Some aspects of international Christianity (New York ; Cincinnati : Abingdon Press, 1920) | have-ocr | IA `someaspectsof00kelm` |
+| Things eternal (New York, George H. Doran company, 1920) | have-ocr | IA `thingseterna00kelm` |
+| single sermons printed as pamphlets at Fifth Avenue (1920): He Gave Thanks, The Garden and the Cross, and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
