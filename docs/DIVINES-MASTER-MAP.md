@@ -11097,6 +11097,17 @@ Slugs `kahnis-*`. Built from title pages read for round 48.
 |---|---|---|
 | Internal history of German protestantism since the middle of last century ([n.p.], 1856) | have-ocr | IA `internalhistoryo00kahn` |
 | German works | excluded | |
+
+## Isaac da Costa (round 49, my pick, 2026-10-23)
+
+Slugs `dacosta-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Israel and the Gentiles, contributions to the history of the Jews from the earliest times to the present day (London: J. Nisbet, 1850) | have-ocr | IA `israelgentilesc00unkngoog` |
+| The four witnesses: being a harmony of the Gospels on a new principle (London, J. Nisbet & co., 1851) | have-ocr | IA `fourwitnessesbe00cost` |
+| The 1855 printing of The Four Witnesses | alternate | not shelved |
+| Dutch poems and works (De Perzen, Vijf en twintig jaren, the Bilderdijk volumes, Israël en de volken) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
