@@ -1,0 +1,99 @@
+{
+ "_about": "Florence Finch Kelly: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Florence Finch Kelly",
+ "_name_words": [
+  "finch",
+  "florence",
+  "kelly"
+ ],
+ "_surname": [
+  "florence finch kelly",
+  "kelly"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ffkelly-emersons-wife-and-other-western-stories": [
+   18309,
+   "Emerson's Wife and Other Western Stories"
+  ],
+  "ffkelly-with-hoops-of-steel": [
+   28585,
+   "With Hoops of Steel"
+  ],
+  "ffkelly-fate-of-felix-brand": [
+   30733,
+   "The Fate of Felix Brand"
+  ],
+  "ffkelly-delafield-affair": [
+   34996,
+   "The Delafield Affair"
+  ],
+  "ffkelly-rhoda-of-the-underground": [
+   69435,
+   "Rhoda of the Underground"
+  ],
+  "ffkelly-what-america-did": [
+   72543,
+   "What America did"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ffkelly-emersons-wife-and-other-western-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffkelly-with-hoops-of-steel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffkelly-fate-of-felix-brand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffkelly-delafield-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffkelly-rhoda-of-the-underground": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffkelly-what-america-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "florence finch kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

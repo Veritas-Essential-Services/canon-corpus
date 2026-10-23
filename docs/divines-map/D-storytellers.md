@@ -18045,3 +18045,16 @@ Shelf: `pipeline/vaughan-kester_shelf.json` (2026-10-22; added at the coordinato
 | The Fortune of the Landrays | have | PG 52560, `vkester-fortune-of-the-landrays` (5489 units) |
 | The Hand of the Mighty, and Other Stories | have | PG 52563, `vkester-hand-of-the-mighty-and-other-stories` (2755 units) |
 | pg-57703 | excluded | PG 57703: Gutenberg's index of the author's works, not a book. |
+
+## Florence Finch Kelly
+
+Shelf: `pipeline/florence-finch-kelly_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Emerson's Wife and Other Western Stories | have | PG 18309, `ffkelly-emersons-wife-and-other-western-stories` (839 units) |
+| With Hoops of Steel | have | PG 28585, `ffkelly-with-hoops-of-steel` (1348 units) |
+| The Fate of Felix Brand | have | PG 30733, `ffkelly-fate-of-felix-brand` (1064 units) |
+| The Delafield Affair | have | PG 34996, `ffkelly-delafield-affair` (1216 units) |
+| Rhoda of the Underground | have | PG 69435, `ffkelly-rhoda-of-the-underground` (1535 units) |
+| What America did | have | PG 72543, `ffkelly-what-america-did` (615 units) |
