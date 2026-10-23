@@ -10692,6 +10692,26 @@ Slugs `pearce-*`. Built from title pages read for round 45.
 | Sermons on Several Subjects (G. Robinson, 1778) | have-ocr | IA `sermonsonsevera00peargoog` |
 | The Miracles of Jesus Vindicated (second edition, 1729; IA miraclesofjesusv00pear): its title page names no author. It is Pearce's by attribution, but the page names nobody | pending | not shelved |
 | His editions of Cicero and Longinus; the Review of the text of Paradise Lost | excluded | |
+
+## Offspring Blackall (round 45, my pick, 2026-10-22)
+
+Slugs `blackall-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 1 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_1` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 2 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_2` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 3 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_3` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 4 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_4` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 5 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_5` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 6 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_6` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 7 (London, catalogued 1718) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_7` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 8 (London, catalogued 1718) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_8` |
+| Practical discourses on the Lord's prayer (London : Printed by W.B. for Thomas Ward, 1717) | have-ocr | IA `practicaldiscour00blac` |
+| The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 1 (London, catalogued 1723) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_1` |
+| The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 2 (London, catalogued 1723) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_2` |
+| Fourteen Sermons (1706), Five Sermons (1717), the 1727 Lord's Prayer: in the Works | alternate | not shelved |
+| Theophilus Blackall's Works of Christ (1730, another man); the Welsh Pwyll y Pader (1733) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
