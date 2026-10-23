@@ -17131,6 +17131,24 @@ Slugs `jfschroeder-*`. Built from title pages read for round 110.
 | Life and times of Washington: containing a particular account of national principles and events, and of the illustrious men of the revolution, vol. 02 (New York : Johnson, Fry, and Company, 1857), IA lifetimeswashcon02schrrich: text file returned a server error | pending | not shelved |
 | Memorial of Bishop Hobart. A collection of sermons on the death of the Right Reverend John Henry Hobart, with a memoir of his life and writings (New York, T. and J. Swords, 1831), IA memorialofbishop00schr: sermons by several preachers on Hobart's death, which he collected with a memoir (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Maxims of Washington (maximsofwashingt00wash): Washington's own words, which Schroeder only compiled | excluded | |
+
+## W. T. Leach (round 111, my pick, 2026-10-23)
+
+Slugs `wtleach-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, preached in St. Andrew's Church, Toronto, on the thirtieth day of November, 1837 (St. Andrew's Day) ([Toronto? : s.n.], 1838) | have-ocr | IA `cihm_45242` |
+| Discourse on the nature and duties of the military profession : delivered in Saint Andrew's Church, Toronto, to the 93d Highlanders, on the eve of their departure from Toronto garrison (Toronto : H. Scobie, 1840) | have-ocr | IA `cihm_89019` |
+| A discourse, delivered to St. Andrew's Lodge (No. 1,) of Freemasons, on Monday, the 28th December, 5840 [i.e. 1840] : being the annual festival of St. John the Evangelist (Toronto : Printed by order of the Lodge, by H. Scobie, 1841) | have-ocr | IA `cihm_45509` |
+| An address on rechabitism : delivered at the quarterly meeting of the members of the Independant Order of Rechabites, in the hall of the Spring of Canada Tent on the 18th July, 1845 ([Montreal? : s.n.], 1845) | have-ocr | IA `cihm_63162` |
+| Introductory lecture for the Mercantile Library Association delivered on the 9th January 1854 ([Montreal? : s.n.], 1854) | have-ocr | IA `cihm_64149` |
+| Discourse delivered in St. George's Chapel, Montreal, on Christmas day, 1861 : (the 6th and 7th companies of the Prince of Wales Regiment being present) ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_45326` |
+| A discourse delivered in Christ Church Cathedral on St. George's Day, 23rd April, 1862 : before the St. George's Society of Montreal by the Rev. Canon Leach, D.C.L. and published at the request of the society ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_63902` |
+| A great work left undone, or, The desideratum in systems of education : a lecture delivered on the 26th January, 1864 ([Montreal? : s.n.], 1864) | have-ocr | IA `cihm_04783` |
+| Sermon preached in St. George's Chapel, Montreal, on Advent Sunday, 1851 : appointed by authority, for the celebration of the third semi-centennial jubilee of the Society for the Propagation of the Gospel in Foreign Parts ([Montéal? : s.n.], 1993) | have-ocr | IA `cihm_93540` |
+| discoursedeliver00leac (another scan of the 1837 sermon) | excluded | |
+| proceedingsofpr00pres (the Presbytery of Toronto's record of his case) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
