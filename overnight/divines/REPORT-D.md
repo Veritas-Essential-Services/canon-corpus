@@ -2219,3 +2219,6 @@
 
 ## 2026-10-22 22:50 CDT — cutcliffe-hyne: done
 - cutcliffe-hyne: new shelf, 8 Gutenberg books, 10,502 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — thomas-w-hanshew: done
+- thomas-w-hanshew: new shelf, 8 Gutenberg books, 12,450 units, 646 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -1,0 +1,122 @@
+{
+ "_about": "Thomas W. Hanshew's writing at Gutenberg: hamilton Cleek detective stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Thomas W. Hanshew",
+ "_name_words": [
+  "hanshew"
+ ],
+ "_surname": [
+  "hanshew"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "twhanshew-cleek": [
+   14332,
+   "Cleek: the Man of the Forty Faces"
+  ],
+  "twhanshew-riddle-of-the-frozen-flame": [
+   17180,
+   "The Riddle of the Frozen Flame"
+  ],
+  "twhanshew-cleek-the-master-detective": [
+   28264,
+   "Cleek, the Master Detective"
+  ],
+  "twhanshew-cleek-of-scotland-yard": [
+   32198,
+   "Cleek of Scotland Yard: Detective Stories"
+  ],
+  "twhanshew-riddle-of-the-night": [
+   33271,
+   "The Riddle of the Night"
+  ],
+  "twhanshew-riddle-of-the-spinning-wheel": [
+   33279,
+   "The Riddle of the Spinning Wheel"
+  ],
+  "twhanshew-riddle-of-the-mysterious-light": [
+   42802,
+   "The Riddle of the Mysterious Light"
+  ],
+  "twhanshew-riddle-of-the-purple-emperor": [
+   43135,
+   "The Riddle of the Purple Emperor"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "twhanshew-cleek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-riddle-of-the-frozen-flame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-cleek-the-master-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-cleek-of-scotland-yard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-riddle-of-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-riddle-of-the-spinning-wheel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-riddle-of-the-mysterious-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twhanshew-riddle-of-the-purple-emperor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hanshew",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

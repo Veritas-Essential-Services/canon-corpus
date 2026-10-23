@@ -16409,3 +16409,18 @@ Shelf: `pipeline/cutcliffe-hyne_shelf.json` (2026-10-22; added at the coordinato
 | Prince Rupert, the Buccaneer | have | PG 57039, `cjchyne-prince-rupert-the-buccaneer` (970 units) |
 | Honor of Thieves: A Novel | have | PG 66637, `cjchyne-honor-of-thieves` (1212 units) |
 | Captain Kettle on the war-path | have | PG 78784, `cjchyne-captain-kettle-on-the-war-path` (1473 units) |
+
+## Thomas W. Hanshew
+
+Shelf: `pipeline/thomas-w-hanshew_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hamilton Cleek detective stories. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cleek: the Man of the Forty Faces | have | PG 14332, `twhanshew-cleek` (1750 units) |
+| The Riddle of the Frozen Flame | have | PG 17180, `twhanshew-riddle-of-the-frozen-flame` (1256 units) |
+| Cleek, the Master Detective | have | PG 28264, `twhanshew-cleek-the-master-detective` (1753 units) |
+| Cleek of Scotland Yard: Detective Stories | have | PG 32198, `twhanshew-cleek-of-scotland-yard` (1824 units) |
+| The Riddle of the Night | have | PG 33271, `twhanshew-riddle-of-the-night` (1399 units) |
+| The Riddle of the Spinning Wheel | have | PG 33279, `twhanshew-riddle-of-the-spinning-wheel` (1252 units) |
+| The Riddle of the Mysterious Light | have | PG 42802, `twhanshew-riddle-of-the-mysterious-light` (1595 units) |
+| The Riddle of the Purple Emperor | have | PG 43135, `twhanshew-riddle-of-the-purple-emperor` (1621 units) |
