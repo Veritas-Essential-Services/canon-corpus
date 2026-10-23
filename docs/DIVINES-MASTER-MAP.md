@@ -43761,3 +43761,16 @@ Shelf: `pipeline/ada-leverson_shelf.json` (2026-10-22; added at the coordinator'
 | Bird of Paradise | have | PG 27323, `aleverson-bird-of-paradise` (1881 units) |
 | The Twelfth Hour | have | PG 27554, `aleverson-twelfth-hour` (2152 units) |
 | The Limit | have | PG 28465, `aleverson-limit` (2015 units) |
+
+## Frederic Arnold Kummer
+
+Shelf: `pipeline/frederic-arnold-kummer_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Film of Fear | have | PG 29498, `fakummer-film-of-fear` (1728 units) |
+| The Ivory Snuff Box | have | PG 29852, `fakummer-ivory-snuff-box` (964 units) |
+| The Green God | have | PG 33019, `fakummer-green-god` (654 units) |
+| The Brute | have | PG 36551, `fakummer-brute` (1488 units) |
+| The Blue Lights: A Detective Story | have | PG 38577, `fakummer-blue-lights` (1716 units) |
+| The First Days of Man, as Narrated Quite Simply for Young Readers | have | PG 50484, `fakummer-first-days-of-man-as-narrated-quite-simply-for-youn` (672 units) |

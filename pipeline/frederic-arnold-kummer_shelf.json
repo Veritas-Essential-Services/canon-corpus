@@ -1,0 +1,99 @@
+{
+ "_about": "Frederic Arnold Kummer: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frederic Arnold Kummer",
+ "_name_words": [
+  "arnold",
+  "frederic",
+  "kummer"
+ ],
+ "_surname": [
+  "frederic arnold kummer",
+  "kummer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fakummer-film-of-fear": [
+   29498,
+   "The Film of Fear"
+  ],
+  "fakummer-ivory-snuff-box": [
+   29852,
+   "The Ivory Snuff Box"
+  ],
+  "fakummer-green-god": [
+   33019,
+   "The Green God"
+  ],
+  "fakummer-brute": [
+   36551,
+   "The Brute"
+  ],
+  "fakummer-blue-lights": [
+   38577,
+   "The Blue Lights: A Detective Story"
+  ],
+  "fakummer-first-days-of-man-as-narrated-quite-simply-for-youn": [
+   50484,
+   "The First Days of Man, as Narrated Quite Simply for Young Readers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fakummer-film-of-fear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fakummer-ivory-snuff-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fakummer-green-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fakummer-brute": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fakummer-blue-lights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fakummer-first-days-of-man-as-narrated-quite-simply-for-youn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic arnold kummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
