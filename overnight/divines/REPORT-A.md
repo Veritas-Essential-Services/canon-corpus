@@ -2150,3 +2150,6 @@
 
 ## 2026-10-23 05:10 CDT — round 84 done
 - joseph-agar-beet, alexander-keith, reginald-heber, m-f-sadler: 4 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 05:18 CDT — round 85 done
+- harry-emerson-fosdick, james-moffatt, arthur-s-peake, b-h-streeter: 4 shelves, 62 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
