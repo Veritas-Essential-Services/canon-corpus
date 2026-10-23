@@ -41864,3 +41864,34 @@ Shelf: `pipeline/emily-ponsonby_shelf.json` (2026-10-22; added at the coordinato
 | Nora; vol. 1 [of 3] | have | PG 79461, `eponsonby-nora` (827 units) |
 | Nora; vol. 2 [of 3] | have | PG 79462, `eponsonby-nora-79462` (918 units) |
 | Nora; vol. 3 [of 3] | have | PG 79463, `eponsonby-nora-79463` (777 units) |
+
+## Mary Shelley
+
+Shelf: `pipeline/mary-shelley-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Notes to the Complete Poetical Works of Percy Bysshe Shelley | have | PG 4695, `mwshelley-notes-to-the-complete-poetical-works-of-percy-byss` (177 units) |
+| Proserpine and Midas | have | PG 6447, `mwshelley-proserpine-and-midas` (390 units) |
+| Mathilda | have | PG 15238, `mwshelley-mathilda` (410 units) |
+| The Last Man | have | PG 18247, `mwshelley-last-man` (1203 units) |
+| History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany, and Holland: With Letters Descriptive of a Sail Round the Lake of Geneva, and of the Glaciers of Chamouni. | have | PG 52790, `mwshelley-history-of-a-six-weeks-tour-through-a-part-of-fran` (184 units) |
+| Tales and Stories Now First Collected | have | PG 56665, `mwshelley-tales-and-stories-now-first-collected` (1173 units) |
+| Valperga Volume 1 (of 3) or, The life and adventures of Castruccio, prince of Lucca | have | PG 63337, `mwshelley-valperga-volume-1-of-3-or-the-life-and-adventures` (444 units) |
+| Valperga Volume 2 (of 3) or, The life and adventures of Castruccio, prince of Lucca | have | PG 63338, `mwshelley-valperga-volume-2-of-3-or-the-life-and-adventures` (508 units) |
+| Valperga Volume 3 (of 3) or, The life and adventures of Castruccio, prince of Lucca | have | PG 63339, `mwshelley-valperga-volume-3-of-3-or-the-life-and-adventures` (613 units) |
+| Falkner: A Novel | have | PG 64329, `mwshelley-falkner` (1225 units) |
+| Lodore, Vol. 1 (of 3) | have | PG 64555, `mwshelley-lodore-vol-1-of-3` (337 units) |
+| Lodore, Vol. 2 (of 3) | have | PG 64556, `mwshelley-lodore-vol-2-of-3` (424 units) |
+| Lodore, Vol. 3 (of 3) | have | PG 64557, `mwshelley-lodore-vol-3-of-3` (454 units) |
+| Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 1 (of 3) | have | PG 65030, `mwshelley-eminent-literary-and-scientific-men-of-italy-spain` (788 units) |
+| Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 2 (of 3) | have | PG 65110, `mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65110` (779 units) |
+| Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 3 (of 3) | have | PG 65228, `mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65228` (1510 units) |
+| Lives of the most eminent literary and scientific men of France, Vol. 1 (of 2) | have | PG 65317, `mwshelley-lives-of-the-most-eminent-literary-and-scientific` (873 units) |
+| Lives of the most eminent literary and scientific men of France, Vol. 2 (of 2) | have | PG 65361, `mwshelley-lives-of-the-most-eminent-literary-and-scientific-65361` (1529 units) |
+| The Heir of Mondolfo | have | PG 66545, `mwshelley-heir-of-mondolfo` (107 units) |
+| The Fortunes of Perkin Warbeck: a romance | have | PG 66749, `mwshelley-fortunes-of-perkin-warbeck` (1598 units) |
+| Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 1 of 2 | have | PG 74280, `mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843` (439 units) |
+| Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 2 of 2 | have | PG 74301, `mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843-74301` (563 units) |
+| same-title-elsewhere | excluded | PG 41445 (mshelley), 42324 (mshelley): another edition of a title already on the named shelf; not taken twice. |
+| held-elsewhere | excluded | PG 84: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
