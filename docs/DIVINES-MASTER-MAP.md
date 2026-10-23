@@ -17393,6 +17393,17 @@ Slugs `aalison-*`. Built from title pages read for round 113.
 | A discourse preached in the Episcopal Chapel, Cowgate, Edinburgh, Feb. 9, 1809; being the day approved by His Majesty for a general fast (Edinburgh : G. Ramsay for A. Constable, etc., 1810) | have-ocr | IA `b3187566x` |
 | Essays on the nature and principles of taste (Edinburgh : Printed by J. J. G. and G. Robinson, London; and Bell and Bradfute, Edinburgh, 1790) | have-ocr | IA `essaysonnaturepr00alis` |
 | The histories of Europe are by his son Sir Archibald Alison | excluded | |
+
+## Donald Sage Mackay (round 114, my pick, 2026-10-23)
+
+Slugs `dsmackay-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| In memoriam. Victoria, the woman; sermmon preached at the memorial service of Her Majesty Queen Victoria, at the Collegiate Church, Fifth Avenue and 48th Street ([New York, The Knickerbocker Press], 1901) | have-ocr | IA `inmemoriamvictor00mack` |
+| Annual sermon before the American Seamen's Friend Society at its seventy-sixth anniversary, Sunday, May 8, 1904 in the Collegiate Church / by Donald Sage Mackay (New York : American Seamen's Friend Society, 1904) | have-ocr | IA `annualsermonbefo00mack` |
+| The religion of the threshold, and other sermons (New York, A. C. Armstrong & son, 1908) | have-ocr | IA `religionofthres00mack` |
+| Mind in the Parmenides (1924) is by a later Donald Sage Mackay | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
