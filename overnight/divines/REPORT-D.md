@@ -2360,3 +2360,6 @@
 
 ## 2026-10-22 23:06 CDT — henry-wallace-phillips: done
 - henry-wallace-phillips: new shelf, 7 Gutenberg books, 5,078 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — isabel-ostrander: done
+- isabel-ostrander: new shelf, 7 Gutenberg books, 12,164 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags.

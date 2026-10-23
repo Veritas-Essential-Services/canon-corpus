@@ -42592,3 +42592,17 @@ Shelf: `pipeline/henry-wallace-phillips_shelf.json` (2026-10-22; added at the co
 | The Mascot of Sweet Briar Gulch | have | PG 25809, `hwphillips-mascot-of-sweet-briar-gulch` (467 units) |
 | Plain Mary Smith: A Romance of Red Saunders | have | PG 35787, `hwphillips-plain-mary-smith` (1106 units) |
 | Trolley Folly | have | PG 57494, `hwphillips-trolley-folly` (939 units) |
+
+## Isabel Ostrander
+
+Shelf: `pipeline/isabel-ostrander_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery novels. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fifth Ace | have | PG 23885, `iostrander-fifth-ace` (2080 units) |
+| The Crevice | have | PG 29331, `iostrander-crevice` (1797 units) |
+| Anything Once | have | PG 30640, `iostrander-anything-once` (709 units) |
+| Annihilation | have | PG 72948, `iostrander-annihilation` (1941 units) |
+| Ashes to ashes | have | PG 73155, `iostrander-ashes-to-ashes` (2062 units) |
+| Suspense | have | PG 75240, `iostrander-suspense` (1723 units) |
+| The twenty-six clues | have | PG 77423, `iostrander-twenty-six-clues` (1852 units) |
