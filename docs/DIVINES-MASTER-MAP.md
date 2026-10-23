@@ -20911,6 +20911,34 @@ Shelf: `pipeline/t-e-page_shelf.json`. Page's Macmillan school editions: Horace'
 | The Acts of the Apostles, being the Greek text as revised by Drs. Westcott and Hort, with explanatory notes by Thomas Ethelbert Page (London: Macmillan, 1886); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `t-e-page-acts-greek-1886` | have-raw (IA `actsofapostlesbe00pagerich`) |
 | The Acts of the Apostles, with introduction and notes by T. E. Page and A. S. Walpole (London: Macmillan, 1895) |  | `t-e-page-walpole-acts-1895` | have-raw (IA `actsofapostleswi00page`) |
 
+## Heinrich Ritter (1791-1869)
+
+Shelf: `pipeline/heinrich-ritter_shelf.json`. Ritter's History of Ancient Philosophy in Morrison's translation, vols II and IV. Round dv. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The History of Ancient Philosophy, translated by Alexander J. W. Morrison, vol. II (Oxford: D. A. Talboys, M DCCC XXXVIII; the OCR title page reads 'VOL. I.' under the half-title 'VOLUME THE SECOND', and the contents are those of the second volume) |  | `ritter-ancient-philosophy-v2-1838` | have-raw (IA `in.ernet.dli.2015.155878`) |
+| The History of Ancient Philosophy, translated by Alexander J. W. Morrison, vol. IV (London, M.DCCC.XLVI) |  | `ritter-ancient-philosophy-v4-1846` | have-raw (IA `historyancientp00morrgoog`) |
+
+Excluded: The History of Ancient Philosophy, vol. III (tr. Morrison) (the only scan found (historyancientp01morrgoog) has no title page and never names Ritter or Morrison in its OCR, so the name gate cannot pass; vol. I was not found at all)
+
+## William Archer Butler (1814?-1848)
+
+Shelf: `pipeline/w-archer-butler_shelf.json`. Butler's Lectures on the History of Ancient Philosophy (2 vols, 1856). Round dv. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Lectures on the History of Ancient Philosophy, edited by William Hepworth Thompson, vol. I (Cambridge: Macmillan, MDCCCLVI) |  | `w-archer-butler-ancient-philosophy-v1-1856` | have-raw (IA `lecturesonthehis01butluoft`) |
+| Lectures on the History of Ancient Philosophy, edited by William Hepworth Thompson, vol. II (Cambridge: Macmillan, MDCCCLVI) |  | `w-archer-butler-ancient-philosophy-v2-1856` | have-raw (IA `lecturesonphilo02butluoft`) |
+
+## Edwin Wallace (1848-1884)
+
+Shelf: `pipeline/edwin-wallace_shelf.json`. Wallace's Outlines of the Philosophy of Aristotle. Round dv. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Outlines of the Philosophy of Aristotle, compiled by Edwin Wallace (Pitt Press Series; Cambridge: University Press, stereotyped edition; first edition 1883, reprinted 1887, 1890, 1894, 1898; the OCR reads the title-page year as 1808) |  | `edwin-wallace-outlines-aristotle` | have-raw (IA `outlinesofphilos00wall`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
