@@ -16743,6 +16743,21 @@ Slugs `lindsley-*`. Built from title pages read for round 106.
 | The works of Philip Lindsley D.D., late president of the University of Nashville, vol. 1 (Philadelphia, J.B. Lippincott & Co.; Nashville, W.T. Berry & Co., 1859) | have-ocr | IA `worksphiliplind03lindgoog` |
 | The works of Philip Lindsley, D.D., formerly Vice-President and President Elect of the College of New Jersey, Princeton; and late President of the University of Nashville, Tennessee (Philadelphia : J.B. Lippincott, 1866) | have-ocr | IA `worksphiliplind04lindgoog` |
 | Tachygraphy and takigrafy manuals by David Philip Lindsley (a different man) | excluded | |
+
+## Henry Belfrage (round 106, my pick, 2026-10-23)
+
+Slugs `belfrage-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| Sacramental Addresses and Meditations: Intended to Aid Devotion, vol. 2 (W. Oliphant, 1821) | have-ocr | IA `sacramentaladdr00belfgoog` |
+| Practical discourses (Edinburgh, 1817) | have-ocr | IA `practicaldiscour00belf` |
+| Sketches of Life and Character, from Scripture and from Observation (W. Oliphant, 1822) | have-ocr | IA `sketcheslifeand00belfgoog` |
+| A monitor to families, or, Discourses on some of the duties and scenes of domestic life (Edinburgh : [s.n.], 1824) | have-ocr | IA `monitortofamilie00belf` |
+| Discourses on the duties and consolations of the aged (Edinburgh : Oliver & Boyd, 1827) | have-ocr | IA `discoursesondut00belfgoog` |
+| Counsels for the sanctuary and for civil life; or, Discourses to various classes in the Church (Oliver & Boyd, 1829) | have-ocr | IA `counselsforsanc00belfgoog` |
+| A practical exposition of the Assembly's shorter catechism: exhibiting a system of theology in a popular form, and particularly adapted for family instruction. 2 (catalogued 1835) | have-ocr | IA `10479480bsb` |
+| Memoir of Alexander Waugh (written with James Hay) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
