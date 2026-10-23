@@ -13754,3 +13754,31 @@ Slugs `paget-*`. Built from title pages read for round 75.
 | single sermons of under 40 pages; the Life and Letters of Dean Church (1894, edited by Mary C. Church, Paget wrote the preface); other men named Francis Paget | excluded | |
 | helpsandhindran00pagegoog: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
 | plainvillageserm0001fran: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
+
+## Stopford A. Brooke (round 75, my pick, 2026-10-23)
+
+Slugs `brooke-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| Life and letters of Frederick W. Robertson, vol. 1 (Boston : Ticknor and Fields, 1865) | have-ocr | IA `lifelettersfred01robe` |
+| Sermons Preached in St. Jame's Chapel, York Street, London (Fields, Osgood, 1869) | have-ocr | IA `sermonspreached02broogoog` |
+| Freedom in the Church of England: Six Sermons Suggested by the Voysey (Henry S. King, 1871) | have-ocr | IA `freedominchurch00broogoog` |
+| Christ in modern life: sermons preached in St. James's Chapel, London (New York, D. Appleton, 1877) | have-ocr | IA `christinmodernli00broo_0` |
+| Theology in the English poets, Cowper, Coleridge, Wordsworth, and Burns (New York : D. Appleton and compay, 1875) | have-ocr | IA `theologyinenglis00broorich` |
+| The fight of faith; sermons preached on various occasions (London, H.S. King, 1877) | have-ocr | IA `fightoffaithserm0000broo` |
+| Faith and freedom (Boston, G. H. Ellis, 1881) | have-ocr | IA `faithfreedom00broo_0` |
+| The Spirit of the Christian Life: Sermons (C. Kegan Paul, 1881) | have-ocr | IA `spiritchristian00broogoog` |
+| The unity of God and man, and other sermons (Boston : G.H. Ellis, 1886) | have-ocr | IA `unityofgodmanoth00broorich` |
+| The early life of Jesus: sermons preached at Bedford chapel Bloomsbury (David Stott, 1888) | have-ocr | IA `earlylifejesuss00broogoog` |
+| Short sermons (London, New York, Macmillan, 1892) | have-ocr | IA `shortsermons0000broo` |
+| God and Christ : sermons preached in Bedford Chapel (London : P. Green, 1894) | have-ocr | IA `godchristsermons0000broo` |
+| THE OLD TESTAMENT AND MODERN LIFE (catalogued 1896) | have-ocr | IA `oldtestamentmode0000stop` |
+| The ship of the soul and other papers (London : James Clarke & Co., 1898) | have-ocr | IA `shipofsoulotherp0000broo` |
+| Religion in literature and religion in life (London : Philip Green, 1900) | have-ocr | IA `religioninlitera0000broo` |
+| The kingship of love (London : Isbister and Co., 1903) | have-ocr | IA `kingshipoflove0000broo` |
+| The life superlative (Boston, American Unitarian Association, 1907) | have-ocr | IA `lifesuperlative00broo` |
+| The onward cry, and other sermons (London : Duckworth & Co., 1911) | have-ocr | IA `onwardcryotherse00brooiala` |
+| The spikenard and other sermons (London, Lindsey Press, 1919) | have-ocr | IA `spikenardotherse0000broo` |
+| his literary books (English Literature primer, Milton, Riquet of the Tuft, Tennyson, Browning, Shakespeare, Poems from Shelley and others): not theology | excluded | |
+| IA item christinmodernli00broorich carries J. W. Chadwick's The Faith of Reason, not Brooke; replaced by christinmodernli00broo_0 | excluded | |
