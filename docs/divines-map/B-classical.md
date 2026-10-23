@@ -9056,3 +9056,12 @@ Shelf: `pipeline/victor-duruy_shelf.json`. Mahaffy's English editions: History o
 
 Excluded: History of Rome vol. IV, section II (Boston, 1883) (the only scan, p2historyofromeo04duru, has no text layer (2026-10-23); the Kelly & Co. London edition (e.g. historyofromeofr42duru) divides the volumes differently, so its part cannot stand in. A labelled gap.); Histories of France and of the world (out of lane B's scope)
 
+
+## Charles Seignobos (1854-1942)
+
+Shelf: `pipeline/charles-seignobos_shelf.json`. History of Ancient Civilization, tr. Wilde (1906). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| History of Ancient Civilization (1906), ed. and tr. Arthur Herbert Wilde |  | `seignobos-ancient-civilization-1906` | have-raw (IA `historyofancient00seiguoft`) |
+
