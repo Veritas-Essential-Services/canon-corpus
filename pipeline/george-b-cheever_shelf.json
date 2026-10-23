@@ -1,0 +1,224 @@
+{
+ "_about": "Public-domain George Barrell Cheever (1807-1890), Presbyterian and Congregational minister of New York's Church of the Puritans and abolitionist, for the Word Hoard: The Hierarchical Despotism (1844), Lectures on the Pilgrim's Progress (1846), A Defence of Capital Punishment (1846), Wanderings of a Pilgrim in the Shadow of Mont Blanc (1848), The Hill Difficulty (1849), Voices of Nature (1852), Deacon Giles's Distillery and other miscellanies (1853), The Powers of the World to Come (1853), Right of the Bible in our Public Schools (1854), Windings of the River of the Water of Life (1855), Lectures on Cowper (1856), God against Slavery (1857) and The Guilt of Slavery and the Crime of Slaveholding (1860). from Internet Archive scans. Added 2026-10-23 by lane A, round 60 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cheever"
+ ],
+ "_surname": [
+  "george b. cheever",
+  "cheever",
+  "george barrell cheever",
+  "g. b. cheever"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cheever-hierarchical-despotism": [
+   "hierarchicaldesp00chee",
+   "The hierarchical despotism. Lectures ([n.p.], 1844)"
+  ],
+  "cheever-pilgrims-progress": [
+   "lecturesonpilgri00cheeuoft",
+   "Lectures on the Pilgrim's progress, and on the life and times of John Bunyan (Glasgow W. Collins, 1846)"
+  ],
+  "cheever-capital-punishment": [
+   "defenceofcapital00chee",
+   "A defence of capital punishment (New York : Wiley and Putnam, 1846)"
+  ],
+  "cheever-wanderings": [
+   "wanderingsofpilg00cheeuoft",
+   "Wanderings of a pilgrim in the shadow of Mont Blanc (New York, J. Wiley, 1848)"
+  ],
+  "cheever-hill-difficulty": [
+   "hilldifficulty00chee",
+   "The hill difficulty ([n. p.], 1849)"
+  ],
+  "cheever-voices-of-nature": [
+   "cu31924100712417",
+   "Voices of nature to her foster-child, the soul of man : a series of analogies between the natural and the spiritual world (Glasgow : Published by William Collins, 1852)"
+  ],
+  "cheever-deacon-giles": [
+   "deacongilessdist00cheerich",
+   "Deacon Giles's distillery, and other miscellanies (New York, J. Wiley, 1853)"
+  ],
+  "cheever-powers-world-to-come": [
+   "powersofworldtoc00chee",
+   "The powers of the world to come ([n.p.], 1853)"
+  ],
+  "cheever-bible-in-schools": [
+   "rightofbibleinou00chee",
+   "Right of the bible in our public schools (catalogued 1854)"
+  ],
+  "cheever-windings-of-river": [
+   "windingsofrivero00chee",
+   "Windings of the river of the water of life : in the development, discipline, and fruits of faith (New York : J. Wiley, 1855)"
+  ],
+  "cheever-cowper": [
+   "lecturesonlifege00chee",
+   "Lectures on the life, genius and insanity of Cowper (New York, R. Carter & brothers, 1856)"
+  ],
+  "cheever-god-against-slavery": [
+   "godagainstslave00chee",
+   "God against slavery: and the freedom and duty of the pulpit to rebuke it, as a sin against God (Cincinnati: Am. Reform Tract and Book Society, 1857)"
+  ],
+  "cheever-guilt-of-slavery": [
+   "guiltofslaverycr00chee",
+   "The guilt of slavery and the crime of slaveholding, demonstrated from the Hebrew and Greek scriptures (Boston, J. P. Jewett & company, 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cheever-other": "Anthologies he compiled or edited (The American Common-Place Book of Poetry and of Prose, The Poets of America, The Prose Writers of America, Leighton's Select Works, The Journal of the Pilgrims, Christian Melodies); his brother Henry T. Cheever's books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "cheever-powers-world-to-come": "title page: 'The Powers of the World to Come, and the Church's Stewardship as invested with them, [by] George bTcHEEVER [George B. Cheever], D.D., New York: Robert Carter & Brothers, 1853' (black-letter title garbled in the OCR)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cheever-hierarchical-despotism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cheever-pilgrims-progress": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheever-capital-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheever-wanderings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheever-hill-difficulty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cheever-voices-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheever-deacon-giles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheever-powers-world-to-come": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cheever-bible-in-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cheever-windings-of-river": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cheever-cowper": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cheever-god-against-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cheever-guilt-of-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. cheever",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

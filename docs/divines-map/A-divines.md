@@ -12490,3 +12490,24 @@ Slugs `aphelps-*`. Built from title pages read for round 60.
 | English style in public discourse with special reference to the usages of the pulpit (New York : C. Scribner's sons, 1883) | have-ocr | IA `englishstyleinpu00phel` |
 | My note-book : fragmentary studies in theology, and subjects adjacent thereto (New York : C. Scribner's Sons, 1891) | have-ocr | IA `mynotebookfragment00phel` |
 | The Sabbath Hymn Book (1858) and Hymns and Choirs (1860), both made with E. A. Park and others; the 1895 Rhetoric abridgement by Henry Allyn Frink; the 1947 abridged Theory of Preaching | excluded | |
+
+## George B. Cheever (round 60, my pick, 2026-10-23)
+
+Slugs `cheever-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The hierarchical despotism. Lectures ([n.p.], 1844) | have-ocr | IA `hierarchicaldesp00chee` |
+| Lectures on the Pilgrim's progress, and on the life and times of John Bunyan (Glasgow W. Collins, 1846) | have-ocr | IA `lecturesonpilgri00cheeuoft` |
+| A defence of capital punishment (New York : Wiley and Putnam, 1846) | have-ocr | IA `defenceofcapital00chee` |
+| Wanderings of a pilgrim in the shadow of Mont Blanc (New York, J. Wiley, 1848) | have-ocr | IA `wanderingsofpilg00cheeuoft` |
+| The hill difficulty ([n. p.], 1849) | have-ocr | IA `hilldifficulty00chee` |
+| Voices of nature to her foster-child, the soul of man : a series of analogies between the natural and the spiritual world (Glasgow : Published by William Collins, 1852) | have-ocr | IA `cu31924100712417` |
+| Deacon Giles's distillery, and other miscellanies (New York, J. Wiley, 1853) | have-ocr | IA `deacongilessdist00cheerich` |
+| The powers of the world to come ([n.p.], 1853) | have-ocr | IA `powersofworldtoc00chee` |
+| Right of the bible in our public schools (catalogued 1854) | have-ocr | IA `rightofbibleinou00chee` |
+| Windings of the river of the water of life : in the development, discipline, and fruits of faith (New York : J. Wiley, 1855) | have-ocr | IA `windingsofrivero00chee` |
+| Lectures on the life, genius and insanity of Cowper (New York, R. Carter & brothers, 1856) | have-ocr | IA `lecturesonlifege00chee` |
+| God against slavery: and the freedom and duty of the pulpit to rebuke it, as a sin against God (Cincinnati: Am. Reform Tract and Book Society, 1857) | have-ocr | IA `godagainstslave00chee` |
+| The guilt of slavery and the crime of slaveholding, demonstrated from the Hebrew and Greek scriptures (Boston, J. P. Jewett & company, 1860) | have-ocr | IA `guiltofslaverycr00chee` |
+| Anthologies he compiled or edited (The American Common-Place Book of Poetry and of Prose, The Poets of America, The Prose Writers of America, Leighton's Select Works, The Journal of the Pilgrims, Christian Melodies); his brother Henry T. Cheever's books | excluded | |
