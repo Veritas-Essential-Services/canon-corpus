@@ -20260,6 +20260,15 @@ Shelf: `pipeline/c-h-grandgent_shelf.json`. An Introduction to Vulgar Latin (Bos
 |---|---|---|---|
 | An Introduction to Vulgar Latin (Boston: Heath, 1907) |  | `grandgent-introduction-vulgar-latin-1907` | have-raw (IA `cu31924021623800`) |
 
+
+## Chrestos Tsountas (1857-1934) and J. Irving Manatt (1845-1915)
+
+Shelf: `pipeline/chrestos-tsountas_shelf.json`. The Mycenaean Age (Boston, 1897) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Mycenaean Age (Boston, 1897) |  | `tsountas-manatt-mycenaean-age-1897` | have-raw (IA `cu31924028235285`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
