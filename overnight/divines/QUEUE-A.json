@@ -5503,10 +5503,12 @@
     },
     {
       "id": "john-wise",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:18:23-05:00",
+      "notes": "Rebuilt on resume: The Churches Quarrel Espoused and the Vindication (Boston, 1772), the 1860 Congregational Board edition of both, and the 1902 Quebec narratives; verify --record 0 mismatched (one title page read), 0 uids minted."
     },
     {
       "id": "charles-chauncy",

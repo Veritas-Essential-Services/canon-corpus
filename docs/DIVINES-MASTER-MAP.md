@@ -9607,6 +9607,19 @@ Slugs `chauncy-*`. Built from title pages read for round 39.
 | Other scans: seasonablethough00unkn, seasonablethou00chaurich and the bim 1743 copy; cihm_29573 and cihm_33495 (the London reprint of the Cape-Breton sermon); twelvesermonsonf00chau_0; replytodrchandle00chau_0; the four other Compleat View scans; appealtopublican00chau; mysteryhidfromag00chau_0; fivedissertation01chau; Breaking of Bread (1816, breakingofbreadibr00chau) | alternate | not shelved |
 | allnationsofeart00chau: its text layer is a 1916 German libretto, not the sermon (wrong-book OCR); the bim scan is shelved instead | excluded | |
 | Chandler's Appeal to the Public (1767); the younger Edwards's Salvation of All Men Strictly Examined (1790), an answer to him; image-only scans with no text layer (wsb); manuscript letters; Charles Chauncy (1592-1672), president of Harvard | excluded | |
+
+## John Wise (round 39, my pick, 2026-10-22)
+
+Slugs `wise-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Churches Quarrel Espoused: or, A Reply in Satyre, to certain Proposals made (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_the-churches-quarrel-esp_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New-England Churches, drawn from Antiquity, the Light of Nature, Holy Scripture, its Noble Nature, and from the Dignity Divine Providence has put upon it (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-gov_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New England Churches, and The Churches' Quarrel Espoused, or A Reply to certain Proposals, fourth edition (Boston: Congregational Board of Publication, 1860) | have-ocr | IA `vindicationofgo00wise` |
+| Two Narratives of the Expedition against Quebec, A.D. 1690, under Sir William Phips, the one by Rev. John Wise of Ipswich and the other by an unknown writer, with an introduction by Samuel A. Green (Cambridge: John Wilson and Son, 1902) | have-ocr | IA `twonarrativesofe00wise` |
+| Other scans of the 1860 edition: vindicationofgov0000wise_c2w8, vindicationofgov00wise, cu31924029454497; of the 1902 Narratives: twonarrativesex00wisegoog, twonarrativesex01wisegoog | alternate | not shelved |
+| The other narrative in the 1902 pamphlet (by an unknown writer), kept in the volume as printed; A Word of Comfort to a Melancholy Country (1721, signed Amicus Patriae; no scan found); John Wise the aeronaut (1808-1879), John R. Wise, John S. Wise and other Wises | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
