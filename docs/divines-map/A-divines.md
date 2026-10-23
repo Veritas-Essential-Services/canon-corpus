@@ -12280,3 +12280,23 @@ Slugs `scox-*`. Built from title pages read for round 58.
 | Miracles; an argument and a challenge (London, Kegan Paul, Trench & Co., 1884) | have-ocr | IA `MiraclesAnArgument` |
 | privatelettersof00coxs: The Private Letters of St. Paul and St. John (1867). This scan has lost its title page and nothing in the text names the author; pending a complete copy. | pending | not shelved |
 | The Expositor volumes he edited (many contributors) | excluded | |
+
+## Hugh Macmillan (round 58, my pick, 2026-10-23)
+
+Slugs `hmacmillan-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Bible teachings in nature (catalogued 1867) | have-ocr | IA `bibleteachingsi01macmgoog` |
+| The ministry of nature (London : Macmillan, 1871) | have-ocr | IA `ministryofnature0000macm` |
+| The true vine; or, The analogies of our Lord's allegory (catalogued 1871) | have-ocr | IA `truevineoranalo00macmgoog` |
+| Sun-glints in the wilderness (London : William Hunt and Co., 1872) | have-ocr | IA `sunglintsinwilde0000macm` |
+| Our Lord's three raisings from the dead (Glasgow : J. Maclehose ; London : Macmillan, 1876) | have-ocr | IA `ourlordsai00macm` |
+| Two worlds are ours (London : Macmillan, 1880) | have-ocr | IA `twoworldsareours00macm` |
+| The marriage in Cana of Galilee (London, Macmillan & co., 1882) | have-ocr | IA `marriageincanaof00macm` |
+| The olive leaf (London, Macmillan, [188) | have-ocr | IA `oliveleafmacmill00macmrich` |
+| Roman mosaics; or, Studies in Rome and its neighbourhood (London, MacMillan, 1888) | have-ocr | IA `romanmosaicsorst00macmuoft` |
+| The sabbath of the fields (macmillan and co., 1889) | have-ocr | IA `sabbathoffields0000revh` |
+| The mystery of grace and other sermons (London, Hodder and Stoughton, 1893) | have-ocr | IA `mysteryofgraceot0000macm` |
+| The clock of nature (London : Isbister, 1898) | have-ocr | IA `clockofnature00macm` |
+| His botanical books (Footnotes from the Page of Nature / First Forms of Vegetation, Holidays on High Lands, The Rare Lichens of Glencroe); the Memoir of Daniel Macmillan (Thomas Hughes's) | excluded | |
