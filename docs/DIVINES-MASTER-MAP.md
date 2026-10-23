@@ -18001,6 +18001,23 @@ Slugs `gisborne-*`. Built from title pages read for round 120.
 | Innovation: a poem.  1799 (catalogued 1799) (IA bim_eighteenth-century_innovation-a-poem_gisborne-thomas_1799): the printed title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Essays on agriculture (1854) are by his son Thomas Gisborne the younger | excluded | |
 | Flora Herbornensis, the John Hunter works, the Canadian Dominion pamphlet and the Idaho forest bulletin are by other men | excluded | |
+
+## Thomas Townson (round 120, my pick, 2026-10-23)
+
+Slugs `townson-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached at the primary visitation of the Right Reverend Beilby Lord Bishop of Chester, in the cathedral church, on Thursday, August 13, 1778. By Thomas Townson, ...  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_townson-thomas_1778` |
+| A discourse on the evangelical history, from the interment to the ascension of our Lord and Saviour Jesus Christ. By the late Reverend Thomas Townson, ... To which is prefixed an account of the author.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-discourse-on-the-evang_townson-thomas_1793` |
+| Babylon in the Revelation of St. John as signifying the city of Rome considered with reference to the claims of the Roman church. By ... Thomas Townson, ...  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_babylon-in-the-revelatio_townson-thomas_1797` |
+| The works of the Reverend Thomas Townson ... : to which is prefixed an account of the author with an introduction to the discourses on the Gospels, and a sermon on the quotations in the Old Testament (London : Printed for F.C. and J. Rivington, 1810) | have-ocr | IA `worksofreverendt00town` |
+| Discourses on the four Gospels chiefly with regard to the peculiar design of each, and the order and places in which they were written. To which is added a discourse on the evangelical history from the interment to the ascension of our Lord (University Press, 1831) | have-ocr | IA `discoursesonfour0000unse` |
+| Doubts concerning the authenticity of the last publication of The confessional, and the current editions of certain books cited in it. Addressed to the author of that learned work.  1767 (catalogued 1767) (IA bim_eighteenth-century_doubts-concerning-the-au_townson-thomas_1767): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A defence of the doubts concerning the authenticity of the last publication of The confessional, &c. In answer to Occasional remarks, &c.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-defence-of-the-doubts-_townson-thomas_1768): published without a name (only a manuscript note names Townson); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A dialogue between Isaac Walton and Homologistes: in which the character of Bishop Sanderson is defended against the author of The confessional.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-dialogue-between-isaac_townson-thomas_1768): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| thomastownsonsa00towngoog, a German translation | excluded | |
+| b22415646 is by Robert Townson | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
