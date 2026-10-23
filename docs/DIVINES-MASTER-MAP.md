@@ -11262,6 +11262,16 @@ Slugs `rowland-*`. Built from title pages read for round 50.
 | Three sermons upon practical subjects, ... Preached at the New-church in Langeitho, South-Wales. By the Rev. Mr. Daniel Rowland, ... And now attempted to be translated from the original British. By the Rev. John Davies, ...  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_three-sermons-upon-pract_rowland-daniel_1778` |
 | The second 1774 copy and the 1788 Eight Sermons | alternate | not shelved |
 | Welsh-language sermons and hymns (1743-1792) left for Adam's ruling on Welsh; Owen's Memoir of Daniel Rowlands (1840, another author) | excluded | |
+
+## Howell Harris (round 50, my pick, 2026-10-23)
+
+Slugs `hharris-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| A letter from Mr. Howel Harris in Wales, to a congregation in London, concerning brotherly love and mutual forbearance amongst true Christians. With an explanatory introduction by a welwisher to peace and truth.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-letter-from-mr-howel-_harris-howell_1743` |
+| The last message, and dying testimony, of Howell Harris, Esqr; late of Trevecka in Wales. ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_the-last-message-and-dy_harris-howell_1774` |
+| A brief account of the life of Howell Harris, Esq; extracted from papers written by himself. To which is added a concise collection of his letters from the year 1738, to 1772.  1791 (catalogued 1791) | have-ocr | IA `bim_eighteenth-century_a-brief-account-of-the-l_harris-howell_1791` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
