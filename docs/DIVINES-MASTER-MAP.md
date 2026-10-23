@@ -45863,3 +45863,64 @@ Shelf: `pipeline/storytellers-tail-11_shelf.json` (2026-10-22; added at the coor
 | Prince Charlie | have | PG 40611, `bdelannoy-prince-charlie` (2153 units) |
 | Chaste as Ice, Pure as Snow: A Novel | have | PG 58324, `cdespard-chaste-as-ice-pure-as-snow` (2709 units) |
 | The Rajah's Heir A Novel in 3 volumes | have | PG 58486, `cdespard-rajah-s-heir-a-novel-in-3-volumes` (3286 units) |
+
+## Storytellers' tail, group 12 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-12_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: Alice M. Diehl, E. A. Dillwyn, Dick Donovan, Hamilton Drummond, Henry Dudeney, Alice Moore Dunbar-Nelson, Walter A. Dyer, Timothy East, Albert Edwards, Luna May Ennis, Payne Erskine, Francis J. Finn, George Fitch, George Fleming, William J. Flynn, Douglas Morey Ford, Crosbie Garstin, Josephine Scribner Gates, Roy Rolfe Gilson, C. C. Goodwin, Margaret Collier Graham, Frances Nimmo Greene, Greene, Sarah Pratt McLean Greene, Elizabeth Grinnell, F. Burge Griswold, Latta Griswold. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Woman Martyr | have | PG 41711, `amdiehl-woman-martyr` (1002 units) |
+| Dr. Paull's Theory: A Romance | have | PG 67437, `amdiehl-dr-paull-s-theory` (2159 units) |
+| Jill, Vol. 1 (of 2) | have | PG 65755, `eadillwyn-jill-vol-1-of-2` (441 units) |
+| Jill, Vol. 2 (of 2) | have | PG 65758, `eadillwyn-jill-vol-2-of-2` (504 units) |
+| The chronicles of Michael Danevitch of the Russian Secret Service | have | PG 68123, `ddonovan-chronicles-of-michael-danevitch-of-the-russian-secr` (1939 units) |
+| Tales of terror | have | PG 76261, `ddonovan-tales-of-terror` (1411 units) |
+| The Justice of the King | have | PG 24483, `hdrummond-justice-of-the-king` (1724 units) |
+| The King's Scapegoat | have | PG 57401, `hdrummond-king-s-scapegoat` (1830 units) |
+| Folly Corner | have | PG 69758, `hdudeney-folly-corner` (2040 units) |
+| Men of Marlowe's | have | PG 70426, `hdudeney-men-of-marlowe-s` (1123 units) |
+| The Goodness of St. Rocque, and Other Stories | have | PG 688, `amdunbarnelson-goodness-of-st-rocque-and-other-stories` (557 units) |
+| Violets and Other Tales | have | PG 18713, `amdunbarnelson-violets-and-other-tales` (402 units) |
+| The Dogs of Boytown | have | PG 41444, `wadyer-dogs-of-boytown` (1417 units) |
+| Pierrot, Dog of Belgium | have | PG 56921, `wadyer-pierrot-dog-of-belgium` (324 units) |
+| The Sheepfold and the Common; Or, Within and Without. Vol. 1 (of 2) | have | PG 44469, `teast-sheepfold-and-the-common` (2915 units) |
+| The Sheepfold and the Common; Or, Within and Without. Vol. 2 (of 2) | have | PG 44769, `teast-sheepfold-and-the-common-44769` (2300 units) |
+| Comrade Yetta | have | PG 38860, `aedwards-comrade-yetta` (2323 units) |
+| A Man's World | have | PG 44878, `aedwards-man-s-world` (1630 units) |
+| Our Little Danish Cousin | have | PG 44030, `lmennis-our-little-danish-cousin` (597 units) |
+| Our Little Boer Cousin | have | PG 46483, `lmennis-our-little-boer-cousin` (511 units) |
+| The Eye of Dread | have | PG 30031, `perskine-eye-of-dread` (2869 units) |
+| The Mountain Girl | have | PG 32429, `perskine-mountain-girl` (2517 units) |
+| Cupid of Campion | have | PG 52583, `fjfinn-cupid-of-campion` (1440 units) |
+| Bobby in Movieland | have | PG 56319, `fjfinn-bobby-in-movieland` (1125 units) |
+| Homeburg Memories | have | PG 19196, `gfitch-homeburg-memories` (427 units) |
+| At Good Old Siwash | have | PG 25163, `gfitch-at-good-old-siwash` (847 units) |
+| Vestigia. Vol. I. | have | PG 34685, `gfleming-vestigia-vol-i` (466 units) |
+| Vestigia. Vol. II. | have | PG 34686, `gfleming-vestigia-vol-ii` (679 units) |
+| The Barrel Mystery | have | PG 42010, `wjflynn-barrel-mystery` (1155 units) |
+| The Eagle's eye | have | PG 70527, `wjflynn-eagle-s-eye` (1853 units) |
+| The Raid of Dover: A Romance of the Reign of Woman, A.D. 1940 | have | PG 60222, `dmford-raid-of-dover` (852 units) |
+| A time of terror | have | PG 75548, `dmford-time-of-terror` (1100 units) |
+| The Mud Larks | have | PG 59900, `cgarstin-mud-larks` (1025 units) |
+| The Owls' House | have | PG 60528, `cgarstin-owls-house` (1857 units) |
+| The Story of Live Dolls | have | PG 54477, `jsgates-story-of-live-dolls` (247 units) |
+| The Story of the Mince Pie | have | PG 55143, `jsgates-story-of-the-mince-pie` (969 units) |
+| Miss Primrose: A Novel | have | PG 40735, `rrgilson-miss-primrose` (1670 units) |
+| In the Morning Glow: Short Stories | have | PG 43862, `rrgilson-in-the-morning-glow` (860 units) |
+| The Wedge of Gold | have | PG 16861, `ccgoodwin-wedge-of-gold` (1572 units) |
+| The Comstock Club | have | PG 36123, `ccgoodwin-comstock-club` (1717 units) |
+| The Wizard's Daughter, and Other Stories | have | PG 26307, `mcgraham-wizard-s-daughter-and-other-stories` (1039 units) |
+| Stories of the Foot-hills | have | PG 31687, `mcgraham-stories-of-the-foot-hills` (1414 units) |
+| With Spurs of Gold: Heroes of Chivalry and their Deeds | have | PG 25651, `fngreene-with-spurs-of-gold` (1069 units) |
+| America First | have | PG 36726, `fngreene-america-first` (766 units) |
+| On Angels' Wings | have | PG 59967, `greene-on-angels-wings` (1479 units) |
+| Jubilee Hall | have | PG 78214, `greene-jubilee-hall` (913 units) |
+| Cape Cod Folks | have | PG 19708, `spmgreene-cape-cod-folks` (1815 units) |
+| Vesty of the Basins | have | PG 21443, `spmgreene-vesty-of-the-basins` (2149 units) |
+| Birds of Song and Story | have | PG 64468, `egrinnell-birds-of-song-and-story` (569 units) |
+| Our Feathered Friends | have | PG 64517, `egrinnell-our-feathered-friends` (691 units) |
+| The Elm Tree Tales | have | PG 29008, `fbgriswold-elm-tree-tales` (790 units) |
+| The Old Market-Cart | have | PG 45552, `fbgriswold-old-market-cart` (504 units) |
+| The Inn at the Red Oak | have | PG 9856, `lgriswold-inn-at-the-red-oak` (1290 units) |
+| Deering of Deal; Or, The Spirit of the School | have | PG 47597, `lgriswold-deering-of-deal` (1785 units) |

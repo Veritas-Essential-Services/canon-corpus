@@ -1,0 +1,942 @@
+{
+ "_about": "Storytellers' tail, group 12: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Alice M. Diehl, E. A. Dillwyn, Dick Donovan, Hamilton Drummond, Henry Dudeney, Alice Moore Dunbar-Nelson, Walter A. Dyer, Timothy East, Albert Edwards, Luna May Ennis, Payne Erskine, Francis J. Finn, George Fitch, George Fleming, William J. Flynn, Douglas Morey Ford, Crosbie Garstin, Josephine Scribner Gates, Roy Rolfe Gilson, C. C. Goodwin, Margaret Collier Graham, Frances Nimmo Greene, Greene, Sarah Pratt McLean Greene, Elizabeth Grinnell, F. Burge Griswold, Latta Griswold. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 12 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "amdiehl-woman-martyr": [
+   "alice m. diehl",
+   "alice mangold diehl",
+   "diehl"
+  ],
+  "amdiehl-dr-paull-s-theory": [
+   "alice m. diehl",
+   "alice mangold diehl",
+   "diehl"
+  ],
+  "eadillwyn-jill-vol-1-of-2": [
+   "e. a. dillwyn",
+   "elizabeth amy dillwyn",
+   "dillwyn"
+  ],
+  "eadillwyn-jill-vol-2-of-2": [
+   "e. a. dillwyn",
+   "elizabeth amy dillwyn",
+   "dillwyn"
+  ],
+  "ddonovan-chronicles-of-michael-danevitch-of-the-russian-secr": [
+   "dick donovan",
+   "donovan"
+  ],
+  "ddonovan-tales-of-terror": [
+   "dick donovan",
+   "donovan"
+  ],
+  "hdrummond-justice-of-the-king": [
+   "hamilton drummond",
+   "drummond"
+  ],
+  "hdrummond-king-s-scapegoat": [
+   "hamilton drummond",
+   "drummond"
+  ],
+  "hdudeney-folly-corner": [
+   "henry dudeney",
+   "dudeney"
+  ],
+  "hdudeney-men-of-marlowe-s": [
+   "henry dudeney",
+   "dudeney"
+  ],
+  "amdunbarnelson-goodness-of-st-rocque-and-other-stories": [
+   "alice moore dunbar-nelson",
+   "dunbar-nelson"
+  ],
+  "amdunbarnelson-violets-and-other-tales": [
+   "alice moore dunbar-nelson",
+   "dunbar-nelson"
+  ],
+  "wadyer-dogs-of-boytown": [
+   "walter a. dyer",
+   "walter alden dyer"
+  ],
+  "wadyer-pierrot-dog-of-belgium": [
+   "walter a. dyer",
+   "walter alden dyer"
+  ],
+  "teast-sheepfold-and-the-common": [
+   "timothy east"
+  ],
+  "teast-sheepfold-and-the-common-44769": [
+   "timothy east"
+  ],
+  "aedwards-comrade-yetta": [
+   "albert edwards",
+   "edwards"
+  ],
+  "aedwards-man-s-world": [
+   "albert edwards",
+   "edwards"
+  ],
+  "lmennis-our-little-danish-cousin": [
+   "luna may ennis",
+   "ennis"
+  ],
+  "lmennis-our-little-boer-cousin": [
+   "luna may ennis",
+   "ennis"
+  ],
+  "perskine-eye-of-dread": [
+   "payne erskine",
+   "erskine"
+  ],
+  "perskine-mountain-girl": [
+   "payne erskine",
+   "erskine"
+  ],
+  "fjfinn-cupid-of-campion": [
+   "francis j. finn",
+   "francis james finn"
+  ],
+  "fjfinn-bobby-in-movieland": [
+   "francis j. finn",
+   "francis james finn"
+  ],
+  "gfitch-homeburg-memories": [
+   "george fitch",
+   "fitch"
+  ],
+  "gfitch-at-good-old-siwash": [
+   "george fitch",
+   "fitch"
+  ],
+  "gfleming-vestigia-vol-i": [
+   "george fleming",
+   "fleming"
+  ],
+  "gfleming-vestigia-vol-ii": [
+   "george fleming",
+   "fleming"
+  ],
+  "wjflynn-barrel-mystery": [
+   "william j. flynn",
+   "william james flynn",
+   "flynn"
+  ],
+  "wjflynn-eagle-s-eye": [
+   "william j. flynn",
+   "william james flynn",
+   "flynn"
+  ],
+  "dmford-raid-of-dover": [
+   "douglas morey ford"
+  ],
+  "dmford-time-of-terror": [
+   "douglas morey ford"
+  ],
+  "cgarstin-mud-larks": [
+   "crosbie garstin",
+   "garstin"
+  ],
+  "cgarstin-owls-house": [
+   "crosbie garstin",
+   "garstin"
+  ],
+  "jsgates-story-of-live-dolls": [
+   "josephine scribner gates",
+   "gates"
+  ],
+  "jsgates-story-of-the-mince-pie": [
+   "josephine scribner gates",
+   "gates"
+  ],
+  "rrgilson-miss-primrose": [
+   "roy rolfe gilson",
+   "gilson"
+  ],
+  "rrgilson-in-the-morning-glow": [
+   "roy rolfe gilson",
+   "gilson"
+  ],
+  "ccgoodwin-wedge-of-gold": [
+   "c. c. goodwin",
+   "charles carroll goodwin",
+   "goodwin"
+  ],
+  "ccgoodwin-comstock-club": [
+   "c. c. goodwin",
+   "charles carroll goodwin",
+   "goodwin"
+  ],
+  "mcgraham-wizard-s-daughter-and-other-stories": [
+   "margaret collier graham",
+   "graham"
+  ],
+  "mcgraham-stories-of-the-foot-hills": [
+   "margaret collier graham",
+   "graham"
+  ],
+  "fngreene-with-spurs-of-gold": [
+   "frances nimmo greene",
+   "greene"
+  ],
+  "fngreene-america-first": [
+   "frances nimmo greene",
+   "greene"
+  ],
+  "greene-on-angels-wings": [
+   "greene",
+   "louisa lilias greene",
+   "greene"
+  ],
+  "greene-jubilee-hall": [
+   "greene",
+   "louisa lilias greene",
+   "greene"
+  ],
+  "spmgreene-cape-cod-folks": [
+   "sarah pratt mclean greene",
+   "greene"
+  ],
+  "spmgreene-vesty-of-the-basins": [
+   "sarah pratt mclean greene",
+   "greene"
+  ],
+  "egrinnell-birds-of-song-and-story": [
+   "elizabeth grinnell",
+   "grinnell"
+  ],
+  "egrinnell-our-feathered-friends": [
+   "elizabeth grinnell",
+   "grinnell"
+  ],
+  "fbgriswold-elm-tree-tales": [
+   "f. burge griswold",
+   "frances burge griswold",
+   "griswold"
+  ],
+  "fbgriswold-old-market-cart": [
+   "f. burge griswold",
+   "frances burge griswold",
+   "griswold"
+  ],
+  "lgriswold-inn-at-the-red-oak": [
+   "latta griswold",
+   "griswold"
+  ],
+  "lgriswold-deering-of-deal": [
+   "latta griswold",
+   "griswold"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "amdiehl-woman-martyr": [
+   41711,
+   "A Woman Martyr"
+  ],
+  "amdiehl-dr-paull-s-theory": [
+   67437,
+   "Dr. Paull's Theory: A Romance"
+  ],
+  "eadillwyn-jill-vol-1-of-2": [
+   65755,
+   "Jill, Vol. 1 (of 2)"
+  ],
+  "eadillwyn-jill-vol-2-of-2": [
+   65758,
+   "Jill, Vol. 2 (of 2)"
+  ],
+  "ddonovan-chronicles-of-michael-danevitch-of-the-russian-secr": [
+   68123,
+   "The chronicles of Michael Danevitch of the Russian Secret Service"
+  ],
+  "ddonovan-tales-of-terror": [
+   76261,
+   "Tales of terror"
+  ],
+  "hdrummond-justice-of-the-king": [
+   24483,
+   "The Justice of the King"
+  ],
+  "hdrummond-king-s-scapegoat": [
+   57401,
+   "The King's Scapegoat"
+  ],
+  "hdudeney-folly-corner": [
+   69758,
+   "Folly Corner"
+  ],
+  "hdudeney-men-of-marlowe-s": [
+   70426,
+   "Men of Marlowe's"
+  ],
+  "amdunbarnelson-goodness-of-st-rocque-and-other-stories": [
+   688,
+   "The Goodness of St. Rocque, and Other Stories"
+  ],
+  "amdunbarnelson-violets-and-other-tales": [
+   18713,
+   "Violets and Other Tales"
+  ],
+  "wadyer-dogs-of-boytown": [
+   41444,
+   "The Dogs of Boytown"
+  ],
+  "wadyer-pierrot-dog-of-belgium": [
+   56921,
+   "Pierrot, Dog of Belgium"
+  ],
+  "teast-sheepfold-and-the-common": [
+   44469,
+   "The Sheepfold and the Common; Or, Within and Without. Vol. 1 (of 2)"
+  ],
+  "teast-sheepfold-and-the-common-44769": [
+   44769,
+   "The Sheepfold and the Common; Or, Within and Without. Vol. 2 (of 2)"
+  ],
+  "aedwards-comrade-yetta": [
+   38860,
+   "Comrade Yetta"
+  ],
+  "aedwards-man-s-world": [
+   44878,
+   "A Man's World"
+  ],
+  "lmennis-our-little-danish-cousin": [
+   44030,
+   "Our Little Danish Cousin"
+  ],
+  "lmennis-our-little-boer-cousin": [
+   46483,
+   "Our Little Boer Cousin"
+  ],
+  "perskine-eye-of-dread": [
+   30031,
+   "The Eye of Dread"
+  ],
+  "perskine-mountain-girl": [
+   32429,
+   "The Mountain Girl"
+  ],
+  "fjfinn-cupid-of-campion": [
+   52583,
+   "Cupid of Campion"
+  ],
+  "fjfinn-bobby-in-movieland": [
+   56319,
+   "Bobby in Movieland"
+  ],
+  "gfitch-homeburg-memories": [
+   19196,
+   "Homeburg Memories"
+  ],
+  "gfitch-at-good-old-siwash": [
+   25163,
+   "At Good Old Siwash"
+  ],
+  "gfleming-vestigia-vol-i": [
+   34685,
+   "Vestigia. Vol. I."
+  ],
+  "gfleming-vestigia-vol-ii": [
+   34686,
+   "Vestigia. Vol. II."
+  ],
+  "wjflynn-barrel-mystery": [
+   42010,
+   "The Barrel Mystery"
+  ],
+  "wjflynn-eagle-s-eye": [
+   70527,
+   "The Eagle's eye"
+  ],
+  "dmford-raid-of-dover": [
+   60222,
+   "The Raid of Dover: A Romance of the Reign of Woman, A.D. 1940"
+  ],
+  "dmford-time-of-terror": [
+   75548,
+   "A time of terror"
+  ],
+  "cgarstin-mud-larks": [
+   59900,
+   "The Mud Larks"
+  ],
+  "cgarstin-owls-house": [
+   60528,
+   "The Owls' House"
+  ],
+  "jsgates-story-of-live-dolls": [
+   54477,
+   "The Story of Live Dolls"
+  ],
+  "jsgates-story-of-the-mince-pie": [
+   55143,
+   "The Story of the Mince Pie"
+  ],
+  "rrgilson-miss-primrose": [
+   40735,
+   "Miss Primrose: A Novel"
+  ],
+  "rrgilson-in-the-morning-glow": [
+   43862,
+   "In the Morning Glow: Short Stories"
+  ],
+  "ccgoodwin-wedge-of-gold": [
+   16861,
+   "The Wedge of Gold"
+  ],
+  "ccgoodwin-comstock-club": [
+   36123,
+   "The Comstock Club"
+  ],
+  "mcgraham-wizard-s-daughter-and-other-stories": [
+   26307,
+   "The Wizard's Daughter, and Other Stories"
+  ],
+  "mcgraham-stories-of-the-foot-hills": [
+   31687,
+   "Stories of the Foot-hills"
+  ],
+  "fngreene-with-spurs-of-gold": [
+   25651,
+   "With Spurs of Gold: Heroes of Chivalry and their Deeds"
+  ],
+  "fngreene-america-first": [
+   36726,
+   "America First"
+  ],
+  "greene-on-angels-wings": [
+   59967,
+   "On Angels' Wings"
+  ],
+  "greene-jubilee-hall": [
+   78214,
+   "Jubilee Hall"
+  ],
+  "spmgreene-cape-cod-folks": [
+   19708,
+   "Cape Cod Folks"
+  ],
+  "spmgreene-vesty-of-the-basins": [
+   21443,
+   "Vesty of the Basins"
+  ],
+  "egrinnell-birds-of-song-and-story": [
+   64468,
+   "Birds of Song and Story"
+  ],
+  "egrinnell-our-feathered-friends": [
+   64517,
+   "Our Feathered Friends"
+  ],
+  "fbgriswold-elm-tree-tales": [
+   29008,
+   "The Elm Tree Tales"
+  ],
+  "fbgriswold-old-market-cart": [
+   45552,
+   "The Old Market-Cart"
+  ],
+  "lgriswold-inn-at-the-red-oak": [
+   9856,
+   "The Inn at the Red Oak"
+  ],
+  "lgriswold-deering-of-deal": [
+   47597,
+   "Deering of Deal; Or, The Spirit of the School"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amdiehl-woman-martyr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice m. diehl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amdiehl-dr-paull-s-theory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice m. diehl",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eadillwyn-jill-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. dillwyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eadillwyn-jill-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. dillwyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ddonovan-chronicles-of-michael-danevitch-of-the-russian-secr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dick donovan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ddonovan-tales-of-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dick donovan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdrummond-justice-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hamilton drummond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdrummond-king-s-scapegoat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hamilton drummond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdudeney-folly-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dudeney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hdudeney-men-of-marlowe-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dudeney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amdunbarnelson-goodness-of-st-rocque-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice moore dunbar-nelson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amdunbarnelson-violets-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice moore dunbar-nelson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wadyer-dogs-of-boytown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter a. dyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wadyer-pierrot-dog-of-belgium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter a. dyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "teast-sheepfold-and-the-common": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "timothy east",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "teast-sheepfold-and-the-common-44769": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "timothy east",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aedwards-comrade-yetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aedwards-man-s-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmennis-our-little-danish-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luna may ennis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmennis-our-little-boer-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luna may ennis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "perskine-eye-of-dread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payne erskine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "perskine-mountain-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "payne erskine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fjfinn-cupid-of-campion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. finn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fjfinn-bobby-in-movieland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. finn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfitch-homeburg-memories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george fitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfitch-at-good-old-siwash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george fitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfleming-vestigia-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gfleming-vestigia-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjflynn-barrel-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william j. flynn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjflynn-eagle-s-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william j. flynn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmford-raid-of-dover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglas morey ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmford-time-of-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglas morey ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarstin-mud-larks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crosbie garstin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgarstin-owls-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crosbie garstin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsgates-story-of-live-dolls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephine scribner gates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsgates-story-of-the-mince-pie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephine scribner gates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rrgilson-miss-primrose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roy rolfe gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rrgilson-in-the-morning-glow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roy rolfe gilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccgoodwin-wedge-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. goodwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ccgoodwin-comstock-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. c. goodwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcgraham-wizard-s-daughter-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret collier graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcgraham-stories-of-the-foot-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret collier graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fngreene-with-spurs-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances nimmo greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fngreene-america-first": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances nimmo greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "greene-on-angels-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "greene-jubilee-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spmgreene-cape-cod-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah pratt mclean greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spmgreene-vesty-of-the-basins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah pratt mclean greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egrinnell-birds-of-song-and-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egrinnell-our-feathered-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbgriswold-elm-tree-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burge griswold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbgriswold-old-market-cart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. burge griswold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lgriswold-inn-at-the-red-oak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "latta griswold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lgriswold-deering-of-deal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "latta griswold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
