@@ -10152,3 +10152,17 @@ Slugs `overall-*`. Built from title pages read for round 41.
 | The convocation book of MDCVI ... concerning the government of God's Catholic Church and the kingdom of the whole world (Oxford, Parker, 1844) | have-ocr | IA `convocationbooko00overuoft` |
 | Sancroft's 1690 first printing and other scans of the 1844 edition | alternate | not shelved |
 | A Catechism of the Constitution of the United States (1892-1895), by a later Overall | excluded | |
+
+## Richard Montagu (round 41, my pick, 2026-10-22)
+
+Slugs `montagu-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| A gagg for the new gospell? No. A new gagg for an old goose.  1624 (catalogued 1624) | have-ocr | IA `bim_early-english-books-1475-1640_a-gagg-for-the-new-gospe_montagu-richard-bp_1624` |
+| Immediate addresse unto God alone.  1624 (England : Printed by William Stansby, for Matthew Lownes and William Barret, 1624) | have-ocr | IA `bim_early-english-books-1475-1640_immediate-addresse-unto-_montagu-richard-bp_1624` |
+| Appello Caesarem : a iust appeale from two vniust informers (London : Printed by H[umphrey]. L[ownes]. for Mathew Lownes, 1625) | have-ocr | IA `appellocaesaremi00mont` |
+| Diatribæ upon the first part of the late history of tithes ...  1621 (catalogued 1621) | have-ocr | IA `bim_early-english-books-1475-1640_diatrib-upon-the-first-_montagu-richard-bp_1621` |
+| The acts and monuments of the church ...  1642 (catalogued 1642) | have-ocr | IA `bim_early-english-books-1641-1700_the-acts-and-monuments-o_montagu-richard-bp_1642` |
+| The EEBO copies of Appello Caesarem (1625) | alternate | not shelved |
+| His Latin works (Analecta 1622, De originibus ecclesiasticis 1635-1640, Theanthropikon 1640, the Photius edition 1651) | excluded | |
