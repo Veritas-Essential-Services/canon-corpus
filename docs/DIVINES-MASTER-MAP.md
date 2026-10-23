@@ -38665,3 +38665,44 @@ Shelf: `pipeline/mrs-jh-riddell_shelf.json` (2026-10-22; added at the coordinato
 | Maxwell Drewitt, vol. 1 of 2 | have | PG 78945, `jhriddell-maxwell-drewitt-vol-1-of-2` (2064 units) |
 | Maxwell Drewitt, vol. 2 of 2 | have | PG 79387, `jhriddell-maxwell-drewitt-vol-2-of-2` (2052 units) |
 | The moors and the fens, volume 3 (of 3) | have | PG 79751, `jhriddell-moors-and-the-fens-volume-3-of-3` (925 units) |
+
+## C. N. and A. M. Williamson
+
+Shelf: `pipeline/williamsons_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Motoring romances by C. N. and A. M. Williamson, together and apart. Every English text under the name at Gutenberg that no other shelf holds (34 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| It Happened in Egypt | have | PG 9799, `cnamwilliamson-it-happened-in-egypt` (1934 units) |
+| The Powers and Maxine | have | PG 10410, `cnamwilliamson-powers-and-maxine` (1338 units) |
+| The Port of Adventure | have | PG 11016, `cnamwilliamson-port-of-adventure` (2041 units) |
+| The Princess Passes | have | PG 14740, `cnamwilliamson-princess-passes` (1985 units) |
+| Winnie Childs, the Shop Girl | have | PG 15014, `cnamwilliamson-winnie-childs-the-shop-girl` (1983 units) |
+| The Motor Maid | have | PG 17342, `cnamwilliamson-motor-maid` (1989 units) |
+| Rosemary: A Christmas story | have | PG 17743, `cnamwilliamson-rosemary` (529 units) |
+| The Second Latchkey | have | PG 18470, `cnamwilliamson-second-latchkey` (1996 units) |
+| The Golden Silence | have | PG 19108, `cnamwilliamson-golden-silence` (2899 units) |
+| Secret History Revealed By Lady Peggy O'Malley | have | PG 19304, `cnamwilliamson-secret-history-revealed-by-lady-peggy-omalley` (1287 units) |
+| Set in Silver | have | PG 19412, `cnamwilliamson-set-in-silver` (1809 units) |
+| My Friend the Chauffeur | have | PG 19441, `cnamwilliamson-my-friend-the-chauffeur` (2134 units) |
+| The guests of Hercules | have | PG 19569, `cnamwilliamson-guests-of-hercules` (2607 units) |
+| The Heather-Moon | have | PG 19742, `cnamwilliamson-heather-moon` (1840 units) |
+| Everyman's Land | have | PG 19806, `cnamwilliamson-everymans-land` (1471 units) |
+| The Castle Of The Shadows | have | PG 19901, `cnamwilliamson-castle-of-the-shadows` (1083 units) |
+| A Soldier of the Legion | have | PG 20815, `cnamwilliamson-soldier-of-the-legion` (1501 units) |
+| The Chauffeur and the Chaperon | have | PG 21529, `cnamwilliamson-chauffeur-and-the-chaperon` (2928 units) |
+| The Lion's Mouse | have | PG 21998, `cnamwilliamson-lions-mouse` (1712 units) |
+| Lady Betty Across the Water | have | PG 23441, `cnamwilliamson-lady-betty-across-the-water` (1766 units) |
+| The Car of Destiny | have | PG 23500, `cnamwilliamson-car-of-destiny` (2390 units) |
+| The Lightning Conductor Discovers America | have | PG 29083, `cnamwilliamson-lightning-conductor-discovers-america` (1311 units) |
+| The Princess Virginia | have | PG 29715, `cnamwilliamson-princess-virginia` (1305 units) |
+| Rosemary in Search of a Father | have | PG 30907, `cnamwilliamson-rosemary-in-search-of-a-father` (496 units) |
+| The Brightener | have | PG 32428, `cnamwilliamson-brightener` (1824 units) |
+| The Lightning Conductor: The Strange Adventures of a Motor-Car | have | PG 33845, `cnamwilliamson-lightning-conductor` (1027 units) |
+| Where the Path Breaks | have | PG 33995, `cnamwilliamson-where-the-path-breaks` (545 units) |
+| Vision House | have | PG 34919, `cnamwilliamson-vision-house` (1918 units) |
+| Lord John in New York | have | PG 38470, `cnamwilliamson-lord-john-in-new-york` (1185 units) |
+| The Girl Who Had Nothing | have | PG 39730, `cnamwilliamson-girl-who-had-nothing` (653 units) |
+| Lord Loveland Discovers America | have | PG 39984, `cnamwilliamson-lord-loveland-discovers-america` (2455 units) |
+| The Adventure of Princess Sylvia | have | PG 42357, `cnamwilliamson-adventure-of-princess-sylvia` (1159 units) |
+| Angel Unawares: A Story of Christmas Eve | have | PG 42919, `cnamwilliamson-angel-unawares` (196 units) |
+| The Great Pearl Secret | have | PG 56470, `cnamwilliamson-great-pearl-secret` (1228 units) |
