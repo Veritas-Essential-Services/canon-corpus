@@ -362,3 +362,5 @@
 - 2026-10-23T00:53-05:00: Round 142: Mary Howitt +12 (Bremer, Paalzow), Eleanor Marx-Aveling +1, Colbron +2; 0 mismatched, 0 rights flags.
 
 - 2026-10-23T00:59-05:00: Round 143: Duff Gordon +2, Jessie Muir +1, Hearn +1, Dowson +1; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:02-05:00: Round 144: Ranous +1, H. L. Williams +1, Beatrice Marshall +1; 1 pending; 0 mismatched, 0 rights flags.

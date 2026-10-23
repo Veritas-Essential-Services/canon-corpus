@@ -22087,12 +22087,14 @@ Round 23 (2026-10-10), vetoable. Round 141 (2026-10-23) added three translations
 ## Dora Knowlton Ranous (D'Annunzio's The Flame; Zibeline)
 
 Shelf: `pipeline/ranous_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ranous` · titles `python3 pipeline/split_shelf_titles.py ranous`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 144 (2026-10-23) added Serao's The Conquest of Rome (1906); her undated Williams-Barker Maupassant is held in _pending. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `ranous-d-annunzio-the-flame` | Gabriele D'Annunzio | The Flame | Dora Knowlton Ranous | 1900-1906 (see the Gutenberg header) | have | PG 60601 |
 | `ranous-massa-zibeline-complete` | Philippe Massa | Zibeline — Complete | Dora Knowlton Ranous | 1900-1906 (see the Gutenberg header) | have | PG 3934 |
+| `ranous-serao-the-conquest-of-rome` | Matilde Serao | The Conquest of Rome (La conquista di Roma) | Dora Knowlton Ranous | 1906 | have-raw | IA `conquestofromela00seraiala` |
+| `ranous-maupassant-selected-stories` | Guy de Maupassant | Selected Stories, 'translated and edited by Dora Knowlton Ranous' (Williams-Barker Co., New York; selectedstorieso0001dora and companion volumes). The title page prints no year, so it waits for a dated printing. Found 2026-10-23 (round 144). | Dora Knowlton Ranous | — | pending | — |
 | — | — | zibeline-volumes: Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used. | — | — | excluded | — |
 
 ## Eden and Cedar Paul (Zweig, Rolland, Schnitzler, Emil Ludwig)
@@ -22296,7 +22298,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Henry Llewellyn Williams (Dumas's Marie Antoinette romances; Aimard)
 
 Shelf: `pipeline/hl-williams_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hl-williams` · titles `python3 pipeline/split_shelf_titles.py hl-williams`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 144 (2026-10-23) added Dumas's The Queen's Necklace (Worthington, 1892). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22306,11 +22308,12 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `hl-williams-dumas-the-hero-of-the-people-a-historical-roma` | Alexandre Dumas | The Hero of the People: A Historical Romance of Love, Liberty and Loyalty | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 42681 |
 | `hl-williams-dumas-the-mesmerist-s-victim` | Alexandre Dumas | The Mesmerist's Victim | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 42690 |
 | `hl-williams-dumas-the-royal-life-guard-or-the-flight-of-th` | Alexandre Dumas | The Royal Life Guard; or, the flight of the royal family. | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 43633 |
+| `hl-williams-dumas-the-queens-necklace` | Alexandre Dumas | The Queen's Necklace; or, Royalty's Dangers and Defenders | Henry Llewellyn Williams | 1892 | have-raw | IA `queensnecklaceor00duma` |
 
 ## Beatrice Marshall (Sudermann; Karin Michaëlis)
 
 Shelf: `pipeline/beatrice-marshall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py beatrice-marshall` · titles `python3 pipeline/split_shelf_titles.py beatrice-marshall`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 144 (2026-10-23) added Grimm's Fairy Stories (Ward, Lock, 1900). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22319,6 +22322,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `beatrice-marshall-sudermann-regina-or-the-sins-of-the-fathers` | Hermann Sudermann | Regina, or the Sins of the Fathers | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 33892 |
 | `beatrice-marshall-sudermann-the-song-of-songs` | Hermann Sudermann | The Song of Songs | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 34361 |
 | `beatrice-marshall-sudermann-the-undying-past` | Hermann Sudermann | The Undying Past | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 34156 |
+| `beatrice-marshall-grimm-fairy-stories` | Jacob and Wilhelm Grimm | Grimm's Fairy Stories for Children and the Household | Beatrice Marshall | 1900 | have-raw | IA `grimmsfairystori0000beat` |
 
 ## Alys Hallard (the Goncourts, Gyp, Doumic)
 

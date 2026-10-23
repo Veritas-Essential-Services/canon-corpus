@@ -30,7 +30,12 @@
    "Elsie Lindtner"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bma-ia-grimm": [
+   "grimmsfairystori0000beat",
+   "Grimm's Fairy Stories"
+  ]
+ },
  "titles": {
   "beatrice-marshall-michaelis-elsie-lindtner": {
    "source": "bma-68837",
@@ -71,6 +76,14 @@
    "translated": "1898-1912 (see the Gutenberg header)",
    "translator": "Beatrice Marshall",
    "scan_edition": "Project Gutenberg 34156 (clean text)"
+  },
+  "beatrice-marshall-grimm-fairy-stories": {
+   "source": "bma-ia-grimm",
+   "of": "Jacob and Wilhelm Grimm",
+   "work": "Grimm's Fairy Stories for Children and the Household",
+   "translated": "1900",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Ward, Lock & Co., London, New York and Melbourne, 1900; \"in 2026\" is the digitising line"
   }
  },
  "_pending": {},
@@ -79,7 +92,7 @@
  "_checks": {
   "bma-33892": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice marshall",
    "identity": "ok",
@@ -88,7 +101,7 @@
   },
   "bma-34156": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice marshall",
    "identity": "ok",
@@ -97,7 +110,7 @@
   },
   "bma-34361": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice marshall",
    "identity": "ok",
@@ -106,7 +119,7 @@
   },
   "bma-34383": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice marshall",
    "identity": "ok",
@@ -115,12 +128,23 @@
   },
   "bma-68837": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice marshall",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Beatrice Marshall"
+  },
+  "bma-ia-grimm": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -148,6 +172,17 @@
    "pg": 68837,
    "pg_copyrighted_marker": false,
    "pg_translator": "Beatrice Marshall"
+  },
+  "bma-ia-grimm": {
+   "ia": "grimmsfairystori0000beat",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ],
+   "post_1930_examined": "2026 is the Internet Archive digitising line; the title page reads Ward, Lock, 1900"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
