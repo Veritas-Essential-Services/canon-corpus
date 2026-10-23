@@ -21,6 +21,10 @@
    "lifetimesofapoll00phil",
    "A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923)",
    "tr. Charles P. Eells"
+  ],
+  "philostratus-wright-lives-sophists-1922": [
+   "philostratuseuna00phil_0",
+   "Philostratus and Eunapius, The Lives of the Sophists, tr. Wilmer Cave Wright (Loeb, 1922); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -29,12 +33,13 @@
  "_translators": {
   "philostratus-berwick-apollonius": "Edward Berwick",
   "philostratus-phillimore-apollonius-v1": "J. S. Phillimore",
-  "philostratus-eells-apollonius-1923": "charles p. eells"
+  "philostratus-eells-apollonius-1923": "charles p. eells",
+  "philostratus-wright-lives-sophists-1922": "Wilmer Cave Wright"
  },
  "_checks": {
   "philostratus-berwick-apollonius": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philostratus",
    "translator_claimed": "Edward Berwick",
@@ -47,7 +52,7 @@
   },
   "philostratus-phillimore-apollonius-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philostratus",
    "translator_claimed": "J. S. Phillimore",
@@ -60,7 +65,7 @@
   },
   "philostratus-eells-apollonius-1923": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "philostratus",
    "translator_claimed": "charles p. eells",
@@ -68,6 +73,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1923",
    "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "philostratus-wright-lives-sophists-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philostratus",
+   "translator_claimed": "Wilmer Cave Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
