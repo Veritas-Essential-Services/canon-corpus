@@ -38291,3 +38291,31 @@ Shelf: `pipeline/mary-hartwell-catherwood_shelf.json` (2026-10-22; added at the 
 | The Queen of the Swamp, and other plain Americans | have | PG 74271, `mhcatherwood-queen-of-the-swamp-and-other-plain-americans` (1288 units) |
 | Rocky Fork | have | PG 76984, `mhcatherwood-rocky-fork` (1468 units) |
 | held-elsewhere | excluded | PG 48747: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Ridgwell Cullum
+
+Shelf: `pipeline/ridgwell-cullum_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns and northern adventure novels. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Foss River Ranch: A Tale of the Northwest | have | PG 14482, `rcullum-story-of-the-foss-river-ranch` (2242 units) |
+| The Man in the Twilight | have | PG 14756, `rcullum-man-in-the-twilight` (2710 units) |
+| The Triumph of John Kars: A Story of the Yukon | have | PG 19064, `rcullum-triumph-of-john-kars` (2483 units) |
+| The Forfeit | have | PG 19371, `rcullum-forfeit` (2226 units) |
+| The Heart of Unaga | have | PG 23662, `rcullum-heart-of-unaga` (2861 units) |
+| The Watchers of the Plains: A Tale of the Western Prairies | have | PG 27521, `rcullum-watchers-of-the-plains` (2327 units) |
+| The Night Riders: A Romance of Early Montana | have | PG 29479, `rcullum-night-riders` (2370 units) |
+| The Golden Woman: A Story of the Montana Hills | have | PG 29628, `rcullum-golden-woman` (2739 units) |
+| The Twins of Suffering Creek | have | PG 29638, `rcullum-twins-of-suffering-creek` (2590 units) |
+| The Hound From The North | have | PG 29695, `rcullum-hound-from-the-north` (1921 units) |
+| The Law-Breakers | have | PG 29958, `rcullum-law-breakers` (3424 units) |
+| The One-Way Trail: A story of the cattle country | have | PG 30113, `rcullum-one-way-trail` (2609 units) |
+| In the Brooding Wild | have | PG 31607, `rcullum-in-the-brooding-wild` (1055 units) |
+| The Way of the Strong | have | PG 35776, `rcullum-way-of-the-strong` (4303 units) |
+| The Son of his Father | have | PG 36170, `rcullum-son-of-his-father` (2410 units) |
+| The Trail of the Axe: A Story of Red Sand Valley | have | PG 36522, `rcullum-trail-of-the-axe` (2423 units) |
+| The Men Who Wrought | have | PG 36836, `rcullum-men-who-wrought` (2479 units) |
+| The Luck of the Kid | have | PG 59113, `rcullum-luck-of-the-kid` (2080 units) |
+| The Saint of the Speedway | have | PG 62533, `rcullum-saint-of-the-speedway` (1835 units) |
+| The riddle of Three-Way Creek | have | PG 74048, `rcullum-riddle-of-three-way-creek` (2236 units) |
+| The wolf pack | have | PG 74478, `rcullum-wolf-pack` (2104 units) |
