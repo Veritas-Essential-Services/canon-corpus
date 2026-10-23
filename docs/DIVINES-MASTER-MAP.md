@@ -10394,6 +10394,24 @@ Slugs `braght-*`. Built from title pages read for round 42.
 | The bloody theatre, or Martyr's mirror (catalogued 1886) | have-ocr | IA `bloodytheatreorm00brag` |
 | The 1887 printing | alternate | not shelved |
 | Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint | excluded | |
+
+## Nathaniel Lardner (round 43, my pick, 2026-10-22)
+
+Slugs `lardner-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Nathaniel Lardner, vol. 1 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel01lard` |
+| The works of Nathaniel Lardner, vol. 2 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel02lard` |
+| The works of Nathaniel Lardner, vol. 3 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel03lard` |
+| The works of Nathaniel Lardner, vol. 4 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel04lard` |
+| The works of Nathaniel Lardner, vol. 5 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel05lard` |
+| The works of Nathaniel Lardner, vol. 6 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel06lard` |
+| The works of Nathaniel Lardner, vol. 7 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel07lard` |
+| The works of Nathaniel Lardner, vol. 8 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel08lard` |
+| The works of Nathaniel Lardner, vol. 9 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel09lard` |
+| The works of Nathaniel Lardner, vol. 10 (London : Westley & Davis, 1835) | have-ocr | IA `worksofnathaniel10lard` |
+| The 1788 eleven-volume Works (ECCO scans), the 1815 five-volume quarto, the 1829 and 1838 ten-volume sets | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
