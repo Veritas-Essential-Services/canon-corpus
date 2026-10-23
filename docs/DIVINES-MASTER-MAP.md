@@ -10784,6 +10784,16 @@ Slugs `orton-*`. Built from title pages read for round 46.
 | A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 5 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi05orto` |
 | A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 6 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi06orto` |
 | The 1805 and 1822 Expositions; separate Discourses to the Aged, Sacramental Meditations, Religious Exercises (in the Practical Works); Memoirs of Doddridge (1766) | alternate | not shelved |
+
+## Moses Lowman (round 46, my pick, 2026-10-22)
+
+Slugs `lowman-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| A paraphrase and notes on the Revelation of St. John (London : Printed for John Noon ..., 1745) | have-ocr | IA `paraphrasenoteso00lowm` |
+| A Dissertation on the Civil Government of the Hebrews (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_a-dissertation-on-the-ci_lowman-moses_1740` |
+| A Rational of the Ritual of the Hebrew Worship (London, catalogued 1748) | have-ocr | IA `bim_eighteenth-century_a-rational-of-the-ritual_lowman-moses_1748` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
