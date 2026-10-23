@@ -2690,3 +2690,6 @@
 
 ## 2026-10-22 23:23 CDT — hubback: done
 - hubback: new shelf, 5 Gutenberg books, 10,803 units, 1762 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:23 CDT — william-hope-hodgson: done
+- william-hope-hodgson: new shelf, 5 Gutenberg books, 6,021 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.

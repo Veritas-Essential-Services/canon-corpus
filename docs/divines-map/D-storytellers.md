@@ -18691,3 +18691,15 @@ Shelf: `pipeline/hubback_shelf.json` (2026-10-22; added at the coordinator's rel
 | The Younger Sister: A Novel, Vol. III. | have | PG 54012, `hubback-younger-sister-54012` (1674 units) |
 | The Younger Sister: A Novel, Volumes 1-3 | have | PG 54066, `hubback-younger-sister-54066` (4052 units) |
 | The old vicarage | have | PG 70732, `hubback-old-vicarage` (2687 units) |
+
+## William Hope Hodgson
+
+Shelf: `pipeline/william-hope-hodgson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House on the Borderland | have | PG 10002, `whhodgson-house-on-the-borderland` (749 units) |
+| The Boats of the "Glen Carrig" Being an account of their Adventures in the Strange places of the Earth, after the foundering of the good ship Glen Carrig through striking upon a hidden rock in the unknown seas to the Southward; as told by John Winterstraw, Gent., to his son James Winterstraw, in the year 1757, and by him committed very properly and legibly to manuscript | have | PG 10542, `whhodgson-boats-of-the-glen-carrig-being-an-account-of-their` (447 units) |
+| The Night Land | have | PG 10662, `whhodgson-night-land` (2283 units) |
+| Carnacki, the Ghost Finder | have | PG 10832, `whhodgson-carnacki-the-ghost-finder` (742 units) |
+| The Ghost Pirates | have | PG 10966, `whhodgson-ghost-pirates` (1800 units) |
